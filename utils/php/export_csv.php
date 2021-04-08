@@ -16,7 +16,7 @@ $result = $mysqli->query($sql);
 echo "Creating higher taxa file.\n";
 echo "Total rows: " . $result->num_rows . "\n";
 
-$out = fopen('../../data/names/_higher_names.csv', 'w');
+$out = fopen('../../data/names/higher_names.csv', 'w');
 
 fputcsv($out, $fields); // header row
 
