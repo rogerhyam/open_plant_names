@@ -1,4 +1,4 @@
-CREATE TABLE `names` (
+CREATE TABLE `__TABLE_NAME__` (
   `id` char(36) NOT NULL,
   `rank` enum('phylum','order','family','section','genus','subgenus','species','subspecies','variety','form') NOT NULL,
   `name` varchar(100) NOT NULL COMMENT 'The single word that is the botanical name\n',
@@ -7,7 +7,7 @@ CREATE TABLE `names` (
   `authors` varchar(250) DEFAULT NULL COMMENT 'The author string for the name following standard author abbreviations\\n',
   `year` int DEFAULT NULL COMMENT 'Year of publication\n',
   `citation_micro` varchar(250) DEFAULT NULL,
-  `citation_full` varchar(45) DEFAULT NULL,
+  `citation_full` varchar(1000) DEFAULT NULL,
   `citation_id` varchar(45) DEFAULT NULL,
   `publication_id` varchar(45) DEFAULT NULL,
   `basionym_id` char(36) DEFAULT NULL,

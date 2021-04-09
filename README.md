@@ -26,7 +26,7 @@ The data is a series of CSV files. This allows us to do diffs and merges to inco
 For bigger projects it is assumed that utilities will be used to import/export the data structure to SQL or other non-relational databases for editing but it should be
 equally possible to clone the repo, edit the files with a text editor or spreadsheet, and issue a pull request to make a contributions.
 
-For small projects (individual taxonomists) they should be able to just download a file, edit it and submit it by email [Roger Hyam](mailto:rhyam@rbge.org.uk)
+For small projects (individual taxonomists) they should be able to just download a file, edit it and submit it by email to [Roger Hyam](mailto:rhyam@rbge.org.uk)
 
 Utilities will be used to unit test different aspects of the data and then acceptance test the whole dataset before it is versioned.
 

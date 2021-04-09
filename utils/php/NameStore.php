@@ -6,6 +6,12 @@
  */
 class NameStore{
 
+    private string $table;
+
+    public function __construct($table_name = 'names'){
+        $this->table = $table_name;
+    }
+
     /*
         This abstracts the saving of data to the database.
         Simply create an assoc array of field values and call put
@@ -22,17 +28,18 @@ class NameStore{
         
         // try and get the current row
         if($new_data['id']){
-            $result = $mysqli->query("SELECT * FROM `names` WHERE `id` = '{$new_data['id']}'");
+            $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
             }
             $result->close();
         }
 
+
         // not managed it from the id so try and get it
         // from the wfo_id
         if(!$current_data && $new_data['wfo_id']){
-            $result = $mysqli->query("SELECT * FROM `names` WHERE `id` = '{$new_data['wfo_id']}'");
+            $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['wfo_id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
             }elseif($result->num_rows > 1){
@@ -45,7 +52,7 @@ class NameStore{
         
         // still not got it so try and load it from the gbif_id
         if(!$current_data && $new_data['gbif_id']){
-            $result = $mysqli->query("SELECT * FROM `names` WHERE `id` = '{$new_data['gbif_id']}'");
+            $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['gbif_id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
             }elseif($result->num_rows > 1){
@@ -64,7 +71,7 @@ class NameStore{
 
         $combined_data = $this->merge($current_data, $new_data);
 
-        if($combined_data['id']){
+        if($current_data['id']){
             return $this->update($combined_data);
         }else{
             return $this->insert($combined_data);
@@ -77,7 +84,7 @@ class NameStore{
         global $mysqli;
 
         $stmt = $mysqli->prepare(
-            "UPDATE `names`
+            "UPDATE `{$this->table}`
                 SET
                     `rank` = ?,
                     `name` = ?,
@@ -98,7 +105,8 @@ class NameStore{
                     `id` = ?;        
         ");
         $stmt->bind_param(
-            'ssssssssssssssss',
+            'sssssissssssssss',
+            $data['rank'],
             $data['name'],
             $data['genus'],
             $data['species'],
@@ -131,7 +139,7 @@ class NameStore{
 
         global $mysqli;
         $stmt = $mysqli->prepare(
-            "INSERT INTO `names`
+            "INSERT INTO `{$this->table}`
             (
                 `id`,
                 `rank`,
@@ -154,7 +162,8 @@ class NameStore{
             );"
         );
         $stmt->bind_param(
-            'sssssssssssssss',
+            'sssssisssssssss',
+            $data['rank'],
             $data['name'],
             $data['genus'],
             $data['species'],
@@ -186,7 +195,7 @@ class NameStore{
 
         $overwrite = isset($new_data['overwrite']) && $new_data['overwrite'] ? true : false;
 
-        $merged_data = array();
+        $merged = array();
         
         foreach($current_data as $key => $current_val){
 
@@ -212,27 +221,27 @@ class NameStore{
         
         }
 
-        return $merged_data;
+        return $merged;
     }
 
     private function getBlankRecord(){
         return array(
-            `id` => null,
-            `rank` => null,
-            `name` => null,
-            `genus` => null,
-            `species` => null,
-            `authors` => null,
-            `year` => null,
-            `citation_micro` => null,
-            `citation_full` => null,
-            `citation_id` => null,
-            `publication_id` => null,
-            `basionym_id` => null,
-            `ipni_id` => null,
-            `wfo_id` => null,
-            `gbif_id` => null,
-            `note` => null
+            'id' => null,
+            'rank' => null,
+            'name' => null,
+            'genus' => null,
+            'species' => null,
+            'authors' => null,
+            'year' => null,
+            'citation_micro' => null,
+            'citation_full' => null,
+            'citation_id' => null,
+            'publication_id' => null,
+            'basionym_id' => null,
+            'ipni_id' => null,
+            'wfo_id' => null,
+            'gbif_id' => null,
+            'note' => null
         );
     }
 
