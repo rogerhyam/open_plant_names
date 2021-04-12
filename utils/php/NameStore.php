@@ -27,7 +27,7 @@ class NameStore{
         $current_data = null;
         
         // try and get the current row
-        if($new_data['id']){
+        if(isset($new_data['id']) && $new_data['id']){
             $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
@@ -38,7 +38,7 @@ class NameStore{
 
         // not managed it from the id so try and get it
         // from the wfo_id
-        if(!$current_data && $new_data['wfo_id']){
+        if(!$current_data && isset($new_data['wfo_id']) && $new_data['wfo_id']){
             $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['wfo_id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
@@ -51,7 +51,7 @@ class NameStore{
         }
         
         // still not got it so try and load it from the gbif_id
-        if(!$current_data && $new_data['gbif_id']){
+        if(!$current_data && isset($new_data['gbif_id']) && $new_data['gbif_id']){
             $result = $mysqli->query("SELECT * FROM `{$this->table}` WHERE `id` = '{$new_data['gbif_id']}'");
             if($result->num_rows == 1){
                 $current_data = $result->fetch_assoc();
