@@ -16,7 +16,7 @@ There are currently 1.7m names in 40k files.
 1. **Just names** - The facts that govern how the rules of nomenclature are applied are universal and can therefore be the subject of a single authority file we all share. Whether a name is the accepted name of a taxon or not is a matter of taxonomic opinion and varies between experts. This repository is just about nomenclature. You won't find what the accepted name for a species here.
 1. **All plant names** - Other nomenclators have tended to focus on major groups; vascular plants, bryophytes or fungi. Here we cover the names governed by ICBN (i.e. within the ICBN 'namespace'). This is the only way to track homonyms effectively. We really are taxonomy agnostic.
 1. **Links not data** - Keeping short strings (like citations) and links to full resources. Never the full data.
-1. **Open to read AND write** - Not only is the data licensed as CC-0 but the ability to fork on GitHub and to issue Pull requests for your improvements to be incorporated into the head make this truly open. Or, if you don't like the way it is being to managed, you are free to fork permanently and start your own project.
+1. **Open to read AND write** - Not only is the data licensed as CC-0 but the ability to be added as a contributor or fork on GitHub and to issue Pull requests for your improvements make this truly open. Or, if you don't like the way it is being to managed, you are free to fork it permanently and start your own project.
 1. **Easy to edit** - Excel/OpenOffice for small edits.
 1. **Wikidata** as a default authority file for other data (e.g dead people, places & things).
 1. Zenodo for archiving of releases with a **DOI**.
