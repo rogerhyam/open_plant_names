@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55f1e44-8fd1-11eb-924d-9cd76263cbd0,genus,Kinabaluchloa,,,K.M.Wong,1993,"Kew Bull. 48(3): 523. 1993.",,,,,973125-1,wfo-4000020005,4124714,
-567e59d2-8fcd-11eb-924d-9cd76263cbd0,species,nebulosa,Kinabaluchloa,,K.M.Wong,1993,"Kew Bull. 48: 526 1993",,,,,973127-1,wfo-0000876712,4124722,
-567e7b56-8fcd-11eb-924d-9cd76263cbd0,species,wrayi,Kinabaluchloa,,"(Stapf) K.M.Wong",1993,"Kew Bull. 48: 524 1993",,,,4bd09bda-8fcd-11eb-924d-9cd76263cbd0,973126-1,wfo-0000876713,4124713,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55f1e44-8fd1-11eb-924d-9cd76263cbd0,genus,Kinabaluchloa,,,K.M.Wong,,1993,,"Kew Bull. 48(3): 523. 1993.",,Q55786811,,,,973125-1,wfo-4000020005,4124714,,
+567e59d2-8fcd-11eb-924d-9cd76263cbd0,species,nebulosa,Kinabaluchloa,,K.M.Wong,,1993,,"Kew Bull. 48: 526 1993",,Q55786811,,,,973127-1,wfo-0000876712,4124722,,
+567e7b56-8fcd-11eb-924d-9cd76263cbd0,species,wrayi,Kinabaluchloa,,"(Stapf) K.M.Wong",,1993,,"Kew Bull. 48: 524 1993",,Q55786811,,4bd09bda-8fcd-11eb-924d-9cd76263cbd0,,973126-1,wfo-0000876713,4124713,,

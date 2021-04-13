@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2329cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Crossostemma,,,"Planch. ex Benth.",1849,"Niger Fl. 364. 1849.",,,,,31748-1,wfo-4000009777,7313386,
-ad735900-8fd1-11eb-924d-9cd76263cbd0,species,laurifolia,Crossostemma,,"Planch. ex Benth.",1849,"Niger Fl. 364 1849",,,,,,wfo-0001219929,,
-d694604a-8fcc-11eb-924d-9cd76263cbd0,species,laurifolium,Crossostemma,,"Planch. ex Benth.",1849,"Niger Fl. 375 1849",,,,,674358-1,wfo-0000626491,3586872,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2329cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Crossostemma,,,"Planch. ex Benth.",,1849,,"Niger Fl. 364. 1849.",,,,,,31748-1,wfo-4000009777,7313386,,
+ad735900-8fd1-11eb-924d-9cd76263cbd0,species,laurifolia,Crossostemma,,"Planch. ex Benth.",,1849,,"Niger Fl. 364 1849",,,,,,,wfo-0001219929,,,
+d694604a-8fcc-11eb-924d-9cd76263cbd0,species,laurifolium,Crossostemma,,"Planch. ex Benth.",,1849,,"Niger Fl. 375 1849",,,,,,674358-1,wfo-0000626491,3586872,,

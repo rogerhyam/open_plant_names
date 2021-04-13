@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfbe20c0-8fd1-11eb-924d-9cd76263cbd0,genus,Aristocapsa,,,"Reveal & Hardham",1989,"Phytologia 66(2): 84–85. 1989.",,,,,925203-1,wfo-4000003058,2889065,
-a58557fc-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Aristocapsa,,"(Curran) Reveal & Hardham",1989,"Phytologia 66: 84 1989",,,,c8e89b1e-8fcc-11eb-924d-9cd76263cbd0,946805-1,wfo-0000547495,2889066,
-a5859b40-8fcc-11eb-924d-9cd76263cbd0,species,esculenta,Aristoclesia,,"(Arruda) Stuntz",1912,"Bull. Bur. Pl. Industr. U.S.D.A. 248: 58 1912",,,,35a98868-8fcc-11eb-924d-9cd76263cbd0,19387-2,wfo-0000547496,3189442,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfbe20c0-8fd1-11eb-924d-9cd76263cbd0,genus,Aristocapsa,,,"Reveal & Hardham",,1989,,"Phytologia 66(2): 84–85. 1989.",,,,,,925203-1,wfo-4000003058,2889065,,
+a58557fc-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Aristocapsa,,"(Curran) Reveal & Hardham",,1989,,"Phytologia 66: 84 1989",,,,c8e89b1e-8fcc-11eb-924d-9cd76263cbd0,,946805-1,wfo-0000547495,2889066,,
+a5859b40-8fcc-11eb-924d-9cd76263cbd0,species,esculenta,Aristoclesia,,"(Arruda) Stuntz",,1912,,"Bull. Bur. Pl. Industr. U.S.D.A. 248: 58 1912",,,,35a98868-8fcc-11eb-924d-9cd76263cbd0,,19387-2,wfo-0000547496,3189442,,

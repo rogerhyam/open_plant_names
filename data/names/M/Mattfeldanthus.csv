@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e66d3690-8fd1-11eb-924d-9cd76263cbd0,genus,Mattfeldanthus,,,"H.Rob. & R.M.King",,,,,,,298631-2,wfo-4000023334,3112443,
-58c6738c-8fb4-11eb-924d-9cd76263cbd0,species,andrade-limae,Mattfeldanthus,,"(G.M.Barroso) Dematt.",2003,"Taxon 52(2): 284 (2003).",,,,075cfb2e-8fb9-11eb-924d-9cd76263cbd0,,wfo-0000063675,3112445,
-1c36865c-8fb2-11eb-924d-9cd76263cbd0,species,mutisioides,Mattfeldanthus,,"H.Rob. & R.M.King",1979,"10 1979",,,,,154742-2,wfo-0000011729,3112444,
-319efad8-8fb2-11eb-924d-9cd76263cbd0,species,nobilis,Mattfeldanthus,,"(H.Rob.) H.Rob.",1980,"166 1980",,,,228aa834-8fb3-11eb-924d-9cd76263cbd0,154743-2,wfo-0000015367,3112447,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e66d3690-8fd1-11eb-924d-9cd76263cbd0,genus,Mattfeldanthus,,,"H.Rob. & R.M.King",,,,,,,,,,298631-2,wfo-4000023334,3112443,,
+58c6738c-8fb4-11eb-924d-9cd76263cbd0,species,andrade-limae,Mattfeldanthus,,"(G.M.Barroso) Dematt.",,2003,,"Taxon 52(2): 284 (2003).",,,,075cfb2e-8fb9-11eb-924d-9cd76263cbd0,,,wfo-0000063675,3112445,,
+1c36865c-8fb2-11eb-924d-9cd76263cbd0,species,mutisioides,Mattfeldanthus,,"H.Rob. & R.M.King",,1979,,"10 1979",,,,,,154742-2,wfo-0000011729,3112444,,
+319efad8-8fb2-11eb-924d-9cd76263cbd0,species,nobilis,Mattfeldanthus,,"(H.Rob.) H.Rob.",,1980,,"166 1980",,,,228aa834-8fb3-11eb-924d-9cd76263cbd0,,154743-2,wfo-0000015367,3112447,,

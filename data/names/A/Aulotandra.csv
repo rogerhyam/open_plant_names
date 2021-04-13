@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff22c1c-8fd1-11eb-924d-9cd76263cbd0,genus,Aulotandra,,,Gagnep.,1901,"Bull. Soc. Bot. France 48(Sess. Extraord.): 79. 1901[1902].",,,,,41663-1,wfo-4000003689,2759820,
-1f3e9442-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Aulotandra,,H.Perrier,1939,"Bull. Soc. Bot. France 86: 178 1939",,,,,872180-1,wfo-0000340865,2759829,
-1f3ec0ca-8fcc-11eb-924d-9cd76263cbd0,species,humbertii,Aulotandra,,H.Perrier,1939,"Bull. Soc. Bot. France 86: 180 1939",,,,,872181-1,wfo-0000340866,2759827,
-1f3ef0cc-8fcc-11eb-924d-9cd76263cbd0,species,kamerunensis,Aulotandra,,Loes.,1909,"Bot. Jahrb. Syst. 43: 389 1909",,,,,872182-1,wfo-0000340867,2759821,
-1f3f3e2e-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Aulotandra,,Gagnep.,1902,"Bull. Soc. Bot. France 48: 79 1902",,,,,872183-1,wfo-0000340868,2759828,
-1f3f6cc8-8fcc-11eb-924d-9cd76263cbd0,species,trialata,Aulotandra,,H.Perrier,1939,"Bull. Soc. Bot. France 86: 181 1939",,,,,872184-1,wfo-0000340869,2759826,
-1f3f8ec4-8fcc-11eb-924d-9cd76263cbd0,species,trigonocarpa,Aulotandra,,H.Perrier,1939,"Bull. Soc. Bot. France 86: 179 1939",,,,,872185-1,wfo-0000340870,2759822,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff22c1c-8fd1-11eb-924d-9cd76263cbd0,genus,Aulotandra,,,Gagnep.,,1901,,"Bull. Soc. Bot. France 48(Sess. Extraord.): 79. 1901[1902].",,,,,,41663-1,wfo-4000003689,2759820,,
+1f3e9442-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Aulotandra,,H.Perrier,,1939,,"Bull. Soc. Bot. France 86: 178 1939",,Q55757394,,,,872180-1,wfo-0000340865,2759829,,
+1f3ec0ca-8fcc-11eb-924d-9cd76263cbd0,species,humbertii,Aulotandra,,H.Perrier,,1939,,"Bull. Soc. Bot. France 86: 180 1939",,Q55757394,,,,872181-1,wfo-0000340866,2759827,,
+1f3ef0cc-8fcc-11eb-924d-9cd76263cbd0,species,kamerunensis,Aulotandra,,Loes.,,1909,,"Bot. Jahrb. Syst. 43: 389 1909",,,,,,872182-1,wfo-0000340867,2759821,,
+1f3f3e2e-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Aulotandra,,Gagnep.,,1902,,"Bull. Soc. Bot. France 48: 79 1902",,,,,,872183-1,wfo-0000340868,2759828,,
+1f3f6cc8-8fcc-11eb-924d-9cd76263cbd0,species,trialata,Aulotandra,,H.Perrier,,1939,,"Bull. Soc. Bot. France 86: 181 1939",,Q55757394,,,,872184-1,wfo-0000340869,2759826,,
+1f3f8ec4-8fcc-11eb-924d-9cd76263cbd0,species,trigonocarpa,Aulotandra,,H.Perrier,,1939,,"Bull. Soc. Bot. France 86: 179 1939",,Q55757394,,,,872185-1,wfo-0000340870,2759822,,

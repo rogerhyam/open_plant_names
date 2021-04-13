@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2d0f3f0-8fd1-11eb-924d-9cd76263cbd0,genus,Dioncophyllum,,,Baill.,1890,"Bull. Mens. Soc. Linn. Paris 2: 870. 1890.",,,,,4323-1,wfo-4000011832,7303806,
-e29dde48-8fcc-11eb-924d-9cd76263cbd0,species,dawei,Dioncophyllum,,"Hutch. & Dalziel",1927,"Fl. W. Trop. Afr. 1: 165 1927",,,,,365298-1,wfo-0000648030,4161363,
-e29dfb58-8fcc-11eb-924d-9cd76263cbd0,species,peltatum,Dioncophyllum,,"Hutch. & Dalziel",1927,"Fl. W. Trop. Afr. 1: 165 1927",,,,,365299-1,wfo-0000648031,4161361,
-e29e185e-8fcc-11eb-924d-9cd76263cbd0,species,thollonii,Dioncophyllum,,Baill.,1890,"Bull. Mens. Soc. Linn. Paris 2: 870 1890",,,,,111557-1,wfo-0000648032,4161357,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2d0f3f0-8fd1-11eb-924d-9cd76263cbd0,genus,Dioncophyllum,,,Baill.,,1890,,"Bull. Mens. Soc. Linn. Paris 2: 870. 1890.",,,,,,4323-1,wfo-4000011832,7303806,,
+e29dde48-8fcc-11eb-924d-9cd76263cbd0,species,dawei,Dioncophyllum,,"Hutch. & Dalziel",,1927,,"Fl. W. Trop. Afr. 1: 165 1927",,,,,,365298-1,wfo-0000648030,4161363,,
+e29dfb58-8fcc-11eb-924d-9cd76263cbd0,species,peltatum,Dioncophyllum,,"Hutch. & Dalziel",,1927,,"Fl. W. Trop. Afr. 1: 165 1927",,,,,,365299-1,wfo-0000648031,4161361,,
+e29e185e-8fcc-11eb-924d-9cd76263cbd0,species,thollonii,Dioncophyllum,,Baill.,,1890,,"Bull. Mens. Soc. Linn. Paris 2: 870 1890",,,,,,111557-1,wfo-0000648032,4161357,,

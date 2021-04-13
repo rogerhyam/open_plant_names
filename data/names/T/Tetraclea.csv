@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb318938-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraclea,,,A.Gray,1853,"Amer. J. Sci. Arts, ser. 2 16(46): 98. 1853. (Jul 1853)",,,,,21260-1,wfo-4000037865,2925439,
-145c2850-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Tetraclea,,"Wooton & Standl.",1913,"Contr. U. S. Natl. Herb. 16: 170 1913",,,,,251589-2,wfo-0000321540,3899361,
-145c50a0-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Tetraclea,,A.Gray,1853,"Amer. J. Sci. Arts II, 16: 98 1853",,,,,460178-1,wfo-0000321541,2925440,
-145cb09a-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolia,Tetraclea,coulteri,"(Wooton & Standl.) A.Nelson & J.F.Macbr.",1916,"Bot. Gaz. 62: 146 1916",,,,,251591-2,wfo-0000321544,2925442,
-145c72b0-8fcc-11eb-924d-9cd76263cbd0,form,angustifolia,Tetraclea,coulteri,"(Wooton & Standl.) Moldenke",1979,"Phytologia 44: 328 1979",,,,,251590-2,wfo-0000321542,6411914,
-145ccde6-8fcc-11eb-924d-9cd76263cbd0,variety,subinclusa,Tetraclea,coulteri,"(I.M.Johnst.) Moldenke",1978,"Phytologia 38: 499 1978",,,,145ceb96-8fcc-11eb-924d-9cd76263cbd0,251592-2,wfo-0000321545,3899306,
-145ceb96-8fcc-11eb-924d-9cd76263cbd0,species,subinclusa,Tetraclea,,I.M.Johnst.,1950,"J. Arnold Arbor. 31: 192 1950",,,,,251593-2,wfo-0000321546,3899293,
-145d075c-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Tetraclea,,Lundell,1943,"Amer. Midl. Naturalist 29: 489 1943",,,,,251594-2,wfo-0000321547,2927170,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb318938-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraclea,,,A.Gray,,1853,,"Amer. J. Sci. Arts, ser. 2 16(46): 98. 1853. (Jul 1853)",,,,,,21260-1,wfo-4000037865,2925439,,
+145c2850-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Tetraclea,,"Wooton & Standl.",,1913,,"Contr. U. S. Natl. Herb. 16: 170 1913",,,,,,251589-2,wfo-0000321540,3899361,,
+145c50a0-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Tetraclea,,A.Gray,,1853,,"Amer. J. Sci. Arts II, 16: 98 1853",,,,,,460178-1,wfo-0000321541,2925440,,
+145c72b0-8fcc-11eb-924d-9cd76263cbd0,form,angustifolia,Tetraclea,coulteri,"(Wooton & Standl.) Moldenke",,1979,,"Phytologia 44: 328 1979",,,,,,251590-2,wfo-0000321542,6411914,,
+145cb09a-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolia,Tetraclea,coulteri,"(Wooton & Standl.) A.Nelson & J.F.Macbr.",,1916,,"Bot. Gaz. 62: 146 1916",,Q55758666,,,,251591-2,wfo-0000321544,2925442,,
+145ccde6-8fcc-11eb-924d-9cd76263cbd0,variety,subinclusa,Tetraclea,coulteri,"(I.M.Johnst.) Moldenke",,1978,,"Phytologia 38: 499 1978",,,,145ceb96-8fcc-11eb-924d-9cd76263cbd0,,251592-2,wfo-0000321545,3899306,,
+145ceb96-8fcc-11eb-924d-9cd76263cbd0,species,subinclusa,Tetraclea,,I.M.Johnst.,,1950,,"J. Arnold Arbor. 31: 192 1950",,Q100550510,,,,251593-2,wfo-0000321546,3899293,,
+145d075c-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Tetraclea,,Lundell,,1943,,"Amer. Midl. Naturalist 29: 489 1943",,Q55765618,,,,251594-2,wfo-0000321547,2927170,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e401f3be-8fd1-11eb-924d-9cd76263cbd0,genus,Gilruthia,,,Ewart,,,,,,,9052-1,wfo-4000015656,3095511,
-62f4a8fc-8fb3-11eb-924d-9cd76263cbd0,species,osbornii,Gilruthia,,"Ewart & Jean White",1909,"14 1909",,,,,209001-1,wfo-0000047283,3095512,
-023b187e-8fcd-11eb-924d-9cd76263cbd0,species,calamansanay,Gimbernatea,,Blanco,1845,"Fl. Filip., ed. 2 266 1845",,,,,,wfo-0000703227,7800997,
-023b3444-8fcd-11eb-924d-9cd76263cbd0,species,oblonga,Gimbernatea,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 275 1798",,,,,,wfo-0000703228,3699946,
-023b53e8-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Gimbernatea,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 274 1798",,,,,,wfo-0000703229,7857018,
-b0d98c40-8fd1-11eb-924d-9cd76263cbd0,species,amazonia,Gimbernatia,,"Ruiz & Pav.",1794,"Fl. Peruv. Prodr. 138 1794",,,,,,wfo-0001226154,7485237,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e401f3be-8fd1-11eb-924d-9cd76263cbd0,genus,Gilruthia,,,Ewart,,,,,,,,,,9052-1,wfo-4000015656,3095511,,
+62f4a8fc-8fb3-11eb-924d-9cd76263cbd0,species,osbornii,Gilruthia,,"Ewart & Jean White",,1909,,"14 1909",,,,,,209001-1,wfo-0000047283,3095512,,
+023b187e-8fcd-11eb-924d-9cd76263cbd0,species,calamansanay,Gimbernatea,,Blanco,,1845,,"Fl. Filip., ed. 2 266 1845",,,,,,,wfo-0000703227,7800997,,
+023b3444-8fcd-11eb-924d-9cd76263cbd0,species,oblonga,Gimbernatea,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 275 1798",,,,,,,wfo-0000703228,3699946,,
+023b53e8-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Gimbernatea,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 274 1798",,,,,,,wfo-0000703229,7857018,,
+b0d98c40-8fd1-11eb-924d-9cd76263cbd0,species,amazonia,Gimbernatia,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 138 1794",,,,,,,wfo-0001226154,7485237,,

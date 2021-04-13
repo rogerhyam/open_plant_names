@@ -1,9 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0149ed2-8fd1-11eb-924d-9cd76263cbd0,genus,Barklya,,,F.Muell.,,,,,,,21784-1,wfo-4000004094,2955817,
-7afc0c04-8fc4-11eb-924d-9cd76263cbd0,species,syringifolia,Barklya,,F.Muell.,,,,,,,,wfo-0000188297,2955818,
-32ed3da8-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) J.M.H.Shaw",,"Orchid Rev. Suppl. 113(1264): 20 2005",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,77066957-1,wfo-0000800142,,
-70b989de-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) P.Delforge",2009,"Naturalistes Belges 90: 34 2009",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,77103245-1,wfo-0000914485,,
-ed2fca02-8fcb-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) E.G.Camus",1892,"J. Bot. (Morot) 6: 33 1892",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,648186-1,wfo-0000260190,,
-7631bd00-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(E.G.Camus) P.Delforge",2010,"Naturalistes Belges 91: 246 2010",,,,,77110959-1,wfo-0000922546,,
-70243f14-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(E.G.Camus) P.Delforge",2009,"Naturalistes Belges 90: 34 2009",,,,,77103235-1,wfo-0000913874,,
-1175fa80-8fcc-11eb-924d-9cd76263cbd0,species,calcarata,Barlaea,,"(Thouars) Rchb.f.",1876,"Linnaea 41: 54 1876",,,,8afc81e8-8fcd-11eb-924d-9cd76263cbd0,617401-1,wfo-0000317658,5305388,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0149ed2-8fd1-11eb-924d-9cd76263cbd0,genus,Barklya,,,F.Muell.,,,,,,,,,,21784-1,wfo-4000004094,2955817,,
+7afc0c04-8fc4-11eb-924d-9cd76263cbd0,species,syringifolia,Barklya,,F.Muell.,,,,,,,,,,,wfo-0000188297,2955818,,
+ed2fca02-8fcb-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) E.G.Camus",,1892,,"J. Bot. (Morot) 6: 33 1892",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,,648186-1,wfo-0000260190,,,
+70243f14-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(E.G.Camus) P.Delforge",,2009,,"Naturalistes Belges 90: 34 2009",,,,,,77103235-1,wfo-0000913874,,,
+32ed3da8-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) J.M.H.Shaw",,,,"Orchid Rev. Suppl. 113(1264): 20 2005",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,,77066957-1,wfo-0000800142,,,
+7631bd00-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(E.G.Camus) P.Delforge",,2010,,"Naturalistes Belges 91: 246 2010",,,,,,77110959-1,wfo-0000922546,,,
+70b989de-8fcd-11eb-924d-9cd76263cbd0,species,barlae,,,"(K.Richt.) P.Delforge",,2009,,"Naturalistes Belges 90: 34 2009",,,,0c31e66a-8fcc-11eb-924d-9cd76263cbd0,,77103245-1,wfo-0000914485,,,

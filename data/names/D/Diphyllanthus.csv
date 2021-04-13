@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2d6390a-8fd1-11eb-924d-9cd76263cbd0,genus,Diphyllanthus,,,Tiegh.,1902,"J. Bot. (Morot.) 16: 199. 1902.",,,,,,wfo-4000011905,7326729,
-e3d2d444-8fcc-11eb-924d-9cd76263cbd0,species,corymbosus,Diphyllanthus,,"(Engl.) Tiegh.",1902,"J. Bot. (Morot) 16: 199 1902",,,,,606003-1,wfo-0000650058,3695490,
-e3d2f08c-8fcc-11eb-924d-9cd76263cbd0,species,duparquetianus,Diphyllanthus,,"(Baill.) Tiegh.",1902,"J. Bot. (Morot) 16: 200 1902",,,,d145aba8-8fcc-11eb-924d-9cd76263cbd0,606004-1,wfo-0000650059,3695477,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2d6390a-8fd1-11eb-924d-9cd76263cbd0,genus,Diphyllanthus,,,Tiegh.,,1902,,"J. Bot. (Morot.) 16: 199. 1902.",,,,,,,wfo-4000011905,7326729,,
+e3d2d444-8fcc-11eb-924d-9cd76263cbd0,species,corymbosus,Diphyllanthus,,"(Engl.) Tiegh.",,1902,,"J. Bot. (Morot) 16: 199 1902",,,,,,606003-1,wfo-0000650058,3695490,,
+e3d2f08c-8fcc-11eb-924d-9cd76263cbd0,species,duparquetianus,Diphyllanthus,,"(Baill.) Tiegh.",,1902,,"J. Bot. (Morot) 16: 200 1902",,,,d145aba8-8fcc-11eb-924d-9cd76263cbd0,,606004-1,wfo-0000650059,3695477,,

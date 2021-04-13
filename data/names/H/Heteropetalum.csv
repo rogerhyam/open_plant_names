@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4b18a4a-8fd1-11eb-924d-9cd76263cbd0,genus,Heteropetalum,,,Benth.,1861,"J. Proc. Linn. Soc., Bot. 5: 69. 1861.",,,,,,wfo-4000017746,3156161,
-0d0322b0-8fcd-11eb-924d-9cd76263cbd0,species,brasiliense,Heteropetalum,,Benth.,1861,"J. Proc. Linn. Soc., Bot. 5: 69 1861",,,,,73700-1,wfo-0000721337,3156162,
-0d0340ce-8fcd-11eb-924d-9cd76263cbd0,species,spruceanum,Heteropetalum,,R.E.Fr.,1930,"Acta Horti Berg. 10: 75 1930",,,,,121089-2,wfo-0000721338,3156164,
-0d035e1a-8fcd-11eb-924d-9cd76263cbd0,variety,longipetalum,Heteropetalum,spruceanum,R.E.Fr.,1957,"Mem. New York Bot. Gard. 9: 330 1957",,,,,121090-2,wfo-0000721339,3156163,
-d48f40f2-8fcd-11eb-924d-9cd76263cbd0,species,grandifolium,Heterophlebium,,"(L.) Fée",1852,"Mem. Foug., Gen. Filic. 5: 140, t. 11A, f. 9–12 1852",,,,,,wfo-0001125057,3915604,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4b18a4a-8fd1-11eb-924d-9cd76263cbd0,genus,Heteropetalum,,,Benth.,,1861,,"J. Proc. Linn. Soc., Bot. 5: 69. 1861.",,,,,,,wfo-4000017746,3156161,,
+0d0322b0-8fcd-11eb-924d-9cd76263cbd0,species,brasiliense,Heteropetalum,,Benth.,,1861,,"J. Proc. Linn. Soc., Bot. 5: 69 1861",,,,,,73700-1,wfo-0000721337,3156162,,
+0d0340ce-8fcd-11eb-924d-9cd76263cbd0,species,spruceanum,Heteropetalum,,R.E.Fr.,,1930,,"Acta Horti Berg. 10: 75 1930",,,,,,121089-2,wfo-0000721338,3156164,,
+0d035e1a-8fcd-11eb-924d-9cd76263cbd0,variety,longipetalum,Heteropetalum,spruceanum,R.E.Fr.,,1957,,"Mem. New York Bot. Gard. 9: 330 1957",,,,,,121090-2,wfo-0000721339,3156163,,
+d48f40f2-8fcd-11eb-924d-9cd76263cbd0,species,grandifolium,Heterophlebium,,"(L.) Fée",,1852,,"Mem. Foug., Gen. Filic. 5: 140, t. 11A, f. 9–12 1852",,,,,,,wfo-0001125057,3915604,,

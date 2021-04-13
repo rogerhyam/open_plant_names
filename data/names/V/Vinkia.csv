@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebf32c3c-8fd1-11eb-924d-9cd76263cbd0,genus,Vinkia,,,"R.van der Meijden",1975,"Blumea 22: 251. 1975.",,,,,,wfo-4000040305,7329683,
-ac781936-8fcd-11eb-924d-9cd76263cbd0,species,callitrichoides,Vinkia,,"(Orchard) Meijden",1975,"Blumea 22 1975",,,,ac78360a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001035669,3709525,
-59115bfa-8fcc-11eb-924d-9cd76263cbd0,species,natans,Vinkia,,Meijden,1975,"Blumea 22: 251 1975",,,,,,wfo-0000422298,3709516,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebf32c3c-8fd1-11eb-924d-9cd76263cbd0,genus,Vinkia,,,"R.van der Meijden",,1975,,"Blumea 22: 251. 1975.",,,,,,,wfo-4000040305,7329683,,
+ac781936-8fcd-11eb-924d-9cd76263cbd0,species,callitrichoides,Vinkia,,"(Orchard) Meijden",,1975,,"Blumea 22 1975",,,,ac78360a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035669,3709525,,
+59115bfa-8fcc-11eb-924d-9cd76263cbd0,species,natans,Vinkia,,Meijden,,1975,,"Blumea 22: 251 1975",,,,,,,wfo-0000422298,3709516,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c02e98-8fd1-11eb-924d-9cd76263cbd0,genus,Fleroya,,,Y.F.Deng,2007,"Taxon 56(1): 247–248. 2007.",,,,,,wfo-4000014852,3847893,
-3718624a-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Fleroya,,"(K.Krause) Y.F.Deng",2007,"Taxon 56: 247 2007",,,,,77077152-1,wfo-0000808678,3847896,
-37187de8-8fcd-11eb-924d-9cd76263cbd0,species,rubrostipulata,Fleroya,,"(K.Schum.) Y.F.Deng",2007,"Taxon 56: 247 2007",,,,2de9e98c-8fcd-11eb-924d-9cd76263cbd0,77077153-1,wfo-0000808679,3847895,
-3718976a-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Fleroya,,"(DC.) Y.F.Deng",2007,"Taxon 56: 247 2007",,,,e69f615c-8fcb-11eb-924d-9cd76263cbd0,77077151-1,wfo-0000808680,3847892,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c02e98-8fd1-11eb-924d-9cd76263cbd0,genus,Fleroya,,,Y.F.Deng,,2007,,"Taxon 56(1): 247–248. 2007.",,,,,,,wfo-4000014852,3847893,,
+3718624a-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Fleroya,,"(K.Krause) Y.F.Deng",,2007,,"Taxon 56: 247 2007",,,,,,77077152-1,wfo-0000808678,3847896,,
+37187de8-8fcd-11eb-924d-9cd76263cbd0,species,rubrostipulata,Fleroya,,"(K.Schum.) Y.F.Deng",,2007,,"Taxon 56: 247 2007",,,,2de9e98c-8fcd-11eb-924d-9cd76263cbd0,,77077153-1,wfo-0000808679,3847895,,
+3718976a-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Fleroya,,"(DC.) Y.F.Deng",,2007,,"Taxon 56: 247 2007",,,,e69f615c-8fcb-11eb-924d-9cd76263cbd0,,77077151-1,wfo-0000808680,3847892,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee2fb30-8fd1-11eb-924d-9cd76263cbd0,genus,Adenorachis,,,"(DC.) Nieuwl.",1915,"Amer. Midl. Naturalist 4(3): 93–94. 1915.",,,,,,wfo-4000000655,3031141,
-93fde462-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Adenorachis,,"(L.) Nieuwl.",1915,"; 1915 94 1915",,,,9e78df0a-8fcd-11eb-924d-9cd76263cbd0,4382-2,wfo-0000985427,3031143,
-93fdfdf8-8fcd-11eb-924d-9cd76263cbd0,species,atropurpurea,Adenorachis,,"(Britton) Nieuwl.",1915,"; 1915 94 1915",,,,a1ac4068-8fcd-11eb-924d-9cd76263cbd0,4383-2,wfo-0000985428,2988546,
-93fe1a18-8fcd-11eb-924d-9cd76263cbd0,species,melanocarpa,Adenorachis,,"(Michx.) Nieuwl.",1915,"; 1915 94 1915",,,,936efa36-8fcd-11eb-924d-9cd76263cbd0,4384-2,wfo-0000985429,3031144,
-93fe3354-8fcd-11eb-924d-9cd76263cbd0,species,nigra,Adenorachis,,"(Medik.) Nieuwl.",1915,"; 1915 277 1915",,,,c9843c2c-8fcc-11eb-924d-9cd76263cbd0,4385-2,wfo-0000985430,8704876,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee2fb30-8fd1-11eb-924d-9cd76263cbd0,genus,Adenorachis,,,"(DC.) Nieuwl.",,1915,,"Amer. Midl. Naturalist 4(3): 93–94. 1915.",,,,,,,wfo-4000000655,3031141,,
+93fde462-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Adenorachis,,"(L.) Nieuwl.",,1915,,"; 1915 94 1915",,Q55773019,,9e78df0a-8fcd-11eb-924d-9cd76263cbd0,,4382-2,wfo-0000985427,3031143,,
+93fdfdf8-8fcd-11eb-924d-9cd76263cbd0,species,atropurpurea,Adenorachis,,"(Britton) Nieuwl.",,1915,,"; 1915 94 1915",,Q55773019,,a1ac4068-8fcd-11eb-924d-9cd76263cbd0,,4383-2,wfo-0000985428,2988546,,
+93fe1a18-8fcd-11eb-924d-9cd76263cbd0,species,melanocarpa,Adenorachis,,"(Michx.) Nieuwl.",,1915,,"; 1915 94 1915",,Q55773019,,936efa36-8fcd-11eb-924d-9cd76263cbd0,,4384-2,wfo-0000985429,3031144,,
+93fe3354-8fcd-11eb-924d-9cd76263cbd0,species,nigra,Adenorachis,,"(Medik.) Nieuwl.",,1915,,"; 1915 277 1915",,Q55773245,,c9843c2c-8fcc-11eb-924d-9cd76263cbd0,,4385-2,wfo-0000985430,8704876,,

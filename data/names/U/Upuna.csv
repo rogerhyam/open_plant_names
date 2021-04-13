@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc96b2c-8fd1-11eb-924d-9cd76263cbd0,genus,Upuna,,,Symington,1941,"Bull. Jard. Bot. Buitenzorg, sér. 3, 17: 88. 1941.",,,,,14408-1,wfo-4000039783,7299039,
-adde93c2-8fcd-11eb-924d-9cd76263cbd0,species,boreensis,Upuna,,Symington,1941,"Bull. Jard. Bot. Buitenzorg, sér. 3, 17: 88 1941",,,,,321540-1,wfo-0001038859,8143816,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc96b2c-8fd1-11eb-924d-9cd76263cbd0,genus,Upuna,,,Symington,,1941,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 17: 88. 1941.",,,,,,14408-1,wfo-4000039783,7299039,,
+adde93c2-8fcd-11eb-924d-9cd76263cbd0,species,boreensis,Upuna,,Symington,,1941,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 17: 88 1941",,,,,,321540-1,wfo-0001038859,8143816,,

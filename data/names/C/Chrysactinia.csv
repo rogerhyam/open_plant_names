@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1af0520-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysactinia,,,A.Gray,,,,,,,8275-1,wfo-4000008165,3151382,
-f0655cb4-8fb2-11eb-924d-9cd76263cbd0,species,acerosa,Chrysactinia,,S.F.Blake,1916,"Proc. Amer. Acad. Arts 51 524 1916",,,,,57522-2,wfo-0000037930,3151383,
-2a62d20e-8fb6-11eb-924d-9cd76263cbd0,species,lehtoae,Chrysactinia,,D.J.Keil,1976,"Madroño 23 374 1976",,,,,193225-1,wfo-0000086413,3151385,
-3375b55a-8fb6-11eb-924d-9cd76263cbd0,species,luzmariae,Chrysactinia,,"Rzed. & Calderón",1998,"61 1998",,,,,315765-2,wfo-0000086818,3151389,
-4da6b0de-8fb9-11eb-924d-9cd76263cbd0,species,mexicana,Chrysactinia,,A.Gray,1849,"93 1849",,,,,,wfo-0000117201,3151386,
-df284796-8fbb-11eb-924d-9cd76263cbd0,species,pinnata,Chrysactinia,,S.Watson,1890,"Proc. Amer. Acad. Arts 25 153 1890",,,,,193227-1,wfo-0000137267,3151388,
-2caadb5a-8fb2-11eb-924d-9cd76263cbd0,species,truncata,Chrysactinia,,S.Watson,1890,"Proc. Amer. Acad. Arts 25 1890",,,,,,wfo-0000014561,3151384,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1af0520-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysactinia,,,A.Gray,,,,,,,,,,8275-1,wfo-4000008165,3151382,,
+f0655cb4-8fb2-11eb-924d-9cd76263cbd0,species,acerosa,Chrysactinia,,S.F.Blake,,1916,,"Proc. Amer. Acad. Arts 51 524 1916",,,,,,57522-2,wfo-0000037930,3151383,,
+2a62d20e-8fb6-11eb-924d-9cd76263cbd0,species,lehtoae,Chrysactinia,,D.J.Keil,,1976,,"Madroño 23 374 1976",,Q93963922,,,,193225-1,wfo-0000086413,3151385,,
+3375b55a-8fb6-11eb-924d-9cd76263cbd0,species,luzmariae,Chrysactinia,,"Rzed. & Calderón",,1998,,"61 1998",,,,,,315765-2,wfo-0000086818,3151389,,
+4da6b0de-8fb9-11eb-924d-9cd76263cbd0,species,mexicana,Chrysactinia,,A.Gray,,1849,,"93 1849",,,,,,,wfo-0000117201,3151386,,
+df284796-8fbb-11eb-924d-9cd76263cbd0,species,pinnata,Chrysactinia,,S.Watson,,1890,,"Proc. Amer. Acad. Arts 25 153 1890",,,,,,193227-1,wfo-0000137267,3151388,,
+2caadb5a-8fb2-11eb-924d-9cd76263cbd0,species,truncata,Chrysactinia,,S.Watson,,1890,,"Proc. Amer. Acad. Arts 25 1890",,,,,,,wfo-0000014561,3151384,,

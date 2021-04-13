@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4729ccc-8fd1-11eb-924d-9cd76263cbd0,genus,Hartwrightia,,,A.Gray,,,,,,,298175-2,wfo-4000016997,7519590,
-3cfaa764-8fb3-11eb-924d-9cd76263cbd0,species,floridana,Hartwrightia,,A.Gray,1888,1888,,,,,,wfo-0000044488,8213627,
-e39ac4ae-8fb4-11eb-924d-9cd76263cbd0,species,floridana,Hartwrightia,,"A.Gray ex S.Watson",1888,"265 1888",,,,,,wfo-0000071212,3137986,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4729ccc-8fd1-11eb-924d-9cd76263cbd0,genus,Hartwrightia,,,A.Gray,,,,,,,,,,298175-2,wfo-4000016997,7519590,,
+3cfaa764-8fb3-11eb-924d-9cd76263cbd0,species,floridana,Hartwrightia,,A.Gray,,1888,,1888,,,,,,,wfo-0000044488,8213627,,
+e39ac4ae-8fb4-11eb-924d-9cd76263cbd0,species,floridana,Hartwrightia,,"A.Gray ex S.Watson",,1888,,"265 1888",,,,,,,wfo-0000071212,3137986,,

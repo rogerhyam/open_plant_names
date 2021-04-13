@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e442f332-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnartocarpus,,,Boerl.,1897,"Icon. Bogor. 1: 73. 1897.",,,,,,wfo-4000016442,7262622,
-07e0c4c2-8fcd-11eb-924d-9cd76263cbd0,species,triandra,Gymnartocarpus,,J.J.Sm.,1922,"Bull. Jard. Bot. Buitenzorg III, 4: 233 1922",,,,,584283-1,wfo-0000712192,3765149,
-07e0e056-8fcd-11eb-924d-9cd76263cbd0,species,venenosa,Gymnartocarpus,,"(Zoll. & Moritzi) Boerl.",1897,"Icon. Bogor. 1: t. 24 1897",,,,,854145-1,wfo-0000712193,3765141,
-07e0fb7c-8fcd-11eb-924d-9cd76263cbd0,species,woodii,Gymnartocarpus,,"(Merr.) Merr.",1921,"Philipp. J. Sci. 18: 52 1921",,,,,584284-1,wfo-0000712194,3765131,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e442f332-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnartocarpus,,,Boerl.,,1897,,"Icon. Bogor. 1: 73. 1897.",,,,,,,wfo-4000016442,7262622,,
+07e0c4c2-8fcd-11eb-924d-9cd76263cbd0,species,triandra,Gymnartocarpus,,J.J.Sm.,,1922,,"Bull. Jard. Bot. Buitenzorg III, 4: 233 1922",,,,,,584283-1,wfo-0000712192,3765149,,
+07e0e056-8fcd-11eb-924d-9cd76263cbd0,species,venenosa,Gymnartocarpus,,"(Zoll. & Moritzi) Boerl.",,1897,,"Icon. Bogor. 1: t. 24 1897",,,,,,854145-1,wfo-0000712193,3765141,,
+07e0fb7c-8fcd-11eb-924d-9cd76263cbd0,species,woodii,Gymnartocarpus,,"(Merr.) Merr.",,1921,,"Philipp. J. Sci. 18: 52 1921",,,,,,584284-1,wfo-0000712194,3765131,,

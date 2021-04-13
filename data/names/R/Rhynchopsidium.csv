@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ad856c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhynchopsidium,,,DC.,,,,,,,10851-1,wfo-4000033141,3098531,
-2a273dd0-8fba-11eb-924d-9cd76263cbd0,species,pedunculatum,Rhynchopsidium,,DC.,,"Prodr. (DC.) 6: 290",,,,,,wfo-0000124512,3098536,
-fe96cddc-8fb1-11eb-924d-9cd76263cbd0,species,pumilum,Rhynchopsidium,,"(L.f.) DC.",,"Prodr. (DC.) 6: 290",,,,6a52b548-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000001755,3098532,
-febeaae6-8fb1-11eb-924d-9cd76263cbd0,species,sessiliflorum,Rhynchopsidium,,"(L.f.) DC.",1836,"in Mem. Soc. Phys. Genev. vii. II. (1836) 283",,,,,,wfo-0000001895,3098539,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ad856c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhynchopsidium,,,DC.,,,,,,,,,,10851-1,wfo-4000033141,3098531,,
+2a273dd0-8fba-11eb-924d-9cd76263cbd0,species,pedunculatum,Rhynchopsidium,,DC.,,,,"Prodr. (DC.) 6: 290",,,,,,,wfo-0000124512,3098536,,
+fe96cddc-8fb1-11eb-924d-9cd76263cbd0,species,pumilum,Rhynchopsidium,,"(L.f.) DC.",,,,"Prodr. (DC.) 6: 290",,,,6a52b548-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000001755,3098532,,
+febeaae6-8fb1-11eb-924d-9cd76263cbd0,species,sessiliflorum,Rhynchopsidium,,"(L.f.) DC.",,1836,,"in Mem. Soc. Phys. Genev. vii. II. (1836) 283",,,,,,,wfo-0000001895,3098539,,

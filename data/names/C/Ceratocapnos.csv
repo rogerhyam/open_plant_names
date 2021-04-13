@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e16aa240-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratocapnos,,,Durieu,1844,"Giorn. Bot. Ital. 1: 336. 1844.",,,,,31635-1,wfo-4000007339,7315226,
-c49b0952-8fcc-11eb-924d-9cd76263cbd0,species,claviculata,Ceratocapnos,,"(L.) Lidén",1984,"Anales Jard. Bot. Madrid 41: 221 1984",,,,fcbe69fa-8fcc-11eb-924d-9cd76263cbd0,913782-1,wfo-0000596336,7315229,
-c49b26d0-8fcc-11eb-924d-9cd76263cbd0,subspecies,picta,Ceratocapnos,claviculata,"(Samp.) Lidén",1984,"Anales Jard. Bot. Madrid 41: 221 1984",,,,d3d5dbe0-8fcc-11eb-924d-9cd76263cbd0,923126-1,wfo-0000596337,3603749,
-c49b4372-8fcc-11eb-924d-9cd76263cbd0,species,heterocarpa,Ceratocapnos,,Durand,1844,"Giorn. Bot. Ital. 1(1): 336 1844",,,,,,wfo-0000596338,10982034,
-c49b5dee-8fcc-11eb-924d-9cd76263cbd0,species,palaestina,Ceratocapnos,,Boiss.,1849,"Diagn. Pl. Orient. 8: 12 1849",,,,,671987-1,wfo-0000596339,3603731,
-c49b7f72-8fcc-11eb-924d-9cd76263cbd0,species,turbinata,Ceratocapnos,,"(DC.) Lidén",1986,"Opera Bot. 88: 38 1986",,,,,943204-1,wfo-0000596340,3603725,
-c49bbb90-8fcc-11eb-924d-9cd76263cbd0,species,umbrosa,Ceratocapnos,,Walp.,1851,"Ann. Bot. Syst. 2: 30 1851",,,,,671988-1,wfo-0000596341,3603717,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e16aa240-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratocapnos,,,Durieu,,1844,,"Giorn. Bot. Ital. 1: 336. 1844.",,,,,,31635-1,wfo-4000007339,7315226,,
+c49b0952-8fcc-11eb-924d-9cd76263cbd0,species,claviculata,Ceratocapnos,,"(L.) Lidén",,1984,,"Anales Jard. Bot. Madrid 41: 221 1984",,,,fcbe69fa-8fcc-11eb-924d-9cd76263cbd0,,913782-1,wfo-0000596336,7315229,,
+c49b26d0-8fcc-11eb-924d-9cd76263cbd0,subspecies,picta,Ceratocapnos,claviculata,"(Samp.) Lidén",,1984,,"Anales Jard. Bot. Madrid 41: 221 1984",,,,d3d5dbe0-8fcc-11eb-924d-9cd76263cbd0,,923126-1,wfo-0000596337,3603749,,
+c49b4372-8fcc-11eb-924d-9cd76263cbd0,species,heterocarpa,Ceratocapnos,,Durand,,1844,,"Giorn. Bot. Ital. 1(1): 336 1844",,,,,,,wfo-0000596338,10982034,,
+c49b5dee-8fcc-11eb-924d-9cd76263cbd0,species,palaestina,Ceratocapnos,,Boiss.,,1849,,"Diagn. Pl. Orient. 8: 12 1849",,,,,,671987-1,wfo-0000596339,3603731,,
+c49b7f72-8fcc-11eb-924d-9cd76263cbd0,species,turbinata,Ceratocapnos,,"(DC.) Lidén",,1986,,"Opera Bot. 88: 38 1986",,,,,,943204-1,wfo-0000596340,3603725,,
+c49bbb90-8fcc-11eb-924d-9cd76263cbd0,species,umbrosa,Ceratocapnos,,Walp.,,1851,,"Ann. Bot. Syst. 2: 30 1851",,,,,,671988-1,wfo-0000596341,3603717,,

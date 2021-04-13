@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df872430-8fd1-11eb-924d-9cd76263cbd0,genus,Antherostele,,,Bremek.,1940,"J. Arnold Arbor. 21(1): 26–28. 1940.",,,,,327847-2,wfo-4000002413,2899703,
-b05f9680-8fca-11eb-924d-9cd76263cbd0,species,banahaensis,Antherostele,,"(Elmer) Bremek.",1940,"J. Arnold Arbor. 21: 27 1940",,,,,743338-1,wfo-0000218959,2899708,
-b0f99802-8fca-11eb-924d-9cd76263cbd0,species,callophylla,Antherostele,,Bremek.,1940,"J. Arnold Arbor. 21: 29 1940",,,,,743339-1,wfo-0000218970,2899710,
-b184d1e2-8fca-11eb-924d-9cd76263cbd0,species,grandistipula,Antherostele,,"(Merr.) Bremek.",1940,"J. Arnold Arbor. 21: 30 1940",,,,,743340-1,wfo-0000218980,2899704,
-b21df23c-8fca-11eb-924d-9cd76263cbd0,species,luzoniensis,Antherostele,,"(Merr.) Bremek.",1940,"J. Arnold Arbor. 21: 30 1940",,,,,743341-1,wfo-0000218991,2899706,
-a0094a90-8fcc-11eb-924d-9cd76263cbd0,species,calcarata,Antherostylis,,C.A.Gardner,1932,"J. Roy. Soc. Western Australia 19: 92 1932-1933 publ. 1934",,,,,383621-1,wfo-0000538417,3761719,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df872430-8fd1-11eb-924d-9cd76263cbd0,genus,Antherostele,,,Bremek.,,1940,,"J. Arnold Arbor. 21(1): 26–28. 1940.",,Q100545214,,,,327847-2,wfo-4000002413,2899703,,
+b05f9680-8fca-11eb-924d-9cd76263cbd0,species,banahaensis,Antherostele,,"(Elmer) Bremek.",,1940,,"J. Arnold Arbor. 21: 27 1940",,Q100545214,,,,743338-1,wfo-0000218959,2899708,,
+b0f99802-8fca-11eb-924d-9cd76263cbd0,species,callophylla,Antherostele,,Bremek.,,1940,,"J. Arnold Arbor. 21: 29 1940",,Q100545214,,,,743339-1,wfo-0000218970,2899710,,
+b184d1e2-8fca-11eb-924d-9cd76263cbd0,species,grandistipula,Antherostele,,"(Merr.) Bremek.",,1940,,"J. Arnold Arbor. 21: 30 1940",,Q100545214,,,,743340-1,wfo-0000218980,2899704,,
+b21df23c-8fca-11eb-924d-9cd76263cbd0,species,luzoniensis,Antherostele,,"(Merr.) Bremek.",,1940,,"J. Arnold Arbor. 21: 30 1940",,Q100545214,,,,743341-1,wfo-0000218991,2899706,,
+a0094a90-8fcc-11eb-924d-9cd76263cbd0,species,calcarata,Antherostylis,,C.A.Gardner,,1932,,"J. Roy. Soc. Western Australia 19: 92 1932-1933 publ. 1934",,,,,,383621-1,wfo-0000538417,3761719,,

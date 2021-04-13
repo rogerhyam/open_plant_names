@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e197dfc6-8fd1-11eb-924d-9cd76263cbd0,genus,Chiliocephalum,,,Benth.,,,,,,,8237-1,wfo-4000007866,3096125,
-5247d37c-8fb2-11eb-924d-9cd76263cbd0,species,myriocephalum,Chiliocephalum,,Baill.,1882,"173 1882",,,,,192783-1,wfo-0000020449,3096129,
-fd89c228-8fb1-11eb-924d-9cd76263cbd0,species,schimperi,Chiliocephalum,,Benth.,,"t. 1137 1873",,,,,192784-1,wfo-0000000532,3096126,
-4b443e86-8fbb-11eb-924d-9cd76263cbd0,species,schultzii,Chiliocephalum,,Baill.,1882,"173 1882",,,,,192785-1,wfo-0000133136,3096128,
-fe6b0562-8fb1-11eb-924d-9cd76263cbd0,species,tegetum,Chiliocephalum,,Mesfin,1992,"132 1992",,,,,,wfo-0000001593,3096130,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e197dfc6-8fd1-11eb-924d-9cd76263cbd0,genus,Chiliocephalum,,,Benth.,,,,,,,,,,8237-1,wfo-4000007866,3096125,,
+5247d37c-8fb2-11eb-924d-9cd76263cbd0,species,myriocephalum,Chiliocephalum,,Baill.,,1882,,"173 1882",,,,,,192783-1,wfo-0000020449,3096129,,
+fd89c228-8fb1-11eb-924d-9cd76263cbd0,species,schimperi,Chiliocephalum,,Benth.,,,,"t. 1137 1873",,,,,,192784-1,wfo-0000000532,3096126,,
+4b443e86-8fbb-11eb-924d-9cd76263cbd0,species,schultzii,Chiliocephalum,,Baill.,,1882,,"173 1882",,,,,,192785-1,wfo-0000133136,3096128,,
+fe6b0562-8fb1-11eb-924d-9cd76263cbd0,species,tegetum,Chiliocephalum,,Mesfin,,1992,,"132 1992",,,,,,,wfo-0000001593,3096130,,

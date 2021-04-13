@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e22d4868-8fd1-11eb-924d-9cd76263cbd0,genus,Crithopsis,,,"Jaub. & Spach",1851,"Ill. Pl. Orient. 4: 30. 1851.",,,,,17811-1,wfo-4000009716,4142061,
-4f351e7c-8fcd-11eb-924d-9cd76263cbd0,species,brachytricha,Crithopsis,,Walp.,1852,"Ann. Bot. Syst. 3: 786 1852",,,,,396726-1,wfo-0000860741,4146379,
-4f355694-8fcd-11eb-924d-9cd76263cbd0,species,delileana,Crithopsis,,"(Schult.) Roshev.",1937,"Zlaki 319 1937",,,,,396727-1,wfo-0000860743,4932431,
-4f3573ae-8fcd-11eb-924d-9cd76263cbd0,species,rhachitricha,Crithopsis,,"Jaub. & Spach",1851,"Ill. Pl. Orient. 4: 30 1851",,,,,396728-1,wfo-0000860744,4142060,
-4f358dee-8fcd-11eb-924d-9cd76263cbd0,species,trachycaulum,Crithopyrum,,Steud.,1854,"Syn. Pl. Glumac. 1: 344 1854",,,,,396729-1,wfo-0000860745,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e22d4868-8fd1-11eb-924d-9cd76263cbd0,genus,Crithopsis,,,"Jaub. & Spach",,1851,,"Ill. Pl. Orient. 4: 30. 1851.",,,,,,17811-1,wfo-4000009716,4142061,,
+4f351e7c-8fcd-11eb-924d-9cd76263cbd0,species,brachytricha,Crithopsis,,Walp.,,1852,,"Ann. Bot. Syst. 3: 786 1852",,,,,,396726-1,wfo-0000860741,4146379,,
+4f355694-8fcd-11eb-924d-9cd76263cbd0,species,delileana,Crithopsis,,"(Schult.) Roshev.",,1937,,"Zlaki 319 1937",,,,,,396727-1,wfo-0000860743,4932431,,
+4f3573ae-8fcd-11eb-924d-9cd76263cbd0,species,rhachitricha,Crithopsis,,"Jaub. & Spach",,1851,,"Ill. Pl. Orient. 4: 30 1851",,,,,,396728-1,wfo-0000860744,4142060,,
+4f358dee-8fcd-11eb-924d-9cd76263cbd0,species,trachycaulum,Crithopyrum,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 344 1854",,,,,,396729-1,wfo-0000860745,,,

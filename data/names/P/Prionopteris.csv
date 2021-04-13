@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e904bca2-8fd1-11eb-924d-9cd76263cbd0,genus,Prionopteris,,,,,,,,,,,wfo-4000031165,3796568,
-61fa46dc-8fbd-11eb-924d-9cd76263cbd0,species,farquhariana,Prionopteris,,Wall.,1829,"Numer. List [Wallich] n. 184. 1829",,,,,17209140-1,wfo-0000147461,3796570,
-ae6b0faa-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Prionoschoenus,,"(L.f.) Kuntze",1903,"Lex. Gen. Phan. 460 1903",,,,34bf86a4-8fcd-11eb-924d-9cd76263cbd0,444007-1,wfo-0001040124,4204178,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e904bca2-8fd1-11eb-924d-9cd76263cbd0,genus,Prionopteris,,,,,,,,,,,,,,wfo-4000031165,3796568,,
+61fa46dc-8fbd-11eb-924d-9cd76263cbd0,species,farquhariana,Prionopteris,,Wall.,,1829,,"Numer. List [Wallich] n. 184. 1829",,,,,,17209140-1,wfo-0000147461,3796570,,
+ae6b0faa-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Prionoschoenus,,"(L.f.) Kuntze",,1903,,"Lex. Gen. Phan. 460 1903",,,,34bf86a4-8fcd-11eb-924d-9cd76263cbd0,,444007-1,wfo-0001040124,4204178,,

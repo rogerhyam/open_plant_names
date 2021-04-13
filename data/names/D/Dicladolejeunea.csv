@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2b4b320-8fd1-11eb-924d-9cd76263cbd0,genus,Dicladolejeunea,,,R.M.Schust.,1994,"J. Hattori Bot. Lab. 75: 220. 1994.",,,,,,wfo-4000011478,4897882,
-f785e7f0-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Dicladolejeunea,,R.M.Schust.,1994,"J. Hattori Bot. Lab. 75: 221 1994",,,,,,wfo-0001199135,7492395,
-f7861da6-8fcd-11eb-924d-9cd76263cbd0,species,saccatiloba,Dicladolejeunea,,"(Stephani) R.M.Schust.",1994,"J. Hattori Bot. Lab. 75: 222 1994",,,,,,wfo-0001199137,7996903,
-c061d0a4-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Diclemia,,Naudin,1852,"Ann. Sci. Nat., Bot., sér. 3, 18(2): 103 1852",,,,,568238-1,wfo-0001080997,3869644,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2b4b320-8fd1-11eb-924d-9cd76263cbd0,genus,Dicladolejeunea,,,R.M.Schust.,,1994,,"J. Hattori Bot. Lab. 75: 220. 1994.",,,,,,,wfo-4000011478,4897882,,
+f785e7f0-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Dicladolejeunea,,R.M.Schust.,,1994,,"J. Hattori Bot. Lab. 75: 221 1994",,,,,,,wfo-0001199135,7492395,,
+f7861da6-8fcd-11eb-924d-9cd76263cbd0,species,saccatiloba,Dicladolejeunea,,"(Stephani) R.M.Schust.",,1994,,"J. Hattori Bot. Lab. 75: 222 1994",,,,,,,wfo-0001199137,7996903,,

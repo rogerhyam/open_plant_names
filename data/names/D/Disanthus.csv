@@ -1,12 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2e60a9c-8fd1-11eb-924d-9cd76263cbd0,genus,Disanthus,,,Maxim.,1866,"Bull. Acad. Imp. Sci. Saint-Petersbourg, sér. 3 10: 485. 1866.",,,,,19586-1,wfo-4000012112,7329048,
-e4cb09ac-8fcc-11eb-924d-9cd76263cbd0,species,cercidifolius,Disanthus,,Maxim.,1866,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 10: 486 1866",,,,,430612-1,wfo-0000651534,7329049,
-e4cb2676-8fcc-11eb-924d-9cd76263cbd0,variety,longipes,Disanthus,cercidifolius,H.T.Chang,1948,"Sunyatsenia 7 :70 1948",,,,,,wfo-0000651535,3702520,
-e4cb4354-8fcc-11eb-924d-9cd76263cbd0,subspecies,longipes,Disanthus,cercidifolius,"(H.T.Chang) K.Y.Pan",1991,"Cathaya 3: 24 1991",,,,e4cb2676-8fcc-11eb-924d-9cd76263cbd0,966913-1,wfo-0000651536,3702520,
-5132ddae-8fcd-11eb-924d-9cd76263cbd0,species,antarcticum,Disarrenum,,Labill.,1806,"Nov. Holl. Pl. 2: 83 1806",,,,,399517-1,wfo-0000864945,4132943,
-e4cb5dd0-8fcc-11eb-924d-9cd76263cbd0,species,novoguinensis,Disaster,,Gilli,1979,"Ann. Naturhist. Mus. Wien 83: 454 1979 publ. 1980",,,,,896454-1,wfo-0000651537,11055694,
-810ff7aa-8fcd-11eb-924d-9cd76263cbd0,species,pullei,Discalyxia,,Markgr.,1925,"Nova Guinea 14: 282 1925",,,,,78316-1,wfo-0000944628,3620149,
-81101398-8fcd-11eb-924d-9cd76263cbd0,species,ridleyana,Discalyxia,,"(Wernham) Markgr.",1925,"Nova Guinea 14: 283 1925",,,,,78317-1,wfo-0000944629,3620140,
-81102ebe-8fcd-11eb-924d-9cd76263cbd0,species,rostrata,Discalyxia,,Markgr.,1925,"Nova Guinea 14: 282 1925",,,,,78318-1,wfo-0000944630,3620131,
-e4cb79a0-8fcc-11eb-924d-9cd76263cbd0,species,dissecta,Discanthera,,"Torr. & A.Gray",1840,"Fl. N. Amer. 1: 697 1840",,,,,292568-1,wfo-0000651538,3625774,
-22f5f8f4-8fcd-11eb-924d-9cd76263cbd0,species,odoratus,Discanthus,,Spruce,1858,"J. Proc. Linn. Soc., Bot. 3: 196 1858",,,,,297677-1,wfo-0000765522,2861109,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2e60a9c-8fd1-11eb-924d-9cd76263cbd0,genus,Disanthus,,,Maxim.,,1866,,"Bull. Acad. Imp. Sci. Saint-Petersbourg, sér. 3 10: 485. 1866.",,,,,,19586-1,wfo-4000012112,7329048,,
+e4cb09ac-8fcc-11eb-924d-9cd76263cbd0,species,cercidifolius,Disanthus,,Maxim.,,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 10: 486 1866",,,,,,430612-1,wfo-0000651534,7329049,,
+e4cb2676-8fcc-11eb-924d-9cd76263cbd0,variety,longipes,Disanthus,cercidifolius,H.T.Chang,,1948,,"Sunyatsenia 7 :70 1948",,,,,,,wfo-0000651535,3702520,,
+e4cb4354-8fcc-11eb-924d-9cd76263cbd0,subspecies,longipes,Disanthus,cercidifolius,"(H.T.Chang) K.Y.Pan",,1991,,"Cathaya 3: 24 1991",,,,e4cb2676-8fcc-11eb-924d-9cd76263cbd0,,966913-1,wfo-0000651536,3702520,,
+5132ddae-8fcd-11eb-924d-9cd76263cbd0,species,antarcticum,Disarrenum,,Labill.,,1806,,"Nov. Holl. Pl. 2: 83 1806",,,,,,399517-1,wfo-0000864945,4132943,,

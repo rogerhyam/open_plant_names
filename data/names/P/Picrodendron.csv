@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e881f812-8fd1-11eb-924d-9cd76263cbd0,genus,Picrodendron,,,Planch.,1864,"Fl. Brit. W. I. 176–177. 1864[1859]. (Jun 1859)",,,,,38231-1,wfo-4000029631,3233055,
-f56c0578-8fcb-11eb-924d-9cd76263cbd0,species,arboreum,Picrodendron,,"(Mill.) Planch.",1846,"London J. Bot. 5: 580 1846",,,,1721af4c-8fcc-11eb-924d-9cd76263cbd0,813970-1,wfo-0000273292,5823198,
-f56c29cc-8fcb-11eb-924d-9cd76263cbd0,species,baccatum,Picrodendron,,"(L.) Krug & Urb.",1892,"Bot. Jahrb. Syst. 15: 308 1892",,,,a4bcba80-8fcd-11eb-924d-9cd76263cbd0,196005-2,wfo-0000273293,5380893,
-f56c47b8-8fcb-11eb-924d-9cd76263cbd0,species,calunga,Picrodendron,,"Mart. ex Engl.",1874,"Fl. Bras. 12(2): 214 1874",,,,,813972-1,wfo-0000273294,5823199,
-f56c63e2-8fcb-11eb-924d-9cd76263cbd0,species,juglans,Picrodendron,,Griseb.,1861,"Fl. Brit. W. I. 177 1861",,,,,,wfo-0000273295,5380894,
-f56c803e-8fcb-11eb-924d-9cd76263cbd0,species,macrocarpum,Picrodendron,,"(A.Rich.) Britton",1906,"Bull. New York Bot. Gard. 4: 139 1906",,,,07e86e3e-8fcd-11eb-924d-9cd76263cbd0,813974-1,wfo-0000273296,5380896,
-f56c9e2a-8fcb-11eb-924d-9cd76263cbd0,species,medium,Picrodendron,,Small,1917,"J. New York Bot. Gard. 18: 185 1917",,,,,813975-1,wfo-0000273297,5380895,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e881f812-8fd1-11eb-924d-9cd76263cbd0,genus,Picrodendron,,,Planch.,,1864,,"Fl. Brit. W. I. 176–177. 1864[1859]. (Jun 1859)",,,,,,38231-1,wfo-4000029631,3233055,,
+f56c0578-8fcb-11eb-924d-9cd76263cbd0,species,arboreum,Picrodendron,,"(Mill.) Planch.",,1846,,"London J. Bot. 5: 580 1846",,,,1721af4c-8fcc-11eb-924d-9cd76263cbd0,,813970-1,wfo-0000273292,5823198,,
+f56c29cc-8fcb-11eb-924d-9cd76263cbd0,species,baccatum,Picrodendron,,"(L.) Krug & Urb.",,1892,,"Bot. Jahrb. Syst. 15: 308 1892",,,,a4bcba80-8fcd-11eb-924d-9cd76263cbd0,,196005-2,wfo-0000273293,5380893,,
+f56c47b8-8fcb-11eb-924d-9cd76263cbd0,species,calunga,Picrodendron,,"Mart. ex Engl.",,1874,,"Fl. Bras. 12(2): 214 1874",,,,,,813972-1,wfo-0000273294,5823199,,
+f56c63e2-8fcb-11eb-924d-9cd76263cbd0,species,juglans,Picrodendron,,Griseb.,,1861,,"Fl. Brit. W. I. 177 1861",,,,,,,wfo-0000273295,5380894,,
+f56c803e-8fcb-11eb-924d-9cd76263cbd0,species,macrocarpum,Picrodendron,,"(A.Rich.) Britton",,1906,,"Bull. New York Bot. Gard. 4: 139 1906",,,,07e86e3e-8fcd-11eb-924d-9cd76263cbd0,,813974-1,wfo-0000273296,5380896,,
+f56c9e2a-8fcb-11eb-924d-9cd76263cbd0,species,medium,Picrodendron,,Small,,1917,,"J. New York Bot. Gard. 18: 185 1917",,,,,,813975-1,wfo-0000273297,5380895,,

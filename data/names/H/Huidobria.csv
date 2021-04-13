@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4e44ea8-8fd1-11eb-924d-9cd76263cbd0,genus,Huidobria,,,Gay,1846,"Fl. Chil. 2(4): 438–441, t. 26. 1846[1847].",,,,,24994-1,wfo-4000018389,7538107,
-0f796400-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Huidobria,,Gay,1847,"Fl. Chil. 2: 438 1847",,,,,545151-1,wfo-0000725784,4021841,
-0f7980b6-8fcd-11eb-924d-9cd76263cbd0,species,fruticosa,Huidobria,,Phil.,1860,"Fl. Atacam. 19 1860",,,,,545152-1,wfo-0000725785,4021833,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4e44ea8-8fd1-11eb-924d-9cd76263cbd0,genus,Huidobria,,,Gay,,1846,,"Fl. Chil. 2(4): 438–441, t. 26. 1846[1847].",,,,,,24994-1,wfo-4000018389,7538107,,
+0f796400-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Huidobria,,Gay,,1847,,"Fl. Chil. 2: 438 1847",,,,,,545151-1,wfo-0000725784,4021841,,
+0f7980b6-8fcd-11eb-924d-9cd76263cbd0,species,fruticosa,Huidobria,,Phil.,,1860,,"Fl. Atacam. 19 1860",,,,,,545152-1,wfo-0000725785,4021833,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9454542-8fd1-11eb-924d-9cd76263cbd0,genus,Pternix,,,,,,,,,,,wfo-4000031916,,
-5168d328-8fb9-11eb-924d-9cd76263cbd0,species,cynarioides,Pternix,,Raf.,1817,"in Am. Monthly Mag. i. (1817) 439. i.  439 1817",,,,,240145-1,wfo-0000117332,5692584,
-32118cc4-8fb2-11eb-924d-9cd76263cbd0,species,deflorata,Pternix,,Hill,,"Hort. Kew. 60.",,,,,240146-1,wfo-0000015437,5692581,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9454542-8fd1-11eb-924d-9cd76263cbd0,genus,Pternix,,,,,,,,,,,,,,wfo-4000031916,,,
+5168d328-8fb9-11eb-924d-9cd76263cbd0,species,cynarioides,Pternix,,Raf.,,1817,,"in Am. Monthly Mag. i. (1817) 439. i.  439 1817",,,,,,240145-1,wfo-0000117332,5692584,,
+32118cc4-8fb2-11eb-924d-9cd76263cbd0,species,deflorata,Pternix,,Hill,,,,"Hort. Kew. 60.",,,,,,240146-1,wfo-0000015437,5692581,,

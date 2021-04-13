@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e50e2f52-8fd1-11eb-924d-9cd76263cbd0,genus,Idenburgia,,,Gibbs,1917,"Phytogr. Fl. Arfak Mount. 136. 1917.",,,,,,wfo-4000018965,9550282,
-115e5366-8fcd-11eb-924d-9cd76263cbd0,species,arfakensis,Idenburgia,,Gibbs,1917,"Fl. Arfak Mts. 139 1917",,,,,581927-1,wfo-0000729143,3782317,
-115ea23a-8fcd-11eb-924d-9cd76263cbd0,species,elaeocarpoides,Idenburgia,,"Gilg & Schltr.",1923,"Bot. Jahrb. Syst. 58: 247 1923",,,,,581928-1,wfo-0000729144,10668023,
-115ef9ec-8fcd-11eb-924d-9cd76263cbd0,species,novoguineensis,Idenburgia,,Gibbs,1917,"Fl. Arfak Mts. 137 1917",,,,,581929-1,wfo-0000729146,9644812,
-115f1d5a-8fcd-11eb-924d-9cd76263cbd0,species,pachyphylla,Idenburgia,,"Gilg & Schltr.",1923,"Bot. Jahrb. Syst. 58: 246 1923",,,,,581930-1,wfo-0000729147,10668024,
-115f3b78-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Idenburgia,,A.C.Sm.,1941,"J. Arnold Arbor. 22: 234 1941",,,,,581931-1,wfo-0000729148,9644813,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e50e2f52-8fd1-11eb-924d-9cd76263cbd0,genus,Idenburgia,,,Gibbs,,1917,,"Phytogr. Fl. Arfak Mount. 136. 1917.",,,,,,,wfo-4000018965,9550282,,
+115e5366-8fcd-11eb-924d-9cd76263cbd0,species,arfakensis,Idenburgia,,Gibbs,,1917,,"Fl. Arfak Mts. 139 1917",,Q51459487,,,,581927-1,wfo-0000729143,3782317,,
+115ea23a-8fcd-11eb-924d-9cd76263cbd0,species,elaeocarpoides,Idenburgia,,"Gilg & Schltr.",,1923,,"Bot. Jahrb. Syst. 58: 247 1923",,,,,,581928-1,wfo-0000729144,10668023,,
+115ef9ec-8fcd-11eb-924d-9cd76263cbd0,species,novoguineensis,Idenburgia,,Gibbs,,1917,,"Fl. Arfak Mts. 137 1917",,Q51459487,,,,581929-1,wfo-0000729146,9644812,,
+115f1d5a-8fcd-11eb-924d-9cd76263cbd0,species,pachyphylla,Idenburgia,,"Gilg & Schltr.",,1923,,"Bot. Jahrb. Syst. 58: 246 1923",,,,,,581930-1,wfo-0000729147,10668024,,
+115f3b78-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Idenburgia,,A.C.Sm.,,1941,,"J. Arnold Arbor. 22: 234 1941",,Q100559102,,,,581931-1,wfo-0000729148,9644813,,

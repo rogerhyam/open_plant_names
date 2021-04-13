@@ -1,12 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28126d6-8fd1-11eb-924d-9cd76263cbd0,genus,Dasynotus,,,I.M.Johnst.,1948,"J. Arnold Arbor. 29(3): 233–237. 1948.",,,,,296701-2,wfo-4000010832,2925824,
-dd428fc0-8fcc-11eb-924d-9cd76263cbd0,species,daubenmirei,Dasynotus,,I.M.Johnst.,1948,"J. Arnold Arbor. 29: 234 1948",,,,,76824-2,wfo-0000638289,5341192,
-4ffd95be-8fcd-11eb-924d-9cd76263cbd0,species,argentina,Dasyochloa,,"(Kuntze) Caro",1981,"Dominguezia 2: 4 1981",,,,,76825-2,wfo-0000862247,4146447,
-4ffdb1d4-8fcd-11eb-924d-9cd76263cbd0,variety,aristiglumis,Dasyochloa,argentina,Caro,1981,"Dominguezia 2: 4 1981",,,,,76826-2,wfo-0000862248,4146461,
-4ffdcd2c-8fcd-11eb-924d-9cd76263cbd0,variety,parodiana,Dasyochloa,argentina,"(E.A.Sánchez) Caro",1981,"Dominguezia 2: 7 1981",,,,,76827-2,wfo-0000862249,4146446,
-4ffde8ac-8fcd-11eb-924d-9cd76263cbd0,species,avenacea,Dasyochloa,,"(Kunth) Steud.",1840,"Nomencl. Bot. ed. 2, 1: 492 1840",,,,6913dd56-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000862250,4146429,
-4ffe04f4-8fcd-11eb-924d-9cd76263cbd0,species,kurtziana,Dasyochloa,,"(Parodi) Caro",1981,"Dominguezia 2: 7 1981",,,,,76828-2,wfo-0000862251,4146416,
-4ffe1ee4-8fcd-11eb-924d-9cd76263cbd0,species,longiglumis,Dasyochloa,,"(Parodi) Caro",1981,"Dominguezia 2: 8 1981",,,,69004b9c-8fcd-11eb-924d-9cd76263cbd0,76830-2,wfo-0000862252,4146381,
-4ffe396a-8fcd-11eb-924d-9cd76263cbd0,variety,cabrerae,Dasyochloa,longiglumis,Caro,1981,"Dominguezia 2: 13 1981",,,,,76829-2,wfo-0000862253,4146380,
-4ffe5332-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Dasyochloa,,"(Kunth) Willd. ex Rydb.",1906,"Fl. Colorado 18 1906",,,,,1012942-2,wfo-0000862254,8415375,
-4ffe6f20-8fcd-11eb-924d-9cd76263cbd0,species,pygmaea,Dasyochloa,,"(Hack.) Caro",1981,"Dominguezia 2: 8 1981",,,,69148030-8fcd-11eb-924d-9cd76263cbd0,76831-2,wfo-0000862255,4146346,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28126d6-8fd1-11eb-924d-9cd76263cbd0,genus,Dasynotus,,,I.M.Johnst.,,1948,,"J. Arnold Arbor. 29(3): 233–237. 1948.",,Q56014103,,,,296701-2,wfo-4000010832,2925824,,
+dd428fc0-8fcc-11eb-924d-9cd76263cbd0,species,daubenmirei,Dasynotus,,I.M.Johnst.,,1948,,"J. Arnold Arbor. 29: 234 1948",,Q56014103,,,,76824-2,wfo-0000638289,5341192,,

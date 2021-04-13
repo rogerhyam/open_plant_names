@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a2c25a-8fd1-11eb-924d-9cd76263cbd0,genus,Oreonana,,,Jeps.,1923,"Madroño 1(8): 140–141, f. 26. 1923.",,,,,296857-2,wfo-4000027095,8192497,
-3bd961f4-8fcc-11eb-924d-9cd76263cbd0,species,californica,Oreonana,,Jeps.,1923,"Madroño 1: 140 1923",,,,,176155-2,wfo-0000384683,3638968,
-baa209cc-8fcd-11eb-924d-9cd76263cbd0,species,clementis,Oreonana,,"(M.E.Jones) Jeps.",1925,"Man. Fl. Pl. Calif. 715 1925",,,,,176156-2,wfo-0001067923,3034438,
-baa22808-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Oreonana,,"Shevock & Constance",1979,"Madroño 26(3): 128–133, f. 1 1979",,,,,845465-1,wfo-0001067924,3034437,
-baa24680-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Oreonana,,"(S.Watson) Jeps.",1923,"Madroño 1(8): 141 1923",,,,,176158-2,wfo-0001067925,3034436,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a2c25a-8fd1-11eb-924d-9cd76263cbd0,genus,Oreonana,,,Jeps.,,1923,,"Madroño 1(8): 140–141, f. 26. 1923.",,Q94088024,,,,296857-2,wfo-4000027095,8192497,,
+3bd961f4-8fcc-11eb-924d-9cd76263cbd0,species,californica,Oreonana,,Jeps.,,1923,,"Madroño 1: 140 1923",,Q94088024,,,,176155-2,wfo-0000384683,3638968,,
+baa209cc-8fcd-11eb-924d-9cd76263cbd0,species,clementis,Oreonana,,"(M.E.Jones) Jeps.",,1925,,"Man. Fl. Pl. Calif. 715 1925",,,,,,176156-2,wfo-0001067923,3034438,,
+baa22808-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Oreonana,,"Shevock & Constance",,1979,,"Madroño 26(3): 128–133, f. 1 1979",,Q93963643,,,,845465-1,wfo-0001067924,3034437,,
+baa24680-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Oreonana,,"(S.Watson) Jeps.",,1923,,"Madroño 1(8): 141 1923",,Q94088024,,,,176158-2,wfo-0001067925,3034436,,

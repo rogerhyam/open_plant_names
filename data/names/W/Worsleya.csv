@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec199336-8fd1-11eb-924d-9cd76263cbd0,genus,Worsleya,,,"(Traub) Traub",1944,"Herbertia 10: 89. 1944.",,,,,1679-1,wfo-4000040828,7592727,
-1c58b446-8fcd-11eb-924d-9cd76263cbd0,species,procera,Worsleya,,"(Lem.) Traub",1944,"Herbertia 10: 89 1944",,,,,269136-2,wfo-0000751906,2853362,
-1c58d1c4-8fcd-11eb-924d-9cd76263cbd0,species,rayneri,Worsleya,,"(Hook.f.) Traub & Moldenke",1949,"Amaryllis Manual 23 1949",,,,200a0680-8fcd-11eb-924d-9cd76263cbd0,269137-2,wfo-0000751907,2853366,
-1ba2608e-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Woytkowskia,,"(Markgr.) L.Allorge",1985,"Mém. Mus. Natl. Hist. Nat., B, Bot. 30: 121 1985",,,,,287073-2,wfo-0000334501,5535428,
-1ba27d3a-8fcc-11eb-924d-9cd76263cbd0,species,spermatochorda,Woytkowskia,,Woodson,1960,"Ann. Missouri Bot. Gard. 47: 74 1960",,,,,269138-2,wfo-0000334502,5535427,
-2d13ed32-8fcd-11eb-924d-9cd76263cbd0,species,pulchra,Wredowia,,Eckl.,1827,"Topogr. Verz. Pflanzensamml. Ecklon 16 1827",,,,,442034-1,wfo-0000787232,2744090,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec199336-8fd1-11eb-924d-9cd76263cbd0,genus,Worsleya,,,"(Traub) Traub",,1944,,"Herbertia 10: 89. 1944.",,,,,,1679-1,wfo-4000040828,7592727,,
+1c58b446-8fcd-11eb-924d-9cd76263cbd0,species,procera,Worsleya,,"(Lem.) Traub",,1944,,"Herbertia 10: 89 1944",,,,,,269136-2,wfo-0000751906,2853362,,
+1c58d1c4-8fcd-11eb-924d-9cd76263cbd0,species,rayneri,Worsleya,,"(Hook.f.) Traub & Moldenke",,1949,,"Amaryllis Manual 23 1949",,,,200a0680-8fcd-11eb-924d-9cd76263cbd0,,269137-2,wfo-0000751907,2853366,,
+1ba2608e-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Woytkowskia,,"(Markgr.) L.Allorge",,1985,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 30: 121 1985",,,,,,287073-2,wfo-0000334501,5535428,,
+1ba27d3a-8fcc-11eb-924d-9cd76263cbd0,species,spermatochorda,Woytkowskia,,Woodson,,1960,,"Ann. Missouri Bot. Gard. 47: 74 1960",,Q55764748,,,,269138-2,wfo-0000334502,5535427,,
+2d13ed32-8fcd-11eb-924d-9cd76263cbd0,species,pulchra,Wredowia,,Eckl.,,1827,,"Topogr. Verz. Pflanzensamml. Ecklon 16 1827",,,,,,442034-1,wfo-0000787232,2744090,,

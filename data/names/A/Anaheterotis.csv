@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec468314-8fd1-11eb-924d-9cd76263cbd0,genus,Anaheterotis,,,"Ver.-Lib. & G.Kadereit",2017,"Taxon 66(3): 601 (2017)",,,,,77164771-1,wfo-4001303118,9525882,
-a899f4c4-8fb4-11eb-924d-9cd76263cbd0,species,acapulcensis,Anaitis,,DC.,1836,"629 1836",,,,,176354-1,wfo-0000068092,5391198,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec468314-8fd1-11eb-924d-9cd76263cbd0,genus,Anaheterotis,,,"Ver.-Lib. & G.Kadereit",,2017,,"Taxon 66(3): 601 (2017)",,Q32288623,,,,77164771-1,wfo-4001303118,9525882,,
+a899f4c4-8fb4-11eb-924d-9cd76263cbd0,species,acapulcensis,Anaitis,,DC.,,1836,,"629 1836",,,,,,176354-1,wfo-0000068092,5391198,,

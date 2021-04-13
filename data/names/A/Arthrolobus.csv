@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc8638c-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrolobus,,,,,,,,,,,wfo-4000003167,,
-a730481e-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Arthrolobus,,"Andrz. ex DC.",1821,"Syst. Nat. 2: 431 1821",,,,,278751-1,wfo-0000550342,3690584,
-a73064fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosus,Arthrolobus,,"Andrz. ex DC.",1821,"Syst. Nat. 2: 432 1821",,,,,278752-1,wfo-0000550343,3690582,
-a7308b44-8fcc-11eb-924d-9cd76263cbd0,species,torulosus,Arthrolobus,,"Steven ex DC.",1821,"Syst. Nat. 2: 580 1821",,,,,278753-1,wfo-0000550344,3690578,
-4a31dec4-8fcd-11eb-924d-9cd76263cbd0,species,fazoglensis,Arthrolophis,,Chiov.,1917,"Boll. Soc. Bot. Ital. 1917: 57 1917",,,,,390087-1,wfo-0000849936,4119293,
-4a31fb5c-8fcd-11eb-924d-9cd76263cbd0,species,pumilus,Arthrolophis,,"(Roxb.) Chiov.",1917,"Boll. Soc. Bot. Ital. 1917: 59 1917",,,,,390088-1,wfo-0000849937,4119284,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc8638c-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrolobus,,,,,,,,,,,,,,wfo-4000003167,,,
+a730481e-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Arthrolobus,,"Andrz. ex DC.",,1821,,"Syst. Nat. 2: 431 1821",,,,,,278751-1,wfo-0000550342,3690584,,
+a73064fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosus,Arthrolobus,,"Andrz. ex DC.",,1821,,"Syst. Nat. 2: 432 1821",,,,,,278752-1,wfo-0000550343,3690582,,
+a7308b44-8fcc-11eb-924d-9cd76263cbd0,species,torulosus,Arthrolobus,,"Steven ex DC.",,1821,,"Syst. Nat. 2: 580 1821",,,,,,278753-1,wfo-0000550344,3690578,,
+4a31dec4-8fcd-11eb-924d-9cd76263cbd0,species,fazoglensis,Arthrolophis,,Chiov.,,1917,,"Boll. Soc. Bot. Ital. 1917: 57 1917",,,,,,390087-1,wfo-0000849936,4119293,,
+4a31fb5c-8fcd-11eb-924d-9cd76263cbd0,species,pumilus,Arthrolophis,,"(Roxb.) Chiov.",,1917,,"Boll. Soc. Bot. Ital. 1917: 59 1917",,,,,,390088-1,wfo-0000849937,4119284,,

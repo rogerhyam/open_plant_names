@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2662c00-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphomeris,,,Standl.,1911,"Contr. U.S. Natl. Herb. 13(11): 428. 1911. (12 Jul 1911)",,,,,297713-2,wfo-4000010467,3086268,
-db26ebfa-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Cyphomeris,,"(Standl.) Standl.",1911,"Contr. U. S. Natl. Herb. 13: 428 1911",,,,,75302-2,wfo-0000634438,3086272,
-db27066c-8fcc-11eb-924d-9cd76263cbd0,species,gypsophiloides,Cyphomeris,,"(M.Martens & Galeotti) Standl.",1911,"Contr. U. S. Natl. Herb. 13: 428 1911",,,,b6122ae6-8fd1-11eb-924d-9cd76263cbd0,75303-2,wfo-0000634439,3086269,
-db2723a4-8fcc-11eb-924d-9cd76263cbd0,variety,stewartii,Cyphomeris,gypsophiloides,I.M.Johnst.,1944,"J. Arnold Arbor. 25: 173 1944",,,,,75304-2,wfo-0000634440,3086270,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2662c00-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphomeris,,,Standl.,,1911,,"Contr. U.S. Natl. Herb. 13(11): 428. 1911. (12 Jul 1911)",,Q95371665,,,,297713-2,wfo-4000010467,3086268,,
+db26ebfa-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Cyphomeris,,"(Standl.) Standl.",,1911,,"Contr. U. S. Natl. Herb. 13: 428 1911",,Q95371665,,,,75302-2,wfo-0000634438,3086272,,
+db27066c-8fcc-11eb-924d-9cd76263cbd0,species,gypsophiloides,Cyphomeris,,"(M.Martens & Galeotti) Standl.",,1911,,"Contr. U. S. Natl. Herb. 13: 428 1911",,Q95371665,,b6122ae6-8fd1-11eb-924d-9cd76263cbd0,,75303-2,wfo-0000634439,3086269,,
+db2723a4-8fcc-11eb-924d-9cd76263cbd0,variety,stewartii,Cyphomeris,gypsophiloides,I.M.Johnst.,,1944,,"J. Arnold Arbor. 25: 173 1944",,Q56009181,,,,75304-2,wfo-0000634440,3086270,,

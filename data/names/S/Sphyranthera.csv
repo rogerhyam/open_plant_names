@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea9e9d58-8fd1-11eb-924d-9cd76263cbd0,genus,Sphyranthera,,,Hook.f.,,"Hooker's Icon. Pl. 18: 1702. 1887.",,,,,15926-1,wfo-4000036071,3070814,
-0e7a3eea-8fcc-11eb-924d-9cd76263cbd0,species,airyshawii,Sphyranthera,,"Chakrab. & Vasudeva Rao",1984,"J. Econ. Taxon. Bot. 5: 960 1984",,,,,905308-1,wfo-0000312997,3070815,
-0e7a63e8-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Sphyranthera,,Hook.f.,,"Hooker's Icon. Pl. 18: t. 1702 1887",,,,,356433-1,wfo-0000312998,3070817,
-0e7a82f6-8fcc-11eb-924d-9cd76263cbd0,species,lutescens,Sphyranthera,,"(Kurz) Pax & K.Hoffm.",1931,"Nat. Pflanzenfam. ed. 2 19c: 231 1931",,,,693a1a70-8fcd-11eb-924d-9cd76263cbd0,356434-1,wfo-0000312999,3070816,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea9e9d58-8fd1-11eb-924d-9cd76263cbd0,genus,Sphyranthera,,,Hook.f.,,,,"Hooker's Icon. Pl. 18: 1702. 1887.",,,,,,15926-1,wfo-4000036071,3070814,,
+0e7a3eea-8fcc-11eb-924d-9cd76263cbd0,species,airyshawii,Sphyranthera,,"Chakrab. & Vasudeva Rao",,1984,,"J. Econ. Taxon. Bot. 5: 960 1984",,,,,,905308-1,wfo-0000312997,3070815,,
+0e7a63e8-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Sphyranthera,,Hook.f.,,,,"Hooker's Icon. Pl. 18: t. 1702 1887",,,,,,356433-1,wfo-0000312998,3070817,,
+0e7a82f6-8fcc-11eb-924d-9cd76263cbd0,species,lutescens,Sphyranthera,,"(Kurz) Pax & K.Hoffm.",,1931,,"Nat. Pflanzenfam. ed. 2 19c: 231 1931",,,,693a1a70-8fcd-11eb-924d-9cd76263cbd0,,356434-1,wfo-0000312999,3070816,,

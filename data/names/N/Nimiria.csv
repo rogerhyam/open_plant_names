@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e751b3ba-8fd1-11eb-924d-9cd76263cbd0,genus,Nimiria,,,,,,,,,,,wfo-4000026134,7302247,
-b6b7baaa-8fcd-11eb-924d-9cd76263cbd0,species,inopinata,Nimiria,,"(Prain) W.G.Craib",1927,"Bull. Misc. Inform. Kew 1927(9): 393 1927",,,,,,wfo-0001058940,3972760,
-d04835aa-8fc6-11eb-924d-9cd76263cbd0,species,siamensis,Nimiria,,Craib,,,,,,,,wfo-0000199699,2978656,
-392c4868-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Nimmoia,,"(Guill. & Perr.) Wight",1837,"Madras J. Lit. Sci. 7: 312 1837",,,,9b7e75ae-8fcc-11eb-924d-9cd76263cbd0,553986-1,wfo-0000381663,5635453,
-3a2cd3e0-8fcc-11eb-924d-9cd76263cbd0,species,lawii,Nimmoia,,Wight,1847,"Calcutta J. Nat. Hist. 7: 13 1847",,,,,579088-1,wfo-0000382438,5598020,
-b12b3774-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Ninanga,,Raf.,1836,"Fl. Tellur. 3: 77 1836",,,,,,wfo-0001046303,3675392,
-37e1d036-8fcc-11eb-924d-9cd76263cbd0,species,interrupta,Ninanga,,Raf.,1837,"Fl. Tellur. 3: 77 1837",,,,,60961-1,wfo-0000379914,3675383,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e751b3ba-8fd1-11eb-924d-9cd76263cbd0,genus,Nimiria,,,,,,,,,,,,,,wfo-4000026134,7302247,,
+b6b7baaa-8fcd-11eb-924d-9cd76263cbd0,species,inopinata,Nimiria,,"(Prain) W.G.Craib",,1927,,"Bull. Misc. Inform. Kew 1927(9): 393 1927",,,,,,,wfo-0001058940,3972760,,
+d04835aa-8fc6-11eb-924d-9cd76263cbd0,species,siamensis,Nimiria,,Craib,,,,,,,,,,,wfo-0000199699,2978656,,

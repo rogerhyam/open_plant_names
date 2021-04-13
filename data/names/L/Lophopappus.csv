@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e610f614-8fd1-11eb-924d-9cd76263cbd0,genus,Lophopappus,,,Rusby,,,,,,,9871-1,wfo-4000022223,3120470,
-2463e77a-8fbc-11eb-924d-9cd76263cbd0,species,berberidifolius,Lophopappus,,Cabrera,1953,1953,,,,,,wfo-0000139169,4239871,
-014909cc-8fb3-11eb-924d-9cd76263cbd0,species,berberidifolius,Lophopappus,,Cuatrec.,1953,"Boletin de la Sociedad Argentina de Botanica 5: ""48, t. 8"" 1953",,,,,,wfo-0000039466,8025380,
-ffdec884-8fb1-11eb-924d-9cd76263cbd0,species,blakei,Lophopappus,,Cabrera,1953,"48 1953",,,,,288999-2,wfo-0000002805,3120471,
-ac382196-8fb4-11eb-924d-9cd76263cbd0,species,cuneatus,Lophopappus,,R.E.Fr.,1906,"29 1906",,,,,231125-1,wfo-0000068289,3120474,
-4277ee62-8fb4-11eb-924d-9cd76263cbd0,species,foliosus,Lophopappus,,Rusby,1894,"Bull. Torrey Bot. Club 21: 487, pl. 225. 1894",,,,,308131-2,wfo-0000062347,3120473,
-51661f5e-8fb2-11eb-924d-9cd76263cbd0,species,peruvianus,Lophopappus,,Cabrera,1953,"50 1953",,,,,143596-2,wfo-0000020311,4239829,
-68d42718-8fb6-11eb-924d-9cd76263cbd0,species,tarapacanus,Lophopappus,,"(Phil.) Cabrera",1971,"157 1971",,,,,143597-2,wfo-0000089159,3120475,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e610f614-8fd1-11eb-924d-9cd76263cbd0,genus,Lophopappus,,,Rusby,,,,,,Q55766681,,,,9871-1,wfo-4000022223,3120470,,
+014909cc-8fb3-11eb-924d-9cd76263cbd0,species,berberidifolius,Lophopappus,,Cuatrec.,,1953,,"Boletin de la Sociedad Argentina de Botanica 5: ""48, t. 8"" 1953",,,,,,,wfo-0000039466,8025380,,
+2463e77a-8fbc-11eb-924d-9cd76263cbd0,species,berberidifolius,Lophopappus,,Cabrera,,1953,,1953,,,,,,,wfo-0000139169,4239871,,
+ffdec884-8fb1-11eb-924d-9cd76263cbd0,species,blakei,Lophopappus,,Cabrera,,1953,,"48 1953",,,,,,288999-2,wfo-0000002805,3120471,,
+ac382196-8fb4-11eb-924d-9cd76263cbd0,species,cuneatus,Lophopappus,,R.E.Fr.,,1906,,"29 1906",,,,,,231125-1,wfo-0000068289,3120474,,
+4277ee62-8fb4-11eb-924d-9cd76263cbd0,species,foliosus,Lophopappus,,Rusby,,1894,,"Bull. Torrey Bot. Club 21: 487, pl. 225. 1894",,Q55766681,,,,308131-2,wfo-0000062347,3120473,,
+51661f5e-8fb2-11eb-924d-9cd76263cbd0,species,peruvianus,Lophopappus,,Cabrera,,1953,,"50 1953",,,,,,143596-2,wfo-0000020311,4239829,,
+68d42718-8fb6-11eb-924d-9cd76263cbd0,species,tarapacanus,Lophopappus,,"(Phil.) Cabrera",,1971,,"157 1971",,,,,,143597-2,wfo-0000089159,3120475,,

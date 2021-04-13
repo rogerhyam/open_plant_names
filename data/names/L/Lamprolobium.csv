@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e589c4b4-8fd1-11eb-924d-9cd76263cbd0,genus,Lamprolobium,,,Benth.,,,,,,,22736-1,wfo-4000020517,2959523,
-e327a9e2-8fc3-11eb-924d-9cd76263cbd0,species,fruticosum,Lamprolobium,,Benth.,,,,,,,,wfo-0000185176,2959524,
-9db7b8aa-8fc5-11eb-924d-9cd76263cbd0,species,grandiflorum,Lamprolobium,,R.J.F.Hend.,,,,,,,,wfo-0000193934,2959525,
-b6468d94-8fcd-11eb-924d-9cd76263cbd0,species,megalophyllum,Lamprolobium,,F.Muell.,,"Fragm. 9: 67",,,,,501479-1,wfo-0001057917,3910825,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e589c4b4-8fd1-11eb-924d-9cd76263cbd0,genus,Lamprolobium,,,Benth.,,,,,,,,,,22736-1,wfo-4000020517,2959523,,
+e327a9e2-8fc3-11eb-924d-9cd76263cbd0,species,fruticosum,Lamprolobium,,Benth.,,,,,,,,,,,wfo-0000185176,2959524,,
+9db7b8aa-8fc5-11eb-924d-9cd76263cbd0,species,grandiflorum,Lamprolobium,,R.J.F.Hend.,,,,,,,,,,,wfo-0000193934,2959525,,
+b6468d94-8fcd-11eb-924d-9cd76263cbd0,species,megalophyllum,Lamprolobium,,F.Muell.,,,,"Fragm. 9: 67",,,,,,501479-1,wfo-0001057917,3910825,,

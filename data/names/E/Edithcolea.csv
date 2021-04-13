@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32f021a-8fd1-11eb-924d-9cd76263cbd0,genus,Edithcolea,,,N.E.Br.,1895,"Bull. Misc. Inform. Kew 1895: 220. 1895.",,,,,3352-1,wfo-4000013024,7150982,
-ebc61936-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Edithcolea,,N.E.Br.,1895,"Bull. Misc. Inform. Kew 1895: 220 1895",,,,,97342-1,wfo-0000663240,3577469,
-ebc63678-8fcc-11eb-924d-9cd76263cbd0,species,sordida,Edithcolea,,N.E.Br.,1903,"Nat. Hist. Sokotra 486 1903",,,,,97343-1,wfo-0000663241,3577460,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32f021a-8fd1-11eb-924d-9cd76263cbd0,genus,Edithcolea,,,N.E.Br.,,1895,,"Bull. Misc. Inform. Kew 1895: 220. 1895.",,Q55783772,,,,3352-1,wfo-4000013024,7150982,,
+ebc61936-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Edithcolea,,N.E.Br.,,1895,,"Bull. Misc. Inform. Kew 1895: 220 1895",,Q55783772,,,,97342-1,wfo-0000663240,3577469,,
+ebc63678-8fcc-11eb-924d-9cd76263cbd0,species,sordida,Edithcolea,,N.E.Br.,,1903,,"Nat. Hist. Sokotra 486 1903",,,,,,97343-1,wfo-0000663241,3577460,,

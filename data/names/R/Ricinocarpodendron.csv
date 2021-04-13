@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9b59c2a-8fd1-11eb-924d-9cd76263cbd0,genus,Ricinocarpodendron,,,Boehm.,1760,"Def. Gen. Pl. (ed. 3) 512. 1760.",,,,,,wfo-4000033246,7271403,
-4b11d7e6-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Ricinocarpodendron,,"(Miq.) Mabb.",1982,"Malaysian Forester 45: 454 1982",,,,,911239-1,wfo-0000404364,3851530,
-4b12070c-8fcc-11eb-924d-9cd76263cbd0,species,cumingianum,Ricinocarpodendron,,"(C.DC.) Mabb.",1982,"Malaysian Forester 45: 454 1982",,,,,911240-1,wfo-0000404365,3851521,
-4b125856-8fcc-11eb-924d-9cd76263cbd0,species,polystachyum,Ricinocarpodendron,,"(Wall.) Mabb.",1982,"Malaysian Forester 45: 454 1982",,,,,911241-1,wfo-0000404367,3851514,
-4b127c96-8fcc-11eb-924d-9cd76263cbd0,species,sumatranum,Ricinocarpodendron,,"(Miq.) Mabb.",1982,"Malaysian Forester 45: 454 1982",,,,,911242-1,wfo-0000404368,3851504,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9b59c2a-8fd1-11eb-924d-9cd76263cbd0,genus,Ricinocarpodendron,,,Boehm.,,1760,,"Def. Gen. Pl. (ed. 3) 512. 1760.",,,,,,,wfo-4000033246,7271403,,
+4b11d7e6-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Ricinocarpodendron,,"(Miq.) Mabb.",,1982,,"Malaysian Forester 45: 454 1982",,,,,,911239-1,wfo-0000404364,3851530,,
+4b12070c-8fcc-11eb-924d-9cd76263cbd0,species,cumingianum,Ricinocarpodendron,,"(C.DC.) Mabb.",,1982,,"Malaysian Forester 45: 454 1982",,,,,,911240-1,wfo-0000404365,3851521,,
+4b125856-8fcc-11eb-924d-9cd76263cbd0,species,polystachyum,Ricinocarpodendron,,"(Wall.) Mabb.",,1982,,"Malaysian Forester 45: 454 1982",,,,,,911241-1,wfo-0000404367,3851514,,
+4b127c96-8fcc-11eb-924d-9cd76263cbd0,species,sumatranum,Ricinocarpodendron,,"(Miq.) Mabb.",,1982,,"Malaysian Forester 45: 454 1982",,,,,,911242-1,wfo-0000404368,3851504,,

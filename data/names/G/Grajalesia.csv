@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4299568-8fd1-11eb-924d-9cd76263cbd0,genus,Grajalesia,,,Miranda,1950,"Anales Inst. Biol. Univ. Nac. México 21(2): 299–300. 1950[1951]. (6 Mar 1951)",,,,,295715-2,wfo-4000016119,7327246,
-05129e3c-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Grajalesia,,"(Standl.) Miranda",1965,"Bol. Soc. Bot. México 29: 34 1965",,,,7b400320-8fcc-11eb-924d-9cd76263cbd0,112983-2,wfo-0000708437,3700527,
-0512bc50-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Grajalesia,,Miranda,1951,"Anales Inst. Biol. Univ. Nac. México 21: 300 1951",,,,,112984-2,wfo-0000708438,3700510,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4299568-8fd1-11eb-924d-9cd76263cbd0,genus,Grajalesia,,,Miranda,,1950,,"Anales Inst. Biol. Univ. Nac. México 21(2): 299–300. 1950[1951]. (6 Mar 1951)",,,,,,295715-2,wfo-4000016119,7327246,,
+05129e3c-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Grajalesia,,"(Standl.) Miranda",,1965,,"Bol. Soc. Bot. México 29: 34 1965",,Q96016802,,7b400320-8fcc-11eb-924d-9cd76263cbd0,,112983-2,wfo-0000708437,3700527,,
+0512bc50-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Grajalesia,,Miranda,,1951,,"Anales Inst. Biol. Univ. Nac. México 21: 300 1951",,,,,,112984-2,wfo-0000708438,3700510,,

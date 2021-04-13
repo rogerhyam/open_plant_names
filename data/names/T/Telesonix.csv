@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb264690-8fd1-11eb-924d-9cd76263cbd0,genus,Telesonix,,,Raf.,1836,"Fl. Tellur. 2: 69. 1836[1837]. (Jan-Mar 1837)",,,,,37173-1,wfo-4000037711,3032602,
-d949bb18-8fcd-11eb-924d-9cd76263cbd0,species,heucheriformis,Telesonix,,"(Rydb.) Rydb.",1905,"N. Amer. Fl. 22(2): 126 1905",,,,,250057-2,wfo-0001135869,3032603,
-d93586de-8fcd-11eb-924d-9cd76263cbd0,species,jamesii,Telesonix,,"(Torr.) Raf.",1836,"Fl. Tellur. 2: 69 1836",,,,,,wfo-0001135692,3032607,
-d935a3b2-8fcd-11eb-924d-9cd76263cbd0,variety,heucheriformis,Telesonix,jamesii,"(Rydb.) Bacig.",1947,"Leafl. W. Bot. 5(4): 71 1947",,,,,,wfo-0001135693,3032604,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb264690-8fd1-11eb-924d-9cd76263cbd0,genus,Telesonix,,,Raf.,,1836,,"Fl. Tellur. 2: 69. 1836[1837]. (Jan-Mar 1837)",,,,,,37173-1,wfo-4000037711,3032602,,
+d949bb18-8fcd-11eb-924d-9cd76263cbd0,species,heucheriformis,Telesonix,,"(Rydb.) Rydb.",,1905,,"N. Amer. Fl. 22(2): 126 1905",,,,,,250057-2,wfo-0001135869,3032603,,
+d93586de-8fcd-11eb-924d-9cd76263cbd0,species,jamesii,Telesonix,,"(Torr.) Raf.",,1836,,"Fl. Tellur. 2: 69 1836",,,,,,,wfo-0001135692,3032607,,
+d935a3b2-8fcd-11eb-924d-9cd76263cbd0,variety,heucheriformis,Telesonix,jamesii,"(Rydb.) Bacig.",,1947,,"Leafl. W. Bot. 5(4): 71 1947",,,,,,,wfo-0001135693,3032604,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb3cfed0-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrathyrium,,,Benth.,1861,"Fl. Hongk. 132. 1861.",,,,,,wfo-4000038011,7329106,
-b875eb2e-8fd1-11eb-924d-9cd76263cbd0,species,simaoense,Tetrathyrium,,Y.Y.Qian,1994,"Acta Bot. Yunnan. 16(3): 235–236, f. 1 1994",,,,,979708-1,wfo-0001240091,3702724,
-528f30d6-8fcc-11eb-924d-9cd76263cbd0,species,subcordata,Tetrathyrium,,Benth.,1861,"Fl. Hongk. 132 1861",,,,,,wfo-0000413906,,
-b9843d8a-8fcd-11eb-924d-9cd76263cbd0,species,subcordatum,Tetrathyrium,,Benth.,1861,"Fl. Hongk. 132–133 1861",,,,,430779-1,wfo-0001065313,5792988,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb3cfed0-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrathyrium,,,Benth.,,1861,,"Fl. Hongk. 132. 1861.",,,,,,,wfo-4000038011,7329106,,
+b875eb2e-8fd1-11eb-924d-9cd76263cbd0,species,simaoense,Tetrathyrium,,Y.Y.Qian,,1994,,"Acta Bot. Yunnan. 16(3): 235–236, f. 1 1994",,,,,,979708-1,wfo-0001240091,3702724,,
+528f30d6-8fcc-11eb-924d-9cd76263cbd0,species,subcordata,Tetrathyrium,,Benth.,,1861,,"Fl. Hongk. 132 1861",,,,,,,wfo-0000413906,,,
+b9843d8a-8fcd-11eb-924d-9cd76263cbd0,species,subcordatum,Tetrathyrium,,Benth.,,1861,,"Fl. Hongk. 132–133 1861",,,,,,430779-1,wfo-0001065313,5792988,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df37d65a-8fd1-11eb-924d-9cd76263cbd0,genus,Ammyrsine,,,Pursh,1814,"Fl. Amer. Sept. 1: 280, 301. 1814[1813].",,,,,,wfo-4000001637,7328787,
-9ba4e5d6-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Ammyrsine,,Pursh,1813,"Fl. Amer. Sept. 1: 301 1813",,,,,326193-1,wfo-0000531222,4173896,
-9ba502d2-8fcc-11eb-924d-9cd76263cbd0,species,lyoni,Ammyrsine,,Sweet,1830,"Hort. Brit. ed. 2: 344 1830",,,,,326194-1,wfo-0000531223,8756572,
-9ba51cea-8fcc-11eb-924d-9cd76263cbd0,species,thymifolia,Ammyrsine,,J.Forbes,1833,"Hort. Woburn. 93 1833",,,,,326196-1,wfo-0000531224,4173868,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df37d65a-8fd1-11eb-924d-9cd76263cbd0,genus,Ammyrsine,,,Pursh,,1814,,"Fl. Amer. Sept. 1: 280, 301. 1814[1813].",,,,,,,wfo-4000001637,7328787,,
+9ba4e5d6-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Ammyrsine,,Pursh,,1813,,"Fl. Amer. Sept. 1: 301 1813",,,,,,326193-1,wfo-0000531222,4173896,,
+9ba502d2-8fcc-11eb-924d-9cd76263cbd0,species,lyoni,Ammyrsine,,Sweet,,1830,,"Hort. Brit. ed. 2: 344 1830",,,,,,326194-1,wfo-0000531223,8756572,,
+9ba51cea-8fcc-11eb-924d-9cd76263cbd0,species,thymifolia,Ammyrsine,,J.Forbes,,1833,,"Hort. Woburn. 93 1833",,,,,,326196-1,wfo-0000531224,4173868,,

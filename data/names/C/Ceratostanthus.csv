@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e16e4760-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratostanthus,,,,,,,,,,,wfo-4000007385,7277362,
-c4aab3ac-8fcc-11eb-924d-9cd76263cbd0,species,ajacis,Ceratostanthus,,Schur,1866,"Enum. Pl. Transsilv. 30 1866",,,,,709390-1,wfo-0000596446,3925539,
-c4ab580c-8fcc-11eb-924d-9cd76263cbd0,species,consolida,Ceratostanthus,,Schur,1853,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,709391-1,wfo-0000596447,3925533,
-c4ab92d6-8fcc-11eb-924d-9cd76263cbd0,species,divaricatus,Ceratostanthus,,Schur,1853,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,709392-1,wfo-0000596448,3925526,
-c4abcee0-8fcc-11eb-924d-9cd76263cbd0,species,paniculatus,Ceratostanthus,,Schur,1853,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,709393-1,wfo-0000596450,3925518,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e16e4760-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratostanthus,,,,,,,,,,,,,,wfo-4000007385,7277362,,
+c4aab3ac-8fcc-11eb-924d-9cd76263cbd0,species,ajacis,Ceratostanthus,,Schur,,1866,,"Enum. Pl. Transsilv. 30 1866",,,,,,709390-1,wfo-0000596446,3925539,,
+c4ab580c-8fcc-11eb-924d-9cd76263cbd0,species,consolida,Ceratostanthus,,Schur,,1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,,709391-1,wfo-0000596447,3925533,,
+c4ab92d6-8fcc-11eb-924d-9cd76263cbd0,species,divaricatus,Ceratostanthus,,Schur,,1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,,709392-1,wfo-0000596448,3925526,,
+c4abcee0-8fcc-11eb-924d-9cd76263cbd0,species,paniculatus,Ceratostanthus,,Schur,,1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 46 1853",,,,,,709393-1,wfo-0000596450,3925518,,

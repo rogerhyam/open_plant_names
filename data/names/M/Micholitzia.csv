@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6a6e034-8fd1-11eb-924d-9cd76263cbd0,genus,Micholitzia,,,N.E.Br.,1909,"Bull. Misc. Inform. Kew 1909: 358. 1909.",,,,,3507-1,wfo-4000024011,7312271,
-caa3966a-8fcd-11eb-924d-9cd76263cbd0,species,obcordata,Micholitzia,,N.E.Br.,1909,"Bull. Misc. Inform. Kew 1909(9): 358–359 1909",,,,,,wfo-0001103421,3577528,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6a6e034-8fd1-11eb-924d-9cd76263cbd0,genus,Micholitzia,,,N.E.Br.,,1909,,"Bull. Misc. Inform. Kew 1909: 358. 1909.",,Q55782357,,,,3507-1,wfo-4000024011,7312271,,
+caa3966a-8fcd-11eb-924d-9cd76263cbd0,species,obcordata,Micholitzia,,N.E.Br.,,1909,,"Bull. Misc. Inform. Kew 1909(9): 358–359 1909",,,,,,,wfo-0001103421,3577528,,

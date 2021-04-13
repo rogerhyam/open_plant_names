@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deb7f9b2-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthophoenix,,,H.Wendl.,1865,"Ann. Gén. Hort. 16: 181. 1865-1867[1867]. (15 Dec 1867)",,,,,31060-1,wfo-4000000137,2738441,
-f8a18042-8fcb-11eb-924d-9cd76263cbd0,species,crinita,Acanthophoenix,,"(Bory) H.Wendl.",1866,"Ann. Gén. Hort. 6: 181 1866",,,,ee76abc4-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000278506,2738450,
-f8b51c10-8fcb-11eb-924d-9cd76263cbd0,species,grandis,Acanthophoenix,,L.Linden,1895,"Ill. Hort. 42: 185 1895",,,,,,wfo-0000278615,3593089,
-36781b0a-8fcd-11eb-924d-9cd76263cbd0,species,rousselii,Acanthophoenix,,N.Ludw.,1999,"Palms (1999+). 50: 84 2006",,,,,77078973-1,wfo-0000807391,2738442,
-f8c6557a-8fcb-11eb-924d-9cd76263cbd0,species,rubra,Acanthophoenix,,"(Bory) H.Wendl.",1866,"Fl. Serres Jard. Paris 2(6): 181 1866",,,,ef33e98c-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000278722,2738443,
-f8e98f36-8fcb-11eb-924d-9cd76263cbd0,species,scandens,Acanthophora,,Merr.,1918,"Philipp. J. Sci., C 13: 316 1918",,,,,89504-1,wfo-0000278937,5372190,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deb7f9b2-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthophoenix,,,H.Wendl.,,1865,,"Ann. Gén. Hort. 16: 181. 1865-1867[1867]. (15 Dec 1867)",,,,,,31060-1,wfo-4000000137,2738441,,
+f8a18042-8fcb-11eb-924d-9cd76263cbd0,species,crinita,Acanthophoenix,,"(Bory) H.Wendl.",,1866,,"Ann. Gén. Hort. 6: 181 1866",,,,ee76abc4-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000278506,2738450,,
+f8b51c10-8fcb-11eb-924d-9cd76263cbd0,species,grandis,Acanthophoenix,,L.Linden,,1895,,"Ill. Hort. 42: 185 1895",,,,,,,wfo-0000278615,3593089,,
+36781b0a-8fcd-11eb-924d-9cd76263cbd0,species,rousselii,Acanthophoenix,,N.Ludw.,,1999,,"Palms (1999+). 50: 84 2006",,,,,,77078973-1,wfo-0000807391,2738442,,
+f8c6557a-8fcb-11eb-924d-9cd76263cbd0,species,rubra,Acanthophoenix,,"(Bory) H.Wendl.",,1866,,"Fl. Serres Jard. Paris 2(6): 181 1866",,,,ef33e98c-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000278722,2738443,,
+f8e98f36-8fcb-11eb-924d-9cd76263cbd0,species,scandens,Acanthophora,,Merr.,,1918,,"Philipp. J. Sci., C 13: 316 1918",,,,,,89504-1,wfo-0000278937,5372190,,

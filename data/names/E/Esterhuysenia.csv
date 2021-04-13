@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3837f70-8fd1-11eb-924d-9cd76263cbd0,genus,Esterhuysenia,,,L.Bolus,1967,"J. S. African Bot. 33: 308. 1967.",,,,,1051-1,wfo-4000014057,7329231,
-f5ddb3a2-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Esterhuysenia,,L.Bolus,1967,"J. S. African Bot. 33: 309 1967",,,,,57484-1,wfo-0000680916,3703780,
-f5ddd15c-8fcc-11eb-924d-9cd76263cbd0,species,drepanophylla,Esterhuysenia,,"(Schltr. & A.Berger) H.E.K.Hartmann",1998,"Bradleya 16: 65 1998",,,,,1004549-1,wfo-0000680917,3703770,
-1b0eebd2-8fcd-11eb-924d-9cd76263cbd0,species,grahambeckii,Esterhuysenia,,"van Jaarsv.",2011,"Bradleya 29: 47 2011",,,,,77114840-1,wfo-0000749290,7493801,
-f5ddee12-8fcc-11eb-924d-9cd76263cbd0,species,inclaudens,Esterhuysenia,,"(L.Bolus) H.E.K.Hartmann",1998,"Bradleya 16: 66 1998",,,,d94cd8bc-8fd1-11eb-924d-9cd76263cbd0,1004550-1,wfo-0000680918,8514712,
-f5de08b6-8fcc-11eb-924d-9cd76263cbd0,species,mucronata,Esterhuysenia,,"(L.Bolus) Klak",2003,"Bradleya 21: 108 2003",,,,,60432179-2,wfo-0000680919,3703755,
-f5de2666-8fcc-11eb-924d-9cd76263cbd0,species,stokoei,Esterhuysenia,,"(L.Bolus) H.E.K.Hartmann",1998,"Bradleya 16: 66 1998",,,,,1004551-1,wfo-0000680920,3703747,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3837f70-8fd1-11eb-924d-9cd76263cbd0,genus,Esterhuysenia,,,L.Bolus,,1967,,"J. S. African Bot. 33: 308. 1967.",,,,,,1051-1,wfo-4000014057,7329231,,
+f5ddb3a2-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Esterhuysenia,,L.Bolus,,1967,,"J. S. African Bot. 33: 309 1967",,,,,,57484-1,wfo-0000680916,3703780,,
+f5ddd15c-8fcc-11eb-924d-9cd76263cbd0,species,drepanophylla,Esterhuysenia,,"(Schltr. & A.Berger) H.E.K.Hartmann",,1998,,"Bradleya 16: 65 1998",,Q96001590,,,,1004549-1,wfo-0000680917,3703770,,
+1b0eebd2-8fcd-11eb-924d-9cd76263cbd0,species,grahambeckii,Esterhuysenia,,"van Jaarsv.",,2011,,"Bradleya 29: 47 2011",,Q96001651,,,,77114840-1,wfo-0000749290,7493801,,
+f5ddee12-8fcc-11eb-924d-9cd76263cbd0,species,inclaudens,Esterhuysenia,,"(L.Bolus) H.E.K.Hartmann",,1998,,"Bradleya 16: 66 1998",,Q96001590,,d94cd8bc-8fd1-11eb-924d-9cd76263cbd0,,1004550-1,wfo-0000680918,8514712,,
+f5de08b6-8fcc-11eb-924d-9cd76263cbd0,species,mucronata,Esterhuysenia,,"(L.Bolus) Klak",,2003,,"Bradleya 21: 108 2003",,Q96001616,,,,60432179-2,wfo-0000680919,3703755,,
+f5de2666-8fcc-11eb-924d-9cd76263cbd0,species,stokoei,Esterhuysenia,,"(L.Bolus) H.E.K.Hartmann",,1998,,"Bradleya 16: 66 1998",,Q96001590,,,,1004551-1,wfo-0000680920,3703747,,

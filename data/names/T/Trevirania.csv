@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb7dd9e6-8fd1-11eb-924d-9cd76263cbd0,genus,Trevirania,,,Heynh.,1847,"Alph. Aufz. Gew. 736. 1847.",,,,,,wfo-4000038842,2893655,
-1779655c-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Trevirania,,"(Lindl.) Heynh.",1847,"Alph. Aufz. Gew. 736 1847",,,,,767961-1,wfo-0000327035,2920352,
-b950c32e-8fcd-11eb-924d-9cd76263cbd0,species,erinoides,Trevirania,,"(DC.) D.Dietr.",1843,"Syn. Pl. 3: 568 1843",,,,92d0c510-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001064852,7470554,
-709f50d8-8fcc-11eb-924d-9cd76263cbd0,species,gratiolae,Trevirania,,Roth,1810,"Beitr. Naturk. 2: 123 1810",,,,,810509-1,wfo-0000458534,6033111,
-ae483ce6-8fcd-11eb-924d-9cd76263cbd0,species,gratola,Trevirania,,Roth,1810,"Beitr. Naturk. 2: 123 1810",,,,,,wfo-0001039800,8046568,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb7dd9e6-8fd1-11eb-924d-9cd76263cbd0,genus,Trevirania,,,Heynh.,,1847,,"Alph. Aufz. Gew. 736. 1847.",,,,,,,wfo-4000038842,2893655,,
+1779655c-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Trevirania,,"(Lindl.) Heynh.",,1847,,"Alph. Aufz. Gew. 736 1847",,,,,,767961-1,wfo-0000327035,2920352,,
+b950c32e-8fcd-11eb-924d-9cd76263cbd0,species,erinoides,Trevirania,,"(DC.) D.Dietr.",,1843,,"Syn. Pl. 3: 568 1843",,,,92d0c510-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001064852,7470554,,
+709f50d8-8fcc-11eb-924d-9cd76263cbd0,species,gratiolae,Trevirania,,Roth,,1810,,"Beitr. Naturk. 2: 123 1810",,,,,,810509-1,wfo-0000458534,6033111,,
+ae483ce6-8fcd-11eb-924d-9cd76263cbd0,species,gratola,Trevirania,,Roth,,1810,,"Beitr. Naturk. 2: 123 1810",,,,,,,wfo-0001039800,8046568,,

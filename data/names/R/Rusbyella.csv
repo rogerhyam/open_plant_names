@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9d48356-8fd1-11eb-924d-9cd76263cbd0,genus,Rusbyella,,,"Rolfe ex Rusby",1896,"Mem. Torrey Bot. Club 6(1): 122. 1896.",,,,,,wfo-4000033643,8144792,
-37b4d620-8fcd-11eb-924d-9cd76263cbd0,species,alinae,Rusbyella,,Szlach.,2007,"Orchidee (Hamburg) 58: 90 2007",,,,,,wfo-0000810057,3652511,
-058fa86a-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Rusbyella,,"G.Gerlach & T.Franke",1997,"Revista Soc. Boliv. Bot. 1(2): 21 1997 publ. 1998",,,,,20001346-1,wfo-0000298980,2832825,
-058fc566-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Rusbyella,,Rolfe,1896,"Mem. Torrey Bot. Club 6: 122 1896",,,,,224633-2,wfo-0000298981,2832981,
-058fe08c-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Rusbyella,,"D.E.Benn. & Christenson",2001,"Icon. Orchid. Peruv. t. 752 2001",,,,,20000967-1,wfo-0000298982,2832977,
-058ffc16-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Rusbyella,,"(C.Schweinf.) Garay",1968,"Caldasia 10: 237 1968",,,,,224634-2,wfo-0000298983,2832710,
-059029b6-8fcc-11eb-924d-9cd76263cbd0,species,quadridentata,Rusbyella,,"(D.E.Benn. & Christenson) Senghas",2000,"J. Orchideenfr. 7: 135 2000",,,,,1054931-2,wfo-0000298984,2832980,
-05904b76-8fcc-11eb-924d-9cd76263cbd0,species,suarezii,Rusbyella,,"D.E.Benn. & Christenson",2001,"Icon. Orchid. Peruv. t. 753 2001",,,,,322923-2,wfo-0000298985,3652503,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9d48356-8fd1-11eb-924d-9cd76263cbd0,genus,Rusbyella,,,"Rolfe ex Rusby",,1896,,"Mem. Torrey Bot. Club 6(1): 122. 1896.",,,,,,,wfo-4000033643,8144792,,
+37b4d620-8fcd-11eb-924d-9cd76263cbd0,species,alinae,Rusbyella,,Szlach.,,2007,,"Orchidee (Hamburg) 58: 90 2007",,,,,,,wfo-0000810057,3652511,,
+058fa86a-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Rusbyella,,"G.Gerlach & T.Franke",,1997,,"Revista Soc. Boliv. Bot. 1(2): 21 1997 publ. 1998",,,,,,20001346-1,wfo-0000298980,2832825,,
+058fc566-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Rusbyella,,Rolfe,,1896,,"Mem. Torrey Bot. Club 6: 122 1896",,,,,,224633-2,wfo-0000298981,2832981,,
+058fe08c-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Rusbyella,,"D.E.Benn. & Christenson",,2001,,"Icon. Orchid. Peruv. t. 752 2001",,,,,,20000967-1,wfo-0000298982,2832977,,
+058ffc16-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Rusbyella,,"(C.Schweinf.) Garay",,1968,,"Caldasia 10: 237 1968",,Q95140236,,,,224634-2,wfo-0000298983,2832710,,
+059029b6-8fcc-11eb-924d-9cd76263cbd0,species,quadridentata,Rusbyella,,"(D.E.Benn. & Christenson) Senghas",,2000,,"J. Orchideenfr. 7: 135 2000",,,,,,1054931-2,wfo-0000298984,2832980,,
+05904b76-8fcc-11eb-924d-9cd76263cbd0,species,suarezii,Rusbyella,,"D.E.Benn. & Christenson",,2001,,"Icon. Orchid. Peruv. t. 753 2001",,,,,,322923-2,wfo-0000298985,3652503,,

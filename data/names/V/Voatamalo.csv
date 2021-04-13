@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebf96778-8fd1-11eb-924d-9cd76263cbd0,genus,Voatamalo,,,"Capuron ex Bosser",1976,"Adansonia, n.s. 15: 333. 1976.",,,,,16046-1,wfo-4000040403,3075272,
-1b261cf4-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Voatamalo,,Bosser,1975,"Adansonia n.s., 15: 339 1975 publ. 1976",,,,,358205-1,wfo-0000333654,3075273,
-1b265c50-8fcc-11eb-924d-9cd76263cbd0,species,eugenioides,Voatamalo,,"Capuron ex Bosser",1975,"Adansonia n.s., 15: 337 1975 publ. 1976",,,,,358206-1,wfo-0000333655,3075274,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebf96778-8fd1-11eb-924d-9cd76263cbd0,genus,Voatamalo,,,"Capuron ex Bosser",,1976,,"Adansonia, n.s. 15: 333. 1976.",,Q58837951,,,,16046-1,wfo-4000040403,3075272,,
+1b261cf4-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Voatamalo,,Bosser,,1975,,"Adansonia n.s., 15: 339 1975 publ. 1976",,Q58837951,,,,358205-1,wfo-0000333654,3075273,,
+1b265c50-8fcc-11eb-924d-9cd76263cbd0,species,eugenioides,Voatamalo,,"Capuron ex Bosser",,1975,,"Adansonia n.s., 15: 337 1975 publ. 1976",,Q58837951,,,,358206-1,wfo-0000333655,3075274,,

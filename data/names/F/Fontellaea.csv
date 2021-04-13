@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c51f70-8fd1-11eb-924d-9cd76263cbd0,genus,Fontellaea,,,Morillo,1994,"Anales Jard. Bot. Madrid 52(1): 35. 1994.",,,,,,wfo-4000014914,7312115,
-fbc9ae24-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Fontellaea,,Morillo,1994,"Anales Jard. Bot. Madrid 52: 36 1994",,,,,306722-2,wfo-0000691526,3575863,
-9ce7c778-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Fontenellea,,"A.St.-Hil. & Tul.",1842,"; 1842 141, t.7 1842",,,,,724948-1,wfo-0001003736,5370417,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c51f70-8fd1-11eb-924d-9cd76263cbd0,genus,Fontellaea,,,Morillo,,1994,,"Anales Jard. Bot. Madrid 52(1): 35. 1994.",,,,,,,wfo-4000014914,7312115,,
+fbc9ae24-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Fontellaea,,Morillo,,1994,,"Anales Jard. Bot. Madrid 52: 36 1994",,,,,,306722-2,wfo-0000691526,3575863,,
+9ce7c778-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Fontenellea,,"A.St.-Hil. & Tul.",,1842,,"; 1842 141, t.7 1842",,,,,,724948-1,wfo-0001003736,5370417,,

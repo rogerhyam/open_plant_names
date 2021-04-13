@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0473734-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharanthera,,,Schltr.,1913,"Bot. Jahrb. Syst. 51: 146, f. 2. 1913.",,,,,,wfo-4000004765,7312712,
-b23e0584-8fcc-11eb-924d-9cd76263cbd0,species,dinteri,Blepharanthera,,Schltr.,1913,"Bot. Jahrb. Syst. 51: 146 1913",,,,,94894-1,wfo-0000566545,3582434,
-b23e2258-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Blepharanthera,,Schltr.,1913,"Bot. Jahrb. Syst. 51: 147 1913",,,,,94895-1,wfo-0000566546,3582428,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0473734-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharanthera,,,Schltr.,,1913,,"Bot. Jahrb. Syst. 51: 146, f. 2. 1913.",,,,,,,wfo-4000004765,7312712,,
+b23e0584-8fcc-11eb-924d-9cd76263cbd0,species,dinteri,Blepharanthera,,Schltr.,,1913,,"Bot. Jahrb. Syst. 51: 146 1913",,,,,,94894-1,wfo-0000566545,3582434,,
+b23e2258-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Blepharanthera,,Schltr.,,1913,,"Bot. Jahrb. Syst. 51: 147 1913",,,,,,94895-1,wfo-0000566546,3582428,,

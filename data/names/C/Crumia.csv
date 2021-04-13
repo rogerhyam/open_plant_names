@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e235b106-8fd1-11eb-924d-9cd76263cbd0,genus,Crumia,,,W.B.Schofield,1966,"Canad. J. Bot. 44: 609, figs. 1–15. 1966.",,,,,,wfo-4000009819,2671771,
-f168f9ca-8fcd-11eb-924d-9cd76263cbd0,species,deciduidentata,Crumia,,"Sharp & Z.Iwats.",1969,"J. Hattori Bot. Lab. 32: 95. f. 1–2 1969",,,,,,wfo-0001186587,5711178,
-f14fbff0-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Crumia,,"(Kindb.) W.B.Schofield",1966,"Canad. J. Bot. 44: 610 1966",,,,ec536aba-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001186460,5280930,
-239bc334-8fc2-11eb-924d-9cd76263cbd0,species,giganteum,Cruminium,,Desv.,,,,,,,,wfo-0000175708,2965006,
-b3462d5c-8fcd-11eb-924d-9cd76263cbd0,species,virginianum,Cruminium,,"(L.) Britton",1891,"Bull. Torrey Bot. Club 18(9): 269 1891",,,,,71169-2,wfo-0001051174,3910302,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e235b106-8fd1-11eb-924d-9cd76263cbd0,genus,Crumia,,,W.B.Schofield,,1966,,"Canad. J. Bot. 44: 609, figs. 1–15. 1966.",,,,,,,wfo-4000009819,2671771,,
+f168f9ca-8fcd-11eb-924d-9cd76263cbd0,species,deciduidentata,Crumia,,"Sharp & Z.Iwats.",,1969,,"J. Hattori Bot. Lab. 32: 95. f. 1–2 1969",,,,,,,wfo-0001186587,5711178,,
+f14fbff0-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Crumia,,"(Kindb.) W.B.Schofield",,1966,,"Canad. J. Bot. 44: 610 1966",,,,ec536aba-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001186460,5280930,,
+239bc334-8fc2-11eb-924d-9cd76263cbd0,species,giganteum,Cruminium,,Desv.,,,,,,,,,,,wfo-0000175708,2965006,,
+b3462d5c-8fcd-11eb-924d-9cd76263cbd0,species,virginianum,Cruminium,,"(L.) Britton",,1891,,"Bull. Torrey Bot. Club 18(9): 269 1891",,Q55766339,,,,71169-2,wfo-0001051174,3910302,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53f4f10-8fd1-11eb-924d-9cd76263cbd0,genus,Johnia,,,Roxb.,1820,"Fl. Ind., ed. 1820 1: 172. 1820.",,,,,,wfo-4000019585,3231399,
-28676148-8fcc-11eb-924d-9cd76263cbd0,species,congesta,Johnia,,"Dalzell & A.Gibson",1861,"Bombay Fl. Suppl.: 23 1861",,,,,501110-1,wfo-0000354797,5628219,
-29018642-8fcc-11eb-924d-9cd76263cbd0,species,coromandeliana,Johnia,,Roxb.,1820,"Fl. Ind. 1: 173 1820",,,,,,wfo-0000355844,5580208,
-408a092c-8fc4-11eb-924d-9cd76263cbd0,species,petitiana,Johnia,,A.Rich.,,,,,,,,wfo-0000187223,5350546,
-2901a474-8fcc-11eb-924d-9cd76263cbd0,species,salacioides,Johnia,,Roxb.,1820,"Fl. Ind. 1: 172 1820",,,,,,wfo-0000355845,5580198,
-2901e362-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Johnia,,Buch.-Ham.,,"Numer. List 4219 1831",,,,,161674-1,wfo-0000355847,5580194,
-4071c178-8fc4-11eb-924d-9cd76263cbd0,species,wightii,Johnia,,"(Wight & Arn.) Wight & Arn.",,,,,,,,wfo-0000187221,5350538,
-b6185b36-8fcd-11eb-924d-9cd76263cbd0,species,willdenowia,Johnia,,Hook.f.,1849,"Niger Fl. 305 1849",,,,,501113-1,wfo-0001057516,5628212,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53f4f10-8fd1-11eb-924d-9cd76263cbd0,genus,Johnia,,,Roxb.,,1820,,"Fl. Ind., ed. 1820 1: 172. 1820.",,,,,,,wfo-4000019585,3231399,,
+28676148-8fcc-11eb-924d-9cd76263cbd0,species,congesta,Johnia,,"Dalzell & A.Gibson",,1861,,"Bombay Fl. Suppl.: 23 1861",,,,,,501110-1,wfo-0000354797,5628219,,
+29018642-8fcc-11eb-924d-9cd76263cbd0,species,coromandeliana,Johnia,,Roxb.,,1820,,"Fl. Ind. 1: 173 1820",,,,,,,wfo-0000355844,5580208,,
+408a092c-8fc4-11eb-924d-9cd76263cbd0,species,petitiana,Johnia,,A.Rich.,,,,,,,,,,,wfo-0000187223,5350546,,
+2901a474-8fcc-11eb-924d-9cd76263cbd0,species,salacioides,Johnia,,Roxb.,,1820,,"Fl. Ind. 1: 172 1820",,,,,,,wfo-0000355845,5580198,,
+2901e362-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Johnia,,Buch.-Ham.,,,,"Numer. List 4219 1831",,,,,,161674-1,wfo-0000355847,5580194,,
+4071c178-8fc4-11eb-924d-9cd76263cbd0,species,wightii,Johnia,,"(Wight & Arn.) Wight & Arn.",,,,,,,,,,,wfo-0000187221,5350538,,
+b6185b36-8fcd-11eb-924d-9cd76263cbd0,species,willdenowia,Johnia,,Hook.f.,,1849,,"Niger Fl. 305 1849",,,,,,501113-1,wfo-0001057516,5628212,,

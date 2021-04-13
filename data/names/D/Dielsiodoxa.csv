@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2c34750-8fd1-11eb-924d-9cd76263cbd0,genus,Dielsiodoxa,,,Albr.,,,,,,,77108154-1,wfo-4000011676,7679423,
-19a5c55e-8fcd-11eb-924d-9cd76263cbd0,species,leucantha,Dielsiodoxa,,"(E.Pritz.) Albr.",2010,"Austral. Syst. Bot. 23: 330 2010",,,,3530a84e-8fcc-11eb-924d-9cd76263cbd0,77108155-1,wfo-0000746291,8387042,
-19b1302e-8fcd-11eb-924d-9cd76263cbd0,species,oligarrhenoides,Dielsiodoxa,,"(F.Muell.) Albr.",2010,"Austral. Syst. Bot. 23: 330 2010",,,,,77108156-1,wfo-0000746386,7819362,
-19b1f4b4-8fcd-11eb-924d-9cd76263cbd0,species,tamariscina,Dielsiodoxa,,"(F.Muell.) Albr.",2010,"Austral. Syst. Bot. 23: 330 2010",,,,352e2970-8fcc-11eb-924d-9cd76263cbd0,77108157-1,wfo-0000746393,8184979,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2c34750-8fd1-11eb-924d-9cd76263cbd0,genus,Dielsiodoxa,,,Albr.,,,,,,Q54553165,,,,77108154-1,wfo-4000011676,7679423,,
+19a5c55e-8fcd-11eb-924d-9cd76263cbd0,species,leucantha,Dielsiodoxa,,"(E.Pritz.) Albr.",,2010,,"Austral. Syst. Bot. 23: 330 2010",,Q54553165,,3530a84e-8fcc-11eb-924d-9cd76263cbd0,,77108155-1,wfo-0000746291,8387042,,
+19b1302e-8fcd-11eb-924d-9cd76263cbd0,species,oligarrhenoides,Dielsiodoxa,,"(F.Muell.) Albr.",,2010,,"Austral. Syst. Bot. 23: 330 2010",,Q54553165,,,,77108156-1,wfo-0000746386,7819362,,
+19b1f4b4-8fcd-11eb-924d-9cd76263cbd0,species,tamariscina,Dielsiodoxa,,"(F.Muell.) Albr.",,2010,,"Austral. Syst. Bot. 23: 330 2010",,Q54553165,,352e2970-8fcc-11eb-924d-9cd76263cbd0,,77108157-1,wfo-0000746393,8184979,,

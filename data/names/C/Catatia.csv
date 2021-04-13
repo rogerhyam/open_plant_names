@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e14d9038-8fd1-11eb-924d-9cd76263cbd0,genus,Catatia,,,Humbert,,,,,,,8131-1,wfo-4000006983,3095113,
-1f683a4a-8fb3-11eb-924d-9cd76263cbd0,species,attenuata,Catatia,,Humbert,1923,1923,,,,,,wfo-0000042051,3095114,
-376243e4-8fb2-11eb-924d-9cd76263cbd0,species,cordata,Catatia,,Humbert,1923,1923,,,,,,wfo-0000016202,3095115,
-3d2a75c2-8fc5-11eb-924d-9cd76263cbd0,species,caudata,Catenaria,,"(Thunb.) Schindl.",,,,,,,,wfo-0000192059,5348539,
-3d37e63a-8fc5-11eb-924d-9cd76263cbd0,species,laburnifolia,Catenaria,,"(Poir.) Benth.",,,,,,,,wfo-0000192060,5348537,
-5d8125d6-8fc6-11eb-924d-9cd76263cbd0,species,laburnifolium,Catenaria,,"(Poir.) Benth.",,,,,,3d5109b2-8fc5-11eb-924d-9cd76263cbd0,,wfo-0000197624,,
-c0fa68ba-8fcc-11eb-924d-9cd76263cbd0,species,hedysaroides,Catenularia,,Botsch.,1957,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 18: 102 1957",,,,,280837-1,wfo-0000590796,5375143,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e14d9038-8fd1-11eb-924d-9cd76263cbd0,genus,Catatia,,,Humbert,,,,,,,,,,8131-1,wfo-4000006983,3095113,,
+1f683a4a-8fb3-11eb-924d-9cd76263cbd0,species,attenuata,Catatia,,Humbert,,1923,,1923,,,,,,,wfo-0000042051,3095114,,
+376243e4-8fb2-11eb-924d-9cd76263cbd0,species,cordata,Catatia,,Humbert,,1923,,1923,,,,,,,wfo-0000016202,3095115,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebb453b8-8fd1-11eb-924d-9cd76263cbd0,genus,Tuctoria,,,Reeder,,"Amer. J. Bot. 69(7): 1090. 1982. (30 Aug 1982)",,,,,893247-1,wfo-4000039546,2704084,
-6a949576-8fcd-11eb-924d-9cd76263cbd0,species,fragilis,Tuctoria,,"(Swallen) Reeder",,"Amer. J. Bot. 69: 1090 1982",,,,,911605-1,wfo-0000906583,4153211,
-6a94b51a-8fcd-11eb-924d-9cd76263cbd0,species,greenei,Tuctoria,,"(Vasey) Reeder",,"Amer. J. Bot. 69: 1091 1982",,,,590b45ca-8fcd-11eb-924d-9cd76263cbd0,911606-1,wfo-0000906584,2704085,
-6a94dc3e-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Tuctoria,,"(Crampton) Reeder",,"Amer. J. Bot. 69: 1091 1982",,,,590b7c2a-8fcd-11eb-924d-9cd76263cbd0,260319-2,wfo-0000906585,2704087,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebb453b8-8fd1-11eb-924d-9cd76263cbd0,genus,Tuctoria,,,Reeder,,,,"Amer. J. Bot. 69(7): 1090. 1982. (30 Aug 1982)",,Q55766256,,,,893247-1,wfo-4000039546,2704084,,
+6a949576-8fcd-11eb-924d-9cd76263cbd0,species,fragilis,Tuctoria,,"(Swallen) Reeder",,,,"Amer. J. Bot. 69: 1090 1982",,Q55766256,,,,911605-1,wfo-0000906583,4153211,,
+6a94b51a-8fcd-11eb-924d-9cd76263cbd0,species,greenei,Tuctoria,,"(Vasey) Reeder",,,,"Amer. J. Bot. 69: 1091 1982",,Q55766256,,590b45ca-8fcd-11eb-924d-9cd76263cbd0,,911606-1,wfo-0000906584,2704085,,
+6a94dc3e-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Tuctoria,,"(Crampton) Reeder",,,,"Amer. J. Bot. 69: 1091 1982",,Q55766256,,590b7c2a-8fcd-11eb-924d-9cd76263cbd0,,260319-2,wfo-0000906585,2704087,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea879356-8fd1-11eb-924d-9cd76263cbd0,genus,Soranthus,,,Ledeb.,1829,"Icon. Pl. 1: 20. 1829.",,,,,,wfo-4000035791,6026517,
-bae7dae2-8fcd-11eb-924d-9cd76263cbd0,species,meyeri,Soranthus,,Ledeb.,1829,"Icon. Pl. 1: 20 1829",,,,,,wfo-0001068548,3638522,
-60015744-8fcc-11eb-924d-9cd76263cbd0,species,peucedanifolius,Soranthus,,Woronow,1931,"in Fl. Yugo-Vost. Evropy Chast. SSSR 5: 823 1931",,,,,849138-1,wfo-0000431289,,
-60007b62-8fcc-11eb-924d-9cd76263cbd0,species,sibiricus,Soranthus,,Koso-Pol.,1914,"V?stn. Tiflissk. Bot. Sada 16: 216 1914",,,,,849140-1,wfo-0000431283,3638506,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea879356-8fd1-11eb-924d-9cd76263cbd0,genus,Soranthus,,,Ledeb.,,1829,,"Icon. Pl. 1: 20. 1829.",,,,,,,wfo-4000035791,6026517,,
+bae7dae2-8fcd-11eb-924d-9cd76263cbd0,species,meyeri,Soranthus,,Ledeb.,,1829,,"Icon. Pl. 1: 20 1829",,,,,,,wfo-0001068548,3638522,,
+60015744-8fcc-11eb-924d-9cd76263cbd0,species,peucedanifolius,Soranthus,,Woronow,,1931,,"in Fl. Yugo-Vost. Evropy Chast. SSSR 5: 823 1931",,,,,,849138-1,wfo-0000431289,,,
+60007b62-8fcc-11eb-924d-9cd76263cbd0,species,sibiricus,Soranthus,,Koso-Pol.,,1914,,"V?stn. Tiflissk. Bot. Sada 16: 216 1914",,,,,,849140-1,wfo-0000431283,3638506,,

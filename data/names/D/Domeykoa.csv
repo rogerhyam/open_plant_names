@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2fd5c4c-8fd1-11eb-924d-9cd76263cbd0,genus,Domeykoa,,,Phil.,1860,"Fl. Atacam. 25. 1860.",,,,,39934-1,wfo-4000012393,6026942,
-4d440298-8fbb-11eb-924d-9cd76263cbd0,species,amplexicaulis,Domeykoa,,"Mathias & Constance",,,,,,,,wfo-0000133196,3132742,
-e65259f6-8fcc-11eb-924d-9cd76263cbd0,species,oppositifolia,Domeykoa,,Phil.,1860,"Fl. Atacam. 25 1860",,,,,841414-1,wfo-0000654043,3636727,
-e6528c14-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Domeykoa,,I.M.Johnst.,1929,"Contr. Gray Herb. 85: 88 1929",,,,,83124-2,wfo-0000654044,3636710,
-e652af8c-8fcc-11eb-924d-9cd76263cbd0,species,saniculifolia,Domeykoa,,"Mathias & Constance",1962,"Univ. Calif. Publ. Bot. 33: 179 1962",,,,,83125-2,wfo-0000654045,3636695,
-41c86b0e-8fcd-11eb-924d-9cd76263cbd0,species,crassimarginata,Dominella,,E.Wimm.,1953,"Pflanzenr. IV, 276b(107): 754 1953",,,,,83126-2,wfo-0000831650,3166028,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2fd5c4c-8fd1-11eb-924d-9cd76263cbd0,genus,Domeykoa,,,Phil.,,1860,,"Fl. Atacam. 25. 1860.",,,,,,39934-1,wfo-4000012393,6026942,,
+4d440298-8fbb-11eb-924d-9cd76263cbd0,species,amplexicaulis,Domeykoa,,"Mathias & Constance",,,,,,,,,,,wfo-0000133196,3132742,,
+e65259f6-8fcc-11eb-924d-9cd76263cbd0,species,oppositifolia,Domeykoa,,Phil.,,1860,,"Fl. Atacam. 25 1860",,,,,,841414-1,wfo-0000654043,3636727,,
+e6528c14-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Domeykoa,,I.M.Johnst.,,1929,,"Contr. Gray Herb. 85: 88 1929",,Q94388501,,,,83124-2,wfo-0000654044,3636710,,
+e652af8c-8fcc-11eb-924d-9cd76263cbd0,species,saniculifolia,Domeykoa,,"Mathias & Constance",,1962,,"Univ. Calif. Publ. Bot. 33: 179 1962",,,,,,83125-2,wfo-0000654045,3636695,,
+41c86b0e-8fcd-11eb-924d-9cd76263cbd0,species,crassimarginata,Dominella,,E.Wimm.,,1953,,"Pflanzenr. IV, 276b(107): 754 1953",,,,,,83126-2,wfo-0000831650,3166028,,

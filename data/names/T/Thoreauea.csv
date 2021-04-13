@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb4f31e0-8fd1-11eb-924d-9cd76263cbd0,genus,Thoreauea,,,J.K.Williams,2002,"Lundellia 5: 47–57, f. 1–2. 2002. (18 Dec 2002)",,,,,326443-2,wfo-4000038247,7317149,
-3361de24-8fcd-11eb-924d-9cd76263cbd0,species,aberrans,Thoreauea,,J.F.Morales,2005,"Brittonia 57: 260 2005",,,,,,wfo-0000800951,3619760,
-37daf382-8fcd-11eb-924d-9cd76263cbd0,species,guerrerensis,Thoreauea,,"Diego & Lozada-Pérez",2006,"Novon 16: 332 2006",,,,,60446003-2,wfo-0000810397,3619752,
-b5fd60a2-8fcc-11eb-924d-9cd76263cbd0,species,paneroi,Thoreauea,,J.K.Williams,2002,"Lundellia 5: 47 2002",,,,,326444-2,wfo-0000572822,3619732,
-4f36ab1c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Thoreldora,,Pierre,1897,"Fl. Forest. Cochinch. t. 334 1897",,,,,,wfo-0000409769,11046122,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb4f31e0-8fd1-11eb-924d-9cd76263cbd0,genus,Thoreauea,,,J.K.Williams,,2002,,"Lundellia 5: 47–57, f. 1–2. 2002. (18 Dec 2002)",,Q100428224,,,,326443-2,wfo-4000038247,7317149,,
+3361de24-8fcd-11eb-924d-9cd76263cbd0,species,aberrans,Thoreauea,,J.F.Morales,,2005,,"Brittonia 57: 260 2005",,,,,,,wfo-0000800951,3619760,,
+37daf382-8fcd-11eb-924d-9cd76263cbd0,species,guerrerensis,Thoreauea,,"Diego & Lozada-Pérez",,2006,,"Novon 16: 332 2006",,Q55790951,,,,60446003-2,wfo-0000810397,3619752,,
+b5fd60a2-8fcc-11eb-924d-9cd76263cbd0,species,paneroi,Thoreauea,,J.K.Williams,,2002,,"Lundellia 5: 47 2002",,Q100428224,,,,326444-2,wfo-0000572822,3619732,,
+4f36ab1c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Thoreldora,,Pierre,,1897,,"Fl. Forest. Cochinch. t. 334 1897",,,,,,,wfo-0000409769,11046122,,

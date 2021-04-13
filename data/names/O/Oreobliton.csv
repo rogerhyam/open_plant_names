@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e79f4224-8fd1-11eb-924d-9cd76263cbd0,genus,Oreobliton,,,"Durieu & Moq.",1847,"Rev. Bot. Recueil Mens. 2: 428. 1847.",,,,,6948-1,wfo-4000027062,7339883,
-3b01a9e4-8fcc-11eb-924d-9cd76263cbd0,species,cardosoi,Oreobliton,,"Boerl. ex A.Chev.",,"Revista Brasil. Biol. 15: 1005 1935",,,,,166320-1,wfo-0000383562,3758201,
-3b018978-8fcc-11eb-924d-9cd76263cbd0,species,chenopodioides,Oreobliton,,"(L.) Coss. & Durieu",1855,"Bull. Soc. Bot. France 2: 367 1855",,,,b27d2610-8fcc-11eb-924d-9cd76263cbd0,166321-1,wfo-0000383561,3758193,
-3b0164f2-8fcc-11eb-924d-9cd76263cbd0,species,thesioides,Oreobliton,,"Durieu & Moq.",1847,"Rev. Bot. Recueil Mens. 2: 428 1847",,,,,166322-1,wfo-0000383560,3758184,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e79f4224-8fd1-11eb-924d-9cd76263cbd0,genus,Oreobliton,,,"Durieu & Moq.",,1847,,"Rev. Bot. Recueil Mens. 2: 428. 1847.",,,,,,6948-1,wfo-4000027062,7339883,,
+3b01a9e4-8fcc-11eb-924d-9cd76263cbd0,species,cardosoi,Oreobliton,,"Boerl. ex A.Chev.",,,,"Revista Brasil. Biol. 15: 1005 1935",,Q96002269,,,,166320-1,wfo-0000383562,3758201,,
+3b018978-8fcc-11eb-924d-9cd76263cbd0,species,chenopodioides,Oreobliton,,"(L.) Coss. & Durieu",,1855,,"Bull. Soc. Bot. France 2: 367 1855",,Q55756443,,b27d2610-8fcc-11eb-924d-9cd76263cbd0,,166321-1,wfo-0000383561,3758193,,
+3b0164f2-8fcc-11eb-924d-9cd76263cbd0,species,thesioides,Oreobliton,,"Durieu & Moq.",,1847,,"Rev. Bot. Recueil Mens. 2: 428 1847",,,,,,166322-1,wfo-0000383560,3758184,,

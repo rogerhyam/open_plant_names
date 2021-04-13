@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eafd7e9a-8fd1-11eb-924d-9cd76263cbd0,genus,Symphipappus,,,,,,,,,,,wfo-4000037190,6064610,
-d11fce06-8fd1-11eb-924d-9cd76263cbd0,species,compressus,Symphipappus,,B.L.Rob.,1928,"Contr. Gray Herb. 80: 12 1928",,,,,,wfo-0001281887,8404175,
-43a96c72-8fb2-11eb-924d-9cd76263cbd0,species,dichotomus,Symphipappus,,Klatt,1896,"Bull. Herb. Boissier iv. (1896) 462.",,,,,,wfo-0000018085,4238074,
-d11ff99e-8fd1-11eb-924d-9cd76263cbd0,species,polystachyus,Symphipappus,,Baker,,"Fl. Bras. 6(2): 368",,,,,,wfo-0001281888,7931325,
-44c7b398-8fb2-11eb-924d-9cd76263cbd0,species,reticulatus,Symphipappus,,Baker,1876,"Fl. Bras. (Martius) 6(2): 367 1876",,,,,,wfo-0000018286,6296046,
-2d0ab150-8fb8-11eb-924d-9cd76263cbd0,variety,vernicosus,Symphipappus,reticulatus,"(Sch.Bip.) Baker",1876,"Fl. Bras. (Martius) 6(2): 368. 1876",,,,,,wfo-0000106926,6294239,
-d668f5a8-8fcd-11eb-924d-9cd76263cbd0,species,viscosus,Symphipappus,,Baker,,,,,,,,wfo-0001129224,7570096,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eafd7e9a-8fd1-11eb-924d-9cd76263cbd0,genus,Symphipappus,,,,,,,,,,,,,,wfo-4000037190,6064610,,
+d11fce06-8fd1-11eb-924d-9cd76263cbd0,species,compressus,Symphipappus,,B.L.Rob.,,1928,,"Contr. Gray Herb. 80: 12 1928",,,,,,,wfo-0001281887,8404175,,
+43a96c72-8fb2-11eb-924d-9cd76263cbd0,species,dichotomus,Symphipappus,,Klatt,,1896,,"Bull. Herb. Boissier iv. (1896) 462.",,,,,,,wfo-0000018085,4238074,,
+d11ff99e-8fd1-11eb-924d-9cd76263cbd0,species,polystachyus,Symphipappus,,Baker,,,,"Fl. Bras. 6(2): 368",,,,,,,wfo-0001281888,7931325,,
+44c7b398-8fb2-11eb-924d-9cd76263cbd0,species,reticulatus,Symphipappus,,Baker,,1876,,"Fl. Bras. (Martius) 6(2): 367 1876",,,,,,,wfo-0000018286,6296046,,
+2d0ab150-8fb8-11eb-924d-9cd76263cbd0,variety,vernicosus,Symphipappus,reticulatus,"(Sch.Bip.) Baker",,1876,,"Fl. Bras. (Martius) 6(2): 368. 1876",,,,,,,wfo-0000106926,6294239,,
+d668f5a8-8fcd-11eb-924d-9cd76263cbd0,species,viscosus,Symphipappus,,Baker,,,,,,,,,,,wfo-0001129224,7570096,,

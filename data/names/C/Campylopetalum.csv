@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1251d60-8fd1-11eb-924d-9cd76263cbd0,genus,Campylopetalum,,,Forman,1953,"Kew Bull. 1953: 555. 1954.",,,,,1765-1,wfo-4000006471,4087089,
-bc509316-8fcc-11eb-924d-9cd76263cbd0,species,siamense,Campylopetalum,,Forman,1953,"Kew Bull. 8: 555 1953 publ. 1954",,,,,,wfo-0000583205,4087092,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1251d60-8fd1-11eb-924d-9cd76263cbd0,genus,Campylopetalum,,,Forman,,1953,,"Kew Bull. 1953: 555. 1954.",,Q43260693,,,,1765-1,wfo-4000006471,4087089,,
+bc509316-8fcc-11eb-924d-9cd76263cbd0,species,siamense,Campylopetalum,,Forman,,1953,,"Kew Bull. 8: 555 1953 publ. 1954",,,,,,,wfo-0000583205,4087092,,

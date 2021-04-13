@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9bb33a-8fd1-11eb-924d-9cd76263cbd0,genus,Triniochloa,,,Hitchc.,1913,"Contr. U.S. Natl. Herb. 17: 303. 1913.",,,,,289371-2,wfo-4000039224,4118624,
-690a6366-8fcd-11eb-924d-9cd76263cbd0,species,alpestris,Triniochloa,,"(Humb., Bonpl. & Kunth) Pittier",1937,"Bol. Tecn. Minist. Agric. 1: 3 1937",,,,,,wfo-0000904498,4118691,
-690ab4e2-8fcd-11eb-924d-9cd76263cbd0,species,andina,Triniochloa,,Luces,1953,"Bol. Soc. Venez. Ci. Nat. 15: 15 1953",,,,,258438-2,wfo-0000904500,4118681,
-690adddc-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Triniochloa,,"Gómez-Sánchez & Gonz.-Led.",1998,"Novon 8: 144 1998",,,,,1002693-1,wfo-0000904501,4118672,
-690b05b4-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Triniochloa,,Hitchc.,1913,"Contr. U. S. Natl. Herb. 17: 304 1913",,,,,258439-2,wfo-0000904502,4118663,
-690cf16c-8fcd-11eb-924d-9cd76263cbd0,species,micrantha,Triniochloa,,"(Scribn.) Hitchc.",1913,"Contr. U. S. Natl. Herb. 17: 304 1913",,,,4b220c46-8fcd-11eb-924d-9cd76263cbd0,258440-2,wfo-0000904503,4118652,
-690d73e4-8fcd-11eb-924d-9cd76263cbd0,species,stipoides,Triniochloa,,"(Kunth) Hitchc.",1913,"Contr. U. S. Natl. Herb. 17: 303 1913",,,,,258441-2,wfo-0000904504,4118637,
-690db4bc-8fcd-11eb-924d-9cd76263cbd0,species,talpensis,Triniochloa,,"Gonz.-Led. & Gómez-Sánchez",1995,"Novon 5: 36 1995",,,,,982466-1,wfo-0000904505,4118623,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9bb33a-8fd1-11eb-924d-9cd76263cbd0,genus,Triniochloa,,,Hitchc.,,1913,,"Contr. U.S. Natl. Herb. 17: 303. 1913.",,Q95371308,,,,289371-2,wfo-4000039224,4118624,,
+690a6366-8fcd-11eb-924d-9cd76263cbd0,species,alpestris,Triniochloa,,"(Humb., Bonpl. & Kunth) Pittier",,1937,,"Bol. Tecn. Minist. Agric. 1: 3 1937",,,,,,,wfo-0000904498,4118691,,
+690ab4e2-8fcd-11eb-924d-9cd76263cbd0,species,andina,Triniochloa,,Luces,,1953,,"Bol. Soc. Venez. Ci. Nat. 15: 15 1953",,,,,,258438-2,wfo-0000904500,4118681,,
+690adddc-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Triniochloa,,"Gómez-Sánchez & Gonz.-Led.",,1998,,"Novon 8: 144 1998",,Q55774355,,,,1002693-1,wfo-0000904501,4118672,,
+690b05b4-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Triniochloa,,Hitchc.,,1913,,"Contr. U. S. Natl. Herb. 17: 304 1913",,Q95371308,,,,258439-2,wfo-0000904502,4118663,,
+690cf16c-8fcd-11eb-924d-9cd76263cbd0,species,micrantha,Triniochloa,,"(Scribn.) Hitchc.",,1913,,"Contr. U. S. Natl. Herb. 17: 304 1913",,Q95371308,,4b220c46-8fcd-11eb-924d-9cd76263cbd0,,258440-2,wfo-0000904503,4118652,,
+690d73e4-8fcd-11eb-924d-9cd76263cbd0,species,stipoides,Triniochloa,,"(Kunth) Hitchc.",,1913,,"Contr. U. S. Natl. Herb. 17: 303 1913",,Q95371308,,,,258441-2,wfo-0000904504,4118637,,
+690db4bc-8fcd-11eb-924d-9cd76263cbd0,species,talpensis,Triniochloa,,"Gonz.-Led. & Gómez-Sánchez",,1995,,"Novon 5: 36 1995",,Q55774159,,,,982466-1,wfo-0000904505,4118623,,

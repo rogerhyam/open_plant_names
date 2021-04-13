@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89595f2-8fd1-11eb-924d-9cd76263cbd0,genus,Piresia,,,Swallen,1964,"Phytologia 11(3): 152. 1964.",,,,,289395-2,wfo-4000029863,4112283,
-5d76e5c4-8fcd-11eb-924d-9cd76263cbd0,species,goeldii,Piresia,,Swallen,1964,"Phytologia 11: 153 1964",,,,,199906-2,wfo-0000890881,4133219,
-5d770356-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Piresia,,Soderstr.,1982,"Brittonia 34: 206 1982",,,,,199907-2,wfo-0000890882,4133211,
-5d771fe4-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Piresia,,Soderstr.,1982,"Brittonia 34: 203 1982",,,,,199908-2,wfo-0000890883,4133194,
-afd509f4-8fcd-11eb-924d-9cd76263cbd0,species,palmula,Piresia,,"Carvalho, Maria Luiza de & R.P.Oliveira",2012,"Syst. Bot. 37(1): 134–138 2012",,,,,,wfo-0001043316,7400047,
-5d77414a-8fcd-11eb-924d-9cd76263cbd0,species,sympodica,Piresia,,"(Döll) Swallen",1964,"Phytologia 11: 153 1964",,,,58ed5f7e-8fcd-11eb-924d-9cd76263cbd0,199909-2,wfo-0000890884,4133173,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89595f2-8fd1-11eb-924d-9cd76263cbd0,genus,Piresia,,,Swallen,,1964,,"Phytologia 11(3): 152. 1964.",,,,,,289395-2,wfo-4000029863,4112283,,
+5d76e5c4-8fcd-11eb-924d-9cd76263cbd0,species,goeldii,Piresia,,Swallen,,1964,,"Phytologia 11: 153 1964",,,,,,199906-2,wfo-0000890881,4133219,,
+5d770356-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Piresia,,Soderstr.,,1982,,"Brittonia 34: 206 1982",,Q55769926,,,,199907-2,wfo-0000890882,4133211,,
+5d771fe4-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Piresia,,Soderstr.,,1982,,"Brittonia 34: 203 1982",,Q55769926,,,,199908-2,wfo-0000890883,4133194,,
+afd509f4-8fcd-11eb-924d-9cd76263cbd0,species,palmula,Piresia,,"Carvalho, Maria Luiza de & R.P.Oliveira",,2012,,"Syst. Bot. 37(1): 134–138 2012",,,,,,,wfo-0001043316,7400047,,
+5d77414a-8fcd-11eb-924d-9cd76263cbd0,species,sympodica,Piresia,,"(Döll) Swallen",,1964,,"Phytologia 11: 153 1964",,,,58ed5f7e-8fcd-11eb-924d-9cd76263cbd0,,199909-2,wfo-0000890884,4133173,,

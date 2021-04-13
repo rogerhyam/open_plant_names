@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e00ab98a-8fd1-11eb-924d-9cd76263cbd0,genus,Baldwiniella,,,Broth.,1906,"Hedwigia 45: 71. 1906.",,,,,,wfo-4000003956,2678673,
-f46013f2-8fcd-11eb-924d-9cd76263cbd0,species,kealeensis,Baldwiniella,,"(Reichardt) E.B.Bartram",1933,"Bernice P. Bishop Mus. Bull. 101: 179. 133 1933",,,,f22f59f8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001192506,2678674,
-de84df9a-8fcd-11eb-924d-9cd76263cbd0,species,tibetana,Baldwiniella,,C.Gao,1979,"Acta Phytotax. Sin. 17: 117. f. 2: 12–17 1979",,,,,,wfo-0001146773,7563914,
-093a6c88-8fcd-11eb-924d-9cd76263cbd0,species,balearicus,,,Dans.,1939,"Nuovo Giorn. Bot. Ital. n.s., 46: 359 1939",,,,,168627-1,wfo-0000714693,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e00ab98a-8fd1-11eb-924d-9cd76263cbd0,genus,Baldwiniella,,,Broth.,,1906,,"Hedwigia 45: 71. 1906.",,,,,,,wfo-4000003956,2678673,,
+f46013f2-8fcd-11eb-924d-9cd76263cbd0,species,kealeensis,Baldwiniella,,"(Reichardt) E.B.Bartram",,1933,,"Bernice P. Bishop Mus. Bull. 101: 179. 133 1933",,,,f22f59f8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192506,2678674,,
+de84df9a-8fcd-11eb-924d-9cd76263cbd0,species,tibetana,Baldwiniella,,C.Gao,,1979,,"Acta Phytotax. Sin. 17: 117. f. 2: 12–17 1979",,,,,,,wfo-0001146773,7563914,,
+093a6c88-8fcd-11eb-924d-9cd76263cbd0,species,balearicus,,,Dans.,,1939,,"Nuovo Giorn. Bot. Ital. n.s., 46: 359 1939",,,,,,168627-1,wfo-0000714693,,,

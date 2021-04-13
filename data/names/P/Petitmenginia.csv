@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8485170-8fd1-11eb-924d-9cd76263cbd0,genus,Petitmenginia,,,Bonati,1911,"Notul. Syst. (Paris) 1: 335. 1911.",,,,,,wfo-4000028945,7332093,
-b6768234-8fd1-11eb-924d-9cd76263cbd0,species,comosa,Petitmenginia,,Bonati,1911,"Notul. Syst. (Paris) 1: 335 1911",,,,,808361-1,wfo-0001236382,3729328,
-db741320-8fcd-11eb-924d-9cd76263cbd0,species,matsumurae,Petitmenginia,,T.Yamaz.,1950,"J. Jap. Bot. 25(9–12): 214–215, f. 2 1950",,,,,,wfo-0001140141,3729321,
-7b905ba4-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Petitmenginia,,"(Benth.) H.-P.Hofm. & Eb.Fisch.",2004,"Bot. Jahrb. Syst. 125: 353 2004",,,,,60434252-2,wfo-0000476765,3729314,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8485170-8fd1-11eb-924d-9cd76263cbd0,genus,Petitmenginia,,,Bonati,,1911,,"Notul. Syst. (Paris) 1: 335. 1911.",,,,,,,wfo-4000028945,7332093,,
+b6768234-8fd1-11eb-924d-9cd76263cbd0,species,comosa,Petitmenginia,,Bonati,,1911,,"Notul. Syst. (Paris) 1: 335 1911",,,,,,808361-1,wfo-0001236382,3729328,,
+db741320-8fcd-11eb-924d-9cd76263cbd0,species,matsumurae,Petitmenginia,,T.Yamaz.,,1950,,"J. Jap. Bot. 25(9–12): 214–215, f. 2 1950",,,,,,,wfo-0001140141,3729321,,
+7b905ba4-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Petitmenginia,,"(Benth.) H.-P.Hofm. & Eb.Fisch.",,2004,,"Bot. Jahrb. Syst. 125: 353 2004",,Q55762205,,,,60434252-2,wfo-0000476765,3729314,,

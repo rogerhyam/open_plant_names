@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfe91bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Atkinsonia,,,F.Muell.,1865,"Fragm. 5: 34. 1865.",,,,,25160-1,wfo-4000003583,3232631,
-aa58929e-8fcc-11eb-924d-9cd76263cbd0,species,ligustrina,Atkinsonia,,"(Lindl.) F.Muell.",1865,"Fragm. 5: 34 1865",,,,,,wfo-0000555615,5639635,
-aa58cc96-8fcc-11eb-924d-9cd76263cbd0,species,sanguineum,Atlanthemum,,"(Lag.) Raynaud",1987,"Anales Jard. Bot. Madrid 44: 316 1987",,,,,944778-1,wfo-0000555617,7331248,
-093a47da-8fcd-11eb-924d-9cd76263cbd0,species,atlanticus,,,"(Humbert & Maire) Dans.",1939,"Nuovo Giorn. Bot. Ital. n.s., 46: 359 1939",,,,,168626-1,wfo-0000714692,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfe91bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Atkinsonia,,,F.Muell.,,1865,,"Fragm. 5: 34. 1865.",,,,dfe91bd6-8fd1-11eb-924d-9cd76263cbd0,,25160-1,wfo-4000003583,3232631,17122," "
+aa58929e-8fcc-11eb-924d-9cd76263cbd0,species,ligustrina,Atkinsonia,,"(Lindl.) F.Muell.",,1865,,"Fragm. 5: 34 1865",,,,,,,wfo-0000555615,5639635,,

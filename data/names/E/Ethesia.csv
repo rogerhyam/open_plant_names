@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3842aa6-8fd1-11eb-924d-9cd76263cbd0,genus,Ethesia,,,,,,,,,,,wfo-4000014066,7263860,
-f5de80de-8fcc-11eb-924d-9cd76263cbd0,species,carnea,Ethesia,,Raf.,1838,"Fl. Tellur. 4: 64 1838",,,,,48973-1,wfo-0000680923,5574573,
-74d0a78c-8fcd-11eb-924d-9cd76263cbd0,species,haalenbergensis,Ethesia,,"(U.Müll.-Doblies & D.Müll.-Doblies) Mart.-Azorín, M.B.Crespo & Juan",2011,"Ann. Bot. (Oxford) 107: 28 2011",,,,,77109351-1,wfo-0000920442,7603391,
-74d06efc-8fcd-11eb-924d-9cd76263cbd0,species,polyphlebia,Ethesia,,"(Baker) Mart.-Azorín, M.B.Crespo & Juan",2011,"Ann. Bot. (Oxford) 107: 28 2011",,,,,77109352-1,wfo-0000920440,7577821,
-23a75dec-8fcd-11eb-924d-9cd76263cbd0,species,prasina,Ethesia,,"(Ker Gawl.) Raf.",1837,"Fl. Tellur. 3: 60 1837",,,,,534979-1,wfo-0000766991,2773189,
-74d0528c-8fcd-11eb-924d-9cd76263cbd0,species,xanthochlora,Ethesia,,"(Baker) Mart.-Azorín, M.B.Crespo & Juan",2011,"Ann. Bot. (Oxford) 107: 28 2011",,,,,77109353-1,wfo-0000920439,8041452,
-85630bc6-8fcd-11eb-924d-9cd76263cbd0,species,maripa,Ethnora,,"(Mart.) O.F.Cook",1940,"J. Wash. Acad. Sci. 30: 297 1940",,,,,97862-2,wfo-0000954312,2732703,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3842aa6-8fd1-11eb-924d-9cd76263cbd0,genus,Ethesia,,,,,,,,,,,,,,wfo-4000014066,7263860,,
+f5de80de-8fcc-11eb-924d-9cd76263cbd0,species,carnea,Ethesia,,Raf.,,1838,,"Fl. Tellur. 4: 64 1838",,,,,,48973-1,wfo-0000680923,5574573,,
+74d0a78c-8fcd-11eb-924d-9cd76263cbd0,species,haalenbergensis,Ethesia,,"(U.Müll.-Doblies & D.Müll.-Doblies) Mart.-Azorín, M.B.Crespo & Juan",,2011,,"Ann. Bot. (Oxford) 107: 28 2011",,Q34155283,,,,77109351-1,wfo-0000920442,7603391,,
+74d06efc-8fcd-11eb-924d-9cd76263cbd0,species,polyphlebia,Ethesia,,"(Baker) Mart.-Azorín, M.B.Crespo & Juan",,2011,,"Ann. Bot. (Oxford) 107: 28 2011",,Q34155283,,,,77109352-1,wfo-0000920440,7577821,,
+23a75dec-8fcd-11eb-924d-9cd76263cbd0,species,prasina,Ethesia,,"(Ker Gawl.) Raf.",,1837,,"Fl. Tellur. 3: 60 1837",,,,,,534979-1,wfo-0000766991,2773189,,
+74d0528c-8fcd-11eb-924d-9cd76263cbd0,species,xanthochlora,Ethesia,,"(Baker) Mart.-Azorín, M.B.Crespo & Juan",,2011,,"Ann. Bot. (Oxford) 107: 28 2011",,Q34155283,,,,77109353-1,wfo-0000920439,8041452,,
+85630bc6-8fcd-11eb-924d-9cd76263cbd0,species,maripa,Ethnora,,"(Mart.) O.F.Cook",,1940,,"J. Wash. Acad. Sci. 30: 297 1940",,Q96067712,,,,97862-2,wfo-0000954312,2732703,,

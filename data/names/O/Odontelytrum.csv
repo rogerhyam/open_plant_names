@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e778554c-8fd1-11eb-924d-9cd76263cbd0,genus,Odontelytrum,,,Hack.,1898,"Oesterr. Bot. Z. 48: 86. 1898.",,,,,,wfo-4000026577,4112173,
-58df4114-8fcd-11eb-924d-9cd76263cbd0,species,abyssinicum,Odontelytrum,,Hack.,1898,"Oesterr. Bot. Z. 48: 86 1898",,,,,409678-1,wfo-0000881819,4112172,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e778554c-8fd1-11eb-924d-9cd76263cbd0,genus,Odontelytrum,,,Hack.,,1898,,"Oesterr. Bot. Z. 48: 86. 1898.",,,,,,,wfo-4000026577,4112173,,
+58df4114-8fcd-11eb-924d-9cd76263cbd0,species,abyssinicum,Odontelytrum,,Hack.,,1898,,"Oesterr. Bot. Z. 48: 86 1898",,Q101101956,,,,409678-1,wfo-0000881819,4112172,,

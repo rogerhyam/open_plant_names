@@ -1,6 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4a3d486-8fd1-11eb-924d-9cd76263cbd0,genus,Herpocladium,,,Mitt.,1873,"Fl. Vit. 405. 1873.",,,,,,wfo-4000017576,3229894,
-fcc9b818-8fcd-11eb-924d-9cd76263cbd0,species,bidens,Herpocladium,,Mitt.,1873,"Fl. Vit. 405 1873",,,,,,wfo-0001209921,8363906,
-fed3c072-8fcd-11eb-924d-9cd76263cbd0,species,fissum,Herpocladium,,Mitt.,1876,"J. Linn. Soc., Bot. 15: 69 1876",,,,,,wfo-0001214398,7670048,
-fd1a2384-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Herpocladium,,"(Mont.) Stephani",1909,"Sp. Hepat. 3: 647 1909",,,,,,wfo-0001210656,7917736,
-f9a5aa5c-8fcd-11eb-924d-9cd76263cbd0,species,sikkimense,Herpocladium,,Stephani,1922,"Sp. Hepat. 6: 349 1922",,,,,,wfo-0001203374,7352591,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4a3d486-8fd1-11eb-924d-9cd76263cbd0,genus,Herpocladium,,,Mitt.,,1873,,"Fl. Vit. 405. 1873.",,,,e4a3d486-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000017576,3229894,20265," "
+fcc9b818-8fcd-11eb-924d-9cd76263cbd0,species,bidens,Herpocladium,,Mitt.,,1873,,"Fl. Vit. 405 1873",,,,,,,wfo-0001209921,8363906,,
+8fe3ed78-9bac-11eb-a8a2-19ed5c03f8d3,species,circinans,Herpocladium,,"J. Schröt.",,1886,,"in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.1(916): 213 (1886)",,,,8fe3ed78-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199881," "
+fed3c072-8fcd-11eb-924d-9cd76263cbd0,species,fissum,Herpocladium,,Mitt.,,1876,,"J. Linn. Soc., Bot. 15: 69 1876",,,,,,,wfo-0001214398,7670048,,
+fd1a2384-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Herpocladium,,"(Mont.) Stephani",,1909,,"Sp. Hepat. 3: 647 1909",,,,,,,wfo-0001210656,7917736,,
+f9a5aa5c-8fcd-11eb-924d-9cd76263cbd0,species,sikkimense,Herpocladium,,Stephani,,1922,,"Sp. Hepat. 6: 349 1922",,,,,,,wfo-0001203374,7352591,,

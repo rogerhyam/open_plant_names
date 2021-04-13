@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e10cc0f8-8fd1-11eb-924d-9cd76263cbd0,genus,Calopteryx,,,A.C.Sm.,1946,"J. Arnold Arbor. 27(1): 100. 1946. (15 Jan 1946)",,,,,,wfo-4000006178,3234109,
-bb169e64-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Calopteryx,,A.C.Sm.,1946,"J. Arnold Arbor. 27: 100 1946",,,,,42800-2,wfo-0000581411,5683656,
-bb16d870-8fcc-11eb-924d-9cd76263cbd0,species,sessiliflora,Calopteryx,,A.C.Sm.,1952,"Mem. New York Bot. Gard. 8: 74 1952",,,,,42801-2,wfo-0000581413,5683653,
-073824e0-8fb2-11eb-924d-9cd76263cbd0,species,lagascae,Caloptilium,,"Hook. & Arn.",1835,"36 1835",,,,,188070-1,wfo-0000005971,4209689,
-c14d0850-8fb7-11eb-924d-9cd76263cbd0,variety,lanata,Caloptilium,lagascae,Phil.,1864,"Linnaea 33 115 1864",,,,,62973-2,wfo-0000102822,4251410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e10cc0f8-8fd1-11eb-924d-9cd76263cbd0,genus,Calopteryx,,,A.C.Sm.,,1946,,"J. Arnold Arbor. 27(1): 100. 1946. (15 Jan 1946)",,,,,,,wfo-4000006178,3234109,,
+bb169e64-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Calopteryx,,A.C.Sm.,,1946,,"J. Arnold Arbor. 27: 100 1946",,Q100550150,,,,42800-2,wfo-0000581411,5683656,,
+bb16d870-8fcc-11eb-924d-9cd76263cbd0,species,sessiliflora,Calopteryx,,A.C.Sm.,,1952,,"Mem. New York Bot. Gard. 8: 74 1952",,,,,,42801-2,wfo-0000581413,5683653,,
+073824e0-8fb2-11eb-924d-9cd76263cbd0,species,lagascae,Caloptilium,,"Hook. & Arn.",,1835,,"36 1835",,,,,,188070-1,wfo-0000005971,4209689,,
+c14d0850-8fb7-11eb-924d-9cd76263cbd0,variety,lanata,Caloptilium,lagascae,Phil.,,1864,,"Linnaea 33 115 1864",,,,,,62973-2,wfo-0000102822,4251410,,

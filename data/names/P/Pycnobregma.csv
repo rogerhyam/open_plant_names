@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95f159e-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnobregma,,,Baill.,1890,"Hist. Pl. 10: 288. 1890.",,,,,,wfo-4000032219,7311951,
-414a7c54-8fcc-11eb-924d-9cd76263cbd0,species,funckii,Pycnobregma,,Baill.,1890,"Hist. Pl. 10: 288 1890",,,,,214767-2,wfo-0000392315,3574082,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95f159e-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnobregma,,,Baill.,,1890,,"Hist. Pl. 10: 288. 1890.",,,,,,,wfo-4000032219,7311951,,
+414a7c54-8fcc-11eb-924d-9cd76263cbd0,species,funckii,Pycnobregma,,Baill.,,1890,,"Hist. Pl. 10: 288 1890",,,,,,214767-2,wfo-0000392315,3574082,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3b7baf6-8fd1-11eb-924d-9cd76263cbd0,genus,Fifea,,,H.A.Crum,1991,"J. Hattori Bot. Lab. 69: 319. 1991.",,,,,,wfo-4000014740,2676047,
-f6542518-8fcd-11eb-924d-9cd76263cbd0,species,aciphylla,Fifea,,"(Dixon & Sainsbury) H.A.Crum",1991,"J. Hattori Bot. Lab. 69: 319 1991",,,,ed54a85c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001196487,2676048,
-fb7680be-8fcc-11eb-924d-9cd76263cbd0,species,aegyptiaca,Figaraea,,Viv.,1830,"Pl. Aegypt. Dec. 12 1830",,,,,724914-1,wfo-0000690955,3001067,
-8b1e2f3c-8fcd-11eb-924d-9cd76263cbd0,species,fragrans,Figuierea,,Montrouz.,1860,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 220 1860",,,,,749346-1,wfo-0000967073,2897098,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3b7baf6-8fd1-11eb-924d-9cd76263cbd0,genus,Fifea,,,H.A.Crum,,1991,,"J. Hattori Bot. Lab. 69: 319. 1991.",,,,,,,wfo-4000014740,2676047,,
+f6542518-8fcd-11eb-924d-9cd76263cbd0,species,aciphylla,Fifea,,"(Dixon & Sainsbury) H.A.Crum",,1991,,"J. Hattori Bot. Lab. 69: 319 1991",,,,ed54a85c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001196487,2676048,,
+fb7680be-8fcc-11eb-924d-9cd76263cbd0,species,aegyptiaca,Figaraea,,Viv.,,1830,,"Pl. Aegypt. Dec. 12 1830",,,,,,724914-1,wfo-0000690955,3001067,,
+8b1e2f3c-8fcd-11eb-924d-9cd76263cbd0,species,fragrans,Figuierea,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 220 1860",,,,,,749346-1,wfo-0000967073,2897098,,

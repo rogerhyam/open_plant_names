@@ -1,8 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e88d6cce-8fd1-11eb-924d-9cd76263cbd0,genus,Pinarophyllon,,,Brandegee,1914,"Univ. Calif. Publ. Bot. 6(4): 71. 1914. (3 Aug 1914)",,,,,289383-2,wfo-4000029767,2909788,
-f5ba2956-8fcb-11eb-924d-9cd76263cbd0,species,bullatum,Pinarophyllon,,Standl.,1921,"N. Amer. Fl. 32: 87 1921",,,,,196845-2,wfo-0000273838,2909789,
-f5ba481e-8fcb-11eb-924d-9cd76263cbd0,species,flavum,Pinarophyllon,,Brandegee,1914,"Univ. Calif. Publ. Bot. 6: 71 1914",,,,,196846-2,wfo-0000273839,2909792,
-41728c62-8fcc-11eb-924d-9cd76263cbd0,species,monnieri,Pinasgelon,,"(L.) Raf.",1840,"Good Book 52 1840",,,,,847118-1,wfo-0000392558,3634067,
-0ace803e-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Pincenectitia,,Lem.,1861,"Ill. Hort. 8(Misc.): 61 1861",,,,,539942-1,wfo-0000717443,2768032,
-0ac799ea-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Pincenectitia,,Lem.,1861,"Ill. Hort. 8(Misc.): 61 1861",,,,,539943-1,wfo-0000717390,2777038,
-0ac1c510-8fcd-11eb-924d-9cd76263cbd0,species,tuberculata,Pincenectitia,,Lem.,1861,"Ill. Hort. 8(Misc.): 61 1861",,,,,539944-1,wfo-0000717351,2768038,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e88d6cce-8fd1-11eb-924d-9cd76263cbd0,genus,Pinarophyllon,,,Brandegee,,1914,,"Univ. Calif. Publ. Bot. 6(4): 71. 1914. (3 Aug 1914)",,,,,,289383-2,wfo-4000029767,2909788,,
+f5ba2956-8fcb-11eb-924d-9cd76263cbd0,species,bullatum,Pinarophyllon,,Standl.,,1921,,"N. Amer. Fl. 32: 87 1921",,,,,,196845-2,wfo-0000273838,2909789,,
+f5ba481e-8fcb-11eb-924d-9cd76263cbd0,species,flavum,Pinarophyllon,,Brandegee,,1914,,"Univ. Calif. Publ. Bot. 6: 71 1914",,,,,,196846-2,wfo-0000273839,2909792,,
+41728c62-8fcc-11eb-924d-9cd76263cbd0,species,monnieri,Pinasgelon,,"(L.) Raf.",,1840,,"Good Book 52 1840",,,,,,847118-1,wfo-0000392558,3634067,,

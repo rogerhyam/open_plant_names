@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-def284ba-8fd1-11eb-924d-9cd76263cbd0,genus,Afroguatteria,,,Boutique,1951,"Bull. Jard. Bot. État Bruxelles 21: 104, t. 2. 1951.",,,,,1958-1,wfo-4000000853,3158288,
-96a6cda6-8fcc-11eb-924d-9cd76263cbd0,species,bequaertii,Afroguatteria,,"(De Wild.) Boutique",1951,"Bull. Jard. Bot. État 21: 106 1951",,,,,71977-1,wfo-0000522666,3158290,
-96a6e9f8-8fcc-11eb-924d-9cd76263cbd0,species,globosa,Afroguatteria,,C.N.Paiva,1966,"Mem. Soc. Brot. 19: 25 1966",,,,,,wfo-0000522667,3158289,
-5a7f9bb8-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Afrohamelia,,Wernham,1913,"Cat. Pl. Oban 44 1913",,,,,742945-1,wfo-0000885017,2900871,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+def284ba-8fd1-11eb-924d-9cd76263cbd0,genus,Afroguatteria,,,Boutique,,1951,,"Bull. Jard. Bot. État Bruxelles 21: 104, t. 2. 1951.",,Q55775738,,,,1958-1,wfo-4000000853,3158288,,
+96a6cda6-8fcc-11eb-924d-9cd76263cbd0,species,bequaertii,Afroguatteria,,"(De Wild.) Boutique",,1951,,"Bull. Jard. Bot. État 21: 106 1951",,Q55775738,,,,71977-1,wfo-0000522666,3158290,,
+96a6e9f8-8fcc-11eb-924d-9cd76263cbd0,species,globosa,Afroguatteria,,C.N.Paiva,,1966,,"Mem. Soc. Brot. 19: 25 1966",,,,,,,wfo-0000522667,3158289,,
+5a7f9bb8-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Afrohamelia,,Wernham,,1913,,"Cat. Pl. Oban 44 1913",,,,,,742945-1,wfo-0000885017,2900871,,

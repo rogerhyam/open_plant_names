@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9235324-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudohypnella,,,"(Broth.) M.Fleisch.",,"Musci Buitenzorg 4: 1368. 1923.",,,,,,wfo-4000031542,,
-e9d1020c-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Pseudohypnella,,P.W.Richards,1934,"Bull. Misc. Inform. Kew 1934: 336. 6 1934",,,,,,wfo-0001171011,7350119,
-e9d11daa-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Pseudohypnella,,"(Dozy & Molk.) M.Fleisch.",,"Musci Buitenzorg 4: 1368. 222 1923",,,,,,wfo-0001171012,2680376,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9235324-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudohypnella,,,"(Broth.) M.Fleisch.",,,,"Musci Buitenzorg 4: 1368. 1923.",,,,,,,wfo-4000031542,,,
+e9d1020c-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Pseudohypnella,,P.W.Richards,,1934,,"Bull. Misc. Inform. Kew 1934: 336. 6 1934",,,,,,,wfo-0001171011,7350119,,
+e9d11daa-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Pseudohypnella,,"(Dozy & Molk.) M.Fleisch.",,,,"Musci Buitenzorg 4: 1368. 222 1923",,,,,,,wfo-0001171012,2680376,,

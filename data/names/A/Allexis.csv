@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df194dd4-8fd1-11eb-924d-9cd76263cbd0,genus,Allexis,,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris 2: 25. 1898.",,,,,41496-1,wfo-4000001248,7296669,
-989d0df0-8fcc-11eb-924d-9cd76263cbd0,species,batangae,Allexis,,"(Engl.) Melch.",1924,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 655 1924",,,,,866204-1,wfo-0000526004,4077442,
-989d2a4c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Allexis,,"(Oliv.) Pierre",1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 25 1898",,,,99d693b2-8fcc-11eb-924d-9cd76263cbd0,866205-1,wfo-0000526005,4077432,
-989d47fc-8fcc-11eb-924d-9cd76263cbd0,species,obanensis,Allexis,,"(Baker f.) Melch.",1924,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 656 1924",,,,,866206-1,wfo-0000526006,4077421,
-989da012-8fcc-11eb-924d-9cd76263cbd0,species,zygomorpha,Allexis,,"Achound. & Onana",,"Kew Bull. 53: 1009 1998",,,,,1004908-1,wfo-0000526008,4077409,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df194dd4-8fd1-11eb-924d-9cd76263cbd0,genus,Allexis,,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris 2: 25. 1898.",,,,,,41496-1,wfo-4000001248,7296669,,
+989d0df0-8fcc-11eb-924d-9cd76263cbd0,species,batangae,Allexis,,"(Engl.) Melch.",,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 655 1924",,,,,,866204-1,wfo-0000526004,4077442,,
+989d2a4c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Allexis,,"(Oliv.) Pierre",,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 25 1898",,,,99d693b2-8fcc-11eb-924d-9cd76263cbd0,,866205-1,wfo-0000526005,4077432,,
+989d47fc-8fcc-11eb-924d-9cd76263cbd0,species,obanensis,Allexis,,"(Baker f.) Melch.",,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 656 1924",,,,,,866206-1,wfo-0000526006,4077421,,
+989da012-8fcc-11eb-924d-9cd76263cbd0,species,zygomorpha,Allexis,,"Achound. & Onana",,,,"Kew Bull. 53: 1009 1998",,Q43195022,,,,1004908-1,wfo-0000526008,4077409,,

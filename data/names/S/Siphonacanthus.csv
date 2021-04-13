@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6ecf24-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonacanthus,,,Nees,1847,"Fl. Bras. 9: 45. 1847.",,,,,,wfo-4000035504,7263905,
-61b87086-8fcc-11eb-924d-9cd76263cbd0,species,densus,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55087-1,wfo-0000433490,3776208,
-61b7d52c-8fcc-11eb-924d-9cd76263cbd0,species,diffusus,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55088-1,wfo-0000433486,3776199,
-61b8b88e-8fcc-11eb-924d-9cd76263cbd0,species,erythropus,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55089-1,wfo-0000433492,3776184,
-61b90a8c-8fcc-11eb-924d-9cd76263cbd0,species,pubens,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55090-1,wfo-0000433494,3776176,
-61b9335e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55091-1,wfo-0000433495,7263907,
-61b95352-8fcc-11eb-924d-9cd76263cbd0,species,rubiginosus,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55092-1,wfo-0000433496,3776129,
-61b9777e-8fcc-11eb-924d-9cd76263cbd0,species,villosus,Siphonacanthus,,Nees,1847,"Fl. Bras. 9: 45 1847",,,,,55093-1,wfo-0000433497,3776122,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6ecf24-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonacanthus,,,Nees,,1847,,"Fl. Bras. 9: 45. 1847.",,,,,,,wfo-4000035504,7263905,,
+61b87086-8fcc-11eb-924d-9cd76263cbd0,species,densus,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55087-1,wfo-0000433490,3776208,,
+61b7d52c-8fcc-11eb-924d-9cd76263cbd0,species,diffusus,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55088-1,wfo-0000433486,3776199,,
+61b8b88e-8fcc-11eb-924d-9cd76263cbd0,species,erythropus,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55089-1,wfo-0000433492,3776184,,
+61b90a8c-8fcc-11eb-924d-9cd76263cbd0,species,pubens,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55090-1,wfo-0000433494,3776176,,
+61b9335e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55091-1,wfo-0000433495,7263907,,
+61b95352-8fcc-11eb-924d-9cd76263cbd0,species,rubiginosus,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55092-1,wfo-0000433496,3776129,,
+61b9777e-8fcc-11eb-924d-9cd76263cbd0,species,villosus,Siphonacanthus,,Nees,,1847,,"Fl. Bras. 9: 45 1847",,,,,,55093-1,wfo-0000433497,3776122,,

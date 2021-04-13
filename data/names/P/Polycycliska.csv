@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8dcc67a-8fd1-11eb-924d-9cd76263cbd0,genus,Polycycliska,,,Ridl.,1926,"Bull. Misc. Inform. Kew 1926: 67. 1926.",,,,,,wfo-4000030724,7270925,
-f9975d32-8fcb-11eb-924d-9cd76263cbd0,species,cylindrica,Polycycliska,,Ridl.,1926,"Bull. Misc. Inform. Kew 1926: 67 1926",,,,,760857-1,wfo-0000279925,3846244,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8dcc67a-8fd1-11eb-924d-9cd76263cbd0,genus,Polycycliska,,,Ridl.,,1926,,"Bull. Misc. Inform. Kew 1926: 67. 1926.",,,,,,,wfo-4000030724,7270925,,
+f9975d32-8fcb-11eb-924d-9cd76263cbd0,species,cylindrica,Polycycliska,,Ridl.,,1926,,"Bull. Misc. Inform. Kew 1926: 67 1926",,Q55778698,,,,760857-1,wfo-0000279925,3846244,,

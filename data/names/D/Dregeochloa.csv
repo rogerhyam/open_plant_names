@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e307733a-8fd1-11eb-924d-9cd76263cbd0,genus,Dregeochloa,,,Conert,1966,"Senckenberg. Biol. 47: 335. 1966.",,,,,17958-1,wfo-4000012545,4120877,
-5142e3ac-8fcd-11eb-924d-9cd76263cbd0,species,calviniensis,Dregeochloa,,Conert,1966,"Senckenberg. Biol. 47: 340 1966",,,,,399601-1,wfo-0000865085,4120885,
-5142fd7e-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Dregeochloa,,"(Nees) Conert",1966,"Senckenberg. Biol. 47: 338 1966",,,,,399602-1,wfo-0000865086,4120876,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e307733a-8fd1-11eb-924d-9cd76263cbd0,genus,Dregeochloa,,,Conert,,1966,,"Senckenberg. Biol. 47: 335. 1966.",,,,,,17958-1,wfo-4000012545,4120877,,
+5142e3ac-8fcd-11eb-924d-9cd76263cbd0,species,calviniensis,Dregeochloa,,Conert,,1966,,"Senckenberg. Biol. 47: 340 1966",,,,,,399601-1,wfo-0000865085,4120885,,
+5142fd7e-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Dregeochloa,,"(Nees) Conert",,1966,,"Senckenberg. Biol. 47: 338 1966",,,,,,399602-1,wfo-0000865086,4120876,,

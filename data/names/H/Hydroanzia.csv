@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ee6afa-8fd1-11eb-924d-9cd76263cbd0,genus,Hydroanzia,,,Koidz.,1935,"Acta Phytotax. Geobot. 4: 26. 1935.",,,,,,wfo-4000018516,7296094,
-0fbf0faa-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Hydroanzia,,"(Koidz.) Koidz.",1935,"Acta Phytotax. Geobot. 4: 27 1935",,,,,688199-1,wfo-0000726284,4072922,
-0fbf2d64-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Hydroanzia,,"(Imamura) Koidz.",1935,"Acta Phytotax. Geobot. 4: 28 1935",,,,,688200-1,wfo-0000726285,4072913,
-0fbf8b7e-8fcd-11eb-924d-9cd76263cbd0,species,puncticulata,Hydroanzia,,"(Koidz.) Koidz.",1935,"Acta Phytotax. Geobot. 4: 28 1935",,,,,688201-1,wfo-0000726287,4072903,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ee6afa-8fd1-11eb-924d-9cd76263cbd0,genus,Hydroanzia,,,Koidz.,,1935,,"Acta Phytotax. Geobot. 4: 26. 1935.",,,,,,,wfo-4000018516,7296094,,
+0fbf0faa-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Hydroanzia,,"(Koidz.) Koidz.",,1935,,"Acta Phytotax. Geobot. 4: 27 1935",,Q101150231,,,,688199-1,wfo-0000726284,4072922,,
+0fbf2d64-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Hydroanzia,,"(Imamura) Koidz.",,1935,,"Acta Phytotax. Geobot. 4: 28 1935",,Q101150231,,,,688200-1,wfo-0000726285,4072913,,
+0fbf8b7e-8fcd-11eb-924d-9cd76263cbd0,species,puncticulata,Hydroanzia,,"(Koidz.) Koidz.",,1935,,"Acta Phytotax. Geobot. 4: 28 1935",,Q101150231,,,,688201-1,wfo-0000726287,4072903,,

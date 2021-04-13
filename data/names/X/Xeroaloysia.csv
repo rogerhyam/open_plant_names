@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec23871a-8fd1-11eb-924d-9cd76263cbd0,genus,Xeroaloysia,,,Tronc.,1963,"Darwiniana 12: 50. 1963.",,,,,,wfo-4000040934,8293001,
-1be55a74-8fcc-11eb-924d-9cd76263cbd0,species,ovatifolia,Xeroaloysia,,"(Moldenke) Tronc.",1960,"Darwiniana 12: 51 1960",,,,83f9baa0-8fcd-11eb-924d-9cd76263cbd0,269503-2,wfo-0000334971,4086857,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec23871a-8fd1-11eb-924d-9cd76263cbd0,genus,Xeroaloysia,,,Tronc.,,1963,,"Darwiniana 12: 50. 1963.",,,,,,,wfo-4000040934,8293001,,
+1be55a74-8fcc-11eb-924d-9cd76263cbd0,species,ovatifolia,Xeroaloysia,,"(Moldenke) Tronc.",,1960,,"Darwiniana 12: 51 1960",,Q104174200,,83f9baa0-8fcd-11eb-924d-9cd76263cbd0,,269503-2,wfo-0000334971,4086857,,

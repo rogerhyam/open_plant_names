@@ -1,3 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e401d758-8fd1-11eb-924d-9cd76263cbd0,genus,Gilmania,,,Coville,1936,"J. Wash. Acad. Sci. 26(5): 210. 1936.",,,,,1126622-2,wfo-4000015655,2889070,
-023af934-8fcd-11eb-924d-9cd76263cbd0,species,luteola,Gilmania,,"(Coville) Coville",1936,"J. Wash. Acad. Sci. 26: 210 1936",,,,,110551-2,wfo-0000703226,5334284,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e401d758-8fd1-11eb-924d-9cd76263cbd0,genus,Gilmania,,,Coville,,1936,,"J. Wash. Acad. Sci. 26(5): 210. 1936.",,Q96063826,,e401d758-8fd1-11eb-924d-9cd76263cbd0,,1126622-2,wfo-4000015655,2889070,2068," "
+1cf9e65e-9bad-11eb-a8a2-19ed5c03f8d3,species,buchenaviae,Gilmania,,"(Bat. & I.H. Lima) Bat.",,1962,,"in Batista & Ciferri, Beih. Sydowia 3: 51 (1962)",,,,00b5f4ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331325," "
+023af934-8fcd-11eb-924d-9cd76263cbd0,species,luteola,Gilmania,,"(Coville) Coville",,1936,,"J. Wash. Acad. Sci. 26: 210 1936",,Q96063826,,,,110551-2,wfo-0000703226,5334284,,
+1cfa19e4-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchra,Gilmania,,"Bat., J.L. Bezerra & Cavalc.",,1962,,"Brotéria, sér. Ci. Nat. 31(2): 105 (1962)",,,,1cfa19e4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331326," "
+fef91fae-9bab-11eb-a8a2-19ed5c03f8d3,species,sawadae,Gilmania,,"(W. Yamam.) Bat. & Cif.",,,,,,,,2983cb60-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331327," "
+fef9c2ba-9bab-11eb-a8a2-19ed5c03f8d3,species,xylopiae,Gilmania,,"Bat., Nascim. & Cif.",,1962,,"in Batista & Ciferri, Beih. Sydowia 3: 53 (1962)",,,,fef9c2ba-9bab-11eb-a8a2-19ed5c03f8d3,,,,,331328," "
+1cfa489c-9bad-11eb-a8a2-19ed5c03f8d3,species,xyphopaga,Gilmania,,"(Viégas) Bat.",,1962,,"in Batista & Ciferri, Beih. Sydowia 3: 54 (1962)",,,,ee4df5a2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,331329," "

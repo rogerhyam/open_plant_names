@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53b2124-8fd1-11eb-924d-9cd76263cbd0,genus,Jaubertia,,,Guill.,1841,"Ann. Sci. Nat., Bot., sér. 2 16: 60. 1841.",,,,,,wfo-4000019538,2901995,
-edfa3022-8fca-11eb-924d-9cd76263cbd0,species,aucheri,Jaubertia,,Guill.,1841,"Ann. Sci. Nat., Bot. II, 16: 60 1841",,,,,754596-1,wfo-0000220082,5336826,
-ee08455e-8fca-11eb-924d-9cd76263cbd0,species,calycoptera,Jaubertia,,"(Decne.) Täckh. & Boulos",1972,"Publ. Cairo Univ. Herb. 5: 95 1972 publ. 1974",,,,0dfdbe4c-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000220083,5336565,
-920ab616-8fba-11eb-924d-9cd76263cbd0,species,koelpiniodes,Jaubertia,,Spach,1849,"Illustr. iii. 131. t. 132 (1849).",,,,,226733-1,wfo-0000127707,5695150,
-ee251152-8fca-11eb-924d-9cd76263cbd0,species,putorioides,Jaubertia,,Radcl.-Sm.,,"Hooker's Icon. Pl. 37: t. 3682 1971",,,,,,wfo-0000220085,5334903,
-d50d4110-8fcc-11eb-924d-9cd76263cbd0,species,reboudiana,Jaubertia,,"(Coss. & Durieu) Ehrend. & Schönb.-Tem.",2005,"in Fl. Iran. 176: 39 2005",,,,8b804622-8fcd-11eb-924d-9cd76263cbd0,77067749-1,wfo-0000623989,5336824,
-ee32fb6e-8fca-11eb-924d-9cd76263cbd0,species,szowitzii,Jaubertia,,"(DC.) Takht.",1972,"Fl. Erevana 205 1972",,,,,754599-1,wfo-0000220086,5334906,
-398b3562-8fb3-11eb-924d-9cd76263cbd0,species,jaubertianus,,,Arènes,1949,1949,,,,,,wfo-0000044213,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53b2124-8fd1-11eb-924d-9cd76263cbd0,genus,Jaubertia,,,Guill.,,1841,,"Ann. Sci. Nat., Bot., sér. 2 16: 60. 1841.",,,,,,,wfo-4000019538,2901995,,
+edfa3022-8fca-11eb-924d-9cd76263cbd0,species,aucheri,Jaubertia,,Guill.,,1841,,"Ann. Sci. Nat., Bot. II, 16: 60 1841",,,,,,754596-1,wfo-0000220082,5336826,,
+ee08455e-8fca-11eb-924d-9cd76263cbd0,species,calycoptera,Jaubertia,,"(Decne.) Täckh. & Boulos",,1972,,"Publ. Cairo Univ. Herb. 5: 95 1972 publ. 1974",,,,0dfdbe4c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000220083,5336565,,
+920ab616-8fba-11eb-924d-9cd76263cbd0,species,koelpiniodes,Jaubertia,,Spach,,1849,,"Illustr. iii. 131. t. 132 (1849).",,,,,,226733-1,wfo-0000127707,5695150,,
+ee251152-8fca-11eb-924d-9cd76263cbd0,species,putorioides,Jaubertia,,Radcl.-Sm.,,,,"Hooker's Icon. Pl. 37: t. 3682 1971",,,,,,,wfo-0000220085,5334903,,
+d50d4110-8fcc-11eb-924d-9cd76263cbd0,species,reboudiana,Jaubertia,,"(Coss. & Durieu) Ehrend. & Schönb.-Tem.",,2005,,"in Fl. Iran. 176: 39 2005",,,,8b804622-8fcd-11eb-924d-9cd76263cbd0,,77067749-1,wfo-0000623989,5336824,,
+ee32fb6e-8fca-11eb-924d-9cd76263cbd0,species,szowitzii,Jaubertia,,"(DC.) Takht.",,1972,,"Fl. Erevana 205 1972",,,,,,754599-1,wfo-0000220086,5334906,,
+398b3562-8fb3-11eb-924d-9cd76263cbd0,species,jaubertianus,,,Arènes,,1949,,1949,,,,,,,wfo-0000044213,,,

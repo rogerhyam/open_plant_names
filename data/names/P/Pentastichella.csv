@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e82cb0a0-8fd1-11eb-924d-9cd76263cbd0,genus,Pentastichella,,,Müll.Hal.,1897,"Oesterr. Bot. Z. 47: 421. 1897.",,,,,,wfo-4000028644,2671978,
-e06814f8-8fcd-11eb-924d-9cd76263cbd0,species,jaffuelii,Pentastichella,,Thér.,1921,"Revista Chilena Hist. Nat. 25: 301 27 f. 2 1921",,,,,,wfo-0001150604,2671979,
-e06830c8-8fcd-11eb-924d-9cd76263cbd0,species,pentasticha,Pentastichella,,"(Mont.) Müll.Hal. ex Thér.",1918,"Revista Chilena Hist. Nat. 22: 84 1918",,,,,,wfo-0001150605,2671980,
-e0684cac-8fcd-11eb-924d-9cd76263cbd0,variety,strictifolia,Pentastichella,pentasticha,Thér.,1924,"Revista Chilena Hist. Nat. 28: 131 1924",,,,,,wfo-0001150606,8268231,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e82cb0a0-8fd1-11eb-924d-9cd76263cbd0,genus,Pentastichella,,,Müll.Hal.,,1897,,"Oesterr. Bot. Z. 47: 421. 1897.",,,,,,,wfo-4000028644,2671978,,
+e06814f8-8fcd-11eb-924d-9cd76263cbd0,species,jaffuelii,Pentastichella,,Thér.,,1921,,"Revista Chilena Hist. Nat. 25: 301 27 f. 2 1921",,,,,,,wfo-0001150604,2671979,,
+e06830c8-8fcd-11eb-924d-9cd76263cbd0,species,pentasticha,Pentastichella,,"(Mont.) Müll.Hal. ex Thér.",,1918,,"Revista Chilena Hist. Nat. 22: 84 1918",,,,,,,wfo-0001150605,2671980,,
+e0684cac-8fcd-11eb-924d-9cd76263cbd0,variety,strictifolia,Pentastichella,pentasticha,Thér.,,1924,,"Revista Chilena Hist. Nat. 28: 131 1924",,,,,,,wfo-0001150606,8268231,,

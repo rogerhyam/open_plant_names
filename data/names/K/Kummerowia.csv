@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5750286-8fd1-11eb-924d-9cd76263cbd0,genus,Kummerowia,,,Schindl.,,,,,,,294687-2,wfo-4000020277,2954000,
-400a1ce8-8fc5-11eb-924d-9cd76263cbd0,species,stipulacea,Kummerowia,,"(Maxim.) Makino",,,,,,9727a5b0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000192126,5352522,
-f50a35da-8fc3-11eb-924d-9cd76263cbd0,species,striata,Kummerowia,,"(Thunb.) Schindl.",,,,,,,,wfo-0000185566,5352523,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5750286-8fd1-11eb-924d-9cd76263cbd0,genus,Kummerowia,,,Schindl.,,,,,,Q95995529,,,,294687-2,wfo-4000020277,2954000,,
+400a1ce8-8fc5-11eb-924d-9cd76263cbd0,species,stipulacea,Kummerowia,,"(Maxim.) Makino",,,,,,,,9727a5b0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000192126,5352522,,
+f50a35da-8fc3-11eb-924d-9cd76263cbd0,species,striata,Kummerowia,,"(Thunb.) Schindl.",,,,,,,,,,,wfo-0000185566,5352523,,

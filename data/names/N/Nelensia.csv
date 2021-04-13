@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e71d61e6-8fd1-11eb-924d-9cd76263cbd0,genus,Nelensia,,,,,,,,,,,wfo-4000025512,7332832,
-38c881de-8fcc-11eb-924d-9cd76263cbd0,species,bibracteata,Nelensia,,Poir.,1823,"Tabl. Encycl. 3: 568 1823",,,,,806252-1,wfo-0000381158,3737122,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e71d61e6-8fd1-11eb-924d-9cd76263cbd0,genus,Nelensia,,,,,,,,,,,,,,wfo-4000025512,7332832,,
+38c881de-8fcc-11eb-924d-9cd76263cbd0,species,bibracteata,Nelensia,,Poir.,,1823,,"Tabl. Encycl. 3: 568 1823",,,,,,806252-1,wfo-0000381158,3737122,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5d4a376-8fd1-11eb-924d-9cd76263cbd0,genus,Leratia,,,"Broth. & Paris",1909,"Öfvers. Finska Vetensk.-Soc. Förh. 51A(17): 14. 1909.",,,,,,wfo-4000021402,2671972,
-fe192866-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Leratia,,"(Sull.) Goffinet",2004,"Monogr. Syst. Bot. Missouri Bot. Gard. 98: 286 2004",,,,e1b5c404-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001212890,7483604,
-e8f37eaa-8fcd-11eb-924d-9cd76263cbd0,species,neocaledonica,Leratia,,"Broth. & Paris",1909,"Oefvers. Förh. Finska Vetensk.-Soc. 51A(17): 14 1909",,,,,,wfo-0001169016,5280959,
-fe190c14-8fcd-11eb-924d-9cd76263cbd0,species,obtusifolia,Leratia,,"(Hook.) Goffinet",2004,"Monogr. Syst. Bot. Missouri Bot. Gard. 98: 286 2004",,,,,,wfo-0001212889,8021554,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5d4a376-8fd1-11eb-924d-9cd76263cbd0,genus,Leratia,,,"Broth. & Paris",,1909,,"Öfvers. Finska Vetensk.-Soc. Förh. 51A(17): 14. 1909.",,,,,,,wfo-4000021402,2671972,,
+fe192866-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Leratia,,"(Sull.) Goffinet",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 98: 286 2004",,,,e1b5c404-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212890,7483604,,
+e8f37eaa-8fcd-11eb-924d-9cd76263cbd0,species,neocaledonica,Leratia,,"Broth. & Paris",,1909,,"Oefvers. Förh. Finska Vetensk.-Soc. 51A(17): 14 1909",,,,,,,wfo-0001169016,5280959,,
+fe190c14-8fcd-11eb-924d-9cd76263cbd0,species,obtusifolia,Leratia,,"(Hook.) Goffinet",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 98: 286 2004",,,,,,,wfo-0001212889,8021554,,

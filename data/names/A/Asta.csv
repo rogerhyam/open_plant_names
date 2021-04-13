@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfd74b40-8fd1-11eb-924d-9cd76263cbd0,genus,Asta,,,"Klotzsch ex O.E.Schulz",1933,"Bot. Jahrb. Syst. 66: 91. 1933.",,,,,296566-2,wfo-4000003368,3040721,
-a86925fc-8fcc-11eb-924d-9cd76263cbd0,species,pringlei,Asta,,O.E.Schulz,1933,"Bot. Jahrb. Syst. 66: 91 1933",,,,,22985-2,wfo-0000552527,5373315,
-a8694212-8fcc-11eb-924d-9cd76263cbd0,species,schaffneri,Asta,,"(S.Watson) O.E.Schulz",1933,"Bot. Jahrb. Syst. 66: 91 1933",,,,,22986-2,wfo-0000552528,5373311,
-a8695e1e-8fcc-11eb-924d-9cd76263cbd0,variety,pringlei,Asta,schaffneri,"(O.E.Schulz) Rollins",1941,"Contr. Dudley Herb. 3: 197 1941",,,,a86925fc-8fcc-11eb-924d-9cd76263cbd0,22987-2,wfo-0000552529,5373314,
-a8697b42-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Asta,,Rollins,1984,"Contr. Gray Herb. 214: 19 1984",,,,,22988-2,wfo-0000552530,5373316,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfd74b40-8fd1-11eb-924d-9cd76263cbd0,genus,Asta,,,"Klotzsch ex O.E.Schulz",,1933,,"Bot. Jahrb. Syst. 66: 91. 1933.",,,,,,296566-2,wfo-4000003368,3040721,,
+a86925fc-8fcc-11eb-924d-9cd76263cbd0,species,pringlei,Asta,,O.E.Schulz,,1933,,"Bot. Jahrb. Syst. 66: 91 1933",,,,,,22985-2,wfo-0000552527,5373315,,
+a8694212-8fcc-11eb-924d-9cd76263cbd0,species,schaffneri,Asta,,"(S.Watson) O.E.Schulz",,1933,,"Bot. Jahrb. Syst. 66: 91 1933",,,,,,22986-2,wfo-0000552528,5373311,,
+a8695e1e-8fcc-11eb-924d-9cd76263cbd0,variety,pringlei,Asta,schaffneri,"(O.E.Schulz) Rollins",,1941,,"Contr. Dudley Herb. 3: 197 1941",,,,a86925fc-8fcc-11eb-924d-9cd76263cbd0,,22987-2,wfo-0000552529,5373314,,
+a8697b42-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Asta,,Rollins,,1984,,"Contr. Gray Herb. 214: 19 1984",,Q94389291,,,,22988-2,wfo-0000552530,5373316,,

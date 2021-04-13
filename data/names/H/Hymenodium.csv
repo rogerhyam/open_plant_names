@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f924c2-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenodium,,,Fée,1845,"Mém. Foug. 2(Hist Acrostich.): 20. 1845.",,,,,,wfo-4000018663,6387960,
-53b8c4b8-8fbd-11eb-924d-9cd76263cbd0,species,crassifolium,Hymenodium,,F,1845,"M 91, t. 63, f. 1 1845",,,,,17121140-1,wfo-0000147092,4012596,
-cf4df516-8fcd-11eb-924d-9cd76263cbd0,species,crinitum,Hymenodium,,"(L.) Fée",1845,"Mém. Foug. 2: 90 1845",,,,,17121150-1,wfo-0001113554,2651062,
-d6378ff4-8fcd-11eb-924d-9cd76263cbd0,species,kunzeanum,Hymenodium,,Fée,1845,"Mém. Foug. 2: 90, t. 58 1845",,,,,17121160-1,wfo-0001128759,4012585,
-b0bd6c40-8fd1-11eb-924d-9cd76263cbd0,species,pachyphyllum,Hymenodium,,"(Kunze) T.Moore",1857,"Index Fil. xix 1857",,,,,17121170-1,wfo-0001225933,4012575,
-b0bd8964-8fd1-11eb-924d-9cd76263cbd0,species,reticulatum,Hymenodium,,"(Kaulf.) T.Moore",1857,"Index Fil. xix 1857",,,,b0bda944-8fd1-11eb-924d-9cd76263cbd0,17121180-1,wfo-0001225934,4012566,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f924c2-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenodium,,,Fée,,1845,,"Mém. Foug. 2(Hist Acrostich.): 20. 1845.",,,,,,,wfo-4000018663,6387960,,
+53b8c4b8-8fbd-11eb-924d-9cd76263cbd0,species,crassifolium,Hymenodium,,F,,1845,,"M 91, t. 63, f. 1 1845",,,,,,17121140-1,wfo-0000147092,4012596,,
+cf4df516-8fcd-11eb-924d-9cd76263cbd0,species,crinitum,Hymenodium,,"(L.) Fée",,1845,,"Mém. Foug. 2: 90 1845",,,,,,17121150-1,wfo-0001113554,2651062,,
+d6378ff4-8fcd-11eb-924d-9cd76263cbd0,species,kunzeanum,Hymenodium,,Fée,,1845,,"Mém. Foug. 2: 90, t. 58 1845",,,,,,17121160-1,wfo-0001128759,4012585,,
+b0bd6c40-8fd1-11eb-924d-9cd76263cbd0,species,pachyphyllum,Hymenodium,,"(Kunze) T.Moore",,1857,,"Index Fil. xix 1857",,,,,,17121170-1,wfo-0001225933,4012575,,
+b0bd8964-8fd1-11eb-924d-9cd76263cbd0,species,reticulatum,Hymenodium,,"(Kaulf.) T.Moore",,1857,,"Index Fil. xix 1857",,,,b0bda944-8fd1-11eb-924d-9cd76263cbd0,,17121180-1,wfo-0001225934,4012566,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f1d230-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrotrida,,,,,,,,,,,wfo-4000018570,,
-10049afc-8fcd-11eb-924d-9cd76263cbd0,species,beccabunga,Hydrotrida,,Willd.,1830,"Linnaea 5: 107 1830",,,,,803927-1,wfo-0000726748,3742184,
-da984b4c-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Hydrotrida,,"(Walter) Small",1913,"Fl. Miami 165 1913",,,,,125346-2,wfo-0001138505,3171190,
-aff74384-8fcd-11eb-924d-9cd76263cbd0,species,crenulata,Hydrotrida,,"(Small) Small ex Schltdl. & Cham.",1913,"Fl. Miami 165, 200 1913",,,,,,wfo-0001043611,7694089,
-24ec0216-8fcd-11eb-924d-9cd76263cbd0,species,echinospermus,Hydrotrophus,,C.B.Clarke,1873,"J. Linn. Soc., Bot. 14: 8 1873",,,,,431810-1,wfo-0000769397,2865973,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f1d230-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrotrida,,,,,,,,,,,,,,wfo-4000018570,,,
+10049afc-8fcd-11eb-924d-9cd76263cbd0,species,beccabunga,Hydrotrida,,Willd.,,1830,,"Linnaea 5: 107 1830",,,,,,803927-1,wfo-0000726748,3742184,,
+da984b4c-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Hydrotrida,,"(Walter) Small",,1913,,"Fl. Miami 165 1913",,,,,,125346-2,wfo-0001138505,3171190,,
+aff74384-8fcd-11eb-924d-9cd76263cbd0,species,crenulata,Hydrotrida,,"(Small) Small ex Schltdl. & Cham.",,1913,,"Fl. Miami 165, 200 1913",,,,,,,wfo-0001043611,7694089,,
+24ec0216-8fcd-11eb-924d-9cd76263cbd0,species,echinospermus,Hydrotrophus,,C.B.Clarke,,1873,,"J. Linn. Soc., Bot. 14: 8 1873",,Q55758870,,,,431810-1,wfo-0000769397,2865973,,

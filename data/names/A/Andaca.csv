@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df6654ee-8fd1-11eb-924d-9cd76263cbd0,genus,Andaca,,,,,,,,,,,wfo-4000001945,7301558,
-9d41e682-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Andaca,,"(Sol. ex L.) Raf.",1837,"Fl. Tellur. 3: 82 1837",,,,,474009-1,wfo-0000533910,3965717,
-37c53420-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"(B.Baumann & H.Baumann) H.Kretzschmar, Eccarius & H.Dietr.",2007,"Orchid Gen. Anacamptis Orchis Neotinea 513 2007",,,,376ae5f6-8fcd-11eb-924d-9cd76263cbd0,77078923-1,wfo-0000810201,,
-6e449bf8-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"(B.Baumann & H.Baumann) P.Delforge",2009,"Naturalistes Belges 90: 31 2009",,,,376ae5f6-8fcd-11eb-924d-9cd76263cbd0,77103196-1,wfo-0000911519,,
-376ae5f6-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"B.Baumann & H.Baumann",2006,"J. Eur. Orch. 38: 543 2006",,,,,,wfo-0000809408,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df6654ee-8fd1-11eb-924d-9cd76263cbd0,genus,Andaca,,,,,,,,,,,,,,wfo-4000001945,7301558,,
+9d41e682-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Andaca,,"(Sol. ex L.) Raf.",,1837,,"Fl. Tellur. 3: 82 1837",,,,,,474009-1,wfo-0000533910,3965717,,
+6e449bf8-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"(B.Baumann & H.Baumann) P.Delforge",,2009,,"Naturalistes Belges 90: 31 2009",,,,376ae5f6-8fcd-11eb-924d-9cd76263cbd0,,77103196-1,wfo-0000911519,,,
+376ae5f6-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"B.Baumann & H.Baumann",,2006,,"J. Eur. Orch. 38: 543 2006",,,,,,,wfo-0000809408,,,
+37c53420-8fcd-11eb-924d-9cd76263cbd0,species,andaluciana,,,"(B.Baumann & H.Baumann) H.Kretzschmar, Eccarius & H.Dietr.",,2007,,"Orchid Gen. Anacamptis Orchis Neotinea 513 2007",,,,376ae5f6-8fcd-11eb-924d-9cd76263cbd0,,77078923-1,wfo-0000810201,,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc1deac-8fd1-11eb-924d-9cd76263cbd0,genus,Uechtritzia,,,,,,,,,,,wfo-4000039702,3122081,
-134348c8-8fb2-11eb-924d-9cd76263cbd0,species,armena,Uechtritzia,,"Freyn & Sint. ex Freyn",1892,1892,,,,,,wfo-0000009788,3122084,
-1d14581a-8fb2-11eb-924d-9cd76263cbd0,species,kokanica,Uechtritzia,,"(Regel & Schmalh.) Pobed.",1963,"Fl. URSS xxviii. 597(1963).",,,,,,wfo-0000011892,3122086,
-25734650-8fb3-11eb-924d-9cd76263cbd0,species,lacei,Uechtritzia,,"(Watt) C.Jeffrey",1967,"Kew Bull. xxi. 213 (1967), in obs.",,,,e1586d62-8fba-11eb-924d-9cd76263cbd0,256987-1,wfo-0000042560,3122082,
-ec29e5e8-8fcb-11eb-924d-9cd76263cbd0,species,uechtritziana,,,"(Hausskn.) Borsos & Soó",1966,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 315 1966",,,,ed182ea6-8fcb-11eb-924d-9cd76263cbd0,648246-1,wfo-0000258774,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc1deac-8fd1-11eb-924d-9cd76263cbd0,genus,Uechtritzia,,,,,,,,,,,,,,wfo-4000039702,3122081,,
+134348c8-8fb2-11eb-924d-9cd76263cbd0,species,armena,Uechtritzia,,"Freyn & Sint. ex Freyn",,1892,,1892,,,,,,,wfo-0000009788,3122084,,
+1d14581a-8fb2-11eb-924d-9cd76263cbd0,species,kokanica,Uechtritzia,,"(Regel & Schmalh.) Pobed.",,1963,,"Fl. URSS xxviii. 597(1963).",,,,,,,wfo-0000011892,3122086,,
+25734650-8fb3-11eb-924d-9cd76263cbd0,species,lacei,Uechtritzia,,"(Watt) C.Jeffrey",,1967,,"Kew Bull. xxi. 213 (1967), in obs.",,Q55779116,,e1586d62-8fba-11eb-924d-9cd76263cbd0,,256987-1,wfo-0000042560,3122082,,
+ec29e5e8-8fcb-11eb-924d-9cd76263cbd0,species,uechtritziana,,,"(Hausskn.) Borsos & Soó",,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 315 1966",,,,ed182ea6-8fcb-11eb-924d-9cd76263cbd0,,648246-1,wfo-0000258774,,,

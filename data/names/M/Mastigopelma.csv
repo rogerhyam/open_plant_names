@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e669aca0-8fd1-11eb-924d-9cd76263cbd0,genus,Mastigopelma,,,Mitt.,1873,"Fl. Vit. 406. 1873.",,,,,,wfo-4000023291,2689082,
-fd47b8da-8fcd-11eb-924d-9cd76263cbd0,species,pulvinulatum,Mastigopelma,,"(De Not.) Grolle",1970,"J. Hattori Bot. Lab. 33: 39 1970",,,,fd479d50-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001211063,7505559,
-fd478130-8fcd-11eb-924d-9cd76263cbd0,species,simplex,Mastigopelma,,Mitt.,1871,"Fl. Vit. 406 1871",,,,,,wfo-0001211061,2689083,
-fd476420-8fcd-11eb-924d-9cd76263cbd0,species,subfissum,Mastigopelma,,Grolle,1970,"J. Hattori Bot. Lab. 33: 36. f. 1–2: a–d 1970",,,,,,wfo-0001211060,8334755,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e669aca0-8fd1-11eb-924d-9cd76263cbd0,genus,Mastigopelma,,,Mitt.,,1873,,"Fl. Vit. 406. 1873.",,,,,,,wfo-4000023291,2689082,,
+fd47b8da-8fcd-11eb-924d-9cd76263cbd0,species,pulvinulatum,Mastigopelma,,"(De Not.) Grolle",,1970,,"J. Hattori Bot. Lab. 33: 39 1970",,,,fd479d50-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001211063,7505559,,
+fd478130-8fcd-11eb-924d-9cd76263cbd0,species,simplex,Mastigopelma,,Mitt.,,1871,,"Fl. Vit. 406 1871",,,,,,,wfo-0001211061,2689083,,
+fd476420-8fcd-11eb-924d-9cd76263cbd0,species,subfissum,Mastigopelma,,Grolle,,1970,,"J. Hattori Bot. Lab. 33: 36. f. 1–2: a–d 1970",,,,,,,wfo-0001211060,8334755,,

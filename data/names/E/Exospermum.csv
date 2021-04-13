@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a530d4-8fd1-11eb-924d-9cd76263cbd0,genus,Exospermum,,,Tiegh.,1900,"J. Bot. (Morot) 14: 279. 1900.",,,,,,wfo-4000014479,7288415,
-8aa73d50-8fcd-11eb-924d-9cd76263cbd0,species,lecartii,Exospermum,,Tiegh.,1900,"J. Bot. (Morot) 14: 334 1900",,,,,554481-1,wfo-0000966128,8287414,
-8aa7597a-8fcd-11eb-924d-9cd76263cbd0,species,stipitatum,Exospermum,,"(Baill.) Tiegh.",1900,"J. Bot. (Morot) 14: cxxvi 1900",,,,,,wfo-0000966129,4020549,
-f7db4bb0-8fcc-11eb-924d-9cd76263cbd0,species,filicaulis,Exostegia,,"Bojer ex Decne.",1844,"Prodr. 8: 530 1844",,,,,97386-1,wfo-0000684505,3576755,
-f7db6992-8fcc-11eb-924d-9cd76263cbd0,species,laevigata,Exostegia,,"Bojer ex Decne.",1844,"Prodr. 8: 528 1844",,,,,97387-1,wfo-0000684506,3576748,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a530d4-8fd1-11eb-924d-9cd76263cbd0,genus,Exospermum,,,Tiegh.,,1900,,"J. Bot. (Morot) 14: 279. 1900.",,,,,,,wfo-4000014479,7288415,,
+8aa73d50-8fcd-11eb-924d-9cd76263cbd0,species,lecartii,Exospermum,,Tiegh.,,1900,,"J. Bot. (Morot) 14: 334 1900",,,,,,554481-1,wfo-0000966128,8287414,,
+8aa7597a-8fcd-11eb-924d-9cd76263cbd0,species,stipitatum,Exospermum,,"(Baill.) Tiegh.",,1900,,"J. Bot. (Morot) 14: cxxvi 1900",,,,,,,wfo-0000966129,4020549,,

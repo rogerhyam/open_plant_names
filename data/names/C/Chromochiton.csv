@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1add790-8fd1-11eb-924d-9cd76263cbd0,genus,Chromochiton,,,,,,,,,,,wfo-4000008152,3089473,
-547a2900-8fb3-11eb-924d-9cd76263cbd0,species,aculeata,Chromochiton,,Cass.,1828,1828,,,,,,wfo-0000046179,3101647,
-0a121d74-8fb2-11eb-924d-9cd76263cbd0,species,aculeata,Chromochiton,,B.D.Jacks.,1895,"Index Kewensis 1  1895",,,,,74447-3,wfo-0000006934,7671942,
-c507ba94-8fb2-11eb-924d-9cd76263cbd0,species,affinis,Chromochiton,,Cass.,1828,1828,,,,,,wfo-0000034030,3101646,
-07d6c2a4-8fb6-11eb-924d-9cd76263cbd0,species,affinis,Chromochiton,,B.D.Jacks.,1895,"Index Kewensis 1  1895",,,,,74466-3,wfo-0000084894,8175545,
-fe6be46e-8fb1-11eb-924d-9cd76263cbd0,species,aurea,Chromochiton,,Cass.,1828,1828,,,,,,wfo-0000001597,3118033,
-1047def8-8fb3-11eb-924d-9cd76263cbd0,species,aurea,Chromochiton,,B.D.Jacks.,1895,"Index Kewensis 1  1895",,,,,74491-3,wfo-0000040771,7357758,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1add790-8fd1-11eb-924d-9cd76263cbd0,genus,Chromochiton,,,,,,,,,,,,,,wfo-4000008152,3089473,,
+0a121d74-8fb2-11eb-924d-9cd76263cbd0,species,aculeata,Chromochiton,,B.D.Jacks.,,1895,,"Index Kewensis 1  1895",,,,,,74447-3,wfo-0000006934,7671942,,
+547a2900-8fb3-11eb-924d-9cd76263cbd0,species,aculeata,Chromochiton,,Cass.,,1828,,1828,,,,,,,wfo-0000046179,3101647,,
+c507ba94-8fb2-11eb-924d-9cd76263cbd0,species,affinis,Chromochiton,,Cass.,,1828,,1828,,,,,,,wfo-0000034030,3101646,,
+07d6c2a4-8fb6-11eb-924d-9cd76263cbd0,species,affinis,Chromochiton,,B.D.Jacks.,,1895,,"Index Kewensis 1  1895",,,,,,74466-3,wfo-0000084894,8175545,,
+fe6be46e-8fb1-11eb-924d-9cd76263cbd0,species,aurea,Chromochiton,,Cass.,,1828,,1828,,,,,,,wfo-0000001597,3118033,,
+1047def8-8fb3-11eb-924d-9cd76263cbd0,species,aurea,Chromochiton,,B.D.Jacks.,,1895,,"Index Kewensis 1  1895",,,,,,74491-3,wfo-0000040771,7357758,,

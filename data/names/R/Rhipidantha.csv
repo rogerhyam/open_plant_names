@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e99e7694-8fd1-11eb-924d-9cd76263cbd0,genus,Rhipidantha,,,Bremek.,1940,"Bot. Jahrb. Syst. 71: 222. 1940.",,,,,35252-1,wfo-4000032961,2903329,
-03f048f2-8fcc-11eb-924d-9cd76263cbd0,species,chlorantha,Rhipidantha,,"(K.Schum.) Bremek.",1940,"Bot. Jahrb. Syst. 71: 222 1940",,,,,764644-1,wfo-0000296214,2903330,
-03f0640e-8fcc-11eb-924d-9cd76263cbd0,species,amazonica,Rhipidia,,"(Markgr.) Markgr.",,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 1033 1930",,,,0325fbec-8fcc-11eb-924d-9cd76263cbd0,219224-2,wfo-0000296215,5535514,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e99e7694-8fd1-11eb-924d-9cd76263cbd0,genus,Rhipidantha,,,Bremek.,,1940,,"Bot. Jahrb. Syst. 71: 222. 1940.",,,,,,35252-1,wfo-4000032961,2903329,,
+03f048f2-8fcc-11eb-924d-9cd76263cbd0,species,chlorantha,Rhipidantha,,"(K.Schum.) Bremek.",,1940,,"Bot. Jahrb. Syst. 71: 222 1940",,,,,,764644-1,wfo-0000296214,2903330,,
+03f0640e-8fcc-11eb-924d-9cd76263cbd0,species,amazonica,Rhipidia,,"(Markgr.) Markgr.",,,,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 1033 1930",,Q55777498,,0325fbec-8fcc-11eb-924d-9cd76263cbd0,,219224-2,wfo-0000296215,5535514,,

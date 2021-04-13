@@ -1,7 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e14a0170-8fd1-11eb-924d-9cd76263cbd0,genus,Castorea,,,Mill.,1754,"Gard. Dict. Abr. (ed. 4) 1754.",,,,,,wfo-4000006946,4085907,
-afef77ea-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Castorea,,"Plum. ex Mill.",1754,"Gard. Dict. Abr. (ed. 4) no. 1 1754",,,,,,wfo-0001224395,8308753,
-c41af40c-8fb2-11eb-924d-9cd76263cbd0,species,illustris,Castra,,Vell.,1825,"343 1825",,,,,,wfo-0000033933,5401409,
-657f916e-8fb2-11eb-924d-9cd76263cbd0,species,nobilis,Castra,,Vell.,,,,,,,,wfo-0000023237,5398998,
-1fb419d4-8fb2-11eb-924d-9cd76263cbd0,species,praestans,Castra,,Vell.,1829,"Fl. Flum. 343 1829",,,,,189604-1,wfo-0000012407,5399009,
-47002bfe-8fb2-11eb-924d-9cd76263cbd0,species,regia,Castra,,Vell.,,343,,,,,189605-1,wfo-0000018667,5691584,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e14a0170-8fd1-11eb-924d-9cd76263cbd0,genus,Castorea,,,Mill.,,1754,,"Gard. Dict. Abr. (ed. 4) 1754.",,,,,,,wfo-4000006946,4085907,,
+afef77ea-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Castorea,,"Plum. ex Mill.",,1754,,"Gard. Dict. Abr. (ed. 4) no. 1 1754",,,,,,,wfo-0001224395,8308753,,

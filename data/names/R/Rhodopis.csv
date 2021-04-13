@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a5e5c8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopis,,,Urb.,,,,,,,295587-2,wfo-4000033039,2967017,
-e61b6676-8fc2-11eb-924d-9cd76263cbd0,species,lowdenii,Rhodopis,,Judd,,,,,,,,wfo-0000179933,5358240,
-b333d37e-8fc2-11eb-924d-9cd76263cbd0,species,planisiliqua,Rhodopis,,"(L.) Urb.",,,,,,,,wfo-0000178913,5358241,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a5e5c8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopis,,,Urb.,,,,,,,,,,295587-2,wfo-4000033039,2967017,,
+e61b6676-8fc2-11eb-924d-9cd76263cbd0,species,lowdenii,Rhodopis,,Judd,,,,,,,,,,,wfo-0000179933,5358240,,
+b333d37e-8fc2-11eb-924d-9cd76263cbd0,species,planisiliqua,Rhodopis,,"(L.) Urb.",,,,,,,,,,,wfo-0000178913,5358241,,

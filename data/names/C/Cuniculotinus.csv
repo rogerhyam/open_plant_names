@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24551c4-8fd1-11eb-924d-9cd76263cbd0,genus,Cuniculotinus,,,"Urbatsch, R.P.Roberts & Neubig",,,,,,,60439786-2,wfo-4000010042,3095721,
-01a96ad8-8fb3-11eb-924d-9cd76263cbd0,species,gramineus,Cuniculotinus,,"(H.M.Hall) Urbatsch, R.P.Roberts & Neubig",,"1619 2005",,,,3719e5ec-8fb5-11eb-924d-9cd76263cbd0,60439798-2,wfo-0000039499,3095722,
-c863ed3c-8fb4-11eb-924d-9cd76263cbd0,species,perfoliata,Cunigunda,,"(L.) Lunell",1917,"Amer. Midl. Naturalist 5 35 1917",,,,,72196-2,wfo-0000069791,3142530,
-5fbdf4a2-8fba-11eb-924d-9cd76263cbd0,species,purpurea,Cunigunda,,"(L.) Lunell",1917,"Amer. Midl. Naturalist 5 35 1917",,,,,72197-2,wfo-0000126135,3142918,
-9ade6a66-8fbb-11eb-924d-9cd76263cbd0,species,vulgaris,Cunigunda,,Bubani,1899,"273 1899",,,,,200723-1,wfo-0000135417,3142630,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24551c4-8fd1-11eb-924d-9cd76263cbd0,genus,Cuniculotinus,,,"Urbatsch, R.P.Roberts & Neubig",,,,,,Q91202771,,,,60439786-2,wfo-4000010042,3095721,,
+01a96ad8-8fb3-11eb-924d-9cd76263cbd0,species,gramineus,Cuniculotinus,,"(H.M.Hall) Urbatsch, R.P.Roberts & Neubig",,,,"1619 2005",,Q91202771,,3719e5ec-8fb5-11eb-924d-9cd76263cbd0,,60439798-2,wfo-0000039499,3095722,,
+c863ed3c-8fb4-11eb-924d-9cd76263cbd0,species,perfoliata,Cunigunda,,"(L.) Lunell",,1917,,"Amer. Midl. Naturalist 5 35 1917",,Q55773323,,,,72196-2,wfo-0000069791,3142530,,
+5fbdf4a2-8fba-11eb-924d-9cd76263cbd0,species,purpurea,Cunigunda,,"(L.) Lunell",,1917,,"Amer. Midl. Naturalist 5 35 1917",,Q55773323,,,,72197-2,wfo-0000126135,3142918,,
+9ade6a66-8fbb-11eb-924d-9cd76263cbd0,species,vulgaris,Cunigunda,,Bubani,,1899,,"273 1899",,,,,,200723-1,wfo-0000135417,3142630,,

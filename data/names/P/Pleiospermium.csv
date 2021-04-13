@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b47d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiospermium,,,Swingle,1916,"J. Wash. Acad. Sci. 6: 427. 1916.",,,,,35900-1,wfo-4000030250,7269449,
-cb84e986-8fd1-11eb-924d-9cd76263cbd0,species,alatum,Pleiospermium,,"(Wight & Arn.) Swingle",1916,"J. Wash. Acad. Sci. 6: 428 1916",,,,,774863-1,wfo-0001275406,3836714,
-78659f98-8fcc-11eb-924d-9cd76263cbd0,species,annamense,Pleiospermium,,Guillaumin,1945,"Bull. Soc. Bot. France 111: 217 1945",,,,,774864-1,wfo-0000471255,3836705,
-78649a76-8fcc-11eb-924d-9cd76263cbd0,species,dubium,Pleiospermium,,Swingle,1916,"J. Wash. Acad. Sci. 6: 429 1916",,,,,774865-1,wfo-0000471250,3836697,
-7865bc62-8fcc-11eb-924d-9cd76263cbd0,species,latialatum,Pleiospermium,,Swingle,1939,"J. Arnold Arbor. 20: 261 1939",,,,,774866-1,wfo-0000471256,3836689,
-7865d97c-8fcc-11eb-924d-9cd76263cbd0,species,littorale,Pleiospermium,,Tanaka,1928,"Stud. Citrol. 2: 27 1928",,,,,,wfo-0000471257,3836683,
-7865f77c-8fcc-11eb-924d-9cd76263cbd0,species,longisepalum,Pleiospermium,,Swingle,1939,"J. Arnold Arbor. 20: 259 1939",,,,,774868-1,wfo-0000471258,3836674,
-786614fa-8fcc-11eb-924d-9cd76263cbd0,species,sumatranum,Pleiospermium,,Swingle,1939,"J. Arnold Arbor. 20: 260 1939",,,,,774869-1,wfo-0000471259,3836663,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b47d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiospermium,,,Swingle,,1916,,"J. Wash. Acad. Sci. 6: 427. 1916.",,Q96057288,,,,35900-1,wfo-4000030250,7269449,,
+cb84e986-8fd1-11eb-924d-9cd76263cbd0,species,alatum,Pleiospermium,,"(Wight & Arn.) Swingle",,1916,,"J. Wash. Acad. Sci. 6: 428 1916",,Q96057288,,,,774863-1,wfo-0001275406,3836714,,
+78659f98-8fcc-11eb-924d-9cd76263cbd0,species,annamense,Pleiospermium,,Guillaumin,,1945,,"Bull. Soc. Bot. France 111: 217 1945",,Q55757449,,,,774864-1,wfo-0000471255,3836705,,
+78649a76-8fcc-11eb-924d-9cd76263cbd0,species,dubium,Pleiospermium,,Swingle,,1916,,"J. Wash. Acad. Sci. 6: 429 1916",,Q96057288,,,,774865-1,wfo-0000471250,3836697,,
+7865bc62-8fcc-11eb-924d-9cd76263cbd0,species,latialatum,Pleiospermium,,Swingle,,1939,,"J. Arnold Arbor. 20: 261 1939",,Q96064021,,,,774866-1,wfo-0000471256,3836689,,
+7865d97c-8fcc-11eb-924d-9cd76263cbd0,species,littorale,Pleiospermium,,Tanaka,,1928,,"Stud. Citrol. 2: 27 1928",,,,,,,wfo-0000471257,3836683,,
+7865f77c-8fcc-11eb-924d-9cd76263cbd0,species,longisepalum,Pleiospermium,,Swingle,,1939,,"J. Arnold Arbor. 20: 259 1939",,Q96064021,,,,774868-1,wfo-0000471258,3836674,,
+786614fa-8fcc-11eb-924d-9cd76263cbd0,species,sumatranum,Pleiospermium,,Swingle,,1939,,"J. Arnold Arbor. 20: 260 1939",,Q96064021,,,,774869-1,wfo-0000471259,3836663,,

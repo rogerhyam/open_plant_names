@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb67b2f6-8fd1-11eb-924d-9cd76263cbd0,genus,Tomzanonia,,,Nir,1997,"Lindleyana 12(4): 186, f. 4. 1997.",,,,,999686-1,wfo-4000038556,2795747,
-171b40ee-8fcc-11eb-924d-9cd76263cbd0,species,filicina,Tomzanonia,,"(Dod) Nir",1997,"Lindleyana 12: 186 1997",,,,808973f6-8fcd-11eb-924d-9cd76263cbd0,999687-1,wfo-0000326376,2795748,
-ce374dbe-8fb2-11eb-924d-9cd76263cbd0,species,aurantiacus,Tonalanthus,,Brandegee,1914,"75 1914",,,,,255035-2,wfo-0000034945,3147502,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb67b2f6-8fd1-11eb-924d-9cd76263cbd0,genus,Tomzanonia,,,Nir,,1997,,"Lindleyana 12(4): 186, f. 4. 1997.",,,,,,999686-1,wfo-4000038556,2795747,,
+171b40ee-8fcc-11eb-924d-9cd76263cbd0,species,filicina,Tomzanonia,,"(Dod) Nir",,1997,,"Lindleyana 12: 186 1997",,,,808973f6-8fcd-11eb-924d-9cd76263cbd0,,999687-1,wfo-0000326376,2795748,,
+ce374dbe-8fb2-11eb-924d-9cd76263cbd0,species,aurantiacus,Tonalanthus,,Brandegee,,1914,,"75 1914",,,,,,255035-2,wfo-0000034945,3147502,,

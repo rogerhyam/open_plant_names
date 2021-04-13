@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec1523be-8fd1-11eb-924d-9cd76263cbd0,genus,Winterocereus,,,Backeb.,1966,"Kakteenl. 455. 1966.",,,,,,wfo-4000040775,7280747,
-cc9b5aee-8fd1-11eb-924d-9cd76263cbd0,species,aureispinus,Winterocereus,,"(F.Ritter) Backeb.",1966,"Kakteenl. 455 1966",,,,34d4f8aa-8fcc-11eb-924d-9cd76263cbd0,139141-1,wfo-0001277371,3945847,
-8e292994-8fcc-11eb-924d-9cd76263cbd0,species,colademononis,Winterocereus,,"(Diers & Krahn) Metzing & R.Kiesling",2007,"Taxon 56: 227 2007",,,,0e20af32-8fcd-11eb-924d-9cd76263cbd0,77077149-1,wfo-0000508170,3945840,
-093c1ed4-8fcd-11eb-924d-9cd76263cbd0,species,wintonensis,,,"O.E.Warb. & E.F.Warb.",1930,"J. Roy. Hort. Soc. 55: 49 1930",,,,,168636-1,wfo-0000714705,,
-7d59361c-8fcd-11eb-924d-9cd76263cbd0,species,wintonii,,,"(Druce) Peitz",1972,"Jahresber. Naturwiss. Vereins Wuppertal 25: 191 1972",,,,911b1c1a-8fcd-11eb-924d-9cd76263cbd0,941842-1,wfo-0000936387,,
-ec3122c2-8fcb-11eb-924d-9cd76263cbd0,species,wintonii,,,"(Druce) Tahourdin",1925,"Native Orch. Brit. 109 1925",,,,911b1c1a-8fcd-11eb-924d-9cd76263cbd0,648276-1,wfo-0000258817,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec1523be-8fd1-11eb-924d-9cd76263cbd0,genus,Winterocereus,,,Backeb.,,1966,,"Kakteenl. 455. 1966.",,,,,,,wfo-4000040775,7280747,,
+cc9b5aee-8fd1-11eb-924d-9cd76263cbd0,species,aureispinus,Winterocereus,,"(F.Ritter) Backeb.",,1966,,"Kakteenl. 455 1966",,,,34d4f8aa-8fcc-11eb-924d-9cd76263cbd0,,139141-1,wfo-0001277371,3945847,,
+8e292994-8fcc-11eb-924d-9cd76263cbd0,species,colademononis,Winterocereus,,"(Diers & Krahn) Metzing & R.Kiesling",,2007,,"Taxon 56: 227 2007",,,,0e20af32-8fcd-11eb-924d-9cd76263cbd0,,77077149-1,wfo-0000508170,3945840,,

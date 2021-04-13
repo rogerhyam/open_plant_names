@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4abc81c-8fd1-11eb-924d-9cd76263cbd0,genus,Heteranthelium,,,"Hochst. ex Jaub. & Spach",1843,"Pl. Aleppo exsiccatae 130a. 1843.",,,,,18190-1,wfo-4000017664,8180972,
-555017bc-8fcd-11eb-924d-9cd76263cbd0,species,aleppicum,Heteranthelium,,Gand.,1919,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,,,,404741-1,wfo-0000874131,4124056,
-5550363e-8fcd-11eb-924d-9cd76263cbd0,species,assyriacum,Heteranthelium,,Gand.,1919,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,,,,404742-1,wfo-0000874132,4124048,
-55505542-8fcd-11eb-924d-9cd76263cbd0,species,hermoneum,Heteranthelium,,Gand.,1919,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,,,,404743-1,wfo-0000874133,4124039,
-c74941fe-8fcd-11eb-924d-9cd76263cbd0,species,piliferum,Heteranthelium,,"(Banks & Sol.) Hochst.",1843,"Pl. Aleppo exsiccatae 130a 1843",,,,,,wfo-0001096278,7796343,
-55507248-8fcd-11eb-924d-9cd76263cbd0,species,piliferum,Heteranthelium,,"(Sol.) Hochst. ex Jaub. & Spach",1850,"Ill. Pl. Orient. 4: 24 1850",,,,,404744-1,wfo-0000874134,4124025,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4abc81c-8fd1-11eb-924d-9cd76263cbd0,genus,Heteranthelium,,,"Hochst. ex Jaub. & Spach",,1843,,"Pl. Aleppo exsiccatae 130a. 1843.",,,,,,18190-1,wfo-4000017664,8180972,,
+555017bc-8fcd-11eb-924d-9cd76263cbd0,species,aleppicum,Heteranthelium,,Gand.,,1919,,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,Q55757068,,,,404741-1,wfo-0000874131,4124056,,
+5550363e-8fcd-11eb-924d-9cd76263cbd0,species,assyriacum,Heteranthelium,,Gand.,,1919,,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,Q55757068,,,,404742-1,wfo-0000874132,4124048,,
+55505542-8fcd-11eb-924d-9cd76263cbd0,species,hermoneum,Heteranthelium,,Gand.,,1919,,"Bull. Soc. Bot. France 66: 300 1919 publ. 1920",,Q55757068,,,,404743-1,wfo-0000874133,4124039,,
+c74941fe-8fcd-11eb-924d-9cd76263cbd0,species,piliferum,Heteranthelium,,"(Banks & Sol.) Hochst.",,1843,,"Pl. Aleppo exsiccatae 130a 1843",,,,,,,wfo-0001096278,7796343,,
+55507248-8fcd-11eb-924d-9cd76263cbd0,species,piliferum,Heteranthelium,,"(Sol.) Hochst. ex Jaub. & Spach",,1850,,"Ill. Pl. Orient. 4: 24 1850",,,,,,404744-1,wfo-0000874134,4124025,,

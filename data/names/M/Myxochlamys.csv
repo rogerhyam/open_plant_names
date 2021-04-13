@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e70ab884-8fd1-11eb-924d-9cd76263cbd0,genus,Myxochlamys,,,"A.Takano & Nagam.",2007,"Acta Phytotax. Geobot. 58(1): 19–30. 2007.",,,,,77085644-1,wfo-4000025246,2758796,
-7359b1b4-8fcd-11eb-924d-9cd76263cbd0,species,amphiloxa,Myxochlamys,,R.J.Searle,2010,"Edinburgh J. Bot. 67: 347 2010",,,,,77105536-1,wfo-0000918096,6313981,
-375be1c8-8fcd-11eb-924d-9cd76263cbd0,species,mullerensis,Myxochlamys,,"A.Takano & Nagam.",2007,"Acta Phytotax. Geobot. 58: 21 2007",,,,,,wfo-0000809272,2758797,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e70ab884-8fd1-11eb-924d-9cd76263cbd0,genus,Myxochlamys,,,"A.Takano & Nagam.",,2007,,"Acta Phytotax. Geobot. 58(1): 19–30. 2007.",,Q101140398,,,,77085644-1,wfo-4000025246,2758796,,
+7359b1b4-8fcd-11eb-924d-9cd76263cbd0,species,amphiloxa,Myxochlamys,,R.J.Searle,,2010,,"Edinburgh J. Bot. 67: 347 2010",,Q55756024,,,,77105536-1,wfo-0000918096,6313981,,
+375be1c8-8fcd-11eb-924d-9cd76263cbd0,species,mullerensis,Myxochlamys,,"A.Takano & Nagam.",,2007,,"Acta Phytotax. Geobot. 58: 21 2007",,,,,,,wfo-0000809272,2758797,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8387110-8fd1-11eb-924d-9cd76263cbd0,genus,Peripeplus,,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris ser. 2. 1: 66. 1898.",,,,,35099-1,wfo-4000028779,2918941,
-f1ab6c1c-8fcb-11eb-924d-9cd76263cbd0,species,bracteosus,Peripeplus,,"(Hiern) E.M.A.Petit",1964,"Bull. Jard. Bot. État 34: 23 1964",,,,,760378-1,wfo-0000267326,2918943,
-f1ac3ab6-8fcb-11eb-924d-9cd76263cbd0,species,klaineanus,Peripeplus,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 66 1898",,,,,760379-1,wfo-0000267327,2918942,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8387110-8fd1-11eb-924d-9cd76263cbd0,genus,Peripeplus,,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris ser. 2. 1: 66. 1898.",,,,,,35099-1,wfo-4000028779,2918941,,
+f1ab6c1c-8fcb-11eb-924d-9cd76263cbd0,species,bracteosus,Peripeplus,,"(Hiern) E.M.A.Petit",,1964,,"Bull. Jard. Bot. État 34: 23 1964",,Q55776029,,,,760378-1,wfo-0000267326,2918943,,
+f1ac3ab6-8fcb-11eb-924d-9cd76263cbd0,species,klaineanus,Peripeplus,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 66 1898",,,,,,760379-1,wfo-0000267327,2918942,,

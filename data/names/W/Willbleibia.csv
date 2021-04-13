@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec121e80-8fd1-11eb-924d-9cd76263cbd0,genus,Willbleibia,,,,,,,,,,,wfo-4000040724,6432511,
-6b567826-8fcd-11eb-924d-9cd76263cbd0,species,annua,Willbleibia,,"(Hack.) Herter",1958,"Phyton (Buenos Aires) 7: 296 1958",,,,6b57334c-8fcd-11eb-924d-9cd76263cbd0,426740-1,wfo-0000907541,4144005,
-6b569d2e-8fcd-11eb-924d-9cd76263cbd0,species,newtonii,Willbleibia,,"(Hack.) Herter",1958,"Phyton (Buenos Aires) 7: 296 1958",,,,,426741-1,wfo-0000907542,4143997,
-6b56c330-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Willbleibia,,"(Hack.) Herter",1958,"Phyton (Buenos Aires) 7: 296 1958",,,,6b57e530-8fcd-11eb-924d-9cd76263cbd0,426742-1,wfo-0000907543,4143986,
-6b56e824-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Willbleibia,,"(Parodi) Herter",1953,"Revista Sudamer. Bot. 9: 85 1953",,,,,268619-2,wfo-0000907544,4143974,
-6b570c5a-8fcd-11eb-924d-9cd76263cbd0,species,texana,Willbleibia,,"(Hitchc.) Herter",1953,"Revista Sudamer. Bot. 10: 132 1953",,,,,426744-1,wfo-0000907545,4143968,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec121e80-8fd1-11eb-924d-9cd76263cbd0,genus,Willbleibia,,,,,,,,,,,,,,wfo-4000040724,6432511,,
+6b567826-8fcd-11eb-924d-9cd76263cbd0,species,annua,Willbleibia,,"(Hack.) Herter",,1958,,"Phyton (Buenos Aires) 7: 296 1958",,,,6b57334c-8fcd-11eb-924d-9cd76263cbd0,,426740-1,wfo-0000907541,4144005,,
+6b569d2e-8fcd-11eb-924d-9cd76263cbd0,species,newtonii,Willbleibia,,"(Hack.) Herter",,1958,,"Phyton (Buenos Aires) 7: 296 1958",,,,,,426741-1,wfo-0000907542,4143997,,
+6b56c330-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Willbleibia,,"(Hack.) Herter",,1958,,"Phyton (Buenos Aires) 7: 296 1958",,,,6b57e530-8fcd-11eb-924d-9cd76263cbd0,,426742-1,wfo-0000907543,4143986,,
+6b56e824-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Willbleibia,,"(Parodi) Herter",,1953,,"Revista Sudamer. Bot. 9: 85 1953",,,,,,268619-2,wfo-0000907544,4143974,,
+6b570c5a-8fcd-11eb-924d-9cd76263cbd0,species,texana,Willbleibia,,"(Hitchc.) Herter",,1953,,"Revista Sudamer. Bot. 10: 132 1953",,,,,,426744-1,wfo-0000907545,4143968,,

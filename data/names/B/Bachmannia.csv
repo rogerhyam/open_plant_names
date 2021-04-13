@@ -1,5 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e001a2b4-8fd1-11eb-924d-9cd76263cbd0,genus,Bachmannia,,,Pax,1897,"Nat. Pflanzenfam. Nachtr. II-IV 177. 1897.",,,,,5903-1,wfo-4000003850,3232288,
-ac419fb0-8fcc-11eb-924d-9cd76263cbd0,species,major,Bachmannia,,Pax,1897,"Nat. Pflanzenfam. Nachtr. 1: 178 1897",,,,,146074-1,wfo-0000558194,5601684,
-ac41da52-8fcc-11eb-924d-9cd76263cbd0,species,minor,Bachmannia,,Pax,1897,"Nat. Pflanzenfam. Nachtr. 1: 178 1897",,,,,146075-1,wfo-0000558196,5601683,
-ac41f456-8fcc-11eb-924d-9cd76263cbd0,species,woodii,Bachmannia,,"(Oliv.) Gilg",1904,"Bot. Jahrb. Syst. 33: 204 1904",,,,,,wfo-0000558197,5601680,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e001a2b4-8fd1-11eb-924d-9cd76263cbd0,genus,Bachmannia,,,Pax,,1897,,"Nat. Pflanzenfam. Nachtr. II-IV 177. 1897.",,,,e001a2b4-8fd1-11eb-924d-9cd76263cbd0,,5903-1,wfo-4000003850,3232288,474," "
+ac419fb0-8fcc-11eb-924d-9cd76263cbd0,species,major,Bachmannia,,Pax,,1897,,"Nat. Pflanzenfam. Nachtr. 1: 178 1897",,,,,,146074-1,wfo-0000558194,5601684,,
+4d15e3a6-9bad-11eb-a8a2-19ed5c03f8d3,species,maurula,Bachmannia,,"(Müll. Arg.) Zschacke",,1934,,"Rabenh. Krypt.-Fl. (Leipzig), Edn 2 (1934)",,,,93bea018-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410277," "
+ac41da52-8fcc-11eb-924d-9cd76263cbd0,species,minor,Bachmannia,,Pax,,1897,,"Nat. Pflanzenfam. Nachtr. 1: 178 1897",,,,,,146075-1,wfo-0000558196,5601683,,
+ac41f456-8fcc-11eb-924d-9cd76263cbd0,species,woodii,Bachmannia,,"(Oliv.) Gilg",,1904,,"Bot. Jahrb. Syst. 33: 204 1904",,,,,,,wfo-0000558197,5601680,,

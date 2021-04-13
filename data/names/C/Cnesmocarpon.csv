@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d97530-8fd1-11eb-924d-9cd76263cbd0,genus,Cnesmocarpon,,,Adema,1993,"Blumea 38(1): 195. 1993.",,,,,974233-1,wfo-4000008689,7264993,
-ce2edeb2-8fcc-11eb-924d-9cd76263cbd0,species,dasyantha,Cnesmocarpon,,"(Radlk.) Adema",1993,"Blumea 38: 197 1993",,,,07a91d10-8fcd-11eb-924d-9cd76263cbd0,974234-1,wfo-0000612648,3786718,
-ce2f061c-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Cnesmocarpon,,Adema,1993,"Blumea 38: 197 1993",,,,,974235-1,wfo-0000612649,3786711,
-ce2f2f5c-8fcc-11eb-924d-9cd76263cbd0,species,discoloroides,Cnesmocarpon,,Adema,1993,"Blumea 38: 199 1993",,,,,974236-1,wfo-0000612650,3786705,
-ce2f51da-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cnesmocarpon,,Adema,1993,"Blumea 38: 199 1993",,,,,974237-1,wfo-0000612651,3786697,
-ce2f711a-8fcc-11eb-924d-9cd76263cbd0,species,excelsus,Cnesmocarpus,,"Zipp. ex Blume",1847,"Rumphia 3: 115 1847",,,,,782308-1,wfo-0000612652,3786684,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d97530-8fd1-11eb-924d-9cd76263cbd0,genus,Cnesmocarpon,,,Adema,,1993,,"Blumea 38(1): 195. 1993.",,Q96032691,,,,974233-1,wfo-4000008689,7264993,,
+ce2edeb2-8fcc-11eb-924d-9cd76263cbd0,species,dasyantha,Cnesmocarpon,,"(Radlk.) Adema",,1993,,"Blumea 38: 197 1993",,Q96032691,,07a91d10-8fcd-11eb-924d-9cd76263cbd0,,974234-1,wfo-0000612648,3786718,,
+ce2f061c-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Cnesmocarpon,,Adema,,1993,,"Blumea 38: 197 1993",,Q96032691,,,,974235-1,wfo-0000612649,3786711,,
+ce2f2f5c-8fcc-11eb-924d-9cd76263cbd0,species,discoloroides,Cnesmocarpon,,Adema,,1993,,"Blumea 38: 199 1993",,Q96032691,,,,974236-1,wfo-0000612650,3786705,,
+ce2f51da-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cnesmocarpon,,Adema,,1993,,"Blumea 38: 199 1993",,Q96032691,,,,974237-1,wfo-0000612651,3786697,,
+ce2f711a-8fcc-11eb-924d-9cd76263cbd0,species,excelsus,Cnesmocarpus,,"Zipp. ex Blume",,1847,,"Rumphia 3: 115 1847",,,,,,782308-1,wfo-0000612652,3786684,,

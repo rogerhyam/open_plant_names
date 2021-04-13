@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df34adfe-8fd1-11eb-924d-9cd76263cbd0,genus,Amianthium,,,A.Gray,1837,"Ann. Lyceum Nat. Hist. New York 4: 121. 1837.",,,,,331134-2,wfo-4000001596,2741537,
-2018d714-8fcd-11eb-924d-9cd76263cbd0,species,angustifolium,Amianthium,,"(Michx.) A.Gray",1837,"Ann. Lyceum Nat. Hist. New York 4: 124 1837",,,,,1007021-2,wfo-0000759916,2741740,
-2018f2ee-8fcd-11eb-924d-9cd76263cbd0,species,aspericaule,Amianthium,,"(Poir.) A.Gray",1837,"Ann. Lyceum Nat. Hist. New York 4: 126 1837",,,,fe585dc0-8fcc-11eb-924d-9cd76263cbd0,530071-1,wfo-0000759917,2864303,
-2019108a-8fcd-11eb-924d-9cd76263cbd0,species,leimanthoides,Amianthium,,A.Gray,1837,"Ann. Lyceum Nat. Hist. New York 4: 125 1837",,,,,11314-2,wfo-0000759918,2741737,
-20192ca0-8fcd-11eb-924d-9cd76263cbd0,species,macrotox,Amianthium,,Raf.,1838,"Fl. Tellur. 4: 27 1838",,,,,530073-1,wfo-0000759919,2741552,
-2019488e-8fcd-11eb-924d-9cd76263cbd0,species,muscitoxicum,Amianthium,,"(Walter) A.Gray",1837,"Ann. Lyceum Nat. Hist. New York 4: 122 1837",,,,fde2bf48-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000759920,2741538,
-201964cc-8fcd-11eb-924d-9cd76263cbd0,species,nuttallii,Amianthium,,A.Gray,1837,"Ann. Lyceum Nat. Hist. New York 4: 123 1837",,,,,530075-1,wfo-0000759921,2741772,
-2019820e-8fcd-11eb-924d-9cd76263cbd0,species,texanum,Amianthium,,"(Bush) R.R.Gates",1918,"J. Linn. Soc., Bot. 44: 148 1918",,,,,11316-2,wfo-0000759922,2741745,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df34adfe-8fd1-11eb-924d-9cd76263cbd0,genus,Amianthium,,,A.Gray,,1837,,"Ann. Lyceum Nat. Hist. New York 4: 121. 1837.",,,,,,331134-2,wfo-4000001596,2741537,,
+2018d714-8fcd-11eb-924d-9cd76263cbd0,species,angustifolium,Amianthium,,"(Michx.) A.Gray",,1837,,"Ann. Lyceum Nat. Hist. New York 4: 124 1837",,,,,,1007021-2,wfo-0000759916,2741740,,
+2018f2ee-8fcd-11eb-924d-9cd76263cbd0,species,aspericaule,Amianthium,,"(Poir.) A.Gray",,1837,,"Ann. Lyceum Nat. Hist. New York 4: 126 1837",,,,fe585dc0-8fcc-11eb-924d-9cd76263cbd0,,530071-1,wfo-0000759917,2864303,,
+2019108a-8fcd-11eb-924d-9cd76263cbd0,species,leimanthoides,Amianthium,,A.Gray,,1837,,"Ann. Lyceum Nat. Hist. New York 4: 125 1837",,,,,,11314-2,wfo-0000759918,2741737,,
+20192ca0-8fcd-11eb-924d-9cd76263cbd0,species,macrotox,Amianthium,,Raf.,,1838,,"Fl. Tellur. 4: 27 1838",,,,,,530073-1,wfo-0000759919,2741552,,
+2019488e-8fcd-11eb-924d-9cd76263cbd0,species,muscitoxicum,Amianthium,,"(Walter) A.Gray",,1837,,"Ann. Lyceum Nat. Hist. New York 4: 122 1837",,,,fde2bf48-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000759920,2741538,,
+201964cc-8fcd-11eb-924d-9cd76263cbd0,species,nuttallii,Amianthium,,A.Gray,,1837,,"Ann. Lyceum Nat. Hist. New York 4: 123 1837",,,,,,530075-1,wfo-0000759921,2741772,,
+2019820e-8fcd-11eb-924d-9cd76263cbd0,species,texanum,Amianthium,,"(Bush) R.R.Gates",,1918,,"J. Linn. Soc., Bot. 44: 148 1918",,Q55760513,,,,11316-2,wfo-0000759922,2741745,,

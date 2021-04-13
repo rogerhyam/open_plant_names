@@ -1,9 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e83ccb20-8fd1-11eb-924d-9cd76263cbd0,genus,Pernettyopsis,,,"King & Gamble",1906,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74(2): 79. 1906. (4 Jan 1906)",,,,,,wfo-4000028816,7327562,
-444bc5e8-8fcc-11eb-924d-9cd76263cbd0,species,breviflora,Pernettyopsis,,Ridl.,1923,"Fl. Malay Penins. 2: 222 1923",,,,,331525-1,wfo-0000396016,4164627,
-444a96d2-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Pernettyopsis,,"King & Gamble",1905,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 79 1905",,,,,,wfo-0000396008,4164623,
-444a70ee-8fcc-11eb-924d-9cd76263cbd0,species,megabracteata,Pernettyopsis,,Argent,1982,"Bot. J. Linn. Soc. 85: 10 1982",,,,,900537-1,wfo-0000396007,4164616,
-444a3340-8fcc-11eb-924d-9cd76263cbd0,species,subglabra,Pernettyopsis,,"King & Gamble",1905,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 80 1905",,,,,,wfo-0000396006,4164607,
-4381c342-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Peroa,,Pers.,1805,"Syn. Pl. 1: 174 1805",,,,,325583-1,wfo-0000395079,4010677,
-5cc7f992-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Perobachne,,J.Presl,1830,"Reliq. Haenk. 1: 348 1830",,,,,415483-1,wfo-0000889491,4144621,
-437d9e66-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Perojoa,,Cav.,1797,"Icon. 4: 29 1797",,,,,325584-1,wfo-0000395064,4010643,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e83ccb20-8fd1-11eb-924d-9cd76263cbd0,genus,Pernettyopsis,,,"King & Gamble",,1906,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74(2): 79. 1906. (4 Jan 1906)",,,,,,,wfo-4000028816,7327562,,
+444bc5e8-8fcc-11eb-924d-9cd76263cbd0,species,breviflora,Pernettyopsis,,Ridl.,,1923,,"Fl. Malay Penins. 2: 222 1923",,,,,,331525-1,wfo-0000396016,4164627,,
+444a96d2-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Pernettyopsis,,"King & Gamble",,1905,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 79 1905",,,,,,,wfo-0000396008,4164623,,
+444a70ee-8fcc-11eb-924d-9cd76263cbd0,species,megabracteata,Pernettyopsis,,Argent,,1982,,"Bot. J. Linn. Soc. 85: 10 1982",,Q43295833,,,,900537-1,wfo-0000396007,4164616,,
+444a3340-8fcc-11eb-924d-9cd76263cbd0,species,subglabra,Pernettyopsis,,"King & Gamble",,1905,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 80 1905",,,,,,,wfo-0000396006,4164607,,

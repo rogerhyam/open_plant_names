@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e818782e-8fd1-11eb-924d-9cd76263cbd0,genus,Pegia,,,Colebr.,,"Trans. Linn. Soc. London 15: 364.",,,,,1876-1,wfo-4000028440,7321898,
-b39bc244-8fcd-11eb-924d-9cd76263cbd0,species,bijuga,Pegia,,Hand.-Mazz.,1933,"Sinensia 3(8): 186–187 1933",,,,,70213-1,wfo-0001051928,3662441,
-b3372f14-8fcd-11eb-924d-9cd76263cbd0,species,colebrookiana,Pegia,,Wight,1840,"Ill. Ind. Bot. 185 1840",,,,,,wfo-0001051052,3662434,
-b39b6ea2-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Pegia,,Colebr.,1827,"Trans. Linn. Soc. London 15(2): 364–365 1827",,,,,70215-1,wfo-0001051925,3662426,
-d420851e-8fd1-11eb-924d-9cd76263cbd0,species,philippinensis,Pegia,,Elmer,,"Leafl. Philipp. Bot. 8: 3100 1919",,,,,70216-1,wfo-0001285588,3662419,
-b39ba566-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Pegia,,"(Lecomte) Hand.-Mazz.",1933,"Sinensia 3: 187 1933",,,,,70217-1,wfo-0001051927,3662411,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e818782e-8fd1-11eb-924d-9cd76263cbd0,genus,Pegia,,,Colebr.,,,,"Trans. Linn. Soc. London 15: 364.",,Q55758793,,,,1876-1,wfo-4000028440,7321898,,
+b39bc244-8fcd-11eb-924d-9cd76263cbd0,species,bijuga,Pegia,,Hand.-Mazz.,,1933,,"Sinensia 3(8): 186–187 1933",,,,,,70213-1,wfo-0001051928,3662441,,
+b3372f14-8fcd-11eb-924d-9cd76263cbd0,species,colebrookiana,Pegia,,Wight,,1840,,"Ill. Ind. Bot. 185 1840",,,,,,,wfo-0001051052,3662434,,
+b39b6ea2-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Pegia,,Colebr.,,1827,,"Trans. Linn. Soc. London 15(2): 364–365 1827",,Q55758793,,,,70215-1,wfo-0001051925,3662426,,
+d420851e-8fd1-11eb-924d-9cd76263cbd0,species,philippinensis,Pegia,,Elmer,,,,"Leafl. Philipp. Bot. 8: 3100 1919",,,,,,70216-1,wfo-0001285588,3662419,,
+b39ba566-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Pegia,,"(Lecomte) Hand.-Mazz.",,1933,,"Sinensia 3: 187 1933",,,,,,70217-1,wfo-0001051927,3662411,,

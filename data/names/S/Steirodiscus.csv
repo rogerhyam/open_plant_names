@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaba9d8c-8fd1-11eb-924d-9cd76263cbd0,genus,Steirodiscus,,,Less.,,,,,,,11122-1,wfo-4000036382,3146569,
-090d5f72-8fb9-11eb-924d-9cd76263cbd0,species,capillaceus,Steirodiscus,,"(Thunb.) Less.",1832,"Syn. Gen. Compos. 251 (1832)",,,,9aab7c12-8fcc-11eb-924d-9cd76263cbd0,251017-1,wfo-0000114820,3146570,
-44c94d70-8fb2-11eb-924d-9cd76263cbd0,species,gamolepis,Steirodiscus,,"Bolus ex Schltr.",,"Bot. Jahrb. Syst. xxvii. 216.",,,,,,wfo-0000018287,3146580,
-820a3b12-8fb3-11eb-924d-9cd76263cbd0,species,linearilobus,Steirodiscus,,DC.,1838,"Prodr. (DC.) 6: 74 1838",,,,,251019-1,wfo-0000049653,3146582,
-1a74860e-8fb5-11eb-924d-9cd76263cbd0,species,schlechteri,Steirodiscus,,"Bolus ex Schltr.",,217,,,,,,wfo-0000073930,7596869,
-956ae5d8-8fb5-11eb-924d-9cd76263cbd0,species,schlechteri,Steirodiscus,,Bolus,,"Bot. Jahrb. Syst. xxvii. 217.",,,,,,wfo-0000079784,3146578,
-cad73432-8fbb-11eb-924d-9cd76263cbd0,species,speciosus,Steirodiscus,,"(Pillans) B.Nord.",1969,"in Bot. Notiser cxxii. 406 (1969), in obs.",,,,,,wfo-0000136676,3146583,
-587d04d6-8fb4-11eb-924d-9cd76263cbd0,species,tagetes,Steirodiscus,,"(L.) Schltr.",1899,"Bot. Jahrb. Syst. 27(Heft 1&2):216 1899",,,,56f3e878-8fb9-11eb-924d-9cd76263cbd0,,wfo-0000063658,3146573,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaba9d8c-8fd1-11eb-924d-9cd76263cbd0,genus,Steirodiscus,,,Less.,,,,,,,,,,11122-1,wfo-4000036382,3146569,,
+090d5f72-8fb9-11eb-924d-9cd76263cbd0,species,capillaceus,Steirodiscus,,"(Thunb.) Less.",,1832,,"Syn. Gen. Compos. 251 (1832)",,,,9aab7c12-8fcc-11eb-924d-9cd76263cbd0,,251017-1,wfo-0000114820,3146570,,
+44c94d70-8fb2-11eb-924d-9cd76263cbd0,species,gamolepis,Steirodiscus,,"Bolus ex Schltr.",,,,"Bot. Jahrb. Syst. xxvii. 216.",,,,,,,wfo-0000018287,3146580,,
+820a3b12-8fb3-11eb-924d-9cd76263cbd0,species,linearilobus,Steirodiscus,,DC.,,1838,,"Prodr. (DC.) 6: 74 1838",,,,,,251019-1,wfo-0000049653,3146582,,
+956ae5d8-8fb5-11eb-924d-9cd76263cbd0,species,schlechteri,Steirodiscus,,Bolus,,,,"Bot. Jahrb. Syst. xxvii. 217.",,,,,,,wfo-0000079784,3146578,,
+1a74860e-8fb5-11eb-924d-9cd76263cbd0,species,schlechteri,Steirodiscus,,"Bolus ex Schltr.",,,,217,,,,,,,wfo-0000073930,7596869,,
+cad73432-8fbb-11eb-924d-9cd76263cbd0,species,speciosus,Steirodiscus,,"(Pillans) B.Nord.",,1969,,"in Bot. Notiser cxxii. 406 (1969), in obs.",,,,,,,wfo-0000136676,3146583,,
+587d04d6-8fb4-11eb-924d-9cd76263cbd0,species,tagetes,Steirodiscus,,"(L.) Schltr.",,1899,,"Bot. Jahrb. Syst. 27(Heft 1&2):216 1899",,,,56f3e878-8fb9-11eb-924d-9cd76263cbd0,,,wfo-0000063658,3146573,,

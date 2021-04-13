@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e983d244-8fd1-11eb-924d-9cd76263cbd0,genus,Readea,,,Gillespie,1930,"Bernice P. Bishop Mus. Bull. 74: 35. 1930.",,,,,,wfo-4000032638,2919588,
-034bd29a-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Readea,,Gillespie,1930,"Bernice P. Bishop Mus. Bull. 74: 35 1930",,,,,764487-1,wfo-0000295246,2919589,
-034beeec-8fcc-11eb-924d-9cd76263cbd0,species,prismoclavata,Readea,,Fosberg,1942,"Sargentia 1: 137 1942",,,,,764488-1,wfo-0000295247,2923347,
-034c0954-8fcc-11eb-924d-9cd76263cbd0,species,roseata,Readea,,Fosberg,1942,"Sargentia 1: 136 1942",,,,,764489-1,wfo-0000295248,2923226,
-6008890a-8fcd-11eb-924d-9cd76263cbd0,species,giovanninii,Reana,,Brign.,1849,"Ann. Sci. Nat., Bot. III, 12: 365 1849",,,,,419269-1,wfo-0000895678,5945553,
-6008a5d4-8fcd-11eb-924d-9cd76263cbd0,species,luxurians,Reana,,Durieu,1872,"Bull. Soc. Acclim. France II, 9: 581 1872",,,,,218028-2,wfo-0000895679,4144484,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e983d244-8fd1-11eb-924d-9cd76263cbd0,genus,Readea,,,Gillespie,,1930,,"Bernice P. Bishop Mus. Bull. 74: 35. 1930.",,,,,,,wfo-4000032638,2919588,,
+034bd29a-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Readea,,Gillespie,,1930,,"Bernice P. Bishop Mus. Bull. 74: 35 1930",,,,,,764487-1,wfo-0000295246,2919589,,
+034beeec-8fcc-11eb-924d-9cd76263cbd0,species,prismoclavata,Readea,,Fosberg,,1942,,"Sargentia 1: 137 1942",,,,,,764488-1,wfo-0000295247,2923347,,
+034c0954-8fcc-11eb-924d-9cd76263cbd0,species,roseata,Readea,,Fosberg,,1942,,"Sargentia 1: 136 1942",,,,,,764489-1,wfo-0000295248,2923226,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e776b840-8fd1-11eb-924d-9cd76263cbd0,genus,Oddoniodendron,,,"De Wild.",,,,,,,23058-1,wfo-4000026559,2959958,
-3ab99fd2-8fcc-11eb-924d-9cd76263cbd0,species,gambanum,Oddoniodendron,,"Ngok & Breteler",2004,"Adansonia III, 26: 243 2004",,,,,,wfo-0000383156,3972335,
-1935e8ee-8fc1-11eb-924d-9cd76263cbd0,species,gilletii,Oddoniodendron,,"De Wild.",,,,,,,,wfo-0000169979,2959960,
-18c43316-8fc1-11eb-924d-9cd76263cbd0,species,micranthum,Oddoniodendron,,"(Harms) Baker f.",,,,,,2468f62e-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000169969,2959959,
-b6a9c080-8fcd-11eb-924d-9cd76263cbd0,species,normandii,Oddoniodendron,,Aubrév.,1968,"Fl. Gabon 15: 263 1968",,,,,509798-1,wfo-0001058811,2959962,
-3aba8992-8fcc-11eb-924d-9cd76263cbd0,species,reitsmarum,Oddoniodendron,,"Ngok & Breteler",2004,"Adansonia III, 26: 248 2004",,,,,,wfo-0000383162,3972319,
-1a321f24-8fc1-11eb-924d-9cd76263cbd0,species,romeroi,Oddoniodendron,,Mendes,,,,,,,,wfo-0000170002,2959961,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e776b840-8fd1-11eb-924d-9cd76263cbd0,genus,Oddoniodendron,,,"De Wild.",,,,,,,,,,23058-1,wfo-4000026559,2959958,,
+3ab99fd2-8fcc-11eb-924d-9cd76263cbd0,species,gambanum,Oddoniodendron,,"Ngok & Breteler",,2004,,"Adansonia III, 26: 243 2004",,,,,,,wfo-0000383156,3972335,,
+1935e8ee-8fc1-11eb-924d-9cd76263cbd0,species,gilletii,Oddoniodendron,,"De Wild.",,,,,,,,,,,wfo-0000169979,2959960,,
+18c43316-8fc1-11eb-924d-9cd76263cbd0,species,micranthum,Oddoniodendron,,"(Harms) Baker f.",,,,,,,,2468f62e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000169969,2959959,,
+b6a9c080-8fcd-11eb-924d-9cd76263cbd0,species,normandii,Oddoniodendron,,Aubrév.,,1968,,"Fl. Gabon 15: 263 1968",,,,,,509798-1,wfo-0001058811,2959962,,
+3aba8992-8fcc-11eb-924d-9cd76263cbd0,species,reitsmarum,Oddoniodendron,,"Ngok & Breteler",,2004,,"Adansonia III, 26: 248 2004",,,,,,,wfo-0000383162,3972319,,
+1a321f24-8fc1-11eb-924d-9cd76263cbd0,species,romeroi,Oddoniodendron,,Mendes,,,,,,,,,,,wfo-0000170002,2959961,,

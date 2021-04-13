@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4eb0306-8fd1-11eb-924d-9cd76263cbd0,genus,Hyalocystis,,,"Hallier f.",1898,"Annuario Reale Ist. Bot. Roma 7: 227. 1898.",,,,,11896-1,wfo-4000018475,7324271,
-de362148-8fbe-11eb-924d-9cd76263cbd0,species,popovii,Hyalocystis,,Verdc.,1957,"Kew Bull. 1957, 347 (1957).",,,,,268328-1,wfo-0000156542,3679791,
-dbebc2a4-8fd1-11eb-924d-9cd76263cbd0,species,viscosa,Hyalocystis,,"Hallier f.",1898,"Annuario Reale Ist. Bot. Roma 7: 228 1898",,,,,268329-1,wfo-0001298785,3679784,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4eb0306-8fd1-11eb-924d-9cd76263cbd0,genus,Hyalocystis,,,"Hallier f.",,1898,,"Annuario Reale Ist. Bot. Roma 7: 227. 1898.",,,,,,11896-1,wfo-4000018475,7324271,,
+de362148-8fbe-11eb-924d-9cd76263cbd0,species,popovii,Hyalocystis,,Verdc.,,1957,,"Kew Bull. 1957, 347 (1957).",,Q55783382,,,,268328-1,wfo-0000156542,3679791,,
+dbebc2a4-8fd1-11eb-924d-9cd76263cbd0,species,viscosa,Hyalocystis,,"Hallier f.",,1898,,"Annuario Reale Ist. Bot. Roma 7: 228 1898",,,,,,268329-1,wfo-0001298785,3679784,,

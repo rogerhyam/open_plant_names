@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb333e90-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraedrocarpus,,,O.Schwartz,1939,"Mitt. Inst. Allg. Bot. Hamburg 10: 212. 1939.",,,,,,wfo-4000037894,7295434,
-b7fe1932-8fd1-11eb-924d-9cd76263cbd0,species,arabicus,Tetraedrocarpus,,O.Schwartz,1939,"Mitt. Allg. Bot. Hamburg 10: 212 1939",,,,,,wfo-0001239235,4066821,
-500a3ba8-8fcc-11eb-924d-9cd76263cbd0,species,arahicus,Tetraedrocarpus,,O.Schwartz,1939,"Mitt. Inst. Allg. Bot. Hamburg 10: 213 1939",,,,,120854-1,wfo-0000410709,7780675,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb333e90-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraedrocarpus,,,O.Schwartz,,1939,,"Mitt. Inst. Allg. Bot. Hamburg 10: 212. 1939.",,,,,,,wfo-4000037894,7295434,,
+b7fe1932-8fd1-11eb-924d-9cd76263cbd0,species,arabicus,Tetraedrocarpus,,O.Schwartz,,1939,,"Mitt. Allg. Bot. Hamburg 10: 212 1939",,,,,,,wfo-0001239235,4066821,,
+500a3ba8-8fcc-11eb-924d-9cd76263cbd0,species,arahicus,Tetraedrocarpus,,O.Schwartz,,1939,,"Mitt. Inst. Allg. Bot. Hamburg 10: 213 1939",,,,,,120854-1,wfo-0000410709,7780675,,

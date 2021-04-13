@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2b0cf80-8fd1-11eb-924d-9cd76263cbd0,genus,Dichorexia,,,,,,,,,,,wfo-4000011434,,
-4a839b12-8fbc-11eb-924d-9cd76263cbd0,species,gigantea,Dichorexia,,C.Presl,1848,"Abh. Boehm. Ges. Wiss. V. 5. 344. 1848 1848",,,,,17082430-1,wfo-0000140187,3600122,
-ac3fcde2-8fcd-11eb-924d-9cd76263cbd0,species,latebrosa,Dichorexia,,"(Wall. ex Hook.) C.Presl",,,,,,c0c713d4-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001035215,3600115,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2b0cf80-8fd1-11eb-924d-9cd76263cbd0,genus,Dichorexia,,,,,,,,,,,,,,wfo-4000011434,,,
+4a839b12-8fbc-11eb-924d-9cd76263cbd0,species,gigantea,Dichorexia,,C.Presl,,1848,,"Abh. Boehm. Ges. Wiss. V. 5. 344. 1848 1848",,,,,,17082430-1,wfo-0000140187,3600122,,
+ac3fcde2-8fcd-11eb-924d-9cd76263cbd0,species,latebrosa,Dichorexia,,"(Wall. ex Hook.) C.Presl",,,,,,,,c0c713d4-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001035215,3600115,,

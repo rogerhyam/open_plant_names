@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaf74b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Sunapteopsis,,,F.Heim,1892,"Rech. Dipterocarp. 92. 1892.",,,,,,wfo-4000037084,7299051,
-88c6616a-8fcc-11eb-924d-9cd76263cbd0,species,jucunda,Sunapteopsis,,F.Heim,1892,"Rech. Dipterocarp. 92 1892",,,,,321527-1,wfo-0000499447,4096759,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaf74b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Sunapteopsis,,,F.Heim,,1892,,"Rech. Dipterocarp. 92. 1892.",,,,,,,wfo-4000037084,7299051,,
+88c6616a-8fcc-11eb-924d-9cd76263cbd0,species,jucunda,Sunapteopsis,,F.Heim,,1892,,"Rech. Dipterocarp. 92 1892",,,,,,321527-1,wfo-0000499447,4096759,,

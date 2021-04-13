@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9b57f7e-8fd1-11eb-924d-9cd76263cbd0,genus,Richteria,,,"Kar. & Kir.",,,,,,,10860-1,wfo-4000033243,7762837,
-039977b2-8fb2-11eb-924d-9cd76263cbd0,species,djilgense,Richteria,,"(Franch.) K.Bremer & Humphries",1993,"98 1993",,,,1dfeb130-8fbc-11eb-924d-9cd76263cbd0,975075-1,wfo-0000004725,5389431,
-45181da6-8fb2-11eb-924d-9cd76263cbd0,species,leontopodium,Richteria,,Winkl.,1886,"Act. Hort. Petrop. ix. (1886) 421.",,,,,,wfo-0000018337,5389434,
-d5469a12-8fb5-11eb-924d-9cd76263cbd0,species,pyrethroides,Richteria,,"Kar. & Kir.",1842,"127 1842",,,,,241477-1,wfo-0000082680,5389430,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9b57f7e-8fd1-11eb-924d-9cd76263cbd0,genus,Richteria,,,"Kar. & Kir.",,,,,,,,,,10860-1,wfo-4000033243,7762837,,
+039977b2-8fb2-11eb-924d-9cd76263cbd0,species,djilgense,Richteria,,"(Franch.) K.Bremer & Humphries",,1993,,"98 1993",,,,1dfeb130-8fbc-11eb-924d-9cd76263cbd0,,975075-1,wfo-0000004725,5389431,,
+45181da6-8fb2-11eb-924d-9cd76263cbd0,species,leontopodium,Richteria,,Winkl.,,1886,,"Act. Hort. Petrop. ix. (1886) 421.",,,,,,,wfo-0000018337,5389434,,
+d5469a12-8fb5-11eb-924d-9cd76263cbd0,species,pyrethroides,Richteria,,"Kar. & Kir.",,1842,,"127 1842",,,,,,241477-1,wfo-0000082680,5389430,,

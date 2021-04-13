@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e77bb5e8-8fd1-11eb-924d-9cd76263cbd0,genus,Odyendyea,,,Pierre,,"Bull. Mens. Soc. Linn. Paris 1237. 1896.",,,,,,wfo-4000026627,7329604,
-db9a1624-8fcd-11eb-924d-9cd76263cbd0,species,gabonensis,Odyendyea,,"(Pierre) Engl.",1896,"Nat. Pflanzenfam. 3(4): 215 1896",,,,,,wfo-0001140411,7682542,
-db9a49c8-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Odyendyea,,"(Pierre) Engl.",1896,"Nat. Pflanzenfam. 3(4): 215 1896",,,,,,wfo-0001140413,7609834,
-3e305d2c-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Odyendyea,,Sprague,1906,"J. Linn. Soc., Bot. 37: 505 1906",,,,,813857-1,wfo-0000387948,3708929,
-ac600aee-8fcd-11eb-924d-9cd76263cbd0,species,zimmermannii,Odyendyea,,Engl.,1911,"Bot. Jahrb. Syst. 46(280): , fig. 2 1911",,,,,,wfo-0001035460,7696718,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e77bb5e8-8fd1-11eb-924d-9cd76263cbd0,genus,Odyendyea,,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 1237. 1896.",,,,,,,wfo-4000026627,7329604,,
+db9a1624-8fcd-11eb-924d-9cd76263cbd0,species,gabonensis,Odyendyea,,"(Pierre) Engl.",,1896,,"Nat. Pflanzenfam. 3(4): 215 1896",,,,,,,wfo-0001140411,7682542,,
+db9a49c8-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Odyendyea,,"(Pierre) Engl.",,1896,,"Nat. Pflanzenfam. 3(4): 215 1896",,,,,,,wfo-0001140413,7609834,,
+3e305d2c-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Odyendyea,,Sprague,,1906,,"J. Linn. Soc., Bot. 37: 505 1906",,Q55760451,,,,813857-1,wfo-0000387948,3708929,,
+ac600aee-8fcd-11eb-924d-9cd76263cbd0,species,zimmermannii,Odyendyea,,Engl.,,1911,,"Bot. Jahrb. Syst. 46(280): , fig. 2 1911",,,,,,,wfo-0001035460,7696718,,

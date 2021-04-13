@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9d202f2-8fd1-11eb-924d-9cd76263cbd0,genus,Rumicicarpus,,,Chiov.,1929,"Fl. Somala 1: 105. 1929.",,,,,,wfo-4000033620,7311156,
-74388d9a-8fcc-11eb-924d-9cd76263cbd0,species,ramosissimus,Rumicicarpus,,Chiov.,1929,"Fl. Somala 1: 106 1929",,,,,835075-1,wfo-0000464428,4260960,
-253f07d6-8fcd-11eb-924d-9cd76263cbd0,species,hyemalis,Ruminia,,Parl.,1858,"Due Nuov. Gen. Monocot. 4 1858",,,,,,wfo-0000770068,2859326,
-13694706-8fcd-11eb-924d-9cd76263cbd0,species,nicaeensis,Ruminia,,"(Ardoino) Jord. & Fourr.",1867,"Icon. Fl. Eur. 1: 26 1867",,,,,,wfo-0000733217,2859352,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9d202f2-8fd1-11eb-924d-9cd76263cbd0,genus,Rumicicarpus,,,Chiov.,,1929,,"Fl. Somala 1: 105. 1929.",,,,,,,wfo-4000033620,7311156,,
+74388d9a-8fcc-11eb-924d-9cd76263cbd0,species,ramosissimus,Rumicicarpus,,Chiov.,,1929,,"Fl. Somala 1: 106 1929",,,,,,835075-1,wfo-0000464428,4260960,,
+253f07d6-8fcd-11eb-924d-9cd76263cbd0,species,hyemalis,Ruminia,,Parl.,,1858,,"Due Nuov. Gen. Monocot. 4 1858",,,,,,,wfo-0000770068,2859326,,
+13694706-8fcd-11eb-924d-9cd76263cbd0,species,nicaeensis,Ruminia,,"(Ardoino) Jord. & Fourr.",,1867,,"Icon. Fl. Eur. 1: 26 1867",,,,,,,wfo-0000733217,2859352,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e953b302-8fd1-11eb-924d-9cd76263cbd0,genus,Ptilonella,,,,,,,,,,,wfo-4000032087,7336382,
-fdac748e-8fb2-11eb-924d-9cd76263cbd0,species,laevis,Ptilonella,,"(A.Gray) Greene",1897,"Fl. Francisc. 433 1897",,,,,214288-2,wfo-0000039142,4213828,
-fa02c1da-8fb2-11eb-924d-9cd76263cbd0,species,scabra,Ptilonella,,"(Hook.) Nutt.",1841,"Trans. Amer. Philos. Soc. ser. 2, 7: 386 1841",,,,085e1d3e-8fb2-11eb-924d-9cd76263cbd0,,wfo-0000038806,7336383,
-00cb51cc-8fb2-11eb-924d-9cd76263cbd0,species,major,Ptilophora,,A.Gray,1849,"113 1849",,,,,,wfo-0000003411,6063692,
-50b3b58e-8fb8-11eb-924d-9cd76263cbd0,variety,laciniata,Ptilophora,major,A.Gray,1849,"Mem. Amer. Acad. Arts n. s. 4: 113. 1849",,,,,,wfo-0000108256,5693490,
-affbe35a-8fb2-11eb-924d-9cd76263cbd0,species,nutans,Ptilophora,,"(Hook.) A.Gray",1849,"Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.). 113",,,,,,wfo-0000031843,5693488,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e953b302-8fd1-11eb-924d-9cd76263cbd0,genus,Ptilonella,,,,,,,,,,,,,,wfo-4000032087,7336382,,
+fdac748e-8fb2-11eb-924d-9cd76263cbd0,species,laevis,Ptilonella,,"(A.Gray) Greene",,1897,,"Fl. Francisc. 433 1897",,,,,,214288-2,wfo-0000039142,4213828,,
+fa02c1da-8fb2-11eb-924d-9cd76263cbd0,species,scabra,Ptilonella,,"(Hook.) Nutt.",,1841,,"Trans. Amer. Philos. Soc. ser. 2, 7: 386 1841",,,,085e1d3e-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000038806,7336383,,
+00cb51cc-8fb2-11eb-924d-9cd76263cbd0,species,major,Ptilophora,,A.Gray,,1849,,"113 1849",,,,,,,wfo-0000003411,6063692,,
+50b3b58e-8fb8-11eb-924d-9cd76263cbd0,variety,laciniata,Ptilophora,major,A.Gray,,1849,,"Mem. Amer. Acad. Arts n. s. 4: 113. 1849",,,,,,,wfo-0000108256,5693490,,
+affbe35a-8fb2-11eb-924d-9cd76263cbd0,species,nutans,Ptilophora,,"(Hook.) A.Gray",,1849,,"Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.). 113",,,,,,,wfo-0000031843,5693488,,

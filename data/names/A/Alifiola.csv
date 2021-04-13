@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df163748-8fd1-11eb-924d-9cd76263cbd0,genus,Alifiola,,,Raf.,1840,"Autik. Bot. 24. 1840.",,,,,,wfo-4000001200,7267427,
-98851f7e-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Alifiola,,Raf.,1840,"Autik. Bot. 24 1840",,,,,,wfo-0000525833,3810832,
-98853aa4-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Alifiola,,Raf.,1840,"Autik. Bot. 24 1840",,,,,150345-1,wfo-0000525834,3810822,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df163748-8fd1-11eb-924d-9cd76263cbd0,genus,Alifiola,,,Raf.,,1840,,"Autik. Bot. 24. 1840.",,,,,,,wfo-4000001200,7267427,,
+98851f7e-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Alifiola,,Raf.,,1840,,"Autik. Bot. 24 1840",,,,,,,wfo-0000525833,3810832,,
+98853aa4-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Alifiola,,Raf.,,1840,,"Autik. Bot. 24 1840",,,,,,150345-1,wfo-0000525834,3810822,,

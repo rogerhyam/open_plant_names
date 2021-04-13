@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df1e72fa-8fd1-11eb-924d-9cd76263cbd0,genus,Allosidastrum,,,"(Hochr.) Krapov., Fryxell & Bates",1988,"Syst. Bot. Monogr. 25: 70. 1988. (13 Dec 1988)",,,,,925353-1,wfo-4000001305,3152778,
-993be614-8fcc-11eb-924d-9cd76263cbd0,species,dolichophyllum,Allosidastrum,,"Krapov., Fryxell & Bates",1988,"Bol. Soc. Bot. México 48: 25 1988 publ. 1989",,,,,271957-2,wfo-0000527110,3934093,
-993c3506-8fcc-11eb-924d-9cd76263cbd0,species,hilarianum,Allosidastrum,,"(C.Presl) Krapov., Fryxell & Bates",1988,"Syst. Bot. Monogr. 25: 71 1988",,,,,945983-1,wfo-0000527111,3934082,
-993c55ea-8fcc-11eb-924d-9cd76263cbd0,species,interruptum,Allosidastrum,,"(Balb. ex DC.) Krapov., Fryxell & Bates",1988,"Syst. Bot. Monogr. 25: 71 1988",,,,,945984-1,wfo-0000527112,3934068,
-993c75f2-8fcc-11eb-924d-9cd76263cbd0,species,pyramidatum,Allosidastrum,,"(Desp. ex Cav.) Krapov., Fryxell & Bates",1988,"Syst. Bot. Monogr. 25: 74 1988",,,,,945985-1,wfo-0000527113,3152779,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df1e72fa-8fd1-11eb-924d-9cd76263cbd0,genus,Allosidastrum,,,"(Hochr.) Krapov., Fryxell & Bates",,1988,,"Syst. Bot. Monogr. 25: 70. 1988. (13 Dec 1988)",,Q55767917,,,,925353-1,wfo-4000001305,3152778,,
+993be614-8fcc-11eb-924d-9cd76263cbd0,species,dolichophyllum,Allosidastrum,,"Krapov., Fryxell & Bates",,1988,,"Bol. Soc. Bot. México 48: 25 1988 publ. 1989",,Q95998521,,,,271957-2,wfo-0000527110,3934093,,
+993c3506-8fcc-11eb-924d-9cd76263cbd0,species,hilarianum,Allosidastrum,,"(C.Presl) Krapov., Fryxell & Bates",,1988,,"Syst. Bot. Monogr. 25: 71 1988",,Q55767917,,,,945983-1,wfo-0000527111,3934082,,
+993c55ea-8fcc-11eb-924d-9cd76263cbd0,species,interruptum,Allosidastrum,,"(Balb. ex DC.) Krapov., Fryxell & Bates",,1988,,"Syst. Bot. Monogr. 25: 71 1988",,Q55767917,,,,945984-1,wfo-0000527112,3934068,,
+993c75f2-8fcc-11eb-924d-9cd76263cbd0,species,pyramidatum,Allosidastrum,,"(Desp. ex Cav.) Krapov., Fryxell & Bates",,1988,,"Syst. Bot. Monogr. 25: 74 1988",,Q55767917,,,,945985-1,wfo-0000527113,3152779,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4810b40-8fd1-11eb-924d-9cd76263cbd0,genus,Hedythyrsus,,,Bremek.,1952,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. ser. 2. 48(2): 149. 1952.",,,,,34695-1,wfo-4000017149,2898214,
-af9a3360-8fcd-11eb-924d-9cd76263cbd0,species,katangensis,Hedythyrsus,,"Niyongambo & Dessein",,"Syst. Bot. 36(4): 1033–1036, figs. 1D, 2A–C, 3A–C, 4, 5, 6 2011",,,,,,wfo-0001042821,7936957,
-9209c202-8fcd-11eb-924d-9cd76263cbd0,species,spermacocinus,Hedythyrsus,,"(K.Schum.) Bremek.",1952,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 48(2): 151 1952",,,,,753013-1,wfo-0000981034,2898217,
-9209e4bc-8fcd-11eb-924d-9cd76263cbd0,species,thamnoideus,Hedythyrsus,,"(K.Schum.) Bremek.",1952,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 48(2): 151 1952",,,,,753014-1,wfo-0000981035,2898215,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4810b40-8fd1-11eb-924d-9cd76263cbd0,genus,Hedythyrsus,,,Bremek.,,1952,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. ser. 2. 48(2): 149. 1952.",,,,,,34695-1,wfo-4000017149,2898214,,
+af9a3360-8fcd-11eb-924d-9cd76263cbd0,species,katangensis,Hedythyrsus,,"Niyongambo & Dessein",,,,"Syst. Bot. 36(4): 1033–1036, figs. 1D, 2A–C, 3A–C, 4, 5, 6 2011",,,,,,,wfo-0001042821,7936957,,
+9209c202-8fcd-11eb-924d-9cd76263cbd0,species,spermacocinus,Hedythyrsus,,"(K.Schum.) Bremek.",,1952,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 48(2): 151 1952",,,,,,753013-1,wfo-0000981034,2898217,,
+9209e4bc-8fcd-11eb-924d-9cd76263cbd0,species,thamnoideus,Hedythyrsus,,"(K.Schum.) Bremek.",,1952,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 48(2): 151 1952",,,,,,753014-1,wfo-0000981035,2898215,,

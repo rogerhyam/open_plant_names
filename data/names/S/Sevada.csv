@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea550fee-8fd1-11eb-924d-9cd76263cbd0,genus,Sevada,,,Moq.,1849,"Prodr. 13(2): 47, 154. 1849. (5 May 1849)",,,,,6999-1,wfo-4000035217,6035716,
-64aac8ca-8fcc-11eb-924d-9cd76263cbd0,species,schimperi,Sevada,,Moq.,1849,"Prodr. 13(2): 154 1849",,,,,167373-1,wfo-0000437531,3758353,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea550fee-8fd1-11eb-924d-9cd76263cbd0,genus,Sevada,,,Moq.,,1849,,"Prodr. 13(2): 47, 154. 1849. (5 May 1849)",,,,,,6999-1,wfo-4000035217,6035716,,
+64aac8ca-8fcc-11eb-924d-9cd76263cbd0,species,schimperi,Sevada,,Moq.,,1849,,"Prodr. 13(2): 154 1849",,,,,,167373-1,wfo-0000437531,3758353,,

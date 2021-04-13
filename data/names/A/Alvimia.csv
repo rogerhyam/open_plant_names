@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df28e15e-8fd1-11eb-924d-9cd76263cbd0,genus,Alvimia,,,"C.E.Calderón ex Soderstr. & Londoño",1988,"Amer. J. Bot. 75(6): 833. 1988.",,,,,925126-1,wfo-4000001429,4106473,
-4854d5b6-8fcd-11eb-924d-9cd76263cbd0,species,auriculata,Alvimia,,"Soderstr. & Londoño",1988,"Amer. J. Bot. 75: 834 1988",,,,,316705-2,wfo-0000845760,4106500,
-4854f1f4-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Alvimia,,"Soderstr. & Londoño",1988,"Amer. J. Bot. 75: 835 1988",,,,,316706-2,wfo-0000845761,4106487,
-48550f2c-8fcd-11eb-924d-9cd76263cbd0,species,lancifolia,Alvimia,,"Soderstr. & Londoño",1988,"Amer. J. Bot. 75: 837 1988",,,,,316707-2,wfo-0000845762,4106472,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df28e15e-8fd1-11eb-924d-9cd76263cbd0,genus,Alvimia,,,"C.E.Calderón ex Soderstr. & Londoño",,1988,,"Amer. J. Bot. 75(6): 833. 1988.",,Q55766282,,,,925126-1,wfo-4000001429,4106473,,
+4854d5b6-8fcd-11eb-924d-9cd76263cbd0,species,auriculata,Alvimia,,"Soderstr. & Londoño",,1988,,"Amer. J. Bot. 75: 834 1988",,Q55766282,,,,316705-2,wfo-0000845760,4106500,,
+4854f1f4-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Alvimia,,"Soderstr. & Londoño",,1988,,"Amer. J. Bot. 75: 835 1988",,Q55766282,,,,316706-2,wfo-0000845761,4106487,,
+48550f2c-8fcd-11eb-924d-9cd76263cbd0,species,lancifolia,Alvimia,,"Soderstr. & Londoño",,1988,,"Amer. J. Bot. 75: 837 1988",,Q55766282,,,,316707-2,wfo-0000845762,4106472,,

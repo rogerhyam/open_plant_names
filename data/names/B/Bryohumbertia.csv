@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0e14b80-8fd1-11eb-924d-9cd76263cbd0,genus,Bryohumbertia,,,"P.de la Varde & Thér.",1940,"Bull. Soc. Bot. France 86: 422. 1940.",,,,,,wfo-4000005584,2675042,
-de7a1830-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Bryohumbertia,,"(Hornsch.) J.-P.Frahm",1982,"Cryptog. Bryol. Lichénol. 3: 366 1982",,,,,,wfo-0001146695,2675044,
-fa628f6e-8fcd-11eb-924d-9cd76263cbd0,variety,humilis,Bryohumbertia,filifolia,"(Mont.) J.-P.Frahm",1991,"Fl. Neotrop. 54: 35 1991",,,,ee09d628-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001204793,7995550,
-de7a3a86-8fcd-11eb-924d-9cd76263cbd0,species,flavicoma,Bryohumbertia,,"(Müll.Hal. ex Broth.) J.-P.Frahm",1982,"Cryptog. Bryol. Lichénol. 3: 366 1982",,,,edff3f56-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146696,2675043,
-e2d2240e-8fcd-11eb-924d-9cd76263cbd0,species,metzlerelloides,Bryohumbertia,,"P.de la Varde & Thér.",1939,"Bull. Soc. Bot. France 86: 422. f. 1 1939",,,,,,wfo-0001155930,7985742,
-f610b18e-8fcd-11eb-924d-9cd76263cbd0,species,subcomosa,Bryohumbertia,,"(Dixon) J.-P.Frahm",1989,"Trop. Bryol. 1: 9 1989",,,,,,wfo-0001195916,2675045,
-f58cff10-8fcd-11eb-924d-9cd76263cbd0,species,walkeri,Bryohumbertia,,"(Mitt.) J.-P.Frahm",1985,"Acta Bot. Fenn. 131: 68 1985",,,,e69a6d58-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194809,7517714,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0e14b80-8fd1-11eb-924d-9cd76263cbd0,genus,Bryohumbertia,,,"P.de la Varde & Thér.",,1940,,"Bull. Soc. Bot. France 86: 422. 1940.",,,,,,,wfo-4000005584,2675042,,
+de7a1830-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Bryohumbertia,,"(Hornsch.) J.-P.Frahm",,1982,,"Cryptog. Bryol. Lichénol. 3: 366 1982",,,,,,,wfo-0001146695,2675044,,
+fa628f6e-8fcd-11eb-924d-9cd76263cbd0,variety,humilis,Bryohumbertia,filifolia,"(Mont.) J.-P.Frahm",,1991,,"Fl. Neotrop. 54: 35 1991",,,,ee09d628-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001204793,7995550,,
+de7a3a86-8fcd-11eb-924d-9cd76263cbd0,species,flavicoma,Bryohumbertia,,"(Müll.Hal. ex Broth.) J.-P.Frahm",,1982,,"Cryptog. Bryol. Lichénol. 3: 366 1982",,,,edff3f56-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146696,2675043,,
+e2d2240e-8fcd-11eb-924d-9cd76263cbd0,species,metzlerelloides,Bryohumbertia,,"P.de la Varde & Thér.",,1939,,"Bull. Soc. Bot. France 86: 422. f. 1 1939",,,,,,,wfo-0001155930,7985742,,
+f610b18e-8fcd-11eb-924d-9cd76263cbd0,species,subcomosa,Bryohumbertia,,"(Dixon) J.-P.Frahm",,1989,,"Trop. Bryol. 1: 9 1989",,,,,,,wfo-0001195916,2675045,,
+f58cff10-8fcd-11eb-924d-9cd76263cbd0,species,walkeri,Bryohumbertia,,"(Mitt.) J.-P.Frahm",,1985,,"Acta Bot. Fenn. 131: 68 1985",,,,e69a6d58-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194809,7517714,,

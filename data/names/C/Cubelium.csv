@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e241cf4a-8fd1-11eb-924d-9cd76263cbd0,genus,Cubelium,,,"Raf. ex Britton & A.Br.",,"Ill. Fl. N. U.S. 2: 456, f. 2513. 1897.",,,,,,wfo-4000009992,8235907,
-d7c499f8-8fcc-11eb-924d-9cd76263cbd0,species,concolor,Cubelium,,Raf.,1824,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,866549-1,wfo-0000628614,,
-dd78ef56-8fcd-11eb-924d-9cd76263cbd0,species,concolor,Cubelium,,"(T.F.Forst.) Raf. ex Britton & A.Br.",1897,"Ill. Fl. N. U.S. 2: 456 1897",,,,d538fd28-8fd1-11eb-924d-9cd76263cbd0,30348298-2,wfo-0001144430,8019873,
-d7c4c9f0-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Cubelium,,Raf.,1824,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,866550-1,wfo-0000628615,4075650,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e241cf4a-8fd1-11eb-924d-9cd76263cbd0,genus,Cubelium,,,"Raf. ex Britton & A.Br.",,,,"Ill. Fl. N. U.S. 2: 456, f. 2513. 1897.",,,,,,,wfo-4000009992,8235907,,
+d7c499f8-8fcc-11eb-924d-9cd76263cbd0,species,concolor,Cubelium,,Raf.,,1824,,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,,866549-1,wfo-0000628614,,,
+dd78ef56-8fcd-11eb-924d-9cd76263cbd0,species,concolor,Cubelium,,"(T.F.Forst.) Raf. ex Britton & A.Br.",,1897,,"Ill. Fl. N. U.S. 2: 456 1897",,,,d538fd28-8fd1-11eb-924d-9cd76263cbd0,,30348298-2,wfo-0001144430,8019873,,
+d7c4c9f0-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Cubelium,,Raf.,,1824,,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,,866550-1,wfo-0000628615,4075650,,

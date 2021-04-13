@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb0544a-8fd1-11eb-924d-9cd76263cbd0,genus,Archimedea,,,"Leandro ex A.St.-Hil.",1837,"Ann. Sci. Nat., Bot., sér. 2 7: 32. 1837.",,,,,,wfo-4000002904,7309793,
-a2f0dd68-8fcc-11eb-924d-9cd76263cbd0,species,pyramidalis,Archimedea,,Leandro,1837,"Ann. Sci. Nat., Bot. II, 7: 32 1837",,,,,103190-1,wfo-0000543397,5687183,
-ed8d547e-8fcb-11eb-924d-9cd76263cbd0,species,gaudissartii,Archineottia,,"(Hand.-Mazz.) S.C.Chen",1979,"Acta Phytotax. Sin. 17(2): 13 1979",,,,e719c460-8fcb-11eb-924d-9cd76263cbd0,617049-1,wfo-0000260760,2816237,
-ed8f3302-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Archineottia,,M.Furuse,1988,"Acta Phytotax. Sin. 26: 69 1988",,,,,934475-1,wfo-0000260770,3653810,
-ed907316-8fcb-11eb-924d-9cd76263cbd0,species,microglottis,Archineottia,,"(Duthie) S.C.Chen",1979,"Acta Phytotax. Sin. 17(2): 14 1979",,,,db77de3a-8fcb-11eb-924d-9cd76263cbd0,617050-1,wfo-0000260781,2816198,
-ed923c50-8fcb-11eb-924d-9cd76263cbd0,species,pantlingii,Archineottia,,"(W.W.Sm.) S.C.Chen",1979,"Acta Phytotax. Sin. 17(2): 14 1979",,,,e3224490-8fcb-11eb-924d-9cd76263cbd0,617051-1,wfo-0000260791,2816167,
-ed930f7c-8fcb-11eb-924d-9cd76263cbd0,species,smithiana,Archineottia,,"(Schltr.) S.C.Chen",1979,"Acta Phytotax. Sin. 17(2): 14 1979",,,,,617052-1,wfo-0000260798,2816384,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb0544a-8fd1-11eb-924d-9cd76263cbd0,genus,Archimedea,,,"Leandro ex A.St.-Hil.",,1837,,"Ann. Sci. Nat., Bot., sér. 2 7: 32. 1837.",,,,,,,wfo-4000002904,7309793,,
+a2f0dd68-8fcc-11eb-924d-9cd76263cbd0,species,pyramidalis,Archimedea,,Leandro,,1837,,"Ann. Sci. Nat., Bot. II, 7: 32 1837",,,,,,103190-1,wfo-0000543397,5687183,,
+ed8d547e-8fcb-11eb-924d-9cd76263cbd0,species,gaudissartii,Archineottia,,"(Hand.-Mazz.) S.C.Chen",,1979,,"Acta Phytotax. Sin. 17(2): 13 1979",,,,e719c460-8fcb-11eb-924d-9cd76263cbd0,,617049-1,wfo-0000260760,2816237,,
+ed8f3302-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Archineottia,,M.Furuse,,1988,,"Acta Phytotax. Sin. 26: 69 1988",,,,,,934475-1,wfo-0000260770,3653810,,
+ed907316-8fcb-11eb-924d-9cd76263cbd0,species,microglottis,Archineottia,,"(Duthie) S.C.Chen",,1979,,"Acta Phytotax. Sin. 17(2): 14 1979",,,,db77de3a-8fcb-11eb-924d-9cd76263cbd0,,617050-1,wfo-0000260781,2816198,,
+ed923c50-8fcb-11eb-924d-9cd76263cbd0,species,pantlingii,Archineottia,,"(W.W.Sm.) S.C.Chen",,1979,,"Acta Phytotax. Sin. 17(2): 14 1979",,,,e3224490-8fcb-11eb-924d-9cd76263cbd0,,617051-1,wfo-0000260791,2816167,,
+ed930f7c-8fcb-11eb-924d-9cd76263cbd0,species,smithiana,Archineottia,,"(Schltr.) S.C.Chen",,1979,,"Acta Phytotax. Sin. 17(2): 14 1979",,,,,,617052-1,wfo-0000260798,2816384,,

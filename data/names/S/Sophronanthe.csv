@@ -1,13 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea870314-8fd1-11eb-924d-9cd76263cbd0,genus,Sophronanthe,,,Benth.,1836,"Nat. Syst. Bot. 445. 1836.",,,,,,wfo-4000035782,7332375,
-867f8eea-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Sophronanthe,,Walp.,1844,"Repert. Bot. Syst. 3: 298 1844",,,,,809727-1,wfo-0000495756,3732247,
-da98851c-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Sophronanthe,,"Benth. ex Lindl.",1836,"Nat. Syst. Bot. 445 1836",,,,,,wfo-0001138507,3171924,
-ce118182-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Sophronanthe,,"(Michx.) Small",,"Fl. S.E. U.S. 1067–1068 1903",,,,,240595-2,wfo-0001279923,3171936,
-2c91faa2-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Sophronia,,"Licht. ex Roem. & Schult.",1817,"Syst. Veg. 1: 482 1817",,,,,,wfo-0000786086,5297714,
-0db4f266-8fcc-11eb-924d-9cd76263cbd0,species,cernua,Sophronia,,Lindl.,,"Bot. Reg. 13: t. 1129 1828",,,,,657994-1,wfo-0000311839,5313259,
-0db5119c-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Sophronia,,"(Lindl.) Kuntze",1891,"Revis. Gen. Pl. 2: 681 1891",,,,,657995-1,wfo-0000311840,5313232,
-0db5a77e-8fcc-11eb-924d-9cd76263cbd0,species,militaris,Sophronia,,"(Rchb.f.) Kuntze",1891,"Revis. Gen. Pl. 2: 681 1891",,,,,240596-2,wfo-0000311841,5313231,
-0db5d690-8fcc-11eb-924d-9cd76263cbd0,species,modesta,Sophronia,,Lindl.,,"Bot. Reg. 14: t. 1147 1828",,,,,657997-1,wfo-0000311842,5313260,
-0db5f620-8fcc-11eb-924d-9cd76263cbd0,species,pterocarpa,Sophronia,,"(Lindl. & Paxton) Kuntze",1891,"Revis. Gen. Pl. 2: 681 1891",,,,0dc05aac-8fcc-11eb-924d-9cd76263cbd0,240597-2,wfo-0000311843,5313214,
-0db61718-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Sophronia,,"(Lindl.) Kuntze",1891,"Revis. Gen. Pl. 2: 681 1891",,,,,240598-2,wfo-0000311844,5322614,
-0db65412-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Sophronitella,,"(Lindl.) Schltr.",1925,"Repert. Spec. Nov. Regni Veg. Beih. 35: 76 1925",,,,,240599-2,wfo-0000311846,2835847,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea870314-8fd1-11eb-924d-9cd76263cbd0,genus,Sophronanthe,,,Benth.,,1836,,"Nat. Syst. Bot. 445. 1836.",,,,,,,wfo-4000035782,7332375,,
+867f8eea-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Sophronanthe,,Walp.,,1844,,"Repert. Bot. Syst. 3: 298 1844",,,,,,809727-1,wfo-0000495756,3732247,,
+da98851c-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Sophronanthe,,"Benth. ex Lindl.",,1836,,"Nat. Syst. Bot. 445 1836",,,,,,,wfo-0001138507,3171924,,
+ce118182-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Sophronanthe,,"(Michx.) Small",,,,"Fl. S.E. U.S. 1067–1068 1903",,,,,,240595-2,wfo-0001279923,3171936,,

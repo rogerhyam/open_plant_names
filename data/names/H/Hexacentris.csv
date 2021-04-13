@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4b77018-8fd1-11eb-924d-9cd76263cbd0,genus,Hexacentris,,,Nees,1832,"Pl. Asiat. Rar. 3: 74, 78. 1832.",,,,,,wfo-4000017813,7264352,
-0d4154b8-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Hexacentris,,Nees,1832,"Pl. Asiat. Rar. 3: 78 1832",,,,,49604-1,wfo-0000721767,3780854,
-cfc91652-8fd1-11eb-924d-9cd76263cbd0,species,coccinea,Hexacentris,,"(Wall.) Nees",1832,"Pl. Asiat. Rar. 3: 78 1832",,,,,49605-1,wfo-0001281305,3780847,
-0d41968a-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Hexacentris,,Nees,1832,"Pl. Asiat. Rar. 3: 78 1832",,,,,49606-1,wfo-0000721769,3780838,
-0d41b5a2-8fcd-11eb-924d-9cd76263cbd0,species,lutea,Hexacentris,,Lindl.,1854,"Gard. Chron. 1854: 151 1854",,,,,49607-1,wfo-0000721770,3780829,
-0d41d19a-8fcd-11eb-924d-9cd76263cbd0,species,mysorensis,Hexacentris,,Wight,1844,"Icon. Pl. Ind. Orient. 3: t. 871 1844",,,,,,wfo-0000721771,3780823,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4b77018-8fd1-11eb-924d-9cd76263cbd0,genus,Hexacentris,,,Nees,,1832,,"Pl. Asiat. Rar. 3: 74, 78. 1832.",,,,,,,wfo-4000017813,7264352,,
+0d4154b8-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Hexacentris,,Nees,,1832,,"Pl. Asiat. Rar. 3: 78 1832",,,,,,49604-1,wfo-0000721767,3780854,,
+cfc91652-8fd1-11eb-924d-9cd76263cbd0,species,coccinea,Hexacentris,,"(Wall.) Nees",,1832,,"Pl. Asiat. Rar. 3: 78 1832",,,,,,49605-1,wfo-0001281305,3780847,,
+0d41968a-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Hexacentris,,Nees,,1832,,"Pl. Asiat. Rar. 3: 78 1832",,,,,,49606-1,wfo-0000721769,3780838,,
+0d41b5a2-8fcd-11eb-924d-9cd76263cbd0,species,lutea,Hexacentris,,Lindl.,,1854,,"Gard. Chron. 1854: 151 1854",,,,,,49607-1,wfo-0000721770,3780829,,
+0d41d19a-8fcd-11eb-924d-9cd76263cbd0,species,mysorensis,Hexacentris,,Wight,,1844,,"Icon. Pl. Ind. Orient. 3: t. 871 1844",,,,,,,wfo-0000721771,3780823,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e949f632-8fd1-11eb-924d-9cd76263cbd0,genus,Pteroglossis,,,Miers,1850,"and , Ann. Mag. Nat. Hist. ser. 2, 5(25): 32. 1850 [Jan 1850], 1850.",,,,,,wfo-4000031969,7299584,
-a76e2ebc-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Pteroglossis,,Miers,1850,"Miers, Ann. Mag. Nat. Hist. ser. 2, 5(25): 33. 1850 [Jan 1850], 1850.",,,,,,wfo-0001025154,3799421,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e949f632-8fd1-11eb-924d-9cd76263cbd0,genus,Pteroglossis,,,Miers,,1850,,"and , Ann. Mag. Nat. Hist. ser. 2, 5(25): 32. 1850 [Jan 1850], 1850.",,,,,,,wfo-4000031969,7299584,,
+a76e2ebc-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Pteroglossis,,Miers,,1850,,"Miers, Ann. Mag. Nat. Hist. ser. 2, 5(25): 33. 1850 [Jan 1850], 1850.",,,,,,,wfo-0001025154,3799421,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1a7fa78-8fd1-11eb-924d-9cd76263cbd0,genus,Choricarpia,,,Domin,1928,"Biblioth. Bot. 89: 472. 1928.",,,,,,wfo-4000008083,3186571,
-4b1ba50e-8fcd-11eb-924d-9cd76263cbd0,species,leptopetala,Choricarpia,,"(F.Muell.) Domin",1928,"Biblioth. Bot. 89: 472 1928",,,,,592194-1,wfo-0000851986,3186575,
-4b1cb8c2-8fcd-11eb-924d-9cd76263cbd0,species,subargentea,Choricarpia,,"(C.T.White) L.A.S.Johnson",1962,"Contr. New South Wales Natl. Herb. 3: 100 1962",,,,,592195-1,wfo-0000851996,3186572,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1a7fa78-8fd1-11eb-924d-9cd76263cbd0,genus,Choricarpia,,,Domin,,1928,,"Biblioth. Bot. 89: 472. 1928.",,,,,,,wfo-4000008083,3186571,,
+4b1ba50e-8fcd-11eb-924d-9cd76263cbd0,species,leptopetala,Choricarpia,,"(F.Muell.) Domin",,1928,,"Biblioth. Bot. 89: 472 1928",,,,,,592194-1,wfo-0000851986,3186575,,
+4b1cb8c2-8fcd-11eb-924d-9cd76263cbd0,species,subargentea,Choricarpia,,"(C.T.White) L.A.S.Johnson",,1962,,"Contr. New South Wales Natl. Herb. 3: 100 1962",,,,,,592195-1,wfo-0000851996,3186572,,

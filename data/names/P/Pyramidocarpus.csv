@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e96403ba-8fd1-11eb-924d-9cd76263cbd0,genus,Pyramidocarpus,,,Oliv.,1867,"J. Linn. Soc., Bot. 9: 171. 1867.",,,,,,wfo-4000032281,7274108,
-afc4480e-8fd1-11eb-924d-9cd76263cbd0,species,blackii,Pyramidocarpus,,Oliv.,1867,"J. Linn. Soc., Bot. 9: 171 1867",,,,,779918-1,wfo-0001224109,3878423,
-6ce7104c-8fcd-11eb-924d-9cd76263cbd0,species,caudatus,Pyramidocarpus,,"Pierre ex A.Chev.",1917,"Veg. Ut. Afr. Trop. Franç. 9: 56 1917",,,,,365851-1,wfo-0000909628,3878419,
-6ce6ef5e-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Pyramidocarpus,,"Pierre ex A.Chev.",1917,"Veg. Ut. Afr. Trop. Franç. 9: 56 1917",,,,,365852-1,wfo-0000909627,3878410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e96403ba-8fd1-11eb-924d-9cd76263cbd0,genus,Pyramidocarpus,,,Oliv.,,1867,,"J. Linn. Soc., Bot. 9: 171. 1867.",,,,,,,wfo-4000032281,7274108,,
+afc4480e-8fd1-11eb-924d-9cd76263cbd0,species,blackii,Pyramidocarpus,,Oliv.,,1867,,"J. Linn. Soc., Bot. 9: 171 1867",,Q55758825,,,,779918-1,wfo-0001224109,3878423,,
+6ce7104c-8fcd-11eb-924d-9cd76263cbd0,species,caudatus,Pyramidocarpus,,"Pierre ex A.Chev.",,1917,,"Veg. Ut. Afr. Trop. Franç. 9: 56 1917",,,,,,365851-1,wfo-0000909628,3878419,,
+6ce6ef5e-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Pyramidocarpus,,"Pierre ex A.Chev.",,1917,,"Veg. Ut. Afr. Trop. Franç. 9: 56 1917",,,,,,365852-1,wfo-0000909627,3878410,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4df00f6-8fd1-11eb-924d-9cd76263cbd0,genus,Houmiri,,,,,,,,,,,wfo-4000018335,8296646,
-0f0f7b3a-8fcd-11eb-924d-9cd76263cbd0,species,balsamifera,Houmiri,,Aubl.,1775,"Hist. Pl. Guiane 1: 564 1775",,,,,431426-1,wfo-0000725043,3649197,
-0f0f993a-8fcd-11eb-924d-9cd76263cbd0,species,gabonensis,Houmiri,,Baill.,1873,"Hist. Pl. 5: 52 1873",,,,,431427-1,wfo-0000725044,3649191,
-0f0fbdfc-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Houmiri,,"(Benth.) Baill.",1873,"Hist. Pl. 5: 54 1873",,,,,431428-1,wfo-0000725045,3649182,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4df00f6-8fd1-11eb-924d-9cd76263cbd0,genus,Houmiri,,,,,,,,,,,,,,wfo-4000018335,8296646,,
+0f0f7b3a-8fcd-11eb-924d-9cd76263cbd0,species,balsamifera,Houmiri,,Aubl.,,1775,,"Hist. Pl. Guiane 1: 564 1775",,,,,,431426-1,wfo-0000725043,3649197,,
+0f0f993a-8fcd-11eb-924d-9cd76263cbd0,species,gabonensis,Houmiri,,Baill.,,1873,,"Hist. Pl. 5: 52 1873",,,,,,431427-1,wfo-0000725044,3649191,,
+0f0fbdfc-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Houmiri,,"(Benth.) Baill.",,1873,,"Hist. Pl. 5: 54 1873",,,,,,431428-1,wfo-0000725045,3649182,,

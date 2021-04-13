@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9f9a9c4-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmasikia,,,Bubani,1897,"Fl. Pyren. 1: 550. 1897.",,,,,,wfo-4000034107,7312666,
-605c6b52-8fcc-11eb-924d-9cd76263cbd0,species,dondonaei,Sarmasikia,,Bubani,1897,"Fl. Pyren. 1: 550 1897",,,,,101049-1,wfo-0000431731,3581785,
-605c8df8-8fcc-11eb-924d-9cd76263cbd0,species,gesneri,Sarmasikia,,Bubani,1897,"Fl. Pyren. 1: 550 1897",,,,,101050-1,wfo-0000431732,3581778,
-c22d6048-8fd1-11eb-924d-9cd76263cbd0,species,decora,Sarmentaria,,Naudin,1852,"Ann. Sci. Nat., Bot., sér. 3, 18(2): 141 1852",,,,,575642-1,wfo-0001258202,3859552,
-087c4ce0-8fcc-11eb-924d-9cd76263cbd0,species,calceolaris,Sarmenticola,,"(Garay) Senghas & Garay",1996,"Willdenowia 25: 657 1996",,,,,987493-1,wfo-0000303925,2784470,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9f9a9c4-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmasikia,,,Bubani,,1897,,"Fl. Pyren. 1: 550. 1897.",,,,,,,wfo-4000034107,7312666,,
+605c6b52-8fcc-11eb-924d-9cd76263cbd0,species,dondonaei,Sarmasikia,,Bubani,,1897,,"Fl. Pyren. 1: 550 1897",,,,,,101049-1,wfo-0000431731,3581785,,
+605c8df8-8fcc-11eb-924d-9cd76263cbd0,species,gesneri,Sarmasikia,,Bubani,,1897,,"Fl. Pyren. 1: 550 1897",,,,,,101050-1,wfo-0000431732,3581778,,
+c22d6048-8fd1-11eb-924d-9cd76263cbd0,species,decora,Sarmentaria,,Naudin,,1852,,"Ann. Sci. Nat., Bot., sér. 3, 18(2): 141 1852",,,,,,575642-1,wfo-0001258202,3859552,,
+087c4ce0-8fcc-11eb-924d-9cd76263cbd0,species,calceolaris,Sarmenticola,,"(Garay) Senghas & Garay",,1996,,"Willdenowia 25: 657 1996",,,,,,987493-1,wfo-0000303925,2784470,,

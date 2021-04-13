@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2bfd700-8fd1-11eb-924d-9cd76263cbd0,genus,Didymochlamys,,,Hook.f.,1876,"Hooker's Icon. Pl. 12: 21–22. 1876[1872]. (Aug 1872)",,,,,34482-1,wfo-4000011629,2906963,
-8066fe52-8fcd-11eb-924d-9cd76263cbd0,species,connellii,Didymochlamys,,N.E.Br.,1901,"Trans. Linn. Soc. London, Bot. 6: 34 1901",,,,,748343-1,wfo-0000943146,5338310,
-bb3ca104-8fd1-11eb-924d-9cd76263cbd0,species,ustilaginoidea,Didymochlamys,,Henn.,1897,"Hedwigia 36: ? 1897",,,,,,wfo-0001245231,,
-806719a0-8fcd-11eb-924d-9cd76263cbd0,species,whitei,Didymochlamys,,Hook.f.,1872,"Hooker's Icon. Pl. 12: 22 1872",,,,,,wfo-0000943147,5338311,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2bfd700-8fd1-11eb-924d-9cd76263cbd0,genus,Didymochlamys,,,Hook.f.,,1876,,"Hooker's Icon. Pl. 12: 21–22. 1876[1872]. (Aug 1872)",,,,e2bfd700-8fd1-11eb-924d-9cd76263cbd0,,34482-1,wfo-4000011629,2906963,16101," "
+8066fe52-8fcd-11eb-924d-9cd76263cbd0,species,connellii,Didymochlamys,,N.E.Br.,,1901,,"Trans. Linn. Soc. London, Bot. 6: 34 1901",,Q55760407,,,,748343-1,wfo-0000943146,5338310,,
+bb3ca104-8fd1-11eb-924d-9cd76263cbd0,species,ustilaginoidea,Didymochlamys,,Henn.,,1897,,"Hedwigia 36: ? 1897",,,,bb3ca104-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001245231,,431610," "
+806719a0-8fcd-11eb-924d-9cd76263cbd0,species,whitei,Didymochlamys,,Hook.f.,,1872,,"Hooker's Icon. Pl. 12: 22 1872",,,,,,,wfo-0000943147,5338311,,

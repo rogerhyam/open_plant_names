@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ab2d94-8fd1-11eb-924d-9cd76263cbd0,genus,Heteracantha,,,,,,,,,,,wfo-4000017655,7698622,
-38a588fa-8fb3-11eb-924d-9cd76263cbd0,species,lanata,Heteracantha,,"Link ex Steud.",1840,"Nomencl. Bot., ed. 2 (Steudel) 1: 755 1840",,,,,213892-1,wfo-0000044143,7799956,
-0cf670a6-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Heterachaena,,"Zoll. & Moritzi",1845,"Natuur- Geneesk. Arch. Ned.-Indië 2: 577 1845",,,,,843252-1,wfo-0000721254,5540539,
-ba258956-8fb9-11eb-924d-9cd76263cbd0,species,massauensis,Heterachaena,,Fresen.,1839,"74 1839",,,,,213893-1,wfo-0000120857,5403901,
-0bc467fc-8fb3-11eb-924d-9cd76263cbd0,species,popovii,Heterachaena,,"(Krasch.) Kovalevsk.",1962,"in Fl. Uzbekist. vi. 478 (1962).",,,,014c7be0-8fb6-11eb-924d-9cd76263cbd0,,wfo-0000040385,5701298,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ab2d94-8fd1-11eb-924d-9cd76263cbd0,genus,Heteracantha,,,,,,,,,,,,,,wfo-4000017655,7698622,,
+38a588fa-8fb3-11eb-924d-9cd76263cbd0,species,lanata,Heteracantha,,"Link ex Steud.",,1840,,"Nomencl. Bot., ed. 2 (Steudel) 1: 755 1840",,,,,,213892-1,wfo-0000044143,7799956,,
+0cf670a6-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Heterachaena,,"Zoll. & Moritzi",,1845,,"Natuur- Geneesk. Arch. Ned.-Indië 2: 577 1845",,,,,,843252-1,wfo-0000721254,5540539,,
+ba258956-8fb9-11eb-924d-9cd76263cbd0,species,massauensis,Heterachaena,,Fresen.,,1839,,"74 1839",,,,,,213893-1,wfo-0000120857,5403901,,
+0bc467fc-8fb3-11eb-924d-9cd76263cbd0,species,popovii,Heterachaena,,"(Krasch.) Kovalevsk.",,1962,,"in Fl. Uzbekist. vi. 478 (1962).",,,,014c7be0-8fb6-11eb-924d-9cd76263cbd0,,,wfo-0000040385,5701298,,

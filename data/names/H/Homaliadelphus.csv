@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d22bce-8fd1-11eb-924d-9cd76263cbd0,genus,Homaliadelphus,,,"Dixon & P.de la Varde",1931,"Rev. Bryol., n.s. 4(3): 142. 1931[1932].",,,,,,wfo-4000018143,2678620,
-f573e160-8fcd-11eb-924d-9cd76263cbd0,species,laevidentatus,Homaliadelphus,,"(S.Okamura) Z.Iwats.",1958,"Bryologist 61: 70 1958",,,,,,wfo-0001194606,7825009,
-f55c74bc-8fcd-11eb-924d-9cd76263cbd0,species,polymorphus,Homaliadelphus,,Dixon,1935,"Bot. Mag. (Tokyo) 50: 148 1935",,,,,,wfo-0001194415,7449919,
-efd0fc34-8fcd-11eb-924d-9cd76263cbd0,species,sharpii,Homaliadelphus,,"(R.S.Williams) Sharp",1944,"Castanea 9: 107 1944",,,,f55aa024-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001183227,2678621,
-f55c923a-8fcd-11eb-924d-9cd76263cbd0,species,targionianus,Homaliadelphus,,"(Mitt.) Dixon & P.de la Varde",1932,"Rev. Bryol. Lichénol. 4: 142 1932",,,,,,wfo-0001194416,2678622,
-f55caeaa-8fcd-11eb-924d-9cd76263cbd0,variety,laevidentatus,Homaliadelphus,targionianus,"(S.Okamura) Nog.",1950,"J. Hattori Bot. Lab. 4: 28. 52–59 1950",,,,,,wfo-0001194417,8186994,
-efd11890-8fcd-11eb-924d-9cd76263cbd0,species,yamamotoi,Homaliadelphus,,Iisiba,1936,"Bot. Mag. (Tokyo) 50: 178 1936",,,,,,wfo-0001183228,7998886,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d22bce-8fd1-11eb-924d-9cd76263cbd0,genus,Homaliadelphus,,,"Dixon & P.de la Varde",,1931,,"Rev. Bryol., n.s. 4(3): 142. 1931[1932].",,,,,,,wfo-4000018143,2678620,,
+f573e160-8fcd-11eb-924d-9cd76263cbd0,species,laevidentatus,Homaliadelphus,,"(S.Okamura) Z.Iwats.",,1958,,"Bryologist 61: 70 1958",,,,,,,wfo-0001194606,7825009,,
+f55c74bc-8fcd-11eb-924d-9cd76263cbd0,species,polymorphus,Homaliadelphus,,Dixon,,1935,,"Bot. Mag. (Tokyo) 50: 148 1935",,,,,,,wfo-0001194415,7449919,,
+efd0fc34-8fcd-11eb-924d-9cd76263cbd0,species,sharpii,Homaliadelphus,,"(R.S.Williams) Sharp",,1944,,"Castanea 9: 107 1944",,,,f55aa024-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001183227,2678621,,
+f55c923a-8fcd-11eb-924d-9cd76263cbd0,species,targionianus,Homaliadelphus,,"(Mitt.) Dixon & P.de la Varde",,1932,,"Rev. Bryol. Lichénol. 4: 142 1932",,,,,,,wfo-0001194416,2678622,,
+f55caeaa-8fcd-11eb-924d-9cd76263cbd0,variety,laevidentatus,Homaliadelphus,targionianus,"(S.Okamura) Nog.",,1950,,"J. Hattori Bot. Lab. 4: 28. 52–59 1950",,,,,,,wfo-0001194417,8186994,,
+efd11890-8fcd-11eb-924d-9cd76263cbd0,species,yamamotoi,Homaliadelphus,,Iisiba,,1936,,"Bot. Mag. (Tokyo) 50: 178 1936",,,,,,,wfo-0001183228,7998886,,

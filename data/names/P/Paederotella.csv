@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7de859c-8fd1-11eb-924d-9cd76263cbd0,genus,Paederotella,,,"(E.Wulff) Kem.-Nath.",1953,"Zametki Sist. Geogr. Rast. 17: 21. 1953.",,,,,,wfo-4000027739,7331966,
-dac94b5c-8fcd-11eb-924d-9cd76263cbd0,species,daghestanica,Paederotella,,"(Trautv.) Kem.-Nath.",1953,"Zametki Sist. Geogr. Rast. 17: 21 1953",,,,dab19f16-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001138952,7388056,
-dac96768-8fcd-11eb-924d-9cd76263cbd0,species,pontica,Paederotella,,"(Rupr. ex Boiss.) Kem.-Nath.",,,,,,aca39f7a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001138953,7331969,
-dac98388-8fcd-11eb-924d-9cd76263cbd0,species,teberdensis,Paederotella,,Kem.-Nath.,,,,,,,,wfo-0001138954,3727888,
-ee9ae0e8-8fcb-11eb-924d-9cd76263cbd0,species,attopevensis,Paedicalyx,,"Pierre ex Pit.",1922,"Fl. Indo-Chine 3: 88 1922",,,,,758950-1,wfo-0000262391,2911121,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7de859c-8fd1-11eb-924d-9cd76263cbd0,genus,Paederotella,,,"(E.Wulff) Kem.-Nath.",,1953,,"Zametki Sist. Geogr. Rast. 17: 21. 1953.",,,,,,,wfo-4000027739,7331966,,
+dac94b5c-8fcd-11eb-924d-9cd76263cbd0,species,daghestanica,Paederotella,,"(Trautv.) Kem.-Nath.",,1953,,"Zametki Sist. Geogr. Rast. 17: 21 1953",,,,dab19f16-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001138952,7388056,,
+dac96768-8fcd-11eb-924d-9cd76263cbd0,species,pontica,Paederotella,,"(Rupr. ex Boiss.) Kem.-Nath.",,,,,,,,aca39f7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001138953,7331969,,
+dac98388-8fcd-11eb-924d-9cd76263cbd0,species,teberdensis,Paederotella,,Kem.-Nath.,,,,,,,,,,,wfo-0001138954,3727888,,
+ee9ae0e8-8fcb-11eb-924d-9cd76263cbd0,species,attopevensis,Paedicalyx,,"Pierre ex Pit.",,1922,,"Fl. Indo-Chine 3: 88 1922",,,,,,758950-1,wfo-0000262391,2911121,,

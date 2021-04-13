@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb83b384-8fd1-11eb-924d-9cd76263cbd0,genus,Trichanthera,,,Kunth,1818,"Nov. Gen. Sp. (folio ed.) 2: 197. 1818. (Feb 1818)",,,,,1009-1,wfo-4000038928,3233813,
-4fc70734-8fcc-11eb-924d-9cd76263cbd0,species,corymbosa,Trichanthera,,Leonard,1930,"J. Wash. Acad. Sci. 20: 487 1930",,,,,256767-2,wfo-0000410435,5573555,
-4fc73272-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Trichanthera,,"(Humb. & Bonpl.) Nees",1847,"Prodr. 11: 218 1847",,,,493dbe3a-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000410436,8547369,
-70c62de8-8fcc-11eb-924d-9cd76263cbd0,species,modesta,Trichanthera,,Ehrenb.,1829,"Linnaea 4: 401 1829",,,,,825683-1,wfo-0000458811,7752956,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb83b384-8fd1-11eb-924d-9cd76263cbd0,genus,Trichanthera,,,Kunth,,1818,,"Nov. Gen. Sp. (folio ed.) 2: 197. 1818. (Feb 1818)",,,,,,1009-1,wfo-4000038928,3233813,,
+4fc70734-8fcc-11eb-924d-9cd76263cbd0,species,corymbosa,Trichanthera,,Leonard,,1930,,"J. Wash. Acad. Sci. 20: 487 1930",,Q96061932,,,,256767-2,wfo-0000410435,5573555,,
+4fc73272-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Trichanthera,,"(Humb. & Bonpl.) Nees",,1847,,"Prodr. 11: 218 1847",,,,493dbe3a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000410436,8547369,,
+70c62de8-8fcc-11eb-924d-9cd76263cbd0,species,modesta,Trichanthera,,Ehrenb.,,1829,,"Linnaea 4: 401 1829",,,,,,825683-1,wfo-0000458811,7752956,,

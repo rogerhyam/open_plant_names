@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4351366-8fd1-11eb-924d-9cd76263cbd0,genus,Grollea,,,R.M.Schust.,1964,"Nova Hedwigia 8: 288. 1964.",,,,,,wfo-4000016260,2689381,
-fb9e764a-8fcd-11eb-924d-9cd76263cbd0,species,antheliopsis,Grollea,,R.M.Schust.,1964,"Nova Hedwigia 8: 288 1964",,,,,,wfo-0001207350,2689382,
-06de5bca-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Gromovia,,Regel,1865,"Gartenflora 14: 289 1865",,,,,49194-1,wfo-0000710512,5573743,
-06de7a4c-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Gromovia,,Regel,1865,"Gartenflora 14: 289 1865",,,,,49195-1,wfo-0000710513,5573740,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4351366-8fd1-11eb-924d-9cd76263cbd0,genus,Grollea,,,R.M.Schust.,,1964,,"Nova Hedwigia 8: 288. 1964.",,,,,,,wfo-4000016260,2689381,,
+fb9e764a-8fcd-11eb-924d-9cd76263cbd0,species,antheliopsis,Grollea,,R.M.Schust.,,1964,,"Nova Hedwigia 8: 288 1964",,,,,,,wfo-0001207350,2689382,,
+06de5bca-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Gromovia,,Regel,,1865,,"Gartenflora 14: 289 1865",,,,,,49194-1,wfo-0000710512,5573743,,
+06de7a4c-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Gromovia,,Regel,,1865,,"Gartenflora 14: 289 1865",,,,,,49195-1,wfo-0000710513,5573740,,

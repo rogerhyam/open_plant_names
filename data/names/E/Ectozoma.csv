@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32d666c-8fd1-11eb-924d-9cd76263cbd0,genus,Ectozoma,,,Miers,1849,"F.Muell. and F.Muell., Ann. Mag. Nat. Hist. Ser. 2, 4(21): 185., 1849.",,,,,,wfo-4000012998,7299231,
-a59262fc-8fcd-11eb-924d-9cd76263cbd0,species,pavonii,Ectozoma,,Miers,1849,"Miers and Miers, Ann. Mag. Nat. Hist. ser. 2, 4(21): 191. 1849 [Sep 1849], 1849.",,,,,,wfo-0001021565,3797374,
-a59286e2-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Ectozoma,,,,,,,,,,wfo-0001021566,,
-a592b126-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Ectozoma,,Dammer,1905,"Dammer and Dammer, Bot. Jahrb. Syst. 37: 170. 1905, 1905.",,,,,,wfo-0001021567,3797362,
-e7307604-8fcd-11eb-924d-9cd76263cbd0,species,urceolatus,Ectropodon,,Dixon,1936,"J. Bot. 74: 6. 7 1936",,,,,,wfo-0001165395,2673508,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32d666c-8fd1-11eb-924d-9cd76263cbd0,genus,Ectozoma,,,Miers,,1849,,"F.Muell. and F.Muell., Ann. Mag. Nat. Hist. Ser. 2, 4(21): 185., 1849.",,,,,,,wfo-4000012998,7299231,,
+a59262fc-8fcd-11eb-924d-9cd76263cbd0,species,pavonii,Ectozoma,,Miers,,1849,,"Miers and Miers, Ann. Mag. Nat. Hist. ser. 2, 4(21): 191. 1849 [Sep 1849], 1849.",,,,,,,wfo-0001021565,3797374,,
+a59286e2-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Ectozoma,,,,,,,,,,,,,wfo-0001021566,,,
+a592b126-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Ectozoma,,Dammer,,1905,,"Dammer and Dammer, Bot. Jahrb. Syst. 37: 170. 1905, 1905.",,,,,,,wfo-0001021567,3797362,,

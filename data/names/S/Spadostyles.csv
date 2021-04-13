@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea8c26aa-8fd1-11eb-924d-9cd76263cbd0,genus,Spadostyles,,,,,,,,,,,wfo-4000035840,3911799,
-8ad526c6-8fcc-11eb-924d-9cd76263cbd0,species,benthamii,Spadostyles,,Endl.,1839,"Nov. Stirp. Dec. 3 1839",,,,,72658-3,wfo-0000502618,3911802,
-8ad4b812-8fcc-11eb-924d-9cd76263cbd0,species,concolor,Spadostyles,,Endl.,1839,"Nov. Stirp. Dec. 24 1839",,,,,72684-3,wfo-0000502614,3911806,
-b65ec396-8fcd-11eb-924d-9cd76263cbd0,species,cunninghami,Spadostyles,,Benth.,1838,"Ann. Wiener Mus. Naturgesch. 2: 81 1838",,,,,,wfo-0001058151,,
-8ad49d1e-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Spadostyles,,Endl.,1839,"Nov. Stirp. Dec. 3 1839",,,,,76039-3,wfo-0000502613,3913327,
-8ad482c0-8fcc-11eb-924d-9cd76263cbd0,species,ramulosa,Spadostyles,,Endl.,1839,"Nov. Stirp. Dec. 25 1839",,,,,76095-3,wfo-0000502612,3913324,
-8ad4683a-8fcc-11eb-924d-9cd76263cbd0,species,sieberi,Spadostyles,,Benth.,1837,"Comm. Legum. Gen. 17 1837",,,,,76132-3,wfo-0000502611,3913318,
-8ad351f2-8fcc-11eb-924d-9cd76263cbd0,species,ternata,Spadostyles,,F.Muell.,1853,"Gen. Report Govt. Bot. 1: 12 1853",,,,,,wfo-0000502605,8336538,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea8c26aa-8fd1-11eb-924d-9cd76263cbd0,genus,Spadostyles,,,,,,,,,,,,,,wfo-4000035840,3911799,,
+8ad526c6-8fcc-11eb-924d-9cd76263cbd0,species,benthamii,Spadostyles,,Endl.,,1839,,"Nov. Stirp. Dec. 3 1839",,,,,,72658-3,wfo-0000502618,3911802,,
+8ad4b812-8fcc-11eb-924d-9cd76263cbd0,species,concolor,Spadostyles,,Endl.,,1839,,"Nov. Stirp. Dec. 24 1839",,,,,,72684-3,wfo-0000502614,3911806,,
+b65ec396-8fcd-11eb-924d-9cd76263cbd0,species,cunninghami,Spadostyles,,Benth.,,1838,,"Ann. Wiener Mus. Naturgesch. 2: 81 1838",,,,,,,wfo-0001058151,,,
+8ad49d1e-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Spadostyles,,Endl.,,1839,,"Nov. Stirp. Dec. 3 1839",,,,,,76039-3,wfo-0000502613,3913327,,
+8ad482c0-8fcc-11eb-924d-9cd76263cbd0,species,ramulosa,Spadostyles,,Endl.,,1839,,"Nov. Stirp. Dec. 25 1839",,,,,,76095-3,wfo-0000502612,3913324,,
+8ad4683a-8fcc-11eb-924d-9cd76263cbd0,species,sieberi,Spadostyles,,Benth.,,1837,,"Comm. Legum. Gen. 17 1837",,,,,,76132-3,wfo-0000502611,3913318,,
+8ad351f2-8fcc-11eb-924d-9cd76263cbd0,species,ternata,Spadostyles,,F.Muell.,,1853,,"Gen. Report Govt. Bot. 1: 12 1853",,,,,,,wfo-0000502605,8336538,,

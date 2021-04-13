@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec433e20-8fd1-11eb-924d-9cd76263cbd0,genus,Zymum,,,"L.M.A.A.Du Petit-Thouars",1806,"Hist. Vég. Isles Austral. Afriq. 69. t 23. 1806.",,,,,,wfo-4000041356,3983061,
-be629a0e-8fcd-11eb-924d-9cd76263cbd0,species,madagascariense,Zymum,,Spreng.,1825,"Syst. Veg. 2: 329 1825",,,,,557976-1,wfo-0001076488,7625535,
-5f4c57b8-8fcc-11eb-924d-9cd76263cbd0,species,tristellatum,Zymum,,"Noronha ex Thouars",1808,"Hist. Vég. Isles Austral. Afriq. 69 1808",,,,,,wfo-0000430405,3986197,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec433e20-8fd1-11eb-924d-9cd76263cbd0,genus,Zymum,,,"L.M.A.A.Du Petit-Thouars",,1806,,"Hist. Vég. Isles Austral. Afriq. 69. t 23. 1806.",,,,,,,wfo-4000041356,3983061,,
+be629a0e-8fcd-11eb-924d-9cd76263cbd0,species,madagascariense,Zymum,,Spreng.,,1825,,"Syst. Veg. 2: 329 1825",,,,,,557976-1,wfo-0001076488,7625535,,
+5f4c57b8-8fcc-11eb-924d-9cd76263cbd0,species,tristellatum,Zymum,,"Noronha ex Thouars",,1808,,"Hist. Vég. Isles Austral. Afriq. 69 1808",,,,,,,wfo-0000430405,3986197,,

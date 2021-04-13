@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e169aa5c-8fd1-11eb-924d-9cd76263cbd0,genus,Cerasiocarpum,,,Hook.f.,1867,"Gen. Pl. 1: 832. 1867.",,,,,,wfo-4000007324,7317485,
-c3d89ee4-8fcc-11eb-924d-9cd76263cbd0,species,bennettii,Cerasiocarpum,,"(Miq.) Cogn.",1881,"Monogr. Phan. 3: 729 1881",,,,,291888-1,wfo-0000595034,7317490,
-c3d8ba3c-8fcc-11eb-924d-9cd76263cbd0,variety,deshmukhii,Cerasiocarpum,bennettii,M.R.Almeida,1998,"Fl. Maharashtra 2: 311 1998",,,,,20008483-1,wfo-0000595035,3622299,
-c3d8d6ac-8fcc-11eb-924d-9cd76263cbd0,species,maingayi,Cerasiocarpum,,C.B.Clarke,1879,"Fl. Brit. India 2: 629 1879",,,,,291889-1,wfo-0000595036,3622289,
-c3d91b08-8fcc-11eb-924d-9cd76263cbd0,species,penangense,Cerasiocarpum,,C.B.Clarke,1879,"Fl. Brit. India 2: 629 1879",,,,,291890-1,wfo-0000595037,3622279,
-caf9bd2a-8fd1-11eb-924d-9cd76263cbd0,species,zeylanicum,Cerasiocarpum,,"(Thwaites) C.B.Clarke",1879,"Fl. Brit. India 2: 629 1879",,,,,,wfo-0001274482,,
-c3d958fc-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Cerasiocarpum,,"(Thwaites) Hook.f.",1867,"Gen. Pl. 1: 832 1867",,,,,291891-1,wfo-0000595038,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e169aa5c-8fd1-11eb-924d-9cd76263cbd0,genus,Cerasiocarpum,,,Hook.f.,,1867,,"Gen. Pl. 1: 832. 1867.",,,,,,,wfo-4000007324,7317485,,
+c3d89ee4-8fcc-11eb-924d-9cd76263cbd0,species,bennettii,Cerasiocarpum,,"(Miq.) Cogn.",,1881,,"Monogr. Phan. 3: 729 1881",,,,,,291888-1,wfo-0000595034,7317490,,
+c3d8ba3c-8fcc-11eb-924d-9cd76263cbd0,variety,deshmukhii,Cerasiocarpum,bennettii,M.R.Almeida,,1998,,"Fl. Maharashtra 2: 311 1998",,,,,,20008483-1,wfo-0000595035,3622299,,
+c3d8d6ac-8fcc-11eb-924d-9cd76263cbd0,species,maingayi,Cerasiocarpum,,C.B.Clarke,,1879,,"Fl. Brit. India 2: 629 1879",,,,,,291889-1,wfo-0000595036,3622289,,
+c3d91b08-8fcc-11eb-924d-9cd76263cbd0,species,penangense,Cerasiocarpum,,C.B.Clarke,,1879,,"Fl. Brit. India 2: 629 1879",,,,,,291890-1,wfo-0000595037,3622279,,
+caf9bd2a-8fd1-11eb-924d-9cd76263cbd0,species,zeylanicum,Cerasiocarpum,,"(Thwaites) C.B.Clarke",,1879,,"Fl. Brit. India 2: 629 1879",,,,,,,wfo-0001274482,,,
+c3d958fc-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Cerasiocarpum,,"(Thwaites) Hook.f.",,1867,,"Gen. Pl. 1: 832 1867",,,,,,291891-1,wfo-0000595038,,,

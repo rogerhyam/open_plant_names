@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb402038-8fd1-11eb-924d-9cd76263cbd0,genus,Thallocarpus,,,Lindb.,1874,"Not. Sällsk. Fauna Fl. Fenn. Förh. 13: 377. 1874.",,,,,,wfo-4000038056,4885291,
-fe18671e-8fcd-11eb-924d-9cd76263cbd0,species,curtisii,Thallocarpus,,"(Austin) Austin",1875,"Bull. Torrey Bot. Club 6: 21 1875",,,,f7b84db2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001212883,7939767,
-fe188186-8fcd-11eb-924d-9cd76263cbd0,species,synsporus,Thallocarpus,,"(Schiffner) Schiffner",1936,"Hedwigia 76: 149 1936",,,,,,wfo-0001212884,7665072,
-68354e6a-8fcd-11eb-924d-9cd76263cbd0,species,mays,Thalysia,,"(L.) Kuntze",1891,"Revis. Gen. Pl. 2: 794 1891",,,,6b7b8c42-8fcd-11eb-924d-9cd76263cbd0,424138-1,wfo-0000903450,4126802,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb402038-8fd1-11eb-924d-9cd76263cbd0,genus,Thallocarpus,,,Lindb.,,1874,,"Not. Sällsk. Fauna Fl. Fenn. Förh. 13: 377. 1874.",,,,,,,wfo-4000038056,4885291,,
+fe18671e-8fcd-11eb-924d-9cd76263cbd0,species,curtisii,Thallocarpus,,"(Austin) Austin",,1875,,"Bull. Torrey Bot. Club 6: 21 1875",,,,f7b84db2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212883,7939767,,
+fe188186-8fcd-11eb-924d-9cd76263cbd0,species,synsporus,Thallocarpus,,"(Schiffner) Schiffner",,1936,,"Hedwigia 76: 149 1936",,,,,,,wfo-0001212884,7665072,,

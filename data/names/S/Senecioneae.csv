@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea4785b8-8fd1-11eb-924d-9cd76263cbd0,genus,Senecioneae,,,,,,,,,,,wfo-4000035062,6301513,
-7fa877e4-8fb3-11eb-924d-9cd76263cbd0,species,curvatus,Senecioneae,,Baker,,,,,,,,wfo-0000049475,6301516,
-70dca3a2-8fb3-11eb-924d-9cd76263cbd0,species,deltoideus,Senecioneae,,Less.,,,,,,,,wfo-0000048351,6301518,
-fe153d10-8fb3-11eb-924d-9cd76263cbd0,species,myricaefolius,Senecioneae,,"(Bojer ex DC.) Humbert.",,,,,,,,wfo-0000058185,6301517,
-cccf5506-8fb3-11eb-924d-9cd76263cbd0,species,penicillatus,Senecioneae,,"(Cass.) Sch.Bip.",,,,,,,,wfo-0000054790,6301514,
-5d68a956-8fb3-11eb-924d-9cd76263cbd0,species,prenanthiflorus,Senecioneae,,"Benth. & Hook.f.",,,,,,,,wfo-0000046848,6301515,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea4785b8-8fd1-11eb-924d-9cd76263cbd0,genus,Senecioneae,,,,,,,,,,,,,,wfo-4000035062,6301513,,
+7fa877e4-8fb3-11eb-924d-9cd76263cbd0,species,curvatus,Senecioneae,,Baker,,,,,,,,,,,wfo-0000049475,6301516,,
+70dca3a2-8fb3-11eb-924d-9cd76263cbd0,species,deltoideus,Senecioneae,,Less.,,,,,,,,,,,wfo-0000048351,6301518,,
+fe153d10-8fb3-11eb-924d-9cd76263cbd0,species,myricaefolius,Senecioneae,,"(Bojer ex DC.) Humbert.",,,,,,,,,,,wfo-0000058185,6301517,,
+cccf5506-8fb3-11eb-924d-9cd76263cbd0,species,penicillatus,Senecioneae,,"(Cass.) Sch.Bip.",,,,,,,,,,,wfo-0000054790,6301514,,
+5d68a956-8fb3-11eb-924d-9cd76263cbd0,species,prenanthiflorus,Senecioneae,,"Benth. & Hook.f.",,,,,,,,,,,wfo-0000046848,6301515,,

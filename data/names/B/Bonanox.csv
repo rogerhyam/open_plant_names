@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0574908-8fd1-11eb-924d-9cd76263cbd0,genus,Bonanox,,,Raf.,1836,"Fl. Tellur. 4: 77. 1836[1838].",,,,,,wfo-4000004958,7324459,
-aee8b234-8fbe-11eb-924d-9cd76263cbd0,species,indica,Bonanox,,Raf.,1838,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,265471-1,wfo-0000155379,3681378,
-aef2cabc-8fbe-11eb-924d-9cd76263cbd0,species,muricata,Bonanox,,Raf.,1838,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,265472-1,wfo-0000155380,3681369,
-db8b43c0-8fd1-11eb-924d-9cd76263cbd0,species,orbiculata,Bonanox,,"(Elliott) Raf.",1836,"Fl. Tellur. 4: 77 1836",,,,,,wfo-0001298045,3681362,
-aefd6e4a-8fbe-11eb-924d-9cd76263cbd0,species,riparia,Bonanox,,Raf.,1838,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,265474-1,wfo-0000155381,3681355,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0574908-8fd1-11eb-924d-9cd76263cbd0,genus,Bonanox,,,Raf.,,1836,,"Fl. Tellur. 4: 77. 1836[1838].",,,,,,,wfo-4000004958,7324459,,
+aee8b234-8fbe-11eb-924d-9cd76263cbd0,species,indica,Bonanox,,Raf.,,1838,,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,,265471-1,wfo-0000155379,3681378,,
+aef2cabc-8fbe-11eb-924d-9cd76263cbd0,species,muricata,Bonanox,,Raf.,,1838,,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,,265472-1,wfo-0000155380,3681369,,
+db8b43c0-8fd1-11eb-924d-9cd76263cbd0,species,orbiculata,Bonanox,,"(Elliott) Raf.",,1836,,"Fl. Tellur. 4: 77 1836",,,,,,,wfo-0001298045,3681362,,
+aefd6e4a-8fbe-11eb-924d-9cd76263cbd0,species,riparia,Bonanox,,Raf.,,1838,,"Fl. Tellur. 4: 77 1838 [1836 publ. mid-1838]",,,,,,265474-1,wfo-0000155381,3681355,,

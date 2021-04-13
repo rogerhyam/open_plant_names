@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0eb9ba8-8fd1-11eb-924d-9cd76263cbd0,genus,Bunioseris,,,,,,,,,,,wfo-4000005754,7337229,
-fe5dfb7a-8fb5-11eb-924d-9cd76263cbd0,species,blanci,Bunioseris,,Jord.,1903,1903,,,,,,wfo-0000084506,4227112,
-4c8cf35e-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifida,Bunioseris,,Jord.,1903,1903,,,,,,wfo-0000019553,4227106,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0eb9ba8-8fd1-11eb-924d-9cd76263cbd0,genus,Bunioseris,,,,,,,,,,,,,,wfo-4000005754,7337229,,
+fe5dfb7a-8fb5-11eb-924d-9cd76263cbd0,species,blanci,Bunioseris,,Jord.,,1903,,1903,,,,,,,wfo-0000084506,4227112,,
+4c8cf35e-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifida,Bunioseris,,Jord.,,1903,,1903,,,,,,,wfo-0000019553,4227106,,

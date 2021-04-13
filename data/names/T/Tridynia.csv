@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb92bbf4-8fd1-11eb-924d-9cd76263cbd0,genus,Tridynia,,,Raf.,1821,"Ann. Gén. Sci. Phys. 7: 192. 1821.",,,,,,wfo-4000039122,4008002,
-cf1ebf9a-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Tridynia,,"Raf. ex Steud.",1841,"Nomencl. Bot. (ed. 2) 2: 704 1841",,,,,,wfo-0001280994,8155158,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb92bbf4-8fd1-11eb-924d-9cd76263cbd0,genus,Tridynia,,,Raf.,,1821,,"Ann. Gén. Sci. Phys. 7: 192. 1821.",,,,,,,wfo-4000039122,4008002,,
+cf1ebf9a-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Tridynia,,"Raf. ex Steud.",,1841,,"Nomencl. Bot. (ed. 2) 2: 704 1841",,,,,,,wfo-0001280994,8155158,,

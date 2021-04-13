@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e02156b8-8fd1-11eb-924d-9cd76263cbd0,genus,Bebbia,,,Greene,,,,,,,1198852-2,wfo-4000004279,3109180,
-158e26e4-8fb6-11eb-924d-9cd76263cbd0,species,aspera,Bebbia,,"(Greene) A.Nelson",1904,"Bot. Gaz. 37 273 1904",,,,,30324-2,wfo-0000085480,4242863,
-803b60a4-8fb3-11eb-924d-9cd76263cbd0,species,atriplicifolia,Bebbia,,"(A.Gray) Greene",1885,"181 1885",,,,,,wfo-0000049518,8105020,
-ad90c2b8-8fba-11eb-924d-9cd76263cbd0,species,atriplicifolia,Bebbia,,A.Gray,,,,,,,,wfo-0000128573,8105020,
-f1d888a2-8fb5-11eb-924d-9cd76263cbd0,species,filifolia,Bebbia,,M.E.Jones,,"Contr. W. Bot. 18 80",,,,,,wfo-0000083965,3109182,
-8bfb7710-8fba-11eb-924d-9cd76263cbd0,species,juncea,Bebbia,,"(Benth.) Greene",1885,1885,,,,,,wfo-0000127518,3109181,
-eb320432-8fb6-11eb-924d-9cd76263cbd0,variety,aspera,Bebbia,juncea,"(Benth.) Greene",1885,1885,,,,,,wfo-0000094545,4242844,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e02156b8-8fd1-11eb-924d-9cd76263cbd0,genus,Bebbia,,,Greene,,,,,,,,,,1198852-2,wfo-4000004279,3109180,,
+158e26e4-8fb6-11eb-924d-9cd76263cbd0,species,aspera,Bebbia,,"(Greene) A.Nelson",,1904,,"Bot. Gaz. 37 273 1904",,Q55808768,,,,30324-2,wfo-0000085480,4242863,,
+ad90c2b8-8fba-11eb-924d-9cd76263cbd0,species,atriplicifolia,Bebbia,,A.Gray,,,,,,,,,,,wfo-0000128573,8105020,,
+803b60a4-8fb3-11eb-924d-9cd76263cbd0,species,atriplicifolia,Bebbia,,"(A.Gray) Greene",,1885,,"181 1885",,,,,,,wfo-0000049518,8105020,,
+f1d888a2-8fb5-11eb-924d-9cd76263cbd0,species,filifolia,Bebbia,,M.E.Jones,,,,"Contr. W. Bot. 18 80",,,,,,,wfo-0000083965,3109182,,
+8bfb7710-8fba-11eb-924d-9cd76263cbd0,species,juncea,Bebbia,,"(Benth.) Greene",,1885,,1885,,,,,,,wfo-0000127518,3109181,,
+eb320432-8fb6-11eb-924d-9cd76263cbd0,variety,aspera,Bebbia,juncea,"(Benth.) Greene",,1885,,1885,,,,,,,wfo-0000094545,4242844,,

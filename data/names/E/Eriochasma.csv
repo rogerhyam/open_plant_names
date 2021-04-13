@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36eeede-8fd1-11eb-924d-9cd76263cbd0,genus,Eriochasma,,,,,,,,,,,wfo-4000013815,7335696,
-f40aa3b0-8fbc-11eb-924d-9cd76263cbd0,species,distans,Eriochasma,,Hereman,1868,"Paxton's Botanical Dictionary, 2nd edition 1868",,,,,116700-3,wfo-0000144661,3749691,
-f41f28bc-8fbc-11eb-924d-9cd76263cbd0,species,tomentosa,Eriochasma,,Hereman,1868,"Paxton's Botanical Dictionary, 2nd edition 1868",,,,,116725-3,wfo-0000144663,3749680,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36eeede-8fd1-11eb-924d-9cd76263cbd0,genus,Eriochasma,,,,,,,,,,,,,,wfo-4000013815,7335696,,
+f40aa3b0-8fbc-11eb-924d-9cd76263cbd0,species,distans,Eriochasma,,Hereman,,1868,,"Paxton's Botanical Dictionary, 2nd edition 1868",,,,,,116700-3,wfo-0000144661,3749691,,
+f41f28bc-8fbc-11eb-924d-9cd76263cbd0,species,tomentosa,Eriochasma,,Hereman,,1868,,"Paxton's Botanical Dictionary, 2nd edition 1868",,,,,,116725-3,wfo-0000144663,3749680,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9e26c4-8fd1-11eb-924d-9cd76263cbd0,genus,Triphlebia,,,Baker,1886,"Malesia 3: 41. 1886.",,,,,,wfo-4000039256,3229346,
-693357c6-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Triphlebia,,"(Hack.) Stapf",,"Hooker's Icon. Pl. 27: t. 2612 1899",,,,,424913-1,wfo-0000904695,5673984,
-f1af9e56-8fbf-11eb-924d-9cd76263cbd0,species,dimorphophylla,Triphlebia,,Baker,1886,"Malesia 3: 42, t. 4 1886",,,,,17233270-1,wfo-0000163068,5705827,
-f1ba53a0-8fbf-11eb-924d-9cd76263cbd0,species,linza,Triphlebia,,Baker,1886,"Malesia 3: 42, t. 5 (1886); NPfl. 230 1886",,,,,17233280-1,wfo-0000163069,8576057,
-f1c55462-8fbf-11eb-924d-9cd76263cbd0,species,longifolia,Triphlebia,,Baker,1886,"Malesia 3: 41 (1886); NPfl. 230 1886",,,,,17233290-1,wfo-0000163070,5705825,
-ac3c7976-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Triphlebia,,"(J.Sm. ex Kunze) Baker",1886,"Malesia 3: 41 1886",,,,,,wfo-0001035189,8708348,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9e26c4-8fd1-11eb-924d-9cd76263cbd0,genus,Triphlebia,,,Baker,,1886,,"Malesia 3: 41. 1886.",,,,,,,wfo-4000039256,3229346,,
+693357c6-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Triphlebia,,"(Hack.) Stapf",,,,"Hooker's Icon. Pl. 27: t. 2612 1899",,,,,,424913-1,wfo-0000904695,5673984,,
+f1af9e56-8fbf-11eb-924d-9cd76263cbd0,species,dimorphophylla,Triphlebia,,Baker,,1886,,"Malesia 3: 42, t. 4 1886",,,,,,17233270-1,wfo-0000163068,5705827,,
+f1ba53a0-8fbf-11eb-924d-9cd76263cbd0,species,linza,Triphlebia,,Baker,,1886,,"Malesia 3: 42, t. 5 (1886); NPfl. 230 1886",,,,,,17233280-1,wfo-0000163069,8576057,,
+f1c55462-8fbf-11eb-924d-9cd76263cbd0,species,longifolia,Triphlebia,,Baker,,1886,,"Malesia 3: 41 (1886); NPfl. 230 1886",,,,,,17233290-1,wfo-0000163070,5705825,,
+ac3c7976-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Triphlebia,,"(J.Sm. ex Kunze) Baker",,1886,,"Malesia 3: 41 1886",,,,,,,wfo-0001035189,8708348,,

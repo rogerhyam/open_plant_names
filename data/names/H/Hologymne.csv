@@ -1,8 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ce6b38-8fd1-11eb-924d-9cd76263cbd0,genus,Hologymne,,,,,,,,,,,wfo-4000018091,7337654,
-86b34524-8fb2-11eb-924d-9cd76263cbd0,species,californica,Hologymne,,Bartl.,1838,"cf. Linnaea 12(Lit.): 82. 1838",,,,,224984-1,wfo-0000027090,4234530,
-e31588f4-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Hologymne,,C.A.Mey.,,"Index Seminum Hort. Petrop. viii. 64",,,,,224985-1,wfo-0000036765,4234526,
-352d6b80-8fb7-11eb-924d-9cd76263cbd0,species,douglasii,Hologymne,,"F.Fischer & C.Meyer",1842,"Index Seminum [St. Petersburg] 8: ""22, 64"" 1842",,,,,,wfo-0000097457,4234526,
-9a228662-8fb5-11eb-924d-9cd76263cbd0,species,glabrata,Hologymne,,Bartl.,1838,"Cf. Linnaea 12(Lit.): 81 (1838); et 14(Lit.): 125 (1840).",,,,,224986-1,wfo-0000079988,4234519,
-92dc3ce6-8fcd-11eb-924d-9cd76263cbd0,species,lauterbachiana,Hologyne,,"(Kraenzl.) Pfitzer",1907,"Pflanzenr. IV, 50(32): 133 1907",,,,6beb21f6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000982841,2811613,
-92dc59b0-8fcd-11eb-924d-9cd76263cbd0,species,miniata,Hologyne,,"(Blume) Pfitzer",1907,"Pflanzenr. IV, 50(32): 132 1907",,,,46a6974a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000982842,2811612,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ce6b38-8fd1-11eb-924d-9cd76263cbd0,genus,Hologymne,,,,,,,,,,,,,,wfo-4000018091,7337654,,
+86b34524-8fb2-11eb-924d-9cd76263cbd0,species,californica,Hologymne,,Bartl.,,1838,,"cf. Linnaea 12(Lit.): 82. 1838",,,,,,224984-1,wfo-0000027090,4234530,,
+e31588f4-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Hologymne,,C.A.Mey.,,,,"Index Seminum Hort. Petrop. viii. 64",,,,,,224985-1,wfo-0000036765,4234526,,
+352d6b80-8fb7-11eb-924d-9cd76263cbd0,species,douglasii,Hologymne,,"F.Fischer & C.Meyer",,1842,,"Index Seminum [St. Petersburg] 8: ""22, 64"" 1842",,,,,,,wfo-0000097457,4234526,,
+9a228662-8fb5-11eb-924d-9cd76263cbd0,species,glabrata,Hologymne,,Bartl.,,1838,,"Cf. Linnaea 12(Lit.): 81 (1838); et 14(Lit.): 125 (1840).",,,,,,224986-1,wfo-0000079988,4234519,,

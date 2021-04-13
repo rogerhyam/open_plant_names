@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e60d3bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Lophactis,,,,,,,,,,,wfo-4000022181,3232137,
-49c0263c-8fb2-11eb-924d-9cd76263cbd0,species,uniflora,Lophactis,,Raf.,,,,,,,,wfo-0000019116,5701159,
-2e507a90-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Lophalix,,Raf.,1838,"Sylva Tellur. 70 1838",,,,,381687-1,wfo-0000364678,3824254,
-2e50970a-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Lophalix,,"(Aubl.) Raf.",1838,"Sylva Tellur. 70 1838",,,,,381688-1,wfo-0000364679,3824244,
-2a896606-8fcc-11eb-924d-9cd76263cbd0,species,blanda,Lophandra,,G.Don,1834,"Gen. Hist. 3: 810 1834",,,,,331095-1,wfo-0000358391,4173165,
-2a88b012-8fcc-11eb-924d-9cd76263cbd0,species,cubica,Lophandra,,D.Don,1834,"Edinburgh New Philos. J. 17: 174 1834",,,,,331096-1,wfo-0000358385,4173157,
-2e46cf90-8fcc-11eb-924d-9cd76263cbd0,species,seriphiifolia,Lophandra,,G.Don,1834,"Gen. Hist. 3: 810 1834",,,,,331097-1,wfo-0000364613,4173147,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e60d3bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Lophactis,,,,,,,,,,,,,,wfo-4000022181,3232137,,
+49c0263c-8fb2-11eb-924d-9cd76263cbd0,species,uniflora,Lophactis,,Raf.,,,,,,,,,,,wfo-0000019116,5701159,,
+2e507a90-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Lophalix,,Raf.,,1838,,"Sylva Tellur. 70 1838",,,,,,381687-1,wfo-0000364678,3824254,,
+2e50970a-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Lophalix,,"(Aubl.) Raf.",,1838,,"Sylva Tellur. 70 1838",,,,,,381688-1,wfo-0000364679,3824244,,
+2a896606-8fcc-11eb-924d-9cd76263cbd0,species,blanda,Lophandra,,G.Don,,1834,,"Gen. Hist. 3: 810 1834",,,,,,331095-1,wfo-0000358391,4173165,,
+2a88b012-8fcc-11eb-924d-9cd76263cbd0,species,cubica,Lophandra,,D.Don,,1834,,"Edinburgh New Philos. J. 17: 174 1834",,,,,,331096-1,wfo-0000358385,4173157,,
+2e46cf90-8fcc-11eb-924d-9cd76263cbd0,species,seriphiifolia,Lophandra,,G.Don,,1834,,"Gen. Hist. 3: 810 1834",,,,,,331097-1,wfo-0000364613,4173147,,

@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e837d62e-8fd1-11eb-924d-9cd76263cbd0,genus,Perima,,,,,,,,,,,wfo-4000028774,3233183,
-774b1354-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Perima,,Raf.,1838,"Sylva Tellur. 118 1838",,,,,513078-1,wfo-0000469452,5633747,
-f1ab40a2-8fcb-11eb-924d-9cd76263cbd0,species,welwischii,Perinerion,,Baill.,1888,"Bull. Mens. Soc. Linn. Paris 1: 758 1888",,,,,81041-1,wfo-0000267325,3618246,
-7aeb01cc-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Perinka,,Raf.,1838,"Sylva Tellur. 60 1838",,,,,835021-1,wfo-0000475681,4031879,
-7aeb2e54-8fcc-11eb-924d-9cd76263cbd0,species,reticulata,Perinka,,Raf.,1838,"Sylva Tellur. 60 1838",,,,,835022-1,wfo-0000475682,4031870,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e837d62e-8fd1-11eb-924d-9cd76263cbd0,genus,Perima,,,,,,,,,,,,,,wfo-4000028774,3233183,,
+774b1354-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Perima,,Raf.,,1838,,"Sylva Tellur. 118 1838",,,,,,513078-1,wfo-0000469452,5633747,,
+f1ab40a2-8fcb-11eb-924d-9cd76263cbd0,species,welwischii,Perinerion,,Baill.,,1888,,"Bull. Mens. Soc. Linn. Paris 1: 758 1888",,,,,,81041-1,wfo-0000267325,3618246,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e29f16fa-8fd1-11eb-924d-9cd76263cbd0,genus,Desmothamnus,,,Small,1913,"Shrubs Florida 96, 133. 1913.",,,,,,wfo-4000011224,7328731,
-df831b24-8fcc-11eb-924d-9cd76263cbd0,species,lucidus,Desmothamnus,,"(Lam.) Small",1914,"N. Amer. Fl. 29: 64 1914",,,,,78740-2,wfo-0000642450,2882694,
-df834590-8fcc-11eb-924d-9cd76263cbd0,species,nitidus,Desmothamnus,,"(Bartram ex Marsh) Small",1913,"Shrubs Florida 96 1913",,,,,78741-2,wfo-0000642451,4173523,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e29f16fa-8fd1-11eb-924d-9cd76263cbd0,genus,Desmothamnus,,,Small,,1913,,"Shrubs Florida 96, 133. 1913.",,,,,,,wfo-4000011224,7328731,,
+df831b24-8fcc-11eb-924d-9cd76263cbd0,species,lucidus,Desmothamnus,,"(Lam.) Small",,1914,,"N. Amer. Fl. 29: 64 1914",,,,,,78740-2,wfo-0000642450,2882694,,
+df834590-8fcc-11eb-924d-9cd76263cbd0,species,nitidus,Desmothamnus,,"(Bartram ex Marsh) Small",,1913,,"Shrubs Florida 96 1913",,,,,,78741-2,wfo-0000642451,4173523,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55f00d0-8fd1-11eb-924d-9cd76263cbd0,genus,Killipiodendron,,,Kobuski,1942,"J. Arnold Arbor. 23(2): 231. 1942. (15 Apr 1942)",,,,,,wfo-4000020004,8304232,
-29b95e16-8fcc-11eb-924d-9cd76263cbd0,species,colombianum,Killipiodendron,,Kobuski,1942,"J. Arnold Arbor. 23: 231 1942",,,,,133454-2,wfo-0000357057,3591563,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55f00d0-8fd1-11eb-924d-9cd76263cbd0,genus,Killipiodendron,,,Kobuski,,1942,,"J. Arnold Arbor. 23(2): 231. 1942. (15 Apr 1942)",,,,,,,wfo-4000020004,8304232,,
+29b95e16-8fcc-11eb-924d-9cd76263cbd0,species,colombianum,Killipiodendron,,Kobuski,,1942,,"J. Arnold Arbor. 23: 231 1942",,Q56010552,,,,133454-2,wfo-0000357057,3591563,,

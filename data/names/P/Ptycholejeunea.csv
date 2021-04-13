@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9568b86-8fd1-11eb-924d-9cd76263cbd0,genus,Ptycholejeunea,,,"(Spruce) Stephani",1895,"Bot. Jahrb. Syst. 20: 319. 1895.",,,,,,wfo-4000032121,4922031,
-fe505e44-8fcd-11eb-924d-9cd76263cbd0,species,nietneri,Ptycholejeunea,,Stephani,1896,"Hedwigia 35: 121 1896",,,,,,wfo-0001213353,7493559,
-fd414e46-8fcd-11eb-924d-9cd76263cbd0,species,recondita,Ptycholejeunea,,Stephani,1896,"Hedwigia 35: 122 1896",,,,,,wfo-0001211004,7954845,
-fe331776-8fcd-11eb-924d-9cd76263cbd0,species,striata,Ptycholejeunea,,"(Lehm. & Lindenb.) Steph.",1895,"Pflanzenw. Ost-Afrikas C: 65 1895",,,,fdc21062-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213122,7802621,
-be594144-8fd1-11eb-924d-9cd76263cbd0,species,ditassoides,Ptycholepis,,Griseb.,1857,"Berberid. Amer. Austr. 58 1857",,,,,100755-1,wfo-0001250978,8313048,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9568b86-8fd1-11eb-924d-9cd76263cbd0,genus,Ptycholejeunea,,,"(Spruce) Stephani",,1895,,"Bot. Jahrb. Syst. 20: 319. 1895.",,,,,,,wfo-4000032121,4922031,,
+fe505e44-8fcd-11eb-924d-9cd76263cbd0,species,nietneri,Ptycholejeunea,,Stephani,,1896,,"Hedwigia 35: 121 1896",,,,,,,wfo-0001213353,7493559,,
+fd414e46-8fcd-11eb-924d-9cd76263cbd0,species,recondita,Ptycholejeunea,,Stephani,,1896,,"Hedwigia 35: 122 1896",,,,,,,wfo-0001211004,7954845,,
+fe331776-8fcd-11eb-924d-9cd76263cbd0,species,striata,Ptycholejeunea,,"(Lehm. & Lindenb.) Steph.",,1895,,"Pflanzenw. Ost-Afrikas C: 65 1895",,,,fdc21062-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213122,7802621,,
+be594144-8fd1-11eb-924d-9cd76263cbd0,species,ditassoides,Ptycholepis,,Griseb.,,1857,,"Berberid. Amer. Austr. 58 1857",,,,,,100755-1,wfo-0001250978,8313048,,

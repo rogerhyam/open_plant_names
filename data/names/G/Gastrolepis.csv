@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3eba960-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrolepis,,,Tiegh.,1897,"Bull. Soc. Bot. France 44: 115. 1897.",,,,,28185-1,wfo-4000015376,7314417,
-8ee08d46-8fcc-11eb-924d-9cd76263cbd0,species,alticola,Gastrolepis,,"Munzinger, McPherson & Lowry",2008,"Bot. J. Linn. Soc. 157: 776 2008",,,,,,wfo-0000509289,3597071,
-fdb17c58-8fcc-11eb-924d-9cd76263cbd0,species,austrocaledonica,Gastrolepis,,"(Baill.) R.A.Howard",1940,"J. Arnold Arbor. 21: 481 1940",,,,,434276-1,wfo-0000694895,7446541,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3eba960-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrolepis,,,Tiegh.,,1897,,"Bull. Soc. Bot. France 44: 115. 1897.",,Q55756810,,,,28185-1,wfo-4000015376,7314417,,
+8ee08d46-8fcc-11eb-924d-9cd76263cbd0,species,alticola,Gastrolepis,,"Munzinger, McPherson & Lowry",,2008,,"Bot. J. Linn. Soc. 157: 776 2008",,,,,,,wfo-0000509289,3597071,,
+fdb17c58-8fcc-11eb-924d-9cd76263cbd0,species,austrocaledonica,Gastrolepis,,"(Baill.) R.A.Howard",,1940,,"J. Arnold Arbor. 21: 481 1940",,Q100547577,,,,434276-1,wfo-0000694895,7446541,,

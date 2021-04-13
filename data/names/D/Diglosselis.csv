@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2c54320-8fd1-11eb-924d-9cd76263cbd0,genus,Diglosselis,,,Raf.,1836,"Fl. Tellur. 4: 98. 1836[1838].",,,,,,wfo-4000011705,7313741,
-e24ebe9e-8fcc-11eb-924d-9cd76263cbd0,species,cymbifera,Diglosselis,,Raf.,1838,"Fl. Tellur. 4: 98 1838",,,,,93616-1,wfo-0000647471,3589743,
-e24eda14-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Diglosselis,,Raf.,1838,"Fl. Tellur. 4: 98 1838",,,,,93617-1,wfo-0000647472,3589737,
-e24f1128-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Diglosselis,,Raf.,1838,"Fl. Tellur. 4: 98 1838",,,,,93618-1,wfo-0000647474,,
-8086dd08-8fcd-11eb-924d-9cd76263cbd0,species,serrulatum,Diglossophyllum,,"(Michx.) H.Wendl. ex Salomon",1887,"Palmen 155 1887",,,,,,wfo-0000943422,2735056,
-4906804c-8fb2-11eb-924d-9cd76263cbd0,species,variabilis,Diglossus,,Cass.,1819,"241 1819",,,,,201413-1,wfo-0000019001,3088515,
-e24f2f00-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Diglottis,,"Nees & Mart.",1823,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 11: 170 1823",,,,,80355-2,wfo-0000647475,3831305,
-c8667ff8-8fd1-11eb-924d-9cd76263cbd0,species,latifolia,Diglyphis,,"(Blume) Miq.",,,,,,,,wfo-0001269542,8017485,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2c54320-8fd1-11eb-924d-9cd76263cbd0,genus,Diglosselis,,,Raf.,,1836,,"Fl. Tellur. 4: 98. 1836[1838].",,,,,,,wfo-4000011705,7313741,,
+e24ebe9e-8fcc-11eb-924d-9cd76263cbd0,species,cymbifera,Diglosselis,,Raf.,,1838,,"Fl. Tellur. 4: 98 1838",,,,,,93616-1,wfo-0000647471,3589743,,
+e24eda14-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Diglosselis,,Raf.,,1838,,"Fl. Tellur. 4: 98 1838",,,,,,93617-1,wfo-0000647472,3589737,,
+e24f1128-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Diglosselis,,Raf.,,1838,,"Fl. Tellur. 4: 98 1838",,,,,,93618-1,wfo-0000647474,,,
+8086dd08-8fcd-11eb-924d-9cd76263cbd0,species,serrulatum,Diglossophyllum,,"(Michx.) H.Wendl. ex Salomon",,1887,,"Palmen 155 1887",,,,,,,wfo-0000943422,2735056,,
+4906804c-8fb2-11eb-924d-9cd76263cbd0,species,variabilis,Diglossus,,Cass.,,1819,,"241 1819",,,,,,201413-1,wfo-0000019001,3088515,,
+e24f2f00-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Diglottis,,"Nees & Mart.",,1823,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 11: 170 1823",,,,,,80355-2,wfo-0000647475,3831305,,
+c8667ff8-8fd1-11eb-924d-9cd76263cbd0,species,latifolia,Diglyphis,,"(Blume) Miq.",,,,,,,,,,,wfo-0001269542,8017485,,

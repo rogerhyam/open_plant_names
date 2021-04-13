@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e570cd60-8fd1-11eb-924d-9cd76263cbd0,genus,Krauseola,,,"Pax & K.Hoffm.",1934,"Nat. Pflanzenfam. (ed. 2) 16c: 308. 1934.",,,,,6325-1,wfo-4000020221,7267252,
-d861a9c8-8fd1-11eb-924d-9cd76263cbd0,species,gillettii,Krauseola,,Turrill,1954,"Kew Bull. 1954: 533 1955",,,,,154874-1,wfo-0001292331,3809547,
-d8027c78-8fd1-11eb-924d-9cd76263cbd0,species,mosambicina,Krauseola,,"Pax & Hoffm.",1934,"ed. 2, xvi c. 308 ed 1934",,,,,154875-1,wfo-0001291671,3809540,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e570cd60-8fd1-11eb-924d-9cd76263cbd0,genus,Krauseola,,,"Pax & K.Hoffm.",,1934,,"Nat. Pflanzenfam. (ed. 2) 16c: 308. 1934.",,,,,,6325-1,wfo-4000020221,7267252,,
+d861a9c8-8fd1-11eb-924d-9cd76263cbd0,species,gillettii,Krauseola,,Turrill,,1954,,"Kew Bull. 1954: 533 1955",,Q93621610,,,,154874-1,wfo-0001292331,3809547,,
+d8027c78-8fd1-11eb-924d-9cd76263cbd0,species,mosambicina,Krauseola,,"Pax & Hoffm.",,1934,,"ed. 2, xvi c. 308 ed 1934",,,,,,154875-1,wfo-0001291671,3809540,,

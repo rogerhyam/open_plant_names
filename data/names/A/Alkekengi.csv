@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df172810-8fd1-11eb-924d-9cd76263cbd0,genus,Alkekengi,,,Mill.,,"(L. ) Raf. and (L. ) Raf., Enum. Stirp. Helv. ii. 508 (1742)., 1754.",,,,,330707-2,wfo-4000001218,7299176,
-a45c22c4-8fcd-11eb-924d-9cd76263cbd0,species,fissum,Alkekengi,,Moench,1794,"Moench, Methodus (Moench) 472. 1794 [4 May 1794], 1794.",,,,,,wfo-0001019235,3797086,
-a45c3f52-8fcd-11eb-924d-9cd76263cbd0,species,officinarum,Alkekengi,,Moench,1802,"Moench and Moench, Suppl. Meth. (Moench) 177. 1802 [2 May 1802], 1802.",,,,,,wfo-0001019236,3797084,
-a45c5942-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Alkekengi,,Moench,1794,"Moench et al., Methodus (Moench) 473. 1794 [4 May 1794], 1794.",,,,,,wfo-0001019237,3797080,
-a45c76ac-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Alkekengi,,Moench,1794,"Moench et al., Methodus (Moench) 473. 1794 [4 May 1794], 1794.",,,,,,wfo-0001019238,3797074,
-a45c931c-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Alkekengi,,Moench,1802,"Moench and Moench, Suppl. Meth. (Moench) 178. 1802 [2 May 1802], 1802.",,,,,,wfo-0001019239,3797067,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df172810-8fd1-11eb-924d-9cd76263cbd0,genus,Alkekengi,,,Mill.,,,,"(L. ) Raf. and (L. ) Raf., Enum. Stirp. Helv. ii. 508 (1742)., 1754.",,,,,,330707-2,wfo-4000001218,7299176,,
+a45c22c4-8fcd-11eb-924d-9cd76263cbd0,species,fissum,Alkekengi,,Moench,,1794,,"Moench, Methodus (Moench) 472. 1794 [4 May 1794], 1794.",,,,,,,wfo-0001019235,3797086,,
+a45c3f52-8fcd-11eb-924d-9cd76263cbd0,species,officinarum,Alkekengi,,Moench,,1802,,"Moench and Moench, Suppl. Meth. (Moench) 177. 1802 [2 May 1802], 1802.",,,,,,,wfo-0001019236,3797084,,
+a45c5942-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Alkekengi,,Moench,,1794,,"Moench et al., Methodus (Moench) 473. 1794 [4 May 1794], 1794.",,,,,,,wfo-0001019237,3797080,,
+a45c76ac-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Alkekengi,,Moench,,1794,,"Moench et al., Methodus (Moench) 473. 1794 [4 May 1794], 1794.",,,,,,,wfo-0001019238,3797074,,
+a45c931c-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Alkekengi,,Moench,,1802,,"Moench and Moench, Suppl. Meth. (Moench) 178. 1802 [2 May 1802], 1802.",,,,,,,wfo-0001019239,3797067,,

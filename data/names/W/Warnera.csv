@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec03d104-8fd1-11eb-924d-9cd76263cbd0,genus,Warnera,,,Mill.,1768,"Gard. Dict. (ed. 8) 1768.",,,,,,wfo-4000040537,7276732,
-5cc87936-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Warnera,,Mill.,1768,"Gard. Dict. ed. 8 s.p. 1768",,,,,715210-1,wfo-0000427097,3921663,
-5cc852b2-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Warnera,,Raf.,1828,"Med. Fl. 1: 253 1828",,,,,715211-1,wfo-0000427096,3921657,
-5cc8a19a-8fcc-11eb-924d-9cd76263cbd0,species,tinctoria,Warnera,,Raf.,1828,"Med. Fl. 1: 253 1828",,,,,715212-1,wfo-0000427098,3921648,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec03d104-8fd1-11eb-924d-9cd76263cbd0,genus,Warnera,,,Mill.,,1768,,"Gard. Dict. (ed. 8) 1768.",,,,,,,wfo-4000040537,7276732,,
+5cc87936-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Warnera,,Mill.,,1768,,"Gard. Dict. ed. 8 s.p. 1768",,,,,,715210-1,wfo-0000427097,3921663,,
+5cc852b2-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Warnera,,Raf.,,1828,,"Med. Fl. 1: 253 1828",,,,,,715211-1,wfo-0000427096,3921657,,
+5cc8a19a-8fcc-11eb-924d-9cd76263cbd0,species,tinctoria,Warnera,,Raf.,,1828,,"Med. Fl. 1: 253 1828",,,,,,715212-1,wfo-0000427098,3921648,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e41328b4-8fd1-11eb-924d-9cd76263cbd0,genus,Gluema,,,"Aubrév. & Pellegr.",1935,"Bull. Soc. Bot. France 81: 797. 1935.",,,,,36744-1,wfo-4000015831,2886303,
-8ebc818e-8fcd-11eb-924d-9cd76263cbd0,species,ivorensis,Gluema,,"Aubrév. & Pellegr.",1934,"Bull. Soc. Bot. France 81: 798 1934 publ. 1935",,,,,786885-1,wfo-0000973999,2886304,
-35b93640-8fcd-11eb-924d-9cd76263cbd0,species,korupensis,Gluema,,Burgt,2006,"Kew Bull. 61: 79 2006",,,,,,wfo-0000805937,2886305,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e41328b4-8fd1-11eb-924d-9cd76263cbd0,genus,Gluema,,,"Aubrév. & Pellegr.",,1935,,"Bull. Soc. Bot. France 81: 797. 1935.",,Q55757313,,,,36744-1,wfo-4000015831,2886303,,
+8ebc818e-8fcd-11eb-924d-9cd76263cbd0,species,ivorensis,Gluema,,"Aubrév. & Pellegr.",,1934,,"Bull. Soc. Bot. France 81: 798 1934 publ. 1935",,Q55757313,,,,786885-1,wfo-0000973999,2886304,,
+35b93640-8fcd-11eb-924d-9cd76263cbd0,species,korupensis,Gluema,,Burgt,,2006,,"Kew Bull. 61: 79 2006",,,,,,,wfo-0000805937,2886305,,

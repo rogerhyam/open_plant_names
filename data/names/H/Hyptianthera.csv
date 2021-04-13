@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5090108-8fd1-11eb-924d-9cd76263cbd0,genus,Hyptianthera,,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 1: 399. 1834.",,,,,34755-1,wfo-4000018894,2905131,
-26093dd8-8fca-11eb-924d-9cd76263cbd0,species,bracteata,Hyptianthera,,Craib,1911,"Bull. Misc. Inform. Kew 1911: 393 1911",,,,,753611-1,wfo-0000216409,2905137,
-262508f6-8fca-11eb-924d-9cd76263cbd0,species,macrocarpa,Hyptianthera,,"(Bedd.) Thwaites",1859,"Enum. Pl. Zeyl. 157 1859",,,,,753612-1,wfo-0000216411,2923915,
-2632a8a8-8fca-11eb-924d-9cd76263cbd0,species,rhamnoides,Hyptianthera,,"Zoll. & Moritzi",1846,"Syst. Verz. 60 1846",,,,,753613-1,wfo-0000216412,2917561,
-26405606-8fca-11eb-924d-9cd76263cbd0,species,stricta,Hyptianthera,,"(Roxb. ex Schult.) Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 399 1834",,,,,753615-1,wfo-0000216413,2905132,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5090108-8fd1-11eb-924d-9cd76263cbd0,genus,Hyptianthera,,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 1: 399. 1834.",,,,,,34755-1,wfo-4000018894,2905131,,
+26093dd8-8fca-11eb-924d-9cd76263cbd0,species,bracteata,Hyptianthera,,Craib,,1911,,"Bull. Misc. Inform. Kew 1911: 393 1911",,Q55783897,,,,753611-1,wfo-0000216409,2905137,,
+262508f6-8fca-11eb-924d-9cd76263cbd0,species,macrocarpa,Hyptianthera,,"(Bedd.) Thwaites",,1859,,"Enum. Pl. Zeyl. 157 1859",,Q96016554,,,,753612-1,wfo-0000216411,2923915,,
+2632a8a8-8fca-11eb-924d-9cd76263cbd0,species,rhamnoides,Hyptianthera,,"Zoll. & Moritzi",,1846,,"Syst. Verz. 60 1846",,,,,,753613-1,wfo-0000216412,2917561,,
+26405606-8fca-11eb-924d-9cd76263cbd0,species,stricta,Hyptianthera,,"(Roxb. ex Schult.) Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 399 1834",,,,,,753615-1,wfo-0000216413,2905132,,

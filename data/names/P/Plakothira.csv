@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a1c61a-8fd1-11eb-924d-9cd76263cbd0,genus,Plakothira,,,Florence,1985,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 7(3): 239. 1985[1986].",,,,,,wfo-4000030022,7289820,
-7551a7f2-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Plakothira,,J.Florence,1985,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 7: 240 1985 publ. 1986",,,,,,wfo-0000466219,4021770,
-755188d0-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Plakothira,,J.Florence,1997,"Allertonia 7: 239 1997",,,,,994892-1,wfo-0000466218,4021765,
-75516756-8fcc-11eb-924d-9cd76263cbd0,species,perlmanii,Plakothira,,J.Florence,1997,"Allertonia 7: 240 1997",,,,,994893-1,wfo-0000466217,4021761,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a1c61a-8fd1-11eb-924d-9cd76263cbd0,genus,Plakothira,,,Florence,,1985,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 7(3): 239. 1985[1986].",,,,,,,wfo-4000030022,7289820,,
+7551a7f2-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Plakothira,,J.Florence,,1985,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 7: 240 1985 publ. 1986",,,,,,,wfo-0000466219,4021770,,
+755188d0-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Plakothira,,J.Florence,,1997,,"Allertonia 7: 239 1997",,Q91587630,,,,994892-1,wfo-0000466218,4021765,,
+75516756-8fcc-11eb-924d-9cd76263cbd0,species,perlmanii,Plakothira,,J.Florence,,1997,,"Allertonia 7: 240 1997",,Q91587630,,,,994893-1,wfo-0000466217,4021761,,

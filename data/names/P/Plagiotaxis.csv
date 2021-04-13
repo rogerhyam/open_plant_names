@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a1220a-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiotaxis,,,"Wall. ex Kuntze",1891,"Revis. Gen. Pl. 1: 110. 1891. (5 Nov 1891)",,,,,,wfo-4000030010,8356521,
-79d795b6-8fcc-11eb-924d-9cd76263cbd0,species,chickrassa,Plagiotaxis,,Wall.,,"Numer. List 1269 1829",,,,,579119-1,wfo-0000473716,3852279,
-79d7b24e-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Plagiotaxis,,Wall.,,"Numer. List 1271 1829",,,,,579120-1,wfo-0000473717,3852269,
-79d7cf68-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Plagiotaxis,,Wall.,,"Numer. List 1270 1829",,,,,579121-1,wfo-0000473718,3852259,
-4228838c-8fcc-11eb-924d-9cd76263cbd0,species,fallax,Plagiotheca,,Chiov.,1935,"Racc. Bot. Miss. Consol. Kenya 96 1935",,,,,53104-1,wfo-0000393489,3775360,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a1220a-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiotaxis,,,"Wall. ex Kuntze",,1891,,"Revis. Gen. Pl. 1: 110. 1891. (5 Nov 1891)",,,,,,,wfo-4000030010,8356521,,
+79d795b6-8fcc-11eb-924d-9cd76263cbd0,species,chickrassa,Plagiotaxis,,Wall.,,,,"Numer. List 1269 1829",,,,,,579119-1,wfo-0000473716,3852279,,
+79d7b24e-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Plagiotaxis,,Wall.,,,,"Numer. List 1271 1829",,,,,,579120-1,wfo-0000473717,3852269,,
+79d7cf68-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Plagiotaxis,,Wall.,,,,"Numer. List 1270 1829",,,,,,579121-1,wfo-0000473718,3852259,,
+4228838c-8fcc-11eb-924d-9cd76263cbd0,species,fallax,Plagiotheca,,Chiov.,,1935,,"Racc. Bot. Miss. Consol. Kenya 96 1935",,,,,,53104-1,wfo-0000393489,3775360,,

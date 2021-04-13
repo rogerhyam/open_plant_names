@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e59a38bc-8fd1-11eb-924d-9cd76263cbd0,genus,Latace,,,Phil.,1889,"Gartenflora 38: 369. 1889.",,,,,294734-2,wfo-4000020711,7326965,
-f891a5c2-8fcc-11eb-924d-9cd76263cbd0,species,volkmannii,Latace,,Phil.,1889,"Gartenflora 38: 369 1889",,,,,,wfo-0000685813,2855547,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e59a38bc-8fd1-11eb-924d-9cd76263cbd0,genus,Latace,,,Phil.,,1889,,"Gartenflora 38: 369. 1889.",,,,,,294734-2,wfo-4000020711,7326965,,
+f891a5c2-8fcc-11eb-924d-9cd76263cbd0,species,volkmannii,Latace,,Phil.,,1889,,"Gartenflora 38: 369 1889",,,,,,,wfo-0000685813,2855547,,

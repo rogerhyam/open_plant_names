@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff1153e-8fd1-11eb-924d-9cd76263cbd0,genus,Aulandra,,,H.J.Lam,1927,"Bull. Jard. Bot. Buitenzorg, sér. 3, 8: 384, 415. 1927.",,,,,36658-1,wfo-4000003669,2888149,
-0501f600-8fcc-11eb-924d-9cd76263cbd0,species,beccarii,Aulandra,,"(Pierre ex Dubard) P.Royen",1958,"Blumea, Suppl. 4: 263 1958",,,,,785777-1,wfo-0000298038,2888151,
-05039d02-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Aulandra,,H.J.Lam,,"Hooker's Icon. Pl. 34: t. 3360 1938",,,,,785778-1,wfo-0000298048,2888153,
-05050f48-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Aulandra,,H.J.Lam,1927,"Bull. Jard. Bot. Buitenzorg III, 8: 415 1927",,,,,785779-1,wfo-0000298058,2888150,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff1153e-8fd1-11eb-924d-9cd76263cbd0,genus,Aulandra,,,H.J.Lam,,1927,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 8: 384, 415. 1927.",,,,,,36658-1,wfo-4000003669,2888149,,
+0501f600-8fcc-11eb-924d-9cd76263cbd0,species,beccarii,Aulandra,,"(Pierre ex Dubard) P.Royen",,1958,,"Blumea, Suppl. 4: 263 1958",,,,,,785777-1,wfo-0000298038,2888151,,
+05039d02-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Aulandra,,H.J.Lam,,,,"Hooker's Icon. Pl. 34: t. 3360 1938",,,,,,785778-1,wfo-0000298048,2888153,,
+05050f48-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Aulandra,,H.J.Lam,,1927,,"Bull. Jard. Bot. Buitenzorg III, 8: 415 1927",,,,,,785779-1,wfo-0000298058,2888150,,

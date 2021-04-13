@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea0ae07c-8fd1-11eb-924d-9cd76263cbd0,genus,Schiekia,,,Meisn.,1842,"Pl. Vasc. Gen. 2(12): 300. 1842. (17-20 Aug 1842)",,,,,19495-1,wfo-4000034325,2765912,
-987ce570-8fcc-11eb-924d-9cd76263cbd0,species,flavescens,Schiekia,,Maury,1889,"J. Bot. (Morot) 3: 269 1889",,,,,1009241-1,wfo-0000525790,2765919,
-987d91d2-8fcc-11eb-924d-9cd76263cbd0,species,orinocensis,Schiekia,,"(Kunth) Meisn.",1840,"Pl. Vasc. Gen. 300 1840",,,,,,wfo-0000525794,2765913,
-987df398-8fcc-11eb-924d-9cd76263cbd0,subspecies,savannarum,Schiekia,orinocensis,"Maguire & Wurdack",1957,"Mem. New York Bot. Gard. 9: 320 1957",,,,,229135-2,wfo-0000525797,2765918,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea0ae07c-8fd1-11eb-924d-9cd76263cbd0,genus,Schiekia,,,Meisn.,,1842,,"Pl. Vasc. Gen. 2(12): 300. 1842. (17-20 Aug 1842)",,,,,,19495-1,wfo-4000034325,2765912,,
+987ce570-8fcc-11eb-924d-9cd76263cbd0,species,flavescens,Schiekia,,Maury,,1889,,"J. Bot. (Morot) 3: 269 1889",,,,,,1009241-1,wfo-0000525790,2765919,,
+987d91d2-8fcc-11eb-924d-9cd76263cbd0,species,orinocensis,Schiekia,,"(Kunth) Meisn.",,1840,,"Pl. Vasc. Gen. 300 1840",,,,,,,wfo-0000525794,2765913,,
+987df398-8fcc-11eb-924d-9cd76263cbd0,subspecies,savannarum,Schiekia,orinocensis,"Maguire & Wurdack",,1957,,"Mem. New York Bot. Gard. 9: 320 1957",,,,,,229135-2,wfo-0000525797,2765918,,

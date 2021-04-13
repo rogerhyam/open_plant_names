@@ -1,11 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9272be8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomarsupidium,,,Herzog,1953,"Svensk Bot. Tidskr. 47: 42. 1953.",,,,,,wfo-4000031591,4888389,
-fed150c6-8fcd-11eb-924d-9cd76263cbd0,species,aureocinctum,Pseudomarsupidium,,"(R.M.Schust.) J.J.Engel",2007,"Novon 17: 312 2007",,,,,,wfo-0001214376,6316987,
-fed16e58-8fcd-11eb-924d-9cd76263cbd0,species,crossii,Pseudomarsupidium,,"(Spruce) J.J.Engel",2007,"Novon 17: 312 2007",,,,,,wfo-0001214377,6316989,
-fdb1d77e-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Pseudomarsupidium,,"(Hook.) Grolle",1963,"Trans. Brit. Bryol. Soc. 4: 443 1963",,,,,,wfo-0001211980,5837545,
-fc297ea4-8fcb-11eb-924d-9cd76263cbd0,species,chloroleuca,Pseudomaxillaria,,"(Barb.Rodr.) Hoehne",1947,"Arq. Bot. Estado São Paulo n.s., f.m., 2: 71 1947",,,,,211474-2,wfo-0000284075,2826632,
-fc29ac4e-8fcb-11eb-924d-9cd76263cbd0,species,parviflora,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger",1977,"Bot. Jahrb. Syst. 97: 555 1977",,,,,211475-2,wfo-0000284076,2826639,
-fc29d07a-8fcb-11eb-924d-9cd76263cbd0,species,pendula,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger",1977,"Bot. Jahrb. Syst. 97: 556 1977",,,,0995b72e-8fcc-11eb-924d-9cd76263cbd0,211476-2,wfo-0000284077,2826324,
-fc29eea2-8fcb-11eb-924d-9cd76263cbd0,species,rhomboglossa,Pseudomaxillaria,,"(Schltr.) Brieger",1977,"Bot. Jahrb. Syst. 97: 556 1977",,,,,211477-2,wfo-0000284078,3653949,
-fc2a095a-8fcb-11eb-924d-9cd76263cbd0,species,vestita,Pseudomaxillaria,,"(Sw.) Brieger",1977,"Bot. Jahrb. Syst. 97: 553 1977",,,,,211478-2,wfo-0000284079,2826633,
-fc2a252a-8fcb-11eb-924d-9cd76263cbd0,species,virescens,Pseudomaxillaria,,"(Schltr.) Brieger",1977,"Bot. Jahrb. Syst. 97: 556 1977",,,,,211479-2,wfo-0000284080,3653946,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9272be8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomarsupidium,,,Herzog,,1953,,"Svensk Bot. Tidskr. 47: 42. 1953.",,,,,,,wfo-4000031591,4888389,,
+fed150c6-8fcd-11eb-924d-9cd76263cbd0,species,aureocinctum,Pseudomarsupidium,,"(R.M.Schust.) J.J.Engel",,2007,,"Novon 17: 312 2007",,,,,,,wfo-0001214376,6316987,,
+fed16e58-8fcd-11eb-924d-9cd76263cbd0,species,crossii,Pseudomarsupidium,,"(Spruce) J.J.Engel",,2007,,"Novon 17: 312 2007",,,,,,,wfo-0001214377,6316989,,
+fdb1d77e-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Pseudomarsupidium,,"(Hook.) Grolle",,1963,,"Trans. Brit. Bryol. Soc. 4: 443 1963",,,,,,,wfo-0001211980,5837545,,

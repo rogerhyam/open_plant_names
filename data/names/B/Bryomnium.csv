@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0e1bc00-8fd1-11eb-924d-9cd76263cbd0,genus,Bryomnium,,,Cardot,1909,"Rev. Bryol. Lichénol. 36: 19. 1909.",,,,,,wfo-4000005588,4893722,
-e2d25a82-8fcd-11eb-924d-9cd76263cbd0,species,solitarium,Bryomnium,,Cardot,1909,"Rev. Bryol. 36: 19 1909",,,,,,wfo-0001155932,7381675,
-b60bd8bc-8fcc-11eb-924d-9cd76263cbd0,species,rupifraga,Bryomorpha,,"Kar. & Kir.",1842,"Bull. Soc. Imp. Naturalistes Moscou 15: 172 1842",,,,,151929-1,wfo-0000572917,3815450,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0e1bc00-8fd1-11eb-924d-9cd76263cbd0,genus,Bryomnium,,,Cardot,,1909,,"Rev. Bryol. Lichénol. 36: 19. 1909.",,,,,,,wfo-4000005588,4893722,,
+e2d25a82-8fcd-11eb-924d-9cd76263cbd0,species,solitarium,Bryomnium,,Cardot,,1909,,"Rev. Bryol. 36: 19 1909",,,,,,,wfo-0001155932,7381675,,
+b60bd8bc-8fcc-11eb-924d-9cd76263cbd0,species,rupifraga,Bryomorpha,,"Kar. & Kir.",,1842,,"Bull. Soc. Imp. Naturalistes Moscou 15: 172 1842",,,,,,151929-1,wfo-0000572917,3815450,,

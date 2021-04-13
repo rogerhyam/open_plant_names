@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0197830-8fd1-11eb-924d-9cd76263cbd0,genus,Baseonema,,,"Schltr. & Rendle",1896,"J. Bot. 34: 97, t. 36B. 1896.",,,,,3226-1,wfo-4000004172,7311667,
-ae8ba374-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Baseonema,,Choux,2003,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,wfo-0000561037,3571040,
-ae8bc098-8fcc-11eb-924d-9cd76263cbd0,species,camptocarpoides,Baseonema,,"(Const. & Gallaud) Choux",2004,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2004 1913",,,,,,wfo-0000561038,3571033,
-ae8c754c-8fcc-11eb-924d-9cd76263cbd0,species,gregorii,Baseonema,,"Schltr. & Rendle",1896,"J. Bot. 34: 97 1896",,,,,94860-1,wfo-0000561039,3571028,
-ae8ccec0-8fcc-11eb-924d-9cd76263cbd0,species,lineare,Baseonema,,Choux,2003,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,wfo-0000561040,3571018,
-ae8cf27e-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Baseonema,,Choux,2003,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,wfo-0000561041,3571012,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0197830-8fd1-11eb-924d-9cd76263cbd0,genus,Baseonema,,,"Schltr. & Rendle",,1896,,"J. Bot. 34: 97, t. 36B. 1896.",,,,,,3226-1,wfo-4000004172,7311667,,
+ae8ba374-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Baseonema,,Choux,,2003,,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,,wfo-0000561037,3571040,,
+ae8bc098-8fcc-11eb-924d-9cd76263cbd0,species,camptocarpoides,Baseonema,,"(Const. & Gallaud) Choux",,2004,,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2004 1913",,,,,,,wfo-0000561038,3571033,,
+ae8c754c-8fcc-11eb-924d-9cd76263cbd0,species,gregorii,Baseonema,,"Schltr. & Rendle",,1896,,"J. Bot. 34: 97 1896",,,,,,94860-1,wfo-0000561039,3571028,,
+ae8ccec0-8fcc-11eb-924d-9cd76263cbd0,species,lineare,Baseonema,,Choux,,2003,,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,,wfo-0000561040,3571018,,
+ae8cf27e-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Baseonema,,Choux,,2003,,"Compt. Rend. Hebd. Séances Acad. Sci. 156: 2003 1913",,,,,,,wfo-0000561041,3571012,,

@@ -1,10 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6196808-8fd1-11eb-924d-9cd76263cbd0,genus,Loxonia,,,Jack,1823,"Trans. Linn. Soc. London 14: 40. 1823.",,,,,17103-1,wfo-4000022345,6365725,
-2e55a79a-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Loxonia,,R.Br.,1840,"Pl. Jav. Rar. 105 1840",,,,,,wfo-0000364715,3823977,
-2e55c2f2-8fcc-11eb-924d-9cd76263cbd0,species,alata,Loxonia,,Wall.,1829,"Numer. List 809 1829",,,,,381709-1,wfo-0000364716,3823969,
-2e55e0b6-8fcc-11eb-924d-9cd76263cbd0,species,burttiana,Loxonia,,A.Weber,1977,"Pl. Syst. Evol. 127: 209 1977",,,,,381710-1,wfo-0000364717,3823960,
-ae409270-8fcd-11eb-924d-9cd76263cbd0,species,decurrens,Loxonia,,Blume,,,,,,,,wfo-0001039733,3823950,
-2e556f8c-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Loxonia,,Jack,1823,"Trans. Linn. Soc. London 14: 40 1823",,,,,381712-1,wfo-0000364713,3823942,
-2e551b22-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Loxonia,,Jack,1823,"Trans. Linn. Soc. London 14: 41 1823",,,,,381713-1,wfo-0000364710,3825528,
-2e53149e-8fcc-11eb-924d-9cd76263cbd0,species,racemosum,Loxophyllum,,Blume,1826,"Bijdr. 751 1826",,,,,381714-1,wfo-0000364697,5592174,
-abc48084-8fd1-11eb-924d-9cd76263cbd0,species,stenophylla,Loxoptera,,"(Muschl.) O.E.Schulz",1933,"Bot. Jahrb. Syst. 66: 93 1933",,,,,144115-2,wfo-0001216853,3041481,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6196808-8fd1-11eb-924d-9cd76263cbd0,genus,Loxonia,,,Jack,,1823,,"Trans. Linn. Soc. London 14: 40. 1823.",,Q55758785,,,,17103-1,wfo-4000022345,6365725,,
+2e55a79a-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Loxonia,,R.Br.,,1840,,"Pl. Jav. Rar. 105 1840",,,,,,,wfo-0000364715,3823977,,
+2e55c2f2-8fcc-11eb-924d-9cd76263cbd0,species,alata,Loxonia,,Wall.,,1829,,"Numer. List 809 1829",,,,,,381709-1,wfo-0000364716,3823969,,
+2e55e0b6-8fcc-11eb-924d-9cd76263cbd0,species,burttiana,Loxonia,,A.Weber,,1977,,"Pl. Syst. Evol. 127: 209 1977",,Q55808576,,,,381710-1,wfo-0000364717,3823960,,
+ae409270-8fcd-11eb-924d-9cd76263cbd0,species,decurrens,Loxonia,,Blume,,,,,,,,,,,wfo-0001039733,3823950,,
+2e556f8c-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Loxonia,,Jack,,1823,,"Trans. Linn. Soc. London 14: 40 1823",,Q55758785,,,,381712-1,wfo-0000364713,3823942,,
+2e551b22-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Loxonia,,Jack,,1823,,"Trans. Linn. Soc. London 14: 41 1823",,Q55758785,,,,381713-1,wfo-0000364710,3825528,,

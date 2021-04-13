@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9aa0de2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalocyclus,,,Schwantes,1928,"Gartenwelt 32: 599. 1928.",,,,,,wfo-4000033084,7329320,
-48ae7fae-8fcc-11eb-924d-9cd76263cbd0,species,herrei,Rhopalocyclus,,Schwantes,1928,"Gartenwelt 32: 599 1928",,,,,364166-1,wfo-0000401197,3705076,
-48ad3cfc-8fcc-11eb-924d-9cd76263cbd0,species,nelii,Rhopalocyclus,,Schwantes,1928,"Gartenwelt 32: 599 1928",,,,,364167-1,wfo-0000401188,3705069,
-48ae3f30-8fcc-11eb-924d-9cd76263cbd0,species,weigangianus,Rhopalocyclus,,"Dinter & Schwantes",1928,"Gartenwelt 32: 599 1928",,,,,364168-1,wfo-0000401195,3705061,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9aa0de2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalocyclus,,,Schwantes,,1928,,"Gartenwelt 32: 599. 1928.",,,,,,,wfo-4000033084,7329320,,
+48ae7fae-8fcc-11eb-924d-9cd76263cbd0,species,herrei,Rhopalocyclus,,Schwantes,,1928,,"Gartenwelt 32: 599 1928",,,,,,364166-1,wfo-0000401197,3705076,,
+48ad3cfc-8fcc-11eb-924d-9cd76263cbd0,species,nelii,Rhopalocyclus,,Schwantes,,1928,,"Gartenwelt 32: 599 1928",,,,,,364167-1,wfo-0000401188,3705069,,
+48ae3f30-8fcc-11eb-924d-9cd76263cbd0,species,weigangianus,Rhopalocyclus,,"Dinter & Schwantes",,1928,,"Gartenwelt 32: 599 1928",,,,,,364168-1,wfo-0000401195,3705061,,

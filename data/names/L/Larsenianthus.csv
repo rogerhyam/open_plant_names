@@ -1,9 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e592d9f0-8fd1-11eb-924d-9cd76263cbd0,genus,Larsenianthus,,,"W.J.Kress & Mood",,,,,,,77107682-1,wfo-4000020619,4897258,
-734d85d8-8fcd-11eb-924d-9cd76263cbd0,species,arunachalensis,Larsenianthus,,"M.Sabu, Sanoj & Rajesh Kumar",2010,"PhytoKeys 1: 28 2010",,,,,77107686-1,wfo-0000918013,5827205,
-734dbdc8-8fcd-11eb-924d-9cd76263cbd0,species,assamensis,Larsenianthus,,"S.Dey, Mood & S.Choudhury",2010,"PhytoKeys 1: 26 2010",,,,,77107685-1,wfo-0000918015,5827203,
-734da28e-8fcd-11eb-924d-9cd76263cbd0,species,careyanus,Larsenianthus,,"(Benth.) W.J.Kress & Mood",2010,"PhytoKeys 1: 24 2010",,,,,77107684-1,wfo-0000918014,5827202,
-734d4c58-8fcd-11eb-924d-9cd76263cbd0,species,wardianus,Larsenianthus,,"W.J.Kress, Thet Htun & Bordelon",2010,"PhytoKeys 1: 23 2010",,,,,77107683-1,wfo-0000918011,5827204,
-2c22d1b4-8fcc-11eb-924d-9cd76263cbd0,species,ciliatus,Larysacanthus,,Oerst.,1854,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1854: 123 1855",,,,,51923-1,wfo-0000361089,3777590,
-6e24a3b6-8fcd-11eb-924d-9cd76263cbd0,species,larzacensis,,,"(H.Kurze & O.Kurze) P.Delforge",2009,"Naturalistes Belges 90: 31 2009",,,,8c11f0e0-8fcd-11eb-924d-9cd76263cbd0,77103180-1,wfo-0000911385,,
-8c11f0e0-8fcd-11eb-924d-9cd76263cbd0,species,larzacensis,,,"H.Kurze & O.Kurze",1990,"Mitt. Arbeitskreis Heimische Orchid. Baden-Württemberg 22: 742 1990",,,,,958434-1,wfo-0000968817,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e592d9f0-8fd1-11eb-924d-9cd76263cbd0,genus,Larsenianthus,,,"W.J.Kress & Mood",,,,,,Q21128543,,,,77107682-1,wfo-4000020619,4897258,,
+734d85d8-8fcd-11eb-924d-9cd76263cbd0,species,arunachalensis,Larsenianthus,,"M.Sabu, Sanoj & Rajesh Kumar",,2010,,"PhytoKeys 1: 28 2010",,Q21128543,,,,77107686-1,wfo-0000918013,5827205,,
+734dbdc8-8fcd-11eb-924d-9cd76263cbd0,species,assamensis,Larsenianthus,,"S.Dey, Mood & S.Choudhury",,2010,,"PhytoKeys 1: 26 2010",,Q21128543,,,,77107685-1,wfo-0000918015,5827203,,
+734da28e-8fcd-11eb-924d-9cd76263cbd0,species,careyanus,Larsenianthus,,"(Benth.) W.J.Kress & Mood",,2010,,"PhytoKeys 1: 24 2010",,Q21128543,,,,77107684-1,wfo-0000918014,5827202,,
+734d4c58-8fcd-11eb-924d-9cd76263cbd0,species,wardianus,Larsenianthus,,"W.J.Kress, Thet Htun & Bordelon",,2010,,"PhytoKeys 1: 23 2010",,Q21128543,,,,77107683-1,wfo-0000918011,5827204,,

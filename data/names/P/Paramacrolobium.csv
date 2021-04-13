@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f9e2ba-8fd1-11eb-924d-9cd76263cbd0,genus,Paramacrolobium,,,,,,,,,,,wfo-4000028074,2962898,
-35bd8bfe-8fc4-11eb-924d-9cd76263cbd0,species,coeruleum,Paramacrolobium,,"(Taub.) Leonard",,,,,,,,wfo-0000186980,2962899,
-b63640a6-8fcd-11eb-924d-9cd76263cbd0,species,coeruleum,Paramacrolobium,,"(Taub.) J.Léonard",1954,"Bull. Jard. Bot. État Brux. 24: 348 1954",,,,,512107-1,wfo-0001057771,2962899,
-ba6bb8a0-8fd1-11eb-924d-9cd76263cbd0,species,megaphylla,Paramammea,,J.-F.Leroy,,"Compt. Rend. Hebd. Seances Acad. Sci., Ser. D., Sci. Nat. 284(16): 1524 1977",,,,,928464-1,wfo-0001243734,3715205,
-effba814-8fcb-11eb-924d-9cd76263cbd0,species,aromatica,Paramanglietia,,"(Dandy) Hu & W.C.Cheng",1951,"Acta Phytotax. Sin. 1: 256 1951",,,,de64a902-8fcb-11eb-924d-9cd76263cbd0,555048-1,wfo-0000264458,3153411,
-effbce84-8fcb-11eb-924d-9cd76263cbd0,species,microcarpa,Paramanglietia,,H.T.Chang,1961,"Acta Sci. Nat. Univ. Sunyatseni 1961: 55 1961",,,,,555049-1,wfo-0000264459,3153736,
-2a1e5234-8fcd-11eb-924d-9cd76263cbd0,species,grosoudryana,Paramansoa,,Baill.,1888,"Hist. Pl. 10: 27 1888",,,,,,wfo-0000780705,7612787,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f9e2ba-8fd1-11eb-924d-9cd76263cbd0,genus,Paramacrolobium,,,,,,,,,,,,,,wfo-4000028074,2962898,,
+b63640a6-8fcd-11eb-924d-9cd76263cbd0,species,coeruleum,Paramacrolobium,,"(Taub.) J.Léonard",,1954,,"Bull. Jard. Bot. État Brux. 24: 348 1954",,Q55775889,,,,512107-1,wfo-0001057771,2962899,,
+35bd8bfe-8fc4-11eb-924d-9cd76263cbd0,species,coeruleum,Paramacrolobium,,"(Taub.) Leonard",,,,,,,,,,,wfo-0000186980,2962899,,
+ba6bb8a0-8fd1-11eb-924d-9cd76263cbd0,species,megaphylla,Paramammea,,J.-F.Leroy,,,,"Compt. Rend. Hebd. Seances Acad. Sci., Ser. D., Sci. Nat. 284(16): 1524 1977",,,,,,928464-1,wfo-0001243734,3715205,,
+effba814-8fcb-11eb-924d-9cd76263cbd0,species,aromatica,Paramanglietia,,"(Dandy) Hu & W.C.Cheng",,1951,,"Acta Phytotax. Sin. 1: 256 1951",,,,de64a902-8fcb-11eb-924d-9cd76263cbd0,,555048-1,wfo-0000264458,3153411,,
+effbce84-8fcb-11eb-924d-9cd76263cbd0,species,microcarpa,Paramanglietia,,H.T.Chang,,1961,,"Acta Sci. Nat. Univ. Sunyatseni 1961: 55 1961",,,,,,555049-1,wfo-0000264459,3153736,,
+2a1e5234-8fcd-11eb-924d-9cd76263cbd0,species,grosoudryana,Paramansoa,,Baill.,,1888,,"Hist. Pl. 10: 27 1888",,,,,,,wfo-0000780705,7612787,,

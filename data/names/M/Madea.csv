@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6429d7c-8fd1-11eb-924d-9cd76263cbd0,genus,Madea,,,,,,,,,,,wfo-4000022824,7337710,
-68679ef6-8fb9-11eb-924d-9cd76263cbd0,species,glauca,Madea,,"Sol. ex DC.",1836,"Prodr. (DC.) 5: 301 1836",,,,,231595-1,wfo-0000118112,4235271,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6429d7c-8fd1-11eb-924d-9cd76263cbd0,genus,Madea,,,,,,,,,,,,,,wfo-4000022824,7337710,,
+68679ef6-8fb9-11eb-924d-9cd76263cbd0,species,glauca,Madea,,"Sol. ex DC.",,1836,,"Prodr. (DC.) 5: 301 1836",,,,,,231595-1,wfo-0000118112,4235271,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b7fb42-8fd1-11eb-924d-9cd76263cbd0,genus,Plesiatropha,,,"Pierre ex Hutch.",1912,"Fl. Trop. Afr. 6(1.5): 799. 1912.",,,,,,wfo-4000030284,3054716,
-35ecab1a-8fcd-11eb-924d-9cd76263cbd0,species,carpinifolia,Plesiatropha,,"(Pax) Breteler",2005,"Adansonia III, 27: 329 2005",,,,d0abb22a-8fca-11eb-924d-9cd76263cbd0,77071337-1,wfo-0000806361,3054719,
-35ecc6cc-8fcd-11eb-924d-9cd76263cbd0,variety,strigosa,Plesiatropha,carpinifolia,"(Radcl.-Sm.) Breteler",2005,"Adansonia III, 27: 329 2005",,,,e394710a-8fcb-11eb-924d-9cd76263cbd0,77071338-1,wfo-0000806362,3054724,
-340e16e4-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Plesiatropha,,Pierre,1900,"Tab. Herb. L.Pierre t. 11/1900 1900",,,,,,wfo-0000802323,8607484,
-35ece21a-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Plesiatropha,,"(Pax) Breteler",2005,"Adansonia III, 27: 329 2005",,,,,77071339-1,wfo-0000806363,3054726,
-35ecff0c-8fcd-11eb-924d-9cd76263cbd0,subspecies,occidentalis,Plesiatropha,paniculata,"(J.Léonard) Breteler",2005,"Adansonia III, 27: 332 2005",,,,,77071341-1,wfo-0000806364,3054728,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b7fb42-8fd1-11eb-924d-9cd76263cbd0,genus,Plesiatropha,,,"Pierre ex Hutch.",,1912,,"Fl. Trop. Afr. 6(1.5): 799. 1912.",,,,,,,wfo-4000030284,3054716,,
+35ecab1a-8fcd-11eb-924d-9cd76263cbd0,species,carpinifolia,Plesiatropha,,"(Pax) Breteler",,2005,,"Adansonia III, 27: 329 2005",,,,d0abb22a-8fca-11eb-924d-9cd76263cbd0,,77071337-1,wfo-0000806361,3054719,,
+35ecc6cc-8fcd-11eb-924d-9cd76263cbd0,variety,strigosa,Plesiatropha,carpinifolia,"(Radcl.-Sm.) Breteler",,2005,,"Adansonia III, 27: 329 2005",,,,e394710a-8fcb-11eb-924d-9cd76263cbd0,,77071338-1,wfo-0000806362,3054724,,
+340e16e4-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Plesiatropha,,Pierre,,1900,,"Tab. Herb. L.Pierre t. 11/1900 1900",,,,,,,wfo-0000802323,8607484,,
+35ece21a-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Plesiatropha,,"(Pax) Breteler",,2005,,"Adansonia III, 27: 329 2005",,,,,,77071339-1,wfo-0000806363,3054726,,
+35ecff0c-8fcd-11eb-924d-9cd76263cbd0,subspecies,occidentalis,Plesiatropha,paniculata,"(J.Léonard) Breteler",,2005,,"Adansonia III, 27: 332 2005",,,,,,77071341-1,wfo-0000806364,3054728,,

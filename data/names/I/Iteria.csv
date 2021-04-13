@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52c9dde-8fd1-11eb-924d-9cd76263cbd0,genus,Iteria,,,,,,,,,,,wfo-4000019364,,
-79bc881c-8fb2-11eb-924d-9cd76263cbd0,species,odorata,Iteria,,Hort.,1903,"ex Gartenfl. 1903, 649.",,,,,226335-1,wfo-0000025595,4254591,
-6c4f481c-8fcc-11eb-924d-9cd76263cbd0,species,breviseta,Itheta,,"(Torr.) Raf.",1840,"Good Book 28 1840",,,,c4b3431e-8fcc-11eb-924d-9cd76263cbd0,309636-1,wfo-0000450820,2729784,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52c9dde-8fd1-11eb-924d-9cd76263cbd0,genus,Iteria,,,,,,,,,,,,,,wfo-4000019364,,,
+79bc881c-8fb2-11eb-924d-9cd76263cbd0,species,odorata,Iteria,,Hort.,,1903,,"ex Gartenfl. 1903, 649.",,,,,,226335-1,wfo-0000025595,4254591,,

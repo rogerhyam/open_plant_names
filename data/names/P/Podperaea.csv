@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8ce3fe2-8fd1-11eb-924d-9cd76263cbd0,genus,Podperaea,,,"Z.Iwats. & Glime",1984,"J. Hattori Bot. Lab. 55: 495. 1984.",,,,,,wfo-4000030529,2682617,
-b012012e-8fcd-11eb-924d-9cd76263cbd0,species,baii,Podperaea,,Ignatov,2011,"Arctoa 20: 115 2011",,,,,,wfo-0001043850,7806432,
-f583fbae-8fcd-11eb-924d-9cd76263cbd0,species,krylovii,Podperaea,,"(Podp.) Z.Iwats. & Glime",1984,"J. Hattori Bot. Lab. 55: 495 1984",,,,ee8795ae-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194735,8206104,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8ce3fe2-8fd1-11eb-924d-9cd76263cbd0,genus,Podperaea,,,"Z.Iwats. & Glime",,1984,,"J. Hattori Bot. Lab. 55: 495. 1984.",,,,,,,wfo-4000030529,2682617,,
+b012012e-8fcd-11eb-924d-9cd76263cbd0,species,baii,Podperaea,,Ignatov,,2011,,"Arctoa 20: 115 2011",,,,,,,wfo-0001043850,7806432,,
+f583fbae-8fcd-11eb-924d-9cd76263cbd0,species,krylovii,Podperaea,,"(Podp.) Z.Iwats. & Glime",,1984,,"J. Hattori Bot. Lab. 55: 495 1984",,,,ee8795ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194735,8206104,,

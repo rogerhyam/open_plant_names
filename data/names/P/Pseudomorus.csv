@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e928906e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomorus,,,Bureau,1869,"Ann. Sci. Nat., Bot., sér. 5, 11: 371. 1869.",,,,,,wfo-4000031601,6358640,
-aca4d714-8fcd-11eb-924d-9cd76263cbd0,species,brunoniana,Pseudomorus,,"(Endl.) Bureau",1869,"Ann. Sci. Nat., Bot., sér. 5, 11: 371 1869",,,,,,wfo-0001036063,,
-7a022e52-8fcc-11eb-924d-9cd76263cbd0,species,pendulina,Pseudomorus,,"(Endl.) Stearn",1947,"J. Arnold Arbor. 28: 427 1947",,,,,584589-1,wfo-0000474002,7262517,
-79ffe3cc-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Pseudomorus,,O.Deg.,1938,"Fl. Hawaiiensis 96: s.p. 1938",,,,,584590-1,wfo-0000473988,2984639,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e928906e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomorus,,,Bureau,,1869,,"Ann. Sci. Nat., Bot., sér. 5, 11: 371. 1869.",,,,,,,wfo-4000031601,6358640,,
+aca4d714-8fcd-11eb-924d-9cd76263cbd0,species,brunoniana,Pseudomorus,,"(Endl.) Bureau",,1869,,"Ann. Sci. Nat., Bot., sér. 5, 11: 371 1869",,,,,,,wfo-0001036063,,,
+7a022e52-8fcc-11eb-924d-9cd76263cbd0,species,pendulina,Pseudomorus,,"(Endl.) Stearn",,1947,,"J. Arnold Arbor. 28: 427 1947",,Q100550345,,,,584589-1,wfo-0000474002,7262517,,
+79ffe3cc-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Pseudomorus,,O.Deg.,,1938,,"Fl. Hawaiiensis 96: s.p. 1938",,,,,,584590-1,wfo-0000473988,2984639,,

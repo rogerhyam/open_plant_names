@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e289f61c-8fd1-11eb-924d-9cd76263cbd0,genus,Decodon,,,J.F.Gmel.,1791,"Syst. Nat. 2(1): 656, 677. 1791.",,,,,30199717-2,wfo-4000010957,3188728,
-ddb221a0-8fcc-11eb-924d-9cd76263cbd0,species,aquaticus,Decodon,,J.F.Gmel.,1791,"Syst. Nat. 677 1791",,,,,553318-1,wfo-0000639117,8046533,
-ddb23c6c-8fcc-11eb-924d-9cd76263cbd0,species,myrtifolius,Decodon,,"(Desf.) Kuntze",1891,"Revis. Gen. Pl. 1: 249 1891",,,,513000d2-8fca-11eb-924d-9cd76263cbd0,77164-2,wfo-0000639118,5635493,
-ddb25648-8fcc-11eb-924d-9cd76263cbd0,species,salicifolius,Decodon,,"(Kunth) Kuntze",1891,"Revis. Gen. Pl. 1: 249 1891",,,,,77165-2,wfo-0000639119,5635490,
-ddb272b8-8fcc-11eb-924d-9cd76263cbd0,species,verticillatus,Decodon,,"(L.) Elliott",1821,"Sketch Bot. S. Carolina 1: 543 1821",,,,,553321-1,wfo-0000639120,5420916,
-ddb28ec4-8fcc-11eb-924d-9cd76263cbd0,variety,laevigatus,Decodon,verticillatus,"Torr. & A.Gray",1840,"Fl. N. Amer. 1: 483 1840",,,,,77166-2,wfo-0000639121,5420917,
-ddb2a846-8fcc-11eb-924d-9cd76263cbd0,variety,pubescens,Decodon,verticillatus,"Torr. & A.Gray",1840,"Fl. N. Amer. 1: 483 1840",,,,,77167-2,wfo-0000639122,5635485,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e289f61c-8fd1-11eb-924d-9cd76263cbd0,genus,Decodon,,,J.F.Gmel.,,1791,,"Syst. Nat. 2(1): 656, 677. 1791.",,,,,,30199717-2,wfo-4000010957,3188728,,
+ddb221a0-8fcc-11eb-924d-9cd76263cbd0,species,aquaticus,Decodon,,J.F.Gmel.,,1791,,"Syst. Nat. 677 1791",,,,,,553318-1,wfo-0000639117,8046533,,
+ddb23c6c-8fcc-11eb-924d-9cd76263cbd0,species,myrtifolius,Decodon,,"(Desf.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 249 1891",,,,513000d2-8fca-11eb-924d-9cd76263cbd0,,77164-2,wfo-0000639118,5635493,,
+ddb25648-8fcc-11eb-924d-9cd76263cbd0,species,salicifolius,Decodon,,"(Kunth) Kuntze",,1891,,"Revis. Gen. Pl. 1: 249 1891",,,,,,77165-2,wfo-0000639119,5635490,,
+ddb272b8-8fcc-11eb-924d-9cd76263cbd0,species,verticillatus,Decodon,,"(L.) Elliott",,1821,,"Sketch Bot. S. Carolina 1: 543 1821",,,,,,553321-1,wfo-0000639120,5420916,,
+ddb28ec4-8fcc-11eb-924d-9cd76263cbd0,variety,laevigatus,Decodon,verticillatus,"Torr. & A.Gray",,1840,,"Fl. N. Amer. 1: 483 1840",,,,,,77166-2,wfo-0000639121,5420917,,
+ddb2a846-8fcc-11eb-924d-9cd76263cbd0,variety,pubescens,Decodon,verticillatus,"Torr. & A.Gray",,1840,,"Fl. N. Amer. 1: 483 1840",,,,,,77167-2,wfo-0000639122,5635485,,

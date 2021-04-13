@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e968aea6-8fd1-11eb-924d-9cd76263cbd0,genus,Pytinicarpa,,,G.L.Nesom,,,,,,,978397-1,wfo-4000032335,7336130,
-4bf81d9e-8fba-11eb-924d-9cd76263cbd0,species,neocaledonica,Pytinicarpa,,"(Guillaumin) G.L.Nesom",1994,"Phytologia 76(2): 138 (1994).",,,,,,wfo-0000125498,4209951,
-03b01ada-8fb2-11eb-924d-9cd76263cbd0,species,pickeringii,Pytinicarpa,,"(A.Gray) G.L.Nesom",2001,"Sida 19(3): 516 (2001).",,,,,20001831-1,wfo-0000004761,4209945,
-f007e294-8fb9-11eb-924d-9cd76263cbd0,species,sarasinii,Pytinicarpa,,"(Däniker) G.L.Nesom",1994,"Phytologia 76(2): 138 (1994).",,,,,,wfo-0000122620,4209938,
-751a3af0-8fcd-11eb-924d-9cd76263cbd0,species,malortieana,Pyxa,,"(H.Wendl.) M.R.Almeida",2009,"Fl. Maharashtra 5A: 113 2009",,,,,77111458-1,wfo-0000920924,8122604,
-75f6d88e-8fcd-11eb-924d-9cd76263cbd0,species,picta,Pyxa,,"(D.Don) S.R.Dutta & S.Yadav",2009,"Fl. Maharashtra 5B: 405 2009",,,,265bf946-8fb2-11eb-924d-9cd76263cbd0,77114016-1,wfo-0000922290,7934015,
-751a2092-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Pyxa,,"(J.Koenig) M.R.Almeida",2009,"Fl. Maharashtra 5A: 113 2009",,,,1f48f1b2-8fcc-11eb-924d-9cd76263cbd0,77111459-1,wfo-0000920923,8364460,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e968aea6-8fd1-11eb-924d-9cd76263cbd0,genus,Pytinicarpa,,,G.L.Nesom,,,,,,,,,,978397-1,wfo-4000032335,7336130,,
+4bf81d9e-8fba-11eb-924d-9cd76263cbd0,species,neocaledonica,Pytinicarpa,,"(Guillaumin) G.L.Nesom",,1994,,"Phytologia 76(2): 138 (1994).",,,,,,,wfo-0000125498,4209951,,
+03b01ada-8fb2-11eb-924d-9cd76263cbd0,species,pickeringii,Pytinicarpa,,"(A.Gray) G.L.Nesom",,2001,,"Sida 19(3): 516 (2001).",,Q91207435,,,,20001831-1,wfo-0000004761,4209945,,
+f007e294-8fb9-11eb-924d-9cd76263cbd0,species,sarasinii,Pytinicarpa,,"(Däniker) G.L.Nesom",,1994,,"Phytologia 76(2): 138 (1994).",,,,,,,wfo-0000122620,4209938,,
+751a3af0-8fcd-11eb-924d-9cd76263cbd0,species,malortieana,Pyxa,,"(H.Wendl.) M.R.Almeida",,2009,,"Fl. Maharashtra 5A: 113 2009",,,,,,77111458-1,wfo-0000920924,8122604,,
+75f6d88e-8fcd-11eb-924d-9cd76263cbd0,species,picta,Pyxa,,"(D.Don) S.R.Dutta & S.Yadav",,2009,,"Fl. Maharashtra 5B: 405 2009",,,,265bf946-8fb2-11eb-924d-9cd76263cbd0,,77114016-1,wfo-0000922290,7934015,,
+751a2092-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Pyxa,,"(J.Koenig) M.R.Almeida",,2009,,"Fl. Maharashtra 5A: 113 2009",,,,1f48f1b2-8fcc-11eb-924d-9cd76263cbd0,,77111459-1,wfo-0000920923,8364460,,

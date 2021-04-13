@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2c2ea6c-8fd1-11eb-924d-9cd76263cbd0,genus,Dielsiochloa,,,Pilg.,1943,"Bot. Jahrb. Syst. 73: 99. 1943. (10 Jan 1943)",,,,,295400-2,wfo-4000011675,8164841,
-50a07554-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Dielsiochloa,,"(Pilg.) Pilg.",1943,"Bot. Jahrb. Syst. 73: 99 1943",,,,d9ac122c-8fbe-11eb-924d-9cd76263cbd0,398610-1,wfo-0000863668,4119849,
-50a09336-8fcd-11eb-924d-9cd76263cbd0,variety,major,Dielsiochloa,floribunda,Pilg.,1947,"Bot. Jahrb. Syst. 77: 101 1947",,,,,,wfo-0000863669,7861446,
-c85b8da4-8fcd-11eb-924d-9cd76263cbd0,variety,majus,Dielsiochloa,floribunda,Pilg.,1943,"Bot. Jahrb. Syst. 73: 101 1943",,,,,,wfo-0001098584,6067660,
-50a0b230-8fcd-11eb-924d-9cd76263cbd0,variety,weberbaueri,Dielsiochloa,floribunda,"(Pilg.) Pilg.",1947,"Bot. Jahrb. Syst. 77: 101 1947",,,,,,wfo-0000863670,8383270,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2c2ea6c-8fd1-11eb-924d-9cd76263cbd0,genus,Dielsiochloa,,,Pilg.,,1943,,"Bot. Jahrb. Syst. 73: 99. 1943. (10 Jan 1943)",,,,,,295400-2,wfo-4000011675,8164841,,
+50a07554-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Dielsiochloa,,"(Pilg.) Pilg.",,1943,,"Bot. Jahrb. Syst. 73: 99 1943",,,,d9ac122c-8fbe-11eb-924d-9cd76263cbd0,,398610-1,wfo-0000863668,4119849,,
+50a09336-8fcd-11eb-924d-9cd76263cbd0,variety,major,Dielsiochloa,floribunda,Pilg.,,1947,,"Bot. Jahrb. Syst. 77: 101 1947",,,,,,,wfo-0000863669,7861446,,
+c85b8da4-8fcd-11eb-924d-9cd76263cbd0,variety,majus,Dielsiochloa,floribunda,Pilg.,,1943,,"Bot. Jahrb. Syst. 73: 101 1943",,,,,,,wfo-0001098584,6067660,,
+50a0b230-8fcd-11eb-924d-9cd76263cbd0,variety,weberbaueri,Dielsiochloa,floribunda,"(Pilg.) Pilg.",,1947,,"Bot. Jahrb. Syst. 77: 101 1947",,,,,,,wfo-0000863670,8383270,,

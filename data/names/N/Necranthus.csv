@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e71a2aa8-8fd1-11eb-924d-9cd76263cbd0,genus,Necranthus,,,Gilli,1968,"Notes Roy. Bot. Gard. Edinburgh 28: 297. 1968.",,,,,,wfo-4000025463,7332835,
-38c8a5a6-8fcc-11eb-924d-9cd76263cbd0,species,orobanchoides,Necranthus,,Gilli,1968,"Notes Roy. Bot. Gard. Edinburgh 28: 297 1968",,,,,662079-1,wfo-0000381159,3737137,
-022fbb32-8fcd-11eb-924d-9cd76263cbd0,species,natans,Nectalisma,,"(L.) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 156 1869",,,,,58437-1,wfo-0000703141,2864788,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e71a2aa8-8fd1-11eb-924d-9cd76263cbd0,genus,Necranthus,,,Gilli,,1968,,"Notes Roy. Bot. Gard. Edinburgh 28: 297. 1968.",,,,,,,wfo-4000025463,7332835,,
+38c8a5a6-8fcc-11eb-924d-9cd76263cbd0,species,orobanchoides,Necranthus,,Gilli,,1968,,"Notes Roy. Bot. Gard. Edinburgh 28: 297 1968",,Q102418876,,,,662079-1,wfo-0000381159,3737137,,

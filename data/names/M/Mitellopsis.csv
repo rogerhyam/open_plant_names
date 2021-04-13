@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6c96294-8fd1-11eb-924d-9cd76263cbd0,genus,Mitellopsis,,,Meisn.,,"Pl. Vasc. Gen. 1: 136.",,,,,,wfo-4000024411,7339214,
-6c8c480c-8fcc-11eb-924d-9cd76263cbd0,species,drummondia,Mitellopsis,,Meisn.,1837,"Pl. Vasc. Gen. 1: 100 1837",,,,,,wfo-0000451264,3752730,
-6c8c2ca0-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Mitellopsis,,Meisn.,1837,"Pl. Vasc. Gen. 1: 100 1837",,,,,,wfo-0000451263,3752723,
-6c8c1044-8fcc-11eb-924d-9cd76263cbd0,species,pentandra,Mitellopsis,,Walp.,1843,"Repert. Bot. Syst. 2: 370 1843",,,,,791986-1,wfo-0000451262,3752716,
-cdfb7acc-8fd1-11eb-924d-9cd76263cbd0,species,trifida,Mitellopsis,,"(Graham) Meisn.",1843,"Repert. Bot. Syst. 2: 370 1843",,,,d9128030-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001279786,7920934,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6c96294-8fd1-11eb-924d-9cd76263cbd0,genus,Mitellopsis,,,Meisn.,,,,"Pl. Vasc. Gen. 1: 136.",,,,,,,wfo-4000024411,7339214,,
+6c8c480c-8fcc-11eb-924d-9cd76263cbd0,species,drummondia,Mitellopsis,,Meisn.,,1837,,"Pl. Vasc. Gen. 1: 100 1837",,,,,,,wfo-0000451264,3752730,,
+6c8c2ca0-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Mitellopsis,,Meisn.,,1837,,"Pl. Vasc. Gen. 1: 100 1837",,,,,,,wfo-0000451263,3752723,,
+6c8c1044-8fcc-11eb-924d-9cd76263cbd0,species,pentandra,Mitellopsis,,Walp.,,1843,,"Repert. Bot. Syst. 2: 370 1843",,,,,,791986-1,wfo-0000451262,3752716,,
+cdfb7acc-8fd1-11eb-924d-9cd76263cbd0,species,trifida,Mitellopsis,,"(Graham) Meisn.",,1843,,"Repert. Bot. Syst. 2: 370 1843",,,,d9128030-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001279786,7920934,,

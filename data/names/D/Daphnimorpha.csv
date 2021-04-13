@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e27ca0de-8fd1-11eb-924d-9cd76263cbd0,genus,Daphnimorpha,,,Nakai,1937,"J. Jap. Bot. 13: 884. 1937.",,,,,39221-1,wfo-4000010762,7311413,
-dd1998a4-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Daphnimorpha,,"(Hara) Nakai",1937,"J. Jap. Bot. 13: 884 1937",,,,,831397-1,wfo-0000638001,3568645,
-dd19b3f2-8fcc-11eb-924d-9cd76263cbd0,species,kudoi,Daphnimorpha,,"(Makino) Nakai",1937,"J. Jap. Bot. 13: 884 1937",,,,d1ce9bac-8fd1-11eb-924d-9cd76263cbd0,831398-1,wfo-0000638002,3568639,
-7dfb558c-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Daphniphyllopsis,,Kurz,1875,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 44(2): 201 1875",,,,,,wfo-0000937667,3663672,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e27ca0de-8fd1-11eb-924d-9cd76263cbd0,genus,Daphnimorpha,,,Nakai,,1937,,"J. Jap. Bot. 13: 884. 1937.",,,,,,39221-1,wfo-4000010762,7311413,,
+dd1998a4-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Daphnimorpha,,"(Hara) Nakai",,1937,,"J. Jap. Bot. 13: 884 1937",,,,,,831397-1,wfo-0000638001,3568645,,
+dd19b3f2-8fcc-11eb-924d-9cd76263cbd0,species,kudoi,Daphnimorpha,,"(Makino) Nakai",,1937,,"J. Jap. Bot. 13: 884 1937",,,,d1ce9bac-8fd1-11eb-924d-9cd76263cbd0,,831398-1,wfo-0000638002,3568639,,
+7dfb558c-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Daphniphyllopsis,,Kurz,,1875,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 44(2): 201 1875",,,,,,,wfo-0000937667,3663672,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaff808c-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyoloma,,,C.A.Mey.,1831,"Verz. Pfl. Cauc. 127. 1831.",,,,,,wfo-4000037211,6026986,
-6008664c-8fcc-11eb-924d-9cd76263cbd0,species,graveolens,Symphyoloma,,C.A.Mey.,1831,"Verz. Pfl. Casp. Meer. 127 1831",,,,,849235-1,wfo-0000431337,3637178,
-cc0afd20-8fbb-11eb-924d-9cd76263cbd0,species,filicula,Symphyomera,,Hook.f.,1847,"vi.  118 1847",,,,,251975-1,wfo-0000136711,4238032,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaff808c-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyoloma,,,C.A.Mey.,,1831,,"Verz. Pfl. Cauc. 127. 1831.",,,,,,,wfo-4000037211,6026986,,
+6008664c-8fcc-11eb-924d-9cd76263cbd0,species,graveolens,Symphyoloma,,C.A.Mey.,,1831,,"Verz. Pfl. Casp. Meer. 127 1831",,,,,,849235-1,wfo-0000431337,3637178,,
+cc0afd20-8fbb-11eb-924d-9cd76263cbd0,species,filicula,Symphyomera,,Hook.f.,,1847,,"vi.  118 1847",,,,,,251975-1,wfo-0000136711,4238032,,

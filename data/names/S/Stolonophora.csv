@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eadc7b50-8fd1-11eb-924d-9cd76263cbd0,genus,Stolonophora,,,,,,,,,,,wfo-4000036772,3229885,
-fbab8466-8fcd-11eb-924d-9cd76263cbd0,species,abnormis,Stolonophora,,"(Besch. & C.Massal.) J.J.Engel & R.M.Schust.",1975,"Fieldiana, Bot. 36: 114 1975",,,,fbab5d42-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001207461,8117535,
-fc5eec0e-8fcd-11eb-924d-9cd76263cbd0,species,perssonii,Stolonophora,,"(R.M.Schust.) J.J.Engel & R.M.Schust.",1975,"Fieldiana, Bot. 36: 118 1975",,,,,,wfo-0001208973,7392759,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eadc7b50-8fd1-11eb-924d-9cd76263cbd0,genus,Stolonophora,,,,,,,,,,,,,,wfo-4000036772,3229885,,
+fbab8466-8fcd-11eb-924d-9cd76263cbd0,species,abnormis,Stolonophora,,"(Besch. & C.Massal.) J.J.Engel & R.M.Schust.",,1975,,"Fieldiana, Bot. 36: 114 1975",,,,fbab5d42-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001207461,8117535,,
+fc5eec0e-8fcd-11eb-924d-9cd76263cbd0,species,perssonii,Stolonophora,,"(R.M.Schust.) J.J.Engel & R.M.Schust.",,1975,,"Fieldiana, Bot. 36: 118 1975",,,,,,,wfo-0001208973,7392759,,

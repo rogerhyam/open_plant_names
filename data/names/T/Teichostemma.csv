@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb24c3f6-8fd1-11eb-924d-9cd76263cbd0,genus,Teichostemma,,,,,,,,,,,wfo-4000037687,7336744,
-305873d4-8fb2-11eb-924d-9cd76263cbd0,species,fruticosum,Teichostemma,,R.Br.,1814,"in Salt, Abyss. App. 65 (1814).",,,,,255172-1,wfo-0000015167,4219206,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb24c3f6-8fd1-11eb-924d-9cd76263cbd0,genus,Teichostemma,,,,,,,,,,,,,,wfo-4000037687,7336744,,
+305873d4-8fb2-11eb-924d-9cd76263cbd0,species,fruticosum,Teichostemma,,R.Br.,,1814,,"in Salt, Abyss. App. 65 (1814).",,,,,,255172-1,wfo-0000015167,4219206,,

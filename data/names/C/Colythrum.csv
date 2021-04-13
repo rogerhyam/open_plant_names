@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1f42fce-8fd1-11eb-924d-9cd76263cbd0,genus,Colythrum,,,Schott,1834,"Rutaceae 13. 1834.",,,,,,wfo-4000009009,7269369,
-d00e3890-8fcc-11eb-924d-9cd76263cbd0,species,febrifugum,Colythrum,,Schott,1834,"Rutaceae 13 1834",,,,,772201-1,wfo-0000615894,3836099,
-d00e5550-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorum,Colythrum,,"(Mart.) Steud.",1840,"Nomencl. Bot. ed. 2, 1: 399 1840",,,,,,wfo-0000615895,3836088,
-d00e6f22-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Colythrum,,Schott,1834,"Rutaceae 14 1834",,,,,772203-1,wfo-0000615896,3836084,
-d00e8c0a-8fcc-11eb-924d-9cd76263cbd0,species,maurioides,Colythrum,,Schott,1834,"Rutaceae 14 1834",,,,,772204-1,wfo-0000615897,3836077,
-d00ec454-8fcc-11eb-924d-9cd76263cbd0,species,puberulum,Colythrum,,Schott,1834,"Rutaceae 13 1834",,,,,,wfo-0000615899,3836067,
-d00ee04c-8fcc-11eb-924d-9cd76263cbd0,species,pumilum,Colythrum,,Schott,1834,"Rutaceae 14 1834",,,,,772206-1,wfo-0000615900,3836057,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1f42fce-8fd1-11eb-924d-9cd76263cbd0,genus,Colythrum,,,Schott,,1834,,"Rutaceae 13. 1834.",,,,,,,wfo-4000009009,7269369,,
+d00e3890-8fcc-11eb-924d-9cd76263cbd0,species,febrifugum,Colythrum,,Schott,,1834,,"Rutaceae 13 1834",,,,,,772201-1,wfo-0000615894,3836099,,
+d00e5550-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorum,Colythrum,,"(Mart.) Steud.",,1840,,"Nomencl. Bot. ed. 2, 1: 399 1840",,,,,,,wfo-0000615895,3836088,,
+d00e6f22-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Colythrum,,Schott,,1834,,"Rutaceae 14 1834",,,,,,772203-1,wfo-0000615896,3836084,,
+d00e8c0a-8fcc-11eb-924d-9cd76263cbd0,species,maurioides,Colythrum,,Schott,,1834,,"Rutaceae 14 1834",,,,,,772204-1,wfo-0000615897,3836077,,
+d00ec454-8fcc-11eb-924d-9cd76263cbd0,species,puberulum,Colythrum,,Schott,,1834,,"Rutaceae 13 1834",,,,,,,wfo-0000615899,3836067,,
+d00ee04c-8fcc-11eb-924d-9cd76263cbd0,species,pumilum,Colythrum,,Schott,,1834,,"Rutaceae 14 1834",,,,,,772206-1,wfo-0000615900,3836057,,

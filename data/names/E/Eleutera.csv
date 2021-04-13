@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33c2b48-8fd1-11eb-924d-9cd76263cbd0,genus,Eleutera,,,,,,,,,,,wfo-4000013188,4885473,
-e75ce388-8fcd-11eb-924d-9cd76263cbd0,species,disticha,Eleutera,,"(Hedw.) Stuntz",1900,"Bull. Torrey Bot. Club 27: 209 1900",,,,f22301d0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001165790,8160087,
-e75d0020-8fcd-11eb-924d-9cd76263cbd0,species,douglasii,Eleutera,,"(Hook.) Stuntz",1900,"Bull. Torrey Bot. Club 27: 204 1900",,,,,,wfo-0001165791,7886818,
-e75d1a2e-8fcd-11eb-924d-9cd76263cbd0,species,menziesii,Eleutera,,"(Drumm.) Stuntz",1900,"Bull. Torrey Bot. Club 27: 207 1900",,,,f2373196-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001165792,8123462,
-e75d3608-8fcd-11eb-924d-9cd76263cbd0,species,ornithopodioides,Eleutera,,Stuntz,1900,"Bull. Torrey Bot. Club 27: 209 1900",,,,,,wfo-0001165793,8197699,
-e75d4fee-8fcd-11eb-924d-9cd76263cbd0,species,pennata,Eleutera,,"(Hedw.) Stuntz",1900,"Bull. Torrey Bot. Club 27: 205 1900",,,,f2404394-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001165794,7613223,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33c2b48-8fd1-11eb-924d-9cd76263cbd0,genus,Eleutera,,,,,,,,,,,,,,wfo-4000013188,4885473,,
+e75ce388-8fcd-11eb-924d-9cd76263cbd0,species,disticha,Eleutera,,"(Hedw.) Stuntz",,1900,,"Bull. Torrey Bot. Club 27: 209 1900",,,,f22301d0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001165790,8160087,,
+e75d0020-8fcd-11eb-924d-9cd76263cbd0,species,douglasii,Eleutera,,"(Hook.) Stuntz",,1900,,"Bull. Torrey Bot. Club 27: 204 1900",,,,,,,wfo-0001165791,7886818,,
+e75d1a2e-8fcd-11eb-924d-9cd76263cbd0,species,menziesii,Eleutera,,"(Drumm.) Stuntz",,1900,,"Bull. Torrey Bot. Club 27: 207 1900",,,,f2373196-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001165792,8123462,,
+e75d3608-8fcd-11eb-924d-9cd76263cbd0,species,ornithopodioides,Eleutera,,Stuntz,,1900,,"Bull. Torrey Bot. Club 27: 209 1900",,,,,,,wfo-0001165793,8197699,,
+e75d4fee-8fcd-11eb-924d-9cd76263cbd0,species,pennata,Eleutera,,"(Hedw.) Stuntz",,1900,,"Bull. Torrey Bot. Club 27: 205 1900",,,,f2404394-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001165794,7613223,,

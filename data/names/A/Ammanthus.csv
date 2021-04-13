@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df35773e-8fd1-11eb-924d-9cd76263cbd0,genus,Ammanthus,,,,,,,,,,,wfo-4000001609,6444490,
-1157a05c-8fb4-11eb-924d-9cd76263cbd0,species,ageratifolius,Ammanthus,,"Boiss. & Heldr. ex Boiss.",1875,"358 1875",,,,,176199-1,wfo-0000059430,3122586,
-2e69b9fa-8fb9-11eb-924d-9cd76263cbd0,species,filicaulis,Ammanthus,,"Boiss. & Heldr. ex Boiss. & Heldr.",1849,"19 1849",,,,,,wfo-0000116124,3122674,
-af791c2a-8fcd-11eb-924d-9cd76263cbd0,species,filicualis,Ammanthus,,"Boiss. & Heldr. ex Boiss.",1849,"Diagn. Pl. Orient., ser. 1 11: 19–20 1849",,,,,,wfo-0001042543,7491602,
-7ae7bbe0-8fb6-11eb-924d-9cd76263cbd0,species,glaberrimus,Ammanthus,,Rech.f.,1943,1943,,,,,,wfo-0000089921,3122646,
-fc6c09d6-8fb2-11eb-924d-9cd76263cbd0,species,intermedius,Ammanthus,,Gand.,1915,"Bull. Soc. Bot. France 62: 10 1915",,,,,176203-1,wfo-0000039026,3122585,
-7473d176-8fb2-11eb-924d-9cd76263cbd0,species,maritimus,Ammanthus,,"Boiss. & Heldr.",1849,"19 1849",,,,,,wfo-0000025035,3122584,
-1bb6cb38-8fb7-11eb-924d-9cd76263cbd0,species,tomentellus,Ammanthus,,Gand.,1915,"Bull. Soc. Bot. France 62: 10 1915",,,,,176206-1,wfo-0000096446,4223675,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df35773e-8fd1-11eb-924d-9cd76263cbd0,genus,Ammanthus,,,,,,,,,,,,,,wfo-4000001609,6444490,,
+1157a05c-8fb4-11eb-924d-9cd76263cbd0,species,ageratifolius,Ammanthus,,"Boiss. & Heldr. ex Boiss.",,1875,,"358 1875",,,,,,176199-1,wfo-0000059430,3122586,,
+2e69b9fa-8fb9-11eb-924d-9cd76263cbd0,species,filicaulis,Ammanthus,,"Boiss. & Heldr. ex Boiss. & Heldr.",,1849,,"19 1849",,,,,,,wfo-0000116124,3122674,,
+af791c2a-8fcd-11eb-924d-9cd76263cbd0,species,filicualis,Ammanthus,,"Boiss. & Heldr. ex Boiss.",,1849,,"Diagn. Pl. Orient., ser. 1 11: 19–20 1849",,,,,,,wfo-0001042543,7491602,,
+7ae7bbe0-8fb6-11eb-924d-9cd76263cbd0,species,glaberrimus,Ammanthus,,Rech.f.,,1943,,1943,,,,,,,wfo-0000089921,3122646,,
+fc6c09d6-8fb2-11eb-924d-9cd76263cbd0,species,intermedius,Ammanthus,,Gand.,,1915,,"Bull. Soc. Bot. France 62: 10 1915",,,,,,176203-1,wfo-0000039026,3122585,,
+7473d176-8fb2-11eb-924d-9cd76263cbd0,species,maritimus,Ammanthus,,"Boiss. & Heldr.",,1849,,"19 1849",,,,,,,wfo-0000025035,3122584,,
+1bb6cb38-8fb7-11eb-924d-9cd76263cbd0,species,tomentellus,Ammanthus,,Gand.,,1915,,"Bull. Soc. Bot. France 62: 10 1915",,,,,,176206-1,wfo-0000096446,4223675,,

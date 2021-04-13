@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2cdb398-8fd1-11eb-924d-9cd76263cbd0,genus,Dinklageella,,,Mansf.,1934,"Repert. Spec. Nov. Regni Veg. 36(936–941): 63–64. 1934. (20 Aug 1934)",,,,,29280-1,wfo-4000011801,2783555,
-80917484-8fcd-11eb-924d-9cd76263cbd0,species,liberica,Dinklageella,,Mansf.,1934,"Repert. Spec. Nov. Regni Veg. 36: 64 1934",,,,,629797-1,wfo-0000943517,2783559,
-36fe2196-8fcd-11eb-924d-9cd76263cbd0,variety,villiersii,Dinklageella,liberica,"(Szlach. & Olszewski) R.Rice",2005,"Prelim. Checklist & Survey Subtrib. Aerangidinae (Orchidac.) 32 2005",,,,8091c696-8fcd-11eb-924d-9cd76263cbd0,77076601-1,wfo-0000808467,2783558,
-8091ac74-8fcd-11eb-924d-9cd76263cbd0,species,minor,Dinklageella,,Summerh.,1960,"Kew Bull. 14: 156 1960",,,,,629798-1,wfo-0000943519,2783563,
-3ec7196a-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Dinklageella,,"Stévart & P.J.Cribb",2004,"Kew Bull. 59: 79 2004",,,,,60435856-2,wfo-0000388746,2783561,
-8091c696-8fcd-11eb-924d-9cd76263cbd0,species,villiersii,Dinklageella,,"Szlach. & Olszewski",2001,"in Fl. Cameroun 36: 818 2001",,,,,20000686-1,wfo-0000943520,2783556,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2cdb398-8fd1-11eb-924d-9cd76263cbd0,genus,Dinklageella,,,Mansf.,,1934,,"Repert. Spec. Nov. Regni Veg. 36(936–941): 63–64. 1934. (20 Aug 1934)",,,,,,29280-1,wfo-4000011801,2783555,,
+80917484-8fcd-11eb-924d-9cd76263cbd0,species,liberica,Dinklageella,,Mansf.,,1934,,"Repert. Spec. Nov. Regni Veg. 36: 64 1934",,,,,,629797-1,wfo-0000943517,2783559,,
+36fe2196-8fcd-11eb-924d-9cd76263cbd0,variety,villiersii,Dinklageella,liberica,"(Szlach. & Olszewski) R.Rice",,2005,,"Prelim. Checklist & Survey Subtrib. Aerangidinae (Orchidac.) 32 2005",,,,8091c696-8fcd-11eb-924d-9cd76263cbd0,,77076601-1,wfo-0000808467,2783558,,
+8091ac74-8fcd-11eb-924d-9cd76263cbd0,species,minor,Dinklageella,,Summerh.,,1960,,"Kew Bull. 14: 156 1960",,Q55784110,,,,629798-1,wfo-0000943519,2783563,,
+3ec7196a-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Dinklageella,,"Stévart & P.J.Cribb",,2004,,"Kew Bull. 59: 79 2004",,Q43192360,,,,60435856-2,wfo-0000388746,2783561,,
+8091c696-8fcd-11eb-924d-9cd76263cbd0,species,villiersii,Dinklageella,,"Szlach. & Olszewski",,2001,,"in Fl. Cameroun 36: 818 2001",,,,,,20000686-1,wfo-0000943520,2783556,,

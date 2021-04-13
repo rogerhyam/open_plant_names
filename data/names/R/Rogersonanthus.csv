@@ -1,8 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9c17946-8fd1-11eb-924d-9cd76263cbd0,genus,Rogersonanthus,,,"Maguire & B.M.Boom",1989,"Mem. New York Bot. Gard. 51: 3. 1989.",,,,,925196-1,wfo-4000033409,7270202,
-4c085de6-8fcc-11eb-924d-9cd76263cbd0,species,arboreus,Rogersonanthus,,"(Britton) Maguire & B.M.Boom",1989,"Mem. New York Bot. Gard. 51: 8 1989",,,,c7325b02-8fcc-11eb-924d-9cd76263cbd0,284332-2,wfo-0000405586,3842170,
-4c09300e-8fcc-11eb-924d-9cd76263cbd0,species,coccineus,Rogersonanthus,,"Steyerm. ex Struwe, S.Nilsson & V.A.Albert",1998,"Harvard Pap. Bot. 3: 191 1998",,,,,1006492-1,wfo-0000405587,8626857,
-4c09cb2c-8fcc-11eb-924d-9cd76263cbd0,species,quelchii,Rogersonanthus,,"(N.E.Br.) Maguire & B.M.Boom",1989,"Mem. New York Bot. Gard. 51: 4 1989",,,,,946752-1,wfo-0000405588,3842142,
-4c09ee22-8fcc-11eb-924d-9cd76263cbd0,species,tepuiensis,Rogersonanthus,,"(Gleason) Maguire & B.M.Boom",1989,"Mem. New York Bot. Gard. 51: 4 1989",,,,,946753-1,wfo-0000405589,3842122,
-2c86d848-8fcd-11eb-924d-9cd76263cbd0,species,fistulosa,Roggeveldia,,Goldblatt,1979,"Ann. Missouri Bot. Gard. 66: 840 1979 publ. 1980",,,,,440655-1,wfo-0000785988,2744495,
-2c489880-8fcd-11eb-924d-9cd76263cbd0,species,montana,Roggeveldia,,Goldblatt,1992,"S. African J. Bot. 58: 211 1992",,,,,961494-1,wfo-0000785463,2744570,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9c17946-8fd1-11eb-924d-9cd76263cbd0,genus,Rogersonanthus,,,"Maguire & B.M.Boom",,1989,,"Mem. New York Bot. Gard. 51: 3. 1989.",,,,,,925196-1,wfo-4000033409,7270202,,
+4c085de6-8fcc-11eb-924d-9cd76263cbd0,species,arboreus,Rogersonanthus,,"(Britton) Maguire & B.M.Boom",,1989,,"Mem. New York Bot. Gard. 51: 8 1989",,,,c7325b02-8fcc-11eb-924d-9cd76263cbd0,,284332-2,wfo-0000405586,3842170,,
+4c09300e-8fcc-11eb-924d-9cd76263cbd0,species,coccineus,Rogersonanthus,,"Steyerm. ex Struwe, S.Nilsson & V.A.Albert",,1998,,"Harvard Pap. Bot. 3: 191 1998",,Q95388981,,,,1006492-1,wfo-0000405587,8626857,,
+4c09cb2c-8fcc-11eb-924d-9cd76263cbd0,species,quelchii,Rogersonanthus,,"(N.E.Br.) Maguire & B.M.Boom",,1989,,"Mem. New York Bot. Gard. 51: 4 1989",,,,,,946752-1,wfo-0000405588,3842142,,
+4c09ee22-8fcc-11eb-924d-9cd76263cbd0,species,tepuiensis,Rogersonanthus,,"(Gleason) Maguire & B.M.Boom",,1989,,"Mem. New York Bot. Gard. 51: 4 1989",,,,,,946753-1,wfo-0000405589,3842122,,

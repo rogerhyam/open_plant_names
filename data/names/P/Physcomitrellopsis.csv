@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e877b492-8fd1-11eb-924d-9cd76263cbd0,genus,Physcomitrellopsis,,,"Broth. & Wager",1922,"J. Bot. 60: 107. 1922.",,,,,,wfo-4000029513,10838662,
-e0dd655a-8fcd-11eb-924d-9cd76263cbd0,species,africana,Physcomitrellopsis,,"Wager & Broth. ex Dixon",1922,"J. Bot. 60: 107. 564 f. 3 1922",,,,,,wfo-0001151611,,
-e0dd88f0-8fcd-11eb-924d-9cd76263cbd0,species,indica,Physcomitrellopsis,,Dixon,1933,"J. Indian Bot. Soc. 12: 122. pl. 1–5 1933",,,,,,wfo-0001151612,8318330,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e877b492-8fd1-11eb-924d-9cd76263cbd0,genus,Physcomitrellopsis,,,"Broth. & Wager",,1922,,"J. Bot. 60: 107. 1922.",,,,,,,wfo-4000029513,10838662,,
+e0dd655a-8fcd-11eb-924d-9cd76263cbd0,species,africana,Physcomitrellopsis,,"Wager & Broth. ex Dixon",,1922,,"J. Bot. 60: 107. 564 f. 3 1922",,,,,,,wfo-0001151611,,,
+e0dd88f0-8fcd-11eb-924d-9cd76263cbd0,species,indica,Physcomitrellopsis,,Dixon,,1933,,"J. Indian Bot. Soc. 12: 122. pl. 1–5 1933",,,,,,,wfo-0001151612,8318330,,

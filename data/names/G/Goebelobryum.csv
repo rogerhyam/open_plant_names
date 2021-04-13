@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e418fc58-8fd1-11eb-924d-9cd76263cbd0,genus,Goebelobryum,,,Grolle,1962,"J. Hattori Bot. Lab. 25: 135. 1962.",,,,,,wfo-4000015906,2689303,
-fc32bf08-8fcd-11eb-924d-9cd76263cbd0,species,grossitextum,Goebelobryum,,"(Stephani) Grolle",1962,"J. Hattori Bot. Lab. 25: 137 1962",,,,,,wfo-0001208600,8343748,
-fc31f064-8fcd-11eb-924d-9cd76263cbd0,species,unguiculatum,Goebelobryum,,"(Hook.f. & Taylor) Grolle",1962,"J. Hattori Bot. Lab. 25: 137 1962",,,,,,wfo-0001208594,2689304,
-27ae6df4-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Goeldinia,,Huber,1902,"Bol. Mus. Paraense Hist. Nat. Ethnogr. 3: 438 1902",,,,,111580-2,wfo-0000775409,3083004,
-27ae8a32-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Goeldinia,,Huber,1902,"Bol. Mus. Paraense Hist. Nat. Ethnogr. 3: 439 1902",,,,,111581-2,wfo-0000775410,3083007,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e418fc58-8fd1-11eb-924d-9cd76263cbd0,genus,Goebelobryum,,,Grolle,,1962,,"J. Hattori Bot. Lab. 25: 135. 1962.",,,,,,,wfo-4000015906,2689303,,
+fc32bf08-8fcd-11eb-924d-9cd76263cbd0,species,grossitextum,Goebelobryum,,"(Stephani) Grolle",,1962,,"J. Hattori Bot. Lab. 25: 137 1962",,,,,,,wfo-0001208600,8343748,,
+fc31f064-8fcd-11eb-924d-9cd76263cbd0,species,unguiculatum,Goebelobryum,,"(Hook.f. & Taylor) Grolle",,1962,,"J. Hattori Bot. Lab. 25: 137 1962",,,,,,,wfo-0001208594,2689304,,
+27ae6df4-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Goeldinia,,Huber,,1902,,"Bol. Mus. Paraense Hist. Nat. Ethnogr. 3: 438 1902",,,,,,111580-2,wfo-0000775409,3083004,,
+27ae8a32-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Goeldinia,,Huber,,1902,,"Bol. Mus. Paraense Hist. Nat. Ethnogr. 3: 439 1902",,,,,,111581-2,wfo-0000775410,3083007,,

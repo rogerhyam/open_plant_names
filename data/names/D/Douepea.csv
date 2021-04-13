@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3034ec2-8fd1-11eb-924d-9cd76263cbd0,genus,Douepea,,,Cambess.,1835,"Voyage Inde Bot. 4: 18. 1835.",,,,,12544-1,wfo-4000012476,3043820,
-e6e1f14c-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Douepea,,"(Hedge & Kit Tan) O.Appel & Al-Shehbaz",2001,"Novon 11: 297 2001",,,,,20001260-1,wfo-0000654799,3043823,
-e6e20bfa-8fcc-11eb-924d-9cd76263cbd0,species,tortuosa,Douepea,,Cambess.,1841,"Voy. Inde 4: 18 1841",,,,,282302-1,wfo-0000654800,3043821,
-51425a36-8fcd-11eb-924d-9cd76263cbd0,species,deweyi,Douglasdeweya,,"(Jensen, Hatch & Wipff) C.Yen, J.L.Yang & B.R.Baum",2005,"Canad. J. Bot. 83: 417 2005",,,,,77070512-1,wfo-0000865080,4120953,
-51427732-8fcd-11eb-924d-9cd76263cbd0,species,wangii,Douglasdeweya,,"C.Yen, J.L.Yang & B.R.Baum",2005,"Canad. J. Bot. 83: 416 2005",,,,,,wfo-0000865081,4120941,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3034ec2-8fd1-11eb-924d-9cd76263cbd0,genus,Douepea,,,Cambess.,,1835,,"Voyage Inde Bot. 4: 18. 1835.",,,,,,12544-1,wfo-4000012476,3043820,,
+e6e1f14c-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Douepea,,"(Hedge & Kit Tan) O.Appel & Al-Shehbaz",,2001,,"Novon 11: 297 2001",,Q55774921,,,,20001260-1,wfo-0000654799,3043823,,
+e6e20bfa-8fcc-11eb-924d-9cd76263cbd0,species,tortuosa,Douepea,,Cambess.,,1841,,"Voy. Inde 4: 18 1841",,,,,,282302-1,wfo-0000654800,3043821,,
+51425a36-8fcd-11eb-924d-9cd76263cbd0,species,deweyi,Douglasdeweya,,"(Jensen, Hatch & Wipff) C.Yen, J.L.Yang & B.R.Baum",,2005,,"Canad. J. Bot. 83: 417 2005",,,,,,77070512-1,wfo-0000865080,4120953,,
+51427732-8fcd-11eb-924d-9cd76263cbd0,species,wangii,Douglasdeweya,,"C.Yen, J.L.Yang & B.R.Baum",,2005,,"Canad. J. Bot. 83: 416 2005",,,,,,,wfo-0000865081,4120941,,

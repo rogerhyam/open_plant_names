@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e510517e-8fd1-11eb-924d-9cd76263cbd0,genus,Ildefonsia,,,Gardner,1842,"London J. Bot. 1: 184. 1842.",,,,,37730-1,wfo-4000018989,8370768,
-1160b5c0-8fcd-11eb-924d-9cd76263cbd0,species,bibracteata,Ildefonsia,,Gardner,1842,"London J. Bot. 1: 184 1842",,,,,803942-1,wfo-0000729161,3742040,
-1160d53c-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Ileocarpus,,Miers,1851,"Ann. Mag. Nat. Hist. II, 7: 40 1851",,,,,580969-1,wfo-0000729162,3829620,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e510517e-8fd1-11eb-924d-9cd76263cbd0,genus,Ildefonsia,,,Gardner,,1842,,"London J. Bot. 1: 184. 1842.",,,,,,37730-1,wfo-4000018989,8370768,,
+1160b5c0-8fcd-11eb-924d-9cd76263cbd0,species,bibracteata,Ildefonsia,,Gardner,,1842,,"London J. Bot. 1: 184 1842",,,,,,803942-1,wfo-0000729161,3742040,,

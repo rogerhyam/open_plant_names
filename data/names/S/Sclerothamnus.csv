@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea2d2ad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerothamnus,,,,,,,,,,,wfo-4000034769,,
-886c00f8-8fcc-11eb-924d-9cd76263cbd0,species,ebrenbergii,Sclerothamnus,,Harms,1921,"Repert. Spec. Nov. Regni Veg. 17: 326, 467 1921",,,,,,wfo-0000498901,5633104,
-b71c8db8-8fcd-11eb-924d-9cd76263cbd0,species,ehrenbergii,Sclerothamnus,,Harms,1921,"Repert. Spec. Nov. Regni Veg. 17: 326, indice p. 467 1921",,,,,518155-1,wfo-0001059836,7795419,
-886c1b7e-8fcc-11eb-924d-9cd76263cbd0,species,microphyllus,Sclerothamnus,,R.Br.,1811,"Hortus Kew. 3: 16 1811",,,,,518156-1,wfo-0000498902,5611345,
-886c3780-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Sclerothamnus,,Harms,1921,"Repert. Spec. Nov. Regni Veg. 17: 325, 467 1921",,,,,518157-1,wfo-0000498903,5633099,
-886c5102-8fcc-11eb-924d-9cd76263cbd0,species,purpusii,Sclerothamnus,,Harms,1921,"Repert. Spec. Nov. Regni Veg. 17: 326, 467 1921",,,,,518158-1,wfo-0000498904,5633095,
-c3470ea2-8fd1-11eb-924d-9cd76263cbd0,species,squamatus,Sclerothamnus,,Melville,,,,,,,,wfo-0001260219,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea2d2ad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerothamnus,,,,,,,,,,,,,,wfo-4000034769,,,
+886c00f8-8fcc-11eb-924d-9cd76263cbd0,species,ebrenbergii,Sclerothamnus,,Harms,,1921,,"Repert. Spec. Nov. Regni Veg. 17: 326, 467 1921",,,,,,,wfo-0000498901,5633104,,
+b71c8db8-8fcd-11eb-924d-9cd76263cbd0,species,ehrenbergii,Sclerothamnus,,Harms,,1921,,"Repert. Spec. Nov. Regni Veg. 17: 326, indice p. 467 1921",,Q55753215,,,,518155-1,wfo-0001059836,7795419,,
+886c1b7e-8fcc-11eb-924d-9cd76263cbd0,species,microphyllus,Sclerothamnus,,R.Br.,,1811,,"Hortus Kew. 3: 16 1811",,,,,,518156-1,wfo-0000498902,5611345,,
+886c3780-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Sclerothamnus,,Harms,,1921,,"Repert. Spec. Nov. Regni Veg. 17: 325, 467 1921",,Q55753214,,,,518157-1,wfo-0000498903,5633099,,
+886c5102-8fcc-11eb-924d-9cd76263cbd0,species,purpusii,Sclerothamnus,,Harms,,1921,,"Repert. Spec. Nov. Regni Veg. 17: 326, 467 1921",,Q55753215,,,,518158-1,wfo-0000498904,5633095,,
+c3470ea2-8fd1-11eb-924d-9cd76263cbd0,species,squamatus,Sclerothamnus,,Melville,,,,,,,,,,,wfo-0001260219,,,

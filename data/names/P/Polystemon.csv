@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8e3e31a-8fd1-11eb-924d-9cd76263cbd0,genus,Polystemon,,,D.Don,1830,"Edinburgh New Philos. J. 9: 95. 1830.",,,,,,wfo-4000030827,7333807,
-788cc136-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Polystemon,,D.Don,1830,"Edinburgh New Philos. J. 9: 95 1830",,,,,792478-1,wfo-0000471500,3613288,
-788dadc6-8fcc-11eb-924d-9cd76263cbd0,species,triphyllus,Polystemon,,D.Don,1830,"Edinburgh New Philos. J. 9: 95 1830",,,,,792479-1,wfo-0000471507,3613278,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8e3e31a-8fd1-11eb-924d-9cd76263cbd0,genus,Polystemon,,,D.Don,,1830,,"Edinburgh New Philos. J. 9: 95. 1830.",,,,,,,wfo-4000030827,7333807,,
+788cc136-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Polystemon,,D.Don,,1830,,"Edinburgh New Philos. J. 9: 95 1830",,,,,,792478-1,wfo-0000471500,3613288,,
+788dadc6-8fcc-11eb-924d-9cd76263cbd0,species,triphyllus,Polystemon,,D.Don,,1830,,"Edinburgh New Philos. J. 9: 95 1830",,,,,,792479-1,wfo-0000471507,3613278,,

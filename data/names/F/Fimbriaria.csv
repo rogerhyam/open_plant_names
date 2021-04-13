@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ba340c-8fd1-11eb-924d-9cd76263cbd0,genus,Fimbriaria,,,,,,,,,,,wfo-4000014768,,
-fb796e82-8fcc-11eb-924d-9cd76263cbd0,species,cujabensis,Fimbriaria,,Griseb.,1839,"Linnaea 13: 189 1839",,,,,556327-1,wfo-0000690978,5635065,
-fb798c50-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Fimbriaria,,A.Juss.,1833,"Fl. Bras. Merid. 3: 63 1833",,,,,556328-1,wfo-0000690979,5635062,
-fb79a6cc-8fcc-11eb-924d-9cd76263cbd0,species,janusioides,Fimbriaria,,A.Juss.,1840,"Ann. Sci. Nat., Bot. II, 13: 250 1840",,,,,104887-2,wfo-0000690980,5635060,
-fb79c198-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Fimbriaria,,A.Juss.,1846,"Repert. Bot. Syst. 5: 354 1846",,,,,556330-1,wfo-0000690981,5635059,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ba340c-8fd1-11eb-924d-9cd76263cbd0,genus,Fimbriaria,,,,,,,,,,,,,,wfo-4000014768,,,
+fb796e82-8fcc-11eb-924d-9cd76263cbd0,species,cujabensis,Fimbriaria,,Griseb.,,1839,,"Linnaea 13: 189 1839",,,,,,556327-1,wfo-0000690978,5635065,,
+fb798c50-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Fimbriaria,,A.Juss.,,1833,,"Fl. Bras. Merid. 3: 63 1833",,,,,,556328-1,wfo-0000690979,5635062,,
+fb79a6cc-8fcc-11eb-924d-9cd76263cbd0,species,janusioides,Fimbriaria,,A.Juss.,,1840,,"Ann. Sci. Nat., Bot. II, 13: 250 1840",,,,,,104887-2,wfo-0000690980,5635060,,
+fb79c198-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Fimbriaria,,A.Juss.,,1846,,"Repert. Bot. Syst. 5: 354 1846",,,,,,556330-1,wfo-0000690981,5635059,,

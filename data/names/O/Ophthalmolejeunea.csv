@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7978dc2-8fd1-11eb-924d-9cd76263cbd0,genus,Ophthalmolejeunea,,,"(R.M.Schust.) R.M.Schust.",,"Hepat. Anthocerotae N. Amer. 4: 1178. 1980.",,,,,,wfo-4000026971,4889882,
-fb69146e-8fcd-11eb-924d-9cd76263cbd0,species,brunnea,Ophthalmolejeunea,,"(Mizut.) R.M.Schust.",1992,"J. Hattori Bot. Lab. 72: 323 1992",,,,fb68dd96-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001206877,8261133,
-f9dbb52a-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Ophthalmolejeunea,,"(Stephani) R.M.Schust.",,"Hepat. Anthocerotae N. Amer. 4: 1178 1980",,,,,,wfo-0001203819,7799114,
-fb693200-8fcd-11eb-924d-9cd76263cbd0,species,longilobula,Ophthalmolejeunea,,"(Herzog) R.M.Schust.",1992,"J. Hattori Bot. Lab. 72: 323 1992",,,,fb68f862-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001206878,8070150,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7978dc2-8fd1-11eb-924d-9cd76263cbd0,genus,Ophthalmolejeunea,,,"(R.M.Schust.) R.M.Schust.",,,,"Hepat. Anthocerotae N. Amer. 4: 1178. 1980.",,,,,,,wfo-4000026971,4889882,,
+fb69146e-8fcd-11eb-924d-9cd76263cbd0,species,brunnea,Ophthalmolejeunea,,"(Mizut.) R.M.Schust.",,1992,,"J. Hattori Bot. Lab. 72: 323 1992",,,,fb68dd96-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001206877,8261133,,
+f9dbb52a-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Ophthalmolejeunea,,"(Stephani) R.M.Schust.",,,,"Hepat. Anthocerotae N. Amer. 4: 1178 1980",,,,,,,wfo-0001203819,7799114,,
+fb693200-8fcd-11eb-924d-9cd76263cbd0,species,longilobula,Ophthalmolejeunea,,"(Herzog) R.M.Schust.",,1992,,"J. Hattori Bot. Lab. 72: 323 1992",,,,fb68f862-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001206878,8070150,,

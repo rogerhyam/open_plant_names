@@ -1,8 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5950072-8fd1-11eb-924d-9cd76263cbd0,genus,Lasiarrhenum,,,I.M.Johnst.,1924,"Contr. Gray Herb. 70: 15. 1924.",,,,,,wfo-4000020645,7295428,
-c1a36460-8fd1-11eb-924d-9cd76263cbd0,species,confundum,Lasiarrhenum,,B.L.Turner,1994,"Phytologia 77(1): 41–43, f. 1 1994",,,,,302224-2,wfo-0001257204,4066835,
-bacb7b50-8fd1-11eb-924d-9cd76263cbd0,species,lundellii,Lasiarrhenum,,H.H.Johnst.,1959,"Wrightia 2(1): 15–16 1959",,,,,,wfo-0001244430,7794834,
-aae054ae-8fd1-11eb-924d-9cd76263cbd0,species,pinetorum,Lasiarrhenum,,I.M.Johnst.,1935,"J. Arnold Arbor. 16: 187 1935",,,,,135767-2,wfo-0001215195,4066814,
-bc9535fc-8fd1-11eb-924d-9cd76263cbd0,species,strigosum,Lasiarrhenum,,"(Kunth) I.M.Johnst.",1924,"Contr. Gray Herb. 70: 15 1924",,,,bc95718e-8fd1-11eb-924d-9cd76263cbd0,135768-2,wfo-0001247722,4066800,
-c1a340d4-8fd1-11eb-924d-9cd76263cbd0,species,trinervium,Lasiarrhenum,,"(Lehm.) B.L.Turner",1994,"Phytologia 77(1): 39–40 1994",,,,c1a31348-8fd1-11eb-924d-9cd76263cbd0,1156113-2,wfo-0001257203,4066788,
-8dc46d4c-8fcc-11eb-924d-9cd76263cbd0,species,hispidula,Lasierpa,,"(L.) Torr.",1839,"Geol. Rep. N. York 152 1839",,,,f0fce59c-8fcc-11eb-924d-9cd76263cbd0,609893-1,wfo-0000507508,3684103,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5950072-8fd1-11eb-924d-9cd76263cbd0,genus,Lasiarrhenum,,,I.M.Johnst.,,1924,,"Contr. Gray Herb. 70: 15. 1924.",,,,,,,wfo-4000020645,7295428,,
+c1a36460-8fd1-11eb-924d-9cd76263cbd0,species,confundum,Lasiarrhenum,,B.L.Turner,,1994,,"Phytologia 77(1): 41–43, f. 1 1994",,,,,,302224-2,wfo-0001257204,4066835,,
+bacb7b50-8fd1-11eb-924d-9cd76263cbd0,species,lundellii,Lasiarrhenum,,H.H.Johnst.,,1959,,"Wrightia 2(1): 15–16 1959",,,,,,,wfo-0001244430,7794834,,
+aae054ae-8fd1-11eb-924d-9cd76263cbd0,species,pinetorum,Lasiarrhenum,,I.M.Johnst.,,1935,,"J. Arnold Arbor. 16: 187 1935",,Q100558663,,,,135767-2,wfo-0001215195,4066814,,
+bc9535fc-8fd1-11eb-924d-9cd76263cbd0,species,strigosum,Lasiarrhenum,,"(Kunth) I.M.Johnst.",,1924,,"Contr. Gray Herb. 70: 15 1924",,Q94388429,,bc95718e-8fd1-11eb-924d-9cd76263cbd0,,135768-2,wfo-0001247722,4066800,,
+c1a340d4-8fd1-11eb-924d-9cd76263cbd0,species,trinervium,Lasiarrhenum,,"(Lehm.) B.L.Turner",,1994,,"Phytologia 77(1): 39–40 1994",,,,c1a31348-8fd1-11eb-924d-9cd76263cbd0,,1156113-2,wfo-0001257203,4066788,,

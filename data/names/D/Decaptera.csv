@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2878a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Decaptera,,,Turcz.,1846,"Bull. Soc. Imp. Naturalistes Moscou 19(4): 497. 1846.",,,,,,wfo-4000010929,3051458,
-dda91dda-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Decaptera,,Turcz.,1846,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 498 1846",,,,,281913-1,wfo-0000639060,3050943,
-ccf5560c-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Decaraphe,,Miq.,1844,"Linnaea 18: 280 1844",,,,,,wfo-0001277994,3870487,
-ccf57b28-8fd1-11eb-924d-9cd76263cbd0,species,fockeana,Decaraphe,,Miq.,,"Comm. Phytogr. 2: 84, t. 10",,,,,568168-1,wfo-0001277995,3870477,
-ccf5d9ec-8fd1-11eb-924d-9cd76263cbd0,species,hostmannii,Decaraphe,,Steud.,1844,"Flora 27: 722 1844",,,,,568169-1,wfo-0001277996,5938686,
-7e1ddbca-8fcd-11eb-924d-9cd76263cbd0,species,glandulosum,Decarinium,,"(L.) Raf.",1825,"Neogenyton 1 1825",,,,,344267-1,wfo-0000937976,3058212,
-7e1df768-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Decarinium,,Raf.,1840,"Autik. Bot. 49 1840",,,,,344268-1,wfo-0000937977,3058224,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2878a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Decaptera,,,Turcz.,,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19(4): 497. 1846.",,,,,,,wfo-4000010929,3051458,,
+dda91dda-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Decaptera,,Turcz.,,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 498 1846",,,,,,281913-1,wfo-0000639060,3050943,,
+ccf5560c-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Decaraphe,,Miq.,,1844,,"Linnaea 18: 280 1844",,,,,,,wfo-0001277994,3870487,,
+ccf57b28-8fd1-11eb-924d-9cd76263cbd0,species,fockeana,Decaraphe,,Miq.,,,,"Comm. Phytogr. 2: 84, t. 10",,,,,,568168-1,wfo-0001277995,3870477,,
+ccf5d9ec-8fd1-11eb-924d-9cd76263cbd0,species,hostmannii,Decaraphe,,Steud.,,1844,,"Flora 27: 722 1844",,,,,,568169-1,wfo-0001277996,5938686,,
+7e1ddbca-8fcd-11eb-924d-9cd76263cbd0,species,glandulosum,Decarinium,,"(L.) Raf.",,1825,,"Neogenyton 1 1825",,,,,,344267-1,wfo-0000937976,3058212,,
+7e1df768-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Decarinium,,Raf.,,1840,,"Autik. Bot. 49 1840",,,,,,344268-1,wfo-0000937977,3058224,,

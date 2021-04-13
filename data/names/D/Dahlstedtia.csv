@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e275f52c-8fd1-11eb-924d-9cd76263cbd0,genus,Dahlstedtia,,,Malme,,,,,,,297723-2,wfo-4000010669,2960229,
-21be62ea-8fc4-11eb-924d-9cd76263cbd0,species,pentaphylla,Dahlstedtia,,"(Taub.) Burkart",,,,,,,,wfo-0000186532,2960232,
-eeb7530a-8fc0-11eb-924d-9cd76263cbd0,species,pinnata,Dahlstedtia,,"(Benth.) Malme",,,,,,,1025744-2,wfo-0000168982,2960230,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e275f52c-8fd1-11eb-924d-9cd76263cbd0,genus,Dahlstedtia,,,Malme,,,,,,,,,,297723-2,wfo-4000010669,2960229,,
+21be62ea-8fc4-11eb-924d-9cd76263cbd0,species,pentaphylla,Dahlstedtia,,"(Taub.) Burkart",,,,,,,,,,,wfo-0000186532,2960232,,
+eeb7530a-8fc0-11eb-924d-9cd76263cbd0,species,pinnata,Dahlstedtia,,"(Benth.) Malme",,,,,,,,,,1025744-2,wfo-0000168982,2960230,,

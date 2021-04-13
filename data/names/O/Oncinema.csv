@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e78ce3cc-8fd1-11eb-924d-9cd76263cbd0,genus,Oncinema,,,Arn.,1834,"Edinburgh New Philos. J. 17: 261. 1834.",,,,,3542-1,wfo-4000026836,7312077,
-cab4f374-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Oncinema,,"(L.f.) Bullock",1963,"Kew Bull. 17: 184 1963",,,,,99883-1,wfo-0001103577,3575494,
-3bc61cb6-8fcc-11eb-924d-9cd76263cbd0,species,roxburghii,Oncinema,,Arn.,1834,"Edinburgh New Philos. J. 17: 261 1834",,,,,99884-1,wfo-0000384562,3575487,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e78ce3cc-8fd1-11eb-924d-9cd76263cbd0,genus,Oncinema,,,Arn.,,1834,,"Edinburgh New Philos. J. 17: 261. 1834.",,,,,,3542-1,wfo-4000026836,7312077,,
+cab4f374-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Oncinema,,"(L.f.) Bullock",,1963,,"Kew Bull. 17: 184 1963",,Q55786794,,,,99883-1,wfo-0001103577,3575494,,
+3bc61cb6-8fcc-11eb-924d-9cd76263cbd0,species,roxburghii,Oncinema,,Arn.,,1834,,"Edinburgh New Philos. J. 17: 261 1834",,,,,,99884-1,wfo-0000384562,3575487,,

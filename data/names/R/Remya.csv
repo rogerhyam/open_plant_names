@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e98abd5c-8fd1-11eb-924d-9cd76263cbd0,genus,Remya,,,"Hillebr. ex Benth. & Hook.f.",,,,,,,10820-1,wfo-4000032742,9721944,
-ae276c64-8fb9-11eb-924d-9cd76263cbd0,species,kauaiensis,Remya,,Hillebr.,1888,"Fl. Haw. Isl. (1888) 194.",,,,,241313-1,wfo-0000120457,3087570,
-2d710780-8fb7-11eb-924d-9cd76263cbd0,variety,magnifica,Remya,kauaiensis,"O.Deg. & Sherff",,,,,,,,wfo-0000097152,4273932,
-c8d48c0a-8fb8-11eb-924d-9cd76263cbd0,variety,magnifolia,Remya,kauaiensis,"O.Deg. & Sherff",1954,"Botanical Leaflets 9: 8 1954",,,,,,wfo-0000112572,4273931,
-50adb848-8fbb-11eb-924d-9cd76263cbd0,species,mauiensis,Remya,,Hillebr.,1888,1888,,,,,241315-1,wfo-0000133298,3087569,
-99b792c6-8fba-11eb-924d-9cd76263cbd0,species,montgomeryi,Remya,,"W.L.Wagner & D.R.Herbst",1987,"in Syst. Bot., 12(4): 605 (1987)",,,,,933647-1,wfo-0000127950,3087568,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e98abd5c-8fd1-11eb-924d-9cd76263cbd0,genus,Remya,,,"Hillebr. ex Benth. & Hook.f.",,,,,,,,,,10820-1,wfo-4000032742,9721944,,
+ae276c64-8fb9-11eb-924d-9cd76263cbd0,species,kauaiensis,Remya,,Hillebr.,,1888,,"Fl. Haw. Isl. (1888) 194.",,,,,,241313-1,wfo-0000120457,3087570,,
+2d710780-8fb7-11eb-924d-9cd76263cbd0,variety,magnifica,Remya,kauaiensis,"O.Deg. & Sherff",,,,,,,,,,,wfo-0000097152,4273932,,
+c8d48c0a-8fb8-11eb-924d-9cd76263cbd0,variety,magnifolia,Remya,kauaiensis,"O.Deg. & Sherff",,1954,,"Botanical Leaflets 9: 8 1954",,,,,,,wfo-0000112572,4273931,,
+50adb848-8fbb-11eb-924d-9cd76263cbd0,species,mauiensis,Remya,,Hillebr.,,1888,,1888,,,,,,241315-1,wfo-0000133298,3087569,,
+99b792c6-8fba-11eb-924d-9cd76263cbd0,species,montgomeryi,Remya,,"W.L.Wagner & D.R.Herbst",,1987,,"in Syst. Bot., 12(4): 605 (1987)",,Q55765391,,,,933647-1,wfo-0000127950,3087568,,

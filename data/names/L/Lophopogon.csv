@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6119240-8fd1-11eb-924d-9cd76263cbd0,genus,Lophopogon,,,Hack.,1887,"Nat. Pflanzenfam. 2(2): 26. 1887.",,,,,18429-1,wfo-4000022228,4129005,
-5768254e-8fcd-11eb-924d-9cd76263cbd0,species,duthiei,Lophopogon,,"Stapf ex Bor",1960,"Grass. Burma, Ceylon, India & Pakistan 689 1960",,,,,407564-1,wfo-0000878590,4129053,
-576841e6-8fcd-11eb-924d-9cd76263cbd0,species,intermedius,Lophopogon,,A.Camus,1919,"Bull. Mus. Natl. Hist. Nat. 25: 285 1919",,,,,407565-1,wfo-0000878591,4129046,
-5768613a-8fcd-11eb-924d-9cd76263cbd0,species,kingii,Lophopogon,,Hook.f.,1896,"Fl. Brit. India 7: 149 1896",,,,,407566-1,wfo-0000878592,4129039,
-5768d084-8fcd-11eb-924d-9cd76263cbd0,species,tenax,Lophopogon,,Balansa,1890,"J. Bot. (Morot) 4: 83 1890",,,,,407567-1,wfo-0000878596,4129031,
-5768ecea-8fcd-11eb-924d-9cd76263cbd0,species,tridentatus,Lophopogon,,"(Roxb.) Hack.",1889,"Monogr. Phan. 6: 254 1889",,,,,407568-1,wfo-0000878597,4129024,
-57690612-8fcd-11eb-924d-9cd76263cbd0,species,truncatiglumis,Lophopogon,,"(Benth.) Hack.",1889,"Monogr. Phan. 6: 255 1889",,,,,407569-1,wfo-0000878598,4129004,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6119240-8fd1-11eb-924d-9cd76263cbd0,genus,Lophopogon,,,Hack.,,1887,,"Nat. Pflanzenfam. 2(2): 26. 1887.",,,,,,18429-1,wfo-4000022228,4129005,,
+5768254e-8fcd-11eb-924d-9cd76263cbd0,species,duthiei,Lophopogon,,"Stapf ex Bor",,1960,,"Grass. Burma, Ceylon, India & Pakistan 689 1960",,,,,,407564-1,wfo-0000878590,4129053,,
+576841e6-8fcd-11eb-924d-9cd76263cbd0,species,intermedius,Lophopogon,,A.Camus,,1919,,"Bull. Mus. Natl. Hist. Nat. 25: 285 1919",,,,,,407565-1,wfo-0000878591,4129046,,
+5768613a-8fcd-11eb-924d-9cd76263cbd0,species,kingii,Lophopogon,,Hook.f.,,1896,,"Fl. Brit. India 7: 149 1896",,,,,,407566-1,wfo-0000878592,4129039,,
+5768d084-8fcd-11eb-924d-9cd76263cbd0,species,tenax,Lophopogon,,Balansa,,1890,,"J. Bot. (Morot) 4: 83 1890",,,,,,407567-1,wfo-0000878596,4129031,,
+5768ecea-8fcd-11eb-924d-9cd76263cbd0,species,tridentatus,Lophopogon,,"(Roxb.) Hack.",,1889,,"Monogr. Phan. 6: 254 1889",,,,,,407568-1,wfo-0000878597,4129024,,
+57690612-8fcd-11eb-924d-9cd76263cbd0,species,truncatiglumis,Lophopogon,,"(Benth.) Hack.",,1889,,"Monogr. Phan. 6: 255 1889",,,,,,407569-1,wfo-0000878598,4129004,,

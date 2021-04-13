@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f466d0-8fd1-11eb-924d-9cd76263cbd0,genus,Hylenaea,,,Miers,1872,"Trans. Linn. Soc. London 28: 330, 366–367. 1872. (post 17 Mai 1872)",,,,,6588-1,wfo-4000018602,7265702,
-1016ef54-8fcd-11eb-924d-9cd76263cbd0,species,capilliflora,Hylenaea,,Miers,1872,"Trans. Linn. Soc. London 28: 368 1872",,,,,161662-1,wfo-0000726889,7939611,
-10170dfe-8fcd-11eb-924d-9cd76263cbd0,species,comosa,Hylenaea,,"(Sw.) Miers",1872,"Trans. Linn. Soc. London 28: 367 1872",,,,,161663-1,wfo-0000726890,3793703,
-c30285de-8fd1-11eb-924d-9cd76263cbd0,species,jamaicensis,Hylenaea,,Miers,1872,"Trans. Linn. Soc. London 28: 369 1872",,,,,161664-1,wfo-0001259717,3793689,
-10172aaa-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Hylenaea,,"(Lam.) Miers",1872,"Trans. Linn. Soc. London 28: 368 1872",,,,,161665-1,wfo-0000726891,3793680,
-b997f64a-8fcd-11eb-924d-9cd76263cbd0,species,praecelsa,Hylenaea,,"(Miers) A.C.Sm.",1940,"Brittonia 3(3): 410 1940",,,,b9975258-8fcd-11eb-924d-9cd76263cbd0,125377-2,wfo-0001065485,3793660,
-c1e1aafe-8fd1-11eb-924d-9cd76263cbd0,species,unguiculata,Hylenaea,,Mennega,1985,"Proc. Kon. Ned. Akad. Wetensch., C 88(4): 436–438, f. 1 1985",,,,,278498-2,wfo-0001257682,3793643,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f466d0-8fd1-11eb-924d-9cd76263cbd0,genus,Hylenaea,,,Miers,,1872,,"Trans. Linn. Soc. London 28: 330, 366–367. 1872. (post 17 Mai 1872)",,Q55760786,,,,6588-1,wfo-4000018602,7265702,,
+1016ef54-8fcd-11eb-924d-9cd76263cbd0,species,capilliflora,Hylenaea,,Miers,,1872,,"Trans. Linn. Soc. London 28: 368 1872",,Q55760786,,,,161662-1,wfo-0000726889,7939611,,
+10170dfe-8fcd-11eb-924d-9cd76263cbd0,species,comosa,Hylenaea,,"(Sw.) Miers",,1872,,"Trans. Linn. Soc. London 28: 367 1872",,Q55760786,,,,161663-1,wfo-0000726890,3793703,,
+c30285de-8fd1-11eb-924d-9cd76263cbd0,species,jamaicensis,Hylenaea,,Miers,,1872,,"Trans. Linn. Soc. London 28: 369 1872",,Q55760786,,,,161664-1,wfo-0001259717,3793689,,
+10172aaa-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Hylenaea,,"(Lam.) Miers",,1872,,"Trans. Linn. Soc. London 28: 368 1872",,Q55760786,,,,161665-1,wfo-0000726891,3793680,,
+b997f64a-8fcd-11eb-924d-9cd76263cbd0,species,praecelsa,Hylenaea,,"(Miers) A.C.Sm.",,1940,,"Brittonia 3(3): 410 1940",,Q95998933,,b9975258-8fcd-11eb-924d-9cd76263cbd0,,125377-2,wfo-0001065485,3793660,,
+c1e1aafe-8fd1-11eb-924d-9cd76263cbd0,species,unguiculata,Hylenaea,,Mennega,,1985,,"Proc. Kon. Ned. Akad. Wetensch., C 88(4): 436–438, f. 1 1985",,,,,,278498-2,wfo-0001257682,3793643,,

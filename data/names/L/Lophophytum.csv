@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e61174a4-8fd1-11eb-924d-9cd76263cbd0,genus,Lophophytum,,,"Schott & Endl.",1832,"Melet. Bot. 1. 1832.",,,,,3845-1,wfo-4000022227,4195026,
-db9eb102-8fcd-11eb-924d-9cd76263cbd0,species,bolivianum,Lophophytum,,Wedd.,1850,"Ann. Sci. Nat., Bot., sér. 3, 3(14): 185, pl. 10, f. 25, 30 1850",,,,,143616-2,wfo-0001140454,4195291,
-dba234c6-8fcd-11eb-924d-9cd76263cbd0,species,leandrii,Lophophytum,,Eichler,1869,"Fl. Bras. 4(2): 59, pl. 15 1869",,,,,103371-1,wfo-0001140484,,
-dba0c44c-8fcd-11eb-924d-9cd76263cbd0,species,mirabile,Lophophytum,,"Schott & Endl.",1832,"Melet. Bot. 1, t. 1 1832",,,,,103373-1,wfo-0001140471,7309816,
-2c433558-8fcc-11eb-924d-9cd76263cbd0,species,rizzoi,Lophophytum,,Delprete,2004,"Kew Bull. 59: 292 2004",,,,,77061514-1,wfo-0000361297,4195214,
-dba08b12-8fcd-11eb-924d-9cd76263cbd0,species,weddellii,Lophophytum,,Hook.f.,1856,"Trans. Linn. Soc. London 2: 30, 49, t. 9 1856",,,,,103374-1,wfo-0001140469,8128920,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e61174a4-8fd1-11eb-924d-9cd76263cbd0,genus,Lophophytum,,,"Schott & Endl.",,1832,,"Melet. Bot. 1. 1832.",,,,,,3845-1,wfo-4000022227,4195026,,
+db9eb102-8fcd-11eb-924d-9cd76263cbd0,species,bolivianum,Lophophytum,,Wedd.,,1850,,"Ann. Sci. Nat., Bot., sér. 3, 3(14): 185, pl. 10, f. 25, 30 1850",,,,,,143616-2,wfo-0001140454,4195291,,
+dba234c6-8fcd-11eb-924d-9cd76263cbd0,species,leandrii,Lophophytum,,Eichler,,1869,,"Fl. Bras. 4(2): 59, pl. 15 1869",,,,,,103371-1,wfo-0001140484,,,
+dba0c44c-8fcd-11eb-924d-9cd76263cbd0,species,mirabile,Lophophytum,,"Schott & Endl.",,1832,,"Melet. Bot. 1, t. 1 1832",,,,,,103373-1,wfo-0001140471,7309816,,
+2c433558-8fcc-11eb-924d-9cd76263cbd0,species,rizzoi,Lophophytum,,Delprete,,2004,,"Kew Bull. 59: 292 2004",,Q55784711,,,,77061514-1,wfo-0000361297,4195214,,
+dba08b12-8fcd-11eb-924d-9cd76263cbd0,species,weddellii,Lophophytum,,Hook.f.,,1856,,"Trans. Linn. Soc. London 2: 30, 49, t. 9 1856",,Q55760750,,,,103374-1,wfo-0001140469,8128920,,

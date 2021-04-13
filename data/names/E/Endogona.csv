@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e34e5520-8fd1-11eb-924d-9cd76263cbd0,genus,Endogona,,,,,,,,,,,wfo-4000013401,2769598,
-23732504-8fcd-11eb-924d-9cd76263cbd0,species,adenanthera,Endogona,,"(G.Forst.) Raf.",1837,"Fl. Tellur. 2: 28 1837",,,,203823ee-8fcd-11eb-924d-9cd76263cbd0,534639-1,wfo-0000766534,2781019,
-23734188-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Endogona,,"(L.) Raf.",1837,"Fl. Tellur. 2: 28 1837",,,,3e04840e-8fcc-11eb-924d-9cd76263cbd0,534640-1,wfo-0000766535,2773945,
-8303d1a8-8fcd-11eb-924d-9cd76263cbd0,species,myrsinites,Endoisila,,"(L.) Raf.",1838,"Sylva Tellur. 114 1838",,,,,345274-1,wfo-0000949007,3068425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e34e5520-8fd1-11eb-924d-9cd76263cbd0,genus,Endogona,,,,,,,,,,,,,,wfo-4000013401,2769598,,
+23732504-8fcd-11eb-924d-9cd76263cbd0,species,adenanthera,Endogona,,"(G.Forst.) Raf.",,1837,,"Fl. Tellur. 2: 28 1837",,,,203823ee-8fcd-11eb-924d-9cd76263cbd0,,534639-1,wfo-0000766534,2781019,,
+23734188-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Endogona,,"(L.) Raf.",,1837,,"Fl. Tellur. 2: 28 1837",,,,3e04840e-8fcc-11eb-924d-9cd76263cbd0,,534640-1,wfo-0000766535,2773945,,

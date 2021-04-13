@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dffc2fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Axinea,,,A.Juss.,1823,"Dict. Sci. Nat. (ed. 2) 29: 508. 1823.",,,,,,wfo-4000003790,9344549,
-3009369a-8fbf-11eb-924d-9cd76263cbd0,species,nitida,Axinea,,Cogn.,1908,"Bot. Jahrb. Syst. 42(1): 138 1908 [28 Jul 1908]",,,,,27253-2,wfo-0000158493,3867544,
-3013c5a6-8fbf-11eb-924d-9cd76263cbd0,species,robusta,Axinea,,Eves,1936,"Bull. Torrey Bot. Club 63: 221 1936",,,,,27258-2,wfo-0000158494,3867498,
-301e670e-8fbf-11eb-924d-9cd76263cbd0,species,sodiroi,Axinea,,Wurdack,1976,"Phytologia 35: 8 (-9) 1976",,,,,27261-2,wfo-0000158495,3867470,
-302907c2-8fbf-11eb-924d-9cd76263cbd0,species,tovarii,Axinea,,Wurdack,1966,"Phytologia 13: 70 1966",,,,,27265-2,wfo-0000158496,3867426,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dffc2fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Axinea,,,A.Juss.,,1823,,"Dict. Sci. Nat. (ed. 2) 29: 508. 1823.",,,,,,,wfo-4000003790,9344549,,
+3009369a-8fbf-11eb-924d-9cd76263cbd0,species,nitida,Axinea,,Cogn.,,1908,,"Bot. Jahrb. Syst. 42(1): 138 1908 [28 Jul 1908]",,,,,,27253-2,wfo-0000158493,3867544,,
+3013c5a6-8fbf-11eb-924d-9cd76263cbd0,species,robusta,Axinea,,Eves,,1936,,"Bull. Torrey Bot. Club 63: 221 1936",,Q55767313,,,,27258-2,wfo-0000158494,3867498,,
+301e670e-8fbf-11eb-924d-9cd76263cbd0,species,sodiroi,Axinea,,Wurdack,,1976,,"Phytologia 35: 8 (-9) 1976",,,,,,27261-2,wfo-0000158495,3867470,,
+302907c2-8fbf-11eb-924d-9cd76263cbd0,species,tovarii,Axinea,,Wurdack,,1966,,"Phytologia 13: 70 1966",,,,,,27265-2,wfo-0000158496,3867426,,

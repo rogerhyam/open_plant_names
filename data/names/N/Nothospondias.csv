@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75fab32-8fd1-11eb-924d-9cd76263cbd0,genus,Nothospondias,,,Engl.,1905,"Bot. Jahrb. Syst. 36: 216. 1905. (5 May 1905)",,,,,1867-1,wfo-4000026301,7329611,
-b347f510-8fcd-11eb-924d-9cd76263cbd0,species,staudtii,Nothospondias,,Engl.,1905,"Bot. Jahrb. Syst. 37: 217 1905",,,,,,wfo-0001051190,3708980,
-38e8773c-8fcc-11eb-924d-9cd76263cbd0,species,talbotii,Nothospondias,,S.Moore,1913,"Cat. Pl. Oban 23 1913",,,,,70099-1,wfo-0000381332,3708974,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75fab32-8fd1-11eb-924d-9cd76263cbd0,genus,Nothospondias,,,Engl.,,1905,,"Bot. Jahrb. Syst. 36: 216. 1905. (5 May 1905)",,,,,,1867-1,wfo-4000026301,7329611,,
+b347f510-8fcd-11eb-924d-9cd76263cbd0,species,staudtii,Nothospondias,,Engl.,,1905,,"Bot. Jahrb. Syst. 37: 217 1905",,,,,,,wfo-0001051190,3708980,,
+38e8773c-8fcc-11eb-924d-9cd76263cbd0,species,talbotii,Nothospondias,,S.Moore,,1913,,"Cat. Pl. Oban 23 1913",,,,,,70099-1,wfo-0000381332,3708974,,

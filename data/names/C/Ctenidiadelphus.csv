@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e23f621e-8fd1-11eb-924d-9cd76263cbd0,genus,Ctenidiadelphus,,,M.Fleisch.,,"Musci Buitenzorg 4: 1467. 1923.",,,,,,wfo-4000009951,2681756,
-eee0e1ae-8fcd-11eb-924d-9cd76263cbd0,species,cylindricarpus,Ctenidiadelphus,,"(Cardot) E.B.Bartram",1946,"Bryologist 49: 124 1946",,,,,,wfo-0001181232,7397435,
-eee0fe78-8fcd-11eb-924d-9cd76263cbd0,species,plumularia,Ctenidiadelphus,,"(Müll.Hal.) M.Fleisch.",,"Musci Buitenzorg 4: 1467 1923",,,,e3689bb4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001181233,2681758,
-eee11fde-8fcd-11eb-924d-9cd76263cbd0,species,spinulosus,Ctenidiadelphus,,M.Fleisch.,,"Musci Buitenzorg 4: 1470 1923",,,,,,wfo-0001181234,2681757,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e23f621e-8fd1-11eb-924d-9cd76263cbd0,genus,Ctenidiadelphus,,,M.Fleisch.,,,,"Musci Buitenzorg 4: 1467. 1923.",,,,,,,wfo-4000009951,2681756,,
+eee0e1ae-8fcd-11eb-924d-9cd76263cbd0,species,cylindricarpus,Ctenidiadelphus,,"(Cardot) E.B.Bartram",,1946,,"Bryologist 49: 124 1946",,,,,,,wfo-0001181232,7397435,,
+eee0fe78-8fcd-11eb-924d-9cd76263cbd0,species,plumularia,Ctenidiadelphus,,"(Müll.Hal.) M.Fleisch.",,,,"Musci Buitenzorg 4: 1467 1923",,,,e3689bb4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001181233,2681758,,
+eee11fde-8fcd-11eb-924d-9cd76263cbd0,species,spinulosus,Ctenidiadelphus,,M.Fleisch.,,,,"Musci Buitenzorg 4: 1470 1923",,,,,,,wfo-0001181234,2681757,,

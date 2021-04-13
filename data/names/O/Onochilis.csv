@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7900fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Onochilis,,,Mart.,1817,"Denkschr. Königl. Akad. Wiss. München 5: 177. 1817.",,,,,,wfo-4000026878,7294550,
-3d0ec280-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Onochilis,,Bubani,1897,"Fl. Pyren. 1: 493 1897",,,,,119511-1,wfo-0000386362,4059400,
-3d0e9ff8-8fcc-11eb-924d-9cd76263cbd0,species,pulla,Onochilis,,Mart.,1817,"Denkschr. Königl. Akad. Wiss. München 5: 177 1817",,,,,119512-1,wfo-0000386361,4059397,
-3d0e7ece-8fcc-11eb-924d-9cd76263cbd0,species,tinctoria,Onochilis,,Bubani,1897,"Fl. Pyren. 1: 491 1897",,,,,119513-1,wfo-0000386360,4059392,
-3d0e59a8-8fcc-11eb-924d-9cd76263cbd0,species,ventricosa,Onochilis,,Bubani,1897,"Fl. Pyren. 1: 492 1897",,,,,119514-1,wfo-0000386359,4059387,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7900fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Onochilis,,,Mart.,,1817,,"Denkschr. Königl. Akad. Wiss. München 5: 177. 1817.",,,,,,,wfo-4000026878,7294550,,
+3d0ec280-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Onochilis,,Bubani,,1897,,"Fl. Pyren. 1: 493 1897",,,,,,119511-1,wfo-0000386362,4059400,,
+3d0e9ff8-8fcc-11eb-924d-9cd76263cbd0,species,pulla,Onochilis,,Mart.,,1817,,"Denkschr. Königl. Akad. Wiss. München 5: 177 1817",,,,,,119512-1,wfo-0000386361,4059397,,
+3d0e7ece-8fcc-11eb-924d-9cd76263cbd0,species,tinctoria,Onochilis,,Bubani,,1897,,"Fl. Pyren. 1: 491 1897",,,,,,119513-1,wfo-0000386360,4059392,,
+3d0e59a8-8fcc-11eb-924d-9cd76263cbd0,species,ventricosa,Onochilis,,Bubani,,1897,,"Fl. Pyren. 1: 492 1897",,,,,,119514-1,wfo-0000386359,4059387,,

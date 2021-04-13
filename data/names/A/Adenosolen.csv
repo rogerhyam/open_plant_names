@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee387da-8fd1-11eb-924d-9cd76263cbd0,genus,Adenosolen,,,,,,,,,,,wfo-4000000665,7336047,
-a5138d6c-8fb2-11eb-924d-9cd76263cbd0,species,tenuifolius,Adenosolen,,DC.,1837,1837,,,,,,wfo-0000030649,4208906,
-889c7c48-8fb7-11eb-924d-9cd76263cbd0,species,tuberculatum,Adenospermum,,"Hook. & Arn.",1841,"318 1841",,,,,4396-2,wfo-0000100675,3088375,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee387da-8fd1-11eb-924d-9cd76263cbd0,genus,Adenosolen,,,,,,,,,,,,,,wfo-4000000665,7336047,,
+a5138d6c-8fb2-11eb-924d-9cd76263cbd0,species,tenuifolius,Adenosolen,,DC.,,1837,,1837,,,,,,,wfo-0000030649,4208906,,
+889c7c48-8fb7-11eb-924d-9cd76263cbd0,species,tuberculatum,Adenospermum,,"Hook. & Arn.",,1841,,"318 1841",,,,,,4396-2,wfo-0000100675,3088375,,

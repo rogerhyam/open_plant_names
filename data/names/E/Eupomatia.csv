@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e392edfc-8fd1-11eb-924d-9cd76263cbd0,genus,Eupomatia,,,R.Br.,,"Voy. Terra Austral. 2(App. 3): 597. 18 J.",,,,,2025-1,wfo-4000014241,3231413,
-f6e6c8c4-8fcc-11eb-924d-9cd76263cbd0,species,barbata,Eupomatia,,Jessup,2002,"Austrobaileya 6: 333 2002",,,,,20008322-1,wfo-0000682811,5565490,
-f6e6e5fc-8fcc-11eb-924d-9cd76263cbd0,species,belgraveana,Eupomatia,,F.Muell.,1887,"Australas. J. Pharm. 2(June): 4 1887",,,,,72992-1,wfo-0000682812,5565491,
-f6e722ba-8fcc-11eb-924d-9cd76263cbd0,species,bennettii,Eupomatia,,F.Muell.,1858,"Fragm. 1: 45 1858",,,,,72993-1,wfo-0000682814,8344770,
-f6e74498-8fcc-11eb-924d-9cd76263cbd0,species,laurina,Eupomatia,,R.Br.,1814,"Voy. Terra Austral. 2: 597 1814",,,,,72995-1,wfo-0000682815,5565488,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e392edfc-8fd1-11eb-924d-9cd76263cbd0,genus,Eupomatia,,,R.Br.,,,,"Voy. Terra Austral. 2(App. 3): 597. 18 J.",,,,,,2025-1,wfo-4000014241,3231413,,
+f6e6c8c4-8fcc-11eb-924d-9cd76263cbd0,species,barbata,Eupomatia,,Jessup,,2002,,"Austrobaileya 6: 333 2002",,Q92298945,,,,20008322-1,wfo-0000682811,5565490,,
+f6e6e5fc-8fcc-11eb-924d-9cd76263cbd0,species,belgraveana,Eupomatia,,F.Muell.,,1887,,"Australas. J. Pharm. 2(June): 4 1887",,,,,,72992-1,wfo-0000682812,5565491,,
+f6e722ba-8fcc-11eb-924d-9cd76263cbd0,species,bennettii,Eupomatia,,F.Muell.,,1858,,"Fragm. 1: 45 1858",,,,,,72993-1,wfo-0000682814,8344770,,
+f6e74498-8fcc-11eb-924d-9cd76263cbd0,species,laurina,Eupomatia,,R.Br.,,1814,,"Voy. Terra Austral. 2: 597 1814",,,,,,72995-1,wfo-0000682815,5565488,,

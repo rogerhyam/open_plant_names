@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7b9cea-8fd1-11eb-924d-9cd76263cbd0,genus,Soda,,,"(Dumort.) Fourr.",1869,"Ann. Soc. Linn. Lyon, sér. 2 17: 145. 1869.",,,,,7001-1,wfo-4000035658,3757361,
-64ab1c12-8fcc-11eb-924d-9cd76263cbd0,species,inermis,Soda,,Fourr.,1869,"Ann. Soc. Linn. Lyon n.s., 17: 145 1869",,,,,167375-1,wfo-0000437534,3758349,
-65a607bc-8fcc-11eb-924d-9cd76263cbd0,species,decidua,Sodada,,Forssk.,1775,"Fl. Aegypt.-Arab. 81 1775",,,,,148071-1,wfo-0000439249,3872932,
-44cb5948-8fcc-11eb-924d-9cd76263cbd0,species,sodalis,,,"(A.Berger) E.Walther",1931,"Cact. Succ. J. (Los Angeles) 3: 12 1931",,,,e9de0cfa-8fcc-11eb-924d-9cd76263cbd0,274672-1,wfo-0000396583,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7b9cea-8fd1-11eb-924d-9cd76263cbd0,genus,Soda,,,"(Dumort.) Fourr.",,1869,,"Ann. Soc. Linn. Lyon, sér. 2 17: 145. 1869.",,,,,,7001-1,wfo-4000035658,3757361,,
+64ab1c12-8fcc-11eb-924d-9cd76263cbd0,species,inermis,Soda,,Fourr.,,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 145 1869",,,,,,167375-1,wfo-0000437534,3758349,,
+65a607bc-8fcc-11eb-924d-9cd76263cbd0,species,decidua,Sodada,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 81 1775",,Q5862701,,,,148071-1,wfo-0000439249,3872932,,
+44cb5948-8fcc-11eb-924d-9cd76263cbd0,species,sodalis,,,"(A.Berger) E.Walther",,1931,,"Cact. Succ. J. (Los Angeles) 3: 12 1931",,,,e9de0cfa-8fcc-11eb-924d-9cd76263cbd0,,274672-1,wfo-0000396583,,,

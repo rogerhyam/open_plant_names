@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e91f04f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodatura,,,Zijp,1920,"Moench and Moench, in Nat. Tijschr. Ned. Ind. lxxx. 1. 24, 28 (1920); Hochr. in Candollea, iv. 187 (1930)..",,,,,,wfo-4000031491,7299585,
-a76de420-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pseudodatura,,Zijp,1920,"and , Natuurk. Tijschr. Ned. Indie 80(1): 24, 28. 1920., 1920.",,,,,,wfo-0001025152,3799437,
-a76e0180-8fcd-11eb-924d-9cd76263cbd0,species,suaveolens,Pseudodatura,,Zijp,1920,"and , Natuurk. Tijschr. Ned. Indie 80(1): 24, 28. 1920., 1920.",,,,,,wfo-0001025153,3799432,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e91f04f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodatura,,,Zijp,,1920,,"Moench and Moench, in Nat. Tijschr. Ned. Ind. lxxx. 1. 24, 28 (1920); Hochr. in Candollea, iv. 187 (1930)..",,,,,,,wfo-4000031491,7299585,,
+a76de420-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pseudodatura,,Zijp,,1920,,"and , Natuurk. Tijschr. Ned. Indie 80(1): 24, 28. 1920., 1920.",,,,,,,wfo-0001025152,3799437,,
+a76e0180-8fcd-11eb-924d-9cd76263cbd0,species,suaveolens,Pseudodatura,,Zijp,,1920,,"and , Natuurk. Tijschr. Ned. Indie 80(1): 24, 28. 1920., 1920.",,,,,,,wfo-0001025153,3799432,,

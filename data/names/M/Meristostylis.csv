@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6940bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Meristostylis,,,,,,,,,,,wfo-4000023801,7269825,
-356ea450-8fcc-11eb-924d-9cd76263cbd0,species,brachycalyx,Meristostylis,,Klotzsch,1861,"Naturw. Reise Mossambique 270 1861",,,,,370150-1,wfo-0000376279,3839599,
-356f033c-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Meristostylis,,Klotzsch,1861,"Naturw. Reise Mossambique 268 1861",,,,,370151-1,wfo-0000376281,3839590,
-356f24fc-8fcc-11eb-924d-9cd76263cbd0,species,macrocalyx,Meristostylis,,Klotzsch,1861,"Naturw. Reise Mossambique 269 1861",,,,,370152-1,wfo-0000376282,3839575,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6940bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Meristostylis,,,,,,,,,,,,,,wfo-4000023801,7269825,,
+356ea450-8fcc-11eb-924d-9cd76263cbd0,species,brachycalyx,Meristostylis,,Klotzsch,,1861,,"Naturw. Reise Mossambique 270 1861",,,,,,370150-1,wfo-0000376279,3839599,,
+356f033c-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Meristostylis,,Klotzsch,,1861,,"Naturw. Reise Mossambique 268 1861",,,,,,370151-1,wfo-0000376281,3839590,,
+356f24fc-8fcc-11eb-924d-9cd76263cbd0,species,macrocalyx,Meristostylis,,Klotzsch,,1861,,"Naturw. Reise Mossambique 269 1861",,,,,,370152-1,wfo-0000376282,3839575,,

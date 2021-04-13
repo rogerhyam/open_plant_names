@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7c64b6c-8fd1-11eb-924d-9cd76263cbd0,genus,Otostylis,,,Schltr.,1918,"Orchis 12: 38. 1918.",,,,,296870-2,wfo-4000027483,2836076,
-ee16583c-8fcb-11eb-924d-9cd76263cbd0,species,alba,Otostylis,,"(Ridl.) Summerh.",1951,"Kew Bull. 6: 293 1951",,,,,177389-2,wfo-0000261653,5322624,
-ee1675e2-8fcb-11eb-924d-9cd76263cbd0,species,brachystalix,Otostylis,,"(Rchb.f.) Schltr.",1918,"Orchis 12: 40 1918",,,,,177390-2,wfo-0000261654,5322623,
-ee169586-8fcb-11eb-924d-9cd76263cbd0,species,hirtzii,Otostylis,,Dodson,1984,"Icon. Pl. Trop. 10: t. 976 1984",,,,,305134-2,wfo-0000261655,5324383,
-ee16b6e2-8fcb-11eb-924d-9cd76263cbd0,species,lepida,Otostylis,,"(Linden & Rchb.f.) Schltr.",1918,"Orchis 12: 40 1918",,,,,177391-2,wfo-0000261656,5322621,
-ee16d762-8fcb-11eb-924d-9cd76263cbd0,species,paludosa,Otostylis,,"(Cogn.) Schltr.",1918,"Repert. Spec. Nov. Regni Veg. 15: 214 1918",,,,,177392-2,wfo-0000261657,5322626,
-ee16f85a-8fcb-11eb-924d-9cd76263cbd0,species,venusta,Otostylis,,"(Ridl.) Schltr.",1918,"Orchis 12: 41 1918",,,,680268f2-8fcc-11eb-924d-9cd76263cbd0,649549-1,wfo-0000261658,5322625,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7c64b6c-8fd1-11eb-924d-9cd76263cbd0,genus,Otostylis,,,Schltr.,,1918,,"Orchis 12: 38. 1918.",,,,,,296870-2,wfo-4000027483,2836076,,
+ee16583c-8fcb-11eb-924d-9cd76263cbd0,species,alba,Otostylis,,"(Ridl.) Summerh.",,1951,,"Kew Bull. 6: 293 1951",,Q55788423,,,,177389-2,wfo-0000261653,5322624,,
+ee1675e2-8fcb-11eb-924d-9cd76263cbd0,species,brachystalix,Otostylis,,"(Rchb.f.) Schltr.",,1918,,"Orchis 12: 40 1918",,,,,,177390-2,wfo-0000261654,5322623,,
+ee169586-8fcb-11eb-924d-9cd76263cbd0,species,hirtzii,Otostylis,,Dodson,,1984,,"Icon. Pl. Trop. 10: t. 976 1984",,,,,,305134-2,wfo-0000261655,5324383,,
+ee16b6e2-8fcb-11eb-924d-9cd76263cbd0,species,lepida,Otostylis,,"(Linden & Rchb.f.) Schltr.",,1918,,"Orchis 12: 40 1918",,,,,,177391-2,wfo-0000261656,5322621,,
+ee16d762-8fcb-11eb-924d-9cd76263cbd0,species,paludosa,Otostylis,,"(Cogn.) Schltr.",,1918,,"Repert. Spec. Nov. Regni Veg. 15: 214 1918",,Q55753051,,,,177392-2,wfo-0000261657,5322626,,
+ee16f85a-8fcb-11eb-924d-9cd76263cbd0,species,venusta,Otostylis,,"(Ridl.) Schltr.",,1918,,"Orchis 12: 41 1918",,,,680268f2-8fcc-11eb-924d-9cd76263cbd0,,649549-1,wfo-0000261658,5322625,,

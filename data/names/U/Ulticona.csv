@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc6207a-8fd1-11eb-924d-9cd76263cbd0,genus,Ulticona,,,Raf.,1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-4000039740,7299678,
-ab07e7ac-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Ulticona,,"(Ruiz & Pav.) Raf.",1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-0001032701,8114220,
-ab0803cc-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Ulticona,,Raf.,1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-0001032702,8114220,
-ab08205a-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Ulticona,,Raf.,1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-0001032703,3801402,
-ab0839f0-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Ulticona,,Raf.,1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-0001032704,3801396,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc6207a-8fd1-11eb-924d-9cd76263cbd0,genus,Ulticona,,,Raf.,,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-4000039740,7299678,,
+ab07e7ac-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Ulticona,,"(Ruiz & Pav.) Raf.",,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-0001032701,8114220,,
+ab0803cc-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Ulticona,,Raf.,,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-0001032702,8114220,,
+ab08205a-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Ulticona,,Raf.,,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-0001032703,3801402,,
+ab0839f0-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Ulticona,,Raf.,,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-0001032704,3801396,,

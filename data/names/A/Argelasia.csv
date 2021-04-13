@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb706b4-8fd1-11eb-924d-9cd76263cbd0,genus,Argelasia,,,,,,,,,,,wfo-4000002972,7302924,
-a536288a-8fcc-11eb-924d-9cd76263cbd0,species,corsica,Argelasia,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 357 1868",,,,,475123-1,wfo-0000546981,3980604,
-a53672ea-8fcc-11eb-924d-9cd76263cbd0,species,scorpius,Argelasia,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 357 1868",,,,,475124-1,wfo-0000546982,3980598,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb706b4-8fd1-11eb-924d-9cd76263cbd0,genus,Argelasia,,,,,,,,,,,,,,wfo-4000002972,7302924,,
+a536288a-8fcc-11eb-924d-9cd76263cbd0,species,corsica,Argelasia,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 357 1868",,,,,,475123-1,wfo-0000546981,3980604,,
+a53672ea-8fcc-11eb-924d-9cd76263cbd0,species,scorpius,Argelasia,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 357 1868",,,,,,475124-1,wfo-0000546982,3980598,,

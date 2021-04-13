@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e26b4226-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrtomidictyum,,,Ching,1940,"Bull. Fan Mem. Inst. Biol., Bot. 10(3): 182. 1940.",,,,,,wfo-4000010534,7157937,
-d4046aea-8fcd-11eb-924d-9cd76263cbd0,species,basipinnatum,Cyrtomidictyum,,"(Baker) Ching",1957,"Acta Phytotax. Sin. 6(3): 262–263, pl. 51 1957",,,,d355712a-8fcd-11eb-924d-9cd76263cbd0,17386920-1,wfo-0001123846,4039469,
-d3936868-8fcd-11eb-924d-9cd76263cbd0,species,conjunctum,Cyrtomidictyum,,Ching,1957,"Acta Phytotax. Sin. 6(3): 263–264, pl. 52 1957",,,,,17386930-1,wfo-0001122888,4039461,
-d57d4950-8fcd-11eb-924d-9cd76263cbd0,species,faberi,Cyrtomidictyum,,"(Baker) Ching",1957,"Acta Phytotax. Sin. 6(3): 265–266, pl. 54 1957",,,,,17386940-1,wfo-0001127110,4039452,
-d53f96e6-8fcd-11eb-924d-9cd76263cbd0,species,lepidocaulon,Cyrtomidictyum,,"(Hook.) Ching",1940,"Bull. Fan Mem. Inst. Biol., Bot. 10(3): 182–183 1940",,,,d0f9e99c-8fcd-11eb-924d-9cd76263cbd0,17386950-1,wfo-0001126571,4039443,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e26b4226-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrtomidictyum,,,Ching,,1940,,"Bull. Fan Mem. Inst. Biol., Bot. 10(3): 182. 1940.",,,,,,,wfo-4000010534,7157937,,
+d4046aea-8fcd-11eb-924d-9cd76263cbd0,species,basipinnatum,Cyrtomidictyum,,"(Baker) Ching",,1957,,"Acta Phytotax. Sin. 6(3): 262–263, pl. 51 1957",,,,d355712a-8fcd-11eb-924d-9cd76263cbd0,,17386920-1,wfo-0001123846,4039469,,
+d3936868-8fcd-11eb-924d-9cd76263cbd0,species,conjunctum,Cyrtomidictyum,,Ching,,1957,,"Acta Phytotax. Sin. 6(3): 263–264, pl. 52 1957",,,,,,17386930-1,wfo-0001122888,4039461,,
+d57d4950-8fcd-11eb-924d-9cd76263cbd0,species,faberi,Cyrtomidictyum,,"(Baker) Ching",,1957,,"Acta Phytotax. Sin. 6(3): 265–266, pl. 54 1957",,,,,,17386940-1,wfo-0001127110,4039452,,
+d53f96e6-8fcd-11eb-924d-9cd76263cbd0,species,lepidocaulon,Cyrtomidictyum,,"(Hook.) Ching",,1940,,"Bull. Fan Mem. Inst. Biol., Bot. 10(3): 182–183 1940",,,,d0f9e99c-8fcd-11eb-924d-9cd76263cbd0,,17386950-1,wfo-0001126571,4039443,,

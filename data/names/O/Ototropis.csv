@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7c66d2c-8fd1-11eb-924d-9cd76263cbd0,genus,Ototropis,,,Nees,,,,,,,23103-1,wfo-4000027484,7301739,
-b4f055e2-8fcd-11eb-924d-9cd76263cbd0,species,microphyllus,Ototropis,,Benth.,1838,"Ann. Wiener Mus. Naturgesch. 2: 142 1838",,,,,,wfo-0001054837,3967508,
-3b50644e-8fcc-11eb-924d-9cd76263cbd0,species,recurvatus,Ototropis,,Nees,1839,"Linnaea 13(Lit.): 121 1839",,,,,,wfo-0000383987,3967505,
-3b519206-8fcc-11eb-924d-9cd76263cbd0,species,rufescens,Ototropis,,Nees,1839,"Linnaea 13(Lit.): 121 1839",,,,,,wfo-0000383995,3967565,
-d6785134-8fc7-11eb-924d-9cd76263cbd0,species,sambuensis,Ototropis,,"(D.Don) Nees",,,,,,,,wfo-0000204737,2967536,
-c4954110-8fcd-11eb-924d-9cd76263cbd0,species,rubrocincta,Otoxalis,,"(Lindl.) Small",1907,"N. Amer. Fl. 25(1): 27 1907",,,,c4952734-8fcd-11eb-924d-9cd76263cbd0,177394-2,wfo-0001090235,3626678,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7c66d2c-8fd1-11eb-924d-9cd76263cbd0,genus,Ototropis,,,Nees,,,,,,,,,,23103-1,wfo-4000027484,7301739,,
+b4f055e2-8fcd-11eb-924d-9cd76263cbd0,species,microphyllus,Ototropis,,Benth.,,1838,,"Ann. Wiener Mus. Naturgesch. 2: 142 1838",,,,,,,wfo-0001054837,3967508,,
+3b50644e-8fcc-11eb-924d-9cd76263cbd0,species,recurvatus,Ototropis,,Nees,,1839,,"Linnaea 13(Lit.): 121 1839",,,,,,,wfo-0000383987,3967505,,
+3b519206-8fcc-11eb-924d-9cd76263cbd0,species,rufescens,Ototropis,,Nees,,1839,,"Linnaea 13(Lit.): 121 1839",,,,,,,wfo-0000383995,3967565,,
+d6785134-8fc7-11eb-924d-9cd76263cbd0,species,sambuensis,Ototropis,,"(D.Don) Nees",,,,,,,,,,,wfo-0000204737,2967536,,
+c4954110-8fcd-11eb-924d-9cd76263cbd0,species,rubrocincta,Otoxalis,,"(Lindl.) Small",,1907,,"N. Amer. Fl. 25(1): 27 1907",,,,c4952734-8fcd-11eb-924d-9cd76263cbd0,,177394-2,wfo-0001090235,3626678,,

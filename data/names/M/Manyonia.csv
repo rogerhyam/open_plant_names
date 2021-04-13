@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6571b8a-8fd1-11eb-924d-9cd76263cbd0,genus,Manyonia,,,H.Rob.,,,,,,,1010879-1,wfo-4000023076,3090117,
-090c4a82-8fba-11eb-924d-9cd76263cbd0,species,peculiaris,Manyonia,,"(Verdc.) H.Rob.",1999,"Proc. Biol. Soc. Wash. 112(1): 225 (1999):",,,,4149a26c-8fb2-11eb-924d-9cd76263cbd0,1010880-1,wfo-0000123441,3124796,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6571b8a-8fd1-11eb-924d-9cd76263cbd0,genus,Manyonia,,,H.Rob.,,,,,,,,,,1010879-1,wfo-4000023076,3090117,,
+090c4a82-8fba-11eb-924d-9cd76263cbd0,species,peculiaris,Manyonia,,"(Verdc.) H.Rob.",,1999,,"Proc. Biol. Soc. Wash. 112(1): 225 (1999):",,,,4149a26c-8fb2-11eb-924d-9cd76263cbd0,,1010880-1,wfo-0000123441,3124796,,

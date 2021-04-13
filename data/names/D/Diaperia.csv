@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a74c9e-8fd1-11eb-924d-9cd76263cbd0,genus,Diaperia,,,Nutt.,,,,,,,8582-1,wfo-4000011323,3086543,
-51cc1108-8fb5-11eb-924d-9cd76263cbd0,species,candida,Diaperia,,"(Torr. & A.Gray) Benth. & Hook.f.",1873,"298 1873",,,,390a32d8-8fb2-11eb-924d-9cd76263cbd0,,wfo-0000076632,4933506,
-46799e6e-8fbb-11eb-924d-9cd76263cbd0,species,drummondii,Diaperia,,"(Torr. & A.Gray) Benth.",1873,"Gen. Pl. 2: 298 (1873)",,,,,,wfo-0000133007,4274400,
-b605777c-8fba-11eb-924d-9cd76263cbd0,species,multicaulis,Diaperia,,"Benth. & Hook.f.",1873,"Genera Plantarum 2: 298 1873",,,,,,wfo-0000128837,7992017,
-955d0bbe-8fb2-11eb-924d-9cd76263cbd0,species,multicaulis,Diaperia,,"(DC.) Nutt.",1840,"337 1840",,,,,,wfo-0000028849,3086547,
-139c9444-8fb4-11eb-924d-9cd76263cbd0,species,prolifera,Diaperia,,"(Nutt. ex DC.) Nutt.",1840,"337 1840",,,,9f727d48-8fb5-11eb-924d-9cd76263cbd0,,wfo-0000059574,3086555,
-96d503fc-8fb2-11eb-924d-9cd76263cbd0,species,verna,Diaperia,,"(Raf.) Morefield",2004,"468 2004",,,,,60437968-2,wfo-0000029025,3086544,
-cd328b12-8fb8-11eb-924d-9cd76263cbd0,variety,drummondii,Diaperia,verna,"(Torr. & A.Gray) Morefield",2004,"469 2004",,,,,60437969-2,wfo-0000112728,4237425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a74c9e-8fd1-11eb-924d-9cd76263cbd0,genus,Diaperia,,,Nutt.,,,,,,,,,,8582-1,wfo-4000011323,3086543,,
+51cc1108-8fb5-11eb-924d-9cd76263cbd0,species,candida,Diaperia,,"(Torr. & A.Gray) Benth. & Hook.f.",,1873,,"298 1873",,,,390a32d8-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000076632,4933506,,
+46799e6e-8fbb-11eb-924d-9cd76263cbd0,species,drummondii,Diaperia,,"(Torr. & A.Gray) Benth.",,1873,,"Gen. Pl. 2: 298 (1873)",,,,,,,wfo-0000133007,4274400,,
+955d0bbe-8fb2-11eb-924d-9cd76263cbd0,species,multicaulis,Diaperia,,"(DC.) Nutt.",,1840,,"337 1840",,,,,,,wfo-0000028849,3086547,,
+b605777c-8fba-11eb-924d-9cd76263cbd0,species,multicaulis,Diaperia,,"Benth. & Hook.f.",,1873,,"Genera Plantarum 2: 298 1873",,,,,,,wfo-0000128837,7992017,,
+139c9444-8fb4-11eb-924d-9cd76263cbd0,species,prolifera,Diaperia,,"(Nutt. ex DC.) Nutt.",,1840,,"337 1840",,,,9f727d48-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000059574,3086555,,
+96d503fc-8fb2-11eb-924d-9cd76263cbd0,species,verna,Diaperia,,"(Raf.) Morefield",,2004,,"468 2004",,,,,,60437968-2,wfo-0000029025,3086544,,
+cd328b12-8fb8-11eb-924d-9cd76263cbd0,variety,drummondii,Diaperia,verna,"(Torr. & A.Gray) Morefield",,2004,,"469 2004",,,,,,60437969-2,wfo-0000112728,4237425,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df0d84d6-8fd1-11eb-924d-9cd76263cbd0,genus,Alamania,,,Lex.,1824,"Ann. Sci. Nat. (Paris) 3: 452. 1824.",,,,,60460309-2,wfo-4000001080,8320633,
-7d71513e-8fcd-11eb-924d-9cd76263cbd0,species,punicea,Alamania,,Lex.,1825,"Nov. Veg. Descr. 2(Orch.Opusc.): 31 1825",,,,,,wfo-0000936540,2813004,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df0d84d6-8fd1-11eb-924d-9cd76263cbd0,genus,Alamania,,,Lex.,,1824,,"Ann. Sci. Nat. (Paris) 3: 452. 1824.",,,,,,60460309-2,wfo-4000001080,8320633,,
+7d71513e-8fcd-11eb-924d-9cd76263cbd0,species,punicea,Alamania,,Lex.,,1825,,"Nov. Veg. Descr. 2(Orch.Opusc.): 31 1825",,,,,,,wfo-0000936540,2813004,,

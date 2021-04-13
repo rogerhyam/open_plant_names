@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8371130-8fd1-11eb-924d-9cd76263cbd0,genus,Perilejeunea,,,"(Kachroo & R.M.Schust.) H.Rob.",1967,"Bryologist 70: 54. 1967.",,,,,,wfo-4000028766,4892404,
-f7fac2e6-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Perilejeunea,,"(H.Rob.) H.Rob.",1967,"Bryologist 70: 55 1967",,,,f6ea35b2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200043,8402638,
-f7fae83e-8fcd-11eb-924d-9cd76263cbd0,species,granatensis,Perilejeunea,,"(Stephani) H.Rob.",1967,"Bryologist 70: 55 1967",,,,f7fb0a1c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200044,7957492,
-f7fb4af4-8fcd-11eb-924d-9cd76263cbd0,species,grandistipula,Perilejeunea,,"(Gottsche ex Stephani) H.Rob.",1967,"Bryologist 70: 55 1967",,,,f7fb2b0a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200047,8206798,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8371130-8fd1-11eb-924d-9cd76263cbd0,genus,Perilejeunea,,,"(Kachroo & R.M.Schust.) H.Rob.",,1967,,"Bryologist 70: 54. 1967.",,,,,,,wfo-4000028766,4892404,,
+f7fac2e6-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Perilejeunea,,"(H.Rob.) H.Rob.",,1967,,"Bryologist 70: 55 1967",,,,f6ea35b2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200043,8402638,,
+f7fae83e-8fcd-11eb-924d-9cd76263cbd0,species,granatensis,Perilejeunea,,"(Stephani) H.Rob.",,1967,,"Bryologist 70: 55 1967",,,,f7fb0a1c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200044,7957492,,
+f7fb4af4-8fcd-11eb-924d-9cd76263cbd0,species,grandistipula,Perilejeunea,,"(Gottsche ex Stephani) H.Rob.",,1967,,"Bryologist 70: 55 1967",,,,f7fb2b0a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200047,8206798,,

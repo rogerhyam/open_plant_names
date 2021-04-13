@@ -1,7 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e462f290-8fd1-11eb-924d-9cd76263cbd0,genus,Hannafordia,,,F.Muell.,1860,"Fragm. 2: 9. 1860.",,,,,38716-1,wfo-4000016832,7322915,
-09a702d0-8fcd-11eb-924d-9cd76263cbd0,species,bissillii,Hannafordia,,F.Muell.,1860,"Fragm. 2: 95 1860",,,,,,wfo-0000715370,3668592,
-09a71d2e-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Hannafordia,bissillii,E.Pritz.,1904,"Bot. Jahrb. Syst. 35: 371 1904",,,,,,wfo-0000715371,3668656,
-09a7d052-8fcd-11eb-924d-9cd76263cbd0,species,kessellii,Hannafordia,,Gardner,1923,"J. Proc. Roy. Soc. Western Australia 9(2): 102 1923",,,,,,wfo-0000715372,3668716,
-09a80ac2-8fcd-11eb-924d-9cd76263cbd0,species,quadrivalvis,Hannafordia,,F.Muell.,1860,"Fragm. 2: 9 1860",,,,,823409-1,wfo-0000715373,3671557,
-09a82e6c-8fcd-11eb-924d-9cd76263cbd0,species,shanesii,Hannafordia,,F.Muell.,1868,"Fragm. 6: 175 1868",,,,,823410-1,wfo-0000715374,3671964,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e462f290-8fd1-11eb-924d-9cd76263cbd0,genus,Hannafordia,,,F.Muell.,,1860,,"Fragm. 2: 9. 1860.",,,,,,38716-1,wfo-4000016832,7322915,,
+09a702d0-8fcd-11eb-924d-9cd76263cbd0,species,bissillii,Hannafordia,,F.Muell.,,1860,,"Fragm. 2: 95 1860",,,,,,,wfo-0000715370,3668592,,
+bbf9a958-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,latifolia,Hannafordia,bissillii,"(E.Pritz.) C.F.Wilkins",,2001,,"Austral. Syst. Bot. 14(1): 112 (2001):",,Q95996218,,,,1019422-1,,,,
+09a71d2e-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Hannafordia,bissillii,E.Pritz.,,1904,,"Bot. Jahrb. Syst. 35: 371 1904",,,,,,,wfo-0000715371,3668656,,
+09a7d052-8fcd-11eb-924d-9cd76263cbd0,species,kessellii,Hannafordia,,Gardner,,1923,,"J. Proc. Roy. Soc. Western Australia 9(2): 102 1923",,,,,,,wfo-0000715372,3668716,,
+09a80ac2-8fcd-11eb-924d-9cd76263cbd0,species,quadrivalvis,Hannafordia,,F.Muell.,,1860,,"Fragm. 2: 9 1860",,,,,,823409-1,wfo-0000715373,3671557,,
+bc0d17ea-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,recurva,Hannafordia,quadrivalvis,C.F.Wilkins,,2001,,"Austral. Syst. Bot. 14(1): 117 (2001)",,Q95996218,,,,1019423-1,,,,
+09a82e6c-8fcd-11eb-924d-9cd76263cbd0,species,shanesii,Hannafordia,,F.Muell.,,1868,,"Fragm. 6: 175 1868",,,,,,823410-1,wfo-0000715374,3671964,,

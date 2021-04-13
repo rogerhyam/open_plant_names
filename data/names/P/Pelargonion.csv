@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8195e92-8fd1-11eb-924d-9cd76263cbd0,genus,Pelargonion,,,,,,,,,,,wfo-4000028454,7268522,
-75d5377a-8fcc-11eb-924d-9cd76263cbd0,species,althaeoideum,Pelargonion,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,375556-1,wfo-0000467040,3826962,
-75d3a7fc-8fcc-11eb-924d-9cd76263cbd0,species,ladanomum,Pelargonion,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,375557-1,wfo-0000467028,3826952,
-75d4e978-8fcc-11eb-924d-9cd76263cbd0,species,radulum,Pelargonion,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,375558-1,wfo-0000467038,3826945,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8195e92-8fd1-11eb-924d-9cd76263cbd0,genus,Pelargonion,,,,,,,,,,,,,,wfo-4000028454,7268522,,
+75d5377a-8fcc-11eb-924d-9cd76263cbd0,species,althaeoideum,Pelargonion,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,,375556-1,wfo-0000467040,3826962,,
+75d3a7fc-8fcc-11eb-924d-9cd76263cbd0,species,ladanomum,Pelargonion,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,,375557-1,wfo-0000467028,3826952,,
+75d4e978-8fcc-11eb-924d-9cd76263cbd0,species,radulum,Pelargonion,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 131 1880",,,,,,375558-1,wfo-0000467038,3826945,,

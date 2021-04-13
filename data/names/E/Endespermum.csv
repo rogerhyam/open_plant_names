@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e34d7470-8fd1-11eb-924d-9cd76263cbd0,genus,Endespermum,,,,,,,,,,,wfo-4000013385,7302072,
-ee454f38-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Endespermum,,"Blume ex Miq.",1855,"Fl. Ned. Ind. 1(1): 128 1855",,,,,493805-1,wfo-0000667553,3970913,
-ee456ac2-8fcc-11eb-924d-9cd76263cbd0,species,penduliflorum,Endespermum,,"Zipp. ex Miq.",1855,"Fl. Ned. Ind. 1(1): 133 1855",,,,,493806-1,wfo-0000667554,3970911,
-ee458732-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Endespermum,,"Blume ex Miq.",1855,"Fl. Ned. Ind. 1(1): 131 1855",,,,,493807-1,wfo-0000667555,3970906,
-12a05a4e-8fc8-11eb-924d-9cd76263cbd0,species,scandens,Endespermum,,Blume,,,,,,,,wfo-0000205956,2968763,
-ee45abf4-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Endespermum,,"Champ. ex Thwaites",1859,"Enum. Pl. Zeyl. 94 1859",,,,,493810-1,wfo-0000667556,3970899,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e34d7470-8fd1-11eb-924d-9cd76263cbd0,genus,Endespermum,,,,,,,,,,,,,,wfo-4000013385,7302072,,
+ee454f38-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Endespermum,,"Blume ex Miq.",,1855,,"Fl. Ned. Ind. 1(1): 128 1855",,,,,,493805-1,wfo-0000667553,3970913,,
+ee456ac2-8fcc-11eb-924d-9cd76263cbd0,species,penduliflorum,Endespermum,,"Zipp. ex Miq.",,1855,,"Fl. Ned. Ind. 1(1): 133 1855",,,,,,493806-1,wfo-0000667554,3970911,,
+ee458732-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Endespermum,,"Blume ex Miq.",,1855,,"Fl. Ned. Ind. 1(1): 131 1855",,,,,,493807-1,wfo-0000667555,3970906,,
+12a05a4e-8fc8-11eb-924d-9cd76263cbd0,species,scandens,Endespermum,,Blume,,,,,,,,,,,wfo-0000205956,2968763,,
+ee45abf4-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Endespermum,,"Champ. ex Thwaites",,1859,,"Enum. Pl. Zeyl. 94 1859",,Q96016554,,,,493810-1,wfo-0000667556,3970899,,

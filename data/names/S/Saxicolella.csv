@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea00e00e-8fd1-11eb-924d-9cd76263cbd0,genus,Saxicolella,,,Engl.,1926,"Bot. Jahrb. Syst. 60: 456. 1926.",,,,,32248-1,wfo-4000034200,7296059,
-8b38c640-8fcc-11eb-924d-9cd76263cbd0,species,amicorum,Saxicolella,,J.B.Hall,1971,"Kew Bull. 26: 133 1971",,,,,688583-1,wfo-0000503241,4072764,
-c8e22666-8fcd-11eb-924d-9cd76263cbd0,species,flabellata,Saxicolella,,"(G.Taylor) C.Cusset",1987,"Fl. Cameroun 30: 94 1987",,,,adf28428-8fd1-11eb-924d-9cd76263cbd0,944941-1,wfo-0001099591,4072755,
-8b3734ce-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Saxicolella,,"(Engl.) C.Cusset",1987,"in Fl. Cameroun 30: 94 1987",,,,12baec9c-8fcd-11eb-924d-9cd76263cbd0,944940-1,wfo-0000503227,4072748,
-8b39cdec-8fcc-11eb-924d-9cd76263cbd0,species,macrothyrsa,Saxicolella,,A.Chev.,1938,"Fl. Afrique Occ. Franç. 1: 293 1938",,,,,688584-1,wfo-0000503246,4072738,
-8b39ae0c-8fcc-11eb-924d-9cd76263cbd0,species,marginalis,Saxicolella,,"(G.Taylor) C.Cusset ex Cheek",2000,"Pl. Mount Oku & Ijim Ridge, Cameroon, Conserv. Checklist 153 2000",,,,b81a926a-8fcc-11eb-924d-9cd76263cbd0,1016129-1,wfo-0000503245,4072734,
-8b39678a-8fcc-11eb-924d-9cd76263cbd0,species,nana,Saxicolella,,Engl.,1926,"Bot. Jahrb. Syst. 60: 456 1926",,,,,688585-1,wfo-0000503244,4072724,
-8b38fdb8-8fcc-11eb-924d-9cd76263cbd0,species,submersa,Saxicolella,,"(J.B.Hall) C.D.K.Cook & Rutish.",,"Taxon 50: 1165 2001",,,,,20003378-1,wfo-0000503243,4072716,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea00e00e-8fd1-11eb-924d-9cd76263cbd0,genus,Saxicolella,,,Engl.,,1926,,"Bot. Jahrb. Syst. 60: 456. 1926.",,,,,,32248-1,wfo-4000034200,7296059,,
+8b38c640-8fcc-11eb-924d-9cd76263cbd0,species,amicorum,Saxicolella,,J.B.Hall,,1971,,"Kew Bull. 26: 133 1971",,Q55784934,,,,688583-1,wfo-0000503241,4072764,,
+c8e22666-8fcd-11eb-924d-9cd76263cbd0,species,flabellata,Saxicolella,,"(G.Taylor) C.Cusset",,1987,,"Fl. Cameroun 30: 94 1987",,,,adf28428-8fd1-11eb-924d-9cd76263cbd0,,944941-1,wfo-0001099591,4072755,,
+8b3734ce-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Saxicolella,,"(Engl.) C.Cusset",,1987,,"in Fl. Cameroun 30: 94 1987",,,,12baec9c-8fcd-11eb-924d-9cd76263cbd0,,944940-1,wfo-0000503227,4072748,,
+8b39cdec-8fcc-11eb-924d-9cd76263cbd0,species,macrothyrsa,Saxicolella,,A.Chev.,,1938,,"Fl. Afrique Occ. Franç. 1: 293 1938",,,,,,688584-1,wfo-0000503246,4072738,,
+8b39ae0c-8fcc-11eb-924d-9cd76263cbd0,species,marginalis,Saxicolella,,"(G.Taylor) C.Cusset ex Cheek",,2000,,"Pl. Mount Oku & Ijim Ridge, Cameroon, Conserv. Checklist 153 2000",,,,b81a926a-8fcc-11eb-924d-9cd76263cbd0,,1016129-1,wfo-0000503245,4072734,,
+8b39678a-8fcc-11eb-924d-9cd76263cbd0,species,nana,Saxicolella,,Engl.,,1926,,"Bot. Jahrb. Syst. 60: 456 1926",,,,,,688585-1,wfo-0000503244,4072724,,
+8b38fdb8-8fcc-11eb-924d-9cd76263cbd0,species,submersa,Saxicolella,,"(J.B.Hall) C.D.K.Cook & Rutish.",,,,"Taxon 50: 1165 2001",,Q28959175,,,,20003378-1,wfo-0000503243,4072716,,

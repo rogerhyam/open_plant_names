@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7c9542-8fd1-11eb-924d-9cd76263cbd0,genus,Anodopetalum,,,"A.Cunn. ex Endl.",1839,"Gen. Pl. 818. 1839.",,,,,36944-1,wfo-4000002251,7333880,
-9fcca586-8fcc-11eb-924d-9cd76263cbd0,species,biglandulosum,Anodopetalum,,"A.Cunn. ex Hook.f.",1856,"Fl. Tasman. 1: 148 1856",,,,,790210-1,wfo-0000538077,3613713,
-9fccdbaa-8fcc-11eb-924d-9cd76263cbd0,species,glandulosum,Anodopetalum,,Baill.,1871,"Hist. Pl. 3: 378 1871",,,,,790211-1,wfo-0000538079,3613696,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7c9542-8fd1-11eb-924d-9cd76263cbd0,genus,Anodopetalum,,,"A.Cunn. ex Endl.",,1839,,"Gen. Pl. 818. 1839.",,,,,,36944-1,wfo-4000002251,7333880,,
+9fcca586-8fcc-11eb-924d-9cd76263cbd0,species,biglandulosum,Anodopetalum,,"A.Cunn. ex Hook.f.",,1856,,"Fl. Tasman. 1: 148 1856",,,,,,790210-1,wfo-0000538077,3613713,,
+9fccdbaa-8fcc-11eb-924d-9cd76263cbd0,species,glandulosum,Anodopetalum,,Baill.,,1871,,"Hist. Pl. 3: 378 1871",,,,,,790211-1,wfo-0000538079,3613696,,

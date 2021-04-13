@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e70e62ae-8fd1-11eb-924d-9cd76263cbd0,genus,Namibia,,,"(Schwantes) Dinter & Schwantes",1927,"Z. Sukkulentenk. 3: 106. 1927.",,,,,16269-1,wfo-4000025287,3231709,
-d91d205e-8fd1-11eb-924d-9cd76263cbd0,species,cinerea,Namibia,,"(Marloth) Dinter & Schwantes",1926,"Z. Sukkulentenk. 2: 184 1926",,,,,363788-1,wfo-0001293659,5554052,
-d91d6e1a-8fd1-11eb-924d-9cd76263cbd0,species,pomonae,Namibia,,"Dinter & Schwantes",1922,"Ann. Bolus Herb. 3: 133 1922",,,,,,wfo-0001293660,,
-37e0ae68-8fcc-11eb-924d-9cd76263cbd0,species,ponderosa,Namibia,,"(Dinter) Dinter & Schwantes ex H.Jacobsen",1935,"Succ. Pl. 222 1935",,,,,363790-1,wfo-0000379907,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e70e62ae-8fd1-11eb-924d-9cd76263cbd0,genus,Namibia,,,"(Schwantes) Dinter & Schwantes",,1927,,"Z. Sukkulentenk. 3: 106. 1927.",,,,,,16269-1,wfo-4000025287,3231709,,
+d91d205e-8fd1-11eb-924d-9cd76263cbd0,species,cinerea,Namibia,,"(Marloth) Dinter & Schwantes",,1926,,"Z. Sukkulentenk. 2: 184 1926",,,,,,363788-1,wfo-0001293659,5554052,,
+d91d6e1a-8fd1-11eb-924d-9cd76263cbd0,species,pomonae,Namibia,,"Dinter & Schwantes",,1922,,"Ann. Bolus Herb. 3: 133 1922",,,,,,,wfo-0001293660,,,
+37e0ae68-8fcc-11eb-924d-9cd76263cbd0,species,ponderosa,Namibia,,"(Dinter) Dinter & Schwantes ex H.Jacobsen",,1935,,"Succ. Pl. 222 1935",,,,,,363790-1,wfo-0000379907,,,

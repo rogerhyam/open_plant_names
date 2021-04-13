@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e808b5a6-8fd1-11eb-924d-9cd76263cbd0,genus,Parodiolyra,,,"Soderstr. & Zuloaga",1989,"Smithsonian Contr. Bot. 69: 64. 1989.",,,,,,wfo-4000028236,4116625,
-74f35606-8fcd-11eb-924d-9cd76263cbd0,species,aratitiyopensis,Parodiolyra,,J.R.Grande,2011,"Novon 21: 40 2011",,,,,77116072-1,wfo-0000920669,7571440,
-5b9c3704-8fcd-11eb-924d-9cd76263cbd0,species,colombiensis,Parodiolyra,,"Davidse & Zuloaga",1999,"Novon 9: 587 1999",,,,,1012738-1,wfo-0000887172,4116680,
-5b9c52d4-8fcd-11eb-924d-9cd76263cbd0,species,lateralis,Parodiolyra,,"(J.Presl ex Nees) Soderstr. & Zuloaga",1989,"Smithsonian Contr. Bot. 69: 66 1989",,,,,1191024-2,wfo-0000887173,4116662,
-5b9c6fd0-8fcd-11eb-924d-9cd76263cbd0,species,luetzelburgii,Parodiolyra,,"(Pilg.) Soderstr. & Zuloaga",1989,"Smithsonian Contr. Bot. 69: 70 1989",,,,,946836-1,wfo-0000887174,4116648,
-5b9c8ccc-8fcd-11eb-924d-9cd76263cbd0,species,micrantha,Parodiolyra,,"(Kunth) Davidse & Zuloaga",1999,"Novon 9: 590 1999",,,,,1012739-1,wfo-0000887175,4116637,
-5b9ca900-8fcd-11eb-924d-9cd76263cbd0,species,ramosissima,Parodiolyra,,"(Trin.) Soderstr. & Zuloaga",1989,"Smithsonian Contr. Bot. 69: 73 1989",,,,,946837-1,wfo-0000887176,4116624,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e808b5a6-8fd1-11eb-924d-9cd76263cbd0,genus,Parodiolyra,,,"Soderstr. & Zuloaga",,1989,,"Smithsonian Contr. Bot. 69: 64. 1989.",,,,,,,wfo-4000028236,4116625,,
+74f35606-8fcd-11eb-924d-9cd76263cbd0,species,aratitiyopensis,Parodiolyra,,J.R.Grande,,2011,,"Novon 21: 40 2011",,Q55791525,,,,77116072-1,wfo-0000920669,7571440,,
+5b9c3704-8fcd-11eb-924d-9cd76263cbd0,species,colombiensis,Parodiolyra,,"Davidse & Zuloaga",,1999,,"Novon 9: 587 1999",,Q55774651,,,,1012738-1,wfo-0000887172,4116680,,
+5b9c52d4-8fcd-11eb-924d-9cd76263cbd0,species,lateralis,Parodiolyra,,"(J.Presl ex Nees) Soderstr. & Zuloaga",,1989,,"Smithsonian Contr. Bot. 69: 66 1989",,Q55809337,,,,1191024-2,wfo-0000887173,4116662,,
+5b9c6fd0-8fcd-11eb-924d-9cd76263cbd0,species,luetzelburgii,Parodiolyra,,"(Pilg.) Soderstr. & Zuloaga",,1989,,"Smithsonian Contr. Bot. 69: 70 1989",,Q55809337,,,,946836-1,wfo-0000887174,4116648,,
+5b9c8ccc-8fcd-11eb-924d-9cd76263cbd0,species,micrantha,Parodiolyra,,"(Kunth) Davidse & Zuloaga",,1999,,"Novon 9: 590 1999",,Q55774651,,,,1012739-1,wfo-0000887175,4116637,,
+5b9ca900-8fcd-11eb-924d-9cd76263cbd0,species,ramosissima,Parodiolyra,,"(Trin.) Soderstr. & Zuloaga",,1989,,"Smithsonian Contr. Bot. 69: 73 1989",,Q55809337,,,,946837-1,wfo-0000887176,4116624,,

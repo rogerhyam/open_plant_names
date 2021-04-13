@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1749066-8fd1-11eb-924d-9cd76263cbd0,genus,Ceuthocarpus,,,Aiello,1979,"J. Arnold Arbor. 60(1): 108–109. 1979. (Jan 1979)",,,,,,wfo-4000007459,2904119,
-43b7598e-8fcd-11eb-924d-9cd76263cbd0,species,involucratus,Ceuthocarpus,,"(Wernham) Aiello",1979,"J. Arnold Arbor. 60: 109 1979",,,,,53799-2,wfo-0000835937,2904120,
-1c85c78e-8fcc-11eb-924d-9cd76263cbd0,variety,elatior,Ceuthocarpus,involucratus,Borhidi,2002,"Acta Bot. Hung. 44: 51 2002",,,,,20007634-1,wfo-0000336057,2904124,
-1c861068-8fcc-11eb-924d-9cd76263cbd0,variety,moaensis,Ceuthocarpus,involucratus,Borhidi,2002,"Acta Bot. Hung. 44: 51 2002",,,,,20007633-1,wfo-0000336058,2904123,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1749066-8fd1-11eb-924d-9cd76263cbd0,genus,Ceuthocarpus,,,Aiello,,1979,,"J. Arnold Arbor. 60(1): 108–109. 1979. (Jan 1979)",,,,,,,wfo-4000007459,2904119,,
+43b7598e-8fcd-11eb-924d-9cd76263cbd0,species,involucratus,Ceuthocarpus,,"(Wernham) Aiello",,1979,,"J. Arnold Arbor. 60: 109 1979",,Q100559428,,,,53799-2,wfo-0000835937,2904120,,
+1c85c78e-8fcc-11eb-924d-9cd76263cbd0,variety,elatior,Ceuthocarpus,involucratus,Borhidi,,2002,,"Acta Bot. Hung. 44: 51 2002",,Q55763009,,,,20007634-1,wfo-0000336057,2904124,,
+1c861068-8fcc-11eb-924d-9cd76263cbd0,variety,moaensis,Ceuthocarpus,involucratus,Borhidi,,2002,,"Acta Bot. Hung. 44: 51 2002",,Q55763009,,,,20007633-1,wfo-0000336058,2904123,,

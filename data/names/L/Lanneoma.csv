@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e58e6c1c-8fd1-11eb-924d-9cd76263cbd0,genus,Lanneoma,,,Delile,1843,"Ann. Sci. Nat., Bot., sér. 2 20: 91. 1843.",,,,,,wfo-4000020562,7321643,
-2baaa0fe-8fcc-11eb-924d-9cd76263cbd0,species,triphylla,Lanneoma,,Marchand,1869,"Rév. Anacardiac. 157 1869",,,,,69821-1,wfo-0000360252,3660565,
-ad316efe-8fcd-11eb-924d-9cd76263cbd0,species,veltina,Lanneoma,,Delile,1843,"Ann. Sci. Nat., Bot., sér. 2, 20: 91 1843",,,,,69822-1,wfo-0001037315,8161598,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e58e6c1c-8fd1-11eb-924d-9cd76263cbd0,genus,Lanneoma,,,Delile,,1843,,"Ann. Sci. Nat., Bot., sér. 2 20: 91. 1843.",,,,,,,wfo-4000020562,7321643,,
+2baaa0fe-8fcc-11eb-924d-9cd76263cbd0,species,triphylla,Lanneoma,,Marchand,,1869,,"Rév. Anacardiac. 157 1869",,,,,,69821-1,wfo-0000360252,3660565,,
+ad316efe-8fcd-11eb-924d-9cd76263cbd0,species,veltina,Lanneoma,,Delile,,1843,,"Ann. Sci. Nat., Bot., sér. 2, 20: 91 1843",,,,,,69822-1,wfo-0001037315,8161598,,

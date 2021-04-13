@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e35f48e4-8fd1-11eb-924d-9cd76263cbd0,genus,Epilyna,,,Schltr.,1918,"Beih. Bot. Centralbl. 36(2): 374. 1918.",,,,,,wfo-4000013612,2847922,
-8455716a-8fcd-11eb-924d-9cd76263cbd0,species,embreei,Epilyna,,Dodson,1994,"Orquideologia 19: 146 1994",,,,,301734-2,wfo-0000951925,2847923,
-84558d58-8fcd-11eb-924d-9cd76263cbd0,species,hirtzii,Epilyna,,Dodson,1989,"Icon. Pl. Trop. II, 5: t. 493 1989",,,,,313945-2,wfo-0000951926,2847924,
-8455c0c0-8fcd-11eb-924d-9cd76263cbd0,species,jimenezii,Epilyna,,Schltr.,1918,"Beih. Bot. Centralbl. 36(2): 375 1918",,,,,92669-2,wfo-0000951928,2839266,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e35f48e4-8fd1-11eb-924d-9cd76263cbd0,genus,Epilyna,,,Schltr.,,1918,,"Beih. Bot. Centralbl. 36(2): 374. 1918.",,,,,,,wfo-4000013612,2847922,,
+8455716a-8fcd-11eb-924d-9cd76263cbd0,species,embreei,Epilyna,,Dodson,,1994,,"Orquideologia 19: 146 1994",,,,,,301734-2,wfo-0000951925,2847923,,
+84558d58-8fcd-11eb-924d-9cd76263cbd0,species,hirtzii,Epilyna,,Dodson,,1989,,"Icon. Pl. Trop. II, 5: t. 493 1989",,,,,,313945-2,wfo-0000951926,2847924,,
+8455c0c0-8fcd-11eb-924d-9cd76263cbd0,species,jimenezii,Epilyna,,Schltr.,,1918,,"Beih. Bot. Centralbl. 36(2): 375 1918",,,,,,92669-2,wfo-0000951928,2839266,,

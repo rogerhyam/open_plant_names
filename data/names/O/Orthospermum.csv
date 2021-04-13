@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7b54088-8fd1-11eb-924d-9cd76263cbd0,genus,Orthospermum,,,,,,,,,,,wfo-4000027305,7339879,
-3b014134-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Orthospermum,,Schur,1866,"Enum. Pl. Transsilv. 571 1866",,,,,166323-1,wfo-0000383559,3758163,
-b903a93c-8fd1-11eb-924d-9cd76263cbd0,species,bonus-henricus,Orthospermum,,"(L.) Schur",1853,"Sert. Fl. Transsilv. 4: Anhang 63 1853",,,,c776b950-8fcc-11eb-924d-9cd76263cbd0,166324-1,wfo-0001241125,3758158,
-3b007c90-8fcc-11eb-924d-9cd76263cbd0,species,crassifolium,Orthospermum,,Schur,1853,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 63 1853",,,,,166325-1,wfo-0000383557,3758154,
-b90336b4-8fd1-11eb-924d-9cd76263cbd0,species,glaucum,Orthospermum,,"(L.) Opiz",1852,"Seznam 71 1852",,,,,166326-1,wfo-0001241121,3758149,
-b9037052-8fd1-11eb-924d-9cd76263cbd0,species,rubrum,Orthospermum,,"(L.) Opiz",1852,"Seznam 70 1852",,,,,166327-1,wfo-0001241123,3758143,
-3b01eb52-8fcc-11eb-924d-9cd76263cbd0,species,unctuosum,Orthospermum,,Montandon,1868,"Syn. Fl. Jura ed. 2: 262 1868",,,,,,wfo-0000383564,3758138,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7b54088-8fd1-11eb-924d-9cd76263cbd0,genus,Orthospermum,,,,,,,,,,,,,,wfo-4000027305,7339879,,
+3b014134-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Orthospermum,,Schur,,1866,,"Enum. Pl. Transsilv. 571 1866",,,,,,166323-1,wfo-0000383559,3758163,,
+b903a93c-8fd1-11eb-924d-9cd76263cbd0,species,bonus-henricus,Orthospermum,,"(L.) Schur",,1853,,"Sert. Fl. Transsilv. 4: Anhang 63 1853",,,,c776b950-8fcc-11eb-924d-9cd76263cbd0,,166324-1,wfo-0001241125,3758158,,
+3b007c90-8fcc-11eb-924d-9cd76263cbd0,species,crassifolium,Orthospermum,,Schur,,1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 63 1853",,,,,,166325-1,wfo-0000383557,3758154,,
+b90336b4-8fd1-11eb-924d-9cd76263cbd0,species,glaucum,Orthospermum,,"(L.) Opiz",,1852,,"Seznam 71 1852",,,,,,166326-1,wfo-0001241121,3758149,,
+b9037052-8fd1-11eb-924d-9cd76263cbd0,species,rubrum,Orthospermum,,"(L.) Opiz",,1852,,"Seznam 70 1852",,,,,,166327-1,wfo-0001241123,3758143,,
+3b01eb52-8fcc-11eb-924d-9cd76263cbd0,species,unctuosum,Orthospermum,,Montandon,,1868,,"Syn. Fl. Jura ed. 2: 262 1868",,,,,,,wfo-0000383564,3758138,,

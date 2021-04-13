@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2c729e2-8fd1-11eb-924d-9cd76263cbd0,genus,Dillandia,,,"V.A.Funk & H.Rob.",,,,,,,1020973-1,wfo-4000011735,3100686,
-77794392-8fb2-11eb-924d-9cd76263cbd0,species,chachapoyensis,Dillandia,,"(H.Rob.) V.A.Funk & H.Rob.",2001,"221 2001",,,,b6fd6730-8fb4-11eb-924d-9cd76263cbd0,1020975-1,wfo-0000025338,3100688,
-3315ef16-8fb2-11eb-924d-9cd76263cbd0,species,perfoliata,Dillandia,,"(S.F.Blake) V.A.Funk & H.Rob.",2001,"219 2001",,,,,1020974-1,wfo-0000015602,3099383,
-67273ea2-8fb4-11eb-924d-9cd76263cbd0,species,subumbellata,Dillandia,,"V.A.Funk & H.Rob.",2001,"Syst. Bot. 26(2) 224 2001",,,,,1020976-1,wfo-0000064531,3100687,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2c729e2-8fd1-11eb-924d-9cd76263cbd0,genus,Dillandia,,,"V.A.Funk & H.Rob.",,,,,,Q95467423,,,,1020973-1,wfo-4000011735,3100686,,
+77794392-8fb2-11eb-924d-9cd76263cbd0,species,chachapoyensis,Dillandia,,"(H.Rob.) V.A.Funk & H.Rob.",,2001,,"221 2001",,Q95467423,,b6fd6730-8fb4-11eb-924d-9cd76263cbd0,,1020975-1,wfo-0000025338,3100688,,
+3315ef16-8fb2-11eb-924d-9cd76263cbd0,species,perfoliata,Dillandia,,"(S.F.Blake) V.A.Funk & H.Rob.",,2001,,"219 2001",,Q95467423,,,,1020974-1,wfo-0000015602,3099383,,
+67273ea2-8fb4-11eb-924d-9cd76263cbd0,species,subumbellata,Dillandia,,"V.A.Funk & H.Rob.",,2001,,"Syst. Bot. 26(2) 224 2001",,Q95467423,,,,1020976-1,wfo-0000064531,3100687,,

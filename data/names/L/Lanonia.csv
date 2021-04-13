@@ -1,12 +1,2 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec5f20e0-8fd1-11eb-924d-9cd76263cbd0,genus,Lanonia,,,"A.J.Hend. & C.D.Bacon",2011,"Syst. Bot. 36: 887 (2011)",,,,,77121232-1,wfo-4001303289,7594870,
-2be70dea-8fcd-11eb-924d-9cd76263cbd0,species,caracasana,Lansbergia,,"de Vriese",1846,"Epim. Index Seminum Hort. Bot. Lugduno-Batavi 2 1846",,,,,,wfo-0000784613,5299217,
-2be6f242-8fcd-11eb-924d-9cd76263cbd0,species,cathartica,Lansbergia,,Klatt,1862,"Linnaea 31: 549 1862",,,,,,wfo-0000784612,5299232,
-2be6d866-8fcd-11eb-924d-9cd76263cbd0,species,juncifolia,Lansbergia,,Klatt,1862,"Linnaea 31: 549 1862",,,,,,wfo-0000784611,5299230,
-2be3d2e2-8fcd-11eb-924d-9cd76263cbd0,species,martinicensis,Lansbergia,,"(Jacq.) Baker",1877,"J. Linn. Soc., Bot. 16: 127 1877",,,,,439734-1,wfo-0000784590,5299218,
-2be8d15c-8fcd-11eb-924d-9cd76263cbd0,species,meridensis,Lansbergia,,Klatt,1882,"Abh. Naturf. Ges. Halle 15: 364 1882",,,,,439735-1,wfo-0000784629,5299222,
-2be4f33e-8fcd-11eb-924d-9cd76263cbd0,species,monticola,Lansbergia,,Klatt,1871,"Fl. Bras. 3(1): 526 1871",,,,,439736-1,wfo-0000784600,5297165,
-2be26272-8fcd-11eb-924d-9cd76263cbd0,species,purgans,Lansbergia,,Klatt,1871,"Fl. Bras. 3(1): 527 1871",,,,,439737-1,wfo-0000784578,5299231,
-2be244e0-8fcd-11eb-924d-9cd76263cbd0,species,setacea,Lansbergia,,Klatt,1882,"Abh. Naturf. Ges. Halle 15: 364 1882",,,,,439738-1,wfo-0000784577,5297166,
-2be227d0-8fcd-11eb-924d-9cd76263cbd0,species,spathata,Lansbergia,,Klatt,1871,"Fl. Bras. 3(1): 528 1871",,,,,439739-1,wfo-0000784576,5299227,
-2be1eda6-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Lansbergia,,Klatt,1871,"Fl. Bras. 3(1): 526 1871",,,,,439740-1,wfo-0000784574,5299225,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec5f20e0-8fd1-11eb-924d-9cd76263cbd0,genus,Lanonia,,,"A.J.Hend. & C.D.Bacon",,2011,,"Syst. Bot. 36: 887 (2011)",,Q54553596,,,,77121232-1,wfo-4001303289,7594870,,

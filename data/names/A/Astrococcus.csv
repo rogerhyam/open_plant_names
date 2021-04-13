@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfdff114-8fd1-11eb-924d-9cd76263cbd0,genus,Astrococcus,,,Benth.,1854,"Hooker's J. Bot. Kew Gard. Misc. 6: 327. 1854.",,,,,15065-1,wfo-4000003474,3061365,
-02a78bea-8fcc-11eb-924d-9cd76263cbd0,species,coriaceus,Astrococcus,,Baill.,1865,"Adansonia 5: 308 1865",,,,,339526-1,wfo-0000294180,5377948,
-02a8d9be-8fcc-11eb-924d-9cd76263cbd0,species,cornutus,Astrococcus,,Benth.,1854,"Hooker's J. Bot. Kew Gard. Misc. 6: 327 1854",,,,,339527-1,wfo-0000294191,5378233,
-3dd4eb58-8fcd-11eb-924d-9cd76263cbd0,species,auritus,Astrocodon,,"(Greene) A.P.Khokhr.",1989,"Analiz Fl. Kolymskogo Nagor'ya 122 1989",,,,,947075-1,wfo-0000823027,3163362,
-3dd5109c-8fcd-11eb-924d-9cd76263cbd0,species,expansus,Astrocodon,,"(Rudolph) Fed.",1957,"Fl. URSS 24: 378 1957",,,,,139550-1,wfo-0000823028,3163366,
-3dd535ae-8fcd-11eb-924d-9cd76263cbd0,species,kruhseanus,Astrocodon,,"(Fisch. ex Regel & Tiling) Fed.",1957,"Fl. URSS 24: 377 1957",,,,,139551-1,wfo-0000823029,3163375,
-3dd559d0-8fcd-11eb-924d-9cd76263cbd0,species,piperi,Astrocodon,,"(Howell) A.P.Khokhr.",1989,"Analiz Fl. Kolymskogo Nagor'ya 122 1989",,,,4031db22-8fcd-11eb-924d-9cd76263cbd0,947076-1,wfo-0000823030,3162217,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfdff114-8fd1-11eb-924d-9cd76263cbd0,genus,Astrococcus,,,Benth.,,1854,,"Hooker's J. Bot. Kew Gard. Misc. 6: 327. 1854.",,,,,,15065-1,wfo-4000003474,3061365,,
+02a78bea-8fcc-11eb-924d-9cd76263cbd0,species,coriaceus,Astrococcus,,Baill.,,1865,,"Adansonia 5: 308 1865",,,,,,339526-1,wfo-0000294180,5377948,,
+02a8d9be-8fcc-11eb-924d-9cd76263cbd0,species,cornutus,Astrococcus,,Benth.,,1854,,"Hooker's J. Bot. Kew Gard. Misc. 6: 327 1854",,,,,,339527-1,wfo-0000294191,5378233,,
+3dd4eb58-8fcd-11eb-924d-9cd76263cbd0,species,auritus,Astrocodon,,"(Greene) A.P.Khokhr.",,1989,,"Analiz Fl. Kolymskogo Nagor'ya 122 1989",,,,,,947075-1,wfo-0000823027,3163362,,
+3dd5109c-8fcd-11eb-924d-9cd76263cbd0,species,expansus,Astrocodon,,"(Rudolph) Fed.",,1957,,"Fl. URSS 24: 378 1957",,,,,,139550-1,wfo-0000823028,3163366,,
+3dd535ae-8fcd-11eb-924d-9cd76263cbd0,species,kruhseanus,Astrocodon,,"(Fisch. ex Regel & Tiling) Fed.",,1957,,"Fl. URSS 24: 377 1957",,,,,,139551-1,wfo-0000823029,3163375,,
+3dd559d0-8fcd-11eb-924d-9cd76263cbd0,species,piperi,Astrocodon,,"(Howell) A.P.Khokhr.",,1989,,"Analiz Fl. Kolymskogo Nagor'ya 122 1989",,,,4031db22-8fcd-11eb-924d-9cd76263cbd0,,947076-1,wfo-0000823030,3162217,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cd6d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Holocarpha,,,Greene,,,,,,,297371-2,wfo-4000018078,3091312,
-0c07311e-8fb2-11eb-924d-9cd76263cbd0,species,heermannii,Holocarpha,,"(Greene) D.D.Keck",1958,"112 1958",,,,,123541-2,wfo-0000007616,3091317,
-8f29cfc8-8fb4-11eb-924d-9cd76263cbd0,species,macradenia,Holocarpha,,"(DC.) Greene",1897,"Fl. Francisc. 426 1897",,,,400506b2-8fb2-11eb-924d-9cd76263cbd0,123542-2,wfo-0000066811,3091319,
-0cf88be0-8fb2-11eb-924d-9cd76263cbd0,species,obconica,Holocarpha,,"(J.C.Clausen & D.D.Keck) D.D.Keck",1958,"111 1958",,,,4a93ada4-8fb2-11eb-924d-9cd76263cbd0,123543-2,wfo-0000007927,3091321,
-961567d0-8fb8-11eb-924d-9cd76263cbd0,subspecies,autumnalis,Holocarpha,obconica,D.D.Keck,1958,"Aliso 4: 112. 1958",,,,,123544-2,wfo-0000110748,4234727,
-f2bab90c-8fb5-11eb-924d-9cd76263cbd0,species,virgata,Holocarpha,,"(A.Gray) D.D.Keck",1958,"111 1958",,,,,123545-2,wfo-0000084004,3091313,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cd6d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Holocarpha,,,Greene,,,,,,,,,,297371-2,wfo-4000018078,3091312,,
+0c07311e-8fb2-11eb-924d-9cd76263cbd0,species,heermannii,Holocarpha,,"(Greene) D.D.Keck",,1958,,"112 1958",,Q96002796,,,,123541-2,wfo-0000007616,3091317,,
+8f29cfc8-8fb4-11eb-924d-9cd76263cbd0,species,macradenia,Holocarpha,,"(DC.) Greene",,1897,,"Fl. Francisc. 426 1897",,,,400506b2-8fb2-11eb-924d-9cd76263cbd0,,123542-2,wfo-0000066811,3091319,,
+0cf88be0-8fb2-11eb-924d-9cd76263cbd0,species,obconica,Holocarpha,,"(J.C.Clausen & D.D.Keck) D.D.Keck",,1958,,"111 1958",,Q96002796,,4a93ada4-8fb2-11eb-924d-9cd76263cbd0,,123543-2,wfo-0000007927,3091321,,
+961567d0-8fb8-11eb-924d-9cd76263cbd0,subspecies,autumnalis,Holocarpha,obconica,D.D.Keck,,1958,,"Aliso 4: 112. 1958",,Q96002796,,,,123544-2,wfo-0000110748,4234727,,
+f2bab90c-8fb5-11eb-924d-9cd76263cbd0,species,virgata,Holocarpha,,"(A.Gray) D.D.Keck",,1958,,"111 1958",,Q96002796,,,,123545-2,wfo-0000084004,3091313,,

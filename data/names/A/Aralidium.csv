@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfabd21c-8fd1-11eb-924d-9cd76263cbd0,genus,Aralidium,,,Miq.,1856,"Fl. Ned. Ind. 1(1): 762. 1856.",,,,,2966-1,wfo-4000002850,7303816,
-ed073eca-8fcb-11eb-924d-9cd76263cbd0,species,dentatum,Aralidium,,Miq.,1861,"Fl. Ned. Ind., Eerste Bijv. 340 1861",,,,,89837-1,wfo-0000260011,3838833,
-ed08fc42-8fcb-11eb-924d-9cd76263cbd0,species,integrifolium,Aralidium,,Heine,1951,"Feddes Repert. Spec. Nov. Regni Veg. 54: 245 1951",,,,,89838-1,wfo-0000260022,3838836,
-ed0a6e56-8fcb-11eb-924d-9cd76263cbd0,species,pinnatifidum,Aralidium,,"(Jungh. & de Vriese) Miq.",1855,"Fl. Ned. Ind. 1(1): 763 1855",,,,,,wfo-0000260032,3838835,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfabd21c-8fd1-11eb-924d-9cd76263cbd0,genus,Aralidium,,,Miq.,,1856,,"Fl. Ned. Ind. 1(1): 762. 1856.",,,,,,2966-1,wfo-4000002850,7303816,,
+ed073eca-8fcb-11eb-924d-9cd76263cbd0,species,dentatum,Aralidium,,Miq.,,1861,,"Fl. Ned. Ind., Eerste Bijv. 340 1861",,,,,,89837-1,wfo-0000260011,3838833,,
+ed08fc42-8fcb-11eb-924d-9cd76263cbd0,species,integrifolium,Aralidium,,Heine,,1951,,"Feddes Repert. Spec. Nov. Regni Veg. 54: 245 1951",,,,,,89838-1,wfo-0000260022,3838836,,
+ed0a6e56-8fcb-11eb-924d-9cd76263cbd0,species,pinnatifidum,Aralidium,,"(Jungh. & de Vriese) Miq.",,1855,,"Fl. Ned. Ind. 1(1): 763 1855",,,,,,,wfo-0000260032,3838835,,

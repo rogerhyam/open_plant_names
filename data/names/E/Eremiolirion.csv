@@ -1,6 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e364b1e4-8fd1-11eb-924d-9cd76263cbd0,genus,Eremiolirion,,,"J.C.Manning & F.Forest",,,,,,,77077354-1,wfo-4000013693,2860834,
-370ed05e-8fcd-11eb-924d-9cd76263cbd0,species,amboense,Eremiolirion,,"(Schinz) J.C.Manning & Mannh.",2005,"Bothalia 35: 117 2005",,,,,77077355-1,wfo-0000808598,2860835,
-f01cbc1a-8fcc-11eb-924d-9cd76263cbd0,species,curvistyla,Eremiopsis,,N.E.Br.,1906,"Fl. Cap. 4(1): 390 1906",,,,,328126-1,wfo-0000670745,5683236,
-370eec56-8fcd-11eb-924d-9cd76263cbd0,species,lactea,Eremiris,,"(Pall.) Rodion.",,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 2006",,,,,77080010-1,wfo-0000808599,2748810,
-370f097a-8fcd-11eb-924d-9cd76263cbd0,species,oxypetala,Eremiris,,"(Bunge) Rodion.",,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 2006",,,,2ead2b0e-8fcd-11eb-924d-9cd76263cbd0,77080012-1,wfo-0000808600,2748816,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e364b1e4-8fd1-11eb-924d-9cd76263cbd0,genus,Eremiolirion,,,"J.C.Manning & F.Forest",,,,,,,,,,77077354-1,wfo-4000013693,2860834,,
+370ed05e-8fcd-11eb-924d-9cd76263cbd0,species,amboense,Eremiolirion,,"(Schinz) J.C.Manning & Mannh.",,2005,,"Bothalia 35: 117 2005",,,,,,77077355-1,wfo-0000808598,2860835,,

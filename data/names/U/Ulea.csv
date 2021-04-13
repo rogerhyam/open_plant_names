@@ -1,8 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc34238-8fd1-11eb-924d-9cd76263cbd0,genus,Ulea,,,,,,,,,,,wfo-4000039714,7779424,
-e526d3bc-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Ulea,,Thér.,1930,"Rev. Bryol., n.s. 2: 214. f. 5 1930",,,,,,wfo-0001160928,7553386,
-e526f05e-8fcd-11eb-924d-9cd76263cbd0,species,octoblepharis,Ulea,,"(A.Jaeger) Müll.Hal.",1898,"Hedwigia 37: 234 1898",,,,e9bae404-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001160929,7607113,
-e5270cf6-8fcd-11eb-924d-9cd76263cbd0,species,palmicola,Ulea,,Müll.Hal.,1897,"Hedwigia 36: 102 1897",,,,,,wfo-0001160930,8416300,
-e5272768-8fcd-11eb-924d-9cd76263cbd0,species,paraguensis,Ulea,,"(Besch.) Broth.",1902,"Nat. Pflanzenfam. I(3): 422 1902",,,,,,wfo-0001160931,8396049,
-e52743e2-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Ulea,,"(Duby) Broth.",1906,"Index Bryol. (ed. 2) 5: 96 1906",,,,,,wfo-0001160932,7581378,
-e5275fee-8fcd-11eb-924d-9cd76263cbd0,species,yesensis,Ulea,,"Besch. ex Iisiba",1929,"Cat. Mosses Japan 71 1929",,,,,,wfo-0001160933,7919519,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc34238-8fd1-11eb-924d-9cd76263cbd0,genus,Ulea,,,"J. Schröt.",,1892,invalid,"Bot. Zbl. 50: 42 (1892)",,,,ebc34238-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000039714,7779424,16373,"Nom. inval., Art. 34.1(b) "
+e526d3bc-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Ulea,,Thér.,,1930,,"Rev. Bryol., n.s. 2: 214. f. 5 1930",,,,,,,wfo-0001160928,7553386,,
+e526f05e-8fcd-11eb-924d-9cd76263cbd0,species,octoblepharis,Ulea,,"(A.Jaeger) Müll.Hal.",,1898,,"Hedwigia 37: 234 1898",,,,e9bae404-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001160929,7607113,,
+e5270cf6-8fcd-11eb-924d-9cd76263cbd0,species,palmicola,Ulea,,Müll.Hal.,,1897,,"Hedwigia 36: 102 1897",,,,,,,wfo-0001160930,8416300,,
+b54c49ce-9bad-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Ulea,,"J. Schröt.",,1892,invalid,"Bot. Zbl. 50: 42 (1892)",,,,b54c49ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,432163,"Nom. inval., Art. 34.1(b) "
+e5272768-8fcd-11eb-924d-9cd76263cbd0,species,paraguensis,Ulea,,"(Besch.) Broth.",,1902,,"Nat. Pflanzenfam. I(3): 422 1902",,,,,,,wfo-0001160931,8396049,,
+e52743e2-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Ulea,,"(Duby) Broth.",,1906,,"Index Bryol. (ed. 2) 5: 96 1906",,,,,,,wfo-0001160932,7581378,,
+e5275fee-8fcd-11eb-924d-9cd76263cbd0,species,yesensis,Ulea,,"Besch. ex Iisiba",,1929,,"Cat. Mosses Japan 71 1929",,,,,,,wfo-0001160933,7919519,,

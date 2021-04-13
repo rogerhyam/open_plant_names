@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaa2b744-8fd1-11eb-924d-9cd76263cbd0,genus,Spiroloba,,,,,,,,,,,wfo-4000036125,7302204,
-8aa5cf02-8fcc-11eb-924d-9cd76263cbd0,species,bigemina,Spiroloba,,Raf.,1838,"Sylva Tellur. 119 1838",,,,,519451-1,wfo-0000502300,3972201,
-8aa4f078-8fcc-11eb-924d-9cd76263cbd0,species,fastuosa,Spiroloba,,"(Jacq.) Raf.",1838,"Sylva Tellur. 119 1838",,,,,519452-1,wfo-0000502295,3972195,
-8aa658dc-8fcc-11eb-924d-9cd76263cbd0,species,unguis,Spiroloba,,Raf.,1838,"Sylva Tellur. 119 1838",,,,,519453-1,wfo-0000502303,3972190,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaa2b744-8fd1-11eb-924d-9cd76263cbd0,genus,Spiroloba,,,,,,,,,,,,,,wfo-4000036125,7302204,,
+8aa5cf02-8fcc-11eb-924d-9cd76263cbd0,species,bigemina,Spiroloba,,Raf.,,1838,,"Sylva Tellur. 119 1838",,,,,,519451-1,wfo-0000502300,3972201,,
+8aa4f078-8fcc-11eb-924d-9cd76263cbd0,species,fastuosa,Spiroloba,,"(Jacq.) Raf.",,1838,,"Sylva Tellur. 119 1838",,,,,,519452-1,wfo-0000502295,3972195,,
+8aa658dc-8fcc-11eb-924d-9cd76263cbd0,species,unguis,Spiroloba,,Raf.,,1838,,"Sylva Tellur. 119 1838",,,,,,519453-1,wfo-0000502303,3972190,,

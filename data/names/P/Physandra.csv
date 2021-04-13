@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8774278-8fd1-11eb-924d-9cd76263cbd0,genus,Physandra,,,Botsch.,1956,"Akad. Sukachevu, Sborn. Rabot 114. 1956.",,,,,,wfo-4000029506,7339818,
-d9d625ea-8fd1-11eb-924d-9cd76263cbd0,species,halimocnemis,Physandra,,"(Botsch.) Botsch.",,,,,,d9d6449e-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001294952,3757584,
-43ede4be-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Physanthemum,,Klotzsch,1861,"Naturw. Reise Mossambique 167 1861",,,,,,wfo-0000395577,3872366,
-f53cd316-8fcb-11eb-924d-9cd76263cbd0,species,callistachys,Physanthera,,"Bertero ex Steud.",1841,"Nomencl. Bot. ed. 2, 2: 330 1841",,,,,651290-1,wfo-0000272963,3650616,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8774278-8fd1-11eb-924d-9cd76263cbd0,genus,Physandra,,,Botsch.,,1956,,"Akad. Sukachevu, Sborn. Rabot 114. 1956.",,,,,,,wfo-4000029506,7339818,,
+d9d625ea-8fd1-11eb-924d-9cd76263cbd0,species,halimocnemis,Physandra,,"(Botsch.) Botsch.",,,,,,,,d9d6449e-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001294952,3757584,,
+43ede4be-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Physanthemum,,Klotzsch,,1861,,"Naturw. Reise Mossambique 167 1861",,,,,,,wfo-0000395577,3872366,,
+f53cd316-8fcb-11eb-924d-9cd76263cbd0,species,callistachys,Physanthera,,"Bertero ex Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 330 1841",,,,,,651290-1,wfo-0000272963,3650616,,

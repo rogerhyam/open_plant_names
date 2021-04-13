@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a8536c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombifolium,,,,,,,,,,,wfo-4000033067,7301194,
-4c780286-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Rhombifolium,,"Rich. ex DC.",1825,"Prodr. 2: 236 1825",,,,,517099-1,wfo-0000406183,3961502,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a8536c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombifolium,,,,,,,,,,,,,,wfo-4000033067,7301194,,
+4c780286-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Rhombifolium,,"Rich. ex DC.",,1825,,"Prodr. 2: 236 1825",,,,,,517099-1,wfo-0000406183,3961502,,

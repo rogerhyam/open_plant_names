@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e758abf2-8fd1-11eb-924d-9cd76263cbd0,genus,Nopalxochia,,,"Britton & Rose",1923,"Cactaceae 4: 204. 1923. (24 Dec 1923)",,,,,,wfo-4000026222,7282440,
-d57957d8-8fd1-11eb-924d-9cd76263cbd0,species,ackermannii,Nopalxochia,,"(Haw.) F.M.Knuth",1935,"Kaktus-ABC 161 1935",,,,efc4a96c-8fcc-11eb-924d-9cd76263cbd0,170306-2,wfo-0001287070,7282466,
-d629e968-8fd1-11eb-924d-9cd76263cbd0,variety,conzattianum,Nopalxochia,ackermannii,"(T.MacDoug.) Kimnach",1981,"Cact. Succ. J. (Los Angeles) 53(2): 85 1981",,,,d62a070e-8fd1-11eb-924d-9cd76263cbd0,920129-1,wfo-0001288297,3952042,
-371f79d2-8fcc-11eb-924d-9cd76263cbd0,species,capelleana,Nopalxochia,,"(Rother) G.D.Rowley",1959,"Cactac.: Handb. Kakteenk. 2: 761 1959",,,,,136174-1,wfo-0000378849,3952037,
-d62a070e-8fd1-11eb-924d-9cd76263cbd0,species,conzattianum,Nopalxochia,,T.MacDoug.,1947,"Cact. Succ. J. (Los Angeles) 19(2): 22–23, f. 15–16 1947",,,,,170308-2,wfo-0001288298,,
-371f52fe-8fcc-11eb-924d-9cd76263cbd0,species,horichii,Nopalxochia,,Kimnach,1984,"Cact. Succ. J. (Los Angeles) 56: 6 1984",,,,,170309-2,wfo-0000378848,3951995,
-b6d994b4-8fd1-11eb-924d-9cd76263cbd0,species,macdougallii,Nopalxochia,,"(Alexander) W.T.Marshall",1947,"Cact. Succ. J. (Los Angeles) 19(6): 95 1947",,,,,136176-1,wfo-0001237129,3951973,
-d68268f4-8fd1-11eb-924d-9cd76263cbd0,species,phyllanthoides,Nopalxochia,,"(DC.) Britton & Rose",1923,"Cactaceae 4: 205f. 207 1923",,,,b910a3e4-8fcc-11eb-924d-9cd76263cbd0,1012941-2,wfo-0001288908,3951954,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e758abf2-8fd1-11eb-924d-9cd76263cbd0,genus,Nopalxochia,,,"Britton & Rose",,1923,,"Cactaceae 4: 204. 1923. (24 Dec 1923)",,,,,,,wfo-4000026222,7282440,,
+d57957d8-8fd1-11eb-924d-9cd76263cbd0,species,ackermannii,Nopalxochia,,"(Haw.) F.M.Knuth",,1935,,"Kaktus-ABC 161 1935",,,,efc4a96c-8fcc-11eb-924d-9cd76263cbd0,,170306-2,wfo-0001287070,7282466,,
+d629e968-8fd1-11eb-924d-9cd76263cbd0,variety,conzattianum,Nopalxochia,ackermannii,"(T.MacDoug.) Kimnach",,1981,,"Cact. Succ. J. (Los Angeles) 53(2): 85 1981",,,,d62a070e-8fd1-11eb-924d-9cd76263cbd0,,920129-1,wfo-0001288297,3952042,,
+371f79d2-8fcc-11eb-924d-9cd76263cbd0,species,capelleana,Nopalxochia,,"(Rother) G.D.Rowley",,1959,,"Cactac.: Handb. Kakteenk. 2: 761 1959",,,,,,136174-1,wfo-0000378849,3952037,,
+d62a070e-8fd1-11eb-924d-9cd76263cbd0,species,conzattianum,Nopalxochia,,T.MacDoug.,,1947,,"Cact. Succ. J. (Los Angeles) 19(2): 22–23, f. 15–16 1947",,,,,,170308-2,wfo-0001288298,,,
+371f52fe-8fcc-11eb-924d-9cd76263cbd0,species,horichii,Nopalxochia,,Kimnach,,1984,,"Cact. Succ. J. (Los Angeles) 56: 6 1984",,,,,,170309-2,wfo-0000378848,3951995,,
+b6d994b4-8fd1-11eb-924d-9cd76263cbd0,species,macdougallii,Nopalxochia,,"(Alexander) W.T.Marshall",,1947,,"Cact. Succ. J. (Los Angeles) 19(6): 95 1947",,,,,,136176-1,wfo-0001237129,3951973,,
+d68268f4-8fd1-11eb-924d-9cd76263cbd0,species,phyllanthoides,Nopalxochia,,"(DC.) Britton & Rose",,1923,,"Cactaceae 4: 205f. 207 1923",,,,b910a3e4-8fcc-11eb-924d-9cd76263cbd0,,1012941-2,wfo-0001288908,3951954,,

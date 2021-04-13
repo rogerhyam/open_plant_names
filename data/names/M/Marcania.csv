@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65a0c32-8fd1-11eb-924d-9cd76263cbd0,genus,Marcania,,,J.B.Imlay,1939,"Bull. Misc. Inform. Kew 1939: 136. 1939.",,,,,732-1,wfo-4000023110,7263585,
-3254af62-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Marcania,,J.B.Imlay,1939,"Bull. Misc. Inform. Kew 1939: 136 1939",,,,,52275-1,wfo-0000371196,3773254,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65a0c32-8fd1-11eb-924d-9cd76263cbd0,genus,Marcania,,,J.B.Imlay,,1939,,"Bull. Misc. Inform. Kew 1939: 136. 1939.",,Q55781703,,,,732-1,wfo-4000023110,7263585,,
+3254af62-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Marcania,,J.B.Imlay,,1939,,"Bull. Misc. Inform. Kew 1939: 136 1939",,Q55781703,,,,52275-1,wfo-0000371196,3773254,,

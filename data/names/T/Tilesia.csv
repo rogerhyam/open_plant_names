@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb5d70ca-8fd1-11eb-924d-9cd76263cbd0,genus,Tilesia,,,G.Mey.,,,,,,,328476-2,wfo-4000038414,3132362,
-26d8edcc-8fb5-11eb-924d-9cd76263cbd0,species,baccata,Tilesia,,"(L.) Pruski",1996,"Novon 6(4) 414 1996",,,,,993359-1,wfo-0000074524,5400111,
-b7a14616-8fb4-11eb-924d-9cd76263cbd0,variety,discoidea,Tilesia,baccata,"(S.F.Blake) Pruski",1996,"414 1996",,,,,993360-1,wfo-0000068903,5693780,
-93aafe52-8fb2-11eb-924d-9cd76263cbd0,species,capitata,Tilesia,,G.Mey.,1818,"254 1818",,,,,255736-1,wfo-0000028646,5400113,
-59121d2c-8fb5-11eb-924d-9cd76263cbd0,species,macrocephala,Tilesia,,"(H.Rob.) Pruski",1996,"414 1996",,,,,993361-1,wfo-0000076982,5400108,
-84ad1a18-8fba-11eb-924d-9cd76263cbd0,species,rubens,Tilesia,,"(Alexander) Pruski",1996,"414 1996",,,,f04a3ace-8fb2-11eb-924d-9cd76263cbd0,1155515-2,wfo-0000127287,5404046,
-c9a06eda-8fb6-11eb-924d-9cd76263cbd0,species,spilanthoides,Tilesia,,Griseb.,,"Cat. Pl. Cub. 154.",,,,,255737-1,wfo-0000093167,5400109,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb5d70ca-8fd1-11eb-924d-9cd76263cbd0,genus,Tilesia,,,G.Mey.,,,,,,,,,,328476-2,wfo-4000038414,3132362,,
+26d8edcc-8fb5-11eb-924d-9cd76263cbd0,species,baccata,Tilesia,,"(L.) Pruski",,1996,,"Novon 6(4) 414 1996",,Q55774448,,,,993359-1,wfo-0000074524,5400111,,
+b7a14616-8fb4-11eb-924d-9cd76263cbd0,variety,discoidea,Tilesia,baccata,"(S.F.Blake) Pruski",,1996,,"414 1996",,Q55774448,,,,993360-1,wfo-0000068903,5693780,,
+93aafe52-8fb2-11eb-924d-9cd76263cbd0,species,capitata,Tilesia,,G.Mey.,,1818,,"254 1818",,,,,,255736-1,wfo-0000028646,5400113,,
+59121d2c-8fb5-11eb-924d-9cd76263cbd0,species,macrocephala,Tilesia,,"(H.Rob.) Pruski",,1996,,"414 1996",,Q55774448,,,,993361-1,wfo-0000076982,5400108,,
+84ad1a18-8fba-11eb-924d-9cd76263cbd0,species,rubens,Tilesia,,"(Alexander) Pruski",,1996,,"414 1996",,Q55774448,,f04a3ace-8fb2-11eb-924d-9cd76263cbd0,,1155515-2,wfo-0000127287,5404046,,
+c9a06eda-8fb6-11eb-924d-9cd76263cbd0,species,spilanthoides,Tilesia,,Griseb.,,,,"Cat. Pl. Cub. 154.",,,,,,255737-1,wfo-0000093167,5400109,,

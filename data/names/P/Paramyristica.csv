@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7fc0eaa-8fd1-11eb-924d-9cd76263cbd0,genus,Paramyristica,,,"W.J.de Wilde",1994,"Blumea 39(1–2): 344. 1994.",,,,,979867-1,wfo-4000028095,7333731,
-b72a492c-8fd1-11eb-924d-9cd76263cbd0,species,sepicana,Paramyristica,,"(Foreman) W.J.de Wilde",1994,"Blumea 39(1–2): 344 1994",,,,b72abe34-8fd1-11eb-924d-9cd76263cbd0,979868-1,wfo-0001237738,3743918,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7fc0eaa-8fd1-11eb-924d-9cd76263cbd0,genus,Paramyristica,,,"W.J.de Wilde",,1994,,"Blumea 39(1–2): 344. 1994.",,Q96030767,,,,979867-1,wfo-4000028095,7333731,,
+b72a492c-8fd1-11eb-924d-9cd76263cbd0,species,sepicana,Paramyristica,,"(Foreman) W.J.de Wilde",,1994,,"Blumea 39(1–2): 344 1994",,Q96030767,,b72abe34-8fd1-11eb-924d-9cd76263cbd0,,979868-1,wfo-0001237738,3743918,,

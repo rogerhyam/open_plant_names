@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea468dca-8fd1-11eb-924d-9cd76263cbd0,genus,Senapea,,,Aubl.,1775,"Hist. Pl. Guiane 2(Suppl.): 22, t. 381. 1775. (Jun-Dec 1775)",,,,,,wfo-4000035050,6024237,
-c2487cd4-8fd1-11eb-924d-9cd76263cbd0,species,guianensis,Senapea,,Aubl.,1775,"Hist. Pl. Guiane 2(Suppl.): 22, t. 381 1775",,,,,435671-1,wfo-0001258409,3600814,
-6118d6c0-8fcc-11eb-924d-9cd76263cbd0,species,ruderalis,Senckenbergia,,"(L.) P.Gaertn., B.Mey. & Scherb.",1800,"Oekon. Fl. Wetterau 2: 433 1800",,,,,288897-1,wfo-0000432670,5376617,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea468dca-8fd1-11eb-924d-9cd76263cbd0,genus,Senapea,,,Aubl.,,1775,,"Hist. Pl. Guiane 2(Suppl.): 22, t. 381. 1775. (Jun-Dec 1775)",,,,,,,wfo-4000035050,6024237,,
+c2487cd4-8fd1-11eb-924d-9cd76263cbd0,species,guianensis,Senapea,,Aubl.,,1775,,"Hist. Pl. Guiane 2(Suppl.): 22, t. 381 1775",,,,,,435671-1,wfo-0001258409,3600814,,
+6118d6c0-8fcc-11eb-924d-9cd76263cbd0,species,ruderalis,Senckenbergia,,"(L.) P.Gaertn., B.Mey. & Scherb.",,1800,,"Oekon. Fl. Wetterau 2: 433 1800",,,,,,288897-1,wfo-0000432670,5376617,,

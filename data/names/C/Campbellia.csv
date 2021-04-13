@@ -1,5 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e11cd39e-8fd1-11eb-924d-9cd76263cbd0,genus,Campbellia,,,Wight,1849,"Icon. (Reprint ed.) 4(3): (5). 1849.",,,,,30985-1,wfo-4000006389,3233315,
-bc1cf9f2-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Campbellia,,Wight,,"Icon. Pl. Ind. Orient. 4: t. 1424 1849",,,,,661902-1,wfo-0000582915,8321235,
-bc1d221a-8fcc-11eb-924d-9cd76263cbd0,species,cytinoides,Campbellia,,"(Reut.) Wight",,"Icon. Pl. Ind. Orient. 4: t. 1425 1849",,,,7abd381e-8fcc-11eb-924d-9cd76263cbd0,661903-1,wfo-0000582916,7651016,
-bc1d84da-8fcc-11eb-924d-9cd76263cbd0,species,neilgherrica,Campbellia,,"(Gardner) Panigrahi & G.C.Das",1982,"Indian J. Forest. 5: 323 1982",,,,c8ffbee8-8fcc-11eb-924d-9cd76263cbd0,910181-1,wfo-0000582918,7847960,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e11cd39e-8fd1-11eb-924d-9cd76263cbd0,genus,Campbellia,,,Wight,,1849,,"Icon. (Reprint ed.) 4(3): (5). 1849.",,,,e11cd39e-8fd1-11eb-924d-9cd76263cbd0,,30985-1,wfo-4000006389,3233315,17231," "
+967de5b2-9bac-11eb-a8a2-19ed5c03f8d3,species,africana,Campbellia,,"Cooke & Massee",,1890,,"Grevillea 18(no. 88): 87 (1890)",,,,967de5b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208144," "
+bc1cf9f2-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Campbellia,,Wight,,,,"Icon. Pl. Ind. Orient. 4: t. 1424 1849",,,,,,661902-1,wfo-0000582915,8321235,,
+bc1d221a-8fcc-11eb-924d-9cd76263cbd0,species,cytinoides,Campbellia,,"(Reut.) Wight",,,,"Icon. Pl. Ind. Orient. 4: t. 1425 1849",,,,7abd381e-8fcc-11eb-924d-9cd76263cbd0,,661903-1,wfo-0000582916,7651016,,
+596c4862-9bac-11eb-a8a2-19ed5c03f8d3,species,infundibuliformis,Campbellia,,"(Cooke & Massee) Cooke & Massee",,1890,,"Grevillea 18(no. 88): 87 (1890)",,,,,,,,,208391," "
+bc1d84da-8fcc-11eb-924d-9cd76263cbd0,species,neilgherrica,Campbellia,,"(Gardner) Panigrahi & G.C.Das",,1982,,"Indian J. Forest. 5: 323 1982",,,,c8ffbee8-8fcc-11eb-924d-9cd76263cbd0,,910181-1,wfo-0000582918,7847960,,

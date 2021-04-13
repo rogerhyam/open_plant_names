@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee15d02-8fd1-11eb-924d-9cd76263cbd0,genus,Adenopappus,,,,,,,,,,,wfo-4000000641,3130083,
-16c009ce-8fbb-11eb-924d-9cd76263cbd0,species,persicaefolius,Adenopappus,,Benth.,1840,"41 1840",,,,,174973-1,wfo-0000131627,3130084,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee15d02-8fd1-11eb-924d-9cd76263cbd0,genus,Adenopappus,,,,,,,,,,,,,,wfo-4000000641,3130083,,
+16c009ce-8fbb-11eb-924d-9cd76263cbd0,species,persicaefolius,Adenopappus,,Benth.,,1840,,"41 1840",,,,,,174973-1,wfo-0000131627,3130084,,

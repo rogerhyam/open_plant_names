@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7c00acc-8fd1-11eb-924d-9cd76263cbd0,genus,Ostinia,,,Clairv.,1811,"Man. Herbor. Suisse 162. 1811.",,,,,,wfo-4000027413,3029353,
-95abf132-8fcd-11eb-924d-9cd76263cbd0,species,cotoneaster,Ostinia,,"(L.) Clairv.",1811,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,9ccc306c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000988892,11097127,
-95ad5de2-8fcd-11eb-924d-9cd76263cbd0,species,lanata,Ostinia,,Clairv.,1811,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,wfo-0000988902,3029354,
-95b8f6d4-8fcd-11eb-924d-9cd76263cbd0,species,mespylus,Ostinia,,Clairv.,1811,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,wfo-0000989001,3031781,
-98b16cb8-8fcd-11eb-924d-9cd76263cbd0,species,oxyacantha,Ostinia,,Clairv.,1811,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,wfo-0000995004,3029355,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7c00acc-8fd1-11eb-924d-9cd76263cbd0,genus,Ostinia,,,Clairv.,,1811,,"Man. Herbor. Suisse 162. 1811.",,,,,,,wfo-4000027413,3029353,,
+95abf132-8fcd-11eb-924d-9cd76263cbd0,species,cotoneaster,Ostinia,,"(L.) Clairv.",,1811,,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,9ccc306c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000988892,11097127,,
+95ad5de2-8fcd-11eb-924d-9cd76263cbd0,species,lanata,Ostinia,,Clairv.,,1811,,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,,wfo-0000988902,3029354,,
+95b8f6d4-8fcd-11eb-924d-9cd76263cbd0,species,mespylus,Ostinia,,Clairv.,,1811,,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,,wfo-0000989001,3031781,,
+98b16cb8-8fcd-11eb-924d-9cd76263cbd0,species,oxyacantha,Ostinia,,Clairv.,,1811,,"Manuel d'herborisation en Suisse et en Valais ; 1811 162 1811",,,,,,,wfo-0000995004,3029355,,

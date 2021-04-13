@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e87541a8-8fd1-11eb-924d-9cd76263cbd0,genus,Phymatarum,,,M.Hotta,1965,"Mem. Coll. Sci. Kyoto Imp. Univ. Ser. B, 32: 29. 1965.",,,,,2866-1,wfo-4000029482,2867488,
-f537f4ae-8fcb-11eb-924d-9cd76263cbd0,species,borneense,Phymatarum,,M.Hotta,1965,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 32(1): 29 1965",,,,,88077-1,wfo-0000272934,2867489,
-f53811aa-8fcb-11eb-924d-9cd76263cbd0,species,montanum,Phymatarum,,M.Hotta,1965,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 32(1): 30 1965",,,,,88078-1,wfo-0000272935,2867490,
-43fbad3c-8fcd-11eb-924d-9cd76263cbd0,species,mellobarretoi,Phymatidiopsis,,"(L.O.Williams & Hoehne) Szlach.",2006,"Polish Bot. J. 51: 38 2006",,,,f53a0c8a-8fcb-11eb-924d-9cd76263cbd0,77086272-1,wfo-0000836504,2807000,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e87541a8-8fd1-11eb-924d-9cd76263cbd0,genus,Phymatarum,,,M.Hotta,,1965,,"Mem. Coll. Sci. Kyoto Imp. Univ. Ser. B, 32: 29. 1965.",,,,,,2866-1,wfo-4000029482,2867488,,
+f537f4ae-8fcb-11eb-924d-9cd76263cbd0,species,borneense,Phymatarum,,M.Hotta,,1965,,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 32(1): 29 1965",,,,,,88077-1,wfo-0000272934,2867489,,
+f53811aa-8fcb-11eb-924d-9cd76263cbd0,species,montanum,Phymatarum,,M.Hotta,,1965,,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 32(1): 30 1965",,,,,,88078-1,wfo-0000272935,2867490,,
+43fbad3c-8fcd-11eb-924d-9cd76263cbd0,species,mellobarretoi,Phymatidiopsis,,"(L.O.Williams & Hoehne) Szlach.",,2006,,"Polish Bot. J. 51: 38 2006",,,,f53a0c8a-8fcb-11eb-924d-9cd76263cbd0,,77086272-1,wfo-0000836504,2807000,,

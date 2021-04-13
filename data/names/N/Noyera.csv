@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e766831c-8fd1-11eb-924d-9cd76263cbd0,genus,Noyera,,,Trécul,1847,"Ann. Sci. Nat., Bot., sér. 3, 8: 135. 1847.",,,,,,wfo-4000026373,7262807,
-c205292e-8fcd-11eb-924d-9cd76263cbd0,species,glabrifolia,Noyera,,Ducke,1932,"Bull. Mus. Natl. Hist. Nat., sér. 2 4: 722 1932",,,,,170969-2,wfo-0001084658,3766888,
-c2054580-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Noyera,,"(Poepp. & Endl.) Ducke",1922,"Arch. Jard. Bot. Rio de Janeiro 3: 37 1922",,,,,170970-2,wfo-0001084659,3766876,
-c205615a-8fcd-11eb-924d-9cd76263cbd0,species,ruber,Noyera,,Trécul,,,,,,,,wfo-0001084660,8359795,
-c2057cd0-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Noyera,,Trécul,1847,"Ann. Sci. Nat., Bot., sér. 3, 8: 136 1847",,,,,170971-2,wfo-0001084661,3766861,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e766831c-8fd1-11eb-924d-9cd76263cbd0,genus,Noyera,,,Trécul,,1847,,"Ann. Sci. Nat., Bot., sér. 3, 8: 135. 1847.",,,,,,,wfo-4000026373,7262807,,
+c205292e-8fcd-11eb-924d-9cd76263cbd0,species,glabrifolia,Noyera,,Ducke,,1932,,"Bull. Mus. Natl. Hist. Nat., sér. 2 4: 722 1932",,,,,,170969-2,wfo-0001084658,3766888,,
+c2054580-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Noyera,,"(Poepp. & Endl.) Ducke",,1922,,"Arch. Jard. Bot. Rio de Janeiro 3: 37 1922",,,,,,170970-2,wfo-0001084659,3766876,,
+c205615a-8fcd-11eb-924d-9cd76263cbd0,species,ruber,Noyera,,Trécul,,,,,,,,,,,wfo-0001084660,8359795,,
+c2057cd0-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Noyera,,Trécul,,1847,,"Ann. Sci. Nat., Bot., sér. 3, 8: 136 1847",,,,,,170971-2,wfo-0001084661,3766861,,

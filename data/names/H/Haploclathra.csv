@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4652434-8fd1-11eb-924d-9cd76263cbd0,genus,Haploclathra,,,Benth.,1861,"J. Proc. Linn. Soc., Bot. 5: 58, 64. 1861.",,,,,30108403-2,wfo-4000016862,7330010,
-da862c6a-8fd1-11eb-924d-9cd76263cbd0,species,cordata,Haploclathra,,Vásquez,1993,"Novon 3(4): 499, f. 1 1993",,,,,303402-2,wfo-0001296193,9221728,
-da748852-8fd1-11eb-924d-9cd76263cbd0,species,grandiflora,Haploclathra,,Aspl.,1932,"Svensk Bot. Tidskr. 26(1–2): 191–193, f. 1 1932",,,,,117360-2,wfo-0001296113,3712023,
-da884d2e-8fd1-11eb-924d-9cd76263cbd0,species,leiantha,Haploclathra,,"(Benth.) Benth.",1861,"J. Linn. Soc., Bot. 5: 58 1861",,,,,,wfo-0001296208,3712017,
-da39b916-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Haploclathra,,"(Mart.) Benth.",1861,"J. Linn. Soc., Bot. 5: 58 1861",,,,,,wfo-0001295699,7330014,
-da882254-8fd1-11eb-924d-9cd76263cbd0,variety,verticillata,Haploclathra,paniculata,"(Ducke) Lleras",1972,"Mem. New York Bot. Gard. 22(4): 134 1972",,,,,117361-2,wfo-0001296207,3712000,
-be74a826-8fd1-11eb-924d-9cd76263cbd0,species,verticillata,Haploclathra,,Ducke,1937,"Trop. Woods 51: 17 1937",,,,,117362-2,wfo-0001251182,3711985,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4652434-8fd1-11eb-924d-9cd76263cbd0,genus,Haploclathra,,,Benth.,,1861,,"J. Proc. Linn. Soc., Bot. 5: 58, 64. 1861.",,,,,,30108403-2,wfo-4000016862,7330010,,
+da862c6a-8fd1-11eb-924d-9cd76263cbd0,species,cordata,Haploclathra,,Vásquez,,1993,,"Novon 3(4): 499, f. 1 1993",,Q29999356,,,,303402-2,wfo-0001296193,9221728,,
+da748852-8fd1-11eb-924d-9cd76263cbd0,species,grandiflora,Haploclathra,,Aspl.,,1932,,"Svensk Bot. Tidskr. 26(1–2): 191–193, f. 1 1932",,,,,,117360-2,wfo-0001296113,3712023,,
+da884d2e-8fd1-11eb-924d-9cd76263cbd0,species,leiantha,Haploclathra,,"(Benth.) Benth.",,1861,,"J. Linn. Soc., Bot. 5: 58 1861",,,,,,,wfo-0001296208,3712017,,
+da39b916-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Haploclathra,,"(Mart.) Benth.",,1861,,"J. Linn. Soc., Bot. 5: 58 1861",,,,,,,wfo-0001295699,7330014,,
+da882254-8fd1-11eb-924d-9cd76263cbd0,variety,verticillata,Haploclathra,paniculata,"(Ducke) Lleras",,1972,,"Mem. New York Bot. Gard. 22(4): 134 1972",,,,,,117361-2,wfo-0001296207,3712000,,
+be74a826-8fd1-11eb-924d-9cd76263cbd0,species,verticillata,Haploclathra,,Ducke,,1937,,"Trop. Woods 51: 17 1937",,,,,,117362-2,wfo-0001251182,3711985,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e50cd44a-8fd1-11eb-924d-9cd76263cbd0,genus,Icianthus,,,Greene,1906,"Leafl. Bot. Observ. Crit. 1(14): 197–198. 1906.",,,,,,wfo-4000018942,7292275,
-bb0234d8-8fd1-11eb-924d-9cd76263cbd0,species,atratus,Icianthus,,Greene,1906,"Leafl. Bot. Observ. Crit. 1(14): 198 1906",,,,,127607-2,wfo-0001244818,3041577,
-bb0215f2-8fd1-11eb-924d-9cd76263cbd0,species,glabrifolius,Icianthus,,"(Buckley) Greene",1906,"Leafl. Bot. Observ. Crit. 1(14): 197 1906",,,,bb01f5a4-8fd1-11eb-924d-9cd76263cbd0,127608-2,wfo-0001244817,3041580,
-bb01d4d4-8fd1-11eb-924d-9cd76263cbd0,species,hyacinthoides,Icianthus,,"(Hook.) Greene",1906,"Leafl. Bot. Observ. Crit. 1(14): 197 1906",,,,ac209da6-8fd1-11eb-924d-9cd76263cbd0,1196710-2,wfo-0001244815,3689314,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e50cd44a-8fd1-11eb-924d-9cd76263cbd0,genus,Icianthus,,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1(14): 197–198. 1906.",,,,,,,wfo-4000018942,7292275,,
+bb0234d8-8fd1-11eb-924d-9cd76263cbd0,species,atratus,Icianthus,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1(14): 198 1906",,,,,,127607-2,wfo-0001244818,3041577,,
+bb0215f2-8fd1-11eb-924d-9cd76263cbd0,species,glabrifolius,Icianthus,,"(Buckley) Greene",,1906,,"Leafl. Bot. Observ. Crit. 1(14): 197 1906",,,,bb01f5a4-8fd1-11eb-924d-9cd76263cbd0,,127608-2,wfo-0001244817,3041580,,
+bb01d4d4-8fd1-11eb-924d-9cd76263cbd0,species,hyacinthoides,Icianthus,,"(Hook.) Greene",,1906,,"Leafl. Bot. Observ. Crit. 1(14): 197 1906",,,,ac209da6-8fd1-11eb-924d-9cd76263cbd0,,1196710-2,wfo-0001244815,3689314,,

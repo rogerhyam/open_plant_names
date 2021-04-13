@@ -1,9 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7fd46f8-8fd1-11eb-924d-9cd76263cbd0,genus,Parapantadenia,,,Capuron,1972,"Adansonia, n.s. 12: 206. 1972.",,,,,,wfo-4000028109,3074567,
-f001c032-8fcb-11eb-924d-9cd76263cbd0,species,chauvetiae,Parapantadenia,,"Leandri & Capuron",1972,"Adansonia n.s., 12: 206 1972",,,,,353236-1,wfo-0000264503,3074568,
-7aea11a4-8fcc-11eb-924d-9cd76263cbd0,species,brilletii,Parapentace,,Gagnep.,1943,"Bull. Soc. Bot. France 110: 71 1943",,,,,834976-1,wfo-0000475672,4261738,
-dcbb3e16-8fcd-11eb-924d-9cd76263cbd0,species,tonkinensis,Parapentace,,"(A.Chev.) Gagnep.",1943,"Bull. Soc. Bot. France 90(1–6): 70–71 1943",,,,,834977-1,wfo-0001142764,4261732,
-f002196a-8fcb-11eb-924d-9cd76263cbd0,species,botryophorus,Parapentapanax,,"(Harms) Hutch.",1967,"Gen. Fl. Pl. 2: 56 1967",,,,,91598-1,wfo-0000264505,3035958,
-f00236ca-8fcb-11eb-924d-9cd76263cbd0,species,harmsii,Parapentapanax,,"(R.Vig.) Hutch.",1967,"Gen. Fl. Pl. 2: 56 1967",,,,,91599-1,wfo-0000264506,3035947,
-f002561e-8fcb-11eb-924d-9cd76263cbd0,species,racemosus,Parapentapanax,,"(Seem.) Hutch.",1967,"Gen. Fl. Pl. 2: 56 1967",,,,f16dcbaa-8fcb-11eb-924d-9cd76263cbd0,91600-1,wfo-0000264507,3037006,
-f002741e-8fcb-11eb-924d-9cd76263cbd0,species,subcordatus,Parapentapanax,,"(Wall. ex G.Don) Hutch.",1967,"Gen. Fl. Pl. 2: 56 1967",,,,,91601-1,wfo-0000264508,3036870,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7fd46f8-8fd1-11eb-924d-9cd76263cbd0,genus,Parapantadenia,,,Capuron,,1972,,"Adansonia, n.s. 12: 206. 1972.",,,,,,,wfo-4000028109,3074567,,
+f001c032-8fcb-11eb-924d-9cd76263cbd0,species,chauvetiae,Parapantadenia,,"Leandri & Capuron",,1972,,"Adansonia n.s., 12: 206 1972",,Q58838168,,,,353236-1,wfo-0000264503,3074568,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e385cf64-8fd1-11eb-924d-9cd76263cbd0,genus,Eubrachion,,,Hook.f.,1844,"Fl. Antarct. 2: 291. 1844[1846]. (ante 4 Apr 1846)",,,,,25214-1,wfo-4000014085,2889819,
-f5e72c5c-8fcc-11eb-924d-9cd76263cbd0,species,ambiguum,Eubrachion,,"(Hook. & Arn.) Engl.",1889,"Nat. Pflanzenfam. 3(1): 192 1889",,,,bdb3e93c-8fcd-11eb-924d-9cd76263cbd0,97867-2,wfo-0000680981,2889820,
-f5e7493a-8fcc-11eb-924d-9cd76263cbd0,variety,jamaicense,Eubrachion,ambiguum,"Krug & Urb.",1897,"Bot. Jahrb. Syst. 24: 31 1897",,,,,276914-2,wfo-0000680982,3990557,
-f5e76582-8fcc-11eb-924d-9cd76263cbd0,species,andalgalense,Eubrachion,,Abbiatti,1942,"Notas Mus. La Plata, Bot. 7: 215 1942",,,,,97870-2,wfo-0000680983,3990585,
-f5e7822e-8fcc-11eb-924d-9cd76263cbd0,species,arnottii,Eubrachion,,Hook.f.,1846,"Fl. Antarct. 291 1846",,,,,548694-1,wfo-0000680984,3990582,
-f5e79cf0-8fcc-11eb-924d-9cd76263cbd0,species,brasiliense,Eubrachion,,Eichler,1868,"Fl. Bras. 5(2): 133 1868",,,,,548695-1,wfo-0000680985,3990576,
-f5e7b726-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Eubrachion,,Kuijt,1988,"Syst. Bot. Monogr. 18: 46 1988",,,,,276915-2,wfo-0000680986,3990563,
-5430ce4a-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Eucallias,,Raf.,1838,"Fl. Tellur. 4: 25 1838",,,,,122858-1,wfo-0000416033,2693718,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e385cf64-8fd1-11eb-924d-9cd76263cbd0,genus,Eubrachion,,,Hook.f.,,1844,,"Fl. Antarct. 2: 291. 1844[1846]. (ante 4 Apr 1846)",,,,,,25214-1,wfo-4000014085,2889819,,
+f5e72c5c-8fcc-11eb-924d-9cd76263cbd0,species,ambiguum,Eubrachion,,"(Hook. & Arn.) Engl.",,1889,,"Nat. Pflanzenfam. 3(1): 192 1889",,,,bdb3e93c-8fcd-11eb-924d-9cd76263cbd0,,97867-2,wfo-0000680981,2889820,,
+f5e7493a-8fcc-11eb-924d-9cd76263cbd0,variety,jamaicense,Eubrachion,ambiguum,"Krug & Urb.",,1897,,"Bot. Jahrb. Syst. 24: 31 1897",,,,,,276914-2,wfo-0000680982,3990557,,
+f5e76582-8fcc-11eb-924d-9cd76263cbd0,species,andalgalense,Eubrachion,,Abbiatti,,1942,,"Notas Mus. La Plata, Bot. 7: 215 1942",,,,,,97870-2,wfo-0000680983,3990585,,
+f5e7822e-8fcc-11eb-924d-9cd76263cbd0,species,arnottii,Eubrachion,,Hook.f.,,1846,,"Fl. Antarct. 291 1846",,,,,,548694-1,wfo-0000680984,3990582,,
+f5e79cf0-8fcc-11eb-924d-9cd76263cbd0,species,brasiliense,Eubrachion,,Eichler,,1868,,"Fl. Bras. 5(2): 133 1868",,,,,,548695-1,wfo-0000680985,3990576,,
+f5e7b726-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Eubrachion,,Kuijt,,1988,,"Syst. Bot. Monogr. 18: 46 1988",,Q55767905,,,,276915-2,wfo-0000680986,3990563,,
+5430ce4a-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Eucallias,,Raf.,,1838,,"Fl. Tellur. 4: 25 1838",,,,,,122858-1,wfo-0000416033,2693718,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e13547b2-8fd1-11eb-924d-9cd76263cbd0,genus,Cardotiella,,,Vitt,1981,"J. Hattori Bot. Lab. 49: 101. 1981.",,,,,,wfo-4000006700,2672446,
-f1184ca0-8fcd-11eb-924d-9cd76263cbd0,species,appendiculata,Cardotiella,,"(Renauld & Cardot) Vitt",1981,"J. Hattori Bot. Lab. 49: 101 1981",,,,dec921fa-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185977,2672450,
-f8e65c42-8fcd-11eb-924d-9cd76263cbd0,species,elimbata,Cardotiella,,"(Thér.) Goffinet",1996,"Bryologist 99: 390 1996",,,,,,wfo-0001201812,2672453,
-f1186686-8fcd-11eb-924d-9cd76263cbd0,species,quinquefaria,Cardotiella,,"(Hornsch.) Vitt",1981,"J. Hattori Bot. Lab. 49: 102 1981",,,,,,wfo-0001185978,2672452,
-f1188364-8fcd-11eb-924d-9cd76263cbd0,species,renauldii,Cardotiella,,"(Broth.) Vitt",1981,"J. Hattori Bot. Lab. 49: 103 1981",,,,,,wfo-0001185979,2672449,
-f118b00a-8fcd-11eb-924d-9cd76263cbd0,species,schlotheimiaeformis,Cardotiella,,"(Paris) Vitt",1981,"J. Hattori Bot. Lab. 49: 103 1981",,,,,,wfo-0001185980,2672447,
-f118cd56-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Cardotiella,,"(Müll.Hal.) Vitt",1981,"J. Hattori Bot. Lab. 49: 105 1981",,,,e0a6e0fc-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185981,2672451,
-f118e9c6-8fcd-11eb-924d-9cd76263cbd0,species,subappendiculata,Cardotiella,,"(Broth.) Vitt",1981,"J. Hattori Bot. Lab. 49: 105 1981",,,,,,wfo-0001185982,2672448,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e13547b2-8fd1-11eb-924d-9cd76263cbd0,genus,Cardotiella,,,Vitt,,1981,,"J. Hattori Bot. Lab. 49: 101. 1981.",,,,,,,wfo-4000006700,2672446,,
+f1184ca0-8fcd-11eb-924d-9cd76263cbd0,species,appendiculata,Cardotiella,,"(Renauld & Cardot) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 101 1981",,,,dec921fa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185977,2672450,,
+f8e65c42-8fcd-11eb-924d-9cd76263cbd0,species,elimbata,Cardotiella,,"(Thér.) Goffinet",,1996,,"Bryologist 99: 390 1996",,,,,,,wfo-0001201812,2672453,,
+f1186686-8fcd-11eb-924d-9cd76263cbd0,species,quinquefaria,Cardotiella,,"(Hornsch.) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 102 1981",,,,,,,wfo-0001185978,2672452,,
+f1188364-8fcd-11eb-924d-9cd76263cbd0,species,renauldii,Cardotiella,,"(Broth.) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 103 1981",,,,,,,wfo-0001185979,2672449,,
+f118b00a-8fcd-11eb-924d-9cd76263cbd0,species,schlotheimiaeformis,Cardotiella,,"(Paris) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 103 1981",,,,,,,wfo-0001185980,2672447,,
+f118cd56-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Cardotiella,,"(Müll.Hal.) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 105 1981",,,,e0a6e0fc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185981,2672451,,
+f118e9c6-8fcd-11eb-924d-9cd76263cbd0,species,subappendiculata,Cardotiella,,"(Broth.) Vitt",,1981,,"J. Hattori Bot. Lab. 49: 105 1981",,,,,,,wfo-0001185982,2672448,,

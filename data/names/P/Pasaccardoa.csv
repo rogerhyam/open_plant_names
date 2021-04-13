@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e80ba586-8fd1-11eb-924d-9cd76263cbd0,genus,Pasaccardoa,,,Kuntze,,,,,,,10405-1,wfo-4000028275,3093495,
-4a120d44-8fb2-11eb-924d-9cd76263cbd0,species,baumii,Pasaccardoa,,O.Hoffm.,,"in Warb. Kunene-Sambesi Exped. 426.",,,,,236532-1,wfo-0000019166,3093497,
-097b6340-8fba-11eb-924d-9cd76263cbd0,species,dicomoides,Pasaccardoa,,"De Wild. & Muschl.",1912,"in Bull. Soc. Bot. Belg. 1912, xlix. 223 (1913).",,,,,,wfo-0000123455,3093499,
-3ffa6142-8fb4-11eb-924d-9cd76263cbd0,species,grantii,Pasaccardoa,,"(Benth. ex Oliv.) Kuntze",1891,"Revis. Gen. Pl. 1: 354 1891",,,,,,wfo-0000062196,3093498,
-557b588c-8fb4-11eb-924d-9cd76263cbd0,species,jeffreyi,Pasaccardoa,,Wild,1972,"Kirkia 8(2): 168 (1972).",,,,,,wfo-0000063480,3093502,
-d6288074-8fb7-11eb-924d-9cd76263cbd0,subspecies,procumbens,Pasaccardoa,jeffreyi,Lisowski,1987,"in Bull. Jard. Bot. Nation. Belg., 57(1–2): 258 (1987)",,,,,,wfo-0000103637,4246169,
-6828d510-8fb2-11eb-924d-9cd76263cbd0,species,kassneri,Pasaccardoa,,"De Wild. & Muschl.",1912,"in Bull. Soc. Bot. Belg. 1912, xlix. 225 (1913).",,,,,,wfo-0000023582,3093501,
-8734b762-8fb2-11eb-924d-9cd76263cbd0,species,procumbens,Pasaccardoa,,"(Lisowski) G.V.Pope",1992,"in Fl. Zambes., 6(1): 27 (1992):",,,,d6288074-8fb7-11eb-924d-9cd76263cbd0,969255-1,wfo-0000027151,3093496,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e80ba586-8fd1-11eb-924d-9cd76263cbd0,genus,Pasaccardoa,,,Kuntze,,,,,,,,,,10405-1,wfo-4000028275,3093495,,
+4a120d44-8fb2-11eb-924d-9cd76263cbd0,species,baumii,Pasaccardoa,,O.Hoffm.,,,,"in Warb. Kunene-Sambesi Exped. 426.",,,,,,236532-1,wfo-0000019166,3093497,,
+097b6340-8fba-11eb-924d-9cd76263cbd0,species,dicomoides,Pasaccardoa,,"De Wild. & Muschl.",,1912,,"in Bull. Soc. Bot. Belg. 1912, xlix. 223 (1913).",,,,,,,wfo-0000123455,3093499,,
+3ffa6142-8fb4-11eb-924d-9cd76263cbd0,species,grantii,Pasaccardoa,,"(Benth. ex Oliv.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 354 1891",,,,,,,wfo-0000062196,3093498,,
+557b588c-8fb4-11eb-924d-9cd76263cbd0,species,jeffreyi,Pasaccardoa,,Wild,,1972,,"Kirkia 8(2): 168 (1972).",,,,,,,wfo-0000063480,3093502,,
+d6288074-8fb7-11eb-924d-9cd76263cbd0,subspecies,procumbens,Pasaccardoa,jeffreyi,Lisowski,,1987,,"in Bull. Jard. Bot. Nation. Belg., 57(1–2): 258 (1987)",,,,,,,wfo-0000103637,4246169,,
+6828d510-8fb2-11eb-924d-9cd76263cbd0,species,kassneri,Pasaccardoa,,"De Wild. & Muschl.",,1912,,"in Bull. Soc. Bot. Belg. 1912, xlix. 225 (1913).",,,,,,,wfo-0000023582,3093501,,
+8734b762-8fb2-11eb-924d-9cd76263cbd0,species,procumbens,Pasaccardoa,,"(Lisowski) G.V.Pope",,1992,,"in Fl. Zambes., 6(1): 27 (1992):",,,,d6288074-8fb7-11eb-924d-9cd76263cbd0,,969255-1,wfo-0000027151,3093496,,

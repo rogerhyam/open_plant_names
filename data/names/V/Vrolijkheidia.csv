@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebfc88e0-8fd1-11eb-924d-9cd76263cbd0,genus,Vrolijkheidia,,,"Hedd. & R.H.Zander",2008,"J. Bryol. 30: 143. 2008.",,,,,,wfo-4000040448,4890394,
-fede49e8-8fcd-11eb-924d-9cd76263cbd0,species,circumscissa,Vrolijkheidia,,"Hedd. & R.H.Zander",2008,"J. Bryol. 30: 143 2008",,,,,,wfo-0001214468,7521494,
-aa95508a-8fd1-11eb-924d-9cd76263cbd0,species,peraristata,Vrolijkheidia,,"(Müll.Hal.) R.H.Zander & Hedd.",2009,"J. Bryol. 31: 239 2009",,,,,,wfo-0001214669,7981844,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebfc88e0-8fd1-11eb-924d-9cd76263cbd0,genus,Vrolijkheidia,,,"Hedd. & R.H.Zander",,2008,,"J. Bryol. 30: 143. 2008.",,,,,,,wfo-4000040448,4890394,,
+fede49e8-8fcd-11eb-924d-9cd76263cbd0,species,circumscissa,Vrolijkheidia,,"Hedd. & R.H.Zander",,2008,,"J. Bryol. 30: 143 2008",,,,,,,wfo-0001214468,7521494,,
+aa95508a-8fd1-11eb-924d-9cd76263cbd0,species,peraristata,Vrolijkheidia,,"(Müll.Hal.) R.H.Zander & Hedd.",,2009,,"J. Bryol. 31: 239 2009",,,,,,,wfo-0001214669,7981844,,

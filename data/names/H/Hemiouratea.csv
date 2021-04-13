@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4958e44-8fd1-11eb-924d-9cd76263cbd0,genus,Hemiouratea,,,Tiegh.,1902,"J. Bot. (Morot) 16: 185, 190. 1902.",,,,,,wfo-4000017404,7326821,
-0c13495c-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Hemiouratea,,Tiegh.,1902,"Ann. Sci. Nat., Bot. VIII, 16: 242 1902",,,,,606347-1,wfo-0000719586,7326826,
-0c136630-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Hemiouratea,,Tiegh.,1902,"Bull. Mus. Hist. Nat. (Paris) 8: 374 1902",,,,,606348-1,wfo-0000719587,7326822,
-ecf45344-8fb4-11eb-924d-9cd76263cbd0,species,argenteus,Hemipappus,,"(Lam.) Tzvelev",1961,1961,,,,b86ccf66-8fbe-11eb-924d-9cd76263cbd0,,wfo-0000071694,3118476,
-70ed3e3e-8fb2-11eb-924d-9cd76263cbd0,species,canus,Hemipappus,,K.Koch,1851,"341 1851",,,,,213737-1,wfo-0000024633,4241877,
-b78ccc68-8fb9-11eb-924d-9cd76263cbd0,species,isabellinus,Hemipappus,,K.Koch,1851,"Linnaea 24: 341. 1851",,,,,213738-1,wfo-0000120769,4241875,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4958e44-8fd1-11eb-924d-9cd76263cbd0,genus,Hemiouratea,,,Tiegh.,,1902,,"J. Bot. (Morot) 16: 185, 190. 1902.",,,,,,,wfo-4000017404,7326821,,
+0c13495c-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Hemiouratea,,Tiegh.,,1902,,"Ann. Sci. Nat., Bot. VIII, 16: 242 1902",,,,,,606347-1,wfo-0000719586,7326826,,
+0c136630-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Hemiouratea,,Tiegh.,,1902,,"Bull. Mus. Hist. Nat. (Paris) 8: 374 1902",,,,,,606348-1,wfo-0000719587,7326822,,
+ecf45344-8fb4-11eb-924d-9cd76263cbd0,species,argenteus,Hemipappus,,"(Lam.) Tzvelev",,1961,,1961,,,,b86ccf66-8fbe-11eb-924d-9cd76263cbd0,,,wfo-0000071694,3118476,,
+70ed3e3e-8fb2-11eb-924d-9cd76263cbd0,species,canus,Hemipappus,,K.Koch,,1851,,"341 1851",,,,,,213737-1,wfo-0000024633,4241877,,
+b78ccc68-8fb9-11eb-924d-9cd76263cbd0,species,isabellinus,Hemipappus,,K.Koch,,1851,,"Linnaea 24: 341. 1851",,,,,,213738-1,wfo-0000120769,4241875,,

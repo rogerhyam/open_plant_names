@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3069456-8fd1-11eb-924d-9cd76263cbd0,genus,Drakaina,,,,,,,,,,,wfo-4000012531,2772854,
-2336bc72-8fcd-11eb-924d-9cd76263cbd0,species,draco,Drakaina,,"(L.) Raf.",1838,"Fl. Tellur. 4: 17 1838",,,,,534479-1,wfo-0000766056,2776075,
-2336d810-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Drakaina,,"(Hoffmanns.) Raf.",1838,"Fl. Tellur. 4: 17 1838",,,,,534480-1,wfo-0000766057,2777931,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3069456-8fd1-11eb-924d-9cd76263cbd0,genus,Drakaina,,,,,,,,,,,,,,wfo-4000012531,2772854,,
+2336bc72-8fcd-11eb-924d-9cd76263cbd0,species,draco,Drakaina,,"(L.) Raf.",,1838,,"Fl. Tellur. 4: 17 1838",,,,,,534479-1,wfo-0000766056,2776075,,
+2336d810-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Drakaina,,"(Hoffmanns.) Raf.",,1838,,"Fl. Tellur. 4: 17 1838",,,,,,534480-1,wfo-0000766057,2777931,,

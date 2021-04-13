@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e29ec1be-8fd1-11eb-924d-9cd76263cbd0,genus,Desmostachya,,,"(Stapf) Stapf",1898,"Fl. Cap. 7: 316. 1898.",,,,,17882-1,wfo-4000011219,4142051,
-503b4396-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Desmostachya,,"(L.) Stapf",1900,"Fl. Cap. 7: 632 1900",,,,,398084-1,wfo-0000862775,4142071,
-c8afb8b6-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Haines",,,,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001099216,7443930,
-503b7b7c-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Stapf ex Massey",1926,"Publ. Dept. Agric. For., Bot. Ser. 1: 43 1926",,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000862777,4142063,
-6eb0ab4a-8fcd-11eb-924d-9cd76263cbd0,species,pingalaiae,Desmostachya,,"Raole & R.J.Desai",2008,"Nordic J. Bot. 26: 196 2008",,,,,,wfo-0000912207,4142050,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e29ec1be-8fd1-11eb-924d-9cd76263cbd0,genus,Desmostachya,,,"(Stapf) Stapf",,1898,,"Fl. Cap. 7: 316. 1898.",,,,,,17882-1,wfo-4000011219,4142051,,
+503b4396-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Desmostachya,,"(L.) Stapf",,1900,,"Fl. Cap. 7: 632 1900",,,,,,398084-1,wfo-0000862775,4142071,,
+c8afb8b6-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Haines",,,,,,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001099216,7443930,,
+503b7b7c-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Stapf ex Massey",,1926,,"Publ. Dept. Agric. For., Bot. Ser. 1: 43 1926",,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000862777,4142063,,
+6eb0ab4a-8fcd-11eb-924d-9cd76263cbd0,species,pingalaiae,Desmostachya,,"Raole & R.J.Desai",,2008,,"Nordic J. Bot. 26: 196 2008",,,,,,,wfo-0000912207,4142050,,

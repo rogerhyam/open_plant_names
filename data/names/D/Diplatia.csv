@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2d8d1c4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplatia,,,Tiegh.,1894,"Bull. Soc. Bot. France 41: 501. 1894.",,,,,25200-1,wfo-4000011934,7287874,
-e3e0aea2-8fcc-11eb-924d-9cd76263cbd0,species,alberticii,Diplatia,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 88 1895",,,,,548517-1,wfo-0000650133,4000759,
-e3e0cf5e-8fcc-11eb-924d-9cd76263cbd0,species,furcata,Diplatia,,Barlow,1962,"Proc. Linn. Soc. New South Wales 87: 57 1962",,,,,548518-1,wfo-0000650134,4000742,
-e3e0ef5c-8fcc-11eb-924d-9cd76263cbd0,species,grandibractea,Diplatia,,"(F.Muell.) Tiegh.",1894,"Bull. Soc. Bot. France 41: 502 1894",,,,,548519-1,wfo-0000650135,4000719,
-e3e10e92-8fcc-11eb-924d-9cd76263cbd0,species,maidenii,Diplatia,,"(Blakeley) Danser",1929,"Bull. Jard. Bot. Buitenzorg III, 10: 312 1929",,,,,548520-1,wfo-0000650136,4000694,
-e3e14ac4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Diplatia,,Tiegh.,1894,"Bull. Soc. Bot. France 41: 502 1894",,,,,548521-1,wfo-0000650138,4000663,
-e3e1721a-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Diplatia,,Barlow,1966,"Austral. J. Bot. 14: 488 1966",,,,,548522-1,wfo-0000650139,4000643,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2d8d1c4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplatia,,,Tiegh.,,1894,,"Bull. Soc. Bot. France 41: 501. 1894.",,Q54801450,,,,25200-1,wfo-4000011934,7287874,,
+e3e0aea2-8fcc-11eb-924d-9cd76263cbd0,species,alberticii,Diplatia,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 88 1895",,Q54801402,,,,548517-1,wfo-0000650133,4000759,,
+e3e0cf5e-8fcc-11eb-924d-9cd76263cbd0,species,furcata,Diplatia,,Barlow,,1962,,"Proc. Linn. Soc. New South Wales 87: 57 1962",,,,,,548518-1,wfo-0000650134,4000742,,
+e3e0ef5c-8fcc-11eb-924d-9cd76263cbd0,species,grandibractea,Diplatia,,"(F.Muell.) Tiegh.",,1894,,"Bull. Soc. Bot. France 41: 502 1894",,Q54801450,,,,548519-1,wfo-0000650135,4000719,,
+e3e10e92-8fcc-11eb-924d-9cd76263cbd0,species,maidenii,Diplatia,,"(Blakeley) Danser",,1929,,"Bull. Jard. Bot. Buitenzorg III, 10: 312 1929",,,,,,548520-1,wfo-0000650136,4000694,,
+e3e14ac4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Diplatia,,Tiegh.,,1894,,"Bull. Soc. Bot. France 41: 502 1894",,Q54801450,,,,548521-1,wfo-0000650138,4000663,,
+e3e1721a-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Diplatia,,Barlow,,1966,,"Austral. J. Bot. 14: 488 1966",,Q54801356,,,,548522-1,wfo-0000650139,4000643,,

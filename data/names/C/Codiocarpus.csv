@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1e04392-8fd1-11eb-924d-9cd76263cbd0,genus,Codiocarpus,,,R.A.Howard,1943,"Brittonia 5: 53. 1943.",,,,,19878-1,wfo-4000008770,7314381,
-cef0935e-8fcc-11eb-924d-9cd76263cbd0,species,andamanicus,Codiocarpus,,"(Kurz) R.A.Howard",1943,"Brittonia 5: 57 1943",,,,,,wfo-0000613985,3596719,
-cef0c2f2-8fcc-11eb-924d-9cd76263cbd0,species,merrittii,Codiocarpus,,"(Merr.) R.A.Howard",1943,"Brittonia 5: 56 1943",,,,,,wfo-0000613986,3596709,
-41377b62-8fcd-11eb-924d-9cd76263cbd0,species,nitidus,Codiphus,,"(L'Hér.) Raf.",1837,"Fl. Tellur. 2: 77 1837",,,,3b26450a-8fcd-11eb-924d-9cd76263cbd0,141766-1,wfo-0000830475,3161711,
-cef0ed9a-8fcc-11eb-924d-9cd76263cbd0,species,lappacea,Codivalia,,"(L.) Raf.",1837,"Fl. Tellur. 3: 40 1837",,,,93084b16-8fcc-11eb-924d-9cd76263cbd0,60123-1,wfo-0000613987,3676270,
-cef11162-8fcc-11eb-924d-9cd76263cbd0,species,patula,Codivalia,,Raf.,1837,"Fl. Tellur. 3: 40 1837",,,,,60124-1,wfo-0000613988,3676264,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1e04392-8fd1-11eb-924d-9cd76263cbd0,genus,Codiocarpus,,,R.A.Howard,,1943,,"Brittonia 5: 53. 1943.",,,,,,19878-1,wfo-4000008770,7314381,,
+cef0935e-8fcc-11eb-924d-9cd76263cbd0,species,andamanicus,Codiocarpus,,"(Kurz) R.A.Howard",,1943,,"Brittonia 5: 57 1943",,,,,,,wfo-0000613985,3596719,,
+cef0c2f2-8fcc-11eb-924d-9cd76263cbd0,species,merrittii,Codiocarpus,,"(Merr.) R.A.Howard",,1943,,"Brittonia 5: 56 1943",,,,,,,wfo-0000613986,3596709,,
+41377b62-8fcd-11eb-924d-9cd76263cbd0,species,nitidus,Codiphus,,"(L'Hér.) Raf.",,1837,,"Fl. Tellur. 2: 77 1837",,,,3b26450a-8fcd-11eb-924d-9cd76263cbd0,,141766-1,wfo-0000830475,3161711,,
+cef0ed9a-8fcc-11eb-924d-9cd76263cbd0,species,lappacea,Codivalia,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 40 1837",,,,93084b16-8fcc-11eb-924d-9cd76263cbd0,,60123-1,wfo-0000613987,3676270,,
+cef11162-8fcc-11eb-924d-9cd76263cbd0,species,patula,Codivalia,,Raf.,,1837,,"Fl. Tellur. 3: 40 1837",,,,,,60124-1,wfo-0000613988,3676264,,

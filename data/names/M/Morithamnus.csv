@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e9f6bc-8fd1-11eb-924d-9cd76263cbd0,genus,Morithamnus,,,"R.M.King, H.Rob. & G.M.Barroso",,,,,,,298559-2,wfo-4000024857,3130367,
-1585e5b2-8fb9-11eb-924d-9cd76263cbd0,species,crassus,Morithamnus,,"R.M.King, H.Rob. & G.M.Barroso",1979,"452 1979",,,,,164358-2,wfo-0000115260,3130370,
-3d754d38-8fb4-11eb-924d-9cd76263cbd0,species,ganophyllus,Morithamnus,,"(Mattf. ex Mattf.) R.M.King & H.Rob.",1980,"300 1980",,,,,,wfo-0000062041,3130368,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e9f6bc-8fd1-11eb-924d-9cd76263cbd0,genus,Morithamnus,,,"R.M.King, H.Rob. & G.M.Barroso",,,,,,,,,,298559-2,wfo-4000024857,3130367,,
+1585e5b2-8fb9-11eb-924d-9cd76263cbd0,species,crassus,Morithamnus,,"R.M.King, H.Rob. & G.M.Barroso",,1979,,"452 1979",,,,,,164358-2,wfo-0000115260,3130370,,
+3d754d38-8fb4-11eb-924d-9cd76263cbd0,species,ganophyllus,Morithamnus,,"(Mattf. ex Mattf.) R.M.King & H.Rob.",,1980,,"300 1980",,,,,,,wfo-0000062041,3130368,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e888df42-8fd1-11eb-924d-9cd76263cbd0,genus,Piloselloides,,,"(Less.) C.Jeffrey",,,,,,,60463770-2,wfo-4000029704,7692592,
-14fa3e22-8fb4-11eb-924d-9cd76263cbd0,species,cordata,Piloselloides,,"(Thunb.) C.Jeffrey",1967,"Kew Bull. xxi. 218 (1967), in obs.",,,,,238390-1,wfo-0000059661,3097389,
-06a7d7b6-8fb5-11eb-924d-9cd76263cbd0,species,hirsuta,Piloselloides,,"(Forssk.) C.Jeffrey ex Cufod.",,"in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl., 1180 (1967). 218 1967",,,,3d2eb2ac-8fb3-11eb-924d-9cd76263cbd0,,wfo-0000073000,3097405,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e888df42-8fd1-11eb-924d-9cd76263cbd0,genus,Piloselloides,,,"(Less.) C.Jeffrey",,,,,,Q55779116,,,,60463770-2,wfo-4000029704,7692592,,
+14fa3e22-8fb4-11eb-924d-9cd76263cbd0,species,cordata,Piloselloides,,"(Thunb.) C.Jeffrey",,1967,,"Kew Bull. xxi. 218 (1967), in obs.",,Q55779116,,,,238390-1,wfo-0000059661,3097389,,
+06a7d7b6-8fb5-11eb-924d-9cd76263cbd0,species,hirsuta,Piloselloides,,"(Forssk.) C.Jeffrey ex Cufod.",,,,"in Bull. Jard. Bot. Nat. Belg. xxxvii. Suppl., 1180 (1967). 218 1967",,,,3d2eb2ac-8fb3-11eb-924d-9cd76263cbd0,,,wfo-0000073000,3097405,,

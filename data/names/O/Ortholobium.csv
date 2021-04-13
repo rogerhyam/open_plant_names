@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7b25bc0-8fd1-11eb-924d-9cd76263cbd0,genus,Ortholobium,,,,,,,,,,,wfo-4000027273,7301775,
-d6a50fcc-8fc6-11eb-924d-9cd76263cbd0,species,annamense,Ortholobium,,Gagnep.,,,,,,,,wfo-0000199830,8713950,
-d388efe8-8fc6-11eb-924d-9cd76263cbd0,species,balansae,Ortholobium,,"(Oliv.) Gagnep.",,,,,,,,wfo-0000199763,2941397,
-27a1eb88-8fc8-11eb-924d-9cd76263cbd0,species,bubalinum,Ortholobium,,"(Jack) Kosterm.",,,,,,,,wfo-0000206410,2941208,
-d402811e-8fc6-11eb-924d-9cd76263cbd0,species,chevalieri,Ortholobium,,Gagnep.,,,,,,,,wfo-0000199777,2941361,
-2c3495d8-8fc8-11eb-924d-9cd76263cbd0,species,havilandii,Ortholobium,,"(Ridl.) Kosterm.",,,,,,,,wfo-0000206512,2941414,
-d41010d6-8fc6-11eb-924d-9cd76263cbd0,species,platyphyllum,Ortholobium,,"Gagnep., p.p.",,,,,,,,wfo-0000199778,2941363,
-3b69b926-8fcc-11eb-924d-9cd76263cbd0,species,umbellatum,Ortholobium,,Gagnep.,1952,"Bull. Soc. Bot. France 99: 37 1952",,,,,511105-1,wfo-0000384103,3967756,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7b25bc0-8fd1-11eb-924d-9cd76263cbd0,genus,Ortholobium,,,,,,,,,,,,,,wfo-4000027273,7301775,,
+d6a50fcc-8fc6-11eb-924d-9cd76263cbd0,species,annamense,Ortholobium,,Gagnep.,,,,,,,,,,,wfo-0000199830,8713950,,
+d388efe8-8fc6-11eb-924d-9cd76263cbd0,species,balansae,Ortholobium,,"(Oliv.) Gagnep.",,,,,,,,,,,wfo-0000199763,2941397,,
+27a1eb88-8fc8-11eb-924d-9cd76263cbd0,species,bubalinum,Ortholobium,,"(Jack) Kosterm.",,,,,,,,,,,wfo-0000206410,2941208,,
+d402811e-8fc6-11eb-924d-9cd76263cbd0,species,chevalieri,Ortholobium,,Gagnep.,,,,,,,,,,,wfo-0000199777,2941361,,
+2c3495d8-8fc8-11eb-924d-9cd76263cbd0,species,havilandii,Ortholobium,,"(Ridl.) Kosterm.",,,,,,,,,,,wfo-0000206512,2941414,,
+d41010d6-8fc6-11eb-924d-9cd76263cbd0,species,platyphyllum,Ortholobium,,"Gagnep., p.p.",,,,,,,,,,,wfo-0000199778,2941363,,
+3b69b926-8fcc-11eb-924d-9cd76263cbd0,species,umbellatum,Ortholobium,,Gagnep.,,1952,,"Bull. Soc. Bot. France 99: 37 1952",,Q95996921,,,,511105-1,wfo-0000384103,3967756,,

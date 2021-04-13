@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3331d14-8fd1-11eb-924d-9cd76263cbd0,genus,Eisocreochiton,,,"Quisumb. & Merr.",1928,"Philipp. J. Sci. 37: 177. 1928.",,,,,,wfo-4000013083,7273026,
-5ee72b84-8fbf-11eb-924d-9cd76263cbd0,species,bracteatus,Eisocreochiton,,"Quisumb. & Merr.",1928,"Philipp. J. Sci. 37: 177 1928",,,,,568635-1,wfo-0000159560,3864904,
-5ef19a10-8fbf-11eb-924d-9cd76263cbd0,species,furfuracea,Eisocreochiton,,Nayar,1970,"J. Bombay Nat. Hist. Soc. lxvii. 88 (1970)",,,,,568636-1,wfo-0000159561,3864895,
-5efc5676-8fbf-11eb-924d-9cd76263cbd0,species,monticola,Eisocreochiton,,Nayar,1970,"J. Bombay Nat. Hist. Soc. lxvii. 89 (1970)",,,,,568637-1,wfo-0000159562,3864888,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3331d14-8fd1-11eb-924d-9cd76263cbd0,genus,Eisocreochiton,,,"Quisumb. & Merr.",,1928,,"Philipp. J. Sci. 37: 177. 1928.",,,,,,,wfo-4000013083,7273026,,
+5ee72b84-8fbf-11eb-924d-9cd76263cbd0,species,bracteatus,Eisocreochiton,,"Quisumb. & Merr.",,1928,,"Philipp. J. Sci. 37: 177 1928",,,,,,568635-1,wfo-0000159560,3864904,,
+5ef19a10-8fbf-11eb-924d-9cd76263cbd0,species,furfuracea,Eisocreochiton,,Nayar,,1970,,"J. Bombay Nat. Hist. Soc. lxvii. 88 (1970)",,,,,,568636-1,wfo-0000159561,3864895,,
+5efc5676-8fbf-11eb-924d-9cd76263cbd0,species,monticola,Eisocreochiton,,Nayar,,1970,,"J. Bombay Nat. Hist. Soc. lxvii. 89 (1970)",,,,,,568637-1,wfo-0000159562,3864888,,

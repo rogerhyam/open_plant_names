@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eac5a8bc-8fd1-11eb-924d-9cd76263cbd0,genus,Stenophyllum,,,,,,,,,,,wfo-4000036527,,
-dba41560-8fba-11eb-924d-9cd76263cbd0,species,senecioides,Stenophyllum,,"Sch.Bip. ex Baker",,"Fl. Bras. (Martius) 6(3): 258",,,,,,wfo-0000129911,8299588,
-b1e4fa3a-8fb2-11eb-924d-9cd76263cbd0,species,senecionis,Stenophyllum,,"Sch.Bip. ex Benth. & Hook.f.",,"Gen. ii. 391.",,,,,251134-1,wfo-0000032053,8691824,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eac5a8bc-8fd1-11eb-924d-9cd76263cbd0,genus,Stenophyllum,,,,,,,,,,,,,,wfo-4000036527,,,
+dba41560-8fba-11eb-924d-9cd76263cbd0,species,senecioides,Stenophyllum,,"Sch.Bip. ex Baker",,,,"Fl. Bras. (Martius) 6(3): 258",,,,,,,wfo-0000129911,8299588,,
+b1e4fa3a-8fb2-11eb-924d-9cd76263cbd0,species,senecionis,Stenophyllum,,"Sch.Bip. ex Benth. & Hook.f.",,,,"Gen. ii. 391.",,,,,,251134-1,wfo-0000032053,8691824,,

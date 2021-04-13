@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cf30cc-8fd1-11eb-924d-9cd76263cbd0,genus,Holophyllum,,,,,,,,,,,wfo-4000018102,3126394,
-f849932c-8fb8-11eb-924d-9cd76263cbd0,species,capitatum,Holophyllum,,Sch.Bip.,1844,"in Flora, xxvii. (1844) 676. xxvii.  676 1844",,,,,224992-1,wfo-0000114233,8347828,
-ff985a3c-8fb3-11eb-924d-9cd76263cbd0,species,capitatum,Holophyllum,,"(L.) Less.",1832,"Syn. Gen. Compos. 262 (1832)",,,,,224993-1,wfo-0000058287,3114311,
-48f46f1a-8fb7-11eb-924d-9cd76263cbd0,variety,glabratum,Holophyllum,capitatum,DC.,,,,,,,,wfo-0000098234,6292898,
-6b8127c6-8fb2-11eb-924d-9cd76263cbd0,species,lanuginosum,Holophyllum,,"(Cav.) DC.",1838,"Prodr. (DC.) 6: 86 1838",,,,,224994-1,wfo-0000023983,3114307,
-3e90d950-8fb2-11eb-924d-9cd76263cbd0,species,scabrum,Holophyllum,,DC.,1838,"Prodr. (DC.) 6: 86 1838",,,,,224995-1,wfo-0000017200,3114312,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cf30cc-8fd1-11eb-924d-9cd76263cbd0,genus,Holophyllum,,,,,,,,,,,,,,wfo-4000018102,3126394,,
+ff985a3c-8fb3-11eb-924d-9cd76263cbd0,species,capitatum,Holophyllum,,"(L.) Less.",,1832,,"Syn. Gen. Compos. 262 (1832)",,,,,,224993-1,wfo-0000058287,3114311,,
+f849932c-8fb8-11eb-924d-9cd76263cbd0,species,capitatum,Holophyllum,,Sch.Bip.,,1844,,"in Flora, xxvii. (1844) 676. xxvii.  676 1844",,,,,,224992-1,wfo-0000114233,8347828,,
+48f46f1a-8fb7-11eb-924d-9cd76263cbd0,variety,glabratum,Holophyllum,capitatum,DC.,,,,,,,,,,,wfo-0000098234,6292898,,
+6b8127c6-8fb2-11eb-924d-9cd76263cbd0,species,lanuginosum,Holophyllum,,"(Cav.) DC.",,1838,,"Prodr. (DC.) 6: 86 1838",,,,,,224994-1,wfo-0000023983,3114307,,
+3e90d950-8fb2-11eb-924d-9cd76263cbd0,species,scabrum,Holophyllum,,DC.,,1838,,"Prodr. (DC.) 6: 86 1838",,,,,,224995-1,wfo-0000017200,3114312,,

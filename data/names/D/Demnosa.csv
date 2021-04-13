@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e290e5da-8fd1-11eb-924d-9cd76263cbd0,genus,Demnosa,,,,,,,,,,,wfo-4000011043,7282313,
-deb66200-8fcc-11eb-924d-9cd76263cbd0,species,strausii,Demnosa,,"(Heese) Frič",1929,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,131444-1,wfo-0000640969,3951541,
-7e423cc2-8fcd-11eb-924d-9cd76263cbd0,species,serissoides,Democritea,,DC.,1830,"Prodr. 4: 540 1830",,,,,748266-1,wfo-0000938259,2900447,
-3ca03234-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Demorchis,,"(Schltr.) D.L.Jones & M.A.Clem.",2004,"Orchadian 14(8: Sci. Suppl.): xiii 2004",,,,,77062203-1,wfo-0000385786,2813366,
-3ca17aae-8fcc-11eb-924d-9cd76263cbd0,species,queenslandica,Demorchis,,"(Dockrill) D.L.Jones & M.A.Clem.",2004,"Orchadian 14(8: Sci. Suppl.): xiii 2004",,,,,77062204-1,wfo-0000385794,2813330,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e290e5da-8fd1-11eb-924d-9cd76263cbd0,genus,Demnosa,,,,,,,,,,,,,,wfo-4000011043,7282313,,
+deb66200-8fcc-11eb-924d-9cd76263cbd0,species,strausii,Demnosa,,"(Heese) Frič",,1929,,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,,131444-1,wfo-0000640969,3951541,,
+7e423cc2-8fcd-11eb-924d-9cd76263cbd0,species,serissoides,Democritea,,DC.,,1830,,"Prodr. 4: 540 1830",,,,,,748266-1,wfo-0000938259,2900447,,
+3ca03234-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Demorchis,,"(Schltr.) D.L.Jones & M.A.Clem.",,2004,,"Orchadian 14(8: Sci. Suppl.): xiii 2004",,,,,,77062203-1,wfo-0000385786,2813366,,
+3ca17aae-8fcc-11eb-924d-9cd76263cbd0,species,queenslandica,Demorchis,,"(Dockrill) D.L.Jones & M.A.Clem.",,2004,,"Orchadian 14(8: Sci. Suppl.): xiii 2004",,,,,,77062204-1,wfo-0000385794,2813330,,

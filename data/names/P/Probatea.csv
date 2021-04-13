@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e907210e-8fd1-11eb-924d-9cd76263cbd0,genus,Probatea,,,,,,,,,,,wfo-4000031195,7331817,
-7a7f880c-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Probatea,,Raf.,1840,"Autik. Bot. 158 1840",,,,,808480-1,wfo-0000474923,3726505,
-7a7fc7ea-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Probatea,,Raf.,1840,"Autik. Bot. 158 1840",,,,,808481-1,wfo-0000474925,3726496,
-ce7dabfa-8fd1-11eb-924d-9cd76263cbd0,species,cuneifolia,Problastes,,Reinw.,1828,"Syll. Pl. Nov. 2: 10 1828",,,,,170849-1,wfo-0001280552,3699001,
-fbbf0484-8fcb-11eb-924d-9cd76263cbd0,species,elliottii,Probletostemon,,K.Schum.,1897,"Bot. Jahrb. Syst. 23: 450 1897",,,,,761154-1,wfo-0000283350,2900542,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e907210e-8fd1-11eb-924d-9cd76263cbd0,genus,Probatea,,,,,,,,,,,,,,wfo-4000031195,7331817,,
+7a7f880c-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Probatea,,Raf.,,1840,,"Autik. Bot. 158 1840",,,,,,808480-1,wfo-0000474923,3726505,,
+7a7fc7ea-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Probatea,,Raf.,,1840,,"Autik. Bot. 158 1840",,,,,,808481-1,wfo-0000474925,3726496,,

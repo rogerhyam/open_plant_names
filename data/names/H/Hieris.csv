@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4bc6276-8fd1-11eb-924d-9cd76263cbd0,genus,Hieris,,,Steenis,1928,"Bull. Jard. Bot. Buitenzorg, sér. 3, 10: 278. 1928.",,,,,4100-1,wfo-4000017890,7298360,
-29219ce2-8fcd-11eb-924d-9cd76263cbd0,species,curtisii,Hieris,,"(Ridl.) Steenis",1928,"Bull. Jard. Bot. Buitenzorg III, 10: 280 1928",,,,,109727-1,wfo-0000778638,4091539,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4bc6276-8fd1-11eb-924d-9cd76263cbd0,genus,Hieris,,,Steenis,,1928,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 10: 278. 1928.",,,,,,4100-1,wfo-4000017890,7298360,,
+29219ce2-8fcd-11eb-924d-9cd76263cbd0,species,curtisii,Hieris,,"(Ridl.) Steenis",,1928,,"Bull. Jard. Bot. Buitenzorg III, 10: 280 1928",,,,,,109727-1,wfo-0000778638,4091539,,

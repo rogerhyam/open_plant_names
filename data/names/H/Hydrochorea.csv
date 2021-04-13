@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ef20bc-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrochorea,,,"Barneby & J.W.Grimes",,,,,,,989339-1,wfo-4000018524,2977474,
-728ce010-8fc5-11eb-924d-9cd76263cbd0,species,acreana,Hydrochorea,,"(J.F.Macbr.) Barneby & J.W.Grim",,,,,,,,wfo-0000193117,2977902,
-726753ea-8fc5-11eb-924d-9cd76263cbd0,species,corymbosa,Hydrochorea,,"(Rich.) Barneby & J.W.Grimes",,,,,,,,wfo-0000193114,2977475,
-725a97d6-8fc5-11eb-924d-9cd76263cbd0,species,gonggrijpii,Hydrochorea,,"(Kleinhoonte) Barneby & J.W.Gri",,,,,,,,wfo-0000193113,2977482,
-728062d6-8fc5-11eb-924d-9cd76263cbd0,species,marginata,Hydrochorea,,"(Benth.) Barneby & J.W.Grimes",,,,,,,,wfo-0000193116,2977488,
-9e72116e-8fc5-11eb-924d-9cd76263cbd0,variety,panurensis,Hydrochorea,marginata,"(Benth.) Barneby & J.W.Grimes",,,,,,,,wfo-0000193950,2977493,
-9ea4606a-8fc5-11eb-924d-9cd76263cbd0,variety,scheryi,Hydrochorea,marginata,"Barneby & J.W.Grimes",,,,,,,,wfo-0000193954,2977498,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ef20bc-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrochorea,,,"Barneby & J.W.Grimes",,,,,,,,,,989339-1,wfo-4000018524,2977474,,
+728ce010-8fc5-11eb-924d-9cd76263cbd0,species,acreana,Hydrochorea,,"(J.F.Macbr.) Barneby & J.W.Grim",,,,,,,,,,,wfo-0000193117,2977902,,
+726753ea-8fc5-11eb-924d-9cd76263cbd0,species,corymbosa,Hydrochorea,,"(Rich.) Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000193114,2977475,,
+725a97d6-8fc5-11eb-924d-9cd76263cbd0,species,gonggrijpii,Hydrochorea,,"(Kleinhoonte) Barneby & J.W.Gri",,,,,,,,,,,wfo-0000193113,2977482,,
+728062d6-8fc5-11eb-924d-9cd76263cbd0,species,marginata,Hydrochorea,,"(Benth.) Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000193116,2977488,,
+9e72116e-8fc5-11eb-924d-9cd76263cbd0,variety,panurensis,Hydrochorea,marginata,"(Benth.) Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000193950,2977493,,
+9ea4606a-8fc5-11eb-924d-9cd76263cbd0,variety,scheryi,Hydrochorea,marginata,"Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000193954,2977498,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1f0bb32-8fd1-11eb-924d-9cd76263cbd0,genus,Colophospermum,,,J.Léonard,,,,,,,22064-1,wfo-4000008972,2974566,
-b627d282-8fcd-11eb-924d-9cd76263cbd0,species,mopane,Colophospermum,,"(J.Kirk ex Benth.) J.Léonard",1866,"Trans. Linn. Soc. London 25: 316 1866",,,,,,wfo-0001057638,2974567,
-4b57424c-8fc0-11eb-924d-9cd76263cbd0,species,mopane,Colophospermum,,"(Benth.) Leonard",,,,,,4bc4e798-8fc0-11eb-924d-9cd76263cbd0,,wfo-0000165169,2974567,
-cfae8206-8fcc-11eb-924d-9cd76263cbd0,species,jonesii,Coloptera,,"J.M.Coult. & Rose",1888,"Rev. N. Amer. Umbell. 58 1888",,,,,840613-1,wfo-0000615188,6026858,
-cfae9e9e-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Coloptera,,"J.M.Coult. & Rose",1888,"Rev. N. Amer. Umbell. 49 1888",,,,,63406-2,wfo-0000615189,6026856,
-cfaec216-8fcc-11eb-924d-9cd76263cbd0,species,parryi,Coloptera,,"J.M.Coult. & Rose",1888,"Rev. N. Amer. Umbell. 50 1888",,,,,63407-2,wfo-0000615190,6026854,
-cfaf319c-8fcc-11eb-924d-9cd76263cbd0,species,mesae-verdae,Coloradoa,,"Boissev. & C.Davidson",1940,"Colorado Cact. 55 1940",,,,,63408-2,wfo-0000615192,5384239,
-cfaf62f2-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Colostephanus,,"(L.f.) Harv.",1838,"Gen. S. Afr. Pl. 417 1838",,,,,95878-1,wfo-0000615193,3572313,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1f0bb32-8fd1-11eb-924d-9cd76263cbd0,genus,Colophospermum,,,J.Léonard,,,,,,Q55760772,,,,22064-1,wfo-4000008972,2974566,,
+b627d282-8fcd-11eb-924d-9cd76263cbd0,species,mopane,Colophospermum,,"(J.Kirk ex Benth.) J.Léonard",,1866,,"Trans. Linn. Soc. London 25: 316 1866",,,,,,,wfo-0001057638,2974567,,
+4b57424c-8fc0-11eb-924d-9cd76263cbd0,species,mopane,Colophospermum,,"(Benth.) Leonard",,,,,,,,4bc4e798-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000165169,2974567,,
+cfae8206-8fcc-11eb-924d-9cd76263cbd0,species,jonesii,Coloptera,,"J.M.Coult. & Rose",,1888,,"Rev. N. Amer. Umbell. 58 1888",,,,,,840613-1,wfo-0000615188,6026858,,
+cfae9e9e-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Coloptera,,"J.M.Coult. & Rose",,1888,,"Rev. N. Amer. Umbell. 49 1888",,,,,,63406-2,wfo-0000615189,6026856,,
+cfaec216-8fcc-11eb-924d-9cd76263cbd0,species,parryi,Coloptera,,"J.M.Coult. & Rose",,1888,,"Rev. N. Amer. Umbell. 50 1888",,,,,,63407-2,wfo-0000615190,6026854,,
+cfaf319c-8fcc-11eb-924d-9cd76263cbd0,species,mesae-verdae,Coloradoa,,"Boissev. & C.Davidson",,1940,,"Colorado Cact. 55 1940",,,,,,63408-2,wfo-0000615192,5384239,,
+cfaf62f2-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Colostephanus,,"(L.f.) Harv.",,1838,,"Gen. S. Afr. Pl. 417 1838",,,,,,95878-1,wfo-0000615193,3572313,,

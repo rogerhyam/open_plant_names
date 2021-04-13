@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2cbed88-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphylia,,,Cortés,1917,"Kuntze, Kuntze, and Cortés, Revista Med. Trop. (Bogota) 34: 528. 1917, 1917.",,,,,,wfo-4000011788,7299382,
-a57fec4e-8fcd-11eb-924d-9cd76263cbd0,species,icononciana,Dimorphylia,,Cortés,1917,"Kuntze, Kuntze, and Cortés, Revista Med. Trop. (Bogota) 34: 528. 1917, 1917.",,,,,,wfo-0001021437,3798211,
-e290d3ec-8fcc-11eb-924d-9cd76263cbd0,species,filiformis,Dinacria,,"(Eckl. & Zeyh.) Harv.",1862,"Fl. Cap. 2: 331 1862",,,,,273616-1,wfo-0000647940,4199963,
-e290f246-8fcc-11eb-924d-9cd76263cbd0,species,grammanthoides,Dinacria,,Schönland,1897,"Bull. Herb. Boissier 5: 859 1897",,,,,273617-1,wfo-0000647941,4199957,
-e29131a2-8fcc-11eb-924d-9cd76263cbd0,species,sebaeoides,Dinacria,,"(Eckl. & Zeyh.) Schönland",1897,"Bull. Herb. Boissier 5: 860 1897",,,,05170a3a-8fcd-11eb-924d-9cd76263cbd0,273618-1,wfo-0000647943,4199950,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2cbed88-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphylia,,,Cortés,,1917,,"Kuntze, Kuntze, and Cortés, Revista Med. Trop. (Bogota) 34: 528. 1917, 1917.",,,,,,,wfo-4000011788,7299382,,
+a57fec4e-8fcd-11eb-924d-9cd76263cbd0,species,icononciana,Dimorphylia,,Cortés,,1917,,"Kuntze, Kuntze, and Cortés, Revista Med. Trop. (Bogota) 34: 528. 1917, 1917.",,,,,,,wfo-0001021437,3798211,,
+e290d3ec-8fcc-11eb-924d-9cd76263cbd0,species,filiformis,Dinacria,,"(Eckl. & Zeyh.) Harv.",,1862,,"Fl. Cap. 2: 331 1862",,,,,,273616-1,wfo-0000647940,4199963,,
+e290f246-8fcc-11eb-924d-9cd76263cbd0,species,grammanthoides,Dinacria,,Schönland,,1897,,"Bull. Herb. Boissier 5: 859 1897",,,,,,273617-1,wfo-0000647941,4199957,,
+e29131a2-8fcc-11eb-924d-9cd76263cbd0,species,sebaeoides,Dinacria,,"(Eckl. & Zeyh.) Schönland",,1897,,"Bull. Herb. Boissier 5: 860 1897",,,,05170a3a-8fcd-11eb-924d-9cd76263cbd0,,273618-1,wfo-0000647943,4199950,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e57dcbb4-8fd1-11eb-924d-9cd76263cbd0,genus,Lachnostylis,,,Turcz.,1846,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 503. 1846.",,,,,15550-1,wfo-4000020378,3081401,
-4d8631ee-8fcb-11eb-924d-9cd76263cbd0,species,bilocularis,Lachnostylis,,R.A.Dyer,1943,"S. African J. Sci. 40: 123 1943",,,,,350729-1,wfo-0000221784,3081409,
-4d93f572-8fcb-11eb-924d-9cd76263cbd0,species,capensis,Lachnostylis,,Turcz.,1846,"Bull. Soc. Imp. Naturalistes Moscou 19: 503 1846",,,,,350730-1,wfo-0000221785,3081406,
-4da292e4-8fcb-11eb-924d-9cd76263cbd0,species,hirta,Lachnostylis,,"(L.f.) Müll.Arg.",1866,"Prodr. 15(2): 224 1866",,,,,350731-1,wfo-0000221786,3081402,
-4db0c7c4-8fcb-11eb-924d-9cd76263cbd0,variety,acuminata,Lachnostylis,hirta,Müll.Arg.,1866,"Prodr. 15(2): 224 1866",,,,,,wfo-0000221787,3081408,
-4dcdc81a-8fcb-11eb-924d-9cd76263cbd0,variety,minor,Lachnostylis,hirta,"(Sond.) Müll.Arg.",1866,"Prodr. 15(2): 224 1866",,,,,,wfo-0000221789,3081407,
-4ddbf4d0-8fcb-11eb-924d-9cd76263cbd0,species,minor,Lachnostylis,,Sond.,1850,"Linnaea 23: 132 1850",,,,,350732-1,wfo-0000221790,3081404,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e57dcbb4-8fd1-11eb-924d-9cd76263cbd0,genus,Lachnostylis,,,Turcz.,,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 503. 1846.",,,,,,15550-1,wfo-4000020378,3081401,,
+4d8631ee-8fcb-11eb-924d-9cd76263cbd0,species,bilocularis,Lachnostylis,,R.A.Dyer,,1943,,"S. African J. Sci. 40: 123 1943",,,,,,350729-1,wfo-0000221784,3081409,,
+4d93f572-8fcb-11eb-924d-9cd76263cbd0,species,capensis,Lachnostylis,,Turcz.,,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19: 503 1846",,,,,,350730-1,wfo-0000221785,3081406,,
+4da292e4-8fcb-11eb-924d-9cd76263cbd0,species,hirta,Lachnostylis,,"(L.f.) Müll.Arg.",,1866,,"Prodr. 15(2): 224 1866",,,,,,350731-1,wfo-0000221786,3081402,,
+4db0c7c4-8fcb-11eb-924d-9cd76263cbd0,variety,acuminata,Lachnostylis,hirta,Müll.Arg.,,1866,,"Prodr. 15(2): 224 1866",,,,,,,wfo-0000221787,3081408,,
+4dcdc81a-8fcb-11eb-924d-9cd76263cbd0,variety,minor,Lachnostylis,hirta,"(Sond.) Müll.Arg.",,1866,,"Prodr. 15(2): 224 1866",,,,,,,wfo-0000221789,3081407,,
+4ddbf4d0-8fcb-11eb-924d-9cd76263cbd0,species,minor,Lachnostylis,,Sond.,,1850,,"Linnaea 23: 132 1850",,,,,,350732-1,wfo-0000221790,3081404,,

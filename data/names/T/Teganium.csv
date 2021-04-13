@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb240556-8fd1-11eb-924d-9cd76263cbd0,genus,Teganium,,,Schmid.,1768,"Moench and Moench, Ic. Pl., ed. Keller, 67 (1768); vide Dandy, Ind. Gen. Vasc. Pl. 1753-74 (Regn.Veg. li.) 85 (1967)..",,,,,,wfo-4000037680,7299949,
-ab032370-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Teganium,,Schmid.,1762,"Schmid., Ic. Pl. ed. Kell. (1762) 67..",,,,,,wfo-0001032658,5581357,
-4d262190-8fcc-11eb-924d-9cd76263cbd0,species,uniflora,Tegicornia,,"Paul G.Wilson",1980,"Nuytsia 3: 25 1980",,,,,167608-1,wfo-0000407044,3760715,
-6e78985a-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Tegneria,,Lilja,1839,"Fl. Sv. Odl. Vext. 77 1839",,,,,699598-1,wfo-0000454672,4023515,
-6e78776c-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Tegneria,,Lilja,1839,"Fl. Sv. Odl. Vext. 76 1839",,,,,699599-1,wfo-0000454671,4023510,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb240556-8fd1-11eb-924d-9cd76263cbd0,genus,Teganium,,,Schmid.,,1768,,"Moench and Moench, Ic. Pl., ed. Keller, 67 (1768); vide Dandy, Ind. Gen. Vasc. Pl. 1753-74 (Regn.Veg. li.) 85 (1967)..",,,,,,,wfo-4000037680,7299949,,
+ab032370-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Teganium,,Schmid.,,1762,,"Schmid., Ic. Pl. ed. Kell. (1762) 67..",,,,,,,wfo-0001032658,5581357,,
+4d262190-8fcc-11eb-924d-9cd76263cbd0,species,uniflora,Tegicornia,,"Paul G.Wilson",,1980,,"Nuytsia 3: 25 1980",,,,,,167608-1,wfo-0000407044,3760715,,

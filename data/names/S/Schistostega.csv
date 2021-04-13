@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea0fe5ea-8fd1-11eb-924d-9cd76263cbd0,genus,Schistostega,,,D.Mohr,1803,"Observ. Bot. 26. 1803.",,,,,,wfo-4000034381,2679338,
-ebc8a768-8fcd-11eb-924d-9cd76263cbd0,species,fulva,Schistostega,,"(Hook.) Arn.",1827,"Mém. Soc. Linn. Paris 5: 225 1827",,,,d40bce66-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001175097,8242347,
-f576d1fe-8fcd-11eb-924d-9cd76263cbd0,species,pennata,Schistostega,,"(Hedw.) F.Weber & D.Mohr",1803,"Index Mus. Pl. Crypt. [2] 1803",,,,f2404394-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194633,2679339,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea0fe5ea-8fd1-11eb-924d-9cd76263cbd0,genus,Schistostega,,,D.Mohr,,1803,,"Observ. Bot. 26. 1803.",,,,,,,wfo-4000034381,2679338,,
+ebc8a768-8fcd-11eb-924d-9cd76263cbd0,species,fulva,Schistostega,,"(Hook.) Arn.",,1827,,"Mém. Soc. Linn. Paris 5: 225 1827",,,,d40bce66-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001175097,8242347,,
+f576d1fe-8fcd-11eb-924d-9cd76263cbd0,species,pennata,Schistostega,,"(Hedw.) F.Weber & D.Mohr",,1803,,"Index Mus. Pl. Crypt. [2] 1803",,,,f2404394-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194633,2679339,,

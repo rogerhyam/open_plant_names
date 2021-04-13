@@ -1,4 +1,33 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e40b3316-8fd1-11eb-924d-9cd76263cbd0,genus,Globulina,,,,,,,,,,,wfo-4000015762,3210539,
-eac130ce-8fcd-11eb-924d-9cd76263cbd0,species,boliviana,Globulina,,Müll.Hal.,1897,"Nuovo Giorn. Bot. Ital., n.s., 4: 39 1897",,,,,,wfo-0001172995,7917869,
-eac14b2c-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Globulina,,R.S.Williams,1916,"Bull. Torrey Bot. Club 44: 325. pl. 17: f. 8–15 1916",,,,,,wfo-0001172996,7654739,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e40b3316-8fd1-11eb-924d-9cd76263cbd0,genus,Globulina,,,Speg.,,1888,,"Boln Acad. nac. Cienc. Córdoba 11(4): 533 (1888)",,,,e40b3316-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000015762,3210539,2076," "
+d3e56b6e-9bac-11eb-a8a2-19ed5c03f8d3,species,aberrans,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,d3e56b6e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,255534," "
+4ff5bcdc-9bac-11eb-a8a2-19ed5c03f8d3,species,antennariae,Globulina,,Hasselbr.,,,,,,,,4ff5bcdc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,230413," "
+d506fbc0-9bac-11eb-a8a2-19ed5c03f8d3,species,astragali,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 293 (1934)",,,,d506fbc0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,257621," "
+eac130ce-8fcd-11eb-924d-9cd76263cbd0,species,boliviana,Globulina,,Müll.Hal.,,1897,,"Nuovo Giorn. Bot. Ital., n.s., 4: 39 1897",,,,,,,wfo-0001172995,7917869,,
+d61c5d34-9bac-11eb-a8a2-19ed5c03f8d3,species,carpinacea,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,d61c5d34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,259948," "
+bba3d5fe-9bac-11eb-a8a2-19ed5c03f8d3,species,cejpi,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,bba3d5fe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,260189," "
+d7b5803a-9bac-11eb-a8a2-19ed5c03f8d3,species,corcontica,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,d7b5803a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261921," "
+d9097d74-9bac-11eb-a8a2-19ed5c03f8d3,species,dura,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,d9097d74-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263606," "
+d90be014-9bac-11eb-a8a2-19ed5c03f8d3,species,duriuscula,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,d90be014-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263624," "
+4fd69064-9bac-11eb-a8a2-19ed5c03f8d3,species,erisyphoides,Globulina,,Speg.,,1889,,"Boln Acad. nac. Cienc. Córdoba 11(4): 533 (1889)",,,,4fd69064-9bac-11eb-a8a2-19ed5c03f8d3,,,,,230179," "
+ea9dbef6-9bac-11eb-a8a2-19ed5c03f8d3,species,glabra,Globulina,,Velen.,,1947,,"Novitates Mycologicae Novissimae 141 (1947)",,,,ea9dbef6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286669," "
+5001c72a-9bac-11eb-a8a2-19ed5c03f8d3,species,ingae,Globulina,,Pat.,,1893,,"Bull. Soc. mycol. Fr. 154 (1893)",,,,5001c72a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,230506," "
+c4832148-9bac-11eb-a8a2-19ed5c03f8d3,species,laricina,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,c4832148-9bac-11eb-a8a2-19ed5c03f8d3,,,,,268988," "
+dd364fda-9bac-11eb-a8a2-19ed5c03f8d3,species,leporina,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 293 (1934)",,,,dd364fda-9bac-11eb-a8a2-19ed5c03f8d3,,,,,269248," "
+ea9de872-9bac-11eb-a8a2-19ed5c03f8d3,species,lupini,Globulina,,Velen.,,1947,,"Novitates Mycologicae Novissimae 141 (1947)",,,,ea9de872-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286670," "
+ea9e3930-9bac-11eb-a8a2-19ed5c03f8d3,species,martialis,Globulina,,Velen.,,1947,,"Novitates Mycologicae Novissimae 141 (1947)",,,,ea9e3930-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286671," "
+deaed5d0-9bac-11eb-a8a2-19ed5c03f8d3,species,microspora,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,deaed5d0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271104," "
+eac14b2c-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Globulina,,R.S.Williams,,1916,,"Bull. Torrey Bot. Club 44: 325. pl. 17: f. 8–15 1916",,,,,,,wfo-0001172996,7654739,,
+e1774aea-9bac-11eb-a8a2-19ed5c03f8d3,species,piniseda,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 1: 291 (1934)",,,,e1774aea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,274544," "
+e26cacb0-9bac-11eb-a8a2-19ed5c03f8d3,species,quercina,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 290 (1934)",,,,e26cacb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275928," "
+e26fd03e-9bac-11eb-a8a2-19ed5c03f8d3,variety,berberidis,Globulina,quercina,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,e26fd03e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275946," "
+0c5cbf3e-9bac-11eb-a8a2-19ed5c03f8d3,variety,betulina,Globulina,quercina,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 290 (1934)",,,,0c5cbf3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275945," "
+83dc4baa-9bad-11eb-a8a2-19ed5c03f8d3,variety,quercina,Globulina,quercina,Velen.,,,,,,,,83dc4baa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425536," "
+e26ffe6a-9bac-11eb-a8a2-19ed5c03f8d3,variety,tiliae,Globulina,quercina,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 291 (1934)",,,,e26ffe6a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275947," "
+e320667e-9bac-11eb-a8a2-19ed5c03f8d3,species,ruborum,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 293 (1934)",,,,e320667e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,276966," "
+e370c218-9bac-11eb-a8a2-19ed5c03f8d3,species,sarothamni,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 293 (1934)",,,,e370c218-9bac-11eb-a8a2-19ed5c03f8d3,,,,,277489," "
+e39074a0-9bac-11eb-a8a2-19ed5c03f8d3,species,saxifragae,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,e39074a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,277541," "
+e3909e26-9bac-11eb-a8a2-19ed5c03f8d3,variety,rubi,Globulina,saxifragae,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,e3909e26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,277542," "
+c1e4437c-9bac-11eb-a8a2-19ed5c03f8d3,variety,saxifragae,Globulina,saxifragae,Velen.,,,,,,,,c1e4437c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,425336," "
+e61d513e-9bac-11eb-a8a2-19ed5c03f8d3,species,trichocarpa,Globulina,,Syd.,,1930,,"Annls mycol. 28: 125 (1930)",,,,e61d513e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280589," "
+e69052b0-9bac-11eb-a8a2-19ed5c03f8d3,species,urticae,Globulina,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 292 (1934)",,,,e69052b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,281193," "

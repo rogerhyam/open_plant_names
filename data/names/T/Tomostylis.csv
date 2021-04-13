@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb67978a-8fd1-11eb-924d-9cd76263cbd0,genus,Tomostylis,,,,,,,,,,,wfo-4000038553,7273557,
-6ebd1020-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Tomostylis,,Montrouz.,1860,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 201 1860",,,,,719867-1,wfo-0000455136,3874043,
-171b096c-8fcc-11eb-924d-9cd76263cbd0,species,flava,Tomotris,,"(Sw.) Raf.",1837,"Fl. Tellur. 2: 89 1837",,,,,660384-1,wfo-0000326374,2801420,
-171b2622-8fcc-11eb-924d-9cd76263cbd0,species,polystachya,Tomotris,,"(Sw.) Raf.",1837,"Fl. Tellur. 2: 89 1837",,,,0c51cc64-8fcc-11eb-924d-9cd76263cbd0,660385-1,wfo-0000326375,2801745,
-1a47ce44-8fcd-11eb-924d-9cd76263cbd0,species,coarctata,Tomoxis,,"(Jacq.) Raf.",1837,"Fl. Tellur. 3: 54 1837",,,,,542318-1,wfo-0000747627,2773554,
-1a463d86-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Tomoxis,,"(Jacq.) Raf.",1837,"Fl. Tellur. 3: 54 1837",,,,,542319-1,wfo-0000747617,2772362,
-1a44c9ba-8fcd-11eb-924d-9cd76263cbd0,species,virens,Tomoxis,,"(Lindl.) Raf.",1837,"Fl. Tellur. 3: 54 1837",,,,,542320-1,wfo-0000747606,2773271,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb67978a-8fd1-11eb-924d-9cd76263cbd0,genus,Tomostylis,,,,,,,,,,,,,,wfo-4000038553,7273557,,
+6ebd1020-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Tomostylis,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 201 1860",,,,,,719867-1,wfo-0000455136,3874043,,
+171b096c-8fcc-11eb-924d-9cd76263cbd0,species,flava,Tomotris,,"(Sw.) Raf.",,1837,,"Fl. Tellur. 2: 89 1837",,,,,,660384-1,wfo-0000326374,2801420,,
+171b2622-8fcc-11eb-924d-9cd76263cbd0,species,polystachya,Tomotris,,"(Sw.) Raf.",,1837,,"Fl. Tellur. 2: 89 1837",,,,0c51cc64-8fcc-11eb-924d-9cd76263cbd0,,660385-1,wfo-0000326375,2801745,,
+1a47ce44-8fcd-11eb-924d-9cd76263cbd0,species,coarctata,Tomoxis,,"(Jacq.) Raf.",,1837,,"Fl. Tellur. 3: 54 1837",,,,,,542318-1,wfo-0000747627,2773554,,
+1a463d86-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Tomoxis,,"(Jacq.) Raf.",,1837,,"Fl. Tellur. 3: 54 1837",,,,,,542319-1,wfo-0000747617,2772362,,
+1a44c9ba-8fcd-11eb-924d-9cd76263cbd0,species,virens,Tomoxis,,"(Lindl.) Raf.",,1837,,"Fl. Tellur. 3: 54 1837",,,,,,542320-1,wfo-0000747606,2773271,,

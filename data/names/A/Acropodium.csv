@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ded0e44a-8fd1-11eb-924d-9cd76263cbd0,genus,Acropodium,,,,,,,,,,,wfo-4000000439,7302074,
-94930e76-8fcc-11eb-924d-9cd76263cbd0,species,suffruticosum,Acropodium,,Desv.,1826,"Ann. Sci. Nat. (Paris) 9: 408 1826",,,,,472107-1,wfo-0000518898,3970924,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ded0e44a-8fd1-11eb-924d-9cd76263cbd0,genus,Acropodium,,,,,,,,,,,,,,wfo-4000000439,7302074,,
+94930e76-8fcc-11eb-924d-9cd76263cbd0,species,suffruticosum,Acropodium,,Desv.,,1826,,"Ann. Sci. Nat. (Paris) 9: 408 1826",,,,,,472107-1,wfo-0000518898,3970924,,

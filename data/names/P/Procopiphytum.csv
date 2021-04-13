@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e907e59e-8fd1-11eb-924d-9cd76263cbd0,genus,Procopiphytum,,,B.Pawlowski,1971,"Fragm. Florist. Geobot. 17: 50. 1971.",,,,,,wfo-4000031208,7294751,
-449d3478-8fcc-11eb-924d-9cd76263cbd0,species,cespitosa,Procrassula,,"(Cav.) Fourr.",1868,"Ann. Soc. Linn. Lyon n.s., 16: 384 1868",,,,d593d068-8fcc-11eb-924d-9cd76263cbd0,274713-1,wfo-0000396377,8418713,
-449d0ed0-8fcc-11eb-924d-9cd76263cbd0,species,magnolii,Procrassula,,Griseb.,1843,"Spic. Fl. Rumel. 1: 323 1843",,,,,274714-1,wfo-0000396376,4201407,
-449cc3bc-8fcc-11eb-924d-9cd76263cbd0,species,mediterranea,Procrassula,,"Jord. & Fourr.",1866,"Brev. Pl. Nov. 1: 16 1866",,,,,274715-1,wfo-0000396374,4201399,
-449c97de-8fcc-11eb-924d-9cd76263cbd0,species,pallidiflora,Procrassula,,"Jord. & Fourr.",1866,"Brev. Pl. Nov. 1: 16 1866",,,,,274716-1,wfo-0000396373,4201385,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e907e59e-8fd1-11eb-924d-9cd76263cbd0,genus,Procopiphytum,,,B.Pawlowski,,1971,,"Fragm. Florist. Geobot. 17: 50. 1971.",,,,,,,wfo-4000031208,7294751,,
+449d3478-8fcc-11eb-924d-9cd76263cbd0,species,cespitosa,Procrassula,,"(Cav.) Fourr.",,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 384 1868",,,,d593d068-8fcc-11eb-924d-9cd76263cbd0,,274713-1,wfo-0000396377,8418713,,
+449d0ed0-8fcc-11eb-924d-9cd76263cbd0,species,magnolii,Procrassula,,Griseb.,,1843,,"Spic. Fl. Rumel. 1: 323 1843",,,,,,274714-1,wfo-0000396376,4201407,,
+449cc3bc-8fcc-11eb-924d-9cd76263cbd0,species,mediterranea,Procrassula,,"Jord. & Fourr.",,1866,,"Brev. Pl. Nov. 1: 16 1866",,,,,,274715-1,wfo-0000396374,4201399,,
+449c97de-8fcc-11eb-924d-9cd76263cbd0,species,pallidiflora,Procrassula,,"Jord. & Fourr.",,1866,,"Brev. Pl. Nov. 1: 16 1866",,,,,,274716-1,wfo-0000396373,4201385,,

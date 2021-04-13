@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0597e6c-8fd1-11eb-924d-9cd76263cbd0,genus,Bonnayodes,,,"Blatter & Hallberg",1921,"J. Indian Bot. 2: 45. 1921.",,,,,,wfo-4000004983,7332504,
-b3939e26-8fcc-11eb-924d-9cd76263cbd0,species,limnophiloides,Bonnayodes,,"Blatt. & Hallb.",1921,"J. Indian Bot. 2: 46 1921",,,,,799818-1,wfo-0000568749,3733458,
-fafec474-8fcd-11eb-924d-9cd76263cbd0,species,bifida,Bonneria,,"(Stephani) R.M.Schust.",1969,"Bull. Natl. Sci. Mus. 12: 665. 1969",,,,,,wfo-0001206046,8185907,
-fc70abba-8fcd-11eb-924d-9cd76263cbd0,species,granatenis,Bonneria,,"(Gottsche) Fulford & J.Taylor",1961,"Brittonia 13: 334 1961",,,,,,wfo-0001209128,8221209,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0597e6c-8fd1-11eb-924d-9cd76263cbd0,genus,Bonnayodes,,,"Blatter & Hallberg",,1921,,"J. Indian Bot. 2: 45. 1921.",,,,,,,wfo-4000004983,7332504,,
+b3939e26-8fcc-11eb-924d-9cd76263cbd0,species,limnophiloides,Bonnayodes,,"Blatt. & Hallb.",,1921,,"J. Indian Bot. 2: 46 1921",,,,,,799818-1,wfo-0000568749,3733458,,
+fafec474-8fcd-11eb-924d-9cd76263cbd0,species,bifida,Bonneria,,"(Stephani) R.M.Schust.",,1969,,"Bull. Natl. Sci. Mus. 12: 665. 1969",,,,,,,wfo-0001206046,8185907,,
+fc70abba-8fcd-11eb-924d-9cd76263cbd0,species,granatenis,Bonneria,,"(Gottsche) Fulford & J.Taylor",,1961,,"Brittonia 13: 334 1961",,,,,,,wfo-0001209128,8221209,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54f3664-8fd1-11eb-924d-9cd76263cbd0,genus,Kamiella,,,,,,,,,,,wfo-4000019815,2955839,
-a4e4115e-8fc6-11eb-924d-9cd76263cbd0,species,archiducis-nicolai,Kamiella,,"(Sirj.) Vassilcz.",,,,,,,,wfo-0000198902,2965220,
-b323864a-8fd1-11eb-924d-9cd76263cbd0,species,simulata,Kamiella,,"Britton & M.Wilson",1920,"Mem. Torrey Bot. Club 16: 93 1920",,,,,,wfo-0001230281,8170701,
-f3695fcc-8fcc-11eb-924d-9cd76263cbd0,species,stenosiphon,Kamiesbergia,,Snijman,1991,"Bothalia 21: 125 1991",,,,,960400-1,wfo-0000676469,2859397,
-7aba0102-8fcd-11eb-924d-9cd76263cbd0,species,kamikotica,,,"(Kimura) Kimura",1936,"Sci. Rep. Tohoku Imp. Univ., Ser. 4, Biol. 11: 248 1936",,,,79f60d06-8fcd-11eb-924d-9cd76263cbd0,779241-1,wfo-0000930440,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54f3664-8fd1-11eb-924d-9cd76263cbd0,genus,Kamiella,,,,,,,,,,,,,,wfo-4000019815,2955839,,
+a4e4115e-8fc6-11eb-924d-9cd76263cbd0,species,archiducis-nicolai,Kamiella,,"(Sirj.) Vassilcz.",,,,,,,,,,,wfo-0000198902,2965220,,
+b323864a-8fd1-11eb-924d-9cd76263cbd0,species,simulata,Kamiella,,"Britton & M.Wilson",,1920,,"Mem. Torrey Bot. Club 16: 93 1920",,,,,,,wfo-0001230281,8170701,,
+f3695fcc-8fcc-11eb-924d-9cd76263cbd0,species,stenosiphon,Kamiesbergia,,Snijman,,1991,,"Bothalia 21: 125 1991",,Q96002609,,,,960400-1,wfo-0000676469,2859397,,
+7aba0102-8fcd-11eb-924d-9cd76263cbd0,species,kamikotica,,,"(Kimura) Kimura",,1936,,"Sci. Rep. Tohoku Imp. Univ., Ser. 4, Biol. 11: 248 1936",,,,79f60d06-8fcd-11eb-924d-9cd76263cbd0,,779241-1,wfo-0000930440,,,

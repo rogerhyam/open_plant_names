@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7998064-8fd1-11eb-924d-9cd76263cbd0,genus,Oplukion,,,Raf.,1838,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,,,wfo-4000026988,7299156,
-a70b4ac2-8fcd-11eb-924d-9cd76263cbd0,species,afrum,Oplukion,,"(L.) Raf.",1838,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,,,wfo-0001024359,3796961,
-a70b71fa-8fcd-11eb-924d-9cd76263cbd0,species,horridum,Oplukion,,"(Kunth) Raf.",1838,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,a6503d72-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001024360,3796959,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7998064-8fd1-11eb-924d-9cd76263cbd0,genus,Oplukion,,,Raf.,,1838,,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,,,,wfo-4000026988,7299156,,
+a70b4ac2-8fcd-11eb-924d-9cd76263cbd0,species,afrum,Oplukion,,"(L.) Raf.",,1838,,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,,,,wfo-0001024359,3796961,,
+a70b71fa-8fcd-11eb-924d-9cd76263cbd0,species,horridum,Oplukion,,"(Kunth) Raf.",,1838,,"(H. ) Kuang et al., Sylva Tellur. 53 (1838)., 1838.",,,,a6503d72-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001024360,3796959,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e493b83a-8fd1-11eb-924d-9cd76263cbd0,genus,Hemieva,,,Raf.,1836,"Fl. Tellur. 2: 70. 1836[1837]. (Jan-Mar 1837)",,,,,,wfo-4000017378,6447129,
-d91b7f82-8fcd-11eb-924d-9cd76263cbd0,species,ranunculifolia,Hemieva,,"(Hook.) Raf.",1836,"Fl. Tellur. 2: 70 1836",,,,d9512f24-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001135477,3032598,
-cee1e6d8-8fd1-11eb-924d-9cd76263cbd0,species,richardsonii,Hemieva,,"(Hook.) Raf.",1836,"Fl. Tellur. 2: 70 1836",,,,,,wfo-0001280771,3753643,
-c74ea0fa-8fd1-11eb-924d-9cd76263cbd0,species,violacea,Hemieva,,"(A.Gray) Wheelock",1896,"Bull. Torrey Bot. Club 23(3): 71 1896",,,,d911b696-8fcd-11eb-924d-9cd76263cbd0,120053-2,wfo-0001267466,3753631,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e493b83a-8fd1-11eb-924d-9cd76263cbd0,genus,Hemieva,,,Raf.,,1836,,"Fl. Tellur. 2: 70. 1836[1837]. (Jan-Mar 1837)",,,,,,,wfo-4000017378,6447129,,
+d91b7f82-8fcd-11eb-924d-9cd76263cbd0,species,ranunculifolia,Hemieva,,"(Hook.) Raf.",,1836,,"Fl. Tellur. 2: 70 1836",,,,d9512f24-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001135477,3032598,,
+cee1e6d8-8fd1-11eb-924d-9cd76263cbd0,species,richardsonii,Hemieva,,"(Hook.) Raf.",,1836,,"Fl. Tellur. 2: 70 1836",,,,,,,wfo-0001280771,3753643,,
+c74ea0fa-8fd1-11eb-924d-9cd76263cbd0,species,violacea,Hemieva,,"(A.Gray) Wheelock",,1896,,"Bull. Torrey Bot. Club 23(3): 71 1896",,Q55766584,,d911b696-8fcd-11eb-924d-9cd76263cbd0,,120053-2,wfo-0001267466,3753631,,

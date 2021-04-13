@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfcfa570-8fd1-11eb-924d-9cd76263cbd0,genus,Ascoglossum,,,Schltr.,1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 974. 1913.",,,,,,wfo-4000003253,2795598,
-fbfb2aea-8fcb-11eb-924d-9cd76263cbd0,species,calopterum,Ascoglossum,,"(Rchb.f.) Schltr.",1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 975 1913",,,,,617273-1,wfo-0000283755,2795599,
-fbfd23b8-8fcb-11eb-924d-9cd76263cbd0,species,purpureum,Ascoglossum,,"(J.J.Sm.) Schltr.",1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 975 1913",,,,,617274-1,wfo-0000283765,2795603,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfcfa570-8fd1-11eb-924d-9cd76263cbd0,genus,Ascoglossum,,,Schltr.,,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 974. 1913.",,,,,,,wfo-4000003253,2795598,,
+fbfb2aea-8fcb-11eb-924d-9cd76263cbd0,species,calopterum,Ascoglossum,,"(Rchb.f.) Schltr.",,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 975 1913",,,,,,617273-1,wfo-0000283755,2795599,,
+fbfd23b8-8fcb-11eb-924d-9cd76263cbd0,species,purpureum,Ascoglossum,,"(J.J.Sm.) Schltr.",,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 975 1913",,,,,,617274-1,wfo-0000283765,2795603,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3028780-8fd1-11eb-924d-9cd76263cbd0,genus,Dorystigma,,,Miers,1845,"Phil. and Phil., London J. Bot. iv. (1845) 347..",,,,,,wfo-4000012468,3234405,
-a587e782-8fcd-11eb-924d-9cd76263cbd0,species,caulescens,Dorystigma,,Miers,1845,"Miers and Miers, London J. Bot. 4: (1845) 348..",,,,,,wfo-0001021486,5580874,
-a5880744-8fcd-11eb-924d-9cd76263cbd0,species,crispum,Dorystigma,,Miers,1848,"Miers, London J. Bot. vii. (1848) 333..",,,,,,wfo-0001021487,,
-23052964-8fcd-11eb-924d-9cd76263cbd0,species,madagascariense,Dorystigma,,Gaudich.,1841,"Voy. Bonite, Bot. 3: t. 13 1841",,,,,,wfo-0000765649,5327735,
-230560c8-8fcd-11eb-924d-9cd76263cbd0,species,mauritianum,Dorystigma,,Gaudich.,1841,"Voy. Bonite, Bot. 3: t. 13 1841",,,,,,wfo-0000765651,5327736,
-a5882292-8fcd-11eb-924d-9cd76263cbd0,species,squarrosum,Dorystigma,,Miers,1845,"Miers and Miers, London J. Bot. 4: (1845) 348..",,,,,,wfo-0001021488,3610824,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3028780-8fd1-11eb-924d-9cd76263cbd0,genus,Dorystigma,,,Miers,,1845,,"Phil. and Phil., London J. Bot. iv. (1845) 347..",,,,,,,wfo-4000012468,3234405,,
+a587e782-8fcd-11eb-924d-9cd76263cbd0,species,caulescens,Dorystigma,,Miers,,1845,,"Miers and Miers, London J. Bot. 4: (1845) 348..",,,,,,,wfo-0001021486,5580874,,
+a5880744-8fcd-11eb-924d-9cd76263cbd0,species,crispum,Dorystigma,,Miers,,1848,,"Miers, London J. Bot. vii. (1848) 333..",,,,,,,wfo-0001021487,,,
+23052964-8fcd-11eb-924d-9cd76263cbd0,species,madagascariense,Dorystigma,,Gaudich.,,1841,,"Voy. Bonite, Bot. 3: t. 13 1841",,,,,,,wfo-0000765649,5327735,,
+230560c8-8fcd-11eb-924d-9cd76263cbd0,species,mauritianum,Dorystigma,,Gaudich.,,1841,,"Voy. Bonite, Bot. 3: t. 13 1841",,,,,,,wfo-0000765651,5327736,,
+a5882292-8fcd-11eb-924d-9cd76263cbd0,species,squarrosum,Dorystigma,,Miers,,1845,,"Miers and Miers, London J. Bot. 4: (1845) 348..",,,,,,,wfo-0001021488,3610824,,

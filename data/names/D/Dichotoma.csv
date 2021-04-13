@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2b23668-8fd1-11eb-924d-9cd76263cbd0,genus,Dichotoma,,,,,,,,,,,wfo-4000011443,7337818,
-8b74f14e-8fb6-11eb-924d-9cd76263cbd0,species,coffeaecola,Dichotoma,,"Sch.Bip. ex Klatt",1894,"Ann. Nat. Hofmus. Wien. ix. (1894) 360 in syn., nomen",,,,,,wfo-0000090572,4237233,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2b23668-8fd1-11eb-924d-9cd76263cbd0,genus,Dichotoma,,,,,,,,,,,,,,wfo-4000011443,7337818,,
+8b74f14e-8fb6-11eb-924d-9cd76263cbd0,species,coffeaecola,Dichotoma,,"Sch.Bip. ex Klatt",,1894,,"Ann. Nat. Hofmus. Wien. ix. (1894) 360 in syn., nomen",,,,,,,wfo-0000090572,4237233,,

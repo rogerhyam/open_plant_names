@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7c209da-8fd1-11eb-924d-9cd76263cbd0,genus,Otamplis,,,Raf.,1838,"New. Fl. 4: 8. 1838.",,,,,,wfo-4000027433,7268745,
-3ecd9cea-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Otamplis,,Raf.,1838,"New Fl. 4: 8 1838",,,,,581204-1,wfo-0000388784,3830297,
-edfe2622-8fcb-11eb-924d-9cd76263cbd0,species,cernua,Otandra,,"(Willd.) Salisb.",1812,"Trans. Hort. Soc. London 1: 298 1812",,,,,649527-1,wfo-0000261493,2791930,
-3c0d8fd8-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Otanema,,Raf.,1838,"New Fl. 4: 61 1838",,,,,99979-1,wfo-0000384989,3573729,
-3c0d6684-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Otanema,,Raf.,1838,"New Fl. 4: 61 1838",,,,,99980-1,wfo-0000384988,3573722,
-ca2116f4-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Otanema,,Raf.,1836,"New Fl. 4: 61 1836",,,,,,wfo-0001102277,3577437,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7c209da-8fd1-11eb-924d-9cd76263cbd0,genus,Otamplis,,,Raf.,,1838,,"New. Fl. 4: 8. 1838.",,,,,,,wfo-4000027433,7268745,,
+3ecd9cea-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Otamplis,,Raf.,,1838,,"New Fl. 4: 8 1838",,,,,,581204-1,wfo-0000388784,3830297,,
+edfe2622-8fcb-11eb-924d-9cd76263cbd0,species,cernua,Otandra,,"(Willd.) Salisb.",,1812,,"Trans. Hort. Soc. London 1: 298 1812",,,,,,649527-1,wfo-0000261493,2791930,,
+3c0d8fd8-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Otanema,,Raf.,,1838,,"New Fl. 4: 61 1838",,,,,,99979-1,wfo-0000384989,3573729,,
+3c0d6684-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Otanema,,Raf.,,1838,,"New Fl. 4: 61 1838",,,,,,99980-1,wfo-0000384988,3573722,,
+ca2116f4-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Otanema,,Raf.,,1836,,"New Fl. 4: 61 1836",,,,,,,wfo-0001102277,3577437,,

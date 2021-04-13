@@ -1,5 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfad0c72-8fd1-11eb-924d-9cd76263cbd0,genus,Arbuscula,,,,,,,,,,,wfo-4000002868,9725359,
-f133055e-8fcd-11eb-924d-9cd76263cbd0,species,alleghaniensis,Arbuscula,,"(Müll.Hal.) H.A.Crum, Steere & L.E.Anderson",1964,"Bryologist 67: 163 1964",,,,,,wfo-0001186210,5710839,
-f132ce7c-8fcd-11eb-924d-9cd76263cbd0,species,alopecura,Arbuscula,,"(Hedw.) H.A.Crum, Steere & L.E.Anderson",1964,"Bryologist 67: 163 1964",,,,,,wfo-0001186208,8207224,
-f132eb6e-8fcd-11eb-924d-9cd76263cbd0,species,leibergii,Arbuscula,,"(E.Britton) H.A.Crum, Steere & L.E.Anderson",1964,"Bryologist 67: 163 1964",,,,,,wfo-0001186209,5710841,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfad0c72-8fd1-11eb-924d-9cd76263cbd0,genus,Arbuscula,,,"Bat. & Peres",,1965,,"Mycopath. Mycol. appl. 25(1-2): 162 (1965)",,,,dfad0c72-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000002868,9725359,7206," "
+f133055e-8fcd-11eb-924d-9cd76263cbd0,species,alleghaniensis,Arbuscula,,"(Müll.Hal.) H.A.Crum, Steere & L.E.Anderson",,1964,,"Bryologist 67: 163 1964",,,,,,,wfo-0001186210,5710839,,
+f132ce7c-8fcd-11eb-924d-9cd76263cbd0,species,alopecura,Arbuscula,,"(Hedw.) H.A.Crum, Steere & L.E.Anderson",,1964,,"Bryologist 67: 163 1964",,,,,,,wfo-0001186208,8207224,,
+187628c2-9bad-11eb-a8a2-19ed5c03f8d3,species,eugeniae,Arbuscula,,"Bat. & Peres",,1965,,"Mycopath. Mycol. appl. 25: 162 (1965)",,,,187628c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,326440," "
+f132eb6e-8fcd-11eb-924d-9cd76263cbd0,species,leibergii,Arbuscula,,"(E.Britton) H.A.Crum, Steere & L.E.Anderson",,1964,,"Bryologist 67: 163 1964",,,,,,,wfo-0001186209,5710841,,

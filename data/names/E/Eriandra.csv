@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36a3bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Eriandra,,,"P.Royen & Steenis",1952,"J. Arnold Arbor. 33(1): 94–95. 1952.",,,,,32347-1,wfo-4000013761,7293422,
-f06b1a72-8fcc-11eb-924d-9cd76263cbd0,species,fragrans,Eriandra,,"P.Royen & Steenis",1952,"J. Arnold Arbor. 33: 94 1952",,,,,690319-1,wfo-0000671216,4050330,
-f06b371e-8fcc-11eb-924d-9cd76263cbd0,species,chapelieri,Eriandrostachys,,Baill.,1874,"Adansonia 11: 239 1874",,,,,783022-1,wfo-0000671217,3784224,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36a3bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Eriandra,,,"P.Royen & Steenis",,1952,,"J. Arnold Arbor. 33(1): 94–95. 1952.",,Q56015545,,,,32347-1,wfo-4000013761,7293422,,
+f06b1a72-8fcc-11eb-924d-9cd76263cbd0,species,fragrans,Eriandra,,"P.Royen & Steenis",,1952,,"J. Arnold Arbor. 33: 94 1952",,Q56015545,,,,690319-1,wfo-0000671216,4050330,,
+f06b371e-8fcc-11eb-924d-9cd76263cbd0,species,chapelieri,Eriandrostachys,,Baill.,,1874,,"Adansonia 11: 239 1874",,,,,,783022-1,wfo-0000671217,3784224,,

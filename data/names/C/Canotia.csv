@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e12b4f14-8fd1-11eb-924d-9cd76263cbd0,genus,Canotia,,,Torr.,1861,"Rep. Colorado R. 4: 15. 1861.",,,,,35630-1,wfo-4000006554,3169166,
-30ef19d6-8fcd-11eb-924d-9cd76263cbd0,species,holacantha,Canotia,,Torr.,1857,"Pacif. Railr. Rep. Parke, Bot. 4: 68 1857",,,,,771773-1,wfo-0000795836,3169167,
-30f0cfce-8fcd-11eb-924d-9cd76263cbd0,species,wendtii,Canotia,,M.C.Johnst.,1975,"Brittonia 27: 121 1975",,,,,44444-2,wfo-0000795845,3873579,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e12b4f14-8fd1-11eb-924d-9cd76263cbd0,genus,Canotia,,,Torr.,,1861,,"Rep. Colorado R. 4: 15. 1861.",,,,,,35630-1,wfo-4000006554,3169166,,
+30ef19d6-8fcd-11eb-924d-9cd76263cbd0,species,holacantha,Canotia,,Torr.,,1857,,"Pacif. Railr. Rep. Parke, Bot. 4: 68 1857",,,,,,771773-1,wfo-0000795836,3169167,,
+30f0cfce-8fcd-11eb-924d-9cd76263cbd0,species,wendtii,Canotia,,M.C.Johnst.,,1975,,"Brittonia 27: 121 1975",,Q55768580,,,,44444-2,wfo-0000795845,3873579,,

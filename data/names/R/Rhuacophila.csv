@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9aab760-8fd1-11eb-924d-9cd76263cbd0,genus,Rhuacophila,,,,,,,,,,,wfo-4000033094,2779408,
-1304f51c-8fcd-11eb-924d-9cd76263cbd0,species,celebica,Rhuacophila,,Blume,1827,"Enum. Pl. Javae 14 1827",,,,,540420-1,wfo-0000732349,2780888,
-1300ca1e-8fcd-11eb-924d-9cd76263cbd0,species,javanica,Rhuacophila,,Blume,1827,"Enum. Pl. Javae 14 1827",,,,,540421-1,wfo-0000732319,2780883,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9aab760-8fd1-11eb-924d-9cd76263cbd0,genus,Rhuacophila,,,,,,,,,,,,,,wfo-4000033094,2779408,,
+1304f51c-8fcd-11eb-924d-9cd76263cbd0,species,celebica,Rhuacophila,,Blume,,1827,,"Enum. Pl. Javae 14 1827",,,,,,540420-1,wfo-0000732349,2780888,,
+1300ca1e-8fcd-11eb-924d-9cd76263cbd0,species,javanica,Rhuacophila,,Blume,,1827,,"Enum. Pl. Javae 14 1827",,,,,,540421-1,wfo-0000732319,2780883,,

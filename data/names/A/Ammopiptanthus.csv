@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df3765b2-8fd1-11eb-924d-9cd76263cbd0,genus,Ammopiptanthus,,,S.H.Cheng,,,,,,,21634-1,wfo-4000001631,2943135,
-8d195588-8fcc-11eb-924d-9cd76263cbd0,species,kamelinii,Ammopiptanthus,,Lazkov,2006,"Novosti Sist. Vyssh. Rast. 38: 135 2006",,,,,77077093-1,wfo-0000506301,3966796,
-1380e734-8fc4-11eb-924d-9cd76263cbd0,species,mongolicus,Ammopiptanthus,,"(Kom.) S.H.Cheng",,,,,,984eaf62-8fc6-11eb-924d-9cd76263cbd0,,wfo-0000186210,2943136,
-30ca164e-8fc4-11eb-924d-9cd76263cbd0,species,nanus,Ammopiptanthus,,"(Popov) S.H.Cheng",,,,,,30d6565c-8fc4-11eb-924d-9cd76263cbd0,,wfo-0000186868,2943139,
-7e438e18-8fbb-11eb-924d-9cd76263cbd0,species,ohlingerae,Ammopursus,,"(S.F.Blake) Small",1924,"Bull. Torrey Bot. Club 51 393 1924",,,,2e6144fa-8fb4-11eb-924d-9cd76263cbd0,11364-2,wfo-0000134655,3104277,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df3765b2-8fd1-11eb-924d-9cd76263cbd0,genus,Ammopiptanthus,,,S.H.Cheng,,,,,,,,,,21634-1,wfo-4000001631,2943135,,
+8d195588-8fcc-11eb-924d-9cd76263cbd0,species,kamelinii,Ammopiptanthus,,Lazkov,,2006,,"Novosti Sist. Vyssh. Rast. 38: 135 2006",,,,,,77077093-1,wfo-0000506301,3966796,,
+1380e734-8fc4-11eb-924d-9cd76263cbd0,species,mongolicus,Ammopiptanthus,,"(Kom.) S.H.Cheng",,,,,,,,984eaf62-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000186210,2943136,,
+30ca164e-8fc4-11eb-924d-9cd76263cbd0,species,nanus,Ammopiptanthus,,"(Popov) S.H.Cheng",,,,,,,,30d6565c-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0000186868,2943139,,
+7e438e18-8fbb-11eb-924d-9cd76263cbd0,species,ohlingerae,Ammopursus,,"(S.F.Blake) Small",,1924,,"Bull. Torrey Bot. Club 51 393 1924",,Q55767225,,2e6144fa-8fb4-11eb-924d-9cd76263cbd0,,11364-2,wfo-0000134655,3104277,,

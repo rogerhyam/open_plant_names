@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e986cd6e-8fd1-11eb-924d-9cd76263cbd0,genus,Regnellidium,,,Lindm.,1904,"Ark. Bot. 3(6): 2. 1904.",,,,,295537-2,wfo-4000032684,2650086,
-b877fb1c-8fd1-11eb-924d-9cd76263cbd0,species,diphyllum,Regnellidium,,Lindm.,1904,"Ark. Bot. 3(6): 2 1904",,,,,218427-2,wfo-0001240108,2650087,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e986cd6e-8fd1-11eb-924d-9cd76263cbd0,genus,Regnellidium,,,Lindm.,,1904,,"Ark. Bot. 3(6): 2. 1904.",,,,,,295537-2,wfo-4000032684,2650086,,
+b877fb1c-8fd1-11eb-924d-9cd76263cbd0,species,diphyllum,Regnellidium,,Lindm.,,1904,,"Ark. Bot. 3(6): 2 1904",,,,,,218427-2,wfo-0001240108,2650087,,

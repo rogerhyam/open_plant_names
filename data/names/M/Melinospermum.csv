@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e688eb38-8fd1-11eb-924d-9cd76263cbd0,genus,Melinospermum,,,,,,,,,,,wfo-4000023652,7301305,
-341d9e6c-8fcc-11eb-924d-9cd76263cbd0,species,pumilum,Melinospermum,,Walp.,1840,"Linnaea 13: 527 1840",,,,,507056-1,wfo-0000373974,3962750,
-57dd22fe-8fcd-11eb-924d-9cd76263cbd0,species,palustre,Melinum,,"(L.) Link",1829,"Handbuch 1: 96 1829",,,,,408267-1,wfo-0000879613,5673910,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e688eb38-8fd1-11eb-924d-9cd76263cbd0,genus,Melinospermum,,,,,,,,,,,,,,wfo-4000023652,7301305,,
+341d9e6c-8fcc-11eb-924d-9cd76263cbd0,species,pumilum,Melinospermum,,Walp.,,1840,,"Linnaea 13: 527 1840",,,,,,507056-1,wfo-0000373974,3962750,,
+57dd22fe-8fcd-11eb-924d-9cd76263cbd0,species,palustre,Melinum,,"(L.) Link",,1829,,"Handbuch 1: 96 1829",,,,,,408267-1,wfo-0000879613,5673910,,

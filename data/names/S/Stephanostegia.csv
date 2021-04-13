@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaccb90e-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanostegia,,,Baill.,1888,"Bull. Mens. Soc. Linn. Paris 1: 748. 1888.",,,,,2577-1,wfo-4000036596,7317279,
-10dbdaa4-8fcc-11eb-924d-9cd76263cbd0,species,brevis,Stephanostegia,,Markgr.,1972,"Adansonia n.s., 12: 220 1972",,,,,81832-1,wfo-0000316710,3620878,
-10dc425a-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Stephanostegia,,Markgr.,1972,"Adansonia n.s., 12: 219 1972",,,,,81833-1,wfo-0000316711,3620869,
-10dc895e-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Stephanostegia,,Baill.,1888,"Bull. Mens. Soc. Linn. Paris 1: 748 1888",,,,,81834-1,wfo-0000316712,3620865,
-10dcbc26-8fcc-11eb-924d-9cd76263cbd0,species,holophaea,Stephanostegia,,Pichon,1948,"Notul. Syst. (Paris) 13: 206 1948",,,,,81835-1,wfo-0000316713,7317284,
-10dcdfbc-8fcc-11eb-924d-9cd76263cbd0,variety,parvifolia,Stephanostegia,holophaea,"(Pichon) Markgr.",1972,"Adansonia n.s., 12: 221 1972",,,,,874366-1,wfo-0000316714,3620844,
-10dcfc9a-8fcc-11eb-924d-9cd76263cbd0,species,megalocarpa,Stephanostegia,,Markgr.,1972,"Adansonia n.s., 12: 220 1972",,,,,81836-1,wfo-0000316715,3620839,
-10dd18ce-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Stephanostegia,,Pichon,1948,"Notul. Syst. (Paris) 13: 206 1948",,,,,81837-1,wfo-0000316716,3620827,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaccb90e-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanostegia,,,Baill.,,1888,,"Bull. Mens. Soc. Linn. Paris 1: 748. 1888.",,,,,,2577-1,wfo-4000036596,7317279,,
+10dbdaa4-8fcc-11eb-924d-9cd76263cbd0,species,brevis,Stephanostegia,,Markgr.,,1972,,"Adansonia n.s., 12: 220 1972",,Q58838167,,,,81832-1,wfo-0000316710,3620878,,
+10dc425a-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Stephanostegia,,Markgr.,,1972,,"Adansonia n.s., 12: 219 1972",,Q58838167,,,,81833-1,wfo-0000316711,3620869,,
+10dc895e-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Stephanostegia,,Baill.,,1888,,"Bull. Mens. Soc. Linn. Paris 1: 748 1888",,,,,,81834-1,wfo-0000316712,3620865,,
+10dcbc26-8fcc-11eb-924d-9cd76263cbd0,species,holophaea,Stephanostegia,,Pichon,,1948,,"Notul. Syst. (Paris) 13: 206 1948",,,,,,81835-1,wfo-0000316713,7317284,,
+10dcdfbc-8fcc-11eb-924d-9cd76263cbd0,variety,parvifolia,Stephanostegia,holophaea,"(Pichon) Markgr.",,1972,,"Adansonia n.s., 12: 221 1972",,Q58838167,,,,874366-1,wfo-0000316714,3620844,,
+10dcfc9a-8fcc-11eb-924d-9cd76263cbd0,species,megalocarpa,Stephanostegia,,Markgr.,,1972,,"Adansonia n.s., 12: 220 1972",,Q58838167,,,,81836-1,wfo-0000316715,3620839,,
+10dd18ce-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Stephanostegia,,Pichon,,1948,,"Notul. Syst. (Paris) 13: 206 1948",,,,,,81837-1,wfo-0000316716,3620827,,

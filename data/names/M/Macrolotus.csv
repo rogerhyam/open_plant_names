@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e639cbd4-8fd1-11eb-924d-9cd76263cbd0,genus,Macrolotus,,,,,,,,,,,wfo-4000022726,7301797,
-33c5b29c-8fcc-11eb-924d-9cd76263cbd0,species,rivaei,Macrolotus,,Harms,1897,"Annuario Reale Ist. Bot. Roma 7: 89 1897",,,,,505805-1,wfo-0000373423,3967902,
-a3ece864-8fcd-11eb-924d-9cd76263cbd0,species,formosana,Macromeles,,Koidz.,1930,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,726202-1,wfo-0001018313,2987756,
-930822e8-8fcd-11eb-924d-9cd76263cbd0,species,tschonoskii,Macromeles,,"(Maxim.) Koidz.",1930,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,726203-1,wfo-0000983229,2987755,
-93083fb2-8fcd-11eb-924d-9cd76263cbd0,species,yunnanensis,Macromeles,,"(Franch.) Koidz.",1930,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,726204-1,wfo-0000983230,2987757,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e639cbd4-8fd1-11eb-924d-9cd76263cbd0,genus,Macrolotus,,,,,,,,,,,,,,wfo-4000022726,7301797,,
+33c5b29c-8fcc-11eb-924d-9cd76263cbd0,species,rivaei,Macrolotus,,Harms,,1897,,"Annuario Reale Ist. Bot. Roma 7: 89 1897",,,,,,505805-1,wfo-0000373423,3967902,,
+a3ece864-8fcd-11eb-924d-9cd76263cbd0,species,formosana,Macromeles,,Koidz.,,1930,,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,,726202-1,wfo-0001018313,2987756,,
+930822e8-8fcd-11eb-924d-9cd76263cbd0,species,tschonoskii,Macromeles,,"(Maxim.) Koidz.",,1930,,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,,726203-1,wfo-0000983229,2987755,,
+93083fb2-8fcd-11eb-924d-9cd76263cbd0,species,yunnanensis,Macromeles,,"(Franch.) Koidz.",,1930,,"Florae symbolae orientali-asiaticae ; 1930 53 1930",,,,,,726204-1,wfo-0000983230,2987757,,

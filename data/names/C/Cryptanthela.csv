@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2381d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptanthela,,,Gagnep.,1950,"Notul. Syst. (Paris) 14: 24. 1950.",,,,,,wfo-4000009858,7324441,
-b92f300c-8fd1-11eb-924d-9cd76263cbd0,species,sericea,Cryptanthela,,Gagnep.,1950,"Notul. Syst. (Paris) 14(1): 24 1950",,,,,267251-1,wfo-0001241430,3681162,
-7be894a8-8fcd-11eb-924d-9cd76263cbd0,species,slateri,Cryptanthemis,,Rupp,1932,"Proc. Linn. Soc. New South Wales 57: 58 1932",,,,,624655-1,wfo-0000933083,2816806,
-2e6267dc-8fcc-11eb-924d-9cd76263cbd0,species,navioides,Cryptanthopsis,,L.B.Sm.,1940,"Contr. Gray Herb. 129: 31 1940",,,,,71625-2,wfo-0000364796,2697590,
-2e6287f8-8fcc-11eb-924d-9cd76263cbd0,species,saxicola,Cryptanthopsis,,Ule,1908,"Bot. Jahrb. Syst. 42: 193 1908",,,,,71626-2,wfo-0000364797,2697630,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2381d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptanthela,,,Gagnep.,,1950,,"Notul. Syst. (Paris) 14: 24. 1950.",,,,,,,wfo-4000009858,7324441,,
+b92f300c-8fd1-11eb-924d-9cd76263cbd0,species,sericea,Cryptanthela,,Gagnep.,,1950,,"Notul. Syst. (Paris) 14(1): 24 1950",,,,,,267251-1,wfo-0001241430,3681162,,
+7be894a8-8fcd-11eb-924d-9cd76263cbd0,species,slateri,Cryptanthemis,,Rupp,,1932,,"Proc. Linn. Soc. New South Wales 57: 58 1932",,,,,,624655-1,wfo-0000933083,2816806,,
+2e6267dc-8fcc-11eb-924d-9cd76263cbd0,species,navioides,Cryptanthopsis,,L.B.Sm.,,1940,,"Contr. Gray Herb. 129: 31 1940",,Q94388529,,,,71625-2,wfo-0000364796,2697590,,
+2e6287f8-8fcc-11eb-924d-9cd76263cbd0,species,saxicola,Cryptanthopsis,,Ule,,1908,,"Bot. Jahrb. Syst. 42: 193 1908",,,,,,71626-2,wfo-0000364797,2697630,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df2802ca-8fd1-11eb-924d-9cd76263cbd0,genus,Althoffia,,,K.Schum.,1887,"Bot. Jahrb. Syst. 9: 209. 1887. (11 Nov 1887)",,,,,,wfo-4000001418,7311127,
-9a6156b4-8fcc-11eb-924d-9cd76263cbd0,species,lanigera,Althoffia,,Burret,1926,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1926",,,,,833231-1,wfo-0000529075,5706097,
-9a61720c-8fcc-11eb-924d-9cd76263cbd0,species,ledermannii,Althoffia,,Burret,1925,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1925",,,,,,wfo-0000529076,5706095,
-9a61a970-8fcc-11eb-924d-9cd76263cbd0,species,pleiostigma,Althoffia,,"(F.Muell.) Warb. ex K.Schum. & Lauterb.",1900,"Fl. Schutzgeb. Südsee 435 1900",,,,06ab5504-8fcd-11eb-924d-9cd76263cbd0,833233-1,wfo-0000529078,8213952,
-9a61c3ce-8fcc-11eb-924d-9cd76263cbd0,species,puttkameri,Althoffia,,"(Warb.) Burret",1926,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1926",,,,06aefd76-8fcd-11eb-924d-9cd76263cbd0,833235-1,wfo-0000529079,5706091,
-9a61de0e-8fcc-11eb-924d-9cd76263cbd0,species,saccifera,Althoffia,,Burret,1932,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 511 1932",,,,,833236-1,wfo-0000529080,5706089,
-9a61fd26-8fcc-11eb-924d-9cd76263cbd0,species,tetrapyxis,Althoffia,,K.Schum.,1888,"Bot. Jahrb. Syst. 9: 209 1888",,,,,,wfo-0000529081,5706087,
-9a621982-8fcc-11eb-924d-9cd76263cbd0,species,tripyxis,Althoffia,,K.Schum.,1900,"Fl. Schutzgeb. Südsee 435 1900",,,,,833238-1,wfo-0000529082,5706085,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df2802ca-8fd1-11eb-924d-9cd76263cbd0,genus,Althoffia,,,K.Schum.,,1887,,"Bot. Jahrb. Syst. 9: 209. 1887. (11 Nov 1887)",,,,,,,wfo-4000001418,7311127,,
+9a6156b4-8fcc-11eb-924d-9cd76263cbd0,species,lanigera,Althoffia,,Burret,,1926,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1926",,Q55776789,,,,833231-1,wfo-0000529075,5706097,,
+9a61720c-8fcc-11eb-924d-9cd76263cbd0,species,ledermannii,Althoffia,,Burret,,1925,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1925",,,,,,,wfo-0000529076,5706095,,
+9a61a970-8fcc-11eb-924d-9cd76263cbd0,species,pleiostigma,Althoffia,,"(F.Muell.) Warb. ex K.Schum. & Lauterb.",,1900,,"Fl. Schutzgeb. Südsee 435 1900",,Q51474811,,06ab5504-8fcd-11eb-924d-9cd76263cbd0,,833233-1,wfo-0000529078,8213952,,
+9a61c3ce-8fcc-11eb-924d-9cd76263cbd0,species,puttkameri,Althoffia,,"(Warb.) Burret",,1926,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 855 1926",,Q55776789,,06aefd76-8fcd-11eb-924d-9cd76263cbd0,,833235-1,wfo-0000529079,5706091,,
+9a61de0e-8fcc-11eb-924d-9cd76263cbd0,species,saccifera,Althoffia,,Burret,,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 511 1932",,,,,,833236-1,wfo-0000529080,5706089,,
+9a61fd26-8fcc-11eb-924d-9cd76263cbd0,species,tetrapyxis,Althoffia,,K.Schum.,,1888,,"Bot. Jahrb. Syst. 9: 209 1888",,,,,,,wfo-0000529081,5706087,,
+9a621982-8fcc-11eb-924d-9cd76263cbd0,species,tripyxis,Althoffia,,K.Schum.,,1900,,"Fl. Schutzgeb. Südsee 435 1900",,Q51474811,,,,833238-1,wfo-0000529082,5706085,,

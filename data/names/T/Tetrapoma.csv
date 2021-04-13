@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb39e10a-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrapoma,,,"Turcz. ex Fisch. & C.A.Mey.",1835,"Index Seminum (St. Petersburg) 1: 39. 1835[1835].",,,,,,wfo-4000037971,7291995,
-ad460d28-8fcd-11eb-924d-9cd76263cbd0,species,barbareaefolium,Tetrapoma,,Turcz.,1835,"Index Sem. (St. Petersburg) 1: 39. 1835",,,,,290339-1,wfo-0001037503,5377530,
-acb103e6-8fd1-11eb-924d-9cd76263cbd0,species,barbareifolium,Tetrapoma,,"(DC.) Turcz. ex Fisch. & C.A.Mey.",1835,"Index Sem. (St. Petersburg) 1: 39 1835",,,,,,wfo-0001218535,5550422,
-502f2404-8fcc-11eb-924d-9cd76263cbd0,species,crusianum,Tetrapoma,,Walp.,1842,"Repert. Bot. Syst. 1: 154 1842",,,,,290340-1,wfo-0000410847,5550419,
-ac67a05c-8fd1-11eb-924d-9cd76263cbd0,species,kruhsianum,Tetrapoma,,"Fisch. & C.A.Mey.",,"Index Sem. (St. Petersburg)",,,,,,wfo-0001218012,5377529,
-baf154c4-8fd1-11eb-924d-9cd76263cbd0,species,pyriforme,Tetrapoma,,Seem.,1852,"Bot. Voy. Herald 24–25, pl. 2 1852",,,,,290343-1,wfo-0001244708,5377527,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb39e10a-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrapoma,,,"Turcz. ex Fisch. & C.A.Mey.",,1835,,"Index Seminum (St. Petersburg) 1: 39. 1835[1835].",,,,,,,wfo-4000037971,7291995,,
+ad460d28-8fcd-11eb-924d-9cd76263cbd0,species,barbareaefolium,Tetrapoma,,Turcz.,,1835,,"Index Sem. (St. Petersburg) 1: 39. 1835",,,,,,290339-1,wfo-0001037503,5377530,,
+acb103e6-8fd1-11eb-924d-9cd76263cbd0,species,barbareifolium,Tetrapoma,,"(DC.) Turcz. ex Fisch. & C.A.Mey.",,1835,,"Index Sem. (St. Petersburg) 1: 39 1835",,,,,,,wfo-0001218535,5550422,,
+502f2404-8fcc-11eb-924d-9cd76263cbd0,species,crusianum,Tetrapoma,,Walp.,,1842,,"Repert. Bot. Syst. 1: 154 1842",,,,,,290340-1,wfo-0000410847,5550419,,
+ac67a05c-8fd1-11eb-924d-9cd76263cbd0,species,kruhsianum,Tetrapoma,,"Fisch. & C.A.Mey.",,,,"Index Sem. (St. Petersburg)",,,,,,,wfo-0001218012,5377529,,
+baf154c4-8fd1-11eb-924d-9cd76263cbd0,species,pyriforme,Tetrapoma,,Seem.,,1852,,"Bot. Voy. Herald 24–25, pl. 2 1852",,,,,,290343-1,wfo-0001244708,5377527,,

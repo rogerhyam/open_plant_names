@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eadc5cba-8fd1-11eb-924d-9cd76263cbd0,genus,Stolonivector,,,J.J.Engel,1991,"J. Hattori Bot. Lab. 69: 79. 1991.",,,,,,wfo-4000036771,2689462,
-fef02d84-8fcd-11eb-924d-9cd76263cbd0,species,clasmatocoleoides,Stolonivector,,J.J.Engel,2009,"Nova Hedwigia 88: 339 2009",,,,,,wfo-0001214582,7772516,
-f654d706-8fcd-11eb-924d-9cd76263cbd0,species,fiordlandiae,Stolonivector,,"(E.A.Hodgs.) J.J.Engel",1991,"J. Hattori Bot. Lab. 69: 82 1991",,,,f654bb90-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001196493,2689463,
-fef010ba-8fcd-11eb-924d-9cd76263cbd0,species,obtusilobus,Stolonivector,,J.J.Engel,2009,"Nova Hedwigia 88: 337 2009",,,,,,wfo-0001214581,7418938,
-fd24bdf8-8fcd-11eb-924d-9cd76263cbd0,species,waipouensis,Stolonivector,,J.J.Engel,2003,"J. Hattori Bot. Lab. 93: 70. f. 1 2003",,,,,,wfo-0001210750,8241217,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eadc5cba-8fd1-11eb-924d-9cd76263cbd0,genus,Stolonivector,,,J.J.Engel,,1991,,"J. Hattori Bot. Lab. 69: 79. 1991.",,,,,,,wfo-4000036771,2689462,,
+fef02d84-8fcd-11eb-924d-9cd76263cbd0,species,clasmatocoleoides,Stolonivector,,J.J.Engel,,2009,,"Nova Hedwigia 88: 339 2009",,,,,,,wfo-0001214582,7772516,,
+f654d706-8fcd-11eb-924d-9cd76263cbd0,species,fiordlandiae,Stolonivector,,"(E.A.Hodgs.) J.J.Engel",,1991,,"J. Hattori Bot. Lab. 69: 82 1991",,,,f654bb90-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001196493,2689463,,
+fef010ba-8fcd-11eb-924d-9cd76263cbd0,species,obtusilobus,Stolonivector,,J.J.Engel,,2009,,"Nova Hedwigia 88: 337 2009",,,,,,,wfo-0001214581,7418938,,
+fd24bdf8-8fcd-11eb-924d-9cd76263cbd0,species,waipouensis,Stolonivector,,J.J.Engel,,2003,,"J. Hattori Bot. Lab. 93: 70. f. 1 2003",,,,,,,wfo-0001210750,8241217,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e23136f8-8fd1-11eb-924d-9cd76263cbd0,genus,Crossocalyx,,,Meyl.,1939,"Bull. Soc. Vaud. Sci. Nat. 60: 266. 1939.",,,,,,wfo-4000009764,2689423,
-fc48dfae-8fcd-11eb-924d-9cd76263cbd0,species,hellerianus,Crossocalyx,,"(Nees ex Lindenb.) Meyl.",1939,"Bull. Soc. Vaud. Sci. Nat. 60: 266 1939",,,,,,wfo-0001208772,2689424,
-fc48fc3c-8fcd-11eb-924d-9cd76263cbd0,species,koriakensis,Crossocalyx,,Schljakov,1978,"Novosti Syst. Niza. Rast. 15: 246. f. 3 1978",,,,,,wfo-0001208773,7898530,
-fccbc2a2-8fcd-11eb-924d-9cd76263cbd0,species,tenuis,Crossocalyx,,"(H.Williams) Schljakov",1978,"Novosti Syst. Niza. Rast. 15: 246 1978",,,,,,wfo-0001209941,2689425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e23136f8-8fd1-11eb-924d-9cd76263cbd0,genus,Crossocalyx,,,Meyl.,,1939,,"Bull. Soc. Vaud. Sci. Nat. 60: 266. 1939.",,,,,,,wfo-4000009764,2689423,,
+fc48dfae-8fcd-11eb-924d-9cd76263cbd0,species,hellerianus,Crossocalyx,,"(Nees ex Lindenb.) Meyl.",,1939,,"Bull. Soc. Vaud. Sci. Nat. 60: 266 1939",,,,,,,wfo-0001208772,2689424,,
+fc48fc3c-8fcd-11eb-924d-9cd76263cbd0,species,koriakensis,Crossocalyx,,Schljakov,,1978,,"Novosti Syst. Niza. Rast. 15: 246. f. 3 1978",,,,,,,wfo-0001208773,7898530,,
+fccbc2a2-8fcd-11eb-924d-9cd76263cbd0,species,tenuis,Crossocalyx,,"(H.Williams) Schljakov",,1978,,"Novosti Syst. Niza. Rast. 15: 246 1978",,,,,,,wfo-0001209941,2689425,,

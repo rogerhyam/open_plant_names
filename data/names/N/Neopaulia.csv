@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7351b74-8fd1-11eb-924d-9cd76263cbd0,genus,Neopaulia,,,"Pimenov & Kljuykov",,"Bot. Žhurn. (Moscow & Leningrad) 68: 1562. 1983.",,,,,,wfo-4000025798,6026289,
-37ad1a30-8fcc-11eb-924d-9cd76263cbd0,species,alaica,Neopaulia,,"Pimenov & Kljuykov",,"Bot. Zhurn. (Moscow & Leningrad) 68: 1562 1983",,,,,902622-1,wfo-0000379616,3628676,
-37acf302-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Neopaulia,,"(Schischk.) Pimenov & Kljuykov",,"Bot. Zhurn. (Moscow & Leningrad) 68: 1562 1983",,,,baeb648c-8fcd-11eb-924d-9cd76263cbd0,912869-1,wfo-0000379615,3628667,
-bab6d082-8fcd-11eb-924d-9cd76263cbd0,species,ovczinnikovii,Neopaulia,,"(Korovin) Pimenov & Kljuykov",,"Bot. Žurn. (Moscow & Leningrad) 68: 1562 1983",,,,badcc27e-8fcd-11eb-924d-9cd76263cbd0,912870-1,wfo-0001068105,3628657,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7351b74-8fd1-11eb-924d-9cd76263cbd0,genus,Neopaulia,,,"Pimenov & Kljuykov",,,,"Bot. Žhurn. (Moscow & Leningrad) 68: 1562. 1983.",,,,,,,wfo-4000025798,6026289,,
+37ad1a30-8fcc-11eb-924d-9cd76263cbd0,species,alaica,Neopaulia,,"Pimenov & Kljuykov",,,,"Bot. Zhurn. (Moscow & Leningrad) 68: 1562 1983",,,,,,902622-1,wfo-0000379616,3628676,,
+37acf302-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Neopaulia,,"(Schischk.) Pimenov & Kljuykov",,,,"Bot. Zhurn. (Moscow & Leningrad) 68: 1562 1983",,,,baeb648c-8fcd-11eb-924d-9cd76263cbd0,,912869-1,wfo-0000379615,3628667,,
+bab6d082-8fcd-11eb-924d-9cd76263cbd0,species,ovczinnikovii,Neopaulia,,"(Korovin) Pimenov & Kljuykov",,,,"Bot. Žurn. (Moscow & Leningrad) 68: 1562 1983",,,,badcc27e-8fcd-11eb-924d-9cd76263cbd0,,912870-1,wfo-0001068105,3628657,,

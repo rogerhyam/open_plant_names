@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67106f8-8fd1-11eb-924d-9cd76263cbd0,genus,Maxburretia,,,Furtado,1941,"Gard. Bull. Straits Settlem. ser. 3. 11: 240. 1941.",,,,,31358-1,wfo-4000023374,2736114,
-e0044d26-8fcb-11eb-924d-9cd76263cbd0,species,furtadoana,Maxburretia,,J.Dransf.,1978,"Gentes Herb. 11: 195 1978",,,,,668194-1,wfo-0000238118,2736115,
-e0046f40-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,Maxburretia,,"(Burret) J.Dransf.",1978,"Gentes Herb. 11: 194 1978",,,,,668195-1,wfo-0000238119,2736119,
-e0048d5e-8fcb-11eb-924d-9cd76263cbd0,species,rupicola,Maxburretia,,"(Ridl.) Furtado",1941,"Gard. Bull. Straits Settlem. 11: 240 1941",,,,,668196-1,wfo-0000238120,2736116,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67106f8-8fd1-11eb-924d-9cd76263cbd0,genus,Maxburretia,,,Furtado,,1941,,"Gard. Bull. Straits Settlem. ser. 3. 11: 240. 1941.",,,,,,31358-1,wfo-4000023374,2736114,,
+e0044d26-8fcb-11eb-924d-9cd76263cbd0,species,furtadoana,Maxburretia,,J.Dransf.,,1978,,"Gentes Herb. 11: 195 1978",,,,,,668194-1,wfo-0000238118,2736115,,
+e0046f40-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,Maxburretia,,"(Burret) J.Dransf.",,1978,,"Gentes Herb. 11: 194 1978",,,,,,668195-1,wfo-0000238119,2736119,,
+e0048d5e-8fcb-11eb-924d-9cd76263cbd0,species,rupicola,Maxburretia,,"(Ridl.) Furtado",,1941,,"Gard. Bull. Straits Settlem. 11: 240 1941",,,,,,668196-1,wfo-0000238120,2736116,,

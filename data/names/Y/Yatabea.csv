@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec2fed02-8fd1-11eb-924d-9cd76263cbd0,genus,Yatabea,,,"Maximowicz ex Yatabe",1891,"Bot. Mag. (Tokyo) 5: 281. 1891.",,,,,,wfo-4000041078,7300248,
-5e50a922-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Yatabea,,Maxim.,1891,"Bot. Mag. (Tokyo) 5: 281 1891",,,,,,wfo-0000429158,3980956,
-abf1518a-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Yaundea,,"(P.Beauv.) G.Schellenb.",1929,"Pl. Bequaert. 4: 547 1929",,,,ce3a220e-8fcc-11eb-924d-9cd76263cbd0,265032-1,wfo-0001034655,3686976,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec2fed02-8fd1-11eb-924d-9cd76263cbd0,genus,Yatabea,,,"Maximowicz ex Yatabe",,1891,,"Bot. Mag. (Tokyo) 5: 281. 1891.",,,,,,,wfo-4000041078,7300248,,
+5e50a922-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Yatabea,,Maxim.,,1891,,"Bot. Mag. (Tokyo) 5: 281 1891",,,,,,,wfo-0000429158,3980956,,

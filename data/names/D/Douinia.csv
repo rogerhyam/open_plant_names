@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3038842-8fd1-11eb-924d-9cd76263cbd0,genus,Douinia,,,"(C.E.O.Jensen) H.Buch",1928,"Commentat. Biol. 3(1): 13. 1928.",,,,,,wfo-4000012480,2689234,
-f63ce722-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Douinia,,"(Dicks.) H.Buch",1928,"Commentat. Biol. 3(1): 14 1928",,,,f7a15af8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001196298,2689235,
-81590954-8fcd-11eb-924d-9cd76263cbd0,species,thebaica,Douma,,"(L.) Poir.",1809,"Traité Arbr. Arbust. nouv. ed. 4: 48 1809",,,,78842d22-8fcd-11eb-924d-9cd76263cbd0,666718-1,wfo-0000945271,2735709,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3038842-8fd1-11eb-924d-9cd76263cbd0,genus,Douinia,,,"(C.E.O.Jensen) H.Buch",,1928,,"Commentat. Biol. 3(1): 13. 1928.",,,,,,,wfo-4000012480,2689234,,
+f63ce722-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Douinia,,"(Dicks.) H.Buch",,1928,,"Commentat. Biol. 3(1): 14 1928",,,,f7a15af8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001196298,2689235,,
+81590954-8fcd-11eb-924d-9cd76263cbd0,species,thebaica,Douma,,"(L.) Poir.",,1809,,"Traité Arbr. Arbust. nouv. ed. 4: 48 1809",,,,78842d22-8fcd-11eb-924d-9cd76263cbd0,,666718-1,wfo-0000945271,2735709,,

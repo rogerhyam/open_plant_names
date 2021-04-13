@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8776032-8fd1-11eb-924d-9cd76263cbd0,genus,Physantholejeunea,,,R.M.Schust.,1978,"Phytologia 39: 429. 1978.",,,,,,wfo-4000029509,2688821,
-fcbc3530-8fcd-11eb-924d-9cd76263cbd0,species,portoricensis,Physantholejeunea,,"(Hampe & Gottsche) R.M.Schust.",1978,"Phytologia 39: 429 1978",,,,,,wfo-0001209806,2688822,
-144f424c-8fc8-11eb-924d-9cd76263cbd0,species,tetraphylla,Physanthyllis,,"(L.) Boiss.",,,,,,,,wfo-0000205989,2947291,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8776032-8fd1-11eb-924d-9cd76263cbd0,genus,Physantholejeunea,,,R.M.Schust.,,1978,,"Phytologia 39: 429. 1978.",,,,,,,wfo-4000029509,2688821,,
+fcbc3530-8fcd-11eb-924d-9cd76263cbd0,species,portoricensis,Physantholejeunea,,"(Hampe & Gottsche) R.M.Schust.",,1978,,"Phytologia 39: 429 1978",,,,,,,wfo-0001209806,2688822,,
+144f424c-8fc8-11eb-924d-9cd76263cbd0,species,tetraphylla,Physanthyllis,,"(L.) Boiss.",,,,,,,,,,,wfo-0000205989,2947291,,

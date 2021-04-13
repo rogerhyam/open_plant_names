@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e007e5d4-8fd1-11eb-924d-9cd76263cbd0,genus,Bakerolimon,,,Lincz.,1968,"Novosti Sist. Vyssh. Rast. 1968: 175. 1968.",,,,,,wfo-4000003915,8250649,
-ac8944a0-8fcc-11eb-924d-9cd76263cbd0,species,peruvianum,Bakerolimon,,"(Kuntze) Lincz.",1968,"Novosti Sist. Vyssh. Rast. 4: 175 1968",,,,,28785-2,wfo-0000558553,4090271,
-c4302c86-8fd1-11eb-924d-9cd76263cbd0,species,plumosa,Bakerolimon,,"(Phil.) Lincz.",1968,"Novosti Sist. Vyssh. Rast. 1968: 175 1968",,,,c43010ac-8fd1-11eb-924d-9cd76263cbd0,28786-2,wfo-0001261789,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e007e5d4-8fd1-11eb-924d-9cd76263cbd0,genus,Bakerolimon,,,Lincz.,,1968,,"Novosti Sist. Vyssh. Rast. 1968: 175. 1968.",,,,,,,wfo-4000003915,8250649,,
+ac8944a0-8fcc-11eb-924d-9cd76263cbd0,species,peruvianum,Bakerolimon,,"(Kuntze) Lincz.",,1968,,"Novosti Sist. Vyssh. Rast. 4: 175 1968",,,,,,28785-2,wfo-0000558553,4090271,,
+c4302c86-8fd1-11eb-924d-9cd76263cbd0,species,plumosa,Bakerolimon,,"(Phil.) Lincz.",,1968,,"Novosti Sist. Vyssh. Rast. 1968: 175 1968",,,,c43010ac-8fd1-11eb-924d-9cd76263cbd0,,28786-2,wfo-0001261789,,,

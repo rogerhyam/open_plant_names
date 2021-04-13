@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e47efe7c-8fd1-11eb-924d-9cd76263cbd0,genus,Hedosyne,,,Strother,,,,,,,1021088-1,wfo-4000017114,3104253,
-e4835a0e-8fb2-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Hedosyne,,"(A.Gray) Strother",2000,"Madroño 47(3) 204 2000",,,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,,wfo-0000036884,3104254,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e47efe7c-8fd1-11eb-924d-9cd76263cbd0,genus,Hedosyne,,,Strother,,,,,,Q93958802,,,,1021088-1,wfo-4000017114,3104253,,
+e4835a0e-8fb2-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Hedosyne,,"(A.Gray) Strother",,2000,,"Madroño 47(3) 204 2000",,Q93958802,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,,1021089-1,wfo-0000036884,3104254,,

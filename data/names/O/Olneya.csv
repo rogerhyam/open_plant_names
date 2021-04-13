@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e787f5d8-8fd1-11eb-924d-9cd76263cbd0,genus,Olneya,,,A.Gray,,,,,,,327686-2,wfo-4000026775,2974563,
-acdcaf32-8fc2-11eb-924d-9cd76263cbd0,species,tesota,Olneya,,A.Gray,,,,,,,,wfo-0000178772,2974564,
-3cbf88b4-8fcc-11eb-924d-9cd76263cbd0,species,racemosum,Olofuton,,Raf.,1838,"Sylva Tellur. 108 1838",,,,,147858-1,wfo-0000385952,3872681,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e787f5d8-8fd1-11eb-924d-9cd76263cbd0,genus,Olneya,,,A.Gray,,,,,,,,,,327686-2,wfo-4000026775,2974563,,
+acdcaf32-8fc2-11eb-924d-9cd76263cbd0,species,tesota,Olneya,,A.Gray,,,,,,,,,,,wfo-0000178772,2974564,,
+3cbf88b4-8fcc-11eb-924d-9cd76263cbd0,species,racemosum,Olofuton,,Raf.,,1838,,"Sylva Tellur. 108 1838",,,,,,147858-1,wfo-0000385952,3872681,,

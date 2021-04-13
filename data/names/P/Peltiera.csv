@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e81e5d70-8fd1-11eb-924d-9cd76263cbd0,genus,Peltiera,,,,,,,,,,,wfo-4000028500,2958439,
-71b817fe-8fc5-11eb-924d-9cd76263cbd0,species,alaotrensis,Peltiera,,"Du Puy & Labat",,,,,,,,wfo-0000193100,2958440,
-71c496e6-8fc5-11eb-924d-9cd76263cbd0,species,nitida,Peltiera,,"Du Puy & Labat",,,,,,,,wfo-0000193101,2958441,
-7a947384-8fcc-11eb-924d-9cd76263cbd0,species,cuneata,Peltimela,,Raf.,1833,"Atlantic J. 1: 199 1833",,,,,807831-1,wfo-0000475067,3737750,
-788cdb6c-8fcc-11eb-924d-9cd76263cbd0,species,peltatum,Peltiphyllum,,"(Torr. ex Benth.) Engl.",1891,"Nat. Pflanzenfam. 3(2a): 61 1891",,,,,186988-2,wfo-0000471501,3032612,
-43a55bc2-8fcc-11eb-924d-9cd76263cbd0,species,aucheri,Peltispermum,,Moq.,1849,"Prodr. 13(2): 143 1849",,,,,166357-1,wfo-0000395221,3757779,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e81e5d70-8fd1-11eb-924d-9cd76263cbd0,genus,Peltiera,,,,,,,,,,,,,,wfo-4000028500,2958439,,
+71b817fe-8fc5-11eb-924d-9cd76263cbd0,species,alaotrensis,Peltiera,,"Du Puy & Labat",,,,,,,,,,,wfo-0000193100,2958440,,
+71c496e6-8fc5-11eb-924d-9cd76263cbd0,species,nitida,Peltiera,,"Du Puy & Labat",,,,,,,,,,,wfo-0000193101,2958441,,

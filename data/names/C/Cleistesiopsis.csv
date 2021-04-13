@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ce7cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Cleistesiopsis,,,"Pansarin & F.Barros",2009,"Kew Bull. 63(3): 444. 2009. (10 Feb 2009)",,,,,77095633-1,wfo-4000008544,3653891,
-6e8d8106-8fcd-11eb-924d-9cd76263cbd0,species,bifaria,Cleistesiopsis,,"(Fernald) Pansarin & F.Barros",2008,"Kew Bull. 63: 446 2008 publ. 2009",,,,,77095634-1,wfo-0000911981,3653892,
-6e8dbf36-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Cleistesiopsis,,"(L.) Pansarin & F.Barros",2008,"Kew Bull. 63: 446 2008 publ. 2009",,,,,77095635-1,wfo-0000911982,3653890,
-6e8e0f18-8fcd-11eb-924d-9cd76263cbd0,form,leucantha,Cleistesiopsis,divaricata,"(P.M.Br.) P.M.Br.",2009,"N. Amer. Native Orchid J. 15: 52 2009",,,,,60453087-2,wfo-0000911983,5950322,
-6e8e491a-8fcd-11eb-924d-9cd76263cbd0,species,ochlockneensis,Cleistesiopsis,,P.M.Br.,2009,"N. Amer. Native Orchid J. 15: 52 2009",,,,,60453090-2,wfo-0000911984,8023702,
-71113346-8fcd-11eb-924d-9cd76263cbd0,species,oricamporum,Cleistesiopsis,,P.M.Br.,2009,"N. Amer. Native Orchid J. 15: 52 2009",,,,,,wfo-0000914826,5950321,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ce7cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Cleistesiopsis,,,"Pansarin & F.Barros",,2009,,"Kew Bull. 63(3): 444. 2009. (10 Feb 2009)",,Q43191812,,,,77095633-1,wfo-4000008544,3653891,,
+6e8d8106-8fcd-11eb-924d-9cd76263cbd0,species,bifaria,Cleistesiopsis,,"(Fernald) Pansarin & F.Barros",,2008,,"Kew Bull. 63: 446 2008 publ. 2009",,Q43191812,,,,77095634-1,wfo-0000911981,3653892,,
+6e8dbf36-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Cleistesiopsis,,"(L.) Pansarin & F.Barros",,2008,,"Kew Bull. 63: 446 2008 publ. 2009",,Q43191812,,,,77095635-1,wfo-0000911982,3653890,,
+6e8e0f18-8fcd-11eb-924d-9cd76263cbd0,form,leucantha,Cleistesiopsis,divaricata,"(P.M.Br.) P.M.Br.",,2009,,"N. Amer. Native Orchid J. 15: 52 2009",,,,5722e06a-8fcd-11eb-924d-9cd76263cbd0,,60453087-2,wfo-0000911983,5950322,,
+6e8e491a-8fcd-11eb-924d-9cd76263cbd0,species,ochlockneensis,Cleistesiopsis,,P.M.Br.,,2009,,"N. Amer. Native Orchid J. 15: 52 2009",,,,,,60453090-2,wfo-0000911984,8023702,,
+71113346-8fcd-11eb-924d-9cd76263cbd0,species,oricamporum,Cleistesiopsis,,P.M.Br.,,2009,,"N. Amer. Native Orchid J. 15: 52 2009",,,,,,,wfo-0000914826,5950321,,

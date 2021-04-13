@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb74c414-8fd1-11eb-924d-9cd76263cbd0,genus,Trachysperma,,,Raf.,1808,"Med. Repos. 5: 352. 1808.",,,,,,wfo-4000038742,7270632,
-afa5cc52-8fcd-11eb-924d-9cd76263cbd0,species,aquaticum,Trachysperma,,"(J.F.Gmel.) House",1920,"New York State Mus. Bull. 233–234: 65 1920",,,,,255882-2,wfo-0001042909,,
-afa8abfc-8fcd-11eb-924d-9cd76263cbd0,species,grayanum,Trachysperma,,"(Griseb.) House",1920,"New York State Mus. Bull. 233–234: 66 1920",,,,b1f4ef98-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001042931,3845210,
-528494c8-8fcc-11eb-924d-9cd76263cbd0,species,humboldtiana,Trachysperma,,"(Kunth) House",1921,"Bull. New York State Mus. Nat. Hist. 233-234: 66 1921",,,,,255884-2,wfo-0000413857,,
-afa88e9c-8fcd-11eb-924d-9cd76263cbd0,species,lacunosum,Trachysperma,,"(Vent.) House",1920,"New York State Mus. Bull. 233–234: 66 1920",,,,,255885-2,wfo-0001042930,3845180,
-52856d08-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Trachysperma,,Raf.,1808,"Med. Repos. II, 5: 352 1808",,,,,371266-1,wfo-0000413864,3845012,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb74c414-8fd1-11eb-924d-9cd76263cbd0,genus,Trachysperma,,,Raf.,,1808,,"Med. Repos. 5: 352. 1808.",,,,,,,wfo-4000038742,7270632,,
+afa5cc52-8fcd-11eb-924d-9cd76263cbd0,species,aquaticum,Trachysperma,,"(J.F.Gmel.) House",,1920,,"New York State Mus. Bull. 233–234: 65 1920",,,,,,255882-2,wfo-0001042909,,,
+afa8abfc-8fcd-11eb-924d-9cd76263cbd0,species,grayanum,Trachysperma,,"(Griseb.) House",,1920,,"New York State Mus. Bull. 233–234: 66 1920",,,,b1f4ef98-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001042931,3845210,,
+528494c8-8fcc-11eb-924d-9cd76263cbd0,species,humboldtiana,Trachysperma,,"(Kunth) House",,1921,,"Bull. New York State Mus. Nat. Hist. 233-234: 66 1921",,,,,,255884-2,wfo-0000413857,,,
+afa88e9c-8fcd-11eb-924d-9cd76263cbd0,species,lacunosum,Trachysperma,,"(Vent.) House",,1920,,"New York State Mus. Bull. 233–234: 66 1920",,,,,,255885-2,wfo-0001042930,3845180,,
+52856d08-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Trachysperma,,Raf.,,1808,,"Med. Repos. II, 5: 352 1808",,,,,,371266-1,wfo-0000413864,3845012,,

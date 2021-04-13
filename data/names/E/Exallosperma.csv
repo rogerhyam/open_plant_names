@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec43b490-8fd1-11eb-924d-9cd76263cbd0,genus,Exallosperma,,,"De Block",2018,"PhytoKeys 99: 9–10. 2018. (21 May 2018) (PhytoKeys)",,,,,,wfo-4000043010,9817036,
-de784c0e-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Exallosperma,,"De Block",2018,"PhytoKeys 99: 10–15, figs. 2A–C, 4, 5, 9A–D, M. 2018. (21 May 2018) (PhytoKeys)",,,,,,wfo-0001315560,9687868,
-8a884f1c-8fcd-11eb-924d-9cd76263cbd0,species,rhodoclada,Exandra,,Standl.,1923,"J. Wash. Acad. Sci. 13: 292 1923",,,,,102738-2,wfo-0000965858,2894928,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec43b490-8fd1-11eb-924d-9cd76263cbd0,genus,Exallosperma,,,"De Block",,2018,,"PhytoKeys 99: 9–10. 2018. (21 May 2018) (PhytoKeys)",,,,,,,wfo-4000043010,9817036,,
+de784c0e-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Exallosperma,,"De Block",,2018,,"PhytoKeys 99: 10–15, figs. 2A–C, 4, 5, 9A–D, M. 2018. (21 May 2018) (PhytoKeys)",,,,,,,wfo-0001315560,9687868,,
+8a884f1c-8fcd-11eb-924d-9cd76263cbd0,species,rhodoclada,Exandra,,Standl.,,1923,,"J. Wash. Acad. Sci. 13: 292 1923",,Q96058012,,,,102738-2,wfo-0000965858,2894928,,

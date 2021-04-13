@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e601a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Litwinowia,,,Woronow,1931,"Trudy Bot. Sada Akad. Nauk S.S.S.R. 43: 452. 1931.",,,,,12749-1,wfo-4000022012,3040954,
-acb6fb16-8fd1-11eb-924d-9cd76263cbd0,species,tatarica,Litwinowia,,"(Willd.) Woronow",1800,"Sp. Pl. 3: 43 1800",,,,b70f64b8-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001218575,3040956,
-2ab15206-8fcc-11eb-924d-9cd76263cbd0,species,tenuissima,Litwinowia,,"(Pall.) Woronow ex Pavlov",1935,"Fl. Centr. Kazakh. 2: 302 1935",,,,58288f9c-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000358663,3040955,
-4579bfaa-8fcd-11eb-924d-9cd76263cbd0,species,taiwanensis,Liuguishania,,"Z.J.Liu & J.N.Zhang",1998,"J. S. China Agric. Univ. 19(1): 73 1998",,,,,77108745-1,wfo-0000839757,5951555,
-a8fd2478-8fcc-11eb-924d-9cd76263cbd0,species,liukiuensis,,,"(Schltr.) J.M.H.Shaw",,"Orchid Rev. 111(1253): 79 2003",,,,,70029739-1,wfo-0000553346,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e601a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Litwinowia,,,Woronow,,1931,,"Trudy Bot. Sada Akad. Nauk S.S.S.R. 43: 452. 1931.",,,,,,12749-1,wfo-4000022012,3040954,,
+acb6fb16-8fd1-11eb-924d-9cd76263cbd0,species,tatarica,Litwinowia,,"(Willd.) Woronow",,1800,,"Sp. Pl. 3: 43 1800",,,,b70f64b8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001218575,3040956,,
+2ab15206-8fcc-11eb-924d-9cd76263cbd0,species,tenuissima,Litwinowia,,"(Pall.) Woronow ex Pavlov",,1935,,"Fl. Centr. Kazakh. 2: 302 1935",,,,58288f9c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000358663,3040955,,
+4579bfaa-8fcd-11eb-924d-9cd76263cbd0,species,taiwanensis,Liuguishania,,"Z.J.Liu & J.N.Zhang",,1998,,"J. S. China Agric. Univ. 19(1): 73 1998",,,,,,77108745-1,wfo-0000839757,5951555,,
+a8fd2478-8fcc-11eb-924d-9cd76263cbd0,species,liukiuensis,,,"(Schltr.) J.M.H.Shaw",,,,"Orchid Rev. 111(1253): 79 2003",,,,,,70029739-1,wfo-0000553346,,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5180cd4-8fd1-11eb-924d-9cd76263cbd0,genus,Inulaster,,,,,,,,,,,wfo-4000019108,,
-b02089d0-8fb2-11eb-924d-9cd76263cbd0,species,hotschyi,Inulaster,,"Sch.Bip. ex Hochst.",1841,"Flora 25(1): 42 1841",,,,,,wfo-0000031859,6291035,
-19106a9c-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Inulaster,,Sch.Bip.,1841,"in Flora, xxiv. (1841) I. Intell. 42; in Flora, xxv. (1842) I. Beibl. 134 147. xxiv.  I. Intell. 42 1841",,,,,,wfo-0000011143,7403010,
-8b597c9c-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Inulaster,,"Sch.Bip. ex Hochst.",,,,,,,,wfo-0000027658,3146534,
-ac7caaa8-8fb6-11eb-924d-9cd76263cbd0,species,macrophyllus,Inulaster,,Sch.Bip.,1848,"in A. Rich. Tent. Fl. Abyss. i. 399. 1848",,,,,,wfo-0000091957,3148378,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5180cd4-8fd1-11eb-924d-9cd76263cbd0,genus,Inulaster,,,,,,,,,,,,,,wfo-4000019108,,,
+b02089d0-8fb2-11eb-924d-9cd76263cbd0,species,hotschyi,Inulaster,,"Sch.Bip. ex Hochst.",,1841,,"Flora 25(1): 42 1841",,,,,,,wfo-0000031859,6291035,,
+19106a9c-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Inulaster,,Sch.Bip.,,1841,,"in Flora, xxiv. (1841) I. Intell. 42; in Flora, xxv. (1842) I. Beibl. 134 147. xxiv.  I. Intell. 42 1841",,,,,,,wfo-0000011143,7403010,,
+8b597c9c-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Inulaster,,"Sch.Bip. ex Hochst.",,,,,,,,,,,wfo-0000027658,3146534,,
+ac7caaa8-8fb6-11eb-924d-9cd76263cbd0,species,macrophyllus,Inulaster,,Sch.Bip.,,1848,,"in A. Rich. Tent. Fl. Abyss. i. 399. 1848",,,,,,,wfo-0000091957,3148378,,

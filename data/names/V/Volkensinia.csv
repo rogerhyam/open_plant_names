@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebfa77d0-8fd1-11eb-924d-9cd76263cbd0,genus,Volkensinia,,,Schinz,1912,"Vierteljahrsschr. Naturf. Ges. Zürich 57: 535. 1912.",,,,,1315-1,wfo-4000040423,7323720,
-586ce11a-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Volkensinia,,Suess.,1955,"Mitt. Bot. Staatssamml. München 12: 70 1955",,,,,61684-1,wfo-0000421521,3675758,
-b126e732-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Volkensinia,,Schinz,1912,"Vierteljahrsschr. Naturf. Ges. Zürich 57: 535 1912",,,,,61685-1,wfo-0001046261,3675752,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebfa77d0-8fd1-11eb-924d-9cd76263cbd0,genus,Volkensinia,,,Schinz,,1912,,"Vierteljahrsschr. Naturf. Ges. Zürich 57: 535. 1912.",,,,,,1315-1,wfo-4000040423,7323720,,
+586ce11a-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Volkensinia,,Suess.,,1955,,"Mitt. Bot. Staatssamml. München 12: 70 1955",,,,,,61684-1,wfo-0000421521,3675758,,
+b126e732-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Volkensinia,,Schinz,,1912,,"Vierteljahrsschr. Naturf. Ges. Zürich 57: 535 1912",,,,,,61685-1,wfo-0001046261,3675752,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea63efaa-8fd1-11eb-924d-9cd76263cbd0,genus,Silvianthus,,,Hook.f.,1868,"Hooker's Icon. Pl. 11: 36. 1868.",,,,,35352-1,wfo-4000035382,7269630,
-b26a8730-8fd1-11eb-924d-9cd76263cbd0,species,bracteatus,Silvianthus,,Hook.f.,,"Hooker's Icon. Pl. 11: 36, pl. 1048 1868",,,,,766426-1,wfo-0001228972,3838283,
-b877d538-8fd1-11eb-924d-9cd76263cbd0,subspecies,clerodendroides,Silvianthus,bracteatus,"(Airy Shaw) H.W.Li",1991,"Fl. Yunnan. 5: 351, pl. 115, 5 1991",,,,b8779fb4-8fd1-11eb-924d-9cd76263cbd0,966901-1,wfo-0001240107,3838289,
-b87782c2-8fd1-11eb-924d-9cd76263cbd0,subspecies,tonkinensis,Silvianthus,bracteatus,"(Gagnep.) H.W.Li",1995,"Acta Bot. Yunnan. 17(4): 414 1995",,,,,992733-1,wfo-0001240104,3838293,
-b8779fb4-8fd1-11eb-924d-9cd76263cbd0,species,clerodendroides,Silvianthus,,"Airy Shaw",1965,"Kew Bull. 19(3): 507 1965",,,,,150186-1,wfo-0001240105,3838285,
-0d4d5732-8fcc-11eb-924d-9cd76263cbd0,species,radiciflorus,Silvianthus,,C.B.Clarke,1889,"J. Linn. Soc., Bot. 25: 32 1889",,,,,766427-1,wfo-0000311143,3838290,
-b877ba62-8fd1-11eb-924d-9cd76263cbd0,species,tonkinensis,Silvianthus,,"(Gagnep.) Ridsdale",1978,"Blumea 24(1): 42 1978",,,,,150187-1,wfo-0001240106,3838294,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea63efaa-8fd1-11eb-924d-9cd76263cbd0,genus,Silvianthus,,,Hook.f.,,1868,,"Hooker's Icon. Pl. 11: 36. 1868.",,,,,,35352-1,wfo-4000035382,7269630,,
+b26a8730-8fd1-11eb-924d-9cd76263cbd0,species,bracteatus,Silvianthus,,Hook.f.,,,,"Hooker's Icon. Pl. 11: 36, pl. 1048 1868",,,,,,766426-1,wfo-0001228972,3838283,,
+b877d538-8fd1-11eb-924d-9cd76263cbd0,subspecies,clerodendroides,Silvianthus,bracteatus,"(Airy Shaw) H.W.Li",,1991,,"Fl. Yunnan. 5: 351, pl. 115, 5 1991",,,,b8779fb4-8fd1-11eb-924d-9cd76263cbd0,,966901-1,wfo-0001240107,3838289,,
+b87782c2-8fd1-11eb-924d-9cd76263cbd0,subspecies,tonkinensis,Silvianthus,bracteatus,"(Gagnep.) H.W.Li",,1995,,"Acta Bot. Yunnan. 17(4): 414 1995",,,,,,992733-1,wfo-0001240104,3838293,,
+b8779fb4-8fd1-11eb-924d-9cd76263cbd0,species,clerodendroides,Silvianthus,,"Airy Shaw",,1965,,"Kew Bull. 19(3): 507 1965",,Q55779042,,,,150186-1,wfo-0001240105,3838285,,
+0d4d5732-8fcc-11eb-924d-9cd76263cbd0,species,radiciflorus,Silvianthus,,C.B.Clarke,,1889,,"J. Linn. Soc., Bot. 25: 32 1889",,Q55760322,,,,766427-1,wfo-0000311143,3838290,,
+b877ba62-8fd1-11eb-924d-9cd76263cbd0,species,tonkinensis,Silvianthus,,"(Gagnep.) Ridsdale",,1978,,"Blumea 24(1): 42 1978",,Q96027348,,,,150187-1,wfo-0001240106,3838294,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb2dcd98-8fd1-11eb-924d-9cd76263cbd0,genus,Ternstroemiopsis,,,Urb.,1896,"Ber. Deutsch. Bot. Ges. 14: 49. 1896. (26 Feb 1896)",,,,,,wfo-4000037817,7313795,
-ac5275fa-8fcd-11eb-924d-9cd76263cbd0,species,sandwicensis,Ternstroemiopsis,,"(A.Gray) Urb.",1896,"Ber. Deutsch. Bot. Ges. 14: 49 1896",,,,,829678-1,wfo-0001035357,3590135,
-b3ba3608-8fcc-11eb-924d-9cd76263cbd0,species,scirpoidea,Terobera,,Steud.,1855,"Syn. Pl. Glumac. 2: 164 1855",,,,,251488-2,wfo-0000569005,2709637,
-4cd27414-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Terogia,,"(L.) Raf.",1837,"Fl. Tellur. 3: 56 1837",,,,,159566-1,wfo-0000406618,3815908,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb2dcd98-8fd1-11eb-924d-9cd76263cbd0,genus,Ternstroemiopsis,,,Urb.,,1896,,"Ber. Deutsch. Bot. Ges. 14: 49. 1896. (26 Feb 1896)",,,,,,,wfo-4000037817,7313795,,
+ac5275fa-8fcd-11eb-924d-9cd76263cbd0,species,sandwicensis,Ternstroemiopsis,,"(A.Gray) Urb.",,1896,,"Ber. Deutsch. Bot. Ges. 14: 49 1896",,Q102247463,,,,829678-1,wfo-0001035357,3590135,,
+b3ba3608-8fcc-11eb-924d-9cd76263cbd0,species,scirpoidea,Terobera,,Steud.,,1855,,"Syn. Pl. Glumac. 2: 164 1855",,,,,,251488-2,wfo-0000569005,2709637,,
+4cd27414-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Terogia,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 56 1837",,,,,,159566-1,wfo-0000406618,3815908,,

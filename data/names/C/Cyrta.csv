@@ -1,10 +1,11 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2685296-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrta,,,Lour.,1790,"Fl. Cochinch. 278. 1790[1790].",,,,,,wfo-4000010499,3234217,
-db6082d4-8fcc-11eb-924d-9cd76263cbd0,species,agrestis,Cyrta,,Lour.,1790,"Fl. Cochinch. 278 1790",,,,,826334-1,wfo-0000634826,5541465,
-db60aaa2-8fcc-11eb-924d-9cd76263cbd0,species,dealbata,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,826335-1,wfo-0000634827,5541460,
-db60c65e-8fcc-11eb-924d-9cd76263cbd0,species,finlaysoniana,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 278 1859",,,,,826336-1,wfo-0000634828,5541454,
-db60e422-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Cyrta,,"(Siebold & Zucc.) Miers",1859,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,826337-1,wfo-0000634829,5541450,
-db610452-8fcc-11eb-924d-9cd76263cbd0,species,luculenta,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,826338-1,wfo-0000634830,5541445,
-db612496-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 280 1859",,,,,826339-1,wfo-0000634831,5541440,
-db614688-8fcc-11eb-924d-9cd76263cbd0,species,suberifolia,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,826340-1,wfo-0000634832,5541436,
-db617fea-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Cyrta,,Miers,1859,"Ann. Mag. Nat. Hist. III, 3: 280 1859",,,,,826341-1,wfo-0000634834,5541429,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2685296-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrta,,,Lour.,,1790,,"Fl. Cochinch. 278. 1790[1790].",,,,e2685296-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000010499,3234217,7889," "
+db6082d4-8fcc-11eb-924d-9cd76263cbd0,species,agrestis,Cyrta,,Lour.,,1790,,"Fl. Cochinch. 278 1790",,,,,,826334-1,wfo-0000634826,5541465,,
+db60aaa2-8fcc-11eb-924d-9cd76263cbd0,species,dealbata,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,,826335-1,wfo-0000634827,5541460,,
+db60c65e-8fcc-11eb-924d-9cd76263cbd0,species,finlaysoniana,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 278 1859",,,,,,826336-1,wfo-0000634828,5541454,,
+db60e422-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Cyrta,,"(Siebold & Zucc.) Miers",,1859,,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,,826337-1,wfo-0000634829,5541450,,
+2a0247e2-9bad-11eb-a8a2-19ed5c03f8d3,species,licaniae,Cyrta,,"Bat. & H. Maia",,1961,,"Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 322: 15 (1961)",,,,2a0247e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,344920," "
+db610452-8fcc-11eb-924d-9cd76263cbd0,species,luculenta,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,,826338-1,wfo-0000634830,5541445,,
+db612496-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 280 1859",,,,,,826339-1,wfo-0000634831,5541440,,
+db614688-8fcc-11eb-924d-9cd76263cbd0,species,suberifolia,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 279 1859",,,,,,826340-1,wfo-0000634832,5541436,,
+db617fea-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Cyrta,,Miers,,1859,,"Ann. Mag. Nat. Hist. III, 3: 280 1859",,,,,,826341-1,wfo-0000634834,5541429,,

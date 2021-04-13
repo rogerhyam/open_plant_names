@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3e5f524-8fd1-11eb-924d-9cd76263cbd0,genus,Garberia,,,A.Gray,,,,,,,9017-1,wfo-4000015310,3118102,
-52526e84-8fb9-11eb-924d-9cd76263cbd0,species,fruticosa,Garberia,,"(Nutt.) A.Gray",1879,"380 1879",,,,,,wfo-0000117363,3118104,
-d267138c-8fb3-11eb-924d-9cd76263cbd0,species,heterophylla,Garberia,,"(Bartram) Merr. & Harper",1945,"Bartonia 23: 24. 1945.",,,,,107399-2,wfo-0000055188,3118103,
-f235994c-8fb6-11eb-924d-9cd76263cbd0,species,heterophylla,Garberia,,"Merr. & F.Harper",1945,"24 1945",,,,,107399-2,wfo-0000094829,3118103,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3e5f524-8fd1-11eb-924d-9cd76263cbd0,genus,Garberia,,,A.Gray,,,,,,,,,,9017-1,wfo-4000015310,3118102,,
+52526e84-8fb9-11eb-924d-9cd76263cbd0,species,fruticosa,Garberia,,"(Nutt.) A.Gray",,1879,,"380 1879",,,,,,,wfo-0000117363,3118104,,
+f235994c-8fb6-11eb-924d-9cd76263cbd0,species,heterophylla,Garberia,,"Merr. & F.Harper",,1945,,"24 1945",,,,,,107399-2,wfo-0000094829,3118103,,
+d267138c-8fb3-11eb-924d-9cd76263cbd0,species,heterophylla,Garberia,,"(Bartram) Merr. & Harper",,1945,,"Bartonia 23: 24. 1945.",,,,,,107399-2,wfo-0000055188,3118103,,

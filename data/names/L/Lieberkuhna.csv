@@ -1,8 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5e9384a-8fd1-11eb-924d-9cd76263cbd0,genus,Lieberkuhna,,,,,,,,,,,wfo-4000021690,7338212,
-41a2dcfe-8fb4-11eb-924d-9cd76263cbd0,species,bracteata,Lieberkuhna,,Cass.,1823,"in Dict. Sc. Nat. xxvi. 286 (1823).",,,,,,wfo-0000062296,3090198,
-d6474d86-8fb9-11eb-924d-9cd76263cbd0,species,nudipes,Lieberkuhna,,Cass.,1823,"in Dict. Sc. Nat. xxvi. 287 (1823).",,,,,230681-1,wfo-0000121796,4242631,
-03143f8e-8fb2-11eb-924d-9cd76263cbd0,species,piloselloides,Lieberkuhna,,Steud.,1841,"Nomencl. Bot., ed. 2 (Steudel) 2: 726 1841",,,,,230682-1,wfo-0000004508,4242628,
-f9193f56-8fb2-11eb-924d-9cd76263cbd0,species,spathulata,Lieberkuhna,,DC.,1838,"Prodr. (DC.) 7(1): 43 1838",,,,,230683-1,wfo-0000038723,3090283,
-2de89682-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Liebichia,,"(L.) Opiz",1844,"Belehr. Herbarsb. 26 1844",,,,,,wfo-0000364035,4194291,
-2de7cdba-8fcc-11eb-924d-9cd76263cbd0,species,gottsteinii,Liebichia,,Opiz,1844,"Belehr. Herbarsb. 27 1844",,,,,,wfo-0000364028,4194280,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5e9384a-8fd1-11eb-924d-9cd76263cbd0,genus,Lieberkuhna,,,,,,,,,,,,,,wfo-4000021690,7338212,,
+41a2dcfe-8fb4-11eb-924d-9cd76263cbd0,species,bracteata,Lieberkuhna,,Cass.,,1823,,"in Dict. Sc. Nat. xxvi. 286 (1823).",,,,,,,wfo-0000062296,3090198,,
+d6474d86-8fb9-11eb-924d-9cd76263cbd0,species,nudipes,Lieberkuhna,,Cass.,,1823,,"in Dict. Sc. Nat. xxvi. 287 (1823).",,,,,,230681-1,wfo-0000121796,4242631,,
+03143f8e-8fb2-11eb-924d-9cd76263cbd0,species,piloselloides,Lieberkuhna,,Steud.,,1841,,"Nomencl. Bot., ed. 2 (Steudel) 2: 726 1841",,,,,,230682-1,wfo-0000004508,4242628,,
+f9193f56-8fb2-11eb-924d-9cd76263cbd0,species,spathulata,Lieberkuhna,,DC.,,1838,,"Prodr. (DC.) 7(1): 43 1838",,,,,,230683-1,wfo-0000038723,3090283,,

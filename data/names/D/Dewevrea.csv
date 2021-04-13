@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a1ac6c-8fd1-11eb-924d-9cd76263cbd0,genus,Dewevrea,,,Micheli,,,,,,,22235-1,wfo-4000011253,2941151,
-a6a33ace-8fc6-11eb-924d-9cd76263cbd0,species,bilabiata,Dewevrea,,Micheli,,,,,,,,wfo-0000198926,2941152,
-a7798e26-8fc6-11eb-924d-9cd76263cbd0,species,gossweileri,Dewevrea,,"Baker f.",,,,,,,,wfo-0000198936,2941153,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a1ac6c-8fd1-11eb-924d-9cd76263cbd0,genus,Dewevrea,,,Micheli,,,,,,,,,,22235-1,wfo-4000011253,2941151,,
+a6a33ace-8fc6-11eb-924d-9cd76263cbd0,species,bilabiata,Dewevrea,,Micheli,,,,,,,,,,,wfo-0000198926,2941152,,
+a7798e26-8fc6-11eb-924d-9cd76263cbd0,species,gossweileri,Dewevrea,,"Baker f.",,,,,,,,,,,wfo-0000198936,2941153,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d805b4-8fd1-11eb-924d-9cd76263cbd0,genus,Pachyloma,,,DC.,1828,"Prodr. 3: 122. 1828.",,,,,26520-1,wfo-4000027669,3231479,
-c11eff80-8fcd-11eb-924d-9cd76263cbd0,species,coriaceum,Pachyloma,,DC.,1828,"Prodr. 3: 123 1828",,,,,574624-1,wfo-0001082653,3859361,
-bff99b06-8fcd-11eb-924d-9cd76263cbd0,species,huberioides,Pachyloma,,"(Naudin) Triana",1871,"Trans. Linn. Soc. London 28(1): 64 1871",,,,c1deabba-8fd1-11eb-924d-9cd76263cbd0,574625-1,wfo-0001080079,5599445,
-ac683714-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Pachyloma,,"(Hook. & Grev.) Bosch",1861,"Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 11: 318 1861",,,,,,wfo-0001035531,5532882,
-bf47d340-8fd1-11eb-924d-9cd76263cbd0,species,nanum,Pachyloma,,Wurdack,1981,"Phytologia 48(3): 238 1981",,,,,179848-2,wfo-0001252678,5599444,
-c1dec690-8fd1-11eb-924d-9cd76263cbd0,species,pusillum,Pachyloma,,Wurdack,1964,"Mem. New York Bot. Gard. 10(5): 145, f. 66a–c 1964",,,,,179849-2,wfo-0001257657,5599443,
-bff9b500-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Pachyloma,,Ducke,,,,,,,,wfo-0001080080,5599441,
-c0b7a236-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Pachyloma,,Wurdack,1958,"Mem. New York Bot. Gard. 10(1): 107 1958",,,,,179851-2,wfo-0001081755,5599439,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d805b4-8fd1-11eb-924d-9cd76263cbd0,genus,Pachyloma,,,DC.,,1828,,"Prodr. 3: 122. 1828.",,,,,,26520-1,wfo-4000027669,3231479,,
+c11eff80-8fcd-11eb-924d-9cd76263cbd0,species,coriaceum,Pachyloma,,DC.,,1828,,"Prodr. 3: 123 1828",,,,,,574624-1,wfo-0001082653,3859361,,
+bff99b06-8fcd-11eb-924d-9cd76263cbd0,species,huberioides,Pachyloma,,"(Naudin) Triana",,1871,,"Trans. Linn. Soc. London 28(1): 64 1871",,Q55760785,,c1deabba-8fd1-11eb-924d-9cd76263cbd0,,574625-1,wfo-0001080079,5599445,,
+ac683714-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Pachyloma,,"(Hook. & Grev.) Bosch",,1861,,"Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 11: 318 1861",,,,,,,wfo-0001035531,5532882,,
+bf47d340-8fd1-11eb-924d-9cd76263cbd0,species,nanum,Pachyloma,,Wurdack,,1981,,"Phytologia 48(3): 238 1981",,,,,,179848-2,wfo-0001252678,5599444,,
+c1dec690-8fd1-11eb-924d-9cd76263cbd0,species,pusillum,Pachyloma,,Wurdack,,1964,,"Mem. New York Bot. Gard. 10(5): 145, f. 66a–c 1964",,,,,,179849-2,wfo-0001257657,5599443,,
+bff9b500-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Pachyloma,,Ducke,,,,,,,,,,,wfo-0001080080,5599441,,
+c0b7a236-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Pachyloma,,Wurdack,,1958,,"Mem. New York Bot. Gard. 10(1): 107 1958",,,,,,179851-2,wfo-0001081755,5599439,,

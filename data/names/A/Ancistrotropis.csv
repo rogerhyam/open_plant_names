@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df656020-8fd1-11eb-924d-9cd76263cbd0,genus,Ancistrotropis,,,A.Delgado,,,,,,,60457230-2,wfo-4000001930,8264243,
-af879034-8fcd-11eb-924d-9cd76263cbd0,species,arrabidae,Ancistrotropis,,"(Steud.) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,,60457234-2,wfo-0001042672,7590150,
-af87ab96-8fcd-11eb-924d-9cd76263cbd0,species,clitorioides,Ancistrotropis,,"(Mart. ex Benth.) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,,60457235-2,wfo-0001042673,8296291,
-af8a8424-8fcd-11eb-924d-9cd76263cbd0,species,firmula,Ancistrotropis,,"(Mart. ex Benth.) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,,60457270-2,wfo-0001042699,7481673,
-af875a7e-8fcd-11eb-924d-9cd76263cbd0,species,peduncularis,Ancistrotropis,,"(Kunth) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,,60457232-2,wfo-0001042670,7484829,
-af87c84c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Ancistrotropis,,"(Piper) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,,60457236-2,wfo-0001042674,8099189,
-af877432-8fcd-11eb-924d-9cd76263cbd0,species,subhastata,Ancistrotropis,,"(Verdc.) A.Delgado",,"Amer. J. Bot. 98(10): 1704 2011",,,,c3b852ec-8fd1-11eb-924d-9cd76263cbd0,60457233-2,wfo-0001042671,8100701,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df656020-8fd1-11eb-924d-9cd76263cbd0,genus,Ancistrotropis,,,A.Delgado,,,,,,Q34042540,,,,60457230-2,wfo-4000001930,8264243,,
+af879034-8fcd-11eb-924d-9cd76263cbd0,species,arrabidae,Ancistrotropis,,"(Steud.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,,,60457234-2,wfo-0001042672,7590150,,
+af87ab96-8fcd-11eb-924d-9cd76263cbd0,species,clitorioides,Ancistrotropis,,"(Mart. ex Benth.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,,,60457235-2,wfo-0001042673,8296291,,
+af8a8424-8fcd-11eb-924d-9cd76263cbd0,species,firmula,Ancistrotropis,,"(Mart. ex Benth.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,,,60457270-2,wfo-0001042699,7481673,,
+af875a7e-8fcd-11eb-924d-9cd76263cbd0,species,peduncularis,Ancistrotropis,,"(Kunth) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,,,60457232-2,wfo-0001042670,7484829,,
+af87c84c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Ancistrotropis,,"(Piper) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,,,60457236-2,wfo-0001042674,8099189,,
+af877432-8fcd-11eb-924d-9cd76263cbd0,species,subhastata,Ancistrotropis,,"(Verdc.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1704 2011",,Q34042540,,c3b852ec-8fd1-11eb-924d-9cd76263cbd0,,60457233-2,wfo-0001042671,8100701,,

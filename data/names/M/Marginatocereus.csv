@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65e5a6c-8fd1-11eb-924d-9cd76263cbd0,genus,Marginatocereus,,,Backeb.,1941,"Cactaceae (Berlin) 1941(2): 49, 77. 1942.",,,,,,wfo-4000023151,7281745,
-d6cbeed4-8fd1-11eb-924d-9cd76263cbd0,species,marginatus,Marginatocereus,,"(DC.) Backeb.",1942,"Jahrb. Kakt. 49: 77 1942",,,,c52da7f8-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001289477,7281746,
-36cd332a-8fcc-11eb-924d-9cd76263cbd0,variety,oaxacensis,Marginatocereus,marginatus,Backeb.,1963,"Descr. Cact. Nov. 3: 8 1963",,,,,153113-2,wfo-0000378379,3949591,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65e5a6c-8fd1-11eb-924d-9cd76263cbd0,genus,Marginatocereus,,,Backeb.,,1941,,"Cactaceae (Berlin) 1941(2): 49, 77. 1942.",,,,,,,wfo-4000023151,7281745,,
+d6cbeed4-8fd1-11eb-924d-9cd76263cbd0,species,marginatus,Marginatocereus,,"(DC.) Backeb.",,1942,,"Jahrb. Kakt. 49: 77 1942",,,,c52da7f8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001289477,7281746,,
+36cd332a-8fcc-11eb-924d-9cd76263cbd0,variety,oaxacensis,Marginatocereus,marginatus,Backeb.,,1963,,"Descr. Cact. Nov. 3: 8 1963",,,,,,153113-2,wfo-0000378379,3949591,,

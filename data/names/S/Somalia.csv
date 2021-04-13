@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea83bce0-8fd1-11eb-924d-9cd76263cbd0,genus,Somalia,,,,,,,,,,,wfo-4000035747,3233781,
-867fe426-8fcc-11eb-924d-9cd76263cbd0,species,bottae,Somalia,,Baill.,1890,"Bull. Mens. Soc. Linn. Paris 2: 838 1890",,,,,809725-1,wfo-0000495759,8025979,
-86861382-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Somalia,,Oliv.,,"Hooker's Icon. Pl. 16: t. 1528 1886",,,,,,wfo-0000495800,7379578,
-be4776ee-8fd1-11eb-924d-9cd76263cbd0,species,baradii,Somalluma,,"(Lavranos) Plowes",1995,"Haseltonia 3: 57 1995",,,,be4e2fa2-8fcc-11eb-924d-9cd76263cbd0,986771-1,wfo-0001250840,3577605,
-17a00d82-8fcd-11eb-924d-9cd76263cbd0,species,italica,Somera,,"(L.) Salisb.",1866,"Gen. Pl. 27 1866",,,,,541975-1,wfo-0000741978,5304299,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea83bce0-8fd1-11eb-924d-9cd76263cbd0,genus,Somalia,,,,,,,,,,,,,,wfo-4000035747,3233781,,
+867fe426-8fcc-11eb-924d-9cd76263cbd0,species,bottae,Somalia,,Baill.,,1890,,"Bull. Mens. Soc. Linn. Paris 2: 838 1890",,,,,,809725-1,wfo-0000495759,8025979,,
+86861382-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Somalia,,Oliv.,,,,"Hooker's Icon. Pl. 16: t. 1528 1886",,,,,,,wfo-0000495800,7379578,,
+be4776ee-8fd1-11eb-924d-9cd76263cbd0,species,baradii,Somalluma,,"(Lavranos) Plowes",,1995,,"Haseltonia 3: 57 1995",,,,be4e2fa2-8fcc-11eb-924d-9cd76263cbd0,,986771-1,wfo-0001250840,3577605,,

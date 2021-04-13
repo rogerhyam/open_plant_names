@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb0c1cc0-8fd1-11eb-924d-9cd76263cbd0,genus,Systemonodaphne,,,Mez,1889,"Jahrb. Königl. Bot. Gart. Berlin 5: 78. 1889.",,,,,,wfo-4000037373,8086286,
-bbae132e-8fcd-11eb-924d-9cd76263cbd0,species,geminiflora,Systemonodaphne,,"(Meisn.) Mez",1889,"Jahrb. Königl. Bot. Gart. Berlin 5: 79 1889",,,,03596404-8fcd-11eb-924d-9cd76263cbd0,248606-2,wfo-0001070350,4177490,
-bbf13f46-8fcd-11eb-924d-9cd76263cbd0,species,macrantha,Systemonodaphne,,Kosterm.,1954,"Bol. Tecn. Inst. Agron. N. No. 28, 73 1954",,,,,248607-2,wfo-0001070951,4177027,
-bbe849cc-8fcd-11eb-924d-9cd76263cbd0,species,mezii,Systemonodaphne,,Kosterm.,1936,"Recueil Trav. Bot. Néerl. xxxiii. 756, in obs. 1936",,,,,468683-1,wfo-0001070869,4181198,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb0c1cc0-8fd1-11eb-924d-9cd76263cbd0,genus,Systemonodaphne,,,Mez,,1889,,"Jahrb. Königl. Bot. Gart. Berlin 5: 78. 1889.",,,,,,,wfo-4000037373,8086286,,
+bbae132e-8fcd-11eb-924d-9cd76263cbd0,species,geminiflora,Systemonodaphne,,"(Meisn.) Mez",,1889,,"Jahrb. Königl. Bot. Gart. Berlin 5: 79 1889",,,,03596404-8fcd-11eb-924d-9cd76263cbd0,,248606-2,wfo-0001070350,4177490,,
+bbf13f46-8fcd-11eb-924d-9cd76263cbd0,species,macrantha,Systemonodaphne,,Kosterm.,,1954,,"Bol. Tecn. Inst. Agron. N. No. 28, 73 1954",,,,,,248607-2,wfo-0001070951,4177027,,
+bbe849cc-8fcd-11eb-924d-9cd76263cbd0,species,mezii,Systemonodaphne,,Kosterm.,,1936,,"Recueil Trav. Bot. Néerl. xxxiii. 756, in obs. 1936",,Q100726949,,,,468683-1,wfo-0001070869,4181198,,

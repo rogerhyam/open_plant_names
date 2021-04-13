@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a4bcf8-8fd1-11eb-924d-9cd76263cbd0,genus,Exomiocarpon,,,Lawalrée,,,,,,,8910-1,wfo-4000014472,3093373,
-668840f4-8fb9-11eb-924d-9cd76263cbd0,species,madagascariense,Exomiocarpon,,"(Humbert) Lawalrée",1943,"63 1943",,,,,207610-1,wfo-0000118051,3093374,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a4bcf8-8fd1-11eb-924d-9cd76263cbd0,genus,Exomiocarpon,,,Lawalrée,,,,,,Q55775698,,,,8910-1,wfo-4000014472,3093373,,
+668840f4-8fb9-11eb-924d-9cd76263cbd0,species,madagascariense,Exomiocarpon,,"(Humbert) Lawalrée",,1943,,"63 1943",,Q55775698,,,,207610-1,wfo-0000118051,3093374,,

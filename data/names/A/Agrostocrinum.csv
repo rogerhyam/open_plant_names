@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df0314a6-8fd1-11eb-924d-9cd76263cbd0,genus,Agrostocrinum,,,F.Muell.,,,,,,,23946-1,wfo-4000000998,2778244,
-2ec8391c-8fcd-11eb-924d-9cd76263cbd0,species,hirsutum,Agrostocrinum,,"(Lindl.) Keighery",2004,"Nuytsia 15: 250 2004",,,,,77066087-1,wfo-0000791050,2778245,
-1dcad994-8fcd-11eb-924d-9cd76263cbd0,species,scabrum,Agrostocrinum,,"(R.Br.) Baill.",,"Bull. Mens. Soc. Linn. Paris 2: 1119 1893",,,,,527301-1,wfo-0000754994,2778248,
-1dcb0db0-8fcd-11eb-924d-9cd76263cbd0,species,stypandroides,Agrostocrinum,,F.Muell.,1860,"Fragm. 2: 95 1860",,,,,527303-1,wfo-0000754996,2778247,
-47df274e-8fcd-11eb-924d-9cd76263cbd0,species,aristata,Agrostomia,,Cerv.,1870,"Naturaleza (Madrid) 1870: 345 1870",,,,,386540-1,wfo-0000844822,4113834,
-47df43dc-8fcd-11eb-924d-9cd76263cbd0,species,barbata,Agrostomia,,Cerv.,1870,"Naturaleza (Madrid) 1870: 346 1870",,,,,386541-1,wfo-0000844823,4113826,
-47df62f4-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Agrostomia,,Cerv.,1870,"Naturaleza (Madrid) 1870: 345 1870",,,,,386542-1,wfo-0000844824,4113815,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df0314a6-8fd1-11eb-924d-9cd76263cbd0,genus,Agrostocrinum,,,F.Muell.,,,,,,,,,,23946-1,wfo-4000000998,2778244,,
+2ec8391c-8fcd-11eb-924d-9cd76263cbd0,species,hirsutum,Agrostocrinum,,"(Lindl.) Keighery",,2004,,"Nuytsia 15: 250 2004",,,,,,77066087-1,wfo-0000791050,2778245,,
+1dcad994-8fcd-11eb-924d-9cd76263cbd0,species,scabrum,Agrostocrinum,,"(R.Br.) Baill.",,,,"Bull. Mens. Soc. Linn. Paris 2: 1119 1893",,,,,,527301-1,wfo-0000754994,2778248,,
+1dcb0db0-8fcd-11eb-924d-9cd76263cbd0,species,stypandroides,Agrostocrinum,,F.Muell.,,1860,,"Fragm. 2: 95 1860",,,,,,527303-1,wfo-0000754996,2778247,,
+47df274e-8fcd-11eb-924d-9cd76263cbd0,species,aristata,Agrostomia,,Cerv.,,1870,,"Naturaleza (Madrid) 1870: 345 1870",,,,,,386540-1,wfo-0000844822,4113834,,
+47df43dc-8fcd-11eb-924d-9cd76263cbd0,species,barbata,Agrostomia,,Cerv.,,1870,,"Naturaleza (Madrid) 1870: 346 1870",,,,,,386541-1,wfo-0000844823,4113826,,
+47df62f4-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Agrostomia,,Cerv.,,1870,,"Naturaleza (Madrid) 1870: 345 1870",,,,,,386542-1,wfo-0000844824,4113815,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8435b66-8fd1-11eb-924d-9cd76263cbd0,genus,Petaladenium,,,Ducke,,,,,,,295210-2,wfo-4000028885,2962956,
-d5706c9c-8fc0-11eb-924d-9cd76263cbd0,species,urceoliferum,Petaladenium,,Ducke,,,,,,,,wfo-0000168375,2962957,
-44df7a4a-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Petalandra,,Hassk.,1858,"Hort. Bogor. Descr. 104 1858",,,,,,wfo-0000396684,5669187,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8435b66-8fd1-11eb-924d-9cd76263cbd0,genus,Petaladenium,,,Ducke,,,,,,,,,,295210-2,wfo-4000028885,2962956,,
+d5706c9c-8fc0-11eb-924d-9cd76263cbd0,species,urceoliferum,Petaladenium,,Ducke,,,,,,,,,,,wfo-0000168375,2962957,,
+44df7a4a-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Petalandra,,Hassk.,,1858,,"Hort. Bogor. Descr. 104 1858",,,,,,,wfo-0000396684,5669187,,

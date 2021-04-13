@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e78a1476-8fd1-11eb-924d-9cd76263cbd0,genus,Omiltemia,,,Standl.,1918,"J. Wash. Acad. Sci. 8: 427. 1918.",,,,,35022-1,wfo-4000026800,2917728,
-e9f4cc84-8fcb-11eb-924d-9cd76263cbd0,species,filisepala,Omiltemia,,"(Standl.) J.K.Morton",1969,"Baileya 16: 98 1969",,,,33a2f5a0-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000255520,2917729,
-e9f511ee-8fcb-11eb-924d-9cd76263cbd0,species,floribunda,Omiltemia,,"(Standl.) J.H.Kirkbr.",1984,"Syst. Bot. 9: 413 1984",,,,,914311-1,wfo-0000255521,2904978,
-e9f5445c-8fcb-11eb-924d-9cd76263cbd0,species,longipes,Omiltemia,,Standl.,1918,"J. Wash. Acad. Sci. 8: 427 1918",,,,,173817-2,wfo-0000255522,2917732,
-738453b0-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Omiltemia,,"Borhidi & K.Velasco",2010,"Acta Bot. Hung. 52: 36 2010",,,,,,wfo-0000918355,6288844,
-e9f56810-8fcb-11eb-924d-9cd76263cbd0,species,scoti,Omiltemia,,J.H.Kirkbr.,1984,"Syst. Bot. 9: 411 1984",,,,,281581-2,wfo-0000255523,2904982,
-e9f58566-8fcb-11eb-924d-9cd76263cbd0,species,volucris,Ommatodium,,"(L.f.) Lindl.",1838,"Gen. Sp. Orchid. Pl. 365 1838",,,,ec0ddf42-8fcb-11eb-924d-9cd76263cbd0,646808-1,wfo-0000255524,2816775,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e78a1476-8fd1-11eb-924d-9cd76263cbd0,genus,Omiltemia,,,Standl.,,1918,,"J. Wash. Acad. Sci. 8: 427. 1918.",,,,,,35022-1,wfo-4000026800,2917728,,
+e9f4cc84-8fcb-11eb-924d-9cd76263cbd0,species,filisepala,Omiltemia,,"(Standl.) J.K.Morton",,1969,,"Baileya 16: 98 1969",,,,33a2f5a0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000255520,2917729,,
+e9f511ee-8fcb-11eb-924d-9cd76263cbd0,species,floribunda,Omiltemia,,"(Standl.) J.H.Kirkbr.",,1984,,"Syst. Bot. 9: 413 1984",,Q55765375,,,,914311-1,wfo-0000255521,2904978,,
+e9f5445c-8fcb-11eb-924d-9cd76263cbd0,species,longipes,Omiltemia,,Standl.,,1918,,"J. Wash. Acad. Sci. 8: 427 1918",,,,,,173817-2,wfo-0000255522,2917732,,
+738453b0-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Omiltemia,,"Borhidi & K.Velasco",,2010,,"Acta Bot. Hung. 52: 36 2010",,,,,,,wfo-0000918355,6288844,,
+e9f56810-8fcb-11eb-924d-9cd76263cbd0,species,scoti,Omiltemia,,J.H.Kirkbr.,,1984,,"Syst. Bot. 9: 411 1984",,Q55765375,,,,281581-2,wfo-0000255523,2904982,,
+e9f58566-8fcb-11eb-924d-9cd76263cbd0,species,volucris,Ommatodium,,"(L.f.) Lindl.",,1838,,"Gen. Sp. Orchid. Pl. 365 1838",,,,ec0ddf42-8fcb-11eb-924d-9cd76263cbd0,,646808-1,wfo-0000255524,2816775,,

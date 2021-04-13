@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ed113a-8fd1-11eb-924d-9cd76263cbd0,genus,Collandra,,,Lem.,1847,"Fl. Serres Jard. Eur. 3: t. 223. 1847. (May 1847)",,,,,,wfo-4000008928,7268397,
-cf73dc64-8fcc-11eb-924d-9cd76263cbd0,species,atronitens,Collandra,,"G.Don ex Loudon",,"Encycl. Pl. new ed., Suppl. 2: 1402 1855",,,,,378754-1,wfo-0000614759,3823510,
-cf73fc08-8fcc-11eb-924d-9cd76263cbd0,species,aureonitens,Collandra,,Hanst.,1854,"Linnaea 26: 209 1854",,,,,378755-1,wfo-0000614760,,
-cf741a12-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Collandra,,Griseb.,1862,"Fl. Brit. W. I. 463 1862",,,,,378756-1,wfo-0000614761,3823476,
-cf74401e-8fcc-11eb-924d-9cd76263cbd0,species,phoenicea,Collandra,,"G.Don ex Loudon",,"Encycl. Pl. new ed., Suppl. 2: 1402 1855",,,,,378757-1,wfo-0000614762,3823465,
-cf74ada6-8fcc-11eb-924d-9cd76263cbd0,species,picta,Collandra,,Lem.,1852,"Jard. Fleur. 2: t. 214 1852",,,,,378758-1,wfo-0000614763,3823444,
-cf74d448-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Collandra,,Lem.,1847,"Fl. Serres Jard. Eur. 3: t. 223 1847",,,,,378759-1,wfo-0000614764,3823433,
-cf750058-8fcc-11eb-924d-9cd76263cbd0,species,sanguinea,Collandra,,"(Pers.) Griseb.",1863,"Mem. Amer. Acad. Arts n.s., 8: 526 1863",,,,,,wfo-0000614765,3823421,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ed113a-8fd1-11eb-924d-9cd76263cbd0,genus,Collandra,,,Lem.,,1847,,"Fl. Serres Jard. Eur. 3: t. 223. 1847. (May 1847)",,,,,,,wfo-4000008928,7268397,,
+cf73dc64-8fcc-11eb-924d-9cd76263cbd0,species,atronitens,Collandra,,"G.Don ex Loudon",,,,"Encycl. Pl. new ed., Suppl. 2: 1402 1855",,,,,,378754-1,wfo-0000614759,3823510,,
+cf73fc08-8fcc-11eb-924d-9cd76263cbd0,species,aureonitens,Collandra,,Hanst.,,1854,,"Linnaea 26: 209 1854",,,,,,378755-1,wfo-0000614760,,,
+cf741a12-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Collandra,,Griseb.,,1862,,"Fl. Brit. W. I. 463 1862",,,,,,378756-1,wfo-0000614761,3823476,,
+cf74401e-8fcc-11eb-924d-9cd76263cbd0,species,phoenicea,Collandra,,"G.Don ex Loudon",,,,"Encycl. Pl. new ed., Suppl. 2: 1402 1855",,,,,,378757-1,wfo-0000614762,3823465,,
+cf74ada6-8fcc-11eb-924d-9cd76263cbd0,species,picta,Collandra,,Lem.,,1852,,"Jard. Fleur. 2: t. 214 1852",,,,,,378758-1,wfo-0000614763,3823444,,
+cf74d448-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Collandra,,Lem.,,1847,,"Fl. Serres Jard. Eur. 3: t. 223 1847",,,,,,378759-1,wfo-0000614764,3823433,,
+cf750058-8fcc-11eb-924d-9cd76263cbd0,species,sanguinea,Collandra,,"(Pers.) Griseb.",,1863,,"Mem. Amer. Acad. Arts n.s., 8: 526 1863",,,,,,,wfo-0000614765,3823421,,

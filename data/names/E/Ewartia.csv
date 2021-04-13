@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a06bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Ewartia,,,Beauverd,,,,,,,8909-1,wfo-4000014422,3147785,
-499cbb34-8fb2-11eb-924d-9cd76263cbd0,species,catipes,Ewartia,,"(DC.) Beauverd",1910,"238 1910",,,,,113353-3,wfo-0000019094,3147792,
-7eb44ecc-8fb2-11eb-924d-9cd76263cbd0,species,meredithae,Ewartia,,"(F.Muell.) Beauverd",1910,"240 1910",,,,e9d56a90-8fb4-11eb-924d-9cd76263cbd0,113383-3,wfo-0000026164,3147793,
-ffe4585e-8fba-11eb-924d-9cd76263cbd0,species,nubigena,Ewartia,,"(F.Muell.) Beauverd",1910,"239 1910",,,,ff4e9354-8fb1-11eb-924d-9cd76263cbd0,113414-3,wfo-0000131015,3147791,
-b641b53a-8fb4-11eb-924d-9cd76263cbd0,species,planchonii,Ewartia,,"(Hook.f.) Beauverd",1911,"253 1911",,,,,207608-1,wfo-0000068829,3147789,
-aadeef44-8fb6-11eb-924d-9cd76263cbd0,variety,leiocarpa,Ewartia,planchonii,Beauverd,1911,"253 1911",,,,,113475-3,wfo-0000091889,4237623,
-17702a60-8fbc-11eb-924d-9cd76263cbd0,species,sinclairii,Ewartia,,"(Hook.f.) Cheeseman",1925,"980 1925",,,,,207609-1,wfo-0000138806,3147786,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a06bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Ewartia,,,Beauverd,,,,,,,,,,8909-1,wfo-4000014422,3147785,,
+499cbb34-8fb2-11eb-924d-9cd76263cbd0,species,catipes,Ewartia,,"(DC.) Beauverd",,1910,,"238 1910",,,,,,113353-3,wfo-0000019094,3147792,,
+7eb44ecc-8fb2-11eb-924d-9cd76263cbd0,species,meredithae,Ewartia,,"(F.Muell.) Beauverd",,1910,,"240 1910",,,,e9d56a90-8fb4-11eb-924d-9cd76263cbd0,,113383-3,wfo-0000026164,3147793,,
+ffe4585e-8fba-11eb-924d-9cd76263cbd0,species,nubigena,Ewartia,,"(F.Muell.) Beauverd",,1910,,"239 1910",,,,ff4e9354-8fb1-11eb-924d-9cd76263cbd0,,113414-3,wfo-0000131015,3147791,,
+b641b53a-8fb4-11eb-924d-9cd76263cbd0,species,planchonii,Ewartia,,"(Hook.f.) Beauverd",,1911,,"253 1911",,,,,,207608-1,wfo-0000068829,3147789,,
+aadeef44-8fb6-11eb-924d-9cd76263cbd0,variety,leiocarpa,Ewartia,planchonii,Beauverd,,1911,,"253 1911",,,,,,113475-3,wfo-0000091889,4237623,,
+17702a60-8fbc-11eb-924d-9cd76263cbd0,species,sinclairii,Ewartia,,"(Hook.f.) Cheeseman",,1925,,"980 1925",,,,,,207609-1,wfo-0000138806,3147786,,

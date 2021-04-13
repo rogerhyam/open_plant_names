@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0650570-8fd1-11eb-924d-9cd76263cbd0,genus,Boutiquea,,,"Le Thomas",1966,"Adansonia, n.s. 5(4): 531. 1966.",,,,,1983-1,wfo-4000005140,3156176,
-b469d4a0-8fcc-11eb-924d-9cd76263cbd0,species,platypetala,Boutiquea,,"(Engl. & Diels) Le Thomas",1965,"Adansonia n.s., 5: 532 1965",,,,b9e4aec2-8fcd-11eb-924d-9cd76263cbd0,72570-1,wfo-0000570055,3156177,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0650570-8fd1-11eb-924d-9cd76263cbd0,genus,Boutiquea,,,"Le Thomas",,1966,,"Adansonia, n.s. 5(4): 531. 1966.",,Q58837711,,,,1983-1,wfo-4000005140,3156176,,
+b469d4a0-8fcc-11eb-924d-9cd76263cbd0,species,platypetala,Boutiquea,,"(Engl. & Diels) Le Thomas",,1965,,"Adansonia n.s., 5: 532 1965",,Q58837711,,b9e4aec2-8fcd-11eb-924d-9cd76263cbd0,,72570-1,wfo-0000570055,3156177,,

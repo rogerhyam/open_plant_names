@@ -1,11 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e128eed6-8fd1-11eb-924d-9cd76263cbd0,genus,Cancriniella,,,Tzvelev,,,,,,,8081-1,wfo-4000006524,3101329,
-147b5c26-8fb2-11eb-924d-9cd76263cbd0,species,krascheninnikovii,Cancriniella,,"(Rubtzov) Tzvelev",1961,1961,,,,234e793e-8fb4-11eb-924d-9cd76263cbd0,,wfo-0000010109,3101330,
-30cb7fda-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Candarum,,Schott,1832,"Melet. Bot. 17 1832",,,,,86530-1,wfo-0000795561,2871555,
-30cd871c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Candarum,,Schott,1832,"Melet. Bot. 17 1832",,,,,86531-1,wfo-0000795573,2871546,
-30cf1e42-8fcd-11eb-924d-9cd76263cbd0,species,rumphii,Candarum,,Schott,1832,"Melet. Bot. 17 1832",,,,,86532-1,wfo-0000795584,2871542,
-30d104dc-8fcd-11eb-924d-9cd76263cbd0,species,micrantha,Candelabria,,Hochst.,1843,"Flora 26: 79 1843",,,,,340356-1,wfo-0000795602,3076145,
-30d2351e-8fcd-11eb-924d-9cd76263cbd0,species,polystachya,Candelabria,,"(Hook.f. ex Planch.) Planch.",1854,"Ann. Sci. Nat., Bot. IV, 2: 264 1854",,,,,340357-1,wfo-0000795613,3081758,
-24a55616-8fbb-11eb-924d-9cd76263cbd0,species,grantii,Candidea,,Stapf,1923,"Bot. Mag. 149 1923",,,,,,wfo-0000132050,4215368,
-7ca0f20c-8fb2-11eb-924d-9cd76263cbd0,species,senegalensis,Candidea,,Ten.,1839,"104 1839",,,,,188279-1,wfo-0000025927,3123991,
-1a035b88-8fb9-11eb-924d-9cd76263cbd0,species,stenostegia,Candidea,,Stapf,1923,"Bot. Mag. 149 1923",,,,,,wfo-0000115417,3123909,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e128eed6-8fd1-11eb-924d-9cd76263cbd0,genus,Cancriniella,,,Tzvelev,,,,,,,,,,8081-1,wfo-4000006524,3101329,,
+147b5c26-8fb2-11eb-924d-9cd76263cbd0,species,krascheninnikovii,Cancriniella,,"(Rubtzov) Tzvelev",,1961,,1961,,,,234e793e-8fb4-11eb-924d-9cd76263cbd0,,,wfo-0000010109,3101330,,
+30cb7fda-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Candarum,,Schott,,1832,,"Melet. Bot. 17 1832",,,,,,86530-1,wfo-0000795561,2871555,,
+30cd871c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Candarum,,Schott,,1832,,"Melet. Bot. 17 1832",,,,,,86531-1,wfo-0000795573,2871546,,
+30cf1e42-8fcd-11eb-924d-9cd76263cbd0,species,rumphii,Candarum,,Schott,,1832,,"Melet. Bot. 17 1832",,,,,,86532-1,wfo-0000795584,2871542,,

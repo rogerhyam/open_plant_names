@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae3f81c-8fd1-11eb-924d-9cd76263cbd0,genus,Streptopetalum,,,Hochst.,1841,"Flora 24: 665. 1841.",,,,,39589-1,wfo-4000036861,7303753,
-89d623a6-8fcc-11eb-924d-9cd76263cbd0,species,arenarium,Streptopetalum,,Thulin,1990,"Nordic J. Bot. 10: 277 1990",,,,,940202-1,wfo-0000501080,4161150,
-dce6ee58-8fcd-11eb-924d-9cd76263cbd0,species,graminifolium,Streptopetalum,,Urb.,1895,"Notizbl. Bot. Gart. Berlin-Dahlem 1: 31 1895",,,,,836502-1,wfo-0001143108,4161140,
-dce70b2c-8fcd-11eb-924d-9cd76263cbd0,species,hildebrandtii,Streptopetalum,,Urb.,1883,"Jahrb. Königl. Bot. Gart. Berlin 2: 57 1883",,,,,836503-1,wfo-0001143109,4161129,
-89d60880-8fcc-11eb-924d-9cd76263cbd0,species,luteoglandulosum,Streptopetalum,,R.Fern.,1975,"Bol. Soc. Brot. II, 49: 25 1975",,,,,836504-1,wfo-0000501079,4161121,
-dce2730a-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Streptopetalum,,Hochst.,1841,"Flora 24: 666 1841",,,,,836505-1,wfo-0001143070,4161112,
-89d5eca6-8fcc-11eb-924d-9cd76263cbd0,species,wittei,Streptopetalum,,Staner,1932,"Contr. Fl. Katanga Suppl. 4: 68 1932",,,,,836506-1,wfo-0000501078,4161100,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae3f81c-8fd1-11eb-924d-9cd76263cbd0,genus,Streptopetalum,,,Hochst.,,1841,,"Flora 24: 665. 1841.",,,,,,39589-1,wfo-4000036861,7303753,,
+89d623a6-8fcc-11eb-924d-9cd76263cbd0,species,arenarium,Streptopetalum,,Thulin,,1990,,"Nordic J. Bot. 10: 277 1990",,Q55761448,,,,940202-1,wfo-0000501080,4161150,,
+dce6ee58-8fcd-11eb-924d-9cd76263cbd0,species,graminifolium,Streptopetalum,,Urb.,,1895,,"Notizbl. Bot. Gart. Berlin-Dahlem 1: 31 1895",,,,,,836502-1,wfo-0001143108,4161140,,
+dce70b2c-8fcd-11eb-924d-9cd76263cbd0,species,hildebrandtii,Streptopetalum,,Urb.,,1883,,"Jahrb. Königl. Bot. Gart. Berlin 2: 57 1883",,,,,,836503-1,wfo-0001143109,4161129,,
+89d60880-8fcc-11eb-924d-9cd76263cbd0,species,luteoglandulosum,Streptopetalum,,R.Fern.,,1975,,"Bol. Soc. Brot. II, 49: 25 1975",,,,,,836504-1,wfo-0000501079,4161121,,
+dce2730a-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Streptopetalum,,Hochst.,,1841,,"Flora 24: 666 1841",,,,,,836505-1,wfo-0001143070,4161112,,
+89d5eca6-8fcc-11eb-924d-9cd76263cbd0,species,wittei,Streptopetalum,,Staner,,1932,,"Contr. Fl. Katanga Suppl. 4: 68 1932",,,,,,836506-1,wfo-0000501078,4161100,,

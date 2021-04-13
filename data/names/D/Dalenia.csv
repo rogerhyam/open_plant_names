@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2777910-8fd1-11eb-924d-9cd76263cbd0,genus,Dalenia,,,"P.W.Korthals in Temminck",1844,"Verh. Natuurl. Gesch. Ned. Overz. Bezitt., Bot. Kruidk. 243. 1844.",,,,,,wfo-4000010684,7273230,
-546fbbee-8fbf-11eb-924d-9cd76263cbd0,species,beccariana,Dalenia,,"Ridl. ex Nayar",1966,"Kew Bull. xx. 157 (1966)",,,,,568143-1,wfo-0000159316,,
-547a6dbe-8fbf-11eb-924d-9cd76263cbd0,species,furfuracea,Dalenia,,Ridl.,1946,"Kew Bull. 1946, 33 (1946).",,,,,568144-1,wfo-0000159317,3870749,
-5484f19e-8fbf-11eb-924d-9cd76263cbd0,species,korthalsii,Dalenia,,Blume,1849,"Mus. Bot. 1(3): 39 1849 [Apr 1849 publ. Nov 1849]",,,,,568145-1,wfo-0000159318,3870741,
-548f9a90-8fbf-11eb-924d-9cd76263cbd0,species,pubescens,Dalenia,,Merr.,1922,"J. Straits Branch Roy. Asiat. Soc. 86: 338 1922 [Nov 1922]",,,,,568146-1,wfo-0000159319,3870733,
-549ab5f6-8fbf-11eb-924d-9cd76263cbd0,species,pulchra,Dalenia,,Korth.,,"Verh. Nat. Gesch. t. 58",,,,,568147-1,wfo-0000159320,3870725,
-54a57c66-8fbf-11eb-924d-9cd76263cbd0,species,speciosa,Dalenia,,Korth.,,"Verh. Nat. Gesch. t. 244",,,,,568148-1,wfo-0000159321,3870713,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2777910-8fd1-11eb-924d-9cd76263cbd0,genus,Dalenia,,,"P.W.Korthals in Temminck",,1844,,"Verh. Natuurl. Gesch. Ned. Overz. Bezitt., Bot. Kruidk. 243. 1844.",,,,,,,wfo-4000010684,7273230,,
+546fbbee-8fbf-11eb-924d-9cd76263cbd0,species,beccariana,Dalenia,,"Ridl. ex Nayar",,1966,,"Kew Bull. xx. 157 (1966)",,Q55778945,,,,568143-1,wfo-0000159316,,,
+547a6dbe-8fbf-11eb-924d-9cd76263cbd0,species,furfuracea,Dalenia,,Ridl.,,1946,,"Kew Bull. 1946, 33 (1946).",,Q43263462,,,,568144-1,wfo-0000159317,3870749,,
+5484f19e-8fbf-11eb-924d-9cd76263cbd0,species,korthalsii,Dalenia,,Blume,,1849,,"Mus. Bot. 1(3): 39 1849 [Apr 1849 publ. Nov 1849]",,,,,,568145-1,wfo-0000159318,3870741,,
+548f9a90-8fbf-11eb-924d-9cd76263cbd0,species,pubescens,Dalenia,,Merr.,,1922,,"J. Straits Branch Roy. Asiat. Soc. 86: 338 1922 [Nov 1922]",,Q99658365,,,,568146-1,wfo-0000159319,3870733,,
+549ab5f6-8fbf-11eb-924d-9cd76263cbd0,species,pulchra,Dalenia,,Korth.,,,,"Verh. Nat. Gesch. t. 58",,,,,,568147-1,wfo-0000159320,3870725,,
+54a57c66-8fbf-11eb-924d-9cd76263cbd0,species,speciosa,Dalenia,,Korth.,,,,"Verh. Nat. Gesch. t. 244",,,,,,568148-1,wfo-0000159321,3870713,,

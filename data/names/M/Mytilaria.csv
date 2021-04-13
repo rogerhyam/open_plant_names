@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e70a0704-8fd1-11eb-924d-9cd76263cbd0,genus,Mytilaria,,,Lecomte,1924,"Bull. Mus. Hist. Nat. (Paris) 30: 504. 1924.",,,,,19606-1,wfo-4000025235,7329055,
-b980666a-8fcd-11eb-924d-9cd76263cbd0,species,laosensis,Mytilaria,,Lecomte,1924,"Bull. Mus. Hist. Nat. (Paris) 30(6): 505–507, f. 1–5 1924",,,,,,wfo-0001065278,3702532,
-6dad4222-8fcc-11eb-924d-9cd76263cbd0,species,costulatus,Mytilicoccus,,Miq.,1859,"Fl. Ned. Ind. 1(2): 288 1859",,,,,774461-1,wfo-0000453258,3836642,
-6dad622a-8fcc-11eb-924d-9cd76263cbd0,species,grandifolius,Mytilicoccus,,Miq.,1859,"Fl. Ned. Ind. 1(2): 288 1859",,,,,774462-1,wfo-0000453259,3836633,
-6dabbc5e-8fcc-11eb-924d-9cd76263cbd0,species,quercifolius,Mytilicoccus,,Zoll.,1857,"Natuurk. Tijdschr. Ned.-Indië 14: 173 1857",,,,,774463-1,wfo-0000453246,3836623,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e70a0704-8fd1-11eb-924d-9cd76263cbd0,genus,Mytilaria,,,Lecomte,,1924,,"Bull. Mus. Hist. Nat. (Paris) 30: 504. 1924.",,,,,,19606-1,wfo-4000025235,7329055,,
+b980666a-8fcd-11eb-924d-9cd76263cbd0,species,laosensis,Mytilaria,,Lecomte,,1924,,"Bull. Mus. Hist. Nat. (Paris) 30(6): 505–507, f. 1–5 1924",,,,,,,wfo-0001065278,3702532,,
+6dad4222-8fcc-11eb-924d-9cd76263cbd0,species,costulatus,Mytilicoccus,,Miq.,,1859,,"Fl. Ned. Ind. 1(2): 288 1859",,,,,,774461-1,wfo-0000453258,3836642,,
+6dad622a-8fcc-11eb-924d-9cd76263cbd0,species,grandifolius,Mytilicoccus,,Miq.,,1859,,"Fl. Ned. Ind. 1(2): 288 1859",,,,,,774462-1,wfo-0000453259,3836633,,
+6dabbc5e-8fcc-11eb-924d-9cd76263cbd0,species,quercifolius,Mytilicoccus,,Zoll.,,1857,,"Natuurk. Tijdschr. Ned.-Indië 14: 173 1857",,,,,,774463-1,wfo-0000453246,3836623,,

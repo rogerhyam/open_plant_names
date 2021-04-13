@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5a39a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Lecananthus,,,Jack,1822,"Malayan Misc. 2(7): 83. 1822.",,,,,34818-1,wfo-4000020821,2892069,
-d8c67174-8fcb-11eb-924d-9cd76263cbd0,species,erubescens,Lecananthus,,Jack,1822,"Malayan Misc. 2(7): 83 1822",,,,,755219-1,wfo-0000224287,2892072,
-d8c69690-8fcb-11eb-924d-9cd76263cbd0,species,fuscescens,Lecananthus,,Valeton,1910,"Bot. Jahrb. Syst. 44: 552 1910",,,,,755220-1,wfo-0000224288,2892074,
-d8c6b346-8fcb-11eb-924d-9cd76263cbd0,species,peduncularis,Lecananthus,,Puff,1998,"Blumea 43: 343 1998",,,,,1004278-1,wfo-0000224289,2892075,
-d8c6cf3e-8fcb-11eb-924d-9cd76263cbd0,species,pentander,Lecananthus,,"(Merr.) Puff",1998,"Blumea 43: 343 1998",,,,,1004277-1,wfo-0000224290,2892070,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5a39a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Lecananthus,,,Jack,,1822,,"Malayan Misc. 2(7): 83. 1822.",,,,,,34818-1,wfo-4000020821,2892069,,
+d8c67174-8fcb-11eb-924d-9cd76263cbd0,species,erubescens,Lecananthus,,Jack,,1822,,"Malayan Misc. 2(7): 83 1822",,,,,,755219-1,wfo-0000224287,2892072,,
+d8c69690-8fcb-11eb-924d-9cd76263cbd0,species,fuscescens,Lecananthus,,Valeton,,1910,,"Bot. Jahrb. Syst. 44: 552 1910",,,,,,755220-1,wfo-0000224288,2892074,,
+d8c6b346-8fcb-11eb-924d-9cd76263cbd0,species,peduncularis,Lecananthus,,Puff,,1998,,"Blumea 43: 343 1998",,Q96030444,,,,1004278-1,wfo-0000224289,2892075,,
+d8c6cf3e-8fcb-11eb-924d-9cd76263cbd0,species,pentander,Lecananthus,,"(Merr.) Puff",,1998,,"Blumea 43: 343 1998",,Q96030444,,,,1004277-1,wfo-0000224290,2892070,,

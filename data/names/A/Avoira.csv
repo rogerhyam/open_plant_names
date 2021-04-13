@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dffb657a-8fd1-11eb-924d-9cd76263cbd0,genus,Avoira,,,Giseke,1792,"Prael. Ord. Nat. 38, 53. 1792.",,,,,,wfo-4000003777,7314204,
-083517bc-8fcc-11eb-924d-9cd76263cbd0,species,conanam,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664483-1,wfo-0000303445,3593615,
-0836bea0-8fcc-11eb-924d-9cd76263cbd0,species,nodosa,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664484-1,wfo-0000303456,3593612,
-0837f734-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664485-1,wfo-0000303467,3593609,
-0839c974-8fcc-11eb-924d-9cd76263cbd0,species,sylvestris,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664486-1,wfo-0000303478,3593602,
-083b64be-8fcc-11eb-924d-9cd76263cbd0,species,uliginosa,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664487-1,wfo-0000303489,3593599,
-083c9762-8fcc-11eb-924d-9cd76263cbd0,species,vulgaris,Avoira,,Giseke,1792,"Prael. Ord. Nat. Pl. 38 1792",,,,,664488-1,wfo-0000303500,3593595,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dffb657a-8fd1-11eb-924d-9cd76263cbd0,genus,Avoira,,,Giseke,,1792,,"Prael. Ord. Nat. 38, 53. 1792.",,,,,,,wfo-4000003777,7314204,,
+083517bc-8fcc-11eb-924d-9cd76263cbd0,species,conanam,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664483-1,wfo-0000303445,3593615,,
+0836bea0-8fcc-11eb-924d-9cd76263cbd0,species,nodosa,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664484-1,wfo-0000303456,3593612,,
+0837f734-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664485-1,wfo-0000303467,3593609,,
+0839c974-8fcc-11eb-924d-9cd76263cbd0,species,sylvestris,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664486-1,wfo-0000303478,3593602,,
+083b64be-8fcc-11eb-924d-9cd76263cbd0,species,uliginosa,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664487-1,wfo-0000303489,3593599,,
+083c9762-8fcc-11eb-924d-9cd76263cbd0,species,vulgaris,Avoira,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 38 1792",,,,,,664488-1,wfo-0000303500,3593595,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1117800-8fd1-11eb-924d-9cd76263cbd0,genus,Calycomorphum,,,,,,,,,,,wfo-4000006245,7301824,
-bb6282e8-8fcc-11eb-924d-9cd76263cbd0,species,chlorotrichum,Calycomorphum,,"(Boiss. & Balansa) Soják",1979,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,5100b9f6-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000581879,3968343,
-b6032c70-8fcd-11eb-924d-9cd76263cbd0,species,globosum,Calycomorphum,,"(L.) C.Presl",1830,"Symb. Bot. 1: 50 1830",,,,a55e8fd0-8fc9-11eb-924d-9cd76263cbd0,483480-1,wfo-0001057323,3968338,
-bb62a138-8fcc-11eb-924d-9cd76263cbd0,species,meduseum,Calycomorphum,,"(Blanche ex Boiss.) Soják",1979,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,b517ed8c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000581880,3968335,
-bb62bbdc-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorum,Calycomorphum,,"(d'Urv.) Soják",1979,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,a6db9768-8fc9-11eb-924d-9cd76263cbd0,,wfo-0000581881,3968331,
-bb62f6a6-8fcc-11eb-924d-9cd76263cbd0,species,pilulare,Calycomorphum,,"(Boiss.) Soják",1979,"?as. Nár. Mus., Odd. P?ír. 148: 78 1979 publ. 1980",,,,8199862c-8fc4-11eb-924d-9cd76263cbd0,483483-1,wfo-0000581883,3968327,
-0810dff0-8fc7-11eb-924d-9cd76263cbd0,species,subterraneum,Calycomorphum,,"(L.) C.Presl",,,,,,77b56ed2-8fc9-11eb-924d-9cd76263cbd0,,wfo-0000200727,2974052,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1117800-8fd1-11eb-924d-9cd76263cbd0,genus,Calycomorphum,,,,,,,,,,,,,,wfo-4000006245,7301824,,
+bb6282e8-8fcc-11eb-924d-9cd76263cbd0,species,chlorotrichum,Calycomorphum,,"(Boiss. & Balansa) Soják",,1979,,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,5100b9f6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000581879,3968343,,
+b6032c70-8fcd-11eb-924d-9cd76263cbd0,species,globosum,Calycomorphum,,"(L.) C.Presl",,1830,,"Symb. Bot. 1: 50 1830",,,,a55e8fd0-8fc9-11eb-924d-9cd76263cbd0,,483480-1,wfo-0001057323,3968338,,
+bb62a138-8fcc-11eb-924d-9cd76263cbd0,species,meduseum,Calycomorphum,,"(Blanche ex Boiss.) Soják",,1979,,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,b517ed8c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000581880,3968335,,
+bb62bbdc-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorum,Calycomorphum,,"(d'Urv.) Soják",,1979,,"?as. Nár. Mus., Odd. P?ír. 148: 79 1979 publ. 1980",,,,a6db9768-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000581881,3968331,,
+bb62f6a6-8fcc-11eb-924d-9cd76263cbd0,species,pilulare,Calycomorphum,,"(Boiss.) Soják",,1979,,"?as. Nár. Mus., Odd. P?ír. 148: 78 1979 publ. 1980",,,,8199862c-8fc4-11eb-924d-9cd76263cbd0,,483483-1,wfo-0000581883,3968327,,
+0810dff0-8fc7-11eb-924d-9cd76263cbd0,species,subterraneum,Calycomorphum,,"(L.) C.Presl",,,,,,,,77b56ed2-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000200727,2974052,,

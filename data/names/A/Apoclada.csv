@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df9e58e4-8fd1-11eb-924d-9cd76263cbd0,genus,Apoclada,,,McClure,1967,"Fl. Il. Catarin. 1(GRAM–Supl.): 57–59. 1967. (30 Dec 1967)",,,,,296945-2,wfo-4000002703,4132081,
-4979ab06-8fcd-11eb-924d-9cd76263cbd0,species,arenicola,Apoclada,,McClure,1973,"Smithsonian Contr. Bot. 9: 9 1973",,,,,16493-2,wfo-0000848335,4132136,
-4979c852-8fcd-11eb-924d-9cd76263cbd0,species,cannavieira,Apoclada,,"(Alvaro da Silveira) McClure",1973,"Smithsonian Contr. Bot. 9: 12 1973",,,,,16494-2,wfo-0000848336,4132117,
-497a03c6-8fcd-11eb-924d-9cd76263cbd0,species,diversa,Apoclada,,McClure,1967,"in Fl. Ilustr. Catar. 1(Gramin., Supl. Bambus.): 62 1967",,,,,,wfo-0000848338,4132100,
-497a227a-8fcd-11eb-924d-9cd76263cbd0,species,simplex,Apoclada,,"McClure & L.B.Sm.",1967,"in Fl. Ilustr. Catar. 1(Gramin., Supl. Bambus.): 59 1967",,,,,16496-2,wfo-0000848339,4132080,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df9e58e4-8fd1-11eb-924d-9cd76263cbd0,genus,Apoclada,,,McClure,,1967,,"Fl. Il. Catarin. 1(GRAM–Supl.): 57–59. 1967. (30 Dec 1967)",,,,,,296945-2,wfo-4000002703,4132081,,
+4979ab06-8fcd-11eb-924d-9cd76263cbd0,species,arenicola,Apoclada,,McClure,,1973,,"Smithsonian Contr. Bot. 9: 9 1973",,Q55809349,,,,16493-2,wfo-0000848335,4132136,,
+4979c852-8fcd-11eb-924d-9cd76263cbd0,species,cannavieira,Apoclada,,"(Alvaro da Silveira) McClure",,1973,,"Smithsonian Contr. Bot. 9: 12 1973",,Q55809349,,,,16494-2,wfo-0000848336,4132117,,
+497a03c6-8fcd-11eb-924d-9cd76263cbd0,species,diversa,Apoclada,,McClure,,1967,,"in Fl. Ilustr. Catar. 1(Gramin., Supl. Bambus.): 62 1967",,,,,,,wfo-0000848338,4132100,,
+497a227a-8fcd-11eb-924d-9cd76263cbd0,species,simplex,Apoclada,,"McClure & L.B.Sm.",,1967,,"in Fl. Ilustr. Catar. 1(Gramin., Supl. Bambus.): 59 1967",,,,,,16496-2,wfo-0000848339,4132080,,

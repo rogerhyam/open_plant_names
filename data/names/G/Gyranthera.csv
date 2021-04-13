@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e44ec9fa-8fd1-11eb-924d-9cd76263cbd0,genus,Gyranthera,,,Pittier,1914,"Repert. Spec. Nov. Regni Veg. 13: 318. 1914. (5 May 1914)",,,,,30323777-2,wfo-4000016604,7296137,
-08d24234-8fcd-11eb-924d-9cd76263cbd0,species,caribensis,Gyranthera,,Pittier,1921,"Contr. Fl. Venez. 18 1921",,,,,116045-2,wfo-0000713844,4073212,
-08d25db4-8fcd-11eb-924d-9cd76263cbd0,species,darienensis,Gyranthera,,Pittier,1914,"Repert. Spec. Nov. Regni Veg. 13: 318 1914",,,,,116046-2,wfo-0000713845,4073203,
-24e0ba32-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Gyrenia,,"(Cav.) Knowles & Westc. ex Loudon",1839,"Hort. Brit. Suppl. 2: 639 1839",,,,,535967-1,wfo-0000769301,2771055,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e44ec9fa-8fd1-11eb-924d-9cd76263cbd0,genus,Gyranthera,,,Pittier,,1914,,"Repert. Spec. Nov. Regni Veg. 13: 318. 1914. (5 May 1914)",,,,,,30323777-2,wfo-4000016604,7296137,,
+08d24234-8fcd-11eb-924d-9cd76263cbd0,species,caribensis,Gyranthera,,Pittier,,1921,,"Contr. Fl. Venez. 18 1921",,,,,,116045-2,wfo-0000713844,4073212,,
+08d25db4-8fcd-11eb-924d-9cd76263cbd0,species,darienensis,Gyranthera,,Pittier,,1914,,"Repert. Spec. Nov. Regni Veg. 13: 318 1914",,Q55752948,,,,116046-2,wfo-0000713845,4073203,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92094b8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodistichium,,,Cardot,1905,"Rev. Bryol. 32: 45. 1905.",,,,,,wfo-4000031502,4889518,
-e9d02152-8fcd-11eb-924d-9cd76263cbd0,species,atlanticum,Pseudodistichium,,Dixon,1937,"Ann. Bryol. 9: 139 1937",,,,,,wfo-0001171003,7599295,
-e9d03df4-8fcd-11eb-924d-9cd76263cbd0,species,austrogeorgicum,Pseudodistichium,,Cardot,1905,"Rev. Bryol. 32: 45 1905",,,,,,wfo-0001171004,8008442,
-e9d05b36-8fcd-11eb-924d-9cd76263cbd0,variety,longifolium,Pseudodistichium,austrogeorgicum,Broth.,1923,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 63(10): 18 1923",,,,,,wfo-0001171005,8000703,
-e9d07882-8fcd-11eb-924d-9cd76263cbd0,species,brotherusii,Pseudodistichium,,"(R.Br.bis) Dixon",1923,"New Zealand Inst. Bull. 3(3): 54. 5 f. 11 1923",,,,,,wfo-0001171006,7795332,
-e9d095d8-8fcd-11eb-924d-9cd76263cbd0,species,buchananii,Pseudodistichium,,"(R.Br.bis) Dixon",1923,"New Zealand Inst. Bull. 3(3): 53 1923",,,,,,wfo-0001171007,7703110,
-e9d0b1d0-8fcd-11eb-924d-9cd76263cbd0,species,fuegianum,Pseudodistichium,,Roiv.,1937,"Ann. Bot. Soc. Zool.-Bot. Fenn. ""Vanamo"" 9(2): 24. 12 1937",,,,,,wfo-0001171008,7826751,
-e9d0cc1a-8fcd-11eb-924d-9cd76263cbd0,species,taitaoense,Pseudodistichium,,J.Froehl.,1953,"Ann. Naturhist. Mus. Wien 59: 117 1953",,,,,,wfo-0001171009,8145570,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92094b8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodistichium,,,Cardot,,1905,,"Rev. Bryol. 32: 45. 1905.",,,,,,,wfo-4000031502,4889518,,
+e9d02152-8fcd-11eb-924d-9cd76263cbd0,species,atlanticum,Pseudodistichium,,Dixon,,1937,,"Ann. Bryol. 9: 139 1937",,,,,,,wfo-0001171003,7599295,,
+e9d03df4-8fcd-11eb-924d-9cd76263cbd0,species,austrogeorgicum,Pseudodistichium,,Cardot,,1905,,"Rev. Bryol. 32: 45 1905",,,,,,,wfo-0001171004,8008442,,
+e9d05b36-8fcd-11eb-924d-9cd76263cbd0,variety,longifolium,Pseudodistichium,austrogeorgicum,Broth.,,1923,,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 63(10): 18 1923",,,,,,,wfo-0001171005,8000703,,
+e9d07882-8fcd-11eb-924d-9cd76263cbd0,species,brotherusii,Pseudodistichium,,"(R.Br.bis) Dixon",,1923,,"New Zealand Inst. Bull. 3(3): 54. 5 f. 11 1923",,,,,,,wfo-0001171006,7795332,,
+e9d095d8-8fcd-11eb-924d-9cd76263cbd0,species,buchananii,Pseudodistichium,,"(R.Br.bis) Dixon",,1923,,"New Zealand Inst. Bull. 3(3): 53 1923",,,,,,,wfo-0001171007,7703110,,
+e9d0b1d0-8fcd-11eb-924d-9cd76263cbd0,species,fuegianum,Pseudodistichium,,Roiv.,,1937,,"Ann. Bot. Soc. Zool.-Bot. Fenn. ""Vanamo"" 9(2): 24. 12 1937",,,,,,,wfo-0001171008,7826751,,
+e9d0cc1a-8fcd-11eb-924d-9cd76263cbd0,species,taitaoense,Pseudodistichium,,J.Froehl.,,1953,,"Ann. Naturhist. Mus. Wien 59: 117 1953",,,,,,,wfo-0001171009,8145570,,

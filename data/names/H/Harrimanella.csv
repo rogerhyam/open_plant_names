@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46feb3a-8fd1-11eb-924d-9cd76263cbd0,genus,Harrimanella,,,Coville,1901,"Proc. Wash. Acad. Sci. 3(21): 570–576, f. 62, 66. 1901. (11 Dec 1901)",,,,,,wfo-4000016968,2882788,
-09fb9980-8fcd-11eb-924d-9cd76263cbd0,species,hypnoides,Harrimanella,,"(L.) Coville",1901,"Proc. Wash. Acad. Sci. 3: 575 1901",,,,,118750-2,wfo-0000715877,2882793,
-09fbd396-8fcd-11eb-924d-9cd76263cbd0,species,stelleriana,Harrimanella,,Coville,1901,"Proc. Wash. Acad. Sci. 3: 570 1901",,,,,330850-1,wfo-0000715879,2882789,
-914b3256-8fcd-11eb-924d-9cd76263cbd0,species,amesiana,Harrisella,,Cogn.,1910,"Symb. Antill. 6: 687 1910",,,,,,wfo-0000979380,2817216,
-914b4f48-8fcd-11eb-924d-9cd76263cbd0,species,filiformis,Harrisella,,"(Sw.) Cogn.",1910,"Symb. Antill. 6: 687 1910",,,,,118752-2,wfo-0000979381,2817185,
-914b8ce2-8fcd-11eb-924d-9cd76263cbd0,species,monteverdi,Harrisella,,"(Rchb.f.) Cogn.",1910,"Symb. Antill. 6: 687 1910",,,,4a6f4a84-8fcd-11eb-924d-9cd76263cbd0,118753-2,wfo-0000979383,2817187,
-914bab0a-8fcd-11eb-924d-9cd76263cbd0,species,porrecta,Harrisella,,"(Rchb.f.) Fawc. & Rendle",1909,"J. Bot. 47: 266 1909",,,,4b7774d8-8fcd-11eb-924d-9cd76263cbd0,118754-2,wfo-0000979384,2817215,
-914bc766-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Harrisella,,H.Dietr.,1982,"Orchidee (Hamburg) 33: 18 1982",,,,,313953-2,wfo-0000979385,2817212,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46feb3a-8fd1-11eb-924d-9cd76263cbd0,genus,Harrimanella,,,Coville,,1901,,"Proc. Wash. Acad. Sci. 3(21): 570–576, f. 62, 66. 1901. (11 Dec 1901)",,,,,,,wfo-4000016968,2882788,,
+09fb9980-8fcd-11eb-924d-9cd76263cbd0,species,hypnoides,Harrimanella,,"(L.) Coville",,1901,,"Proc. Wash. Acad. Sci. 3: 575 1901",,,,,,118750-2,wfo-0000715877,2882793,,
+09fbd396-8fcd-11eb-924d-9cd76263cbd0,species,stelleriana,Harrimanella,,Coville,,1901,,"Proc. Wash. Acad. Sci. 3: 570 1901",,,,,,330850-1,wfo-0000715879,2882789,,
+914b3256-8fcd-11eb-924d-9cd76263cbd0,species,amesiana,Harrisella,,Cogn.,,1910,,"Symb. Antill. 6: 687 1910",,,,,,,wfo-0000979380,2817216,,
+914b4f48-8fcd-11eb-924d-9cd76263cbd0,species,filiformis,Harrisella,,"(Sw.) Cogn.",,1910,,"Symb. Antill. 6: 687 1910",,,,,,118752-2,wfo-0000979381,2817185,,
+914b8ce2-8fcd-11eb-924d-9cd76263cbd0,species,monteverdi,Harrisella,,"(Rchb.f.) Cogn.",,1910,,"Symb. Antill. 6: 687 1910",,,,4a6f4a84-8fcd-11eb-924d-9cd76263cbd0,,118753-2,wfo-0000979383,2817187,,
+914bab0a-8fcd-11eb-924d-9cd76263cbd0,species,porrecta,Harrisella,,"(Rchb.f.) Fawc. & Rendle",,1909,,"J. Bot. 47: 266 1909",,,,4b7774d8-8fcd-11eb-924d-9cd76263cbd0,,118754-2,wfo-0000979384,2817215,,
+914bc766-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Harrisella,,H.Dietr.,,1982,,"Orchidee (Hamburg) 33: 18 1982",,,,,,313953-2,wfo-0000979385,2817212,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfd28d3a-8fd1-11eb-924d-9cd76263cbd0,genus,Aspera,,,Moench,1794,"Meth. 641. 1794.",,,,,,wfo-4000003287,7271024,
-d7bf4cb8-8fcd-11eb-924d-9cd76263cbd0,species,interrupta,Aspera,,P.Beauv.,,,,,,,,wfo-0001132316,7639874,
-afa72a7a-8fcd-11eb-924d-9cd76263cbd0,species,muralis,Aspera,,"(L.) Lowe",1868,"Man. Fl. Madeira 1: 399 1868",,,,,743855-1,wfo-0001042921,3847525,
-fc5ba19a-8fcb-11eb-924d-9cd76263cbd0,species,nutans,Aspera,,Moench,1794,"Methodus 641 1794",,,,,743856-1,wfo-0000284377,2914911,
-d7bb0630-8fcd-11eb-924d-9cd76263cbd0,species,spica-venti,Aspera,,P.Beauv.,,,,,,,,wfo-0001132268,8381139,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfd28d3a-8fd1-11eb-924d-9cd76263cbd0,genus,Aspera,,,Moench,,1794,,"Meth. 641. 1794.",,,,,,,wfo-4000003287,7271024,,
+d7bf4cb8-8fcd-11eb-924d-9cd76263cbd0,species,interrupta,Aspera,,P.Beauv.,,,,,,,,,,,wfo-0001132316,7639874,,
+afa72a7a-8fcd-11eb-924d-9cd76263cbd0,species,muralis,Aspera,,"(L.) Lowe",,1868,,"Man. Fl. Madeira 1: 399 1868",,,,,,743855-1,wfo-0001042921,3847525,,
+fc5ba19a-8fcb-11eb-924d-9cd76263cbd0,species,nutans,Aspera,,Moench,,1794,,"Methodus 641 1794",,,,,,743856-1,wfo-0000284377,2914911,,
+d7bb0630-8fcd-11eb-924d-9cd76263cbd0,species,spica-venti,Aspera,,P.Beauv.,,,,,,,,,,,wfo-0001132268,8381139,,

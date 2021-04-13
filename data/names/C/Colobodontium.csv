@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ef1fca-8fd1-11eb-924d-9cd76263cbd0,genus,Colobodontium,,,Herzog,1951,"Memoranda Soc. Fauna Fl. Fenn. 27: 110. 1951.",,,,,,wfo-4000008958,2681037,
-eea85dca-8fcd-11eb-924d-9cd76263cbd0,species,aciculare,Colobodontium,,Herzog,1952,"Memoranda Soc. Fauna Fl. Fenn. 27: 110 1952",,,,,,wfo-0001180777,7761665,
-af6d5fe8-8fcd-11eb-924d-9cd76263cbd0,species,deceptivum,Colobodontium,,"(Mitt.) J.Florsch.",2011,"Fl. Guianas, Ser. C, Bryoph. 2(Musci IV): 353 2011",,,,e9a7524a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001042433,8252417,
-f85025d8-8fcd-11eb-924d-9cd76263cbd0,species,vulpinum,Colobodontium,,"(Mont.) S.P.Churchill & W.R.Buck",1995,"Bibliot. José Jerónimo Triana 12: 759 1995",,,,,,wfo-0001200679,2681038,
-1cbe861e-8fb3-11eb-924d-9cd76263cbd0,species,langbianensis,Colobogyne,,Gagnep.,1920,"15 1920",,,,,196910-1,wfo-0000041827,3092200,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ef1fca-8fd1-11eb-924d-9cd76263cbd0,genus,Colobodontium,,,Herzog,,1951,,"Memoranda Soc. Fauna Fl. Fenn. 27: 110. 1951.",,,,,,,wfo-4000008958,2681037,,
+eea85dca-8fcd-11eb-924d-9cd76263cbd0,species,aciculare,Colobodontium,,Herzog,,1952,,"Memoranda Soc. Fauna Fl. Fenn. 27: 110 1952",,,,,,,wfo-0001180777,7761665,,
+af6d5fe8-8fcd-11eb-924d-9cd76263cbd0,species,deceptivum,Colobodontium,,"(Mitt.) J.Florsch.",,2011,,"Fl. Guianas, Ser. C, Bryoph. 2(Musci IV): 353 2011",,,,e9a7524a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001042433,8252417,,
+f85025d8-8fcd-11eb-924d-9cd76263cbd0,species,vulpinum,Colobodontium,,"(Mont.) S.P.Churchill & W.R.Buck",,1995,,"Bibliot. José Jerónimo Triana 12: 759 1995",,,,,,,wfo-0001200679,2681038,,
+1cbe861e-8fb3-11eb-924d-9cd76263cbd0,species,langbianensis,Colobogyne,,Gagnep.,,1920,,"15 1920",,,,,,196910-1,wfo-0000041827,3092200,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e58f2274-8fd1-11eb-924d-9cd76263cbd0,genus,Laosanthus,,,"K.Larsen & Jenjitt",2001,"Nordic J. Bot. 21(2): 135. 2001.",,,,,,wfo-4000020574,2760476,
-701f013a-8fcc-11eb-924d-9cd76263cbd0,species,graminifolius,Laosanthus,,"K.Larsen & Jenjitt.",2001,"Nordic J. Bot. 21: 135 2001",,,,,20002461-1,wfo-0000457719,2760477,
-f89011bc-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Laothoe,,"(Kellogg) Greene",1904,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,2a3f279e-8fcc-11eb-924d-9cd76263cbd0,135372-2,wfo-0000685802,5304255,
-f88efdb8-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Laothoe,,"(Lindl.) Greene",1904,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,a4693a4a-8fcd-11eb-924d-9cd76263cbd0,135373-2,wfo-0000685792,5304253,
-f88d6dfe-8fcc-11eb-924d-9cd76263cbd0,species,leichtlinii,Laothoe,,"(Baker) Greene",1904,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,,135374-2,wfo-0000685781,7504517,
-f88c7494-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Laothoe,,"(S.Watson) Greene",1904,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,eae064ae-8fcc-11eb-924d-9cd76263cbd0,135375-2,wfo-0000685773,5304251,
-f88a9d90-8fcc-11eb-924d-9cd76263cbd0,species,pomeridiana,Laothoe,,"(DC.) Raf.",1837,"Fl. Tellur. 3: 53 1837",,,,177e2898-8fcd-11eb-924d-9cd76263cbd0,537284-1,wfo-0000685763,5304254,
-f88a835a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Laothoe,,"(Brandegee) Greene",1904,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,,135376-2,wfo-0000685762,5304252,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e58f2274-8fd1-11eb-924d-9cd76263cbd0,genus,Laosanthus,,,"K.Larsen & Jenjitt",,2001,,"Nordic J. Bot. 21(2): 135. 2001.",,,,,,,wfo-4000020574,2760476,,
+701f013a-8fcc-11eb-924d-9cd76263cbd0,species,graminifolius,Laosanthus,,"K.Larsen & Jenjitt.",,2001,,"Nordic J. Bot. 21: 135 2001",,Q55761899,,,,20002461-1,wfo-0000457719,2760477,,
+f89011bc-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Laothoe,,"(Kellogg) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,2a3f279e-8fcc-11eb-924d-9cd76263cbd0,,135372-2,wfo-0000685802,5304255,,
+f88efdb8-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Laothoe,,"(Lindl.) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,a4693a4a-8fcd-11eb-924d-9cd76263cbd0,,135373-2,wfo-0000685792,5304253,,
+f88d6dfe-8fcc-11eb-924d-9cd76263cbd0,species,leichtlinii,Laothoe,,"(Baker) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,,,135374-2,wfo-0000685781,7504517,,
+f88c7494-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Laothoe,,"(S.Watson) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,eae064ae-8fcc-11eb-924d-9cd76263cbd0,,135375-2,wfo-0000685773,5304251,,
+f88a9d90-8fcc-11eb-924d-9cd76263cbd0,species,pomeridiana,Laothoe,,"(DC.) Raf.",,1837,,"Fl. Tellur. 3: 53 1837",,,,177e2898-8fcd-11eb-924d-9cd76263cbd0,,537284-1,wfo-0000685763,5304254,,
+f88a835a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Laothoe,,"(Brandegee) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1: 91 1904",,,,,,135376-2,wfo-0000685762,5304252,,

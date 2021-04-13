@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e834f102-8fd1-11eb-924d-9cd76263cbd0,genus,Pericalypta,,,Benoist,1962,"Bull. Soc. Bot. France 109: 131. 1962.",,,,,,wfo-4000028742,7263379,
-b050a62c-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Pericalypta,,Benoist,1962,"Bull. Soc. Bot. France 109: 131–132 1962",,,,,52861-1,wfo-0001044422,3770718,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e834f102-8fd1-11eb-924d-9cd76263cbd0,genus,Pericalypta,,,Benoist,,1962,,"Bull. Soc. Bot. France 109: 131. 1962.",,,,,,,wfo-4000028742,7263379,,
+b050a62c-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Pericalypta,,Benoist,,1962,,"Bull. Soc. Bot. France 109: 131–132 1962",,Q55757749,,,,52861-1,wfo-0001044422,3770718,,

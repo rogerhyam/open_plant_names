@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e015c4ec-8fd1-11eb-924d-9cd76263cbd0,genus,Barnhartia,,,Gleason,1926,"Bull. Torrey Bot. Club 53: 297. 1926.",,,,,298159-2,wfo-4000004118,7293439,
-ae3c87f8-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Barnhartia,,Gleason,1926,"Bull. Torrey Bot. Club 53: 297 1926",,,,,29624-2,wfo-0000560674,4050439,
-11832688-8fcc-11eb-924d-9cd76263cbd0,species,gracillima,Barombia,,"(Kraenzl.) Schltr.",1914,"Orchideen 600 1914",,,,,617404-1,wfo-0000317740,5322751,
-118503ae-8fcc-11eb-924d-9cd76263cbd0,species,schliebenii,Barombia,,"(Mansf.) P.J.Cribb",1980,"S. African Orchid J. 11: 110 1980",,,,,908012-1,wfo-0000317751,5308366,
-1f4ec8d0-8fcc-11eb-924d-9cd76263cbd0,species,schliebenii,Barombiella,,"(Mansf.) Szlach.",2003,"Ann. Bot. Fenn. 40: 69 2003",,,,,20012023-1,wfo-0000340982,2795768,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e015c4ec-8fd1-11eb-924d-9cd76263cbd0,genus,Barnhartia,,,Gleason,,1926,,"Bull. Torrey Bot. Club 53: 297. 1926.",,Q54803374,,,,298159-2,wfo-4000004118,7293439,,
+ae3c87f8-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Barnhartia,,Gleason,,1926,,"Bull. Torrey Bot. Club 53: 297 1926",,Q54803374,,,,29624-2,wfo-0000560674,4050439,,
+11832688-8fcc-11eb-924d-9cd76263cbd0,species,gracillima,Barombia,,"(Kraenzl.) Schltr.",,1914,,"Orchideen 600 1914",,,,,,617404-1,wfo-0000317740,5322751,,
+118503ae-8fcc-11eb-924d-9cd76263cbd0,species,schliebenii,Barombia,,"(Mansf.) P.J.Cribb",,1980,,"S. African Orchid J. 11: 110 1980",,,,,,908012-1,wfo-0000317751,5308366,,
+1f4ec8d0-8fcc-11eb-924d-9cd76263cbd0,species,schliebenii,Barombiella,,"(Mansf.) Szlach.",,2003,,"Ann. Bot. Fenn. 40: 69 2003",,Q42899039,,,,20012023-1,wfo-0000340982,2795768,,

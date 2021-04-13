@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2cb36cc-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphocladon,,,Dixon,1922,"J. Bot. 60: 109. 1922.",,,,,,wfo-4000011778,11084651,
-e6c82e50-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Dimorphocladon,,Dixon,1922,"J. Bot. 60: 109. 564 f. 5 1922",,,,,,wfo-0001164555,2669879,
-af2b02f6-8fcd-11eb-924d-9cd76263cbd0,species,echinocarpum,Dimorphocladon,,H.Akiyama,2011,"Acta Phytotax. Geobot. 62(1): 52 2011",,,,,,wfo-0001041851,7924039,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2cb36cc-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphocladon,,,Dixon,,1922,,"J. Bot. 60: 109. 1922.",,,,,,,wfo-4000011778,11084651,,
+e6c82e50-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Dimorphocladon,,Dixon,,1922,,"J. Bot. 60: 109. 564 f. 5 1922",,,,,,,wfo-0001164555,2669879,,
+af2b02f6-8fcd-11eb-924d-9cd76263cbd0,species,echinocarpum,Dimorphocladon,,H.Akiyama,,2011,,"Acta Phytotax. Geobot. 62(1): 52 2011",,,,,,,wfo-0001041851,7924039,,

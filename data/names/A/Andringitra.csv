@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec473f3e-8fd1-11eb-924d-9cd76263cbd0,genus,Andringitra,,,Skema,2012,"Taxon 61: 623 (2012)",,,,,77120478-1,wfo-4001303122,8288164,
-de2b5b06-8fd1-11eb-924d-9cd76263cbd0,species,leiomacrantha,Andringitra,,"(Hochr.) Skema",2012,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,e627b660-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001315029,8042007,
-de2b82d4-8fd1-11eb-924d-9cd76263cbd0,species,leucomacrantha,Andringitra,,"(Hochr.) Skema",2012,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,e6282ffa-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001315030,7891834,
-de2bcf00-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Andringitra,,"(Baker) Skema",2012,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,,,wfo-0001315031,7846138,
-de2beefe-8fd1-11eb-924d-9cd76263cbd0,species,moratii,Andringitra,,"(L.C. Barnett & Dorr) Skema",2012,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,,,wfo-0001315032,7348491,
-de2c0d58-8fd1-11eb-924d-9cd76263cbd0,species,muscosa,Andringitra,,"(Hochr.) Skema",2012,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,e6330cd6-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001315033,8289585,
-de2c2a86-8fd1-11eb-924d-9cd76263cbd0,species,seyrigii,Andringitra,,"(Arènes) Skema",2012,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,e6470736-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001315034,8414921,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec473f3e-8fd1-11eb-924d-9cd76263cbd0,genus,Andringitra,,,Skema,,2012,,"Taxon 61: 623 (2012)",,,,,,77120478-1,wfo-4001303122,8288164,,
+de2b5b06-8fd1-11eb-924d-9cd76263cbd0,species,leiomacrantha,Andringitra,,"(Hochr.) Skema",,2012,,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,e627b660-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001315029,8042007,,
+de2b82d4-8fd1-11eb-924d-9cd76263cbd0,species,leucomacrantha,Andringitra,,"(Hochr.) Skema",,2012,,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,e6282ffa-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001315030,7891834,,
+de2bcf00-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Andringitra,,"(Baker) Skema",,2012,,"Taxon 61(3): 623. 2012. (13 Jun 2012) (Taxon)",,,,,,,wfo-0001315031,7846138,,
+de2beefe-8fd1-11eb-924d-9cd76263cbd0,species,moratii,Andringitra,,"(L.C. Barnett & Dorr) Skema",,2012,,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,,,,wfo-0001315032,7348491,,
+de2c0d58-8fd1-11eb-924d-9cd76263cbd0,species,muscosa,Andringitra,,"(Hochr.) Skema",,2012,,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,e6330cd6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001315033,8289585,,
+de2c2a86-8fd1-11eb-924d-9cd76263cbd0,species,seyrigii,Andringitra,,"(Arènes) Skema",,2012,,"Taxon 61(3): 624. 2012. (13 Jun 2012) (Taxon)",,,,e6470736-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001315034,8414921,,

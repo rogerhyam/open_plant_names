@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df5c0c28-8fd1-11eb-924d-9cd76263cbd0,genus,Anaphyllopsis,,,A.Hay,1988,"Aroideana 11(1): 25–31. 1988.",,,,,925221-1,wfo-4000001856,2870551,
-8c6f6d56-8fcd-11eb-924d-9cd76263cbd0,species,americana,Anaphyllopsis,,"(Engl.) A.Hay",1988,"Aroideana 11: 26 1988 publ. 1989",,,,,947029-1,wfo-0000969580,2870554,
-8c708d58-8fcd-11eb-924d-9cd76263cbd0,species,cururuana,Anaphyllopsis,,A.Hay,1988,"Aroideana 11: 29 1988 publ. 1989",,,,,272110-2,wfo-0000969590,2870553,
-8c71d1ae-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Anaphyllopsis,,A.Hay,1988,"Aroideana 11: 26 1988 publ. 1989",,,,,272111-2,wfo-0000969601,2870552,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df5c0c28-8fd1-11eb-924d-9cd76263cbd0,genus,Anaphyllopsis,,,A.Hay,,1988,,"Aroideana 11(1): 25–31. 1988.",,,,,,925221-1,wfo-4000001856,2870551,,
+8c6f6d56-8fcd-11eb-924d-9cd76263cbd0,species,americana,Anaphyllopsis,,"(Engl.) A.Hay",,1988,,"Aroideana 11: 26 1988 publ. 1989",,,,,,947029-1,wfo-0000969580,2870554,,
+8c708d58-8fcd-11eb-924d-9cd76263cbd0,species,cururuana,Anaphyllopsis,,A.Hay,,1988,,"Aroideana 11: 29 1988 publ. 1989",,,,,,272110-2,wfo-0000969590,2870553,,
+8c71d1ae-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Anaphyllopsis,,A.Hay,,1988,,"Aroideana 11: 26 1988 publ. 1989",,,,,,272111-2,wfo-0000969601,2870552,,

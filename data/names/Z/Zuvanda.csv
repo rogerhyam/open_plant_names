@@ -1,8 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec3fee96-8fd1-11eb-924d-9cd76263cbd0,genus,Zuvanda,,,"(Dvorák) Askerova",,,,,,,893662-1,wfo-4000041309,3050752,
-5f1b09ce-8fcc-11eb-924d-9cd76263cbd0,species,crenulata,Zuvanda,,"(DC.) Askerova",1985,"Bot. Zhurn. (Moscow & Leningrad) 70: 523 1985",,,,,915602-1,wfo-0000430157,3050763,
-acce8a1e-8fcd-11eb-924d-9cd76263cbd0,species,exacoides,Zuvanda,,Askerova,1985,"Bot. Stud. 70: 524 1985",,,,,915603-1,wfo-0001036431,3050757,
-ad177f08-8fcd-11eb-924d-9cd76263cbd0,species,meyeri,Zuvanda,,"(Boiss.) Askerova",1985,"Bot. Stud. 70: 523 1985",,,,,915604-1,wfo-0001037078,3050753,
-1c41faf4-8fcc-11eb-924d-9cd76263cbd0,species,lurida,Zwaardekronia,,"(Blume) Korth.",1851,"Ned. Kruidk. Arch. 2(2): 252 1851",,,,,770594-1,wfo-0000335605,2912776,
-5e57722a-8fcc-11eb-924d-9cd76263cbd0,species,aurea,Zwackhia,,Sendtn.,1858,"Icon. Fl. Germ. Helv. 18: 65 1858",,,,,,wfo-0000429193,5660085,
-5e585776-8fcc-11eb-924d-9cd76263cbd0,species,sendtneri,Zwackhia,,"(Boiss.) K.Malý",1907,"Wiss. Mitt. Bosnien & Herzegovina 10: 674 1907",,,,,,wfo-0000429199,5660084,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec3fee96-8fd1-11eb-924d-9cd76263cbd0,genus,Zuvanda,,,"(Dvorák) Askerova",,,,,,,,,,893662-1,wfo-4000041309,3050752,,
+5f1b09ce-8fcc-11eb-924d-9cd76263cbd0,species,crenulata,Zuvanda,,"(DC.) Askerova",,1985,,"Bot. Zhurn. (Moscow & Leningrad) 70: 523 1985",,,,,,915602-1,wfo-0000430157,3050763,,
+acce8a1e-8fcd-11eb-924d-9cd76263cbd0,species,exacoides,Zuvanda,,Askerova,,1985,,"Bot. Stud. 70: 524 1985",,,,,,915603-1,wfo-0001036431,3050757,,
+ad177f08-8fcd-11eb-924d-9cd76263cbd0,species,meyeri,Zuvanda,,"(Boiss.) Askerova",,1985,,"Bot. Stud. 70: 523 1985",,,,,,915604-1,wfo-0001037078,3050753,,
+1c41faf4-8fcc-11eb-924d-9cd76263cbd0,species,lurida,Zwaardekronia,,"(Blume) Korth.",,1851,,"Ned. Kruidk. Arch. 2(2): 252 1851",,,,,,770594-1,wfo-0000335605,2912776,,

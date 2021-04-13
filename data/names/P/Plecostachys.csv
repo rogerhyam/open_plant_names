@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8aebc12-8fd1-11eb-924d-9cd76263cbd0,genus,Plecostachys,,,"Hilliard & B.L.Burtt",,,,,,,893089-1,wfo-4000030188,3149320,
-c5f4b4ee-8fbb-11eb-924d-9cd76263cbd0,species,polifolia,Plecostachys,,"(Thunb.) Hilliard & B.L.Burtt",1981,"Bot. J. Linn. Soc. 82(3): 207 (1981):.",,,,,,wfo-0000136532,3149327,
-08e79e60-8fb2-11eb-924d-9cd76263cbd0,species,serpyllifolia,Plecostachys,,"(P.J.Bergius) Hilliard & B.L.Burtt",1981,"207 1981",,,,,909574-1,wfo-0000006494,3149321,
-0acc615a-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorum,Plecostigma,,"Turcz. ex Trautv.",1844,"Pl. Imag. Descr. Fl. Russ. 8 1844",,,,,,wfo-0000717426,2751501,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8aebc12-8fd1-11eb-924d-9cd76263cbd0,genus,Plecostachys,,,"Hilliard & B.L.Burtt",,,,,,Q43295792,,,,893089-1,wfo-4000030188,3149320,,
+c5f4b4ee-8fbb-11eb-924d-9cd76263cbd0,species,polifolia,Plecostachys,,"(Thunb.) Hilliard & B.L.Burtt",,1981,,"Bot. J. Linn. Soc. 82(3): 207 (1981):.",,,,,,,wfo-0000136532,3149327,,
+08e79e60-8fb2-11eb-924d-9cd76263cbd0,species,serpyllifolia,Plecostachys,,"(P.J.Bergius) Hilliard & B.L.Burtt",,1981,,"207 1981",,Q43295792,,,,909574-1,wfo-0000006494,3149321,,
+0acc615a-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorum,Plecostigma,,"Turcz. ex Trautv.",,1844,,"Pl. Imag. Descr. Fl. Russ. 8 1844",,,,,,,wfo-0000717426,2751501,,

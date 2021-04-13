@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e010cd52-8fd1-11eb-924d-9cd76263cbd0,genus,Baptorhachis,,,"Clayton & Renvoize",1986,"Kew Bull., Addit. Ser. 13: 298, 377. 1986.",,,,,925000-1,wfo-4000004039,4139782,
-4bd145b2-8fcd-11eb-924d-9cd76263cbd0,species,foliacea,Baptorhachis,,"(Clayton) Clayton",1987,"Kew Bull. 42: 401 1987",,,,664bcbd8-8fcd-11eb-924d-9cd76263cbd0,943898-1,wfo-0000853579,4139781,
-10d10bce-8fcc-11eb-924d-9cd76263cbd0,species,angatensis,Baranda,,Llanos,1859,"Mem. Real Acad. Ci. Exact. Madrid 2: 502 1859",,,,,591175-1,wfo-0000316646,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e010cd52-8fd1-11eb-924d-9cd76263cbd0,genus,Baptorhachis,,,"Clayton & Renvoize",,1986,,"Kew Bull., Addit. Ser. 13: 298, 377. 1986.",,,,,,925000-1,wfo-4000004039,4139782,,
+4bd145b2-8fcd-11eb-924d-9cd76263cbd0,species,foliacea,Baptorhachis,,"(Clayton) Clayton",,1987,,"Kew Bull. 42: 401 1987",,Q43216661,,664bcbd8-8fcd-11eb-924d-9cd76263cbd0,,943898-1,wfo-0000853579,4139781,,
+10d10bce-8fcc-11eb-924d-9cd76263cbd0,species,angatensis,Baranda,,Llanos,,1859,,"Mem. Real Acad. Ci. Exact. Madrid 2: 502 1859",,,,,,591175-1,wfo-0000316646,,,

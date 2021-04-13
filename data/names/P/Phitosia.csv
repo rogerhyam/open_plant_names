@@ -1,13 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8630498-8fd1-11eb-924d-9cd76263cbd0,genus,Phitosia,,,"Kamari & Greuter",,,,,,,1015316-1,wfo-4000029256,3143055,
-80e56602-8fb4-11eb-924d-9cd76263cbd0,species,crocifolia,Phitosia,,"(Boiss. & Heldr.) Kamari & Greuter",2000,"14 2000",,,,183933d8-8fb2-11eb-924d-9cd76263cbd0,1015317-1,wfo-0000066030,3143056,
-b1b92e22-8fd1-11eb-924d-9cd76263cbd0,species,impressum,Phlebiogonium,,Fée,1852,"Mém. Foug. 5: 314, t. 24A, f. 2 1852",,,,,,wfo-0001227730,4043189,
-aba1fc3a-8fd1-11eb-924d-9cd76263cbd0,species,macrorrhizus,Phlebiophragmus,,O.E.Schulz,1924,"Pflanzenr. 105 (Heft 86): 165, f. 4 1924",,,,,193297-2,wfo-0001216600,3041271,
-ac7c06e6-8fd1-11eb-924d-9cd76263cbd0,variety,meyenii,Phlebiophragmus,macrorrhizus,O.E.Schulz,1924,"Bot. Jahrb. Syst. 105: 76 1924",,,,,,wfo-0001218147,,
-ac7baed0-8fd1-11eb-924d-9cd76263cbd0,variety,ramosissimus,Phlebiophragmus,macrorrhizus,O.E.Schulz,1908,"Bot. Jahrb. Syst. 40: 166 1908",,,,,,wfo-0001218144,,
-f2aae656-8fcb-11eb-924d-9cd76263cbd0,species,laxmannii,Phleboanthe,,"(Murray) Tausch",1828,"Flora 11: 323 1828",,,,14c54b0a-8fcc-11eb-924d-9cd76263cbd0,453774-1,wfo-0000269122,7899498,
-f2ab8138-8fcb-11eb-924d-9cd76263cbd0,species,salicifolia,Phleboanthe,,"(L.) Schur",1866,"Enum. Pl. Transsilv. 546 1866",,,,,453775-1,wfo-0000269123,3902951,
-b1ec8060-8fd1-11eb-924d-9cd76263cbd0,species,calleryana,Phlebocalymna,,Baill.,1869,"Adansonia 9: 147 1869",,,,,608207-1,wfo-0001228102,3597457,
-b1ec9ad2-8fd1-11eb-924d-9cd76263cbd0,species,griffithiana,Phlebocalymna,,"(Miers) Mast.",1875,"Fl. Brit. India 1(3): 590 1875",,,,7b6f1458-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001228103,8307465,
-74cf8808-8fcc-11eb-924d-9cd76263cbd0,species,lobbiana,Phlebocalymna,,"(Miers) Mast.",1875,"Fl. Brit. India 1: 590 1875",,,,,,wfo-0000465392,7984512,
-74cd15dc-8fcc-11eb-924d-9cd76263cbd0,species,lobospora,Phlebocalymna,,F.Muell.,1875,"Fragm. 9: 151 1875",,,,,608210-1,wfo-0000465379,3597418,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8630498-8fd1-11eb-924d-9cd76263cbd0,genus,Phitosia,,,"Kamari & Greuter",,,,,,,,,,1015316-1,wfo-4000029256,3143055,,
+80e56602-8fb4-11eb-924d-9cd76263cbd0,species,crocifolia,Phitosia,,"(Boiss. & Heldr.) Kamari & Greuter",,2000,,"14 2000",,,,183933d8-8fb2-11eb-924d-9cd76263cbd0,,1015317-1,wfo-0000066030,3143056,,

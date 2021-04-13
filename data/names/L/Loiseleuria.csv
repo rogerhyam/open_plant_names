@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6073ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Loiseleuria,,,Desv.,1813,"J. Bot. Agric. 1(1): 35. 1813.",,,,,,wfo-4000022089,2883014,
-b1652c22-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Loiseleuria,,"(L.) Desv.",1813,"J. Bot. Agric. 1(1): 35 1813",,,,,331093-1,wfo-0001046862,2883015,
-2a8866de-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Loiseleuria,,"(L.) Loisel.",1812,"Traité Arbr. Arbust. nouv. ed., 5: 227 1812",,,,,1139375-2,wfo-0000358383,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6073ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Loiseleuria,,,Desv.,,1813,,"J. Bot. Agric. 1(1): 35. 1813.",,,,,,,wfo-4000022089,2883014,,
+2a8866de-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Loiseleuria,,"(L.) Loisel.",,1812,,"Traité Arbr. Arbust. nouv. ed., 5: 227 1812",,,,,,1139375-2,wfo-0000358383,,,
+b1652c22-8fcd-11eb-924d-9cd76263cbd0,species,procumbens,Loiseleuria,,"(L.) Desv.",,1813,,"J. Bot. Agric. 1(1): 35 1813",,,,,,331093-1,wfo-0001046862,2883015,,

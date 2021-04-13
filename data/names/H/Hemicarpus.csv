@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e492a7d8-8fd1-11eb-924d-9cd76263cbd0,genus,Hemicarpus,,,,,,,,,,,wfo-4000017358,3232488,
-0bf2e5b8-8fcd-11eb-924d-9cd76263cbd0,species,didiscoides,Hemicarpus,,F.Muell.,1857,"Hooker's J. Bot. Kew Gard. Misc. 9: 18 1857",,,,,842909-1,wfo-0000719357,5537884,
-0bf301e2-8fcd-11eb-924d-9cd76263cbd0,species,glandulosus,Hemicarpus,,"F.Muell. ex Domin",1909,"Sitzungsber. Königl. Böhm. Ges. Wiss., Math.-Naturwiss. Cl. 10: 42 1909",,,,,842910-1,wfo-0000719358,5537883,
-0bf32bd6-8fcd-11eb-924d-9cd76263cbd0,species,villosus,Hemicarpus,,F.Muell.,1857,"Hooker's J. Bot. Kew Gard. Misc. 9: 18 1857",,,,,842911-1,wfo-0000719359,5537882,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e492a7d8-8fd1-11eb-924d-9cd76263cbd0,genus,Hemicarpus,,,,,,,,,,,,,,wfo-4000017358,3232488,,
+0bf2e5b8-8fcd-11eb-924d-9cd76263cbd0,species,didiscoides,Hemicarpus,,F.Muell.,,1857,,"Hooker's J. Bot. Kew Gard. Misc. 9: 18 1857",,,,,,842909-1,wfo-0000719357,5537884,,
+0bf301e2-8fcd-11eb-924d-9cd76263cbd0,species,glandulosus,Hemicarpus,,"F.Muell. ex Domin",,1909,,"Sitzungsber. Königl. Böhm. Ges. Wiss., Math.-Naturwiss. Cl. 10: 42 1909",,,,,,842910-1,wfo-0000719358,5537883,,
+0bf32bd6-8fcd-11eb-924d-9cd76263cbd0,species,villosus,Hemicarpus,,F.Muell.,,1857,,"Hooker's J. Bot. Kew Gard. Misc. 9: 18 1857",,,,,,842911-1,wfo-0000719359,5537882,,

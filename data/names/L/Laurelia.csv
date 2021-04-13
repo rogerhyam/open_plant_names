@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e59ce972-8fd1-11eb-924d-9cd76263cbd0,genus,Laurelia,,,Juss.,1809,"Ann. Mus. Natl. Hist. Nat. 14: 134. 1809.",,,,,331702-2,wfo-4000020746,7264482,
-685626c2-8fcc-11eb-924d-9cd76263cbd0,species,aromatica,Laurelia,,"Juss. ex Poir.",1813,"Encycl. Suppl. 3: 313 1813",,,,,330753-2,wfo-0000443816,3782148,
-68560ac0-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Laurelia,,"Poepp. ex Tul.",1856,"Arch. Mus. Hist. Nat. 8: 416 1856",,,,,,wfo-0000443815,3782139,
-6855edb0-8fcc-11eb-924d-9cd76263cbd0,species,novae-zelandiae,Laurelia,,A.Cunn.,1838,"Ann. Nat. Hist. 1: 381 1838",,,,,581994-1,wfo-0000443814,3782126,
-c1fbb1fa-8fcd-11eb-924d-9cd76263cbd0,species,philippiana,Laurelia,,Looser,1934,"Rev. Asoc. Chil. Quim. y Farm. 21: 9 1934",,,,,288134-2,wfo-0001084570,3782091,
-6855d03c-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Laurelia,,Tul.,1856,"Arch. Mus. Hist. Nat. 8: 416 1856",,,,,1177892-2,wfo-0000443813,3783125,
-c1ff7574-8fcd-11eb-924d-9cd76263cbd0,species,serrata,Laurelia,,Bertero,1829,1829,,,,,,wfo-0001084605,8018746,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e59ce972-8fd1-11eb-924d-9cd76263cbd0,genus,Laurelia,,,Juss.,,1809,,"Ann. Mus. Natl. Hist. Nat. 14: 134. 1809.",,,,,,331702-2,wfo-4000020746,7264482,,
+685626c2-8fcc-11eb-924d-9cd76263cbd0,species,aromatica,Laurelia,,"Juss. ex Poir.",,1813,,"Encycl. Suppl. 3: 313 1813",,,,,,330753-2,wfo-0000443816,3782148,,
+68560ac0-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Laurelia,,"Poepp. ex Tul.",,1856,,"Arch. Mus. Hist. Nat. 8: 416 1856",,,,,,,wfo-0000443815,3782139,,
+6855edb0-8fcc-11eb-924d-9cd76263cbd0,species,novae-zelandiae,Laurelia,,A.Cunn.,,1838,,"Ann. Nat. Hist. 1: 381 1838",,Q96028157,,,,581994-1,wfo-0000443814,3782126,,
+c1fbb1fa-8fcd-11eb-924d-9cd76263cbd0,species,philippiana,Laurelia,,Looser,,1934,,"Rev. Asoc. Chil. Quim. y Farm. 21: 9 1934",,,,,,288134-2,wfo-0001084570,3782091,,
+6855d03c-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Laurelia,,Tul.,,1856,,"Arch. Mus. Hist. Nat. 8: 416 1856",,,,,,1177892-2,wfo-0000443813,3783125,,
+c1ff7574-8fcd-11eb-924d-9cd76263cbd0,species,serrata,Laurelia,,Bertero,,1829,,1829,,,,,,,wfo-0001084605,8018746,,

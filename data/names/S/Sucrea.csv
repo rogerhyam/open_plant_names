@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaf3675c-8fd1-11eb-924d-9cd76263cbd0,genus,Sucrea,,,Soderstr.,1981,"Brittonia 33(2): 200. 1981.",,,,,,wfo-4000037052,4129014,
-68102860-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Sucrea,,Soderstr.,1981,"Brittonia 33: 205 1981",,,,,247821-2,wfo-0000903241,4129054,
-681048b8-8fcd-11eb-924d-9cd76263cbd0,species,monophylla,Sucrea,,Soderstr.,1981,"Brittonia 33: 200 1981",,,,,247822-2,wfo-0000903242,4129040,
-681065aa-8fcd-11eb-924d-9cd76263cbd0,species,sampaiana,Sucrea,,"(Hitchc.) Soderstr.",1981,"Brittonia 33: 208 1981",,,,58ebbd90-8fcd-11eb-924d-9cd76263cbd0,909731-1,wfo-0000903243,4129025,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaf3675c-8fd1-11eb-924d-9cd76263cbd0,genus,Sucrea,,,Soderstr.,,1981,,"Brittonia 33(2): 200. 1981.",,,,,,,wfo-4000037052,4129014,,
+68102860-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Sucrea,,Soderstr.,,1981,,"Brittonia 33: 205 1981",,Q55769796,,,,247821-2,wfo-0000903241,4129054,,
+681048b8-8fcd-11eb-924d-9cd76263cbd0,species,monophylla,Sucrea,,Soderstr.,,1981,,"Brittonia 33: 200 1981",,Q55769796,,,,247822-2,wfo-0000903242,4129040,,
+681065aa-8fcd-11eb-924d-9cd76263cbd0,species,sampaiana,Sucrea,,"(Hitchc.) Soderstr.",,1981,,"Brittonia 33: 208 1981",,Q55769796,,58ebbd90-8fcd-11eb-924d-9cd76263cbd0,,909731-1,wfo-0000903243,4129025,,

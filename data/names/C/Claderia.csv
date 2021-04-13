@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1c3f994-8fd1-11eb-924d-9cd76263cbd0,genus,Claderia,,,Hook.f.,1890,"Fl. Brit. India 5: 810. 1890.",,,,,331170-2,wfo-4000008417,2784120,
-52f8adbc-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Claderia,,Schltr.,1911,"Repert. Spec. Nov. Regni Veg. Beih. 1: 222 1911",,,,,623369-1,wfo-0000868897,5306003,
-cbc572e4-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Claderia,,Raf.,1838,"Sylva Tellur. 12 1838",,,,,435558-1,wfo-0000608339,5594691,
-52f9cf44-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Claderia,,Hook.f.,1890,"Fl. Brit. India 5: 810 1890",,,,,623370-1,wfo-0000868907,5306004,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1c3f994-8fd1-11eb-924d-9cd76263cbd0,genus,Claderia,,,Hook.f.,,1890,,"Fl. Brit. India 5: 810. 1890.",,,,,,331170-2,wfo-4000008417,2784120,,
+52f8adbc-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Claderia,,Schltr.,,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 222 1911",,,,,,623369-1,wfo-0000868897,5306003,,
+cbc572e4-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Claderia,,Raf.,,1838,,"Sylva Tellur. 12 1838",,,,,,435558-1,wfo-0000608339,5594691,,
+52f9cf44-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Claderia,,Hook.f.,,1890,,"Fl. Brit. India 5: 810 1890",,,,,,623370-1,wfo-0000868907,5306004,,

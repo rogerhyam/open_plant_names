@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8c36144-8fd1-11eb-924d-9cd76263cbd0,genus,Plinthus,,,"Fenzl in Endl. & Fenzl",1839,"Nov. Stirp. Dec. 52. 1839.",,,,,,wfo-4000030401,3231702,
-41c9da9e-8fcc-11eb-924d-9cd76263cbd0,species,arenarius,Plinthus,,Adamson,1961,"J. S. African Bot. 27: 149 1961",,,,,57968-1,wfo-0000393014,5554794,
-d8b8f9ee-8fd1-11eb-924d-9cd76263cbd0,species,cryptocarpus,Plinthus,,Fenzl,1839,"Nov. Stirp. Dec. 52 1839",,,,,,wfo-0001292947,5554792,
-d8b92144-8fd1-11eb-924d-9cd76263cbd0,species,karooicus,Plinthus,,Verd.,,,,,,,,wfo-0001292948,5554790,
-41c9b0c8-8fcc-11eb-924d-9cd76263cbd0,species,laxifolius,Plinthus,,Verd.,1941,"Bothalia 4: 178 1941",,,,,364021-1,wfo-0000393013,5554788,
-d8b94a98-8fd1-11eb-924d-9cd76263cbd0,species,rehmannii,Plinthus,,Schellenb.,,,,,,,,wfo-0001292949,5554786,
-d8b9673a-8fd1-11eb-924d-9cd76263cbd0,species,sericeus,Plinthus,,Pax,,,,,,,,wfo-0001292950,5554784,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8c36144-8fd1-11eb-924d-9cd76263cbd0,genus,Plinthus,,,"Fenzl in Endl. & Fenzl",,1839,,"Nov. Stirp. Dec. 52. 1839.",,,,,,,wfo-4000030401,3231702,,
+41c9da9e-8fcc-11eb-924d-9cd76263cbd0,species,arenarius,Plinthus,,Adamson,,1961,,"J. S. African Bot. 27: 149 1961",,,,,,57968-1,wfo-0000393014,5554794,,
+d8b8f9ee-8fd1-11eb-924d-9cd76263cbd0,species,cryptocarpus,Plinthus,,Fenzl,,1839,,"Nov. Stirp. Dec. 52 1839",,,,,,,wfo-0001292947,5554792,,
+d8b92144-8fd1-11eb-924d-9cd76263cbd0,species,karooicus,Plinthus,,Verd.,,,,,,,,,,,wfo-0001292948,5554790,,
+41c9b0c8-8fcc-11eb-924d-9cd76263cbd0,species,laxifolius,Plinthus,,Verd.,,1941,,"Bothalia 4: 178 1941",,,,,,364021-1,wfo-0000393013,5554788,,
+d8b94a98-8fd1-11eb-924d-9cd76263cbd0,species,rehmannii,Plinthus,,Schellenb.,,,,,,,,,,,wfo-0001292949,5554786,,
+d8b9673a-8fd1-11eb-924d-9cd76263cbd0,species,sericeus,Plinthus,,Pax,,,,,,,,,,,wfo-0001292950,5554784,,

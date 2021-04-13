@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea8f703a-8fd1-11eb-924d-9cd76263cbd0,genus,Spartothamnella,,,Briq.,1895,"Nat. Pflanzenfam. 4(3a): 161. 1895.",,,,,,wfo-4000035869,7307221,
-0dc58568-8fcc-11eb-924d-9cd76263cbd0,species,juncea,Spartothamnella,,"(A.Cunn. ex Walp.) Briq.",1894,"Nat. Pflanzenfam. 4(3a): 161 1894",,,,,864638-1,wfo-0000311945,3887741,
-0dc5a228-8fcc-11eb-924d-9cd76263cbd0,species,puberula,Spartothamnella,,"(F.Muell.) Maiden & Betche",1916,"Census N.S.W. Pl. 177 1916",,,,,864639-1,wfo-0000311946,3887725,
-0dc5bc9a-8fcc-11eb-924d-9cd76263cbd0,species,teucriiflora,Spartothamnella,,"(F.Muell.) Moldenke",1940,"Phytologia 1: 430 1940",,,,,864640-1,wfo-0000311947,3887706,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea8f703a-8fd1-11eb-924d-9cd76263cbd0,genus,Spartothamnella,,,Briq.,,1895,,"Nat. Pflanzenfam. 4(3a): 161. 1895.",,,,,,,wfo-4000035869,7307221,,
+0dc58568-8fcc-11eb-924d-9cd76263cbd0,species,juncea,Spartothamnella,,"(A.Cunn. ex Walp.) Briq.",,1894,,"Nat. Pflanzenfam. 4(3a): 161 1894",,,,,,864638-1,wfo-0000311945,3887741,,
+0dc5a228-8fcc-11eb-924d-9cd76263cbd0,species,puberula,Spartothamnella,,"(F.Muell.) Maiden & Betche",,1916,,"Census N.S.W. Pl. 177 1916",,,,,,864639-1,wfo-0000311946,3887725,,
+0dc5bc9a-8fcc-11eb-924d-9cd76263cbd0,species,teucriiflora,Spartothamnella,,"(F.Muell.) Moldenke",,1940,,"Phytologia 1: 430 1940",,,,,,864640-1,wfo-0000311947,3887706,,

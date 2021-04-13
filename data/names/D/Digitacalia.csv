@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2c4ceae-8fd1-11eb-924d-9cd76263cbd0,genus,Digitacalia,,,Pippen,,,,,,,296431-2,wfo-4000011697,3118001,
-a5326b16-8fbb-11eb-924d-9cd76263cbd0,species,chiapensis,Digitacalia,,"(Hemsl.) Pippen",1968,"379 1968",,,,2931a2a6-8fb2-11eb-924d-9cd76263cbd0,80195-2,wfo-0000135719,3118010,
-dd814052-8fb9-11eb-924d-9cd76263cbd0,species,crypta,Digitacalia,,B.L.Turner,1990,"Phytologia 69 152 1990",,,,,275849-2,wfo-0000122038,3118002,
-2f3ef9a6-8fbb-11eb-924d-9cd76263cbd0,species,heteroidea,Digitacalia,,"(Klatt) Pippen",1968,"380 1968",,,,,80196-2,wfo-0000132372,3141682,
-c6e60f08-8fb4-11eb-924d-9cd76263cbd0,species,hintoniorum,Digitacalia,,B.L.Turner,1990,"Phytologia 69 155 1990",,,,,275850-2,wfo-0000069715,3118003,
-acdf073e-8fb6-11eb-924d-9cd76263cbd0,species,jatrophoides,Digitacalia,,"(Kunth) Pippen",1968,"381 1968",,,,d257b222-8fb6-11eb-924d-9cd76263cbd0,80197-2,wfo-0000091973,3118004,
-360721d0-8fb3-11eb-924d-9cd76263cbd0,species,napeifolia,Digitacalia,,"(DC.) Pippen",1968,"382 1968",,,,,80198-2,wfo-0000043932,3118007,
-e94583d2-8fb2-11eb-924d-9cd76263cbd0,species,tridactylitis,Digitacalia,,"(B.L.Rob. & Greenm.) Pippen",1968,"383 1968",,,,9092c0f2-8fbb-11eb-924d-9cd76263cbd0,80199-2,wfo-0000037268,3118009,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2c4ceae-8fd1-11eb-924d-9cd76263cbd0,genus,Digitacalia,,,Pippen,,,,,,Q95371486,,,,296431-2,wfo-4000011697,3118001,,
+a5326b16-8fbb-11eb-924d-9cd76263cbd0,species,chiapensis,Digitacalia,,"(Hemsl.) Pippen",,1968,,"379 1968",,Q95371486,,2931a2a6-8fb2-11eb-924d-9cd76263cbd0,,80195-2,wfo-0000135719,3118010,,
+dd814052-8fb9-11eb-924d-9cd76263cbd0,species,crypta,Digitacalia,,B.L.Turner,,1990,,"Phytologia 69 152 1990",,,,,,275849-2,wfo-0000122038,3118002,,
+2f3ef9a6-8fbb-11eb-924d-9cd76263cbd0,species,heteroidea,Digitacalia,,"(Klatt) Pippen",,1968,,"380 1968",,Q95371486,,,,80196-2,wfo-0000132372,3141682,,
+c6e60f08-8fb4-11eb-924d-9cd76263cbd0,species,hintoniorum,Digitacalia,,B.L.Turner,,1990,,"Phytologia 69 155 1990",,,,,,275850-2,wfo-0000069715,3118003,,
+acdf073e-8fb6-11eb-924d-9cd76263cbd0,species,jatrophoides,Digitacalia,,"(Kunth) Pippen",,1968,,"381 1968",,Q95371486,,d257b222-8fb6-11eb-924d-9cd76263cbd0,,80197-2,wfo-0000091973,3118004,,
+360721d0-8fb3-11eb-924d-9cd76263cbd0,species,napeifolia,Digitacalia,,"(DC.) Pippen",,1968,,"382 1968",,Q95371486,,,,80198-2,wfo-0000043932,3118007,,
+e94583d2-8fb2-11eb-924d-9cd76263cbd0,species,tridactylitis,Digitacalia,,"(B.L.Rob. & Greenm.) Pippen",,1968,,"383 1968",,Q95371486,,9092c0f2-8fbb-11eb-924d-9cd76263cbd0,,80199-2,wfo-0000037268,3118009,,

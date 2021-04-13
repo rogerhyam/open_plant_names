@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea03d642-8fd1-11eb-924d-9cd76263cbd0,genus,Scandicium,,,"(K.Koch) Thell.",1919,"Repert. Spec. Nov. Regni Veg. 16: 15. 1919.",,,,,,wfo-4000034236,6027028,
-631b886e-8fcc-11eb-924d-9cd76263cbd0,species,aucheri,Scandicium,,"(Boiss.) Bornm.",1938,"Beih. Bot. Centralbl. 58E: 280 1938",,,,,847960-1,wfo-0000435247,11074370,
-631b6a28-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Scandicium,,"(Banks & Sol.) Thell.",1919,"Repert. Spec. Nov. Regni Veg. 16: 16 1919",,,,,847961-1,wfo-0000435246,3637668,
-6319b034-8fcc-11eb-924d-9cd76263cbd0,species,stellulatum,Scandicium,,"Thell. ex Tamamsch.",1935,"Repert. Spec. Nov. Regni Veg. 38: 169 1935",,,,,847962-1,wfo-0000435231,3637652,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea03d642-8fd1-11eb-924d-9cd76263cbd0,genus,Scandicium,,,"(K.Koch) Thell.",,1919,,"Repert. Spec. Nov. Regni Veg. 16: 15. 1919.",,,,,,,wfo-4000034236,6027028,,
+631b886e-8fcc-11eb-924d-9cd76263cbd0,species,aucheri,Scandicium,,"(Boiss.) Bornm.",,1938,,"Beih. Bot. Centralbl. 58E: 280 1938",,,,,,847960-1,wfo-0000435247,11074370,,
+631b6a28-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Scandicium,,"(Banks & Sol.) Thell.",,1919,,"Repert. Spec. Nov. Regni Veg. 16: 16 1919",,Q55753086,,,,847961-1,wfo-0000435246,3637668,,
+6319b034-8fcc-11eb-924d-9cd76263cbd0,species,stellulatum,Scandicium,,"Thell. ex Tamamsch.",,1935,,"Repert. Spec. Nov. Regni Veg. 38: 169 1935",,,,,,847962-1,wfo-0000435231,3637652,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e62fb806-8fd1-11eb-924d-9cd76263cbd0,genus,Mabrya,,,Elisens,1985,"Syst. Bot. Monogr. 5: 57–66, f. 26. 1985.",,,,,924925-1,wfo-4000022595,3171130,
-da85929a-8fcd-11eb-924d-9cd76263cbd0,species,acerifolia,Mabrya,,"(Pennell) Elisens",1985,"Syst. Bot. Monogr. 5: 58–60, f. 26f 1985",,,,d9bd7a08-8fcd-11eb-924d-9cd76263cbd0,942258-1,wfo-0001138357,3171131,
-daa1f52a-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Mabrya,,"(I.M.Johnst.) Elisens",1985,"Syst. Bot. Monogr. 5: 63–64, f. 27 1985",,,,be0ef8b4-8fd1-11eb-924d-9cd76263cbd0,942260-1,wfo-0001138593,3729156,
-daa21302-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Mabrya,,"(Hemsl.) Elisens",1985,"Syst. Bot. Monogr. 5: 65–66, f. 27 1985",,,,be0f9f44-8fd1-11eb-924d-9cd76263cbd0,942262-1,wfo-0001138594,3729143,
-be0f238e-8fd1-11eb-924d-9cd76263cbd0,species,flaviflora,Mabrya,,"(I.M.Johnst.) D.A.Sutton",1988,"Revis. Antirrhineae 491 1988",,,,bb52db0e-8fd1-11eb-924d-9cd76263cbd0,280169-2,wfo-0001250429,3729133,
-daa17d84-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Mabrya,,"(B.L.Rob. & Fernald) Elisens",1985,"Syst. Bot. Monogr. 5: 60–62, f. 27 1985",,,,be0f4846-8fd1-11eb-924d-9cd76263cbd0,942259-1,wfo-0001138589,7332080,
-be0f63c6-8fd1-11eb-924d-9cd76263cbd0,species,rosei,Mabrya,,"(Munz) Elisens",1985,"Syst. Bot. Monogr. 5: 64, f. 27 1985",,,,b7ec209c-8fd1-11eb-924d-9cd76263cbd0,942261-1,wfo-0001250431,3729079,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e62fb806-8fd1-11eb-924d-9cd76263cbd0,genus,Mabrya,,,Elisens,,1985,,"Syst. Bot. Monogr. 5: 57–66, f. 26. 1985.",,Q55767892,,,,924925-1,wfo-4000022595,3171130,,
+da85929a-8fcd-11eb-924d-9cd76263cbd0,species,acerifolia,Mabrya,,"(Pennell) Elisens",,1985,,"Syst. Bot. Monogr. 5: 58–60, f. 26f 1985",,Q55767892,,d9bd7a08-8fcd-11eb-924d-9cd76263cbd0,,942258-1,wfo-0001138357,3171131,,
+daa1f52a-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Mabrya,,"(I.M.Johnst.) Elisens",,1985,,"Syst. Bot. Monogr. 5: 63–64, f. 27 1985",,Q55767892,,be0ef8b4-8fd1-11eb-924d-9cd76263cbd0,,942260-1,wfo-0001138593,3729156,,
+daa21302-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Mabrya,,"(Hemsl.) Elisens",,1985,,"Syst. Bot. Monogr. 5: 65–66, f. 27 1985",,Q55767892,,be0f9f44-8fd1-11eb-924d-9cd76263cbd0,,942262-1,wfo-0001138594,3729143,,
+be0f238e-8fd1-11eb-924d-9cd76263cbd0,species,flaviflora,Mabrya,,"(I.M.Johnst.) D.A.Sutton",,1988,,"Revis. Antirrhineae 491 1988",,,,bb52db0e-8fd1-11eb-924d-9cd76263cbd0,,280169-2,wfo-0001250429,3729133,,
+daa17d84-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Mabrya,,"(B.L.Rob. & Fernald) Elisens",,1985,,"Syst. Bot. Monogr. 5: 60–62, f. 27 1985",,Q55767892,,be0f4846-8fd1-11eb-924d-9cd76263cbd0,,942259-1,wfo-0001138589,7332080,,
+be0f63c6-8fd1-11eb-924d-9cd76263cbd0,species,rosei,Mabrya,,"(Munz) Elisens",,1985,,"Syst. Bot. Monogr. 5: 64, f. 27 1985",,Q55767892,,b7ec209c-8fd1-11eb-924d-9cd76263cbd0,,942261-1,wfo-0001250431,3729079,,

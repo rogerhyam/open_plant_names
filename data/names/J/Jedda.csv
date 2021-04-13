@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53b717e-8fd1-11eb-924d-9cd76263cbd0,genus,Jedda,,,J.R.Clarkson,1986,"Austrobaileya 2(3): 203. 1986. (24 Jul 1986)",,,,,924988-1,wfo-4000019544,7311316,
-cbe66a6c-8fd1-11eb-924d-9cd76263cbd0,species,multicaulis,Jedda,,J.R.Clarkson,1986,"Austrobaileya 2(3): 203–206, f. 1D, 2 1986",,,,,930682-1,wfo-0001276088,3568073,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53b717e-8fd1-11eb-924d-9cd76263cbd0,genus,Jedda,,,J.R.Clarkson,,1986,,"Austrobaileya 2(3): 203. 1986. (24 Jul 1986)",,Q92300199,,,,924988-1,wfo-4000019544,7311316,,
+cbe66a6c-8fd1-11eb-924d-9cd76263cbd0,species,multicaulis,Jedda,,J.R.Clarkson,,1986,,"Austrobaileya 2(3): 203–206, f. 1D, 2 1986",,Q92300199,,,,930682-1,wfo-0001276088,3568073,,

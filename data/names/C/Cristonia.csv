@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e22c8c02-8fd1-11eb-924d-9cd76263cbd0,genus,Cristonia,,,J.H.Ross,,,,,,,20000831-1,wfo-4000009710,7302108,
-abc438a8-8fcd-11eb-924d-9cd76263cbd0,species,biloba,Cristonia,,"(Benth.) J.H.Ross",2001,"Muelleria 15: 11 2001",,,,,20000832-1,wfo-0001034268,3971298,
-199db120-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Cristonia,,"(Meisn.) I.Thomps.",2010,"Muelleria 28: 70 2010",,,,,77103977-1,wfo-0000746222,7409751,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e22c8c02-8fd1-11eb-924d-9cd76263cbd0,genus,Cristonia,,,J.H.Ross,,,,,,,,,,20000831-1,wfo-4000009710,7302108,,
+abc438a8-8fcd-11eb-924d-9cd76263cbd0,species,biloba,Cristonia,,"(Benth.) J.H.Ross",,2001,,"Muelleria 15: 11 2001",,,,,,20000832-1,wfo-0001034268,3971298,,
+199db120-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Cristonia,,"(Meisn.) I.Thomps.",,2010,,"Muelleria 28: 70 2010",,,,,,77103977-1,wfo-0000746222,7409751,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e05ad9ec-8fd1-11eb-924d-9cd76263cbd0,genus,Borassodendron,,,Becc.,1914,"Webbia 4: 359. 1914.",,,,,31125-1,wfo-4000005012,2735607,
-25bc57aa-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Borassodendron,,J.Dransf.,1972,"Reinwardtia 8: 355 1972",,,,,664867-1,wfo-0000350269,2735610,
-25be16f8-8fcc-11eb-924d-9cd76263cbd0,species,machadonis,Borassodendron,,"(Ridl.) Becc.",1914,"Webbia 4: 361 1914",,,,,664868-1,wfo-0000350280,2735608,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e05ad9ec-8fd1-11eb-924d-9cd76263cbd0,genus,Borassodendron,,,Becc.,,1914,,"Webbia 4: 359. 1914.",,Q55757897,,,,31125-1,wfo-4000005012,2735607,,
+25bc57aa-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Borassodendron,,J.Dransf.,,1972,,"Reinwardtia 8: 355 1972",,Q94145482,,,,664867-1,wfo-0000350269,2735610,,
+25be16f8-8fcc-11eb-924d-9cd76263cbd0,species,machadonis,Borassodendron,,"(Ridl.) Becc.",,1914,,"Webbia 4: 361 1914",,Q55757897,,,,664868-1,wfo-0000350280,2735608,,

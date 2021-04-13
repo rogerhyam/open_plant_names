@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0d97f86-8fd1-11eb-924d-9cd76263cbd0,genus,Brotherobryum,,,M.Fleisch.,1914,"Nova Guinea 12(2): 111. 1914.",,,,,,wfo-4000005499,2675159,
-e2c61542-8fcd-11eb-924d-9cd76263cbd0,species,dekockii,Brotherobryum,,M.Fleisch.,1914,"Nova Guinea 12(2): 111. 29 f. 1–12 1914",,,,,,wfo-0001155818,2675160,
-e2c62f32-8fcd-11eb-924d-9cd76263cbd0,species,macgregorii,Brotherobryum,,"(Broth. & Geh.) M.Fleisch.",1914,"Nova Guinea 12(2): 112 1914",,,,,,wfo-0001155819,2675163,
-f57d4ffc-8fcd-11eb-924d-9cd76263cbd0,species,sleumeri,Brotherobryum,,B.H.Allen,1984,"Lindbergia 10: 116. f. 9–17 1984",,,,,,wfo-0001194678,2675161,
-f13b9714-8fcd-11eb-924d-9cd76263cbd0,species,undulatifolium,Brotherobryum,,Zanten,1964,"Nova Guinea, Bot. 10(16): 273. pl. 23: f. 2 1964",,,,,,wfo-0001186288,2675162,
-dbf16c6c-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Brotobroma,,"H.Karst. & Triana",1854,"Nuev. Jen. Esp. 12 1854",,,,,822278-1,wfo-0001141161,,
-b5cfad06-8fcc-11eb-924d-9cd76263cbd0,species,asperum,Brotobroma,,"H.Karst. & Triana",1855,"Nuev. Jen. Esp. 12 1855",,,,,,wfo-0000572541,3670635,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0d97f86-8fd1-11eb-924d-9cd76263cbd0,genus,Brotherobryum,,,M.Fleisch.,,1914,,"Nova Guinea 12(2): 111. 1914.",,,,,,,wfo-4000005499,2675159,,
+e2c61542-8fcd-11eb-924d-9cd76263cbd0,species,dekockii,Brotherobryum,,M.Fleisch.,,1914,,"Nova Guinea 12(2): 111. 29 f. 1–12 1914",,,,,,,wfo-0001155818,2675160,,
+e2c62f32-8fcd-11eb-924d-9cd76263cbd0,species,macgregorii,Brotherobryum,,"(Broth. & Geh.) M.Fleisch.",,1914,,"Nova Guinea 12(2): 112 1914",,,,,,,wfo-0001155819,2675163,,
+f57d4ffc-8fcd-11eb-924d-9cd76263cbd0,species,sleumeri,Brotherobryum,,B.H.Allen,,1984,,"Lindbergia 10: 116. f. 9–17 1984",,,,,,,wfo-0001194678,2675161,,
+f13b9714-8fcd-11eb-924d-9cd76263cbd0,species,undulatifolium,Brotherobryum,,Zanten,,1964,,"Nova Guinea, Bot. 10(16): 273. pl. 23: f. 2 1964",,,,,,,wfo-0001186288,2675162,,
+dbf16c6c-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Brotobroma,,"H.Karst. & Triana",,1854,,"Nuev. Jen. Esp. 12 1854",,,,,,822278-1,wfo-0001141161,,,
+b5cfad06-8fcc-11eb-924d-9cd76263cbd0,species,asperum,Brotobroma,,"H.Karst. & Triana",,1855,,"Nuev. Jen. Esp. 12 1855",,,,,,,wfo-0000572541,3670635,,

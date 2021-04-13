@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df6c8792-8fd1-11eb-924d-9cd76263cbd0,genus,Androsiphonia,,,Stapf,1905,"J. Linn. Soc., Bot. 37: 101. 1905.",,,,,31728-1,wfo-4000002016,7313531,
-9de92e06-8fcc-11eb-924d-9cd76263cbd0,species,adenostegia,Androsiphonia,,Stapf,1905,"J. Linn. Soc., Bot. 37: 101 1905",,,,,674212-1,wfo-0000534961,3588178,
-461684ca-8fcd-11eb-924d-9cd76263cbd0,species,androssovii,,,"(Roshev.) Tzvelev",1972,"Novosti Sist. Vyssh. Rast. 9: 63 1972",,,,469f05b6-8fcd-11eb-924d-9cd76263cbd0,386543-1,wfo-0000841011,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df6c8792-8fd1-11eb-924d-9cd76263cbd0,genus,Androsiphonia,,,Stapf,,1905,,"J. Linn. Soc., Bot. 37: 101. 1905.",,Q55760440,,,,31728-1,wfo-4000002016,7313531,,
+9de92e06-8fcc-11eb-924d-9cd76263cbd0,species,adenostegia,Androsiphonia,,Stapf,,1905,,"J. Linn. Soc., Bot. 37: 101 1905",,Q55760440,,,,674212-1,wfo-0000534961,3588178,,
+461684ca-8fcd-11eb-924d-9cd76263cbd0,species,androssovii,,,"(Roshev.) Tzvelev",,1972,,"Novosti Sist. Vyssh. Rast. 9: 63 1972",,,,469f05b6-8fcd-11eb-924d-9cd76263cbd0,,386543-1,wfo-0000841011,,,

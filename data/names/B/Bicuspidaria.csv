@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e038e0e4-8fd1-11eb-924d-9cd76263cbd0,genus,Bicuspidaria,,,"(S.Watson) Rydb.",1903,"Bull. Torrey Bot. Club 30(5): 275. 1903.",,,,,,wfo-4000004582,7289803,
-b14e8ffe-8fcc-11eb-924d-9cd76263cbd0,species,hirsutissima,Bicuspidaria,,"(S.Watson) Rydb.",1903,"Bull. Torrey Bot. Club 30: 275 1903",,,,bd16452e-8fcd-11eb-924d-9cd76263cbd0,32276-2,wfo-0000565133,4021646,
-b14ed4c8-8fcc-11eb-924d-9cd76263cbd0,species,involucrata,Bicuspidaria,,"(S.Watson) Rydb.",1903,"Bull. Torrey Bot. Club 30: 275 1903",,,,bd169e20-8fcd-11eb-924d-9cd76263cbd0,32277-2,wfo-0000565135,4021632,
-b14ef5d4-8fcc-11eb-924d-9cd76263cbd0,species,tricuspis,Bicuspidaria,,"(A.Gray) Rydb.",1903,"Bull. Torrey Bot. Club 30: 275 1903",,,,bd1abb86-8fcd-11eb-924d-9cd76263cbd0,32278-2,wfo-0000565136,4021624,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e038e0e4-8fd1-11eb-924d-9cd76263cbd0,genus,Bicuspidaria,,,"(S.Watson) Rydb.",,1903,,"Bull. Torrey Bot. Club 30(5): 275. 1903.",,,,,,,wfo-4000004582,7289803,,
+b14e8ffe-8fcc-11eb-924d-9cd76263cbd0,species,hirsutissima,Bicuspidaria,,"(S.Watson) Rydb.",,1903,,"Bull. Torrey Bot. Club 30: 275 1903",,Q55766771,,bd16452e-8fcd-11eb-924d-9cd76263cbd0,,32276-2,wfo-0000565133,4021646,,
+b14ed4c8-8fcc-11eb-924d-9cd76263cbd0,species,involucrata,Bicuspidaria,,"(S.Watson) Rydb.",,1903,,"Bull. Torrey Bot. Club 30: 275 1903",,Q55766771,,bd169e20-8fcd-11eb-924d-9cd76263cbd0,,32277-2,wfo-0000565135,4021632,,
+b14ef5d4-8fcc-11eb-924d-9cd76263cbd0,species,tricuspis,Bicuspidaria,,"(A.Gray) Rydb.",,1903,,"Bull. Torrey Bot. Club 30: 275 1903",,Q55766771,,bd1abb86-8fcd-11eb-924d-9cd76263cbd0,,32278-2,wfo-0000565136,4021624,,

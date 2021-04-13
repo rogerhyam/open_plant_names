@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaec410c-8fd1-11eb-924d-9cd76263cbd0,genus,Stuebelia,,,Pax,1887,"Bot. Jahrb. Syst. 9: 39. 1887.",,,,,,wfo-4000036964,7273388,
-65b5fce4-8fcc-11eb-924d-9cd76263cbd0,species,nemorosa,Stuebelia,,"(Jacq.) Dugand",1935,"Trop. Woods 43: 15 1935",,,,bd9d4f34-8fcc-11eb-924d-9cd76263cbd0,247395-2,wfo-0000439359,3872515,
-65b6c5ca-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Stuebelia,,Pax,1888,"Bot. Jahrb. Syst. 9: 89 1888",,,,,,wfo-0000439365,3872502,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaec410c-8fd1-11eb-924d-9cd76263cbd0,genus,Stuebelia,,,Pax,,1887,,"Bot. Jahrb. Syst. 9: 39. 1887.",,,,,,,wfo-4000036964,7273388,,
+65b5fce4-8fcc-11eb-924d-9cd76263cbd0,species,nemorosa,Stuebelia,,"(Jacq.) Dugand",,1935,,"Trop. Woods 43: 15 1935",,,,bd9d4f34-8fcc-11eb-924d-9cd76263cbd0,,247395-2,wfo-0000439359,3872515,,
+65b6c5ca-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Stuebelia,,Pax,,1888,,"Bot. Jahrb. Syst. 9: 89 1888",,,,,,,wfo-0000439365,3872502,,

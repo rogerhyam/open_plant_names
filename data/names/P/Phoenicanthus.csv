@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e86648ce-8fd1-11eb-924d-9cd76263cbd0,genus,Phoenicanthus,,,Alston,1931,"Handb. Fl. Ceylon 6: 6–7. 1931.",,,,,2105-1,wfo-4000029293,3157401,
-ba038130-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Phoenicanthus,,"(Thwaites) H.Huber",1985,"Rev. Handb. Fl. Ceylon 5: 23 1985",,,,,915349-1,wfo-0001066463,,
-ba039d50-8fcd-11eb-924d-9cd76263cbd0,species,obliquus,Phoenicanthus,,"(Hook.f. & Thomson) Alston",1931,"Handb. Fl. Ceylon 6: 7 1931",,,,,74460-1,wfo-0001066464,3157402,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e86648ce-8fd1-11eb-924d-9cd76263cbd0,genus,Phoenicanthus,,,Alston,,1931,,"Handb. Fl. Ceylon 6: 6–7. 1931.",,,,,,2105-1,wfo-4000029293,3157401,,
+ba038130-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Phoenicanthus,,"(Thwaites) H.Huber",,1985,,"Rev. Handb. Fl. Ceylon 5: 23 1985",,,,,,915349-1,wfo-0001066463,,,
+ba039d50-8fcd-11eb-924d-9cd76263cbd0,species,obliquus,Phoenicanthus,,"(Hook.f. & Thomson) Alston",,1931,,"Handb. Fl. Ceylon 6: 7 1931",,,,,,74460-1,wfo-0001066464,3157402,,

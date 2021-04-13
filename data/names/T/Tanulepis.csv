@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb196b00-8fd1-11eb-924d-9cd76263cbd0,genus,Tanulepis,,,"Balf.f. ex Baker",1877,"Fl. Mauritius 225. 1877.",,,,,,wfo-4000037542,7311746,
-cb495ffa-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Tanulepis,,"(Choux) Choux",1914,"Compt. Rend. Hebd. Séances Acad. Sci. 158: 425 1914",,,,,102098-1,wfo-0001104908,3571677,
-cb497d32-8fcd-11eb-924d-9cd76263cbd0,species,crassifolia,Tanulepis,,"(Decne.) Choux",1914,"Ann. Mus. Colon. Marseille, sér. 3, 2: 254 1914",,,,e55e9c30-8fcc-11eb-924d-9cd76263cbd0,102099-1,wfo-0001104909,3571668,
-cb01b132-8fcd-11eb-924d-9cd76263cbd0,species,decaryi,Tanulepis,,Choux,1923,"Bull. Mus. Natl. Hist. Nat. 29: 449–450 1923",,,,,102100-1,wfo-0001104252,3571662,
-cb005fe4-8fcd-11eb-924d-9cd76263cbd0,species,linearis,Tanulepis,,"(Decne.) Choux",1914,"Ann. Mus. Colon. Marseille, sér. 3, 2: 255 1914",,,,,102101-1,wfo-0001104240,3571655,
-cb4999e8-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Tanulepis,,"(Schltr.) Choux",1914,"Ann. Mus. Colon. Marseille, sér. 3, 2: 262 1914",,,,,,wfo-0001104910,3571647,
-ca5ec9a4-8fcd-11eb-924d-9cd76263cbd0,species,sphenophylla,Tanulepis,,Balf.f.,1878,"J. Linn. Soc., Bot. 16: 17 1878",,,,,102103-1,wfo-0001102815,8190540,
-50a7196e-8fcc-11eb-924d-9cd76263cbd0,species,stenophylla,Tanulepis,,"Balf.f. ex K.Schum.",1895,"Nat. Pflanzenfam. 4(2): 215 1895",,,,,102104-1,wfo-0000411451,3571631,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb196b00-8fd1-11eb-924d-9cd76263cbd0,genus,Tanulepis,,,"Balf.f. ex Baker",,1877,,"Fl. Mauritius 225. 1877.",,,,,,,wfo-4000037542,7311746,,
+cb495ffa-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Tanulepis,,"(Choux) Choux",,1914,,"Compt. Rend. Hebd. Séances Acad. Sci. 158: 425 1914",,,,,,102098-1,wfo-0001104908,3571677,,
+cb497d32-8fcd-11eb-924d-9cd76263cbd0,species,crassifolia,Tanulepis,,"(Decne.) Choux",,1914,,"Ann. Mus. Colon. Marseille, sér. 3, 2: 254 1914",,,,e55e9c30-8fcc-11eb-924d-9cd76263cbd0,,102099-1,wfo-0001104909,3571668,,
+cb01b132-8fcd-11eb-924d-9cd76263cbd0,species,decaryi,Tanulepis,,Choux,,1923,,"Bull. Mus. Natl. Hist. Nat. 29: 449–450 1923",,,,,,102100-1,wfo-0001104252,3571662,,
+cb005fe4-8fcd-11eb-924d-9cd76263cbd0,species,linearis,Tanulepis,,"(Decne.) Choux",,1914,,"Ann. Mus. Colon. Marseille, sér. 3, 2: 255 1914",,,,,,102101-1,wfo-0001104240,3571655,,
+cb4999e8-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Tanulepis,,"(Schltr.) Choux",,1914,,"Ann. Mus. Colon. Marseille, sér. 3, 2: 262 1914",,,,,,,wfo-0001104910,3571647,,
+ca5ec9a4-8fcd-11eb-924d-9cd76263cbd0,species,sphenophylla,Tanulepis,,Balf.f.,,1878,,"J. Linn. Soc., Bot. 16: 17 1878",,Q55760137,,,,102103-1,wfo-0001102815,8190540,,
+50a7196e-8fcc-11eb-924d-9cd76263cbd0,species,stenophylla,Tanulepis,,"Balf.f. ex K.Schum.",,1895,,"Nat. Pflanzenfam. 4(2): 215 1895",,,,,,102104-1,wfo-0000411451,3571631,,

@@ -1,9 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2f90d22-8fd1-11eb-924d-9cd76263cbd0,genus,Doga,,,,,,,,,,,wfo-4000012340,,
-b5e9f2dc-8fcd-11eb-924d-9cd76263cbd0,species,macrogemma,Doga,,"Pancher ex Baillon",1870,"Hist. Pl. 2: 132 1870",,,,,,wfo-0001057048,7912734,
-e5d2248e-8fcc-11eb-924d-9cd76263cbd0,species,pancheri,Doga,,"(Baill.) Baum.-Bod.",1989,"Syst. Fl. Neu-Caledonien 5: 77 1989",,,,,946712-1,wfo-0000653214,3974762,
-37012d64-8fcd-11eb-924d-9cd76263cbd0,species,aporoides,Dolabrifolia,,"(Summerh.) Szlach. & Romowicz",2007,"Richardiana 7: 54 2007",,,,8f32dd16-8fcd-11eb-924d-9cd76263cbd0,77081753-1,wfo-0000808492,2833705,
-37014e20-8fcd-11eb-924d-9cd76263cbd0,species,bancoensis,Dolabrifolia,,"(Burg) Szlach. & Romowicz",2007,"Richardiana 7: 54 2007",,,,f9d45926-8fcb-11eb-924d-9cd76263cbd0,77081754-1,wfo-0000808493,2833465,
-37016c34-8fcd-11eb-924d-9cd76263cbd0,species,disticha,Dolabrifolia,,"(Lindl.) Szlach. & Romowicz",2007,"Richardiana 7: 54 2007",,,,,77081755-1,wfo-0000808494,2833494,
-3701a51e-8fcd-11eb-924d-9cd76263cbd0,species,podochiloides,Dolabrifolia,,"(Schltr.) Szlach. & Romowicz",2007,"Richardiana 7: 54 2007",,,,,77081756-1,wfo-0000808496,2833827,
-3701c08a-8fcd-11eb-924d-9cd76263cbd0,species,poppendickiana,Dolabrifolia,,"(Szlach. & Olszewski) Szlach. & Romowicz",2007,"Richardiana 7: 54 2007",,,,,77081757-1,wfo-0000808497,2833493,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2f90d22-8fd1-11eb-924d-9cd76263cbd0,genus,Doga,,,,,,,,,,,,,,wfo-4000012340,,,
+b5e9f2dc-8fcd-11eb-924d-9cd76263cbd0,species,macrogemma,Doga,,"Pancher ex Baillon",,1870,,"Hist. Pl. 2: 132 1870",,,,,,,wfo-0001057048,7912734,,
+e5d2248e-8fcc-11eb-924d-9cd76263cbd0,species,pancheri,Doga,,"(Baill.) Baum.-Bod.",,1989,,"Syst. Fl. Neu-Caledonien 5: 77 1989",,,,,,946712-1,wfo-0000653214,3974762,,

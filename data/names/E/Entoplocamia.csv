@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e356c85e-8fd1-11eb-924d-9cd76263cbd0,genus,Entoplocamia,,,Stapf,1898,"Fl. Cap. 7: 318. 1898. (Jul 1898)",,,,,18027-1,wfo-4000013507,4151571,
-5237efb4-8fcd-11eb-924d-9cd76263cbd0,species,aristulata,Entoplocamia,,"(Hack. ex Rendle) Stapf",1900,"Fl. Cap. 7: 711 1900",,,,,400694-1,wfo-0000867214,4151590,
-52381f98-8fcd-11eb-924d-9cd76263cbd0,species,benguellensis,Entoplocamia,,Rendle,1899,"Cat. Afr. Pl. 2: 228 1899",,,,,400695-1,wfo-0000867215,4151580,
-52385350-8fcd-11eb-924d-9cd76263cbd0,species,procera,Entoplocamia,,Chiov.,1924,"Boll. Soc. Bot. Ital. 1924: 45 1924",,,,,400696-1,wfo-0000867216,4151570,
-42f1ae3c-8fcd-11eb-924d-9cd76263cbd0,species,indicum,Entosiphon,,Bedd.,1864,"Madras J. Lit. Sci. III, 1: 45 1864",,,,,724767-1,wfo-0000834243,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e356c85e-8fd1-11eb-924d-9cd76263cbd0,genus,Entoplocamia,,,Stapf,,1898,,"Fl. Cap. 7: 318. 1898. (Jul 1898)",,,,,,18027-1,wfo-4000013507,4151571,,
+5237efb4-8fcd-11eb-924d-9cd76263cbd0,species,aristulata,Entoplocamia,,"(Hack. ex Rendle) Stapf",,1900,,"Fl. Cap. 7: 711 1900",,,,,,400694-1,wfo-0000867214,4151590,,
+52381f98-8fcd-11eb-924d-9cd76263cbd0,species,benguellensis,Entoplocamia,,Rendle,,1899,,"Cat. Afr. Pl. 2: 228 1899",,,,,,400695-1,wfo-0000867215,4151580,,
+52385350-8fcd-11eb-924d-9cd76263cbd0,species,procera,Entoplocamia,,Chiov.,,1924,,"Boll. Soc. Bot. Ital. 1924: 45 1924",,,,,,400696-1,wfo-0000867216,4151570,,

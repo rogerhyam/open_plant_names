@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfdc4758-8fd1-11eb-924d-9cd76263cbd0,genus,Asterotrichion,,,Klotzsch,1841,"Icon. Pl. Rar. [Link et al.] 1: 19. 1841[1840]. (15-21 Nov 1840)",,,,,25791-1,wfo-4000003431,7279542,
-a89958c6-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Asterotrichion,,"(Hook.) Melville",1966,"Kew Bull. 20: 512 1966",,,,,,wfo-0000552797,3939929,
-a89975cc-8fcc-11eb-924d-9cd76263cbd0,species,sidoides,Asterotrichion,,Klotzsch,1841,"Icon. Pl. Rar. 1: 19 1841",,,,,559016-1,wfo-0000552798,3939915,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfdc4758-8fd1-11eb-924d-9cd76263cbd0,genus,Asterotrichion,,,Klotzsch,,1841,,"Icon. Pl. Rar. [Link et al.] 1: 19. 1841[1840]. (15-21 Nov 1840)",,,,,,25791-1,wfo-4000003431,7279542,,
+a89958c6-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Asterotrichion,,"(Hook.) Melville",,1966,,"Kew Bull. 20: 512 1966",,,,,,,wfo-0000552797,3939929,,
+a89975cc-8fcc-11eb-924d-9cd76263cbd0,species,sidoides,Asterotrichion,,Klotzsch,,1841,,"Icon. Pl. Rar. 1: 19 1841",,,,,,559016-1,wfo-0000552798,3939915,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e78f7a88-8fd1-11eb-924d-9cd76263cbd0,genus,Ongokea,,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1312. 1897. (15 Jul 1897)",,,,,28243-1,wfo-4000026869,2889807,
-3f4b06f8-8fcc-11eb-924d-9cd76263cbd0,species,gore,Ongokea,,"(Hua) Pierre",,"Bull. Mens. Soc. Linn. Paris 2: 1314 1897",,,,,608169-1,wfo-0000389510,2889808,
-3f4ad728-8fcc-11eb-924d-9cd76263cbd0,species,kamerunensis,Ongokea,,Engl.,1909,"Notizbl. Königl. Bot. Gart. Berlin, Append. 21: 2 1909",,,,,608170-1,wfo-0000389509,3685871,
-3f4aabd6-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Ongokea,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1314 1897",,,,,608171-1,wfo-0000389508,2889809,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e78f7a88-8fd1-11eb-924d-9cd76263cbd0,genus,Ongokea,,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1312. 1897. (15 Jul 1897)",,,,,,28243-1,wfo-4000026869,2889807,,
+3f4b06f8-8fcc-11eb-924d-9cd76263cbd0,species,gore,Ongokea,,"(Hua) Pierre",,,,"Bull. Mens. Soc. Linn. Paris 2: 1314 1897",,,,,,608169-1,wfo-0000389510,2889808,,
+3f4ad728-8fcc-11eb-924d-9cd76263cbd0,species,kamerunensis,Ongokea,,Engl.,,1909,,"Notizbl. Königl. Bot. Gart. Berlin, Append. 21: 2 1909",,,,,,608170-1,wfo-0000389509,3685871,,
+3f4aabd6-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Ongokea,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1314 1897",,,,,,608171-1,wfo-0000389508,2889809,,

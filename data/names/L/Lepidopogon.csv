@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bd6936-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidopogon,,,,,,,,,,,wfo-4000021131,7338754,
-6e80f352-8fb2-11eb-924d-9cd76263cbd0,species,gnaphalodes,Lepidopogon,,Tausch,1831,"in Flora, xiv. (1831) 224. xiv.  224 1831",,,,,229740-1,wfo-0000024342,4250653,
-58ef58a6-8fb9-11eb-924d-9cd76263cbd0,species,ponae,Lepidopogon,,Tausch,1829,"in Flora, xii. (1829) I. Erg. 37. xii.  I. Erg. 37 1829",,,,,229741-1,wfo-0000117592,4250645,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bd6936-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidopogon,,,,,,,,,,,,,,wfo-4000021131,7338754,,
+6e80f352-8fb2-11eb-924d-9cd76263cbd0,species,gnaphalodes,Lepidopogon,,Tausch,,1831,,"in Flora, xiv. (1831) 224. xiv.  224 1831",,,,,,229740-1,wfo-0000024342,4250653,,
+58ef58a6-8fb9-11eb-924d-9cd76263cbd0,species,ponae,Lepidopogon,,Tausch,,1829,,"in Flora, xii. (1829) I. Erg. 37. xii.  I. Erg. 37 1829",,,,,,229741-1,wfo-0000117592,4250645,,

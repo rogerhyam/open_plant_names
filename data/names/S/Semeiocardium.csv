@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea43caea-8fd1-11eb-924d-9cd76263cbd0,genus,Semeiocardium,,,Zoll.,1858,"Natuurk. Tijdschr. Ned.-Indie% 17: 245. 1858.",,,,,,wfo-4000035020,7309704,
-5fdcb7d6-8fcc-11eb-924d-9cd76263cbd0,species,arriensii,Semeiocardium,,Zoll.,1935,"Gard. Bull. Straits Settlem. 9: 72 1935",,,,,104059-1,wfo-0000431107,4193294,
-ad617cda-8fd1-11eb-924d-9cd76263cbd0,species,hamiltonii,Semeiocardium,,Hassk.,1863,"Ann. Mus. Bot. Lugduno-Batavi 1: 151 1863",,,,,692792-1,wfo-0001219806,4193271,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea43caea-8fd1-11eb-924d-9cd76263cbd0,genus,Semeiocardium,,,Zoll.,,1858,,"Natuurk. Tijdschr. Ned.-Indie% 17: 245. 1858.",,,,,,,wfo-4000035020,7309704,,
+5fdcb7d6-8fcc-11eb-924d-9cd76263cbd0,species,arriensii,Semeiocardium,,Zoll.,,1935,,"Gard. Bull. Straits Settlem. 9: 72 1935",,,,,,104059-1,wfo-0000431107,4193294,,
+ad617cda-8fd1-11eb-924d-9cd76263cbd0,species,hamiltonii,Semeiocardium,,Hassk.,,1863,,"Ann. Mus. Bot. Lugduno-Batavi 1: 151 1863",,,,,,692792-1,wfo-0001219806,4193271,,

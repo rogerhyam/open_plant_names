@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4b0c056-8fd1-11eb-924d-9cd76263cbd0,genus,Heteroneurum,,,C.Presl,1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 528–529. 1851.",,,,,,wfo-4000017740,7288635,
-ac65ee96-8fcd-11eb-924d-9cd76263cbd0,species,argutum,Heteroneurum,,"(Fée) C.Presl",1851,"Epim. Bot. 169 1851",,,,ac65d514-8fcd-11eb-924d-9cd76263cbd0,77080746-1,wfo-0001035511,4011279,
-52e09ebc-8fbd-11eb-924d-9cd76263cbd0,species,cuspidatum,Heteroneurum,,C.Presl,1851,"Epimel. Bot. 169 1851 [Oct 1851]",,,,,17119580-1,wfo-0000147072,4011268,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4b0c056-8fd1-11eb-924d-9cd76263cbd0,genus,Heteroneurum,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 528–529. 1851.",,,,,,,wfo-4000017740,7288635,,
+ac65ee96-8fcd-11eb-924d-9cd76263cbd0,species,argutum,Heteroneurum,,"(Fée) C.Presl",,1851,,"Epim. Bot. 169 1851",,,,ac65d514-8fcd-11eb-924d-9cd76263cbd0,,77080746-1,wfo-0001035511,4011279,,
+52e09ebc-8fbd-11eb-924d-9cd76263cbd0,species,cuspidatum,Heteroneurum,,C.Presl,,1851,,"Epimel. Bot. 169 1851 [Oct 1851]",,,,,,17119580-1,wfo-0000147072,4011268,,

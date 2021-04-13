@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deccdfda-8fd1-11eb-924d-9cd76263cbd0,genus,Acriulus,,,Ridl.,1883,"J. Linn. Soc., Bot. 20: 336. 1883.",,,,,,wfo-4000000382,7313009,
-1d418afa-8fcc-11eb-924d-9cd76263cbd0,species,greigiifolius,Acriulus,,Ridl.,1883,"J. Linn. Soc., Bot. 20: 336 1883",,,,,,wfo-0000337356,2712601,
-d438444c-8fd1-11eb-924d-9cd76263cbd0,species,leopoldianus,Acriulus,,C.B.Clarke,,,,,,,,wfo-0001285753,7499116,
-1d41a8f0-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Acriulus,,Ridl.,1883,"J. Linn. Soc., Bot. 20: 336 1883",,,,,297840-1,wfo-0000337357,2712600,
-1d41c790-8fcc-11eb-924d-9cd76263cbd0,species,titan,Acriulus,,C.B.Clarke,1908,"Bull. Misc. Inform. Kew, Addit. Ser. 8: 62 1908",,,,,297841-1,wfo-0000337358,3584175,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deccdfda-8fd1-11eb-924d-9cd76263cbd0,genus,Acriulus,,,Ridl.,,1883,,"J. Linn. Soc., Bot. 20: 336. 1883.",,,,,,,wfo-4000000382,7313009,,
+1d418afa-8fcc-11eb-924d-9cd76263cbd0,species,greigiifolius,Acriulus,,Ridl.,,1883,,"J. Linn. Soc., Bot. 20: 336 1883",,,,,,,wfo-0000337356,2712601,,
+d438444c-8fd1-11eb-924d-9cd76263cbd0,species,leopoldianus,Acriulus,,C.B.Clarke,,,,,,,,,,,wfo-0001285753,7499116,,
+1d41a8f0-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Acriulus,,Ridl.,,1883,,"J. Linn. Soc., Bot. 20: 336 1883",,Q55760244,,,,297840-1,wfo-0000337357,2712600,,
+1d41c790-8fcc-11eb-924d-9cd76263cbd0,species,titan,Acriulus,,C.B.Clarke,,1908,,"Bull. Misc. Inform. Kew, Addit. Ser. 8: 62 1908",,,,,,297841-1,wfo-0000337358,3584175,,

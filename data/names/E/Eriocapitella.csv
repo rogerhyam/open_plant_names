@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36de9da-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocapitella,,,Nakai,1941,"J. Jap. Bot. 17: 267. 1941[1941].",,,,,33128-1,wfo-4000013803,9777080,
-c5d09fb2-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Eriocapitella,,"(Decne.) Nakai",,,,,,,,wfo-0001264735,3925315,
-f2210cb4-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Eriocapitella,,"(Decne.) Nakai",1941,"J. Jap. Bot. 17: 270 1941",,,,,711199-1,wfo-0000674275,3925315,
-f22126b8-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Eriocapitella,,"(Thunb.) Nakai",1941,"J. Jap. Bot. 17: 268 1941",,,,,711200-1,wfo-0000674276,3925307,
-f2215bd8-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Eriocapitella,,"(Buch.-Ham. ex DC.) Nakai",1941,"J. Jap. Bot. 17: 269 1941",,,,9e7d3826-8fcc-11eb-924d-9cd76263cbd0,711201-1,wfo-0000674278,3925297,
-f22141e8-8fcc-11eb-924d-9cd76263cbd0,variety,matsudae,Eriocapitella,vitifolia,"(Yamam.) Nakai",1941,"J. Jap. Bot. 17: 270 1941",,,,,,wfo-0000674277,,
-17c1d368-8fcd-11eb-924d-9cd76263cbd0,variety,tomentosa,Eriocapitella,vitifolia,"(Maxim.) Nakai",1941,"J. Jap. Bot. 17: 270 1941",,,,,,wfo-0000742277,7861656,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36de9da-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocapitella,,,Nakai,,1941,,"J. Jap. Bot. 17: 267. 1941[1941].",,Q104820253,,,,33128-1,wfo-4000013803,9777080,,
+c5d09fb2-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Eriocapitella,,"(Decne.) Nakai",,,,,,,,,,,wfo-0001264735,3925315,,
+f2210cb4-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Eriocapitella,,"(Decne.) Nakai",,1941,,"J. Jap. Bot. 17: 270 1941",,Q104820253,,,,711199-1,wfo-0000674275,3925315,,
+f22126b8-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Eriocapitella,,"(Thunb.) Nakai",,1941,,"J. Jap. Bot. 17: 268 1941",,Q104820253,,,,711200-1,wfo-0000674276,3925307,,
+f2215bd8-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Eriocapitella,,"(Buch.-Ham. ex DC.) Nakai",,1941,,"J. Jap. Bot. 17: 269 1941",,Q104820253,,9e7d3826-8fcc-11eb-924d-9cd76263cbd0,,711201-1,wfo-0000674278,3925297,,
+f22141e8-8fcc-11eb-924d-9cd76263cbd0,variety,matsudae,Eriocapitella,vitifolia,"(Yamam.) Nakai",,1941,,"J. Jap. Bot. 17: 270 1941",,,,,,,wfo-0000674277,,,
+17c1d368-8fcd-11eb-924d-9cd76263cbd0,variety,tomentosa,Eriocapitella,vitifolia,"(Maxim.) Nakai",,1941,,"J. Jap. Bot. 17: 270 1941",,,,,,,wfo-0000742277,7861656,,

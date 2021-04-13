@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54ffeaa-8fd1-11eb-924d-9cd76263cbd0,genus,Kandelia,,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 1: 310. 1834.",,,,,1142980-2,wfo-4000019824,6370895,
-d76e1b36-8fcd-11eb-924d-9cd76263cbd0,species,candel,Kandelia,,"(L.) Druce",1914,"Bot. Exch. Club Soc. Brit. Isles 3: 420 1914",,,,d7729fb2-8fcd-11eb-924d-9cd76263cbd0,719761-1,wfo-0001131563,3874179,
-cc1e3af0-8fd1-11eb-924d-9cd76263cbd0,species,obovata,Kandelia,,"Sheue, H.Y.Liu & J.Yong",2003,"Taxon 52(2): 291–293, f. 3a–k 2003",,,,,70028704-1,wfo-0001276482,3874170,
-29d316c6-8fcc-11eb-924d-9cd76263cbd0,species,rheedii,Kandelia,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 311 1834",,,,,719762-1,wfo-0000357244,,
-29ceb180-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Kandena,,Raf.,1838,"Sylva Tellur. 138 1838",,,,,779324-1,wfo-0000357209,3796591,
-2925ffd6-8fcc-11eb-924d-9cd76263cbd0,species,perfoliata,Kandis,,"(L.) Kerguélen",1993,"Coll. Patrim. Nat. 8: xiv 1993",,,,,971204-1,wfo-0000356065,3688165,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54ffeaa-8fd1-11eb-924d-9cd76263cbd0,genus,Kandelia,,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 1: 310. 1834.",,,,,,1142980-2,wfo-4000019824,6370895,,
+d76e1b36-8fcd-11eb-924d-9cd76263cbd0,species,candel,Kandelia,,"(L.) Druce",,1914,,"Bot. Exch. Club Soc. Brit. Isles 3: 420 1914",,,,d7729fb2-8fcd-11eb-924d-9cd76263cbd0,,719761-1,wfo-0001131563,3874179,,
+cc1e3af0-8fd1-11eb-924d-9cd76263cbd0,species,obovata,Kandelia,,"Sheue, H.Y.Liu & J.Yong",,2003,,"Taxon 52(2): 291–293, f. 3a–k 2003",,Q28959544,,,,70028704-1,wfo-0001276482,3874170,,
+29d316c6-8fcc-11eb-924d-9cd76263cbd0,species,rheedii,Kandelia,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 311 1834",,,,,,719762-1,wfo-0000357244,,,
+29ceb180-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Kandena,,Raf.,,1838,,"Sylva Tellur. 138 1838",,,,,,779324-1,wfo-0000357209,3796591,,
+2925ffd6-8fcc-11eb-924d-9cd76263cbd0,species,perfoliata,Kandis,,"(L.) Kerguélen",,1993,,"Coll. Patrim. Nat. 8: xiv 1993",,,,,,971204-1,wfo-0000356065,3688165,,

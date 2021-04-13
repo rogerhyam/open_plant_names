@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e99e39b8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhinostegia,,,Turcz.,1843,"Bull. Soc. Imp. Naturalistes Moscou 16: 56. 1843.",,,,,,wfo-4000032958,7265278,
-73e36248-8fcc-11eb-924d-9cd76263cbd0,species,brevifolia,Rhinostegia,,Turcz.,1843,"Bull. Soc. Imp. Naturalistes Moscou 16: 57 1843",,,,,780582-1,wfo-0000463890,3789561,
-73e390e2-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Rhinostegia,,Turcz.,1843,"Bull. Soc. Imp. Naturalistes Moscou 16: 57 1843",,,,,780583-1,wfo-0000463891,3789554,
-46d42882-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Rhinostigma,,Miq.,1861,"Fl. Ned. Ind., Eerste Bijv. 495 1861",,,,,429217-1,wfo-0000398928,5556019,
-d2ad235e-8fd1-11eb-924d-9cd76263cbd0,species,parvifolium,Rhinostigma,,Miq.,1861,"Fl. Ned. Ind., Eerste Bijv. 3: 495 1861",,,,,429218-1,wfo-0001283540,5556017,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e99e39b8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhinostegia,,,Turcz.,,1843,,"Bull. Soc. Imp. Naturalistes Moscou 16: 56. 1843.",,,,,,,wfo-4000032958,7265278,,
+73e36248-8fcc-11eb-924d-9cd76263cbd0,species,brevifolia,Rhinostegia,,Turcz.,,1843,,"Bull. Soc. Imp. Naturalistes Moscou 16: 57 1843",,,,,,780582-1,wfo-0000463890,3789561,,
+73e390e2-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Rhinostegia,,Turcz.,,1843,,"Bull. Soc. Imp. Naturalistes Moscou 16: 57 1843",,,,,,780583-1,wfo-0000463891,3789554,,
+46d42882-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Rhinostigma,,Miq.,,1861,,"Fl. Ned. Ind., Eerste Bijv. 495 1861",,,,,,429217-1,wfo-0000398928,5556019,,
+d2ad235e-8fd1-11eb-924d-9cd76263cbd0,species,parvifolium,Rhinostigma,,Miq.,,1861,,"Fl. Ned. Ind., Eerste Bijv. 3: 495 1861",,,,,,429218-1,wfo-0001283540,5556017,,

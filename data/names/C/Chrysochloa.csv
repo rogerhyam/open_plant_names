@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1b12814-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysochloa,,,Swallen,1941,"Proc. Biol. Soc. Washington 54: 44. 1941.",,,,,17750-1,wfo-4000008196,3232790,
-4ec9c4e2-8fcd-11eb-924d-9cd76263cbd0,species,annua,Chrysochloa,,C.E.Hubb.,1957,"Kew Bull. 12: 59 1957",,,,,396102-1,wfo-0000859788,5677969,
-4ec9df0e-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Chrysochloa,,Clayton,1960,"Kew Bull. 14: 239 1960",,,,,396103-1,wfo-0000859789,5677967,
-4ec9fbe2-8fcd-11eb-924d-9cd76263cbd0,species,hindsii,Chrysochloa,,C.E.Hubb.,1949,"Kew Bull. 4: 349 1949",,,,,396104-1,wfo-0000859790,5677964,
-4eca17e4-8fcd-11eb-924d-9cd76263cbd0,species,hubbardiana,Chrysochloa,,"Germ. & Risop.",1952,"Bull. Jard. Bot. État 22: 71 1952",,,,,396105-1,wfo-0000859791,5677961,
-4eca3292-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Chrysochloa,,"(Swallen) Swallen",1941,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,,396106-1,wfo-0000859792,5677958,
-4eca4cb4-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Chrysochloa,,"(C.E.Hubb.) Swallen",1941,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,4c4f9cf0-8fcd-11eb-924d-9cd76263cbd0,396107-1,wfo-0000859793,5677957,
-4eca8080-8fcd-11eb-924d-9cd76263cbd0,species,subaequigluma,Chrysochloa,,"(Rendle) Swallen",1941,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,4ebe1408-8fcd-11eb-924d-9cd76263cbd0,396108-1,wfo-0000859795,5677955,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1b12814-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysochloa,,,Swallen,,1941,,"Proc. Biol. Soc. Washington 54: 44. 1941.",,,,,,17750-1,wfo-4000008196,3232790,,
+4ec9c4e2-8fcd-11eb-924d-9cd76263cbd0,species,annua,Chrysochloa,,C.E.Hubb.,,1957,,"Kew Bull. 12: 59 1957",,Q43259025,,,,396102-1,wfo-0000859788,5677969,,
+4ec9df0e-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Chrysochloa,,Clayton,,1960,,"Kew Bull. 14: 239 1960",,Q43258397,,,,396103-1,wfo-0000859789,5677967,,
+4ec9fbe2-8fcd-11eb-924d-9cd76263cbd0,species,hindsii,Chrysochloa,,C.E.Hubb.,,1949,,"Kew Bull. 4: 349 1949",,Q55779636,,,,396104-1,wfo-0000859790,5677964,,
+4eca17e4-8fcd-11eb-924d-9cd76263cbd0,species,hubbardiana,Chrysochloa,,"Germ. & Risop.",,1952,,"Bull. Jard. Bot. État 22: 71 1952",,Q55775656,,,,396105-1,wfo-0000859791,5677961,,
+4eca3292-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Chrysochloa,,"(Swallen) Swallen",,1941,,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,,,396106-1,wfo-0000859792,5677958,,
+4eca4cb4-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Chrysochloa,,"(C.E.Hubb.) Swallen",,1941,,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,4c4f9cf0-8fcd-11eb-924d-9cd76263cbd0,,396107-1,wfo-0000859793,5677957,,
+4eca8080-8fcd-11eb-924d-9cd76263cbd0,species,subaequigluma,Chrysochloa,,"(Rendle) Swallen",,1941,,"Proc. Biol. Soc. Wash. 54: 44 1941",,,,4ebe1408-8fcd-11eb-924d-9cd76263cbd0,,396108-1,wfo-0000859795,5677955,,

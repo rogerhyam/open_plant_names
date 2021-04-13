@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7ff45f2-8fd1-11eb-924d-9cd76263cbd0,genus,Parapteropyrum,,,A.J.Li,1981,"Acta Phytotax. Sin. 19: 330. 1981.",,,,,,wfo-4000028131,7291802,
-bbced4c0-8fd1-11eb-924d-9cd76263cbd0,species,tibeticum,Parapteropyrum,,A.J.Li,1981,"Acta Phytotax. Sin. 19(3): 330–331, pl. 9 1981",,,,,898360-1,wfo-0001246251,4037331,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7ff45f2-8fd1-11eb-924d-9cd76263cbd0,genus,Parapteropyrum,,,A.J.Li,,1981,,"Acta Phytotax. Sin. 19: 330. 1981.",,,,,,,wfo-4000028131,7291802,,
+bbced4c0-8fd1-11eb-924d-9cd76263cbd0,species,tibeticum,Parapteropyrum,,A.J.Li,,1981,,"Acta Phytotax. Sin. 19(3): 330–331, pl. 9 1981",,,,,,898360-1,wfo-0001246251,4037331,,

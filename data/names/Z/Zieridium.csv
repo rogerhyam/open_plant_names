@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec39ea64-8fd1-11eb-924d-9cd76263cbd0,genus,Zieridium,,,Baill.,1872,"Adansonia 10: 303. 1872.",,,,,,wfo-4000041219,7268888,
-5e668756-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Zieridium,,Baill.,1872,"Adansonia 10: 304 1872",,,,,776149-1,wfo-0000429256,3831689,
-5e665146-8fcc-11eb-924d-9cd76263cbd0,species,melicopifolium,Zieridium,,Guillaumin,1938,"Bull. Soc. Bot. France 85: 299 1938",,,,,776150-1,wfo-0000429255,3831677,
-c3e8b55e-8fd1-11eb-924d-9cd76263cbd0,species,pseudo-obtusifolium,Zieridium,,"(Guillaumin) Guillaumin",1938,"Bull. Soc. Bot. France 85: 299 1938",,,,,776151-1,wfo-0001261313,,
-1c28bfb2-8fcc-11eb-924d-9cd76263cbd0,species,lavandulifolia,Zietenia,,"(Vahl) Link",1822,"Enum. Hort. Berol. Alt. 2: 110 1822",,,,,461956-1,wfo-0000335434,3899628,
-1c28de7a-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Zietenia,,Gled.,1766,"Mém. Acad. Roy. Sci. Hist. (Berlin) 1766: 3 1766",,,,,461957-1,wfo-0000335435,3899616,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec39ea64-8fd1-11eb-924d-9cd76263cbd0,genus,Zieridium,,,Baill.,,1872,,"Adansonia 10: 303. 1872.",,,,,,,wfo-4000041219,7268888,,
+5e668756-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Zieridium,,Baill.,,1872,,"Adansonia 10: 304 1872",,,,,,776149-1,wfo-0000429256,3831689,,
+5e665146-8fcc-11eb-924d-9cd76263cbd0,species,melicopifolium,Zieridium,,Guillaumin,,1938,,"Bull. Soc. Bot. France 85: 299 1938",,Q55757375,,,,776150-1,wfo-0000429255,3831677,,
+c3e8b55e-8fd1-11eb-924d-9cd76263cbd0,species,pseudo-obtusifolium,Zieridium,,"(Guillaumin) Guillaumin",,1938,,"Bull. Soc. Bot. France 85: 299 1938",,Q55757375,,,,776151-1,wfo-0001261313,,,
+1c28bfb2-8fcc-11eb-924d-9cd76263cbd0,species,lavandulifolia,Zietenia,,"(Vahl) Link",,1822,,"Enum. Hort. Berol. Alt. 2: 110 1822",,,,,,461956-1,wfo-0000335434,3899628,,
+1c28de7a-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Zietenia,,Gled.,,1766,,"Mém. Acad. Roy. Sci. Hist. (Berlin) 1766: 3 1766",,,,,,461957-1,wfo-0000335435,3899616,,

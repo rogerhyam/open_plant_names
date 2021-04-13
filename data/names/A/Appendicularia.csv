@@ -1,13 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfa56a12-8fd1-11eb-924d-9cd76263cbd0,genus,Appendicularia,,,DC.,1828,"Prodr. 3: 114. 1828.",,,,,26174-1,wfo-4000002769,3231501,
-bec5082a-8fd1-11eb-924d-9cd76263cbd0,species,thymifolia,Appendicularia,,"(Bonpl.) DC.",1828,"Prodr. 3: 114 1828",,,,c3c26642-8fd1-11eb-924d-9cd76263cbd0,566293-1,wfo-0001251740,5599272,
-e83b2a96-8fcb-11eb-924d-9cd76263cbd0,species,bicuspidata,Appendiculopsis,,"(J.J.Sm.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,da8af228-8fcb-11eb-924d-9cd76263cbd0,988055-1,wfo-0000252481,2802857,
-e83c6500-8fcb-11eb-924d-9cd76263cbd0,species,celebica,Appendiculopsis,,"(Schltr.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988056-1,wfo-0000252492,2802852,
-e83de9a2-8fcb-11eb-924d-9cd76263cbd0,species,confusa,Appendiculopsis,,"(J.J.Sm.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988057-1,wfo-0000252502,2802853,
-e83f54d6-8fcb-11eb-924d-9cd76263cbd0,species,costata,Appendiculopsis,,"(J.J.Sm.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988058-1,wfo-0000252513,2802819,
-e840be5c-8fcb-11eb-924d-9cd76263cbd0,variety,concava,Appendiculopsis,costata,"(Schltr.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988059-1,wfo-0000252524,2802813,
-e8423b24-8fcb-11eb-924d-9cd76263cbd0,species,elongata,Appendiculopsis,,"(Ridl.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988060-1,wfo-0000252535,2802816,
-1ef995cc-8fcc-11eb-924d-9cd76263cbd0,species,lateralis,Appendiculopsis,,"(J.J.Sm.) Szlach. & Marg.",2001,"Polish Bot. J. 46: 113 2001",,,,,,wfo-0000340429,2802891,
-e8437318-8fcb-11eb-924d-9cd76263cbd0,species,stipulata,Appendiculopsis,,"(Griff.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,e80df3e6-8fcb-11eb-924d-9cd76263cbd0,988061-1,wfo-0000252546,2802849,
-e8451fce-8fcb-11eb-924d-9cd76263cbd0,species,sumatrana,Appendiculopsis,,"(Schltr. & J.J.Sm.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988062-1,wfo-0000252555,2802830,
-e8461686-8fcb-11eb-924d-9cd76263cbd0,species,trifida,Appendiculopsis,,"(Schltr.) Szlach.",1995,"Fragm. Florist. Geobot. Suppl. 3: 120 1995",,,,,988063-1,wfo-0000252563,2802878,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfa56a12-8fd1-11eb-924d-9cd76263cbd0,genus,Appendicularia,,,DC.,,1828,,"Prodr. 3: 114. 1828.",,,,dfa56a12-8fd1-11eb-924d-9cd76263cbd0,,26174-1,wfo-4000002769,3231501,288," "
+061522f6-9bac-11eb-a8a2-19ed5c03f8d3,species,entomophila,Appendicularia,,Peck,,1885,,"Ann. Rep. N.Y. St. Mus. nat. Hist. 38: (1885)",,,,061522f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431382," "
+bec5082a-8fd1-11eb-924d-9cd76263cbd0,species,thymifolia,Appendicularia,,"(Bonpl.) DC.",,1828,,"Prodr. 3: 114 1828",,,,c3c26642-8fd1-11eb-924d-9cd76263cbd0,,566293-1,wfo-0001251740,5599272,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7374282-8fd1-11eb-924d-9cd76263cbd0,genus,Neoregnellia,,,Urb.,1924,"Repert. Spec. Nov. Regni Veg. 20: 306. 1924.",,,,,295281-2,wfo-4000025824,7323044,
-38b87eba-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Neoregnellia,,Urb.,1924,"Repert. Spec. Nov. Regni Veg. 20: 307 1924",,,,,169084-2,wfo-0000381089,3671263,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7374282-8fd1-11eb-924d-9cd76263cbd0,genus,Neoregnellia,,,Urb.,,1924,,"Repert. Spec. Nov. Regni Veg. 20: 306. 1924.",,Q55753366,,,,295281-2,wfo-4000025824,7323044,,
+38b87eba-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Neoregnellia,,Urb.,,1924,,"Repert. Spec. Nov. Regni Veg. 20: 307 1924",,Q55753366,,,,169084-2,wfo-0000381089,3671263,,

@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0e32090-8fd1-11eb-924d-9cd76263cbd0,genus,Bryotestua,,,"Thér. & P.de la Varde",1937,"Bull. Soc. Bot. France 84: 558. 1937.",,,,,,wfo-4000005602,2675039,
-e2d386a0-8fcd-11eb-924d-9cd76263cbd0,species,brevicuspis,Bryotestua,,"Thér. & P.de la Varde",1937,"Bull. Soc. Bot. France 84: 559. 2 1937",,,,,,wfo-0001155943,2675041,
-e2d3a338-8fcd-11eb-924d-9cd76263cbd0,species,longicuspis,Bryotestua,,"Thér. & P.de la Varde",1937,"Bull. Soc. Bot. France 84: 559. 3 1937",,,,,,wfo-0001155944,2675040,
-e2d3bfb2-8fcd-11eb-924d-9cd76263cbd0,species,aichiense,Bryotrichum,,Yasui,1926,"Bot. Mag. (Tokyo) 40: 18: 1 f. 1–3 1926",,,,,,wfo-0001155945,7596736,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0e32090-8fd1-11eb-924d-9cd76263cbd0,genus,Bryotestua,,,"Thér. & P.de la Varde",,1937,,"Bull. Soc. Bot. France 84: 558. 1937.",,,,,,,wfo-4000005602,2675039,,
+e2d386a0-8fcd-11eb-924d-9cd76263cbd0,species,brevicuspis,Bryotestua,,"Thér. & P.de la Varde",,1937,,"Bull. Soc. Bot. France 84: 559. 2 1937",,,,,,,wfo-0001155943,2675041,,
+e2d3a338-8fcd-11eb-924d-9cd76263cbd0,species,longicuspis,Bryotestua,,"Thér. & P.de la Varde",,1937,,"Bull. Soc. Bot. France 84: 559. 3 1937",,,,,,,wfo-0001155944,2675040,,

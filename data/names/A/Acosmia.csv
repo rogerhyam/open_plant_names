@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deca6f2a-8fd1-11eb-924d-9cd76263cbd0,genus,Acosmia,,,,,,,,,,,wfo-4000000354,,
-94565ba2-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Acosmia,,"Benth. ex G.Don",1831,"Gen. Hist. 1: 448 1831",,,,,,wfo-0000518484,7876078,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deca6f2a-8fd1-11eb-924d-9cd76263cbd0,genus,Acosmia,,,,,,,,,,,,,,wfo-4000000354,,,
+94565ba2-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Acosmia,,"Benth. ex G.Don",,1831,,"Gen. Hist. 1: 448 1831",,,,,,,wfo-0000518484,7876078,,

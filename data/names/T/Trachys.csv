@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb748936-8fd1-11eb-924d-9cd76263cbd0,genus,Trachys,,,Pers.,1805,"Syn. Pl. 1: 85. 1805.",,,,,19160-1,wfo-4000038740,3232712,
-6bdd68e0-8fcd-11eb-924d-9cd76263cbd0,species,copeana,Trachys,,"Kabeer & V.J.Nair",2007,"Kew Bull. 62: 503 2007",,,,,77083409-1,wfo-0000908337,5674934,
-6894f72a-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Trachys,,Pers.,1805,"Syn. Pl. 1: 85 1805",,,,,424398-1,wfo-0000903934,5674933,
-68951714-8fcd-11eb-924d-9cd76263cbd0,species,muricata,Trachys,,"(L.) Pers. ex Trin.",1834,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 3(2): 189 1834",,,,,,wfo-0000903935,5674932,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb748936-8fd1-11eb-924d-9cd76263cbd0,genus,Trachys,,,Pers.,,1805,,"Syn. Pl. 1: 85. 1805.",,,,,,19160-1,wfo-4000038740,3232712,,
+6bdd68e0-8fcd-11eb-924d-9cd76263cbd0,species,copeana,Trachys,,"Kabeer & V.J.Nair",,2007,,"Kew Bull. 62: 503 2007",,Q93631559,,,,77083409-1,wfo-0000908337,5674934,,
+6894f72a-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Trachys,,Pers.,,1805,,"Syn. Pl. 1: 85 1805",,,,,,424398-1,wfo-0000903934,5674933,,
+68951714-8fcd-11eb-924d-9cd76263cbd0,species,muricata,Trachys,,"(L.) Pers. ex Trin.",,1834,,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 3(2): 189 1834",,,,,,,wfo-0000903935,5674932,,

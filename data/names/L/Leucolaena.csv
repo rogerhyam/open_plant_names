@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5de3148-8fd1-11eb-924d-9cd76263cbd0,genus,Leucolaena,,,,,,,,,,,wfo-4000021551,3642453,
-2bf7dbda-8fcc-11eb-924d-9cd76263cbd0,species,candida,Leucolaena,,Benth.,1837,"Enum. Pl. Hügel 55 1837",,,,,844173-1,wfo-0000360807,3642600,
-2bf7fb2e-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Leucolaena,,Benth.,1837,"Enum. Pl. Hügel 55 1837",,,,,844174-1,wfo-0000360808,3642577,
-2bf9b892-8fcc-11eb-924d-9cd76263cbd0,species,montana,Leucolaena,,Benth.,1837,"Enum. Pl. Hügel 55 1837",,,,,844175-1,wfo-0000360817,3642561,
-2bf859ac-8fcc-11eb-924d-9cd76263cbd0,species,pannosa,Leucolaena,,Benth.,1837,"Enum. Pl. Hügel 55 1837",,,,,844176-1,wfo-0000360810,3642541,
-ae0ce81c-8fcd-11eb-924d-9cd76263cbd0,species,peltigera,Leucolaena,,Hook.,,,,,,,,wfo-0001039269,3642522,
-2bf92152-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Leucolaena,,Benth.,1837,"Enum. Pl. Hügel 55 1837",,,,,844179-1,wfo-0000360812,6027380,
-2bf94542-8fcc-11eb-924d-9cd76263cbd0,species,tridentata,Leucolaena,,"R.Br. ex DC.",1830,"Prodr. 4: 75 1830",,,,,844180-1,wfo-0000360813,3642452,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5de3148-8fd1-11eb-924d-9cd76263cbd0,genus,Leucolaena,,,,,,,,,,,,,,wfo-4000021551,3642453,,
+2bf7dbda-8fcc-11eb-924d-9cd76263cbd0,species,candida,Leucolaena,,Benth.,,1837,,"Enum. Pl. Hügel 55 1837",,,,,,844173-1,wfo-0000360807,3642600,,
+2bf7fb2e-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Leucolaena,,Benth.,,1837,,"Enum. Pl. Hügel 55 1837",,,,,,844174-1,wfo-0000360808,3642577,,
+2bf9b892-8fcc-11eb-924d-9cd76263cbd0,species,montana,Leucolaena,,Benth.,,1837,,"Enum. Pl. Hügel 55 1837",,,,,,844175-1,wfo-0000360817,3642561,,
+2bf859ac-8fcc-11eb-924d-9cd76263cbd0,species,pannosa,Leucolaena,,Benth.,,1837,,"Enum. Pl. Hügel 55 1837",,,,,,844176-1,wfo-0000360810,3642541,,
+ae0ce81c-8fcd-11eb-924d-9cd76263cbd0,species,peltigera,Leucolaena,,Hook.,,,,,,,,,,,wfo-0001039269,3642522,,
+2bf92152-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Leucolaena,,Benth.,,1837,,"Enum. Pl. Hügel 55 1837",,,,,,844179-1,wfo-0000360812,6027380,,
+2bf94542-8fcc-11eb-924d-9cd76263cbd0,species,tridentata,Leucolaena,,"R.Br. ex DC.",,1830,,"Prodr. 4: 75 1830",,,,,,844180-1,wfo-0000360813,3642452,,

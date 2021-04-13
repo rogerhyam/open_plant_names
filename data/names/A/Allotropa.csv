@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df1f76fa-8fd1-11eb-924d-9cd76263cbd0,genus,Allotropa,,,"Torr. & A.Gray",1857,"Pacif. Railr. Rep. 6(3): 80–81. 1857[1858].",,,,,30087071-2,wfo-4000001316,2888358,
-993d0cc4-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Allotropa,,"Torr. & A.Gray",1858,"Pacif. Railr. Rep. Parke, Bot. 6(3; 2): 80 1858",,,,,,wfo-0000527118,5334183,
-1dc9f3b8-8fcc-11eb-924d-9cd76263cbd0,species,americana,Allouya,,"(Lam.) A.Chev.",1936,"Rev. Bot. Appl. Agric. Trop. 16: 974 1936",,,,,9364-2,wfo-0000338291,2761814,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df1f76fa-8fd1-11eb-924d-9cd76263cbd0,genus,Allotropa,,,"Torr. & A.Gray",,1857,,"Pacif. Railr. Rep. 6(3): 80–81. 1857[1858].",,,,,,30087071-2,wfo-4000001316,2888358,,
+993d0cc4-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Allotropa,,"Torr. & A.Gray",,1858,,"Pacif. Railr. Rep. Parke, Bot. 6(3; 2): 80 1858",,,,,,,wfo-0000527118,5334183,,
+1dc9f3b8-8fcc-11eb-924d-9cd76263cbd0,species,americana,Allouya,,"(Lam.) A.Chev.",,1936,,"Rev. Bot. Appl. Agric. Trop. 16: 974 1936",,Q96002273,,,,9364-2,wfo-0000338291,2761814,,

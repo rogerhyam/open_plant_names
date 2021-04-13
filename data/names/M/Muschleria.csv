@@ -1,13 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6f8fc66-8fd1-11eb-924d-9cd76263cbd0,genus,Muschleria,,,S.Moore,,,,,,,10129-1,wfo-4000025018,3120440,
-cad265a6-8fb6-11eb-924d-9cd76263cbd0,species,angolensis,Muschleria,,S.Moore,1914,"in Journ. Bot. 1914, lii. 89.",,,,,,wfo-0000093216,3120441,
-e8336a24-8fb5-11eb-924d-9cd76263cbd0,species,stolzii,Muschleria,,S.Moore,1925,"J. Linn. Soc., Bot. xlvii. 259 (1925)",,,,,233822-1,wfo-0000083533,3133563,
-348bd8c8-8fcc-11eb-924d-9cd76263cbd0,species,australis,Muscipula,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,155808-1,wfo-0000374734,3809717,
-348c2b52-8fcc-11eb-924d-9cd76263cbd0,species,portensis,Muscipula,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,155809-1,wfo-0000374737,3809706,
-f208d77e-8fcd-11eb-924d-9cd76263cbd0,species,confertus,Muscites,,"Göpp. & Berendt",1845,"Bernstein 1(1): 112. pl. 6: f. 29–31 1845",,,,,,wfo-0001187901,7994585,
-f208f470-8fcd-11eb-924d-9cd76263cbd0,species,convolutus,Muscites,,Mägd.,1957,"Ber. Deutsch. Bot. Ges. 70: 435. 12 f. 1 1957",,,,,,wfo-0001187902,8354772,
-f209107c-8fcd-11eb-924d-9cd76263cbd0,species,elatinus,Muscites,,Saporta,1865,"Ann. Sci. Nat., Bot., sér. 5, 4: 33. 1 f. 2 1865",,,,,,wfo-0001187904,8256531,
-f2092daa-8fcd-11eb-924d-9cd76263cbd0,species,oeningensis,Muscites,,A.Braun,1851,"Uebers. Verstein. Baden 72: 1851",,,,,,wfo-0001187915,8227730,
-f2094b32-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Muscites,,"Göpp. & Berendt",1845,"Bernstein 1(1): 111. 6 f. 27–28 1845",,,,,,wfo-0001187921,8404480,
-f2096e32-8fcd-11eb-924d-9cd76263cbd0,species,tortifolius,Muscites,,"Casp. & G.A.Klebs",1906,"Abh. Königl. Preuss. Geol. Landesanst. 4: 57. 8 f. 49 1906",,,,,,wfo-0001187927,7881704,
-f2098a7a-8fcd-11eb-924d-9cd76263cbd0,species,tournalii,Muscites,,Brongn.,1928,"Hist. Vég. Foss. 1: 93. 10 f. 1–2 1928",,,,,,wfo-0001187928,7693212,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6f8fc66-8fd1-11eb-924d-9cd76263cbd0,genus,Muschleria,,,S.Moore,,,,,,,,,,10129-1,wfo-4000025018,3120440,,
+cad265a6-8fb6-11eb-924d-9cd76263cbd0,species,angolensis,Muschleria,,S.Moore,,1914,,"in Journ. Bot. 1914, lii. 89.",,,,,,,wfo-0000093216,3120441,,
+e8336a24-8fb5-11eb-924d-9cd76263cbd0,species,stolzii,Muschleria,,S.Moore,,1925,,"J. Linn. Soc., Bot. xlvii. 259 (1925)",,Q55760531,,,,233822-1,wfo-0000083533,3133563,,

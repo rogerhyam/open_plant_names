@@ -1,4 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae17f06-8fd1-11eb-924d-9cd76263cbd0,genus,Streimannia,,,,,,,,,,,wfo-4000036826,3229981,
-f6836a58-8fcd-11eb-924d-9cd76263cbd0,species,turgida,Streimannia,,Ochyra,1990,"J. Bryol. 16: 223 1990",,,,,,wfo-0001196863,7809654,
-3bab664a-8fcd-11eb-924d-9cd76263cbd0,species,montana,Streleskia,,Hook.f.,1847,"London J. Bot. 6: 267 1847",,,,,145464-1,wfo-0000818681,3167194,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae17f06-8fd1-11eb-924d-9cd76263cbd0,genus,Streimannia,,,"G. Thor",,1991,,"Op. bot. 103: 84 (1991)",,,,eae17f06-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000036826,3229981,26325," "
+f6836a58-8fcd-11eb-924d-9cd76263cbd0,species,turgida,Streimannia,,Ochyra,,1990,,"J. Bryol. 16: 223 1990",,,,,,,wfo-0001196863,7809654,,
+3147c57c-9bad-11eb-a8a2-19ed5c03f8d3,species,varieseptata,Streimannia,,"G. Thor",,1991,,"Op. bot. 103: 84 (1991)",,,,3147c57c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,354972," "
+3bab664a-8fcd-11eb-924d-9cd76263cbd0,species,montana,Streleskia,,Hook.f.,,1847,,"London J. Bot. 6: 267 1847",,,,,,145464-1,wfo-0000818681,3167194,,

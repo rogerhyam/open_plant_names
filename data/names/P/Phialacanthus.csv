@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e85c7312-8fd1-11eb-924d-9cd76263cbd0,genus,Phialacanthus,,,"Benth. & Hook.f.",,"Gen. Pl. 2: 1102. 1876.",,,,,808-1,wfo-4000029193,7263903,
-41dba04e-8fcc-11eb-924d-9cd76263cbd0,species,griffithii,Phialacanthus,,Benth.,,"Gen. Pl. 2: 1102 1876",,,,,53033-1,wfo-0000393101,,
-41db8046-8fcc-11eb-924d-9cd76263cbd0,species,major,Phialacanthus,,C.B.Clarke,1908,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 669 1908",,,,,53028-1,wfo-0000393100,3776109,
-41db5d64-8fcc-11eb-924d-9cd76263cbd0,species,minor,Phialacanthus,,C.B.Clarke,1908,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 669 1908",,,,,53029-1,wfo-0000393099,3776103,
-41db37a8-8fcc-11eb-924d-9cd76263cbd0,species,pauper,Phialacanthus,,"(C.B.Clarke) Bremek.",1955,"Reinwardtia 3: 256 1955",,,,621cca0e-8fcc-11eb-924d-9cd76263cbd0,53030-1,wfo-0000393098,3776093,
-41db1480-8fcc-11eb-924d-9cd76263cbd0,species,wrayi,Phialacanthus,,C.B.Clarke,1908,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 668 1908",,,,,53031-1,wfo-0000393097,3776084,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e85c7312-8fd1-11eb-924d-9cd76263cbd0,genus,Phialacanthus,,,"Benth. & Hook.f.",,,,"Gen. Pl. 2: 1102. 1876.",,,,,,808-1,wfo-4000029193,7263903,,
+41dba04e-8fcc-11eb-924d-9cd76263cbd0,species,griffithii,Phialacanthus,,Benth.,,,,"Gen. Pl. 2: 1102 1876",,,,,,53033-1,wfo-0000393101,,,
+41db8046-8fcc-11eb-924d-9cd76263cbd0,species,major,Phialacanthus,,C.B.Clarke,,1908,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 669 1908",,,,,,53028-1,wfo-0000393100,3776109,,
+41db5d64-8fcc-11eb-924d-9cd76263cbd0,species,minor,Phialacanthus,,C.B.Clarke,,1908,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 669 1908",,,,,,53029-1,wfo-0000393099,3776103,,
+41db37a8-8fcc-11eb-924d-9cd76263cbd0,species,pauper,Phialacanthus,,"(C.B.Clarke) Bremek.",,1955,,"Reinwardtia 3: 256 1955",,Q94145517,,621cca0e-8fcc-11eb-924d-9cd76263cbd0,,53030-1,wfo-0000393098,3776093,,
+41db1480-8fcc-11eb-924d-9cd76263cbd0,species,wrayi,Phialacanthus,,C.B.Clarke,,1908,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74: 668 1908",,,,,,53031-1,wfo-0000393097,3776084,,

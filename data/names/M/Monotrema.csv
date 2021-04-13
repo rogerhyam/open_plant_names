@@ -1,9 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e25916-8fd1-11eb-924d-9cd76263cbd0,genus,Monotrema,,,Körn.,1871,"Linnaea 37: 475. 1871-1873[1872]. (Oct 1872)",,,,,33284-1,wfo-4000024771,2693275,
-798184c8-8fcc-11eb-924d-9cd76263cbd0,species,aemulans,Monotrema,,Körn.,1972,"Linnaea 37: 477 1972",,,,,715251-1,wfo-0000473107,2693281,
-798226ee-8fcc-11eb-924d-9cd76263cbd0,species,affine,Monotrema,,Maguire,1958,"Mem. New York Bot. Gard. 10(1): 48 1958",,,,,163874-2,wfo-0000473112,2693276,
-79830e10-8fcc-11eb-924d-9cd76263cbd0,species,arthrophyllum,Monotrema,,"(Seub.) Maguire",1958,"Mem. New York Bot. Gard. 10(1): 47 1958",,,,98c0c038-8fcc-11eb-924d-9cd76263cbd0,715253-1,wfo-0000473119,2693283,
-7983e5e2-8fcc-11eb-924d-9cd76263cbd0,species,bracteatum,Monotrema,,Maguire,1958,"Mem. New York Bot. Gard. 10(1): 47 1958",,,,,163876-2,wfo-0000473126,2693278,
-7986b290-8fcc-11eb-924d-9cd76263cbd0,species,flavum,Monotrema,,"(Link) Körn.",1872,"Linnaea 37: 478 1872",,,,,715255-1,wfo-0000473150,2693273,
-7987ee08-8fcc-11eb-924d-9cd76263cbd0,species,xyridoides,Monotrema,,Gleason,1931,"Bull. Torrey Bot. Club 58: 332 1931",,,,,163877-2,wfo-0000473158,2693277,
-e45e47be-8fcb-11eb-924d-9cd76263cbd0,species,secunda,Monotris,,Lindl.,,"Edwards's Bot. Reg. 20: t. 1701 1834",,,,,644931-1,wfo-0000245706,2782062,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e25916-8fd1-11eb-924d-9cd76263cbd0,genus,Monotrema,,,Körn.,,1871,,"Linnaea 37: 475. 1871-1873[1872]. (Oct 1872)",,,,,,33284-1,wfo-4000024771,2693275,,
+798184c8-8fcc-11eb-924d-9cd76263cbd0,species,aemulans,Monotrema,,Körn.,,1972,,"Linnaea 37: 477 1972",,,,,,715251-1,wfo-0000473107,2693281,,
+798226ee-8fcc-11eb-924d-9cd76263cbd0,species,affine,Monotrema,,Maguire,,1958,,"Mem. New York Bot. Gard. 10(1): 48 1958",,,,,,163874-2,wfo-0000473112,2693276,,
+79830e10-8fcc-11eb-924d-9cd76263cbd0,species,arthrophyllum,Monotrema,,"(Seub.) Maguire",,1958,,"Mem. New York Bot. Gard. 10(1): 47 1958",,,,98c0c038-8fcc-11eb-924d-9cd76263cbd0,,715253-1,wfo-0000473119,2693283,,
+7983e5e2-8fcc-11eb-924d-9cd76263cbd0,species,bracteatum,Monotrema,,Maguire,,1958,,"Mem. New York Bot. Gard. 10(1): 47 1958",,,,,,163876-2,wfo-0000473126,2693278,,
+7986b290-8fcc-11eb-924d-9cd76263cbd0,species,flavum,Monotrema,,"(Link) Körn.",,1872,,"Linnaea 37: 478 1872",,,,,,715255-1,wfo-0000473150,2693273,,
+7987ee08-8fcc-11eb-924d-9cd76263cbd0,species,xyridoides,Monotrema,,Gleason,,1931,,"Bull. Torrey Bot. Club 58: 332 1931",,Q55773462,,,,163877-2,wfo-0000473158,2693277,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec1aa956-8fd1-11eb-924d-9cd76263cbd0,genus,Wurdackanthus,,,Maguire,1985,"Phytologia 57(4): 312. 1985.",,,,,,wfo-4000040844,7270340,
-5d5e1086-8fcc-11eb-924d-9cd76263cbd0,species,argyreus,Wurdackanthus,,Maguire,1985,"Phytologia 57: 312 1985",,,,,287076-2,wfo-0000427882,3843218,
-5d5d25ae-8fcc-11eb-924d-9cd76263cbd0,species,frigidus,Wurdackanthus,,"(Sw.) Maguire & B.M.Boom",1989,"Mem. New York Bot. Gard. 51: 9 1989",,,,b8cb67f6-8fcd-11eb-924d-9cd76263cbd0,946755-1,wfo-0000427876,3843201,
-cbb4d0e2-8fcc-11eb-924d-9cd76263cbd0,species,flabelliformis,Wurdackia,,Moldenke,1957,"Mem. New York Bot. Gard. 9: 413 1957",,,,,287075-2,wfo-0000608234,2691176,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec1aa956-8fd1-11eb-924d-9cd76263cbd0,genus,Wurdackanthus,,,Maguire,,1985,,"Phytologia 57(4): 312. 1985.",,,,,,,wfo-4000040844,7270340,,
+5d5e1086-8fcc-11eb-924d-9cd76263cbd0,species,argyreus,Wurdackanthus,,Maguire,,1985,,"Phytologia 57: 312 1985",,,,,,287076-2,wfo-0000427882,3843218,,
+5d5d25ae-8fcc-11eb-924d-9cd76263cbd0,species,frigidus,Wurdackanthus,,"(Sw.) Maguire & B.M.Boom",,1989,,"Mem. New York Bot. Gard. 51: 9 1989",,,,b8cb67f6-8fcd-11eb-924d-9cd76263cbd0,,946755-1,wfo-0000427876,3843201,,
+cbb4d0e2-8fcc-11eb-924d-9cd76263cbd0,species,flabelliformis,Wurdackia,,Moldenke,,1957,,"Mem. New York Bot. Gard. 9: 413 1957",,,,,,287075-2,wfo-0000608234,2691176,,

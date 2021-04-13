@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb3ce3e6-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrathylacium,,,Poepp.,1843,"Nov. Gen. Sp. Pl. 3: 34. 1843. (8-11 Mar 1843)",,,,,41598-1,wfo-4000038010,7274104,
-b870463c-8fcd-11eb-924d-9cd76263cbd0,species,costaricense,Tetrathylacium,,Standl.,1925,"J. Wash. Acad. Sci. 15(21): 480 1925",,,,,252003-2,wfo-0001062862,3878416,
-b86dcb5a-8fcd-11eb-924d-9cd76263cbd0,species,johansenii,Tetrathylacium,,Standl.,1925,"J. Wash. Acad. Sci. 15(21): 479 1925",,,,,252004-2,wfo-0001062839,7796300,
-b86c33c6-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllum,Tetrathylacium,,Poepp.,1841,"Nov. Gen. Sp. Pl. 3: t. 240 1841",,,,,,wfo-0001062824,7274105,
-b87062f2-8fcd-11eb-924d-9cd76263cbd0,variety,pacificum,Tetrathylacium,macrophyllum,"(Seem.) Triana & Planch.",1862,"Ann. Sci. Nat., Bot. 4(17): 106 1862",,,,,252005-2,wfo-0001062863,3878390,
-b87b269c-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Tetrathylacium,,Sleumer,1936,"Repert. Spec. Nov. Regni Veg. 41: 122 1936",,,,,252006-2,wfo-0001062957,3878383,
-b87011e4-8fcd-11eb-924d-9cd76263cbd0,species,pacificum,Tetrathylacium,,"(Seem.) Standl.",1925,"J. Wash. Acad. Sci. 15(21): 479 1925",,,,,252007-2,wfo-0001062860,3878368,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb3ce3e6-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrathylacium,,,Poepp.,,1843,,"Nov. Gen. Sp. Pl. 3: 34. 1843. (8-11 Mar 1843)",,,,,,41598-1,wfo-4000038010,7274104,,
+b870463c-8fcd-11eb-924d-9cd76263cbd0,species,costaricense,Tetrathylacium,,Standl.,,1925,,"J. Wash. Acad. Sci. 15(21): 480 1925",,Q96060999,,,,252003-2,wfo-0001062862,3878416,,
+b86dcb5a-8fcd-11eb-924d-9cd76263cbd0,species,johansenii,Tetrathylacium,,Standl.,,1925,,"J. Wash. Acad. Sci. 15(21): 479 1925",,Q96060999,,,,252004-2,wfo-0001062839,7796300,,
+b86c33c6-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllum,Tetrathylacium,,Poepp.,,1841,,"Nov. Gen. Sp. Pl. 3: t. 240 1841",,,,,,,wfo-0001062824,7274105,,
+b87062f2-8fcd-11eb-924d-9cd76263cbd0,variety,pacificum,Tetrathylacium,macrophyllum,"(Seem.) Triana & Planch.",,1862,,"Ann. Sci. Nat., Bot. 4(17): 106 1862",,,,,,252005-2,wfo-0001062863,3878390,,
+b87b269c-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Tetrathylacium,,Sleumer,,1936,,"Repert. Spec. Nov. Regni Veg. 41: 122 1936",,Q55754483,,,,252006-2,wfo-0001062957,3878383,,
+b87011e4-8fcd-11eb-924d-9cd76263cbd0,species,pacificum,Tetrathylacium,,"(Seem.) Standl.",,1925,,"J. Wash. Acad. Sci. 15(21): 479 1925",,Q96060999,,,,252007-2,wfo-0001062860,3878368,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e614953a-8fd1-11eb-924d-9cd76263cbd0,genus,Lorenzanea,,,Liebm.,1850,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850: 69. 1850.",,,,,,wfo-4000022278,7268463,
-69a12df6-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Lorenzanea,,Liebm.,1850,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 70 1850",,,,,143782-2,wfo-0000446110,7268479,
-6a367fb4-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Lorenzanea,dentata,Liebm.,1850,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 70 1850",,,,,143780-2,wfo-0000447160,3825970,
-69a1de18-8fcc-11eb-924d-9cd76263cbd0,species,glabrata,Lorenzanea,,Liebm.,1850,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 71 1850",,,,,143783-2,wfo-0000446112,3825952,
-699f9cf2-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Lorenzanea,,Liebm.,1850,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 73 1850",,,,,143784-2,wfo-0000446096,3825930,
-d823b6bc-8fcd-11eb-924d-9cd76263cbd0,species,ira,Lorenzanea,,Liebm.,1850,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850(5): 71 1850",,,,,143781-2,wfo-0001133313,3825909,
-d822aeac-8fcd-11eb-924d-9cd76263cbd0,species,irazuensis,Lorenzanea,,Standl.,,,,,,,,wfo-0001133308,8040606,
-d823d49e-8fcd-11eb-924d-9cd76263cbd0,species,vernicosa,Lorenzanea,,Liebm.,1850,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850(5): 72–73 1850",,,,,328861-2,wfo-0001133314,3825883,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e614953a-8fd1-11eb-924d-9cd76263cbd0,genus,Lorenzanea,,,Liebm.,,1850,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850: 69. 1850.",,,,,,,wfo-4000022278,7268463,,
+69a12df6-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Lorenzanea,,Liebm.,,1850,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 70 1850",,,,,,143782-2,wfo-0000446110,7268479,,
+6a367fb4-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Lorenzanea,dentata,Liebm.,,1850,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 70 1850",,,,,,143780-2,wfo-0000447160,3825970,,
+69a1de18-8fcc-11eb-924d-9cd76263cbd0,species,glabrata,Lorenzanea,,Liebm.,,1850,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 71 1850",,,,,,143783-2,wfo-0000446112,3825952,,
+699f9cf2-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Lorenzanea,,Liebm.,,1850,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1850: 73 1850",,,,,,143784-2,wfo-0000446096,3825930,,
+d823b6bc-8fcd-11eb-924d-9cd76263cbd0,species,ira,Lorenzanea,,Liebm.,,1850,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850(5): 71 1850",,,,,,143781-2,wfo-0001133313,3825909,,
+d822aeac-8fcd-11eb-924d-9cd76263cbd0,species,irazuensis,Lorenzanea,,Standl.,,,,,,,,,,,wfo-0001133308,8040606,,
+d823d49e-8fcd-11eb-924d-9cd76263cbd0,species,vernicosa,Lorenzanea,,Liebm.,,1850,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1850(5): 72–73 1850",,,,,,328861-2,wfo-0001133314,3825883,,

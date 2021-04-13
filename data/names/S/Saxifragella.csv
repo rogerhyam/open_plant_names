@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea01177c-8fd1-11eb-924d-9cd76263cbd0,genus,Saxifragella,,,Engl.,1891,"Nat. Pflanzenfam. 3(2a): 61. 1891.",,,,,,wfo-4000034204,7339338,
-c9e53662-8fd1-11eb-924d-9cd76263cbd0,species,albowiana,Saxifragella,,"(Kurtz ex Albov) Engl.",1919,"Pflanzenr. 69[IV.117]: 673 1919",,,,c9e51b28-8fd1-11eb-924d-9cd76263cbd0,794768-1,wfo-0001272438,3753418,
-d93c82f4-8fcd-11eb-924d-9cd76263cbd0,species,bicuspidata,Saxifragella,,"(Hook.f.) Engl.",1890,"Nat. Pflanzenfam. 3(2a): 61 1890",,,,c9e551ba-8fd1-11eb-924d-9cd76263cbd0,228692-2,wfo-0001135755,3753383,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea01177c-8fd1-11eb-924d-9cd76263cbd0,genus,Saxifragella,,,Engl.,,1891,,"Nat. Pflanzenfam. 3(2a): 61. 1891.",,,,,,,wfo-4000034204,7339338,,
+c9e53662-8fd1-11eb-924d-9cd76263cbd0,species,albowiana,Saxifragella,,"(Kurtz ex Albov) Engl.",,1919,,"Pflanzenr. 69[IV.117]: 673 1919",,,,c9e51b28-8fd1-11eb-924d-9cd76263cbd0,,794768-1,wfo-0001272438,3753418,,
+d93c82f4-8fcd-11eb-924d-9cd76263cbd0,species,bicuspidata,Saxifragella,,"(Hook.f.) Engl.",,1890,,"Nat. Pflanzenfam. 3(2a): 61 1890",,,,c9e551ba-8fd1-11eb-924d-9cd76263cbd0,,228692-2,wfo-0001135755,3753383,,

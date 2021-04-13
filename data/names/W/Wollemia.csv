@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec179a90-8fd1-11eb-924d-9cd76263cbd0,genus,Wollemia,,,"W.G.Jones, K.D.Hill & J.M.Allen",1995,"Telopea 6: 173. 1995.",,,,,986235-1,wfo-4000040804,2685084,
-1ba180ec-8fcc-11eb-924d-9cd76263cbd0,species,nobilis,Wollemia,,"W.G.Jones, K.D.Hill & J.M.Allen",1995,"Telopea 6: 174 1995",,,,,986236-1,wfo-0000334493,2685085,
-e5a2f550-8fcd-11eb-924d-9cd76263cbd0,species,stellata,Wollnya,,Herzog,1909,"Beih. Bot. Centralbl., Abt. 2 26(2): 69. pl. 3 1909",,,,,,wfo-0001161996,7846345,
-e5a3110c-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Wollnya,,"(Mitt.) Herzog",1911,"Beih. Bot. Centralbl., Abt. 2 28(2): 271 1911",,,,ecf8f46c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001161997,8328012,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec179a90-8fd1-11eb-924d-9cd76263cbd0,genus,Wollemia,,,"W.G.Jones, K.D.Hill & J.M.Allen",,1995,,"Telopea 6: 173. 1995.",,Q55801387,,,,986235-1,wfo-4000040804,2685084,,
+1ba180ec-8fcc-11eb-924d-9cd76263cbd0,species,nobilis,Wollemia,,"W.G.Jones, K.D.Hill & J.M.Allen",,1995,,"Telopea 6: 174 1995",,Q55801387,,,,986236-1,wfo-0000334493,2685085,,
+e5a2f550-8fcd-11eb-924d-9cd76263cbd0,species,stellata,Wollnya,,Herzog,,1909,,"Beih. Bot. Centralbl., Abt. 2 26(2): 69. pl. 3 1909",,,,,,,wfo-0001161996,7846345,,
+e5a3110c-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Wollnya,,"(Mitt.) Herzog",,1911,,"Beih. Bot. Centralbl., Abt. 2 28(2): 271 1911",,,,ecf8f46c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001161997,8328012,,

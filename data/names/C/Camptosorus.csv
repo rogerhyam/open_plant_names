@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1214578-8fd1-11eb-924d-9cd76263cbd0,genus,Camptosorus,,,Link,1833,"Hort. Berol. 2: 69. 1833.",,,,,,wfo-4000006433,7310717,
-d1b53bd8-8fbf-11eb-924d-9cd76263cbd0,species,ebenoides,Camptosorus,,Alph.Wood,1889,"Amer. Bot. Fl. 425 1889",,,,,44141-2,wfo-0000162297,4256938,
-cdadcb1e-8fcd-11eb-924d-9cd76263cbd0,species,pinnatifidus,Camptosorus,,Alph.Wood,1870,"Amer. Bot. Fl. 373 1870",,,,,44142-2,wfo-0001110414,4256925,
-cdb04c7c-8fcd-11eb-924d-9cd76263cbd0,species,rhizophyllus,Camptosorus,,"(L.) Link",1833,"Hort. Berol. 2: 69 1833",,,,,17062940-1,wfo-0001110438,2650634,
-d3032b1e-8fd1-11eb-924d-9cd76263cbd0,variety,intermedius,Camptosorus,rhizophyllus,Arthur,1883,"Bot. Gaz. 8: 200, pl. 3 1883",,,,,44147-2,wfo-0001283953,6414104,
-ce0e4ba6-8fcd-11eb-924d-9cd76263cbd0,form,intermedius,Camptosorus,rhizophyllus,"(Arthur) Clute",,,,,,,1068177-2,wfo-0001111272,6414104,
-d3611538-8fbf-11eb-924d-9cd76263cbd0,species,rumicifolius,Camptosorus,,Link,1841,"Fil. sp. 83. 1841 1841",,,,,17062950-1,wfo-0000162337,4256870,
-d067dd36-8fcd-11eb-924d-9cd76263cbd0,species,sibiricus,Camptosorus,,Rupr.,1845,"Beitr. Pflanzenk. Russ. Reiches 3: 45 1845",,,,,17062960-1,wfo-0001115858,4256854,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1214578-8fd1-11eb-924d-9cd76263cbd0,genus,Camptosorus,,,Link,,1833,,"Hort. Berol. 2: 69. 1833.",,,,,,,wfo-4000006433,7310717,,
+d1b53bd8-8fbf-11eb-924d-9cd76263cbd0,species,ebenoides,Camptosorus,,Alph.Wood,,1889,,"Amer. Bot. Fl. 425 1889",,,,,,44141-2,wfo-0000162297,4256938,,
+cdadcb1e-8fcd-11eb-924d-9cd76263cbd0,species,pinnatifidus,Camptosorus,,Alph.Wood,,1870,,"Amer. Bot. Fl. 373 1870",,,,,,44142-2,wfo-0001110414,4256925,,
+cdb04c7c-8fcd-11eb-924d-9cd76263cbd0,species,rhizophyllus,Camptosorus,,"(L.) Link",,1833,,"Hort. Berol. 2: 69 1833",,,,,,17062940-1,wfo-0001110438,2650634,,
+ce0e4ba6-8fcd-11eb-924d-9cd76263cbd0,form,intermedius,Camptosorus,rhizophyllus,"(Arthur) Clute",,,,,,,,d3032b1e-8fd1-11eb-924d-9cd76263cbd0,,1068177-2,wfo-0001111272,6414104,,
+d3032b1e-8fd1-11eb-924d-9cd76263cbd0,variety,intermedius,Camptosorus,rhizophyllus,Arthur,,1883,,"Bot. Gaz. 8: 200, pl. 3 1883",,Q55758246,,,,44147-2,wfo-0001283953,6414104,,
+d3611538-8fbf-11eb-924d-9cd76263cbd0,species,rumicifolius,Camptosorus,,Link,,1841,,"Fil. sp. 83. 1841 1841",,,,,,17062950-1,wfo-0000162337,4256870,,
+d067dd36-8fcd-11eb-924d-9cd76263cbd0,species,sibiricus,Camptosorus,,Rupr.,,1845,,"Beitr. Pflanzenk. Russ. Reiches 3: 45 1845",,,,,,17062960-1,wfo-0001115858,4256854,,

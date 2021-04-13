@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3eb51d6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrocotyle,,,Bunge,1849,"Ann. Sci. Nat., Bot., sér. 3, 12: 363. 1849.",,,,,924869-1,wfo-4000015372,3230759,
-fdb12032-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Gastrocotyle,,"(Forssk.) Bunge",1849,"Ann. Sci. Nat., Bot. III, 12: 363 1849",,,,,941604-1,wfo-0000694892,5660777,
-c0693188-8fd1-11eb-924d-9cd76263cbd0,species,hispida,Gastrocotyle,,C.B.Clarke,,,,,,,,wfo-0001254841,7442440,
-fdb13cc0-8fcc-11eb-924d-9cd76263cbd0,species,macedonica,Gastrocotyle,,"(Degen & Dörfl.) Bigazzi, Hilger & Selvi",2002,"Webbia 57: 178 2002",,,,9d1d1640-8fcc-11eb-924d-9cd76263cbd0,20010615-1,wfo-0000694893,5660773,
-fdb158fe-8fcc-11eb-924d-9cd76263cbd0,species,natolica,Gastrocotyle,,Brand,1928,"Repert. Spec. Nov. Regni Veg. 25: 214 1928",,,,,116468-1,wfo-0000694894,5660771,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3eb51d6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrocotyle,,,Bunge,,1849,,"Ann. Sci. Nat., Bot., sér. 3, 12: 363. 1849.",,,,,,924869-1,wfo-4000015372,3230759,,
+c0693188-8fd1-11eb-924d-9cd76263cbd0,species,hispida,Gastrocotyle,,C.B.Clarke,,,,,,,,,,,wfo-0001254841,7442440,,
+fdb12032-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Gastrocotyle,,"(Forssk.) Bunge",,1849,,"Ann. Sci. Nat., Bot. III, 12: 363 1849",,,,,,941604-1,wfo-0000694892,5660777,,
+fdb13cc0-8fcc-11eb-924d-9cd76263cbd0,species,macedonica,Gastrocotyle,,"(Degen & Dörfl.) Bigazzi, Hilger & Selvi",,2002,,"Webbia 57: 178 2002",,Q55758070,,9d1d1640-8fcc-11eb-924d-9cd76263cbd0,,20010615-1,wfo-0000694893,5660773,,
+fdb158fe-8fcc-11eb-924d-9cd76263cbd0,species,natolica,Gastrocotyle,,Brand,,1928,,"Repert. Spec. Nov. Regni Veg. 25: 214 1928",,Q55753693,,,,116468-1,wfo-0000694894,5660771,,

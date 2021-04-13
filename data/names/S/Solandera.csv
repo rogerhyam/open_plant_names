@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7d9004-8fd1-11eb-924d-9cd76263cbd0,genus,Solandera,,,Kuntze,1891,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,wfo-4000035675,7299133,
-a7a9f30c-8fcd-11eb-924d-9cd76263cbd0,species,brachycalyx,Solandera,,Kuntze,1891,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,wfo-0001025599,,
-a7aa0ea0-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Solandera,,Kuntze,1891,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,wfo-0001025600,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7d9004-8fd1-11eb-924d-9cd76263cbd0,genus,Solandera,,,Kuntze,,1891,,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,,wfo-4000035675,7299133,,
+a7a9f30c-8fcd-11eb-924d-9cd76263cbd0,species,brachycalyx,Solandera,,Kuntze,,1891,,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,,wfo-0001025599,,,
+a7aa0ea0-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Solandera,,Kuntze,,1891,,"Raf. et al., Revis. Gen. Pl. (1891) 452..",,,,,,,wfo-0001025600,,,

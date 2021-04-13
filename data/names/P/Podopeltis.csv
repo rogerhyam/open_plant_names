@@ -1,9 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8cd0640-8fd1-11eb-924d-9cd76263cbd0,genus,Podopeltis,,,Fée,1852,"Mem. Foug., Gen. Filic. 5(Gen. Filicum): 286. 1852.",,,,,,wfo-4000030505,7319429,
-e22f6cde-8fbc-11eb-924d-9cd76263cbd0,species,plantaginea,Podopeltis,,F,1850,"M 9 1850",,,,,1093290-2,wfo-0000144181,4042759,
-ac67153c-8fcd-11eb-924d-9cd76263cbd0,species,singaporiana,Podopeltis,,"(Wall. ex Hook. & Grev.) Fée",,,,,,,,wfo-0001035521,4042753,
-e2395226-8fbc-11eb-924d-9cd76263cbd0,species,sinuata,Podopeltis,,J.Sm.,1875,"Hist. Fil. 199. 1875 1875",,,,,17180260-1,wfo-0000144182,4042748,
-4179e110-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorum,Podopetalum,,"(All.) Gaudin",1828,"Fl. Helv. 2: 401 1828",,,,,847323-1,wfo-0000392603,8678243,
-f6a22038-8fc3-11eb-924d-9cd76263cbd0,species,ormondii,Podopetalum,,F.Muell.,,,,,,,,wfo-0000185600,2960478,
-2940c268-8fb2-11eb-924d-9cd76263cbd0,species,dissecta,Podophania,,"(Hook. & Arn.) B.L.Rob.",1911,"192 1911",,,,,204636-2,wfo-0000014016,3089445,
-58f30dcc-8fb2-11eb-924d-9cd76263cbd0,species,ghiesbreghtiana,Podophania,,Baill.,1880,"in Bull. Soc. Linn. Par. i. (1880) 268",,,,,238998-1,wfo-0000021464,3089448,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8cd0640-8fd1-11eb-924d-9cd76263cbd0,genus,Podopeltis,,,Fée,,1852,,"Mem. Foug., Gen. Filic. 5(Gen. Filicum): 286. 1852.",,,,,,,wfo-4000030505,7319429,,
+e22f6cde-8fbc-11eb-924d-9cd76263cbd0,species,plantaginea,Podopeltis,,F,,1850,,"M 9 1850",,,,,,1093290-2,wfo-0000144181,4042759,,
+ac67153c-8fcd-11eb-924d-9cd76263cbd0,species,singaporiana,Podopeltis,,"(Wall. ex Hook. & Grev.) Fée",,,,,,,,,,,wfo-0001035521,4042753,,
+e2395226-8fbc-11eb-924d-9cd76263cbd0,species,sinuata,Podopeltis,,J.Sm.,,1875,,"Hist. Fil. 199. 1875 1875",,,,,,17180260-1,wfo-0000144182,4042748,,
+4179e110-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorum,Podopetalum,,"(All.) Gaudin",,1828,,"Fl. Helv. 2: 401 1828",,,,,,847323-1,wfo-0000392603,8678243,,
+f6a22038-8fc3-11eb-924d-9cd76263cbd0,species,ormondii,Podopetalum,,F.Muell.,,,,,,,,,,,wfo-0000185600,2960478,,

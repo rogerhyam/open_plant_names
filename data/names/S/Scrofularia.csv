@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea334efe-8fd1-11eb-924d-9cd76263cbd0,genus,Scrofularia,,,,,,,,,,,wfo-4000034844,3739260,
-aff1ce9a-8fcd-11eb-924d-9cd76263cbd0,species,amplexicaulis,Scrofularia,,Benth.,1846,"Prodr. 10: 310 1846",,,,,,wfo-0001043561,7439806,
-aff196c8-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Scrofularia,,"Gueldenst. ex Ledeb.",1847,"Fl. Ross. 3(1,8): 221 1847",,,,,,wfo-0001043559,8067628,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea334efe-8fd1-11eb-924d-9cd76263cbd0,genus,Scrofularia,,,,,,,,,,,,,,wfo-4000034844,3739260,,
+aff1ce9a-8fcd-11eb-924d-9cd76263cbd0,species,amplexicaulis,Scrofularia,,Benth.,,1846,,"Prodr. 10: 310 1846",,,,,,,wfo-0001043561,7439806,,
+aff196c8-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Scrofularia,,"Gueldenst. ex Ledeb.",,1847,,"Fl. Ross. 3(1,8): 221 1847",,,,,,,wfo-0001043559,8067628,,

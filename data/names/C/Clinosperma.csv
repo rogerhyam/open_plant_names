@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d49772-8fd1-11eb-924d-9cd76263cbd0,genus,Clinosperma,,,Becc.,1920,"Palm. Nuova Caledonia 51. 1920.",,,,,31167-1,wfo-4000008627,2735150,
-5edfb508-8fcd-11eb-924d-9cd76263cbd0,species,bracteale,Clinosperma,,"(Brongn.) Becc.",1920,"Palme Nuova Caledonia 52 1920",,,,,,wfo-0000893733,2735157,
-c4bb0b76-8fd1-11eb-924d-9cd76263cbd0,species,bractealis,Clinosperma,,Becc.,1921,"Webbia 5: 120 1921",,,,,665987-1,wfo-0001262770,3593351,
-39294e64-8fcd-11eb-924d-9cd76263cbd0,species,lanuginosa,Clinosperma,,"(H.E.Moore) Pintaud & W.J.Baker",2008,"Kew Bull. 63: 69 2008",,,,61a44034-8fcc-11eb-924d-9cd76263cbd0,77090382-1,wfo-0000813270,2735151,
-39296a52-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpa,Clinosperma,,"(H.E.Moore) Pintaud & W.J.Baker",2008,"Kew Bull. 63: 70 2008",,,,d8c49f8e-8fcb-11eb-924d-9cd76263cbd0,77090320-1,wfo-0000813271,2735160,
-39298500-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Clinosperma,,"(Brongn.) Pintaud & W.J.Baker",2008,"Kew Bull. 63: 70 2008",,,,7ccceb1c-8fcd-11eb-924d-9cd76263cbd0,77090321-1,wfo-0000813272,2735153,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d49772-8fd1-11eb-924d-9cd76263cbd0,genus,Clinosperma,,,Becc.,,1920,,"Palm. Nuova Caledonia 51. 1920.",,Q55757901,,,,31167-1,wfo-4000008627,2735150,,
+5edfb508-8fcd-11eb-924d-9cd76263cbd0,species,bracteale,Clinosperma,,"(Brongn.) Becc.",,1920,,"Palme Nuova Caledonia 52 1920",,,,,,,wfo-0000893733,2735157,,
+c4bb0b76-8fd1-11eb-924d-9cd76263cbd0,species,bractealis,Clinosperma,,Becc.,,1921,,"Webbia 5: 120 1921",,Q55757901,,,,665987-1,wfo-0001262770,3593351,,
+39294e64-8fcd-11eb-924d-9cd76263cbd0,species,lanuginosa,Clinosperma,,"(H.E.Moore) Pintaud & W.J.Baker",,2008,,"Kew Bull. 63: 69 2008",,Q43191819,,61a44034-8fcc-11eb-924d-9cd76263cbd0,,77090382-1,wfo-0000813270,2735151,,
+39296a52-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpa,Clinosperma,,"(H.E.Moore) Pintaud & W.J.Baker",,2008,,"Kew Bull. 63: 70 2008",,Q43191819,,d8c49f8e-8fcb-11eb-924d-9cd76263cbd0,,77090320-1,wfo-0000813271,2735160,,
+39298500-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Clinosperma,,"(Brongn.) Pintaud & W.J.Baker",,2008,,"Kew Bull. 63: 70 2008",,Q43191819,,7ccceb1c-8fcd-11eb-924d-9cd76263cbd0,,77090321-1,wfo-0000813272,2735153,,

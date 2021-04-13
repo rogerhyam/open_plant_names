@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7215d6e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemopogon,,,,,,,,,,,wfo-4000025572,2779407,
-0197933e-8fcd-11eb-924d-9cd76263cbd0,species,glaucum,Nemopogon,,Raf.,1837,"Fl. Tellur. 2: 27 1837",,,,,538693-1,wfo-0000702043,5304844,
-28f2fbc6-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Nemorinia,,"(Host) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,,443981-1,wfo-0000778238,2700767,
-28f317be-8fcd-11eb-924d-9cd76263cbd0,species,forsteri,Nemorinia,,"(Sm.) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,,,wfo-0000778239,2700712,
-28f33456-8fcd-11eb-924d-9cd76263cbd0,species,vernalis,Nemorinia,,"(Reichard) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,28a3cdf8-8fcd-11eb-924d-9cd76263cbd0,443983-1,wfo-0000778240,2700738,
-38663c72-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nemorosa,,Nieuwl.,1914,"Amer. Midl. Naturalist 3: 322 1914",,,,,711619-1,wfo-0000380648,3931340,
-38661652-8fcc-11eb-924d-9cd76263cbd0,species,quinquefolia,Nemorosa,,Nieuwl.,1914,"Amer. Midl. Naturalist 3: 322 1914",,,,,711620-1,wfo-0000380647,3931331,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7215d6e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemopogon,,,,,,,,,,,,,,wfo-4000025572,2779407,,
+0197933e-8fcd-11eb-924d-9cd76263cbd0,species,glaucum,Nemopogon,,Raf.,,1837,,"Fl. Tellur. 2: 27 1837",,,,,,538693-1,wfo-0000702043,5304844,,
+28f2fbc6-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Nemorinia,,"(Host) Fourr.",,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,,,443981-1,wfo-0000778238,2700767,,
+28f317be-8fcd-11eb-924d-9cd76263cbd0,species,forsteri,Nemorinia,,"(Sm.) Fourr.",,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,,,,wfo-0000778239,2700712,,
+28f33456-8fcd-11eb-924d-9cd76263cbd0,species,vernalis,Nemorinia,,"(Reichard) Fourr.",,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 172 1869",,,,28a3cdf8-8fcd-11eb-924d-9cd76263cbd0,,443983-1,wfo-0000778240,2700738,,
+38663c72-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nemorosa,,Nieuwl.,,1914,,"Amer. Midl. Naturalist 3: 322 1914",,Q55773206,,,,711619-1,wfo-0000380648,3931340,,
+38661652-8fcc-11eb-924d-9cd76263cbd0,species,quinquefolia,Nemorosa,,Nieuwl.,,1914,,"Amer. Midl. Naturalist 3: 322 1914",,Q55773206,,,,711620-1,wfo-0000380647,3931331,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e689b05e-8fd1-11eb-924d-9cd76263cbd0,genus,Melissopsis,,,,,,,,,,,wfo-4000023664,7337382,
-5855a2ee-8fb2-11eb-924d-9cd76263cbd0,species,oppositifolia,Melissopsis,,"Sch.Bip. ex Baker",1876,"Fl. Bras. (Martius) 6(2): 195 1876",,,,,232250-1,wfo-0000021367,4230346,
-6be832e8-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Melistaurum,,"Hasselt ex Blume",1851,"Mus. Bot. 1: 254 1851",,,,,779891-1,wfo-0000908396,3878457,
-5ee33516-8fcd-11eb-924d-9cd76263cbd0,species,distichum,Melistaurum,,"J.R.Forst. & G.Forst.",1775,"Char. Gen. Pl. 72 1775",,,,,365736-1,wfo-0000893764,3878444,
-19740042-8fb3-11eb-924d-9cd76263cbd0,species,pusilla,Melitella,,Sommier,1907,"496 1907",,,,,,wfo-0000041554,5403344,
-f1ec89c6-8fb8-11eb-924d-9cd76263cbd0,species,rechingeri,Melitella,,Zaffran,1967,"805 1967",,,,,,wfo-0000114017,5403343,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e689b05e-8fd1-11eb-924d-9cd76263cbd0,genus,Melissopsis,,,,,,,,,,,,,,wfo-4000023664,7337382,,
+5855a2ee-8fb2-11eb-924d-9cd76263cbd0,species,oppositifolia,Melissopsis,,"Sch.Bip. ex Baker",,1876,,"Fl. Bras. (Martius) 6(2): 195 1876",,,,,,232250-1,wfo-0000021367,4230346,,
+6be832e8-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Melistaurum,,"Hasselt ex Blume",,1851,,"Mus. Bot. 1: 254 1851",,,,,,779891-1,wfo-0000908396,3878457,,
+5ee33516-8fcd-11eb-924d-9cd76263cbd0,species,distichum,Melistaurum,,"J.R.Forst. & G.Forst.",,1775,,"Char. Gen. Pl. 72 1775",,,,,,365736-1,wfo-0000893764,3878444,,
+19740042-8fb3-11eb-924d-9cd76263cbd0,species,pusilla,Melitella,,Sommier,,1907,,"496 1907",,,,,,,wfo-0000041554,5403344,,
+f1ec89c6-8fb8-11eb-924d-9cd76263cbd0,species,rechingeri,Melitella,,Zaffran,,1967,,"805 1967",,,,,,,wfo-0000114017,5403343,,

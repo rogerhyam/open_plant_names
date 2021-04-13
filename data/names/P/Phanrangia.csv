@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8577ef2-8fd1-11eb-924d-9cd76263cbd0,genus,Phanrangia,,,Tardieu,1948,"Bull. Soc. Bot. France 95(5–6): 179. 1948.",,,,,,wfo-4000029122,7321892,
-42ea8022-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Phanrangia,,Tardieu,1948,"Bull. Soc. Bot. France 95: 179 1948",,,,,162361-1,wfo-0000394520,3662332,
-be4b4c60-8fd1-11eb-924d-9cd76263cbd0,species,incanum,Pharaceum,,Lour.,1790,"Fl. Cochinch. 185 1790",,,,,,wfo-0001250872,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8577ef2-8fd1-11eb-924d-9cd76263cbd0,genus,Phanrangia,,,Tardieu,,1948,,"Bull. Soc. Bot. France 95(5–6): 179. 1948.",,,,,,,wfo-4000029122,7321892,,
+42ea8022-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Phanrangia,,Tardieu,,1948,,"Bull. Soc. Bot. France 95: 179 1948",,Q55757623,,,,162361-1,wfo-0000394520,3662332,,
+be4b4c60-8fd1-11eb-924d-9cd76263cbd0,species,incanum,Pharaceum,,Lour.,,1790,,"Fl. Cochinch. 185 1790",,,,,,,wfo-0001250872,,,

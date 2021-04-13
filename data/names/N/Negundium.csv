@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e71c9d74-8fd1-11eb-924d-9cd76263cbd0,genus,Negundium,,,Raf.,1833,"Atlantic J. 176. 1833.",,,,,,wfo-4000025499,7265104,
-38cfe9d8-8fcc-11eb-924d-9cd76263cbd0,species,americanum,Negundium,,"DC. ex Loudon",1830,"Hort. Brit. 398 1830",,,,,783759-1,wfo-0000381202,3787706,
-38cfc2be-8fcc-11eb-924d-9cd76263cbd0,species,fraxineum,Negundium,,Steud.,1841,"Nomencl. Bot. ed. 2, 2: 188 1841",,,,,,wfo-0000381201,3787702,
-38cf798a-8fcc-11eb-924d-9cd76263cbd0,species,fraxinifolium,Negundium,,Raf.,1833,"Atlantic J. 1833: 176 1833",,,,,,wfo-0000381199,3787696,
-38cf55fe-8fcc-11eb-924d-9cd76263cbd0,species,lobatum,Negundium,,Raf.,1836,"New Fl. 1: 43 1836",,,,,,wfo-0000381198,3787691,
-38cf315a-8fcc-11eb-924d-9cd76263cbd0,species,trifoliatum,Negundium,,Raf.,1833,"Atlantic J. 1: 176 1833",,,,,783763-1,wfo-0000381197,3787683,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e71c9d74-8fd1-11eb-924d-9cd76263cbd0,genus,Negundium,,,Raf.,,1833,,"Atlantic J. 176. 1833.",,,,,,,wfo-4000025499,7265104,,
+38cfe9d8-8fcc-11eb-924d-9cd76263cbd0,species,americanum,Negundium,,"DC. ex Loudon",,1830,,"Hort. Brit. 398 1830",,,,,,783759-1,wfo-0000381202,3787706,,
+38cfc2be-8fcc-11eb-924d-9cd76263cbd0,species,fraxineum,Negundium,,Steud.,,1841,,"Nomencl. Bot. ed. 2, 2: 188 1841",,,,,,,wfo-0000381201,3787702,,
+38cf798a-8fcc-11eb-924d-9cd76263cbd0,species,fraxinifolium,Negundium,,Raf.,,1833,,"Atlantic J. 1833: 176 1833",,,,,,,wfo-0000381199,3787696,,
+38cf55fe-8fcc-11eb-924d-9cd76263cbd0,species,lobatum,Negundium,,Raf.,,1836,,"New Fl. 1: 43 1836",,,,,,,wfo-0000381198,3787691,,
+38cf315a-8fcc-11eb-924d-9cd76263cbd0,species,trifoliatum,Negundium,,Raf.,,1833,,"Atlantic J. 1: 176 1833",,,,,,783763-1,wfo-0000381197,3787683,,

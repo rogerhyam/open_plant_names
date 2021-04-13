@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e90b0e72-8fd1-11eb-924d-9cd76263cbd0,genus,Prostea,,,Cambess.,1829,"Me}m. Mus. Hist. Nat. 18: 25. 1829.",,,,,,wfo-4000031242,7264882,
-7880c0fc-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Prostea,,"(E.Mey. ex Arn.) C.Presl",1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 470 1845",,,,48f843a0-8fcc-11eb-924d-9cd76263cbd0,784495-1,wfo-0000471419,3785724,
-b6911c5c-8fd1-11eb-924d-9cd76263cbd0,species,pinnata,Prostea,,"(Poir.) Cambess.",1829,"Mém. Mus. Hist. Nat. 18: 25 1829",,,,,784496-1,wfo-0001236582,3785714,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e90b0e72-8fd1-11eb-924d-9cd76263cbd0,genus,Prostea,,,Cambess.,,1829,,"Me}m. Mus. Hist. Nat. 18: 25. 1829.",,,,,,,wfo-4000031242,7264882,,
+7880c0fc-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Prostea,,"(E.Mey. ex Arn.) C.Presl",,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 470 1845",,,,48f843a0-8fcc-11eb-924d-9cd76263cbd0,,784495-1,wfo-0000471419,3785724,,
+b6911c5c-8fd1-11eb-924d-9cd76263cbd0,species,pinnata,Prostea,,"(Poir.) Cambess.",,1829,,"Mém. Mus. Hist. Nat. 18: 25 1829",,,,,,784496-1,wfo-0001236582,3785714,,

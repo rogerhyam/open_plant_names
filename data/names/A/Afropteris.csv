@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-def379f6-8fd1-11eb-924d-9cd76263cbd0,genus,Afropteris,,,Alston,1956,"Bol. Soc. Brot. ser. 2. 30: 5. 1956.",,,,,,wfo-4000000860,7310021,
-b38fd0de-8fd1-11eb-924d-9cd76263cbd0,species,barklyae,Afropteris,,"(Baker) Alston",1956,"Bol. Soc. Brot., sér. 2, 30: 6 1956",,,,b38fff50-8fd1-11eb-924d-9cd76263cbd0,17368320-1,wfo-0001231031,3914017,
-ce2be008-8fcd-11eb-924d-9cd76263cbd0,species,repens,Afropteris,,"(C.Chr.) Alston",1956,"Bol. Soc. Brot., sér. 2, 30: 5 1956",,,,,17368330-1,wfo-0001111534,3914009,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+def379f6-8fd1-11eb-924d-9cd76263cbd0,genus,Afropteris,,,Alston,,1956,,"Bol. Soc. Brot. ser. 2. 30: 5. 1956.",,,,,,,wfo-4000000860,7310021,,
+b38fd0de-8fd1-11eb-924d-9cd76263cbd0,species,barklyae,Afropteris,,"(Baker) Alston",,1956,,"Bol. Soc. Brot., sér. 2, 30: 6 1956",,,,b38fff50-8fd1-11eb-924d-9cd76263cbd0,,17368320-1,wfo-0001231031,3914017,,
+ce2be008-8fcd-11eb-924d-9cd76263cbd0,species,repens,Afropteris,,"(C.Chr.) Alston",,1956,,"Bol. Soc. Brot., sér. 2, 30: 5 1956",,,,,,17368330-1,wfo-0001111534,3914009,,

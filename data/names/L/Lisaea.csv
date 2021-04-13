@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5fc0d80-8fd1-11eb-924d-9cd76263cbd0,genus,Lisaea,,,Boiss.,1844,"Ann. Sci. Nat., Bot. sér. 3, 2: 54. 1844",,,,,40206-1,wfo-4000021948,3232432,
-baf154fa-8fcd-11eb-924d-9cd76263cbd0,species,armena,Lisaea,,Schischk.,,,,,,,,wfo-0001068636,5539162,
-2ccf7130-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Lisaea,,Boiss.,1844,"Ann. Sci. Nat., Bot. III, 2: 54 1844",,,,,844683-1,wfo-0000362225,5539159,
-baf16f80-8fcd-11eb-924d-9cd76263cbd0,species,heterocarpa,Lisaea,,Boiss.,,,,,,,,wfo-0001068637,5539156,
-baf18a92-8fcd-11eb-924d-9cd76263cbd0,species,papyracea,Lisaea,,Boiss.,,,,,,,,wfo-0001068638,5539152,
-2ccf5628-8fcc-11eb-924d-9cd76263cbd0,species,strigosa,Lisaea,,"(Banks & Sol.) Eig",1937,"J. Bot. 75: 189 1937",,,,,844686-1,wfo-0000362224,5539148,
-2ccfcbe4-8fcc-11eb-924d-9cd76263cbd0,species,syrica,Lisaea,,Boiss.,1844,"Ann. Sci. Nat., Bot. III, 2: 55 1844",,,,,844687-1,wfo-0000362228,5539144,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5fc0d80-8fd1-11eb-924d-9cd76263cbd0,genus,Lisaea,,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. sér. 3, 2: 54. 1844",,,,,,40206-1,wfo-4000021948,3232432,,
+baf154fa-8fcd-11eb-924d-9cd76263cbd0,species,armena,Lisaea,,Schischk.,,,,,,,,,,,wfo-0001068636,5539162,,
+2ccf7130-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Lisaea,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. III, 2: 54 1844",,,,,,844683-1,wfo-0000362225,5539159,,
+baf16f80-8fcd-11eb-924d-9cd76263cbd0,species,heterocarpa,Lisaea,,Boiss.,,,,,,,,,,,wfo-0001068637,5539156,,
+baf18a92-8fcd-11eb-924d-9cd76263cbd0,species,papyracea,Lisaea,,Boiss.,,,,,,,,,,,wfo-0001068638,5539152,,
+2ccf5628-8fcc-11eb-924d-9cd76263cbd0,species,strigosa,Lisaea,,"(Banks & Sol.) Eig",,1937,,"J. Bot. 75: 189 1937",,,,,,844686-1,wfo-0000362224,5539148,,
+2ccfcbe4-8fcc-11eb-924d-9cd76263cbd0,species,syrica,Lisaea,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. III, 2: 55 1844",,,,,,844687-1,wfo-0000362228,5539144,,

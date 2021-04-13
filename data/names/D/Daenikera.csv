@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2759f28-8fd1-11eb-924d-9cd76263cbd0,genus,Daenikera,,,"Hürl. & Stauffer",1957,"Vierteljahrsschr. Naturf. Ges. Zürich 102: 332. 1957. (31 Dec 1957)",,,,,36182-1,wfo-4000010664,7265281,
-dc8593ac-8fcc-11eb-924d-9cd76263cbd0,species,corallina,Daenikera,,"Hürl. & Stauffer",1957,"Mitt. Bot. Mus. Univ. Zürich 210: 334 1957",,,,,,wfo-0000636907,3789577,
-7dc12cfe-8fcd-11eb-924d-9cd76263cbd0,species,ptariana,Dahlgrenia,,Steyerm.,1951,"Fieldiana, Bot. 28(1): 82 1951",,,,,75813-2,wfo-0000937176,5293108,
-e089be2a-8fcb-11eb-924d-9cd76263cbd0,species,dahlgreniana,,,"(Bondar) Glassman",1999,"Illinois Biol. Monogr. 59: 199 1999",,,,def9c726-8fcb-11eb-924d-9cd76263cbd0,1040884-2,wfo-0000239053,,
-dc85ae00-8fcc-11eb-924d-9cd76263cbd0,species,natalense,Dahlgrenodendron,,"(J.H.Ross) J.J.M.van der Merwe & A.E.van Wyk",1988,"S. African J. Bot. 54: 82 1988",,,,,945159-1,wfo-0000636908,4180072,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2759f28-8fd1-11eb-924d-9cd76263cbd0,genus,Daenikera,,,"Hürl. & Stauffer",,1957,,"Vierteljahrsschr. Naturf. Ges. Zürich 102: 332. 1957. (31 Dec 1957)",,,,,,36182-1,wfo-4000010664,7265281,,
+dc8593ac-8fcc-11eb-924d-9cd76263cbd0,species,corallina,Daenikera,,"Hürl. & Stauffer",,1957,,"Mitt. Bot. Mus. Univ. Zürich 210: 334 1957",,,,,,,wfo-0000636907,3789577,,
+7dc12cfe-8fcd-11eb-924d-9cd76263cbd0,species,ptariana,Dahlgrenia,,Steyerm.,,1951,,"Fieldiana, Bot. 28(1): 82 1951",,,,,,75813-2,wfo-0000937176,5293108,,
+e089be2a-8fcb-11eb-924d-9cd76263cbd0,species,dahlgreniana,,,"(Bondar) Glassman",,1999,,"Illinois Biol. Monogr. 59: 199 1999",,,,def9c726-8fcb-11eb-924d-9cd76263cbd0,,1040884-2,wfo-0000239053,,,
+dc85ae00-8fcc-11eb-924d-9cd76263cbd0,species,natalense,Dahlgrenodendron,,"(J.H.Ross) J.J.M.van der Merwe & A.E.van Wyk",,1988,,"S. African J. Bot. 54: 82 1988",,,,,,945159-1,wfo-0000636908,4180072,,

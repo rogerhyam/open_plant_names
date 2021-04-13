@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53254b8-8fd1-11eb-924d-9cd76263cbd0,genus,Jaceacosta,,,,,,,,,,,wfo-4000019427,7336927,
-fe2c4ee8-8fb2-11eb-924d-9cd76263cbd0,species,beckiana,Jaceacosta,,"(F.Mullner) Rauschert",1972,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,wfo-0000039186,4253163,
-4983d6de-8fba-11eb-924d-9cd76263cbd0,species,fortinata,Jaceacosta,,"(Wagner) Rauschert",1972,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,wfo-0000125419,4253157,
-4df3203c-8fb3-11eb-924d-9cd76263cbd0,species,juvenalis,Jaceacosta,,"(Delile ex Godr.) Rauschert",1972,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,wfo-0000045703,4253153,
-24841c5e-8fba-11eb-924d-9cd76263cbd0,species,pseudomicrantha,Jaceacosta,,"(Rech.fil.) Rauschert",1972,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,wfo-0000124330,4222140,
-477bc346-8fbb-11eb-924d-9cd76263cbd0,species,teyberi,Jaceacosta,,"(Hayek) Rauschert",1972,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,wfo-0000133022,4222134,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53254b8-8fd1-11eb-924d-9cd76263cbd0,genus,Jaceacosta,,,,,,,,,,,,,,wfo-4000019427,7336927,,
+fe2c4ee8-8fb2-11eb-924d-9cd76263cbd0,species,beckiana,Jaceacosta,,"(F.Mullner) Rauschert",,1972,,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,,wfo-0000039186,4253163,,
+4983d6de-8fba-11eb-924d-9cd76263cbd0,species,fortinata,Jaceacosta,,"(Wagner) Rauschert",,1972,,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,,wfo-0000125419,4253157,,
+4df3203c-8fb3-11eb-924d-9cd76263cbd0,species,juvenalis,Jaceacosta,,"(Delile ex Godr.) Rauschert",,1972,,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,,wfo-0000045703,4253153,,
+24841c5e-8fba-11eb-924d-9cd76263cbd0,species,pseudomicrantha,Jaceacosta,,"(Rech.fil.) Rauschert",,1972,,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,,wfo-0000124330,4222140,,
+477bc346-8fbb-11eb-924d-9cd76263cbd0,species,teyberi,Jaceacosta,,"(Hayek) Rauschert",,1972,,"Feddes Repert. 83(9-10): 655 (1972 publ. 1973)",,,,,,,wfo-0000133022,4222134,,

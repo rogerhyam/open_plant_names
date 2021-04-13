@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1c3db94-8fd1-11eb-924d-9cd76263cbd0,genus,Cladastomum,,,Müll.Hal.,1898,"Bull. Herb. Boissier 6: 21. 1898.",,,,,,wfo-4000008416,2675910,
-ee9106f2-8fcd-11eb-924d-9cd76263cbd0,species,robustum,Cladastomum,,Broth.,1924,"Ergebn. Bot. Exped. Südbras., Musci 256 1924",,,,,,wfo-0001180568,2675912,
-ee912272-8fcd-11eb-924d-9cd76263cbd0,species,subulatum,Cladastomum,,Müll.Hal.,1900,"Hedwigia 39: 235 1900",,,,,,wfo-0001180569,7441049,
-ee913dfc-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Cladastomum,,Müll.Hal.,1898,"Bull. Herb. Boissier 6: 21 1898",,,,,,wfo-0001180570,8924955,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1c3db94-8fd1-11eb-924d-9cd76263cbd0,genus,Cladastomum,,,Müll.Hal.,,1898,,"Bull. Herb. Boissier 6: 21. 1898.",,,,,,,wfo-4000008416,2675910,,
+ee9106f2-8fcd-11eb-924d-9cd76263cbd0,species,robustum,Cladastomum,,Broth.,,1924,,"Ergebn. Bot. Exped. Südbras., Musci 256 1924",,,,,,,wfo-0001180568,2675912,,
+ee912272-8fcd-11eb-924d-9cd76263cbd0,species,subulatum,Cladastomum,,Müll.Hal.,,1900,,"Hedwigia 39: 235 1900",,,,,,,wfo-0001180569,7441049,,
+ee913dfc-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Cladastomum,,Müll.Hal.,,1898,,"Bull. Herb. Boissier 6: 21 1898",,,,,,,wfo-0001180570,8924955,,

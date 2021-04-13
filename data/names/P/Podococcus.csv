@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8cb7636-8fd1-11eb-924d-9cd76263cbd0,genus,Podococcus,,,"G.Mann & H.Wendl.",1864,"Trans. Linn. Soc. London 24: 426. 1864.",,,,,31447-1,wfo-4000030489,2735640,
-f93a4412-8fcb-11eb-924d-9cd76263cbd0,species,acaulis,Podococcus,,Hua,1895,"Bull. Mus. Hist. Nat. (Paris) 1: 315 1895",,,,,669220-1,wfo-0000279402,2735642,
-f93ac518-8fcb-11eb-924d-9cd76263cbd0,species,barteri,Podococcus,,"G.Mann & H.Wendl.",1864,"Trans. Linn. Soc. London 24: 426 1864",,,,,669221-1,wfo-0000279403,2735641,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8cb7636-8fd1-11eb-924d-9cd76263cbd0,genus,Podococcus,,,"G.Mann & H.Wendl.",,1864,,"Trans. Linn. Soc. London 24: 426. 1864.",,Q55760763,,,,31447-1,wfo-4000030489,2735640,,
+f93a4412-8fcb-11eb-924d-9cd76263cbd0,species,acaulis,Podococcus,,Hua,,1895,,"Bull. Mus. Hist. Nat. (Paris) 1: 315 1895",,,,,,669220-1,wfo-0000279402,2735642,,
+f93ac518-8fcb-11eb-924d-9cd76263cbd0,species,barteri,Podococcus,,"G.Mann & H.Wendl.",,1864,,"Trans. Linn. Soc. London 24: 426 1864",,Q55760763,,,,669221-1,wfo-0000279403,2735641,,

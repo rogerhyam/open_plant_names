@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eac7f4f0-8fd1-11eb-924d-9cd76263cbd0,genus,Stenostelma,,,Schltr.,1894,"Bot. Jahrb. Syst. 18(Beibl. 45): 6. 1894.",,,,,3725-1,wfo-4000036547,7311896,
-ca715704-8fcd-11eb-924d-9cd76263cbd0,species,capense,Stenostelma,,Schltr.,1894,"Bot. Jahrb. Syst. 18(Beibl. 45): 6 1894",,,,,101902-1,wfo-0001102980,3573418,
-cb236ebc-8fcd-11eb-924d-9cd76263cbd0,species,carinatum,Stenostelma,,"(Schltr.) Bullock",1956,"Kew Bull. 1956: 521 1957",,,,,101903-1,wfo-0001104563,3573411,
-cab346e6-8fcd-11eb-924d-9cd76263cbd0,species,corniculatum,Stenostelma,,"(E.Mey.) Bullock",1952,"Kew Bull. 1952: 417 1952",,,,,101904-1,wfo-0001103562,3577009,
-5fe03a64-8fcc-11eb-924d-9cd76263cbd0,species,eminens,Stenostelma,,"(Harv.) Bullock",1953,"Kew Bull. 8: 342 1953",,,,0398124e-8fcd-11eb-924d-9cd76263cbd0,101905-1,wfo-0000431127,3573406,
-8f80e7c8-8fcc-11eb-924d-9cd76263cbd0,species,umbelluliferum,Stenostelma,,"(Schltr.) Bester & Nicholas",2007,"Bothalia 37: 50 2007",,,,ca6c59e8-8fcd-11eb-924d-9cd76263cbd0,77086500-1,wfo-0000510391,3573396,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eac7f4f0-8fd1-11eb-924d-9cd76263cbd0,genus,Stenostelma,,,Schltr.,,1894,,"Bot. Jahrb. Syst. 18(Beibl. 45): 6. 1894.",,,,,,3725-1,wfo-4000036547,7311896,,
+ca715704-8fcd-11eb-924d-9cd76263cbd0,species,capense,Stenostelma,,Schltr.,,1894,,"Bot. Jahrb. Syst. 18(Beibl. 45): 6 1894",,,,,,101902-1,wfo-0001102980,3573418,,
+cb236ebc-8fcd-11eb-924d-9cd76263cbd0,species,carinatum,Stenostelma,,"(Schltr.) Bullock",,1956,,"Kew Bull. 1956: 521 1957",,Q93614237,,,,101903-1,wfo-0001104563,3573411,,
+cab346e6-8fcd-11eb-924d-9cd76263cbd0,species,corniculatum,Stenostelma,,"(E.Mey.) Bullock",,1952,,"Kew Bull. 1952: 417 1952",,Q55779670,,,,101904-1,wfo-0001103562,3577009,,
+5fe03a64-8fcc-11eb-924d-9cd76263cbd0,species,eminens,Stenostelma,,"(Harv.) Bullock",,1953,,"Kew Bull. 8: 342 1953",,Q55784069,,0398124e-8fcd-11eb-924d-9cd76263cbd0,,101905-1,wfo-0000431127,3573406,,
+8f80e7c8-8fcc-11eb-924d-9cd76263cbd0,species,umbelluliferum,Stenostelma,,"(Schltr.) Bester & Nicholas",,2007,,"Bothalia 37: 50 2007",,,,ca6c59e8-8fcd-11eb-924d-9cd76263cbd0,,77086500-1,wfo-0000510391,3573396,,

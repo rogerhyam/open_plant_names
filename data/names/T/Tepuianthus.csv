@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb2b4c76-8fd1-11eb-924d-9cd76263cbd0,genus,Tepuianthus,,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 9. 1981. (20 May 1981)",,,,,893110-1,wfo-4000037780,7273593,
-70d88b50-8fcc-11eb-924d-9cd76263cbd0,species,aracensis,Tepuianthus,,"Steyerm. & Maguire",1986,"Acta Amazon. 16-17: 219 19861987 publ. 1987",,,,,285905-2,wfo-0000458947,3659524,
-70da0a16-8fcc-11eb-924d-9cd76263cbd0,species,auyantepuiensis,Tepuianthus,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 10 1981",,,,,250458-2,wfo-0000458955,3659522,
-bed6c1f0-8fd1-11eb-924d-9cd76263cbd0,species,colombianus,Tepuianthus,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 16, f. 4 1981",,,,,250459-2,wfo-0001251867,3659521,
-70d9ef86-8fcc-11eb-924d-9cd76263cbd0,species,sarisarinamensis,Tepuianthus,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 16 1981",,,,,250460-2,wfo-0000458954,3659517,
-70d99d56-8fcc-11eb-924d-9cd76263cbd0,species,savannensis,Tepuianthus,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 14 1981",,,,,250462-2,wfo-0000458952,3659519,
-70d95030-8fcc-11eb-924d-9cd76263cbd0,species,yapacanensis,Tepuianthus,,"Maguire & Steyerm.",1981,"Mem. New York Bot. Gard. 32: 12 1981",,,,,250463-2,wfo-0000458951,3659520,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb2b4c76-8fd1-11eb-924d-9cd76263cbd0,genus,Tepuianthus,,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 9. 1981. (20 May 1981)",,,,,,893110-1,wfo-4000037780,7273593,,
+70d88b50-8fcc-11eb-924d-9cd76263cbd0,species,aracensis,Tepuianthus,,"Steyerm. & Maguire",,1986,,"Acta Amazon. 16-17: 219 19861987 publ. 1987",,Q55763096,,,,285905-2,wfo-0000458947,3659524,,
+70da0a16-8fcc-11eb-924d-9cd76263cbd0,species,auyantepuiensis,Tepuianthus,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 10 1981",,,,,,250458-2,wfo-0000458955,3659522,,
+bed6c1f0-8fd1-11eb-924d-9cd76263cbd0,species,colombianus,Tepuianthus,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 16, f. 4 1981",,,,,,250459-2,wfo-0001251867,3659521,,
+70d9ef86-8fcc-11eb-924d-9cd76263cbd0,species,sarisarinamensis,Tepuianthus,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 16 1981",,,,,,250460-2,wfo-0000458954,3659517,,
+70d99d56-8fcc-11eb-924d-9cd76263cbd0,species,savannensis,Tepuianthus,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 14 1981",,,,,,250462-2,wfo-0000458952,3659519,,
+70d95030-8fcc-11eb-924d-9cd76263cbd0,species,yapacanensis,Tepuianthus,,"Maguire & Steyerm.",,1981,,"Mem. New York Bot. Gard. 32: 12 1981",,,,,,250463-2,wfo-0000458951,3659520,,

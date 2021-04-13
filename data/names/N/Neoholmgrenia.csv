@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e72e19f0-8fd1-11eb-924d-9cd76263cbd0,genus,Neoholmgrenia,,,"W.L.Wagner & Hoch",2009,"Novon 19(1): 131. 2009.",,,,,60452284-2,wfo-4000025713,3231586,
-ab35872a-8fcd-11eb-924d-9cd76263cbd0,species,andina,Neoholmgrenia,,"(Nutt.) W.L.Wagner & Hoch",2009,"Novon 19(1): 131 2009",,,,,60452285-2,wfo-0001033044,4926467,
-ab366550-8fcd-11eb-924d-9cd76263cbd0,species,hilgardii,Neoholmgrenia,,"(Greene) W.L.Wagner & Hoch",2009,"Novon 19(1): 132 2009",,,,b5ea7af0-8fd1-11eb-924d-9cd76263cbd0,60452286-2,wfo-0001033047,7617869,
-e6dde7ba-8fcb-11eb-924d-9cd76263cbd0,species,sessiliflora,Neoholstia,,"(Pax) Rauschert",1982,"Taxon 31: 559 1982",,,,92e87376-8fcd-11eb-924d-9cd76263cbd0,910971-1,wfo-0000250109,3063689,
-e6de065a-8fcb-11eb-924d-9cd76263cbd0,species,tenuifolia,Neoholstia,,"(Pax) Rauschert",1982,"Taxon 31: 559 1982",,,,92e88fd2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000250110,3063683,
-e6de2428-8fcb-11eb-924d-9cd76263cbd0,variety,glabrata,Neoholstia,tenuifolia,"(Prain) Radcl.-Sm.",1984,"Kew Bull. 39: 791 1984",,,,13d2394c-8fcc-11eb-924d-9cd76263cbd0,923572-1,wfo-0000250111,3063690,
-6fd561b4-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Neoholubia,,"(Huds.) Tzvelev",2008,"Novosti Sist. Vyssh. Rast. 40: 234 2008 publ. 2009",,,,4b32ef52-8fcd-11eb-924d-9cd76263cbd0,77103311-1,wfo-0000913503,8188602,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e72e19f0-8fd1-11eb-924d-9cd76263cbd0,genus,Neoholmgrenia,,,"W.L.Wagner & Hoch",,2009,,"Novon 19(1): 131. 2009.",,Q54800890,,,,60452284-2,wfo-4000025713,3231586,,
+ab35872a-8fcd-11eb-924d-9cd76263cbd0,species,andina,Neoholmgrenia,,"(Nutt.) W.L.Wagner & Hoch",,2009,,"Novon 19(1): 131 2009",,Q54800890,,,,60452285-2,wfo-0001033044,4926467,,
+ab366550-8fcd-11eb-924d-9cd76263cbd0,species,hilgardii,Neoholmgrenia,,"(Greene) W.L.Wagner & Hoch",,2009,,"Novon 19(1): 132 2009",,Q54800890,,b5ea7af0-8fd1-11eb-924d-9cd76263cbd0,,60452286-2,wfo-0001033047,7617869,,
+e6dde7ba-8fcb-11eb-924d-9cd76263cbd0,species,sessiliflora,Neoholstia,,"(Pax) Rauschert",,1982,,"Taxon 31: 559 1982",,Q28955334,,92e87376-8fcd-11eb-924d-9cd76263cbd0,,910971-1,wfo-0000250109,3063689,,
+e6de065a-8fcb-11eb-924d-9cd76263cbd0,species,tenuifolia,Neoholstia,,"(Pax) Rauschert",,1982,,"Taxon 31: 559 1982",,,,92e88fd2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000250110,3063683,,
+e6de2428-8fcb-11eb-924d-9cd76263cbd0,variety,glabrata,Neoholstia,tenuifolia,"(Prain) Radcl.-Sm.",,1984,,"Kew Bull. 39: 791 1984",,Q55778871,,13d2394c-8fcc-11eb-924d-9cd76263cbd0,,923572-1,wfo-0000250111,3063690,,
+6fd561b4-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Neoholubia,,"(Huds.) Tzvelev",,2008,,"Novosti Sist. Vyssh. Rast. 40: 234 2008 publ. 2009",,,,4b32ef52-8fcd-11eb-924d-9cd76263cbd0,,77103311-1,wfo-0000913503,8188602,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cb1d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Holargidium,,,"Turczaninow ex Ledebour",1841,"Fl. Ross. 1: 156. 1841.",,,,,,wfo-4000018050,,
-0e9cf7d6-8fcd-11eb-924d-9cd76263cbd0,species,kusnetsowii,Holargidium,,Turcz.,1842,"Bull. Soc. Imp. Naturalistes Moscou 15: 266 1842",,,,,285361-1,wfo-0000724214,3691298,
-ac3efb70-8fd1-11eb-924d-9cd76263cbd0,species,kusnetzowii,Holargidium,,"Turcz. ex Ledeb.",,,,,,,,wfo-0001217718,8364256,
-acc72c74-8fcd-11eb-924d-9cd76263cbd0,species,kuznetsovii,Holargidium,,Turcz.,1841,"Fl. RSS Ucr. 1: 156 1841",,,,,,wfo-0001036362,3050292,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cb1d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Holargidium,,,"Turczaninow ex Ledebour",,1841,,"Fl. Ross. 1: 156. 1841.",,,,,,,wfo-4000018050,,,
+0e9cf7d6-8fcd-11eb-924d-9cd76263cbd0,species,kusnetsowii,Holargidium,,Turcz.,,1842,,"Bull. Soc. Imp. Naturalistes Moscou 15: 266 1842",,,,,,285361-1,wfo-0000724214,3691298,,
+ac3efb70-8fd1-11eb-924d-9cd76263cbd0,species,kusnetzowii,Holargidium,,"Turcz. ex Ledeb.",,,,,,,,,,,wfo-0001217718,8364256,,
+acc72c74-8fcd-11eb-924d-9cd76263cbd0,species,kuznetsovii,Holargidium,,Turcz.,,1841,,"Fl. RSS Ucr. 1: 156 1841",,,,,,,wfo-0001036362,3050292,,

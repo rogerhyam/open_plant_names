@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfd9f0ca-8fd1-11eb-924d-9cd76263cbd0,genus,Asterocytisus,,,,,,,,,,,wfo-4000003405,7302733,
-a88eb042-8fcc-11eb-924d-9cd76263cbd0,species,radiatus,Asterocytisus,,"Schur ex Fuss",1866,"Fl. Transsilv. 154 1866",,,,,475895-1,wfo-0000552741,3978293,
-b5efad80-8fcd-11eb-924d-9cd76263cbd0,species,radidtus,Asterocytisus,,"Schur ex Fuss",1866,"Fl. Transsilv. 154 1866",,,,,,wfo-0001057100,8181002,
-a88ecbfe-8fcc-11eb-924d-9cd76263cbd0,species,laciniatum,Asterogeum,,Gray,1821,"Nat. Arr. Brit. Pl. 2: 294 1821",,,,,684795-1,wfo-0000552742,4156403,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfd9f0ca-8fd1-11eb-924d-9cd76263cbd0,genus,Asterocytisus,,,,,,,,,,,,,,wfo-4000003405,7302733,,
+a88eb042-8fcc-11eb-924d-9cd76263cbd0,species,radiatus,Asterocytisus,,"Schur ex Fuss",,1866,,"Fl. Transsilv. 154 1866",,,,,,475895-1,wfo-0000552741,3978293,,
+b5efad80-8fcd-11eb-924d-9cd76263cbd0,species,radidtus,Asterocytisus,,"Schur ex Fuss",,1866,,"Fl. Transsilv. 154 1866",,,,,,,wfo-0001057100,8181002,,

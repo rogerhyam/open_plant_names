@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1089be0-8fd1-11eb-924d-9cd76263cbd0,genus,Callothlaspi,,,F.K.Mey.,1973,"Feddes Repert. 84: 457. 1973.",,,,,,wfo-4000006124,3048043,
-bab6ea0a-8fcc-11eb-924d-9cd76263cbd0,species,abchasicum,Callothlaspi,,F.K.Mey.,1973,"Feddes Repert. 84: 458 1973",,,,,279825-1,wfo-0000580824,3048044,
-bab706ca-8fcc-11eb-924d-9cd76263cbd0,species,antitauricum,Callothlaspi,,F.K.Mey.,1973,"Feddes Repert. 84: 457 1973",,,,,279826-1,wfo-0000580825,3052721,
-8d545160-8fcc-11eb-924d-9cd76263cbd0,species,camlikense,Callothlaspi,,"(Aytaç, Nordt & Parolly) F.K.Mey.",2006,"Haussknechtia 11: 185 2006",,,,,77080340-1,wfo-0000506728,3689294,
-8d546c36-8fcc-11eb-924d-9cd76263cbd0,species,cariense,Callothlaspi,,"(Carlström) F.K.Mey.",2006,"Haussknechtia 11: 183 2006",,,,ace95f42-8fcd-11eb-924d-9cd76263cbd0,77080339-1,wfo-0000506729,3689285,
-bab78244-8fcc-11eb-924d-9cd76263cbd0,species,lilacinum,Callothlaspi,,"(Boiss. & A.Huet) F.K.Mey.",1973,"Feddes Repert. 84: 457 1973",,,,aceaf726-8fcd-11eb-924d-9cd76263cbd0,279827-1,wfo-0000580826,3052709,
-bab7f51c-8fcc-11eb-924d-9cd76263cbd0,species,tricolor,Callotropis,,"(Hook.) G.Don",1832,"Gen. Hist. 2: 228 1832",,,,,483401-1,wfo-0000580828,3908960,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1089be0-8fd1-11eb-924d-9cd76263cbd0,genus,Callothlaspi,,,F.K.Mey.,,1973,,"Feddes Repert. 84: 457. 1973.",,,,,,,wfo-4000006124,3048043,,
+bab6ea0a-8fcc-11eb-924d-9cd76263cbd0,species,abchasicum,Callothlaspi,,F.K.Mey.,,1973,,"Feddes Repert. 84: 458 1973",,Q54764362,,,,279825-1,wfo-0000580824,3048044,,
+bab706ca-8fcc-11eb-924d-9cd76263cbd0,species,antitauricum,Callothlaspi,,F.K.Mey.,,1973,,"Feddes Repert. 84: 457 1973",,Q54764362,,,,279826-1,wfo-0000580825,3052721,,
+8d545160-8fcc-11eb-924d-9cd76263cbd0,species,camlikense,Callothlaspi,,"(Aytaç, Nordt & Parolly) F.K.Mey.",,2006,,"Haussknechtia 11: 185 2006",,,,,,77080340-1,wfo-0000506728,3689294,,
+8d546c36-8fcc-11eb-924d-9cd76263cbd0,species,cariense,Callothlaspi,,"(Carlström) F.K.Mey.",,2006,,"Haussknechtia 11: 183 2006",,,,ace95f42-8fcd-11eb-924d-9cd76263cbd0,,77080339-1,wfo-0000506729,3689285,,
+bab78244-8fcc-11eb-924d-9cd76263cbd0,species,lilacinum,Callothlaspi,,"(Boiss. & A.Huet) F.K.Mey.",,1973,,"Feddes Repert. 84: 457 1973",,Q54764362,,aceaf726-8fcd-11eb-924d-9cd76263cbd0,,279827-1,wfo-0000580826,3052709,,
+bab7f51c-8fcc-11eb-924d-9cd76263cbd0,species,tricolor,Callotropis,,"(Hook.) G.Don",,1832,,"Gen. Hist. 2: 228 1832",,,,,,483401-1,wfo-0000580828,3908960,,

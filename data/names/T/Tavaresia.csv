@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb1f3e72-8fd1-11eb-924d-9cd76263cbd0,genus,Tavaresia,,,Welw.,1903,"Fl. Trop. Africa 4(1): 493. 1903.",,,,,3751-1,wfo-4000037623,7531716,
-507af0d2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Tavaresia,,Welw.,1854,"Bol. Ann. Cons. Ultramar. (Portugal) 7: 79 1854",,,,,102143-1,wfo-0000411214,5536602,
-507b13be-8fcc-11eb-924d-9cd76263cbd0,species,barklyi,Tavaresia,,"(Dyer) N.E.Br.",1903,"Fl. Trop. Afr. 4(1): 494 1903",,,,,102144-1,wfo-0000411215,5536598,
-cabd3930-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Tavaresia,,Berger,,,,,,,,wfo-0001103647,5536595,
-cabd5596-8fcd-11eb-924d-9cd76263cbd0,species,meintjesii,Tavaresia,,R.A.Dyer,1954,"Bothalia 6: 415 1954",,,,,102146-1,wfo-0001103648,5536593,
-507acc9c-8fcc-11eb-924d-9cd76263cbd0,species,thompsoniorum,Tavaresia,,"van Jaarsv. & R.Nagel",1999,"Asklepios 76: 9 1999",,,,,1009103-1,wfo-0000411213,5536589,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb1f3e72-8fd1-11eb-924d-9cd76263cbd0,genus,Tavaresia,,,Welw.,,1903,,"Fl. Trop. Africa 4(1): 493. 1903.",,,,,,3751-1,wfo-4000037623,7531716,,
+507af0d2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Tavaresia,,Welw.,,1854,,"Bol. Ann. Cons. Ultramar. (Portugal) 7: 79 1854",,,,,,102143-1,wfo-0000411214,5536602,,
+507b13be-8fcc-11eb-924d-9cd76263cbd0,species,barklyi,Tavaresia,,"(Dyer) N.E.Br.",,1903,,"Fl. Trop. Afr. 4(1): 494 1903",,,,,,102144-1,wfo-0000411215,5536598,,
+cabd3930-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Tavaresia,,Berger,,,,,,,,,,,wfo-0001103647,5536595,,
+cabd5596-8fcd-11eb-924d-9cd76263cbd0,species,meintjesii,Tavaresia,,R.A.Dyer,,1954,,"Bothalia 6: 415 1954",,Q55797827,,,,102146-1,wfo-0001103648,5536593,,
+507acc9c-8fcc-11eb-924d-9cd76263cbd0,species,thompsoniorum,Tavaresia,,"van Jaarsv. & R.Nagel",,1999,,"Asklepios 76: 9 1999",,,,,,1009103-1,wfo-0000411213,5536589,,

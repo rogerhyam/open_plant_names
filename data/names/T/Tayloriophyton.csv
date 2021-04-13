@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb218d94-8fd1-11eb-924d-9cd76263cbd0,genus,Tayloriophyton,,,M.P.Nayar,1968,"Bull. Bot. Surv. India 10(1): 90. 1968.",,,,,26618-1,wfo-4000037655,3866219,
-ce76e3ae-8fbf-11eb-924d-9cd76263cbd0,species,glabrum,Tayloriophyton,,Nayar,1968,"Bull. Bot. Surv. India x. 92 (1968).",,,,,576114-1,wfo-0000162220,3866226,
-ce8c6c38-8fbf-11eb-924d-9cd76263cbd0,species,longisetosum,Tayloriophyton,,Nayar,1968,"Bull. Bot. Surv. India x. 92 (1968)",,,,,576115-1,wfo-0000162222,3866218,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb218d94-8fd1-11eb-924d-9cd76263cbd0,genus,Tayloriophyton,,,M.P.Nayar,,1968,,"Bull. Bot. Surv. India 10(1): 90. 1968.",,Q101075416,,,,26618-1,wfo-4000037655,3866219,,
+ce76e3ae-8fbf-11eb-924d-9cd76263cbd0,species,glabrum,Tayloriophyton,,Nayar,,1968,,"Bull. Bot. Surv. India x. 92 (1968).",,Q101075416,,,,576114-1,wfo-0000162220,3866226,,
+ce8c6c38-8fbf-11eb-924d-9cd76263cbd0,species,longisetosum,Tayloriophyton,,Nayar,,1968,,"Bull. Bot. Surv. India x. 92 (1968)",,Q101075416,,,,576115-1,wfo-0000162222,3866218,,

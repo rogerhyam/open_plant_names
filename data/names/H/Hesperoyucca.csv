@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4aa97c6-8fd1-11eb-924d-9cd76263cbd0,genus,Hesperoyucca,,,"(Engelm.) Trel.",1892,"Bull. Misc. Inform. Kew 1892: 8. 1892.",,,,,24346-1,wfo-4000017649,7736036,
-e8d48528-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Hesperoyucca,,"(McKelvey) Clary",2001,"Sida 19: 845 2001",,,,1c7513de-8fcd-11eb-924d-9cd76263cbd0,20005155-1,wfo-0000658076,2770341,
-e8d5aea8-8fcc-11eb-924d-9cd76263cbd0,species,peninsularis,Hesperoyucca,,"(McKelvey) Clary",2001,"Sida 19: 845 2001",,,,1c765d48-8fcd-11eb-924d-9cd76263cbd0,20005156-1,wfo-0000658087,2770339,
-e8d72a94-8fcc-11eb-924d-9cd76263cbd0,species,whipplei,Hesperoyucca,,"(Torr.) Trel.",1893,"Rep. (Annual) Missouri Bot. Gard. 4: 208 1893",,,,1c7c1d0a-8fcd-11eb-924d-9cd76263cbd0,1095274-2,wfo-0000658097,2770323,
-e8d77b66-8fcc-11eb-924d-9cd76263cbd0,variety,graminifolia,Hesperoyucca,whipplei,Trel.,1893,"Rep. (Annual) Missouri Bot. Gard. 4: 215 1893",,,,,322175-2,wfo-0000658100,2770334,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4aa97c6-8fd1-11eb-924d-9cd76263cbd0,genus,Hesperoyucca,,,"(Engelm.) Trel.",,1892,,"Bull. Misc. Inform. Kew 1892: 8. 1892.",,Q55777824,,,,24346-1,wfo-4000017649,7736036,,
+e8d48528-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Hesperoyucca,,"(McKelvey) Clary",,2001,,"Sida 19: 845 2001",,Q91201752,,1c7513de-8fcd-11eb-924d-9cd76263cbd0,,20005155-1,wfo-0000658076,2770341,,
+e8d5aea8-8fcc-11eb-924d-9cd76263cbd0,species,peninsularis,Hesperoyucca,,"(McKelvey) Clary",,2001,,"Sida 19: 845 2001",,Q91201752,,1c765d48-8fcd-11eb-924d-9cd76263cbd0,,20005156-1,wfo-0000658087,2770339,,
+e8d72a94-8fcc-11eb-924d-9cd76263cbd0,species,whipplei,Hesperoyucca,,"(Torr.) Trel.",,1893,,"Rep. (Annual) Missouri Bot. Gard. 4: 208 1893",,,,1c7c1d0a-8fcd-11eb-924d-9cd76263cbd0,,1095274-2,wfo-0000658097,2770323,,
+e8d77b66-8fcc-11eb-924d-9cd76263cbd0,variety,graminifolia,Hesperoyucca,whipplei,Trel.,,1893,,"Rep. (Annual) Missouri Bot. Gard. 4: 215 1893",,,,,,322175-2,wfo-0000658100,2770334,,

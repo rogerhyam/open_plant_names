@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0e0a7de-8fd1-11eb-924d-9cd76263cbd0,genus,Bryodes,,,Benth.,1846,"Prodr. 10: 433. 1846.",,,,,,wfo-4000005577,3233358,
-b60abc52-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Bryodes,,Bonati,1923,"Bull. Soc. Bot. Genève II, 15: 103 1923 publ. 1924",,,,,799882-1,wfo-0000572913,7565801,
-b60ae1dc-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Bryodes,,Benth.,1846,"Prodr. 10: 433 1846",,,,,799883-1,wfo-0000572914,7676927,
-b60b4bf4-8fcc-11eb-924d-9cd76263cbd0,species,minutissima,Bryodes,,Phil.,1895,"Anales Univ. Chile 91: 503 1895",,,,,780037-1,wfo-0000572915,3789050,
-b60ba9dc-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Bryodes,,Bonati,1923,"Bull. Soc. Bot. Genève II, 15: 104 1923 publ. 1924",,,,,799885-1,wfo-0000572916,7396079,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0e0a7de-8fd1-11eb-924d-9cd76263cbd0,genus,Bryodes,,,Benth.,,1846,,"Prodr. 10: 433. 1846.",,,,,,,wfo-4000005577,3233358,,
+b60abc52-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Bryodes,,Bonati,,1923,,"Bull. Soc. Bot. Genève II, 15: 103 1923 publ. 1924",,,,,,799882-1,wfo-0000572913,7565801,,
+b60ae1dc-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Bryodes,,Benth.,,1846,,"Prodr. 10: 433 1846",,,,,,799883-1,wfo-0000572914,7676927,,
+b60b4bf4-8fcc-11eb-924d-9cd76263cbd0,species,minutissima,Bryodes,,Phil.,,1895,,"Anales Univ. Chile 91: 503 1895",,,,,,780037-1,wfo-0000572915,3789050,,
+b60ba9dc-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Bryodes,,Bonati,,1923,,"Bull. Soc. Bot. Genève II, 15: 104 1923 publ. 1924",,,,,,799885-1,wfo-0000572916,7396079,,

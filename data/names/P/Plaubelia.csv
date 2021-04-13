@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8ae2dec-8fd1-11eb-924d-9cd76263cbd0,genus,Plaubelia,,,Brid.,1826,"Bryol. Univ. 1: 522. 1826.",,,,,,wfo-4000030182,2671435,
-f7427bb4-8fcd-11eb-924d-9cd76263cbd0,species,involuta,Plaubelia,,"(Magill) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,de7999e6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001198560,2671436,
-f74298ba-8fcd-11eb-924d-9cd76263cbd0,species,sprengelii,Plaubelia,,"(Schwägr.) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,e194c718-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001198561,2671437,
-f742b656-8fcd-11eb-924d-9cd76263cbd0,variety,stomatodonta,Plaubelia,sprengelii,"(Cardot) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,f0848394-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001198562,7351429,
-e6120828-8fcd-11eb-924d-9cd76263cbd0,species,tortuosa,Plaubelia,,Brid.,1826,"Bryol. Univ. 1: 522 1826",,,,,,wfo-0001162988,7517813,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8ae2dec-8fd1-11eb-924d-9cd76263cbd0,genus,Plaubelia,,,Brid.,,1826,,"Bryol. Univ. 1: 522. 1826.",,,,,,,wfo-4000030182,2671435,,
+f7427bb4-8fcd-11eb-924d-9cd76263cbd0,species,involuta,Plaubelia,,"(Magill) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,de7999e6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198560,2671436,,
+f74298ba-8fcd-11eb-924d-9cd76263cbd0,species,sprengelii,Plaubelia,,"(Schwägr.) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,e194c718-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198561,2671437,,
+f742b656-8fcd-11eb-924d-9cd76263cbd0,variety,stomatodonta,Plaubelia,sprengelii,"(Cardot) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 176 1993",,,,f0848394-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198562,7351429,,
+e6120828-8fcd-11eb-924d-9cd76263cbd0,species,tortuosa,Plaubelia,,Brid.,,1826,,"Bryol. Univ. 1: 522 1826",,,,,,,wfo-0001162988,7517813,,

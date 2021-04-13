@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28a112e-8fd1-11eb-924d-9cd76263cbd0,genus,Decorima,,,Raf.,1838,"Sylva Tellur. 31. 1838.",,,,,,wfo-4000010958,7273831,
-ddb2df78-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Decorima,,Raf.,1838,"Sylva Tellur. 31 1838",,,,,717297-1,wfo-0000639124,3875969,
-ddb30142-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Decorima,,Raf.,1838,"Sylva Tellur. 31 1838",,,,,717298-1,wfo-0000639125,3875961,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28a112e-8fd1-11eb-924d-9cd76263cbd0,genus,Decorima,,,Raf.,,1838,,"Sylva Tellur. 31. 1838.",,,,,,,wfo-4000010958,7273831,,
+ddb2df78-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Decorima,,Raf.,,1838,,"Sylva Tellur. 31 1838",,,,,,717297-1,wfo-0000639124,3875969,,
+ddb30142-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Decorima,,Raf.,,1838,,"Sylva Tellur. 31 1838",,,,,,717298-1,wfo-0000639125,3875961,,

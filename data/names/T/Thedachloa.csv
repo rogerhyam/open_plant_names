@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb44c11a-8fd1-11eb-924d-9cd76263cbd0,genus,Thedachloa,,,S.W.L.Jacobs,,,,,,,77064418-1,wfo-4000038114,7325132,
-683d2612-8fcd-11eb-924d-9cd76263cbd0,species,annua,Thedachloa,,S.W.L.Jacobs,2004,"Telopea 10: 637 2004",,,,,,wfo-0000903495,4126466,
-dfdf64f0-8fcd-11eb-924d-9cd76263cbd0,species,suecica,Thedenia,,Schimp.,1852,"Bryol. Eur. 5: 85. 454 (fasc. 49–51 Mon. 3. 1) 1852",,,,,,wfo-0001149448,7786589,
-b0e40d36-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Theileamea,,"(Nees) Baill.",1891,"Hist. Pl. 10: 432 1891",,,,,60450152-2,wfo-0001045646,3775159,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb44c11a-8fd1-11eb-924d-9cd76263cbd0,genus,Thedachloa,,,S.W.L.Jacobs,,,,,,,,,,77064418-1,wfo-4000038114,7325132,,
+683d2612-8fcd-11eb-924d-9cd76263cbd0,species,annua,Thedachloa,,S.W.L.Jacobs,,2004,,"Telopea 10: 637 2004",,,,,,,wfo-0000903495,4126466,,
+dfdf64f0-8fcd-11eb-924d-9cd76263cbd0,species,suecica,Thedenia,,Schimp.,,1852,,"Bryol. Eur. 5: 85. 454 (fasc. 49–51 Mon. 3. 1) 1852",,,,,,,wfo-0001149448,7786589,,

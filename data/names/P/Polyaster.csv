@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8d9f756-8fd1-11eb-924d-9cd76263cbd0,genus,Polyaster,,,Hook.f.,1862,"Gen. Pl. 1: 299. 1862. (7 Aug 1862)",,,,,35912-1,wfo-4000030686,3232960,
-786814bc-8fcc-11eb-924d-9cd76263cbd0,species,boronioides,Polyaster,,Hook.f.,1862,"Gen. Pl. 1: 299 1862",,,,,774880-1,wfo-0000471273,5594464,
-78666cde-8fcc-11eb-924d-9cd76263cbd0,species,ehrenbergii,Polyaster,,Engl.,1896,"Bot. Jahrb. Syst. 21(54): 26 1896",,,,,205222-2,wfo-0000471262,5594460,
-77e2a002-8fcc-11eb-924d-9cd76263cbd0,species,paucijugus,Polyaster,,Donn.Sm.,1899,"Bot. Gaz. 27: 331 1899",,,,,205223-2,wfo-0000470373,5594455,
-428ac876-8fcc-11eb-924d-9cd76263cbd0,species,cylindrocarpa,Polyaulax,,"(Burck) Backer",1945,"Blumea 5: 493 1945",,,,,74761-1,wfo-0000394000,5407553,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8d9f756-8fd1-11eb-924d-9cd76263cbd0,genus,Polyaster,,,Hook.f.,,1862,,"Gen. Pl. 1: 299. 1862. (7 Aug 1862)",,,,,,35912-1,wfo-4000030686,3232960,,
+786814bc-8fcc-11eb-924d-9cd76263cbd0,species,boronioides,Polyaster,,Hook.f.,,1862,,"Gen. Pl. 1: 299 1862",,,,,,774880-1,wfo-0000471273,5594464,,
+78666cde-8fcc-11eb-924d-9cd76263cbd0,species,ehrenbergii,Polyaster,,Engl.,,1896,,"Bot. Jahrb. Syst. 21(54): 26 1896",,,,,,205222-2,wfo-0000471262,5594460,,
+77e2a002-8fcc-11eb-924d-9cd76263cbd0,species,paucijugus,Polyaster,,Donn.Sm.,,1899,,"Bot. Gaz. 27: 331 1899",,Q55758534,,,,205223-2,wfo-0000470373,5594455,,
+428ac876-8fcc-11eb-924d-9cd76263cbd0,species,cylindrocarpa,Polyaulax,,"(Burck) Backer",,1945,,"Blumea 5: 493 1945",,Q96029197,,,,74761-1,wfo-0000394000,5407553,,

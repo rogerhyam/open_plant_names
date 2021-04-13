@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5020ca4-8fd1-11eb-924d-9cd76263cbd0,genus,Hyphipus,,,Raf.,1838,"Sylva Tellur. 125. 1838.",,,,,,wfo-4000018771,7287883,
-10fa68b0-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Hyphipus,,Raf.,1838,"Sylva Tellur. 125 1838",,,,,548831-1,wfo-0000728505,4000755,
-10fa8642-8fcd-11eb-924d-9cd76263cbd0,species,trigona,Hyphipus,,Raf.,1838,"Sylva Tellur. 125 1838",,,,,548832-1,wfo-0000728506,4000747,
-689048ca-8fcc-11eb-924d-9cd76263cbd0,species,amplexicaulis,Hyphydra,,"(Rottb.) Vahl",1794,"Symb. Bot. 3: 99 1794",,,,,335874-1,wfo-0000444191,2691147,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5020ca4-8fd1-11eb-924d-9cd76263cbd0,genus,Hyphipus,,,Raf.,,1838,,"Sylva Tellur. 125. 1838.",,,,,,,wfo-4000018771,7287883,,
+10fa68b0-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Hyphipus,,Raf.,,1838,,"Sylva Tellur. 125 1838",,,,,,548831-1,wfo-0000728505,4000755,,
+10fa8642-8fcd-11eb-924d-9cd76263cbd0,species,trigona,Hyphipus,,Raf.,,1838,,"Sylva Tellur. 125 1838",,,,,,548832-1,wfo-0000728506,4000747,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1e2ba46-8fd1-11eb-924d-9cd76263cbd0,genus,Codonosiphon,,,Schltr.,1912,"Repert. Spec. Nov. Regni Veg. Beih. 1: 682. 1912.",,,,,,wfo-4000008801,7320626,
-69dcf452-8fcd-11eb-924d-9cd76263cbd0,species,campanulatum,Codonosiphon,,Schltr.,1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 894 1913",,,,,623704-1,wfo-0000905621,3653809,
-aeb102cc-8fd1-11eb-924d-9cd76263cbd0,species,codonanthus,Codonosiphon,,"(Schltr.) Schltr.",1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 893 1913",,,,,623705-1,wfo-0001222151,,
-69e14dfe-8fcd-11eb-924d-9cd76263cbd0,species,papuanum,Codonosiphon,,Schltr.,1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 894 1913",,,,,623706-1,wfo-0000905640,2846112,
-cf059c0e-8fcc-11eb-924d-9cd76263cbd0,species,erinus,Codonostigma,,"Klotzsch ex Benth.",1839,"Prodr. 7: 709 1839",,,,,327652-1,wfo-0000614088,4164062,
-69e533ce-8fcd-11eb-924d-9cd76263cbd0,species,calophylla,Codonura,,K.Schum.,1896,"Bot. Jahrb. Syst. 23: 229 1896",,,,,78106-1,wfo-0000905661,3615820,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1e2ba46-8fd1-11eb-924d-9cd76263cbd0,genus,Codonosiphon,,,Schltr.,,1912,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 682. 1912.",,,,,,,wfo-4000008801,7320626,,
+69dcf452-8fcd-11eb-924d-9cd76263cbd0,species,campanulatum,Codonosiphon,,Schltr.,,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 894 1913",,,,,,623704-1,wfo-0000905621,3653809,,
+aeb102cc-8fd1-11eb-924d-9cd76263cbd0,species,codonanthus,Codonosiphon,,"(Schltr.) Schltr.",,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 893 1913",,,,,,623705-1,wfo-0001222151,,,
+69e14dfe-8fcd-11eb-924d-9cd76263cbd0,species,papuanum,Codonosiphon,,Schltr.,,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 894 1913",,,,,,623706-1,wfo-0000905640,2846112,,
+cf059c0e-8fcc-11eb-924d-9cd76263cbd0,species,erinus,Codonostigma,,"Klotzsch ex Benth.",,1839,,"Prodr. 7: 709 1839",,,,,,327652-1,wfo-0000614088,4164062,,
+69e533ce-8fcd-11eb-924d-9cd76263cbd0,species,calophylla,Codonura,,K.Schum.,,1896,,"Bot. Jahrb. Syst. 23: 229 1896",,,,,,78106-1,wfo-0000905661,3615820,,

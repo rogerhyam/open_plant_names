@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5aaf99a-8fd1-11eb-924d-9cd76263cbd0,genus,Leidesia,,,Müll.Arg.,1866,"Prodr. 15(2): 792. 1866.",,,,,15564-1,wfo-4000020907,3054696,
-d8cfd0ac-8fcb-11eb-924d-9cd76263cbd0,species,capensis,Leidesia,,"(L.f.) Müll.Arg.",1866,"Prodr. 15(2): 793 1866",,,,,350784-1,wfo-0000224364,3054698,
-d8cff190-8fcb-11eb-924d-9cd76263cbd0,species,firmula,Leidesia,,Prain,1912,"Bull. Misc. Inform. Kew 1912: 337 1912",,,,,350785-1,wfo-0000224365,3070809,
-d8d00ff4-8fcb-11eb-924d-9cd76263cbd0,species,obtusa,Leidesia,,"(Thunb.) Müll.Arg.",1866,"Prodr. 15(2): 793 1866",,,,,350786-1,wfo-0000224366,3054706,
-d8d02dcc-8fcb-11eb-924d-9cd76263cbd0,species,procumbens,Leidesia,,"(L.) Prain",1913,"Ann. Bot. (Usteri) 27: 400 1913 publ. 1914",,,,,350787-1,wfo-0000224367,3054697,
-d8d04cee-8fcb-11eb-924d-9cd76263cbd0,variety,obtusa,Leidesia,procumbens,"(Thunb.) Pax & K.Hoffm.",1914,"Pflanzenr. IV, 147, VII: 286 1914",,,,,,wfo-0000224368,3054699,
-d8d06a6c-8fcb-11eb-924d-9cd76263cbd0,species,sonderiana,Leidesia,,Müll.Arg.,1866,"Prodr. 15(2): 699 1866",,,,,350788-1,wfo-0000224369,3054710,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5aaf99a-8fd1-11eb-924d-9cd76263cbd0,genus,Leidesia,,,Müll.Arg.,,1866,,"Prodr. 15(2): 792. 1866.",,,,,,15564-1,wfo-4000020907,3054696,,
+d8cfd0ac-8fcb-11eb-924d-9cd76263cbd0,species,capensis,Leidesia,,"(L.f.) Müll.Arg.",,1866,,"Prodr. 15(2): 793 1866",,,,,,350784-1,wfo-0000224364,3054698,,
+d8cff190-8fcb-11eb-924d-9cd76263cbd0,species,firmula,Leidesia,,Prain,,1912,,"Bull. Misc. Inform. Kew 1912: 337 1912",,Q55778476,,,,350785-1,wfo-0000224365,3070809,,
+d8d00ff4-8fcb-11eb-924d-9cd76263cbd0,species,obtusa,Leidesia,,"(Thunb.) Müll.Arg.",,1866,,"Prodr. 15(2): 793 1866",,,,,,350786-1,wfo-0000224366,3054706,,
+d8d02dcc-8fcb-11eb-924d-9cd76263cbd0,species,procumbens,Leidesia,,"(L.) Prain",,1913,,"Ann. Bot. (Usteri) 27: 400 1913 publ. 1914",,,,,,350787-1,wfo-0000224367,3054697,,
+d8d04cee-8fcb-11eb-924d-9cd76263cbd0,variety,obtusa,Leidesia,procumbens,"(Thunb.) Pax & K.Hoffm.",,1914,,"Pflanzenr. IV, 147, VII: 286 1914",,,,,,,wfo-0000224368,3054699,,
+d8d06a6c-8fcb-11eb-924d-9cd76263cbd0,species,sonderiana,Leidesia,,Müll.Arg.,,1866,,"Prodr. 15(2): 699 1866",,,,,,350788-1,wfo-0000224369,3054710,,

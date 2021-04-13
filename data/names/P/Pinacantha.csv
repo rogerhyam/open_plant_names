@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e88c9664-8fd1-11eb-924d-9cd76263cbd0,genus,Pinacantha,,,Gilli,1959,"Feddes Repert. Spec. Nov. Regni Veg. 61: 207. 1959.",,,,,,wfo-4000029760,6026754,
-4172afd0-8fcc-11eb-924d-9cd76263cbd0,species,porandica,Pinacantha,,Gilli,1959,"Feddes Repert. Spec. Nov. Regni Veg. 61: 207 1959",,,,,847117-1,wfo-0000392559,3634088,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e88c9664-8fd1-11eb-924d-9cd76263cbd0,genus,Pinacantha,,,Gilli,,1959,,"Feddes Repert. Spec. Nov. Regni Veg. 61: 207. 1959.",,,,,,,wfo-4000029760,6026754,,
+4172afd0-8fcc-11eb-924d-9cd76263cbd0,species,porandica,Pinacantha,,Gilli,,1959,,"Feddes Repert. Spec. Nov. Regni Veg. 61: 207 1959",,,,,,847117-1,wfo-0000392559,3634088,,

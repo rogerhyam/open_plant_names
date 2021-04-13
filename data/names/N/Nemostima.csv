@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e721af4e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemostima,,,Raf.,1836,"Fl. Tellur. 4: 82. 1836[1838].",,,,,,wfo-4000025578,7323966,
-fd76de9e-8fbe-11eb-924d-9cd76263cbd0,species,canariensis,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270696-1,wfo-0000157299,3677327,
-fd816cc4-8fbe-11eb-924d-9cd76263cbd0,species,cantabrica,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270697-1,wfo-0000157300,3677318,
-fd8bfcfc-8fbe-11eb-924d-9cd76263cbd0,species,hystrix,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270698-1,wfo-0000157301,3677314,
-fd96a558-8fbe-11eb-924d-9cd76263cbd0,species,lanata,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270699-1,wfo-0000157302,3677308,
-fda11ac4-8fbe-11eb-924d-9cd76263cbd0,species,lineata,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270700-1,wfo-0000157303,3677299,
-fdabb2a4-8fbe-11eb-924d-9cd76263cbd0,species,spicaefolia,Nemostima,,Raf.,1838,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,270701-1,wfo-0000157304,3677289,
-31a43bae-8fcd-11eb-924d-9cd76263cbd0,species,ciliaris,Nemostylis,,"(DC.) Steven",1857,"Bull. Soc. Imp. Naturalistes Moscou 30(3): 144 1857",,,,,,wfo-0000797363,2903393,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e721af4e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemostima,,,Raf.,,1836,,"Fl. Tellur. 4: 82. 1836[1838].",,,,,,,wfo-4000025578,7323966,,
+fd76de9e-8fbe-11eb-924d-9cd76263cbd0,species,canariensis,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270696-1,wfo-0000157299,3677327,,
+fd816cc4-8fbe-11eb-924d-9cd76263cbd0,species,cantabrica,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270697-1,wfo-0000157300,3677318,,
+fd8bfcfc-8fbe-11eb-924d-9cd76263cbd0,species,hystrix,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270698-1,wfo-0000157301,3677314,,
+fd96a558-8fbe-11eb-924d-9cd76263cbd0,species,lanata,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270699-1,wfo-0000157302,3677308,,
+fda11ac4-8fbe-11eb-924d-9cd76263cbd0,species,lineata,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270700-1,wfo-0000157303,3677299,,
+fdabb2a4-8fbe-11eb-924d-9cd76263cbd0,species,spicaefolia,Nemostima,,Raf.,,1838,,"Fl. Tellur. 4: 82 1838 [1836 publ. mid-1838]",,,,,,270701-1,wfo-0000157304,3677289,,
+31a43bae-8fcd-11eb-924d-9cd76263cbd0,species,ciliaris,Nemostylis,,"(DC.) Steven",,1857,,"Bull. Soc. Imp. Naturalistes Moscou 30(3): 144 1857",,,,,,,wfo-0000797363,2903393,,

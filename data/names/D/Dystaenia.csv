@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32095c2-8fd1-11eb-924d-9cd76263cbd0,genus,Dystaenia,,,Kitag.,1937,"Bot. Mag. (Tokyo) 51: 805. 1937.",,,,,39949-1,wfo-4000012844,6026851,
-e9476624-8fcc-11eb-924d-9cd76263cbd0,species,ibukiensis,Dystaenia,,"(Y.Yabe) Kitag.",1937,"Bot. Mag. (Tokyo) 51: 806 1937",,,,,841497-1,wfo-0000658895,3635482,
-e94784e2-8fcc-11eb-924d-9cd76263cbd0,species,takesimana,Dystaenia,,"(Nakai) Kitag.",1937,"Bot. Mag. (Tokyo) 51: 807 1937",,,,,841498-1,wfo-0000658896,3635469,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32095c2-8fd1-11eb-924d-9cd76263cbd0,genus,Dystaenia,,,Kitag.,,1937,,"Bot. Mag. (Tokyo) 51: 805. 1937.",,Q55762799,,,,39949-1,wfo-4000012844,6026851,,
+e9476624-8fcc-11eb-924d-9cd76263cbd0,species,ibukiensis,Dystaenia,,"(Y.Yabe) Kitag.",,1937,,"Bot. Mag. (Tokyo) 51: 806 1937",,Q55762799,,,,841497-1,wfo-0000658895,3635482,,
+e94784e2-8fcc-11eb-924d-9cd76263cbd0,species,takesimana,Dystaenia,,"(Nakai) Kitag.",,1937,,"Bot. Mag. (Tokyo) 51: 807 1937",,Q55762799,,,,841498-1,wfo-0000658896,3635469,,

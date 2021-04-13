@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e287aa24-8fd1-11eb-924d-9cd76263cbd0,genus,Decarya,,,Choux,,"Compt. Rend. Hebd. Séances Acad. Sci. 188: 1620. 1929.",,,,,14171-1,wfo-4000010932,7309782,
-7e1e1450-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Decarya,,Choux,1934,"Mém. Acad. Malagache 17: 62 1934",,,,,316438-1,wfo-0000937978,4194207,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e287aa24-8fd1-11eb-924d-9cd76263cbd0,genus,Decarya,,,Choux,,,,"Compt. Rend. Hebd. Séances Acad. Sci. 188: 1620. 1929.",,,,,,14171-1,wfo-4000010932,7309782,,
+7e1e1450-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Decarya,,Choux,,1934,,"Mém. Acad. Malagache 17: 62 1934",,,,,,316438-1,wfo-0000937978,4194207,,

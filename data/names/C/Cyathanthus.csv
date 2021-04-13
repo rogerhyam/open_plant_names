@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24ee0fe-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathanthus,,,Engl.,1897,"Nat. Pflanzenfam., Gesamtreg. 1(Nachtr. II–IV): 120. 1897.",,,,,,wfo-4000010176,7262760,
-d9276f14-8fcc-11eb-924d-9cd76263cbd0,species,zenkeri,Cyathanthus,,Engl.,1897,"Nat. Pflanzenfam. Nachtr. 1: 120 1897",,,,,851355-1,wfo-0000631018,3766309,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24ee0fe-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathanthus,,,Engl.,,1897,,"Nat. Pflanzenfam., Gesamtreg. 1(Nachtr. II–IV): 120. 1897.",,,,,,,wfo-4000010176,7262760,,
+d9276f14-8fcc-11eb-924d-9cd76263cbd0,species,zenkeri,Cyathanthus,,Engl.,,1897,,"Nat. Pflanzenfam. Nachtr. 1: 120 1897",,,,,,851355-1,wfo-0000631018,3766309,,

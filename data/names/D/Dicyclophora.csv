@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2bcd03c-8fd1-11eb-924d-9cd76263cbd0,genus,Dicyclophora,,,Boiss.,1844,"Ann. Sci. Nat., Bot., sér. 3, 2: 89. 1844.",,,,,39920-1,wfo-4000011586,6027098,
-e1a502c8-8fcc-11eb-924d-9cd76263cbd0,species,caucalioides,Dicyclophora,,Velen.,1921,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(6): 5 1923",,,,,841294-1,wfo-0000646369,3638917,
-e1a51fb0-8fcc-11eb-924d-9cd76263cbd0,species,morphologica,Dicyclophora,,Velen.,1921,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(6): 5 1923",,,,,841295-1,wfo-0000646370,3638909,
-e1a53d6a-8fcc-11eb-924d-9cd76263cbd0,species,persica,Dicyclophora,,Boiss.,1844,"Ann. Sci. Nat., Bot. III, 2: 91 1844",,,,,841296-1,wfo-0000646371,3638902,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2bcd03c-8fd1-11eb-924d-9cd76263cbd0,genus,Dicyclophora,,,Boiss.,,1844,,"Ann. Sci. Nat., Bot., sér. 3, 2: 89. 1844.",,,,,,39920-1,wfo-4000011586,6027098,,
+e1a502c8-8fcc-11eb-924d-9cd76263cbd0,species,caucalioides,Dicyclophora,,Velen.,,1921,,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(6): 5 1923",,,,,,841294-1,wfo-0000646369,3638917,,
+e1a51fb0-8fcc-11eb-924d-9cd76263cbd0,species,morphologica,Dicyclophora,,Velen.,,1921,,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(6): 5 1923",,,,,,841295-1,wfo-0000646370,3638909,,
+e1a53d6a-8fcc-11eb-924d-9cd76263cbd0,species,persica,Dicyclophora,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. III, 2: 91 1844",,,,,,841296-1,wfo-0000646371,3638902,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9e8274e-8fd1-11eb-924d-9cd76263cbd0,genus,Salvertia,,,A.St.-Hil.,1820,"Mém. Mus. Hist. Nat. 6: 259. 1820.",,,,,41634-1,wfo-4000033887,7288352,
-8a7df52c-8fcc-11eb-924d-9cd76263cbd0,species,convallariaeodora,Salvertia,,A.St.-Hil.,1820,"Mém. Mus. Hist. Nat. 6: 277 1820",,,,,871008-1,wfo-0000502039,4030645,
-de427286-8fcd-11eb-924d-9cd76263cbd0,species,convallariodora,Salvertia,,A.St.-Hil.,1820,"Mém. Mus. Hist. Nat. 6: 266 1820",,,,,,wfo-0001146198,4936059,
-8a7dd808-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflora,Salvertia,,Pohl,1828,"Pl. Bras. Icon. Descr. 2: 16 1828",,,,,871009-1,wfo-0000502038,4030637,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9e8274e-8fd1-11eb-924d-9cd76263cbd0,genus,Salvertia,,,A.St.-Hil.,,1820,,"Mém. Mus. Hist. Nat. 6: 259. 1820.",,,,,,41634-1,wfo-4000033887,7288352,,
+8a7df52c-8fcc-11eb-924d-9cd76263cbd0,species,convallariaeodora,Salvertia,,A.St.-Hil.,,1820,,"Mém. Mus. Hist. Nat. 6: 277 1820",,,,,,871008-1,wfo-0000502039,4030645,,
+de427286-8fcd-11eb-924d-9cd76263cbd0,species,convallariodora,Salvertia,,A.St.-Hil.,,1820,,"Mém. Mus. Hist. Nat. 6: 266 1820",,,,,,,wfo-0001146198,4936059,,
+8a7dd808-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflora,Salvertia,,Pohl,,1828,,"Pl. Bras. Icon. Descr. 2: 16 1828",,,,,,871009-1,wfo-0000502038,4030637,,

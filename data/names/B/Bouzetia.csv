@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e06a08a4-8fd1-11eb-924d-9cd76263cbd0,genus,Bouzetia,,,Montrouz.,1860,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 192. 1860.",,,,,35624-1,wfo-4000005145,3831435,
-b46a6f8c-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Bouzetia,,Montrouz.,1860,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. n.s., 10: 192 1860",,,,,771733-1,wfo-0000570059,3831444,
-b46a9ae8-8fcc-11eb-924d-9cd76263cbd0,species,sinaica,Bovea,,Decne.,1834,"Ann. Sci. Nat., Bot. II, 2: 253 1834",,,,,799840-1,wfo-0000570060,3733169,
-3461150c-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Bovonia,,Chiov.,1922,"Nuovo Giorn. Bot. Ital. n.s., 29: 115 1922 publ. 1923",,,,,445183-1,wfo-0000374456,3905097,
-cd88bcee-8fd1-11eb-924d-9cd76263cbd0,species,bowdenii,,,"(B.Boivin) Barkworth",2006,"Sida 22(1): 499 2006",,,,,60443120-2,wfo-0001279016,,
-46104eca-8fcd-11eb-924d-9cd76263cbd0,species,bowdenii,,,B.Boivin,1967,"Naturaliste Canad. 94: 520 1967",,,,,316530-2,wfo-0000840962,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e06a08a4-8fd1-11eb-924d-9cd76263cbd0,genus,Bouzetia,,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 192. 1860.",,,,,,35624-1,wfo-4000005145,3831435,,
+b46a6f8c-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Bouzetia,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. n.s., 10: 192 1860",,,,,,771733-1,wfo-0000570059,3831444,,
+b46a9ae8-8fcc-11eb-924d-9cd76263cbd0,species,sinaica,Bovea,,Decne.,,1834,,"Ann. Sci. Nat., Bot. II, 2: 253 1834",,,,,,799840-1,wfo-0000570060,3733169,,

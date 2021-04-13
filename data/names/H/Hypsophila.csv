@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e508e6dc-8fd1-11eb-924d-9cd76263cbd0,genus,Hypsophila,,,F.Muell.,1887,"Victorian Natural. 3: 168. 1887.",,,,,6589-1,wfo-4000018892,3231380,
-1125ef26-8fcd-11eb-924d-9cd76263cbd0,species,dielsiana,Hypsophila,,Loes.,1903,"Notizbl. Königl. Bot. Gart. Berlin 4: 62 1903",,,,,161666-1,wfo-0000728734,5580229,
-11260aa6-8fcd-11eb-924d-9cd76263cbd0,species,halleyana,Hypsophila,,F.Muell.,1887,"Victoria Naturalist 3: 168 1887",,,,,161667-1,wfo-0000728735,5580224,
-11262798-8fcd-11eb-924d-9cd76263cbd0,species,oppositiflora,Hypsophila,,F.Muell.,1892,"Victoria Naturalist 9: 11 1892",,,,,161668-1,wfo-0000728736,5580223,
-11264cb4-8fcd-11eb-924d-9cd76263cbd0,species,bidwillii,Hyptiandra,,Hook.f.,1862,"Gen. Pl. 1: 294 1862",,,,,813746-1,wfo-0000728737,7329594,
-11266e2e-8fcd-11eb-924d-9cd76263cbd0,variety,grandiuscula,Hyptiandra,bidwillii,F.M.Bailey,1890,"Syn. Queensl. Fl. Suppl. 3: 12 1890",,,,,,wfo-0000728738,3708846,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e508e6dc-8fd1-11eb-924d-9cd76263cbd0,genus,Hypsophila,,,F.Muell.,,1887,,"Victorian Natural. 3: 168. 1887.",,,,,,6589-1,wfo-4000018892,3231380,,
+1125ef26-8fcd-11eb-924d-9cd76263cbd0,species,dielsiana,Hypsophila,,Loes.,,1903,,"Notizbl. Königl. Bot. Gart. Berlin 4: 62 1903",,,,,,161666-1,wfo-0000728734,5580229,,
+11260aa6-8fcd-11eb-924d-9cd76263cbd0,species,halleyana,Hypsophila,,F.Muell.,,1887,,"Victoria Naturalist 3: 168 1887",,,,,,161667-1,wfo-0000728735,5580224,,
+11262798-8fcd-11eb-924d-9cd76263cbd0,species,oppositiflora,Hypsophila,,F.Muell.,,1892,,"Victoria Naturalist 9: 11 1892",,,,,,161668-1,wfo-0000728736,5580223,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e73ab4b2-8fd1-11eb-924d-9cd76263cbd0,genus,Neo-taraxacum,,,,,,,,,,,wfo-4000025860,7336367,
-e27b9eca-8fbb-11eb-924d-9cd76263cbd0,species,siphonanthum,Neo-taraxacum,,"Y.R.Ling & X.D.Sun",2001,"Bull. Bot. Res., Harbin 21(2): 176 2001",,,,,77083531-1,wfo-0000137367,4213698,
-e730f072-8fcb-11eb-924d-9cd76263cbd0,species,adendrobium,Neo-urbania,,"(Rchb.f.) Fawc. & Rendle",1909,"J. Bot. 47: 125 1909",,,,fa35bc2a-8fcb-11eb-924d-9cd76263cbd0,169155-2,wfo-0000250686,3650120,
-e7310de6-8fcb-11eb-924d-9cd76263cbd0,species,nicaraguensis,Neo-urbania,,"Hamer & Garay",,"Icon. Pl. Trop. 13: t. 1238 1985",,,,,281323-2,wfo-0000250687,3650115,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e73ab4b2-8fd1-11eb-924d-9cd76263cbd0,genus,Neo-taraxacum,,,,,,,,,,,,,,wfo-4000025860,7336367,,
+e27b9eca-8fbb-11eb-924d-9cd76263cbd0,species,siphonanthum,Neo-taraxacum,,"Y.R.Ling & X.D.Sun",,2001,,"Bull. Bot. Res., Harbin 21(2): 176 2001",,Q96108206,,,,77083531-1,wfo-0000137367,4213698,,
+e730f072-8fcb-11eb-924d-9cd76263cbd0,species,adendrobium,Neo-urbania,,"(Rchb.f.) Fawc. & Rendle",,1909,,"J. Bot. 47: 125 1909",,,,fa35bc2a-8fcb-11eb-924d-9cd76263cbd0,,169155-2,wfo-0000250686,3650120,,
+e7310de6-8fcb-11eb-924d-9cd76263cbd0,species,nicaraguensis,Neo-urbania,,"Hamer & Garay",,,,"Icon. Pl. Trop. 13: t. 1238 1985",,,,,,281323-2,wfo-0000250687,3650115,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e03fd7e6-8fd1-11eb-924d-9cd76263cbd0,genus,Bishovia,,,"R.M.King & H.Rob.",,,,,,,7924-1,wfo-4000004678,3088427,
-29330866-8fb3-11eb-924d-9cd76263cbd0,species,boliviensis,Bishovia,,"R.M.King & H.Rob.",1978,"Phytologia 39 340 1978",,,,,33302-2,wfo-0000042880,3088428,
-43aefa0a-8fb4-11eb-924d-9cd76263cbd0,species,mikaniifolia,Bishovia,,"(B.L.Rob.) R.M.King & H.Rob.",1978,"Phytologia 39 341 1978",,,,,33303-2,wfo-0000062420,3142641,
-b1ea5466-8fcc-11eb-924d-9cd76263cbd0,species,alcea,Bismalva,,"(L.) Medik.",1787,"Malvenfam. 39 1787",,,,6b703f3c-8fcc-11eb-924d-9cd76263cbd0,559097-1,wfo-0000566068,3939002,
-b1ea6ffa-8fcc-11eb-924d-9cd76263cbd0,species,fastigiata,Bismalva,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 350 1868",,,,,559098-1,wfo-0000566069,3938997,
-b1ea8e4a-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Bismalva,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 350 1868",,,,,559099-1,wfo-0000566070,3938992,
-b1eafb8c-8fcc-11eb-924d-9cd76263cbd0,species,moschata,Bismalva,,"(L.) Medik.",1787,"Malvenfam. 39 1787",,,,,559100-1,wfo-0000566071,3938990,
-b1eb4696-8fcc-11eb-924d-9cd76263cbd0,species,tournefortiana,Bismalva,,"(L.) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 195 1869",,,,6ba1fb80-8fcc-11eb-924d-9cd76263cbd0,559101-1,wfo-0000566072,3938987,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e03fd7e6-8fd1-11eb-924d-9cd76263cbd0,genus,Bishovia,,,"R.M.King & H.Rob.",,,,,,,,,,7924-1,wfo-4000004678,3088427,,
+29330866-8fb3-11eb-924d-9cd76263cbd0,species,boliviensis,Bishovia,,"R.M.King & H.Rob.",,1978,,"Phytologia 39 340 1978",,,,,,33302-2,wfo-0000042880,3088428,,
+43aefa0a-8fb4-11eb-924d-9cd76263cbd0,species,mikaniifolia,Bishovia,,"(B.L.Rob.) R.M.King & H.Rob.",,1978,,"Phytologia 39 341 1978",,,,,,33303-2,wfo-0000062420,3142641,,
+b1ea5466-8fcc-11eb-924d-9cd76263cbd0,species,alcea,Bismalva,,"(L.) Medik.",,1787,,"Malvenfam. 39 1787",,,,6b703f3c-8fcc-11eb-924d-9cd76263cbd0,,559097-1,wfo-0000566068,3939002,,
+b1ea6ffa-8fcc-11eb-924d-9cd76263cbd0,species,fastigiata,Bismalva,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 350 1868",,,,,,559098-1,wfo-0000566069,3938997,,
+b1ea8e4a-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Bismalva,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 350 1868",,,,,,559099-1,wfo-0000566070,3938992,,
+b1eafb8c-8fcc-11eb-924d-9cd76263cbd0,species,moschata,Bismalva,,"(L.) Medik.",,1787,,"Malvenfam. 39 1787",,,,,,559100-1,wfo-0000566071,3938990,,
+b1eb4696-8fcc-11eb-924d-9cd76263cbd0,species,tournefortiana,Bismalva,,"(L.) Fourr.",,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 195 1869",,,,6ba1fb80-8fcc-11eb-924d-9cd76263cbd0,,559101-1,wfo-0000566072,3938987,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff806b4-8fd1-11eb-924d-9cd76263cbd0,genus,Austroplenckia,,,,,,,,,,,wfo-4000003744,7265740,
-ab9eb55c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Austroplenckia,,"(Reissek) Lundell",1939,"Lilloa 4: 378 1939",,,,,159975-1,wfo-0000557381,3794149,
-ab9ed7c6-8fcc-11eb-924d-9cd76263cbd0,species,bahiensis,Austroplenckia,,"(Loes.) Lundell",1939,"Lilloa 4: 378 1939",,,,d892b1c6-8fd1-11eb-924d-9cd76263cbd0,27168-2,wfo-0000557382,3794129,
-ab9ef7c4-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Austroplenckia,,"(Reissek) Lundell",1939,"Lilloa 4: 378 1939",,,,cfb2f4ee-8fcc-11eb-924d-9cd76263cbd0,159977-1,wfo-0000557383,3794113,
-ab9f188a-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Austroplenckia,,"(Lundell) Lundell",1939,"Lilloa 4: 378 1939",,,,,27170-2,wfo-0000557384,3794094,
-ab9f3554-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Austroplenckia,,"(Reissek) Lundell",1939,"Lilloa 4: 378 1939",,,,d8930d1a-8fd1-11eb-924d-9cd76263cbd0,159979-1,wfo-0000557385,3794075,
-ab9f54ee-8fcc-11eb-924d-9cd76263cbd0,species,populnea,Austroplenckia,,"(Reissek) Lundell",1939,"Lilloa 4: 378 1939",,,,d89235ac-8fd1-11eb-924d-9cd76263cbd0,159980-1,wfo-0000557386,3794051,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff806b4-8fd1-11eb-924d-9cd76263cbd0,genus,Austroplenckia,,,,,,,,,,,,,,wfo-4000003744,7265740,,
+ab9eb55c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Austroplenckia,,"(Reissek) Lundell",,1939,,"Lilloa 4: 378 1939",,,,,,159975-1,wfo-0000557381,3794149,,
+ab9ed7c6-8fcc-11eb-924d-9cd76263cbd0,species,bahiensis,Austroplenckia,,"(Loes.) Lundell",,1939,,"Lilloa 4: 378 1939",,,,d892b1c6-8fd1-11eb-924d-9cd76263cbd0,,27168-2,wfo-0000557382,3794129,,
+ab9ef7c4-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Austroplenckia,,"(Reissek) Lundell",,1939,,"Lilloa 4: 378 1939",,,,cfb2f4ee-8fcc-11eb-924d-9cd76263cbd0,,159977-1,wfo-0000557383,3794113,,
+ab9f188a-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Austroplenckia,,"(Lundell) Lundell",,1939,,"Lilloa 4: 378 1939",,,,,,27170-2,wfo-0000557384,3794094,,
+ab9f3554-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Austroplenckia,,"(Reissek) Lundell",,1939,,"Lilloa 4: 378 1939",,,,d8930d1a-8fd1-11eb-924d-9cd76263cbd0,,159979-1,wfo-0000557385,3794075,,
+ab9f54ee-8fcc-11eb-924d-9cd76263cbd0,species,populnea,Austroplenckia,,"(Reissek) Lundell",,1939,,"Lilloa 4: 378 1939",,,,d89235ac-8fd1-11eb-924d-9cd76263cbd0,,159980-1,wfo-0000557386,3794051,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5247b2c-8fd1-11eb-924d-9cd76263cbd0,genus,Isocladiella,,,Dixon,1931,"J. Bot. 69: 5. 1931.",,,,,,wfo-4000019262,2679664,
-f6ce5766-8fcd-11eb-924d-9cd76263cbd0,species,flagellifera,Isocladiella,,"(Sakurai) S.H.Lin",1986,"Yushania 3(2): 13 1986",,,,e9d6aec8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001197529,6136377,
-e600b37a-8fcd-11eb-924d-9cd76263cbd0,species,phyllogonioides,Isocladiella,,Dixon,1931,"J. Bot. 69: 5. pl. 595: f. 4 1931",,,,,,wfo-0001162842,7480384,
-f69fe2aa-8fcd-11eb-924d-9cd76263cbd0,species,surcularis,Isocladiella,,"(Dixon) B.C.Tan & Mohamed",1990,"Cryptog. Bryol. Lichénol. 11: 357 1990",,,,,,wfo-0001197122,2679665,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5247b2c-8fd1-11eb-924d-9cd76263cbd0,genus,Isocladiella,,,Dixon,,1931,,"J. Bot. 69: 5. 1931.",,,,,,,wfo-4000019262,2679664,,
+f6ce5766-8fcd-11eb-924d-9cd76263cbd0,species,flagellifera,Isocladiella,,"(Sakurai) S.H.Lin",,1986,,"Yushania 3(2): 13 1986",,,,e9d6aec8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001197529,6136377,,
+e600b37a-8fcd-11eb-924d-9cd76263cbd0,species,phyllogonioides,Isocladiella,,Dixon,,1931,,"J. Bot. 69: 5. pl. 595: f. 4 1931",,,,,,,wfo-0001162842,7480384,,
+f69fe2aa-8fcd-11eb-924d-9cd76263cbd0,species,surcularis,Isocladiella,,"(Dixon) B.C.Tan & Mohamed",,1990,,"Cryptog. Bryol. Lichénol. 11: 357 1990",,,,,,,wfo-0001197122,2679665,,

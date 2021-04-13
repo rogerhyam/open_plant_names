@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ded2451a-8fd1-11eb-924d-9cd76263cbd0,genus,Acroscyphus,,,,,,,,,,,wfo-4000000455,3229880,
-f80230a8-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Acroscyphus,,N.Kitag.,1984,"Acta Phytotax. Geobot. 35: 3. f. 1 1984",,,,,,wfo-0001200103,7593877,
-f8024f66-8fcd-11eb-924d-9cd76263cbd0,species,nitidissimus,Acroscyphus,,R.M.Schust.,1985,"Phytologia 56: 455 1985",,,,,,wfo-0001200104,7667442,
-f80f768c-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhizus,Acroscyphus,,"(Grolle) R.M.Schust. & J.J.Engel",1985,"Phytologia 56: 456 1985",,,,f802ec6e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200206,8429570,
-ae66812e-8fcd-11eb-924d-9cd76263cbd0,species,sphaerophoroides,Acroscyphus,,Lév.,1846,"Ann. Sci. Nat., Bot., sér. 3, 5: 262 1846",,,,,,wfo-0001040083,,
-f80f94fa-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Acroscyphus,,"(Sande Lac.) R.M.Schust. & J.J.Engel",1985,"Phytologia 56: 456 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200207,8351709,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ded2451a-8fd1-11eb-924d-9cd76263cbd0,genus,Acroscyphus,,,Lév.,,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 262 (1846)",,,,ded2451a-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000000455,3229880,52," "
+f80230a8-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Acroscyphus,,N.Kitag.,,1984,,"Acta Phytotax. Geobot. 35: 3. f. 1 1984",,,,,,,wfo-0001200103,7593877,,
+f8024f66-8fcd-11eb-924d-9cd76263cbd0,species,nitidissimus,Acroscyphus,,R.M.Schust.,,1985,,"Phytologia 56: 455 1985",,,,,,,wfo-0001200104,7667442,,
+f80f768c-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhizus,Acroscyphus,,"(Grolle) R.M.Schust. & J.J.Engel",,1985,,"Phytologia 56: 456 1985",,,,f802ec6e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200206,8429570,,
+ae66812e-8fcd-11eb-924d-9cd76263cbd0,species,sphaerophoroides,Acroscyphus,,Lév.,,1846,,"Ann. Sci. Nat., Bot., sér. 3, 5: 262 1846",,,,ae66812e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001040083,,237034," "
+f80f94fa-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Acroscyphus,,"(Sande Lac.) R.M.Schust. & J.J.Engel",,1985,,"Phytologia 56: 456 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200207,8351709,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e06538e2-8fd1-11eb-924d-9cd76263cbd0,genus,Boutonia,,,DC.,1838,"Biblioth. Universelle Geneve 17: 134. 1838.",,,,,4007-1,wfo-4000005141,3233780,
-30580786-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Boutonia,,Baill.,1858,"Étude Euphorb. 401 1858",,,,,340009-1,wfo-0000367788,5377999,
-b46a2d4c-8fcc-11eb-924d-9cd76263cbd0,species,cuspidata,Boutonia,,DC.,1838,"Rev. Bignon. 18 1838",,,,,109112-1,wfo-0000570057,7750820,
-305bbdae-8fcc-11eb-924d-9cd76263cbd0,species,mascareinensis,Boutonia,,Bojer,1842,"Trav. Soc. Hist. Nat. Ile Maurice 1842-1846: 151 1846",,,,,340010-1,wfo-0000367814,5377978,
-306551b6-8fcc-11eb-924d-9cd76263cbd0,species,mascariensis,Boutonia,,"Bojer ex Baill.",1858,"Étude Euphorb. 401 1858",,,,,340012-1,wfo-0000367884,5377975,
-b46a4ed0-8fcc-11eb-924d-9cd76263cbd0,species,pomifera,Boutonia,,Steud.,1840,"Nomencl. Bot. ed. 2, 1: 219 1840",,,,,383626-1,wfo-0000570058,7802185,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e06538e2-8fd1-11eb-924d-9cd76263cbd0,genus,Boutonia,,,DC.,,1838,,"Biblioth. Universelle Geneve 17: 134. 1838.",,,,,,4007-1,wfo-4000005141,3233780,,
+30580786-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Boutonia,,Baill.,,1858,,"Étude Euphorb. 401 1858",,,,,,340009-1,wfo-0000367788,5377999,,
+b46a2d4c-8fcc-11eb-924d-9cd76263cbd0,species,cuspidata,Boutonia,,DC.,,1838,,"Rev. Bignon. 18 1838",,,,,,109112-1,wfo-0000570057,7750820,,
+305bbdae-8fcc-11eb-924d-9cd76263cbd0,species,mascareinensis,Boutonia,,Bojer,,1842,,"Trav. Soc. Hist. Nat. Ile Maurice 1842-1846: 151 1846",,,,,,340010-1,wfo-0000367814,5377978,,
+306551b6-8fcc-11eb-924d-9cd76263cbd0,species,mascariensis,Boutonia,,"Bojer ex Baill.",,1858,,"Étude Euphorb. 401 1858",,,,,,340012-1,wfo-0000367884,5377975,,
+b46a4ed0-8fcc-11eb-924d-9cd76263cbd0,species,pomifera,Boutonia,,Steud.,,1840,,"Nomencl. Bot. ed. 2, 1: 219 1840",,,,,,383626-1,wfo-0000570058,7802185,,

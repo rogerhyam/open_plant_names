@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e66eb9b6-8fd1-11eb-924d-9cd76263cbd0,genus,Matudaea,,,Lundell,1940,"Lloydia 3(3): 209. 1940.",,,,,19602-1,wfo-4000023348,7329079,
-b67c2a7c-8fd1-11eb-924d-9cd76263cbd0,species,colombiana,Matudaea,,Lozano,1996,"Revista Acad. Colomb. Ci. Exact. 20(78): 444–445, f. 1 1996",,,,,992235-1,wfo-0001236421,3702656,
-33e0b722-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Matudaea,,Lundell,1961,"Wrightia 3: 1 1961",,,,,154827-2,wfo-0000373574,3702645,
-b980833e-8fcd-11eb-924d-9cd76263cbd0,species,menzelii,Matudaea,,Walther,,,,,,,,wfo-0001065279,3702637,
-33e17004-8fcc-11eb-924d-9cd76263cbd0,species,trinervia,Matudaea,,Lundell,1940,"Lloydia 3: 210 1940",,,,,154829-2,wfo-0000373584,7329080,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e66eb9b6-8fd1-11eb-924d-9cd76263cbd0,genus,Matudaea,,,Lundell,,1940,,"Lloydia 3(3): 209. 1940.",,,,,,19602-1,wfo-4000023348,7329079,,
+b67c2a7c-8fd1-11eb-924d-9cd76263cbd0,species,colombiana,Matudaea,,Lozano,,1996,,"Revista Acad. Colomb. Ci. Exact. 20(78): 444–445, f. 1 1996",,,,,,992235-1,wfo-0001236421,3702656,,
+33e0b722-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Matudaea,,Lundell,,1961,,"Wrightia 3: 1 1961",,,,,,154827-2,wfo-0000373574,3702645,,
+b980833e-8fcd-11eb-924d-9cd76263cbd0,species,menzelii,Matudaea,,Walther,,,,,,,,,,,wfo-0001065279,3702637,,
+33e17004-8fcc-11eb-924d-9cd76263cbd0,species,trinervia,Matudaea,,Lundell,,1940,,"Lloydia 3: 210 1940",,,,,,154829-2,wfo-0000373584,7329080,,

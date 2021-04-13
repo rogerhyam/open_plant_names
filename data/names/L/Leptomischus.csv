@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5ccd6fa-8fd1-11eb-924d-9cd76263cbd0,genus,Leptomischus,,,Drake,1895,"Bull. Mus. Hist. Nat. (Paris) 1: 117. 1895.",,,,,34831-1,wfo-4000021302,2900804,
-d9b63380-8fcb-11eb-924d-9cd76263cbd0,species,erianthus,Leptomischus,,H.S.Lo,1998,"Bull. Bot. Res., Harbin 18: 277 1998",,,,,1007326-1,wfo-0000226272,2900805,
-d9b64ff0-8fcb-11eb-924d-9cd76263cbd0,species,funingensis,Leptomischus,,H.S.Lo,1998,"Bull. Bot. Res., Harbin 18: 278 1998",,,,,1007327-1,wfo-0000226273,2900809,
-d9b69424-8fcb-11eb-924d-9cd76263cbd0,species,guangxiensis,Leptomischus,,H.S.Lo,1998,"Bull. Bot. Res., Harbin 18: 278 1998",,,,,1007328-1,wfo-0000226275,2900816,
-1ca50eaa-8fcc-11eb-924d-9cd76263cbd0,species,modestus,Leptomischus,,"(Hook.f.) Deb",2001,"Phytotaxonomy 1: 16 2001",,,,,20011879-1,wfo-0000336263,2900810,
-d9b6b33c-8fcb-11eb-924d-9cd76263cbd0,species,parviflorus,Leptomischus,,H.S.Lo,1986,"Bull. Bot. Res., Harbin 6(4): 49 1986",,,,,930891-1,wfo-0000226276,2900808,
-d9b6ce58-8fcb-11eb-924d-9cd76263cbd0,species,primuloides,Leptomischus,,Drake,1895,"Bull. Mus. Hist. Nat. (Paris) 1: 117 1895",,,,,,wfo-0000226277,2900806,
-d9b6efdc-8fcb-11eb-924d-9cd76263cbd0,species,wallichii,Leptomischus,,"(Hook.f.) H.S.Lo",1993,"Acta Phytotax. Sin. 31: 275 1993",,,,,974148-1,wfo-0000226278,2900812,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5ccd6fa-8fd1-11eb-924d-9cd76263cbd0,genus,Leptomischus,,,Drake,,1895,,"Bull. Mus. Hist. Nat. (Paris) 1: 117. 1895.",,,,,,34831-1,wfo-4000021302,2900804,,
+d9b63380-8fcb-11eb-924d-9cd76263cbd0,species,erianthus,Leptomischus,,H.S.Lo,,1998,,"Bull. Bot. Res., Harbin 18: 277 1998",,Q96107917,,,,1007326-1,wfo-0000226272,2900805,,
+d9b64ff0-8fcb-11eb-924d-9cd76263cbd0,species,funingensis,Leptomischus,,H.S.Lo,,1998,,"Bull. Bot. Res., Harbin 18: 278 1998",,Q96107917,,,,1007327-1,wfo-0000226273,2900809,,
+d9b69424-8fcb-11eb-924d-9cd76263cbd0,species,guangxiensis,Leptomischus,,H.S.Lo,,1998,,"Bull. Bot. Res., Harbin 18: 278 1998",,Q96107917,,,,1007328-1,wfo-0000226275,2900816,,
+1ca50eaa-8fcc-11eb-924d-9cd76263cbd0,species,modestus,Leptomischus,,"(Hook.f.) Deb",,2001,,"Phytotaxonomy 1: 16 2001",,,,,,20011879-1,wfo-0000336263,2900810,,
+d9b6b33c-8fcb-11eb-924d-9cd76263cbd0,species,parviflorus,Leptomischus,,H.S.Lo,,1986,,"Bull. Bot. Res., Harbin 6(4): 49 1986",,Q96108752,,,,930891-1,wfo-0000226276,2900808,,
+d9b6ce58-8fcb-11eb-924d-9cd76263cbd0,species,primuloides,Leptomischus,,Drake,,1895,,"Bull. Mus. Hist. Nat. (Paris) 1: 117 1895",,,,,,,wfo-0000226277,2900806,,
+d9b6efdc-8fcb-11eb-924d-9cd76263cbd0,species,wallichii,Leptomischus,,"(Hook.f.) H.S.Lo",,1993,,"Acta Phytotax. Sin. 31: 275 1993",,,,,,974148-1,wfo-0000226278,2900812,,

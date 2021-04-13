@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3159410-8fd1-11eb-924d-9cd76263cbd0,genus,Duidaea,,,S.F.Blake,,,,,,,297172-2,wfo-4000012721,3118059,
-a15d2ff2-8fb2-11eb-924d-9cd76263cbd0,species,marahuacensis,Duidaea,,Steyerm.,1978,"Brittonia 30 50 1978",,,,,202244-1,wfo-0000030230,3118060,
-c94885ac-8fb2-11eb-924d-9cd76263cbd0,species,pinifolia,Duidaea,,S.F.Blake,1931,"Bull. Torrey Bot. Club 58 499 1931",,,,,85750-2,wfo-0000034453,3118062,
-9268ac1a-8fb2-11eb-924d-9cd76263cbd0,species,rubriceps,Duidaea,,S.F.Blake,1931,"Bull. Torrey Bot. Club 58 500 1931",,,,,85751-2,wfo-0000028498,3118063,
-39010dd0-8fbb-11eb-924d-9cd76263cbd0,species,tatei,Duidaea,,S.F.Blake,1931,"Bull. Torrey Bot. Club 58 498 1931",,,,,202247-1,wfo-0000132667,3118061,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3159410-8fd1-11eb-924d-9cd76263cbd0,genus,Duidaea,,,S.F.Blake,,,,,,Q55767278,,,,297172-2,wfo-4000012721,3118059,,
+a15d2ff2-8fb2-11eb-924d-9cd76263cbd0,species,marahuacensis,Duidaea,,Steyerm.,,1978,,"Brittonia 30 50 1978",,Q55770079,,,,202244-1,wfo-0000030230,3118060,,
+c94885ac-8fb2-11eb-924d-9cd76263cbd0,species,pinifolia,Duidaea,,S.F.Blake,,1931,,"Bull. Torrey Bot. Club 58 499 1931",,Q55767278,,,,85750-2,wfo-0000034453,3118062,,
+9268ac1a-8fb2-11eb-924d-9cd76263cbd0,species,rubriceps,Duidaea,,S.F.Blake,,1931,,"Bull. Torrey Bot. Club 58 500 1931",,Q55767278,,,,85751-2,wfo-0000028498,3118063,,
+39010dd0-8fbb-11eb-924d-9cd76263cbd0,species,tatei,Duidaea,,S.F.Blake,,1931,,"Bull. Torrey Bot. Club 58 498 1931",,Q55767278,,,,202247-1,wfo-0000132667,3118061,,

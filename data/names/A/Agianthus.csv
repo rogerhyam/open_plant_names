@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-defa9934-8fd1-11eb-924d-9cd76263cbd0,genus,Agianthus,,,Greene,1906,"Leafl. Bot. Observ. Crit. 1(18/19): 228–229. 1906.",,,,,,wfo-4000000946,7292950,
-975d5a58-8fcc-11eb-924d-9cd76263cbd0,species,bernardinus,Agianthus,,Greene,1906,"Leafl. Bot. Observ. Crit. 1: 228 1906",,,,,7177-2,wfo-0000523902,3041537,
-975d78f8-8fcc-11eb-924d-9cd76263cbd0,species,jacobaeus,Agianthus,,Greene,1906,"Leafl. Bot. Observ. Crit. 1: 229 1906",,,,,7178-2,wfo-0000523903,3693288,
-2c6cf2bc-8fcc-11eb-924d-9cd76263cbd0,species,agiasense,,,Karatzas,2004,"J. Eur. Orch. 36: 954 2004",,,,,77063363-1,wfo-0000361577,,
-7070d7fc-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Agiella,,"(Welw.) Tiegh.",1906,"Ann. Sci. Nat., Bot. IX, 4: 247 1906",,,,,,wfo-0000914240,3987183,
-7091d7ea-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Agiella,,Tiegh.,1906,"Ann. Sci. Nat., Bot. IX, 4: 248 1906",,,,,873099-1,wfo-0000914335,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+defa9934-8fd1-11eb-924d-9cd76263cbd0,genus,Agianthus,,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1(18/19): 228–229. 1906.",,,,,,,wfo-4000000946,7292950,,
+975d5a58-8fcc-11eb-924d-9cd76263cbd0,species,bernardinus,Agianthus,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1: 228 1906",,,,,,7177-2,wfo-0000523902,3041537,,
+975d78f8-8fcc-11eb-924d-9cd76263cbd0,species,jacobaeus,Agianthus,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1: 229 1906",,,,,,7178-2,wfo-0000523903,3693288,,
+2c6cf2bc-8fcc-11eb-924d-9cd76263cbd0,species,agiasense,,,Karatzas,,2004,,"J. Eur. Orch. 36: 954 2004",,,,,,77063363-1,wfo-0000361577,,,
+7070d7fc-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Agiella,,"(Welw.) Tiegh.",,1906,,"Ann. Sci. Nat., Bot. IX, 4: 247 1906",,,,,,,wfo-0000914240,3987183,,
+7091d7ea-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Agiella,,Tiegh.,,1906,,"Ann. Sci. Nat., Bot. IX, 4: 248 1906",,,,,,873099-1,wfo-0000914335,,,

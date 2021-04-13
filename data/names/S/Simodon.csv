@@ -1,8 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6609fc-8fd1-11eb-924d-9cd76263cbd0,genus,Simodon,,,"(Lindb.) Lindb.",1889,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 23(5): 66. 1889.",,,,,,wfo-4000035405,9600621,
-fc705caa-8fcd-11eb-924d-9cd76263cbd0,species,incurva,Simodon,,"(Lindb.) Lindb.",,,,,,faf4767c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001209125,7561243,
-24ac6d7c-8fcd-11eb-924d-9cd76263cbd0,species,simoniana,,,"(Deleuil) Guillaumin",1931,"Bull. Mus. Natl. Hist. Nat. II, 3: 340 1931",,,,1f921300-8fcd-11eb-924d-9cd76263cbd0,535730-1,wfo-0000768918,,
-24c46f80-8fcd-11eb-924d-9cd76263cbd0,species,simoniana,,,"(Deleuil) Guillaumin",,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,1f921300-8fcd-11eb-924d-9cd76263cbd0,535879-1,wfo-0000769088,,
-bd4bd910-8fd1-11eb-924d-9cd76263cbd0,species,asclepiadea,Simonisia,,Nees,1847,"Fl. Bras. 9: 144, t. 145 1847",,,,,236601-2,wfo-0001249049,3776294,
-c26659fc-8fd1-11eb-924d-9cd76263cbd0,species,riedeliana,Simonisia,,Nees,1847,"Fl. Bras. 9: 144, t. 145 1847",,,,,285039-2,wfo-0001258617,3776277,
-61b7fb42-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Simonisia,,Nees,1847,"Fl. Bras. 9: 144 1847",,,,,1009786-2,wfo-0000433487,7263923,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6609fc-8fd1-11eb-924d-9cd76263cbd0,genus,Simodon,,,"(Lindb.) Lindb.",,1889,,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 23(5): 66. 1889.",,,,,,,wfo-4000035405,9600621,,
+fc705caa-8fcd-11eb-924d-9cd76263cbd0,species,incurva,Simodon,,"(Lindb.) Lindb.",,,,,,,,faf4767c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209125,7561243,,
+24c46f80-8fcd-11eb-924d-9cd76263cbd0,species,simoniana,,,"(Deleuil) Guillaumin",,,,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,1f921300-8fcd-11eb-924d-9cd76263cbd0,,535879-1,wfo-0000769088,,,
+24ac6d7c-8fcd-11eb-924d-9cd76263cbd0,species,simoniana,,,"(Deleuil) Guillaumin",,1931,,"Bull. Mus. Natl. Hist. Nat. II, 3: 340 1931",,,,1f921300-8fcd-11eb-924d-9cd76263cbd0,,535730-1,wfo-0000768918,,,

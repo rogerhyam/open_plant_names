@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e03661b6-8fd1-11eb-924d-9cd76263cbd0,genus,Bestia,,,Broth.,1906,"Nat. Pflanzenfam. 226[I,3]: 858–859, f. 631. 1906.",,,,,,wfo-4000004538,2678407,
-e2372bde-8fcd-11eb-924d-9cd76263cbd0,species,breweriana,Bestia,,"(Lesq.) Grout",1928,"Moss Fl. N. Amer. 3: 10 1928",,,,,,wfo-0001154594,4279632,
-e23745ec-8fcd-11eb-924d-9cd76263cbd0,species,cristata,Bestia,,"(Hampe) L.F.Koch",1950,"Leafl. W. Bot. 6: 25 1950",,,,,,wfo-0001154595,4279628,
-e237623e-8fcd-11eb-924d-9cd76263cbd0,species,holzingeri,Bestia,,"(Renauld & Cardot) Broth.",1906,"Nat. Pflanzenfam. I(3): 858 1906",,,,,,wfo-0001154596,4279433,
-e2377c9c-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Bestia,,"(Sull. & Lesq.) Broth.",1906,"Nat. Pflanzenfam. I(3): 859 1906",,,,df1d2e80-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001154597,2678408,
-e2379920-8fcd-11eb-924d-9cd76263cbd0,species,obtusatula,Bestia,,"(Kindb.) Broth.",1906,"Nat. Pflanzenfam. I(3): 858 1906",,,,,,wfo-0001154598,7984133,
-e237b5ea-8fcd-11eb-924d-9cd76263cbd0,species,occidentalis,Bestia,,"(Kindb.) Grout",1934,"Moss Fl. N. Amer. 3: 264 1934",,,,e9dc21e6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001154599,4279432,
-efa5e404-8fcd-11eb-924d-9cd76263cbd0,species,vancouveriensis,Bestia,,"(Kindb.) Wijk & Margad.",1961,"Taxon 10: 24 1961",,,,e0a3bbde-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001182847,4279431,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e03661b6-8fd1-11eb-924d-9cd76263cbd0,genus,Bestia,,,Broth.,,1906,,"Nat. Pflanzenfam. 226[I,3]: 858–859, f. 631. 1906.",,,,,,,wfo-4000004538,2678407,,
+e2372bde-8fcd-11eb-924d-9cd76263cbd0,species,breweriana,Bestia,,"(Lesq.) Grout",,1928,,"Moss Fl. N. Amer. 3: 10 1928",,,,,,,wfo-0001154594,4279632,,
+e23745ec-8fcd-11eb-924d-9cd76263cbd0,species,cristata,Bestia,,"(Hampe) L.F.Koch",,1950,,"Leafl. W. Bot. 6: 25 1950",,,,,,,wfo-0001154595,4279628,,
+e237623e-8fcd-11eb-924d-9cd76263cbd0,species,holzingeri,Bestia,,"(Renauld & Cardot) Broth.",,1906,,"Nat. Pflanzenfam. I(3): 858 1906",,,,,,,wfo-0001154596,4279433,,
+e2377c9c-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Bestia,,"(Sull. & Lesq.) Broth.",,1906,,"Nat. Pflanzenfam. I(3): 859 1906",,,,df1d2e80-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001154597,2678408,,
+e2379920-8fcd-11eb-924d-9cd76263cbd0,species,obtusatula,Bestia,,"(Kindb.) Broth.",,1906,,"Nat. Pflanzenfam. I(3): 858 1906",,,,,,,wfo-0001154598,7984133,,
+e237b5ea-8fcd-11eb-924d-9cd76263cbd0,species,occidentalis,Bestia,,"(Kindb.) Grout",,1934,,"Moss Fl. N. Amer. 3: 264 1934",,,,e9dc21e6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001154599,4279432,,
+efa5e404-8fcd-11eb-924d-9cd76263cbd0,species,vancouveriensis,Bestia,,"(Kindb.) Wijk & Margad.",,1961,,"Taxon 10: 24 1961",,,,e0a3bbde-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001182847,4279431,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebe1a73c-8fd1-11eb-924d-9cd76263cbd0,genus,Velarum,,,Rchb.,,"Handb.ed. 2 2: 1103, 1165. 1828.",,,,,,wfo-4000040089,7292358,
-580b6ca0-8fcc-11eb-924d-9cd76263cbd0,species,cavanillesianum,Velarum,,"(Castrov. & Valdés Berm.) V.I.Dorof.",2001,"Novosti Sist. Vyssh. Rast. 33: 129 2001",,,,61091762-8fcc-11eb-924d-9cd76263cbd0,20000329-1,wfo-0000421066,3046750,
-ad81103a-8fcd-11eb-924d-9cd76263cbd0,species,erysimoides,Velarum,,"(Desf.) V.I.Dorof.",2001,"Novosti Sist. Vyssh. Rast. 33: 129. 2001",,,,61086682-8fcc-11eb-924d-9cd76263cbd0,20000328-1,wfo-0001038026,3046767,
-58057020-8fcc-11eb-924d-9cd76263cbd0,species,leiocarpum,Velarum,,"(DC.) Tzvelev",2000,"Opred. Sosud. Rast. Severo-Zap. Rossii 679 2000",,,,,1019260-1,wfo-0000421040,3689766,
-58290eea-8fcc-11eb-924d-9cd76263cbd0,species,officinale,Velarum,,"(L.) Rchb.",,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,290986-1,wfo-0000421210,3046897,
-582952ce-8fcc-11eb-924d-9cd76263cbd0,species,polyceratum,Velarum,,"(L.) Rchb.",,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,290987-1,wfo-0000421212,3689752,
-58297326-8fcc-11eb-924d-9cd76263cbd0,species,supinum,Velarum,,"(L.) Rchb.",,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,290988-1,wfo-0000421213,3689745,
-ad80f406-8fcd-11eb-924d-9cd76263cbd0,species,vilaenadalis,Velarum,,V.I.Dorof.,2001,"Novosti Sist. Vyssh. Rast. 33: 128. 2001",,,,,20000327-1,wfo-0001038025,3046771,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebe1a73c-8fd1-11eb-924d-9cd76263cbd0,genus,Velarum,,,Rchb.,,,,"Handb.ed. 2 2: 1103, 1165. 1828.",,,,,,,wfo-4000040089,7292358,,
+580b6ca0-8fcc-11eb-924d-9cd76263cbd0,species,cavanillesianum,Velarum,,"(Castrov. & Valdés Berm.) V.I.Dorof.",,2001,,"Novosti Sist. Vyssh. Rast. 33: 129 2001",,,,61091762-8fcc-11eb-924d-9cd76263cbd0,,20000329-1,wfo-0000421066,3046750,,
+ad81103a-8fcd-11eb-924d-9cd76263cbd0,species,erysimoides,Velarum,,"(Desf.) V.I.Dorof.",,2001,,"Novosti Sist. Vyssh. Rast. 33: 129. 2001",,,,61086682-8fcc-11eb-924d-9cd76263cbd0,,20000328-1,wfo-0001038026,3046767,,
+58057020-8fcc-11eb-924d-9cd76263cbd0,species,leiocarpum,Velarum,,"(DC.) Tzvelev",,2000,,"Opred. Sosud. Rast. Severo-Zap. Rossii 679 2000",,,,,,1019260-1,wfo-0000421040,3689766,,
+58290eea-8fcc-11eb-924d-9cd76263cbd0,species,officinale,Velarum,,"(L.) Rchb.",,,,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,,290986-1,wfo-0000421210,3046897,,
+582952ce-8fcc-11eb-924d-9cd76263cbd0,species,polyceratum,Velarum,,"(L.) Rchb.",,,,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,,290987-1,wfo-0000421212,3689752,,
+58297326-8fcc-11eb-924d-9cd76263cbd0,species,supinum,Velarum,,"(L.) Rchb.",,,,"Handb. Gewächsk. ed. 2 2: 1165 1828",,,,,,290988-1,wfo-0000421213,3689745,,
+ad80f406-8fcd-11eb-924d-9cd76263cbd0,species,vilaenadalis,Velarum,,V.I.Dorof.,,2001,,"Novosti Sist. Vyssh. Rast. 33: 128. 2001",,,,,,20000327-1,wfo-0001038025,3046771,,

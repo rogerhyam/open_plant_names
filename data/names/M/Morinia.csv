@@ -1,10 +1,12 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e9a5fe-8fd1-11eb-924d-9cd76263cbd0,genus,Morinia,,,,,,,,,,,wfo-4000024853,3229910,
-e93d95a8-8fcd-11eb-924d-9cd76263cbd0,species,crassicuspis,Morinia,,"(H.Rob.) R.H.Zander",1978,"Bryologist 81: 557 1978",,,,f13984f6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001169676,7456615,
-f207d7ca-8fcd-11eb-924d-9cd76263cbd0,species,ecuadorensis,Morinia,,E.B.Bartram,1955,"Bull. Brit. Mus. (Nat. Hist.), Bot. 2: 55 1955",,,,,,wfo-0001187890,7964621,
-f207f6b0-8fcd-11eb-924d-9cd76263cbd0,species,ehrenbergiana,Morinia,,"(Müll.Hal.) Thér.",1931,"Smithsonian Misc. Collect. 85(4): 22 1931",,,,e1584c2a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001187891,8281764,
-f123b126-8fcd-11eb-924d-9cd76263cbd0,species,saitoana,Morinia,,"R.H.Zander, Delgad. & Eckel",1980,"Bryologist 83: 510. f. 1–17 1980",,,,,,wfo-0001186073,7533356,
-f20813d4-8fcd-11eb-924d-9cd76263cbd0,species,setschwanica,Morinia,,"(Broth.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 528 1925",,,,,,wfo-0001187892,8049922,
-e1d91f8a-8fcd-11eb-924d-9cd76263cbd0,species,stenotheca,Morinia,,"(Thér.) R.H.Zander",1983,"Bryologist 86: 156 1983",,,,e195a2fa-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001153767,7959505,
-f208312a-8fcd-11eb-924d-9cd76263cbd0,species,trichostomoides,Morinia,,"(Besch.) Cardot",1910,"Rev. Bryol. 37: 124 1910",,,,e1a15e92-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001187893,7733663,
-6e29ddea-8fcd-11eb-924d-9cd76263cbd0,species,morioides,,,"(Brand) Stace",2009,"Watsonia 27: 247 2009",,,,eccc0c38-8fcb-11eb-924d-9cd76263cbd0,77096286-1,wfo-0000911408,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e9a5fe-8fd1-11eb-924d-9cd76263cbd0,genus,Morinia,,,"Berl. & Bres.",,1887,,"Annuario Soc. Alpinisti Trident., 1887-88 82 (1889)",,,,e6e9a5fe-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000024853,3229910,8997," "
+e93d95a8-8fcd-11eb-924d-9cd76263cbd0,species,crassicuspis,Morinia,,"(H.Rob.) R.H.Zander",,1978,,"Bryologist 81: 557 1978",,,,f13984f6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169676,7456615,,
+f207d7ca-8fcd-11eb-924d-9cd76263cbd0,species,ecuadorensis,Morinia,,E.B.Bartram,,1955,,"Bull. Brit. Mus. (Nat. Hist.), Bot. 2: 55 1955",,,,,,,wfo-0001187890,7964621,,
+f207f6b0-8fcd-11eb-924d-9cd76263cbd0,species,ehrenbergiana,Morinia,,"(Müll.Hal.) Thér.",,1931,,"Smithsonian Misc. Collect. 85(4): 22 1931",,,,e1584c2a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001187891,8281764,,
+1b1ebb58-9bac-11eb-a8a2-19ed5c03f8d3,species,longiappendiculata,Morinia,,"Collado & Platas",,2006,,"in Collado, Platas, Bills, Basilio, Vicente, Tormo, Hernández, Díez & Peláez, Mycologia 98(4): 620 (2006)",,,,1b1ebb58-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522511," "
+7942fdca-9bac-11eb-a8a2-19ed5c03f8d3,species,pestalozzioides,Morinia,,"Berl. & Bres.",,1887,,"Annuario Soc. Alpinisti Trident., 1887-88 (1889)",,,,7942fdca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165450," "
+f123b126-8fcd-11eb-924d-9cd76263cbd0,species,saitoana,Morinia,,"R.H.Zander, Delgad. & Eckel",,1980,,"Bryologist 83: 510. f. 1–17 1980",,,,,,,wfo-0001186073,7533356,,
+f20813d4-8fcd-11eb-924d-9cd76263cbd0,species,setschwanica,Morinia,,"(Broth.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 528 1925",,,,,,,wfo-0001187892,8049922,,
+e1d91f8a-8fcd-11eb-924d-9cd76263cbd0,species,stenotheca,Morinia,,"(Thér.) R.H.Zander",,1983,,"Bryologist 86: 156 1983",,,,e195a2fa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001153767,7959505,,
+f208312a-8fcd-11eb-924d-9cd76263cbd0,species,trichostomoides,Morinia,,"(Besch.) Cardot",,1910,,"Rev. Bryol. 37: 124 1910",,,,e1a15e92-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001187893,7733663,,
+6e29ddea-8fcd-11eb-924d-9cd76263cbd0,species,morioides,,,"(Brand) Stace",,2009,,"Watsonia 27: 247 2009",,,,eccc0c38-8fcb-11eb-924d-9cd76263cbd0,,77096286-1,wfo-0000911408,,,

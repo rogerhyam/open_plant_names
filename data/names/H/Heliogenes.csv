@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e48a7d06-8fd1-11eb-924d-9cd76263cbd0,genus,Heliogenes,,,,,,,,,,,wfo-4000017254,7338279,
-61afb1d2-8fbb-11eb-924d-9cd76263cbd0,species,longifolia,Heliogenes,,Benth.,1840,"Pl. Hartw. 42 (1840).",,,,,213507-1,wfo-0000133807,4243623,
-48297b6a-8fb3-11eb-924d-9cd76263cbd0,species,reglae,Heliogenes,,Benth.,1840,"Pl. Hartw. 42 (1840).",,,,,213508-1,wfo-0000045321,4243617,
-103c3b8e-8fb3-11eb-924d-9cd76263cbd0,species,ternifolius,Heliogenes,,"Sessé & Moc.",,,,,,,,wfo-0000040767,7643200,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e48a7d06-8fd1-11eb-924d-9cd76263cbd0,genus,Heliogenes,,,,,,,,,,,,,,wfo-4000017254,7338279,,
+61afb1d2-8fbb-11eb-924d-9cd76263cbd0,species,longifolia,Heliogenes,,Benth.,,1840,,"Pl. Hartw. 42 (1840).",,,,,,213507-1,wfo-0000133807,4243623,,
+48297b6a-8fb3-11eb-924d-9cd76263cbd0,species,reglae,Heliogenes,,Benth.,,1840,,"Pl. Hartw. 42 (1840).",,,,,,213508-1,wfo-0000045321,4243617,,
+103c3b8e-8fb3-11eb-924d-9cd76263cbd0,species,ternifolius,Heliogenes,,"Sessé & Moc.",,,,,,,,,,,wfo-0000040767,7643200,,

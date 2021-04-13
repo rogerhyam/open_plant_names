@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d44f3c-8fd1-11eb-924d-9cd76263cbd0,genus,Pachites,,,Lindl.,1835,"Gen. Sp. Orchid. Pl. 301. 1835.",,,,,30222-1,wfo-4000027636,2847984,
-ee570828-8fcb-11eb-924d-9cd76263cbd0,species,appressus,Pachites,,Lindl.,1835,"Gen. Sp. Orchid. Pl. 301 1835",,,,,649570-1,wfo-0000261927,6315021,
-ee5725a6-8fcb-11eb-924d-9cd76263cbd0,species,bodkinii,Pachites,,Bolus,1892,"Icon. Orchid. Austro-Afric. 1(1): t. 26 1892",,,,,649571-1,wfo-0000261928,5324753,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d44f3c-8fd1-11eb-924d-9cd76263cbd0,genus,Pachites,,,Lindl.,,1835,,"Gen. Sp. Orchid. Pl. 301. 1835.",,,,,,30222-1,wfo-4000027636,2847984,,
+ee570828-8fcb-11eb-924d-9cd76263cbd0,species,appressus,Pachites,,Lindl.,,1835,,"Gen. Sp. Orchid. Pl. 301 1835",,,,,,649570-1,wfo-0000261927,6315021,,
+ee5725a6-8fcb-11eb-924d-9cd76263cbd0,species,bodkinii,Pachites,,Bolus,,1892,,"Icon. Orchid. Austro-Afric. 1(1): t. 26 1892",,,,,,649571-1,wfo-0000261928,5324753,,

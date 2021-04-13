@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8709b12-8fd1-11eb-924d-9cd76263cbd0,genus,Phylloctenium,,,Baill.,1887,"Bull. Mens. Soc. Linn. Paris 1: 692. 1887.",,,,,4206-1,wfo-4000029428,7298351,
-2962fa20-8fcd-11eb-924d-9cd76263cbd0,species,bernieri,Phylloctenium,,Baill.,1887,"Bull. Mens. Soc. Linn. Paris 1: 692 1887",,,,,,wfo-0000779209,4091452,
-6c8f8552-8fcd-11eb-924d-9cd76263cbd0,form,boivinii,Phylloctenium,bernieri,"(Baill.) H.Perrier",1938,"Ann. Mus. Colon. Marseille V, 6: 54 1938",,,,,,wfo-0000909144,7760519,
-dea1b92c-8fd1-11eb-924d-9cd76263cbd0,variety,calcicolum,Phylloctenium,bernieri,"H. Perrier",1938,"Annales de l'Institut Botanico-Géologique Colonial de Marseille 55. 1938. (Ann. Inst. Bot.-Géol. Colon. Marseille)",,,,,,wfo-0001315846,7480214,
-6c8fac9e-8fcd-11eb-924d-9cd76263cbd0,form,grevei,Phylloctenium,bernieri,"(Baill.) H.Perrier",1938,"Ann. Mus. Colon. Marseille V, 6: 54 1938",,,,,,wfo-0000909145,7737545,
-2962dda6-8fcd-11eb-924d-9cd76263cbd0,species,decaryanum,Phylloctenium,,H.Perrier,1938,"Ann. Mus. Colon. Marseille V, 6(1): 55 1938",,,,,110359-1,wfo-0000779208,4091442,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8709b12-8fd1-11eb-924d-9cd76263cbd0,genus,Phylloctenium,,,Baill.,,1887,,"Bull. Mens. Soc. Linn. Paris 1: 692. 1887.",,,,,,4206-1,wfo-4000029428,7298351,,
+2962fa20-8fcd-11eb-924d-9cd76263cbd0,species,bernieri,Phylloctenium,,Baill.,,1887,,"Bull. Mens. Soc. Linn. Paris 1: 692 1887",,,,,,,wfo-0000779209,4091452,,
+6c8f8552-8fcd-11eb-924d-9cd76263cbd0,form,boivinii,Phylloctenium,bernieri,"(Baill.) H.Perrier",,1938,,"Ann. Mus. Colon. Marseille V, 6: 54 1938",,,,,,,wfo-0000909144,7760519,,
+dea1b92c-8fd1-11eb-924d-9cd76263cbd0,variety,calcicolum,Phylloctenium,bernieri,"H. Perrier",,1938,,"Annales de l'Institut Botanico-Géologique Colonial de Marseille 55. 1938. (Ann. Inst. Bot.-Géol. Colon. Marseille)",,,,,,,wfo-0001315846,7480214,,
+6c8fac9e-8fcd-11eb-924d-9cd76263cbd0,form,grevei,Phylloctenium,bernieri,"(Baill.) H.Perrier",,1938,,"Ann. Mus. Colon. Marseille V, 6: 54 1938",,,,,,,wfo-0000909145,7737545,,
+2962dda6-8fcd-11eb-924d-9cd76263cbd0,species,decaryanum,Phylloctenium,,H.Perrier,,1938,,"Ann. Mus. Colon. Marseille V, 6(1): 55 1938",,,,,,110359-1,wfo-0000779208,4091442,,

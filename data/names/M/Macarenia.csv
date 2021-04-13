@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6306756-8fd1-11eb-924d-9cd76263cbd0,genus,Macarenia,,,P.Royen,1951,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 1: 125–127, 147–138. 1951. (9 Jul 1951)",,,,,295622-2,wfo-4000022603,7296052,
-bea76a9a-8fd1-11eb-924d-9cd76263cbd0,species,clavigera,Macarenia,,P.Royen,1951,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 107: 126–127, 138, pl. 1, 15, f. 1–14 1951",,,,,148287-2,wfo-0001251533,4072673,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6306756-8fd1-11eb-924d-9cd76263cbd0,genus,Macarenia,,,P.Royen,,1951,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 1: 125–127, 147–138. 1951. (9 Jul 1951)",,Q100443214,,,,295622-2,wfo-4000022603,7296052,,
+bea76a9a-8fd1-11eb-924d-9cd76263cbd0,species,clavigera,Macarenia,,P.Royen,,1951,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 107: 126–127, 138, pl. 1, 15, f. 1–14 1951",,Q100443214,,,,148287-2,wfo-0001251533,4072673,,

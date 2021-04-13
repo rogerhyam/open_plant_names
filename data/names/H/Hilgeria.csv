@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4be3b14-8fd1-11eb-924d-9cd76263cbd0,genus,Hilgeria,,,Förther,,,,,,,,wfo-4000017912,7294636,
-aed3261c-8fcd-11eb-924d-9cd76263cbd0,species,hypogaea,Hilgeria,,"(Urb. & Ekman) Förther",,,,,,,,wfo-0001041062,4060268,
-0e246da2-8fcd-11eb-924d-9cd76263cbd0,species,pedicellaris,Hilgeria,,"(Urb. & Ekman) Förther",1998,"Sendtnera 5: 133 1998",,,,6f6a3676-8fca-11eb-924d-9cd76263cbd0,1002181-1,wfo-0000723335,4060263,
-0e24888c-8fcd-11eb-924d-9cd76263cbd0,species,serpylloides,Hilgeria,,"(Griseb.) Förther",1998,"Sendtnera 5: 133 1998",,,,,1002182-1,wfo-0000723336,4060252,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4be3b14-8fd1-11eb-924d-9cd76263cbd0,genus,Hilgeria,,,Förther,,,,,,,,,,,wfo-4000017912,7294636,,
+aed3261c-8fcd-11eb-924d-9cd76263cbd0,species,hypogaea,Hilgeria,,"(Urb. & Ekman) Förther",,,,,,,,,,,wfo-0001041062,4060268,,
+0e246da2-8fcd-11eb-924d-9cd76263cbd0,species,pedicellaris,Hilgeria,,"(Urb. & Ekman) Förther",,1998,,"Sendtnera 5: 133 1998",,,,6f6a3676-8fca-11eb-924d-9cd76263cbd0,,1002181-1,wfo-0000723335,4060263,,
+0e24888c-8fcd-11eb-924d-9cd76263cbd0,species,serpylloides,Hilgeria,,"(Griseb.) Förther",,1998,,"Sendtnera 5: 133 1998",,,,,,1002182-1,wfo-0000723336,4060252,,

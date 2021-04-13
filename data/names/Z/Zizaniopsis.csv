@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec3b66a0-8fd1-11eb-924d-9cd76263cbd0,genus,Zizaniopsis,,,"Döll & Asch.",1871,"Fl. Bras. 2(2): 12. 1871.",,,,,325385-2,wfo-4000041240,2703486,
-6ba4fdf2-8fcd-11eb-924d-9cd76263cbd0,species,bonariensis,Zizaniopsis,,"(Balansa & Poitr.) Speg.",1902,"Anales Mus. Nac. Buenos Aires 7: 183 1902",,,,6ba119f8-8fcd-11eb-924d-9cd76263cbd0,271184-2,wfo-0000908027,4138827,
-6ba518a0-8fcd-11eb-924d-9cd76263cbd0,species,killipii,Zizaniopsis,,Swallen,1948,"Contr. U. S. Natl. Herb. 29: 273 1948",,,,,271185-2,wfo-0000908028,4138806,
-6ba53628-8fcd-11eb-924d-9cd76263cbd0,species,microstachya,Zizaniopsis,,"(Nees) Döll & Asch.",1871,"Fl. Bras. 2(1): 12 1871",,,,,426982-1,wfo-0000908029,4138798,
-6ba55342-8fcd-11eb-924d-9cd76263cbd0,species,miliacea,Zizaniopsis,,"(Michx.) Döll & Asch.",1871,"Fl. Bras. 2(2): 13 1871",,,,6ba34688-8fcd-11eb-924d-9cd76263cbd0,1030293-2,wfo-0000908030,2703487,
-6ba56e86-8fcd-11eb-924d-9cd76263cbd0,species,villanensis,Zizaniopsis,,Quarín,1976,"Hickenia 1: 40 1976",,,,,271186-2,wfo-0000908031,4138766,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec3b66a0-8fd1-11eb-924d-9cd76263cbd0,genus,Zizaniopsis,,,"Döll & Asch.",,1871,,"Fl. Bras. 2(2): 12. 1871.",,,,,,325385-2,wfo-4000041240,2703486,,
+6ba4fdf2-8fcd-11eb-924d-9cd76263cbd0,species,bonariensis,Zizaniopsis,,"(Balansa & Poitr.) Speg.",,1902,,"Anales Mus. Nac. Buenos Aires 7: 183 1902",,,,6ba119f8-8fcd-11eb-924d-9cd76263cbd0,,271184-2,wfo-0000908027,4138827,,
+6ba518a0-8fcd-11eb-924d-9cd76263cbd0,species,killipii,Zizaniopsis,,Swallen,,1948,,"Contr. U. S. Natl. Herb. 29: 273 1948",,Q95377644,,,,271185-2,wfo-0000908028,4138806,,
+6ba53628-8fcd-11eb-924d-9cd76263cbd0,species,microstachya,Zizaniopsis,,"(Nees) Döll & Asch.",,1871,,"Fl. Bras. 2(1): 12 1871",,,,,,426982-1,wfo-0000908029,4138798,,
+6ba55342-8fcd-11eb-924d-9cd76263cbd0,species,miliacea,Zizaniopsis,,"(Michx.) Döll & Asch.",,1871,,"Fl. Bras. 2(2): 13 1871",,,,6ba34688-8fcd-11eb-924d-9cd76263cbd0,,1030293-2,wfo-0000908030,2703487,,
+6ba56e86-8fcd-11eb-924d-9cd76263cbd0,species,villanensis,Zizaniopsis,,Quarín,,1976,,"Hickenia 1: 40 1976",,,,,,271186-2,wfo-0000908031,4138766,,

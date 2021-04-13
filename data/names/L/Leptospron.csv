@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5d15fae-8fd1-11eb-924d-9cd76263cbd0,genus,Leptospron,,,"(Benth. & Hook.f.) A.Delgado",,,,,,,60457244-2,wfo-4000021355,7942633,
-af88c76a-8fcd-11eb-924d-9cd76263cbd0,species,adenanthum,Leptospron,,"(G.Mey.) A.Delgado",,"Amer. J. Bot. 98(10): 1710 2011",,,,,60457245-2,wfo-0001042683,7989033,
-af88e3ee-8fcd-11eb-924d-9cd76263cbd0,species,gentryi,Leptospron,,"(Standl.) A.Delgado",,"Amer. J. Bot. 98(10): 1710 2011",,,,,60457246-2,wfo-0001042684,8405041,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5d15fae-8fd1-11eb-924d-9cd76263cbd0,genus,Leptospron,,,"(Benth. & Hook.f.) A.Delgado",,,,,,Q34042540,,,,60457244-2,wfo-4000021355,7942633,,
+af88c76a-8fcd-11eb-924d-9cd76263cbd0,species,adenanthum,Leptospron,,"(G.Mey.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1710 2011",,Q34042540,,,,60457245-2,wfo-0001042683,7989033,,
+af88e3ee-8fcd-11eb-924d-9cd76263cbd0,species,gentryi,Leptospron,,"(Standl.) A.Delgado",,,,"Amer. J. Bot. 98(10): 1710 2011",,Q34042540,,,,60457246-2,wfo-0001042684,8405041,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5ef85ec-8fd1-11eb-924d-9cd76263cbd0,genus,Limnophyton,,,Miq.,1856,"Fl. Ned. Ind. 3: 242. 1856.",,,,,1091-1,wfo-4000021790,2865244,
-f71da0d8-8fcc-11eb-924d-9cd76263cbd0,species,angolense,Limnophyton,,Buchenau,1903,"Pflanzenr. IV, 15: 23 1903",,,,,,wfo-0000683201,2865245,
-f9dca6fc-8fcc-11eb-924d-9cd76263cbd0,species,australiense,Limnophyton,,Aston,1987,"Muelleria 6: 311 1987",,,,,931946-1,wfo-0000688055,2864773,
-f71b666a-8fcc-11eb-924d-9cd76263cbd0,species,fluitans,Limnophyton,,Graebn.,1908,"Bot. Jahrb. Syst. 41: 274 1908",,,,,58414-1,wfo-0000683190,2865246,
-f7199bb4-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolium,Limnophyton,,"(L.) Miq.",1856,"Fl. Ned. Ind. 3: 243 1856",,,,,58415-1,wfo-0000683177,2865247,
-f71860a0-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Limnophyton,,Peter,1929,"Fl. Deutsch-Ostafr. 119 1929",,,,,,wfo-0000683166,2865248,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5ef85ec-8fd1-11eb-924d-9cd76263cbd0,genus,Limnophyton,,,Miq.,,1856,,"Fl. Ned. Ind. 3: 242. 1856.",,,,,,1091-1,wfo-4000021790,2865244,,
+f71da0d8-8fcc-11eb-924d-9cd76263cbd0,species,angolense,Limnophyton,,Buchenau,,1903,,"Pflanzenr. IV, 15: 23 1903",,,,,,,wfo-0000683201,2865245,,
+f9dca6fc-8fcc-11eb-924d-9cd76263cbd0,species,australiense,Limnophyton,,Aston,,1987,,"Muelleria 6: 311 1987",,,,,,931946-1,wfo-0000688055,2864773,,
+f71b666a-8fcc-11eb-924d-9cd76263cbd0,species,fluitans,Limnophyton,,Graebn.,,1908,,"Bot. Jahrb. Syst. 41: 274 1908",,,,,,58414-1,wfo-0000683190,2865246,,
+f7199bb4-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolium,Limnophyton,,"(L.) Miq.",,1856,,"Fl. Ned. Ind. 3: 243 1856",,,,,,58415-1,wfo-0000683177,2865247,,
+f71860a0-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Limnophyton,,Peter,,1929,,"Fl. Deutsch-Ostafr. 119 1929",,,,,,,wfo-0000683166,2865248,,

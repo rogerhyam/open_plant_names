@@ -1,11 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea34f204-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphanthus,,,D.Don,1828,"Brit. Fl. Gard. , t. 238. 1828.",,,,,30121439-2,wfo-4000034864,7289804,
-8b26faf0-8fcc-11eb-924d-9cd76263cbd0,species,cumingii,Scyphanthus,,F.Phil.,1881,"Cat. Pl. Vasc. Chil. 84 1881",,,,,545555-1,wfo-0000503146,4021652,
-8b2622ce-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Scyphanthus,,D.Don,1828,"Brit. Fl. Gard. 3: t. 238 1828",,,,,,wfo-0000503140,4021648,
-8b26a69a-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Scyphanthus,,"Sweet ex Steud.",1841,"Nomencl. Bot. ed. 2, 2: 569 1841",,,,,545557-1,wfo-0000503144,4021647,
-8b286bc4-8fcc-11eb-924d-9cd76263cbd0,species,stenocarpus,Scyphanthus,,"(Poepp.) Urb. & Gilg",1894,"Nat. Pflanzenfam. 3(6a): 118 1894",,,,,231237-2,wfo-0000503148,4021633,
-d750d7c4-8fcd-11eb-924d-9cd76263cbd0,species,guayaquilensis,Scypharia,,"(Kunth) Miers",1860,"Ann. Mag. Nat. Hist. 6: 9 1860",,,,,718884-1,wfo-0001131324,5602809,
-8bb91c96-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Scypharia,,Miers,1860,"Ann. Mag. Nat. Hist. III, 6: 10 1860",,,,,718885-1,wfo-0000504132,5602808,
-d728f0d8-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Scypharia,,"(Hook.f.) Miers",1860,"Ann. Mag. Nat. Hist. 6: 10 1860",,,,,,wfo-0001130966,5602807,
-d7296036-8fcd-11eb-924d-9cd76263cbd0,species,senticosa,Scypharia,,Miers,1860,"Ann. Mag. Nat. Hist. 6: 11 1860",,,,,718886-1,wfo-0001130970,5602805,
-d727fdd6-8fcd-11eb-924d-9cd76263cbd0,species,tetragona,Scypharia,,Miers,1851,"Contrib. 1: 302 1851",,,,,,wfo-0001130957,5602804,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea34f204-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphanthus,,,D.Don,,1828,,"Brit. Fl. Gard. , t. 238. 1828.",,,,,,30121439-2,wfo-4000034864,7289804,,
+8b26faf0-8fcc-11eb-924d-9cd76263cbd0,species,cumingii,Scyphanthus,,F.Phil.,,1881,,"Cat. Pl. Vasc. Chil. 84 1881",,,,,,545555-1,wfo-0000503146,4021652,,
+8b2622ce-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Scyphanthus,,D.Don,,1828,,"Brit. Fl. Gard. 3: t. 238 1828",,,,,,,wfo-0000503140,4021648,,
+8b26a69a-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Scyphanthus,,"Sweet ex Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 569 1841",,,,,,545557-1,wfo-0000503144,4021647,,
+8b286bc4-8fcc-11eb-924d-9cd76263cbd0,species,stenocarpus,Scyphanthus,,"(Poepp.) Urb. & Gilg",,1894,,"Nat. Pflanzenfam. 3(6a): 118 1894",,,,,,231237-2,wfo-0000503148,4021633,,

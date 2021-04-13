@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9199bf4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobrickellia,,,"R.M.King & H.Rob.",,,,,,,290925-2,wfo-4000031421,3150235,
-cbc41224-8fb2-11eb-924d-9cd76263cbd0,species,angustissima,Pseudobrickellia,,"(Spreng. ex Baker) R.M.King & H.Rob.",1972,"75 1972",,,,,211247-2,wfo-0000034701,3150237,
-37fdb5c4-8fb5-11eb-924d-9cd76263cbd0,species,brasiliensis,Pseudobrickellia,,"(Spreng.) R.M.King & H.Rob.",1972,"75 1972",,,,,211248-2,wfo-0000075369,3150239,
-47829430-8fb3-11eb-924d-9cd76263cbd0,species,irwinii,Pseudobrickellia,,"R.M.King & H.Rob.",1972,"75 1972",,,,,211249-2,wfo-0000045271,3150236,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9199bf4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobrickellia,,,"R.M.King & H.Rob.",,,,,,,,,,290925-2,wfo-4000031421,3150235,,
+cbc41224-8fb2-11eb-924d-9cd76263cbd0,species,angustissima,Pseudobrickellia,,"(Spreng. ex Baker) R.M.King & H.Rob.",,1972,,"75 1972",,,,,,211247-2,wfo-0000034701,3150237,,
+37fdb5c4-8fb5-11eb-924d-9cd76263cbd0,species,brasiliensis,Pseudobrickellia,,"(Spreng.) R.M.King & H.Rob.",,1972,,"75 1972",,,,,,211248-2,wfo-0000075369,3150239,,
+47829430-8fb3-11eb-924d-9cd76263cbd0,species,irwinii,Pseudobrickellia,,"R.M.King & H.Rob.",,1972,,"75 1972",,,,,,211249-2,wfo-0000045271,3150236,,

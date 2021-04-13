@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea274604-8fd1-11eb-924d-9cd76263cbd0,genus,Scirpodendron,,,"Zipp. ex Kurz",1869,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38: 84. 1869.",,,,,14027-1,wfo-4000034692,5292114,
-9cf9d0d6-8fcc-11eb-924d-9cd76263cbd0,species,bogneri,Scirpodendron,,S.S.Hooper,1997,"Kew Bull. 52: 683 1997",,,,,997867-1,wfo-0000533424,5292115,
-acb50b8e-8fcd-11eb-924d-9cd76263cbd0,species,buecheri,Scirpodendron,,Engl.,1910,"Bot. Jahrb. Syst. 44(Beibl. 101): 34 1910",,,,,,wfo-0001036200,7679538,
-9cfaad6c-8fcc-11eb-924d-9cd76263cbd0,species,costatum,Scirpodendron,,"(Thwaites) Kurz",1869,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38(2): 85 1869",,,,69078692-8fcc-11eb-924d-9cd76263cbd0,313107-1,wfo-0000533432,5292118,
-9cfb9d94-8fcc-11eb-924d-9cd76263cbd0,species,ghaeri,Scirpodendron,,"(Gaertn.) Merr.",1914,"Philipp. J. Sci., C 9: 268 1914",,,,410d95a4-8fcd-11eb-924d-9cd76263cbd0,313108-1,wfo-0000533438,5292116,
-9cfbf3b6-8fcc-11eb-924d-9cd76263cbd0,species,pandaniforme,Scirpodendron,,"Zipp. ex Kurz",1869,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38(2): 85 1869",,,,,313109-1,wfo-0000533441,5292119,
-9cfccdcc-8fcc-11eb-924d-9cd76263cbd0,species,sulcatum,Scirpodendron,,Miq.,1870,"Ill. Fl. Archip. Ind. 65 1870",,,,,,wfo-0000533449,5292117,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea274604-8fd1-11eb-924d-9cd76263cbd0,genus,Scirpodendron,,,"Zipp. ex Kurz",,1869,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38: 84. 1869.",,,,,,14027-1,wfo-4000034692,5292114,,
+9cf9d0d6-8fcc-11eb-924d-9cd76263cbd0,species,bogneri,Scirpodendron,,S.S.Hooper,,1997,,"Kew Bull. 52: 683 1997",,Q55780043,,,,997867-1,wfo-0000533424,5292115,,
+acb50b8e-8fcd-11eb-924d-9cd76263cbd0,species,buecheri,Scirpodendron,,Engl.,,1910,,"Bot. Jahrb. Syst. 44(Beibl. 101): 34 1910",,,,,,,wfo-0001036200,7679538,,
+9cfaad6c-8fcc-11eb-924d-9cd76263cbd0,species,costatum,Scirpodendron,,"(Thwaites) Kurz",,1869,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38(2): 85 1869",,,,69078692-8fcc-11eb-924d-9cd76263cbd0,,313107-1,wfo-0000533432,5292118,,
+9cfb9d94-8fcc-11eb-924d-9cd76263cbd0,species,ghaeri,Scirpodendron,,"(Gaertn.) Merr.",,1914,,"Philipp. J. Sci., C 9: 268 1914",,,,410d95a4-8fcd-11eb-924d-9cd76263cbd0,,313108-1,wfo-0000533438,5292116,,
+9cfbf3b6-8fcc-11eb-924d-9cd76263cbd0,species,pandaniforme,Scirpodendron,,"Zipp. ex Kurz",,1869,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 38(2): 85 1869",,,,,,313109-1,wfo-0000533441,5292119,,
+9cfccdcc-8fcc-11eb-924d-9cd76263cbd0,species,sulcatum,Scirpodendron,,Miq.,,1870,,"Ill. Fl. Archip. Ind. 65 1870",,,,,,,wfo-0000533449,5292117,,

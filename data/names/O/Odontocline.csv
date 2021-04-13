@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e778dbc0-8fd1-11eb-924d-9cd76263cbd0,genus,Odontocline,,,B.Nord.,,,,,,,298548-2,wfo-4000026586,3150698,
-00d43198-8fb2-11eb-924d-9cd76263cbd0,species,dolichantha,Odontocline,,"(Krug & Urb.) B.Nord.",1978,"Opera Bot. 44: 25. 1978",,,,,172203-2,wfo-0000003431,3150699,
-7eb8a55e-8fbb-11eb-924d-9cd76263cbd0,species,fadyenii,Odontocline,,"(Griseb.) B.Nord.",1978,"Opera Bot. 44 25 1978",,,,5758ec3a-8fbb-11eb-924d-9cd76263cbd0,172204-2,wfo-0000134668,3150712,
-d164c7be-8fb7-11eb-924d-9cd76263cbd0,species,glabra,Odontocline,,"(Sw.) B.Nord.",1978,"Opera Bot. 44 25 1978",,,,,172205-2,wfo-0000103452,3150700,
-0f0b621a-8fba-11eb-924d-9cd76263cbd0,species,hollickii,Odontocline,,"(Britton ex Greenm.) B.Nord.",1978,"Opera Bot. 44 25 1978",,,,3e6efb16-8fb5-11eb-924d-9cd76263cbd0,172206-2,wfo-0000123634,3150704,
-080cbbe2-8fb2-11eb-924d-9cd76263cbd0,species,laciniata,Odontocline,,"(Sw.) B.Nord.",1978,"Opera Bot. 44: 25. 1978",,,,55a6f124-8fb2-11eb-924d-9cd76263cbd0,172207-2,wfo-0000006167,3150706,
-d4e37516-8fb2-11eb-924d-9cd76263cbd0,species,tercentenariae,Odontocline,,"(Proctor) B.Nord.",1978,"Opera Bot. 44 25 1978",,,,0e47549a-8fb2-11eb-924d-9cd76263cbd0,172208-2,wfo-0000035564,3150710,
-ad75d670-8fcd-11eb-924d-9cd76263cbd0,species,kurilensis,Odontocyclus,,Turcz.,1840,"Bull. Soc. Imp. Naturalistes Moscou 13: 65. 1840",,,,,287854-1,wfo-0001037924,3049786,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e778dbc0-8fd1-11eb-924d-9cd76263cbd0,genus,Odontocline,,,B.Nord.,,,,,,,,,,298548-2,wfo-4000026586,3150698,,
+00d43198-8fb2-11eb-924d-9cd76263cbd0,species,dolichantha,Odontocline,,"(Krug & Urb.) B.Nord.",,1978,,"Opera Bot. 44: 25. 1978",,,,,,172203-2,wfo-0000003431,3150699,,
+7eb8a55e-8fbb-11eb-924d-9cd76263cbd0,species,fadyenii,Odontocline,,"(Griseb.) B.Nord.",,1978,,"Opera Bot. 44 25 1978",,,,5758ec3a-8fbb-11eb-924d-9cd76263cbd0,,172204-2,wfo-0000134668,3150712,,
+d164c7be-8fb7-11eb-924d-9cd76263cbd0,species,glabra,Odontocline,,"(Sw.) B.Nord.",,1978,,"Opera Bot. 44 25 1978",,,,,,172205-2,wfo-0000103452,3150700,,
+0f0b621a-8fba-11eb-924d-9cd76263cbd0,species,hollickii,Odontocline,,"(Britton ex Greenm.) B.Nord.",,1978,,"Opera Bot. 44 25 1978",,,,3e6efb16-8fb5-11eb-924d-9cd76263cbd0,,172206-2,wfo-0000123634,3150704,,
+080cbbe2-8fb2-11eb-924d-9cd76263cbd0,species,laciniata,Odontocline,,"(Sw.) B.Nord.",,1978,,"Opera Bot. 44: 25. 1978",,,,55a6f124-8fb2-11eb-924d-9cd76263cbd0,,172207-2,wfo-0000006167,3150706,,
+d4e37516-8fb2-11eb-924d-9cd76263cbd0,species,tercentenariae,Odontocline,,"(Proctor) B.Nord.",,1978,,"Opera Bot. 44 25 1978",,,,0e47549a-8fb2-11eb-924d-9cd76263cbd0,,172208-2,wfo-0000035564,3150710,,
+ad75d670-8fcd-11eb-924d-9cd76263cbd0,species,kurilensis,Odontocyclus,,Turcz.,,1840,,"Bull. Soc. Imp. Naturalistes Moscou 13: 65. 1840",,,,,,287854-1,wfo-0001037924,3049786,,

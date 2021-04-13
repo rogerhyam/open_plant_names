@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9bd8f20-8fd1-11eb-924d-9cd76263cbd0,genus,Robynsia,,,Hutch.,1931,"Fl. W. Trop. Afr. 2: 68, 108. 1931.",,,,,331914-2,wfo-4000033355,2895099,
-13ae9252-8fcd-11eb-924d-9cd76263cbd0,species,geminiflora,Robynsia,,"(Lex.) Drapiez",1840,"Hort. Universel 2: 127 1840",,,,212c28c2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000733823,5304421,
-04a1c55a-8fcc-11eb-924d-9cd76263cbd0,species,glabrata,Robynsia,,Hutch.,1931,"Fl. W. Trop. Afr. 2: 108 1931",,,,,764709-1,wfo-0000297382,5335299,
-5a40c820-8fc3-11eb-924d-9cd76263cbd0,species,lobata,Robynsia,,"M.Martens & Galeotti",,,,,,,,wfo-0000182326,5359689,
-59a7b432-8fc3-11eb-924d-9cd76263cbd0,species,macrophylla,Robynsia,,"M.Martens & Galeotti",,,,,,,,wfo-0000182313,5359688,
-49e92950-8fcc-11eb-924d-9cd76263cbd0,species,fastigiata,Robynsiella,,Suess.,1938,"Bull. Jard. Bot. État 15: 70 1938",,,,,61369-1,wfo-0000402814,3674822,
-6023eef2-8fcd-11eb-924d-9cd76263cbd0,species,goalparensis,Robynsiochloa,,"(Bor) Clayton",1981,"Kew Bull. 35: 817 1981",,,,6071bda8-8fcd-11eb-924d-9cd76263cbd0,909651-1,wfo-0000895896,4141942,
-60240d92-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Robynsiochloa,,"(Robyns) Jacq.-Fél.",1960,"J. Agric. Trop. Bot. Appl. 7: 406 1960",,,,607e4028-8fcd-11eb-924d-9cd76263cbd0,419467-1,wfo-0000895897,4141934,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9bd8f20-8fd1-11eb-924d-9cd76263cbd0,genus,Robynsia,,,Hutch.,,1931,,"Fl. W. Trop. Afr. 2: 68, 108. 1931.",,,,,,331914-2,wfo-4000033355,2895099,,
+13ae9252-8fcd-11eb-924d-9cd76263cbd0,species,geminiflora,Robynsia,,"(Lex.) Drapiez",,1840,,"Hort. Universel 2: 127 1840",,,,212c28c2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000733823,5304421,,
+04a1c55a-8fcc-11eb-924d-9cd76263cbd0,species,glabrata,Robynsia,,Hutch.,,1931,,"Fl. W. Trop. Afr. 2: 108 1931",,,,,,764709-1,wfo-0000297382,5335299,,
+5a40c820-8fc3-11eb-924d-9cd76263cbd0,species,lobata,Robynsia,,"M.Martens & Galeotti",,,,,,,,,,,wfo-0000182326,5359689,,
+59a7b432-8fc3-11eb-924d-9cd76263cbd0,species,macrophylla,Robynsia,,"M.Martens & Galeotti",,,,,,,,,,,wfo-0000182313,5359688,,
+49e92950-8fcc-11eb-924d-9cd76263cbd0,species,fastigiata,Robynsiella,,Suess.,,1938,,"Bull. Jard. Bot. État 15: 70 1938",,Q55775626,,,,61369-1,wfo-0000402814,3674822,,
+6023eef2-8fcd-11eb-924d-9cd76263cbd0,species,goalparensis,Robynsiochloa,,"(Bor) Clayton",,1981,,"Kew Bull. 35: 817 1981",,Q43227856,,6071bda8-8fcd-11eb-924d-9cd76263cbd0,,909651-1,wfo-0000895896,4141942,,
+60240d92-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Robynsiochloa,,"(Robyns) Jacq.-Fél.",,1960,,"J. Agric. Trop. Bot. Appl. 7: 406 1960",,Q92193783,,607e4028-8fcd-11eb-924d-9cd76263cbd0,,419467-1,wfo-0000895897,4141934,,

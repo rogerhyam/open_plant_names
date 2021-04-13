@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e805169e-8fd1-11eb-924d-9cd76263cbd0,genus,Parentucellia,,,Viv.,1824,"Fl. Libyc. Spec. 31–32, pl. 21, f. 2. 1824.",,,,,37888-1,wfo-4000028194,3171817,
-780a9792-8fcc-11eb-924d-9cd76263cbd0,species,flaviflora,Parentucellia,,"(Boiss.) Nevski",1937,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 321 1937",,,,f60e8dba-8fcc-11eb-924d-9cd76263cbd0,806701-1,wfo-0000470653,3727177,
-78096ca0-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Parentucellia,,Viv.,1824,"Fl. Libyc. Spec. 31 1824",,,,,,wfo-0000470647,3727173,
-db4ba7be-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Parentucellia,,Caruel,1885,"Fl. Ital. 6: 480 1885",,,,,806703-1,wfo-0001139853,8049400,
-780a41fc-8fcc-11eb-924d-9cd76263cbd0,species,pectinata,Parentucellia,,"(Ten.) Parsa",1949,"Fl. Iran 4(1): 473 1949",,,,daa86158-8fcd-11eb-924d-9cd76263cbd0,806704-1,wfo-0000470650,3727151,
-d9cd21b0-8fcd-11eb-924d-9cd76263cbd0,species,viscosa,Parentucellia,,"(L.) Caruel",1885,"Fl. Ital. 6: 482 1885",,,,,806705-1,wfo-0001136916,3171818,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e805169e-8fd1-11eb-924d-9cd76263cbd0,genus,Parentucellia,,,Viv.,,1824,,"Fl. Libyc. Spec. 31–32, pl. 21, f. 2. 1824.",,,,,,37888-1,wfo-4000028194,3171817,,
+780a9792-8fcc-11eb-924d-9cd76263cbd0,species,flaviflora,Parentucellia,,"(Boiss.) Nevski",,1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 321 1937",,,,f60e8dba-8fcc-11eb-924d-9cd76263cbd0,,806701-1,wfo-0000470653,3727177,,
+78096ca0-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Parentucellia,,Viv.,,1824,,"Fl. Libyc. Spec. 31 1824",,,,,,,wfo-0000470647,3727173,,
+db4ba7be-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Parentucellia,,Caruel,,1885,,"Fl. Ital. 6: 480 1885",,,,,,806703-1,wfo-0001139853,8049400,,
+780a41fc-8fcc-11eb-924d-9cd76263cbd0,species,pectinata,Parentucellia,,"(Ten.) Parsa",,1949,,"Fl. Iran 4(1): 473 1949",,,,daa86158-8fcd-11eb-924d-9cd76263cbd0,,806704-1,wfo-0000470650,3727151,,
+d9cd21b0-8fcd-11eb-924d-9cd76263cbd0,species,viscosa,Parentucellia,,"(L.) Caruel",,1885,,"Fl. Ital. 6: 482 1885",,,,,,806705-1,wfo-0001136916,3171818,,

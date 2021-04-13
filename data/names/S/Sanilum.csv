@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ecf940-8fd1-11eb-924d-9cd76263cbd0,genus,Sanilum,,,Raf.,1836,"Fl. Tellur. 4: 70. 1836[1838].",,,,,,wfo-4000033947,7324123,
-040a1762-8fbf-11eb-924d-9cd76263cbd0,species,bicolor,Sanilum,,Raf.,1838,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,271151-1,wfo-0000157454,3678434,
-04154a10-8fbf-11eb-924d-9cd76263cbd0,species,bracteatum,Sanilum,,Raf.,1838,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,271152-1,wfo-0000157455,3678431,
-04205612-8fbf-11eb-924d-9cd76263cbd0,species,copticum,Sanilum,,Raf.,1838,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,271153-1,wfo-0000157456,3678425,
-042b44f0-8fbf-11eb-924d-9cd76263cbd0,species,humile,Sanilum,,Raf.,1838,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,271154-1,wfo-0000157457,3678420,
-04363590-8fbf-11eb-924d-9cd76263cbd0,species,parviflorum,Sanilum,,Raf.,1838,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,271155-1,wfo-0000157458,3678410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ecf940-8fd1-11eb-924d-9cd76263cbd0,genus,Sanilum,,,Raf.,,1836,,"Fl. Tellur. 4: 70. 1836[1838].",,,,,,,wfo-4000033947,7324123,,
+040a1762-8fbf-11eb-924d-9cd76263cbd0,species,bicolor,Sanilum,,Raf.,,1838,,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,,271151-1,wfo-0000157454,3678434,,
+04154a10-8fbf-11eb-924d-9cd76263cbd0,species,bracteatum,Sanilum,,Raf.,,1838,,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,,271152-1,wfo-0000157455,3678431,,
+04205612-8fbf-11eb-924d-9cd76263cbd0,species,copticum,Sanilum,,Raf.,,1838,,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,,271153-1,wfo-0000157456,3678425,,
+042b44f0-8fbf-11eb-924d-9cd76263cbd0,species,humile,Sanilum,,Raf.,,1838,,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,,271154-1,wfo-0000157457,3678420,,
+04363590-8fbf-11eb-924d-9cd76263cbd0,species,parviflorum,Sanilum,,Raf.,,1838,,"Fl. Tellur. 4: 70 1838 [1836 publ. mid-1838]",,,,,,271155-1,wfo-0000157458,3678410,,

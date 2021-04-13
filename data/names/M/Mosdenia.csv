@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6edcb16-8fd1-11eb-924d-9cd76263cbd0,genus,Mosdenia,,,Stent,1922,"Bothalia 1(3): 170, t. 1. 1922. (6 May 1922)",,,,,18547-1,wfo-4000024895,4104403,
-584e00c8-8fcd-11eb-924d-9cd76263cbd0,species,leptostachys,Mosdenia,,"(Ficalho & Hiern) Clayton",1971,"Kew Bull. 25: 250 1971",,,,65b40e9c-8fcd-11eb-924d-9cd76263cbd0,408889-1,wfo-0000880566,4155275,
-584e369c-8fcd-11eb-924d-9cd76263cbd0,species,phleoides,Mosdenia,,"(Hack.) Stent",1927,"Bothalia 2: 288 1927",,,,5ccbbf14-8fcd-11eb-924d-9cd76263cbd0,408890-1,wfo-0000880568,4155282,
-584e51b8-8fcd-11eb-924d-9cd76263cbd0,species,transvaalensis,Mosdenia,,Stent,1928,"Mem. Bot. Surv. S. Africa 12: 49 1928",,,,,408891-1,wfo-0000880569,4104402,
-584e6e78-8fcd-11eb-924d-9cd76263cbd0,species,waterbergensis,Mosdenia,,Stent,1922,"Bothalia 1: 170 1922",,,,,408892-1,wfo-0000880570,4104414,
-6c6abab6-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Moseleya,,"(Wall. ex Benth.) Hemsl.",,"Hooker's Icon. Pl. 26: t. 2592 1899",,,,3e4c6bd4-8fcc-11eb-924d-9cd76263cbd0,432327-1,wfo-0000451016,8012909,
-799a6e48-8fcc-11eb-924d-9cd76263cbd0,species,sicarius,Mosenia,,Lindm.,1891,"Kongl. Svenska Vetensk. Acad. Handl. n.s., 24(8): 27 1891",,,,,164510-2,wfo-0000473296,2694311,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6edcb16-8fd1-11eb-924d-9cd76263cbd0,genus,Mosdenia,,,Stent,,1922,,"Bothalia 1(3): 170, t. 1. 1922. (6 May 1922)",,,,,,18547-1,wfo-4000024895,4104403,,
+584e00c8-8fcd-11eb-924d-9cd76263cbd0,species,leptostachys,Mosdenia,,"(Ficalho & Hiern) Clayton",,1971,,"Kew Bull. 25: 250 1971",,Q55778450,,65b40e9c-8fcd-11eb-924d-9cd76263cbd0,,408889-1,wfo-0000880566,4155275,,
+584e369c-8fcd-11eb-924d-9cd76263cbd0,species,phleoides,Mosdenia,,"(Hack.) Stent",,1927,,"Bothalia 2: 288 1927",,Q55794531,,5ccbbf14-8fcd-11eb-924d-9cd76263cbd0,,408890-1,wfo-0000880568,4155282,,
+584e51b8-8fcd-11eb-924d-9cd76263cbd0,species,transvaalensis,Mosdenia,,Stent,,1928,,"Mem. Bot. Surv. S. Africa 12: 49 1928",,,,,,408891-1,wfo-0000880569,4104402,,
+584e6e78-8fcd-11eb-924d-9cd76263cbd0,species,waterbergensis,Mosdenia,,Stent,,1922,,"Bothalia 1: 170 1922",,,,,,408892-1,wfo-0000880570,4104414,,
+6c6abab6-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Moseleya,,"(Wall. ex Benth.) Hemsl.",,,,"Hooker's Icon. Pl. 26: t. 2592 1899",,,,3e4c6bd4-8fcc-11eb-924d-9cd76263cbd0,,432327-1,wfo-0000451016,8012909,,
+799a6e48-8fcc-11eb-924d-9cd76263cbd0,species,sicarius,Mosenia,,Lindm.,,1891,,"Kongl. Svenska Vetensk. Acad. Handl. n.s., 24(8): 27 1891",,,,,,164510-2,wfo-0000473296,2694311,,

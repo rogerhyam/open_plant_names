@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e469467c-8fd1-11eb-924d-9cd76263cbd0,genus,Haptotrichion,,,"Paul G.Wilson",,,,,,,967824-1,wfo-4000016905,3146548,
-0345231a-8fb2-11eb-924d-9cd76263cbd0,species,colwillii,Haptotrichion,,"Paul G.Wilson",1992,"423 1992",,,,,169260-3,wfo-0000004592,3146551,
-4c1c5b32-8fb5-11eb-924d-9cd76263cbd0,species,conicum,Haptotrichion,,"(B.L.Turner) Paul G.Wilson",1992,"425 1992",,,,,169261-3,wfo-0000076354,3146549,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e469467c-8fd1-11eb-924d-9cd76263cbd0,genus,Haptotrichion,,,"Paul G.Wilson",,,,,,,,,,967824-1,wfo-4000016905,3146548,,
+0345231a-8fb2-11eb-924d-9cd76263cbd0,species,colwillii,Haptotrichion,,"Paul G.Wilson",,1992,,"423 1992",,,,,,169260-3,wfo-0000004592,3146551,,
+4c1c5b32-8fb5-11eb-924d-9cd76263cbd0,species,conicum,Haptotrichion,,"(B.L.Turner) Paul G.Wilson",,1992,,"425 1992",,,,,,169261-3,wfo-0000076354,3146549,,

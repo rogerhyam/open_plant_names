@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb53e24-8fd1-11eb-924d-9cd76263cbd0,genus,Aremonia,,,"Neck. ex Nestl.",1816,"Monogr. Potentilla iv, 17. 1816.",,,,,331364-2,wfo-4000002958,2988623,
-9ef76c80-8fcd-11eb-924d-9cd76263cbd0,species,agrimonioides,Aremonia,,"(L.) Neck.",1790,"Elementa botanica ; 1790 100, no.768 1790",,,,,,wfo-0001007857,7562170,
-968f66f6-8fcd-11eb-924d-9cd76263cbd0,species,agrimonoides,Aremonia,,"(L.) DC.",1823,"Prodromus systematis naturalis regni vegetabilis ; 1823 588 1825",,,,,,wfo-0000990761,2988624,
-99d6c246-8fcd-11eb-924d-9cd76263cbd0,subspecies,pouzarii,Aremonia,agrimonoides,Skalický,1968,"; 1968 36 1968",,,,,,wfo-0000997264,2988626,
-9489d968-8fcd-11eb-924d-9cd76263cbd0,species,pouzarii,Aremonia,,"(Skalický) Holub",1974,"; 1974 272 1974",,,,99d6c246-8fcd-11eb-924d-9cd76263cbd0,721545-1,wfo-0000986489,2988627,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb53e24-8fd1-11eb-924d-9cd76263cbd0,genus,Aremonia,,,"Neck. ex Nestl.",,1816,,"Monogr. Potentilla iv, 17. 1816.",,,,,,331364-2,wfo-4000002958,2988623,,
+9ef76c80-8fcd-11eb-924d-9cd76263cbd0,species,agrimonioides,Aremonia,,"(L.) Neck.",,1790,,"Elementa botanica ; 1790 100, no.768 1790",,,,,,,wfo-0001007857,7562170,,
+968f66f6-8fcd-11eb-924d-9cd76263cbd0,species,agrimonoides,Aremonia,,"(L.) DC.",,1823,,"Prodromus systematis naturalis regni vegetabilis ; 1823 588 1825",,,,,,,wfo-0000990761,2988624,,
+99d6c246-8fcd-11eb-924d-9cd76263cbd0,subspecies,pouzarii,Aremonia,agrimonoides,Skalický,,1968,,"; 1968 36 1968",,,,,,,wfo-0000997264,2988626,,
+9489d968-8fcd-11eb-924d-9cd76263cbd0,species,pouzarii,Aremonia,,"(Skalický) Holub",,1974,,"; 1974 272 1974",,Q55755372,,99d6c246-8fcd-11eb-924d-9cd76263cbd0,,721545-1,wfo-0000986489,2988627,,

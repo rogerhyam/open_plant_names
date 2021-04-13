@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3f05fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Geheebia,,,Schimp.,1876,"Syn. Musc. Eur. ed. 2: 233. 1876.",,,,,,wfo-4000015438,4280587,
-eabe9472-8fcd-11eb-924d-9cd76263cbd0,species,cataractarum,Geheebia,,Schimp.,1876,"Syn. Musc. Eur. (ed. 2) 233 1876",,,,,,wfo-0001172973,7514908,
-eabeae26-8fcd-11eb-924d-9cd76263cbd0,species,gigantea,Geheebia,,"(Funck) Boulay",1884,"Musc. France, Mousses 395 1884",,,,e160ce36-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001172974,4280588,
-37237252-8fcd-11eb-924d-9cd76263cbd0,species,geigelsteiniana,,,"B.Baumann & H.Baumann",2006,"J. Eur. Orch. 38: 902 2006",,,,,77079705-1,wfo-0000808778,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3f05fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Geheebia,,,Schimp.,,1876,,"Syn. Musc. Eur. ed. 2: 233. 1876.",,,,,,,wfo-4000015438,4280587,,
+eabe9472-8fcd-11eb-924d-9cd76263cbd0,species,cataractarum,Geheebia,,Schimp.,,1876,,"Syn. Musc. Eur. (ed. 2) 233 1876",,,,,,,wfo-0001172973,7514908,,
+eabeae26-8fcd-11eb-924d-9cd76263cbd0,species,gigantea,Geheebia,,"(Funck) Boulay",,1884,,"Musc. France, Mousses 395 1884",,,,e160ce36-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001172974,4280588,,
+37237252-8fcd-11eb-924d-9cd76263cbd0,species,geigelsteiniana,,,"B.Baumann & H.Baumann",,2006,,"J. Eur. Orch. 38: 902 2006",,,,,,77079705-1,wfo-0000808778,,,

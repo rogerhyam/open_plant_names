@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28cdfb2-8fd1-11eb-924d-9cd76263cbd0,genus,Deinanthe,,,Maxim.,1867,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 ser. 7. 10(16): 2. 1867.",,,,,,wfo-4000010984,7319062,
-ddcce71a-8fcc-11eb-924d-9cd76263cbd0,species,bifida,Deinanthe,,Maxim.,1867,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 10(16): 3 1867",,,,,790784-1,wfo-0000639309,3645780,
-ddcdbf46-8fcc-11eb-924d-9cd76263cbd0,form,violacea,Deinanthe,bifida,Hayashi,1960,"Bull. Gov. Forest Exp. Sta. 125: 77 1960",,,,,,wfo-0000639313,7923463,
-ddcdda94-8fcc-11eb-924d-9cd76263cbd0,species,caerulea,Deinanthe,,Stapf,,"Bot. Mag. 137: t. 8373 1911",,,,,790785-1,wfo-0000639314,3645771,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28cdfb2-8fd1-11eb-924d-9cd76263cbd0,genus,Deinanthe,,,Maxim.,,1867,,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 ser. 7. 10(16): 2. 1867.",,,,,,,wfo-4000010984,7319062,,
+ddcce71a-8fcc-11eb-924d-9cd76263cbd0,species,bifida,Deinanthe,,Maxim.,,1867,,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 10(16): 3 1867",,,,,,790784-1,wfo-0000639309,3645780,,
+ddcdbf46-8fcc-11eb-924d-9cd76263cbd0,form,violacea,Deinanthe,bifida,Hayashi,,1960,,"Bull. Gov. Forest Exp. Sta. 125: 77 1960",,,,,,,wfo-0000639313,7923463,,
+ddcdda94-8fcc-11eb-924d-9cd76263cbd0,species,caerulea,Deinanthe,,Stapf,,,,"Bot. Mag. 137: t. 8373 1911",,,,,,790785-1,wfo-0000639314,3645771,,

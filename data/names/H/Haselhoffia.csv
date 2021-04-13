@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e472f078-8fd1-11eb-924d-9cd76263cbd0,genus,Haselhoffia,,,Lindau,1897,"Bot. Jahrb. Syst. 24: 316. 1897.",,,,,,wfo-4000017001,7263316,
-b0836ec2-8fcd-11eb-924d-9cd76263cbd0,species,batangana,Haselhoffia,,Lindau,,,,,,,49385-1,wfo-0001044793,3770056,
-b083892a-8fcd-11eb-924d-9cd76263cbd0,species,cylindrica,Haselhoffia,,"(C.B.Clarke) Lindau",1909,"Bot. Jahrb. Syst. 47: 352 1909",,,,1ff7a90a-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001044794,3770050,
-b083a31a-8fcd-11eb-924d-9cd76263cbd0,species,leucophtalma,Haselhoffia,,Lindau,,,,,,,,wfo-0001044795,,
-0a190bb4-8fcd-11eb-924d-9cd76263cbd0,species,nematosiphon,Haselhoffia,,Lindau,1909,"Bot. Jahrb. Syst. 43: 351 1909",,,,,49388-1,wfo-0000716133,3770035,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e472f078-8fd1-11eb-924d-9cd76263cbd0,genus,Haselhoffia,,,Lindau,,1897,,"Bot. Jahrb. Syst. 24: 316. 1897.",,,,,,,wfo-4000017001,7263316,,
+b0836ec2-8fcd-11eb-924d-9cd76263cbd0,species,batangana,Haselhoffia,,Lindau,,,,,,,,,,49385-1,wfo-0001044793,3770056,,
+b083892a-8fcd-11eb-924d-9cd76263cbd0,species,cylindrica,Haselhoffia,,"(C.B.Clarke) Lindau",,1909,,"Bot. Jahrb. Syst. 47: 352 1909",,,,1ff7a90a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001044794,3770050,,
+b083a31a-8fcd-11eb-924d-9cd76263cbd0,species,leucophtalma,Haselhoffia,,Lindau,,,,,,,,,,,wfo-0001044795,,,
+0a190bb4-8fcd-11eb-924d-9cd76263cbd0,species,nematosiphon,Haselhoffia,,Lindau,,1909,,"Bot. Jahrb. Syst. 43: 351 1909",,,,,,49388-1,wfo-0000716133,3770035,,

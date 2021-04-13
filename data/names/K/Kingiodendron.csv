@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5605c1e-8fd1-11eb-924d-9cd76263cbd0,genus,Kingiodendron,,,Harms,,,,,,,22702-1,wfo-4000020020,2947455,
-1cbaa17e-8fc8-11eb-924d-9cd76263cbd0,species,alternifolium,Kingiodendron,,"(Elmer) Merr. & Rolfe",,,,,,e90c04b2-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000206171,2947459,
-b6369330-8fcd-11eb-924d-9cd76263cbd0,species,micranthum,Kingiodendron,,B.L.Burtt,1936,"Bull. Misc. Inform. Kew 1936(8): 460 1936",,,,,,wfo-0001057774,3964177,
-1cfc8684-8fc8-11eb-924d-9cd76263cbd0,species,novoguineense,Kingiodendron,,Verdc.,,,,,,,,wfo-0000206176,2947458,
-1410ce8a-8fc4-11eb-924d-9cd76263cbd0,species,pinnatum,Kingiodendron,,"(DC.) Harms",,,,,,,,wfo-0000186222,2947456,
-67631cae-8fc5-11eb-924d-9cd76263cbd0,species,platycarpum,Kingiodendron,,B.L.Burtt,,,,,,,,wfo-0000192879,2947460,
-1d0975d8-8fc8-11eb-924d-9cd76263cbd0,species,tenuicarpum,Kingiodendron,,Verdc.,,,,,,,,wfo-0000206179,2947464,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5605c1e-8fd1-11eb-924d-9cd76263cbd0,genus,Kingiodendron,,,Harms,,,,,,,,,,22702-1,wfo-4000020020,2947455,,
+1cbaa17e-8fc8-11eb-924d-9cd76263cbd0,species,alternifolium,Kingiodendron,,"(Elmer) Merr. & Rolfe",,,,,,,,e90c04b2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000206171,2947459,,
+b6369330-8fcd-11eb-924d-9cd76263cbd0,species,micranthum,Kingiodendron,,B.L.Burtt,,1936,,"Bull. Misc. Inform. Kew 1936(8): 460 1936",,,,,,,wfo-0001057774,3964177,,
+1cfc8684-8fc8-11eb-924d-9cd76263cbd0,species,novoguineense,Kingiodendron,,Verdc.,,,,,,,,,,,wfo-0000206176,2947458,,
+1410ce8a-8fc4-11eb-924d-9cd76263cbd0,species,pinnatum,Kingiodendron,,"(DC.) Harms",,,,,,,,,,,wfo-0000186222,2947456,,
+67631cae-8fc5-11eb-924d-9cd76263cbd0,species,platycarpum,Kingiodendron,,B.L.Burtt,,,,,,,,,,,wfo-0000192879,2947460,,
+1d0975d8-8fc8-11eb-924d-9cd76263cbd0,species,tenuicarpum,Kingiodendron,,Verdc.,,,,,,,,,,,wfo-0000206179,2947464,,

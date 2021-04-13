@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb991490-8fd1-11eb-924d-9cd76263cbd0,genus,Trilophozia,,,"(R.M.Schust.) Bakalin",2005,"Monogr. Obrab. Roda Lophozia 34. 2005.",,,,,,wfo-4000039198,4901092,
-fea3cff2-8fcd-11eb-924d-9cd76263cbd0,species,quinquedentata,Trilophozia,,"(Huds.) Bakalin, Vadim A.",2005,"Monogr. Obrab. Roda Lophozia 34 2005",,,,f79701ac-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213995,7506619,
-6f8038ca-8fcc-11eb-924d-9cd76263cbd0,species,ampelisagria,Trilophus,,Fisch.,1812,"Cat. Jard. Gorenki 56 1812",,,,,581685-1,wfo-0000456521,3829733,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb991490-8fd1-11eb-924d-9cd76263cbd0,genus,Trilophozia,,,"(R.M.Schust.) Bakalin",,2005,,"Monogr. Obrab. Roda Lophozia 34. 2005.",,,,,,,wfo-4000039198,4901092,,
+fea3cff2-8fcd-11eb-924d-9cd76263cbd0,species,quinquedentata,Trilophozia,,"(Huds.) Bakalin, Vadim A.",,2005,,"Monogr. Obrab. Roda Lophozia 34 2005",,,,f79701ac-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213995,7506619,,
+6f8038ca-8fcc-11eb-924d-9cd76263cbd0,species,ampelisagria,Trilophus,,Fisch.,,1812,,"Cat. Jard. Gorenki 56 1812",,,,,,581685-1,wfo-0000456521,3829733,,

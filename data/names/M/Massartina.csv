@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6684b44-8fd1-11eb-924d-9cd76263cbd0,genus,Massartina,,,R.Maire,1925,"Bull. Soc. Hist. Nat. Afrique N. 16: 92. 1925.",,,,,,wfo-4000023273,7294488,
-32d8a01a-8fcc-11eb-924d-9cd76263cbd0,species,titaiana,Massartina,,Maire,1925,"Bull. Soc. Hist. Nat. Afrique N. 16: 92 1925",,,,,118459-1,wfo-0000372057,4058751,
-578a7798-8fcd-11eb-924d-9cd76263cbd0,species,triseta,Massia,,"(Steud.) Balansa",1890,"J. Bot. (Morot) 4: 165 1890",,,,,407797-1,wfo-0000878879,4122144,
-b8caeaac-8fd1-11eb-924d-9cd76263cbd0,species,aromatica,Massoia,,Becc.,1880,"New Guinea: What I Did and What I Saw 2: 398 1880",,,,,466455-1,wfo-0001240720,4175931,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6684b44-8fd1-11eb-924d-9cd76263cbd0,genus,Massartina,,,R.Maire,,1925,,"Bull. Soc. Hist. Nat. Afrique N. 16: 92. 1925.",,,,,,,wfo-4000023273,7294488,,
+32d8a01a-8fcc-11eb-924d-9cd76263cbd0,species,titaiana,Massartina,,Maire,,1925,,"Bull. Soc. Hist. Nat. Afrique N. 16: 92 1925",,,,,,118459-1,wfo-0000372057,4058751,,

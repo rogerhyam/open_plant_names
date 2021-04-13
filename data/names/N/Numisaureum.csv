@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e766f1b2-8fd1-11eb-924d-9cd76263cbd0,genus,Numisaureum,,,Raf.,1836,"Fl. Tellur. 3: 32. 1836[1837].",,,,,,wfo-4000026379,7293218,
-37016ef6-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Numisaureum,,Raf.,1837,"Fl. Tellur. 3: 32 1837",,,,,544817-1,wfo-0000378667,4048891,
-370124aa-8fcc-11eb-924d-9cd76263cbd0,species,petiolatum,Numisaureum,,Raf.,1837,"Fl. Tellur. 3: 32 1837",,,,,544818-1,wfo-0000378665,4048882,
-3700e0f8-8fcc-11eb-924d-9cd76263cbd0,species,repens,Numisaureum,,Raf.,1837,"Fl. Tellur. 3: 32 1837",,,,,544819-1,wfo-0000378663,4048874,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e766f1b2-8fd1-11eb-924d-9cd76263cbd0,genus,Numisaureum,,,Raf.,,1836,,"Fl. Tellur. 3: 32. 1836[1837].",,,,,,,wfo-4000026379,7293218,,
+37016ef6-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Numisaureum,,Raf.,,1837,,"Fl. Tellur. 3: 32 1837",,,,,,544817-1,wfo-0000378667,4048891,,
+370124aa-8fcc-11eb-924d-9cd76263cbd0,species,petiolatum,Numisaureum,,Raf.,,1837,,"Fl. Tellur. 3: 32 1837",,,,,,544818-1,wfo-0000378665,4048882,,
+3700e0f8-8fcc-11eb-924d-9cd76263cbd0,species,repens,Numisaureum,,Raf.,,1837,,"Fl. Tellur. 3: 32 1837",,,,,,544819-1,wfo-0000378663,4048874,,

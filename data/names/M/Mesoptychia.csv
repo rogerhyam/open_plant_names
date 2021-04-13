@@ -1,6 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e699ff04-8fd1-11eb-924d-9cd76263cbd0,genus,Mesoptychia,,,"(Lindb.) A.Evans",1903,"Ottawa Naturalist 17: 15. 1903.",,,,,,wfo-4000023867,2689389,
-f65d9634-8fcd-11eb-924d-9cd76263cbd0,species,sahlbergii,Mesoptychia,,"(Lindb. & Arnell) A.Evans",1903,"Ottawa Naturalist 17: 15 1903",,,,f7b04446-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001196554,2689390,
-bafe2816-8fd1-11eb-924d-9cd76263cbd0,species,barbiger,Mesoreanthus,,"(Greene) Greene",1904,"Leafl. Bot. Observ. Crit. 1(7): 89 1904",,,,abbce43c-8fd1-11eb-924d-9cd76263cbd0,157973-2,wfo-0001244797,3041638,
-bafe4224-8fd1-11eb-924d-9cd76263cbd0,species,fallax,Mesoreanthus,,Greene,1904,"Leafl. Bot. Observ. Crit. 1(7): 90 1904",,,,,287082-1,wfo-0001244798,3041585,
-bafe62fe-8fd1-11eb-924d-9cd76263cbd0,species,vimineus,Mesoreanthus,,Greene,1904,"Leafl. Bot. Observ. Crit. 1(7): 90 1904",,,,,157975-2,wfo-0001244799,3041584,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e699ff04-8fd1-11eb-924d-9cd76263cbd0,genus,Mesoptychia,,,"(Lindb.) A.Evans",,1903,,"Ottawa Naturalist 17: 15. 1903.",,,,,,,wfo-4000023867,2689389,,
+f65d9634-8fcd-11eb-924d-9cd76263cbd0,species,sahlbergii,Mesoptychia,,"(Lindb. & Arnell) A.Evans",,1903,,"Ottawa Naturalist 17: 15 1903",,,,f7b04446-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001196554,2689390,,

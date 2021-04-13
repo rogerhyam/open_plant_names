@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e86f7d86-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllocarpus,,,,,,,,,,,wfo-4000029416,,
-bb5c768c-8fd1-11eb-924d-9cd76263cbd0,species,phylocephalus,Phyllocarpus,,K.Schum.,1898,"Bot. Jahrb. Syst. 25(Suppl. 60): 17 1898",,,,,,wfo-0001245459,,
-f3347226-8fc2-11eb-924d-9cd76263cbd0,species,pterocarpus,Phyllocarpus,,Endl.,,,,,,,,wfo-0000180219,5357462,
-96eee8a2-8fc2-11eb-924d-9cd76263cbd0,species,riedelii,Phyllocarpus,,Tul.,,,,,,,,wfo-0000178278,5357461,
-d6218234-8fc0-11eb-924d-9cd76263cbd0,species,septentrionalis,Phyllocarpus,,Donn.Sm.,,,,,,,,wfo-0000168391,5357460,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e86f7d86-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllocarpus,,,,,,,,,,,,,,wfo-4000029416,,,
+bb5c768c-8fd1-11eb-924d-9cd76263cbd0,species,phylocephalus,Phyllocarpus,,K.Schum.,,1898,,"Bot. Jahrb. Syst. 25(Suppl. 60): 17 1898",,,,,,,wfo-0001245459,,,
+f3347226-8fc2-11eb-924d-9cd76263cbd0,species,pterocarpus,Phyllocarpus,,Endl.,,,,,,,,,,,wfo-0000180219,5357462,,
+96eee8a2-8fc2-11eb-924d-9cd76263cbd0,species,riedelii,Phyllocarpus,,Tul.,,,,,,,,,,,wfo-0000178278,5357461,,
+d6218234-8fc0-11eb-924d-9cd76263cbd0,species,septentrionalis,Phyllocarpus,,Donn.Sm.,,,,,,,,,,,wfo-0000168391,5357460,,

@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaf10eda-8fd1-11eb-924d-9cd76263cbd0,genus,Styphonia,,,Nutt.,1838,"Fl. N. Amer. 1(2): 220. 1838.",,,,,,wfo-4000037024,7575906,
-633fd714-8fcc-11eb-924d-9cd76263cbd0,species,atra,Styphonia,,Nutt.,1838,"Fl. N. Amer. 1: 220 1838",,,,,71515-1,wfo-0000435418,3660669,
-ba84c17e-8fd1-11eb-924d-9cd76263cbd0,species,integrifolia,Styphonia,,Nutt.,1838,"Fl. N. Amer. 1(2): 220 1838",,,,,1022763-2,wfo-0001243916,3660635,
-633ff9ce-8fcc-11eb-924d-9cd76263cbd0,species,mollis,Styphonia,,Nutt.,1838,"Fl. N. Amer. 1: 220 1838",,,,,71517-1,wfo-0000435419,3660627,
-633be6a4-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Styphonia,,Nutt.,1838,"Fl. N. Amer. 1: 220 1838",,,,,71518-1,wfo-0000435404,3660609,
-a0fda922-8fcd-11eb-924d-9cd76263cbd0,species,vernus,Stypostylis,,Raf.,1821,"; 1821 387 1821",,,,,,wfo-0001012407,3024649,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaf10eda-8fd1-11eb-924d-9cd76263cbd0,genus,Styphonia,,,Nutt.,,1838,,"Fl. N. Amer. 1(2): 220. 1838.",,,,,,,wfo-4000037024,7575906,,
+633fd714-8fcc-11eb-924d-9cd76263cbd0,species,atra,Styphonia,,Nutt.,,1838,,"Fl. N. Amer. 1: 220 1838",,,,,,71515-1,wfo-0000435418,3660669,,
+ba84c17e-8fd1-11eb-924d-9cd76263cbd0,species,integrifolia,Styphonia,,Nutt.,,1838,,"Fl. N. Amer. 1(2): 220 1838",,,,,,1022763-2,wfo-0001243916,3660635,,
+633ff9ce-8fcc-11eb-924d-9cd76263cbd0,species,mollis,Styphonia,,Nutt.,,1838,,"Fl. N. Amer. 1: 220 1838",,,,,,71517-1,wfo-0000435419,3660627,,
+633be6a4-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Styphonia,,Nutt.,,1838,,"Fl. N. Amer. 1: 220 1838",,,,,,71518-1,wfo-0000435404,3660609,,

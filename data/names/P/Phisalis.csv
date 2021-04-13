@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e862bc90-8fd1-11eb-924d-9cd76263cbd0,genus,Phisalis,,,Nocca,1793,"Werderm. and Werderm., in Usteri, Ann. Bot. v. (1793) 48..",,,,,,wfo-4000029254,3802604,
-f2a9ee86-8fcb-11eb-924d-9cd76263cbd0,species,multiflora,Phitopis,,Hook.f.,,"Hooker's Icon. Pl. 11: t. 1093 1871",,,,,760448-1,wfo-0000269119,2907603,
-3253939c-8fcd-11eb-924d-9cd76263cbd0,variety,angustifolia,Phitopis,multiflora,Hook.f.,1871,"Hooker's Icon. Pl. 11: 75 1871",,,,,193295-2,wfo-0000798870,,
-f2aa2afe-8fcb-11eb-924d-9cd76263cbd0,species,sterculioides,Phitopis,,Standl.,1931,"Publ. Field Mus. Nat. Hist., Bot. Ser. 8: 341 1931",,,,,193296-2,wfo-0000269120,2907602,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e862bc90-8fd1-11eb-924d-9cd76263cbd0,genus,Phisalis,,,Nocca,,1793,,"Werderm. and Werderm., in Usteri, Ann. Bot. v. (1793) 48..",,,,,,,wfo-4000029254,3802604,,
+f2a9ee86-8fcb-11eb-924d-9cd76263cbd0,species,multiflora,Phitopis,,Hook.f.,,,,"Hooker's Icon. Pl. 11: t. 1093 1871",,,,,,760448-1,wfo-0000269119,2907603,,
+3253939c-8fcd-11eb-924d-9cd76263cbd0,variety,angustifolia,Phitopis,multiflora,Hook.f.,,1871,,"Hooker's Icon. Pl. 11: 75 1871",,,,,,193295-2,wfo-0000798870,,,
+f2aa2afe-8fcb-11eb-924d-9cd76263cbd0,species,sterculioides,Phitopis,,Standl.,,1931,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 8: 341 1931",,,,,,193296-2,wfo-0000269120,2907602,,

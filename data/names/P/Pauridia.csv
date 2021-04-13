@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e810e870-8fd1-11eb-924d-9cd76263cbd0,genus,Pauridia,,,Harv.,1838,"Gen. S. Afr. Pl. 341. 1838.",,,,,1579-1,wfo-4000028347,2852514,
-115a417c-8fcd-11eb-924d-9cd76263cbd0,species,hypoxidioides,Pauridia,,Harv.,1838,"Gen. S. Afr. Pl. 342 1838",,,,,66536-1,wfo-0000729111,5325463,
-b9773126-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Pauridia,,M.F.Thompson,,,,,,,,wfo-0001065196,5325461,
-0a6443fe-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Pauridia,,M.F.Thomps.,1972,"J. S. African Bot. 38: 163 1972",,,,,434195-1,wfo-0000716688,5325461,
-11629cb4-8fcd-11eb-924d-9cd76263cbd0,species,minuta,Pauridia,,"(L.f.) T.Durand & Schinz",1894,"Consp. Fl. Afric. 5: 142 1894",,,,,66537-1,wfo-0000729175,5325462,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e810e870-8fd1-11eb-924d-9cd76263cbd0,genus,Pauridia,,,Harv.,,1838,,"Gen. S. Afr. Pl. 341. 1838.",,,,,,1579-1,wfo-4000028347,2852514,,
+115a417c-8fcd-11eb-924d-9cd76263cbd0,species,hypoxidioides,Pauridia,,Harv.,,1838,,"Gen. S. Afr. Pl. 342 1838",,,,,,66536-1,wfo-0000729111,5325463,,
+b9773126-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Pauridia,,M.F.Thompson,,,,,,,,,,,wfo-0001065196,5325461,,
+0a6443fe-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Pauridia,,M.F.Thomps.,,1972,,"J. S. African Bot. 38: 163 1972",,,,,,434195-1,wfo-0000716688,5325461,,
+11629cb4-8fcd-11eb-924d-9cd76263cbd0,species,minuta,Pauridia,,"(L.f.) T.Durand & Schinz",,1894,,"Consp. Fl. Afric. 5: 142 1894",,,,,,66537-1,wfo-0000729175,5325462,,

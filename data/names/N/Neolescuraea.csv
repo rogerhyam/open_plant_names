@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e730b048-8fd1-11eb-924d-9cd76263cbd0,genus,Neolescuraea,,,Nog.,1972,"J. Hattori Bot. Lab. 36: 521. 1972[1973].",,,,,,wfo-4000025744,4906015,
-f19783e4-8fcd-11eb-924d-9cd76263cbd0,species,arcuata,Neolescuraea,,Nog.,1972,"J. Hattori Bot. Lab. 36: 523. f. 8 1972",,,,,,wfo-0001186945,7503887,
-f1976896-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Neolescuraea,,"(Lindb.) Nog.",1972,"J. Hattori Bot. Lab. 36: 523 1972",,,,e6235b5a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001186944,8084711,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e730b048-8fd1-11eb-924d-9cd76263cbd0,genus,Neolescuraea,,,Nog.,,1972,,"J. Hattori Bot. Lab. 36: 521. 1972[1973].",,,,,,,wfo-4000025744,4906015,,
+f19783e4-8fcd-11eb-924d-9cd76263cbd0,species,arcuata,Neolescuraea,,Nog.,,1972,,"J. Hattori Bot. Lab. 36: 523. f. 8 1972",,,,,,,wfo-0001186945,7503887,,
+f1976896-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Neolescuraea,,"(Lindb.) Nog.",,1972,,"J. Hattori Bot. Lab. 36: 523 1972",,,,e6235b5a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001186944,8084711,,

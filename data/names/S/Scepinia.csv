@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea06b574-8fd1-11eb-924d-9cd76263cbd0,genus,Scepinia,,,,,,,,,,,wfo-4000034268,,
-dc1b99f0-8fb5-11eb-924d-9cd76263cbd0,species,dichotoma,Scepinia,,Cass.,,"in Dict. Sci. Nat. xlviii. 45.",,,,,242827-1,wfo-0000082987,4248514,
-fdbd900c-8fb2-11eb-924d-9cd76263cbd0,species,lepidophylla,Scepinia,,Cass.,,"in Dict. Sci. Nat. xlviii. 45.",,,,,242828-1,wfo-0000039148,4248508,
-8a8d35d2-8fcc-11eb-924d-9cd76263cbd0,species,mannii,Scepocarpus,,Wedd.,1869,"Prodr. 16(1): 98 1869",,,,,856518-1,wfo-0000502142,4100631,
-09a8cf58-8fcc-11eb-924d-9cd76263cbd0,species,gardenioloides,Scepseothamnus,,Cham.,1834,"Linnaea 9: 249 1834",,,,,766119-1,wfo-0000305522,3846890,
-09a8fa5a-8fcc-11eb-924d-9cd76263cbd0,species,rotundus,Scepseothamnus,,Cham.,1834,"Linnaea 9: 250 1834",,,,,766120-1,wfo-0000305523,2896658,
-09a9c46c-8fcc-11eb-924d-9cd76263cbd0,species,vinosa,Scepseothamnus,,Cham.,1834,"Linnaea 9: 249 1834",,,,,766121-1,wfo-0000305524,2896654,
-15ad4e36-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Sceptranthes,,"(D.Don) Graham",1836,"Edinburgh New Philos. J. 20: 413 1836",,,,,66770-1,wfo-0000737823,2859904,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea06b574-8fd1-11eb-924d-9cd76263cbd0,genus,Scepinia,,,,,,,,,,,,,,wfo-4000034268,,,
+dc1b99f0-8fb5-11eb-924d-9cd76263cbd0,species,dichotoma,Scepinia,,Cass.,,,,"in Dict. Sci. Nat. xlviii. 45.",,,,,,242827-1,wfo-0000082987,4248514,,
+fdbd900c-8fb2-11eb-924d-9cd76263cbd0,species,lepidophylla,Scepinia,,Cass.,,,,"in Dict. Sci. Nat. xlviii. 45.",,,,,,242828-1,wfo-0000039148,4248508,,
+8a8d35d2-8fcc-11eb-924d-9cd76263cbd0,species,mannii,Scepocarpus,,Wedd.,,1869,,"Prodr. 16(1): 98 1869",,,,,,856518-1,wfo-0000502142,4100631,,
+09a8cf58-8fcc-11eb-924d-9cd76263cbd0,species,gardenioloides,Scepseothamnus,,Cham.,,1834,,"Linnaea 9: 249 1834",,,,,,766119-1,wfo-0000305522,3846890,,
+09a8fa5a-8fcc-11eb-924d-9cd76263cbd0,species,rotundus,Scepseothamnus,,Cham.,,1834,,"Linnaea 9: 250 1834",,,,,,766120-1,wfo-0000305523,2896658,,
+09a9c46c-8fcc-11eb-924d-9cd76263cbd0,species,vinosa,Scepseothamnus,,Cham.,,1834,,"Linnaea 9: 249 1834",,,,,,766121-1,wfo-0000305524,2896654,,
+15ad4e36-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Sceptranthes,,"(D.Don) Graham",,1836,,"Edinburgh New Philos. J. 20: 413 1836",,,,,,66770-1,wfo-0000737823,2859904,,

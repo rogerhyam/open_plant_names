@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0d3f728-8fd1-11eb-924d-9cd76263cbd0,genus,Brickelliastrum,,,"R.M.King & H.Rob.",,,,,,,296072-2,wfo-4000005424,3087044,
-0530159a-8fb2-11eb-924d-9cd76263cbd0,species,fendleri,Brickelliastrum,,"(A.Gray) R.M.King & H.Rob.",1972,"Phytologia 24 64 1972",,,,,36548-2,wfo-0000005314,3144084,
-4d9ab6a4-8fb3-11eb-924d-9cd76263cbd0,species,nesomii,Brickelliastrum,,"(B.L.Turner) R.M.King & H.Rob.",1995,"Phytologia 78 125 1995",,,,,1019499-2,wfo-0000045678,3144050,
-ffbb372a-8fb1-11eb-924d-9cd76263cbd0,species,villarrealii,Brickelliastrum,,"R.M.King & H.Rob.",1994,"17 1994",,,,,300680-2,wfo-0000002706,3144049,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0d3f728-8fd1-11eb-924d-9cd76263cbd0,genus,Brickelliastrum,,,"R.M.King & H.Rob.",,,,,,,,,,296072-2,wfo-4000005424,3087044,,
+0530159a-8fb2-11eb-924d-9cd76263cbd0,species,fendleri,Brickelliastrum,,"(A.Gray) R.M.King & H.Rob.",,1972,,"Phytologia 24 64 1972",,,,,,36548-2,wfo-0000005314,3144084,,
+4d9ab6a4-8fb3-11eb-924d-9cd76263cbd0,species,nesomii,Brickelliastrum,,"(B.L.Turner) R.M.King & H.Rob.",,1995,,"Phytologia 78 125 1995",,,,,,1019499-2,wfo-0000045678,3144050,,
+ffbb372a-8fb1-11eb-924d-9cd76263cbd0,species,villarrealii,Brickelliastrum,,"R.M.King & H.Rob.",,1994,,"17 1994",,,,,,300680-2,wfo-0000002706,3144049,,

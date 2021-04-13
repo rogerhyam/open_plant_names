@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb967fc8-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonosciadium,,,Boiss.,1844,"Ann. Sci. Nat., Bot., sér. 3, 1: 344. 1844.",,,,,40638-1,wfo-4000039166,6027387,
-af785b6e-8fcd-11eb-924d-9cd76263cbd0,species,brachytaenium,Trigonosciadium,,"(Boiss.) Alava",1987,"Fl. Iranica 162: 513 1987",,,,,944246-1,wfo-0001042536,3642630,
-5068ba3e-8fcc-11eb-924d-9cd76263cbd0,species,intermedium,Trigonosciadium,,"Freyn & Sint.",1892,"Oesterr. Bot. Z. 42: 123 1892",,,,,849846-1,wfo-0000411137,3642620,
-baf2132c-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Trigonosciadium,,"(Manden.) Tamamsch.",1967,"Fl. Kavkaza (ed. 2) 7: 134 1967",,,,,849847-1,wfo-0001068643,3642611,
-505ef47c-8fcc-11eb-924d-9cd76263cbd0,species,lasiocarpum,Trigonosciadium,,"(Boiss.) Alava",1987,"in Fl. Iran. 162: 514 1987",,,,,944247-1,wfo-0000411087,3642604,
-505f17fe-8fcc-11eb-924d-9cd76263cbd0,species,tuberosum,Trigonosciadium,,Boiss.,1844,"Ann. Sci. Nat., Bot. III, 1: 345 1844",,,,,849848-1,wfo-0000411088,3642593,
-1b7fbc18-8fcd-11eb-924d-9cd76263cbd0,species,undulatum,Trigonosciadium,,Yıld.,2010,"Ot Sist. Bot. Dergisi 17: 16 2010",,,,,,wfo-0000750244,8165463,
-505f5c6e-8fcc-11eb-924d-9cd76263cbd0,species,viscidulum,Trigonosciadium,,"Boiss. & Hausskn.",,"Fl. Orient. 2: 1051 1872",,,,,849849-1,wfo-0000411089,3642583,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb967fc8-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonosciadium,,,Boiss.,,1844,,"Ann. Sci. Nat., Bot., sér. 3, 1: 344. 1844.",,,,,,40638-1,wfo-4000039166,6027387,,
+af785b6e-8fcd-11eb-924d-9cd76263cbd0,species,brachytaenium,Trigonosciadium,,"(Boiss.) Alava",,1987,,"Fl. Iranica 162: 513 1987",,,,,,944246-1,wfo-0001042536,3642630,,
+5068ba3e-8fcc-11eb-924d-9cd76263cbd0,species,intermedium,Trigonosciadium,,"Freyn & Sint.",,1892,,"Oesterr. Bot. Z. 42: 123 1892",,Q101058858,,,,849846-1,wfo-0000411137,3642620,,
+baf2132c-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Trigonosciadium,,"(Manden.) Tamamsch.",,1967,,"Fl. Kavkaza (ed. 2) 7: 134 1967",,,,,,849847-1,wfo-0001068643,3642611,,
+505ef47c-8fcc-11eb-924d-9cd76263cbd0,species,lasiocarpum,Trigonosciadium,,"(Boiss.) Alava",,1987,,"in Fl. Iran. 162: 514 1987",,,,,,944247-1,wfo-0000411087,3642604,,
+505f17fe-8fcc-11eb-924d-9cd76263cbd0,species,tuberosum,Trigonosciadium,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. III, 1: 345 1844",,,,,,849848-1,wfo-0000411088,3642593,,
+1b7fbc18-8fcd-11eb-924d-9cd76263cbd0,species,undulatum,Trigonosciadium,,Yıld.,,2010,,"Ot Sist. Bot. Dergisi 17: 16 2010",,,,,,,wfo-0000750244,8165463,,
+505f5c6e-8fcc-11eb-924d-9cd76263cbd0,species,viscidulum,Trigonosciadium,,"Boiss. & Hausskn.",,,,"Fl. Orient. 2: 1051 1872",,,,,,849849-1,wfo-0000411089,3642583,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0f7fd4e-8fd1-11eb-924d-9cd76263cbd0,genus,Cajanum,,,,,,,,,,,wfo-4000005926,7301985,
-b9721b4c-8fcc-11eb-924d-9cd76263cbd0,species,thora,Cajanum,,Raf.,1838,"Sylva Tellur. 25 1838",,,,,482988-1,wfo-0000578640,3970094,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0f7fd4e-8fd1-11eb-924d-9cd76263cbd0,genus,Cajanum,,,,,,,,,,,,,,wfo-4000005926,7301985,,
+b9721b4c-8fcc-11eb-924d-9cd76263cbd0,species,thora,Cajanum,,Raf.,,1838,,"Sylva Tellur. 25 1838",,,,,,482988-1,wfo-0000578640,3970094,,

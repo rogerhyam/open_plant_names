@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2b4ee9e-8fd1-11eb-924d-9cd76263cbd0,genus,Diclidopteris,,,Brack.,1854,"U.S. Expl. Exped. 16: 135. 1854.",,,,,,wfo-4000011483,7293060,
-ac39af8e-8fcd-11eb-924d-9cd76263cbd0,species,angustissima,Diclidopteris,,Brack.,1854,"U.S. Expl. Exped. 16: 135, t. 17 1854",,,,,17084080-1,wfo-0001035170,4047770,
-6768eaa0-8fbe-11eb-924d-9cd76263cbd0,species,paradoxa,Diclidopteris,,Carruth.,1873,"Fl. Vit. [Seemann] 370. 1873 1873",,,,,17084090-1,wfo-0000153742,9205815,
-e148f636-8fcc-11eb-924d-9cd76263cbd0,species,melothrioides,Diclidostigma,,Kunze,1843,"Linnaea 17: 577 1843",,,,,292556-1,wfo-0000645729,3624225,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2b4ee9e-8fd1-11eb-924d-9cd76263cbd0,genus,Diclidopteris,,,Brack.,,1854,,"U.S. Expl. Exped. 16: 135. 1854.",,,,,,,wfo-4000011483,7293060,,
+ac39af8e-8fcd-11eb-924d-9cd76263cbd0,species,angustissima,Diclidopteris,,Brack.,,1854,,"U.S. Expl. Exped. 16: 135, t. 17 1854",,,,,,17084080-1,wfo-0001035170,4047770,,
+6768eaa0-8fbe-11eb-924d-9cd76263cbd0,species,paradoxa,Diclidopteris,,Carruth.,,1873,,"Fl. Vit. [Seemann] 370. 1873 1873",,,,,,17084090-1,wfo-0000153742,9205815,,
+e148f636-8fcc-11eb-924d-9cd76263cbd0,species,melothrioides,Diclidostigma,,Kunze,,1843,,"Linnaea 17: 577 1843",,,,,,292556-1,wfo-0000645729,3624225,,

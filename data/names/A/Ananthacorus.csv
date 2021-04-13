@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df5ac994-8fd1-11eb-924d-9cd76263cbd0,genus,Ananthacorus,,,"Underw. & Maxon",1908,"Contr. U.S. Natl. Herb. 10: 487. 1908.",,,,,296600-2,wfo-4000001844,2650220,
-cd1eb7ee-8fcd-11eb-924d-9cd76263cbd0,species,angustifolius,Ananthacorus,,"(Sw.) Underw. & Maxon",1908,"Contr. U.S. Natl. Herb. 10: 487 1908",,,,3c027b68-8fbb-11eb-924d-9cd76263cbd0,12371-2,wfo-0001109124,2650242,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df5ac994-8fd1-11eb-924d-9cd76263cbd0,genus,Ananthacorus,,,"Underw. & Maxon",,1908,,"Contr. U.S. Natl. Herb. 10: 487. 1908.",,Q95371167,,,,296600-2,wfo-4000001844,2650220,,
+cd1eb7ee-8fcd-11eb-924d-9cd76263cbd0,species,angustifolius,Ananthacorus,,"(Sw.) Underw. & Maxon",,1908,,"Contr. U.S. Natl. Herb. 10: 487 1908",,Q95371167,,3c027b68-8fbb-11eb-924d-9cd76263cbd0,,12371-2,wfo-0001109124,2650242,,

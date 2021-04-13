@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e51949d2-8fd1-11eb-924d-9cd76263cbd0,genus,Iocenes,,,B.Nord.,,,,,,,9493-1,wfo-4000019119,9601349,
-44378ad6-8fb5-11eb-924d-9cd76263cbd0,species,acanthifolius,Iocenes,,"(Hombr. & Jacq.) B.Nord.",1978,"Opera Bot. 44 59 1978",,,,,128875-2,wfo-0000075972,6064133,
-8e024f40-8fb8-11eb-924d-9cd76263cbd0,subspecies,virens,Iocenes,acanthifolius,"(Phil.) B.Nord.",1978,"Opera Bot. 44 59 1978",,,,,877501-1,wfo-0000110455,4225364,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e51949d2-8fd1-11eb-924d-9cd76263cbd0,genus,Iocenes,,,B.Nord.,,,,,,,,,,9493-1,wfo-4000019119,9601349,,
+44378ad6-8fb5-11eb-924d-9cd76263cbd0,species,acanthifolius,Iocenes,,"(Hombr. & Jacq.) B.Nord.",,1978,,"Opera Bot. 44 59 1978",,,,,,128875-2,wfo-0000075972,6064133,,
+8e024f40-8fb8-11eb-924d-9cd76263cbd0,subspecies,virens,Iocenes,acanthifolius,"(Phil.) B.Nord.",,1978,,"Opera Bot. 44 59 1978",,,,,,877501-1,wfo-0000110455,4225364,,

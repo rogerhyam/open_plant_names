@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea419e78-8fd1-11eb-924d-9cd76263cbd0,genus,Selinopsis,,,"Coss. & Durieu ex Batt.",1904,"Fl. Algérie Tunisie 139, 141. 1904[1905].",,,,,40517-1,wfo-4000034994,7986746,
-628242da-8fcc-11eb-924d-9cd76263cbd0,species,foetida,Selinopsis,,"Coss. & Durieu ex Munby",1866,"Cat. Pl. Algeria ed. 2: 13 1866",,,,,,wfo-0000434451,7390544,
-6282881c-8fcc-11eb-924d-9cd76263cbd0,species,montana,Selinopsis,,"Coss. & Durieu ex Munby",1866,"Cat. Pl. Algeria ed. 2: 13 1866",,,,,,wfo-0000434453,7890355,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea419e78-8fd1-11eb-924d-9cd76263cbd0,genus,Selinopsis,,,"Coss. & Durieu ex Batt.",,1904,,"Fl. Algérie Tunisie 139, 141. 1904[1905].",,,,,,40517-1,wfo-4000034994,7986746,,
+628242da-8fcc-11eb-924d-9cd76263cbd0,species,foetida,Selinopsis,,"Coss. & Durieu ex Munby",,1866,,"Cat. Pl. Algeria ed. 2: 13 1866",,,,,,,wfo-0000434451,7390544,,
+6282881c-8fcc-11eb-924d-9cd76263cbd0,species,montana,Selinopsis,,"Coss. & Durieu ex Munby",,1866,,"Cat. Pl. Algeria ed. 2: 13 1866",,,,,,,wfo-0000434453,7890355,,

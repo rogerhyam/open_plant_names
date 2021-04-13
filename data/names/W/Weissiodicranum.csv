@@ -1,8 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec08cf92-8fd1-11eb-924d-9cd76263cbd0,genus,Weissiodicranum,,,W.D.Reese,1991,"Bryologist 94: 308. 1991.",,,,,,wfo-4000040611,2671140,
-f68ed6b8-8fcd-11eb-924d-9cd76263cbd0,species,insularum,Weissiodicranum,,W.D.Reese,1991,"Bryologist 94: 308. f. 1–4 1991",,,,,,wfo-0001196966,2671141,
-3c16859c-8fcd-11eb-924d-9cd76263cbd0,species,cervicaria,Weitenwebera,,"(L.) Opiz",1852,"Seznam 105 1852",,,,3f8d9274-8fcd-11eb-924d-9cd76263cbd0,146002-1,wfo-0000819549,5410873,
-3c149250-8fcd-11eb-924d-9cd76263cbd0,species,glomerata,Weitenwebera,,"(L.) Opiz",1852,"Seznam 105 1852",,,,,146003-1,wfo-0000819531,5410006,
-3d671f24-8fcd-11eb-924d-9cd76263cbd0,variety,mollis,Weitenwebera,glomerata,"(Tausch) Opiz",1852,"Seznam 105 1852",,,,44e08b5a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000822194,5409963,
-3d673b30-8fcd-11eb-924d-9cd76263cbd0,variety,nana,Weitenwebera,glomerata,Opiz,1852,"Seznam 105 1852",,,,,,wfo-0000822195,5409965,
-3d6755de-8fcd-11eb-924d-9cd76263cbd0,variety,salviifolia,Weitenwebera,glomerata,"(Wallr.) Opiz",1852,"Seznam 105 1852",,,,44d86e7a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000822196,5409951,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec08cf92-8fd1-11eb-924d-9cd76263cbd0,genus,Weissiodicranum,,,W.D.Reese,,1991,,"Bryologist 94: 308. 1991.",,,,,,,wfo-4000040611,2671140,,
+f68ed6b8-8fcd-11eb-924d-9cd76263cbd0,species,insularum,Weissiodicranum,,W.D.Reese,,1991,,"Bryologist 94: 308. f. 1–4 1991",,,,,,,wfo-0001196966,2671141,,

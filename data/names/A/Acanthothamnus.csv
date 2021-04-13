@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deba6c9c-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthothamnus,,,Brandegee,1909,"Univ. Calif. Publ. Bot. 3(8): 383. 1909.",,,,,295938-2,wfo-4000000162,7273495,
-fa3232da-8fcb-11eb-924d-9cd76263cbd0,species,aphyllus,Acanthothamnus,,"(Schltdl.) Standl.",1923,"Contr. U. S. Natl. Herb. 23: 684 1923",,,,c2416a3e-8fcc-11eb-924d-9cd76263cbd0,159955-1,wfo-0000280795,3873578,
-fa4585c4-8fcb-11eb-924d-9cd76263cbd0,species,viridis,Acanthothamnus,,Brandegee,1909,"Univ. Calif. Publ. Bot. 3: 383 1909",,,,,1715-2,wfo-0000280898,3873576,
-b62ba622-8fb5-11eb-924d-9cd76263cbd0,species,dentata,Acanthotheca,,DC.,1838,"74 1838",,,,,173726-1,wfo-0000081269,5402356,
-02d6bdbc-8fb2-11eb-924d-9cd76263cbd0,species,integrifolia,Acanthotheca,,DC.,1838,"74 1838",,,,,173727-1,wfo-0000004403,5402351,
-a1afa8b4-8fbb-11eb-924d-9cd76263cbd0,species,pinnatisecta,Acanthotheca,,DC.,1838,"73 1838",,,,,173728-1,wfo-0000135620,5694249,
-917dd5ae-8fcc-11eb-924d-9cd76263cbd0,species,winkleri,Acanthotreculia,,Engl.,1908,"Bot. Jahrb. Syst. 40: 548 1908",,,,,582583-1,wfo-0000513793,3765889,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deba6c9c-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthothamnus,,,Brandegee,,1909,,"Univ. Calif. Publ. Bot. 3(8): 383. 1909.",,,,,,295938-2,wfo-4000000162,7273495,,
+fa3232da-8fcb-11eb-924d-9cd76263cbd0,species,aphyllus,Acanthothamnus,,"(Schltdl.) Standl.",,1923,,"Contr. U. S. Natl. Herb. 23: 684 1923",,Q95371738,,c2416a3e-8fcc-11eb-924d-9cd76263cbd0,,159955-1,wfo-0000280795,3873578,,
+fa4585c4-8fcb-11eb-924d-9cd76263cbd0,species,viridis,Acanthothamnus,,Brandegee,,1909,,"Univ. Calif. Publ. Bot. 3: 383 1909",,,,,,1715-2,wfo-0000280898,3873576,,

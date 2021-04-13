@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e90a7f3e-8fd1-11eb-924d-9cd76263cbd0,genus,Prosopidastrum,,,Burkart,,,,,,,290909-2,wfo-4000031234,2950867,
-c2bb428c-8fd1-11eb-924d-9cd76263cbd0,species,angusticarpum,Prosopidastrum,,"R.A.Palacios & Hoc",2001,"Novon 11(1): 82–83, f. 1D–G 2001",,,,,321080-2,wfo-0001259218,3795440,
-7bb938c6-8fcc-11eb-924d-9cd76263cbd0,species,benthamii,Prosopidastrum,,"(Chodat & Wilczek) R.A.Palacios & Hoc",2005,"Bol. Soc. Argent. Bot. 40: 118 2005",,,,,60439575-2,wfo-0000477058,3795516,
-c2bb04b6-8fd1-11eb-924d-9cd76263cbd0,species,dehiscens,Prosopidastrum,,"R.A.Palacios & Hoc",2001,"Novon 11(1): 79–82, f. 1A–C 2001",,,,,321079-2,wfo-0001259217,3795513,
-02be5826-8fc1-11eb-924d-9cd76263cbd0,species,globosum,Prosopidastrum,,"(Hook. & Arn.) Burkart",,,,,,,,wfo-0000169462,2950870,
-c2bb6578-8fd1-11eb-924d-9cd76263cbd0,species,gracile,Prosopidastrum,,"R.A.Palacios & Hoc",2001,"Novon 11(1): 85, f. 2 2001",,,,,321081-2,wfo-0001259219,3795504,
-02c96a40-8fc1-11eb-924d-9cd76263cbd0,species,mexicanum,Prosopidastrum,,"(Dressler) Burkart",,,,,,,,wfo-0000169463,2950868,
-7bbc8e36-8fcc-11eb-924d-9cd76263cbd0,species,striatum,Prosopidastrum,,"(Benth.) R.A.Palacios & Hoc",2005,"Bol. Soc. Argent. Bot. 40: 126 2005",,,,,60439576-2,wfo-0000477079,3795497,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e90a7f3e-8fd1-11eb-924d-9cd76263cbd0,genus,Prosopidastrum,,,Burkart,,,,,,Q104174238,,,,290909-2,wfo-4000031234,2950867,,
+c2bb428c-8fd1-11eb-924d-9cd76263cbd0,species,angusticarpum,Prosopidastrum,,"R.A.Palacios & Hoc",,2001,,"Novon 11(1): 82–83, f. 1D–G 2001",,Q55775171,,,,321080-2,wfo-0001259218,3795440,,
+7bb938c6-8fcc-11eb-924d-9cd76263cbd0,species,benthamii,Prosopidastrum,,"(Chodat & Wilczek) R.A.Palacios & Hoc",,2005,,"Bol. Soc. Argent. Bot. 40: 118 2005",,,,,,60439575-2,wfo-0000477058,3795516,,
+c2bb04b6-8fd1-11eb-924d-9cd76263cbd0,species,dehiscens,Prosopidastrum,,"R.A.Palacios & Hoc",,2001,,"Novon 11(1): 79–82, f. 1A–C 2001",,Q55775171,,,,321079-2,wfo-0001259217,3795513,,
+02be5826-8fc1-11eb-924d-9cd76263cbd0,species,globosum,Prosopidastrum,,"(Hook. & Arn.) Burkart",,,,,,,,,,,wfo-0000169462,2950870,,
+c2bb6578-8fd1-11eb-924d-9cd76263cbd0,species,gracile,Prosopidastrum,,"R.A.Palacios & Hoc",,2001,,"Novon 11(1): 85, f. 2 2001",,Q55775171,,,,321081-2,wfo-0001259219,3795504,,
+02c96a40-8fc1-11eb-924d-9cd76263cbd0,species,mexicanum,Prosopidastrum,,"(Dressler) Burkart",,,,,,,,,,,wfo-0000169463,2950868,,
+7bbc8e36-8fcc-11eb-924d-9cd76263cbd0,species,striatum,Prosopidastrum,,"(Benth.) R.A.Palacios & Hoc",,2005,,"Bol. Soc. Argent. Bot. 40: 126 2005",,,,,,60439576-2,wfo-0000477079,3795497,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e348f602-8fd1-11eb-924d-9cd76263cbd0,genus,Emplectanthus,,,N.E.Br.,1908,"Fl. Cap. 4(1): 771. 1908.",,,,,3357-1,wfo-4000013330,7312262,
-ee1cd6e8-8fcc-11eb-924d-9cd76263cbd0,species,cordatus,Emplectanthus,,N.E.Br.,1908,"Fl. Cap. 4(1): 772 1908",,,,,97347-1,wfo-0000667276,3577376,
-19b66cce-8fcd-11eb-924d-9cd76263cbd0,species,dalzellii,Emplectanthus,,D.G.A.Styles,2010,"Pl. Life (Port Edward) 39-40: 24 2010",,,,,77106842-1,wfo-0000746434,7450319,
-ee1cf272-8fcc-11eb-924d-9cd76263cbd0,species,gerrardii,Emplectanthus,,N.E.Br.,1908,"Fl. Cap. 4(1): 772 1908",,,,,97348-1,wfo-0000667277,3577366,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e348f602-8fd1-11eb-924d-9cd76263cbd0,genus,Emplectanthus,,,N.E.Br.,,1908,,"Fl. Cap. 4(1): 771. 1908.",,,,,,3357-1,wfo-4000013330,7312262,,
+ee1cd6e8-8fcc-11eb-924d-9cd76263cbd0,species,cordatus,Emplectanthus,,N.E.Br.,,1908,,"Fl. Cap. 4(1): 772 1908",,,,,,97347-1,wfo-0000667276,3577376,,
+19b66cce-8fcd-11eb-924d-9cd76263cbd0,species,dalzellii,Emplectanthus,,D.G.A.Styles,,2010,,"Pl. Life (Port Edward) 39-40: 24 2010",,,,,,77106842-1,wfo-0000746434,7450319,,
+ee1cf272-8fcc-11eb-924d-9cd76263cbd0,species,gerrardii,Emplectanthus,,N.E.Br.,,1908,,"Fl. Cap. 4(1): 772 1908",,,,,,97348-1,wfo-0000667277,3577366,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cf9a58-8fd1-11eb-924d-9cd76263cbd0,genus,Holoptelea,,,Planch.,1848,"Ann. Sci. Nat., Bot., sér. 3, 10: 259, 266. 1848.",,,,,40841-1,wfo-4000018105,7303634,
-0ea7d46c-8fcd-11eb-924d-9cd76263cbd0,species,grandis,Holoptelea,,"(Hutch.) Mildbr.",1921,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 53 1921",,,,10874c52-8fca-11eb-924d-9cd76263cbd0,837069-1,wfo-0000724297,4160181,
-0ea7fe06-8fcd-11eb-924d-9cd76263cbd0,species,integrifolia,Holoptelea,,Planch.,1848,"Ann. Sci. Nat., Bot. III, 10: 259 1848",,,,,854174-1,wfo-0000724298,4160169,
-272f7f4e-8fcd-11eb-924d-9cd76263cbd0,species,jarana,Holopyxidium,,"Huber ex Ducke",1925,"Arch. Jard. Bot. Rio de Janeiro 4: 152 1925",,,,,123603-2,wfo-0000774352,3082405,
-272f9ae2-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Holopyxidium,,"(Ducke) R.Knuth",1939,"Pflanzenr. IV, 219a: 72 1939",,,,,123604-2,wfo-0000774353,3082410,
-272fb45a-8fcd-11eb-924d-9cd76263cbd0,species,retusum,Holopyxidium,,"(Spruce ex O.Berg) Ducke",1925,"Arch. Jard. Bot. Rio de Janeiro 4: 152 1925",,,,,123605-2,wfo-0000774354,3082424,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cf9a58-8fd1-11eb-924d-9cd76263cbd0,genus,Holoptelea,,,Planch.,,1848,,"Ann. Sci. Nat., Bot., sér. 3, 10: 259, 266. 1848.",,,,,,40841-1,wfo-4000018105,7303634,,
+0ea7d46c-8fcd-11eb-924d-9cd76263cbd0,species,grandis,Holoptelea,,"(Hutch.) Mildbr.",,1921,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 53 1921",,,,10874c52-8fca-11eb-924d-9cd76263cbd0,,837069-1,wfo-0000724297,4160181,,
+0ea7fe06-8fcd-11eb-924d-9cd76263cbd0,species,integrifolia,Holoptelea,,Planch.,,1848,,"Ann. Sci. Nat., Bot. III, 10: 259 1848",,,,,,854174-1,wfo-0000724298,4160169,,
+272f7f4e-8fcd-11eb-924d-9cd76263cbd0,species,jarana,Holopyxidium,,"Huber ex Ducke",,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 152 1925",,,,,,123603-2,wfo-0000774352,3082405,,
+272f9ae2-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Holopyxidium,,"(Ducke) R.Knuth",,1939,,"Pflanzenr. IV, 219a: 72 1939",,,,,,123604-2,wfo-0000774353,3082410,,
+272fb45a-8fcd-11eb-924d-9cd76263cbd0,species,retusum,Holopyxidium,,"(Spruce ex O.Berg) Ducke",,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 152 1925",,,,,,123605-2,wfo-0000774354,3082424,,

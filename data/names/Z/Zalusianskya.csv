@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec3367fc-8fd1-11eb-924d-9cd76263cbd0,genus,Zalusianskya,,,,,,,,,,,wfo-4000041130,7275832,
-618240b0-8fbd-11eb-924d-9cd76263cbd0,species,gymnocarpa,Zalusianskya,,Kuntze,1891,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,17235660-1,wfo-0000147450,3913590,
-618be8a4-8fbd-11eb-924d-9cd76263cbd0,species,macropus,Zalusianskya,,Kuntze,1891,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,17235670-1,wfo-0000147451,3913582,
-61958d46-8fbd-11eb-924d-9cd76263cbd0,species,marsilioides,Zalusianskya,,Neck.,1775,"Acta Theod. pal. phys. 3. 303. 1775 1775",,,,,17235680-1,wfo-0000147452,3913576,
-619f2aae-8fbd-11eb-924d-9cd76263cbd0,species,senegalensis,Zalusianskya,,Kuntze,1891,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,17235690-1,wfo-0000147453,3913568,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec3367fc-8fd1-11eb-924d-9cd76263cbd0,genus,Zalusianskya,,,,,,,,,,,,,,wfo-4000041130,7275832,,
+618240b0-8fbd-11eb-924d-9cd76263cbd0,species,gymnocarpa,Zalusianskya,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,,17235660-1,wfo-0000147450,3913590,,
+618be8a4-8fbd-11eb-924d-9cd76263cbd0,species,macropus,Zalusianskya,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,,17235670-1,wfo-0000147451,3913582,,
+61958d46-8fbd-11eb-924d-9cd76263cbd0,species,marsilioides,Zalusianskya,,Neck.,,1775,,"Acta Theod. pal. phys. 3. 303. 1775 1775",,,,,,17235680-1,wfo-0000147452,3913576,,
+619f2aae-8fbd-11eb-924d-9cd76263cbd0,species,senegalensis,Zalusianskya,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 823 1891 [5 Nov 1891]",,,,,,17235690-1,wfo-0000147453,3913568,,

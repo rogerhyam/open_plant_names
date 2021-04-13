@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc63b78-8fd1-11eb-924d-9cd76263cbd0,genus,Ultragossypium,,,Roberty,1949,"Coton Fibre Trop. 4: 91. 1949.",,,,,,wfo-4000039741,7278970,
-5515c6c6-8fcc-11eb-924d-9cd76263cbd0,species,armadense,Ultragossypium,,"Knight ex Roberty",1949,"Cotton Fibres Trop. 91 1949",,,,,,wfo-0000417210,7402760,
-ab44e27a-8fd1-11eb-924d-9cd76263cbd0,species,tschimganica,Ulugbekia,,"(B.Fedtsch.) Zakirov",1961,"Fl. Uzbekistan. 5: 244, 632 1961",,,,,121386-1,wfo-0001215890,5660716,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc63b78-8fd1-11eb-924d-9cd76263cbd0,genus,Ultragossypium,,,Roberty,,1949,,"Coton Fibre Trop. 4: 91. 1949.",,,,,,,wfo-4000039741,7278970,,
+5515c6c6-8fcc-11eb-924d-9cd76263cbd0,species,armadense,Ultragossypium,,"Knight ex Roberty",,1949,,"Cotton Fibres Trop. 91 1949",,,,,,,wfo-0000417210,7402760,,
+ab44e27a-8fd1-11eb-924d-9cd76263cbd0,species,tschimganica,Ulugbekia,,"(B.Fedtsch.) Zakirov",,1961,,"Fl. Uzbekistan. 5: 244, 632 1961",,,,,,121386-1,wfo-0001215890,5660716,,

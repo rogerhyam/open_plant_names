@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7259ece-8fd1-11eb-924d-9cd76263cbd0,genus,Neobolusia,,,Schltr.,1895,"Bot. Jahrb. Syst. 20(50): 5. 1895.",,,,,30055-1,wfo-4000025621,2820774,
-e6c99e04-8fcb-11eb-924d-9cd76263cbd0,species,ciliata,Neobolusia,,Summerh.,1956,"Kew Bull. 11: 217 1956",,,,,645228-1,wfo-0000249981,2820780,
-e6c9c0c8-8fcb-11eb-924d-9cd76263cbd0,species,stolzii,Neobolusia,,Schltr.,1915,"Bot. Jahrb. Syst. 53: 482 1915",,,,,645229-1,wfo-0000249982,2820784,
-e6c9f958-8fcb-11eb-924d-9cd76263cbd0,species,tysonii,Neobolusia,,"(Bolus) Schltr.",1895,"Bot. Jahrb. Syst. 20(50): 5 1895",,,,,645230-1,wfo-0000249984,2820781,
-e6ca1672-8fcb-11eb-924d-9cd76263cbd0,species,virginea,Neobolusia,,"(Bolus) Schltr.",1915,"Bot. Jahrb. Syst. 53: 481 1915",,,,f63f5c20-8fcb-11eb-924d-9cd76263cbd0,645231-1,wfo-0000249985,2820775,
-d9d057aa-8fd1-11eb-924d-9cd76263cbd0,species,botrys,Neobotrydium,,"(L.) Moldenke",1946,"Amer. Midl. Naturalist 35: 330 1946",,,,,168413-2,wfo-0001294908,7975841,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7259ece-8fd1-11eb-924d-9cd76263cbd0,genus,Neobolusia,,,Schltr.,,1895,,"Bot. Jahrb. Syst. 20(50): 5. 1895.",,,,,,30055-1,wfo-4000025621,2820774,,
+e6c99e04-8fcb-11eb-924d-9cd76263cbd0,species,ciliata,Neobolusia,,Summerh.,,1956,,"Kew Bull. 11: 217 1956",,Q55779609,,,,645228-1,wfo-0000249981,2820780,,
+e6c9c0c8-8fcb-11eb-924d-9cd76263cbd0,species,stolzii,Neobolusia,,Schltr.,,1915,,"Bot. Jahrb. Syst. 53: 482 1915",,,,,,645229-1,wfo-0000249982,2820784,,
+e6c9f958-8fcb-11eb-924d-9cd76263cbd0,species,tysonii,Neobolusia,,"(Bolus) Schltr.",,1895,,"Bot. Jahrb. Syst. 20(50): 5 1895",,,,,,645230-1,wfo-0000249984,2820781,,
+e6ca1672-8fcb-11eb-924d-9cd76263cbd0,species,virginea,Neobolusia,,"(Bolus) Schltr.",,1915,,"Bot. Jahrb. Syst. 53: 481 1915",,,,f63f5c20-8fcb-11eb-924d-9cd76263cbd0,,645231-1,wfo-0000249985,2820775,,
+d9d057aa-8fd1-11eb-924d-9cd76263cbd0,species,botrys,Neobotrydium,,"(L.) Moldenke",,1946,,"Amer. Midl. Naturalist 35: 330 1946",,Q55765686,,,,168413-2,wfo-0001294908,7975841,,

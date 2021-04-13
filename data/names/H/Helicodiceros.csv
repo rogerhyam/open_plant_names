@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4874d34-8fd1-11eb-924d-9cd76263cbd0,genus,Helicodiceros,,,Schott,1855,"Oesterr. Bot. Wochenbl. 3: 369. 1855.",,,,,2803-1,wfo-4000017221,2869318,
-920e4aca-8fcd-11eb-924d-9cd76263cbd0,species,crinitus,Helicodiceros,,"(Raf.) Schott",1853,"Oesterr. Bot. Wochenbl. 3: 369 1853",,,,5ffb44d0-8fcc-11eb-924d-9cd76263cbd0,87090-1,wfo-0000981072,2869324,
-920e69ec-8fcd-11eb-924d-9cd76263cbd0,species,muscivorus,Helicodiceros,,"(L.f.) Engl.",1879,"Monogr. Phan. 2: 605 1879",,,,,87091-1,wfo-0000981073,2869319,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4874d34-8fd1-11eb-924d-9cd76263cbd0,genus,Helicodiceros,,,Schott,,1855,,"Oesterr. Bot. Wochenbl. 3: 369. 1855.",,,,,,2803-1,wfo-4000017221,2869318,,
+920e4aca-8fcd-11eb-924d-9cd76263cbd0,species,crinitus,Helicodiceros,,"(Raf.) Schott",,1853,,"Oesterr. Bot. Wochenbl. 3: 369 1853",,,,5ffb44d0-8fcc-11eb-924d-9cd76263cbd0,,87090-1,wfo-0000981072,2869324,,
+920e69ec-8fcd-11eb-924d-9cd76263cbd0,species,muscivorus,Helicodiceros,,"(L.f.) Engl.",,1879,,"Monogr. Phan. 2: 605 1879",,,,,,87091-1,wfo-0000981073,2869319,,

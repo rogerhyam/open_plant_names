@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e765dafc-8fd1-11eb-924d-9cd76263cbd0,genus,Noveloa,,,C.T.Philbrick,2011,"Syst. Bot. 36(1): 114. 2011. (22 Feb 2011)",,,,,77113211-1,wfo-4000026366,7391641,
-ae9de178-8fcd-11eb-924d-9cd76263cbd0,species,coulteriana,Noveloa,,"(Tul.) C.Philbrick",2011,"Syst. Bot. 36(1): 114 2011",,,,ae4957f8-8fd1-11eb-924d-9cd76263cbd0,77113212-1,wfo-0001040590,8211941,
-ae9dfdfc-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Noveloa,,"(Novelo & C.Philbrick) C.Philbrick",2011,"Syst. Bot. 36(1): 114 2011",,,,ae3ca4ae-8fd1-11eb-924d-9cd76263cbd0,77113213-1,wfo-0001040591,7697791,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e765dafc-8fd1-11eb-924d-9cd76263cbd0,genus,Noveloa,,,C.T.Philbrick,,2011,,"Syst. Bot. 36(1): 114. 2011. (22 Feb 2011)",,Q55764016,,,,77113211-1,wfo-4000026366,7391641,,
+ae9de178-8fcd-11eb-924d-9cd76263cbd0,species,coulteriana,Noveloa,,"(Tul.) C.Philbrick",,2011,,"Syst. Bot. 36(1): 114 2011",,Q55764016,,ae4957f8-8fd1-11eb-924d-9cd76263cbd0,,77113212-1,wfo-0001040590,8211941,,
+ae9dfdfc-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Noveloa,,"(Novelo & C.Philbrick) C.Philbrick",,2011,,"Syst. Bot. 36(1): 114 2011",,Q55764016,,ae3ca4ae-8fd1-11eb-924d-9cd76263cbd0,,77113213-1,wfo-0001040591,7697791,,

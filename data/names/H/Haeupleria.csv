@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4571704-8fd1-11eb-924d-9cd76263cbd0,genus,Haeupleria,,,,,,,,,,,wfo-4000016701,9786006,
-733cd2b0-8fcd-11eb-924d-9cd76263cbd0,species,cavanillesii,Haeupleria,,"(Trin.) G.H.Loos",2010,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,697728ac-8fcd-11eb-924d-9cd76263cbd0,77106166-1,wfo-0000917890,7577160,
-733d27f6-8fcd-11eb-924d-9cd76263cbd0,species,loeflingiana,Haeupleria,,"(L.) G.H.Loos",2010,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,c897602c-8fcd-11eb-924d-9cd76263cbd0,77106168-1,wfo-0000917892,8334024,
-733d43ee-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Haeupleria,,"(Cav.) G.H.Loos",2010,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,,77106169-1,wfo-0000917893,7475174,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4571704-8fd1-11eb-924d-9cd76263cbd0,genus,Haeupleria,,,,,,,,,,,,,,wfo-4000016701,9786006,,
+733cd2b0-8fcd-11eb-924d-9cd76263cbd0,species,cavanillesii,Haeupleria,,"(Trin.) G.H.Loos",,2010,,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,697728ac-8fcd-11eb-924d-9cd76263cbd0,,77106166-1,wfo-0000917890,7577160,,
+733d27f6-8fcd-11eb-924d-9cd76263cbd0,species,loeflingiana,Haeupleria,,"(L.) G.H.Loos",,2010,,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,c897602c-8fcd-11eb-924d-9cd76263cbd0,,77106168-1,wfo-0000917892,8334024,,
+733d43ee-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Haeupleria,,"(Cav.) G.H.Loos",,2010,,"Jahrb. Bochum. Bot. Vereins 1: 122 2010",,,,,,77106169-1,wfo-0000917893,7475174,,

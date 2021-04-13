@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eacf9980-8fd1-11eb-924d-9cd76263cbd0,genus,Stereosanthus,,,,,,,,,,,wfo-4000036635,7338266,
-203e7d24-8fb5-11eb-924d-9cd76263cbd0,species,delavayi,Stereosanthus,,Franch.,1896,"in Journ. de Bot. 1896, 385.",,,,,251230-1,wfo-0000074195,4243276,
-d2b616b0-8fba-11eb-924d-9cd76263cbd0,species,gynura,Stereosanthus,,"(C.Winkl.) Hand.-Mazz.",1937,"Acta Horti Gothob. 1937-8, xii. 284 (1938)",,,,901eb8c0-8fb5-11eb-924d-9cd76263cbd0,,wfo-0000129636,4243272,
-9bf25cf4-8fb2-11eb-924d-9cd76263cbd0,species,hieraciifolius,Stereosanthus,,Diels,1922,"Repert. Spec. Nov. Regni Veg. Beih. 12: 507 1922",,,,,251232-1,wfo-0000029611,4243266,
-2463b1ee-8fb5-11eb-924d-9cd76263cbd0,species,souliei,Stereosanthus,,Franch.,1896,"in Journ. de Bot. 1896, 385",,,,,251233-1,wfo-0000074402,4243262,
-2adc3b84-8fb2-11eb-924d-9cd76263cbd0,species,yunnanensis,Stereosanthus,,Franch.,1896,"in Journ. de Bot. 1896, 385",,,,,251234-1,wfo-0000014266,4243258,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eacf9980-8fd1-11eb-924d-9cd76263cbd0,genus,Stereosanthus,,,,,,,,,,,,,,wfo-4000036635,7338266,,
+203e7d24-8fb5-11eb-924d-9cd76263cbd0,species,delavayi,Stereosanthus,,Franch.,,1896,,"in Journ. de Bot. 1896, 385.",,,,,,251230-1,wfo-0000074195,4243276,,
+d2b616b0-8fba-11eb-924d-9cd76263cbd0,species,gynura,Stereosanthus,,"(C.Winkl.) Hand.-Mazz.",,1937,,"Acta Horti Gothob. 1937-8, xii. 284 (1938)",,,,901eb8c0-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000129636,4243272,,
+9bf25cf4-8fb2-11eb-924d-9cd76263cbd0,species,hieraciifolius,Stereosanthus,,Diels,,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 507 1922",,,,,,251232-1,wfo-0000029611,4243266,,
+2463b1ee-8fb5-11eb-924d-9cd76263cbd0,species,souliei,Stereosanthus,,Franch.,,1896,,"in Journ. de Bot. 1896, 385",,,,,,251233-1,wfo-0000074402,4243262,,
+2adc3b84-8fb2-11eb-924d-9cd76263cbd0,species,yunnanensis,Stereosanthus,,Franch.,,1896,,"in Journ. de Bot. 1896, 385",,,,,,251234-1,wfo-0000014266,4243258,,

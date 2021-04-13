@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7de374-8fd1-11eb-924d-9cd76263cbd0,genus,Solanocharis,,,Bitter,1918,"W.  ex Sendtn. and W.  ex Sendtn., Fedde, Repert. 15: 153., 1918.",,,,,,wfo-4000035683,2932925,
-a7adff60-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Solanocharis,,"(Britton ex Rusby) Bitter",1918,"(B. R. ) ex Bitter, Repert. Spec. Nov. Regni Veg. 15: 153. 1918., 1918.",,,,a769b58a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001025635,2931017,
-8cc21516-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Solanoides,,"(L.) Moench",1794,"Methodus 307 1794",,,,,676520-1,wfo-0000505708,4192707,
-c52fb9c0-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Solanoides,,Moench,1794,"Meth. 307. 1794.",,,,,,wfo-0001091600,4192699,
-c52fd6d0-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Solanoides,,Moench,1802,"Meth. Suppl. 106. 1802.",,,,,,wfo-0001091601,4192690,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7de374-8fd1-11eb-924d-9cd76263cbd0,genus,Solanocharis,,,Bitter,,1918,,"W.  ex Sendtn. and W.  ex Sendtn., Fedde, Repert. 15: 153., 1918.",,,,,,,wfo-4000035683,2932925,,
+a7adff60-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Solanocharis,,"(Britton ex Rusby) Bitter",,1918,,"(B. R. ) ex Bitter, Repert. Spec. Nov. Regni Veg. 15: 153. 1918., 1918.",,,,a769b58a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001025635,2931017,,
+8cc21516-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Solanoides,,"(L.) Moench",,1794,,"Methodus 307 1794",,,,,,676520-1,wfo-0000505708,4192707,,
+c52fb9c0-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Solanoides,,Moench,,1794,,"Meth. 307. 1794.",,,,,,,wfo-0001091600,4192699,,
+c52fd6d0-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Solanoides,,Moench,,1802,,"Meth. Suppl. 106. 1802.",,,,,,,wfo-0001091601,4192690,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb655876-8fd1-11eb-924d-9cd76263cbd0,genus,Tollatia,,,,,,,,,,,wfo-4000038526,7336444,
-85670430-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Tollatia,,"(DC.) Endl.",1842,1842,,,,,,wfo-0000026930,4214668,
-d0826752-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Tollatia,,"Endl. ex Walp.",,"Repert. Bot. Syst. (Walpers) ii. 631",,,,,255779-1,wfo-0000035174,7688089,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb655876-8fd1-11eb-924d-9cd76263cbd0,genus,Tollatia,,,,,,,,,,,,,,wfo-4000038526,7336444,,
+85670430-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Tollatia,,"(DC.) Endl.",,1842,,1842,,,,,,,wfo-0000026930,4214668,,
+d0826752-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Tollatia,,"Endl. ex Walp.",,,,"Repert. Bot. Syst. (Walpers) ii. 631",,,,,,255779-1,wfo-0000035174,7688089,,

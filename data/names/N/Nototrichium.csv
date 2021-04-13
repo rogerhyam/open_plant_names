@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7648710-8fd1-11eb-924d-9cd76263cbd0,genus,Nototrichium,,,Hillebr.,1888,"Fl. Hawaiian Isl. 372. 1888.",,,,,50060682-1,wfo-4000026353,3084974,
-37e16038-8fcc-11eb-924d-9cd76263cbd0,species,divaricatum,Nototrichium,,Lorence,1996,"Novon 6: 64 1996",,,,,988427-1,wfo-0000379912,3085002,
-37e3404c-8fcc-11eb-924d-9cd76263cbd0,species,fulvum,Nototrichium,,Schinz,1931,"Vierteljahrsschr. Naturf. Ges. Zürich 76: 142 1931",,,,,60964-1,wfo-0000379924,3675352,
-b1089cdc-8fcd-11eb-924d-9cd76263cbd0,species,humile,Nototrichium,,Hillebr.,,,,,,,,wfo-0001045990,3084999,
-b108b7d0-8fcd-11eb-924d-9cd76263cbd0,species,sandwicense,Nototrichium,,Hillebr.,,,,,,,,wfo-0001045991,3084975,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7648710-8fd1-11eb-924d-9cd76263cbd0,genus,Nototrichium,,,Hillebr.,,1888,,"Fl. Hawaiian Isl. 372. 1888.",,,,,,50060682-1,wfo-4000026353,3084974,,
+37e16038-8fcc-11eb-924d-9cd76263cbd0,species,divaricatum,Nototrichium,,Lorence,,1996,,"Novon 6: 64 1996",,Q55774709,,,,988427-1,wfo-0000379912,3085002,,
+37e3404c-8fcc-11eb-924d-9cd76263cbd0,species,fulvum,Nototrichium,,Schinz,,1931,,"Vierteljahrsschr. Naturf. Ges. Zürich 76: 142 1931",,,,,,60964-1,wfo-0000379924,3675352,,
+b1089cdc-8fcd-11eb-924d-9cd76263cbd0,species,humile,Nototrichium,,Hillebr.,,,,,,,,,,,wfo-0001045990,3084999,,
+b108b7d0-8fcd-11eb-924d-9cd76263cbd0,species,sandwicense,Nototrichium,,Hillebr.,,,,,,,,,,,wfo-0001045991,3084975,,

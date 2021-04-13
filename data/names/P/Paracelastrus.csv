@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f0b2da-8fd1-11eb-924d-9cd76263cbd0,genus,Paracelastrus,,,Miq.,1857,"Fl. Ned. Ind. 2(4): 590. 1857.",,,,,,wfo-4000027981,7265709,
-ac52d040-8fcd-11eb-924d-9cd76263cbd0,species,bivalvis,Paracelastrus,,"(Jack) Miq.",1859,"Fl. Ned. Ind. 2: 590 1859",,,,c244b482-8fcc-11eb-924d-9cd76263cbd0,162318-1,wfo-0001035360,3793752,
-433f59ee-8fcc-11eb-924d-9cd76263cbd0,species,densiflorus,Paracelastrus,,"(Wight) F.N.Williams",1905,"Bull. Herb. Boissier II, 5: 224 1905",,,,,162319-1,wfo-0000394818,3793741,
-433edc6c-8fcc-11eb-924d-9cd76263cbd0,species,microcarpus,Paracelastrus,,"(Wight) F.N.Williams",1905,"Bull. Herb. Boissier II, 5: 224 1905",,,,,162320-1,wfo-0000394817,3793730,
-433e90e0-8fcc-11eb-924d-9cd76263cbd0,species,ovalifolius,Paracelastrus,,"(Wight) F.N.Williams",1905,"Bull. Herb. Boissier II, 5: 224 1905",,,,e1f33dbc-8fcc-11eb-924d-9cd76263cbd0,162321-1,wfo-0000394816,3793722,
-433e5b5c-8fcc-11eb-924d-9cd76263cbd0,species,ramiflorus,Paracelastrus,,"(Wight) F.N.Williams",1905,"Bull. Herb. Boissier II, 5: 224 1905",,,,,162322-1,wfo-0000394815,3793710,
-433e3a28-8fcc-11eb-924d-9cd76263cbd0,species,wallichianus,Paracelastrus,,"(Wight ex Thwaites) F.N.Williams",1905,"Bull. Herb. Boissier II, 5: 224 1905",,,,,162323-1,wfo-0000394814,3793700,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f0b2da-8fd1-11eb-924d-9cd76263cbd0,genus,Paracelastrus,,,Miq.,,1857,,"Fl. Ned. Ind. 2(4): 590. 1857.",,,,,,,wfo-4000027981,7265709,,
+ac52d040-8fcd-11eb-924d-9cd76263cbd0,species,bivalvis,Paracelastrus,,"(Jack) Miq.",,1859,,"Fl. Ned. Ind. 2: 590 1859",,,,c244b482-8fcc-11eb-924d-9cd76263cbd0,,162318-1,wfo-0001035360,3793752,,
+433f59ee-8fcc-11eb-924d-9cd76263cbd0,species,densiflorus,Paracelastrus,,"(Wight) F.N.Williams",,1905,,"Bull. Herb. Boissier II, 5: 224 1905",,,,,,162319-1,wfo-0000394818,3793741,,
+433edc6c-8fcc-11eb-924d-9cd76263cbd0,species,microcarpus,Paracelastrus,,"(Wight) F.N.Williams",,1905,,"Bull. Herb. Boissier II, 5: 224 1905",,,,,,162320-1,wfo-0000394817,3793730,,
+433e90e0-8fcc-11eb-924d-9cd76263cbd0,species,ovalifolius,Paracelastrus,,"(Wight) F.N.Williams",,1905,,"Bull. Herb. Boissier II, 5: 224 1905",,,,e1f33dbc-8fcc-11eb-924d-9cd76263cbd0,,162321-1,wfo-0000394816,3793722,,
+433e5b5c-8fcc-11eb-924d-9cd76263cbd0,species,ramiflorus,Paracelastrus,,"(Wight) F.N.Williams",,1905,,"Bull. Herb. Boissier II, 5: 224 1905",,,,,,162322-1,wfo-0000394815,3793710,,
+433e3a28-8fcc-11eb-924d-9cd76263cbd0,species,wallichianus,Paracelastrus,,"(Wight ex Thwaites) F.N.Williams",,1905,,"Bull. Herb. Boissier II, 5: 224 1905",,,,,,162323-1,wfo-0000394814,3793700,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c672ee-8fd1-11eb-924d-9cd76263cbd0,genus,Fornicium,,,,,,,,,,,wfo-4000014944,7337566,
-2b72c488-8fbb-11eb-924d-9cd76263cbd0,species,carthamoides,Fornicium,,"(Willd.) Kamelin",1998,"139 1998",,,,,1016885-1,wfo-0000132258,3125422,
-6f7b22a0-8fb7-11eb-924d-9cd76263cbd0,subspecies,orientale,Fornicium,carthamoides,"(Serg.) Kamelin",1998,"139 1998",,,,,1016886-1,wfo-0000099726,7560908,
-629d76d2-8fb2-11eb-924d-9cd76263cbd0,species,longifolium,Fornicium,,"(Hoffmanns. & Link) Kamelin",1998,"139 1998",,,,,1016883-1,wfo-0000022841,3142252,
-3c86c2dc-8fb2-11eb-924d-9cd76263cbd0,species,lyratum,Fornicium,,"(C.Winkl. ex Iljin) Kamelin",1998,"139 1998",,,,222dbd68-8fb3-11eb-924d-9cd76263cbd0,1016884-1,wfo-0000016838,3142257,
-13cda3e8-8fb6-11eb-924d-9cd76263cbd0,species,rhaponticoides,Fornicium,,"(Graells) Cass.",1819,1819,,,,d93d5594-8fb9-11eb-924d-9cd76263cbd0,,wfo-0000085402,3142190,
-f7e37f38-8fb8-11eb-924d-9cd76263cbd0,species,serratuloides,Fornicium,,"(Georgi) Kamelin",1998,"139 1998",,,,1bf1d41c-8fb2-11eb-924d-9cd76263cbd0,1016882-1,wfo-0000114219,4233246,
-7ab77072-8fb4-11eb-924d-9cd76263cbd0,species,uniflorum,Fornicium,,"(L.) Zuev",2005,"Konspekt Fl. Sibir. Sosud. Rast. 222 2005",,,,,77081227-1,wfo-0000065672,4233242,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c672ee-8fd1-11eb-924d-9cd76263cbd0,genus,Fornicium,,,,,,,,,,,,,,wfo-4000014944,7337566,,
+2b72c488-8fbb-11eb-924d-9cd76263cbd0,species,carthamoides,Fornicium,,"(Willd.) Kamelin",,1998,,"139 1998",,,,,,1016885-1,wfo-0000132258,3125422,,
+6f7b22a0-8fb7-11eb-924d-9cd76263cbd0,subspecies,orientale,Fornicium,carthamoides,"(Serg.) Kamelin",,1998,,"139 1998",,,,,,1016886-1,wfo-0000099726,7560908,,
+629d76d2-8fb2-11eb-924d-9cd76263cbd0,species,longifolium,Fornicium,,"(Hoffmanns. & Link) Kamelin",,1998,,"139 1998",,,,,,1016883-1,wfo-0000022841,3142252,,
+3c86c2dc-8fb2-11eb-924d-9cd76263cbd0,species,lyratum,Fornicium,,"(C.Winkl. ex Iljin) Kamelin",,1998,,"139 1998",,,,222dbd68-8fb3-11eb-924d-9cd76263cbd0,,1016884-1,wfo-0000016838,3142257,,
+13cda3e8-8fb6-11eb-924d-9cd76263cbd0,species,rhaponticoides,Fornicium,,"(Graells) Cass.",,1819,,1819,,,,d93d5594-8fb9-11eb-924d-9cd76263cbd0,,,wfo-0000085402,3142190,,
+f7e37f38-8fb8-11eb-924d-9cd76263cbd0,species,serratuloides,Fornicium,,"(Georgi) Kamelin",,1998,,"139 1998",,,,1bf1d41c-8fb2-11eb-924d-9cd76263cbd0,,1016882-1,wfo-0000114219,4233246,,
+7ab77072-8fb4-11eb-924d-9cd76263cbd0,species,uniflorum,Fornicium,,"(L.) Zuev",,2005,,"Konspekt Fl. Sibir. Sosud. Rast. 222 2005",,,,,,77081227-1,wfo-0000065672,4233242,,

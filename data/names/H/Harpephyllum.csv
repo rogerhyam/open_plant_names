@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46e3146-8fd1-11eb-924d-9cd76263cbd0,genus,Harpephyllum,,,"Bernh. ex C.Krauss",1844,"Flora 27(1): 349. 1844.",,,,,1813-1,wfo-4000016954,3233132,
-b2cd7e3e-8fcd-11eb-924d-9cd76263cbd0,species,caffrum,Harpephyllum,,Bernh.,1844,"Flora 27(1): 349 1844",,,,,,wfo-0001050107,7410371,
-09f22396-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Harpephyllum,,"Sond. ex Walp.",1852,"Ann. Bot. Syst. 2: 227 1852",,,,,69660-1,wfo-0000715801,5544507,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46e3146-8fd1-11eb-924d-9cd76263cbd0,genus,Harpephyllum,,,"Bernh. ex C.Krauss",,1844,,"Flora 27(1): 349. 1844.",,,,,,1813-1,wfo-4000016954,3233132,,
+b2cd7e3e-8fcd-11eb-924d-9cd76263cbd0,species,caffrum,Harpephyllum,,Bernh.,,1844,,"Flora 27(1): 349 1844",,,,,,,wfo-0001050107,7410371,,
+09f22396-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Harpephyllum,,"Sond. ex Walp.",,1852,,"Ann. Bot. Syst. 2: 227 1852",,,,,,69660-1,wfo-0000715801,5544507,,

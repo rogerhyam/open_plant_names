@@ -1,7 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e02cce9e-8fd1-11eb-924d-9cd76263cbd0,genus,Benjaminia,,,"Mart. ex Benj.",1847,"Fl. Bras. 10: 255–256, t. 12, f. 4. 1847. (1 Jun 1847)",,,,,37457-1,wfo-4000004420,3233362,
-af982486-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Benjaminia,,Benj.,1847,"Linnaea 20: 761 1847",,,,,799725-1,wfo-0000562563,7460939,
-af98410a-8fcc-11eb-924d-9cd76263cbd0,species,minor,Benjaminia,,Benj.,1847,"Linnaea 20: 761 1847",,,,,799726-1,wfo-0000562564,8410680,
-af985bb8-8fcc-11eb-924d-9cd76263cbd0,species,reflexa,Benjaminia,,"(Benth.) D'Arcy",1979,"Ann. Missouri Bot. Gard. 66: 194 1979",,,,,31242-2,wfo-0000562565,7951786,
-af98771a-8fcc-11eb-924d-9cd76263cbd0,species,splendens,Benjaminia,,Benj.,1847,"Linnaea 20: 761 1847",,,,,799728-1,wfo-0000562566,7924891,
-af9890e2-8fcc-11eb-924d-9cd76263cbd0,species,utriculariiformis,Benjaminia,,"Mart. ex Benj.",1847,"Fl. Bras. 10: 256 1847",,,,,799729-1,wfo-0000562567,8149954,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e02cce9e-8fd1-11eb-924d-9cd76263cbd0,genus,Benjaminia,,,"Mart. ex Benj.",,1847,,"Fl. Bras. 10: 255–256, t. 12, f. 4. 1847. (1 Jun 1847)",,,,e02cce9e-8fd1-11eb-924d-9cd76263cbd0,,37457-1,wfo-4000004420,3233362,7360," "
+18f1a272-9bad-11eb-a8a2-19ed5c03f8d3,species,aristata,Benjaminia,,"J. Ahmad",,1967,,"Biologia, Lahore 13: 21 (1967)",,,,18f1a272-9bad-11eb-a8a2-19ed5c03f8d3,,,,,326969," "
+af982486-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Benjaminia,,Benj.,,1847,,"Linnaea 20: 761 1847",,,,,,799725-1,wfo-0000562563,7460939,,
+af98410a-8fcc-11eb-924d-9cd76263cbd0,species,minor,Benjaminia,,Benj.,,1847,,"Linnaea 20: 761 1847",,,,,,799726-1,wfo-0000562564,8410680,,
+0a7dc13a-9bad-11eb-a8a2-19ed5c03f8d3,species,poitrasii,Benjaminia,,"(R.K. Benj.) Pidopl. & Milko",,1971,,"Atlas Mukor. Grib. (Kiev) 97 (1971)",,,,1a791f9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309533," "
+af985bb8-8fcc-11eb-924d-9cd76263cbd0,species,reflexa,Benjaminia,,"(Benth.) D'Arcy",,1979,,"Ann. Missouri Bot. Gard. 66: 194 1979",,Q55764977,,,,31242-2,wfo-0000562565,7951786,,
+af98771a-8fcc-11eb-924d-9cd76263cbd0,species,splendens,Benjaminia,,Benj.,,1847,,"Linnaea 20: 761 1847",,,,,,799728-1,wfo-0000562566,7924891,,
+af9890e2-8fcc-11eb-924d-9cd76263cbd0,species,utriculariiformis,Benjaminia,,"Mart. ex Benj.",,1847,,"Fl. Bras. 10: 256 1847",,,,,,799729-1,wfo-0000562567,8149954,,

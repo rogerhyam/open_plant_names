@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1c1c8fe-8fd1-11eb-924d-9cd76263cbd0,genus,Cithareloma,,,Bunge,1843,"Del. Sem. Hort. Bot. Dorpat. 1843: 6. 1843.",,,,,12451-1,wfo-4000008395,3045616,
-cb6b8c8e-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Cithareloma,,Bunge,1844,"Linnaea 18: 150 1844",,,,,281289-1,wfo-0000607674,3692343,
-cb6bad54-8fcc-11eb-924d-9cd76263cbd0,species,gedrosiacum,Cithareloma,,"Rech.f. & Esfand.",1951,"Phyton (Horn) 3: 63 1951",,,,,281290-1,wfo-0000607675,3051184,
-cb6bcc94-8fcc-11eb-924d-9cd76263cbd0,species,lehmannii,Cithareloma,,Bunge,1843,"Cat. Hort. Dorpat 1843: 6 1843",,,,,281291-1,wfo-0000607676,3045618,
-cb6be8aa-8fcc-11eb-924d-9cd76263cbd0,species,registanicum,Cithareloma,,Rech.f.,1968,"in Fl. Iran. 57: 249 1968",,,,,281292-1,wfo-0000607677,3045617,
-cb6c07b8-8fcc-11eb-924d-9cd76263cbd0,species,vernum,Cithareloma,,Bunge,1844,"Linnaea 18: 150 1844",,,,,281293-1,wfo-0000607678,3045619,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1c1c8fe-8fd1-11eb-924d-9cd76263cbd0,genus,Cithareloma,,,Bunge,,1843,,"Del. Sem. Hort. Bot. Dorpat. 1843: 6. 1843.",,,,,,12451-1,wfo-4000008395,3045616,,
+cb6b8c8e-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Cithareloma,,Bunge,,1844,,"Linnaea 18: 150 1844",,,,,,281289-1,wfo-0000607674,3692343,,
+cb6bad54-8fcc-11eb-924d-9cd76263cbd0,species,gedrosiacum,Cithareloma,,"Rech.f. & Esfand.",,1951,,"Phyton (Horn) 3: 63 1951",,,,,,281290-1,wfo-0000607675,3051184,,
+cb6bcc94-8fcc-11eb-924d-9cd76263cbd0,species,lehmannii,Cithareloma,,Bunge,,1843,,"Cat. Hort. Dorpat 1843: 6 1843",,,,,,281291-1,wfo-0000607676,3045618,,
+cb6be8aa-8fcc-11eb-924d-9cd76263cbd0,species,registanicum,Cithareloma,,Rech.f.,,1968,,"in Fl. Iran. 57: 249 1968",,,,,,281292-1,wfo-0000607677,3045617,,
+cb6c07b8-8fcc-11eb-924d-9cd76263cbd0,species,vernum,Cithareloma,,Bunge,,1844,,"Linnaea 18: 150 1844",,,,,,281293-1,wfo-0000607678,3045619,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1dca228-8fd1-11eb-924d-9cd76263cbd0,genus,Cocconerion,,,Baill.,1873,"Adansonia 11: 87. 1873.",,,,,15231-1,wfo-4000008726,3070694,
-6459e26a-8fcd-11eb-924d-9cd76263cbd0,species,balansae,Cocconerion,,Baill.,1873,"Adansonia 11: 88 1873",,,,,341805-1,wfo-0000900569,3070696,
-645c68e6-8fcd-11eb-924d-9cd76263cbd0,species,minus,Cocconerion,,Baill.,1873,"Adansonia 11: 88 1873",,,,,341806-1,wfo-0000900580,3070695,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1dca228-8fd1-11eb-924d-9cd76263cbd0,genus,Cocconerion,,,Baill.,,1873,,"Adansonia 11: 87. 1873.",,,,,,15231-1,wfo-4000008726,3070694,,
+6459e26a-8fcd-11eb-924d-9cd76263cbd0,species,balansae,Cocconerion,,Baill.,,1873,,"Adansonia 11: 88 1873",,,,,,341805-1,wfo-0000900569,3070696,,
+645c68e6-8fcd-11eb-924d-9cd76263cbd0,species,minus,Cocconerion,,Baill.,,1873,,"Adansonia 11: 88 1873",,,,,,341806-1,wfo-0000900580,3070695,,

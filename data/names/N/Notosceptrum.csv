@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7638bc6-8fd1-11eb-924d-9cd76263cbd0,genus,Notosceptrum,,,,,,,,,,,wfo-4000026340,7311008,
-ff20eb8c-8fcc-11eb-924d-9cd76263cbd0,species,alooides,Notosceptrum,,"(Bolus) Benth.",1883,"Gen. Pl. 3: 775 1883",,,,1bf3f056-8fcd-11eb-924d-9cd76263cbd0,538855-1,wfo-0000697450,2778148,
-ff1d55d0-8fcc-11eb-924d-9cd76263cbd0,species,andongense,Notosceptrum,,"(Baker) Benth.",1883,"Gen. Pl. 3: 775 1883",,,,,,wfo-0000697428,2780739,
-ff1c0f40-8fcc-11eb-924d-9cd76263cbd0,species,benguellense,Notosceptrum,,"(Welw. ex Baker) Benth.",1883,"Gen. Pl. 3: 775 1883",,,,,538857-1,wfo-0000697417,2780741,
-feee6644-8fcc-11eb-924d-9cd76263cbd0,species,brachystachyum,Notosceptrum,,Zahlbr.,1900,"Ann. K. K. Naturhist. Hofmus. 15: 15 1900",,,,,538859-1,wfo-0000697082,2780718,
-fec6a64a-8fcc-11eb-924d-9cd76263cbd0,species,natalense,Notosceptrum,,Baker,1896,"Fl. Cap. 6: 285 1896",,,,,538860-1,wfo-0000696816,2780773,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7638bc6-8fd1-11eb-924d-9cd76263cbd0,genus,Notosceptrum,,,,,,,,,,,,,,wfo-4000026340,7311008,,
+ff20eb8c-8fcc-11eb-924d-9cd76263cbd0,species,alooides,Notosceptrum,,"(Bolus) Benth.",,1883,,"Gen. Pl. 3: 775 1883",,,,1bf3f056-8fcd-11eb-924d-9cd76263cbd0,,538855-1,wfo-0000697450,2778148,,
+ff1d55d0-8fcc-11eb-924d-9cd76263cbd0,species,andongense,Notosceptrum,,"(Baker) Benth.",,1883,,"Gen. Pl. 3: 775 1883",,,,,,,wfo-0000697428,2780739,,
+ff1c0f40-8fcc-11eb-924d-9cd76263cbd0,species,benguellense,Notosceptrum,,"(Welw. ex Baker) Benth.",,1883,,"Gen. Pl. 3: 775 1883",,,,,,538857-1,wfo-0000697417,2780741,,
+feee6644-8fcc-11eb-924d-9cd76263cbd0,species,brachystachyum,Notosceptrum,,Zahlbr.,,1900,,"Ann. K. K. Naturhist. Hofmus. 15: 15 1900",,,,,,538859-1,wfo-0000697082,2780718,,
+fec6a64a-8fcc-11eb-924d-9cd76263cbd0,species,natalense,Notosceptrum,,Baker,,1896,,"Fl. Cap. 6: 285 1896",,,,,,538860-1,wfo-0000696816,2780773,,

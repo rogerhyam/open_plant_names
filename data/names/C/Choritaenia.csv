@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1aaa0fc-8fd1-11eb-924d-9cd76263cbd0,genus,Choritaenia,,,Benth.,1867,"Gen. Pl. 1: 907. 1867.",,,,,39816-1,wfo-4000008114,6027175,
-bac6d1b2-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Choritaenia,,"Burtt Davy",1912,"Ann. Transvaal Mus. 3: 121 1912",,,,,840345-1,wfo-0001068246,3639812,
-c8e22b4e-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Choritaenia,,Benth.,,"Hooker's Icon. Pl. 13: 24, t. 1231 1877",,,,,,wfo-0000603432,7649846,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1aaa0fc-8fd1-11eb-924d-9cd76263cbd0,genus,Choritaenia,,,Benth.,,1867,,"Gen. Pl. 1: 907. 1867.",,,,,,39816-1,wfo-4000008114,6027175,,
+bac6d1b2-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Choritaenia,,"Burtt Davy",,1912,,"Ann. Transvaal Mus. 3: 121 1912",,Q100705943,,,,840345-1,wfo-0001068246,3639812,,
+c8e22b4e-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Choritaenia,,Benth.,,,,"Hooker's Icon. Pl. 13: 24, t. 1231 1877",,,,,,,wfo-0000603432,7649846,,

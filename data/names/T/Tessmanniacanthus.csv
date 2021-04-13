@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb2f6004-8fd1-11eb-924d-9cd76263cbd0,genus,Tessmanniacanthus,,,Mildbr.,1926,"Notizbl. Bot. Gart. Berlin–Dahlem 9: 987. 1926.",,,,,297647-2,wfo-4000037839,7263915,
-b04699fc-8fcd-11eb-924d-9cd76263cbd0,species,chlamydocardioides,Tessmanniacanthus,,Mildbr.,1926,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 987 1926",,,,,251553-2,wfo-0001044330,3776210,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb2f6004-8fd1-11eb-924d-9cd76263cbd0,genus,Tessmanniacanthus,,,Mildbr.,,1926,,"Notizbl. Bot. Gart. Berlin–Dahlem 9: 987. 1926.",,Q55777131,,,,297647-2,wfo-4000037839,7263915,,
+b04699fc-8fcd-11eb-924d-9cd76263cbd0,species,chlamydocardioides,Tessmanniacanthus,,Mildbr.,,1926,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 987 1926",,Q55777131,,,,251553-2,wfo-0001044330,3776210,,

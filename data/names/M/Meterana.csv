@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6a13b16-8fd1-11eb-924d-9cd76263cbd0,genus,Meterana,,,Raf.,1838,"Sylva Tellur. 65. 1838.",,,,,,wfo-4000023942,7276342,
-316dfed6-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Meterana,,Raf.,1838,"Sylva Tellur. 66 1838",,,,,352235-1,wfo-0000796886,5615241,
-316e1c4a-8fcd-11eb-924d-9cd76263cbd0,species,castaneifolia,Meterana,,"(L.) Raf.",1828,"Sylva Tellur. 66 1828",,,,,,wfo-0000796887,5377940,
-316e38e2-8fcd-11eb-924d-9cd76263cbd0,species,dimidiata,Meterana,,Raf.,1838,"Sylva Tellur. 66 1838",,,,,352237-1,wfo-0000796888,5378076,
-316e56c4-8fcd-11eb-924d-9cd76263cbd0,species,palustris,Meterana,,"(L.) Raf.",1838,"Sylva Tellur. 66 1838",,,,,352238-1,wfo-0000796889,5377942,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6a13b16-8fd1-11eb-924d-9cd76263cbd0,genus,Meterana,,,Raf.,,1838,,"Sylva Tellur. 65. 1838.",,,,,,,wfo-4000023942,7276342,,
+316dfed6-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Meterana,,Raf.,,1838,,"Sylva Tellur. 66 1838",,,,,,352235-1,wfo-0000796886,5615241,,
+316e1c4a-8fcd-11eb-924d-9cd76263cbd0,species,castaneifolia,Meterana,,"(L.) Raf.",,1828,,"Sylva Tellur. 66 1828",,,,,,,wfo-0000796887,5377940,,
+316e38e2-8fcd-11eb-924d-9cd76263cbd0,species,dimidiata,Meterana,,Raf.,,1838,,"Sylva Tellur. 66 1838",,,,,,352237-1,wfo-0000796888,5378076,,
+316e56c4-8fcd-11eb-924d-9cd76263cbd0,species,palustris,Meterana,,"(L.) Raf.",,1838,,"Sylva Tellur. 66 1838",,,,,,352238-1,wfo-0000796889,5377942,,

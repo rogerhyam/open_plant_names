@@ -1,3 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfe22560-8fd1-11eb-924d-9cd76263cbd0,genus,Astrotheca,,,"Miers ex Vesque",1892,"Epharmosis 3: 16, 80–81. 1892.",,,,,,wfo-4000003499,3231108,
-da377c28-8fd1-11eb-924d-9cd76263cbd0,species,sulphurea,Astrotheca,,"(Poepp. & Endl.) Vesque",1893,"Monogr. Phan. 8: 173 1893",,,,ba4827c8-8fd1-11eb-924d-9cd76263cbd0,427069-1,wfo-0001295686,5555846,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfe22560-8fd1-11eb-924d-9cd76263cbd0,genus,Astrotheca,,,"Miers ex Vesque",,1892,,"Epharmosis 3: 16, 80–81. 1892.",,,,dfe22560-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000003499,3231108,442," "
+a9f3a8f2-9bac-11eb-a8a2-19ed5c03f8d3,species,nigrocornis,Astrotheca,,"I. Hino",,1938,,"Canad. J. Plant Sci. 10: 57 (1938)",,,,a9f3a8f2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431399," "
+da377c28-8fd1-11eb-924d-9cd76263cbd0,species,sulphurea,Astrotheca,,"(Poepp. & Endl.) Vesque",,1893,,"Monogr. Phan. 8: 173 1893",,,,ba4827c8-8fd1-11eb-924d-9cd76263cbd0,,427069-1,wfo-0001295686,5555846,,

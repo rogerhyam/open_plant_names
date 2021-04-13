@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1e1041c-8fd1-11eb-924d-9cd76263cbd0,genus,Codon,,,L.,1767,"Syst. Nat. (ed. 12) 2: 12. 1767. (15-31 Oct 1767)",,,,,19747-1,wfo-4000008775,3230737,
-cef169a0-8fcc-11eb-924d-9cd76263cbd0,species,aculeatum,Codon,,Gaertn.,1790,"Fruct. Sem. Pl. 2: 88 1790",,,,,432020-1,wfo-0000613991,7716150,
-cef184da-8fcc-11eb-924d-9cd76263cbd0,species,luteum,Codon,,"Marloth & Engl.",,,,,,,,wfo-0000613992,7642894,
-cef1a140-8fcc-11eb-924d-9cd76263cbd0,species,royenii,Codon,,L.,1767,"Syst. Nat. ed. 12 2: 292 1767",,,,,432022-1,wfo-0000613993,7782072,
-cef1bb30-8fcc-11eb-924d-9cd76263cbd0,species,schenckii,Codon,,Schinz,1888,"Verh. Bot. Vereins Prov. Brandenburg 30: 173 1888",,,,,432023-1,wfo-0000613994,7856287,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1e1041c-8fd1-11eb-924d-9cd76263cbd0,genus,Codon,,,L.,,1767,,"Syst. Nat. (ed. 12) 2: 12. 1767. (15-31 Oct 1767)",,,,,,19747-1,wfo-4000008775,3230737,,
+cef169a0-8fcc-11eb-924d-9cd76263cbd0,species,aculeatum,Codon,,Gaertn.,,1790,,"Fruct. Sem. Pl. 2: 88 1790",,,,,,432020-1,wfo-0000613991,7716150,,
+cef184da-8fcc-11eb-924d-9cd76263cbd0,species,luteum,Codon,,"Marloth & Engl.",,,,,,,,,,,wfo-0000613992,7642894,,
+cef1a140-8fcc-11eb-924d-9cd76263cbd0,species,royenii,Codon,,L.,,1767,,"Syst. Nat. ed. 12 2: 292 1767",,,,,,432022-1,wfo-0000613993,7782072,,
+cef1bb30-8fcc-11eb-924d-9cd76263cbd0,species,schenckii,Codon,,Schinz,,1888,,"Verh. Bot. Vereins Prov. Brandenburg 30: 173 1888",,,,,,432023-1,wfo-0000613994,7856287,,

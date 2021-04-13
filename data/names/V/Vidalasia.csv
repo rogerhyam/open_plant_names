@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebed9006-8fd1-11eb-924d-9cd76263cbd0,genus,Vidalasia,,,Tirveng.,1998,"Biogeographica 74(4): 164–166, figs. 1–6. 1998.",,,,,1004946-1,wfo-4000040241,2893748,
-1a9e7308-8fcc-11eb-924d-9cd76263cbd0,species,fusca,Vidalasia,,"(Craib) Tirveng.",1998,"Biogeographica (The Hague) 74: 165 1998",,,,,1004948-1,wfo-0000332712,2893751,
-1a9e8fe6-8fcc-11eb-924d-9cd76263cbd0,species,morindifolia,Vidalasia,,"(Elmer) Tirveng.",1998,"Biogeographica (The Hague) 74: 166 1998",,,,8d503cf0-8fcd-11eb-924d-9cd76263cbd0,1004951-1,wfo-0000332713,2893757,
-1a9eac9c-8fcc-11eb-924d-9cd76263cbd0,species,murina,Vidalasia,,"(Craib) Tirveng.",1998,"Biogeographica (The Hague) 74: 165 1998",,,,,1004949-1,wfo-0000332714,2893753,
-1a9ecae2-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Vidalasia,,"(Tirveng. & Sastre) Tirveng.",1998,"Biogeographica (The Hague) 74: 166 1998",,,,8b54757e-8fcd-11eb-924d-9cd76263cbd0,1004950-1,wfo-0000332715,2893749,
-1a9eea72-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Vidalasia,,"(Pit.) Tirveng.",1998,"Biogeographica (The Hague) 74: 165 1998",,,,,1004947-1,wfo-0000332716,2893755,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebed9006-8fd1-11eb-924d-9cd76263cbd0,genus,Vidalasia,,,Tirveng.,,1998,,"Biogeographica 74(4): 164–166, figs. 1–6. 1998.",,,,,,1004946-1,wfo-4000040241,2893748,,
+1a9e7308-8fcc-11eb-924d-9cd76263cbd0,species,fusca,Vidalasia,,"(Craib) Tirveng.",,1998,,"Biogeographica (The Hague) 74: 165 1998",,,,,,1004948-1,wfo-0000332712,2893751,,
+1a9e8fe6-8fcc-11eb-924d-9cd76263cbd0,species,morindifolia,Vidalasia,,"(Elmer) Tirveng.",,1998,,"Biogeographica (The Hague) 74: 166 1998",,,,8d503cf0-8fcd-11eb-924d-9cd76263cbd0,,1004951-1,wfo-0000332713,2893757,,
+1a9eac9c-8fcc-11eb-924d-9cd76263cbd0,species,murina,Vidalasia,,"(Craib) Tirveng.",,1998,,"Biogeographica (The Hague) 74: 165 1998",,,,,,1004949-1,wfo-0000332714,2893753,,
+1a9ecae2-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Vidalasia,,"(Tirveng. & Sastre) Tirveng.",,1998,,"Biogeographica (The Hague) 74: 166 1998",,,,8b54757e-8fcd-11eb-924d-9cd76263cbd0,,1004950-1,wfo-0000332715,2893749,,
+1a9eea72-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Vidalasia,,"(Pit.) Tirveng.",,1998,,"Biogeographica (The Hague) 74: 165 1998",,,,,,1004947-1,wfo-0000332716,2893755,,

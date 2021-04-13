@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec1afafa-8fd1-11eb-924d-9cd76263cbd0,genus,Wurmbaea,,,Steud.,1841,"Nom. ed. 2 2: 789. 1841.",,,,,,wfo-4000040848,4071647,
-bcc934dc-8fcd-11eb-924d-9cd76263cbd0,species,cernua,Wurmbaea,,T.D.Macfarl.,,,,,,,,wfo-0001072890,7729959,
-bcc9516a-8fcd-11eb-924d-9cd76263cbd0,species,dioica,Wurmbaea,,F.Muell.,,,,,,,,wfo-0001072891,7768241,
-bcc96d6c-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Wurmbaea,,Benth.,,,,,,,,wfo-0001072892,7694630,
-bcc9875c-8fcd-11eb-924d-9cd76263cbd0,species,tubulosa,Wurmbaea,,Benth.,,,,,,,,wfo-0001072893,8285585,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec1afafa-8fd1-11eb-924d-9cd76263cbd0,genus,Wurmbaea,,,Steud.,,1841,,"Nom. ed. 2 2: 789. 1841.",,,,,,,wfo-4000040848,4071647,,
+bcc934dc-8fcd-11eb-924d-9cd76263cbd0,species,cernua,Wurmbaea,,T.D.Macfarl.,,,,,,,,,,,wfo-0001072890,7729959,,
+bcc9516a-8fcd-11eb-924d-9cd76263cbd0,species,dioica,Wurmbaea,,F.Muell.,,,,,,,,,,,wfo-0001072891,7768241,,
+bcc96d6c-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Wurmbaea,,Benth.,,,,,,,,,,,wfo-0001072892,7694630,,
+bcc9875c-8fcd-11eb-924d-9cd76263cbd0,species,tubulosa,Wurmbaea,,Benth.,,,,,,,,,,,wfo-0001072893,8285585,,

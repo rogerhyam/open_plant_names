@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e44c75d8-8fd1-11eb-924d-9cd76263cbd0,genus,Gynoglottis,,,J.J.Sm.,1904,"Recueil Trav. Bot. Néerl. 1: 49. 1904.",,,,,29613-1,wfo-4000016583,2820079,
-902823ac-8fcd-11eb-924d-9cd76263cbd0,species,cymbidioides,Gynoglottis,,"(Rchb.f.) J.J.Sm.",1904,"Recueil Trav. Bot. Néerl. 1: 49 1904",,,,6b5757aa-8fcd-11eb-924d-9cd76263cbd0,636650-1,wfo-0000976851,2820080,
-90283dba-8fcd-11eb-924d-9cd76263cbd0,species,palaelabellatum,Gynoglottis,,"(Gilli) Garay & W.Kittr.",1984,"Bot. Mus. Leafl. 30: 97 1984 publ. 1985",,,,af4f024c-8fd1-11eb-924d-9cd76263cbd0,915065-1,wfo-0000976852,2795324,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e44c75d8-8fd1-11eb-924d-9cd76263cbd0,genus,Gynoglottis,,,J.J.Sm.,,1904,,"Recueil Trav. Bot. Néerl. 1: 49. 1904.",,Q100727332,,,,29613-1,wfo-4000016583,2820079,,
+902823ac-8fcd-11eb-924d-9cd76263cbd0,species,cymbidioides,Gynoglottis,,"(Rchb.f.) J.J.Sm.",,1904,,"Recueil Trav. Bot. Néerl. 1: 49 1904",,Q100727332,,6b5757aa-8fcd-11eb-924d-9cd76263cbd0,,636650-1,wfo-0000976851,2820080,,
+90283dba-8fcd-11eb-924d-9cd76263cbd0,species,palaelabellatum,Gynoglottis,,"(Gilli) Garay & W.Kittr.",,1984,,"Bot. Mus. Leafl. 30: 97 1984 publ. 1985",,Q100427399,,af4f024c-8fd1-11eb-924d-9cd76263cbd0,,915065-1,wfo-0000976852,2795324,,

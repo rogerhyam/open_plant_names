@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea5ef27a-8fd1-11eb-924d-9cd76263cbd0,genus,Siderasis,,,Raf.,1836,"Fl. Tellur. 3: 67. 1836[1837].",,,,,7336-1,wfo-4000035312,2764919,
-a913c8c2-8fcc-11eb-924d-9cd76263cbd0,species,acaulis,Siderasis,,Raf.,1837,"Fl. Tellur. 3: 67 1837",,,,,173083-1,wfo-0000553480,2764925,
-a914cf06-8fcc-11eb-924d-9cd76263cbd0,species,fuscata,Siderasis,,"(Lodd.) H.E.Moore",1956,"Baileya 4: 28 1956",,,,c0085606-8fcc-11eb-924d-9cd76263cbd0,236006-2,wfo-0000553483,2764920,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea5ef27a-8fd1-11eb-924d-9cd76263cbd0,genus,Siderasis,,,Raf.,,1836,,"Fl. Tellur. 3: 67. 1836[1837].",,,,,,7336-1,wfo-4000035312,2764919,,
+a913c8c2-8fcc-11eb-924d-9cd76263cbd0,species,acaulis,Siderasis,,Raf.,,1837,,"Fl. Tellur. 3: 67 1837",,,,,,173083-1,wfo-0000553480,2764925,,
+a914cf06-8fcc-11eb-924d-9cd76263cbd0,species,fuscata,Siderasis,,"(Lodd.) H.E.Moore",,1956,,"Baileya 4: 28 1956",,,,c0085606-8fcc-11eb-924d-9cd76263cbd0,,236006-2,wfo-0000553483,2764920,,

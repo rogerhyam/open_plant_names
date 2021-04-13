@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89003b2-8fd1-11eb-924d-9cd76263cbd0,genus,Pipalia,,,Stokes,1812,"Bot. Mater. Med. 4: 456. 1812.",,,,,,wfo-4000029804,7304619,
-752bedc8-8fcc-11eb-924d-9cd76263cbd0,species,solitaria,Pipalia,,Stokes,1812,"Bot. Mat. Med. 4: 456 1812",,,,,468509-1,wfo-0000465993,4181646,
-c2454fa0-8fd1-11eb-924d-9cd76263cbd0,species,dentata,Piparea,,Aubl.,1775,"Hist. Pl. Guiane 2(Suppl.): 31, t. 386 1775",,,,,779914-1,wfo-0001258386,3878707,
-b87e5416-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Piparea,,C.F.Gaertn.,1807,"Suppl. Carp. 231, pl. 224 1807",,,,,779915-1,wfo-0001062987,3878690,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89003b2-8fd1-11eb-924d-9cd76263cbd0,genus,Pipalia,,,Stokes,,1812,,"Bot. Mater. Med. 4: 456. 1812.",,,,,,,wfo-4000029804,7304619,,
+752bedc8-8fcc-11eb-924d-9cd76263cbd0,species,solitaria,Pipalia,,Stokes,,1812,,"Bot. Mat. Med. 4: 456 1812",,,,,,468509-1,wfo-0000465993,4181646,,
+c2454fa0-8fd1-11eb-924d-9cd76263cbd0,species,dentata,Piparea,,Aubl.,,1775,,"Hist. Pl. Guiane 2(Suppl.): 31, t. 386 1775",,,,,,779914-1,wfo-0001258386,3878707,,
+b87e5416-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Piparea,,C.F.Gaertn.,,1807,,"Suppl. Carp. 231, pl. 224 1807",,,,,,779915-1,wfo-0001062987,3878690,,

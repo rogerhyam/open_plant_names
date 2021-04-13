@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ab8c12-8fd1-11eb-924d-9cd76263cbd0,genus,Heteradelphia,,,Lindau,1893,"Bot. Jahrb. Syst. 17: 108. 1893.",,,,,644-1,wfo-4000017662,3769827,
-0cf6d3d4-8fcd-11eb-924d-9cd76263cbd0,species,paulojaegeria,Heteradelphia,,Heine,,"Bull. Inst. Franç. Afrique Noire 23: 1028 1962",,,,,49601-1,wfo-0000721257,3780901,
-0cf72c9e-8fcd-11eb-924d-9cd76263cbd0,species,paulowilhelmia,Heteradelphia,,Lindau,1893,"Bot. Jahrb. Syst. 17: 108 1893",,,,,,wfo-0000721258,3780893,
-66f71d2c-8fcc-11eb-924d-9cd76263cbd0,species,reniformis,Heterandra,,"(Ruiz & Pav.) P.Beauv.",1799,"Trans. Amer. Philos. Soc. 4: 177 1799",,,,,698055-1,wfo-0000441458,5303634,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ab8c12-8fd1-11eb-924d-9cd76263cbd0,genus,Heteradelphia,,,Lindau,,1893,,"Bot. Jahrb. Syst. 17: 108. 1893.",,,,,,644-1,wfo-4000017662,3769827,,
+0cf6d3d4-8fcd-11eb-924d-9cd76263cbd0,species,paulojaegeria,Heteradelphia,,Heine,,,,"Bull. Inst. Franç. Afrique Noire 23: 1028 1962",,,,,,49601-1,wfo-0000721257,3780901,,
+0cf72c9e-8fcd-11eb-924d-9cd76263cbd0,species,paulowilhelmia,Heteradelphia,,Lindau,,1893,,"Bot. Jahrb. Syst. 17: 108 1893",,,,,,,wfo-0000721258,3780893,,
+66f71d2c-8fcc-11eb-924d-9cd76263cbd0,species,reniformis,Heterandra,,"(Ruiz & Pav.) P.Beauv.",,1799,,"Trans. Amer. Philos. Soc. 4: 177 1799",,,,,,698055-1,wfo-0000441458,5303634,,

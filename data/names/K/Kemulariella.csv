@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e556ee22-8fd1-11eb-924d-9cd76263cbd0,genus,Kemulariella,,,Tamamsch.,,,,,,,9573-1,wfo-4000019912,3088209,
-eaabd062-8fb4-11eb-924d-9cd76263cbd0,species,abchasica,Kemulariella,,"(Kem.-Nath.) Tamamsch.",1959,"116 1959",,,,783f745c-8fcd-11eb-924d-9cd76263cbd0,227234-1,wfo-0000071577,3088211,
-3f3fabba-8fb2-11eb-924d-9cd76263cbd0,species,albovii,Kemulariella,,Tamamsch.,1959,1959,,,,,,wfo-0000017319,3088214,
-462fc232-8fb4-11eb-924d-9cd76263cbd0,species,caucasica,Kemulariella,,"(Willd.) Tamansch.",1959,"112 1959",,,,,,wfo-0000062570,3088220,
-f1ac75aa-8fba-11eb-924d-9cd76263cbd0,species,colchica,Kemulariella,,"(Albov) Tamamsch.",1959,"117 1959",,,,,227237-1,wfo-0000130586,3088213,
-44269700-8fb3-11eb-924d-9cd76263cbd0,species,rosea,Kemulariella,,"(Steven) Tamamsch.",1959,"115 1959",,,,,227238-1,wfo-0000045023,3088218,
-0bc80be2-8fb2-11eb-924d-9cd76263cbd0,species,tugana,Kemulariella,,"(Albov) Tamamsch.",1959,"Fl. URSS 25 : 116 (1959)",,,,,,wfo-0000007531,3088210,
-5a2725ca-8fb2-11eb-924d-9cd76263cbd0,species,tuganiana,Kemulariella,,"(Albov) Tamamsch.",1959,"116 1959",,,,,227239-1,wfo-0000021635,3088216,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e556ee22-8fd1-11eb-924d-9cd76263cbd0,genus,Kemulariella,,,Tamamsch.,,,,,,,,,,9573-1,wfo-4000019912,3088209,,
+eaabd062-8fb4-11eb-924d-9cd76263cbd0,species,abchasica,Kemulariella,,"(Kem.-Nath.) Tamamsch.",,1959,,"116 1959",,,,783f745c-8fcd-11eb-924d-9cd76263cbd0,,227234-1,wfo-0000071577,3088211,,
+3f3fabba-8fb2-11eb-924d-9cd76263cbd0,species,albovii,Kemulariella,,Tamamsch.,,1959,,1959,,,,,,,wfo-0000017319,3088214,,
+462fc232-8fb4-11eb-924d-9cd76263cbd0,species,caucasica,Kemulariella,,"(Willd.) Tamansch.",,1959,,"112 1959",,,,,,,wfo-0000062570,3088220,,
+f1ac75aa-8fba-11eb-924d-9cd76263cbd0,species,colchica,Kemulariella,,"(Albov) Tamamsch.",,1959,,"117 1959",,,,,,227237-1,wfo-0000130586,3088213,,
+44269700-8fb3-11eb-924d-9cd76263cbd0,species,rosea,Kemulariella,,"(Steven) Tamamsch.",,1959,,"115 1959",,,,,,227238-1,wfo-0000045023,3088218,,
+0bc80be2-8fb2-11eb-924d-9cd76263cbd0,species,tugana,Kemulariella,,"(Albov) Tamamsch.",,1959,,"Fl. URSS 25 : 116 (1959)",,,,,,,wfo-0000007531,3088210,,
+5a2725ca-8fb2-11eb-924d-9cd76263cbd0,species,tuganiana,Kemulariella,,"(Albov) Tamamsch.",,1959,,"116 1959",,,,,,227239-1,wfo-0000021635,3088216,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e11d5422-8fd1-11eb-924d-9cd76263cbd0,genus,Campestigma,,,"Pierre ex Costantin",1912,"Fl. Indo-Chine 4: 117. 1912.",,,,,3252-1,wfo-4000006399,7312395,
-bc227238-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Campestigma,,Pierre,1912,"Fl. Indo-Chine 4: 118 1912",,,,,95184-1,wfo-0000582942,3578880,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e11d5422-8fd1-11eb-924d-9cd76263cbd0,genus,Campestigma,,,"Pierre ex Costantin",,1912,,"Fl. Indo-Chine 4: 117. 1912.",,,,,,3252-1,wfo-4000006399,7312395,,
+bc227238-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Campestigma,,Pierre,,1912,,"Fl. Indo-Chine 4: 118 1912",,,,,,95184-1,wfo-0000582942,3578880,,

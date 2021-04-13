@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e97006ec-8fd1-11eb-924d-9cd76263cbd0,genus,Rabdosiella,,,Codd,1984,"Bol. Soc. Cub. Orquid. 15(12): 9. 1984.",,,,,,wfo-4000032424,7307340,
-02acb32c-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Rabdosiella,,"(Benth.) Codd",1984,"Bothalia 15: 10 1984",,,,,914520-1,wfo-0000294213,3888452,
-440eaad6-8fcd-11eb-924d-9cd76263cbd0,species,leemannii,Rabdosiella,,N.Hahn,2007,"Bothalia 37: 37 2007",,,,,,wfo-0000836668,3888446,
-02acdf1e-8fcc-11eb-924d-9cd76263cbd0,species,ternifolia,Rabdosiella,,"(D.Don) Codd",1984,"Bothalia 15: 10 1984",,,,,914521-1,wfo-0000294214,3888437,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e97006ec-8fd1-11eb-924d-9cd76263cbd0,genus,Rabdosiella,,,Codd,,1984,,"Bol. Soc. Cub. Orquid. 15(12): 9. 1984.",,,,,,,wfo-4000032424,7307340,,
+02acb32c-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Rabdosiella,,"(Benth.) Codd",,1984,,"Bothalia 15: 10 1984",,Q55792348,,,,914520-1,wfo-0000294213,3888452,,
+440eaad6-8fcd-11eb-924d-9cd76263cbd0,species,leemannii,Rabdosiella,,N.Hahn,,2007,,"Bothalia 37: 37 2007",,,,,,,wfo-0000836668,3888446,,
+02acdf1e-8fcc-11eb-924d-9cd76263cbd0,species,ternifolia,Rabdosiella,,"(D.Don) Codd",,1984,,"Bothalia 15: 10 1984",,Q55792348,,,,914521-1,wfo-0000294214,3888437,,

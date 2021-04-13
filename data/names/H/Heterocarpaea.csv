@@ -1,10 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4acf0d4-8fd1-11eb-924d-9cd76263cbd0,genus,Heterocarpaea,,,,,,,,,,,wfo-4000017682,7302420,
-0cf89b56-8fcd-11eb-924d-9cd76263cbd0,species,texana,Heterocarpaea,,Scheele,1848,"Linnaea 21: 469 1848",,,,,498306-1,wfo-0000721265,3974908,
-555150b4-8fcd-11eb-924d-9cd76263cbd0,species,haareri,Heterocarpha,,"Stapf & C.E.Hubb.",1929,"Bull. Misc. Inform. Kew 1929: 263 1929",,,,,404752-1,wfo-0000874142,4123948,
-55516cde-8fcd-11eb-924d-9cd76263cbd0,species,schiemanniana,Heterocarpha,,Schweick.,1961,"Züchter 21: 192 1961",,,,,404753-1,wfo-0000874143,4123940,
-0cf8d5b2-8fcd-11eb-924d-9cd76263cbd0,species,fernandezianus,Heterocarpus,,Phil.,1856,"Bot. Zeitung (Berlin) 14: 641 1856",,,,,285306-1,wfo-0000721267,5374772,
-671731ca-8fcc-11eb-924d-9cd76263cbd0,species,glaber,Heterocarpus,,Wight,1853,"Icon. Pl. Ind. Orient. 6: 29 1853",,,,,172804-1,wfo-0000441682,5303507,
-67182b0c-8fcc-11eb-924d-9cd76263cbd0,species,hirsutus,Heterocarpus,,Wight,1853,"Icon. Pl. Ind. Orient. 6: 29 1853",,,,,172805-1,wfo-0000441691,5303509,
-67196378-8fcc-11eb-924d-9cd76263cbd0,species,obliquus,Heterocarpus,,"(Vahl) Hassk.",1870,"Commelin. Ind. 7 1870",,,,7b5bc208-8fcd-11eb-924d-9cd76263cbd0,172806-1,wfo-0000441698,5303508,
-671b09ee-8fcc-11eb-924d-9cd76263cbd0,species,oligotrichus,Heterocarpus,,"(Miq.) Hassk.",1870,"Commelin. Ind. 7 1870",,,,,172807-1,wfo-0000441709,5303505,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4acf0d4-8fd1-11eb-924d-9cd76263cbd0,genus,Heterocarpaea,,,,,,,,,,,,,,wfo-4000017682,7302420,,
+0cf89b56-8fcd-11eb-924d-9cd76263cbd0,species,texana,Heterocarpaea,,Scheele,,1848,,"Linnaea 21: 469 1848",,,,,,498306-1,wfo-0000721265,3974908,,
+555150b4-8fcd-11eb-924d-9cd76263cbd0,species,haareri,Heterocarpha,,"Stapf & C.E.Hubb.",,1929,,"Bull. Misc. Inform. Kew 1929: 263 1929",,,,,,404752-1,wfo-0000874142,4123948,,
+55516cde-8fcd-11eb-924d-9cd76263cbd0,species,schiemanniana,Heterocarpha,,Schweick.,,1961,,"Züchter 21: 192 1961",,,,,,404753-1,wfo-0000874143,4123940,,

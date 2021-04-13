@@ -1,9 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eacc1904-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanopholis,,,,,,,,,,,wfo-4000036589,3232165,
-d7bec704-8fb2-11eb-924d-9cd76263cbd0,species,pinnata,Stephanopholis,,"(B.L.Rob.) S.F.Blake",1913,"346 1913",,,,0edc556c-8fb3-11eb-924d-9cd76263cbd0,245120-2,wfo-0000035818,6064841,
-16b4c688-8fcd-11eb-924d-9cd76263cbd0,species,biflorum,Stephanophorum,,"(Curtis) Dulac",1867,"Fl. Hautes-Pyrénées 133 1867",,,,,66874-1,wfo-0000739987,2858903,
-16ba0abc-8fcd-11eb-924d-9cd76263cbd0,species,filiforme,Stephanophorum,,Dulac,1867,"Fl. Hautes-Pyrénées 134 1867",,,,,66875-1,wfo-0000740017,2858927,
-16ba2556-8fcd-11eb-924d-9cd76263cbd0,species,grandiflorus,Stephanophorum,,"(Salisb.) Dulac",1867,"Fl. Hautes-Pyrénées 134 1867",,,,,66876-1,wfo-0000740018,2858365,
-16ba4298-8fcd-11eb-924d-9cd76263cbd0,species,infundibuliformis,Stephanophorum,,Dulac,1867,"Fl. Hautes-Pyrénées 134 1867",,,,,66877-1,wfo-0000740019,2858857,
-16ba5f4e-8fcd-11eb-924d-9cd76263cbd0,species,luteum,Stephanophorum,,Dulac,1867,"Fl. Hautes-Pyrénées 134 1867",,,,,66878-1,wfo-0000740020,2858922,
-16ba7c68-8fcd-11eb-924d-9cd76263cbd0,species,purpuraceum,Stephanophorum,,Dulac,1867,"Fl. Hautes-Pyrénées 133 1867",,,,,66879-1,wfo-0000740021,2858623,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eacc1904-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanopholis,,,,,,,,,,,,,,wfo-4000036589,3232165,,
+d7bec704-8fb2-11eb-924d-9cd76263cbd0,species,pinnata,Stephanopholis,,"(B.L.Rob.) S.F.Blake",,1913,,"346 1913",,,,0edc556c-8fb3-11eb-924d-9cd76263cbd0,,245120-2,wfo-0000035818,6064841,,

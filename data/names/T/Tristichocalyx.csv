@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eba79d62-8fd1-11eb-924d-9cd76263cbd0,genus,Tristichocalyx,,,F.Muell.,1863,"Fragm. 4: 27. 1863.",,,,,,wfo-4000039377,7268673,
-6f8017e6-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Tristichocalyx,,Miers,1871,"Contr. Bot. 3: 286 1871",,,,,581687-1,wfo-0000456520,,
-6f7e81ba-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Tristichocalyx,,F.Muell.,1863,"Fragm. 4: 27 1863",,,,,581688-1,wfo-0000456509,3829655,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eba79d62-8fd1-11eb-924d-9cd76263cbd0,genus,Tristichocalyx,,,F.Muell.,,1863,,"Fragm. 4: 27. 1863.",,,,,,,wfo-4000039377,7268673,,
+6f8017e6-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Tristichocalyx,,Miers,,1871,,"Contr. Bot. 3: 286 1871",,,,,,581687-1,wfo-0000456520,,,
+6f7e81ba-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Tristichocalyx,,F.Muell.,,1863,,"Fragm. 4: 27 1863",,,,,,581688-1,wfo-0000456509,3829655,,

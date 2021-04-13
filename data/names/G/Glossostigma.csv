@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e411b128-8fd1-11eb-924d-9cd76263cbd0,genus,Glossostigma,,,"Wight & Arn.",1836,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 355. 1836.",,,,,331626-2,wfo-4000015818,3170796,
-02b78120-8fcd-11eb-924d-9cd76263cbd0,species,cleistanthum,Glossostigma,,W.R.Barker,1992,"J. Adelaide Bot. Gard. 15: 72 1992",,,,,961487-1,wfo-0000704101,3730174,
-02b7a434-8fcd-11eb-924d-9cd76263cbd0,species,diandrum,Glossostigma,,"(L.) Kuntze",1891,"Revis. Gen. Pl. 2: 461 1891",,,,,803375-1,wfo-0000704102,7393608,
-02b7c036-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Glossostigma,,Benth.,1846,"Prodr. 10: 426 1846",,,,,803376-1,wfo-0000704103,3730152,
-02b7dcec-8fcd-11eb-924d-9cd76263cbd0,species,elatinoides,Glossostigma,,"(Benth.) Hook.f.",1853,"Fl. Nov.-Zel. 1: 189 1853",,,,,803377-1,wfo-0000704104,,
-02b7fb96-8fcd-11eb-924d-9cd76263cbd0,species,spathulatum,Glossostigma,,"(Hook.) Wight & Arn.",1836,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 355 1836",,,,ba7ff9c8-8fd1-11eb-924d-9cd76263cbd0,803378-1,wfo-0000704105,3730129,
-02b8190a-8fcd-11eb-924d-9cd76263cbd0,species,submersum,Glossostigma,,Petrie,1896,"Trans. & Proc. New Zealand Inst. 23: 401 1896 publ. 1897",,,,,803379-1,wfo-0000704106,3730125,
-02b83656-8fcd-11eb-924d-9cd76263cbd0,species,trichodes,Glossostigma,,F.Muell.,1892,"Victoria Naturalist 9: 128 1892",,,,,803380-1,wfo-0000704107,3730116,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e411b128-8fd1-11eb-924d-9cd76263cbd0,genus,Glossostigma,,,"Wight & Arn.",,1836,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 355. 1836.",,,,,,331626-2,wfo-4000015818,3170796,,
+02b78120-8fcd-11eb-924d-9cd76263cbd0,species,cleistanthum,Glossostigma,,W.R.Barker,,1992,,"J. Adelaide Bot. Gard. 15: 72 1992",,Q92901227,,,,961487-1,wfo-0000704101,3730174,,
+02b7a434-8fcd-11eb-924d-9cd76263cbd0,species,diandrum,Glossostigma,,"(L.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 461 1891",,,,,,803375-1,wfo-0000704102,7393608,,
+02b7c036-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Glossostigma,,Benth.,,1846,,"Prodr. 10: 426 1846",,,,,,803376-1,wfo-0000704103,3730152,,
+02b7dcec-8fcd-11eb-924d-9cd76263cbd0,species,elatinoides,Glossostigma,,"(Benth.) Hook.f.",,1853,,"Fl. Nov.-Zel. 1: 189 1853",,,,,,803377-1,wfo-0000704104,,,
+02b7fb96-8fcd-11eb-924d-9cd76263cbd0,species,spathulatum,Glossostigma,,"(Hook.) Wight & Arn.",,1836,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 355 1836",,,,ba7ff9c8-8fd1-11eb-924d-9cd76263cbd0,,803378-1,wfo-0000704105,3730129,,
+02b8190a-8fcd-11eb-924d-9cd76263cbd0,species,submersum,Glossostigma,,Petrie,,1896,,"Trans. & Proc. New Zealand Inst. 23: 401 1896 publ. 1897",,,,,,803379-1,wfo-0000704106,3730125,,
+02b83656-8fcd-11eb-924d-9cd76263cbd0,species,trichodes,Glossostigma,,F.Muell.,,1892,,"Victoria Naturalist 9: 128 1892",,,,,,803380-1,wfo-0000704107,3730116,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e80a4056-8fd1-11eb-924d-9cd76263cbd0,genus,Parsana,,,"Parsa & Maleki in Parsa",1952,"Fl. Iran. Suppl. Ge}n. 548. 1952.",,,,,,wfo-4000028260,7300912,
-7984c5a2-8fcc-11eb-924d-9cd76263cbd0,species,malekiana,Parsana,,"Parsa & Maleki",1952,"Fl. Iran Suppl. Gen.: 548 1952",,,,,854999-1,wfo-0000473133,4102067,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e80a4056-8fd1-11eb-924d-9cd76263cbd0,genus,Parsana,,,"Parsa & Maleki in Parsa",,1952,,"Fl. Iran. Suppl. Ge}n. 548. 1952.",,,,,,,wfo-4000028260,7300912,,
+7984c5a2-8fcc-11eb-924d-9cd76263cbd0,species,malekiana,Parsana,,"Parsa & Maleki",,1952,,"Fl. Iran Suppl. Gen.: 548 1952",,,,,,854999-1,wfo-0000473133,4102067,,

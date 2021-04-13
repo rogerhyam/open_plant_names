@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4c7dbce-8fd1-11eb-924d-9cd76263cbd0,genus,Hochreutinera,,,Krapov.,1970,"Darwiniana 16(1–2): 225–227. 1970.",,,,,297361-2,wfo-4000018013,7279582,
-0e93ef56-8fcd-11eb-924d-9cd76263cbd0,species,amplexifolia,Hochreutinera,,"(DC.) Fryxell",1976,"Brittonia 28: 322 1976",,,,,123209-2,wfo-0000724147,3940132,
-0e940cd4-8fcd-11eb-924d-9cd76263cbd0,species,hassleriana,Hochreutinera,,"(Hochr.) Krapov.",1970,"Darwiniana 16: 227 1970",,,,c98a9fb8-8fcc-11eb-924d-9cd76263cbd0,123210-2,wfo-0000724148,8187845,
-cfd99828-8fb9-11eb-924d-9cd76263cbd0,species,schimperi,Hochstetteria,,DC.,1838,"287 1838",,,,,,wfo-0000121583,5390901,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4c7dbce-8fd1-11eb-924d-9cd76263cbd0,genus,Hochreutinera,,,Krapov.,,1970,,"Darwiniana 16(1–2): 225–227. 1970.",,Q104174722,,,,297361-2,wfo-4000018013,7279582,,
+0e93ef56-8fcd-11eb-924d-9cd76263cbd0,species,amplexifolia,Hochreutinera,,"(DC.) Fryxell",,1976,,"Brittonia 28: 322 1976",,Q55768748,,,,123209-2,wfo-0000724147,3940132,,
+0e940cd4-8fcd-11eb-924d-9cd76263cbd0,species,hassleriana,Hochreutinera,,"(Hochr.) Krapov.",,1970,,"Darwiniana 16: 227 1970",,Q104174722,,c98a9fb8-8fcc-11eb-924d-9cd76263cbd0,,123210-2,wfo-0000724148,8187845,,
+cfd99828-8fb9-11eb-924d-9cd76263cbd0,species,schimperi,Hochstetteria,,DC.,,1838,,"287 1838",,,,,,,wfo-0000121583,5390901,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e147469c-8fd1-11eb-924d-9cd76263cbd0,genus,Cassutha,,,"Des Moul.",1853,"Etudes Cuscutes 66. 1853.",,,,,,wfo-4000006919,7324099,
-b346dd60-8fbe-11eb-924d-9cd76263cbd0,species,americana,Cassutha,,"Des Moul.",1853,"Des Moul. Etud. Org. Cusc. 70 (1853)",,,,,265722-1,wfo-0000155485,3678236,
-c294195a-8fd1-11eb-924d-9cd76263cbd0,species,arabica,Cassutha,,"Des Moul.",1853,"Etud. Organ. Cuscutes 72 1853",,,,,265723-1,wfo-0001258936,3678228,
-b3513b48-8fbe-11eb-924d-9cd76263cbd0,species,chrysocoma,Cassutha,,"Des Moul.",1853,"Des Moul. Etud. Org. Cusc. 71 (1853)",,,,,265724-1,wfo-0000155486,3678222,
-ba8b41f2-8fd1-11eb-924d-9cd76263cbd0,species,suaveolens,Cassutha,,"(Ser.) Des Moul.",1853,"Etud. Organ. Cuscutes 66 1853",,,,db4349b2-8fd1-11eb-924d-9cd76263cbd0,265725-1,wfo-0001243966,3678212,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e147469c-8fd1-11eb-924d-9cd76263cbd0,genus,Cassutha,,,"Des Moul.",,1853,,"Etudes Cuscutes 66. 1853.",,,,,,,wfo-4000006919,7324099,,
+b346dd60-8fbe-11eb-924d-9cd76263cbd0,species,americana,Cassutha,,"Des Moul.",,1853,,"Des Moul. Etud. Org. Cusc. 70 (1853)",,,,,,265722-1,wfo-0000155485,3678236,,
+c294195a-8fd1-11eb-924d-9cd76263cbd0,species,arabica,Cassutha,,"Des Moul.",,1853,,"Etud. Organ. Cuscutes 72 1853",,,,,,265723-1,wfo-0001258936,3678228,,
+b3513b48-8fbe-11eb-924d-9cd76263cbd0,species,chrysocoma,Cassutha,,"Des Moul.",,1853,,"Des Moul. Etud. Org. Cusc. 71 (1853)",,,,,,265724-1,wfo-0000155486,3678222,,
+ba8b41f2-8fd1-11eb-924d-9cd76263cbd0,species,suaveolens,Cassutha,,"(Ser.) Des Moul.",,1853,,"Etud. Organ. Cuscutes 66 1853",,,,db4349b2-8fd1-11eb-924d-9cd76263cbd0,,265725-1,wfo-0001243966,3678212,,

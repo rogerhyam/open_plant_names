@@ -1,11 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a60906-8fd1-11eb-924d-9cd76263cbd0,genus,Diandrolyra,,,Stapf,1906,"Bull. Misc. Inform. Kew 1906: 204. 1906.",,,,,17889-1,wfo-4000011305,4136043,
-5078d490-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Diandrolyra,,Stapf,1906,"Bull. Misc. Inform. Kew 1906: 204 1906",,,,,398443-1,wfo-0000863318,4136066,
-72fd8a1a-8fcd-11eb-924d-9cd76263cbd0,species,pygmaea,Diandrolyra,,"Soderstr. & Zuloaga ex R.P.Oliveira & L.G.Clark",2009,"Novon 19: 211 2009",,,,,,wfo-0000917510,8295357,
-5078f0ce-8fcd-11eb-924d-9cd76263cbd0,species,tatianae,Diandrolyra,,"Soderstr. & Zuloaga",1985,"Brittonia 37: 2 1985",,,,,275798-2,wfo-0000863319,4136042,
-50790f28-8fcd-11eb-924d-9cd76263cbd0,species,chevalieri,Diandrostachya,,"(Stapf) Jacq.-Fél.",1960,"J. Agric. Trop. Bot. Appl. 7: 408 1960",,,,,398444-1,wfo-0000863320,4136028,
-50792c88-8fcd-11eb-924d-9cd76263cbd0,species,chrysothrix,Diandrostachya,,"(Nees) Jacq.-Fél.",1960,"J. Agric. Trop. Bot. Appl. 7: 408 1960",,,,69d1ee72-8fcd-11eb-924d-9cd76263cbd0,398445-1,wfo-0000863321,8889507,
-5079498e-8fcd-11eb-924d-9cd76263cbd0,species,fulva,Diandrostachya,,"(C.E.Hubb.) Jacq.-Fél.",1960,"J. Agric. Trop. Bot. Appl. 7: 408 1960",,,,69d37a6c-8fcd-11eb-924d-9cd76263cbd0,398446-1,wfo-0000863322,4136009,
-507966a8-8fcd-11eb-924d-9cd76263cbd0,species,glabrinodis,Diandrostachya,,"(C.E.Hubb.) J.B.Phipps",1967,"Bol. Soc. Brot. II, 41: 202 1967",,,,69d3bc2a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000863323,4136001,
-50798386-8fcd-11eb-924d-9cd76263cbd0,species,kerstingii,Diandrostachya,,"(Pilg.) Jacq.-Fél.",1960,"J. Agric. Trop. Bot. Appl. 7: 408 1960",,,,,398448-1,wfo-0000863324,4135992,
-50799fa6-8fcd-11eb-924d-9cd76263cbd0,species,scaettae,Diandrostachya,,"(A.Camus) J.B.Phipps",1967,"Bol. Soc. Brot. II, 41: 202 1967",,,,69db60a6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000863325,4135986,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a60906-8fd1-11eb-924d-9cd76263cbd0,genus,Diandrolyra,,,Stapf,,1906,,"Bull. Misc. Inform. Kew 1906: 204. 1906.",,Q55782170,,,,17889-1,wfo-4000011305,4136043,,
+5078d490-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Diandrolyra,,Stapf,,1906,,"Bull. Misc. Inform. Kew 1906: 204 1906",,Q55782170,,,,398443-1,wfo-0000863318,4136066,,
+72fd8a1a-8fcd-11eb-924d-9cd76263cbd0,species,pygmaea,Diandrolyra,,"Soderstr. & Zuloaga ex R.P.Oliveira & L.G.Clark",,2009,,"Novon 19: 211 2009",,,,,,,wfo-0000917510,8295357,,
+5078f0ce-8fcd-11eb-924d-9cd76263cbd0,species,tatianae,Diandrolyra,,"Soderstr. & Zuloaga",,1985,,"Brittonia 37: 2 1985",,Q55769487,,,,275798-2,wfo-0000863319,4136042,,

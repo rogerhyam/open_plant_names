@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2669a78-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphosperma,,,"H.Wendl. ex Hook.f.",1883,"Gen. Pl. 3: 895. 1883.",,,,,31194-1,wfo-4000010473,2736055,
-7ccdd108-8fcd-11eb-924d-9cd76263cbd0,species,balansae,Cyphosperma,,"(Brongn.) H.Wendl. ex Salomon",1887,"Palmen 87 1887",,,,,,wfo-0000935116,2736057,
-7ccdeeea-8fcd-11eb-924d-9cd76263cbd0,species,tanga,Cyphosperma,,"(H.E.Moore) H.E.Moore",1977,"Principes 21: 88 1977",,,,1415c6d0-8fcc-11eb-924d-9cd76263cbd0,666394-1,wfo-0000935117,2736061,
-7cce095c-8fcd-11eb-924d-9cd76263cbd0,species,tete,Cyphosperma,,Becc.,1910,"Webbia 3: 137 1910",,,,,666395-1,wfo-0000935118,9697791,
-7cce23ec-8fcd-11eb-924d-9cd76263cbd0,species,thurstonii,Cyphosperma,,Becc.,1914,"Webbia 4: 272 1914",,,,,666396-1,wfo-0000935119,2736151,
-7cce47aa-8fcd-11eb-924d-9cd76263cbd0,species,trichospadix,Cyphosperma,,"(Burret) H.E.Moore",1977,"Principes 21: 88 1977",,,,1415e2be-8fcc-11eb-924d-9cd76263cbd0,666397-1,wfo-0000935120,2736059,
-7cce61ae-8fcd-11eb-924d-9cd76263cbd0,species,vieillardii,Cyphosperma,,"(Brongn. & Gris) H.Wendl. ex Salomon",1887,"Palmen 87 1887",,,,,,wfo-0000935121,2732656,
-7cce7db0-8fcd-11eb-924d-9cd76263cbd0,species,voutmelense,Cyphosperma,,Dowe,1993,"Principes 37: 209 1993",,,,,974845-1,wfo-0000935122,2736056,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2669a78-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphosperma,,,"H.Wendl. ex Hook.f.",,1883,,"Gen. Pl. 3: 895. 1883.",,,,,,31194-1,wfo-4000010473,2736055,,
+7ccdd108-8fcd-11eb-924d-9cd76263cbd0,species,balansae,Cyphosperma,,"(Brongn.) H.Wendl. ex Salomon",,1887,,"Palmen 87 1887",,,,,,,wfo-0000935116,2736057,,
+7ccdeeea-8fcd-11eb-924d-9cd76263cbd0,species,tanga,Cyphosperma,,"(H.E.Moore) H.E.Moore",,1977,,"Principes 21: 88 1977",,,,1415c6d0-8fcc-11eb-924d-9cd76263cbd0,,666394-1,wfo-0000935117,2736061,,
+7cce095c-8fcd-11eb-924d-9cd76263cbd0,species,tete,Cyphosperma,,Becc.,,1910,,"Webbia 3: 137 1910",,Q55757885,,,,666395-1,wfo-0000935118,9697791,,
+7cce23ec-8fcd-11eb-924d-9cd76263cbd0,species,thurstonii,Cyphosperma,,Becc.,,1914,,"Webbia 4: 272 1914",,Q55757896,,,,666396-1,wfo-0000935119,2736151,,
+7cce47aa-8fcd-11eb-924d-9cd76263cbd0,species,trichospadix,Cyphosperma,,"(Burret) H.E.Moore",,1977,,"Principes 21: 88 1977",,,,1415e2be-8fcc-11eb-924d-9cd76263cbd0,,666397-1,wfo-0000935120,2736059,,
+7cce61ae-8fcd-11eb-924d-9cd76263cbd0,species,vieillardii,Cyphosperma,,"(Brongn. & Gris) H.Wendl. ex Salomon",,1887,,"Palmen 87 1887",,,,,,,wfo-0000935121,2732656,,
+7cce7db0-8fcd-11eb-924d-9cd76263cbd0,species,voutmelense,Cyphosperma,,Dowe,,1993,,"Principes 37: 209 1993",,,,,,974845-1,wfo-0000935122,2736056,,

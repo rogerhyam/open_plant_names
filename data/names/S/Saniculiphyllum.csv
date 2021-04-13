@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ecc178-8fd1-11eb-924d-9cd76263cbd0,genus,Saniculiphyllum,,,"C.Y.Wu & T.C.Ku",1992,"Acta Phytotax. Sin. 30(3): 194. 1992.",,,,,956954-1,wfo-4000033944,7339463,
-b7382c04-8fd1-11eb-924d-9cd76263cbd0,species,guangxiense,Saniculiphyllum,,"C.Y.Wu & T.C.Ku",1992,"Acta Phytotax. Sin. 30(3): 194–196, pl. 1 1992",,,,,961397-1,wfo-0001237851,3754441,
-da590280-8fd1-11eb-924d-9cd76263cbd0,species,cumulicola,Sanidophyllum,,Small,1924,"Bull. Torrey Bot. Club 51(9): 391 1924",,,,,227077-2,wfo-0001295917,5421078,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ecc178-8fd1-11eb-924d-9cd76263cbd0,genus,Saniculiphyllum,,,"C.Y.Wu & T.C.Ku",,1992,,"Acta Phytotax. Sin. 30(3): 194. 1992.",,,,,,956954-1,wfo-4000033944,7339463,,
+b7382c04-8fd1-11eb-924d-9cd76263cbd0,species,guangxiense,Saniculiphyllum,,"C.Y.Wu & T.C.Ku",,1992,,"Acta Phytotax. Sin. 30(3): 194–196, pl. 1 1992",,,,,,961397-1,wfo-0001237851,3754441,,
+da590280-8fd1-11eb-924d-9cd76263cbd0,species,cumulicola,Sanidophyllum,,Small,,1924,,"Bull. Torrey Bot. Club 51(9): 391 1924",,Q55767225,,,,227077-2,wfo-0001295917,5421078,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53ed148-8fd1-11eb-924d-9cd76263cbd0,genus,Johanneshowellia,,,Reveal,2004,"Brittonia 56(4): 299. 2004.",,,,,60436790-2,wfo-4000019582,6391296,
-c9553b66-8fd1-11eb-924d-9cd76263cbd0,species,crateriorum,Johanneshowellia,,Reveal,2004,"Brittonia 56(4): 304–306, f. 2 2004",,,,,60436794-2,wfo-0001271375,4034931,
-c955150a-8fd1-11eb-924d-9cd76263cbd0,species,puberula,Johanneshowellia,,"(S.Watson) Reveal",2004,"Brittonia 56(4): 302 2004",,,,,60436793-2,wfo-0001271374,4034922,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53ed148-8fd1-11eb-924d-9cd76263cbd0,genus,Johanneshowellia,,,Reveal,,2004,,"Brittonia 56(4): 299. 2004.",,Q54792272,,,,60436790-2,wfo-4000019582,6391296,,
+c9553b66-8fd1-11eb-924d-9cd76263cbd0,species,crateriorum,Johanneshowellia,,Reveal,,2004,,"Brittonia 56(4): 304–306, f. 2 2004",,Q54792272,,,,60436794-2,wfo-0001271375,4034931,,
+c955150a-8fd1-11eb-924d-9cd76263cbd0,species,puberula,Johanneshowellia,,"(S.Watson) Reveal",,2004,,"Brittonia 56(4): 302 2004",,Q54792272,,,,60436793-2,wfo-0001271374,4034922,,

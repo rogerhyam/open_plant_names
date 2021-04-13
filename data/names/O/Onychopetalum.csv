@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e792300c-8fd1-11eb-924d-9cd76263cbd0,genus,Onychopetalum,,,R.E.Fr.,1931,"Acta Horti Berg. 10: 148, f. 2. 1931.",,,,,298320-2,wfo-4000026901,3156514,
-3c7d10b0-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Onychopetalum,,R.E.Fr.,1931,"Acta Horti Berg. 10: 149 1931",,,,,174514-2,wfo-0000385584,3156515,
-b9aaff74-8fcd-11eb-924d-9cd76263cbd0,species,krukoffii,Onychopetalum,,R.E.Fr.,1937,"Acta Horti Berg. 12(2): 268–269, Taf. 6 1937",,,,,174515-2,wfo-0001065662,3156518,
-b9ab1f4a-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Onychopetalum,,R.E.Fr.,1937,"Acta Horti Berg. 12(2): 266–268, f. 8 1937",,,,,174516-2,wfo-0001065663,3156516,
-b9ab407e-8fcd-11eb-924d-9cd76263cbd0,species,lucidum,Onychopetalum,,R.E.Fr.,1937,"Acta Horti Berg. 12(2): 281–282, f. 10k 1937",,,,,174517-2,wfo-0001065664,3156520,
-c4c106ac-8fd1-11eb-924d-9cd76263cbd0,species,periquino,Onychopetalum,,"(Rusby) D.M.Johnson & N.A.Murray",1995,"Brittonia 47(3): 290 1995",,,,ba67b368-8fd1-11eb-924d-9cd76263cbd0,985076-1,wfo-0001262817,3156517,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e792300c-8fd1-11eb-924d-9cd76263cbd0,genus,Onychopetalum,,,R.E.Fr.,,1931,,"Acta Horti Berg. 10: 148, f. 2. 1931.",,,,,,298320-2,wfo-4000026901,3156514,,
+3c7d10b0-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Onychopetalum,,R.E.Fr.,,1931,,"Acta Horti Berg. 10: 149 1931",,,,,,174514-2,wfo-0000385584,3156515,,
+b9aaff74-8fcd-11eb-924d-9cd76263cbd0,species,krukoffii,Onychopetalum,,R.E.Fr.,,1937,,"Acta Horti Berg. 12(2): 268–269, Taf. 6 1937",,,,,,174515-2,wfo-0001065662,3156518,,
+b9ab1f4a-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Onychopetalum,,R.E.Fr.,,1937,,"Acta Horti Berg. 12(2): 266–268, f. 8 1937",,,,,,174516-2,wfo-0001065663,3156516,,
+b9ab407e-8fcd-11eb-924d-9cd76263cbd0,species,lucidum,Onychopetalum,,R.E.Fr.,,1937,,"Acta Horti Berg. 12(2): 281–282, f. 10k 1937",,,,,,174517-2,wfo-0001065664,3156520,,
+c4c106ac-8fd1-11eb-924d-9cd76263cbd0,species,periquino,Onychopetalum,,"(Rusby) D.M.Johnson & N.A.Murray",,1995,,"Brittonia 47(3): 290 1995",,Q54783775,,ba67b368-8fd1-11eb-924d-9cd76263cbd0,,985076-1,wfo-0001262817,3156517,,

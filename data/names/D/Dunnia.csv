@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e317e544-8fd1-11eb-924d-9cd76263cbd0,genus,Dunnia,,,Tutcher,1905,"J. Linn. Soc., Bot. 37(258): 69–70. 1905.",,,,,34525-1,wfo-4000012746,2903801,
-8204a142-8fcd-11eb-924d-9cd76263cbd0,species,assamica,Dunnia,,"(Hook.f.) Ridsdale",1978,"Blumea 24: 368 1978",,,,,748649-1,wfo-0000946796,2907328,
-8204bfc4-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Dunnia,,Tutcher,1905,"J. Linn. Soc., Bot. 37: 70 1905",,,,,,wfo-0000946797,2903802,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e317e544-8fd1-11eb-924d-9cd76263cbd0,genus,Dunnia,,,Tutcher,,1905,,"J. Linn. Soc., Bot. 37(258): 69–70. 1905.",,Q55760439,,,,34525-1,wfo-4000012746,2903801,,
+8204a142-8fcd-11eb-924d-9cd76263cbd0,species,assamica,Dunnia,,"(Hook.f.) Ridsdale",,1978,,"Blumea 24: 368 1978",,Q96027386,,,,748649-1,wfo-0000946796,2907328,,
+8204bfc4-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Dunnia,,Tutcher,,1905,,"J. Linn. Soc., Bot. 37: 70 1905",,,,,,,wfo-0000946797,2903802,,

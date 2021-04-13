@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a8ce06-8fd1-11eb-924d-9cd76263cbd0,genus,Fadenia,,,"Aellen & C.C.Towns.",1972,"Kew Bull. 27: 501. 1972. (15 Dec 1972)",,,,,6848-1,wfo-4000014533,3231891,
-f7e7cf98-8fcc-11eb-924d-9cd76263cbd0,species,zygophylloides,Fadenia,,"Aellen & C.C.Towns.",1972,"Kew Bull. 27: 501 1972",,,,,165606-1,wfo-0000684592,5568052,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a8ce06-8fd1-11eb-924d-9cd76263cbd0,genus,Fadenia,,,"Aellen & C.C.Towns.",,1972,,"Kew Bull. 27: 501. 1972. (15 Dec 1972)",,Q55783362,,,,6848-1,wfo-4000014533,3231891,,
+f7e7cf98-8fcc-11eb-924d-9cd76263cbd0,species,zygophylloides,Fadenia,,"Aellen & C.C.Towns.",,1972,,"Kew Bull. 27: 501 1972",,Q55783362,,,,165606-1,wfo-0000684592,5568052,,

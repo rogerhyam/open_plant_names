@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e58f3f02-8fd1-11eb-924d-9cd76263cbd0,genus,Lapageria,,,"Ruiz & Pav.",1802,"Fl. Peruv. 3: 64. 1802.",,,,,24417-1,wfo-4000020576,2781164,
-f8896d30-8fcc-11eb-924d-9cd76263cbd0,species,alba,Lapageria,,Decne.,1852,"Rev. Hort. IV, 1: 441 1852",,,,,537286-1,wfo-0000685752,2781170,
-f87e5bde-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Lapageria,,"Bridges ex Hook.",1834,"J. Bot. (Hooker) 1: 178 1834",,,,,537287-1,wfo-0000685665,2781166,
-f887159e-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Lapageria,,"Ruiz & Pav.",1802,"Fl. Peruv. 3: 65 1802",,,,,537288-1,wfo-0000685734,2781165,
-1cb77ea4-8fcd-11eb-924d-9cd76263cbd0,variety,albiflora,Lapageria,rosea,Hook.,,"Bot. Mag. 82: t. 4892 1856",,,,,135377-2,wfo-0000752633,2781167,
-1cb6973c-8fcd-11eb-924d-9cd76263cbd0,variety,rubra,Lapageria,rosea,Schelle,1903,"Handb. Laubholzben. 7 1903",,,,,135378-2,wfo-0000752625,2781168,
-24c1ff5c-8fcd-11eb-924d-9cd76263cbd0,species,lapaixii,,,"(Radl) Guillaumin",,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,1f5be6fe-8fcd-11eb-924d-9cd76263cbd0,535865-1,wfo-0000769074,,
-24aa4312-8fcd-11eb-924d-9cd76263cbd0,species,lapaixii,,,"(Radl) Guillaumin",1931,"Bull. Mus. Natl. Hist. Nat. II, 3: 339 1931",,,,1f5be6fe-8fcd-11eb-924d-9cd76263cbd0,535726-1,wfo-0000768905,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e58f3f02-8fd1-11eb-924d-9cd76263cbd0,genus,Lapageria,,,"Ruiz & Pav.",,1802,,"Fl. Peruv. 3: 64. 1802.",,,,,,24417-1,wfo-4000020576,2781164,,
+f8896d30-8fcc-11eb-924d-9cd76263cbd0,species,alba,Lapageria,,Decne.,,1852,,"Rev. Hort. IV, 1: 441 1852",,,,,,537286-1,wfo-0000685752,2781170,,
+f87e5bde-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Lapageria,,"Bridges ex Hook.",,1834,,"J. Bot. (Hooker) 1: 178 1834",,,,,,537287-1,wfo-0000685665,2781166,,
+f887159e-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Lapageria,,"Ruiz & Pav.",,1802,,"Fl. Peruv. 3: 65 1802",,,,,,537288-1,wfo-0000685734,2781165,,
+1cb77ea4-8fcd-11eb-924d-9cd76263cbd0,variety,albiflora,Lapageria,rosea,Hook.,,,,"Bot. Mag. 82: t. 4892 1856",,,,,,135377-2,wfo-0000752633,2781167,,
+1cb6973c-8fcd-11eb-924d-9cd76263cbd0,variety,rubra,Lapageria,rosea,Schelle,,1903,,"Handb. Laubholzben. 7 1903",,,,,,135378-2,wfo-0000752625,2781168,,
+24c1ff5c-8fcd-11eb-924d-9cd76263cbd0,species,lapaixii,,,"(Radl) Guillaumin",,,,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,1f5be6fe-8fcd-11eb-924d-9cd76263cbd0,,535865-1,wfo-0000769074,,,
+24aa4312-8fcd-11eb-924d-9cd76263cbd0,species,lapaixii,,,"(Radl) Guillaumin",,1931,,"Bull. Mus. Natl. Hist. Nat. II, 3: 339 1931",,,,1f5be6fe-8fcd-11eb-924d-9cd76263cbd0,,535726-1,wfo-0000768905,,,

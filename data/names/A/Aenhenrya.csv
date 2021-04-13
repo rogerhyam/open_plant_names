@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deeb5488-8fd1-11eb-924d-9cd76263cbd0,genus,Aenhenrya,,,Gopalan,1993,"J. Bombay Nat. Hist. Soc. 90(2): 270. 1993[1994].",,,,,980092-1,wfo-4000000774,2833179,
-406d2182-8fcd-11eb-924d-9cd76263cbd0,species,agastyamalayana,Aenhenrya,,Gopalan,1993,"J. Bombay Nat. Hist. Soc. 90: 271 1993 publ. 1994",,,,,980093-1,wfo-0000828709,2833182,
-407876a4-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolia,Aenhenrya,,"(Blatt.) Sath.Kumar & F.N.Rasm.",1997,"Novon 7: 81 1997",,,,,994882-1,wfo-0000828814,2833180,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deeb5488-8fd1-11eb-924d-9cd76263cbd0,genus,Aenhenrya,,,Gopalan,,1993,,"J. Bombay Nat. Hist. Soc. 90(2): 270. 1993[1994].",,,,,,980092-1,wfo-4000000774,2833179,,
+406d2182-8fcd-11eb-924d-9cd76263cbd0,species,agastyamalayana,Aenhenrya,,Gopalan,,1993,,"J. Bombay Nat. Hist. Soc. 90: 271 1993 publ. 1994",,,,,,980093-1,wfo-0000828709,2833182,,
+407876a4-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolia,Aenhenrya,,"(Blatt.) Sath.Kumar & F.N.Rasm.",,1997,,"Novon 7: 81 1997",,Q55774496,,,,994882-1,wfo-0000828814,2833180,,

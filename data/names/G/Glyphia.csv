@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e414cbba-8fd1-11eb-924d-9cd76263cbd0,genus,Glyphia,,,,,,,,,,,wfo-4000015859,3146170,
-fe1f1be4-8fba-11eb-924d-9cd76263cbd0,species,brevis,Glyphia,,"(Spreng.) Monach.",,,,,,bd5c1852-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000130961,8047994,
-7d27c742-8fbb-11eb-924d-9cd76263cbd0,species,lucida,Glyphia,,Cass.,1818,"141 1818",,,,,209032-1,wfo-0000134623,3119688,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e414cbba-8fd1-11eb-924d-9cd76263cbd0,genus,Glyphia,,,,,,,,,,,,,,wfo-4000015859,3146170,,
+fe1f1be4-8fba-11eb-924d-9cd76263cbd0,species,brevis,Glyphia,,"(Spreng.) Monach.",,,,,,,,bd5c1852-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000130961,8047994,,
+7d27c742-8fbb-11eb-924d-9cd76263cbd0,species,lucida,Glyphia,,Cass.,,1818,,"141 1818",,,,,,209032-1,wfo-0000134623,3119688,,

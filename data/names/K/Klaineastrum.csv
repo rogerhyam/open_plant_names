@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5628fb6-8fd1-11eb-924d-9cd76263cbd0,genus,Klaineastrum,,,"Pierre ex A.Chev.",1917,"Vég. Util. Afr. Trop. Franç. 9: 215. 1917.",,,,,,wfo-4000020057,7273216,
-c1439340-8fcd-11eb-924d-9cd76263cbd0,species,gabonense,Klaineastrum,,"Peirre ex A.Chev.",1917,"Veget. UIt. Afr. Trop. 9: 215 1917",,,,,569245-1,wfo-0001082975,,
-657ce8e4-8fbf-11eb-924d-9cd76263cbd0,species,pulcherrimum,Klaineastrum,,"Pierre ex A.Chev.",1917,"V ix. 215 (1917), in obs.",,,,,569246-1,wfo-0000159718,3870300,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5628fb6-8fd1-11eb-924d-9cd76263cbd0,genus,Klaineastrum,,,"Pierre ex A.Chev.",,1917,,"Vég. Util. Afr. Trop. Franç. 9: 215. 1917.",,,,,,,wfo-4000020057,7273216,,
+c1439340-8fcd-11eb-924d-9cd76263cbd0,species,gabonense,Klaineastrum,,"Peirre ex A.Chev.",,1917,,"Veget. UIt. Afr. Trop. 9: 215 1917",,,,,,569245-1,wfo-0001082975,,,
+657ce8e4-8fbf-11eb-924d-9cd76263cbd0,species,pulcherrimum,Klaineastrum,,"Pierre ex A.Chev.",,1917,,"V ix. 215 (1917), in obs.",,,,,,569246-1,wfo-0000159718,3870300,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb002320-8fd1-11eb-924d-9cd76263cbd0,genus,Symphysicarpus,,,,,,,,,,,wfo-4000037223,7311771,
-5ff72dd2-8fcc-11eb-924d-9cd76263cbd0,species,chrysanthus,Symphysicarpus,,Hassk.,1857,"Flora 40: 102 1857",,,,,102063-1,wfo-0000431234,3571989,
-bc68ea64-8fcd-11eb-924d-9cd76263cbd0,species,cubensis,Symphysodaphne,,A.Rich.,1850,"Hist. Fís. Cuba, Bot. 2(11): 190 1850",,,,,468668-1,wfo-0001072011,4177697,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb002320-8fd1-11eb-924d-9cd76263cbd0,genus,Symphysicarpus,,,,,,,,,,,,,,wfo-4000037223,7311771,,
+5ff72dd2-8fcc-11eb-924d-9cd76263cbd0,species,chrysanthus,Symphysicarpus,,Hassk.,,1857,,"Flora 40: 102 1857",,,,,,102063-1,wfo-0000431234,3571989,,
+bc68ea64-8fcd-11eb-924d-9cd76263cbd0,species,cubensis,Symphysodaphne,,A.Rich.,,1850,,"Hist. Fís. Cuba, Bot. 2(11): 190 1850",,,,,,468668-1,wfo-0001072011,4177697,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0c5b492-8fd1-11eb-924d-9cd76263cbd0,genus,Brachymitrion,,,Taylor,1846,"London J. Bot. 5: 44. 1846.",,,,,,wfo-4000005226,2673765,
-de85de4a-8fcd-11eb-924d-9cd76263cbd0,species,cochabambae,Brachymitrion,,"(Müll.Hal.) A.K.Kop.",1977,"Ann. Bot. Fenn. 14: 196 1977",,,,dfb74c4a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146781,2673768,
-fa3ec39a-8fcd-11eb-924d-9cd76263cbd0,species,immersum,Brachymitrion,,Goffinet,1999,"Bryologist 102: 109. f. 1 1999",,,,,,wfo-0001204536,2673771,
-e25cf242-8fcd-11eb-924d-9cd76263cbd0,species,jamesonii,Brachymitrion,,Taylor,1846,"London J. Bot. 5: 44 1846",,,,,,wfo-0001154921,2673770,
-de85fcc2-8fcd-11eb-924d-9cd76263cbd0,species,laciniatum,Brachymitrion,,"(Spruce) A.K.Kop.",1977,"Ann. Bot. Fenn. 14: 196 1977",,,,,,wfo-0001146782,2673766,
-e25d0e4e-8fcd-11eb-924d-9cd76263cbd0,species,mandonii,Brachymitrion,,"(Müll.Hal.) Schimp. ex Müll.Hal.",1897,"Nuovo Giorn. Bot. Ital., n.s., 4: 166 1897",,,,,,wfo-0001154922,8300724,
-de86170c-8fcd-11eb-924d-9cd76263cbd0,species,moritzianum,Brachymitrion,,"(Müll.Hal.) A.K.Kop.",1977,"Ann. Bot. Fenn. 14: 195 1977",,,,,,wfo-0001146783,2673769,
-de8633e0-8fcd-11eb-924d-9cd76263cbd0,species,pocsii,Brachymitrion,,"(A.K.Kop.) A.K.Kop.",1977,"Ann. Bot. Fenn. 14: 196 1977",,,,e9556322-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146784,2673767,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0c5b492-8fd1-11eb-924d-9cd76263cbd0,genus,Brachymitrion,,,Taylor,,1846,,"London J. Bot. 5: 44. 1846.",,,,,,,wfo-4000005226,2673765,,
+de85de4a-8fcd-11eb-924d-9cd76263cbd0,species,cochabambae,Brachymitrion,,"(Müll.Hal.) A.K.Kop.",,1977,,"Ann. Bot. Fenn. 14: 196 1977",,,,dfb74c4a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146781,2673768,,
+fa3ec39a-8fcd-11eb-924d-9cd76263cbd0,species,immersum,Brachymitrion,,Goffinet,,1999,,"Bryologist 102: 109. f. 1 1999",,,,,,,wfo-0001204536,2673771,,
+e25cf242-8fcd-11eb-924d-9cd76263cbd0,species,jamesonii,Brachymitrion,,Taylor,,1846,,"London J. Bot. 5: 44 1846",,,,,,,wfo-0001154921,2673770,,
+de85fcc2-8fcd-11eb-924d-9cd76263cbd0,species,laciniatum,Brachymitrion,,"(Spruce) A.K.Kop.",,1977,,"Ann. Bot. Fenn. 14: 196 1977",,,,,,,wfo-0001146782,2673766,,
+e25d0e4e-8fcd-11eb-924d-9cd76263cbd0,species,mandonii,Brachymitrion,,"(Müll.Hal.) Schimp. ex Müll.Hal.",,1897,,"Nuovo Giorn. Bot. Ital., n.s., 4: 166 1897",,,,,,,wfo-0001154922,8300724,,
+de86170c-8fcd-11eb-924d-9cd76263cbd0,species,moritzianum,Brachymitrion,,"(Müll.Hal.) A.K.Kop.",,1977,,"Ann. Bot. Fenn. 14: 195 1977",,,,,,,wfo-0001146783,2673769,,
+de8633e0-8fcd-11eb-924d-9cd76263cbd0,species,pocsii,Brachymitrion,,"(A.K.Kop.) A.K.Kop.",,1977,,"Ann. Bot. Fenn. 14: 196 1977",,,,e9556322-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146784,2673767,,

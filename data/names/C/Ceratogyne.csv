@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e16ca91e-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratogyne,,,Turcz.,,,,,,,8178-1,wfo-4000007358,3117344,
-1de6726e-8fb2-11eb-924d-9cd76263cbd0,species,obionoides,Ceratogyne,,Turcz.,1851,"69 1851",,,,,192159-1,wfo-0000012051,3117345,
-419ff2d2-8fcd-11eb-924d-9cd76263cbd0,species,concolor,Ceratogynum,,Pritz.,1854,"Icon. Bot. Index 245 1854",,,,,340496-1,wfo-0000831327,2733728,
-41a1b018-8fcd-11eb-924d-9cd76263cbd0,species,rhamnoides,Ceratogynum,,Wight,1852,"Icon. Pl. Ind. Orient. 5(2): 26 1852",,,,,340497-1,wfo-0000831339,3081865,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e16ca91e-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratogyne,,,Turcz.,,,,,,,,,,8178-1,wfo-4000007358,3117344,,
+1de6726e-8fb2-11eb-924d-9cd76263cbd0,species,obionoides,Ceratogyne,,Turcz.,,1851,,"69 1851",,,,,,192159-1,wfo-0000012051,3117345,,
+419ff2d2-8fcd-11eb-924d-9cd76263cbd0,species,concolor,Ceratogynum,,Pritz.,,1854,,"Icon. Bot. Index 245 1854",,,,,,340496-1,wfo-0000831327,2733728,,
+41a1b018-8fcd-11eb-924d-9cd76263cbd0,species,rhamnoides,Ceratogynum,,Wight,,1852,,"Icon. Pl. Ind. Orient. 5(2): 26 1852",,,,,,340497-1,wfo-0000831339,3081865,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e543333c-8fd1-11eb-924d-9cd76263cbd0,genus,Jovetia,,,Guédès,1975,"Phyton (Horn) 17: 134. 1975.",,,,,34775-1,wfo-4000019626,8465124,
-f4cf9586-8fca-11eb-924d-9cd76263cbd0,species,erecta,Jovetia,,Guédès,1975,"Phyton (Horn) 17: 135 1975",,,,,754609-1,wfo-0000220207,2893269,
-f4dd785e-8fca-11eb-924d-9cd76263cbd0,species,humilis,Jovetia,,Guédès,1975,"Phyton (Horn) 17: 134 1975",,,,,754610-1,wfo-0000220208,2893268,
-f4eb6b12-8fca-11eb-924d-9cd76263cbd0,variety,glabra,Jovetia,humilis,J.-F.Leroy,1976,"Adansonia n.s., 16: 8 1976",,,,,890394-1,wfo-0000220209,2893270,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e543333c-8fd1-11eb-924d-9cd76263cbd0,genus,Jovetia,,,Guédès,,1975,,"Phyton (Horn) 17: 134. 1975.",,,,,,34775-1,wfo-4000019626,8465124,,
+f4cf9586-8fca-11eb-924d-9cd76263cbd0,species,erecta,Jovetia,,Guédès,,1975,,"Phyton (Horn) 17: 135 1975",,,,,,754609-1,wfo-0000220207,2893269,,
+f4dd785e-8fca-11eb-924d-9cd76263cbd0,species,humilis,Jovetia,,Guédès,,1975,,"Phyton (Horn) 17: 134 1975",,,,,,754610-1,wfo-0000220208,2893268,,
+f4eb6b12-8fca-11eb-924d-9cd76263cbd0,variety,glabra,Jovetia,humilis,J.-F.Leroy,,1976,,"Adansonia n.s., 16: 8 1976",,Q58837927,,,,890394-1,wfo-0000220209,2893270,,

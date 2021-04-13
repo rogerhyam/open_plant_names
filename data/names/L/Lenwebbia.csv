@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5b36e54-8fd1-11eb-924d-9cd76263cbd0,genus,Lenwebbia,,,"N.Snow & Guymer",2003,"Syst. Bot. Monogr. 65: 25–26. 2003.",,,,,70027615-1,wfo-4000021013,3177387,
-1cd4d3a6-8fcc-11eb-924d-9cd76263cbd0,species,lasioclada,Lenwebbia,,"(F.Muell.) N.Snow & Guymer",2003,"Syst. Bot. Monogr. 65: 26 2003",,,,e62bd020-8fcb-11eb-924d-9cd76263cbd0,70027617-1,wfo-0000336574,5416204,
-1cd4fd36-8fcc-11eb-924d-9cd76263cbd0,species,prominens,Lenwebbia,,"N.Snow & Guymer",2003,"Syst. Bot. Monogr. 65: 30 2003",,,,,70027618-1,wfo-0000336575,5416203,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5b36e54-8fd1-11eb-924d-9cd76263cbd0,genus,Lenwebbia,,,"N.Snow & Guymer",,2003,,"Syst. Bot. Monogr. 65: 25–26. 2003.",,Q55767955,,,,70027615-1,wfo-4000021013,3177387,,
+1cd4d3a6-8fcc-11eb-924d-9cd76263cbd0,species,lasioclada,Lenwebbia,,"(F.Muell.) N.Snow & Guymer",,2003,,"Syst. Bot. Monogr. 65: 26 2003",,Q55767955,,e62bd020-8fcb-11eb-924d-9cd76263cbd0,,70027617-1,wfo-0000336574,5416204,,
+1cd4fd36-8fcc-11eb-924d-9cd76263cbd0,species,prominens,Lenwebbia,,"N.Snow & Guymer",,2003,,"Syst. Bot. Monogr. 65: 30 2003",,Q55767955,,,,70027618-1,wfo-0000336575,5416203,,

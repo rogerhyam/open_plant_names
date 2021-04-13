@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6ad63b4-8fd1-11eb-924d-9cd76263cbd0,genus,Microclisia,,,Benth.,1862,"Gen. Pl. 1: 435. 1862.",,,,,,wfo-4000024081,7268675,
-6bfd3126-8fcc-11eb-924d-9cd76263cbd0,species,australis,Microclisia,,"(Benth.) Miers",1867,"Ann. Mag. Nat. Hist. III, 19: 325 1867",,,,,581128-1,wfo-0000450273,7713941,
-6bfe52f4-8fcc-11eb-924d-9cd76263cbd0,species,australis,Microclisia,,Benth.,1863,"Fl. Austral. 1: 59 1863",,,,,581127-1,wfo-0000450283,7713941,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6ad63b4-8fd1-11eb-924d-9cd76263cbd0,genus,Microclisia,,,Benth.,,1862,,"Gen. Pl. 1: 435. 1862.",,,,,,,wfo-4000024081,7268675,,
+6bfd3126-8fcc-11eb-924d-9cd76263cbd0,species,australis,Microclisia,,"(Benth.) Miers",,1867,,"Ann. Mag. Nat. Hist. III, 19: 325 1867",,,,,,581128-1,wfo-0000450273,7713941,,
+6bfe52f4-8fcc-11eb-924d-9cd76263cbd0,species,australis,Microclisia,,Benth.,,1863,,"Fl. Austral. 1: 59 1863",,,,,,581127-1,wfo-0000450283,7713941,,

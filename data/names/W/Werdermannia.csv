@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec0b2594-8fd1-11eb-924d-9cd76263cbd0,genus,Werdermannia,,,O.E.Schulz,1928,"Notizbl. Bot. Gart. Berlin–Dahlem 10: 470. 1928.",,,,,,wfo-4000040640,3047525,
-5d3c8006-8fcc-11eb-924d-9cd76263cbd0,species,anethifolia,Werdermannia,,"(Phil.) I.M.Johnst.",1929,"Contr. Gray Herb. 85: 45 1929",,,,,268396-2,wfo-0000427713,3047536,
-5d3d04b8-8fcc-11eb-924d-9cd76263cbd0,species,macrostachya,Werdermannia,,"(Phil.) O.E.Schulz",1928,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 470 1928",,,,,268397-2,wfo-0000427715,3047529,
-b718488a-8fd1-11eb-924d-9cd76263cbd0,species,mendocina,Werdermannia,,"Boelcke & Arroyo-Leuenb.",,,,,,,,wfo-0001237611,3047526,
-5d3d3a0a-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Werdermannia,,"(Barnéoud) O.E.Schulz",1932,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 645 1932",,,,,268398-2,wfo-0000427716,3047527,
-aba900c0-8fd1-11eb-924d-9cd76263cbd0,species,pubescens,Werdermannia,,Barnéoud,,,,,,,,wfo-0001216648,8051331,
-5d401ef0-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Werdermannia,,"(Barneoud) O.E.Schulz",1932,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 645 1932",,,,aba900c0-8fd1-11eb-924d-9cd76263cbd0,268399-2,wfo-0000427725,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec0b2594-8fd1-11eb-924d-9cd76263cbd0,genus,Werdermannia,,,O.E.Schulz,,1928,,"Notizbl. Bot. Gart. Berlin–Dahlem 10: 470. 1928.",,,,,,,wfo-4000040640,3047525,,
+5d3c8006-8fcc-11eb-924d-9cd76263cbd0,species,anethifolia,Werdermannia,,"(Phil.) I.M.Johnst.",,1929,,"Contr. Gray Herb. 85: 45 1929",,Q94388501,,,,268396-2,wfo-0000427713,3047536,,
+5d3d04b8-8fcc-11eb-924d-9cd76263cbd0,species,macrostachya,Werdermannia,,"(Phil.) O.E.Schulz",,1928,,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 470 1928",,Q55777377,,,,268397-2,wfo-0000427715,3047529,,
+b718488a-8fd1-11eb-924d-9cd76263cbd0,species,mendocina,Werdermannia,,"Boelcke & Arroyo-Leuenb.",,,,,,,,,,,wfo-0001237611,3047526,,
+5d3d3a0a-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Werdermannia,,"(Barnéoud) O.E.Schulz",,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 645 1932",,Q55809216,,,,268398-2,wfo-0000427716,3047527,,
+aba900c0-8fd1-11eb-924d-9cd76263cbd0,species,pubescens,Werdermannia,,Barnéoud,,,,,,,,,,,wfo-0001216648,8051331,,
+5d401ef0-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Werdermannia,,"(Barneoud) O.E.Schulz",,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 645 1932",,Q55809216,,aba900c0-8fd1-11eb-924d-9cd76263cbd0,,268399-2,wfo-0000427725,,,

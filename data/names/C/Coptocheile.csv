@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e20611b2-8fd1-11eb-924d-9cd76263cbd0,genus,Coptocheile,,,Hoffmanns.,,,,,,,16968-1,wfo-4000009234,7268401,
-d259b908-8fcc-11eb-924d-9cd76263cbd0,species,macrorhiza,Coptocheile,,Hoffmanns.,1842,"Linnaea 16(Litt.): 279 1842",,,,,,wfo-0000619889,3823548,
-d102cb98-8fcd-11eb-924d-9cd76263cbd0,species,wilfordii,Coptodipteris,,"(T.Moore) Nakai & Momose",1937,"Cytologia (Fujii Jub. Vol.) 1: 365 1937",,,,d0c20f68-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001117131,8340373,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e20611b2-8fd1-11eb-924d-9cd76263cbd0,genus,Coptocheile,,,Hoffmanns.,,,,,,,,,,16968-1,wfo-4000009234,7268401,,
+d259b908-8fcc-11eb-924d-9cd76263cbd0,species,macrorhiza,Coptocheile,,Hoffmanns.,,1842,,"Linnaea 16(Litt.): 279 1842",,,,,,,wfo-0000619889,3823548,,
+d102cb98-8fcd-11eb-924d-9cd76263cbd0,species,wilfordii,Coptodipteris,,"(T.Moore) Nakai & Momose",,1937,,"Cytologia (Fujii Jub. Vol.) 1: 365 1937",,,,d0c20f68-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001117131,8340373,,

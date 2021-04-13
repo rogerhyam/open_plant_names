@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ea77ba-8fd1-11eb-924d-9cd76263cbd0,genus,Samuelssonia,,,"Urb. & Ekman",1929,"Ark. Bot. 22A(8): 96. 1929.",,,,,295992-2,wfo-4000033919,7264242,
-61d04bfc-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Samuelssonia,,"Urb. & Ekman",1929,"Ark. Bot. 22A(8): 97 1929",,,,,227255-2,wfo-0000433633,3779376,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ea77ba-8fd1-11eb-924d-9cd76263cbd0,genus,Samuelssonia,,,"Urb. & Ekman",,1929,,"Ark. Bot. 22A(8): 96. 1929.",,,,,,295992-2,wfo-4000033919,7264242,,
+61d04bfc-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Samuelssonia,,"Urb. & Ekman",,1929,,"Ark. Bot. 22A(8): 97 1929",,,,,,227255-2,wfo-0000433633,3779376,,

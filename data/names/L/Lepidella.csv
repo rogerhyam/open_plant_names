@@ -1,13 +1,18 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5b94c70-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidella,,,Tiegh.,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198. 1911[1912].",,,,,,wfo-4000021085,7288174,
-2f9cce1c-8fcc-11eb-924d-9cd76263cbd0,species,biflora,Lepidella,,"(Tiegh.) Danser",1936,"Blumea 2: 37 1936",,,,ac7e64d0-8fcd-11eb-924d-9cd76263cbd0,548943-1,wfo-0000366506,5640106,
-2f9c8cea-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Lepidella,,Tiegh.,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,548944-1,wfo-0000366504,5640100,
-2f9ac946-8fcc-11eb-924d-9cd76263cbd0,species,forbesii,Lepidella,,"(King) Danser",1936,"Blumea 2: 37 1936",,,,,548945-1,wfo-0000366492,5640098,
-2f9bf8fc-8fcc-11eb-924d-9cd76263cbd0,species,kingii,Lepidella,,"(King) Danser",1936,"Blumea 2: 37 1936",,,,78def93c-8fcd-11eb-924d-9cd76263cbd0,548946-1,wfo-0000366502,5640094,
-2f9d4072-8fcc-11eb-924d-9cd76263cbd0,species,malaiana,Lepidella,,"(Danser) Danser",1936,"Blumea 2: 37 1936",,,,2f963e3a-8fcc-11eb-924d-9cd76263cbd0,548947-1,wfo-0000366510,5640090,
-2f9bb0d6-8fcc-11eb-924d-9cd76263cbd0,species,pyramidata,Lepidella,,Tiegh.,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,548948-1,wfo-0000366500,5640080,
-2f9b9588-8fcc-11eb-924d-9cd76263cbd0,species,quadriflora,Lepidella,,"(Tiegh.) Danser",1936,"Blumea 2: 37 1936",,,,ac7e81a4-8fcd-11eb-924d-9cd76263cbd0,548949-1,wfo-0000366499,5640075,
-2f9b742c-8fcc-11eb-924d-9cd76263cbd0,species,sabaensis,Lepidella,,Tiegh.,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,548950-1,wfo-0000366498,5640070,
-2f9b5992-8fcc-11eb-924d-9cd76263cbd0,species,tetrantha,Lepidella,,"(Merr.) Danser",1936,"Blumea 2: 37 1936",,,,,548951-1,wfo-0000366497,5640066,
-ac804250-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Lepidella,,"(Tiegh.) Tiegh.",,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,ac8024e6-8fcd-11eb-924d-9cd76263cbd0,548952-1,wfo-0001035737,5640062,
-2f9b3caa-8fcc-11eb-924d-9cd76263cbd0,species,williamsii,Lepidella,,"(Merr.) Danser",1936,"Blumea 2: 37 1936",,,,,548953-1,wfo-0000366496,5640056,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5b94c70-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidella,,,Tiegh.,,1925,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198. 1911[1912].",,,,e5b94c70-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000021085,7288174,17934," "
+1eac7c10-9bac-11eb-a8a2-19ed5c03f8d3,species,beillei,Lepidella,,Beauseign.,,,,,,,,1eac7c10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182780," "
+2f9cce1c-8fcc-11eb-924d-9cd76263cbd0,species,biflora,Lepidella,,"(Tiegh.) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,ac7e64d0-8fcd-11eb-924d-9cd76263cbd0,,548943-1,wfo-0000366506,5640106,,
+d72cf652-9bac-11eb-a8a2-19ed5c03f8d3,species,codinae,Lepidella,,Maire,,1933,,"Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne 85 (1933)",,,,d72cf652-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261263," "
+744da63e-9bad-11eb-a8a2-19ed5c03f8d3,species,cokeri,Lepidella,,"E.-J. Gilbert & Kühner",,,,,,,,744da63e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,487317," "
+2f9c8cea-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Lepidella,,Tiegh.,,,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,,548944-1,wfo-0000366504,5640100,,
+d91e8e8a-9bac-11eb-a8a2-19ed5c03f8d3,species,echinocephala,Lepidella,,"(Vittad.) E.-J. Gilbert",,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 304 (1925)",,,,6012f674-9bad-11eb-a8a2-19ed5c03f8d3,,,,,263721," "
+2f9ac946-8fcc-11eb-924d-9cd76263cbd0,species,forbesii,Lepidella,,"(King) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,,,548945-1,wfo-0000366492,5640098,,
+2f9bf8fc-8fcc-11eb-924d-9cd76263cbd0,species,kingii,Lepidella,,"(King) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,78def93c-8fcd-11eb-924d-9cd76263cbd0,,548946-1,wfo-0000366502,5640094,,
+2f9d4072-8fcc-11eb-924d-9cd76263cbd0,species,malaiana,Lepidella,,"(Danser) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,2f963e3a-8fcc-11eb-924d-9cd76263cbd0,,548947-1,wfo-0000366510,5640090,,
+2f9bb0d6-8fcc-11eb-924d-9cd76263cbd0,species,pyramidata,Lepidella,,Tiegh.,,,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,,548948-1,wfo-0000366500,5640080,,
+2f9b9588-8fcc-11eb-924d-9cd76263cbd0,species,quadriflora,Lepidella,,"(Tiegh.) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,ac7e81a4-8fcd-11eb-924d-9cd76263cbd0,,548949-1,wfo-0000366499,5640075,,
+2f9b742c-8fcc-11eb-924d-9cd76263cbd0,species,sabaensis,Lepidella,,Tiegh.,,,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,,,548950-1,wfo-0000366498,5640070,,
+2f9b5992-8fcc-11eb-924d-9cd76263cbd0,species,tetrantha,Lepidella,,"(Merr.) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,,,548951-1,wfo-0000366497,5640066,,
+ac804250-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Lepidella,,"(Tiegh.) Tiegh.",,,,"Compt. Rend. Hebd. Séances Acad. Sci. 153: 1198 1911",,,,ac8024e6-8fcd-11eb-924d-9cd76263cbd0,,548952-1,wfo-0001035737,5640062,,
+e735dc1c-9bac-11eb-a8a2-19ed5c03f8d3,species,vittadinii,Lepidella,,"(Moretti) E.-J. Gilbert",,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 304 (1925)",,,,b234bb8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,281960," "
+2f9b3caa-8fcc-11eb-924d-9cd76263cbd0,species,williamsii,Lepidella,,"(Merr.) Danser",,1936,,"Blumea 2: 37 1936",,Q96029385,,,,548953-1,wfo-0000366496,5640056,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff8c00e-8fd1-11eb-924d-9cd76263cbd0,genus,Austrosteenisia,,,R.Geesink,,,,,,,924911-1,wfo-4000003746,2962236,
-b8478b52-8fcd-11eb-924d-9cd76263cbd0,species,blackii,Austrosteenisia,,"(F.Muell.) Geesink",1984,"Leiden Bot. Ser. 8: 78 1984",,,,,942102-1,wfo-0001062497,2962239,
-8e70b7f8-8fc4-11eb-924d-9cd76263cbd0,species,blackii,Austrosteenisia,,"(F.Muell.) R.Geesink",,,,,,,,wfo-0000188624,2962239,
-6829ad52-8fc4-11eb-924d-9cd76263cbd0,species,glabristyla,Austrosteenisia,,Jessup,,,,,,,,wfo-0000187985,2962241,
-aba01dca-8fcc-11eb-924d-9cd76263cbd0,species,mollitricha,Austrosteenisia,,D.J.Dixon,1997,"Austrobaileya 5: 87 1997",,,,,999025-1,wfo-0000557388,3978198,
-754949ca-8fc4-11eb-924d-9cd76263cbd0,species,stipularis,Austrosteenisia,,"(C.T.White) Jessup",,,,,,b582fcda-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000188175,2962237,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff8c00e-8fd1-11eb-924d-9cd76263cbd0,genus,Austrosteenisia,,,R.Geesink,,,,,,,,,,924911-1,wfo-4000003746,2962236,,
+b8478b52-8fcd-11eb-924d-9cd76263cbd0,species,blackii,Austrosteenisia,,"(F.Muell.) Geesink",,1984,,"Leiden Bot. Ser. 8: 78 1984",,,,,,942102-1,wfo-0001062497,2962239,,
+8e70b7f8-8fc4-11eb-924d-9cd76263cbd0,species,blackii,Austrosteenisia,,"(F.Muell.) R.Geesink",,,,,,,,,,,wfo-0000188624,2962239,,
+6829ad52-8fc4-11eb-924d-9cd76263cbd0,species,glabristyla,Austrosteenisia,,Jessup,,,,,,,,,,,wfo-0000187985,2962241,,
+aba01dca-8fcc-11eb-924d-9cd76263cbd0,species,mollitricha,Austrosteenisia,,D.J.Dixon,,1997,,"Austrobaileya 5: 87 1997",,Q92300482,,,,999025-1,wfo-0000557388,3978198,,
+754949ca-8fc4-11eb-924d-9cd76263cbd0,species,stipularis,Austrosteenisia,,"(C.T.White) Jessup",,,,,,,,b582fcda-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000188175,2962237,,

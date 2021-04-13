@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebebf598-8fd1-11eb-924d-9cd76263cbd0,genus,Vexatorella,,,Rourke,1984,"Gen. Fl. Germ. 50(3): 377. 1984.",,,,,893429-1,wfo-4000040213,7287590,
-ac841484-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Vexatorella,,"(Salisb. ex Knight) Rourke",1984,"J. S. African Bot. 50(3): 379 1984",,,,ac83f832-8fcd-11eb-924d-9cd76263cbd0,914743-1,wfo-0001035771,3999028,
-55d9b72a-8fcc-11eb-924d-9cd76263cbd0,species,amoena,Vexatorella,,"(Rourke) Rourke",1984,"J. S. African Bot. 50: 383 1984",,,,,914744-1,wfo-0000418272,3999020,
-55d9d7d2-8fcc-11eb-924d-9cd76263cbd0,species,latebrosa,Vexatorella,,Rourke,1984,"J. S. African Bot. 50: 386 1984",,,,,905520-1,wfo-0000418273,3999012,
-55d7c320-8fcc-11eb-924d-9cd76263cbd0,species,obtusata,Vexatorella,,"(Thunb.) Rourke",1984,"J. S. African Bot. 50: 388 1984",,,,,914745-1,wfo-0000418260,7287591,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebebf598-8fd1-11eb-924d-9cd76263cbd0,genus,Vexatorella,,,Rourke,,1984,,"Gen. Fl. Germ. 50(3): 377. 1984.",,,,,,893429-1,wfo-4000040213,7287590,,
+ac841484-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Vexatorella,,"(Salisb. ex Knight) Rourke",,1984,,"J. S. African Bot. 50(3): 379 1984",,,,ac83f832-8fcd-11eb-924d-9cd76263cbd0,,914743-1,wfo-0001035771,3999028,,
+55d9b72a-8fcc-11eb-924d-9cd76263cbd0,species,amoena,Vexatorella,,"(Rourke) Rourke",,1984,,"J. S. African Bot. 50: 383 1984",,,,,,914744-1,wfo-0000418272,3999020,,
+55d9d7d2-8fcc-11eb-924d-9cd76263cbd0,species,latebrosa,Vexatorella,,Rourke,,1984,,"J. S. African Bot. 50: 386 1984",,,,,,905520-1,wfo-0000418273,3999012,,
+55d7c320-8fcc-11eb-924d-9cd76263cbd0,species,obtusata,Vexatorella,,"(Thunb.) Rourke",,1984,,"J. S. African Bot. 50: 388 1984",,,,,,914745-1,wfo-0000418260,7287591,,

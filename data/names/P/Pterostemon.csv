@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e94eef5c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterostemon,,,Schauer,1847,"Linnaea 20(6): 736–737. 1847. (Dec 1847)",,,,,33988-1,wfo-4000032036,7285985,
-be52a6a4-8fd1-11eb-924d-9cd76263cbd0,species,bravoanus,Pterostemon,,"J.Jiménez Ram. & M.Martínez",1997,"Acta Bot. Mex. 41: 21–24, f. 1 1997",,,,,999536-1,wfo-0001250928,3987931,
-801d62b6-8fcc-11eb-924d-9cd76263cbd0,species,mexicanus,Pterostemon,,Schauer,1847,"Linnaea 20: 736 1847",,,,,730450-1,wfo-0000484695,3987929,
-801d8052-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolius,Pterostemon,,Ramírez,1890,"Naturaleza (Madrid) II, 2: 417 1890",,,,,,wfo-0000484696,3987927,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e94eef5c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterostemon,,,Schauer,,1847,,"Linnaea 20(6): 736–737. 1847. (Dec 1847)",,,,,,33988-1,wfo-4000032036,7285985,,
+be52a6a4-8fd1-11eb-924d-9cd76263cbd0,species,bravoanus,Pterostemon,,"J.Jiménez Ram. & M.Martínez",,1997,,"Acta Bot. Mex. 41: 21–24, f. 1 1997",,Q55993882,,,,999536-1,wfo-0001250928,3987931,,
+801d62b6-8fcc-11eb-924d-9cd76263cbd0,species,mexicanus,Pterostemon,,Schauer,,1847,,"Linnaea 20: 736 1847",,,,,,730450-1,wfo-0000484695,3987929,,
+801d8052-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolius,Pterostemon,,Ramírez,,1890,,"Naturaleza (Madrid) II, 2: 417 1890",,,,,,,wfo-0000484696,3987927,,

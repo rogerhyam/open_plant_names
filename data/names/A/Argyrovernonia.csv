@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfbb485a-8fd1-11eb-924d-9cd76263cbd0,genus,Argyrovernonia,,,MacLeish,,,,,,,893604-1,wfo-4000003025,3143112,
-82b2d07c-8fba-11eb-924d-9cd76263cbd0,species,harleyi,Argyrovernonia,,"(H.Rob.) MacLeish",1985,"Syst. Bot. 10 469 1985",,,,,272616-2,wfo-0000127225,3142073,
-757f264a-8fb9-11eb-924d-9cd76263cbd0,species,martii,Argyrovernonia,,"(DC.) MacLeish",1984,"Taxon 33: 106. 1984",,,,,272617-2,wfo-0000118544,10392425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfbb485a-8fd1-11eb-924d-9cd76263cbd0,genus,Argyrovernonia,,,MacLeish,,,,,,Q28955730,,,,893604-1,wfo-4000003025,3143112,,
+82b2d07c-8fba-11eb-924d-9cd76263cbd0,species,harleyi,Argyrovernonia,,"(H.Rob.) MacLeish",,1985,,"Syst. Bot. 10 469 1985",,Q55765455,,,,272616-2,wfo-0000127225,3142073,,
+757f264a-8fb9-11eb-924d-9cd76263cbd0,species,martii,Argyrovernonia,,"(DC.) MacLeish",,1984,,"Taxon 33: 106. 1984",,Q28955730,,,,272617-2,wfo-0000118544,10392425,,

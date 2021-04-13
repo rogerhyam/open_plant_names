@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df353cce-8fd1-11eb-924d-9cd76263cbd0,genus,Ammandra,,,O.F.Cook,1927,"J. Wash. Acad. Sci. 17: 220. 1927.",,,,,296645-2,wfo-4000001606,2733623,
-8916f2e6-8fcd-11eb-924d-9cd76263cbd0,species,dasyneura,Ammandra,,"(Burret) Barfod",1991,"Opera Bot. 105: 43 1991",,,,f56320fc-8fcb-11eb-924d-9cd76263cbd0,962936-1,wfo-0000962599,2733626,
-89182c74-8fcd-11eb-924d-9cd76263cbd0,species,decasperma,Ammandra,,O.F.Cook,1927,"J. Wash. Acad. Sci. 17: 220 1927",,,,,11322-2,wfo-0000962610,2733624,
-89192d86-8fcd-11eb-924d-9cd76263cbd0,species,natalia,Ammandra,,"Balslev & A.J.Hend.",1987,"Syst. Bot. 12: 501 1987",,,,,272064-2,wfo-0000962619,2738045,
-9b70e68c-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Ammanella,,Miq.,1856,"Fl. Ned. Ind. 1(1): 619 1856",,,,,552643-1,wfo-0000530906,3988433,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df353cce-8fd1-11eb-924d-9cd76263cbd0,genus,Ammandra,,,O.F.Cook,,1927,,"J. Wash. Acad. Sci. 17: 220. 1927.",,,,,,296645-2,wfo-4000001606,2733623,,
+8916f2e6-8fcd-11eb-924d-9cd76263cbd0,species,dasyneura,Ammandra,,"(Burret) Barfod",,1991,,"Opera Bot. 105: 43 1991",,,,f56320fc-8fcb-11eb-924d-9cd76263cbd0,,962936-1,wfo-0000962599,2733626,,
+89182c74-8fcd-11eb-924d-9cd76263cbd0,species,decasperma,Ammandra,,O.F.Cook,,1927,,"J. Wash. Acad. Sci. 17: 220 1927",,,,,,11322-2,wfo-0000962610,2733624,,
+89192d86-8fcd-11eb-924d-9cd76263cbd0,species,natalia,Ammandra,,"Balslev & A.J.Hend.",,1987,,"Syst. Bot. 12: 501 1987",,Q55765388,,,,272064-2,wfo-0000962619,2738045,,
+9b70e68c-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Ammanella,,Miq.,,1856,,"Fl. Ned. Ind. 1(1): 619 1856",,,,,,552643-1,wfo-0000530906,3988433,,

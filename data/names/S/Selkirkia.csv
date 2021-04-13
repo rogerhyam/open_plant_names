@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea41d712-8fd1-11eb-924d-9cd76263cbd0,genus,Selkirkia,,,Hemsl.,1884,"Bot. Challenger ser. 3. 1: 47. 1884.",,,,,4802-1,wfo-4000034996,3230735,
-ab132ea6-8fd1-11eb-924d-9cd76263cbd0,species,berterii,Selkirkia,,Hemsl.,,,,,,,,wfo-0001215543,8094466,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea41d712-8fd1-11eb-924d-9cd76263cbd0,genus,Selkirkia,,,Hemsl.,,1884,,"Bot. Challenger ser. 3. 1: 47. 1884.",,,,,,4802-1,wfo-4000034996,3230735,,
+ab132ea6-8fd1-11eb-924d-9cd76263cbd0,species,berterii,Selkirkia,,Hemsl.,,,,,,,,,,,wfo-0001215543,8094466,,

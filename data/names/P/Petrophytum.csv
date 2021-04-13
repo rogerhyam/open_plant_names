@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e84b4646-8fd1-11eb-924d-9cd76263cbd0,genus,Petrophytum,,,"(Nutt.) Rydb.",1900,"Mem. New York Bot. Gard. 1: 206–207. 1900.",,,,,1116351-2,wfo-4000028982,3030185,
-9d4a9c54-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Petrophytum,,Rydb.,1908,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,,,wfo-0001004569,3030190,
-a1a8c5dc-8fcd-11eb-924d-9cd76263cbd0,species,caespitosum,Petrophytum,,"(Nutt. ex Torr. & A.Gray) Rydb.",1900,"; 1900 206 1900",,,,,,wfo-0001013740,3030194,
-a1a9781a-8fcd-11eb-924d-9cd76263cbd0,subspecies,acuminatum,Petrophytum,caespitosum,"(Rydb.) Munz",1958,"; 1958 92 1958",,,,,191243-2,wfo-0001013746,3030191,
-a1a93bfc-8fcd-11eb-924d-9cd76263cbd0,variety,elatius,Petrophytum,caespitosum,"(S.Watson) Tidestr.",1935,"; 1935 39 1935",,,,,191244-2,wfo-0001013744,3030197,
-9d4b8cd6-8fcd-11eb-924d-9cd76263cbd0,species,cinerascens,Petrophytum,,"(Piper) Rydb.",1908,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,,,wfo-0001004577,3030186,
-a26197f6-8fcd-11eb-924d-9cd76263cbd0,species,elatius,Petrophytum,,"(S.Watson) A.Heller",1900,"Catalogue of North American plants north of Mexico ; 1900 5 1900",,,,,1199750-2,wfo-0001015229,3030189,
-942a4d18-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Petrophytum,,"(Canby) Rydb.",1908,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,a1a959a2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000985828,3030192,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e84b4646-8fd1-11eb-924d-9cd76263cbd0,genus,Petrophytum,,,"(Nutt.) Rydb.",,1900,,"Mem. New York Bot. Gard. 1: 206–207. 1900.",,,,,,1116351-2,wfo-4000028982,3030185,,
+9d4a9c54-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Petrophytum,,Rydb.,,1908,,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,,,,wfo-0001004569,3030190,,
+a1a8c5dc-8fcd-11eb-924d-9cd76263cbd0,species,caespitosum,Petrophytum,,"(Nutt. ex Torr. & A.Gray) Rydb.",,1900,,"; 1900 206 1900",,,,,,,wfo-0001013740,3030194,,
+a1a9781a-8fcd-11eb-924d-9cd76263cbd0,subspecies,acuminatum,Petrophytum,caespitosum,"(Rydb.) Munz",,1958,,"; 1958 92 1958",,Q96002794,,,,191243-2,wfo-0001013746,3030191,,
+a1a93bfc-8fcd-11eb-924d-9cd76263cbd0,variety,elatius,Petrophytum,caespitosum,"(S.Watson) Tidestr.",,1935,,"; 1935 39 1935",,,,,,191244-2,wfo-0001013744,3030197,,
+9d4b8cd6-8fcd-11eb-924d-9cd76263cbd0,species,cinerascens,Petrophytum,,"(Piper) Rydb.",,1908,,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,,,,wfo-0001004577,3030186,,
+a26197f6-8fcd-11eb-924d-9cd76263cbd0,species,elatius,Petrophytum,,"(S.Watson) A.Heller",,1900,,"Catalogue of North American plants north of Mexico ; 1900 5 1900",,,,,,1199750-2,wfo-0001015229,3030189,,
+942a4d18-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Petrophytum,,"(Canby) Rydb.",,1908,,"North American Flora [Rosaceae] North American Flora [Rosaceae]; 1908 253 1908",,,,a1a959a2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000985828,3030192,,

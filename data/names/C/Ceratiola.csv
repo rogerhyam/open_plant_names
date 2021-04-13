@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e16a68c0-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratiola,,,Michx.,1803,"Fl. Bor.-Amer. 2: 221–222. 1803. (19 Mar 1803)",,,,,14519-1,wfo-4000007334,2888364,
-c49a0df4-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Ceratiola,,Michx.,1803,"Fl. Bor.-Amer. 2: 222 1803",,,,,324754-1,wfo-0000596330,2888365,
-c49a2ffa-8fcc-11eb-924d-9cd76263cbd0,species,falcatula,Ceratiola,,Gand.,1919,"Bull. Soc. Bot. France 66: 232 1919",,,,,52467-2,wfo-0000596331,4013086,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e16a68c0-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratiola,,,Michx.,,1803,,"Fl. Bor.-Amer. 2: 221–222. 1803. (19 Mar 1803)",,,,,,14519-1,wfo-4000007334,2888364,,
+c49a0df4-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Ceratiola,,Michx.,,1803,,"Fl. Bor.-Amer. 2: 222 1803",,,,,,324754-1,wfo-0000596330,2888365,,
+c49a2ffa-8fcc-11eb-924d-9cd76263cbd0,species,falcatula,Ceratiola,,Gand.,,1919,,"Bull. Soc. Bot. France 66: 232 1919",,Q55757065,,,,52467-2,wfo-0000596331,4013086,,

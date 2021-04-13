@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5ed18d4-8fd1-11eb-924d-9cd76263cbd0,genus,Limbella,,,"(Müll.Hal.) Broth.",1927,"Bernice P. Bishop Mus. Bull. 40: 23. 1927.",,,,,,wfo-4000021754,2678478,
-f60ac0d0-8fcd-11eb-924d-9cd76263cbd0,species,bartlettii,Limbella,,"(H.A.Crum & Steere) W.R.Buck",1988,"Beih. Nova Hedwigia 90: 339 1988",,,,efe91526-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195859,7412134,
-f5b23848-8fcd-11eb-924d-9cd76263cbd0,species,fryei,Limbella,,"(R.S.Williams) Ochyra",1986,"J. Hattori Bot. Lab. 61: 313 1986",,,,ebe8a00e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195138,5282899,
-ef6fe55c-8fcd-11eb-924d-9cd76263cbd0,species,tricostata,Limbella,,"(Sull.) Müll.Hal. ex E.B.Bartram",1933,"Bernice P. Bishop Mus. Bull. 101: 132 1933",,,,f251f206-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001182388,5282900,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5ed18d4-8fd1-11eb-924d-9cd76263cbd0,genus,Limbella,,,"(Müll.Hal.) Broth.",,1927,,"Bernice P. Bishop Mus. Bull. 40: 23. 1927.",,,,,,,wfo-4000021754,2678478,,
+f60ac0d0-8fcd-11eb-924d-9cd76263cbd0,species,bartlettii,Limbella,,"(H.A.Crum & Steere) W.R.Buck",,1988,,"Beih. Nova Hedwigia 90: 339 1988",,,,efe91526-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195859,7412134,,
+f5b23848-8fcd-11eb-924d-9cd76263cbd0,species,fryei,Limbella,,"(R.S.Williams) Ochyra",,1986,,"J. Hattori Bot. Lab. 61: 313 1986",,,,ebe8a00e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195138,5282899,,
+ef6fe55c-8fcd-11eb-924d-9cd76263cbd0,species,tricostata,Limbella,,"(Sull.) Müll.Hal. ex E.B.Bartram",,1933,,"Bernice P. Bishop Mus. Bull. 101: 132 1933",,,,f251f206-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001182388,5282900,,

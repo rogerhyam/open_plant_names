@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e91557b0-8fd1-11eb-924d-9cd76263cbd0,genus,Pseuderucaria,,,O.E.Schulz,1916,"Bot. Jahrb. Syst. 54 Beibl. 119: 54. 1916.",,,,,12948-1,wfo-4000031376,3044705,
-454a6f30-8fcc-11eb-924d-9cd76263cbd0,species,clavata,Pseuderucaria,,"(Boiss. & Reut.) O.E.Schulz",1916,"Bot. Jahrb. Syst. 54(119): 54 1916",,,,317133fe-8fcc-11eb-924d-9cd76263cbd0,288202-1,wfo-0000397181,3044713,
-ad1ea738-8fcd-11eb-924d-9cd76263cbd0,subspecies,tourneuxii,Pseuderucaria,clavata,"(Coss.) Maire",1933,"3: 110 110 1933",,,,,,wfo-0001037145,3044716,
-454a23c2-8fcc-11eb-924d-9cd76263cbd0,species,teretifolia,Pseuderucaria,,"(Desf.) O.E.Schulz",1916,"Bot. Jahrb. Syst. 54(119): 54 1916",,,,b55f9232-8fcc-11eb-924d-9cd76263cbd0,288203-1,wfo-0000397180,3044706,
-ad9be6c6-8fcd-11eb-924d-9cd76263cbd0,variety,genuina,Pseuderucaria,teretifolia,Maire,1967,"Fl. Afrique N. 13: 49. 1967",,,,,,wfo-0001038264,3044707,
-ad9c02dc-8fcd-11eb-924d-9cd76263cbd0,variety,grandiflora,Pseuderucaria,teretifolia,O.E.Schulz,1923,"Pflanzenreich IV–105(Heft 84): 80. 1923",,,,,,wfo-0001038265,3044711,
-ad9c1eb6-8fcd-11eb-924d-9cd76263cbd0,variety,parviflora,Pseuderucaria,teretifolia,O.E.Schulz,1923,"Pflanzenreich IV–105(Heft 84): 79. 1923",,,,,,wfo-0001038266,3044709,
-ad1ec4de-8fcd-11eb-924d-9cd76263cbd0,species,tourneuxii,Pseuderucaria,,"(Coss.) O.E.Schulz",1916,"Bot. Jahrb. Syst. 119: 54 1916",,,,,288204-1,wfo-0001037146,3044717,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e91557b0-8fd1-11eb-924d-9cd76263cbd0,genus,Pseuderucaria,,,O.E.Schulz,,1916,,"Bot. Jahrb. Syst. 54 Beibl. 119: 54. 1916.",,,,,,12948-1,wfo-4000031376,3044705,,
+454a6f30-8fcc-11eb-924d-9cd76263cbd0,species,clavata,Pseuderucaria,,"(Boiss. & Reut.) O.E.Schulz",,1916,,"Bot. Jahrb. Syst. 54(119): 54 1916",,,,317133fe-8fcc-11eb-924d-9cd76263cbd0,,288202-1,wfo-0000397181,3044713,,
+ad1ea738-8fcd-11eb-924d-9cd76263cbd0,subspecies,tourneuxii,Pseuderucaria,clavata,"(Coss.) Maire",,1933,,"3: 110 110 1933",,,,,,,wfo-0001037145,3044716,,
+454a23c2-8fcc-11eb-924d-9cd76263cbd0,species,teretifolia,Pseuderucaria,,"(Desf.) O.E.Schulz",,1916,,"Bot. Jahrb. Syst. 54(119): 54 1916",,,,b55f9232-8fcc-11eb-924d-9cd76263cbd0,,288203-1,wfo-0000397180,3044706,,
+ad9be6c6-8fcd-11eb-924d-9cd76263cbd0,variety,genuina,Pseuderucaria,teretifolia,Maire,,1967,,"Fl. Afrique N. 13: 49. 1967",,,,,,,wfo-0001038264,3044707,,
+ad9c02dc-8fcd-11eb-924d-9cd76263cbd0,variety,grandiflora,Pseuderucaria,teretifolia,O.E.Schulz,,1923,,"Pflanzenreich IV–105(Heft 84): 80. 1923",,,,,,,wfo-0001038265,3044711,,
+ad9c1eb6-8fcd-11eb-924d-9cd76263cbd0,variety,parviflora,Pseuderucaria,teretifolia,O.E.Schulz,,1923,,"Pflanzenreich IV–105(Heft 84): 79. 1923",,,,,,,wfo-0001038266,3044709,,
+ad1ec4de-8fcd-11eb-924d-9cd76263cbd0,species,tourneuxii,Pseuderucaria,,"(Coss.) O.E.Schulz",,1916,,"Bot. Jahrb. Syst. 119: 54 1916",,,,,,288204-1,wfo-0001037146,3044717,,

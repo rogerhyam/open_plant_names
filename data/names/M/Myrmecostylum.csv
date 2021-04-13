@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7047852-8fd1-11eb-924d-9cd76263cbd0,genus,Myrmecostylum,,,C.Presl,1843,"Hymenophyllaceae 27. 1843.",,,,,,wfo-4000025169,8299528,
-931f5db0-8fbd-11eb-924d-9cd76263cbd0,species,clavatum,Myrmecostylum,,C.Presl,1843,"Hymenophyllaceae (Presl) 28. 1843 1843",,,,,17150430-1,wfo-0000148702,4023982,
-93292642-8fbd-11eb-924d-9cd76263cbd0,species,dichotomum,Myrmecostylum,,C.Presl,1843,"Hymenophyllaceae (Presl) 28. 1843. 1843",,,,,17150440-1,wfo-0000148703,4023975,
-ac69379a-8fcd-11eb-924d-9cd76263cbd0,species,tortuosum,Myrmecostylum,,"(Hook. & Grev.) C.Presl",,,,,,ce268b3a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001035540,4023968,
-e5de70a0-8fcb-11eb-924d-9cd76263cbd0,species,arfakiana,Myrmedoma,,Becc.,1884,"Malesia 2: 94 1884",,,,,757010-1,wfo-0000248340,2892696,
-e5de8bc6-8fcb-11eb-924d-9cd76263cbd0,species,naumannii,Myrmedoma,,Warb.,1894,"Bot. Jahrb. Syst. 18: 111 1894",,,,,,wfo-0000248341,2892692,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7047852-8fd1-11eb-924d-9cd76263cbd0,genus,Myrmecostylum,,,C.Presl,,1843,,"Hymenophyllaceae 27. 1843.",,,,,,,wfo-4000025169,8299528,,
+931f5db0-8fbd-11eb-924d-9cd76263cbd0,species,clavatum,Myrmecostylum,,C.Presl,,1843,,"Hymenophyllaceae (Presl) 28. 1843 1843",,,,,,17150430-1,wfo-0000148702,4023982,,
+93292642-8fbd-11eb-924d-9cd76263cbd0,species,dichotomum,Myrmecostylum,,C.Presl,,1843,,"Hymenophyllaceae (Presl) 28. 1843. 1843",,,,,,17150440-1,wfo-0000148703,4023975,,
+ac69379a-8fcd-11eb-924d-9cd76263cbd0,species,tortuosum,Myrmecostylum,,"(Hook. & Grev.) C.Presl",,,,,,,,ce268b3a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035540,4023968,,

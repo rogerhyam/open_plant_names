@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df9b7b06-8fd1-11eb-924d-9cd76263cbd0,genus,Apiastrum,,,Nutt.,1840,"Fl. N. Amer. 1(4): 643–644. 1840.",,,,,30248439-2,wfo-4000002656,3034744,
-a1434546-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Apiastrum,,Nutt.,1840,"Fl. N. Amer. 1: 644 1840",,,,,837991-1,wfo-0000540445,7496084,
-a14361ac-8fcc-11eb-924d-9cd76263cbd0,variety,tenellum,Apiastrum,angustifolium,Nutt.,1840,"Fl. N. Amer. 1: 644 1840",,,,,16356-2,wfo-0000540446,5540043,
-a1437d36-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Apiastrum,,Nutt.,1840,"Fl. N. Amer. 1: 644 1840",,,,,837992-1,wfo-0000540447,7503243,
-a143a1a8-8fcc-11eb-924d-9cd76263cbd0,species,patens,Apiastrum,,"(Nutt.) J.M.Coult. & Rose",1888,"Rev. N. Amer. Umbell. 110 1888",,,,ab274f3a-8fd1-11eb-924d-9cd76263cbd0,837993-1,wfo-0000540448,5540031,
-bad4718c-8fcd-11eb-924d-9cd76263cbd0,species,scandicina,Apiastrum,,Mansf.,,,,,,,,wfo-0001068371,7697389,
-18b8d884-8fcd-11eb-924d-9cd76263cbd0,species,apicicostata,,,"S.Arias & Terrazas",2008,"Revista Mex. Biodivers. 79: 26 2008",,,,,77097974-1,wfo-0000744375,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df9b7b06-8fd1-11eb-924d-9cd76263cbd0,genus,Apiastrum,,,Nutt.,,1840,,"Fl. N. Amer. 1(4): 643–644. 1840.",,,,,,30248439-2,wfo-4000002656,3034744,,
+a1434546-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Apiastrum,,Nutt.,,1840,,"Fl. N. Amer. 1: 644 1840",,,,,,837991-1,wfo-0000540445,7496084,,
+a14361ac-8fcc-11eb-924d-9cd76263cbd0,variety,tenellum,Apiastrum,angustifolium,Nutt.,,1840,,"Fl. N. Amer. 1: 644 1840",,,,,,16356-2,wfo-0000540446,5540043,,
+a1437d36-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Apiastrum,,Nutt.,,1840,,"Fl. N. Amer. 1: 644 1840",,,,,,837992-1,wfo-0000540447,7503243,,
+a143a1a8-8fcc-11eb-924d-9cd76263cbd0,species,patens,Apiastrum,,"(Nutt.) J.M.Coult. & Rose",,1888,,"Rev. N. Amer. Umbell. 110 1888",,,,ab274f3a-8fd1-11eb-924d-9cd76263cbd0,,837993-1,wfo-0000540448,5540031,,
+bad4718c-8fcd-11eb-924d-9cd76263cbd0,species,scandicina,Apiastrum,,Mansf.,,,,,,,,,,,wfo-0001068371,7697389,,
+18b8d884-8fcd-11eb-924d-9cd76263cbd0,species,apicicostata,,,"S.Arias & Terrazas",,2008,,"Revista Mex. Biodivers. 79: 26 2008",,,,,,77097974-1,wfo-0000744375,,,

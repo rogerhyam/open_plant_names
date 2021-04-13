@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ee62d0-8fd1-11eb-924d-9cd76263cbd0,genus,Santia,,,Savi,1799,"Mem. Mat. Fis. Soc. Ital. Sci. Modena, Pt. Mem. Fis. 8: 479. 1799.",,,,,,wfo-4000033964,3232851,
-60effc54-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Santia,,"(Kunth) Parl. ex Webb & Berth.",1850,"Hist. Nat. Iles Canaries 2(3): 393 1850",,,,,,wfo-0000896887,5676829,
-60f016a8-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Santia,,"(Sm.) Druce",1898,"Fl. Berkshire 563 1898",,,,,420149-1,wfo-0000896888,5676827,
-60f0317e-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Santia,,"(Willd.) Fior.",1828,"Nuov. Giorn. Lett. Italia 17: 111 1828",,,,,420150-1,wfo-0000896889,9158547,
-60f04c36-8fcd-11eb-924d-9cd76263cbd0,species,monspeliensis,Santia,,"(L.) Parl.",1845,"Fl. Palerm. 1: 73 1845",,,,,1216958-2,wfo-0000896890,5676821,
-60f07bca-8fcd-11eb-924d-9cd76263cbd0,species,plumosa,Santia,,Savi,1798,"Mem. Mat. Fis. Soc. Ital. 8: 479 1798",,,,,420152-1,wfo-0000896891,5676819,
-60f0b644-8fcd-11eb-924d-9cd76263cbd0,species,unioloides,Santia,,Raf.,1813,"Chlor. Aetn. 7 1813",,,,,420153-1,wfo-0000896892,5676817,
-07b4f974-8fcc-11eb-924d-9cd76263cbd0,species,venulosa,Santia,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 422 1834",,,,,766008-1,wfo-0000302686,5336899,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ee62d0-8fd1-11eb-924d-9cd76263cbd0,genus,Santia,,,Savi,,1799,,"Mem. Mat. Fis. Soc. Ital. Sci. Modena, Pt. Mem. Fis. 8: 479. 1799.",,,,,,,wfo-4000033964,3232851,,
+60effc54-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Santia,,"(Kunth) Parl. ex Webb & Berth.",,1850,,"Hist. Nat. Iles Canaries 2(3): 393 1850",,,,,,,wfo-0000896887,5676829,,
+60f016a8-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Santia,,"(Sm.) Druce",,1898,,"Fl. Berkshire 563 1898",,,,,,420149-1,wfo-0000896888,5676827,,
+60f0317e-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Santia,,"(Willd.) Fior.",,1828,,"Nuov. Giorn. Lett. Italia 17: 111 1828",,,,,,420150-1,wfo-0000896889,9158547,,
+60f04c36-8fcd-11eb-924d-9cd76263cbd0,species,monspeliensis,Santia,,"(L.) Parl.",,1845,,"Fl. Palerm. 1: 73 1845",,,,,,1216958-2,wfo-0000896890,5676821,,
+60f07bca-8fcd-11eb-924d-9cd76263cbd0,species,plumosa,Santia,,Savi,,1798,,"Mem. Mat. Fis. Soc. Ital. 8: 479 1798",,,,,,420152-1,wfo-0000896891,5676819,,
+60f0b644-8fcd-11eb-924d-9cd76263cbd0,species,unioloides,Santia,,Raf.,,1813,,"Chlor. Aetn. 7 1813",,,,,,420153-1,wfo-0000896892,5676817,,
+07b4f974-8fcc-11eb-924d-9cd76263cbd0,species,venulosa,Santia,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 422 1834",,,,,,766008-1,wfo-0000302686,5336899,,

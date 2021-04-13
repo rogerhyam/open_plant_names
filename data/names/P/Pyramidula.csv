@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e96453ce-8fd1-11eb-924d-9cd76263cbd0,genus,Pyramidula,,,Brid.,1819,"Muscol. Recent. Suppl. 4: 20. 1819[1818].",,,,,,wfo-4000032284,2673950,
-ea43ca76-8fcd-11eb-924d-9cd76263cbd0,species,algeriensis,Pyramidula,,"Chud. & Douin",1904,"Pyramidula algeriensis sp. nov. 1. f. 1–9 1904",,,,,,wfo-0001171958,7847754,
-ea43e696-8fcd-11eb-924d-9cd76263cbd0,species,tetragona,Pyramidula,,"(Brid.) Brid.",1819,"Muscol. Recent. Suppl. 4: 20 1819",,,,,,wfo-0001171959,5281629,
-ea440c52-8fcd-11eb-924d-9cd76263cbd0,variety,zoddae,Pyramidula,tetragona,"Bott. & Zodda",1911,"Malpighia 24: 269 1911",,,,,,wfo-0001171960,7349987,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e96453ce-8fd1-11eb-924d-9cd76263cbd0,genus,Pyramidula,,,Brid.,,1819,,"Muscol. Recent. Suppl. 4: 20. 1819[1818].",,,,,,,wfo-4000032284,2673950,,
+ea43ca76-8fcd-11eb-924d-9cd76263cbd0,species,algeriensis,Pyramidula,,"Chud. & Douin",,1904,,"Pyramidula algeriensis sp. nov. 1. f. 1–9 1904",,,,,,,wfo-0001171958,7847754,,
+ea43e696-8fcd-11eb-924d-9cd76263cbd0,species,tetragona,Pyramidula,,"(Brid.) Brid.",,1819,,"Muscol. Recent. Suppl. 4: 20 1819",,,,,,,wfo-0001171959,5281629,,
+ea440c52-8fcd-11eb-924d-9cd76263cbd0,variety,zoddae,Pyramidula,tetragona,"Bott. & Zodda",,1911,,"Malpighia 24: 269 1911",,,,,,,wfo-0001171960,7349987,,

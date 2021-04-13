@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2bbe9e2-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyophleba,,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris ser. 2. 1: 92. 1898.",,,,,2298-1,wfo-4000011577,7317393,
-805fb3ea-8fcd-11eb-924d-9cd76263cbd0,species,leonensis,Dictyophleba,,"(Stapf) Pichon",1953,"Mém. Inst. Franç. Afrique Noire 35: 256 1953",,,,86696ba2-8fcb-11eb-924d-9cd76263cbd0,78220-1,wfo-0000943079,3621674,
-805fd0dc-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Dictyophleba,,"(K.Schum.) Pierre",1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 93 1898",,,,86b227ca-8fcb-11eb-924d-9cd76263cbd0,78221-1,wfo-0000943080,3621662,
-805fed4c-8fcd-11eb-924d-9cd76263cbd0,species,ochracea,Dictyophleba,,"(K.Schum. ex Hallier f.) Pichon",1953,"Mém. Inst. Franç. Afrique Noire 35: 251 1953",,,,88320534-8fcb-11eb-924d-9cd76263cbd0,78222-1,wfo-0000943081,3621653,
-bca54108-8fcd-11eb-924d-9cd76263cbd0,variety,glabrata,Dictyophleba,ochracea,Pichon,,,,,,,,wfo-0001072560,7691370,
-80600a48-8fcd-11eb-924d-9cd76263cbd0,species,rudens,Dictyophleba,,Hepper,1963,"Kew Bull. 16: 451 1963",,,,,78223-1,wfo-0000943082,3621643,
-8060244c-8fcd-11eb-924d-9cd76263cbd0,species,setosa,Dictyophleba,,"B.de Hoogh",1989,"Bull. Jard. Bot. Natl. Belg. 59: 220 1989",,,,,937434-1,wfo-0000943083,3621639,
-806040a8-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Dictyophleba,,"(S.Moore ex Wernham) Pichon",1953,"Mém. Inst. Franç. Afrique Noire 35: 259 1953",,,,8ae54d90-8fcb-11eb-924d-9cd76263cbd0,78224-1,wfo-0000943084,3621626,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2bbe9e2-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyophleba,,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris ser. 2. 1: 92. 1898.",,,,,,2298-1,wfo-4000011577,7317393,,
+805fb3ea-8fcd-11eb-924d-9cd76263cbd0,species,leonensis,Dictyophleba,,"(Stapf) Pichon",,1953,,"Mém. Inst. Franç. Afrique Noire 35: 256 1953",,,,86696ba2-8fcb-11eb-924d-9cd76263cbd0,,78220-1,wfo-0000943079,3621674,,
+805fd0dc-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Dictyophleba,,"(K.Schum.) Pierre",,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 93 1898",,,,86b227ca-8fcb-11eb-924d-9cd76263cbd0,,78221-1,wfo-0000943080,3621662,,
+805fed4c-8fcd-11eb-924d-9cd76263cbd0,species,ochracea,Dictyophleba,,"(K.Schum. ex Hallier f.) Pichon",,1953,,"Mém. Inst. Franç. Afrique Noire 35: 251 1953",,,,88320534-8fcb-11eb-924d-9cd76263cbd0,,78222-1,wfo-0000943081,3621653,,
+bca54108-8fcd-11eb-924d-9cd76263cbd0,variety,glabrata,Dictyophleba,ochracea,Pichon,,,,,,,,,,,wfo-0001072560,7691370,,
+80600a48-8fcd-11eb-924d-9cd76263cbd0,species,rudens,Dictyophleba,,Hepper,,1963,,"Kew Bull. 16: 451 1963",,Q43257664,,,,78223-1,wfo-0000943082,3621643,,
+8060244c-8fcd-11eb-924d-9cd76263cbd0,species,setosa,Dictyophleba,,"B.de Hoogh",,1989,,"Bull. Jard. Bot. Natl. Belg. 59: 220 1989",,Q55809183,,,,937434-1,wfo-0000943083,3621639,,
+806040a8-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Dictyophleba,,"(S.Moore ex Wernham) Pichon",,1953,,"Mém. Inst. Franç. Afrique Noire 35: 259 1953",,,,8ae54d90-8fcb-11eb-924d-9cd76263cbd0,,78224-1,wfo-0000943084,3621626,,

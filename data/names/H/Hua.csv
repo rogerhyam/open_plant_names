@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4e17a2a-8fd1-11eb-924d-9cd76263cbd0,genus,Hua,,,"Pierre ex De Wild.",1906,"Études Fl. Bas- Moyen-Congo 1: 288. 1906.",,,,,38731-1,wfo-4000018360,3232021,
-0f604d76-8fcd-11eb-924d-9cd76263cbd0,species,gaboni,Hua,,"Pierre ex De Wild.",1906,"Ann. Mus. Congo Belge, Bot. V, 1: 289 1906",,,,,,wfo-0000725599,,
-d8a06a00-8fd1-11eb-924d-9cd76263cbd0,species,gabonii,Hua,,"Pierre ex De Wild.",1906,"Études Fl. Bas- Moyen-Congo 1906",,,,,,wfo-0001292776,5543989,
-0f6068c4-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Hua,,"Engl. & K.Krause",1911,"Bot. Jahrb. Syst. 45: 338 1911",,,,,824049-1,wfo-0000725600,5543988,
-0f60857a-8fcd-11eb-924d-9cd76263cbd0,species,colletioides,Hualania,,Phil.,1864,"Linnaea 33: 19 1864",,,,,690399-1,wfo-0000725601,4049386,
-b5b97266-8fd1-11eb-924d-9cd76263cbd0,species,microphylla,Hualania,,"(Griseb.) Hieron.",,,,,,,,wfo-0001235031,7478581,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4e17a2a-8fd1-11eb-924d-9cd76263cbd0,genus,Hua,,,"Pierre ex De Wild.",,1906,,"Études Fl. Bas- Moyen-Congo 1: 288. 1906.",,,,,,38731-1,wfo-4000018360,3232021,,
+0f604d76-8fcd-11eb-924d-9cd76263cbd0,species,gaboni,Hua,,"Pierre ex De Wild.",,1906,,"Ann. Mus. Congo Belge, Bot. V, 1: 289 1906",,,,,,,wfo-0000725599,,,
+d8a06a00-8fd1-11eb-924d-9cd76263cbd0,species,gabonii,Hua,,"Pierre ex De Wild.",,1906,,"Études Fl. Bas- Moyen-Congo 1906",,,,,,,wfo-0001292776,5543989,,
+0f6068c4-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Hua,,"Engl. & K.Krause",,1911,,"Bot. Jahrb. Syst. 45: 338 1911",,,,,,824049-1,wfo-0000725600,5543988,,
+0f60857a-8fcd-11eb-924d-9cd76263cbd0,species,colletioides,Hualania,,Phil.,,1864,,"Linnaea 33: 19 1864",,,,,,690399-1,wfo-0000725601,4049386,,
+b5b97266-8fd1-11eb-924d-9cd76263cbd0,species,microphylla,Hualania,,"(Griseb.) Hieron.",,,,,,,,,,,wfo-0001235031,7478581,,

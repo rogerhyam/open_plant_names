@@ -1,9 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e01f9eae-8fd1-11eb-924d-9cd76263cbd0,genus,Baynesia,,,Bruyns,2000,"Novon 10(4): 354. 2000.",,,,,1018355-1,wfo-4000004256,7311653,
-af0d716a-8fcc-11eb-924d-9cd76263cbd0,species,lophophora,Baynesia,,Bruyns,2000,"Novon 10: 354 2000",,,,,1018356-1,wfo-0000561686,3570891,
-2a64b4fe-8fcd-11eb-924d-9cd76263cbd0,species,fissa,Bayonia,,"(Loes.) Dugand",1946,"Caldasia 4: 65 1946",,,,,30213-2,wfo-0000781267,5668370,
-2a64ce80-8fcd-11eb-924d-9cd76263cbd0,species,helicocalyx,Bayonia,,"(Kuntze) Dugand",1946,"Caldasia 4: 63 1946",,,,2a31cbd4-8fcd-11eb-924d-9cd76263cbd0,30214-2,wfo-0000781268,5668365,
-56cfb51a-8fba-11eb-924d-9cd76263cbd0,species,humilis,Baziasa,,Steud.,1840,"192 1840",,,,,184317-1,wfo-0000125850,3100715,
-45d41884-8fb3-11eb-924d-9cd76263cbd0,species,microglossa,Baziasa,,Steud.,1840,"192 1840",,,,,184318-1,wfo-0000045146,3100695,
-950363fa-8fb4-11eb-924d-9cd76263cbd0,species,sarmentosa,Baziasa,,"(Less.) Steud.",1840,"192 1840",,,,d7591312-8fb4-11eb-924d-9cd76263cbd0,184319-1,wfo-0000067121,3100718,
-3345a350-8fb2-11eb-924d-9cd76263cbd0,species,urticifolia,Baziasa,,"(Kunth) Steud.",1840,"192 1840",,,,,184320-1,wfo-0000015631,3134186,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e01f9eae-8fd1-11eb-924d-9cd76263cbd0,genus,Baynesia,,,Bruyns,,2000,,"Novon 10(4): 354. 2000.",,Q55774853,,,,1018355-1,wfo-4000004256,7311653,,
+af0d716a-8fcc-11eb-924d-9cd76263cbd0,species,lophophora,Baynesia,,Bruyns,,2000,,"Novon 10: 354 2000",,Q55774853,,,,1018356-1,wfo-0000561686,3570891,,
+2a64b4fe-8fcd-11eb-924d-9cd76263cbd0,species,fissa,Bayonia,,"(Loes.) Dugand",,1946,,"Caldasia 4: 65 1946",,,,,,30213-2,wfo-0000781267,5668370,,
+2a64ce80-8fcd-11eb-924d-9cd76263cbd0,species,helicocalyx,Bayonia,,"(Kuntze) Dugand",,1946,,"Caldasia 4: 63 1946",,,,2a31cbd4-8fcd-11eb-924d-9cd76263cbd0,,30214-2,wfo-0000781268,5668365,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89a462e-8fd1-11eb-924d-9cd76263cbd0,genus,Pittunia,,,Miers,1826,"(R. P. )& Miers and (R. P. )& Miers, Trav. Chil. ii. 531 (1826). sphalm..",,,,,,wfo-4000029930,3799641,
-b87e1d3e-8fcd-11eb-924d-9cd76263cbd0,species,edulis,Pitumba,,"A.Rich. ex Eichler",1871,"Fl. Bras. 13(1): 470 1871",,,,,779916-1,wfo-0001062985,,
-b87e0178-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Pitumba,,Aubl.,1775,"Hist. Pl. Guiane 2(Suppl.): 29, t. 385 1775",,,,,298773-2,wfo-0001062984,3878669,
-6d5a0b10-8fcd-11eb-924d-9cd76263cbd0,species,guyannensis,Pitumba,,Aubl.,1775,"Hist. Pl. Guiane t. 385 1775",,,,,779917-1,wfo-0000910340,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89a462e-8fd1-11eb-924d-9cd76263cbd0,genus,Pittunia,,,Miers,,1826,,"(R. P. )& Miers and (R. P. )& Miers, Trav. Chil. ii. 531 (1826). sphalm..",,,,,,,wfo-4000029930,3799641,,
+b87e1d3e-8fcd-11eb-924d-9cd76263cbd0,species,edulis,Pitumba,,"A.Rich. ex Eichler",,1871,,"Fl. Bras. 13(1): 470 1871",,,,,,779916-1,wfo-0001062985,,,
+b87e0178-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Pitumba,,Aubl.,,1775,,"Hist. Pl. Guiane 2(Suppl.): 29, t. 385 1775",,,,,,298773-2,wfo-0001062984,3878669,,
+6d5a0b10-8fcd-11eb-924d-9cd76263cbd0,species,guyannensis,Pitumba,,Aubl.,,1775,,"Hist. Pl. Guiane t. 385 1775",,,,,,779917-1,wfo-0000910340,,,

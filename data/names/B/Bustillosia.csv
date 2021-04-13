@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0f0707e-8fd1-11eb-924d-9cd76263cbd0,genus,Bustillosia,,,Clos,1847,"Fl. Chil. 3(1): 106–108, f. 32, f. 4. 1847[1848].",,,,,,wfo-4000005823,7318518,
-b813e4b0-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Bustillosia,,Clos,1848,"Fl. Chil. 3: 106 1848",,,,,38700-2,wfo-0000576389,11100771,
-4d489b16-8fcd-11eb-924d-9cd76263cbd0,species,pantlingii,Butania,,"(Gamble) Keng f.",1982,"J. Bamboo Res. 1(2): 42 1982",,,,4a6c31fa-8fcd-11eb-924d-9cd76263cbd0,910177-1,wfo-0000856867,5674950,
-b8140a08-8fcc-11eb-924d-9cd76263cbd0,species,congolana,Butayea,,"De Wild.",1903,"Ann. Mus. Congo Belge, Bot. IV, 1: 150 1903",,,,,46699-1,wfo-0000576390,3777850,
-21782362-8fcd-11eb-924d-9cd76263cbd0,species,butcheri,,,"(Traub) Meerow",1989,"Ann. Missouri Bot. Gard. 76: 208 1989",,,,23a89b1c-8fcd-11eb-924d-9cd76263cbd0,946617-1,wfo-0000762646,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0f0707e-8fd1-11eb-924d-9cd76263cbd0,genus,Bustillosia,,,Clos,,1847,,"Fl. Chil. 3(1): 106–108, f. 32, f. 4. 1847[1848].",,,,,,,wfo-4000005823,7318518,,
+b813e4b0-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Bustillosia,,Clos,,1848,,"Fl. Chil. 3: 106 1848",,,,,,38700-2,wfo-0000576389,11100771,,
+4d489b16-8fcd-11eb-924d-9cd76263cbd0,species,pantlingii,Butania,,"(Gamble) Keng f.",,1982,,"J. Bamboo Res. 1(2): 42 1982",,,,4a6c31fa-8fcd-11eb-924d-9cd76263cbd0,,910177-1,wfo-0000856867,5674950,,
+b8140a08-8fcc-11eb-924d-9cd76263cbd0,species,congolana,Butayea,,"De Wild.",,1903,,"Ann. Mus. Congo Belge, Bot. IV, 1: 150 1903",,,,,,46699-1,wfo-0000576390,3777850,,
+21782362-8fcd-11eb-924d-9cd76263cbd0,species,butcheri,,,"(Traub) Meerow",,1989,,"Ann. Missouri Bot. Gard. 76: 208 1989",,Q55765090,,23a89b1c-8fcd-11eb-924d-9cd76263cbd0,,946617-1,wfo-0000762646,,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebd23c3e-8fd1-11eb-924d-9cd76263cbd0,genus,Utsetela,,,Pellegr.,1928,"Mem. Soc. Linn. Normandie, Bot. 1(3): 80. 1928. (5 Dec 1928)",,,,,41036-1,wfo-4000039908,7262520,
-558867d0-8fcc-11eb-924d-9cd76263cbd0,species,gabonensis,Utsetela,,Pellegr.,1928,"Mém. Soc. Linn. Normandie, Bot. 1(2): 81 1928",,,,,858040-1,wfo-0000417802,3763954,
-b62f3f6e-8fd1-11eb-924d-9cd76263cbd0,species,neglecta,Utsetela,,Jongkind,1995,"Bull. Jard. Bot. Belg. 64: 179 1995",,,,,984065-1,wfo-0001235873,3763945,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebd23c3e-8fd1-11eb-924d-9cd76263cbd0,genus,Utsetela,,,Pellegr.,,1928,,"Mem. Soc. Linn. Normandie, Bot. 1(3): 80. 1928. (5 Dec 1928)",,,,,,41036-1,wfo-4000039908,7262520,,
+558867d0-8fcc-11eb-924d-9cd76263cbd0,species,gabonensis,Utsetela,,Pellegr.,,1928,,"Mém. Soc. Linn. Normandie, Bot. 1(2): 81 1928",,,,,,858040-1,wfo-0000417802,3763954,,
+b62f3f6e-8fd1-11eb-924d-9cd76263cbd0,species,neglecta,Utsetela,,Jongkind,,1995,,"Bull. Jard. Bot. Belg. 64: 179 1995",,Q55776647,,,,984065-1,wfo-0001235873,3763945,,

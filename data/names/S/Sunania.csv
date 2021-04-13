@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaf6edfa-8fd1-11eb-924d-9cd76263cbd0,genus,Sunania,,,Raf.,1836,"Fl. Tellur. 3: 95. 1836[1837].",,,,,,wfo-4000037082,7291282,
-bbb1e054-8fd1-11eb-924d-9cd76263cbd0,species,filiformis,Sunania,,"(Thunb.) Raf.",1837,"Fl. Tellur. 3: 95 1837",,,,,697707-1,wfo-0001246052,4033366,
-c9c3bdde-8fd1-11eb-924d-9cd76263cbd0,species,neofiliformis,Sunania,,"(Nakai) H.Hara",,,,,,,,wfo-0001272195,4033359,
-8b4efb7c-8fcc-11eb-924d-9cd76263cbd0,species,virginiana,Sunania,,"(L.) H.Hara",1962,"J. Jap. Bot. 37: 330 1962",,,,,246505-2,wfo-0000503406,7291283,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaf6edfa-8fd1-11eb-924d-9cd76263cbd0,genus,Sunania,,,Raf.,,1836,,"Fl. Tellur. 3: 95. 1836[1837].",,,,,,,wfo-4000037082,7291282,,
+bbb1e054-8fd1-11eb-924d-9cd76263cbd0,species,filiformis,Sunania,,"(Thunb.) Raf.",,1837,,"Fl. Tellur. 3: 95 1837",,,,,,697707-1,wfo-0001246052,4033366,,
+c9c3bdde-8fd1-11eb-924d-9cd76263cbd0,species,neofiliformis,Sunania,,"(Nakai) H.Hara",,,,,,,,,,,wfo-0001272195,4033359,,
+8b4efb7c-8fcc-11eb-924d-9cd76263cbd0,species,virginiana,Sunania,,"(L.) H.Hara",,1962,,"J. Jap. Bot. 37: 330 1962",,Q104824001,,,,246505-2,wfo-0000503406,7291283,,

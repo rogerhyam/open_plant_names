@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4375540-8fd1-11eb-924d-9cd76263cbd0,genus,Guaiabara,,,Mill.,1754,"Gard. Dict. Abr. (ed. 4) 1754.",,,,,,wfo-4000016290,7291582,
-06ff902e-8fcd-11eb-924d-9cd76263cbd0,species,laurifolia,Guaiabara,,House,1922,"Amer. Midl. Naturalist 8: 64 1922",,,,,113785-2,wfo-0000710659,4035360,
-06ffb6bc-8fcd-11eb-924d-9cd76263cbd0,species,uvifera,Guaiabara,,"(L.) House",1922,"Amer. Midl. Naturalist 8: 64 1922",,,,,113786-2,wfo-0000710660,4035342,
-06ffda66-8fcd-11eb-924d-9cd76263cbd0,species,venosa,Guaiabara,,House,1922,"Amer. Midl. Naturalist 8: 64 1922",,,,,113787-2,wfo-0000710661,4035324,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4375540-8fd1-11eb-924d-9cd76263cbd0,genus,Guaiabara,,,Mill.,,1754,,"Gard. Dict. Abr. (ed. 4) 1754.",,,,,,,wfo-4000016290,7291582,,
+06ff902e-8fcd-11eb-924d-9cd76263cbd0,species,laurifolia,Guaiabara,,House,,1922,,"Amer. Midl. Naturalist 8: 64 1922",,Q55773187,,,,113785-2,wfo-0000710659,4035360,,
+06ffb6bc-8fcd-11eb-924d-9cd76263cbd0,species,uvifera,Guaiabara,,"(L.) House",,1922,,"Amer. Midl. Naturalist 8: 64 1922",,Q55773187,,,,113786-2,wfo-0000710660,4035342,,
+06ffda66-8fcd-11eb-924d-9cd76263cbd0,species,venosa,Guaiabara,,House,,1922,,"Amer. Midl. Naturalist 8: 64 1922",,Q55773187,,,,113787-2,wfo-0000710661,4035324,,

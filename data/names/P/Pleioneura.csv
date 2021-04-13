@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b44592-8fd1-11eb-924d-9cd76263cbd0,genus,Pleioneura,,,Rech.f.,1951,"Bot. Jahrb. Syst. 75: 357. 1951.",,,,,,wfo-4000030245,3231715,
-5d9e7008-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Pleioneura,,"(C.E.Hubb. & Schweick.) J.B.Phipps",1973,"Bol. Soc. Brot. II, 46: 420 1973",,,,576c63ac-8fcd-11eb-924d-9cd76263cbd0,416372-1,wfo-0000891216,5676327,
-d849e6b2-8fd1-11eb-924d-9cd76263cbd0,species,griffithiana,Pleioneura,,"(Boiss.) Rech.f.",1951,"Bot. Jahrb. Syst. 75: 357 1951",,,,,156028-1,wfo-0001292169,5584280,
-5d9e8b60-8fcd-11eb-924d-9cd76263cbd0,species,petiolata,Pleioneura,,"(J.B.Phipps) J.B.Phipps",1973,"Bol. Soc. Brot. II, 46: 421 1973",,,,6007fd00-8fcd-11eb-924d-9cd76263cbd0,416373-1,wfo-0000891217,5676324,
-5d9ea7bc-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Pleioneura,,"(Stapf) J.B.Phipps",1973,"Bol. Soc. Brot. II, 46: 419 1973",,,,68f537e8-8fcd-11eb-924d-9cd76263cbd0,416374-1,wfo-0000891218,5676320,
-4415c8c6-8fcc-11eb-924d-9cd76263cbd0,species,silenoides,Pleioneura,,Rech.f.,1951,"Bot. Jahrb. Syst. 75: 358 1951",,,,,156029-1,wfo-0000395766,5584276,
-5d9ec198-8fcd-11eb-924d-9cd76263cbd0,species,simulans,Pleioneura,,"(C.E.Hubb.) J.B.Phipps",1973,"Bol. Soc. Brot. II, 46: 420 1973",,,,5772ecc2-8fcd-11eb-924d-9cd76263cbd0,416375-1,wfo-0000891219,5676315,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b44592-8fd1-11eb-924d-9cd76263cbd0,genus,Pleioneura,,,Rech.f.,,1951,,"Bot. Jahrb. Syst. 75: 357. 1951.",,,,,,,wfo-4000030245,3231715,,
+5d9e7008-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Pleioneura,,"(C.E.Hubb. & Schweick.) J.B.Phipps",,1973,,"Bol. Soc. Brot. II, 46: 420 1973",,,,576c63ac-8fcd-11eb-924d-9cd76263cbd0,,416372-1,wfo-0000891216,5676327,,
+d849e6b2-8fd1-11eb-924d-9cd76263cbd0,species,griffithiana,Pleioneura,,"(Boiss.) Rech.f.",,1951,,"Bot. Jahrb. Syst. 75: 357 1951",,,,,,156028-1,wfo-0001292169,5584280,,
+5d9e8b60-8fcd-11eb-924d-9cd76263cbd0,species,petiolata,Pleioneura,,"(J.B.Phipps) J.B.Phipps",,1973,,"Bol. Soc. Brot. II, 46: 421 1973",,,,6007fd00-8fcd-11eb-924d-9cd76263cbd0,,416373-1,wfo-0000891217,5676324,,
+5d9ea7bc-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Pleioneura,,"(Stapf) J.B.Phipps",,1973,,"Bol. Soc. Brot. II, 46: 419 1973",,,,68f537e8-8fcd-11eb-924d-9cd76263cbd0,,416374-1,wfo-0000891218,5676320,,
+4415c8c6-8fcc-11eb-924d-9cd76263cbd0,species,silenoides,Pleioneura,,Rech.f.,,1951,,"Bot. Jahrb. Syst. 75: 358 1951",,,,,,156029-1,wfo-0000395766,5584276,,
+5d9ec198-8fcd-11eb-924d-9cd76263cbd0,species,simulans,Pleioneura,,"(C.E.Hubb.) J.B.Phipps",,1973,,"Bol. Soc. Brot. II, 46: 420 1973",,,,5772ecc2-8fcd-11eb-924d-9cd76263cbd0,,416375-1,wfo-0000891219,5676315,,

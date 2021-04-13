@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e76760a2-8fd1-11eb-924d-9cd76263cbd0,genus,Nuttallanthus,,,D.A.Sutton,1988,"Revis. Antirrhineae 455–461, f. 122. 1988.",,,,,30023779-2,wfo-4000026385,3172128,
-38e4085a-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nuttallanthus,,"(L.) D.A.Sutton",1988,"Rev. Antirrh. 457 1988",,,,,281417-2,wfo-0000381303,3172134,
-b7e9fc7c-8fd1-11eb-924d-9cd76263cbd0,species,floridanus,Nuttallanthus,,"(Chapm.) D.A.Sutton",1988,"Revis. Antirrhineae 461 1988",,,,,281418-2,wfo-0001239144,3172132,
-b7e98f9e-8fd1-11eb-924d-9cd76263cbd0,species,subandinus,Nuttallanthus,,"(Diels) D.A.Sutton",1988,"Revis. Antirrhineae 459 1988",,,,,946027-1,wfo-0001239142,3736478,
-b7e9d648-8fd1-11eb-924d-9cd76263cbd0,species,texanus,Nuttallanthus,,"(Scheele) D.A.Sutton",1988,"Revis. Antirrhineae 460 1988",,,,,281420-2,wfo-0001239143,3172129,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e76760a2-8fd1-11eb-924d-9cd76263cbd0,genus,Nuttallanthus,,,D.A.Sutton,,1988,,"Revis. Antirrhineae 455–461, f. 122. 1988.",,,,,,30023779-2,wfo-4000026385,3172128,,
+38e4085a-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nuttallanthus,,"(L.) D.A.Sutton",,1988,,"Rev. Antirrh. 457 1988",,,,,,281417-2,wfo-0000381303,3172134,,
+b7e9fc7c-8fd1-11eb-924d-9cd76263cbd0,species,floridanus,Nuttallanthus,,"(Chapm.) D.A.Sutton",,1988,,"Revis. Antirrhineae 461 1988",,,,,,281418-2,wfo-0001239144,3172132,,
+b7e98f9e-8fd1-11eb-924d-9cd76263cbd0,species,subandinus,Nuttallanthus,,"(Diels) D.A.Sutton",,1988,,"Revis. Antirrhineae 459 1988",,,,,,946027-1,wfo-0001239142,3736478,,
+b7e9d648-8fd1-11eb-924d-9cd76263cbd0,species,texanus,Nuttallanthus,,"(Scheele) D.A.Sutton",,1988,,"Revis. Antirrhineae 460 1988",,,,,,281420-2,wfo-0001239143,3172129,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67efa9c-8fd1-11eb-924d-9cd76263cbd0,genus,Melachone,,,Gilli,1979,"Ann. Naturhist. Mus. Wien 83: 459. 1979[1980].",,,,,,wfo-4000023558,7270959,
-e0b637c0-8fcb-11eb-924d-9cd76263cbd0,species,microphylla,Melachone,,Gilli,1979,"Ann. Naturhist. Mus. Wien 83: 460 1979 publ. 1980",,,,,896589-1,wfo-0000239374,3846569,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67efa9c-8fd1-11eb-924d-9cd76263cbd0,genus,Melachone,,,Gilli,,1979,,"Ann. Naturhist. Mus. Wien 83: 459. 1979[1980].",,,,,,,wfo-4000023558,7270959,,
+e0b637c0-8fcb-11eb-924d-9cd76263cbd0,species,microphylla,Melachone,,Gilli,,1979,,"Ann. Naturhist. Mus. Wien 83: 460 1979 publ. 1980",,,,,,896589-1,wfo-0000239374,3846569,,

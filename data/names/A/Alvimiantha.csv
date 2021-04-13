@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df28fee6-8fd1-11eb-924d-9cd76263cbd0,genus,Alvimiantha,,,Grey-Wilson,1978,"Bradea 2: 287. 1978.",,,,,298416-2,wfo-4000001430,7273991,
-9a6731f6-8fcc-11eb-924d-9cd76263cbd0,species,tricamerata,Alvimiantha,,Grey-Wilson,1978,"Bradea 2: 288 1978",,,,,10512-2,wfo-0000529121,3877277,
-852d963a-8fcd-11eb-924d-9cd76263cbd0,species,tenuis,Alvisia,,Lindl.,1859,"Fol. Orchid. 8: 1 1859",,,,,615617-1,wfo-0000953838,2796474,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df28fee6-8fd1-11eb-924d-9cd76263cbd0,genus,Alvimiantha,,,Grey-Wilson,,1978,,"Bradea 2: 287. 1978.",,,,,,298416-2,wfo-4000001430,7273991,,
+9a6731f6-8fcc-11eb-924d-9cd76263cbd0,species,tricamerata,Alvimiantha,,Grey-Wilson,,1978,,"Bradea 2: 288 1978",,,,,,10512-2,wfo-0000529121,3877277,,
+852d963a-8fcd-11eb-924d-9cd76263cbd0,species,tenuis,Alvisia,,Lindl.,,1859,,"Fol. Orchid. 8: 1 1859",,,,,,615617-1,wfo-0000953838,2796474,,

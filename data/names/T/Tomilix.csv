@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb6706c6-8fd1-11eb-924d-9cd76263cbd0,genus,Tomilix,,,,,,,,,,,wfo-4000038547,7331766,
-70f8816c-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Tomilix,,Raf.,1837,"New Fl. 2: 72 1837",,,,,810343-1,wfo-0000459156,3726169,
-97d2ad5c-8fbe-11eb-924d-9cd76263cbd0,species,tomitaroana,,,Nakaike,2004,"J. Nippon Fernist Club 3(Suppl. 2): 128 2004 [Feb. 2004]",,,,,60433528-2,wfo-0000154809,,
-852993d2-8fbe-11eb-924d-9cd76263cbd0,species,tomitaroanum,,,Nakaike,1992,"New Fl. Jap. Pterid. 840 (1992): 1992",,,,,17560340-1,wfo-0000154366,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb6706c6-8fd1-11eb-924d-9cd76263cbd0,genus,Tomilix,,,,,,,,,,,,,,wfo-4000038547,7331766,,
+70f8816c-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Tomilix,,Raf.,,1837,,"New Fl. 2: 72 1837",,,,,,810343-1,wfo-0000459156,3726169,,
+97d2ad5c-8fbe-11eb-924d-9cd76263cbd0,species,tomitaroana,,,Nakaike,,2004,,"J. Nippon Fernist Club 3(Suppl. 2): 128 2004 [Feb. 2004]",,,,,,60433528-2,wfo-0000154809,,,
+852993d2-8fbe-11eb-924d-9cd76263cbd0,species,tomitaroanum,,,Nakaike,,1992,,"New Fl. Jap. Pterid. 840 (1992): 1992",,,,,,17560340-1,wfo-0000154366,,,

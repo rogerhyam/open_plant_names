@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebb1ef24-8fd1-11eb-924d-9cd76263cbd0,genus,Tsingya,,,Capuron,1969,"Mém. Mus. Natl. Hist. Nat., B, Bot. ser. 2. 19: 104. 1969.",,,,,36623-1,wfo-4000039512,7264895,
-d8f0cbde-8fcd-11eb-924d-9cd76263cbd0,species,bemarana,Tsingya,,Capuron,1969,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 104–105 1969",,,,,785543-1,wfo-0001135109,3785907,
-74dbeeee-8fcd-11eb-924d-9cd76263cbd0,species,kimballiana,Tsiorchis,,"(Rchb.f.) Z.J.Liu, S.C.Chen & L.J.Chen",2011,"PLoS ONE 6(10): 8 2011",,,,19b0b9f6-8fcc-11eb-924d-9cd76263cbd0,77113680-1,wfo-0000920520,8424419,
-74dceb6e-8fcd-11eb-924d-9cd76263cbd0,species,wangii,Tsiorchis,,"(Christenson) Z.J.Liu, S.C.Chen & L.J.Chen",2011,"PLoS ONE 6(10): 8 2011",,,,92d83c7c-8fcd-11eb-924d-9cd76263cbd0,77113681-1,wfo-0000920527,7571716,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebb1ef24-8fd1-11eb-924d-9cd76263cbd0,genus,Tsingya,,,Capuron,,1969,,"Mém. Mus. Natl. Hist. Nat., B, Bot. ser. 2. 19: 104. 1969.",,,,,,36623-1,wfo-4000039512,7264895,,
+d8f0cbde-8fcd-11eb-924d-9cd76263cbd0,species,bemarana,Tsingya,,Capuron,,1969,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 104–105 1969",,,,,,785543-1,wfo-0001135109,3785907,,
+74dbeeee-8fcd-11eb-924d-9cd76263cbd0,species,kimballiana,Tsiorchis,,"(Rchb.f.) Z.J.Liu, S.C.Chen & L.J.Chen",,2011,,"PLoS ONE 6(10): 8 2011",,Q34053263,,19b0b9f6-8fcc-11eb-924d-9cd76263cbd0,,77113680-1,wfo-0000920520,8424419,,
+74dceb6e-8fcd-11eb-924d-9cd76263cbd0,species,wangii,Tsiorchis,,"(Christenson) Z.J.Liu, S.C.Chen & L.J.Chen",,2011,,"PLoS ONE 6(10): 8 2011",,Q34053263,,92d83c7c-8fcd-11eb-924d-9cd76263cbd0,,77113681-1,wfo-0000920527,7571716,,

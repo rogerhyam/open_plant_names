@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95b4e64-8fd1-11eb-924d-9cd76263cbd0,genus,Puna,,,R.Kiesling,1982,"Hickenia 1(55): 289–294, f. 1–2. 1982.",,,,,,wfo-4000032178,7283388,
-be556fce-8fd1-11eb-924d-9cd76263cbd0,species,bonnieae,Puna,,"D.J.Ferguson & R.Kiesling",1997,"Cact. Succ. J. (Los Angeles) 69: 290 1997",,,,,999271-1,wfo-0001250950,5624736,
-d6bcfabe-8fd1-11eb-924d-9cd76263cbd0,species,clavarioides,Puna,,"(Pfeiff.) R.Kiesling",,,,,,,1050052-2,wfo-0001289353,7283395,
-d6bda752-8fd1-11eb-924d-9cd76263cbd0,species,subterranea,Puna,,"(R.E.Fr.) R.Kiesling",1982,"Hickenia 1: 293 1982",,,,d6bd8a56-8fd1-11eb-924d-9cd76263cbd0,911222-1,wfo-0001289359,5624719,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95b4e64-8fd1-11eb-924d-9cd76263cbd0,genus,Puna,,,R.Kiesling,,1982,,"Hickenia 1(55): 289–294, f. 1–2. 1982.",,,,,,,wfo-4000032178,7283388,,
+be556fce-8fd1-11eb-924d-9cd76263cbd0,species,bonnieae,Puna,,"D.J.Ferguson & R.Kiesling",,1997,,"Cact. Succ. J. (Los Angeles) 69: 290 1997",,,,,,999271-1,wfo-0001250950,5624736,,
+d6bcfabe-8fd1-11eb-924d-9cd76263cbd0,species,clavarioides,Puna,,"(Pfeiff.) R.Kiesling",,,,,,,,,,1050052-2,wfo-0001289353,7283395,,
+d6bda752-8fd1-11eb-924d-9cd76263cbd0,species,subterranea,Puna,,"(R.E.Fr.) R.Kiesling",,1982,,"Hickenia 1: 293 1982",,,,d6bd8a56-8fd1-11eb-924d-9cd76263cbd0,,911222-1,wfo-0001289359,5624719,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea05d5aa-8fd1-11eb-924d-9cd76263cbd0,genus,Scaraboides,,,"Magee & B.-E.van Wyk",,,,,,,77104242-1,wfo-4000034257,4928221,
-19733224-8fcd-11eb-924d-9cd76263cbd0,species,manningii,Scaraboides,,"Magee & B.-E.van Wyk",2009,"Syst. Bot. 34: 591 2009",,,,,77104243-1,wfo-0000745844,8237841,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea05d5aa-8fd1-11eb-924d-9cd76263cbd0,genus,Scaraboides,,,"Magee & B.-E.van Wyk",,,,,,Q55763950,,,,77104242-1,wfo-4000034257,4928221,,
+19733224-8fcd-11eb-924d-9cd76263cbd0,species,manningii,Scaraboides,,"Magee & B.-E.van Wyk",,2009,,"Syst. Bot. 34: 591 2009",,Q55763950,,,,77104243-1,wfo-0000745844,8237841,,

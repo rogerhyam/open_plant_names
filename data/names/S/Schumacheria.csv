@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea223164-8fd1-11eb-924d-9cd76263cbd0,genus,Schumacheria,,,Vahl,1810,"Skr. Naturhist.-Selsk. 6: 122. 1810.",,,,,14228-1,wfo-4000034621,3234604,
-893b72d4-8fcc-11eb-924d-9cd76263cbd0,species,alnifolia,Schumacheria,,"Hook.f. & Thomson",1855,"Fl. Ind. 1: 66 1855",,,,,317340-1,wfo-0000500188,5681002,
-893871ce-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Schumacheria,,"Hook.f. & Thomson",1855,"Fl. Ind. 1: 66 1855",,,,,317341-1,wfo-0000500164,5680875,
-b732f784-8fd1-11eb-924d-9cd76263cbd0,species,castanifolia,Schumacheria,,Vahl,1810,"Skr. Naturhist.-Selsk. 6: 122 1810",,,,,317342-1,wfo-0001237806,8158055,
-89d471a0-8fcc-11eb-924d-9cd76263cbd0,species,raphanoides,Schumacheria,,"Spreng. ex D.Dietr.",,"Syn. Pl. 2: 1008 1840",,,,,836498-1,wfo-0000501074,7778910,
-bae74b7c-8fcd-11eb-924d-9cd76263cbd0,species,karelinii,Schumannia,,"(Bunge) Korovin",1947,"Monogr. Ferula 81 1947",,,,,,wfo-0001068543,5538990,
-bb4bebcc-8fcd-11eb-924d-9cd76263cbd0,species,turcomanica,Schumannia,,Kuntze,1887,"Trudy Imp. S.-Peterburgsk. Bot. Sada 10(1): 192–193 1887",,,,,,wfo-0001069436,5538985,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea223164-8fd1-11eb-924d-9cd76263cbd0,genus,Schumacheria,,,Vahl,,1810,,"Skr. Naturhist.-Selsk. 6: 122. 1810.",,,,,,14228-1,wfo-4000034621,3234604,,
+893b72d4-8fcc-11eb-924d-9cd76263cbd0,species,alnifolia,Schumacheria,,"Hook.f. & Thomson",,1855,,"Fl. Ind. 1: 66 1855",,,,,,317340-1,wfo-0000500188,5681002,,
+893871ce-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Schumacheria,,"Hook.f. & Thomson",,1855,,"Fl. Ind. 1: 66 1855",,,,,,317341-1,wfo-0000500164,5680875,,
+b732f784-8fd1-11eb-924d-9cd76263cbd0,species,castanifolia,Schumacheria,,Vahl,,1810,,"Skr. Naturhist.-Selsk. 6: 122 1810",,,,,,317342-1,wfo-0001237806,8158055,,
+89d471a0-8fcc-11eb-924d-9cd76263cbd0,species,raphanoides,Schumacheria,,"Spreng. ex D.Dietr.",,,,"Syn. Pl. 2: 1008 1840",,,,,,836498-1,wfo-0000501074,7778910,,
+bae74b7c-8fcd-11eb-924d-9cd76263cbd0,species,karelinii,Schumannia,,"(Bunge) Korovin",,1947,,"Monogr. Ferula 81 1947",,,,,,,wfo-0001068543,5538990,,
+bb4bebcc-8fcd-11eb-924d-9cd76263cbd0,species,turcomanica,Schumannia,,Kuntze,,1887,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 10(1): 192–193 1887",,,,,,,wfo-0001069436,5538985,,

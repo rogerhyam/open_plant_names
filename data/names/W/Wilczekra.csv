@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec78f858-8fd1-11eb-924d-9cd76263cbd0,genus,Wilczekra,,,M.P.Simmons,2013,"Syst. Bot. 38: 150 (2013)",,,,,77130725-1,wfo-4001303469,8323153,
-1b89512a-8fcc-11eb-924d-9cd76263cbd0,species,laurentii,Wildemaniodoxa,,"(De Wild.) Aubrév. & Pellegr.",1961,"Notul. Syst. (Paris) 16: 251 1961",,,,,790055-1,wfo-0000334330,2888067,
-1b89ba52-8fcc-11eb-924d-9cd76263cbd0,variety,lundensis,Wildemaniodoxa,laurentii,"(Cavaco) Liben",1988,"Bull. Jard. Bot. Natl. Belg. 58: 556 1988",,,,,954890-1,wfo-0000334331,2888070,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec78f858-8fd1-11eb-924d-9cd76263cbd0,genus,Wilczekra,,,M.P.Simmons,,2013,,"Syst. Bot. 38: 150 (2013)",,Q54552621,,,,77130725-1,wfo-4001303469,8323153,,
+1b89512a-8fcc-11eb-924d-9cd76263cbd0,species,laurentii,Wildemaniodoxa,,"(De Wild.) Aubrév. & Pellegr.",,1961,,"Notul. Syst. (Paris) 16: 251 1961",,,,,,790055-1,wfo-0000334330,2888067,,
+1b89ba52-8fcc-11eb-924d-9cd76263cbd0,variety,lundensis,Wildemaniodoxa,laurentii,"(Cavaco) Liben",,1988,,"Bull. Jard. Bot. Natl. Belg. 58: 556 1988",,Q55776625,,,,954890-1,wfo-0000334331,2888070,,

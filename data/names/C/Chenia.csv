@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1938cd2-8fd1-11eb-924d-9cd76263cbd0,genus,Chenia,,,R.H.Zander,1989,"Phytologia 65: 424. 1989.",,,,,,wfo-4000007808,2670560,
-f7569ec8-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Chenia,,"(Müll.Hal.) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 258 1993",,,,,,wfo-0001198733,5280189,
-f756fcc4-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Chenia,,"(Müll.Hal.) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 258 1993",,,,,,wfo-0001198734,5280188,
-f5d85118-8fcd-11eb-924d-9cd76263cbd0,species,rhizophylla,Chenia,,"(Sakurai) R.H.Zander",1989,"Phytologia 65: 425 1989",,,,,,wfo-0001195418,7999129,
-fedd5aa6-8fcd-11eb-924d-9cd76263cbd0,species,ruigtevleia,Chenia,,"Hedd. & R.H.Zander",2008,"Bryologist 111: 497 2008",,,,,,wfo-0001214461,7684365,
-f5d86efa-8fcd-11eb-924d-9cd76263cbd0,species,subobliqua,Chenia,,"(R.S.Williams) R.H.Zander",1989,"Phytologia 65: 425 1989",,,,e2008cf0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195419,5280190,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1938cd2-8fd1-11eb-924d-9cd76263cbd0,genus,Chenia,,,R.H.Zander,,1989,,"Phytologia 65: 424. 1989.",,,,,,,wfo-4000007808,2670560,,
+f7569ec8-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Chenia,,"(Müll.Hal.) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 258 1993",,,,,,,wfo-0001198733,5280189,,
+f756fcc4-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Chenia,,"(Müll.Hal.) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 258 1993",,,,,,,wfo-0001198734,5280188,,
+f5d85118-8fcd-11eb-924d-9cd76263cbd0,species,rhizophylla,Chenia,,"(Sakurai) R.H.Zander",,1989,,"Phytologia 65: 425 1989",,,,,,,wfo-0001195418,7999129,,
+fedd5aa6-8fcd-11eb-924d-9cd76263cbd0,species,ruigtevleia,Chenia,,"Hedd. & R.H.Zander",,2008,,"Bryologist 111: 497 2008",,,,,,,wfo-0001214461,7684365,,
+f5d86efa-8fcd-11eb-924d-9cd76263cbd0,species,subobliqua,Chenia,,"(R.S.Williams) R.H.Zander",,1989,,"Phytologia 65: 425 1989",,,,e2008cf0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195419,5280190,,

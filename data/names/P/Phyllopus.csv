@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e872b23a-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllopus,,,DC.,1828,"Prodr. 3: 177. 1828.",,,,,,wfo-4000029458,3231524,
-c7e15b7a-8fd1-11eb-924d-9cd76263cbd0,species,martii,Phyllopus,,DC.,1828,"Prodr. 3: 177 1828",,,,,,wfo-0001268527,8345250,
-b20fcd66-8fbf-11eb-924d-9cd76263cbd0,species,martiusii,Phyllopus,,DC.,1828,"Prodr. (DC.) 3: 178 1828 [mid Mar 1828]",,,,,574738-1,wfo-0000161500,5601658,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e872b23a-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllopus,,,DC.,,1828,,"Prodr. 3: 177. 1828.",,,,,,,wfo-4000029458,3231524,,
+c7e15b7a-8fd1-11eb-924d-9cd76263cbd0,species,martii,Phyllopus,,DC.,,1828,,"Prodr. 3: 177 1828",,,,,,,wfo-0001268527,8345250,,
+b20fcd66-8fbf-11eb-924d-9cd76263cbd0,species,martiusii,Phyllopus,,DC.,,1828,,"Prodr. (DC.) 3: 178 1828 [mid Mar 1828]",,,,,,574738-1,wfo-0000161500,5601658,,

@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee82dbc-8fd1-11eb-924d-9cd76263cbd0,genus,Adrorhizon,,,Hook.f.,1898,"Handb. Fl. Ceylon 4: 161. 1898.",,,,,28617-1,wfo-4000000727,2813376,
-30cd6688-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Adrorhizon,,"(Thwaites) Hook.f.",1898,"Handb. Fl. Ceylon 4: 161 1898",,,,,614958-1,wfo-0000795572,2813377,
-46252200-8fcd-11eb-924d-9cd76263cbd0,species,adscendens,,,"(Guss.) Maire & Weiller",1953,"in Fl. Afr. Nord 2: 151 1953",,,,5f4c8ca0-8fcd-11eb-924d-9cd76263cbd0,418744-1,wfo-0000841130,,
-ed2f831c-8fcb-11eb-924d-9cd76263cbd0,species,adulterina,,,E.G.Camus,1894,"J. Bot. (Morot) 6: 32 1894",,,,,648185-1,wfo-0000260188,,
-64066006-8fb2-11eb-924d-9cd76263cbd0,species,ciliata,Adventina,,Raf.,1836,"New Fl. 1 67 1836",,,,,175084-1,wfo-0000023038,3132584,
-45e706ee-8fb6-11eb-924d-9cd76263cbd0,species,parviflora,Adventina,,"(Cav.) Raf.",1836,"New Fl. 1 67 1836",,,,,175085-1,wfo-0000087635,3132576,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee82dbc-8fd1-11eb-924d-9cd76263cbd0,genus,Adrorhizon,,,Hook.f.,,1898,,"Handb. Fl. Ceylon 4: 161. 1898.",,,,,,28617-1,wfo-4000000727,2813376,,
+30cd6688-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Adrorhizon,,"(Thwaites) Hook.f.",,1898,,"Handb. Fl. Ceylon 4: 161 1898",,,,,,614958-1,wfo-0000795572,2813377,,
+46252200-8fcd-11eb-924d-9cd76263cbd0,species,adscendens,,,"(Guss.) Maire & Weiller",,1953,,"in Fl. Afr. Nord 2: 151 1953",,,,5f4c8ca0-8fcd-11eb-924d-9cd76263cbd0,,418744-1,wfo-0000841130,,,
+ed2f831c-8fcb-11eb-924d-9cd76263cbd0,species,adulterina,,,E.G.Camus,,1894,,"J. Bot. (Morot) 6: 32 1894",,,,,,648185-1,wfo-0000260188,,,

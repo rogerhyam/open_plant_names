@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e252219c-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathostegia,,,"(Benth.) Schery",,,,,,,22160-1,wfo-4000010213,2981469,
-637f0d96-8fc0-11eb-924d-9cd76263cbd0,species,matthewsii,Cyathostegia,,"(Benth.) Schery",,,,,,,,wfo-0000165694,2981470,
-b310840a-8fd1-11eb-924d-9cd76263cbd0,species,pachanoi,Cyathostegia,,Stirt.,,,,,,,,wfo-0001230134,8011949,
-a2112baa-8fc2-11eb-924d-9cd76263cbd0,species,weberbaueri,Cyathostegia,,"(Harms) Schery",,,,,,,,wfo-0000178531,2981473,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e252219c-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathostegia,,,"(Benth.) Schery",,,,,,Q55764734,,,,22160-1,wfo-4000010213,2981469,,
+637f0d96-8fc0-11eb-924d-9cd76263cbd0,species,matthewsii,Cyathostegia,,"(Benth.) Schery",,,,,,,,,,,wfo-0000165694,2981470,,
+b310840a-8fd1-11eb-924d-9cd76263cbd0,species,pachanoi,Cyathostegia,,Stirt.,,,,,,,,,,,wfo-0001230134,8011949,,
+a2112baa-8fc2-11eb-924d-9cd76263cbd0,species,weberbaueri,Cyathostegia,,"(Harms) Schery",,,,,,,,,,,wfo-0000178531,2981473,,

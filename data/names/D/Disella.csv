@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ea4076-8fd1-11eb-924d-9cd76263cbd0,genus,Disella,,,Greene,1906,"Leafl. Bot. Observ. Crit. 1(15): [208–]209. 1906.",,,,,,wfo-4000012162,6640994,
-e52cf536-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Disella,,Greene,1906,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,,82229-2,wfo-0000652146,3935977,
-e52d1534-8fcc-11eb-924d-9cd76263cbd0,species,hederacea,Disella,,"(Douglas ex Hook.) Greene",1906,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,6b5d19ca-8fcc-11eb-924d-9cd76263cbd0,82230-2,wfo-0000652147,3935962,
-e52d3424-8fcc-11eb-924d-9cd76263cbd0,species,lepidota,Disella,,"(A.Gray) Greene",1906,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,b572458a-8fd1-11eb-924d-9cd76263cbd0,82231-2,wfo-0000652148,3935946,
-e52d5670-8fcc-11eb-924d-9cd76263cbd0,species,sagittifolia,Disella,,"(A.Gray) Greene",1906,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,b572a3fe-8fd1-11eb-924d-9cd76263cbd0,82232-2,wfo-0000652149,3935932,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ea4076-8fd1-11eb-924d-9cd76263cbd0,genus,Disella,,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1(15): [208–]209. 1906.",,,,,,,wfo-4000012162,6640994,,
+e52cf536-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Disella,,Greene,,1906,,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,,,82229-2,wfo-0000652146,3935977,,
+e52d1534-8fcc-11eb-924d-9cd76263cbd0,species,hederacea,Disella,,"(Douglas ex Hook.) Greene",,1906,,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,6b5d19ca-8fcc-11eb-924d-9cd76263cbd0,,82230-2,wfo-0000652147,3935962,,
+e52d3424-8fcc-11eb-924d-9cd76263cbd0,species,lepidota,Disella,,"(A.Gray) Greene",,1906,,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,b572458a-8fd1-11eb-924d-9cd76263cbd0,,82231-2,wfo-0000652148,3935946,,
+e52d5670-8fcc-11eb-924d-9cd76263cbd0,species,sagittifolia,Disella,,"(A.Gray) Greene",,1906,,"Leafl. Bot. Observ. Crit. 1: 209 1906",,,,b572a3fe-8fd1-11eb-924d-9cd76263cbd0,,82232-2,wfo-0000652149,3935932,,

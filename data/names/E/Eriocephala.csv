@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36e7a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocephala,,,Backeb.,1938,"Blätt. Kakteenf. 1938(6): [7, 21, 23]. 1938.",,,,,,wfo-4000013810,7280420,
-f2227c7a-8fcc-11eb-924d-9cd76263cbd0,species,grossei,Eriocephala,,"(K.Schum.) Y.Itô",1957,"Expl. Diagr. Austroechinocact. 252 1957",,,,ea27838a-8fcc-11eb-924d-9cd76263cbd0,132999-1,wfo-0000674284,5620463,
-f22298ae-8fcc-11eb-924d-9cd76263cbd0,species,lenninghausii,Eriocephala,,"(F.Haage) Backeb. ex Heinrich",1940,"Kakteenkunde 1940: 1 1940",,,,45dc34ba-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000674285,7362580,
-f222d062-8fcc-11eb-924d-9cd76263cbd0,species,schumanniana,Eriocephala,,"(Nicolai) Y.Itô",1957,"Expl. Diagr. Austroechinocact. 252 1957",,,,,133001-1,wfo-0000674286,5620450,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36e7a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocephala,,,Backeb.,,1938,,"Blätt. Kakteenf. 1938(6): [7, 21, 23]. 1938.",,,,,,,wfo-4000013810,7280420,,
+f2227c7a-8fcc-11eb-924d-9cd76263cbd0,species,grossei,Eriocephala,,"(K.Schum.) Y.Itô",,1957,,"Expl. Diagr. Austroechinocact. 252 1957",,,,ea27838a-8fcc-11eb-924d-9cd76263cbd0,,132999-1,wfo-0000674284,5620463,,
+f22298ae-8fcc-11eb-924d-9cd76263cbd0,species,lenninghausii,Eriocephala,,"(F.Haage) Backeb. ex Heinrich",,1940,,"Kakteenkunde 1940: 1 1940",,,,45dc34ba-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000674285,7362580,,
+f222d062-8fcc-11eb-924d-9cd76263cbd0,species,schumanniana,Eriocephala,,"(Nicolai) Y.Itô",,1957,,"Expl. Diagr. Austroechinocact. 252 1957",,,,,,133001-1,wfo-0000674286,5620450,,

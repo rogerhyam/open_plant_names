@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ead52fc6-8fd1-11eb-924d-9cd76263cbd0,genus,Stictophyllorchis,,,"Dodson & Carnevali",1993,"Lindleyana 8(2): 101–102. 1993.",,,,,,wfo-4000036689,7320766,
-10f2ba94-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Stictophyllorchis,,"D.E.Benn. & Christenson",2001,"Icon. Orchid. Peruv. t. 778 2001",,,,,322946-2,wfo-0000316793,2784462,
-10f2df42-8fcc-11eb-924d-9cd76263cbd0,species,pygmaea,Stictophyllorchis,,"(Cogn.) Dodson & Carnevali",1993,"Lindleyana 8: 101 1993",,,,,972669-1,wfo-0000316794,2784463,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ead52fc6-8fd1-11eb-924d-9cd76263cbd0,genus,Stictophyllorchis,,,"Dodson & Carnevali",,1993,,"Lindleyana 8(2): 101–102. 1993.",,,,,,,wfo-4000036689,7320766,,
+10f2ba94-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Stictophyllorchis,,"D.E.Benn. & Christenson",,2001,,"Icon. Orchid. Peruv. t. 778 2001",,,,,,322946-2,wfo-0000316793,2784462,,
+10f2df42-8fcc-11eb-924d-9cd76263cbd0,species,pygmaea,Stictophyllorchis,,"(Cogn.) Dodson & Carnevali",,1993,,"Lindleyana 8: 101 1993",,,,,,972669-1,wfo-0000316794,2784463,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d1a026-8fd1-11eb-924d-9cd76263cbd0,genus,Cleoserrata,,,,,,,,,,,wfo-4000008586,8348277,
-d3bf6a22-8fd1-11eb-924d-9cd76263cbd0,species,paludosa,Cleoserrata,,"(Willd. ex Eichler) Iltis",,,,,,cd831e6a-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001285061,8067209,
-8e9965a6-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Cleoserrata,,"(Jacq.) Iltis",2007,"Novon 17: 448 2007",,,,cd921730-8fcc-11eb-924d-9cd76263cbd0,77089950-1,wfo-0000508838,3872003,
-8e998298-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Cleoserrata,,"(Raf.) Iltis",2007,"Novon 17: 448 2007",,,,,77089951-1,wfo-0000508839,3871995,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d1a026-8fd1-11eb-924d-9cd76263cbd0,genus,Cleoserrata,,,,,,,,,,,,,,wfo-4000008586,8348277,,
+d3bf6a22-8fd1-11eb-924d-9cd76263cbd0,species,paludosa,Cleoserrata,,"(Willd. ex Eichler) Iltis",,,,,,,,cd831e6a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001285061,8067209,,
+8e9965a6-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Cleoserrata,,"(Jacq.) Iltis",,2007,,"Novon 17: 448 2007",,Q54670885,,cd921730-8fcc-11eb-924d-9cd76263cbd0,,77089950-1,wfo-0000508838,3872003,,
+8e998298-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Cleoserrata,,"(Raf.) Iltis",,2007,,"Novon 17: 448 2007",,Q54670885,,,,77089951-1,wfo-0000508839,3871995,,

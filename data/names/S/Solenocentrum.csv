@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea80265c-8fd1-11eb-924d-9cd76263cbd0,genus,Solenocentrum,,,Schltr.,1911,"Repert. Spec. Nov. Regni Veg. 9: 163. 1911.",,,,,295096-2,wfo-4000035711,2805190,
-0d9d5188-8fcc-11eb-924d-9cd76263cbd0,species,asplundii,Solenocentrum,,"(Garay) Garay",1978,"Opera Bot., B 9(225: 1): 229 1978",,,,,657988-1,wfo-0000311691,2805193,
-0d9d86ee-8fcc-11eb-924d-9cd76263cbd0,species,costaricense,Solenocentrum,,Schltr.,1911,"Repert. Spec. Nov. Regni Veg. 9: 163 1911",,,,,240059-2,wfo-0000311693,2805195,
-0d9da0e8-8fcc-11eb-924d-9cd76263cbd0,species,lueri,Solenocentrum,,"Dodson & R.Vásquez",1989,"Icon. Pl. Trop. II, 3: t. 300 1989",,,,,938780-1,wfo-0000311694,2805192,
-0d9dbd76-8fcc-11eb-924d-9cd76263cbd0,species,maasii,Solenocentrum,,Dressler,1998,"Bol. Inst. Bot. (Guadalajara) 5: 83 1998",,,,,315772-2,wfo-0000311695,2805191,
-61bbd118-8fcc-11eb-924d-9cd76263cbd0,species,assurgens,Solenochasma,,"(L.) Fenzl",1844,"Ecl. Pl. Rar. 2: 1 1844",,,,,1113034-2,wfo-0000433512,3775268,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea80265c-8fd1-11eb-924d-9cd76263cbd0,genus,Solenocentrum,,,Schltr.,,1911,,"Repert. Spec. Nov. Regni Veg. 9: 163. 1911.",,Q55752224,,,,295096-2,wfo-4000035711,2805190,,
+0d9d5188-8fcc-11eb-924d-9cd76263cbd0,species,asplundii,Solenocentrum,,"(Garay) Garay",,1978,,"Opera Bot., B 9(225: 1): 229 1978",,,,,,657988-1,wfo-0000311691,2805193,,
+0d9d86ee-8fcc-11eb-924d-9cd76263cbd0,species,costaricense,Solenocentrum,,Schltr.,,1911,,"Repert. Spec. Nov. Regni Veg. 9: 163 1911",,Q55752224,,,,240059-2,wfo-0000311693,2805195,,
+0d9da0e8-8fcc-11eb-924d-9cd76263cbd0,species,lueri,Solenocentrum,,"Dodson & R.Vásquez",,1989,,"Icon. Pl. Trop. II, 3: t. 300 1989",,,,,,938780-1,wfo-0000311694,2805192,,
+0d9dbd76-8fcc-11eb-924d-9cd76263cbd0,species,maasii,Solenocentrum,,Dressler,,1998,,"Bol. Inst. Bot. (Guadalajara) 5: 83 1998",,,,,,315772-2,wfo-0000311695,2805191,,
+61bbd118-8fcc-11eb-924d-9cd76263cbd0,species,assurgens,Solenochasma,,"(L.) Fenzl",,1844,,"Ecl. Pl. Rar. 2: 1 1844",,,,,,1113034-2,wfo-0000433512,3775268,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d5b7dc-8fd1-11eb-924d-9cd76263cbd0,genus,Pachycornia,,,Hook.f.,1880,"Gen. Pl. 3: 65. 1880.",,,,,,wfo-4000027648,7339863,
-da0e9f42-8fd1-11eb-924d-9cd76263cbd0,species,arbuscula,Pachycornia,,"(R.Br.) A.J.Scott",1977,"Bot. J. Linn. Soc. 75: 369 1977",,,,da0e669e-8fd1-11eb-924d-9cd76263cbd0,166339-1,wfo-0001295375,3757961,
-43a0ddae-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Pachycornia,,Baill.,1887,"Hist. Pl. 9: 184 1887",,,,,166341-1,wfo-0000395200,3757943,
-43a13434-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Pachycornia,,Hook.f.,1880,"Gen. Pl. 3: 65 1880",,,,,166340-1,wfo-0000395202,7624692,
-da0dfc5e-8fd1-11eb-924d-9cd76263cbd0,species,tenuis,Pachycornia,,"(Benth.) J.Black",1919,"Trans. & Proc. Roy. Soc. South Australia 43: 363 1919",,,,,166342-1,wfo-0001295370,3757930,
-da0ebb94-8fd1-11eb-924d-9cd76263cbd0,species,triandra,Pachycornia,,"(F.Muell.) J.M.Black",1924,"Fl. S. Austral. (ed. 2) 206 1924",,,,,166343-1,wfo-0001295376,3757925,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d5b7dc-8fd1-11eb-924d-9cd76263cbd0,genus,Pachycornia,,,Hook.f.,,1880,,"Gen. Pl. 3: 65. 1880.",,,,,,,wfo-4000027648,7339863,,
+da0e9f42-8fd1-11eb-924d-9cd76263cbd0,species,arbuscula,Pachycornia,,"(R.Br.) A.J.Scott",,1977,,"Bot. J. Linn. Soc. 75: 369 1977",,Q43297380,,da0e669e-8fd1-11eb-924d-9cd76263cbd0,,166339-1,wfo-0001295375,3757961,,
+43a0ddae-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Pachycornia,,Baill.,,1887,,"Hist. Pl. 9: 184 1887",,,,,,166341-1,wfo-0000395200,3757943,,
+43a13434-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Pachycornia,,Hook.f.,,1880,,"Gen. Pl. 3: 65 1880",,,,,,166340-1,wfo-0000395202,7624692,,
+da0dfc5e-8fd1-11eb-924d-9cd76263cbd0,species,tenuis,Pachycornia,,"(Benth.) J.Black",,1919,,"Trans. & Proc. Roy. Soc. South Australia 43: 363 1919",,,,,,166342-1,wfo-0001295370,3757930,,
+da0ebb94-8fd1-11eb-924d-9cd76263cbd0,species,triandra,Pachycornia,,"(F.Muell.) J.M.Black",,1924,,"Fl. S. Austral. (ed. 2) 206 1924",,,,,,166343-1,wfo-0001295376,3757925,,

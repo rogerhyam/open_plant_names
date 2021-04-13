@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc2d3f4-8fd1-11eb-924d-9cd76263cbd0,genus,Arnoseris,,,Gaertn.,,,,,,,7729-1,wfo-4000003101,3087402,
-642b0d7c-8fb5-11eb-924d-9cd76263cbd0,species,clavata,Arnoseris,,Bubani,1899,"49 1899",,,,,179105-1,wfo-0000077512,3087404,
-28750d36-8fbb-11eb-924d-9cd76263cbd0,species,foetida,Arnoseris,,"(L.) Dumort.",1827,"63 1827",,,,,179106-1,wfo-0000132165,3143648,
-0328a992-8fb2-11eb-924d-9cd76263cbd0,species,gracilis,Arnoseris,,"(DC.) Sch.Bip.",1866,"301 1866",,,,,179107-1,wfo-0000004543,4232318,
-45d877fe-8fb2-11eb-924d-9cd76263cbd0,species,humilis,Arnoseris,,"(Elliott) Sch.Bip.",1866,"301 1866",,,,0b4208c6-8fb2-11eb-924d-9cd76263cbd0,179108-1,wfo-0000018466,3132423,
-9509ee66-8fb2-11eb-924d-9cd76263cbd0,species,minima,Arnoseris,,"(L.) Schweigg. & Körte",1811,"72 1811",,,,,,wfo-0000028808,3087403,
-cfb43d32-8fb2-11eb-924d-9cd76263cbd0,species,pusilla,Arnoseris,,Gaertn.,1791,"355 1791",,,,,140548-3,wfo-0000035093,3087406,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc2d3f4-8fd1-11eb-924d-9cd76263cbd0,genus,Arnoseris,,,Gaertn.,,,,,,,,,,7729-1,wfo-4000003101,3087402,,
+642b0d7c-8fb5-11eb-924d-9cd76263cbd0,species,clavata,Arnoseris,,Bubani,,1899,,"49 1899",,,,,,179105-1,wfo-0000077512,3087404,,
+28750d36-8fbb-11eb-924d-9cd76263cbd0,species,foetida,Arnoseris,,"(L.) Dumort.",,1827,,"63 1827",,,,,,179106-1,wfo-0000132165,3143648,,
+0328a992-8fb2-11eb-924d-9cd76263cbd0,species,gracilis,Arnoseris,,"(DC.) Sch.Bip.",,1866,,"301 1866",,,,,,179107-1,wfo-0000004543,4232318,,
+45d877fe-8fb2-11eb-924d-9cd76263cbd0,species,humilis,Arnoseris,,"(Elliott) Sch.Bip.",,1866,,"301 1866",,,,0b4208c6-8fb2-11eb-924d-9cd76263cbd0,,179108-1,wfo-0000018466,3132423,,
+9509ee66-8fb2-11eb-924d-9cd76263cbd0,species,minima,Arnoseris,,"(L.) Schweigg. & Körte",,1811,,"72 1811",,,,,,,wfo-0000028808,3087403,,
+cfb43d32-8fb2-11eb-924d-9cd76263cbd0,species,pusilla,Arnoseris,,Gaertn.,,1791,,"355 1791",,,,,,140548-3,wfo-0000035093,3087406,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb57155e-8fd1-11eb-924d-9cd76263cbd0,genus,Thyridachne,,,C.E.Hubb.,1949,"Kew Bull. 4 : 363. 1949.",,,,,19137-1,wfo-4000038339,4125011,
-68602554-8fcd-11eb-924d-9cd76263cbd0,species,tisserantii,Thyridachne,,C.E.Hubb.,1949,"Kew Bull. 4: 364 1949",,,,,424258-1,wfo-0000903694,4125010,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb57155e-8fd1-11eb-924d-9cd76263cbd0,genus,Thyridachne,,,C.E.Hubb.,,1949,,"Kew Bull. 4 : 363. 1949.",,Q55779636,,,,19137-1,wfo-4000038339,4125011,,
+68602554-8fcd-11eb-924d-9cd76263cbd0,species,tisserantii,Thyridachne,,C.E.Hubb.,,1949,,"Kew Bull. 4: 364 1949",,Q55779636,,,,424258-1,wfo-0000903694,4125010,,

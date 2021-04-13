@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2aa24f0-8fd1-11eb-924d-9cd76263cbd0,genus,Diaxulon,,,,,,,,,,,wfo-4000011358,7302537,
-b6cb8972-8fcd-11eb-924d-9cd76263cbd0,species,argentium,Diaxulon,,Raf.,1838,"Sylva Tellur. 25 1838",,,,,492376-1,wfo-0001059115,3976270,
-e0d5efe2-8fcc-11eb-924d-9cd76263cbd0,species,prolifer,Diaxulon,,"(L.f.) Raf.",1838,"Sylva Tellur. 25 1838",,,,b4e1d15c-8fcd-11eb-924d-9cd76263cbd0,492377-1,wfo-0000644839,3976265,
-0ef0171a-8fb2-11eb-924d-9cd76263cbd0,species,intermedia,Diazeuxis,,DC.,1838,"22 1838",,,,,201264-1,wfo-0000008551,3093148,
-0755a8ce-8fb9-11eb-924d-9cd76263cbd0,species,latifolia,Diazeuxis,,D.Don,1830,"Trans. Linn. Soc. London 16 302 1830",,,,,79184-2,wfo-0000114760,3093146,
-07c5ff9a-8fb2-11eb-924d-9cd76263cbd0,species,mutisiana,Diazeuxis,,D.Don,1830,"253 1830",,,,,201266-1,wfo-0000006062,3093135,
-2315bf2a-8fb6-11eb-924d-9cd76263cbd0,species,serrata,Diazeuxis,,D.Don,1830,"254 1830",,,,,,wfo-0000086087,3124451,
-2d4a9084-8fb5-11eb-924d-9cd76263cbd0,species,trinervis,Diazeuxis,,D.Don,1830,"Trans. Linn. Soc. London 16: 253. 1830",,,,,275802-2,wfo-0000074841,3093126,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2aa24f0-8fd1-11eb-924d-9cd76263cbd0,genus,Diaxulon,,,,,,,,,,,,,,wfo-4000011358,7302537,,
+b6cb8972-8fcd-11eb-924d-9cd76263cbd0,species,argentium,Diaxulon,,Raf.,,1838,,"Sylva Tellur. 25 1838",,,,,,492376-1,wfo-0001059115,3976270,,
+e0d5efe2-8fcc-11eb-924d-9cd76263cbd0,species,prolifer,Diaxulon,,"(L.f.) Raf.",,1838,,"Sylva Tellur. 25 1838",,,,b4e1d15c-8fcd-11eb-924d-9cd76263cbd0,,492377-1,wfo-0000644839,3976265,,
+0ef0171a-8fb2-11eb-924d-9cd76263cbd0,species,intermedia,Diazeuxis,,DC.,,1838,,"22 1838",,,,,,201264-1,wfo-0000008551,3093148,,
+0755a8ce-8fb9-11eb-924d-9cd76263cbd0,species,latifolia,Diazeuxis,,D.Don,,1830,,"Trans. Linn. Soc. London 16 302 1830",,Q55758799,,,,79184-2,wfo-0000114760,3093146,,
+07c5ff9a-8fb2-11eb-924d-9cd76263cbd0,species,mutisiana,Diazeuxis,,D.Don,,1830,,"253 1830",,Q55758798,,,,201266-1,wfo-0000006062,3093135,,
+2315bf2a-8fb6-11eb-924d-9cd76263cbd0,species,serrata,Diazeuxis,,D.Don,,1830,,"254 1830",,,,,,,wfo-0000086087,3124451,,
+2d4a9084-8fb5-11eb-924d-9cd76263cbd0,species,trinervis,Diazeuxis,,D.Don,,1830,,"Trans. Linn. Soc. London 16: 253. 1830",,Q55758798,,,,275802-2,wfo-0000074841,3093126,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bf1830-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidotheca,,,,,,,,,,,wfo-4000021144,7338747,
-92f25624-8fb5-11eb-924d-9cd76263cbd0,species,aurea,Lepidotheca,,"(L.) Kovalevsk.",1962,"in Fl. Uzbekist. vi. 124 (1962).",,,,,,wfo-0000079673,5391098,
-fd8106c4-8fb1-11eb-924d-9cd76263cbd0,species,santolina,Lepidotheca,,Walp.,,"Repert. Bot. Syst. (Walpers) ii. 639, sphalm.",,,,,229751-1,wfo-0000000477,5704080,
-64b2cf34-8fb8-11eb-924d-9cd76263cbd0,species,suaveolens,Lepidotheca,,"(Pursh) Nutt.",1841,1841,,,,,,wfo-0000108994,5391095,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bf1830-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidotheca,,,,,,,,,,,,,,wfo-4000021144,7338747,,
+92f25624-8fb5-11eb-924d-9cd76263cbd0,species,aurea,Lepidotheca,,"(L.) Kovalevsk.",,1962,,"in Fl. Uzbekist. vi. 124 (1962).",,,,,,,wfo-0000079673,5391098,,
+fd8106c4-8fb1-11eb-924d-9cd76263cbd0,species,santolina,Lepidotheca,,Walp.,,,,"Repert. Bot. Syst. (Walpers) ii. 639, sphalm.",,,,,,229751-1,wfo-0000000477,5704080,,
+64b2cf34-8fb8-11eb-924d-9cd76263cbd0,species,suaveolens,Lepidotheca,,"(Pursh) Nutt.",,1841,,1841,,,,,,,wfo-0000108994,5391095,,

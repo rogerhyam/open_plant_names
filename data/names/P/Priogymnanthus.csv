@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9036dde-8fd1-11eb-924d-9cd76263cbd0,genus,Priogymnanthus,,,P.S.Green,1994,"Kew Bull. 49(2): 280. 1994.",,,,,977399-1,wfo-4000031146,7326235,
-3b5146c4-8fcd-11eb-924d-9cd76263cbd0,species,apertus,Priogymnanthus,,"(B.Ståhl) P.S.Green",1994,"Kew Bull. 49: 283 1994",,,,4104e6c0-8fcd-11eb-924d-9cd76263cbd0,977401-1,wfo-0000817894,3684995,
-3b422cc0-8fcd-11eb-924d-9cd76263cbd0,species,hasslerianus,Priogymnanthus,,"(Chodat) P.S.Green",1994,"Kew Bull. 49: 281 1994",,,,,977400-1,wfo-0000817762,3684970,
-ae3159e0-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Prionachne,,"(L.f.) Nees ex Lindl.",1836,"Intr. Nat. Syst. Bot. (ed. 2) 447 1836",,,,,,wfo-0001039589,4152934,
-5f6280be-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Prionachne,,"(L.f.) Nees",1841,"Fl. Afr. Austral. Ill. 134 1841",,,,,418783-1,wfo-0000894802,4152934,
-5f629e1e-8fcd-11eb-924d-9cd76263cbd0,species,ecklonii,Prionachne,,Nees,1836,"Intr. Nat. Syst. Bot. ed. 2: 448 1836",,,,,418784-1,wfo-0000894803,4152924,
-5f62cb3c-8fcd-11eb-924d-9cd76263cbd0,species,pholiuroides,Prionachne,,"(Stapf) E.Phillips",1931,"Intr. S. Afr. Grass. t. 63 1931",,,,5f63a9a8-8fcd-11eb-924d-9cd76263cbd0,418785-1,wfo-0000894804,4152918,
-d8d46022-8fb2-11eb-924d-9cd76263cbd0,species,antimenorrhoea,Prionanthes,,Schrank,1820,"Pl. Rar. Hort. Monac. 2(60): t. 51. 1820.",,,,,315820-2,wfo-0000035913,3127410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9036dde-8fd1-11eb-924d-9cd76263cbd0,genus,Priogymnanthus,,,P.S.Green,,1994,,"Kew Bull. 49(2): 280. 1994.",,Q55779955,,,,977399-1,wfo-4000031146,7326235,,
+3b5146c4-8fcd-11eb-924d-9cd76263cbd0,species,apertus,Priogymnanthus,,"(B.Ståhl) P.S.Green",,1994,,"Kew Bull. 49: 283 1994",,Q55779955,,4104e6c0-8fcd-11eb-924d-9cd76263cbd0,,977401-1,wfo-0000817894,3684995,,
+3b422cc0-8fcd-11eb-924d-9cd76263cbd0,species,hasslerianus,Priogymnanthus,,"(Chodat) P.S.Green",,1994,,"Kew Bull. 49: 281 1994",,Q55779955,,,,977400-1,wfo-0000817762,3684970,,
+ae3159e0-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Prionachne,,"(L.f.) Nees ex Lindl.",,1836,,"Intr. Nat. Syst. Bot. (ed. 2) 447 1836",,,,,,,wfo-0001039589,4152934,,
+5f6280be-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Prionachne,,"(L.f.) Nees",,1841,,"Fl. Afr. Austral. Ill. 134 1841",,,,,,418783-1,wfo-0000894802,4152934,,
+5f629e1e-8fcd-11eb-924d-9cd76263cbd0,species,ecklonii,Prionachne,,Nees,,1836,,"Intr. Nat. Syst. Bot. ed. 2: 448 1836",,,,,,418784-1,wfo-0000894803,4152924,,
+5f62cb3c-8fcd-11eb-924d-9cd76263cbd0,species,pholiuroides,Prionachne,,"(Stapf) E.Phillips",,1931,,"Intr. S. Afr. Grass. t. 63 1931",,,,5f63a9a8-8fcd-11eb-924d-9cd76263cbd0,,418785-1,wfo-0000894804,4152918,,
+d8d46022-8fb2-11eb-924d-9cd76263cbd0,species,antimenorrhoea,Prionanthes,,Schrank,,1820,,"Pl. Rar. Hort. Monac. 2(60): t. 51. 1820.",,,,,,315820-2,wfo-0000035913,3127410,,

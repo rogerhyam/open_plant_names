@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9e5a1c2-8fd1-11eb-924d-9cd76263cbd0,genus,Salpianthus,,,Bonpl.,1808,"Pl. Aequinoct. 1: 154. 1808[1807]. (Nov 1807)",,,,,27963-1,wfo-4000033860,7327411,
-b611ee3c-8fd1-11eb-924d-9cd76263cbd0,species,aequalis,Salpianthus,,Standl.,1911,"Contr. U.S. Natl. Herb. 13(11): 392–393 1911",,,,,226284-2,wfo-0001235668,3701572,
-c30ea6ba-8fcd-11eb-924d-9cd76263cbd0,species,arenarius,Salpianthus,,Bonpl.,1808,"Pl. Aequinoct. 1: 154–155, t. 44 1808",,,,,605133-1,wfo-0001086819,3701563,
-b6120aac-8fd1-11eb-924d-9cd76263cbd0,species,macrodontus,Salpianthus,,Standl.,1911,"Contr. U.S. Natl. Herb. 13(11): 393–394 1911",,,,,226285-2,wfo-0001235669,3701544,
-8cfd9cda-8fcc-11eb-924d-9cd76263cbd0,species,purpurascens,Salpianthus,,"(Cav. ex Lag.) Hook. & Arn.",1838,"Bot. Beechey Voy. 309 1838",,,,b3483cce-8fcc-11eb-924d-9cd76263cbd0,605135-1,wfo-0000506104,3701538,
-c30457c8-8fcd-11eb-924d-9cd76263cbd0,species,pyriformis,Salpianthus,,"(Kunth) Standl.",1931,"Publ. Field Mus. Nat. Hist., Bot. Ser. 11(3): 95–96 1931",,,,d746eba2-8fcc-11eb-924d-9cd76263cbd0,605136-1,wfo-0001086728,3701527,
-8cff0228-8fcc-11eb-924d-9cd76263cbd0,species,standleyi,Salpianthus,,Steyerm.,1940,"Publ. Field Mus. Nat. Hist., Bot. Ser. 22: 139 1940",,,,,605137-1,wfo-0000506112,3701513,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9e5a1c2-8fd1-11eb-924d-9cd76263cbd0,genus,Salpianthus,,,Bonpl.,,1808,,"Pl. Aequinoct. 1: 154. 1808[1807]. (Nov 1807)",,,,,,27963-1,wfo-4000033860,7327411,,
+b611ee3c-8fd1-11eb-924d-9cd76263cbd0,species,aequalis,Salpianthus,,Standl.,,1911,,"Contr. U.S. Natl. Herb. 13(11): 392–393 1911",,Q95371665,,,,226284-2,wfo-0001235668,3701572,,
+c30ea6ba-8fcd-11eb-924d-9cd76263cbd0,species,arenarius,Salpianthus,,Bonpl.,,1808,,"Pl. Aequinoct. 1: 154–155, t. 44 1808",,,,,,605133-1,wfo-0001086819,3701563,,
+b6120aac-8fd1-11eb-924d-9cd76263cbd0,species,macrodontus,Salpianthus,,Standl.,,1911,,"Contr. U.S. Natl. Herb. 13(11): 393–394 1911",,Q95371665,,,,226285-2,wfo-0001235669,3701544,,
+8cfd9cda-8fcc-11eb-924d-9cd76263cbd0,species,purpurascens,Salpianthus,,"(Cav. ex Lag.) Hook. & Arn.",,1838,,"Bot. Beechey Voy. 309 1838",,,,b3483cce-8fcc-11eb-924d-9cd76263cbd0,,605135-1,wfo-0000506104,3701538,,
+c30457c8-8fcd-11eb-924d-9cd76263cbd0,species,pyriformis,Salpianthus,,"(Kunth) Standl.",,1931,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 11(3): 95–96 1931",,,,d746eba2-8fcc-11eb-924d-9cd76263cbd0,,605136-1,wfo-0001086728,3701527,,
+8cff0228-8fcc-11eb-924d-9cd76263cbd0,species,standleyi,Salpianthus,,Steyerm.,,1940,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 22: 139 1940",,,,,,605137-1,wfo-0000506112,3701513,,

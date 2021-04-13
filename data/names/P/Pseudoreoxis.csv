@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92ec6a0-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoreoxis,,,Rydb.,1913,"Bull. Torrey Bot. Club 40(2): 73. 1913.",,,,,,wfo-4000031653,6026278,
-d33f8d84-8fd1-11eb-924d-9cd76263cbd0,species,bipinnatus,Pseudoreoxis,,"(S.Watson) Rydb.",1913,"Bull. Torrey Bot. Club 40(2): 73 1913",,,,da13f294-8fcc-11eb-924d-9cd76263cbd0,211553-2,wfo-0001284260,3628582,
-d33fc11e-8fd1-11eb-924d-9cd76263cbd0,species,nivalis,Pseudoreoxis,,"(S.Watson) Rydb.",1913,"Bull. Torrey Bot. Club 40(2): 73 1913",,,,da1f74d4-8fcc-11eb-924d-9cd76263cbd0,211554-2,wfo-0001284261,3628558,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92ec6a0-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoreoxis,,,Rydb.,,1913,,"Bull. Torrey Bot. Club 40(2): 73. 1913.",,,,,,,wfo-4000031653,6026278,,
+d33f8d84-8fd1-11eb-924d-9cd76263cbd0,species,bipinnatus,Pseudoreoxis,,"(S.Watson) Rydb.",,1913,,"Bull. Torrey Bot. Club 40(2): 73 1913",,Q55767102,,da13f294-8fcc-11eb-924d-9cd76263cbd0,,211553-2,wfo-0001284260,3628582,,
+d33fc11e-8fd1-11eb-924d-9cd76263cbd0,species,nivalis,Pseudoreoxis,,"(S.Watson) Rydb.",,1913,,"Bull. Torrey Bot. Club 40(2): 73 1913",,Q55767102,,da1f74d4-8fcc-11eb-924d-9cd76263cbd0,,211554-2,wfo-0001284261,3628558,,

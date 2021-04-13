@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb057640-8fd1-11eb-924d-9cd76263cbd0,genus,Synexemia,,,Raf.,1825,"Neogenyton 2. 1825.",,,,,,wfo-4000037299,7276087,
-334b8df4-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Synexemia,,Raf.,1825,"Neogenyton 2 1825",,,,,356720-1,wfo-0000800777,3077447,
-d342017c-8fd1-11eb-924d-9cd76263cbd0,species,caroliniensis,Synexemia,,"(Walter) Raf.",1825,"Neogenyton 2 1825",,,,,,wfo-0001284271,7819878,
-334baad2-8fcd-11eb-924d-9cd76263cbd0,species,cuneifolia,Synexemia,,Raf.,1838,"New Fl. 4: 100 1838",,,,,356721-1,wfo-0000800778,3917386,
-334bc71a-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Synexemia,,Raf.,1825,"Neogenyton 2 1825",,,,,356723-1,wfo-0000800779,3077444,
-11b11a0c-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Synexemia,,Raf.,1825,"Neogenyton 2 1825",,,,,356724-1,wfo-0000318046,3077441,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb057640-8fd1-11eb-924d-9cd76263cbd0,genus,Synexemia,,,Raf.,,1825,,"Neogenyton 2. 1825.",,,,,,,wfo-4000037299,7276087,,
+334b8df4-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Synexemia,,Raf.,,1825,,"Neogenyton 2 1825",,,,,,356720-1,wfo-0000800777,3077447,,
+d342017c-8fd1-11eb-924d-9cd76263cbd0,species,caroliniensis,Synexemia,,"(Walter) Raf.",,1825,,"Neogenyton 2 1825",,,,,,,wfo-0001284271,7819878,,
+334baad2-8fcd-11eb-924d-9cd76263cbd0,species,cuneifolia,Synexemia,,Raf.,,1838,,"New Fl. 4: 100 1838",,,,,,356721-1,wfo-0000800778,3917386,,
+334bc71a-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Synexemia,,Raf.,,1825,,"Neogenyton 2 1825",,,,,,356723-1,wfo-0000800779,3077444,,
+11b11a0c-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Synexemia,,Raf.,,1825,,"Neogenyton 2 1825",,,,,,356724-1,wfo-0000318046,3077441,,

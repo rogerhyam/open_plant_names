@@ -1,10 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e56a4756-8fd1-11eb-924d-9cd76263cbd0,genus,Kolkwitzia,,,Graebn.,1901,"Bot. Jahrb. Syst. 29(5): 593–594. 1901.",,,,,,wfo-4000020149,2888705,
-d78a4884-8fd1-11eb-924d-9cd76263cbd0,species,amabilis,Kolkwitzia,,Graebn.,1901,"Bot. Jahrb. Syst. 29(5): 593–594 1901",,,,,148523-1,wfo-0001290803,2888706,
-af4b42e6-8fcd-11eb-924d-9cd76263cbd0,variety,calicina,Kolkwitzia,amabilis,Pamp.,,,,,,,,wfo-0001042145,8082840,
-2971909a-8fcc-11eb-924d-9cd76263cbd0,species,collina,Kolleria,,"Eckl. & Zeyh.",1837,"Enum. Pl. Afric. Austral. 327 1837",,,,,362148-1,wfo-0000356585,5554770,
-2972138a-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Kolleria,,"Eckl. & Zeyh.",1837,"Enum. Pl. Afric. Austral. 328 1837",,,,,362149-1,wfo-0000356589,5554768,
-2972c00a-8fcc-11eb-924d-9cd76263cbd0,species,herniariifolia,Kolleria,,C.Presl,1831,"Symb. Bot. 1: 24 1831",,,,,,wfo-0000356591,5554766,
-2972e378-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Kolleria,,"Eckl. & Zeyh.",1837,"Enum. Pl. Afric. Austral. 328 1837",,,,,362151-1,wfo-0000356592,5554764,
-b02a1692-8fcd-11eb-924d-9cd76263cbd0,species,blepharorhachis,Kolobochilus,,Lindau,1900,"Prim. Fl. Costaric. 2(4): 309–310 1900",,,,,133822-2,wfo-0001044068,,
-b02a328a-8fcd-11eb-924d-9cd76263cbd0,species,leiorhachis,Kolobochilus,,Lindau,1898,"Anales Inst. Fis.-Geogr. Nac. Costa Rica 9: 188 1898",,,,,,wfo-0001044069,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e56a4756-8fd1-11eb-924d-9cd76263cbd0,genus,Kolkwitzia,,,Graebn.,,1901,,"Bot. Jahrb. Syst. 29(5): 593–594. 1901.",,,,,,,wfo-4000020149,2888705,,
+d78a4884-8fd1-11eb-924d-9cd76263cbd0,species,amabilis,Kolkwitzia,,Graebn.,,1901,,"Bot. Jahrb. Syst. 29(5): 593–594 1901",,,,,,148523-1,wfo-0001290803,2888706,,
+af4b42e6-8fcd-11eb-924d-9cd76263cbd0,variety,calicina,Kolkwitzia,amabilis,Pamp.,,,,,,,,,,,wfo-0001042145,8082840,,
+2971909a-8fcc-11eb-924d-9cd76263cbd0,species,collina,Kolleria,,"Eckl. & Zeyh.",,1837,,"Enum. Pl. Afric. Austral. 327 1837",,,,,,362148-1,wfo-0000356585,5554770,,
+2972138a-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Kolleria,,"Eckl. & Zeyh.",,1837,,"Enum. Pl. Afric. Austral. 328 1837",,,,,,362149-1,wfo-0000356589,5554768,,
+2972c00a-8fcc-11eb-924d-9cd76263cbd0,species,herniariifolia,Kolleria,,C.Presl,,1831,,"Symb. Bot. 1: 24 1831",,,,,,,wfo-0000356591,5554766,,
+2972e378-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Kolleria,,"Eckl. & Zeyh.",,1837,,"Enum. Pl. Afric. Austral. 328 1837",,,,,,362151-1,wfo-0000356592,5554764,,

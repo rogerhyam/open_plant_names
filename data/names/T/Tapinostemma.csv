@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb1b12d4-8fd1-11eb-924d-9cd76263cbd0,genus,Tapinostemma,,,"(Benth. & Hook.f.) Tiegh.",1895,"Bull. Soc. Bot. France 42: 257. 1895.",,,,,,wfo-4000037566,7287955,
-51efbbaa-8fcc-11eb-924d-9cd76263cbd0,species,acaciae,Tapinostemma,,"(Zucc.) Tiegh.",1895,"Bull. Soc. Bot. France 42: 257 1895",,,,2faa484e-8fcc-11eb-924d-9cd76263cbd0,552112-1,wfo-0000413143,4001470,
-51efdd1a-8fcc-11eb-924d-9cd76263cbd0,species,arabicum,Tapinostemma,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 257 1895",,,,,552113-1,wfo-0000413144,4001462,
-51effbe2-8fcc-11eb-924d-9cd76263cbd0,species,gibberulum,Tapinostemma,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 257 1895",,,,,552114-1,wfo-0000413145,4001450,
-bdffde28-8fcd-11eb-924d-9cd76263cbd0,species,meridianum,Tapinostemma,,Danser,1931,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 216 1931",,,,,552115-1,wfo-0001075663,4001437,
-be001564-8fcd-11eb-924d-9cd76263cbd0,species,nummulariifolium,Tapinostemma,,"(Franch.) Tiegh.",,,,,,,,wfo-0001075665,4001419,
-51ef7500-8fcc-11eb-924d-9cd76263cbd0,species,venustum,Tapinostemma,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 257 1895",,,,,552117-1,wfo-0000413141,4001406,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb1b12d4-8fd1-11eb-924d-9cd76263cbd0,genus,Tapinostemma,,,"(Benth. & Hook.f.) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 257. 1895.",,,,,,,wfo-4000037566,7287955,,
+51efbbaa-8fcc-11eb-924d-9cd76263cbd0,species,acaciae,Tapinostemma,,"(Zucc.) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 257 1895",,Q54801453,,2faa484e-8fcc-11eb-924d-9cd76263cbd0,,552112-1,wfo-0000413143,4001470,,
+51efdd1a-8fcc-11eb-924d-9cd76263cbd0,species,arabicum,Tapinostemma,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 257 1895",,Q54801453,,,,552113-1,wfo-0000413144,4001462,,
+51effbe2-8fcc-11eb-924d-9cd76263cbd0,species,gibberulum,Tapinostemma,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 257 1895",,Q54801453,,,,552114-1,wfo-0000413145,4001450,,
+bdffde28-8fcd-11eb-924d-9cd76263cbd0,species,meridianum,Tapinostemma,,Danser,,1931,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 216 1931",,Q55777506,,,,552115-1,wfo-0001075663,4001437,,
+be001564-8fcd-11eb-924d-9cd76263cbd0,species,nummulariifolium,Tapinostemma,,"(Franch.) Tiegh.",,,,,,,,,,,wfo-0001075665,4001419,,
+51ef7500-8fcc-11eb-924d-9cd76263cbd0,species,venustum,Tapinostemma,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 257 1895",,Q54801453,,,,552117-1,wfo-0000413141,4001406,,

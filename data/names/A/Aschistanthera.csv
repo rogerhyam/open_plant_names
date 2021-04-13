@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfcdc6f6-8fd1-11eb-924d-9cd76263cbd0,genus,Aschistanthera,,,C.Hansen,,,,,,,925078-1,wfo-4000003234,3870512,
-ddfea276-8fbf-11eb-924d-9cd76263cbd0,species,cristanthera,Aschistanthera,,C.Hansen,1987,"Nordic J. Bot. 7(6): 653 (1987) 1987",,,,,933624-1,wfo-0000162591,3870511,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfcdc6f6-8fd1-11eb-924d-9cd76263cbd0,genus,Aschistanthera,,,C.Hansen,,,,,,Q55761383,,,,925078-1,wfo-4000003234,3870512,,
+ddfea276-8fbf-11eb-924d-9cd76263cbd0,species,cristanthera,Aschistanthera,,C.Hansen,,1987,,"Nordic J. Bot. 7(6): 653 (1987) 1987",,Q55761383,,,,933624-1,wfo-0000162591,3870511,,

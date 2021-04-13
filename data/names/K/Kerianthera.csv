@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55a4036-8fd1-11eb-924d-9cd76263cbd0,genus,Kerianthera,,,J.H.Kirkbr.,1985,"Brittonia 37(1): 109–110, f. 1–4. 1985.",,,,,893461-1,wfo-4000019946,2907503,
-75a69964-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Kerianthera,,"Zappi & C.T.Oliveira",2011,"Kew Bull. 66: 143 2011",,,,,,wfo-0000921823,7614430,
-1e92133a-8fcb-11eb-924d-9cd76263cbd0,species,preclara,Kerianthera,,J.H.Kirkbr.,1985,"Brittonia 37: 109 1985",,,,,279173-2,wfo-0000220952,2907504,
-1ea04ae0-8fcb-11eb-924d-9cd76263cbd0,species,bilabrata,Kerigomnia,,P.Royen,1976,"Contr. Herb. Austral. 12: 2 1976",,,,,639482-1,wfo-0000220953,2812651,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55a4036-8fd1-11eb-924d-9cd76263cbd0,genus,Kerianthera,,,J.H.Kirkbr.,,1985,,"Brittonia 37(1): 109–110, f. 1–4. 1985.",,Q55769532,,,,893461-1,wfo-4000019946,2907503,,
+75a69964-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Kerianthera,,"Zappi & C.T.Oliveira",,2011,,"Kew Bull. 66: 143 2011",,,,,,,wfo-0000921823,7614430,,
+1e92133a-8fcb-11eb-924d-9cd76263cbd0,species,preclara,Kerianthera,,J.H.Kirkbr.,,1985,,"Brittonia 37: 109 1985",,Q55769532,,,,279173-2,wfo-0000220952,2907504,,
+1ea04ae0-8fcb-11eb-924d-9cd76263cbd0,species,bilabrata,Kerigomnia,,P.Royen,,1976,,"Contr. Herb. Austral. 12: 2 1976",,Q100407788,,,,639482-1,wfo-0000220953,2812651,,

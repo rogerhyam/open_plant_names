@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df930b10-8fd1-11eb-924d-9cd76263cbd0,genus,Aosa,,,Weigend,2006,"Taxon 55(2): 464. 2006. (22 Jun 2006)",,,,,1007419-1,wfo-4000002561,8162890,
-a0e1909e-8fcc-11eb-924d-9cd76263cbd0,species,gilgiana,Aosa,,"(Urb.) Weigend",2006,"Taxon 55: 464 2006",,,,2f8bed72-8fcc-11eb-924d-9cd76263cbd0,1007428-1,wfo-0000539757,4021013,
-a0e1af3e-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Aosa,,"(Schrad. ex DC.) Weigend",2006,"Taxon 55: 464 2006",,,,2f798448-8fcc-11eb-924d-9cd76263cbd0,1007420-1,wfo-0000539758,4021852,
-a0e1ce24-8fcc-11eb-924d-9cd76263cbd0,species,plumieri,Aosa,,"(Urb.) Weigend",2006,"Taxon 55: 464 2006",,,,,1007429-1,wfo-0000539759,4021843,
-cc75fea2-8fd1-11eb-924d-9cd76263cbd0,species,rostrata,Aosa,,"(Urb.) Weigend",2006,"Taxon 55(2): 464 2006",,,,,1007430-1,wfo-0001277111,4021836,
-a0e1edaa-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Aosa,,"(Gardner) Weigend",2006,"Taxon 55: 464 2006",,,,,1007431-1,wfo-0000539760,4021825,
-1779e9c2-8fcd-11eb-924d-9cd76263cbd0,species,sigmoidea,Aosa,,Weigend,2006,"Revista Peru. Biol. 13: 71 2006",,,,,77096649-1,wfo-0000741653,4021815,
-cd52747c-8fd1-11eb-924d-9cd76263cbd0,species,uleana,Aosa,,"(Urb. & Gilg) Weigend",2006,"Taxon 55(2): 464 2006",,,,bd1158d4-8fcd-11eb-924d-9cd76263cbd0,1007432-1,wfo-0001278646,4021807,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df930b10-8fd1-11eb-924d-9cd76263cbd0,genus,Aosa,,,Weigend,,2006,,"Taxon 55(2): 464. 2006. (22 Jun 2006)",,Q28960249,,,,1007419-1,wfo-4000002561,8162890,,
+a0e1909e-8fcc-11eb-924d-9cd76263cbd0,species,gilgiana,Aosa,,"(Urb.) Weigend",,2006,,"Taxon 55: 464 2006",,Q28960249,,2f8bed72-8fcc-11eb-924d-9cd76263cbd0,,1007428-1,wfo-0000539757,4021013,,
+a0e1af3e-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Aosa,,"(Schrad. ex DC.) Weigend",,2006,,"Taxon 55: 464 2006",,Q28960249,,2f798448-8fcc-11eb-924d-9cd76263cbd0,,1007420-1,wfo-0000539758,4021852,,
+a0e1ce24-8fcc-11eb-924d-9cd76263cbd0,species,plumieri,Aosa,,"(Urb.) Weigend",,2006,,"Taxon 55: 464 2006",,Q28960249,,,,1007429-1,wfo-0000539759,4021843,,
+cc75fea2-8fd1-11eb-924d-9cd76263cbd0,species,rostrata,Aosa,,"(Urb.) Weigend",,2006,,"Taxon 55(2): 464 2006",,Q28960249,,,,1007430-1,wfo-0001277111,4021836,,
+a0e1edaa-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Aosa,,"(Gardner) Weigend",,2006,,"Taxon 55: 464 2006",,Q28960249,,,,1007431-1,wfo-0000539760,4021825,,
+1779e9c2-8fcd-11eb-924d-9cd76263cbd0,species,sigmoidea,Aosa,,Weigend,,2006,,"Revista Peru. Biol. 13: 71 2006",,Q53462424,,,,77096649-1,wfo-0000741653,4021815,,
+cd52747c-8fd1-11eb-924d-9cd76263cbd0,species,uleana,Aosa,,"(Urb. & Gilg) Weigend",,2006,,"Taxon 55(2): 464 2006",,Q28960249,,bd1158d4-8fcd-11eb-924d-9cd76263cbd0,,1007432-1,wfo-0001278646,4021807,,

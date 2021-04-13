@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6516a82-8fd1-11eb-924d-9cd76263cbd0,genus,Mandonia,,,,,,,,,,,wfo-4000023015,,
-77db1140-8fbb-11eb-924d-9cd76263cbd0,species,boliviana,Mandonia,,Sch.Bip.,1906,"Ark. Bot. 5, no. 13: 21. 1906",,,,,152104-2,wfo-0000134470,4234395,
-74d3eb1e-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Mandonia,,Hassk.,1871,"Flora 54: 260 1871",,,,,172839-1,wfo-0000465422,2765218,
-bf907f88-8fb2-11eb-924d-9cd76263cbd0,species,boliviensis,Mandonia,,Wedd.,1864,"Bull. Soc. Bot. France 11: 51 1864",,,,,231700-1,wfo-0000033470,5405607,
-499e884c-8fb2-11eb-924d-9cd76263cbd0,species,pilosella,Mandonia,,Sch.Bip.,1865,"Linnaea 33: 758. 1865",,,,,231701-1,wfo-0000019095,5401298,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6516a82-8fd1-11eb-924d-9cd76263cbd0,genus,Mandonia,,,,,,,,,,,,,,wfo-4000023015,,,
+77db1140-8fbb-11eb-924d-9cd76263cbd0,species,boliviana,Mandonia,,Sch.Bip.,,1906,,"Ark. Bot. 5, no. 13: 21. 1906",,,,,,152104-2,wfo-0000134470,4234395,,
+74d3eb1e-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Mandonia,,Hassk.,,1871,,"Flora 54: 260 1871",,,,,,172839-1,wfo-0000465422,2765218,,
+bf907f88-8fb2-11eb-924d-9cd76263cbd0,species,boliviensis,Mandonia,,Wedd.,,1864,,"Bull. Soc. Bot. France 11: 51 1864",,Q95996409,,,,231700-1,wfo-0000033470,5405607,,
+499e884c-8fb2-11eb-924d-9cd76263cbd0,species,pilosella,Mandonia,,Sch.Bip.,,1865,,"Linnaea 33: 758. 1865",,,,,,231701-1,wfo-0000019095,5401298,,

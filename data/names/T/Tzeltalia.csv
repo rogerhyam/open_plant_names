@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc079ea-8fd1-11eb-924d-9cd76263cbd0,genus,Tzeltalia,,,"E.Estrada & M.Martínez",1998,"A.Rich. and A.Rich., Brittonia 50(3): 289 (1998)., 1998.",,,,,1004687-1,wfo-4000039688,7299903,
-ab0778d0-8fcd-11eb-924d-9cd76263cbd0,species,amphitricha,Tzeltalia,,"(Bitter) Estrada & M.Martínez",1998,"(B. ) E. & M.Martínez, Brittonia 50: 291. 1998, 1998.",,,,a77e3af0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001032697,3801427,
-ab079310-8fcd-11eb-924d-9cd76263cbd0,species,calidaria,Tzeltalia,,"(Standl. & Steyerm.) Estrada & M.Martínez",1998,"(S. S. ) E. & & M.Martínez, Brittonia 50: 292. 1998, 1998.",,,,a72974f2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001032698,3801418,
-ab07af9e-8fcd-11eb-924d-9cd76263cbd0,species,esenbeckii,Tzeltalia,,"M.Martínez & O.Vargas",2005,"M. M. & O.Vargas, Brittonia 57(1): 35 (-38; fig. 1). 2005 [31 Mar 2005], 2005.",,,,,,wfo-0001032699,3801414,
-6a968962-8fcd-11eb-924d-9cd76263cbd0,species,kerguelensis,Tzvelevia,,"(Hook.f.) E.B.Alexeev",1985,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. n.s., 90(5): 103 1985",,,,,942135-1,wfo-0000906594,4153054,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc079ea-8fd1-11eb-924d-9cd76263cbd0,genus,Tzeltalia,,,"E.Estrada & M.Martínez",,1998,,"A.Rich. and A.Rich., Brittonia 50(3): 289 (1998)., 1998.",,Q55772315,,,,1004687-1,wfo-4000039688,7299903,,
+ab0778d0-8fcd-11eb-924d-9cd76263cbd0,species,amphitricha,Tzeltalia,,"(Bitter) Estrada & M.Martínez",,1998,,"(B. ) E. & M.Martínez, Brittonia 50: 291. 1998, 1998.",,Q55772315,,a77e3af0-8fcd-11eb-924d-9cd76263cbd0,,1004688-1,wfo-0001032697,3801427,,
+ab079310-8fcd-11eb-924d-9cd76263cbd0,species,calidaria,Tzeltalia,,"(Standl. & Steyerm.) Estrada & M.Martínez",,1998,,"(S. S. ) E. & & M.Martínez, Brittonia 50: 292. 1998, 1998.",,Q55772315,,a72974f2-8fcd-11eb-924d-9cd76263cbd0,,1004689-1,wfo-0001032698,3801418,,
+ab07af9e-8fcd-11eb-924d-9cd76263cbd0,species,esenbeckii,Tzeltalia,,"M.Martínez & O.Vargas",,2005,,"M. M. & O.Vargas, Brittonia 57(1): 35 (-38; fig. 1). 2005 [31 Mar 2005], 2005.",,,,,,,wfo-0001032699,3801414,,
+6a968962-8fcd-11eb-924d-9cd76263cbd0,species,kerguelensis,Tzvelevia,,"(Hook.f.) E.B.Alexeev",,1985,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. n.s., 90(5): 103 1985",,,,,,942135-1,wfo-0000906594,4153054,,

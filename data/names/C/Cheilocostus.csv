@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e18e38cc-8fd1-11eb-924d-9cd76263cbd0,genus,Cheilocostus,,,,,,,,,,,wfo-4000007755,2756694,
-72f55d18-8fcd-11eb-924d-9cd76263cbd0,species,borneensis,Cheilocostus,,A.D.Poulsen,2010,"Gard. Bull. Singapore 62: 136 2010",,,,,,wfo-0000917461,6313953,
-358cf454-8fcd-11eb-924d-9cd76263cbd0,species,globosus,Cheilocostus,,"(Blume) C.D.Specht",2006,"Taxon 55: 160 2006",,,,2d531f94-8fcc-11eb-924d-9cd76263cbd0,77074293-1,wfo-0000805541,2756730,
-358d107e-8fcd-11eb-924d-9cd76263cbd0,species,lacerus,Cheilocostus,,"(Gagnep.) C.D.Specht",2006,"Taxon 55: 160 2006",,,,2d5b4908-8fcc-11eb-924d-9cd76263cbd0,77074292-1,wfo-0000805542,2756695,
-358d2a82-8fcd-11eb-924d-9cd76263cbd0,species,sopuensis,Cheilocostus,,"(Maas & H.Maas) C.D.Specht",2006,"Taxon 55: 160 2006",,,,2da5f868-8fcc-11eb-924d-9cd76263cbd0,77074294-1,wfo-0000805543,2756739,
-358d46d4-8fcd-11eb-924d-9cd76263cbd0,species,speciosus,Cheilocostus,,"(J.Koenig) C.D.Specht",2006,"Taxon 55: 159 2006",,,,,77074291-1,wfo-0000805544,11076802,
-8bf4dd1c-8fb8-11eb-924d-9cd76263cbd0,species,littoralis,Cheilodiscus,,Triana,1858,"36 1858",,,,,,wfo-0000110381,3149174,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e18e38cc-8fd1-11eb-924d-9cd76263cbd0,genus,Cheilocostus,,,,,,,,,,,,,,wfo-4000007755,2756694,,
+72f55d18-8fcd-11eb-924d-9cd76263cbd0,species,borneensis,Cheilocostus,,A.D.Poulsen,,2010,,"Gard. Bull. Singapore 62: 136 2010",,,,,,,wfo-0000917461,6313953,,
+358cf454-8fcd-11eb-924d-9cd76263cbd0,species,globosus,Cheilocostus,,"(Blume) C.D.Specht",,2006,,"Taxon 55: 160 2006",,Q28960198,,2d531f94-8fcc-11eb-924d-9cd76263cbd0,,77074293-1,wfo-0000805541,2756730,,
+358d107e-8fcd-11eb-924d-9cd76263cbd0,species,lacerus,Cheilocostus,,"(Gagnep.) C.D.Specht",,2006,,"Taxon 55: 160 2006",,Q28960198,,2d5b4908-8fcc-11eb-924d-9cd76263cbd0,,77074292-1,wfo-0000805542,2756695,,
+358d2a82-8fcd-11eb-924d-9cd76263cbd0,species,sopuensis,Cheilocostus,,"(Maas & H.Maas) C.D.Specht",,2006,,"Taxon 55: 160 2006",,Q28960198,,2da5f868-8fcc-11eb-924d-9cd76263cbd0,,77074294-1,wfo-0000805543,2756739,,
+358d46d4-8fcd-11eb-924d-9cd76263cbd0,species,speciosus,Cheilocostus,,"(J.Koenig) C.D.Specht",,2006,,"Taxon 55: 159 2006",,Q28960198,,,,77074291-1,wfo-0000805544,11076802,,
+8bf4dd1c-8fb8-11eb-924d-9cd76263cbd0,species,littoralis,Cheilodiscus,,Triana,,1858,,"36 1858",,,,,,,wfo-0000110381,3149174,,

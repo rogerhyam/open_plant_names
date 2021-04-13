@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2dcb532-8fd1-11eb-924d-9cd76263cbd0,genus,Diplomeris,,,D.Don,1825,"Prodr. Fl. Nepal. 26. 1825.",,,,,29300-1,wfo-4000012000,2817680,
-80d0876e-8fcd-11eb-924d-9cd76263cbd0,species,boxallii,Diplomeris,,Rolfe,1898,"Orchid. Gen. Sp. 1: 470 1898",,,,,629978-1,wfo-0000944060,2817687,
-80d0a33e-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Diplomeris,,Rolfe,1896,"Bull. Misc. Inform. Kew 1896: 203 1896",,,,,629979-1,wfo-0000944061,2817689,
-80d0bf86-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Diplomeris,,"(Lindl.) Lindl.",1835,"Gen. Sp. Orchid. Pl. 331 1835",,,,,629980-1,wfo-0000944062,2817681,
-80d0dc00-8fcd-11eb-924d-9cd76263cbd0,species,josephi,Diplomeris,,"A.N.Rao & Swamin.",1987,"Indian Orchid J. 2: 5 1987",,,,,931821-1,wfo-0000944063,8112229,
-80d0f83e-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Diplomeris,,D.Don,1825,"Prodr. Fl. Nepal. 26 1825",,,,,629981-1,wfo-0000944064,2817683,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2dcb532-8fd1-11eb-924d-9cd76263cbd0,genus,Diplomeris,,,D.Don,,1825,,"Prodr. Fl. Nepal. 26. 1825.",,,,,,29300-1,wfo-4000012000,2817680,,
+80d0876e-8fcd-11eb-924d-9cd76263cbd0,species,boxallii,Diplomeris,,Rolfe,,1898,,"Orchid. Gen. Sp. 1: 470 1898",,,,,,629978-1,wfo-0000944060,2817687,,
+80d0a33e-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Diplomeris,,Rolfe,,1896,,"Bull. Misc. Inform. Kew 1896: 203 1896",,Q55786096,,,,629979-1,wfo-0000944061,2817689,,
+80d0bf86-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Diplomeris,,"(Lindl.) Lindl.",,1835,,"Gen. Sp. Orchid. Pl. 331 1835",,,,,,629980-1,wfo-0000944062,2817681,,
+80d0dc00-8fcd-11eb-924d-9cd76263cbd0,species,josephi,Diplomeris,,"A.N.Rao & Swamin.",,1987,,"Indian Orchid J. 2: 5 1987",,,,,,931821-1,wfo-0000944063,8112229,,
+80d0f83e-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Diplomeris,,D.Don,,1825,,"Prodr. Fl. Nepal. 26 1825",,,,,,629981-1,wfo-0000944064,2817683,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e266467c-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphonanthus,,,"Zuloaga & Morrone",2007,"Taxon 56(2): 526. 2007.",,,,,77080087-1,wfo-4000010468,8321562,
-6bbcc086-8fcd-11eb-924d-9cd76263cbd0,species,discrepans,Cyphonanthus,,"(Döll) Zuloaga & Morrone",2007,"Taxon 56: 528 2007",,,,5a01d37c-8fcd-11eb-924d-9cd76263cbd0,77080088-1,wfo-0000908158,4133222,
-e0be2218-8fcc-11eb-924d-9cd76263cbd0,species,buchananii,Cyphonema,,Baker,1876,"J. Bot. 14: 66 1876",,,,,64188-1,wfo-0000644679,2860113,
-e0c082d8-8fcc-11eb-924d-9cd76263cbd0,species,loddigesiana,Cyphonema,,Herb.,,"Bot. Mag. 65: t. 3710 1839",,,,,,wfo-0000644690,2854866,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e266467c-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphonanthus,,,"Zuloaga & Morrone",,2007,,"Taxon 56(2): 526. 2007.",,,,,,77080087-1,wfo-4000010468,8321562,,
+6bbcc086-8fcd-11eb-924d-9cd76263cbd0,species,discrepans,Cyphonanthus,,"(Döll) Zuloaga & Morrone",,2007,,"Taxon 56: 528 2007",,,,5a01d37c-8fcd-11eb-924d-9cd76263cbd0,,77080088-1,wfo-0000908158,4133222,,
+e0be2218-8fcc-11eb-924d-9cd76263cbd0,species,buchananii,Cyphonema,,Baker,,1876,,"J. Bot. 14: 66 1876",,,,,,64188-1,wfo-0000644679,2860113,,
+e0c082d8-8fcc-11eb-924d-9cd76263cbd0,species,loddigesiana,Cyphonema,,Herb.,,,,"Bot. Mag. 65: t. 3710 1839",,,,,,,wfo-0000644690,2854866,,

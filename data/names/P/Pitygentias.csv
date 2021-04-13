@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89a7f54-8fd1-11eb-924d-9cd76263cbd0,genus,Pitygentias,,,Gilg,1916,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 90–92. 1916.",,,,,,wfo-4000029933,7270499,
-b89a21d2-8fcd-11eb-924d-9cd76263cbd0,species,pinifolia,Pitygentias,,"(Ruiz & Pav. ex D.Don) Gilg",1916,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 90 1916",,,,,200879-2,wfo-0001063235,3844258,
-77acedb8-8fcc-11eb-924d-9cd76263cbd0,species,thrysoidea,Pitygentias,,Gilg,1916,"Bot. Jahrb. Syst. 54(118): 91 1916",,,,,200880-2,wfo-0000470041,3844249,
-b89a3bb8-8fcd-11eb-924d-9cd76263cbd0,species,thyrsoidea,Pitygentias,,"(Hook.) Gilg",1916,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 91 1916",,,,ffdbcd08-8fcc-11eb-924d-9cd76263cbd0,370322-1,wfo-0001063236,7977368,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89a7f54-8fd1-11eb-924d-9cd76263cbd0,genus,Pitygentias,,,Gilg,,1916,,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 90–92. 1916.",,,,,,,wfo-4000029933,7270499,,
+b89a21d2-8fcd-11eb-924d-9cd76263cbd0,species,pinifolia,Pitygentias,,"(Ruiz & Pav. ex D.Don) Gilg",,1916,,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 90 1916",,,,,,200879-2,wfo-0001063235,3844258,,
+77acedb8-8fcc-11eb-924d-9cd76263cbd0,species,thrysoidea,Pitygentias,,Gilg,,1916,,"Bot. Jahrb. Syst. 54(118): 91 1916",,,,,,200880-2,wfo-0000470041,3844249,,
+b89a3bb8-8fcd-11eb-924d-9cd76263cbd0,species,thyrsoidea,Pitygentias,,"(Hook.) Gilg",,1916,,"Bot. Jahrb. Syst. 54(2, Beibl. 118): 91 1916",,,,ffdbcd08-8fcc-11eb-924d-9cd76263cbd0,,370322-1,wfo-0001063236,7977368,,

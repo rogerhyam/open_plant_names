@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e70de70c-8fd1-11eb-924d-9cd76263cbd0,genus,Namaquanthus,,,L.Bolus,1954,"Notes Mesembrianthemum 3: 257. 1954.",,,,,16268-1,wfo-4000025283,7329155,
-37e0d1e0-8fcc-11eb-924d-9cd76263cbd0,species,farinosus,Namaquanthus,,L.Bolus,1958,"Notes Mesembryanthemum 3: 334 1958",,,,,57907-1,wfo-0000379908,3703177,
-d91ca00c-8fd1-11eb-924d-9cd76263cbd0,species,vanheerdii,Namaquanthus,,L.Bolus,1954,"Notes Mesembrianthemum 3: 257 1954",,,,,363787-1,wfo-0001293658,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e70de70c-8fd1-11eb-924d-9cd76263cbd0,genus,Namaquanthus,,,L.Bolus,,1954,,"Notes Mesembrianthemum 3: 257. 1954.",,,,,,16268-1,wfo-4000025283,7329155,,
+37e0d1e0-8fcc-11eb-924d-9cd76263cbd0,species,farinosus,Namaquanthus,,L.Bolus,,1958,,"Notes Mesembryanthemum 3: 334 1958",,,,,,57907-1,wfo-0000379908,3703177,,
+d91ca00c-8fd1-11eb-924d-9cd76263cbd0,species,vanheerdii,Namaquanthus,,L.Bolus,,1954,,"Notes Mesembrianthemum 3: 257 1954",,,,,,363787-1,wfo-0001293658,,,

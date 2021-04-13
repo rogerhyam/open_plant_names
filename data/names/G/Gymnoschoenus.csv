@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4484436-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnoschoenus,,,Nees,1841,"Ann. Mag. Nat. Hist. 6: 47. 1841.",,,,,13784-1,wfo-4000016520,2710849,
-6194c87a-8fcc-11eb-924d-9cd76263cbd0,species,adustus,Gymnoschoenus,,Nees,1841,"Ann. Mag. Nat. Hist. 6: 47 1841",,,,,308661-1,wfo-0000433296,2710859,
-6196636a-8fcc-11eb-924d-9cd76263cbd0,species,anceps,Gymnoschoenus,,"(R.Br.) C.B.Clarke",1908,"Bull. Misc. Inform. Kew Addit. Ser. 8: 92 1908",,,,,308663-1,wfo-0000433306,2710850,
-61976a26-8fcc-11eb-924d-9cd76263cbd0,species,sphaerocephalus,Gymnoschoenus,,"(R.Br.) Hook.f.",1858,"Fl. Tasman. 2: 83 1858",,,,,,wfo-0000433313,2710856,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4484436-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnoschoenus,,,Nees,,1841,,"Ann. Mag. Nat. Hist. 6: 47. 1841.",,,,,,13784-1,wfo-4000016520,2710849,,
+6194c87a-8fcc-11eb-924d-9cd76263cbd0,species,adustus,Gymnoschoenus,,Nees,,1841,,"Ann. Mag. Nat. Hist. 6: 47 1841",,,,,,308661-1,wfo-0000433296,2710859,,
+6196636a-8fcc-11eb-924d-9cd76263cbd0,species,anceps,Gymnoschoenus,,"(R.Br.) C.B.Clarke",,1908,,"Bull. Misc. Inform. Kew Addit. Ser. 8: 92 1908",,,,,,308663-1,wfo-0000433306,2710850,,
+61976a26-8fcc-11eb-924d-9cd76263cbd0,species,sphaerocephalus,Gymnoschoenus,,"(R.Br.) Hook.f.",,1858,,"Fl. Tasman. 2: 83 1858",,,,,,,wfo-0000433313,2710856,,

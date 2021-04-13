@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4edce9c-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrastis,,,"J.Ellis ex L.",,"Syst. Nat. (ed. 10) 2: 1069, 1088. 1759.",,,,,30058011-2,wfo-4000018513,3033109,
-d66fc914-8fcd-11eb-924d-9cd76263cbd0,species,canadensis,Hydrastis,,L.,,"Syst. Nat. (ed. 10) 2: 1088 1759",,,,,305699-2,wfo-0001129287,3033110,
-ad921f48-8fd1-11eb-924d-9cd76263cbd0,species,carolinensis,Hydrastis,,Walter,1788,"Fl. Carol. 156 1788",,,,,711414-1,wfo-0001220150,5927519,
-0fbe9804-8fcd-11eb-924d-9cd76263cbd0,species,jezoensis,Hydrastis,,"Siebold ex Miq.",1867,"Ann. Mus. Bot. Lugduno-Batavi 3: 205 1867",,,,,711415-1,wfo-0000726282,3922665,
-0fbebe24-8fcd-11eb-924d-9cd76263cbd0,species,trifolia,Hydrastis,,Raf.,1837,"New Fl. 2: 34 1837",,,,,711416-1,wfo-0000726283,3922656,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4edce9c-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrastis,,,"J.Ellis ex L.",,,,"Syst. Nat. (ed. 10) 2: 1069, 1088. 1759.",,,,,,30058011-2,wfo-4000018513,3033109,,
+d66fc914-8fcd-11eb-924d-9cd76263cbd0,species,canadensis,Hydrastis,,L.,,,,"Syst. Nat. (ed. 10) 2: 1088 1759",,,,,,305699-2,wfo-0001129287,3033110,,
+ad921f48-8fd1-11eb-924d-9cd76263cbd0,species,carolinensis,Hydrastis,,Walter,,1788,,"Fl. Carol. 156 1788",,,,,,711414-1,wfo-0001220150,5927519,,
+0fbe9804-8fcd-11eb-924d-9cd76263cbd0,species,jezoensis,Hydrastis,,"Siebold ex Miq.",,1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 205 1867",,,,,,711415-1,wfo-0000726282,3922665,,
+0fbebe24-8fcd-11eb-924d-9cd76263cbd0,species,trifolia,Hydrastis,,Raf.,,1837,,"New Fl. 2: 34 1837",,,,,,711416-1,wfo-0000726283,3922656,,

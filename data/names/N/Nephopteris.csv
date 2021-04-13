@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e73e4708-8fd1-11eb-924d-9cd76263cbd0,genus,Nephopteris,,,Lellinger,1966,"Amer. Fern J. 56: 180. 1966.",,,,,,wfo-4000025907,7335294,
-d08380cc-8fcd-11eb-924d-9cd76263cbd0,species,maxonii,Nephopteris,,Lellinger,1966,"Amer. Fern J. 56(4): 180, t. 22 1966",,,,,169225-2,wfo-0001116099,3746832,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e73e4708-8fd1-11eb-924d-9cd76263cbd0,genus,Nephopteris,,,Lellinger,,1966,,"Amer. Fern J. 56: 180. 1966.",,,,,,,wfo-4000025907,7335294,,
+d08380cc-8fcd-11eb-924d-9cd76263cbd0,species,maxonii,Nephopteris,,Lellinger,,1966,,"Amer. Fern J. 56(4): 180, t. 22 1966",,Q55764403,,,,169225-2,wfo-0001116099,3746832,,

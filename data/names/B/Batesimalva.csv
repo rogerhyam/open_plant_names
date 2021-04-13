@@ -1,9 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e01c7292-8fd1-11eb-924d-9cd76263cbd0,genus,Batesimalva,,,Fryxell,1975,"Bol. Soc. Bot. México 35: 25–29, f. 1. 1975. (Dec 1975)",,,,,25806-1,wfo-4000004208,3152643,
-aec02644-8fcc-11eb-924d-9cd76263cbd0,species,killipii,Batesimalva,,"Krapov. ex Fryxell",1985,"Syst. Bot. 10: 273 1985",,,,,273138-2,wfo-0000561323,3939066,
-aec04958-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Batesimalva,,"Villarreal & Fryxell",1990,"Acta Bot. Mex. 11: 19 1990",,,,,273139-2,wfo-0000561324,3939057,
-aec06708-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Batesimalva,,Fryxell,1975,"Bol. Soc. Bot. México 35: 27 1975",,,,,29909-2,wfo-0000561325,3939051,
-8e612bdc-8fcc-11eb-924d-9cd76263cbd0,species,stipulata,Batesimalva,,Fryxell,2007,"Lundellia 10: 1 2007",,,,,77091182-1,wfo-0000508535,3939046,
-aec081c0-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Batesimalva,,"(Rose) Fryxell",1975,"Bol. Soc. Bot. México 35: 26 1975",,,,,29910-2,wfo-0000561326,3152644,
-135aac10-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Bathiea,,"(Schltr.) Schltr.",1915,"Beih. Bot. Centralbl. 33(2): 440 1915",,,,,617440-1,wfo-0000320145,2791551,
-1f4ee46e-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Bathiorchis,,"(H.Perrier) Bosser & P.J.Cribb",2003,"Adansonia III, 25: 229 2003",,,,,60430535-2,wfo-0000340983,2840744,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e01c7292-8fd1-11eb-924d-9cd76263cbd0,genus,Batesimalva,,,Fryxell,,1975,,"Bol. Soc. Bot. México 35: 25–29, f. 1. 1975. (Dec 1975)",,Q95998482,,,,25806-1,wfo-4000004208,3152643,,
+aec02644-8fcc-11eb-924d-9cd76263cbd0,species,killipii,Batesimalva,,"Krapov. ex Fryxell",,1985,,"Syst. Bot. 10: 273 1985",,Q55765329,,,,273138-2,wfo-0000561323,3939066,,
+aec04958-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Batesimalva,,"Villarreal & Fryxell",,1990,,"Acta Bot. Mex. 11: 19 1990",,Q55993435,,,,273139-2,wfo-0000561324,3939057,,
+aec06708-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Batesimalva,,Fryxell,,1975,,"Bol. Soc. Bot. México 35: 27 1975",,,,,,29909-2,wfo-0000561325,3939051,,
+8e612bdc-8fcc-11eb-924d-9cd76263cbd0,species,stipulata,Batesimalva,,Fryxell,,2007,,"Lundellia 10: 1 2007",,Q100428274,,,,77091182-1,wfo-0000508535,3939046,,
+aec081c0-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Batesimalva,,"(Rose) Fryxell",,1975,,"Bol. Soc. Bot. México 35: 26 1975",,Q95998482,,,,29910-2,wfo-0000561326,3152644,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec47d4da-8fd1-11eb-924d-9cd76263cbd0,genus,Annea,,,"Mackinder & Wieringa",2013,"Phytotaxa 142: 3 (2013)",,,,,77133630-1,wfo-4001303127,9816525,
-0216ce40-8fca-11eb-924d-9cd76263cbd0,species,candida,Anneliesia,,"(Lindl.) Brieger & Lückel",1983,"Orchidee (Hamburg) 34: 130 1983",,,,,911756-1,wfo-0000215743,2803660,
-02bb8796-8fca-11eb-924d-9cd76263cbd0,variety,purpureoviolacea,Anneliesia,candida,"(Cogn.) Brieger & Lückel",1984,"Orchidee (Hamburg) 35: 43 1984",,,,,922948-1,wfo-0000215755,2803663,
-03394c1c-8fca-11eb-924d-9cd76263cbd0,species,cuneata,Anneliesia,,"(Lindl.) Senghas & Lückel",,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,,999961-1,wfo-0000215764,2803690,
-03d02128-8fca-11eb-924d-9cd76263cbd0,species,kayasimae,Anneliesia,,"(Pabst) Senghas & Lückel",,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,e3984f78-8fcb-11eb-924d-9cd76263cbd0,999963-1,wfo-0000215775,2803681,
-04678176-8fca-11eb-924d-9cd76263cbd0,species,russelliana,Anneliesia,,"(Lindl.) Senghas & Lückel",,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,7e585ff8-8fcc-11eb-924d-9cd76263cbd0,999962-1,wfo-0000215786,2803621,
-bf3efcac-8fd1-11eb-924d-9cd76263cbd0,species,russellianum,Anneliesia,,"(Lindl.) Senghas & Lückel",,"Orchideen (ed. 3) 2284 1997",,,,ea841358-8fcb-11eb-924d-9cd76263cbd0,,wfo-0001252612,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec47d4da-8fd1-11eb-924d-9cd76263cbd0,genus,Annea,,,"Mackinder & Wieringa",,2013,,"Phytotaxa 142: 3 (2013)",,Q22992870,,,,77133630-1,wfo-4001303127,9816525,,
+0216ce40-8fca-11eb-924d-9cd76263cbd0,species,candida,Anneliesia,,"(Lindl.) Brieger & Lückel",,1983,,"Orchidee (Hamburg) 34: 130 1983",,,,,,911756-1,wfo-0000215743,2803660,,
+02bb8796-8fca-11eb-924d-9cd76263cbd0,variety,purpureoviolacea,Anneliesia,candida,"(Cogn.) Brieger & Lückel",,1984,,"Orchidee (Hamburg) 35: 43 1984",,,,,,922948-1,wfo-0000215755,2803663,,
+03394c1c-8fca-11eb-924d-9cd76263cbd0,species,cuneata,Anneliesia,,"(Lindl.) Senghas & Lückel",,,,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,,,999961-1,wfo-0000215764,2803690,,
+03d02128-8fca-11eb-924d-9cd76263cbd0,species,kayasimae,Anneliesia,,"(Pabst) Senghas & Lückel",,,,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,e3984f78-8fcb-11eb-924d-9cd76263cbd0,,999963-1,wfo-0000215775,2803681,,
+04678176-8fca-11eb-924d-9cd76263cbd0,species,russelliana,Anneliesia,,"(Lindl.) Senghas & Lückel",,,,"Schlechter Orchideen I/C(33-36): 2284 1997",,,,7e585ff8-8fcc-11eb-924d-9cd76263cbd0,,999962-1,wfo-0000215786,2803621,,
+bf3efcac-8fd1-11eb-924d-9cd76263cbd0,species,russellianum,Anneliesia,,"(Lindl.) Senghas & Lückel",,,,"Orchideen (ed. 3) 2284 1997",,,,ea841358-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001252612,,,

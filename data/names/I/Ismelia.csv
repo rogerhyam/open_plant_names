@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52345f4-8fd1-11eb-924d-9cd76263cbd0,genus,Ismelia,,,Cass.,,,,,,,9501-1,wfo-4000019251,8330455,
-1960c956-8fb2-11eb-924d-9cd76263cbd0,species,broussonetii,Ismelia,,"(Pers.) Sch.Bip.",1844,1844,,,,,,wfo-0000011192,3104516,
-9e095376-8fb2-11eb-924d-9cd76263cbd0,species,carinata,Ismelia,,"(Schousb.) Sch.Bip.",1844,"271 1844",,,,,,wfo-0000029852,3091997,
-33515e02-8fb2-11eb-924d-9cd76263cbd0,species,coronopifolia,Ismelia,,"(Willd.) Sch.Bip.",1844,1844,,,,,,wfo-0000015638,3104477,
-0f034c12-8fb3-11eb-924d-9cd76263cbd0,species,frutescens,Ismelia,,Less.,,"Syn. Gen. Compos. 255",,,,,226248-1,wfo-0000040663,4224919,
-51e8dd3e-8fb9-11eb-924d-9cd76263cbd0,species,maderensis,Ismelia,,D.Don,1836,1836,,,,,,wfo-0000117349,3104522,
-94bab63a-8fbb-11eb-924d-9cd76263cbd0,species,nodosa,Ismelia,,Less.,,"Syn. Gen. Compos. 255",,,,,226250-1,wfo-0000135235,4224912,
-cf4fffd4-8fb2-11eb-924d-9cd76263cbd0,species,versicolor,Ismelia,,Cass.,1826,"41 1826",,,,,226251-1,wfo-0000035055,3092000,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52345f4-8fd1-11eb-924d-9cd76263cbd0,genus,Ismelia,,,Cass.,,,,,,,,,,9501-1,wfo-4000019251,8330455,,
+1960c956-8fb2-11eb-924d-9cd76263cbd0,species,broussonetii,Ismelia,,"(Pers.) Sch.Bip.",,1844,,1844,,,,,,,wfo-0000011192,3104516,,
+9e095376-8fb2-11eb-924d-9cd76263cbd0,species,carinata,Ismelia,,"(Schousb.) Sch.Bip.",,1844,,"271 1844",,,,,,,wfo-0000029852,3091997,,
+33515e02-8fb2-11eb-924d-9cd76263cbd0,species,coronopifolia,Ismelia,,"(Willd.) Sch.Bip.",,1844,,1844,,,,,,,wfo-0000015638,3104477,,
+0f034c12-8fb3-11eb-924d-9cd76263cbd0,species,frutescens,Ismelia,,Less.,,,,"Syn. Gen. Compos. 255",,,,,,226248-1,wfo-0000040663,4224919,,
+51e8dd3e-8fb9-11eb-924d-9cd76263cbd0,species,maderensis,Ismelia,,D.Don,,1836,,1836,,,,,,,wfo-0000117349,3104522,,
+94bab63a-8fbb-11eb-924d-9cd76263cbd0,species,nodosa,Ismelia,,Less.,,,,"Syn. Gen. Compos. 255",,,,,,226250-1,wfo-0000135235,4224912,,
+cf4fffd4-8fb2-11eb-924d-9cd76263cbd0,species,versicolor,Ismelia,,Cass.,,1826,,"41 1826",,,,,,226251-1,wfo-0000035055,3092000,,

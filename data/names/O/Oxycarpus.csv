@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7cb448c-8fd1-11eb-924d-9cd76263cbd0,genus,Oxycarpus,,,Lour.,1790,"Fl. Cochinch. 640, 647. 1790.",,,,,,wfo-4000027540,7330402,
-3b0285bc-8fcc-11eb-924d-9cd76263cbd0,species,celebica,Oxycarpus,,Poir.,1816,"Encycl. Suppl. 4: 258 1816",,,,,428974-1,wfo-0000383568,3715282,
-ce462018-8fd1-11eb-924d-9cd76263cbd0,species,cochinchinensis,Oxycarpus,,Lour.,,,,,,,,wfo-0001280282,3715276,
-da8c9744-8fd1-11eb-924d-9cd76263cbd0,species,gangetica,Oxycarpus,,Buch.-Ham.,1824,"Mem. Wern. Nat. Hist. Soc. 5: 344–345 1824",,,,,428976-1,wfo-0001296243,3715270,
-3b025ede-8fcc-11eb-924d-9cd76263cbd0,species,indica,Oxycarpus,,Poir.,1816,"Encycl. Suppl. 4: 257 1816",,,,,428977-1,wfo-0000383567,7777632,
-3b023a58-8fcc-11eb-924d-9cd76263cbd0,species,indica,Oxycarpus,,"Buch.-Ham. ex Wall.",,"Numer. List 4852 1831",,,,,428978-1,wfo-0000383566,3715259,
-3a82061c-8fcc-11eb-924d-9cd76263cbd0,species,sopsopia,Oxycarpus,,Buch.-Ham.,1826,"Mem. Wern. Nat. Hist. Soc. 5: 345 1826",,,,,927739-1,wfo-0000382873,3715244,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7cb448c-8fd1-11eb-924d-9cd76263cbd0,genus,Oxycarpus,,,Lour.,,1790,,"Fl. Cochinch. 640, 647. 1790.",,,,,,,wfo-4000027540,7330402,,
+3b0285bc-8fcc-11eb-924d-9cd76263cbd0,species,celebica,Oxycarpus,,Poir.,,1816,,"Encycl. Suppl. 4: 258 1816",,,,,,428974-1,wfo-0000383568,3715282,,
+ce462018-8fd1-11eb-924d-9cd76263cbd0,species,cochinchinensis,Oxycarpus,,Lour.,,,,,,,,,,,wfo-0001280282,3715276,,
+da8c9744-8fd1-11eb-924d-9cd76263cbd0,species,gangetica,Oxycarpus,,Buch.-Ham.,,1824,,"Mem. Wern. Nat. Hist. Soc. 5: 344–345 1824",,,,,,428976-1,wfo-0001296243,3715270,,
+3b025ede-8fcc-11eb-924d-9cd76263cbd0,species,indica,Oxycarpus,,Poir.,,1816,,"Encycl. Suppl. 4: 257 1816",,,,,,428977-1,wfo-0000383567,7777632,,
+3b023a58-8fcc-11eb-924d-9cd76263cbd0,species,indica,Oxycarpus,,"Buch.-Ham. ex Wall.",,,,"Numer. List 4852 1831",,,,,,428978-1,wfo-0000383566,3715259,,
+3a82061c-8fcc-11eb-924d-9cd76263cbd0,species,sopsopia,Oxycarpus,,Buch.-Ham.,,1826,,"Mem. Wern. Nat. Hist. Soc. 5: 345 1826",,,,,,927739-1,wfo-0000382873,3715244,,

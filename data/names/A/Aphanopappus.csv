@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df981ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Aphanopappus,,,,,,,,,,,wfo-4000002624,6064657,
-2efe4286-8fba-11eb-924d-9cd76263cbd0,species,micranthus,Aphanopappus,,"(Nutt.) A.Heller",1897,"Minnesota Bot. Stud. 1: 915. 1897",,,,,1144174-2,wfo-0000124622,8392569,
-45f762ec-8fb5-11eb-924d-9cd76263cbd0,species,micranthus,Aphanopappus,,Hiern,1900,"914 1900",,,,,,wfo-0000076057,4238981,
-e94f3588-8fb4-11eb-924d-9cd76263cbd0,species,nuttallii,Aphanopappus,,Walp.,1843,"620 1843",,,,,1123952-2,wfo-0000071507,4238975,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df981ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Aphanopappus,,,,,,,,,,,,,,wfo-4000002624,6064657,,
+2efe4286-8fba-11eb-924d-9cd76263cbd0,species,micranthus,Aphanopappus,,"(Nutt.) A.Heller",,1897,,"Minnesota Bot. Stud. 1: 915. 1897",,,,,,1144174-2,wfo-0000124622,8392569,,
+45f762ec-8fb5-11eb-924d-9cd76263cbd0,species,micranthus,Aphanopappus,,Hiern,,1900,,"914 1900",,,,,,,wfo-0000076057,4238981,,
+e94f3588-8fb4-11eb-924d-9cd76263cbd0,species,nuttallii,Aphanopappus,,Walp.,,1843,,"620 1843",,,,,,1123952-2,wfo-0000071507,4238975,,

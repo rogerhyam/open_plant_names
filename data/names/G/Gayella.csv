@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3eef4d0-8fd1-11eb-924d-9cd76263cbd0,genus,Gayella,,,Pierre,1890,"Not. Bot. 1: 26–27. 1890. (30 Dec 1890)",,,,,,wfo-4000015417,2886331,
-8d994fd0-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Gayella,,"(A.DC.) Aubrév.",1962,"Adansonia n.s., 1: 180 1962",,,,,107844-2,wfo-0000971654,5333644,
-8d997208-8fcd-11eb-924d-9cd76263cbd0,species,valparadisaea,Gayella,,"(Molina) Pierre",1890,"Not. Bot. 27 1890",,,,dc2bb176-8fcb-11eb-924d-9cd76263cbd0,107845-2,wfo-0000971655,5333643,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3eef4d0-8fd1-11eb-924d-9cd76263cbd0,genus,Gayella,,,Pierre,,1890,,"Not. Bot. 1: 26–27. 1890. (30 Dec 1890)",,,,,,,wfo-4000015417,2886331,,
+8d994fd0-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Gayella,,"(A.DC.) Aubrév.",,1962,,"Adansonia n.s., 1: 180 1962",,Q58837878,,,,107844-2,wfo-0000971654,5333644,,
+8d997208-8fcd-11eb-924d-9cd76263cbd0,species,valparadisaea,Gayella,,"(Molina) Pierre",,1890,,"Not. Bot. 27 1890",,,,dc2bb176-8fcb-11eb-924d-9cd76263cbd0,,107845-2,wfo-0000971655,5333643,,

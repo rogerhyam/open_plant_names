@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e71b0cfc-8fd1-11eb-924d-9cd76263cbd0,genus,Neeopsis,,,Lundell,1976,"Wrightia 5(7): 241–242. 1976.",,,,,27948-1,wfo-4000025482,7327227,
-c30d6386-8fcd-11eb-924d-9cd76263cbd0,species,flavifolia,Neeopsis,,"(Lundell) Lundell",1976,"Wrightia 5(7): 242 1976",,,,,168063-2,wfo-0001086807,3700391,
-58a9a8ec-8fcd-11eb-924d-9cd76263cbd0,species,contrerasii,Neeragrostis,,"(R.W.Pohl) P.M.Peterson",1997,"Smithsonian Contr. Bot. 87: 35 1997",,,,52630b90-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000881367,5940668,
-58a9c78c-8fcd-11eb-924d-9cd76263cbd0,species,hypnoides,Neeragrostis,,"(Lam.) Bush",1903,"Trans. Acad. Sci. St. Louis 13: 180 1903",,,,5e42c694-8fcd-11eb-924d-9cd76263cbd0,168064-2,wfo-0000881368,4147103,
-58a9e348-8fcd-11eb-924d-9cd76263cbd0,species,reptans,Neeragrostis,,"(Michx.) Nicora",1963,"Revista Argent. Agron. 29: 5 1963",,,,,1217062-2,wfo-0000881369,2703318,
-58a9ffb8-8fcd-11eb-924d-9cd76263cbd0,species,weigeltiana,Neeragrostis,,Bush,1903,"Trans. Acad. Sci. St. Louis 13: 178 1903",,,,,168065-2,wfo-0000881370,4147069,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e71b0cfc-8fd1-11eb-924d-9cd76263cbd0,genus,Neeopsis,,,Lundell,,1976,,"Wrightia 5(7): 241–242. 1976.",,,,,,27948-1,wfo-4000025482,7327227,,
+c30d6386-8fcd-11eb-924d-9cd76263cbd0,species,flavifolia,Neeopsis,,"(Lundell) Lundell",,1976,,"Wrightia 5(7): 242 1976",,,,,,168063-2,wfo-0001086807,3700391,,
+58a9a8ec-8fcd-11eb-924d-9cd76263cbd0,species,contrerasii,Neeragrostis,,"(R.W.Pohl) P.M.Peterson",,1997,,"Smithsonian Contr. Bot. 87: 35 1997",,,,52630b90-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000881367,5940668,,
+58a9c78c-8fcd-11eb-924d-9cd76263cbd0,species,hypnoides,Neeragrostis,,"(Lam.) Bush",,1903,,"Trans. Acad. Sci. St. Louis 13: 180 1903",,,,5e42c694-8fcd-11eb-924d-9cd76263cbd0,,168064-2,wfo-0000881368,4147103,,
+58a9e348-8fcd-11eb-924d-9cd76263cbd0,species,reptans,Neeragrostis,,"(Michx.) Nicora",,1963,,"Revista Argent. Agron. 29: 5 1963",,,,,,1217062-2,wfo-0000881369,2703318,,
+58a9ffb8-8fcd-11eb-924d-9cd76263cbd0,species,weigeltiana,Neeragrostis,,Bush,,1903,,"Trans. Acad. Sci. St. Louis 13: 178 1903",,,,,,168065-2,wfo-0000881370,4147069,,

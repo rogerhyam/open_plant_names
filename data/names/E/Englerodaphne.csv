@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e351e7da-8fd1-11eb-924d-9cd76263cbd0,genus,Englerodaphne,,,Gilg,1894,"Nat. Pflanzenfam. 3(6a): 230. 1894. (10 Jul 1894)",,,,,295445-2,wfo-4000013451,7694824,
-ee82bf44-8fcc-11eb-924d-9cd76263cbd0,species,leiosiphon,Englerodaphne,,Gilg,1894,"Bot. Jahrb. Syst. 19: 274 1894",,,,,,wfo-0000668002,3568626,
-ee82d966-8fcc-11eb-924d-9cd76263cbd0,species,ovalifolia,Englerodaphne,,"(Meisn.) E.Phillips",1944,"J. S. African Bot. 10: 65 1944",,,,,,wfo-0000668003,8167027,
-ee82f3e2-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Englerodaphne,,"Burtt Davy",1926,"Man. Pl. Transvaal 1: 40 1926",,,,,831631-1,wfo-0000668004,3568620,
-ee831408-8fcc-11eb-924d-9cd76263cbd0,species,subcordata,Englerodaphne,,"(Meisn.) Engl.",1921,"Veg. Erde 9(III 2): 640 1921",,,,0337ed4c-8fcd-11eb-924d-9cd76263cbd0,831632-1,wfo-0000668005,3568614,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e351e7da-8fd1-11eb-924d-9cd76263cbd0,genus,Englerodaphne,,,Gilg,,1894,,"Nat. Pflanzenfam. 3(6a): 230. 1894. (10 Jul 1894)",,,,,,295445-2,wfo-4000013451,7694824,,
+ee82bf44-8fcc-11eb-924d-9cd76263cbd0,species,leiosiphon,Englerodaphne,,Gilg,,1894,,"Bot. Jahrb. Syst. 19: 274 1894",,,,,,,wfo-0000668002,3568626,,
+ee82d966-8fcc-11eb-924d-9cd76263cbd0,species,ovalifolia,Englerodaphne,,"(Meisn.) E.Phillips",,1944,,"J. S. African Bot. 10: 65 1944",,,,,,,wfo-0000668003,8167027,,
+ee82f3e2-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Englerodaphne,,"Burtt Davy",,1926,,"Man. Pl. Transvaal 1: 40 1926",,,,,,831631-1,wfo-0000668004,3568620,,
+ee831408-8fcc-11eb-924d-9cd76263cbd0,species,subcordata,Englerodaphne,,"(Meisn.) Engl.",,1921,,"Veg. Erde 9(III 2): 640 1921",,,,0337ed4c-8fcd-11eb-924d-9cd76263cbd0,,831632-1,wfo-0000668005,3568614,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1659868-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalophilon,,,"(Meisn.) Börner",1912,"Abh. Naturwiss. Vereins Bremen 21: 276. 1912.",,,,,,wfo-4000007268,7291677,
-c3b6d264-8fcc-11eb-924d-9cd76263cbd0,species,capitatum,Cephalophilon,,"(Buch.-Ham. ex D.Don) Tzvelev",1987,"Novosti Sist. Vyssh. Rast. 24: 76 1987",,,,8322b4c0-8fcc-11eb-924d-9cd76263cbd0,944915-1,wfo-0000594799,4036281,
-c3b769ae-8fcc-11eb-924d-9cd76263cbd0,species,chinense,Cephalophilon,,"(L.) Borodina",1996,"Konsp. Sosud. Rast. Fl. V'etnama 2: 145 1996",,,,,,wfo-0000594802,8935636,
-c3b79122-8fcc-11eb-924d-9cd76263cbd0,species,malaicum,Cephalophilon,,"(Danser) Borodina",1996,"Konsp. Sosud. Rast. Fl. V'etnama 2: 145 1996",,,,bb63149c-8fd1-11eb-924d-9cd76263cbd0,,wfo-0000594803,8869903,
-c3b7cfa2-8fcc-11eb-924d-9cd76263cbd0,species,nepalense,Cephalophilon,,"(Meisn.) Tzvelev",1987,"Novosti Sist. Vyssh. Rast. 24: 76 1987",,,,8325ecb2-8fcc-11eb-924d-9cd76263cbd0,944916-1,wfo-0000594804,4036252,
-c3b7f14e-8fcc-11eb-924d-9cd76263cbd0,species,palmatum,Cephalophilon,,"(Dunn) Borodina",1996,"Konsp. Sosud. Rast. Fl. V'etnama 2: 146 1996",,,,ba169398-8fd1-11eb-924d-9cd76263cbd0,,wfo-0000594805,9113934,
-c3b812a0-8fcc-11eb-924d-9cd76263cbd0,species,runcinatum,Cephalophilon,,"(Buch.-Ham. ex D.Don) Tzvelev",1989,"Novosti Sist. Vyssh. Rast. 26: 67 1989",,,,c9d5cb36-8fcd-11eb-924d-9cd76263cbd0,947506-1,wfo-0000594806,4036235,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1659868-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalophilon,,,"(Meisn.) Börner",,1912,,"Abh. Naturwiss. Vereins Bremen 21: 276. 1912.",,,,,,,wfo-4000007268,7291677,,
+c3b6d264-8fcc-11eb-924d-9cd76263cbd0,species,capitatum,Cephalophilon,,"(Buch.-Ham. ex D.Don) Tzvelev",,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 1987",,,,8322b4c0-8fcc-11eb-924d-9cd76263cbd0,,944915-1,wfo-0000594799,4036281,,
+c3b769ae-8fcc-11eb-924d-9cd76263cbd0,species,chinense,Cephalophilon,,"(L.) Borodina",,1996,,"Konsp. Sosud. Rast. Fl. V'etnama 2: 145 1996",,,,,,,wfo-0000594802,8935636,,
+c3b79122-8fcc-11eb-924d-9cd76263cbd0,species,malaicum,Cephalophilon,,"(Danser) Borodina",,1996,,"Konsp. Sosud. Rast. Fl. V'etnama 2: 145 1996",,,,bb63149c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000594803,8869903,,
+c3b7cfa2-8fcc-11eb-924d-9cd76263cbd0,species,nepalense,Cephalophilon,,"(Meisn.) Tzvelev",,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 1987",,,,8325ecb2-8fcc-11eb-924d-9cd76263cbd0,,944916-1,wfo-0000594804,4036252,,
+c3b7f14e-8fcc-11eb-924d-9cd76263cbd0,species,palmatum,Cephalophilon,,"(Dunn) Borodina",,1996,,"Konsp. Sosud. Rast. Fl. V'etnama 2: 146 1996",,,,ba169398-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000594805,9113934,,
+c3b812a0-8fcc-11eb-924d-9cd76263cbd0,species,runcinatum,Cephalophilon,,"(Buch.-Ham. ex D.Don) Tzvelev",,1989,,"Novosti Sist. Vyssh. Rast. 26: 67 1989",,,,c9d5cb36-8fcd-11eb-924d-9cd76263cbd0,,947506-1,wfo-0000594806,4036235,,

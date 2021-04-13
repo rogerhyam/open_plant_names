@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d162fc-8fd1-11eb-924d-9cd76263cbd0,genus,Holubia,,,Oliv.,1884,"Hooker's Icon. Pl. 15: 59. 1884.",,,,,31839-1,wfo-4000018131,3233531,
-0eb05c68-8fcd-11eb-924d-9cd76263cbd0,species,boryi,Holubia,,"(Boiss.) Á.Löve & D.Löve",1977,"Anales Inst. Bot. Cavanilles 32: 266 1977",,,,,,wfo-0000724360,5595111,
-b8d03024-8fcd-11eb-924d-9cd76263cbd0,species,pyrenaica,Holubia,,"(L.) Á.Löve & D.Löve",1975,"Anales Inst. Bot. Cavanilles 32: 22? 1975",,,,,,wfo-0001063716,5595113,
-c51eda88-8fcd-11eb-924d-9cd76263cbd0,species,saccata,Holubia,,Oliv.,1884,"Hooker's Icon. Pl. 15: 59 1884",,,,,,wfo-0001091451,5527250,
-b8b66866-8fd1-11eb-924d-9cd76263cbd0,species,lunarioides,Holubiella,,"(Michx.) Skoda",1996,"Preslia 68(4): 345 1996",,,,cdc57728-8fcd-11eb-924d-9cd76263cbd0,1098958-2,wfo-0001240562,3659141,
-b8c672b4-8fcd-11eb-924d-9cd76263cbd0,species,boryi,Holubogentia,,"(Boiss.) Á.Löve & D.Löve",1978,"Bot. Not. 131(3): 385 1978",,,,,369690-1,wfo-0001063630,3839828,
-b8c654be-8fcd-11eb-924d-9cd76263cbd0,species,pyrenaica,Holubogentia,,"(L.) Á.Löve & D.Löve",1978,"Bot. Not. 131(3): 385 1978",,,,,369691-1,wfo-0001063629,3839837,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d162fc-8fd1-11eb-924d-9cd76263cbd0,genus,Holubia,,,Oliv.,,1884,,"Hooker's Icon. Pl. 15: 59. 1884.",,,,,,31839-1,wfo-4000018131,3233531,,
+0eb05c68-8fcd-11eb-924d-9cd76263cbd0,species,boryi,Holubia,,"(Boiss.) Á.Löve & D.Löve",,1977,,"Anales Inst. Bot. Cavanilles 32: 266 1977",,,,,,,wfo-0000724360,5595111,,
+b8d03024-8fcd-11eb-924d-9cd76263cbd0,species,pyrenaica,Holubia,,"(L.) Á.Löve & D.Löve",,1975,,"Anales Inst. Bot. Cavanilles 32: 22? 1975",,,,,,,wfo-0001063716,5595113,,
+c51eda88-8fcd-11eb-924d-9cd76263cbd0,species,saccata,Holubia,,Oliv.,,1884,,"Hooker's Icon. Pl. 15: 59 1884",,,,,,,wfo-0001091451,5527250,,
+b8b66866-8fd1-11eb-924d-9cd76263cbd0,species,lunarioides,Holubiella,,"(Michx.) Skoda",,1996,,"Preslia 68(4): 345 1996",,,,cdc57728-8fcd-11eb-924d-9cd76263cbd0,,1098958-2,wfo-0001240562,3659141,,
+b8c672b4-8fcd-11eb-924d-9cd76263cbd0,species,boryi,Holubogentia,,"(Boiss.) Á.Löve & D.Löve",,1978,,"Bot. Not. 131(3): 385 1978",,,,,,369690-1,wfo-0001063630,3839828,,
+b8c654be-8fcd-11eb-924d-9cd76263cbd0,species,pyrenaica,Holubogentia,,"(L.) Á.Löve & D.Löve",,1978,,"Bot. Not. 131(3): 385 1978",,,,,,369691-1,wfo-0001063629,3839837,,

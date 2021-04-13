@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a7e04e-8fd1-11eb-924d-9cd76263cbd0,genus,Rhoeo,,,Hance,1852,"Ann. Bot. Syst. 3: 659. 1852[1852]. (28-29 Sept 1852)",,,,,,wfo-4000033063,6031420,
-9110a6a0-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Rhoeo,,"(L'Hér.) Hance",1852,"Ann. Bot. Syst. 3: 660 1852",,,,bff8e7b6-8fcc-11eb-924d-9cd76263cbd0,1011442-2,wfo-0000513075,9562306,
-dab4007c-8fd1-11eb-924d-9cd76263cbd0,species,punica,Rhoeo,,"St.Lager & St.-Lag.",1880,"Ann. Soc. Bot. Lyon 7: 133 1880",,,,,,wfo-0001296515,8282784,
-91117d46-8fcc-11eb-924d-9cd76263cbd0,species,spathacea,Rhoeo,,"(Sw.) Stearn",1957,"Baileya 5: 198 1957",,,,c05911c2-8fcc-11eb-924d-9cd76263cbd0,219683-2,wfo-0000513083,6031421,
-32906d4e-8fcd-11eb-924d-9cd76263cbd0,form,concolor,Rhoeo,spathacea,"(Baker) Stehlé",1970,"Bull. Soc. Bot. France 117: 77 1970",,,,,219684-2,wfo-0000799395,2765239,
-32909ada-8fcd-11eb-924d-9cd76263cbd0,form,variegata,Rhoeo,spathacea,"(Hook.) Stehlé",1970,"Bull. Soc. Bot. France 117: 77 1970",,,,,219685-2,wfo-0000799396,2765236,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a7e04e-8fd1-11eb-924d-9cd76263cbd0,genus,Rhoeo,,,Hance,,1852,,"Ann. Bot. Syst. 3: 659. 1852[1852]. (28-29 Sept 1852)",,,,,,,wfo-4000033063,6031420,,
+9110a6a0-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Rhoeo,,"(L'Hér.) Hance",,1852,,"Ann. Bot. Syst. 3: 660 1852",,,,bff8e7b6-8fcc-11eb-924d-9cd76263cbd0,,1011442-2,wfo-0000513075,9562306,,
+dab4007c-8fd1-11eb-924d-9cd76263cbd0,species,punica,Rhoeo,,"St.Lager & St.-Lag.",,1880,,"Ann. Soc. Bot. Lyon 7: 133 1880",,,,,,,wfo-0001296515,8282784,,
+91117d46-8fcc-11eb-924d-9cd76263cbd0,species,spathacea,Rhoeo,,"(Sw.) Stearn",,1957,,"Baileya 5: 198 1957",,,,c05911c2-8fcc-11eb-924d-9cd76263cbd0,,219683-2,wfo-0000513083,6031421,,
+32906d4e-8fcd-11eb-924d-9cd76263cbd0,form,concolor,Rhoeo,spathacea,"(Baker) Stehlé",,1970,,"Bull. Soc. Bot. France 117: 77 1970",,Q95997012,,,,219684-2,wfo-0000799395,2765239,,
+32909ada-8fcd-11eb-924d-9cd76263cbd0,form,variegata,Rhoeo,spathacea,"(Hook.) Stehlé",,1970,,"Bull. Soc. Bot. France 117: 77 1970",,Q95997012,,,,219685-2,wfo-0000799396,2765236,,

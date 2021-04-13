@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cfed96-8fd1-11eb-924d-9cd76263cbd0,genus,Holoschkuhria,,,H.Rob.,,,,,,,327997-2,wfo-4000018108,3117186,
-4f13d710-8fb6-11eb-924d-9cd76263cbd0,species,peruviana,Holoschkuhria,,H.Rob.,2002,"Compositae Newslett. 38. 2002 50 2002",,,,,,wfo-0000088037,3117188,
-2eef8cb0-8fb4-11eb-924d-9cd76263cbd0,species,tetramera,Holoschkuhria,,H.Rob.,2002,2002,,,,,,wfo-0000061183,3117187,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cfed96-8fd1-11eb-924d-9cd76263cbd0,genus,Holoschkuhria,,,H.Rob.,,,,,,,,,,327997-2,wfo-4000018108,3117186,,
+4f13d710-8fb6-11eb-924d-9cd76263cbd0,species,peruviana,Holoschkuhria,,H.Rob.,,2002,,"Compositae Newslett. 38. 2002 50 2002",,,,,,,wfo-0000088037,3117188,,
+2eef8cb0-8fb4-11eb-924d-9cd76263cbd0,species,tetramera,Holoschkuhria,,H.Rob.,,2002,,2002,,,,,,,wfo-0000061183,3117187,,

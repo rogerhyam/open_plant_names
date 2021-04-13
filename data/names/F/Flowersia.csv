@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c276ee-8fd1-11eb-924d-9cd76263cbd0,genus,Flowersia,,,"D.G.Griffin & W.R.Buck",1989,"Bryologist 92: 372. 1989.",,,,,,wfo-4000014877,2676053,
-f5eaedaa-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Flowersia,,"(Müll.Hal.) D.G.Griffin & W.R.Buck",1989,"Bryologist 92: 372 1989",,,,,,wfo-0001195588,2676054,
-f5ea94e0-8fcd-11eb-924d-9cd76263cbd0,species,campylopus,Flowersia,,"(Schimp.) D.G.Griffin & W.R.Buck",1989,"Bryologist 92: 372 1989",,,,e1af50ec-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195585,2676056,
-f5eab268-8fcd-11eb-924d-9cd76263cbd0,species,setifolia,Flowersia,,"(Hook. & Arn.) D.G.Griffin & W.R.Buck",1989,"Bryologist 92: 372 1989",,,,,,wfo-0001195586,2676055,
-f5eacffa-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Flowersia,,"(Broth.) D.G.Griffin & W.R.Buck",1989,"Bryologist 92: 372 1989",,,,,,wfo-0001195587,2676057,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c276ee-8fd1-11eb-924d-9cd76263cbd0,genus,Flowersia,,,"D.G.Griffin & W.R.Buck",,1989,,"Bryologist 92: 372. 1989.",,,,,,,wfo-4000014877,2676053,,
+f5eaedaa-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Flowersia,,"(Müll.Hal.) D.G.Griffin & W.R.Buck",,1989,,"Bryologist 92: 372 1989",,,,,,,wfo-0001195588,2676054,,
+f5ea94e0-8fcd-11eb-924d-9cd76263cbd0,species,campylopus,Flowersia,,"(Schimp.) D.G.Griffin & W.R.Buck",,1989,,"Bryologist 92: 372 1989",,,,e1af50ec-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195585,2676056,,
+f5eab268-8fcd-11eb-924d-9cd76263cbd0,species,setifolia,Flowersia,,"(Hook. & Arn.) D.G.Griffin & W.R.Buck",,1989,,"Bryologist 92: 372 1989",,,,,,,wfo-0001195586,2676055,,
+f5eacffa-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Flowersia,,"(Broth.) D.G.Griffin & W.R.Buck",,1989,,"Bryologist 92: 372 1989",,,,,,,wfo-0001195587,2676057,,

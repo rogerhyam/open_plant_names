@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0c327ea-8fd1-11eb-924d-9cd76263cbd0,genus,Brachycarpaea,,,DC.,1821,"Me}m. Mus. Hist. Nat. 7: 247. 1821.",,,,,,wfo-4000005192,3053637,
-b483c496-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Brachycarpaea,,"(L.) Fourc.",1941,"Mem. Bot. Surv. S. Africa 20: 36 1941",,,,,279199-1,wfo-0000570223,3044033,
-b483e192-8fcc-11eb-924d-9cd76263cbd0,species,flava,Brachycarpaea,,"(L.f.) Druce",1916,"Rep. Bot. Soc. Exch. Club Brit. Isles 4: 610 1916 publ. 1917",,,,acbe9df2-8fcd-11eb-924d-9cd76263cbd0,279200-1,wfo-0000570224,3044028,
-abe2639c-8fd1-11eb-924d-9cd76263cbd0,species,juncea,Brachycarpaea,,Marais,,,,,,,,wfo-0001217082,3044026,
-b483fdc6-8fcc-11eb-924d-9cd76263cbd0,species,laxa,Brachycarpaea,,Sond.,1860,"Fl. Cap. 1: 33 1860",,,,,279202-1,wfo-0000570225,3044032,
-b4841e00-8fcc-11eb-924d-9cd76263cbd0,species,linifolia,Brachycarpaea,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afric. Austral 8 1834",,,,,279203-1,wfo-0000570226,3044027,
-b4845fd2-8fcc-11eb-924d-9cd76263cbd0,species,polygaloides,Brachycarpaea,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afric. Austral 7 1834",,,,,279204-1,wfo-0000570228,3044030,
-b4847dd2-8fcc-11eb-924d-9cd76263cbd0,species,varians,Brachycarpaea,,DC.,1821,"Syst. Nat. 2: 699 1821",,,,,279205-1,wfo-0000570229,3044031,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0c327ea-8fd1-11eb-924d-9cd76263cbd0,genus,Brachycarpaea,,,DC.,,1821,,"Me}m. Mus. Hist. Nat. 7: 247. 1821.",,,,,,,wfo-4000005192,3053637,,
+b483c496-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Brachycarpaea,,"(L.) Fourc.",,1941,,"Mem. Bot. Surv. S. Africa 20: 36 1941",,,,,,279199-1,wfo-0000570223,3044033,,
+b483e192-8fcc-11eb-924d-9cd76263cbd0,species,flava,Brachycarpaea,,"(L.f.) Druce",,1916,,"Rep. Bot. Soc. Exch. Club Brit. Isles 4: 610 1916 publ. 1917",,,,acbe9df2-8fcd-11eb-924d-9cd76263cbd0,,279200-1,wfo-0000570224,3044028,,
+abe2639c-8fd1-11eb-924d-9cd76263cbd0,species,juncea,Brachycarpaea,,Marais,,,,,,,,,,,wfo-0001217082,3044026,,
+b483fdc6-8fcc-11eb-924d-9cd76263cbd0,species,laxa,Brachycarpaea,,Sond.,,1860,,"Fl. Cap. 1: 33 1860",,,,,,279202-1,wfo-0000570225,3044032,,
+b4841e00-8fcc-11eb-924d-9cd76263cbd0,species,linifolia,Brachycarpaea,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afric. Austral 8 1834",,,,,,279203-1,wfo-0000570226,3044027,,
+b4845fd2-8fcc-11eb-924d-9cd76263cbd0,species,polygaloides,Brachycarpaea,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afric. Austral 7 1834",,,,,,279204-1,wfo-0000570228,3044030,,
+b4847dd2-8fcc-11eb-924d-9cd76263cbd0,species,varians,Brachycarpaea,,DC.,,1821,,"Syst. Nat. 2: 699 1821",,,,,,279205-1,wfo-0000570229,3044031,,

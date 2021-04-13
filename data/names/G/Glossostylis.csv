@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e411ea76-8fd1-11eb-924d-9cd76263cbd0,genus,Glossostylis,,,,,,,,,,,wfo-4000015821,7332174,
-02b8715c-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Glossostylis,,"Hochst. ex A.DC.",1846,"Prodr. 10: 545 1846",,,,,803381-1,wfo-0000704109,3730101,
-02b88e1c-8fcd-11eb-924d-9cd76263cbd0,species,arvensis,Glossostylis,,Benth.,1835,"Scroph. Ind. 49 1835",,,,,803382-1,wfo-0000704110,3730096,
-02b8aae6-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Glossostylis,,"Cham. & Schltdl.",1828,"Linnaea 3: 22 1828",,,,,110917-2,wfo-0000704111,3172199,
-02b8c79c-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Glossostylis,,"(Thunb.) Benth.",1835,"Scroph. Ind. 50 1835",,,,,803386-1,wfo-0000704112,3730068,
-02b8e3e4-8fcd-11eb-924d-9cd76263cbd0,species,parasitica,Glossostylis,,"Hochst. ex A.Rich.",1850,"Tent. Fl. Abyss. 2: 117 1850",,,,,803388-1,wfo-0000704113,3730058,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e411ea76-8fd1-11eb-924d-9cd76263cbd0,genus,Glossostylis,,,,,,,,,,,,,,wfo-4000015821,7332174,,
+02b8715c-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Glossostylis,,"Hochst. ex A.DC.",,1846,,"Prodr. 10: 545 1846",,,,,,803381-1,wfo-0000704109,3730101,,
+02b88e1c-8fcd-11eb-924d-9cd76263cbd0,species,arvensis,Glossostylis,,Benth.,,1835,,"Scroph. Ind. 49 1835",,,,,,803382-1,wfo-0000704110,3730096,,
+02b8aae6-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Glossostylis,,"Cham. & Schltdl.",,1828,,"Linnaea 3: 22 1828",,,,,,110917-2,wfo-0000704111,3172199,,
+02b8c79c-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Glossostylis,,"(Thunb.) Benth.",,1835,,"Scroph. Ind. 50 1835",,,,,,803386-1,wfo-0000704112,3730068,,
+02b8e3e4-8fcd-11eb-924d-9cd76263cbd0,species,parasitica,Glossostylis,,"Hochst. ex A.Rich.",,1850,,"Tent. Fl. Abyss. 2: 117 1850",,,,,,803388-1,wfo-0000704113,3730058,,

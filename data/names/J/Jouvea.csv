@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e542dbe4-8fd1-11eb-924d-9cd76263cbd0,genus,Jouvea,,,E.Fourn.,1876,"Bull. Soc. Roy. Bot. Belgique 15(3): 475. 1876.",,,,,18300-1,wfo-4000019622,4140683,
-5670a5bc-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Jouvea,,"(J.Presl) Scribn.",1896,"Bull. Torrey Bot. Club 23: 143 1896",,,,,131699-2,wfo-0000876605,4140691,
-5670c970-8fcd-11eb-924d-9cd76263cbd0,species,straminea,Jouvea,,E.Fourn.,1876,"Bull. Soc. Roy. Bot. Belgique 15: 475 1876",,,,,406390-1,wfo-0000876606,4140682,
-6c8c851a-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Jouyella,,"(Poepp.) Szlach. & Marg.",2001,"Polish Bot. J. 46: 125 2001",,,,49179c18-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000451266,2783447,
-6c8dfa4e-8fcc-11eb-924d-9cd76263cbd0,species,philipporum,Jouyella,,"(Kraenzl.) Szlach. & Marg.",2001,"Polish Bot. J. 46: 125 2001",,,,1ff6abd6-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000451276,2783442,
-6c8ee3d2-8fcc-11eb-924d-9cd76263cbd0,species,plumosa,Jouyella,,"(Lindl.) Szlach. & Marg.",2001,"Polish Bot. J. 46: 125 2001",,,,,,wfo-0000451283,2783440,
-6c8fc0fe-8fcc-11eb-924d-9cd76263cbd0,species,taltalensis,Jouyella,,"(I.M.Johnst.) Szlach. & Marg.",2001,"Polish Bot. J. 46: 125 2001",,,,,,wfo-0000451291,2783435,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e542dbe4-8fd1-11eb-924d-9cd76263cbd0,genus,Jouvea,,,E.Fourn.,,1876,,"Bull. Soc. Roy. Bot. Belgique 15(3): 475. 1876.",,,,,,18300-1,wfo-4000019622,4140683,,
+5670a5bc-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Jouvea,,"(J.Presl) Scribn.",,1896,,"Bull. Torrey Bot. Club 23: 143 1896",,Q55766598,,,,131699-2,wfo-0000876605,4140691,,
+5670c970-8fcd-11eb-924d-9cd76263cbd0,species,straminea,Jouvea,,E.Fourn.,,1876,,"Bull. Soc. Roy. Bot. Belgique 15: 475 1876",,,,,,406390-1,wfo-0000876606,4140682,,
+6c8c851a-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Jouyella,,"(Poepp.) Szlach. & Marg.",,2001,,"Polish Bot. J. 46: 125 2001",,,,49179c18-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000451266,2783447,,
+6c8dfa4e-8fcc-11eb-924d-9cd76263cbd0,species,philipporum,Jouyella,,"(Kraenzl.) Szlach. & Marg.",,2001,,"Polish Bot. J. 46: 125 2001",,,,1ff6abd6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000451276,2783442,,
+6c8ee3d2-8fcc-11eb-924d-9cd76263cbd0,species,plumosa,Jouyella,,"(Lindl.) Szlach. & Marg.",,2001,,"Polish Bot. J. 46: 125 2001",,,,,,,wfo-0000451283,2783440,,
+6c8fc0fe-8fcc-11eb-924d-9cd76263cbd0,species,taltalensis,Jouyella,,"(I.M.Johnst.) Szlach. & Marg.",,2001,,"Polish Bot. J. 46: 125 2001",,,,,,,wfo-0000451291,2783435,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e059d470-8fd1-11eb-924d-9cd76263cbd0,genus,Bontia,,,L.,1753,"Sp. Pl. 2: 638 [as ""938""]. 1753. (1 May 1753)",,,,,27188-1,wfo-4000004994,2925376,
-b39ef3d4-8fcc-11eb-924d-9cd76263cbd0,species,bontioides,Bontia,,"(A.Gray) Aver.",1988,"Mater. Fl. Rast. Ostrov.V'etnama 73 1988",,,,,946120-1,wfo-0000568828,8346560,
-b39f121a-8fcc-11eb-924d-9cd76263cbd0,species,daphnoides,Bontia,,L.,1753,"Sp. Pl. 638 1753",,,,,319112-2,wfo-0000568829,5415104,
-b39f4db6-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Bontia,daphnoides,"(C.F.Gaertn.) A.DC.",1847,"Prodr. 11: 716 1847",,,,,34784-2,wfo-0000568831,7593637,
-25b8660e-8fcc-11eb-924d-9cd76263cbd0,species,germinans,Bontia,,L.,,"Syst. Nat. ed. 10 2: 1122 1759",,,,,861161-1,wfo-0000350239,5341104,
-b39f6b48-8fcc-11eb-924d-9cd76263cbd0,species,germinans,Bontia,,L.,,"Syst. Nat. ed. 10 2: 1122 1759",,,,,861161-1,wfo-0000568832,5341104,
-b39f8934-8fcc-11eb-924d-9cd76263cbd0,species,minor,Bontia,,P.Gaertn.,1791,"Fruct. Sem. Pl. 3: 169 1791",,,,,,wfo-0000568833,7907053,
-adef167a-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Bontia,,Koelp.,1766,"Reise Span. Länd. 255 1766",,,,,,wfo-0001038996,8102841,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e059d470-8fd1-11eb-924d-9cd76263cbd0,genus,Bontia,,,L.,,1753,,"Sp. Pl. 2: 638 [as ""938""]. 1753. (1 May 1753)",,,,,,27188-1,wfo-4000004994,2925376,,
+b39ef3d4-8fcc-11eb-924d-9cd76263cbd0,species,bontioides,Bontia,,"(A.Gray) Aver.",,1988,,"Mater. Fl. Rast. Ostrov.V'etnama 73 1988",,,,,,946120-1,wfo-0000568828,8346560,,
+b39f121a-8fcc-11eb-924d-9cd76263cbd0,species,daphnoides,Bontia,,L.,,1753,,"Sp. Pl. 638 1753",,,,,,319112-2,wfo-0000568829,5415104,,
+b39f4db6-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Bontia,daphnoides,"(C.F.Gaertn.) A.DC.",,1847,,"Prodr. 11: 716 1847",,,,,,34784-2,wfo-0000568831,7593637,,
+25b8660e-8fcc-11eb-924d-9cd76263cbd0,species,germinans,Bontia,,L.,,,,"Syst. Nat. ed. 10 2: 1122 1759",,,,,,861161-1,wfo-0000350239,5341104,,
+b39f6b48-8fcc-11eb-924d-9cd76263cbd0,species,germinans,Bontia,,L.,,,,"Syst. Nat. ed. 10 2: 1122 1759",,,,,,861161-1,wfo-0000568832,5341104,,
+b39f8934-8fcc-11eb-924d-9cd76263cbd0,species,minor,Bontia,,P.Gaertn.,,1791,,"Fruct. Sem. Pl. 3: 169 1791",,,,,,,wfo-0000568833,7907053,,
+adef167a-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Bontia,,Koelp.,,1766,,"Reise Span. Länd. 255 1766",,,,,,,wfo-0001038996,8102841,,

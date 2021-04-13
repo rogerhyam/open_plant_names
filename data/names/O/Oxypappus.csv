@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7ceadfc-8fd1-11eb-924d-9cd76263cbd0,genus,Oxypappus,,,Benth.,,,,,,,10346-1,wfo-4000027578,3088419,
-1304c9c2-8fbc-11eb-924d-9cd76263cbd0,species,gracilis,Oxypappus,,A.Gray,1890,"Nat. Pflanzenfam. 4, Abt. 5: 257. 1890",,,,,179249-2,wfo-0000138682,4250880,
-fa2b4cac-8fb4-11eb-924d-9cd76263cbd0,species,scaber,Oxypappus,,Benth.,1845,"The botany of the voyage of H.M.S. Sulphur 118 1845",,,,,236238-1,wfo-0000072369,3088420,
-f67e99e4-8fb2-11eb-924d-9cd76263cbd0,species,scabra,Oxypappus,,Benth.,,"Bot. Voy. Sulphur 118.",,,,,,wfo-0000038487,4250871,
-eff6a334-8fb5-11eb-924d-9cd76263cbd0,species,seemannii,Oxypappus,,S.F.Blake,1930,"261 1930",,,,,236239-1,wfo-0000083879,4250861,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7ceadfc-8fd1-11eb-924d-9cd76263cbd0,genus,Oxypappus,,,Benth.,,,,,,,,,,10346-1,wfo-4000027578,3088419,,
+1304c9c2-8fbc-11eb-924d-9cd76263cbd0,species,gracilis,Oxypappus,,A.Gray,,1890,,"Nat. Pflanzenfam. 4, Abt. 5: 257. 1890",,,,,,179249-2,wfo-0000138682,4250880,,
+fa2b4cac-8fb4-11eb-924d-9cd76263cbd0,species,scaber,Oxypappus,,Benth.,,1845,,"The botany of the voyage of H.M.S. Sulphur 118 1845",,,,,,236238-1,wfo-0000072369,3088420,,
+f67e99e4-8fb2-11eb-924d-9cd76263cbd0,species,scabra,Oxypappus,,Benth.,,,,"Bot. Voy. Sulphur 118.",,,,,,,wfo-0000038487,4250871,,
+eff6a334-8fb5-11eb-924d-9cd76263cbd0,species,seemannii,Oxypappus,,S.F.Blake,,1930,,"261 1930",,,,,,236239-1,wfo-0000083879,4250861,,

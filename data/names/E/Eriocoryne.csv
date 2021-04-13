@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3701020-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocoryne,,,,,,,,,,,wfo-4000013829,,
-83c1d02a-8fbb-11eb-924d-9cd76263cbd0,species,nidularis,Eriocoryne,,"Wall. ex DC.",1838,"541 1838",,,,,204819-1,wfo-0000134777,3145906,
-5808af96-8fb4-11eb-924d-9cd76263cbd0,species,nidularis,Eriocoryne,,Wall.,1831,"Pl. Asiat. ii. 33 (1831).",,,,,204820-1,wfo-0000063631,7871092,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3701020-8fd1-11eb-924d-9cd76263cbd0,genus,Eriocoryne,,,,,,,,,,,,,,wfo-4000013829,,,
+83c1d02a-8fbb-11eb-924d-9cd76263cbd0,species,nidularis,Eriocoryne,,"Wall. ex DC.",,1838,,"541 1838",,,,,,204819-1,wfo-0000134777,3145906,,
+5808af96-8fb4-11eb-924d-9cd76263cbd0,species,nidularis,Eriocoryne,,Wall.,,1831,,"Pl. Asiat. ii. 33 (1831).",,,,,,204820-1,wfo-0000063631,7871092,,

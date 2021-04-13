@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb7702e2-8fd1-11eb-924d-9cd76263cbd0,genus,Tragiella,,,"Pax & K.Hoffm.",1919,"Pflanzenr. IV. 147 IX(Heft 68): 104. 1919.",,,,,16007-1,wfo-4000038768,3073188,
-17716fdc-8fcc-11eb-924d-9cd76263cbd0,species,anomala,Tragiella,,"(Prain) Pax & K.Hoffm.",1919,"Pflanzenr. IV, 147, IX: 106 1919",,,,17377354-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000326977,3073190,
-1771912e-8fcc-11eb-924d-9cd76263cbd0,species,frieseana,Tragiella,,"(Prain) Pax & K.Hoffm.",1919,"Pflanzenr. IV, 147, IX: 106 1919",,,,1748e972-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000326978,3073193,
-1771d0bc-8fcc-11eb-924d-9cd76263cbd0,species,natalensis,Tragiella,,"(Sond.) Pax & K.Hoffm.",1919,"Pflanzenr. IV, 147, IX: 105 1919",,,,,,wfo-0000326980,3073196,
-1771ed40-8fcc-11eb-924d-9cd76263cbd0,species,pavoniifolia,Tragiella,,Chiov.,1929,"Fl. Somala 1: 310 1929",,,,,357924-1,wfo-0000326981,3055716,
-17720762-8fcc-11eb-924d-9cd76263cbd0,species,pyxostigma,Tragiella,,Radcl.-Sm.,1983,"Kew Bull. 37: 690 1983",,,,,903279-1,wfo-0000326982,3073189,
-da986988-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Tragiola,,"(Michx.) Small & Pennell",,"Man. S.E. Fl. 1192, 1508 1933",,,,,256468-2,wfo-0001138506,3171938,
-d16b0722-8fd1-11eb-924d-9cd76263cbd0,subspecies,epilis,Tragiola,pilosa,"(Pennell) Small & Pennell",1935,"Acad. Nat. Sci. Philadelphia Monogr. 1: 99 1935",,,,053eb7c4-8fcd-11eb-924d-9cd76263cbd0,256470-2,wfo-0001282076,6438406,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb7702e2-8fd1-11eb-924d-9cd76263cbd0,genus,Tragiella,,,"Pax & K.Hoffm.",,1919,,"Pflanzenr. IV. 147 IX(Heft 68): 104. 1919.",,,,,,16007-1,wfo-4000038768,3073188,,
+17716fdc-8fcc-11eb-924d-9cd76263cbd0,species,anomala,Tragiella,,"(Prain) Pax & K.Hoffm.",,1919,,"Pflanzenr. IV, 147, IX: 106 1919",,,,17377354-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000326977,3073190,,
+1771912e-8fcc-11eb-924d-9cd76263cbd0,species,frieseana,Tragiella,,"(Prain) Pax & K.Hoffm.",,1919,,"Pflanzenr. IV, 147, IX: 106 1919",,,,1748e972-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000326978,3073193,,
+1771d0bc-8fcc-11eb-924d-9cd76263cbd0,species,natalensis,Tragiella,,"(Sond.) Pax & K.Hoffm.",,1919,,"Pflanzenr. IV, 147, IX: 105 1919",,,,,,,wfo-0000326980,3073196,,
+1771ed40-8fcc-11eb-924d-9cd76263cbd0,species,pavoniifolia,Tragiella,,Chiov.,,1929,,"Fl. Somala 1: 310 1929",,,,,,357924-1,wfo-0000326981,3055716,,
+17720762-8fcc-11eb-924d-9cd76263cbd0,species,pyxostigma,Tragiella,,Radcl.-Sm.,,1983,,"Kew Bull. 37: 690 1983",,Q55779780,,,,903279-1,wfo-0000326982,3073189,,
+da986988-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Tragiola,,"(Michx.) Small & Pennell",,,,"Man. S.E. Fl. 1192, 1508 1933",,,,,,256468-2,wfo-0001138506,3171938,,
+d16b0722-8fd1-11eb-924d-9cd76263cbd0,subspecies,epilis,Tragiola,pilosa,"(Pennell) Small & Pennell",,1935,,"Acad. Nat. Sci. Philadelphia Monogr. 1: 99 1935",,,,053eb7c4-8fcd-11eb-924d-9cd76263cbd0,,256470-2,wfo-0001282076,6438406,,

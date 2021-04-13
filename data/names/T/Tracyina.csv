@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb764d0c-8fd1-11eb-924d-9cd76263cbd0,genus,Tracyina,,,S.F.Blake,,,,,,,289350-2,wfo-4000038756,3115703,
-aae78f5c-8fb4-11eb-924d-9cd76263cbd0,species,rostrata,Tracyina,,S.F.Blake,1937,1937,,,,,,wfo-0000068219,3115704,
-bfb91fd2-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Tradescantella,,"(S.Watson) Small",1903,"Fl. S.E. U.S. 238 1903",,,,,255890-2,wfo-0000588546,2763718,
-bfba9088-8fcc-11eb-924d-9cd76263cbd0,species,incarnata,Tradescantella,,"(Small) Small",,"Fl. S.E. U.S. 1328 1903",,,,,173199-1,wfo-0000588557,2765185,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb764d0c-8fd1-11eb-924d-9cd76263cbd0,genus,Tracyina,,,S.F.Blake,,,,,,Q93975904,,,,289350-2,wfo-4000038756,3115703,,
+aae78f5c-8fb4-11eb-924d-9cd76263cbd0,species,rostrata,Tracyina,,S.F.Blake,,1937,,1937,,,,,,,wfo-0000068219,3115704,,

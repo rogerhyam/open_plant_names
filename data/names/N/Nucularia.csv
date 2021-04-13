@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e766b940-8fd1-11eb-924d-9cd76263cbd0,genus,Nucularia,,,Batt.,1903,"Bull. Soc. Bot. France 50: 469. 1903.",,,,,36070-1,wfo-4000026375,3231854,
-37181b10-8fcc-11eb-924d-9cd76263cbd0,species,perrinii,Nucularia,,Batt.,1903,"Bull. Soc. Bot. France 50: 469 1903",,,,,779304-1,wfo-0000378801,6285517,
-1bbc0ccc-8fcd-11eb-924d-9cd76263cbd0,variety,incrassata,Nucularia,perrinii,Maire,1934,"Bull. Soc. Hist. Nat. Afrique N. 34: 186 1934",,,,,,wfo-0000750767,8026010,
-3af28a94-8fcd-11eb-924d-9cd76263cbd0,species,paradoxus,Nudilus,,Raf.,1833,"Atlantic J. 1: 176 1833",,,,,610595-1,wfo-0000817052,3683046,
-b20a1fe8-8fcd-11eb-924d-9cd76263cbd0,species,sclerantha,Nuihonia,,Dop,1930,"Observ. Bot. 3: 719 1930",,,,,331323-1,wfo-0001048333,4168276,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e766b940-8fd1-11eb-924d-9cd76263cbd0,genus,Nucularia,,,Batt.,,1903,,"Bull. Soc. Bot. France 50: 469. 1903.",,Q55756871,,,,36070-1,wfo-4000026375,3231854,,
+37181b10-8fcc-11eb-924d-9cd76263cbd0,species,perrinii,Nucularia,,Batt.,,1903,,"Bull. Soc. Bot. France 50: 469 1903",,Q55756871,,,,779304-1,wfo-0000378801,6285517,,
+1bbc0ccc-8fcd-11eb-924d-9cd76263cbd0,variety,incrassata,Nucularia,perrinii,Maire,,1934,,"Bull. Soc. Hist. Nat. Afrique N. 34: 186 1934",,,,,,,wfo-0000750767,8026010,,
+3af28a94-8fcd-11eb-924d-9cd76263cbd0,species,paradoxus,Nudilus,,Raf.,,1833,,"Atlantic J. 1: 176 1833",,,,,,610595-1,wfo-0000817052,3683046,,

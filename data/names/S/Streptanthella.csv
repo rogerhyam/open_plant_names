@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae22fa0-8fd1-11eb-924d-9cd76263cbd0,genus,Streptanthella,,,Rydb.,,"Fl. Rocky Mts. 364, 1062. 1917.",,,,,,wfo-4000036841,3041930,
-ab9778aa-8fd1-11eb-924d-9cd76263cbd0,species,longirostris,Streptanthella,,"(S.Watson) Rydb.",,"Fl. Rocky Mts. 1062 1917",,,,a267f390-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001216519,3041931,
-abbc6c28-8fd1-11eb-924d-9cd76263cbd0,variety,derelicta,Streptanthella,longirostris,J.T.Howell,1937,"Leafl. W. Bot. 2(4): 57–58 1937",,,,,246434-2,wfo-0001216797,3041933,
-2c533e84-8fcd-11eb-924d-9cd76263cbd0,species,cuprea,Streptanthera,,Sweet,1830,"Hort. Brit. ed. 2: 501 1830",,,,,441425-1,wfo-0000785557,2745852,
-2d453e00-8fcd-11eb-924d-9cd76263cbd0,variety,non-picta,Streptanthera,cuprea,L.Bolus,1932,"S. African Gard. 22: 276 1932",,,,,,wfo-0000787658,2745853,
-2c51ecf0-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Streptanthera,,Sweet,1827,"Brit. Fl. Gard. 3: t. 209 1827",,,,,,wfo-0000785545,2745855,
-2c53577a-8fcd-11eb-924d-9cd76263cbd0,species,lineata,Streptanthera,,"(Sweet) Klatt",1882,"Abh. Naturf. Ges. Halle 15: 390 1882",,,,,441427-1,wfo-0000785558,2745835,
-2c50b43e-8fcd-11eb-924d-9cd76263cbd0,species,tricolor,Streptanthera,,"(Schneev.) Klatt",1882,"Abh. Naturf. Ges. Halle 15: 390 1882",,,,2bd1d646-8fcd-11eb-924d-9cd76263cbd0,441428-1,wfo-0000785534,2745845,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae22fa0-8fd1-11eb-924d-9cd76263cbd0,genus,Streptanthella,,,Rydb.,,,,"Fl. Rocky Mts. 364, 1062. 1917.",,,,,,,wfo-4000036841,3041930,,
+ab9778aa-8fd1-11eb-924d-9cd76263cbd0,species,longirostris,Streptanthella,,"(S.Watson) Rydb.",,,,"Fl. Rocky Mts. 1062 1917",,,,a267f390-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001216519,3041931,,
+abbc6c28-8fd1-11eb-924d-9cd76263cbd0,variety,derelicta,Streptanthella,longirostris,J.T.Howell,,1937,,"Leafl. W. Bot. 2(4): 57–58 1937",,,,,,246434-2,wfo-0001216797,3041933,,
+2c533e84-8fcd-11eb-924d-9cd76263cbd0,species,cuprea,Streptanthera,,Sweet,,1830,,"Hort. Brit. ed. 2: 501 1830",,,,,,441425-1,wfo-0000785557,2745852,,
+2d453e00-8fcd-11eb-924d-9cd76263cbd0,variety,non-picta,Streptanthera,cuprea,L.Bolus,,1932,,"S. African Gard. 22: 276 1932",,,,,,,wfo-0000787658,2745853,,
+2c51ecf0-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Streptanthera,,Sweet,,1827,,"Brit. Fl. Gard. 3: t. 209 1827",,,,,,,wfo-0000785545,2745855,,
+2c53577a-8fcd-11eb-924d-9cd76263cbd0,species,lineata,Streptanthera,,"(Sweet) Klatt",,1882,,"Abh. Naturf. Ges. Halle 15: 390 1882",,,,,,441427-1,wfo-0000785558,2745835,,
+2c50b43e-8fcd-11eb-924d-9cd76263cbd0,species,tricolor,Streptanthera,,"(Schneev.) Klatt",,1882,,"Abh. Naturf. Ges. Halle 15: 390 1882",,,,2bd1d646-8fcd-11eb-924d-9cd76263cbd0,,441428-1,wfo-0000785534,2745845,,

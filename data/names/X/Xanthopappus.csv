@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec1ef2f4-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthopappus,,,C.Winkl.,,,,,,,11563-1,wfo-4000040886,3091401,
-fde32cfa-8fb1-11eb-924d-9cd76263cbd0,species,multicephalus,Xanthopappus,,Ling,1935,"Contr. Inst. Bot. Natl. Acad. Peiping 3: 140 1935",,,,,260942-1,wfo-0000001003,3091404,
-1f656fb4-8fbc-11eb-924d-9cd76263cbd0,species,subacaulis,Xanthopappus,,C.Winkl.,1893,"Act. Hort. Petrop. xiii. (1893) 11. 1894",,,,,,wfo-0000139026,3091402,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec1ef2f4-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthopappus,,,C.Winkl.,,,,,,,,,,11563-1,wfo-4000040886,3091401,,
+fde32cfa-8fb1-11eb-924d-9cd76263cbd0,species,multicephalus,Xanthopappus,,Ling,,1935,,"Contr. Inst. Bot. Natl. Acad. Peiping 3: 140 1935",,,,,,260942-1,wfo-0000001003,3091404,,
+1f656fb4-8fbc-11eb-924d-9cd76263cbd0,species,subacaulis,Xanthopappus,,C.Winkl.,,1893,,"Act. Hort. Petrop. xiii. (1893) 11. 1894",,,,,,,wfo-0000139026,3091402,,

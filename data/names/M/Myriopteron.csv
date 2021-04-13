@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7029c08-8fd1-11eb-924d-9cd76263cbd0,genus,Myriopteron,,,Griff.,1844,"Calcutta J. Nat. Hist. 4: 385. 1844.",,,,,3521-1,wfo-4000025146,7312165,
-cb4028cc-8fcd-11eb-924d-9cd76263cbd0,species,extensum,Myriopteron,,"(Wight & Arn.) K.Schum.",1895,"Nat. Pflanzenfam. 4(2): 215 1895",,,,ca5e0fd2-8fcd-11eb-924d-9cd76263cbd0,99829-1,wfo-0001104823,3576300,
-30d1f21c-8fcc-11eb-924d-9cd76263cbd0,species,horsfieldii,Myriopteron,,Hook.f.,1883,"Fl. Brit. India 4: 11 1883",,,,,99830-1,wfo-0000368610,3576292,
-ca598e44-8fcd-11eb-924d-9cd76263cbd0,species,paniculatum,Myriopteron,,Griff.,1844,"Calcutta J. Nat. Hist. 4: 385 1844",,,,,99831-1,wfo-0001102775,3576283,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7029c08-8fd1-11eb-924d-9cd76263cbd0,genus,Myriopteron,,,Griff.,,1844,,"Calcutta J. Nat. Hist. 4: 385. 1844.",,,,,,3521-1,wfo-4000025146,7312165,,
+cb4028cc-8fcd-11eb-924d-9cd76263cbd0,species,extensum,Myriopteron,,"(Wight & Arn.) K.Schum.",,1895,,"Nat. Pflanzenfam. 4(2): 215 1895",,,,ca5e0fd2-8fcd-11eb-924d-9cd76263cbd0,,99829-1,wfo-0001104823,3576300,,
+30d1f21c-8fcc-11eb-924d-9cd76263cbd0,species,horsfieldii,Myriopteron,,Hook.f.,,1883,,"Fl. Brit. India 4: 11 1883",,,,,,99830-1,wfo-0000368610,3576292,,
+ca598e44-8fcd-11eb-924d-9cd76263cbd0,species,paniculatum,Myriopteron,,Griff.,,1844,,"Calcutta J. Nat. Hist. 4: 385 1844",,,,,,99831-1,wfo-0001102775,3576283,,

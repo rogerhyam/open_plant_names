@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e31a9852-8fd1-11eb-924d-9cd76263cbd0,genus,Duquetia,,,G.Don,1831,"Gen. Hist. 1: 97. 1831.",,,,,,wfo-4000012763,3648217,
-ba128d7a-8fd1-11eb-924d-9cd76263cbd0,species,antioquensis,Duquetia,,"León & Maas",,,,,,,,wfo-0001243057,7657588,
-b98a8a88-8fd1-11eb-924d-9cd76263cbd0,species,chrysea,Duquetia,,Maas,,,,,,,,wfo-0001242040,8037580,
-b8286ee4-8fd1-11eb-924d-9cd76263cbd0,species,glabra,Duquetia,,Britton,1889,"Bull. Torrey Bot. Club 16: 14 1889",,,,,,wfo-0001239519,7531234,
-b98aa540-8fd1-11eb-924d-9cd76263cbd0,species,paraensis,Duquetia,,R.E.Fr.,,,,,,,,wfo-0001242041,7971759,
-b98d1456-8fd1-11eb-924d-9cd76263cbd0,species,scottmorii,Duquetia,,Maas,,,,,,,,wfo-0001242059,8362188,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e31a9852-8fd1-11eb-924d-9cd76263cbd0,genus,Duquetia,,,G.Don,,1831,,"Gen. Hist. 1: 97. 1831.",,,,,,,wfo-4000012763,3648217,,
+ba128d7a-8fd1-11eb-924d-9cd76263cbd0,species,antioquensis,Duquetia,,"León & Maas",,,,,,,,,,,wfo-0001243057,7657588,,
+b98a8a88-8fd1-11eb-924d-9cd76263cbd0,species,chrysea,Duquetia,,Maas,,,,,,,,,,,wfo-0001242040,8037580,,
+b8286ee4-8fd1-11eb-924d-9cd76263cbd0,species,glabra,Duquetia,,Britton,,1889,,"Bull. Torrey Bot. Club 16: 14 1889",,,,,,,wfo-0001239519,7531234,,
+b98aa540-8fd1-11eb-924d-9cd76263cbd0,species,paraensis,Duquetia,,R.E.Fr.,,,,,,,,,,,wfo-0001242041,7971759,,
+b98d1456-8fd1-11eb-924d-9cd76263cbd0,species,scottmorii,Duquetia,,Maas,,,,,,,,,,,wfo-0001242059,8362188,,

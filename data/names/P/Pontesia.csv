@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8eb618a-8fd1-11eb-924d-9cd76263cbd0,genus,Pontesia,,,,,,,,,,,wfo-4000030907,3232205,
-cdacbdf2-8fb2-11eb-924d-9cd76263cbd0,species,errata,Pontesia,,Steud.,1841,"Nomencl. Bot., ed. 2 (Steudel) 2: 380, sphalm. 1841",,,,,239273-1,wfo-0000034892,5695979,
-4220c3d8-8fb6-11eb-924d-9cd76263cbd0,species,serrata,Pontesia,,Vell.,,"Fl. Flum. viii. t. 147.",,,,,239274-1,wfo-0000087467,5695975,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8eb618a-8fd1-11eb-924d-9cd76263cbd0,genus,Pontesia,,,,,,,,,,,,,,wfo-4000030907,3232205,,
+cdacbdf2-8fb2-11eb-924d-9cd76263cbd0,species,errata,Pontesia,,Steud.,,1841,,"Nomencl. Bot., ed. 2 (Steudel) 2: 380, sphalm. 1841",,,,,,239273-1,wfo-0000034892,5695979,,
+4220c3d8-8fb6-11eb-924d-9cd76263cbd0,species,serrata,Pontesia,,Vell.,,,,"Fl. Flum. viii. t. 147.",,,,,,239274-1,wfo-0000087467,5695975,,

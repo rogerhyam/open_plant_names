@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1a789d0-8fd1-11eb-924d-9cd76263cbd0,genus,Chordospartium,,,,,,,,,,,wfo-4000008076,2946173,
-6650a160-8fc5-11eb-924d-9cd76263cbd0,species,muritai,Chordospartium,,A.W.Purdie,,,,,,,,wfo-0000192857,2946175,
-0cb45a6c-8fc4-11eb-924d-9cd76263cbd0,species,stevensonii,Chordospartium,,Cheeseman,,,,,,,,wfo-0000186065,2946174,
-df62e232-8fcc-11eb-924d-9cd76263cbd0,species,galvestonensis,Choretis,,Herb.,1837,"Amaryllidaceae 221 1837",,,,,,wfo-0000642222,2860213,
-df6332d2-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Choretis,,Herb.,1837,"Amaryllidaceae 220 1837",,,,,,wfo-0000642225,2860219,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1a789d0-8fd1-11eb-924d-9cd76263cbd0,genus,Chordospartium,,,,,,,,,,,,,,wfo-4000008076,2946173,,
+6650a160-8fc5-11eb-924d-9cd76263cbd0,species,muritai,Chordospartium,,A.W.Purdie,,,,,,,,,,,wfo-0000192857,2946175,,
+0cb45a6c-8fc4-11eb-924d-9cd76263cbd0,species,stevensonii,Chordospartium,,Cheeseman,,,,,,,,,,,wfo-0000186065,2946174,,

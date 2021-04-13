@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7387b02-8fd1-11eb-924d-9cd76263cbd0,genus,Neoschroetera,,,Briq.,1926,"Candollea 2: 514. 1926.",,,,,,wfo-4000025838,7285839,
-38ae96e8-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Neoschroetera,,Briq.,1926,"Candollea 2: 514 1926",,,,,169087-2,wfo-0000381025,3987088,
-de5098ac-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Neoschroetera,,"(Cav.) Briq.",1926,"Candollea 2: 514 1926",,,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,169088-2,wfo-0001146333,3987070,
-c4713122-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Neoschroetera,,"(Engelm.) Briq.",,,,,,,,wfo-0001262244,3987057,
-c6770bfe-8fd1-11eb-924d-9cd76263cbd0,species,tridentata,Neoschroetera,,"(Sessé & Moc. ex DC.) Briq.",1926,"Candollea 2: 514 1926",,,,,169090-2,wfo-0001265921,3987036,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7387b02-8fd1-11eb-924d-9cd76263cbd0,genus,Neoschroetera,,,Briq.,,1926,,"Candollea 2: 514. 1926.",,,,,,,wfo-4000025838,7285839,,
+38ae96e8-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Neoschroetera,,Briq.,,1926,,"Candollea 2: 514 1926",,,,,,169087-2,wfo-0000381025,3987088,,
+de5098ac-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Neoschroetera,,"(Cav.) Briq.",,1926,,"Candollea 2: 514 1926",,,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,,169088-2,wfo-0001146333,3987070,,
+c4713122-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Neoschroetera,,"(Engelm.) Briq.",,,,,,,,,,,wfo-0001262244,3987057,,
+c6770bfe-8fd1-11eb-924d-9cd76263cbd0,species,tridentata,Neoschroetera,,"(Sessé & Moc. ex DC.) Briq.",,1926,,"Candollea 2: 514 1926",,,,,,169090-2,wfo-0001265921,3987036,,

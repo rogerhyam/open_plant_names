@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebebcf5a-8fd1-11eb-924d-9cd76263cbd0,genus,Vetrix,,,Raf.,1817,"Amer. Monthly Mag. & Crit. Rev. 1(6): 439. 1817.",,,,,,wfo-4000040212,7266568,
-7abea70c-8fcd-11eb-924d-9cd76263cbd0,species,forbiana,Vetrix,,Raf.,1838,"Alsogr. Amer. 13 1838",,,,,779271-1,wfo-0000930476,3805183,
-7abe8b32-8fcd-11eb-924d-9cd76263cbd0,species,helix,Vetrix,,Raf.,1838,"Alsogr. Amer. 13 1838",,,,,779272-1,wfo-0000930475,3805175,
-7abcf074-8fcd-11eb-924d-9cd76263cbd0,species,lambertiana,Vetrix,,Raf.,1838,"Alsogr. Amer. 13 1838",,,,,779273-1,wfo-0000930461,3805169,
-7abe6f62-8fcd-11eb-924d-9cd76263cbd0,species,linearifolia,Vetrix,,Raf.,1838,"Alsogr. Amer. 17 1838",,,,,779274-1,wfo-0000930474,3805159,
-7abd2d5a-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Vetrix,,Raf.,1838,"Alsogr. Amer. 13 1838",,,,,779275-1,wfo-0000930463,3805154,
-7abe5252-8fcd-11eb-924d-9cd76263cbd0,species,sicula,Vetrix,,Raf.,1838,"Alsogr. Amer. 13 1838",,,,,779276-1,wfo-0000930473,3805146,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebebcf5a-8fd1-11eb-924d-9cd76263cbd0,genus,Vetrix,,,Raf.,,1817,,"Amer. Monthly Mag. & Crit. Rev. 1(6): 439. 1817.",,,,,,,wfo-4000040212,7266568,,
+7abea70c-8fcd-11eb-924d-9cd76263cbd0,species,forbiana,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 13 1838",,,,,,779271-1,wfo-0000930476,3805183,,
+7abe8b32-8fcd-11eb-924d-9cd76263cbd0,species,helix,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 13 1838",,,,,,779272-1,wfo-0000930475,3805175,,
+7abcf074-8fcd-11eb-924d-9cd76263cbd0,species,lambertiana,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 13 1838",,,,,,779273-1,wfo-0000930461,3805169,,
+7abe6f62-8fcd-11eb-924d-9cd76263cbd0,species,linearifolia,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 17 1838",,,,,,779274-1,wfo-0000930474,3805159,,
+7abd2d5a-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 13 1838",,,,,,779275-1,wfo-0000930463,3805154,,
+7abe5252-8fcd-11eb-924d-9cd76263cbd0,species,sicula,Vetrix,,Raf.,,1838,,"Alsogr. Amer. 13 1838",,,,,,779276-1,wfo-0000930473,3805146,,

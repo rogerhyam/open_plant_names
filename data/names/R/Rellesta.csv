@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e98a1b54-8fd1-11eb-924d-9cd76263cbd0,genus,Rellesta,,,N.S.Turczaninow,1849,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 337. 1849.",,,,,,wfo-4000032735,7270232,
-4c06b02c-8fcc-11eb-924d-9cd76263cbd0,species,cyanea,Rellesta,,Turcz.,1849,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 337 1849",,,,,370474-1,wfo-0000405578,3842349,
-2c87f674-8fcd-11eb-924d-9cd76263cbd0,species,funebris,Remaclea,,C.Morren,1853,"Belgique Hort. 3: t. 1 1853",,,,,,wfo-0000785995,2749658,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e98a1b54-8fd1-11eb-924d-9cd76263cbd0,genus,Rellesta,,,N.S.Turczaninow,,1849,,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 337. 1849.",,,,,,,wfo-4000032735,7270232,,
+4c06b02c-8fcc-11eb-924d-9cd76263cbd0,species,cyanea,Rellesta,,Turcz.,,1849,,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 337 1849",,,,,,370474-1,wfo-0000405578,3842349,,
+2c87f674-8fcd-11eb-924d-9cd76263cbd0,species,funebris,Remaclea,,C.Morren,,1853,,"Belgique Hort. 3: t. 1 1853",,,,,,,wfo-0000785995,2749658,,

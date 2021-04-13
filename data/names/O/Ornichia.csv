@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a96876-8fd1-11eb-924d-9cd76263cbd0,genus,Ornichia,,,Klack.,1986,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 9(2): 196–198. 1986.",,,,,924982-1,wfo-4000027178,7270576,
-b8b9d126-8fcd-11eb-924d-9cd76263cbd0,species,lancifolia,Ornichia,,"(Baker) Klack.",1986,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8(2): 198 1986",,,,,943049-1,wfo-0001063512,3844736,
-b8ba4322-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Ornichia,,"(Baker) Klack.",1986,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 9(2): 202 1986",,,,,943051-1,wfo-0001063516,7270579,
-b8ba7ef0-8fcd-11eb-924d-9cd76263cbd0,subspecies,pubescens,Ornichia,madagascariensis,"(Baker) Klack.",1986,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 9(2): 205 1986",,,,,952727-1,wfo-0001063518,3844720,
-b8b9eda0-8fcd-11eb-924d-9cd76263cbd0,species,trinervis,Ornichia,,"(Desr.) Klack.",1986,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8(2): 200, t. 3; 5, B 1986",,,,b8ba095c-8fcd-11eb-924d-9cd76263cbd0,943050-1,wfo-0001063513,3844708,
-ed936648-8fcb-11eb-924d-9cd76263cbd0,species,striatulum,Ornitharium,,"Lindl. & Paxton",1851,"Paxton's Fl. Gard. 1: 188 1851",,,,,,wfo-0000260801,2850526,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a96876-8fd1-11eb-924d-9cd76263cbd0,genus,Ornichia,,,Klack.,,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 9(2): 196–198. 1986.",,,,,,924982-1,wfo-4000027178,7270576,,
+b8b9d126-8fcd-11eb-924d-9cd76263cbd0,species,lancifolia,Ornichia,,"(Baker) Klack.",,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8(2): 198 1986",,,,,,943049-1,wfo-0001063512,3844736,,
+b8ba4322-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Ornichia,,"(Baker) Klack.",,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 9(2): 202 1986",,,,,,943051-1,wfo-0001063516,7270579,,
+b8ba7ef0-8fcd-11eb-924d-9cd76263cbd0,subspecies,pubescens,Ornichia,madagascariensis,"(Baker) Klack.",,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 9(2): 205 1986",,,,,,952727-1,wfo-0001063518,3844720,,
+b8b9eda0-8fcd-11eb-924d-9cd76263cbd0,species,trinervis,Ornichia,,"(Desr.) Klack.",,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8(2): 200, t. 3; 5, B 1986",,,,b8ba095c-8fcd-11eb-924d-9cd76263cbd0,,943050-1,wfo-0001063513,3844708,,
+ed936648-8fcb-11eb-924d-9cd76263cbd0,species,striatulum,Ornitharium,,"Lindl. & Paxton",,1851,,"Paxton's Fl. Gard. 1: 188 1851",,,,,,,wfo-0000260801,2850526,,

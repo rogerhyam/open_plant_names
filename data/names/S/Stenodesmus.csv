@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eac2a162-8fd1-11eb-924d-9cd76263cbd0,genus,Stenodesmus,,,"(Mitt.) A.Jaeger",1875,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1875–76: 358 [Gen, Sp. Musc. 2. 1877.",,,,,,wfo-4000036494,2669433,
-f36e5aa8-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Stenodesmus,,"E.B.Bartram & Herzog",1934,"Hedwigia 74: 110. 12 1934",,,,,,wfo-0001190603,8318685,
-f36e7aec-8fcd-11eb-924d-9cd76263cbd0,species,tenuicuspis,Stenodesmus,,"(Mitt.) A.Jaeger",1875,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1875–76: 358 (Gen. Sp. Musc. 2: 262) 1877",,,,f0282c52-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001190604,5279918,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eac2a162-8fd1-11eb-924d-9cd76263cbd0,genus,Stenodesmus,,,"(Mitt.) A.Jaeger",,1875,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1875–76: 358 [Gen, Sp. Musc. 2. 1877.",,,,,,,wfo-4000036494,2669433,,
+f36e5aa8-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Stenodesmus,,"E.B.Bartram & Herzog",,1934,,"Hedwigia 74: 110. 12 1934",,,,,,,wfo-0001190603,8318685,,
+f36e7aec-8fcd-11eb-924d-9cd76263cbd0,species,tenuicuspis,Stenodesmus,,"(Mitt.) A.Jaeger",,1875,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1875–76: 358 (Gen. Sp. Musc. 2: 262) 1877",,,,f0282c52-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001190604,5279918,,

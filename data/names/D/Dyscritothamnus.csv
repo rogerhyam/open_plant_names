@@ -1,13 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e31f5c02-8fd1-11eb-924d-9cd76263cbd0,genus,Dyscritothamnus,,,B.L.Rob.,,,,,,,297182-2,wfo-4000012824,3149851,
-c1069e10-8fb2-11eb-924d-9cd76263cbd0,species,filifolius,Dyscritothamnus,,B.L.Rob.,1922,"Contr. Gray Herb. 65 26 1922",,,,,86421-2,wfo-0000033620,3149852,
-a25c2e50-8fb5-11eb-924d-9cd76263cbd0,species,matudae,Dyscritothamnus,,Paray,,,,,,,,wfo-0000080365,8048782,
-21a68148-8fb5-11eb-924d-9cd76263cbd0,species,mirandae,Dyscritothamnus,,Paray,1954,1954,,,,,,wfo-0000074266,3149853,
-41e9b9da-8fcd-11eb-924d-9cd76263cbd0,species,californicum,Dysmicodon,,Nutt.,1843,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,142455-1,wfo-0000831944,3167008,
-41e9f67a-8fcd-11eb-924d-9cd76263cbd0,species,ovatum,Dysmicodon,,Nutt.,1843,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,142456-1,wfo-0000831946,3167015,
-41ea1402-8fcd-11eb-924d-9cd76263cbd0,species,perfoliatum,Dysmicodon,,"(L.) Nutt.",1843,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,142457-1,wfo-0000831947,3167004,
-822ec3f0-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Dysoda,,Lour.,1790,"Fl. Cochinch. 146 1790",,,,,748691-1,wfo-0000947171,2900448,
-822efde8-8fcd-11eb-924d-9cd76263cbd0,species,foetida,Dysoda,,"(L.f.) Salisb.",1796,"Prodr. Stirp. Chap. Allerton 60 1796",,,,dce1fee4-8fcc-11eb-924d-9cd76263cbd0,748692-1,wfo-0000947173,2900444,
-822f1940-8fcd-11eb-924d-9cd76263cbd0,species,ceylanicum,Dysodidendron,,Gardner,1847,"Calcutta J. Nat. Hist. 7: 2 1847",,,,,748693-1,wfo-0000947174,2917694,
-822f34de-8fcd-11eb-924d-9cd76263cbd0,species,glomeratum,Dysodidendron,,Gardner,1847,"Calcutta J. Nat. Hist. 7: 3 1847",,,,,748694-1,wfo-0000947175,2917704,
-822f5004-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Dysodidendron,,Gardner,1847,"Calcutta J. Nat. Hist. 7: 3 1847",,,,,748695-1,wfo-0000947176,2917686,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e31f5c02-8fd1-11eb-924d-9cd76263cbd0,genus,Dyscritothamnus,,,B.L.Rob.,,,,,,Q94388896,,,,297182-2,wfo-4000012824,3149851,,
+c1069e10-8fb2-11eb-924d-9cd76263cbd0,species,filifolius,Dyscritothamnus,,B.L.Rob.,,1922,,"Contr. Gray Herb. 65 26 1922",,Q94388896,,,,86421-2,wfo-0000033620,3149852,,
+a25c2e50-8fb5-11eb-924d-9cd76263cbd0,species,matudae,Dyscritothamnus,,Paray,,,,,,,,,,,wfo-0000080365,8048782,,
+21a68148-8fb5-11eb-924d-9cd76263cbd0,species,mirandae,Dyscritothamnus,,Paray,,1954,,1954,,,,,,,wfo-0000074266,3149853,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7a4ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Soaresia,,,Sch.Bip.,,,,,,,331968-2,wfo-4000035644,3103329,
-8cde83e0-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolia,Soaresia,,"Glaz. ex Benth. & Hook.f.",1880,"Gen. Pl. 3: 377 1880",,,,,584600-1,wfo-0000505895,,
-c20d3e66-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Soaresia,,Allemão,1857,"Revista Brasil. Bot. 1: 210, t. 1857 1858",,,,,856541-1,wfo-0001084730,5570095,
-1418f99a-8fb3-11eb-924d-9cd76263cbd0,species,velutina,Soaresia,,Sch.Bip.,1863,"in Pollichia xx-xxi. 377 1863",,,,,249362-1,wfo-0000041097,5390899,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7a4ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Soaresia,,,Sch.Bip.,,,,,,,,,,331968-2,wfo-4000035644,3103329,,
+8cde83e0-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolia,Soaresia,,"Glaz. ex Benth. & Hook.f.",,1880,,"Gen. Pl. 3: 377 1880",,,,,,584600-1,wfo-0000505895,,,
+c20d3e66-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Soaresia,,Allemão,,1857,,"Revista Brasil. Bot. 1: 210, t. 1857 1858",,,,,,856541-1,wfo-0001084730,5570095,,
+1418f99a-8fb3-11eb-924d-9cd76263cbd0,species,velutina,Soaresia,,Sch.Bip.,,1863,,"in Pollichia xx-xxi. 377 1863",,,,,,249362-1,wfo-0000041097,5390899,,

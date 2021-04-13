@@ -1,14 +1,23 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e19f083c-8fd1-11eb-924d-9cd76263cbd0,genus,Chitonia,,,,,,,,,,,wfo-4000007951,7285823,
-c89b5002-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Chitonia,,"(Rose & Painter) Engl.",1931,"Nat. Pflanzenfam. ed. 2 19a: 155 1931",,,,c1c7edd0-8fd1-11eb-924d-9cd76263cbd0,56694-2,wfo-0000602994,5635141,
-aea48064-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Chitonia,,"(Sw.) D.Don & G.Don",1830,"Hort. Brit. 174 1830",,,,,941466-1,wfo-0001040648,7566559,
-c0480fde-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Chitonia,,D.Don,1823,"Mem. Wern. Nat. Hist. Soc. 4: 319 1823",,,,,56695-2,wfo-0001080772,5601182,
-c0490998-8fcd-11eb-924d-9cd76263cbd0,species,bubalina,Chitonia,,D.Don,1823,"Mem. Wern. Nat. Hist. Soc. 4(2): 319 1823",,,,,567397-1,wfo-0001080781,5601180,
-c04c722c-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Chitonia,,D.Don,1823,"Mem. Wern. Nat. Hist. Soc. 4: 317 1823",,,,,,wfo-0001080812,5601179,
-c228dec4-8fd1-11eb-924d-9cd76263cbd0,species,fothergilla,Chitonia,,D.Don,1823,"Mem. Wern. Nat. Hist. Soc. 4: 318–319 1823",,,,,567399-1,wfo-0001258169,5601178,
-c0569716-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Chitonia,,"Pav. ex D.Don",1823,"Mem. Wern. Nat. Hist. Soc. 4: 319 1823",,,,,567400-1,wfo-0001080897,5601176,
-c89b8702-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Chitonia,,"Moc. & Sessé ex DC.",1824,"Prodr. 1: 707 1824",,,,,,wfo-0000602995,8086021,
-4cadfe34-8fbf-11eb-924d-9cd76263cbd0,species,pyramidalis,Chitonia,,G.Don,1830,"Hort. Brit. [Loudon] 174 1830",,,,,567401-1,wfo-0000159140,5601174,
-4cb9a1bc-8fbf-11eb-924d-9cd76263cbd0,species,rubiginosa,Chitonia,,Steud.,1840,"Nomencl. Bot.  [Steudel], ed. 2. 1: 352 1840",,,,,567402-1,wfo-0000159141,5601172,
-4cc492fc-8fbf-11eb-924d-9cd76263cbd0,species,tamonia,Chitonia,,G.Don,1830,"Hort. Brit. [Loudon] 174 1830",,,,,567403-1,wfo-0000159142,5601170,
-48ac4922-8fcd-11eb-924d-9cd76263cbd0,species,papuanus,Chitonochilus,,Schltr.,1905,"Fl. Schutzgeb. Südsee Nachtr.: 134 1905",,,,,622856-1,wfo-0000846522,2802868,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e19f083c-8fd1-11eb-924d-9cd76263cbd0,genus,Chitonia,,,"(Fr.) P. Karst.",,1879,,"Bidr. Känn. Finl. Nat. Folk 32: xxv, 482 (1879)",,,,,,,wfo-4000007951,7285823,17285," "
+c89b5002-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Chitonia,,"(Rose & Painter) Engl.",,1931,,"Nat. Pflanzenfam. ed. 2 19a: 155 1931",,,,c1c7edd0-8fd1-11eb-924d-9cd76263cbd0,,56694-2,wfo-0000602994,5635141,,
+aea48064-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Chitonia,,"(Sw.) D.Don & G.Don",,1830,,"Hort. Brit. 174 1830",,,,,,941466-1,wfo-0001040648,7566559,,
+c0480fde-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Chitonia,,D.Don,,1823,,"Mem. Wern. Nat. Hist. Soc. 4: 319 1823",,,,,,56695-2,wfo-0001080772,5601182,,
+c0490998-8fcd-11eb-924d-9cd76263cbd0,species,bubalina,Chitonia,,D.Don,,1823,,"Mem. Wern. Nat. Hist. Soc. 4(2): 319 1823",,,,,,567397-1,wfo-0001080781,5601180,,
+c04c722c-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Chitonia,,D.Don,,1823,,"Mem. Wern. Nat. Hist. Soc. 4: 317 1823",,,,,,,wfo-0001080812,5601179,,
+4d6776a4-9bac-11eb-a8a2-19ed5c03f8d3,species,cellaris,Chitonia,,Boud.,,1908,,"Icon. Mycol. (Paris) 1: pl. 131 (1908)",,,,4d6776a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,225653," "
+4d2dab68-9bac-11eb-a8a2-19ed5c03f8d3,species,coprinus,Chitonia,,Fr.,,,,,,,,4d2dab68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,225154," "
+c228dec4-8fd1-11eb-924d-9cd76263cbd0,species,fothergilla,Chitonia,,D.Don,,1823,,"Mem. Wern. Nat. Hist. Soc. 4: 318–319 1823",,,,,,567399-1,wfo-0001258169,5601178,,
+4d49f8ea-9bac-11eb-a8a2-19ed5c03f8d3,species,gennadii,Chitonia,,"Chatin & Boud.",,1898,,"J. Bot., Paris 12: 66 (1898)",,,,4d49f8ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,225368," "
+c0569716-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Chitonia,,"Pav. ex D.Don",,1823,,"Mem. Wern. Nat. Hist. Soc. 4: 319 1823",,,,,,567400-1,wfo-0001080897,5601176,,
+c89b8702-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Chitonia,,"Moc. & Sessé ex DC.",,1824,,"Prodr. 1: 707 1824",,,,,,,wfo-0000602995,8086021,,
+5c96a5cc-9bad-11eb-a8a2-19ed5c03f8d3,species,pecquinii,Chitonia,,Boud.,,,,,,,,5c96a5cc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,456965," "
+b7da767a-9bad-11eb-a8a2-19ed5c03f8d3,species,pedilia,Chitonia,,"Berk. & Broome",,,,,,,,b7da767a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,225602," "
+46b6ae92-9bac-11eb-a8a2-19ed5c03f8d3,species,pequinii,Chitonia,,Boud.,,1901,,"Bull. Soc. mycol. Fr. 17: 26 (1901)",,,,46b6ae92-9bac-11eb-a8a2-19ed5c03f8d3,,,,,198357," "
+74e7c05e-9bab-11eb-a8a2-19ed5c03f8d3,species,pervolvata,Chitonia,,Boud.,,1917,,"Bull. Soc. mycol. Fr. 33: 9 (1917)",,,,74e7c05e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,198515," "
+8ed847a8-9bac-11eb-a8a2-19ed5c03f8d3,species,plana,Chitonia,,Clem.,,,,,,,,8ed847a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,198189," "
+52c3956a-9bac-11eb-a8a2-19ed5c03f8d3,species,poderes,Chitonia,,"Berk. & Broome",,,,,,,,52c3956a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,198425," "
+4cadfe34-8fbf-11eb-924d-9cd76263cbd0,species,pyramidalis,Chitonia,,G.Don,,1830,,"Hort. Brit. [Loudon] 174 1830",,,,,,567401-1,wfo-0000159140,5601174,,
+4cb9a1bc-8fbf-11eb-924d-9cd76263cbd0,species,rubiginosa,Chitonia,,Steud.,,1840,,"Nomencl. Bot.  [Steudel], ed. 2. 1: 352 1840",,,,,,567402-1,wfo-0000159141,5601172,,
+8ee6d796-9bac-11eb-a8a2-19ed5c03f8d3,species,rubriceps,Chitonia,,"(Cooke & Massee) Sacc.",,1887,,"Syll. fung. (Abellini) 5: 992 (1887)",,,,aba84ada-9bad-11eb-a8a2-19ed5c03f8d3,,,,,198326," "
+4cc492fc-8fbf-11eb-924d-9cd76263cbd0,species,tamonia,Chitonia,,G.Don,,1830,,"Hort. Brit. [Loudon] 174 1830",,,,,,567403-1,wfo-0000159142,5601170,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2831f90-8fd1-11eb-924d-9cd76263cbd0,genus,Dauresia,,,"B.Nord. & Pelser",,,,,,,77068548-1,wfo-4000010861,3130704,
-3803a204-8fba-11eb-924d-9cd76263cbd0,species,alliariifolia,Dauresia,,"(O.Hoffm.) B.Nord. & Pelser",2005,"Compositae Newslett. 42 76 2005",,,,,77068549-1,wfo-0000124858,5399557,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2831f90-8fd1-11eb-924d-9cd76263cbd0,genus,Dauresia,,,"B.Nord. & Pelser",,,,,,,,,,77068548-1,wfo-4000010861,3130704,,
+3803a204-8fba-11eb-924d-9cd76263cbd0,species,alliariifolia,Dauresia,,"(O.Hoffm.) B.Nord. & Pelser",,2005,,"Compositae Newslett. 42 76 2005",,,,,,77068549-1,wfo-0000124858,5399557,,

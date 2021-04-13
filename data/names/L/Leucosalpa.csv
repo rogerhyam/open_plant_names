@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5e16228-8fd1-11eb-924d-9cd76263cbd0,genus,Leucosalpa,,,"Scott Elliot",1891,"J. Linn. Soc., Bot. 29: 35. 1891.",,,,,37771-1,wfo-4000021593,7332293,
-da9aea0a-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Leucosalpa,,Humbert,1943,"Boissiera 7: 289–90 1943",,,,,804275-1,wfo-0001138529,3737601,
-da9ab508-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Leucosalpa,,Scott-Elliot,1893,"J. Linn. Soc., Bot. 29: 36, P. VIII 1893",,,,,,wfo-0001138527,3731115,
-da9b2538-8fcd-11eb-924d-9cd76263cbd0,species,perrieri,Leucosalpa,,Bonati,1926,"Bull. Soc. Bot. Genève 18: 21–23, f. IV 1926",,,,,804278-1,wfo-0001138531,3731110,
-da9b0652-8fcd-11eb-924d-9cd76263cbd0,species,poissonii,Leucosalpa,,"Bonati ex Humbert",1943,"Boissiera 7: 290 1943",,,,,804279-1,wfo-0001138530,7744314,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5e16228-8fd1-11eb-924d-9cd76263cbd0,genus,Leucosalpa,,,"Scott Elliot",,1891,,"J. Linn. Soc., Bot. 29: 35. 1891.",,Q55760354,,,,37771-1,wfo-4000021593,7332293,,
+da9aea0a-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Leucosalpa,,Humbert,,1943,,"Boissiera 7: 289–90 1943",,,,,,804275-1,wfo-0001138529,3737601,,
+da9ab508-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Leucosalpa,,Scott-Elliot,,1893,,"J. Linn. Soc., Bot. 29: 36, P. VIII 1893",,,,,,,wfo-0001138527,3731115,,
+da9b2538-8fcd-11eb-924d-9cd76263cbd0,species,perrieri,Leucosalpa,,Bonati,,1926,,"Bull. Soc. Bot. Genève 18: 21–23, f. IV 1926",,,,,,804278-1,wfo-0001138531,3731110,,
+da9b0652-8fcd-11eb-924d-9cd76263cbd0,species,poissonii,Leucosalpa,,"Bonati ex Humbert",,1943,,"Boissiera 7: 290 1943",,,,,,804279-1,wfo-0001138530,7744314,,

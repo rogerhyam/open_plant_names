@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2f4e2ba-8fd1-11eb-924d-9cd76263cbd0,genus,Diurospermum,,,Edgew.,1847,"Proc. Linn. Soc. Lond. 1: 351. 1847.",,,,,,wfo-4000012300,7297852,
-e58296e4-8fcc-11eb-924d-9cd76263cbd0,species,album,Diurospermum,,Edgew.,1847,"Proc. Linn. Soc. London 1: 351 1847",,,,,526332-1,wfo-0000652712,4087477,
-74b95884-8fcd-11eb-924d-9cd76263cbd0,species,alpinum,Diversiarum,,"(C.Y.Wu ex H.Li, Y.Shiao & S.L.Tseng) J.Murata & Ohi-Toma",2011,"Syst. Bot. 36: 254 2011",,,,18793bbc-8fcc-11eb-924d-9cd76263cbd0,77113223-1,wfo-0000920301,6310107,
-74fdd068-8fcd-11eb-924d-9cd76263cbd0,species,diversifolium,Diversiarum,,"(Wall. ex Schott) J.Murata & Ohi-Toma",2011,"Syst. Bot. 36: 254 2011",,,,187db8f4-8fcc-11eb-924d-9cd76263cbd0,77113222-1,wfo-0000920722,6310108,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2f4e2ba-8fd1-11eb-924d-9cd76263cbd0,genus,Diurospermum,,,Edgew.,,1847,,"Proc. Linn. Soc. Lond. 1: 351. 1847.",,,,,,,wfo-4000012300,7297852,,
+e58296e4-8fcc-11eb-924d-9cd76263cbd0,species,album,Diurospermum,,Edgew.,,1847,,"Proc. Linn. Soc. London 1: 351 1847",,,,,,526332-1,wfo-0000652712,4087477,,
+74b95884-8fcd-11eb-924d-9cd76263cbd0,species,alpinum,Diversiarum,,"(C.Y.Wu ex H.Li, Y.Shiao & S.L.Tseng) J.Murata & Ohi-Toma",,2011,,"Syst. Bot. 36: 254 2011",,Q55764020,,18793bbc-8fcc-11eb-924d-9cd76263cbd0,,77113223-1,wfo-0000920301,6310107,,
+74fdd068-8fcd-11eb-924d-9cd76263cbd0,species,diversifolium,Diversiarum,,"(Wall. ex Schott) J.Murata & Ohi-Toma",,2011,,"Syst. Bot. 36: 254 2011",,Q55764020,,187db8f4-8fcc-11eb-924d-9cd76263cbd0,,77113222-1,wfo-0000920722,6310108,,

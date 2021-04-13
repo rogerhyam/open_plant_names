@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1e29c00-8fd1-11eb-924d-9cd76263cbd0,genus,Codonorchis,,,Lindl.,1840,"Gen. Sp. Orchid. Pl. 410. 1840.",,,,,29077-1,wfo-4000008800,2791849,
-69d1c74e-8fcd-11eb-924d-9cd76263cbd0,species,canisioi,Codonorchis,,Mansf.,1936,"Repert. Spec. Nov. Regni Veg. 39: 153 1936",,,,,62684-2,wfo-0000905555,5307865,
-69d35500-8fcd-11eb-924d-9cd76263cbd0,species,lessonii,Codonorchis,,"(d'Urv.) Lindl.",1840,"Gen. Sp. Orchid. Pl. 411 1840",,,,846c8b48-8fcd-11eb-924d-9cd76263cbd0,623700-1,wfo-0000905566,5307866,
-69d54518-8fcd-11eb-924d-9cd76263cbd0,species,poeppigii,Codonorchis,,Lindl.,1840,"Gen. Sp. Orchid. Pl. 410 1840",,,,,623701-1,wfo-0000905577,5307867,
-69d6be20-8fcd-11eb-924d-9cd76263cbd0,species,skottsbergii,Codonorchis,,Kraenzl.,1910,"Bot. Jahrb. Syst. 44(101): 4 1910",,,,,62686-2,wfo-0000905588,5307871,
-69d8b0fe-8fcd-11eb-924d-9cd76263cbd0,species,tetraphylla,Codonorchis,,"(Poepp. & Endl.) L.O.Williams",1938,"Lilloa 3: 475 1938",,,,f95b0e40-8fcb-11eb-924d-9cd76263cbd0,62687-2,wfo-0000905600,5307869,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1e29c00-8fd1-11eb-924d-9cd76263cbd0,genus,Codonorchis,,,Lindl.,,1840,,"Gen. Sp. Orchid. Pl. 410. 1840.",,,,,,29077-1,wfo-4000008800,2791849,,
+69d1c74e-8fcd-11eb-924d-9cd76263cbd0,species,canisioi,Codonorchis,,Mansf.,,1936,,"Repert. Spec. Nov. Regni Veg. 39: 153 1936",,Q55808548,,,,62684-2,wfo-0000905555,5307865,,
+69d35500-8fcd-11eb-924d-9cd76263cbd0,species,lessonii,Codonorchis,,"(d'Urv.) Lindl.",,1840,,"Gen. Sp. Orchid. Pl. 411 1840",,,,846c8b48-8fcd-11eb-924d-9cd76263cbd0,,623700-1,wfo-0000905566,5307866,,
+69d54518-8fcd-11eb-924d-9cd76263cbd0,species,poeppigii,Codonorchis,,Lindl.,,1840,,"Gen. Sp. Orchid. Pl. 410 1840",,,,,,623701-1,wfo-0000905577,5307867,,
+69d6be20-8fcd-11eb-924d-9cd76263cbd0,species,skottsbergii,Codonorchis,,Kraenzl.,,1910,,"Bot. Jahrb. Syst. 44(101): 4 1910",,,,,,62686-2,wfo-0000905588,5307871,,
+69d8b0fe-8fcd-11eb-924d-9cd76263cbd0,species,tetraphylla,Codonorchis,,"(Poepp. & Endl.) L.O.Williams",,1938,,"Lilloa 3: 475 1938",,,,f95b0e40-8fcb-11eb-924d-9cd76263cbd0,,62687-2,wfo-0000905600,5307869,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89e93aa-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiochilidium,,,Herzog,1931,"Mitt. Inst. Allg. Bot. Hamburg 7: 186. 1931.",,,,,,wfo-4000029981,2688962,
-fb1a258e-8fcd-11eb-924d-9cd76263cbd0,species,bidentulum,Plagiochilidium,,"(Stephani) Grolle",1988,"J. Hattori Bot. Lab. 65: 408 1988",,,,fbf3f87c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001206255,2688963,
-fd34f70e-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Plagiochilidium,,Herzog,1931,"Mitt. Inst. Allg. Bot. Hamburg 7: 186. f. 1 1931",,,,,,wfo-0001210895,8274956,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89e93aa-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiochilidium,,,Herzog,,1931,,"Mitt. Inst. Allg. Bot. Hamburg 7: 186. 1931.",,,,,,,wfo-4000029981,2688962,,
+fb1a258e-8fcd-11eb-924d-9cd76263cbd0,species,bidentulum,Plagiochilidium,,"(Stephani) Grolle",,1988,,"J. Hattori Bot. Lab. 65: 408 1988",,,,fbf3f87c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001206255,2688963,,
+fd34f70e-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Plagiochilidium,,Herzog,,1931,,"Mitt. Inst. Allg. Bot. Hamburg 7: 186. f. 1 1931",,,,,,,wfo-0001210895,8274956,,

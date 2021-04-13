@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e189d8a4-8fd1-11eb-924d-9cd76263cbd0,genus,Chasallia,,,,,,,,,,,wfo-4000007709,8260060,
-d7bb8a38-8fcd-11eb-924d-9cd76263cbd0,species,articularis,Chasallia,,R.Br.,,,,,,,,wfo-0001132273,7436453,
-d7bba3ce-8fcd-11eb-924d-9cd76263cbd0,species,discolor,Chasallia,,K.Schum.,,,,,,,,wfo-0001132274,7938496,
-d7bb6e22-8fcd-11eb-924d-9cd76263cbd0,species,ophioxyloides,Chasallia,,W.G.Craib,,,,,,,,wfo-0001132272,8071204,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e189d8a4-8fd1-11eb-924d-9cd76263cbd0,genus,Chasallia,,,,,,,,,,,,,,wfo-4000007709,8260060,,
+d7bb8a38-8fcd-11eb-924d-9cd76263cbd0,species,articularis,Chasallia,,R.Br.,,,,,,,,,,,wfo-0001132273,7436453,,
+d7bba3ce-8fcd-11eb-924d-9cd76263cbd0,species,discolor,Chasallia,,K.Schum.,,,,,,,,,,,wfo-0001132274,7938496,,
+d7bb6e22-8fcd-11eb-924d-9cd76263cbd0,species,ophioxyloides,Chasallia,,W.G.Craib,,,,,,,,,,,wfo-0001132272,8071204,,

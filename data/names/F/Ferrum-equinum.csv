@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3b480a2-8fd1-11eb-924d-9cd76263cbd0,genus,Ferrum-equinum,,,,,,,,,,,wfo-4000014696,7301749,
-f8e2bc32-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Ferrum-equinum,,Moench,1794,"Methodus 119 1794",,,,,494805-1,wfo-0000686422,3967614,
-f8e2d8ca-8fcc-11eb-924d-9cd76263cbd0,species,multisiliquosum,Ferrum-equinum,,"(L.) Medik.",1787,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 371 1787",,,,,494806-1,wfo-0000686423,3967609,
-f8e2f4c2-8fcc-11eb-924d-9cd76263cbd0,species,uniflorum,Ferrum-equinum,,Moench,1794,"Methodus 119 1794",,,,,494807-1,wfo-0000686424,3967606,
-f8e3110a-8fcc-11eb-924d-9cd76263cbd0,species,unisiliquosum,Ferrum-equinum,,"(L.) Medik.",1787,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 371 1787",,,,,494808-1,wfo-0000686425,3967600,
-8b1ce9ba-8fcd-11eb-924d-9cd76263cbd0,species,brastagiensis,Ferruminaria,,"(Carr) Garay, Hamer & Siegerist",1994,"Nordic J. Bot. 14: 635 1994",,,,,981120-1,wfo-0000967065,2845056,
-8b1d0f4e-8fcd-11eb-924d-9cd76263cbd0,species,lohokii,Ferruminaria,,"(J.J.Verm. & A.L.Lamb) Garay & G.A.Romero",1999,"Harvard Pap. Bot. 4: 481 1999",,,,9fc22dd6-8fcc-11eb-924d-9cd76263cbd0,1012853-1,wfo-0000967066,2846346,
-8b1d3604-8fcd-11eb-924d-9cd76263cbd0,species,melinantha,Ferruminaria,,"(Schltr.) Garay, Hamer & Siegerist",1994,"Nordic J. Bot. 14: 635 1994",,,,,981121-1,wfo-0000967067,2843912,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3b480a2-8fd1-11eb-924d-9cd76263cbd0,genus,Ferrum-equinum,,,,,,,,,,,,,,wfo-4000014696,7301749,,
+f8e2bc32-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Ferrum-equinum,,Moench,,1794,,"Methodus 119 1794",,,,,,494805-1,wfo-0000686422,3967614,,
+f8e2d8ca-8fcc-11eb-924d-9cd76263cbd0,species,multisiliquosum,Ferrum-equinum,,"(L.) Medik.",,1787,,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 371 1787",,,,,,494806-1,wfo-0000686423,3967609,,
+f8e2f4c2-8fcc-11eb-924d-9cd76263cbd0,species,uniflorum,Ferrum-equinum,,Moench,,1794,,"Methodus 119 1794",,,,,,494807-1,wfo-0000686424,3967606,,
+f8e3110a-8fcc-11eb-924d-9cd76263cbd0,species,unisiliquosum,Ferrum-equinum,,"(L.) Medik.",,1787,,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 371 1787",,,,,,494808-1,wfo-0000686425,3967600,,
+8b1ce9ba-8fcd-11eb-924d-9cd76263cbd0,species,brastagiensis,Ferruminaria,,"(Carr) Garay, Hamer & Siegerist",,1994,,"Nordic J. Bot. 14: 635 1994",,Q55761614,,,,981120-1,wfo-0000967065,2845056,,
+8b1d0f4e-8fcd-11eb-924d-9cd76263cbd0,species,lohokii,Ferruminaria,,"(J.J.Verm. & A.L.Lamb) Garay & G.A.Romero",,1999,,"Harvard Pap. Bot. 4: 481 1999",,Q95389005,,9fc22dd6-8fcc-11eb-924d-9cd76263cbd0,,1012853-1,wfo-0000967066,2846346,,
+8b1d3604-8fcd-11eb-924d-9cd76263cbd0,species,melinantha,Ferruminaria,,"(Schltr.) Garay, Hamer & Siegerist",,1994,,"Nordic J. Bot. 14: 635 1994",,Q55761614,,,,981121-1,wfo-0000967067,2843912,,

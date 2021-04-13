@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d527aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cliococca,,,Bab.,1841,"Proc. Linn. Soc. Lond. 1: 90. 1841.",,,,,,wfo-4000008635,7293138,
-cdc0cc2e-8fcc-11eb-924d-9cd76263cbd0,species,selaginoides,Cliococca,,"(Lam.) C.M.Rogers & Mildner",1971,"Rhodora 73: 563 1971",,,,bcfbba38-8fcd-11eb-924d-9cd76263cbd0,61219-2,wfo-0000611901,4048353,
-cdc0ebb4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Cliococca,,Bab.,1845,"Trans. Linn. Soc. London 19: 33 1845",,,,,,wfo-0000611902,4048344,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d527aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cliococca,,,Bab.,,1841,,"Proc. Linn. Soc. Lond. 1: 90. 1841.",,,,,,,wfo-4000008635,7293138,,
+cdc0cc2e-8fcc-11eb-924d-9cd76263cbd0,species,selaginoides,Cliococca,,"(Lam.) C.M.Rogers & Mildner",,1971,,"Rhodora 73: 563 1971",,Q100412230,,bcfbba38-8fcd-11eb-924d-9cd76263cbd0,,61219-2,wfo-0000611901,4048353,,
+cdc0ebb4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Cliococca,,Bab.,,1845,,"Trans. Linn. Soc. London 19: 33 1845",,,,,,,wfo-0000611902,4048344,,

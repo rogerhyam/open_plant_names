@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36528d6-8fd1-11eb-924d-9cd76263cbd0,genus,Eremoblastus,,,Botch.,1980,"Bot. Žurn. (Kiev) 65: 425. 1980.",,,,,12564-1,wfo-4000013700,10753073,
-f01e6d6c-8fcc-11eb-924d-9cd76263cbd0,species,caspicus,Eremoblastus,,Botch.,1980,"Bot. Zhurn. (Moscow & Leningrad) 65: 425 1980",,,,,,wfo-0000670757,8398829,
-f01e8900-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Eremocallis,,Gray,1821,"Nat. Arr. Brit. Pl. 2: 398 1821",,,,,328127-1,wfo-0000670758,4169121,
-f01eb196-8fcc-11eb-924d-9cd76263cbd0,species,glomerata,Eremocallis,,Gray,1821,"Nat. Arr. Brit. Pl. 2: 398 1821",,,,,328128-1,wfo-0000670759,4169113,
-849dd428-8fcd-11eb-924d-9cd76263cbd0,species,setigerus,Eremocarpus,,"(Hook.) Benth.",1844,"Bot. Voy. Sulphur 53 1844",,,,7b97c776-8fcd-11eb-924d-9cd76263cbd0,345324-1,wfo-0000952552,3058112,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36528d6-8fd1-11eb-924d-9cd76263cbd0,genus,Eremoblastus,,,Botch.,,1980,,"Bot. Žurn. (Kiev) 65: 425. 1980.",,,,,,12564-1,wfo-4000013700,10753073,,
+f01e6d6c-8fcc-11eb-924d-9cd76263cbd0,species,caspicus,Eremoblastus,,Botch.,,1980,,"Bot. Zhurn. (Moscow & Leningrad) 65: 425 1980",,,,,,,wfo-0000670757,8398829,,
+f01e8900-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Eremocallis,,Gray,,1821,,"Nat. Arr. Brit. Pl. 2: 398 1821",,,,,,328127-1,wfo-0000670758,4169121,,
+f01eb196-8fcc-11eb-924d-9cd76263cbd0,species,glomerata,Eremocallis,,Gray,,1821,,"Nat. Arr. Brit. Pl. 2: 398 1821",,,,,,328128-1,wfo-0000670759,4169113,,
+849dd428-8fcd-11eb-924d-9cd76263cbd0,species,setigerus,Eremocarpus,,"(Hook.) Benth.",,1844,,"Bot. Voy. Sulphur 53 1844",,,,7b97c776-8fcd-11eb-924d-9cd76263cbd0,,345324-1,wfo-0000952552,3058112,,

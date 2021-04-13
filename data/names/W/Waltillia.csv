@@ -1,3 +1,2 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec78a312-8fd1-11eb-924d-9cd76263cbd0,genus,Waltillia,,,"Leme, Barfuss & Halbritt.",2017,"Phytotaxa 299(1): 29 (2017)",,,,,77162221-1,wfo-4001303466,9743379,
-1b3b4ca0-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Waluewa,,Regel,1890,"Trudy Imp. S.-Peterburgsk. Bot. Sada 11: 300 1890",,,,,267738-2,wfo-0000333811,2834843,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec78a312-8fd1-11eb-924d-9cd76263cbd0,genus,Waltillia,,,"Leme, Barfuss & Halbritt.",,2017,,"Phytotaxa 299(1): 29 (2017)",,Q33106135,,,,77162221-1,wfo-4001303466,9743379,,

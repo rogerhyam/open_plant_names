@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28e65da-8fd1-11eb-924d-9cd76263cbd0,genus,Delavaya,,,Franch.,1886,"Bull. Soc. Bot. France 33: 462. 1886.",,,,,36357-1,wfo-4000011003,3233037,
-dddafb8e-8fcc-11eb-924d-9cd76263cbd0,species,toxocarpa,Delavaya,,Franch.,1886,"Bull. Soc. Bot. France 33: 462 1886",,,,,782757-1,wfo-0000639405,5578218,
-dddb195c-8fcc-11eb-924d-9cd76263cbd0,species,yunnanensis,Delavaya,,Franch.,1889,"Pl. Delavay. 142 1889",,,,,782758-1,wfo-0000639406,5578216,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28e65da-8fd1-11eb-924d-9cd76263cbd0,genus,Delavaya,,,Franch.,,1886,,"Bull. Soc. Bot. France 33: 462. 1886.",,Q55756708,,,,36357-1,wfo-4000011003,3233037,,
+dddafb8e-8fcc-11eb-924d-9cd76263cbd0,species,toxocarpa,Delavaya,,Franch.,,1886,,"Bull. Soc. Bot. France 33: 462 1886",,Q55756708,,,,782757-1,wfo-0000639405,5578218,,
+dddb195c-8fcc-11eb-924d-9cd76263cbd0,species,yunnanensis,Delavaya,,Franch.,,1889,,"Pl. Delavay. 142 1889",,,,,,782758-1,wfo-0000639406,5578216,,

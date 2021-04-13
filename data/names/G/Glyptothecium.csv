@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e416b7cc-8fd1-11eb-924d-9cd76263cbd0,genus,Glyptothecium,,,,,,,,,,,wfo-4000015876,7699354,
-eadadd3a-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Glyptothecium,,"(Hampe) Broth.",1905,"Nat. Pflanzenfam. I(3): 755 1905",,,,,,wfo-0001173208,7428930,
-eadb04e0-8fcd-11eb-924d-9cd76263cbd0,species,octangulum,Glyptothecium,,"(Müll.Hal.) Broth.",1905,"Nat. Pflanzenfam. I(3): 755 1905",,,,,,wfo-0001173209,8041156,
-eadb37c6-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Glyptothecium,,"(Sande Lac.) Broth.",1905,"Nat. Pflanzenfam. I(3): 755 1905",,,,ee92d28e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001173210,7727349,
-eadb5738-8fcd-11eb-924d-9cd76263cbd0,species,pangerangense,Glyptothecium,,"(M.Fleisch.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 105 1925",,,,,,wfo-0001173211,7968131,
-eadb74a2-8fcd-11eb-924d-9cd76263cbd0,species,sciuroides,Glyptothecium,,"(Hook.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 105 1925",,,,e6188fe0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001173212,7534657,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e416b7cc-8fd1-11eb-924d-9cd76263cbd0,genus,Glyptothecium,,,,,,,,,,,,,,wfo-4000015876,7699354,,
+eadadd3a-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Glyptothecium,,"(Hampe) Broth.",,1905,,"Nat. Pflanzenfam. I(3): 755 1905",,,,,,,wfo-0001173208,7428930,,
+eadb04e0-8fcd-11eb-924d-9cd76263cbd0,species,octangulum,Glyptothecium,,"(Müll.Hal.) Broth.",,1905,,"Nat. Pflanzenfam. I(3): 755 1905",,,,,,,wfo-0001173209,8041156,,
+eadb37c6-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Glyptothecium,,"(Sande Lac.) Broth.",,1905,,"Nat. Pflanzenfam. I(3): 755 1905",,,,ee92d28e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001173210,7727349,,
+eadb5738-8fcd-11eb-924d-9cd76263cbd0,species,pangerangense,Glyptothecium,,"(M.Fleisch.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 105 1925",,,,,,,wfo-0001173211,7968131,,
+eadb74a2-8fcd-11eb-924d-9cd76263cbd0,species,sciuroides,Glyptothecium,,"(Hook.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 105 1925",,,,e6188fe0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001173212,7534657,,

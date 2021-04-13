@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea9e7e90-8fd1-11eb-924d-9cd76263cbd0,genus,Sphondylococca,,,"Willd. ex Schult.",1820,"Syst. Veg. (ed. 15 bis) 6: lxx, 799. 1820. (Aug-Dec 1820)",,,,,,wfo-4000036069,7289721,
-889c8a0c-8fcc-11eb-924d-9cd76263cbd0,species,malabarica,Sphondylococca,,"Willd. ex Schult.",1820,"Syst. Veg. 6: lxx, 799 1820",,,,,,wfo-0000499196,7905316,
-0e7a147e-8fcc-11eb-924d-9cd76263cbd0,species,zeylanica,Sphragidia,,Thwaites,1855,"Hooker's J. Bot. Kew Gard. Misc. 7: 270 1855",,,,,356432-1,wfo-0000312996,3075626,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea9e7e90-8fd1-11eb-924d-9cd76263cbd0,genus,Sphondylococca,,,"Willd. ex Schult.",,1820,,"Syst. Veg. (ed. 15 bis) 6: lxx, 799. 1820. (Aug-Dec 1820)",,,,,,,wfo-4000036069,7289721,,
+889c8a0c-8fcc-11eb-924d-9cd76263cbd0,species,malabarica,Sphondylococca,,"Willd. ex Schult.",,1820,,"Syst. Veg. 6: lxx, 799 1820",,,,,,,wfo-0000499196,7905316,,
+0e7a147e-8fcc-11eb-924d-9cd76263cbd0,species,zeylanica,Sphragidia,,Thwaites,,1855,,"Hooker's J. Bot. Kew Gard. Misc. 7: 270 1855",,,,,,356432-1,wfo-0000312996,3075626,,

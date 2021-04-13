@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebe49000-8fd1-11eb-924d-9cd76263cbd0,genus,Ventricularia,,,Garay,1972,"Bot. Mus. Leafl. 23: 210. 1972.",,,,,,wfo-4000040121,8160047,
-1a047b7c-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Ventricularia,,J.J.Wood,1998,"Orchid Rev. 106: 175 1998",,,,,1000715-1,wfo-0000331626,2784948,
-1a04a502-8fcc-11eb-924d-9cd76263cbd0,species,tenuicaulis,Ventricularia,,"(Hook.f.) Garay",1972,"Bot. Mus. Leafl. 23: 211 1972",,,,,661306-1,wfo-0000331627,2784949,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebe49000-8fd1-11eb-924d-9cd76263cbd0,genus,Ventricularia,,,Garay,,1972,,"Bot. Mus. Leafl. 23: 210. 1972.",,,,,,,wfo-4000040121,8160047,,
+1a047b7c-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Ventricularia,,J.J.Wood,,1998,,"Orchid Rev. 106: 175 1998",,,,,,1000715-1,wfo-0000331626,2784948,,
+1a04a502-8fcc-11eb-924d-9cd76263cbd0,species,tenuicaulis,Ventricularia,,"(Hook.f.) Garay",,1972,,"Bot. Mus. Leafl. 23: 211 1972",,Q100425847,,,,661306-1,wfo-0000331627,2784949,,

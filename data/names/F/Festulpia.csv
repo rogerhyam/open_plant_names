@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3b5f89c-8fd1-11eb-924d-9cd76263cbd0,genus,Festulpia,,,"Melderis ex Stace & R.Cotton",,,,,,,18089-1,wfo-4000014708,4110509,
-f2d3e7d2-8fc5-11eb-924d-9cd76263cbd0,species,multifoliata,Feuillea,,Kuntze,,,,,,,,wfo-0000195598,5360533,
-f2ee8010-8fc5-11eb-924d-9cd76263cbd0,species,peckoltii,Feuillea,,Kuntze,,,,,,,,wfo-0000195599,5360534,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3b5f89c-8fd1-11eb-924d-9cd76263cbd0,genus,Festulpia,,,"Melderis ex Stace & R.Cotton",,,,,,,,,,18089-1,wfo-4000014708,4110509,,
+f2d3e7d2-8fc5-11eb-924d-9cd76263cbd0,species,multifoliata,Feuillea,,Kuntze,,,,,,,,,,,wfo-0000195598,5360533,,
+f2ee8010-8fc5-11eb-924d-9cd76263cbd0,species,peckoltii,Feuillea,,Kuntze,,,,,,,,,,,wfo-0000195599,5360534,,

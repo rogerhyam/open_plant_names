@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3205cba-8fd1-11eb-924d-9cd76263cbd0,genus,Dyssochroma,,,Miers,1849,"Miers and Miers, Ann. Mag. Nat. Hist. Ser. 2, 4(22): 250., 1849.",,,,,38354-1,wfo-4000012842,7299240,
-a59187ce-8fcd-11eb-924d-9cd76263cbd0,species,albidoflavum,Dyssochroma,,Lem.,1859,"Lem., Ill. Hort. vi. (1859) Misc. 40..",,,,,,wfo-0001021557,3797428,
-a591a236-8fcd-11eb-924d-9cd76263cbd0,species,eximia,Dyssochroma,,"Benth. & Hook.f.",1876,"B. & Hook.f., Gen. Pl. [Bentham & Hooker f.] 2(2): 904, in nota. 1876 [May 1876], 1876.",,,,,,wfo-0001021558,3797420,
-a591bed8-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Dyssochroma,,"(Sendtn.) Miers",1849,"(S. ) Miers, Ann. Mag. Nat. Hist. ser. 2, 4(22): 252. 1849 [Oct 1849], 1849.",,,,a7ac0502-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001021559,3797414,
-a591da9e-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Dyssochroma,,,,,,,,,,wfo-0001021560,,
-a591f63c-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Dyssochroma,,"(Sims) Miers",1849,"(S. ) Miers, Ann. Mag. Nat. Hist. ser. 2, 4(22): 251. 1849 [Oct 1849], 1849.",,,,a7ade3b8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001021561,3797409,
-a592118a-8fcd-11eb-924d-9cd76263cbd0,variety,cuspidata,Dyssochroma,viridiflora,Witasek,1910,"Witasek, Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 79: 364. 1910, 1910.",,,,,,wfo-0001021562,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3205cba-8fd1-11eb-924d-9cd76263cbd0,genus,Dyssochroma,,,Miers,,1849,,"Miers and Miers, Ann. Mag. Nat. Hist. Ser. 2, 4(22): 250., 1849.",,Q56146614,,,,38354-1,wfo-4000012842,7299240,,
+a59187ce-8fcd-11eb-924d-9cd76263cbd0,species,albidoflavum,Dyssochroma,,Lem.,,1859,,"Lem., Ill. Hort. vi. (1859) Misc. 40..",,,,,,,wfo-0001021557,3797428,,
+a591a236-8fcd-11eb-924d-9cd76263cbd0,species,eximia,Dyssochroma,,"Benth. & Hook.f.",,1876,,"B. & Hook.f., Gen. Pl. [Bentham & Hooker f.] 2(2): 904, in nota. 1876 [May 1876], 1876.",,,,,,,wfo-0001021558,3797420,,
+a591bed8-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Dyssochroma,,"(Sendtn.) Miers",,1849,,"(S. ) Miers, Ann. Mag. Nat. Hist. ser. 2, 4(22): 252. 1849 [Oct 1849], 1849.",,,,a7ac0502-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001021559,3797414,,
+a591da9e-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Dyssochroma,,,,,,,,,,,,,wfo-0001021560,,,
+a591f63c-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Dyssochroma,,"(Sims) Miers",,1849,,"(S. ) Miers, Ann. Mag. Nat. Hist. ser. 2, 4(22): 251. 1849 [Oct 1849], 1849.",,,,a7ade3b8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001021561,3797409,,
+a592118a-8fcd-11eb-924d-9cd76263cbd0,variety,cuspidata,Dyssochroma,viridiflora,Witasek,,1910,,"Witasek, Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 79: 364. 1910, 1910.",,,,,,,wfo-0001021562,,,

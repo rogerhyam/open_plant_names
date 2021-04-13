@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1703af2-8fd1-11eb-924d-9cd76263cbd0,genus,Cercostylos,,,,,,,,,,,wfo-4000007407,7338341,
-4cd746f2-8fb2-11eb-924d-9cd76263cbd0,species,brasiliensis,Cercostylos,,"(Less.) Less.",1832,1832,,,,,192160-1,wfo-0000019597,4244688,
-50871226-8fb4-11eb-924d-9cd76263cbd0,species,scabiosoides,Cercostylos,,"Arn. ex DC.",1838,"293 1838",,,,,192161-1,wfo-0000063184,3095190,
-31b0dbc4-8fb5-11eb-924d-9cd76263cbd0,species,sesamoides,Cercostylos,,Steud.,1840,"333 1840",,,,,192162-1,wfo-0000075060,4244679,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1703af2-8fd1-11eb-924d-9cd76263cbd0,genus,Cercostylos,,,,,,,,,,,,,,wfo-4000007407,7338341,,
+4cd746f2-8fb2-11eb-924d-9cd76263cbd0,species,brasiliensis,Cercostylos,,"(Less.) Less.",,1832,,1832,,,,,,192160-1,wfo-0000019597,4244688,,
+50871226-8fb4-11eb-924d-9cd76263cbd0,species,scabiosoides,Cercostylos,,"Arn. ex DC.",,1838,,"293 1838",,,,,,192161-1,wfo-0000063184,3095190,,
+31b0dbc4-8fb5-11eb-924d-9cd76263cbd0,species,sesamoides,Cercostylos,,Steud.,,1840,,"333 1840",,,,,,192162-1,wfo-0000075060,4244679,,

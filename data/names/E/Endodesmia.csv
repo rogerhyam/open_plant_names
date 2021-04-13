@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e34e3842-8fd1-11eb-924d-9cd76263cbd0,genus,Endodesmia,,,Benth.,1862,"Gen. Pl. 1: 166. 1862.",,,,,19822-1,wfo-4000013398,3231101,
-ee6d2c7e-8fcc-11eb-924d-9cd76263cbd0,species,calophylloides,Endodesmia,,Benth.,1862,"Gen. Pl. 1: 166 1862",,,,,433112-1,wfo-0000667843,7843176,
-522d26a6-8fcd-11eb-924d-9cd76263cbd0,species,lenticularis,Endodia,,"(Michx.) Raf.",1825,"Neogenyton 4 1825",,,,,1135948-2,wfo-0000867116,4139005,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e34e3842-8fd1-11eb-924d-9cd76263cbd0,genus,Endodesmia,,,Benth.,,1862,,"Gen. Pl. 1: 166. 1862.",,,,e34e3842-8fd1-11eb-924d-9cd76263cbd0,,19822-1,wfo-4000013398,3231101,8164," "
+ee6d2c7e-8fcc-11eb-924d-9cd76263cbd0,species,calophylloides,Endodesmia,,Benth.,,1862,,"Gen. Pl. 1: 166 1862",,,,,,433112-1,wfo-0000667843,7843176,,
+57118866-9bac-11eb-a8a2-19ed5c03f8d3,species,glauca,Endodesmia,,"Berk. & Broome",,1871,,"Ann. Mag. nat. Hist., Ser. 4 7: (1871)",,,,57118866-9bac-11eb-a8a2-19ed5c03f8d3,,,,,201790," "

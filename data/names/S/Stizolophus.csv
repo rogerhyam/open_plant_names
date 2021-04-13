@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eada52d0-8fd1-11eb-924d-9cd76263cbd0,genus,Stizolophus,,,Cass.,,,,,,,11168-1,wfo-4000036753,3141523,
-1d4b3612-8fb4-11eb-924d-9cd76263cbd0,species,balsamita,Stizolophus,,"(Lam.) K.Koch",1851,"K. Koch in Linnaea 24. 1851. 423 1851",,,,,,wfo-0000060188,,
-ef6ac1bc-8fb9-11eb-924d-9cd76263cbd0,species,balsamita,Stizolophus,,"(Lam.) Cass. ex Takht.",1945,"Fl. Erevana 329. 1945",,,,,251693-1,wfo-0000122600,7467896,
-6dc7c544-8fb2-11eb-924d-9cd76263cbd0,species,balsamitella,Stizolophus,,"(Bornm.) Soják",1962,"Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962, 48 (1962)",,,,b7939a40-8fb2-11eb-924d-9cd76263cbd0,251695-1,wfo-0000024256,4239751,
-b5ad4b0e-8fb2-11eb-924d-9cd76263cbd0,species,balsamitifolius,Stizolophus,,Cass.,,,,,,,,wfo-0000032452,3141530,
-d36b1a2c-8fb2-11eb-924d-9cd76263cbd0,species,balsamitoides,Stizolophus,,"(Post) Soják",1962,"48 1962",,,,,251696-1,wfo-0000035433,3141531,
-82ec27be-8fb5-11eb-924d-9cd76263cbd0,species,coronopifolius,Stizolophus,,"(Lam.) Cass.",,,,,,,,wfo-0000078970,3141525,
-f4c06c90-8fb2-11eb-924d-9cd76263cbd0,species,kermanensis,Stizolophus,,"(Bornm.) Soják",1962,"Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962, 48 (1962)",,,,,251698-1,wfo-0000038329,4239740,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eada52d0-8fd1-11eb-924d-9cd76263cbd0,genus,Stizolophus,,,Cass.,,,,,,,,,,11168-1,wfo-4000036753,3141523,,
+1d4b3612-8fb4-11eb-924d-9cd76263cbd0,species,balsamita,Stizolophus,,"(Lam.) K.Koch",,1851,,"K. Koch in Linnaea 24. 1851. 423 1851",,,,,,,wfo-0000060188,,,
+ef6ac1bc-8fb9-11eb-924d-9cd76263cbd0,species,balsamita,Stizolophus,,"(Lam.) Cass. ex Takht.",,1945,,"Fl. Erevana 329. 1945",,,,,,251693-1,wfo-0000122600,7467896,,
+6dc7c544-8fb2-11eb-924d-9cd76263cbd0,species,balsamitella,Stizolophus,,"(Bornm.) Soják",,1962,,"Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962, 48 (1962)",,,,b7939a40-8fb2-11eb-924d-9cd76263cbd0,,251695-1,wfo-0000024256,4239751,,
+b5ad4b0e-8fb2-11eb-924d-9cd76263cbd0,species,balsamitifolius,Stizolophus,,Cass.,,,,,,,,,,,wfo-0000032452,3141530,,
+d36b1a2c-8fb2-11eb-924d-9cd76263cbd0,species,balsamitoides,Stizolophus,,"(Post) Soják",,1962,,"48 1962",,,,,,251696-1,wfo-0000035433,3141531,,
+82ec27be-8fb5-11eb-924d-9cd76263cbd0,species,coronopifolius,Stizolophus,,"(Lam.) Cass.",,,,,,,,,,,wfo-0000078970,3141525,,
+f4c06c90-8fb2-11eb-924d-9cd76263cbd0,species,kermanensis,Stizolophus,,"(Bornm.) Soják",,1962,,"Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962, 48 (1962)",,,,,,251698-1,wfo-0000038329,4239740,,

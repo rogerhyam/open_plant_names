@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8922bc-8fd1-11eb-924d-9cd76263cbd0,genus,Anthodendron,,,Rchb.,1827,"Handb. Gewachsk. (ed. 2) 1: 244, 308–310. 1827.",,,,,,wfo-4000002441,7328470,
-a01934a0-8fcc-11eb-924d-9cd76263cbd0,species,flavum,Anthodendron,,Rchb.,1827,"Handb. Gewächsk. 1(40): 309 1827",,,,,326423-1,wfo-0000538524,4171285,
-a0195890-8fcc-11eb-924d-9cd76263cbd0,species,nudiflorum,Anthodendron,,Rchb.,1827,"Handb. Gewächsk. 1(40): 309 1827",,,,,326424-1,wfo-0000538525,4171279,
-a019981e-8fcc-11eb-924d-9cd76263cbd0,species,ponticum,Anthodendron,,"(L.) Rchb.",1831,"Fl. Germ. Excurs. 416 1831",,,,47ed9b0e-8fcc-11eb-924d-9cd76263cbd0,326425-1,wfo-0000538527,4171270,
-a019b2cc-8fcc-11eb-924d-9cd76263cbd0,species,viscosum,Anthodendron,,Rchb.,1827,"Handb. Gewächsk. ed. 2 1: 424 1827",,,,,326426-1,wfo-0000538528,4171261,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8922bc-8fd1-11eb-924d-9cd76263cbd0,genus,Anthodendron,,,Rchb.,,1827,,"Handb. Gewachsk. (ed. 2) 1: 244, 308–310. 1827.",,,,,,,wfo-4000002441,7328470,,
+a01934a0-8fcc-11eb-924d-9cd76263cbd0,species,flavum,Anthodendron,,Rchb.,,1827,,"Handb. Gewächsk. 1(40): 309 1827",,,,,,326423-1,wfo-0000538524,4171285,,
+a0195890-8fcc-11eb-924d-9cd76263cbd0,species,nudiflorum,Anthodendron,,Rchb.,,1827,,"Handb. Gewächsk. 1(40): 309 1827",,,,,,326424-1,wfo-0000538525,4171279,,
+a019981e-8fcc-11eb-924d-9cd76263cbd0,species,ponticum,Anthodendron,,"(L.) Rchb.",,1831,,"Fl. Germ. Excurs. 416 1831",,,,47ed9b0e-8fcc-11eb-924d-9cd76263cbd0,,326425-1,wfo-0000538527,4171270,,
+a019b2cc-8fcc-11eb-924d-9cd76263cbd0,species,viscosum,Anthodendron,,Rchb.,,1827,,"Handb. Gewächsk. ed. 2 1: 424 1827",,,,,,326426-1,wfo-0000538528,4171261,,

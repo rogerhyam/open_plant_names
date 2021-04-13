@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9854142-8fd1-11eb-924d-9cd76263cbd0,genus,Rectomitra,,,Blume,1849,"Mus. Bot. 1: 6. 1849.",,,,,,wfo-4000032658,3865554,
-ba3ddfc8-8fbf-11eb-924d-9cd76263cbd0,species,cordata,Rectomitra,,Triana,1871,"Trans. Linn. Soc. London 28(1): 153 8 Dec 1871-13 Jan 1872",,,,,575094-1,wfo-0000161713,3865571,
-ba48a016-8fbf-11eb-924d-9cd76263cbd0,species,galeata,Rectomitra,,Blume,1849,"Mus. Bot. 1(1): 6 1849 [Jan 1849 publ. Nov 1849]",,,,,575095-1,wfo-0000161714,3865563,
-ba534110-8fbf-11eb-924d-9cd76263cbd0,species,tuberculata,Rectomitra,,Blume,1849,"Mus. Bot. 1(1): 7 1849 [Jan 1849 publ. Nov 1849]",,,,,575096-1,wfo-0000161715,3865553,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9854142-8fd1-11eb-924d-9cd76263cbd0,genus,Rectomitra,,,Blume,,1849,,"Mus. Bot. 1: 6. 1849.",,,,,,,wfo-4000032658,3865554,,
+ba3ddfc8-8fbf-11eb-924d-9cd76263cbd0,species,cordata,Rectomitra,,Triana,,1871,,"Trans. Linn. Soc. London 28(1): 153 8 Dec 1871-13 Jan 1872",,Q55760785,,,,575094-1,wfo-0000161713,3865571,,
+ba48a016-8fbf-11eb-924d-9cd76263cbd0,species,galeata,Rectomitra,,Blume,,1849,,"Mus. Bot. 1(1): 6 1849 [Jan 1849 publ. Nov 1849]",,,,,,575095-1,wfo-0000161714,3865563,,
+ba534110-8fbf-11eb-924d-9cd76263cbd0,species,tuberculata,Rectomitra,,Blume,,1849,,"Mus. Bot. 1(1): 7 1849 [Jan 1849 publ. Nov 1849]",,,,,,575096-1,wfo-0000161715,3865553,,

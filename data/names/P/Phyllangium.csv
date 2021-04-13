@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e86cf12e-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllangium,,,Dunlop,1996,"Fl. Australia 28: 315. 1996.",,,,,991003-1,wfo-4000029378,7289382,
-7551ebb8-8fcc-11eb-924d-9cd76263cbd0,species,distylis,Phyllangium,,"(F.Muell.) Dunlop",1996,"in Fl. Australia 28: 315 1996",,,,,991005-1,wfo-0000466221,4019870,
-7720970a-8fcc-11eb-924d-9cd76263cbd0,species,divergens,Phyllangium,,"(Hook.f.) Dunlop",1996,"in Fl. Australia 28: 315 1996",,,,367f57e0-8fcc-11eb-924d-9cd76263cbd0,991007-1,wfo-0000469145,4019866,
-77207bee-8fcc-11eb-924d-9cd76263cbd0,species,palustre,Phyllangium,,"(W.Fitzg.) Dunlop",1996,"in Fl. Australia 28: 315 1996",,,,,991008-1,wfo-0000469144,4019858,
-77205f38-8fcc-11eb-924d-9cd76263cbd0,species,paradoxum,Phyllangium,,"(R.Br.) Dunlop",1996,"in Fl. Australia 28: 315 1996",,,,,991004-1,wfo-0000469143,4019851,
-7720425a-8fcc-11eb-924d-9cd76263cbd0,species,sulcatum,Phyllangium,,Dunlop,1996,"in Fl. Australia 28: 315 1996",,,,,991006-1,wfo-0000469142,4019843,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e86cf12e-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllangium,,,Dunlop,,1996,,"Fl. Australia 28: 315. 1996.",,,,,,991003-1,wfo-4000029378,7289382,,
+7551ebb8-8fcc-11eb-924d-9cd76263cbd0,species,distylis,Phyllangium,,"(F.Muell.) Dunlop",,1996,,"in Fl. Australia 28: 315 1996",,,,,,991005-1,wfo-0000466221,4019870,,
+7720970a-8fcc-11eb-924d-9cd76263cbd0,species,divergens,Phyllangium,,"(Hook.f.) Dunlop",,1996,,"in Fl. Australia 28: 315 1996",,,,367f57e0-8fcc-11eb-924d-9cd76263cbd0,,991007-1,wfo-0000469145,4019866,,
+77207bee-8fcc-11eb-924d-9cd76263cbd0,species,palustre,Phyllangium,,"(W.Fitzg.) Dunlop",,1996,,"in Fl. Australia 28: 315 1996",,,,,,991008-1,wfo-0000469144,4019858,,
+77205f38-8fcc-11eb-924d-9cd76263cbd0,species,paradoxum,Phyllangium,,"(R.Br.) Dunlop",,1996,,"in Fl. Australia 28: 315 1996",,,,,,991004-1,wfo-0000469143,4019851,,
+7720425a-8fcc-11eb-924d-9cd76263cbd0,species,sulcatum,Phyllangium,,Dunlop,,1996,,"in Fl. Australia 28: 315 1996",,,,,,991006-1,wfo-0000469142,4019843,,

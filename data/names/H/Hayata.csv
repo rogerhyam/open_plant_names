@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e477a3d4-8fd1-11eb-924d-9cd76263cbd0,genus,Hayata,,,,2010,"Taiwania 2010.",,,,,,wfo-4000017040,9724364,
-7343a810-8fcd-11eb-924d-9cd76263cbd0,species,glandulifera,Hayata,,Aver.,2009,"Taiwania 54: 312 2009",,,,,,wfo-0000917935,8099247,
-759e1f50-8fcd-11eb-924d-9cd76263cbd0,species,merrillii,Hayata,,"(Ames & Quisumb.) T.C.Hsu & S.W.Chung",2010,"Taiwania 55: 365 2010",,,,,77115396-1,wfo-0000921758,7679286,
-7343e0a0-8fcd-11eb-924d-9cd76263cbd0,species,sherriffii,Hayata,,"(N.Pearce & P.J.Cribb) Aver.",2009,"Taiwania 54: 312 2009",,,,46926f72-8fcd-11eb-924d-9cd76263cbd0,77107640-1,wfo-0000917937,6315927,
-734405e4-8fcd-11eb-924d-9cd76263cbd0,species,tabiyahanensis,Hayata,,"(Hayata) Aver.",2009,"Taiwania 54: 312 2009",,,,1c21e62e-8fcc-11eb-924d-9cd76263cbd0,77107639-1,wfo-0000917938,6315930,
-915601a4-8fcd-11eb-924d-9cd76263cbd0,species,mitchelloides,Hayataella,,Masam.,1934,"Trans. Nat. Hist. Soc. Taiwan 24: 206 1934",,,,,752232-1,wfo-0000979467,6288590,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e477a3d4-8fd1-11eb-924d-9cd76263cbd0,genus,Hayata,,,,,2010,,"Taiwania 2010.",,,,,,,wfo-4000017040,9724364,,
+7343a810-8fcd-11eb-924d-9cd76263cbd0,species,glandulifera,Hayata,,Aver.,,2009,,"Taiwania 54: 312 2009",,,,,,,wfo-0000917935,8099247,,
+759e1f50-8fcd-11eb-924d-9cd76263cbd0,species,merrillii,Hayata,,"(Ames & Quisumb.) T.C.Hsu & S.W.Chung",,2010,,"Taiwania 55: 365 2010",,Q93277355,,,,77115396-1,wfo-0000921758,7679286,,
+7343e0a0-8fcd-11eb-924d-9cd76263cbd0,species,sherriffii,Hayata,,"(N.Pearce & P.J.Cribb) Aver.",,2009,,"Taiwania 54: 312 2009",,Q93276631,,46926f72-8fcd-11eb-924d-9cd76263cbd0,,77107640-1,wfo-0000917937,6315927,,
+734405e4-8fcd-11eb-924d-9cd76263cbd0,species,tabiyahanensis,Hayata,,"(Hayata) Aver.",,2009,,"Taiwania 54: 312 2009",,Q93276631,,1c21e62e-8fcc-11eb-924d-9cd76263cbd0,,77107639-1,wfo-0000917938,6315930,,
+915601a4-8fcd-11eb-924d-9cd76263cbd0,species,mitchelloides,Hayataella,,Masam.,,1934,,"Trans. Nat. Hist. Soc. Taiwan 24: 206 1934",,,,,,752232-1,wfo-0000979467,6288590,,

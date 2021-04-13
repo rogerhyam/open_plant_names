@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df32872c-8fd1-11eb-924d-9cd76263cbd0,genus,Ameghinoa,,,Speg.,,,,,,,296651-2,wfo-4000001569,3139754,
-9b56891e-8fb2-11eb-924d-9cd76263cbd0,species,patagonica,Ameghinoa,,Speg.,1897,"539 1897",,,,,11105-2,wfo-0000029542,5402106,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df32872c-8fd1-11eb-924d-9cd76263cbd0,genus,Ameghinoa,,,Speg.,,,,,,,,,,296651-2,wfo-4000001569,3139754,,
+9b56891e-8fb2-11eb-924d-9cd76263cbd0,species,patagonica,Ameghinoa,,Speg.,,1897,,"539 1897",,,,,,11105-2,wfo-0000029542,5402106,,

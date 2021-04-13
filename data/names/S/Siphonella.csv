@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6f4710-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonella,,,"(Krok) Small",,"Fl. S.E. U.S. 1338. 1903. (22 Jul 1903)",,,,,,wfo-4000035510,3234636,
-d55d9890-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Siphonella,,"(A.Gray) Jeps.",1943,"Fl. Calif. 3(2): 218–219 1943",,,,,236991-2,wfo-0001286933,6394788,
-d55dbbd6-8fd1-11eb-924d-9cd76263cbd0,variety,hallii,Siphonella,floribunda,Jeps.,1943,"Fl. Calif. 3(2): 219 1943",,,,,236992-2,wfo-0001286934,5659780,
-bc2c9ef2-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Siphonella,,"(Torr. & A.Gray) Small",,"Fl. S.E. U.S. 1129 1903",,,,f8b99ece-8fcc-11eb-924d-9cd76263cbd0,236993-2,wfo-0001246940,7540188,
-b9a87a52-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Siphonella,,"(A.Gray) A.Heller",1912,"Muhlenbergia 8(5): 57 1912",,,,,236996-2,wfo-0001242269,5659775,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6f4710-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonella,,,"(Krok) Small",,,,"Fl. S.E. U.S. 1338. 1903. (22 Jul 1903)",,,,,,,wfo-4000035510,3234636,,
+d55d9890-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Siphonella,,"(A.Gray) Jeps.",,1943,,"Fl. Calif. 3(2): 218–219 1943",,,,,,236991-2,wfo-0001286933,6394788,,
+d55dbbd6-8fd1-11eb-924d-9cd76263cbd0,variety,hallii,Siphonella,floribunda,Jeps.,,1943,,"Fl. Calif. 3(2): 219 1943",,,,,,236992-2,wfo-0001286934,5659780,,
+bc2c9ef2-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Siphonella,,"(Torr. & A.Gray) Small",,,,"Fl. S.E. U.S. 1129 1903",,,,f8b99ece-8fcc-11eb-924d-9cd76263cbd0,,236993-2,wfo-0001246940,7540188,,
+b9a87a52-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Siphonella,,"(A.Gray) A.Heller",,1912,,"Muhlenbergia 8(5): 57 1912",,,,,,236996-2,wfo-0001242269,5659775,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33a4c06-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiosina,,,Raf.,1838,"Sylva Tellur. 150. 1838.",,,,,,wfo-4000013166,3011991,
-95a1afc4-8fcd-11eb-924d-9cd76263cbd0,species,altaica,Eleiosina,,"(Pall.) Raf. ex B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,,,wfo-0000988805,3032458,
-95a1ccc0-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,,,wfo-0000988806,3032461,
-959cc7f2-8fcd-11eb-924d-9cd76263cbd0,species,cuneifolia,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,,,wfo-0000988759,3011992,
-95a1e70a-8fcd-11eb-924d-9cd76263cbd0,species,levigata,Eleiosina,,"(L.) B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,,,wfo-0000988807,7356974,
-98a5700c-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Eleiosina,,"Raf. ex Ser.",1823,"Prodromus systematis naturalis regni vegetabilis ; 1823 544 1825",,,,,,wfo-0000994895,7755609,
-956c54d2-8fcd-11eb-924d-9cd76263cbd0,species,triloba,Eleiosina,,"(Murray) B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,95ffc654-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000988327,3026661,
-95669ec0-8fcd-11eb-924d-9cd76263cbd0,species,virgata,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",1893,"Index Kewensis ;  829 1893",,,,,,wfo-0000988274,7961297,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33a4c06-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiosina,,,Raf.,,1838,,"Sylva Tellur. 150. 1838.",,,,,,,wfo-4000013166,3011991,,
+95a1afc4-8fcd-11eb-924d-9cd76263cbd0,species,altaica,Eleiosina,,"(Pall.) Raf. ex B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,,,,wfo-0000988805,3032458,,
+95a1ccc0-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,,,,wfo-0000988806,3032461,,
+959cc7f2-8fcd-11eb-924d-9cd76263cbd0,species,cuneifolia,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,,,,wfo-0000988759,3011992,,
+95a1e70a-8fcd-11eb-924d-9cd76263cbd0,species,levigata,Eleiosina,,"(L.) B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,,,,wfo-0000988807,7356974,,
+98a5700c-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Eleiosina,,"Raf. ex Ser.",,1823,,"Prodromus systematis naturalis regni vegetabilis ; 1823 544 1825",,,,,,,wfo-0000994895,7755609,,
+956c54d2-8fcd-11eb-924d-9cd76263cbd0,species,triloba,Eleiosina,,"(Murray) B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,95ffc654-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000988327,3026661,,
+95669ec0-8fcd-11eb-924d-9cd76263cbd0,species,virgata,Eleiosina,,"(Raf.) Raf. ex B.D.Jacks.",,1893,,"Index Kewensis ;  829 1893",,,,,,,wfo-0000988274,7961297,,

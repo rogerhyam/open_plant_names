@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8c8fcda-8fd1-11eb-924d-9cd76263cbd0,genus,Podanthe,,,Taylor,1846,"London J. Bot. 5: 413. 1846[1846].",,,,,,wfo-4000030465,4906179,
-fd7bb46e-8fcd-11eb-924d-9cd76263cbd0,species,durmmondii,Podanthe,,"(Mitt.) Gottsche",1880,"Abh. Naturwiss. Naturwiss. Verein Hamburg 7: 54 1880",,,,,,wfo-0001211526,7451479,
-fc32598c-8fcd-11eb-924d-9cd76263cbd0,species,squamata,Podanthe,,Taylor,1846,"London J. Bot. 5: 413 1846",,,,,,wfo-0001208597,7954072,
-fc327fb6-8fcd-11eb-924d-9cd76263cbd0,species,unguiculata,Podanthe,,"(Hook.f. & Taylor) Gottsche",1880,"Abh. Naturwiss. Naturwiss. Verein Hamburg 7: 55 1880",,,,f7e1d1f0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001208598,7369386,
-f9198e3e-8fcb-11eb-924d-9cd76263cbd0,species,pallida,Podanthera,,Wight,1851,"Icon. Pl. Ind. Orient. 5: 22 1851",,,,,653888-1,wfo-0000279236,2849279,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8c8fcda-8fd1-11eb-924d-9cd76263cbd0,genus,Podanthe,,,Taylor,,1846,,"London J. Bot. 5: 413. 1846[1846].",,,,,,,wfo-4000030465,4906179,,
+fd7bb46e-8fcd-11eb-924d-9cd76263cbd0,species,durmmondii,Podanthe,,"(Mitt.) Gottsche",,1880,,"Abh. Naturwiss. Naturwiss. Verein Hamburg 7: 54 1880",,,,,,,wfo-0001211526,7451479,,
+fc32598c-8fcd-11eb-924d-9cd76263cbd0,species,squamata,Podanthe,,Taylor,,1846,,"London J. Bot. 5: 413 1846",,,,,,,wfo-0001208597,7954072,,
+fc327fb6-8fcd-11eb-924d-9cd76263cbd0,species,unguiculata,Podanthe,,"(Hook.f. & Taylor) Gottsche",,1880,,"Abh. Naturwiss. Naturwiss. Verein Hamburg 7: 55 1880",,,,f7e1d1f0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001208598,7369386,,
+f9198e3e-8fcb-11eb-924d-9cd76263cbd0,species,pallida,Podanthera,,Wight,,1851,,"Icon. Pl. Ind. Orient. 5: 22 1851",,,,,,653888-1,wfo-0000279236,2849279,,

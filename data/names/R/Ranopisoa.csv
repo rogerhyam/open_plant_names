@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e97ad1bc-8fd1-11eb-924d-9cd76263cbd0,genus,Ranopisoa,,,J.-F.Leroy,1977,"Adansonia, n.s. 17(2): 116. 1977. (21 Oct 1977)",,,,,27202-1,wfo-4000032536,7331599,
-13b7476c-8fcd-11eb-924d-9cd76263cbd0,species,rakotosonii,Ranopisoa,,"(Capuron) J.-F.Leroy",1977,"Adansonia n.s., 17: 116 1977",,,,,585409-1,wfo-0000733902,3724461,
-8f13983a-8fcc-11eb-924d-9cd76263cbd0,species,sargentii,Ranorchis,,"(C.R.P.Andrews) D.L.Jones & M.A.Clem.",2002,"Austral. Orchid Res. 4: 82 2002",,,,ff517f64-8fcb-11eb-924d-9cd76263cbd0,20012273-1,wfo-0000509633,2847594,
-72501f84-8fcc-11eb-924d-9cd76263cbd0,species,aconitifolia,Ranula,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 324 1868",,,,,712086-1,wfo-0000461436,8369860,
-72503fbe-8fcc-11eb-924d-9cd76263cbd0,species,platanifolia,Ranula,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 324 1868",,,,,712087-1,wfo-0000461437,7552570,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e97ad1bc-8fd1-11eb-924d-9cd76263cbd0,genus,Ranopisoa,,,J.-F.Leroy,,1977,,"Adansonia, n.s. 17(2): 116. 1977. (21 Oct 1977)",,Q58838234,,,,27202-1,wfo-4000032536,7331599,,
+13b7476c-8fcd-11eb-924d-9cd76263cbd0,species,rakotosonii,Ranopisoa,,"(Capuron) J.-F.Leroy",,1977,,"Adansonia n.s., 17: 116 1977",,Q58838234,,,,585409-1,wfo-0000733902,3724461,,
+8f13983a-8fcc-11eb-924d-9cd76263cbd0,species,sargentii,Ranorchis,,"(C.R.P.Andrews) D.L.Jones & M.A.Clem.",,2002,,"Austral. Orchid Res. 4: 82 2002",,,,ff517f64-8fcb-11eb-924d-9cd76263cbd0,,20012273-1,wfo-0000509633,2847594,,
+72501f84-8fcc-11eb-924d-9cd76263cbd0,species,aconitifolia,Ranula,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 324 1868",,,,,,712086-1,wfo-0000461436,8369860,,
+72503fbe-8fcc-11eb-924d-9cd76263cbd0,species,platanifolia,Ranula,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 324 1868",,,,,,712087-1,wfo-0000461437,7552570,,

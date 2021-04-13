@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ac1016-8fd1-11eb-924d-9cd76263cbd0,genus,Famatina,,,Ravenna,1972,"Pl. Life (Stanford) 48: 56. 1972.",,,,,,wfo-4000014585,7316142,
-23ba6aa4-8fcd-11eb-924d-9cd76263cbd0,species,andina,Famatina,,"(Phil.) Ravenna",1981,"Pl. Life 37: 73 1981",,,,,908731-1,wfo-0000767169,2854118,
-23ba8516-8fcd-11eb-924d-9cd76263cbd0,species,cisandina,Famatina,,Ravenna,2003,"Bot. Australis 2: 16 2003",,,,,20011362-1,wfo-0000767170,4014219,
-23ba9fd8-8fcd-11eb-924d-9cd76263cbd0,species,herbertiana,Famatina,,"(Lindl.) Ravenna",1972,"Pl. Life 28: 59 1972",,,,,103362-2,wfo-0000767171,2855247,
-23babbc6-8fcd-11eb-924d-9cd76263cbd0,species,maulensis,Famatina,,Ravenna,1972,"Pl. Life 28: 58 1972",,,,,103363-2,wfo-0000767172,2855244,
-23baf05a-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Famatina,,Ravenna,1972,"Pl. Life 28: 57 1972",,,,,103364-2,wfo-0000767174,2855248,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ac1016-8fd1-11eb-924d-9cd76263cbd0,genus,Famatina,,,Ravenna,,1972,,"Pl. Life (Stanford) 48: 56. 1972.",,,,,,,wfo-4000014585,7316142,,
+23ba6aa4-8fcd-11eb-924d-9cd76263cbd0,species,andina,Famatina,,"(Phil.) Ravenna",,1981,,"Pl. Life 37: 73 1981",,,,,,908731-1,wfo-0000767169,2854118,,
+23ba8516-8fcd-11eb-924d-9cd76263cbd0,species,cisandina,Famatina,,Ravenna,,2003,,"Bot. Australis 2: 16 2003",,,,,,20011362-1,wfo-0000767170,4014219,,
+23ba9fd8-8fcd-11eb-924d-9cd76263cbd0,species,herbertiana,Famatina,,"(Lindl.) Ravenna",,1972,,"Pl. Life 28: 59 1972",,,,,,103362-2,wfo-0000767171,2855247,,
+23babbc6-8fcd-11eb-924d-9cd76263cbd0,species,maulensis,Famatina,,Ravenna,,1972,,"Pl. Life 28: 58 1972",,,,,,103363-2,wfo-0000767172,2855244,,
+23baf05a-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Famatina,,Ravenna,,1972,,"Pl. Life 28: 57 1972",,,,,,103364-2,wfo-0000767174,2855248,,

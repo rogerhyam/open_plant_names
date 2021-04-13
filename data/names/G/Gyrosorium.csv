@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e44fa3ac-8fd1-11eb-924d-9cd76263cbd0,genus,Gyrosorium,,,C.Presl,1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 499–500. 1851. (Oct 1851)",,,,,,wfo-4000016617,7290202,
-ac6c6ffa-8fcd-11eb-924d-9cd76263cbd0,species,africanum,Gyrosorium,,"(Kunze) C.Presl",,,,,,,,wfo-0001035567,8556350,
-85328164-8fbd-11eb-924d-9cd76263cbd0,species,angustatum,Gyrosorium,,C.Presl,1851,"Epimel. Bot. 141 1851 [Oct 1851]",,,,,17116480-1,wfo-0000148362,4027621,
-b185f912-8fd1-11eb-924d-9cd76263cbd0,species,fissum,Gyrosorium,,"(Blume) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 501 1851",,,,830ca900-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001227366,4027614,
-c84fffa8-8fd1-11eb-924d-9cd76263cbd0,species,samarense,Gyrosorium,,C.Presl,1851,"Epim. Bot. 140 1851",,,,,17116500-1,wfo-0001269373,4027603,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e44fa3ac-8fd1-11eb-924d-9cd76263cbd0,genus,Gyrosorium,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 499–500. 1851. (Oct 1851)",,,,,,,wfo-4000016617,7290202,,
+ac6c6ffa-8fcd-11eb-924d-9cd76263cbd0,species,africanum,Gyrosorium,,"(Kunze) C.Presl",,,,,,,,,,,wfo-0001035567,8556350,,
+85328164-8fbd-11eb-924d-9cd76263cbd0,species,angustatum,Gyrosorium,,C.Presl,,1851,,"Epimel. Bot. 141 1851 [Oct 1851]",,,,,,17116480-1,wfo-0000148362,4027621,,
+b185f912-8fd1-11eb-924d-9cd76263cbd0,species,fissum,Gyrosorium,,"(Blume) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 501 1851",,,,830ca900-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001227366,4027614,,
+c84fffa8-8fd1-11eb-924d-9cd76263cbd0,species,samarense,Gyrosorium,,C.Presl,,1851,,"Epim. Bot. 140 1851",,,,,,17116500-1,wfo-0001269373,4027603,,

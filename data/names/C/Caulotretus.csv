@@ -1,8 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e153eb36-8fd1-11eb-924d-9cd76263cbd0,genus,Caulotretus,,,,,,,,,,,wfo-4000007067,,
-c1518faa-8fcc-11eb-924d-9cd76263cbd0,species,cordifolius,Caulotretus,,"Rich. ex DC.",1825,"Prodr. 2: 517 1825",,,,,485520-1,wfo-0000591230,3980735,
-c151f4f4-8fcc-11eb-924d-9cd76263cbd0,species,eriophorus,Caulotretus,,Ten.,1842,"Rendiconto Accad. Sci. Soc. Borbon. Napoli 1: 410 1842",,,,,485521-1,wfo-0000591231,3980733,
-78ee531c-8fc0-11eb-924d-9cd76263cbd0,species,heterophyllus,Caulotretus,,"(Kunth) Warb.",,,,,,7b11df1c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000166211,2953174,
-3c98bacc-8fc2-11eb-924d-9cd76263cbd0,species,smilacinus,Caulotretus,,Schott,,,,,,,,wfo-0000176288,2953385,
-b335217e-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Caulotretus,,"(Benth.) Cortés",1897,"Fl. Colombia 36 1897",,,,,50365-2,wfo-0001051035,3932265,
-de34224e-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Causonia,,"(Thunb.) Raf.",1838,"Sylva Tellur. 87 1838",,,,,,wfo-0001146073,7861287,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e153eb36-8fd1-11eb-924d-9cd76263cbd0,genus,Caulotretus,,,,,,,,,,,,,,wfo-4000007067,,,
+c1518faa-8fcc-11eb-924d-9cd76263cbd0,species,cordifolius,Caulotretus,,"Rich. ex DC.",,1825,,"Prodr. 2: 517 1825",,,,,,485520-1,wfo-0000591230,3980735,,
+c151f4f4-8fcc-11eb-924d-9cd76263cbd0,species,eriophorus,Caulotretus,,Ten.,,1842,,"Rendiconto Accad. Sci. Soc. Borbon. Napoli 1: 410 1842",,,,,,485521-1,wfo-0000591231,3980733,,
+78ee531c-8fc0-11eb-924d-9cd76263cbd0,species,heterophyllus,Caulotretus,,"(Kunth) Warb.",,,,,,,,7b11df1c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000166211,2953174,,
+3c98bacc-8fc2-11eb-924d-9cd76263cbd0,species,smilacinus,Caulotretus,,Schott,,,,,,,,,,,wfo-0000176288,2953385,,
+b335217e-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Caulotretus,,"(Benth.) Cortés",,1897,,"Fl. Colombia 36 1897",,,,,,50365-2,wfo-0001051035,3932265,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e03327a8-8fd1-11eb-924d-9cd76263cbd0,genus,Bernardinia,,,Planch.,1850,"Linnaea 23: 412. 1850.",,,,,,wfo-4000004495,7326584,
-b0bb6aee-8fcc-11eb-924d-9cd76263cbd0,species,agelaeoides,Bernardinia,,Schellenb.,1938,"Pflanzenr. IV, 127: 100 1938",,,,,31792-2,wfo-0000564398,5550282,
-b0bb8678-8fcc-11eb-924d-9cd76263cbd0,species,comans,Bernardinia,,"(Casar.) Schellenb.",1925,"Candollea 2: 103 1925",,,,daba8aa0-8fd1-11eb-924d-9cd76263cbd0,31793-2,wfo-0000564399,5550279,
-b0bba39c-8fcc-11eb-924d-9cd76263cbd0,species,fluminensis,Bernardinia,,"(Gardner) Planch.",1850,"Linnaea 23: 412 1850",,,,,264142-1,wfo-0000564400,7326593,
-b0bc2f9c-8fcc-11eb-924d-9cd76263cbd0,variety,villosa,Bernardinia,fluminensis,"(Schellenb.) Forero",1983,"Fl. Neotrop. Monogr. 36: 28 1983",,,,,921823-1,wfo-0000564401,5550274,
-b0bc5b7a-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Bernardinia,,Schellenb.,1925,"Candollea 2: 103 1925",,,,,31794-2,wfo-0000564402,5550271,
-b0bc7e98-8fcc-11eb-924d-9cd76263cbd0,species,suerrensis,Bernardinia,,Schellenb.,1938,"Pflanzenr. IV, 127: 103 1938",,,,,31797-2,wfo-0000564403,5550265,
-b0bca06c-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Bernardinia,,Schellenb.,1938,"Pflanzenr. IV, 127: 101 1938",,,,,31798-2,wfo-0000564404,5550260,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e03327a8-8fd1-11eb-924d-9cd76263cbd0,genus,Bernardinia,,,Planch.,,1850,,"Linnaea 23: 412. 1850.",,,,,,,wfo-4000004495,7326584,,
+b0bb6aee-8fcc-11eb-924d-9cd76263cbd0,species,agelaeoides,Bernardinia,,Schellenb.,,1938,,"Pflanzenr. IV, 127: 100 1938",,,,,,31792-2,wfo-0000564398,5550282,,
+b0bb8678-8fcc-11eb-924d-9cd76263cbd0,species,comans,Bernardinia,,"(Casar.) Schellenb.",,1925,,"Candollea 2: 103 1925",,,,daba8aa0-8fd1-11eb-924d-9cd76263cbd0,,31793-2,wfo-0000564399,5550279,,
+b0bba39c-8fcc-11eb-924d-9cd76263cbd0,species,fluminensis,Bernardinia,,"(Gardner) Planch.",,1850,,"Linnaea 23: 412 1850",,,,,,264142-1,wfo-0000564400,7326593,,
+b0bc2f9c-8fcc-11eb-924d-9cd76263cbd0,variety,villosa,Bernardinia,fluminensis,"(Schellenb.) Forero",,1983,,"Fl. Neotrop. Monogr. 36: 28 1983",,Q100888913,,,,921823-1,wfo-0000564401,5550274,,
+b0bc5b7a-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Bernardinia,,Schellenb.,,1925,,"Candollea 2: 103 1925",,,,,,31794-2,wfo-0000564402,5550271,,
+b0bc7e98-8fcc-11eb-924d-9cd76263cbd0,species,suerrensis,Bernardinia,,Schellenb.,,1938,,"Pflanzenr. IV, 127: 103 1938",,,,,,31797-2,wfo-0000564403,5550265,,
+b0bca06c-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Bernardinia,,Schellenb.,,1938,,"Pflanzenr. IV, 127: 101 1938",,,,,,31798-2,wfo-0000564404,5550260,,

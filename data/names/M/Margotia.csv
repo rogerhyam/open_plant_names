@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65e7902-8fd1-11eb-924d-9cd76263cbd0,genus,Margotia,,,Boiss.,1838,"Elench. Pl. Nov. 52. 1838.",,,,,,wfo-4000023152,6026565,
-33842200-8fcc-11eb-924d-9cd76263cbd0,species,gummifera,Margotia,,"(Desf.) Lange",1874,"Prodr. Fl. Hispan. 3: 25 1874",,,,,844893-1,wfo-0000373041,3631904,
-338402e8-8fcc-11eb-924d-9cd76263cbd0,species,laserpitioides,Margotia,,Boiss.,1838,"Elench. Pl. Nov. 52 1838",,,,,844894-1,wfo-0000373040,3631890,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65e7902-8fd1-11eb-924d-9cd76263cbd0,genus,Margotia,,,Boiss.,,1838,,"Elench. Pl. Nov. 52. 1838.",,,,,,,wfo-4000023152,6026565,,
+33842200-8fcc-11eb-924d-9cd76263cbd0,species,gummifera,Margotia,,"(Desf.) Lange",,1874,,"Prodr. Fl. Hispan. 3: 25 1874",,,,,,844893-1,wfo-0000373041,3631904,,
+338402e8-8fcc-11eb-924d-9cd76263cbd0,species,laserpitioides,Margotia,,Boiss.,,1838,,"Elench. Pl. Nov. 52 1838",,,,,,844894-1,wfo-0000373040,3631890,,

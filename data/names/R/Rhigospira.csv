@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e99c61e2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhigospira,,,Miers,1878,"Apocyn. S. Am. 67. 1878.",,,,,2548-1,wfo-4000032940,7316660,
-03ee2afe-8fcc-11eb-924d-9cd76263cbd0,species,paucifolia,Rhigospira,,"(Müll.Arg.) Miers",1878,"Apocyn. S. Amer. 69 1878",,,,1345c5b6-8fcc-11eb-924d-9cd76263cbd0,81715-1,wfo-0000296200,3615504,
-03ee4962-8fcc-11eb-924d-9cd76263cbd0,species,quadrangularis,Rhigospira,,"(Müll.Arg.) Miers",1878,"Apocyn. S. Amer. 68 1878",,,,,81716-1,wfo-0000296201,3615482,
-03ee6956-8fcc-11eb-924d-9cd76263cbd0,species,reticulata,Rhigospira,,"(A.DC.) Miers",1878,"Apocyn. S. Amer. 69 1878",,,,,81717-1,wfo-0000296202,3615465,
-03ee8904-8fcc-11eb-924d-9cd76263cbd0,species,sinuosa,Rhigospira,,Miers,1878,"Apocyn. S. Amer. 70 1878",,,,,81718-1,wfo-0000296203,3615447,
-03eeaa06-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Rhigospira,,"(Müll.Arg.) Miers",1878,"Apocyn. S. Amer. 70 1878",,,,,81719-1,wfo-0000296204,3615441,
-03eec540-8fcc-11eb-924d-9cd76263cbd0,species,ternstroemiacea,Rhigospira,,"(Müll.Arg.) Miers",1878,"Apocyn. S. Amer. 71 1878",,,,135bbac4-8fcc-11eb-924d-9cd76263cbd0,81720-1,wfo-0000296205,3615432,
-03eee796-8fcc-11eb-924d-9cd76263cbd0,species,venulosa,Rhigospira,,Miers,1878,"Apocyn. S. Amer. 68 1878",,,,,81721-1,wfo-0000296206,3615424,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e99c61e2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhigospira,,,Miers,,1878,,"Apocyn. S. Am. 67. 1878.",,,,,,2548-1,wfo-4000032940,7316660,,
+03ee2afe-8fcc-11eb-924d-9cd76263cbd0,species,paucifolia,Rhigospira,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 69 1878",,,,1345c5b6-8fcc-11eb-924d-9cd76263cbd0,,81715-1,wfo-0000296200,3615504,,
+03ee4962-8fcc-11eb-924d-9cd76263cbd0,species,quadrangularis,Rhigospira,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 68 1878",,,,,,81716-1,wfo-0000296201,3615482,,
+03ee6956-8fcc-11eb-924d-9cd76263cbd0,species,reticulata,Rhigospira,,"(A.DC.) Miers",,1878,,"Apocyn. S. Amer. 69 1878",,,,,,81717-1,wfo-0000296202,3615465,,
+03ee8904-8fcc-11eb-924d-9cd76263cbd0,species,sinuosa,Rhigospira,,Miers,,1878,,"Apocyn. S. Amer. 70 1878",,,,,,81718-1,wfo-0000296203,3615447,,
+03eeaa06-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Rhigospira,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 70 1878",,,,,,81719-1,wfo-0000296204,3615441,,
+03eec540-8fcc-11eb-924d-9cd76263cbd0,species,ternstroemiacea,Rhigospira,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 71 1878",,,,135bbac4-8fcc-11eb-924d-9cd76263cbd0,,81720-1,wfo-0000296205,3615432,,
+03eee796-8fcc-11eb-924d-9cd76263cbd0,species,venulosa,Rhigospira,,Miers,,1878,,"Apocyn. S. Amer. 68 1878",,,,,,81721-1,wfo-0000296206,3615424,,

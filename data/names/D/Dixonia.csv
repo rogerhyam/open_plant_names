@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2f50fec-8fd1-11eb-924d-9cd76263cbd0,genus,Dixonia,,,"Horik. & Ando",1964,"Nat. & Life Southe. Asia 3: 23. 1964.",,,,,,wfo-4000012302,11028236,
-fe1df59e-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Dixonia,,"(Mitt.) H.Akiy. & Tsubota",2004,"Bryol. Res. 2004",,,,,,wfo-0001212935,7813839,
-f1363094-8fcd-11eb-924d-9cd76263cbd0,species,thamnioides,Dixonia,,"(Broth. & Dixon) Horik. & Ando",1964,"Nat. & Life Southe. Asia 3: 23 1964",,,,ed5729c4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001186239,5282433,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2f50fec-8fd1-11eb-924d-9cd76263cbd0,genus,Dixonia,,,"Horik. & Ando",,1964,,"Nat. & Life Southe. Asia 3: 23. 1964.",,,,,,,wfo-4000012302,11028236,,
+fe1df59e-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Dixonia,,"(Mitt.) H.Akiy. & Tsubota",,2004,,"Bryol. Res. 2004",,,,,,,wfo-0001212935,7813839,,
+f1363094-8fcd-11eb-924d-9cd76263cbd0,species,thamnioides,Dixonia,,"(Broth. & Dixon) Horik. & Ando",,1964,,"Nat. & Life Southe. Asia 3: 23 1964",,,,ed5729c4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001186239,5282433,,

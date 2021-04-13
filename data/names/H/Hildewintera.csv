@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4bde8a8-8fd1-11eb-924d-9cd76263cbd0,genus,Hildewintera,,,F.Ritter,1966,"Kakteen And. Sukk. 17: 11. 1966.",,,,,,wfo-4000017910,7280694,
-0e2087be-8fcd-11eb-924d-9cd76263cbd0,species,aureispina,Hildewintera,,"(F.Ritter) F.Ritter ex G.D.Rowley",1968,"Regnum Veg. 54: 15 1968",,,,,1173801-2,wfo-0000723309,7767155,
-0e20af32-8fcd-11eb-924d-9cd76263cbd0,species,colademononis,Hildewintera,,"Diers & Krahn",2003,"Kakteen And. Sukk. 54: 221 2003",,,,,328151-2,wfo-0000723310,3945606,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4bde8a8-8fd1-11eb-924d-9cd76263cbd0,genus,Hildewintera,,,F.Ritter,,1966,,"Kakteen And. Sukk. 17: 11. 1966.",,,,,,,wfo-4000017910,7280694,,
+0e2087be-8fcd-11eb-924d-9cd76263cbd0,species,aureispina,Hildewintera,,"(F.Ritter) F.Ritter ex G.D.Rowley",,1968,,"Regnum Veg. 54: 15 1968",,,,,,1173801-2,wfo-0000723309,7767155,,
+0e20af32-8fcd-11eb-924d-9cd76263cbd0,species,colademononis,Hildewintera,,"Diers & Krahn",,2003,,"Kakteen And. Sukk. 54: 221 2003",,,,,,328151-2,wfo-0000723310,3945606,,

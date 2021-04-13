@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6ac6fc2-8fd1-11eb-924d-9cd76263cbd0,genus,Microcephalum,,,,,,,,,,,wfo-4000024069,7337310,
-83efa6a8-8fbb-11eb-924d-9cd76263cbd0,species,ehrenbergiana,Microcephalum,,"Sch.Bip. ex Klatt",1887,"90 1887",,,,,,wfo-0000134780,,
-c21c7f46-8fb6-11eb-924d-9cd76263cbd0,species,liebmannii,Microcephalum,,"Sch.Bip. ex Klatt",1887,"Leopoldina 23: 90 1887",,,,,,wfo-0000092854,3100102,
-fe9115a4-8fb1-11eb-924d-9cd76263cbd0,species,liebmannii,Microcephalum,,Sch.Bip.,1887,"in Leopoldina, Heft xxiii. (1887) 90. xxiii.  90 1887",,,,,232453-1,wfo-0000001735,8417295,
-3f5b34b4-8fb4-11eb-924d-9cd76263cbd0,species,sericeum,Microcephalum,,Sch.Bip.,1887,"in Leopoldina, Heft xxiii. (1887) 90. xxiii.  90 1887",,,,,232454-1,wfo-0000062159,4228958,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6ac6fc2-8fd1-11eb-924d-9cd76263cbd0,genus,Microcephalum,,,,,,,,,,,,,,wfo-4000024069,7337310,,
+83efa6a8-8fbb-11eb-924d-9cd76263cbd0,species,ehrenbergiana,Microcephalum,,"Sch.Bip. ex Klatt",,1887,,"90 1887",,,,,,,wfo-0000134780,,,
+fe9115a4-8fb1-11eb-924d-9cd76263cbd0,species,liebmannii,Microcephalum,,Sch.Bip.,,1887,,"in Leopoldina, Heft xxiii. (1887) 90. xxiii.  90 1887",,,,,,232453-1,wfo-0000001735,8417295,,
+c21c7f46-8fb6-11eb-924d-9cd76263cbd0,species,liebmannii,Microcephalum,,"Sch.Bip. ex Klatt",,1887,,"Leopoldina 23: 90 1887",,,,,,,wfo-0000092854,3100102,,
+3f5b34b4-8fb4-11eb-924d-9cd76263cbd0,species,sericeum,Microcephalum,,Sch.Bip.,,1887,,"in Leopoldina, Heft xxiii. (1887) 90. xxiii.  90 1887",,,,,,232454-1,wfo-0000062159,4228958,,

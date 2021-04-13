@@ -1,8 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e23b1952-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptoleptodon,,,"Renauld & Cardot",1899,"Bull. Soc. Roy. Bot. Belgique 38(1): 30. 1899.",,,,,,wfo-4000009896,2678143,
-eede824c-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Cryptoleptodon,,M.Fleisch.,1917,"Hedwigia 59: 212 1917",,,,,,wfo-0001181211,2678146,
-eede9d90-8fcd-11eb-924d-9cd76263cbd0,species,flexuosus,Cryptoleptodon,,"(Harv.) Renauld & Cardot",1900,"Bull. Soc. Roy. Bot. Belgique 38(1): 50 1900",,,,,,wfo-0001181212,8362477,
-f696a56e-8fcd-11eb-924d-9cd76263cbd0,species,longisetus,Cryptoleptodon,,"(Mont.) Enroth",1992,"J. Hattori Bot. Lab. 71: 76 1992",,,,e8c5c8a2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001197032,2678147,
-eedeb906-8fcd-11eb-924d-9cd76263cbd0,species,pluvinii,Cryptoleptodon,,"(Brid.) Broth.",1906,"Nat. Pflanzenfam. I(3): 838 1906",,,,e119e034-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001181213,2678145,
-eededbac-8fcd-11eb-924d-9cd76263cbd0,species,rigidulus,Cryptoleptodon,,"(Wilson ex Mitt.) Broth.",1906,"Nat. Pflanzenfam. I(3): 838 1906",,,,,,wfo-0001181214,2678144,
-d7a59724-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Cryptolluma,,"(Edgew.) Plowes",1995,"Haseltonia 3: 57 1995",,,,b44a2150-8fcc-11eb-924d-9cd76263cbd0,986773-1,wfo-0000628402,3571390,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e23b1952-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptoleptodon,,,"Renauld & Cardot",,1899,,"Bull. Soc. Roy. Bot. Belgique 38(1): 30. 1899.",,,,,,,wfo-4000009896,2678143,,
+eede824c-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Cryptoleptodon,,M.Fleisch.,,1917,,"Hedwigia 59: 212 1917",,,,,,,wfo-0001181211,2678146,,
+eede9d90-8fcd-11eb-924d-9cd76263cbd0,species,flexuosus,Cryptoleptodon,,"(Harv.) Renauld & Cardot",,1900,,"Bull. Soc. Roy. Bot. Belgique 38(1): 50 1900",,,,,,,wfo-0001181212,8362477,,
+f696a56e-8fcd-11eb-924d-9cd76263cbd0,species,longisetus,Cryptoleptodon,,"(Mont.) Enroth",,1992,,"J. Hattori Bot. Lab. 71: 76 1992",,,,e8c5c8a2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001197032,2678147,,
+eedeb906-8fcd-11eb-924d-9cd76263cbd0,species,pluvinii,Cryptoleptodon,,"(Brid.) Broth.",,1906,,"Nat. Pflanzenfam. I(3): 838 1906",,,,e119e034-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001181213,2678145,,
+eededbac-8fcd-11eb-924d-9cd76263cbd0,species,rigidulus,Cryptoleptodon,,"(Wilson ex Mitt.) Broth.",,1906,,"Nat. Pflanzenfam. I(3): 838 1906",,,,,,,wfo-0001181214,2678144,,

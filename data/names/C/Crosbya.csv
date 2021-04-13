@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e230a724-8fd1-11eb-924d-9cd76263cbd0,genus,Crosbya,,,Vitt,,"Canad. J. Bot. 55: 2080. 1977.",,,,,,wfo-4000009757,2669643,
-e917ea6a-8fcd-11eb-924d-9cd76263cbd0,species,nervosa,Crosbya,,"(Hook.f. & Wilson) Vitt",,"Canad. J. Bot. 55: 2081 1977",,,,,,wfo-0001169342,2669645,
-e91806f8-8fcd-11eb-924d-9cd76263cbd0,species,straminea,Crosbya,,"(Mitt. ex Beckett) Vitt",,"Canad. J. Bot. 55: 2082 1977",,,,deac35a4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001169343,2669644,
-e0777fca-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Crosperma,,"(Michx.) Raf.",1837,"Fl. Tellur. 2: 33 1837",,,,,533670-1,wfo-0000644189,2741743,
-e078b976-8fcc-11eb-924d-9cd76263cbd0,species,laeta,Crosperma,,"(Aiton) Raf.",1838,"Fl. Tellur. 4: 27 1838",,,,,533671-1,wfo-0000644199,2741545,
-e07a49b2-8fcc-11eb-924d-9cd76263cbd0,species,phalangioides,Crosperma,,"(Desr.) Raf.",1838,"Fl. Tellur. 4: 33 1838",,,,fa4e5b3a-8fcc-11eb-924d-9cd76263cbd0,533672-1,wfo-0000644210,2741544,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e230a724-8fd1-11eb-924d-9cd76263cbd0,genus,Crosbya,,,Vitt,,,,"Canad. J. Bot. 55: 2080. 1977.",,,,,,,wfo-4000009757,2669643,,
+e917ea6a-8fcd-11eb-924d-9cd76263cbd0,species,nervosa,Crosbya,,"(Hook.f. & Wilson) Vitt",,,,"Canad. J. Bot. 55: 2081 1977",,,,,,,wfo-0001169342,2669645,,
+e91806f8-8fcd-11eb-924d-9cd76263cbd0,species,straminea,Crosbya,,"(Mitt. ex Beckett) Vitt",,,,"Canad. J. Bot. 55: 2082 1977",,,,deac35a4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169343,2669644,,
+e0777fca-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Crosperma,,"(Michx.) Raf.",,1837,,"Fl. Tellur. 2: 33 1837",,,,,,533670-1,wfo-0000644189,2741743,,
+e078b976-8fcc-11eb-924d-9cd76263cbd0,species,laeta,Crosperma,,"(Aiton) Raf.",,1838,,"Fl. Tellur. 4: 27 1838",,,,,,533671-1,wfo-0000644199,2741545,,
+e07a49b2-8fcc-11eb-924d-9cd76263cbd0,species,phalangioides,Crosperma,,"(Desr.) Raf.",,1838,,"Fl. Tellur. 4: 33 1838",,,,fa4e5b3a-8fcc-11eb-924d-9cd76263cbd0,,533672-1,wfo-0000644210,2741544,,

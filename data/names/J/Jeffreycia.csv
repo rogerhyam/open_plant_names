@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec5c8a10-8fd1-11eb-924d-9cd76263cbd0,genus,Jeffreycia,,,"H.Rob., S.C.Keeley & Skvarla",2014,"PhytoKeys 39: 59 (2014)",,,,,77140771-1,wfo-4001303271,9551329,
-0cf6542c-8fcd-11eb-924d-9cd76263cbd0,species,jeffreyi,,,"(A.Henry) C.N.Page",1988,"Notes Roy. Bot. Gard. Edinburgh 45: 389 1988 publ. 1989",,,,14d83d22-8fcd-11eb-924d-9cd76263cbd0,946479-1,wfo-0000721253,,
-6f713a78-8fcc-11eb-924d-9cd76263cbd0,species,jeffreyi,,,"(A.Henry) Van Campo & Gaussen",1948,"Trav. Lab. Forest. Toulouse 1(4)24: 11 1948",,,,14d83d22-8fcd-11eb-924d-9cd76263cbd0,677233-1,wfo-0000456404,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec5c8a10-8fd1-11eb-924d-9cd76263cbd0,genus,Jeffreycia,,,"H.Rob., S.C.Keeley & Skvarla",,2014,,"PhytoKeys 39: 59 (2014)",,Q21192451,,,,77140771-1,wfo-4001303271,9551329,,
+0cf6542c-8fcd-11eb-924d-9cd76263cbd0,species,jeffreyi,,,"(A.Henry) C.N.Page",,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 389 1988 publ. 1989",,Q102419374,,14d83d22-8fcd-11eb-924d-9cd76263cbd0,,946479-1,wfo-0000721253,,,
+6f713a78-8fcc-11eb-924d-9cd76263cbd0,species,jeffreyi,,,"(A.Henry) Van Campo & Gaussen",,1948,,"Trav. Lab. Forest. Toulouse 1(4)24: 11 1948",,,,14d83d22-8fcd-11eb-924d-9cd76263cbd0,,677233-1,wfo-0000456404,,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e157fea6-8fd1-11eb-924d-9cd76263cbd0,genus,Cedronia,,,Cuatrec.,1951,"Revista Acad. Colomb. Ci. Exact. 8: 302. 1951.",,,,,,wfo-4000007115,7329648,
-c22b17a2-8fcc-11eb-924d-9cd76263cbd0,species,granatensis,Cedronia,,Cuatrec.,1951,"Revista Acad. Colomb. Ci. Exact. 8: 303 1951",,,,,51055-2,wfo-0000592517,3709301,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e157fea6-8fd1-11eb-924d-9cd76263cbd0,genus,Cedronia,,,Cuatrec.,,1951,,"Revista Acad. Colomb. Ci. Exact. 8: 302. 1951.",,,,,,,wfo-4000007115,7329648,,
+c22b17a2-8fcc-11eb-924d-9cd76263cbd0,species,granatensis,Cedronia,,Cuatrec.,,1951,,"Revista Acad. Colomb. Ci. Exact. 8: 303 1951",,,,,,51055-2,wfo-0000592517,3709301,,

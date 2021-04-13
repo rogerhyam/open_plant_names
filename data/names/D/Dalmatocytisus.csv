@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e277ed1e-8fd1-11eb-924d-9cd76263cbd0,genus,Dalmatocytisus,,,,,,,,,,,wfo-4000010689,7301157,
-dcae9f4a-8fcc-11eb-924d-9cd76263cbd0,species,dalmaticus,Dalmatocytisus,,"(Vis.) Trinajstić",2001,"Naturaliste Croat. 10: 85 2001",,,,,20009629-1,wfo-0000637213,3961084,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e277ed1e-8fd1-11eb-924d-9cd76263cbd0,genus,Dalmatocytisus,,,,,,,,,,,,,,wfo-4000010689,7301157,,
+dcae9f4a-8fcc-11eb-924d-9cd76263cbd0,species,dalmaticus,Dalmatocytisus,,"(Vis.) Trinajstić",,2001,,"Naturaliste Croat. 10: 85 2001",,,,,,20009629-1,wfo-0000637213,3961084,,

@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea36d0d8-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphostigma,,,M.Roem.,1846,"Fam. Nat. Syn. Monogr. 1: 80, 94. 1846.",,,,,,wfo-4000034881,7271340,
-ae1513b6-8fcd-11eb-924d-9cd76263cbd0,species,bennettii,Scyphostigma,,M.Roem.,,,,,,,,wfo-0001039343,,
-8c4e7660-8fcc-11eb-924d-9cd76263cbd0,species,philippinense,Scyphostigma,,M.Roem.,1846,"Fam. Nat. Syn. Monogr. 1: 94 1846",,,,,579225-1,wfo-0000504917,3850682,
-bd466fce-8fcd-11eb-924d-9cd76263cbd0,species,psittaconyx,Scyphostrychnos,,J.Duvign.,1948,"Mém. Acad. Roy. Sci. Belgique, Cl. Sci. (8vo) 34: 98, f. 1 1948",,,,,,wfo-0001074083,8347642,
-bd468d88-8fcd-11eb-924d-9cd76263cbd0,species,talbotii,Scyphostrychnos,,S.Moore,1913,"Cat. Pl. Oban 71, t. 10 1913",,,,,546904-1,wfo-0001074084,4019761,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea36d0d8-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphostigma,,,M.Roem.,,1846,,"Fam. Nat. Syn. Monogr. 1: 80, 94. 1846.",,,,,,,wfo-4000034881,7271340,,
+ae1513b6-8fcd-11eb-924d-9cd76263cbd0,species,bennettii,Scyphostigma,,M.Roem.,,,,,,,,,,,wfo-0001039343,,,
+8c4e7660-8fcc-11eb-924d-9cd76263cbd0,species,philippinense,Scyphostigma,,M.Roem.,,1846,,"Fam. Nat. Syn. Monogr. 1: 94 1846",,,,,,579225-1,wfo-0000504917,3850682,,

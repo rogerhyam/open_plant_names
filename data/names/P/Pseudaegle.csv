@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9127702-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudaegle,,,Miq.,1865,"Ann. Mus. Bot. Lugduno-Batavi 2: 83. 1865.",,,,,,wfo-4000031334,7269400,
-d320976c-8fd1-11eb-924d-9cd76263cbd0,species,sepiaria,Pseudaegle,,"(DC.) Miq.",,,,,,,,wfo-0001284050,3836259,
-77e62326-8fcc-11eb-924d-9cd76263cbd0,species,trifoliata,Pseudaegle,,Makino,1902,"Bot. Mag. (Tokyo) 16: 15 1902",,,,,774886-1,wfo-0000470393,3836244,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9127702-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudaegle,,,Miq.,,1865,,"Ann. Mus. Bot. Lugduno-Batavi 2: 83. 1865.",,,,,,,wfo-4000031334,7269400,,
+d320976c-8fd1-11eb-924d-9cd76263cbd0,species,sepiaria,Pseudaegle,,"(DC.) Miq.",,,,,,,,,,,wfo-0001284050,3836259,,
+77e62326-8fcc-11eb-924d-9cd76263cbd0,species,trifoliata,Pseudaegle,,Makino,,1902,,"Bot. Mag. (Tokyo) 16: 15 1902",,,,,,774886-1,wfo-0000470393,3836244,,

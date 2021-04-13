@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9ce2be-8fd1-11eb-924d-9cd76263cbd0,genus,Trioncinia,,,"(F.Muell.) Veldkamp",,,,,,,956978-1,wfo-4000039237,3147441,
-2acd0972-8fb5-11eb-924d-9cd76263cbd0,species,retroflexa,Trioncinia,,"(F.Muell.) Veldkamp",1991,1991,,,,b19d1e96-8fbb-11eb-924d-9cd76263cbd0,168828-3,wfo-0000074719,3147442,
-6719f230-8fcb-11eb-924d-9cd76263cbd0,species,trionophthalma,,,"(Rchb.f.) Rolfe",1889,"Gard. Chron. 1889(1): 802 1889",,,,,639804-1,wfo-0000222249,,
-becd4084-8fcd-11eb-924d-9cd76263cbd0,species,annuum,Trionum,,Medik.,1787,"Malvenfam. 47 1787",,,,,,wfo-0001077387,3933075,
-6f2bd050-8fcc-11eb-924d-9cd76263cbd0,species,cordifolium,Trionum,,Moench,1802,"Suppl. Meth. 202 1802",,,,,564727-1,wfo-0000455932,3933088,
-6f311858-8fcc-11eb-924d-9cd76263cbd0,species,diffusum,Trionum,,Moench,1794,"Methodus 618 1794",,,,,564728-1,wfo-0000455966,3933102,
-6f3665c4-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Trionum,,Medik.,1787,"Malvenfam. 47 1787",,,,,564729-1,wfo-0000456004,3933116,
-6f364bd4-8fcc-11eb-924d-9cd76263cbd0,species,trionum,Trionum,,"Wooton & Standl.",1915,"Contr. U. S. Natl. Herb. 19: 417 1915",,,,,258516-2,wfo-0000456003,3152561,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9ce2be-8fd1-11eb-924d-9cd76263cbd0,genus,Trioncinia,,,"(F.Muell.) Veldkamp",,,,,,Q96032814,,,,956978-1,wfo-4000039237,3147441,,
+2acd0972-8fb5-11eb-924d-9cd76263cbd0,species,retroflexa,Trioncinia,,"(F.Muell.) Veldkamp",,1991,,1991,,,,b19d1e96-8fbb-11eb-924d-9cd76263cbd0,,168828-3,wfo-0000074719,3147442,,
+6719f230-8fcb-11eb-924d-9cd76263cbd0,species,trionophthalma,,,"(Rchb.f.) Rolfe",,1889,,"Gard. Chron. 1889(1): 802 1889",,,,,,639804-1,wfo-0000222249,,,
+becd4084-8fcd-11eb-924d-9cd76263cbd0,species,annuum,Trionum,,Medik.,,1787,,"Malvenfam. 47 1787",,,,,,,wfo-0001077387,3933075,,
+6f2bd050-8fcc-11eb-924d-9cd76263cbd0,species,cordifolium,Trionum,,Moench,,1802,,"Suppl. Meth. 202 1802",,,,,,564727-1,wfo-0000455932,3933088,,
+6f311858-8fcc-11eb-924d-9cd76263cbd0,species,diffusum,Trionum,,Moench,,1794,,"Methodus 618 1794",,,,,,564728-1,wfo-0000455966,3933102,,
+6f3665c4-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Trionum,,Medik.,,1787,,"Malvenfam. 47 1787",,,,,,564729-1,wfo-0000456004,3933116,,
+6f364bd4-8fcc-11eb-924d-9cd76263cbd0,species,trionum,Trionum,,"Wooton & Standl.",,1915,,"Contr. U. S. Natl. Herb. 19: 417 1915",,Q95371184,,,,258516-2,wfo-0000456003,3152561,,

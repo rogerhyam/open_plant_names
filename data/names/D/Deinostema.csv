@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28d3534-8fd1-11eb-924d-9cd76263cbd0,genus,Deinostema,,,T.Yamaz.,1953,"J. Jap. Bot. 28: 131. 1953.",,,,,37579-1,wfo-4000010989,7331762,
-ddd9d7b8-8fcc-11eb-924d-9cd76263cbd0,species,adenocaula,Deinostema,,"(Maxim.) T.Yamaz.",1953,"J. Jap. Bot. 28: 132 1953",,,,052d82d8-8fcd-11eb-924d-9cd76263cbd0,801875-1,wfo-0000639397,,
-ddda2b0a-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Deinostema,,"(Maxim.) T.Yamaz.",1953,"J. Jap. Bot. 28: 132 1953",,,,054643a4-8fcd-11eb-924d-9cd76263cbd0,801876-1,wfo-0000639398,3726128,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28d3534-8fd1-11eb-924d-9cd76263cbd0,genus,Deinostema,,,T.Yamaz.,,1953,,"J. Jap. Bot. 28: 131. 1953.",,Q104822906,,,,37579-1,wfo-4000010989,7331762,,
+ddd9d7b8-8fcc-11eb-924d-9cd76263cbd0,species,adenocaula,Deinostema,,"(Maxim.) T.Yamaz.",,1953,,"J. Jap. Bot. 28: 132 1953",,Q104822906,,052d82d8-8fcd-11eb-924d-9cd76263cbd0,,801875-1,wfo-0000639397,,,
+ddda2b0a-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Deinostema,,"(Maxim.) T.Yamaz.",,1953,,"J. Jap. Bot. 28: 132 1953",,Q104822906,,054643a4-8fcd-11eb-924d-9cd76263cbd0,,801876-1,wfo-0000639398,3726128,,

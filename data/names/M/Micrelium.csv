@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6aa796a-8fd1-11eb-924d-9cd76263cbd0,genus,Micrelium,,,,,,,,,,,wfo-4000024045,7337313,
-6c742d32-8fb6-11eb-924d-9cd76263cbd0,species,asteroides,Micrelium,,Forssk.,1775,"Fl. Aegypt.-Arab. 153 (1775)",,,,,232442-1,wfo-0000089314,4229058,
-899c8048-8fb2-11eb-924d-9cd76263cbd0,species,tolak,Micrelium,,Forssk.,1775,"Fl. Aegypt.-Arab. 153 (1775)",,,,,232443-1,wfo-0000027448,6298926,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6aa796a-8fd1-11eb-924d-9cd76263cbd0,genus,Micrelium,,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 152 (1775)",,Q5862701,,,,10030-1,wfo-4000024045,7337313,,
+6c742d32-8fb6-11eb-924d-9cd76263cbd0,species,asteroides,Micrelium,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 153 (1775)",,Q5862701,,,,232442-1,wfo-0000089314,4229058,,
+899c8048-8fb2-11eb-924d-9cd76263cbd0,species,tolak,Micrelium,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 153 (1775)",,Q5862701,,,,232443-1,wfo-0000027448,6298926,,

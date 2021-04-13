@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e192e4c6-8fd1-11eb-924d-9cd76263cbd0,genus,Chelonespermum,,,Hemsl.,1892,"Ann. Bot. (Oxford) 6: 205. 1892.",,,,,,wfo-4000007802,7333503,
-46ad0288-8fcd-11eb-924d-9cd76263cbd0,species,banikiense,Chelonespermum,,P.Royen,1959,"Nova Guinea n.s., 10: 140 1959",,,,,786249-1,wfo-0000842236,2887346,
-46ae3284-8fcd-11eb-924d-9cd76263cbd0,species,fijiense,Chelonespermum,,Hemsl.,1892,"Ann. Bot. (Oxford) 6: 207 1892",,,,,786250-1,wfo-0000842247,2887296,
-46af4192-8fcd-11eb-924d-9cd76263cbd0,species,majus,Chelonespermum,,Hemsl.,1892,"Ann. Bot. (Oxford) 6: 206 1892",,,,,786251-1,wfo-0000842257,4014376,
-46b070c6-8fcd-11eb-924d-9cd76263cbd0,species,minus,Chelonespermum,,Hemsl.,1892,"Ann. Bot. (Oxford) 6: 207 1892",,,,,786252-1,wfo-0000842268,4014373,
-46b19c12-8fcd-11eb-924d-9cd76263cbd0,species,unguiculatum,Chelonespermum,,Hemsl.,1892,"Ann. Bot. (Oxford) 6: 207 1892",,,,,786253-1,wfo-0000842279,4014371,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e192e4c6-8fd1-11eb-924d-9cd76263cbd0,genus,Chelonespermum,,,Hemsl.,,1892,,"Ann. Bot. (Oxford) 6: 205. 1892.",,,,,,,wfo-4000007802,7333503,,
+46ad0288-8fcd-11eb-924d-9cd76263cbd0,species,banikiense,Chelonespermum,,P.Royen,,1959,,"Nova Guinea n.s., 10: 140 1959",,,,,,786249-1,wfo-0000842236,2887346,,
+46ae3284-8fcd-11eb-924d-9cd76263cbd0,species,fijiense,Chelonespermum,,Hemsl.,,1892,,"Ann. Bot. (Oxford) 6: 207 1892",,,,,,786250-1,wfo-0000842247,2887296,,
+46af4192-8fcd-11eb-924d-9cd76263cbd0,species,majus,Chelonespermum,,Hemsl.,,1892,,"Ann. Bot. (Oxford) 6: 206 1892",,,,,,786251-1,wfo-0000842257,4014376,,
+46b070c6-8fcd-11eb-924d-9cd76263cbd0,species,minus,Chelonespermum,,Hemsl.,,1892,,"Ann. Bot. (Oxford) 6: 207 1892",,,,,,786252-1,wfo-0000842268,4014373,,
+46b19c12-8fcd-11eb-924d-9cd76263cbd0,species,unguiculatum,Chelonespermum,,Hemsl.,,1892,,"Ann. Bot. (Oxford) 6: 207 1892",,,,,,786253-1,wfo-0000842279,4014371,,

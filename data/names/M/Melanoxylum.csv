@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6854762-8fd1-11eb-924d-9cd76263cbd0,genus,Melanoxylum,,,Schott,,,,,,,22910-1,wfo-4000023602,7278535,
-36d64622-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Melanoxylum,,Ducke,1932,"Trop. Woods 31: 15 1932",,,,,156291-2,wfo-0000378434,3932258,
-36d6f202-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Melanoxylum,,Benoist,1920,"Bull. Mus. Natl. Hist. Nat. 26: 87 1920",,,,,310319-2,wfo-0000378435,3932250,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6854762-8fd1-11eb-924d-9cd76263cbd0,genus,Melanoxylum,,,Schott,,,,,,,,,,22910-1,wfo-4000023602,7278535,,
+36d64622-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Melanoxylum,,Ducke,,1932,,"Trop. Woods 31: 15 1932",,,,,,156291-2,wfo-0000378434,3932258,,
+36d6f202-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Melanoxylum,,Benoist,,1920,,"Bull. Mus. Natl. Hist. Nat. 26: 87 1920",,,,,,310319-2,wfo-0000378435,3932250,,

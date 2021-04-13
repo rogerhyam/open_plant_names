@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d32e66-8fd1-11eb-924d-9cd76263cbd0,genus,Homalodiscus,,,"Bunge ex Boiss.",1867,"Fl. Orient. 1: 422. 1867.",,,,,,wfo-4000018159,7275986,
-0eb7e172-8fcd-11eb-924d-9cd76263cbd0,species,aucheri,Homalodiscus,,Boiss.,1867,"Fl. Orient. 1: 422 1867",,,,,715378-1,wfo-0000724414,5614675,
-0eb7fee6-8fcd-11eb-924d-9cd76263cbd0,species,major,Homalodiscus,,"Bunge ex Boiss.",1867,"Fl. Orient. 1: 423 1867",,,,,715379-1,wfo-0000724415,5614674,
-0eb81b92-8fcd-11eb-924d-9cd76263cbd0,species,minor,Homalodiscus,,"Bunge ex Boiss.",1867,"Fl. Orient. 1: 423 1867",,,,,715380-1,wfo-0000724416,5614672,
-d7099260-8fcd-11eb-924d-9cd76263cbd0,species,ochradeni,Homalodiscus,,"(Boiss.) Boiss.",1867,"Fl. Orient. 1: 422 1867",,,,d709acd2-8fcd-11eb-924d-9cd76263cbd0,715381-1,wfo-0001130684,5614671,
-fd9c7ba4-8fcd-11eb-924d-9cd76263cbd0,species,corcovadensis,Homalolejeunea,,Stephani,1896,"Hedwigia 35: 78 1896",,,,,,wfo-0001211814,7418810,
-fd8bbff8-8fcd-11eb-924d-9cd76263cbd0,species,extensa,Homalolejeunea,,Stephani,1896,"Hedwigia 35: 99 1896",,,,,,wfo-0001211673,8092400,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d32e66-8fd1-11eb-924d-9cd76263cbd0,genus,Homalodiscus,,,"Bunge ex Boiss.",,1867,,"Fl. Orient. 1: 422. 1867.",,,,,,,wfo-4000018159,7275986,,
+0eb7e172-8fcd-11eb-924d-9cd76263cbd0,species,aucheri,Homalodiscus,,Boiss.,,1867,,"Fl. Orient. 1: 422 1867",,,,,,715378-1,wfo-0000724414,5614675,,
+0eb7fee6-8fcd-11eb-924d-9cd76263cbd0,species,major,Homalodiscus,,"Bunge ex Boiss.",,1867,,"Fl. Orient. 1: 423 1867",,,,,,715379-1,wfo-0000724415,5614674,,
+0eb81b92-8fcd-11eb-924d-9cd76263cbd0,species,minor,Homalodiscus,,"Bunge ex Boiss.",,1867,,"Fl. Orient. 1: 423 1867",,,,,,715380-1,wfo-0000724416,5614672,,
+d7099260-8fcd-11eb-924d-9cd76263cbd0,species,ochradeni,Homalodiscus,,"(Boiss.) Boiss.",,1867,,"Fl. Orient. 1: 422 1867",,,,d709acd2-8fcd-11eb-924d-9cd76263cbd0,,715381-1,wfo-0001130684,5614671,,
+fd9c7ba4-8fcd-11eb-924d-9cd76263cbd0,species,corcovadensis,Homalolejeunea,,Stephani,,1896,,"Hedwigia 35: 78 1896",,,,,,,wfo-0001211814,7418810,,
+fd8bbff8-8fcd-11eb-924d-9cd76263cbd0,species,extensa,Homalolejeunea,,Stephani,,1896,,"Hedwigia 35: 99 1896",,,,,,,wfo-0001211673,8092400,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32f1c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Edithea,,,Standl.,1933,"Trop. Woods 34: 1. 1933. (1 Jun 1933)",,,,,,wfo-4000013025,2899732,
-8283bcac-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Edithea,,Standl.,1933,"Trop. Woods 34: 2 1933",,,,,88812-2,wfo-0000947922,2904991,
-1c9323d4-8fcc-11eb-924d-9cd76263cbd0,species,miahuatlanica,Edithea,,"(Lorence) Borhidi",2004,"Acta Bot. Hung. 46: 88 2004",,,,,60435766-2,wfo-0000336143,2905001,
-35a2066e-8fcd-11eb-924d-9cd76263cbd0,species,schiblii,Edithea,,"Borhidi, Saynes & K.Velasco",2005,"Acta Bot. Hung. 47: 45 2005",,,,,77073409-1,wfo-0000805729,3849377,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32f1c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Edithea,,,Standl.,,1933,,"Trop. Woods 34: 1. 1933. (1 Jun 1933)",,,,,,,wfo-4000013025,2899732,,
+8283bcac-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Edithea,,Standl.,,1933,,"Trop. Woods 34: 2 1933",,,,,,88812-2,wfo-0000947922,2904991,,
+1c9323d4-8fcc-11eb-924d-9cd76263cbd0,species,miahuatlanica,Edithea,,"(Lorence) Borhidi",,2004,,"Acta Bot. Hung. 46: 88 2004",,Q55763026,,,,60435766-2,wfo-0000336143,2905001,,
+35a2066e-8fcd-11eb-924d-9cd76263cbd0,species,schiblii,Edithea,,"Borhidi, Saynes & K.Velasco",,2005,,"Acta Bot. Hung. 47: 45 2005",,Q55763036,,,,77073409-1,wfo-0000805729,3849377,,

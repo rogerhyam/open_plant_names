@@ -1,10 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e72f1d28-8fd1-11eb-924d-9cd76263cbd0,genus,Neolamarckia,,,Bosser,1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 6(3): 247. 1984.",,,,,893396-1,wfo-4000025733,2896883,
-e6e33166-8fcb-11eb-924d-9cd76263cbd0,species,cadamba,Neolamarckia,,"(Roxb.) Bosser",1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 247 1984",,,,e684f1dc-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000250146,11066951,
-e6e36a6e-8fcb-11eb-924d-9cd76263cbd0,species,macrophylla,Neolamarckia,,"(Roxb.) Bosser",1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 248 1984",,,,,,wfo-0000250148,2896884,
-e6e3877e-8fcb-11eb-924d-9cd76263cbd0,species,pulchella,Neolauchea,,Kraenzl.,1897,"Bull. Herb. Boissier 5: 110 1897",,,,,168593-2,wfo-0000250149,2835852,
-e6e3a448-8fcb-11eb-924d-9cd76263cbd0,species,apiculata,Neolaugeria,,"(Britton & Standl.) Nicolson",1979,"Brittonia 31: 120 1979",,,,,168594-2,wfo-0000250150,2896948,
-e6e3bee2-8fcb-11eb-924d-9cd76263cbd0,species,densiflora,Neolaugeria,,"(C.Wright ex Griseb.) Nicolson",1979,"Brittonia 31: 121 1979",,,,,168595-2,wfo-0000250151,2897053,
-e6e3dbac-8fcb-11eb-924d-9cd76263cbd0,species,hotteana,Neolaugeria,,"(Urb. & Ekman) Borhidi",1992,"Acta Bot. Hung. 37: 85 1992",,,,,977157-1,wfo-0000250152,2896949,
-e6e3f6fa-8fcb-11eb-924d-9cd76263cbd0,species,lineolata,Neolaugeria,,"(Urb.) Borhidi",1992,"Acta Bot. Hung. 37: 85 1992",,,,,977158-1,wfo-0000250153,2896951,
-e6e4114e-8fcb-11eb-924d-9cd76263cbd0,species,resinosa,Neolaugeria,,"(Vahl) Nicolson",1979,"Brittonia 31: 121 1979",,,,d1c0280c-8fcb-11eb-924d-9cd76263cbd0,168596-2,wfo-0000250154,2896971,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e72f1d28-8fd1-11eb-924d-9cd76263cbd0,genus,Neolamarckia,,,Bosser,,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 6(3): 247. 1984.",,,,,,893396-1,wfo-4000025733,2896883,,
+e6e33166-8fcb-11eb-924d-9cd76263cbd0,species,cadamba,Neolamarckia,,"(Roxb.) Bosser",,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 247 1984",,,,e684f1dc-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000250146,11066951,,
+e6e36a6e-8fcb-11eb-924d-9cd76263cbd0,species,macrophylla,Neolamarckia,,"(Roxb.) Bosser",,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 248 1984",,,,,,,wfo-0000250148,2896884,,

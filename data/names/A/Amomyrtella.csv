@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df385e4a-8fd1-11eb-924d-9cd76263cbd0,genus,Amomyrtella,,,Kausel,1956,"Ark. Bot., n.s. 3: 514. 1956.",,,,,296625-2,wfo-4000001645,3187840,
-8932892a-8fcd-11eb-924d-9cd76263cbd0,species,guilii,Amomyrtella,,"(Speg.) Kausel",1956,"Ark. Bot. a.s., 3: 515 1956",,,,86cce428-8fcd-11eb-924d-9cd76263cbd0,11396-2,wfo-0000962838,,
-7549ac7c-8fcd-11eb-924d-9cd76263cbd0,species,irregularis,Amomyrtella,,"(McVaugh) Landrum & Morocho",2011,"J. Bot. Res. Inst. Texas 5: 105 2011",,,,e5b1aa3e-8fcb-11eb-924d-9cd76263cbd0,60456703-2,wfo-0000921227,7530871,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df385e4a-8fd1-11eb-924d-9cd76263cbd0,genus,Amomyrtella,,,Kausel,,1956,,"Ark. Bot., n.s. 3: 514. 1956.",,,,,,296625-2,wfo-4000001645,3187840,,
+8932892a-8fcd-11eb-924d-9cd76263cbd0,species,guilii,Amomyrtella,,"(Speg.) Kausel",,1956,,"Ark. Bot. a.s., 3: 515 1956",,,,86cce428-8fcd-11eb-924d-9cd76263cbd0,,11396-2,wfo-0000962838,,,
+7549ac7c-8fcd-11eb-924d-9cd76263cbd0,species,irregularis,Amomyrtella,,"(McVaugh) Landrum & Morocho",,2011,,"J. Bot. Res. Inst. Texas 5: 105 2011",,Q99432412,,e5b1aa3e-8fcb-11eb-924d-9cd76263cbd0,,60456703-2,wfo-0000921227,7530871,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df979e0a-8fd1-11eb-924d-9cd76263cbd0,genus,Aphanocarpus,,,Steyerm.,1965,"Mem. New York Bot. Gard. 12(3): 263. 1965.",,,,,297000-2,wfo-4000002619,2911886,
-e2c10086-8fcb-11eb-924d-9cd76263cbd0,species,steyermarkii,Aphanocarpus,,"(Standl.) Steyerm.",1965,"Mem. New York Bot. Gard. 12(3): 264 1965",,,,,15944-2,wfo-0000242915,2911887,
-e2c2da3c-8fcb-11eb-924d-9cd76263cbd0,form,elongatus,Aphanocarpus,steyermarkii,Steyerm.,1984,"Ann. Missouri Bot. Gard. 71: 331 1984",,,,,272424-2,wfo-0000242925,2911888,
-e2c441ce-8fcb-11eb-924d-9cd76263cbd0,form,glabrior,Aphanocarpus,steyermarkii,Steyerm.,1984,"Ann. Missouri Bot. Gard. 71: 330 1984",,,,,272425-2,wfo-0000242934,2911889,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df979e0a-8fd1-11eb-924d-9cd76263cbd0,genus,Aphanocarpus,,,Steyerm.,,1965,,"Mem. New York Bot. Gard. 12(3): 263. 1965.",,,,,,297000-2,wfo-4000002619,2911886,,
+e2c10086-8fcb-11eb-924d-9cd76263cbd0,species,steyermarkii,Aphanocarpus,,"(Standl.) Steyerm.",,1965,,"Mem. New York Bot. Gard. 12(3): 264 1965",,,,,,15944-2,wfo-0000242915,2911887,,
+e2c2da3c-8fcb-11eb-924d-9cd76263cbd0,form,elongatus,Aphanocarpus,steyermarkii,Steyerm.,,1984,,"Ann. Missouri Bot. Gard. 71: 331 1984",,Q55765009,,,,272424-2,wfo-0000242925,2911888,,
+e2c441ce-8fcb-11eb-924d-9cd76263cbd0,form,glabrior,Aphanocarpus,steyermarkii,Steyerm.,,1984,,"Ann. Missouri Bot. Gard. 71: 330 1984",,Q55765009,,,,272425-2,wfo-0000242934,2911889,,

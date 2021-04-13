@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1dc282a-8fd1-11eb-924d-9cd76263cbd0,genus,Coccochondra,,,Rauschert,1982,"Taxon 31(3): 561. 1982.",,,,,893533-1,wfo-4000008716,2924379,
-76dc9c84-8fcd-11eb-924d-9cd76263cbd0,species,carrenoi,Coccochondra,,"(Steyerm.) C.M.Taylor",2011,"Pl. Ecol. Evol. 144: 118 2011",,,,,77111220-1,wfo-0000923223,7421444,
-76dc7e02-8fcd-11eb-924d-9cd76263cbd0,species,durifolia,Coccochondra,,"(Standl.) C.M.Taylor",2011,"Pl. Ecol. Evol. 144: 118 2011",,,,,77111221-1,wfo-0000923222,7769875,
-633c2f82-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Coccochondra,,"(Steyerm.) Rauschert",1982,"Taxon 31: 561 1982",,,,4a83732e-8fcd-11eb-924d-9cd76263cbd0,910435-1,wfo-0000899696,2924380,
-76dc5e2c-8fcd-11eb-924d-9cd76263cbd0,species,phelpsiana,Coccochondra,,"(Steyerm.) C.M.Taylor",2011,"Pl. Ecol. Evol. 144: 118 2011",,,,fe4b165c-8fcb-11eb-924d-9cd76263cbd0,77111222-1,wfo-0000923221,7922667,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1dc282a-8fd1-11eb-924d-9cd76263cbd0,genus,Coccochondra,,,Rauschert,,1982,,"Taxon 31(3): 561. 1982.",,Q28955334,,,,893533-1,wfo-4000008716,2924379,,
+76dc9c84-8fcd-11eb-924d-9cd76263cbd0,species,carrenoi,Coccochondra,,"(Steyerm.) C.M.Taylor",,2011,,"Pl. Ecol. Evol. 144: 118 2011",,Q55798481,,,,77111220-1,wfo-0000923223,7421444,,
+76dc7e02-8fcd-11eb-924d-9cd76263cbd0,species,durifolia,Coccochondra,,"(Standl.) C.M.Taylor",,2011,,"Pl. Ecol. Evol. 144: 118 2011",,Q55798481,,,,77111221-1,wfo-0000923222,7769875,,
+633c2f82-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Coccochondra,,"(Steyerm.) Rauschert",,1982,,"Taxon 31: 561 1982",,Q28955334,,4a83732e-8fcd-11eb-924d-9cd76263cbd0,,910435-1,wfo-0000899696,2924380,,
+76dc5e2c-8fcd-11eb-924d-9cd76263cbd0,species,phelpsiana,Coccochondra,,"(Steyerm.) C.M.Taylor",,2011,,"Pl. Ecol. Evol. 144: 118 2011",,Q55798481,,fe4b165c-8fcb-11eb-924d-9cd76263cbd0,,77111222-1,wfo-0000923221,7922667,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eab5e17a-8fd1-11eb-924d-9cd76263cbd0,genus,Steenisia,,,Bakh.f.,1952,"Webbia 8: 381. 1952.",,,,,35386-1,wfo-4000036333,4938047,
-0fefeb6c-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Steenisia,,"(Valeton) Bakh.f.",1952,"Webbia 8: 382 1952",,,,,767106-1,wfo-0000315247,2895851,
-0ff00f34-8fcc-11eb-924d-9cd76263cbd0,species,corollina,Steenisia,,"(Valeton) Bakh.f.",1952,"Webbia 8: 382 1952",,,,,767107-1,wfo-0000315248,2895864,
-0ff02b40-8fcc-11eb-924d-9cd76263cbd0,species,elata,Steenisia,,"(Valeton) Bakh.f.",1952,"Webbia 8: 382 1952",,,,,767108-1,wfo-0000315249,2895860,
-0ff0463e-8fcc-11eb-924d-9cd76263cbd0,species,pleurocarpa,Steenisia,,"(Airy Shaw) Bakh.f.",1952,"Webbia 8: 382 1952",,,,,767109-1,wfo-0000315250,2895849,
-b0062a84-8fcd-11eb-924d-9cd76263cbd0,variety,malayana,Steenisia,pleurocarpa,"(T.Yamaz.) K.M.Wong",2011,"Gard. Bull. Singapore 62(2): 310 2011",,,,e502e404-8fcb-11eb-924d-9cd76263cbd0,,wfo-0001043738,7942022,
-0ff06326-8fcc-11eb-924d-9cd76263cbd0,species,pterosepala,Steenisia,,"(Airy Shaw) Bakh.f.",1952,"Webbia 8: 382 1952",,,,,767110-1,wfo-0000315251,2895862,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eab5e17a-8fd1-11eb-924d-9cd76263cbd0,genus,Steenisia,,,Bakh.f.,,1952,,"Webbia 8: 381. 1952.",,,,,,35386-1,wfo-4000036333,4938047,,
+0fefeb6c-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Steenisia,,"(Valeton) Bakh.f.",,1952,,"Webbia 8: 382 1952",,,,,,767106-1,wfo-0000315247,2895851,,
+0ff00f34-8fcc-11eb-924d-9cd76263cbd0,species,corollina,Steenisia,,"(Valeton) Bakh.f.",,1952,,"Webbia 8: 382 1952",,,,,,767107-1,wfo-0000315248,2895864,,
+0ff02b40-8fcc-11eb-924d-9cd76263cbd0,species,elata,Steenisia,,"(Valeton) Bakh.f.",,1952,,"Webbia 8: 382 1952",,,,,,767108-1,wfo-0000315249,2895860,,
+0ff0463e-8fcc-11eb-924d-9cd76263cbd0,species,pleurocarpa,Steenisia,,"(Airy Shaw) Bakh.f.",,1952,,"Webbia 8: 382 1952",,,,,,767109-1,wfo-0000315250,2895849,,
+b0062a84-8fcd-11eb-924d-9cd76263cbd0,variety,malayana,Steenisia,pleurocarpa,"(T.Yamaz.) K.M.Wong",,2011,,"Gard. Bull. Singapore 62(2): 310 2011",,,,e502e404-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001043738,7942022,,
+0ff06326-8fcc-11eb-924d-9cd76263cbd0,species,pterosepala,Steenisia,,"(Airy Shaw) Bakh.f.",,1952,,"Webbia 8: 382 1952",,,,,,767110-1,wfo-0000315251,2895862,,

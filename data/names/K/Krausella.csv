@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e570b082-8fd1-11eb-924d-9cd76263cbd0,genus,Krausella,,,H.J.Lam,1931,"Nova Guinea 14: 566. 1931.",,,,,,wfo-4000020220,2883688,
-3b95ea60-8fcb-11eb-924d-9cd76263cbd0,species,forbesii,Krausella,,"(S.Moore) H.J.Lam",1943,"Boissiera 7: 92 1943",,,,,787123-1,wfo-0000221464,5334122,
-3ba44718-8fcb-11eb-924d-9cd76263cbd0,species,patentinervia,Krausella,,"(K.Krause) Erlee",1957,"Blumea 8: 448 1957",,,,,787124-1,wfo-0000221465,5333595,
-3bb41e2c-8fcb-11eb-924d-9cd76263cbd0,species,polyneura,Krausella,,"(K.Krause) H.J.Lam",1932,"Nova Guinea 14: 567 1932",,,,,787125-1,wfo-0000221466,5333626,
-3bc33506-8fcb-11eb-924d-9cd76263cbd0,species,schlechteri,Krausella,,"(K.Krause) H.J.Lam",1932,"Nova Guinea 14: 567 1932",,,,,787126-1,wfo-0000221467,5333575,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e570b082-8fd1-11eb-924d-9cd76263cbd0,genus,Krausella,,,H.J.Lam,,1931,,"Nova Guinea 14: 566. 1931.",,,,,,,wfo-4000020220,2883688,,
+3b95ea60-8fcb-11eb-924d-9cd76263cbd0,species,forbesii,Krausella,,"(S.Moore) H.J.Lam",,1943,,"Boissiera 7: 92 1943",,,,,,787123-1,wfo-0000221464,5334122,,
+3ba44718-8fcb-11eb-924d-9cd76263cbd0,species,patentinervia,Krausella,,"(K.Krause) Erlee",,1957,,"Blumea 8: 448 1957",,Q96029003,,,,787124-1,wfo-0000221465,5333595,,
+3bb41e2c-8fcb-11eb-924d-9cd76263cbd0,species,polyneura,Krausella,,"(K.Krause) H.J.Lam",,1932,,"Nova Guinea 14: 567 1932",,,,,,787125-1,wfo-0000221466,5333626,,
+3bc33506-8fcb-11eb-924d-9cd76263cbd0,species,schlechteri,Krausella,,"(K.Krause) H.J.Lam",,1932,,"Nova Guinea 14: 567 1932",,,,,,787126-1,wfo-0000221467,5333575,,

@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e03e4138-8fd1-11eb-924d-9cd76263cbd0,genus,Birostula,,,Raf.,1840,"Good Book 59. 1840.",,,,,,wfo-4000004665,6026368,
-b19b4254-8fcc-11eb-924d-9cd76263cbd0,species,pinnatifida,Birostula,,"(Vent.) Raf.",1840,"Good Book 59 1840",,,,ad7a34b4-8fd1-11eb-924d-9cd76263cbd0,838721-1,wfo-0000565602,3629527,
-b19b5f8c-8fcc-11eb-924d-9cd76263cbd0,species,clusiifolia,Bisaschersonia,,"(Hiern) Kuntze",1891,"Revis. Gen. Pl. 2: 408 1891",,,,4e0667b4-8fcc-11eb-924d-9cd76263cbd0,322019-1,wfo-0000565603,4070279,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e03e4138-8fd1-11eb-924d-9cd76263cbd0,genus,Birostula,,,Raf.,,1840,,"Good Book 59. 1840.",,,,,,,wfo-4000004665,6026368,,
+b19b4254-8fcc-11eb-924d-9cd76263cbd0,species,pinnatifida,Birostula,,"(Vent.) Raf.",,1840,,"Good Book 59 1840",,,,ad7a34b4-8fd1-11eb-924d-9cd76263cbd0,,838721-1,wfo-0000565602,3629527,,

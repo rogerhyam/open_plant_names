@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7ba3f70-8fd1-11eb-924d-9cd76263cbd0,genus,Osa,,,Aiello,1979,"J. Arnold Arbor. 60(1): 115–116. 1979.",,,,,35031-1,wfo-4000027356,2892157,
-edde15b2-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Osa,,"(D.R.Simpson) Aiello",1979,"J. Arnold Arbor. 60: 116 1979",,,,92b45e56-8fcd-11eb-924d-9cd76263cbd0,176996-2,wfo-0000261327,5334599,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7ba3f70-8fd1-11eb-924d-9cd76263cbd0,genus,Osa,,,Aiello,,1979,,"J. Arnold Arbor. 60(1): 115–116. 1979.",,Q100559428,,,,35031-1,wfo-4000027356,2892157,,
+edde15b2-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Osa,,"(D.R.Simpson) Aiello",,1979,,"J. Arnold Arbor. 60: 116 1979",,Q100559428,,92b45e56-8fcd-11eb-924d-9cd76263cbd0,,176996-2,wfo-0000261327,5334599,,

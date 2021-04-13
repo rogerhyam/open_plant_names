@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e28ffea4-8fd1-11eb-924d-9cd76263cbd0,genus,Delpydora,,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1275. 1897.",,,,,36713-1,wfo-4000011028,5333657,
-7e4195ce-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Delpydora,,A.Chev.,1914,"Bull. Soc. Bot. France 61(8): 263 1914 publ. 1917",,,,,786662-1,wfo-0000938253,5333659,
-7e41b1f8-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Delpydora,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1277 1896",,,,,786663-1,wfo-0000938254,5333658,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e28ffea4-8fd1-11eb-924d-9cd76263cbd0,genus,Delpydora,,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1275. 1897.",,,,,,36713-1,wfo-4000011028,5333657,,
+7e4195ce-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Delpydora,,A.Chev.,,1914,,"Bull. Soc. Bot. France 61(8): 263 1914 publ. 1917",,,,,,786662-1,wfo-0000938253,5333659,,
+7e41b1f8-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Delpydora,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1277 1896",,,,,,786663-1,wfo-0000938254,5333658,,

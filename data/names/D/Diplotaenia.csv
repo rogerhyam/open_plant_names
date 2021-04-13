@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2e06f92-8fd1-11eb-924d-9cd76263cbd0,genus,Diplotaenia,,,Boiss.,1844,"Ann. Sci. Nat., Bot., sér. 3, 1: 308. 1844.",,,,,39927-1,wfo-4000012045,6026993,
-e402e2ce-8fcc-11eb-924d-9cd76263cbd0,species,cachrydifolia,Diplotaenia,,Boiss.,1844,"Ann. Sci. Nat., Bot. III, 1: 309 1844",,,,,841381-1,wfo-0000650381,3637256,
-e402ff7a-8fcc-11eb-924d-9cd76263cbd0,species,damavandica,Diplotaenia,,"Mozaff., Hedge & Lamond",1987,"in Fl. Iran. 162: 373 1987",,,,,932493-1,wfo-0000650382,3637246,
-1afee764-8fcd-11eb-924d-9cd76263cbd0,species,hayri-dumanii,Diplotaenia,,"Pimenov & Kljuykov",2011,"Willdenowia 41: 72 2011",,,,,77112785-1,wfo-0000749145,7994192,
-1afe975a-8fcd-11eb-924d-9cd76263cbd0,species,turcica,Diplotaenia,,"Pimenov & Kljuykov",2011,"Willdenowia 41(1): 71 2011",,,,,77112784-1,wfo-0000749142,7773357,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2e06f92-8fd1-11eb-924d-9cd76263cbd0,genus,Diplotaenia,,,Boiss.,,1844,,"Ann. Sci. Nat., Bot., sér. 3, 1: 308. 1844.",,,,,,39927-1,wfo-4000012045,6026993,,
+e402e2ce-8fcc-11eb-924d-9cd76263cbd0,species,cachrydifolia,Diplotaenia,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. III, 1: 309 1844",,,,,,841381-1,wfo-0000650381,3637256,,
+e402ff7a-8fcc-11eb-924d-9cd76263cbd0,species,damavandica,Diplotaenia,,"Mozaff., Hedge & Lamond",,1987,,"in Fl. Iran. 162: 373 1987",,,,,,932493-1,wfo-0000650382,3637246,,
+1afee764-8fcd-11eb-924d-9cd76263cbd0,species,hayri-dumanii,Diplotaenia,,"Pimenov & Kljuykov",,2011,,"Willdenowia 41: 72 2011",,Q55790712,,,,77112785-1,wfo-0000749145,7994192,,
+1afe975a-8fcd-11eb-924d-9cd76263cbd0,species,turcica,Diplotaenia,,"Pimenov & Kljuykov",,2011,,"Willdenowia 41(1): 71 2011",,Q55790712,,,,77112784-1,wfo-0000749142,7773357,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53d5390-8fd1-11eb-924d-9cd76263cbd0,genus,Jepsonia,,,Small,1896,"Bull. Torrey Bot. Club 23(1): 18–19, pl. 256. 1896.",,,,,291644-2,wfo-4000019563,3032641,
-d9234500-8fcd-11eb-924d-9cd76263cbd0,species,heterandra,Jepsonia,,Eastw.,1905,"Bull. Torrey Bot. Club 32(4): 201 1905",,,,,131658-2,wfo-0001135535,3032644,
-d9237192-8fcd-11eb-924d-9cd76263cbd0,species,malvifolia,Jepsonia,,"(Greene) Small",1896,"Bull. Torrey Bot. Club 23(1): 19 1896",,,,cc3980e4-8fd1-11eb-924d-9cd76263cbd0,131659-2,wfo-0001135536,3032643,
-28bb38e0-8fcc-11eb-924d-9cd76263cbd0,species,neonuttalliana,Jepsonia,,Millsp.,1923,"Publ. Field Mus. Nat. Hist., Bot. Ser. 5: 124 1923",,,,,131660-2,wfo-0000355391,3753019,
-d923a46e-8fcd-11eb-924d-9cd76263cbd0,species,parryi,Jepsonia,,"(Torr.) Small",1896,"Bull. Torrey Bot. Club 23(1): 18 1896",,,,,131661-2,wfo-0001135537,3032642,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53d5390-8fd1-11eb-924d-9cd76263cbd0,genus,Jepsonia,,,Small,,1896,,"Bull. Torrey Bot. Club 23(1): 18–19, pl. 256. 1896.",,Q55773455,,,,291644-2,wfo-4000019563,3032641,,
+d9234500-8fcd-11eb-924d-9cd76263cbd0,species,heterandra,Jepsonia,,Eastw.,,1905,,"Bull. Torrey Bot. Club 32(4): 201 1905",,Q55766866,,,,131658-2,wfo-0001135535,3032644,,
+d9237192-8fcd-11eb-924d-9cd76263cbd0,species,malvifolia,Jepsonia,,"(Greene) Small",,1896,,"Bull. Torrey Bot. Club 23(1): 19 1896",,Q55773455,,cc3980e4-8fd1-11eb-924d-9cd76263cbd0,,131659-2,wfo-0001135536,3032643,,
+28bb38e0-8fcc-11eb-924d-9cd76263cbd0,species,neonuttalliana,Jepsonia,,Millsp.,,1923,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 5: 124 1923",,,,,,131660-2,wfo-0000355391,3753019,,
+d923a46e-8fcd-11eb-924d-9cd76263cbd0,species,parryi,Jepsonia,,"(Torr.) Small",,1896,,"Bull. Torrey Bot. Club 23(1): 18 1896",,Q55773455,,,,131661-2,wfo-0001135537,3032642,,

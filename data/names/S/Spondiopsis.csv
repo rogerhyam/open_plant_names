@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaa59982-8fd1-11eb-924d-9cd76263cbd0,genus,Spondiopsis,,,Engl.,1895,"Pflanzenwelt Ost-Afrikas C: 243. 1895.",,,,,,wfo-4000036165,7321672,
-633f8606-8fcc-11eb-924d-9cd76263cbd0,species,trifoliata,Spondiopsis,,Engl.,1895,"Pflanzenw. Ost-Afrikas C: 243 1895",,,,,71512-1,wfo-0000435416,3660721,
-b4ea4c2a-8fd1-11eb-924d-9cd76263cbd0,species,trifoliolata,Spondiopsis,,Engl.,1895,"Veg. Erde 9, 3(2): 243 1895",,,,,,wfo-0001233535,8351063,
-0ee3c1bc-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Spondogona,,Raf.,1838,"Sylva Tellur. 35 1838",,,,,789909-1,wfo-0000313558,2886831,
-0ee40028-8fcc-11eb-924d-9cd76263cbd0,species,salicifolia,Spondogona,,"(L.) House",1921,"Amer. Midl. Naturalist 7: 131 1921",,,,,242913-2,wfo-0000313560,2886822,
-ddf5493e-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Spondylantha,,C.Presl,1831,"Reliq. Haenk. 2(1): 35, t. 53 1831",,,,,68462-1,wfo-0001145515,4053378,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaa59982-8fd1-11eb-924d-9cd76263cbd0,genus,Spondiopsis,,,Engl.,,1895,,"Pflanzenwelt Ost-Afrikas C: 243. 1895.",,,,,,,wfo-4000036165,7321672,,
+633f8606-8fcc-11eb-924d-9cd76263cbd0,species,trifoliata,Spondiopsis,,Engl.,,1895,,"Pflanzenw. Ost-Afrikas C: 243 1895",,,,,,71512-1,wfo-0000435416,3660721,,
+b4ea4c2a-8fd1-11eb-924d-9cd76263cbd0,species,trifoliolata,Spondiopsis,,Engl.,,1895,,"Veg. Erde 9, 3(2): 243 1895",,,,,,,wfo-0001233535,8351063,,
+0ee3c1bc-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Spondogona,,Raf.,,1838,,"Sylva Tellur. 35 1838",,,,,,789909-1,wfo-0000313558,2886831,,
+0ee40028-8fcc-11eb-924d-9cd76263cbd0,species,salicifolia,Spondogona,,"(L.) House",,1921,,"Amer. Midl. Naturalist 7: 131 1921",,Q55773164,,,,242913-2,wfo-0000313560,2886822,,
+ddf5493e-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Spondylantha,,C.Presl,,1831,,"Reliq. Haenk. 2(1): 35, t. 53 1831",,,,,,68462-1,wfo-0001145515,4053378,,

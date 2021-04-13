@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eac1db38-8fd1-11eb-924d-9cd76263cbd0,genus,Stenochasma,,,Miq.,1851,"Pl. Jungh. 45. 1851. (Mar 1851)",,,,,,wfo-4000036482,3234564,
-8ce3db06-8fcc-11eb-924d-9cd76263cbd0,species,ancolanum,Stenochasma,,Miq.,1851,"Pl. Jungh. 45 1851",,,,,,wfo-0000505934,5569647,
-aeec04f8-8fcc-11eb-924d-9cd76263cbd0,species,convoluta,Stenochasma,,Griff.,1851,"Not. Pl. Asiat. 3: 433 1851",,,,,798170-1,wfo-0000561523,5302411,
-aeec5570-8fcc-11eb-924d-9cd76263cbd0,species,urceolare,Stenochasma,,Griff.,1851,"Not. Pl. Asiat. 3: 431 1851",,,,,798171-1,wfo-0000561526,5302414,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eac1db38-8fd1-11eb-924d-9cd76263cbd0,genus,Stenochasma,,,Miq.,,1851,,"Pl. Jungh. 45. 1851. (Mar 1851)",,,,,,,wfo-4000036482,3234564,,
+8ce3db06-8fcc-11eb-924d-9cd76263cbd0,species,ancolanum,Stenochasma,,Miq.,,1851,,"Pl. Jungh. 45 1851",,,,,,,wfo-0000505934,5569647,,
+aeec04f8-8fcc-11eb-924d-9cd76263cbd0,species,convoluta,Stenochasma,,Griff.,,1851,,"Not. Pl. Asiat. 3: 433 1851",,,,,,798170-1,wfo-0000561523,5302411,,
+aeec5570-8fcc-11eb-924d-9cd76263cbd0,species,urceolare,Stenochasma,,Griff.,,1851,,"Not. Pl. Asiat. 3: 431 1851",,,,,,798171-1,wfo-0000561526,5302414,,

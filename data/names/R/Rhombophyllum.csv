@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a8d7e2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombophyllum,,,"(Schwantes) Schwantes",1927,"Z. Sukkulentenk. 3: 16, 23. 1927.",,,,,16330-1,wfo-4000033072,7329321,
-48ae1d98-8fcc-11eb-924d-9cd76263cbd0,species,albanense,Rhombophyllum,,"(L.Bolus) H.E.K.Hartmann",1998,"Bradleya 16: 81 1998",,,,d96c067e-8fd1-11eb-924d-9cd76263cbd0,1004583-1,wfo-0000401194,3705122,
-d937aa96-8fd1-11eb-924d-9cd76263cbd0,species,dolabriforme,Rhombophyllum,,Schwantes,,,,,,,,wfo-0001293854,3705113,
-48ae610e-8fcc-11eb-924d-9cd76263cbd0,species,dyeri,Rhombophyllum,,"(L.Bolus) H.E.K.Hartmann",1998,"Bradleya 16: 81 1998",,,,,1004584-1,wfo-0000401196,3705107,
-d937f816-8fd1-11eb-924d-9cd76263cbd0,species,nelii,Rhombophyllum,,Schwantes,,,,,,,,wfo-0001293855,3705099,
-d9381eea-8fd1-11eb-924d-9cd76263cbd0,species,rhomboideum,Rhombophyllum,,"(Salm-Dyck) Schwantes",1927,"Z. Sukkulentenk. 3: 23 1927",,,,add46654-8fcd-11eb-924d-9cd76263cbd0,364165-1,wfo-0001293856,3705088,
-041a5a84-8fcc-11eb-924d-9cd76263cbd0,species,commersonii,Rhombospora,,Korth.,1850,"Ned. Kruidk. Arch. 2: 114 1850",,,,,764646-1,wfo-0000296486,2909315,
-041af106-8fcc-11eb-924d-9cd76263cbd0,species,sumatrana,Rhombospora,,"(Miq.) Miq.",1857,"Fl. Ned. Ind. 2: 345 1857",,,,,764647-1,wfo-0000296487,2907735,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a8d7e2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombophyllum,,,"(Schwantes) Schwantes",,1927,,"Z. Sukkulentenk. 3: 16, 23. 1927.",,,,,,16330-1,wfo-4000033072,7329321,,
+48ae1d98-8fcc-11eb-924d-9cd76263cbd0,species,albanense,Rhombophyllum,,"(L.Bolus) H.E.K.Hartmann",,1998,,"Bradleya 16: 81 1998",,Q96001590,,d96c067e-8fd1-11eb-924d-9cd76263cbd0,,1004583-1,wfo-0000401194,3705122,,
+d937aa96-8fd1-11eb-924d-9cd76263cbd0,species,dolabriforme,Rhombophyllum,,Schwantes,,,,,,,,,,,wfo-0001293854,3705113,,
+48ae610e-8fcc-11eb-924d-9cd76263cbd0,species,dyeri,Rhombophyllum,,"(L.Bolus) H.E.K.Hartmann",,1998,,"Bradleya 16: 81 1998",,Q96001590,,,,1004584-1,wfo-0000401196,3705107,,
+d937f816-8fd1-11eb-924d-9cd76263cbd0,species,nelii,Rhombophyllum,,Schwantes,,,,,,,,,,,wfo-0001293855,3705099,,
+d9381eea-8fd1-11eb-924d-9cd76263cbd0,species,rhomboideum,Rhombophyllum,,"(Salm-Dyck) Schwantes",,1927,,"Z. Sukkulentenk. 3: 23 1927",,,,add46654-8fcd-11eb-924d-9cd76263cbd0,,364165-1,wfo-0001293856,3705088,,
+041a5a84-8fcc-11eb-924d-9cd76263cbd0,species,commersonii,Rhombospora,,Korth.,,1850,,"Ned. Kruidk. Arch. 2: 114 1850",,,,,,764646-1,wfo-0000296486,2909315,,
+041af106-8fcc-11eb-924d-9cd76263cbd0,species,sumatrana,Rhombospora,,"(Miq.) Miq.",,1857,,"Fl. Ned. Ind. 2: 345 1857",,,,,,764647-1,wfo-0000296487,2907735,,

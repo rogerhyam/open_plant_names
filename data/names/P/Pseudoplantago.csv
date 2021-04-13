@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92d1558-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoplantago,,,Suess.,1934,"Repert. Spec. Nov. Regni Veg. 35: 334. 1934. (15 Jul 1934)",,,,,290967-2,wfo-4000031637,7323281,
-42fad4ea-8fcc-11eb-924d-9cd76263cbd0,species,bisteriliflora,Pseudoplantago,,C.C.Towns.,1988,"Kew Bull. 43: 110 1988",,,,,283904-2,wfo-0000394594,3673472,
-b12c6c8e-8fcd-11eb-924d-9cd76263cbd0,species,friesii,Pseudoplantago,,Suess.,1934,"Repert. Spec. Nov. Regni Veg. 35: 334–335 1934",,,,,211545-2,wfo-0001046314,3673459,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92d1558-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoplantago,,,Suess.,,1934,,"Repert. Spec. Nov. Regni Veg. 35: 334. 1934. (15 Jul 1934)",,Q55754381,,,,290967-2,wfo-4000031637,7323281,,
+42fad4ea-8fcc-11eb-924d-9cd76263cbd0,species,bisteriliflora,Pseudoplantago,,C.C.Towns.,,1988,,"Kew Bull. 43: 110 1988",,Q55785761,,,,283904-2,wfo-0000394594,3673472,,
+b12c6c8e-8fcd-11eb-924d-9cd76263cbd0,species,friesii,Pseudoplantago,,Suess.,,1934,,"Repert. Spec. Nov. Regni Veg. 35: 334–335 1934",,Q55754381,,,,211545-2,wfo-0001046314,3673459,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb4dfea6-8fd1-11eb-924d-9cd76263cbd0,genus,Thlasidia,,,Raf.,1838,"Fl. Tellur. 4: 96. 1838.",,,,,,wfo-4000038221,7301078,
-ae378f36-8fcd-11eb-924d-9cd76263cbd0,species,bidens,Thlasidia,,"(Sibth. & Sm.) Raf.",1836,"Fl. Tellur. 4: 96 1836",,,,ae37730c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001039649,8564925,
-4e3819bc-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Thlasidia,,"(L.) Holub",1983,"Folia Geobot. Phytotax. 18: 205 1983",,,,,913414-1,wfo-0000408425,4103670,
-abe2fa78-8fd1-11eb-924d-9cd76263cbd0,species,capensis,Thlaspeocarpa,,C.A.Sm.,,,,,,,,wfo-0001217087,3043876,
-abe3354c-8fd1-11eb-924d-9cd76263cbd0,species,namaquensis,Thlaspeocarpa,,Marais,1966,"S. African Pollen Grains & Spores ix 110 (1966). 1966",,,,,290450-1,wfo-0001217089,3043879,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb4dfea6-8fd1-11eb-924d-9cd76263cbd0,genus,Thlasidia,,,Raf.,,1838,,"Fl. Tellur. 4: 96. 1838.",,,,,,,wfo-4000038221,7301078,,
+ae378f36-8fcd-11eb-924d-9cd76263cbd0,species,bidens,Thlasidia,,"(Sibth. & Sm.) Raf.",,1836,,"Fl. Tellur. 4: 96 1836",,,,ae37730c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001039649,8564925,,
+4e3819bc-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Thlasidia,,"(L.) Holub",,1983,,"Folia Geobot. Phytotax. 18: 205 1983",,Q55755431,,,,913414-1,wfo-0000408425,4103670,,
+abe2fa78-8fd1-11eb-924d-9cd76263cbd0,species,capensis,Thlaspeocarpa,,C.A.Sm.,,,,,,,,,,,wfo-0001217087,3043876,,
+abe3354c-8fd1-11eb-924d-9cd76263cbd0,species,namaquensis,Thlaspeocarpa,,Marais,,1966,,"S. African Pollen Grains & Spores ix 110 (1966). 1966",,Q55798368,,,,290450-1,wfo-0001217089,3043879,,

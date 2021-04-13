@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb82573c-8fd1-11eb-924d-9cd76263cbd0,genus,Triceratella,,,Brenan,1961,"Kirkia 1: 14. 1961.",,,,,7356-1,wfo-4000038911,2765375,
-c131e056-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Triceratella,,Brenan,1961,"Kirkia 1: 15 1961",,,,,173547-1,wfo-0000591090,2765376,
-dd4743b2-8fd1-11eb-924d-9cd76263cbd0,species,bryonioides,Triceratia,,A.Rich.,1845,"Hist. Fís. Cuba, Bot. 10: 299–300, f. 44 1845",,,,,,wfo-0001301058,5537130,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb82573c-8fd1-11eb-924d-9cd76263cbd0,genus,Triceratella,,,Brenan,,1961,,"Kirkia 1: 14. 1961.",,Q91468782,,,,7356-1,wfo-4000038911,2765375,,
+c131e056-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Triceratella,,Brenan,,1961,,"Kirkia 1: 15 1961",,Q91468782,,,,173547-1,wfo-0000591090,2765376,,
+dd4743b2-8fd1-11eb-924d-9cd76263cbd0,species,bryonioides,Triceratia,,A.Rich.,,1845,,"Hist. Fís. Cuba, Bot. 10: 299–300, f. 44 1845",,,,,,,wfo-0001301058,5537130,,

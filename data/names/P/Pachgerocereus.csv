@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d3ba18-8fd1-11eb-924d-9cd76263cbd0,genus,Pachgerocereus,,,Moran,1962,"Cact. Succ. J. (Los Angeles) 34: 93. 1962.",,,,,,wfo-4000027631,11014080,
-bcce85aa-8fd1-11eb-924d-9cd76263cbd0,species,orcuttii,Pachgerocereus,,"(Brandegee) Moran",1962,"Cact. Succ. J. (Los Angeles) 34(3): 93 1962",,,,,288143-2,wfo-0001248146,3951816,
-c50f0370-8fd1-11eb-924d-9cd76263cbd0,species,pecten-aboriginum,Pachgerocereus,,Britton,,,,,,,,wfo-0001263380,7669224,
-c50f1ea0-8fd1-11eb-924d-9cd76263cbd0,species,pringlei,Pachgerocereus,,Britton,,,,,,,,wfo-0001263381,7829607,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d3ba18-8fd1-11eb-924d-9cd76263cbd0,genus,Pachgerocereus,,,Moran,,1962,,"Cact. Succ. J. (Los Angeles) 34: 93. 1962.",,,,,,,wfo-4000027631,11014080,,
+bcce85aa-8fd1-11eb-924d-9cd76263cbd0,species,orcuttii,Pachgerocereus,,"(Brandegee) Moran",,1962,,"Cact. Succ. J. (Los Angeles) 34(3): 93 1962",,,,,,288143-2,wfo-0001248146,3951816,,
+c50f0370-8fd1-11eb-924d-9cd76263cbd0,species,pecten-aboriginum,Pachgerocereus,,Britton,,,,,,,,,,,wfo-0001263380,7669224,,
+c50f1ea0-8fd1-11eb-924d-9cd76263cbd0,species,pringlei,Pachgerocereus,,Britton,,,,,,,,,,,wfo-0001263381,7829607,,

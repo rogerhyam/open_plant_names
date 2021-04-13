@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2638aae-8fd1-11eb-924d-9cd76263cbd0,genus,Cynotoxicum,,,Vell.,1825,"Fl. Flumin. 197. 1825.",,,,,,wfo-4000010440,7326570,
-db1c8598-8fcc-11eb-924d-9cd76263cbd0,species,dispermum,Cynotoxicum,,Vell.,1829,"Fl. Flumin. 198 1829",,,,,264557-1,wfo-0000634361,3686485,
-db1ca12c-8fcc-11eb-924d-9cd76263cbd0,species,monospermum,Cynotoxicum,,Vell.,1829,"Fl. Flumin. 198 1829",,,,,264558-1,wfo-0000634362,3686475,
-db1cdaa2-8fcc-11eb-924d-9cd76263cbd0,species,suffruticosum,Cynotoxicum,,Vell.,1829,"Fl. Flumin. 198 1829",,,,,264559-1,wfo-0000634364,3686464,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2638aae-8fd1-11eb-924d-9cd76263cbd0,genus,Cynotoxicum,,,Vell.,,1825,,"Fl. Flumin. 197. 1825.",,,,,,,wfo-4000010440,7326570,,
+db1c8598-8fcc-11eb-924d-9cd76263cbd0,species,dispermum,Cynotoxicum,,Vell.,,1829,,"Fl. Flumin. 198 1829",,,,,,264557-1,wfo-0000634361,3686485,,
+db1ca12c-8fcc-11eb-924d-9cd76263cbd0,species,monospermum,Cynotoxicum,,Vell.,,1829,,"Fl. Flumin. 198 1829",,,,,,264558-1,wfo-0000634362,3686475,,
+db1cdaa2-8fcc-11eb-924d-9cd76263cbd0,species,suffruticosum,Cynotoxicum,,Vell.,,1829,,"Fl. Flumin. 198 1829",,,,,,264559-1,wfo-0000634364,3686464,,

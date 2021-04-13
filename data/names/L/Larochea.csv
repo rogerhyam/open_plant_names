@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5925aa2-8fd1-11eb-924d-9cd76263cbd0,genus,Larochea,,,Pers.,1805,"Syn. Pl. 1: 337. 1805.",,,,,,wfo-4000020612,3230697,
-2c6f27f8-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Larochea,,Pers.,1805,"Syn. Pl. 1: 337 1805",,,,,274548-1,wfo-0000361592,5688187,
-2c6f454e-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Larochea,,Haw.,1812,"Syn. Pl. Succ. 50 1812",,,,,274549-1,wfo-0000361593,5688183,
-2c6f6178-8fcc-11eb-924d-9cd76263cbd0,species,falcata,Larochea,,Pers.,1805,"Syn. Pl. 1: 337 1805",,,,,274550-1,wfo-0000361594,5688178,
-2c6f7fdc-8fcc-11eb-924d-9cd76263cbd0,species,fascicularis,Larochea,,Schult.,1820,"Syst. Veg. 6: 709 1820",,,,,274551-1,wfo-0000361595,5688175,
-2c6f9f8a-8fcc-11eb-924d-9cd76263cbd0,species,flava,Larochea,,Haw.,1812,"Syn. Pl. Succ. 50 1812",,,,,274552-1,wfo-0000361596,5688171,
-2c6fbe66-8fcc-11eb-924d-9cd76263cbd0,species,odoratissima,Larochea,,Haw.,1812,"Syn. Pl. Succ. 51 1812",,,,,274553-1,wfo-0000361597,5688166,
-2c6a22bc-8fcc-11eb-924d-9cd76263cbd0,species,tiniflora,Larochea,,Lem.,1861,"Ill. Hort. 8: t. 269 1861",,,,,274554-1,wfo-0000361556,5688162,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5925aa2-8fd1-11eb-924d-9cd76263cbd0,genus,Larochea,,,Pers.,,1805,,"Syn. Pl. 1: 337. 1805.",,,,,,,wfo-4000020612,3230697,,
+2c6f27f8-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Larochea,,Pers.,,1805,,"Syn. Pl. 1: 337 1805",,,,,,274548-1,wfo-0000361592,5688187,,
+2c6f454e-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Larochea,,Haw.,,1812,,"Syn. Pl. Succ. 50 1812",,,,,,274549-1,wfo-0000361593,5688183,,
+2c6f6178-8fcc-11eb-924d-9cd76263cbd0,species,falcata,Larochea,,Pers.,,1805,,"Syn. Pl. 1: 337 1805",,,,,,274550-1,wfo-0000361594,5688178,,
+2c6f7fdc-8fcc-11eb-924d-9cd76263cbd0,species,fascicularis,Larochea,,Schult.,,1820,,"Syst. Veg. 6: 709 1820",,,,,,274551-1,wfo-0000361595,5688175,,
+2c6f9f8a-8fcc-11eb-924d-9cd76263cbd0,species,flava,Larochea,,Haw.,,1812,,"Syn. Pl. Succ. 50 1812",,,,,,274552-1,wfo-0000361596,5688171,,
+2c6fbe66-8fcc-11eb-924d-9cd76263cbd0,species,odoratissima,Larochea,,Haw.,,1812,,"Syn. Pl. Succ. 51 1812",,,,,,274553-1,wfo-0000361597,5688166,,
+2c6a22bc-8fcc-11eb-924d-9cd76263cbd0,species,tiniflora,Larochea,,Lem.,,1861,,"Ill. Hort. 8: t. 269 1861",,,,,,274554-1,wfo-0000361556,5688162,,

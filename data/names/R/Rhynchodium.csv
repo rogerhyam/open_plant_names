@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9aca656-8fd1-11eb-924d-9cd76263cbd0,genus,Rhynchodium,,,,,,,,,,,wfo-4000033126,,
-4c75726e-8fcc-11eb-924d-9cd76263cbd0,species,acaule,Rhynchodium,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,517102-1,wfo-0000406176,3961486,
-b65c01e2-8fcd-11eb-924d-9cd76263cbd0,species,bituminosum,Rhynchodium,,"(L.) C.Presl",1846,"Bot. Bemerk. (K. Presl) 54 1846",,,,,,wfo-0001058116,3961483,
-4c72c58c-8fcc-11eb-924d-9cd76263cbd0,species,foetidum,Rhynchodium,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,517104-1,wfo-0000406167,3961480,
-4c7449a2-8fcc-11eb-924d-9cd76263cbd0,species,hirtum,Rhynchodium,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,517105-1,wfo-0000406171,3961475,
-4c7487fa-8fcc-11eb-924d-9cd76263cbd0,species,palestinum,Rhynchodium,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,517106-1,wfo-0000406172,3961471,
-4c74c184-8fcc-11eb-924d-9cd76263cbd0,species,sericeum,Rhynchodium,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,517107-1,wfo-0000406173,3961467,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9aca656-8fd1-11eb-924d-9cd76263cbd0,genus,Rhynchodium,,,,,,,,,,,,,,wfo-4000033126,,,
+4c75726e-8fcc-11eb-924d-9cd76263cbd0,species,acaule,Rhynchodium,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,,517102-1,wfo-0000406176,3961486,,
+b65c01e2-8fcd-11eb-924d-9cd76263cbd0,species,bituminosum,Rhynchodium,,"(L.) C.Presl",,1846,,"Bot. Bemerk. (K. Presl) 54 1846",,,,,,,wfo-0001058116,3961483,,
+4c72c58c-8fcc-11eb-924d-9cd76263cbd0,species,foetidum,Rhynchodium,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,,517104-1,wfo-0000406167,3961480,,
+4c7449a2-8fcc-11eb-924d-9cd76263cbd0,species,hirtum,Rhynchodium,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,,517105-1,wfo-0000406171,3961475,,
+4c7487fa-8fcc-11eb-924d-9cd76263cbd0,species,palestinum,Rhynchodium,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,,517106-1,wfo-0000406172,3961471,,
+4c74c184-8fcc-11eb-924d-9cd76263cbd0,species,sericeum,Rhynchodium,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 484 1845",,,,,,517107-1,wfo-0000406173,3961467,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9615a66-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnospora,,,"R.Br. ex Wight & Arn.",,,,,,,23402-1,wfo-4000032243,2984240,
-ec9ea4d2-8fc6-11eb-924d-9cd76263cbd0,species,hedysaroides,Pycnospora,,"Wight & Arn.",,,,,,,,wfo-0000200208,2984244,
-8615a764-8fc2-11eb-924d-9cd76263cbd0,species,lutescens,Pycnospora,,"(Poir.) Schindl.",,,,,,45a5cdd2-8fc5-11eb-924d-9cd76263cbd0,,wfo-0000177978,11097939,
-459980b8-8fc5-11eb-924d-9cd76263cbd0,species,nervosa,Pycnospora,,"Wight & Arn.",,,,,,,,wfo-0000192241,2984248,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9615a66-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnospora,,,"R.Br. ex Wight & Arn.",,,,,,,,,,23402-1,wfo-4000032243,2984240,,
+ec9ea4d2-8fc6-11eb-924d-9cd76263cbd0,species,hedysaroides,Pycnospora,,"Wight & Arn.",,,,,,,,,,,wfo-0000200208,2984244,,
+8615a764-8fc2-11eb-924d-9cd76263cbd0,species,lutescens,Pycnospora,,"(Poir.) Schindl.",,,,,,,,45a5cdd2-8fc5-11eb-924d-9cd76263cbd0,,,wfo-0000177978,11097939,,
+459980b8-8fc5-11eb-924d-9cd76263cbd0,species,nervosa,Pycnospora,,"Wight & Arn.",,,,,,,,,,,wfo-0000192241,2984248,,

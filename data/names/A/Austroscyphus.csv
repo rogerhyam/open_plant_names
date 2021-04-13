@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff89796-8fd1-11eb-924d-9cd76263cbd0,genus,Austroscyphus,,,R.M.Schust.,1985,"Phytologia 57: 408. 1985. (16 Jul 1985)",,,,,,wfo-4000003745,8403756,
-f82ceb0e-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Austroscyphus,,"(N.Kitag.) R.M.Schust.",1985,"Phytologia 57: 409 1985",,,,f80230a8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200407,7970911,
-f82d0788-8fcd-11eb-924d-9cd76263cbd0,species,nitidissimus,Austroscyphus,,"(R.M.Schust.) R.M.Schust.",1985,"Phytologia 57: 409 1985",,,,f8024f66-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200408,8038415,
-f82d21dc-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhizus,Austroscyphus,,"(Grolle) R.M.Schust.",1985,"Phytologia 57: 409 1985",,,,f802ec6e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200409,7532064,
-f82d3b5e-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Austroscyphus,,"(Sande Lac.) R.M.Schust.",1985,"Phytologia 57: 409 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001200410,7656753,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff89796-8fd1-11eb-924d-9cd76263cbd0,genus,Austroscyphus,,,R.M.Schust.,,1985,,"Phytologia 57: 408. 1985. (16 Jul 1985)",,,,,,,wfo-4000003745,8403756,,
+f82ceb0e-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Austroscyphus,,"(N.Kitag.) R.M.Schust.",,1985,,"Phytologia 57: 409 1985",,,,f80230a8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200407,7970911,,
+f82d0788-8fcd-11eb-924d-9cd76263cbd0,species,nitidissimus,Austroscyphus,,"(R.M.Schust.) R.M.Schust.",,1985,,"Phytologia 57: 409 1985",,,,f8024f66-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200408,8038415,,
+f82d21dc-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhizus,Austroscyphus,,"(Grolle) R.M.Schust.",,1985,,"Phytologia 57: 409 1985",,,,f802ec6e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200409,7532064,,
+f82d3b5e-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Austroscyphus,,"(Sande Lac.) R.M.Schust.",,1985,,"Phytologia 57: 409 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200410,7656753,,

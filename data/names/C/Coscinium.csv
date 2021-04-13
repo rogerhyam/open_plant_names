@@ -1,11 +1,11 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2158354-8fd1-11eb-924d-9cd76263cbd0,genus,Coscinium,,,Colebr.,1821,"Trans. Linn. Soc. London 13: 51, 65. 1821.",,,,,26914-1,wfo-4000009435,3234311,
-d4c873dc-8fcc-11eb-924d-9cd76263cbd0,species,blumeanum,Coscinium,,"Miers ex Hook.f. & Thomson",1855,"Fl. Ind. 1: 179 1855",,,,,,wfo-0000623524,8321816,
-d4c8e902-8fcc-11eb-924d-9cd76263cbd0,species,colaniae,Coscinium,,Gagnep.,1938,"Bull. Soc. Bot. France 85: 168 1938",,,,,580660-1,wfo-0000623525,10667849,
-d4c91544-8fcc-11eb-924d-9cd76263cbd0,species,fenestratum,Coscinium,,"(Goetgh.) Colebr.",1822,"Trans. Linn. Soc. London 13: 65 1822",,,,,,wfo-0000623526,5592750,
-d4c93cc2-8fcc-11eb-924d-9cd76263cbd0,species,maingayi,Coscinium,,Pierre,1885,"Fl. Forest. Cochinch. t. 112 1885",,,,,580662-1,wfo-0000623527,5592747,
-d4c96d46-8fcc-11eb-924d-9cd76263cbd0,species,miosepalum,Coscinium,,Diels,1910,"Pflanzenr. IV, 94: 113 1910",,,,,,wfo-0000623528,5592744,
-d4c98bfa-8fcc-11eb-924d-9cd76263cbd0,species,peltatum,Coscinium,,Merr.,1929,"Univ. Calif. Publ. Bot. 15: 59 1929",,,,,580664-1,wfo-0000623529,5592741,
-d4c9a89c-8fcc-11eb-924d-9cd76263cbd0,species,usitatum,Coscinium,,Pierre,1885,"Fl. Forest. Cochinch. t. 112 1885",,,,,580665-1,wfo-0000623530,5592736,
-d4ca0b20-8fcc-11eb-924d-9cd76263cbd0,species,wallichianum,Coscinium,,Miers,1871,"Contr. Bot. 3: 23 1871",,,,,,wfo-0000623533,5592733,
-d4ca25e2-8fcc-11eb-924d-9cd76263cbd0,species,wightianum,Coscinium,,"Miers ex Diels",1910,"Pflanzenr. IV, 94: 112 1910",,,,,,wfo-0000623534,7851909,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2158354-8fd1-11eb-924d-9cd76263cbd0,genus,Coscinium,,,Colebr.,,1821,,"Trans. Linn. Soc. London 13: 51, 65. 1821.",,Q55758778,,e2158354-8fd1-11eb-924d-9cd76263cbd0,,26914-1,wfo-4000009435,3234311,12055," "
+d4c873dc-8fcc-11eb-924d-9cd76263cbd0,species,blumeanum,Coscinium,,"Miers ex Hook.f. & Thomson",,1855,,"Fl. Ind. 1: 179 1855",,,,,,,wfo-0000623524,8321816,,
+d4c8e902-8fcc-11eb-924d-9cd76263cbd0,species,colaniae,Coscinium,,Gagnep.,,1938,,"Bull. Soc. Bot. France 85: 168 1938",,,,,,580660-1,wfo-0000623525,10667849,,
+d4c91544-8fcc-11eb-924d-9cd76263cbd0,species,fenestratum,Coscinium,,"(Goetgh.) Colebr.",,1822,,"Trans. Linn. Soc. London 13: 65 1822",,,,,,,wfo-0000623526,5592750,,
+d4c93cc2-8fcc-11eb-924d-9cd76263cbd0,species,maingayi,Coscinium,,Pierre,,1885,,"Fl. Forest. Cochinch. t. 112 1885",,,,,,580662-1,wfo-0000623527,5592747,,
+d4c96d46-8fcc-11eb-924d-9cd76263cbd0,species,miosepalum,Coscinium,,Diels,,1910,,"Pflanzenr. IV, 94: 113 1910",,,,,,,wfo-0000623528,5592744,,
+d4c98bfa-8fcc-11eb-924d-9cd76263cbd0,species,peltatum,Coscinium,,Merr.,,1929,,"Univ. Calif. Publ. Bot. 15: 59 1929",,,,,,580664-1,wfo-0000623529,5592741,,
+d4c9a89c-8fcc-11eb-924d-9cd76263cbd0,species,usitatum,Coscinium,,Pierre,,1885,,"Fl. Forest. Cochinch. t. 112 1885",,,,,,580665-1,wfo-0000623530,5592736,,
+d4ca0b20-8fcc-11eb-924d-9cd76263cbd0,species,wallichianum,Coscinium,,Miers,,1871,,"Contr. Bot. 3: 23 1871",,,,,,,wfo-0000623533,5592733,,
+d4ca25e2-8fcc-11eb-924d-9cd76263cbd0,species,wightianum,Coscinium,,"Miers ex Diels",,1910,,"Pflanzenr. IV, 94: 112 1910",,,,,,,wfo-0000623534,7851909,,

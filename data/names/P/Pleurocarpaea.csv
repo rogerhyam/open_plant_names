@@ -1,8 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8bb9a7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurocarpaea,,,Benth.,,,,,,,10602-1,wfo-4000030326,3103494,
-ccb44402-8fb6-11eb-924d-9cd76263cbd0,species,denticulata,Pleurocarpaea,,Benth.,1867,1867,,,,,108943-3,wfo-0000093293,3103496,
-1271e5e4-8fb7-11eb-924d-9cd76263cbd0,species,fasciculata,Pleurocarpaea,,Dunlop,1991,1991,,,,,168364-3,wfo-0000096079,3103495,
-f769c7b6-8fcb-11eb-924d-9cd76263cbd0,species,decemfidus,Pleurocarpus,,Klotzsch,1859,"Bonplandia (Hannover) 7: 4 1859",,,,,320982-2,wfo-0000276560,5337894,
-c81a67c6-8fd1-11eb-924d-9cd76263cbd0,species,cubensis,Pleurochaenia,,"C.Wright ex Griseb.",1866,"Cat. Pl. Cub. 101–102 1866",,,,,574905-1,wfo-0001268963,3868940,
-d4e649d4-8fd1-11eb-924d-9cd76263cbd0,species,quadrangularis,Pleurochaenia,,"(Sw.) Griseb.",1861,"Abh. Königl. Ges. Wiss. Göttingen, Math.-Phys. Kl. 9: 55 1861",,,,,574906-1,wfo-0001286534,3868930,
-ab332ca0-8fcd-11eb-924d-9cd76263cbd0,species,rigida,Pleurochaenia,,"(Sw.) Griseb.",1861,"Abh. Königl. Ges. Wiss. Göttingen 9: 55 1861",,,,,574907-1,wfo-0001033030,3868920,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8bb9a7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurocarpaea,,,Benth.,,,,,,,,,,10602-1,wfo-4000030326,3103494,,
+ccb44402-8fb6-11eb-924d-9cd76263cbd0,species,denticulata,Pleurocarpaea,,Benth.,,1867,,1867,,,,,,108943-3,wfo-0000093293,3103496,,
+1271e5e4-8fb7-11eb-924d-9cd76263cbd0,species,fasciculata,Pleurocarpaea,,Dunlop,,1991,,1991,,,,,,168364-3,wfo-0000096079,3103495,,
+f769c7b6-8fcb-11eb-924d-9cd76263cbd0,species,decemfidus,Pleurocarpus,,Klotzsch,,1859,,"Bonplandia (Hannover) 7: 4 1859",,,,,,320982-2,wfo-0000276560,5337894,,

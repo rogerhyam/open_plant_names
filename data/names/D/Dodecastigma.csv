@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2f8126e-8fd1-11eb-924d-9cd76263cbd0,genus,Dodecastigma,,,Ducke,1932,"Notizbl. Bot. Gart. Berlin–Dahlem 11: 343. 1932.",,,,,296503-2,wfo-4000012327,3072486,
-81486446-8fcd-11eb-924d-9cd76263cbd0,species,amazonicum,Dodecastigma,,Ducke,1932,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 343 1932",,,,,82584-2,wfo-0000945130,3072487,
-81487dbe-8fcd-11eb-924d-9cd76263cbd0,species,integrifolium,Dodecastigma,,"(Lanj.) Lanj. & Sandwith",1950,"Kew Bull. 5: 134 1950",,,,,82585-2,wfo-0000945131,3072488,
-8148b2de-8fcd-11eb-924d-9cd76263cbd0,species,mazarunense,Dodecastigma,,Croizat,1948,"Bull. Torrey Bot. Club 75: 404 1948",,,,,82586-2,wfo-0000945133,3072490,
-4372a230-8fcd-11eb-924d-9cd76263cbd0,species,uleanum,Dodecastigma,,"(Pax & K.Hoffm.) G.L.Webster",2007,"Contr. Univ. Michigan Herb. 25: 237 2007",,,,,77093146-1,wfo-0000835336,3072491,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2f8126e-8fd1-11eb-924d-9cd76263cbd0,genus,Dodecastigma,,,Ducke,,1932,,"Notizbl. Bot. Gart. Berlin–Dahlem 11: 343. 1932.",,Q55777464,,,,296503-2,wfo-4000012327,3072486,,
+81486446-8fcd-11eb-924d-9cd76263cbd0,species,amazonicum,Dodecastigma,,Ducke,,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 343 1932",,Q55777464,,,,82584-2,wfo-0000945130,3072487,,
+81487dbe-8fcd-11eb-924d-9cd76263cbd0,species,integrifolium,Dodecastigma,,"(Lanj.) Lanj. & Sandwith",,1950,,"Kew Bull. 5: 134 1950",,Q55788122,,,,82585-2,wfo-0000945131,3072488,,
+8148b2de-8fcd-11eb-924d-9cd76263cbd0,species,mazarunense,Dodecastigma,,Croizat,,1948,,"Bull. Torrey Bot. Club 75: 404 1948",,,,,,82586-2,wfo-0000945133,3072490,,
+4372a230-8fcd-11eb-924d-9cd76263cbd0,species,uleanum,Dodecastigma,,"(Pax & K.Hoffm.) G.L.Webster",,2007,,"Contr. Univ. Michigan Herb. 25: 237 2007",,,,,,77093146-1,wfo-0000835336,3072491,,

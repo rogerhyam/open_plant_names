@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4bd28f0-8fd1-11eb-924d-9cd76263cbd0,genus,Hilairella,,,Tiegh.,1904,"Ann. Sci. Nat., Bot., sér. 8, 19: 22. 1904.",,,,,,wfo-4000017903,7326812,
-c6710fb0-8fd1-11eb-924d-9cd76263cbd0,species,neglecta,Hilairella,,Tiegh.,1904,"Ann. Sci. Nat., Bot., sér. 8, 19: 24 1904",,,,,122611-2,wfo-0001265870,3696338,
-c6712c48-8fd1-11eb-924d-9cd76263cbd0,species,polyandra,Hilairella,,"(A.St.-Hil.) Tiegh.",1904,"Ann. Sci. Nat., Bot., sér. 8, 19: 24 1904",,,,c320a86a-8fcd-11eb-924d-9cd76263cbd0,122612-2,wfo-0001265871,3696318,
-bd25a602-8fb6-11eb-924d-9cd76263cbd0,species,paniculata,Hilairia,,DC.,1838,"Prodr. (DC.) 7(1): 33 1838",,,,,224854-1,wfo-0000092647,3143159,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4bd28f0-8fd1-11eb-924d-9cd76263cbd0,genus,Hilairella,,,Tiegh.,,1904,,"Ann. Sci. Nat., Bot., sér. 8, 19: 22. 1904.",,,,,,,wfo-4000017903,7326812,,
+c6710fb0-8fd1-11eb-924d-9cd76263cbd0,species,neglecta,Hilairella,,Tiegh.,,1904,,"Ann. Sci. Nat., Bot., sér. 8, 19: 24 1904",,,,,,122611-2,wfo-0001265870,3696338,,
+c6712c48-8fd1-11eb-924d-9cd76263cbd0,species,polyandra,Hilairella,,"(A.St.-Hil.) Tiegh.",,1904,,"Ann. Sci. Nat., Bot., sér. 8, 19: 24 1904",,,,c320a86a-8fcd-11eb-924d-9cd76263cbd0,,122612-2,wfo-0001265871,3696318,,
+bd25a602-8fb6-11eb-924d-9cd76263cbd0,species,paniculata,Hilairia,,DC.,,1838,,"Prodr. (DC.) 7(1): 33 1838",,,,,,224854-1,wfo-0000092647,3143159,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6b6808e-8fd1-11eb-924d-9cd76263cbd0,genus,Micropteris,,,J.Sm.,1875,"Hist. Fil. 186. 1875.",,,,,,wfo-4000024190,5428258,
-d620c42c-8fcd-11eb-924d-9cd76263cbd0,species,blechnoides,Micropteris,,Desv.,1827,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,17149190-1,wfo-0001128567,5567255,
-cf72d6c4-8fcd-11eb-924d-9cd76263cbd0,species,fallax,Micropteris,,"(Schltdl. & Cham.) J.Sm.",1875,"Hist. Fil. 186 1875",,,,cf087afe-8fcd-11eb-924d-9cd76263cbd0,17149240-1,wfo-0001113808,5647820,
-90535816-8fbd-11eb-924d-9cd76263cbd0,species,graminoides,Micropteris,,J.Sm.,1875,"Hist. Fil. 186. 1875 1875",,,,,17149250-1,wfo-0000148631,5647816,
-905d2aa8-8fbd-11eb-924d-9cd76263cbd0,species,monticola,Micropteris,,J.Sm.,1875,"Hist. Fil. 186. 1875. 1875",,,,,17149260-1,wfo-0000148632,5647810,
-d1d9ff8c-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Micropteris,,Desv.,1827,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,17149200-1,wfo-0001119005,5567251,
-b019afce-8fd1-11eb-924d-9cd76263cbd0,species,pectinata,Micropteris,,Desv.,1827,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,17149210-1,wfo-0001224697,5567248,
-cce77572-8fcd-11eb-924d-9cd76263cbd0,species,serrulata,Micropteris,,"(Sw.) Desv.",1827,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,17149220-1,wfo-0001108621,5567243,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6b6808e-8fd1-11eb-924d-9cd76263cbd0,genus,Micropteris,,,J.Sm.,,1875,,"Hist. Fil. 186. 1875.",,,,,,,wfo-4000024190,5428258,,
+d620c42c-8fcd-11eb-924d-9cd76263cbd0,species,blechnoides,Micropteris,,Desv.,,1827,,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,,17149190-1,wfo-0001128567,5567255,,
+cf72d6c4-8fcd-11eb-924d-9cd76263cbd0,species,fallax,Micropteris,,"(Schltdl. & Cham.) J.Sm.",,1875,,"Hist. Fil. 186 1875",,,,cf087afe-8fcd-11eb-924d-9cd76263cbd0,,17149240-1,wfo-0001113808,5647820,,
+90535816-8fbd-11eb-924d-9cd76263cbd0,species,graminoides,Micropteris,,J.Sm.,,1875,,"Hist. Fil. 186. 1875 1875",,,,,,17149250-1,wfo-0000148631,5647816,,
+905d2aa8-8fbd-11eb-924d-9cd76263cbd0,species,monticola,Micropteris,,J.Sm.,,1875,,"Hist. Fil. 186. 1875. 1875",,,,,,17149260-1,wfo-0000148632,5647810,,
+d1d9ff8c-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Micropteris,,Desv.,,1827,,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,,17149200-1,wfo-0001119005,5567251,,
+b019afce-8fd1-11eb-924d-9cd76263cbd0,species,pectinata,Micropteris,,Desv.,,1827,,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,,17149210-1,wfo-0001224697,5567248,,
+cce77572-8fcd-11eb-924d-9cd76263cbd0,species,serrulata,Micropteris,,"(Sw.) Desv.",,1827,,"Mém. Soc. Linn. Paris 6: 217 1827",,,,,,17149220-1,wfo-0001108621,5567243,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e64e52de-8fd1-11eb-924d-9cd76263cbd0,genus,Malpigiantha,,,Rojas,1897,"Cat. Nat. Hist. Corrient. 55. 1897.",,,,,,wfo-4000022979,,
-6ba91eec-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Malpigiantha,,"Rojas Acosta",1897,"Cat. Hist. Nat. Corrient. 153 1897",,,,,557178-1,wfo-0000449681,3985584,
-6ba8e9fe-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Malpigiantha,,"Rojas Acosta",1897,"Cat. Hist. Nat. Corrient. 55 1897",,,,,557179-1,wfo-0000449680,3985577,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e64e52de-8fd1-11eb-924d-9cd76263cbd0,genus,Malpigiantha,,,Rojas,,1897,,"Cat. Nat. Hist. Corrient. 55. 1897.",,,,,,,wfo-4000022979,,,
+6ba91eec-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Malpigiantha,,"Rojas Acosta",,1897,,"Cat. Hist. Nat. Corrient. 153 1897",,,,,,557178-1,wfo-0000449681,3985584,,
+6ba8e9fe-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Malpigiantha,,"Rojas Acosta",,1897,,"Cat. Hist. Nat. Corrient. 55 1897",,,,,,557179-1,wfo-0000449680,3985577,,

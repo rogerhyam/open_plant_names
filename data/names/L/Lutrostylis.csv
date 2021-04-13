@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6237a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Lutrostylis,,,G.Don,1837,"Gen. Hist. 4: 374, 391. 1837.",,,,,,wfo-4000022457,7294594,
-2a9993be-8fcc-11eb-924d-9cd76263cbd0,species,inermis,Lutrostylis,,G.Don,1837,"Gen. Hist. 4: 391 1837",,,,,118342-1,wfo-0000358500,4059786,
-2a99cac8-8fcc-11eb-924d-9cd76263cbd0,species,montevidensis,Lutrostylis,,G.Don,1837,"Gen. Hist. 4: 391 1837",,,,,118343-1,wfo-0000358501,4059779,
-2a99f214-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Lutrostylis,,"(Jacq.) G.Don",1837,"Gen. Hist. 4: 391 1837",,,,,118344-1,wfo-0000358502,4059773,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6237a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Lutrostylis,,,G.Don,,1837,,"Gen. Hist. 4: 374, 391. 1837.",,,,,,,wfo-4000022457,7294594,,
+2a9993be-8fcc-11eb-924d-9cd76263cbd0,species,inermis,Lutrostylis,,G.Don,,1837,,"Gen. Hist. 4: 391 1837",,,,,,118342-1,wfo-0000358500,4059786,,
+2a99cac8-8fcc-11eb-924d-9cd76263cbd0,species,montevidensis,Lutrostylis,,G.Don,,1837,,"Gen. Hist. 4: 391 1837",,,,,,118343-1,wfo-0000358501,4059779,,
+2a99f214-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Lutrostylis,,"(Jacq.) G.Don",,1837,,"Gen. Hist. 4: 391 1837",,,,,,118344-1,wfo-0000358502,4059773,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92bfd44-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudopilotrichum,,,"(Müll.Hal.) W.R.Buck & B.H.Allen",1994,"J. Hattori Bot. Lab. 75: 69. 1994.",,,,,,wfo-4000031631,8091825,
-f76d6bc6-8fcd-11eb-924d-9cd76263cbd0,species,pandurifolium,Pseudopilotrichum,,"(Müll.Hal.) W.R.Buck & B.H.Allen",1994,"J. Hattori Bot. Lab. 75: 70 1994",,,,,,wfo-0001198931,7917896,
-f76cea8e-8fcd-11eb-924d-9cd76263cbd0,species,pentastichum,Pseudopilotrichum,,"(Brid.) W.R.Buck & B.H.Allen",1994,"J. Hattori Bot. Lab. 75: 70 1994",,,,e362ceaa-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001198930,7583010,
-f76d8fac-8fcd-11eb-924d-9cd76263cbd0,species,turgidellaceum,Pseudopilotrichum,,"(Müll.Hal. ex Dusén) W.R.Buck & B.H.Allen",1994,"J. Hattori Bot. Lab. 75: 70 1994",,,,,,wfo-0001198932,8168132,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92bfd44-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudopilotrichum,,,"(Müll.Hal.) W.R.Buck & B.H.Allen",,1994,,"J. Hattori Bot. Lab. 75: 69. 1994.",,,,,,,wfo-4000031631,8091825,,
+f76d6bc6-8fcd-11eb-924d-9cd76263cbd0,species,pandurifolium,Pseudopilotrichum,,"(Müll.Hal.) W.R.Buck & B.H.Allen",,1994,,"J. Hattori Bot. Lab. 75: 70 1994",,,,,,,wfo-0001198931,7917896,,
+f76cea8e-8fcd-11eb-924d-9cd76263cbd0,species,pentastichum,Pseudopilotrichum,,"(Brid.) W.R.Buck & B.H.Allen",,1994,,"J. Hattori Bot. Lab. 75: 70 1994",,,,e362ceaa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198930,7583010,,
+f76d8fac-8fcd-11eb-924d-9cd76263cbd0,species,turgidellaceum,Pseudopilotrichum,,"(Müll.Hal. ex Dusén) W.R.Buck & B.H.Allen",,1994,,"J. Hattori Bot. Lab. 75: 70 1994",,,,,,,wfo-0001198932,8168132,,

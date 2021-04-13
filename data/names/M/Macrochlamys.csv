@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63700fc-8fd1-11eb-924d-9cd76263cbd0,genus,Macrochlamys,,,Decne.,1849,"Rev. Hort., sér. 3, 3: 243. 1849.",,,,,,wfo-4000022691,3233496,
-358c76ba-8fcc-11eb-924d-9cd76263cbd0,species,guttatus,Macrochlamys,,Decne.,1849,"Rev. Hort. III, 3: 243 1849",,,,,381758-1,wfo-0000376495,5591392,
-358c90f0-8fcc-11eb-924d-9cd76263cbd0,species,involucratus,Macrochlamys,,Decne.,1849,"Rev. Hort. III, 3: 243 1849",,,,,381759-1,wfo-0000376496,5591389,
-358cbd28-8fcc-11eb-924d-9cd76263cbd0,species,miquelii,Macrochlamys,,Decne.,1849,"Rev. Hort. III, 3: 243 1849",,,,,381760-1,wfo-0000376497,5591383,
-b94f3518-8fcd-11eb-924d-9cd76263cbd0,species,patrisii,Macrochlamys,,"(DC.) Decne.",1849,"Rev. Hort. 3: 243 1849",,,,,381761-1,wfo-0001064838,5591378,
-b4058504-8fd1-11eb-924d-9cd76263cbd0,species,speciosus,Macrochlamys,,Decne.,1849,"Rev. Hort. 21(ser. 3, 3): 243 1849",,,,,381762-1,wfo-0001231918,5591373,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63700fc-8fd1-11eb-924d-9cd76263cbd0,genus,Macrochlamys,,,Decne.,,1849,,"Rev. Hort., sér. 3, 3: 243. 1849.",,,,,,,wfo-4000022691,3233496,,
+358c76ba-8fcc-11eb-924d-9cd76263cbd0,species,guttatus,Macrochlamys,,Decne.,,1849,,"Rev. Hort. III, 3: 243 1849",,,,,,381758-1,wfo-0000376495,5591392,,
+358c90f0-8fcc-11eb-924d-9cd76263cbd0,species,involucratus,Macrochlamys,,Decne.,,1849,,"Rev. Hort. III, 3: 243 1849",,,,,,381759-1,wfo-0000376496,5591389,,
+358cbd28-8fcc-11eb-924d-9cd76263cbd0,species,miquelii,Macrochlamys,,Decne.,,1849,,"Rev. Hort. III, 3: 243 1849",,,,,,381760-1,wfo-0000376497,5591383,,
+b94f3518-8fcd-11eb-924d-9cd76263cbd0,species,patrisii,Macrochlamys,,"(DC.) Decne.",,1849,,"Rev. Hort. 3: 243 1849",,,,,,381761-1,wfo-0001064838,5591378,,
+b4058504-8fd1-11eb-924d-9cd76263cbd0,species,speciosus,Macrochlamys,,Decne.,,1849,,"Rev. Hort. 21(ser. 3, 3): 243 1849",,,,,,381762-1,wfo-0001231918,5591373,,

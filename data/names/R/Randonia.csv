@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e97a9616-8fd1-11eb-924d-9cd76263cbd0,genus,Randonia,,,Coss.,1859,"Bull. Soc. Bot. France 6: 391. 1859.",,,,,33309-1,wfo-4000032532,7276001,
-13b6f3ac-8fcd-11eb-924d-9cd76263cbd0,species,africana,Randonia,,Coss.,1859,"Bull. Soc. Bot. France 6: 392 1859",,,,,715414-1,wfo-0000733899,3916683,
-13b70e28-8fcd-11eb-924d-9cd76263cbd0,species,somalensis,Randonia,,Schinz,1895,"Bull. Herb. Boissier 3: 398 1895",,,,,715415-1,wfo-0000733900,3916675,
-13b72af2-8fcd-11eb-924d-9cd76263cbd0,species,spartioides,Randonia,,O.Schwartz,1939,"Mitt. Inst. Allg. Bot. Hamburg 10: 76 1939",,,,,715416-1,wfo-0000733901,8714230,
-03162730-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Ranevea,,"(H.Wendl. ex C.D.Bouché) L.H.Bailey",,"Cycl. Amer. Hort. 1497 1902",,,,03483e00-8fcc-11eb-924d-9cd76263cbd0,669496-1,wfo-0000294878,2739047,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e97a9616-8fd1-11eb-924d-9cd76263cbd0,genus,Randonia,,,Coss.,,1859,,"Bull. Soc. Bot. France 6: 391. 1859.",,Q55756480,,,,33309-1,wfo-4000032532,7276001,,
+13b6f3ac-8fcd-11eb-924d-9cd76263cbd0,species,africana,Randonia,,Coss.,,1859,,"Bull. Soc. Bot. France 6: 392 1859",,Q55756480,,,,715414-1,wfo-0000733899,3916683,,
+13b70e28-8fcd-11eb-924d-9cd76263cbd0,species,somalensis,Randonia,,Schinz,,1895,,"Bull. Herb. Boissier 3: 398 1895",,,,,,715415-1,wfo-0000733900,3916675,,
+13b72af2-8fcd-11eb-924d-9cd76263cbd0,species,spartioides,Randonia,,O.Schwartz,,1939,,"Mitt. Inst. Allg. Bot. Hamburg 10: 76 1939",,,,,,715416-1,wfo-0000733901,8714230,,
+03162730-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Ranevea,,"(H.Wendl. ex C.D.Bouché) L.H.Bailey",,,,"Cycl. Amer. Hort. 1497 1902",,,,03483e00-8fcc-11eb-924d-9cd76263cbd0,,669496-1,wfo-0000294878,2739047,,

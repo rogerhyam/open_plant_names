@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec67a382-8fd1-11eb-924d-9cd76263cbd0,genus,Nothovernonia,,,"H.Rob. & V.A.Funk",2011,"PhytoKeys 3: 26 (28) (2011)",,,,,77111570-1,wfo-4001303347,9621742,
-3766f0d2-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Nothria,,J.F.Gmel.,,"Syst. Nat. 1012 1791",,,,,,wfo-0000379242,5602582,
-3767149a-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Nothria,,Steud.,1821,"Nomencl. Bot. 1: 556 1821",,,,,366366-1,wfo-0000379243,5602584,
-37668534-8fcc-11eb-924d-9cd76263cbd0,species,repens,Nothria,,P.J.Bergius,1767,"Descr. Pl. Cap. 171 1767",,,,,366367-1,wfo-0000379239,5602583,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec67a382-8fd1-11eb-924d-9cd76263cbd0,genus,Nothovernonia,,,"H.Rob. & V.A.Funk",,2011,,"PhytoKeys 3: 26 (28) (2011)",,Q21128522,,,,77111570-1,wfo-4001303347,9621742,,
+3766f0d2-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Nothria,,J.F.Gmel.,,,,"Syst. Nat. 1012 1791",,,,,,,wfo-0000379242,5602582,,
+3767149a-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Nothria,,Steud.,,1821,,"Nomencl. Bot. 1: 556 1821",,,,,,366366-1,wfo-0000379243,5602584,,
+37668534-8fcc-11eb-924d-9cd76263cbd0,species,repens,Nothria,,P.J.Bergius,,1767,,"Descr. Pl. Cap. 171 1767",,,,,,366367-1,wfo-0000379239,5602583,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec21f698-8fd1-11eb-924d-9cd76263cbd0,genus,Xenophontia,,,,,,,,,,,wfo-4000040919,7337110,
-56de6a02-8fb4-11eb-924d-9cd76263cbd0,species,caryophylla,Xenophontia,,Vell.,1825,"347 1825",,,,,,wfo-0000063562,3105321,
-724dd5f0-8fbb-11eb-924d-9cd76263cbd0,species,obovata,Xenophontia,,Regel,,"Cat. Pl. Hort. Aksakov. 147 (Quid ?).",,,,,260956-1,wfo-0000134308,4224804,
-1be4143e-8fcc-11eb-924d-9cd76263cbd0,species,brancifolia,Xenophya,,Schott,1863,"Ann. Mus. Bot. Lugduno-Batavi 1: 124 1863",,,,,89395-1,wfo-0000334963,2866516,
-1be4505c-8fcc-11eb-924d-9cd76263cbd0,species,lauterbachiana,Xenophya,,"(Engl.) Nicolson",1968,"Blumea 16: 117 1968",,,,0a981fae-8fcc-11eb-924d-9cd76263cbd0,89396-1,wfo-0000334965,2866557,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec21f698-8fd1-11eb-924d-9cd76263cbd0,genus,Xenophontia,,,,,,,,,,,,,,wfo-4000040919,7337110,,
+56de6a02-8fb4-11eb-924d-9cd76263cbd0,species,caryophylla,Xenophontia,,Vell.,,1825,,"347 1825",,,,,,,wfo-0000063562,3105321,,
+724dd5f0-8fbb-11eb-924d-9cd76263cbd0,species,obovata,Xenophontia,,Regel,,,,"Cat. Pl. Hort. Aksakov. 147 (Quid ?).",,,,,,260956-1,wfo-0000134308,4224804,,
+1be4143e-8fcc-11eb-924d-9cd76263cbd0,species,brancifolia,Xenophya,,Schott,,1863,,"Ann. Mus. Bot. Lugduno-Batavi 1: 124 1863",,,,,,89395-1,wfo-0000334963,2866516,,
+1be4505c-8fcc-11eb-924d-9cd76263cbd0,species,lauterbachiana,Xenophya,,"(Engl.) Nicolson",,1968,,"Blumea 16: 117 1968",,Q96028324,,0a981fae-8fcc-11eb-924d-9cd76263cbd0,,89396-1,wfo-0000334965,2866557,,

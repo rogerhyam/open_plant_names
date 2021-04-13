@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e78f3fe6-8fd1-11eb-924d-9cd76263cbd0,genus,Ondetia,,,Benth.,,,,,,,10275-1,wfo-4000026866,3103319,
-1a6bb482-8fb7-11eb-924d-9cd76263cbd0,species,linearis,Ondetia,,Benth.,,"Hook. Ic. Pl. t. 1112.",,,,,,wfo-0000096394,3103320,
-3edea85a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Ondinea,,Hartog,1970,"Blumea 18: 413 1970",,,,,605770-1,wfo-0000388884,7326928,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e78f3fe6-8fd1-11eb-924d-9cd76263cbd0,genus,Ondetia,,,Benth.,,,,,,,,,,10275-1,wfo-4000026866,3103319,,
+1a6bb482-8fb7-11eb-924d-9cd76263cbd0,species,linearis,Ondetia,,Benth.,,,,"Hook. Ic. Pl. t. 1112.",,,,,,,wfo-0000096394,3103320,,
+3edea85a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Ondinea,,Hartog,,1970,,"Blumea 18: 413 1970",,Q96028163,,,,605770-1,wfo-0000388884,7326928,,

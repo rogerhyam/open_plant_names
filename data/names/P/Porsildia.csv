@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8f367cc-8fd1-11eb-924d-9cd76263cbd0,genus,Porsildia,,,"Á.Löve & D.Löve",1975,"Bot. Not. 128(4): 509. 1975[1976].",,,,,,wfo-4000030975,3085328,
-c7b7c396-8fd1-11eb-924d-9cd76263cbd0,species,groenlandica,Porsildia,,"(Retz.) Á.Löve & D.Löve",1975,"Bot. Not. 128(4): 509 1975",,,,,208478-2,wfo-0001268214,3085495,
-c7b7fa14-8fd1-11eb-924d-9cd76263cbd0,subspecies,glabra,Porsildia,groenlandica,"(Michx.) Á.Löve & D.Löve",1975,"Bot. Not. 128(4): 509 1975",,,,,208479-2,wfo-0001268216,3085551,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8f367cc-8fd1-11eb-924d-9cd76263cbd0,genus,Porsildia,,,"Á.Löve & D.Löve",,1975,,"Bot. Not. 128(4): 509. 1975[1976].",,,,,,,wfo-4000030975,3085328,,
+c7b7c396-8fd1-11eb-924d-9cd76263cbd0,species,groenlandica,Porsildia,,"(Retz.) Á.Löve & D.Löve",,1975,,"Bot. Not. 128(4): 509 1975",,,,,,208478-2,wfo-0001268214,3085495,,
+c7b7fa14-8fd1-11eb-924d-9cd76263cbd0,subspecies,glabra,Porsildia,groenlandica,"(Michx.) Á.Löve & D.Löve",,1975,,"Bot. Not. 128(4): 509 1975",,,,,,208479-2,wfo-0001268216,3085551,,

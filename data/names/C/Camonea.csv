@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e11bc4c2-8fd1-11eb-924d-9cd76263cbd0,genus,Camonea,,,Raf.,1836,"Fl. Tellur. 4: 81. 1836[1838].",,,,,11814-1,wfo-4000006374,9637520,
-dbc4c1f4-8fd1-11eb-924d-9cd76263cbd0,species,bifida,Camonea,,"(Vahl) Raf.",1838,"Fl. Tellur. 4: 81 1838",,,,,265715-1,wfo-0001298493,3678327,
-76e4578a-8fcd-11eb-924d-9cd76263cbd0,species,venusta,Campaccia,,"(Drapiez) Baptista, P.A.Harding & V.P.Castro",2011,"Colet. Orquídeas Brasil. 9: 317 2011",,,,,77112619-1,wfo-0000923283,8411256,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e11bc4c2-8fd1-11eb-924d-9cd76263cbd0,genus,Camonea,,,Raf.,,1836,,"Fl. Tellur. 4: 81. 1836[1838].",,,,,,11814-1,wfo-4000006374,9637520,,
+dbc4c1f4-8fd1-11eb-924d-9cd76263cbd0,species,bifida,Camonea,,"(Vahl) Raf.",,1838,,"Fl. Tellur. 4: 81 1838",,,,,,265715-1,wfo-0001298493,3678327,,
+76e4578a-8fcd-11eb-924d-9cd76263cbd0,species,venusta,Campaccia,,"(Drapiez) Baptista, P.A.Harding & V.P.Castro",,2011,,"Colet. Orquídeas Brasil. 9: 317 2011",,,,,,77112619-1,wfo-0000923283,8411256,,

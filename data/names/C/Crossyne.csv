@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2337a94-8fd1-11eb-924d-9cd76263cbd0,genus,Crossyne,,,Salisb.,1866,"Gen. Pl. 116. 1866.",,,,,1428-1,wfo-4000009786,2853221,
-e07b90d8-8fcc-11eb-924d-9cd76263cbd0,species,ciliaris,Crossyne,,"(L.) Salisb.",1866,"Gen. Pl. 117 1866",,,,,64128-1,wfo-0000644221,2853225,
-e07d4676-8fcc-11eb-924d-9cd76263cbd0,species,flava,Crossyne,,"(W.F.Barker ex Snijman) D.Müll.-Doblies & U.Müll.-Doblies",1994,"Feddes Repert. 105: 358 1994",,,,2120c00e-8fcd-11eb-924d-9cd76263cbd0,979954-1,wfo-0000644233,2853222,
-e07e8e96-8fcc-11eb-924d-9cd76263cbd0,species,guttata,Crossyne,,"(L.) D.Müll.-Doblies & U.Müll.-Doblies",1994,"Feddes Repert. 105: 357 1994",,,,1ff4d774-8fcd-11eb-924d-9cd76263cbd0,979953-1,wfo-0000644244,2853224,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2337a94-8fd1-11eb-924d-9cd76263cbd0,genus,Crossyne,,,Salisb.,,1866,,"Gen. Pl. 116. 1866.",,,,,,1428-1,wfo-4000009786,2853221,,
+e07b90d8-8fcc-11eb-924d-9cd76263cbd0,species,ciliaris,Crossyne,,"(L.) Salisb.",,1866,,"Gen. Pl. 117 1866",,,,,,64128-1,wfo-0000644221,2853225,,
+e07d4676-8fcc-11eb-924d-9cd76263cbd0,species,flava,Crossyne,,"(W.F.Barker ex Snijman) D.Müll.-Doblies & U.Müll.-Doblies",,1994,,"Feddes Repert. 105: 358 1994",,Q55754851,,2120c00e-8fcd-11eb-924d-9cd76263cbd0,,979954-1,wfo-0000644233,2853222,,
+e07e8e96-8fcc-11eb-924d-9cd76263cbd0,species,guttata,Crossyne,,"(L.) D.Müll.-Doblies & U.Müll.-Doblies",,1994,,"Feddes Repert. 105: 357 1994",,Q55754851,,1ff4d774-8fcd-11eb-924d-9cd76263cbd0,,979953-1,wfo-0000644244,2853224,,

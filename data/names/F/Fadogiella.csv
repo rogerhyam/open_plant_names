@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a90b1e-8fd1-11eb-924d-9cd76263cbd0,genus,Fadogiella,,,Robyns,1928,"Bull. Jard. Bot. État Bruxelles 11: 94. 1928.",,,,,34597-1,wfo-4000014535,2907643,
-8ac185d4-8fcd-11eb-924d-9cd76263cbd0,species,cana,Fadogiella,,"(K.Schum.) Robyns",1928,"Bull. Jard. Bot. État 11: 96 1928",,,,,749028-1,wfo-0000966360,2907652,
-8ac1a1ae-8fcd-11eb-924d-9cd76263cbd0,species,manikensis,Fadogiella,,"(De Wild.) Robyns",1928,"Bull. Jard. Bot. État 11: 97 1928",,,,,749029-1,wfo-0000966361,2907645,
-8ac1dc96-8fcd-11eb-924d-9cd76263cbd0,species,rogersii,Fadogiella,,"(Wernham) Bridson",1996,"Kew Bull. 51: 351 1996",,,,,988786-1,wfo-0000966363,2907649,
-8ac1f960-8fcd-11eb-924d-9cd76263cbd0,species,stigmatoloba,Fadogiella,,"(K.Schum.) Robyns",1928,"Bull. Jard. Bot. État 11: 96 1928",,,,8abe6fde-8fcd-11eb-924d-9cd76263cbd0,749030-1,wfo-0000966364,2907644,
-8ac21332-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Fadogiella,,Robyns,1928,"Bull. Jard. Bot. État 11: 95 1928",,,,,749031-1,wfo-0000966365,2907648,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a90b1e-8fd1-11eb-924d-9cd76263cbd0,genus,Fadogiella,,,Robyns,,1928,,"Bull. Jard. Bot. État Bruxelles 11: 94. 1928.",,,,,,34597-1,wfo-4000014535,2907643,,
+8ac185d4-8fcd-11eb-924d-9cd76263cbd0,species,cana,Fadogiella,,"(K.Schum.) Robyns",,1928,,"Bull. Jard. Bot. État 11: 96 1928",,,,,,749028-1,wfo-0000966360,2907652,,
+8ac1a1ae-8fcd-11eb-924d-9cd76263cbd0,species,manikensis,Fadogiella,,"(De Wild.) Robyns",,1928,,"Bull. Jard. Bot. État 11: 97 1928",,,,,,749029-1,wfo-0000966361,2907645,,
+8ac1dc96-8fcd-11eb-924d-9cd76263cbd0,species,rogersii,Fadogiella,,"(Wernham) Bridson",,1996,,"Kew Bull. 51: 351 1996",,Q55787560,,,,988786-1,wfo-0000966363,2907649,,
+8ac1f960-8fcd-11eb-924d-9cd76263cbd0,species,stigmatoloba,Fadogiella,,"(K.Schum.) Robyns",,1928,,"Bull. Jard. Bot. État 11: 96 1928",,,,8abe6fde-8fcd-11eb-924d-9cd76263cbd0,,749030-1,wfo-0000966364,2907644,,
+8ac21332-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Fadogiella,,Robyns,,1928,,"Bull. Jard. Bot. État 11: 95 1928",,,,,,749031-1,wfo-0000966365,2907648,,

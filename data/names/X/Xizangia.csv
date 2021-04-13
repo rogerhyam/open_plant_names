@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec296086-8fd1-11eb-924d-9cd76263cbd0,genus,Xizangia,,,D.Y.Hong,1986,"Acta Phytotax. Sin. 24(2): 139–141. 1986.",,,,,,wfo-4000041000,3233388,
-be3d516e-8fd1-11eb-924d-9cd76263cbd0,species,bartschioides,Xizangia,,"(Hand.-Mazz.) C.Y.Wu & D.D.Tao",1999,"Novon 9(2): 288 1999",,,,db751aa4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001250773,7578144,
-5dbf0166-8fcc-11eb-924d-9cd76263cbd0,species,bartsioides,Xizangia,,"(Hand.-Mazz.) C.Y.Wu & D.D.Tao",1999,"Novon 9: 288 1999",,,,,1007888-1,wfo-0000428441,5564039,
-b1ecb724-8fd1-11eb-924d-9cd76263cbd0,species,serrata,Xizangia,,D.Y.Hong,1986,"Acta Phytotax. Sin. 24(2): 141–142, pl. 1 1986",,,,,929834-1,wfo-0001228104,5564037,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec296086-8fd1-11eb-924d-9cd76263cbd0,genus,Xizangia,,,D.Y.Hong,,1986,,"Acta Phytotax. Sin. 24(2): 139–141. 1986.",,,,,,,wfo-4000041000,3233388,,
+be3d516e-8fd1-11eb-924d-9cd76263cbd0,species,bartschioides,Xizangia,,"(Hand.-Mazz.) C.Y.Wu & D.D.Tao",,1999,,"Novon 9(2): 288 1999",,,,db751aa4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001250773,7578144,,
+5dbf0166-8fcc-11eb-924d-9cd76263cbd0,species,bartsioides,Xizangia,,"(Hand.-Mazz.) C.Y.Wu & D.D.Tao",,1999,,"Novon 9: 288 1999",,Q55774144,,,,1007888-1,wfo-0000428441,5564039,,
+b1ecb724-8fd1-11eb-924d-9cd76263cbd0,species,serrata,Xizangia,,D.Y.Hong,,1986,,"Acta Phytotax. Sin. 24(2): 141–142, pl. 1 1986",,,,,,929834-1,wfo-0001228104,5564037,,

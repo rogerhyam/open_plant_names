@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea70a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonostegia,,,Benth.,1835,"Edwards's Bot. Reg. 203. 1835.",,,,,38014-1,wfo-4000035523,7332378,
-868ca5b2-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Siphonostegia,,Benth.,1837,"Bot. Beechey Voy. 203 1837",,,,,809721-1,wfo-0000495851,3732295,
-868c012a-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Siphonostegia,,Gand.,1919,"Bull. Soc. Bot. France 66: 219 1919",,,,,809722-1,wfo-0000495845,3732290,
-db7ce6c6-8fcd-11eb-924d-9cd76263cbd0,species,laeta,Siphonostegia,,S.Moore,1880,"J. Bot. 18(205): 5 1880",,,,,809723-1,wfo-0001140200,3732285,
-868c1d9a-8fcc-11eb-924d-9cd76263cbd0,species,syriaca,Siphonostegia,,"(Boiss. & Reut.) Boiss.",1879,"Fl. Orient. 4: 471 1879",,,,694edf38-8fcc-11eb-924d-9cd76263cbd0,809724-1,wfo-0000495846,3732278,
-cae1a96e-8fcd-11eb-924d-9cd76263cbd0,species,stenophyllum,Siphonostelma,,Schltr.,1913,"Bot. Jahrb. Syst. 51: 148 1913",,,,,101415-1,wfo-0001103965,3577864,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea70a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonostegia,,,Benth.,,1835,,"Edwards's Bot. Reg. 203. 1835.",,,,,,38014-1,wfo-4000035523,7332378,,
+868ca5b2-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Siphonostegia,,Benth.,,1837,,"Bot. Beechey Voy. 203 1837",,,,,,809721-1,wfo-0000495851,3732295,,
+868c012a-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Siphonostegia,,Gand.,,1919,,"Bull. Soc. Bot. France 66: 219 1919",,Q55757065,,,,809722-1,wfo-0000495845,3732290,,
+db7ce6c6-8fcd-11eb-924d-9cd76263cbd0,species,laeta,Siphonostegia,,S.Moore,,1880,,"J. Bot. 18(205): 5 1880",,,,,,809723-1,wfo-0001140200,3732285,,
+868c1d9a-8fcc-11eb-924d-9cd76263cbd0,species,syriaca,Siphonostegia,,"(Boiss. & Reut.) Boiss.",,1879,,"Fl. Orient. 4: 471 1879",,,,694edf38-8fcc-11eb-924d-9cd76263cbd0,,809724-1,wfo-0000495846,3732278,,
+cae1a96e-8fcd-11eb-924d-9cd76263cbd0,species,stenophyllum,Siphonostelma,,Schltr.,,1913,,"Bot. Jahrb. Syst. 51: 148 1913",,,,,,101415-1,wfo-0001103965,3577864,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53b8c72-8fd1-11eb-924d-9cd76263cbd0,genus,Jefea,,,Strother,,,,,,,956823-1,wfo-4000019545,3114435,
-c2cd0310-8fb2-11eb-924d-9cd76263cbd0,species,brevifolia,Jefea,,"(A.Gray) Strother",1991,"Syst. Bot. Monogr. 33 26 1991",,,,,963283-1,wfo-0000033802,3114436,
-2b0c5536-8fbb-11eb-924d-9cd76263cbd0,species,gnaphalioides,Jefea,,A.Gray,1991,"Syst. Bot. Monogr. 33: 27. 1991",,,,,,wfo-0000132246,7610065,
-1c114ce4-8fb6-11eb-924d-9cd76263cbd0,species,gnaphalioides,Jefea,,"(A.Gray) Strother",1991,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 27 (1991):.",,,,,963284-1,wfo-0000085773,7610065,
-759b7fc2-8fb2-11eb-924d-9cd76263cbd0,species,lantanifolia,Jefea,,"(Schauer) Strother",1991,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 24 (1991):.",,,,17f9264a-8fbb-11eb-924d-9cd76263cbd0,963282-1,wfo-0000025127,8413209,
-17f9264a-8fbb-11eb-924d-9cd76263cbd0,species,lantanifolia,Jefea,,Schauer,1991,"Syst. Bot. Monogr. 33: 24. 1991",,,,,,wfo-0000131664,8413209,
-fd9b9f02-8fb1-11eb-924d-9cd76263cbd0,species,phyllocephala,Jefea,,"(Hemsl.) Strother",1991,"29 1991",,,,a26d18b4-8fb5-11eb-924d-9cd76263cbd0,963286-1,wfo-0000000639,3114442,
-6e85af14-8fb2-11eb-924d-9cd76263cbd0,species,pringlei,Jefea,,"(Greenm.) Strother",1991,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 28 (1991):.",,,,,963285-1,wfo-0000024344,3114438,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53b8c72-8fd1-11eb-924d-9cd76263cbd0,genus,Jefea,,,Strother,,,,,,Q54802470,,,,956823-1,wfo-4000019545,3114435,,
+c2cd0310-8fb2-11eb-924d-9cd76263cbd0,species,brevifolia,Jefea,,"(A.Gray) Strother",,1991,,"Syst. Bot. Monogr. 33 26 1991",,Q54802470,,,,963283-1,wfo-0000033802,3114436,,
+2b0c5536-8fbb-11eb-924d-9cd76263cbd0,species,gnaphalioides,Jefea,,A.Gray,,1991,,"Syst. Bot. Monogr. 33: 27. 1991",,,,,,,wfo-0000132246,7610065,,
+1c114ce4-8fb6-11eb-924d-9cd76263cbd0,species,gnaphalioides,Jefea,,"(A.Gray) Strother",,1991,,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 27 (1991):.",,Q54802470,,,,963284-1,wfo-0000085773,7610065,,
+759b7fc2-8fb2-11eb-924d-9cd76263cbd0,species,lantanifolia,Jefea,,"(Schauer) Strother",,1991,,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 24 (1991):.",,Q54802470,,17f9264a-8fbb-11eb-924d-9cd76263cbd0,,963282-1,wfo-0000025127,8413209,,
+17f9264a-8fbb-11eb-924d-9cd76263cbd0,species,lantanifolia,Jefea,,Schauer,,1991,,"Syst. Bot. Monogr. 33: 24. 1991",,,,,,,wfo-0000131664,8413209,,
+fd9b9f02-8fb1-11eb-924d-9cd76263cbd0,species,phyllocephala,Jefea,,"(Hemsl.) Strother",,1991,,"29 1991",,Q54802470,,a26d18b4-8fb5-11eb-924d-9cd76263cbd0,,963286-1,wfo-0000000639,3114442,,
+6e85af14-8fb2-11eb-924d-9cd76263cbd0,species,pringlei,Jefea,,"(Greenm.) Strother",,1991,,"Taxon. Complaya, Elaphandra etc. (Compos.-Helianth.-Ecliptin.)(Syst. Bot. Monog., 33): 28 (1991):.",,Q54802470,,,,963285-1,wfo-0000024344,3114438,,

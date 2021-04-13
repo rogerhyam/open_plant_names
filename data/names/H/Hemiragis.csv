@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e496da9c-8fd1-11eb-924d-9cd76263cbd0,genus,Hemiragis,,,"(Brid.) Besch.",1876,"Ann. Sci. Nat., Bot., sér. 6, 3: 242. 1876.",,,,,,wfo-4000017419,9538692,
-eb892854-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Hemiragis,,"(Lam. ex Brid.) Kindb.",1894,"Enum. Bryin. Exot. 16 197 1894",,,,,,wfo-0001174634,7996540,
-eb894ae6-8fcd-11eb-924d-9cd76263cbd0,species,friedrichsthaliana,Hemiragis,,Reichardt,1877,"Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1 75: 579 1877",,,,,,wfo-0001174635,7727097,
-eb89744e-8fcd-11eb-924d-9cd76263cbd0,species,ornans,Hemiragis,,Reichardt,1877,"Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1 75: 577 1877",,,,,,wfo-0001174636,7852537,
-eb89eeec-8fcd-11eb-924d-9cd76263cbd0,species,striata,Hemiragis,,"(Schwägr.) Besch.",1876,"Ann. Sci. Nat., Bot., sér. 6, 3: 242 1876",,,,e61a5618-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001174637,8012605,
-554d0784-8fcd-11eb-924d-9cd76263cbd0,species,gonatodes,Hemisacris,,Steud.,1829,"Flora 12: 490 1829",,,,,404727-1,wfo-0000874103,4124339,
-0c17a6b4-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Hemisandra,,Scheidw.,1842,"Bull. Acad. Roy. Sci. Bruxelles 9(1): 23 1842",,,,,49561-1,wfo-0000719613,3781527,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e496da9c-8fd1-11eb-924d-9cd76263cbd0,genus,Hemiragis,,,"(Brid.) Besch.",,1876,,"Ann. Sci. Nat., Bot., sér. 6, 3: 242. 1876.",,,,,,,wfo-4000017419,9538692,,
+eb892854-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Hemiragis,,"(Lam. ex Brid.) Kindb.",,1894,,"Enum. Bryin. Exot. 16 197 1894",,,,,,,wfo-0001174634,7996540,,
+eb894ae6-8fcd-11eb-924d-9cd76263cbd0,species,friedrichsthaliana,Hemiragis,,Reichardt,,1877,,"Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1 75: 579 1877",,,,,,,wfo-0001174635,7727097,,
+eb89744e-8fcd-11eb-924d-9cd76263cbd0,species,ornans,Hemiragis,,Reichardt,,1877,,"Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1 75: 577 1877",,,,,,,wfo-0001174636,7852537,,
+eb89eeec-8fcd-11eb-924d-9cd76263cbd0,species,striata,Hemiragis,,"(Schwägr.) Besch.",,1876,,"Ann. Sci. Nat., Bot., sér. 6, 3: 242 1876",,,,e61a5618-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001174637,8012605,,
+554d0784-8fcd-11eb-924d-9cd76263cbd0,species,gonatodes,Hemisacris,,Steud.,,1829,,"Flora 12: 490 1829",,,,,,404727-1,wfo-0000874103,4124339,,
+0c17a6b4-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Hemisandra,,Scheidw.,,1842,,"Bull. Acad. Roy. Sci. Bruxelles 9(1): 23 1842",,,,,,49561-1,wfo-0000719613,3781527,,

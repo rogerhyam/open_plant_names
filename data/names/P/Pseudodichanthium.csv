@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e91f3910-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodichanthium,,,Bor,1940,"Indian Forester 66: 271. 1940.",,,,,18827-1,wfo-4000031493,4152048,
-5f7178c6-8fcd-11eb-924d-9cd76263cbd0,species,cookei,Pseudodichanthium,,M.R.Almeida,1987,"J. Bombay Nat. Hist. Soc. 84: 388 1987",,,,,,wfo-0000894889,4152047,
-5f71aca6-8fcd-11eb-924d-9cd76263cbd0,species,serrafalcoides,Pseudodichanthium,,"(Cooke & Stapf) Bor",1940,"Indian Forester 66: 272 1940",,,,4918bc88-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000894890,4931933,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e91f3910-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudodichanthium,,,Bor,,1940,,"Indian Forester 66: 271. 1940.",,,,,,18827-1,wfo-4000031493,4152048,,
+5f7178c6-8fcd-11eb-924d-9cd76263cbd0,species,cookei,Pseudodichanthium,,M.R.Almeida,,1987,,"J. Bombay Nat. Hist. Soc. 84: 388 1987",,,,,,,wfo-0000894889,4152047,,
+5f71aca6-8fcd-11eb-924d-9cd76263cbd0,species,serrafalcoides,Pseudodichanthium,,"(Cooke & Stapf) Bor",,1940,,"Indian Forester 66: 272 1940",,,,4918bc88-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000894890,4931933,,

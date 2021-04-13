@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95bf206-8fd1-11eb-924d-9cd76263cbd0,genus,Punjuba,,,,,,,,,,,wfo-4000032185,7266077,
-b41d5c82-8fcd-11eb-924d-9cd76263cbd0,species,dependens,Punjuba,,"(Rusby) Killip",1940,"Trop. Woods 63: 6 1940",,,,,516957-1,wfo-0001052938,7957948,
-7bbb24c4-8fcc-11eb-924d-9cd76263cbd0,species,depends,Punjuba,,"(Rusby) Killip ex Record",1940,"Trop. Woods 63: 6 1940",,,,,214474-2,wfo-0000477069,3795215,
-b41d76e0-8fcd-11eb-924d-9cd76263cbd0,species,killipii,Punjuba,,"Britton & Rose ex Britton & Killip",1936,"Ann. New York Acad. Sci. 35(3): 127 1936",,,,,,wfo-0001052939,2977828,
-b41d9292-8fcd-11eb-924d-9cd76263cbd0,species,lehmannii,Punjuba,,"Britton & Rose ex Britton & Killip",1936,"Ann. New York Acad. Sci. 35(3): 127 1936",,,,,1161700-2,wfo-0001052940,2977950,
-55b97bb4-8fc1-11eb-924d-9cd76263cbd0,species,racemiflora,Punjuba,,"(Donn.Sm.) Britton & Rose",,,,,,,1026885-2,wfo-0000171349,2977911,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95bf206-8fd1-11eb-924d-9cd76263cbd0,genus,Punjuba,,,,,,,,,,,,,,wfo-4000032185,7266077,,
+b41d5c82-8fcd-11eb-924d-9cd76263cbd0,species,dependens,Punjuba,,"(Rusby) Killip",,1940,,"Trop. Woods 63: 6 1940",,,,,,516957-1,wfo-0001052938,7957948,,
+7bbb24c4-8fcc-11eb-924d-9cd76263cbd0,species,depends,Punjuba,,"(Rusby) Killip ex Record",,1940,,"Trop. Woods 63: 6 1940",,,,,,214474-2,wfo-0000477069,3795215,,
+b41d76e0-8fcd-11eb-924d-9cd76263cbd0,species,killipii,Punjuba,,"Britton & Rose ex Britton & Killip",,1936,,"Ann. New York Acad. Sci. 35(3): 127 1936",,,,,,,wfo-0001052939,2977828,,
+b41d9292-8fcd-11eb-924d-9cd76263cbd0,species,lehmannii,Punjuba,,"Britton & Rose ex Britton & Killip",,1936,,"Ann. New York Acad. Sci. 35(3): 127 1936",,Q95997654,,,,1161700-2,wfo-0001052940,2977950,,
+55b97bb4-8fc1-11eb-924d-9cd76263cbd0,species,racemiflora,Punjuba,,"(Donn.Sm.) Britton & Rose",,,,,,,,,,1026885-2,wfo-0000171349,2977911,,

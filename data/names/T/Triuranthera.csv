@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebab0e20-8fd1-11eb-924d-9cd76263cbd0,genus,Triuranthera,,,Backer,1920,"Bull. Jard. Bot. Buitenzorg ser. 3. 2: 319. 1920.",,,,,,wfo-4000039414,7273080,
-d3172b58-8fbf-11eb-924d-9cd76263cbd0,species,bakhuizenii,Triuranthera,,Backer,1920,"Bull. Jard. Bot. Buitenzorg ser. III, ii. 320 (1920).",,,,,576834-1,wfo-0000162330,3866923,
-d321b924-8fbf-11eb-924d-9cd76263cbd0,species,brevipedunculata,Triuranthera,,Bakh.f.,1943,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht No. 91, 270 (1943)",,,,,576835-1,wfo-0000162331,3866917,
-d32c5db6-8fbf-11eb-924d-9cd76263cbd0,species,dispar,Triuranthera,,Nayar,1973,"J. Jap. Bot. 48(2): 50 (1973)",,,,,576836-1,wfo-0000162332,3866909,
-d336fdb6-8fbf-11eb-924d-9cd76263cbd0,species,hirsuta,Triuranthera,,Nayar,1966,"Kew Bull. xx. 244 (1966).",,,,,576837-1,wfo-0000162333,3866898,
-d3418e0c-8fbf-11eb-924d-9cd76263cbd0,species,winkleri,Triuranthera,,"Backer ex Bakh.f.",1943,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht No. 91, 271 (1943)",,,,,576838-1,wfo-0000162334,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebab0e20-8fd1-11eb-924d-9cd76263cbd0,genus,Triuranthera,,,Backer,,1920,,"Bull. Jard. Bot. Buitenzorg ser. 3. 2: 319. 1920.",,,,,,,wfo-4000039414,7273080,,
+d3172b58-8fbf-11eb-924d-9cd76263cbd0,species,bakhuizenii,Triuranthera,,Backer,,1920,,"Bull. Jard. Bot. Buitenzorg ser. III, ii. 320 (1920).",,,,,,576834-1,wfo-0000162330,3866923,,
+d321b924-8fbf-11eb-924d-9cd76263cbd0,species,brevipedunculata,Triuranthera,,Bakh.f.,,1943,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht No. 91, 270 (1943)",,Q100443246,,,,576835-1,wfo-0000162331,3866917,,
+d32c5db6-8fbf-11eb-924d-9cd76263cbd0,species,dispar,Triuranthera,,Nayar,,1973,,"J. Jap. Bot. 48(2): 50 (1973)",,Q104826106,,,,576836-1,wfo-0000162332,3866909,,
+d336fdb6-8fbf-11eb-924d-9cd76263cbd0,species,hirsuta,Triuranthera,,Nayar,,1966,,"Kew Bull. xx. 244 (1966).",,Q55778877,,,,576837-1,wfo-0000162333,3866898,,
+d3418e0c-8fbf-11eb-924d-9cd76263cbd0,species,winkleri,Triuranthera,,"Backer ex Bakh.f.",,1943,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht No. 91, 271 (1943)",,Q100443246,,,,576838-1,wfo-0000162334,,,

@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cc1e96-8fd1-11eb-924d-9cd76263cbd0,genus,Hollermayera,,,O.E.Schulz,1928,"Notizbl. Bot. Gart. Berlin–Dahlem 10: 463. 1928.",,,,,297367-2,wfo-4000018062,3050512,
-cdbd1a2a-8fd1-11eb-924d-9cd76263cbd0,species,sylvatica,Hollermayera,,O.E.Schulz,1928,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 463 1928",,,,,123536-2,wfo-0001279366,3050515,
-0ea3faae-8fcd-11eb-924d-9cd76263cbd0,species,valdiviana,Hollermayera,,"(Phil.) Ravenna",1981,"Nordic J. Bot. 1: 142 1981",,,,,123537-2,wfo-0000724266,3050513,
-eb109a20-8fcc-11eb-924d-9cd76263cbd0,species,comosa,Hollia,,"(Thunb.) Heynh.",1846,"Alph. Aufz. Gew. 303 1846",,,,,536504-1,wfo-0000661999,5304394,
-f54296a0-8fcd-11eb-924d-9cd76263cbd0,species,myrmecoa,Hollia,,Sieber,1826,"Flora 9: 223 1826",,,,,,wfo-0001194221,8085363,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cc1e96-8fd1-11eb-924d-9cd76263cbd0,genus,Hollermayera,,,O.E.Schulz,,1928,,"Notizbl. Bot. Gart. Berlin–Dahlem 10: 463. 1928.",,Q55777377,,,,297367-2,wfo-4000018062,3050512,,
+cdbd1a2a-8fd1-11eb-924d-9cd76263cbd0,species,sylvatica,Hollermayera,,O.E.Schulz,,1928,,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 463 1928",,Q55777377,,,,123536-2,wfo-0001279366,3050515,,
+0ea3faae-8fcd-11eb-924d-9cd76263cbd0,species,valdiviana,Hollermayera,,"(Phil.) Ravenna",,1981,,"Nordic J. Bot. 1: 142 1981",,Q55761051,,,,123537-2,wfo-0000724266,3050513,,

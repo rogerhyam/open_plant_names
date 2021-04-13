@@ -1,11 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e591775e-8fd1-11eb-924d-9cd76263cbd0,genus,Lapsyoungia,,,,,,,,,,,wfo-4000020598,7335934,
-d3d5c9be-8fb5-11eb-924d-9cd76263cbd0,species,musashiensis,Lapsyoungia,,"(Hiyama) Hiyama",1953,"J. Jap. Bot. xxviii. 218 (1953).",,,,,228776-1,wfo-0000082618,4207642,
-2ba30f42-8fcc-11eb-924d-9cd76263cbd0,species,aquatica,Larbrea,,"(L.) Ser.",1824,"Prodr. 1: 395 1824",,,,,154891-1,wfo-0000360197,3809407,
-2ba32c02-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Larbrea,,Rchb.,1852,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,wfo-0000360198,3809398,
-2ba361f4-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Larbrea,,"(Ehrh.) Rchb.",1852,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,63da6996-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000360200,3809390,
-2ba37f68-8fcc-11eb-924d-9cd76263cbd0,species,graminea,Larbrea,,Fuss,1866,"Fl. Transsilv. 119 1866",,,,,154894-1,wfo-0000360201,3809383,
-2ba39980-8fcc-11eb-924d-9cd76263cbd0,species,linoides,Larbrea,,Opiz,1852,"Seznam 57 1852",,,,,154895-1,wfo-0000360202,3809372,
-2ba4cabc-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Larbrea,,Fuss,1866,"Fl. Transsilv. 118 1866",,,,,154896-1,wfo-0000360210,3809364,
-2ba3b9f6-8fcc-11eb-924d-9cd76263cbd0,species,uliginosa,Larbrea,,Rchb.,1852,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,wfo-0000360203,7267226,
-c546ac1c-8fd1-11eb-924d-9cd76263cbd0,variety,alpina,Larbrea,uliginosa,Schur,1866,"Enum. Pl. Transsilv. 115 1866",,,,,135592-2,wfo-0001263777,3809353,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e591775e-8fd1-11eb-924d-9cd76263cbd0,genus,Lapsyoungia,,,,,,,,,,,,,,wfo-4000020598,7335934,,
+d3d5c9be-8fb5-11eb-924d-9cd76263cbd0,species,musashiensis,Lapsyoungia,,"(Hiyama) Hiyama",,1953,,"J. Jap. Bot. xxviii. 218 (1953).",,Q104822941,,,,228776-1,wfo-0000082618,4207642,,

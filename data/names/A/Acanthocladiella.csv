@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deb534e8-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthocladiella,,,M.Fleisch.,,"Musci Buitenzorg 4: 1381. 1923.",,,,,,wfo-4000000108,4890252,
-f147dbf0-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Acanthocladiella,,"(P.de la Varde) H.Rob. & C.F.Reed",1966,"Bryologist 69: 322 1966",,,,f5391cba-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001186392,7987377,
-dee76e12-8fcd-11eb-924d-9cd76263cbd0,species,congoana,Acanthocladiella,,"Thér. & Dixon",1928,"Mouss. Oubangui 142. f. 40 1928",,,,,,wfo-0001147539,7465801,
-dee7990a-8fcd-11eb-924d-9cd76263cbd0,species,flexilis,Acanthocladiella,,"(Renauld & Cardot) M.Fleisch.",,"Musci Buitenzorg 4: 1382 1923",,,,,,wfo-0001147540,8097374,
-f147f9d2-8fcd-11eb-924d-9cd76263cbd0,species,guineensis,Acanthocladiella,,"(Broth. & Paris) H.Rob. & C.F.Reed",1966,"Bryologist 69: 322 1966",,,,,,wfo-0001186393,7516100,
-f14816b0-8fcd-11eb-924d-9cd76263cbd0,species,julicaulis,Acanthocladiella,,"(Broth. & Paris) H.Rob. & C.F.Reed",1966,"Bryologist 69: 322 1966",,,,,,wfo-0001186394,7588430,
-dee7bb74-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Acanthocladiella,,"Broth. & P.de la Varde",,"Bull. Soc. Bot. France 71: 1058. f. 3 1924",,,,,,wfo-0001147541,7620717,
-dee7dc80-8fcd-11eb-924d-9cd76263cbd0,species,transvaaliensis,Acanthocladiella,,"Thér. & Dixon",1926,"Trans. Roy. Soc. South Africa 25: 424. illustration 1926",,,,,,wfo-0001147542,7640470,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deb534e8-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthocladiella,,,M.Fleisch.,,,,"Musci Buitenzorg 4: 1381. 1923.",,,,,,,wfo-4000000108,4890252,,
+f147dbf0-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Acanthocladiella,,"(P.de la Varde) H.Rob. & C.F.Reed",,1966,,"Bryologist 69: 322 1966",,,,f5391cba-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001186392,7987377,,
+dee76e12-8fcd-11eb-924d-9cd76263cbd0,species,congoana,Acanthocladiella,,"Thér. & Dixon",,1928,,"Mouss. Oubangui 142. f. 40 1928",,,,,,,wfo-0001147539,7465801,,
+dee7990a-8fcd-11eb-924d-9cd76263cbd0,species,flexilis,Acanthocladiella,,"(Renauld & Cardot) M.Fleisch.",,,,"Musci Buitenzorg 4: 1382 1923",,,,,,,wfo-0001147540,8097374,,
+f147f9d2-8fcd-11eb-924d-9cd76263cbd0,species,guineensis,Acanthocladiella,,"(Broth. & Paris) H.Rob. & C.F.Reed",,1966,,"Bryologist 69: 322 1966",,,,,,,wfo-0001186393,7516100,,
+f14816b0-8fcd-11eb-924d-9cd76263cbd0,species,julicaulis,Acanthocladiella,,"(Broth. & Paris) H.Rob. & C.F.Reed",,1966,,"Bryologist 69: 322 1966",,,,,,,wfo-0001186394,7588430,,
+dee7bb74-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Acanthocladiella,,"Broth. & P.de la Varde",,,,"Bull. Soc. Bot. France 71: 1058. f. 3 1924",,,,,,,wfo-0001147541,7620717,,
+dee7dc80-8fcd-11eb-924d-9cd76263cbd0,species,transvaaliensis,Acanthocladiella,,"Thér. & Dixon",,1926,,"Trans. Roy. Soc. South Africa 25: 424. illustration 1926",,,,,,,wfo-0001147542,7640470,,

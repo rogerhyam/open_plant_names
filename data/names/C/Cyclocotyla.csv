@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2557450-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclocotyla,,,Stapf,1908,"Bull. Misc. Inform. Kew 1908: 259. 1908.",,,,,2286-1,wfo-4000010254,3230969,
-7c41b934-8fcd-11eb-924d-9cd76263cbd0,species,congolensis,Cyclocotyla,,Stapf,1908,"Bull. Misc. Inform. Kew 1908: 260 1908",,,,,78194-1,wfo-0000933883,5535391,
-7c41d28e-8fcd-11eb-924d-9cd76263cbd0,species,oligosperma,Cyclocotyla,,Wernham,1914,"J. Bot. 52: 28 1914",,,,,78195-1,wfo-0000933884,5535389,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2557450-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclocotyla,,,Stapf,,1908,,"Bull. Misc. Inform. Kew 1908: 259. 1908.",,Q55781483,,,,2286-1,wfo-4000010254,3230969,,
+7c41b934-8fcd-11eb-924d-9cd76263cbd0,species,congolensis,Cyclocotyla,,Stapf,,1908,,"Bull. Misc. Inform. Kew 1908: 260 1908",,Q55781483,,,,78194-1,wfo-0000933883,5535391,,
+7c41d28e-8fcd-11eb-924d-9cd76263cbd0,species,oligosperma,Cyclocotyla,,Wernham,,1914,,"J. Bot. 52: 28 1914",,,,,,78195-1,wfo-0000933884,5535389,,

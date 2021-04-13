@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1dfb490-8fd1-11eb-924d-9cd76263cbd0,genus,Coddia,,,Verdc.,1981,"Kew Bull. 36: 509. 1981.",,,,,893039-1,wfo-4000008765,2891989,
-68c7d708-8fcd-11eb-924d-9cd76263cbd0,species,rudis,Coddia,,"(E.Mey. ex Harv.) Verdc.",1981,"Kew Bull. 36: 509 1981",,,,03019fe0-8fcc-11eb-924d-9cd76263cbd0,908557-1,wfo-0000904151,2891990,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1dfb490-8fd1-11eb-924d-9cd76263cbd0,genus,Coddia,,,Verdc.,,1981,,"Kew Bull. 36: 509. 1981.",,Q43227423,,,,893039-1,wfo-4000008765,2891989,,
+68c7d708-8fcd-11eb-924d-9cd76263cbd0,species,rudis,Coddia,,"(E.Mey. ex Harv.) Verdc.",,1981,,"Kew Bull. 36: 509 1981",,Q43227423,,03019fe0-8fcc-11eb-924d-9cd76263cbd0,,908557-1,wfo-0000904151,2891990,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e62c8a-8fd1-11eb-924d-9cd76263cbd0,genus,Moonia,,,Arn.,,,,,,,10112-1,wfo-4000024812,3150681,
-e9b50a60-8fba-11eb-924d-9cd76263cbd0,species,arnottiana,Moonia,,Wight,,"Ic. t. 1105. 1846",,,,,,wfo-0000130345,5406036,
-67ecec7a-8fb3-11eb-924d-9cd76263cbd0,species,ecliptoides,Moonia,,"(F.Muell.) Benth.",1867,1867,,,,,137189-3,wfo-0000047668,5406035,
-8ca8f142-8fb5-11eb-924d-9cd76263cbd0,species,heterophylla,Moonia,,Arn.,1836,"in Nov. Act. Nat. Cur. xviii (1836) 349.",,,,,233627-1,wfo-0000079406,5406038,
-1ac61a9e-8fb2-11eb-924d-9cd76263cbd0,species,moluccana,Moonia,,"(Blume) J.Kost.",1933,"17 1933",,,,,233628-1,wfo-0000011457,5406030,
-514a469a-8fb6-11eb-924d-9cd76263cbd0,species,procumbens,Moonia,,"(DC.) Benth.",1867,1867,,,,,137233-3,wfo-0000088134,5406039,
-16444846-8fb8-11eb-924d-9cd76263cbd0,species,quadribracteata,Moonia,,"(Warb.) Mattf.",1929,1929,,,,e595f314-8fb9-11eb-924d-9cd76263cbd0,,wfo-0000106068,5406031,
-9b767ec2-8fb2-11eb-924d-9cd76263cbd0,species,trichodesmoides,Moonia,,"(F.Muell.) Benth.",1867,1867,,,,4953bd1c-8fb2-11eb-924d-9cd76263cbd0,137271-3,wfo-0000029556,5406037,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e62c8a-8fd1-11eb-924d-9cd76263cbd0,genus,Moonia,,,Arn.,,,,,,,,,,10112-1,wfo-4000024812,3150681,,
+e9b50a60-8fba-11eb-924d-9cd76263cbd0,species,arnottiana,Moonia,,Wight,,,,"Ic. t. 1105. 1846",,,,,,,wfo-0000130345,5406036,,
+67ecec7a-8fb3-11eb-924d-9cd76263cbd0,species,ecliptoides,Moonia,,"(F.Muell.) Benth.",,1867,,1867,,,,,,137189-3,wfo-0000047668,5406035,,
+8ca8f142-8fb5-11eb-924d-9cd76263cbd0,species,heterophylla,Moonia,,Arn.,,1836,,"in Nov. Act. Nat. Cur. xviii (1836) 349.",,,,,,233627-1,wfo-0000079406,5406038,,
+1ac61a9e-8fb2-11eb-924d-9cd76263cbd0,species,moluccana,Moonia,,"(Blume) J.Kost.",,1933,,"17 1933",,Q55754356,,,,233628-1,wfo-0000011457,5406030,,
+514a469a-8fb6-11eb-924d-9cd76263cbd0,species,procumbens,Moonia,,"(DC.) Benth.",,1867,,1867,,,,,,137233-3,wfo-0000088134,5406039,,
+16444846-8fb8-11eb-924d-9cd76263cbd0,species,quadribracteata,Moonia,,"(Warb.) Mattf.",,1929,,1929,,,,e595f314-8fb9-11eb-924d-9cd76263cbd0,,,wfo-0000106068,5406031,,
+9b767ec2-8fb2-11eb-924d-9cd76263cbd0,species,trichodesmoides,Moonia,,"(F.Muell.) Benth.",,1867,,1867,,,,4953bd1c-8fb2-11eb-924d-9cd76263cbd0,,137271-3,wfo-0000029556,5406037,,

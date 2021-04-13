@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ead3dcca-8fd1-11eb-924d-9cd76263cbd0,genus,Steyermarkochloa,,,"Davidse & R.P.Ellis",1984,"Ann. Missouri Bot. Gard. 71(4): 995, f. 1–27. 1984[1985].",,,,,893489-1,wfo-4000036675,4135932,
-664d9b48-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Steyermarkochloa,,"(Spreng.) Judz.",1990,"Ann. Missouri Bot. Gard. 77: 204 1990",,,,,947658-1,wfo-0000901654,4135950,
-664dbf56-8fcd-11eb-924d-9cd76263cbd0,species,unifolia,Steyermarkochloa,,"Davidse & R.P.Ellis",1984,"Ann. Missouri Bot. Gard. 71: 995 1984",,,,,,wfo-0000901655,4135931,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ead3dcca-8fd1-11eb-924d-9cd76263cbd0,genus,Steyermarkochloa,,,"Davidse & R.P.Ellis",,1984,,"Ann. Missouri Bot. Gard. 71(4): 995, f. 1–27. 1984[1985].",,Q56190934,,,,893489-1,wfo-4000036675,4135932,,
+664d9b48-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Steyermarkochloa,,"(Spreng.) Judz.",,1990,,"Ann. Missouri Bot. Gard. 77: 204 1990",,Q55765207,,,,947658-1,wfo-0000901654,4135950,,
+664dbf56-8fcd-11eb-924d-9cd76263cbd0,species,unifolia,Steyermarkochloa,,"Davidse & R.P.Ellis",,1984,,"Ann. Missouri Bot. Gard. 71: 995 1984",,,,,,,wfo-0000901655,4135931,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8bd4606-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurofossa,,,"Nakai ex H.Ito^",1936,"J. Jap. Bot. 12: 408. 1936.",,,,,,wfo-4000030339,7293074,
-687afeb0-8fbe-11eb-924d-9cd76263cbd0,species,capillaris,Pleurofossa,,"Nakai ex H.Ito",1936,"J. Jap. Bot. 12: 408. 1936. 1936",,,,,17411470-1,wfo-0000153762,,
-ac39e6d4-8fcd-11eb-924d-9cd76263cbd0,species,dareaecarpa,Pleurofossa,,"(Hook.) Nakai ex H.Itô",1936,"J. Jap. Bot. 12: 408 1936",,,,,,wfo-0001035172,4047938,
-68878cac-8fbe-11eb-924d-9cd76263cbd0,species,emarginata,Pleurofossa,,H.Ito,1936,"J. Jap. Bot. 12: 408. 1936. 1936",,,,,17411490-1,wfo-0000153763,4047926,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8bd4606-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurofossa,,,"Nakai ex H.Ito^",,1936,,"J. Jap. Bot. 12: 408. 1936.",,,,,,,wfo-4000030339,7293074,,
+687afeb0-8fbe-11eb-924d-9cd76263cbd0,species,capillaris,Pleurofossa,,"Nakai ex H.Ito",,1936,,"J. Jap. Bot. 12: 408. 1936. 1936",,,,,,17411470-1,wfo-0000153762,,,
+ac39e6d4-8fcd-11eb-924d-9cd76263cbd0,species,dareaecarpa,Pleurofossa,,"(Hook.) Nakai ex H.Itô",,1936,,"J. Jap. Bot. 12: 408 1936",,,,,,,wfo-0001035172,4047938,,
+68878cac-8fbe-11eb-924d-9cd76263cbd0,species,emarginata,Pleurofossa,,H.Ito,,1936,,"J. Jap. Bot. 12: 408. 1936. 1936",,,,,,17411490-1,wfo-0000153763,4047926,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95d1cbc-8fd1-11eb-924d-9cd76263cbd0,genus,Purpureostemon,,,Gugerli,1939,"Repert. Spec. Nov. Regni Veg. 46: 230. 1939.",,,,,27726-1,wfo-4000032197,3186754,
-ff8eadee-8fcb-11eb-924d-9cd76263cbd0,species,ciliatus,Purpureostemon,,"(J.R.Forst. & G.Forst.) Gugerli",1939,"Repert. Spec. Nov. Regni Veg. 46: 230 1939",,,,,601091-1,wfo-0000288939,3186755,
-a1886c88-8fcd-11eb-924d-9cd76263cbd0,species,arizonica,Purpusia,,"Eastw. ex J.T.Howell",1930,"; 1930 12 1930",,,,,284049-2,wfo-0001013499,3024957,
-a1888902-8fcd-11eb-924d-9cd76263cbd0,species,osterhoutii,Purpusia,,A.Nelson,1934,"; 1934 574 1934",,,,,214505-2,wfo-0001013500,3024955,
-a188ff18-8fcd-11eb-924d-9cd76263cbd0,species,saxosa,Purpusia,,Brandegee,1899,"; 1899 447 1899",,,,,284050-2,wfo-0001013502,3024952,
-a242bde0-8fcd-11eb-924d-9cd76263cbd0,variety,flava,Purpusia,saxosa,"Eastw. ex J.T.Howell",1930,"; 1930 12 1930",,,,,,wfo-0001014985,8332416,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95d1cbc-8fd1-11eb-924d-9cd76263cbd0,genus,Purpureostemon,,,Gugerli,,1939,,"Repert. Spec. Nov. Regni Veg. 46: 230. 1939.",,,,,,27726-1,wfo-4000032197,3186754,,
+ff8eadee-8fcb-11eb-924d-9cd76263cbd0,species,ciliatus,Purpureostemon,,"(J.R.Forst. & G.Forst.) Gugerli",,1939,,"Repert. Spec. Nov. Regni Veg. 46: 230 1939",,,,,,601091-1,wfo-0000288939,3186755,,
+a1886c88-8fcd-11eb-924d-9cd76263cbd0,species,arizonica,Purpusia,,"Eastw. ex J.T.Howell",,1930,,"; 1930 12 1930",,Q94087861,,,,284049-2,wfo-0001013499,3024957,,
+a1888902-8fcd-11eb-924d-9cd76263cbd0,species,osterhoutii,Purpusia,,A.Nelson,,1934,,"; 1934 574 1934",,Q55765940,,,,214505-2,wfo-0001013500,3024955,,
+a188ff18-8fcd-11eb-924d-9cd76263cbd0,species,saxosa,Purpusia,,Brandegee,,1899,,"; 1899 447 1899",,Q55758538,,,,284050-2,wfo-0001013502,3024952,,
+a242bde0-8fcd-11eb-924d-9cd76263cbd0,variety,flava,Purpusia,saxosa,"Eastw. ex J.T.Howell",,1930,,"; 1930 12 1930",,,,,,,wfo-0001014985,8332416,,

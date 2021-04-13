@@ -1,13 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1cccc68-8fd1-11eb-924d-9cd76263cbd0,genus,Clavitheca,,,"O.Werner, Ros & Goffinet",2007,"Bryologist 110: 113. 2007.",,,,,,wfo-4000008519,4896824,
-febdcf6a-8fcd-11eb-924d-9cd76263cbd0,species,poeltii,Clavitheca,,"(Ochyra) O.Werner, Ros & Goffinet",2007,"Bryologist 110: 113 2007",,,,f694e92c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001214215,8045596,
-29a3225e-8fcc-11eb-924d-9cd76263cbd0,species,acicularis,Clavula,,"(L.) Dumort.",1827,"Fl. Belg. 143 1827",,,,9d1d89fe-8fcc-11eb-924d-9cd76263cbd0,303546-1,wfo-0000356892,5291899,
-29a4967a-8fcc-11eb-924d-9cd76263cbd0,species,boeotryon,Clavula,,"(L.f.) Dumort.",1827,"Fl. Belg. 143 1827",,,,,303547-1,wfo-0000356901,5291894,
-29a607bc-8fcc-11eb-924d-9cd76263cbd0,species,cespitosa,Clavula,,"(L.) Dumort.",1827,"Fl. Belg. 143 1827",,,,,303548-1,wfo-0000356911,5291323,
-29a67698-8fcc-11eb-924d-9cd76263cbd0,species,comosa,Clavula,,Dumort.,1827,"Fl. Belg. 143 1827",,,,,303549-1,wfo-0000356915,5291852,
-29a6afc8-8fcc-11eb-924d-9cd76263cbd0,species,fluitans,Clavula,,"(L.) Dumort.",1827,"Fl. Belg. 143 1827",,,,,303550-1,wfo-0000356917,5291412,
-29a6e470-8fcc-11eb-924d-9cd76263cbd0,species,multicaulis,Clavula,,"(Sm.) Dumort.",1827,"Fl. Belg. 143 1827",,,,a23397ee-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000356919,5291915,
-29a7054a-8fcc-11eb-924d-9cd76263cbd0,variety,vivipara,Clavula,multicaulis,Dumort.,1827,"Fl. Belg. 143 1827",,,,,,wfo-0000356920,5291916,
-29a7e302-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Clavula,,"(Roth) Dumort.",1827,"Fl. Belg. 143 1827",,,,4654c898-8fcd-11eb-924d-9cd76263cbd0,303552-1,wfo-0000356924,5291902,
-29a89766-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Clavula,,"(L.) Dumort.",1827,"Fl. Belg. 143 1827",,,,,303553-1,wfo-0000356929,5291871,
-29a906e2-8fcc-11eb-924d-9cd76263cbd0,species,uniglumis,Clavula,,"(Link) Dumort.",1827,"Fl. Belg. 143 1827",,,,a56cd132-8fcc-11eb-924d-9cd76263cbd0,303554-1,wfo-0000356933,5291917,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1cccc68-8fd1-11eb-924d-9cd76263cbd0,genus,Clavitheca,,,"O.Werner, Ros & Goffinet",,2007,,"Bryologist 110: 113. 2007.",,,,,,,wfo-4000008519,4896824,,
+febdcf6a-8fcd-11eb-924d-9cd76263cbd0,species,poeltii,Clavitheca,,"(Ochyra) O.Werner, Ros & Goffinet",,2007,,"Bryologist 110: 113 2007",,,,f694e92c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001214215,8045596,,

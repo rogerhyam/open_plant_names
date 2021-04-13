@@ -1,9 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e496f98c-8fd1-11eb-924d-9cd76263cbd0,genus,Hemisantiria,,,"H.J.Lam in Merrill",1929,"Univ. Calif. Publ. Bot. 15: 118. 1929.",,,,,,wfo-4000017423,7286764,
-0c17c25c-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Hemisantiria,,H.J.Lam,1929,"Univ. Calif. Publ. Bot. 15: 118 1929",,,,,128113-1,wfo-0000719614,3992792,
-0c17e07a-8fcd-11eb-924d-9cd76263cbd0,species,rostrata,Hemisantiria,,H.J.Lam,1929,"Univ. Calif. Publ. Bot. 15: 119 1929",,,,,128114-1,wfo-0000719615,3992784,
-0c17fb32-8fcd-11eb-924d-9cd76263cbd0,species,rugosa,Hemisantiria,,H.J.Lam,1929,"Univ. Calif. Publ. Bot. 15: 119 1929",,,,,128115-1,wfo-0000719616,3992772,
-9234dda2-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Hemiscleria,,Lindl.,1853,"Fol. Orchid. 4: 1 1853",,,,,638570-1,wfo-0000981394,2830965,
-ccb1e048-8fd1-11eb-924d-9cd76263cbd0,species,aculeata,Hemiscola,,"(L.) Raf.",1838,"Sylva Tellur. 111 1838",,,,,147610-1,wfo-0001277528,3872412,
-ccb1fc54-8fd1-11eb-924d-9cd76263cbd0,species,diffusa,Hemiscola,,"(Banks ex DC.) Iltis",2007,"Novon 17(4): 448 2007",,,,cd61de76-8fcc-11eb-924d-9cd76263cbd0,77089952-1,wfo-0001277529,3872407,
-0c1830b6-8fcd-11eb-924d-9cd76263cbd0,species,ornithopoides,Hemiscola,,Raf.,1838,"Sylva Tellur. 111 1838",,,,,147611-1,wfo-0000719618,3872397,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e496f98c-8fd1-11eb-924d-9cd76263cbd0,genus,Hemisantiria,,,"H.J.Lam in Merrill",,1929,,"Univ. Calif. Publ. Bot. 15: 118. 1929.",,,,,,,wfo-4000017423,7286764,,
+0c17c25c-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Hemisantiria,,H.J.Lam,,1929,,"Univ. Calif. Publ. Bot. 15: 118 1929",,,,,,128113-1,wfo-0000719614,3992792,,
+0c17e07a-8fcd-11eb-924d-9cd76263cbd0,species,rostrata,Hemisantiria,,H.J.Lam,,1929,,"Univ. Calif. Publ. Bot. 15: 119 1929",,,,,,128114-1,wfo-0000719615,3992784,,
+0c17fb32-8fcd-11eb-924d-9cd76263cbd0,species,rugosa,Hemisantiria,,H.J.Lam,,1929,,"Univ. Calif. Publ. Bot. 15: 119 1929",,,,,,128115-1,wfo-0000719616,3992772,,

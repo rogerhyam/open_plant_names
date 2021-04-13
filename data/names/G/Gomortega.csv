@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e41b4f12-8fd1-11eb-924d-9cd76263cbd0,genus,Gomortega,,,"Ruiz & Pav.",1794,"Fl. Peruv. Prodr. 62. 1794. (early Oct 1794)",,,,,330760-2,wfo-4000015938,3034095,
-036cc5e4-8fcd-11eb-924d-9cd76263cbd0,species,keule,Gomortega,,"(Molina) Baill.",1972,"Not. Mens. Mus. Nac. Hist. Nat. 17: 7 1972",,,,dc1c5604-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000705329,3034096,
-036ce0e2-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Gomortega,,"Ruiz & Pav.",1830,"Fl. Peruv. 4: t. 397 1830",,,,,383596-1,wfo-0000705330,3034098,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e41b4f12-8fd1-11eb-924d-9cd76263cbd0,genus,Gomortega,,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 62. 1794. (early Oct 1794)",,,,,,330760-2,wfo-4000015938,3034095,,
+036cc5e4-8fcd-11eb-924d-9cd76263cbd0,species,keule,Gomortega,,"(Molina) Baill.",,1972,,"Not. Mens. Mus. Nac. Hist. Nat. 17: 7 1972",,,,dc1c5604-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000705329,3034096,,
+036ce0e2-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Gomortega,,"Ruiz & Pav.",,1830,,"Fl. Peruv. 4: t. 397 1830",,,,,,383596-1,wfo-0000705330,3034098,,

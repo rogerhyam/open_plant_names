@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63993d0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrolinium,,,B.D.Jacks.,1894,"Index Kew. 2: 142. 1894.",,,,,,wfo-4000022721,7320778,
-be6c6f12-8fd1-11eb-924d-9cd76263cbd0,species,lueri,Macrolinium,,"Dodson & Vásquez",,,,,,,,wfo-0001251120,7892259,
-c317f3b0-8fd1-11eb-924d-9cd76263cbd0,species,ciliatum,Macrolinum,,Klotzsch,1838,"Linnaea 12: 243 1838",,,,,331253-1,wfo-0001259871,5683589,
-d303088c-8fd1-11eb-924d-9cd76263cbd0,species,trigynum,Macrolinum,,Rchb.,,,,,,,,wfo-0001283952,5658055,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63993d0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrolinium,,,B.D.Jacks.,,1894,,"Index Kew. 2: 142. 1894.",,,,,,,wfo-4000022721,7320778,,
+be6c6f12-8fd1-11eb-924d-9cd76263cbd0,species,lueri,Macrolinium,,"Dodson & Vásquez",,,,,,,,,,,wfo-0001251120,7892259,,
+c317f3b0-8fd1-11eb-924d-9cd76263cbd0,species,ciliatum,Macrolinum,,Klotzsch,,1838,,"Linnaea 12: 243 1838",,,,,,331253-1,wfo-0001259871,5683589,,
+d303088c-8fd1-11eb-924d-9cd76263cbd0,species,trigynum,Macrolinum,,Rchb.,,,,,,,,,,,wfo-0001283952,5658055,,

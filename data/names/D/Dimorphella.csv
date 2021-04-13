@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ca7a02-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphella,,,"(Müll.Hal.) Renauld & Cardot",1905,"Bull. Soc. Roy. Bot. Belgique 41(1): 101. 1905.",,,,,,wfo-4000011771,3229987,
-e6c6d7a8-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Dimorphella,,"Broth. & Herzog",1924,"Arq. Bot. Estado São Paulo 1(2): 86 1924",,,,,,wfo-0001164549,8055471,
-e6c6fcf6-8fcd-11eb-924d-9cd76263cbd0,species,chlorizans,Dimorphella,,"(Welw. & Duby) Broth.",,"Nat. Pflanzenfam. I(3): 1084 1908",,,,df9552f2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001164550,7567851,
-e6c778e8-8fcd-11eb-924d-9cd76263cbd0,species,pechuelii,Dimorphella,,"(Müll.Hal.) Renauld & Cardot",1905,"Bull. Soc. Roy. Bot. Belgique 41 (1): 101 1905",,,,,,wfo-0001164551,8239780,
-e6c7d8a6-8fcd-11eb-924d-9cd76263cbd0,variety,acuminata,Dimorphella,pechuelii,Cardot,1909,"Rev. Bryol. 36: 50 1909",,,,,,wfo-0001164552,7980063,
-e6c7f49e-8fcd-11eb-924d-9cd76263cbd0,variety,gracilis,Dimorphella,pechuelii,Cardot,1909,"Rev. Bryol. 36: 50 1909",,,,,,wfo-0001164553,8275966,
-e6c8114a-8fcd-11eb-924d-9cd76263cbd0,species,trinitensis,Dimorphella,,"(Müll.Hal.) Herzog",1924,"Arq. Bot. Estado São Paulo 1(2): 86 1924",,,,,,wfo-0001164554,7445408,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ca7a02-8fd1-11eb-924d-9cd76263cbd0,genus,Dimorphella,,,"(Müll.Hal.) Renauld & Cardot",,1905,,"Bull. Soc. Roy. Bot. Belgique 41(1): 101. 1905.",,,,,,,wfo-4000011771,3229987,,
+e6c6d7a8-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Dimorphella,,"Broth. & Herzog",,1924,,"Arq. Bot. Estado São Paulo 1(2): 86 1924",,,,,,,wfo-0001164549,8055471,,
+e6c6fcf6-8fcd-11eb-924d-9cd76263cbd0,species,chlorizans,Dimorphella,,"(Welw. & Duby) Broth.",,,,"Nat. Pflanzenfam. I(3): 1084 1908",,,,df9552f2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001164550,7567851,,
+e6c778e8-8fcd-11eb-924d-9cd76263cbd0,species,pechuelii,Dimorphella,,"(Müll.Hal.) Renauld & Cardot",,1905,,"Bull. Soc. Roy. Bot. Belgique 41 (1): 101 1905",,,,,,,wfo-0001164551,8239780,,
+e6c7d8a6-8fcd-11eb-924d-9cd76263cbd0,variety,acuminata,Dimorphella,pechuelii,Cardot,,1909,,"Rev. Bryol. 36: 50 1909",,,,,,,wfo-0001164552,7980063,,
+e6c7f49e-8fcd-11eb-924d-9cd76263cbd0,variety,gracilis,Dimorphella,pechuelii,Cardot,,1909,,"Rev. Bryol. 36: 50 1909",,,,,,,wfo-0001164553,8275966,,
+e6c8114a-8fcd-11eb-924d-9cd76263cbd0,species,trinitensis,Dimorphella,,"(Müll.Hal.) Herzog",,1924,,"Arq. Bot. Estado São Paulo 1(2): 86 1924",,,,,,,wfo-0001164554,7445408,,

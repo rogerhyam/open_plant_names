@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebae8b36-8fd1-11eb-924d-9cd76263cbd0,genus,Trolliella,,,Herzog,1939,"Ann. Bryol. 12: 94. 1939.",,,,,,wfo-4000039452,2681027,
-e52613fa-8fcd-11eb-924d-9cd76263cbd0,species,euendostoma,Trolliella,,Herzog,1939,"Ann. Bryol. 12: 94. 13 1939",,,,,,wfo-0001160921,5283558,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebae8b36-8fd1-11eb-924d-9cd76263cbd0,genus,Trolliella,,,Herzog,,1939,,"Ann. Bryol. 12: 94. 1939.",,,,,,,wfo-4000039452,2681027,,
+e52613fa-8fcd-11eb-924d-9cd76263cbd0,species,euendostoma,Trolliella,,Herzog,,1939,,"Ann. Bryol. 12: 94. 13 1939",,,,,,,wfo-0001160921,5283558,,

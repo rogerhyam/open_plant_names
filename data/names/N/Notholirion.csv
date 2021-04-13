@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75e36c6-8fd1-11eb-924d-9cd76263cbd0,genus,Notholirion,,,"Wall. ex Boiss.",1882,"Fl. Orient. 5: 190. 1882.",,,,,24568-1,wfo-4000026284,7753770,
-0042718e-8fcd-11eb-924d-9cd76263cbd0,species,bulbuliferum,Notholirion,,"(Lingelsh.) Stearn",1951,"Kew Bull. 6: 421 1951",,,,,538780-1,wfo-0000699552,2752055,
-003452ac-8fcd-11eb-924d-9cd76263cbd0,species,campanulatum,Notholirion,,"Cotton & Stearn",1934,"Lily Year-Book 3: 19 1934",,,,,538781-1,wfo-0000699453,2752056,
-0045523c-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthinum,Notholirion,,"(E.H.Wilson) Stapf",1934,"Bull. Misc. Inform. Kew 1934: 96 1934",,,,f4394d2c-8fcc-11eb-924d-9cd76263cbd0,538782-1,wfo-0000699574,2752057,
-00469f34-8fcd-11eb-924d-9cd76263cbd0,species,koeiei,Notholirion,,Rech.f.,1955,"Dansk Bot. Ark. 15(4): 51 1955",,,,,538783-1,wfo-0000699585,2752049,
-004ade64-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllum,Notholirion,,"(D.Don) Boiss.",1882,"Fl. Orient. 5: 190 1882",,,,,538784-1,wfo-0000699615,2752044,
-00292c38-8fcd-11eb-924d-9cd76263cbd0,species,thomsonianum,Notholirion,,"(Royle) Stapf",1934,"Bull. Misc. Inform. Kew 1934: 95 1934",,,,f5d68ffa-8fcc-11eb-924d-9cd76263cbd0,538786-1,wfo-0000699370,2752050,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75e36c6-8fd1-11eb-924d-9cd76263cbd0,genus,Notholirion,,,"Wall. ex Boiss.",,1882,,"Fl. Orient. 5: 190. 1882.",,,,,,24568-1,wfo-4000026284,7753770,,
+0042718e-8fcd-11eb-924d-9cd76263cbd0,species,bulbuliferum,Notholirion,,"(Lingelsh.) Stearn",,1951,,"Kew Bull. 6: 421 1951",,Q43261292,,,,538780-1,wfo-0000699552,2752055,,
+003452ac-8fcd-11eb-924d-9cd76263cbd0,species,campanulatum,Notholirion,,"Cotton & Stearn",,1934,,"Lily Year-Book 3: 19 1934",,,,,,538781-1,wfo-0000699453,2752056,,
+0045523c-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthinum,Notholirion,,"(E.H.Wilson) Stapf",,1934,,"Bull. Misc. Inform. Kew 1934: 96 1934",,Q55809258,,f4394d2c-8fcc-11eb-924d-9cd76263cbd0,,538782-1,wfo-0000699574,2752057,,
+00469f34-8fcd-11eb-924d-9cd76263cbd0,species,koeiei,Notholirion,,Rech.f.,,1955,,"Dansk Bot. Ark. 15(4): 51 1955",,,,,,538783-1,wfo-0000699585,2752049,,
+004ade64-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllum,Notholirion,,"(D.Don) Boiss.",,1882,,"Fl. Orient. 5: 190 1882",,,,,,538784-1,wfo-0000699615,2752044,,
+00292c38-8fcd-11eb-924d-9cd76263cbd0,species,thomsonianum,Notholirion,,"(Royle) Stapf",,1934,,"Bull. Misc. Inform. Kew 1934: 95 1934",,Q55809258,,f5d68ffa-8fcc-11eb-924d-9cd76263cbd0,,538786-1,wfo-0000699370,2752050,,

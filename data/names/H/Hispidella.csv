@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4c6ebce-8fd1-11eb-924d-9cd76263cbd0,genus,Hispidella,,,"Barnadez ex Lam.",,,,,,,9379-1,wfo-4000017997,3101095,
-29d500f4-8fb2-11eb-924d-9cd76263cbd0,species,barnardesii,Hispidella,,Cass.,1821,"in Dict. Sc. Nat. xxi. 248. 1821",,,,,,wfo-0000014108,5699956,
-0e97bb10-8fb2-11eb-924d-9cd76263cbd0,species,hispanica,Hispidella,,Lam.,1789,"134 1789",,,,,224947-1,wfo-0000008454,5390180,
-ece660f2-8fb6-11eb-924d-9cd76263cbd0,species,welwitschii,Hispidella,,Rupr.,1856,"in Bull. Phys.-Math. Acad. Petersb. xiv. (1856) 236",,,,,224948-1,wfo-0000094618,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4c6ebce-8fd1-11eb-924d-9cd76263cbd0,genus,Hispidella,,,"Barnadez ex Lam.",,,,,,,,,,9379-1,wfo-4000017997,3101095,,
+29d500f4-8fb2-11eb-924d-9cd76263cbd0,species,barnardesii,Hispidella,,Cass.,,1821,,"in Dict. Sc. Nat. xxi. 248. 1821",,,,,,,wfo-0000014108,5699956,,
+0e97bb10-8fb2-11eb-924d-9cd76263cbd0,species,hispanica,Hispidella,,Lam.,,1789,,"134 1789",,,,,,224947-1,wfo-0000008454,5390180,,
+ece660f2-8fb6-11eb-924d-9cd76263cbd0,species,welwitschii,Hispidella,,Rupr.,,1856,,"in Bull. Phys.-Math. Acad. Petersb. xiv. (1856) 236",,,,,,224948-1,wfo-0000094618,,,

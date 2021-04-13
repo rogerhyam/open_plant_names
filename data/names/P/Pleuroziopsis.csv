@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8c1cb68-8fd1-11eb-924d-9cd76263cbd0,genus,Pleuroziopsis,,,"Kindb. ex E.Britton",1906,"Bryologist 9(3): 39. 1906.",,,,,,wfo-4000030380,7809059,
-e4cf41c4-8fcd-11eb-924d-9cd76263cbd0,species,ruthenica,Pleuroziopsis,,"(Weinm.) Kindb. ex E.Britton",1906,"Bryologist 9: 39 1906",,,,0772b910-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001160187,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8c1cb68-8fd1-11eb-924d-9cd76263cbd0,genus,Pleuroziopsis,,,"Kindb. ex E.Britton",,1906,,"Bryologist 9(3): 39. 1906.",,,,,,,wfo-4000030380,7809059,,
+e4cf41c4-8fcd-11eb-924d-9cd76263cbd0,species,ruthenica,Pleuroziopsis,,"(Weinm.) Kindb. ex E.Britton",,1906,,"Bryologist 9: 39 1906",,,,0772b910-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001160187,,,

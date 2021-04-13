@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfa1076a-8fd1-11eb-924d-9cd76263cbd0,genus,Apomarsupella,,,R.M.Schust.,1996,"J. Hattori Bot. Lab. 80: 79. 1996.",,,,,,wfo-4000002730,2689265,
-fa1a64f0-8fcd-11eb-924d-9cd76263cbd0,species,africana,Apomarsupella,,"(Stephani ex Bonner) R.M.Schust.",1996,"J. Hattori Bot. Lab. 80: 91 1996",,,,f6d65114-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001204283,2689267,
-fa19d120-8fcd-11eb-924d-9cd76263cbd0,species,crystallocaulon,Apomarsupella,,"(Grolle) Váňa",1999,"Bryobrothera 5: 227 1999",,,,f8c690ba-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001204278,2689266,
-fa1a472c-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Apomarsupella,,"(Nees) R.M.Schust.",1996,"J. Hattori Bot. Lab. 80: 82 1996",,,,,,wfo-0001204282,2689270,
-fe4010a2-8fcd-11eb-924d-9cd76263cbd0,species,rubida,Apomarsupella,,"(Mitt.) R.M.Schust.",2002,"Nova Hedwigia Beih. 119: 562 2002",,,,fb981fde-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213240,2689269,
-fa19efde-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Apomarsupella,,"(W.E.Nicholson) Váňa",1999,"Bryobrothera 5: 227 1999",,,,,,wfo-0001204279,2689268,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfa1076a-8fd1-11eb-924d-9cd76263cbd0,genus,Apomarsupella,,,R.M.Schust.,,1996,,"J. Hattori Bot. Lab. 80: 79. 1996.",,,,,,,wfo-4000002730,2689265,,
+fa1a64f0-8fcd-11eb-924d-9cd76263cbd0,species,africana,Apomarsupella,,"(Stephani ex Bonner) R.M.Schust.",,1996,,"J. Hattori Bot. Lab. 80: 91 1996",,,,f6d65114-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001204283,2689267,,
+fa19d120-8fcd-11eb-924d-9cd76263cbd0,species,crystallocaulon,Apomarsupella,,"(Grolle) Váňa",,1999,,"Bryobrothera 5: 227 1999",,,,f8c690ba-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001204278,2689266,,
+fa1a472c-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Apomarsupella,,"(Nees) R.M.Schust.",,1996,,"J. Hattori Bot. Lab. 80: 82 1996",,,,,,,wfo-0001204282,2689270,,
+fe4010a2-8fcd-11eb-924d-9cd76263cbd0,species,rubida,Apomarsupella,,"(Mitt.) R.M.Schust.",,2002,,"Nova Hedwigia Beih. 119: 562 2002",,,,fb981fde-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213240,2689269,,
+fa19efde-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Apomarsupella,,"(W.E.Nicholson) Váňa",,1999,,"Bryobrothera 5: 227 1999",,,,,,,wfo-0001204279,2689268,,

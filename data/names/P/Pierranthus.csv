@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e883bdb4-8fd1-11eb-924d-9cd76263cbd0,genus,Pierranthus,,,Bonati,1912,"Bull. Soc. Bot. Genève 4: 254. 1912.",,,,,37925-1,wfo-4000029652,7331909,
-ac42d028-8fcd-11eb-924d-9cd76263cbd0,species,capitatus,Pierranthus,,"(Bonati) Bonati",1912,"Bull. Soc. Bot. Geneve (ser. 2) 4: 254 1912",,,,,808413-1,wfo-0001035238,3727259,
-6cea93b6-8fcd-11eb-924d-9cd76263cbd0,species,dictyoneura,Pierrea,,Hance,1877,"J. Bot. 15: 339 1877",,,,,779911-1,wfo-0000909652,7790720,
-448b85fc-8fcc-11eb-924d-9cd76263cbd0,species,pachycarpa,Pierrea,,F.Heim,1891,"Bull. Mens. Soc. Linn. Paris 2: 958 1891",,,,,321159-1,wfo-0000396309,5669176,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e883bdb4-8fd1-11eb-924d-9cd76263cbd0,genus,Pierranthus,,,Bonati,,1912,,"Bull. Soc. Bot. Genève 4: 254. 1912.",,,,,,37925-1,wfo-4000029652,7331909,,
+ac42d028-8fcd-11eb-924d-9cd76263cbd0,species,capitatus,Pierranthus,,"(Bonati) Bonati",,1912,,"Bull. Soc. Bot. Geneve (ser. 2) 4: 254 1912",,,,,,808413-1,wfo-0001035238,3727259,,
+6cea93b6-8fcd-11eb-924d-9cd76263cbd0,species,dictyoneura,Pierrea,,Hance,,1877,,"J. Bot. 15: 339 1877",,,,,,779911-1,wfo-0000909652,7790720,,
+448b85fc-8fcc-11eb-924d-9cd76263cbd0,species,pachycarpa,Pierrea,,F.Heim,,1891,,"Bull. Mens. Soc. Linn. Paris 2: 958 1891",,,,,,321159-1,wfo-0000396309,5669176,,

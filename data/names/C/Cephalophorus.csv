@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e165ed5e-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalophorus,,,Lem.,1838,"Cact. Aliq. Nov. 7. 1838.",,,,,,wfo-4000007271,7283839,
-c3b8330c-8fcc-11eb-924d-9cd76263cbd0,species,chrysacanthus,Cephalophorus,,"(A.A.Weber) Boom",1967,"Succulenta (Netherlands) 46: 107 1967",,,,,52245-2,wfo-0000594807,3957058,
-c3b850f8-8fcc-11eb-924d-9cd76263cbd0,species,columna-trajani,Cephalophorus,,"(Karw. ex Pfeiff.) Lem.",1838,"Cact. Aliq. Nov. xii 1838",,,,c4f831b8-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000594808,3957051,
-c3b87380-8fcc-11eb-924d-9cd76263cbd0,species,palmeri,Cephalophorus,,"(Rose) Boom",1967,"Succulenta (Netherlands) 46: 107 1967",,,,,52246-2,wfo-0000594809,3957040,
-c3b892de-8fcc-11eb-924d-9cd76263cbd0,species,senilis,Cephalophorus,,"(Haw.) Lem.",1838,"Cact. Aliq. Nov. xii 1838",,,,b92676ba-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000594810,3957035,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e165ed5e-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalophorus,,,Lem.,,1838,,"Cact. Aliq. Nov. 7. 1838.",,,,,,,wfo-4000007271,7283839,,
+c3b8330c-8fcc-11eb-924d-9cd76263cbd0,species,chrysacanthus,Cephalophorus,,"(A.A.Weber) Boom",,1967,,"Succulenta (Netherlands) 46: 107 1967",,,,,,52245-2,wfo-0000594807,3957058,,
+c3b850f8-8fcc-11eb-924d-9cd76263cbd0,species,columna-trajani,Cephalophorus,,"(Karw. ex Pfeiff.) Lem.",,1838,,"Cact. Aliq. Nov. xii 1838",,,,c4f831b8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000594808,3957051,,
+c3b87380-8fcc-11eb-924d-9cd76263cbd0,species,palmeri,Cephalophorus,,"(Rose) Boom",,1967,,"Succulenta (Netherlands) 46: 107 1967",,,,,,52246-2,wfo-0000594809,3957040,,
+c3b892de-8fcc-11eb-924d-9cd76263cbd0,species,senilis,Cephalophorus,,"(Haw.) Lem.",,1838,,"Cact. Aliq. Nov. xii 1838",,,,b92676ba-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000594810,3957035,,

@@ -1,11 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ed7fa6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrosulum,,,,,,,,,,,wfo-4000015389,8809644,
-3ea4f58e-8fb2-11eb-924d-9cd76263cbd0,species,annuum,Gastrosulum,,Sch.Bip.,1844,"31 1844",,,,,208657-1,wfo-0000017214,4229156,
-025a3936-8fb2-11eb-924d-9cd76263cbd0,species,dichotomum,Gastrosulum,,"(DC.) Sch.Bip.",1844,"31 1844",,,,,208658-1,wfo-0000004183,3121747,
-92ea2d16-8fb3-11eb-924d-9cd76263cbd0,species,praecox,Gastrosulum,,"(M.Bieb.) Sch.Bip.",1844,"30 1844",,,,ffa9067c-8fb1-11eb-924d-9cd76263cbd0,208659-1,wfo-0000050891,4229149,
-4698992a-8fb3-11eb-924d-9cd76263cbd0,species,tenellum,Gastrosulum,,"(DC.) Sch.Bip.",1844,"30 1844",,,,,208660-1,wfo-0000045204,3121743,
-69b23ec0-8fc2-11eb-924d-9cd76263cbd0,species,alabamensis,Gatesia,,Bertol.,,,,,,,,wfo-0000177304,5353209,
-fdba57a6-8fcc-11eb-924d-9cd76263cbd0,species,laetevirens,Gatesia,,A.Gray,1878,"Proc. Amer. Acad. Arts 13: 365 1878",,,,,1012469-2,wfo-0000694957,5415465,
-8d962238-8fcd-11eb-924d-9cd76263cbd0,species,annamica,Gatnaia,,Gagnep.,1924,"Bull. Soc. Bot. France 71: 870 1924 publ. 1925",,,,,349164-1,wfo-0000971626,3082148,
-ab5976a0-8fb2-11eb-924d-9cd76263cbd0,species,pluvialis,Gattenhoffia,,Druce,1908,"38 1908",,,,,208661-1,wfo-0000031339,3140818,
-2dd2f812-8fcd-11eb-924d-9cd76263cbd0,species,verna,Gattenhofia,,"(L.) Medik.",1790,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat. 6: 418 1790",,,,,437075-1,wfo-0000788901,2748489,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ed7fa6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastrosulum,,,,,,,,,,,,,,wfo-4000015389,8809644,,
+3ea4f58e-8fb2-11eb-924d-9cd76263cbd0,species,annuum,Gastrosulum,,Sch.Bip.,,1844,,"31 1844",,,,,,208657-1,wfo-0000017214,4229156,,
+025a3936-8fb2-11eb-924d-9cd76263cbd0,species,dichotomum,Gastrosulum,,"(DC.) Sch.Bip.",,1844,,"31 1844",,,,,,208658-1,wfo-0000004183,3121747,,
+92ea2d16-8fb3-11eb-924d-9cd76263cbd0,species,praecox,Gastrosulum,,"(M.Bieb.) Sch.Bip.",,1844,,"30 1844",,,,ffa9067c-8fb1-11eb-924d-9cd76263cbd0,,208659-1,wfo-0000050891,4229149,,
+4698992a-8fb3-11eb-924d-9cd76263cbd0,species,tenellum,Gastrosulum,,"(DC.) Sch.Bip.",,1844,,"30 1844",,,,,,208660-1,wfo-0000045204,3121743,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e51651f0-8fd1-11eb-924d-9cd76263cbd0,genus,Inhambanella,,,Dubard,1915,"Ann. Mus. Colon. Marseille, sér. 3, 3: 43. 1915.",,,,,36759-1,wfo-4000019091,2883919,
-5ff38a76-8fca-11eb-924d-9cd76263cbd0,species,guereensis,Inhambanella,,"(Aubrév. & Pellegr.) T.D.Penn.",1991,"Gen. Sapotac. 142 1991",,,,0ab75b4a-8fcb-11eb-924d-9cd76263cbd0,962727-1,wfo-0000217476,2883920,
-60015b56-8fca-11eb-924d-9cd76263cbd0,species,henriquezii,Inhambanella,,"(Engl. & Warb.) Dubard",1915,"Ann. Mus. Colon. Marseille III, 3: 43 1915",,,,e3b63556-8fcb-11eb-924d-9cd76263cbd0,787006-1,wfo-0000217477,2883922,
-600f513e-8fca-11eb-924d-9cd76263cbd0,species,natalensis,Inhambanella,,"(Schinz) Dubard",1915,"Ann. Mus. Colon. Marseille III, 3: 43 1915",,,,,787008-1,wfo-0000217478,2886394,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e51651f0-8fd1-11eb-924d-9cd76263cbd0,genus,Inhambanella,,,Dubard,,1915,,"Ann. Mus. Colon. Marseille, sér. 3, 3: 43. 1915.",,,,,,36759-1,wfo-4000019091,2883919,,
+5ff38a76-8fca-11eb-924d-9cd76263cbd0,species,guereensis,Inhambanella,,"(Aubrév. & Pellegr.) T.D.Penn.",,1991,,"Gen. Sapotac. 142 1991",,,,0ab75b4a-8fcb-11eb-924d-9cd76263cbd0,,962727-1,wfo-0000217476,2883920,,
+60015b56-8fca-11eb-924d-9cd76263cbd0,species,henriquezii,Inhambanella,,"(Engl. & Warb.) Dubard",,1915,,"Ann. Mus. Colon. Marseille III, 3: 43 1915",,,,e3b63556-8fcb-11eb-924d-9cd76263cbd0,,787006-1,wfo-0000217477,2883922,,
+600f513e-8fca-11eb-924d-9cd76263cbd0,species,natalensis,Inhambanella,,"(Schinz) Dubard",,1915,,"Ann. Mus. Colon. Marseille III, 3: 43 1915",,,,,,787008-1,wfo-0000217478,2886394,,

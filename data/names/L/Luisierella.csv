@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e61ff33a-8fd1-11eb-924d-9cd76263cbd0,genus,Luisierella,,,"Thér. & P.de la Varde",1936,"Bull. Soc. Bot. France 83: 73. 1936.",,,,,,wfo-4000022415,8023950,
-f56dcf14-8fcd-11eb-924d-9cd76263cbd0,species,barbula,Luisierella,,"(Schwägr.) Steere",1945,"Bryologist 48: 84 1945",,,,eb42eb5a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194558,2671781,
-ef7d48b4-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Luisierella,,"Thér. & P.de la Varde",1936,"Bull. Soc. Bot. France 83: 74. f. 1 1936",,,,,,wfo-0001182498,7701608,
-ef7db0b0-8fcd-11eb-924d-9cd76263cbd0,species,stenocarpa,Luisierella,,"Bizot & Thér.",1939,"Mem. Soc. Cub. Hist. Nat. ""Felipe Poey"" 13: 273. 34. f. 4 1939",,,,,,wfo-0001182499,8315563,
-373c0a60-8fcd-11eb-924d-9cd76263cbd0,species,inconspicua,Luisiopsis,,"(Hook.f.) Sath.Kumar & P.C.S.Kumar",2005,"Rheedea 15: 48 2005",,,,1b775fd2-8fb4-11eb-924d-9cd76263cbd0,77077745-1,wfo-0000808999,2804247,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e61ff33a-8fd1-11eb-924d-9cd76263cbd0,genus,Luisierella,,,"Thér. & P.de la Varde",,1936,,"Bull. Soc. Bot. France 83: 73. 1936.",,,,,,,wfo-4000022415,8023950,,
+f56dcf14-8fcd-11eb-924d-9cd76263cbd0,species,barbula,Luisierella,,"(Schwägr.) Steere",,1945,,"Bryologist 48: 84 1945",,,,eb42eb5a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194558,2671781,,
+ef7d48b4-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Luisierella,,"Thér. & P.de la Varde",,1936,,"Bull. Soc. Bot. France 83: 74. f. 1 1936",,,,,,,wfo-0001182498,7701608,,
+ef7db0b0-8fcd-11eb-924d-9cd76263cbd0,species,stenocarpa,Luisierella,,"Bizot & Thér.",,1939,,"Mem. Soc. Cub. Hist. Nat. ""Felipe Poey"" 13: 273. 34. f. 4 1939",,,,,,,wfo-0001182499,8315563,,
+373c0a60-8fcd-11eb-924d-9cd76263cbd0,species,inconspicua,Luisiopsis,,"(Hook.f.) Sath.Kumar & P.C.S.Kumar",,2005,,"Rheedea 15: 48 2005",,Q102272575,,1b775fd2-8fb4-11eb-924d-9cd76263cbd0,,77077745-1,wfo-0000808999,2804247,,

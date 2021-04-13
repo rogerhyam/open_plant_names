@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bcf488-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidophorum,,,"Neck. ex DC.",,,,,,,9741-1,wfo-4000021120,3091324,
-2fa9513e-8fb6-11eb-924d-9cd76263cbd0,species,grisleyi,Lepidophorum,,"g.sampato ex Pereira",1932,"in An. Fac. Sc. Porto, xvii. 233 (1932), nomen. ""xvii. 233 , nomen."" 1932",,,,,229726-1,wfo-0000086649,,
-4a825dbe-8fb3-11eb-924d-9cd76263cbd0,species,grisleyi,Lepidophorum,,"(Samp.) Samp.",1947,1947,,,,2396689c-8fba-11eb-924d-9cd76263cbd0,,wfo-0000045453,3091329,
-279fa6f4-8fbc-11eb-924d-9cd76263cbd0,species,repandum,Lepidophorum,,"(L.) DC.",1838,"19 1838",,,,f4e03736-8fcc-11eb-924d-9cd76263cbd0,229728-1,wfo-0000139262,3091325,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bcf488-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidophorum,,,"Neck. ex DC.",,,,,,,,,,9741-1,wfo-4000021120,3091324,,
+4a825dbe-8fb3-11eb-924d-9cd76263cbd0,species,grisleyi,Lepidophorum,,"(Samp.) Samp.",,1947,,1947,,,,2396689c-8fba-11eb-924d-9cd76263cbd0,,,wfo-0000045453,3091329,,
+2fa9513e-8fb6-11eb-924d-9cd76263cbd0,species,grisleyi,Lepidophorum,,"g.sampato ex Pereira",,1932,,"in An. Fac. Sc. Porto, xvii. 233 (1932), nomen. ""xvii. 233 , nomen."" 1932",,,,,,229726-1,wfo-0000086649,,,
+279fa6f4-8fbc-11eb-924d-9cd76263cbd0,species,repandum,Lepidophorum,,"(L.) DC.",,1838,,"19 1838",,,,f4e03736-8fcc-11eb-924d-9cd76263cbd0,,229728-1,wfo-0000139262,3091325,,

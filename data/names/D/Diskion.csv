@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2eac8a2-8fd1-11eb-924d-9cd76263cbd0,genus,Diskion,,,Raf.,1838,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,wfo-4000012172,3798178,
-81166bc6-8fcd-11eb-924d-9cd76263cbd0,species,arechavaletae,Diskyphogyne,,"(Kraenzl.) Szlach. & R.González",1996,"Fragm. Florist. Geobot. 41: 495 1996",,,,,990807-1,wfo-0000944681,2840975,
-81168732-8fcd-11eb-924d-9cd76263cbd0,species,scabrilingua,Diskyphogyne,,"(Szlach.) Szlach. & R.González",1996,"Fragm. Florist. Geobot. 41: 495 1996",,,,3cb47b72-8fcc-11eb-924d-9cd76263cbd0,990808-1,wfo-0000944682,2841000,
-8116a2f8-8fcd-11eb-924d-9cd76263cbd0,species,widgrenii,Diskyphogyne,,"(Rchb.f.) Szlach. & R.González",1996,"Fragm. Florist. Geobot. 41: 495 1996",,,,,990809-1,wfo-0000944683,2840993,
-8116bdf6-8fcd-11eb-924d-9cd76263cbd0,species,binata,Dismophyla,,"(Labill.) Raf.",1837,"Fl. Tellur. 3: 36 1837",,,,819829e0-8fcd-11eb-924d-9cd76263cbd0,321767-1,wfo-0000944684,3191065,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2eac8a2-8fd1-11eb-924d-9cd76263cbd0,genus,Diskion,,,Raf.,,1838,,"Hochst. et al., Sylva Tellur. 55 (1838)., 1838.",,,,,,,wfo-4000012172,3798178,,
+81166bc6-8fcd-11eb-924d-9cd76263cbd0,species,arechavaletae,Diskyphogyne,,"(Kraenzl.) Szlach. & R.González",,1996,,"Fragm. Florist. Geobot. 41: 495 1996",,,,,,990807-1,wfo-0000944681,2840975,,
+81168732-8fcd-11eb-924d-9cd76263cbd0,species,scabrilingua,Diskyphogyne,,"(Szlach.) Szlach. & R.González",,1996,,"Fragm. Florist. Geobot. 41: 495 1996",,,,3cb47b72-8fcc-11eb-924d-9cd76263cbd0,,990808-1,wfo-0000944682,2841000,,
+8116a2f8-8fcd-11eb-924d-9cd76263cbd0,species,widgrenii,Diskyphogyne,,"(Rchb.f.) Szlach. & R.González",,1996,,"Fragm. Florist. Geobot. 41: 495 1996",,,,,,990809-1,wfo-0000944683,2840993,,
+8116bdf6-8fcd-11eb-924d-9cd76263cbd0,species,binata,Dismophyla,,"(Labill.) Raf.",,1837,,"Fl. Tellur. 3: 36 1837",,,,819829e0-8fcd-11eb-924d-9cd76263cbd0,,321767-1,wfo-0000944684,3191065,,

@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4231cce-8fd1-11eb-924d-9cd76263cbd0,genus,Gonyanera,,,Korth.,1851,"Ned. Kruidk. Arch. 2(2): 183. 1851.",,,,,,wfo-4000016043,7271043,
-8ef395c0-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Gonyanera,,Korth.,1851,"Ned. Kruidk. Arch. 2(2): 183 1851",,,,,751508-1,wfo-0000974491,3847790,
-046d2308-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Gonyclisia,,"(L.) Dulac",1867,"Fl. Hautes-Pyrénées 191 1867",,,,,284516-1,wfo-0000707205,3689799,
-046d41bc-8fcd-11eb-924d-9cd76263cbd0,species,acreanum,Gonypetalum,,Ule,1915,"Notizbl. Königl. Bot. Gart. Berlin 6: 312 1915",,,,,112480-2,wfo-0000707206,4195708,
-046d72b8-8fcd-11eb-924d-9cd76263cbd0,species,juruanum,Gonypetalum,,Ule,1906,"Verh. Bot. Vereins Prov. Brandenburg 48: 174 1906 publ. 1907",,,,,112481-2,wfo-0000707207,4195674,
-046d9bb2-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Gonypetalum,,Ducke,1932,"Bull. Mus. Natl. Hist. Nat. II, 4: 737 1932",,,,,112482-2,wfo-0000707208,4195646,
-046db7e6-8fcd-11eb-924d-9cd76263cbd0,species,tessmannii,Gonypetalum,,K.Krause,1931,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 137 1931",,,,,112483-2,wfo-0000707209,4196161,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4231cce-8fd1-11eb-924d-9cd76263cbd0,genus,Gonyanera,,,Korth.,,1851,,"Ned. Kruidk. Arch. 2(2): 183. 1851.",,,,,,,wfo-4000016043,7271043,,
+8ef395c0-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Gonyanera,,Korth.,,1851,,"Ned. Kruidk. Arch. 2(2): 183 1851",,,,,,751508-1,wfo-0000974491,3847790,,
+046d2308-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Gonyclisia,,"(L.) Dulac",,1867,,"Fl. Hautes-Pyrénées 191 1867",,,,,,284516-1,wfo-0000707205,3689799,,

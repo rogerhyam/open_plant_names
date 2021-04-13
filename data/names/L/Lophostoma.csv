@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e612d1dc-8fd1-11eb-924d-9cd76263cbd0,genus,Lophostoma,,,Meisn.,1857,"Prodr. 14(2): 600. 1857. (late Nov 1857)",,,,,39281-1,wfo-4000022242,3233873,
-d115f318-8fd1-11eb-924d-9cd76263cbd0,species,albifolium,Lophostoma,,"(Barb.Rodr.) Gilg",1894,"Nat. Pflanzenfam. 3(6a): 232 1894",,,,6a3e9ee2-8fcc-11eb-924d-9cd76263cbd0,143640-2,wfo-0001281858,5523846,
-6921388a-8fcc-11eb-924d-9cd76263cbd0,species,amoenum,Lophostoma,,Nevling,1963,"J. Arnold Arbor. 44: 161 1963",,,,,143641-2,wfo-0000445223,5523838,
-69210d60-8fcc-11eb-924d-9cd76263cbd0,species,bolleanum,Lophostoma,,Domke,1932,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 350 1932",,,,,143642-2,wfo-0000445222,5523829,
-dc73ee94-8fcd-11eb-924d-9cd76263cbd0,species,calophylloides,Lophostoma,,"(Meisn.) Meisn.",1857,"Prodr. 14(2): 600 1857",,,,dc73d026-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001142314,5523823,
-dc740b0e-8fcd-11eb-924d-9cd76263cbd0,species,dinizii,Lophostoma,,"Huber ex Ducke",1915,"Arch. Jard. Bot. Rio de Janeiro 1: 51 1915",,,,,832234-1,wfo-0001142315,5523816,
-691fc504-8fcc-11eb-924d-9cd76263cbd0,species,ovatum,Lophostoma,,Meisn.,1857,"Prodr. 14: 600 1857",,,,,832235-1,wfo-0000445215,5523812,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e612d1dc-8fd1-11eb-924d-9cd76263cbd0,genus,Lophostoma,,,Meisn.,,1857,,"Prodr. 14(2): 600. 1857. (late Nov 1857)",,,,,,39281-1,wfo-4000022242,3233873,,
+d115f318-8fd1-11eb-924d-9cd76263cbd0,species,albifolium,Lophostoma,,"(Barb.Rodr.) Gilg",,1894,,"Nat. Pflanzenfam. 3(6a): 232 1894",,,,6a3e9ee2-8fcc-11eb-924d-9cd76263cbd0,,143640-2,wfo-0001281858,5523846,,
+6921388a-8fcc-11eb-924d-9cd76263cbd0,species,amoenum,Lophostoma,,Nevling,,1963,,"J. Arnold Arbor. 44: 161 1963",,Q100550747,,,,143641-2,wfo-0000445223,5523838,,
+69210d60-8fcc-11eb-924d-9cd76263cbd0,species,bolleanum,Lophostoma,,Domke,,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 350 1932",,Q55777465,,,,143642-2,wfo-0000445222,5523829,,
+dc73ee94-8fcd-11eb-924d-9cd76263cbd0,species,calophylloides,Lophostoma,,"(Meisn.) Meisn.",,1857,,"Prodr. 14(2): 600 1857",,,,dc73d026-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001142314,5523823,,
+dc740b0e-8fcd-11eb-924d-9cd76263cbd0,species,dinizii,Lophostoma,,"Huber ex Ducke",,1915,,"Arch. Jard. Bot. Rio de Janeiro 1: 51 1915",,,,,,832234-1,wfo-0001142315,5523816,,
+691fc504-8fcc-11eb-924d-9cd76263cbd0,species,ovatum,Lophostoma,,Meisn.,,1857,,"Prodr. 14: 600 1857",,,,,,832235-1,wfo-0000445215,5523812,,

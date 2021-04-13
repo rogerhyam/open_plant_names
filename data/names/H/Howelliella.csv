@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4e0ee3e-8fd1-11eb-924d-9cd76263cbd0,genus,Howelliella,,,Rothm.,1954,"Leafl. W. Bot. 7(5): 115–116. 1954.",,,,,297389-2,wfo-4000018353,3171141,
-da854d12-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Howelliella,,"(Eastw.) Rothm.",1954,"Leafl. W. Bot. 7(5): 115 1954",,,,,124352-2,wfo-0001138355,3171142,
-cfffe380-8fd1-11eb-924d-9cd76263cbd0,species,oligophylla,Howethoa,,"(Merr. & Chun) Rauschert",1982,"Taxon 31(3): 562 1982",,,,bb9a7e86-8fcd-11eb-924d-9cd76263cbd0,910757-1,wfo-0001281396,3786110,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4e0ee3e-8fd1-11eb-924d-9cd76263cbd0,genus,Howelliella,,,Rothm.,,1954,,"Leafl. W. Bot. 7(5): 115–116. 1954.",,,,,,297389-2,wfo-4000018353,3171141,,
+da854d12-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Howelliella,,"(Eastw.) Rothm.",,1954,,"Leafl. W. Bot. 7(5): 115 1954",,,,,,124352-2,wfo-0001138355,3171142,,
+cfffe380-8fd1-11eb-924d-9cd76263cbd0,species,oligophylla,Howethoa,,"(Merr. & Chun) Rauschert",,1982,,"Taxon 31(3): 562 1982",,Q28955334,,bb9a7e86-8fcd-11eb-924d-9cd76263cbd0,,910757-1,wfo-0001281396,3786110,,

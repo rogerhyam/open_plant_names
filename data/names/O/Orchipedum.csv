@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e79dac02-8fd1-11eb-924d-9cd76263cbd0,genus,Orchipedum,,,Breda,1829,"Gen. Sp. Orchid. Asclep. [19^. 1829.",,,,,30183-1,wfo-4000027036,2812502,
-37690998-8fcd-11eb-924d-9cd76263cbd0,species,echinatum,Orchipedum,,"Aver. & Averyanova",2006,"Komarovia 4: 29 2006",,,,,77076218-1,wfo-0000809394,5313349,
-ec3e1360-8fcb-11eb-924d-9cd76263cbd0,species,plantaginifolium,Orchipedum,,Breda,1829,"Gen. Sp. Orchid. Asclep. 2: t. 5 1829",,,,,,wfo-0000258870,5313351,
-ec3eacee-8fcb-11eb-924d-9cd76263cbd0,species,wenzelii,Orchipedum,,"(Ames) J.J.Sm.",1934,"Blumea 1: 214 1934",,,,,648318-1,wfo-0000258871,5313350,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e79dac02-8fd1-11eb-924d-9cd76263cbd0,genus,Orchipedum,,,Breda,,1829,,"Gen. Sp. Orchid. Asclep. [19^. 1829.",,,,,,30183-1,wfo-4000027036,2812502,,
+37690998-8fcd-11eb-924d-9cd76263cbd0,species,echinatum,Orchipedum,,"Aver. & Averyanova",,2006,,"Komarovia 4: 29 2006",,,,,,77076218-1,wfo-0000809394,5313349,,
+ec3e1360-8fcb-11eb-924d-9cd76263cbd0,species,plantaginifolium,Orchipedum,,Breda,,1829,,"Gen. Sp. Orchid. Asclep. 2: t. 5 1829",,,,,,,wfo-0000258870,5313351,,
+ec3eacee-8fcb-11eb-924d-9cd76263cbd0,species,wenzelii,Orchipedum,,"(Ames) J.J.Sm.",,1934,,"Blumea 1: 214 1934",,Q96029958,,,,648318-1,wfo-0000258871,5313350,,

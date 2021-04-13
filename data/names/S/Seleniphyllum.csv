@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea41134a-8fd1-11eb-924d-9cd76263cbd0,genus,Seleniphyllum,,,"Rowley in Backeberg",,"Cactaceae Handb. Kakteen. 6: 3557. 1962.",,,,,,wfo-4000034982,7279898,
-ad5c19ba-8fcd-11eb-924d-9cd76263cbd0,species,diffusa,Selenocarpaea,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 10, No. 71. 1834",,,,,,wfo-0001037697,3043933,
-ad5c368e-8fcd-11eb-924d-9cd76263cbd0,species,peltaria,Selenocarpaea,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 10, No. 69. 1834",,,,,,wfo-0001037698,3043936,
-ad5c510a-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Selenocarpaea,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 10, No. 70. 1834",,,,,,wfo-0001037699,3043942,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea41134a-8fd1-11eb-924d-9cd76263cbd0,genus,Seleniphyllum,,,"Rowley in Backeberg",,,,"Cactaceae Handb. Kakteen. 6: 3557. 1962.",,,,,,,wfo-4000034982,7279898,,
+ad5c19ba-8fcd-11eb-924d-9cd76263cbd0,species,diffusa,Selenocarpaea,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 10, No. 71. 1834",,,,,,,wfo-0001037697,3043933,,
+ad5c368e-8fcd-11eb-924d-9cd76263cbd0,species,peltaria,Selenocarpaea,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 10, No. 69. 1834",,,,,,,wfo-0001037698,3043936,,
+ad5c510a-8fcd-11eb-924d-9cd76263cbd0,species,pinnata,Selenocarpaea,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 10, No. 70. 1834",,,,,,,wfo-0001037699,3043942,,

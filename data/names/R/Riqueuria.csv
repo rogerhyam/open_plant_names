@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ba7cd6-8fd1-11eb-924d-9cd76263cbd0,genus,Riqueuria,,,"Ruiz & Pav.",1794,"Fl. Peruv. Prodr. 18. 1794.",,,,,35263-1,wfo-4000033310,2904523,
-04959a28-8fcc-11eb-924d-9cd76263cbd0,species,avenia,Riqueuria,,"Ruiz & Pav.",1798,"Fl. Peruv. 1: 70 1798",,,,,764708-1,wfo-0000297310,2904524,
-0495b79c-8fcc-11eb-924d-9cd76263cbd0,species,griffithii,Riseleya,,Hemsl.,1917,"J. Bot. 55: 286 1917",,,,,355572-1,wfo-0000297311,3075709,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ba7cd6-8fd1-11eb-924d-9cd76263cbd0,genus,Riqueuria,,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 18. 1794.",,,,,,35263-1,wfo-4000033310,2904523,,
+04959a28-8fcc-11eb-924d-9cd76263cbd0,species,avenia,Riqueuria,,"Ruiz & Pav.",,1798,,"Fl. Peruv. 1: 70 1798",,,,,,764708-1,wfo-0000297310,2904524,,
+0495b79c-8fcc-11eb-924d-9cd76263cbd0,species,griffithii,Riseleya,,Hemsl.,,1917,,"J. Bot. 55: 286 1917",,,,,,355572-1,wfo-0000297311,3075709,,

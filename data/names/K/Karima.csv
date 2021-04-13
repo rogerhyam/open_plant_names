@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec5d178c-8fd1-11eb-924d-9cd76263cbd0,genus,Karima,,,"Cheek & Riina",,"PLoS ONE 11(4): e0152110 (9) (2016)",,,,,77153667-1,wfo-4001303276,9402009,
-b649d1a8-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Karimbolea,,"(Jum. & H.Perrier) Liede & Meve",1997,"Brittonia 48(4): 502 1997",,,,c023a342-8fcd-11eb-924d-9cd76263cbd0,994062-1,wfo-0001236063,3581521,
-ba8851b8-8fd1-11eb-924d-9cd76263cbd0,species,mariensis,Karimbolea,,"Meve & Liede",1998,"Bradleya 16: 10, f. 1, 4 1998",,,,,1004536-1,wfo-0001243941,3581515,
-caffd290-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Karimbolea,,Desc.,1960,"Cactus (Paris) 15(68): 78–80, f. A–F 1960",,,,,98889-1,wfo-0001104235,3581507,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec5d178c-8fd1-11eb-924d-9cd76263cbd0,genus,Karima,,,"Cheek & Riina",,,,"PLoS ONE 11(4): e0152110 (9) (2016)",,,,,,77153667-1,wfo-4001303276,9402009,,
+b649d1a8-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Karimbolea,,"(Jum. & H.Perrier) Liede & Meve",,1997,,"Brittonia 48(4): 502 1997",,Q55772559,,c023a342-8fcd-11eb-924d-9cd76263cbd0,,994062-1,wfo-0001236063,3581521,,
+ba8851b8-8fd1-11eb-924d-9cd76263cbd0,species,mariensis,Karimbolea,,"Meve & Liede",,1998,,"Bradleya 16: 10, f. 1, 4 1998",,Q96001589,,,,1004536-1,wfo-0001243941,3581515,,
+caffd290-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Karimbolea,,Desc.,,1960,,"Cactus (Paris) 15(68): 78–80, f. A–F 1960",,,,,,98889-1,wfo-0001104235,3581507,,

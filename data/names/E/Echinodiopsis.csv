@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3279660-8fd1-11eb-924d-9cd76263cbd0,genus,Echinodiopsis,,,"S.Olsson, Enroth & D.Quandt",2011,"Taxon 60(1): 47. 2011.",,,,,,wfo-4000012924,7599492,
-ae7801f6-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Echinodiopsis,,"(Hook.f. & Wilson) S.Olsson, Enroth & D.Quandt",2011,"Taxon 60(1): 47 2011",,,,,,wfo-0001040244,8221780,
-ae781da8-8fcd-11eb-924d-9cd76263cbd0,species,umbrosa,Echinodiopsis,,"(Mitt.) S.Olsson, Enroth & D.Quandt",2011,"Taxon 60(1): 47 2011",,,,,,wfo-0001040245,7900980,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3279660-8fd1-11eb-924d-9cd76263cbd0,genus,Echinodiopsis,,,"S.Olsson, Enroth & D.Quandt",,2011,,"Taxon 60(1): 47. 2011.",,,,,,,wfo-4000012924,7599492,,
+ae7801f6-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Echinodiopsis,,"(Hook.f. & Wilson) S.Olsson, Enroth & D.Quandt",,2011,,"Taxon 60(1): 47 2011",,,,,,,wfo-0001040244,8221780,,
+ae781da8-8fcd-11eb-924d-9cd76263cbd0,species,umbrosa,Echinodiopsis,,"(Mitt.) S.Olsson, Enroth & D.Quandt",,2011,,"Taxon 60(1): 47 2011",,,,,,,wfo-0001040245,7900980,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1e12744-8fd1-11eb-924d-9cd76263cbd0,genus,Codonacanthus,,,Nees,1847,"Prodr. 11: 103. 1847.",,,,,481-1,wfo-4000008776,7263664,
-cef1d75a-8fcc-11eb-924d-9cd76263cbd0,species,acuminatus,Codonacanthus,,Nees,1847,"Prodr. 11: 103 1847",,,,,46943-1,wfo-0000613995,3774218,
-aefe2556-8fcd-11eb-924d-9cd76263cbd0,species,albonervosa,Codonacanthus,,"(Hosok.) Yuen P.Yang",,,,,,ad6cc932-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001041452,7386125,
-cef1f514-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorus,Codonacanthus,,"(Nees) Nees",1847,"Prodr. 11: 103 1847",,,,,46944-1,wfo-0000613996,3774207,
-199caab4-8fcd-11eb-924d-9cd76263cbd0,species,sanjappae,Codonacanthus,,"Karthig., Sumathi, Jayanthi & D.Naras.",2010,"Nordic J. Bot. 28: 501 2010",,,,,77107403-1,wfo-0000746213,8058835,
-cef2110c-8fcc-11eb-924d-9cd76263cbd0,species,spicatus,Codonacanthus,,Hand.-Mazz.,1934,"Sinensia 5: 13 1934",,,,,46945-1,wfo-0000613997,3774199,
-4f03d4fc-8fcd-11eb-924d-9cd76263cbd0,species,neesiana,Codonachne,,"Wight & Arn.",1840,"Nomencl. Bot. ed. 2, 1: 398 1840",,,,,396444-1,wfo-0000860313,7547164,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1e12744-8fd1-11eb-924d-9cd76263cbd0,genus,Codonacanthus,,,Nees,,1847,,"Prodr. 11: 103. 1847.",,,,,,481-1,wfo-4000008776,7263664,,
+cef1d75a-8fcc-11eb-924d-9cd76263cbd0,species,acuminatus,Codonacanthus,,Nees,,1847,,"Prodr. 11: 103 1847",,,,,,46943-1,wfo-0000613995,3774218,,
+aefe2556-8fcd-11eb-924d-9cd76263cbd0,species,albonervosa,Codonacanthus,,"(Hosok.) Yuen P.Yang",,,,,,,,ad6cc932-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001041452,7386125,,
+cef1f514-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorus,Codonacanthus,,"(Nees) Nees",,1847,,"Prodr. 11: 103 1847",,,,,,46944-1,wfo-0000613996,3774207,,
+199caab4-8fcd-11eb-924d-9cd76263cbd0,species,sanjappae,Codonacanthus,,"Karthig., Sumathi, Jayanthi & D.Naras.",,2010,,"Nordic J. Bot. 28: 501 2010",,Q55762110,,,,77107403-1,wfo-0000746213,8058835,,
+cef2110c-8fcc-11eb-924d-9cd76263cbd0,species,spicatus,Codonacanthus,,Hand.-Mazz.,,1934,,"Sinensia 5: 13 1934",,,,,,46945-1,wfo-0000613997,3774199,,
+4f03d4fc-8fcd-11eb-924d-9cd76263cbd0,species,neesiana,Codonachne,,"Wight & Arn.",,1840,,"Nomencl. Bot. ed. 2, 1: 398 1840",,,,,,396444-1,wfo-0000860313,7547164,,

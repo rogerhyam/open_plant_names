@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df5716f0-8fd1-11eb-924d-9cd76263cbd0,genus,Anadenanthera,,,Speg.,,,,,,,296601-2,wfo-4000001818,2952807,
-072d53d0-8fc1-11eb-924d-9cd76263cbd0,species,colubrina,Anadenanthera,,"(Vell.) Brenan",,,,,,84e9dd5c-8fc1-11eb-924d-9cd76263cbd0,,wfo-0000169564,2952823,
-490c9664-8fc4-11eb-924d-9cd76263cbd0,variety,cebil,Anadenanthera,colubrina,"(Griseb.) Altschul",,,,,,8737b488-8fc3-11eb-924d-9cd76263cbd0,1147895-2,wfo-0000187374,2952829,
-357c6170-8fc3-11eb-924d-9cd76263cbd0,species,falcata,Anadenanthera,,"(Benth.) Speg.",,,,,,,1036865-2,wfo-0000181609,2952818,
-86c13f2e-8fc3-11eb-924d-9cd76263cbd0,species,macrocarpa,Anadenanthera,,"(Benth.) Brenan",,,,,,,,wfo-0000183302,2952839,
-07387dfa-8fc1-11eb-924d-9cd76263cbd0,species,peregrina,Anadenanthera,,"(L.) Speg.",,,,,,,1079624-2,wfo-0000169565,2952808,
-24c45dd2-8fc4-11eb-924d-9cd76263cbd0,variety,falcata,Anadenanthera,peregrina,"(Benth.) Altschul",,,,,,,,wfo-0000186598,2952816,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df5716f0-8fd1-11eb-924d-9cd76263cbd0,genus,Anadenanthera,,,Speg.,,,,,,,,,,296601-2,wfo-4000001818,2952807,,
+072d53d0-8fc1-11eb-924d-9cd76263cbd0,species,colubrina,Anadenanthera,,"(Vell.) Brenan",,,,,,,,84e9dd5c-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000169564,2952823,,
+490c9664-8fc4-11eb-924d-9cd76263cbd0,variety,cebil,Anadenanthera,colubrina,"(Griseb.) Altschul",,,,,,,,8737b488-8fc3-11eb-924d-9cd76263cbd0,,1147895-2,wfo-0000187374,2952829,,
+357c6170-8fc3-11eb-924d-9cd76263cbd0,species,falcata,Anadenanthera,,"(Benth.) Speg.",,,,,,,,,,1036865-2,wfo-0000181609,2952818,,
+86c13f2e-8fc3-11eb-924d-9cd76263cbd0,species,macrocarpa,Anadenanthera,,"(Benth.) Brenan",,,,,,,,,,,wfo-0000183302,2952839,,
+07387dfa-8fc1-11eb-924d-9cd76263cbd0,species,peregrina,Anadenanthera,,"(L.) Speg.",,,,,,,,,,1079624-2,wfo-0000169565,2952808,,
+24c45dd2-8fc4-11eb-924d-9cd76263cbd0,variety,falcata,Anadenanthera,peregrina,"(Benth.) Altschul",,,,,,,,,,,wfo-0000186598,2952816,,

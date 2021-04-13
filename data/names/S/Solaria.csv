@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7e59f8-8fd1-11eb-924d-9cd76263cbd0,genus,Solaria,,,Phil.,1858,"Linnaea 29(1): 72. 1858.",,,,,24776-1,wfo-4000035689,2859688,
-179d5ba0-8fcd-11eb-924d-9cd76263cbd0,species,atropurpurea,Solaria,,"(Phil.) Ravenna",1978,"Pl. Life 34: 150 1978",,,,,240045-2,wfo-0000741958,5326696,
-179d7590-8fcd-11eb-924d-9cd76263cbd0,species,attenuata,Solaria,,Ravenna,1967,"Bol. Soc. Argent. Bot. 11: 160 1967",,,,,240046-2,wfo-0000741959,5326700,
-32f8b048-8fcd-11eb-924d-9cd76263cbd0,species,brevicoalita,Solaria,,Ravenna,2005,"Onira 9: 64 2005",,,,,60437861-2,wfo-0000800223,5326698,
-32f8d08c-8fcd-11eb-924d-9cd76263cbd0,species,curacavina,Solaria,,Ravenna,2005,"Onira 9: 65 2005",,,,,60437862-2,wfo-0000800224,5326702,
-179dac72-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Solaria,,"(Harv. ex Baker) Ravenna",1978,"Pl. Life 34: 150 1978",,,,201d8700-8fcd-11eb-924d-9cd76263cbd0,240047-2,wfo-0000741961,5326699,
-179dc842-8fcd-11eb-924d-9cd76263cbd0,species,major,Solaria,,Reiche,1892,"Bot. Jahrb. Syst. 16: 272 1892",,,,,240048-2,wfo-0000741962,5326697,
-179de296-8fcd-11eb-924d-9cd76263cbd0,species,miersioides,Solaria,,Phil.,1858,"Linnaea 29: 72 1858",,,,,541972-1,wfo-0000741963,5326701,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7e59f8-8fd1-11eb-924d-9cd76263cbd0,genus,Solaria,,,Phil.,,1858,,"Linnaea 29(1): 72. 1858.",,,,,,24776-1,wfo-4000035689,2859688,,
+179d5ba0-8fcd-11eb-924d-9cd76263cbd0,species,atropurpurea,Solaria,,"(Phil.) Ravenna",,1978,,"Pl. Life 34: 150 1978",,,,,,240045-2,wfo-0000741958,5326696,,
+179d7590-8fcd-11eb-924d-9cd76263cbd0,species,attenuata,Solaria,,Ravenna,,1967,,"Bol. Soc. Argent. Bot. 11: 160 1967",,,,,,240046-2,wfo-0000741959,5326700,,
+32f8b048-8fcd-11eb-924d-9cd76263cbd0,species,brevicoalita,Solaria,,Ravenna,,2005,,"Onira 9: 64 2005",,,,,,60437861-2,wfo-0000800223,5326698,,
+32f8d08c-8fcd-11eb-924d-9cd76263cbd0,species,curacavina,Solaria,,Ravenna,,2005,,"Onira 9: 65 2005",,,,,,60437862-2,wfo-0000800224,5326702,,
+179dac72-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Solaria,,"(Harv. ex Baker) Ravenna",,1978,,"Pl. Life 34: 150 1978",,,,201d8700-8fcd-11eb-924d-9cd76263cbd0,,240047-2,wfo-0000741961,5326699,,
+179dc842-8fcd-11eb-924d-9cd76263cbd0,species,major,Solaria,,Reiche,,1892,,"Bot. Jahrb. Syst. 16: 272 1892",,,,,,240048-2,wfo-0000741962,5326697,,
+179de296-8fcd-11eb-924d-9cd76263cbd0,species,miersioides,Solaria,,Phil.,,1858,,"Linnaea 29: 72 1858",,,,,,541972-1,wfo-0000741963,5326701,,

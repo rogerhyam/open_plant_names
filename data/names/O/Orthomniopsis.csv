@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7b317d6-8fd1-11eb-924d-9cd76263cbd0,genus,Orthomniopsis,,,Broth.,1907,"Orthomniopsis und Okamuraea 1. 1907.",,,,,,wfo-4000027280,4887527,
-f14bb720-8fcd-11eb-924d-9cd76263cbd0,species,dilatata,Orthomniopsis,,"(Wilson ex Mitt.) Nog.",1966,"Fl. E. Himalaya 1: 563 1966",,,,,,wfo-0001186427,8143515,
-f28e8540-8fcd-11eb-924d-9cd76263cbd0,species,elimbata,Orthomniopsis,,Nog.,1953,"J. Hattori Bot. Lab. 10: 8. pl. 4: f. 9–13 1953",,,,,,wfo-0001188987,7368438,
-f28ea4f8-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Orthomniopsis,,Broth.,1907,"Orthomniopsis und Okamuraea 1 1907",,,,,,wfo-0001188988,7733288,
-f149229e-8fcd-11eb-924d-9cd76263cbd0,species,petelotii,Orthomniopsis,,Tixier,1966,"Rev. Bryol. Lichénol. 34: 137. f. 7 1966",,,,,,wfo-0001186403,8049520,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7b317d6-8fd1-11eb-924d-9cd76263cbd0,genus,Orthomniopsis,,,Broth.,,1907,,"Orthomniopsis und Okamuraea 1. 1907.",,,,,,,wfo-4000027280,4887527,,
+f14bb720-8fcd-11eb-924d-9cd76263cbd0,species,dilatata,Orthomniopsis,,"(Wilson ex Mitt.) Nog.",,1966,,"Fl. E. Himalaya 1: 563 1966",,,,,,,wfo-0001186427,8143515,,
+f28e8540-8fcd-11eb-924d-9cd76263cbd0,species,elimbata,Orthomniopsis,,Nog.,,1953,,"J. Hattori Bot. Lab. 10: 8. pl. 4: f. 9–13 1953",,,,,,,wfo-0001188987,7368438,,
+f28ea4f8-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Orthomniopsis,,Broth.,,1907,,"Orthomniopsis und Okamuraea 1 1907",,,,,,,wfo-0001188988,7733288,,
+f149229e-8fcd-11eb-924d-9cd76263cbd0,species,petelotii,Orthomniopsis,,Tixier,,1966,,"Rev. Bryol. Lichénol. 34: 137. f. 7 1966",,,,,,,wfo-0001186403,8049520,,

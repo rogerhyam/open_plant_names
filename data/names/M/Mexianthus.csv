@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6a383b2-8fd1-11eb-924d-9cd76263cbd0,genus,Mexianthus,,,B.L.Rob.,,,,,,,297521-2,wfo-4000023968,3105471,
-d4d87506-8fb9-11eb-924d-9cd76263cbd0,species,mexicanus,Mexianthus,,B.L.Rob.,1928,"Contr. Gray Herb. 80 5 1928",,,,,158632-2,wfo-0000121749,3105472,
-e29f63f4-8fcb-11eb-924d-9cd76263cbd0,species,ghiesbreghtiana,Mexicoa,,"(A.Rich. & Galeotti) Garay",1974,"Bradea 1: 424 1974",,,,,158633-2,wfo-0000242673,5313344,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6a383b2-8fd1-11eb-924d-9cd76263cbd0,genus,Mexianthus,,,B.L.Rob.,,,,,,,,,,297521-2,wfo-4000023968,3105471,,
+d4d87506-8fb9-11eb-924d-9cd76263cbd0,species,mexicanus,Mexianthus,,B.L.Rob.,,1928,,"Contr. Gray Herb. 80 5 1928",,,,,,158632-2,wfo-0000121749,3105472,,
+e29f63f4-8fcb-11eb-924d-9cd76263cbd0,species,ghiesbreghtiana,Mexicoa,,"(A.Rich. & Galeotti) Garay",,1974,,"Bradea 1: 424 1974",,,,,,158633-2,wfo-0000242673,5313344,,

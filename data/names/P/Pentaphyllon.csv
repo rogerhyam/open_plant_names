@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8297dea-8fd1-11eb-924d-9cd76263cbd0,genus,Pentaphyllon,,,,,,,,,,,wfo-4000028615,7302851,
-774cd1a8-8fcc-11eb-924d-9cd76263cbd0,species,ammani,Pentaphyllon,,Ledeb.,1823,"Index Seminum (TU) 1823: 5 1823",,,,,513040-1,wfo-0000469466,3979477,
-d7a60afa-8fc3-11eb-924d-9cd76263cbd0,species,lupinaster,Pentaphyllon,,"(L.) Pers.",,,,,,a5e65d2a-8fc9-11eb-924d-9cd76263cbd0,,wfo-0000184924,2973639,
-774d93cc-8fcc-11eb-924d-9cd76263cbd0,species,macrocephalum,Pentaphyllon,,Spreng.,1826,"Syst. Veg. 3: 286 1826",,,,,513042-1,wfo-0000469471,3979473,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8297dea-8fd1-11eb-924d-9cd76263cbd0,genus,Pentaphyllon,,,,,,,,,,,,,,wfo-4000028615,7302851,,
+774cd1a8-8fcc-11eb-924d-9cd76263cbd0,species,ammani,Pentaphyllon,,Ledeb.,,1823,,"Index Seminum (TU) 1823: 5 1823",,,,,,513040-1,wfo-0000469466,3979477,,
+d7a60afa-8fc3-11eb-924d-9cd76263cbd0,species,lupinaster,Pentaphyllon,,"(L.) Pers.",,,,,,,,a5e65d2a-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000184924,2973639,,
+774d93cc-8fcc-11eb-924d-9cd76263cbd0,species,macrocephalum,Pentaphyllon,,Spreng.,,1826,,"Syst. Veg. 3: 286 1826",,,,,,513042-1,wfo-0000469471,3979473,,

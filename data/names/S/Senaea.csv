@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea467100-8fd1-11eb-924d-9cd76263cbd0,genus,Senaea,,,Taub.,1893,"Bot. Jahrb. Syst. 17: 515. 1893.",,,,,297356-2,wfo-4000035049,7270642,
-87e53e92-8fcc-11eb-924d-9cd76263cbd0,species,coerulea,Senaea,,Taub.,1893,"Bot. Jahrb. Syst. 17: 516 1893",,,,,232501-2,wfo-0000498090,3845044,
-87e3acee-8fcc-11eb-924d-9cd76263cbd0,species,janeirensis,Senaea,,Brade,1932,"Arq. Mus. Nac. Rio de Janeiro 34: 118 1932",,,,,232502-2,wfo-0000498084,3845134,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea467100-8fd1-11eb-924d-9cd76263cbd0,genus,Senaea,,,Taub.,,1893,,"Bot. Jahrb. Syst. 17: 515. 1893.",,,,,,297356-2,wfo-4000035049,7270642,,
+87e53e92-8fcc-11eb-924d-9cd76263cbd0,species,coerulea,Senaea,,Taub.,,1893,,"Bot. Jahrb. Syst. 17: 516 1893",,,,,,232501-2,wfo-0000498090,3845044,,
+87e3acee-8fcc-11eb-924d-9cd76263cbd0,species,janeirensis,Senaea,,Brade,,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 118 1932",,,,,,232502-2,wfo-0000498084,3845134,,

@@ -1,8 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb5be304-8fd1-11eb-924d-9cd76263cbd0,genus,Ticodendron,,,"Gómez-Laur. & L.D.Gómez",,"Ann. Missouri Bot. Gard. 76(4): 1148–1151, f. 1–6. 1989. (7 Nov 1989)",,,,,925238-1,wfo-4000038394,2876661,
-166765a6-8fcc-11eb-924d-9cd76263cbd0,species,incognitum,Ticodendron,,"Gómez-Laur. & L.D.Gómez",,"Ann. Missouri Bot. Gard. 76: 1148 1989",,,,,938421-1,wfo-0000325059,2876662,
-166787ca-8fcc-11eb-924d-9cd76263cbd0,species,krameri,Ticoglossum,,"(Rchb.f.) Halb.",1983,"Orquídea (Mexico City) n.s., 9: 5 1983",,,,e932fdac-8fcb-11eb-924d-9cd76263cbd0,913439-1,wfo-0000325060,2796660,
-37df8136-8fcd-11eb-924d-9cd76263cbd0,form,album,Ticoglossum,krameri,"(Lucas Rodr. ex Halb.) M.Wolff & O.Gruss",2007,"Orchid. Atlas 419 2007",,,,,77081296-1,wfo-0000810434,6315060,
-1667a3ea-8fcc-11eb-924d-9cd76263cbd0,variety,album,Ticoglossum,krameri,"(Lucas Rodr. ex Halb.) Halb.",1983,"Orquídea (Mexico City) n.s., 9: 5 1983",,,,e93319e0-8fcb-11eb-924d-9cd76263cbd0,922811-1,wfo-0000325061,2796661,
-1667c0fa-8fcc-11eb-924d-9cd76263cbd0,variety,smithianum,Ticoglossum,krameri,"(Rchb.f.) Christenson",1991,"Lindleyana 6: 47 1991",,,,e933347a-8fcb-11eb-924d-9cd76263cbd0,966743-1,wfo-0000325062,,
-1667dce8-8fcc-11eb-924d-9cd76263cbd0,species,oerstedii,Ticoglossum,,"(Rchb.f.) Halb.",1983,"Orquídea (Mexico City) n.s., 9: 5 1983",,,,,913440-1,wfo-0000325063,2796657,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb5be304-8fd1-11eb-924d-9cd76263cbd0,genus,Ticodendron,,,"Gómez-Laur. & L.D.Gómez",,,,"Ann. Missouri Bot. Gard. 76(4): 1148–1151, f. 1–6. 1989. (7 Nov 1989)",,Q55765234,,,,925238-1,wfo-4000038394,2876661,,
+166765a6-8fcc-11eb-924d-9cd76263cbd0,species,incognitum,Ticodendron,,"Gómez-Laur. & L.D.Gómez",,,,"Ann. Missouri Bot. Gard. 76: 1148 1989",,Q55765234,,,,938421-1,wfo-0000325059,2876662,,

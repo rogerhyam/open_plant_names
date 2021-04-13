@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24898e8-8fd1-11eb-924d-9cd76263cbd0,genus,Curtopogon,,,P.Beauv.,1812,"Ess. Agrostogr. 32, 159, t. 8, f. 7. 1812.",,,,,,wfo-4000010106,4140165,
-4f51daf8-8fcd-11eb-924d-9cd76263cbd0,species,dichotomus,Curtopogon,,"(Michx.) P.Beauv.",1812,"Ess. Agrostogr. 32 1812",,,,,1119980-2,wfo-0000860880,4140164,
-4f51fd62-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Curtopogon,,"(Elliott) Trin. & Rupr.",1842,"Sp. Gram. Stipac. 101 1842",,,,,,wfo-0000860881,6068887,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24898e8-8fd1-11eb-924d-9cd76263cbd0,genus,Curtopogon,,,P.Beauv.,,1812,,"Ess. Agrostogr. 32, 159, t. 8, f. 7. 1812.",,,,,,,wfo-4000010106,4140165,,
+4f51daf8-8fcd-11eb-924d-9cd76263cbd0,species,dichotomus,Curtopogon,,"(Michx.) P.Beauv.",,1812,,"Ess. Agrostogr. 32 1812",,,,,,1119980-2,wfo-0000860880,4140164,,
+4f51fd62-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Curtopogon,,"(Elliott) Trin. & Rupr.",,1842,,"Sp. Gram. Stipac. 101 1842",,,,,,,wfo-0000860881,6068887,,

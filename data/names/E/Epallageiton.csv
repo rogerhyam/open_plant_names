@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e359024a-8fd1-11eb-924d-9cd76263cbd0,genus,Epallageiton,,,Koso-Pol.,1916,"Bull. Soc. Imp. Naturalistes Moscou, n.s. 29: 121. 1916.",,,,,,wfo-4000013531,6423455,
-eec8e97e-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Epallageiton,,"(Nutt.) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,91091-2,wfo-0000668496,3034445,
-eec905b2-8fcc-11eb-924d-9cd76263cbd0,species,ibapense,Epallageiton,,"(M.E.Jones) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,91092-2,wfo-0000668497,3034462,
-eec92042-8fcc-11eb-924d-9cd76263cbd0,species,jonesii,Epallageiton,,"(J.M.Coult. & Rose) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,91093-2,wfo-0000668498,3034484,
-eec95eea-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Epallageiton,,"(S.Watson) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 121 1915 publ. 1916",,,,,91094-2,wfo-0000668500,3034447,
-eec97ca4-8fcc-11eb-924d-9cd76263cbd0,species,panamitense,Epallageiton,,"(J.M.Coult. & Rose ex Coville) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,841594-1,wfo-0000668501,3634360,
-eec997ac-8fcc-11eb-924d-9cd76263cbd0,species,purpureum,Epallageiton,,"(S.Watson) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,91096-2,wfo-0000668502,3034494,
-eec9b250-8fcc-11eb-924d-9cd76263cbd0,species,watsonii,Epallageiton,,"(J.M.Coult. & Rose) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,91097-2,wfo-0000668503,3034461,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e359024a-8fd1-11eb-924d-9cd76263cbd0,genus,Epallageiton,,,Koso-Pol.,,1916,,"Bull. Soc. Imp. Naturalistes Moscou, n.s. 29: 121. 1916.",,,,,,,wfo-4000013531,6423455,,
+eec8e97e-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Epallageiton,,"(Nutt.) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,91091-2,wfo-0000668496,3034445,,
+eec905b2-8fcc-11eb-924d-9cd76263cbd0,species,ibapense,Epallageiton,,"(M.E.Jones) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,91092-2,wfo-0000668497,3034462,,
+eec92042-8fcc-11eb-924d-9cd76263cbd0,species,jonesii,Epallageiton,,"(J.M.Coult. & Rose) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,91093-2,wfo-0000668498,3034484,,
+eec95eea-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Epallageiton,,"(S.Watson) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 121 1915 publ. 1916",,,,,,91094-2,wfo-0000668500,3034447,,
+eec97ca4-8fcc-11eb-924d-9cd76263cbd0,species,panamitense,Epallageiton,,"(J.M.Coult. & Rose ex Coville) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,841594-1,wfo-0000668501,3634360,,
+eec997ac-8fcc-11eb-924d-9cd76263cbd0,species,purpureum,Epallageiton,,"(S.Watson) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,91096-2,wfo-0000668502,3034494,,
+eec9b250-8fcc-11eb-924d-9cd76263cbd0,species,watsonii,Epallageiton,,"(J.M.Coult. & Rose) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 122 1915 publ. 1916",,,,,,91097-2,wfo-0000668503,3034461,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f5b208-8fd1-11eb-924d-9cd76263cbd0,genus,Paragrewia,,,"Gagnep. ex R.S.Rao",1953,"J. Bombay Nat. Hist. Soc. 51: 671. 1953.",,,,,,wfo-4000028031,7323005,
-7b1acf9c-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Paragrewia,,"Gagnep. ex R.S.Rao",1953,"J. Bombay Nat. Hist. Soc. 51: 671 1953",,,,,834975-1,wfo-0000475972,3670414,
-eff1b552-8fcb-11eb-924d-9cd76263cbd0,species,macrospadix,Paragulubia,,Burret,1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 84 1936",,,,,668850-1,wfo-0000264388,2738529,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f5b208-8fd1-11eb-924d-9cd76263cbd0,genus,Paragrewia,,,"Gagnep. ex R.S.Rao",,1953,,"J. Bombay Nat. Hist. Soc. 51: 671. 1953.",,,,,,,wfo-4000028031,7323005,,
+7b1acf9c-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Paragrewia,,"Gagnep. ex R.S.Rao",,1953,,"J. Bombay Nat. Hist. Soc. 51: 671 1953",,,,,,834975-1,wfo-0000475972,3670414,,
+eff1b552-8fcb-11eb-924d-9cd76263cbd0,species,macrospadix,Paragulubia,,Burret,,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 84 1936",,Q55777655,,,,668850-1,wfo-0000264388,2738529,,

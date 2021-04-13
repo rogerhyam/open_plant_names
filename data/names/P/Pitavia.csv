@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8984004-8fd1-11eb-924d-9cd76263cbd0,genus,Pitavia,,,Molina,1810,"Sag. Stor. Nat. Chili (ed. 2) 287. 1810.",,,,,35897-1,wfo-4000029900,7269462,
-d81dfe2a-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Pitavia,,"Nutt. ex Torr. & A.Gray",1838,"Fl. N. Amer. 1(2): 215–216 1838",,,,,,wfo-0001133265,8019370,
-d80dbcae-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Pitavia,,Molina,1810,"Sag. Stor. Nat. Chili (ed. 2) 287 1810",,,,,774850-1,wfo-0001133117,3836895,
-786cb800-8fcc-11eb-924d-9cd76263cbd0,species,spicata,Pitavia,,Steud.,1841,"Nomencl. Bot. ed. 2, 2: 345 1841",,,,,,wfo-0000471303,3836887,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8984004-8fd1-11eb-924d-9cd76263cbd0,genus,Pitavia,,,Molina,,1810,,"Sag. Stor. Nat. Chili (ed. 2) 287. 1810.",,,,,,35897-1,wfo-4000029900,7269462,,
+d81dfe2a-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Pitavia,,"Nutt. ex Torr. & A.Gray",,1838,,"Fl. N. Amer. 1(2): 215–216 1838",,,,,,,wfo-0001133265,8019370,,
+d80dbcae-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Pitavia,,Molina,,1810,,"Sag. Stor. Nat. Chili (ed. 2) 287 1810",,,,,,774850-1,wfo-0001133117,3836895,,
+786cb800-8fcc-11eb-924d-9cd76263cbd0,species,spicata,Pitavia,,Steud.,,1841,,"Nomencl. Bot. ed. 2, 2: 345 1841",,,,,,,wfo-0000471303,3836887,,

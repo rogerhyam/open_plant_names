@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5b5f444-8fd1-11eb-924d-9cd76263cbd0,genus,Leopoldinia,,,Mart.,1824,"Palm. Fam. 14. 1824. (13 Apr 1824)",,,,,31316-1,wfo-4000021042,2732585,
-d9044ce2-8fcb-11eb-924d-9cd76263cbd0,species,insignis,Leopoldinia,,Mart.,1824,"Hist. Nat. Palm. 2: 60 1824",,,,,,wfo-0000224745,2732589,
-d90468d0-8fcb-11eb-924d-9cd76263cbd0,species,major,Leopoldinia,,Wallace,1853,"Palm Trees Amazon 15 1853",,,,,667792-1,wfo-0000224746,2732587,
-d9048554-8fcb-11eb-924d-9cd76263cbd0,species,piassaba,Leopoldinia,,Wallace,1853,"Palm Trees Amazon 17 1853",,,,,60447541-2,wfo-0000224747,2732586,
-d904a2be-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Leopoldinia,,Mart.,1824,"Hist. Nat. Palm. 2: 59 1824",,,,,,wfo-0000224748,2732588,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5b5f444-8fd1-11eb-924d-9cd76263cbd0,genus,Leopoldinia,,,Mart.,,1824,,"Palm. Fam. 14. 1824. (13 Apr 1824)",,,,,,31316-1,wfo-4000021042,2732585,,
+d9044ce2-8fcb-11eb-924d-9cd76263cbd0,species,insignis,Leopoldinia,,Mart.,,1824,,"Hist. Nat. Palm. 2: 60 1824",,,,,,,wfo-0000224745,2732589,,
+d90468d0-8fcb-11eb-924d-9cd76263cbd0,species,major,Leopoldinia,,Wallace,,1853,,"Palm Trees Amazon 15 1853",,,,,,667792-1,wfo-0000224746,2732587,,
+d9048554-8fcb-11eb-924d-9cd76263cbd0,species,piassaba,Leopoldinia,,Wallace,,1853,,"Palm Trees Amazon 17 1853",,,,,,60447541-2,wfo-0000224747,2732586,,
+d904a2be-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Leopoldinia,,Mart.,,1824,,"Hist. Nat. Palm. 2: 59 1824",,,,,,,wfo-0000224748,2732588,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ed2ffa-8fd1-11eb-924d-9cd76263cbd0,genus,Sankowskya,,,P.I.Forst.,,,,,,,984845-1,wfo-4000033949,3075252,
-07b4d746-8fcc-11eb-924d-9cd76263cbd0,species,stipularis,Sankowskya,,P.I.Forst.,1995,"Austrobaileya 4: 331 1995",,,,,984846-1,wfo-0000302685,3075253,
-15ba8f4c-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Sanmartina,,"(R.E.Fr.) Traub",1951,"Pl. Life 7: 41 1951",,,,,227078-2,wfo-0000737939,2858012,
-b5e4da1e-8fd1-11eb-924d-9cd76263cbd0,species,ameghinoi,Sanmartinia,,"(Speg.) M.Buchinger",,,,,,,,wfo-0001235343,4033617,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ed2ffa-8fd1-11eb-924d-9cd76263cbd0,genus,Sankowskya,,,P.I.Forst.,,,,,,Q92299409,,,,984845-1,wfo-4000033949,3075252,,
+07b4d746-8fcc-11eb-924d-9cd76263cbd0,species,stipularis,Sankowskya,,P.I.Forst.,,1995,,"Austrobaileya 4: 331 1995",,Q92299409,,,,984846-1,wfo-0000302685,3075253,,
+15ba8f4c-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Sanmartina,,"(R.E.Fr.) Traub",,1951,,"Pl. Life 7: 41 1951",,,,,,227078-2,wfo-0000737939,2858012,,
+b5e4da1e-8fd1-11eb-924d-9cd76263cbd0,species,ameghinoi,Sanmartinia,,"(Speg.) M.Buchinger",,,,,,,,,,,wfo-0001235343,4033617,,

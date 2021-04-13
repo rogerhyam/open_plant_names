@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eabeb674-8fd1-11eb-924d-9cd76263cbd0,genus,Stemotria,,,"Wettst. & Harms",1899,"Nat. Pflanzenfam., Gesamtreg. 462. 1899. (Mar 1899)",,,,,,wfo-4000036453,7332126,
-c4b15b9e-8fd1-11eb-924d-9cd76263cbd0,species,triandra,Stemotria,,"(Cav.) Govaerts",1999,"World Checkl. Seed Pl. 3(1): 21 1999",,,,d9fbcdc6-8fcd-11eb-924d-9cd76263cbd0,1010005-1,wfo-0001262699,3729667,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eabeb674-8fd1-11eb-924d-9cd76263cbd0,genus,Stemotria,,,"Wettst. & Harms",,1899,,"Nat. Pflanzenfam., Gesamtreg. 462. 1899. (Mar 1899)",,,,,,,wfo-4000036453,7332126,,
+c4b15b9e-8fd1-11eb-924d-9cd76263cbd0,species,triandra,Stemotria,,"(Cav.) Govaerts",,1999,,"World Checkl. Seed Pl. 3(1): 21 1999",,,,d9fbcdc6-8fcd-11eb-924d-9cd76263cbd0,,1010005-1,wfo-0001262699,3729667,,

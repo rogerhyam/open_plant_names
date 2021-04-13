@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebe574e8-8fd1-11eb-924d-9cd76263cbd0,genus,Verbenoxylum,,,Tronc.,1971,"Darwiniana 16(3–4): 622. 1971.",,,,,,wfo-4000040142,7296947,
-1a7a3a42-8fcc-11eb-924d-9cd76263cbd0,species,reitzii,Verbenoxylum,,"(Moldenke) Tronc.",1971,"Darwiniana 16: 626 1971",,,,,263416-2,wfo-0000332471,4083692,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebe574e8-8fd1-11eb-924d-9cd76263cbd0,genus,Verbenoxylum,,,Tronc.,,1971,,"Darwiniana 16(3–4): 622. 1971.",,,,,,,wfo-4000040142,7296947,,
+1a7a3a42-8fcc-11eb-924d-9cd76263cbd0,species,reitzii,Verbenoxylum,,"(Moldenke) Tronc.",,1971,,"Darwiniana 16: 626 1971",,Q104174740,,,,263416-2,wfo-0000332471,4083692,,

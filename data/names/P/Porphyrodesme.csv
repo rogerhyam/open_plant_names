@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8f16d32-8fd1-11eb-924d-9cd76263cbd0,genus,Porphyrodesme,,,Schltr.,1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 982. 1913.",,,,,,wfo-4000030965,7915453,
-fa5b8be4-8fcb-11eb-924d-9cd76263cbd0,species,elongata,Porphyrodesme,,"(Blume) Garay",1972,"Bot. Mus. Leafl. 23: 191 1972",,,,,654810-1,wfo-0000281035,2786197,
-fa5ba94e-8fcb-11eb-924d-9cd76263cbd0,species,hewittii,Porphyrodesme,,"(Ames ex Merr.) Garay",1972,"Bot. Mus. Leafl. 23: 191 1972",,,,1562c736-8fcc-11eb-924d-9cd76263cbd0,654811-1,wfo-0000281036,2836310,
-fa5bc744-8fcb-11eb-924d-9cd76263cbd0,species,papuana,Porphyrodesme,,Schltr.,1913,"Repert. Spec. Nov. Regni Veg. Beih. 1: 983 1913",,,,,654812-1,wfo-0000281037,2836306,
-fa5be4ae-8fcb-11eb-924d-9cd76263cbd0,species,sarcanthoides,Porphyrodesme,,"(J.J.Sm.) Mahyar",1988,"Reinwardtia 10: 418 1988",,,,03884810-8fcc-11eb-924d-9cd76263cbd0,945340-1,wfo-0000281038,2836308,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8f16d32-8fd1-11eb-924d-9cd76263cbd0,genus,Porphyrodesme,,,Schltr.,,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 982. 1913.",,,,,,,wfo-4000030965,7915453,,
+fa5b8be4-8fcb-11eb-924d-9cd76263cbd0,species,elongata,Porphyrodesme,,"(Blume) Garay",,1972,,"Bot. Mus. Leafl. 23: 191 1972",,Q100425847,,,,654810-1,wfo-0000281035,2786197,,
+fa5ba94e-8fcb-11eb-924d-9cd76263cbd0,species,hewittii,Porphyrodesme,,"(Ames ex Merr.) Garay",,1972,,"Bot. Mus. Leafl. 23: 191 1972",,Q100425847,,1562c736-8fcc-11eb-924d-9cd76263cbd0,,654811-1,wfo-0000281036,2836310,,
+fa5bc744-8fcb-11eb-924d-9cd76263cbd0,species,papuana,Porphyrodesme,,Schltr.,,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 983 1913",,,,,,654812-1,wfo-0000281037,2836306,,
+fa5be4ae-8fcb-11eb-924d-9cd76263cbd0,species,sarcanthoides,Porphyrodesme,,"(J.J.Sm.) Mahyar",,1988,,"Reinwardtia 10: 418 1988",,Q94139729,,03884810-8fcc-11eb-924d-9cd76263cbd0,,945340-1,wfo-0000281038,2836308,,

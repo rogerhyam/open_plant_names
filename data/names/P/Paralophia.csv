@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f98432-8fd1-11eb-924d-9cd76263cbd0,genus,Paralophia,,,"P.J.Cribb & Hermans",2005,"Curtis's Bot. Mag., New Ed. 22: 48. 2005.",,,,,77064962-1,wfo-4000028069,2813010,
-3234ed8e-8fcd-11eb-924d-9cd76263cbd0,species,epiphytica,Paralophia,,"(P.J.Cribb, Du Puy & Bosser) P.J.Cribb",2005,"Bot. Mag. 22: 50 2005",,,,545df2bc-8fcc-11eb-924d-9cd76263cbd0,77064963-1,wfo-0000798602,5313536,
-32350ada-8fcd-11eb-924d-9cd76263cbd0,species,palmicola,Paralophia,,"(H.Perrier) P.J.Cribb",2005,"Bot. Mag. 22: 51 2005",,,,87f6bfea-8fcd-11eb-924d-9cd76263cbd0,77064964-1,wfo-0000798603,5313538,
-effaf964-8fcb-11eb-924d-9cd76263cbd0,species,clusiacea,Paralstonia,,Baill.,1888,"Bull. Mens. Soc. Linn. Paris 1: 750 1888",,,,,,wfo-0000264454,3621093,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f98432-8fd1-11eb-924d-9cd76263cbd0,genus,Paralophia,,,"P.J.Cribb & Hermans",,2005,,"Curtis's Bot. Mag., New Ed. 22: 48. 2005.",,Q55808837,,,,77064962-1,wfo-4000028069,2813010,,
+3234ed8e-8fcd-11eb-924d-9cd76263cbd0,species,epiphytica,Paralophia,,"(P.J.Cribb, Du Puy & Bosser) P.J.Cribb",,2005,,"Bot. Mag. 22: 50 2005",,Q55808837,,545df2bc-8fcc-11eb-924d-9cd76263cbd0,,77064963-1,wfo-0000798602,5313536,,
+32350ada-8fcd-11eb-924d-9cd76263cbd0,species,palmicola,Paralophia,,"(H.Perrier) P.J.Cribb",,2005,,"Bot. Mag. 22: 51 2005",,Q55808837,,87f6bfea-8fcd-11eb-924d-9cd76263cbd0,,77064964-1,wfo-0000798603,5313538,,
+effaf964-8fcb-11eb-924d-9cd76263cbd0,species,clusiacea,Paralstonia,,Baill.,,1888,,"Bull. Mens. Soc. Linn. Paris 1: 750 1888",,,,,,,wfo-0000264454,3621093,,

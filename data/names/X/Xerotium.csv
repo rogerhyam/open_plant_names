@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec276fce-8fd1-11eb-924d-9cd76263cbd0,genus,Xerotium,,,,,,,,,,,wfo-4000040976,7337085,
-a7e3d58c-8fb8-11eb-924d-9cd76263cbd0,species,gallicum,Xerotium,,"Bluff. & Fingerh.",1825,"Comp. Fl. German. 2: 344 1825",,,,,261046-1,wfo-0000111394,4224167,
-507e7c62-8fb2-11eb-924d-9cd76263cbd0,species,minimum,Xerotium,,"Bluff. & Fingerh.",1825,"Comp. Fl. German. 2: 345 1825",,,,,261047-1,wfo-0000020169,4224164,
-01f80d24-8fb2-11eb-924d-9cd76263cbd0,species,montanum,Xerotium,,"Bluff. & Fingerh.",1825,"Comp. Fl. German. 2: 344 1825",,,,,261048-1,wfo-0000004008,4224159,
-0c704424-8fb2-11eb-924d-9cd76263cbd0,species,subulatum,Xerotium,,Dulac,1867,"Fl. Hautes-Pyr. 514 (1867).",,,,,261049-1,wfo-0000007752,4224152,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec276fce-8fd1-11eb-924d-9cd76263cbd0,genus,Xerotium,,,,,,,,,,,,,,wfo-4000040976,7337085,,
+a7e3d58c-8fb8-11eb-924d-9cd76263cbd0,species,gallicum,Xerotium,,"Bluff. & Fingerh.",,1825,,"Comp. Fl. German. 2: 344 1825",,,,,,261046-1,wfo-0000111394,4224167,,
+507e7c62-8fb2-11eb-924d-9cd76263cbd0,species,minimum,Xerotium,,"Bluff. & Fingerh.",,1825,,"Comp. Fl. German. 2: 345 1825",,,,,,261047-1,wfo-0000020169,4224164,,
+01f80d24-8fb2-11eb-924d-9cd76263cbd0,species,montanum,Xerotium,,"Bluff. & Fingerh.",,1825,,"Comp. Fl. German. 2: 344 1825",,,,,,261048-1,wfo-0000004008,4224159,,
+0c704424-8fb2-11eb-924d-9cd76263cbd0,species,subulatum,Xerotium,,Dulac,,1867,,"Fl. Hautes-Pyr. 514 (1867).",,,,,,261049-1,wfo-0000007752,4224152,,

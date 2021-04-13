@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6c5f604-8fd1-11eb-924d-9cd76263cbd0,genus,Miricacalia,,,Kitam.,,,,,,,10078-1,wfo-4000024378,3104059,
-6ba8b404-8fb6-11eb-924d-9cd76263cbd0,species,amagiensis,Miricacalia,,"(Kitam.) Nakai",1938,"J. Jap. Bot. 1938, xiv. 642.",,,,d20bc1c8-8fb6-11eb-924d-9cd76263cbd0,233393-1,wfo-0000089280,4220969,
-2da2c27e-8fb3-11eb-924d-9cd76263cbd0,species,firma,Miricacalia,,Nakai,1938,"J. Jap. Bot. 1938, xiv. 642.",,,,,,wfo-0000043248,3090375,
-e98f97ae-8fb4-11eb-924d-9cd76263cbd0,species,maekawae,Miricacalia,,Nakai,1938,"J. Jap. Bot. 1938, xiv. 642.",,,,,,wfo-0000071520,4220962,
-f4a419ac-8fba-11eb-924d-9cd76263cbd0,species,makineana,Miricacalia,,"(Yatabe) Kitam.",1936,"214 1936",,,,,233396-1,wfo-0000130667,3104060,
-8972e6ba-8fb8-11eb-924d-9cd76263cbd0,species,peltifolia,Miricacalia,,"(Makino) Nakai",1938,"J. Jap. Bot. 1938, xiv. 641, in adnot.",,,,1cb73c3e-8fb2-11eb-924d-9cd76263cbd0,233397-1,wfo-0000110290,4220956,
-9efc80e6-8fb2-11eb-924d-9cd76263cbd0,species,pseudotaimingasa,Miricacalia,,"(Nakai) Nakai",1938,"J. Jap. Bot. 1938, xiv. 643.",,,,,233398-1,wfo-0000029960,4220952,
-52793a70-8fb2-11eb-924d-9cd76263cbd0,species,yatabei,Miricacalia,,"(Matsumura & Koidz.) Nakai",1938,"J. Jap. Bot. 1938, xiv. 641, in adnot.",,,,,233399-1,wfo-0000020478,4220948,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6c5f604-8fd1-11eb-924d-9cd76263cbd0,genus,Miricacalia,,,Kitam.,,,,,,Q101151436,,,,10078-1,wfo-4000024378,3104059,,
+6ba8b404-8fb6-11eb-924d-9cd76263cbd0,species,amagiensis,Miricacalia,,"(Kitam.) Nakai",,1938,,"J. Jap. Bot. 1938, xiv. 642.",,,,d20bc1c8-8fb6-11eb-924d-9cd76263cbd0,,233393-1,wfo-0000089280,4220969,,
+2da2c27e-8fb3-11eb-924d-9cd76263cbd0,species,firma,Miricacalia,,Nakai,,1938,,"J. Jap. Bot. 1938, xiv. 642.",,,,,,,wfo-0000043248,3090375,,
+e98f97ae-8fb4-11eb-924d-9cd76263cbd0,species,maekawae,Miricacalia,,Nakai,,1938,,"J. Jap. Bot. 1938, xiv. 642.",,,,,,,wfo-0000071520,4220962,,
+f4a419ac-8fba-11eb-924d-9cd76263cbd0,species,makineana,Miricacalia,,"(Yatabe) Kitam.",,1936,,"214 1936",,Q101151436,,,,233396-1,wfo-0000130667,3104060,,
+8972e6ba-8fb8-11eb-924d-9cd76263cbd0,species,peltifolia,Miricacalia,,"(Makino) Nakai",,1938,,"J. Jap. Bot. 1938, xiv. 641, in adnot.",,,,1cb73c3e-8fb2-11eb-924d-9cd76263cbd0,,233397-1,wfo-0000110290,4220956,,
+9efc80e6-8fb2-11eb-924d-9cd76263cbd0,species,pseudotaimingasa,Miricacalia,,"(Nakai) Nakai",,1938,,"J. Jap. Bot. 1938, xiv. 643.",,,,,,233398-1,wfo-0000029960,4220952,,
+52793a70-8fb2-11eb-924d-9cd76263cbd0,species,yatabei,Miricacalia,,"(Matsumura & Koidz.) Nakai",,1938,,"J. Jap. Bot. 1938, xiv. 641, in adnot.",,,,,,233399-1,wfo-0000020478,4220948,,

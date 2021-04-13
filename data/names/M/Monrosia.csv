@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e2d904-8fd1-11eb-924d-9cd76263cbd0,genus,Monrosia,,,Grondona,1949,"Darwiniana 8: 411. 1949.",,,,,295045-2,wfo-4000024779,3233159,
-b5b8e7b0-8fd1-11eb-924d-9cd76263cbd0,species,pterolopha,Monrosia,,"(Chodat) Grondona",1949,"Darwiniana 8: 412 1949",,,,b5b8cb18-8fd1-11eb-924d-9cd76263cbd0,163907-2,wfo-0001235026,5658247,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e2d904-8fd1-11eb-924d-9cd76263cbd0,genus,Monrosia,,,Grondona,,1949,,"Darwiniana 8: 411. 1949.",,Q104174104,,,,295045-2,wfo-4000024779,3233159,,
+b5b8e7b0-8fd1-11eb-924d-9cd76263cbd0,species,pterolopha,Monrosia,,"(Chodat) Grondona",,1949,,"Darwiniana 8: 412 1949",,Q104174104,,b5b8cb18-8fd1-11eb-924d-9cd76263cbd0,,163907-2,wfo-0001235026,5658247,,

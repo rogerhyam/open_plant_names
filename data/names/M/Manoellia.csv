@@ -1,3 +1,2 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65587e8-8fd1-11eb-924d-9cd76263cbd0,genus,Manoellia,,,Rchb.,1828,"Bowdich and Bowdich, Consp. Regn. Veg. 212c. 1828, 1828.",,,,,,wfo-4000023059,3801557,
-6da7a95c-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Manongarivea,,Choux,1926,"Compt. Rend. Hebd. Séances Acad. Sci. 182: 713 1926",,,,,,wfo-0000453219,3784528,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65587e8-8fd1-11eb-924d-9cd76263cbd0,genus,Manoellia,,,Rchb.,,1828,,"Bowdich and Bowdich, Consp. Regn. Veg. 212c. 1828, 1828.",,,,,,,wfo-4000023059,3801557,,

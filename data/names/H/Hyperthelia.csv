@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5018e0a-8fd1-11eb-924d-9cd76263cbd0,genus,Hyperthelia,,,Clayton,1967,"Kew Bull. 20: 438. 1967.",,,,,30062460-2,wfo-4000018766,4147085,
-55dcaeac-8fcd-11eb-924d-9cd76263cbd0,species,colobantha,Hyperthelia,,Clayton,1966,"Kew Bull. 20: 439 1966",,,,,405611-1,wfo-0000875361,4147135,
-55dcc8b0-8fcd-11eb-924d-9cd76263cbd0,species,cornucopiae,Hyperthelia,,"(Hack.) Clayton",1966,"Kew Bull. 20: 446 1966",,,,489e9d4a-8fcd-11eb-924d-9cd76263cbd0,405612-1,wfo-0000875362,4147128,
-55dce4ee-8fcd-11eb-924d-9cd76263cbd0,species,dissoluta,Hyperthelia,,"(Nees ex Steud.) Clayton",1966,"Kew Bull. 20: 441 1966",,,,4952fd76-8fcd-11eb-924d-9cd76263cbd0,126405-2,wfo-0000875363,4147115,
-55dd0064-8fcd-11eb-924d-9cd76263cbd0,species,edulis,Hyperthelia,,"(C.E.Hubb.) Clayton",1966,"Kew Bull. 20: 447 1966",,,,55cea91a-8fcd-11eb-924d-9cd76263cbd0,405614-1,wfo-0000875364,4147110,
-55dd3822-8fcd-11eb-924d-9cd76263cbd0,species,kottoensis,Hyperthelia,,"Desc. & Mazade",1987,"Bull. Soc. Bot. France, Lett. Bot. 134: 203 1987",,,,,932947-1,wfo-0000875366,4147102,
-55dd51a4-8fcd-11eb-924d-9cd76263cbd0,species,macrolepis,Hyperthelia,,"(Hack.) Clayton",1966,"Kew Bull. 20: 445 1966",,,,48ddfa58-8fcd-11eb-924d-9cd76263cbd0,405615-1,wfo-0000875367,4147092,
-55dd6dec-8fcd-11eb-924d-9cd76263cbd0,species,polychaeta,Hyperthelia,,Clayton,1966,"Kew Bull. 20: 441 1966",,,,,405616-1,wfo-0000875368,4147084,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5018e0a-8fd1-11eb-924d-9cd76263cbd0,genus,Hyperthelia,,,Clayton,,1967,,"Kew Bull. 20: 438. 1967.",,Q55779045,,,,30062460-2,wfo-4000018766,4147085,,
+55dcaeac-8fcd-11eb-924d-9cd76263cbd0,species,colobantha,Hyperthelia,,Clayton,,1966,,"Kew Bull. 20: 439 1966",,Q55779045,,,,405611-1,wfo-0000875361,4147135,,
+55dcc8b0-8fcd-11eb-924d-9cd76263cbd0,species,cornucopiae,Hyperthelia,,"(Hack.) Clayton",,1966,,"Kew Bull. 20: 446 1966",,Q55779045,,489e9d4a-8fcd-11eb-924d-9cd76263cbd0,,405612-1,wfo-0000875362,4147128,,
+55dce4ee-8fcd-11eb-924d-9cd76263cbd0,species,dissoluta,Hyperthelia,,"(Nees ex Steud.) Clayton",,1966,,"Kew Bull. 20: 441 1966",,Q55779045,,4952fd76-8fcd-11eb-924d-9cd76263cbd0,,126405-2,wfo-0000875363,4147115,,
+55dd0064-8fcd-11eb-924d-9cd76263cbd0,species,edulis,Hyperthelia,,"(C.E.Hubb.) Clayton",,1966,,"Kew Bull. 20: 447 1966",,Q55779045,,55cea91a-8fcd-11eb-924d-9cd76263cbd0,,405614-1,wfo-0000875364,4147110,,
+55dd3822-8fcd-11eb-924d-9cd76263cbd0,species,kottoensis,Hyperthelia,,"Desc. & Mazade",,1987,,"Bull. Soc. Bot. France, Lett. Bot. 134: 203 1987",,Q95997132,,,,932947-1,wfo-0000875366,4147102,,
+55dd51a4-8fcd-11eb-924d-9cd76263cbd0,species,macrolepis,Hyperthelia,,"(Hack.) Clayton",,1966,,"Kew Bull. 20: 445 1966",,Q55779045,,48ddfa58-8fcd-11eb-924d-9cd76263cbd0,,405615-1,wfo-0000875367,4147092,,
+55dd6dec-8fcd-11eb-924d-9cd76263cbd0,species,polychaeta,Hyperthelia,,Clayton,,1966,,"Kew Bull. 20: 441 1966",,Q55779045,,,,405616-1,wfo-0000875368,4147084,,

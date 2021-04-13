@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deefdfbc-8fd1-11eb-924d-9cd76263cbd0,genus,Aetheria,,,Endl.,1837,"Gen. Pl. 214. 1837.",,,,,,wfo-4000000822,6008539,
-c3e348c0-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Aetheria,,Lindl.,,,,,,,,wfo-0001088713,7533651,
-c83b7d30-8fd1-11eb-924d-9cd76263cbd0,species,fusca,Aetheria,,Lindl.,1840,"Gen. Sp. Orchid. Pl. 491 1840",,,,,,wfo-0001269213,8364728,
-9683cb8a-8fcc-11eb-924d-9cd76263cbd0,species,lepidota,Aethiocarpa,,Vollesen,1986,"Kew Bull. 41: 959 1986",,,,,930613-1,wfo-0000522414,3671464,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deefdfbc-8fd1-11eb-924d-9cd76263cbd0,genus,Aetheria,,,Endl.,,1837,,"Gen. Pl. 214. 1837.",,,,,,,wfo-4000000822,6008539,,
+c3e348c0-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Aetheria,,Lindl.,,,,,,,,,,,wfo-0001088713,7533651,,
+c83b7d30-8fd1-11eb-924d-9cd76263cbd0,species,fusca,Aetheria,,Lindl.,,1840,,"Gen. Sp. Orchid. Pl. 491 1840",,,,,,,wfo-0001269213,8364728,,
+9683cb8a-8fcc-11eb-924d-9cd76263cbd0,species,lepidota,Aethiocarpa,,Vollesen,,1986,,"Kew Bull. 41: 959 1986",,Q43217397,,,,930613-1,wfo-0000522414,3671464,,

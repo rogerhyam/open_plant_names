@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb6f2c34-8fd1-11eb-924d-9cd76263cbd0,genus,Tovomitidium,,,Ducke,1935,"Arq. Inst. Biol. Veg. 2: 61. 1935.",,,,,,wfo-4000038652,7329862,
-4d01d1be-8fcc-11eb-924d-9cd76263cbd0,species,clusiiflorum,Tovomitidium,,Ducke,1935,"Arq. Inst. Biol. Veg. 2: 62 1935",,,,,255666-2,wfo-0000406878,3710797,
-ccbf148e-8fd1-11eb-924d-9cd76263cbd0,species,speciosum,Tovomitidium,,"(Ducke) Ducke",1935,"Arq. Inst. Biol. Veg. 2: 61 1935",,,,,429422-1,wfo-0001277618,3710788,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb6f2c34-8fd1-11eb-924d-9cd76263cbd0,genus,Tovomitidium,,,Ducke,,1935,,"Arq. Inst. Biol. Veg. 2: 61. 1935.",,,,,,,wfo-4000038652,7329862,,
+4d01d1be-8fcc-11eb-924d-9cd76263cbd0,species,clusiiflorum,Tovomitidium,,Ducke,,1935,,"Arq. Inst. Biol. Veg. 2: 62 1935",,,,,,255666-2,wfo-0000406878,3710797,,
+ccbf148e-8fd1-11eb-924d-9cd76263cbd0,species,speciosum,Tovomitidium,,"(Ducke) Ducke",,1935,,"Arq. Inst. Biol. Veg. 2: 61 1935",,,,,,429422-1,wfo-0001277618,3710788,,

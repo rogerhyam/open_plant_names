@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e93de090-8fd1-11eb-924d-9cd76263cbd0,genus,Psomiocarpa,,,C.Presl,1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 521. 1851.",,,,,,wfo-4000031817,7319474,
-cff6c984-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Psomiocarpa,,"(Link) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,,,wfo-0001114876,4043338,
-cff79b84-8fcd-11eb-924d-9cd76263cbd0,species,apiifolia,Psomiocarpa,,"(J.Sm.) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 521 1851",,,,c6435386-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001114883,4043328,
-b24898fa-8fd1-11eb-924d-9cd76263cbd0,species,aspidioides,Psomiocarpa,,"(Griseb.) D.H.Christ",1910,"Geogr. Farne 297 1910",,,,cff85a9c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001228724,4043322,
-cff0342a-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Psomiocarpa,,"(Kunze) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,ce64988a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001114823,4043319,
-c6436f06-8fd1-11eb-924d-9cd76263cbd0,species,incisa,Psomiocarpa,,"(Link) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,,,wfo-0001265551,4043314,
-f0639a00-8fbc-11eb-924d-9cd76263cbd0,species,maxonii,Psomiocarpa,,Christ,1910,"Geogr. Farne 224 1910",,,,,212180-2,wfo-0000144563,7400489,
-4191ed50-8fcc-11eb-924d-9cd76263cbd0,species,undulata,Psophiza,,Raf.,1838,"Fl. Tellur. 4: 99 1838",,,,,93804-1,wfo-0000392735,3588962,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e93de090-8fd1-11eb-924d-9cd76263cbd0,genus,Psomiocarpa,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 521. 1851.",,,,,,,wfo-4000031817,7319474,,
+cff6c984-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Psomiocarpa,,"(Link) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,,,,wfo-0001114876,4043338,,
+cff79b84-8fcd-11eb-924d-9cd76263cbd0,species,apiifolia,Psomiocarpa,,"(J.Sm.) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 521 1851",,,,c6435386-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001114883,4043328,,
+b24898fa-8fd1-11eb-924d-9cd76263cbd0,species,aspidioides,Psomiocarpa,,"(Griseb.) D.H.Christ",,1910,,"Geogr. Farne 297 1910",,,,cff85a9c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001228724,4043322,,
+cff0342a-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Psomiocarpa,,"(Kunze) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,ce64988a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001114823,4043319,,
+c6436f06-8fd1-11eb-924d-9cd76263cbd0,species,incisa,Psomiocarpa,,"(Link) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 522 1851",,,,,,,wfo-0001265551,4043314,,
+f0639a00-8fbc-11eb-924d-9cd76263cbd0,species,maxonii,Psomiocarpa,,Christ,,1910,,"Geogr. Farne 224 1910",,,,,,212180-2,wfo-0000144563,7400489,,
+4191ed50-8fcc-11eb-924d-9cd76263cbd0,species,undulata,Psophiza,,Raf.,,1838,,"Fl. Tellur. 4: 99 1838",,,,,,93804-1,wfo-0000392735,3588962,,

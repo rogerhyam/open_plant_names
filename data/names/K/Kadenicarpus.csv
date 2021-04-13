@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54a298a-8fd1-11eb-924d-9cd76263cbd0,genus,Kadenicarpus,,,Doweld,1998,"Tsukkulenty 1(1): 22. 1998.",,,,,,wfo-4000019760,9461307,
-d4cd5168-8fd1-11eb-924d-9cd76263cbd0,species,pseudomacrochele,Kadenicarpus,,"(Backeb.) Doweld",1998,"Tsukkulenty 1: 22 1998",,,,c14f5352-8fd1-11eb-924d-9cd76263cbd0,1008390-1,wfo-0001286466,7280254,
-d4ae1730-8fd1-11eb-924d-9cd76263cbd0,variety,sphacelatus,Kadenicarpus,pseudomacrochele,"(Diers & Gerhart Frank) Doweld",1998,1998,,,,d4b338b4-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001286360,,
-654207e0-8fcb-11eb-924d-9cd76263cbd0,species,kadina,,,Cox,1921,"Orchid Rev. 29: 98 1921",,,,,639770-1,wfo-0000222211,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54a298a-8fd1-11eb-924d-9cd76263cbd0,genus,Kadenicarpus,,,Doweld,,1998,,"Tsukkulenty 1(1): 22. 1998.",,,,,,,wfo-4000019760,9461307,,
+d4cd5168-8fd1-11eb-924d-9cd76263cbd0,species,pseudomacrochele,Kadenicarpus,,"(Backeb.) Doweld",,1998,,"Tsukkulenty 1: 22 1998",,,,c14f5352-8fd1-11eb-924d-9cd76263cbd0,,1008390-1,wfo-0001286466,7280254,,
+d4ae1730-8fd1-11eb-924d-9cd76263cbd0,variety,sphacelatus,Kadenicarpus,pseudomacrochele,"(Diers & Gerhart Frank) Doweld",,1998,,1998,,,,d4b338b4-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001286360,,,
+654207e0-8fcb-11eb-924d-9cd76263cbd0,species,kadina,,,Cox,,1921,,"Orchid Rev. 29: 98 1921",,,,,,639770-1,wfo-0000222211,,,

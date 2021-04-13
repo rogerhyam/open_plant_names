@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2b1c070-8fd1-11eb-924d-9cd76263cbd0,genus,Dichosma,,,"DC. ex Loudon",1830,"Hort. Brit. 85. 1830.",,,,,,wfo-4000011439,7268895,
-e139907e-8fcc-11eb-924d-9cd76263cbd0,species,bifida,Dichosma,,Loudon,1830,"Hort. Brit. 85 1830",,,,,772355-1,wfo-0000645623,3831706,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2b1c070-8fd1-11eb-924d-9cd76263cbd0,genus,Dichosma,,,"DC. ex Loudon",,1830,,"Hort. Brit. 85. 1830.",,,,,,,wfo-4000011439,7268895,,
+e139907e-8fcc-11eb-924d-9cd76263cbd0,species,bifida,Dichosma,,Loudon,,1830,,"Hort. Brit. 85 1830",,,,,,772355-1,wfo-0000645623,3831706,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eafee1c2-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyobasis,,,K.Krause,1912,"Pflanzenr. IV. 227(Heft 54): 40. 1912.",,,,,,wfo-4000037203,7262184,
-877fd3c2-8fcc-11eb-924d-9cd76263cbd0,species,alsinoides,Symphyobasis,,S.Moore,1920,"J. Linn. Soc., Bot. 45: 184 1920",,,,,384365-1,wfo-0000497371,3761202,
-ac85f1fa-8fcd-11eb-924d-9cd76263cbd0,species,macroplecta,Symphyobasis,,"(F.Muell.) K.Krause",1912,"Pflanzenr. IV. 227(Heft 54): 41 1912",,,,,384366-1,wfo-0001035789,7943279,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eafee1c2-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyobasis,,,K.Krause,,1912,,"Pflanzenr. IV. 227(Heft 54): 40. 1912.",,,,,,,wfo-4000037203,7262184,,
+877fd3c2-8fcc-11eb-924d-9cd76263cbd0,species,alsinoides,Symphyobasis,,S.Moore,,1920,,"J. Linn. Soc., Bot. 45: 184 1920",,Q55760523,,,,384365-1,wfo-0000497371,3761202,,
+ac85f1fa-8fcd-11eb-924d-9cd76263cbd0,species,macroplecta,Symphyobasis,,"(F.Muell.) K.Krause",,1912,,"Pflanzenr. IV. 227(Heft 54): 41 1912",,,,,,384366-1,wfo-0001035789,7943279,,

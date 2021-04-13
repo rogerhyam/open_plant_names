@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec4fceba-8fd1-11eb-924d-9cd76263cbd0,genus,Cochlezella,,,J.M.H.Shaw,,"Orchid Rev. 118(1292, Suppl.): 79 (2010)",,,,,77111006-1,wfo-4001303172,9590374,
-66eec072-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Cochlia,,Blume,1825,"Bijdr. 320 1825",,,,,623687-1,wfo-0000902086,2842952,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec4fceba-8fd1-11eb-924d-9cd76263cbd0,genus,Cochlezella,,,J.M.H.Shaw,,,,"Orchid Rev. 118(1292, Suppl.): 79 (2010)",,,,,,77111006-1,wfo-4001303172,9590374,,
+66eec072-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Cochlia,,Blume,,1825,,"Bijdr. 320 1825",,,,,,623687-1,wfo-0000902086,2842952,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b0a018-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrelminthus,,,Raf.,1836,"Fl. Tellur. 4: 42. 1836[1838].",,,,,30375-1,wfo-4000030207,2793941,
-f7046268-8fcb-11eb-924d-9cd76263cbd0,species,bicolor,Plectrelminthus,,Raf.,1838,"Fl. Tellur. 4: 42 1838",,,,,652116-1,wfo-0000275959,2793949,
-f7048806-8fcb-11eb-924d-9cd76263cbd0,species,caudatus,Plectrelminthus,,"(Lindl.) Summerh.",1949,"Kew Bull. 4: 441 1949",,,,,652117-1,wfo-0000275960,2793942,
-f704eec2-8fcb-11eb-924d-9cd76263cbd0,species,spiculatus,Plectrelminthus,,"(Finet) Summerh.",1949,"Kew Bull. 4: 442 1949",,,,03e5cc38-8fcc-11eb-924d-9cd76263cbd0,652118-1,wfo-0000275963,2836889,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b0a018-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrelminthus,,,Raf.,,1836,,"Fl. Tellur. 4: 42. 1836[1838].",,,,,,30375-1,wfo-4000030207,2793941,,
+f7046268-8fcb-11eb-924d-9cd76263cbd0,species,bicolor,Plectrelminthus,,Raf.,,1838,,"Fl. Tellur. 4: 42 1838",,,,,,652116-1,wfo-0000275959,2793949,,
+f7048806-8fcb-11eb-924d-9cd76263cbd0,species,caudatus,Plectrelminthus,,"(Lindl.) Summerh.",,1949,,"Kew Bull. 4: 441 1949",,Q55779639,,,,652117-1,wfo-0000275960,2793942,,
+f704eec2-8fcb-11eb-924d-9cd76263cbd0,species,spiculatus,Plectrelminthus,,"(Finet) Summerh.",,1949,,"Kew Bull. 4: 442 1949",,Q55779639,,03e5cc38-8fcc-11eb-924d-9cd76263cbd0,,652118-1,wfo-0000275963,2836889,,

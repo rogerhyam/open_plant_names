@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67c1dc2-8fd1-11eb-924d-9cd76263cbd0,genus,Megistostegium,,,Hochr.,1915,"Annuaire Conserv. Jard. Bot. Genève 18–19: 221. 1915.",,,,,25977-1,wfo-4000023521,7278989,
-6c2bf0ce-8fcc-11eb-924d-9cd76263cbd0,species,microphyllum,Megistostegium,,Hochr.,1915,"Annuaire Conserv. Jard. Bot. Genève 18-19: 226 1915",,,,,562401-1,wfo-0000450573,3935995,
-6c2bd18e-8fcc-11eb-924d-9cd76263cbd0,species,nodulosum,Megistostegium,,"(Drake) Hochr.",1915,"Annuaire Conserv. Jard. Bot. Genève 18-19: 228 1915",,,,,562402-1,wfo-0000450572,3935988,
-6c2b63de-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Megistostegium,,Hochr.,1915,"Annuaire Conserv. Jard. Bot. Genève 18-19: 225 1915",,,,,562403-1,wfo-0000450571,3935983,
-6c2b4282-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Megistostegium,,Hochr.,1915,"Annuaire Conserv. Jard. Bot. Genève 18-19: 227 1915",,,,,562404-1,wfo-0000450570,3935975,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67c1dc2-8fd1-11eb-924d-9cd76263cbd0,genus,Megistostegium,,,Hochr.,,1915,,"Annuaire Conserv. Jard. Bot. Genève 18–19: 221. 1915.",,,,,,25977-1,wfo-4000023521,7278989,,
+6c2bf0ce-8fcc-11eb-924d-9cd76263cbd0,species,microphyllum,Megistostegium,,Hochr.,,1915,,"Annuaire Conserv. Jard. Bot. Genève 18-19: 226 1915",,,,,,562401-1,wfo-0000450573,3935995,,
+6c2bd18e-8fcc-11eb-924d-9cd76263cbd0,species,nodulosum,Megistostegium,,"(Drake) Hochr.",,1915,,"Annuaire Conserv. Jard. Bot. Genève 18-19: 228 1915",,,,,,562402-1,wfo-0000450572,3935988,,
+6c2b63de-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Megistostegium,,Hochr.,,1915,,"Annuaire Conserv. Jard. Bot. Genève 18-19: 225 1915",,,,,,562403-1,wfo-0000450571,3935983,,
+6c2b4282-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Megistostegium,,Hochr.,,1915,,"Annuaire Conserv. Jard. Bot. Genève 18-19: 227 1915",,,,,,562404-1,wfo-0000450570,3935975,,

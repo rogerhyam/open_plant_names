@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2e4e586-8fd1-11eb-924d-9cd76263cbd0,genus,Diptychocarpus,,,Trautv.,1860,"Bull. Soc. Imp. Naturalistes Moscou 33(1): 108. 1860[1860].",,,,,12528-1,wfo-4000012095,3052558,
-e4c44540-8fcc-11eb-924d-9cd76263cbd0,species,hispidus,Diptychocarpus,,Regel,1877,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 230 1877",,,,,282256-1,wfo-0000651494,3043063,
-e4c46246-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Diptychocarpus,,"Regel & Schmalh.",1877,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 231 1877",,,,,282257-1,wfo-0000651495,3043071,
-e4c47f74-8fcc-11eb-924d-9cd76263cbd0,species,sarawschanicus,Diptychocarpus,,"Regel & Schmalh.",1877,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 231 1877",,,,,282258-1,wfo-0000651496,3043056,
-e4c49a0e-8fcc-11eb-924d-9cd76263cbd0,species,strictus,Diptychocarpus,,"(Fisch. ex M.Bieb.) Trautv.",1860,"Bull. Soc. Imp. Naturalistes Moscou 33(1): 108 1860",,,,49a79634-8fcc-11eb-924d-9cd76263cbd0,282259-1,wfo-0000651497,3052559,
-5132a582-8fcd-11eb-924d-9cd76263cbd0,species,caeruleum,Diptychum,,"(L.) Dulac",1867,"Fl. Hautes-Pyrénées 82 1867",,,,,399515-1,wfo-0000864943,5948453,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2e4e586-8fd1-11eb-924d-9cd76263cbd0,genus,Diptychocarpus,,,Trautv.,,1860,,"Bull. Soc. Imp. Naturalistes Moscou 33(1): 108. 1860[1860].",,,,,,12528-1,wfo-4000012095,3052558,,
+e4c44540-8fcc-11eb-924d-9cd76263cbd0,species,hispidus,Diptychocarpus,,Regel,,1877,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 230 1877",,,,,,282256-1,wfo-0000651494,3043063,,
+e4c46246-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Diptychocarpus,,"Regel & Schmalh.",,1877,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 231 1877",,,,,,282257-1,wfo-0000651495,3043071,,
+e4c47f74-8fcc-11eb-924d-9cd76263cbd0,species,sarawschanicus,Diptychocarpus,,"Regel & Schmalh.",,1877,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 231 1877",,,,,,282258-1,wfo-0000651496,3043056,,
+e4c49a0e-8fcc-11eb-924d-9cd76263cbd0,species,strictus,Diptychocarpus,,"(Fisch. ex M.Bieb.) Trautv.",,1860,,"Bull. Soc. Imp. Naturalistes Moscou 33(1): 108 1860",,,,49a79634-8fcc-11eb-924d-9cd76263cbd0,,282259-1,wfo-0000651497,3052559,,
+5132a582-8fcd-11eb-924d-9cd76263cbd0,species,caeruleum,Diptychum,,"(L.) Dulac",,1867,,"Fl. Hautes-Pyrénées 82 1867",,,,,,399515-1,wfo-0000864943,5948453,,

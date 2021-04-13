@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ec38b8-8fd1-11eb-924d-9cd76263cbd0,genus,Dissiliaria,,,"F.Muell. ex Baill.",1867,"Adansonia 7: 356. 1867.",,,,,15330-1,wfo-4000012195,3075147,
-8126136e-8fcd-11eb-924d-9cd76263cbd0,species,baloghioides,Dissiliaria,,"F.Muell. ex Baill.",1867,"Adansonia 7: 359 1867",,,,,344851-1,wfo-0000944825,3075153,
-81262ea8-8fcd-11eb-924d-9cd76263cbd0,species,indistincta,Dissiliaria,,P.I.Forst.,1997,"Austrobaileya 5: 17 1997",,,,,999009-1,wfo-0000944826,3075151,
-8126485c-8fcd-11eb-924d-9cd76263cbd0,species,laxinervis,Dissiliaria,,"Airy Shaw",1980,"Muelleria 4: 220 1980",,,,,344852-1,wfo-0000944827,3075148,
-81266490-8fcd-11eb-924d-9cd76263cbd0,species,muelleri,Dissiliaria,,Baill.,1867,"Adansonia 7: 359 1867",,,,,344853-1,wfo-0000944828,3075152,
-8126809c-8fcd-11eb-924d-9cd76263cbd0,species,surculosa,Dissiliaria,,P.I.Forst.,1997,"Austrobaileya 5: 22 1997",,,,,999011-1,wfo-0000944829,3075150,
-81269d8e-8fcd-11eb-924d-9cd76263cbd0,species,tricornis,Dissiliaria,,Benth.,1873,"Fl. Austral. 6: 91 1873",,,,,344854-1,wfo-0000944830,3075141,
-8126c8fe-8fcd-11eb-924d-9cd76263cbd0,species,tuckeri,Dissiliaria,,P.I.Forst.,1997,"Austrobaileya 5: 19 1997",,,,,999010-1,wfo-0000944831,3075149,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ec38b8-8fd1-11eb-924d-9cd76263cbd0,genus,Dissiliaria,,,"F.Muell. ex Baill.",,1867,,"Adansonia 7: 356. 1867.",,,,,,15330-1,wfo-4000012195,3075147,,
+8126136e-8fcd-11eb-924d-9cd76263cbd0,species,baloghioides,Dissiliaria,,"F.Muell. ex Baill.",,1867,,"Adansonia 7: 359 1867",,,,,,344851-1,wfo-0000944825,3075153,,
+81262ea8-8fcd-11eb-924d-9cd76263cbd0,species,indistincta,Dissiliaria,,P.I.Forst.,,1997,,"Austrobaileya 5: 17 1997",,Q92300515,,,,999009-1,wfo-0000944826,3075151,,
+8126485c-8fcd-11eb-924d-9cd76263cbd0,species,laxinervis,Dissiliaria,,"Airy Shaw",,1980,,"Muelleria 4: 220 1980",,,,,,344852-1,wfo-0000944827,3075148,,
+81266490-8fcd-11eb-924d-9cd76263cbd0,species,muelleri,Dissiliaria,,Baill.,,1867,,"Adansonia 7: 359 1867",,,,,,344853-1,wfo-0000944828,3075152,,
+8126809c-8fcd-11eb-924d-9cd76263cbd0,species,surculosa,Dissiliaria,,P.I.Forst.,,1997,,"Austrobaileya 5: 22 1997",,Q92300515,,,,999011-1,wfo-0000944829,3075150,,
+81269d8e-8fcd-11eb-924d-9cd76263cbd0,species,tricornis,Dissiliaria,,Benth.,,1873,,"Fl. Austral. 6: 91 1873",,,,,,344854-1,wfo-0000944830,3075141,,
+8126c8fe-8fcd-11eb-924d-9cd76263cbd0,species,tuckeri,Dissiliaria,,P.I.Forst.,,1997,,"Austrobaileya 5: 19 1997",,Q92300515,,,,999010-1,wfo-0000944831,3075149,,

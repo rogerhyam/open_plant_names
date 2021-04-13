@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebb62a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Tulista,,,Raf.,,,,,,,24875-1,wfo-4000039563,2777074,
-1a14f0c8-8fcd-11eb-924d-9cd76263cbd0,species,margaritifera,Tulista,,"(L.) Raf.",1840,"Autik. Bot. 137 1840",,,,2568e66e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000747220,2779591,
-18731c0a-8fcc-11eb-924d-9cd76263cbd0,species,pycnanthemoides,Tullia,,Leavenw.,1830,"Amer. J. Sci. Arts 20: 343 1830",,,,,461879-1,wfo-0000328824,5607834,
-769e46e0-8fba-11eb-924d-9cd76263cbd0,species,mexicanus,Tulocarpus,,"Hook. & Arn.",1841,"Bot. Beechey Voy. 299. t. 63 (1841)",,,,,,wfo-0000126843,4207493,
-19da5954-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Tulophos,,"(Lindl.) Raf.",1837,"Fl. Tellur. 3: 71 1837",,,,,,wfo-0000746758,2771568,
-1a101ddc-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Tulophos,,"(Benth.) Raf.",1837,"Fl. Tellur. 3: 71 1837",,,,,543156-1,wfo-0000747179,2771676,
-7105bada-8fcc-11eb-924d-9cd76263cbd0,species,cymbalaria,Tulorima,,Raf.,1837,"Fl. Tellur. 2: 69 1837",,,,,794913-1,wfo-0000459240,3754676,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebb62a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Tulista,,,Raf.,,,,,,,,,,24875-1,wfo-4000039563,2777074,,
+1a14f0c8-8fcd-11eb-924d-9cd76263cbd0,species,margaritifera,Tulista,,"(L.) Raf.",,1840,,"Autik. Bot. 137 1840",,,,2568e66e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000747220,2779591,,
+18731c0a-8fcc-11eb-924d-9cd76263cbd0,species,pycnanthemoides,Tullia,,Leavenw.,,1830,,"Amer. J. Sci. Arts 20: 343 1830",,,,,,461879-1,wfo-0000328824,5607834,,
+769e46e0-8fba-11eb-924d-9cd76263cbd0,species,mexicanus,Tulocarpus,,"Hook. & Arn.",,1841,,"Bot. Beechey Voy. 299. t. 63 (1841)",,,,,,,wfo-0000126843,4207493,,
+19da5954-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Tulophos,,"(Lindl.) Raf.",,1837,,"Fl. Tellur. 3: 71 1837",,,,,,,wfo-0000746758,2771568,,
+1a101ddc-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Tulophos,,"(Benth.) Raf.",,1837,,"Fl. Tellur. 3: 71 1837",,,,,,543156-1,wfo-0000747179,2771676,,
+7105bada-8fcc-11eb-924d-9cd76263cbd0,species,cymbalaria,Tulorima,,Raf.,,1837,,"Fl. Tellur. 2: 69 1837",,,,,,794913-1,wfo-0000459240,3754676,,

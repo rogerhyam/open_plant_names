@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e253dc3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclachaena,,,Fresen.,,,,,,,328799-2,wfo-4000010232,6445679,
-33760c56-8fb3-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Cyclachaena,,"(A.Gray) Benth. & Hook.f. ex Rydb.",1922,"N. Amer. Fl. 33 10 1922",,,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,1015293-1,wfo-0000043724,,
-f1affe6a-8fb9-11eb-924d-9cd76263cbd0,species,lobata,Cyclachaena,,Rydb.,1922,"N. Amer. Fl. 33: 10. 1922",,,,,73589-2,wfo-0000122676,4241379,
-24841022-8fb2-11eb-924d-9cd76263cbd0,species,pedicellata,Cyclachaena,,Rydb.,1922,"N. Amer. Fl. 33 10 1922",,,,,73590-2,wfo-0000013259,3141889,
-f8077884-8fb8-11eb-924d-9cd76263cbd0,species,xanthiifolia,Cyclachaena,,"(Nutt.) Fresen.",1836,"4 1836",,,,c8b44c02-8fb2-11eb-924d-9cd76263cbd0,200848-1,wfo-0000114224,3141890,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e253dc3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclachaena,,,Fresen.,,,,,,,,,,328799-2,wfo-4000010232,6445679,,
+33760c56-8fb3-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Cyclachaena,,"(A.Gray) Benth. & Hook.f. ex Rydb.",,1922,,"N. Amer. Fl. 33 10 1922",,,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,,1015293-1,wfo-0000043724,,,
+f1affe6a-8fb9-11eb-924d-9cd76263cbd0,species,lobata,Cyclachaena,,Rydb.,,1922,,"N. Amer. Fl. 33: 10. 1922",,,,,,73589-2,wfo-0000122676,4241379,,
+24841022-8fb2-11eb-924d-9cd76263cbd0,species,pedicellata,Cyclachaena,,Rydb.,,1922,,"N. Amer. Fl. 33 10 1922",,,,,,73590-2,wfo-0000013259,3141889,,
+f8077884-8fb8-11eb-924d-9cd76263cbd0,species,xanthiifolia,Cyclachaena,,"(Nutt.) Fresen.",,1836,,"4 1836",,,,c8b44c02-8fb2-11eb-924d-9cd76263cbd0,,200848-1,wfo-0000114224,3141890,,

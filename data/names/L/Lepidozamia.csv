@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bfb286-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidozamia,,,Regel,1857,"Bull. Soc. Imp. Naturalistes Moscou 30(1): 182. 1857.",,,,,13527-1,wfo-4000021149,2683484,
-6a428cd2-8fcc-11eb-924d-9cd76263cbd0,species,denisonii,Lepidozamia,,"(C.Moore & F.Muell) Regel",1875,"Gartenflora 24: 43 1875",,,,6cce7650-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000447241,4000195,
-692645be-8fcc-11eb-924d-9cd76263cbd0,species,hopei,Lepidozamia,,"(W.Hill) Regel",1876,"Gartenflora 25: 5 1876",,,,c0f906b4-8fcc-11eb-924d-9cd76263cbd0,297149-1,wfo-0000445258,2683490,
-6925d2e6-8fcc-11eb-924d-9cd76263cbd0,species,minor,Lepidozamia,,Miq.,1869,"Verh. Kon. Akad. Welensch., Afd. Natuurk. 2(3): 56 1869",,,,,297150-1,wfo-0000445254,4000185,
-6926c91c-8fcc-11eb-924d-9cd76263cbd0,species,peroffskyana,Lepidozamia,,Regel,1857,"Bull. Soc. Imp. Naturalistes Moscou 30(1): 182 1857",,,,,297151-1,wfo-0000445262,2683485,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bfb286-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidozamia,,,Regel,,1857,,"Bull. Soc. Imp. Naturalistes Moscou 30(1): 182. 1857.",,,,,,13527-1,wfo-4000021149,2683484,,
+6a428cd2-8fcc-11eb-924d-9cd76263cbd0,species,denisonii,Lepidozamia,,"(C.Moore & F.Muell) Regel",,1875,,"Gartenflora 24: 43 1875",,,,6cce7650-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000447241,4000195,,
+692645be-8fcc-11eb-924d-9cd76263cbd0,species,hopei,Lepidozamia,,"(W.Hill) Regel",,1876,,"Gartenflora 25: 5 1876",,,,c0f906b4-8fcc-11eb-924d-9cd76263cbd0,,297149-1,wfo-0000445258,2683490,,
+6925d2e6-8fcc-11eb-924d-9cd76263cbd0,species,minor,Lepidozamia,,Miq.,,1869,,"Verh. Kon. Akad. Welensch., Afd. Natuurk. 2(3): 56 1869",,,,,,297150-1,wfo-0000445254,4000185,,
+6926c91c-8fcc-11eb-924d-9cd76263cbd0,species,peroffskyana,Lepidozamia,,Regel,,1857,,"Bull. Soc. Imp. Naturalistes Moscou 30(1): 182 1857",,,,,,297151-1,wfo-0000445262,2683485,,

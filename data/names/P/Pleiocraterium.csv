@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b3b212-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiocraterium,,,Bremek.,1939,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440. 1939.",,,,,,wfo-4000030238,2917962,
-f7444446-8fcb-11eb-924d-9cd76263cbd0,species,gentianifolium,Pleiocraterium,,Bremek.,1939,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 441 1939",,,,,,wfo-0000276339,2917970,
-f74462be-8fcb-11eb-924d-9cd76263cbd0,species,plantaginifolium,Pleiocraterium,,"(Arn.) Bremek.",1939,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 443 1939",,,,,,wfo-0000276340,2917963,
-f744826c-8fcb-11eb-924d-9cd76263cbd0,species,sumatranum,Pleiocraterium,,Bremek.,1939,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440 1939",,,,,,wfo-0000276341,2917971,
-f7449cb6-8fcb-11eb-924d-9cd76263cbd0,species,verticillare,Pleiocraterium,,"(Wall. ex Wight & Arn.) Bremek.",1939,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440 1939",,,,,,wfo-0000276342,2917967,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b3b212-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiocraterium,,,Bremek.,,1939,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440. 1939.",,,,,,,wfo-4000030238,2917962,,
+f7444446-8fcb-11eb-924d-9cd76263cbd0,species,gentianifolium,Pleiocraterium,,Bremek.,,1939,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 441 1939",,,,,,,wfo-0000276339,2917970,,
+f74462be-8fcb-11eb-924d-9cd76263cbd0,species,plantaginifolium,Pleiocraterium,,"(Arn.) Bremek.",,1939,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 443 1939",,,,,,,wfo-0000276340,2917963,,
+f744826c-8fcb-11eb-924d-9cd76263cbd0,species,sumatranum,Pleiocraterium,,Bremek.,,1939,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440 1939",,,,,,,wfo-0000276341,2917971,,
+f7449cb6-8fcb-11eb-924d-9cd76263cbd0,species,verticillare,Pleiocraterium,,"(Wall. ex Wight & Arn.) Bremek.",,1939,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 56: 440 1939",,,,,,,wfo-0000276342,2917967,,

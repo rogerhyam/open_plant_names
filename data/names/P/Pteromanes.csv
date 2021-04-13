@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e94ba64e-8fd1-11eb-924d-9cd76263cbd0,genus,Pteromanes,,,Pic.Serm.,1977,"Webbia 31(1): 244. 1977.",,,,,,wfo-4000031995,7315520,
-b5ffee58-8fd1-11eb-924d-9cd76263cbd0,species,anomala,Pteromanes,,"(Maxon & C.V.Morton) Pic.Serm.",1977,"Webbia 31(1): 245 1977",,,,,214176-2,wfo-0001235539,,
-b6000e4c-8fd1-11eb-924d-9cd76263cbd0,species,martiusii,Pteromanes,,"(C.Presl) Pic.Serm.",1977,"Webbia 31(1): 245 1977",,,,ce659d70-8fcd-11eb-924d-9cd76263cbd0,214177-2,wfo-0001235540,3607027,
-27f94f80-8fc4-11eb-924d-9cd76263cbd0,species,bahamensis,Pteromimosa,,"(Benth.) Britton",,,,,,,1013397-2,wfo-0000186671,2970062,
-28118046-8fc4-11eb-924d-9cd76263cbd0,species,hemiendyta,Pteromimosa,,"(Rose & Robinson) Britton",,,,,,28054e8e-8fc4-11eb-924d-9cd76263cbd0,,wfo-0000186673,2970060,
-296efdfc-8fcd-11eb-924d-9cd76263cbd0,species,alatus,Pteromischus,,"(Kunth) Pichon",1945,"Bull. Soc. Bot. France 92: 227 1945 publ. 1946",,,,,214180-2,wfo-0000779310,4093004,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e94ba64e-8fd1-11eb-924d-9cd76263cbd0,genus,Pteromanes,,,Pic.Serm.,,1977,,"Webbia 31(1): 244. 1977.",,,,,,,wfo-4000031995,7315520,,
+b5ffee58-8fd1-11eb-924d-9cd76263cbd0,species,anomala,Pteromanes,,"(Maxon & C.V.Morton) Pic.Serm.",,1977,,"Webbia 31(1): 245 1977",,Q55757985,,,,214176-2,wfo-0001235539,,,
+b6000e4c-8fd1-11eb-924d-9cd76263cbd0,species,martiusii,Pteromanes,,"(C.Presl) Pic.Serm.",,1977,,"Webbia 31(1): 245 1977",,Q55757985,,ce659d70-8fcd-11eb-924d-9cd76263cbd0,,214177-2,wfo-0001235540,3607027,,
+27f94f80-8fc4-11eb-924d-9cd76263cbd0,species,bahamensis,Pteromimosa,,"(Benth.) Britton",,,,,,,,,,1013397-2,wfo-0000186671,2970062,,
+28118046-8fc4-11eb-924d-9cd76263cbd0,species,hemiendyta,Pteromimosa,,"(Rose & Robinson) Britton",,,,,,,,28054e8e-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0000186673,2970060,,
+296efdfc-8fcd-11eb-924d-9cd76263cbd0,species,alatus,Pteromischus,,"(Kunth) Pichon",,1945,,"Bull. Soc. Bot. France 92: 227 1945 publ. 1946",,Q55757503,,,,214180-2,wfo-0000779310,4093004,,

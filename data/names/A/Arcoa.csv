@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb1a642-8fd1-11eb-924d-9cd76263cbd0,genus,Arcoa,,,Urb.,,,,,,,296987-2,wfo-4000002914,2945826,
-0930ded6-8fc1-11eb-924d-9cd76263cbd0,species,gonavensis,Arcoa,,Urb.,,,,,,,,wfo-0000169610,2945827,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb1a642-8fd1-11eb-924d-9cd76263cbd0,genus,Arcoa,,,Urb.,,,,,,Q55753296,,,,296987-2,wfo-4000002914,2945826,,
+0930ded6-8fc1-11eb-924d-9cd76263cbd0,species,gonavensis,Arcoa,,Urb.,,,,,,,,,,,wfo-0000169610,2945827,,

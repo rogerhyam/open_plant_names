@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc63d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Artemisiella,,,Ghafoor,,,,,,,956969-1,wfo-4000003146,3089671,
-edb9677e-8fb4-11eb-924d-9cd76263cbd0,species,stracheyi,Artemisiella,,"(Hook.f. & Thomson ex C.B.Clarke) Ghafoor",1992,"642 1992",,,,1d7013b0-8fb4-11eb-924d-9cd76263cbd0,964774-1,wfo-0000071733,3089672,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc63d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Artemisiella,,,Ghafoor,,,,,,,,,,956969-1,wfo-4000003146,3089671,,
+edb9677e-8fb4-11eb-924d-9cd76263cbd0,species,stracheyi,Artemisiella,,"(Hook.f. & Thomson ex C.B.Clarke) Ghafoor",,1992,,"642 1992",,,,1d7013b0-8fb4-11eb-924d-9cd76263cbd0,,964774-1,wfo-0000071733,3089672,,

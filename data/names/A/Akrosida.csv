@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df0cf7e6-8fd1-11eb-924d-9cd76263cbd0,genus,Akrosida,,,"Fryxell & Fuertes",1992,"Brittonia 44(4): 442. 1992.",,,,,967836-1,wfo-4000001071,7278851,
-8e476cba-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Akrosida,,"Fryxell & Clase",2007,"Brittonia 59: 385 2007",,,,,60448144-2,wfo-0000508358,3934832,
-97f7b6e8-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Akrosida,,"(Ulbr.) Fryxell & Fuertes",1992,"Brittonia 44: 442 1992",,,,aeb58b9e-8fcc-11eb-924d-9cd76263cbd0,969566-1,wfo-0000524898,3934819,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df0cf7e6-8fd1-11eb-924d-9cd76263cbd0,genus,Akrosida,,,"Fryxell & Fuertes",,1992,,"Brittonia 44(4): 442. 1992.",,Q55771133,,,,967836-1,wfo-4000001071,7278851,,
+8e476cba-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Akrosida,,"Fryxell & Clase",,2007,,"Brittonia 59: 385 2007",,Q55764288,,,,60448144-2,wfo-0000508358,3934832,,
+97f7b6e8-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Akrosida,,"(Ulbr.) Fryxell & Fuertes",,1992,,"Brittonia 44: 442 1992",,Q55771133,,aeb58b9e-8fcc-11eb-924d-9cd76263cbd0,,969566-1,wfo-0000524898,3934819,,

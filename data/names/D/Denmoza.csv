@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e298bb02-8fd1-11eb-924d-9cd76263cbd0,genus,Denmoza,,,"Britton & Rose",1922,"Cactaceae 3: 78–79. 1922. (12 Oct 1922)",,,,,296726-2,wfo-4000011135,7282263,
-afead17c-8fd1-11eb-924d-9cd76263cbd0,species,ducis-pauli,Denmoza,,"(C.F.Först. ex Rümpler) Werderm. ex Backeb.",,"Cactaceae 2: 1045 1959",,,,,,wfo-0001224367,7893699,
-df0d41f6-8fcc-11eb-924d-9cd76263cbd0,species,erythrocephala,Denmoza,,"(K.Schum.) A.Berger",1929,"Kakteen 339 1929",,,,,77874-2,wfo-0000641585,3951469,
-df0d5ed4-8fcc-11eb-924d-9cd76263cbd0,species,rhodacantha,Denmoza,,"(Salm-Dyck) Britton & Rose",1922,"Cact. 3: 79 1922",,,,,77875-2,wfo-0000641586,7282272,
-df0d85e4-8fcc-11eb-924d-9cd76263cbd0,variety,diamantina,Denmoza,rhodacantha,Slaba,1996,"Kaktusy (Brno) 32: 98 1996",,,,,305759-2,wfo-0000641587,3951433,
-df0dde68-8fcc-11eb-924d-9cd76263cbd0,species,strausii,Denmoza,,"(Heese) Frič",1929,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,77876-2,wfo-0000641588,7282264,
-df0e274c-8fcc-11eb-924d-9cd76263cbd0,variety,luteispina,Denmoza,strausii,Frič,1929,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,77877-2,wfo-0000641589,3951412,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e298bb02-8fd1-11eb-924d-9cd76263cbd0,genus,Denmoza,,,"Britton & Rose",,1922,,"Cactaceae 3: 78–79. 1922. (12 Oct 1922)",,,,,,296726-2,wfo-4000011135,7282263,,
+afead17c-8fd1-11eb-924d-9cd76263cbd0,species,ducis-pauli,Denmoza,,"(C.F.Först. ex Rümpler) Werderm. ex Backeb.",,,,"Cactaceae 2: 1045 1959",,,,,,,wfo-0001224367,7893699,,
+df0d41f6-8fcc-11eb-924d-9cd76263cbd0,species,erythrocephala,Denmoza,,"(K.Schum.) A.Berger",,1929,,"Kakteen 339 1929",,,,,,77874-2,wfo-0000641585,3951469,,
+df0d5ed4-8fcc-11eb-924d-9cd76263cbd0,species,rhodacantha,Denmoza,,"(Salm-Dyck) Britton & Rose",,1922,,"Cact. 3: 79 1922",,,,,,77875-2,wfo-0000641586,7282272,,
+df0d85e4-8fcc-11eb-924d-9cd76263cbd0,variety,diamantina,Denmoza,rhodacantha,Slaba,,1996,,"Kaktusy (Brno) 32: 98 1996",,,,,,305759-2,wfo-0000641587,3951433,,
+df0dde68-8fcc-11eb-924d-9cd76263cbd0,species,strausii,Denmoza,,"(Heese) Frič",,1929,,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,,77876-2,wfo-0000641588,7282264,,
+df0e274c-8fcc-11eb-924d-9cd76263cbd0,variety,luteispina,Denmoza,strausii,Frič,,1929,,"Möller's Deutsche Gärtn.-Zeitung 44: 170 1929",,,,,,77877-2,wfo-0000641589,3951412,,

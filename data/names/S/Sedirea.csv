@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea3c4a4a-8fd1-11eb-924d-9cd76263cbd0,genus,Sedirea,,,"Garay & H.R.Sweet",1974,"Orchids S. Ryukyu Islands 149. 1974.",,,,,,wfo-4000034938,2816526,
-0c1bd514-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Sedirea,,"(Rchb.f.) Garay & H.R.Sweet",1974,"Orchids S. Ryukyu Is. 149 1974",,,,,657485-1,wfo-0000309152,2816529,
-0c1bfe04-8fcc-11eb-924d-9cd76263cbd0,species,subparishii,Sedirea,,"(Z.H.Tsi) Christenson",1985,"Taxon 34: 518 1985",,,,0f569310-8fca-11eb-924d-9cd76263cbd0,915485-1,wfo-0000309153,2816527,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea3c4a4a-8fd1-11eb-924d-9cd76263cbd0,genus,Sedirea,,,"Garay & H.R.Sweet",,1974,,"Orchids S. Ryukyu Islands 149. 1974.",,,,,,,wfo-4000034938,2816526,,
+0c1bd514-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Sedirea,,"(Rchb.f.) Garay & H.R.Sweet",,1974,,"Orchids S. Ryukyu Is. 149 1974",,,,,,657485-1,wfo-0000309152,2816529,,
+0c1bfe04-8fcc-11eb-924d-9cd76263cbd0,species,subparishii,Sedirea,,"(Z.H.Tsi) Christenson",,1985,,"Taxon 34: 518 1985",,Q28956106,,0f569310-8fca-11eb-924d-9cd76263cbd0,,915485-1,wfo-0000309153,2816527,,

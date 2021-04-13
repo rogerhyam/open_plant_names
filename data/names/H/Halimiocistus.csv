@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e45b1818-8fd1-11eb-924d-9cd76263cbd0,genus,Halimiocistus,,,,,,,,,,,wfo-4000016738,8010356,
-093b0ff8-8fcd-11eb-924d-9cd76263cbd0,species,heterogena,Halimiocistus,,Janch.,1925,"Nat. Pflanzenfam. ed. 2 21: 304 1925",,,,,168630-1,wfo-0000714697,3595509,
-093bd848-8fcd-11eb-924d-9cd76263cbd0,species,sahucii,Halimiocistus,,Janch.,1925,"Nat. Pflanzenfam. ed. 2 21: 304 1925",,,,,168635-1,wfo-0000714703,3595181,
-093c408a-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Halimione,,"(L.) Aellen",1937,"Verh. Naturf. Ges. Basel 49: 124 1937-1938 publ. 1938",,,,,165654-1,wfo-0000714706,3756036,
-093c6bdc-8fcd-11eb-924d-9cd76263cbd0,species,portulacoides,Halimione,,"(L.) Aellen",1937,"Verh. Naturf. Ges. Basel 49: 126 1937-1938 publ. 1938",,,,,165655-1,wfo-0000714707,3756031,
-093c8a4a-8fcd-11eb-924d-9cd76263cbd0,species,verrucifera,Halimione,,"(M.Bieb.) Aellen",1937,"Verh. Naturf. Ges. Basel 49: 129 1937-1938 publ. 1938",,,,ab0d6b92-8fcc-11eb-924d-9cd76263cbd0,165656-1,wfo-0000714708,3756025,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e45b1818-8fd1-11eb-924d-9cd76263cbd0,genus,Halimiocistus,,,,,,,,,,,,,,wfo-4000016738,8010356,,
+093b0ff8-8fcd-11eb-924d-9cd76263cbd0,species,heterogena,Halimiocistus,,Janch.,,1925,,"Nat. Pflanzenfam. ed. 2 21: 304 1925",,,,,,168630-1,wfo-0000714697,3595509,,
+093bd848-8fcd-11eb-924d-9cd76263cbd0,species,sahucii,Halimiocistus,,Janch.,,1925,,"Nat. Pflanzenfam. ed. 2 21: 304 1925",,,,,,168635-1,wfo-0000714703,3595181,,
+093c408a-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Halimione,,"(L.) Aellen",,1937,,"Verh. Naturf. Ges. Basel 49: 124 1937-1938 publ. 1938",,,,,,165654-1,wfo-0000714706,3756036,,
+093c6bdc-8fcd-11eb-924d-9cd76263cbd0,species,portulacoides,Halimione,,"(L.) Aellen",,1937,,"Verh. Naturf. Ges. Basel 49: 126 1937-1938 publ. 1938",,,,,,165655-1,wfo-0000714707,3756031,,
+093c8a4a-8fcd-11eb-924d-9cd76263cbd0,species,verrucifera,Halimione,,"(M.Bieb.) Aellen",,1937,,"Verh. Naturf. Ges. Basel 49: 129 1937-1938 publ. 1938",,,,ab0d6b92-8fcc-11eb-924d-9cd76263cbd0,,165656-1,wfo-0000714708,3756025,,

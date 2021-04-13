@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfd8830c-8fd1-11eb-924d-9cd76263cbd0,genus,Asteranthera,,,Hanst.,1853,"Linnaea 26: 211. 1853[1854]. (Apr 1854)",,,,,16903-1,wfo-4000003387,6365119,
-a87380b0-8fcc-11eb-924d-9cd76263cbd0,species,chiloensis,Asteranthera,,Hanst.,1853,"Linnaea 26: 211 1853",,,,,378056-1,wfo-0000552598,3818468,
-a8739cf8-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Asteranthera,,"(Cav.) Hanst.",1866,"Linnaea 34: 417 1866",,,,,378057-1,wfo-0000552599,3818446,
-a873e7bc-8fcc-11eb-924d-9cd76263cbd0,species,asterias,Asteranthopsis,,"(S.Moore) Pilg.",1906,"Nat. Pflanzenfam. Nachtr. 3: 116 1906",,,,b9db62a4-8fcd-11eb-924d-9cd76263cbd0,72526-1,wfo-0000552601,3154189,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfd8830c-8fd1-11eb-924d-9cd76263cbd0,genus,Asteranthera,,,Hanst.,,1853,,"Linnaea 26: 211. 1853[1854]. (Apr 1854)",,,,,,16903-1,wfo-4000003387,6365119,,
+a87380b0-8fcc-11eb-924d-9cd76263cbd0,species,chiloensis,Asteranthera,,Hanst.,,1853,,"Linnaea 26: 211 1853",,,,,,378056-1,wfo-0000552598,3818468,,
+a8739cf8-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Asteranthera,,"(Cav.) Hanst.",,1866,,"Linnaea 34: 417 1866",,,,,,378057-1,wfo-0000552599,3818446,,
+a873e7bc-8fcc-11eb-924d-9cd76263cbd0,species,asterias,Asteranthopsis,,"(S.Moore) Pilg.",,1906,,"Nat. Pflanzenfam. Nachtr. 3: 116 1906",,,,b9db62a4-8fcd-11eb-924d-9cd76263cbd0,,72526-1,wfo-0000552601,3154189,,

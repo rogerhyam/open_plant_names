@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e035d3d6-8fd1-11eb-924d-9cd76263cbd0,genus,Bescherellia,,,Duby,1873,"Bull. Soc. Bot. France 20: 130. 1873.",,,,,,wfo-4000004525,2678796,
-e2367fa4-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Bescherellia,,Hampe,1876,"Linnaea 40: 317 1876",,,,,,wfo-0001154588,7678718,
-e236999e-8fcd-11eb-924d-9cd76263cbd0,species,cryphaeoides,Bescherellia,,"(Müll.Hal.) M.Fleisch.",1920,"Hedwigia 61: 403 1920",,,,ef26338a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001154589,8192081,
-e236b6b8-8fcd-11eb-924d-9cd76263cbd0,species,cyrtopus,Bescherellia,,F.Muell.,1882,"Trans. Roy. Soc. Victoria 19: 80 1882",,,,,,wfo-0001154590,7820123,
-e236d440-8fcd-11eb-924d-9cd76263cbd0,variety,papuana,Bescherellia,cyrtopus,"Broth. & Geh.",1898,"Biblioth. Bot. 44: 15 1898",,,,,,wfo-0001154591,8339883,
-e236ef5c-8fcd-11eb-924d-9cd76263cbd0,species,elegantissima,Bescherellia,,Duby,1873,"Bull. Soc. Bot. France 20: 130. 1 1873",,,,,,wfo-0001154592,2678797,
-e2370c08-8fcd-11eb-924d-9cd76263cbd0,species,philippinensis,Bescherellia,,Broth.,1913,"Philipp. J. Sci. 8: 74 1913",,,,,,wfo-0001154593,7745930,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e035d3d6-8fd1-11eb-924d-9cd76263cbd0,genus,Bescherellia,,,Duby,,1873,,"Bull. Soc. Bot. France 20: 130. 1873.",,,,,,,wfo-4000004525,2678796,,
+e2367fa4-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Bescherellia,,Hampe,,1876,,"Linnaea 40: 317 1876",,,,,,,wfo-0001154588,7678718,,
+e236999e-8fcd-11eb-924d-9cd76263cbd0,species,cryphaeoides,Bescherellia,,"(Müll.Hal.) M.Fleisch.",,1920,,"Hedwigia 61: 403 1920",,,,ef26338a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001154589,8192081,,
+e236b6b8-8fcd-11eb-924d-9cd76263cbd0,species,cyrtopus,Bescherellia,,F.Muell.,,1882,,"Trans. Roy. Soc. Victoria 19: 80 1882",,,,,,,wfo-0001154590,7820123,,
+e236d440-8fcd-11eb-924d-9cd76263cbd0,variety,papuana,Bescherellia,cyrtopus,"Broth. & Geh.",,1898,,"Biblioth. Bot. 44: 15 1898",,,,,,,wfo-0001154591,8339883,,
+e236ef5c-8fcd-11eb-924d-9cd76263cbd0,species,elegantissima,Bescherellia,,Duby,,1873,,"Bull. Soc. Bot. France 20: 130. 1 1873",,,,,,,wfo-0001154592,2678797,,
+e2370c08-8fcd-11eb-924d-9cd76263cbd0,species,philippinensis,Bescherellia,,Broth.,,1913,,"Philipp. J. Sci. 8: 74 1913",,,,,,,wfo-0001154593,7745930,,

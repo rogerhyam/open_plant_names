@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e56112d0-8fd1-11eb-924d-9cd76263cbd0,genus,Kionophyton,,,Garay,1980,"Bot. Mus. Leafl. 28(4): 329–330. 1980[1982]. (25 Jun 1982)",,,,,893182-1,wfo-4000020028,2847926,
-3121e474-8fcd-11eb-924d-9cd76263cbd0,species,pollardianum,Kionophyton,,"Szlach., Rutk. & Mytnik",2004,"Ann. Bot. Fenn. 41: 474 2004",,,,,77063792-1,wfo-0000796244,2847930,
-235dd57a-8fcb-11eb-924d-9cd76263cbd0,species,pyramidalis,Kionophyton,,"(Lindl.) Garay",1980,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,,,,,wfo-0000221037,2847937,
-236c065e-8fcb-11eb-924d-9cd76263cbd0,species,riodelayensis,Kionophyton,,"(Burns-Bal.) Catling",1989,"Lindleyana 4: 186 1989",,,,7e3e41ee-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000221038,2847927,
-237a0330-8fcb-11eb-924d-9cd76263cbd0,species,sawyeri,Kionophyton,,"(Standl. & L.O.Williams) Garay",1980,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,,,0ecc7ad4-8fcc-11eb-924d-9cd76263cbd0,910790-1,wfo-0000221039,2847934,
-238811b4-8fcb-11eb-924d-9cd76263cbd0,species,seminuda,Kionophyton,,"(Schltr.) Garay",1980,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,,,0ecf00d8-8fcc-11eb-924d-9cd76263cbd0,910791-1,wfo-0000221040,2847931,
-23965292-8fcb-11eb-924d-9cd76263cbd0,species,hispanica,Kiosmina,,"(L.) Raf.",1837,"Fl. Tellur. 3: 92 1837",,,,,448657-1,wfo-0000221041,3896001,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e56112d0-8fd1-11eb-924d-9cd76263cbd0,genus,Kionophyton,,,Garay,,1980,,"Bot. Mus. Leafl. 28(4): 329–330. 1980[1982]. (25 Jun 1982)",,Q100427357,,,,893182-1,wfo-4000020028,2847926,,
+3121e474-8fcd-11eb-924d-9cd76263cbd0,species,pollardianum,Kionophyton,,"Szlach., Rutk. & Mytnik",,2004,,"Ann. Bot. Fenn. 41: 474 2004",,Q42898984,,,,77063792-1,wfo-0000796244,2847930,,
+235dd57a-8fcb-11eb-924d-9cd76263cbd0,species,pyramidalis,Kionophyton,,"(Lindl.) Garay",,1980,,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,,,,,,wfo-0000221037,2847937,,
+236c065e-8fcb-11eb-924d-9cd76263cbd0,species,riodelayensis,Kionophyton,,"(Burns-Bal.) Catling",,1989,,"Lindleyana 4: 186 1989",,,,7e3e41ee-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000221038,2847927,,
+237a0330-8fcb-11eb-924d-9cd76263cbd0,species,sawyeri,Kionophyton,,"(Standl. & L.O.Williams) Garay",,1980,,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,Q100427357,,0ecc7ad4-8fcc-11eb-924d-9cd76263cbd0,,910790-1,wfo-0000221039,2847934,,
+238811b4-8fcb-11eb-924d-9cd76263cbd0,species,seminuda,Kionophyton,,"(Schltr.) Garay",,1980,,"Bot. Mus. Leafl. 28: 330 1980 publ. 1982",,Q100427357,,0ecf00d8-8fcc-11eb-924d-9cd76263cbd0,,910791-1,wfo-0000221040,2847931,,
+23965292-8fcb-11eb-924d-9cd76263cbd0,species,hispanica,Kiosmina,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 92 1837",,,,,,448657-1,wfo-0000221041,3896001,,

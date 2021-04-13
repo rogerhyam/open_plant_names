@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e364ee16-8fd1-11eb-924d-9cd76263cbd0,genus,Eremitis,,,Döll,1877,"Fl. Bras. 2(2): 338. 1877.",,,,,18034-1,wfo-4000013697,4138612,
-52ded69e-8fcd-11eb-924d-9cd76263cbd0,species,monothalamia,Eremitis,,Döll,1877,"Fl. Bras. 2(2): 338 1877",,,,,93364-2,wfo-0000868671,8284632,
-52def412-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Eremitis,,"(Trin.) C.E.Calderón ex Soderstr.",1980,"Smithsonian Contr. Bot. 44: 20 1980",,,,,,wfo-0000868672,4138611,
-52df1096-8fcd-11eb-924d-9cd76263cbd0,species,erianthum,Eremium,,"(Phil.) Seberg & Linde-Laursen",1996,"Syst. Bot. 21: 11 1996",,,,,991482-1,wfo-0000868673,4138577,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e364ee16-8fd1-11eb-924d-9cd76263cbd0,genus,Eremitis,,,Döll,,1877,,"Fl. Bras. 2(2): 338. 1877.",,,,,,18034-1,wfo-4000013697,4138612,,
+52ded69e-8fcd-11eb-924d-9cd76263cbd0,species,monothalamia,Eremitis,,Döll,,1877,,"Fl. Bras. 2(2): 338 1877",,,,,,93364-2,wfo-0000868671,8284632,,
+52def412-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Eremitis,,"(Trin.) C.E.Calderón ex Soderstr.",,1980,,"Smithsonian Contr. Bot. 44: 20 1980",,,,,,,wfo-0000868672,4138611,,
+52df1096-8fcd-11eb-924d-9cd76263cbd0,species,erianthum,Eremium,,"(Phil.) Seberg & Linde-Laursen",,1996,,"Syst. Bot. 21: 11 1996",,Q55765545,,,,991482-1,wfo-0000868673,4138577,,

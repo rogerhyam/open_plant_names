@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63f4640-8fd1-11eb-924d-9cd76263cbd0,genus,Macrothamniella,,,M.Fleisch.,,"Musci Buitenzorg 4: 1476. 1923.",,,,,,wfo-4000022790,2682387,
-efdb876c-8fcd-11eb-924d-9cd76263cbd0,species,novoguinensis,Macrothamniella,,E.B.Bartram,1961,"Brittonia 13: 380 1961",,,,,,wfo-0001183324,2682390,
-ec40fc36-8fcd-11eb-924d-9cd76263cbd0,species,pilosula,Macrothamniella,,"(Mitt.) M.Fleisch.",,"Musci Buitenzorg 4: 1476 1923",,,,,,wfo-0001176032,2682388,
-efdba0e4-8fcd-11eb-924d-9cd76263cbd0,species,robbinsii,Macrothamniella,,E.B.Bartram,1962,"Rev. Bryol. Lichénol. 30: 206 1962",,,,,,wfo-0001183325,2682389,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63f4640-8fd1-11eb-924d-9cd76263cbd0,genus,Macrothamniella,,,M.Fleisch.,,,,"Musci Buitenzorg 4: 1476. 1923.",,,,,,,wfo-4000022790,2682387,,
+efdb876c-8fcd-11eb-924d-9cd76263cbd0,species,novoguinensis,Macrothamniella,,E.B.Bartram,,1961,,"Brittonia 13: 380 1961",,,,,,,wfo-0001183324,2682390,,
+ec40fc36-8fcd-11eb-924d-9cd76263cbd0,species,pilosula,Macrothamniella,,"(Mitt.) M.Fleisch.",,,,"Musci Buitenzorg 4: 1476 1923",,,,,,,wfo-0001176032,2682388,,
+efdba0e4-8fcd-11eb-924d-9cd76263cbd0,species,robbinsii,Macrothamniella,,E.B.Bartram,,1962,,"Rev. Bryol. Lichénol. 30: 206 1962",,,,,,,wfo-0001183325,2682389,,

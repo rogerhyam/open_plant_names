@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e50cb258-8fd1-11eb-924d-9cd76263cbd0,genus,Ichtyoselmis,,,"Lidén & T.Fukuhara",1997,"Pl. Syst. Evol. 206: 415. 1997.",,,,,995845-1,wfo-4000018941,7314843,
-d4556c84-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Ichtyoselmis,,"(Oliv.) Lidén",1997,"Pl. Syst. Evol. 206(1–4): 415 1997",,,,,995846-1,wfo-0001285963,3601468,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e50cb258-8fd1-11eb-924d-9cd76263cbd0,genus,Ichtyoselmis,,,"Lidén & T.Fukuhara",,1997,,"Pl. Syst. Evol. 206: 415. 1997.",,Q55755252,,,,995845-1,wfo-4000018941,7314843,,
+d4556c84-8fd1-11eb-924d-9cd76263cbd0,species,macrantha,Ichtyoselmis,,"(Oliv.) Lidén",,1997,,"Pl. Syst. Evol. 206(1–4): 415 1997",,Q55755252,,,,995846-1,wfo-0001285963,3601468,,

@@ -1,10 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea98aad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerosicyos,,,Hook.f.,1867,"Gen. Pl. 1(3): 824. 1867.",,,,,,wfo-4000035998,7317558,
-671554b8-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Sphaerosicyos,,Hook.f.,1871,"Fl. Trop. Afr. 2: 532 1871",,,,,294046-1,wfo-0000441668,3622861,
-dd3b60f6-8fd1-11eb-924d-9cd76263cbd0,species,sphaericus,Sphaerosicyos,,"(Sond.) Hook.f.",1881,"Monogr. Phan. 3: 466 1881",,,,,,wfo-0001301040,,
-2c4ff210-8fcd-11eb-924d-9cd76263cbd0,species,exscapa,Sphaerospora,,"(Thunb.) Klatt",1864,"Linnaea 32: 725 1864",,,,,441398-1,wfo-0000785527,5296606,
-2c4ed006-8fcd-11eb-924d-9cd76263cbd0,species,flexuosa,Sphaerospora,,Klatt,1864,"Linnaea 32: 726 1864",,,,,441399-1,wfo-0000785517,5296607,
-2c4d4dee-8fcd-11eb-924d-9cd76263cbd0,species,gigantea,Sphaerospora,,Klatt,1866,"Linnaea 34: 699 1866",,,,,441400-1,wfo-0000785503,5299272,
-2c4be864-8fcd-11eb-924d-9cd76263cbd0,species,imbricata,Sphaerospora,,"(L.) Sweet",1830,"Hort. Brit. ed. 2: 501 1830",,,,,441401-1,wfo-0000785491,5299244,
-2c4c07fe-8fcd-11eb-924d-9cd76263cbd0,species,segetum,Sphaerospora,,"(Ker Gawl.) Sweet",1826,"Hort. Brit. 398 1826",,,,2e75de74-8fcd-11eb-924d-9cd76263cbd0,441402-1,wfo-0000785492,5299243,
-2c4c27fc-8fcd-11eb-924d-9cd76263cbd0,species,triphylla,Sphaerospora,,"(Sm.) Sweet",1830,"Hort. Brit. ed. 2: 501 1830",,,,de67e80e-8fcd-11eb-924d-9cd76263cbd0,441403-1,wfo-0000785493,5299249,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea98aad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerosicyos,,,Hook.f.,,1867,,"Gen. Pl. 1(3): 824. 1867.",,,,,,,wfo-4000035998,7317558,,
+671554b8-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Sphaerosicyos,,Hook.f.,,1871,,"Fl. Trop. Afr. 2: 532 1871",,,,,,294046-1,wfo-0000441668,3622861,,
+dd3b60f6-8fd1-11eb-924d-9cd76263cbd0,species,sphaericus,Sphaerosicyos,,"(Sond.) Hook.f.",,1881,,"Monogr. Phan. 3: 466 1881",,,,,,,wfo-0001301040,,,

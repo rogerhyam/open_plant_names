@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9d396a8-8fd1-11eb-924d-9cd76263cbd0,genus,Rupichloa,,,"Salariato & Morrone",2009,"Taxon 58(2): 388–389. 2009.",,,,,77099676-1,wfo-4000033631,4933075,
-70aceb66-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Rupichloa,,"(Renvoize) Salariato & Morrone",2009,"Taxon 58: 389 2009",,,,680b6eba-8fcd-11eb-924d-9cd76263cbd0,77099677-1,wfo-0000914403,6068751,
-70ad098e-8fcd-11eb-924d-9cd76263cbd0,species,decidua,Rupichloa,,"(Morrone & Zuloaga) Salariato & Morrone",2009,"Taxon 58: 389 2009",,,,6abbdb9a-8fcd-11eb-924d-9cd76263cbd0,77099678-1,wfo-0000914404,6068750,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9d396a8-8fd1-11eb-924d-9cd76263cbd0,genus,Rupichloa,,,"Salariato & Morrone",,2009,,"Taxon 58(2): 388–389. 2009.",,,,,,77099676-1,wfo-4000033631,4933075,,
+70aceb66-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Rupichloa,,"(Renvoize) Salariato & Morrone",,2009,,"Taxon 58: 389 2009",,,,680b6eba-8fcd-11eb-924d-9cd76263cbd0,,77099677-1,wfo-0000914403,6068751,,
+70ad098e-8fcd-11eb-924d-9cd76263cbd0,species,decidua,Rupichloa,,"(Morrone & Zuloaga) Salariato & Morrone",,2009,,"Taxon 58: 389 2009",,,,6abbdb9a-8fcd-11eb-924d-9cd76263cbd0,,77099678-1,wfo-0000914404,6068750,,

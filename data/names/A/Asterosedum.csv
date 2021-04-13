@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfdb10cc-8fd1-11eb-924d-9cd76263cbd0,genus,Asterosedum,,,Grulich,1984,"Preslia 56(1): 38–39, f. 4 [map], 5. 1984.",,,,,,wfo-4000003423,7334543,
-a8972826-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolium,Asterosedum,,"(C.A.Mey.) Grulich",1984,"Preslia 56: 39 1984",,,,dc8b1764-8fd1-11eb-924d-9cd76263cbd0,913717-1,wfo-0000552789,4201351,
-a897472a-8fcc-11eb-924d-9cd76263cbd0,species,spurium,Asterosedum,,"(M.Bieb.) Grulich",1984,"Preslia 56: 39 1984",,,,66bd5d8a-8fcc-11eb-924d-9cd76263cbd0,913718-1,wfo-0000552790,4201342,
-a8976ce6-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Asterosedum,,"(L.) Grulich",1984,"Preslia 56: 39 1984",,,,,913719-1,wfo-0000552791,4201336,
-a8981cfe-8fcc-11eb-924d-9cd76263cbd0,species,stevenianum,Asterosedum,,"(Rouy & E.G.Camus) Grulich",1984,"Preslia 56: 39 1984",,,,66c5e75c-8fcc-11eb-924d-9cd76263cbd0,913720-1,wfo-0000552792,4201327,
-a89886b2-8fcc-11eb-924d-9cd76263cbd0,species,stoloniferum,Asterosedum,,"(S.G.Gmel.) Grulich",1984,"Preslia 56: 39 1984",,,,66c6503e-8fcc-11eb-924d-9cd76263cbd0,913721-1,wfo-0000552793,4201319,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfdb10cc-8fd1-11eb-924d-9cd76263cbd0,genus,Asterosedum,,,Grulich,,1984,,"Preslia 56(1): 38–39, f. 4 [map], 5. 1984.",,,,,,,wfo-4000003423,7334543,,
+a8972826-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolium,Asterosedum,,"(C.A.Mey.) Grulich",,1984,,"Preslia 56: 39 1984",,,,dc8b1764-8fd1-11eb-924d-9cd76263cbd0,,913717-1,wfo-0000552789,4201351,,
+a897472a-8fcc-11eb-924d-9cd76263cbd0,species,spurium,Asterosedum,,"(M.Bieb.) Grulich",,1984,,"Preslia 56: 39 1984",,,,66bd5d8a-8fcc-11eb-924d-9cd76263cbd0,,913718-1,wfo-0000552790,4201342,,
+a8976ce6-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Asterosedum,,"(L.) Grulich",,1984,,"Preslia 56: 39 1984",,,,,,913719-1,wfo-0000552791,4201336,,
+a8981cfe-8fcc-11eb-924d-9cd76263cbd0,species,stevenianum,Asterosedum,,"(Rouy & E.G.Camus) Grulich",,1984,,"Preslia 56: 39 1984",,,,66c5e75c-8fcc-11eb-924d-9cd76263cbd0,,913720-1,wfo-0000552792,4201327,,
+a89886b2-8fcc-11eb-924d-9cd76263cbd0,species,stoloniferum,Asterosedum,,"(S.G.Gmel.) Grulich",,1984,,"Preslia 56: 39 1984",,,,66c6503e-8fcc-11eb-924d-9cd76263cbd0,,913721-1,wfo-0000552793,4201319,,

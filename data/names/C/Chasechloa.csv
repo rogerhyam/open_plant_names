@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e18ab742-8fd1-11eb-924d-9cd76263cbd0,genus,Chasechloa,,,A.Camus,1949,"Bull. Soc. Bot. France 95: 330. 1949.",,,,,17727-1,wfo-4000007714,7325733,
-4e7d7f24-8fcd-11eb-924d-9cd76263cbd0,species,egregia,Chasechloa,,"(Mez) A.Camus",1949,"Bull. Soc. Bot. France 95: 331 1949",,,,,395679-1,wfo-0000859186,4149504,
-4e7daa94-8fcd-11eb-924d-9cd76263cbd0,species,humbertiana,Chasechloa,,A.Camus,1955,"Mém. Inst. Sci. Madagascar, Sér. B, Biol. Vég. 5: 203 1955",,,,,395680-1,wfo-0000859187,4149494,
-4e7dd05a-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Chasechloa,,"(Baker) A.Camus",1949,"Bull. Soc. Bot. France 95: 331 1949",,,,,395681-1,wfo-0000859188,4149485,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e18ab742-8fd1-11eb-924d-9cd76263cbd0,genus,Chasechloa,,,A.Camus,,1949,,"Bull. Soc. Bot. France 95: 330. 1949.",,Q95996881,,,,17727-1,wfo-4000007714,7325733,,
+4e7d7f24-8fcd-11eb-924d-9cd76263cbd0,species,egregia,Chasechloa,,"(Mez) A.Camus",,1949,,"Bull. Soc. Bot. France 95: 331 1949",,Q95996881,,,,395679-1,wfo-0000859186,4149504,,
+4e7daa94-8fcd-11eb-924d-9cd76263cbd0,species,humbertiana,Chasechloa,,A.Camus,,1955,,"Mém. Inst. Sci. Madagascar, Sér. B, Biol. Vég. 5: 203 1955",,,,,,395680-1,wfo-0000859187,4149494,,
+4e7dd05a-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Chasechloa,,"(Baker) A.Camus",,1949,,"Bull. Soc. Bot. France 95: 331 1949",,Q95996881,,,,395681-1,wfo-0000859188,4149485,,

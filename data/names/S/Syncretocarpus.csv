@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb04743e-8fd1-11eb-924d-9cd76263cbd0,genus,Syncretocarpus,,,S.F.Blake,,,,,,,297625-2,wfo-4000037286,3151358,
-c1b83a3a-8fb2-11eb-924d-9cd76263cbd0,species,ancashino,Syncretocarpus,,"Panero & A.Granda",2005,"Phytologia 87(2): 110 (-113; fig. 1). 2005 [14 Sep 2005]",,,,,,wfo-0000033692,4236219,
-b9b0ad74-8fba-11eb-924d-9cd76263cbd0,species,sericeus,Syncretocarpus,,"(DC.) S.F.Blake",1917,"Contr. Gray Herb. 52: 41 1917",,,,,252021-1,wfo-0000128951,3151359,
-dcf925a6-8fb3-11eb-924d-9cd76263cbd0,species,similis,Syncretocarpus,,S.F.Blake,1916,1916,,,,,,wfo-0000055929,4236205,
-342b607a-8fb2-11eb-924d-9cd76263cbd0,species,weberbaueri,Syncretocarpus,,S.F.Blake,1916,"50 1916",,,,,,wfo-0000015767,3151361,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb04743e-8fd1-11eb-924d-9cd76263cbd0,genus,Syncretocarpus,,,S.F.Blake,,,,,,,,,,297625-2,wfo-4000037286,3151358,,
+c1b83a3a-8fb2-11eb-924d-9cd76263cbd0,species,ancashino,Syncretocarpus,,"Panero & A.Granda",,2005,,"Phytologia 87(2): 110 (-113; fig. 1). 2005 [14 Sep 2005]",,,,,,,wfo-0000033692,4236219,,
+b9b0ad74-8fba-11eb-924d-9cd76263cbd0,species,sericeus,Syncretocarpus,,"(DC.) S.F.Blake",,1917,,"Contr. Gray Herb. 52: 41 1917",,Q94388966,,,,252021-1,wfo-0000128951,3151359,,
+dcf925a6-8fb3-11eb-924d-9cd76263cbd0,species,similis,Syncretocarpus,,S.F.Blake,,1916,,1916,,,,,,,wfo-0000055929,4236205,,
+342b607a-8fb2-11eb-924d-9cd76263cbd0,species,weberbaueri,Syncretocarpus,,S.F.Blake,,1916,,"50 1916",,,,,,,wfo-0000015767,3151361,,

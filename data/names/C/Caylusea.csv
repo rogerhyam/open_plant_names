@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1562cde-8fd1-11eb-924d-9cd76263cbd0,genus,Caylusea,,,A.St.-Hil.,1837,"Deux. Mém. Réséd. 29. 1837.",,,,,331472-2,wfo-4000007091,7275943,
-c195233c-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Caylusea,,"(Fresen.) Fisch. & C.A.Mey.",1841,"Index Seminum (LE) 7: 43 1841",,,,,715358-1,wfo-0000591649,3916499,
-c1955d3e-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Caylusea,,A.St.-Hil.,1837,"Deux. Mém. Réséd. 29 1837",,,,,,wfo-0000591651,7744110,
-c19578a0-8fcc-11eb-924d-9cd76263cbd0,species,hexagyna,Caylusea,,"(Forssk.) M.L.Green",1926,"Stand.-Sp. Nom. Conserv. 29, 63 1926",,,,,715361-1,wfo-0000591652,10967336,
-c19595ba-8fcc-11eb-924d-9cd76263cbd0,species,jaberi,Caylusea,,Abedin,1986,"Willdenowia 15: 433 1986",,,,,929424-1,wfo-0000591653,3916450,
-c195bde2-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Caylusea,,P.Taylor,1958,"Kew Bull. 13: 285 1958",,,,,715364-1,wfo-0000591654,3916445,
-c1966f58-8fcc-11eb-924d-9cd76263cbd0,species,moquiniana,Caylusea,,Webb,1854,"Fragm. Fl. Aethiop.-Aegypt. 28 1854",,,,,715365-1,wfo-0000591655,3916436,
-46106d06-8fcd-11eb-924d-9cd76263cbd0,species,cayouetteorum,,,B.Boivin,1967,"Naturaliste Canad. 94: 520 1967",,,,,384787-1,wfo-0000840963,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1562cde-8fd1-11eb-924d-9cd76263cbd0,genus,Caylusea,,,A.St.-Hil.,,1837,,"Deux. Mém. Réséd. 29. 1837.",,,,,,331472-2,wfo-4000007091,7275943,,
+c195233c-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Caylusea,,"(Fresen.) Fisch. & C.A.Mey.",,1841,,"Index Seminum (LE) 7: 43 1841",,,,,,715358-1,wfo-0000591649,3916499,,
+c1955d3e-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Caylusea,,A.St.-Hil.,,1837,,"Deux. Mém. Réséd. 29 1837",,,,,,,wfo-0000591651,7744110,,
+c19578a0-8fcc-11eb-924d-9cd76263cbd0,species,hexagyna,Caylusea,,"(Forssk.) M.L.Green",,1926,,"Stand.-Sp. Nom. Conserv. 29, 63 1926",,,,,,715361-1,wfo-0000591652,10967336,,
+c19595ba-8fcc-11eb-924d-9cd76263cbd0,species,jaberi,Caylusea,,Abedin,,1986,,"Willdenowia 15: 433 1986",,,,,,929424-1,wfo-0000591653,3916450,,
+c195bde2-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Caylusea,,P.Taylor,,1958,,"Kew Bull. 13: 285 1958",,Q55779712,,,,715364-1,wfo-0000591654,3916445,,
+c1966f58-8fcc-11eb-924d-9cd76263cbd0,species,moquiniana,Caylusea,,Webb,,1854,,"Fragm. Fl. Aethiop.-Aegypt. 28 1854",,,,,,715365-1,wfo-0000591655,3916436,,
+46106d06-8fcd-11eb-924d-9cd76263cbd0,species,cayouetteorum,,,B.Boivin,,1967,,"Naturaliste Canad. 94: 520 1967",,,,,,384787-1,wfo-0000840963,,,

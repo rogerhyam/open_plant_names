@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc72e36-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrocarpum,,,,,,,,,,,wfo-4000003155,9566943,
-e6c4dbc6-8fc1-11eb-924d-9cd76263cbd0,species,gracile,Arthrocarpum,,Balf.f.,,,,,,,,wfo-0000174408,2956357,
-e7370e58-8fc1-11eb-924d-9cd76263cbd0,species,somalense,Arthrocarpum,,"Hillc. & J.B.Gillett",,,,,,,,wfo-0000174418,2956356,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc72e36-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrocarpum,,,,,,,,,,,,,,wfo-4000003155,9566943,,
+e6c4dbc6-8fc1-11eb-924d-9cd76263cbd0,species,gracile,Arthrocarpum,,Balf.f.,,,,,,,,,,,wfo-0000174408,2956357,,
+e7370e58-8fc1-11eb-924d-9cd76263cbd0,species,somalense,Arthrocarpum,,"Hillc. & J.B.Gillett",,,,,,,,,,,wfo-0000174418,2956356,,

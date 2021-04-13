@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ba9964-8fd1-11eb-924d-9cd76263cbd0,genus,Risleya,,,"King & Pantl.",1898,"Ann. Roy. Bot. Gard. (Calcutta) 8: 246. 1898.",,,,,30543-1,wfo-4000033312,2816152,
-0495d4f2-8fcc-11eb-924d-9cd76263cbd0,species,atropurpurea,Risleya,,"King & Pantl.",1898,"Ann. Roy. Bot. Gard. (Calcutta) 8: 247 1898",,,,,655706-1,wfo-0000297312,2816153,
-73d2b9fc-8fcc-11eb-924d-9cd76263cbd0,species,ceylanica,Rissoa,,Arn.,1836,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 324 1836",,,,,775051-1,wfo-0000463792,5593487,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ba9964-8fd1-11eb-924d-9cd76263cbd0,genus,Risleya,,,"King & Pantl.",,1898,,"Ann. Roy. Bot. Gard. (Calcutta) 8: 246. 1898.",,,,,,30543-1,wfo-4000033312,2816152,,
+0495d4f2-8fcc-11eb-924d-9cd76263cbd0,species,atropurpurea,Risleya,,"King & Pantl.",,1898,,"Ann. Roy. Bot. Gard. (Calcutta) 8: 247 1898",,,,,,655706-1,wfo-0000297312,2816153,,
+73d2b9fc-8fcc-11eb-924d-9cd76263cbd0,species,ceylanica,Rissoa,,Arn.,,1836,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 18: 324 1836",,,,,,775051-1,wfo-0000463792,5593487,,

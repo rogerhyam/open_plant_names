@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ec9c4a-8fd1-11eb-924d-9cd76263cbd0,genus,Dissochondrus,,,"(W.F.Hillebr.) Kuntze",1891,"Revis. Gen. Pl. 2: 770. 1891. (5 Nov 1891)",,,,,17948-1,wfo-4000012198,2705229,
-513659f2-8fcd-11eb-924d-9cd76263cbd0,species,bifidus,Dissochondrus,,Kuntze,1891,"Revis. Gen. Pl. 2: 770 1891",,,,,399539-1,wfo-0000864976,4121857,
-513675f4-8fcd-11eb-924d-9cd76263cbd0,species,biflorus,Dissochondrus,,"(Hildebr.) Kuntze",1897,"Nat. Pflanzenfam. Nachtr. 1: 41 1897",,,,,399540-1,wfo-0000864977,2705230,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ec9c4a-8fd1-11eb-924d-9cd76263cbd0,genus,Dissochondrus,,,"(W.F.Hillebr.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 770. 1891. (5 Nov 1891)",,,,,,17948-1,wfo-4000012198,2705229,,
+513659f2-8fcd-11eb-924d-9cd76263cbd0,species,bifidus,Dissochondrus,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 770 1891",,,,,,399539-1,wfo-0000864976,4121857,,
+513675f4-8fcd-11eb-924d-9cd76263cbd0,species,biflorus,Dissochondrus,,"(Hildebr.) Kuntze",,1897,,"Nat. Pflanzenfam. Nachtr. 1: 41 1897",,,,,,399540-1,wfo-0000864977,2705230,,

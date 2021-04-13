@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e641bfa6-8fd1-11eb-924d-9cd76263cbd0,genus,Macvicaria,,,W.E.Nicholson,1930,"Symb. Sin. 5: 9. 1930.",,,,,,wfo-4000022813,3229890,
-fc0b637c-8fcd-11eb-924d-9cd76263cbd0,species,fossombronioides,Macvicaria,,W.E.Nicholson,1930,"Symb. Sin. 5: 9 1930",,,,,,wfo-0001208261,7461328,
-fb016468-8fcd-11eb-924d-9cd76263cbd0,species,ulophylla,Macvicaria,,"(Stephani) Hatt.",1951,"J. Hattori Bot. Lab. 5: 81 1951",,,,f76f94aa-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001206068,8321790,
-d38fb17c-8fba-11eb-924d-9cd76263cbd0,species,belgaumensis,Madacarpus,,Wight,,"Ic. t. 1152 (1846).",,,,,,wfo-0000129662,3108311,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e641bfa6-8fd1-11eb-924d-9cd76263cbd0,genus,Macvicaria,,,W.E.Nicholson,,1930,,"Symb. Sin. 5: 9. 1930.",,,,,,,wfo-4000022813,3229890,,
+fc0b637c-8fcd-11eb-924d-9cd76263cbd0,species,fossombronioides,Macvicaria,,W.E.Nicholson,,1930,,"Symb. Sin. 5: 9 1930",,,,,,,wfo-0001208261,7461328,,
+fb016468-8fcd-11eb-924d-9cd76263cbd0,species,ulophylla,Macvicaria,,"(Stephani) Hatt.",,1951,,"J. Hattori Bot. Lab. 5: 81 1951",,,,f76f94aa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001206068,8321790,,
+d38fb17c-8fba-11eb-924d-9cd76263cbd0,species,belgaumensis,Madacarpus,,Wight,,,,"Ic. t. 1152 (1846).",,,,,,,wfo-0000129662,3108311,,

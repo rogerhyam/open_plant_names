@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2fc921c-8fd1-11eb-924d-9cd76263cbd0,genus,Dolichoura,,,Brade,1959,"Arch. Jard. Bot. Rio de Janeiro 16: 12. 1959.",,,,,296509-2,wfo-4000012379,3865175,
-d2967a3c-8fd1-11eb-924d-9cd76263cbd0,species,kollmanii,Dolichoura,,"R.Goldenb. & R.Tavares",2007,"Brittonia 59(3): , f. 1, 2a, 3a,b 2007",,,,,77088781-1,wfo-0001283438,,
-be6a90e8-8fd1-11eb-924d-9cd76263cbd0,species,spiritusanctensis,Dolichoura,,Brade,1959,"Arch. Jard. Bot. Rio de Janeiro 16: 12 1959",,,,,82899-2,wfo-0001251104,3865174,
-76e8bbc4-8fc6-11eb-924d-9cd76263cbd0,species,formosana,Dolichovigna,,Hayata,,,,,,,,wfo-0000198036,2963408,
-f8ffffd2-8fc6-11eb-924d-9cd76263cbd0,species,pilosa,Dolichovigna,,"(Willd.) Niyomdham",,,,,,,,wfo-0000200454,,
-76a86cc2-8fc6-11eb-924d-9cd76263cbd0,species,rhombifolia,Dolichovigna,,Hayata,,,,,,,,wfo-0000198031,2975625,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2fc921c-8fd1-11eb-924d-9cd76263cbd0,genus,Dolichoura,,,Brade,,1959,,"Arch. Jard. Bot. Rio de Janeiro 16: 12. 1959.",,,,,,296509-2,wfo-4000012379,3865175,,
+d2967a3c-8fd1-11eb-924d-9cd76263cbd0,species,kollmanii,Dolichoura,,"R.Goldenb. & R.Tavares",,2007,,"Brittonia 59(3): , f. 1, 2a, 3a,b 2007",,Q55764277,,,,77088781-1,wfo-0001283438,,,
+be6a90e8-8fd1-11eb-924d-9cd76263cbd0,species,spiritusanctensis,Dolichoura,,Brade,,1959,,"Arch. Jard. Bot. Rio de Janeiro 16: 12 1959",,,,,,82899-2,wfo-0001251104,3865174,,

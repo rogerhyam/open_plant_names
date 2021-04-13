@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9d85224-8fd1-11eb-924d-9cd76263cbd0,genus,Rymandra,,,"Salisb. ex Knight",1809,"Cult. Prot. 124. 1809.",,,,,,wfo-4000033685,8144369,
-4b67e316-8fcc-11eb-924d-9cd76263cbd0,species,deplanchei,Rymandra,,Kuntze,1891,"Revis. Gen. Pl. 2: 580 1891",,,,,706410-1,wfo-0000404733,3998527,
-4b682cb8-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Rymandra,,Knight,1809,"Cult. Prot. 124 1809",,,,,706411-1,wfo-0000404734,3998520,
-4b6199c0-8fcc-11eb-924d-9cd76263cbd0,species,strobilina,Rymandra,,Kuntze,1891,"Revis. Gen. Pl. 2: 580 1891",,,,,706412-1,wfo-0000404707,3998513,
-482daaf0-8fcc-11eb-924d-9cd76263cbd0,species,polyandra,Rymia,,"(L.f.) Endl.",1842,"Cat. Horti Vindob. 2: 123 1842",,,,48300034-8fcc-11eb-924d-9cd76263cbd0,323638-1,wfo-0000400521,4070641,
-b30f8fae-8fcd-11eb-924d-9cd76263cbd0,species,greggii,Ryncholeucaena,,"(S.Watson) Britton & Rose",1928,"N. Amer. Fl. 23(2): 130 1928",,,,,224766-2,wfo-0001050703,3796429,
-78de61b6-8fcd-11eb-924d-9cd76263cbd0,species,caesia,Ryparia,,"Blume ex Baill.",1858,"Étude Euphorb. 339 1858",,,,,355710-1,wfo-0000926651,3919237,
-78de8876-8fcd-11eb-924d-9cd76263cbd0,species,dubia,Ryparia,,"Blume ex Baill.",1858,"Étude Euphorb. 339 1858",,,,,355711-1,wfo-0000926652,3919234,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9d85224-8fd1-11eb-924d-9cd76263cbd0,genus,Rymandra,,,"Salisb. ex Knight",,1809,,"Cult. Prot. 124. 1809.",,,,,,,wfo-4000033685,8144369,,
+4b67e316-8fcc-11eb-924d-9cd76263cbd0,species,deplanchei,Rymandra,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 580 1891",,,,,,706410-1,wfo-0000404733,3998527,,
+4b682cb8-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Rymandra,,Knight,,1809,,"Cult. Prot. 124 1809",,,,,,706411-1,wfo-0000404734,3998520,,
+4b6199c0-8fcc-11eb-924d-9cd76263cbd0,species,strobilina,Rymandra,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 580 1891",,,,,,706412-1,wfo-0000404707,3998513,,
+482daaf0-8fcc-11eb-924d-9cd76263cbd0,species,polyandra,Rymia,,"(L.f.) Endl.",,1842,,"Cat. Horti Vindob. 2: 123 1842",,,,48300034-8fcc-11eb-924d-9cd76263cbd0,,323638-1,wfo-0000400521,4070641,,
+b30f8fae-8fcd-11eb-924d-9cd76263cbd0,species,greggii,Ryncholeucaena,,"(S.Watson) Britton & Rose",,1928,,"N. Amer. Fl. 23(2): 130 1928",,,,,,224766-2,wfo-0001050703,3796429,,
+78de61b6-8fcd-11eb-924d-9cd76263cbd0,species,caesia,Ryparia,,"Blume ex Baill.",,1858,,"Étude Euphorb. 339 1858",,,,,,355710-1,wfo-0000926651,3919237,,
+78de8876-8fcd-11eb-924d-9cd76263cbd0,species,dubia,Ryparia,,"Blume ex Baill.",,1858,,"Étude Euphorb. 339 1858",,,,,,355711-1,wfo-0000926652,3919234,,

@@ -1,6 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ecef24-8fd1-11eb-924d-9cd76263cbd0,genus,Dissopetalum,,,Miers,1866,"Ann. Mag. Nat. Hist., ser. 3 17: 268. 1866.",,,,,,wfo-4000012202,7268751,
-e541de4c-8fcc-11eb-924d-9cd76263cbd0,species,mauritianum,Dissopetalum,,Miers,1866,"Ann. Mag. Nat. Hist. II, 17: 286 1866",,,,,,wfo-0000652301,3830361,
-81272484-8fcd-11eb-924d-9cd76263cbd0,species,muricatum,Dissorhynchium,,Schauer,1843,"Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 19(Suppl. 1): 434 1843",,,,,630413-1,wfo-0000944834,2829172,
-e5420ac0-8fcc-11eb-924d-9cd76263cbd0,species,claviculata,Dissosperma,,"(L.) Soják",1985,"?as. Nár. Mus., Odd. P?ír. 154: 55 1985 publ. 1986",,,,fcbe69fa-8fcc-11eb-924d-9cd76263cbd0,943667-1,wfo-0000652302,7314950,
-e54239d2-8fcc-11eb-924d-9cd76263cbd0,subspecies,picta,Dissosperma,claviculata,"(Samp.) Soják",1985,"?as. Nár. Mus., Odd. P?ír. 154: 55 1985 publ. 1986",,,,d3d5dbe0-8fcc-11eb-924d-9cd76263cbd0,953184-1,wfo-0000652303,3602121,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ecef24-8fd1-11eb-924d-9cd76263cbd0,genus,Dissopetalum,,,Miers,,1866,,"Ann. Mag. Nat. Hist., ser. 3 17: 268. 1866.",,,,,,,wfo-4000012202,7268751,,
+e541de4c-8fcc-11eb-924d-9cd76263cbd0,species,mauritianum,Dissopetalum,,Miers,,1866,,"Ann. Mag. Nat. Hist. II, 17: 286 1866",,,,,,,wfo-0000652301,3830361,,

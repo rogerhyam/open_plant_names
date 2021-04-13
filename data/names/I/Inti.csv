@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e517669e-8fd1-11eb-924d-9cd76263cbd0,genus,Inti,,,M.A.Blanco,2007,"Lankesteriana 7(3): 524. 2007.",,,,,,wfo-4000019100,2821027,
-446bda1c-8fcd-11eb-924d-9cd76263cbd0,species,bicallosa,Inti,,"(Rchb.f.) M.A.Blanco",2007,"Lankesteriana 7: 524 2007",,,,,60448153-2,wfo-0000837482,2826896,
-446bbc1c-8fcd-11eb-924d-9cd76263cbd0,species,chartacifolia,Inti,,"(Ames & C.Schweinf.) M.A.Blanco",2007,"Lankesteriana 7: 524 2007",,,,e019f338-8fcb-11eb-924d-9cd76263cbd0,60448154-2,wfo-0000837481,2826341,
-12b1b082-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Intrusaria,,Raf.,1838,"Fl. Tellur. 4: 66 1838",,,,,50049-1,wfo-0000731793,3776253,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e517669e-8fd1-11eb-924d-9cd76263cbd0,genus,Inti,,,M.A.Blanco,,2007,,"Lankesteriana 7(3): 524. 2007.",,,,,,,wfo-4000019100,2821027,,
+446bda1c-8fcd-11eb-924d-9cd76263cbd0,species,bicallosa,Inti,,"(Rchb.f.) M.A.Blanco",,2007,,"Lankesteriana 7: 524 2007",,Q95998297,,,,60448153-2,wfo-0000837482,2826896,,
+446bbc1c-8fcd-11eb-924d-9cd76263cbd0,species,chartacifolia,Inti,,"(Ames & C.Schweinf.) M.A.Blanco",,2007,,"Lankesteriana 7: 524 2007",,Q95998297,,e019f338-8fcb-11eb-924d-9cd76263cbd0,,60448154-2,wfo-0000837481,2826341,,

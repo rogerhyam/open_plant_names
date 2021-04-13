@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e188f254-8fd1-11eb-924d-9cd76263cbd0,genus,Charesia,,,E.A.Busch,1926,"Trudy Bot. Muz. 19: 182. 1926.",,,,,,wfo-4000007691,7268276,
-d82e7f80-8fd1-11eb-924d-9cd76263cbd0,species,akinfievii,Charesia,,"(Schmalh.) E.A.Busch",1926,"Trudy Bot. Muz. 19: 182 1926",,,,d84d65b2-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001291984,7724544,
-c6b8283c-8fcc-11eb-924d-9cd76263cbd0,species,akinfijevi,Charesia,,E.A.Busch,1926,"Trudy Bot. Muz. 19: 183 1926",,,,,152782-1,wfo-0000599863,,
-c6b844f2-8fcc-11eb-924d-9cd76263cbd0,species,fedtschenkoana,Charesia,,"(Preobr.) Tzvelev",2001,"Novosti Sist. Vyssh. Rast. 33: 100 2001",,,,d85080a8-8fd1-11eb-924d-9cd76263cbd0,20000198-1,wfo-0000599864,3817359,
-c6b864be-8fcc-11eb-924d-9cd76263cbd0,species,chevalieri,Charia,,C.DC.,1907,"Bull. Soc. Bot. France 54(8): 9 1907",,,,,577818-1,wfo-0000599865,3849848,
-c6b88890-8fcc-11eb-924d-9cd76263cbd0,species,indeniensis,Charia,,A.Chev.,1909,"Veg. Ut. Afr. Trop. Franç. 5: 194 1909",,,,,577819-1,wfo-0000599866,3849838,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e188f254-8fd1-11eb-924d-9cd76263cbd0,genus,Charesia,,,E.A.Busch,,1926,,"Trudy Bot. Muz. 19: 182. 1926.",,,,,,,wfo-4000007691,7268276,,
+d82e7f80-8fd1-11eb-924d-9cd76263cbd0,species,akinfievii,Charesia,,"(Schmalh.) E.A.Busch",,1926,,"Trudy Bot. Muz. 19: 182 1926",,,,d84d65b2-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001291984,7724544,,
+c6b8283c-8fcc-11eb-924d-9cd76263cbd0,species,akinfijevi,Charesia,,E.A.Busch,,1926,,"Trudy Bot. Muz. 19: 183 1926",,,,,,152782-1,wfo-0000599863,,,
+c6b844f2-8fcc-11eb-924d-9cd76263cbd0,species,fedtschenkoana,Charesia,,"(Preobr.) Tzvelev",,2001,,"Novosti Sist. Vyssh. Rast. 33: 100 2001",,,,d85080a8-8fd1-11eb-924d-9cd76263cbd0,,20000198-1,wfo-0000599864,3817359,,
+c6b864be-8fcc-11eb-924d-9cd76263cbd0,species,chevalieri,Charia,,C.DC.,,1907,,"Bull. Soc. Bot. France 54(8): 9 1907",,Q55756922,,,,577818-1,wfo-0000599865,3849848,,
+c6b88890-8fcc-11eb-924d-9cd76263cbd0,species,indeniensis,Charia,,A.Chev.,,1909,,"Veg. Ut. Afr. Trop. Franç. 5: 194 1909",,,,,,577819-1,wfo-0000599866,3849838,,

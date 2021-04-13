@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebce14e2-8fd1-11eb-924d-9cd76263cbd0,genus,Urodon,,,Turcz.,,,,,,,23753-1,wfo-4000039848,2966989,
-6596b9a4-8fc4-11eb-924d-9cd76263cbd0,species,capitatus,Urodon,,Turcz.,,,,,,,,wfo-0000187927,5358229,
-5eb65bb2-8fc4-11eb-924d-9cd76263cbd0,species,dasyphyllus,Urodon,,Turcz.,,,,,,,,wfo-0000187780,5358228,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebce14e2-8fd1-11eb-924d-9cd76263cbd0,genus,Urodon,,,Turcz.,,,,,,,,,,23753-1,wfo-4000039848,2966989,,
+6596b9a4-8fc4-11eb-924d-9cd76263cbd0,species,capitatus,Urodon,,Turcz.,,,,,,,,,,,wfo-0000187927,5358229,,
+5eb65bb2-8fc4-11eb-924d-9cd76263cbd0,species,dasyphyllus,Urodon,,Turcz.,,,,,,,,,,,wfo-0000187780,5358228,,

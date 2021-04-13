@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8b70b74-8fd1-11eb-924d-9cd76263cbd0,genus,Pleouratea,,,Tiegh.,1902,"Bull. Mus. Hist. Nat. (Paris) 8: 545. 1902.",,,,,,wfo-4000030277,7326833,
-7bc0d8f6-8fcc-11eb-924d-9cd76263cbd0,species,pirottantha,Pleouratea,,Speg.,1916,"Anales Soc. Ci. Argent. 82: 226 1916",,,,,289397-2,wfo-0000477116,3696582,
-7b8ef444-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Pleouratea,,Tiegh.,1902,"Ann. Sci. Nat., Bot. VIII, 16: 243 1902",,,,,607296-1,wfo-0000476752,3696559,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8b70b74-8fd1-11eb-924d-9cd76263cbd0,genus,Pleouratea,,,Tiegh.,,1902,,"Bull. Mus. Hist. Nat. (Paris) 8: 545. 1902.",,,,,,,wfo-4000030277,7326833,,
+7bc0d8f6-8fcc-11eb-924d-9cd76263cbd0,species,pirottantha,Pleouratea,,Speg.,,1916,,"Anales Soc. Ci. Argent. 82: 226 1916",,,,,,289397-2,wfo-0000477116,3696582,,
+7b8ef444-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Pleouratea,,Tiegh.,,1902,,"Ann. Sci. Nat., Bot. VIII, 16: 243 1902",,,,,,607296-1,wfo-0000476752,3696559,,

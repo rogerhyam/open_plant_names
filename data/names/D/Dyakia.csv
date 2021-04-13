@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e31de566-8fd1-11eb-924d-9cd76263cbd0,genus,Dyakia,,,Christenson,1986,"Orchid Digest 50(2): 63. 1986.",,,,,924952-1,wfo-4000012807,2836274,
-821afcb2-8fcd-11eb-924d-9cd76263cbd0,species,hendersoniana,Dyakia,,"(Rchb.f.) Christenson",1986,"Orchid Digest 50: 63 1986",,,,,942616-1,wfo-0000946989,5322640,
-514b2418-8fcd-11eb-924d-9cd76263cbd0,species,dybowskii,Dybowskia,,"(Franch.) Dandy",1931,"J. Bot. 69: 54 1931",,,,48a87ce8-8fcd-11eb-924d-9cd76263cbd0,399617-1,wfo-0000865161,5674714,
-514b4042-8fcd-11eb-924d-9cd76263cbd0,species,seretii,Dybowskia,,"(De Wild.) Stapf",1918,"Fl. Trop. Afr. 9: 383 1918",,,,,,wfo-0000865162,5674712,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e31de566-8fd1-11eb-924d-9cd76263cbd0,genus,Dyakia,,,Christenson,,1986,,"Orchid Digest 50(2): 63. 1986.",,,,,,924952-1,wfo-4000012807,2836274,,
+821afcb2-8fcd-11eb-924d-9cd76263cbd0,species,hendersoniana,Dyakia,,"(Rchb.f.) Christenson",,1986,,"Orchid Digest 50: 63 1986",,,,,,942616-1,wfo-0000946989,5322640,,
+514b2418-8fcd-11eb-924d-9cd76263cbd0,species,dybowskii,Dybowskia,,"(Franch.) Dandy",,1931,,"J. Bot. 69: 54 1931",,,,48a87ce8-8fcd-11eb-924d-9cd76263cbd0,,399617-1,wfo-0000865161,5674714,,
+514b4042-8fcd-11eb-924d-9cd76263cbd0,species,seretii,Dybowskia,,"(De Wild.) Stapf",,1918,,"Fl. Trop. Afr. 9: 383 1918",,,,,,,wfo-0000865162,5674712,,

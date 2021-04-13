@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e56c5492-8fd1-11eb-924d-9cd76263cbd0,genus,Kordelestris,,,,,,,,,,,wfo-4000020173,,
-293ec84e-8fcd-11eb-924d-9cd76263cbd0,species,syphilitica,Kordelestris,,Arruda,1816,"Trav. Braz. 1: 500 1816",,,,,109897-1,wfo-0000778895,4092578,
-293e5288-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Kordelestris,,Arruda,1816,"Trav. Braz. 1: 500 1816",,,,,109898-1,wfo-0000778891,4092565,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e56c5492-8fd1-11eb-924d-9cd76263cbd0,genus,Kordelestris,,,,,,,,,,,,,,wfo-4000020173,,,
+293ec84e-8fcd-11eb-924d-9cd76263cbd0,species,syphilitica,Kordelestris,,Arruda,,1816,,"Trav. Braz. 1: 500 1816",,,,,,109897-1,wfo-0000778895,4092578,,
+293e5288-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Kordelestris,,Arruda,,1816,,"Trav. Braz. 1: 500 1816",,,,,,109898-1,wfo-0000778891,4092565,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e85f1022-8fd1-11eb-924d-9cd76263cbd0,genus,Philgamia,,,Baill.,1894,"Hist. Phys. Madagascar 5: , t. 265. 1894. (Sep 1894)",,,,,,wfo-4000029215,8372079,
-be527ad4-8fcd-11eb-924d-9cd76263cbd0,species,brachystemon,Philgamia,,Arènes,1943,"Notul. Syst. (Paris) 11(3): 91–92, f. 1–6 1943",,,,,557352-1,wfo-0001076343,3985588,
-be5260da-8fcd-11eb-924d-9cd76263cbd0,species,denticulata,Philgamia,,Arènes,1943,"Notul. Syst. (Paris) 11(3): 92–93, f. 12–18 1943",,,,,557353-1,wfo-0001076342,3985585,
-be52451e-8fcd-11eb-924d-9cd76263cbd0,species,glabrifolia,Philgamia,,Arènes,1943,"Notul. Syst. (Paris) 11(3): 93–94, f. 7–11 1943",,,,,557354-1,wfo-0001076341,3985578,
-be568e12-8fcd-11eb-924d-9cd76263cbd0,species,hibbertioides,Philgamia,,Baill.,1894,"Hist. Phys. Madagascar 5: , t. 265 1894",,,,,557355-1,wfo-0001076379,3985570,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e85f1022-8fd1-11eb-924d-9cd76263cbd0,genus,Philgamia,,,Baill.,,1894,,"Hist. Phys. Madagascar 5: , t. 265. 1894. (Sep 1894)",,,,,,,wfo-4000029215,8372079,,
+be527ad4-8fcd-11eb-924d-9cd76263cbd0,species,brachystemon,Philgamia,,Arènes,,1943,,"Notul. Syst. (Paris) 11(3): 91–92, f. 1–6 1943",,,,,,557352-1,wfo-0001076343,3985588,,
+be5260da-8fcd-11eb-924d-9cd76263cbd0,species,denticulata,Philgamia,,Arènes,,1943,,"Notul. Syst. (Paris) 11(3): 92–93, f. 12–18 1943",,,,,,557353-1,wfo-0001076342,3985585,,
+be52451e-8fcd-11eb-924d-9cd76263cbd0,species,glabrifolia,Philgamia,,Arènes,,1943,,"Notul. Syst. (Paris) 11(3): 93–94, f. 7–11 1943",,,,,,557354-1,wfo-0001076341,3985578,,
+be568e12-8fcd-11eb-924d-9cd76263cbd0,species,hibbertioides,Philgamia,,Baill.,,1894,,"Hist. Phys. Madagascar 5: , t. 265 1894",,,,,,557355-1,wfo-0001076379,3985570,,

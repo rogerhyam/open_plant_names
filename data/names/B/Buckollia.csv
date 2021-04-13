@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0e72f6e-8fd1-11eb-924d-9cd76263cbd0,genus,Buckollia,,,"Venter & R.L.Verh.",1994,"S. African J. Bot. 60(2): 97. 1994.",,,,,978336-1,wfo-4000005682,7312430,
-b695ca5e-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Buckollia,,"(E.A.Bruce) Venter & R.L.Verh.",1994,"S. African J. Bot. 60: 98 1994",,,,cb16e7b4-8fcd-11eb-924d-9cd76263cbd0,978338-1,wfo-0000573868,3579453,
-b695e8d6-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Buckollia,,"(Schltr.) Venter & R.L.Verh.",1994,"S. African J. Bot. 60: 97 1994",,,,498409bc-8fcc-11eb-924d-9cd76263cbd0,978337-1,wfo-0000573869,3579445,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0e72f6e-8fd1-11eb-924d-9cd76263cbd0,genus,Buckollia,,,"Venter & R.L.Verh.",,1994,,"S. African J. Bot. 60(2): 97. 1994.",,,,,,978336-1,wfo-4000005682,7312430,,
+b695ca5e-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Buckollia,,"(E.A.Bruce) Venter & R.L.Verh.",,1994,,"S. African J. Bot. 60: 98 1994",,,,cb16e7b4-8fcd-11eb-924d-9cd76263cbd0,,978338-1,wfo-0000573868,3579453,,
+b695e8d6-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Buckollia,,"(Schltr.) Venter & R.L.Verh.",,1994,,"S. African J. Bot. 60: 97 1994",,,,498409bc-8fcc-11eb-924d-9cd76263cbd0,,978337-1,wfo-0000573869,3579445,,

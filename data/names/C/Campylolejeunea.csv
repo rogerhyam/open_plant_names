@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e124e1a6-8fd1-11eb-924d-9cd76263cbd0,genus,Campylolejeunea,,,S.Hatt.,1947,"Biosphaera 1: 6. 1947.",,,,,,wfo-4000006469,4887681,
-fc377a52-8fcd-11eb-924d-9cd76263cbd0,species,inflectens,Campylolejeunea,,"(Mitt.) Mizut.",1963,"J. Hattori Bot. Lab. 26: 184 1963",,,,,,wfo-0001208641,7671060,
-f777517c-8fcd-11eb-924d-9cd76263cbd0,species,mouensis,Campylolejeunea,,Tixier,1979,"Nova Hedwigia 31: 727. f. 3 1979",,,,,,wfo-0001199013,8347846,
-fd61ca2c-8fcd-11eb-924d-9cd76263cbd0,species,pecularis,Campylolejeunea,,"(Herzog) Amak.",1960,"J. Jap. Bot. 35: 1960",,,,,,wfo-0001211295,8425597,
-f7772a94-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Campylolejeunea,,Mizut.,1966,"J. Hattori Bot. Lab. 29: 154. f. 1: 1–9 1966",,,,,,wfo-0001199012,7598354,
-fac4e27c-8fcd-11eb-924d-9cd76263cbd0,species,shibatae,Campylolejeunea,,S.Hatt.,1951,"Bot. Mag. (Tokyo) 64: 115 1951",,,,,,wfo-0001205577,8414683,
-fac538e4-8fcd-11eb-924d-9cd76263cbd0,species,vesicaria,Campylolejeunea,,"(Sande Lac.) S.Hatt.",1947,"Biosphaera 1: 6 1947",,,,fac51d00-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001205580,8088653,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e124e1a6-8fd1-11eb-924d-9cd76263cbd0,genus,Campylolejeunea,,,S.Hatt.,,1947,,"Biosphaera 1: 6. 1947.",,,,,,,wfo-4000006469,4887681,,
+fc377a52-8fcd-11eb-924d-9cd76263cbd0,species,inflectens,Campylolejeunea,,"(Mitt.) Mizut.",,1963,,"J. Hattori Bot. Lab. 26: 184 1963",,,,,,,wfo-0001208641,7671060,,
+f777517c-8fcd-11eb-924d-9cd76263cbd0,species,mouensis,Campylolejeunea,,Tixier,,1979,,"Nova Hedwigia 31: 727. f. 3 1979",,,,,,,wfo-0001199013,8347846,,
+fd61ca2c-8fcd-11eb-924d-9cd76263cbd0,species,pecularis,Campylolejeunea,,"(Herzog) Amak.",,1960,,"J. Jap. Bot. 35: 1960",,,,,,,wfo-0001211295,8425597,,
+f7772a94-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Campylolejeunea,,Mizut.,,1966,,"J. Hattori Bot. Lab. 29: 154. f. 1: 1–9 1966",,,,,,,wfo-0001199012,7598354,,
+fac4e27c-8fcd-11eb-924d-9cd76263cbd0,species,shibatae,Campylolejeunea,,S.Hatt.,,1951,,"Bot. Mag. (Tokyo) 64: 115 1951",,,,,,,wfo-0001205577,8414683,,
+fac538e4-8fcd-11eb-924d-9cd76263cbd0,species,vesicaria,Campylolejeunea,,"(Sande Lac.) S.Hatt.",,1947,,"Biosphaera 1: 6 1947",,,,fac51d00-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001205580,8088653,,

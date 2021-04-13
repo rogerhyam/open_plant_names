@@ -1,6 +1,57 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec23ed54-8fd1-11eb-924d-9cd76263cbd0,genus,Xerocarpus,,,,,,,,,,,wfo-4000040938,2951609,
-5d93d806-8fcc-11eb-924d-9cd76263cbd0,species,abyssinicus,Xerocarpus,,Schweinf.,1867,"Beitr. Fl. Aethiop. 21 1867",,,,,525830-1,wfo-0000428188,5630065,
-c65666aa-8fc8-11eb-924d-9cd76263cbd0,species,hirsuta,Xerocarpus,,"Guill. & Perr.",,,,,,,,wfo-0000209649,,
-30f438be-8fc6-11eb-924d-9cd76263cbd0,species,hirsutus,Xerocarpus,,"Guill. & Perr.",,,,,,,,wfo-0000196747,5353603,
-749ed56e-8fc2-11eb-924d-9cd76263cbd0,species,armata,Xerocassia,,"(S.Watson) Britton & Rose",,,,,,,1196633-2,wfo-0000177557,2957457,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec23ed54-8fd1-11eb-924d-9cd76263cbd0,genus,Xerocarpus,,,"P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,ec23ed54-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000040938,2951609,18760," "
+5657cae2-9bad-11eb-a8a2-19ed5c03f8d3,species,abietinus,Xerocarpus,,"(Pers.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 136 (1882)",,,,cfa6c638-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440752," "
+5d93d806-8fcc-11eb-924d-9cd76263cbd0,species,abyssinicus,Xerocarpus,,Schweinf.,,1867,,"Beitr. Fl. Aethiop. 21 1867",,,,,,525830-1,wfo-0000428188,5630065,,
+5657f9b8-9bad-11eb-a8a2-19ed5c03f8d3,species,acerinus,Xerocarpus,,"(Pers.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 159 (1882)",,,,22b1cf54-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440753," "
+0709215c-9bad-11eb-a8a2-19ed5c03f8d3,species,alneus,Xerocarpus,,"(Fr.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,,,,,,212353," "
+56586b64-9bad-11eb-a8a2-19ed5c03f8d3,species,alutarius,Xerocarpus,,"(Berk. & M.A. Curtis) P. Karst.",,1889,,"Bidr. Känn. Finl. Nat. Folk 48: 418 (1889)",,,,873226cc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440754," "
+79ad1b1e-9bad-11eb-a8a2-19ed5c03f8d3,species,ambiguus,Xerocarpus,,"P. Karst.",,1881,,"Acta Soc. Fauna Flora fenn. 2(1): 38 (1881)",,,,79ad1b1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,207488," "
+565899ae-9bad-11eb-a8a2-19ed5c03f8d3,species,amphibolius,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 140 (1882)",,,,7a60bd8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440755," "
+1c7083c4-9bac-11eb-a8a2-19ed5c03f8d3,species,cacao,Xerocarpus,,"P. Karst.",,1890,,"Hedwigia 29: 271 (1890)",,,,1c7083c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207245," "
+6c383dd8-9bad-11eb-a8a2-19ed5c03f8d3,species,carneus,Xerocarpus,,"(Willd.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 134 (1882)",,,,4675ab08-9bad-11eb-a8a2-19ed5c03f8d3,,,,,472081," "
+6c38ac78-9bad-11eb-a8a2-19ed5c03f8d3,species,ciliatus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)",,,,f584a772-9bab-11eb-a8a2-19ed5c03f8d3,,,,,472082," "
+5658d2ca-9bad-11eb-a8a2-19ed5c03f8d3,species,cinereus,Xerocarpus,,"(Pers.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,7cfc064a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440756," "
+565951a0-9bad-11eb-a8a2-19ed5c03f8d3,variety,cervinus,Xerocarpus,cinereus,Thüm.,,1879,,"Revue mycol., Toulouse 1: 9 (1879)",,,,565951a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440757," "
+b6e4d676-9bac-11eb-a8a2-19ed5c03f8d3,variety,cinereus,Xerocarpus,cinereus,"(Pers.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,b6e4d676-9bac-11eb-a8a2-19ed5c03f8d3,,,,,449931," "
+565989ae-9bad-11eb-a8a2-19ed5c03f8d3,variety,piceae,Xerocarpus,cinereus,"P. Karst.",,1884,,"Meddn Soc. Fauna Flora fenn. 11: 4 (1884)",,,,565989ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440758," "
+1f8093a6-9bac-11eb-a8a2-19ed5c03f8d3,species,consobrinus,Xerocarpus,,"P. Karst.",,1905,,"Acta Soc. Fauna Flora fenn. 27(no. 4): 6 (1905)",,,,1f8093a6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,212732," "
+b87e0a9c-9bad-11eb-a8a2-19ed5c03f8d3,species,corni,Xerocarpus,,"P. Karst.",,1884,,"Revue mycol., Toulouse 6(no. 24): 214 (1884)",,,,b87e0a9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,212607," "
+5659b9e2-9bad-11eb-a8a2-19ed5c03f8d3,species,corrugatus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 138 (1882)",,,,9a276d00-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440759," "
+5659ed54-9bad-11eb-a8a2-19ed5c03f8d3,species,crustaceus,Xerocarpus,,"P. Karst.",,1896,,"Hedwigia 35: 45 (1896)",,,,5659ed54-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440760," "
+565a1b9e-9bad-11eb-a8a2-19ed5c03f8d3,species,cyclothelis,Xerocarpus,,"(Pers.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 136 (1882)",,,,6c05a49a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440761," "
+99e3a4da-9bac-11eb-a8a2-19ed5c03f8d3,species,farinellus,Xerocarpus,,"P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 139 (1882)",,,,99e3a4da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,212992," "
+925c3ca4-9bac-11eb-a8a2-19ed5c03f8d3,species,flavoferrugineus,Xerocarpus,,"P. Karst.",,1895,,"Hedwigia 34: 8 (1895)",,,,925c3ca4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,202853," "
+0299dba2-9bad-11eb-a8a2-19ed5c03f8d3,species,frustulosus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 134 (1882)",,,,10148b16-9bac-11eb-a8a2-19ed5c03f8d3,,,,,472083," "
+565a54f6-9bad-11eb-a8a2-19ed5c03f8d3,species,glaucescens,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)",,,,83b83838-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440762," "
+9232485e-9bac-11eb-a8a2-19ed5c03f8d3,species,helvolus,Xerocarpus,,"P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 243 (1882)",,,,9232485e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,202687," "
+c65666aa-8fc8-11eb-924d-9cd76263cbd0,species,hirsuta,Xerocarpus,,"Guill. & Perr.",,,,,,,,,,,wfo-0000209649,,,
+30f438be-8fc6-11eb-924d-9cd76263cbd0,species,hirsutus,Xerocarpus,,"Guill. & Perr.",,,,,,,,,,,wfo-0000196747,5353603,,
+97db35ae-9bac-11eb-a8a2-19ed5c03f8d3,species,juniperi,Xerocarpus,,"(P. Karst.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,c58f04b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210036," "
+97926478-9bac-11eb-a8a2-19ed5c03f8d3,species,laeticolor,Xerocarpus,,"P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 137 (1882)",,,,97926478-9bac-11eb-a8a2-19ed5c03f8d3,,,,,209706," "
+565a85f2-9bad-11eb-a8a2-19ed5c03f8d3,species,laevigatus,Xerocarpus,,"(Fr.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,5b5cd9a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,440763," "
+6c38f46c-9bad-11eb-a8a2-19ed5c03f8d3,species,laevissimus,Xerocarpus,,"P. Karst.",,1883,,"Meddn Soc. Fauna Flora fenn. 9: 111 (1883)",,,,6c38f46c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,472084," "
+1c7fc316-9bac-11eb-a8a2-19ed5c03f8d3,species,letendrei,Xerocarpus,,"P. Karst.",,1884,,"Revue mycol., Toulouse 6: 214 (1884)",,,,1c7fc316-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210075," letendri"
+0e175852-9bac-11eb-a8a2-19ed5c03f8d3,species,letendri,Xerocarpus,,"P. Karst.",,,,,,,,0e175852-9bac-11eb-a8a2-19ed5c03f8d3,,,,,291931," Xerocarpus letendrei"
+7c3f6120-9bad-11eb-a8a2-19ed5c03f8d3,species,levissimus,Xerocarpus,,"P. Karst.",,1883,,"Meddn Soc. Fauna Flora fenn. 9: 111 (1883)",,,,7c3f6120-9bad-11eb-a8a2-19ed5c03f8d3,,,,,208683," "
+565ab2c0-9bad-11eb-a8a2-19ed5c03f8d3,species,maculiformis,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 136 (1882)",,,,ad24a4fe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440764," "
+565adf5c-9bad-11eb-a8a2-19ed5c03f8d3,species,nigrescens,Xerocarpus,,"(Schrad.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 159 (1882)",,,,,,,,,440765," "
+96b5fd76-9bac-11eb-a8a2-19ed5c03f8d3,species,odoratus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 137 (1882)",,,,f87dbf08-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208463," "
+565b0dd8-9bad-11eb-a8a2-19ed5c03f8d3,species,pini,Xerocarpus,,"(Schleich.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)",,,,,,,,,440766," "
+565b403c-9bad-11eb-a8a2-19ed5c03f8d3,species,polygonioides,Xerocarpus,,"(P. Karst.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,780c89fe-9bab-11eb-a8a2-19ed5c03f8d3,,,,,440767," "
+091daf36-9bac-11eb-a8a2-19ed5c03f8d3,species,polygonius,Xerocarpus,,"(Pers.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,1eab0e52-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440768," "
+ad2975ec-9bac-11eb-a8a2-19ed5c03f8d3,variety,polygonioides,Xerocarpus,polygonius,"(P. Karst.) P. Karst.",,1881,,"Acta Soc. Fauna Flora fenn. 2(1): 38 (1881)",,,,780c89fe-9bab-11eb-a8a2-19ed5c03f8d3,,,,,440769," "
+b6e53792-9bac-11eb-a8a2-19ed5c03f8d3,variety,polygonius,Xerocarpus,polygonius,"(Pers.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,b6e53792-9bac-11eb-a8a2-19ed5c03f8d3,,,,,449932," "
+ad2a51d8-9bac-11eb-a8a2-19ed5c03f8d3,species,repandus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 133 (1882)",,,,f53b0586-9bab-11eb-a8a2-19ed5c03f8d3,,,,,440770," "
+ad2a9ab2-9bac-11eb-a8a2-19ed5c03f8d3,species,rufus,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 135 (1882)",,,,,,,,,440771," "
+ad2ae486-9bac-11eb-a8a2-19ed5c03f8d3,species,rutilans,Xerocarpus,,"(Fr.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,,,,,,440772," "
+ad2b510a-9bac-11eb-a8a2-19ed5c03f8d3,species,sterilis,Xerocarpus,,"(Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 140 (1882)",,,,f53c1f0c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,440773," "
+873533ac-9bad-11eb-a8a2-19ed5c03f8d3,species,suaveolens,Xerocarpus,,"(Moug. ex Fr.) P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 137 (1882)",,,,83924b1e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440774," "
+ad2be0de-9bac-11eb-a8a2-19ed5c03f8d3,species,subsulphureus,Xerocarpus,,"P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 138 (1882)",,,,ad2be0de-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440775," "
+96f00606-9bac-11eb-a8a2-19ed5c03f8d3,species,syringae,Xerocarpus,,"P. Karst.",,,,,,,,96f00606-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208830," "
+ad2c2c06-9bac-11eb-a8a2-19ed5c03f8d3,species,violaceolividus,Xerocarpus,,"(Sommerf.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,59640a80-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440776," "
+62f4e686-9bad-11eb-a8a2-19ed5c03f8d3,variety,syringae,Xerocarpus,violaceolividus,"P. Karst.",,1882,,"Meddn Soc. Fauna Flora fenn. 9: 52 (1882)",,,,62f4e686-9bad-11eb-a8a2-19ed5c03f8d3,,,,,494261," "
+ad2c7a44-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,syringae,Xerocarpus,violaceolividus,"P. Karst.",,1882,,"Mycoth. fenn. (Helsinki) 9: 52 (1882)",,,,ad2c7a44-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440777," "
+ad2cbcde-9bac-11eb-a8a2-19ed5c03f8d3,variety,tumulosus,Xerocarpus,violaceolividus,"P. Karst.",,1882,,"Bidr. Känn. Finl. Nat. Folk 37: 134 (1882)",,,,ad2cbcde-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440778," "
+89f07cdc-9bad-11eb-a8a2-19ed5c03f8d3,subspecies,violaceolividus,Xerocarpus,violaceolividus,"(Sommerf.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,89f07cdc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,449933," "
+89f0a73e-9bad-11eb-a8a2-19ed5c03f8d3,variety,violaceolividus,Xerocarpus,violaceolividus,"(Sommerf.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,89f0a73e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,449934," "
+749ed56e-8fc2-11eb-924d-9cd76263cbd0,species,armata,Xerocassia,,"(S.Watson) Britton & Rose",,,,,,,,,,1196633-2,wfo-0000177557,2957457,,

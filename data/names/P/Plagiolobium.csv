@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89f270c-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiolobium,,,,,,,,,,,wfo-4000029990,7275634,
-b659e704-8fcd-11eb-924d-9cd76263cbd0,species,chorizemaefolium,Plagiolobium,,Sweet,1827,"Fl. Australas. pl. 2 1827",,,,,515172-1,wfo-0001058097,7804814,
-7783438c-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolium,Plagiolobium,,Sweet,1827,"Fl. Australas. t. 2 1827",,,,,515173-1,wfo-0000469777,3912549,
-b65a04d2-8fcd-11eb-924d-9cd76263cbd0,species,macrocalyx,Plagiolobium,,Walp.,1846,"Repert. Bot. Syst. 5(3): 434 1846",,,,,515174-1,wfo-0001058098,3972725,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89f270c-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiolobium,,,,,,,,,,,,,,wfo-4000029990,7275634,,
+b659e704-8fcd-11eb-924d-9cd76263cbd0,species,chorizemaefolium,Plagiolobium,,Sweet,,1827,,"Fl. Australas. pl. 2 1827",,,,,,515172-1,wfo-0001058097,7804814,,
+7783438c-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolium,Plagiolobium,,Sweet,,1827,,"Fl. Australas. t. 2 1827",,,,,,515173-1,wfo-0000469777,3912549,,
+b65a04d2-8fcd-11eb-924d-9cd76263cbd0,species,macrocalyx,Plagiolobium,,Walp.,,1846,,"Repert. Bot. Syst. 5(3): 434 1846",,,,,,515174-1,wfo-0001058098,3972725,,

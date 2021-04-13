@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea8fc5f8-8fd1-11eb-924d-9cd76263cbd0,genus,Spathacanthus,,,Baill.,1891,"Hist. Pl. 10: 444. 1891.",,,,,,wfo-4000035874,7263780,
-61c5b67e-8fcc-11eb-924d-9cd76263cbd0,species,donnell-smithianus,Spathacanthus,,"Lindau ex Donn.Sm.",1895,"Bot. Gaz. 20: 293 1895",,,,,,wfo-0000433569,8095637,
-61c52394-8fcc-11eb-924d-9cd76263cbd0,species,donnell-smithii,Spathacanthus,,"Lindau ex Donn.Sm.",1895,"Bot. Gaz. 20: 293 1895",,,,,55169-1,wfo-0000433565,8542458,
-61c445aa-8fcc-11eb-924d-9cd76263cbd0,species,hahnianus,Spathacanthus,,Baill.,1891,"Hist. Pl. 10: 444 1891",,,,,241140-2,wfo-0000433560,3775167,
-b04246c2-8fcd-11eb-924d-9cd76263cbd0,species,hoffmannii,Spathacanthus,,Lindau,1895,"Bull. Herb. Boissier 3(8): 370 1895",,,,,241141-2,wfo-0001044287,4938660,
-b0947da2-8fcd-11eb-924d-9cd76263cbd0,species,parviflorus,Spathacanthus,,Leonard,1937,"Proc. Biol. Soc. Wash. 50: 15–16 1937",,,,,241142-2,wfo-0001044944,3775135,
-61c56cf0-8fcc-11eb-924d-9cd76263cbd0,species,simplicifolius,Spathacanthus,,"(Donn.Sm.) Lindau ex Bureau & K.Schum.",1897,"Fl. Bras. 8(2): 294 1897",,,,,,wfo-0000433567,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea8fc5f8-8fd1-11eb-924d-9cd76263cbd0,genus,Spathacanthus,,,Baill.,,1891,,"Hist. Pl. 10: 444. 1891.",,,,,,,wfo-4000035874,7263780,,
+61c5b67e-8fcc-11eb-924d-9cd76263cbd0,species,donnell-smithianus,Spathacanthus,,"Lindau ex Donn.Sm.",,1895,,"Bot. Gaz. 20: 293 1895",,,,,,,wfo-0000433569,8095637,,
+61c52394-8fcc-11eb-924d-9cd76263cbd0,species,donnell-smithii,Spathacanthus,,"Lindau ex Donn.Sm.",,1895,,"Bot. Gaz. 20: 293 1895",,Q55758460,,,,55169-1,wfo-0000433565,8542458,,
+61c445aa-8fcc-11eb-924d-9cd76263cbd0,species,hahnianus,Spathacanthus,,Baill.,,1891,,"Hist. Pl. 10: 444 1891",,,,,,241140-2,wfo-0000433560,3775167,,
+b04246c2-8fcd-11eb-924d-9cd76263cbd0,species,hoffmannii,Spathacanthus,,Lindau,,1895,,"Bull. Herb. Boissier 3(8): 370 1895",,,,,,241141-2,wfo-0001044287,4938660,,
+b0947da2-8fcd-11eb-924d-9cd76263cbd0,species,parviflorus,Spathacanthus,,Leonard,,1937,,"Proc. Biol. Soc. Wash. 50: 15–16 1937",,,,,,241142-2,wfo-0001044944,3775135,,
+61c56cf0-8fcc-11eb-924d-9cd76263cbd0,species,simplicifolius,Spathacanthus,,"(Donn.Sm.) Lindau ex Bureau & K.Schum.",,1897,,"Fl. Bras. 8(2): 294 1897",,,,,,,wfo-0000433567,,,

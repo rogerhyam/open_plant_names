@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea79f78c-8fd1-11eb-924d-9cd76263cbd0,genus,Snowdenia,,,C.E.Hubb.,1929,"Bull. Misc. Inform. Kew 1929(1): 30–31, f. 1929.",,,,,19027-1,wfo-4000035642,4109296,
-63a50bec-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Snowdenia,,"(Hochst.) Pilg.",1938,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,,,4bd522a4-8fcd-11eb-924d-9cd76263cbd0,422023-1,wfo-0000900059,4109339,
-63a53432-8fcd-11eb-924d-9cd76263cbd0,species,microcarpha,Snowdenia,,C.E.Hubb.,1929,"Bull. Misc. Inform. Kew 1929: 31 1929",,,,,422024-1,wfo-0000900060,4109328,
-63a5677c-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Snowdenia,,"(Hochst.) Pilg.",1938,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,,,4bd5420c-8fcd-11eb-924d-9cd76263cbd0,422025-1,wfo-0000900061,4109318,
-63a593c8-8fcd-11eb-924d-9cd76263cbd0,species,petitiana,Snowdenia,,"(A.Rich.) C.E.Hubb.",,"Hooker's Icon. Pl. 37: t. 3647 1967",,,,,422026-1,wfo-0000900062,4109310,
-63a5cb90-8fcd-11eb-924d-9cd76263cbd0,species,polystachya,Snowdenia,,"(Fresen.) Pilg.",1938,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,,,,422027-1,wfo-0000900063,4109303,
-63a5f4bc-8fcd-11eb-924d-9cd76263cbd0,species,scabra,Snowdenia,,"(Pilg.) Pilg.",1938,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,,,4bd60eda-8fcd-11eb-924d-9cd76263cbd0,422028-1,wfo-0000900064,4109295,
-6316b2d0-8fcc-11eb-924d-9cd76263cbd0,species,litoralis,Soala,,Blanco,1837,"Fl. Filip. 437 1837",,,,,75152-1,wfo-0000435211,3158317,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea79f78c-8fd1-11eb-924d-9cd76263cbd0,genus,Snowdenia,,,C.E.Hubb.,,1929,,"Bull. Misc. Inform. Kew 1929(1): 30–31, f. 1929.",,Q55783921,,,,19027-1,wfo-4000035642,4109296,,
+63a50bec-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Snowdenia,,"(Hochst.) Pilg.",,1938,,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,Q55777668,,4bd522a4-8fcd-11eb-924d-9cd76263cbd0,,422023-1,wfo-0000900059,4109339,,
+63a53432-8fcd-11eb-924d-9cd76263cbd0,species,microcarpha,Snowdenia,,C.E.Hubb.,,1929,,"Bull. Misc. Inform. Kew 1929: 31 1929",,Q55783921,,,,422024-1,wfo-0000900060,4109328,,
+63a5677c-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Snowdenia,,"(Hochst.) Pilg.",,1938,,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,Q55777668,,4bd5420c-8fcd-11eb-924d-9cd76263cbd0,,422025-1,wfo-0000900061,4109318,,
+63a593c8-8fcd-11eb-924d-9cd76263cbd0,species,petitiana,Snowdenia,,"(A.Rich.) C.E.Hubb.",,,,"Hooker's Icon. Pl. 37: t. 3647 1967",,,,,,422026-1,wfo-0000900062,4109310,,
+63a5cb90-8fcd-11eb-924d-9cd76263cbd0,species,polystachya,Snowdenia,,"(Fresen.) Pilg.",,1938,,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,Q55777668,,,,422027-1,wfo-0000900063,4109303,,
+63a5f4bc-8fcd-11eb-924d-9cd76263cbd0,species,scabra,Snowdenia,,"(Pilg.) Pilg.",,1938,,"Notizbl. Bot. Gart. Berlin-Dahlem 14: 103 1938",,Q55777668,,4bd60eda-8fcd-11eb-924d-9cd76263cbd0,,422028-1,wfo-0000900064,4109295,,
+6316b2d0-8fcc-11eb-924d-9cd76263cbd0,species,litoralis,Soala,,Blanco,,1837,,"Fl. Filip. 437 1837",,,,,,75152-1,wfo-0000435211,3158317,,

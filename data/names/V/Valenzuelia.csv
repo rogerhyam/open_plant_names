@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebd59a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Valenzuelia,,,,,,,,,,,wfo-4000039952,,
-cd8fa5ae-8fd1-11eb-924d-9cd76263cbd0,species,cristata,Valenzuelia,,Radlk.,1902,"Bull. Herb. Boissier, sér. 2, 2(12): 995 1902",,,,,299313-2,wfo-0001279063,7264838,
-572cb32a-8fcc-11eb-924d-9cd76263cbd0,species,dissecta,Valenzuelia,,"Covas & Burkart",1944,"Darwiniana 6: 604 1944",,,,,299315-2,wfo-0000420140,5577146,
-572b5ebc-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Valenzuelia,,"Bertero ex Cambess.",1834,"Nouv. Ann. Mus. Hist. Nat. 3: 236 1834",,,,,785599-1,wfo-0000420132,5577143,
-5945d8f8-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Valeranda,,Kuntze,1898,"Revis. Gen. Pl. 3(2): 202 1898",,,,,371320-1,wfo-0000422552,3844493,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebd59a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Valenzuelia,,,,,,,,,,,,,,wfo-4000039952,,,
+cd8fa5ae-8fd1-11eb-924d-9cd76263cbd0,species,cristata,Valenzuelia,,Radlk.,,1902,,"Bull. Herb. Boissier, sér. 2, 2(12): 995 1902",,,,,,299313-2,wfo-0001279063,7264838,,
+572cb32a-8fcc-11eb-924d-9cd76263cbd0,species,dissecta,Valenzuelia,,"Covas & Burkart",,1944,,"Darwiniana 6: 604 1944",,Q104174095,,,,299315-2,wfo-0000420140,5577146,,
+572b5ebc-8fcc-11eb-924d-9cd76263cbd0,species,trinervis,Valenzuelia,,"Bertero ex Cambess.",,1834,,"Nouv. Ann. Mus. Hist. Nat. 3: 236 1834",,,,,,785599-1,wfo-0000420132,5577143,,
+5945d8f8-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Valeranda,,Kuntze,,1898,,"Revis. Gen. Pl. 3(2): 202 1898",,,,,,371320-1,wfo-0000422552,3844493,,

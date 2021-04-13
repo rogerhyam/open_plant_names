@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32e2cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Ectrosiopsis,,,"(Ohwi) Ohwi ex Jansen",1952,"Acta Bot. Neerl. 1(3): 474. 1952. (1 Dec 1952)",,,,,,wfo-4000013008,4117165,
-51737422-8fcd-11eb-924d-9cd76263cbd0,species,aruensis,Ectrosiopsis,,Jansen,1953,"Reinwardtia 2: 269 1953",,,,,399805-1,wfo-0000865514,4117196,
-51738e58-8fcd-11eb-924d-9cd76263cbd0,species,curvifolia,Ectrosiopsis,,Jansen,1952,"Acta Bot. Neerl. 1: 474 1952",,,,,399806-1,wfo-0000865515,4117188,
-5173a884-8fcd-11eb-924d-9cd76263cbd0,species,lasioclada,Ectrosiopsis,,"(Merr.) Jansen",1953,"Reinwardtia 2: 268 1953",,,,52884a0e-8fcd-11eb-924d-9cd76263cbd0,399807-1,wfo-0000865516,4117180,
-5173c5bc-8fcd-11eb-924d-9cd76263cbd0,species,subaristata,Ectrosiopsis,,"(Chase) Jansen",1953,"Reinwardtia 2: 269 1953",,,,52ca02aa-8fcd-11eb-924d-9cd76263cbd0,399808-1,wfo-0000865517,4117174,
-5173e07e-8fcd-11eb-924d-9cd76263cbd0,species,subtriflora,Ectrosiopsis,,"(Ohwi) Jansen",1953,"Reinwardtia 2: 268 1953",,,,5173173e-8fcd-11eb-924d-9cd76263cbd0,399809-1,wfo-0000865518,4117164,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32e2cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Ectrosiopsis,,,"(Ohwi) Ohwi ex Jansen",,1952,,"Acta Bot. Neerl. 1(3): 474. 1952. (1 Dec 1952)",,,,,,,wfo-4000013008,4117165,,
+51737422-8fcd-11eb-924d-9cd76263cbd0,species,aruensis,Ectrosiopsis,,Jansen,,1953,,"Reinwardtia 2: 269 1953",,Q94139764,,,,399805-1,wfo-0000865514,4117196,,
+51738e58-8fcd-11eb-924d-9cd76263cbd0,species,curvifolia,Ectrosiopsis,,Jansen,,1952,,"Acta Bot. Neerl. 1: 474 1952",,Q55760814,,,,399806-1,wfo-0000865515,4117188,,
+5173a884-8fcd-11eb-924d-9cd76263cbd0,species,lasioclada,Ectrosiopsis,,"(Merr.) Jansen",,1953,,"Reinwardtia 2: 268 1953",,Q94139764,,52884a0e-8fcd-11eb-924d-9cd76263cbd0,,399807-1,wfo-0000865516,4117180,,
+5173c5bc-8fcd-11eb-924d-9cd76263cbd0,species,subaristata,Ectrosiopsis,,"(Chase) Jansen",,1953,,"Reinwardtia 2: 269 1953",,Q94139764,,52ca02aa-8fcd-11eb-924d-9cd76263cbd0,,399808-1,wfo-0000865517,4117174,,
+5173e07e-8fcd-11eb-924d-9cd76263cbd0,species,subtriflora,Ectrosiopsis,,"(Ohwi) Jansen",,1953,,"Reinwardtia 2: 268 1953",,Q94139764,,5173173e-8fcd-11eb-924d-9cd76263cbd0,,399809-1,wfo-0000865518,4117164,,

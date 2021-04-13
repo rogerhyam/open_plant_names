@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33a75e6-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiotis,,,DC.,,,,,,,22350-1,wfo-4000013167,2968277,
-77f98896-8fc5-11eb-924d-9cd76263cbd0,species,monophylla,Eleiotis,,"(Burm.f.) DC.",,,,,,db0243b0-8fc5-11eb-924d-9cd76263cbd0,,wfo-0000193230,2968285,
-7675f00e-8fc5-11eb-924d-9cd76263cbd0,species,monophyllos,Eleiotis,,"(Burm.f.) DC.",,,,,,db0ecd24-8fc5-11eb-924d-9cd76263cbd0,,wfo-0000193199,11047159,
-d781a3f0-8fc7-11eb-924d-9cd76263cbd0,species,rottleri,Eleiotis,,"Wight & Arn.",,,,,,,,wfo-0000204758,2968278,
-7755ecea-8fc5-11eb-924d-9cd76263cbd0,species,sororia,Eleiotis,,"(L.) DC.",,,,,,,,wfo-0000193217,2968282,
-d7aa2032-8fc7-11eb-924d-9cd76263cbd0,species,trifoliata,Eleiotis,,T.Cooke,,,,,,,,wfo-0000204761,2968279,
-ed8df450-8fcc-11eb-924d-9cd76263cbd0,species,trifoliolata,Eleiotis,,T.Cooke,1902,"Fl. Bombay 1: 342 1902",,,,,,wfo-0000666296,3971157,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33a75e6-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiotis,,,DC.,,,,,,,,,,22350-1,wfo-4000013167,2968277,,
+77f98896-8fc5-11eb-924d-9cd76263cbd0,species,monophylla,Eleiotis,,"(Burm.f.) DC.",,,,,,,,db0243b0-8fc5-11eb-924d-9cd76263cbd0,,,wfo-0000193230,2968285,,
+7675f00e-8fc5-11eb-924d-9cd76263cbd0,species,monophyllos,Eleiotis,,"(Burm.f.) DC.",,,,,,,,db0ecd24-8fc5-11eb-924d-9cd76263cbd0,,,wfo-0000193199,11047159,,
+d781a3f0-8fc7-11eb-924d-9cd76263cbd0,species,rottleri,Eleiotis,,"Wight & Arn.",,,,,,,,,,,wfo-0000204758,2968278,,
+7755ecea-8fc5-11eb-924d-9cd76263cbd0,species,sororia,Eleiotis,,"(L.) DC.",,,,,,,,,,,wfo-0000193217,2968282,,
+d7aa2032-8fc7-11eb-924d-9cd76263cbd0,species,trifoliata,Eleiotis,,T.Cooke,,,,,,,,,,,wfo-0000204761,2968279,,
+ed8df450-8fcc-11eb-924d-9cd76263cbd0,species,trifoliolata,Eleiotis,,T.Cooke,,1902,,"Fl. Bombay 1: 342 1902",,,,,,,wfo-0000666296,3971157,,

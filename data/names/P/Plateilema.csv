@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a47a2c-8fd1-11eb-924d-9cd76263cbd0,genus,Plateilema,,,Cockerell,,,,,,,10583-1,wfo-4000030064,3092832,
-85bb619c-8fb2-11eb-924d-9cd76263cbd0,species,palmeri,Plateilema,,"(A.Gray) Cockerell",1904,"462 1904",,,,,201703-2,wfo-0000026972,3092833,
-f64102fa-8fcb-11eb-924d-9cd76263cbd0,species,chiragua,Platenia,,H.Karst.,1856,"Linnaea 28: 250 1856",,,,,669182-1,wfo-0000274771,5293846,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a47a2c-8fd1-11eb-924d-9cd76263cbd0,genus,Plateilema,,,Cockerell,,,,,,,,,,10583-1,wfo-4000030064,3092832,,
+85bb619c-8fb2-11eb-924d-9cd76263cbd0,species,palmeri,Plateilema,,"(A.Gray) Cockerell",,1904,,"462 1904",,Q55766835,,,,201703-2,wfo-0000026972,3092833,,
+f64102fa-8fcb-11eb-924d-9cd76263cbd0,species,chiragua,Platenia,,H.Karst.,,1856,,"Linnaea 28: 250 1856",,,,,,669182-1,wfo-0000274771,5293846,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e852c7ea-8fd1-11eb-924d-9cd76263cbd0,genus,Phajus,,,,,,,,,,,wfo-4000029075,,
-c4bcb98a-8fd1-11eb-924d-9cd76263cbd0,species,neocaledonicus,Phajus,,Rendle,1921,"J. Linn. Soc., Bot. 45: 249 1921",,,,,,wfo-0001262785,7392357,
-c3ed5b2c-8fd1-11eb-924d-9cd76263cbd0,species,robertsii,Phajus,,F.Muell.,1883,"South. Sci. Rec. 3: 265 1883",,,,,,wfo-0001261341,8212705,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e852c7ea-8fd1-11eb-924d-9cd76263cbd0,genus,Phajus,,,,,,,,,,,,,,wfo-4000029075,,,
+c4bcb98a-8fd1-11eb-924d-9cd76263cbd0,species,neocaledonicus,Phajus,,Rendle,,1921,,"J. Linn. Soc., Bot. 45: 249 1921",,,,,,,wfo-0001262785,7392357,,
+c3ed5b2c-8fd1-11eb-924d-9cd76263cbd0,species,robertsii,Phajus,,F.Muell.,,1883,,"South. Sci. Rec. 3: 265 1883",,,,,,,wfo-0001261341,8212705,,

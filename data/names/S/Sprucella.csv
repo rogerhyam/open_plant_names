@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaa81978-8fd1-11eb-924d-9cd76263cbd0,genus,Sprucella,,,Stephani,1886,"Bot. Jahrb. Syst. 8: 92. 1886.",,,,,,wfo-4000036197,3229872,
-0ee5a586-8fcc-11eb-924d-9cd76263cbd0,species,cyrtobotrya,Sprucella,,"(Mart. ex Miq.) Pierre",1890,"Not. Bot. 27 1890",,,,,243084-2,wfo-0000313571,5333952,
-fceecb8a-8fcd-11eb-924d-9cd76263cbd0,species,moenkemeyeri,Sprucella,,Stephani,1886,"Bot. Jahrb. Syst. 8: 92 1886",,,,,,wfo-0001210268,8197148,
-fceee4da-8fcd-11eb-924d-9cd76263cbd0,species,succida,Sprucella,,"(Mitt.) Stephani",1891,"Hedwigia 30: 214 1891",,,,f9d5d4c0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001210269,7815159,
-fcef00d2-8fcd-11eb-924d-9cd76263cbd0,species,ubangiensis,Sprucella,,"(Stephani) Fulford & J.Taylor",1959,"Brittonia 11: 81 1959",,,,,,wfo-0001210270,8006744,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaa81978-8fd1-11eb-924d-9cd76263cbd0,genus,Sprucella,,,Stephani,,1886,,"Bot. Jahrb. Syst. 8: 92. 1886.",,,,,,,wfo-4000036197,3229872,,
+0ee5a586-8fcc-11eb-924d-9cd76263cbd0,species,cyrtobotrya,Sprucella,,"(Mart. ex Miq.) Pierre",,1890,,"Not. Bot. 27 1890",,,,,,243084-2,wfo-0000313571,5333952,,
+fceecb8a-8fcd-11eb-924d-9cd76263cbd0,species,moenkemeyeri,Sprucella,,Stephani,,1886,,"Bot. Jahrb. Syst. 8: 92 1886",,,,,,,wfo-0001210268,8197148,,
+fceee4da-8fcd-11eb-924d-9cd76263cbd0,species,succida,Sprucella,,"(Mitt.) Stephani",,1891,,"Hedwigia 30: 214 1891",,,,f9d5d4c0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210269,7815159,,
+fcef00d2-8fcd-11eb-924d-9cd76263cbd0,species,ubangiensis,Sprucella,,"(Stephani) Fulford & J.Taylor",,1959,,"Brittonia 11: 81 1959",,,,,,,wfo-0001210270,8006744,,

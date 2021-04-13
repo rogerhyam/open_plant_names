@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e457ae3a-8fd1-11eb-924d-9cd76263cbd0,genus,Hagidryas,,,,,,,,,,,wfo-4000016707,3013393,
-98a8216c-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Hagidryas,,Griseb.,1839,"Reise durch Rumelien und nach Brussa im Jahre 1839 ; 1841 311 1841",,,,,,wfo-0000994921,3013394,
-a18735b8-8fb2-11eb-924d-9cd76263cbd0,species,amalecitana,Hagioseris,,Boiss.,1849,"36 1849",,,,,,wfo-0000030250,3093274,
-01e85118-8fb2-11eb-924d-9cd76263cbd0,species,galilaea,Hagioseris,,Boiss.,1849,"36 1849",,,,,,wfo-0000003977,3093366,
-809c3a32-8fb3-11eb-924d-9cd76263cbd0,variety,diffusa,Hagioseris,galilaea,Boiss.,1875,"P.E. Boissier, Fl. Orient. 3. 1875 742 1875",,,,,,wfo-0000049546,6296189,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e457ae3a-8fd1-11eb-924d-9cd76263cbd0,genus,Hagidryas,,,,,,,,,,,,,,wfo-4000016707,3013393,,
+98a8216c-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Hagidryas,,Griseb.,,1839,,"Reise durch Rumelien und nach Brussa im Jahre 1839 ; 1841 311 1841",,,,,,,wfo-0000994921,3013394,,
+a18735b8-8fb2-11eb-924d-9cd76263cbd0,species,amalecitana,Hagioseris,,Boiss.,,1849,,"36 1849",,,,,,,wfo-0000030250,3093274,,
+01e85118-8fb2-11eb-924d-9cd76263cbd0,species,galilaea,Hagioseris,,Boiss.,,1849,,"36 1849",,,,,,,wfo-0000003977,3093366,,
+809c3a32-8fb3-11eb-924d-9cd76263cbd0,variety,diffusa,Hagioseris,galilaea,Boiss.,,1875,,"P.E. Boissier, Fl. Orient. 3. 1875 742 1875",,,,,,,wfo-0000049546,6296189,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e205dcd8-8fd1-11eb-924d-9cd76263cbd0,genus,Coptidium,,,"(Prantl) Á.Löve & D.Löve ex Tzvelev",,,,,,,1207451-2,wfo-4000009232,,
-d252177a-8fcc-11eb-924d-9cd76263cbd0,species,lapponicum,Coptidium,,"(L.) Gand. ex Rydb.",1917,"Fl. Rocky Mts. 302 1917",,,,,60453733-2,wfo-0000619838,3033436,
-d66aedae-8fcd-11eb-924d-9cd76263cbd0,species,lapponicum,Coptidium,,Gand.,,,,,,,,wfo-0001129241,3033436,
-d25237e6-8fcc-11eb-924d-9cd76263cbd0,species,pallasii,Coptidium,,"(Schltdl.) Tzvelev",1994,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. n.s., 99(5): 64 1994",,,,733d542a-8fcc-11eb-924d-9cd76263cbd0,983087-1,wfo-0000619839,3925321,
-d66b0974-8fcd-11eb-924d-9cd76263cbd0,species,pallasii,Coptidium,,"Á.Löve & D.Löve",,,,,,,,wfo-0001129242,8082561,
-8d6aee52-8fcc-11eb-924d-9cd76263cbd0,species,spitsbergense,Coptidium,,"(Hadač) Luferov & Prob.",2006,"Fl. Ross. Dal'nego Vostoka 48 2006",,,,,77079620-1,wfo-0000506881,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e205dcd8-8fd1-11eb-924d-9cd76263cbd0,genus,Coptidium,,,"(Prantl) Á.Löve & D.Löve ex Tzvelev",,,,,,,,,,1207451-2,wfo-4000009232,,,
+d66aedae-8fcd-11eb-924d-9cd76263cbd0,species,lapponicum,Coptidium,,Gand.,,,,,,,,,,,wfo-0001129241,3033436,,
+d252177a-8fcc-11eb-924d-9cd76263cbd0,species,lapponicum,Coptidium,,"(L.) Gand. ex Rydb.",,1917,,"Fl. Rocky Mts. 302 1917",,,,,,60453733-2,wfo-0000619838,3033436,,
+d66b0974-8fcd-11eb-924d-9cd76263cbd0,species,pallasii,Coptidium,,"Á.Löve & D.Löve",,,,,,,,,,,wfo-0001129242,8082561,,
+d25237e6-8fcc-11eb-924d-9cd76263cbd0,species,pallasii,Coptidium,,"(Schltdl.) Tzvelev",,1994,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. n.s., 99(5): 64 1994",,,,733d542a-8fcc-11eb-924d-9cd76263cbd0,,983087-1,wfo-0000619839,3925321,,
+8d6aee52-8fcc-11eb-924d-9cd76263cbd0,species,spitsbergense,Coptidium,,"(Hadač) Luferov & Prob.",,2006,,"Fl. Ross. Dal'nego Vostoka 48 2006",,,,,,77079620-1,wfo-0000506881,,,

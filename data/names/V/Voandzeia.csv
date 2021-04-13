@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebf92ac4-8fd1-11eb-924d-9cd76263cbd0,genus,Voandzeia,,,,,,,,,,,wfo-4000040401,7301969,
-5636735c-8fcc-11eb-924d-9cd76263cbd0,species,geocarpa,Voandzeia,,"(Harms) A.Chev.",1919,"Cat. Pl. Jard. Bot. Saigon 24 1919",,,,4d47779a-8fc3-11eb-924d-9cd76263cbd0,525593-1,wfo-0000418747,3969931,
-b72ee62a-8fcd-11eb-924d-9cd76263cbd0,species,poissoni,Voandzeia,,A.Chev.,1910,"Compt. Rend. Hebd. Séances Acad. Sci. 151: 85 1910",,,,,,wfo-0001059996,,
-add896f6-8fc4-11eb-924d-9cd76263cbd0,species,subterranea,Voandzeia,,"(L.) DC.",,,,,,29348098-8fc6-11eb-924d-9cd76263cbd0,,wfo-0000189277,,
-ad5139f4-8fc4-11eb-924d-9cd76263cbd0,species,subterranea,Voandzeia,,"(L.) Thouars",,,,,,29348098-8fc6-11eb-924d-9cd76263cbd0,,wfo-0000189266,7548982,
-b8005e94-8fcd-11eb-924d-9cd76263cbd0,form,spontanea,Voandzeia,subterranea,Harms,1912,"Notizbl. Königl. Bot. Gart. Berlin 5: 257 1912",,,,,,wfo-0001061866,7737290,
-b7ee83e0-8fcd-11eb-924d-9cd76263cbd0,variety,spontanea,Voandzeia,subterranea,"(Harms) Hepper",1962,"Kew Bull. 16(3): 400 1962",,,,b8005e94-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001061708,7737290,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebf92ac4-8fd1-11eb-924d-9cd76263cbd0,genus,Voandzeia,,,,,,,,,,,,,,wfo-4000040401,7301969,,
+5636735c-8fcc-11eb-924d-9cd76263cbd0,species,geocarpa,Voandzeia,,"(Harms) A.Chev.",,1919,,"Cat. Pl. Jard. Bot. Saigon 24 1919",,,,4d47779a-8fc3-11eb-924d-9cd76263cbd0,,525593-1,wfo-0000418747,3969931,,
+b72ee62a-8fcd-11eb-924d-9cd76263cbd0,species,poissoni,Voandzeia,,A.Chev.,,1910,,"Compt. Rend. Hebd. Séances Acad. Sci. 151: 85 1910",,,,,,,wfo-0001059996,,,
+add896f6-8fc4-11eb-924d-9cd76263cbd0,species,subterranea,Voandzeia,,"(L.) DC.",,,,,,,,29348098-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000189277,,,
+ad5139f4-8fc4-11eb-924d-9cd76263cbd0,species,subterranea,Voandzeia,,"(L.) Thouars",,,,,,,,29348098-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000189266,7548982,,
+b8005e94-8fcd-11eb-924d-9cd76263cbd0,form,spontanea,Voandzeia,subterranea,Harms,,1912,,"Notizbl. Königl. Bot. Gart. Berlin 5: 257 1912",,,,,,,wfo-0001061866,7737290,,
+b7ee83e0-8fcd-11eb-924d-9cd76263cbd0,variety,spontanea,Voandzeia,subterranea,"(Harms) Hepper",,1962,,"Kew Bull. 16(3): 400 1962",,,,b8005e94-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001061708,7737290,,

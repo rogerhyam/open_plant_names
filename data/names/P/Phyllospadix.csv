@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e873cf08-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllospadix,,,Hook.,1838,"Fl. Bor.-Amer. 2: 171. 1838[1840].",,,,,27848-1,wfo-4000029466,2863952,
-0bc22cd4-8fcd-11eb-924d-9cd76263cbd0,species,iwatensis,Phyllospadix,,Makino,1931,"J. Jap. Bot. 7: 15 1931",,,,,699622-1,wfo-0000719017,2863956,
-2514d5ba-8fcd-11eb-924d-9cd76263cbd0,species,japonicus,Phyllospadix,,Makino,1897,"Bot. Mag. (Tokyo) 11: 137 1897",,,,,603096-1,wfo-0000769707,2863953,
-0f441e1c-8fcd-11eb-924d-9cd76263cbd0,species,juzepczukii,Phyllospadix,,Tzvelev,1981,"Novosti Sist. Vyssh. Rast. 18: 55 1981",,,,,898406-1,wfo-0000725405,2863955,
-0f1f3958-8fcd-11eb-924d-9cd76263cbd0,species,ruprechtii,Phyllospadix,,Tzvelev,1981,"Novosti Sist. Vyssh. Rast. 18: 56 1981",,,,,195278-2,wfo-0000725151,2863959,
-25150f8a-8fcd-11eb-924d-9cd76263cbd0,species,scouleri,Phyllospadix,,Hook.,1838,"Fl. Bor.-Amer. 2: 171 1838",,,,,603097-1,wfo-0000769709,2863958,
-25152e0c-8fcd-11eb-924d-9cd76263cbd0,species,serrulatus,Phyllospadix,,"Rupr. ex Asch.",1868,"Linnaea 35: 169 1868",,,,,603098-1,wfo-0000769710,2863957,
-1d5426aa-8fcd-11eb-924d-9cd76263cbd0,species,torreyi,Phyllospadix,,S.Watson,1879,"Proc. Amer. Acad. Arts 14: 303 1879",,,,,603099-1,wfo-0000753953,2863954,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e873cf08-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllospadix,,,Hook.,,1838,,"Fl. Bor.-Amer. 2: 171. 1838[1840].",,,,,,27848-1,wfo-4000029466,2863952,,
+0bc22cd4-8fcd-11eb-924d-9cd76263cbd0,species,iwatensis,Phyllospadix,,Makino,,1931,,"J. Jap. Bot. 7: 15 1931",,Q104821487,,,,699622-1,wfo-0000719017,2863956,,
+2514d5ba-8fcd-11eb-924d-9cd76263cbd0,species,japonicus,Phyllospadix,,Makino,,1897,,"Bot. Mag. (Tokyo) 11: 137 1897",,,,,,603096-1,wfo-0000769707,2863953,,
+0f441e1c-8fcd-11eb-924d-9cd76263cbd0,species,juzepczukii,Phyllospadix,,Tzvelev,,1981,,"Novosti Sist. Vyssh. Rast. 18: 55 1981",,,,,,898406-1,wfo-0000725405,2863955,,
+0f1f3958-8fcd-11eb-924d-9cd76263cbd0,species,ruprechtii,Phyllospadix,,Tzvelev,,1981,,"Novosti Sist. Vyssh. Rast. 18: 56 1981",,,,,,195278-2,wfo-0000725151,2863959,,
+25150f8a-8fcd-11eb-924d-9cd76263cbd0,species,scouleri,Phyllospadix,,Hook.,,1838,,"Fl. Bor.-Amer. 2: 171 1838",,,,,,603097-1,wfo-0000769709,2863958,,
+25152e0c-8fcd-11eb-924d-9cd76263cbd0,species,serrulatus,Phyllospadix,,"Rupr. ex Asch.",,1868,,"Linnaea 35: 169 1868",,,,,,603098-1,wfo-0000769710,2863957,,
+1d5426aa-8fcd-11eb-924d-9cd76263cbd0,species,torreyi,Phyllospadix,,S.Watson,,1879,,"Proc. Amer. Acad. Arts 14: 303 1879",,,,,,603099-1,wfo-0000753953,2863954,,

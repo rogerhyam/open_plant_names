@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfed979c-8fd1-11eb-924d-9cd76263cbd0,genus,Auchera,,,,,,,,,,,wfo-4000003636,7338905,
-72e14b92-8fba-11eb-924d-9cd76263cbd0,species,floribunda,Auchera,,Regel,1860,1860,,,,,182982-1,wfo-0000126723,4253511,
-6c2099dc-8fb2-11eb-924d-9cd76263cbd0,species,orientalis,Auchera,,DC.,1838,1838,,,,,,wfo-0000024059,4253505,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfed979c-8fd1-11eb-924d-9cd76263cbd0,genus,Auchera,,,,,,,,,,,,,,wfo-4000003636,7338905,,
+72e14b92-8fba-11eb-924d-9cd76263cbd0,species,floribunda,Auchera,,Regel,,1860,,1860,,,,,,182982-1,wfo-0000126723,4253511,,
+6c2099dc-8fb2-11eb-924d-9cd76263cbd0,species,orientalis,Auchera,,DC.,,1838,,1838,,,,,,,wfo-0000024059,4253505,,

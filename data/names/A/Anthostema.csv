@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8b15ae-8fd1-11eb-924d-9cd76263cbd0,genus,Anthostema,,,A.Juss.,1824,"Euphorb. Gen. 56. 1824.",,,,,15032-1,wfo-4000002461,3055960,
-16f8d3ac-8fcb-11eb-924d-9cd76263cbd0,species,aubryanum,Anthostema,,Baill.,1865,"Adansonia 5: 366 1865",,,,,,wfo-0000220820,3055962,
-1785d0a4-8fcb-11eb-924d-9cd76263cbd0,species,madagascariense,Anthostema,,Baill.,1858,"Étude Euphorb. 60, 544 1858",,,,,338813-1,wfo-0000220830,3055963,
-1828200c-8fcb-11eb-924d-9cd76263cbd0,species,senegalense,Anthostema,,A.Juss.,1824,"Euphorb. Gen. 117 1824",,,,,338814-1,wfo-0000220841,3055961,
-a025ad34-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Anthostyrax,,Pierre,1892,"Fl. Forest. Cochinch. t. 260 1892",,,,,826274-1,wfo-0000538599,3647146,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8b15ae-8fd1-11eb-924d-9cd76263cbd0,genus,Anthostema,,,A.Juss.,,1824,,"Euphorb. Gen. 56. 1824.",,,,,,15032-1,wfo-4000002461,3055960,,
+16f8d3ac-8fcb-11eb-924d-9cd76263cbd0,species,aubryanum,Anthostema,,Baill.,,1865,,"Adansonia 5: 366 1865",,,,,,,wfo-0000220820,3055962,,
+1785d0a4-8fcb-11eb-924d-9cd76263cbd0,species,madagascariense,Anthostema,,Baill.,,1858,,"Étude Euphorb. 60, 544 1858",,,,,,338813-1,wfo-0000220830,3055963,,
+1828200c-8fcb-11eb-924d-9cd76263cbd0,species,senegalense,Anthostema,,A.Juss.,,1824,,"Euphorb. Gen. 117 1824",,,,,,338814-1,wfo-0000220841,3055961,,

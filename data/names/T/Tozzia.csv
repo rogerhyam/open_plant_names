@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb70909c-8fd1-11eb-924d-9cd76263cbd0,genus,Tozzia,,,L.,1753,"Sp. Pl. 2: 607. 1753. (1 May 1753)",,,,,38068-1,wfo-4000038679,7331622,
-dabcc742-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Tozzia,,L.,1753,"Sp. Pl. 2: 607 1753",,,,,810502-1,wfo-0001138832,3724824,
-dabce3f8-8fcd-11eb-924d-9cd76263cbd0,subspecies,carpathica,Tozzia,alpina,Dostál,,,,,,,,wfo-0001138833,8113822,
-70a7c5f6-8fcc-11eb-924d-9cd76263cbd0,species,carpathica,Tozzia,,Woł.,1892,"Spraw. Komis. Fizjogr. 27: 216 1892",,,,,810503-1,wfo-0000458589,3724818,
-dabd01d0-8fcd-11eb-924d-9cd76263cbd0,species,carpathica,Tozzia,,Woloszack,,,,,,,,wfo-0001138834,3724818,
-70a374d8-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Tozzia,,"W.Schaffn. ex Moldenke",1936,"Repert. Spec. Nov. Regni Veg. 41: 14 1936",,,,,810504-1,wfo-0000458562,3724807,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb70909c-8fd1-11eb-924d-9cd76263cbd0,genus,Tozzia,,,L.,,1753,,"Sp. Pl. 2: 607. 1753. (1 May 1753)",,,,,,38068-1,wfo-4000038679,7331622,,
+dabcc742-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Tozzia,,L.,,1753,,"Sp. Pl. 2: 607 1753",,,,,,810502-1,wfo-0001138832,3724824,,
+dabce3f8-8fcd-11eb-924d-9cd76263cbd0,subspecies,carpathica,Tozzia,alpina,Dostál,,,,,,,,,,,wfo-0001138833,8113822,,
+70a7c5f6-8fcc-11eb-924d-9cd76263cbd0,species,carpathica,Tozzia,,Woł.,,1892,,"Spraw. Komis. Fizjogr. 27: 216 1892",,,,,,810503-1,wfo-0000458589,3724818,,
+dabd01d0-8fcd-11eb-924d-9cd76263cbd0,species,carpathica,Tozzia,,Woloszack,,,,,,,,,,,wfo-0001138834,3724818,,
+70a374d8-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Tozzia,,"W.Schaffn. ex Moldenke",,1936,,"Repert. Spec. Nov. Regni Veg. 41: 14 1936",,Q55754481,,,,810504-1,wfo-0000458562,3724807,,

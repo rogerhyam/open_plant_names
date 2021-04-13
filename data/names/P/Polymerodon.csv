@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8df2b90-8fd1-11eb-924d-9cd76263cbd0,genus,Polymerodon,,,Herzog,1909,"Beih. Bot. Centralbl., Abt. 2 26(2): 48. 1909.",,,,,,wfo-4000030753,2675210,
-e4e55c2a-8fcd-11eb-924d-9cd76263cbd0,species,andinus,Polymerodon,,Herzog,1909,"Beih. Bot. Centralbl., Abt. 2 26(2): 48. pl. 1 1909",,,,,,wfo-0001160372,2675211,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8df2b90-8fd1-11eb-924d-9cd76263cbd0,genus,Polymerodon,,,Herzog,,1909,,"Beih. Bot. Centralbl., Abt. 2 26(2): 48. 1909.",,,,,,,wfo-4000030753,2675210,,
+e4e55c2a-8fcd-11eb-924d-9cd76263cbd0,species,andinus,Polymerodon,,Herzog,,1909,,"Beih. Bot. Centralbl., Abt. 2 26(2): 48. pl. 1 1909",,,,,,,wfo-0001160372,2675211,,

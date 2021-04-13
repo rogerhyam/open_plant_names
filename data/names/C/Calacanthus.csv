@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0f8585c-8fd1-11eb-924d-9cd76263cbd0,genus,Calacanthus,,,"T.Anderson ex Benth.",,"Gen. Pl. 2: 1088. 1876.",,,,,438-1,wfo-4000005932,8168743,
-b9867600-8fcc-11eb-924d-9cd76263cbd0,species,dalzellianus,Calacanthus,,"T.Anderson ex Benth.",,"Gen. Pl. 2: 1088 1876",,,,,,wfo-0000578770,,
-b9872924-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Calacanthus,,"(Dalzell) Radlk.",1884,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 13: 279 1884 publ. 1883",,,,,46706-1,wfo-0000578771,7842603,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0f8585c-8fd1-11eb-924d-9cd76263cbd0,genus,Calacanthus,,,"T.Anderson ex Benth.",,,,"Gen. Pl. 2: 1088. 1876.",,,,,,438-1,wfo-4000005932,8168743,,
+b9867600-8fcc-11eb-924d-9cd76263cbd0,species,dalzellianus,Calacanthus,,"T.Anderson ex Benth.",,,,"Gen. Pl. 2: 1088 1876",,,,,,,wfo-0000578770,,,
+b9872924-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Calacanthus,,"(Dalzell) Radlk.",,1884,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 13: 279 1884 publ. 1883",,,,,,46706-1,wfo-0000578771,7842603,,

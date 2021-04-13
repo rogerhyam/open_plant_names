@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfd00998-8fd1-11eb-924d-9cd76263cbd0,genus,Ascotheca,,,Heine,1966,"Fl. Gabon 13: 209. 1966.",,,,,396-1,wfo-4000003259,7263832,
-a80ce918-8fcc-11eb-924d-9cd76263cbd0,species,paucinervia,Ascotheca,,"(T.Anderson ex C.B.Clarke) Heine",1966,"in Fl. Gabon 13: 210 1966",,,,b0852262-8fcd-11eb-924d-9cd76263cbd0,45699-1,wfo-0000551925,3775488,
-74930ef4-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Ascra,,Schott,1827,"Syst. Veg. 4(2): 407 1827",,,,,779377-1,wfo-0000920081,8217736,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfd00998-8fd1-11eb-924d-9cd76263cbd0,genus,Ascotheca,,,Heine,,1966,,"Fl. Gabon 13: 209. 1966.",,,,,,396-1,wfo-4000003259,7263832,,
+a80ce918-8fcc-11eb-924d-9cd76263cbd0,species,paucinervia,Ascotheca,,"(T.Anderson ex C.B.Clarke) Heine",,1966,,"in Fl. Gabon 13: 210 1966",,,,b0852262-8fcd-11eb-924d-9cd76263cbd0,,45699-1,wfo-0000551925,3775488,,

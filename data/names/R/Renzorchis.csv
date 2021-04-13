@@ -1,9 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e98cc5f2-8fd1-11eb-924d-9cd76263cbd0,genus,Renzorchis,,,"Szlach. & Olszewski",1998,"Adansonia, sér. 3, 20(2): 324. 1998.",,,,,,wfo-4000032767,2807745,
-038bda3e-8fcc-11eb-924d-9cd76263cbd0,species,pseudoplatycoryne,Renzorchis,,"Szlach. & Olszewski",1998,"Adansonia III, 20: 326 1998",,,,,1005069-1,wfo-0000295572,2829515,
-038c0130-8fcc-11eb-924d-9cd76263cbd0,species,singularis,Renzorchis,,"(Summerh.) Olszewski & Szlach.",2000,"Ann. Bot. Fenn. 37: 299 2000",,,,90f9c77c-8fcd-11eb-924d-9cd76263cbd0,1018870-1,wfo-0000295573,2829144,
-4b0bf5e2-8fcc-11eb-924d-9cd76263cbd0,species,calyptrata,Rephesis,,Raf.,1838,"Sylva Tellur. 59 1838",,,,,856461-1,wfo-0000404331,3763692,
-4b0d6d64-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Rephesis,,Raf.,1838,"Sylva Tellur. 59 1838",,,,,856462-1,wfo-0000404338,3763682,
-038c94f6-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Reptonia,,A.DC.,1844,"Prodr. 8: 153 1844",,,,,589867-1,wfo-0000295575,2887181,
-038cb350-8fcc-11eb-924d-9cd76263cbd0,species,laurina,Reptonia,,Benth.,1861,"Fl. Hongk. 208 1861",,,,,589868-1,wfo-0000295576,2883665,
-038ccf16-8fcc-11eb-924d-9cd76263cbd0,species,mascatensis,Reptonia,,"(A.DC.) Radlk. ex O.Schwartz",1939,"Fl. Trop. Arab. 182 1939",,,,e45e0e5c-8fcb-11eb-924d-9cd76263cbd0,789356-1,wfo-0000295577,2887175,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e98cc5f2-8fd1-11eb-924d-9cd76263cbd0,genus,Renzorchis,,,"Szlach. & Olszewski",,1998,,"Adansonia, sér. 3, 20(2): 324. 1998.",,,,,,,wfo-4000032767,2807745,,
+038bda3e-8fcc-11eb-924d-9cd76263cbd0,species,pseudoplatycoryne,Renzorchis,,"Szlach. & Olszewski",,1998,,"Adansonia III, 20: 326 1998",,,,,,1005069-1,wfo-0000295572,2829515,,
+038c0130-8fcc-11eb-924d-9cd76263cbd0,species,singularis,Renzorchis,,"(Summerh.) Olszewski & Szlach.",,2000,,"Ann. Bot. Fenn. 37: 299 2000",,Q42900115,,90f9c77c-8fcd-11eb-924d-9cd76263cbd0,,1018870-1,wfo-0000295573,2829144,,

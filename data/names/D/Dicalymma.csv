@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2aaa204-8fd1-11eb-924d-9cd76263cbd0,genus,Dicalymma,,,,,,,,,,,wfo-4000011368,7337821,
-2dc08922-8fb2-11eb-924d-9cd76263cbd0,species,fragrans,Dicalymma,,Lem.,1855,"37 1855",,,,,201271-1,wfo-0000014743,4237283,
-e0da01b8-8fcc-11eb-924d-9cd76263cbd0,species,linifolia,Dicarpaea,,C.Presl,1831,"Symb. Bot. 1: 38 1831",,,,,361600-1,wfo-0000644921,3783401,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2aaa204-8fd1-11eb-924d-9cd76263cbd0,genus,Dicalymma,,,,,,,,,,,,,,wfo-4000011368,7337821,,
+2dc08922-8fb2-11eb-924d-9cd76263cbd0,species,fragrans,Dicalymma,,Lem.,,1855,,"37 1855",,,,,,201271-1,wfo-0000014743,4237283,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9fec85a-8fd1-11eb-924d-9cd76263cbd0,genus,Saurolophorkis,,,,,,,,,,,wfo-4000034176,2781873,
-980adf16-8fcc-11eb-924d-9cd76263cbd0,species,bisepala,Saurolophorkis,,"(Gilli) Ormerod ex Szlach. & Marg.",2001,"Polish Bot. J. 46: 114 2001",,,,e3396fa8-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000525025,2781874,
-09238366-8fcc-11eb-924d-9cd76263cbd0,species,cordanthemon,Saurolophorkis,,"Marg. & Szlach.",2001,"Polish Bot. J. 46: 9 2001",,,,,20000087-1,wfo-0000304962,2781876,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9fec85a-8fd1-11eb-924d-9cd76263cbd0,genus,Saurolophorkis,,,,,,,,,,,,,,wfo-4000034176,2781873,,
+980adf16-8fcc-11eb-924d-9cd76263cbd0,species,bisepala,Saurolophorkis,,"(Gilli) Ormerod ex Szlach. & Marg.",,2001,,"Polish Bot. J. 46: 114 2001",,,,e3396fa8-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000525025,2781874,,
+09238366-8fcc-11eb-924d-9cd76263cbd0,species,cordanthemon,Saurolophorkis,,"Marg. & Szlach.",,2001,,"Polish Bot. J. 46: 9 2001",,,,,,20000087-1,wfo-0000304962,2781876,,

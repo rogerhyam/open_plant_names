@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a42cd4-8fd1-11eb-924d-9cd76263cbd0,genus,Exodiclis,,,Raf.,1838,"Sylva Tellur. 97. 1838.",,,,,,wfo-4000014463,7273006,
-60460554-8fbf-11eb-924d-9cd76263cbd0,species,angustifolia,Exodiclis,,Raf.,1838,"Sylva Tellur. 98 (1838) 1838",,,,,568693-1,wfo-0000159593,3864113,
-605130a0-8fbf-11eb-924d-9cd76263cbd0,species,latifolia,Exodiclis,,Raf.,1838,"Sylva Tellur. 98 (1838) 1838",,,,,568694-1,wfo-0000159594,3864105,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a42cd4-8fd1-11eb-924d-9cd76263cbd0,genus,Exodiclis,,,Raf.,,1838,,"Sylva Tellur. 97. 1838.",,,,,,,wfo-4000014463,7273006,,
+60460554-8fbf-11eb-924d-9cd76263cbd0,species,angustifolia,Exodiclis,,Raf.,,1838,,"Sylva Tellur. 98 (1838) 1838",,,,,,568693-1,wfo-0000159593,3864113,,
+605130a0-8fbf-11eb-924d-9cd76263cbd0,species,latifolia,Exodiclis,,Raf.,,1838,,"Sylva Tellur. 98 (1838) 1838",,,,,,568694-1,wfo-0000159594,3864105,,

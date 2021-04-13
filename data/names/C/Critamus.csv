@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e22cabd8-8fd1-11eb-924d-9cd76263cbd0,genus,Critamus,,,"F.C.Mertens & W.D.J.Koch",1826,"Ro%hlings Deutschl. Fl. 2: 440. 1826.",,,,,,wfo-4000009711,,
-d66886c8-8fcc-11eb-924d-9cd76263cbd0,species,agrestis,Critamus,,"(Hoffm.) Besser",1822,"Enum. Pl. Volh. 93 1822",,,,,840816-1,wfo-0000626221,5537988,
-d668a144-8fcc-11eb-924d-9cd76263cbd0,species,ammoides,Critamus,,"Bluff, Nees & Schauer",,"Comp. Fl. German. 1: 1513 1836",,,,,840817-1,wfo-0000626222,5537986,
-d6690c92-8fcc-11eb-924d-9cd76263cbd0,species,dauricus,Critamus,,Hoffm.,1816,"Gen. Pl. Umbell. ed. 2: 184 1816",,,,,840818-1,wfo-0000626225,5537984,
-d66936d6-8fcc-11eb-924d-9cd76263cbd0,species,falcaria,Critamus,,"(L.) Rchb.",1827,"Handb. Gewächsk. ed. 2 1: 478 1827",,,,600ffc04-8fcc-11eb-924d-9cd76263cbd0,840819-1,wfo-0000626226,5537983,
-d6695c56-8fcc-11eb-924d-9cd76263cbd0,species,heterophyllus,Critamus,,"Mert. & W.D.J.Koch",1826,"Deutschl. Fl. ed. 3, 2: 441 1826",,,,,,wfo-0000626227,5537981,
-d6697f56-8fcc-11eb-924d-9cd76263cbd0,species,latifolius,Critamus,,"Bluff, Nees & Schauer",1838,"Comp. Fl. German. 2: 751 1838",,,,,840821-1,wfo-0000626228,5537978,
-d6699ce8-8fcc-11eb-924d-9cd76263cbd0,species,saxifragus,Critamus,,Rchb.,1827,"Handb. Gewächsk. ed. 2 1: 478 1827",,,,,840822-1,wfo-0000626229,5537974,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e22cabd8-8fd1-11eb-924d-9cd76263cbd0,genus,Critamus,,,"F.C.Mertens & W.D.J.Koch",,1826,,"Ro%hlings Deutschl. Fl. 2: 440. 1826.",,,,,,,wfo-4000009711,,,
+d66886c8-8fcc-11eb-924d-9cd76263cbd0,species,agrestis,Critamus,,"(Hoffm.) Besser",,1822,,"Enum. Pl. Volh. 93 1822",,,,,,840816-1,wfo-0000626221,5537988,,
+d668a144-8fcc-11eb-924d-9cd76263cbd0,species,ammoides,Critamus,,"Bluff, Nees & Schauer",,,,"Comp. Fl. German. 1: 1513 1836",,,,,,840817-1,wfo-0000626222,5537986,,
+d6690c92-8fcc-11eb-924d-9cd76263cbd0,species,dauricus,Critamus,,Hoffm.,,1816,,"Gen. Pl. Umbell. ed. 2: 184 1816",,,,,,840818-1,wfo-0000626225,5537984,,
+d66936d6-8fcc-11eb-924d-9cd76263cbd0,species,falcaria,Critamus,,"(L.) Rchb.",,1827,,"Handb. Gewächsk. ed. 2 1: 478 1827",,,,600ffc04-8fcc-11eb-924d-9cd76263cbd0,,840819-1,wfo-0000626226,5537983,,
+d6695c56-8fcc-11eb-924d-9cd76263cbd0,species,heterophyllus,Critamus,,"Mert. & W.D.J.Koch",,1826,,"Deutschl. Fl. ed. 3, 2: 441 1826",,,,,,,wfo-0000626227,5537981,,
+d6697f56-8fcc-11eb-924d-9cd76263cbd0,species,latifolius,Critamus,,"Bluff, Nees & Schauer",,1838,,"Comp. Fl. German. 2: 751 1838",,,,,,840821-1,wfo-0000626228,5537978,,
+d6699ce8-8fcc-11eb-924d-9cd76263cbd0,species,saxifragus,Critamus,,Rchb.,,1827,,"Handb. Gewächsk. ed. 2 1: 478 1827",,,,,,840822-1,wfo-0000626229,5537974,,

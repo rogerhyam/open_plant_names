@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8fad71e-8fd1-11eb-924d-9cd76263cbd0,genus,Poulsenia,,,Eggers,1898,"Bot. Centralbl. 73(3): 49[bis]–50. 1898. (11 Jan 1898)",,,,,304189-2,wfo-4000031055,3234567,
-c206e2b4-8fcd-11eb-924d-9cd76263cbd0,species,aculeata,Poulsenia,,Eggers,1898,"Bot. Centralbl. 73: 66 1898",,,,,303616-2,wfo-0001084674,5570861,
-7a06e92e-8fcc-11eb-924d-9cd76263cbd0,species,armata,Poulsenia,,"(Miq.) Standl.",1933,"Trop. Woods 33: 4 1933",,,,3af5fb80-8fcc-11eb-924d-9cd76263cbd0,1059330-2,wfo-0000474038,5570848,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8fad71e-8fd1-11eb-924d-9cd76263cbd0,genus,Poulsenia,,,Eggers,,1898,,"Bot. Centralbl. 73(3): 49[bis]–50. 1898. (11 Jan 1898)",,,,,,304189-2,wfo-4000031055,3234567,,
+c206e2b4-8fcd-11eb-924d-9cd76263cbd0,species,aculeata,Poulsenia,,Eggers,,1898,,"Bot. Centralbl. 73: 66 1898",,,,,,303616-2,wfo-0001084674,5570861,,
+7a06e92e-8fcc-11eb-924d-9cd76263cbd0,species,armata,Poulsenia,,"(Miq.) Standl.",,1933,,"Trop. Woods 33: 4 1933",,,,3af5fb80-8fcc-11eb-924d-9cd76263cbd0,,1059330-2,wfo-0000474038,5570848,,

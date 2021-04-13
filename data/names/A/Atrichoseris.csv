@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfeb4cb2-8fd1-11eb-924d-9cd76263cbd0,genus,Atrichoseris,,,A.Gray,,,,,,,7798-1,wfo-4000003608,3149365,
-be07844a-8fb2-11eb-924d-9cd76263cbd0,species,platyphylla,Atrichoseris,,"(A.Gray) A.Gray",1884,"410 1884",,,,,182981-1,wfo-0000033313,3149366,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfeb4cb2-8fd1-11eb-924d-9cd76263cbd0,genus,Atrichoseris,,,A.Gray,,,,,,,,,,7798-1,wfo-4000003608,3149365,,
+be07844a-8fb2-11eb-924d-9cd76263cbd0,species,platyphylla,Atrichoseris,,"(A.Gray) A.Gray",,1884,,"410 1884",,,,,,182981-1,wfo-0000033313,3149366,,

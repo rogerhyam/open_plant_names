@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9e2dfa0-8fd1-11eb-924d-9cd76263cbd0,genus,Sakuraia,,,Broth.,1925,"Nat. Pflanzenfam. (ed. 2) 11: 392. 1925.",,,,,,wfo-4000033819,4895145,
-ebafc00e-8fcd-11eb-924d-9cd76263cbd0,species,conchophylla,Sakuraia,,"(Cardot) Nog.",1951,"J. Jap. Bot. 26: 52 1951",,,,,,wfo-0001174929,7219242,
-ebafde7c-8fcd-11eb-924d-9cd76263cbd0,species,macrospora,Sakuraia,,"(Broth.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 392 1925",,,,f0cb8ae6-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001174930,7597466,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9e2dfa0-8fd1-11eb-924d-9cd76263cbd0,genus,Sakuraia,,,Broth.,,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 392. 1925.",,,,,,,wfo-4000033819,4895145,,
+ebafc00e-8fcd-11eb-924d-9cd76263cbd0,species,conchophylla,Sakuraia,,"(Cardot) Nog.",,1951,,"J. Jap. Bot. 26: 52 1951",,,,,,,wfo-0001174929,7219242,,
+ebafde7c-8fcd-11eb-924d-9cd76263cbd0,species,macrospora,Sakuraia,,"(Broth.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 392 1925",,,,f0cb8ae6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001174930,7597466,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec2df31c-8fd1-11eb-924d-9cd76263cbd0,genus,Xylosterculia,,,Kosterm.,1973,"Bot. Tidsskr. 67: 317. 1973.",,,,,,wfo-4000041047,7322919,
-c84aa2ce-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Xylosterculia,,"(Ducke) Kosterm.",1973,"Bot. Tidsskr. 67: 317 1973",,,,dbb59a34-8fcd-11eb-924d-9cd76263cbd0,269958-2,wfo-0001269334,3668759,
-5dbd25e4-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Xylosterculia,,"(R.Br.) Kosterm.",1973,"Bot. Tidsskr. 67: 317 1973",,,,,269959-2,wfo-0000428433,3668737,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec2df31c-8fd1-11eb-924d-9cd76263cbd0,genus,Xylosterculia,,,Kosterm.,,1973,,"Bot. Tidsskr. 67: 317. 1973.",,,,,,,wfo-4000041047,7322919,,
+c84aa2ce-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Xylosterculia,,"(Ducke) Kosterm.",,1973,,"Bot. Tidsskr. 67: 317 1973",,,,dbb59a34-8fcd-11eb-924d-9cd76263cbd0,,269958-2,wfo-0001269334,3668759,,
+5dbd25e4-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Xylosterculia,,"(R.Br.) Kosterm.",,1973,,"Bot. Tidsskr. 67: 317 1973",,,,,,269959-2,wfo-0000428433,3668737,,

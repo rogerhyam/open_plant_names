@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a63902-8fd1-11eb-924d-9cd76263cbd0,genus,Exothea,,,Macfad.,1837,"Fl. Jamaica 1: 232. 1837.",,,,,36413-1,wfo-4000014487,3189941,
-f7dc2e18-8fcc-11eb-924d-9cd76263cbd0,species,copalillo,Exothea,,"(Schltdl.) Radlk.",1888,"Index Gen. Phan. 81 1888",,,,dc21f324-8fcc-11eb-924d-9cd76263cbd0,102888-2,wfo-0000684509,3788094,
-f7dc512c-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Exothea,,"(Standl.) Lundell",1937,"Phytologia 1: 242 1937",,,,d8ed0f1c-8fcd-11eb-924d-9cd76263cbd0,102889-2,wfo-0000684510,3788083,
-f7dc7116-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Exothea,,Macfad.,1837,"Fl. Jamaica 1: 232 1837",,,,,783155-1,wfo-0000684511,3788078,
-f7dc90ce-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Exothea,,"(Juss.) Radlk.",1888,"Index Gen. Phan. 81 1888",,,,,102890-2,wfo-0000684512,3189942,
-f7dcc4a4-8fcc-11eb-924d-9cd76263cbd0,variety,unijuga,Exothea,paniculata,"Ekman ex Radlk.",,"Pflanzenr. IV, 165: 1413 1933",,,,,102891-2,wfo-0000684513,3788061,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a63902-8fd1-11eb-924d-9cd76263cbd0,genus,Exothea,,,Macfad.,,1837,,"Fl. Jamaica 1: 232. 1837.",,,,,,36413-1,wfo-4000014487,3189941,,
+f7dc2e18-8fcc-11eb-924d-9cd76263cbd0,species,copalillo,Exothea,,"(Schltdl.) Radlk.",,1888,,"Index Gen. Phan. 81 1888",,,,dc21f324-8fcc-11eb-924d-9cd76263cbd0,,102888-2,wfo-0000684509,3788094,,
+f7dc512c-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Exothea,,"(Standl.) Lundell",,1937,,"Phytologia 1: 242 1937",,,,d8ed0f1c-8fcd-11eb-924d-9cd76263cbd0,,102889-2,wfo-0000684510,3788083,,
+f7dc7116-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Exothea,,Macfad.,,1837,,"Fl. Jamaica 1: 232 1837",,,,,,783155-1,wfo-0000684511,3788078,,
+f7dc90ce-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Exothea,,"(Juss.) Radlk.",,1888,,"Index Gen. Phan. 81 1888",,,,,,102890-2,wfo-0000684512,3189942,,
+f7dcc4a4-8fcc-11eb-924d-9cd76263cbd0,variety,unijuga,Exothea,paniculata,"Ekman ex Radlk.",,,,"Pflanzenr. IV, 165: 1413 1933",,,,,,102891-2,wfo-0000684513,3788061,,

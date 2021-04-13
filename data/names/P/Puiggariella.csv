@@ -1,4 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e959e380-8fd1-11eb-924d-9cd76263cbd0,genus,Puiggariella,,,,,,,,,,,wfo-4000032159,3229994,
-ea36fed6-8fcd-11eb-924d-9cd76263cbd0,species,aurifolia,Puiggariella,,"(Mitt.) Broth.",,"Nat. Pflanzenfam. I(3): 1047 1908",,,,,,wfo-0001171854,7385197,
-ea371bc8-8fcd-11eb-924d-9cd76263cbd0,species,disciflora,Puiggariella,,"(Geh. & Hampe) Broth.",,"Nat. Pflanzenfam. I(3): 1047 1908",,,,,,wfo-0001171855,7588931,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e959e380-8fd1-11eb-924d-9cd76263cbd0,genus,Puiggariella,,,Speg.,,1881,,"Anal. Soc. cient. argent. 12: 99 (1881)",,,,e959e380-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000032159,3229994,4546," "
+74773f00-9bab-11eb-a8a2-19ed5c03f8d3,species,apiahyna,Puiggariella,,Speg.,,1881,,"Anal. Soc. cient. argent. 12: 99 (1881)",,,,74773f00-9bab-11eb-a8a2-19ed5c03f8d3,,,,,190480," "
+a88e48be-9bac-11eb-a8a2-19ed5c03f8d3,variety,apiahyna,Puiggariella,apiahyna,Speg.,,1881,,"Anal. Soc. cient. argent. 12: 99 (1881)",,,,a88e48be-9bac-11eb-a8a2-19ed5c03f8d3,,,,,477869," "
+2eb77cd0-9bad-11eb-a8a2-19ed5c03f8d3,variety,gracilior,Puiggariella,apiahyna,Speg.,,1919,,"Boletín de la Academia Nacional de Ciencias de Córdoba 23: 508 (1919)",,,,2eb77cd0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,478088," "
+ea36fed6-8fcd-11eb-924d-9cd76263cbd0,species,aurifolia,Puiggariella,,"(Mitt.) Broth.",,,,"Nat. Pflanzenfam. I(3): 1047 1908",,,,,,,wfo-0001171854,7385197,,
+ea371bc8-8fcd-11eb-924d-9cd76263cbd0,species,disciflora,Puiggariella,,"(Geh. & Hampe) Broth.",,,,"Nat. Pflanzenfam. I(3): 1047 1908",,,,,,,wfo-0001171855,7588931,,

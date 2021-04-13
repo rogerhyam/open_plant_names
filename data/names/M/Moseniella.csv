@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6edf6d6-8fd1-11eb-924d-9cd76263cbd0,genus,Moseniella,,,Broth.,1918,"Ark. Bot. 15(7): 1. 1918.",,,,,,wfo-4000024898,2673782,
-f20869c4-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Moseniella,,Broth.,1918,"Ark. Bot. 15(7): 7. 1 1918",,,,,,wfo-0001187895,2673783,
-e93db1c8-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Moseniella,,"(Müll.Hal. ex Broth.) A.K.Kop.",1977,"Ann. Bot. Fenn. 14: 196 1977",,,,,,wfo-0001169677,2673784,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6edf6d6-8fd1-11eb-924d-9cd76263cbd0,genus,Moseniella,,,Broth.,,1918,,"Ark. Bot. 15(7): 1. 1918.",,,,,,,wfo-4000024898,2673782,,
+f20869c4-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Moseniella,,Broth.,,1918,,"Ark. Bot. 15(7): 7. 1 1918",,,,,,,wfo-0001187895,2673783,,
+e93db1c8-8fcd-11eb-924d-9cd76263cbd0,species,ulei,Moseniella,,"(Müll.Hal. ex Broth.) A.K.Kop.",,1977,,"Ann. Bot. Fenn. 14: 196 1977",,,,,,,wfo-0001169677,2673784,,

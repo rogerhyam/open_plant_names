@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ab2f8a-8fd1-11eb-924d-9cd76263cbd0,genus,Dicellostyles,,,Benth.,1862,"Gen. Pl. 1(1): 207. 1862. (7 Aug 1862)",,,,,60458490-2,wfo-4000011375,7279011,
-e0de8670-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Dicellostyles,,"(Thwaites) Benth.",1862,"J. Proc. Linn. Soc., Bot. 6: 122 1862",,,,,559499-1,wfo-0000644953,3936126,
-e0dea088-8fcc-11eb-924d-9cd76263cbd0,species,jujubifolia,Dicellostyles,,"(Griff.) Benth. & Hook.f.",1862,"Gen. Pl. 1: 207 1862",,,,bf22c400-8fcd-11eb-924d-9cd76263cbd0,559500-1,wfo-0000644954,3936121,
-e0debd3e-8fcc-11eb-924d-9cd76263cbd0,species,zizyphifolia,Dicellostyles,,"(Griff.) Phuph.",1994,"Thai Forest Bull., Bot. 21: 124 1994",,,,,994367-1,wfo-0000644955,3936113,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ab2f8a-8fd1-11eb-924d-9cd76263cbd0,genus,Dicellostyles,,,Benth.,,1862,,"Gen. Pl. 1(1): 207. 1862. (7 Aug 1862)",,,,,,60458490-2,wfo-4000011375,7279011,,
+e0de8670-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Dicellostyles,,"(Thwaites) Benth.",,1862,,"J. Proc. Linn. Soc., Bot. 6: 122 1862",,,,,,559499-1,wfo-0000644953,3936126,,
+e0dea088-8fcc-11eb-924d-9cd76263cbd0,species,jujubifolia,Dicellostyles,,"(Griff.) Benth. & Hook.f.",,1862,,"Gen. Pl. 1: 207 1862",,,,bf22c400-8fcd-11eb-924d-9cd76263cbd0,,559500-1,wfo-0000644954,3936121,,
+e0debd3e-8fcc-11eb-924d-9cd76263cbd0,species,zizyphifolia,Dicellostyles,,"(Griff.) Phuph.",,1994,,"Thai Forest Bull., Bot. 21: 124 1994",,Q100991262,,,,994367-1,wfo-0000644955,3936113,,

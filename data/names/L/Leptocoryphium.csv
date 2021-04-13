@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5c94558-8fd1-11eb-924d-9cd76263cbd0,genus,Leptocoryphium,,,Nees,1829,"Fl. Bras. Enum. Pl. 2(1): 83. 1829.",,,,,,wfo-4000021256,2705046,
-57147aa2-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Leptocoryphium,,C.Muell.,1861,"Bot. Zeitung (Berlin) 19: 314 1861",,,,,,wfo-0000877966,5941639,
-57149b04-8fcd-11eb-924d-9cd76263cbd0,species,lanatum,Leptocoryphium,,"(Kunth) Nees",1829,"Fl. Bras. Enum. Pl. 2: 84 1829",,,,,407193-1,wfo-0000877967,2705047,
-5714d9b6-8fcd-11eb-924d-9cd76263cbd0,variety,molle,Leptocoryphium,lanatum,"(Nees) Döll",1877,"Fl. Bras. 2(2): 121 1877",,,,,138371-2,wfo-0000877969,8356791,
-5714f69e-8fcd-11eb-924d-9cd76263cbd0,species,molle,Leptocoryphium,,Nees,1829,"Fl. Bras. Enum. Pl. 2: 85 1829",,,,,407194-1,wfo-0000877970,4131471,
-5715128c-8fcd-11eb-924d-9cd76263cbd0,species,obtusum,Leptocoryphium,,Steud.,1853,"Syn. Pl. Glumac. 1: 34 1853",,,,,407195-1,wfo-0000877971,4131461,
-57153668-8fcd-11eb-924d-9cd76263cbd0,species,penicilligerum,Leptocoryphium,,Speg.,1883,"Anales Soc. Ci. Argent. 16: 102 1883",,,,,138373-2,wfo-0000877972,4131443,
-57155472-8fcd-11eb-924d-9cd76263cbd0,species,villaregalis,Leptocoryphium,,"McVaugh & R.Guzman",1983,"in Fl. Novo-Galiciana 14: 218 1983",,,,,,wfo-0000877973,4131423,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5c94558-8fd1-11eb-924d-9cd76263cbd0,genus,Leptocoryphium,,,Nees,,1829,,"Fl. Bras. Enum. Pl. 2(1): 83. 1829.",,,,,,,wfo-4000021256,2705046,,
+57147aa2-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Leptocoryphium,,C.Muell.,,1861,,"Bot. Zeitung (Berlin) 19: 314 1861",,,,,,,wfo-0000877966,5941639,,
+57149b04-8fcd-11eb-924d-9cd76263cbd0,species,lanatum,Leptocoryphium,,"(Kunth) Nees",,1829,,"Fl. Bras. Enum. Pl. 2: 84 1829",,,,,,407193-1,wfo-0000877967,2705047,,
+5714d9b6-8fcd-11eb-924d-9cd76263cbd0,variety,molle,Leptocoryphium,lanatum,"(Nees) Döll",,1877,,"Fl. Bras. 2(2): 121 1877",,,,,,138371-2,wfo-0000877969,8356791,,
+5714f69e-8fcd-11eb-924d-9cd76263cbd0,species,molle,Leptocoryphium,,Nees,,1829,,"Fl. Bras. Enum. Pl. 2: 85 1829",,,,,,407194-1,wfo-0000877970,4131471,,
+5715128c-8fcd-11eb-924d-9cd76263cbd0,species,obtusum,Leptocoryphium,,Steud.,,1853,,"Syn. Pl. Glumac. 1: 34 1853",,,,,,407195-1,wfo-0000877971,4131461,,
+57153668-8fcd-11eb-924d-9cd76263cbd0,species,penicilligerum,Leptocoryphium,,Speg.,,1883,,"Anales Soc. Ci. Argent. 16: 102 1883",,,,,,138373-2,wfo-0000877972,4131443,,
+57155472-8fcd-11eb-924d-9cd76263cbd0,species,villaregalis,Leptocoryphium,,"McVaugh & R.Guzman",,1983,,"in Fl. Novo-Galiciana 14: 218 1983",,,,,,,wfo-0000877973,4131423,,

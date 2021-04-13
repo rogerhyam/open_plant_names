@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9006972-8fd1-11eb-924d-9cd76263cbd0,genus,Presliophytum,,,"(Urb. & Gilg) Weigend",2006,"Taxon 55(2): 467. 2006. (22 Jun 2006)",,,,,1007423-1,wfo-4000031113,7289817,
-bdfa97de-8fd1-11eb-924d-9cd76263cbd0,species,arequipense,Presliophytum,,Weigend,2006,"Taxon 55(2): 467 2006",,,,,1007439-1,wfo-0001250283,4021754,
-77bf1d80-8fcc-11eb-924d-9cd76263cbd0,species,arequipensis,Presliophytum,,Weigend,1997,"Nasa and Conquest S. Amer. 219 1997",,,,,317851-2,wfo-0000470118,4021749,
-bdca204a-8fd1-11eb-924d-9cd76263cbd0,species,heucheraefolium,Presliophytum,,"(Killip) Weigend",2006,"Taxon 55(2): 467 2006",,,,,1007440-1,wfo-0001249925,8085477,
-77bf42ec-8fcc-11eb-924d-9cd76263cbd0,species,heucherifolia,Presliophytum,,"(Killip) Weigend",1997,"Nasa and Conquest S. Amer. 219 1997",,,,,1142253-2,wfo-0000470119,4021743,
-bbc38372-8fd1-11eb-924d-9cd76263cbd0,species,incanum,Presliophytum,,"(Graham) Weigend",2006,"Taxon 55(2): 467 2006",,,,,1007424-1,wfo-0001246165,4021733,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9006972-8fd1-11eb-924d-9cd76263cbd0,genus,Presliophytum,,,"(Urb. & Gilg) Weigend",,2006,,"Taxon 55(2): 467. 2006. (22 Jun 2006)",,Q28960249,,,,1007423-1,wfo-4000031113,7289817,,
+bdfa97de-8fd1-11eb-924d-9cd76263cbd0,species,arequipense,Presliophytum,,Weigend,,2006,,"Taxon 55(2): 467 2006",,Q28960249,,,,1007439-1,wfo-0001250283,4021754,,
+77bf1d80-8fcc-11eb-924d-9cd76263cbd0,species,arequipensis,Presliophytum,,Weigend,,1997,,"Nasa and Conquest S. Amer. 219 1997",,,,,,317851-2,wfo-0000470118,4021749,,
+bdca204a-8fd1-11eb-924d-9cd76263cbd0,species,heucheraefolium,Presliophytum,,"(Killip) Weigend",,2006,,"Taxon 55(2): 467 2006",,Q28960249,,,,1007440-1,wfo-0001249925,8085477,,
+77bf42ec-8fcc-11eb-924d-9cd76263cbd0,species,heucherifolia,Presliophytum,,"(Killip) Weigend",,1997,,"Nasa and Conquest S. Amer. 219 1997",,,,,,1142253-2,wfo-0000470119,4021743,,
+bbc38372-8fd1-11eb-924d-9cd76263cbd0,species,incanum,Presliophytum,,"(Graham) Weigend",,2006,,"Taxon 55(2): 467 2006",,Q28960249,,,,1007424-1,wfo-0001246165,4021733,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e836b276-8fd1-11eb-924d-9cd76263cbd0,genus,Periestes,,,Baill.,1890,"Bull. Mens. Soc. Linn. Paris 2: 833. 1890.",,,,,,wfo-4000028761,7264095,
-b0e4bf92-8fcd-11eb-924d-9cd76263cbd0,species,baronii,Periestes,,Baill.,1891,"Hist. Pl. 10: 464 1891",,,,,,wfo-0001045652,3777878,
-b3120942-8fd1-11eb-924d-9cd76263cbd0,species,comorensis,Periestes,,"(Baker) Lindau",1895,"Nat. Pflanzenfam. IV, 3b: 333 1895",,,,,52863-1,wfo-0001230147,3777866,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e836b276-8fd1-11eb-924d-9cd76263cbd0,genus,Periestes,,,Baill.,,1890,,"Bull. Mens. Soc. Linn. Paris 2: 833. 1890.",,,,,,,wfo-4000028761,7264095,,
+b0e4bf92-8fcd-11eb-924d-9cd76263cbd0,species,baronii,Periestes,,Baill.,,1891,,"Hist. Pl. 10: 464 1891",,,,,,,wfo-0001045652,3777878,,
+b3120942-8fd1-11eb-924d-9cd76263cbd0,species,comorensis,Periestes,,"(Baker) Lindau",,1895,,"Nat. Pflanzenfam. IV, 3b: 333 1895",,,,,,52863-1,wfo-0001230147,3777866,,

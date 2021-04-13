@@ -1,5 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2d8b0f4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplaspis,,,Hook.f.,1847,"London J. Bot. 6: 468 bis. 1847.",,,,,50834130-1,wfo-4000011933,3232458,
-e3dff89a-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Diplaspis,,"(Hook.) Hook.f.",1856,"Fl. Tasman. 1: 157 1856",,,,,,wfo-0000650130,5539372,
-e3e04e80-8fcc-11eb-924d-9cd76263cbd0,species,hydrocotylea,Diplaspis,,Hook.f.,1847,"London J. Bot. 6: 469 bis 1847",,,,,,wfo-0000650131,8185897,
-e3e0813e-8fcc-11eb-924d-9cd76263cbd0,species,morenonis,Diplaspis,,"(Kuntze) K.Schum.",1898,"Just's Bot. Jahresber. 26(1): 367 1898",,,,,81482-2,wfo-0000650132,5539362,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2d8b0f4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplaspis,,,Hook.f.,,1847,,"London J. Bot. 6: 468 bis. 1847.",,,,,,50834130-1,wfo-4000011933,3232458,,
+e3dff89a-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Diplaspis,,"(Hook.) Hook.f.",,1856,,"Fl. Tasman. 1: 157 1856",,,,,,,wfo-0000650130,5539372,,
+e3e04e80-8fcc-11eb-924d-9cd76263cbd0,species,hydrocotylea,Diplaspis,,Hook.f.,,1847,,"London J. Bot. 6: 469 bis 1847",,,,,,,wfo-0000650131,8185897,,
+e3e0813e-8fcc-11eb-924d-9cd76263cbd0,species,morenonis,Diplaspis,,"(Kuntze) K.Schum.",,1898,,"Just's Bot. Jahresber. 26(1): 367 1898",,,,,,81482-2,wfo-0000650132,5539362,,
+a1ae674c-9a06-11eb-a8a2-19ed5c03f8d3,species,nivis,Diplaspis,,"Van den Borre & Henwood",,1998,,"Austral. Syst. Bot. 11(1): 10",,Q95996260,,,,1000468-1,,,,

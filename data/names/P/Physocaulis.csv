@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e879e4f6-8fd1-11eb-924d-9cd76263cbd0,genus,Physocaulis,,,"(DC.) Tausch",1834,"Flora 17: 342. 1834.",,,,,,wfo-4000029541,6027142,
-baf76ebc-8fcd-11eb-924d-9cd76263cbd0,species,danaa,Physocaulis,,"Schischk. ex N.I.Rubtzov",,,,,,,,wfo-0001068692,8178984,
-baf7896a-8fcd-11eb-924d-9cd76263cbd0,species,denaense,Physocaulis,,Czerniak.,,,,,,,,wfo-0001068693,8151697,
-baf7a3dc-8fcd-11eb-924d-9cd76263cbd0,species,kopetdaghense,Physocaulis,,Korovin,,,,,,,,wfo-0001068694,7360908,
-40717cb0-8fcc-11eb-924d-9cd76263cbd0,species,nodosus,Physocaulis,,"(L.) W.D.J.Koch",1843,"Syn. Fl. Germ. Helv. ed. 2: 348 1843",,,,2861b756-8fcd-11eb-924d-9cd76263cbd0,846584-1,wfo-0000391122,3639480,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e879e4f6-8fd1-11eb-924d-9cd76263cbd0,genus,Physocaulis,,,"(DC.) Tausch",,1834,,"Flora 17: 342. 1834.",,,,,,,wfo-4000029541,6027142,,
+baf76ebc-8fcd-11eb-924d-9cd76263cbd0,species,danaa,Physocaulis,,"Schischk. ex N.I.Rubtzov",,,,,,,,,,,wfo-0001068692,8178984,,
+baf7896a-8fcd-11eb-924d-9cd76263cbd0,species,denaense,Physocaulis,,Czerniak.,,,,,,,,,,,wfo-0001068693,8151697,,
+baf7a3dc-8fcd-11eb-924d-9cd76263cbd0,species,kopetdaghense,Physocaulis,,Korovin,,,,,,,,,,,wfo-0001068694,7360908,,
+40717cb0-8fcc-11eb-924d-9cd76263cbd0,species,nodosus,Physocaulis,,"(L.) W.D.J.Koch",,1843,,"Syn. Fl. Germ. Helv. ed. 2: 348 1843",,,,2861b756-8fcd-11eb-924d-9cd76263cbd0,,846584-1,wfo-0000391122,3639480,,

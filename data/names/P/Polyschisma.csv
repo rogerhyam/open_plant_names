@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8e2b8b4-8fd1-11eb-924d-9cd76263cbd0,genus,Polyschisma,,,Turcz.,1859,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 269. 1859.",,,,,,wfo-4000030813,7268594,
-767d5748-8fcc-11eb-924d-9cd76263cbd0,species,anatymbicum,Polyschisma,,Turcz.,1859,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 270 1859",,,,,377269-1,wfo-0000468088,3828593,
-5f5e2816-8fcd-11eb-924d-9cd76263cbd0,species,paupercula,Polyschistis,,J.Presl,1830,"Reliq. Haenk. 1: 294 1830",,,,,418746-1,wfo-0000894763,4153426,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8e2b8b4-8fd1-11eb-924d-9cd76263cbd0,genus,Polyschisma,,,Turcz.,,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 269. 1859.",,,,,,,wfo-4000030813,7268594,,
+767d5748-8fcc-11eb-924d-9cd76263cbd0,species,anatymbicum,Polyschisma,,Turcz.,,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 270 1859",,,,,,377269-1,wfo-0000468088,3828593,,

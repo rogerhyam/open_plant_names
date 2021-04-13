@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6546a5c-8fd1-11eb-924d-9cd76263cbd0,genus,Manniella,,,Rchb.f.,1881,"Otia Bot. Hamburg. 2: 79. 1881.",,,,,29942-1,wfo-4000023053,2788030,
-dec7eb0c-8fcb-11eb-924d-9cd76263cbd0,species,americana,Manniella,,"C.Schweinf. & Garay",1962,"Bot. Mus. Leafl. 20: 5 1962",,,,,152669-2,wfo-0000236006,5310802,
-74d94bfe-8fcc-11eb-924d-9cd76263cbd0,species,cypripedioides,Manniella,,"Salazar & al.",2002,"Lindleyana 17: 240 2002",,,,,,wfo-0000465452,5306905,
-dec80a74-8fcb-11eb-924d-9cd76263cbd0,species,gustavi,Manniella,,Rchb.f.,1881,"Otia Bot. Hamburg. 109 1881",,,,,642619-1,wfo-0000236007,5306903,
-dec8a4c0-8fcb-11eb-924d-9cd76263cbd0,variety,picta,Manniella,gustavi,"De Wild.",1903,"Not. Pl. Util. Congo 1: 153 1903",,,,,,wfo-0000236008,5306904,
-dec8cd38-8fcb-11eb-924d-9cd76263cbd0,species,hongkongensis,Manniella,,"S.Y.Hu & Barretto",1976,"Chung Chi J. 13: 6 1976",,,,,642620-1,wfo-0000236009,5312474,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6546a5c-8fd1-11eb-924d-9cd76263cbd0,genus,Manniella,,,Rchb.f.,,1881,,"Otia Bot. Hamburg. 2: 79. 1881.",,,,,,29942-1,wfo-4000023053,2788030,,
+dec7eb0c-8fcb-11eb-924d-9cd76263cbd0,species,americana,Manniella,,"C.Schweinf. & Garay",,1962,,"Bot. Mus. Leafl. 20: 5 1962",,Q100427428,,,,152669-2,wfo-0000236006,5310802,,
+74d94bfe-8fcc-11eb-924d-9cd76263cbd0,species,cypripedioides,Manniella,,"Salazar & al.",,2002,,"Lindleyana 17: 240 2002",,,,,,,wfo-0000465452,5306905,,
+dec80a74-8fcb-11eb-924d-9cd76263cbd0,species,gustavi,Manniella,,Rchb.f.,,1881,,"Otia Bot. Hamburg. 109 1881",,,,,,642619-1,wfo-0000236007,5306903,,
+dec8a4c0-8fcb-11eb-924d-9cd76263cbd0,variety,picta,Manniella,gustavi,"De Wild.",,1903,,"Not. Pl. Util. Congo 1: 153 1903",,,,,,,wfo-0000236008,5306904,,
+dec8cd38-8fcb-11eb-924d-9cd76263cbd0,species,hongkongensis,Manniella,,"S.Y.Hu & Barretto",,1976,,"Chung Chi J. 13: 6 1976",,,,,,642620-1,wfo-0000236009,5312474,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0348828-8fd1-11eb-924d-9cd76263cbd0,genus,Bertholletia,,,Bonpl.,1808,"Pl. Aequinoct. 1: 122, t. 36. 1808[1807]. (Apr 1807)",,,,,27438-1,wfo-4000004512,3083179,
-2779d7d8-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Bertholletia,,Bonpl.,1808,"Pl. Aequinoct. 1: 122 1808",,,,,,wfo-0000775013,3083180,
-2779f48e-8fcd-11eb-924d-9cd76263cbd0,species,minor,Bertholletia,,"Choisy ex R.Knuth",1939,"Pflanzenr. IV, 219a: 89 1939",,,,,,wfo-0000775014,3082387,
-277a11f8-8fcd-11eb-924d-9cd76263cbd0,species,nobilis,Bertholletia,,Miers,1874,"Trans. Linn. Soc. London 30: 197 1874",,,,,591271-1,wfo-0000775015,3083181,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0348828-8fd1-11eb-924d-9cd76263cbd0,genus,Bertholletia,,,Bonpl.,,1808,,"Pl. Aequinoct. 1: 122, t. 36. 1808[1807]. (Apr 1807)",,,,,,27438-1,wfo-4000004512,3083179,,
+2779d7d8-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Bertholletia,,Bonpl.,,1808,,"Pl. Aequinoct. 1: 122 1808",,,,,,,wfo-0000775013,3083180,,
+2779f48e-8fcd-11eb-924d-9cd76263cbd0,species,minor,Bertholletia,,"Choisy ex R.Knuth",,1939,,"Pflanzenr. IV, 219a: 89 1939",,,,,,,wfo-0000775014,3082387,,
+277a11f8-8fcd-11eb-924d-9cd76263cbd0,species,nobilis,Bertholletia,,Miers,,1874,,"Trans. Linn. Soc. London 30: 197 1874",,Q55808829,,,,591271-1,wfo-0000775015,3083181,,

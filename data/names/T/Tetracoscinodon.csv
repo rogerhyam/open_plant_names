@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb323702-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracoscinodon,,,R.Br.bis,1897,"Trans. & Proc. New Zealand Inst. 28: 532. 1897.",,,,,,wfo-4000037874,2671696,
-dfc027ca-8fcd-11eb-924d-9cd76263cbd0,species,hectorii,Tetracoscinodon,,R.Br.bis,1897,"Trans. & Proc. New Zealand Inst. 28: 532. f. 1–7 1897",,,,,,wfo-0001149184,7780159,
-f73cd7cc-8fcd-11eb-924d-9cd76263cbd0,species,irroratus,Tetracoscinodon,,"(Mitt.) R.H.Zander",1993,"Bull. Buffalo Soc. Nat. Sci. 32: 107 1993",,,,,,wfo-0001198509,2671697,
-b9c97658-8fd1-11eb-924d-9cd76263cbd0,species,cymosa,Tetracronia,,Pierre,1895,"Fl. Forest. Cochinch. , pl. 285b 1895",,,,,,wfo-0001242518,3836392,
-6ebbd368-8fcc-11eb-924d-9cd76263cbd0,species,cinnamomoides,Tetracrypta,,"Gardner & Champ.",1849,"Hooker's J. Bot. Kew Gard. Misc. 1: 314 1849",,,,,719866-1,wfo-0000455125,3874073,
-145e2eb6-8fcc-11eb-924d-9cd76263cbd0,species,lucidum,Tetractinostigma,,Miq.,1861,"Fl. Ned. Ind., Eerste Bijv. 471 1861",,,,,356843-1,wfo-0000321557,3081336,
-145e718c-8fcc-11eb-924d-9cd76263cbd0,species,microcalyx,Tetractinostigma,,Hassk.,1857,"Flora 40: 533 1857",,,,,356844-1,wfo-0000321558,3081241,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb323702-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracoscinodon,,,R.Br.bis,,1897,,"Trans. & Proc. New Zealand Inst. 28: 532. 1897.",,,,,,,wfo-4000037874,2671696,,
+dfc027ca-8fcd-11eb-924d-9cd76263cbd0,species,hectorii,Tetracoscinodon,,R.Br.bis,,1897,,"Trans. & Proc. New Zealand Inst. 28: 532. f. 1–7 1897",,,,,,,wfo-0001149184,7780159,,
+f73cd7cc-8fcd-11eb-924d-9cd76263cbd0,species,irroratus,Tetracoscinodon,,"(Mitt.) R.H.Zander",,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 107 1993",,,,,,,wfo-0001198509,2671697,,

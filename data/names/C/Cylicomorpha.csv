@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e25ae958-8fd1-11eb-924d-9cd76263cbd0,genus,Cylicomorpha,,,Urb.,1901,"Bot. Jahrb. Syst. 30: 115. 1901.",,,,,31749-1,wfo-4000010320,7269690,
-d9e68e44-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cylicomorpha,,Urb.,1901,"Bot. Jahrb. Syst. 30: 116 1901",,,,,674359-1,wfo-0000632303,3838712,
-164acbd4-8fcd-11eb-924d-9cd76263cbd0,variety,brachyloba,Cylicomorpha,parviflora,Urb.,1901,"Bot. Jahrb. Syst. 30: 117 1901",,,,,,wfo-0000739094,8309143,
-d9e6c3be-8fcc-11eb-924d-9cd76263cbd0,species,solmsii,Cylicomorpha,,"(Urb.) Urb.",1901,"Bot. Jahrb. Syst. 30: 115 1901",,,,29036228-8fcc-11eb-924d-9cd76263cbd0,674360-1,wfo-0000632305,3838703,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e25ae958-8fd1-11eb-924d-9cd76263cbd0,genus,Cylicomorpha,,,Urb.,,1901,,"Bot. Jahrb. Syst. 30: 115. 1901.",,,,,,31749-1,wfo-4000010320,7269690,,
+d9e68e44-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cylicomorpha,,Urb.,,1901,,"Bot. Jahrb. Syst. 30: 116 1901",,,,,,674359-1,wfo-0000632303,3838712,,
+164acbd4-8fcd-11eb-924d-9cd76263cbd0,variety,brachyloba,Cylicomorpha,parviflora,Urb.,,1901,,"Bot. Jahrb. Syst. 30: 117 1901",,,,,,,wfo-0000739094,8309143,,
+d9e6c3be-8fcc-11eb-924d-9cd76263cbd0,species,solmsii,Cylicomorpha,,"(Urb.) Urb.",,1901,,"Bot. Jahrb. Syst. 30: 115 1901",,,,29036228-8fcc-11eb-924d-9cd76263cbd0,,674360-1,wfo-0000632305,3838703,,

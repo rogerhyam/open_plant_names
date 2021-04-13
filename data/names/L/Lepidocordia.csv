@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bafbce-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidocordia,,,Ducke,1925,"Arch. Jard. Bot. Rio de Janeiro 4: 170, t. 22. 1925.",,,,,297461-2,wfo-4000021099,7295391,
-2c5919ae-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Lepidocordia,,Ducke,1925,"Arch. Jard. Bot. Rio de Janeiro 4: 171 1925",,,,,138192-2,wfo-0000361444,4066569,
-2c5bc2c6-8fcc-11eb-924d-9cd76263cbd0,species,williamsii,Lepidocordia,,"(I.M.Johnst.) J.S.Mill.",1989,"Phytologia 66: 476 1989",,,,a0dc90e4-8fcc-11eb-924d-9cd76263cbd0,946852-1,wfo-0000361464,4066554,
-c7ef56da-8fd1-11eb-924d-9cd76263cbd0,species,macromeris,Lepidocoryphantha,,"(Engelm.) Backeb.",1941,"Jahrb. Deutsch. Kakteen-Ges. 1941(pt. 2): 61 1942",,,,d67aa3c6-8fd1-11eb-924d-9cd76263cbd0,138193-2,wfo-0001268632,7280012,
-c4dfa6e8-8fd1-11eb-924d-9cd76263cbd0,species,runyonii,Lepidocoryphantha,,"(Britton & Rose) Backeb.",,"Cactaceae 5: 2975 1961",,,,,138194-2,wfo-0001263046,3942545,
-68610470-8fcc-11eb-924d-9cd76263cbd0,species,latifolius,Lepidocroton,,Klotzsch,,"Reis. Br.-Guiana 3: 1162 1849",,,,,580999-1,wfo-0000443893,3831044,
-31374580-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Lepidocroton,,C.Presl,1851,"Epimel. Bot. 213 1851",,,,,350808-1,wfo-0000796423,3054433,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bafbce-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidocordia,,,Ducke,,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 170, t. 22. 1925.",,,,,,297461-2,wfo-4000021099,7295391,,
+2c5919ae-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Lepidocordia,,Ducke,,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 171 1925",,,,,,138192-2,wfo-0000361444,4066569,,
+2c5bc2c6-8fcc-11eb-924d-9cd76263cbd0,species,williamsii,Lepidocordia,,"(I.M.Johnst.) J.S.Mill.",,1989,,"Phytologia 66: 476 1989",,,,a0dc90e4-8fcc-11eb-924d-9cd76263cbd0,,946852-1,wfo-0000361464,4066554,,
+c7ef56da-8fd1-11eb-924d-9cd76263cbd0,species,macromeris,Lepidocoryphantha,,"(Engelm.) Backeb.",,1941,,"Jahrb. Deutsch. Kakteen-Ges. 1941(pt. 2): 61 1942",,,,d67aa3c6-8fd1-11eb-924d-9cd76263cbd0,,138193-2,wfo-0001268632,7280012,,
+c4dfa6e8-8fd1-11eb-924d-9cd76263cbd0,species,runyonii,Lepidocoryphantha,,"(Britton & Rose) Backeb.",,,,"Cactaceae 5: 2975 1961",,,,,,138194-2,wfo-0001263046,3942545,,
+68610470-8fcc-11eb-924d-9cd76263cbd0,species,latifolius,Lepidocroton,,Klotzsch,,,,"Reis. Br.-Guiana 3: 1162 1849",,,,,,580999-1,wfo-0000443893,3831044,,
+31374580-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Lepidocroton,,C.Presl,,1851,,"Epimel. Bot. 213 1851",,,,,,350808-1,wfo-0000796423,3054433,,

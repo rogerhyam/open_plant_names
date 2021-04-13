@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54037a4-8fd1-11eb-924d-9cd76263cbd0,genus,Johreniopsis,,,Pimenov,1987,"Fl. Iranica 162: 454. 1987.",,,,,,wfo-4000019594,6026614,
-27c8f0f8-8fcc-11eb-924d-9cd76263cbd0,species,oligactis,Johreniopsis,,"(Rech.f. & Riedl) Pimenov",1987,"in Fl. Iran. 162: 456 1987",,,,40f1ea6c-8fcc-11eb-924d-9cd76263cbd0,944230-1,wfo-0000353900,3632441,
-27c9b09c-8fcc-11eb-924d-9cd76263cbd0,species,scoparia,Johreniopsis,,"(Boiss.) Pimenov",1987,"in Fl. Iran. 162: 455 1987",,,,,944228-1,wfo-0000353901,3632431,
-27ca7766-8fcc-11eb-924d-9cd76263cbd0,species,seseloides,Johreniopsis,,"(C.A.Mey.) Pimenov",1987,"in Fl. Iran. 162: 455 1987",,,,f91916b0-8fcc-11eb-924d-9cd76263cbd0,944229-1,wfo-0000353902,3632422,
-27cac91e-8fcc-11eb-924d-9cd76263cbd0,species,stricticaulis,Johreniopsis,,"(Rech.f.) Pimenov",1987,"in Fl. Iran. 162: 456 1987",,,,,944231-1,wfo-0000353904,3632414,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54037a4-8fd1-11eb-924d-9cd76263cbd0,genus,Johreniopsis,,,Pimenov,,1987,,"Fl. Iranica 162: 454. 1987.",,,,,,,wfo-4000019594,6026614,,
+27c8f0f8-8fcc-11eb-924d-9cd76263cbd0,species,oligactis,Johreniopsis,,"(Rech.f. & Riedl) Pimenov",,1987,,"in Fl. Iran. 162: 456 1987",,,,40f1ea6c-8fcc-11eb-924d-9cd76263cbd0,,944230-1,wfo-0000353900,3632441,,
+27c9b09c-8fcc-11eb-924d-9cd76263cbd0,species,scoparia,Johreniopsis,,"(Boiss.) Pimenov",,1987,,"in Fl. Iran. 162: 455 1987",,,,,,944228-1,wfo-0000353901,3632431,,
+27ca7766-8fcc-11eb-924d-9cd76263cbd0,species,seseloides,Johreniopsis,,"(C.A.Mey.) Pimenov",,1987,,"in Fl. Iran. 162: 455 1987",,,,f91916b0-8fcc-11eb-924d-9cd76263cbd0,,944229-1,wfo-0000353902,3632422,,
+27cac91e-8fcc-11eb-924d-9cd76263cbd0,species,stricticaulis,Johreniopsis,,"(Rech.f.) Pimenov",,1987,,"in Fl. Iran. 162: 456 1987",,,,,,944231-1,wfo-0000353904,3632414,,

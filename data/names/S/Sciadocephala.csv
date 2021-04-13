@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea257c02-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadocephala,,,Mattf.,,,,,,,295688-2,wfo-4000034662,3150021,
-4031f3be-8fb4-11eb-924d-9cd76263cbd0,species,amazonica,Sciadocephala,,"R.M.King & H.Rob.",1974,"12 1974",,,,,230104-2,wfo-0000062209,4247365,
-719929f6-8fb2-11eb-924d-9cd76263cbd0,species,asplundii,Sciadocephala,,"R.M.King & H.Rob.",1976,"375 1976",,,,,230105-2,wfo-0000024715,4247360,
-2c782480-8fb2-11eb-924d-9cd76263cbd0,species,dressleri,Sciadocephala,,"R.M.King & H.Rob.",1975,"Phytologia 29(5) 343 1975",,,,,230106-2,wfo-0000014526,3150023,
-ff6af2ca-8fb5-11eb-924d-9cd76263cbd0,species,pakaraimae,Sciadocephala,,"(Maguire & Wurdack) R.M.King & H.Rob.",1974,"12 1974",,,,e98cc00a-8fb5-11eb-924d-9cd76263cbd0,230107-2,wfo-0000084551,3150024,
-4a2ff7b2-8fb9-11eb-924d-9cd76263cbd0,species,schultze-rhonhofiae,Sciadocephala,,Mattf.,1938,"Notizbl. Bot. Gart. Berlin-Dahlem 14 42 1938",,,,,230108-2,wfo-0000117082,3150022,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea257c02-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadocephala,,,Mattf.,,,,,,Q55777662,,,,295688-2,wfo-4000034662,3150021,,
+4031f3be-8fb4-11eb-924d-9cd76263cbd0,species,amazonica,Sciadocephala,,"R.M.King & H.Rob.",,1974,,"12 1974",,,,,,230104-2,wfo-0000062209,4247365,,
+719929f6-8fb2-11eb-924d-9cd76263cbd0,species,asplundii,Sciadocephala,,"R.M.King & H.Rob.",,1976,,"375 1976",,,,,,230105-2,wfo-0000024715,4247360,,
+2c782480-8fb2-11eb-924d-9cd76263cbd0,species,dressleri,Sciadocephala,,"R.M.King & H.Rob.",,1975,,"Phytologia 29(5) 343 1975",,,,,,230106-2,wfo-0000014526,3150023,,
+ff6af2ca-8fb5-11eb-924d-9cd76263cbd0,species,pakaraimae,Sciadocephala,,"(Maguire & Wurdack) R.M.King & H.Rob.",,1974,,"12 1974",,,,e98cc00a-8fb5-11eb-924d-9cd76263cbd0,,230107-2,wfo-0000084551,3150024,,
+4a2ff7b2-8fb9-11eb-924d-9cd76263cbd0,species,schultze-rhonhofiae,Sciadocephala,,Mattf.,,1938,,"Notizbl. Bot. Gart. Berlin-Dahlem 14 42 1938",,Q55777662,,,,230108-2,wfo-0000117082,3150022,,

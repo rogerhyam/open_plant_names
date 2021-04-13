@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e417962e-8fd1-11eb-924d-9cd76263cbd0,genus,Gnomophalium,,,Greuter,,,,,,,50426479-2,wfo-4000015894,3130262,
-2ec74282-8fb4-11eb-924d-9cd76263cbd0,species,pulvinatum,Gnomophalium,,"(Delile) Greuter",2003,"242 2003",,,,a38438ca-8fb2-11eb-924d-9cd76263cbd0,,wfo-0000061174,3130263,
-8ec608da-8fcd-11eb-924d-9cd76263cbd0,species,cordata,Gnoteris,,Raf.,1838,"Sylva Tellur. 76 1838",,,,,447477-1,wfo-0000974085,3890819,
-8ec624c8-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Gnoteris,,Raf.,1838,"Sylva Tellur. 76 1838",,,,,447478-1,wfo-0000974086,3890810,
-8ec65b5a-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Goadbyella,,R.S.Rogers,1927,"Trans. & Proc. Roy. Soc. South Australia 51: 294 1927",,,,,635923-1,wfo-0000974088,2807069,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e417962e-8fd1-11eb-924d-9cd76263cbd0,genus,Gnomophalium,,,Greuter,,,,,,Q55877753,,,,50426479-2,wfo-4000015894,3130262,,
+2ec74282-8fb4-11eb-924d-9cd76263cbd0,species,pulvinatum,Gnomophalium,,"(Delile) Greuter",,2003,,"242 2003",,,,a38438ca-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000061174,3130263,,
+8ec608da-8fcd-11eb-924d-9cd76263cbd0,species,cordata,Gnoteris,,Raf.,,1838,,"Sylva Tellur. 76 1838",,,,,,447477-1,wfo-0000974085,3890819,,
+8ec624c8-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Gnoteris,,Raf.,,1838,,"Sylva Tellur. 76 1838",,,,,,447478-1,wfo-0000974086,3890810,,
+8ec65b5a-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Goadbyella,,R.S.Rogers,,1927,,"Trans. & Proc. Roy. Soc. South Australia 51: 294 1927",,,,,,635923-1,wfo-0000974088,2807069,,

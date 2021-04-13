@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9604892-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnoloma,,,C.Chr.,1929,"Dansk Bot. Ark. 6(3): 75. 1929.",,,,,,wfo-4000032228,7290139,
-cfbf52ac-8fbd-11eb-924d-9cd76263cbd0,species,metacoelum,Pycnoloma,,C.Chr.,1929,"Dansk Bot. Ark. 6 no. 3. 77 t. 8-10. 1929. 1929",,,,,17357120-1,wfo-0000150239,5648546,
-cfc9291c-8fbd-11eb-924d-9cd76263cbd0,species,murudense,Pycnoloma,,C.Chr.,1929,"Dansk Bot. Ark. 6 no. 3. 78 t. 8, 10. 1929. 1929",,,,,17357130-1,wfo-0000150240,5648539,
-c88776fe-8fd1-11eb-924d-9cd76263cbd0,species,rigida,Pycnoloma,,"(Hook.) C.Chr.",1929,"Dansk Bot. Ark. 6: 76 1929",,,,,17357140-1,wfo-0001269782,,
-ca2eebb2-8fcd-11eb-924d-9cd76263cbd0,species,junciforme,Pycnoneurum,,Decne.,1838,"Ann. Sci. Nat., Bot., sér. 2, 9: 340–1, t. 12C 1838",,,,,100758-1,wfo-0001102404,3574067,
-ca2f064c-8fcd-11eb-924d-9cd76263cbd0,species,sessiliflorum,Pycnoneurum,,Decne.,1838,"Ann. Sci. Nat., Bot., sér. 2, 9: 341 1838",,,,,100759-1,wfo-0001102405,3574058,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9604892-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnoloma,,,C.Chr.,,1929,,"Dansk Bot. Ark. 6(3): 75. 1929.",,,,,,,wfo-4000032228,7290139,,
+cfbf52ac-8fbd-11eb-924d-9cd76263cbd0,species,metacoelum,Pycnoloma,,C.Chr.,,1929,,"Dansk Bot. Ark. 6 no. 3. 77 t. 8-10. 1929. 1929",,,,,,17357120-1,wfo-0000150239,5648546,,
+cfc9291c-8fbd-11eb-924d-9cd76263cbd0,species,murudense,Pycnoloma,,C.Chr.,,1929,,"Dansk Bot. Ark. 6 no. 3. 78 t. 8, 10. 1929. 1929",,,,,,17357130-1,wfo-0000150240,5648539,,
+c88776fe-8fd1-11eb-924d-9cd76263cbd0,species,rigida,Pycnoloma,,"(Hook.) C.Chr.",,1929,,"Dansk Bot. Ark. 6: 76 1929",,,,,,17357140-1,wfo-0001269782,,,

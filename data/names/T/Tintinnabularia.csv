@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb60b410-8fd1-11eb-924d-9cd76263cbd0,genus,Tintinnabularia,,,Woodson,1936,"Ann. Missouri Bot. Gard. 23(2): 387–388. 1936. (10 Jun 1936)",,,,,289330-2,wfo-4000038460,7317085,
-169bc6b6-8fcc-11eb-924d-9cd76263cbd0,species,gratissima,Tintinnabularia,,J.F.Morales,1996,"Novon 6: 392 1996",,,,,993261-1,wfo-0000325440,3619093,
-c685e458-8fd1-11eb-924d-9cd76263cbd0,species,hondurensis,Tintinnabularia,,J.K.Williams,,,,,,,,wfo-0001266033,8325400,
-169be43e-8fcc-11eb-924d-9cd76263cbd0,species,mortonii,Tintinnabularia,,Woodson,1936,"Ann. Missouri Bot. Gard. 23: 389 1936",,,,,254531-2,wfo-0000325441,3619074,
-169bff3c-8fcc-11eb-924d-9cd76263cbd0,species,murallensis,Tintinnabularia,,J.K.Williams,1999,"Lundellia 2: 138 1999",,,,,1014580-1,wfo-0000325442,3619054,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb60b410-8fd1-11eb-924d-9cd76263cbd0,genus,Tintinnabularia,,,Woodson,,1936,,"Ann. Missouri Bot. Gard. 23(2): 387–388. 1936. (10 Jun 1936)",,Q55764653,,,,289330-2,wfo-4000038460,7317085,,
+169bc6b6-8fcc-11eb-924d-9cd76263cbd0,species,gratissima,Tintinnabularia,,J.F.Morales,,1996,,"Novon 6: 392 1996",,Q55774446,,,,993261-1,wfo-0000325440,3619093,,
+c685e458-8fd1-11eb-924d-9cd76263cbd0,species,hondurensis,Tintinnabularia,,J.K.Williams,,,,,,,,,,,wfo-0001266033,8325400,,
+169be43e-8fcc-11eb-924d-9cd76263cbd0,species,mortonii,Tintinnabularia,,Woodson,,1936,,"Ann. Missouri Bot. Gard. 23: 389 1936",,Q55764653,,,,254531-2,wfo-0000325441,3619074,,
+169bff3c-8fcc-11eb-924d-9cd76263cbd0,species,murallensis,Tintinnabularia,,J.K.Williams,,1999,,"Lundellia 2: 138 1999",,Q100428176,,,,1014580-1,wfo-0000325442,3619054,,

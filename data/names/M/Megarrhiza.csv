@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67a9a06-8fd1-11eb-924d-9cd76263cbd0,genus,Megarrhiza,,,"Torr. & A.Gray",1860,"Rep. Explor. Railroad Pacific 12: 61. 1860.",,,,,,wfo-4000023509,7317682,
-d525d5b8-8fd1-11eb-924d-9cd76263cbd0,species,californica,Megarrhiza,,Torr.,,"Pacif. Railr. Rep. 6: 74",,,,,293144-1,wfo-0001286757,3623817,
-cc67e16e-8fd1-11eb-924d-9cd76263cbd0,species,gilensis,Megarrhiza,,Greene,1881,"Bull. Torrey Bot. Club 8: 97 1881",,,,,293145-1,wfo-0001276999,7660031,
-c0b053ce-8fd1-11eb-924d-9cd76263cbd0,species,guadalupensis,Megarrhiza,,S.Watson,1876,"Proc. Amer. Acad. Arts 11: 115, 138 1876",,,,,155850-2,wfo-0001255384,3623850,
-b8d7676e-8fd1-11eb-924d-9cd76263cbd0,species,macrocarpa,Megarrhiza,,"(Greene) Tidestr.",1935,"Proc. Biol. Soc. Wash. 48(9): 43 1935",,,,eade93a4-8fcc-11eb-924d-9cd76263cbd0,293148-1,wfo-0001240812,3623866,
-35ea9326-8fcc-11eb-924d-9cd76263cbd0,species,marah,Megarrhiza,,S.Watson,1876,"Proc. Amer. Acad. Arts 11: 138 1876",,,,,293149-1,wfo-0000377141,3623891,
-35e96c58-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Megarrhiza,,S.Watson,1876,"Proc. Amer. Acad. Arts 11: 139 1876",,,,,293150-1,wfo-0000377132,3623913,
-35e98936-8fcc-11eb-924d-9cd76263cbd0,species,oregona,Megarrhiza,,"(Torr. & A.Gray) Torr.",1860,"Pacif. Railr. Rep. Parke, Bot. 12(2, Bot.): 61 1860",,,,,293151-1,wfo-0000377133,3625678,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67a9a06-8fd1-11eb-924d-9cd76263cbd0,genus,Megarrhiza,,,"Torr. & A.Gray",,1860,,"Rep. Explor. Railroad Pacific 12: 61. 1860.",,,,,,,wfo-4000023509,7317682,,
+d525d5b8-8fd1-11eb-924d-9cd76263cbd0,species,californica,Megarrhiza,,Torr.,,,,"Pacif. Railr. Rep. 6: 74",,,,,,293144-1,wfo-0001286757,3623817,,
+cc67e16e-8fd1-11eb-924d-9cd76263cbd0,species,gilensis,Megarrhiza,,Greene,,1881,,"Bull. Torrey Bot. Club 8: 97 1881",,Q55766386,,,,293145-1,wfo-0001276999,7660031,,
+c0b053ce-8fd1-11eb-924d-9cd76263cbd0,species,guadalupensis,Megarrhiza,,S.Watson,,1876,,"Proc. Amer. Acad. Arts 11: 115, 138 1876",,,,,,155850-2,wfo-0001255384,3623850,,
+b8d7676e-8fd1-11eb-924d-9cd76263cbd0,species,macrocarpa,Megarrhiza,,"(Greene) Tidestr.",,1935,,"Proc. Biol. Soc. Wash. 48(9): 43 1935",,,,eade93a4-8fcc-11eb-924d-9cd76263cbd0,,293148-1,wfo-0001240812,3623866,,
+35ea9326-8fcc-11eb-924d-9cd76263cbd0,species,marah,Megarrhiza,,S.Watson,,1876,,"Proc. Amer. Acad. Arts 11: 138 1876",,,,,,293149-1,wfo-0000377141,3623891,,
+35e96c58-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Megarrhiza,,S.Watson,,1876,,"Proc. Amer. Acad. Arts 11: 139 1876",,,,,,293150-1,wfo-0000377132,3623913,,
+35e98936-8fcc-11eb-924d-9cd76263cbd0,species,oregona,Megarrhiza,,"(Torr. & A.Gray) Torr.",,1860,,"Pacif. Railr. Rep. Parke, Bot. 12(2, Bot.): 61 1860",,,,,,293151-1,wfo-0000377133,3625678,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e96b66-8fd1-11eb-924d-9cd76263cbd0,genus,Morindopsis,,,Hook.f.,1873,"Gen. Pl. 2: 93. 1873.",,,,,34942-1,wfo-4000024851,4938116,
-e49f0eb6-8fcb-11eb-924d-9cd76263cbd0,species,capillaris,Morindopsis,,"(Kurz) Kurz",1874,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 43(2): 189 1874",,,,,756523-1,wfo-0000246145,2907641,
-e49f2edc-8fcb-11eb-924d-9cd76263cbd0,species,laotica,Morindopsis,,Pit.,1923,"Fl. Indo-Chine 3: 264 1923",,,,,756524-1,wfo-0000246146,2907640,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e96b66-8fd1-11eb-924d-9cd76263cbd0,genus,Morindopsis,,,Hook.f.,,1873,,"Gen. Pl. 2: 93. 1873.",,,,,,34942-1,wfo-4000024851,4938116,,
+e49f0eb6-8fcb-11eb-924d-9cd76263cbd0,species,capillaris,Morindopsis,,"(Kurz) Kurz",,1874,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 43(2): 189 1874",,,,,,756523-1,wfo-0000246145,2907641,,
+e49f2edc-8fcb-11eb-924d-9cd76263cbd0,species,laotica,Morindopsis,,Pit.,,1923,,"Fl. Indo-Chine 3: 264 1923",,,,,,756524-1,wfo-0000246146,2907640,,

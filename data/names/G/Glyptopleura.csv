@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4167c6c-8fd1-11eb-924d-9cd76263cbd0,genus,Glyptopleura,,,D.C.Eaton,,,,,,,9066-1,wfo-4000015874,3146466,
-cc6b8d22-8fb9-11eb-924d-9cd76263cbd0,species,marginata,Glyptopleura,,D.C.Eaton,1871,"207 1871",,,,,209033-1,wfo-0000121470,5404775,
-8c7584c2-8fb7-11eb-924d-9cd76263cbd0,variety,setulosa,Glyptopleura,marginata,"(A.Gray) Jeps.",,"1008 1925",,,,a71b53e0-8fb9-11eb-924d-9cd76263cbd0,111085-2,wfo-0000100831,5697579,
-a71b53e0-8fb9-11eb-924d-9cd76263cbd0,species,setulosa,Glyptopleura,,A.Gray,1874,1874,,,,,,wfo-0000120221,5404776,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4167c6c-8fd1-11eb-924d-9cd76263cbd0,genus,Glyptopleura,,,D.C.Eaton,,,,,,,,,,9066-1,wfo-4000015874,3146466,,
+cc6b8d22-8fb9-11eb-924d-9cd76263cbd0,species,marginata,Glyptopleura,,D.C.Eaton,,1871,,"207 1871",,,,,,209033-1,wfo-0000121470,5404775,,
+8c7584c2-8fb7-11eb-924d-9cd76263cbd0,variety,setulosa,Glyptopleura,marginata,"(A.Gray) Jeps.",,,,"1008 1925",,,,a71b53e0-8fb9-11eb-924d-9cd76263cbd0,,111085-2,wfo-0000100831,5697579,,
+a71b53e0-8fb9-11eb-924d-9cd76263cbd0,species,setulosa,Glyptopleura,,A.Gray,,1874,,1874,,,,,,,wfo-0000120221,5404776,,

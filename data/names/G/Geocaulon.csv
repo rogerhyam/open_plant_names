@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3f6a036-8fd1-11eb-924d-9cd76263cbd0,genus,Geocaulon,,,Fernald,1928,"Rhodora 30(350): 23–24. 1928.",,,,,297331-2,wfo-4000015522,2889769,
-0057f7a2-8fcd-11eb-924d-9cd76263cbd0,species,lividum,Geocaulon,,"(Richardson) Fernald",1928,"Rhodora 30: 23 1928",,,,,108804-2,wfo-0000699709,2889770,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3f6a036-8fd1-11eb-924d-9cd76263cbd0,genus,Geocaulon,,,Fernald,,1928,,"Rhodora 30(350): 23–24. 1928.",,Q100405532,,,,297331-2,wfo-4000015522,2889769,,
+0057f7a2-8fcd-11eb-924d-9cd76263cbd0,species,lividum,Geocaulon,,"(Richardson) Fernald",,1928,,"Rhodora 30: 23 1928",,Q100405532,,,,108804-2,wfo-0000699709,2889770,,

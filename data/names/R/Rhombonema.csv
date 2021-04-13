@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a8bdd4-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombonema,,,Schltr.,1895,"Bot. Jahrb. Syst. 20(Beibl. 51): 41. 1895.",,,,,,wfo-4000033071,7311856,
-49893e64-8fcc-11eb-924d-9cd76263cbd0,species,luridum,Rhombonema,,Schltr.,1895,"Bot. Jahrb. Syst. 20(51): 41 1895",,,,,100835-1,wfo-0000402295,3572883,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a8bdd4-8fd1-11eb-924d-9cd76263cbd0,genus,Rhombonema,,,Schltr.,,1895,,"Bot. Jahrb. Syst. 20(Beibl. 51): 41. 1895.",,,,,,,wfo-4000033071,7311856,,
+49893e64-8fcc-11eb-924d-9cd76263cbd0,species,luridum,Rhombonema,,Schltr.,,1895,,"Bot. Jahrb. Syst. 20(51): 41 1895",,,,,,100835-1,wfo-0000402295,3572883,,

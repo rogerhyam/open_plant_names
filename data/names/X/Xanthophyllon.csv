@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec1f2cba-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthophyllon,,,,,,,,,,,wfo-4000040888,3831518,
-5dc3c8ea-8fcc-11eb-924d-9cd76263cbd0,species,clava-herculis,Xanthophyllon,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 70 1880",,,,,775542-1,wfo-0000428468,3836310,
-5dc1b672-8fcc-11eb-924d-9cd76263cbd0,species,clavatum,Xanthophyllon,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 70 1880",,,,,775543-1,wfo-0000428457,3833850,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec1f2cba-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthophyllon,,,,,,,,,,,,,,wfo-4000040888,3831518,,
+5dc3c8ea-8fcc-11eb-924d-9cd76263cbd0,species,clava-herculis,Xanthophyllon,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 70 1880",,,,,,775542-1,wfo-0000428468,3836310,,
+5dc1b672-8fcc-11eb-924d-9cd76263cbd0,species,clavatum,Xanthophyllon,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 70 1880",,,,,,775543-1,wfo-0000428457,3833850,,

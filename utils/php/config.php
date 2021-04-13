@@ -22,17 +22,22 @@ $fields = array(
     'genus',
     'species',
     'authors',
+    'author_ids',
     'year',
+    'status',
     'citation_micro',
     'citation_full',
     'citation_id',
     'publication_id',
     'basionym_id',
+    'type_id',
     'ipni_id',
     'wfo_id',
     'gbif_id',
+    'indexfungorum_id',
     'note'
 );
+
 // ranks
 $ranks_higher = array('phylum', 'order', 'family', 'section', 'subgenus'); // single words
 $ranks_lower = array('genus','species', 'subspecies', 'variety', 'form'); // binomials and trinomials and genus

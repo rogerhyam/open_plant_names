@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67ac10c-8fd1-11eb-924d-9cd76263cbd0,genus,Megasea,,,Haw.,1821,"Saxifrag. Enum. 6. 1821.",,,,,,wfo-4000023510,7339539,
-6da3ee48-8fcc-11eb-924d-9cd76263cbd0,species,ciliata,Megasea,,Haw.,1821,"Saxifrag. Enum. 1: 7 1821",,,,,791847-1,wfo-0000453193,3754982,
-6da3d0de-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Megasea,,Haw.,1821,"Saxifrag. Enum. 1: 7 1821",,,,,791848-1,wfo-0000453192,3754970,
-6da3b2a2-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Megasea,,Haw.,1821,"Saxifrag. Enum. 1: 6 1821",,,,,791849-1,wfo-0000453191,3754960,
-6da3904c-8fcc-11eb-924d-9cd76263cbd0,species,media,Megasea,,Haw.,1821,"Saxifrag. Enum. 1: 7 1821",,,,,791851-1,wfo-0000453190,3754941,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67ac10c-8fd1-11eb-924d-9cd76263cbd0,genus,Megasea,,,Haw.,,1821,,"Saxifrag. Enum. 6. 1821.",,,,,,,wfo-4000023510,7339539,,
+6da3ee48-8fcc-11eb-924d-9cd76263cbd0,species,ciliata,Megasea,,Haw.,,1821,,"Saxifrag. Enum. 1: 7 1821",,,,,,791847-1,wfo-0000453193,3754982,,
+6da3d0de-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Megasea,,Haw.,,1821,,"Saxifrag. Enum. 1: 7 1821",,,,,,791848-1,wfo-0000453192,3754970,,
+6da3b2a2-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Megasea,,Haw.,,1821,,"Saxifrag. Enum. 1: 6 1821",,,,,,791849-1,wfo-0000453191,3754960,,
+6da3904c-8fcc-11eb-924d-9cd76263cbd0,species,media,Megasea,,Haw.,,1821,,"Saxifrag. Enum. 1: 7 1821",,,,,,791851-1,wfo-0000453190,3754941,,

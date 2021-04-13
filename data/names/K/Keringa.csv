@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55a5fda-8fd1-11eb-924d-9cd76263cbd0,genus,Keringa,,,,,,,,,,,wfo-4000019948,7336651,
-bbbf776a-8fb2-11eb-924d-9cd76263cbd0,species,amygdalina,Keringa,,"(Delile) Raf.",1838,"Sylva Tellur. 144 (1838)",,,,0190ffbe-8fb5-11eb-924d-9cd76263cbd0,227272-1,wfo-0000033073,4217873,
-567d5af0-8fcd-11eb-924d-9cd76263cbd0,species,cheribon,Kerinozoma,,Steud.,1854,"Syn. Pl. Glumac. 1: 358 1854",,,,,406422-1,wfo-0000876704,4139466,
-567d75f8-8fcd-11eb-924d-9cd76263cbd0,species,collina,Kerinozoma,,Steud.,1854,"Syst. Verz. Ind. Archip. 1: 57 1854",,,,,,wfo-0000876705,4139456,
-567d9100-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Kerinozoma,,Steud.,1854,"Syst. Verz. Ind. Archip. 1: 57 1854",,,,,,wfo-0000876706,4139447,
-567dae1a-8fcd-11eb-924d-9cd76263cbd0,species,suraboja,Kerinozoma,,Steud.,1854,"Syn. Pl. Glumac. 1: 358 1854",,,,,406425-1,wfo-0000876707,4139437,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55a5fda-8fd1-11eb-924d-9cd76263cbd0,genus,Keringa,,,,,,,,,,,,,,wfo-4000019948,7336651,,
+bbbf776a-8fb2-11eb-924d-9cd76263cbd0,species,amygdalina,Keringa,,"(Delile) Raf.",,1838,,"Sylva Tellur. 144 (1838)",,,,0190ffbe-8fb5-11eb-924d-9cd76263cbd0,,227272-1,wfo-0000033073,4217873,,
+567d5af0-8fcd-11eb-924d-9cd76263cbd0,species,cheribon,Kerinozoma,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 358 1854",,,,,,406422-1,wfo-0000876704,4139466,,
+567d75f8-8fcd-11eb-924d-9cd76263cbd0,species,collina,Kerinozoma,,Steud.,,1854,,"Syst. Verz. Ind. Archip. 1: 57 1854",,,,,,,wfo-0000876705,4139456,,
+567d9100-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Kerinozoma,,Steud.,,1854,,"Syst. Verz. Ind. Archip. 1: 57 1854",,,,,,,wfo-0000876706,4139447,,
+567dae1a-8fcd-11eb-924d-9cd76263cbd0,species,suraboja,Kerinozoma,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 358 1854",,,,,,406425-1,wfo-0000876707,4139437,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f85f30-8fd1-11eb-924d-9cd76263cbd0,genus,Paraleptochilus,,,Copel.,1947,"Gen. Fil. 198, t. 7. 1947.",,,,,,wfo-4000028062,7290285,
-b38e5966-8fd1-11eb-924d-9cd76263cbd0,species,decurrens,Paraleptochilus,,"(Blume) Copel.",1947,"Gen. Fil. (Copeland) 198, pl. 7 1947",,,,,17409590-1,wfo-0001231022,7290288,
-c37f42f4-8fd1-11eb-924d-9cd76263cbd0,variety,lanceolata,Paraleptochilus,decurrens,"(Fée) R.D.Dixit",1989,"Indian Fern J. 6(1–2): 148 1989",,,,d4541176-8fcd-11eb-924d-9cd76263cbd0,17540030-1,wfo-0001260601,4028710,
-d63cc280-8fcd-11eb-924d-9cd76263cbd0,species,metallicus,Paraleptochilus,,"(Bedd.) Á.Löve & D.Löve",1977,"Taxon 26(2–3): 324 1977",,,,d63cdebe-8fcd-11eb-924d-9cd76263cbd0,17555150-1,wfo-0001128807,4028701,
-97125882-8fbd-11eb-924d-9cd76263cbd0,species,ovatus,Paraleptochilus,,Copel.,1947,"Gen. Fil. [Copeland] 198 1947",,,,,17409600-1,wfo-0000148795,4028678,
-de7515ba-8fcd-11eb-924d-9cd76263cbd0,species,recurvifolium,Paraleptodontium,,"(Taylor) D.G.Long",1982,"J. Bryol. 12: 181 1982",,,,ecb30c72-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146655,4280530,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f85f30-8fd1-11eb-924d-9cd76263cbd0,genus,Paraleptochilus,,,Copel.,,1947,,"Gen. Fil. 198, t. 7. 1947.",,,,,,,wfo-4000028062,7290285,,
+b38e5966-8fd1-11eb-924d-9cd76263cbd0,species,decurrens,Paraleptochilus,,"(Blume) Copel.",,1947,,"Gen. Fil. (Copeland) 198, pl. 7 1947",,,,,,17409590-1,wfo-0001231022,7290288,,
+c37f42f4-8fd1-11eb-924d-9cd76263cbd0,variety,lanceolata,Paraleptochilus,decurrens,"(Fée) R.D.Dixit",,1989,,"Indian Fern J. 6(1–2): 148 1989",,,,d4541176-8fcd-11eb-924d-9cd76263cbd0,,17540030-1,wfo-0001260601,4028710,,
+d63cc280-8fcd-11eb-924d-9cd76263cbd0,species,metallicus,Paraleptochilus,,"(Bedd.) Á.Löve & D.Löve",,1977,,"Taxon 26(2–3): 324 1977",,Q28954461,,d63cdebe-8fcd-11eb-924d-9cd76263cbd0,,17555150-1,wfo-0001128807,4028701,,
+97125882-8fbd-11eb-924d-9cd76263cbd0,species,ovatus,Paraleptochilus,,Copel.,,1947,,"Gen. Fil. [Copeland] 198 1947",,,,,,17409600-1,wfo-0000148795,4028678,,
+de7515ba-8fcd-11eb-924d-9cd76263cbd0,species,recurvifolium,Paraleptodontium,,"(Taylor) D.G.Long",,1982,,"J. Bryol. 12: 181 1982",,,,ecb30c72-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146655,4280530,,

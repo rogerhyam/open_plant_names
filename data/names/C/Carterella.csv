@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e14002ce-8fd1-11eb-924d-9cd76263cbd0,genus,Carterella,,,Terrell,1987,"Brittonia 39(2): 250. 1987.",,,,,30219602-2,wfo-4000006833,2896427,
-368a8d12-8fcd-11eb-924d-9cd76263cbd0,species,alexanderae,Carterella,,"(A.M.Carter) Terrell",1987,"Brittonia 39: 250 1987",,,,307329c6-8fcc-11eb-924d-9cd76263cbd0,943999-1,wfo-0000807522,5335599,
-368cd450-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Carteretia,,A.Rich.,1833,"Voy. Astrolabe 2: 10 1833",,,,,,wfo-0000807543,2785699,
-368fe8fc-8fcd-11eb-924d-9cd76263cbd0,species,corallicola,Carteria,,Small,1910,"Torreya 10: 188 1910",,,,,47718-2,wfo-0000807565,5306503,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e14002ce-8fd1-11eb-924d-9cd76263cbd0,genus,Carterella,,,Terrell,,1987,,"Brittonia 39(2): 250. 1987.",,Q55809047,,,,30219602-2,wfo-4000006833,2896427,,
+368a8d12-8fcd-11eb-924d-9cd76263cbd0,species,alexanderae,Carterella,,"(A.M.Carter) Terrell",,1987,,"Brittonia 39: 250 1987",,Q55809047,,307329c6-8fcc-11eb-924d-9cd76263cbd0,,943999-1,wfo-0000807522,5335599,,
+368cd450-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Carteretia,,A.Rich.,,1833,,"Voy. Astrolabe 2: 10 1833",,,,,,,wfo-0000807543,2785699,,
+368fe8fc-8fcd-11eb-924d-9cd76263cbd0,species,corallicola,Carteria,,Small,,1910,,"Torreya 10: 188 1910",,,,,,47718-2,wfo-0000807565,5306503,,

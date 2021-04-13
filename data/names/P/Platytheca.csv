@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8ad0c78-8fd1-11eb-924d-9cd76263cbd0,genus,Platytheca,,,Steetz,1845,"Pl. Preiss. 1: 220. 1845.",,,,,39556-1,wfo-4000030174,3232030,
-8f53060a-8fcc-11eb-924d-9cd76263cbd0,species,anasima,Platytheca,,R.Butcher,2008,"Nuytsia 18: 32 2008",,,,,77092613-1,wfo-0000510078,8062995,
-7afa2288-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Platytheca,,Steetz,1845,"Pl. Preiss. 1: 222 1845",,,,,836145-1,wfo-0000475776,7746259,
-7af7f54e-8fcc-11eb-924d-9cd76263cbd0,species,crucianella,Platytheca,,Steetz,1845,"Pl. Preiss. 1: 221 1845",,,,,836146-1,wfo-0000475762,7672940,
-7af85714-8fcc-11eb-924d-9cd76263cbd0,species,galioides,Platytheca,,Steetz,1845,"Pl. Preiss. 1: 220 1845",,,,,836147-1,wfo-0000475763,8268451,
-7af88cac-8fcc-11eb-924d-9cd76263cbd0,species,juniperina,Platytheca,,Domin,1921,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(2): 56 1923",,,,,836148-1,wfo-0000475764,7444209,
-7af8bd3a-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Platytheca,,Baill.,1873,"Hist. Pl. 5: 67 1873",,,,,836149-1,wfo-0000475765,7751777,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8ad0c78-8fd1-11eb-924d-9cd76263cbd0,genus,Platytheca,,,Steetz,,1845,,"Pl. Preiss. 1: 220. 1845.",,,,,,39556-1,wfo-4000030174,3232030,,
+8f53060a-8fcc-11eb-924d-9cd76263cbd0,species,anasima,Platytheca,,R.Butcher,,2008,,"Nuytsia 18: 32 2008",,,,,,77092613-1,wfo-0000510078,8062995,,
+7afa2288-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Platytheca,,Steetz,,1845,,"Pl. Preiss. 1: 222 1845",,,,,,836145-1,wfo-0000475776,7746259,,
+7af7f54e-8fcc-11eb-924d-9cd76263cbd0,species,crucianella,Platytheca,,Steetz,,1845,,"Pl. Preiss. 1: 221 1845",,,,,,836146-1,wfo-0000475762,7672940,,
+7af85714-8fcc-11eb-924d-9cd76263cbd0,species,galioides,Platytheca,,Steetz,,1845,,"Pl. Preiss. 1: 220 1845",,,,,,836147-1,wfo-0000475763,8268451,,
+7af88cac-8fcc-11eb-924d-9cd76263cbd0,species,juniperina,Platytheca,,Domin,,1921,,"V?stn. Král. Ceské Spole?n. Nauk, T?. Mat.-P?ír. 1921-1922(2): 56 1923",,,,,,836148-1,wfo-0000475764,7444209,,
+7af8bd3a-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Platytheca,,Baill.,,1873,,"Hist. Pl. 5: 67 1873",,,,,,836149-1,wfo-0000475765,7751777,,

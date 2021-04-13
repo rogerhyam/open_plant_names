@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb3d3562-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraulacium,,,Turcz.,1843,"Bull. Soc. Imp. Naturalistes Moscou 16: 53. 1843.",,,,,38054-1,wfo-4000038015,7331834,
-c4b17872-8fd1-11eb-924d-9cd76263cbd0,species,veroniciforme,Tetraulacium,,Turcz.,1843,"Bull. Soc. Imp. Naturalistes Moscou 16: 54 1843",,,,,810298-1,wfo-0001262700,3726673,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb3d3562-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraulacium,,,Turcz.,,1843,,"Bull. Soc. Imp. Naturalistes Moscou 16: 53. 1843.",,,,,,38054-1,wfo-4000038015,7331834,,
+c4b17872-8fd1-11eb-924d-9cd76263cbd0,species,veroniciforme,Tetraulacium,,Turcz.,,1843,,"Bull. Soc. Imp. Naturalistes Moscou 16: 54 1843",,,,,,810298-1,wfo-0001262700,3726673,,

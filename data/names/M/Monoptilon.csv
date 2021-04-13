@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e006a2-8fd1-11eb-924d-9cd76263cbd0,genus,Monoptilon,,,"Torr. & A.Gray",,,,,,,30364459-2,wfo-4000024741,3101323,
-507ce866-8fb2-11eb-924d-9cd76263cbd0,species,bellidiforme,Monoptilon,,"Torr. & A.Gray ex Torr. & A.Gray",1845,"Boston J. Nat. Hist. 1: 106 (-107). 1845 [Jan 1845] ; Proc. Boston Soc. Nat. Hist. 1: 210. Mar 1845 ['1844']",,,,,,wfo-0000020168,3101324,
-2fc6fb38-8fb3-11eb-924d-9cd76263cbd0,species,bellioides,Monoptilon,,"(A.Gray) H.M.Hall",1907,"75 1907",,,,,163817-2,wfo-0000043425,3101325,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e006a2-8fd1-11eb-924d-9cd76263cbd0,genus,Monoptilon,,,"Torr. & A.Gray",,,,,,,,,,30364459-2,wfo-4000024741,3101323,,
+507ce866-8fb2-11eb-924d-9cd76263cbd0,species,bellidiforme,Monoptilon,,"Torr. & A.Gray ex Torr. & A.Gray",,1845,,"Boston J. Nat. Hist. 1: 106 (-107). 1845 [Jan 1845] ; Proc. Boston Soc. Nat. Hist. 1: 210. Mar 1845 ['1844']",,,,,,,wfo-0000020168,3101324,,
+2fc6fb38-8fb3-11eb-924d-9cd76263cbd0,species,bellioides,Monoptilon,,"(A.Gray) H.M.Hall",,1907,,"75 1907",,,,,,163817-2,wfo-0000043425,3101325,,

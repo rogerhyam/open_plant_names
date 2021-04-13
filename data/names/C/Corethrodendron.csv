@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e20a9e44-8fd1-11eb-924d-9cd76263cbd0,genus,Corethrodendron,,,"Fisch. & Basiner",,,,,,,22091-1,wfo-4000009301,7302313,
-abc324e0-8fcd-11eb-924d-9cd76263cbd0,species,fruticosum,Corethrodendron,,"(Pall.) B.H.Choi & H.Ohashi",2003,"Taxon 52: 573 2003",,,,9fdf9a0c-8fc6-11eb-924d-9cd76263cbd0,70029964-1,wfo-0001034247,3973643,
-abc33f52-8fcd-11eb-924d-9cd76263cbd0,species,krassnowii,Corethrodendron,,"(B.Fedtsch.) B.H.Choi & H.Ohashi",2003,"Taxon 52: 573 2003",,,,,70029965-1,wfo-0001034248,3973639,
-ad35cd64-8fcd-11eb-924d-9cd76263cbd0,species,lignosum,Corethrodendron,,"(Trautv.) L.R.Xu & B.H.Choi",2010,"Fl. China 10: 514 2010",,,,a03a2fe4-8fc6-11eb-924d-9cd76263cbd0,77104851-1,wfo-0001037351,8327351,
-abc359e2-8fcd-11eb-924d-9cd76263cbd0,species,multijugum,Corethrodendron,,"(Maxim.) B.H.Choi & H.Ohashi",2003,"Taxon 52: 573 2003",,,,a13badaa-8fc6-11eb-924d-9cd76263cbd0,70029966-1,wfo-0001034249,3973632,
-c9d81cca-8fd1-11eb-924d-9cd76263cbd0,species,scoparium,Corethrodendron,,"(Fisch. & C.A.Mey.) Fisch. & Basiner",1845,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 4: 315 1845",,,,a1fc48a8-8fc6-11eb-924d-9cd76263cbd0,487146-1,wfo-0001272343,2961120,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e20a9e44-8fd1-11eb-924d-9cd76263cbd0,genus,Corethrodendron,,,"Fisch. & Basiner",,,,,,,,,,22091-1,wfo-4000009301,7302313,,
+abc324e0-8fcd-11eb-924d-9cd76263cbd0,species,fruticosum,Corethrodendron,,"(Pall.) B.H.Choi & H.Ohashi",,2003,,"Taxon 52: 573 2003",,Q28959605,,9fdf9a0c-8fc6-11eb-924d-9cd76263cbd0,,70029964-1,wfo-0001034247,3973643,,
+abc33f52-8fcd-11eb-924d-9cd76263cbd0,species,krassnowii,Corethrodendron,,"(B.Fedtsch.) B.H.Choi & H.Ohashi",,2003,,"Taxon 52: 573 2003",,Q28959605,,,,70029965-1,wfo-0001034248,3973639,,
+ad35cd64-8fcd-11eb-924d-9cd76263cbd0,species,lignosum,Corethrodendron,,"(Trautv.) L.R.Xu & B.H.Choi",,2010,,"Fl. China 10: 514 2010",,,,a03a2fe4-8fc6-11eb-924d-9cd76263cbd0,,77104851-1,wfo-0001037351,8327351,,
+abc359e2-8fcd-11eb-924d-9cd76263cbd0,species,multijugum,Corethrodendron,,"(Maxim.) B.H.Choi & H.Ohashi",,2003,,"Taxon 52: 573 2003",,Q28959605,,a13badaa-8fc6-11eb-924d-9cd76263cbd0,,70029966-1,wfo-0001034249,3973632,,
+c9d81cca-8fd1-11eb-924d-9cd76263cbd0,species,scoparium,Corethrodendron,,"(Fisch. & C.A.Mey.) Fisch. & Basiner",,1845,,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 4: 315 1845",,,,a1fc48a8-8fc6-11eb-924d-9cd76263cbd0,,487146-1,wfo-0001272343,2961120,,

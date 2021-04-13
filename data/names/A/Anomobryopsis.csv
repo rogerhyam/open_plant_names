@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7f49a4-8fd1-11eb-924d-9cd76263cbd0,genus,Anomobryopsis,,,Cardot,1911,"Rev. Bryol. 38: 8. 1911.",,,,,,wfo-4000002289,4897184,
-e0c7c678-8fcd-11eb-924d-9cd76263cbd0,species,tereticaulis,Anomobryopsis,,Cardot,1911,"Rev. Bryol. 38: 8 1911",,,,,,wfo-0001151427,7771480,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7f49a4-8fd1-11eb-924d-9cd76263cbd0,genus,Anomobryopsis,,,Cardot,,1911,,"Rev. Bryol. 38: 8. 1911.",,,,,,,wfo-4000002289,4897184,,
+e0c7c678-8fcd-11eb-924d-9cd76263cbd0,species,tereticaulis,Anomobryopsis,,Cardot,,1911,,"Rev. Bryol. 38: 8 1911",,,,,,,wfo-0001151427,7771480,,

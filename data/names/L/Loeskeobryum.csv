@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6060ac4-8fd1-11eb-924d-9cd76263cbd0,genus,Loeskeobryum,,,"M.Fleisch. ex Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 482–483. 1925.",,,,,,wfo-4000022076,8009310,
-ef793ff8-8fcd-11eb-924d-9cd76263cbd0,species,brevirostre,Loeskeobryum,,"(Brid.) M.Fleisch.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 483 1925",,,,e3830a58-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001182464,,
-ef795cf4-8fcd-11eb-924d-9cd76263cbd0,species,cavifolium,Loeskeobryum,,"(Sande Lac.) M.Fleisch. ex Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 483 1925",,,,f051bd9c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001182465,,
-f58b282a-8fcd-11eb-924d-9cd76263cbd0,species,giganteum,Loeskeobryum,,"(E.B.Bartram) J.R.Rohrer",1985,"J. Hattori Bot. Lab. 59: 251 1985",,,,f0528678-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194792,7612030,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6060ac4-8fd1-11eb-924d-9cd76263cbd0,genus,Loeskeobryum,,,"M.Fleisch. ex Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 482–483. 1925.",,,,,,,wfo-4000022076,8009310,,
+ef793ff8-8fcd-11eb-924d-9cd76263cbd0,species,brevirostre,Loeskeobryum,,"(Brid.) M.Fleisch.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 483 1925",,,,e3830a58-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001182464,,,
+ef795cf4-8fcd-11eb-924d-9cd76263cbd0,species,cavifolium,Loeskeobryum,,"(Sande Lac.) M.Fleisch. ex Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 483 1925",,,,f051bd9c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001182465,,,
+f58b282a-8fcd-11eb-924d-9cd76263cbd0,species,giganteum,Loeskeobryum,,"(E.B.Bartram) J.R.Rohrer",,1985,,"J. Hattori Bot. Lab. 59: 251 1985",,,,f0528678-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194792,7612030,,

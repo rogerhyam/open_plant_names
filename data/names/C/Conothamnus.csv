@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e20126b6-8fd1-11eb-924d-9cd76263cbd0,genus,Conothamnus,,,Lindl.,1839,"Bot. Reg. 23: App. (Swan River) ix. 1839.",,,,,,wfo-4000009186,3186562,
-751e0dd8-8fcd-11eb-924d-9cd76263cbd0,species,aureus,Conothamnus,,"(Turcz.) Domin",1921,"Vestn. Král. Ceské Spolecn. Nauk, Tr. Mat.-Prír. 1921-1922(2): 91 1923",,,,,592359-1,wfo-0000920947,3186566,
-751f3af0-8fcd-11eb-924d-9cd76263cbd0,species,divaricatus,Conothamnus,,Benth.,1867,"Fl. Austral. 3: 164 1867",,,,,592360-1,wfo-0000920957,3186568,
-7520fdcc-8fcd-11eb-924d-9cd76263cbd0,species,neglectus,Conothamnus,,Diels,1904,"Bot. Jahrb. Syst. 35: 430 1904",,,,,592361-1,wfo-0000920967,3186563,
-75222dfa-8fcd-11eb-924d-9cd76263cbd0,species,trinervis,Conothamnus,,Lindl.,1839,"Sketch Veg. Swan R. 9 1839",,,,,592362-1,wfo-0000920978,3186564,
-7524f922-8fcd-11eb-924d-9cd76263cbd0,species,alba,Conotrichia,,"(Aubl.) A.Rich.",1830,"Mém. Rubiac. 19 1830",,,,,,wfo-0000920998,2907210,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e20126b6-8fd1-11eb-924d-9cd76263cbd0,genus,Conothamnus,,,Lindl.,,1839,,"Bot. Reg. 23: App. (Swan River) ix. 1839.",,,,,,,wfo-4000009186,3186562,,
+751e0dd8-8fcd-11eb-924d-9cd76263cbd0,species,aureus,Conothamnus,,"(Turcz.) Domin",,1921,,"Vestn. Král. Ceské Spolecn. Nauk, Tr. Mat.-Prír. 1921-1922(2): 91 1923",,,,,,592359-1,wfo-0000920947,3186566,,
+751f3af0-8fcd-11eb-924d-9cd76263cbd0,species,divaricatus,Conothamnus,,Benth.,,1867,,"Fl. Austral. 3: 164 1867",,,,,,592360-1,wfo-0000920957,3186568,,
+7520fdcc-8fcd-11eb-924d-9cd76263cbd0,species,neglectus,Conothamnus,,Diels,,1904,,"Bot. Jahrb. Syst. 35: 430 1904",,,,,,592361-1,wfo-0000920967,3186563,,
+75222dfa-8fcd-11eb-924d-9cd76263cbd0,species,trinervis,Conothamnus,,Lindl.,,1839,,"Sketch Veg. Swan R. 9 1839",,,,,,592362-1,wfo-0000920978,3186564,,

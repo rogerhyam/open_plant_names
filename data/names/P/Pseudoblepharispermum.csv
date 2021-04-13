@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9190c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoblepharispermum,,,"J.-P.Lebrun & Stork",,,,,,,893219-1,wfo-4000031410,3150329,
-01bbd59e-8fbb-11eb-924d-9cd76263cbd0,species,bremeri,Pseudoblepharispermum,,"J.-P.Lebrun & Stork",1981,"in Bull. Mus. Nation. Hist. Nat., B, Adansonia, 1981(4): 422 (1981 publ. 1982)",,,,,,wfo-0000131071,3150331,
-5c160b08-8fb2-11eb-924d-9cd76263cbd0,species,mudugense,Pseudoblepharispermum,,"Beentje & D.J.N.Hind",2002,"Kew Bull. 57(1): 214 (2002).",,,,,,wfo-0000021913,3150330,
-fc0e78ca-8fcb-11eb-924d-9cd76263cbd0,species,laurentii,Pseudoboivinella,,"(De Wild.) Aubrév. & Pellegr.",1961,"Notul. Syst. (Paris) 16: 260 1961",,,,,789285-1,wfo-0000283878,2886068,
-fc0e933c-8fcb-11eb-924d-9cd76263cbd0,species,oblanceolata,Pseudoboivinella,,"(S.Moore) Aubrév. & Pellegr.",1961,"Notul. Syst. (Paris) 16: 260 1961",,,,,789286-1,wfo-0000283879,2888119,
-fc0eaf98-8fcb-11eb-924d-9cd76263cbd0,species,subverticillata,Pseudoboivinella,,"(E.A.Bruce) Aubrév. & Pellegr.",1961,"Notul. Syst. (Paris) 16: 260 1961",,,,ee771bae-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000283880,2886054,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9190c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoblepharispermum,,,"J.-P.Lebrun & Stork",,,,,,,,,,893219-1,wfo-4000031410,3150329,,
+01bbd59e-8fbb-11eb-924d-9cd76263cbd0,species,bremeri,Pseudoblepharispermum,,"J.-P.Lebrun & Stork",,1981,,"in Bull. Mus. Nation. Hist. Nat., B, Adansonia, 1981(4): 422 (1981 publ. 1982)",,,,,,,wfo-0000131071,3150331,,
+5c160b08-8fb2-11eb-924d-9cd76263cbd0,species,mudugense,Pseudoblepharispermum,,"Beentje & D.J.N.Hind",,2002,,"Kew Bull. 57(1): 214 (2002).",,,,,,,wfo-0000021913,3150330,,
+fc0e78ca-8fcb-11eb-924d-9cd76263cbd0,species,laurentii,Pseudoboivinella,,"(De Wild.) Aubrév. & Pellegr.",,1961,,"Notul. Syst. (Paris) 16: 260 1961",,,,,,789285-1,wfo-0000283878,2886068,,
+fc0e933c-8fcb-11eb-924d-9cd76263cbd0,species,oblanceolata,Pseudoboivinella,,"(S.Moore) Aubrév. & Pellegr.",,1961,,"Notul. Syst. (Paris) 16: 260 1961",,,,,,789286-1,wfo-0000283879,2888119,,
+fc0eaf98-8fcb-11eb-924d-9cd76263cbd0,species,subverticillata,Pseudoboivinella,,"(E.A.Bruce) Aubrév. & Pellegr.",,1961,,"Notul. Syst. (Paris) 16: 260 1961",,,,ee771bae-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000283880,2886054,,

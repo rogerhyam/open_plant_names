@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb1e9378-8fd1-11eb-924d-9cd76263cbd0,genus,Tasoba,,,Raf.,1836,"Fl. Tellur. 3: 94. 1836[1837]. (Nov. - Dec 1837)",,,,,,wfo-4000037606,7291266,
-6e51cac2-8fcc-11eb-924d-9cd76263cbd0,species,arifolia,Tasoba,,Raf.,1837,"Fl. Tellur. 3: 94 1837",,,,,697711-1,wfo-0000454399,4033241,
-6e51ad9e-8fcc-11eb-924d-9cd76263cbd0,species,sagittata,Tasoba,,"(L.) Raf.",1837,"Fl. Tellur. 3: 95 1837",,,,c5e3b656-8fcc-11eb-924d-9cd76263cbd0,697712-1,wfo-0000454398,4033233,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb1e9378-8fd1-11eb-924d-9cd76263cbd0,genus,Tasoba,,,Raf.,,1836,,"Fl. Tellur. 3: 94. 1836[1837]. (Nov. - Dec 1837)",,,,,,,wfo-4000037606,7291266,,
+6e51cac2-8fcc-11eb-924d-9cd76263cbd0,species,arifolia,Tasoba,,Raf.,,1837,,"Fl. Tellur. 3: 94 1837",,,,,,697711-1,wfo-0000454399,4033241,,
+6e51ad9e-8fcc-11eb-924d-9cd76263cbd0,species,sagittata,Tasoba,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 95 1837",,,,c5e3b656-8fcc-11eb-924d-9cd76263cbd0,,697712-1,wfo-0000454398,4033233,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8449418-8fd1-11eb-924d-9cd76263cbd0,genus,Petalosteira,,,Raf.,1836,"Fl. Tellur. 2: 74. 1836[1837]. (Jan-Mar 1837)",,,,,,wfo-4000028909,7339547,
-ce41f830-8fd1-11eb-924d-9cd76263cbd0,species,laciniata,Petalosteira,,"(Hook.) Raf.",1836,"Fl. Tellur. 2: 75 1836",,,,,,wfo-0001280256,3754994,
-788e1e50-8fcc-11eb-924d-9cd76263cbd0,species,unifolia,Petalosteira,,Raf.,1837,"Fl. Tellur. 2: 74 1837",,,,,792159-1,wfo-0000471509,3754986,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8449418-8fd1-11eb-924d-9cd76263cbd0,genus,Petalosteira,,,Raf.,,1836,,"Fl. Tellur. 2: 74. 1836[1837]. (Jan-Mar 1837)",,,,,,,wfo-4000028909,7339547,,
+ce41f830-8fd1-11eb-924d-9cd76263cbd0,species,laciniata,Petalosteira,,"(Hook.) Raf.",,1836,,"Fl. Tellur. 2: 75 1836",,,,,,,wfo-0001280256,3754994,,
+788e1e50-8fcc-11eb-924d-9cd76263cbd0,species,unifolia,Petalosteira,,Raf.,,1837,,"Fl. Tellur. 2: 74 1837",,,,,,792159-1,wfo-0000471509,3754986,,

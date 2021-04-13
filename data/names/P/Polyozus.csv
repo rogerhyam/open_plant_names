@@ -1,8 +1,10 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8e03634-8fd1-11eb-924d-9cd76263cbd0,genus,Polyozus,,,Lour.,1790,"Fl. Cochinch. 63, 74. 1790.",,,,,,wfo-4000030766,7270921,
-f99b9adc-8fcb-11eb-924d-9cd76263cbd0,species,acuminata,Polyozus,,Blume,1826,"Bijdr. 948 1826",,,,,760858-1,wfo-0000279948,5340658,
-f99be898-8fcb-11eb-924d-9cd76263cbd0,species,barbata,Polyozus,,DC.,1830,"Prodr. 4: 495 1830",,,,,760859-1,wfo-0000279949,5596679,
-f99c392e-8fcb-11eb-924d-9cd76263cbd0,species,bipinnata,Polyozus,,Lour.,1790,"Fl. Cochinch. 74 1790",,,,,760861-1,wfo-0000279951,5596678,
-f99c572e-8fcb-11eb-924d-9cd76263cbd0,species,lanceolata,Polyozus,,Lour.,1790,"Fl. Cochinch. 75 1790",,,,,760862-1,wfo-0000279952,5340605,
-f99c7484-8fcb-11eb-924d-9cd76263cbd0,species,latifolia,Polyozus,,Blume,1826,"Bijdr. 948 1826",,,,,760863-1,wfo-0000279953,5340657,
-f99c94a0-8fcb-11eb-924d-9cd76263cbd0,species,maderaspatana,Polyozus,,DC.,1830,"Prodr. 4: 495 1830",,,,,760864-1,wfo-0000279954,5335577,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8e03634-8fd1-11eb-924d-9cd76263cbd0,genus,Polyozus,,,Lour.,,1790,,"Fl. Cochinch. 63, 74. 1790.",,,,e8e03634-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000030766,7270921,18328," "
+f99b9adc-8fcb-11eb-924d-9cd76263cbd0,species,acuminata,Polyozus,,Blume,,1826,,"Bijdr. 948 1826",,,,,,760858-1,wfo-0000279948,5340658,,
+f99be898-8fcb-11eb-924d-9cd76263cbd0,species,barbata,Polyozus,,DC.,,1830,,"Prodr. 4: 495 1830",,,,,,760859-1,wfo-0000279949,5596679,,
+f99c392e-8fcb-11eb-924d-9cd76263cbd0,species,bipinnata,Polyozus,,Lour.,,1790,,"Fl. Cochinch. 74 1790",,,,,,760861-1,wfo-0000279951,5596678,,
+1658df90-9bac-11eb-a8a2-19ed5c03f8d3,species,contortus,Polyozus,,"(P. Karst.) P. Karst.",,1881,,"Revue mycol., Toulouse 3(9): 22 (1881)",,,,067c425a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,472506," "
+96af6592-9bac-11eb-a8a2-19ed5c03f8d3,species,hisingeri,Polyozus,,"P. Karst.",,1888,,"Meddn Soc. Fauna Flora fenn. 16: 2 (1888)",,,,96af6592-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208445," "
+f99c572e-8fcb-11eb-924d-9cd76263cbd0,species,lanceolata,Polyozus,,Lour.,,1790,,"Fl. Cochinch. 75 1790",,,,,,760862-1,wfo-0000279952,5340605,,
+f99c7484-8fcb-11eb-924d-9cd76263cbd0,species,latifolia,Polyozus,,Blume,,1826,,"Bijdr. 948 1826",,,,,,760863-1,wfo-0000279953,5340657,,
+f99c94a0-8fcb-11eb-924d-9cd76263cbd0,species,maderaspatana,Polyozus,,DC.,,1830,,"Prodr. 4: 495 1830",,,,,,760864-1,wfo-0000279954,5335577,,

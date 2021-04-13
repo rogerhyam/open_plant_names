@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eac8e27a-8fd1-11eb-924d-9cd76263cbd0,genus,Stenothecium,,,,,,,,,,,wfo-4000036555,4899877,
-f36f49ae-8fcd-11eb-924d-9cd76263cbd0,species,tenue,Stenothecium,,"(Hook.) Müll.Hal.",1905,"Index Bryol. (ed. 2) 4: 320 1905",,,,,,wfo-0001190611,7779731,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eac8e27a-8fd1-11eb-924d-9cd76263cbd0,genus,Stenothecium,,,,,,,,,,,,,,wfo-4000036555,4899877,,
+f36f49ae-8fcd-11eb-924d-9cd76263cbd0,species,tenue,Stenothecium,,"(Hook.) Müll.Hal.",,1905,,"Index Bryol. (ed. 2) 4: 320 1905",,,,,,,wfo-0001190611,7779731,,

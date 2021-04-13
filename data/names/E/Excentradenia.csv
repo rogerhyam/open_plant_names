@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a22d62-8fd1-11eb-924d-9cd76263cbd0,genus,Excentradenia,,,W.R.Anderson,1997,"Contr. Univ. Michigan Herb. 21: 29–30. 1997.",,,,,1000799-1,wfo-4000014437,7285749,
-f7c7e412-8fcc-11eb-924d-9cd76263cbd0,species,adenophora,Excentradenia,,"(Sandwith) W.R.Anderson",1997,"Contr. Univ. Michigan Herb. 21: 31 1997",,,,,1000800-1,wfo-0000684363,3986325,
-f7c821ac-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Excentradenia,,W.R.Anderson,1997,"Contr. Univ. Michigan Herb. 21: 34 1997",,,,,1000801-1,wfo-0000684365,3986313,
-f7c83fde-8fcc-11eb-924d-9cd76263cbd0,species,primaeva,Excentradenia,,"(W.R.Anderson) W.R.Anderson",1997,"Contr. Univ. Michigan Herb. 21: 34 1997",,,,bd62e362-8fd1-11eb-924d-9cd76263cbd0,1000802-1,wfo-0000684366,3986304,
-f7c85cb2-8fcc-11eb-924d-9cd76263cbd0,species,propinqua,Excentradenia,,"(W.R.Anderson) W.R.Anderson",1997,"Contr. Univ. Michigan Herb. 21: 35 1997",,,,bd63069e-8fd1-11eb-924d-9cd76263cbd0,1000803-1,wfo-0000684367,3986293,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a22d62-8fd1-11eb-924d-9cd76263cbd0,genus,Excentradenia,,,W.R.Anderson,,1997,,"Contr. Univ. Michigan Herb. 21: 29–30. 1997.",,,,,,1000799-1,wfo-4000014437,7285749,,
+f7c7e412-8fcc-11eb-924d-9cd76263cbd0,species,adenophora,Excentradenia,,"(Sandwith) W.R.Anderson",,1997,,"Contr. Univ. Michigan Herb. 21: 31 1997",,,,,,1000800-1,wfo-0000684363,3986325,,
+f7c821ac-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Excentradenia,,W.R.Anderson,,1997,,"Contr. Univ. Michigan Herb. 21: 34 1997",,,,,,1000801-1,wfo-0000684365,3986313,,
+f7c83fde-8fcc-11eb-924d-9cd76263cbd0,species,primaeva,Excentradenia,,"(W.R.Anderson) W.R.Anderson",,1997,,"Contr. Univ. Michigan Herb. 21: 34 1997",,,,bd62e362-8fd1-11eb-924d-9cd76263cbd0,,1000802-1,wfo-0000684366,3986304,,
+f7c85cb2-8fcc-11eb-924d-9cd76263cbd0,species,propinqua,Excentradenia,,"(W.R.Anderson) W.R.Anderson",,1997,,"Contr. Univ. Michigan Herb. 21: 35 1997",,,,bd63069e-8fd1-11eb-924d-9cd76263cbd0,,1000803-1,wfo-0000684367,3986293,,

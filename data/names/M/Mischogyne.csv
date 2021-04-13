@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6c873d4-8fd1-11eb-924d-9cd76263cbd0,genus,Mischogyne,,,Exell,1932,"J. Bot. 70(Suppl. 1): 213. 1932.",,,,,2074-1,wfo-4000024396,3156547,
-337e50be-8fcc-11eb-924d-9cd76263cbd0,species,elliotianum,Mischogyne,,"(Engl. & Diels) R.E.Fr.",1955,"Ark. Bot. n.s., 3: 37 1955",,,,,73966-1,wfo-0000372997,3156548,
-b9cbd0f0-8fcd-11eb-924d-9cd76263cbd0,variety,gabonensis,Mischogyne,elliotianum,"Pellegrin Ex Le Thom",,,,,,,,wfo-0001065954,,
-337d9fb6-8fcc-11eb-924d-9cd76263cbd0,species,michelioides,Mischogyne,,Exell,1932,"J. Bot. 70(Suppl. 1): 213 1932",,,,,73967-1,wfo-0000372991,3156553,
-e3d331f6-8fcb-11eb-924d-9cd76263cbd0,species,paniculatus,Mischophloeus,,"(Miq.) Scheff.",1876,"Ann. Jard. Bot. Buitenzorg 2: 152 1876",,,,,668273-1,wfo-0000244790,2736613,
-e3d34e02-8fcb-11eb-924d-9cd76263cbd0,species,vestiarius,Mischophloeus,,"(Giseke) Merr.",1917,"Interpr. Herb. Amboin. 121 1917",,,,,668274-1,wfo-0000244791,2736604,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6c873d4-8fd1-11eb-924d-9cd76263cbd0,genus,Mischogyne,,,Exell,,1932,,"J. Bot. 70(Suppl. 1): 213. 1932.",,,,,,2074-1,wfo-4000024396,3156547,,
+337e50be-8fcc-11eb-924d-9cd76263cbd0,species,elliotianum,Mischogyne,,"(Engl. & Diels) R.E.Fr.",,1955,,"Ark. Bot. n.s., 3: 37 1955",,,,,,73966-1,wfo-0000372997,3156548,,
+b9cbd0f0-8fcd-11eb-924d-9cd76263cbd0,variety,gabonensis,Mischogyne,elliotianum,"Pellegrin Ex Le Thom",,,,,,,,,,,wfo-0001065954,,,
+337d9fb6-8fcc-11eb-924d-9cd76263cbd0,species,michelioides,Mischogyne,,Exell,,1932,,"J. Bot. 70(Suppl. 1): 213 1932",,,,,,73967-1,wfo-0000372991,3156553,,

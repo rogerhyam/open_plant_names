@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4558fc4-8fd1-11eb-924d-9cd76263cbd0,genus,Haematostemon,,,"Pax & K.Hoffm.",1919,"Pflanzenr. IV. 147 IX–XI(Heft 68): 31. 1919.",,,,,15474-1,wfo-4000016682,3055077,
-9123ef20-8fcd-11eb-924d-9cd76263cbd0,species,coriaceus,Haematostemon,,"(Baill.) Pax & K.Hoffm.",1919,"Pflanzenr. IV, 147, IX: 32 1919",,,,,116867-2,wfo-0000979039,3055078,
-91240bb8-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Haematostemon,,Sandwith,1950,"Kew Bull. 5: 133 1950",,,,,116868-2,wfo-0000979040,3055080,
-bf32b2e0-8fc1-11eb-924d-9cd76263cbd0,species,boreale,Haematoxylon,,S.Watson,,,,,,,,wfo-0000173623,2950909,
-33b4591c-8fc1-11eb-924d-9cd76263cbd0,species,brasiletto,Haematoxylon,,H.Karst.,,,,,,,,wfo-0000170583,2950908,
-dc854fac-8fc0-11eb-924d-9cd76263cbd0,species,campechianum,Haematoxylon,,L.,,,,,,,,wfo-0000168543,2950904,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4558fc4-8fd1-11eb-924d-9cd76263cbd0,genus,Haematostemon,,,"Pax & K.Hoffm.",,1919,,"Pflanzenr. IV. 147 IX–XI(Heft 68): 31. 1919.",,,,,,15474-1,wfo-4000016682,3055077,,
+9123ef20-8fcd-11eb-924d-9cd76263cbd0,species,coriaceus,Haematostemon,,"(Baill.) Pax & K.Hoffm.",,1919,,"Pflanzenr. IV, 147, IX: 32 1919",,,,,,116867-2,wfo-0000979039,3055078,,
+91240bb8-8fcd-11eb-924d-9cd76263cbd0,species,guianensis,Haematostemon,,Sandwith,,1950,,"Kew Bull. 5: 133 1950",,Q55788122,,,,116868-2,wfo-0000979040,3055080,,

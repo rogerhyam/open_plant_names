@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6a28458-8fd1-11eb-924d-9cd76263cbd0,genus,Metteniusa,,,H.Karst.,1860,"Fl. Columb. 1: 79. 1860. (13 Feb 1860)",,,,,28229-1,wfo-4000023957,7314358,
-33fb145a-8fcc-11eb-924d-9cd76263cbd0,species,cogolloi,Metteniusa,,Lozano,1994,"Novon 4: 266 1994",,,,,304699-2,wfo-0000373733,3596544,
-33facc52-8fcc-11eb-924d-9cd76263cbd0,species,cundinamarcensis,Metteniusa,,Lozano,1988,"in Fl. Colombia 11: 32 1988",,,,,280833-2,wfo-0000373731,3597488,
-33f803c8-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Metteniusa,,H.Karst.,1860,"Fl. Columb. 1: 79 1860",,,,,,wfo-0000373710,3597478,
-33f820c4-8fcc-11eb-924d-9cd76263cbd0,species,huilensis,Metteniusa,,Lozano,1988,"in Fl. Colombia 11: 36 1988",,,,,280834-2,wfo-0000373711,3597461,
-33f83c30-8fcc-11eb-924d-9cd76263cbd0,species,nucifera,Metteniusa,,"(Pittier) Sleumer",1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 361 1936",,,,aba13f98-8fcc-11eb-924d-9cd76263cbd0,158626-2,wfo-0000373712,3597444,
-33f8599a-8fcc-11eb-924d-9cd76263cbd0,species,santanderensis,Metteniusa,,Lozano,1988,"in Fl. Colombia 11: 38 1988",,,,,280835-2,wfo-0000373713,3597427,
-33f8756a-8fcc-11eb-924d-9cd76263cbd0,species,tessmanniana,Metteniusa,,"(Sleumer) Sleumer",1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 361 1936",,,,,434446-1,wfo-0000373714,7314445,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6a28458-8fd1-11eb-924d-9cd76263cbd0,genus,Metteniusa,,,H.Karst.,,1860,,"Fl. Columb. 1: 79. 1860. (13 Feb 1860)",,,,,,28229-1,wfo-4000023957,7314358,,
+33fb145a-8fcc-11eb-924d-9cd76263cbd0,species,cogolloi,Metteniusa,,Lozano,,1994,,"Novon 4: 266 1994",,Q55773900,,,,304699-2,wfo-0000373733,3596544,,
+33facc52-8fcc-11eb-924d-9cd76263cbd0,species,cundinamarcensis,Metteniusa,,Lozano,,1988,,"in Fl. Colombia 11: 32 1988",,,,,,280833-2,wfo-0000373731,3597488,,
+33f803c8-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Metteniusa,,H.Karst.,,1860,,"Fl. Columb. 1: 79 1860",,,,,,,wfo-0000373710,3597478,,
+33f820c4-8fcc-11eb-924d-9cd76263cbd0,species,huilensis,Metteniusa,,Lozano,,1988,,"in Fl. Colombia 11: 36 1988",,,,,,280834-2,wfo-0000373711,3597461,,
+33f83c30-8fcc-11eb-924d-9cd76263cbd0,species,nucifera,Metteniusa,,"(Pittier) Sleumer",,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 361 1936",,Q55777719,,aba13f98-8fcc-11eb-924d-9cd76263cbd0,,158626-2,wfo-0000373712,3597444,,
+33f8599a-8fcc-11eb-924d-9cd76263cbd0,species,santanderensis,Metteniusa,,Lozano,,1988,,"in Fl. Colombia 11: 38 1988",,,,,,280835-2,wfo-0000373713,3597427,,
+33f8756a-8fcc-11eb-924d-9cd76263cbd0,species,tessmanniana,Metteniusa,,"(Sleumer) Sleumer",,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 361 1936",,Q55777719,,,,434446-1,wfo-0000373714,7314445,,

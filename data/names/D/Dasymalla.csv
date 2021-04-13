@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e280828a-8fd1-11eb-924d-9cd76263cbd0,genus,Dasymalla,,,Endl.,1839,"Nov. Stirp. Dec. 2: 11. 1839. (15 May 1839)",,,,,41249-1,wfo-4000010827,9563104,
-7e19e4ca-8fcd-11eb-924d-9cd76263cbd0,species,axillaris,Dasymalla,,Endl.,1839,"Nov. Stirp. Dec. 11 1839",,,,,862675-1,wfo-0000937942,3904587,
-74ca4932-8fcd-11eb-924d-9cd76263cbd0,species,chorisepala,Dasymalla,,"(Munir) B.J.Conn & Henwood",2011,"Austral. Syst. Bot. 24: 6 2011",,,,f5cebae2-8fcb-11eb-924d-9cd76263cbd0,77111502-1,wfo-0000920400,8255742,
-74fe1190-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Dasymalla,,"(Munir) B.J.Conn & Henwood",2011,"Austral. Syst. Bot. 24: 6 2011",,,,f5d0ea7e-8fcb-11eb-924d-9cd76263cbd0,77111503-1,wfo-0000920724,7924701,
-74cba48a-8fcd-11eb-924d-9cd76263cbd0,species,teckiana,Dasymalla,,"(F.Muell.) B.J.Conn & Henwood",2011,"Austral. Syst. Bot. 24: 6 2011",,,,48cf819e-8fcd-11eb-924d-9cd76263cbd0,77111504-1,wfo-0000920410,8122341,
-7e1a05ae-8fcd-11eb-924d-9cd76263cbd0,species,terminalis,Dasymalla,,Endl.,1839,"Nov. Stirp. Dec. 12 1839",,,,,862676-1,wfo-0000937943,3903106,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e280828a-8fd1-11eb-924d-9cd76263cbd0,genus,Dasymalla,,,Endl.,,1839,,"Nov. Stirp. Dec. 2: 11. 1839. (15 May 1839)",,,,,,41249-1,wfo-4000010827,9563104,,
+7e19e4ca-8fcd-11eb-924d-9cd76263cbd0,species,axillaris,Dasymalla,,Endl.,,1839,,"Nov. Stirp. Dec. 11 1839",,,,,,862675-1,wfo-0000937942,3904587,,
+74ca4932-8fcd-11eb-924d-9cd76263cbd0,species,chorisepala,Dasymalla,,"(Munir) B.J.Conn & Henwood",,2011,,"Austral. Syst. Bot. 24: 6 2011",,Q54554256,,f5cebae2-8fcb-11eb-924d-9cd76263cbd0,,77111502-1,wfo-0000920400,8255742,,
+74fe1190-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Dasymalla,,"(Munir) B.J.Conn & Henwood",,2011,,"Austral. Syst. Bot. 24: 6 2011",,Q54554256,,f5d0ea7e-8fcb-11eb-924d-9cd76263cbd0,,77111503-1,wfo-0000920724,7924701,,
+74cba48a-8fcd-11eb-924d-9cd76263cbd0,species,teckiana,Dasymalla,,"(F.Muell.) B.J.Conn & Henwood",,2011,,"Austral. Syst. Bot. 24: 6 2011",,Q54554256,,48cf819e-8fcd-11eb-924d-9cd76263cbd0,,77111504-1,wfo-0000920410,8122341,,
+7e1a05ae-8fcd-11eb-924d-9cd76263cbd0,species,terminalis,Dasymalla,,Endl.,,1839,,"Nov. Stirp. Dec. 12 1839",,,,,,862676-1,wfo-0000937943,3903106,,

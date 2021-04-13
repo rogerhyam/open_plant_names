@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4e4aae2-8fd1-11eb-924d-9cd76263cbd0,genus,Hullettia,,,"King ex Hook.f.",1888,"Fl. Brit. India 5: 547. 1888.",,,,,40845-1,wfo-4000018392,7262602,
-0f79f8a2-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Hullettia,,King,1888,"Fl. Brit. India 5: 547 1888",,,,,,wfo-0000725789,3764778,
-c22c0256-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Hullettia,,"King in Hook.f.",,,,,,,,wfo-0001085004,3764778,
-aca49038-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Hullettia,,"(Kurz) Hook.f.",1888,"Fl. Brit. India 5: 547 1888",,,,,,wfo-0001036061,8282307,
-0f7a14fe-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Hullettia,,King,1888,"Fl. Brit. India 5: 547 1888",,,,,,wfo-0000725790,3764769,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4e4aae2-8fd1-11eb-924d-9cd76263cbd0,genus,Hullettia,,,"King ex Hook.f.",,1888,,"Fl. Brit. India 5: 547. 1888.",,,,,,40845-1,wfo-4000018392,7262602,,
+c22c0256-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Hullettia,,"King in Hook.f.",,,,,,,,,,,wfo-0001085004,3764778,,
+0f79f8a2-8fcd-11eb-924d-9cd76263cbd0,species,dumosa,Hullettia,,King,,1888,,"Fl. Brit. India 5: 547 1888",,,,,,,wfo-0000725789,3764778,,
+aca49038-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Hullettia,,"(Kurz) Hook.f.",,1888,,"Fl. Brit. India 5: 547 1888",,,,,,,wfo-0001036061,8282307,,
+0f7a14fe-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Hullettia,,King,,1888,,"Fl. Brit. India 5: 547 1888",,,,,,,wfo-0000725790,3764769,,

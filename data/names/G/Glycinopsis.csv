@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e413e074-8fd1-11eb-924d-9cd76263cbd0,genus,Glycinopsis,,,,,,,,,,,wfo-4000015846,7275165,
-b29336a2-8fcd-11eb-924d-9cd76263cbd0,species,acutifolia,Glycinopsis,,"(Benth.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111050-2,wfo-0001049580,3909891,
-b2935042-8fcd-11eb-924d-9cd76263cbd0,species,berteroana,Glycinopsis,,"(DC.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111051-2,wfo-0001049581,3909887,
-b29369ce-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Glycinopsis,,"(Schrad.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111052-2,wfo-0001049582,3909884,
-b2938378-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Glycinopsis,,"(Benth.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111053-2,wfo-0001049583,3909879,
-b2939f70-8fcd-11eb-924d-9cd76263cbd0,species,heterophylla,Glycinopsis,,"(Benth.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111054-2,wfo-0001049584,3909870,
-b293baf0-8fcd-11eb-924d-9cd76263cbd0,species,mediterranea,Glycinopsis,,"(Vell.) Kuntze",1891,"Revis. Gen. Pl. 1: 190 1891",,,,,111055-2,wfo-0001049585,3909860,
-02e7de88-8fcd-11eb-924d-9cd76263cbd0,species,hispidula,Glyciphylla,,"(L.) Raf.",1819,"Amer. Monthly Mag. & Crit. Rev. 1: 192 1819",,,,f0fce59c-8fcc-11eb-924d-9cd76263cbd0,1036387-2,wfo-0000704455,4166906,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e413e074-8fd1-11eb-924d-9cd76263cbd0,genus,Glycinopsis,,,,,,,,,,,,,,wfo-4000015846,7275165,,
+b29336a2-8fcd-11eb-924d-9cd76263cbd0,species,acutifolia,Glycinopsis,,"(Benth.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111050-2,wfo-0001049580,3909891,,
+b2935042-8fcd-11eb-924d-9cd76263cbd0,species,berteroana,Glycinopsis,,"(DC.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111051-2,wfo-0001049581,3909887,,
+b29369ce-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Glycinopsis,,"(Schrad.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111052-2,wfo-0001049582,3909884,,
+b2938378-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Glycinopsis,,"(Benth.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111053-2,wfo-0001049583,3909879,,
+b2939f70-8fcd-11eb-924d-9cd76263cbd0,species,heterophylla,Glycinopsis,,"(Benth.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111054-2,wfo-0001049584,3909870,,
+b293baf0-8fcd-11eb-924d-9cd76263cbd0,species,mediterranea,Glycinopsis,,"(Vell.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 190 1891",,,,,,111055-2,wfo-0001049585,3909860,,
+02e7de88-8fcd-11eb-924d-9cd76263cbd0,species,hispidula,Glyciphylla,,"(L.) Raf.",,1819,,"Amer. Monthly Mag. & Crit. Rev. 1: 192 1819",,,,f0fce59c-8fcc-11eb-924d-9cd76263cbd0,,1036387-2,wfo-0000704455,4166906,,

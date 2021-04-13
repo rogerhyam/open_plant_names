@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e21ada02-8fd1-11eb-924d-9cd76263cbd0,genus,Coulterina,,,Kuntze,1891,"Revis. Gen. Pl. 2: 931. 1891. (5 Nov 1891)",,,,,,wfo-4000009500,3040562,
-d51c194c-8fcc-11eb-924d-9cd76263cbd0,species,didymocarpa,Coulterina,,"(Hook.) Kuntze",1891,"Revis. Gen. Pl. 2: 931 1891",,,,582ab9c0-8fcc-11eb-924d-9cd76263cbd0,67202-2,wfo-0000624105,3049108,
-d51c3648-8fcc-11eb-924d-9cd76263cbd0,species,geyeri,Coulterina,,Kuntze,1891,"Revis. Gen. Pl. 2: 931 1891",,,,,67203-2,wfo-0000624106,3048964,
-d51c5538-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Coulterina,,Kuntze,1891,"Revis. Gen. Pl. 2: 931 1891",,,,,67204-2,wfo-0000624107,3049212,
-d51c7fae-8fcc-11eb-924d-9cd76263cbd0,species,oregana,Coulterina,,Kuntze,1891,"Revis. Gen. Pl. 2: 931 1891",,,,,281610-1,wfo-0000624108,3690079,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e21ada02-8fd1-11eb-924d-9cd76263cbd0,genus,Coulterina,,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 931. 1891. (5 Nov 1891)",,,,,,,wfo-4000009500,3040562,,
+d51c194c-8fcc-11eb-924d-9cd76263cbd0,species,didymocarpa,Coulterina,,"(Hook.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 931 1891",,,,582ab9c0-8fcc-11eb-924d-9cd76263cbd0,,67202-2,wfo-0000624105,3049108,,
+d51c3648-8fcc-11eb-924d-9cd76263cbd0,species,geyeri,Coulterina,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 931 1891",,,,,,67203-2,wfo-0000624106,3048964,,
+d51c5538-8fcc-11eb-924d-9cd76263cbd0,species,newberryi,Coulterina,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 931 1891",,,,,,67204-2,wfo-0000624107,3049212,,
+d51c7fae-8fcc-11eb-924d-9cd76263cbd0,species,oregana,Coulterina,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 931 1891",,,,,,281610-1,wfo-0000624108,3690079,,

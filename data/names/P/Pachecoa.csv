@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d379e0-8fd1-11eb-924d-9cd76263cbd0,genus,Pachecoa,,,,,,,,,,,wfo-4000027629,8167019,
-4be52fa2-8fc1-11eb-924d-9cd76263cbd0,species,guatemalensis,Pachecoa,,"Standl. & Steyerm.",,,,,,,,wfo-0000171162,5354461,
-b395fdfa-8fcd-11eb-924d-9cd76263cbd0,species,prismatica,Pachecoa,,"(Sessé & Moc.) Standl. & B.G.Schub.",1946,"Contr. Gray Herb. 161: 24 1946",,,,,179759-2,wfo-0001051880,5354460,
-d3ac3a1c-8fc0-11eb-924d-9cd76263cbd0,species,prismatica,Pachecoa,,"(Sesse & Moc.) Standl. & B.G.Sc",,,,,,,,wfo-0000168333,5354460,
-4bf00e40-8fc1-11eb-924d-9cd76263cbd0,species,venezuelensis,Pachecoa,,Burkart,,,,,,,,wfo-0000171163,5354462,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d379e0-8fd1-11eb-924d-9cd76263cbd0,genus,Pachecoa,,,,,,,,,,,,,,wfo-4000027629,8167019,,
+4be52fa2-8fc1-11eb-924d-9cd76263cbd0,species,guatemalensis,Pachecoa,,"Standl. & Steyerm.",,,,,,,,,,,wfo-0000171162,5354461,,
+b395fdfa-8fcd-11eb-924d-9cd76263cbd0,species,prismatica,Pachecoa,,"(Sessé & Moc.) Standl. & B.G.Schub.",,1946,,"Contr. Gray Herb. 161: 24 1946",,Q94389104,,,,179759-2,wfo-0001051880,5354460,,
+d3ac3a1c-8fc0-11eb-924d-9cd76263cbd0,species,prismatica,Pachecoa,,"(Sesse & Moc.) Standl. & B.G.Sc",,,,,,,,,,,wfo-0000168333,5354460,,
+4bf00e40-8fc1-11eb-924d-9cd76263cbd0,species,venezuelensis,Pachecoa,,Burkart,,,,,,,,,,,wfo-0000171163,5354462,,

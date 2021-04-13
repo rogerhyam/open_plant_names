@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea7c7b7e-8fd1-11eb-924d-9cd76263cbd0,genus,Sogerianthe,,,Danser,1933,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 2. 29(6): 106. 1933. (14 Jan 1933)",,,,,,wfo-4000035668,7288239,
-89dedd02-8fcc-11eb-924d-9cd76263cbd0,species,cupuliformis,Sogerianthe,,Barlow,1974,"Austral. J. Bot. 22: 601 1974",,,,,551595-1,wfo-0000501128,4004877,
-89e38f00-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Sogerianthe,,Danser,1938,"Blumea 3: 49 1938",,,,,551596-1,wfo-0000501157,4004869,
-89dfbe52-8fcc-11eb-924d-9cd76263cbd0,species,sesailiflora,Sogerianthe,,"(Danser) Danser",1933,"Verh. Kon. Akad. Wetensch., Afd. Natuurk., Sect. 2 29(6): 106 1933",,,,,551597-1,wfo-0000501134,4004860,
-ac82296c-8fcd-11eb-924d-9cd76263cbd0,species,sogerensis,Sogerianthe,,"(S.Moore) Danser",1933,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 2. 29(6): 106 1933",,,,,551598-1,wfo-0001035754,4004849,
-89df9d14-8fcc-11eb-924d-9cd76263cbd0,species,trilobobractea,Sogerianthe,,Danser,1940,"Blumea 3: 389 1940",,,,,551599-1,wfo-0000501133,4004842,
-89df7c26-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Sogerianthe,,Danser,1935,"J. Arnold Arbor. 16: 207 1935",,,,,551600-1,wfo-0000501132,4004831,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea7c7b7e-8fd1-11eb-924d-9cd76263cbd0,genus,Sogerianthe,,,Danser,,1933,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 2. 29(6): 106. 1933. (14 Jan 1933)",,,,,,,wfo-4000035668,7288239,,
+89dedd02-8fcc-11eb-924d-9cd76263cbd0,species,cupuliformis,Sogerianthe,,Barlow,,1974,,"Austral. J. Bot. 22: 601 1974",,Q54801362,,,,551595-1,wfo-0000501128,4004877,,
+89e38f00-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Sogerianthe,,Danser,,1938,,"Blumea 3: 49 1938",,Q96029321,,,,551596-1,wfo-0000501157,4004869,,
+89dfbe52-8fcc-11eb-924d-9cd76263cbd0,species,sesailiflora,Sogerianthe,,"(Danser) Danser",,1933,,"Verh. Kon. Akad. Wetensch., Afd. Natuurk., Sect. 2 29(6): 106 1933",,,,,,551597-1,wfo-0000501134,4004860,,
+ac82296c-8fcd-11eb-924d-9cd76263cbd0,species,sogerensis,Sogerianthe,,"(S.Moore) Danser",,1933,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 2. 29(6): 106 1933",,,,,,551598-1,wfo-0001035754,4004849,,
+89df9d14-8fcc-11eb-924d-9cd76263cbd0,species,trilobobractea,Sogerianthe,,Danser,,1940,,"Blumea 3: 389 1940",,Q96029290,,,,551599-1,wfo-0000501133,4004842,,
+89df7c26-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Sogerianthe,,Danser,,1935,,"J. Arnold Arbor. 16: 207 1935",,Q100558668,,,,551600-1,wfo-0000501132,4004831,,

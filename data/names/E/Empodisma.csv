@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3496b1e-8fd1-11eb-924d-9cd76263cbd0,genus,Empodisma,,,"L.A.S.Johnson & D.F.Cutler",1974,"Kew Bull. 28: 383. 1974.",,,,,33349-1,wfo-4000013335,2706725,
-4d63430e-8fcc-11eb-924d-9cd76263cbd0,species,gracillimum,Empodisma,,"(F.Muell.) L.A.S.Johnson & D.F.Cutler",1973,"Kew Bull. 28: 383 1973 publ. 1974",,,,,715883-1,wfo-0000407384,5290338,
-4d641450-8fcc-11eb-924d-9cd76263cbd0,species,minus,Empodisma,,"(Hook.f.) L.A.S.Johnson & D.F.Cutler",1973,"Kew Bull. 28: 383 1973 publ. 1974",,,,758aa56a-8fcd-11eb-924d-9cd76263cbd0,715884-1,wfo-0000407390,5290335,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3496b1e-8fd1-11eb-924d-9cd76263cbd0,genus,Empodisma,,,"L.A.S.Johnson & D.F.Cutler",,1974,,"Kew Bull. 28: 383. 1974.",,Q55779400,,,,33349-1,wfo-4000013335,2706725,,
+4d63430e-8fcc-11eb-924d-9cd76263cbd0,species,gracillimum,Empodisma,,"(F.Muell.) L.A.S.Johnson & D.F.Cutler",,1973,,"Kew Bull. 28: 383 1973 publ. 1974",,Q55779400,,,,715883-1,wfo-0000407384,5290338,,
+4d641450-8fcc-11eb-924d-9cd76263cbd0,species,minus,Empodisma,,"(Hook.f.) L.A.S.Johnson & D.F.Cutler",,1973,,"Kew Bull. 28: 383 1973 publ. 1974",,Q55779400,,758aa56a-8fcd-11eb-924d-9cd76263cbd0,,715884-1,wfo-0000407390,5290335,,

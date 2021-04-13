@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaf29f0c-8fd1-11eb-924d-9cd76263cbd0,genus,Subularia,,,"Ray ex L.",1753,"Sp. Pl. 2: 642. 1753. (1 May 1753)",,,,,13091-1,wfo-4000037043,7828913,
-609a8d74-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Subularia,,Willd.,1800,"Sp. Pl. 3: 424 1800",,,,,290257-1,wfo-0000432074,5550683,
-609b56fa-8fcc-11eb-924d-9cd76263cbd0,species,aquatica,Subularia,,L.,1753,"Sp. Pl. 642 1753",,,,,290258-1,wfo-0000432078,5373421,
-ac9329ca-8fd1-11eb-924d-9cd76263cbd0,variety,americana,Subularia,aquatica,"(G.A.Mulligan & Calder) B.Boivin",1966,"Naturaliste Canad. 93(5): 646 1966",,,,ab8abee4-8fd1-11eb-924d-9cd76263cbd0,247819-2,wfo-0001218319,5373423,
-ab8abee4-8fd1-11eb-924d-9cd76263cbd0,subspecies,americana,Subularia,aquatica,"G.A.Mulligan & Calder",,"Rhodora 66(766): 132–133, f. 1 [map], pl. 1295, f. 1 1964",,,,,,wfo-0001216417,5373423,
-ab9812a6-8fd1-11eb-924d-9cd76263cbd0,species,monticola,Subularia,,"A.Braun ex Schweinf.",1867,"Beitr. Fl. Aethiop. 76 1867",,,,,290259-1,wfo-0001216525,5373424,
-609d1882-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Subularia,,Forssk.,1775,"Fl. Aegypt.-Arab. 117 1775",,,,,290260-1,wfo-0000432088,5375909,
-adbec69c-8fd1-11eb-924d-9cd76263cbd0,species,texana,Subularia,,B.L.Rob.,,,,,,,,wfo-0001220475,8320567,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaf29f0c-8fd1-11eb-924d-9cd76263cbd0,genus,Subularia,,,"Ray ex L.",,1753,,"Sp. Pl. 2: 642. 1753. (1 May 1753)",,,,,,13091-1,wfo-4000037043,7828913,,
+609a8d74-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Subularia,,Willd.,,1800,,"Sp. Pl. 3: 424 1800",,,,,,290257-1,wfo-0000432074,5550683,,
+609b56fa-8fcc-11eb-924d-9cd76263cbd0,species,aquatica,Subularia,,L.,,1753,,"Sp. Pl. 642 1753",,,,,,290258-1,wfo-0000432078,5373421,,
+ac9329ca-8fd1-11eb-924d-9cd76263cbd0,variety,americana,Subularia,aquatica,"(G.A.Mulligan & Calder) B.Boivin",,1966,,"Naturaliste Canad. 93(5): 646 1966",,,,ab8abee4-8fd1-11eb-924d-9cd76263cbd0,,247819-2,wfo-0001218319,5373423,,
+ab8abee4-8fd1-11eb-924d-9cd76263cbd0,subspecies,americana,Subularia,aquatica,"G.A.Mulligan & Calder",,,,"Rhodora 66(766): 132–133, f. 1 [map], pl. 1295, f. 1 1964",,,,,,,wfo-0001216417,5373423,,
+ab9812a6-8fd1-11eb-924d-9cd76263cbd0,species,monticola,Subularia,,"A.Braun ex Schweinf.",,1867,,"Beitr. Fl. Aethiop. 76 1867",,,,,,290259-1,wfo-0001216525,5373424,,
+609d1882-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Subularia,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 117 1775",,Q5862701,,,,290260-1,wfo-0000432088,5375909,,
+adbec69c-8fd1-11eb-924d-9cd76263cbd0,species,texana,Subularia,,B.L.Rob.,,,,,,,,,,,wfo-0001220475,8320567,,

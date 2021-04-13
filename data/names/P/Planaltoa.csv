@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a202a6-8fd1-11eb-924d-9cd76263cbd0,genus,Planaltoa,,,Taub.,,,,,,,289426-2,wfo-4000030024,3104577,
-138c60bc-8fb7-11eb-924d-9cd76263cbd0,species,lychnophoroides,Planaltoa,,G.M.Barroso,1965,"79 1965",,,,,201158-2,wfo-0000096123,3104579,
-66702eb2-8fb2-11eb-924d-9cd76263cbd0,species,salviifolia,Planaltoa,,Taub.,1896,"454 1896",,,,,,wfo-0000023372,3104578,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a202a6-8fd1-11eb-924d-9cd76263cbd0,genus,Planaltoa,,,Taub.,,,,,,,,,,289426-2,wfo-4000030024,3104577,,
+138c60bc-8fb7-11eb-924d-9cd76263cbd0,species,lychnophoroides,Planaltoa,,G.M.Barroso,,1965,,"79 1965",,,,,,201158-2,wfo-0000096123,3104579,,
+66702eb2-8fb2-11eb-924d-9cd76263cbd0,species,salviifolia,Planaltoa,,Taub.,,1896,,"454 1896",,,,,,,wfo-0000023372,3104578,,

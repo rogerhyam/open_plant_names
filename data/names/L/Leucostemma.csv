@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5e2b61e-8fd1-11eb-924d-9cd76263cbd0,genus,Leucostemma,,,"Benth. ex G.Don",1831,"Gen. Hist. 1: 449. 1831.",,,,,,wfo-4000021611,3231719,
-2b780d4c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Leucostemma,,Royle,1834,"Ill. Bot. Himal. Mts. t. 21 1834",,,,,154980-1,wfo-0000359918,5584647,
-2b782d5e-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Leucostemma,,"Benth. ex G.Don",1831,"Gen. Hist. 1: 449 1831",,,,,,wfo-0000359919,7676890,
-1360c12e-8fb6-11eb-924d-9cd76263cbd0,species,lingulatum,Leucostemma,,D.Don,1823,"in Mem. Wern. Soc. v. (1823-24) 541.",,,,,230274-1,wfo-0000085382,5702729,
-57ae42de-8fb6-11eb-924d-9cd76263cbd0,species,vestitum,Leucostemma,,D.Don,1823,"in Mem. Wern. Soc. v. (1823-24) 541.",,,,,230275-1,wfo-0000088415,5702727,
-cf801c72-8fd1-11eb-924d-9cd76263cbd0,species,webbianum,Leucostemma,,"Benth. ex G.Don",1831,"Gen. Hist. 1: 449 1831",,,,,,wfo-0001281179,7968715,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5e2b61e-8fd1-11eb-924d-9cd76263cbd0,genus,Leucostemma,,,"Benth. ex G.Don",,1831,,"Gen. Hist. 1: 449. 1831.",,,,,,,wfo-4000021611,3231719,,
+2b780d4c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Leucostemma,,Royle,,1834,,"Ill. Bot. Himal. Mts. t. 21 1834",,,,,,154980-1,wfo-0000359918,5584647,,
+2b782d5e-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Leucostemma,,"Benth. ex G.Don",,1831,,"Gen. Hist. 1: 449 1831",,,,,,,wfo-0000359919,7676890,,
+1360c12e-8fb6-11eb-924d-9cd76263cbd0,species,lingulatum,Leucostemma,,D.Don,,1823,,"in Mem. Wern. Soc. v. (1823-24) 541.",,,,,,230274-1,wfo-0000085382,5702729,,
+57ae42de-8fb6-11eb-924d-9cd76263cbd0,species,vestitum,Leucostemma,,D.Don,,1823,,"in Mem. Wern. Soc. v. (1823-24) 541.",,,,,,230275-1,wfo-0000088415,5702727,,
+cf801c72-8fd1-11eb-924d-9cd76263cbd0,species,webbianum,Leucostemma,,"Benth. ex G.Don",,1831,,"Gen. Hist. 1: 449 1831",,,,,,,wfo-0001281179,7968715,,

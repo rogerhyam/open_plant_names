@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e01f840a-8fd1-11eb-924d-9cd76263cbd0,genus,Bayabusua,,,"W.J.de Wilde",,,,,,,1011147-1,wfo-4000004255,7317653,
-af0d126a-8fcc-11eb-924d-9cd76263cbd0,species,clarkei,Bayabusua,,"(King) W.J.de Wilde",1999,"Sandakania 13: 2 1999",,,,,1011148-1,wfo-0000561684,3623525,
-24acc326-8fcd-11eb-924d-9cd76263cbd0,species,bayfieldii,,,"(Salm-Dyck) G.D.Rowley",1954,"Natl. Cact. Succ. J. 9: 76 1954",,,,1f242ef8-8fcd-11eb-924d-9cd76263cbd0,535732-1,wfo-0000768921,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e01f840a-8fd1-11eb-924d-9cd76263cbd0,genus,Bayabusua,,,"W.J.de Wilde",,,,,,Q104587117,,,,1011147-1,wfo-4000004255,7317653,,
+af0d126a-8fcc-11eb-924d-9cd76263cbd0,species,clarkei,Bayabusua,,"(King) W.J.de Wilde",,1999,,"Sandakania 13: 2 1999",,Q104587117,,,,1011148-1,wfo-0000561684,3623525,,
+24acc326-8fcd-11eb-924d-9cd76263cbd0,species,bayfieldii,,,"(Salm-Dyck) G.D.Rowley",,1954,,"Natl. Cact. Succ. J. 9: 76 1954",,,,1f242ef8-8fcd-11eb-924d-9cd76263cbd0,,535732-1,wfo-0000768921,,,

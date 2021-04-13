@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df2cd46c-8fd1-11eb-924d-9cd76263cbd0,genus,Amauriella,,,Rendle,1913,"Cat. Talbot's Nigerian Pl. 115. 1913.",,,,,,wfo-4000001488,2866754,
-87c788ba-8fcd-11eb-924d-9cd76263cbd0,species,auriculata,Amauriella,,"(Engl.) Hepper",1968,"Kew Bull. 22: 454 1968",,,,,84271-1,wfo-0000959726,2871888,
-87c8bb9a-8fcd-11eb-924d-9cd76263cbd0,species,hastifolia,Amauriella,,"(Engl.) Hepper",1968,"Kew Bull. 22: 454 1968",,,,e205aade-8fcb-11eb-924d-9cd76263cbd0,84272-1,wfo-0000959737,2871887,
-87c9f5aa-8fcd-11eb-924d-9cd76263cbd0,species,obanensis,Amauriella,,Rendle,1913,"Cat. Pl. Oban 115 1913",,,,,84273-1,wfo-0000959748,2871885,
-d423c15c-8fd1-11eb-924d-9cd76263cbd0,species,talbotii,Amauriella,,Rendle,,,,,,,,wfo-0001285611,8159991,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df2cd46c-8fd1-11eb-924d-9cd76263cbd0,genus,Amauriella,,,Rendle,,1913,,"Cat. Talbot's Nigerian Pl. 115. 1913.",,,,,,,wfo-4000001488,2866754,,
+87c788ba-8fcd-11eb-924d-9cd76263cbd0,species,auriculata,Amauriella,,"(Engl.) Hepper",,1968,,"Kew Bull. 22: 454 1968",,Q43250038,,,,84271-1,wfo-0000959726,2871888,,
+87c8bb9a-8fcd-11eb-924d-9cd76263cbd0,species,hastifolia,Amauriella,,"(Engl.) Hepper",,1968,,"Kew Bull. 22: 454 1968",,Q43250038,,e205aade-8fcb-11eb-924d-9cd76263cbd0,,84272-1,wfo-0000959737,2871887,,
+87c9f5aa-8fcd-11eb-924d-9cd76263cbd0,species,obanensis,Amauriella,,Rendle,,1913,,"Cat. Pl. Oban 115 1913",,,,,,84273-1,wfo-0000959748,2871885,,
+d423c15c-8fd1-11eb-924d-9cd76263cbd0,species,talbotii,Amauriella,,Rendle,,,,,,,,,,,wfo-0001285611,8159991,,

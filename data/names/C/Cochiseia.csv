@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1dd692e-8fd1-11eb-924d-9cd76263cbd0,genus,Cochiseia,,,W.Earle,1976,"Saguaroland Bull. 30: 65. 1976.",,,,,,wfo-4000008733,7284550,
-cebe4304-8fcc-11eb-924d-9cd76263cbd0,species,robbinsorum,Cochiseia,,W.H.Earle,1976,"Saguaroland Bull. 30(6): 65 1976",,,,,131083-1,wfo-0000613675,3959837,
-cebe6474-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Cochlanthera,,Choisy,1851,"Mém. Soc. Phys. Genève 12: 426 1851",,,,,427745-1,wfo-0000613676,3712159,
-cebe9fde-8fcc-11eb-924d-9cd76263cbd0,species,socotranus,Cochlanthus,,Balf.f.,1884,"Proc. Roy. Soc. Edinburgh 12: 79 1884",,,,,95873-1,wfo-0000613678,3572376,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1dd692e-8fd1-11eb-924d-9cd76263cbd0,genus,Cochiseia,,,W.Earle,,1976,,"Saguaroland Bull. 30: 65. 1976.",,,,,,,wfo-4000008733,7284550,,
+cebe4304-8fcc-11eb-924d-9cd76263cbd0,species,robbinsorum,Cochiseia,,W.H.Earle,,1976,,"Saguaroland Bull. 30(6): 65 1976",,,,,,131083-1,wfo-0000613675,3959837,,
+cebe6474-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Cochlanthera,,Choisy,,1851,,"Mém. Soc. Phys. Genève 12: 426 1851",,,,,,427745-1,wfo-0000613676,3712159,,
+cebe9fde-8fcc-11eb-924d-9cd76263cbd0,species,socotranus,Cochlanthus,,Balf.f.,,1884,,"Proc. Roy. Soc. Edinburgh 12: 79 1884",,,,,,95873-1,wfo-0000613678,3572376,,

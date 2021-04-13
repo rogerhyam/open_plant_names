@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d0750c-8fd1-11eb-924d-9cd76263cbd0,genus,Clemensiella,,,Schltr.,1915,"Repert. Spec. Nov. Regni Veg. 13: 566. 1915.",,,,,,wfo-4000008571,7311811,
-cb1286f6-8fcd-11eb-924d-9cd76263cbd0,species,dischidioides,Clemensiella,,"Elmer ex Merr.",1923,"Enum. Philipp. Fl. Pl. 3: 356 1923",,,,,95871-1,wfo-0001104410,3572399,
-cd4f6d9a-8fcc-11eb-924d-9cd76263cbd0,species,mariae,Clemensiella,,"(Schltr.) Schltr.",1915,"Repert. Spec. Nov. Regni Veg. 13: 566 1915",,,,,95872-1,wfo-0000611097,3572392,
-185d44b0-8fcd-11eb-924d-9cd76263cbd0,species,omlori,Clemensiella,,"Livsh. & Meve",2009,"Edinburgh J. Bot. 66: 454 2009",,,,,77102565-1,wfo-0000743594,,
-a8d160e2-8fc0-11eb-924d-9cd76263cbd0,species,nitida,Clementea,,Cav.,,,,,,,60473-2,wfo-0000167336,2962123,
-b1533b76-8fd1-11eb-924d-9cd76263cbd0,species,palmiformis,Clementea,,Cav.,1802,"Descr. Pl. 554 1802",,,,,,wfo-0001227014,7717822,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d0750c-8fd1-11eb-924d-9cd76263cbd0,genus,Clemensiella,,,Schltr.,,1915,,"Repert. Spec. Nov. Regni Veg. 13: 566. 1915.",,,,,,,wfo-4000008571,7311811,,
+cb1286f6-8fcd-11eb-924d-9cd76263cbd0,species,dischidioides,Clemensiella,,"Elmer ex Merr.",,1923,,"Enum. Philipp. Fl. Pl. 3: 356 1923",,,,,,95871-1,wfo-0001104410,3572399,,
+cd4f6d9a-8fcc-11eb-924d-9cd76263cbd0,species,mariae,Clemensiella,,"(Schltr.) Schltr.",,1915,,"Repert. Spec. Nov. Regni Veg. 13: 566 1915",,Q55752988,,,,95872-1,wfo-0000611097,3572392,,
+185d44b0-8fcd-11eb-924d-9cd76263cbd0,species,omlori,Clemensiella,,"Livsh. & Meve",,2009,,"Edinburgh J. Bot. 66: 454 2009",,Q55756015,,,,77102565-1,wfo-0000743594,,,
+a8d160e2-8fc0-11eb-924d-9cd76263cbd0,species,nitida,Clementea,,Cav.,,,,,,,,,,60473-2,wfo-0000167336,2962123,,
+b1533b76-8fd1-11eb-924d-9cd76263cbd0,species,palmiformis,Clementea,,Cav.,,1802,,"Descr. Pl. 554 1802",,,,,,,wfo-0001227014,7717822,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e84376d2-8fd1-11eb-924d-9cd76263cbd0,genus,Petalanthera,,,,,,,,,,,wfo-4000028887,,
-bc21be1e-8fcd-11eb-924d-9cd76263cbd0,species,bracteolata,Petalanthera,,Nees,1836,"Syst. Laur. 347 1836",,,,,468280-1,wfo-0001071380,5685317,
-771a2640-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Petalanthera,,Nutt.,1834,"J. Acad. Nat. Sci. Philadelphia 7: 107 1834",,,,,545542-1,wfo-0000469104,5646541,
-41d0d646-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Petalanthera,,Raf.,1837,"Fl. Tellur. 2: 100 1837",,,,,52943-1,wfo-0000393053,5574821,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e84376d2-8fd1-11eb-924d-9cd76263cbd0,genus,Petalanthera,,,,,,,,,,,,,,wfo-4000028887,,,
+bc21be1e-8fcd-11eb-924d-9cd76263cbd0,species,bracteolata,Petalanthera,,Nees,,1836,,"Syst. Laur. 347 1836",,,,,,468280-1,wfo-0001071380,5685317,,
+771a2640-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Petalanthera,,Nutt.,,1834,,"J. Acad. Nat. Sci. Philadelphia 7: 107 1834",,,,,,545542-1,wfo-0000469104,5646541,,
+41d0d646-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Petalanthera,,Raf.,,1837,,"Fl. Tellur. 2: 100 1837",,,,,,52943-1,wfo-0000393053,5574821,,

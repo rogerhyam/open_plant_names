@@ -1,5 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e682c258-8fd1-11eb-924d-9cd76263cbd0,genus,Melanodiscus,,,"Radlkofer in T.Durand",1887,"Index Gen. Phan. 75. 1887.",,,,,,wfo-4000023586,3233077,
-6d900144-8fcc-11eb-924d-9cd76263cbd0,species,africanus,Melanodiscus,,Radlk.,1888,"Index Gen. Phan. 75 1888",,,,,,wfo-0000453135,5576606,
-6d8d3aea-8fcc-11eb-924d-9cd76263cbd0,species,oblongus,Melanodiscus,,"Radlk. ex Taub.",1895,"Pflanzenw. Ost-Afrikas C: 250 1895",,,,,783653-1,wfo-0000453122,5576604,
-d8e78e66-8fcd-11eb-924d-9cd76263cbd0,species,unijugatus,Melanodiscus,,Pellegr.,1938,"Bull. Soc. Bot. France 85: 293 1938",,,,,,wfo-0001135025,5576603,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e682c258-8fd1-11eb-924d-9cd76263cbd0,genus,Melanodiscus,,,"Radlkofer in T.Durand",,1887,,"Index Gen. Phan. 75. 1887.",,,,e682c258-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000023586,3233077,8888," "
+6d900144-8fcc-11eb-924d-9cd76263cbd0,species,africanus,Melanodiscus,,Radlk.,,1888,,"Index Gen. Phan. 75 1888",,,,,,,wfo-0000453135,5576606,,
+8ac0fcaa-9bac-11eb-a8a2-19ed5c03f8d3,species,nervisequa,Melanodiscus,,Höhn.,,1918,,"Ber. dt. bot. Ges. 36: (1918)",,,,8ac0fcaa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192819," "
+6d8d3aea-8fcc-11eb-924d-9cd76263cbd0,species,oblongus,Melanodiscus,,"Radlk. ex Taub.",,1895,,"Pflanzenw. Ost-Afrikas C: 250 1895",,,,,,783653-1,wfo-0000453122,5576604,,
+d8e78e66-8fcd-11eb-924d-9cd76263cbd0,species,unijugatus,Melanodiscus,,Pellegr.,,1938,,"Bull. Soc. Bot. France 85: 293 1938",,,,,,,wfo-0001135025,5576603,,

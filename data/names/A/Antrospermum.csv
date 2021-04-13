@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df915374-8fd1-11eb-924d-9cd76263cbd0,genus,Antrospermum,,,,,,,,,,,wfo-4000002539,8982255,
-8fe465a8-8fba-11eb-924d-9cd76263cbd0,species,floribundum,Antrospermum,,Passer.,1859,"s.p. 1859",,,,,177714-1,wfo-0000127640,4239537,
-430e4d46-8fb2-11eb-924d-9cd76263cbd0,species,kraussii,Antrospermum,,Sch.Bip.,1844,"Flora 27 773 1844",,,,,177715-1,wfo-0000017978,4239530,
-7d4ace30-8fb2-11eb-924d-9cd76263cbd0,species,angolensis,Antunesia,,"(O.Hoffm.) O.Hoffm.",1893,"Bol. Soc. Brot. 10 179 1893",,,,,177716-1,wfo-0000026002,5400088,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df915374-8fd1-11eb-924d-9cd76263cbd0,genus,Antrospermum,,,,,,,,,,,,,,wfo-4000002539,8982255,,
+8fe465a8-8fba-11eb-924d-9cd76263cbd0,species,floribundum,Antrospermum,,Passer.,,1859,,"s.p. 1859",,,,,,177714-1,wfo-0000127640,4239537,,
+430e4d46-8fb2-11eb-924d-9cd76263cbd0,species,kraussii,Antrospermum,,Sch.Bip.,,1844,,"Flora 27 773 1844",,,,,,177715-1,wfo-0000017978,4239530,,
+7d4ace30-8fb2-11eb-924d-9cd76263cbd0,species,angolensis,Antunesia,,"(O.Hoffm.) O.Hoffm.",,1893,,"Bol. Soc. Brot. 10 179 1893",,,,,,177716-1,wfo-0000026002,5400088,,

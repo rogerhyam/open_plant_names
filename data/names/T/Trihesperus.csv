@@ -1,11 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb980974-8fd1-11eb-924d-9cd76263cbd0,genus,Trihesperus,,,Herb.,1844,"Bot. Reg. 30(Misc.): 90. 1844.",,,,,24855-1,wfo-4000039182,2769689,
-1b7e0de6-8fcd-11eb-924d-9cd76263cbd0,species,glaucus,Trihesperus,,"(Ruiz & Pav.) Herb.",1844,"Edwards's Bot. Reg. 30(Misc.): 90 1844",,,,,542503-1,wfo-0000750229,2769690,
-1b7d093c-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Trihesperus,,"(Kunth) Herb.",1844,"Edwards's Bot. Reg. 30(Misc.): 90 1844",,,,1437a66a-8fcc-11eb-924d-9cd76263cbd0,542504-1,wfo-0000750220,2769698,
-4d36a722-8fcc-11eb-924d-9cd76263cbd0,species,triflora,Trikalis,,Raf.,1837,"Fl. Tellur. 3: 47 1837",,,,,167630-1,wfo-0000407145,3760338,
-4d36c7e8-8fcc-11eb-924d-9cd76263cbd0,species,trigyna,Trikalis,,Moq.,1849,"Prodr. 13(2): 158 1849",,,,,167631-1,wfo-0000407146,3760332,
-69094346-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Trikeraia,,"(Stapf) Bor",1954,"Kew Bull. 9: 555 1954 publ. 1955",,,,,424784-1,wfo-0000904492,4114666,
-69098b3a-8fcd-11eb-924d-9cd76263cbd0,variety,ramosa,Trikeraia,hookeri,Bor,1954,"Kew Bull. 9: 557 1954",,,,,,wfo-0000904493,5940218,
-6909b542-8fcd-11eb-924d-9cd76263cbd0,species,oreophila,Trikeraia,,Cope,1987,"Kew Bull. 42: 350 1987",,,,,931879-1,wfo-0000904494,4118745,
-6909e526-8fcd-11eb-924d-9cd76263cbd0,species,pappiformis,Trikeraia,,"(Keng) P.C.Kuo & S.L.Lu",1987,"in Fl. Reipubl. Popul. Sin. 9(3): 317 1987",,,,67963cc6-8fcd-11eb-924d-9cd76263cbd0,975693-1,wfo-0000904495,4118732,
-690a0ede-8fcd-11eb-924d-9cd76263cbd0,species,tianshanica,Trikeraia,,"S.L.Lu & X.F.Lu",2001,"Acta Phytotax. Sin. 39: 275 2001",,,,,20000131-1,wfo-0000904496,4118729,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb980974-8fd1-11eb-924d-9cd76263cbd0,genus,Trihesperus,,,Herb.,,1844,,"Bot. Reg. 30(Misc.): 90. 1844.",,,,,,24855-1,wfo-4000039182,2769689,,
+1b7e0de6-8fcd-11eb-924d-9cd76263cbd0,species,glaucus,Trihesperus,,"(Ruiz & Pav.) Herb.",,1844,,"Edwards's Bot. Reg. 30(Misc.): 90 1844",,,,,,542503-1,wfo-0000750229,2769690,,
+1b7d093c-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Trihesperus,,"(Kunth) Herb.",,1844,,"Edwards's Bot. Reg. 30(Misc.): 90 1844",,,,1437a66a-8fcc-11eb-924d-9cd76263cbd0,,542504-1,wfo-0000750220,2769698,,

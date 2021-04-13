@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5a850d2-8fd1-11eb-924d-9cd76263cbd0,genus,Leeuwenbergia,,,"Letouzey & N.Hallé",1974,"Adansonia ser. 2. 14: 380. 1974.",,,,,15563-1,wfo-4000020878,3061400,
-d8ceb082-8fcb-11eb-924d-9cd76263cbd0,species,africana,Leeuwenbergia,,"Letouzey & N.Hallé",1974,"Adansonia n.s., 14: 386 1974",,,,,350782-1,wfo-0000224356,3061402,
-d8ced0ee-8fcb-11eb-924d-9cd76263cbd0,species,letestui,Leeuwenbergia,,"Letouzey & N.Hallé",1974,"Adansonia n.s., 14: 384 1974",,,,,350783-1,wfo-0000224357,3061401,
-68ee0eba-8fcc-11eb-924d-9cd76263cbd0,species,tiliacea,Leeuwenhoeckia,,"E.Mey. ex Endl.",1839,"Nov. Stirp. Dec. 37 1839",,,,,,wfo-0000444864,7936164,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5a850d2-8fd1-11eb-924d-9cd76263cbd0,genus,Leeuwenbergia,,,"Letouzey & N.Hallé",,1974,,"Adansonia ser. 2. 14: 380. 1974.",,Q58838023,,,,15563-1,wfo-4000020878,3061400,,
+d8ceb082-8fcb-11eb-924d-9cd76263cbd0,species,africana,Leeuwenbergia,,"Letouzey & N.Hallé",,1974,,"Adansonia n.s., 14: 386 1974",,Q58838023,,,,350782-1,wfo-0000224356,3061402,,
+d8ced0ee-8fcb-11eb-924d-9cd76263cbd0,species,letestui,Leeuwenbergia,,"Letouzey & N.Hallé",,1974,,"Adansonia n.s., 14: 384 1974",,Q58838023,,,,350783-1,wfo-0000224357,3061401,,
+68ee0eba-8fcc-11eb-924d-9cd76263cbd0,species,tiliacea,Leeuwenhoeckia,,"E.Mey. ex Endl.",,1839,,"Nov. Stirp. Dec. 37 1839",,,,,,,wfo-0000444864,7936164,,

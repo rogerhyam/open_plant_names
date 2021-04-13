@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb2a8908-8fd1-11eb-924d-9cd76263cbd0,genus,Tepesia,,,C.F.Gaertn.,1806,"Suppl. Carp. 72. 1806.",,,,,,wfo-4000037768,7271025,
-1455ddce-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Tepesia,,C.F.Gaertn.,1806,"Suppl. Carp. 3: 73 1806",,,,,,wfo-0000321509,3847550,
-13bcb09e-8fcd-11eb-924d-9cd76263cbd0,species,aequipetala,Tephea,,Delile,1846,"Sec. Voy. Choa 340 1846",,,,,82426-1,wfo-0000733953,3620492,
-6e515b64-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Tephis,,Raf.,1837,"Fl. Tellur. 3: 11 1837",,,,,697713-1,wfo-0000454395,5651549,
-6e514124-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Tephis,,Raf.,1837,"Fl. Tellur. 3: 11 1837",,,,,697714-1,wfo-0000454394,5651547,
-527b337e-8fcc-11eb-924d-9cd76263cbd0,species,papulosa,Tephras,,"E.Mey. ex Sond.",1862,"Fl .Cap. 2: 477 1862",,,,,364721-1,wfo-0000413807,8662100,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb2a8908-8fd1-11eb-924d-9cd76263cbd0,genus,Tepesia,,,C.F.Gaertn.,,1806,,"Suppl. Carp. 72. 1806.",,,,,,,wfo-4000037768,7271025,,
+1455ddce-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Tepesia,,C.F.Gaertn.,,1806,,"Suppl. Carp. 3: 73 1806",,,,,,,wfo-0000321509,3847550,,
+13bcb09e-8fcd-11eb-924d-9cd76263cbd0,species,aequipetala,Tephea,,Delile,,1846,,"Sec. Voy. Choa 340 1846",,,,,,82426-1,wfo-0000733953,3620492,,
+6e515b64-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Tephis,,Raf.,,1837,,"Fl. Tellur. 3: 11 1837",,,,,,697713-1,wfo-0000454395,5651549,,
+6e514124-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Tephis,,Raf.,,1837,,"Fl. Tellur. 3: 11 1837",,,,,,697714-1,wfo-0000454394,5651547,,
+527b337e-8fcc-11eb-924d-9cd76263cbd0,species,papulosa,Tephras,,"E.Mey. ex Sond.",,1862,,"Fl .Cap. 2: 477 1862",,,,,,364721-1,wfo-0000413807,8662100,,

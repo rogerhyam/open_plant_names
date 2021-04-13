@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e973780e-8fd1-11eb-924d-9cd76263cbd0,genus,Radinosiphon,,,N.E.Br.,1932,"Trans. Roy. Soc. South Africa 20: 262. 1932.",,,,,20463-1,wfo-4000032462,2749733,
-2bd50b54-8fcd-11eb-924d-9cd76263cbd0,species,cameronii,Radinosiphon,,N.E.Br.,1932,"Trans. Roy. Soc. South Africa 20: 263 1932",,,,,440629-1,wfo-0000784459,2749741,
-2bd52792-8fcd-11eb-924d-9cd76263cbd0,species,holostachya,Radinosiphon,,"(Baker) N.E.Br.",1932,"Trans. Roy. Soc. South Africa 20: 263 1932",,,,,440630-1,wfo-0000784460,2749737,
-2bd543b2-8fcd-11eb-924d-9cd76263cbd0,species,leptosiphon,Radinosiphon,,"(F.Bolus) N.E.Br.",1932,"Trans. Roy. Soc. South Africa 20: 263 1932",,,,2e4f359e-8fcd-11eb-924d-9cd76263cbd0,440631-1,wfo-0000784461,2750203,
-2bd561f8-8fcd-11eb-924d-9cd76263cbd0,species,leptostachya,Radinosiphon,,"(Baker) N.E.Br.",1932,"Trans. Roy. Soc. South Africa 20: 263 1932",,,,,440632-1,wfo-0000784462,2749734,
-2bd59a88-8fcd-11eb-924d-9cd76263cbd0,species,lomatensis,Radinosiphon,,"(N.E.Br.) N.E.Br.",1932,"Trans. Roy. Soc. South Africa 20: 263 1932",,,,2d4ce81c-8fcd-11eb-924d-9cd76263cbd0,440633-1,wfo-0000784464,2749742,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e973780e-8fd1-11eb-924d-9cd76263cbd0,genus,Radinosiphon,,,N.E.Br.,,1932,,"Trans. Roy. Soc. South Africa 20: 262. 1932.",,Q55756429,,,,20463-1,wfo-4000032462,2749733,,
+2bd50b54-8fcd-11eb-924d-9cd76263cbd0,species,cameronii,Radinosiphon,,N.E.Br.,,1932,,"Trans. Roy. Soc. South Africa 20: 263 1932",,Q55756429,,,,440629-1,wfo-0000784459,2749741,,
+2bd52792-8fcd-11eb-924d-9cd76263cbd0,species,holostachya,Radinosiphon,,"(Baker) N.E.Br.",,1932,,"Trans. Roy. Soc. South Africa 20: 263 1932",,Q55756429,,,,440630-1,wfo-0000784460,2749737,,
+2bd543b2-8fcd-11eb-924d-9cd76263cbd0,species,leptosiphon,Radinosiphon,,"(F.Bolus) N.E.Br.",,1932,,"Trans. Roy. Soc. South Africa 20: 263 1932",,Q55756429,,2e4f359e-8fcd-11eb-924d-9cd76263cbd0,,440631-1,wfo-0000784461,2750203,,
+2bd561f8-8fcd-11eb-924d-9cd76263cbd0,species,leptostachya,Radinosiphon,,"(Baker) N.E.Br.",,1932,,"Trans. Roy. Soc. South Africa 20: 263 1932",,Q55756429,,,,440632-1,wfo-0000784462,2749734,,
+2bd59a88-8fcd-11eb-924d-9cd76263cbd0,species,lomatensis,Radinosiphon,,"(N.E.Br.) N.E.Br.",,1932,,"Trans. Roy. Soc. South Africa 20: 263 1932",,Q55756429,,2d4ce81c-8fcd-11eb-924d-9cd76263cbd0,,440633-1,wfo-0000784464,2749742,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2aa6762-8fd1-11eb-924d-9cd76263cbd0,genus,Dibrachion,,,Regel,1865,"Index Sem. Hortus Bot. Petropol. 1865: 51. 1866.",,,,,,wfo-4000011362,3062091,
-e0d628f4-8fcc-11eb-924d-9cd76263cbd0,species,brasiliense,Dibrachion,,Tul.,1843,"Ann. Sci. Nat., Bot. II, 20: 139 1843",,,,,492378-1,wfo-0000644842,5611891,
-847022bc-8fc3-11eb-924d-9cd76263cbd0,species,brasiliensis,Dibrachion,,Tul.,,,,,,,,wfo-0000183251,5355637,
-770f4362-8fc0-11eb-924d-9cd76263cbd0,species,guianense,Dibrachion,,Tul.,,,,,,,79188-2,wfo-0000166167,5355628,
-803a5fbe-8fcd-11eb-924d-9cd76263cbd0,species,peltatum,Dibrachion,,Regel,1865,"Index Seminum (LE) 1865: 51 1865",,,,,344795-1,wfo-0000942750,5380486,
-76e3a02c-8fc0-11eb-924d-9cd76263cbd0,species,riparium,Dibrachion,,Benth.,,,,,,,,wfo-0000166163,5355621,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2aa6762-8fd1-11eb-924d-9cd76263cbd0,genus,Dibrachion,,,Regel,,1865,,"Index Sem. Hortus Bot. Petropol. 1865: 51. 1866.",,,,,,,wfo-4000011362,3062091,,
+e0d628f4-8fcc-11eb-924d-9cd76263cbd0,species,brasiliense,Dibrachion,,Tul.,,1843,,"Ann. Sci. Nat., Bot. II, 20: 139 1843",,,,,,492378-1,wfo-0000644842,5611891,,
+847022bc-8fc3-11eb-924d-9cd76263cbd0,species,brasiliensis,Dibrachion,,Tul.,,,,,,,,,,,wfo-0000183251,5355637,,
+770f4362-8fc0-11eb-924d-9cd76263cbd0,species,guianense,Dibrachion,,Tul.,,,,,,,,,,79188-2,wfo-0000166167,5355628,,
+803a5fbe-8fcd-11eb-924d-9cd76263cbd0,species,peltatum,Dibrachion,,Regel,,1865,,"Index Seminum (LE) 1865: 51 1865",,,,,,344795-1,wfo-0000942750,5380486,,
+76e3a02c-8fc0-11eb-924d-9cd76263cbd0,species,riparium,Dibrachion,,Benth.,,,,,,,,,,,wfo-0000166163,5355621,,

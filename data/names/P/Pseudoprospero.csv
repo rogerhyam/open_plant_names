@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92db0ee-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoprospero,,,Speta,,,,,,,1003495-1,wfo-4000031644,2774039,
-0dfe9424-8fcd-11eb-924d-9cd76263cbd0,species,firmifolium,Pseudoprospero,,"(Baker) Speta",1998,"Phyton (Horn) 38: 116 1998",,,,,1003496-1,wfo-0000723079,2774040,
-d8b664da-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Pseudoprotorhus,,H.Perrier,1944,"Mém. Mus. Natl. Hist. Nat., B, Bot. 18: 265 1944",,,,,70329-1,wfo-0001134613,3785568,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92db0ee-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoprospero,,,Speta,,,,,,,,,,1003495-1,wfo-4000031644,2774039,,
+0dfe9424-8fcd-11eb-924d-9cd76263cbd0,species,firmifolium,Pseudoprospero,,"(Baker) Speta",,1998,,"Phyton (Horn) 38: 116 1998",,,,,,1003496-1,wfo-0000723079,2774040,,

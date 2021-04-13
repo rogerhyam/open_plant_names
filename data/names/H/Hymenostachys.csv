@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4fc48e6-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenostachys,,,Bory,1824,"Dict. Class. Hist. Nat. 6: 588. 1824. (9 Oct 1824)",,,,,,wfo-4000018699,7315548,
-ce99cf6e-8fcd-11eb-924d-9cd76263cbd0,species,diversifrons,Hymenostachys,,Bory,1825,"Dict. Class. Hist. Nat. 8: 462 1825",,,,,17125950-1,wfo-0001112307,3607370,
-cc97b920-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Hymenostachys,,C.Presl,1843,"Hymenophyllaceae 11 1843",,,,,17125960-1,wfo-0001277344,3607362,
-cc97f958-8fd1-11eb-924d-9cd76263cbd0,species,osmundoides,Hymenostachys,,"(DC. ex Poir.) C.Presl",1843,"Hymenophyllaceae 11 1843",,,,,17125970-1,wfo-0001277345,3607356,
-2d716b34-8fbd-11eb-924d-9cd76263cbd0,species,trollii,Hymenostachys,,Pic.Serm.,1977,"Webbia 32(1): 77 (1977): 1977",,,,,17554710-1,wfo-0000146106,3607347,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4fc48e6-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenostachys,,,Bory,,1824,,"Dict. Class. Hist. Nat. 6: 588. 1824. (9 Oct 1824)",,,,,,,wfo-4000018699,7315548,,
+ce99cf6e-8fcd-11eb-924d-9cd76263cbd0,species,diversifrons,Hymenostachys,,Bory,,1825,,"Dict. Class. Hist. Nat. 8: 462 1825",,,,,,17125950-1,wfo-0001112307,3607370,,
+cc97b920-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Hymenostachys,,C.Presl,,1843,,"Hymenophyllaceae 11 1843",,,,,,17125960-1,wfo-0001277344,3607362,,
+cc97f958-8fd1-11eb-924d-9cd76263cbd0,species,osmundoides,Hymenostachys,,"(DC. ex Poir.) C.Presl",,1843,,"Hymenophyllaceae 11 1843",,,,,,17125970-1,wfo-0001277345,3607356,,
+2d716b34-8fbd-11eb-924d-9cd76263cbd0,species,trollii,Hymenostachys,,Pic.Serm.,,1977,,"Webbia 32(1): 77 (1977): 1977",,Q55757988,,,,17554710-1,wfo-0000146106,3607347,,

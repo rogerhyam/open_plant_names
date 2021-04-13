@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8ac626-8fd1-11eb-924d-9cd76263cbd0,genus,Anthospermopsis,,,"(K.Schum.) J.H.Kirkbr.",1997,"Brittonia 49(3): 373. 1997.",,,,,998208-1,wfo-4000002459,2903672,
-cedfa9a6-8fca-11eb-924d-9cd76263cbd0,species,catechosperma,Anthospermopsis,,"(K.Schum.) J.H.Kirkbr.",1997,"Brittonia 49: 373 1997",,,,0fd0766a-8fcc-11eb-924d-9cd76263cbd0,998209-1,wfo-0000219512,2903673,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8ac626-8fd1-11eb-924d-9cd76263cbd0,genus,Anthospermopsis,,,"(K.Schum.) J.H.Kirkbr.",,1997,,"Brittonia 49(3): 373. 1997.",,Q55772448,,,,998208-1,wfo-4000002459,2903672,,
+cedfa9a6-8fca-11eb-924d-9cd76263cbd0,species,catechosperma,Anthospermopsis,,"(K.Schum.) J.H.Kirkbr.",,1997,,"Brittonia 49: 373 1997",,Q55772448,,0fd0766a-8fcc-11eb-924d-9cd76263cbd0,,998209-1,wfo-0000219512,2903673,,

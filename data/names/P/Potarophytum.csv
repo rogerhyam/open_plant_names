@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8f89260-8fd1-11eb-924d-9cd76263cbd0,genus,Potarophytum,,,Sandwith,1939,"Bull. Misc. Inform. Kew 1939: 20. 1939.",,,,,290992-2,wfo-4000031029,2693249,
-8a32ad88-8fcc-11eb-924d-9cd76263cbd0,species,riparium,Potarophytum,,Sandwith,1939,"Bull. Misc. Inform. Kew 1939: 21 1939",,,,,208987-2,wfo-0000501570,2693250,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8f89260-8fd1-11eb-924d-9cd76263cbd0,genus,Potarophytum,,,Sandwith,,1939,,"Bull. Misc. Inform. Kew 1939: 20. 1939.",,,,,,290992-2,wfo-4000031029,2693249,,
+8a32ad88-8fcc-11eb-924d-9cd76263cbd0,species,riparium,Potarophytum,,Sandwith,,1939,,"Bull. Misc. Inform. Kew 1939: 21 1939",,Q55809260,,,,208987-2,wfo-0000501570,2693250,,

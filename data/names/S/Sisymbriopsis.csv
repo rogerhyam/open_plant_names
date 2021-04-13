@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea72511c-8fd1-11eb-924d-9cd76263cbd0,genus,Sisymbriopsis,,,"Botsch. & Tzvelev",1961,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk SSSR 21: 143. 1961.",,,,,,wfo-4000035548,3047156,
-ac672528-8fd1-11eb-924d-9cd76263cbd0,species,mollipila,Sisymbriopsis,,"(Maxim.) Botsch.",1966,"Novosti Sist. Vyssh. Rast. 3: 122 1966",,,,,289121-1,wfo-0001218008,3047158,
-bed4e0ce-8fd1-11eb-924d-9cd76263cbd0,species,pamirica,Sisymbriopsis,,"(Y.C.Lan & Z.X.An) Al-Shehbaz, Z.X.An & G.Yang",1999,"Novon 9(3): 311 1999",,,,a27bbf24-8fcc-11eb-924d-9cd76263cbd0,1009845-1,wfo-0001251854,8652870,
-ac674314-8fd1-11eb-924d-9cd76263cbd0,species,schugnana,Sisymbriopsis,,"Botsch. & Tzvelev",1961,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR 21: 145 1961",,,,,289122-1,wfo-0001218009,3047157,
-bed51558-8fd1-11eb-924d-9cd76263cbd0,species,shuanghuica,Sisymbriopsis,,"(K.C.Kuan & Z.X.An) Al-Shehbaz, Z.X.An & G.Yang",1999,"Novon 9(3): 311 1999",,,,acb3f83a-8fd1-11eb-924d-9cd76263cbd0,1009846-1,wfo-0001251855,3047167,
-bed542d0-8fd1-11eb-924d-9cd76263cbd0,species,yechengnica,Sisymbriopsis,,"(C.H.An) Al-Shehbaz, Z.X.An & G.Yang",1999,"Novon 9(3): 312 1999",,,,,1009847-1,wfo-0001251856,3047165,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea72511c-8fd1-11eb-924d-9cd76263cbd0,genus,Sisymbriopsis,,,"Botsch. & Tzvelev",,1961,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk SSSR 21: 143. 1961.",,,,,,,wfo-4000035548,3047156,,
+ac672528-8fd1-11eb-924d-9cd76263cbd0,species,mollipila,Sisymbriopsis,,"(Maxim.) Botsch.",,1966,,"Novosti Sist. Vyssh. Rast. 3: 122 1966",,,,,,289121-1,wfo-0001218008,3047158,,
+bed4e0ce-8fd1-11eb-924d-9cd76263cbd0,species,pamirica,Sisymbriopsis,,"(Y.C.Lan & Z.X.An) Al-Shehbaz, Z.X.An & G.Yang",,1999,,"Novon 9(3): 311 1999",,Q55774016,,a27bbf24-8fcc-11eb-924d-9cd76263cbd0,,1009845-1,wfo-0001251854,8652870,,
+ac674314-8fd1-11eb-924d-9cd76263cbd0,species,schugnana,Sisymbriopsis,,"Botsch. & Tzvelev",,1961,,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR 21: 145 1961",,,,,,289122-1,wfo-0001218009,3047157,,
+bed51558-8fd1-11eb-924d-9cd76263cbd0,species,shuanghuica,Sisymbriopsis,,"(K.C.Kuan & Z.X.An) Al-Shehbaz, Z.X.An & G.Yang",,1999,,"Novon 9(3): 311 1999",,Q55774016,,acb3f83a-8fd1-11eb-924d-9cd76263cbd0,,1009846-1,wfo-0001251855,3047167,,
+bed542d0-8fd1-11eb-924d-9cd76263cbd0,species,yechengnica,Sisymbriopsis,,"(C.H.An) Al-Shehbaz, Z.X.An & G.Yang",,1999,,"Novon 9(3): 312 1999",,Q55774016,,,,1009847-1,wfo-0001251856,3047165,,

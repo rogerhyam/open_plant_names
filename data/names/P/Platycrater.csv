@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a7af94-8fd1-11eb-924d-9cd76263cbd0,genus,Platycrater,,,"Siebold & Zucc.",1838,"Fl. Jap. 1: 62. 1838.",,,,,,wfo-4000030099,7318942,
-d94fd642-8fcd-11eb-924d-9cd76263cbd0,species,arguta,Platycrater,,"Siebold & Zucc.",1835,"Fl. Jap. 1: 64, f. 27 1835",,,,,,wfo-0001135926,7318947,
-788eac30-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Platycrater,,Makino,1912,"Bot. Mag. (Tokyo) 26: 387 1912",,,,,792371-1,wfo-0000471514,3645158,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a7af94-8fd1-11eb-924d-9cd76263cbd0,genus,Platycrater,,,"Siebold & Zucc.",,1838,,"Fl. Jap. 1: 62. 1838.",,,,,,,wfo-4000030099,7318942,,
+d94fd642-8fcd-11eb-924d-9cd76263cbd0,species,arguta,Platycrater,,"Siebold & Zucc.",,1835,,"Fl. Jap. 1: 64, f. 27 1835",,,,,,,wfo-0001135926,7318947,,
+788eac30-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Platycrater,,Makino,,1912,,"Bot. Mag. (Tokyo) 26: 387 1912",,,,,,792371-1,wfo-0000471514,3645158,,

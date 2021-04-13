@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfba623c-8fd1-11eb-924d-9cd76263cbd0,genus,Argyrophyton,,,,,,,,,,,wfo-4000003019,7337689,
-10ab2e0a-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Argyrophyton,,Hook.,1836,"Contp. Bot. Mag. ii. (1836) 163. ii.  163 1836",,,,,178832-1,wfo-0000009071,4234995,
-20a53f10-8fcd-11eb-924d-9cd76263cbd0,species,candida,Argyropsis,,"(Lindl.) M.Roem.",1847,"Fam. Nat. Syn. Monogr. 4: 125 1847",,,,,63115-1,wfo-0000761038,2859979,
-f1acd8c2-8fcb-11eb-924d-9cd76263cbd0,species,javanica,Argyrorchis,,Blume,1859,"Coll. Orchid. 120 1859",,,,,617092-1,wfo-0000267331,2804648,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfba623c-8fd1-11eb-924d-9cd76263cbd0,genus,Argyrophyton,,,,,,,,,,,,,,wfo-4000003019,7337689,,
+10ab2e0a-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Argyrophyton,,Hook.,,1836,,"Contp. Bot. Mag. ii. (1836) 163. ii.  163 1836",,,,,,178832-1,wfo-0000009071,4234995,,
+20a53f10-8fcd-11eb-924d-9cd76263cbd0,species,candida,Argyropsis,,"(Lindl.) M.Roem.",,1847,,"Fam. Nat. Syn. Monogr. 4: 125 1847",,,,,,63115-1,wfo-0000761038,2859979,,
+f1acd8c2-8fcb-11eb-924d-9cd76263cbd0,species,javanica,Argyrorchis,,Blume,,1859,,"Coll. Orchid. 120 1859",,,,,,617092-1,wfo-0000267331,2804648,,

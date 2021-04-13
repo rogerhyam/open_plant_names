@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea4a973a-8fd1-11eb-924d-9cd76263cbd0,genus,Sequoiadendron,,,J.Buchholz,1939,"Amer. J. Bot. 26: 536. 1939.",,,,,296672-2,wfo-4000035101,2684119,
-87197f3c-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Sequoiadendron,,"(Lindl.) J.Buchholz",1939,"Amer. J. Bot. 26: 536 1939",,,,,677175-1,wfo-0000496705,2684120,
-156a94a6-8fcd-11eb-924d-9cd76263cbd0,form,pendulum,Sequoiadendron,giganteum,"(Briolay-Goiffon ex Carrière) Rehder",1939,"J. Arnold Arbor. 20: 409 1939",,,,,,wfo-0000737241,6712587,
-0c2efd06-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Seraphyta,,"(Sw.) Pfitzer",1889,"Nat. Pflanzenfam. 2(6): 142 1889",,,,,657556-1,wfo-0000309294,2831606,
-0c2f1764-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Seraphyta,,"Fisch. & C.A.Mey.",1840,"Bull. Sci. Acad. Imp. Sci. Saint-Pétersbourg 8: 25 1840",,,,,657557-1,wfo-0000309295,2831607,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea4a973a-8fd1-11eb-924d-9cd76263cbd0,genus,Sequoiadendron,,,J.Buchholz,,1939,,"Amer. J. Bot. 26: 536. 1939.",,Q55766048,,,,296672-2,wfo-4000035101,2684119,,
+87197f3c-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Sequoiadendron,,"(Lindl.) J.Buchholz",,1939,,"Amer. J. Bot. 26: 536 1939",,Q55766048,,,,677175-1,wfo-0000496705,2684120,,
+156a94a6-8fcd-11eb-924d-9cd76263cbd0,form,pendulum,Sequoiadendron,giganteum,"(Briolay-Goiffon ex Carrière) Rehder",,1939,,"J. Arnold Arbor. 20: 409 1939",,,,,,,wfo-0000737241,6712587,,
+0c2efd06-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Seraphyta,,"(Sw.) Pfitzer",,1889,,"Nat. Pflanzenfam. 2(6): 142 1889",,,,,,657556-1,wfo-0000309294,2831606,,
+0c2f1764-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Seraphyta,,"Fisch. & C.A.Mey.",,1840,,"Bull. Sci. Acad. Imp. Sci. Saint-Pétersbourg 8: 25 1840",,,,,,657557-1,wfo-0000309295,2831607,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb36982-8fd1-11eb-924d-9cd76263cbd0,genus,Arctopus,,,L.,,"Sp. Pl. 2: 1058. 1753. (1 May 1753)",,,,,39693-1,wfo-4000002930,6026974,
-a2f4acd6-8fcc-11eb-924d-9cd76263cbd0,species,dregei,Arctopus,,Sond.,1862,"Fl. Cap. 2: 565 1862",,,,,838198-1,wfo-0000543424,3637051,
-a2f4d38c-8fcc-11eb-924d-9cd76263cbd0,species,echinatus,Arctopus,,L.,,"Sp. Pl. 1058 1753",,,,,838199-1,wfo-0000543425,3637043,
-a2f4fe34-8fcc-11eb-924d-9cd76263cbd0,species,monacanthus,Arctopus,,"Carmich. ex Sond.",1862,"Fl. Cap. 2: 565 1862",,,,,838200-1,wfo-0000543426,8565384,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb36982-8fd1-11eb-924d-9cd76263cbd0,genus,Arctopus,,,L.,,,,"Sp. Pl. 2: 1058. 1753. (1 May 1753)",,,,,,39693-1,wfo-4000002930,6026974,,
+a2f4acd6-8fcc-11eb-924d-9cd76263cbd0,species,dregei,Arctopus,,Sond.,,1862,,"Fl. Cap. 2: 565 1862",,,,,,838198-1,wfo-0000543424,3637051,,
+a2f4d38c-8fcc-11eb-924d-9cd76263cbd0,species,echinatus,Arctopus,,L.,,,,"Sp. Pl. 1058 1753",,,,,,838199-1,wfo-0000543425,3637043,,
+a2f4fe34-8fcc-11eb-924d-9cd76263cbd0,species,monacanthus,Arctopus,,"Carmich. ex Sond.",,1862,,"Fl. Cap. 2: 565 1862",,,,,,838200-1,wfo-0000543426,8565384,,

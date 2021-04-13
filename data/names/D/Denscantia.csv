@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e29926c8-8fd1-11eb-924d-9cd76263cbd0,genus,Denscantia,,,"E.L.Cabral & Bacigalupo",2001,"Darwiniana 39(3–4): 353. 2001[2002].",,,,,20005653-1,wfo-4000011143,2892169,
-1c8ea5a2-8fcc-11eb-924d-9cd76263cbd0,species,andrei,Denscantia,,"E.L.Cabral & Bacigalupo",2001,"Darwiniana 39: 353 2001",,,,,20005654-1,wfo-0000336121,2892174,
-1c8ec2f8-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Denscantia,,"(Spreng.) E.L.Cabral & Bacigalupo",2001,"Darwiniana 39: 353 2001",,,,,20005655-1,wfo-0000336122,2892178,
-1c8ee170-8fcc-11eb-924d-9cd76263cbd0,species,macrobracteata,Denscantia,,"E.L.Cabral & Bacigalupo",2001,"Darwiniana 39: 353 2001",,,,,20005656-1,wfo-0000336123,2892176,
-1c8f182a-8fcc-11eb-924d-9cd76263cbd0,species,monodon,Denscantia,,"(K.Schum.) E.L.Cabral & Bacigalupo",2001,"Darwiniana 39: 353 2001",,,,275a66ec-8fcc-11eb-924d-9cd76263cbd0,20005657-1,wfo-0000336124,2892170,
-7fd0c892-8fcd-11eb-924d-9cd76263cbd0,species,clavellata,Denslovia,,"(Michx.) Rydb.",1931,"Brittonia 1: 85 1931",,,,ec5f50e8-8fcb-11eb-924d-9cd76263cbd0,77923-2,wfo-0000941812,2797983,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e29926c8-8fd1-11eb-924d-9cd76263cbd0,genus,Denscantia,,,"E.L.Cabral & Bacigalupo",,2001,,"Darwiniana 39(3–4): 353. 2001[2002].",,Q104175473,,,,20005653-1,wfo-4000011143,2892169,,
+1c8ea5a2-8fcc-11eb-924d-9cd76263cbd0,species,andrei,Denscantia,,"E.L.Cabral & Bacigalupo",,2001,,"Darwiniana 39: 353 2001",,Q104175473,,,,20005654-1,wfo-0000336121,2892174,,
+1c8ec2f8-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Denscantia,,"(Spreng.) E.L.Cabral & Bacigalupo",,2001,,"Darwiniana 39: 353 2001",,Q104175473,,,,20005655-1,wfo-0000336122,2892178,,
+1c8ee170-8fcc-11eb-924d-9cd76263cbd0,species,macrobracteata,Denscantia,,"E.L.Cabral & Bacigalupo",,2001,,"Darwiniana 39: 353 2001",,Q104175473,,,,20005656-1,wfo-0000336123,2892176,,
+1c8f182a-8fcc-11eb-924d-9cd76263cbd0,species,monodon,Denscantia,,"(K.Schum.) E.L.Cabral & Bacigalupo",,2001,,"Darwiniana 39: 353 2001",,Q104175473,,275a66ec-8fcc-11eb-924d-9cd76263cbd0,,20005657-1,wfo-0000336124,2892170,,
+7fd0c892-8fcd-11eb-924d-9cd76263cbd0,species,clavellata,Denslovia,,"(Michx.) Rydb.",,1931,,"Brittonia 1: 85 1931",,Q55768219,,ec5f50e8-8fcb-11eb-924d-9cd76263cbd0,,77923-2,wfo-0000941812,2797983,,

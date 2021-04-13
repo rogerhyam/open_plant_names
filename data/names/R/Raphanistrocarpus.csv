@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e97ca460-8fd1-11eb-924d-9cd76263cbd0,genus,Raphanistrocarpus,,,"(Baill.) Pax",1889,"Nat. Pflanzenfam. 4(5): 22, 25. 1889.",,,,,,wfo-4000032553,7317715,
-47116882-8fcc-11eb-924d-9cd76263cbd0,species,asperifolius,Raphanistrocarpus,,Cogn.,1924,"Pflanzenr. IV, 275 II: 56 1924",,,,,,wfo-0000399243,3624115,
-470f926e-8fcc-11eb-924d-9cd76263cbd0,species,boivinii,Raphanistrocarpus,,"Cogn. ex Engl.",1895,"Pflanzenw. Ost-Afrikas C: 397 1895",,,,,293794-1,wfo-0000399236,3624102,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e97ca460-8fd1-11eb-924d-9cd76263cbd0,genus,Raphanistrocarpus,,,"(Baill.) Pax",,1889,,"Nat. Pflanzenfam. 4(5): 22, 25. 1889.",,,,,,,wfo-4000032553,7317715,,
+47116882-8fcc-11eb-924d-9cd76263cbd0,species,asperifolius,Raphanistrocarpus,,Cogn.,,1924,,"Pflanzenr. IV, 275 II: 56 1924",,,,,,,wfo-0000399243,3624115,,
+470f926e-8fcc-11eb-924d-9cd76263cbd0,species,boivinii,Raphanistrocarpus,,"Cogn. ex Engl.",,1895,,"Pflanzenw. Ost-Afrikas C: 397 1895",,,,,,293794-1,wfo-0000399236,3624102,,

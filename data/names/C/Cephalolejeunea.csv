@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1644742-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalolejeunea,,,Mizut.,1979,"J. Hattori Bot. Lab. 46: 359. 1979.",,,,,,wfo-4000007255,2688851,
-fe601708-8fcd-11eb-924d-9cd76263cbd0,species,incuba,Cephalolejeunea,,"Grolle & Vanden Berghen",1971,"Rev. Bryol. Lichénol. 37: 764 1971",,,,,,wfo-0001213467,8127106,
-fc94036c-8fcd-11eb-924d-9cd76263cbd0,species,parvilobula,Cephalolejeunea,,Mizut.,1979,"J. Hattori Bot. Lab. 46: 359. f. 2 1979",,,,,,wfo-0001209443,2688852,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1644742-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalolejeunea,,,Mizut.,,1979,,"J. Hattori Bot. Lab. 46: 359. 1979.",,,,,,,wfo-4000007255,2688851,,
+fe601708-8fcd-11eb-924d-9cd76263cbd0,species,incuba,Cephalolejeunea,,"Grolle & Vanden Berghen",,1971,,"Rev. Bryol. Lichénol. 37: 764 1971",,,,,,,wfo-0001213467,8127106,,
+fc94036c-8fcd-11eb-924d-9cd76263cbd0,species,parvilobula,Cephalolejeunea,,Mizut.,,1979,,"J. Hattori Bot. Lab. 46: 359. f. 2 1979",,,,,,,wfo-0001209443,2688852,,

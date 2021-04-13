@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8f078aa-8fd1-11eb-924d-9cd76263cbd0,genus,Porotrichella,,,Cardot,1915,"Hist. Phys. Madagascar, Mousses 383. 1915.",,,,,,wfo-4000030949,4900446,
-e99281bc-8fcd-11eb-924d-9cd76263cbd0,species,scaberula,Porotrichella,,"(Renauld & Cardot) Cardot",1915,"Hist. Phys. Madagascar, Mousses 383 1915",,,,,,wfo-0001170448,8344571,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8f078aa-8fd1-11eb-924d-9cd76263cbd0,genus,Porotrichella,,,Cardot,,1915,,"Hist. Phys. Madagascar, Mousses 383. 1915.",,,,,,,wfo-4000030949,4900446,,
+e99281bc-8fcd-11eb-924d-9cd76263cbd0,species,scaberula,Porotrichella,,"(Renauld & Cardot) Cardot",,1915,,"Hist. Phys. Madagascar, Mousses 383 1915",,,,,,,wfo-0001170448,8344571,,

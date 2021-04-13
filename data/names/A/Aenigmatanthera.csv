@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deeb8c0a-8fd1-11eb-924d-9cd76263cbd0,genus,Aenigmatanthera,,,W.R.Anderson,2006,"Novon 16(2): 173–174. 2006. (26 Jul 2006)",,,,,60442796-2,wfo-4000000776,7285714,
-96107d7e-8fcc-11eb-924d-9cd76263cbd0,species,doniana,Aenigmatanthera,,"(Griseb.) W.R.Anderson",2006,"Novon 16: 174 2006",,,,cd584078-8fd1-11eb-924d-9cd76263cbd0,60442798-2,wfo-0000521596,3986088,
-96109bce-8fcc-11eb-924d-9cd76263cbd0,species,lasiandra,Aenigmatanthera,,"(A.Juss.) W.R.Anderson",2006,"Novon 16: 174 2006",,,,bf73da80-8fd1-11eb-924d-9cd76263cbd0,60442797-2,wfo-0000521597,3986080,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deeb8c0a-8fd1-11eb-924d-9cd76263cbd0,genus,Aenigmatanthera,,,W.R.Anderson,,2006,,"Novon 16(2): 173–174. 2006. (26 Jul 2006)",,Q55790887,,,,60442796-2,wfo-4000000776,7285714,,
+96107d7e-8fcc-11eb-924d-9cd76263cbd0,species,doniana,Aenigmatanthera,,"(Griseb.) W.R.Anderson",,2006,,"Novon 16: 174 2006",,Q55790887,,cd584078-8fd1-11eb-924d-9cd76263cbd0,,60442798-2,wfo-0000521596,3986088,,
+96109bce-8fcc-11eb-924d-9cd76263cbd0,species,lasiandra,Aenigmatanthera,,"(A.Juss.) W.R.Anderson",,2006,,"Novon 16: 174 2006",,Q55790887,,bf73da80-8fd1-11eb-924d-9cd76263cbd0,,60442797-2,wfo-0000521597,3986080,,

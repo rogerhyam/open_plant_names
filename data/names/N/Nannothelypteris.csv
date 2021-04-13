@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e70f7a40-8fd1-11eb-924d-9cd76263cbd0,genus,Nannothelypteris,,,Holttum,1971,"Blumea 19: 38. 1971. (15 Nov 1971)",,,,,,wfo-4000025297,8063563,
-bf8fcf42-8fd1-11eb-924d-9cd76263cbd0,species,aoristisora,Nannothelypteris,,"(Harr.) Holttum",1971,"Blumea 19: 38 1971",,,,,17445170-1,wfo-0001253212,4083059,
-2fd10de8-8fbe-11eb-924d-9cd76263cbd0,species,camarinensis,Nannothelypteris,,Holttum,1976,"Kalikasan 5(1): 119 (1976) 1976",,,,,17549810-1,wfo-0000152497,4083049,
-2fe9a3bc-8fbe-11eb-924d-9cd76263cbd0,species,inaequilobata,Nannothelypteris,,Holttum,1973,"Kalikasan 2: 67. 1973. 1973",,,,,17445180-1,wfo-0000152498,4083040,
-2ffa9186-8fbe-11eb-924d-9cd76263cbd0,species,murkelensis,Nannothelypteris,,M.Kato,1997,"Acta Phytotax. Geobot. 48(1): 50 (1997) 1997",,,,,17568340-1,wfo-0000152499,4083031,
-30089380-8fbe-11eb-924d-9cd76263cbd0,species,nervosa,Nannothelypteris,,Holttum,1973,"Kalikasan 2: 66. 1973. 1973",,,,,17445190-1,wfo-0000152500,4083022,
-301d8d1c-8fbe-11eb-924d-9cd76263cbd0,species,philippina,Nannothelypteris,,Holttum,1973,"Kalikasan 2: 66. 1973. 1973",,,,,17445200-1,wfo-0000152501,4083011,
-30405748-8fbe-11eb-924d-9cd76263cbd0,species,seramensis,Nannothelypteris,,M.Kato,1997,"Acta Phytotax. Geobot. 48(1): 52 (1997) 1997",,,,,17568350-1,wfo-0000152502,4082998,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e70f7a40-8fd1-11eb-924d-9cd76263cbd0,genus,Nannothelypteris,,,Holttum,,1971,,"Blumea 19: 38. 1971. (15 Nov 1971)",,,,,,,wfo-4000025297,8063563,,
+bf8fcf42-8fd1-11eb-924d-9cd76263cbd0,species,aoristisora,Nannothelypteris,,"(Harr.) Holttum",,1971,,"Blumea 19: 38 1971",,Q96027990,,,,17445170-1,wfo-0001253212,4083059,,
+2fd10de8-8fbe-11eb-924d-9cd76263cbd0,species,camarinensis,Nannothelypteris,,Holttum,,1976,,"Kalikasan 5(1): 119 (1976) 1976",,,,,,17549810-1,wfo-0000152497,4083049,,
+2fe9a3bc-8fbe-11eb-924d-9cd76263cbd0,species,inaequilobata,Nannothelypteris,,Holttum,,1973,,"Kalikasan 2: 67. 1973. 1973",,,,,,17445180-1,wfo-0000152498,4083040,,
+2ffa9186-8fbe-11eb-924d-9cd76263cbd0,species,murkelensis,Nannothelypteris,,M.Kato,,1997,,"Acta Phytotax. Geobot. 48(1): 50 (1997) 1997",,Q101151136,,,,17568340-1,wfo-0000152499,4083031,,
+30089380-8fbe-11eb-924d-9cd76263cbd0,species,nervosa,Nannothelypteris,,Holttum,,1973,,"Kalikasan 2: 66. 1973. 1973",,,,,,17445190-1,wfo-0000152500,4083022,,
+301d8d1c-8fbe-11eb-924d-9cd76263cbd0,species,philippina,Nannothelypteris,,Holttum,,1973,,"Kalikasan 2: 66. 1973. 1973",,,,,,17445200-1,wfo-0000152501,4083011,,
+30405748-8fbe-11eb-924d-9cd76263cbd0,species,seramensis,Nannothelypteris,,M.Kato,,1997,,"Acta Phytotax. Geobot. 48(1): 52 (1997) 1997",,Q101151136,,,,17568350-1,wfo-0000152502,4082998,,

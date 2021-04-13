@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e938fc9c-8fd1-11eb-924d-9cd76263cbd0,genus,Psiadiella,,,Humbert,,,,,,,10722-1,wfo-4000031758,6063851,
-b7479cbe-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Psiadiella,,Humbert,1923,"Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 40, 282 (1923).",,,,,,wfo-0000081319,4216833,
-de8f1c2c-8fd1-11eb-924d-9cd76263cbd0,variety,hirsutissima,Psiadiella,humilis,Humbert,1960,"Flore de Madagascar et des Comores 189(1): 235. 1960. (Fl. Madagasc.)",,,,,,wfo-0001315723,10945200,
-fc470956-8fcb-11eb-924d-9cd76263cbd0,species,dubium,Psidiastrum,,Bello,1881,"Anales Soc. Esp. Hist. Nat. 10: 272 1881",,,,,600694-1,wfo-0000284264,3179321,
-fc4731ba-8fcb-11eb-924d-9cd76263cbd0,species,locellata,Psidiomyrtus,,Guillaumin,1932,"Bull. Mus. Natl. Hist. Nat. II, 4: 693 1932",,,,,600695-1,wfo-0000284265,3179973,
-c2c3a430-8fcd-11eb-924d-9cd76263cbd0,species,moritziana,Psidiopsis,,O.Berg,1854,"Linnaea 27(2–3): 351–352 1854",,,,,,wfo-0001086162,5416249,
-fc474d12-8fcb-11eb-924d-9cd76263cbd0,species,moritzianum,Psidiopsis,,O.Berg,1856,"Linnaea 27: 351 1856",,,,,600696-1,wfo-0000284266,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e938fc9c-8fd1-11eb-924d-9cd76263cbd0,genus,Psiadiella,,,Humbert,,,,,,,,,,10722-1,wfo-4000031758,6063851,,
+b7479cbe-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Psiadiella,,Humbert,,1923,,"Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 40, 282 (1923).",,,,,,,wfo-0000081319,4216833,,
+de8f1c2c-8fd1-11eb-924d-9cd76263cbd0,variety,hirsutissima,Psiadiella,humilis,Humbert,,1960,,"Flore de Madagascar et des Comores 189(1): 235. 1960. (Fl. Madagasc.)",,,,,,,wfo-0001315723,10945200,,

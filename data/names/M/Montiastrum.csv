@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e49992-8fd1-11eb-924d-9cd76263cbd0,genus,Montiastrum,,,"(A.Gray) Rydb.",,"Fl. Rocky Mts. 1061. 1917.",,,,,,wfo-4000024795,3084624,
-c2d25ea4-8fd1-11eb-924d-9cd76263cbd0,species,bostockii,Montiastrum,,"(A.E.Porsild) Ö.Nilsson",1971,"Bot. Not. 124(1): 92 1971",,,,cc18b2a6-8fcc-11eb-924d-9cd76263cbd0,164148-2,wfo-0001259377,4023344,
-c2d27eca-8fd1-11eb-924d-9cd76263cbd0,species,dichotomum,Montiastrum,,"(Nutt.) Rydb.",1932,"N. Amer. Fl. 21(4): 296 1932",,,,,164149-2,wfo-0001259378,3084781,
-c5e9af2a-8fd1-11eb-924d-9cd76263cbd0,species,howellii,Montiastrum,,"(S.Watson) Rydb.",1932,"N. Amer. Fl. 21(4): 296 1932",,,,,164150-2,wfo-0001264909,4023430,
-cb6169f6-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Montiastrum,,"(Douglas ex Hook.) Rydb.",,"Fl. Rocky Mts. 1061 1917",,,,,164151-2,wfo-0001105132,3084808,
-cb630428-8fcd-11eb-924d-9cd76263cbd0,species,vassilievii,Montiastrum,,O.Nilsson,,,,,,,,wfo-0001105146,4023418,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e49992-8fd1-11eb-924d-9cd76263cbd0,genus,Montiastrum,,,"(A.Gray) Rydb.",,,,"Fl. Rocky Mts. 1061. 1917.",,,,,,,wfo-4000024795,3084624,,
+c2d25ea4-8fd1-11eb-924d-9cd76263cbd0,species,bostockii,Montiastrum,,"(A.E.Porsild) Ö.Nilsson",,1971,,"Bot. Not. 124(1): 92 1971",,,,cc18b2a6-8fcc-11eb-924d-9cd76263cbd0,,164148-2,wfo-0001259377,4023344,,
+c2d27eca-8fd1-11eb-924d-9cd76263cbd0,species,dichotomum,Montiastrum,,"(Nutt.) Rydb.",,1932,,"N. Amer. Fl. 21(4): 296 1932",,,,,,164149-2,wfo-0001259378,3084781,,
+c5e9af2a-8fd1-11eb-924d-9cd76263cbd0,species,howellii,Montiastrum,,"(S.Watson) Rydb.",,1932,,"N. Amer. Fl. 21(4): 296 1932",,,,,,164150-2,wfo-0001264909,4023430,,
+cb6169f6-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Montiastrum,,"(Douglas ex Hook.) Rydb.",,,,"Fl. Rocky Mts. 1061 1917",,,,,,164151-2,wfo-0001105132,3084808,,
+cb630428-8fcd-11eb-924d-9cd76263cbd0,species,vassilievii,Montiastrum,,O.Nilsson,,,,,,,,,,,wfo-0001105146,4023418,,

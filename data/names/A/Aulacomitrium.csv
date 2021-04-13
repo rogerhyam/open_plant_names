@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff01d3c-8fd1-11eb-924d-9cd76263cbd0,genus,Aulacomitrium,,,Mitt.,1891,"Trans. Linn. Soc. London, Bot. 3: 161. 1891.",,,,,,wfo-4000003660,3230080,
-f4599e50-8fcd-11eb-924d-9cd76263cbd0,species,calycinum,Aulacomitrium,,"(Mitt.) Mitt.",1891,"Trans. Linn. Soc. London, Bot. 3: 161 1891",,,,ef8b43c4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001192463,7418420,
-f459be1c-8fcd-11eb-924d-9cd76263cbd0,species,canadense,Aulacomitrium,,"(Mitt.) I.Hagen",1907,"Kongel. Norske Vidensk. Selsk. Skr. (Trondheim) 1907(13): 96 1908",,,,,,wfo-0001192464,7528086,
-f45a3784-8fcd-11eb-924d-9cd76263cbd0,species,daviesii,Aulacomitrium,,"(Dicks. ex With.) I.Hagen",1907,"Kongel. Norske Vidensk. Selsk. Skr. (Trondheim) 1907(13): 96 1908",,,,e7fcfea4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001192465,8090226,
-f45a5ed0-8fcd-11eb-924d-9cd76263cbd0,species,humillimum,Aulacomitrium,,Mitt.,1891,"Trans. Linn. Soc. London, Bot. 3: 161. 1–5 1891",,,,,,wfo-0001192466,7349408,
-f45a83ec-8fcd-11eb-924d-9cd76263cbd0,species,minutissimum,Aulacomitrium,,S.Okamura,1916,"J. Coll. Sci. Imp. Univ. Tokyo 38(4): 16. pl. 7 1916",,,,,,wfo-0001192467,8164180,
-f45acf46-8fcd-11eb-924d-9cd76263cbd0,species,warburgii,Aulacomitrium,,Broth.,1899,"Hedwigia 38: 215 1899",,,,,,wfo-0001192468,8166564,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff01d3c-8fd1-11eb-924d-9cd76263cbd0,genus,Aulacomitrium,,,Mitt.,,1891,,"Trans. Linn. Soc. London, Bot. 3: 161. 1891.",,,,,,,wfo-4000003660,3230080,,
+f4599e50-8fcd-11eb-924d-9cd76263cbd0,species,calycinum,Aulacomitrium,,"(Mitt.) Mitt.",,1891,,"Trans. Linn. Soc. London, Bot. 3: 161 1891",,,,ef8b43c4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192463,7418420,,
+f459be1c-8fcd-11eb-924d-9cd76263cbd0,species,canadense,Aulacomitrium,,"(Mitt.) I.Hagen",,1907,,"Kongel. Norske Vidensk. Selsk. Skr. (Trondheim) 1907(13): 96 1908",,,,,,,wfo-0001192464,7528086,,
+f45a3784-8fcd-11eb-924d-9cd76263cbd0,species,daviesii,Aulacomitrium,,"(Dicks. ex With.) I.Hagen",,1907,,"Kongel. Norske Vidensk. Selsk. Skr. (Trondheim) 1907(13): 96 1908",,,,e7fcfea4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192465,8090226,,
+f45a5ed0-8fcd-11eb-924d-9cd76263cbd0,species,humillimum,Aulacomitrium,,Mitt.,,1891,,"Trans. Linn. Soc. London, Bot. 3: 161. 1–5 1891",,,,,,,wfo-0001192466,7349408,,
+f45a83ec-8fcd-11eb-924d-9cd76263cbd0,species,minutissimum,Aulacomitrium,,S.Okamura,,1916,,"J. Coll. Sci. Imp. Univ. Tokyo 38(4): 16. pl. 7 1916",,,,,,,wfo-0001192467,8164180,,
+f45acf46-8fcd-11eb-924d-9cd76263cbd0,species,warburgii,Aulacomitrium,,Broth.,,1899,,"Hedwigia 38: 215 1899",,,,,,,wfo-0001192468,8166564,,

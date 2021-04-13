@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaffb548-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyonema,,,Spreng.,1817,"Anleit. Kenntn. Gew. (ed. 2) 2: 333. 1817.",,,,,,wfo-4000037215,8291216,
-8c2bd0ec-8fcc-11eb-924d-9cd76263cbd0,species,abrotanoides,Symphyonema,,Sieber,1827,"Syst. Veg. 4(2): 46 1827",,,,,706822-1,wfo-0000504668,7649358,
-8c2b9032-8fcc-11eb-924d-9cd76263cbd0,species,montanum,Symphyonema,,R.Br.,1810,"Trans. Linn. Soc. London 10: 48 1810",,,,,706824-1,wfo-0000504666,7448012,
-8c2ccae2-8fcc-11eb-924d-9cd76263cbd0,species,montanum,Symphyonema,,Endl.,1837,"Iconogr. Gen. Pl. t. 12 1837",,,,,706823-1,wfo-0000504677,8370917,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaffb548-8fd1-11eb-924d-9cd76263cbd0,genus,Symphyonema,,,Spreng.,,1817,,"Anleit. Kenntn. Gew. (ed. 2) 2: 333. 1817.",,,,,,,wfo-4000037215,8291216,,
+8c2bd0ec-8fcc-11eb-924d-9cd76263cbd0,species,abrotanoides,Symphyonema,,Sieber,,1827,,"Syst. Veg. 4(2): 46 1827",,,,,,706822-1,wfo-0000504668,7649358,,
+8c2ccae2-8fcc-11eb-924d-9cd76263cbd0,species,montanum,Symphyonema,,Endl.,,1837,,"Iconogr. Gen. Pl. t. 12 1837",,,,,,706823-1,wfo-0000504677,8370917,,
+8c2b9032-8fcc-11eb-924d-9cd76263cbd0,species,montanum,Symphyonema,,R.Br.,,1810,,"Trans. Linn. Soc. London 10: 48 1810",,Q55760724,,,,706824-1,wfo-0000504666,7448012,,

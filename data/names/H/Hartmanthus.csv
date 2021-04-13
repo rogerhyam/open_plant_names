@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e471a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Hartmanthus,,,S.A.Hammer,1995,"Haseltonia 3: 79. 1995.",,,,,986832-1,wfo-4000016988,7329493,
-0a05ec28-8fcd-11eb-924d-9cd76263cbd0,species,hallii,Hartmanthus,,"(L.Bolus) S.A.Hammer",1995,"Haseltonia 3: 80 1995",,,,,986834-1,wfo-0000715958,3707512,
-0a060794-8fcd-11eb-924d-9cd76263cbd0,species,pergamentaceus,Hartmanthus,,"(L.Bolus) S.A.Hammer",1995,"Haseltonia 3: 80 1995",,,,,986833-1,wfo-0000715959,8698195,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e471a40c-8fd1-11eb-924d-9cd76263cbd0,genus,Hartmanthus,,,S.A.Hammer,,1995,,"Haseltonia 3: 79. 1995.",,,,,,986832-1,wfo-4000016988,7329493,,
+0a05ec28-8fcd-11eb-924d-9cd76263cbd0,species,hallii,Hartmanthus,,"(L.Bolus) S.A.Hammer",,1995,,"Haseltonia 3: 80 1995",,,,,,986834-1,wfo-0000715958,3707512,,
+0a060794-8fcd-11eb-924d-9cd76263cbd0,species,pergamentaceus,Hartmanthus,,"(L.Bolus) S.A.Hammer",,1995,,"Haseltonia 3: 80 1995",,,,,,986833-1,wfo-0000715959,8698195,,

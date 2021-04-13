@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8075972-8fd1-11eb-924d-9cd76263cbd0,genus,Parlatoria,,,Boiss.,1842,"Ann. Sci. Nat., Bot., sér. 2 17: 72. 1842.",,,,,12890-1,wfo-4000028223,3040472,
-45170b4a-8fcc-11eb-924d-9cd76263cbd0,species,brachycarpa,Parlatoria,,Boiss.,1842,"Ann. Sci. Nat., Bot. II, 17: 73 1842",,,,,287933-1,wfo-0000396938,5552402,
-ab88a8ac-8fd1-11eb-924d-9cd76263cbd0,species,cakiloidea,Parlatoria,,Boiss.,,,,,,,,wfo-0001216401,5373231,
-45163d28-8fcc-11eb-924d-9cd76263cbd0,species,cakiloides,Parlatoria,,Boiss.,1842,"Ann. Sci. Nat., Bot. II, 17: 72 1842",,,,,287934-1,wfo-0000396933,5552400,
-ad7627e2-8fcd-11eb-924d-9cd76263cbd0,species,clavata,Parlatoria,,Boiss.,1842,"Ann. Sci. Nat., Bot., sér. 2, 17: 73. 1842",,,,,287935-1,wfo-0001037927,5374680,
-ad6c4f24-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Parlatoria,,Boiss.,1854,"Diagn. Pl. Orient., ser. 2 3(1): 23. 1854",,,,,287936-1,wfo-0001037840,5374892,
-ab94a4b8-8fd1-11eb-924d-9cd76263cbd0,species,rostrata,Parlatoria,,Boiss.,,,,,,,,wfo-0001216495,5373230,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8075972-8fd1-11eb-924d-9cd76263cbd0,genus,Parlatoria,,,Boiss.,,1842,,"Ann. Sci. Nat., Bot., sér. 2 17: 72. 1842.",,,,,,12890-1,wfo-4000028223,3040472,,
+45170b4a-8fcc-11eb-924d-9cd76263cbd0,species,brachycarpa,Parlatoria,,Boiss.,,1842,,"Ann. Sci. Nat., Bot. II, 17: 73 1842",,,,,,287933-1,wfo-0000396938,5552402,,
+ab88a8ac-8fd1-11eb-924d-9cd76263cbd0,species,cakiloidea,Parlatoria,,Boiss.,,,,,,,,,,,wfo-0001216401,5373231,,
+45163d28-8fcc-11eb-924d-9cd76263cbd0,species,cakiloides,Parlatoria,,Boiss.,,1842,,"Ann. Sci. Nat., Bot. II, 17: 72 1842",,,,,,287934-1,wfo-0000396933,5552400,,
+ad7627e2-8fcd-11eb-924d-9cd76263cbd0,species,clavata,Parlatoria,,Boiss.,,1842,,"Ann. Sci. Nat., Bot., sér. 2, 17: 73. 1842",,,,,,287935-1,wfo-0001037927,5374680,,
+ad6c4f24-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Parlatoria,,Boiss.,,1854,,"Diagn. Pl. Orient., ser. 2 3(1): 23. 1854",,,,,,287936-1,wfo-0001037840,5374892,,
+ab94a4b8-8fd1-11eb-924d-9cd76263cbd0,species,rostrata,Parlatoria,,Boiss.,,,,,,,,,,,wfo-0001216495,5373230,,

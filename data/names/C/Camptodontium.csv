@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1204966-8fd1-11eb-924d-9cd76263cbd0,genus,Camptodontium,,,Dusén,1905,"Bot. Not. 1905: 303. 1905.",,,,,,wfo-4000006427,2674873,
-ed5762a4-8fcd-11eb-924d-9cd76263cbd0,species,brotheri,Camptodontium,,Dusén,1905,"Bot. Not. 1905: 304 1905",,,,,,wfo-0001178239,7978968,
-ed577dc0-8fcd-11eb-924d-9cd76263cbd0,species,cryptodon,Camptodontium,,"(Mont.) Reimers",1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 39 1936",,,,e58004dc-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001178240,2674875,
-ed57983c-8fcd-11eb-924d-9cd76263cbd0,species,fallax,Camptodontium,,"(Herzog) Broth.",1924,"Nat. Pflanzenfam. (ed. 2) 10: 200 1924",,,,,,wfo-0001178241,2674874,
-ed57b4b6-8fcd-11eb-924d-9cd76263cbd0,species,flexipes,Camptodontium,,"(Herzog) Broth.",1924,"Nat. Pflanzenfam. (ed. 2) 10: 200 1924",,,,e4453a9c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001178242,7475269,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1204966-8fd1-11eb-924d-9cd76263cbd0,genus,Camptodontium,,,Dusén,,1905,,"Bot. Not. 1905: 303. 1905.",,,,,,,wfo-4000006427,2674873,,
+ed5762a4-8fcd-11eb-924d-9cd76263cbd0,species,brotheri,Camptodontium,,Dusén,,1905,,"Bot. Not. 1905: 304 1905",,,,,,,wfo-0001178239,7978968,,
+ed577dc0-8fcd-11eb-924d-9cd76263cbd0,species,cryptodon,Camptodontium,,"(Mont.) Reimers",,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 39 1936",,,,e58004dc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001178240,2674875,,
+ed57983c-8fcd-11eb-924d-9cd76263cbd0,species,fallax,Camptodontium,,"(Herzog) Broth.",,1924,,"Nat. Pflanzenfam. (ed. 2) 10: 200 1924",,,,,,,wfo-0001178241,2674874,,
+ed57b4b6-8fcd-11eb-924d-9cd76263cbd0,species,flexipes,Camptodontium,,"(Herzog) Broth.",,1924,,"Nat. Pflanzenfam. (ed. 2) 10: 200 1924",,,,e4453a9c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001178242,7475269,,

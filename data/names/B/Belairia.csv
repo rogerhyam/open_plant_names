@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e025513c-8fd1-11eb-924d-9cd76263cbd0,genus,Belairia,,,,,,,,,,,wfo-4000004328,2949436,
-b739644c-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Belairia,,"(Griseb.) Borhidi",1980,"Acta Bot. Acad. Sci. Hung. 26(3/4): 255 1980",,,,,,wfo-0001060094,7860178,
-a2561198-8fc2-11eb-924d-9cd76263cbd0,species,mucronata,Belairia,,Griseb.,,,,,,,,wfo-0000178537,2966959,
-188206ea-8fc0-11eb-924d-9cd76263cbd0,species,nipensis,Belairia,,Urb.,,,,,,,,wfo-0000163987,2966957,
-188cb6ee-8fc0-11eb-924d-9cd76263cbd0,species,parvifoliola,Belairia,,Britton,,,,,,,,wfo-0000163988,2966960,
-b5308d2a-8fc2-11eb-924d-9cd76263cbd0,species,savannarum,Belairia,,Bisse,,,,,,,,wfo-0000178961,2966961,
-a261aa80-8fc2-11eb-924d-9cd76263cbd0,species,spinosa,Belairia,,A.Rich.,,,,,,,,wfo-0000178538,2966970,
-56ab7fe8-8fc3-11eb-924d-9cd76263cbd0,species,ternata,Belairia,,Griseb.,,,,,,,,wfo-0000182245,2949437,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e025513c-8fd1-11eb-924d-9cd76263cbd0,genus,Belairia,,,,,,,,,,,,,,wfo-4000004328,2949436,,
+b739644c-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Belairia,,"(Griseb.) Borhidi",,1980,,"Acta Bot. Acad. Sci. Hung. 26(3/4): 255 1980",,,,,,,wfo-0001060094,7860178,,
+a2561198-8fc2-11eb-924d-9cd76263cbd0,species,mucronata,Belairia,,Griseb.,,,,,,,,,,,wfo-0000178537,2966959,,
+188206ea-8fc0-11eb-924d-9cd76263cbd0,species,nipensis,Belairia,,Urb.,,,,,,,,,,,wfo-0000163987,2966957,,
+188cb6ee-8fc0-11eb-924d-9cd76263cbd0,species,parvifoliola,Belairia,,Britton,,,,,,,,,,,wfo-0000163988,2966960,,
+b5308d2a-8fc2-11eb-924d-9cd76263cbd0,species,savannarum,Belairia,,Bisse,,,,,,,,,,,wfo-0000178961,2966961,,
+a261aa80-8fc2-11eb-924d-9cd76263cbd0,species,spinosa,Belairia,,A.Rich.,,,,,,,,,,,wfo-0000178538,2966970,,
+56ab7fe8-8fc3-11eb-924d-9cd76263cbd0,species,ternata,Belairia,,Griseb.,,,,,,,,,,,wfo-0000182245,2949437,,

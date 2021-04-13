@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-def90b82-8fd1-11eb-924d-9cd76263cbd0,genus,Agdestis,,,"Moc. & Sessé ex DC.",1818,"Syst. Nat. 1: 511, 543. 1818[1817]. (1-15 Nov 1817)",,,,,327319-2,wfo-4000000929,3084003,
-6e8fceca-8fcd-11eb-924d-9cd76263cbd0,species,clematidea,Agdestis,,"Moc. & Sessé ex DC.",1818,"Syst. Nat. 1: 543 1818",,,,,323287-2,wfo-0000911997,5383981,
-6ea0f81c-8fcd-11eb-924d-9cd76263cbd0,species,teterrima,Agdestis,,"De Not.",1855,"Index Seminum (GE) 29 1855",,,,,676170-1,wfo-0000912096,5555496,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+def90b82-8fd1-11eb-924d-9cd76263cbd0,genus,Agdestis,,,"Moc. & Sessé ex DC.",,1818,,"Syst. Nat. 1: 511, 543. 1818[1817]. (1-15 Nov 1817)",,,,,,327319-2,wfo-4000000929,3084003,,
+6e8fceca-8fcd-11eb-924d-9cd76263cbd0,species,clematidea,Agdestis,,"Moc. & Sessé ex DC.",,1818,,"Syst. Nat. 1: 543 1818",,,,,,323287-2,wfo-0000911997,5383981,,
+6ea0f81c-8fcd-11eb-924d-9cd76263cbd0,species,teterrima,Agdestis,,"De Not.",,1855,,"Index Seminum (GE) 29 1855",,,,,,676170-1,wfo-0000912096,5555496,,

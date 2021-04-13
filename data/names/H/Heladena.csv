@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4838e1a-8fd1-11eb-924d-9cd76263cbd0,genus,Heladena,,,A.Juss.,1840,"Ann. Sci. Nat., Bot., sér. 2 13: 321. 1840.",,,,,924860-1,wfo-4000017175,7285478,
-0aa6b392-8fcd-11eb-924d-9cd76263cbd0,species,albiflora,Heladena,,A.Juss.,1840,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,556428-1,wfo-0000717163,3984956,
-0aa6ce54-8fcd-11eb-924d-9cd76263cbd0,species,biglandulosa,Heladena,,A.Juss.,1840,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,556432-1,wfo-0000717164,3984938,
-0aa6eed4-8fcd-11eb-924d-9cd76263cbd0,species,bunchosioides,Heladena,,A.Juss.,1840,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,556434-1,wfo-0000717165,3984927,
-0aa70b30-8fcd-11eb-924d-9cd76263cbd0,species,hassleriana,Heladena,,Nied.,1907,"Bull. Herb. Boissier II, 7: 294 1907",,,,,118645-2,wfo-0000717166,3984916,
-0aa7262e-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Heladena,,"(Hook. & Arn.) Nied.",1914,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg 5: 16 1914",,,,,118646-2,wfo-0000717167,3984903,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4838e1a-8fd1-11eb-924d-9cd76263cbd0,genus,Heladena,,,A.Juss.,,1840,,"Ann. Sci. Nat., Bot., sér. 2 13: 321. 1840.",,,,,,924860-1,wfo-4000017175,7285478,,
+0aa6b392-8fcd-11eb-924d-9cd76263cbd0,species,albiflora,Heladena,,A.Juss.,,1840,,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,,556428-1,wfo-0000717163,3984956,,
+0aa6ce54-8fcd-11eb-924d-9cd76263cbd0,species,biglandulosa,Heladena,,A.Juss.,,1840,,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,,556432-1,wfo-0000717164,3984938,,
+0aa6eed4-8fcd-11eb-924d-9cd76263cbd0,species,bunchosioides,Heladena,,A.Juss.,,1840,,"Ann. Sci. Nat., Bot. II, 13: 322 1840",,,,,,556434-1,wfo-0000717165,3984927,,
+0aa70b30-8fcd-11eb-924d-9cd76263cbd0,species,hassleriana,Heladena,,Nied.,,1907,,"Bull. Herb. Boissier II, 7: 294 1907",,,,,,118645-2,wfo-0000717166,3984916,,
+0aa7262e-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Heladena,,"(Hook. & Arn.) Nied.",,1914,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg 5: 16 1914",,,,,,118646-2,wfo-0000717167,3984903,,

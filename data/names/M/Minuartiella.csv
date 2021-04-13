@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec646fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Minuartiella,,,"Dillenb. & Kadereit",2014,"Taxon 63: 78 (2014)",,,,,77137378-1,wfo-4001303327,7678072,
-ca52b4b2-8fd1-11eb-924d-9cd76263cbd0,species,caroliniana,Minuopsis,,"(Walter) W.A.Weber",1989,"Phytologia 67(6): 427 1989",,,,,947483-1,wfo-0001273246,3085544,
-ca542bda-8fd1-11eb-924d-9cd76263cbd0,species,michauxii,Minuopsis,,"(Fenzl) W.A.Weber",1989,"Phytologia 67(6): 427 1989",,,,99ac6f6a-8fcc-11eb-924d-9cd76263cbd0,947484-1,wfo-0001273256,3810692,
-b7b2bfe6-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Minuopsis,,"(Pax) W.A.Weber",1985,"Phytologia 58(6): 384 1985",,,,a4d4a3e4-8fcc-11eb-924d-9cd76263cbd0,915292-1,wfo-0001238733,3810684,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec646fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Minuartiella,,,"Dillenb. & Kadereit",,2014,,"Taxon 63: 78 (2014)",,Q28948628,,,,77137378-1,wfo-4001303327,7678072,,
+ca52b4b2-8fd1-11eb-924d-9cd76263cbd0,species,caroliniana,Minuopsis,,"(Walter) W.A.Weber",,1989,,"Phytologia 67(6): 427 1989",,,,,,947483-1,wfo-0001273246,3085544,,
+ca542bda-8fd1-11eb-924d-9cd76263cbd0,species,michauxii,Minuopsis,,"(Fenzl) W.A.Weber",,1989,,"Phytologia 67(6): 427 1989",,,,99ac6f6a-8fcc-11eb-924d-9cd76263cbd0,,947484-1,wfo-0001273256,3810692,,
+b7b2bfe6-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Minuopsis,,"(Pax) W.A.Weber",,1985,,"Phytologia 58(6): 384 1985",,,,a4d4a3e4-8fcc-11eb-924d-9cd76263cbd0,,915292-1,wfo-0001238733,3810684,,

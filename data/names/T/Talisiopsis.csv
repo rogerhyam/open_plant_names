@@ -1,8 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb15f3ee-8fd1-11eb-924d-9cd76263cbd0,genus,Talisiopsis,,,Radlk.,1907,"Nat. Pflanzenfam. 3(Nachtr.): 208. 1907.",,,,,,wfo-4000037493,7265125,
-70caf436-8fcc-11eb-924d-9cd76263cbd0,species,oliviformis,Talisiopsis,,Radlk.,1907,"Nat. Pflanzenfam. Nachtr. 3: 208 1907",,,,,785348-1,wfo-0000458848,3787839,
-13c463ee-8fcc-11eb-924d-9cd76263cbd0,species,bivalvis,Talpinaria,,H.Karst.,1859,"Fl. Columb. 1: 153 1859",,,,,659823-1,wfo-0000320722,2786619,
-b346db5e-8fcc-11eb-924d-9cd76263cbd0,species,hitchcockii,Talpinaria,,"(Ames) Luer",2004,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f7f749ec-8fcb-11eb-924d-9cd76263cbd0,60437235-2,wfo-0000568246,2787573,
-b34859de-8fcc-11eb-924d-9cd76263cbd0,species,punctulata,Talpinaria,,"(Rolfe) Luer",2004,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f8702b6e-8fcb-11eb-924d-9cd76263cbd0,60437236-2,wfo-0000568255,2787611,
-b349029e-8fcc-11eb-924d-9cd76263cbd0,species,sandemanii,Talpinaria,,"(Luer) Luer",2004,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f88d2e44-8fcb-11eb-924d-9cd76263cbd0,60437237-2,wfo-0000568262,2787591,
-181c3f06-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Taltalia,,"(Phil.) Ehr.Bayer",1998,"Sendtnera 5: 7 1998",,,,,1120497-2,wfo-0000743035,2753716,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb15f3ee-8fd1-11eb-924d-9cd76263cbd0,genus,Talisiopsis,,,Radlk.,,1907,,"Nat. Pflanzenfam. 3(Nachtr.): 208. 1907.",,,,,,,wfo-4000037493,7265125,,
+70caf436-8fcc-11eb-924d-9cd76263cbd0,species,oliviformis,Talisiopsis,,Radlk.,,1907,,"Nat. Pflanzenfam. Nachtr. 3: 208 1907",,,,,,785348-1,wfo-0000458848,3787839,,

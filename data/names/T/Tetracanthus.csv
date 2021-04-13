@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb301918-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracanthus,,,,,,,,,,,wfo-4000037852,,
-ef8d1662-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Tetracanthus,,"Wright ex Griseb.",1866,"Cat. Pl. Cub. 153 (1866).",,,,,255321-1,wfo-0000083861,5694335,
-5b43dc4e-8fb4-11eb-924d-9cd76263cbd0,species,linearifolius,Tetracanthus,,A.Rich.,1853,"Fl. Cub. Fanerog. ii. 60 (1853).",,,,,255322-1,wfo-0000063823,5694332,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb301918-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracanthus,,,,,,,,,,,,,,wfo-4000037852,,,
+ef8d1662-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Tetracanthus,,"Wright ex Griseb.",,1866,,"Cat. Pl. Cub. 153 (1866).",,,,,,255321-1,wfo-0000083861,5694335,,
+5b43dc4e-8fb4-11eb-924d-9cd76263cbd0,species,linearifolius,Tetracanthus,,A.Rich.,,1853,,"Fl. Cub. Fanerog. ii. 60 (1853).",,,,,,255322-1,wfo-0000063823,5694332,,

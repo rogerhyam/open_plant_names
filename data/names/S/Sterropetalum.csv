@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ead130ce-8fd1-11eb-924d-9cd76263cbd0,genus,Sterropetalum,,,N.E.Br.,1928,"Gard. Chron. ser. 3. 83: 266. 1928.",,,,,,wfo-4000036652,7329414,
-6185f7fa-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Sterropetalum,,N.E.Br.,1928,"Gard. Chron. III, 83: 266 1928",,,,,364650-1,wfo-0000433213,3706284,
-61eb1dba-8fcc-11eb-924d-9cd76263cbd0,species,comata,Stethoma,,"(L.) Britton",1925,"Sci. Surv. Porto Rico & Virgin Islands 6: 218 1925",,,,dfba8bea-8fcc-11eb-924d-9cd76263cbd0,245214-2,wfo-0000433773,3173084,
-61eb3f02-8fcc-11eb-924d-9cd76263cbd0,species,pectoralis,Stethoma,,"(Jacq.) Raf.",1838,"Fl. Tellur. 4: 61 1838",,,,277fe55c-8fcc-11eb-924d-9cd76263cbd0,1039147-2,wfo-0000433774,3173088,
-61e8a81e-8fcc-11eb-924d-9cd76263cbd0,species,verticillaris,Stethoma,,Britton,1925,"Sci. Surv. Porto Rico & Virgin Islands 6: 218 1925",,,,,245215-2,wfo-0000433759,3173099,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ead130ce-8fd1-11eb-924d-9cd76263cbd0,genus,Sterropetalum,,,N.E.Br.,,1928,,"Gard. Chron. ser. 3. 83: 266. 1928.",,,,,,,wfo-4000036652,7329414,,
+6185f7fa-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Sterropetalum,,N.E.Br.,,1928,,"Gard. Chron. III, 83: 266 1928",,,,,,364650-1,wfo-0000433213,3706284,,
+61eb1dba-8fcc-11eb-924d-9cd76263cbd0,species,comata,Stethoma,,"(L.) Britton",,1925,,"Sci. Surv. Porto Rico & Virgin Islands 6: 218 1925",,,,dfba8bea-8fcc-11eb-924d-9cd76263cbd0,,245214-2,wfo-0000433773,3173084,,
+61eb3f02-8fcc-11eb-924d-9cd76263cbd0,species,pectoralis,Stethoma,,"(Jacq.) Raf.",,1838,,"Fl. Tellur. 4: 61 1838",,,,277fe55c-8fcc-11eb-924d-9cd76263cbd0,,1039147-2,wfo-0000433774,3173088,,
+61e8a81e-8fcc-11eb-924d-9cd76263cbd0,species,verticillaris,Stethoma,,Britton,,1925,,"Sci. Surv. Porto Rico & Virgin Islands 6: 218 1925",,,,,,245215-2,wfo-0000433759,3173099,,

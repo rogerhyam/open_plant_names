@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea423162-8fd1-11eb-924d-9cd76263cbd0,genus,Selleola,,,Urb.,1930,"Ark. Bot. 23A(5): 69. 1930.",,,,,297351-2,wfo-4000034997,7267534,
-651c9298-8fcc-11eb-924d-9cd76263cbd0,species,ekmaniana,Selleola,,Urb.,1930,"Ark. Bot. 23A(5): 69 1930",,,,,232476-2,wfo-0000438301,3811669,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea423162-8fd1-11eb-924d-9cd76263cbd0,genus,Selleola,,,Urb.,,1930,,"Ark. Bot. 23A(5): 69. 1930.",,,,,,297351-2,wfo-4000034997,7267534,,
+651c9298-8fcc-11eb-924d-9cd76263cbd0,species,ekmaniana,Selleola,,Urb.,,1930,,"Ark. Bot. 23A(5): 69 1930",,,,,,232476-2,wfo-0000438301,3811669,,

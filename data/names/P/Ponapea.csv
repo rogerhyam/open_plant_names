@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8e992b0-8fd1-11eb-924d-9cd76263cbd0,genus,Ponapea,,,Becc.,1924,"Bot. Jahrb. Syst. 59: 13. 1924.",,,,,31450-1,wfo-4000030886,8368622,
-fa350938-8fcb-11eb-924d-9cd76263cbd0,species,hosinoi,Ponapea,,Kaneh.,1936,"J. Jap. Bot. 12: 731 1936",,,,,669227-1,wfo-0000280807,5293833,
-fa3536a6-8fcb-11eb-924d-9cd76263cbd0,species,kusaiensis,Ponapea,,Burret,1940,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 92 1940",,,,,669228-1,wfo-0000280808,5293835,
-fa357fa8-8fcb-11eb-924d-9cd76263cbd0,species,ledermanniana,Ponapea,,Becc.,1924,"Bot. Jahrb. Syst. 59: 14 1924",,,,,669229-1,wfo-0000280809,5293834,
-fa359dc6-8fcb-11eb-924d-9cd76263cbd0,species,palauensis,Ponapea,,Kaneh.,1936,"J. Jap. Bot. 12: 732 1936",,,,,669230-1,wfo-0000280810,5293832,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8e992b0-8fd1-11eb-924d-9cd76263cbd0,genus,Ponapea,,,Becc.,,1924,,"Bot. Jahrb. Syst. 59: 13. 1924.",,,,,,31450-1,wfo-4000030886,8368622,,
+fa350938-8fcb-11eb-924d-9cd76263cbd0,species,hosinoi,Ponapea,,Kaneh.,,1936,,"J. Jap. Bot. 12: 731 1936",,,,,,669227-1,wfo-0000280807,5293833,,
+fa3536a6-8fcb-11eb-924d-9cd76263cbd0,species,kusaiensis,Ponapea,,Burret,,1940,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 92 1940",,Q55777770,,,,669228-1,wfo-0000280808,5293835,,
+fa357fa8-8fcb-11eb-924d-9cd76263cbd0,species,ledermanniana,Ponapea,,Becc.,,1924,,"Bot. Jahrb. Syst. 59: 14 1924",,,,,,669229-1,wfo-0000280809,5293834,,
+fa359dc6-8fcb-11eb-924d-9cd76263cbd0,species,palauensis,Ponapea,,Kaneh.,,1936,,"J. Jap. Bot. 12: 732 1936",,,,,,669230-1,wfo-0000280810,5293832,,

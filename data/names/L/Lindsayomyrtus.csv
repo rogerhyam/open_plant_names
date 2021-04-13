@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5f5c9b6-8fd1-11eb-924d-9cd76263cbd0,genus,Lindsayomyrtus,,,"B.Hyland & Steenis",1974,"Blumea 21: 190. 1974.",,,,,27606-1,wfo-4000021866,3187849,
-da7bbede-8fcb-11eb-924d-9cd76263cbd0,species,brachyandrus,Lindsayomyrtus,,"(C.T.White) B.Hyland & Steenis",1973,"Blumea 21: 190 1973",,,,1bce540a-8fcc-11eb-924d-9cd76263cbd0,597558-1,wfo-0000227841,3187851,
-da7bdacc-8fcb-11eb-924d-9cd76263cbd0,species,racemoides,Lindsayomyrtus,,"(Greves) Craven",1990,"Austral. Syst. Bot. 3: 731 1990",,,,875d60c0-8fcd-11eb-924d-9cd76263cbd0,962276-1,wfo-0000227842,3187850,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5f5c9b6-8fd1-11eb-924d-9cd76263cbd0,genus,Lindsayomyrtus,,,"B.Hyland & Steenis",,1974,,"Blumea 21: 190. 1974.",,Q96027634,,,,27606-1,wfo-4000021866,3187849,,
+da7bbede-8fcb-11eb-924d-9cd76263cbd0,species,brachyandrus,Lindsayomyrtus,,"(C.T.White) B.Hyland & Steenis",,1973,,"Blumea 21: 190 1973",,Q96027634,,1bce540a-8fcc-11eb-924d-9cd76263cbd0,,597558-1,wfo-0000227841,3187851,,
+da7bdacc-8fcb-11eb-924d-9cd76263cbd0,species,racemoides,Lindsayomyrtus,,"(Greves) Craven",,1990,,"Austral. Syst. Bot. 3: 731 1990",,Q55756259,,875d60c0-8fcd-11eb-924d-9cd76263cbd0,,962276-1,wfo-0000227842,3187850,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9114486-8fd1-11eb-924d-9cd76263cbd0,genus,Psathyrotes,,,A.Gray,,,,,,,10695-1,wfo-4000031318,3100725,
-fac69942-8fb8-11eb-924d-9cd76263cbd0,species,annua,Psathyrotes,,"(Nutt.) A.Gray",1853,"Pl. Wright. ii. 100. t. 13. 1853",,,,,,wfo-0000114321,3100726,
-ffaeccec-8fb6-11eb-924d-9cd76263cbd0,species,incisa,Psathyrotes,,A.Gray,1855,"Mem. Amer. Acad. Arts n.s., v. (1855) 322. 1854",,,,,239734-1,wfo-0000095337,3114509,
-e54a5920-8fb6-11eb-924d-9cd76263cbd0,species,pilifera,Psathyrotes,,A.Gray,,50,,,,,,wfo-0000094305,3100728,
-0b30f022-8fb2-11eb-924d-9cd76263cbd0,species,purpusii,Psathyrotes,,Brandegee,1911,1911,,,,,,wfo-0000007328,3112025,
-21d3b1dc-8fb4-11eb-924d-9cd76263cbd0,species,ramosissima,Psathyrotes,,"(Torr.) A.Gray",1868,"Proc. Amer. Acad. Arts vii. (1868) 363.",,,,,239737-1,wfo-0000060452,3100729,
-782e415a-8fb4-11eb-924d-9cd76263cbd0,species,scaposa,Psathyrotes,,A.Gray,1853,1853,,,,,,wfo-0000065524,3112027,
-743db6e2-8fb5-11eb-924d-9cd76263cbd0,species,schottii,Psathyrotes,,"(A.Gray) A.Gray",1874,"Proc. Amer. Acad. Arts ix. (1874) 206",,,,,239739-1,wfo-0000078279,3151870,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9114486-8fd1-11eb-924d-9cd76263cbd0,genus,Psathyrotes,,,A.Gray,,,,,,,,,,10695-1,wfo-4000031318,3100725,,
+fac69942-8fb8-11eb-924d-9cd76263cbd0,species,annua,Psathyrotes,,"(Nutt.) A.Gray",,1853,,"Pl. Wright. ii. 100. t. 13. 1853",,,,,,,wfo-0000114321,3100726,,
+ffaeccec-8fb6-11eb-924d-9cd76263cbd0,species,incisa,Psathyrotes,,A.Gray,,1855,,"Mem. Amer. Acad. Arts n.s., v. (1855) 322. 1854",,,,,,239734-1,wfo-0000095337,3114509,,
+e54a5920-8fb6-11eb-924d-9cd76263cbd0,species,pilifera,Psathyrotes,,A.Gray,,,,50,,,,,,,wfo-0000094305,3100728,,
+0b30f022-8fb2-11eb-924d-9cd76263cbd0,species,purpusii,Psathyrotes,,Brandegee,,1911,,1911,,,,,,,wfo-0000007328,3112025,,
+21d3b1dc-8fb4-11eb-924d-9cd76263cbd0,species,ramosissima,Psathyrotes,,"(Torr.) A.Gray",,1868,,"Proc. Amer. Acad. Arts vii. (1868) 363.",,,,,,239737-1,wfo-0000060452,3100729,,
+782e415a-8fb4-11eb-924d-9cd76263cbd0,species,scaposa,Psathyrotes,,A.Gray,,1853,,1853,,,,,,,wfo-0000065524,3112027,,
+743db6e2-8fb5-11eb-924d-9cd76263cbd0,species,schottii,Psathyrotes,,"(A.Gray) A.Gray",,1874,,"Proc. Amer. Acad. Arts ix. (1874) 206",,,,,,239739-1,wfo-0000078279,3151870,,

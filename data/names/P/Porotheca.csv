@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8f041aa-8fd1-11eb-924d-9cd76263cbd0,genus,Porotheca,,,K.Schum.,1905,"Nachtr. Fl. Deutsch. Su%dsee 263. 1905.",,,,,,wfo-4000030947,3207983,
-7a0f6f2c-8fcc-11eb-924d-9cd76263cbd0,species,petiolata,Porotheca,,K.Schum.,1905,"Fl. Schutzgeb. Südsee Nachtr.: 263 1905",,,,,581289-1,wfo-0000474103,5592872,
-fa57bd02-8fcb-11eb-924d-9cd76263cbd0,species,pumilio,Porothrinax,,"H.Wendl. ex Griseb.",1866,"Cat. Pl. Cub. 221 1866",,,,,669231-1,wfo-0000281011,2735204,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8f041aa-8fd1-11eb-924d-9cd76263cbd0,genus,Porotheca,,,K.Schum.,,1905,,"Nachtr. Fl. Deutsch. Su%dsee 263. 1905.",,,,,,,wfo-4000030947,3207983,,
+7a0f6f2c-8fcc-11eb-924d-9cd76263cbd0,species,petiolata,Porotheca,,K.Schum.,,1905,,"Fl. Schutzgeb. Südsee Nachtr.: 263 1905",,,,,,581289-1,wfo-0000474103,5592872,,

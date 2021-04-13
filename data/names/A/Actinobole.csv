@@ -1,12 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ded5eca6-8fd1-11eb-924d-9cd76263cbd0,genus,Actinobole,,,Endl.,,,,,,,7443-1,wfo-4000000501,3130492,
-c3d8f226-8fb9-11eb-924d-9cd76263cbd0,species,condensatum,Actinobole,,"(A.Gray) P.S.Short",1981,"413 1981",,,,2261599e-8fb2-11eb-924d-9cd76263cbd0,908241-1,wfo-0000121182,3130494,
-1116dbec-8fb6-11eb-924d-9cd76263cbd0,species,drummondiana,Actinobole,,P.S.Short,1985,"Muelleria 6:17-18 (1985)",,,,,,wfo-0000085289,3130493,
-755181fe-8fb9-11eb-924d-9cd76263cbd0,species,oldfieldiana,Actinobole,,P.S.Short,1985,"Muelleria 6:20-21 (1985)",,,,,,wfo-0000118538,3130496,
-2f17b052-8fb2-11eb-924d-9cd76263cbd0,species,uliginosum,Actinobole,,"(A.Gray) H.Eichler",1963,"Taxon 12:295 (1963)",,,,04414212-8fbc-11eb-924d-9cd76263cbd0,174900-1,wfo-0000014965,3130497,
-1d5b6384-8fcd-11eb-924d-9cd76263cbd0,species,australis,Actinocarpus,,"(Salisb.) Spreng.",1818,"Encyc. 1: 348 1818",,,,,58160-1,wfo-0000754020,2864495,
-1d5b81a2-8fcd-11eb-924d-9cd76263cbd0,species,damasonium,Actinocarpus,,"(L.) Sweet",1818,"Hort. Suburb. Lond. 79 1818",,,,1df9590e-8fcd-11eb-924d-9cd76263cbd0,927638-1,wfo-0000754021,2864508,
-1d5b9e12-8fcd-11eb-924d-9cd76263cbd0,species,europaeus,Actinocarpus,,Spreng.,1818,"Encyc. 1: 348 1818",,,,,,wfo-0000754022,2864510,
-1d5bb7e4-8fcd-11eb-924d-9cd76263cbd0,species,maior,Actinocarpus,,"Bercht. & J.Presl",1824,"Prir. Rostlin 1(Alism.): 8 1824",,,,,58163-1,wfo-0000754023,2864506,
-1d5bd3f0-8fcd-11eb-924d-9cd76263cbd0,species,minor,Actinocarpus,,R.Br.,1810,"Prodr. Fl. Nov. Holl. 343 1810",,,,,58164-1,wfo-0000754024,2864493,
-1d5bf01a-8fcd-11eb-924d-9cd76263cbd0,species,stellatus,Actinocarpus,,Bubani,1901,"Fl. Pyren. 4: 3 1901",,,,,58165-1,wfo-0000754025,2864505,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ded5eca6-8fd1-11eb-924d-9cd76263cbd0,genus,Actinobole,,,Endl.,,,,,,,,,,7443-1,wfo-4000000501,3130492,,
+c3d8f226-8fb9-11eb-924d-9cd76263cbd0,species,condensatum,Actinobole,,"(A.Gray) P.S.Short",,1981,,"413 1981",,,,2261599e-8fb2-11eb-924d-9cd76263cbd0,,908241-1,wfo-0000121182,3130494,,
+1116dbec-8fb6-11eb-924d-9cd76263cbd0,species,drummondiana,Actinobole,,P.S.Short,,1985,,"Muelleria 6:17-18 (1985)",,,,,,,wfo-0000085289,3130493,,
+755181fe-8fb9-11eb-924d-9cd76263cbd0,species,oldfieldiana,Actinobole,,P.S.Short,,1985,,"Muelleria 6:20-21 (1985)",,,,,,,wfo-0000118538,3130496,,
+2f17b052-8fb2-11eb-924d-9cd76263cbd0,species,uliginosum,Actinobole,,"(A.Gray) H.Eichler",,1963,,"Taxon 12:295 (1963)",,,,04414212-8fbc-11eb-924d-9cd76263cbd0,,174900-1,wfo-0000014965,3130497,,

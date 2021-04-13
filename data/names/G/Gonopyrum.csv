@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4220d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Gonopyrum,,,"Fisch. & C.A.Mey. ex C.A.Mey.",1840,"Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 6, Sci. Math. 6: 144. 1840.",,,,,,wfo-4000016033,7291594,
-045da130-8fcd-11eb-924d-9cd76263cbd0,species,americanum,Gonopyrum,,"Fisch. & C.A.Mey.",1840,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 6: 144 1840",,,,,112478-2,wfo-0000707088,2889409,
-045dc4d0-8fcd-11eb-924d-9cd76263cbd0,species,articulatum,Gonopyrum,,"(L.) Small",1903,"Fl. S.E. U.S. 373 1903",,,,c7bf4dc8-8fd1-11eb-924d-9cd76263cbd0,694578-1,wfo-0000707089,4035426,
-045dfa04-8fcd-11eb-924d-9cd76263cbd0,species,serotinum,Gonopyrum,,"(Raf.) House",1921,"Amer. Midl. Naturalist 7: 128 1921",,,,,112479-2,wfo-0000707090,4035415,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4220d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Gonopyrum,,,"Fisch. & C.A.Mey. ex C.A.Mey.",,1840,,"Mém. Acad. Imp. Sci. St.-Pétersbourg, Sér. 6, Sci. Math. 6: 144. 1840.",,,,,,,wfo-4000016033,7291594,,
+045da130-8fcd-11eb-924d-9cd76263cbd0,species,americanum,Gonopyrum,,"Fisch. & C.A.Mey.",,1840,,"Mém. Acad. Imp. Sci. Saint-Pétersbourg, Sér. 6, Sci. Math., Seconde Pt. Sci. Nat. 6: 144 1840",,,,,,112478-2,wfo-0000707088,2889409,,
+045dc4d0-8fcd-11eb-924d-9cd76263cbd0,species,articulatum,Gonopyrum,,"(L.) Small",,1903,,"Fl. S.E. U.S. 373 1903",,,,c7bf4dc8-8fd1-11eb-924d-9cd76263cbd0,,694578-1,wfo-0000707089,4035426,,
+045dfa04-8fcd-11eb-924d-9cd76263cbd0,species,serotinum,Gonopyrum,,"(Raf.) House",,1921,,"Amer. Midl. Naturalist 7: 128 1921",,Q55773164,,,,112479-2,wfo-0000707090,4035415,,

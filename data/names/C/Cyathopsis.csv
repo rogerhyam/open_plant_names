@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e251cd50-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathopsis,,,"Brongn. & Gris",1864,"Ann. Sci. Nat., Bot., sér. 5, 2: 152. 1864.",,,,,14546-1,wfo-4000010209,3234126,
-d936f308-8fcc-11eb-924d-9cd76263cbd0,species,albicans,Cyathopsis,,"(Brongn. & Gris) Quinn",2005,"Austral. Syst. Bot. 18: 451 2005",,,,c3ea3000-8fd1-11eb-924d-9cd76263cbd0,77070457-1,wfo-0000631139,8389563,
-d9371414-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Cyathopsis,,"Brongn. & Gris",1864,"Bull. Soc. Bot. France 11: 66 1864",,,,,324978-1,wfo-0000631140,7945345,
-d93731ba-8fcc-11eb-924d-9cd76263cbd0,species,violaceospicata,Cyathopsis,,"(Guillaumin) Quinn",2005,"Austral. Syst. Bot. 18: 451 2005",,,,c5028014-8fd1-11eb-924d-9cd76263cbd0,77070458-1,wfo-0000631141,8422203,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e251cd50-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathopsis,,,"Brongn. & Gris",,1864,,"Ann. Sci. Nat., Bot., sér. 5, 2: 152. 1864.",,Q55756550,,,,14546-1,wfo-4000010209,3234126,,
+d936f308-8fcc-11eb-924d-9cd76263cbd0,species,albicans,Cyathopsis,,"(Brongn. & Gris) Quinn",,2005,,"Austral. Syst. Bot. 18: 451 2005",,Q54553176,,c3ea3000-8fd1-11eb-924d-9cd76263cbd0,,77070457-1,wfo-0000631139,8389563,,
+d9371414-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Cyathopsis,,"Brongn. & Gris",,1864,,"Bull. Soc. Bot. France 11: 66 1864",,Q55756550,,,,324978-1,wfo-0000631140,7945345,,
+d93731ba-8fcc-11eb-924d-9cd76263cbd0,species,violaceospicata,Cyathopsis,,"(Guillaumin) Quinn",,2005,,"Austral. Syst. Bot. 18: 451 2005",,Q54553176,,c5028014-8fd1-11eb-924d-9cd76263cbd0,,77070458-1,wfo-0000631141,8422203,,

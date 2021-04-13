@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff4538e-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobryonia,,,H.Schaef.,2008,"Syst. Bot. 33: 126. 2008. (26 Feb 2008)",,,,,77093490-1,wfo-4000003713,7317670,
-8e5c24b6-8fcc-11eb-924d-9cd76263cbd0,species,argillicola,Austrobryonia,,I.Telford,2008,"Syst. Bot. 33: 128 2008",,,,,77093492-1,wfo-0000508506,3623701,
-8e5c472a-8fcc-11eb-924d-9cd76263cbd0,species,centralis,Austrobryonia,,I.Telford,2008,"Syst. Bot. 33: 130 2008",,,,,77093494-1,wfo-0000508507,3623691,
-8e5c6764-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Austrobryonia,,"(F.Muell.) I.Telford",2008,"Syst. Bot. 33: 126 2008",,,,,77093491-1,wfo-0000508508,3623681,
-8e5c85dc-8fcc-11eb-924d-9cd76263cbd0,species,pilbarensis,Austrobryonia,,I.Telford,2008,"Syst. Bot. 33: 129 2008",,,,,77093493-1,wfo-0000508509,3623668,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff4538e-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobryonia,,,H.Schaef.,,2008,,"Syst. Bot. 33: 126. 2008. (26 Feb 2008)",,Q55763750,,,,77093490-1,wfo-4000003713,7317670,,
+8e5c24b6-8fcc-11eb-924d-9cd76263cbd0,species,argillicola,Austrobryonia,,I.Telford,,2008,,"Syst. Bot. 33: 128 2008",,Q55763750,,,,77093492-1,wfo-0000508506,3623701,,
+8e5c472a-8fcc-11eb-924d-9cd76263cbd0,species,centralis,Austrobryonia,,I.Telford,,2008,,"Syst. Bot. 33: 130 2008",,Q55763750,,,,77093494-1,wfo-0000508507,3623691,,
+8e5c6764-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Austrobryonia,,"(F.Muell.) I.Telford",,2008,,"Syst. Bot. 33: 126 2008",,Q55763750,,,,77093491-1,wfo-0000508508,3623681,,
+8e5c85dc-8fcc-11eb-924d-9cd76263cbd0,species,pilbarensis,Austrobryonia,,I.Telford,,2008,,"Syst. Bot. 33: 129 2008",,Q55763750,,,,77093493-1,wfo-0000508509,3623668,,

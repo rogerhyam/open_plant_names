@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb827514-8fd1-11eb-924d-9cd76263cbd0,genus,Triceratorhynchus,,,Summerh.,1951,"Bot. Mus. Leafl. 14: 232. 1951.",,,,,30833-1,wfo-4000038913,2846357,
-17b048e2-8fcc-11eb-924d-9cd76263cbd0,species,viridiflorus,Triceratorhynchus,,Summerh.,1951,"Bot. Mus. Leafl. 14: 234 1951",,,,,660443-1,wfo-0000327416,2846358,
-17b06ce6-8fcc-11eb-924d-9cd76263cbd0,species,hio,Triceratostris,,"(Szlach.) Szlach. & R.González",,"Fragm. Florist. Geobot. 41: 1023 1996",,,,e9751ed0-8fcb-11eb-924d-9cd76263cbd0,995300-1,wfo-0000327417,3653867,
-17b0fb66-8fcc-11eb-924d-9cd76263cbd0,species,rhombilabia,Triceratostris,,"(Garay) Szlach. & R.González",,"Fragm. Florist. Geobot. 41: 1022 1996",,,,7e3e2632-8fcd-11eb-924d-9cd76263cbd0,995298-1,wfo-0000327418,2791210,
-17b12be0-8fcc-11eb-924d-9cd76263cbd0,subspecies,tamayoi,Triceratostris,rhombilabia,"(Szlach.) Szlach. & R.González",,"Fragm. Florist. Geobot. 41: 1022 1996",,,,,995299-1,wfo-0000327419,2791214,
-da278372-8fd1-11eb-924d-9cd76263cbd0,species,fortunei,Tricercandra,,A.Gray,1858,"Mem. Amer. Acad. Arts, n.s. 6(2): 405 1858",,,,,167929-1,wfo-0001295564,8008870,
-da275564-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Tricercandra,,"(Siebold) Nakai",1930,"Fl. Sylv. Kor. 18: 14 1930",,,,,167930-1,wfo-0001295563,3750559,
-da285964-8fd1-11eb-924d-9cd76263cbd0,species,quadrifolia,Tricercandra,,A.Gray,,"Jap. Exped. 2: 318",,,,,167931-1,wfo-0001295571,3750551,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb827514-8fd1-11eb-924d-9cd76263cbd0,genus,Triceratorhynchus,,,Summerh.,,1951,,"Bot. Mus. Leafl. 14: 232. 1951.",,Q100425544,,,,30833-1,wfo-4000038913,2846357,,
+17b048e2-8fcc-11eb-924d-9cd76263cbd0,species,viridiflorus,Triceratorhynchus,,Summerh.,,1951,,"Bot. Mus. Leafl. 14: 234 1951",,Q100425544,,,,660443-1,wfo-0000327416,2846358,,
+17b06ce6-8fcc-11eb-924d-9cd76263cbd0,species,hio,Triceratostris,,"(Szlach.) Szlach. & R.González",,,,"Fragm. Florist. Geobot. 41: 1023 1996",,,,e9751ed0-8fcb-11eb-924d-9cd76263cbd0,,995300-1,wfo-0000327417,3653867,,
+17b0fb66-8fcc-11eb-924d-9cd76263cbd0,species,rhombilabia,Triceratostris,,"(Garay) Szlach. & R.González",,,,"Fragm. Florist. Geobot. 41: 1022 1996",,,,7e3e2632-8fcd-11eb-924d-9cd76263cbd0,,995298-1,wfo-0000327418,2791210,,
+17b12be0-8fcc-11eb-924d-9cd76263cbd0,subspecies,tamayoi,Triceratostris,rhombilabia,"(Szlach.) Szlach. & R.González",,,,"Fragm. Florist. Geobot. 41: 1022 1996",,,,,,995299-1,wfo-0000327419,2791214,,
+da278372-8fd1-11eb-924d-9cd76263cbd0,species,fortunei,Tricercandra,,A.Gray,,1858,,"Mem. Amer. Acad. Arts, n.s. 6(2): 405 1858",,,,,,167929-1,wfo-0001295564,8008870,,
+da275564-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Tricercandra,,"(Siebold) Nakai",,1930,,"Fl. Sylv. Kor. 18: 14 1930",,,,,,167930-1,wfo-0001295563,3750559,,
+da285964-8fd1-11eb-924d-9cd76263cbd0,species,quadrifolia,Tricercandra,,A.Gray,,,,"Jap. Exped. 2: 318",,,,,,167931-1,wfo-0001295571,3750551,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e199773c-8fd1-11eb-924d-9cd76263cbd0,genus,Chilopsis,,,D.Don,1823,"Edinburgh Philos. J. 9: 261. 1823.",,,,,30013524-2,wfo-4000007883,3172475,
-2ab46eea-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Chilopsis,,Engelm.,1876,"Rep. Bot. Exped. 94 1876",,,,,109200-1,wfo-0000781950,5668561,
-2ab4893e-8fcd-11eb-924d-9cd76263cbd0,species,linearis,Chilopsis,,"(Cav.) Sweet",1826,"Hort. Brit. 283 1826",,,,,30013523-2,wfo-0000781951,5415072,
-2ab4a4d2-8fcd-11eb-924d-9cd76263cbd0,variety,arcuata,Chilopsis,linearis,Fosberg,1936,"Madroño 3: 336 1936",,,,,56478-2,wfo-0000781952,7406268,
-2ab4bfc6-8fcd-11eb-924d-9cd76263cbd0,subspecies,arcuata,Chilopsis,linearis,"(Fosberg) Henr.",1985,"Aliso 11: 194 1985 publ. 1986",,,,2ab4a4d2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000781953,7406268,
-29094f0c-8fcd-11eb-924d-9cd76263cbd0,variety,glutinosa,Chilopsis,linearis,"(Engelm.) Fosberg",1936,"Madroño 3: 365 1936",,,,,56479-2,wfo-0000778436,5668556,
-2ab4dc04-8fcd-11eb-924d-9cd76263cbd0,species,saligna,Chilopsis,,D.Don,1823,"Edinburgh Philos. J. 9: 261 1823",,,,,109202-1,wfo-0000781954,5668549,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e199773c-8fd1-11eb-924d-9cd76263cbd0,genus,Chilopsis,,,D.Don,,1823,,"Edinburgh Philos. J. 9: 261. 1823.",,,,,,30013524-2,wfo-4000007883,3172475,,
+2ab46eea-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Chilopsis,,Engelm.,,1876,,"Rep. Bot. Exped. 94 1876",,,,,,109200-1,wfo-0000781950,5668561,,
+2ab4893e-8fcd-11eb-924d-9cd76263cbd0,species,linearis,Chilopsis,,"(Cav.) Sweet",,1826,,"Hort. Brit. 283 1826",,,,,,30013523-2,wfo-0000781951,5415072,,
+2ab4a4d2-8fcd-11eb-924d-9cd76263cbd0,variety,arcuata,Chilopsis,linearis,Fosberg,,1936,,"Madroño 3: 336 1936",,Q93971967,,,,56478-2,wfo-0000781952,7406268,,
+2ab4bfc6-8fcd-11eb-924d-9cd76263cbd0,subspecies,arcuata,Chilopsis,linearis,"(Fosberg) Henr.",,1985,,"Aliso 11: 194 1985 publ. 1986",,,,2ab4a4d2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000781953,7406268,,
+29094f0c-8fcd-11eb-924d-9cd76263cbd0,variety,glutinosa,Chilopsis,linearis,"(Engelm.) Fosberg",,1936,,"Madroño 3: 365 1936",,Q93971967,,,,56479-2,wfo-0000778436,5668556,,
+2ab4dc04-8fcd-11eb-924d-9cd76263cbd0,species,saligna,Chilopsis,,D.Don,,1823,,"Edinburgh Philos. J. 9: 261 1823",,,,,,109202-1,wfo-0000781954,5668549,,

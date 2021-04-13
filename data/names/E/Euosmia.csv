@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e39040e8-8fd1-11eb-924d-9cd76263cbd0,genus,Euosmia,,,,,,,,,,,wfo-4000014205,,
-881f1efe-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Euosmia,,"(Ruiz & Pav.) Spreng.",1824,"Syst. Veg. 1: 417 1824",,,,,748834-1,wfo-0000960494,2895185,
-881f5338-8fcd-11eb-924d-9cd76263cbd0,species,caripensis,Euosmia,,"Humb. & Bonpl.",1817,"Pl. Aequinoct. 2: 165 1817",,,,,748835-1,wfo-0000960496,3848991,
-cd18d01e-8fd1-11eb-924d-9cd76263cbd0,species,corymbosa,Euosmia,,Benth.,1841,"J. Bot. (Hooker) 3: 218 1841",,,,,748836-1,wfo-0001278244,3848990,
-881f6eb8-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Euosmia,,"(Ruiz & Pav.) Spreng.",1824,"Syst. Veg. 1: 417 1824",,,,,748837-1,wfo-0000960497,2895256,
-881f88b2-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Euosmia,,"(Ruiz & Pav.) Spreng.",1824,"Syst. Veg. 1: 417 1824",,,,,748838-1,wfo-0000960498,2895208,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e39040e8-8fd1-11eb-924d-9cd76263cbd0,genus,Euosmia,,,,,,,,,,,,,,wfo-4000014205,,,
+881f1efe-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Euosmia,,"(Ruiz & Pav.) Spreng.",,1824,,"Syst. Veg. 1: 417 1824",,,,,,748834-1,wfo-0000960494,2895185,,
+881f5338-8fcd-11eb-924d-9cd76263cbd0,species,caripensis,Euosmia,,"Humb. & Bonpl.",,1817,,"Pl. Aequinoct. 2: 165 1817",,,,,,748835-1,wfo-0000960496,3848991,,
+cd18d01e-8fd1-11eb-924d-9cd76263cbd0,species,corymbosa,Euosmia,,Benth.,,1841,,"J. Bot. (Hooker) 3: 218 1841",,,,,,748836-1,wfo-0001278244,3848990,,
+881f6eb8-8fcd-11eb-924d-9cd76263cbd0,species,obovata,Euosmia,,"(Ruiz & Pav.) Spreng.",,1824,,"Syst. Veg. 1: 417 1824",,,,,,748837-1,wfo-0000960497,2895256,,
+881f88b2-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Euosmia,,"(Ruiz & Pav.) Spreng.",,1824,,"Syst. Veg. 1: 417 1824",,,,,,748838-1,wfo-0000960498,2895208,,

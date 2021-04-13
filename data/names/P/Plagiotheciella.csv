@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a1494c-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiotheciella,,,,,,,,,,,wfo-4000030012,9453387,
-e1302326-8fcd-11eb-924d-9cd76263cbd0,species,latebricola,Plagiotheciella,,"(Schimp.) M.Fleisch.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,e4b99aea-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001152333,7752390,
-fea49220-8fcd-11eb-924d-9cd76263cbd0,form,gemmascens,Plagiotheciella,latebricola,"(Ryan & I.Hagen) Podp.",1954,"Consp. Musc. Eur. 682 1954",,,,,,wfo-0001214002,,
-e130413a-8fcd-11eb-924d-9cd76263cbd0,species,passaicensis,Plagiotheciella,,"(Austin) M.Fleisch.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,,,wfo-0001152334,8426992,
-e1305f94-8fcd-11eb-924d-9cd76263cbd0,species,pilifera,Plagiotheciella,,"(Sw.) M.Fleisch.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,e613dc7a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001152335,4279950,
-fea4cb28-8fcd-11eb-924d-9cd76263cbd0,form,brevipila,Plagiotheciella,pilifera,"(Schimp.) Podp.",1954,"Consp. Musc. Eur. 683 1954",,,,,,wfo-0001214004,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a1494c-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiotheciella,,,,,,,,,,,,,,wfo-4000030012,9453387,,
+e1302326-8fcd-11eb-924d-9cd76263cbd0,species,latebricola,Plagiotheciella,,"(Schimp.) M.Fleisch.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,e4b99aea-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152333,7752390,,
+fea49220-8fcd-11eb-924d-9cd76263cbd0,form,gemmascens,Plagiotheciella,latebricola,"(Ryan & I.Hagen) Podp.",,1954,,"Consp. Musc. Eur. 682 1954",,,,,,,wfo-0001214002,,,
+e130413a-8fcd-11eb-924d-9cd76263cbd0,species,passaicensis,Plagiotheciella,,"(Austin) M.Fleisch.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,,,,wfo-0001152334,8426992,,
+e1305f94-8fcd-11eb-924d-9cd76263cbd0,species,pilifera,Plagiotheciella,,"(Sw.) M.Fleisch.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 466 1925",,,,e613dc7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152335,4279950,,
+fea4cb28-8fcd-11eb-924d-9cd76263cbd0,form,brevipila,Plagiotheciella,pilifera,"(Schimp.) Podp.",,1954,,"Consp. Musc. Eur. 683 1954",,,,,,,wfo-0001214004,,,

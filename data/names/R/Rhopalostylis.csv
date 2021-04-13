@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9aa9df2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalostylis,,,"H.Wendl. & Drude",,,,,,,31478-1,wfo-4000033090,2739132,
-041e0f44-8fcc-11eb-924d-9cd76263cbd0,species,baueri,Rhopalostylis,,"(Hook.f.) H.Wendl. & Drude",1877,"Bot. Zeitung (Berlin) 35: 638 1877",,,,,669609-1,wfo-0000296509,2739138,
-041e6fd4-8fcc-11eb-924d-9cd76263cbd0,variety,cheesemanii,Rhopalostylis,baueri,"(Becc. ex Cheeseman) Sykes",1977,"Bull. New Zealand Dept. Sci. Industr. Res. 119: 184 1977",,,,041e93c4-8fcc-11eb-924d-9cd76263cbd0,887998-1,wfo-0000296512,2739145,
-3290b75e-8fcd-11eb-924d-9cd76263cbd0,species,buettnerioides,Rhopalostylis,,Klotzsch,1865,"Adansonia 5: 317 1865",,,,,355195-1,wfo-0000799397,3055828,
-041e93c4-8fcc-11eb-924d-9cd76263cbd0,species,cheesemanii,Rhopalostylis,,"Becc. ex Cheeseman",1916,"Trans. & Proc. New Zealand Inst. 48: 215 1916",,,,,669610-1,wfo-0000296513,2739141,
-041eb3fe-8fcc-11eb-924d-9cd76263cbd0,species,sapida,Rhopalostylis,,"(Sol. ex G.Forst.) H.Wendl. & Drude",1878,"Palmiers 255 1878",,,,ef39569c-8fcb-11eb-924d-9cd76263cbd0,669611-1,wfo-0000296514,8532149,
-dc57ca94-8fd1-11eb-924d-9cd76263cbd0,species,aphylla,Rhopalota,,"(Schönland & Baker f.) N.E.Br.",1993,"Cact. Succ. J. (Los Angeles) 3: 7 1993",,,,d584e922-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001299578,4199058,
-3290d52c-8fcd-11eb-924d-9cd76263cbd0,species,citrifolium,Rhopium,,Willd.,1805,"Sp. Pl. 4: 150 1805",,,,,355196-1,wfo-0000799398,3078804,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9aa9df2-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalostylis,,,"H.Wendl. & Drude",,,,,,,,,,31478-1,wfo-4000033090,2739132,,
+041e0f44-8fcc-11eb-924d-9cd76263cbd0,species,baueri,Rhopalostylis,,"(Hook.f.) H.Wendl. & Drude",,1877,,"Bot. Zeitung (Berlin) 35: 638 1877",,,,,,669609-1,wfo-0000296509,2739138,,
+041e6fd4-8fcc-11eb-924d-9cd76263cbd0,variety,cheesemanii,Rhopalostylis,baueri,"(Becc. ex Cheeseman) Sykes",,1977,,"Bull. New Zealand Dept. Sci. Industr. Res. 119: 184 1977",,,,041e93c4-8fcc-11eb-924d-9cd76263cbd0,,887998-1,wfo-0000296512,2739145,,
+3290b75e-8fcd-11eb-924d-9cd76263cbd0,species,buettnerioides,Rhopalostylis,,Klotzsch,,1865,,"Adansonia 5: 317 1865",,,,,,355195-1,wfo-0000799397,3055828,,
+041e93c4-8fcc-11eb-924d-9cd76263cbd0,species,cheesemanii,Rhopalostylis,,"Becc. ex Cheeseman",,1916,,"Trans. & Proc. New Zealand Inst. 48: 215 1916",,,,,,669610-1,wfo-0000296513,2739141,,
+041eb3fe-8fcc-11eb-924d-9cd76263cbd0,species,sapida,Rhopalostylis,,"(Sol. ex G.Forst.) H.Wendl. & Drude",,1878,,"Palmiers 255 1878",,,,ef39569c-8fcb-11eb-924d-9cd76263cbd0,,669611-1,wfo-0000296514,8532149,,
+dc57ca94-8fd1-11eb-924d-9cd76263cbd0,species,aphylla,Rhopalota,,"(Schönland & Baker f.) N.E.Br.",,1993,,"Cact. Succ. J. (Los Angeles) 3: 7 1993",,,,d584e922-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001299578,4199058,,
+3290d52c-8fcd-11eb-924d-9cd76263cbd0,species,citrifolium,Rhopium,,Willd.,,1805,,"Sp. Pl. 4: 150 1805",,,,,,355196-1,wfo-0000799398,3078804,,

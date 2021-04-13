@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb91c640-8fd1-11eb-924d-9cd76263cbd0,genus,Tridesmis,,,Lour.,1790,"Fl. Cochinch. 540, 576. 1790.",,,,,,wfo-4000039113,3070662,
-523634ae-8fcc-11eb-924d-9cd76263cbd0,species,billardierei,Tridesmis,,Spach,1836,"Ann. Sci. Nat., Bot. II, 5: 352 1836",,,,,434088-1,wfo-0000413518,,
-33833ad8-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Tridesmis,,Lour.,1790,"Fl. Cochinch. 576 1790",,,,,357970-1,wfo-0000801217,5378113,
-52365d12-8fcc-11eb-924d-9cd76263cbd0,species,jackii,Tridesmis,,Spach,1836,"Ann. Sci. Nat., Bot. II, 5: 352 1836",,,,,434090-1,wfo-0000413519,5556469,
-52346b88-8fcc-11eb-924d-9cd76263cbd0,species,ochnoides,Tridesmis,,Spach,1836,"Hist. Nat. Vég. 5: 359 1836",,,,,434091-1,wfo-0000413509,5556467,
-da8da896-8fd1-11eb-924d-9cd76263cbd0,species,pruniflora,Tridesmis,,Kurz,1872,"J. Asiat. Soc. Bengal 41(2): 293 1872",,,,,434092-1,wfo-0001296249,5556464,
-18140648-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Tridesmis,,Lour.,1790,"Fl. Cochinch. 576 1790",,,,,357971-1,wfo-0000328141,5378112,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb91c640-8fd1-11eb-924d-9cd76263cbd0,genus,Tridesmis,,,Lour.,,1790,,"Fl. Cochinch. 540, 576. 1790.",,,,,,,wfo-4000039113,3070662,,
+523634ae-8fcc-11eb-924d-9cd76263cbd0,species,billardierei,Tridesmis,,Spach,,1836,,"Ann. Sci. Nat., Bot. II, 5: 352 1836",,,,,,434088-1,wfo-0000413518,,,
+33833ad8-8fcd-11eb-924d-9cd76263cbd0,species,hispida,Tridesmis,,Lour.,,1790,,"Fl. Cochinch. 576 1790",,,,,,357970-1,wfo-0000801217,5378113,,
+52365d12-8fcc-11eb-924d-9cd76263cbd0,species,jackii,Tridesmis,,Spach,,1836,,"Ann. Sci. Nat., Bot. II, 5: 352 1836",,,,,,434090-1,wfo-0000413519,5556469,,
+52346b88-8fcc-11eb-924d-9cd76263cbd0,species,ochnoides,Tridesmis,,Spach,,1836,,"Hist. Nat. Vég. 5: 359 1836",,,,,,434091-1,wfo-0000413509,5556467,,
+da8da896-8fd1-11eb-924d-9cd76263cbd0,species,pruniflora,Tridesmis,,Kurz,,1872,,"J. Asiat. Soc. Bengal 41(2): 293 1872",,,,,,434092-1,wfo-0001296249,5556464,,
+18140648-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Tridesmis,,Lour.,,1790,,"Fl. Cochinch. 576 1790",,,,,,357971-1,wfo-0000328141,5378112,,

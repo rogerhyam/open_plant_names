@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9fce5c-8fd1-11eb-924d-9cd76263cbd0,genus,Triplateia,,,Bartl.,1830,"Ord. Nat. 305. 1830.",,,,,30128914-2,wfo-4000039277,7267939,
-4cc6ffb2-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Triplateia,,Bartl.,1831,"Reliq. Haenk. 2: 11 1831",,,,,,wfo-0000406571,3814992,
-5386799a-8fcc-11eb-924d-9cd76263cbd0,species,moehringiodes,Triplateia,,"(DC.) Kuntze",1891,"Revis. Gen. Pl. 1: 56 1891",,,,,258629-2,wfo-0000415187,3814984,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9fce5c-8fd1-11eb-924d-9cd76263cbd0,genus,Triplateia,,,Bartl.,,1830,,"Ord. Nat. 305. 1830.",,,,,,30128914-2,wfo-4000039277,7267939,,
+4cc6ffb2-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Triplateia,,Bartl.,,1831,,"Reliq. Haenk. 2: 11 1831",,,,,,,wfo-0000406571,3814992,,
+5386799a-8fcc-11eb-924d-9cd76263cbd0,species,moehringiodes,Triplateia,,"(DC.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 56 1891",,,,,,258629-2,wfo-0000415187,3814984,,

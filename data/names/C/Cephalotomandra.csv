@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1679fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalotomandra,,,"H.Karst. & Triana",1854,"Nuev. Jen. Esp. 23. 1854[1855].",,,,,27909-1,wfo-4000007288,7327408,
-c3d0cc0a-8fcc-11eb-924d-9cd76263cbd0,species,fragrans,Cephalotomandra,,"H.Karst. & Triana",1854,"Nuev. Jen. Esp. 24 1854",,,,,,wfo-0000594987,3701487,
-c3d10c88-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Cephalotomandra,,Standl.,1918,"N. Amer. Fl. 21: 179 1918",,,,,52254-2,wfo-0000594989,3701472,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1679fbe-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalotomandra,,,"H.Karst. & Triana",,1854,,"Nuev. Jen. Esp. 23. 1854[1855].",,,,,,27909-1,wfo-4000007288,7327408,,
+c3d0cc0a-8fcc-11eb-924d-9cd76263cbd0,species,fragrans,Cephalotomandra,,"H.Karst. & Triana",,1854,,"Nuev. Jen. Esp. 24 1854",,,,,,,wfo-0000594987,3701487,,
+c3d10c88-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Cephalotomandra,,Standl.,,1918,,"N. Amer. Fl. 21: 179 1918",,,,,,52254-2,wfo-0000594989,3701472,,

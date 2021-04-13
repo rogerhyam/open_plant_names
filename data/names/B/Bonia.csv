@@ -1,11 +1,13 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0584a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Bonia,,,Balansa,1890,"J. Bot. (Morot) 4: 29. 1890.",,,,,17611-1,wfo-4000004970,3232894,
-4be20d20-8fcd-11eb-924d-9cd76263cbd0,species,amplexicaulis,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",1996,"Kew Bull. 51: 568 1996",,,,5849d8ae-8fcd-11eb-924d-9cd76263cbd0,990443-1,wfo-0000853719,5677829,
-4be226de-8fcd-11eb-924d-9cd76263cbd0,species,levigata,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",1996,"Kew Bull. 51: 568 1996",,,,,990442-1,wfo-0000853720,5677826,
-4be242ea-8fcd-11eb-924d-9cd76263cbd0,species,parvifloscula,Bonia,,"(W.T.Lin) N.H.Xia",2005,"Novon 15: 601 2005",,,,,60440833-2,wfo-0000853721,5677823,
-4be25fbe-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",1996,"Kew Bull. 51: 567 1996",,,,584acc64-8fcd-11eb-924d-9cd76263cbd0,990440-1,wfo-0000853722,4137829,
-4be27ba2-8fcd-11eb-924d-9cd76263cbd0,variety,solida,Bonia,saxatilis,"(C.D.Chu & C.S.Chao) D.Z.Li",2000,"Acta Bot. Yunnan. 22: 44 2000",,,,,1013452-1,wfo-0000853723,5677818,
-4be29a1a-8fcd-11eb-924d-9cd76263cbd0,species,solida,Bonia,,"(C.D.Chu & C.S.Chao) N.H.Xia",1996,"Kew Bull. 51: 568 1996",,,,,990441-1,wfo-0000853724,5677815,
-4be2b6c6-8fcd-11eb-924d-9cd76263cbd0,species,tonkinensis,Bonia,,Balansa,1890,"J. Bot. (Morot) 4: 29 1890",,,,,392688-1,wfo-0000853725,5677812,
-25a742ac-8fcc-11eb-924d-9cd76263cbd0,species,riparia,Bonifacia,,"Silva Manso ex Steud.",1840,"Nomencl. Bot. ed. 2, 1: 216 1840",,,,,744608-1,wfo-0000350123,2896782,
-b389d012-8fcc-11eb-924d-9cd76263cbd0,species,quezalteca,Bonifazia,,"Standl. & Steyerm.",1944,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 66 1944",,,,,34748-2,wfo-0000568680,3948961,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0584a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Bonia,,,Balansa,,1890,,"J. Bot. (Morot) 4: 29. 1890.",,,,e0584a2e-8fd1-11eb-924d-9cd76263cbd0,,17611-1,wfo-4000004970,3232894,17178," "
+4be20d20-8fcd-11eb-924d-9cd76263cbd0,species,amplexicaulis,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",,1996,,"Kew Bull. 51: 568 1996",,Q55784769,,5849d8ae-8fcd-11eb-924d-9cd76263cbd0,,990443-1,wfo-0000853719,5677829,,
+2c986310-9bad-11eb-a8a2-19ed5c03f8d3,species,flava,Bonia,,"(Sw.) Pat.",,1892,,"Bull. Soc. mycol. Fr. 8(2): 49 (1892)",,,,,,,,,439700," "
+4be226de-8fcd-11eb-924d-9cd76263cbd0,species,levigata,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",,1996,,"Kew Bull. 51: 568 1996",,Q55784769,,,,990442-1,wfo-0000853720,5677826,,
+b7af87d0-9bad-11eb-a8a2-19ed5c03f8d3,species,papyrina,Bonia,,Pat.,,1892,,"Bull. Soc. mycol. Fr. 8: (1892)",,,,b7af87d0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,218777," "
+4be242ea-8fcd-11eb-924d-9cd76263cbd0,species,parvifloscula,Bonia,,"(W.T.Lin) N.H.Xia",,2005,,"Novon 15: 601 2005",,,,,,60440833-2,wfo-0000853721,5677823,,
+4be25fbe-8fcd-11eb-924d-9cd76263cbd0,species,saxatilis,Bonia,,"(L.C.Chia, H.L.Fung & Y.L.Yang) N.H.Xia",,1996,,"Kew Bull. 51: 567 1996",,Q55784769,,584acc64-8fcd-11eb-924d-9cd76263cbd0,,990440-1,wfo-0000853722,4137829,,
+4be27ba2-8fcd-11eb-924d-9cd76263cbd0,variety,solida,Bonia,saxatilis,"(C.D.Chu & C.S.Chao) D.Z.Li",,2000,,"Acta Bot. Yunnan. 22: 44 2000",,,,,,1013452-1,wfo-0000853723,5677818,,
+4be29a1a-8fcd-11eb-924d-9cd76263cbd0,species,solida,Bonia,,"(C.D.Chu & C.S.Chao) N.H.Xia",,1996,,"Kew Bull. 51: 568 1996",,Q55784769,,,,990441-1,wfo-0000853724,5677815,,
+4be2b6c6-8fcd-11eb-924d-9cd76263cbd0,species,tonkinensis,Bonia,,Balansa,,1890,,"J. Bot. (Morot) 4: 29 1890",,,,,,392688-1,wfo-0000853725,5677812,,
+25a742ac-8fcc-11eb-924d-9cd76263cbd0,species,riparia,Bonifacia,,"Silva Manso ex Steud.",,1840,,"Nomencl. Bot. ed. 2, 1: 216 1840",,,,,,744608-1,wfo-0000350123,2896782,,
+b389d012-8fcc-11eb-924d-9cd76263cbd0,species,quezalteca,Bonifazia,,"Standl. & Steyerm.",,1944,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 66 1944",,Q51433635,,,,34748-2,wfo-0000568680,3948961,,

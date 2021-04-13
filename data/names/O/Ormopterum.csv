@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a8bdea-8fd1-11eb-924d-9cd76263cbd0,genus,Ormopterum,,,Schischk.,1950,"Fl. URSS 16: 597. 1950.",,,,,40316-1,wfo-4000027169,6027054,
-3befc80e-8fcc-11eb-924d-9cd76263cbd0,species,tuberosum,Ormopterum,,Nasir,1972,"in Fl. W. Pakistan 20: 140 1972",,,,,845522-1,wfo-0000384814,3638171,
-3befeba4-8fcc-11eb-924d-9cd76263cbd0,species,turcomanicum,Ormopterum,,"(Korovin) Schischk.",1950,"Fl. URSS 16: 597 1950",,,,,845523-1,wfo-0000384815,3638159,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a8bdea-8fd1-11eb-924d-9cd76263cbd0,genus,Ormopterum,,,Schischk.,,1950,,"Fl. URSS 16: 597. 1950.",,,,,,40316-1,wfo-4000027169,6027054,,
+3befc80e-8fcc-11eb-924d-9cd76263cbd0,species,tuberosum,Ormopterum,,Nasir,,1972,,"in Fl. W. Pakistan 20: 140 1972",,,,,,845522-1,wfo-0000384814,3638171,,
+3befeba4-8fcc-11eb-924d-9cd76263cbd0,species,turcomanicum,Ormopterum,,"(Korovin) Schischk.",,1950,,"Fl. URSS 16: 597 1950",,,,,,845523-1,wfo-0000384815,3638159,,

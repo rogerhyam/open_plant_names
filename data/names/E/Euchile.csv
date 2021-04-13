@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e387ceae-8fd1-11eb-924d-9cd76263cbd0,genus,Euchile,,,"(Dressler & G.E.Pollard) Withner",1998,"Cattleyas Rel. 5: 137. 1998.",,,,,,wfo-4000014104,2814437,
-86387356-8fcd-11eb-924d-9cd76263cbd0,species,citrina,Euchile,,"(Lex.) Withner",1998,"Cattleyas & Relatives 5: 138 1998",,,,0d7c7472-8fcc-11eb-924d-9cd76263cbd0,1007889-2,wfo-0000956193,2794417,
-765b152e-8fcd-11eb-924d-9cd76263cbd0,species,karwinskii,Euchile,,"(Mart.) Christenson",2011,"Richardiana 11: 77 2011",,,,3d5e7108-8fcd-11eb-924d-9cd76263cbd0,77110975-1,wfo-0000922747,8183128,
-86388d78-8fcd-11eb-924d-9cd76263cbd0,species,mariae,Euchile,,"(Ames) Withner",1998,"Cattleyas & Relatives 5: 139 1998",,,,83c9122e-8fcd-11eb-924d-9cd76263cbd0,1106264-2,wfo-0000956194,2793979,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e387ceae-8fd1-11eb-924d-9cd76263cbd0,genus,Euchile,,,"(Dressler & G.E.Pollard) Withner",,1998,,"Cattleyas Rel. 5: 137. 1998.",,,,,,,wfo-4000014104,2814437,,
+86387356-8fcd-11eb-924d-9cd76263cbd0,species,citrina,Euchile,,"(Lex.) Withner",,1998,,"Cattleyas & Relatives 5: 138 1998",,,,0d7c7472-8fcc-11eb-924d-9cd76263cbd0,,1007889-2,wfo-0000956193,2794417,,
+765b152e-8fcd-11eb-924d-9cd76263cbd0,species,karwinskii,Euchile,,"(Mart.) Christenson",,2011,,"Richardiana 11: 77 2011",,,,3d5e7108-8fcd-11eb-924d-9cd76263cbd0,,77110975-1,wfo-0000922747,8183128,,
+86388d78-8fcd-11eb-924d-9cd76263cbd0,species,mariae,Euchile,,"(Ames) Withner",,1998,,"Cattleyas & Relatives 5: 139 1998",,,,83c9122e-8fcd-11eb-924d-9cd76263cbd0,,1106264-2,wfo-0000956194,2793979,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95549f6-8fd1-11eb-924d-9cd76263cbd0,genus,Ptycanthera,,,Decne.,1844,"Prodr. 8: 606. 1844.",,,,,3634-1,wfo-4000032105,7311956,
-414b0188-8fcc-11eb-924d-9cd76263cbd0,species,berteroi,Ptycanthera,,Decne.,1844,"Prodr. 8: 606 1844",,,,,100751-1,wfo-0000392319,3574214,
-ca90fbc2-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Ptycanthera,,"(Griseb.) Schltr.",1899,"Symb. Antill. 1(2): 280 1899",,,,,214319-2,wfo-0001103255,3574189,
-ca911558-8fcd-11eb-924d-9cd76263cbd0,species,oblongata,Ptycanthera,,"(Griseb.) Schltr.",1899,"Symb. Antill. 1(2): 280 1899",,,,,214320-2,wfo-0001103256,3574162,
-ca913182-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Ptycanthera,,"(Griseb.) Schltr.",1899,"Symb. Antill. 1(2): 279 1899",,,,ca2e0184-8fcd-11eb-924d-9cd76263cbd0,214321-2,wfo-0001103257,3574138,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95549f6-8fd1-11eb-924d-9cd76263cbd0,genus,Ptycanthera,,,Decne.,,1844,,"Prodr. 8: 606. 1844.",,,,,,3634-1,wfo-4000032105,7311956,,
+414b0188-8fcc-11eb-924d-9cd76263cbd0,species,berteroi,Ptycanthera,,Decne.,,1844,,"Prodr. 8: 606 1844",,,,,,100751-1,wfo-0000392319,3574214,,
+ca90fbc2-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Ptycanthera,,"(Griseb.) Schltr.",,1899,,"Symb. Antill. 1(2): 280 1899",,,,,,214319-2,wfo-0001103255,3574189,,
+ca911558-8fcd-11eb-924d-9cd76263cbd0,species,oblongata,Ptycanthera,,"(Griseb.) Schltr.",,1899,,"Symb. Antill. 1(2): 280 1899",,,,,,214320-2,wfo-0001103256,3574162,,
+ca913182-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Ptycanthera,,"(Griseb.) Schltr.",,1899,,"Symb. Antill. 1(2): 279 1899",,,,ca2e0184-8fcd-11eb-924d-9cd76263cbd0,,214321-2,wfo-0001103257,3574138,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e167d7b8-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalotus,,,Labill.,1806,"Nov. Holl. Pl. 2: 6. 1806.",,,,,331478-2,wfo-4000007290,3232034,
-415f61a4-8fcd-11eb-924d-9cd76263cbd0,species,follicularis,Cephalotus,,Labill.,1806,"Nov. Holl. Pl. 2: 6 1806",,,,,790476-1,wfo-0000830798,5576485,
-27c1e5be-8fcd-11eb-924d-9cd76263cbd0,species,flabellata,Cephaloxys,,Desv.,1809,"J. Bot. (Desvaux) 1: 324 1809",,,,,442529-1,wfo-0000775584,5289421,
-27c201f2-8fcd-11eb-924d-9cd76263cbd0,species,graminifolia,Cephaloxys,,"(E.Mey.) Nees & Meyen",1843,"Observ. Bot. 128 1843",,,,,,wfo-0000775585,5289420,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e167d7b8-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalotus,,,Labill.,,1806,,"Nov. Holl. Pl. 2: 6. 1806.",,,,,,331478-2,wfo-4000007290,3232034,,
+415f61a4-8fcd-11eb-924d-9cd76263cbd0,species,follicularis,Cephalotus,,Labill.,,1806,,"Nov. Holl. Pl. 2: 6 1806",,,,,,790476-1,wfo-0000830798,5576485,,
+27c1e5be-8fcd-11eb-924d-9cd76263cbd0,species,flabellata,Cephaloxys,,Desv.,,1809,,"J. Bot. (Desvaux) 1: 324 1809",,,,,,442529-1,wfo-0000775584,5289421,,
+27c201f2-8fcd-11eb-924d-9cd76263cbd0,species,graminifolia,Cephaloxys,,"(E.Mey.) Nees & Meyen",,1843,,"Observ. Bot. 128 1843",,,,,,,wfo-0000775585,5289420,,

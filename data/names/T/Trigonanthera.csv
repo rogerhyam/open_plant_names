@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9421ec-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonanthera,,,André,1870,"Ill. Hort. 17: 137. 1870.",,,,,,wfo-4000039142,7304774,
-6f6b74f8-8fcc-11eb-924d-9cd76263cbd0,species,resediflora,Trigonanthera,,"(Linden & André) André",1870,"Ill. Hort. 17: 137 1870",,,,c42fbb0c-8fd1-11eb-924d-9cd76263cbd0,684220-1,wfo-0000456361,4183683,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9421ec-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonanthera,,,André,,1870,,"Ill. Hort. 17: 137. 1870.",,,,,,,wfo-4000039142,7304774,,
+6f6b74f8-8fcc-11eb-924d-9cd76263cbd0,species,resediflora,Trigonanthera,,"(Linden & André) André",,1870,,"Ill. Hort. 17: 137 1870",,,,c42fbb0c-8fd1-11eb-924d-9cd76263cbd0,,684220-1,wfo-0000456361,4183683,,

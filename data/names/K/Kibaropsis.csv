@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55d2e86-8fd1-11eb-924d-9cd76263cbd0,genus,Kibaropsis,,,"Vieill. ex Jérémie",1927,"Arch. Bot. Bull. Mens. 1: 75. 1927.",,,,,27086-1,wfo-4000019981,7264508,
-c1fd9b5a-8fcd-11eb-924d-9cd76263cbd0,species,caledonica,Kibaropsis,,"(Guillaumin) J.Jeremie",1977,"Adansonia 17(1): 80 1977",,,,ba47254e-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001084588,3782190,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55d2e86-8fd1-11eb-924d-9cd76263cbd0,genus,Kibaropsis,,,"Vieill. ex Jérémie",,1927,,"Arch. Bot. Bull. Mens. 1: 75. 1927.",,Q58838239,,,,27086-1,wfo-4000019981,7264508,,
+c1fd9b5a-8fcd-11eb-924d-9cd76263cbd0,species,caledonica,Kibaropsis,,"(Guillaumin) J.Jeremie",,1977,,"Adansonia 17(1): 80 1977",,,,ba47254e-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001084588,3782190,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e313a9a2-8fd1-11eb-924d-9cd76263cbd0,genus,Duckeella,,,"Porto & Brade",1940,"Anais Reunião Sul-Amer. Bot. 3(1): 32. 1940.",,,,,297166-2,wfo-4000012699,2836151,
-81fd5108-8fcd-11eb-924d-9cd76263cbd0,species,adolphii,Duckeella,,"Porto & Brade",1938,"Anais Reunião Sul-Amer. Bot. 3: 32 1938 publ. 1940",,,,,630665-1,wfo-0000946732,2836153,
-81fd6c60-8fcd-11eb-924d-9cd76263cbd0,species,alticola,Duckeella,,C.Schweinf.,1961,"Bot. Mus. Leafl. 19: 195 1961",,,,,85530-2,wfo-0000946733,2836152,
-81fd8650-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Duckeella,,Garay,1958,"Bot. Mus. Leafl. 18: 186 1958",,,,,85531-2,wfo-0000946734,2836154,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e313a9a2-8fd1-11eb-924d-9cd76263cbd0,genus,Duckeella,,,"Porto & Brade",,1940,,"Anais Reunião Sul-Amer. Bot. 3(1): 32. 1940.",,,,,,297166-2,wfo-4000012699,2836151,,
+81fd5108-8fcd-11eb-924d-9cd76263cbd0,species,adolphii,Duckeella,,"Porto & Brade",,1938,,"Anais Reunião Sul-Amer. Bot. 3: 32 1938 publ. 1940",,,,,,630665-1,wfo-0000946732,2836153,,
+81fd6c60-8fcd-11eb-924d-9cd76263cbd0,species,alticola,Duckeella,,C.Schweinf.,,1961,,"Bot. Mus. Leafl. 19: 195 1961",,Q100425723,,,,85530-2,wfo-0000946733,2836152,,
+81fd8650-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Duckeella,,Garay,,1958,,"Bot. Mus. Leafl. 18: 186 1958",,Q100425660,,,,85531-2,wfo-0000946734,2836154,,

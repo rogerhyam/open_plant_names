@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0d58cd2-8fd1-11eb-924d-9cd76263cbd0,genus,Brissonia,,,,,,,,,,,wfo-4000005448,,
-b5ffaf32-8fcd-11eb-924d-9cd76263cbd0,species,coronillaefolia,Brissonia,,Desv.,1814,"J. Bot. Agric. 1: 78 1814",,,,,482337-1,wfo-0001057296,8192481,
-87f79a94-8fc5-11eb-924d-9cd76263cbd0,species,coronillifolia,Brissonia,,Desv.,,,,,,,,wfo-0000193532,5341887,
-b60000a4-8fcd-11eb-924d-9cd76263cbd0,species,stipularis,Brissonia,,Desv.,1814,"J. Bot. Agric. 1: 78 1814",,,,,482338-1,wfo-0001057297,5631038,
-b5ae4314-8fcc-11eb-924d-9cd76263cbd0,species,trapezicarpa,Brissonia,,Desv.,1826,"Ann. Sci. Nat. (Paris) 9: 411 1826",,,,,482340-1,wfo-0000572309,5631034,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0d58cd2-8fd1-11eb-924d-9cd76263cbd0,genus,Brissonia,,,,,,,,,,,,,,wfo-4000005448,,,
+b5ffaf32-8fcd-11eb-924d-9cd76263cbd0,species,coronillaefolia,Brissonia,,Desv.,,1814,,"J. Bot. Agric. 1: 78 1814",,,,,,482337-1,wfo-0001057296,8192481,,
+87f79a94-8fc5-11eb-924d-9cd76263cbd0,species,coronillifolia,Brissonia,,Desv.,,,,,,,,,,,wfo-0000193532,5341887,,
+b60000a4-8fcd-11eb-924d-9cd76263cbd0,species,stipularis,Brissonia,,Desv.,,1814,,"J. Bot. Agric. 1: 78 1814",,,,,,482338-1,wfo-0001057297,5631038,,
+b5ae4314-8fcc-11eb-924d-9cd76263cbd0,species,trapezicarpa,Brissonia,,Desv.,,1826,,"Ann. Sci. Nat. (Paris) 9: 411 1826",,,,,,482340-1,wfo-0000572309,5631034,,

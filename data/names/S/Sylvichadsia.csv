@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eafbb77c-8fd1-11eb-924d-9cd76263cbd0,genus,Sylvichadsia,,,,,,,,,,,wfo-4000037166,2961490,
-6b67e9ce-8fc5-11eb-924d-9cd76263cbd0,species,grandidieri,Sylvichadsia,,"(Baill.) Du Puy & Labat",,,,,,,,wfo-0000192969,2961499,
-1649176e-8fc6-11eb-924d-9cd76263cbd0,species,grandiflora,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,1655838c-8fc6-11eb-924d-9cd76263cbd0,,wfo-0000196242,2961491,
-6b428b3e-8fc5-11eb-924d-9cd76263cbd0,species,grandifolia,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,6b4f0666-8fc5-11eb-924d-9cd76263cbd0,,wfo-0000192966,2961497,
-6b80ef28-8fc5-11eb-924d-9cd76263cbd0,species,macrophylla,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,b738814e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000192972,2961494,
-6b99fb76-8fc5-11eb-924d-9cd76263cbd0,species,perrieri,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,,,wfo-0000192974,2961495,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eafbb77c-8fd1-11eb-924d-9cd76263cbd0,genus,Sylvichadsia,,,,,,,,,,,,,,wfo-4000037166,2961490,,
+6b67e9ce-8fc5-11eb-924d-9cd76263cbd0,species,grandidieri,Sylvichadsia,,"(Baill.) Du Puy & Labat",,,,,,,,,,,wfo-0000192969,2961499,,
+1649176e-8fc6-11eb-924d-9cd76263cbd0,species,grandiflora,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,,,1655838c-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000196242,2961491,,
+6b428b3e-8fc5-11eb-924d-9cd76263cbd0,species,grandifolia,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,,,6b4f0666-8fc5-11eb-924d-9cd76263cbd0,,,wfo-0000192966,2961497,,
+6b80ef28-8fc5-11eb-924d-9cd76263cbd0,species,macrophylla,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,,,b738814e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000192972,2961494,,
+6b99fb76-8fc5-11eb-924d-9cd76263cbd0,species,perrieri,Sylvichadsia,,"(R.Vig.) Du Puy & Labat",,,,,,,,,,,wfo-0000192974,2961495,,

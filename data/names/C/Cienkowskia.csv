@@ -1,13 +1,14 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1baf4c0-8fd1-11eb-924d-9cd76263cbd0,genus,Cienkowskia,,,Schweinf.,1863,"Sitzungsber. Ges. Naturf. Freunde Berlin _. 1863.",,,,,,wfo-4000008315,7531829,
-290585ee-8fcc-11eb-924d-9cd76263cbd0,species,aethiopica,Cienkowskia,,Schweinf.,1867,"Beitr. Fl. Aethiop. 197 1867",,,,,,wfo-0000355864,8163958,
-2906ef7e-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Cienkowskia,,Hook.f.,,"Bot. Mag. 98: t. 5994 1872",,,,,796219-1,wfo-0000355875,7755784,
-c9927972-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Cienkowskia,,"Regel & Rach",1858,"Index Seminum (LE) 1858: 48 1858",,,,,,wfo-0000604683,8179353,
-2908cd1c-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Cienkowskia,,"Regel & Rach",1858,"Index Seminum (LE) 1858: 48 1858",,,,,,wfo-0000355886,8179353,
-290b7a12-8fcc-11eb-924d-9cd76263cbd0,species,aethiopica,Cienkowskiella,,"(Schweinf.) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,,,290585ee-8fcc-11eb-924d-9cd76263cbd0,872270-1,wfo-0000355904,2757676,
-290d4018-8fcc-11eb-924d-9cd76263cbd0,species,brachystemon,Cienkowskiella,,"(K.Schum.) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,,,6cb20c72-8fcc-11eb-924d-9cd76263cbd0,872271-1,wfo-0000355913,2757704,
-290dbb10-8fcc-11eb-924d-9cd76263cbd0,species,evae,Cienkowskiella,,"(Briq.) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,,,,872272-1,wfo-0000355917,2757708,
-290df1fc-8fcc-11eb-924d-9cd76263cbd0,species,kilimanensis,Cienkowskiella,,"(Gagnep.) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 11 1980",,,,6cd6495c-8fcc-11eb-924d-9cd76263cbd0,872273-1,wfo-0000355919,2757684,
-290e3f54-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Cienkowskiella,,"(Hook.f.) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 11 1980",,,,,872274-1,wfo-0000355921,2757695,
-290ebf6a-8fcc-11eb-924d-9cd76263cbd0,species,nigerica,Cienkowskiella,,"(Hutch. ex Hepper) Y.K.Kam",1980,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,,,6ce52170-8fcc-11eb-924d-9cd76263cbd0,872275-1,wfo-0000355925,2757712,
-4ef1b268-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Cigarrilla,,"(Zucc. & Mart. ex DC.) Aiello",1979,"J. Arnold Arbor. 60: 110 1979",,,,78cf8db2-8fcd-11eb-924d-9cd76263cbd0,58684-2,wfo-0000860145,2893952,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1baf4c0-8fd1-11eb-924d-9cd76263cbd0,genus,Cienkowskia,,,Schweinf.,,1863,,"Sitzungsber. Ges. Naturf. Freunde Berlin _. 1863.",,,,e1baf4c0-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000008315,7531829,12036," "
+290585ee-8fcc-11eb-924d-9cd76263cbd0,species,aethiopica,Cienkowskia,,Schweinf.,,1867,,"Beitr. Fl. Aethiop. 197 1867",,,,,,,wfo-0000355864,8163958,,
+2906ef7e-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Cienkowskia,,Hook.f.,,,,"Bot. Mag. 98: t. 5994 1872",,,,,,796219-1,wfo-0000355875,7755784,,
+c9927972-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Cienkowskia,,"Regel & Rach",,1858,,"Index Seminum (LE) 1858: 48 1858",,,,,,,wfo-0000604683,8179353,,
+2908cd1c-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Cienkowskia,,"Regel & Rach",,1858,,"Index Seminum (LE) 1858: 48 1858",,,,,,,wfo-0000355886,8179353,,
+c88bdeba-9bac-11eb-a8a2-19ed5c03f8d3,species,reticulata,Cienkowskia,,"(Alb. & Schwein.) Rostaf.",,1875,,"Vers. Syst. Mycetozoen (Strassburg) 9 (1875)",,,,,,,,,176271," "
+1a2ef5e0-9bad-11eb-a8a2-19ed5c03f8d3,species,transiliensis,Cienkowskia,,Golovenko{?},,,,,,,,1a2ef5e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328271," "
+290b7a12-8fcc-11eb-924d-9cd76263cbd0,species,aethiopica,Cienkowskiella,,"(Schweinf.) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,Q102418497,,290585ee-8fcc-11eb-924d-9cd76263cbd0,,872270-1,wfo-0000355904,2757676,,
+290d4018-8fcc-11eb-924d-9cd76263cbd0,species,brachystemon,Cienkowskiella,,"(K.Schum.) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,Q102418497,,6cb20c72-8fcc-11eb-924d-9cd76263cbd0,,872271-1,wfo-0000355913,2757704,,
+290dbb10-8fcc-11eb-924d-9cd76263cbd0,species,evae,Cienkowskiella,,"(Briq.) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,Q102418497,,,,872272-1,wfo-0000355917,2757708,,
+290df1fc-8fcc-11eb-924d-9cd76263cbd0,species,kilimanensis,Cienkowskiella,,"(Gagnep.) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 11 1980",,Q102418497,,6cd6495c-8fcc-11eb-924d-9cd76263cbd0,,872273-1,wfo-0000355919,2757684,,
+290e3f54-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Cienkowskiella,,"(Hook.f.) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 11 1980",,Q102418497,,,,872274-1,wfo-0000355921,2757695,,
+290ebf6a-8fcc-11eb-924d-9cd76263cbd0,species,nigerica,Cienkowskiella,,"(Hutch. ex Hepper) Y.K.Kam",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 10 1980",,Q102418497,,6ce52170-8fcc-11eb-924d-9cd76263cbd0,,872275-1,wfo-0000355925,2757712,,

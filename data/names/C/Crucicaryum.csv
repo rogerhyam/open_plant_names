@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e234999c-8fd1-11eb-924d-9cd76263cbd0,genus,Crucicaryum,,,Brand,1929,"Bot. Jahrb. Syst. 62: 489. 1929.",,,,,4538-1,wfo-4000009804,,
-d6c4d478-8fcc-11eb-924d-9cd76263cbd0,species,papuanum,Crucicaryum,,O.Brand,1929,"Bot. Jahrb. Syst. 62: 490 1929",,,,,114695-1,wfo-0000626811,4059660,
-d6c4ee7c-8fcc-11eb-924d-9cd76263cbd0,species,candida,Cruciella,,"Lesch. ex DC.",1830,"Prodr. 4: 75 1830",,,,,,wfo-0000626812,7745247,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e234999c-8fd1-11eb-924d-9cd76263cbd0,genus,Crucicaryum,,,Brand,,1929,,"Bot. Jahrb. Syst. 62: 489. 1929.",,,,,,4538-1,wfo-4000009804,,,
+d6c4d478-8fcc-11eb-924d-9cd76263cbd0,species,papuanum,Crucicaryum,,O.Brand,,1929,,"Bot. Jahrb. Syst. 62: 490 1929",,,,,,114695-1,wfo-0000626811,4059660,,
+d6c4ee7c-8fcc-11eb-924d-9cd76263cbd0,species,candida,Cruciella,,"Lesch. ex DC.",,1830,,"Prodr. 4: 75 1830",,,,,,,wfo-0000626812,7745247,,

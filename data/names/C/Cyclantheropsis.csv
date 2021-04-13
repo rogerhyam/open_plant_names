@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2546eca-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclantheropsis,,,Harms,1896,"Bot. Jahrb. Syst. 23: 169. 1896.",,,,,13256-1,wfo-4000010241,7317773,
-d9ba5608-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Cyclantheropsis,,Keraudren,1966,"in Fl. Madag. 185: 164 1966",,,,,292533-1,wfo-0000632032,3624531,
-d9ba75f2-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Cyclantheropsis,,"Gilg & Mildbr.",1923,"Bot. Jahrb. Syst. 58: 241 1923",,,,,292534-1,wfo-0000632033,3624523,
-d9ba90aa-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cyclantheropsis,,"(Cogn.) Harms",1896,"Bot. Jahrb. Syst. 23: 169 1896",,,,,292535-1,wfo-0000632034,3624516,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2546eca-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclantheropsis,,,Harms,,1896,,"Bot. Jahrb. Syst. 23: 169. 1896.",,,,,,13256-1,wfo-4000010241,7317773,,
+d9ba5608-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Cyclantheropsis,,Keraudren,,1966,,"in Fl. Madag. 185: 164 1966",,,,,,292533-1,wfo-0000632032,3624531,,
+d9ba75f2-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Cyclantheropsis,,"Gilg & Mildbr.",,1923,,"Bot. Jahrb. Syst. 58: 241 1923",,,,,,292534-1,wfo-0000632033,3624523,,
+d9ba90aa-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cyclantheropsis,,"(Cogn.) Harms",,1896,,"Bot. Jahrb. Syst. 23: 169 1896",,,,,,292535-1,wfo-0000632034,3624516,,

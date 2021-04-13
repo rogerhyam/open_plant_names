@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e685dd94-8fd1-11eb-924d-9cd76263cbd0,genus,Melargyra,,,Raf.,1836,"Fl. Tellur. 3: 81. 1836[1837].",,,,,,wfo-4000023612,7266993,
-350af45a-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Melargyra,,Raf.,1837,"Fl. Tellur. 3: 81 1837",,,,,155427-1,wfo-0000375616,3814087,
-350b493c-8fcc-11eb-924d-9cd76263cbd0,species,media,Melargyra,,"(L.) Raf.",1837,"Fl. Tellur. 3: 81 1837",,,,,155428-1,wfo-0000375619,3814082,
-350b6656-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Melargyra,,Raf.,1837,"Fl. Tellur. 3: 81 1837",,,,,155429-1,wfo-0000375620,3814074,
-350b82bc-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Melargyra,,Raf.,1837,"Fl. Tellur. 3: 81 1837",,,,,155430-1,wfo-0000375621,3807811,
-350b9e46-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Melargyra,,"(L.) Raf.",1837,"Fl. Tellur. 3: 81 1837",,,,,155431-1,wfo-0000375622,3814067,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e685dd94-8fd1-11eb-924d-9cd76263cbd0,genus,Melargyra,,,Raf.,,1836,,"Fl. Tellur. 3: 81. 1836[1837].",,,,,,,wfo-4000023612,7266993,,
+350af45a-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Melargyra,,Raf.,,1837,,"Fl. Tellur. 3: 81 1837",,,,,,155427-1,wfo-0000375616,3814087,,
+350b493c-8fcc-11eb-924d-9cd76263cbd0,species,media,Melargyra,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 81 1837",,,,,,155428-1,wfo-0000375619,3814082,,
+350b6656-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Melargyra,,Raf.,,1837,,"Fl. Tellur. 3: 81 1837",,,,,,155429-1,wfo-0000375620,3814074,,
+350b82bc-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Melargyra,,Raf.,,1837,,"Fl. Tellur. 3: 81 1837",,,,,,155430-1,wfo-0000375621,3807811,,
+350b9e46-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Melargyra,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 81 1837",,,,,,155431-1,wfo-0000375622,3814067,,

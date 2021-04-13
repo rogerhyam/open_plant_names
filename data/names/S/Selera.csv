@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea416548-8fd1-11eb-924d-9cd76263cbd0,genus,Selera,,,Ulbr.,1913,"Verh. Bot. Vereins Prov. Brandenburg 55(1): 51–54. 1913.",,,,,,wfo-4000034986,7278753,
-aac94b88-8fd1-11eb-924d-9cd76263cbd0,species,gossypioides,Selera,,Ulbr.,1913,"Verh. Bot. Vereins Prov. Brandenburg 55(1): 50–54 1913",,,,,,wfo-0001215042,3934000,
-7e32f274-8fc0-11eb-924d-9cd76263cbd0,species,ehrenbergii,Selerothamnus,,Harms,,,,,,,,wfo-0000166337,2967027,
-7e53a8f2-8fc0-11eb-924d-9cd76263cbd0,species,pentaphyllus,Selerothamnus,,Harms,,,,,,,,wfo-0000166340,2967025,
-7e5ed63c-8fc0-11eb-924d-9cd76263cbd0,species,purpusii,Selerothamnus,,Harms,,,,,,,,wfo-0000166341,2967030,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea416548-8fd1-11eb-924d-9cd76263cbd0,genus,Selera,,,Ulbr.,,1913,,"Verh. Bot. Vereins Prov. Brandenburg 55(1): 51–54. 1913.",,,,,,,wfo-4000034986,7278753,,
+aac94b88-8fd1-11eb-924d-9cd76263cbd0,species,gossypioides,Selera,,Ulbr.,,1913,,"Verh. Bot. Vereins Prov. Brandenburg 55(1): 50–54 1913",,,,,,,wfo-0001215042,3934000,,
+7e32f274-8fc0-11eb-924d-9cd76263cbd0,species,ehrenbergii,Selerothamnus,,Harms,,,,,,,,,,,wfo-0000166337,2967027,,
+7e53a8f2-8fc0-11eb-924d-9cd76263cbd0,species,pentaphyllus,Selerothamnus,,Harms,,,,,,,,,,,wfo-0000166340,2967025,,
+7e5ed63c-8fc0-11eb-924d-9cd76263cbd0,species,purpusii,Selerothamnus,,Harms,,,,,,,,,,,wfo-0000166341,2967030,,

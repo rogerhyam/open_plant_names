@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2225c00-8fd1-11eb-924d-9cd76263cbd0,genus,Crassularia,,,"Hochst. ex Schweinf.",1867,"Beitr. Fl. Aethiop. 80. 1867.",,,,,,wfo-4000009588,7334439,
-d608ce68-8fcc-11eb-924d-9cd76263cbd0,species,sediformis,Crassularia,,"Hochst. ex Schweinf.",1867,"Beitr. Fl. Aethiop. 80 1867",,,,,,wfo-0000625613,7727956,
-d608e7a4-8fcc-11eb-924d-9cd76263cbd0,species,floripendia,Crassuvia,,"Comm. ex Lam.",1786,"Encycl. 2: 141 1786",,,,,273588-1,wfo-0000625614,4200639,
-dc7b4bcc-8fd1-11eb-924d-9cd76263cbd0,species,floripenula,Crassuvia,,Comm.,,,,,,,,wfo-0001299840,7372063,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2225c00-8fd1-11eb-924d-9cd76263cbd0,genus,Crassularia,,,"Hochst. ex Schweinf.",,1867,,"Beitr. Fl. Aethiop. 80. 1867.",,,,,,,wfo-4000009588,7334439,,
+d608ce68-8fcc-11eb-924d-9cd76263cbd0,species,sediformis,Crassularia,,"Hochst. ex Schweinf.",,1867,,"Beitr. Fl. Aethiop. 80 1867",,,,,,,wfo-0000625613,7727956,,
+d608e7a4-8fcc-11eb-924d-9cd76263cbd0,species,floripendia,Crassuvia,,"Comm. ex Lam.",,1786,,"Encycl. 2: 141 1786",,,,,,273588-1,wfo-0000625614,4200639,,
+dc7b4bcc-8fd1-11eb-924d-9cd76263cbd0,species,floripenula,Crassuvia,,Comm.,,,,,,,,,,,wfo-0001299840,7372063,,

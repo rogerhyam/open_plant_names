@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e21df5ca-8fd1-11eb-924d-9cd76263cbd0,genus,Covillea,,,Vail,1895,"Bull. Torrey Bot. Club 22: 229. 1895.",,,,,,wfo-4000009532,7285811,
-d5424bd0-8fcc-11eb-924d-9cd76263cbd0,species,ameghinoi,Covillea,,Briq.,1925,"Veröff. Geobot. Inst. Rübel Zürich 3: 662 1925",,,,,67520-2,wfo-0000624378,3986863,
-d542684a-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Covillea,,"(Cav.) Coville",1895,"Bull. Torrey Bot. Club 22: 229 1895",,,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,361382-1,wfo-0000624379,7395060,
-d542894c-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Covillea,,Rydb.,1910,"N. Amer. Fl. 25: 108 1910",,,,,67523-2,wfo-0000624380,3986792,
-d543140c-8fcc-11eb-924d-9cd76263cbd0,species,tridentata,Covillea,,Vail,1899,"Bull. Torrey Bot. Club 26: 302 1899",,,,,67525-2,wfo-0000624381,3986769,
-78d0878a-8fcd-11eb-924d-9cd76263cbd0,species,napifolia,Covola,,"(Jacq.) Medik.",1791,"Philos. Bot. 2: 67 1791",,,,0724bb7a-8fcc-11eb-924d-9cd76263cbd0,446281-1,wfo-0000926526,5610983,
-78d0a396-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Covola,,"(L.) Medik.",1791,"Philos. Bot. 2: 67 1791",,,,,446282-1,wfo-0000926527,5610982,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e21df5ca-8fd1-11eb-924d-9cd76263cbd0,genus,Covillea,,,Vail,,1895,,"Bull. Torrey Bot. Club 22: 229. 1895.",,,,,,,wfo-4000009532,7285811,,
+d5424bd0-8fcc-11eb-924d-9cd76263cbd0,species,ameghinoi,Covillea,,Briq.,,1925,,"Veröff. Geobot. Inst. Rübel Zürich 3: 662 1925",,,,,,67520-2,wfo-0000624378,3986863,,
+d542684a-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Covillea,,"(Cav.) Coville",,1895,,"Bull. Torrey Bot. Club 22: 229 1895",,Q55766601,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,,361382-1,wfo-0000624379,7395060,,
+d542894c-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Covillea,,Rydb.,,1910,,"N. Amer. Fl. 25: 108 1910",,,,,,67523-2,wfo-0000624380,3986792,,
+d543140c-8fcc-11eb-924d-9cd76263cbd0,species,tridentata,Covillea,,Vail,,1899,,"Bull. Torrey Bot. Club 26: 302 1899",,Q55766732,,,,67525-2,wfo-0000624381,3986769,,
+78d0878a-8fcd-11eb-924d-9cd76263cbd0,species,napifolia,Covola,,"(Jacq.) Medik.",,1791,,"Philos. Bot. 2: 67 1791",,,,0724bb7a-8fcc-11eb-924d-9cd76263cbd0,,446281-1,wfo-0000926526,5610983,,
+78d0a396-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Covola,,"(L.) Medik.",,1791,,"Philos. Bot. 2: 67 1791",,,,,,446282-1,wfo-0000926527,5610982,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f1b8ea-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrotriche,,,Zucc.,1832,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 1: 308. 1832.",,,,,37724-1,wfo-4000018569,7333383,
-10047a90-8fcd-11eb-924d-9cd76263cbd0,species,bryoides,Hydrotriche,,A.Raynal,1979,"Adansonia n.s., 19: 169 1979",,,,,803923-1,wfo-0000726747,3742221,
-da9b9fe0-8fcd-11eb-924d-9cd76263cbd0,species,galiifolia,Hydrotriche,,A.Raynal,1979,"Adansonia 19(2): 166–8, Pl1(1), Pl8 1979",,,,,803924-1,wfo-0001138535,3742213,
-da9a467c-8fcd-11eb-924d-9cd76263cbd0,species,hottoniiflora,Hydrotriche,,Zucc.,1832,"Abh. Akad. Wissensch. Munchen 1: 309 1832",,,,,803925-1,wfo-0001138523,8020998,
-da9bbdfe-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Hydrotriche,hottoniiflora,Bonati,1927,"Bull. Soc. Bot. France 74: 88 1927",,,,,,wfo-0001138536,7988269,
-da9bdb9a-8fcd-11eb-924d-9cd76263cbd0,species,mayacoides,Hydrotriche,,A.Raynal,1979,"Adansonia 19(2): 168–9, Pl10, Pl1(3) 1979",,,,,803926-1,wfo-0001138537,3742200,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f1b8ea-8fd1-11eb-924d-9cd76263cbd0,genus,Hydrotriche,,,Zucc.,,1832,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 1: 308. 1832.",,,,,,37724-1,wfo-4000018569,7333383,,
+10047a90-8fcd-11eb-924d-9cd76263cbd0,species,bryoides,Hydrotriche,,A.Raynal,,1979,,"Adansonia n.s., 19: 169 1979",,Q58838358,,,,803923-1,wfo-0000726747,3742221,,
+da9b9fe0-8fcd-11eb-924d-9cd76263cbd0,species,galiifolia,Hydrotriche,,A.Raynal,,1979,,"Adansonia 19(2): 166–8, Pl1(1), Pl8 1979",,Q58838358,,,,803924-1,wfo-0001138535,3742213,,
+da9a467c-8fcd-11eb-924d-9cd76263cbd0,species,hottoniiflora,Hydrotriche,,Zucc.,,1832,,"Abh. Akad. Wissensch. Munchen 1: 309 1832",,,,,,803925-1,wfo-0001138523,8020998,,
+da9bbdfe-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Hydrotriche,hottoniiflora,Bonati,,1927,,"Bull. Soc. Bot. France 74: 88 1927",,,,,,,wfo-0001138536,7988269,,
+da9bdb9a-8fcd-11eb-924d-9cd76263cbd0,species,mayacoides,Hydrotriche,,A.Raynal,,1979,,"Adansonia 19(2): 168–9, Pl10, Pl1(3) 1979",,Q58838358,,,,803926-1,wfo-0001138537,3742200,,

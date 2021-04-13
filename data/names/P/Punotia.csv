@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95c0cbe-8fd1-11eb-924d-9cd76263cbd0,genus,Punotia,,,D.R.Hunt,2011,"Cactaceae Syst. Init. 25: 26. 2011. (Oct 2011)",,,,,77115304-1,wfo-4000032186,8313896,
-1b659acc-8fcd-11eb-924d-9cd76263cbd0,species,lagopus,Punotia,,"(K.Schum.) D.R.Hunt",2011,"Cactaceae Syst. Init. 25: 26 2011",,,,d5aec1a2-8fd1-11eb-924d-9cd76263cbd0,77115305-1,wfo-0000750019,7486428,
-ff8e937c-8fcb-11eb-924d-9cd76263cbd0,species,stenocaulis,Puntia,,Hedge,1983,"Notes Roy. Bot. Gard. Edinburgh 41: 115 1983",,,,,902864-1,wfo-0000288938,3891643,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95c0cbe-8fd1-11eb-924d-9cd76263cbd0,genus,Punotia,,,D.R.Hunt,,2011,,"Cactaceae Syst. Init. 25: 26. 2011. (Oct 2011)",,,,,,77115304-1,wfo-4000032186,8313896,,
+1b659acc-8fcd-11eb-924d-9cd76263cbd0,species,lagopus,Punotia,,"(K.Schum.) D.R.Hunt",,2011,,"Cactaceae Syst. Init. 25: 26 2011",,,,d5aec1a2-8fd1-11eb-924d-9cd76263cbd0,,77115305-1,wfo-0000750019,7486428,,
+ff8e937c-8fcb-11eb-924d-9cd76263cbd0,species,stenocaulis,Puntia,,Hedge,,1983,,"Notes Roy. Bot. Gard. Edinburgh 41: 115 1983",,Q102418022,,,,902864-1,wfo-0000288938,3891643,,

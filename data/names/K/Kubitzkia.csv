@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e572d51a-8fd1-11eb-924d-9cd76263cbd0,genus,Kubitzkia,,,"van der Werff",1986,"Taxon 35(1): 165. 1986.",,,,,925309-1,wfo-4000020251,9570887,
-2a12eb3e-8fcc-11eb-924d-9cd76263cbd0,species,macrantha,Kubitzkia,,"(Kosterm.) van der Werff",1986,"Taxon 35: 165 1986",,,,,942551-1,wfo-0000357691,4181111,
-bc3e66ae-8fcd-11eb-924d-9cd76263cbd0,species,mezii,Kubitzkia,,"(Kosterm.) van der Werff",1986,"Taxon 35(1): 165 1986",,,,,942550-1,wfo-0001071633,4181099,
-2a1e06f4-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Kudoa,,"(Albov) Masam.",1933,"Trans. Nat. Hist. Soc. Taiwan 23: 205 1933",,,,ff87f3c2-8fcc-11eb-924d-9cd76263cbd0,369709-1,wfo-0000357777,5595094,
-b8d093ca-8fcd-11eb-924d-9cd76263cbd0,species,yakushimensis,Kudoa,,"(Makino) Masam.",1930,"J. Soc. Trop. Agric. 2: 29 1930",,,,,369710-1,wfo-0001063719,5595092,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e572d51a-8fd1-11eb-924d-9cd76263cbd0,genus,Kubitzkia,,,"van der Werff",,1986,,"Taxon 35(1): 165. 1986.",,Q28956221,,,,925309-1,wfo-4000020251,9570887,,
+2a12eb3e-8fcc-11eb-924d-9cd76263cbd0,species,macrantha,Kubitzkia,,"(Kosterm.) van der Werff",,1986,,"Taxon 35: 165 1986",,Q28956221,,,,942551-1,wfo-0000357691,4181111,,
+bc3e66ae-8fcd-11eb-924d-9cd76263cbd0,species,mezii,Kubitzkia,,"(Kosterm.) van der Werff",,1986,,"Taxon 35(1): 165 1986",,Q28956221,,,,942550-1,wfo-0001071633,4181099,,
+2a1e06f4-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Kudoa,,"(Albov) Masam.",,1933,,"Trans. Nat. Hist. Soc. Taiwan 23: 205 1933",,,,ff87f3c2-8fcc-11eb-924d-9cd76263cbd0,,369709-1,wfo-0000357777,5595094,,
+b8d093ca-8fcd-11eb-924d-9cd76263cbd0,species,yakushimensis,Kudoa,,"(Makino) Masam.",,1930,,"J. Soc. Trop. Agric. 2: 29 1930",,,,,,369710-1,wfo-0001063719,5595092,,

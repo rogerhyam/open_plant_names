@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e103a0b8-8fd1-11eb-924d-9cd76263cbd0,genus,Callichroa,,,,,,,,,,,wfo-4000006056,3088265,
-1a22e95c-8fba-11eb-924d-9cd76263cbd0,species,angustifolia,Callichroa,,Walp.,,"Repert. Bot. Syst. (Walpers)",,,,,,wfo-0000123992,5393002,
-a7b71682-8fb3-11eb-924d-9cd76263cbd0,species,bradburii,Callichroa,,Walp.,1844,1844,,,,,,wfo-0000052356,5694191,
-92506854-8fbb-11eb-924d-9cd76263cbd0,species,douglasii,Callichroa,,"Torr. & A.Gray",1843,"396 1843",,,,,187990-1,wfo-0000135162,5392992,
-d7ddbf4c-8fb2-11eb-924d-9cd76263cbd0,species,hirsuta,Callichroa,,Walp.,1843,"632 1843",,,,,,wfo-0000035829,5392999,
-5082be56-8fb4-11eb-924d-9cd76263cbd0,species,jonesii,Callichroa,,"(A.Gray) Greene",1892,1892,,,,,,wfo-0000063183,5392994,
-992cf342-8fb4-11eb-924d-9cd76263cbd0,species,nutans,Callichroa,,Greene,1892,"Pittonia 2 227 1892",,,,,42394-2,wfo-0000067337,5396013,
-f2d5aa90-8fbb-11eb-924d-9cd76263cbd0,species,platyglossa,Callichroa,,"Fisch. & C.A.Mey.",1836,"31 1836",,,,,,wfo-0000137807,5393000,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e103a0b8-8fd1-11eb-924d-9cd76263cbd0,genus,Callichroa,,,,,,,,,,,,,,wfo-4000006056,3088265,,
+1a22e95c-8fba-11eb-924d-9cd76263cbd0,species,angustifolia,Callichroa,,Walp.,,,,"Repert. Bot. Syst. (Walpers)",,,,,,,wfo-0000123992,5393002,,
+a7b71682-8fb3-11eb-924d-9cd76263cbd0,species,bradburii,Callichroa,,Walp.,,1844,,1844,,,,,,,wfo-0000052356,5694191,,
+92506854-8fbb-11eb-924d-9cd76263cbd0,species,douglasii,Callichroa,,"Torr. & A.Gray",,1843,,"396 1843",,,,,,187990-1,wfo-0000135162,5392992,,
+d7ddbf4c-8fb2-11eb-924d-9cd76263cbd0,species,hirsuta,Callichroa,,Walp.,,1843,,"632 1843",,,,,,,wfo-0000035829,5392999,,
+5082be56-8fb4-11eb-924d-9cd76263cbd0,species,jonesii,Callichroa,,"(A.Gray) Greene",,1892,,1892,,,,,,,wfo-0000063183,5392994,,
+992cf342-8fb4-11eb-924d-9cd76263cbd0,species,nutans,Callichroa,,Greene,,1892,,"Pittonia 2 227 1892",,,,,,42394-2,wfo-0000067337,5396013,,
+f2d5aa90-8fbb-11eb-924d-9cd76263cbd0,species,platyglossa,Callichroa,,"Fisch. & C.A.Mey.",,1836,,"31 1836",,,,,,,wfo-0000137807,5393000,,

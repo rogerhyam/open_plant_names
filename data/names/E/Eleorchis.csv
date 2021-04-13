@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33b385a-8fd1-11eb-924d-9cd76263cbd0,genus,Eleorchis,,,F.Maek.,1935,"J. Jap. Bot. 11(5): 297–299. 1935.",,,,,29377-1,wfo-4000013175,2838494,
-8291df08-8fcd-11eb-924d-9cd76263cbd0,species,conformis,Eleorchis,,Maek.,1935,"J. Jap. Bot. 11: 299 1935",,,,,,wfo-0000948040,2838498,
-8291fa60-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Eleorchis,,"(A.Gray) Maek.",1935,"J. Jap. Bot. 11: 299 1935",,,,,,wfo-0000948041,2838495,
-ed903472-8fcc-11eb-924d-9cd76263cbd0,species,proboscidea,Elephantina,,Bertol.,1846,"Fl. Ital. 6: 280 1846",,,,,802210-1,wfo-0000666316,3741759,
-4cb6bd46-8fcc-11eb-924d-9cd76263cbd0,species,eburnea,Elephantodon,,"(Lour.) Salisb.",1866,"Gen. Pl. 12 1866",,,,4009261a-8fcc-11eb-924d-9cd76263cbd0,318809-1,wfo-0000406497,2754491,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33b385a-8fd1-11eb-924d-9cd76263cbd0,genus,Eleorchis,,,F.Maek.,,1935,,"J. Jap. Bot. 11(5): 297–299. 1935.",,Q104819784,,,,29377-1,wfo-4000013175,2838494,,
+8291df08-8fcd-11eb-924d-9cd76263cbd0,species,conformis,Eleorchis,,Maek.,,1935,,"J. Jap. Bot. 11: 299 1935",,,,,,,wfo-0000948040,2838498,,
+8291fa60-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Eleorchis,,"(A.Gray) Maek.",,1935,,"J. Jap. Bot. 11: 299 1935",,,,,,,wfo-0000948041,2838495,,
+ed903472-8fcc-11eb-924d-9cd76263cbd0,species,proboscidea,Elephantina,,Bertol.,,1846,,"Fl. Ital. 6: 280 1846",,,,,,802210-1,wfo-0000666316,3741759,,
+4cb6bd46-8fcc-11eb-924d-9cd76263cbd0,species,eburnea,Elephantodon,,"(Lour.) Salisb.",,1866,,"Gen. Pl. 12 1866",,,,4009261a-8fcc-11eb-924d-9cd76263cbd0,,318809-1,wfo-0000406497,2754491,,

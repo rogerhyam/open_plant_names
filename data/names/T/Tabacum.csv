@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb0cebf0-8fd1-11eb-924d-9cd76263cbd0,genus,Tabacum,,,Gilib.,1781,"(F. M. ) Haegi and (F. M. ) Haegi, Fl. Lit. Inch. i. 39 (1781). 1782, 1782.",,,,,,wfo-4000037388,8384445,
-ab02b26e-8fcd-11eb-924d-9cd76263cbd0,species,latissimum,Tabacum,,"Bercht. & Opiz",,"B. & Opiz, Oekon.-techn. Fl. Böhm. iii. 309..",,,,,,wfo-0001032654,5581363,
-ab02cf10-8fcd-11eb-924d-9cd76263cbd0,species,nicotianum,Tabacum,,"Bercht. & Opiz",,"B. & Opiz, Oekon.-techn. Fl. Böhm. iii. 307..",,,,,,wfo-0001032655,5581361,
-ab02eb1c-8fcd-11eb-924d-9cd76263cbd0,species,ovatofolium,Tabacum,,Gilib.,1782,"Gilib., Fl. Lit. Inch. i. 39. 1782, 1782.",,,,,,wfo-0001032656,5581360,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb0cebf0-8fd1-11eb-924d-9cd76263cbd0,genus,Tabacum,,,Gilib.,,1781,,"(F. M. ) Haegi and (F. M. ) Haegi, Fl. Lit. Inch. i. 39 (1781). 1782, 1782.",,,,,,,wfo-4000037388,8384445,,
+ab02b26e-8fcd-11eb-924d-9cd76263cbd0,species,latissimum,Tabacum,,"Bercht. & Opiz",,,,"B. & Opiz, Oekon.-techn. Fl. Böhm. iii. 309..",,,,,,,wfo-0001032654,5581363,,
+ab02cf10-8fcd-11eb-924d-9cd76263cbd0,species,nicotianum,Tabacum,,"Bercht. & Opiz",,,,"B. & Opiz, Oekon.-techn. Fl. Böhm. iii. 307..",,,,,,,wfo-0001032655,5581361,,
+ab02eb1c-8fcd-11eb-924d-9cd76263cbd0,species,ovatofolium,Tabacum,,Gilib.,,1782,,"Gilib., Fl. Lit. Inch. i. 39. 1782, 1782.",,,,,,,wfo-0001032656,5581360,,

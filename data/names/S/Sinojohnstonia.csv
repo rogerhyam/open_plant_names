@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6b57ae-8fd1-11eb-924d-9cd76263cbd0,genus,Sinojohnstonia,,,H.H.Hu,1936,"Bull. Fan Mem. Inst. Biol., Bot. 7: 201. 1936.",,,,,,wfo-4000035456,,
-ab6e930e-8fd1-11eb-924d-9cd76263cbd0,species,chekiangensis,Sinojohnstonia,,"(Migo) W.T.Wang",1984,"Bull. Bot. Res., Harbin 4(2): 3, f. 2, 2 1984",,,,ab6eae70-8fd1-11eb-924d-9cd76263cbd0,914584-1,wfo-0001216203,7709829,
-ab6e0cc2-8fd1-11eb-924d-9cd76263cbd0,species,moupinensis,Sinojohnstonia,,"(Franch.) W.T.Wang",1984,"Bull. Bot. Res., Harbin 4(2): 2, f. 3, 1–3, map 1 1984",,,,,,wfo-0001216198,7664543,
-ab6e78b0-8fd1-11eb-924d-9cd76263cbd0,species,plantaginea,Sinojohnstonia,,Hu,1936,"Bull. Fan Mem. Inst. Biol., Bot. 7: 203, f. 2, 1 1936",,,,,120655-1,wfo-0001216202,9051326,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6b57ae-8fd1-11eb-924d-9cd76263cbd0,genus,Sinojohnstonia,,,H.H.Hu,,1936,,"Bull. Fan Mem. Inst. Biol., Bot. 7: 201. 1936.",,,,,,,wfo-4000035456,,,
+ab6e930e-8fd1-11eb-924d-9cd76263cbd0,species,chekiangensis,Sinojohnstonia,,"(Migo) W.T.Wang",,1984,,"Bull. Bot. Res., Harbin 4(2): 3, f. 2, 2 1984",,Q96108232,,ab6eae70-8fd1-11eb-924d-9cd76263cbd0,,914584-1,wfo-0001216203,7709829,,
+ab6e0cc2-8fd1-11eb-924d-9cd76263cbd0,species,moupinensis,Sinojohnstonia,,"(Franch.) W.T.Wang",,1984,,"Bull. Bot. Res., Harbin 4(2): 2, f. 3, 1–3, map 1 1984",,,,,,,wfo-0001216198,7664543,,
+ab6e78b0-8fd1-11eb-924d-9cd76263cbd0,species,plantaginea,Sinojohnstonia,,Hu,,1936,,"Bull. Fan Mem. Inst. Biol., Bot. 7: 203, f. 2, 1 1936",,,,,,120655-1,wfo-0001216202,9051326,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb7a1f0-8fd1-11eb-924d-9cd76263cbd0,genus,Argeta,,,N.E.Br.,1927,"Gard. Chron., ser. 3 82: 113. 1927.",,,,,,wfo-4000002979,7329385,
-d42250ce-8fd1-11eb-924d-9cd76263cbd0,species,petrense,Argeta,,N.E.Br.,,,,,,,,wfo-0001285602,7869433,
-a5483e1c-8fcc-11eb-924d-9cd76263cbd0,species,petrensis,Argeta,,N.E.Br.,1927,"Gard. Chron. III, 83: 114 1927",,,,,360552-1,wfo-0000547113,3705953,
-4986ef78-8fcd-11eb-924d-9cd76263cbd0,species,dasyclada,Argillochloa,,"(Hack. ex Beal) W.A.Weber",1984,"Phytologia 55: 1 1984",,,,,18890-2,wfo-0000848449,2705019,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb7a1f0-8fd1-11eb-924d-9cd76263cbd0,genus,Argeta,,,N.E.Br.,,1927,,"Gard. Chron., ser. 3 82: 113. 1927.",,,,,,,wfo-4000002979,7329385,,
+d42250ce-8fd1-11eb-924d-9cd76263cbd0,species,petrense,Argeta,,N.E.Br.,,,,,,,,,,,wfo-0001285602,7869433,,
+a5483e1c-8fcc-11eb-924d-9cd76263cbd0,species,petrensis,Argeta,,N.E.Br.,,1927,,"Gard. Chron. III, 83: 114 1927",,,,,,360552-1,wfo-0000547113,3705953,,
+4986ef78-8fcd-11eb-924d-9cd76263cbd0,species,dasyclada,Argillochloa,,"(Hack. ex Beal) W.A.Weber",,1984,,"Phytologia 55: 1 1984",,,,,,18890-2,wfo-0000848449,2705019,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e22630c8-8fd1-11eb-924d-9cd76263cbd0,genus,Cremersia,,,"Feuillet & L.E.Skog",2002,"Brittonia 54(4): 347–348, f. 2. 2002[2003].",,,,,326839-2,wfo-4000009638,3233492,
-d6343436-8fcc-11eb-924d-9cd76263cbd0,species,platula,Cremersia,,"Feuillet & L.E.Skog",2002,"Brittonia 54: 348 2002 publ. 2003",,,,,326840-2,wfo-0000625912,5589993,
-d63557da-8fcc-11eb-924d-9cd76263cbd0,species,ilicina,Cremnobates,,Ridl.,1916,"Trans. Linn. Soc. London, Bot. 9: 41 1916",,,,,719718-1,wfo-0000625918,5535298,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e22630c8-8fd1-11eb-924d-9cd76263cbd0,genus,Cremersia,,,"Feuillet & L.E.Skog",,2002,,"Brittonia 54(4): 347–348, f. 2. 2002[2003].",,Q55764196,,,,326839-2,wfo-4000009638,3233492,,
+d6343436-8fcc-11eb-924d-9cd76263cbd0,species,platula,Cremersia,,"Feuillet & L.E.Skog",,2002,,"Brittonia 54: 348 2002 publ. 2003",,Q55764196,,,,326840-2,wfo-0000625912,5589993,,
+d63557da-8fcc-11eb-924d-9cd76263cbd0,species,ilicina,Cremnobates,,Ridl.,,1916,,"Trans. Linn. Soc. London, Bot. 9: 41 1916",,Q54635235,,,,719718-1,wfo-0000625918,5535298,,

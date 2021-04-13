@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec5996d4-8fd1-11eb-924d-9cd76263cbd0,genus,Hijmania,,,M.D.M.Vianna,2016,"Phytotaxa 247: 97 (2016)",,,,,77153260-1,wfo-4001303248,8865036,
-92a38ee6-8fcd-11eb-924d-9cd76263cbd0,species,nitidus,Hilairanthus,,"(Jacq.) Tiegh.",1898,"J. Bot. (Morot) 12: 358 1898",,,,d79b45e8-8fcd-11eb-924d-9cd76263cbd0,122609-2,wfo-0000982350,4196597,
-92a3ab10-8fcd-11eb-924d-9cd76263cbd0,species,tomentosus,Hilairanthus,,"(Jacq.) Tiegh.",1898,"J. Bot. (Morot) 12: 358 1898",,,,,122610-2,wfo-0000982351,4196652,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec5996d4-8fd1-11eb-924d-9cd76263cbd0,genus,Hijmania,,,M.D.M.Vianna,,2016,,"Phytotaxa 247: 97 (2016)",,Q22811109,,,,77153260-1,wfo-4001303248,8865036,,
+92a38ee6-8fcd-11eb-924d-9cd76263cbd0,species,nitidus,Hilairanthus,,"(Jacq.) Tiegh.",,1898,,"J. Bot. (Morot) 12: 358 1898",,,,d79b45e8-8fcd-11eb-924d-9cd76263cbd0,,122609-2,wfo-0000982350,4196597,,
+92a3ab10-8fcd-11eb-924d-9cd76263cbd0,species,tomentosus,Hilairanthus,,"(Jacq.) Tiegh.",,1898,,"J. Bot. (Morot) 12: 358 1898",,,,,,122610-2,wfo-0000982351,4196652,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec03ed60-8fd1-11eb-924d-9cd76263cbd0,genus,Warneria,,,Ellis,1821,"Linn. Corresp. 1: 100. 1821.",,,,,,wfo-4000040538,2897888,
-1b3c9718-8fcc-11eb-924d-9cd76263cbd0,species,augusta,Warneria,,L.,1759,"Amoen. Acad. 4: 138 1759",,,,,770287-1,wfo-0000333822,2894552,
-55b857ba-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Warneria,,Mill.,1759,"Fig. Pl. Gard. Dict. 2: t. 285 1759",,,,,301631-2,wfo-0000418076,6046327,
-1b3ccf12-8fcc-11eb-924d-9cd76263cbd0,species,thunbergia,Warneria,,"(Thunb.) Stuntz",1914,"U.S.D.A. Bur. Pl. Industr. Invent. Seeds 32: 39 1914",,,,8d64109a-8fcd-11eb-924d-9cd76263cbd0,770288-1,wfo-0000333824,2894405,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec03ed60-8fd1-11eb-924d-9cd76263cbd0,genus,Warneria,,,Ellis,,1821,,"Linn. Corresp. 1: 100. 1821.",,,,,,,wfo-4000040538,2897888,,
+1b3c9718-8fcc-11eb-924d-9cd76263cbd0,species,augusta,Warneria,,L.,,1759,,"Amoen. Acad. 4: 138 1759",,,,,,770287-1,wfo-0000333822,2894552,,
+55b857ba-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Warneria,,Mill.,,1759,,"Fig. Pl. Gard. Dict. 2: t. 285 1759",,,,,,301631-2,wfo-0000418076,6046327,,
+1b3ccf12-8fcc-11eb-924d-9cd76263cbd0,species,thunbergia,Warneria,,"(Thunb.) Stuntz",,1914,,"U.S.D.A. Bur. Pl. Industr. Invent. Seeds 32: 39 1914",,,,8d64109a-8fcd-11eb-924d-9cd76263cbd0,,770288-1,wfo-0000333824,2894405,,

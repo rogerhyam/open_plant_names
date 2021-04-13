@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebcff488-8fd1-11eb-924d-9cd76263cbd0,genus,Urostemon,,,B.Nord.,,,,,,,11441-1,wfo-4000039869,6063338,
-b6a4cc86-8fbb-11eb-924d-9cd76263cbd0,species,kirkii,Urostemon,,"(Hook.f. ex Kirk) B.Nord.",1978,"33 1978",,,,,257068-1,wfo-0000136159,3138466,
-ac5e6eb0-8fb8-11eb-924d-9cd76263cbd0,variety,angustior,Urostemon,kirkii,"(Allan) B.Nord.",1978,"33 1978",,,,c2e06f40-8fb7-11eb-924d-9cd76263cbd0,878497-1,wfo-0000111554,4206026,
-54664eda-8fcc-11eb-924d-9cd76263cbd0,species,gonoloboides,Urostephanus,,"B.L.Rob. & Greenm.",1895,"Amer. J. Sci. III, 1: 159 1895",,,,,,wfo-0000416255,3577974,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebcff488-8fd1-11eb-924d-9cd76263cbd0,genus,Urostemon,,,B.Nord.,,,,,,,,,,11441-1,wfo-4000039869,6063338,,
+b6a4cc86-8fbb-11eb-924d-9cd76263cbd0,species,kirkii,Urostemon,,"(Hook.f. ex Kirk) B.Nord.",,1978,,"33 1978",,,,,,257068-1,wfo-0000136159,3138466,,
+ac5e6eb0-8fb8-11eb-924d-9cd76263cbd0,variety,angustior,Urostemon,kirkii,"(Allan) B.Nord.",,1978,,"33 1978",,,,c2e06f40-8fb7-11eb-924d-9cd76263cbd0,,878497-1,wfo-0000111554,4206026,,
+54664eda-8fcc-11eb-924d-9cd76263cbd0,species,gonoloboides,Urostephanus,,"B.L.Rob. & Greenm.",,1895,,"Amer. J. Sci. III, 1: 159 1895",,,,,,,wfo-0000416255,3577974,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f19344-8fd1-11eb-924d-9cd76263cbd0,genus,Paraceterach,,,Copel.,1947,"Gen. Fil. 75. 1947.",,,,,,wfo-4000027985,3747985,
-ce5fcf12-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Paraceterach,,"(Christ) R.M.Tryon",1986,"Amer. Fern J. 76(4): 186 1986",,,,ce606f76-8fcd-11eb-924d-9cd76263cbd0,17534910-1,wfo-0001111901,3749420,
-ce5fec68-8fcd-11eb-924d-9cd76263cbd0,species,delavayi,Paraceterach,,"(Baker) R.M.Tryon",1986,"Amer. Fern J. 76(4): 186 1986",,,,,17534920-1,wfo-0001111902,3749413,
-ce60084c-8fcd-11eb-924d-9cd76263cbd0,species,marantae,Paraceterach,,"(L.) R.M.Tryon",1986,"Amer. Fern J. 76(4): 186 1986",,,,ce60d100-8fcd-11eb-924d-9cd76263cbd0,17534930-1,wfo-0001111903,3749403,
-d272afde-8fcd-11eb-924d-9cd76263cbd0,species,muelleri,Paraceterach,,"(Hook.) Copel.",1947,"Gen. Fil. (Copeland) 75 1947",,,,d272cd52-8fcd-11eb-924d-9cd76263cbd0,17409530-1,wfo-0001120344,3749387,
-d2735cc2-8fcd-11eb-924d-9cd76263cbd0,species,reynoldsii,Paraceterach,,"(F.Muell.) Tindale",1978,"Fl. S. Austral. (ed. 3) 3: 53 1978",,,,d2737b26-8fcd-11eb-924d-9cd76263cbd0,17556320-1,wfo-0001120348,3749366,
-ce602c82-8fcd-11eb-924d-9cd76263cbd0,species,sargentii,Paraceterach,,"(Christ) R.M.Tryon",1986,"Amer. Fern J. 76(4): 186 1986",,,,ce60f2c0-8fcd-11eb-924d-9cd76263cbd0,17534940-1,wfo-0001111904,3749356,
-ce605216-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Paraceterach,,"(Hook.) R.M.Tryon",1986,"Amer. Fern J. 76(4): 186 1986",,,,,17534950-1,wfo-0001111905,3749347,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f19344-8fd1-11eb-924d-9cd76263cbd0,genus,Paraceterach,,,Copel.,,1947,,"Gen. Fil. 75. 1947.",,,,,,,wfo-4000027985,3747985,,
+ce5fcf12-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Paraceterach,,"(Christ) R.M.Tryon",,1986,,"Amer. Fern J. 76(4): 186 1986",,Q55764580,,ce606f76-8fcd-11eb-924d-9cd76263cbd0,,17534910-1,wfo-0001111901,3749420,,
+ce5fec68-8fcd-11eb-924d-9cd76263cbd0,species,delavayi,Paraceterach,,"(Baker) R.M.Tryon",,1986,,"Amer. Fern J. 76(4): 186 1986",,Q55764580,,,,17534920-1,wfo-0001111902,3749413,,
+ce60084c-8fcd-11eb-924d-9cd76263cbd0,species,marantae,Paraceterach,,"(L.) R.M.Tryon",,1986,,"Amer. Fern J. 76(4): 186 1986",,Q55764580,,ce60d100-8fcd-11eb-924d-9cd76263cbd0,,17534930-1,wfo-0001111903,3749403,,
+d272afde-8fcd-11eb-924d-9cd76263cbd0,species,muelleri,Paraceterach,,"(Hook.) Copel.",,1947,,"Gen. Fil. (Copeland) 75 1947",,,,d272cd52-8fcd-11eb-924d-9cd76263cbd0,,17409530-1,wfo-0001120344,3749387,,
+d2735cc2-8fcd-11eb-924d-9cd76263cbd0,species,reynoldsii,Paraceterach,,"(F.Muell.) Tindale",,1978,,"Fl. S. Austral. (ed. 3) 3: 53 1978",,,,d2737b26-8fcd-11eb-924d-9cd76263cbd0,,17556320-1,wfo-0001120348,3749366,,
+ce602c82-8fcd-11eb-924d-9cd76263cbd0,species,sargentii,Paraceterach,,"(Christ) R.M.Tryon",,1986,,"Amer. Fern J. 76(4): 186 1986",,Q55764580,,ce60f2c0-8fcd-11eb-924d-9cd76263cbd0,,17534940-1,wfo-0001111904,3749356,,
+ce605216-8fcd-11eb-924d-9cd76263cbd0,species,vestita,Paraceterach,,"(Hook.) R.M.Tryon",,1986,,"Amer. Fern J. 76(4): 186 1986",,Q55764580,,,,17534950-1,wfo-0001111905,3749347,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5820508-8fd1-11eb-924d-9cd76263cbd0,genus,Lagenanthus,,,Gilg,1895,"Nat. Pflanzenfam. 4(2): 99. 1895.",,,,,16608-1,wfo-4000020428,7269821,
-69238640-8fcb-11eb-924d-9cd76263cbd0,species,parviflorus,Lagenanthus,,Ewan,1952,"Mutisia 4: 5 1952",,,,,134805-2,wfo-0000222285,2916455,
-2e5d4144-8fcc-11eb-924d-9cd76263cbd0,species,princeps,Lagenanthus,,"(Lindl.) Gilg",1895,"Nat. Pflanzenfam. 4(2): 99 1895",,,,2e5fd314-8fcc-11eb-924d-9cd76263cbd0,134806-2,wfo-0000364760,3839525,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5820508-8fd1-11eb-924d-9cd76263cbd0,genus,Lagenanthus,,,Gilg,,1895,,"Nat. Pflanzenfam. 4(2): 99. 1895.",,,,,,16608-1,wfo-4000020428,7269821,,
+69238640-8fcb-11eb-924d-9cd76263cbd0,species,parviflorus,Lagenanthus,,Ewan,,1952,,"Mutisia 4: 5 1952",,,,,,134805-2,wfo-0000222285,2916455,,
+2e5d4144-8fcc-11eb-924d-9cd76263cbd0,species,princeps,Lagenanthus,,"(Lindl.) Gilg",,1895,,"Nat. Pflanzenfam. 4(2): 99 1895",,,,2e5fd314-8fcc-11eb-924d-9cd76263cbd0,,134806-2,wfo-0000364760,3839525,,

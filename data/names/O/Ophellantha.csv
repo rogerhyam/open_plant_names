@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e79456a2-8fd1-11eb-924d-9cd76263cbd0,genus,Ophellantha,,,Standl.,1924,"J. Wash. Acad. Sci. 14(4): 97. 1924.",,,,,312534-2,wfo-4000026922,3075026,
-eaba6fe8-8fcb-11eb-924d-9cd76263cbd0,species,spinosa,Ophellantha,,Standl.,1924,"J. Wash. Acad. Sci. 14: 98 1924",,,,,311248-2,wfo-0000256862,3075027,
-eabaa6f2-8fcb-11eb-924d-9cd76263cbd0,species,steyermarkii,Ophellantha,,Standl.,1944,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 123 1944",,,,,174565-2,wfo-0000256864,3075029,
-b12aaa30-8fd1-11eb-924d-9cd76263cbd0,species,sitularius,Ophelus,,Lour.,1790,"Fl. Cochinch. 412 1790",,,,,562647-1,wfo-0001226738,3933506,
-d4381192-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Ophiala,,"(L.) Desv.",1827,"Mém. Soc. Linn. Paris 6: 195 1827",,,,,17167180-1,wfo-0001124292,3659372,
-ca2111d2-8fd1-11eb-924d-9cd76263cbd0,species,libanensis,Ophianthe,,"(Linden ex C.Morren) Hanst.",1854,"Linnaea 26: 205, t. 1, f. 33 1854",,,,,381990-1,wfo-0001272877,3817968,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e79456a2-8fd1-11eb-924d-9cd76263cbd0,genus,Ophellantha,,,Standl.,,1924,,"J. Wash. Acad. Sci. 14(4): 97. 1924.",,Q96058147,,,,312534-2,wfo-4000026922,3075026,,
+eaba6fe8-8fcb-11eb-924d-9cd76263cbd0,species,spinosa,Ophellantha,,Standl.,,1924,,"J. Wash. Acad. Sci. 14: 98 1924",,Q96058147,,,,311248-2,wfo-0000256862,3075027,,
+eabaa6f2-8fcb-11eb-924d-9cd76263cbd0,species,steyermarkii,Ophellantha,,Standl.,,1944,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 123 1944",,,,,,174565-2,wfo-0000256864,3075029,,
+b12aaa30-8fd1-11eb-924d-9cd76263cbd0,species,sitularius,Ophelus,,Lour.,,1790,,"Fl. Cochinch. 412 1790",,,,,,562647-1,wfo-0001226738,3933506,,
+d4381192-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Ophiala,,"(L.) Desv.",,1827,,"Mém. Soc. Linn. Paris 6: 195 1827",,,,,,17167180-1,wfo-0001124292,3659372,,
+ca2111d2-8fd1-11eb-924d-9cd76263cbd0,species,libanensis,Ophianthe,,"(Linden ex C.Morren) Hanst.",,1854,,"Linnaea 26: 205, t. 1, f. 33 1854",,,,,,381990-1,wfo-0001272877,3817968,,

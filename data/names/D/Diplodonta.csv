@@ -1,10 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2db8626-8fd1-11eb-924d-9cd76263cbd0,genus,Diplodonta,,,H.Karst.,1857,"Linnaea 28: 439. 1857.",,,,,,wfo-4000011982,7273138,
-56d08094-8fbf-11eb-924d-9cd76263cbd0,species,setosa,Diplodonta,,H.Karst.,1857,"Linnaea 28: 439 1857",,,,,568317-1,wfo-0000159371,5601183,
-80cea7f0-8fcd-11eb-924d-9cd76263cbd0,species,polycarpa,Diplofatsia,,"(Hayata) Nakai",1924,"J. Arnold Arbor. 5: 18 1924",,,,8b05aa20-8fcd-11eb-924d-9cd76263cbd0,90390-1,wfo-0000944042,3039045,
-e3e96eca-8fcc-11eb-924d-9cd76263cbd0,species,otites,Diplogama,,Opiz,1852,"Seznam 38 1852",,,,,154088-1,wfo-0000650199,3817155,
-80cec37a-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Diplogastra,,"Welw. ex Rchb.f.",1865,"Flora 48: 183 1865",,,,,629976-1,wfo-0000944043,2813204,
-c07f2136-8fcd-11eb-924d-9cd76263cbd0,species,viscoides,Diplogenea,,Lindl.,1828,"Brand. Q. J. 122 1828",,,,,568318-1,wfo-0001081256,3868230,
-e3e991f2-8fcc-11eb-924d-9cd76263cbd0,species,auriculatum,Diploglossum,,"(Royle ex Wight) Meisn.",1838,"Pl. Vasc. Gen. 176 1838",,,,da367332-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000650200,3571334,
-e3e9ada4-8fcc-11eb-924d-9cd76263cbd0,species,jacquemontianum,Diploglossum,,"(Decne.) Meisn.",1838,"Pl. Vasc. Gen. 176 1838",,,,da6d14fa-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000650201,3571325,
-e3e9c834-8fcc-11eb-924d-9cd76263cbd0,species,roylei,Diploglossum,,"(Wight) Meisn.",1838,"Pl. Vasc. Gen. 176 1838",,,,,,wfo-0000650202,3571318,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2db8626-8fd1-11eb-924d-9cd76263cbd0,genus,Diplodonta,,,H.Karst.,,1857,,"Linnaea 28: 439. 1857.",,,,,,,wfo-4000011982,7273138,,
+56d08094-8fbf-11eb-924d-9cd76263cbd0,species,setosa,Diplodonta,,H.Karst.,,1857,,"Linnaea 28: 439 1857",,,,,,568317-1,wfo-0000159371,5601183,,

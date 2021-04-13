@@ -1,7 +1,10 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9dddf50-8fd1-11eb-924d-9cd76263cbd0,genus,Sachsia,,,Griseb.,,,,,,,30037957-2,wfo-4000033757,3115706,
-18293180-8fb3-11eb-924d-9cd76263cbd0,species,bahamensis,Sachsia,,Urb.,1903,"408 1903",,,,,225145-2,wfo-0000041445,5393809,
-51013208-8fba-11eb-924d-9cd76263cbd0,species,coronopifolia,Sachsia,,"(Griseb.) Anderb.",1991,"171 1991",,,,,1014640-2,wfo-0000125661,5704703,
-ff8efcfa-8fb1-11eb-924d-9cd76263cbd0,species,divaricata,Sachsia,,Griseb.,1866,"Cat. Pl. Cub. 151 (1866).",,,,,241876-1,wfo-0000002577,5393810,
-52108174-8fb2-11eb-924d-9cd76263cbd0,species,polycephala,Sachsia,,Griseb.,1866,"Cat. Pl. Cub. 151. 1866",,,,,225146-2,wfo-0000020415,3115707,
-d8f5aff6-8fb8-11eb-924d-9cd76263cbd0,species,tricephala,Sachsia,,Griseb.,1866,"151 1866",,,,,241878-1,wfo-0000113146,5393811,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9dddf50-8fd1-11eb-924d-9cd76263cbd0,genus,Sachsia,,,Griseb.,,1895,,"Mikroscop. Betriebs. Gähr. 153 (1895)",,,,e9dddf50-8fd1-11eb-924d-9cd76263cbd0,,30037957-2,wfo-4000033757,3115706,22336," "
+722c70da-9bab-11eb-a8a2-19ed5c03f8d3,species,albicans,Sachsia,,Bay,,,,,,,,722c70da-9bab-11eb-a8a2-19ed5c03f8d3,,,,,141169," "
+18293180-8fb3-11eb-924d-9cd76263cbd0,species,bahamensis,Sachsia,,Urb.,,1903,,"408 1903",,,,,,225145-2,wfo-0000041445,5393809,,
+51013208-8fba-11eb-924d-9cd76263cbd0,species,coronopifolia,Sachsia,,"(Griseb.) Anderb.",,1991,,"171 1991",,Q54802690,,,,1014640-2,wfo-0000125661,5704703,,
+b67686fc-9bad-11eb-a8a2-19ed5c03f8d3,species,cotia,Sachsia,,Peyronel,,,,,,,,b67686fc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,141494," "
+ff8efcfa-8fb1-11eb-924d-9cd76263cbd0,species,divaricata,Sachsia,,Griseb.,,1866,,"Cat. Pl. Cub. 151 (1866).",,,,,,241876-1,wfo-0000002577,5393810,,
+52108174-8fb2-11eb-924d-9cd76263cbd0,species,polycephala,Sachsia,,Griseb.,,1866,,"Cat. Pl. Cub. 151. 1866",,,,52108174-8fb2-11eb-924d-9cd76263cbd0,,225146-2,wfo-0000020415,3115707,454537," "
+f4b1bc7c-9bab-11eb-a8a2-19ed5c03f8d3,species,suaveolens,Sachsia,,"Lindner ex Lindner",,1906,,"Wochenschrift für Brauerei 21: 1 (1906)",,,,f4b1bc7c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,492349," "
+d8f5aff6-8fb8-11eb-924d-9cd76263cbd0,species,tricephala,Sachsia,,Griseb.,,1866,,"151 1866",,,,,,241878-1,wfo-0000113146,5393811,,

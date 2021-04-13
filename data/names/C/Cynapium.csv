@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e26023be-8fd1-11eb-924d-9cd76263cbd0,genus,Cynapium,,,"Nutt. ex Torr. & A.Gray",1840,"Fl. N. Amer. 1(4): 640–641. 1840.",,,,,,wfo-4000010396,7535374,
-dac59a76-8fcc-11eb-924d-9cd76263cbd0,species,apiifolium,Cynapium,,Nutt.,1840,"Fl. N. Amer. 1: 641 1840",,,,,,wfo-0000633760,8279907,
-dac5d3f6-8fcc-11eb-924d-9cd76263cbd0,species,bigelovii,Cynapium,,Torr.,1857,"Pacif. Railr. Rep. Parke, Bot. 4(5): 94 1857",,,,,840977-1,wfo-0000633762,5537590,
-dac5eea4-8fcc-11eb-924d-9cd76263cbd0,species,nudicaule,Cynapium,,Nutt.,1840,"Fl. N. Amer. 1: 641 1840",,,,,,wfo-0000633763,7950789,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e26023be-8fd1-11eb-924d-9cd76263cbd0,genus,Cynapium,,,"Nutt. ex Torr. & A.Gray",,1840,,"Fl. N. Amer. 1(4): 640–641. 1840.",,,,,,,wfo-4000010396,7535374,,
+dac59a76-8fcc-11eb-924d-9cd76263cbd0,species,apiifolium,Cynapium,,Nutt.,,1840,,"Fl. N. Amer. 1: 641 1840",,,,,,,wfo-0000633760,8279907,,
+dac5d3f6-8fcc-11eb-924d-9cd76263cbd0,species,bigelovii,Cynapium,,Torr.,,1857,,"Pacif. Railr. Rep. Parke, Bot. 4(5): 94 1857",,,,,,840977-1,wfo-0000633762,5537590,,
+dac5eea4-8fcc-11eb-924d-9cd76263cbd0,species,nudicaule,Cynapium,,Nutt.,,1840,,"Fl. N. Amer. 1: 641 1840",,,,,,,wfo-0000633763,7950789,,

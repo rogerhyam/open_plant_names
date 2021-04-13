@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e447051c-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnopentzia,,,Benth.,,,,,,,9152-1,wfo-4000016504,3103324,
-ebc8cb24-8fbb-11eb-924d-9cd76263cbd0,species,bifurcata,Gymnopentzia,,Benth.,1873,1873,,,,,,wfo-0000137637,3103325,
-f658afa0-8fb6-11eb-924d-9cd76263cbd0,species,pilifera,Gymnopentzia,,N.E.Br.,1895,"26 1895",,,,,211004-1,wfo-0000094990,3103327,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e447051c-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnopentzia,,,Benth.,,,,,,,,,,9152-1,wfo-4000016504,3103324,,
+ebc8cb24-8fbb-11eb-924d-9cd76263cbd0,species,bifurcata,Gymnopentzia,,Benth.,,1873,,1873,,,,,,,wfo-0000137637,3103325,,
+f658afa0-8fb6-11eb-924d-9cd76263cbd0,species,pilifera,Gymnopentzia,,N.E.Br.,,1895,,"26 1895",,Q55784043,,,,211004-1,wfo-0000094990,3103327,,

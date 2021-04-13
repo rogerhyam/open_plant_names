@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e262da46-8fd1-11eb-924d-9cd76263cbd0,genus,Cynorchis,,,,,,,,,,,wfo-4000010433,3651099,
-b74c6250-8fd1-11eb-924d-9cd76263cbd0,species,crassifolia,Cynorchis,,Schlachter,,,,,,,,wfo-0001238005,7781136,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e262da46-8fd1-11eb-924d-9cd76263cbd0,genus,Cynorchis,,,,,,,,,,,,,,wfo-4000010433,3651099,,
+b74c6250-8fd1-11eb-924d-9cd76263cbd0,species,crassifolia,Cynorchis,,Schlachter,,,,,,,,,,,wfo-0001238005,7781136,,

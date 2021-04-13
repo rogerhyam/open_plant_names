@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6d25b24-8fd1-11eb-924d-9cd76263cbd0,genus,Mohlana,,,,,,,,,,,wfo-4000024546,7309606,
-6d438972-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Mohlana,,Moq.,1849,"Prodr. 13(2): 15 1849",,,,,676308-1,wfo-0000452608,4192508,
-6d436dde-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Mohlana,,"(Lam.) Moq.",1849,"Prodr. 13(2): 16 1849",,,,,676309-1,wfo-0000452607,4192501,
-c52a15ce-8fcd-11eb-924d-9cd76263cbd0,species,meziana,Mohlana,,H.Walter,1906,"Bot. Jahrb. Syst. 37(Beibl. 85): 25 1906",,,,,162978-2,wfo-0001091550,4192485,
-c5303580-8fcd-11eb-924d-9cd76263cbd0,species,nemoralis,Mohlana,,Mart.,1829,"Nov. Gen. Sp. Pl. 3: 171 1829",,,,,676311-1,wfo-0001091603,4192481,
-6d434a2a-8fcc-11eb-924d-9cd76263cbd0,species,secunda,Mohlana,,"(Ruiz & Pav.) Mart.",1832,"Nov. Gen. Sp. Pl. Bras. 3: 172 1832",,,,,676312-1,wfo-0000452606,7309663,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6d25b24-8fd1-11eb-924d-9cd76263cbd0,genus,Mohlana,,,,,,,,,,,,,,wfo-4000024546,7309606,,
+6d438972-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Mohlana,,Moq.,,1849,,"Prodr. 13(2): 15 1849",,,,,,676308-1,wfo-0000452608,4192508,,
+6d436dde-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Mohlana,,"(Lam.) Moq.",,1849,,"Prodr. 13(2): 16 1849",,,,,,676309-1,wfo-0000452607,4192501,,
+c52a15ce-8fcd-11eb-924d-9cd76263cbd0,species,meziana,Mohlana,,H.Walter,,1906,,"Bot. Jahrb. Syst. 37(Beibl. 85): 25 1906",,,,,,162978-2,wfo-0001091550,4192485,,
+c5303580-8fcd-11eb-924d-9cd76263cbd0,species,nemoralis,Mohlana,,Mart.,,1829,,"Nov. Gen. Sp. Pl. 3: 171 1829",,,,,,676311-1,wfo-0001091603,4192481,,
+6d434a2a-8fcc-11eb-924d-9cd76263cbd0,species,secunda,Mohlana,,"(Ruiz & Pav.) Mart.",,1832,,"Nov. Gen. Sp. Pl. Bras. 3: 172 1832",,,,,,676312-1,wfo-0000452606,7309663,,

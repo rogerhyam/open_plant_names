@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0d13bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Bremekampia,,,Sreem.,1964,"Bull. Bot. Surv. India 6: 323. 1964[1965]. (15 Sept 1965)",,,,,,wfo-4000005388,7264170,
-b595f7be-8fcc-11eb-924d-9cd76263cbd0,species,nilgherrensis,Bremekampia,,"(Wight) Sreem.",1965,"Bull. Bot. Surv. India 6: 323 1965",,,,09adace8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000572147,7818845,
-1990afde-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Bremekampia,,"(Lour.) M.R.Almeida",2003,"Fl. Maharashtra 4A: 21 2003",,,,,77108240-1,wfo-0000746104,8405201,
-b59642c8-8fcc-11eb-924d-9cd76263cbd0,species,tentaculata,Bremekampia,,"(L.) Sreem.",1965,"Bull. Bot. Surv. India 6: 324 1965",,,,487f900e-8fcc-11eb-924d-9cd76263cbd0,46645-1,wfo-0000572148,3778511,
-19965e66-8fcd-11eb-924d-9cd76263cbd0,variety,plumosa,Bremekampia,tentaculata,"(T.Anderson) M.R.Almeida",2003,"Fl. Maharashtra 4A: 22 2003",,,,,77108241-1,wfo-0000746155,7428691,
-b5967216-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Bremekampia,,"(Roxb.) Sreem.",1965,"Bull. Bot. Surv. India 6: 323 1965",,,,,46646-1,wfo-0000572149,3778501,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0d13bd2-8fd1-11eb-924d-9cd76263cbd0,genus,Bremekampia,,,Sreem.,,1964,,"Bull. Bot. Surv. India 6: 323. 1964[1965]. (15 Sept 1965)",,,,,,,wfo-4000005388,7264170,,
+b595f7be-8fcc-11eb-924d-9cd76263cbd0,species,nilgherrensis,Bremekampia,,"(Wight) Sreem.",,1965,,"Bull. Bot. Surv. India 6: 323 1965",,,,09adace8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000572147,7818845,,
+1990afde-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Bremekampia,,"(Lour.) M.R.Almeida",,2003,,"Fl. Maharashtra 4A: 21 2003",,,,,,77108240-1,wfo-0000746104,8405201,,
+b59642c8-8fcc-11eb-924d-9cd76263cbd0,species,tentaculata,Bremekampia,,"(L.) Sreem.",,1965,,"Bull. Bot. Surv. India 6: 324 1965",,Q101080916,,487f900e-8fcc-11eb-924d-9cd76263cbd0,,46645-1,wfo-0000572148,3778511,,
+19965e66-8fcd-11eb-924d-9cd76263cbd0,variety,plumosa,Bremekampia,tentaculata,"(T.Anderson) M.R.Almeida",,2003,,"Fl. Maharashtra 4A: 22 2003",,,,,,77108241-1,wfo-0000746155,7428691,,
+b5967216-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Bremekampia,,"(Roxb.) Sreem.",,1965,,"Bull. Bot. Surv. India 6: 323 1965",,Q101080916,,,,46646-1,wfo-0000572149,3778501,,

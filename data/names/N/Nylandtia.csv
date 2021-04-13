@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7697626-8fd1-11eb-924d-9cd76263cbd0,genus,Nylandtia,,,Dumort.,1822,"Comment. Bot. 31. 1822.",,,,,32375-1,wfo-4000026417,7293306,
-b44ab764-8fd1-11eb-924d-9cd76263cbd0,species,scoparia,Nylandtia,,"(Eckl. & Zeyh.) Goldblatt & J.C.Manning",2000,"Strelitzia 9: 715 2000",,,,,1017461-1,wfo-0001232399,4049482,
-c959e778-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Nylandtia,,"(L.) Dumort.",1822,"Comment. Bot. 31 1822",,,,,,wfo-0001100573,7130212,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7697626-8fd1-11eb-924d-9cd76263cbd0,genus,Nylandtia,,,Dumort.,,1822,,"Comment. Bot. 31. 1822.",,,,,,32375-1,wfo-4000026417,7293306,,
+b44ab764-8fd1-11eb-924d-9cd76263cbd0,species,scoparia,Nylandtia,,"(Eckl. & Zeyh.) Goldblatt & J.C.Manning",,2000,,"Strelitzia 9: 715 2000",,,,,,1017461-1,wfo-0001232399,4049482,,
+c959e778-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Nylandtia,,"(L.) Dumort.",,1822,,"Comment. Bot. 31 1822",,,,,,,wfo-0001100573,7130212,,

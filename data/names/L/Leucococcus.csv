@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5dc5490-8fd1-11eb-924d-9cd76263cbd0,genus,Leucococcus,,,Liebm.,1851,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5, 2: 311. 1851.",,,,,,wfo-4000021518,7300961,
-692ea7ea-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Leucococcus,,Liebm.,1851,"Mexic. Neldeagt. Pl. V, 2: 311 1851",,,,,854374-1,wfo-0000445315,2984386,
-692e8166-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Leucococcus,,Liebm.,1851,"Mexic. Neldeagt. Pl. V, 2: 312 1851",,,,,854375-1,wfo-0000445314,4102676,
-692e6208-8fcc-11eb-924d-9cd76263cbd0,species,vimineus,Leucococcus,,Wedd.,1856,"Arch. Mus. Hist. Nat. 9: 104 1856",,,,,854376-1,wfo-0000445313,4102665,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5dc5490-8fd1-11eb-924d-9cd76263cbd0,genus,Leucococcus,,,Liebm.,,1851,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5, 2: 311. 1851.",,,,,,,wfo-4000021518,7300961,,
+692ea7ea-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Leucococcus,,Liebm.,,1851,,"Mexic. Neldeagt. Pl. V, 2: 311 1851",,,,,,854374-1,wfo-0000445315,2984386,,
+692e8166-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Leucococcus,,Liebm.,,1851,,"Mexic. Neldeagt. Pl. V, 2: 312 1851",,,,,,854375-1,wfo-0000445314,4102676,,
+692e6208-8fcc-11eb-924d-9cd76263cbd0,species,vimineus,Leucococcus,,Wedd.,,1856,,"Arch. Mus. Hist. Nat. 9: 104 1856",,,,,,854376-1,wfo-0000445313,4102665,,

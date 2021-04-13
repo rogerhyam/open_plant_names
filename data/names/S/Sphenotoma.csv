@@ -1,9 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea9d0f74-8fd1-11eb-924d-9cd76263cbd0,genus,Sphenotoma,,,"(R.Br.) Sweet",1828,"Fl. Australas. , t. 44. 1828. (1 Apr 1828)",,,,,,wfo-4000036057,7288498,
-88988b8c-8fcc-11eb-924d-9cd76263cbd0,species,capitatum,Sphenotoma,,Lindl.,,"Edwards's Bot. Reg. 18: t. 1515 1832",,,,,325616-1,wfo-0000499178,7816172,
-8898a950-8fcc-11eb-924d-9cd76263cbd0,species,dracophylloides,Sphenotoma,,Sond.,1845,"Pl. Preiss. 1: 335 1845",,,,,325617-1,wfo-0000499179,4010126,
-889a1bc8-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Sphenotoma,,F.Muell.,1882,"Syst. Census Austral. Pl. 109 1882",,,,,325618-1,wfo-0000499186,4010104,
-8898e370-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Sphenotoma,,Sweet,1828,"Fl. Australas. t. 44 1828",,,,,,wfo-0000499181,7421055,
-88983010-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Sphenotoma,,F.Muell.,1882,"Syst. Census Austral. Pl. 109 1882",,,,,325620-1,wfo-0000499175,7623680,
-8898ff72-8fcc-11eb-924d-9cd76263cbd0,species,squarrosa,Sphenotoma,,G.Don,1834,"Gen. Hist. 3: 785 1834",,,,,325621-1,wfo-0000499182,,
-ac69d75e-8fcd-11eb-924d-9cd76263cbd0,species,quadrifoliata,Spheroidia,,"(L.) Dulac",,,,,,,,wfo-0001035545,3913602,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea9d0f74-8fd1-11eb-924d-9cd76263cbd0,genus,Sphenotoma,,,"(R.Br.) Sweet",,1828,,"Fl. Australas. , t. 44. 1828. (1 Apr 1828)",,,,,,,wfo-4000036057,7288498,,
+88988b8c-8fcc-11eb-924d-9cd76263cbd0,species,capitatum,Sphenotoma,,Lindl.,,,,"Edwards's Bot. Reg. 18: t. 1515 1832",,,,,,325616-1,wfo-0000499178,7816172,,
+8898a950-8fcc-11eb-924d-9cd76263cbd0,species,dracophylloides,Sphenotoma,,Sond.,,1845,,"Pl. Preiss. 1: 335 1845",,,,,,325617-1,wfo-0000499179,4010126,,
+889a1bc8-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Sphenotoma,,F.Muell.,,1882,,"Syst. Census Austral. Pl. 109 1882",,,,,,325618-1,wfo-0000499186,4010104,,
+8898e370-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Sphenotoma,,Sweet,,1828,,"Fl. Australas. t. 44 1828",,,,,,,wfo-0000499181,7421055,,
+88983010-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Sphenotoma,,F.Muell.,,1882,,"Syst. Census Austral. Pl. 109 1882",,,,,,325620-1,wfo-0000499175,7623680,,
+8898ff72-8fcc-11eb-924d-9cd76263cbd0,species,squarrosa,Sphenotoma,,G.Don,,1834,,"Gen. Hist. 3: 785 1834",,,,,,325621-1,wfo-0000499182,,,

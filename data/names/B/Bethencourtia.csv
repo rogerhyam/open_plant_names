@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e036983e-8fd1-11eb-924d-9cd76263cbd0,genus,Bethencourtia,,,Choisy,,,,,,,7908-1,wfo-4000004544,3142329,
-53be0726-8fb2-11eb-924d-9cd76263cbd0,species,hennosae,Bethencourtia,,"(Pit.) G.Kunkel",1975,"Cuad. Bot. Canaria 25: 28 (1975)",,,,,,wfo-0000020672,3142335,
-10f14fde-8fbc-11eb-924d-9cd76263cbd0,species,hermosae,Bethencourtia,,"(Pit.) G.Kunkel",1975,"Cuad. Bot. Canaria (1975) 25 28 1975",,,,6c7a4e10-8fb6-11eb-924d-9cd76263cbd0,184681-1,wfo-0000138624,3142332,
-c83cfa24-8fb4-11eb-924d-9cd76263cbd0,species,palmensis,Bethencourtia,,Choisy,1828,"Phys. Beschr. Canar. Ins.: 148 (1828)",,,,,,wfo-0000069783,,
-ee67c77e-8fb9-11eb-924d-9cd76263cbd0,species,palmensis,Bethencourtia,,"(Nees) Choisy ex Link",1825,"Phys. Beschr. Canar. Ins. 148. 1825",,,,376af4a0-8fba-11eb-924d-9cd76263cbd0,,wfo-0000122566,,
-1c2ba888-8fb5-11eb-924d-9cd76263cbd0,species,rupicola,Bethencourtia,,"(B.Nord.) B.Nord.",2006,"709 2006",,,,406f2124-8fb6-11eb-924d-9cd76263cbd0,77075542-1,wfo-0000074012,3142330,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e036983e-8fd1-11eb-924d-9cd76263cbd0,genus,Bethencourtia,,,Choisy,,,,,,,,,,7908-1,wfo-4000004544,3142329,,
+53be0726-8fb2-11eb-924d-9cd76263cbd0,species,hennosae,Bethencourtia,,"(Pit.) G.Kunkel",,1975,,"Cuad. Bot. Canaria 25: 28 (1975)",,,,,,,wfo-0000020672,3142335,,
+10f14fde-8fbc-11eb-924d-9cd76263cbd0,species,hermosae,Bethencourtia,,"(Pit.) G.Kunkel",,1975,,"Cuad. Bot. Canaria (1975) 25 28 1975",,,,6c7a4e10-8fb6-11eb-924d-9cd76263cbd0,,184681-1,wfo-0000138624,3142332,,
+c83cfa24-8fb4-11eb-924d-9cd76263cbd0,species,palmensis,Bethencourtia,,Choisy,,1828,,"Phys. Beschr. Canar. Ins.: 148 (1828)",,,,,,,wfo-0000069783,,,
+ee67c77e-8fb9-11eb-924d-9cd76263cbd0,species,palmensis,Bethencourtia,,"(Nees) Choisy ex Link",,1825,,"Phys. Beschr. Canar. Ins. 148. 1825",,,,376af4a0-8fba-11eb-924d-9cd76263cbd0,,,wfo-0000122566,,,
+1c2ba888-8fb5-11eb-924d-9cd76263cbd0,species,rupicola,Bethencourtia,,"(B.Nord.) B.Nord.",,2006,,"709 2006",,Q54635474,,406f2124-8fb6-11eb-924d-9cd76263cbd0,,77075542-1,wfo-0000074012,3142330,,

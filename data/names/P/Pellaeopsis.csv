@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e81b5bca-8fd1-11eb-924d-9cd76263cbd0,genus,Pellaeopsis,,,J.Sm.,1875,"Hist. Fil. 289. 1875.",,,,,,wfo-4000028473,7335306,
-b36c7350-8fbd-11eb-924d-9cd76263cbd0,species,articulata,Pellaeopsis,,J.Sm.,1875,"Hist. Fil. 290. 1875 1875",,,,,17171900-1,wfo-0000149507,3746900,
-b3a7128a-8fbd-11eb-924d-9cd76263cbd0,species,burkeana,Pellaeopsis,,J.Sm.,1875,"Hist. Fil. 290. 1875 1875",,,,,17171910-1,wfo-0000149513,3749085,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e81b5bca-8fd1-11eb-924d-9cd76263cbd0,genus,Pellaeopsis,,,J.Sm.,,1875,,"Hist. Fil. 289. 1875.",,,,,,,wfo-4000028473,7335306,,
+b36c7350-8fbd-11eb-924d-9cd76263cbd0,species,articulata,Pellaeopsis,,J.Sm.,,1875,,"Hist. Fil. 290. 1875 1875",,,,,,17171900-1,wfo-0000149507,3746900,,
+b3a7128a-8fbd-11eb-924d-9cd76263cbd0,species,burkeana,Pellaeopsis,,J.Sm.,,1875,,"Hist. Fil. 290. 1875 1875",,,,,,17171910-1,wfo-0000149513,3749085,,

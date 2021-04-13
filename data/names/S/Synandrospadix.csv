@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb0268c4-8fd1-11eb-924d-9cd76263cbd0,genus,Synandrospadix,,,Engl.,1883,"Bot. Jahrb. Syst. 4: 61. 1883.",,,,,2928-1,wfo-4000037256,2871865,
-11a75bde-8fcc-11eb-924d-9cd76263cbd0,species,vermitoxicus,Synandrospadix,,"(Griseb.) Engl.",1883,"Bot. Jahrb. Syst. 4: 62 1883",,,,,89122-1,wfo-0000317986,2871866,
-11a782e4-8fcc-11eb-924d-9cd76263cbd0,species,sylvatica,Synantherias,,"(Roxb.) Schott",1858,"Gen. Aroid. t. 28 1858",,,,,89123-1,wfo-0000317987,2871398,
-11a7e996-8fcc-11eb-924d-9cd76263cbd0,species,bertonii,Synanthes,,"Burns-Bal., H.Rob. & Merc.S.Foster",1985,"Brittonia 37: 159 1985",,,,,313195-2,wfo-0000317988,2837071,
-11a82424-8fcc-11eb-924d-9cd76263cbd0,species,borealis,Synanthes,,"(A.H.Heller) Burns-Bal., H.Rob. & Merc.S.Foster",1985,"Brittonia 37: 160 1985",,,,8a66ad08-8fcd-11eb-924d-9cd76263cbd0,915539-1,wfo-0000317989,2837091,
-6813df5a-8fcd-11eb-924d-9cd76263cbd0,species,rigida,Synaphe,,"(L.) Dulac",1867,"Fl. Hautes -Pyrénées 90 1867",,,,,424005-1,wfo-0000903261,5675675,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb0268c4-8fd1-11eb-924d-9cd76263cbd0,genus,Synandrospadix,,,Engl.,,1883,,"Bot. Jahrb. Syst. 4: 61. 1883.",,,,,,2928-1,wfo-4000037256,2871865,,
+11a75bde-8fcc-11eb-924d-9cd76263cbd0,species,vermitoxicus,Synandrospadix,,"(Griseb.) Engl.",,1883,,"Bot. Jahrb. Syst. 4: 62 1883",,,,,,89122-1,wfo-0000317986,2871866,,
+11a782e4-8fcc-11eb-924d-9cd76263cbd0,species,sylvatica,Synantherias,,"(Roxb.) Schott",,1858,,"Gen. Aroid. t. 28 1858",,,,,,89123-1,wfo-0000317987,2871398,,
+11a7e996-8fcc-11eb-924d-9cd76263cbd0,species,bertonii,Synanthes,,"Burns-Bal., H.Rob. & Merc.S.Foster",,1985,,"Brittonia 37: 159 1985",,Q55769263,,,,313195-2,wfo-0000317988,2837071,,
+11a82424-8fcc-11eb-924d-9cd76263cbd0,species,borealis,Synanthes,,"(A.H.Heller) Burns-Bal., H.Rob. & Merc.S.Foster",,1985,,"Brittonia 37: 160 1985",,Q55769263,,8a66ad08-8fcd-11eb-924d-9cd76263cbd0,,915539-1,wfo-0000317989,2837091,,
+6813df5a-8fcd-11eb-924d-9cd76263cbd0,species,rigida,Synaphe,,"(L.) Dulac",,1867,,"Fl. Hautes -Pyrénées 90 1867",,,,,,424005-1,wfo-0000903261,5675675,,

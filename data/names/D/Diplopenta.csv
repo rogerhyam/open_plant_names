@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ddeb8c-8fd1-11eb-924d-9cd76263cbd0,genus,Diplopenta,,,Alef.,1863,"Oesterr. Bot. Z. 13: 10. 1863.",,,,,,wfo-4000012011,7278994,
-e3fc530a-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpa,Diplopenta,,Alef.,1863,"Oesterr. Bot. Z. 13: 11 1863",,,,,1155482-2,wfo-0000650328,3936046,
-e3fc7a06-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Diplopenta,,Alef.,1863,"Oesterr. Bot. Z. 13: 11 1863",,,,,559503-1,wfo-0000650329,3936040,
-e3fca8b4-8fcc-11eb-924d-9cd76263cbd0,species,pedunculosa,Diplopenta,,Alef.,1863,"Oesterr. Bot. Z. 13: 11 1863",,,,,559504-1,wfo-0000650330,3936034,
-e3fccc2c-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Diplopetalon,,"(Labill.) Spreng.",1827,"Syst. Veg. 4(2): 150 1827",,,,8493d1b8-8fcc-11eb-924d-9cd76263cbd0,782819-1,wfo-0000650331,3786896,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ddeb8c-8fd1-11eb-924d-9cd76263cbd0,genus,Diplopenta,,,Alef.,,1863,,"Oesterr. Bot. Z. 13: 10. 1863.",,,,,,,wfo-4000012011,7278994,,
+e3fc530a-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpa,Diplopenta,,Alef.,,1863,,"Oesterr. Bot. Z. 13: 11 1863",,Q101099025,,,,1155482-2,wfo-0000650328,3936046,,
+e3fc7a06-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Diplopenta,,Alef.,,1863,,"Oesterr. Bot. Z. 13: 11 1863",,Q101099025,,,,559503-1,wfo-0000650329,3936040,,
+e3fca8b4-8fcc-11eb-924d-9cd76263cbd0,species,pedunculosa,Diplopenta,,Alef.,,1863,,"Oesterr. Bot. Z. 13: 11 1863",,Q101099025,,,,559504-1,wfo-0000650330,3936034,,
+e3fccc2c-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Diplopetalon,,"(Labill.) Spreng.",,1827,,"Syst. Veg. 4(2): 150 1827",,,,8493d1b8-8fcc-11eb-924d-9cd76263cbd0,,782819-1,wfo-0000650331,3786896,,

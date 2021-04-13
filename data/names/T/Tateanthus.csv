@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb1ec9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Tateanthus,,,Gleason,1931,"Bull. Torrey Bot. Club 58: 424. 1931.",,,,,297158-2,wfo-4000037611,3866246,
-c0e2a0d0-8fcd-11eb-924d-9cd76263cbd0,species,duidae,Tateanthus,,Gleason,1931,"Bull. Torrey Bot. Club 58: 424, pl. 34 1931",,,,,249668-2,wfo-0001082133,3866245,
-7aba1df4-8fcd-11eb-924d-9cd76263cbd0,species,tatewakii,,,Kimura,1937,"Sci. Rep. Tohoku Imp. Univ., Ser. 4, Biol. 12: 311 1937",,,,,779242-1,wfo-0000930441,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb1ec9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Tateanthus,,,Gleason,,1931,,"Bull. Torrey Bot. Club 58: 424. 1931.",,Q55767238,,,,297158-2,wfo-4000037611,3866246,,
+c0e2a0d0-8fcd-11eb-924d-9cd76263cbd0,species,duidae,Tateanthus,,Gleason,,1931,,"Bull. Torrey Bot. Club 58: 424, pl. 34 1931",,Q55767238,,,,249668-2,wfo-0001082133,3866245,,
+7aba1df4-8fcd-11eb-924d-9cd76263cbd0,species,tatewakii,,,Kimura,,1937,,"Sci. Rep. Tohoku Imp. Univ., Ser. 4, Biol. 12: 311 1937",,,,,,779242-1,wfo-0000930441,,,

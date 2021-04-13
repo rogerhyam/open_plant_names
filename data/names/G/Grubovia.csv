@@ -1,4 +1,2 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec577de0-8fd1-11eb-924d-9cd76263cbd0,genus,Grubovia,,,"Freitag & G.Kadereit",2011,"Taxon 60: 72 (2011)",,,,,77110316-1,wfo-4001303232,5835762,
-7ae83d60-8fcd-11eb-924d-9cd76263cbd0,species,amygdaloides,Gruenera,,Opiz,1852,"Seznam 48 1852",,,,,776535-1,wfo-0000930852,3804224,
-2fb6e082-8fb2-11eb-924d-9cd76263cbd0,species,gruetteriana,,,"(Asch.) P.D.Sell",2006,"Fl. Great Britain & Ireland 4: 556 2006",,,,,77072768-1,wfo-0000015066,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec577de0-8fd1-11eb-924d-9cd76263cbd0,genus,Grubovia,,,"Freitag & G.Kadereit",,2011,,"Taxon 60: 72 (2011)",,,,,,77110316-1,wfo-4001303232,5835762,,

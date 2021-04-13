@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4580c22-8fd1-11eb-924d-9cd76263cbd0,genus,Hagsatera,,,R.González,1974,"Orquídea (Mexico City), n.s. 3(11): 343–343. 1974.",,,,,29623-1,wfo-4000016709,2819162,
-91242724-8fcd-11eb-924d-9cd76263cbd0,species,brachycolumna,Hagsatera,,"(L.O.Williams) R.González",1974,"Orquídea (Mexico City) n.s., 3: 345 1974",,,,834d3258-8fcd-11eb-924d-9cd76263cbd0,116897-2,wfo-0000979041,2819164,
-9124433a-8fcd-11eb-924d-9cd76263cbd0,species,rosilloi,Hagsatera,,R.González,1974,"Orquídea (Mexico City) n.s., 3: 345 1974",,,,,116898-2,wfo-0000979042,2819163,
-ec2e5696-8fcb-11eb-924d-9cd76263cbd0,species,hahnei,,,Höppner,1916,"Abh. Vereins Naturwiss. Erforsch. Niederrheins 2: 55 1916",,,,,648265-1,wfo-0000258801,,
-7d57190e-8fcd-11eb-924d-9cd76263cbd0,species,hahnei,,,"(Höppner) Peitz",1972,"Jahresber. Naturwiss. Vereins Wuppertal 25: 190 1972",,,,,941849-1,wfo-0000936368,,
-7d5aa4f2-8fcd-11eb-924d-9cd76263cbd0,species,hahnei,,,"(Höppner) Soó",1966,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 318 1966",,,,,626520-1,wfo-0000936400,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4580c22-8fd1-11eb-924d-9cd76263cbd0,genus,Hagsatera,,,R.González,,1974,,"Orquídea (Mexico City), n.s. 3(11): 343–343. 1974.",,,,,,29623-1,wfo-4000016709,2819162,,
+91242724-8fcd-11eb-924d-9cd76263cbd0,species,brachycolumna,Hagsatera,,"(L.O.Williams) R.González",,1974,,"Orquídea (Mexico City) n.s., 3: 345 1974",,,,834d3258-8fcd-11eb-924d-9cd76263cbd0,,116897-2,wfo-0000979041,2819164,,
+9124433a-8fcd-11eb-924d-9cd76263cbd0,species,rosilloi,Hagsatera,,R.González,,1974,,"Orquídea (Mexico City) n.s., 3: 345 1974",,,,,,116898-2,wfo-0000979042,2819163,,
+ec2e5696-8fcb-11eb-924d-9cd76263cbd0,species,hahnei,,,Höppner,,1916,,"Abh. Vereins Naturwiss. Erforsch. Niederrheins 2: 55 1916",,,,,,648265-1,wfo-0000258801,,,
+7d57190e-8fcd-11eb-924d-9cd76263cbd0,species,hahnei,,,"(Höppner) Peitz",,1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 190 1972",,,,,,941849-1,wfo-0000936368,,,
+7d5aa4f2-8fcd-11eb-924d-9cd76263cbd0,species,hahnei,,,"(Höppner) Soó",,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 318 1966",,,,,,626520-1,wfo-0000936400,,,

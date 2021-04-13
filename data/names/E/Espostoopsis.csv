@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3834a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Espostoopsis,,,Buxb.,1968,"Kakteen 38–39: C V a. 1968.",,,,,295143-2,wfo-4000014053,7284754,
-f5dad81c-8fcc-11eb-924d-9cd76263cbd0,species,dybowskii,Espostoopsis,,"(Rol.-Goss.) Buxb.",1968,"Kakteen 38-39, Gen. CVa 1968",,,,c5011a76-8fcc-11eb-924d-9cd76263cbd0,97843-2,wfo-0000680897,3960682,
-41f3a8aa-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Esquirolia,,H.Lév.,1912,"Repert. Spec. Nov. Regni Veg. 10: 441 1912",,,,,608833-1,wfo-0000832029,3683707,
-ac9bdd90-8fd1-11eb-924d-9cd76263cbd0,species,violifolia,Esquiroliella,,"(H.Lév.) H.Lév.",1916,"Monde Pl. Rev. Mens. 18(2): 103 1916",,,,,,wfo-0001218382,8326721,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3834a3c-8fd1-11eb-924d-9cd76263cbd0,genus,Espostoopsis,,,Buxb.,,1968,,"Kakteen 38–39: C V a. 1968.",,,,,,295143-2,wfo-4000014053,7284754,,
+f5dad81c-8fcc-11eb-924d-9cd76263cbd0,species,dybowskii,Espostoopsis,,"(Rol.-Goss.) Buxb.",,1968,,"Kakteen 38-39, Gen. CVa 1968",,,,c5011a76-8fcc-11eb-924d-9cd76263cbd0,,97843-2,wfo-0000680897,3960682,,
+41f3a8aa-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Esquirolia,,H.Lév.,,1912,,"Repert. Spec. Nov. Regni Veg. 10: 441 1912",,Q55752696,,,,608833-1,wfo-0000832029,3683707,,
+ac9bdd90-8fd1-11eb-924d-9cd76263cbd0,species,violifolia,Esquiroliella,,"(H.Lév.) H.Lév.",,1916,,"Monde Pl. Rev. Mens. 18(2): 103 1916",,,,,,,wfo-0001218382,8326721,,

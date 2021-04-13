@@ -1,3 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d10d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Holttumia,,,,,,,,,,,wfo-4000018125,7335534,
-ac7c9cae-8fcd-11eb-924d-9cd76263cbd0,species,flabellivenia,Holttumia,,"(Baker) Copel.",1941,"Philipp. J. Sci. 74: 153 1941",,,,,17398530-1,wfo-0001035704,5566434,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d10d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Holttumia,,,Lloyd,,,,"Mycol. Writ. 7: 1285 (1924)",,,,e4d10d3e-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000018125,7335534,2352," "
+d779bb86-9bac-11eb-a8a2-19ed5c03f8d3,species,congregata,Holttumia,,Lloyd,,,,"Mycol. Writ. 7: 1285 (1924)",,,,d779bb86-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261714," "
+ac7c9cae-8fcd-11eb-924d-9cd76263cbd0,species,flabellivenia,Holttumia,,"(Baker) Copel.",,1941,,"Philipp. J. Sci. 74: 153 1941",,,,,,17398530-1,wfo-0001035704,5566434,,

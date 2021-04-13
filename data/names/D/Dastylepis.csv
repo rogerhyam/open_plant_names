@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e27f3e0c-8fd1-11eb-924d-9cd76263cbd0,genus,Dastylepis,,,,,,,,,,,wfo-4000010805,7324439,
-d7b5576c-8fbe-11eb-924d-9cd76263cbd0,species,brownei,Dastylepis,,Raf.,1838,"Fl. Tellur. 4: 125 1838 [1836 publ. mid-1838]",,,,,267740-1,wfo-0000156383,3681150,
-22b63f3e-8fcd-11eb-924d-9cd76263cbd0,species,luteus,Dasurus,,"(L.) Salisb.",1866,"Gen. Pl. 51 1866",,,,,533711-1,wfo-0000765037,5295827,
-7e1568c8-8fcd-11eb-924d-9cd76263cbd0,species,verticillatus,Dasus,,Lour.,1790,"Fl. Cochinch. 141 1790",,,,,748180-1,wfo-0000937901,5337254,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e27f3e0c-8fd1-11eb-924d-9cd76263cbd0,genus,Dastylepis,,,,,,,,,,,,,,wfo-4000010805,7324439,,
+d7b5576c-8fbe-11eb-924d-9cd76263cbd0,species,brownei,Dastylepis,,Raf.,,1838,,"Fl. Tellur. 4: 125 1838 [1836 publ. mid-1838]",,,,,,267740-1,wfo-0000156383,3681150,,
+22b63f3e-8fcd-11eb-924d-9cd76263cbd0,species,luteus,Dasurus,,"(L.) Salisb.",,1866,,"Gen. Pl. 51 1866",,,,,,533711-1,wfo-0000765037,5295827,,
+7e1568c8-8fcd-11eb-924d-9cd76263cbd0,species,verticillatus,Dasus,,Lour.,,1790,,"Fl. Cochinch. 141 1790",,,,,,748180-1,wfo-0000937901,5337254,,

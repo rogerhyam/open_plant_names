@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e322371a-8fd1-11eb-924d-9cd76263cbd0,genus,Ebenopsis,,,"Britton & Rose",,,,,,,22328-1,wfo-4000012859,2976476,
-3a2293b0-8fc4-11eb-924d-9cd76263cbd0,species,caesalpinioides,Ebenopsis,,"(Standl.) Britton & Rose",,,,,,d856c7da-8fc0-11eb-924d-9cd76263cbd0,,wfo-0000187076,2976496,
-c6c6c9c0-8fc5-11eb-924d-9cd76263cbd0,species,confinis,Ebenopsis,,"(Standl.) Barneby & J.W.Grimes",,,,,,aa8900d2-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000194818,2976477,
-b28b6cec-8fcd-11eb-924d-9cd76263cbd0,species,confinis,Ebenopsis,,"(Standl.) Britton & Rose",1928,"N. Amer. Fl. 23(1): 33 1928",,,,aa8900d2-8fcc-11eb-924d-9cd76263cbd0,86535-2,wfo-0001049512,7691015,
-af6ef7d4-8fc5-11eb-924d-9cd76263cbd0,species,ebano,Ebenopsis,,"(Berland.) Barneby & J.W.Grimes",,,,,,71d5c7f2-8fc2-11eb-924d-9cd76263cbd0,,wfo-0000194309,2976481,
-3a16a0be-8fc4-11eb-924d-9cd76263cbd0,species,flexicaulis,Ebenopsis,,"(Benth.) Britton & Rose",,,,,,71e0f6d6-8fc2-11eb-924d-9cd76263cbd0,,wfo-0000187075,2976490,
-e949e34a-8fcc-11eb-924d-9cd76263cbd0,species,verum,Ebenoxylum,,Lour.,1790,"Fl. Cochinch. 613 1790",,,,,323217-1,wfo-0000658914,4070048,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e322371a-8fd1-11eb-924d-9cd76263cbd0,genus,Ebenopsis,,,"Britton & Rose",,,,,,,,,,22328-1,wfo-4000012859,2976476,,
+3a2293b0-8fc4-11eb-924d-9cd76263cbd0,species,caesalpinioides,Ebenopsis,,"(Standl.) Britton & Rose",,,,,,,,d856c7da-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000187076,2976496,,
+c6c6c9c0-8fc5-11eb-924d-9cd76263cbd0,species,confinis,Ebenopsis,,"(Standl.) Barneby & J.W.Grimes",,,,,,,,aa8900d2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000194818,2976477,,
+b28b6cec-8fcd-11eb-924d-9cd76263cbd0,species,confinis,Ebenopsis,,"(Standl.) Britton & Rose",,1928,,"N. Amer. Fl. 23(1): 33 1928",,,,aa8900d2-8fcc-11eb-924d-9cd76263cbd0,,86535-2,wfo-0001049512,7691015,,
+af6ef7d4-8fc5-11eb-924d-9cd76263cbd0,species,ebano,Ebenopsis,,"(Berland.) Barneby & J.W.Grimes",,,,,,,,71d5c7f2-8fc2-11eb-924d-9cd76263cbd0,,,wfo-0000194309,2976481,,
+3a16a0be-8fc4-11eb-924d-9cd76263cbd0,species,flexicaulis,Ebenopsis,,"(Benth.) Britton & Rose",,,,,,,,71e0f6d6-8fc2-11eb-924d-9cd76263cbd0,,,wfo-0000187075,2976490,,
+e949e34a-8fcc-11eb-924d-9cd76263cbd0,species,verum,Ebenoxylum,,Lour.,,1790,,"Fl. Cochinch. 613 1790",,,,,,323217-1,wfo-0000658914,4070048,,

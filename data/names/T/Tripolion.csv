@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eba27d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Tripolion,,,,,,,,,,,wfo-4000039306,7336106,
-be1fb058-8fb5-11eb-924d-9cd76263cbd0,species,maritimum,Tripolion,,Raf.,1836,"Fl. Tellur. ii. 46 (1836).",,,,,256543-1,wfo-0000081632,4209762,
-10ee3d06-8fb4-11eb-924d-9cd76263cbd0,species,tataricum,Tripolion,,Raf.,1836,"Fl. Tellur. ii. 46 (1836).",,,,,256544-1,wfo-0000059404,4209755,
-c3e7fbda-8fb5-11eb-924d-9cd76263cbd0,species,tenellum,Tripolion,,Raf.,1836,"Fl. Tellur. ii. 46 (1836).",,,,,256545-1,wfo-0000081896,4209748,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eba27d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Tripolion,,,,,,,,,,,,,,wfo-4000039306,7336106,,
+be1fb058-8fb5-11eb-924d-9cd76263cbd0,species,maritimum,Tripolion,,Raf.,,1836,,"Fl. Tellur. ii. 46 (1836).",,,,,,256543-1,wfo-0000081632,4209762,,
+10ee3d06-8fb4-11eb-924d-9cd76263cbd0,species,tataricum,Tripolion,,Raf.,,1836,,"Fl. Tellur. ii. 46 (1836).",,,,,,256544-1,wfo-0000059404,4209755,,
+c3e7fbda-8fb5-11eb-924d-9cd76263cbd0,species,tenellum,Tripolion,,Raf.,,1836,,"Fl. Tellur. ii. 46 (1836).",,,,,,256545-1,wfo-0000081896,4209748,,

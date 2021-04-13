@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7701454-8fd1-11eb-924d-9cd76263cbd0,genus,Ochreinauclea,,,"Ridsdale & Bakh.f.",1978,"Blumea 24: 331–332. 1978.",,,,,35011-1,wfo-4000026486,4938069,
-e89221a2-8fcb-11eb-924d-9cd76263cbd0,species,maingayi,Ochreinauclea,,"(Hook.f.) Ridsdale",1978,"Blumea 24: 332 1978",,,,,757659-1,wfo-0000253089,2901961,
-e8923c28-8fcb-11eb-924d-9cd76263cbd0,species,missionis,Ochreinauclea,,"(Wall. ex G.Don) Ridsdale",1978,"Blumea 24: 332 1978",,,,,757660-1,wfo-0000253090,2901956,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7701454-8fd1-11eb-924d-9cd76263cbd0,genus,Ochreinauclea,,,"Ridsdale & Bakh.f.",,1978,,"Blumea 24: 331–332. 1978.",,Q96027383,,,,35011-1,wfo-4000026486,4938069,,
+e89221a2-8fcb-11eb-924d-9cd76263cbd0,species,maingayi,Ochreinauclea,,"(Hook.f.) Ridsdale",,1978,,"Blumea 24: 332 1978",,Q96027383,,,,757659-1,wfo-0000253089,2901961,,
+e8923c28-8fcb-11eb-924d-9cd76263cbd0,species,missionis,Ochreinauclea,,"(Wall. ex G.Don) Ridsdale",,1978,,"Blumea 24: 332 1978",,Q96027383,,,,757660-1,wfo-0000253090,2901956,,

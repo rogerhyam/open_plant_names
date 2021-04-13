@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a4c500-8fd1-11eb-924d-9cd76263cbd0,genus,Oreoseris,,,DC.,,,,,,,10301-1,wfo-4000027116,7338970,
-0a02c19e-8fb2-11eb-924d-9cd76263cbd0,species,lanuginosa,Oreoseris,,DC.,1838,"17 1838",,,,,235562-1,wfo-0000006911,3097420,
-c98086d2-8fb7-11eb-924d-9cd76263cbd0,variety,pusilla,Oreoseris,lanuginosa,"Wall. ex DC.",1838,"Prodromus Systematis Naturalis Regni Vegetabilis 7: 118 1838",,,,,,wfo-0000103145,7939871,
-d6320b8a-8fb2-11eb-924d-9cd76263cbd0,species,nivea,Oreoseris,,DC.,1838,"Prodr. (DC.) 7(1): 18 1838",,,,,235563-1,wfo-0000035680,3097379,
-3ef2cce8-8fb5-11eb-924d-9cd76263cbd0,species,ovalifolia,Oreoseris,,Wall.,,"Numer. List [Wallich] n. 2930",,,,,,wfo-0000075712,4254473,
-5a73a06a-8fb4-11eb-924d-9cd76263cbd0,species,pusilla,Oreoseris,,"Wall. ex DC.",1838,"Prodr. (DC.) 7(1): 17 1838",,,,,235565-1,wfo-0000063774,4254467,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a4c500-8fd1-11eb-924d-9cd76263cbd0,genus,Oreoseris,,,DC.,,,,,,,,,,10301-1,wfo-4000027116,7338970,,
+0a02c19e-8fb2-11eb-924d-9cd76263cbd0,species,lanuginosa,Oreoseris,,DC.,,1838,,"17 1838",,,,,,235562-1,wfo-0000006911,3097420,,
+c98086d2-8fb7-11eb-924d-9cd76263cbd0,variety,pusilla,Oreoseris,lanuginosa,"Wall. ex DC.",,1838,,"Prodromus Systematis Naturalis Regni Vegetabilis 7: 118 1838",,,,,,,wfo-0000103145,7939871,,
+d6320b8a-8fb2-11eb-924d-9cd76263cbd0,species,nivea,Oreoseris,,DC.,,1838,,"Prodr. (DC.) 7(1): 18 1838",,,,,,235563-1,wfo-0000035680,3097379,,
+3ef2cce8-8fb5-11eb-924d-9cd76263cbd0,species,ovalifolia,Oreoseris,,Wall.,,,,"Numer. List [Wallich] n. 2930",,,,,,,wfo-0000075712,4254473,,
+5a73a06a-8fb4-11eb-924d-9cd76263cbd0,species,pusilla,Oreoseris,,"Wall. ex DC.",,1838,,"Prodr. (DC.) 7(1): 17 1838",,,,,,235565-1,wfo-0000063774,4254467,,

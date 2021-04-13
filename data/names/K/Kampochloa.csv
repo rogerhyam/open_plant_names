@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54f71ce-8fd1-11eb-924d-9cd76263cbd0,genus,Kampochloa,,,Clayton,1967,"Kew Bull. 21: 103. 1967.",,,,,18303-1,wfo-4000019818,4140595,
-56717960-8fcd-11eb-924d-9cd76263cbd0,species,brachyphylla,Kampochloa,,Clayton,1967,"Kew Bull. 21: 103 1967",,,,,406392-1,wfo-0000876612,4140594,
-0a4354ac-8fcb-11eb-924d-9cd76263cbd0,species,albens,Kamptzia,,"(A.Cunn. ex DC.) Nees",1840,"Kamptziae 6 1840",,,,1847b6b4-8fcc-11eb-924d-9cd76263cbd0,51356-3,wfo-0000220598,3185937,
-46aaf1ce-8fcc-11eb-924d-9cd76263cbd0,species,kamtschadalorum,,,Halda,2002,"Acta Mus. Richnov., Sect. Nat. 9: 70 2002",,,,,60437729-2,wfo-0000398695,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54f71ce-8fd1-11eb-924d-9cd76263cbd0,genus,Kampochloa,,,Clayton,,1967,,"Kew Bull. 21: 103. 1967.",,Q55779093,,,,18303-1,wfo-4000019818,4140595,,
+56717960-8fcd-11eb-924d-9cd76263cbd0,species,brachyphylla,Kampochloa,,Clayton,,1967,,"Kew Bull. 21: 103 1967",,Q55779093,,,,406392-1,wfo-0000876612,4140594,,
+0a4354ac-8fcb-11eb-924d-9cd76263cbd0,species,albens,Kamptzia,,"(A.Cunn. ex DC.) Nees",,1840,,"Kamptziae 6 1840",,,,1847b6b4-8fcc-11eb-924d-9cd76263cbd0,,51356-3,wfo-0000220598,3185937,,
+46aaf1ce-8fcc-11eb-924d-9cd76263cbd0,species,kamtschadalorum,,,Halda,,2002,,"Acta Mus. Richnov., Sect. Nat. 9: 70 2002",,,,,,60437729-2,wfo-0000398695,,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d96dd2-8fd1-11eb-924d-9cd76263cbd0,genus,Pachyphragma,,,Rchb.,1841,"Deutsche Bot. Herbarienbuch (Nom.) 179. 1841.",,,,,12880-1,wfo-4000027682,3040565,
-45af5e2c-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Pachyphragma,,"(Hoffm.) N.Busch",1908,"Fl. Cauc. Crit. 3(4): 151 1908",,,,4d572be6-8fcc-11eb-924d-9cd76263cbd0,287903-1,wfo-0000397527,5373292,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d96dd2-8fd1-11eb-924d-9cd76263cbd0,genus,Pachyphragma,,,Rchb.,,1841,,"Deutsche Bot. Herbarienbuch (Nom.) 179. 1841.",,,,,,12880-1,wfo-4000027682,3040565,,
+45af5e2c-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Pachyphragma,,"(Hoffm.) N.Busch",,1908,,"Fl. Cauc. Crit. 3(4): 151 1908",,,,4d572be6-8fcc-11eb-924d-9cd76263cbd0,,287903-1,wfo-0000397527,5373292,,

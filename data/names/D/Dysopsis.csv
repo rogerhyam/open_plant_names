@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e31fcca0-8fd1-11eb-924d-9cd76263cbd0,genus,Dysopsis,,,Baill.,1858,"Étude Euphorb. 435. 1858.",,,,,15350-1,wfo-4000012832,3073178,
-823707fe-8fcd-11eb-924d-9cd76263cbd0,species,gayana,Dysopsis,,Baill.,1858,"Étude Euphorb. 436 1858",,,,,345227-1,wfo-0000947236,3073184,
-8237243c-8fcd-11eb-924d-9cd76263cbd0,species,glechomoides,Dysopsis,,"(A.Rich.) Müll.Arg.",1866,"Prodr. 15(2): 949 1866",,,,,345228-1,wfo-0000947237,3073183,
-3027f716-8fcd-11eb-924d-9cd76263cbd0,subspecies,hirsuta,Dysopsis,glechomoides,"(Müll.Arg.) Skottsb.",1921,"Nat. Hist. Juan Fernandez 2: 144 1921",,,,,86496-2,wfo-0000794141,3073180,
-823740c0-8fcd-11eb-924d-9cd76263cbd0,variety,hirsuta,Dysopsis,glechomoides,Müll.Arg.,1866,"Prodr. 15(2): 949 1866",,,,,86497-2,wfo-0000947238,3073180,
-82375c5e-8fcd-11eb-924d-9cd76263cbd0,variety,paucidentata,Dysopsis,glechomoides,Müll.Arg.,1866,"Prodr. 15(2): 949 1866",,,,,86498-2,wfo-0000947239,3073182,
-82378152-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Dysopsis,,"(Müll.Arg.) Skottsb.",1953,"Nat. Hist. Juan Fernandez 2: 781 1953",,,,fb986a2c-8fcb-11eb-924d-9cd76263cbd0,345229-1,wfo-0000947240,3073179,
-82379c96-8fcd-11eb-924d-9cd76263cbd0,species,paucidentata,Dysopsis,,"(Müll.Arg.) Lozano & J.Murillo",2001,"Caldasia 23: 423 2001",,,,82375c5e-8fcd-11eb-924d-9cd76263cbd0,20003205-1,wfo-0000947241,3073181,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e31fcca0-8fd1-11eb-924d-9cd76263cbd0,genus,Dysopsis,,,Baill.,,1858,,"Étude Euphorb. 435. 1858.",,,,,,15350-1,wfo-4000012832,3073178,,
+823707fe-8fcd-11eb-924d-9cd76263cbd0,species,gayana,Dysopsis,,Baill.,,1858,,"Étude Euphorb. 436 1858",,,,,,345227-1,wfo-0000947236,3073184,,
+8237243c-8fcd-11eb-924d-9cd76263cbd0,species,glechomoides,Dysopsis,,"(A.Rich.) Müll.Arg.",,1866,,"Prodr. 15(2): 949 1866",,,,,,345228-1,wfo-0000947237,3073183,,
+3027f716-8fcd-11eb-924d-9cd76263cbd0,subspecies,hirsuta,Dysopsis,glechomoides,"(Müll.Arg.) Skottsb.",,1921,,"Nat. Hist. Juan Fernandez 2: 144 1921",,,,,,86496-2,wfo-0000794141,3073180,,
+823740c0-8fcd-11eb-924d-9cd76263cbd0,variety,hirsuta,Dysopsis,glechomoides,Müll.Arg.,,1866,,"Prodr. 15(2): 949 1866",,,,,,86497-2,wfo-0000947238,3073180,,
+82375c5e-8fcd-11eb-924d-9cd76263cbd0,variety,paucidentata,Dysopsis,glechomoides,Müll.Arg.,,1866,,"Prodr. 15(2): 949 1866",,,,,,86498-2,wfo-0000947239,3073182,,
+82378152-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Dysopsis,,"(Müll.Arg.) Skottsb.",,1953,,"Nat. Hist. Juan Fernandez 2: 781 1953",,,,fb986a2c-8fcb-11eb-924d-9cd76263cbd0,,345229-1,wfo-0000947240,3073179,,
+82379c96-8fcd-11eb-924d-9cd76263cbd0,species,paucidentata,Dysopsis,,"(Müll.Arg.) Lozano & J.Murillo",,2001,,"Caldasia 23: 423 2001",,Q95143874,,82375c5e-8fcd-11eb-924d-9cd76263cbd0,,20003205-1,wfo-0000947241,3073181,,

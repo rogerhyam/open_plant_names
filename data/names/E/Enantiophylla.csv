@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e34a6d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Enantiophylla,,,"J.M.Coult. & Rose",1893,"Bot. Gaz. 18(2): 55–56, pl. 5. 1893. (Feb 1893)",,,,,295435-2,wfo-4000013346,6026794,
-ee2061dc-8fcc-11eb-924d-9cd76263cbd0,species,heydeana,Enantiophylla,,"J.M.Coult. & Rose",1893,"Bot. Gaz. 18: 56 1893",,,,,90554-2,wfo-0000667301,3634524,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e34a6d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Enantiophylla,,,"J.M.Coult. & Rose",,1893,,"Bot. Gaz. 18(2): 55–56, pl. 5. 1893. (Feb 1893)",,Q55758416,,,,295435-2,wfo-4000013346,6026794,,
+ee2061dc-8fcc-11eb-924d-9cd76263cbd0,species,heydeana,Enantiophylla,,"J.M.Coult. & Rose",,1893,,"Bot. Gaz. 18: 56 1893",,Q55758417,,,,90554-2,wfo-0000667301,3634524,,

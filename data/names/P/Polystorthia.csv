@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8e47906-8fd1-11eb-924d-9cd76263cbd0,genus,Polystorthia,,,Blume,1828,"Fl. Javae praef. viii. 1828.",,,,,,wfo-4000030838,2988463,
-98b5391a-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Polystorthia,,Hassk.,1844,"De planten, door den heer Noronha, opgespoord ; 1844 226 1844",,,,,,wfo-0000995041,2988464,
-fa22b936-8fcb-11eb-924d-9cd76263cbd0,species,cornu-cervi,Polystylus,,"(Breda) Hasselt ex Hassk.",1855,"Retzia 1: 3 1855",,,,f98b2936-8fcb-11eb-924d-9cd76263cbd0,654600-1,wfo-0000280708,5310881,
-3796dc92-8fcd-11eb-924d-9cd76263cbd0,variety,picta,Polystylus,cornu-cervi,Hassk.,1856,"Natuurk. Tijdschr. Ned.-Indië 10: 4 1856",,,,,77081257-1,wfo-0000809796,5310884,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8e47906-8fd1-11eb-924d-9cd76263cbd0,genus,Polystorthia,,,Blume,,1828,,"Fl. Javae praef. viii. 1828.",,,,,,,wfo-4000030838,2988463,,
+98b5391a-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Polystorthia,,Hassk.,,1844,,"De planten, door den heer Noronha, opgespoord ; 1844 226 1844",,,,,,,wfo-0000995041,2988464,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7717cae-8fd1-11eb-924d-9cd76263cbd0,genus,Ochthochloa,,,Edgew.,1842,"J. Asiat. Soc. Bengal 11: 26–27. 1842.",,,,,,wfo-4000026504,4112192,
-58df0b90-8fcd-11eb-924d-9cd76263cbd0,species,compressa,Ochthochloa,,"(Forssk.) Hilu",1981,"Kew Bull. 36: 560 1981",,,,,,wfo-0000881817,4112195,
-58df274c-8fcd-11eb-924d-9cd76263cbd0,species,dactyloides,Ochthochloa,,Edgew.,1842,"J. Asiat. Soc. Bengal 11: 27 1842",,,,,409677-1,wfo-0000881818,4112191,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7717cae-8fd1-11eb-924d-9cd76263cbd0,genus,Ochthochloa,,,Edgew.,,1842,,"J. Asiat. Soc. Bengal 11: 26–27. 1842.",,,,,,,wfo-4000026504,4112192,,
+58df0b90-8fcd-11eb-924d-9cd76263cbd0,species,compressa,Ochthochloa,,"(Forssk.) Hilu",,1981,,"Kew Bull. 36: 560 1981",,,,,,,wfo-0000881817,4112195,,
+58df274c-8fcd-11eb-924d-9cd76263cbd0,species,dactyloides,Ochthochloa,,Edgew.,,1842,,"J. Asiat. Soc. Bengal 11: 27 1842",,,,,,409677-1,wfo-0000881818,4112191,,

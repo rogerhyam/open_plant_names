@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6349010-8fd1-11eb-924d-9cd76263cbd0,genus,Maclurodendron,,,T.G.Hartley,1982,"Gard. Bull. Singapore 35(1): 4. 1982.",,,,,893191-1,wfo-4000022648,7269218,
-6dbec308-8fcc-11eb-924d-9cd76263cbd0,species,magnificum,Maclurodendron,,T.G.Hartley,1982,"Gard. Bull. Singapore 35: 15 1982",,,,,900240-1,wfo-0000453383,3834700,
-6dbe6fca-8fcc-11eb-924d-9cd76263cbd0,species,obovatum,Maclurodendron,,"(Merr.) T.G.Hartley",1982,"Gard. Bull. Singapore 35: 12 1982",,,,78b986e8-8fcd-11eb-924d-9cd76263cbd0,910855-1,wfo-0000453380,3834691,
-d81f8146-8fcd-11eb-924d-9cd76263cbd0,species,oligophlebium,Maclurodendron,,"(Merr.) T.G.Hartley",1982,"Gard. Bull. Singapore 35(1): 13 1982",,,,,910856-1,wfo-0001133279,3834679,
-6dbea652-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Maclurodendron,,T.G.Hartley,1982,"Gard. Bull. Singapore 35: 14 1982",,,,,900241-1,wfo-0000453382,3834669,
-adf2461a-8fcd-11eb-924d-9cd76263cbd0,species,porteri,Maclurodendron,,"(Hook.f.) T.G.Hartley",1982,"Gard. Bull. Singapore 35: 4 1982",,,,948da350-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001039026,3834662,
-6dbc64e6-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Maclurodendron,,T.G.Hartley,1982,"Gard. Bull. Singapore 35: 11 1982",,,,,900242-1,wfo-0000453364,3834655,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6349010-8fd1-11eb-924d-9cd76263cbd0,genus,Maclurodendron,,,T.G.Hartley,,1982,,"Gard. Bull. Singapore 35(1): 4. 1982.",,,,,,893191-1,wfo-4000022648,7269218,,
+6dbec308-8fcc-11eb-924d-9cd76263cbd0,species,magnificum,Maclurodendron,,T.G.Hartley,,1982,,"Gard. Bull. Singapore 35: 15 1982",,,,,,900240-1,wfo-0000453383,3834700,,
+6dbe6fca-8fcc-11eb-924d-9cd76263cbd0,species,obovatum,Maclurodendron,,"(Merr.) T.G.Hartley",,1982,,"Gard. Bull. Singapore 35: 12 1982",,,,78b986e8-8fcd-11eb-924d-9cd76263cbd0,,910855-1,wfo-0000453380,3834691,,
+d81f8146-8fcd-11eb-924d-9cd76263cbd0,species,oligophlebium,Maclurodendron,,"(Merr.) T.G.Hartley",,1982,,"Gard. Bull. Singapore 35(1): 13 1982",,,,,,910856-1,wfo-0001133279,3834679,,
+6dbea652-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Maclurodendron,,T.G.Hartley,,1982,,"Gard. Bull. Singapore 35: 14 1982",,,,,,900241-1,wfo-0000453382,3834669,,
+adf2461a-8fcd-11eb-924d-9cd76263cbd0,species,porteri,Maclurodendron,,"(Hook.f.) T.G.Hartley",,1982,,"Gard. Bull. Singapore 35: 4 1982",,,,948da350-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001039026,3834662,,
+6dbc64e6-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Maclurodendron,,T.G.Hartley,,1982,,"Gard. Bull. Singapore 35: 11 1982",,,,,,900242-1,wfo-0000453364,3834655,,

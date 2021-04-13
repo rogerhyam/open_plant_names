@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-def10ac2-8fd1-11eb-924d-9cd76263cbd0,genus,Aframmi,,,C.Norman,1929,"J. Bot. 67(Suppl. 1): 199. 1929.",,,,,,wfo-4000000839,6026765,
-969f14ee-8fcc-11eb-924d-9cd76263cbd0,species,angolense,Aframmi,,"(C.Norman) C.Norman",1929,"J. Bot. 67(Suppl. 1): 199 1929",,,,,837358-1,wfo-0000522608,3634207,
-969f338e-8fcc-11eb-924d-9cd76263cbd0,species,longiradiatum,Aframmi,,"(H.Wolff) Cannon",1978,"in Fl. Zambes. 4: 587 1978",,,,4055e428-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000522609,3634195,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+def10ac2-8fd1-11eb-924d-9cd76263cbd0,genus,Aframmi,,,C.Norman,,1929,,"J. Bot. 67(Suppl. 1): 199. 1929.",,,,,,,wfo-4000000839,6026765,,
+969f14ee-8fcc-11eb-924d-9cd76263cbd0,species,angolense,Aframmi,,"(C.Norman) C.Norman",,1929,,"J. Bot. 67(Suppl. 1): 199 1929",,,,,,837358-1,wfo-0000522608,3634207,,
+969f338e-8fcc-11eb-924d-9cd76263cbd0,species,longiradiatum,Aframmi,,"(H.Wolff) Cannon",,1978,,"in Fl. Zambes. 4: 587 1978",,,,4055e428-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000522609,3634195,,

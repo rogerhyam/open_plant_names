@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ae5058-8fd1-11eb-924d-9cd76263cbd0,genus,Chromolucuma,,,Ducke,1925,"Arch. Jard. Bot. Rio de Janeiro 4: 160. 1925.",,,,,296761-2,wfo-4000008155,2883684,
-4b4152e0-8fcd-11eb-924d-9cd76263cbd0,species,baehniana,Chromolucuma,,Monach.,1949,"Phytologia 3: 57 1949",,,,,57519-2,wfo-0000852322,2883687,
-4b4287be-8fcd-11eb-924d-9cd76263cbd0,species,rubriflora,Chromolucuma,,Ducke,1925,"Arch. Jard. Bot. Rio de Janeiro 4: 160 1925",,,,,307657-2,wfo-0000852333,2883685,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ae5058-8fd1-11eb-924d-9cd76263cbd0,genus,Chromolucuma,,,Ducke,,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160. 1925.",,,,,,296761-2,wfo-4000008155,2883684,,
+4b4152e0-8fcd-11eb-924d-9cd76263cbd0,species,baehniana,Chromolucuma,,Monach.,,1949,,"Phytologia 3: 57 1949",,,,,,57519-2,wfo-0000852322,2883687,,
+4b4287be-8fcd-11eb-924d-9cd76263cbd0,species,rubriflora,Chromolucuma,,Ducke,,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160 1925",,,,,,307657-2,wfo-0000852333,2883685,,

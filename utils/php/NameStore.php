@@ -91,35 +91,43 @@ class NameStore{
                     `genus` = ?,
                     `species` = ?,
                     `authors` = ?,
+                    `author_ids` = ?,
                     `year` = ?,
+                    `status` = ?,
                     `citation_micro` = ?,
                     `citation_full` = ?,
                     `citation_id` = ?,
                     `publication_id` = ?,
                     `basionym_id` = ?,
+                    `type_id` = ?,
                     `ipni_id` = ?,
                     `wfo_id` = ?,
                     `gbif_id` = ?,
+                    `indexfungorum_id` = ?,
                     `note` = ?
                 WHERE 
                     `id` = ?;        
         ");
         $stmt->bind_param(
-            'sssssissssssssss',
+            'sssssisssssssssssiss',
             $data['rank'],
             $data['name'],
             $data['genus'],
             $data['species'],
             $data['authors'],
+            $data['author_ids'],
             $data['year'],
+            $data['status'],
             $data['citation_micro'],
             $data['citation_full'],
             $data['citation_id'],
             $data['publication_id'],
             $data['basionym_id'],
+            $data['type_id'],
             $data['ipni_id'],
             $data['wfo_id'],
             $data['gbif_id'],
+            $data['indexfungorum_id'],
             $data['note'],
             $data['id']
         );
@@ -147,36 +155,44 @@ class NameStore{
                 `genus`,
                 `species`,
                 `authors`,
+                `author_ids`,
                 `year`,
+                `status`,
                 `citation_micro`,
                 `citation_full`,
                 `citation_id`,
                 `publication_id`,
                 `basionym_id`,
+                `type_id`,
                 `ipni_id`,
                 `wfo_id`,
                 `gbif_id`,
+                `indexfungorum_id`,
                 `note`
             )VALUES(
-                uuid(), ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? 
+                uuid(), ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?
             );"
         );
         $stmt->bind_param(
-            'sssssisssssssss',
+            'ssssssissssssssssis',
             $data['rank'],
             $data['name'],
             $data['genus'],
             $data['species'],
             $data['authors'],
+            $data['author_ids'],
             $data['year'],
+            $data['status'],
             $data['citation_micro'],
             $data['citation_full'],
             $data['citation_id'],
             $data['publication_id'],
             $data['basionym_id'],
+            $data['type_id'],
             $data['ipni_id'],
             $data['wfo_id'],
             $data['gbif_id'],
+            $data['indexfungorum_id'],
             $data['note']
         );
 
@@ -232,15 +248,19 @@ class NameStore{
             'genus' => null,
             'species' => null,
             'authors' => null,
+            'author_ids' => null,
             'year' => null,
+            'status' => null,
             'citation_micro' => null,
             'citation_full' => null,
             'citation_id' => null,
             'publication_id' => null,
             'basionym_id' => null,
+            'type_id' => null,
             'ipni_id' => null,
             'wfo_id' => null,
             'gbif_id' => null,
+            'indexfungorum_id' => null,
             'note' => null
         );
     }

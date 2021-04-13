@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6ce038a-8fd1-11eb-924d-9cd76263cbd0,genus,Mnemosilla,,,Forssk.,1775,"Fl. Aegypt.-Arab. 122. 1775.",,,,,,wfo-4000024473,7315199,
-6b1ab9fe-8fcc-11eb-924d-9cd76263cbd0,species,aegyptiaca,Mnemosilla,,Forssk.,1775,"Fl. Aegypt.-Arab. 122 1775",,,,,673359-1,wfo-0000448693,3603562,
-6b1a9906-8fcc-11eb-924d-9cd76263cbd0,species,forskalii,Mnemosilla,,"Ehrenb. ex Fedde",1909,"Pflanzenr. IV, 104: 93 1909",,,,,,wfo-0000448692,3603555,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6ce038a-8fd1-11eb-924d-9cd76263cbd0,genus,Mnemosilla,,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 122. 1775.",,,,,,,wfo-4000024473,7315199,,
+6b1ab9fe-8fcc-11eb-924d-9cd76263cbd0,species,aegyptiaca,Mnemosilla,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 122 1775",,Q5862701,,,,673359-1,wfo-0000448693,3603562,,
+6b1a9906-8fcc-11eb-924d-9cd76263cbd0,species,forskalii,Mnemosilla,,"Ehrenb. ex Fedde",,1909,,"Pflanzenr. IV, 104: 93 1909",,,,,,,wfo-0000448692,3603555,,

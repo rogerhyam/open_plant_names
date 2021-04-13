@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-debe2666-8fd1-11eb-924d-9cd76263cbd0,genus,Acharagma,,,"(N.P.Taylor) Zimmerman ex Glass",1997,"Guía Ident. Cact. Amenazadas México 1: [1]AC/AG. 1997. (15 Dec 1997)",,,,,1201462-2,wfo-4000000206,7283575,
-92c6bade-8fcc-11eb-924d-9cd76263cbd0,species,aguirreanum,Acharagma,,"(Glass & R.A.Foster) Glass",1998,"Guía Identific. Cact. Amenazadas México 1: Ac/aq 1998 publ. 1997",,,,,1029407-2,wfo-0000515924,,
-1abd54a2-8fcd-11eb-924d-9cd76263cbd0,species,huasteca,Acharagma,,Elhart,2011,"CactusWorld 29: 105 2011",,,,,77112450-1,wfo-0000748583,7703182,
-d49033dc-8fd1-11eb-924d-9cd76263cbd0,subspecies,galeanense,Acharagma,roseana,"(Haugg) D.R.Hunt",2002,2002,,,,d490554c-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001286254,7972161,
-92c6d82a-8fcc-11eb-924d-9cd76263cbd0,species,roseanum,Acharagma,,"(Boed.) E.F.Anderson",1999,"Cact. Succ. J. (Los Angeles) 71: 323 1999",,,,,1012477-1,wfo-0000515925,7283576,
-92c6f54e-8fcc-11eb-924d-9cd76263cbd0,subspecies,galeanense,Acharagma,roseanum,"(Haugg) D.R.Hunt",2002,"Cactaceae Consensus Init. 14: 7 2002",,,,d490554c-8fd1-11eb-924d-9cd76263cbd0,20008498-1,wfo-0000515926,3955843,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+debe2666-8fd1-11eb-924d-9cd76263cbd0,genus,Acharagma,,,"(N.P.Taylor) Zimmerman ex Glass",,1997,,"Guía Ident. Cact. Amenazadas México 1: [1]AC/AG. 1997. (15 Dec 1997)",,,,,,1201462-2,wfo-4000000206,7283575,,
+92c6bade-8fcc-11eb-924d-9cd76263cbd0,species,aguirreanum,Acharagma,,"(Glass & R.A.Foster) Glass",,1998,,"Guía Identific. Cact. Amenazadas México 1: Ac/aq 1998 publ. 1997",,,,,,1029407-2,wfo-0000515924,,,
+1abd54a2-8fcd-11eb-924d-9cd76263cbd0,species,huasteca,Acharagma,,Elhart,,2011,,"CactusWorld 29: 105 2011",,,,,,77112450-1,wfo-0000748583,7703182,,
+d49033dc-8fd1-11eb-924d-9cd76263cbd0,subspecies,galeanense,Acharagma,roseana,"(Haugg) D.R.Hunt",,2002,,2002,,,,d490554c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001286254,7972161,,
+92c6d82a-8fcc-11eb-924d-9cd76263cbd0,species,roseanum,Acharagma,,"(Boed.) E.F.Anderson",,1999,,"Cact. Succ. J. (Los Angeles) 71: 323 1999",,,,,,1012477-1,wfo-0000515925,7283576,,
+92c6f54e-8fcc-11eb-924d-9cd76263cbd0,subspecies,galeanense,Acharagma,roseanum,"(Haugg) D.R.Hunt",,2002,,"Cactaceae Consensus Init. 14: 7 2002",,,,d490554c-8fd1-11eb-924d-9cd76263cbd0,,20008498-1,wfo-0000515926,3955843,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb820264-8fd1-11eb-924d-9cd76263cbd0,genus,Tricentrum,,,DC.,1828,"Prodr. 3: 123. 1828. (mid Mar 1828)",,,,,,wfo-4000038905,3231491,
-cd0e268c-8fd1-11eb-924d-9cd76263cbd0,species,leptophyllum,Tricentrum,,"(Bonpl.) DC.",1828,"Prodr. 3: 123 1828",,,,,1013605-2,wfo-0001278169,5601133,
-c779d82e-8fd1-11eb-924d-9cd76263cbd0,species,ovalifolium,Tricentrum,,DC.,1828,"Prodr. 3: 123 1828",,,,,576760-1,wfo-0001267775,5601131,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb820264-8fd1-11eb-924d-9cd76263cbd0,genus,Tricentrum,,,DC.,,1828,,"Prodr. 3: 123. 1828. (mid Mar 1828)",,,,,,,wfo-4000038905,3231491,,
+cd0e268c-8fd1-11eb-924d-9cd76263cbd0,species,leptophyllum,Tricentrum,,"(Bonpl.) DC.",,1828,,"Prodr. 3: 123 1828",,,,,,1013605-2,wfo-0001278169,5601133,,
+c779d82e-8fd1-11eb-924d-9cd76263cbd0,species,ovalifolium,Tricentrum,,DC.,,1828,,"Prodr. 3: 123 1828",,,,,,576760-1,wfo-0001267775,5601131,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a49724-8fd1-11eb-924d-9cd76263cbd0,genus,Oreoselis,,,Raf.,1840,"Good Book 56. 1840.",,,,,,wfo-4000027115,6027078,
-3bee7d5a-8fcc-11eb-924d-9cd76263cbd0,species,cervaria,Oreoselis,,"(L.) Raf.",1840,"Good Book 57 1840",,,,62733a60-8fcc-11eb-924d-9cd76263cbd0,845498-1,wfo-0000384804,3638507,
-3bee59ba-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Oreoselis,,Raf.,1840,"Good Book 56 1840",,,,,845499-1,wfo-0000384803,3638498,
-3bee398a-8fcc-11eb-924d-9cd76263cbd0,species,pisana,Oreoselis,,"(Savi) Raf.",1840,"Good Book 57 1840",,,,aa4bb4c0-8fcc-11eb-924d-9cd76263cbd0,845500-1,wfo-0000384802,3638489,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a49724-8fd1-11eb-924d-9cd76263cbd0,genus,Oreoselis,,,Raf.,,1840,,"Good Book 56. 1840.",,,,,,,wfo-4000027115,6027078,,
+3bee7d5a-8fcc-11eb-924d-9cd76263cbd0,species,cervaria,Oreoselis,,"(L.) Raf.",,1840,,"Good Book 57 1840",,,,62733a60-8fcc-11eb-924d-9cd76263cbd0,,845498-1,wfo-0000384804,3638507,,
+3bee59ba-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Oreoselis,,Raf.,,1840,,"Good Book 56 1840",,,,,,845499-1,wfo-0000384803,3638498,,
+3bee398a-8fcc-11eb-924d-9cd76263cbd0,species,pisana,Oreoselis,,"(Savi) Raf.",,1840,,"Good Book 57 1840",,,,aa4bb4c0-8fcc-11eb-924d-9cd76263cbd0,,845500-1,wfo-0000384802,3638489,,

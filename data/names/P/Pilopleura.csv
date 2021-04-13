@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e88852c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pilopleura,,,Schischk.,1951,"Fl. URSS 17: 358. 1951.",,,,,40393-1,wfo-4000029697,6027104,
-baf7be94-8fcd-11eb-924d-9cd76263cbd0,species,goloskokovii,Pilopleura,,Pimenov,,,,,,,,wfo-0001068695,3638953,
-baf7f800-8fcd-11eb-924d-9cd76263cbd0,species,kozo-poljanskii,Pilopleura,,Schischk.,,,,,,,,wfo-0001068697,3638946,
-bab7951c-8fcd-11eb-924d-9cd76263cbd0,species,tordyloides,Pilopleura,,Pimenov,,,,,,,,wfo-0001068112,3638941,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e88852c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pilopleura,,,Schischk.,,1951,,"Fl. URSS 17: 358. 1951.",,,,,,40393-1,wfo-4000029697,6027104,,
+baf7be94-8fcd-11eb-924d-9cd76263cbd0,species,goloskokovii,Pilopleura,,Pimenov,,,,,,,,,,,wfo-0001068695,3638953,,
+baf7f800-8fcd-11eb-924d-9cd76263cbd0,species,kozo-poljanskii,Pilopleura,,Schischk.,,,,,,,,,,,wfo-0001068697,3638946,,
+bab7951c-8fcd-11eb-924d-9cd76263cbd0,species,tordyloides,Pilopleura,,Pimenov,,,,,,,,,,,wfo-0001068112,3638941,,

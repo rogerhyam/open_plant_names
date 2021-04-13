@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3921f62-8fd1-11eb-924d-9cd76263cbd0,genus,Euphorianthus,,,Radlk.,1879,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 9: 673. 1879.",,,,,36408-1,wfo-4000014231,7265151,
-f69584d2-8fcc-11eb-924d-9cd76263cbd0,species,euneurus,Euphorianthus,,"(Miq.) Leenh.",1988,"Blumea 33: 198 1988",,,,,945356-1,wfo-0000682254,3788155,
-f695a278-8fcc-11eb-924d-9cd76263cbd0,species,longifolius,Euphorianthus,,"(Roxb.) Radlk.",1895,"Nat. Pflanzenfam. 3(5): 348 1895",,,,,783142-1,wfo-0000682255,3788149,
-f695d676-8fcc-11eb-924d-9cd76263cbd0,species,obtusatus,Euphorianthus,,Radlk.,1907,"Nat. Pflanzenfam. Nachtr. 3: 206 1907",,,,,783145-1,wfo-0000682256,3788135,
-f69632b0-8fcc-11eb-924d-9cd76263cbd0,species,pallidus,Euphorianthus,,Radlk.,1920,"Bot. Jahrb. Syst. 56: 294 1920",,,,,783146-1,wfo-0000682257,3788130,
-f6968152-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Euphoriopsis,,Radlk.,1878,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 301 1878",,,,,783147-1,wfo-0000682258,5578328,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3921f62-8fd1-11eb-924d-9cd76263cbd0,genus,Euphorianthus,,,Radlk.,,1879,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 9: 673. 1879.",,,,,,36408-1,wfo-4000014231,7265151,,
+f69584d2-8fcc-11eb-924d-9cd76263cbd0,species,euneurus,Euphorianthus,,"(Miq.) Leenh.",,1988,,"Blumea 33: 198 1988",,Q96032912,,,,945356-1,wfo-0000682254,3788155,,
+f695a278-8fcc-11eb-924d-9cd76263cbd0,species,longifolius,Euphorianthus,,"(Roxb.) Radlk.",,1895,,"Nat. Pflanzenfam. 3(5): 348 1895",,,,,,783142-1,wfo-0000682255,3788149,,
+f695d676-8fcc-11eb-924d-9cd76263cbd0,species,obtusatus,Euphorianthus,,Radlk.,,1907,,"Nat. Pflanzenfam. Nachtr. 3: 206 1907",,,,,,783145-1,wfo-0000682256,3788135,,
+f69632b0-8fcc-11eb-924d-9cd76263cbd0,species,pallidus,Euphorianthus,,Radlk.,,1920,,"Bot. Jahrb. Syst. 56: 294 1920",,,,,,783146-1,wfo-0000682257,3788130,,

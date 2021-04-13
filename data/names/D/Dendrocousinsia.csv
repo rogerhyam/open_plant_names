@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2930d38-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrocousinsia,,,Millsp.,1913,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2(9): 374. 1913.",,,,,296722-2,wfo-4000011075,3062949,
-7fb21c3a-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Dendrocousinsia,,"Fawc. & Rendle",1919,"J. Bot. 57: 313 1919",,,,,77602-2,wfo-0000941541,3062950,
-7fb23634-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Dendrocousinsia,,Millsp.,1913,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 375 1913",,,,,77603-2,wfo-0000941542,3062954,
-7fb25042-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Dendrocousinsia,,Millsp.,1913,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 374 1913",,,,,77604-2,wfo-0000941543,3062952,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2930d38-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrocousinsia,,,Millsp.,,1913,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2(9): 374. 1913.",,,,,,296722-2,wfo-4000011075,3062949,,
+7fb21c3a-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Dendrocousinsia,,"Fawc. & Rendle",,1919,,"J. Bot. 57: 313 1919",,,,,,77602-2,wfo-0000941541,3062950,,
+7fb23634-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Dendrocousinsia,,Millsp.,,1913,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 375 1913",,,,,,77603-2,wfo-0000941542,3062954,,
+7fb25042-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Dendrocousinsia,,Millsp.,,1913,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 374 1913",,,,,,77604-2,wfo-0000941543,3062952,,

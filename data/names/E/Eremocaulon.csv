@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3656418-8fd1-11eb-924d-9cd76263cbd0,genus,Eremocaulon,,,"Soderstr. & Londoño",1987,"Amer. J. Bot. 74(1): 37. 1987.",,,,,925026-1,wfo-4000013704,4138475,
-52df47a0-8fcd-11eb-924d-9cd76263cbd0,species,amazonicum,Eremocaulon,,Londoño,2002,"Syst. Bot. 27: 716 2002",,,,,325421-2,wfo-0000868675,4138541,
-52df61cc-8fcd-11eb-924d-9cd76263cbd0,species,asymmetricum,Eremocaulon,,"(Soderstr. & Londoño) Londoño",2002,"Syst. Bot. 27: 711 2002",,,,,20009999-1,wfo-0000868676,4138524,
-52df7dc4-8fcd-11eb-924d-9cd76263cbd0,species,aureofimbriatum,Eremocaulon,,"Soderstr. & Londoño",1987,"Amer. J. Bot. 74: 37 1987",,,,,316770-2,wfo-0000868677,4138507,
-52df9778-8fcd-11eb-924d-9cd76263cbd0,species,capitatum,Eremocaulon,,"(Trin.) Londoño",2002,"Syst. Bot. 27: 714 2002",,,,,20010000-1,wfo-0000868678,9053188,
-52dfb42e-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Eremocaulon,,Londoño,2002,"Syst. Bot. 27: 719 2002",,,,,,wfo-0000868679,4138474,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3656418-8fd1-11eb-924d-9cd76263cbd0,genus,Eremocaulon,,,"Soderstr. & Londoño",,1987,,"Amer. J. Bot. 74(1): 37. 1987.",,Q55766285,,,,925026-1,wfo-4000013704,4138475,,
+52df47a0-8fcd-11eb-924d-9cd76263cbd0,species,amazonicum,Eremocaulon,,Londoño,,2002,,"Syst. Bot. 27: 716 2002",,Q95467889,,,,325421-2,wfo-0000868675,4138541,,
+52df61cc-8fcd-11eb-924d-9cd76263cbd0,species,asymmetricum,Eremocaulon,,"(Soderstr. & Londoño) Londoño",,2002,,"Syst. Bot. 27: 711 2002",,Q95467889,,,,20009999-1,wfo-0000868676,4138524,,
+52df7dc4-8fcd-11eb-924d-9cd76263cbd0,species,aureofimbriatum,Eremocaulon,,"Soderstr. & Londoño",,1987,,"Amer. J. Bot. 74: 37 1987",,Q55766285,,,,316770-2,wfo-0000868677,4138507,,
+52df9778-8fcd-11eb-924d-9cd76263cbd0,species,capitatum,Eremocaulon,,"(Trin.) Londoño",,2002,,"Syst. Bot. 27: 714 2002",,Q95467889,,,,20010000-1,wfo-0000868678,9053188,,
+52dfb42e-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Eremocaulon,,Londoño,,2002,,"Syst. Bot. 27: 719 2002",,,,,,,wfo-0000868679,4138474,,

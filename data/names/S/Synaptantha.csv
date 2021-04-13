@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb02d8fe-8fd1-11eb-924d-9cd76263cbd0,genus,Synaptantha,,,Hook.f.,1873,"Gen. Pl. 2: 61. 1873.",,,,,35422-1,wfo-4000037264,2918982,
-11a86a06-8fcc-11eb-924d-9cd76263cbd0,species,scleranthoides,Synaptantha,,"(F.Muell.) Pedley ex Halford",1992,"Austrobaileya 3: 711 1992",,,,,964759-1,wfo-0000317991,2918989,
-11a88932-8fcc-11eb-924d-9cd76263cbd0,species,tillaeacea,Synaptantha,,"(F.Muell.) Hook.f.",,"Hooker's Icon. Pl. 12: t. 1146 1873",,,,,767324-1,wfo-0000317992,2918983,
-11a8a52a-8fcc-11eb-924d-9cd76263cbd0,variety,hispidula,Synaptantha,tillaeacea,Halford,1992,"Austrobaileya 3: 711 1992",,,,,965892-1,wfo-0000317993,2918988,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb02d8fe-8fd1-11eb-924d-9cd76263cbd0,genus,Synaptantha,,,Hook.f.,,1873,,"Gen. Pl. 2: 61. 1873.",,,,,,35422-1,wfo-4000037264,2918982,,
+11a86a06-8fcc-11eb-924d-9cd76263cbd0,species,scleranthoides,Synaptantha,,"(F.Muell.) Pedley ex Halford",,1992,,"Austrobaileya 3: 711 1992",,Q92299566,,,,964759-1,wfo-0000317991,2918989,,
+11a88932-8fcc-11eb-924d-9cd76263cbd0,species,tillaeacea,Synaptantha,,"(F.Muell.) Hook.f.",,,,"Hooker's Icon. Pl. 12: t. 1146 1873",,,,,,767324-1,wfo-0000317992,2918983,,
+11a8a52a-8fcc-11eb-924d-9cd76263cbd0,variety,hispidula,Synaptantha,tillaeacea,Halford,,1992,,"Austrobaileya 3: 711 1992",,Q92299566,,,,965892-1,wfo-0000317993,2918988,,

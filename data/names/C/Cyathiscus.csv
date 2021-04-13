@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24feee0-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathiscus,,,Tiegh.,1894,"Bull. Soc. Bot. France 41: 538. 1894.",,,,,,wfo-4000010185,7287885,
-d929c4a8-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Cyathiscus,,Tiegh.,1896,"Bull. Soc. Bot. France 43: 188 1896",,,,,548154-1,wfo-0000631036,5638789,
-d929e028-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorus,Cyathiscus,,"(Thwaites) Tiegh.",1894,"Bull. Soc. Bot. France 41: 539 1894",,,,2fe5a3bc-8fcc-11eb-924d-9cd76263cbd0,548155-1,wfo-0000631037,5638784,
-d929faa4-8fcc-11eb-924d-9cd76263cbd0,species,productus,Cyathiscus,,"(King) Tiegh.",1894,"Bull. Soc. Bot. France 41: 539 1894",,,,2fe9c104-8fcc-11eb-924d-9cd76263cbd0,548156-1,wfo-0000631038,5638779,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24feee0-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathiscus,,,Tiegh.,,1894,,"Bull. Soc. Bot. France 41: 538. 1894.",,,,,,,wfo-4000010185,7287885,,
+d929c4a8-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Cyathiscus,,Tiegh.,,1896,,"Bull. Soc. Bot. France 43: 188 1896",,Q55756797,,,,548154-1,wfo-0000631036,5638789,,
+d929e028-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorus,Cyathiscus,,"(Thwaites) Tiegh.",,1894,,"Bull. Soc. Bot. France 41: 539 1894",,Q54801933,,2fe5a3bc-8fcc-11eb-924d-9cd76263cbd0,,548155-1,wfo-0000631037,5638784,,
+d929faa4-8fcc-11eb-924d-9cd76263cbd0,species,productus,Cyathiscus,,"(King) Tiegh.",,1894,,"Bull. Soc. Bot. France 41: 539 1894",,Q54801933,,2fe9c104-8fcc-11eb-924d-9cd76263cbd0,,548156-1,wfo-0000631038,5638779,,

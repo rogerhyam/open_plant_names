@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6046322-8fd1-11eb-924d-9cd76263cbd0,genus,Locella,,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 261. 1895.",,,,,,wfo-4000022054,7288153,
-2f2d9948-8fcc-11eb-924d-9cd76263cbd0,species,cuneata,Locella,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 261 1895",,,,,548972-1,wfo-0000365999,4003827,
-2f2d7774-8fcc-11eb-924d-9cd76263cbd0,species,goodeniifolia,Locella,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 261 1895",,,,,548973-1,wfo-0000365998,4003814,
-2f2be062-8fcc-11eb-924d-9cd76263cbd0,species,lobeliifolia,Locella,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 261 1895",,,,,548974-1,wfo-0000365987,4003801,
-2f2d1cde-8fcc-11eb-924d-9cd76263cbd0,species,montana,Locella,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 261 1895",,,,,548975-1,wfo-0000365995,4003787,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6046322-8fd1-11eb-924d-9cd76263cbd0,genus,Locella,,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 261. 1895.",,,,,,,wfo-4000022054,7288153,,
+2f2d9948-8fcc-11eb-924d-9cd76263cbd0,species,cuneata,Locella,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 261 1895",,Q54801453,,,,548972-1,wfo-0000365999,4003827,,
+2f2d7774-8fcc-11eb-924d-9cd76263cbd0,species,goodeniifolia,Locella,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 261 1895",,Q54801453,,,,548973-1,wfo-0000365998,4003814,,
+2f2be062-8fcc-11eb-924d-9cd76263cbd0,species,lobeliifolia,Locella,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 261 1895",,Q54801453,,,,548974-1,wfo-0000365987,4003801,,
+2f2d1cde-8fcc-11eb-924d-9cd76263cbd0,species,montana,Locella,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 261 1895",,Q54801453,,,,548975-1,wfo-0000365995,4003787,,

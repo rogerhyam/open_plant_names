@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e26093f8-8fd1-11eb-924d-9cd76263cbd0,genus,Cynarospermum,,,Vollesen,1999,"Kew Bull. 54: 171. 1999.",,,,,1008154-1,wfo-4000010400,7263512,
-dac60bbe-8fcc-11eb-924d-9cd76263cbd0,species,asperrimum,Cynarospermum,,"(Nees) Vollesen",1999,"Kew Bull. 54: 172 1999",,,,,1008155-1,wfo-0000633764,3772254,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e26093f8-8fd1-11eb-924d-9cd76263cbd0,genus,Cynarospermum,,,Vollesen,,1999,,"Kew Bull. 54: 171. 1999.",,Q43194439,,,,1008154-1,wfo-4000010400,7263512,,
+dac60bbe-8fcc-11eb-924d-9cd76263cbd0,species,asperrimum,Cynarospermum,,"(Nees) Vollesen",,1999,,"Kew Bull. 54: 172 1999",,Q43194439,,,,1008155-1,wfo-0000633764,3772254,,

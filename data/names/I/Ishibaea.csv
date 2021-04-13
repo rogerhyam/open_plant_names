@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e522455a-8fd1-11eb-924d-9cd76263cbd0,genus,Ishibaea,,,"Broth. & S.Okamura",1915,"Bot. Mag. (Tokyo) 29: 186. 1915.",,,,,,wfo-4000019240,4921900,
-e6007e64-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Ishibaea,,"Broth. & S.Okamura",1915,"Bot. Mag. (Tokyo) 29: 186. pl. 8 1915",,,,,,wfo-0001162840,8184135,
-efd6bd2c-8fcd-11eb-924d-9cd76263cbd0,variety,iwateana,Ishibaea,japonica,Iisiba,1932,"Classif. Mosses Japan 100 1932",,,,,,wfo-0001183279,7809259,
-e60097f0-8fcd-11eb-924d-9cd76263cbd0,species,julacea,Ishibaea,,"(Besch. & Cardot) Toyama",1938,"Acta Phytotax. Geobot. 7: 264 1938",,,,e8f55d9c-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001162841,7669556,
-6e9bae14-8fca-11eb-924d-9cd76263cbd0,species,triloba,Isias,,"De Not.",1844,"Mem. Reale Accad. Sci. Torino II, 6: 413 1844",,,,,639272-1,wfo-0000217747,5314749,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e522455a-8fd1-11eb-924d-9cd76263cbd0,genus,Ishibaea,,,"Broth. & S.Okamura",,1915,,"Bot. Mag. (Tokyo) 29: 186. 1915.",,,,,,,wfo-4000019240,4921900,,
+e6007e64-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Ishibaea,,"Broth. & S.Okamura",,1915,,"Bot. Mag. (Tokyo) 29: 186. pl. 8 1915",,,,,,,wfo-0001162840,8184135,,
+efd6bd2c-8fcd-11eb-924d-9cd76263cbd0,variety,iwateana,Ishibaea,japonica,Iisiba,,1932,,"Classif. Mosses Japan 100 1932",,,,,,,wfo-0001183279,7809259,,
+e60097f0-8fcd-11eb-924d-9cd76263cbd0,species,julacea,Ishibaea,,"(Besch. & Cardot) Toyama",,1938,,"Acta Phytotax. Geobot. 7: 264 1938",,,,e8f55d9c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001162841,7669556,,

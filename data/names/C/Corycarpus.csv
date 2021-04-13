@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e211a5f4-8fd1-11eb-924d-9cd76263cbd0,genus,Corycarpus,,,,,,,,,,,wfo-4000009385,6432646,
-4f271246-8fcd-11eb-924d-9cd76263cbd0,species,arundinaceus,Corycarpus,,"Zea ex Spreng.",1824,"Syst. Veg. 1: 123 1824",,,,,396676-1,wfo-0000860620,4148030,
-4f272e3e-8fcd-11eb-924d-9cd76263cbd0,species,diandrus,Corycarpus,,Kuntze,1891,"Revis. Gen. Pl. 2: 772 1891",,,,,,wfo-0000860621,5940564,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e211a5f4-8fd1-11eb-924d-9cd76263cbd0,genus,Corycarpus,,,,,,,,,,,,,,wfo-4000009385,6432646,,
+4f271246-8fcd-11eb-924d-9cd76263cbd0,species,arundinaceus,Corycarpus,,"Zea ex Spreng.",,1824,,"Syst. Veg. 1: 123 1824",,,,,,396676-1,wfo-0000860620,4148030,,
+4f272e3e-8fcd-11eb-924d-9cd76263cbd0,species,diandrus,Corycarpus,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 772 1891",,,,,,,wfo-0000860621,5940564,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2ecd3fe-8fd1-11eb-924d-9cd76263cbd0,genus,Dissomeria,,,"Hook.f. ex Benth.",1849,"Niger Fl. 362. 1849.",,,,,36112-1,wfo-4000012201,7274052,
-78301228-8fcd-11eb-924d-9cd76263cbd0,species,crenata,Dissomeria,,"Hook.f. ex Benth.",1849,"Niger Fl. 362 1849",,,,,,wfo-0000925102,7562964,
-78302d9e-8fcd-11eb-924d-9cd76263cbd0,species,glanduligera,Dissomeria,,Sleumer,1957,"Bull. Jard. Bot. État 27: 533 1957",,,,,365300-1,wfo-0000925103,3877876,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2ecd3fe-8fd1-11eb-924d-9cd76263cbd0,genus,Dissomeria,,,"Hook.f. ex Benth.",,1849,,"Niger Fl. 362. 1849.",,,,,,36112-1,wfo-4000012201,7274052,,
+78301228-8fcd-11eb-924d-9cd76263cbd0,species,crenata,Dissomeria,,"Hook.f. ex Benth.",,1849,,"Niger Fl. 362 1849",,,,,,,wfo-0000925102,7562964,,
+78302d9e-8fcd-11eb-924d-9cd76263cbd0,species,glanduligera,Dissomeria,,Sleumer,,1957,,"Bull. Jard. Bot. État 27: 533 1957",,Q55775918,,,,365300-1,wfo-0000925103,3877876,,

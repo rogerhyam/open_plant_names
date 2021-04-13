@@ -1,4 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7bf98bc-8fd1-11eb-924d-9cd76263cbd0,genus,Osteophloeum,,,Warb.,1897,"Nova Acta Acad. Caes. Leop.–Carol. German. Nat. Cur. 68: 127, 162, t. 1, f. 1–5, t. 4, f. 1–4. 1897.",,,,,27246-1,wfo-4000027408,3742996,
-3ef2d3f2-8fcc-11eb-924d-9cd76263cbd0,species,platyspermum,Osteophloeum,,"(Spruce ex A.DC.) Warb.",1895,"Ber. Deutsch. Bot. Ges. 13: 89 1895 publ. 1896",,,,,177284-2,wfo-0000388994,10979507,
-c245d6c2-8fcd-11eb-924d-9cd76263cbd0,species,sulcatum,Osteophloeum,,Little,1969,"Phytologia 18(7): 404, f. 6 1969",,,,,177285-2,wfo-0001085232,3743806,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7bf98bc-8fd1-11eb-924d-9cd76263cbd0,genus,Osteophloeum,,,Warb.,,1897,,"Nova Acta Acad. Caes. Leop.–Carol. German. Nat. Cur. 68: 127, 162, t. 1, f. 1–5, t. 4, f. 1–4. 1897.",,,,,,27246-1,wfo-4000027408,3742996,,
+3ef2d3f2-8fcc-11eb-924d-9cd76263cbd0,species,platyspermum,Osteophloeum,,"(Spruce ex A.DC.) Warb.",,1895,,"Ber. Deutsch. Bot. Ges. 13: 89 1895 publ. 1896",,Q102247392,,,,177284-2,wfo-0000388994,10979507,,
+b7b11a3e-9a07-11eb-a8a2-19ed5c03f8d3,variety,sulcatum,Osteophloeum,platyspermum,"(Little) T.S.Jaram. & Balslev",,2001,,"Nordic J. Bot. 20(4): 445",,Q55761860,,,,1019005-1,,,,
+c245d6c2-8fcd-11eb-924d-9cd76263cbd0,species,sulcatum,Osteophloeum,,Little,,1969,,"Phytologia 18(7): 404, f. 6 1969",,,,,,177285-2,wfo-0001085232,3743806,,

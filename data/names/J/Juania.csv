@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54383c8-8fd1-11eb-924d-9cd76263cbd0,genus,Juania,,,Drude,1878,"Nachr. Königl. Ges. Wiss. Georg-Augusts-Univ. 1878: 40. 1878.",,,,,31292-1,wfo-4000019633,2738741,
-f4f928e2-8fca-11eb-924d-9cd76263cbd0,species,australis,Juania,,"(Mart.) Drude ex Hook.f.",1884,"Rep. Kew Gard. App.: 57 1884",,,,,667636-1,wfo-0000220210,5294719,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54383c8-8fd1-11eb-924d-9cd76263cbd0,genus,Juania,,,Drude,,1878,,"Nachr. Königl. Ges. Wiss. Georg-Augusts-Univ. 1878: 40. 1878.",,,,,,31292-1,wfo-4000019633,2738741,,
+f4f928e2-8fca-11eb-924d-9cd76263cbd0,species,australis,Juania,,"(Mart.) Drude ex Hook.f.",,1884,,"Rep. Kew Gard. App.: 57 1884",,,,,,667636-1,wfo-0000220210,5294719,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df6d3b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Androtrichum,,,"(Brongn.) Brongn.",1834,"Voy. Monde 177. 1834.",,,,,13577-1,wfo-4000002025,2707890,
-1e98f6ea-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Androtrichum,,"(Kunth) H.Pfeiff.",1940,"Revista Sudamer. Bot. 6: 185 1940",,,,60c1ce74-8fcd-11eb-924d-9cd76263cbd0,13191-2,wfo-0000339724,2707891,
-1e9916b6-8fcc-11eb-924d-9cd76263cbd0,species,montevidense,Androtrichum,,"(Link) Schrad.",1835,"Index Seminum (GOET) 1 1835",,,,5372977c-8fcc-11eb-924d-9cd76263cbd0,941507-1,wfo-0000339725,2707897,
-1e99329a-8fcc-11eb-924d-9cd76263cbd0,species,polycephalum,Androtrichum,,"(Brongn.) Kunth",1837,"Enum. Pl. 2: 250 1837",,,,,,wfo-0000339726,2707900,
-1e99536a-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Androtrichum,,"(Nees) Herter",1953,"Revista Sudamer. Bot. 9: 163 1953",,,,,13193-2,wfo-0000339727,2707892,
-1e999fb4-8fcc-11eb-924d-9cd76263cbd0,species,trigynum,Androtrichum,,"(Spreng.) H.Pfeiff.",1937,"Repert. Spec. Nov. Regni Veg. 42: 10 1937",,,,,13194-2,wfo-0000339728,2707895,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df6d3b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Androtrichum,,,"(Brongn.) Brongn.",,1834,,"Voy. Monde 177. 1834.",,,,,,13577-1,wfo-4000002025,2707890,,
+1e98f6ea-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Androtrichum,,"(Kunth) H.Pfeiff.",,1940,,"Revista Sudamer. Bot. 6: 185 1940",,,,60c1ce74-8fcd-11eb-924d-9cd76263cbd0,,13191-2,wfo-0000339724,2707891,,
+1e9916b6-8fcc-11eb-924d-9cd76263cbd0,species,montevidense,Androtrichum,,"(Link) Schrad.",,1835,,"Index Seminum (GOET) 1 1835",,,,5372977c-8fcc-11eb-924d-9cd76263cbd0,,941507-1,wfo-0000339725,2707897,,
+1e99329a-8fcc-11eb-924d-9cd76263cbd0,species,polycephalum,Androtrichum,,"(Brongn.) Kunth",,1837,,"Enum. Pl. 2: 250 1837",,,,,,,wfo-0000339726,2707900,,
+1e99536a-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Androtrichum,,"(Nees) Herter",,1953,,"Revista Sudamer. Bot. 9: 163 1953",,,,,,13193-2,wfo-0000339727,2707892,,
+1e999fb4-8fcc-11eb-924d-9cd76263cbd0,species,trigynum,Androtrichum,,"(Spreng.) H.Pfeiff.",,1937,,"Repert. Spec. Nov. Regni Veg. 42: 10 1937",,Q55808558,,,,13194-2,wfo-0000339728,2707895,,

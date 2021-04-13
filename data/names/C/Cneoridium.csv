@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d90ab4-8fd1-11eb-924d-9cd76263cbd0,genus,Cneoridium,,,Hook.f.,1862,"Gen. Pl. 1: 312. 1862.",,,,,38181-1,wfo-4000008686,3190067,
-ce2e2792-8fcc-11eb-924d-9cd76263cbd0,species,dumosum,Cneoridium,,Hook.f.,1862,"Gen. Pl. 1: 312 1862",,,,,813688-1,wfo-0000612647,3836323,
-d8000a50-8fcd-11eb-924d-9cd76263cbd0,species,dumosum,Cneoridium,,"(Nutt. ex Torr. & A.Gray) Hook.f. ex Baill.",1873,"Hist. Pl. 4: 498 1873",,,,,992208-1,wfo-0001132915,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d90ab4-8fd1-11eb-924d-9cd76263cbd0,genus,Cneoridium,,,Hook.f.,,1862,,"Gen. Pl. 1: 312. 1862.",,,,,,38181-1,wfo-4000008686,3190067,,
+ce2e2792-8fcc-11eb-924d-9cd76263cbd0,species,dumosum,Cneoridium,,Hook.f.,,1862,,"Gen. Pl. 1: 312 1862",,,,,,813688-1,wfo-0000612647,3836323,,
+d8000a50-8fcd-11eb-924d-9cd76263cbd0,species,dumosum,Cneoridium,,"(Nutt. ex Torr. & A.Gray) Hook.f. ex Baill.",,1873,,"Hist. Pl. 4: 498 1873",,,,,,992208-1,wfo-0001132915,,,

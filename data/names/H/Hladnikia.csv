@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4c75a14-8fd1-11eb-924d-9cd76263cbd0,genus,Hladnikia,,,Rchb.,1831,"Iconogr. Bot. Pl. Crit. 9: 9. 1831.",,,,,40098-1,wfo-4000018009,5428458,
-0e844006-8fcd-11eb-924d-9cd76263cbd0,species,cicutaria,Hladnikia,,Boiss.,1844,"Ann. Sci. Nat., Bot. II, 2: 71 1844",,,,,843320-1,wfo-0000724032,5540300,
-0e8461b2-8fcd-11eb-924d-9cd76263cbd0,species,golacensis,Hladnikia,,W.D.J.Koch,1835,"Syn. Fl. Germ. Helv. 320 1835",,,,,843321-1,wfo-0000724033,5540297,
-0e84936c-8fcd-11eb-924d-9cd76263cbd0,species,golaka,Hladnikia,,"(Hacq.) Rchb.f.",1864,"Icon. Fl. Germ. Helv. 21: 95 1864",,,,aa44f5d6-8fcc-11eb-924d-9cd76263cbd0,843322-1,wfo-0000724034,5540293,
-0e84b2ca-8fcd-11eb-924d-9cd76263cbd0,species,pastinacifolia,Hladnikia,,Rchb.,1831,"Iconogr. Bot. Pl. Crit. 9: 9 1831",,,,,843323-1,wfo-0000724035,5540289,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4c75a14-8fd1-11eb-924d-9cd76263cbd0,genus,Hladnikia,,,Rchb.,,1831,,"Iconogr. Bot. Pl. Crit. 9: 9. 1831.",,,,,,40098-1,wfo-4000018009,5428458,,
+0e844006-8fcd-11eb-924d-9cd76263cbd0,species,cicutaria,Hladnikia,,Boiss.,,1844,,"Ann. Sci. Nat., Bot. II, 2: 71 1844",,,,,,843320-1,wfo-0000724032,5540300,,
+0e8461b2-8fcd-11eb-924d-9cd76263cbd0,species,golacensis,Hladnikia,,W.D.J.Koch,,1835,,"Syn. Fl. Germ. Helv. 320 1835",,,,,,843321-1,wfo-0000724033,5540297,,
+0e84936c-8fcd-11eb-924d-9cd76263cbd0,species,golaka,Hladnikia,,"(Hacq.) Rchb.f.",,1864,,"Icon. Fl. Germ. Helv. 21: 95 1864",,,,aa44f5d6-8fcc-11eb-924d-9cd76263cbd0,,843322-1,wfo-0000724034,5540293,,
+0e84b2ca-8fcd-11eb-924d-9cd76263cbd0,species,pastinacifolia,Hladnikia,,Rchb.,,1831,,"Iconogr. Bot. Pl. Crit. 9: 9 1831",,,,,,843323-1,wfo-0000724035,5540289,,

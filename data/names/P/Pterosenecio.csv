@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e94dc294-8fd1-11eb-924d-9cd76263cbd0,genus,Pterosenecio,,,,,,,,,,,wfo-4000032024,7336409,
-0b49be8a-8fb3-11eb-924d-9cd76263cbd0,species,grandis,Pterosenecio,,"Sch.Bip. ex Baker",1884,"Fl. Bras. (Martius) 6(3): 304 1884",,,,,240364-1,wfo-0000040344,4214161,
-dd5ca87e-8fd1-11eb-924d-9cd76263cbd0,species,laciniatus,Pterosicyos,,Brandegee,1914,"Univ. Calif. Publ. Bot. 6(4): 72 1914",,,,,309690-2,wfo-0001301161,3624154,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e94dc294-8fd1-11eb-924d-9cd76263cbd0,genus,Pterosenecio,,,,,,,,,,,,,,wfo-4000032024,7336409,,
+0b49be8a-8fb3-11eb-924d-9cd76263cbd0,species,grandis,Pterosenecio,,"Sch.Bip. ex Baker",,1884,,"Fl. Bras. (Martius) 6(3): 304 1884",,,,,,240364-1,wfo-0000040344,4214161,,
+dd5ca87e-8fd1-11eb-924d-9cd76263cbd0,species,laciniatus,Pterosicyos,,Brandegee,,1914,,"Univ. Calif. Publ. Bot. 6(4): 72 1914",,,,,,309690-2,wfo-0001301161,3624154,,

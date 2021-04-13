@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e437947e-8fd1-11eb-924d-9cd76263cbd0,genus,Guaiava,,,Adans.,1763,"Fam. Pl. 2: 88, 563 ("">Guiava<""). 1763.",,,,,,wfo-4000016294,7330524,
-c2e9e6a4-8fcd-11eb-924d-9cd76263cbd0,species,pyrigormis,Guaiava,,Gaertn.,1788,"Fruct. et Sem. 185 1788",,,,,,wfo-0001086506,7580422,
-ac84d1f8-8fb4-11eb-924d-9cd76263cbd0,species,bilabiata,Guaicaia,,Maguire,1967,"Mem. New York Bot. Gard. 17(1) 437 1967",,,,,277782-2,wfo-0000068305,3117541,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e437947e-8fd1-11eb-924d-9cd76263cbd0,genus,Guaiava,,,Adans.,,1763,,"Fam. Pl. 2: 88, 563 ("">Guiava<""). 1763.",,,,,,,wfo-4000016294,7330524,,
+c2e9e6a4-8fcd-11eb-924d-9cd76263cbd0,species,pyrigormis,Guaiava,,Gaertn.,,1788,,"Fruct. et Sem. 185 1788",,,,,,,wfo-0001086506,7580422,,
+ac84d1f8-8fb4-11eb-924d-9cd76263cbd0,species,bilabiata,Guaicaia,,Maguire,,1967,,"Mem. New York Bot. Gard. 17(1) 437 1967",,,,,,277782-2,wfo-0000068305,3117541,,

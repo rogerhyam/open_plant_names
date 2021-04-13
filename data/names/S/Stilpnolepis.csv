@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ead76a34-8fd1-11eb-924d-9cd76263cbd0,genus,Stilpnolepis,,,Krasch.,,,,,,,11165-1,wfo-4000036719,3132207,
-00b1f8a8-8fb2-11eb-924d-9cd76263cbd0,species,centiflora,Stilpnolepis,,"(Maxim.) Krasch.",1946,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 209 (1946).",,,,670ef224-8fb5-11eb-924d-9cd76263cbd0,,wfo-0000003353,3132208,
-e2b404e4-8fb2-11eb-924d-9cd76263cbd0,species,intricata,Stilpnolepis,,"(Franch.) C.Shih",1985,"Acta Phytotax. Sin. 23(6): 471 (1985):",,,,,915514-1,wfo-0000036731,3132210,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ead76a34-8fd1-11eb-924d-9cd76263cbd0,genus,Stilpnolepis,,,Krasch.,,,,,,,,,,11165-1,wfo-4000036719,3132207,,
+00b1f8a8-8fb2-11eb-924d-9cd76263cbd0,species,centiflora,Stilpnolepis,,"(Maxim.) Krasch.",,1946,,"in Not. Syst. Herb. Inst. Bot. Acad. Sci. URSS, ix. 209 (1946).",,,,670ef224-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000003353,3132208,,
+e2b404e4-8fb2-11eb-924d-9cd76263cbd0,species,intricata,Stilpnolepis,,"(Franch.) C.Shih",,1985,,"Acta Phytotax. Sin. 23(6): 471 (1985):",,,,,,915514-1,wfo-0000036731,3132210,,

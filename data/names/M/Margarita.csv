@@ -1,3 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65d73e0-8fd1-11eb-924d-9cd76263cbd0,genus,Margarita,,,,,,,,,,,wfo-4000023141,3232243,
-0daa5f5a-8fb2-11eb-924d-9cd76263cbd0,species,bellidiastrum,Margarita,,"(L.) Gaudin",1829,"Fl. Helv. v. 336 (1829)",,,,,231716-1,wfo-0000008158,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65d73e0-8fd1-11eb-924d-9cd76263cbd0,genus,Margarita,,,Lister,,1894,,"Monogr. Mycetozoa (London) 203 (1894)",,,,e65d73e0-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000023141,3232243,12140," "
+0daa5f5a-8fb2-11eb-924d-9cd76263cbd0,species,bellidiastrum,Margarita,,"(L.) Gaudin",,1829,,"Fl. Helv. v. 336 (1829)",,,,,,231716-1,wfo-0000008158,,,
+ff3f8d18-9bab-11eb-a8a2-19ed5c03f8d3,species,intermedia,Margarita,,"(Meyl.) anon. ined.",,,,,,,,d0d6cb7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,172712," "
+97947e6a-9bad-11eb-a8a2-19ed5c03f8d3,species,metallica,Margarita,,"(Berk. & Broome) Lister",,1894,,"Monogr. Mycetozoa 203 (1894)",,,,1cdd32a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,356583," "
+d0d6cb7a-9bac-11eb-a8a2-19ed5c03f8d3,variety,intermedia,Margarita,metallica,Meyl.,,1910,,"Bulletin de la Société Vaudoise des Sciences Naturelles 46: 56 (1910)",,,,d0d6cb7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250600," "
+a67bb6a6-9bac-11eb-a8a2-19ed5c03f8d3,variety,metallica,Margarita,metallica,"(Berk. & Broome) Lister",,1894,,"Monogr. Mycetozoa 203 (1894)",,,,a67bb6a6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,425097," "
+de97eed8-9bac-11eb-a8a2-19ed5c03f8d3,variety,microspora,Margarita,metallica,Meyl.,,,,,,,,de97eed8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270995," "

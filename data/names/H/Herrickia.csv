@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4a561ac-8fd1-11eb-924d-9cd76263cbd0,genus,Herrickia,,,"Wooton & Standl.",,,,,,,297597-2,wfo-4000017588,3091431,
-62bb7b00-8fb2-11eb-924d-9cd76263cbd0,species,glauca,Herrickia,,"(Nutt.) Brouillet",2004,"Sida 21(2): 897. 2004 [28 Dec 2004]",,,,,60437829-2,wfo-0000022857,3091436,
-e9216d6c-8fb7-11eb-924d-9cd76263cbd0,variety,pulchra,Herrickia,glauca,"(S.F.Blake) Brouillet",2004,"Sida 21(2): 897. 2004 [28 Dec 2004]",,,,,60437830-2,wfo-0000104373,4240808,
-af1bfe0c-8fb2-11eb-924d-9cd76263cbd0,species,horrida,Herrickia,,"Wooton & Standl.",1913,1913,,,,,,wfo-0000031744,3091441,
-1821af4c-8fb2-11eb-924d-9cd76263cbd0,species,kingii,Herrickia,,"(D.C.Eaton) Brouillet, Urbatsch & R.P.Roberts",2004,"Sida 21(2): 898. 2004 [28 Dec 2004]",,,,d9764d86-8fb4-11eb-924d-9cd76263cbd0,60437832-2,wfo-0000010974,3091444,
-b96c96c2-8fb8-11eb-924d-9cd76263cbd0,variety,barnebyana,Herrickia,kingii,"(S.L.Welsh & Goodrich) Brouillet",2004,"Sida 21(2): 898. 2004 [28 Dec 2004]",,,,2ea48c0c-8fb8-11eb-924d-9cd76263cbd0,60437833-2,wfo-0000112022,4240794,
-8cbd0b8a-8fb2-11eb-924d-9cd76263cbd0,species,wasatchensis,Herrickia,,"(M.E.Jones) Brouillet",2004,"Sida 21(2): 897. 2004 [28 Dec 2004]",,,,01f1dcf0-8fb8-11eb-924d-9cd76263cbd0,60437831-2,wfo-0000027825,3091432,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4a561ac-8fd1-11eb-924d-9cd76263cbd0,genus,Herrickia,,,"Wooton & Standl.",,,,,,,,,,297597-2,wfo-4000017588,3091431,,
+62bb7b00-8fb2-11eb-924d-9cd76263cbd0,species,glauca,Herrickia,,"(Nutt.) Brouillet",,2004,,"Sida 21(2): 897. 2004 [28 Dec 2004]",,Q91202566,,,,60437829-2,wfo-0000022857,3091436,,
+e9216d6c-8fb7-11eb-924d-9cd76263cbd0,variety,pulchra,Herrickia,glauca,"(S.F.Blake) Brouillet",,2004,,"Sida 21(2): 897. 2004 [28 Dec 2004]",,Q91202566,,,,60437830-2,wfo-0000104373,4240808,,
+af1bfe0c-8fb2-11eb-924d-9cd76263cbd0,species,horrida,Herrickia,,"Wooton & Standl.",,1913,,1913,,,,,,,wfo-0000031744,3091441,,
+1821af4c-8fb2-11eb-924d-9cd76263cbd0,species,kingii,Herrickia,,"(D.C.Eaton) Brouillet, Urbatsch & R.P.Roberts",,2004,,"Sida 21(2): 898. 2004 [28 Dec 2004]",,Q91202566,,d9764d86-8fb4-11eb-924d-9cd76263cbd0,,60437832-2,wfo-0000010974,3091444,,
+b96c96c2-8fb8-11eb-924d-9cd76263cbd0,variety,barnebyana,Herrickia,kingii,"(S.L.Welsh & Goodrich) Brouillet",,2004,,"Sida 21(2): 898. 2004 [28 Dec 2004]",,Q91202566,,2ea48c0c-8fb8-11eb-924d-9cd76263cbd0,,60437833-2,wfo-0000112022,4240794,,
+8cbd0b8a-8fb2-11eb-924d-9cd76263cbd0,species,wasatchensis,Herrickia,,"(M.E.Jones) Brouillet",,2004,,"Sida 21(2): 897. 2004 [28 Dec 2004]",,Q91202566,,01f1dcf0-8fb8-11eb-924d-9cd76263cbd0,,60437831-2,wfo-0000027825,3091432,,

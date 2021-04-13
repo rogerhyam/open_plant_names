@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67ede9a-8fd1-11eb-924d-9cd76263cbd0,genus,Meizotropis,,,,,,,,,,,wfo-4000023555,7989554,
-78446b86-8fc5-11eb-924d-9cd76263cbd0,species,buteiformis,Meizotropis,,Voigt,,,,,,,,wfo-0000193236,2951334,
-ae1531e4-8fc7-11eb-924d-9cd76263cbd0,species,pellita,Meizotropis,,"(Prain) Sanjappa",,,,,,ae22955a-8fc7-11eb-924d-9cd76263cbd0,,wfo-0000203923,2951338,
-35abc1a0-8fcc-11eb-924d-9cd76263cbd0,species,sinensis,Mekistus,,"Lour. ex Gomes Mach.",1868,"Mem. Acad. Real Sci. Lisboa, 2 Cl. Sci. Moraes n.s., 4(1): 29 1868",,,,,170692-1,wfo-0000376706,,
-78478fda-8fcc-11eb-924d-9cd76263cbd0,species,sieberi,Melachne,,"Schrad. ex Schult. & Schult.f.",1830,"Syst. Veg. 7(2): lxxv 1830",,,,,311153-1,wfo-0000471039,2710107,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67ede9a-8fd1-11eb-924d-9cd76263cbd0,genus,Meizotropis,,,,,,,,,,,,,,wfo-4000023555,7989554,,
+78446b86-8fc5-11eb-924d-9cd76263cbd0,species,buteiformis,Meizotropis,,Voigt,,,,,,,,,,,wfo-0000193236,2951334,,
+ae1531e4-8fc7-11eb-924d-9cd76263cbd0,species,pellita,Meizotropis,,"(Prain) Sanjappa",,,,,,,,ae22955a-8fc7-11eb-924d-9cd76263cbd0,,,wfo-0000203923,2951338,,
+35abc1a0-8fcc-11eb-924d-9cd76263cbd0,species,sinensis,Mekistus,,"Lour. ex Gomes Mach.",,1868,,"Mem. Acad. Real Sci. Lisboa, 2 Cl. Sci. Moraes n.s., 4(1): 29 1868",,,,,,170692-1,wfo-0000376706,,,
+78478fda-8fcc-11eb-924d-9cd76263cbd0,species,sieberi,Melachne,,"Schrad. ex Schult. & Schult.f.",,1830,,"Syst. Veg. 7(2): lxxv 1830",,,,,,311153-1,wfo-0000471039,2710107,,

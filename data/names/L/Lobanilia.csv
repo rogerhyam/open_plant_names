@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e602ca3a-8fd1-11eb-924d-9cd76263cbd0,genus,Lobanilia,,,Radcl.-Sm.,1989,"Kew Bull. 44(2): 334. 1989.",,,,,925216-1,wfo-4000022029,3054839,
-dbe818bc-8fcb-11eb-924d-9cd76263cbd0,species,asterothrix,Lobanilia,,Radcl.-Sm.,1989,"Kew Bull. 44: 335 1989",,,,,937564-1,wfo-0000230465,3054852,
-dbe83400-8fcb-11eb-924d-9cd76263cbd0,species,bakeriana,Lobanilia,,"(Baill.) Radcl.-Sm.",1989,"Kew Bull. 44: 335 1989",,,,,946859-1,wfo-0000230466,3054847,
-dbe85138-8fcb-11eb-924d-9cd76263cbd0,species,claoxyloides,Lobanilia,,Radcl.-Sm.,1989,"Kew Bull. 44: 337 1989",,,,,937565-1,wfo-0000230467,3054845,
-dbe888c4-8fcb-11eb-924d-9cd76263cbd0,species,crotonoides,Lobanilia,,Radcl.-Sm.,1989,"Kew Bull. 44: 337 1989",,,,,937566-1,wfo-0000230469,3054846,
-dbe8a44e-8fcb-11eb-924d-9cd76263cbd0,species,hirtella,Lobanilia,,"(Baill.) Radcl.-Sm.",1989,"Kew Bull. 44: 338 1989",,,,,946860-1,wfo-0000230470,3054843,
-dbe8c46a-8fcb-11eb-924d-9cd76263cbd0,species,luteobrunnea,Lobanilia,,"(Baker) Radcl.-Sm.",1989,"Kew Bull. 44: 338 1989",,,,,946861-1,wfo-0000230471,3054849,
-dbe8e026-8fcb-11eb-924d-9cd76263cbd0,species,ovalis,Lobanilia,,"(Baill.) Radcl.-Sm.",1989,"Kew Bull. 44: 338 1989",,,,71a1d2c0-8fcd-11eb-924d-9cd76263cbd0,946862-1,wfo-0000230472,3054840,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e602ca3a-8fd1-11eb-924d-9cd76263cbd0,genus,Lobanilia,,,Radcl.-Sm.,,1989,,"Kew Bull. 44(2): 334. 1989.",,Q55780448,,,,925216-1,wfo-4000022029,3054839,,
+dbe818bc-8fcb-11eb-924d-9cd76263cbd0,species,asterothrix,Lobanilia,,Radcl.-Sm.,,1989,,"Kew Bull. 44: 335 1989",,Q55780448,,,,937564-1,wfo-0000230465,3054852,,
+dbe83400-8fcb-11eb-924d-9cd76263cbd0,species,bakeriana,Lobanilia,,"(Baill.) Radcl.-Sm.",,1989,,"Kew Bull. 44: 335 1989",,Q55780448,,,,946859-1,wfo-0000230466,3054847,,
+dbe85138-8fcb-11eb-924d-9cd76263cbd0,species,claoxyloides,Lobanilia,,Radcl.-Sm.,,1989,,"Kew Bull. 44: 337 1989",,Q55780448,,,,937565-1,wfo-0000230467,3054845,,
+dbe888c4-8fcb-11eb-924d-9cd76263cbd0,species,crotonoides,Lobanilia,,Radcl.-Sm.,,1989,,"Kew Bull. 44: 337 1989",,Q55780448,,,,937566-1,wfo-0000230469,3054846,,
+dbe8a44e-8fcb-11eb-924d-9cd76263cbd0,species,hirtella,Lobanilia,,"(Baill.) Radcl.-Sm.",,1989,,"Kew Bull. 44: 338 1989",,Q55780448,,,,946860-1,wfo-0000230470,3054843,,
+dbe8c46a-8fcb-11eb-924d-9cd76263cbd0,species,luteobrunnea,Lobanilia,,"(Baker) Radcl.-Sm.",,1989,,"Kew Bull. 44: 338 1989",,Q55780448,,,,946861-1,wfo-0000230471,3054849,,
+dbe8e026-8fcb-11eb-924d-9cd76263cbd0,species,ovalis,Lobanilia,,"(Baill.) Radcl.-Sm.",,1989,,"Kew Bull. 44: 338 1989",,Q55780448,,71a1d2c0-8fcd-11eb-924d-9cd76263cbd0,,946862-1,wfo-0000230472,3054840,,

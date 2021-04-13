@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46fccb8-8fd1-11eb-924d-9cd76263cbd0,genus,Harrera,,,,,,,,,,,wfo-4000016967,7272944,
-616802ca-8fbf-11eb-924d-9cd76263cbd0,species,gerascanthoides,Harrera,,Macfad.,1837,"Fl. Jamaica [Macfadyen] 2: 61 1837",,,,,568939-1,wfo-0000159620,3861497,
-6172f3a6-8fbf-11eb-924d-9cd76263cbd0,species,pedunculata,Harrera,,Macfad.,1837,"Fl. Jamaica [Macfadyen] 2: 101 1837",,,,,568940-1,wfo-0000159621,3861488,
-617df9ae-8fbf-11eb-924d-9cd76263cbd0,species,sparsifolia,Harrera,,Macfad.,1837,"Fl. Jamaica [Macfadyen] 2: 62 1837",,,,,568941-1,wfo-0000159622,3861477,
-61889616-8fbf-11eb-924d-9cd76263cbd0,species,trinervis,Harrera,,Macfad.,1837,"Fl. Jamaica [Macfadyen] 2: 63 1837",,,,,568942-1,wfo-0000159623,3861470,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46fccb8-8fd1-11eb-924d-9cd76263cbd0,genus,Harrera,,,,,,,,,,,,,,wfo-4000016967,7272944,,
+616802ca-8fbf-11eb-924d-9cd76263cbd0,species,gerascanthoides,Harrera,,Macfad.,,1837,,"Fl. Jamaica [Macfadyen] 2: 61 1837",,,,,,568939-1,wfo-0000159620,3861497,,
+6172f3a6-8fbf-11eb-924d-9cd76263cbd0,species,pedunculata,Harrera,,Macfad.,,1837,,"Fl. Jamaica [Macfadyen] 2: 101 1837",,,,,,568940-1,wfo-0000159621,3861488,,
+617df9ae-8fbf-11eb-924d-9cd76263cbd0,species,sparsifolia,Harrera,,Macfad.,,1837,,"Fl. Jamaica [Macfadyen] 2: 62 1837",,,,,,568941-1,wfo-0000159622,3861477,,
+61889616-8fbf-11eb-924d-9cd76263cbd0,species,trinervis,Harrera,,Macfad.,,1837,,"Fl. Jamaica [Macfadyen] 2: 63 1837",,,,,,568942-1,wfo-0000159623,3861470,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfad5c2c-8fd1-11eb-924d-9cd76263cbd0,genus,Arcangelisia,,,Becc.,1877,"Malesia 1: 145. 1877.",,,,,26880-1,wfo-4000002872,7268743,
-a2d6e3ae-8fcc-11eb-924d-9cd76263cbd0,species,flava,Arcangelisia,,"(L.) Merr.",1917,"Interpr. Herb. Amboin. 222 1917",,,,,580199-1,wfo-0000543220,3830318,
-a2d70032-8fcc-11eb-924d-9cd76263cbd0,species,gusanlung,Arcangelisia,,H.S.Lo,1980,"Acta Phytotax. Sin. 18: 100 1980",,,,,580200-1,wfo-0000543221,3830307,
-a2d71d38-8fcc-11eb-924d-9cd76263cbd0,species,inclyta,Arcangelisia,,Becc.,1877,"Malesia 1: 147 1877",,,,,580201-1,wfo-0000543222,3830299,
-a2d73994-8fcc-11eb-924d-9cd76263cbd0,species,lemniscata,Arcangelisia,,"(Miers.) Becc.",1877,"Malesia 1: 147 1877",,,,,580202-1,wfo-0000543223,3830290,
-a2d753fc-8fcc-11eb-924d-9cd76263cbd0,species,loureiroi,Arcangelisia,,"(Pierre) Diels",1910,"Pflanzenr. IV, 94: 104 1910",,,,,,wfo-0000543224,3830280,
-a2d77206-8fcc-11eb-924d-9cd76263cbd0,species,tympanopoda,Arcangelisia,,"(Lauterb. & K.Schum.) Diels",1910,"Pflanzenr. IV, 94: 106 1910",,,,,,wfo-0000543225,3830271,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfad5c2c-8fd1-11eb-924d-9cd76263cbd0,genus,Arcangelisia,,,Becc.,,1877,,"Malesia 1: 145. 1877.",,,,,,26880-1,wfo-4000002872,7268743,,
+a2d6e3ae-8fcc-11eb-924d-9cd76263cbd0,species,flava,Arcangelisia,,"(L.) Merr.",,1917,,"Interpr. Herb. Amboin. 222 1917",,,,,,580199-1,wfo-0000543220,3830318,,
+a2d70032-8fcc-11eb-924d-9cd76263cbd0,species,gusanlung,Arcangelisia,,H.S.Lo,,1980,,"Acta Phytotax. Sin. 18: 100 1980",,,,,,580200-1,wfo-0000543221,3830307,,
+a2d71d38-8fcc-11eb-924d-9cd76263cbd0,species,inclyta,Arcangelisia,,Becc.,,1877,,"Malesia 1: 147 1877",,,,,,580201-1,wfo-0000543222,3830299,,
+a2d73994-8fcc-11eb-924d-9cd76263cbd0,species,lemniscata,Arcangelisia,,"(Miers.) Becc.",,1877,,"Malesia 1: 147 1877",,,,,,580202-1,wfo-0000543223,3830290,,
+a2d753fc-8fcc-11eb-924d-9cd76263cbd0,species,loureiroi,Arcangelisia,,"(Pierre) Diels",,1910,,"Pflanzenr. IV, 94: 104 1910",,,,,,,wfo-0000543224,3830280,,
+a2d77206-8fcc-11eb-924d-9cd76263cbd0,species,tympanopoda,Arcangelisia,,"(Lauterb. & K.Schum.) Diels",,1910,,"Pflanzenr. IV, 94: 106 1910",,,,,,,wfo-0000543225,3830271,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8e2bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Antinisa,,,"(Tul.) Hutch.",1941,"J. Bot. 79: 110. 1941.",,,,,,wfo-4000002495,7274064,
-73ce8b06-8fcd-11eb-924d-9cd76263cbd0,species,hillebrandtii,Antinisa,,"(Baill.) Hutch.",1941,"J. Bot. 79: 111 1941",,,,,364930-1,wfo-0000918824,7963774,
-73cea7a8-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Antinisa,,"(DC.) Hutch.",1941,"J. Bot. 79: 110 1941",,,,,364931-1,wfo-0000918825,3877978,
-73cedff2-8fcd-11eb-924d-9cd76263cbd0,species,vatkeana,Antinisa,,"(O.Hoffm.) Hutch.",1941,"J. Bot. 79: 111 1941",,,,,364932-1,wfo-0000918827,3877969,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8e2bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Antinisa,,,"(Tul.) Hutch.",,1941,,"J. Bot. 79: 110. 1941.",,,,,,,wfo-4000002495,7274064,,
+73ce8b06-8fcd-11eb-924d-9cd76263cbd0,species,hillebrandtii,Antinisa,,"(Baill.) Hutch.",,1941,,"J. Bot. 79: 111 1941",,,,,,364930-1,wfo-0000918824,7963774,,
+73cea7a8-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Antinisa,,"(DC.) Hutch.",,1941,,"J. Bot. 79: 110 1941",,,,,,364931-1,wfo-0000918825,3877978,,
+73cedff2-8fcd-11eb-924d-9cd76263cbd0,species,vatkeana,Antinisa,,"(O.Hoffm.) Hutch.",,1941,,"J. Bot. 79: 111 1941",,,,,,364932-1,wfo-0000918827,3877969,,

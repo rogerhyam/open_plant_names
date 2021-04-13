@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea312fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Scorodoxylum,,,Nees,1846,"Pl. Hartw. 236. 1846.",,,,,,wfo-4000034822,7264044,
-61daaba6-8fcc-11eb-924d-9cd76263cbd0,species,hartwegianum,Scorodoxylum,,Nees,1846,"Pl. Hartw. 236 1846",,,,,55006-1,wfo-0000433683,3777341,
-b0c9741c-8fcd-11eb-924d-9cd76263cbd0,species,terminale,Scorodoxylum,,Nees,1846,"Bot. Voy. Sulphur 145 1846",,,,,,wfo-0001045414,7775825,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea312fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Scorodoxylum,,,Nees,,1846,,"Pl. Hartw. 236. 1846.",,,,,,,wfo-4000034822,7264044,,
+61daaba6-8fcc-11eb-924d-9cd76263cbd0,species,hartwegianum,Scorodoxylum,,Nees,,1846,,"Pl. Hartw. 236 1846",,,,,,55006-1,wfo-0000433683,3777341,,
+b0c9741c-8fcd-11eb-924d-9cd76263cbd0,species,terminale,Scorodoxylum,,Nees,,1846,,"Bot. Voy. Sulphur 145 1846",,,,,,,wfo-0001045414,7775825,,

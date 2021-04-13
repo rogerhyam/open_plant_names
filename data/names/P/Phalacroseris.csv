@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8538b9e-8fd1-11eb-924d-9cd76263cbd0,genus,Phalacroseris,,,A.Gray,,,,,,,10490-1,wfo-4000029084,3118093,
-9621c20e-8fb4-11eb-924d-9cd76263cbd0,species,bolanderi,Phalacroseris,,A.Gray,1868,"Proc. Amer. Acad. Arts vii. (1868) 364",,,,,237648-1,wfo-0000067179,3118094,
-f369db3a-8fb5-11eb-924d-9cd76263cbd0,variety,coronata,Phalacroseris,bolanderi,H.M.Hall,1901,"Bot. Gaz. 31: 393. 1901",,,,,192249-2,wfo-0000084034,4236716,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8538b9e-8fd1-11eb-924d-9cd76263cbd0,genus,Phalacroseris,,,A.Gray,,,,,,,,,,10490-1,wfo-4000029084,3118093,,
+9621c20e-8fb4-11eb-924d-9cd76263cbd0,species,bolanderi,Phalacroseris,,A.Gray,,1868,,"Proc. Amer. Acad. Arts vii. (1868) 364",,,,,,237648-1,wfo-0000067179,3118094,,
+f369db3a-8fb5-11eb-924d-9cd76263cbd0,variety,coronata,Phalacroseris,bolanderi,H.M.Hall,,1901,,"Bot. Gaz. 31: 393. 1901",,Q55758560,,,,192249-2,wfo-0000084034,4236716,,

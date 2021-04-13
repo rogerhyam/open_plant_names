@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e226e4aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cremospermopsis,,,"L.E.Skog & L.P.Kvist",2002,"Novon 12(2): 264–269, f. 1–2. 2002.",,,,,20006954-1,wfo-4000009652,6365290,
-d6410260-8fcc-11eb-924d-9cd76263cbd0,species,cestroides,Cremospermopsis,,"(Fritsch) L.E.Skog & L.P.Kvist",2002,"Novon 12: 265 2002",,,,b0deb210-8fcc-11eb-924d-9cd76263cbd0,20006955-1,wfo-0000625978,3820071,
-d6412e84-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cremospermopsis,,"L.E.Skog & L.P.Kvist",2002,"Novon 12: 267 2002",,,,,323956-2,wfo-0000625979,3820052,
-2fc5e8a0-8fcd-11eb-924d-9cd76263cbd0,species,filiformis,Cremostachys,,"(Blume) Tul.",1851,"Ann. Sci. Nat., Bot. III, 15: 260 1851",,,,,341949-1,wfo-0000793269,3075594,
-78f028d8-8fcd-11eb-924d-9cd76263cbd0,species,fulva,Cremostachys,,Tul.,1851,"Ann. Sci. Nat., Bot. III, 15: 261 1851",,,,,341950-1,wfo-0000926791,3075589,
-78f04b74-8fcd-11eb-924d-9cd76263cbd0,species,lindlaeana,Cremostachys,,Tul.,1851,"Ann. Sci. Nat., Bot. III, 15: 262 1851",,,,,341951-1,wfo-0000926792,3075565,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e226e4aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cremospermopsis,,,"L.E.Skog & L.P.Kvist",,2002,,"Novon 12(2): 264–269, f. 1–2. 2002.",,Q55774820,,,,20006954-1,wfo-4000009652,6365290,,
+d6410260-8fcc-11eb-924d-9cd76263cbd0,species,cestroides,Cremospermopsis,,"(Fritsch) L.E.Skog & L.P.Kvist",,2002,,"Novon 12: 265 2002",,Q55774820,,b0deb210-8fcc-11eb-924d-9cd76263cbd0,,20006955-1,wfo-0000625978,3820071,,
+d6412e84-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Cremospermopsis,,"L.E.Skog & L.P.Kvist",,2002,,"Novon 12: 267 2002",,Q55774820,,,,323956-2,wfo-0000625979,3820052,,
+2fc5e8a0-8fcd-11eb-924d-9cd76263cbd0,species,filiformis,Cremostachys,,"(Blume) Tul.",,1851,,"Ann. Sci. Nat., Bot. III, 15: 260 1851",,,,,,341949-1,wfo-0000793269,3075594,,
+78f028d8-8fcd-11eb-924d-9cd76263cbd0,species,fulva,Cremostachys,,Tul.,,1851,,"Ann. Sci. Nat., Bot. III, 15: 261 1851",,,,,,341950-1,wfo-0000926791,3075589,,
+78f04b74-8fcd-11eb-924d-9cd76263cbd0,species,lindlaeana,Cremostachys,,Tul.,,1851,,"Ann. Sci. Nat., Bot. III, 15: 262 1851",,,,,,341951-1,wfo-0000926792,3075565,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e665fc72-8fd1-11eb-924d-9cd76263cbd0,genus,Martrasia,,,,,,,,,,,wfo-4000023243,,
-082c885c-8fb5-11eb-924d-9cd76263cbd0,species,auriculata,Martrasia,,Lag.,1811,"Amen. Nat. Espan. i. 36 (1811)",,,,,231782-1,wfo-0000073077,4233776,
-6c2d102a-8fb9-11eb-924d-9cd76263cbd0,species,axillaris,Martrasia,,"Lag. ex Steud.",1841,"Nomencl. Bot., ed. 2 (Steudel) 2: 104 1841",,,,,231783-1,wfo-0000118236,4233772,
-f1e06fae-8fba-11eb-924d-9cd76263cbd0,species,crenata,Martrasia,,Lag.,1811,"Amen. Nat. Espan. i. 36 1811",,,,,,wfo-0000130592,4233764,
-658f8aee-8fb5-11eb-924d-9cd76263cbd0,species,pubescens,Martrasia,,Lag.,,"Amen. Nat. Espan. i. 36",,,,,231785-1,wfo-0000077579,4233755,
-29f7822a-8fba-11eb-924d-9cd76263cbd0,species,sericea,Martrasia,,Lag.,1811,"Amen. Nat. Espan. i. 36 1811",,,,,,wfo-0000124506,4233748,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e665fc72-8fd1-11eb-924d-9cd76263cbd0,genus,Martrasia,,,,,,,,,,,,,,wfo-4000023243,,,
+082c885c-8fb5-11eb-924d-9cd76263cbd0,species,auriculata,Martrasia,,Lag.,,1811,,"Amen. Nat. Espan. i. 36 (1811)",,,,,,231782-1,wfo-0000073077,4233776,,
+6c2d102a-8fb9-11eb-924d-9cd76263cbd0,species,axillaris,Martrasia,,"Lag. ex Steud.",,1841,,"Nomencl. Bot., ed. 2 (Steudel) 2: 104 1841",,,,,,231783-1,wfo-0000118236,4233772,,
+f1e06fae-8fba-11eb-924d-9cd76263cbd0,species,crenata,Martrasia,,Lag.,,1811,,"Amen. Nat. Espan. i. 36 1811",,,,,,,wfo-0000130592,4233764,,
+658f8aee-8fb5-11eb-924d-9cd76263cbd0,species,pubescens,Martrasia,,Lag.,,,,"Amen. Nat. Espan. i. 36",,,,,,231785-1,wfo-0000077579,4233755,,
+29f7822a-8fba-11eb-924d-9cd76263cbd0,species,sericea,Martrasia,,Lag.,,1811,,"Amen. Nat. Espan. i. 36 1811",,,,,,,wfo-0000124506,4233748,,

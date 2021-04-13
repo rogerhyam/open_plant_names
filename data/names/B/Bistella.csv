@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0404690-8fd1-11eb-924d-9cd76263cbd0,genus,Bistella,,,,,,,,,,,wfo-4000004685,4097709,
-b1ed0ed6-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Bistella,,"(L.f.) Bullock",1966,"Acta Bot. Neerl. 15: 85 1966",,,,,859194-1,wfo-0000566088,4097732,
-b1ee300e-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Bistella,,"(Murray) Bullock",1966,"Acta Bot. Neerl. 15: 85 1966",,,,,859195-1,wfo-0000566090,4097722,
-b1eea8cc-8fcc-11eb-924d-9cd76263cbd0,species,digyna,Bistella,,"(Retz.) Bullock",1966,"Acta Bot. Neerl. 15: 85 1966",,,,e9952298-8fcb-11eb-924d-9cd76263cbd0,859196-1,wfo-0000566091,4097710,
-b1ef1564-8fcc-11eb-924d-9cd76263cbd0,species,geminiflora,Bistella,,"Caill. & Delile",1826,"Voy. Méroé 1: 97 1826",,,,,,wfo-0000566092,4097734,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0404690-8fd1-11eb-924d-9cd76263cbd0,genus,Bistella,,,,,,,,,,,,,,wfo-4000004685,4097709,,
+b1ed0ed6-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Bistella,,"(L.f.) Bullock",,1966,,"Acta Bot. Neerl. 15: 85 1966",,Q55760923,,,,859194-1,wfo-0000566088,4097732,,
+b1ee300e-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Bistella,,"(Murray) Bullock",,1966,,"Acta Bot. Neerl. 15: 85 1966",,Q55760923,,,,859195-1,wfo-0000566090,4097722,,
+b1eea8cc-8fcc-11eb-924d-9cd76263cbd0,species,digyna,Bistella,,"(Retz.) Bullock",,1966,,"Acta Bot. Neerl. 15: 85 1966",,Q55760923,,e9952298-8fcb-11eb-924d-9cd76263cbd0,,859196-1,wfo-0000566091,4097710,,
+b1ef1564-8fcc-11eb-924d-9cd76263cbd0,species,geminiflora,Bistella,,"Caill. & Delile",,1826,,"Voy. Méroé 1: 97 1826",,,,,,,wfo-0000566092,4097734,,

@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6329832-8fd1-11eb-924d-9cd76263cbd0,genus,Macielia,,,Vand.,1788,"Fl. Lusit. Bras. Spec. 14. 1788.",,,,,,wfo-4000022631,3230726,
-30f30916-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Macielia,,Steud.,1841,"Nomencl. Bot. ed. 2, 2: 87 1841",,,,,118402-1,wfo-0000368855,5660235,
-30f3282e-8fcc-11eb-924d-9cd76263cbd0,species,racemifera,Macielia,,Vand.,1788,"Fl. Lusit. Bras. Spec. 15 1788",,,,,118403-1,wfo-0000368856,5660232,
-6d490974-8fcc-11eb-924d-9cd76263cbd0,species,octandra,Macintyria,,F.Muell.,1865,"Fragm. 5: 8 1865",,,,,690453-1,wfo-0000452647,4049211,
-461872a8-8fcd-11eb-924d-9cd76263cbd0,species,macivorii,,,"Clifford & Everist",1964,"Proc. Roy. Soc. Queensland 75: 46 1964",,,,,397041-1,wfo-0000841027,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6329832-8fd1-11eb-924d-9cd76263cbd0,genus,Macielia,,,Vand.,,1788,,"Fl. Lusit. Bras. Spec. 14. 1788.",,,,,,,wfo-4000022631,3230726,,
+30f30916-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Macielia,,Steud.,,1841,,"Nomencl. Bot. ed. 2, 2: 87 1841",,,,,,118402-1,wfo-0000368855,5660235,,
+30f3282e-8fcc-11eb-924d-9cd76263cbd0,species,racemifera,Macielia,,Vand.,,1788,,"Fl. Lusit. Bras. Spec. 15 1788",,,,,,118403-1,wfo-0000368856,5660232,,

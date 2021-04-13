@@ -19,7 +19,7 @@ The purpose of this repository is to act as a shared authority file containing p
 1. **Wikidata** as a default authority file for other data (e.g dead people, places & things).
 1. Zenodo for archiving of releases with a **DOI**.
 1. **Prioritized ranks** - A lot of funky stuff has happened in nomenclature in the last two centuries and it can get really complex. We will therefore prioritize genera, species, subspecies and varieties over other names where needed.
-1. **Prioritize names**  We will track legitimate and illegitimate published names but not invalid names, typographic errors or orthographic variants (unless formally conserved). It would be counterproductive to perpetuate and amplify every error ever made. The default is to quietly expunge these from the record and move on.
+1. **Prioritize names**  We will track legitimate and illegitimate published names but few invalid names, typographic errors or orthographic variants (unless formally conserved). It would be counterproductive to perpetuate and amplify every error ever made. The default is to quietly expunge these from the record and move on.
 
 
 ## How it works

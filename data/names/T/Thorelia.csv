@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb4f4d88-8fd1-11eb-924d-9cd76263cbd0,genus,Thorelia,,,,,,,,,,,wfo-4000038249,,
-51f44c6a-8fcc-11eb-924d-9cd76263cbd0,species,deglupta,Thorelia,,Hance,1877,"J. Bot. 15: 269 1877",,,,,554284-1,wfo-0000413174,7731444,
-fee4f520-8fb1-11eb-924d-9cd76263cbd0,species,montana,Thorelia,,Gagnep.,1920,"in Lecomte, Not. Syst. iv. 18 (1920).",,,,,,wfo-0000002031,5393670,
-d66bcca0-8fba-11eb-924d-9cd76263cbd0,species,montana,Thoreliella,,"(Gagnep.) C.Y.Wu",1957,"Acta Phytotax. Sin. vi. 298 (1957)",,,,fee4f520-8fb1-11eb-924d-9cd76263cbd0,255634-1,wfo-0000129750,3115011,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb4f4d88-8fd1-11eb-924d-9cd76263cbd0,genus,Thorelia,,,,,,,,,,,,,,wfo-4000038249,,,
+51f44c6a-8fcc-11eb-924d-9cd76263cbd0,species,deglupta,Thorelia,,Hance,,1877,,"J. Bot. 15: 269 1877",,,,,,554284-1,wfo-0000413174,7731444,,
+fee4f520-8fb1-11eb-924d-9cd76263cbd0,species,montana,Thorelia,,Gagnep.,,1920,,"in Lecomte, Not. Syst. iv. 18 (1920).",,,,,,,wfo-0000002031,5393670,,
+d66bcca0-8fba-11eb-924d-9cd76263cbd0,species,montana,Thoreliella,,"(Gagnep.) C.Y.Wu",,1957,,"Acta Phytotax. Sin. vi. 298 (1957)",,,,fee4f520-8fb1-11eb-924d-9cd76263cbd0,,255634-1,wfo-0000129750,3115011,,

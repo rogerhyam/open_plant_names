@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9004a14-8fd1-11eb-924d-9cd76263cbd0,genus,Preslianthus,,,"Iltis & Cornejo",2011,"Harvard Pap. Bot. 16(1): 68, f. 2A–E. 2011.",,,,,77115062-1,wfo-4000031112,8108711,
-af39893e-8fcd-11eb-924d-9cd76263cbd0,species,detonsus,Preslianthus,,"(Triana & Planch.) Iltis & Cornejo",2011,"Harvard Pap. Bot. 16(1): 70 2011",,,,,77115063-1,wfo-0001041987,7790974,
-ac1e06c6-8fcd-11eb-924d-9cd76263cbd0,species,pittieri,Preslianthus,,"(Standl.) Iltis & Cornejo",2011,"Harvard Pap. Bot. 16(1): 70 2011",,,,,77115064-1,wfo-0001034993,8309525,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9004a14-8fd1-11eb-924d-9cd76263cbd0,genus,Preslianthus,,,"Iltis & Cornejo",,2011,,"Harvard Pap. Bot. 16(1): 68, f. 2A–E. 2011.",,Q55788732,,,,77115062-1,wfo-4000031112,8108711,,
+af39893e-8fcd-11eb-924d-9cd76263cbd0,species,detonsus,Preslianthus,,"(Triana & Planch.) Iltis & Cornejo",,2011,,"Harvard Pap. Bot. 16(1): 70 2011",,Q55788732,,,,77115063-1,wfo-0001041987,7790974,,
+ac1e06c6-8fcd-11eb-924d-9cd76263cbd0,species,pittieri,Preslianthus,,"(Standl.) Iltis & Cornejo",,2011,,"Harvard Pap. Bot. 16(1): 70 2011",,Q55788732,,,,77115064-1,wfo-0001034993,8309525,,

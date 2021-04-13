@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9f9c620-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmentypnum,,,"Tuom. & T.J.Kop.",1979,"Ann. Bot. Fenn. 16(3): 223. 1979.",,,,,,wfo-4000034110,4893659,
-fe9b5b9c-8fcd-11eb-924d-9cd76263cbd0,species,exannulatum,Sarmentypnum,,"(Schimp.) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 132 2006",,,,e1c8e5f2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213920,7749266,
-fe9b7848-8fcd-11eb-924d-9cd76263cbd0,species,luipichense,Sarmentypnum,,"(R.S.Williams) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 132 2006",,,,ed14af18-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213921,8265280,
-fe9b958a-8fcd-11eb-924d-9cd76263cbd0,species,procerum,Sarmentypnum,,"(Renauld & Arnell) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 132 2006",,,,e3177a22-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213922,8302254,
-fe9bb2fe-8fcd-11eb-924d-9cd76263cbd0,species,pseudosarmentosum,Sarmentypnum,,"(Cardot & Thér.) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 133 2006",,,,e372adca-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213923,8428111,
-e94acbc4-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosum,Sarmentypnum,,"(Wahlenb.) Tuom. & T.J.Kop.",1979,"Ann. Bot. Fenn. 16: 223 1979",,,,e5b9bed4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001169794,7904558,
-fe9bcf1e-8fcd-11eb-924d-9cd76263cbd0,species,trichophyllum,Sarmentypnum,,"(Warnst.) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 133 2006",,,,f34c03ae-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001213924,8105365,
-fe9bf23c-8fcd-11eb-924d-9cd76263cbd0,species,tundrae,Sarmentypnum,,"(Arnell) Hedenäs",2006,"J. Hattori Bot. Lab. 100: 133 2006",,,,,,wfo-0001213925,7475861,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9f9c620-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmentypnum,,,"Tuom. & T.J.Kop.",,1979,,"Ann. Bot. Fenn. 16(3): 223. 1979.",,,,,,,wfo-4000034110,4893659,,
+fe9b5b9c-8fcd-11eb-924d-9cd76263cbd0,species,exannulatum,Sarmentypnum,,"(Schimp.) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 132 2006",,,,e1c8e5f2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213920,7749266,,
+fe9b7848-8fcd-11eb-924d-9cd76263cbd0,species,luipichense,Sarmentypnum,,"(R.S.Williams) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 132 2006",,,,ed14af18-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213921,8265280,,
+fe9b958a-8fcd-11eb-924d-9cd76263cbd0,species,procerum,Sarmentypnum,,"(Renauld & Arnell) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 132 2006",,,,e3177a22-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213922,8302254,,
+fe9bb2fe-8fcd-11eb-924d-9cd76263cbd0,species,pseudosarmentosum,Sarmentypnum,,"(Cardot & Thér.) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 133 2006",,,,e372adca-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213923,8428111,,
+e94acbc4-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosum,Sarmentypnum,,"(Wahlenb.) Tuom. & T.J.Kop.",,1979,,"Ann. Bot. Fenn. 16: 223 1979",,,,e5b9bed4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169794,7904558,,
+fe9bcf1e-8fcd-11eb-924d-9cd76263cbd0,species,trichophyllum,Sarmentypnum,,"(Warnst.) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 133 2006",,,,f34c03ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001213924,8105365,,
+fe9bf23c-8fcd-11eb-924d-9cd76263cbd0,species,tundrae,Sarmentypnum,,"(Arnell) Hedenäs",,2006,,"J. Hattori Bot. Lab. 100: 133 2006",,,,,,,wfo-0001213925,7475861,,

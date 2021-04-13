@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75c066c-8fd1-11eb-924d-9cd76263cbd0,genus,Nothobaccaurea,,,Haegens,,,,,,,1014151-1,wfo-4000026260,8090360,
-e801cb52-8fcb-11eb-924d-9cd76263cbd0,species,pulvinata,Nothobaccaurea,,"(A.C.Sm.) Haegens",2000,"Blumea, Suppl. 12: 199 2000",,,,09856252-8fcc-11eb-924d-9cd76263cbd0,1014152-1,wfo-0000252098,3079694,
-e801e858-8fcb-11eb-924d-9cd76263cbd0,species,stylaris,Nothobaccaurea,,"(Müll.Arg.) Haegens",2000,"Blumea, Suppl. 12: 201 2000",,,,,1014153-1,wfo-0000252099,3079690,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75c066c-8fd1-11eb-924d-9cd76263cbd0,genus,Nothobaccaurea,,,Haegens,,,,,,,,,,1014151-1,wfo-4000026260,8090360,,
+e801cb52-8fcb-11eb-924d-9cd76263cbd0,species,pulvinata,Nothobaccaurea,,"(A.C.Sm.) Haegens",,2000,,"Blumea, Suppl. 12: 199 2000",,,,09856252-8fcc-11eb-924d-9cd76263cbd0,,1014152-1,wfo-0000252098,3079694,,
+e801e858-8fcb-11eb-924d-9cd76263cbd0,species,stylaris,Nothobaccaurea,,"(Müll.Arg.) Haegens",,2000,,"Blumea, Suppl. 12: 201 2000",,,,,,1014153-1,wfo-0000252099,3079690,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3aedd0a-8fd1-11eb-924d-9cd76263cbd0,genus,Faujasiopsis,,,C.Jeffrey,,,,,,,956898-1,wfo-4000014619,3130086,
-ff8e4fbc-8fb1-11eb-924d-9cd76263cbd0,species,boivinii,Faujasiopsis,,"(Klatt) C.Jeffrey",1992,"77 1992",,,,,963626-1,wfo-0000002575,3130092,
-4236d2ce-8fb9-11eb-924d-9cd76263cbd0,species,flexuosa,Faujasiopsis,,"(Lam.) C.Jeffrey",1992,"77 1992",,,,343a01b4-8fcd-11eb-924d-9cd76263cbd0,963627-1,wfo-0000116808,3130087,
-7f0f06c8-8fb7-11eb-924d-9cd76263cbd0,subspecies,bourbonensis,Faujasiopsis,flexuosa,C.Jeffrey,1992,"77 1992",,,,,965745-1,wfo-0000100307,4250195,
-7eb64502-8fb6-11eb-924d-9cd76263cbd0,species,reticulata,Faujasiopsis,,"(Vahl) C.Jeffrey",1992,"77 1992",,,,,963628-1,wfo-0000090076,3130093,
-41f5f682-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Faulia,,Raf.,1837,"Fl. Tellur. 2: 84 1837",,,,,608834-1,wfo-0000832050,3683692,
-41f61018-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Faulia,,Raf.,1837,"Fl. Tellur. 2: 84 1837",,,,,608835-1,wfo-0000832051,3683682,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3aedd0a-8fd1-11eb-924d-9cd76263cbd0,genus,Faujasiopsis,,,C.Jeffrey,,,,,,Q54635033,,,,956898-1,wfo-4000014619,3130086,,
+ff8e4fbc-8fb1-11eb-924d-9cd76263cbd0,species,boivinii,Faujasiopsis,,"(Klatt) C.Jeffrey",,1992,,"77 1992",,Q54635033,,,,963626-1,wfo-0000002575,3130092,,
+4236d2ce-8fb9-11eb-924d-9cd76263cbd0,species,flexuosa,Faujasiopsis,,"(Lam.) C.Jeffrey",,1992,,"77 1992",,Q54635033,,343a01b4-8fcd-11eb-924d-9cd76263cbd0,,963627-1,wfo-0000116808,3130087,,
+7f0f06c8-8fb7-11eb-924d-9cd76263cbd0,subspecies,bourbonensis,Faujasiopsis,flexuosa,C.Jeffrey,,1992,,"77 1992",,Q54635033,,,,965745-1,wfo-0000100307,4250195,,
+7eb64502-8fb6-11eb-924d-9cd76263cbd0,species,reticulata,Faujasiopsis,,"(Vahl) C.Jeffrey",,1992,,"77 1992",,Q54635033,,,,963628-1,wfo-0000090076,3130093,,
+41f5f682-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Faulia,,Raf.,,1837,,"Fl. Tellur. 2: 84 1837",,,,,,608834-1,wfo-0000832050,3683692,,
+41f61018-8fcd-11eb-924d-9cd76263cbd0,species,verrucosa,Faulia,,Raf.,,1837,,"Fl. Tellur. 2: 84 1837",,,,,,608835-1,wfo-0000832051,3683682,,

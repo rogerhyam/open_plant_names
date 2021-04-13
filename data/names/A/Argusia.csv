@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb89650-8fd1-11eb-924d-9cd76263cbd0,genus,Argusia,,,Boehm.,1760,"Def. Gen. Pl. (ed. 3) 507. 1760.",,,,,,wfo-4000002994,8418060,
-a54b7ce4-8fcc-11eb-924d-9cd76263cbd0,species,argentea,Argusia,,"(L.f.) Heine",1976,"in Fl. Nouv.-Caléd. 7: 109 1976",,,,,113431-1,wfo-0000547137,,
-a54b99b8-8fcc-11eb-924d-9cd76263cbd0,species,gnaphalodes,Argusia,,"(L.) Heine",1976,"in Fl. Nouv.-Caléd. 7: 108 1976",,,,,18891-2,wfo-0000547138,2925911,
-a54bb39e-8fcc-11eb-924d-9cd76263cbd0,species,sibirica,Argusia,,"(L.) Dandy",1972,"Bot. J. Linn. Soc. 65: 256 1972",,,,,113433-1,wfo-0000547139,2925914,
-a54bf1ec-8fcc-11eb-924d-9cd76263cbd0,species,sogdiana,Argusia,,"(Bunge) Czerep.",1981,"Sosud. Rast. SSSR 112 1981",,,,,984677-1,wfo-0000547141,4065451,
-a54c0ce0-8fcc-11eb-924d-9cd76263cbd0,species,rhamnoides,Argussiera,,"(L.) Bubani",1897,"Fl. Pyren. 1: 123 1897",,,,0e5d2b1a-8fcd-11eb-924d-9cd76263cbd0,323642-1,wfo-0000547142,4048319,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb89650-8fd1-11eb-924d-9cd76263cbd0,genus,Argusia,,,Boehm.,,1760,,"Def. Gen. Pl. (ed. 3) 507. 1760.",,,,,,,wfo-4000002994,8418060,,
+a54b7ce4-8fcc-11eb-924d-9cd76263cbd0,species,argentea,Argusia,,"(L.f.) Heine",,1976,,"in Fl. Nouv.-Caléd. 7: 109 1976",,,,,,113431-1,wfo-0000547137,,,
+a54b99b8-8fcc-11eb-924d-9cd76263cbd0,species,gnaphalodes,Argusia,,"(L.) Heine",,1976,,"in Fl. Nouv.-Caléd. 7: 108 1976",,,,,,18891-2,wfo-0000547138,2925911,,
+a54bb39e-8fcc-11eb-924d-9cd76263cbd0,species,sibirica,Argusia,,"(L.) Dandy",,1972,,"Bot. J. Linn. Soc. 65: 256 1972",,Q43295804,,,,113433-1,wfo-0000547139,2925914,,
+a54bf1ec-8fcc-11eb-924d-9cd76263cbd0,species,sogdiana,Argusia,,"(Bunge) Czerep.",,1981,,"Sosud. Rast. SSSR 112 1981",,,,,,984677-1,wfo-0000547141,4065451,,
+a54c0ce0-8fcc-11eb-924d-9cd76263cbd0,species,rhamnoides,Argussiera,,"(L.) Bubani",,1897,,"Fl. Pyren. 1: 123 1897",,,,0e5d2b1a-8fcd-11eb-924d-9cd76263cbd0,,323642-1,wfo-0000547142,4048319,,

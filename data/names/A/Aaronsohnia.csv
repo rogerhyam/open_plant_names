@@ -1,2 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deadcbfe-8fd1-11eb-924d-9cd76263cbd0,genus,Aaronsohnia,,,"Warb. & Eig",0,,,,,,7366-1,wfo-4000000003,3092959,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deadcbfe-8fd1-11eb-924d-9cd76263cbd0,genus,Aaronsohnia,,,"Warb. & Eig",,0,,,,,,,,7366-1,wfo-4000000003,3092959,,
+5c536494-9a07-11eb-a8a2-19ed5c03f8d3,genus,Dyckcohnia,×,,"G.H.Anderson ex J.R.Grant",,1998,,"Selbyana 19(1): 116 (1998).",,Q91187447,,,,1008044-1,,,,
+e9dd5a28-9a06-11eb-a8a2-19ed5c03f8d3,genus,Elytesion,×,,"Barkworth & D.R.Dewey",,1985,,"Amer. J. Bot. 72(5): 772 (1985).",,Q55766277,,,,1003655-1,,,,
+5c65e038-9a07-11eb-a8a2-19ed5c03f8d3,genus,Hechcohnia,×,,"G.H.Anderson ex J.R.Grant",,1998,,"Selbyana 19(1): 117 (1998).",,Q91187447,,,,1008045-1,,,,

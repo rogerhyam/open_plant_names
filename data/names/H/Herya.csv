@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4a60eea-8fd1-11eb-924d-9cd76263cbd0,genus,Herya,,,Cordem.,1895,"Fl. Réunion 410. 1895.",,,,,,wfo-4000017598,7265665,
-0cc1f8a8-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Herya,,Cordem.,1895,"Fl. Réunion 410 1895",,,,,161481-1,wfo-0000720861,3793303,
-0cc243d0-8fcd-11eb-924d-9cd76263cbd0,species,odorifera,Herzogia,,K.Schum.,1889,"Fl. Kais. Wilh. Land 60 1889",,,,,,wfo-0000720862,3837444,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4a60eea-8fd1-11eb-924d-9cd76263cbd0,genus,Herya,,,Cordem.,,1895,,"Fl. Réunion 410. 1895.",,,,,,,wfo-4000017598,7265665,,
+0cc1f8a8-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Herya,,Cordem.,,1895,,"Fl. Réunion 410 1895",,,,,,161481-1,wfo-0000720861,3793303,,
+0cc243d0-8fcd-11eb-924d-9cd76263cbd0,species,odorifera,Herzogia,,K.Schum.,,1889,,"Fl. Kais. Wilh. Land 60 1889",,,,,,,wfo-0000720862,3837444,,

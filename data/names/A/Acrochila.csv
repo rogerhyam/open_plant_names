@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-decdf4d8-8fd1-11eb-924d-9cd76263cbd0,genus,Acrochila,,,R.M.Schust.,1963,"J. Hattori Bot. Lab. 26: 285. 1963.",,,,,,wfo-4000000397,2688954,
-fd5c4b6a-8fcd-11eb-924d-9cd76263cbd0,species,biserialis,Acrochila,,"(Lehm. & Lindenb.) Grolle",1964,"J. Jap. Bot. 39: 236 1964",,,,fd5c3166-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001211247,2688955,
-f8e01bf2-8fcd-11eb-924d-9cd76263cbd0,species,caledonica,Acrochila,,Inoue,1967,"J. Jap. Bot. 42: 182 1967",,,,,,wfo-0001201760,7361462,
-fd0a89e2-8fcd-11eb-924d-9cd76263cbd0,species,etessana,Acrochila,,"(Stephani) R.M.Schust.",1963,"J. Hattori Bot. Lab. 26: 285 1963",,,,,,wfo-0001210517,7432882,
-fd0a3974-8fcd-11eb-924d-9cd76263cbd0,species,simpsonii,Acrochila,,"(W.Martin & E.A.Hodgs.) R.M.Schust.",1963,"J. Hattori Bot. Lab. 26: 285 1963",,,,fd0a1f16-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001210514,8179592,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+decdf4d8-8fd1-11eb-924d-9cd76263cbd0,genus,Acrochila,,,R.M.Schust.,,1963,,"J. Hattori Bot. Lab. 26: 285. 1963.",,,,,,,wfo-4000000397,2688954,,
+fd5c4b6a-8fcd-11eb-924d-9cd76263cbd0,species,biserialis,Acrochila,,"(Lehm. & Lindenb.) Grolle",,1964,,"J. Jap. Bot. 39: 236 1964",,,,fd5c3166-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001211247,2688955,,
+f8e01bf2-8fcd-11eb-924d-9cd76263cbd0,species,caledonica,Acrochila,,Inoue,,1967,,"J. Jap. Bot. 42: 182 1967",,,,,,,wfo-0001201760,7361462,,
+fd0a89e2-8fcd-11eb-924d-9cd76263cbd0,species,etessana,Acrochila,,"(Stephani) R.M.Schust.",,1963,,"J. Hattori Bot. Lab. 26: 285 1963",,,,,,,wfo-0001210517,7432882,,
+fd0a3974-8fcd-11eb-924d-9cd76263cbd0,species,simpsonii,Acrochila,,"(W.Martin & E.A.Hodgs.) R.M.Schust.",,1963,,"J. Hattori Bot. Lab. 26: 285 1963",,,,fd0a1f16-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210514,8179592,,

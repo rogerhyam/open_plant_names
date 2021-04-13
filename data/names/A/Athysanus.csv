@@ -1,10 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfe85d68-8fd1-11eb-924d-9cd76263cbd0,genus,Athysanus,,,Greene,1885,"Bull. Calif. Acad. Sci. 1(3): 72–73. 1885.",,,,,12341-1,wfo-4000003577,3041910,
-aa57bbf8-8fcc-11eb-924d-9cd76263cbd0,species,pusillus,Athysanus,,"(Hook.) Greene",1894,"Man. Bot. San Francisco 14 1894",,,,bab3efbc-8fd1-11eb-924d-9cd76263cbd0,278767-1,wfo-0000555609,5373588,
-aa581fb2-8fcc-11eb-924d-9cd76263cbd0,variety,glabrior,Athysanus,pusillus,S.Watson,1895,"Syn. Fl. N. Amer. 1(1): 113 1895",,,,,26169-2,wfo-0000555611,5551676,
-aa583c5e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Athysanus,,"(M.E.Jones) Jeps.",1901,"Fl. W. Calif. 224 1901",,,,,26170-2,wfo-0000555612,5373589,
-031d0226-8fcc-11eb-924d-9cd76263cbd0,species,filamentosa,Atimeta,,"Reissek ex Schott",1879,"Aroid. Maximil. 28 1879",,,,,,wfo-0000294925,5330890,
-031e1468-8fcc-11eb-924d-9cd76263cbd0,species,martii,Atimeta,,Schott,1860,"Prodr. Syst. Aroid. 349 1860",,,,,86215-1,wfo-0000294935,5330889,
-031ff468-8fcc-11eb-924d-9cd76263cbd0,species,videniana,Atimeta,,Schott,1858,"Gen. Aroid. t. 71 1858",,,,,86216-1,wfo-0000294946,5330891,
-032240ec-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Atirbesia,,Raf.,1840,"Autik. Bot. 118 1840",,,,,444887-1,wfo-0000294962,3883850,
-aa585aae-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Atirsita,,Raf.,1838,"New Fl. 4: 37 1838",,,,,838496-1,wfo-0000555613,3633190,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfe85d68-8fd1-11eb-924d-9cd76263cbd0,genus,Athysanus,,,Greene,,1885,,"Bull. Calif. Acad. Sci. 1(3): 72–73. 1885.",,,,,,12341-1,wfo-4000003577,3041910,,
+aa57bbf8-8fcc-11eb-924d-9cd76263cbd0,species,pusillus,Athysanus,,"(Hook.) Greene",,1894,,"Man. Bot. San Francisco 14 1894",,,,bab3efbc-8fd1-11eb-924d-9cd76263cbd0,,278767-1,wfo-0000555609,5373588,,
+aa581fb2-8fcc-11eb-924d-9cd76263cbd0,variety,glabrior,Athysanus,pusillus,S.Watson,,1895,,"Syn. Fl. N. Amer. 1(1): 113 1895",,,,,,26169-2,wfo-0000555611,5551676,,
+aa583c5e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Athysanus,,"(M.E.Jones) Jeps.",,1901,,"Fl. W. Calif. 224 1901",,,,,,26170-2,wfo-0000555612,5373589,,

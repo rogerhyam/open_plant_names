@@ -1,9 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df9cced4-8fd1-11eb-924d-9cd76263cbd0,genus,Aplanodes,,,Marais,1966,"Bothalia 9: 111. 1966.",,,,,12321-1,wfo-4000002670,3041906,
-a1705ff4-8fcc-11eb-924d-9cd76263cbd0,species,doidgeana,Aplanodes,,Marais,1966,"Bothalia 9: 111 1966",,,,,277926-1,wfo-0000540748,5373587,
-a1707d18-8fcc-11eb-924d-9cd76263cbd0,species,sisymbrioides,Aplanodes,,"(Schltr.) Marais",1966,"Bothalia 9: 112 1966",,,,abe245f6-8fd1-11eb-924d-9cd76263cbd0,277927-1,wfo-0000540749,5373585,
-1eefe78e-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Aplarina,,"(Lam.) Raf.",1838,"New Fl. 4: 100 1838",,,,,339178-1,wfo-0000340356,3069757,
-1ef02f00-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Aplarina,,"(Aiton) Raf.",1838,"New Fl. 4: 99 1838",,,,89cbe05c-8fcd-11eb-924d-9cd76263cbd0,339179-1,wfo-0000340357,3069520,
-e34ab42a-8fcb-11eb-924d-9cd76263cbd0,species,elatior,Aplectra,,Raf.,1824,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,616749-1,wfo-0000243876,2814448,
-a17099e2-8fcc-11eb-924d-9cd76263cbd0,species,boetica,Aplectrocapnos,,"Boiss. & Reut.",1844,"Diagn. Pl. Orient. 5: 79 1844",,,,,671672-1,wfo-0000540750,3601495,
-a170b65c-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Aplectrocapnos,,Boiss.,1854,"Diagn. Pl. Orient. II, 1: 13 1854",,,,,671673-1,wfo-0000540751,3601483,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df9cced4-8fd1-11eb-924d-9cd76263cbd0,genus,Aplanodes,,,Marais,,1966,,"Bothalia 9: 111. 1966.",,Q55798368,,,,12321-1,wfo-4000002670,3041906,,
+a1705ff4-8fcc-11eb-924d-9cd76263cbd0,species,doidgeana,Aplanodes,,Marais,,1966,,"Bothalia 9: 111 1966",,Q55798368,,,,277926-1,wfo-0000540748,5373587,,
+a1707d18-8fcc-11eb-924d-9cd76263cbd0,species,sisymbrioides,Aplanodes,,"(Schltr.) Marais",,1966,,"Bothalia 9: 112 1966",,Q55798368,,abe245f6-8fd1-11eb-924d-9cd76263cbd0,,277927-1,wfo-0000540749,5373585,,

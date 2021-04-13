@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52e55a2-8fd1-11eb-924d-9cd76263cbd0,genus,Iwatsukia,,,N.Kitag.,1964,"J. Hattori Bot. Lab. 27: 178. 1964.",,,,,,wfo-4000019383,2689163,
-f77c1874-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Iwatsukia,,N.Kitag.,1964,"J. Hattori Bot. Lab. 27: 178. f. 1 1964",,,,,,wfo-0001199048,2689164,
-fc476066-8fcd-11eb-924d-9cd76263cbd0,species,jishibae,Iwatsukia,,"(Stephani) N.Kitag.",1965,"Acta Phytotax. Geobot. 21: 114 103 1965",,,,,,wfo-0001208758,7720010,
-fb468110-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Iwatsukia,,"(Fulford) R.M.Schust.",1990,"Trop. Bryol. 2: 249 1990",,,,,,wfo-0001206579,7413353,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52e55a2-8fd1-11eb-924d-9cd76263cbd0,genus,Iwatsukia,,,N.Kitag.,,1964,,"J. Hattori Bot. Lab. 27: 178. 1964.",,,,,,,wfo-4000019383,2689163,,
+f77c1874-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Iwatsukia,,N.Kitag.,,1964,,"J. Hattori Bot. Lab. 27: 178. f. 1 1964",,,,,,,wfo-0001199048,2689164,,
+fc476066-8fcd-11eb-924d-9cd76263cbd0,species,jishibae,Iwatsukia,,"(Stephani) N.Kitag.",,1965,,"Acta Phytotax. Geobot. 21: 114 103 1965",,,,,,,wfo-0001208758,7720010,,
+fb468110-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Iwatsukia,,"(Fulford) R.M.Schust.",,1990,,"Trop. Bryol. 2: 249 1990",,,,,,,wfo-0001206579,7413353,,

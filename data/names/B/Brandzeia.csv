@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0cc813c-8fd1-11eb-924d-9cd76263cbd0,genus,Brandzeia,,,Baill.,,,,,,,21852-1,wfo-4000005321,2959233,
-71ab7f9e-8fc5-11eb-924d-9cd76263cbd0,species,filicifolia,Brandzeia,,Baill.,,,,,,,,wfo-0000193099,2959234,
-9a2183b2-8fb4-11eb-924d-9cd76263cbd0,species,insignis,Branicia,,Andrz.,1883,"476 1883",,,,,186170-1,wfo-0000067386,3106762,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0cc813c-8fd1-11eb-924d-9cd76263cbd0,genus,Brandzeia,,,Baill.,,,,,,,,,,21852-1,wfo-4000005321,2959233,,
+71ab7f9e-8fc5-11eb-924d-9cd76263cbd0,species,filicifolia,Brandzeia,,Baill.,,,,,,,,,,,wfo-0000193099,2959234,,
+9a2183b2-8fb4-11eb-924d-9cd76263cbd0,species,insignis,Branicia,,Andrz.,,1883,,"476 1883",,,,,,186170-1,wfo-0000067386,3106762,,

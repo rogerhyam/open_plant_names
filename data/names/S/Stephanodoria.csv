@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eacb42cc-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanodoria,,,Greene,,,,,,,11147-1,wfo-4000036582,3143060,
-83a6ddaa-8fb2-11eb-924d-9cd76263cbd0,species,tomentella,Stephanodoria,,"(B.L.Rob.) Greene",1895,"12 1895",,,,,245072-2,wfo-0000026707,3143061,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eacb42cc-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanodoria,,,Greene,,,,,,,,,,11147-1,wfo-4000036582,3143060,,
+83a6ddaa-8fb2-11eb-924d-9cd76263cbd0,species,tomentella,Stephanodoria,,"(B.L.Rob.) Greene",,1895,,"12 1895",,,,,,245072-2,wfo-0000026707,3143061,,

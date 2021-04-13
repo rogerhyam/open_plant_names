@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8399aa-8fd1-11eb-924d-9cd76263cbd0,genus,Antegibbaeum,,,"Schwantes ex C.Weber",1968,"Baileya 16(1): 10–11. 1968. (15 Nov 1968)",,,,,1047-1,wfo-4000002354,7329461,
-9ffd6392-8fcc-11eb-924d-9cd76263cbd0,species,fissoides,Antegibbaeum,,"(Haw.) C.Weber",1968,"Baileya 21: 11 1968",,,,c8d244e0-8fd1-11eb-924d-9cd76263cbd0,57145-1,wfo-0000538352,,
-9ffd9d58-8fcc-11eb-924d-9cd76263cbd0,species,azadirachta,Antelaea,,"(L.) Adelb.",1949,"Blumea 6: 315 1949",,,,6bec35ec-8fcc-11eb-924d-9cd76263cbd0,577558-1,wfo-0000538354,,
-9ffdb75c-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Antelaea,,"Cels ex Heynh.",1846,"Alph. Aufz. Gew. 38 1846",,,,,577559-1,wfo-0000538355,3850105,
-9ffe1f94-8fcc-11eb-924d-9cd76263cbd0,species,javanica,Antelaea,,Gaertn.,1788,"Fruct. Sem. Pl. 1: 277 1788",,,,,577560-1,wfo-0000538356,3850096,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8399aa-8fd1-11eb-924d-9cd76263cbd0,genus,Antegibbaeum,,,"Schwantes ex C.Weber",,1968,,"Baileya 16(1): 10–11. 1968. (15 Nov 1968)",,,,,,1047-1,wfo-4000002354,7329461,,
+9ffd6392-8fcc-11eb-924d-9cd76263cbd0,species,fissoides,Antegibbaeum,,"(Haw.) C.Weber",,1968,,"Baileya 21: 11 1968",,,,c8d244e0-8fd1-11eb-924d-9cd76263cbd0,,57145-1,wfo-0000538352,,,
+9ffd9d58-8fcc-11eb-924d-9cd76263cbd0,species,azadirachta,Antelaea,,"(L.) Adelb.",,1949,,"Blumea 6: 315 1949",,Q96029185,,6bec35ec-8fcc-11eb-924d-9cd76263cbd0,,577558-1,wfo-0000538354,,,
+9ffdb75c-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Antelaea,,"Cels ex Heynh.",,1846,,"Alph. Aufz. Gew. 38 1846",,,,,,577559-1,wfo-0000538355,3850105,,
+9ffe1f94-8fcc-11eb-924d-9cd76263cbd0,species,javanica,Antelaea,,Gaertn.,,1788,,"Fruct. Sem. Pl. 1: 277 1788",,,,,,577560-1,wfo-0000538356,3850096,,

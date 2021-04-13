@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df1c0772-8fd1-11eb-924d-9cd76263cbd0,genus,Allohemia,,,Raf.,1838,"Sylva Tellur. 125. 1838. (Oct-Dec 1838)",,,,,,wfo-4000001279,7288079,
-98e1968c-8fcc-11eb-924d-9cd76263cbd0,species,pedunculata,Allohemia,,Raf.,1838,"Sylva Tellur. 125 1838",,,,,547662-1,wfo-0000526514,4002773,
-98e1b090-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Allohemia,,Raf.,1838,"Sylva Tellur. 125 1838",,,,,547663-1,wfo-0000526515,4002758,
-4823bbb6-8fcd-11eb-924d-9cd76263cbd0,species,ambiguus,Alloiatheros,,"Elliott ex Kunth",1833,"Enum. Pl. 1: 284 1833",,,,,1196326-2,wfo-0000845353,4109480,
-482409a4-8fcd-11eb-924d-9cd76263cbd0,species,aristatus,Alloiatheros,,Raf.,1830,"Bull. Bot. (Geneva) 1: 221 1830",,,,,386987-1,wfo-0000845354,4109472,
-48242cb8-8fcd-11eb-924d-9cd76263cbd0,species,lepturoides,Alloiatheros,,"(Nutt.) Steud.",1840,"Nomencl. Bot. ed. 2, 1: 55 1840",,,,495be422-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000845355,4109459,
-98e1cd46-8fcc-11eb-924d-9cd76263cbd0,species,weberbaueri,Alloiosepalum,,Gilg,1931,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 97 1931",,,,,9081-2,wfo-0000526516,3570623,
-51e9603a-8fb2-11eb-924d-9cd76263cbd0,species,arctotideum,Alloiozonium,,Kunze,,"Linnaea 17 572",,,,,,wfo-0000020391,3114990,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df1c0772-8fd1-11eb-924d-9cd76263cbd0,genus,Allohemia,,,Raf.,,1838,,"Sylva Tellur. 125. 1838. (Oct-Dec 1838)",,,,,,,wfo-4000001279,7288079,,
+98e1968c-8fcc-11eb-924d-9cd76263cbd0,species,pedunculata,Allohemia,,Raf.,,1838,,"Sylva Tellur. 125 1838",,,,,,547662-1,wfo-0000526514,4002773,,
+98e1b090-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Allohemia,,Raf.,,1838,,"Sylva Tellur. 125 1838",,,,,,547663-1,wfo-0000526515,4002758,,
+4823bbb6-8fcd-11eb-924d-9cd76263cbd0,species,ambiguus,Alloiatheros,,"Elliott ex Kunth",,1833,,"Enum. Pl. 1: 284 1833",,,,,,1196326-2,wfo-0000845353,4109480,,
+482409a4-8fcd-11eb-924d-9cd76263cbd0,species,aristatus,Alloiatheros,,Raf.,,1830,,"Bull. Bot. (Geneva) 1: 221 1830",,,,,,386987-1,wfo-0000845354,4109472,,
+48242cb8-8fcd-11eb-924d-9cd76263cbd0,species,lepturoides,Alloiatheros,,"(Nutt.) Steud.",,1840,,"Nomencl. Bot. ed. 2, 1: 55 1840",,,,495be422-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000845355,4109459,,
+98e1cd46-8fcc-11eb-924d-9cd76263cbd0,species,weberbaueri,Alloiosepalum,,Gilg,,1931,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 97 1931",,Q55777200,,,,9081-2,wfo-0000526516,3570623,,
+51e9603a-8fb2-11eb-924d-9cd76263cbd0,species,arctotideum,Alloiozonium,,Kunze,,,,"Linnaea 17 572",,,,,,,wfo-0000020391,3114990,,

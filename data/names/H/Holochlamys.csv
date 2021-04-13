@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4cdc6b0-8fd1-11eb-924d-9cd76263cbd0,genus,Holochlamys,,,Engl.,1883,"Malesia 1: 265. 1883.",,,,,2812-1,wfo-4000018083,2871382,
-92db935e-8fcd-11eb-924d-9cd76263cbd0,species,beccarii,Holochlamys,,"(Engl.) Engl.",1883,"Malesia 1: 265 1883",,,,,87137-1,wfo-0000982835,2871383,
-92dbad94-8fcd-11eb-924d-9cd76263cbd0,species,elliptica,Holochlamys,,Alderw.,1922,"Bull. Jard. Bot. Buitenzorg III, 4: 331 1922",,,,,87138-1,wfo-0000982836,2871385,
-92dbca36-8fcd-11eb-924d-9cd76263cbd0,species,guineensis,Holochlamys,,"Engl. & K.Krause",1908,"Pflanzenr. IV, 23B: 136 1908",,,,,,wfo-0000982837,2871387,
-92dbe926-8fcd-11eb-924d-9cd76263cbd0,species,montana,Holochlamys,,Gilli,1980,"Ann. Naturhist. Mus. Wien 84: 6 1980 publ. 1983",,,,,902218-1,wfo-0000982838,2871384,
-92dc060e-8fcd-11eb-924d-9cd76263cbd0,species,ornata,Holochlamys,,Alderw.,1922,"Bull. Jard. Bot. Buitenzorg III, 4: 169 1922",,,,,87140-1,wfo-0000982839,2871388,
-92dc204e-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Holochlamys,,"Engl. & K.Krause",1912,"Bot. Jahrb. Syst. 49: 96 1912",,,,,87141-1,wfo-0000982840,2869693,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4cdc6b0-8fd1-11eb-924d-9cd76263cbd0,genus,Holochlamys,,,Engl.,,1883,,"Malesia 1: 265. 1883.",,,,,,2812-1,wfo-4000018083,2871382,,
+92db935e-8fcd-11eb-924d-9cd76263cbd0,species,beccarii,Holochlamys,,"(Engl.) Engl.",,1883,,"Malesia 1: 265 1883",,,,,,87137-1,wfo-0000982835,2871383,,
+92dbad94-8fcd-11eb-924d-9cd76263cbd0,species,elliptica,Holochlamys,,Alderw.,,1922,,"Bull. Jard. Bot. Buitenzorg III, 4: 331 1922",,,,,,87138-1,wfo-0000982836,2871385,,
+92dbca36-8fcd-11eb-924d-9cd76263cbd0,species,guineensis,Holochlamys,,"Engl. & K.Krause",,1908,,"Pflanzenr. IV, 23B: 136 1908",,,,,,,wfo-0000982837,2871387,,
+92dbe926-8fcd-11eb-924d-9cd76263cbd0,species,montana,Holochlamys,,Gilli,,1980,,"Ann. Naturhist. Mus. Wien 84: 6 1980 publ. 1983",,,,,,902218-1,wfo-0000982838,2871384,,
+92dc060e-8fcd-11eb-924d-9cd76263cbd0,species,ornata,Holochlamys,,Alderw.,,1922,,"Bull. Jard. Bot. Buitenzorg III, 4: 169 1922",,,,,,87140-1,wfo-0000982839,2871388,,
+92dc204e-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Holochlamys,,"Engl. & K.Krause",,1912,,"Bot. Jahrb. Syst. 49: 96 1912",,,,,,87141-1,wfo-0000982840,2869693,,

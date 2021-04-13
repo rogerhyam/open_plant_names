@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75f90d4-8fd1-11eb-924d-9cd76263cbd0,genus,Nothosmyrnium,,,Miq.,1867,"Ann. Mus. Bot. Lugduno-Batavi 3: 58. 1867.",,,,,40287-1,wfo-4000026300,6026959,
-bb309bec-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Nothosmyrnium,,Miq.,1867,"Ann. Mus. Bot. Lugduno-Batavi 3: 58 1867",,,,,845193-1,wfo-0001069212,3642619,
-bb30d238-8fcd-11eb-924d-9cd76263cbd0,species,xizangense,Nothosmyrnium,,"Shan & T.S.Wang",1980,"Acta Phytotax. Sin. 18(3): 375–376 1980",,,,,845194-1,wfo-0001069214,3636844,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75f90d4-8fd1-11eb-924d-9cd76263cbd0,genus,Nothosmyrnium,,,Miq.,,1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 58. 1867.",,,,,,40287-1,wfo-4000026300,6026959,,
+bb309bec-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Nothosmyrnium,,Miq.,,1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 58 1867",,,,,,845193-1,wfo-0001069212,3642619,,
+bb30d238-8fcd-11eb-924d-9cd76263cbd0,species,xizangense,Nothosmyrnium,,"Shan & T.S.Wang",,1980,,"Acta Phytotax. Sin. 18(3): 375–376 1980",,,,,,845194-1,wfo-0001069214,3636844,,

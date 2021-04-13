@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5dc1b38-8fd1-11eb-924d-9cd76263cbd0,genus,Leucochloron,,,"Barneby & J.W.Grimes",,,,,,,989404-1,wfo-4000021515,2944287,
-d40b45d2-8fd1-11eb-924d-9cd76263cbd0,species,bolivianum,Leucochloron,,"C.E.Hughes & M.Atahuachi",2006,"Kew Bull. 61(4): 559–563, f. 1a–l 2006",,,,,77075900-1,wfo-0001285469,3978217,
-72bed228-8fc5-11eb-924d-9cd76263cbd0,species,foederale,Leucochloron,,"(Barneby & J.W.Grimes) Barneby",,,,,,ad87d1aa-8fc2-11eb-924d-9cd76263cbd0,,wfo-0000193121,2944298,
-794b2e0c-8fc5-11eb-924d-9cd76263cbd0,species,incuriale,Leucochloron,,"(Vell.) Barneby & J.W.Grimes",,,,,,,,wfo-0000193258,2944288,
-ace24e30-8fc5-11eb-924d-9cd76263cbd0,species,limae,Leucochloron,,"Barneby & J.W.Grimes",,,,,,,,wfo-0000194254,2944300,
-acb01a82-8fc5-11eb-924d-9cd76263cbd0,species,minarum,Leucochloron,,"(Harms) Barneby & J.W.Grimes",,,,,,,,wfo-0000194250,2944297,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5dc1b38-8fd1-11eb-924d-9cd76263cbd0,genus,Leucochloron,,,"Barneby & J.W.Grimes",,,,,,,,,,989404-1,wfo-4000021515,2944287,,
+d40b45d2-8fd1-11eb-924d-9cd76263cbd0,species,bolivianum,Leucochloron,,"C.E.Hughes & M.Atahuachi",,2006,,"Kew Bull. 61(4): 559–563, f. 1a–l 2006",,Q93631385,,,,77075900-1,wfo-0001285469,3978217,,
+72bed228-8fc5-11eb-924d-9cd76263cbd0,species,foederale,Leucochloron,,"(Barneby & J.W.Grimes) Barneby",,,,,,,,ad87d1aa-8fc2-11eb-924d-9cd76263cbd0,,,wfo-0000193121,2944298,,
+794b2e0c-8fc5-11eb-924d-9cd76263cbd0,species,incuriale,Leucochloron,,"(Vell.) Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000193258,2944288,,
+ace24e30-8fc5-11eb-924d-9cd76263cbd0,species,limae,Leucochloron,,"Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000194254,2944300,,
+acb01a82-8fc5-11eb-924d-9cd76263cbd0,species,minarum,Leucochloron,,"(Harms) Barneby & J.W.Grimes",,,,,,,,,,,wfo-0000194250,2944297,,

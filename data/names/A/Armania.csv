@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfbf03aa-8fd1-11eb-924d-9cd76263cbd0,genus,Armania,,,,,,,,,,,wfo-4000003072,3132504,
-0ef0e2c6-8fb2-11eb-924d-9cd76263cbd0,species,fruticulosa,Armania,,Bertero,1836,"Prod. v. 576 (1836).",,,,,,wfo-0000008552,7985727,
-8c144b64-8fba-11eb-924d-9cd76263cbd0,species,fruticulosa,Armania,,"(Spreng.) Bertero ex DC.",1836,"Prodr. 5: 576 (1836)",,,,6caad0f4-8fb5-11eb-924d-9cd76263cbd0,,wfo-0000127521,,
-a629588e-8fcc-11eb-924d-9cd76263cbd0,species,morisonii,Armarintea,,Bubani,1899,"Fl. Pyren. 2: 415 1899",,,,,838203-1,wfo-0000548605,3636931,
-a629733c-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Armarintea,,"(Mill.) Samp.",1914,"Herb. Portug. Ap. 3: 13 1914",,,,b8c0623a-8fcc-11eb-924d-9cd76263cbd0,838204-1,wfo-0000548606,3636922,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfbf03aa-8fd1-11eb-924d-9cd76263cbd0,genus,Armania,,,,,,,,,,,,,,wfo-4000003072,3132504,,
+0ef0e2c6-8fb2-11eb-924d-9cd76263cbd0,species,fruticulosa,Armania,,Bertero,,1836,,"Prod. v. 576 (1836).",,,,,,,wfo-0000008552,7985727,,
+8c144b64-8fba-11eb-924d-9cd76263cbd0,species,fruticulosa,Armania,,"(Spreng.) Bertero ex DC.",,1836,,"Prodr. 5: 576 (1836)",,,,6caad0f4-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000127521,,,
+a629588e-8fcc-11eb-924d-9cd76263cbd0,species,morisonii,Armarintea,,Bubani,,1899,,"Fl. Pyren. 2: 415 1899",,,,,,838203-1,wfo-0000548605,3636931,,
+a629733c-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Armarintea,,"(Mill.) Samp.",,1914,,"Herb. Portug. Ap. 3: 13 1914",,,,b8c0623a-8fcc-11eb-924d-9cd76263cbd0,,838204-1,wfo-0000548606,3636922,,

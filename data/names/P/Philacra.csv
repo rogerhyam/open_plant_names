@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e85d7ffa-8fd1-11eb-924d-9cd76263cbd0,genus,Philacra,,,Dwyer,1944,"Brittonia 5: 124. 1944.",,,,,295310-2,wfo-4000029201,7326680,
-7b8a967e-8fcc-11eb-924d-9cd76263cbd0,species,auriculata,Philacra,,Dwyer,1944,"Brittonia 5: 126 1944",,,,,192749-2,wfo-0000476719,3694793,
-7b8b2206-8fcc-11eb-924d-9cd76263cbd0,species,duidae,Philacra,,"(Gleason) Dwyer",1944,"Brittonia 5: 125 1944",,,,,192750-2,wfo-0000476724,3694772,
-7b8b3cfa-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Philacra,,"(Gleason) Dwyer",1944,"Brittonia 5: 127 1944",,,,,192751-2,wfo-0000476725,3694757,
-7b8b5960-8fcc-11eb-924d-9cd76263cbd0,species,steyermarkii,Philacra,,Maguire,1967,"Acta Bot. Venez. 2: 241 1967",,,,,192752-2,wfo-0000476726,3694735,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e85d7ffa-8fd1-11eb-924d-9cd76263cbd0,genus,Philacra,,,Dwyer,,1944,,"Brittonia 5: 124. 1944.",,Q54563908,,,,295310-2,wfo-4000029201,7326680,,
+7b8a967e-8fcc-11eb-924d-9cd76263cbd0,species,auriculata,Philacra,,Dwyer,,1944,,"Brittonia 5: 126 1944",,Q54563908,,,,192749-2,wfo-0000476719,3694793,,
+7b8b2206-8fcc-11eb-924d-9cd76263cbd0,species,duidae,Philacra,,"(Gleason) Dwyer",,1944,,"Brittonia 5: 125 1944",,Q54563908,,,,192750-2,wfo-0000476724,3694772,,
+7b8b3cfa-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Philacra,,"(Gleason) Dwyer",,1944,,"Brittonia 5: 127 1944",,Q54563908,,,,192751-2,wfo-0000476725,3694757,,
+7b8b5960-8fcc-11eb-924d-9cd76263cbd0,species,steyermarkii,Philacra,,Maguire,,1967,,"Acta Bot. Venez. 2: 241 1967",,Q91475374,,,,192752-2,wfo-0000476726,3694735,,

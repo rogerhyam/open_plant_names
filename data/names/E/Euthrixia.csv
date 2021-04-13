@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e39af18c-8fd1-11eb-924d-9cd76263cbd0,genus,Euthrixia,,,,,,,,,,,wfo-4000014357,7337867,
-0cd21302-8fb2-11eb-924d-9cd76263cbd0,species,affinis,Euthrixia,,D.Don,1832,"391 1832",,,,,207538-1,wfo-0000007875,4238147,
-a15cf7e6-8fb5-11eb-924d-9cd76263cbd0,species,salsoides,Euthrixia,,D.Don,,,,,,,,wfo-0000080320,7414175,
-b1ca186e-8fb2-11eb-924d-9cd76263cbd0,species,salsoloides,Euthrixia,,D.Don,1830,"Trans. Linn. Soc. London 16 259 1830",,,,,207539-1,wfo-0000032042,4238137,
-5330355c-8fcd-11eb-924d-9cd76263cbd0,species,longiligula,Euthryptochloa,,Cope,1987,"Kew Bull. 42: 707 1987",,,,,932432-1,wfo-0000869383,4131310,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e39af18c-8fd1-11eb-924d-9cd76263cbd0,genus,Euthrixia,,,,,,,,,,,,,,wfo-4000014357,7337867,,
+0cd21302-8fb2-11eb-924d-9cd76263cbd0,species,affinis,Euthrixia,,D.Don,,1832,,"391 1832",,,,,,207538-1,wfo-0000007875,4238147,,
+a15cf7e6-8fb5-11eb-924d-9cd76263cbd0,species,salsoides,Euthrixia,,D.Don,,,,,,,,,,,wfo-0000080320,7414175,,
+b1ca186e-8fb2-11eb-924d-9cd76263cbd0,species,salsoloides,Euthrixia,,D.Don,,1830,,"Trans. Linn. Soc. London 16 259 1830",,Q55758798,,,,207539-1,wfo-0000032042,4238137,,
+5330355c-8fcd-11eb-924d-9cd76263cbd0,species,longiligula,Euthryptochloa,,Cope,,1987,,"Kew Bull. 42: 707 1987",,Q55779902,,,,932432-1,wfo-0000869383,4131310,,

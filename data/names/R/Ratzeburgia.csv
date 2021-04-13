@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e98063fc-8fd1-11eb-924d-9cd76263cbd0,genus,Ratzeburgia,,,Kunth,1831,"Révis. Gramin. 2: 487. 1831.",,,,,18877-1,wfo-4000032596,3232853,
-600850de-8fcd-11eb-924d-9cd76263cbd0,species,pulcherrima,Ratzeburgia,,Kunth,1831,"Révis. Gramin. 2: 487 1831",,,,,419267-1,wfo-0000895676,5678889,
-60086ee8-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Ratzeburgia,,Steud.,1841,"Nomencl. Bot. ed. 2, 2: 439 1841",,,,,,wfo-0000895677,5678886,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e98063fc-8fd1-11eb-924d-9cd76263cbd0,genus,Ratzeburgia,,,Kunth,,1831,,"Révis. Gramin. 2: 487. 1831.",,,,,,18877-1,wfo-4000032596,3232853,,
+600850de-8fcd-11eb-924d-9cd76263cbd0,species,pulcherrima,Ratzeburgia,,Kunth,,1831,,"Révis. Gramin. 2: 487 1831",,,,,,419267-1,wfo-0000895676,5678889,,
+60086ee8-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Ratzeburgia,,Steud.,,1841,,"Nomencl. Bot. ed. 2, 2: 439 1841",,,,,,,wfo-0000895677,5678886,,

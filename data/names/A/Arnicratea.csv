@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc19dea-8fd1-11eb-924d-9cd76263cbd0,genus,Arnicratea,,,N.Hallé,1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 6: 12. 1984.",,,,,893349-1,wfo-4000003094,7265776,
-a6b7b854-8fcc-11eb-924d-9cd76263cbd0,species,cambodiana,Arnicratea,,"(Pierre) N.Hallé",1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 16 1984",,,,,913683-1,wfo-0000549537,3794344,
-a6b7d74e-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Arnicratea,,"(King) N.Hallé",1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 16 1984",,,,0e3ef4e2-8fcd-11eb-924d-9cd76263cbd0,913684-1,wfo-0000549538,3794335,
-a6b7f558-8fcc-11eb-924d-9cd76263cbd0,species,grahamii,Arnicratea,,"(Wight) N.Hallé",1984,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 14 1984",,,,,913685-1,wfo-0000549539,3794323,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc19dea-8fd1-11eb-924d-9cd76263cbd0,genus,Arnicratea,,,N.Hallé,,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 6: 12. 1984.",,,,,,893349-1,wfo-4000003094,7265776,,
+a6b7b854-8fcc-11eb-924d-9cd76263cbd0,species,cambodiana,Arnicratea,,"(Pierre) N.Hallé",,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 16 1984",,,,,,913683-1,wfo-0000549537,3794344,,
+a6b7d74e-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Arnicratea,,"(King) N.Hallé",,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 16 1984",,,,0e3ef4e2-8fcd-11eb-924d-9cd76263cbd0,,913684-1,wfo-0000549538,3794335,,
+a6b7f558-8fcc-11eb-924d-9cd76263cbd0,species,grahamii,Arnicratea,,"(Wight) N.Hallé",,1984,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 6: 14 1984",,,,,,913685-1,wfo-0000549539,3794323,,

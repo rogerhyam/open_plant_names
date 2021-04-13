@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5363178-8fd1-11eb-924d-9cd76263cbd0,genus,Jaliscoa,,,S.Watson,,,,,,,291638-2,wfo-4000019472,3098847,
-fe34099a-8fb1-11eb-924d-9cd76263cbd0,species,goldmanii,Jaliscoa,,"(B.L.Rob.) R.M.King & H.Rob.",1970,"427 1970",,,,,226706-1,wfo-0000001364,5389391,
-1296d8ea-8fb2-11eb-924d-9cd76263cbd0,species,paleacea,Jaliscoa,,"(Cronquist) R.M.King & H.Rob.",1970,"428 1970",,,,135fec26-8fb2-11eb-924d-9cd76263cbd0,131303-2,wfo-0000009613,5389392,
-01ebb4b6-8fb2-11eb-924d-9cd76263cbd0,species,pappifera,Jaliscoa,,S.F.Blake,1924,"587 1924",,,,,131304-2,wfo-0000003984,5389390,
-00cfc130-8fb2-11eb-924d-9cd76263cbd0,species,pringlei,Jaliscoa,,S.Watson,1890,"153 1890",,,,,131305-2,wfo-0000003420,5389389,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5363178-8fd1-11eb-924d-9cd76263cbd0,genus,Jaliscoa,,,S.Watson,,,,,,,,,,291638-2,wfo-4000019472,3098847,,
+fe34099a-8fb1-11eb-924d-9cd76263cbd0,species,goldmanii,Jaliscoa,,"(B.L.Rob.) R.M.King & H.Rob.",,1970,,"427 1970",,,,,,226706-1,wfo-0000001364,5389391,,
+1296d8ea-8fb2-11eb-924d-9cd76263cbd0,species,paleacea,Jaliscoa,,"(Cronquist) R.M.King & H.Rob.",,1970,,"428 1970",,,,135fec26-8fb2-11eb-924d-9cd76263cbd0,,131303-2,wfo-0000009613,5389392,,
+01ebb4b6-8fb2-11eb-924d-9cd76263cbd0,species,pappifera,Jaliscoa,,S.F.Blake,,1924,,"587 1924",,Q95371434,,,,131304-2,wfo-0000003984,5389390,,
+00cfc130-8fb2-11eb-924d-9cd76263cbd0,species,pringlei,Jaliscoa,,S.Watson,,1890,,"153 1890",,,,,,131305-2,wfo-0000003420,5389389,,

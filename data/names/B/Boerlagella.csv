@@ -1,4 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e050b476-8fd1-11eb-924d-9cd76263cbd0,genus,Boerlagella,,,"Pierre ex Cogn.",,"Monogr. Phan. 7: 1173. 1891.",,,,,60468386-2,wfo-4000004875,8376018,
-243b9f44-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Boerlagella,,"(Miq.) H.J.Lam",1925,"Bull. Jard. Bot. Buitenzorg III, 7: 251 1925",,,,,785963-1,wfo-0000347553,5333857,
-243e74bc-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Boerlagia,,"(Miq.) Pierre",1890,"Not. Bot. 33 1890",,,,,,wfo-0000347573,2886748,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e050b476-8fd1-11eb-924d-9cd76263cbd0,genus,Boerlagella,,,"Pierre ex Cogn.",,1897,,"Monogr. Phan. 7: 1173. 1891.",,,,e050b476-8fd1-11eb-924d-9cd76263cbd0,,60468386-2,wfo-4000004875,8376018,606," "
+5bb90984-9bac-11eb-a8a2-19ed5c03f8d3,species,argentinensis,Boerlagella,,Speg.,,1909,,"Anal. Mus. nac. B. Aires, Ser. 3 19(12): 388 (1909)",,,,5bb90984-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145170," "
+5b63465c-9bac-11eb-a8a2-19ed5c03f8d3,species,effusa,Boerlagella,,"Syd., P. Syd. & E.J. Butler",,1911,,"Annls mycol. 9: 403 (1911)",,,,5b63465c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144535," "
+0a8ea23e-9bad-11eb-a8a2-19ed5c03f8d3,species,indica,Boerlagella,,"Tilak, S.B. Kale & S.V.S. Kale",,1971,,"Sydowia 24(1-6): 294 (1971)",,,,0a8ea23e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309606," "
+5ba11efa-9bac-11eb-a8a2-19ed5c03f8d3,species,laxa,Boerlagella,,"Penz. & Sacc.",,1897,,"Malpighia 11: 405 (1897)",,,,5ba11efa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144987," "
+243b9f44-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Boerlagella,,"(Miq.) H.J.Lam",,1925,,"Bull. Jard. Bot. Buitenzorg III, 7: 251 1925",,,,,,785963-1,wfo-0000347553,5333857,,
+5b75d02e-9bac-11eb-a8a2-19ed5c03f8d3,species,velutina,Boerlagella,,"Penz. & Sacc.",,1897,,"Malpighia 11: 404 (1897)",,,,5b75d02e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144656," "

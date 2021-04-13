@@ -1,8 +1,30 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46346a0-8fd1-11eb-924d-9cd76263cbd0,genus,Hansenia,,,Turcz.,1844,"Bull. Soc. Imp. Naturalistes Moscou 17: 754. 1844.",,,,,,wfo-4000016837,6592005,
-8efeb1ae-8fcc-11eb-924d-9cd76263cbd0,species,forbesii,Hansenia,,"(H.Boissieu) Pimenov & Kljuykov",2008,"Willdenowia 38: 163 2008",,,,37ac0096-8fcc-11eb-924d-9cd76263cbd0,77091718-1,wfo-0000509485,5537977,
-8efeccf2-8fcc-11eb-924d-9cd76263cbd0,species,forrestii,Hansenia,,"(H.Wolff) Pimenov & Kljuykov",2008,"Willdenowia 38: 166 2008",,,,,77091719-1,wfo-0000509486,5537973,
-bae99300-8fcd-11eb-924d-9cd76263cbd0,species,mongholica,Hansenia,,Turcz.,,,,,,,,wfo-0001068564,5537971,
-8efee71e-8fcc-11eb-924d-9cd76263cbd0,species,oviformis,Hansenia,,"(R.H.Shan) Pimenov & Kljuykov",2008,"Willdenowia 38: 166 2008",,,,,77091720-1,wfo-0000509487,5537969,
-8eff04f6-8fcc-11eb-924d-9cd76263cbd0,species,pinnatiinvolucellata,Hansenia,,"(F.T.Pu & Y.P.Wang) Pimenov & Kljuykov",2008,"Willdenowia 38: 169 2008",,,,,77091721-1,wfo-0000509488,5537966,
-8eff1fe0-8fcc-11eb-924d-9cd76263cbd0,species,weberbaueriana,Hansenia,,"(Fedde ex H.Wolff) Pimenov & Kljuykov",2008,"Willdenowia 38: 169 2008",,,,,77091722-1,wfo-0000509489,5537964,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46346a0-8fd1-11eb-924d-9cd76263cbd0,genus,Hansenia,,,Turcz.,,1844,,"Bull. Soc. Imp. Naturalistes Moscou 17: 754. 1844.",,,,e46346a0-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000016837,6592005,17720," "
+5d9b5388-9bac-11eb-a8a2-19ed5c03f8d3,species,abietina,Hansenia,,"(Pers.) P. Karst.",,1889,,"Bidr. Känn. Finl. Nat. Folk 48: 305 (1889)",,,,,,,,,469388," "
+23b6ce0e-9bac-11eb-a8a2-19ed5c03f8d3,species,barbatula,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,03687fc6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100990," "
+239deda8-9bac-11eb-a8a2-19ed5c03f8d3,species,beyrichii,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,abb70f0c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100841," "
+23a2be3c-9bac-11eb-a8a2-19ed5c03f8d3,species,casca,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,5401ae26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100867," "
+23950670-9bac-11eb-a8a2-19ed5c03f8d3,species,cilicioides,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,39eacd92-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100788," "
+08506976-9bad-11eb-a8a2-19ed5c03f8d3,species,cingulata,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,,,,,,100810," "
+23953afa-9bac-11eb-a8a2-19ed5c03f8d3,species,cyphelloides,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,7b0f5c12-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100789," "
+23a2f1c2-9bac-11eb-a8a2-19ed5c03f8d3,species,decipiens,Hansenia,,"(Schwein.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,664ecb68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100868," "
+8efeb1ae-8fcc-11eb-924d-9cd76263cbd0,species,forbesii,Hansenia,,"(H.Boissieu) Pimenov & Kljuykov",,2008,,"Willdenowia 38: 163 2008",,Q55790355,,37ac0096-8fcc-11eb-924d-9cd76263cbd0,,77091718-1,wfo-0000509485,5537977,,
+8efeccf2-8fcc-11eb-924d-9cd76263cbd0,species,forrestii,Hansenia,,"(H.Wolff) Pimenov & Kljuykov",,2008,,"Willdenowia 38: 166 2008",,Q55790355,,,,77091719-1,wfo-0000509486,5537973,,
+239584ba-9bac-11eb-a8a2-19ed5c03f8d3,species,hirsuta,Hansenia,,"(Wulfen) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,6797f8f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100790," "
+0aaf81e4-9bac-11eb-a8a2-19ed5c03f8d3,species,imitata,Hansenia,,"P. Karst.",,1886,,"Meddn Soc. Fauna Flora fenn. 13: 161 (1886)",,,,0aaf81e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469389," "
+23e409f0-9bac-11eb-a8a2-19ed5c03f8d3,species,lanuginosa,Hansenia,,Zopf,,1883,,"Z. Naturw., Ser. 4 56: 565 (1883)",,,,23e409f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101252," "
+bae99300-8fcd-11eb-924d-9cd76263cbd0,species,mongholica,Hansenia,,Turcz.,,,,,,,,,,,wfo-0001068564,5537971,,
+23b2c6b0-9bac-11eb-a8a2-19ed5c03f8d3,species,myrrhina,Hansenia,,"(J.J. Kickx) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,f6ac3fd4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100976," "
+8efee71e-8fcc-11eb-924d-9cd76263cbd0,species,oviformis,Hansenia,,"(R.H.Shan) Pimenov & Kljuykov",,2008,,"Willdenowia 38: 166 2008",,Q55790355,,,,77091720-1,wfo-0000509487,5537969,,
+8eff04f6-8fcc-11eb-924d-9cd76263cbd0,species,pinnatiinvolucellata,Hansenia,,"(F.T.Pu & Y.P.Wang) Pimenov & Kljuykov",,2008,,"Willdenowia 38: 169 2008",,Q55790355,,,,77091721-1,wfo-0000509488,5537966,,
+f82b561a-9bab-11eb-a8a2-19ed5c03f8d3,species,psiloderma,Hansenia,,"(Berk. & Mont.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,c5b245b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100888," "
+0aafaffc-9bac-11eb-a8a2-19ed5c03f8d3,species,pubescens,Hansenia,,"(Schumach.) P. Karst.",,1889,,"Bidr. Känn. Finl. Nat. Folk 48: 304 (1889)",,,,4da88b8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469390," "
+23a88b50-9bac-11eb-a8a2-19ed5c03f8d3,species,rubida,Hansenia,,"(Berk.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,6a36398c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100900," "
+23ae0206-9bac-11eb-a8a2-19ed5c03f8d3,species,scortea,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,4e8a2ea0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100951," "
+23a28cd2-9bac-11eb-a8a2-19ed5c03f8d3,species,umbonata,Hansenia,,"(Fr.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,,,,,,100866," "
+23ae2e20-9bac-11eb-a8a2-19ed5c03f8d3,species,vellerea,Hansenia,,"(Berk.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,98fac6ca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100952," "
+2398643c-9bac-11eb-a8a2-19ed5c03f8d3,species,velutina,Hansenia,,"(Pers.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,fdf59a10-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100811," "
+66ff1522-9bac-11eb-a8a2-19ed5c03f8d3,species,versicolor,Hansenia,,"(L.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,,,,,,100924," "
+8eff1fe0-8fcc-11eb-924d-9cd76263cbd0,species,weberbaueriana,Hansenia,,"(Fedde ex H.Wolff) Pimenov & Kljuykov",,2008,,"Willdenowia 38: 169 2008",,Q55790355,,,,77091722-1,wfo-0000509489,5537964,,
+23b60e4c-9bac-11eb-a8a2-19ed5c03f8d3,species,zonalis,Hansenia,,"(Berk.) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,6370f754-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100989," "
+23bb2c9c-9bac-11eb-a8a2-19ed5c03f8d3,species,zonata,Hansenia,,"(Nees) P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 40 (1879)",,,,fd56cafc-9bab-11eb-a8a2-19ed5c03f8d3,,,,,101014," "

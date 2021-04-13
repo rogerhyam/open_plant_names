@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e190c6aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cheirisanthera,,,"Lindl. & Paxton",1851,"Paxton's Flower Garden 2: 59. 1851.",,,,,,wfo-4000007777,,
-c727d498-8fcc-11eb-924d-9cd76263cbd0,species,atrosanguinea,Cheirisanthera,,Regel,1853,"Gartenflora 2: 353 1853",,,,,378525-1,wfo-0000600611,3819905,
-c727efdc-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Cheirisanthera,,Regel,1853,"Gartenflora 2: 353 1853",,,,,378526-1,wfo-0000600612,3819893,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e190c6aa-8fd1-11eb-924d-9cd76263cbd0,genus,Cheirisanthera,,,"Lindl. & Paxton",,1851,,"Paxton's Flower Garden 2: 59. 1851.",,,,,,,wfo-4000007777,,,
+c727d498-8fcc-11eb-924d-9cd76263cbd0,species,atrosanguinea,Cheirisanthera,,Regel,,1853,,"Gartenflora 2: 353 1853",,,,,,378525-1,wfo-0000600611,3819905,,
+c727efdc-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Cheirisanthera,,Regel,,1853,,"Gartenflora 2: 353 1853",,,,,,378526-1,wfo-0000600612,3819893,,

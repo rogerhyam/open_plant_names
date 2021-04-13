@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8cbd180-8fd1-11eb-924d-9cd76263cbd0,genus,Podolasia,,,N.E.Br.,1882,"Gard. Chron. 1882(2): 70. 1882.",,,,,2873-1,wfo-4000030494,2868859,
-f93b6180-8fcb-11eb-924d-9cd76263cbd0,species,stipitata,Podolasia,,N.E.Br.,1882,"Gard. Chron. n.s., 1882(2): 70 1882",,,,,88134-1,wfo-0000279404,5330306,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8cbd180-8fd1-11eb-924d-9cd76263cbd0,genus,Podolasia,,,N.E.Br.,,1882,,"Gard. Chron. 1882(2): 70. 1882.",,,,,,2873-1,wfo-4000030494,2868859,,
+f93b6180-8fcb-11eb-924d-9cd76263cbd0,species,stipitata,Podolasia,,N.E.Br.,,1882,,"Gard. Chron. n.s., 1882(2): 70 1882",,,,,,88134-1,wfo-0000279404,5330306,,

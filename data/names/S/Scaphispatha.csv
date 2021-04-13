@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea049956-8fd1-11eb-924d-9cd76263cbd0,genus,Scaphispatha,,,"Brongn. ex Schott",1860,"Prodr. Syst. Aroid. 214. 1860.",,,,,2901-1,wfo-4000034246,2869968,
-0970da80-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Scaphispatha,,"Brongn. ex Schott",1860,"Prodr. Syst. Aroid. 214 1860",,,,,88691-1,wfo-0000305239,2869969,
-35f53e9c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Scaphispatha,,E.G.Gonç.,2005,"Rodriguésia 56: 56 2005",,,,,60441579-2,wfo-0000806439,2869970,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea049956-8fd1-11eb-924d-9cd76263cbd0,genus,Scaphispatha,,,"Brongn. ex Schott",,1860,,"Prodr. Syst. Aroid. 214. 1860.",,,,,,2901-1,wfo-4000034246,2869968,,
+0970da80-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Scaphispatha,,"Brongn. ex Schott",,1860,,"Prodr. Syst. Aroid. 214 1860",,,,,,88691-1,wfo-0000305239,2869969,,
+35f53e9c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Scaphispatha,,E.G.Gonç.,,2005,,"Rodriguésia 56: 56 2005",,Q92426035,,,,60441579-2,wfo-0000806439,2869970,,

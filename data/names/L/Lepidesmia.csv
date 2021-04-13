@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5ba0c32-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidesmia,,,Klatt,,,,,,,297460-2,wfo-4000021087,3092982,
-46dbc78c-8fb2-11eb-924d-9cd76263cbd0,species,squarrosa,Lepidesmia,,Klatt,1896,"Bull. Herb. Boissier 4 479 1896",,,,,137931-2,wfo-0000018638,3092984,
-2aa5ceea-8fcc-11eb-924d-9cd76263cbd0,species,graminifolia,Lepidiberis,,"(L.) Fourr.",1868,"Ann. Soc. Linn. Lyon n.s., 16: 338 1868",,,,,286013-1,wfo-0000358586,3689602,
-2aa5f8ac-8fcc-11eb-924d-9cd76263cbd0,species,polyclada,Lepidiberis,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 338 1868",,,,,286014-1,wfo-0000358587,3689597,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5ba0c32-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidesmia,,,Klatt,,,,,,,,,,297460-2,wfo-4000021087,3092982,,
+46dbc78c-8fb2-11eb-924d-9cd76263cbd0,species,squarrosa,Lepidesmia,,Klatt,,1896,,"Bull. Herb. Boissier 4 479 1896",,,,,,137931-2,wfo-0000018638,3092984,,
+2aa5ceea-8fcc-11eb-924d-9cd76263cbd0,species,graminifolia,Lepidiberis,,"(L.) Fourr.",,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 338 1868",,,,,,286013-1,wfo-0000358586,3689602,,
+2aa5f8ac-8fcc-11eb-924d-9cd76263cbd0,species,polyclada,Lepidiberis,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 338 1868",,,,,,286014-1,wfo-0000358587,3689597,,

@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e903009c-8fd1-11eb-924d-9cd76263cbd0,genus,Pringleochloa,,,Scribn.,1896,"Bot. Gaz. 21(3): 137–138. 1896.",,,,,,wfo-4000031139,4152942,
-5f6262c8-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Pringleochloa,,"(E.Fourn.) Scribn.",1896,"Bot. Gaz. 21: 138 1896",,,,,210256-2,wfo-0000894801,4152941,
-b02fc024-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Pringleophytum,,A.Gray,1885,"Proc. Amer. Acad. Arts 20: 293 1885",,,,,53170-1,wfo-0001044121,3774390,
-4185a176-8fcc-11eb-924d-9cd76263cbd0,species,bumelioides,Prinodia,,Griseb.,1857,"Abh. Königl. Ges. Wiss. Göttingen 7: 224 1857",,,,,83918-1,wfo-0000392664,3610669,
-41856198-8fcc-11eb-924d-9cd76263cbd0,species,sideroxyloides,Prinodia,,Griseb.,1857,"Abh. Königl. Ges. Wiss. Göttingen 7: 224 1857",,,,,83919-1,wfo-0000392663,3610661,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e903009c-8fd1-11eb-924d-9cd76263cbd0,genus,Pringleochloa,,,Scribn.,,1896,,"Bot. Gaz. 21(3): 137–138. 1896.",,,,,,,wfo-4000031139,4152942,,
+5f6262c8-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Pringleochloa,,"(E.Fourn.) Scribn.",,1896,,"Bot. Gaz. 21: 138 1896",,Q55758475,,,,210256-2,wfo-0000894801,4152941,,
+b02fc024-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Pringleophytum,,A.Gray,,1885,,"Proc. Amer. Acad. Arts 20: 293 1885",,,,,,53170-1,wfo-0001044121,3774390,,

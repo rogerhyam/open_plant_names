@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a94134-8fd1-11eb-924d-9cd76263cbd0,genus,Diastemenanthe,,,Steud.,1854,"Syn. Pl. Glumac. 1: 360. 1854.",,,,,,wfo-4000011350,4933042,
-c77d528c-8fcd-11eb-924d-9cd76263cbd0,species,platystachys,Diastemenanthe,,Steud.,1854,"Syn. Pl. Glumac. 1: 360 1854",,,,,,wfo-0001096707,8398350,
-e0d4b38e-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Diastrophis,,"Fisch. & C.A.Mey.",1836,"Index Seminum (LE) 2: 36 1836",,,,,282089-1,wfo-0000644832,3051053,
-e0d4d058-8fcc-11eb-924d-9cd76263cbd0,species,hondurensis,Diateinacanthus,,Lindau,1905,"Bull. Herb. Boissier II, 5: 369 1905",,,,,79182-2,wfo-0000644833,3781583,
-1b048e6c-8fcd-11eb-924d-9cd76263cbd0,species,globulariifolia,Diatelia,,"(Lam.) Demoly",2011,"Bull. Assoc. Parcs Bot. France 51: 59 2011",,,,,77111610-1,wfo-0000749197,8024035,
-1b0515e4-8fcd-11eb-924d-9cd76263cbd0,species,tuberaria,Diatelia,,"(L.) Demoly",2001,"Bull. Assoc. Parcs Bot. France 51: 59 2001",,,,cb66b24a-8fcc-11eb-924d-9cd76263cbd0,77111609-1,wfo-0000749202,8105332,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a94134-8fd1-11eb-924d-9cd76263cbd0,genus,Diastemenanthe,,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 360. 1854.",,,,,,,wfo-4000011350,4933042,,
+c77d528c-8fcd-11eb-924d-9cd76263cbd0,species,platystachys,Diastemenanthe,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 360 1854",,,,,,,wfo-0001096707,8398350,,
+e0d4b38e-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Diastrophis,,"Fisch. & C.A.Mey.",,1836,,"Index Seminum (LE) 2: 36 1836",,,,,,282089-1,wfo-0000644832,3051053,,
+e0d4d058-8fcc-11eb-924d-9cd76263cbd0,species,hondurensis,Diateinacanthus,,Lindau,,1905,,"Bull. Herb. Boissier II, 5: 369 1905",,,,,,79182-2,wfo-0000644833,3781583,,
+1b048e6c-8fcd-11eb-924d-9cd76263cbd0,species,globulariifolia,Diatelia,,"(Lam.) Demoly",,2011,,"Bull. Assoc. Parcs Bot. France 51: 59 2011",,,,,,77111610-1,wfo-0000749197,8024035,,
+1b0515e4-8fcd-11eb-924d-9cd76263cbd0,species,tuberaria,Diatelia,,"(L.) Demoly",,2001,,"Bull. Assoc. Parcs Bot. France 51: 59 2001",,,,cb66b24a-8fcc-11eb-924d-9cd76263cbd0,,77111609-1,wfo-0000749202,8105332,,

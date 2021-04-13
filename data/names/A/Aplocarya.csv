@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df9d0c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Aplocarya,,,Lindl.,1844,"Raf., K.  ex Walp., and (R. P. )& Lindl., Edwards's Bot. Reg. 30: sub t. 46. 1844, 1844.",,,,,,wfo-4000002679,7300131,
-a4693a4a-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Aplocarya,,Lindl.,1844,"Raf., K.  ex Walp., and (R. P. )& Lindl., Edwards's Bot. Reg. 30: sub t. 46. 1844, 1844.",,,,,,wfo-0001019354,3803039,
-49749a1c-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Aplocera,,Raf.,1830,"Med. Fl. 2: 193 1830",,,,,,wfo-0000848291,5947033,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df9d0c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Aplocarya,,,Lindl.,,1844,,"Raf., K.  ex Walp., and (R. P. )& Lindl., Edwards's Bot. Reg. 30: sub t. 46. 1844, 1844.",,,,,,,wfo-4000002679,7300131,,
+a4693a4a-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Aplocarya,,Lindl.,,1844,,"Raf., K.  ex Walp., and (R. P. )& Lindl., Edwards's Bot. Reg. 30: sub t. 46. 1844, 1844.",,,,,,,wfo-0001019354,3803039,,
+49749a1c-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Aplocera,,Raf.,,1830,,"Med. Fl. 2: 193 1830",,,,,,,wfo-0000848291,5947033,,

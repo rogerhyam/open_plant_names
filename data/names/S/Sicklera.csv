@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea5cd8c8-8fd1-11eb-924d-9cd76263cbd0,genus,Sicklera,,,Sendtn.,1846,"(C. ) Hassl. and (C. ) Hassl., Flora 29: 194 (err. typ. 178). 1846, 1846.",,,,,,wfo-4000035287,7299139,
-a7a96ffe-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Sicklera,,Dunal,1852,"Dunal, Prodr. [A. P. de Candolle] 13(1): 502. 1852 [10 May 1852], 1852.",,,,,,wfo-0001025595,5580756,
-a7a98d90-8fcd-11eb-924d-9cd76263cbd0,species,solanacea,Sicklera,,"(L'Hér.) Sendtn.",1846,"(L. H. ) Sendtn., Flora 29: 195 (err. typ. 179). 1846, 1846.",,,,ab1d29dc-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001025596,5580755,
-a7a9aa32-8fcd-11eb-924d-9cd76263cbd0,species,tetrandra,Sicklera,,"A.Braun & Bouche",1853,"A. B. & Bouche, Ind. Sem. Hort. Berol. (1853) App. 10..",,,,,,wfo-0001025597,5580754,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea5cd8c8-8fd1-11eb-924d-9cd76263cbd0,genus,Sicklera,,,Sendtn.,,1846,,"(C. ) Hassl. and (C. ) Hassl., Flora 29: 194 (err. typ. 178). 1846, 1846.",,,,,,,wfo-4000035287,7299139,,
+a7a96ffe-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Sicklera,,Dunal,,1852,,"Dunal, Prodr. [A. P. de Candolle] 13(1): 502. 1852 [10 May 1852], 1852.",,,,,,,wfo-0001025595,5580756,,
+a7a98d90-8fcd-11eb-924d-9cd76263cbd0,species,solanacea,Sicklera,,"(L'Hér.) Sendtn.",,1846,,"(L. H. ) Sendtn., Flora 29: 195 (err. typ. 179). 1846, 1846.",,,,ab1d29dc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001025596,5580755,,
+a7a9aa32-8fcd-11eb-924d-9cd76263cbd0,species,tetrandra,Sicklera,,"A.Braun & Bouche",,1853,,"A. B. & Bouche, Ind. Sem. Hort. Berol. (1853) App. 10..",,,,,,,wfo-0001025597,5580754,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7e5c14a-8fd1-11eb-924d-9cd76263cbd0,genus,Paltonium,,,C.Presl,1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 516. 1851.",,,,,,wfo-4000027827,7290292,
-96e17280-8fbd-11eb-924d-9cd76263cbd0,species,dubium,Paltonium,,Rosenst.,1917,"Meded. Rijks-Herb. 31: 5 1917",,,,,17343970-1,wfo-0000148790,4028823,
-cda46380-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Paltonium,,"(L.) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 516 1851",,,,,,wfo-0001110329,2650540,
-c05939fe-8fd1-11eb-924d-9cd76263cbd0,species,novoguineense,Paltonium,,Rosenst.,1912,"Nova Guinea 8: 729 1912",,,,,17255380-1,wfo-0001254722,4028804,
-d3576c5a-8fcd-11eb-924d-9cd76263cbd0,species,sinense,Paltonium,,"(Christ) C.Chr.",1906,"Index Filic. fasc. 8: 477 1906",,,,,,wfo-0001122369,4028789,
-96f4e4f0-8fbd-11eb-924d-9cd76263cbd0,species,vittariiforme,Paltonium,,Rosenst.,1912,"Repert. Spec. Nov. Regni Veg. 10: 341 1912",,,,,17255390-1,wfo-0000148792,4028773,
-bf4a49c6-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Paltoria,,"Ruiz & Pav.",1798,"Fl. Peruv. 1: 54 1798",,,,,83909-1,wfo-0001078513,3609150,
-82a36986-8fcc-11eb-924d-9cd76263cbd0,species,crispa,Paludana,,Giseke,1792,"Prael. Ord. Nat. Pl. 207 1792",,,,,797658-1,wfo-0000488879,5301754,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7e5c14a-8fd1-11eb-924d-9cd76263cbd0,genus,Paltonium,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 516. 1851.",,,,,,,wfo-4000027827,7290292,,
+96e17280-8fbd-11eb-924d-9cd76263cbd0,species,dubium,Paltonium,,Rosenst.,,1917,,"Meded. Rijks-Herb. 31: 5 1917",,Q100453399,,,,17343970-1,wfo-0000148790,4028823,,
+cda46380-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatum,Paltonium,,"(L.) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 516 1851",,,,,,,wfo-0001110329,2650540,,
+c05939fe-8fd1-11eb-924d-9cd76263cbd0,species,novoguineense,Paltonium,,Rosenst.,,1912,,"Nova Guinea 8: 729 1912",,,,,,17255380-1,wfo-0001254722,4028804,,
+d3576c5a-8fcd-11eb-924d-9cd76263cbd0,species,sinense,Paltonium,,"(Christ) C.Chr.",,1906,,"Index Filic. fasc. 8: 477 1906",,,,,,,wfo-0001122369,4028789,,
+96f4e4f0-8fbd-11eb-924d-9cd76263cbd0,species,vittariiforme,Paltonium,,Rosenst.,,1912,,"Repert. Spec. Nov. Regni Veg. 10: 341 1912",,Q55752671,,,,17255390-1,wfo-0000148792,4028773,,
+bf4a49c6-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Paltoria,,"Ruiz & Pav.",,1798,,"Fl. Peruv. 1: 54 1798",,,,,,83909-1,wfo-0001078513,3609150,,
+82a36986-8fcc-11eb-924d-9cd76263cbd0,species,crispa,Paludana,,Giseke,,1792,,"Prael. Ord. Nat. Pl. 207 1792",,,,,,797658-1,wfo-0000488879,5301754,,

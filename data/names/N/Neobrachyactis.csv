@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec65ee3e-8fd1-11eb-924d-9cd76263cbd0,genus,Neobrachyactis,,,Brouillet,2011,"Fl. China 20-21: 571 (2011)",,,,,77118016-1,wfo-4001303336,9428130,
-e6cd9126-8fcb-11eb-924d-9cd76263cbd0,species,decaryana,Neobreonia,,"(Homolle) Ridsdale",1975,"Blumea 22: 546 1975",,,,4f7248ac-8fcc-11eb-924d-9cd76263cbd0,757345-1,wfo-0000250013,2911276,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec65ee3e-8fd1-11eb-924d-9cd76263cbd0,genus,Neobrachyactis,,,Brouillet,,2011,,"Fl. China 20-21: 571 (2011)",,,,,,77118016-1,wfo-4001303336,9428130,,
+e6cd9126-8fcb-11eb-924d-9cd76263cbd0,species,decaryana,Neobreonia,,"(Homolle) Ridsdale",,1975,,"Blumea 22: 546 1975",,Q96027582,,4f7248ac-8fcc-11eb-924d-9cd76263cbd0,,757345-1,wfo-0000250013,2911276,,

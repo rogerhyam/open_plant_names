@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7300d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Neolemonniera,,,Heine,1960,"Kew Bull. 14: 301. 1960.",,,,,36807-1,wfo-4000025738,2883905,
-e6e6c2f4-8fcb-11eb-924d-9cd76263cbd0,species,batesii,Neolemonniera,,"(Engl.) Heine",1960,"Kew Bull. 14: 301 1960",,,,,788110-1,wfo-0000250174,2883910,
-e6e6dfdc-8fcb-11eb-924d-9cd76263cbd0,species,clitandrifolia,Neolemonniera,,"(A.Chev.) Heine",1960,"Kew Bull. 14: 301 1960",,,,e3abea38-8fcb-11eb-924d-9cd76263cbd0,788111-1,wfo-0000250175,2883913,
-e6e71704-8fcb-11eb-924d-9cd76263cbd0,species,ogouensis,Neolemonniera,,"(Dubard) Heine",1960,"Kew Bull. 14: 301 1960",,,,d8cccdda-8fcb-11eb-924d-9cd76263cbd0,788112-1,wfo-0000250177,2883906,
-b9a786ec-8fd1-11eb-924d-9cd76263cbd0,species,campestris,Neolepia,,"(L.) W.A.Weber",1989,"Phytologia 67(6): 427 1989",,,,,947485-1,wfo-0001242261,3052064,
-fd7b0f0a-8fcd-11eb-924d-9cd76263cbd0,species,capilligera,Neolepidozia,,"(Schwägr.) Fulford & J.Taylor",1959,1959,,,,fba3d0ae-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001211520,8027006,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7300d0a-8fd1-11eb-924d-9cd76263cbd0,genus,Neolemonniera,,,Heine,,1960,,"Kew Bull. 14: 301. 1960.",,Q43258349,,,,36807-1,wfo-4000025738,2883905,,
+e6e6c2f4-8fcb-11eb-924d-9cd76263cbd0,species,batesii,Neolemonniera,,"(Engl.) Heine",,1960,,"Kew Bull. 14: 301 1960",,Q43258349,,,,788110-1,wfo-0000250174,2883910,,
+e6e6dfdc-8fcb-11eb-924d-9cd76263cbd0,species,clitandrifolia,Neolemonniera,,"(A.Chev.) Heine",,1960,,"Kew Bull. 14: 301 1960",,Q43258349,,e3abea38-8fcb-11eb-924d-9cd76263cbd0,,788111-1,wfo-0000250175,2883913,,
+e6e71704-8fcb-11eb-924d-9cd76263cbd0,species,ogouensis,Neolemonniera,,"(Dubard) Heine",,1960,,"Kew Bull. 14: 301 1960",,Q43258349,,d8cccdda-8fcb-11eb-924d-9cd76263cbd0,,788112-1,wfo-0000250177,2883906,,

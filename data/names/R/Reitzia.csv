@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e98988ec-8fd1-11eb-924d-9cd76263cbd0,genus,Reitzia,,,Swallen,1956,"Sellowia 7: 7. 1956.",,,,,295575-2,wfo-4000032728,4143934,
-600db9ca-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Reitzia,,Swallen,1956,"Sellowia 7: 8 1956",,,,,218463-2,wfo-0000895722,4143933,
-0358de68-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Rejoua,,"(Gaudich.) Gaudich.",1826,"Voy. Uranie 451 1826",,,,12f8ffce-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000295330,3616088,
-0358f92a-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Rejoua,,"(Roxb. ex Wall.) Gamble",1923,"Fl. Madras 812 1923",,,,13087d8c-8fcc-11eb-924d-9cd76263cbd0,81679-1,wfo-0000295331,3616075,
-0359aef6-8fcc-11eb-924d-9cd76263cbd0,species,novoguineensis,Rejoua,,"(Scheff.) Markgr.",1935,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 546 1935",,,,,81680-1,wfo-0000295332,8230544,
-0359d200-8fcc-11eb-924d-9cd76263cbd0,species,pacifica,Rejoua,,"(Seem.) Markgr.",1935,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 546 1935",,,,,81681-1,wfo-0000295333,3616057,
-0359ef74-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Rejoua,,Seem.,1862,"Bonplandia (Hannover) 10: 296 1862",,,,,100830-1,wfo-0000295334,3616045,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e98988ec-8fd1-11eb-924d-9cd76263cbd0,genus,Reitzia,,,Swallen,,1956,,"Sellowia 7: 7. 1956.",,,,,,295575-2,wfo-4000032728,4143934,,
+600db9ca-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Reitzia,,Swallen,,1956,,"Sellowia 7: 8 1956",,,,,,218463-2,wfo-0000895722,4143933,,
+0358de68-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Rejoua,,"(Gaudich.) Gaudich.",,1826,,"Voy. Uranie 451 1826",,,,12f8ffce-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000295330,3616088,,
+0358f92a-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Rejoua,,"(Roxb. ex Wall.) Gamble",,1923,,"Fl. Madras 812 1923",,,,13087d8c-8fcc-11eb-924d-9cd76263cbd0,,81679-1,wfo-0000295331,3616075,,
+0359aef6-8fcc-11eb-924d-9cd76263cbd0,species,novoguineensis,Rejoua,,"(Scheff.) Markgr.",,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 546 1935",,Q55777588,,,,81680-1,wfo-0000295332,8230544,,
+0359d200-8fcc-11eb-924d-9cd76263cbd0,species,pacifica,Rejoua,,"(Seem.) Markgr.",,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 546 1935",,Q55777588,,,,81681-1,wfo-0000295333,3616057,,
+0359ef74-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Rejoua,,Seem.,,1862,,"Bonplandia (Hannover) 10: 296 1862",,,,,,100830-1,wfo-0000295334,3616045,,

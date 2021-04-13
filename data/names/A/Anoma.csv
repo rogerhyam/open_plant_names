@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7e2894-8fd1-11eb-924d-9cd76263cbd0,genus,Anoma,,,Lour.,1790,"Fl. Cochinch. 278–279. 1790. (Sept 1790)",,,,,,wfo-4000002272,3232303,
-9fd6593c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Anoma,,Lour.,1790,"Fl. Cochinch. 280 1790",,,,,584702-1,wfo-0000538147,5567360,
-9fd676ba-8fcc-11eb-924d-9cd76263cbd0,species,moringa,Anoma,,"(L.) Lour.",1790,"Fl. Cochinch. 279 1790",,,,b29587e0-8fcd-11eb-924d-9cd76263cbd0,584703-1,wfo-0000538148,5567359,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7e2894-8fd1-11eb-924d-9cd76263cbd0,genus,Anoma,,,Lour.,,1790,,"Fl. Cochinch. 278–279. 1790. (Sept 1790)",,,,,,,wfo-4000002272,3232303,,
+9fd6593c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Anoma,,Lour.,,1790,,"Fl. Cochinch. 280 1790",,,,,,584702-1,wfo-0000538147,5567360,,
+9fd676ba-8fcc-11eb-924d-9cd76263cbd0,species,moringa,Anoma,,"(L.) Lour.",,1790,,"Fl. Cochinch. 279 1790",,,,b29587e0-8fcd-11eb-924d-9cd76263cbd0,,584703-1,wfo-0000538148,5567359,,

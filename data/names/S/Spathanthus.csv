@@ -1,10 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea9017e2-8fd1-11eb-924d-9cd76263cbd0,genus,Spathanthus,,,Desv.,1828,"Ann. Sci. Nat. (Paris) 13: 45. 1828.",,,,,33292-1,wfo-4000035877,2693251,
-a98e2428-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Spathanthus,,Ducke,1935,"Arq. Inst. Biol. Veg. 2: 28 1935",,,,,241144-2,wfo-0000554236,2693259,
-a98ee14c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Spathanthus,,N.E.Br.,1906,"Bull. Misc. Inform. Kew 1906: 6 1906",,,,,241145-2,wfo-0000554239,2693256,
-a98f1e1e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Spathanthus,,"(Rudge) Desv.",1828,"Ann. Sci. Nat. (Paris) 13: 45 1828",,,,,715313-1,wfo-0000554241,2693252,
-a98fca30-8fcc-11eb-924d-9cd76263cbd0,variety,jenmanii,Spathanthus,unilateralis,"(N.E.Br.) Maguire",1957,"Brittonia 8: 232 1957",,,,a98ee14c-8fcc-11eb-924d-9cd76263cbd0,241147-2,wfo-0000554247,2693255,
-846cedaa-8fcc-11eb-924d-9cd76263cbd0,species,glabrescens,Spathe,,Kuntze,1891,"Revis. Gen. Pl. 1: 104 1891",,,,,814149-1,wfo-0000492119,3709324,
-846d2996-8fcc-11eb-924d-9cd76263cbd0,species,rhoifolia,Spathe,,Kuntze,1891,"Revis. Gen. Pl. 1: 104 1891",,,,,814150-1,wfo-0000492121,3709318,
-846d4480-8fcc-11eb-924d-9cd76263cbd0,species,simplex,Spathe,,Crantz,1766,"Inst. Rei Herb. 2: 464 1766",,,,,814151-1,wfo-0000492122,3709311,
-846d6186-8fcc-11eb-924d-9cd76263cbd0,species,vernicosa,Spathe,,Kuntze,1891,"Revis. Gen. Pl. 1: 104 1891",,,,,814152-1,wfo-0000492123,3709303,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea9017e2-8fd1-11eb-924d-9cd76263cbd0,genus,Spathanthus,,,Desv.,,1828,,"Ann. Sci. Nat. (Paris) 13: 45. 1828.",,,,,,33292-1,wfo-4000035877,2693251,,
+a98e2428-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Spathanthus,,Ducke,,1935,,"Arq. Inst. Biol. Veg. 2: 28 1935",,,,,,241144-2,wfo-0000554236,2693259,,
+a98ee14c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Spathanthus,,N.E.Br.,,1906,,"Bull. Misc. Inform. Kew 1906: 6 1906",,Q55784048,,,,241145-2,wfo-0000554239,2693256,,
+a98f1e1e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Spathanthus,,"(Rudge) Desv.",,1828,,"Ann. Sci. Nat. (Paris) 13: 45 1828",,,,,,715313-1,wfo-0000554241,2693252,,
+a98fca30-8fcc-11eb-924d-9cd76263cbd0,variety,jenmanii,Spathanthus,unilateralis,"(N.E.Br.) Maguire",,1957,,"Brittonia 8: 232 1957",,Q54556667,,a98ee14c-8fcc-11eb-924d-9cd76263cbd0,,241147-2,wfo-0000554247,2693255,,

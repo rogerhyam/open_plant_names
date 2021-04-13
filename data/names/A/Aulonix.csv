@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff1a2a6-8fd1-11eb-924d-9cd76263cbd0,genus,Aulonix,,,,,,,,,,,wfo-4000003682,7302730,
-ab3c2180-8fcc-11eb-924d-9cd76263cbd0,species,biflorus,Aulonix,,"(L'Hér.) Raf.",1838,"Sylva Tellur. 25 1838",,,,c466bbd2-8fc9-11eb-924d-9cd76263cbd0,480764-1,wfo-0000557000,3978229,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff1a2a6-8fd1-11eb-924d-9cd76263cbd0,genus,Aulonix,,,,,,,,,,,,,,wfo-4000003682,7302730,,
+ab3c2180-8fcc-11eb-924d-9cd76263cbd0,species,biflorus,Aulonix,,"(L'Hér.) Raf.",,1838,,"Sylva Tellur. 25 1838",,,,c466bbd2-8fc9-11eb-924d-9cd76263cbd0,,480764-1,wfo-0000557000,3978229,,

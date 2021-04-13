@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a892f6-8fd1-11eb-924d-9cd76263cbd0,genus,Platygyria,,,"Ching & S.K.Wu",1980,"Acta Bot. Yunnan. 2(1): 67–68. 1980.",,,,,,wfo-4000030109,7126735,
-9ab9f0c6-8fbd-11eb-924d-9cd76263cbd0,species,inaequibasis,Platygyria,,"Ching & S.K.Wu",1980,"Acta Bot. Yunnan. 2(1): 72 1980",,,,,17552010-1,wfo-0000148880,4024619,
-d4c471f0-8fcd-11eb-924d-9cd76263cbd0,species,kongtingensis,Platygyria,,"Ching & Y.X.Ling",1983,"Acta Bot. Yunnan. 5(1): 22 1983",,,,,17508380-1,wfo-0001125519,4024608,
-d4c496b2-8fcd-11eb-924d-9cd76263cbd0,species,muliensis,Platygyria,,"Ching & S.K.Wu",1983,"Acta Bot. Yunnan. 5(1): 22–23 1983",,,,,17508390-1,wfo-0001125520,4024600,
-d517d8d6-8fcd-11eb-924d-9cd76263cbd0,species,sinuata,Platygyria,,"Ching & S.K.Wu",1980,"Acta Bot. Yunnan. 2(1): 71–72, pl. 4, f. 1–5 1980",,,,,,wfo-0001126225,4024593,
-c8c29234-8fd1-11eb-924d-9cd76263cbd0,species,soulieana,Platygyria,,"(Christ) X.C.Zhang & Q.R.Liu",2003,"Acta Phytotax. Sin. 41(5): 407, pl. 1, 6, 14 2003",,,,,50426181-2,wfo-0001270297,4024584,
-d4c45184-8fcd-11eb-924d-9cd76263cbd0,species,variabilis,Platygyria,,"Ching & S.K.Wu",1983,"Acta Bot. Yunnan. 5(1): 21–22 1983",,,,,17508400-1,wfo-0001125518,4024575,
-d517823c-8fcd-11eb-924d-9cd76263cbd0,species,waltonii,Platygyria,,"(Ching) Ching & S.K.Wu",1980,"Acta Bot. Yunnan. 2(1): 71, pl. 2, f. 1–2, pl. 3, f. 1–7 1980",,,,d5179e98-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001126222,4024565,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a892f6-8fd1-11eb-924d-9cd76263cbd0,genus,Platygyria,,,"Ching & S.K.Wu",,1980,,"Acta Bot. Yunnan. 2(1): 67–68. 1980.",,,,,,,wfo-4000030109,7126735,,
+9ab9f0c6-8fbd-11eb-924d-9cd76263cbd0,species,inaequibasis,Platygyria,,"Ching & S.K.Wu",,1980,,"Acta Bot. Yunnan. 2(1): 72 1980",,,,,,17552010-1,wfo-0000148880,4024619,,
+d4c471f0-8fcd-11eb-924d-9cd76263cbd0,species,kongtingensis,Platygyria,,"Ching & Y.X.Ling",,1983,,"Acta Bot. Yunnan. 5(1): 22 1983",,,,,,17508380-1,wfo-0001125519,4024608,,
+d4c496b2-8fcd-11eb-924d-9cd76263cbd0,species,muliensis,Platygyria,,"Ching & S.K.Wu",,1983,,"Acta Bot. Yunnan. 5(1): 22–23 1983",,,,,,17508390-1,wfo-0001125520,4024600,,
+d517d8d6-8fcd-11eb-924d-9cd76263cbd0,species,sinuata,Platygyria,,"Ching & S.K.Wu",,1980,,"Acta Bot. Yunnan. 2(1): 71–72, pl. 4, f. 1–5 1980",,,,,,,wfo-0001126225,4024593,,
+c8c29234-8fd1-11eb-924d-9cd76263cbd0,species,soulieana,Platygyria,,"(Christ) X.C.Zhang & Q.R.Liu",,2003,,"Acta Phytotax. Sin. 41(5): 407, pl. 1, 6, 14 2003",,,,,,50426181-2,wfo-0001270297,4024584,,
+d4c45184-8fcd-11eb-924d-9cd76263cbd0,species,variabilis,Platygyria,,"Ching & S.K.Wu",,1983,,"Acta Bot. Yunnan. 5(1): 21–22 1983",,,,,,17508400-1,wfo-0001125518,4024575,,
+d517823c-8fcd-11eb-924d-9cd76263cbd0,species,waltonii,Platygyria,,"(Ching) Ching & S.K.Wu",,1980,,"Acta Bot. Yunnan. 2(1): 71, pl. 2, f. 1–2, pl. 3, f. 1–7 1980",,,,d5179e98-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001126222,4024565,,

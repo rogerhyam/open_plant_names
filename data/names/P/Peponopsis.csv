@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e82fdac8-8fd1-11eb-924d-9cd76263cbd0,genus,Peponopsis,,,Naudin,1859,"Ann. Sci. Nat., Bot., sér. 4, 12: 88. 1859.",,,,,13363-1,wfo-4000028692,7317977,
-dd1e50a6-8fd1-11eb-924d-9cd76263cbd0,species,adhaerens,Peponopsis,,Naudin,1860,"Ann. Sci. Nat., Bot., sér. 4, 12: 89 1860",,,,,293712-1,wfo-0001300903,3625842,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e82fdac8-8fd1-11eb-924d-9cd76263cbd0,genus,Peponopsis,,,Naudin,,1859,,"Ann. Sci. Nat., Bot., sér. 4, 12: 88. 1859.",,,,,,13363-1,wfo-4000028692,7317977,,
+dd1e50a6-8fd1-11eb-924d-9cd76263cbd0,species,adhaerens,Peponopsis,,Naudin,,1860,,"Ann. Sci. Nat., Bot., sér. 4, 12: 89 1860",,,,,,293712-1,wfo-0001300903,3625842,,

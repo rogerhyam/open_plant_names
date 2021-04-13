@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e72254f8-8fd1-11eb-924d-9cd76263cbd0,genus,Nenuphar,,,Link,1822,"Enum. Hort. Berol. Alt. 2: 70. 1822.",,,,,,wfo-4000025588,7326958,
-b9140d4a-8fd1-11eb-924d-9cd76263cbd0,species,advena,Nenuphar,,"(Aiton) Link",1822,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,c316d650-8fcd-11eb-924d-9cd76263cbd0,605425-1,wfo-0001241236,3697747,
-b9154cf0-8fd1-11eb-924d-9cd76263cbd0,species,lutea,Nenuphar,,Hayne,1816,"Getreue Darstell. Gew. 4: t. 36 1816",,,,,,wfo-0001241247,7574719,
-39f9d6e8-8fcc-11eb-924d-9cd76263cbd0,species,luteum,Nenuphar,,Link,1822,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,,605426-1,wfo-0000382157,3697744,
-39f9b23a-8fcc-11eb-924d-9cd76263cbd0,species,minimum,Nenuphar,,Link,1822,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,,605427-1,wfo-0000382156,3697737,
-b9147e6a-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Nenuphar,,"(Timm) Bluff & Fingerh.",1825,"Consp. Fl. Germ. 1: 705 1825",,,,3a57483c-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001241240,3697722,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e72254f8-8fd1-11eb-924d-9cd76263cbd0,genus,Nenuphar,,,Link,,1822,,"Enum. Hort. Berol. Alt. 2: 70. 1822.",,,,,,,wfo-4000025588,7326958,,
+b9140d4a-8fd1-11eb-924d-9cd76263cbd0,species,advena,Nenuphar,,"(Aiton) Link",,1822,,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,c316d650-8fcd-11eb-924d-9cd76263cbd0,,605425-1,wfo-0001241236,3697747,,
+b9154cf0-8fd1-11eb-924d-9cd76263cbd0,species,lutea,Nenuphar,,Hayne,,1816,,"Getreue Darstell. Gew. 4: t. 36 1816",,,,,,,wfo-0001241247,7574719,,
+39f9d6e8-8fcc-11eb-924d-9cd76263cbd0,species,luteum,Nenuphar,,Link,,1822,,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,,,605426-1,wfo-0000382157,3697744,,
+39f9b23a-8fcc-11eb-924d-9cd76263cbd0,species,minimum,Nenuphar,,Link,,1822,,"Enum. Hort. Berol. Alt. 2: 70 1822",,,,,,605427-1,wfo-0000382156,3697737,,
+b9147e6a-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Nenuphar,,"(Timm) Bluff & Fingerh.",,1825,,"Consp. Fl. Germ. 1: 705 1825",,,,3a57483c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001241240,3697722,,

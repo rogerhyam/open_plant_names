@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e928276e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomiltemia,,,Borhidi,2004,"Acta Bot. Hung. 46(1–2): 73–74, f. 6–9. 2004.",,,,,60435720-2,wfo-4000031597,2904958,
-75fb91d0-8fcd-11eb-924d-9cd76263cbd0,species,davidsonii,Pseudomiltemia,,"Mart.-Camilo & Lorence",2011,"Brittonia 63: 198 2011",,,,,,wfo-0000922314,8160532,
-1cb44b68-8fcc-11eb-924d-9cd76263cbd0,species,filisepala,Pseudomiltemia,,"(Standl.) Borhidi",2004,"Acta Bot. Hung. 46: 74 2004",,,,33a2f5a0-8fcb-11eb-924d-9cd76263cbd0,60435721-2,wfo-0000336357,2917731,
-7a6156b6-8fcc-11eb-924d-9cd76263cbd0,species,rivas-martinezii,Pseudomisopates,,"(Sánchez Mata) Güemes",1997,"Anales Jard. Bot. Madrid 55: 493 1997",,,,6c7a3428-8fcc-11eb-924d-9cd76263cbd0,998881-1,wfo-0000474712,3725568,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e928276e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomiltemia,,,Borhidi,,2004,,"Acta Bot. Hung. 46(1–2): 73–74, f. 6–9. 2004.",,Q55763024,,,,60435720-2,wfo-4000031597,2904958,,
+75fb91d0-8fcd-11eb-924d-9cd76263cbd0,species,davidsonii,Pseudomiltemia,,"Mart.-Camilo & Lorence",,2011,,"Brittonia 63: 198 2011",,,,,,,wfo-0000922314,8160532,,
+1cb44b68-8fcc-11eb-924d-9cd76263cbd0,species,filisepala,Pseudomiltemia,,"(Standl.) Borhidi",,2004,,"Acta Bot. Hung. 46: 74 2004",,Q55763024,,33a2f5a0-8fcb-11eb-924d-9cd76263cbd0,,60435721-2,wfo-0000336357,2917731,,
+7a6156b6-8fcc-11eb-924d-9cd76263cbd0,species,rivas-martinezii,Pseudomisopates,,"(Sánchez Mata) Güemes",,1997,,"Anales Jard. Bot. Madrid 55: 493 1997",,,,6c7a3428-8fcc-11eb-924d-9cd76263cbd0,,998881-1,wfo-0000474712,3725568,,

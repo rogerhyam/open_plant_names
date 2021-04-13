@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6548b40-8fd1-11eb-924d-9cd76263cbd0,genus,Manniophyton,,,Müll.Arg.,1864,"Flora 47: 530. 1864.",,,,,15625-1,wfo-4000023054,3072477,
-dec8eaca-8fcb-11eb-924d-9cd76263cbd0,species,africanum,Manniophyton,,Müll.Arg.,1864,"Flora 47: 531 1864",,,,,351975-1,wfo-0000236010,3072481,
-dec9082a-8fcb-11eb-924d-9cd76263cbd0,variety,fulvum,Manniophyton,africanum,"(Müll.Arg.) Hutch.",1912,"Fl. Trop. Afr. 6(1): 819 1912",,,,dec983e0-8fcb-11eb-924d-9cd76263cbd0,,wfo-0000236011,3072479,
-dec948c6-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Manniophyton,,Baill.,1891,"Bull. Mens. Soc. Linn. Paris 2: 952 1891",,,,,351976-1,wfo-0000236013,3062831,
-dec96536-8fcb-11eb-924d-9cd76263cbd0,species,chevalieri,Manniophyton,,Beille,1908,"Bull. Soc. Bot. France 55(8): 74 1908",,,,,351977-1,wfo-0000236014,3072483,
-dec983e0-8fcb-11eb-924d-9cd76263cbd0,species,fulvum,Manniophyton,,Müll.Arg.,1864,"J. Bot. 2: 332 1864",,,,,351978-1,wfo-0000236015,3072478,
-dec9a35c-8fcb-11eb-924d-9cd76263cbd0,species,tricuspe,Manniophyton,,"Pierre ex A.Chev.",1940,"Rev. Bot. Appl. Agric. Trop. 20: 564 1940",,,,,351979-1,wfo-0000236016,3072480,
-dec9e074-8fcb-11eb-924d-9cd76263cbd0,species,wildemanii,Manniophyton,,Beille,1910,"Bull. Soc. Bot. France 57(8): 124 1910",,,,,351980-1,wfo-0000236017,3072482,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6548b40-8fd1-11eb-924d-9cd76263cbd0,genus,Manniophyton,,,Müll.Arg.,,1864,,"Flora 47: 530. 1864.",,,,,,15625-1,wfo-4000023054,3072477,,
+dec8eaca-8fcb-11eb-924d-9cd76263cbd0,species,africanum,Manniophyton,,Müll.Arg.,,1864,,"Flora 47: 531 1864",,,,,,351975-1,wfo-0000236010,3072481,,
+dec9082a-8fcb-11eb-924d-9cd76263cbd0,variety,fulvum,Manniophyton,africanum,"(Müll.Arg.) Hutch.",,1912,,"Fl. Trop. Afr. 6(1): 819 1912",,,,dec983e0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000236011,3072479,,
+dec948c6-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Manniophyton,,Baill.,,1891,,"Bull. Mens. Soc. Linn. Paris 2: 952 1891",,,,,,351976-1,wfo-0000236013,3062831,,
+dec96536-8fcb-11eb-924d-9cd76263cbd0,species,chevalieri,Manniophyton,,Beille,,1908,,"Bull. Soc. Bot. France 55(8): 74 1908",,Q55756922,,,,351977-1,wfo-0000236014,3072483,,
+dec983e0-8fcb-11eb-924d-9cd76263cbd0,species,fulvum,Manniophyton,,Müll.Arg.,,1864,,"J. Bot. 2: 332 1864",,,,,,351978-1,wfo-0000236015,3072478,,
+dec9a35c-8fcb-11eb-924d-9cd76263cbd0,species,tricuspe,Manniophyton,,"Pierre ex A.Chev.",,1940,,"Rev. Bot. Appl. Agric. Trop. 20: 564 1940",,Q96002302,,,,351979-1,wfo-0000236016,3072480,,
+dec9e074-8fcb-11eb-924d-9cd76263cbd0,species,wildemanii,Manniophyton,,Beille,,1910,,"Bull. Soc. Bot. France 57(8): 124 1910",,Q55756922,,,,351980-1,wfo-0000236017,3072482,,

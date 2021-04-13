@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e630b792-8fd1-11eb-924d-9cd76263cbd0,genus,Macbridea,,,"Elliott ex Nutt.",1818,"Gen. N. Amer. Pl. 2: 36. 1818. (14 Jul 1818)",,,,,30146204-2,wfo-4000022607,2927215,
-dce1dabe-8fcb-11eb-924d-9cd76263cbd0,species,alba,Macbridea,,Chapm.,1860,"Fl. South. U.S. 325 1860",,,,,449695-1,wfo-0000232320,5341489,
-dce1f5da-8fcb-11eb-924d-9cd76263cbd0,species,caroliniana,Macbridea,,"(Walter) S.F.Blake",1915,"Rhodora 17: 132 1915",,,,,148288-2,wfo-0000232321,5341487,
-18a53130-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Macbridea,,Raf.,1818,"Amer. Monthly Mag. & Crit. Rev. 3: 99 1818",,,,,60452510-2,wfo-0000744220,7823433,
-dce213e4-8fcb-11eb-924d-9cd76263cbd0,species,pulchella,Macbridea,,Benth.,1834,"Labiat. Gen. Spec. 505 1834",,,,,449697-1,wfo-0000232322,5605471,
-dce2368a-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Macbridea,,"Elliott ex Nutt.",1818,"Gen. N. Amer. Pl. 2: 36 1818",,,,,449698-1,wfo-0000232323,7890326,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e630b792-8fd1-11eb-924d-9cd76263cbd0,genus,Macbridea,,,"Elliott ex Nutt.",,1818,,"Gen. N. Amer. Pl. 2: 36. 1818. (14 Jul 1818)",,,,,,30146204-2,wfo-4000022607,2927215,,
+dce1dabe-8fcb-11eb-924d-9cd76263cbd0,species,alba,Macbridea,,Chapm.,,1860,,"Fl. South. U.S. 325 1860",,,,,,449695-1,wfo-0000232320,5341489,,
+dce1f5da-8fcb-11eb-924d-9cd76263cbd0,species,caroliniana,Macbridea,,"(Walter) S.F.Blake",,1915,,"Rhodora 17: 132 1915",,Q100401822,,,,148288-2,wfo-0000232321,5341487,,
+18a53130-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Macbridea,,Raf.,,1818,,"Amer. Monthly Mag. & Crit. Rev. 3: 99 1818",,,,,,60452510-2,wfo-0000744220,7823433,,
+dce213e4-8fcb-11eb-924d-9cd76263cbd0,species,pulchella,Macbridea,,Benth.,,1834,,"Labiat. Gen. Spec. 505 1834",,,,,,449697-1,wfo-0000232322,5605471,,
+dce2368a-8fcb-11eb-924d-9cd76263cbd0,species,pulchra,Macbridea,,"Elliott ex Nutt.",,1818,,"Gen. N. Amer. Pl. 2: 36 1818",,,,,,449698-1,wfo-0000232323,7890326,,

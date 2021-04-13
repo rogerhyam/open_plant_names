@@ -1,10 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea15a00c-8fd1-11eb-924d-9cd76263cbd0,genus,Schizostephanus,,,"Hochst. ex Benth. & Hook.f.",1893,"Bot. Jahrb. Syst. 17: 139. 1893.",,,,,3683-1,wfo-4000034459,7312461,
-6040a1ba-8fcc-11eb-924d-9cd76263cbd0,species,alatus,Schizostephanus,,"Hochst. ex K.Schum.",1893,"Bot. Jahrb. Syst. 17: 139 1893",,,,,101267-1,wfo-0000431599,3579792,
-674cf602-8fcc-11eb-924d-9cd76263cbd0,species,gossweileri,Schizostephanus,,"(S.Moore) Liede",1994,"Bot. J. Linn. Soc. 114: 92 1994",,,,,60442251-2,wfo-0000442073,3579780,
-ca6d10d6-8fcd-11eb-924d-9cd76263cbd0,species,somaliensis,Schizostephanus,,N.E.Br.,1895,"Bull. Misc. Inform. Kew 106: 250 1895",,,,,101268-1,wfo-0001102942,3579772,
-672f2b86-8fcc-11eb-924d-9cd76263cbd0,species,asperata,Schizostigma,,Arn.,1841,"J. Bot. (Hooker) 3: 275 1841",,,,,1063936-2,wfo-0000441853,7426287,
-0aa6d5b2-8fcc-11eb-924d-9cd76263cbd0,species,hirsutum,Schizostigma,,"Arn. ex Meisn.",1838,"Pl. Vasc. Gen. 1: 164 1838",,,,,,wfo-0000306903,5338591,
-2cb62d78-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Schizostylis,,"Backh. & Harv.",,"Bot. Mag. 90: t. 5422 1864",,,,,440895-1,wfo-0000786401,2746008,
-2cb647b8-8fcd-11eb-924d-9cd76263cbd0,species,ixioides,Schizostylis,,"Harv. ex Baker",1877,"J. Linn. Soc., Bot. 16: 108 1877",,,,,440896-1,wfo-0000786402,2746006,
-2cb66464-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Schizostylis,,Klatt,1867,"Linnaea 35: 380 1867",,,,,440897-1,wfo-0000786403,2746007,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea15a00c-8fd1-11eb-924d-9cd76263cbd0,genus,Schizostephanus,,,"Hochst. ex Benth. & Hook.f.",,1893,,"Bot. Jahrb. Syst. 17: 139. 1893.",,,,,,3683-1,wfo-4000034459,7312461,,
+6040a1ba-8fcc-11eb-924d-9cd76263cbd0,species,alatus,Schizostephanus,,"Hochst. ex K.Schum.",,1893,,"Bot. Jahrb. Syst. 17: 139 1893",,,,,,101267-1,wfo-0000431599,3579792,,
+674cf602-8fcc-11eb-924d-9cd76263cbd0,species,gossweileri,Schizostephanus,,"(S.Moore) Liede",,1994,,"Bot. J. Linn. Soc. 114: 92 1994",,Q43304048,,,,60442251-2,wfo-0000442073,3579780,,
+ca6d10d6-8fcd-11eb-924d-9cd76263cbd0,species,somaliensis,Schizostephanus,,N.E.Br.,,1895,,"Bull. Misc. Inform. Kew 106: 250 1895",,Q55783999,,,,101268-1,wfo-0001102942,3579772,,
+672f2b86-8fcc-11eb-924d-9cd76263cbd0,species,asperata,Schizostigma,,Arn.,,1841,,"J. Bot. (Hooker) 3: 275 1841",,,,,,1063936-2,wfo-0000441853,7426287,,
+0aa6d5b2-8fcc-11eb-924d-9cd76263cbd0,species,hirsutum,Schizostigma,,"Arn. ex Meisn.",,1838,,"Pl. Vasc. Gen. 1: 164 1838",,,,,,,wfo-0000306903,5338591,,

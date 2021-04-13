@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6b192b8-8fd1-11eb-924d-9cd76263cbd0,genus,Microlecane,,,,,,,,,,,wfo-4000024125,,
-41b45ce6-8fb3-11eb-924d-9cd76263cbd0,species,abyssinica,Microlecane,,"(Sch.Bip.) Benth. & Hook. ex O.Hoffm.",1894,"Die naturlichen Pflanzenfamilien 4, 5: 240 1894",,,,,,wfo-0000044839,8354318,
-20aed54a-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Microlecane,,"Benth. & Hook.f. ex Oliv.",1877,"Fl. Trop. Afr. [Oliver et al.] 3: 386 1877",,,,,232515-1,wfo-0000012579,,
-3fe86664-8fb3-11eb-924d-9cd76263cbd0,species,carinata,Microlecane,,Hutch.,1916,"Bull. Misc. Inform. Kew 1916, 41.",,,,,232516-1,wfo-0000044704,4228588,
-970df278-8fb4-11eb-924d-9cd76263cbd0,species,occidentalis,Microlecane,,"Hutch. & Dalziel",1931,"Fl. W. Trop. Afr. ii. 143 (1931).",,,,,232517-1,wfo-0000067227,3105983,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6b192b8-8fd1-11eb-924d-9cd76263cbd0,genus,Microlecane,,,,,,,,,,,,,,wfo-4000024125,,,
+41b45ce6-8fb3-11eb-924d-9cd76263cbd0,species,abyssinica,Microlecane,,"(Sch.Bip.) Benth. & Hook. ex O.Hoffm.",,1894,,"Die naturlichen Pflanzenfamilien 4, 5: 240 1894",,,,,,,wfo-0000044839,8354318,,
+20aed54a-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Microlecane,,"Benth. & Hook.f. ex Oliv.",,1877,,"Fl. Trop. Afr. [Oliver et al.] 3: 386 1877",,,,,,232515-1,wfo-0000012579,,,
+3fe86664-8fb3-11eb-924d-9cd76263cbd0,species,carinata,Microlecane,,Hutch.,,1916,,"Bull. Misc. Inform. Kew 1916, 41.",,Q55787833,,,,232516-1,wfo-0000044704,4228588,,
+970df278-8fb4-11eb-924d-9cd76263cbd0,species,occidentalis,Microlecane,,"Hutch. & Dalziel",,1931,,"Fl. W. Trop. Afr. ii. 143 (1931).",,,,,,232517-1,wfo-0000067227,3105983,,

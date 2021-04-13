@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4fc2078-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenospron,,,,,,,,,,,wfo-4000018698,7302222,
-10367dc4-8fcd-11eb-924d-9cd76263cbd0,species,apurense,Hymenospron,,Spreng.,1827,"Syst. Veg. 4(2): 282 1827",,,,,498838-1,wfo-0000727129,3972437,
-10369980-8fcd-11eb-924d-9cd76263cbd0,species,molle,Hymenospron,,Heynh.,1840,"Nom. Bot. Hort. 408 1840",,,,,498839-1,wfo-0000727130,3972433,
-b390905c-8fc0-11eb-924d-9cd76263cbd0,species,rubrum,Hymenospron,,Spreng.,,,,,,,,wfo-0000167588,2984001,
-1036b302-8fcd-11eb-924d-9cd76263cbd0,species,sericeum,Hymenospron,,Spreng.,1827,"Syst. Veg. 4(2): 283 1827",,,,,498841-1,wfo-0000727131,3972422,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4fc2078-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenospron,,,,,,,,,,,,,,wfo-4000018698,7302222,,
+10367dc4-8fcd-11eb-924d-9cd76263cbd0,species,apurense,Hymenospron,,Spreng.,,1827,,"Syst. Veg. 4(2): 282 1827",,,,,,498838-1,wfo-0000727129,3972437,,
+10369980-8fcd-11eb-924d-9cd76263cbd0,species,molle,Hymenospron,,Heynh.,,1840,,"Nom. Bot. Hort. 408 1840",,,,,,498839-1,wfo-0000727130,3972433,,
+b390905c-8fc0-11eb-924d-9cd76263cbd0,species,rubrum,Hymenospron,,Spreng.,,,,,,,,,,,wfo-0000167588,2984001,,
+1036b302-8fcd-11eb-924d-9cd76263cbd0,species,sericeum,Hymenospron,,Spreng.,,1827,,"Syst. Veg. 4(2): 283 1827",,,,,,498841-1,wfo-0000727131,3972422,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea256032-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadioseris,,,,,,,,,,,wfo-4000034660,7338529,
-4b567ddc-8fb4-11eb-924d-9cd76263cbd0,species,vaginata,Sciadioseris,,Kunze,1851,"Bot. Zeitung (Berlin) 9: 350 349 1851",,,,,,wfo-0000062875,4247381,
-b95f2ef0-8fcd-11eb-924d-9cd76263cbd0,species,digitaliflora,Sciadocalyx,,"Linden & André",1870,"Ill. Hort. 17: 95, t. 17 1870",,,,,382717-1,wfo-0001064975,3819266,
-b5b07760-8fd1-11eb-924d-9cd76263cbd0,species,lucianii,Sciadocalyx,,André,,,,,,,230103-2,wfo-0001234964,7512842,
-b95f4a8e-8fcd-11eb-924d-9cd76263cbd0,species,warszewiczii,Sciadocalyx,,Regel,1853,"Gartenflora 2: 257 1853",,,,,382719-1,wfo-0001064976,3819228,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea256032-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadioseris,,,,,,,,,,,,,,wfo-4000034660,7338529,,
+4b567ddc-8fb4-11eb-924d-9cd76263cbd0,species,vaginata,Sciadioseris,,Kunze,,1851,,"Bot. Zeitung (Berlin) 9: 350 349 1851",,,,,,,wfo-0000062875,4247381,,
+b95f2ef0-8fcd-11eb-924d-9cd76263cbd0,species,digitaliflora,Sciadocalyx,,"Linden & André",,1870,,"Ill. Hort. 17: 95, t. 17 1870",,,,,,382717-1,wfo-0001064975,3819266,,
+b5b07760-8fd1-11eb-924d-9cd76263cbd0,species,lucianii,Sciadocalyx,,André,,,,,,,,,,230103-2,wfo-0001234964,7512842,,
+b95f4a8e-8fcd-11eb-924d-9cd76263cbd0,species,warszewiczii,Sciadocalyx,,Regel,,1853,,"Gartenflora 2: 257 1853",,,,,,382719-1,wfo-0001064976,3819228,,

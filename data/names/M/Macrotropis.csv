@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63fed98-8fd1-11eb-924d-9cd76263cbd0,genus,Macrotropis,,,,,,,,,,,wfo-4000022799,7301764,
-51a549f2-8fc8-11eb-924d-9cd76263cbd0,species,bancana,Macrotropis,,Miq.,,,,,,,,wfo-0000207311,2960575,
-474779fa-8fc6-11eb-924d-9cd76263cbd0,species,emarginata,Macrotropis,,Walp.,,,,,,,,wfo-0000197164,2960582,
-33c34a20-8fcc-11eb-924d-9cd76263cbd0,species,foetida,Macrotropis,,DC.,1825,"Prodr. 2: 98 1825",,,,,505847-1,wfo-0000373409,3967692,
-33c36910-8fcc-11eb-924d-9cd76263cbd0,species,inodora,Macrotropis,,DC.,1825,"Prodr. 2: 99 1825",,,,,505848-1,wfo-0000373410,3967690,
-041af2dc-8fc7-11eb-924d-9cd76263cbd0,species,sumatrana,Macrotropis,,Miq.,,,,,,,,wfo-0000200650,2960618,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63fed98-8fd1-11eb-924d-9cd76263cbd0,genus,Macrotropis,,,,,,,,,,,,,,wfo-4000022799,7301764,,
+51a549f2-8fc8-11eb-924d-9cd76263cbd0,species,bancana,Macrotropis,,Miq.,,,,,,,,,,,wfo-0000207311,2960575,,
+474779fa-8fc6-11eb-924d-9cd76263cbd0,species,emarginata,Macrotropis,,Walp.,,,,,,,,,,,wfo-0000197164,2960582,,
+33c34a20-8fcc-11eb-924d-9cd76263cbd0,species,foetida,Macrotropis,,DC.,,1825,,"Prodr. 2: 98 1825",,,,,,505847-1,wfo-0000373409,3967692,,
+33c36910-8fcc-11eb-924d-9cd76263cbd0,species,inodora,Macrotropis,,DC.,,1825,,"Prodr. 2: 99 1825",,,,,,505848-1,wfo-0000373410,3967690,,
+041af2dc-8fc7-11eb-924d-9cd76263cbd0,species,sumatrana,Macrotropis,,Miq.,,,,,,,,,,,wfo-0000200650,2960618,,

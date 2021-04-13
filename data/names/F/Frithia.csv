@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3d0fe1c-8fd1-11eb-924d-9cd76263cbd0,genus,Frithia,,,N.E.Br.,1925,"Gard. Chron. ser. 3. 78: 433. 1925.",,,,,16186-1,wfo-4000015064,8295177,
-fc5393c8-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Frithia,,Burgoyne,2000,"Bothalia 30: 1 2000",,,,,1015357-1,wfo-0000692548,3703372,
-fc53b07e-8fcc-11eb-924d-9cd76263cbd0,species,pulchra,Frithia,,N.E.Br.,1926,"Man. Pl. Transvaal 1: 41 1926",,,,,361860-1,wfo-0000692549,3703361,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3d0fe1c-8fd1-11eb-924d-9cd76263cbd0,genus,Frithia,,,N.E.Br.,,1925,,"Gard. Chron. ser. 3. 78: 433. 1925.",,,,,,16186-1,wfo-4000015064,8295177,,
+fc5393c8-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Frithia,,Burgoyne,,2000,,"Bothalia 30: 1 2000",,Q55794547,,,,1015357-1,wfo-0000692548,3703372,,
+fc53b07e-8fcc-11eb-924d-9cd76263cbd0,species,pulchra,Frithia,,N.E.Br.,,1926,,"Man. Pl. Transvaal 1: 41 1926",,,,,,361860-1,wfo-0000692549,3703361,,

@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e27a6788-8fd1-11eb-924d-9cd76263cbd0,genus,Dandya,,,H.E.Moore,1953,"Gentes Herbarum 8: 266. 1953.",,,,,296695-2,wfo-4000010731,2769875,
-22b5ab0a-8fcd-11eb-924d-9cd76263cbd0,species,balsensis,Dandya,,"A.R.López-Ferrari & Espejo",1992,"Acta Bot. Mex. 18: 11 1992",,,,,,wfo-0000765032,5303878,
-22b5ca5e-8fcd-11eb-924d-9cd76263cbd0,species,hannibalii,Dandya,,L.W.Lenz,1971,"Aliso 7: 316 1971",,,,,76599-2,wfo-0000765033,5303876,
-22b6058c-8fcd-11eb-924d-9cd76263cbd0,species,purpusii,Dandya,,"(Brandegee) H.E.Moore",1953,"Gentes Herb. 8: 266 1953",,,,,76600-2,wfo-0000765035,5303877,
-22b622e2-8fcd-11eb-924d-9cd76263cbd0,species,thadhowardii,Dandya,,L.W.Lenz,1971,"Aliso 7: 314 1971",,,,,76601-2,wfo-0000765036,5303875,
-dcc68074-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Dangervilla,,Vell.,1829,"Fl. Flumin. 1: 27, t. 66 1829",,,,,772346-1,wfo-0000637397,3831948,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e27a6788-8fd1-11eb-924d-9cd76263cbd0,genus,Dandya,,,H.E.Moore,,1953,,"Gentes Herbarum 8: 266. 1953.",,,,,,296695-2,wfo-4000010731,2769875,,
+22b5ab0a-8fcd-11eb-924d-9cd76263cbd0,species,balsensis,Dandya,,"A.R.López-Ferrari & Espejo",,1992,,"Acta Bot. Mex. 18: 11 1992",,,,,,,wfo-0000765032,5303878,,
+22b5ca5e-8fcd-11eb-924d-9cd76263cbd0,species,hannibalii,Dandya,,L.W.Lenz,,1971,,"Aliso 7: 316 1971",,Q96016330,,,,76599-2,wfo-0000765033,5303876,,
+22b6058c-8fcd-11eb-924d-9cd76263cbd0,species,purpusii,Dandya,,"(Brandegee) H.E.Moore",,1953,,"Gentes Herb. 8: 266 1953",,,,,,76600-2,wfo-0000765035,5303877,,
+22b622e2-8fcd-11eb-924d-9cd76263cbd0,species,thadhowardii,Dandya,,L.W.Lenz,,1971,,"Aliso 7: 314 1971",,Q96016330,,,,76601-2,wfo-0000765036,5303875,,

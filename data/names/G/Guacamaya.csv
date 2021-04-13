@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e436afdc-8fd1-11eb-924d-9cd76263cbd0,genus,Guacamaya,,,Maguire,1958,"Mem. New York Bot. Gard. 10(1): 35. 1958.",,,,,295707-2,wfo-4000016284,2693230,
-6001140a-8fcc-11eb-924d-9cd76263cbd0,species,superba,Guacamaya,,Maguire,1958,"Mem. New York Bot. Gard. 10(1): 36 1958",,,,,113745-2,wfo-0000431287,2693231,
-8fa0a3b4-8fcd-11eb-924d-9cd76263cbd0,species,toxicaria,Guachamaca,,Grosourdy,1864,"Med. Bot. Criollo 1(1): 295 1864",,,,,79138-1,wfo-0000975836,3616216,
-06ff53de-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Guaco,,Liebm.,1844,"Förh. Skand. Naturf. Möte 1844: 203 1847",,,,,329932-2,wfo-0000710657,3589523,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e436afdc-8fd1-11eb-924d-9cd76263cbd0,genus,Guacamaya,,,Maguire,,1958,,"Mem. New York Bot. Gard. 10(1): 35. 1958.",,,,,,295707-2,wfo-4000016284,2693230,,
+6001140a-8fcc-11eb-924d-9cd76263cbd0,species,superba,Guacamaya,,Maguire,,1958,,"Mem. New York Bot. Gard. 10(1): 36 1958",,,,,,113745-2,wfo-0000431287,2693231,,
+8fa0a3b4-8fcd-11eb-924d-9cd76263cbd0,species,toxicaria,Guachamaca,,Grosourdy,,1864,,"Med. Bot. Criollo 1(1): 295 1864",,,,,,79138-1,wfo-0000975836,3616216,,
+06ff53de-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Guaco,,Liebm.,,1844,,"Förh. Skand. Naturf. Möte 1844: 203 1847",,,,,,329932-2,wfo-0000710657,3589523,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7f27e3a-8fd1-11eb-924d-9cd76263cbd0,genus,Paracostus,,,C.D.Specht,2006,"Taxon 55(1): 162, f. 1. 2006.",,,,,77074295-1,wfo-4000027996,2757035,
-35e5a8c4-8fcd-11eb-924d-9cd76263cbd0,species,englerianus,Paracostus,,"(K.Schum.) C.D.Specht",2006,"Taxon 55: 162 2006",,,,2d496d46-8fcc-11eb-924d-9cd76263cbd0,77074397-1,wfo-0000806297,2757038,
-35e5c516-8fcd-11eb-924d-9cd76263cbd0,species,paradoxus,Paracostus,,"(K.Schum.) C.D.Specht",2006,"Taxon 55: 162 2006",,,,2d7573b4-8fcc-11eb-924d-9cd76263cbd0,77074398-1,wfo-0000806298,2757036,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7f27e3a-8fd1-11eb-924d-9cd76263cbd0,genus,Paracostus,,,C.D.Specht,,2006,,"Taxon 55(1): 162, f. 1. 2006.",,Q28960198,,,,77074295-1,wfo-4000027996,2757035,,
+35e5a8c4-8fcd-11eb-924d-9cd76263cbd0,species,englerianus,Paracostus,,"(K.Schum.) C.D.Specht",,2006,,"Taxon 55: 162 2006",,Q28960198,,2d496d46-8fcc-11eb-924d-9cd76263cbd0,,77074397-1,wfo-0000806297,2757038,,
+35e5c516-8fcd-11eb-924d-9cd76263cbd0,species,paradoxus,Paracostus,,"(K.Schum.) C.D.Specht",,2006,,"Taxon 55: 162 2006",,Q28960198,,2d7573b4-8fcc-11eb-924d-9cd76263cbd0,,77074398-1,wfo-0000806298,2757036,,

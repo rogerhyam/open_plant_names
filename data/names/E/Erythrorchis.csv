@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e37f362c-8fd1-11eb-924d-9cd76263cbd0,genus,Erythrorchis,,,Blume,1837,"Rumphia 1: 200. 1837. (Dec 1837)",,,,,29452-1,wfo-4000014004,2781877,
-8559a694-8fcd-11eb-924d-9cd76263cbd0,species,altissima,Erythrorchis,,"(Blume) Blume",1837,"Rumphia 1: 200 1837",,,,,634377-1,wfo-0000954229,2781885,
-8559c660-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Erythrorchis,,"(F.Muell.) F.Muell.",1861,"Fragm. 2: 167 1861",,,,,634378-1,wfo-0000954230,2781882,
-8559e3a2-8fcd-11eb-924d-9cd76263cbd0,species,cassythoides,Erythrorchis,,"(A.Cunn. ex Lindl.) Garay",1986,"Bot. Mus. Leafl. 30: 234 1986",,,,7e750918-8fcd-11eb-924d-9cd76263cbd0,943368-1,wfo-0000954231,2781880,
-855a01ac-8fcd-11eb-924d-9cd76263cbd0,species,foliata,Erythrorchis,,F.Muell.,1861,"Fragm. 2: 167 1861",,,,,634379-1,wfo-0000954232,2789112,
-855a1bd8-8fcd-11eb-924d-9cd76263cbd0,species,kuhlii,Erythrorchis,,Rchb.f.,1865,"Xenia Orchid. 2: 78 1865",,,,,634380-1,wfo-0000954233,2820068,
-855a37e4-8fcd-11eb-924d-9cd76263cbd0,species,lindleyana,Erythrorchis,,"(Hook.f. & Thomson) Rchb.f.",1857,"Bonplandia (Hannover) 5: 37 1857",,,,7d41a57e-8fcd-11eb-924d-9cd76263cbd0,634381-1,wfo-0000954234,2820059,
-855a6eb2-8fcd-11eb-924d-9cd76263cbd0,species,ochobiensis,Erythrorchis,,"(Hayata) Garay",1986,"Bot. Mus. Leafl. 30: 234 1986",,,,,943369-1,wfo-0000954236,2781878,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e37f362c-8fd1-11eb-924d-9cd76263cbd0,genus,Erythrorchis,,,Blume,,1837,,"Rumphia 1: 200. 1837. (Dec 1837)",,,,,,29452-1,wfo-4000014004,2781877,,
+8559a694-8fcd-11eb-924d-9cd76263cbd0,species,altissima,Erythrorchis,,"(Blume) Blume",,1837,,"Rumphia 1: 200 1837",,,,,,634377-1,wfo-0000954229,2781885,,
+8559c660-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Erythrorchis,,"(F.Muell.) F.Muell.",,1861,,"Fragm. 2: 167 1861",,,,,,634378-1,wfo-0000954230,2781882,,
+8559e3a2-8fcd-11eb-924d-9cd76263cbd0,species,cassythoides,Erythrorchis,,"(A.Cunn. ex Lindl.) Garay",,1986,,"Bot. Mus. Leafl. 30: 234 1986",,Q100427410,,7e750918-8fcd-11eb-924d-9cd76263cbd0,,943368-1,wfo-0000954231,2781880,,
+855a01ac-8fcd-11eb-924d-9cd76263cbd0,species,foliata,Erythrorchis,,F.Muell.,,1861,,"Fragm. 2: 167 1861",,,,,,634379-1,wfo-0000954232,2789112,,
+855a1bd8-8fcd-11eb-924d-9cd76263cbd0,species,kuhlii,Erythrorchis,,Rchb.f.,,1865,,"Xenia Orchid. 2: 78 1865",,,,,,634380-1,wfo-0000954233,2820068,,
+855a37e4-8fcd-11eb-924d-9cd76263cbd0,species,lindleyana,Erythrorchis,,"(Hook.f. & Thomson) Rchb.f.",,1857,,"Bonplandia (Hannover) 5: 37 1857",,,,7d41a57e-8fcd-11eb-924d-9cd76263cbd0,,634381-1,wfo-0000954234,2820059,,
+855a6eb2-8fcd-11eb-924d-9cd76263cbd0,species,ochobiensis,Erythrorchis,,"(Hayata) Garay",,1986,,"Bot. Mus. Leafl. 30: 234 1986",,Q100427410,,,,943369-1,wfo-0000954236,2781878,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee0caa4-8fd1-11eb-924d-9cd76263cbd0,genus,Adenolisianthus,,,"(Spruce ex Progel) Gilg",1895,"Nat. Pflanzenfam. 4(2): 98. 1895.",,,,,295740-2,wfo-4000000635,7270233,
-954bf3aa-8fcc-11eb-924d-9cd76263cbd0,species,arboreus,Adenolisianthus,,"(Spruce ex Progel) Gilg",1895,"Nat. Pflanzenfam. 4(2): 98 1895",,,,b8976de8-8fcd-11eb-924d-9cd76263cbd0,4365-2,wfo-0000520226,3842352,
-954c14e8-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Adenolisianthus,,"(Progel) Gilg",1895,"Nat. Pflanzenfam. 4(2): 98 1895",,,,b89937fe-8fcd-11eb-924d-9cd76263cbd0,4366-2,wfo-0000520227,3844079,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee0caa4-8fd1-11eb-924d-9cd76263cbd0,genus,Adenolisianthus,,,"(Spruce ex Progel) Gilg",,1895,,"Nat. Pflanzenfam. 4(2): 98. 1895.",,,,,,295740-2,wfo-4000000635,7270233,,
+954bf3aa-8fcc-11eb-924d-9cd76263cbd0,species,arboreus,Adenolisianthus,,"(Spruce ex Progel) Gilg",,1895,,"Nat. Pflanzenfam. 4(2): 98 1895",,,,b8976de8-8fcd-11eb-924d-9cd76263cbd0,,4365-2,wfo-0000520226,3842352,,
+954c14e8-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Adenolisianthus,,"(Progel) Gilg",,1895,,"Nat. Pflanzenfam. 4(2): 98 1895",,,,b89937fe-8fcd-11eb-924d-9cd76263cbd0,,4366-2,wfo-0000520227,3844079,,

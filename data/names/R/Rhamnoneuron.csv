@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9961472-8fd1-11eb-924d-9cd76263cbd0,genus,Rhamnoneuron,,,Gilg,1894,"Nat. Pflanzenfam. 3(6a): 245. 1894. (10 Jul 1894)",,,,,39314-1,wfo-4000032861,7460680,
-bdc6cd6e-8fd1-11eb-924d-9cd76263cbd0,species,balansae,Rhamnoneuron,,"(Drake) Gilg",1894,"Nat. Pflanzenfam. 3(6a): 245 1894",,,,,832733-1,wfo-0001249899,3567756,
-c07c98c2-8fd1-11eb-924d-9cd76263cbd0,species,rubriflorum,Rhamnoneuron,,"C.Y.Wu ex S.C.Huang",1985,"Acta Bot. Yunnan. 7(3): 278–279, pl. 2 1985",,,,,929109-1,wfo-0001254991,3567750,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9961472-8fd1-11eb-924d-9cd76263cbd0,genus,Rhamnoneuron,,,Gilg,,1894,,"Nat. Pflanzenfam. 3(6a): 245. 1894. (10 Jul 1894)",,,,,,39314-1,wfo-4000032861,7460680,,
+bdc6cd6e-8fd1-11eb-924d-9cd76263cbd0,species,balansae,Rhamnoneuron,,"(Drake) Gilg",,1894,,"Nat. Pflanzenfam. 3(6a): 245 1894",,,,,,832733-1,wfo-0001249899,3567756,,
+c07c98c2-8fd1-11eb-924d-9cd76263cbd0,species,rubriflorum,Rhamnoneuron,,"C.Y.Wu ex S.C.Huang",,1985,,"Acta Bot. Yunnan. 7(3): 278–279, pl. 2 1985",,,,,,929109-1,wfo-0001254991,3567750,,

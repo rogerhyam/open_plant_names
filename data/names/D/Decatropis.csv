@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e288f62c-8fd1-11eb-924d-9cd76263cbd0,genus,Decatropis,,,Hook.f.,1862,"Gen. Pl. 1: 298. 1862. (1 Aug 1862)",,,,,35673-1,wfo-4000010946,7268918,
-ddb085a2-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Decatropis,,"(Zucc.) Radlk.",1886,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 16: 306 1886",,,,846ab3a0-8fcc-11eb-924d-9cd76263cbd0,77081-2,wfo-0000639106,3831874,
-ddb0a23a-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Decatropis,,Hook.f.,1862,"Gen. Pl. 1: 299 1862",,,,,772350-1,wfo-0000639107,3831865,
-ddb0bf90-8fcc-11eb-924d-9cd76263cbd0,species,paucijuga,Decatropis,,"(Donn.Sm.) Loes.",1903,"Bull. Herb. Boissier II, 3: 208 1903",,,,,77082-2,wfo-0000639108,3831842,
-ddb0e380-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Decavenia,,"(Siebold & Zucc.) Koidz.",1930,"Bot. Mag. (Tokyo) 44: 111 1930",,,,,826342-1,wfo-0000639109,3647285,
-ddb13812-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Decavenia,,Koidz.,1930,"Bot. Mag. (Tokyo) 44: 111 1930",,,,,826343-1,wfo-0000639110,3647276,
-ddb16062-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Decavenia,,"(Siebold & Zucc.) Koidz.",1930,"Bot. Mag. (Tokyo) 44: 110 1930",,,,,826344-1,wfo-0000639111,3647267,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e288f62c-8fd1-11eb-924d-9cd76263cbd0,genus,Decatropis,,,Hook.f.,,1862,,"Gen. Pl. 1: 298. 1862. (1 Aug 1862)",,,,,,35673-1,wfo-4000010946,7268918,,
+ddb085a2-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Decatropis,,"(Zucc.) Radlk.",,1886,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 16: 306 1886",,,,846ab3a0-8fcc-11eb-924d-9cd76263cbd0,,77081-2,wfo-0000639106,3831874,,
+ddb0a23a-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Decatropis,,Hook.f.,,1862,,"Gen. Pl. 1: 299 1862",,,,,,772350-1,wfo-0000639107,3831865,,
+ddb0bf90-8fcc-11eb-924d-9cd76263cbd0,species,paucijuga,Decatropis,,"(Donn.Sm.) Loes.",,1903,,"Bull. Herb. Boissier II, 3: 208 1903",,,,,,77082-2,wfo-0000639108,3831842,,
+ddb0e380-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Decavenia,,"(Siebold & Zucc.) Koidz.",,1930,,"Bot. Mag. (Tokyo) 44: 111 1930",,Q55762649,,,,826342-1,wfo-0000639109,3647285,,
+ddb13812-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Decavenia,,Koidz.,,1930,,"Bot. Mag. (Tokyo) 44: 111 1930",,Q55762649,,,,826343-1,wfo-0000639110,3647276,,
+ddb16062-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Decavenia,,"(Siebold & Zucc.) Koidz.",,1930,,"Bot. Mag. (Tokyo) 44: 110 1930",,Q55762649,,,,826344-1,wfo-0000639111,3647267,,

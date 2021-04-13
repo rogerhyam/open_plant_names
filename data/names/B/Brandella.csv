@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0cc324a-8fd1-11eb-924d-9cd76263cbd0,genus,Brandella,,,R.R.Mill,1986,"Notes My Herb. 43(3): 478. 1986.",,,,,924991-1,wfo-4000005316,7294876,
-b4d14efa-8fcc-11eb-924d-9cd76263cbd0,species,erythraea,Brandella,,"(Brand) R.R.Mill",1986,"Notes Roy. Bot. Gard. Edinburgh 43: 478 1986",,,,,943297-1,wfo-0000570777,5660815,
-1997422c-8fcd-11eb-924d-9cd76263cbd0,form,subexalata,Brandella,erythraea,"(Riedl) R.R.Mill",2010,"Edinburgh J. Bot. 67: 142 2010",,,,,77104060-1,wfo-0000746163,7749005,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0cc324a-8fd1-11eb-924d-9cd76263cbd0,genus,Brandella,,,R.R.Mill,,1986,,"Notes My Herb. 43(3): 478. 1986.",,Q102417892,,,,924991-1,wfo-4000005316,7294876,,
+b4d14efa-8fcc-11eb-924d-9cd76263cbd0,species,erythraea,Brandella,,"(Brand) R.R.Mill",,1986,,"Notes Roy. Bot. Gard. Edinburgh 43: 478 1986",,Q102417892,,,,943297-1,wfo-0000570777,5660815,,
+1997422c-8fcd-11eb-924d-9cd76263cbd0,form,subexalata,Brandella,erythraea,"(Riedl) R.R.Mill",,2010,,"Edinburgh J. Bot. 67: 142 2010",,Q54633928,,,,77104060-1,wfo-0000746163,7749005,,

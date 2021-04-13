@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e83d0266-8fd1-11eb-924d-9cd76263cbd0,genus,Peronema,,,Jack,1822,"Malayan Misc. 2(7): 46. 1822.",,,,,41364-1,wfo-4000028821,7307455,
-f1d47a30-8fcb-11eb-924d-9cd76263cbd0,species,canescens,Peronema,,Jack,1822,"Malayan Misc. 2(7): 46 1822",,,,,863995-1,wfo-0000267573,3889106,
-f1d4a3e8-8fcb-11eb-924d-9cd76263cbd0,species,heterophyllum,Peronema,,Miq.,1861,"Fl. Ned. Ind., Eerste Bijv. 570 1861",,,,,863996-1,wfo-0000267574,3889098,
-8363760e-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Peronia,,F.Delaroche,1812,"Liliac. 6: t. 342 1812",,,,,797660-1,wfo-0000490214,5303043,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e83d0266-8fd1-11eb-924d-9cd76263cbd0,genus,Peronema,,,Jack,,1822,,"Malayan Misc. 2(7): 46. 1822.",,,,,,41364-1,wfo-4000028821,7307455,,
+f1d47a30-8fcb-11eb-924d-9cd76263cbd0,species,canescens,Peronema,,Jack,,1822,,"Malayan Misc. 2(7): 46 1822",,,,,,863995-1,wfo-0000267573,3889106,,
+f1d4a3e8-8fcb-11eb-924d-9cd76263cbd0,species,heterophyllum,Peronema,,Miq.,,1861,,"Fl. Ned. Ind., Eerste Bijv. 570 1861",,,,,,863996-1,wfo-0000267574,3889098,,

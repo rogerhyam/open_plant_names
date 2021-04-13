@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ce2388-8fd1-11eb-924d-9cd76263cbd0,genus,Cleistachne,,,Benth.,,"Hooker's Icon. Pl. 14: t. 1379. 1882.",,,,,17763-1,wfo-4000008539,4152163,
-4efa6f5c-8fcd-11eb-924d-9cd76263cbd0,species,macrantha,Cleistachne,,Stapf,1917,"Fl. Trop. Afr. 9: 155 1917",,,,,396394-1,wfo-0000860227,4152188,
-4efa8bfe-8fcd-11eb-924d-9cd76263cbd0,species,sorghoides,Cleistachne,,Benth.,,"Hooker's Icon. Pl. 14: t. 1379 1882",,,,,396395-1,wfo-0000860228,4152181,
-4efac39e-8fcd-11eb-924d-9cd76263cbd0,species,stocksii,Cleistachne,,Hook.f.,1896,"Fl. Brit. India 7: 162 1896",,,,,396396-1,wfo-0000860230,4152171,
-4efadd20-8fcd-11eb-924d-9cd76263cbd0,species,teretifolia,Cleistachne,,Hack.,1901,"Oesterr. Bot. Z. 51: 153 1901",,,,,396397-1,wfo-0000860231,4152162,
-a7c25456-8fb4-11eb-924d-9cd76263cbd0,species,nepalense,Cleistanthium,,Kunze,1851,"Bot. Zeitung (Berlin) 9 350 1851",,,,,196300-1,wfo-0000068047,3139204,
-cc465e2c-8fcc-11eb-924d-9cd76263cbd0,species,multicaulis,Cleistanthopsis,,Capuron,1965,"Adansonia n.s., 5: 213 1965",,,,,442127-1,wfo-0000609227,4259150,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ce2388-8fd1-11eb-924d-9cd76263cbd0,genus,Cleistachne,,,Benth.,,,,"Hooker's Icon. Pl. 14: t. 1379. 1882.",,Q55760212,,,,17763-1,wfo-4000008539,4152163,,
+4efa6f5c-8fcd-11eb-924d-9cd76263cbd0,species,macrantha,Cleistachne,,Stapf,,1917,,"Fl. Trop. Afr. 9: 155 1917",,,,,,396394-1,wfo-0000860227,4152188,,
+4efa8bfe-8fcd-11eb-924d-9cd76263cbd0,species,sorghoides,Cleistachne,,Benth.,,,,"Hooker's Icon. Pl. 14: t. 1379 1882",,,,,,396395-1,wfo-0000860228,4152181,,
+4efac39e-8fcd-11eb-924d-9cd76263cbd0,species,stocksii,Cleistachne,,Hook.f.,,1896,,"Fl. Brit. India 7: 162 1896",,,,,,396396-1,wfo-0000860230,4152171,,
+4efadd20-8fcd-11eb-924d-9cd76263cbd0,species,teretifolia,Cleistachne,,Hack.,,1901,,"Oesterr. Bot. Z. 51: 153 1901",,Q101059589,,,,396397-1,wfo-0000860231,4152162,,
+a7c25456-8fb4-11eb-924d-9cd76263cbd0,species,nepalense,Cleistanthium,,Kunze,,1851,,"Bot. Zeitung (Berlin) 9 350 1851",,,,,,196300-1,wfo-0000068047,3139204,,
+cc465e2c-8fcc-11eb-924d-9cd76263cbd0,species,multicaulis,Cleistanthopsis,,Capuron,,1965,,"Adansonia n.s., 5: 213 1965",,Q58837745,,,,442127-1,wfo-0000609227,4259150,,

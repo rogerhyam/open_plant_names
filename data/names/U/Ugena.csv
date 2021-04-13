@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc219a8-8fd1-11eb-924d-9cd76263cbd0,genus,Ugena,,,Cav.,,,,,,,,wfo-4000039704,7334829,
-fdd733e4-8fbd-11eb-924d-9cd76263cbd0,species,alba,Ugena,,Blanco,1837,"Fl. Filip. [F.M. Blanco] 823. 1837 1837",,,,,17233400-1,wfo-0000151424,3744404,
-fde10e3c-8fbd-11eb-924d-9cd76263cbd0,species,dichotoma,Ugena,,Cav.,1801,"Icon. [Cavanilles] 6: 74, t. 594, f. 3 1801",,,,,17233410-1,wfo-0000151425,3744397,
-fdeb216a-8fbd-11eb-924d-9cd76263cbd0,species,macrostachya,Ugena,,Cav.,1801,"Icon. [Cavanilles] 6: 75, t. 594, f. 2 1801",,,,,17233420-1,wfo-0000151426,3744387,
-ce4f8922-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Ugena,,Cav.,1801,"Icon. 6: 76, pl. 595, f. 2 1801",,,,,17233430-1,wfo-0001111775,,
-af88cf7c-8fd1-11eb-924d-9cd76263cbd0,species,polymorpha,Ugena,,Cav.,1801,"Icon. 6: 75, t. 595, f. 1 1801",,,,,17233440-1,wfo-0001223691,3744375,
-fdff6864-8fbd-11eb-924d-9cd76263cbd0,species,semihastata,Ugena,,Blanco,1837,"Fl. Filip. [F.M. Blanco] 822. 1837 1837",,,,,17233460-1,wfo-0000151428,3744361,
-fdf50f72-8fbd-11eb-924d-9cd76263cbd0,species,semihastata,Ugena,,Cav.,1801,"Icon. [Cavanilles] 6: 74, t. 594, f. 1 1801",,,,,17233450-1,wfo-0000151427,8019058,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc219a8-8fd1-11eb-924d-9cd76263cbd0,genus,Ugena,,,Cav.,,,,,,,,,,,wfo-4000039704,7334829,,
+fdd733e4-8fbd-11eb-924d-9cd76263cbd0,species,alba,Ugena,,Blanco,,1837,,"Fl. Filip. [F.M. Blanco] 823. 1837 1837",,,,,,17233400-1,wfo-0000151424,3744404,,
+fde10e3c-8fbd-11eb-924d-9cd76263cbd0,species,dichotoma,Ugena,,Cav.,,1801,,"Icon. [Cavanilles] 6: 74, t. 594, f. 3 1801",,,,,,17233410-1,wfo-0000151425,3744397,,
+fdeb216a-8fbd-11eb-924d-9cd76263cbd0,species,macrostachya,Ugena,,Cav.,,1801,,"Icon. [Cavanilles] 6: 75, t. 594, f. 2 1801",,,,,,17233420-1,wfo-0000151426,3744387,,
+ce4f8922-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Ugena,,Cav.,,1801,,"Icon. 6: 76, pl. 595, f. 2 1801",,,,,,17233430-1,wfo-0001111775,,,
+af88cf7c-8fd1-11eb-924d-9cd76263cbd0,species,polymorpha,Ugena,,Cav.,,1801,,"Icon. 6: 75, t. 595, f. 1 1801",,,,,,17233440-1,wfo-0001223691,3744375,,
+fdff6864-8fbd-11eb-924d-9cd76263cbd0,species,semihastata,Ugena,,Blanco,,1837,,"Fl. Filip. [F.M. Blanco] 822. 1837 1837",,,,,,17233460-1,wfo-0000151428,3744361,,
+fdf50f72-8fbd-11eb-924d-9cd76263cbd0,species,semihastata,Ugena,,Cav.,,1801,,"Icon. [Cavanilles] 6: 74, t. 594, f. 1 1801",,,,,,17233450-1,wfo-0000151427,8019058,,

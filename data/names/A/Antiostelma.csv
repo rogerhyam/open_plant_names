@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df8e843c-8fd1-11eb-924d-9cd76263cbd0,genus,Antiostelma,,,"(Tsiang & P.T.Li) P.T.Li",1992,"Novon 2(3): 218. 1992.",,,,,,wfo-4000002498,7312570,
-1ee5fc6a-8fcc-11eb-924d-9cd76263cbd0,species,lantsangense,Antiostelma,,"(Tsiang & P.T.Li) P.T.Li",1992,"Novon 2: 218 1992",,,,,964781-1,wfo-0000340284,3580862,
-1ee655de-8fcc-11eb-924d-9cd76263cbd0,species,manipurense,Antiostelma,,"(Deb) P.T.Li",1992,"Novon 2: 219 1992",,,,,964782-1,wfo-0000340285,3580850,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df8e843c-8fd1-11eb-924d-9cd76263cbd0,genus,Antiostelma,,,"(Tsiang & P.T.Li) P.T.Li",,1992,,"Novon 2(3): 218. 1992.",,,,,,,wfo-4000002498,7312570,,
+1ee5fc6a-8fcc-11eb-924d-9cd76263cbd0,species,lantsangense,Antiostelma,,"(Tsiang & P.T.Li) P.T.Li",,1992,,"Novon 2: 218 1992",,Q55773742,,,,964781-1,wfo-0000340284,3580862,,
+1ee655de-8fcc-11eb-924d-9cd76263cbd0,species,manipurense,Antiostelma,,"(Deb) P.T.Li",,1992,,"Novon 2: 219 1992",,Q55773742,,,,964782-1,wfo-0000340285,3580850,,

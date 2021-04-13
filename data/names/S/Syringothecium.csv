@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb0aa2b4-8fd1-11eb-924d-9cd76263cbd0,genus,Syringothecium,,,Mitt.,1869,"J. Linn. Soc., Bot. 12: 21, 497. 1869.",,,,,,wfo-4000037358,2680319,
-f3c915a6-8fcd-11eb-924d-9cd76263cbd0,species,brasiliense,Syringothecium,,Broth.,1924,"Ergebn. Bot. Exped. Südbras., Musci 338 1924",,,,,,wfo-0001191376,2680321,
-f3c9323e-8fcd-11eb-924d-9cd76263cbd0,species,nemodontium,Syringothecium,,Herzog,1927,"Hedwigia 67: 267 1927",,,,,,wfo-0001191377,7771750,
-f3c94c24-8fcd-11eb-924d-9cd76263cbd0,species,sprucei,Syringothecium,,Mitt.,1869,"J. Linn. Soc., Bot. 12: 497 1869",,,,,,wfo-0001191378,2680320,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb0aa2b4-8fd1-11eb-924d-9cd76263cbd0,genus,Syringothecium,,,Mitt.,,1869,,"J. Linn. Soc., Bot. 12: 21, 497. 1869.",,,,,,,wfo-4000037358,2680319,,
+f3c915a6-8fcd-11eb-924d-9cd76263cbd0,species,brasiliense,Syringothecium,,Broth.,,1924,,"Ergebn. Bot. Exped. Südbras., Musci 338 1924",,,,,,,wfo-0001191376,2680321,,
+f3c9323e-8fcd-11eb-924d-9cd76263cbd0,species,nemodontium,Syringothecium,,Herzog,,1927,,"Hedwigia 67: 267 1927",,,,,,,wfo-0001191377,7771750,,
+f3c94c24-8fcd-11eb-924d-9cd76263cbd0,species,sprucei,Syringothecium,,Mitt.,,1869,,"J. Linn. Soc., Bot. 12: 497 1869",,,,,,,wfo-0001191378,2680320,,

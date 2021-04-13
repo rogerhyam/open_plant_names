@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae530f6-8fd1-11eb-924d-9cd76263cbd0,genus,Streptothamnus,,,F.Muell.,1862,"Fragm. 3(18): 27. 1862.",,,,,,wfo-4000036873,8323975,
-c60eab2c-8fd1-11eb-924d-9cd76263cbd0,species,beckleri,Streptothamnus,,F.Muell.,1862,"Fragm. 3(18): 28 1862",,,,,112099-1,wfo-0001265179,3878666,
-b88abb52-8fcd-11eb-924d-9cd76263cbd0,species,moorei,Streptothamnus,,F.Muell.,1862,"Fragm. 3(18): 28 1862",,,,,,wfo-0001063101,7693673,
-11304b20-8fcc-11eb-924d-9cd76263cbd0,species,pringlei,Streptotrachelus,,Greenm.,1897,"Proc. Amer. Acad. Arts 32: 298 1897",,,,,246132-2,wfo-0000317213,3620655,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae530f6-8fd1-11eb-924d-9cd76263cbd0,genus,Streptothamnus,,,F.Muell.,,1862,,"Fragm. 3(18): 27. 1862.",,,,,,,wfo-4000036873,8323975,,
+c60eab2c-8fd1-11eb-924d-9cd76263cbd0,species,beckleri,Streptothamnus,,F.Muell.,,1862,,"Fragm. 3(18): 28 1862",,,,,,112099-1,wfo-0001265179,3878666,,
+b88abb52-8fcd-11eb-924d-9cd76263cbd0,species,moorei,Streptothamnus,,F.Muell.,,1862,,"Fragm. 3(18): 28 1862",,,,,,,wfo-0001063101,7693673,,

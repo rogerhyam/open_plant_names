@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46b639e-8fd1-11eb-924d-9cd76263cbd0,genus,Harmonia,,,B.G.Baldwin,,,,,,,1012648-1,wfo-4000016929,3119932,
-242f2738-8fb2-11eb-924d-9cd76263cbd0,species,doris-nilesiae,Harmonia,,"(T.W.Nelson & J.P.Nelson) B.G.Baldwin",1999,"Novon 9(4) 464 1999",,,,05592cb0-8fb6-11eb-924d-9cd76263cbd0,1018257-2,wfo-0000013199,5396009,
-e96cd7b6-8fb2-11eb-924d-9cd76263cbd0,species,guggolziorum,Harmonia,,B.G.Baldwin,,"Madroño 48(4)",,,,,,wfo-0000037283,5396015,
-b0196c04-8fb2-11eb-924d-9cd76263cbd0,species,hallii,Harmonia,,"(D.D.Keck) B.G.Baldwin",1999,"Novon 9(4) 464 1999",,,,08d1c446-8fb2-11eb-924d-9cd76263cbd0,1012650-1,wfo-0000031856,5396010,
-d939945c-8fb6-11eb-924d-9cd76263cbd0,species,nutans,Harmonia,,"(Greene) B.G.Baldwin",1999,"Novon 9(4) 464 1999",,,,992cf342-8fb4-11eb-924d-9cd76263cbd0,1012651-1,wfo-0000093814,5396011,
-001f3d52-8fbb-11eb-924d-9cd76263cbd0,species,stebbinsii,Harmonia,,"(T.W.Nelson & J.P.Nelson) B.G.Baldwin",1999,"Novon 9(4): 464 (1999):",,,,8d7cd096-8fb2-11eb-924d-9cd76263cbd0,1012652-1,wfo-0000131022,5396014,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46b639e-8fd1-11eb-924d-9cd76263cbd0,genus,Harmonia,,,B.G.Baldwin,,,,,,Q55774607,,,,1012648-1,wfo-4000016929,3119932,,
+242f2738-8fb2-11eb-924d-9cd76263cbd0,species,doris-nilesiae,Harmonia,,"(T.W.Nelson & J.P.Nelson) B.G.Baldwin",,1999,,"Novon 9(4) 464 1999",,Q55774607,,05592cb0-8fb6-11eb-924d-9cd76263cbd0,,1018257-2,wfo-0000013199,5396009,,
+e96cd7b6-8fb2-11eb-924d-9cd76263cbd0,species,guggolziorum,Harmonia,,B.G.Baldwin,,,,"Madroño 48(4)",,,,,,,wfo-0000037283,5396015,,
+b0196c04-8fb2-11eb-924d-9cd76263cbd0,species,hallii,Harmonia,,"(D.D.Keck) B.G.Baldwin",,1999,,"Novon 9(4) 464 1999",,Q55774607,,08d1c446-8fb2-11eb-924d-9cd76263cbd0,,1012650-1,wfo-0000031856,5396010,,
+d939945c-8fb6-11eb-924d-9cd76263cbd0,species,nutans,Harmonia,,"(Greene) B.G.Baldwin",,1999,,"Novon 9(4) 464 1999",,Q55774607,,992cf342-8fb4-11eb-924d-9cd76263cbd0,,1012651-1,wfo-0000093814,5396011,,
+001f3d52-8fbb-11eb-924d-9cd76263cbd0,species,stebbinsii,Harmonia,,"(T.W.Nelson & J.P.Nelson) B.G.Baldwin",,1999,,"Novon 9(4): 464 (1999):",,Q55774607,,8d7cd096-8fb2-11eb-924d-9cd76263cbd0,,1012652-1,wfo-0000131022,5396014,,

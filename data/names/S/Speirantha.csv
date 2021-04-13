@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea92f3d6-8fd1-11eb-924d-9cd76263cbd0,genus,Speirantha,,,Baker,1875,"J. Linn. Soc., Bot. 14: 562–563. 1875.",,,,,24781-1,wfo-4000035918,2772848,
-16f7fd4a-8fcd-11eb-924d-9cd76263cbd0,species,convallarioides,Speirantha,,Baker,1875,"J. Linn. Soc., Bot. 14: 563 1875",,,,,541985-1,wfo-0000740553,2772850,
-1543e3ec-8fcd-11eb-924d-9cd76263cbd0,species,gardenii,Speirantha,,"(Hook.) Baill.",1894,"Hist. Pl. 12: 524 1894",,,,,541986-1,wfo-0000736903,2772849,
-3bae7d62-8fcd-11eb-924d-9cd76263cbd0,species,montanum,Speirema,,"(Reinw. ex Blume) Hook.f. & Thomson",1858,"J. Proc. Linn. Soc., Bot. 2: 27 1858",,,,,145460-1,wfo-0000818707,3160541,
-dc9ba8a8-8fcd-11eb-924d-9cd76263cbd0,species,tiliifolia,Speirostyla,,Baker,1889,"J. Linn. Soc., Bot. 25: 299, pl. 50 1889",,,,,,wfo-0001142663,3668455,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea92f3d6-8fd1-11eb-924d-9cd76263cbd0,genus,Speirantha,,,Baker,,1875,,"J. Linn. Soc., Bot. 14: 562–563. 1875.",,Q55758887,,,,24781-1,wfo-4000035918,2772848,,
+16f7fd4a-8fcd-11eb-924d-9cd76263cbd0,species,convallarioides,Speirantha,,Baker,,1875,,"J. Linn. Soc., Bot. 14: 563 1875",,Q55758887,,,,541985-1,wfo-0000740553,2772850,,
+1543e3ec-8fcd-11eb-924d-9cd76263cbd0,species,gardenii,Speirantha,,"(Hook.) Baill.",,1894,,"Hist. Pl. 12: 524 1894",,,,,,541986-1,wfo-0000736903,2772849,,
+3bae7d62-8fcd-11eb-924d-9cd76263cbd0,species,montanum,Speirema,,"(Reinw. ex Blume) Hook.f. & Thomson",,1858,,"J. Proc. Linn. Soc., Bot. 2: 27 1858",,,,,,145460-1,wfo-0000818707,3160541,,

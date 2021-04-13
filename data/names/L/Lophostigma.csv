@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e612a374-8fd1-11eb-924d-9cd76263cbd0,genus,Lophostigma,,,Radlk.,1897,"Nat. Pflanzenfam., Gesamtreg. Nachtr. II–IV: 228. 1897.",,,,,294658-2,wfo-4000022241,3233082,
-d8b73fe0-8fcd-11eb-924d-9cd76263cbd0,species,plumosum,Lophostigma,,Radlk.,1932,"Pflanzenr. 165(Heft 98b): 414 1932",,,,,,wfo-0001134621,5576847,
-d8fcad6e-8fcd-11eb-924d-9cd76263cbd0,species,schunkei,Lophostigma,,"(Acev.-Rodr.) Acev.-Rodr.",1993,"Syst. Bot. 18(3): 388 1993",,,,d8ec847a-8fcd-11eb-924d-9cd76263cbd0,972854-1,wfo-0001135214,5576840,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e612a374-8fd1-11eb-924d-9cd76263cbd0,genus,Lophostigma,,,Radlk.,,1897,,"Nat. Pflanzenfam., Gesamtreg. Nachtr. II–IV: 228. 1897.",,,,,,294658-2,wfo-4000022241,3233082,,
+d8b73fe0-8fcd-11eb-924d-9cd76263cbd0,species,plumosum,Lophostigma,,Radlk.,,1932,,"Pflanzenr. 165(Heft 98b): 414 1932",,,,,,,wfo-0001134621,5576847,,
+d8fcad6e-8fcd-11eb-924d-9cd76263cbd0,species,schunkei,Lophostigma,,"(Acev.-Rodr.) Acev.-Rodr.",,1993,,"Syst. Bot. 18(3): 388 1993",,Q55765527,,d8ec847a-8fcd-11eb-924d-9cd76263cbd0,,972854-1,wfo-0001135214,5576840,,

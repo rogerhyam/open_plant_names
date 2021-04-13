@@ -1,6 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebdc8d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Varilla,,,A.Gray,,,,,,,11449-1,wfo-4000040037,3118740,
-7007b49c-8fba-11eb-924d-9cd76263cbd0,species,mexicana,Varilla,,A.Gray,1849,"Mem. Amer. Acad. Arts n.s., iv. (1849) 106",,,,,,wfo-0000126633,3118742,
-947edd30-8fb2-11eb-924d-9cd76263cbd0,species,texana,Varilla,,A.Gray,,"Pl. Wright. i. 123.",,,,,,wfo-0000028743,3118741,
-5606484e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Varinga,,Raf.,1838,"Sylva Tellur. 58 1838",,,,,858046-1,wfo-0000418529,3763922,
-6727de86-8fcb-11eb-924d-9cd76263cbd0,species,varjenewskyana,,,Linden,1894,"Lindenia 10: 71 1894",,,,,639806-1,wfo-0000222250,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebdc8d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Varilla,,,A.Gray,,,,,,,,,,11449-1,wfo-4000040037,3118740,,
+7007b49c-8fba-11eb-924d-9cd76263cbd0,species,mexicana,Varilla,,A.Gray,,1849,,"Mem. Amer. Acad. Arts n.s., iv. (1849) 106",,,,,,,wfo-0000126633,3118742,,
+947edd30-8fb2-11eb-924d-9cd76263cbd0,species,texana,Varilla,,A.Gray,,,,"Pl. Wright. i. 123.",,,,,,,wfo-0000028743,3118741,,
+5606484e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Varinga,,Raf.,,1838,,"Sylva Tellur. 58 1838",,,,,,858046-1,wfo-0000418529,3763922,,

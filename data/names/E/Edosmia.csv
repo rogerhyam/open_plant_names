@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32f55b2-8fd1-11eb-924d-9cd76263cbd0,genus,Edosmia,,,Nutt.,1840,"Fl. N. Amer. 1(4): 612. 1840.",,,,,,wfo-4000013029,6026267,
-ebc66ec2-8fcc-11eb-924d-9cd76263cbd0,species,gairdneri,Edosmia,,"(Hook. & Arn.) Torr. & A.Gray",1840,"Fl. N. Amer. 1: 612 1840",,,,aa3c4eb8-8fcc-11eb-924d-9cd76263cbd0,841581-1,wfo-0000663244,3635237,
-ebc68a42-8fcc-11eb-924d-9cd76263cbd0,species,montana,Edosmia,,Nutt.,1840,"Fl. N. Amer. 1: 612 1840",,,,,,wfo-0000663245,7508028,
-ebc6c2be-8fcc-11eb-924d-9cd76263cbd0,species,neurophylla,Edosmia,,Maxim.,1873,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 18: 285 1873",,,,,841583-1,wfo-0000663247,3628489,
-ebc6dcc2-8fcc-11eb-924d-9cd76263cbd0,species,oregana,Edosmia,,Nutt.,1840,"Fl. N. Amer. 1: 612 1840",,,,,,wfo-0000663248,7681018,
-ebc6f676-8fcc-11eb-924d-9cd76263cbd0,species,praealta,Edosmia,,Nutt.,1840,"Fl. N. Amer. 1: 612 1840",,,,,,wfo-0000663249,8337375,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32f55b2-8fd1-11eb-924d-9cd76263cbd0,genus,Edosmia,,,Nutt.,,1840,,"Fl. N. Amer. 1(4): 612. 1840.",,,,,,,wfo-4000013029,6026267,,
+ebc66ec2-8fcc-11eb-924d-9cd76263cbd0,species,gairdneri,Edosmia,,"(Hook. & Arn.) Torr. & A.Gray",,1840,,"Fl. N. Amer. 1: 612 1840",,,,aa3c4eb8-8fcc-11eb-924d-9cd76263cbd0,,841581-1,wfo-0000663244,3635237,,
+ebc68a42-8fcc-11eb-924d-9cd76263cbd0,species,montana,Edosmia,,Nutt.,,1840,,"Fl. N. Amer. 1: 612 1840",,,,,,,wfo-0000663245,7508028,,
+ebc6c2be-8fcc-11eb-924d-9cd76263cbd0,species,neurophylla,Edosmia,,Maxim.,,1873,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 18: 285 1873",,,,,,841583-1,wfo-0000663247,3628489,,
+ebc6dcc2-8fcc-11eb-924d-9cd76263cbd0,species,oregana,Edosmia,,Nutt.,,1840,,"Fl. N. Amer. 1: 612 1840",,,,,,,wfo-0000663248,7681018,,
+ebc6f676-8fcc-11eb-924d-9cd76263cbd0,species,praealta,Edosmia,,Nutt.,,1840,,"Fl. N. Amer. 1: 612 1840",,,,,,,wfo-0000663249,8337375,,

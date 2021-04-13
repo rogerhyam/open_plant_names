@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e433d384-8fd1-11eb-924d-9cd76263cbd0,genus,Grischowia,,,H.Karst.,1848,"Auswahl Gew. Venez. 15. 1848.",,,,,,wfo-4000016246,7272956,
-bd48acb8-8fd1-11eb-924d-9cd76263cbd0,species,hirta,Grischowia,,H.Karst.,1848,"Ausw. Neue Gew. 16, t. 5 1848",,,,,568925-1,wfo-0001249024,3861695,
-61277ba6-8fbf-11eb-924d-9cd76263cbd0,species,meridensis,Grischowia,,"Klotzsch & Kaet.",,"Ausw. Neue Gew. 16. t. 5",,,,,568926-1,wfo-0000159614,7588655,
-6132358c-8fbf-11eb-924d-9cd76263cbd0,species,osbeckioides,Grischowia,,"Klotzsch & H.Karst.",,"Ausw. Neue Gew. 16. t. 5",,,,,568927-1,wfo-0000159615,3861678,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e433d384-8fd1-11eb-924d-9cd76263cbd0,genus,Grischowia,,,H.Karst.,,1848,,"Auswahl Gew. Venez. 15. 1848.",,,,,,,wfo-4000016246,7272956,,
+bd48acb8-8fd1-11eb-924d-9cd76263cbd0,species,hirta,Grischowia,,H.Karst.,,1848,,"Ausw. Neue Gew. 16, t. 5 1848",,,,,,568925-1,wfo-0001249024,3861695,,
+61277ba6-8fbf-11eb-924d-9cd76263cbd0,species,meridensis,Grischowia,,"Klotzsch & Kaet.",,,,"Ausw. Neue Gew. 16. t. 5",,,,,,568926-1,wfo-0000159614,7588655,,
+6132358c-8fbf-11eb-924d-9cd76263cbd0,species,osbeckioides,Grischowia,,"Klotzsch & H.Karst.",,,,"Ausw. Neue Gew. 16. t. 5",,,,,,568927-1,wfo-0000159615,3861678,,

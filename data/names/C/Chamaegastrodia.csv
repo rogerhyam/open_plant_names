@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e18062c4-8fd1-11eb-924d-9cd76263cbd0,genus,Chamaegastrodia,,,"Makino & F.Maek.",1935,"Bot. Mag. (Tokyo) 49(585): 596. 1935.",,,,,29001-1,wfo-4000007595,2820745,
-45811e44-8fcd-11eb-924d-9cd76263cbd0,species,asraoa,Chamaegastrodia,,"(J.Joseph & Abbar.) Seidenf. & A.N.Rao",1994,"Nordic J. Bot. 14: 299 1994",,,,8a8445b6-8fcd-11eb-924d-9cd76263cbd0,978917-1,wfo-0000839818,2820746,
-45824eea-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Chamaegastrodia,,"(Rolfe) F.Maek.",1971,"Wild Orchids Japan Colour 464 1971",,,,0e9dd616-8fcc-11eb-924d-9cd76263cbd0,622683-1,wfo-0000839829,8697679,
-458382ba-8fcd-11eb-924d-9cd76263cbd0,species,inverta,Chamaegastrodia,,"(W.W.Sm.) Seidenf.",1994,"Nordic J. Bot. 14: 297 1994",,,,1c1725a4-8fcc-11eb-924d-9cd76263cbd0,978915-1,wfo-0000839840,2820757,
-436e5b8a-8fcd-11eb-924d-9cd76263cbd0,species,nanlingensis,Chamaegastrodia,,"H.Z.Tian & F.W.Xing",2008,"Novon 18: 261 2008",,,,,77094549-1,wfo-0000835297,2820761,
-4584d82c-8fcd-11eb-924d-9cd76263cbd0,species,poilanei,Chamaegastrodia,,"(Gagnep.) Seidenf. & A.N.Rao",1994,"Nordic J. Bot. 14: 297 1994",,,,,978916-1,wfo-0000839852,2820606,
-4586850a-8fcd-11eb-924d-9cd76263cbd0,species,shikokiana,Chamaegastrodia,,"Makino & F.Maek.",1935,"Bot. Mag. (Tokyo) 49: 596 1935",,,,,622684-1,wfo-0000839863,2820762,
-4587b768-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Chamaegastrodia,,"(Hook.f.) Seidenf.",1994,"Nordic J. Bot. 14: 294 1994",,,,,978914-1,wfo-0000839874,2820751,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e18062c4-8fd1-11eb-924d-9cd76263cbd0,genus,Chamaegastrodia,,,"Makino & F.Maek.",,1935,,"Bot. Mag. (Tokyo) 49(585): 596. 1935.",,Q55762748,,,,29001-1,wfo-4000007595,2820745,,
+45811e44-8fcd-11eb-924d-9cd76263cbd0,species,asraoa,Chamaegastrodia,,"(J.Joseph & Abbar.) Seidenf. & A.N.Rao",,1994,,"Nordic J. Bot. 14: 299 1994",,Q55761589,,8a8445b6-8fcd-11eb-924d-9cd76263cbd0,,978917-1,wfo-0000839818,2820746,,
+45824eea-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Chamaegastrodia,,"(Rolfe) F.Maek.",,1971,,"Wild Orchids Japan Colour 464 1971",,,,0e9dd616-8fcc-11eb-924d-9cd76263cbd0,,622683-1,wfo-0000839829,8697679,,
+458382ba-8fcd-11eb-924d-9cd76263cbd0,species,inverta,Chamaegastrodia,,"(W.W.Sm.) Seidenf.",,1994,,"Nordic J. Bot. 14: 297 1994",,Q55761589,,1c1725a4-8fcc-11eb-924d-9cd76263cbd0,,978915-1,wfo-0000839840,2820757,,
+436e5b8a-8fcd-11eb-924d-9cd76263cbd0,species,nanlingensis,Chamaegastrodia,,"H.Z.Tian & F.W.Xing",,2008,,"Novon 18: 261 2008",,Q55791231,,,,77094549-1,wfo-0000835297,2820761,,
+4584d82c-8fcd-11eb-924d-9cd76263cbd0,species,poilanei,Chamaegastrodia,,"(Gagnep.) Seidenf. & A.N.Rao",,1994,,"Nordic J. Bot. 14: 297 1994",,Q55761589,,,,978916-1,wfo-0000839852,2820606,,
+4586850a-8fcd-11eb-924d-9cd76263cbd0,species,shikokiana,Chamaegastrodia,,"Makino & F.Maek.",,1935,,"Bot. Mag. (Tokyo) 49: 596 1935",,Q55762748,,,,622684-1,wfo-0000839863,2820762,,
+4587b768-8fcd-11eb-924d-9cd76263cbd0,species,vaginata,Chamaegastrodia,,"(Hook.f.) Seidenf.",,1994,,"Nordic J. Bot. 14: 294 1994",,Q55761589,,,,978914-1,wfo-0000839874,2820751,,

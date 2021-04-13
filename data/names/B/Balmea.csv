@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e00c2478-8fd1-11eb-924d-9cd76263cbd0,genus,Balmea,,,Martínez,1942,"Anales Inst. Biol. Univ. Nac. México 13: 37. 1942. (20 Jan 1942)",,,,,298112-2,wfo-4000003975,2912894,
-1071b354-8fcc-11eb-924d-9cd76263cbd0,species,stormae,Balmea,,Martínez,1942,"Bull. Torrey Bot. Club 69: 438 1942",,,,,,wfo-0000316026,2912895,
-acbaf0cc-8fcc-11eb-924d-9cd76263cbd0,species,corylifolia,Balmeda,,Nocca,1804,"Syn. Pl. Hort. Ticin. App.: 21 1804",,,,,833295-1,wfo-0000558809,4260287,
-1074bcd4-8fcc-11eb-924d-9cd76263cbd0,species,vulgaris,Balmisa,,"(O.Targ.Tozz.) Lag.",1816,"Gen. Sp. Pl. 17 1816",,,,,86217-1,wfo-0000316049,2867509,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e00c2478-8fd1-11eb-924d-9cd76263cbd0,genus,Balmea,,,Martínez,,1942,,"Anales Inst. Biol. Univ. Nac. México 13: 37. 1942. (20 Jan 1942)",,Q56913585,,,,298112-2,wfo-4000003975,2912894,,
+1071b354-8fcc-11eb-924d-9cd76263cbd0,species,stormae,Balmea,,Martínez,,1942,,"Bull. Torrey Bot. Club 69: 438 1942",,,,,,,wfo-0000316026,2912895,,
+acbaf0cc-8fcc-11eb-924d-9cd76263cbd0,species,corylifolia,Balmeda,,Nocca,,1804,,"Syn. Pl. Hort. Ticin. App.: 21 1804",,,,,,833295-1,wfo-0000558809,4260287,,
+1074bcd4-8fcc-11eb-924d-9cd76263cbd0,species,vulgaris,Balmisa,,"(O.Targ.Tozz.) Lag.",,1816,,"Gen. Sp. Pl. 17 1816",,,,,,86217-1,wfo-0000316049,2867509,,

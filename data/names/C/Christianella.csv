@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1acf136-8fd1-11eb-924d-9cd76263cbd0,genus,Christianella,,,W.R.Anderson,2006,"Novon 16(2): 190–191. 2006. (26 Jul 2006)",,,,,60442930-2,wfo-4000008139,3231253,
-c8fd41e0-8fcc-11eb-924d-9cd76263cbd0,species,glandulifera,Christianella,,"(Cuatrec.) W.R.Anderson",2006,"Novon 16: 191 2006",,,,,60442931-2,wfo-0000603636,5634591,
-c8fd5c70-8fcc-11eb-924d-9cd76263cbd0,species,mesoamericana,Christianella,,"(W.R.Anderson) W.R.Anderson",2006,"Novon 16: 191 2006",,,,,60442932-2,wfo-0000603637,5634590,
-c8fd77c8-8fcc-11eb-924d-9cd76263cbd0,species,multiglandulosa,Christianella,,"(Nied.) W.R.Anderson",2006,"Novon 16: 191 2006",,,,be465358-8fcd-11eb-924d-9cd76263cbd0,60442933-2,wfo-0000603638,5634588,
-c8fd914a-8fcc-11eb-924d-9cd76263cbd0,species,paludicola,Christianella,,"(W.R.Anderson) W.R.Anderson",2006,"Novon 16: 191 2006",,,,cd58d128-8fd1-11eb-924d-9cd76263cbd0,60442934-2,wfo-0000603639,5634586,
-c8fdd6dc-8fcc-11eb-924d-9cd76263cbd0,species,surinamensis,Christianella,,"(Kosterm.) W.R.Anderson",2006,"Novon 16: 191 2006",,,,6ddd2f46-8fcc-11eb-924d-9cd76263cbd0,60442935-2,wfo-0000603641,5634585,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1acf136-8fd1-11eb-924d-9cd76263cbd0,genus,Christianella,,,W.R.Anderson,,2006,,"Novon 16(2): 190–191. 2006. (26 Jul 2006)",,Q55790887,,,,60442930-2,wfo-4000008139,3231253,,
+c8fd41e0-8fcc-11eb-924d-9cd76263cbd0,species,glandulifera,Christianella,,"(Cuatrec.) W.R.Anderson",,2006,,"Novon 16: 191 2006",,Q55790887,,,,60442931-2,wfo-0000603636,5634591,,
+c8fd5c70-8fcc-11eb-924d-9cd76263cbd0,species,mesoamericana,Christianella,,"(W.R.Anderson) W.R.Anderson",,2006,,"Novon 16: 191 2006",,Q55790887,,,,60442932-2,wfo-0000603637,5634590,,
+c8fd77c8-8fcc-11eb-924d-9cd76263cbd0,species,multiglandulosa,Christianella,,"(Nied.) W.R.Anderson",,2006,,"Novon 16: 191 2006",,Q55790887,,be465358-8fcd-11eb-924d-9cd76263cbd0,,60442933-2,wfo-0000603638,5634588,,
+c8fd914a-8fcc-11eb-924d-9cd76263cbd0,species,paludicola,Christianella,,"(W.R.Anderson) W.R.Anderson",,2006,,"Novon 16: 191 2006",,Q55790887,,cd58d128-8fd1-11eb-924d-9cd76263cbd0,,60442934-2,wfo-0000603639,5634586,,
+c8fdd6dc-8fcc-11eb-924d-9cd76263cbd0,species,surinamensis,Christianella,,"(Kosterm.) W.R.Anderson",,2006,,"Novon 16: 191 2006",,Q55790887,,6ddd2f46-8fcc-11eb-924d-9cd76263cbd0,,60442935-2,wfo-0000603641,5634585,,

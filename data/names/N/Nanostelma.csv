@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e711068a-8fd1-11eb-924d-9cd76263cbd0,genus,Nanostelma,,,Baill.,1890,"Hist. Pl. 10: 247. 1890.",,,,,,wfo-4000025313,7312164,
-ca630dc0-8fcd-11eb-924d-9cd76263cbd0,species,congolana,Nanostelma,,Baill.,1890,"Hist. Pl. 10: 248 1890",,,,,99832-1,wfo-0001102855,3576268,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e711068a-8fd1-11eb-924d-9cd76263cbd0,genus,Nanostelma,,,Baill.,,1890,,"Hist. Pl. 10: 247. 1890.",,,,,,,wfo-4000025313,7312164,,
+ca630dc0-8fcd-11eb-924d-9cd76263cbd0,species,congolana,Nanostelma,,Baill.,,1890,,"Hist. Pl. 10: 248 1890",,,,,,99832-1,wfo-0001102855,3576268,,

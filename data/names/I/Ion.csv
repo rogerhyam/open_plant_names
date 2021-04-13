@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e51a5a16-8fd1-11eb-924d-9cd76263cbd0,genus,Ion,,,Medik.,1787,"Malvenfam. 102. 1787.",,,,,,wfo-4000019128,7296331,
-12c92f0a-8fcd-11eb-924d-9cd76263cbd0,species,occultum,Ion,,"(Lehm.) Nevski",1937,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 217 1937",,,,,866774-1,wfo-0000731902,4074774,
-12c94fb2-8fcd-11eb-924d-9cd76263cbd0,species,tricolor,Ion,,Medik.,1787,"Malvenfam. 102 1787",,,,,866775-1,wfo-0000731903,4074766,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e51a5a16-8fd1-11eb-924d-9cd76263cbd0,genus,Ion,,,Medik.,,1787,,"Malvenfam. 102. 1787.",,,,,,,wfo-4000019128,7296331,,
+12c92f0a-8fcd-11eb-924d-9cd76263cbd0,species,occultum,Ion,,"(Lehm.) Nevski",,1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 217 1937",,,,,,866774-1,wfo-0000731902,4074774,,
+12c94fb2-8fcd-11eb-924d-9cd76263cbd0,species,tricolor,Ion,,Medik.,,1787,,"Malvenfam. 102 1787",,,,,,866775-1,wfo-0000731903,4074766,,

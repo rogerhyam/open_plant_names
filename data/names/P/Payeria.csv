@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e812d7d4-8fd1-11eb-924d-9cd76263cbd0,genus,Payeria,,,,,,,,,,,wfo-4000028373,7271498,
-79d8d1ec-8fcc-11eb-924d-9cd76263cbd0,species,chrysogyne,Payeria,,Müll.Arg.,1865,"Linnaea 34: 65 1865",,,,,579112-1,wfo-0000473724,3852416,
-c18e37c4-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Payeria,,Baill.,1860,"Adansonia 1: 50 1860",,,,,,wfo-0001083619,3852407,
-6f2570ba-8fbe-11eb-924d-9cd76263cbd0,species,payotii,,,P.Fourn.,1934,"Quatre Fl. France 11. 1934 {nomen}. 1934",,,,,17370870-1,wfo-0000153892,,
-8bcc51b6-8fcd-11eb-924d-9cd76263cbd0,species,payotii,,,P.Fourn.,1928,"Fl. Compl. Plaine Franç. 512, 511 1928",,,,,615767-1,wfo-0000968265,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e812d7d4-8fd1-11eb-924d-9cd76263cbd0,genus,Payeria,,,,,,,,,,,,,,wfo-4000028373,7271498,,
+79d8d1ec-8fcc-11eb-924d-9cd76263cbd0,species,chrysogyne,Payeria,,Müll.Arg.,,1865,,"Linnaea 34: 65 1865",,,,,,579112-1,wfo-0000473724,3852416,,
+c18e37c4-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Payeria,,Baill.,,1860,,"Adansonia 1: 50 1860",,,,,,,wfo-0001083619,3852407,,

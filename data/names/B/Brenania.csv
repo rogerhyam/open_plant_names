@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0d1929e-8fd1-11eb-924d-9cd76263cbd0,genus,Brenania,,,Keay,1958,"Bull. Jard. Bot. État Bruxelles 28: 26. 1958.",,,,,34250-1,wfo-4000005392,2900817,
-4ea2ab4c-8fcc-11eb-924d-9cd76263cbd0,species,brieyi,Brenania,,"(De Wild.) E.M.A.Petit",1961,"Bull. Jard. Bot. État 31: 5 1961",,,,,745133-1,wfo-0000409001,2900819,
-4eacfcb4-8fcc-11eb-924d-9cd76263cbd0,species,rhomboideifolia,Brenania,,E.M.A.Petit,1961,"Bull. Jard. Bot. État 31: 7 1961",,,,,745134-1,wfo-0000409055,2900818,
-4ebc9d2c-8fcc-11eb-924d-9cd76263cbd0,species,spathulifolia,Brenania,,"(R.D.Good) Keay",1958,"Bull. Jard. Bot. État 28: 26 1958",,,,0306e3d8-8fcc-11eb-924d-9cd76263cbd0,745135-1,wfo-0000409118,2900822,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0d1929e-8fd1-11eb-924d-9cd76263cbd0,genus,Brenania,,,Keay,,1958,,"Bull. Jard. Bot. État Bruxelles 28: 26. 1958.",,Q55775862,,,,34250-1,wfo-4000005392,2900817,,
+4ea2ab4c-8fcc-11eb-924d-9cd76263cbd0,species,brieyi,Brenania,,"(De Wild.) E.M.A.Petit",,1961,,"Bull. Jard. Bot. État 31: 5 1961",,Q55776043,,,,745133-1,wfo-0000409001,2900819,,
+4eacfcb4-8fcc-11eb-924d-9cd76263cbd0,species,rhomboideifolia,Brenania,,E.M.A.Petit,,1961,,"Bull. Jard. Bot. État 31: 7 1961",,Q55776043,,,,745134-1,wfo-0000409055,2900818,,
+4ebc9d2c-8fcc-11eb-924d-9cd76263cbd0,species,spathulifolia,Brenania,,"(R.D.Good) Keay",,1958,,"Bull. Jard. Bot. État 28: 26 1958",,Q55775862,,0306e3d8-8fcc-11eb-924d-9cd76263cbd0,,745135-1,wfo-0000409118,2900822,,

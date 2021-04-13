@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2273b94-8fd1-11eb-924d-9cd76263cbd0,genus,Crenidium,,,Haegi,1981,"(P. ) Sandwith and (P. ) Sandwith, Telopea 2: 179., 1981.",,,,,893041-1,wfo-4000009656,7299719,
-a54e1944-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Crenidium,,,,,,,,,,wfo-0001021064,,
-a54e3672-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Crenidium,,Haegi,1981,"Haegi, Telopea 2(2): 179 (1981)., 1981.",,,,,,wfo-0001021065,3800240,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2273b94-8fd1-11eb-924d-9cd76263cbd0,genus,Crenidium,,,Haegi,,1981,,"(P. ) Sandwith and (P. ) Sandwith, Telopea 2: 179., 1981.",,Q55800090,,,,893041-1,wfo-4000009656,7299719,,
+a54e1944-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Crenidium,,,,,,,,,,,,,wfo-0001021064,,,
+a54e3672-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Crenidium,,Haegi,,1981,,"Haegi, Telopea 2(2): 179 (1981)., 1981.",,,,,,,wfo-0001021065,3800240,,

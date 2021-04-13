@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea3afe06-8fd1-11eb-924d-9cd76263cbd0,genus,Securilla,,,,,,,,,,,wfo-4000034926,7302651,
-87fd4b5e-8fcc-11eb-924d-9cd76263cbd0,species,securidaca,Securilla,,"Gaertn. ex Steud.",1821,"Nomencl. Bot. 1: 228 1821",,,,,518219-1,wfo-0000498243,3977597,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea3afe06-8fd1-11eb-924d-9cd76263cbd0,genus,Securilla,,,,,,,,,,,,,,wfo-4000034926,7302651,,
+87fd4b5e-8fcc-11eb-924d-9cd76263cbd0,species,securidaca,Securilla,,"Gaertn. ex Steud.",,1821,,"Nomencl. Bot. 1: 228 1821",,,,,,518219-1,wfo-0000498243,3977597,,

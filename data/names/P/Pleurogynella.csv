@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8bdaae2-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurogynella,,,Ikonn.,1969,"Novosti Sist. Vyssh. Rast. 6: 270. 1969.",,,,,,wfo-4000030343,7270411,
-b8c4de7c-8fcd-11eb-924d-9cd76263cbd0,species,brachyanthera,Pleurogynella,,"(C.B.Clarke) Ikonn.",1969,"Novosti Sist. Vyssh. Rast. 271 1969",,,,b8c4a3f8-8fcd-11eb-924d-9cd76263cbd0,370378-1,wfo-0001063616,3843689,
-b833c028-8fd1-11eb-924d-9cd76263cbd0,species,diffusa,Pleurogynella,,"(Maxim.) Ikonn.",1969,"Novosti Sist. Vyssh. Rast. 6: 271 1969",,,,,,wfo-0001239606,3843682,
-75a8b376-8fcc-11eb-924d-9cd76263cbd0,species,spathulata,Pleurogynella,,"(A.Kern.) Ikonn.",1970,"Novosti Sist. Vyssh. Rast. 6: 271 1970",,,,b82cd218-8fd1-11eb-924d-9cd76263cbd0,370380-1,wfo-0000466758,3843670,
-b8c4fe98-8fcd-11eb-924d-9cd76263cbd0,species,thomsonii,Pleurogynella,,"(C.B.Clarke) Ikonn.",1969,"Novosti Sist. Vyssh. Rast. 6: 271 1969",,,,,,wfo-0001063617,3843662,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8bdaae2-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurogynella,,,Ikonn.,,1969,,"Novosti Sist. Vyssh. Rast. 6: 270. 1969.",,,,,,,wfo-4000030343,7270411,,
+b8c4de7c-8fcd-11eb-924d-9cd76263cbd0,species,brachyanthera,Pleurogynella,,"(C.B.Clarke) Ikonn.",,1969,,"Novosti Sist. Vyssh. Rast. 271 1969",,,,b8c4a3f8-8fcd-11eb-924d-9cd76263cbd0,,370378-1,wfo-0001063616,3843689,,
+b833c028-8fd1-11eb-924d-9cd76263cbd0,species,diffusa,Pleurogynella,,"(Maxim.) Ikonn.",,1969,,"Novosti Sist. Vyssh. Rast. 6: 271 1969",,,,,,,wfo-0001239606,3843682,,
+75a8b376-8fcc-11eb-924d-9cd76263cbd0,species,spathulata,Pleurogynella,,"(A.Kern.) Ikonn.",,1970,,"Novosti Sist. Vyssh. Rast. 6: 271 1970",,,,b82cd218-8fd1-11eb-924d-9cd76263cbd0,,370380-1,wfo-0000466758,3843670,,
+b8c4fe98-8fcd-11eb-924d-9cd76263cbd0,species,thomsonii,Pleurogynella,,"(C.B.Clarke) Ikonn.",,1969,,"Novosti Sist. Vyssh. Rast. 6: 271 1969",,,,,,,wfo-0001063617,3843662,,

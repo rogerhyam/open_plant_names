@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e926d404-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomammillaria,,,Buxb.,1951,"Oesterr. Bot. Z. 98: 84. 1951.",,,,,,wfo-4000031586,7283731,
-460ea53a-8fcc-11eb-924d-9cd76263cbd0,species,albescens,Pseudomammillaria,,"(Tiegel) Buxb.",1951,"Oesterr. Bot. Z. 98: 84 1951",,,,c0f4aa10-8fd1-11eb-924d-9cd76263cbd0,211468-2,wfo-0000397972,3956632,
-b86ae580-8fd1-11eb-924d-9cd76263cbd0,species,camptotricha,Pseudomammillaria,,"(Dams) Buxb.",1951,"Oesterr. Bot. Z. 98: 84 1951",,,,b86aaf16-8fd1-11eb-924d-9cd76263cbd0,211469-2,wfo-0001240019,3956615,
-460e81a4-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Pseudomammillaria,,"(Scheidw.) Buxb.",1951,"Oesterr. Bot. Z. 98: 84 1951",,,,d66d441a-8fd1-11eb-924d-9cd76263cbd0,211470-2,wfo-0000397971,3956604,
-c11f9180-8fd1-11eb-924d-9cd76263cbd0,species,kraehenbuehlii,Pseudomammillaria,,Krainz,1970,"Kakteen And. Sukk. 22(1): Beil. 1970",,,,,211471-2,wfo-0001256233,3956590,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e926d404-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomammillaria,,,Buxb.,,1951,,"Oesterr. Bot. Z. 98: 84. 1951.",,,,,,,wfo-4000031586,7283731,,
+460ea53a-8fcc-11eb-924d-9cd76263cbd0,species,albescens,Pseudomammillaria,,"(Tiegel) Buxb.",,1951,,"Oesterr. Bot. Z. 98: 84 1951",,Q14768691,,c0f4aa10-8fd1-11eb-924d-9cd76263cbd0,,211468-2,wfo-0000397972,3956632,,
+b86ae580-8fd1-11eb-924d-9cd76263cbd0,species,camptotricha,Pseudomammillaria,,"(Dams) Buxb.",,1951,,"Oesterr. Bot. Z. 98: 84 1951",,Q14768691,,b86aaf16-8fd1-11eb-924d-9cd76263cbd0,,211469-2,wfo-0001240019,3956615,,
+460e81a4-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Pseudomammillaria,,"(Scheidw.) Buxb.",,1951,,"Oesterr. Bot. Z. 98: 84 1951",,Q14768691,,d66d441a-8fd1-11eb-924d-9cd76263cbd0,,211470-2,wfo-0000397971,3956604,,
+c11f9180-8fd1-11eb-924d-9cd76263cbd0,species,kraehenbuehlii,Pseudomammillaria,,Krainz,,1970,,"Kakteen And. Sukk. 22(1): Beil. 1970",,,,,,211471-2,wfo-0001256233,3956590,,

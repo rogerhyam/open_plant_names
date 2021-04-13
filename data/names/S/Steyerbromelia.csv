@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ead2dfbe-8fd1-11eb-924d-9cd76263cbd0,genus,Steyerbromelia,,,L.B.Sm.,1984,"Acta Bot. Venez. 14(3): 8. 1984.",,,,,30232679-2,wfo-4000036671,2699751,
-aefe528e-8fcc-11eb-924d-9cd76263cbd0,species,deflexa,Steyerbromelia,,"L.B.Sm. & H.Rob.",1986,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,,,,285599-2,wfo-0000561617,2699762,
-aeffd9d8-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Steyerbromelia,,"L.B.Sm., Steyerm. & H.Rob.",1986,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,,,,30301619-2,wfo-0000561619,2699763,
-aefff8fa-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Steyerbromelia,,"L.B.Sm. & H.Rob.",1986,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,,,,285601-2,wfo-0000561620,2699761,
-af002ef6-8fcc-11eb-924d-9cd76263cbd0,species,neblinae,Steyerbromelia,,B.Holst,1997,"Fl. Venezuelan Guayana 3: 655 1997",,,,,1183703-2,wfo-0000561622,2699754,
-af004ce2-8fcc-11eb-924d-9cd76263cbd0,species,plowmanii,Steyerbromelia,,"(L.B.Sm., Steyerm. & H.Rob.) H.Rob. & D.C.Taylor",1999,"Harvard Pap. Bot. 4: 200 1999",,,,7b1b2230-8fcc-11eb-924d-9cd76263cbd0,1010115-1,wfo-0000561623,2699757,
-af009454-8fcc-11eb-924d-9cd76263cbd0,species,ramosa,Steyerbromelia,,"(L.B.Sm.) B.Holst",1997,"Fl. Venezuelan Guayana 3: 655 1997",,,,,1065817-2,wfo-0000561625,2699758,
-af00ebde-8fcc-11eb-924d-9cd76263cbd0,species,thomasii,Steyerbromelia,,"(L.B.Sm., Steyerm. & H.Rob.) B.Holst",1997,"Fl. Venezuelan Guayana 3: 655 1997",,,,7b2f8824-8fcc-11eb-924d-9cd76263cbd0,1220248-2,wfo-0000561628,2699752,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ead2dfbe-8fd1-11eb-924d-9cd76263cbd0,genus,Steyerbromelia,,,L.B.Sm.,,1984,,"Acta Bot. Venez. 14(3): 8. 1984.",,Q55765037,,,,30232679-2,wfo-4000036671,2699751,,
+aefe528e-8fcc-11eb-924d-9cd76263cbd0,species,deflexa,Steyerbromelia,,"L.B.Sm. & H.Rob.",,1986,,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,Q55765037,,,,285599-2,wfo-0000561617,2699762,,
+aeffd9d8-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Steyerbromelia,,"L.B.Sm., Steyerm. & H.Rob.",,1986,,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,Q55765037,,,,30301619-2,wfo-0000561619,2699763,,
+aefff8fa-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Steyerbromelia,,"L.B.Sm. & H.Rob.",,1986,,"Ann. Missouri Bot. Gard. 73: 700 1986 publ. 1987",,Q55765037,,,,285601-2,wfo-0000561620,2699761,,
+af002ef6-8fcc-11eb-924d-9cd76263cbd0,species,neblinae,Steyerbromelia,,B.Holst,,1997,,"Fl. Venezuelan Guayana 3: 655 1997",,,,,,1183703-2,wfo-0000561622,2699754,,
+af004ce2-8fcc-11eb-924d-9cd76263cbd0,species,plowmanii,Steyerbromelia,,"(L.B.Sm., Steyerm. & H.Rob.) H.Rob. & D.C.Taylor",,1999,,"Harvard Pap. Bot. 4: 200 1999",,Q95388854,,7b1b2230-8fcc-11eb-924d-9cd76263cbd0,,1010115-1,wfo-0000561623,2699757,,
+af009454-8fcc-11eb-924d-9cd76263cbd0,species,ramosa,Steyerbromelia,,"(L.B.Sm.) B.Holst",,1997,,"Fl. Venezuelan Guayana 3: 655 1997",,,,,,1065817-2,wfo-0000561625,2699758,,
+af00ebde-8fcc-11eb-924d-9cd76263cbd0,species,thomasii,Steyerbromelia,,"(L.B.Sm., Steyerm. & H.Rob.) B.Holst",,1997,,"Fl. Venezuelan Guayana 3: 655 1997",,,,7b2f8824-8fcc-11eb-924d-9cd76263cbd0,,1220248-2,wfo-0000561628,2699752,,

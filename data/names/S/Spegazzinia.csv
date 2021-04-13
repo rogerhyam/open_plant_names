@@ -1,5 +1,29 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea92bd1c-8fd1-11eb-924d-9cd76263cbd0,genus,Spegazzinia,,,Backeb.,1934,"Blätt. Kakteenf. 1934(4): [3]. 1934.",,,,,,wfo-4000035916,7279766,
-657dfb46-8fcc-11eb-924d-9cd76263cbd0,species,cumingii,Spegazzinia,,"(Hopffer) Backeb.",1935,"Blätt. Kakteenf. 2(12): 3 1935",,,,ea0c6d48-8fcc-11eb-924d-9cd76263cbd0,138540-1,wfo-0000439003,7279774,
-bb8f3c66-8fd1-11eb-924d-9cd76263cbd0,species,fidaiana,Spegazzinia,,Backeb.,1934,"Blätt. Kakteenf. 1934(4): [3]–[4] 1934",,,,,241271-2,wfo-0001245822,5619488,
-65a829f2-8fcc-11eb-924d-9cd76263cbd0,species,neumanniana,Spegazzinia,,Backeb.,1934,"Blätt. Kakteenf. 1(4): 3 1934",,,,,,wfo-0000439264,5619482,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea92bd1c-8fd1-11eb-924d-9cd76263cbd0,genus,Spegazzinia,,,Backeb.,,1934,,"Blätt. Kakteenf. 1934(4): [3]. 1934.",,,,ea92bd1c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000035916,7279766,9963," "
+90818420-9bac-11eb-a8a2-19ed5c03f8d3,species,ammophilae,Spegazzinia,,Rostr.,,,,,,,,90818420-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200647," "
+9055a760-9bac-11eb-a8a2-19ed5c03f8d3,species,brasiliensis,Spegazzinia,,Speg.,,,,,,,,9055a760-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200408," "
+90773aba-9bac-11eb-a8a2-19ed5c03f8d3,species,calyptrospora,Spegazzinia,,Höhn.,,,,,,,,90773aba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200570," "
+0d1428e0-9bac-11eb-a8a2-19ed5c03f8d3,species,chandleri,Spegazzinia,,Hansf.,,1943,,"Proc. Linn. Soc. London 155: 62 (1943)",,,,0d1428e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,291035," "
+905cfcb8-9bac-11eb-a8a2-19ed5c03f8d3,species,coffeae,Spegazzinia,,Henn.,,,,,,,,905cfcb8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200443," "
+657dfb46-8fcc-11eb-924d-9cd76263cbd0,species,cumingii,Spegazzinia,,"(Hopffer) Backeb.",,1935,,"Blätt. Kakteenf. 2(12): 3 1935",,,,ea0c6d48-8fcc-11eb-924d-9cd76263cbd0,,138540-1,wfo-0000439003,7279774,,
+ce51efa6-9bac-11eb-a8a2-19ed5c03f8d3,species,deightonii,Spegazzinia,,"(S. Hughes) Subram.",,1956,,"J. Indian bot. Soc. 35: 78 (1956)",,,,2be0c75a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,306062," "
+90872ab0-9bac-11eb-a8a2-19ed5c03f8d3,species,effusa,Spegazzinia,,"P. Karst.",,,,,,,,90872ab0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200691," "
+bb8f3c66-8fd1-11eb-924d-9cd76263cbd0,species,fidaiana,Spegazzinia,,Backeb.,,1934,,"Blätt. Kakteenf. 1934(4): [3]–[4] 1934",,,,,,241271-2,wfo-0001245822,5619488,,
+160d5bf0-9bad-11eb-a8a2-19ed5c03f8d3,species,intermedia,Spegazzinia,,"M.B. Ellis",,1976,,"More Dematiaceous Hyphomycetes (Kew) 475 (1976)",,,,160d5bf0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,323663," "
+24340b58-9bac-11eb-a8a2-19ed5c03f8d3,species,lobata,Spegazzinia,,"(Berk. & Broome) Höhn.",,1903,,"Annls mycol. 1(5): 414 (1903)",,,,7c3ab83e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,101658," "
+cf2ee9b0-9bac-11eb-a8a2-19ed5c03f8d3,species,lobulata,Spegazzinia,,Thrower,,1954,,"in McLennan, Ducker & Thrower, Aust. J. Bot. 2(3): 362 (1954)",,,,cf2ee9b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,306063," "
+72e99820-9bad-11eb-a8a2-19ed5c03f8d3,species,meliolae,Spegazzinia,,Zimm.,,,,,,,,72e99820-9bad-11eb-a8a2-19ed5c03f8d3,,,,,200503," "
+1f40a6b0-9bac-11eb-a8a2-19ed5c03f8d3,species,meliolicola,Spegazzinia,,Henn.,,,,,,,,1f40a6b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200664," "
+65a829f2-8fcc-11eb-924d-9cd76263cbd0,species,neumanniana,Spegazzinia,,Backeb.,,1934,,"Blätt. Kakteenf. 1(4): 3 1934",,,,,,,wfo-0000439264,5619482,,
+57532910-9bac-11eb-a8a2-19ed5c03f8d3,species,ornata,Spegazzinia,,Sacc.,,1880,,"Michelia 2(no. 6): 172 (1880)",,,,57532910-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197179," "
+160d860c-9bad-11eb-a8a2-19ed5c03f8d3,species,parkeri,Spegazzinia,,Sivasith.,,1974,,"Trans. Br. mycol. Soc. 62(2): 427 (1974)",,,,160d860c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,323664," "
+c14dcf0a-9bac-11eb-a8a2-19ed5c03f8d3,species,rubra,Spegazzinia,,"Dearn. & House",,,,,,,,c14dcf0a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,276974," "
+51021aca-9bad-11eb-a8a2-19ed5c03f8d3,species,subramanianii,Spegazzinia,,Bhat,,1994,,"Indian J. For. 17(2): 131 (1994)",,,,51021aca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,416109," "
+cf80b934-9bac-11eb-a8a2-19ed5c03f8d3,species,sundara,Spegazzinia,,Subram.,,1956,,"J. Indian bot. Soc. 35: 78 (1956)",,,,cf80b934-9bac-11eb-a8a2-19ed5c03f8d3,,,,,306064," "
+160dcbda-9bad-11eb-a8a2-19ed5c03f8d3,species,terrestris,Spegazzinia,,"R.Y. Roy, R.S. Dwivedi",,1969,,"Proc. 56th Indian Sci. Congr. 3: 307 (1969)",,,,160dcbda-9bad-11eb-a8a2-19ed5c03f8d3,,,,,323665," "
+b7ba8b12-9bad-11eb-a8a2-19ed5c03f8d3,species,tessarthra,Spegazzinia,,"(Berk. & M.A. Curtis) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 758 (1886)",,,,118074d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219777," "
+2be0c75a-9bad-11eb-a8a2-19ed5c03f8d3,variety,deightonii,Spegazzinia,tessarthra,"S. Hughes",,1953,,"Mycol. Pap. 50: 65 (1953)",,,,2be0c75a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,347616," "
+b5c407b2-9bac-11eb-a8a2-19ed5c03f8d3,variety,tessarthra,Spegazzinia,tessarthra,"(Berk. & M.A. Curtis) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 758 (1886)",,,,b5c407b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,426600," "
+107e0474-9bac-11eb-a8a2-19ed5c03f8d3,species,trichophila,Spegazzinia,,"G.F. Atk.",,,,,,,,107e0474-9bac-11eb-a8a2-19ed5c03f8d3,,,,,196868," "
+7dd64bd6-9bab-11eb-a8a2-19ed5c03f8d3,species,tucumanensis,Spegazzinia,,Speg.,,1896,,"Revta Fac. Agron. Univ. nac. La Plata 2(no. 19): 256 (1896)",,,,7dd64bd6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,197036," "
+ae211b5c-9bad-11eb-a8a2-19ed5c03f8d3,species,xanthorrhoeae,Spegazzinia,,Subram.,,1988,,"Proc. Indian Acad. Sci., Pl. Sci. 98(2): 67 (1988)",,,,ae211b5c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,134198," "

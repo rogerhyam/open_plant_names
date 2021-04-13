@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e828d8f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pentaphylax,,,"Gardner & Champ.",1849,"Hooker's J. Bot. Kew Gard. Misc. 1: 244. 1849.",,,,,39102-1,wfo-4000028613,7311006,
-c52521a4-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pentaphylax,,Ridl.,1925,"Fl. Malay. Penin. 5: 291 1925",,,,,676130-1,wfo-0001091507,4259208,
-c524e7ac-8fcd-11eb-924d-9cd76263cbd0,species,euryoides,Pentaphylax,,"Gardner & Champ.",1849,"Hooker's J. Bot. Kew Gard. Misc. 1: 245–246 1849",,,,,,wfo-0001091505,4259206,
-c525049e-8fcd-11eb-924d-9cd76263cbd0,species,malayana,Pentaphylax,,Ridl.,1908,"J. Linn. Soc., Bot. 38(266): 305 1908",,,,,676131-1,wfo-0001091506,4259203,
-c5253e0a-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Pentaphylax,,"Merr. & Chun",1930,"Sunyatsenia 1(1): 66 1930",,,,,676132-1,wfo-0001091508,4259207,
-c5255aca-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Pentaphylax,,Merr.,1938,"J. Arnold Arbor. 19(1): 40–41 1938",,,,,676133-1,wfo-0001091509,4259205,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e828d8f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pentaphylax,,,"Gardner & Champ.",,1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 244. 1849.",,,,,,39102-1,wfo-4000028613,7311006,,
+c52521a4-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pentaphylax,,Ridl.,,1925,,"Fl. Malay. Penin. 5: 291 1925",,,,,,676130-1,wfo-0001091507,4259208,,
+c524e7ac-8fcd-11eb-924d-9cd76263cbd0,species,euryoides,Pentaphylax,,"Gardner & Champ.",,1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 245–246 1849",,,,,,,wfo-0001091505,4259206,,
+c525049e-8fcd-11eb-924d-9cd76263cbd0,species,malayana,Pentaphylax,,Ridl.,,1908,,"J. Linn. Soc., Bot. 38(266): 305 1908",,Q29040356,,,,676131-1,wfo-0001091506,4259203,,
+c5253e0a-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Pentaphylax,,"Merr. & Chun",,1930,,"Sunyatsenia 1(1): 66 1930",,,,,,676132-1,wfo-0001091508,4259207,,
+c5255aca-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Pentaphylax,,Merr.,,1938,,"J. Arnold Arbor. 19(1): 40–41 1938",,Q100559033,,,,676133-1,wfo-0001091509,4259205,,

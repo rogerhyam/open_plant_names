@@ -1,8 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e19517c8-8fd1-11eb-924d-9cd76263cbd0,genus,Chevalierella,,,A.Camus,1933,"Rev. Bot. Appl. Agric. Trop. 13: 421. 1933.",,,,,17731-1,wfo-4000007830,3232871,
-4e7fa5a6-8fcd-11eb-924d-9cd76263cbd0,species,congoensis,Chevalierella,,A.Camus,1933,"Rev. Bot. Appl. Agric. Trop. 13: 422 1933",,,,,395693-1,wfo-0000859204,5671958,
-4e7fe282-8fcd-11eb-924d-9cd76263cbd0,species,dewildemanii,Chevalierella,,"(Vanderyst) Van der Veken ex Compère",1963,"Bull. Jard. Bot. État 33: 393 1963",,,,,395695-1,wfo-0000859206,5671955,
-c7fe3b6e-8fcc-11eb-924d-9cd76263cbd0,species,glabrum,Chevalierodendron,,"(Merr.) J.-F.Leroy",1948,"Compt. Rend. Hebd. Séances Acad. Sci. 227: 146 1948",,,,,582867-1,wfo-0000601971,3767376,
-30003168-8fcd-11eb-924d-9cd76263cbd0,species,chevallieriana,,,"(E.G.Camus) J.M.H.Shaw",2005,"Orchid Rev. 113: 266 2005",,,,ec5c931c-8fcb-11eb-924d-9cd76263cbd0,77068504-1,wfo-0000793787,,
-ec3f2ce6-8fcb-11eb-924d-9cd76263cbd0,species,chevallieriana,,,"(E.G.Camus) E.G.Camus",1892,"J. Bot. (Morot) 6: 474 1892",,,,ec5c931c-8fcb-11eb-924d-9cd76263cbd0,648204-1,wfo-0000258874,,
-03f863b6-8fcc-11eb-924d-9cd76263cbd0,species,chevallieriana,,,"(E.G.Camus) Soó",1966,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 319 1966",,,,ec5c931c-8fcb-11eb-924d-9cd76263cbd0,655671-1,wfo-0000296267,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e19517c8-8fd1-11eb-924d-9cd76263cbd0,genus,Chevalierella,,,A.Camus,,1933,,"Rev. Bot. Appl. Agric. Trop. 13: 421. 1933.",,Q96002246,,,,17731-1,wfo-4000007830,3232871,,
+4e7fa5a6-8fcd-11eb-924d-9cd76263cbd0,species,congoensis,Chevalierella,,A.Camus,,1933,,"Rev. Bot. Appl. Agric. Trop. 13: 422 1933",,Q96002246,,,,395693-1,wfo-0000859204,5671958,,
+4e7fe282-8fcd-11eb-924d-9cd76263cbd0,species,dewildemanii,Chevalierella,,"(Vanderyst) Van der Veken ex Compère",,1963,,"Bull. Jard. Bot. État 33: 393 1963",,Q55775963,,,,395695-1,wfo-0000859206,5671955,,

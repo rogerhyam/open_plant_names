@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5fecb6a-8fd1-11eb-924d-9cd76263cbd0,genus,Lithodraba,,,Boelcke,1951,"Darwiniana 9: 349. 1951.",,,,,294650-2,wfo-4000021979,3041113,
-b6fe687a-8fd1-11eb-924d-9cd76263cbd0,species,mendocinensis,Lithodraba,,"(Hauman) Boelcke",1952,"Darwiniana 9(3–4): 351 1952",,,,b6fe4b4c-8fd1-11eb-924d-9cd76263cbd0,141720-2,wfo-0001237415,3041114,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5fecb6a-8fd1-11eb-924d-9cd76263cbd0,genus,Lithodraba,,,Boelcke,,1951,,"Darwiniana 9: 349. 1951.",,Q104174134,,,,294650-2,wfo-4000021979,3041113,,
+b6fe687a-8fd1-11eb-924d-9cd76263cbd0,species,mendocinensis,Lithodraba,,"(Hauman) Boelcke",,1952,,"Darwiniana 9(3–4): 351 1952",,Q104174134,,b6fe4b4c-8fd1-11eb-924d-9cd76263cbd0,,141720-2,wfo-0001237415,3041114,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e622ee78-8fd1-11eb-924d-9cd76263cbd0,genus,Lupulina,,,,,,,,,,,wfo-4000022445,7301923,
-2d5d67ce-8fcc-11eb-924d-9cd76263cbd0,species,aurata,Lupulina,,Noulet,1837,"Fl. Bass. Sous-Pyrén. 156 1837",,,,,505281-1,wfo-0000363128,5630116,
-6932ae12-8fcc-11eb-924d-9cd76263cbd0,species,amarus,Lupulus,,Gilib.,1792,"Exerc. Phyt. 2: 451 1792",,,,,854428-1,wfo-0000445343,6042974,
-69327302-8fcc-11eb-924d-9cd76263cbd0,species,communis,Lupulus,,Gaertn.,1788,"Fruct. Sem. Pl. 1: 358 1788",,,,,854429-1,wfo-0000445341,6042972,
-8e2a7be6-8fcc-11eb-924d-9cd76263cbd0,species,hillii,Lupulus,,"(F.Muell.) Kuntze",1891,"Revis. Gen. Pl. 1: 120 1891",,,,,231258-1,wfo-0000508181,5603216,
-69325548-8fcc-11eb-924d-9cd76263cbd0,species,humulus,Lupulus,,Mill.,1768,"Gard. Dict. ed. 8 s.p. 1768",,,,,854430-1,wfo-0000445340,7489412,
-8e2ada32-8fcc-11eb-924d-9cd76263cbd0,species,orbicularis,Lupulus,,"(Walp.) Kuntze",1891,"Revis. Gen. Pl. 1: 119 1891",,,,,231261-1,wfo-0000508182,5603204,
-69352bce-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Lupulus,,Lam.,1779,"Fl. Franç. 2: 217 1779",,,,,854431-1,wfo-0000445359,7969014,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e622ee78-8fd1-11eb-924d-9cd76263cbd0,genus,Lupulina,,,,,,,,,,,,,,wfo-4000022445,7301923,,
+2d5d67ce-8fcc-11eb-924d-9cd76263cbd0,species,aurata,Lupulina,,Noulet,,1837,,"Fl. Bass. Sous-Pyrén. 156 1837",,,,,,505281-1,wfo-0000363128,5630116,,
+6932ae12-8fcc-11eb-924d-9cd76263cbd0,species,amarus,Lupulus,,Gilib.,,1792,,"Exerc. Phyt. 2: 451 1792",,,,,,854428-1,wfo-0000445343,6042974,,
+69327302-8fcc-11eb-924d-9cd76263cbd0,species,communis,Lupulus,,Gaertn.,,1788,,"Fruct. Sem. Pl. 1: 358 1788",,,,,,854429-1,wfo-0000445341,6042972,,
+8e2a7be6-8fcc-11eb-924d-9cd76263cbd0,species,hillii,Lupulus,,"(F.Muell.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 120 1891",,,,,,231258-1,wfo-0000508181,5603216,,
+69325548-8fcc-11eb-924d-9cd76263cbd0,species,humulus,Lupulus,,Mill.,,1768,,"Gard. Dict. ed. 8 s.p. 1768",,,,,,854430-1,wfo-0000445340,7489412,,
+8e2ada32-8fcc-11eb-924d-9cd76263cbd0,species,orbicularis,Lupulus,,"(Walp.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 119 1891",,,,,,231261-1,wfo-0000508182,5603204,,
+69352bce-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Lupulus,,Lam.,,1779,,"Fl. Franç. 2: 217 1779",,,,,,854431-1,wfo-0000445359,7969014,,

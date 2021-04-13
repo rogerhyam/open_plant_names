@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e27d36f2-8fd1-11eb-924d-9cd76263cbd0,genus,Dapsilanthus,,,"B.G.Briggs & L.A.S.Johnson",1998,"Telopea 7: 369. 1998.",,,,,1001700-1,wfo-4000010771,2706825,
-3c8ee0ce-8fcc-11eb-924d-9cd76263cbd0,species,disjunctus,Dapsilanthus,,"(Mast.) B.G.Briggs & L.A.S.Johnson",1998,"Telopea 8: 25 1998",,,,718066f4-8fcc-11eb-924d-9cd76263cbd0,1005489-1,wfo-0000385684,2706826,
-3c8f69d6-8fcc-11eb-924d-9cd76263cbd0,species,elatior,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",1998,"Telopea 7: 371 1998",,,,,1001701-1,wfo-0000385688,2706836,
-3c90cace-8fcc-11eb-924d-9cd76263cbd0,species,ramosus,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",1998,"Telopea 8: 25 1998",,,,71a54b22-8fcc-11eb-924d-9cd76263cbd0,1005490-1,wfo-0000385697,2706834,
-3c91ffd4-8fcc-11eb-924d-9cd76263cbd0,species,spathaceus,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",1998,"Telopea 8: 26 1998",,,,71afa40a-8fcc-11eb-924d-9cd76263cbd0,1005491-1,wfo-0000385705,2706829,
-dd2dd7ba-8fcc-11eb-924d-9cd76263cbd0,species,umbellulata,Darbya,,A.Gray,1846,"Amer. J. Sci. Arts II, 1: 386 1846",,,,,780116-1,wfo-0000638140,5578998,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e27d36f2-8fd1-11eb-924d-9cd76263cbd0,genus,Dapsilanthus,,,"B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 7: 369. 1998.",,Q55801438,,,,1001700-1,wfo-4000010771,2706825,,
+3c8ee0ce-8fcc-11eb-924d-9cd76263cbd0,species,disjunctus,Dapsilanthus,,"(Mast.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 8: 25 1998",,Q55801447,,718066f4-8fcc-11eb-924d-9cd76263cbd0,,1005489-1,wfo-0000385684,2706826,,
+3c8f69d6-8fcc-11eb-924d-9cd76263cbd0,species,elatior,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 7: 371 1998",,Q55801438,,,,1001701-1,wfo-0000385688,2706836,,
+3c90cace-8fcc-11eb-924d-9cd76263cbd0,species,ramosus,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 8: 25 1998",,Q55801447,,71a54b22-8fcc-11eb-924d-9cd76263cbd0,,1005490-1,wfo-0000385697,2706834,,
+3c91ffd4-8fcc-11eb-924d-9cd76263cbd0,species,spathaceus,Dapsilanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 8: 26 1998",,Q55801447,,71afa40a-8fcc-11eb-924d-9cd76263cbd0,,1005491-1,wfo-0000385705,2706829,,

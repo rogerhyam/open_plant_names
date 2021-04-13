@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6efae90-8fd1-11eb-924d-9cd76263cbd0,genus,Moullava,,,Adans.,,,,,,,20124-1,wfo-4000024916,2941154,
-2e177162-8fc4-11eb-924d-9cd76263cbd0,species,spicata,Moullava,,"(Dalzell) Nicolson",,,,,,,,wfo-0000186810,2941155,
-ca527d62-8fd1-11eb-924d-9cd76263cbd0,species,singularis,Moultonia,,"Balf.f. & W.W.Sm.",1915,"Notes Roy. Bot. Gard. Edinburgh 8(40): 349–351 1915",,,,,381838-1,wfo-0001273244,5590655,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6efae90-8fd1-11eb-924d-9cd76263cbd0,genus,Moullava,,,Adans.,,,,,,,,,,20124-1,wfo-4000024916,2941154,,
+2e177162-8fc4-11eb-924d-9cd76263cbd0,species,spicata,Moullava,,"(Dalzell) Nicolson",,,,,,,,,,,wfo-0000186810,2941155,,
+ca527d62-8fd1-11eb-924d-9cd76263cbd0,species,singularis,Moultonia,,"Balf.f. & W.W.Sm.",,1915,,"Notes Roy. Bot. Gard. Edinburgh 8(40): 349–351 1915",,Q102419174,,,,381838-1,wfo-0001273244,5590655,,

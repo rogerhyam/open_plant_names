@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8204dd8-8fd1-11eb-924d-9cd76263cbd0,genus,Peltophorus,,,,,,,,,,,wfo-4000028516,6432760,
-5c60b0fc-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Peltophorus,,"(Hack.) A.Camus",1921,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,,414871-1,wfo-0000888682,5679640,
-5c611d8a-8fcd-11eb-924d-9cd76263cbd0,species,divergens,Peltophorus,,"(Hack.) A.Camus",1921,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,606cb2a4-8fcd-11eb-924d-9cd76263cbd0,414872-1,wfo-0000888683,5679639,
-5c61be8e-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Peltophorus,,P.Beauv.,1812,"Ess. Agrostogr. 172 1812",,,,,414873-1,wfo-0000888684,5679638,
-5c61f30e-8fcd-11eb-924d-9cd76263cbd0,species,myurus,Peltophorus,,"(L.) Desv.",1810,"Nouv. Bull. Sci. Soc. Philom. Paris 2: 188 1810",,,,5786e9ca-8fcd-11eb-924d-9cd76263cbd0,414874-1,wfo-0000888685,5679637,
-5c6211fe-8fcd-11eb-924d-9cd76263cbd0,species,sulcatus,Peltophorus,,Stapf,1917,"Fl. Trop. Afr. 9: 59 1917",,,,,414875-1,wfo-0000888686,5679636,
-5c623120-8fcd-11eb-924d-9cd76263cbd0,species,talbotii,Peltophorus,,"(Hook.f.) A.Camus",1921,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,,414876-1,wfo-0000888687,5679635,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8204dd8-8fd1-11eb-924d-9cd76263cbd0,genus,Peltophorus,,,,,,,,,,,,,,wfo-4000028516,6432760,,
+5c60b0fc-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Peltophorus,,"(Hack.) A.Camus",,1921,,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,,,414871-1,wfo-0000888682,5679640,,
+5c611d8a-8fcd-11eb-924d-9cd76263cbd0,species,divergens,Peltophorus,,"(Hack.) A.Camus",,1921,,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,606cb2a4-8fcd-11eb-924d-9cd76263cbd0,,414872-1,wfo-0000888683,5679639,,
+5c61be8e-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Peltophorus,,P.Beauv.,,1812,,"Ess. Agrostogr. 172 1812",,,,,,414873-1,wfo-0000888684,5679638,,
+5c61f30e-8fcd-11eb-924d-9cd76263cbd0,species,myurus,Peltophorus,,"(L.) Desv.",,1810,,"Nouv. Bull. Sci. Soc. Philom. Paris 2: 188 1810",,,,5786e9ca-8fcd-11eb-924d-9cd76263cbd0,,414874-1,wfo-0000888685,5679637,,
+5c6211fe-8fcd-11eb-924d-9cd76263cbd0,species,sulcatus,Peltophorus,,Stapf,,1917,,"Fl. Trop. Afr. 9: 59 1917",,,,,,414875-1,wfo-0000888686,5679636,,
+5c623120-8fcd-11eb-924d-9cd76263cbd0,species,talbotii,Peltophorus,,"(Hook.f.) A.Camus",,1921,,"Bull. Mus. Natl. Hist. Nat. 27: 371 1921",,,,,,414876-1,wfo-0000888687,5679635,,

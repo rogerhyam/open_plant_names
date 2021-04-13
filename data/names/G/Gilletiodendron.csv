@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4017e02-8fd1-11eb-924d-9cd76263cbd0,genus,Gilletiodendron,,,Vermoesen,,,,,,,22486-1,wfo-4000015652,2944302,
-c5593474-8fc0-11eb-924d-9cd76263cbd0,species,escherichii,Gilletiodendron,,"(Harms) J.Leonard",,,,,,c5c827d0-8fc0-11eb-924d-9cd76263cbd0,,wfo-0000167999,2944303,
-c60b0ffa-8fc0-11eb-924d-9cd76263cbd0,species,glandulosum,Gilletiodendron,,"(Porteres) J.Leonard",,,,,,,,wfo-0000168015,2944305,
-c7381fda-8fc0-11eb-924d-9cd76263cbd0,species,kisantuense,Gilletiodendron,,"(De Wild.) J.Leonard",,,,,,c82bf150-8fc0-11eb-924d-9cd76263cbd0,,wfo-0000168042,,
-b62a06d8-8fcd-11eb-924d-9cd76263cbd0,species,klainei,Gilletiodendron,,Vermoesen,1923,"Man. Essences Forest. Congo Belg. 85 1923",,,,,496564-1,wfo-0001057658,3980726,
-c8f39962-8fc0-11eb-924d-9cd76263cbd0,species,mildbraedii,Gilletiodendron,,"(Harms) Vermoesen",,,,,,,,wfo-0000168083,2944310,
-c9c6c904-8fc0-11eb-924d-9cd76263cbd0,species,pierreanum,Gilletiodendron,,"(Harms) J.Leonard",,,,,,,,wfo-0000168103,2944308,
-5eeb3014-8fcc-11eb-924d-9cd76263cbd0,species,sepalosa,Gillettia,,"(C.B.Clarke) Rendle",1896,"J. Bot. 34: 56 1896",,,,ae233b36-8fcc-11eb-924d-9cd76263cbd0,172795-1,wfo-0000429945,5303588,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4017e02-8fd1-11eb-924d-9cd76263cbd0,genus,Gilletiodendron,,,Vermoesen,,,,,,,,,,22486-1,wfo-4000015652,2944302,,
+c5593474-8fc0-11eb-924d-9cd76263cbd0,species,escherichii,Gilletiodendron,,"(Harms) J.Leonard",,,,,,,,c5c827d0-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000167999,2944303,,
+c60b0ffa-8fc0-11eb-924d-9cd76263cbd0,species,glandulosum,Gilletiodendron,,"(Porteres) J.Leonard",,,,,,,,,,,wfo-0000168015,2944305,,
+c7381fda-8fc0-11eb-924d-9cd76263cbd0,species,kisantuense,Gilletiodendron,,"(De Wild.) J.Leonard",,,,,,,,c82bf150-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000168042,,,
+b62a06d8-8fcd-11eb-924d-9cd76263cbd0,species,klainei,Gilletiodendron,,Vermoesen,,1923,,"Man. Essences Forest. Congo Belg. 85 1923",,,,,,496564-1,wfo-0001057658,3980726,,
+c8f39962-8fc0-11eb-924d-9cd76263cbd0,species,mildbraedii,Gilletiodendron,,"(Harms) Vermoesen",,,,,,,,,,,wfo-0000168083,2944310,,
+c9c6c904-8fc0-11eb-924d-9cd76263cbd0,species,pierreanum,Gilletiodendron,,"(Harms) J.Leonard",,,,,,,,,,,wfo-0000168103,2944308,,
+5eeb3014-8fcc-11eb-924d-9cd76263cbd0,species,sepalosa,Gillettia,,"(C.B.Clarke) Rendle",,1896,,"J. Bot. 34: 56 1896",,,,ae233b36-8fcc-11eb-924d-9cd76263cbd0,,172795-1,wfo-0000429945,5303588,,

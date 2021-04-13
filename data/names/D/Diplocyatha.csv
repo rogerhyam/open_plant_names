@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2db2fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplocyatha,,,N.E.Br.,1878,"J. Linn. Soc., Bot. 17: 167. 1878.",,,,,,wfo-4000011976,7311722,
-e3e62e4a-8fcc-11eb-924d-9cd76263cbd0,species,ciliata,Diplocyatha,,"(Thunb.) N.E.Br.",1878,"J. Linn. Soc., Bot. 17: 167 1878",,,,,96871-1,wfo-0000650175,3571365,
-80ce578c-8fcd-11eb-924d-9cd76263cbd0,species,capitulatum,Diplocyathium,,"(Rchb.) Heinr.Schmidt",1907,"Beih. Bot. Centralbl. 22(1): 40 1907",,,,,,wfo-0000944039,3065426,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2db2fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Diplocyatha,,,N.E.Br.,,1878,,"J. Linn. Soc., Bot. 17: 167. 1878.",,,,,,,wfo-4000011976,7311722,,
+e3e62e4a-8fcc-11eb-924d-9cd76263cbd0,species,ciliata,Diplocyatha,,"(Thunb.) N.E.Br.",,1878,,"J. Linn. Soc., Bot. 17: 167 1878",,Q55760172,,,,96871-1,wfo-0000650175,3571365,,
+80ce578c-8fcd-11eb-924d-9cd76263cbd0,species,capitulatum,Diplocyathium,,"(Rchb.) Heinr.Schmidt",,1907,,"Beih. Bot. Centralbl. 22(1): 40 1907",,,,,,,wfo-0000944039,3065426,,

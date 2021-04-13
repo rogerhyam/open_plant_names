@@ -1,9 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1bda332-8fd1-11eb-924d-9cd76263cbd0,genus,Cinsania,,,,,,,,,,,wfo-4000008346,7327529,
-ca178ed2-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Cinsania,,Lavy,1830,"État Général Vég. Orig. 11 1830",,,,,327562-1,wfo-0000605554,4164243,
-ca17ae3a-8fcc-11eb-924d-9cd76263cbd0,species,knizei,Cintia,,Říha,1996,"Kaktusy (Brno) 31: 35 1996",,,,,,wfo-0000605555,5619691,
-c6a64522-8fcc-11eb-924d-9cd76263cbd0,species,cintiae,,,"Halda, Malina & Panar.",2003,"Acta Mus. Richnov. Sect. Nat. 10: 151 2003",,,,,60437758-2,wfo-0000599732,,
-ca17cd20-8fcc-11eb-924d-9cd76263cbd0,species,angustiloba,Cionandra,,Bello,1881,"Anales Soc. Esp. Hist. Nat. 10: 274 1881",,,,,291913-1,wfo-0000605556,3625871,
-ca17eb8e-8fcc-11eb-924d-9cd76263cbd0,species,cuspidata,Cionandra,,Griseb.,1860,"Fl. Brit. W. I. 287 1860",,,,,291914-1,wfo-0000605557,3625861,
-ca180b6e-8fcc-11eb-924d-9cd76263cbd0,species,graciliflora,Cionandra,,Griseb.,1860,"Fl. Brit. W. I. 287 1860",,,,,291915-1,wfo-0000605558,3625850,
-ca187518-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Cionandra,,"(Mill.) Griseb.",1860,"Fl. Brit. W. I. 286 1860",,,,,291916-1,wfo-0000605560,3625836,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1bda332-8fd1-11eb-924d-9cd76263cbd0,genus,Cinsania,,,,,,,,,,,,,,wfo-4000008346,7327529,,
+ca178ed2-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Cinsania,,Lavy,,1830,,"État Général Vég. Orig. 11 1830",,,,,,327562-1,wfo-0000605554,4164243,,
+ca17ae3a-8fcc-11eb-924d-9cd76263cbd0,species,knizei,Cintia,,Říha,,1996,,"Kaktusy (Brno) 31: 35 1996",,,,,,,wfo-0000605555,5619691,,
+c6a64522-8fcc-11eb-924d-9cd76263cbd0,species,cintiae,,,"Halda, Malina & Panar.",,2003,,"Acta Mus. Richnov. Sect. Nat. 10: 151 2003",,,,,,60437758-2,wfo-0000599732,,,

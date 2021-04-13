@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e55a1174-8fd1-11eb-924d-9cd76263cbd0,genus,Kerbera,,,E.Fourn.,1885,"Fl. Bras. 6(4): 290. 1885.",,,,,3455-1,wfo-4000019944,7312642,
-ca1082d0-8fcd-11eb-924d-9cd76263cbd0,species,eichleri,Kerbera,,E.Fourn.,1885,"Fl. Bras. 6(4): 290 1885",,,,,98890-1,wfo-0001102134,3581484,
-6d3a858e-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Kerchovea,,Joriss.,1882,"Ann. Bot. Hort. 32: 201 1882",,,,,797220-1,wfo-0000452548,2761257,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e55a1174-8fd1-11eb-924d-9cd76263cbd0,genus,Kerbera,,,E.Fourn.,,1885,,"Fl. Bras. 6(4): 290. 1885.",,,,,,3455-1,wfo-4000019944,7312642,,
+ca1082d0-8fcd-11eb-924d-9cd76263cbd0,species,eichleri,Kerbera,,E.Fourn.,,1885,,"Fl. Bras. 6(4): 290 1885",,,,,,98890-1,wfo-0001102134,3581484,,
+6d3a858e-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Kerchovea,,Joriss.,,1882,,"Ann. Bot. Hort. 32: 201 1882",,,,,,797220-1,wfo-0000452548,2761257,,

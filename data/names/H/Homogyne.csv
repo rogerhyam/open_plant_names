@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d4b326-8fd1-11eb-924d-9cd76263cbd0,genus,Homogyne,,,Cass.,,,,,,,9405-1,wfo-4000018189,3133688,
-bda8b490-8fb4-11eb-924d-9cd76263cbd0,species,alpina,Homogyne,,"(L.) Cass.",,412,,,,,,wfo-0000069222,3133692,
-3a3fcd48-8fb2-11eb-924d-9cd76263cbd0,species,ausserdorferi,Homogyne,,"Huter ex Murr",1910,"Allg. Bot. Z. Syst. xvi. 122 (1910).",,,,,,wfo-0000016451,4234314,
-204ba16e-8fb2-11eb-924d-9cd76263cbd0,species,discolor,Homogyne,,"(Jacq.) Cass.",1821,"413 1821",,,,5d86da08-8fb2-11eb-924d-9cd76263cbd0,225018-1,wfo-0000012510,3133689,
-5a020910-8fb3-11eb-924d-9cd76263cbd0,species,montana,Homogyne,,C.Froel.,,"Alpenfl. v. t. 5.",,,,,225019-1,wfo-0000046582,,
-a1fb993a-8fb2-11eb-924d-9cd76263cbd0,species,sylvestris,Homogyne,,"(Jacq.) Cass.",1821,1821,,,,,143966-3,wfo-0000030300,4234296,
-5587723e-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Homoiachne,,"(Boiss.) Pilg.",1949,"Bot. Jahrb. Syst. 74: 556 1949",,,,,405117-1,wfo-0000874616,4149777,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d4b326-8fd1-11eb-924d-9cd76263cbd0,genus,Homogyne,,,Cass.,,,,,,,,,,9405-1,wfo-4000018189,3133688,,
+bda8b490-8fb4-11eb-924d-9cd76263cbd0,species,alpina,Homogyne,,"(L.) Cass.",,,,412,,,,,,,wfo-0000069222,3133692,,
+3a3fcd48-8fb2-11eb-924d-9cd76263cbd0,species,ausserdorferi,Homogyne,,"Huter ex Murr",,1910,,"Allg. Bot. Z. Syst. xvi. 122 (1910).",,,,,,,wfo-0000016451,4234314,,
+204ba16e-8fb2-11eb-924d-9cd76263cbd0,species,discolor,Homogyne,,"(Jacq.) Cass.",,1821,,"413 1821",,,,5d86da08-8fb2-11eb-924d-9cd76263cbd0,,225018-1,wfo-0000012510,3133689,,
+5a020910-8fb3-11eb-924d-9cd76263cbd0,species,montana,Homogyne,,C.Froel.,,,,"Alpenfl. v. t. 5.",,,,,,225019-1,wfo-0000046582,,,
+a1fb993a-8fb2-11eb-924d-9cd76263cbd0,species,sylvestris,Homogyne,,"(Jacq.) Cass.",,1821,,1821,,,,,,143966-3,wfo-0000030300,4234296,,
+5587723e-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Homoiachne,,"(Boiss.) Pilg.",,1949,,"Bot. Jahrb. Syst. 74: 556 1949",,,,,,405117-1,wfo-0000874616,4149777,,

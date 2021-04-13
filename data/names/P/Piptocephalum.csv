@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e89271ce-8fd1-11eb-924d-9cd76263cbd0,genus,Piptocephalum,,,,,,,,,,,wfo-4000029827,6444766,
-3d938fc0-8fb2-11eb-924d-9cd76263cbd0,species,carpholepis,Piptocephalum,,Sch.Bip.,1860,"369 1860",,,,,238495-1,wfo-0000017023,3134872,
-6d6c7804-8fb4-11eb-924d-9cd76263cbd0,species,luteum,Piptocephalum,,Sch.Bip.,1860,"Bonplandia 8: 369 1860",,,,,238496-1,wfo-0000064899,4228501,
-bea2ad96-8fb5-11eb-924d-9cd76263cbd0,species,phaiolepis,Piptocephalum,,Ball,1878,"J. Linn. Soc., Bot. xvi. (1878) 534",,,,,,wfo-0000081657,4228494,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e89271ce-8fd1-11eb-924d-9cd76263cbd0,genus,Piptocephalum,,,,,,,,,,,,,,wfo-4000029827,6444766,,
+3d938fc0-8fb2-11eb-924d-9cd76263cbd0,species,carpholepis,Piptocephalum,,Sch.Bip.,,1860,,"369 1860",,,,,,238495-1,wfo-0000017023,3134872,,
+6d6c7804-8fb4-11eb-924d-9cd76263cbd0,species,luteum,Piptocephalum,,Sch.Bip.,,1860,,"Bonplandia 8: 369 1860",,,,,,238496-1,wfo-0000064899,4228501,,
+bea2ad96-8fb5-11eb-924d-9cd76263cbd0,species,phaiolepis,Piptocephalum,,Ball,,1878,,"J. Linn. Soc., Bot. xvi. (1878) 534",,,,,,,wfo-0000081657,4228494,,

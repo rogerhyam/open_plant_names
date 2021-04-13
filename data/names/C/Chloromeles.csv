@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1a3e8b6-8fd1-11eb-924d-9cd76263cbd0,genus,Chloromeles,,,Decne.,1880,"Ann. Gén. Hort. 23: 156. 1880[1882]. (Mar 1882)",,,,,,wfo-4000008010,3000706,
-9f109cf0-8fcd-11eb-924d-9cd76263cbd0,species,sempervirens,Chloromeles,,Decne.,1845,"Flore des serres ; 1845 156 1882",,,,,,wfo-0001008074,3000707,
-c8b92780-8fcc-11eb-924d-9cd76263cbd0,species,verticillatum,Chloromyron,,Pers.,1806,"Syn. Pl. 2: 73 1806",,,,,427383-1,wfo-0000603150,3712209,
-499a1922-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Chloromyrtus,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 72 1898",,,,,592193-1,wfo-0000848613,3179067,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1a3e8b6-8fd1-11eb-924d-9cd76263cbd0,genus,Chloromeles,,,Decne.,,1880,,"Ann. Gén. Hort. 23: 156. 1880[1882]. (Mar 1882)",,,,,,,wfo-4000008010,3000706,,
+9f109cf0-8fcd-11eb-924d-9cd76263cbd0,species,sempervirens,Chloromeles,,Decne.,,1845,,"Flore des serres ; 1845 156 1882",,,,,,,wfo-0001008074,3000707,,
+c8b92780-8fcc-11eb-924d-9cd76263cbd0,species,verticillatum,Chloromyron,,Pers.,,1806,,"Syn. Pl. 2: 73 1806",,,,,,427383-1,wfo-0000603150,3712209,,
+499a1922-8fcd-11eb-924d-9cd76263cbd0,species,klaineana,Chloromyrtus,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 72 1898",,,,,,592193-1,wfo-0000848613,3179067,,

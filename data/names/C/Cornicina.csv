@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e20ce9e2-8fd1-11eb-924d-9cd76263cbd0,genus,Cornicina,,,,,,,,,,,wfo-4000009330,7302310,
-d36b379a-8fcc-11eb-924d-9cd76263cbd0,species,circinata,Cornicina,,Boiss.,1840,"Voy. Bot. Espagne 163 1840",,,,,487147-1,wfo-0000621554,3973625,
-45a036ca-8fc9-11eb-924d-9cd76263cbd0,species,hamosa,Cornicina,,"(Desf.) Boiss.",,,,,,8dde7c76-8fc9-11eb-924d-9cd76263cbd0,,wfo-0000212152,2952431,
-b5650e94-8fc5-11eb-924d-9cd76263cbd0,species,loeflingii,Cornicina,,Boiss.,,,,,,,,wfo-0000194434,2952445,
-45c97724-8fc9-11eb-924d-9cd76263cbd0,species,lotoides,Cornicina,,"(L.) Boiss.",,,,,,,,wfo-0000212155,2952427,
-d36b54be-8fcc-11eb-924d-9cd76263cbd0,species,nummularia,Cornicina,,Boiss.,1840,"Voy. Bot. Espagne 163 1840",,,,,487151-1,wfo-0000621555,3973612,
-b60a25ca-8fcd-11eb-924d-9cd76263cbd0,species,pseudocytisus,Cornicina,,Boiss.,1843,"Diagn. Pl. Orient., ser. 1 1(2): 15 1843",,,,,487152-1,wfo-0001057387,3973608,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e20ce9e2-8fd1-11eb-924d-9cd76263cbd0,genus,Cornicina,,,,,,,,,,,,,,wfo-4000009330,7302310,,
+d36b379a-8fcc-11eb-924d-9cd76263cbd0,species,circinata,Cornicina,,Boiss.,,1840,,"Voy. Bot. Espagne 163 1840",,,,,,487147-1,wfo-0000621554,3973625,,
+45a036ca-8fc9-11eb-924d-9cd76263cbd0,species,hamosa,Cornicina,,"(Desf.) Boiss.",,,,,,,,8dde7c76-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000212152,2952431,,
+b5650e94-8fc5-11eb-924d-9cd76263cbd0,species,loeflingii,Cornicina,,Boiss.,,,,,,,,,,,wfo-0000194434,2952445,,
+45c97724-8fc9-11eb-924d-9cd76263cbd0,species,lotoides,Cornicina,,"(L.) Boiss.",,,,,,,,,,,wfo-0000212155,2952427,,
+d36b54be-8fcc-11eb-924d-9cd76263cbd0,species,nummularia,Cornicina,,Boiss.,,1840,,"Voy. Bot. Espagne 163 1840",,,,,,487151-1,wfo-0000621555,3973612,,
+b60a25ca-8fcd-11eb-924d-9cd76263cbd0,species,pseudocytisus,Cornicina,,Boiss.,,1843,,"Diagn. Pl. Orient., ser. 1 1(2): 15 1843",,,,,,487152-1,wfo-0001057387,3973608,,

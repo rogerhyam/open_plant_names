@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb04cccc-8fd1-11eb-924d-9cd76263cbd0,genus,Syndyophyllum,,,"K.Schum. & Lauterb.",1900,"Fl. Schutzgeb. Südsee 403. 1900.",,,,,15960-1,wfo-4000037291,3070819,
-11aec356-8fcc-11eb-924d-9cd76263cbd0,species,excelsum,Syndyophyllum,,"K.Schum. & Lauterb.",1900,"Fl. Schutzgeb. Südsee 404 1900",,,,,356716-1,wfo-0000318035,3070820,
-11aedeae-8fcc-11eb-924d-9cd76263cbd0,subspecies,occidentale,Syndyophyllum,excelsum,"Airy Shaw",,"Hooker's Icon. Pl. 38: t. 3722 1974",,,,,880733-1,wfo-0000318036,3070822,
-11aef92a-8fcc-11eb-924d-9cd76263cbd0,species,occidentale,Syndyophyllum,,"(Airy Shaw) Welzen",1995,"Blumea 40: 393 1995",,,,11aedeae-8fcc-11eb-924d-9cd76263cbd0,986032-1,wfo-0000318037,3070821,
-11af1ee6-8fcc-11eb-924d-9cd76263cbd0,species,trinervium,Syndyophyllum,,"K.Schum. & Lauterb.",1900,"Fl. Schutzgeb. Südsee 405 1900",,,,,356717-1,wfo-0000318038,3062634,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb04cccc-8fd1-11eb-924d-9cd76263cbd0,genus,Syndyophyllum,,,"K.Schum. & Lauterb.",,1900,,"Fl. Schutzgeb. Südsee 403. 1900.",,Q51474811,,,,15960-1,wfo-4000037291,3070819,,
+11aec356-8fcc-11eb-924d-9cd76263cbd0,species,excelsum,Syndyophyllum,,"K.Schum. & Lauterb.",,1900,,"Fl. Schutzgeb. Südsee 404 1900",,Q51474811,,,,356716-1,wfo-0000318035,3070820,,
+11aedeae-8fcc-11eb-924d-9cd76263cbd0,subspecies,occidentale,Syndyophyllum,excelsum,"Airy Shaw",,,,"Hooker's Icon. Pl. 38: t. 3722 1974",,,,,,880733-1,wfo-0000318036,3070822,,
+11aef92a-8fcc-11eb-924d-9cd76263cbd0,species,occidentale,Syndyophyllum,,"(Airy Shaw) Welzen",,1995,,"Blumea 40: 393 1995",,Q96030670,,11aedeae-8fcc-11eb-924d-9cd76263cbd0,,986032-1,wfo-0000318037,3070821,,
+11af1ee6-8fcc-11eb-924d-9cd76263cbd0,species,trinervium,Syndyophyllum,,"K.Schum. & Lauterb.",,1900,,"Fl. Schutzgeb. Südsee 405 1900",,Q51474811,,,,356717-1,wfo-0000318038,3062634,,

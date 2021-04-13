@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52f7eaa-8fd1-11eb-924d-9cd76263cbd0,genus,Ixiochlamys,,,"F.Muell. & Sond.",,,,,,,9517-1,wfo-4000019399,3089434,
-44aeb01e-8fb2-11eb-924d-9cd76263cbd0,species,cuneifolia,Ixiochlamys,,"(R.Br.) Sond.",1853,1853,,,,,,wfo-0000018268,3089436,
-003f67f2-8fb2-11eb-924d-9cd76263cbd0,species,filicifolia,Ixiochlamys,,Dunlop,1980,"248 1980",,,,,226448-1,wfo-0000003061,3089435,
-f7724452-8fb4-11eb-924d-9cd76263cbd0,species,integerrima,Ixiochlamys,,Dunlop,1980,1980,,,,,117660-3,wfo-0000072229,3089440,
-8f048fd0-8fb2-11eb-924d-9cd76263cbd0,species,nana,Ixiochlamys,,"(Ewart & Jean White) Grau",1975,"186 1975",,,,7d4cf950-8fb5-11eb-924d-9cd76263cbd0,226450-1,wfo-0000028100,3089438,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52f7eaa-8fd1-11eb-924d-9cd76263cbd0,genus,Ixiochlamys,,,"F.Muell. & Sond.",,,,,,,,,,9517-1,wfo-4000019399,3089434,,
+44aeb01e-8fb2-11eb-924d-9cd76263cbd0,species,cuneifolia,Ixiochlamys,,"(R.Br.) Sond.",,1853,,1853,,,,,,,wfo-0000018268,3089436,,
+003f67f2-8fb2-11eb-924d-9cd76263cbd0,species,filicifolia,Ixiochlamys,,Dunlop,,1980,,"248 1980",,Q92900589,,,,226448-1,wfo-0000003061,3089435,,
+f7724452-8fb4-11eb-924d-9cd76263cbd0,species,integerrima,Ixiochlamys,,Dunlop,,1980,,1980,,,,,,117660-3,wfo-0000072229,3089440,,
+8f048fd0-8fb2-11eb-924d-9cd76263cbd0,species,nana,Ixiochlamys,,"(Ewart & Jean White) Grau",,1975,,"186 1975",,,,7d4cf950-8fb5-11eb-924d-9cd76263cbd0,,226450-1,wfo-0000028100,3089438,,

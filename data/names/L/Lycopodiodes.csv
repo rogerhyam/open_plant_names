@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e627fd0a-8fd1-11eb-924d-9cd76263cbd0,genus,Lycopodiodes,,,,,,,,,,,wfo-4000022507,8111919,
-b38a786e-8fd1-11eb-924d-9cd76263cbd0,species,contiguum,Lycopodiodes,,"(Baker) Kuntze",1891,"Revis. Gen. Pl. 2: 826 1891",,,,,,wfo-0001230993,7397918,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e627fd0a-8fd1-11eb-924d-9cd76263cbd0,genus,Lycopodiodes,,,,,,,,,,,,,,wfo-4000022507,8111919,,
+b38a786e-8fd1-11eb-924d-9cd76263cbd0,species,contiguum,Lycopodiodes,,"(Baker) Kuntze",,1891,,"Revis. Gen. Pl. 2: 826 1891",,,,,,,wfo-0001230993,7397918,,

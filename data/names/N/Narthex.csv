@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e713ddc4-8fd1-11eb-924d-9cd76263cbd0,genus,Narthex,,,Falc.,1847,"Proc. Linn. Soc. Lond. 1: 309. 1847.",,,,,,wfo-4000025352,6026400,
-37a50746-8fcc-11eb-924d-9cd76263cbd0,species,asafoetida,Narthex,,"Falc. ex Lindl.",1846,"Gard. Chron. 1846: 743 1846",,,,,927938-1,wfo-0000379569,,
-ae07500a-8fcd-11eb-924d-9cd76263cbd0,species,assafoetida,Narthex,,"(L.) Falc.",1847,"Proc. Linn. Soc. Lond. 1: 309 1847",,,,,,wfo-0001039222,,
-37a3d4e8-8fcc-11eb-924d-9cd76263cbd0,species,polakii,Narthex,,Stapf,1888,"Verh. K. K. Zool.-Bot. Ges. Wien 38: 70 1888",,,,,845151-1,wfo-0000379565,3630040,
-37a3b1fc-8fcc-11eb-924d-9cd76263cbd0,species,silphium,Narthex,,Oerst.,1869,"Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider 1869: 21 1869",,,,,845152-1,wfo-0000379564,3642679,
-7ad11532-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Narukila,,"(L.) Nieuwl.",1913,"Amer. Midl. Naturalist 3: 101 1913",,,,,167132-2,wfo-0000475490,2766076,
-7ad1808a-8fcc-11eb-924d-9cd76263cbd0,variety,lancifolia,Narukila,cordata,"(Muhl.) Nieuwl.",1913,"Repert. Spec. Nov. Regni Veg. 12: 101 1913",,,,89d9daa0-8fcc-11eb-924d-9cd76263cbd0,167133-2,wfo-0000475494,2766083,
-7ad21eb4-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Narukila,,"(L.) Farw.",1923,"Pap. Michigan Acad. Sci. 3: 91 1923 publ. 1924",,,,,698120-1,wfo-0000475497,2761418,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e713ddc4-8fd1-11eb-924d-9cd76263cbd0,genus,Narthex,,,Falc.,,1847,,"Proc. Linn. Soc. Lond. 1: 309. 1847.",,,,,,,wfo-4000025352,6026400,,
+37a50746-8fcc-11eb-924d-9cd76263cbd0,species,asafoetida,Narthex,,"Falc. ex Lindl.",,1846,,"Gard. Chron. 1846: 743 1846",,,,,,927938-1,wfo-0000379569,,,
+ae07500a-8fcd-11eb-924d-9cd76263cbd0,species,assafoetida,Narthex,,"(L.) Falc.",,1847,,"Proc. Linn. Soc. Lond. 1: 309 1847",,,,,,,wfo-0001039222,,,
+37a3d4e8-8fcc-11eb-924d-9cd76263cbd0,species,polakii,Narthex,,Stapf,,1888,,"Verh. K. K. Zool.-Bot. Ges. Wien 38: 70 1888",,,,,,845151-1,wfo-0000379565,3630040,,
+37a3b1fc-8fcc-11eb-924d-9cd76263cbd0,species,silphium,Narthex,,Oerst.,,1869,,"Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider 1869: 21 1869",,,,,,845152-1,wfo-0000379564,3642679,,
+7ad11532-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Narukila,,"(L.) Nieuwl.",,1913,,"Amer. Midl. Naturalist 3: 101 1913",,Q55773231,,,,167132-2,wfo-0000475490,2766076,,
+7ad1808a-8fcc-11eb-924d-9cd76263cbd0,variety,lancifolia,Narukila,cordata,"(Muhl.) Nieuwl.",,1913,,"Repert. Spec. Nov. Regni Veg. 12: 101 1913",,Q55752820,,89d9daa0-8fcc-11eb-924d-9cd76263cbd0,,167133-2,wfo-0000475494,2766083,,
+7ad21eb4-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Narukila,,"(L.) Farw.",,1923,,"Pap. Michigan Acad. Sci. 3: 91 1923 publ. 1924",,,,,,698120-1,wfo-0000475497,2761418,,

@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7266ac0-8fd1-11eb-924d-9cd76263cbd0,genus,Neobuchia,,,Urb.,1902,"Symb. Antill. 3: 319. 1902.",,,,,295350-2,wfo-4000025630,7278897,
-39354d1e-8fcc-11eb-924d-9cd76263cbd0,species,paulinae,Neobuchia,,Urb.,1902,"Symb. Antill. 3: 319 1902",,,,,562474-1,wfo-0000381721,3935266,
-75cffc00-8fcd-11eb-924d-9cd76263cbd0,species,longiscapa,Neoburttia,,"(Summerh.) Mytnik, Szlach. & Baranow",2011,"Polish Bot. J. 56: 46 2011",,,,f9fdc70c-8fcb-11eb-924d-9cd76263cbd0,77116201-1,wfo-0000922032,8303184,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7266ac0-8fd1-11eb-924d-9cd76263cbd0,genus,Neobuchia,,,Urb.,,1902,,"Symb. Antill. 3: 319. 1902.",,,,,,295350-2,wfo-4000025630,7278897,,
+39354d1e-8fcc-11eb-924d-9cd76263cbd0,species,paulinae,Neobuchia,,Urb.,,1902,,"Symb. Antill. 3: 319 1902",,,,,,562474-1,wfo-0000381721,3935266,,

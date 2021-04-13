@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c33aca-8fd1-11eb-924d-9cd76263cbd0,genus,Fockeanthus,,,H.R.Wehrh.,,,,,,,5699-1,wfo-4000014893,3166235,
-fc3e185a-8fcb-11eb-924d-9cd76263cbd0,species,foelscheorum,,,"M.Gerbaud & O.Gerbaud",2000,"Naturalistes Belges 81: 91 2000",,,,,1017129-1,wfo-0000284210,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c33aca-8fd1-11eb-924d-9cd76263cbd0,genus,Fockeanthus,,,H.R.Wehrh.,,,,,,,,,,5699-1,wfo-4000014893,3166235,,
+fc3e185a-8fcb-11eb-924d-9cd76263cbd0,species,foelscheorum,,,"M.Gerbaud & O.Gerbaud",,2000,,"Naturalistes Belges 81: 91 2000",,,,,,1017129-1,wfo-0000284210,,,

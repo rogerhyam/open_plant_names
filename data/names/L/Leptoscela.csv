@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5cffbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Leptoscela,,,Hook.f.,1873,"Gen. Pl. 2: 59. 1873.",,,,,34834-1,wfo-4000021339,4937952,
-d9d140b2-8fcb-11eb-924d-9cd76263cbd0,species,ruellioides,Leptoscela,,Hook.f.,1873,"Hooker's Icon. Pl. 12: 44 1873",,,,,,wfo-0000226508,2906118,
-71c36198-8fcc-11eb-924d-9cd76263cbd0,species,prolifer,Leptoschoenus,,Nees,1840,"J. Bot. (Hooker) 2: 393 1840",,,,,138526-2,wfo-0000460522,5292718,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5cffbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Leptoscela,,,Hook.f.,,1873,,"Gen. Pl. 2: 59. 1873.",,,,,,34834-1,wfo-4000021339,4937952,,
+d9d140b2-8fcb-11eb-924d-9cd76263cbd0,species,ruellioides,Leptoscela,,Hook.f.,,1873,,"Hooker's Icon. Pl. 12: 44 1873",,,,,,,wfo-0000226508,2906118,,
+71c36198-8fcc-11eb-924d-9cd76263cbd0,species,prolifer,Leptoschoenus,,Nees,,1840,,"J. Bot. (Hooker) 2: 393 1840",,,,,,138526-2,wfo-0000460522,5292718,,

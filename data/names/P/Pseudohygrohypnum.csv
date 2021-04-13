@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92318c8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudohygrohypnum,,,Kanda,1976,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 106. 1976[1977].",,,,,,wfo-4000031540,4888836,
-e9477ee2-8fcd-11eb-924d-9cd76263cbd0,species,eugyrium,Pseudohygrohypnum,,"(Schimp.) Kanda",1976,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 106 1976",,,,ef717318-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001169761,7618205,
-e9479c42-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Pseudohygrohypnum,,"(Broth.) Kanda",1976,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 109 1976",,,,,,wfo-0001169762,8404405,
-fe0e9c70-8fcd-11eb-924d-9cd76263cbd0,species,subeugyrium,Pseudohygrohypnum,,"(Renauld & Cardot) Ignatov & Ignatova",2004,"Arctoa 11(Supplement 2): 845 2004",,,,e5d2b650-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001212798,7931071,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92318c8-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudohygrohypnum,,,Kanda,,1976,,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 106. 1976[1977].",,,,,,,wfo-4000031540,4888836,,
+e9477ee2-8fcd-11eb-924d-9cd76263cbd0,species,eugyrium,Pseudohygrohypnum,,"(Schimp.) Kanda",,1976,,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 106 1976",,,,ef717318-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169761,7618205,,
+e9479c42-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Pseudohygrohypnum,,"(Broth.) Kanda",,1976,,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 16: 109 1976",,,,,,,wfo-0001169762,8404405,,
+fe0e9c70-8fcd-11eb-924d-9cd76263cbd0,species,subeugyrium,Pseudohygrohypnum,,"(Renauld & Cardot) Ignatov & Ignatova",,2004,,"Arctoa 11(Supplement 2): 845 2004",,,,e5d2b650-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212798,7931071,,

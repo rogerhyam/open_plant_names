@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec0157c6-8fd1-11eb-924d-9cd76263cbd0,genus,Wallisia,,,"(Regel) É.Morren",1870,"Belgique Hort. 20: 97. 1870.",,,,,5027-1,wfo-4000040505,3230842,
-73fbcd0a-8fcd-11eb-924d-9cd76263cbd0,species,duratii,Wallisia,,"(Vis.) E.Morren",1870,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,b8e66ea8-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000919105,6312330,
-caa7e5e0-8fcc-11eb-924d-9cd76263cbd0,species,hamaleana,Wallisia,,E.Morren,1870,"Ann. Hort. Belge Étrangère 20: 97 1870",,,,,126230-1,wfo-0000606437,5287824,
-73fbf438-8fcd-11eb-924d-9cd76263cbd0,species,lindeniana,Wallisia,,"(Regel) E.Morren",1870,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,,,wfo-0000919106,6312323,
-73fb7e5e-8fcd-11eb-924d-9cd76263cbd0,species,lindenii,Wallisia,,E.Morren,1870,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,,,wfo-0000919104,6312308,
-5d5da542-8fcc-11eb-924d-9cd76263cbd0,species,princeps,Wallisia,,"(Lindl.) Regel",1875,"Gartenflora 24: 230 1875",,,,2e5fd314-8fcc-11eb-924d-9cd76263cbd0,371482-1,wfo-0000427879,5596072,
-1b3ac8ac-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Wallnoeferia,,Szlach.,1994,"Fragm. Florist. Geobot. 39: 517 1994",,,,,304654-2,wfo-0000333807,3652304,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec0157c6-8fd1-11eb-924d-9cd76263cbd0,genus,Wallisia,,,"(Regel) É.Morren",,1870,,"Belgique Hort. 20: 97. 1870.",,,,,,5027-1,wfo-4000040505,3230842,,
+73fbcd0a-8fcd-11eb-924d-9cd76263cbd0,species,duratii,Wallisia,,"(Vis.) E.Morren",,1870,,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,b8e66ea8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000919105,6312330,,
+caa7e5e0-8fcc-11eb-924d-9cd76263cbd0,species,hamaleana,Wallisia,,E.Morren,,1870,,"Ann. Hort. Belge Étrangère 20: 97 1870",,,,,,126230-1,wfo-0000606437,5287824,,
+73fbf438-8fcd-11eb-924d-9cd76263cbd0,species,lindeniana,Wallisia,,"(Regel) E.Morren",,1870,,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,,,,wfo-0000919106,6312323,,
+73fb7e5e-8fcd-11eb-924d-9cd76263cbd0,species,lindenii,Wallisia,,E.Morren,,1870,,"Ann. Hort. Belge Étrangère 20: 102 1870",,,,,,,wfo-0000919104,6312308,,
+5d5da542-8fcc-11eb-924d-9cd76263cbd0,species,princeps,Wallisia,,"(Lindl.) Regel",,1875,,"Gartenflora 24: 230 1875",,,,2e5fd314-8fcc-11eb-924d-9cd76263cbd0,,371482-1,wfo-0000427879,5596072,,
+1b3ac8ac-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Wallnoeferia,,Szlach.,,1994,,"Fragm. Florist. Geobot. 39: 517 1994",,,,,,304654-2,wfo-0000333807,3652304,,

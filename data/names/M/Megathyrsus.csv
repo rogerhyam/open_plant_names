@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e67bbd00-8fd1-11eb-924d-9cd76263cbd0,genus,Megathyrsus,,,"(Pilg.) B.K.Simon & S.W.L.Jacobs",2003,"Austrobaileya 6(3): 572. 2003. (4 Dec 2003)",,,,,,wfo-4000023517,6431475,
-579458b2-8fcd-11eb-924d-9cd76263cbd0,species,bivonanus,Megathyrsus,,"(Brullo, Miniss., Scelsi & Spamp.) Verloove",2005,"Willdenowia 35: 63 2005",,,,,77067635-1,wfo-0000878964,4121311,
-5794745a-8fcd-11eb-924d-9cd76263cbd0,species,infestus,Megathyrsus,,"(Peters) B.K.Simon & Jacobs",2003,"Austrobaileya 6: 573 2003",,,,,60426570-2,wfo-0000878965,8572559,
-5794917e-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Megathyrsus,,"(Jacq.) B.K.Simon & Jacobs",2003,"Austrobaileya 6: 572 2003",,,,,60426565-2,wfo-0000878966,4108550,
-5794ad62-8fcd-11eb-924d-9cd76263cbd0,variety,coloratus,Megathyrsus,maximus,"(C.T.White) B.K.Simon & Jacobs",2003,"Austrobaileya 6: 573 2003",,,,,60426569-2,wfo-0000878967,4108558,
-5794c77a-8fcd-11eb-924d-9cd76263cbd0,variety,pubiglumis,Megathyrsus,maximus,"(K.Schum.) B.K.Simon & Jacobs",2003,"Austrobaileya 6: 572 2003",,,,,60426567-2,wfo-0000878968,4108548,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e67bbd00-8fd1-11eb-924d-9cd76263cbd0,genus,Megathyrsus,,,"(Pilg.) B.K.Simon & S.W.L.Jacobs",,2003,,"Austrobaileya 6(3): 572. 2003. (4 Dec 2003)",,,,,,,wfo-4000023517,6431475,,
+579458b2-8fcd-11eb-924d-9cd76263cbd0,species,bivonanus,Megathyrsus,,"(Brullo, Miniss., Scelsi & Spamp.) Verloove",,2005,,"Willdenowia 35: 63 2005",,Q55790070,,,,77067635-1,wfo-0000878964,4121311,,
+5794745a-8fcd-11eb-924d-9cd76263cbd0,species,infestus,Megathyrsus,,"(Peters) B.K.Simon & Jacobs",,2003,,"Austrobaileya 6: 573 2003",,Q92298860,,,,60426570-2,wfo-0000878965,8572559,,
+5794917e-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Megathyrsus,,"(Jacq.) B.K.Simon & Jacobs",,2003,,"Austrobaileya 6: 572 2003",,Q92298860,,,,60426565-2,wfo-0000878966,4108550,,
+5794ad62-8fcd-11eb-924d-9cd76263cbd0,variety,coloratus,Megathyrsus,maximus,"(C.T.White) B.K.Simon & Jacobs",,2003,,"Austrobaileya 6: 573 2003",,Q92298860,,,,60426569-2,wfo-0000878967,4108558,,
+5794c77a-8fcd-11eb-924d-9cd76263cbd0,variety,pubiglumis,Megathyrsus,maximus,"(K.Schum.) B.K.Simon & Jacobs",,2003,,"Austrobaileya 6: 572 2003",,Q92298860,,,,60426567-2,wfo-0000878968,4108548,,

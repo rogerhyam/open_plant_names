@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e062fffa-8fd1-11eb-924d-9cd76263cbd0,genus,Botryothallus,,,Klotzsch,,,,,,,,wfo-4000005111,7319457,
-9a4e08d0-8fbc-11eb-924d-9cd76263cbd0,species,kunzei,Botryothallus,,Klotzsch,1846,"Bot. Zeitung (Berlin) 4: 104 1846",,,,,17061730-1,wfo-0000142415,4043095,
-212a2cca-8fcd-11eb-924d-9cd76263cbd0,species,botryoides,Botryphile,,"(L.) Salisb.",1866,"Gen. Pl. 25 1866",,,,ec8b17ea-8fcc-11eb-924d-9cd76263cbd0,531992-1,wfo-0000762012,2772107,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e062fffa-8fd1-11eb-924d-9cd76263cbd0,genus,Botryothallus,,,Klotzsch,,,,,,,,,,,wfo-4000005111,7319457,,
+9a4e08d0-8fbc-11eb-924d-9cd76263cbd0,species,kunzei,Botryothallus,,Klotzsch,,1846,,"Bot. Zeitung (Berlin) 4: 104 1846",,,,,,17061730-1,wfo-0000142415,4043095,,

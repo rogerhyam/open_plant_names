@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a5b3ba-8fd1-11eb-924d-9cd76263cbd0,genus,Exostratum,,,L.T.Ellis,1985,"Lindbergia 11: 22. 1985.",,,,,,wfo-4000014483,9528245,
-f5859e1e-8fcd-11eb-924d-9cd76263cbd0,species,asperum,Exostratum,,"(Mitt.) L.T.Ellis",1985,"Lindbergia 11: 32 1985",,,,f26352ee-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194749,2670284,
-f585d8fc-8fcd-11eb-924d-9cd76263cbd0,variety,papillosum,Exostratum,asperum,"(Mitt.) L.T.Ellis",1985,"Lindbergia 11: 34 1985",,,,f265d96a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194751,8296631,
-f5856462-8fcd-11eb-924d-9cd76263cbd0,species,blumii,Exostratum,,"(Nees ex Hampe) L.T.Ellis",1985,"Lindbergia 11: 25 1985",,,,f3ce2b40-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194747,2670287,
-f585b908-8fcd-11eb-924d-9cd76263cbd0,species,scolopendrium,Exostratum,,"(Mitt.) L.T.Ellis",1985,"Lindbergia 11: 35 1985",,,,,,wfo-0001194750,2670285,
-f58581f4-8fcd-11eb-924d-9cd76263cbd0,species,sullivantii,Exostratum,,"(Dozy & Molk.) L.T.Ellis",1985,"Lindbergia 11: 29 1985",,,,f3f9cd22-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194748,2670286,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a5b3ba-8fd1-11eb-924d-9cd76263cbd0,genus,Exostratum,,,L.T.Ellis,,1985,,"Lindbergia 11: 22. 1985.",,,,,,,wfo-4000014483,9528245,,
+f5859e1e-8fcd-11eb-924d-9cd76263cbd0,species,asperum,Exostratum,,"(Mitt.) L.T.Ellis",,1985,,"Lindbergia 11: 32 1985",,,,f26352ee-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194749,2670284,,
+f585d8fc-8fcd-11eb-924d-9cd76263cbd0,variety,papillosum,Exostratum,asperum,"(Mitt.) L.T.Ellis",,1985,,"Lindbergia 11: 34 1985",,,,f265d96a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194751,8296631,,
+f5856462-8fcd-11eb-924d-9cd76263cbd0,species,blumii,Exostratum,,"(Nees ex Hampe) L.T.Ellis",,1985,,"Lindbergia 11: 25 1985",,,,f3ce2b40-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194747,2670287,,
+f585b908-8fcd-11eb-924d-9cd76263cbd0,species,scolopendrium,Exostratum,,"(Mitt.) L.T.Ellis",,1985,,"Lindbergia 11: 35 1985",,,,,,,wfo-0001194750,2670285,,
+f58581f4-8fcd-11eb-924d-9cd76263cbd0,species,sullivantii,Exostratum,,"(Dozy & Molk.) L.T.Ellis",,1985,,"Lindbergia 11: 29 1985",,,,f3f9cd22-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194748,2670286,,

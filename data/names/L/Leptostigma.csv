@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5d1b4a4-8fd1-11eb-924d-9cd76263cbd0,genus,Leptostigma,,,Arn.,1841,"J. Bot. (Hooker) 3: 270. 1841.",,,,,34836-1,wfo-4000021363,2907666,
-d9f7b756-8fcb-11eb-924d-9cd76263cbd0,species,arnottianum,Leptostigma,,Walp.,1846,"Repert. Bot. Syst. 6: 26 1846",,,,,,wfo-0000226826,2907684,
-734fed0a-8fcd-11eb-924d-9cd76263cbd0,species,breviflorum,Leptostigma,,I.Thomps.,2010,"Muelleria 28: 32 2010",,,,,77103968-1,wfo-0000918032,6288447,
-d9f7d0d8-8fcb-11eb-924d-9cd76263cbd0,species,longiflorum,Leptostigma,,"(Standl.) Fosberg",1982,"Acta Phytotax. Geobot. 33: 80 1982",,,,,910825-1,wfo-0000226827,2907677,
-d9f7ecf8-8fcb-11eb-924d-9cd76263cbd0,species,pilosum,Leptostigma,,"(Benth.) Fosberg",1982,"Acta Phytotax. Geobot. 33: 79 1982",,,,e6db65ee-8fc1-11eb-924d-9cd76263cbd0,900184-1,wfo-0000226828,2907669,
-d9f80706-8fcb-11eb-924d-9cd76263cbd0,species,reptans,Leptostigma,,"(F.Muell.) Fosberg",1982,"Acta Phytotax. Geobot. 33: 82 1982",,,,809e8124-8fcd-11eb-924d-9cd76263cbd0,910826-1,wfo-0000226829,2907680,
-d9f82362-8fcb-11eb-924d-9cd76263cbd0,species,setulosum,Leptostigma,,"(Hook.f.) Fosberg",1982,"Acta Phytotax. Geobot. 33: 81 1982",,,,,910827-1,wfo-0000226830,2907673,
-d9f83ef6-8fcb-11eb-924d-9cd76263cbd0,species,weberbaueri,Leptostigma,,Fosberg,1982,"Acta Phytotax. Geobot. 33: 80 1982",,,,,900185-1,wfo-0000226831,2907667,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5d1b4a4-8fd1-11eb-924d-9cd76263cbd0,genus,Leptostigma,,,Arn.,,1841,,"J. Bot. (Hooker) 3: 270. 1841.",,,,,,34836-1,wfo-4000021363,2907666,,
+d9f7b756-8fcb-11eb-924d-9cd76263cbd0,species,arnottianum,Leptostigma,,Walp.,,1846,,"Repert. Bot. Syst. 6: 26 1846",,,,,,,wfo-0000226826,2907684,,
+734fed0a-8fcd-11eb-924d-9cd76263cbd0,species,breviflorum,Leptostigma,,I.Thomps.,,2010,,"Muelleria 28: 32 2010",,,,,,77103968-1,wfo-0000918032,6288447,,
+d9f7d0d8-8fcb-11eb-924d-9cd76263cbd0,species,longiflorum,Leptostigma,,"(Standl.) Fosberg",,1982,,"Acta Phytotax. Geobot. 33: 80 1982",,Q101149729,,,,910825-1,wfo-0000226827,2907677,,
+d9f7ecf8-8fcb-11eb-924d-9cd76263cbd0,species,pilosum,Leptostigma,,"(Benth.) Fosberg",,1982,,"Acta Phytotax. Geobot. 33: 79 1982",,Q101149729,,e6db65ee-8fc1-11eb-924d-9cd76263cbd0,,900184-1,wfo-0000226828,2907669,,
+d9f80706-8fcb-11eb-924d-9cd76263cbd0,species,reptans,Leptostigma,,"(F.Muell.) Fosberg",,1982,,"Acta Phytotax. Geobot. 33: 82 1982",,Q101149729,,809e8124-8fcd-11eb-924d-9cd76263cbd0,,910826-1,wfo-0000226829,2907680,,
+d9f82362-8fcb-11eb-924d-9cd76263cbd0,species,setulosum,Leptostigma,,"(Hook.f.) Fosberg",,1982,,"Acta Phytotax. Geobot. 33: 81 1982",,Q101149729,,,,910827-1,wfo-0000226830,2907673,,
+d9f83ef6-8fcb-11eb-924d-9cd76263cbd0,species,weberbaueri,Leptostigma,,Fosberg,,1982,,"Acta Phytotax. Geobot. 33: 80 1982",,Q101149729,,,,900185-1,wfo-0000226831,2907667,,

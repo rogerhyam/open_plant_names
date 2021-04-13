@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e606a0ce-8fd1-11eb-924d-9cd76263cbd0,genus,Loewia,,,Urb.,1897,"Annuario Reale Ist. Bot. Roma 6: 189. 1897.",,,,,39583-1,wfo-4000022080,3231270,
-dce72594-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Loewia,,Urb.,,,,,,,,wfo-0001143110,8151627,
-693fde70-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Loewia,,Urb.,1896,"Annuario Reale Ist. Bot. Roma 6: 189 1896",,,,,836441-1,wfo-0000445428,5680493,
-6937ce06-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Loewia,,"(Chiov.) Roti Mich.",1969,"Webbia 23: 372 1969",,,,,836442-1,wfo-0000445375,7997174,
-dce5fe58-8fcd-11eb-924d-9cd76263cbd0,species,tanaensis,Loewia,,Urb.,1898,"Bot. Jahrb. Syst. Beibl. 60: 2 1898",,,,,,wfo-0001143102,8335991,
-dce5e102-8fcd-11eb-924d-9cd76263cbd0,species,thomasii,Loewia,,"(Urb.) J.Lewis",1953,"Kew Bull. 1953: 431 1953",,,,dce7ec54-8fcd-11eb-924d-9cd76263cbd0,836444-1,wfo-0001143101,7844854,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e606a0ce-8fd1-11eb-924d-9cd76263cbd0,genus,Loewia,,,Urb.,,1897,,"Annuario Reale Ist. Bot. Roma 6: 189. 1897.",,,,,,39583-1,wfo-4000022080,3231270,,
+dce72594-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Loewia,,Urb.,,,,,,,,,,,wfo-0001143110,8151627,,
+693fde70-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Loewia,,Urb.,,1896,,"Annuario Reale Ist. Bot. Roma 6: 189 1896",,,,,,836441-1,wfo-0000445428,5680493,,
+6937ce06-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Loewia,,"(Chiov.) Roti Mich.",,1969,,"Webbia 23: 372 1969",,Q55757947,,,,836442-1,wfo-0000445375,7997174,,
+dce5fe58-8fcd-11eb-924d-9cd76263cbd0,species,tanaensis,Loewia,,Urb.,,1898,,"Bot. Jahrb. Syst. Beibl. 60: 2 1898",,,,,,,wfo-0001143102,8335991,,
+dce5e102-8fcd-11eb-924d-9cd76263cbd0,species,thomasii,Loewia,,"(Urb.) J.Lewis",,1953,,"Kew Bull. 1953: 431 1953",,,,dce7ec54-8fcd-11eb-924d-9cd76263cbd0,,836444-1,wfo-0001143101,7844854,,

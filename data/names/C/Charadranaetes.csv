@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1889cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Charadranaetes,,,"Janovec & H.Rob.",,,,,,,996197-1,wfo-4000007688,3105450,
-fc0fa4fc-8fb2-11eb-924d-9cd76263cbd0,species,durandii,Charadranaetes,,"(Klatt) Janovec & H.Rob.",1997,"165 1997",,,,ff04c67a-8fb1-11eb-924d-9cd76263cbd0,996198-1,wfo-0000038992,3105451,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1889cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Charadranaetes,,,"Janovec & H.Rob.",,,,,,Q54635597,,,,996197-1,wfo-4000007688,3105450,,
+fc0fa4fc-8fb2-11eb-924d-9cd76263cbd0,species,durandii,Charadranaetes,,"(Klatt) Janovec & H.Rob.",,1997,,"165 1997",,Q54635597,,ff04c67a-8fb1-11eb-924d-9cd76263cbd0,,996198-1,wfo-0000038992,3105451,,

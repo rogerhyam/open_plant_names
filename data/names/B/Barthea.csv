@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e017382c-8fd1-11eb-924d-9cd76263cbd0,genus,Barthea,,,Hook.f.,1867,"Gen. Pl. 1: 731, 751. 1867.",,,,,26194-1,wfo-4000004137,4935917,
-c156ba4c-8fcd-11eb-924d-9cd76263cbd0,species,barthei,Barthea,,"(Hance ex Benth.) Krasser",1893,"Nat. Pflanzenfam. 3(7): 175, f. 768 1893",,,,c15e203e-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001083139,3867269,
-c1569d6e-8fcd-11eb-924d-9cd76263cbd0,species,blinii,Barthea,,H.Lév.,1913,"Repert. Spec. Nov. Regni Veg. 11(301–303): 494 1913",,,,,566576-1,wfo-0001083138,3867256,
-c1568144-8fcd-11eb-924d-9cd76263cbd0,species,cavaleriei,Barthea,,H.Lév.,1910,"Repert. Spec. Nov. Regni Veg. 8(160–162): 61 1910",,,,,566577-1,wfo-0001083137,3867246,
-c156f0fc-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Barthea,,Hook.f.,1867,"Gen. Pl. 1: 751 1867",,,,,566578-1,wfo-0001083141,3867233,
-c1566736-8fcd-11eb-924d-9cd76263cbd0,species,esquirolii,Barthea,,H.Lév.,1913,"Repert. Spec. Nov. Regni Veg. 11(301–303): 494 1913",,,,,566579-1,wfo-0001083136,3867224,
-c156d496-8fcd-11eb-924d-9cd76263cbd0,species,formosana,Barthea,,Hayata,1908,"J. Coll. Sci. Imp. Univ. Tokyo 25(19): 97–98, pl. 10 1908",,,,,566580-1,wfo-0001083140,3867215,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e017382c-8fd1-11eb-924d-9cd76263cbd0,genus,Barthea,,,Hook.f.,,1867,,"Gen. Pl. 1: 731, 751. 1867.",,,,,,26194-1,wfo-4000004137,4935917,,
+c156ba4c-8fcd-11eb-924d-9cd76263cbd0,species,barthei,Barthea,,"(Hance ex Benth.) Krasser",,1893,,"Nat. Pflanzenfam. 3(7): 175, f. 768 1893",,,,c15e203e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001083139,3867269,,
+c1569d6e-8fcd-11eb-924d-9cd76263cbd0,species,blinii,Barthea,,H.Lév.,,1913,,"Repert. Spec. Nov. Regni Veg. 11(301–303): 494 1913",,Q55752790,,,,566576-1,wfo-0001083138,3867256,,
+c1568144-8fcd-11eb-924d-9cd76263cbd0,species,cavaleriei,Barthea,,H.Lév.,,1910,,"Repert. Spec. Nov. Regni Veg. 8(160–162): 61 1910",,Q55753748,,,,566577-1,wfo-0001083137,3867246,,
+c156f0fc-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Barthea,,Hook.f.,,1867,,"Gen. Pl. 1: 751 1867",,,,,,566578-1,wfo-0001083141,3867233,,
+c1566736-8fcd-11eb-924d-9cd76263cbd0,species,esquirolii,Barthea,,H.Lév.,,1913,,"Repert. Spec. Nov. Regni Veg. 11(301–303): 494 1913",,Q55752790,,,,566579-1,wfo-0001083136,3867224,,
+c156d496-8fcd-11eb-924d-9cd76263cbd0,species,formosana,Barthea,,Hayata,,1908,,"J. Coll. Sci. Imp. Univ. Tokyo 25(19): 97–98, pl. 10 1908",,,,,,566580-1,wfo-0001083140,3867215,,

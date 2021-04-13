@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb957e8e-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonocapnos,,,Schltr.,1899,"Bot. Jahrb. Syst. 27: 131. 1899. (7 Apr 1899)",,,,,31723-1,wfo-4000039154,7314834,
-6f7394d0-8fcc-11eb-924d-9cd76263cbd0,species,curvipes,Trigonocapnos,,Schltr.,1899,"Bot. Jahrb. Syst. 27: 132 1899",,,,,674025-1,wfo-0000456422,3601451,
-6f735ad8-8fcc-11eb-924d-9cd76263cbd0,species,lichtensteinii,Trigonocapnos,,"(Cham. & Schltdl.) Lidén",1986,"Opera Bot. 88: 105 1986",,,,fcc88ec6-8fcc-11eb-924d-9cd76263cbd0,943205-1,wfo-0000456420,3601442,
-c49dcb78-8fcd-11eb-924d-9cd76263cbd0,species,pre,Trigonocapnos,,"Herbarium Practice, Following Liden.",,,,,,,,wfo-0001090309,8053135,
-6e5bd026-8fcc-11eb-924d-9cd76263cbd0,species,cymosus,Trigonocarpus,,"Bertero ex Gay",1851,"Fl. Chil. 5: 283 1851",,,,,697780-1,wfo-0000454472,7867094,
-4d2a1282-8fcc-11eb-924d-9cd76263cbd0,species,littoralis,Trigonocarpus,,Wall.,,"Numer. List 6520 1832",,,,,162901-1,wfo-0000407070,7538443,
-b21bdf90-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Trigonocarpus,,Vell.,1825,"Fl. Flumin. 1: 153 1825",,,,,785521-1,wfo-0001228427,,
-6e5bb38e-8fcc-11eb-924d-9cd76263cbd0,species,secundiflorus,Trigonocarpus,,"Bertero ex Steud.",1841,"Nomencl. Bot. ed. 2, 2: 710 1841",,,,,,wfo-0000454471,8418898,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb957e8e-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonocapnos,,,Schltr.,,1899,,"Bot. Jahrb. Syst. 27: 131. 1899. (7 Apr 1899)",,,,,,31723-1,wfo-4000039154,7314834,,
+6f7394d0-8fcc-11eb-924d-9cd76263cbd0,species,curvipes,Trigonocapnos,,Schltr.,,1899,,"Bot. Jahrb. Syst. 27: 132 1899",,,,,,674025-1,wfo-0000456422,3601451,,
+6f735ad8-8fcc-11eb-924d-9cd76263cbd0,species,lichtensteinii,Trigonocapnos,,"(Cham. & Schltdl.) Lidén",,1986,,"Opera Bot. 88: 105 1986",,,,fcc88ec6-8fcc-11eb-924d-9cd76263cbd0,,943205-1,wfo-0000456420,3601442,,
+c49dcb78-8fcd-11eb-924d-9cd76263cbd0,species,pre,Trigonocapnos,,"Herbarium Practice, Following Liden.",,,,,,,,,,,wfo-0001090309,8053135,,
+6e5bd026-8fcc-11eb-924d-9cd76263cbd0,species,cymosus,Trigonocarpus,,"Bertero ex Gay",,1851,,"Fl. Chil. 5: 283 1851",,,,,,697780-1,wfo-0000454472,7867094,,
+4d2a1282-8fcc-11eb-924d-9cd76263cbd0,species,littoralis,Trigonocarpus,,Wall.,,,,"Numer. List 6520 1832",,,,,,162901-1,wfo-0000407070,7538443,,
+b21bdf90-8fd1-11eb-924d-9cd76263cbd0,species,racemosa,Trigonocarpus,,Vell.,,1825,,"Fl. Flumin. 1: 153 1825",,,,,,785521-1,wfo-0001228427,,,
+6e5bb38e-8fcc-11eb-924d-9cd76263cbd0,species,secundiflorus,Trigonocarpus,,"Bertero ex Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 710 1841",,,,,,,wfo-0000454471,8418898,,

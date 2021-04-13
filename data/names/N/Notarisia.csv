@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75ab0dc-8fd1-11eb-924d-9cd76263cbd0,genus,Notarisia,,,Hampe,1837,"Linnaea 11: 379. 1837.",,,,,,wfo-4000026248,,
-f25f5afe-8fcd-11eb-924d-9cd76263cbd0,species,crispata,Notarisia,,"(Hedw.) Mont.",1849,"Hist. Nat. Îles Canaries 3(3): 41 1849",,,,e760de2a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001188643,8092007,
-f25f77e6-8fcd-11eb-924d-9cd76263cbd0,species,glyphomitrioides,Notarisia,,"(Bals.-Criv. & De Not.) Schimp.",1851,"Bryol. Eur. 3: 1 (fasc. 46–47 Consp. vol. 3) 1851",,,,eb07518a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001188644,7770696,
-383c1578-8fcc-11eb-924d-9cd76263cbd0,species,securigera,Notarisia,,"Pestal. ex Ces.",1856,"Bot. Zeitung (Berlin) 14: 531 1856",,,,,287810-1,wfo-0000380399,8181188,
-f25f974e-8fcd-11eb-924d-9cd76263cbd0,species,virginica,Notarisia,,Hampe,1837,"Linnaea 11: 380 1837",,,,,,wfo-0001188645,8237250,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75ab0dc-8fd1-11eb-924d-9cd76263cbd0,genus,Notarisia,,,Hampe,,1837,,"Linnaea 11: 379. 1837.",,,,,,,wfo-4000026248,,,
+f25f5afe-8fcd-11eb-924d-9cd76263cbd0,species,crispata,Notarisia,,"(Hedw.) Mont.",,1849,,"Hist. Nat. Îles Canaries 3(3): 41 1849",,,,e760de2a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001188643,8092007,,
+f25f77e6-8fcd-11eb-924d-9cd76263cbd0,species,glyphomitrioides,Notarisia,,"(Bals.-Criv. & De Not.) Schimp.",,1851,,"Bryol. Eur. 3: 1 (fasc. 46–47 Consp. vol. 3) 1851",,,,eb07518a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001188644,7770696,,
+383c1578-8fcc-11eb-924d-9cd76263cbd0,species,securigera,Notarisia,,"Pestal. ex Ces.",,1856,,"Bot. Zeitung (Berlin) 14: 531 1856",,,,,,287810-1,wfo-0000380399,8181188,,
+f25f974e-8fcd-11eb-924d-9cd76263cbd0,species,virginica,Notarisia,,Hampe,,1837,,"Linnaea 11: 380 1837",,,,,,,wfo-0001188645,8237250,,

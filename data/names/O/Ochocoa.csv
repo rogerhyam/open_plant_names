@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e76f25c6-8fd1-11eb-924d-9cd76263cbd0,genus,Ochocoa,,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1257. 1896.",,,,,,wfo-4000026479,7333719,
-c243005a-8fcd-11eb-924d-9cd76263cbd0,species,gaboni,Ochocoa,,Pierre,,"Bull. Soc. Natl. Hort. France ii: 1257 1896 1896",,,,,586378-1,wfo-0001085206,,
-3ef325c8-8fcc-11eb-924d-9cd76263cbd0,species,gabonii,Ochocoa,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1257 1896",,,,,586378-1,wfo-0000388996,3743842,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e76f25c6-8fd1-11eb-924d-9cd76263cbd0,genus,Ochocoa,,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1257. 1896.",,,,,,,wfo-4000026479,7333719,,
+c243005a-8fcd-11eb-924d-9cd76263cbd0,species,gaboni,Ochocoa,,Pierre,,,,"Bull. Soc. Natl. Hort. France ii: 1257 1896 1896",,,,,,586378-1,wfo-0001085206,,,
+3ef325c8-8fcc-11eb-924d-9cd76263cbd0,species,gabonii,Ochocoa,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1257 1896",,,,,,586378-1,wfo-0000388996,3743842,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e767d97e-8fd1-11eb-924d-9cd76263cbd0,genus,Nux,,,Duhamel,1755,"Traite} Arbres Arbust. 2: 49. 1755.",,,,,,wfo-4000026391,3234589,
-375d9dd4-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Nux,,"(L.) M.Gómez",1895,"Anales Inst. Segunda Enseñ. 2: 169 1895",,,,,171129-2,wfo-0000379184,8772006,
-375dce30-8fcc-11eb-924d-9cd76263cbd0,species,insularis,Nux,,"(Griseb.) M.Gómez",1895,"Anales Inst. Segunda Enseñ. 2: 169 1895",,,,ba72f902-8fcd-11eb-924d-9cd76263cbd0,171130-2,wfo-0000379185,9223617,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e767d97e-8fd1-11eb-924d-9cd76263cbd0,genus,Nux,,,Duhamel,,1755,,"Traite} Arbres Arbust. 2: 49. 1755.",,,,,,,wfo-4000026391,3234589,,
+375d9dd4-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Nux,,"(L.) M.Gómez",,1895,,"Anales Inst. Segunda Enseñ. 2: 169 1895",,,,,,171129-2,wfo-0000379184,8772006,,
+375dce30-8fcc-11eb-924d-9cd76263cbd0,species,insularis,Nux,,"(Griseb.) M.Gómez",,1895,,"Anales Inst. Segunda Enseñ. 2: 169 1895",,,,ba72f902-8fcd-11eb-924d-9cd76263cbd0,,171130-2,wfo-0000379185,9223617,,

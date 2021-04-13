@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d17672-8fd1-11eb-924d-9cd76263cbd0,genus,Oxyura,,,,,,,,,,,wfo-4000027606,3090814,
-05ef28fe-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Oxyura,,"DC. ex Lindl.",,,,,,,,wfo-0000005569,7926877,
-e03f2c66-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Oxyura,,DC.,1836,"Prodr. (DC.) 5: 693 1836",,,,,236243-1,wfo-0000036518,5392984,
-162efe56-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Oxyura,,E.Mey.,1845,"Ind. Sem. Hort. Regiom. (1845).",,,,,,wfo-0000010566,5704111,
-7021ea3e-8fcd-11eb-924d-9cd76263cbd0,species,globosa,Oyama,,"(Hook.f. & Thomson) N.H.Xia & C.Y.Wu",2008,"in Fl. China 7: 67 2008",,,,dd467c62-8fcb-11eb-924d-9cd76263cbd0,77097527-1,wfo-0000913858,3987817,
-70220aaa-8fcd-11eb-924d-9cd76263cbd0,species,sieboldii,Oyama,,"(K.Koch) N.H.Xia & C.Y.Wu",2008,"in Fl. China 7: 67 2008",,,,,77097530-1,wfo-0000913859,3987812,
-702229ea-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Oyama,,"(Rehder & E.H.Wilson) N.H.Xia & C.Y.Wu",2008,"in Fl. China 7: 67 2008",,,,,77097529-1,wfo-0000913860,3987809,
-7022af00-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Oyama,,"(Finet & Gagnep.) N.H.Xia & C.Y.Wu",2008,"in Fl. China 7: 67 2008",,,,e2b9e8e6-8fcb-11eb-924d-9cd76263cbd0,77097526-1,wfo-0000913861,3987806,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d17672-8fd1-11eb-924d-9cd76263cbd0,genus,Oxyura,,,,,,,,,,,,,,wfo-4000027606,3090814,,
+05ef28fe-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Oxyura,,"DC. ex Lindl.",,,,,,,,,,,wfo-0000005569,7926877,,
+e03f2c66-8fb2-11eb-924d-9cd76263cbd0,species,chrysanthemoides,Oxyura,,DC.,,1836,,"Prodr. (DC.) 5: 693 1836",,,,,,236243-1,wfo-0000036518,5392984,,
+162efe56-8fb2-11eb-924d-9cd76263cbd0,species,douglasii,Oxyura,,E.Mey.,,1845,,"Ind. Sem. Hort. Regiom. (1845).",,,,,,,wfo-0000010566,5704111,,
+7021ea3e-8fcd-11eb-924d-9cd76263cbd0,species,globosa,Oyama,,"(Hook.f. & Thomson) N.H.Xia & C.Y.Wu",,2008,,"in Fl. China 7: 67 2008",,,,dd467c62-8fcb-11eb-924d-9cd76263cbd0,,77097527-1,wfo-0000913858,3987817,,
+70220aaa-8fcd-11eb-924d-9cd76263cbd0,species,sieboldii,Oyama,,"(K.Koch) N.H.Xia & C.Y.Wu",,2008,,"in Fl. China 7: 67 2008",,,,,,77097530-1,wfo-0000913859,3987812,,
+702229ea-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Oyama,,"(Rehder & E.H.Wilson) N.H.Xia & C.Y.Wu",,2008,,"in Fl. China 7: 67 2008",,,,,,77097529-1,wfo-0000913860,3987809,,
+7022af00-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Oyama,,"(Finet & Gagnep.) N.H.Xia & C.Y.Wu",,2008,,"in Fl. China 7: 67 2008",,,,e2b9e8e6-8fcb-11eb-924d-9cd76263cbd0,,77097526-1,wfo-0000913861,3987806,,

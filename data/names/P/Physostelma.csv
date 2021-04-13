@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e87c8da0-8fd1-11eb-924d-9cd76263cbd0,genus,Physostelma,,,Wight,1834,"Contr. Bot. India 39. 1834.",,,,,,wfo-4000029571,7312140,
-4155a0e8-8fcc-11eb-924d-9cd76263cbd0,species,betchei,Physostelma,,Schltr.,1908,"Bot. Jahrb. Syst. 40(92): 16 1908",,,,,100626-1,wfo-0000392390,3576116,
-41558126-8fcc-11eb-924d-9cd76263cbd0,species,campanulatum,Physostelma,,Decne.,1844,"Prodr. 8: 633 1844",,,,,100627-1,wfo-0000392389,3576110,
-41555ff2-8fcc-11eb-924d-9cd76263cbd0,species,carnosa,Physostelma,,"Collett & Hemsl.",1890,"J. Linn. Soc., Bot. 28: 88 1890",,,,,100628-1,wfo-0000392388,3576103,
-41552186-8fcc-11eb-924d-9cd76263cbd0,species,laurifolium,Physostelma,,Walp.,1852,"Ann. Bot. Syst. 3: 63 1852",,,,,100629-1,wfo-0000392386,3576095,
-ca99700e-8fcd-11eb-924d-9cd76263cbd0,species,papuanum,Physostelma,,Schltr.,1905,"Fl. Schutzgeb. Südsee 361 1905",,,,,100630-1,wfo-0001103326,3576087,
-ca2cde08-8fcd-11eb-924d-9cd76263cbd0,species,wallichii,Physostelma,,Wight,1834,"Contr. Bot. India 40 1834",,,,,100631-1,wfo-0001102386,3576079,
-cb03e524-8fcd-11eb-924d-9cd76263cbd0,species,wrayi,Physostelma,,"(King & Gamble) Ridl.",1923,"Fl. Malay. Penin. 2: 411 1923",,,,,100632-1,wfo-0001104272,3576068,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e87c8da0-8fd1-11eb-924d-9cd76263cbd0,genus,Physostelma,,,Wight,,1834,,"Contr. Bot. India 39. 1834.",,,,,,,wfo-4000029571,7312140,,
+4155a0e8-8fcc-11eb-924d-9cd76263cbd0,species,betchei,Physostelma,,Schltr.,,1908,,"Bot. Jahrb. Syst. 40(92): 16 1908",,,,,,100626-1,wfo-0000392390,3576116,,
+41558126-8fcc-11eb-924d-9cd76263cbd0,species,campanulatum,Physostelma,,Decne.,,1844,,"Prodr. 8: 633 1844",,,,,,100627-1,wfo-0000392389,3576110,,
+41555ff2-8fcc-11eb-924d-9cd76263cbd0,species,carnosa,Physostelma,,"Collett & Hemsl.",,1890,,"J. Linn. Soc., Bot. 28: 88 1890",,Q55760337,,,,100628-1,wfo-0000392388,3576103,,
+41552186-8fcc-11eb-924d-9cd76263cbd0,species,laurifolium,Physostelma,,Walp.,,1852,,"Ann. Bot. Syst. 3: 63 1852",,,,,,100629-1,wfo-0000392386,3576095,,
+ca99700e-8fcd-11eb-924d-9cd76263cbd0,species,papuanum,Physostelma,,Schltr.,,1905,,"Fl. Schutzgeb. Südsee 361 1905",,,,,,100630-1,wfo-0001103326,3576087,,
+ca2cde08-8fcd-11eb-924d-9cd76263cbd0,species,wallichii,Physostelma,,Wight,,1834,,"Contr. Bot. India 40 1834",,,,,,100631-1,wfo-0001102386,3576079,,
+cb03e524-8fcd-11eb-924d-9cd76263cbd0,species,wrayi,Physostelma,,"(King & Gamble) Ridl.",,1923,,"Fl. Malay. Penin. 2: 411 1923",,,,,,100632-1,wfo-0001104272,3576068,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0535b9a-8fd1-11eb-924d-9cd76263cbd0,genus,Boleum,,,Desv.,1815,"J. Bot. Agric. 3: 163. 1815.",,,,,,wfo-4000004920,3040577,
-b3491fa4-8fcc-11eb-924d-9cd76263cbd0,species,asperum,Boleum,,"(Pers.) Desv.",1814,"J. Bot. Agric. 3: 163 1814",,,,,,wfo-0000568263,3048730,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0535b9a-8fd1-11eb-924d-9cd76263cbd0,genus,Boleum,,,Desv.,,1815,,"J. Bot. Agric. 3: 163. 1815.",,,,,,,wfo-4000004920,3040577,,
+b3491fa4-8fcc-11eb-924d-9cd76263cbd0,species,asperum,Boleum,,"(Pers.) Desv.",,1814,,"J. Bot. Agric. 3: 163 1814",,,,,,,wfo-0000568263,3048730,,

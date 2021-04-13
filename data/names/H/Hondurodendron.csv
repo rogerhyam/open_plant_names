@@ -1,9 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d66b44-8fd1-11eb-924d-9cd76263cbd0,genus,Hondurodendron,,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",2010,"Ann. Missouri Bot. Gard. 97(3): 459. 2010. (10 Oct 2010)",,,,,77111708-1,wfo-4000018215,4927578,
-1b2032c0-8fcd-11eb-924d-9cd76263cbd0,species,urceolatum,Hondurodendron,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",2010,"Ann. Missouri Bot. Gard. 97: 459 2010",,,,,77111709-1,wfo-0000749452,7534590,
-eb1c3f10-8fcc-11eb-924d-9cd76263cbd0,species,boucheanus,Honorius,,"(Kunth) Holub",1976,"Folia Geobot. Phytotax. 11: 81 1976",,,,,536507-1,wfo-0000662084,2773057,
-759e6f1e-8fcd-11eb-924d-9cd76263cbd0,species,chetikianus,Honorius,,"(Uysal, Ertugrul & Dural) Mart.-Azorín, M.B.Crespo & Juan",2011,"Ann. Bot. (Oxford) 107: 34 2011",,,,,77109433-1,wfo-0000921761,7945983,
-759fdd5e-8fcd-11eb-924d-9cd76263cbd0,species,demirizianus,Honorius,,"(H.Malyer & Koyuncu) Mart.-Azorín, M.B.Crespo & Juan",2011,"Ann. Bot. (Oxford) 107: 33 2011",,,,,77109432-1,wfo-0000921771,8067912,
-eb1dd7bc-8fcc-11eb-924d-9cd76263cbd0,species,libanoticus,Honorius,,"(Boiss.) Holub",1976,"Folia Geobot. Phytotax. 11: 81 1976",,,,,536508-1,wfo-0000662095,2773410,
-eb1f092a-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Honorius,,"(L.) Gray",1821,"Nat. Arr. Brit. Pl. 2: 177 1821",,,,,536509-1,wfo-0000662106,2773290,
-eb204920-8fcc-11eb-924d-9cd76263cbd0,species,prasandrus,Honorius,,"(Griseb.) Holub",1976,"Folia Geobot. Phytotax. 11: 81 1976",,,,,536510-1,wfo-0000662114,2773287,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d66b44-8fd1-11eb-924d-9cd76263cbd0,genus,Hondurodendron,,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",,2010,,"Ann. Missouri Bot. Gard. 97(3): 459. 2010. (10 Oct 2010)",,Q54641697,,,,77111708-1,wfo-4000018215,4927578,,
+1b2032c0-8fcd-11eb-924d-9cd76263cbd0,species,urceolatum,Hondurodendron,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",,2010,,"Ann. Missouri Bot. Gard. 97: 459 2010",,Q54641697,,,,77111709-1,wfo-0000749452,7534590,,

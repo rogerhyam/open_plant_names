@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec69d094-8fd1-11eb-924d-9cd76263cbd0,genus,Ortizacalia,,,Pruski,2012,"Phytoneuron 2012-50: 1 (2012)",,,,,77121458-1,wfo-4001303360,9575795,
-eddcfe34-8fcb-11eb-924d-9cd76263cbd0,species,cernua,Ortmannia,,"(Willd.) Opiz",1834,"Flora 17: 592 1834",,,,,649515-1,wfo-0000261321,5307886,
-65d3eb60-8fcb-11eb-924d-9cd76263cbd0,species,ortmannii,,,Shafer,1912,"Publ. Bot. Soc. W. Pennsylvania 2: 18 1912",,,,,639780-1,wfo-0000222223,,
-eddd6b12-8fcb-11eb-924d-9cd76263cbd0,species,recta,Ortostachys,,"(L.) Fourr.",1869,"Ann. Soc. Linn. Lyon n.s., 17: 136 1869",,,,,453626-1,wfo-0000261323,3891599,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec69d094-8fd1-11eb-924d-9cd76263cbd0,genus,Ortizacalia,,,Pruski,,2012,,"Phytoneuron 2012-50: 1 (2012)",,,,,,77121458-1,wfo-4001303360,9575795,,
+eddcfe34-8fcb-11eb-924d-9cd76263cbd0,species,cernua,Ortmannia,,"(Willd.) Opiz",,1834,,"Flora 17: 592 1834",,,,,,649515-1,wfo-0000261321,5307886,,
+65d3eb60-8fcb-11eb-924d-9cd76263cbd0,species,ortmannii,,,Shafer,,1912,,"Publ. Bot. Soc. W. Pennsylvania 2: 18 1912",,,,,,639780-1,wfo-0000222223,,,
+eddd6b12-8fcb-11eb-924d-9cd76263cbd0,species,recta,Ortostachys,,"(L.) Fourr.",,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 136 1869",,,,,,453626-1,wfo-0000261323,3891599,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6b236f0-8fd1-11eb-924d-9cd76263cbd0,genus,Microliabum,,,Cabrera,,,,,,,10045-1,wfo-4000024139,3146326,
-e59f4682-8fb2-11eb-924d-9cd76263cbd0,species,candidum,Microliabum,,"(Griseb.) H.Rob.",1990,"743 1990",,,,29570a8c-8fb2-11eb-924d-9cd76263cbd0,948467-1,wfo-0000036980,3146332,
-141ed1b2-8fb3-11eb-924d-9cd76263cbd0,species,eremophilum,Microliabum,,"(Cabrera) H.Rob.",1990,"744 1990",,,,,948468-1,wfo-0000041099,3146335,
-5b97d01c-8fb2-11eb-924d-9cd76263cbd0,species,glanduliferum,Microliabum,,"(Cabrera) H.Rob.",1990,"744 1990",,,,1c5f811e-8fb8-11eb-924d-9cd76263cbd0,948469-1,wfo-0000021843,3146333,
-22a9de7e-8fb4-11eb-924d-9cd76263cbd0,species,humile,Microliabum,,"(Cabrera) Cabrera",1955,"211 1955",,,,cab7c4be-8fb9-11eb-924d-9cd76263cbd0,160164-2,wfo-0000060500,3146329,
-a916b5e8-8fb6-11eb-924d-9cd76263cbd0,species,mulgediifolium,Microliabum,,"(Muschl.) H.Rob.",1990,"743 1990",,,,ff47cd80-8fb1-11eb-924d-9cd76263cbd0,948465-1,wfo-0000091814,4228547,
-04c0369e-8fb2-11eb-924d-9cd76263cbd0,species,polymnioides,Microliabum,,"(R.E.Fr.) H.Rob.",1990,"743 1990",,,,88b263ba-8fb6-11eb-924d-9cd76263cbd0,948466-1,wfo-0000005161,3146327,
-e2df9b18-8fcb-11eb-924d-9cd76263cbd0,species,holosericea,Microlicea,,Naudin,1848,"Ann. Sci. Nat., Bot. III, 10: 10 1848",,,,,,wfo-0000243130,2907368,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6b236f0-8fd1-11eb-924d-9cd76263cbd0,genus,Microliabum,,,Cabrera,,,,,,,,,,10045-1,wfo-4000024139,3146326,,
+e59f4682-8fb2-11eb-924d-9cd76263cbd0,species,candidum,Microliabum,,"(Griseb.) H.Rob.",,1990,,"743 1990",,Q55765464,,29570a8c-8fb2-11eb-924d-9cd76263cbd0,,948467-1,wfo-0000036980,3146332,,
+141ed1b2-8fb3-11eb-924d-9cd76263cbd0,species,eremophilum,Microliabum,,"(Cabrera) H.Rob.",,1990,,"744 1990",,Q55765464,,,,948468-1,wfo-0000041099,3146335,,
+5b97d01c-8fb2-11eb-924d-9cd76263cbd0,species,glanduliferum,Microliabum,,"(Cabrera) H.Rob.",,1990,,"744 1990",,Q55765464,,1c5f811e-8fb8-11eb-924d-9cd76263cbd0,,948469-1,wfo-0000021843,3146333,,
+22a9de7e-8fb4-11eb-924d-9cd76263cbd0,species,humile,Microliabum,,"(Cabrera) Cabrera",,1955,,"211 1955",,,,cab7c4be-8fb9-11eb-924d-9cd76263cbd0,,160164-2,wfo-0000060500,3146329,,
+a916b5e8-8fb6-11eb-924d-9cd76263cbd0,species,mulgediifolium,Microliabum,,"(Muschl.) H.Rob.",,1990,,"743 1990",,Q55765464,,ff47cd80-8fb1-11eb-924d-9cd76263cbd0,,948465-1,wfo-0000091814,4228547,,
+04c0369e-8fb2-11eb-924d-9cd76263cbd0,species,polymnioides,Microliabum,,"(R.E.Fr.) H.Rob.",,1990,,"743 1990",,Q55765464,,88b263ba-8fb6-11eb-924d-9cd76263cbd0,,948466-1,wfo-0000005161,3146327,,
+e2df9b18-8fcb-11eb-924d-9cd76263cbd0,species,holosericea,Microlicea,,Naudin,,1848,,"Ann. Sci. Nat., Bot. III, 10: 10 1848",,,,,,,wfo-0000243130,2907368,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65e1d04-8fd1-11eb-924d-9cd76263cbd0,genus,Margelliantha,,,P.J.Cribb,1979,"Kew Bull. 34: 329. 1979.",,,,,29943-1,wfo-4000023148,2836118,
-def908a4-8fcb-11eb-924d-9cd76263cbd0,species,burttii,Margelliantha,,"(Summerh.) P.J.Cribb",1979,"Kew Bull. 34: 331 1979",,,,,642621-1,wfo-0000236339,2836131,
-def92a14-8fcb-11eb-924d-9cd76263cbd0,species,caffra,Margelliantha,,"(Bolus) P.J.Cribb & J.Stewart",1985,"Kew Bull. 40: 413 1985",,,,80ecb42a-8fcd-11eb-924d-9cd76263cbd0,915267-1,wfo-0000236340,2836125,
-def94d32-8fcb-11eb-924d-9cd76263cbd0,species,clavata,Margelliantha,,P.J.Cribb,1979,"Kew Bull. 34: 331 1979",,,,,642622-1,wfo-0000236341,2836119,
-def96ede-8fcb-11eb-924d-9cd76263cbd0,species,globularis,Margelliantha,,P.J.Cribb,1979,"Kew Bull. 34: 331 1979",,,,,642623-1,wfo-0000236342,2836121,
-43c698c2-8fcd-11eb-924d-9cd76263cbd0,species,lebelii,Margelliantha,,"Eb.Fisch. & Killmann",2007,"Orchidee (Hamburg) 58: 745 2007 publ. 2008",,,,,,wfo-0000836068,2836130,
-def98a40-8fcb-11eb-924d-9cd76263cbd0,species,leedalii,Margelliantha,,P.J.Cribb,1979,"Kew Bull. 34: 333 1979",,,,,642624-1,wfo-0000236343,2836123,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65e1d04-8fd1-11eb-924d-9cd76263cbd0,genus,Margelliantha,,,P.J.Cribb,,1979,,"Kew Bull. 34: 329. 1979.",,Q55779863,,,,29943-1,wfo-4000023148,2836118,,
+def908a4-8fcb-11eb-924d-9cd76263cbd0,species,burttii,Margelliantha,,"(Summerh.) P.J.Cribb",,1979,,"Kew Bull. 34: 331 1979",,Q55779863,,,,642621-1,wfo-0000236339,2836131,,
+def92a14-8fcb-11eb-924d-9cd76263cbd0,species,caffra,Margelliantha,,"(Bolus) P.J.Cribb & J.Stewart",,1985,,"Kew Bull. 40: 413 1985",,Q43220814,,80ecb42a-8fcd-11eb-924d-9cd76263cbd0,,915267-1,wfo-0000236340,2836125,,
+def94d32-8fcb-11eb-924d-9cd76263cbd0,species,clavata,Margelliantha,,P.J.Cribb,,1979,,"Kew Bull. 34: 331 1979",,Q55779863,,,,642622-1,wfo-0000236341,2836119,,
+def96ede-8fcb-11eb-924d-9cd76263cbd0,species,globularis,Margelliantha,,P.J.Cribb,,1979,,"Kew Bull. 34: 331 1979",,Q55779863,,,,642623-1,wfo-0000236342,2836121,,
+43c698c2-8fcd-11eb-924d-9cd76263cbd0,species,lebelii,Margelliantha,,"Eb.Fisch. & Killmann",,2007,,"Orchidee (Hamburg) 58: 745 2007 publ. 2008",,,,,,,wfo-0000836068,2836130,,
+def98a40-8fcb-11eb-924d-9cd76263cbd0,species,leedalii,Margelliantha,,P.J.Cribb,,1979,,"Kew Bull. 34: 333 1979",,Q55779863,,,,642624-1,wfo-0000236343,2836123,,

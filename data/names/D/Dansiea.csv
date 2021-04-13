@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e27b2970-8fd1-11eb-924d-9cd76263cbd0,genus,Dansiea,,,Byrnes,1981,"Austrobaileya 1(4): 385. 1981.",,,,,893046-1,wfo-4000010742,7327028,
-dcc840b2-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Dansiea,,Byrnes,1981,"Austrobaileya 1: 385 1981",,,,,897545-1,wfo-0000637409,3698319,
-dcc85b42-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Dansiea,,Pedley,1990,"in Fl. Australia 18: 326 1990",,,,,939906-1,wfo-0000637410,3698301,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e27b2970-8fd1-11eb-924d-9cd76263cbd0,genus,Dansiea,,,Byrnes,,1981,,"Austrobaileya 1(4): 385. 1981.",,Q92300323,,,,893046-1,wfo-4000010742,7327028,,
+dcc840b2-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Dansiea,,Byrnes,,1981,,"Austrobaileya 1: 385 1981",,Q92300323,,,,897545-1,wfo-0000637409,3698319,,
+dcc85b42-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Dansiea,,Pedley,,1990,,"in Fl. Australia 18: 326 1990",,,,,,939906-1,wfo-0000637410,3698301,,

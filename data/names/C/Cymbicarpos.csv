@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e25e0610-8fd1-11eb-924d-9cd76263cbd0,genus,Cymbicarpos,,,,,,,,,,,wfo-4000010360,7301592,
-da093480-8fcc-11eb-924d-9cd76263cbd0,species,christianus,Cymbicarpos,,Steven,1832,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,,489352-1,wfo-0000632542,3966000,
-da095668-8fcc-11eb-924d-9cd76263cbd0,species,tomentosus,Cymbicarpos,,Steven,1832,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,,489353-1,wfo-0000632543,3965996,
-da097684-8fcc-11eb-924d-9cd76263cbd0,species,trigonus,Cymbicarpos,,"(DC.) Steven",1832,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,5bb13e0a-8fc9-11eb-924d-9cd76263cbd0,489354-1,wfo-0000632544,3965991,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e25e0610-8fd1-11eb-924d-9cd76263cbd0,genus,Cymbicarpos,,,,,,,,,,,,,,wfo-4000010360,7301592,,
+da093480-8fcc-11eb-924d-9cd76263cbd0,species,christianus,Cymbicarpos,,Steven,,1832,,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,,,489352-1,wfo-0000632542,3966000,,
+da095668-8fcc-11eb-924d-9cd76263cbd0,species,tomentosus,Cymbicarpos,,Steven,,1832,,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,,,489353-1,wfo-0000632543,3965996,,
+da097684-8fcc-11eb-924d-9cd76263cbd0,species,trigonus,Cymbicarpos,,"(DC.) Steven",,1832,,"Mém. Soc. Imp. Naturalistes Moscou 4: 266 1832",,,,5bb13e0a-8fc9-11eb-924d-9cd76263cbd0,,489354-1,wfo-0000632544,3965991,,

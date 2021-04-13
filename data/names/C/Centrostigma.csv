@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e160a434-8fd1-11eb-924d-9cd76263cbd0,genus,Centrostigma,,,Schltr.,1915,"Bot. Jahrb. Syst. 53: 522. 1915.",,,,,28977-1,wfo-4000007222,2820766,
-3f11fcea-8fcd-11eb-924d-9cd76263cbd0,species,clavatum,Centrostigma,,Summerh.,1956,"Kew Bull. 11: 221 1956",,,,,622341-1,wfo-0000825712,2820773,
-3f131e4a-8fcd-11eb-924d-9cd76263cbd0,species,nyassanum,Centrostigma,,Schltr.,1915,"Bot. Jahrb. Syst. 53: 523 1915",,,,,622342-1,wfo-0000825722,2820770,
-3f1454a4-8fcd-11eb-924d-9cd76263cbd0,species,occultans,Centrostigma,,"(Welw. ex Rchb.f.) Schltr.",1915,"Bot. Jahrb. Syst. 53: 523 1915",,,,90cb98e8-8fcd-11eb-924d-9cd76263cbd0,622343-1,wfo-0000825733,2820768,
-3f158e28-8fcd-11eb-924d-9cd76263cbd0,species,papillosum,Centrostigma,,Summerh.,1956,"Kew Bull. 11: 219 1956",,,,,622344-1,wfo-0000825744,2820767,
-3f16c392-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Centrostigma,,"(Kraenzl. ex Schltr.) Schltr.",1915,"Bot. Jahrb. Syst. 53: 523 1915",,,,90f512d6-8fcd-11eb-924d-9cd76263cbd0,622345-1,wfo-0000825755,2820772,
-3f19077e-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Centrostylis,,Baill.,1858,"Étude Euphorb. 470 1858",,,,,,wfo-0000825776,3074926,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e160a434-8fd1-11eb-924d-9cd76263cbd0,genus,Centrostigma,,,Schltr.,,1915,,"Bot. Jahrb. Syst. 53: 522. 1915.",,,,,,28977-1,wfo-4000007222,2820766,,
+3f11fcea-8fcd-11eb-924d-9cd76263cbd0,species,clavatum,Centrostigma,,Summerh.,,1956,,"Kew Bull. 11: 221 1956",,Q55779609,,,,622341-1,wfo-0000825712,2820773,,
+3f131e4a-8fcd-11eb-924d-9cd76263cbd0,species,nyassanum,Centrostigma,,Schltr.,,1915,,"Bot. Jahrb. Syst. 53: 523 1915",,,,,,622342-1,wfo-0000825722,2820770,,
+3f1454a4-8fcd-11eb-924d-9cd76263cbd0,species,occultans,Centrostigma,,"(Welw. ex Rchb.f.) Schltr.",,1915,,"Bot. Jahrb. Syst. 53: 523 1915",,,,90cb98e8-8fcd-11eb-924d-9cd76263cbd0,,622343-1,wfo-0000825733,2820768,,
+3f158e28-8fcd-11eb-924d-9cd76263cbd0,species,papillosum,Centrostigma,,Summerh.,,1956,,"Kew Bull. 11: 219 1956",,Q55779609,,,,622344-1,wfo-0000825744,2820767,,
+3f16c392-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Centrostigma,,"(Kraenzl. ex Schltr.) Schltr.",,1915,,"Bot. Jahrb. Syst. 53: 523 1915",,,,90f512d6-8fcd-11eb-924d-9cd76263cbd0,,622345-1,wfo-0000825755,2820772,,
+3f19077e-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Centrostylis,,Baill.,,1858,,"Étude Euphorb. 470 1858",,,,,,,wfo-0000825776,3074926,,

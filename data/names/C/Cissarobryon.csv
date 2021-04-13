@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1c1147c-8fd1-11eb-924d-9cd76263cbd0,genus,Cissarobryon,,,,,,,,,,,wfo-4000008378,7268504,
-b9210396-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Cissarobryon,,"Kunze ex Poepp.",,,,,,,59244-2,wfo-0001064424,3826459,
-ca5bcab6-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Cissarobryon,,Poepp.,1833,"Fragm. Syn. Pl. 29 1833",,,,,372063-1,wfo-0000605945,3826459,
-ca5becd0-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Cissarobryon,,Phil.,1864,"Linnaea 33: 32 1864",,,,,59245-2,wfo-0000605946,3826439,
-ca5c0a6c-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Cissarobryon,,Phil.,1864,"Linnaea 33: 33 1864",,,,,372067-1,wfo-0000605947,3826427,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1c1147c-8fd1-11eb-924d-9cd76263cbd0,genus,Cissarobryon,,,,,,,,,,,,,,wfo-4000008378,7268504,,
+b9210396-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Cissarobryon,,"Kunze ex Poepp.",,,,,,,,,,59244-2,wfo-0001064424,3826459,,
+ca5bcab6-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Cissarobryon,,Poepp.,,1833,,"Fragm. Syn. Pl. 29 1833",,,,,,372063-1,wfo-0000605945,3826459,,
+ca5becd0-8fcc-11eb-924d-9cd76263cbd0,species,macrophyllum,Cissarobryon,,Phil.,,1864,,"Linnaea 33: 32 1864",,,,,,59245-2,wfo-0000605946,3826439,,
+ca5c0a6c-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Cissarobryon,,Phil.,,1864,,"Linnaea 33: 33 1864",,,,,,372067-1,wfo-0000605947,3826427,,

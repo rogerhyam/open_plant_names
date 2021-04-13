@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6aaca78-8fd1-11eb-924d-9cd76263cbd0,genus,Microberlinia,,,,,,,,,,,wfo-4000024049,2941146,
-0cb473e2-8fc1-11eb-924d-9cd76263cbd0,species,bisulcata,Microberlinia,,A.Chev.,,,,,,,,wfo-0000169692,2941148,
-0de3be8a-8fc1-11eb-924d-9cd76263cbd0,species,brazzavillensis,Microberlinia,,A.Chev.,,,,,,,,wfo-0000169720,2941147,
-29460eba-8fcd-11eb-924d-9cd76263cbd0,species,auristellae,Microbignonia,,Kraenzl.,1915,"Notizbl. Bot. Gart. Berlin-Dahlem 6: 380 1915",,,,,160100-2,wfo-0000778960,4092233,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6aaca78-8fd1-11eb-924d-9cd76263cbd0,genus,Microberlinia,,,,,,,,,,,,,,wfo-4000024049,2941146,,
+0cb473e2-8fc1-11eb-924d-9cd76263cbd0,species,bisulcata,Microberlinia,,A.Chev.,,,,,,,,,,,wfo-0000169692,2941148,,
+0de3be8a-8fc1-11eb-924d-9cd76263cbd0,species,brazzavillensis,Microberlinia,,A.Chev.,,,,,,,,,,,wfo-0000169720,2941147,,
+29460eba-8fcd-11eb-924d-9cd76263cbd0,species,auristellae,Microbignonia,,Kraenzl.,,1915,,"Notizbl. Bot. Gart. Berlin-Dahlem 6: 380 1915",,Q55776786,,,,160100-2,wfo-0000778960,4092233,,

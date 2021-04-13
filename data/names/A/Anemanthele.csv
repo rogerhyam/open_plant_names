@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df6e4046-8fd1-11eb-924d-9cd76263cbd0,genus,Anemanthele,,,Veldkamp,1985,"Acta Bot. Neerl. 34: 107. 1985.",,,,,999637-1,wfo-4000002039,7325435,
-493f2fb2-8fcd-11eb-924d-9cd76263cbd0,species,lessoniana,Anemanthele,,"(Steud.) Veldkamp",1985,"Acta Bot. Neerl. 34: 108 1985",,,,,999638-1,wfo-0000847819,4136947,
-9ded7d1c-8fcc-11eb-924d-9cd76263cbd0,species,nemorosus,Anemanthus,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 323 1868",,,,,708171-1,wfo-0000534992,3928326,
-9ded9bb2-8fcc-11eb-924d-9cd76263cbd0,species,ranunculoides,Anemanthus,,Fourr.,1868,"Ann. Soc. Linn. Lyon n.s., 16: 323 1868",,,,,708172-1,wfo-0000534993,3928319,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df6e4046-8fd1-11eb-924d-9cd76263cbd0,genus,Anemanthele,,,Veldkamp,,1985,,"Acta Bot. Neerl. 34: 107. 1985.",,Q55761032,,,,999637-1,wfo-4000002039,7325435,,
+493f2fb2-8fcd-11eb-924d-9cd76263cbd0,species,lessoniana,Anemanthele,,"(Steud.) Veldkamp",,1985,,"Acta Bot. Neerl. 34: 108 1985",,Q55761032,,,,999638-1,wfo-0000847819,4136947,,
+9ded7d1c-8fcc-11eb-924d-9cd76263cbd0,species,nemorosus,Anemanthus,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 323 1868",,,,,,708171-1,wfo-0000534992,3928326,,
+9ded9bb2-8fcc-11eb-924d-9cd76263cbd0,species,ranunculoides,Anemanthus,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 323 1868",,,,,,708172-1,wfo-0000534993,3928319,,

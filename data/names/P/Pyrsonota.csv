@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9685b04-8fd1-11eb-924d-9cd76263cbd0,genus,Pyrsonota,,,,,,,,,,,wfo-4000032325,9593277,
-77f6e3fa-8fcc-11eb-924d-9cd76263cbd0,species,calophylla,Pyrsonota,,Ridl.,1916,"Trans. Linn. Soc. London, Bot. 9: 40 1916",,,,,792485-1,wfo-0000470510,3754859,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9685b04-8fd1-11eb-924d-9cd76263cbd0,genus,Pyrsonota,,,,,,,,,,,,,,wfo-4000032325,9593277,,
+77f6e3fa-8fcc-11eb-924d-9cd76263cbd0,species,calophylla,Pyrsonota,,Ridl.,,1916,,"Trans. Linn. Soc. London, Bot. 9: 40 1916",,Q54635235,,,,792485-1,wfo-0000470510,3754859,,

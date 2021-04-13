@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d43272-8fd1-11eb-924d-9cd76263cbd0,genus,Pachistima,,,,,,,,,,,wfo-4000027635,7265712,
-d88f635e-8fd1-11eb-924d-9cd76263cbd0,species,canbyi,Pachistima,,A.Gray,1873,"Proc. Amer. Acad. Arts 8: 623 1873",,,,,162312-1,wfo-0001292668,3793833,
-d88df2da-8fd1-11eb-924d-9cd76263cbd0,species,myrsinites,Pachistima,,Raf.,1838,"Sylva Tellur. 42 1838",,,,,,wfo-0001292657,3793821,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d43272-8fd1-11eb-924d-9cd76263cbd0,genus,Pachistima,,,,,,,,,,,,,,wfo-4000027635,7265712,,
+d88f635e-8fd1-11eb-924d-9cd76263cbd0,species,canbyi,Pachistima,,A.Gray,,1873,,"Proc. Amer. Acad. Arts 8: 623 1873",,,,,,162312-1,wfo-0001292668,3793833,,
+d88df2da-8fd1-11eb-924d-9cd76263cbd0,species,myrsinites,Pachistima,,Raf.,,1838,,"Sylva Tellur. 42 1838",,,,,,,wfo-0001292657,3793821,,

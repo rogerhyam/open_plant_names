@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ca27f4-8fd1-11eb-924d-9cd76263cbd0,genus,Foveolaria,,,"Ruiz & Pav.",1794,"Fl. Peruv. Prodr. 57, t. 9. 1794. (early Oct 1794)",,,,,,wfo-4000014988,3234215,
-fbde5036-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Foveolaria,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 99 1798",,,,,826520-1,wfo-0000691677,5541105,
-fbde6bca-8fcc-11eb-924d-9cd76263cbd0,species,crocea,Foveolaria,,"Ruiz & Pav.",1957,"Anales Inst. Bot. Cavanilles 15: 122 1957",,,,,,wfo-0000691678,5541093,
-fbde8920-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Foveolaria,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,826524-1,wfo-0000691679,5541087,
-fbdea3f6-8fcc-11eb-924d-9cd76263cbd0,species,oblonga,Foveolaria,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,826525-1,wfo-0000691680,5541080,
-fbdebeae-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Foveolaria,,"Ruiz & Pav.",1798,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,826526-1,wfo-0000691681,5541076,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ca27f4-8fd1-11eb-924d-9cd76263cbd0,genus,Foveolaria,,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 57, t. 9. 1794. (early Oct 1794)",,,,,,,wfo-4000014988,3234215,,
+fbde5036-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Foveolaria,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 99 1798",,,,,,826520-1,wfo-0000691677,5541105,,
+fbde6bca-8fcc-11eb-924d-9cd76263cbd0,species,crocea,Foveolaria,,"Ruiz & Pav.",,1957,,"Anales Inst. Bot. Cavanilles 15: 122 1957",,,,,,,wfo-0000691678,5541093,,
+fbde8920-8fcc-11eb-924d-9cd76263cbd0,species,ferruginea,Foveolaria,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,,826524-1,wfo-0000691679,5541087,,
+fbdea3f6-8fcc-11eb-924d-9cd76263cbd0,species,oblonga,Foveolaria,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,,826525-1,wfo-0000691680,5541080,,
+fbdebeae-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Foveolaria,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 100 1798",,,,,,826526-1,wfo-0000691681,5541076,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaaefd1a-8fd1-11eb-924d-9cd76263cbd0,genus,Standleyanthus,,,"R.M.King & H.Rob.",,,,,,,295522-2,wfo-4000036270,3106642,
-2a5526bc-8fb2-11eb-924d-9cd76263cbd0,species,triptychus,Standleyanthus,,"(B.L.Rob.) R.M.King & H.Rob.",1971,"42 1971",,,,,243458-2,wfo-0000014178,3106643,
-f36ce9e8-8fcd-11eb-924d-9cd76263cbd0,species,patens,Stanekia,,"(Hedw.) Opiz",1852,"Seznam 208 1852",,,,e0776200-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001190591,7740396,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaaefd1a-8fd1-11eb-924d-9cd76263cbd0,genus,Standleyanthus,,,"R.M.King & H.Rob.",,,,,,,,,,295522-2,wfo-4000036270,3106642,,
+2a5526bc-8fb2-11eb-924d-9cd76263cbd0,species,triptychus,Standleyanthus,,"(B.L.Rob.) R.M.King & H.Rob.",,1971,,"42 1971",,,,,,243458-2,wfo-0000014178,3106643,,
+f36ce9e8-8fcd-11eb-924d-9cd76263cbd0,species,patens,Stanekia,,"(Hedw.) Opiz",,1852,,"Seznam 208 1852",,,,e0776200-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001190591,7740396,,

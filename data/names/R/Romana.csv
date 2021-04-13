@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9c3b4c2-8fd1-11eb-924d-9cd76263cbd0,genus,Romana,,,,,,,,,,,wfo-4000033435,9077477,
-c3a9351e-8fd1-11eb-924d-9cd76263cbd0,species,campestris,Romana,,Velloso,1829,"Fl. Flumin. 1: 55, t. 146 1829",,,,,,wfo-0001260870,4019561,
-4c4f77c6-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Romana,,Vell.,1829,"Fl. Flumin. 55 1829",,,,,546891-1,wfo-0000405963,4019550,
-4c4fa796-8fcc-11eb-924d-9cd76263cbd0,species,integerrima,Romana,,Vell.,1829,"Fl. Flumin. 55 1829",,,,,546892-1,wfo-0000405964,4019540,
-ec2928a6-8fcb-11eb-924d-9cd76263cbd0,species,romanallens,,,"(Cif. & Giacom.) Aver.",1986,"Bot. Zhurn. (Moscow & Leningrad) 71: 93 1986",,,,d3537510-8fcc-11eb-924d-9cd76263cbd0,942422-1,wfo-0000258768,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9c3b4c2-8fd1-11eb-924d-9cd76263cbd0,genus,Romana,,,,,,,,,,,,,,wfo-4000033435,9077477,,
+c3a9351e-8fd1-11eb-924d-9cd76263cbd0,species,campestris,Romana,,Velloso,,1829,,"Fl. Flumin. 1: 55, t. 146 1829",,,,,,,wfo-0001260870,4019561,,
+4c4f77c6-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Romana,,Vell.,,1829,,"Fl. Flumin. 55 1829",,,,,,546891-1,wfo-0000405963,4019550,,
+4c4fa796-8fcc-11eb-924d-9cd76263cbd0,species,integerrima,Romana,,Vell.,,1829,,"Fl. Flumin. 55 1829",,,,,,546892-1,wfo-0000405964,4019540,,
+ec2928a6-8fcb-11eb-924d-9cd76263cbd0,species,romanallens,,,"(Cif. & Giacom.) Aver.",,1986,,"Bot. Zhurn. (Moscow & Leningrad) 71: 93 1986",,,,d3537510-8fcc-11eb-924d-9cd76263cbd0,,942422-1,wfo-0000258768,,,

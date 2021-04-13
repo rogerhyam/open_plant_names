@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb615974-8fd1-11eb-924d-9cd76263cbd0,genus,Tirania,,,Pierre,1887,"Bull. Mens. Soc. Linn. Paris i. (1887) 657",,,,,6045-1,wfo-4000038471,7273361,
-4cfebeb6-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Tirania,,Pierre,1887,"Bull. Mens. Soc. Linn. Paris 1: 658 1887",,,,,,wfo-0000406859,3872249,
-4f315680-8fcc-11eb-924d-9cd76263cbd0,species,daucoides,Tiricta,,Raf.,1838,"New Fl. 4: 23 1838",,,,,849414-1,wfo-0000409731,3634043,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb615974-8fd1-11eb-924d-9cd76263cbd0,genus,Tirania,,,Pierre,,1887,,"Bull. Mens. Soc. Linn. Paris i. (1887) 657",,,,,,6045-1,wfo-4000038471,7273361,,
+4cfebeb6-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Tirania,,Pierre,,1887,,"Bull. Mens. Soc. Linn. Paris 1: 658 1887",,,,,,,wfo-0000406859,3872249,,
+4f315680-8fcc-11eb-924d-9cd76263cbd0,species,daucoides,Tiricta,,Raf.,,1838,,"New Fl. 4: 23 1838",,,,,,849414-1,wfo-0000409731,3634043,,

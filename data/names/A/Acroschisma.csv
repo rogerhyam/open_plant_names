@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ded1eb6a-8fd1-11eb-924d-9cd76263cbd0,genus,Acroschisma,,,Lindl.,1846,"Veg. Kingd. 63. 1846.",,,,,,wfo-4000000452,4887821,
-df0d852a-8fcd-11eb-924d-9cd76263cbd0,species,andensis,Acroschisma,,Spruce,1861,"J. Proc. Linn. Soc., Bot. 5: 46 1861",,,,,,wfo-0001147838,8184606,
-df0d9fec-8fcd-11eb-924d-9cd76263cbd0,species,densifolia,Acroschisma,,"(Mitt.) A.Jaeger",1869,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1869–70: 248 (Gen. Sp. Musc. 1: 8) 1870",,,,df6960ca-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001147839,7901710,
-df0dbd24-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Acroschisma,,"(Hook.f.) A.Jaeger",1869,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1869–70: 248 1870",,,,,,wfo-0001147840,7366110,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ded1eb6a-8fd1-11eb-924d-9cd76263cbd0,genus,Acroschisma,,,Lindl.,,1846,,"Veg. Kingd. 63. 1846.",,,,,,,wfo-4000000452,4887821,,
+df0d852a-8fcd-11eb-924d-9cd76263cbd0,species,andensis,Acroschisma,,Spruce,,1861,,"J. Proc. Linn. Soc., Bot. 5: 46 1861",,,,,,,wfo-0001147838,8184606,,
+df0d9fec-8fcd-11eb-924d-9cd76263cbd0,species,densifolia,Acroschisma,,"(Mitt.) A.Jaeger",,1869,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1869–70: 248 (Gen. Sp. Musc. 1: 8) 1870",,,,df6960ca-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001147839,7901710,,
+df0dbd24-8fcd-11eb-924d-9cd76263cbd0,species,wilsonii,Acroschisma,,"(Hook.f.) A.Jaeger",,1869,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1869–70: 248 1870",,,,,,,wfo-0001147840,7366110,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e49fb270-8fd1-11eb-924d-9cd76263cbd0,genus,Heracantha,,,,,,,,,,,wfo-4000017525,7336190,
-ad5ecd1c-8fba-11eb-924d-9cd76263cbd0,species,armenia,Heracantha,,"G.Don ex Loudon",,"Hort. Brit. 332.",,,,,213842-1,wfo-0000128567,4240932,
-5347a55c-8fb4-11eb-924d-9cd76263cbd0,species,cretica,Heracantha,,"Hoffmanns. & Link",,"Fl. Port ii. 207.",,,,,213843-1,wfo-0000063349,4240927,
-9084629a-8fb2-11eb-924d-9cd76263cbd0,species,glauca,Heracantha,,Sweet,1826,"Hort. Brit. (Sweet) 216 1826",,,,,213844-1,wfo-0000028281,4240924,
-0acf55d8-8fb2-11eb-924d-9cd76263cbd0,species,lanata,Heracantha,,"Hofimgg. & Link",,"Fl. Port. ii 206.",,,,,,wfo-0000007193,4240918,
-8d95a8c8-8fb2-11eb-924d-9cd76263cbd0,species,taurica,Heracantha,,Link,,"Enum. Hort. Berol. ii. 304.",,,,,213846-1,wfo-0000027928,4211122,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e49fb270-8fd1-11eb-924d-9cd76263cbd0,genus,Heracantha,,,,,,,,,,,,,,wfo-4000017525,7336190,,
+ad5ecd1c-8fba-11eb-924d-9cd76263cbd0,species,armenia,Heracantha,,"G.Don ex Loudon",,,,"Hort. Brit. 332.",,,,,,213842-1,wfo-0000128567,4240932,,
+5347a55c-8fb4-11eb-924d-9cd76263cbd0,species,cretica,Heracantha,,"Hoffmanns. & Link",,,,"Fl. Port ii. 207.",,,,,,213843-1,wfo-0000063349,4240927,,
+9084629a-8fb2-11eb-924d-9cd76263cbd0,species,glauca,Heracantha,,Sweet,,1826,,"Hort. Brit. (Sweet) 216 1826",,,,,,213844-1,wfo-0000028281,4240924,,
+0acf55d8-8fb2-11eb-924d-9cd76263cbd0,species,lanata,Heracantha,,"Hofimgg. & Link",,,,"Fl. Port. ii 206.",,,,,,,wfo-0000007193,4240918,,
+8d95a8c8-8fb2-11eb-924d-9cd76263cbd0,species,taurica,Heracantha,,Link,,,,"Enum. Hort. Berol. ii. 304.",,,,,,213846-1,wfo-0000027928,4211122,,

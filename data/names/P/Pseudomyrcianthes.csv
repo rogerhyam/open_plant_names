@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e928f036-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomyrcianthes,,,Kausel,1955,"Ark. Bot., n.s. 3: 504. 1955[1956].",,,,,,wfo-4000031604,7330725,
-fc2b55ee-8fcb-11eb-924d-9cd76263cbd0,species,adamantium,Pseudomyrcianthes,,"(Cambess.) Kausel",1956,"Ark. Bot. a.s., 3: 505 1956",,,,,600689-1,wfo-0000284091,3187932,
-c2e55454-8fcd-11eb-924d-9cd76263cbd0,species,cambessedeana,Pseudomyrcianthes,,Kausel,1955,"Ark. Bot., n.s., 3: 505 1955",,,,,211482-2,wfo-0001086465,3717494,
-fc2b752e-8fcb-11eb-924d-9cd76263cbd0,species,kochiana,Pseudomyrcianthes,,"(DC.) Kausel",1956,"Ark. Bot. a.s., 3: 505 1956",,,,,211483-2,wfo-0000284092,3179765,
-fc2bc3f8-8fcb-11eb-924d-9cd76263cbd0,species,pseudomato,Pseudomyrcianthes,,"(D.Legrand) Kausel",1956,"Ark. Bot. a.s., 3: 505 1956",,,,87539f9a-8fcd-11eb-924d-9cd76263cbd0,211484-2,wfo-0000284093,3188159,
-fc2bfc56-8fcb-11eb-924d-9cd76263cbd0,species,pyriformis,Pseudomyrcianthes,,"(Cambess.) Kausel",1956,"Ark. Bot. a.s., 3: 504 1956",,,,875a3c9c-8fcd-11eb-924d-9cd76263cbd0,600692-1,wfo-0000284094,3179206,
-fc2c282a-8fcb-11eb-924d-9cd76263cbd0,species,rosea,Pseudomyrcianthes,,"(DC.) Kausel",1956,"Ark. Bot. a.s., 3: 505 1956",,,,,600693-1,wfo-0000284095,3178550,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e928f036-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomyrcianthes,,,Kausel,,1955,,"Ark. Bot., n.s. 3: 504. 1955[1956].",,,,,,,wfo-4000031604,7330725,,
+fc2b55ee-8fcb-11eb-924d-9cd76263cbd0,species,adamantium,Pseudomyrcianthes,,"(Cambess.) Kausel",,1956,,"Ark. Bot. a.s., 3: 505 1956",,,,,,600689-1,wfo-0000284091,3187932,,
+c2e55454-8fcd-11eb-924d-9cd76263cbd0,species,cambessedeana,Pseudomyrcianthes,,Kausel,,1955,,"Ark. Bot., n.s., 3: 505 1955",,,,,,211482-2,wfo-0001086465,3717494,,
+fc2b752e-8fcb-11eb-924d-9cd76263cbd0,species,kochiana,Pseudomyrcianthes,,"(DC.) Kausel",,1956,,"Ark. Bot. a.s., 3: 505 1956",,,,,,211483-2,wfo-0000284092,3179765,,
+fc2bc3f8-8fcb-11eb-924d-9cd76263cbd0,species,pseudomato,Pseudomyrcianthes,,"(D.Legrand) Kausel",,1956,,"Ark. Bot. a.s., 3: 505 1956",,,,87539f9a-8fcd-11eb-924d-9cd76263cbd0,,211484-2,wfo-0000284093,3188159,,
+fc2bfc56-8fcb-11eb-924d-9cd76263cbd0,species,pyriformis,Pseudomyrcianthes,,"(Cambess.) Kausel",,1956,,"Ark. Bot. a.s., 3: 504 1956",,,,875a3c9c-8fcd-11eb-924d-9cd76263cbd0,,600692-1,wfo-0000284094,3179206,,
+fc2c282a-8fcb-11eb-924d-9cd76263cbd0,species,rosea,Pseudomyrcianthes,,"(DC.) Kausel",,1956,,"Ark. Bot. a.s., 3: 505 1956",,,,,,600693-1,wfo-0000284095,3178550,,

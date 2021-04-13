@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e32ec9f8-8fd1-11eb-924d-9cd76263cbd0,genus,Edgaria,,,C.B.Clarke,1876,"J. Linn. Soc., Bot. 15: 113. 1876.",,,,,,wfo-4000013019,7317500,
-ebc4209a-8fcc-11eb-924d-9cd76263cbd0,species,darjeelingensis,Edgaria,,C.B.Clarke,1876,"J. Linn. Soc., Bot. 15: 114 1876",,,,,292642-1,wfo-0000663227,7317501,
-ebc43b20-8fcc-11eb-924d-9cd76263cbd0,variety,clarkeana,Edgaria,darjeelingensis,S.N.Biswas,1984,"J. Econ. Taxon. Bot. 18: 173 1984",,,,,,wfo-0000663228,5536786,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e32ec9f8-8fd1-11eb-924d-9cd76263cbd0,genus,Edgaria,,,C.B.Clarke,,1876,,"J. Linn. Soc., Bot. 15: 113. 1876.",,,,,,,wfo-4000013019,7317500,,
+ebc4209a-8fcc-11eb-924d-9cd76263cbd0,species,darjeelingensis,Edgaria,,C.B.Clarke,,1876,,"J. Linn. Soc., Bot. 15: 114 1876",,Q55758893,,,,292642-1,wfo-0000663227,7317501,,
+ebc43b20-8fcc-11eb-924d-9cd76263cbd0,variety,clarkeana,Edgaria,darjeelingensis,S.N.Biswas,,1984,,"J. Econ. Taxon. Bot. 18: 173 1984",,,,,,,wfo-0000663228,5536786,,

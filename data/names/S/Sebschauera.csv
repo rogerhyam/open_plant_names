@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea39835a-8fd1-11eb-924d-9cd76263cbd0,genus,Sebschauera,,,Kuntze,1891,"Revis. Gen. Pl. 1: 494. 1891. (5 Nov 1891)",,,,,,wfo-4000034914,9485519,
-61cf4298-8fcc-11eb-924d-9cd76263cbd0,species,oblongata,Sebschauera,,Kuntze,1891,"Revis. Gen. Pl. 2: 494 1891",,,,,231524-2,wfo-0000433625,3777245,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea39835a-8fd1-11eb-924d-9cd76263cbd0,genus,Sebschauera,,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 494. 1891. (5 Nov 1891)",,,,,,,wfo-4000034914,9485519,,
+61cf4298-8fcc-11eb-924d-9cd76263cbd0,species,oblongata,Sebschauera,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 494 1891",,,,,,231524-2,wfo-0000433625,3777245,,

@@ -1,18 +1,22 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea956c6a-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerangium,,,,,,,,,,,wfo-4000035952,3229920,
-f0d6bcf4-8fcd-11eb-924d-9cd76263cbd0,species,apiculatum,Sphaerangium,,"(Mitt.) Schimp.",1860,"Syn. Musc. Eur. 12 1860",,,,,,wfo-0001185403,8087351,
-f0d6d702-8fcd-11eb-924d-9cd76263cbd0,species,brisbanicum,Sphaerangium,,"(Müll.Hal.) A.Jaeger",1871,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,wfo-0001185404,8368773,
-f0d6f3d6-8fcd-11eb-924d-9cd76263cbd0,species,capense,Sphaerangium,,"(Müll.Hal.) A.Jaeger",1871,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,wfo-0001185405,7612438,
-f0d70fec-8fcd-11eb-924d-9cd76263cbd0,species,integrifolium,Sphaerangium,,"(Müll.Hal.) A.Jaeger",1871,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,wfo-0001185406,7887688,
-f0d72bda-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Sphaerangium,,"(Müll.Hal.) Paris",,"Index Bryol. 1173 1898",,,,,,wfo-0001185407,7834815,
-f0d74606-8fcd-11eb-924d-9cd76263cbd0,species,mediterraneum,Sphaerangium,,"(Limpr.) Paris",,"Index Bryol. 1173 1898",,,,def3d12a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185408,8183465,
-f0d762a8-8fcd-11eb-924d-9cd76263cbd0,species,minus,Sphaerangium,,"(Hook. & Taylor) A.Jaeger",1868,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1868–69: 78 1869",,,,,,wfo-0001185409,8122586,
-f0d77cca-8fcd-11eb-924d-9cd76263cbd0,species,muticum,Sphaerangium,,"(Schreb. ex Hedw.) Schimp.",1860,"Syn. Musc. Eur. 13 1860",,,,e0766b66-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185410,7922357,
-f0d79958-8fcd-11eb-924d-9cd76263cbd0,species,nanum,Sphaerangium,,"(Müll.Hal.) Kindb.",1889,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,wfo-0001185411,7537419,
-f0d7b2d0-8fcd-11eb-924d-9cd76263cbd0,species,pellucidum,Sphaerangium,,"(M.Fleisch.) G.Roth",1904,"Eur. Laubm. 1: 124 1904",,,,def46b8a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185412,8060403,
-f0d7ce6e-8fcd-11eb-924d-9cd76263cbd0,species,rufescens,Sphaerangium,,"(A.Jaeger) A.Jaeger",1871,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 335 (Gen. Sp. Musc. 1: 183) 1873",,,,def4c71a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185413,7804511,
-f0d7e82c-8fcd-11eb-924d-9cd76263cbd0,species,schimperianum,Sphaerangium,,"(Sull.) Schimp.",1860,"Syn. Musc. Eur. 12 1860",,,,e07920ae-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185414,8410637,
-f0d80456-8fcd-11eb-924d-9cd76263cbd0,species,sullivanii,Sphaerangium,,"(Müll.Hal.) Kindb.",1889,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,wfo-0001185415,7387995,
-f0d82030-8fcd-11eb-924d-9cd76263cbd0,species,triquetrum,Sphaerangium,,"(Spruce) Schimp.",1860,"Syn. Musc. Eur. 14 1860",,,,e07b45f0-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185416,7847662,
-f0d839bc-8fcd-11eb-924d-9cd76263cbd0,species,uleanum,Sphaerangium,,"(Müll.Hal.) Kindb.",1889,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,wfo-0001185417,8043967,
-f0d85690-8fcd-11eb-924d-9cd76263cbd0,species,vesiculosum,Sphaerangium,,"(Müll.Hal.) Kindb.",1889,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,def60c10-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001185418,7965306,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea956c6a-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerangium,,,Seaver,,1951,,"North American Cup-fungi (New York), (Inoperculates) 308 (1951)",,,,ea956c6a-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000035952,3229920,5081," "
+f0d6bcf4-8fcd-11eb-924d-9cd76263cbd0,species,apiculatum,Sphaerangium,,"(Mitt.) Schimp.",,1860,,"Syn. Musc. Eur. 12 1860",,,,,,,wfo-0001185403,8087351,,
+f0d6d702-8fcd-11eb-924d-9cd76263cbd0,species,brisbanicum,Sphaerangium,,"(Müll.Hal.) A.Jaeger",,1871,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,,wfo-0001185404,8368773,,
+f0d6f3d6-8fcd-11eb-924d-9cd76263cbd0,species,capense,Sphaerangium,,"(Müll.Hal.) A.Jaeger",,1871,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,,wfo-0001185405,7612438,,
+f0d70fec-8fcd-11eb-924d-9cd76263cbd0,species,integrifolium,Sphaerangium,,"(Müll.Hal.) A.Jaeger",,1871,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 336 (Gen. Sp. Musc. 1: 184) 1873",,,,,,,wfo-0001185406,7887688,,
+f0d72bda-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Sphaerangium,,"(Müll.Hal.) Paris",,,,"Index Bryol. 1173 1898",,,,,,,wfo-0001185407,7834815,,
+00cfa2fc-9bad-11eb-a8a2-19ed5c03f8d3,species,magnisporum,Sphaerangium,,"(E.K. Cash & Stevenson{?}) Seaver",,1951,,"North American Cup-fungi (New York), (Inoperculates) 309 (1951)",,,,ecec2ada-9bac-11eb-a8a2-19ed5c03f8d3,,,,,306173," "
+f0d74606-8fcd-11eb-924d-9cd76263cbd0,species,mediterraneum,Sphaerangium,,"(Limpr.) Paris",,,,"Index Bryol. 1173 1898",,,,def3d12a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185408,8183465,,
+f0d762a8-8fcd-11eb-924d-9cd76263cbd0,species,minus,Sphaerangium,,"(Hook. & Taylor) A.Jaeger",,1868,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1868–69: 78 1869",,,,,,,wfo-0001185409,8122586,,
+f0d77cca-8fcd-11eb-924d-9cd76263cbd0,species,muticum,Sphaerangium,,"(Schreb. ex Hedw.) Schimp.",,1860,,"Syn. Musc. Eur. 13 1860",,,,e0766b66-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185410,7922357,,
+f0d79958-8fcd-11eb-924d-9cd76263cbd0,species,nanum,Sphaerangium,,"(Müll.Hal.) Kindb.",,1889,,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,,wfo-0001185411,7537419,,
+f0d7b2d0-8fcd-11eb-924d-9cd76263cbd0,species,pellucidum,Sphaerangium,,"(M.Fleisch.) G.Roth",,1904,,"Eur. Laubm. 1: 124 1904",,,,def46b8a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185412,8060403,,
+eb9ae126-9bac-11eb-a8a2-19ed5c03f8d3,species,pruni,Sphaerangium,,"(Teng) Teng",,,,,,,,19ca916e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,339399," "
+f0d7ce6e-8fcd-11eb-924d-9cd76263cbd0,species,rufescens,Sphaerangium,,"(A.Jaeger) A.Jaeger",,1871,,"Ber. Thätigk. St. Gallischen Naturwiss. Ges. 1871–72: 335 (Gen. Sp. Musc. 1: 183) 1873",,,,def4c71a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185413,7804511,,
+f0d7e82c-8fcd-11eb-924d-9cd76263cbd0,species,schimperianum,Sphaerangium,,"(Sull.) Schimp.",,1860,,"Syn. Musc. Eur. 12 1860",,,,e07920ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185414,8410637,,
+f0d80456-8fcd-11eb-924d-9cd76263cbd0,species,sullivanii,Sphaerangium,,"(Müll.Hal.) Kindb.",,1889,,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,,wfo-0001185415,7387995,,
+00d054b8-9bad-11eb-a8a2-19ed5c03f8d3,species,tetrasporum,Sphaerangium,,"(Ellis) Seaver",,1951,,"North American Cup-fungi (New York), (Inoperculates) 308 (1951)",,,,94b18d42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,306174," "
+00d09bf8-9bad-11eb-a8a2-19ed5c03f8d3,species,tiliae,Sphaerangium,,Seaver,,1951,,"North American Cup-fungi (New York), (Inoperculates) 309 (1951)",,,,00d09bf8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,306175," "
+f0d82030-8fcd-11eb-924d-9cd76263cbd0,species,triquetrum,Sphaerangium,,"(Spruce) Schimp.",,1860,,"Syn. Musc. Eur. 14 1860",,,,e07b45f0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185416,7847662,,
+f0d839bc-8fcd-11eb-924d-9cd76263cbd0,species,uleanum,Sphaerangium,,"(Müll.Hal.) Kindb.",,1889,,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,,,,wfo-0001185417,8043967,,
+f0d85690-8fcd-11eb-924d-9cd76263cbd0,species,vesiculosum,Sphaerangium,,"(Müll.Hal.) Kindb.",,1889,,"Enum. Bryin. Exot., Suppl. 1 95 1889",,,,def60c10-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001185418,7965306,,

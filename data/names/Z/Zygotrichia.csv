@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec4302c0-8fd1-11eb-924d-9cd76263cbd0,genus,Zygotrichia,,,Brid.,1826,"Bryol. Univ. 1: 520. 1826.",,,,,,wfo-4000041354,4912183,
-ea9533c0-8fcd-11eb-924d-9cd76263cbd0,species,cylindrica,Zygotrichia,,Taylor,1836,"Fl. Hibern. 2: 26 1836",,,,,,wfo-0001172628,8201725,
-ea95506c-8fcd-11eb-924d-9cd76263cbd0,species,leucostoma,Zygotrichia,,"(R.Br.) Brid.",1826,"Bryol. Univ. 1: 521 1826",,,,e16eb0b4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001172629,7363187,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec4302c0-8fd1-11eb-924d-9cd76263cbd0,genus,Zygotrichia,,,Brid.,,1826,,"Bryol. Univ. 1: 520. 1826.",,,,,,,wfo-4000041354,4912183,,
+ea9533c0-8fcd-11eb-924d-9cd76263cbd0,species,cylindrica,Zygotrichia,,Taylor,,1836,,"Fl. Hibern. 2: 26 1836",,,,,,,wfo-0001172628,8201725,,
+ea95506c-8fcd-11eb-924d-9cd76263cbd0,species,leucostoma,Zygotrichia,,"(R.Br.) Brid.",,1826,,"Bryol. Univ. 1: 521 1826",,,,e16eb0b4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001172629,7363187,,

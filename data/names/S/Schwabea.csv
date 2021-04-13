@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea234e28-8fd1-11eb-924d-9cd76263cbd0,genus,Schwabea,,,"Endl. & Fenzl",1839,"Nov. Stirp. Dec. 81. 1839.",,,,,,wfo-4000034633,7264071,
-61e16540-8fcc-11eb-924d-9cd76263cbd0,species,anisacanthus,Schwabea,,Lindau,1895,"Nat. Pflanzenfam. 4(3b): 346 1895",,,,,54973-1,wfo-0000433718,3777665,
-61e0f588-8fcc-11eb-924d-9cd76263cbd0,species,ciliaris,Schwabea,,"(Jacq.) Nees",1847,"Prodr. 11: 384 1847",,,,,54975-1,wfo-0000433715,3777649,
-61e11a9a-8fcc-11eb-924d-9cd76263cbd0,species,ecbolioides,Schwabea,,Lindau,1894,"Bot. Jahrb. Syst. 20: 58 1894",,,,,54978-1,wfo-0000433716,3779849,
-61e14286-8fcc-11eb-924d-9cd76263cbd0,species,modesta,Schwabea,,Endl.,1839,"Nov. Stirp. Dec. 81 1839",,,,,54979-1,wfo-0000433717,3779841,
-b071b09c-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Schwabea,,Lindau,,,,,,,,wfo-0001044668,3779826,
-61de3d66-8fcc-11eb-924d-9cd76263cbd0,species,spicigera,Schwabea,,Nees,1847,"Prodr. 11: 384 1847",,,,,54983-1,wfo-0000433700,3777632,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea234e28-8fd1-11eb-924d-9cd76263cbd0,genus,Schwabea,,,"Endl. & Fenzl",,1839,,"Nov. Stirp. Dec. 81. 1839.",,,,,,,wfo-4000034633,7264071,,
+61e16540-8fcc-11eb-924d-9cd76263cbd0,species,anisacanthus,Schwabea,,Lindau,,1895,,"Nat. Pflanzenfam. 4(3b): 346 1895",,,,,,54973-1,wfo-0000433718,3777665,,
+61e0f588-8fcc-11eb-924d-9cd76263cbd0,species,ciliaris,Schwabea,,"(Jacq.) Nees",,1847,,"Prodr. 11: 384 1847",,,,,,54975-1,wfo-0000433715,3777649,,
+61e11a9a-8fcc-11eb-924d-9cd76263cbd0,species,ecbolioides,Schwabea,,Lindau,,1894,,"Bot. Jahrb. Syst. 20: 58 1894",,,,,,54978-1,wfo-0000433716,3779849,,
+61e14286-8fcc-11eb-924d-9cd76263cbd0,species,modesta,Schwabea,,Endl.,,1839,,"Nov. Stirp. Dec. 81 1839",,,,,,54979-1,wfo-0000433717,3779841,,
+b071b09c-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Schwabea,,Lindau,,,,,,,,,,,wfo-0001044668,3779826,,
+61de3d66-8fcc-11eb-924d-9cd76263cbd0,species,spicigera,Schwabea,,Nees,,1847,,"Prodr. 11: 384 1847",,,,,,54983-1,wfo-0000433700,3777632,,

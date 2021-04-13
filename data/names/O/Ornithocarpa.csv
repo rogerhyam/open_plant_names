@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a9c9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Ornithocarpa,,,Rose,1905,"Contr. U.S. Natl. Herb. 8(4): 293. 1905. (20 Apr 1905)",,,,,12868-1,wfo-4000027182,3041454,
-bd400284-8fd1-11eb-924d-9cd76263cbd0,species,fimbriata,Ornithocarpa,,Rose,1905,"Contr. U.S. Natl. Herb. 8(4): 293, pl. 64 1905",,,,,176490-2,wfo-0001248960,3041455,
-be4e51bc-8fd1-11eb-924d-9cd76263cbd0,species,torulosa,Ornithocarpa,,Rollins,1969,"Contr. Gray Herb. 198: 6, f. 4 1969",,,,,176491-2,wfo-0001250895,3041456,
-5913330c-8fcd-11eb-924d-9cd76263cbd0,species,arenicola,Ornithocephalochloa,,Kurz,1875,"J. Bot. 13: 332 1875",,,,,409959-1,wfo-0000882245,4142825,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a9c9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Ornithocarpa,,,Rose,,1905,,"Contr. U.S. Natl. Herb. 8(4): 293. 1905. (20 Apr 1905)",,Q95371159,,,,12868-1,wfo-4000027182,3041454,,
+bd400284-8fd1-11eb-924d-9cd76263cbd0,species,fimbriata,Ornithocarpa,,Rose,,1905,,"Contr. U.S. Natl. Herb. 8(4): 293, pl. 64 1905",,Q95371159,,,,176490-2,wfo-0001248960,3041455,,
+be4e51bc-8fd1-11eb-924d-9cd76263cbd0,species,torulosa,Ornithocarpa,,Rollins,,1969,,"Contr. Gray Herb. 198: 6, f. 4 1969",,,,,,176491-2,wfo-0001250895,3041456,,
+5913330c-8fcd-11eb-924d-9cd76263cbd0,species,arenicola,Ornithocephalochloa,,Kurz,,1875,,"J. Bot. 13: 332 1875",,,,,,409959-1,wfo-0000882245,4142825,,

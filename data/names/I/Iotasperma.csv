@@ -1,10 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e51b73c4-8fd1-11eb-924d-9cd76263cbd0,genus,Iotasperma,,,G.L.Nesom,,,,,,,978400-1,wfo-4000019143,9453661,
-c36be17e-8fb2-11eb-924d-9cd76263cbd0,species,australiense,Iotasperma,,G.L.Nesom,1994,"146 1994",,,,,,wfo-0000033865,3148675,
-c2ee9efc-8fd1-11eb-924d-9cd76263cbd0,species,australiensis,Iotasperma,,G.L.Nesom,1994,"Phytologia 76(2): 146 1994",,,,,978401-1,wfo-0001259574,4225377,
-ad055780-8fb2-11eb-924d-9cd76263cbd0,species,sessilifolia,Iotasperma,,"(F.Muell.) G.L.Nesom",1994,"146 1994",,,,,,wfo-0000031519,3148673,
-461ff582-8fcd-11eb-924d-9cd76263cbd0,species,iowense,,,"(R.W.Pohl) Barkworth & D.R.Dewey",1985,"Amer. J. Bot. 72: 772 1985",,,,461a9754-8fcd-11eb-924d-9cd76263cbd0,1003658-1,wfo-0000841086,,
-461a9754-8fcd-11eb-924d-9cd76263cbd0,species,iowense,,,R.W.Pohl,1966,"Brittonia 18: 255 1966",,,,,288405-2,wfo-0000841045,,
-b64174e0-8fd1-11eb-924d-9cd76263cbd0,species,mora,Ioxylon,,"(Griseb.) Kuntze",1898,"Revis. Gen. Pl. 3: 294 1898",,,,c21baafa-8fcd-11eb-924d-9cd76263cbd0,129083-2,wfo-0001235999,3764715,
-12e23c48-8fcd-11eb-924d-9cd76263cbd0,species,pomiferum,Ioxylon,,Raf.,1817,"Amer. Monthly Mag. & Crit. Rev. 2: 118 1817",,,,,129084-2,wfo-0000732069,2984582,
-12e2553e-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrimum,Ioxylon,pomiferum,Kuntze,1898,"Revis. Gen. Pl. 3(2): 294 1898",,,,,129085-2,wfo-0000732070,3764689,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e51b73c4-8fd1-11eb-924d-9cd76263cbd0,genus,Iotasperma,,,G.L.Nesom,,,,,,,,,,978400-1,wfo-4000019143,9453661,,
+c36be17e-8fb2-11eb-924d-9cd76263cbd0,species,australiense,Iotasperma,,G.L.Nesom,,1994,,"146 1994",,,,,,,wfo-0000033865,3148675,,
+c2ee9efc-8fd1-11eb-924d-9cd76263cbd0,species,australiensis,Iotasperma,,G.L.Nesom,,1994,,"Phytologia 76(2): 146 1994",,,,,,978401-1,wfo-0001259574,4225377,,
+ad055780-8fb2-11eb-924d-9cd76263cbd0,species,sessilifolia,Iotasperma,,"(F.Muell.) G.L.Nesom",,1994,,"146 1994",,,,,,,wfo-0000031519,3148673,,

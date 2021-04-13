@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8857c4e-8fd1-11eb-924d-9cd76263cbd0,genus,Pileostigma,,,,,,,,,,,wfo-4000029670,7302481,
-7788d98c-8fcc-11eb-924d-9cd76263cbd0,species,pyrrhocarpum,Pileostigma,,Hochst.,1846,"Flora 29: 598 1846",,,,,514339-1,wfo-0000469818,3975548,
-7788bb46-8fcc-11eb-924d-9cd76263cbd0,species,reticulatum,Pileostigma,,"Hochst. ex Benth.",1852,"Pl. Jungh. 261 1852",,,,,514341-1,wfo-0000469817,3975541,
-8513b61c-8fcc-11eb-924d-9cd76263cbd0,species,protensus,Piletocarpus,,"(Wight) Hassk.",1870,"Commelin. Ind. 15 1870",,,,,,wfo-0000493344,2763923,
-85142b4c-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolius,Piletocarpus,protensus,Hassk.,1870,"Commelin. Ind. 15 1870",,,,,,wfo-0000493348,2763929,
-85157ef2-8fcc-11eb-924d-9cd76263cbd0,variety,intermedius,Piletocarpus,protensus,Hassk.,1870,"Commelin. Ind. 15 1870",,,,,,wfo-0000493357,2763924,
-8515b5b6-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Piletocarpus,protensus,Hassk.,1870,"Commelin. Ind. 15 1870",,,,,,wfo-0000493359,2763930,
-85162438-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Piletocarpus,,"(Seem.) Hassk.",1870,"Commelin. Ind. 18 1870",,,,,,wfo-0000493363,2763938,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8857c4e-8fd1-11eb-924d-9cd76263cbd0,genus,Pileostigma,,,,,,,,,,,,,,wfo-4000029670,7302481,,
+7788d98c-8fcc-11eb-924d-9cd76263cbd0,species,pyrrhocarpum,Pileostigma,,Hochst.,,1846,,"Flora 29: 598 1846",,,,,,514339-1,wfo-0000469818,3975548,,
+7788bb46-8fcc-11eb-924d-9cd76263cbd0,species,reticulatum,Pileostigma,,"Hochst. ex Benth.",,1852,,"Pl. Jungh. 261 1852",,,,,,514341-1,wfo-0000469817,3975541,,
+8513b61c-8fcc-11eb-924d-9cd76263cbd0,species,protensus,Piletocarpus,,"(Wight) Hassk.",,1870,,"Commelin. Ind. 15 1870",,,,,,,wfo-0000493344,2763923,,
+85142b4c-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolius,Piletocarpus,protensus,Hassk.,,1870,,"Commelin. Ind. 15 1870",,,,,,,wfo-0000493348,2763929,,
+85157ef2-8fcc-11eb-924d-9cd76263cbd0,variety,intermedius,Piletocarpus,protensus,Hassk.,,1870,,"Commelin. Ind. 15 1870",,,,,,,wfo-0000493357,2763924,,
+8515b5b6-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Piletocarpus,protensus,Hassk.,,1870,,"Commelin. Ind. 15 1870",,,,,,,wfo-0000493359,2763930,,
+85162438-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Piletocarpus,,"(Seem.) Hassk.",,1870,,"Commelin. Ind. 18 1870",,,,,,,wfo-0000493363,2763938,,

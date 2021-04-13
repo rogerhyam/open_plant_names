@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e02b8f34-8fd1-11eb-924d-9cd76263cbd0,genus,Bembicia,,,Oliv.,1883,"Hooker's Icon. Pl. 1883.",,,,,36096-1,wfo-4000004401,7274170,
-7596fcd4-8fcd-11eb-924d-9cd76263cbd0,species,axillaris,Bembicia,,Oliv.,,"Hooker's Icon. Pl. 15: t. 1404 1883",,,,,779419-1,wfo-0000921705,3879217,
-de84d0aa-8fd1-11eb-924d-9cd76263cbd0,species,uniflora,Bembicia,,"(H. Perrier) Capuron",,,,,,,,wfo-0001315650,9226886,
-2b5943fa-8fc5-11eb-924d-9cd76263cbd0,species,cubense,Bembicidium,,Rydb.,,,,,,,,wfo-0000191683,5358167,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e02b8f34-8fd1-11eb-924d-9cd76263cbd0,genus,Bembicia,,,Oliv.,,1883,,"Hooker's Icon. Pl. 1883.",,,,,,36096-1,wfo-4000004401,7274170,,
+7596fcd4-8fcd-11eb-924d-9cd76263cbd0,species,axillaris,Bembicia,,Oliv.,,,,"Hooker's Icon. Pl. 15: t. 1404 1883",,,,,,779419-1,wfo-0000921705,3879217,,
+de84d0aa-8fd1-11eb-924d-9cd76263cbd0,species,uniflora,Bembicia,,"(H. Perrier) Capuron",,,,,,,,,,,wfo-0001315650,9226886,,
+2b5943fa-8fc5-11eb-924d-9cd76263cbd0,species,cubense,Bembicidium,,Rydb.,,,,,,,,,,,wfo-0000191683,5358167,,

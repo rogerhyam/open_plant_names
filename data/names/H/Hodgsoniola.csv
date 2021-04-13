@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4c87e8a-8fd1-11eb-924d-9cd76263cbd0,genus,Hodgsoniola,,,F.Muell.,,,,,,,24358-1,wfo-4000018021,2772659,
-eb0d6f6c-8fcc-11eb-924d-9cd76263cbd0,species,junciformis,Hodgsoniola,,"(F.Muell.) F.Muell.",1861,"Fragm. 2: 185 1861",,,,eb0aada4-8fcc-11eb-924d-9cd76263cbd0,536503-1,wfo-0000661979,2772660,
-adcb5916-8fd1-11eb-924d-9cd76263cbd0,species,aschersoniana,Hoeckia,,"Engl. & Graebn.",1901,"Bot. Jahrb. Syst. 29(5): 598–599 1901",,,,,859394-1,wfo-0001220563,4094773,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4c87e8a-8fd1-11eb-924d-9cd76263cbd0,genus,Hodgsoniola,,,F.Muell.,,,,,,,,,,24358-1,wfo-4000018021,2772659,,
+eb0d6f6c-8fcc-11eb-924d-9cd76263cbd0,species,junciformis,Hodgsoniola,,"(F.Muell.) F.Muell.",,1861,,"Fragm. 2: 185 1861",,,,eb0aada4-8fcc-11eb-924d-9cd76263cbd0,,536503-1,wfo-0000661979,2772660,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e474fc4c-8fd1-11eb-924d-9cd76263cbd0,genus,Hatschbachiella,,,"R.M.King & H.Rob.",,,,,,,298188-2,wfo-4000017017,3150014,
-84b838d6-8fb9-11eb-924d-9cd76263cbd0,species,polyclada,Hatschbachiella,,"(Dusén ex Malme) R.M.King & H.Rob.",1972,"394 1972",,,,,118076-2,wfo-0000119064,3150018,
-35327efe-8fb2-11eb-924d-9cd76263cbd0,species,tweedieana,Hatschbachiella,,"(Hook. ex Hook. & Arn.) R.M.King & H.Rob.",1972,"394 1972",,,,,118077-2,wfo-0000015921,3150015,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e474fc4c-8fd1-11eb-924d-9cd76263cbd0,genus,Hatschbachiella,,,"R.M.King & H.Rob.",,,,,,,,,,298188-2,wfo-4000017017,3150014,,
+84b838d6-8fb9-11eb-924d-9cd76263cbd0,species,polyclada,Hatschbachiella,,"(Dusén ex Malme) R.M.King & H.Rob.",,1972,,"394 1972",,,,,,118076-2,wfo-0000119064,3150018,,
+35327efe-8fb2-11eb-924d-9cd76263cbd0,species,tweedieana,Hatschbachiella,,"(Hook. ex Hook. & Arn.) R.M.King & H.Rob.",,1972,,"394 1972",,,,,,118077-2,wfo-0000015921,3150015,,

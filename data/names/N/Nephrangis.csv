@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e73e7e76-8fd1-11eb-924d-9cd76263cbd0,genus,Nephrangis,,,"(Schltr.) Summerh.",1948,"Kew Bull. 3: 301. 1948.",,,,,30092-1,wfo-4000025911,2832417,
-e7a99d38-8fcb-11eb-924d-9cd76263cbd0,species,bertauxiana,Nephrangis,,"Szlach. & Olszewski",2001,"in Fl. Cameroun 36: 696 2001",,,,,20000666-1,wfo-0000251511,2832421,
-e7a9bec6-8fcb-11eb-924d-9cd76263cbd0,species,filiformis,Nephrangis,,"(Kraenzl.) Summerh.",1948,"Kew Bull. 3: 302 1948",,,,,645436-1,wfo-0000251512,2832418,
-375cf6d0-8fcd-11eb-924d-9cd76263cbd0,variety,bertauxiana,Nephrangis,filiformis,"(Szlach. & Olszewski) R.Rice",2005,"Prelim. Checklist & Survey Subtrib. Aerangidinae (Orchidac.) 40 2005",,,,,77076602-1,wfo-0000809282,2832422,
-e7a9fb3e-8fcb-11eb-924d-9cd76263cbd0,species,matutina,Nephranthera,,"(Poir.) Hassk.",1842,"Tijdschr. Natuurl. Gesch. Physiol. 9: 145 1842",,,,,645437-1,wfo-0000251514,2786206,
-e7aa165a-8fcb-11eb-924d-9cd76263cbd0,species,schlechteri,Nephrocarpus,,Dammer,1906,"Bot. Jahrb. Syst. 39: 22 1906",,,,,668407-1,wfo-0000251515,2736204,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e73e7e76-8fd1-11eb-924d-9cd76263cbd0,genus,Nephrangis,,,"(Schltr.) Summerh.",,1948,,"Kew Bull. 3: 301. 1948.",,Q55788099,,,,30092-1,wfo-4000025911,2832417,,
+e7a99d38-8fcb-11eb-924d-9cd76263cbd0,species,bertauxiana,Nephrangis,,"Szlach. & Olszewski",,2001,,"in Fl. Cameroun 36: 696 2001",,,,,,20000666-1,wfo-0000251511,2832421,,
+e7a9bec6-8fcb-11eb-924d-9cd76263cbd0,species,filiformis,Nephrangis,,"(Kraenzl.) Summerh.",,1948,,"Kew Bull. 3: 302 1948",,Q55788099,,,,645436-1,wfo-0000251512,2832418,,
+375cf6d0-8fcd-11eb-924d-9cd76263cbd0,variety,bertauxiana,Nephrangis,filiformis,"(Szlach. & Olszewski) R.Rice",,2005,,"Prelim. Checklist & Survey Subtrib. Aerangidinae (Orchidac.) 40 2005",,,,,,77076602-1,wfo-0000809282,2832422,,
+e7a9fb3e-8fcb-11eb-924d-9cd76263cbd0,species,matutina,Nephranthera,,"(Poir.) Hassk.",,1842,,"Tijdschr. Natuurl. Gesch. Physiol. 9: 145 1842",,,,,,645437-1,wfo-0000251514,2786206,,

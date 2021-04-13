@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5b4a936-8fd1-11eb-924d-9cd76263cbd0,genus,Leonis,,,B.Nord.,,,,,,,60442075-2,wfo-4000021024,3132217,
-472e40de-8fb2-11eb-924d-9cd76263cbd0,species,trineura,Leonis,,"(Griseb.) B.Nord.",2006,"56 2006",,,,0af922f4-8fb3-11eb-924d-9cd76263cbd0,77083863-1,wfo-0000018697,3132218,
-b2bbd21a-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Leonocassia,,"(Benth.) Britton",1930,"N. Amer. Fl. 23(4): 268 1930",,,,,137357-2,wfo-0001049951,2958018,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5b4a936-8fd1-11eb-924d-9cd76263cbd0,genus,Leonis,,,B.Nord.,,,,,,,,,,60442075-2,wfo-4000021024,3132217,,
+472e40de-8fb2-11eb-924d-9cd76263cbd0,species,trineura,Leonis,,"(Griseb.) B.Nord.",,2006,,"56 2006",,,,0af922f4-8fb3-11eb-924d-9cd76263cbd0,,77083863-1,wfo-0000018697,3132218,,
+b2bbd21a-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Leonocassia,,"(Benth.) Britton",,1930,,"N. Amer. Fl. 23(4): 268 1930",,,,,,137357-2,wfo-0001049951,2958018,,

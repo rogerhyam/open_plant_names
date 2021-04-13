@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2301318-8fd1-11eb-924d-9cd76263cbd0,genus,Cronisia,,,Berk.,1857,"Intr. Crypt. Bot. 434. 1857.",,,,,,wfo-4000009751,2688609,
-fb8ab2d6-8fcd-11eb-924d-9cd76263cbd0,species,fimbriata,Cronisia,,"(Nees) Whittem. & Bischl.",2001,"Cryptog. Bryol. 22: 170 2001",,,,,,wfo-0001207170,2688611,
-f728d704-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Cronisia,,M.Hicks,1993,"Trop. Bryol. 7: 1. f. 1 1993",,,,,,wfo-0001198329,8092673,
-f7127d60-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Cronisia,,Berk.,1857,"Intr. Crypt. Bot. 434 1857",,,,,,wfo-0001198125,7775446,
-fc982e42-8fcd-11eb-924d-9cd76263cbd0,species,weddellii,Cronisia,,"(Mont.) Grolle",1977,"J. Bryol. 9: 532 1977",,,,fcaba382-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001209483,2688610,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2301318-8fd1-11eb-924d-9cd76263cbd0,genus,Cronisia,,,Berk.,,1857,,"Intr. Crypt. Bot. 434. 1857.",,,,,,,wfo-4000009751,2688609,,
+fb8ab2d6-8fcd-11eb-924d-9cd76263cbd0,species,fimbriata,Cronisia,,"(Nees) Whittem. & Bischl.",,2001,,"Cryptog. Bryol. 22: 170 2001",,,,,,,wfo-0001207170,2688611,,
+f728d704-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Cronisia,,M.Hicks,,1993,,"Trop. Bryol. 7: 1. f. 1 1993",,,,,,,wfo-0001198329,8092673,,
+f7127d60-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Cronisia,,Berk.,,1857,,"Intr. Crypt. Bot. 434 1857",,,,,,,wfo-0001198125,7775446,,
+fc982e42-8fcd-11eb-924d-9cd76263cbd0,species,weddellii,Cronisia,,"(Mont.) Grolle",,1977,,"J. Bryol. 9: 532 1977",,,,fcaba382-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209483,2688610,,

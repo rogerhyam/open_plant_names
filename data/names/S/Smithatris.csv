@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea788d20-8fd1-11eb-924d-9cd76263cbd0,genus,Smithatris,,,"W.J.Kress & K.Larsen",2001,"Syst. Bot. 26(2): 226. 2001.",,,,,,wfo-4000035627,2757429,
-a92fa7ae-8fcc-11eb-924d-9cd76263cbd0,species,myanmarensis,Smithatris,,W.J.Kress,2003,"Novon 13: 68 2003",,,,,20011907-1,wfo-0000553645,2757431,
-a92ffbb4-8fcc-11eb-924d-9cd76263cbd0,species,supraneanae,Smithatris,,"W.J.Kress & K.Larsen",2001,"Syst. Bot. 26: 226 2001",,,,,1020978-1,wfo-0000553648,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea788d20-8fd1-11eb-924d-9cd76263cbd0,genus,Smithatris,,,"W.J.Kress & K.Larsen",,2001,,"Syst. Bot. 26(2): 226. 2001.",,Q95467428,,,,1020977-1,wfo-4000035627,2757429,,
+a92fa7ae-8fcc-11eb-924d-9cd76263cbd0,species,myanmarensis,Smithatris,,W.J.Kress,,2003,,"Novon 13: 68 2003",,Q55775515,,,,20011907-1,wfo-0000553645,2757431,,
+a92ffbb4-8fcc-11eb-924d-9cd76263cbd0,species,supraneanae,Smithatris,,"W.J.Kress & K.Larsen",,2001,,"Syst. Bot. 26: 226 2001",,Q95467428,,,,1020978-1,wfo-0000553648,,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfb2c5b8-8fd1-11eb-924d-9cd76263cbd0,genus,Arctomecon,,,"Torr. & Frém.",1845,"Rep. Exped. Rocky Mts. 312, pl. 2. 1845.",,,,,31612-1,wfo-4000002927,2888375,
-a2f40312-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Arctomecon,,"Torr. & Frém.",1845,"Rep. Exped. Rocky Mts. 2: 312 1845",,,,,304099-2,wfo-0000543420,3601459,
-a2f421da-8fcc-11eb-924d-9cd76263cbd0,species,humile,Arctomecon,,Coville,1892,"Proc. Biol. Soc. Wash. 7: 67 1892",,,,,,wfo-0000543421,3601441,
-c49b4a2e-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Arctomecon,,Coville,1892,"Proc. Biol. Soc. Wash. 7(2): 67 1892",,,,,300853-2,wfo-0001090286,2888377,
-a2f43ddc-8fcc-11eb-924d-9cd76263cbd0,species,merriamii,Arctomecon,,Coville,1892,"Proc. Biol. Soc. Wash. 7: 66 1892",,,,,17720-2,wfo-0000543422,2888376,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfb2c5b8-8fd1-11eb-924d-9cd76263cbd0,genus,Arctomecon,,,"Torr. & Frém.",,1845,,"Rep. Exped. Rocky Mts. 312, pl. 2. 1845.",,,,,,31612-1,wfo-4000002927,2888375,,
+a2f40312-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Arctomecon,,"Torr. & Frém.",,1845,,"Rep. Exped. Rocky Mts. 2: 312 1845",,,,,,304099-2,wfo-0000543420,3601459,,
+a2f421da-8fcc-11eb-924d-9cd76263cbd0,species,humile,Arctomecon,,Coville,,1892,,"Proc. Biol. Soc. Wash. 7: 67 1892",,,,,,,wfo-0000543421,3601441,,
+c49b4a2e-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Arctomecon,,Coville,,1892,,"Proc. Biol. Soc. Wash. 7(2): 67 1892",,,,,,300853-2,wfo-0001090286,2888377,,
+a2f43ddc-8fcc-11eb-924d-9cd76263cbd0,species,merriamii,Arctomecon,,Coville,,1892,,"Proc. Biol. Soc. Wash. 7: 66 1892",,,,,,17720-2,wfo-0000543422,2888376,,

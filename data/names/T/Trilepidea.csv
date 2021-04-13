@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb98272e-8fd1-11eb-924d-9cd76263cbd0,genus,Trilepidea,,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 28. 1895.",,,,,25364-1,wfo-4000039185,4001082,
-51fb7ae4-8fcc-11eb-924d-9cd76263cbd0,species,adamsii,Trilepidea,,"(Cheeseman) Tiegh.",1895,"Bull. Soc. Bot. France 42: 28 1895",,,,,552217-1,wfo-0000413220,4004198,
-51fbbea0-8fcc-11eb-924d-9cd76263cbd0,species,ralphii,Trilepidea,,Tiegh.,1895,"Bull. Soc. Bot. France 42: 28 1895",,,,,552218-1,wfo-0000413222,4004188,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb98272e-8fd1-11eb-924d-9cd76263cbd0,genus,Trilepidea,,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 28. 1895.",,Q54801404,,,,25364-1,wfo-4000039185,4001082,,
+51fb7ae4-8fcc-11eb-924d-9cd76263cbd0,species,adamsii,Trilepidea,,"(Cheeseman) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 28 1895",,Q54801404,,,,552217-1,wfo-0000413220,4004198,,
+51fbbea0-8fcc-11eb-924d-9cd76263cbd0,species,ralphii,Trilepidea,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 28 1895",,Q54801404,,,,552218-1,wfo-0000413222,4004188,,

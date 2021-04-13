@@ -1,12 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e05b88d8-8fd1-11eb-924d-9cd76263cbd0,genus,Bordasia,,,Krapov.,2003,"Bonplandia (Corrientes) 12: 133–135, f. 1. 2003.",,,,,329601-2,wfo-4000005018,7279386,
-b3c0886e-8fcc-11eb-924d-9cd76263cbd0,species,bicornis,Bordasia,,Krapov.,2003,"Bonplandia (Corrientes) 12: 133 2003",,,,,,wfo-0000569016,3938791,
-1fbc9676-8fcc-11eb-924d-9cd76263cbd0,species,chouardii,Borderea,,"(Gaussen) Gaussen & Heslot",1965,"Bull. Soc. Hist. Nat. Toulouse 390 1965",,,,3f9077a6-8fcc-11eb-924d-9cd76263cbd0,317597-1,wfo-0000341729,2754400,
-1fbcb28c-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Borderea,,"(Bertero ex Colla) Pax",1887,"Nat. Pflanzenfam. 2(5): 133 1887",,,,40865cc0-8fcc-11eb-924d-9cd76263cbd0,34844-2,wfo-0000341730,2755110,
-1fbccdb2-8fcc-11eb-924d-9cd76263cbd0,species,pyrenaica,Borderea,,Miégev.,1866,"Bull. Soc. Bot. France 13: 374 1866",,,,,317599-1,wfo-0000341731,2754552,
-c9276f5c-8fb2-11eb-924d-9cd76263cbd0,species,borderei,,,"(Rouy) P.Fourn.",,"Quatre Fl. France: 1004 (1940)",,,,,188347-1,wfo-0000034440,,
-5e469ab4-8fb2-11eb-924d-9cd76263cbd0,species,borderi,,,"(Rouy) Arènes",1949,"Mém. Mus. Natl. Hist. Nat. 24: 253 (1949)",,,,8a445334-8fb9-11eb-924d-9cd76263cbd0,194939-1,wfo-0000022231,,
-b3c0cc48-8fcc-11eb-924d-9cd76263cbd0,species,munbyana,Borealluma,,"(Decne.) Plowes",1995,"Haseltonia 3: 63 1995",,,,b44c470a-8fcc-11eb-924d-9cd76263cbd0,986812-1,wfo-0000569017,3581532,
-b3c12c24-8fcc-11eb-924d-9cd76263cbd0,species,plicatiloba,Borealluma,,"(Lavranos) Plowes",1995,"Haseltonia 3: 63 1995",,,,be6d1b7e-8fcc-11eb-924d-9cd76263cbd0,986814-1,wfo-0000569018,3581527,
-b3c1f03c-8fcc-11eb-924d-9cd76263cbd0,species,staintonii,Borealluma,,"(H.Hara) Plowes",1995,"Haseltonia 3: 63 1995",,,,,986815-1,wfo-0000569019,3581520,
-b3c3e586-8fcc-11eb-924d-9cd76263cbd0,species,tuberculata,Borealluma,,"(N.E.Br.) Plowes",1995,"Haseltonia 3: 63 1995",,,,,986813-1,wfo-0000569020,3581513,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e05b88d8-8fd1-11eb-924d-9cd76263cbd0,genus,Bordasia,,,Krapov.,,2003,,"Bonplandia (Corrientes) 12: 133–135, f. 1. 2003.",,Q96001785,,,,329601-2,wfo-4000005018,7279386,,
+b3c0886e-8fcc-11eb-924d-9cd76263cbd0,species,bicornis,Bordasia,,Krapov.,,2003,,"Bonplandia (Corrientes) 12: 133 2003",,,,,,,wfo-0000569016,3938791,,

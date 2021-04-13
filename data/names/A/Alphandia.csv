@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df23ed66-8fd1-11eb-924d-9cd76263cbd0,genus,Alphandia,,,Baill.,1873,"Adansonia 11: 85. 1873.",,,,,15003-1,wfo-4000001362,3071913,
-84229b3c-8fcd-11eb-924d-9cd76263cbd0,species,furfuracea,Alphandia,,Baill.,1873,"Adansonia 11: 86 1873",,,,,338555-1,wfo-0000951471,3071915,
-8423ed70-8fcd-11eb-924d-9cd76263cbd0,species,resinosa,Alphandia,,Baill.,1873,"Adansonia 11: 86 1873",,,,,338556-1,wfo-0000951481,3071914,
-842520fa-8fcd-11eb-924d-9cd76263cbd0,species,verniciflua,Alphandia,,"Airy Shaw",1966,"Kew Bull. 20: 395 1966",,,,,338557-1,wfo-0000951492,3071916,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df23ed66-8fd1-11eb-924d-9cd76263cbd0,genus,Alphandia,,,Baill.,,1873,,"Adansonia 11: 85. 1873.",,,,,,15003-1,wfo-4000001362,3071913,,
+84229b3c-8fcd-11eb-924d-9cd76263cbd0,species,furfuracea,Alphandia,,Baill.,,1873,,"Adansonia 11: 86 1873",,,,,,338555-1,wfo-0000951471,3071915,,
+8423ed70-8fcd-11eb-924d-9cd76263cbd0,species,resinosa,Alphandia,,Baill.,,1873,,"Adansonia 11: 86 1873",,,,,,338556-1,wfo-0000951481,3071914,,
+842520fa-8fcd-11eb-924d-9cd76263cbd0,species,verniciflua,Alphandia,,"Airy Shaw",,1966,,"Kew Bull. 20: 395 1966",,Q43250598,,,,338557-1,wfo-0000951492,3071916,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52802f6-8fd1-11eb-924d-9cd76263cbd0,genus,Isomeria,,,,,,,,,,,wfo-4000019288,7424921,
-0bdbab7a-8fb2-11eb-924d-9cd76263cbd0,species,chinensis,Isomeria,,"Wight ex DC.",1836,"Prodr. (DC.) 5: 24 1836",,,,,226306-1,wfo-0000007557,4224138,
-8df2b8a4-8fb9-11eb-924d-9cd76263cbd0,species,cinerea,Isomeria,,"Wight ex DC.",1836,"Prodr. (DC.) 5: 24 1836",,,,,226307-1,wfo-0000119376,4224133,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52802f6-8fd1-11eb-924d-9cd76263cbd0,genus,Isomeria,,,,,,,,,,,,,,wfo-4000019288,7424921,,
+0bdbab7a-8fb2-11eb-924d-9cd76263cbd0,species,chinensis,Isomeria,,"Wight ex DC.",,1836,,"Prodr. (DC.) 5: 24 1836",,,,,,226306-1,wfo-0000007557,4224138,,
+8df2b8a4-8fb9-11eb-924d-9cd76263cbd0,species,cinerea,Isomeria,,"Wight ex DC.",,1836,,"Prodr. (DC.) 5: 24 1836",,,,,,226307-1,wfo-0000119376,4224133,,

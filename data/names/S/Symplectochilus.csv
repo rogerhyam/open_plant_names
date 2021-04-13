@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb00d61c-8fd1-11eb-924d-9cd76263cbd0,genus,Symplectochilus,,,Lindau,1894,"Bot. Jahrb. Syst. 20: 45. 1894.",,,,,977-1,wfo-4000037233,7263995,
-adbf445e-8fcd-11eb-924d-9cd76263cbd0,species,formosissimus,Symplectochilus,,"(Klotzsch) Lindau",1894,"Bot. Jahrb. Syst. 20: 45 1894",,,,,56059-1,wfo-0001038579,3776880,
-b0e30bfc-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Symplectochilus,,Lindau,1898,"Annuaire Conserv. Jard. Bot. Genève 2: 39–40 1898",,,,,,wfo-0001045637,8282625,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb00d61c-8fd1-11eb-924d-9cd76263cbd0,genus,Symplectochilus,,,Lindau,,1894,,"Bot. Jahrb. Syst. 20: 45. 1894.",,,,,,977-1,wfo-4000037233,7263995,,
+adbf445e-8fcd-11eb-924d-9cd76263cbd0,species,formosissimus,Symplectochilus,,"(Klotzsch) Lindau",,1894,,"Bot. Jahrb. Syst. 20: 45 1894",,,,,,56059-1,wfo-0001038579,3776880,,
+b0e30bfc-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Symplectochilus,,Lindau,,1898,,"Annuaire Conserv. Jard. Bot. Genève 2: 39–40 1898",,,,,,,wfo-0001045637,8282625,,

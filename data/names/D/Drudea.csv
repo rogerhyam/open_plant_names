@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e30bbbf2-8fd1-11eb-924d-9cd76263cbd0,genus,Drudea,,,Griseb.,1879,"Abh. Königl. Ges. Wiss. Göttingen 24: 26. 1879.",,,,,,wfo-4000012604,7268243,
-e83d839e-8fcc-11eb-924d-9cd76263cbd0,species,lycopodioides,Drudea,,Griseb.,1879,"Abh. Königl. Ges. Wiss. Göttingen 24: 26 1879",,,,,154092-1,wfo-0000657012,3817077,
-ec25a956-8fcb-11eb-924d-9cd76263cbd0,species,drudei,,,"(M.Schulze) Borsos & Soó",1966,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 316 1966",,,,d38f12d2-8fcc-11eb-924d-9cd76263cbd0,648230-1,wfo-0000258750,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e30bbbf2-8fd1-11eb-924d-9cd76263cbd0,genus,Drudea,,,Griseb.,,1879,,"Abh. Königl. Ges. Wiss. Göttingen 24: 26. 1879.",,,,,,,wfo-4000012604,7268243,,
+e83d839e-8fcc-11eb-924d-9cd76263cbd0,species,lycopodioides,Drudea,,Griseb.,,1879,,"Abh. Königl. Ges. Wiss. Göttingen 24: 26 1879",,,,,,154092-1,wfo-0000657012,3817077,,
+ec25a956-8fcb-11eb-924d-9cd76263cbd0,species,drudei,,,"(M.Schulze) Borsos & Soó",,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 316 1966",,,,d38f12d2-8fcc-11eb-924d-9cd76263cbd0,,648230-1,wfo-0000258750,,,

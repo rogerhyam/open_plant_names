@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3baa7f2-8fd1-11eb-924d-9cd76263cbd0,genus,Fimbristima,,,,,,,,,,,wfo-4000014775,7337720,
-0ac4f700-8fb2-11eb-924d-9cd76263cbd0,species,flexuosa,Fimbristima,,Raf.,,,,,,,,wfo-0000007179,3151550,
-a0a9af50-8fbb-11eb-924d-9cd76263cbd0,species,maritima,Fimbristima,,Raf.,,,,,,,,wfo-0000135589,4235414,
-35c07a34-8fb6-11eb-924d-9cd76263cbd0,species,sparsiflora,Fimbristima,,Raf.,,,,,,,,wfo-0000086920,3151549,
-6904ea32-8fb2-11eb-924d-9cd76263cbd0,species,squamosa,Fimbristima,,Raf.,,,,,,,,wfo-0000023681,4235403,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3baa7f2-8fd1-11eb-924d-9cd76263cbd0,genus,Fimbristima,,,,,,,,,,,,,,wfo-4000014775,7337720,,
+0ac4f700-8fb2-11eb-924d-9cd76263cbd0,species,flexuosa,Fimbristima,,Raf.,,,,,,,,,,,wfo-0000007179,3151550,,
+a0a9af50-8fbb-11eb-924d-9cd76263cbd0,species,maritima,Fimbristima,,Raf.,,,,,,,,,,,wfo-0000135589,4235414,,
+35c07a34-8fb6-11eb-924d-9cd76263cbd0,species,sparsiflora,Fimbristima,,Raf.,,,,,,,,,,,wfo-0000086920,3151549,,
+6904ea32-8fb2-11eb-924d-9cd76263cbd0,species,squamosa,Fimbristima,,Raf.,,,,,,,,,,,wfo-0000023681,4235403,,

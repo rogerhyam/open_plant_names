@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e52d2394-8fd1-11eb-924d-9cd76263cbd0,genus,Itzaea,,,"Standl. & Steyerm.",1944,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23(2): 83. 1944. (14 Feb 1944)",,,,,291624-2,wfo-4000019375,4909429,
-db84f362-8fd1-11eb-924d-9cd76263cbd0,species,sericea,Itzaea,,"(Standl.) Standl. & Steyerm.",1944,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23(2): 83 1944",,,,,270107-1,wfo-0001297999,7661095,
-f1882724-8fcc-11eb-924d-9cd76263cbd0,species,niveum,Iulus,,"(Roth) Salisb.",1866,"Gen. Pl. 92 1866",,,,1e9e8d16-8fcd-11eb-924d-9cd76263cbd0,536950-1,wfo-0000673201,5326232,
-f189c700-8fcc-11eb-924d-9cd76263cbd0,species,subhirsutum,Iulus,,"(L.) Salisb.",1866,"Gen. Pl. 92 1866",,,,1eef986e-8fcd-11eb-924d-9cd76263cbd0,536951-1,wfo-0000673212,5326233,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e52d2394-8fd1-11eb-924d-9cd76263cbd0,genus,Itzaea,,,"Standl. & Steyerm.",,1944,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23(2): 83. 1944. (14 Feb 1944)",,Q51433635,,,,291624-2,wfo-4000019375,4909429,,
+db84f362-8fd1-11eb-924d-9cd76263cbd0,species,sericea,Itzaea,,"(Standl.) Standl. & Steyerm.",,1944,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23(2): 83 1944",,Q51433635,,,,270107-1,wfo-0001297999,7661095,,
+f1882724-8fcc-11eb-924d-9cd76263cbd0,species,niveum,Iulus,,"(Roth) Salisb.",,1866,,"Gen. Pl. 92 1866",,,,1e9e8d16-8fcd-11eb-924d-9cd76263cbd0,,536950-1,wfo-0000673201,5326232,,
+f189c700-8fcc-11eb-924d-9cd76263cbd0,species,subhirsutum,Iulus,,"(L.) Salisb.",,1866,,"Gen. Pl. 92 1866",,,,1eef986e-8fcd-11eb-924d-9cd76263cbd0,,536951-1,wfo-0000673212,5326233,,

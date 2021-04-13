@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebadc7d2-8fd1-11eb-924d-9cd76263cbd0,genus,Trochomeriopsis,,,Cogn.,1881,"Monogr. Phan. 3: 661. 1881. (Jun 1881)",,,,,13438-1,wfo-4000039446,7317492,
-dd29927c-8fd1-11eb-924d-9cd76263cbd0,species,diversifolia,Trochomeriopsis,,Cogn.,1881,"Monogr. Phan. 3: 661 1881",,,,,294364-1,wfo-0001300968,3622301,
-d40b6ebc-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Trochopteris,,Gardner,1842,"London J. Bot. 1: 74, t. 4 1842",,,,,17233380-1,wfo-0001123908,3744417,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebadc7d2-8fd1-11eb-924d-9cd76263cbd0,genus,Trochomeriopsis,,,Cogn.,,1881,,"Monogr. Phan. 3: 661. 1881. (Jun 1881)",,,,,,13438-1,wfo-4000039446,7317492,,
+dd29927c-8fd1-11eb-924d-9cd76263cbd0,species,diversifolia,Trochomeriopsis,,Cogn.,,1881,,"Monogr. Phan. 3: 661 1881",,,,,,294364-1,wfo-0001300968,3622301,,

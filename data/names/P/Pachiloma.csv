@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7d3f6ea-8fd1-11eb-924d-9cd76263cbd0,genus,Pachiloma,,,Raf.,1836,"New Fl. 4: 33. 1836[1838].",,,,,,wfo-4000027633,8170655,
-427052ca-8fcc-11eb-924d-9cd76263cbd0,species,nuttallii,Pachiloma,,Raf.,1838,"New Fl. 4: 33 1838",,,,,,wfo-0000393865,7959343,
-42702462-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Pachiloma,,Raf.,1838,"New Fl. 4: 33 1838",,,,,845608-1,wfo-0000393864,6026938,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7d3f6ea-8fd1-11eb-924d-9cd76263cbd0,genus,Pachiloma,,,Raf.,,1836,,"New Fl. 4: 33. 1836[1838].",,,,,,,wfo-4000027633,8170655,,
+427052ca-8fcc-11eb-924d-9cd76263cbd0,species,nuttallii,Pachiloma,,Raf.,,1838,,"New Fl. 4: 33 1838",,,,,,,wfo-0000393865,7959343,,
+42702462-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Pachiloma,,Raf.,,1838,,"New Fl. 4: 33 1838",,,,,,845608-1,wfo-0000393864,6026938,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-deae380a-8fd1-11eb-924d-9cd76263cbd0,genus,Abasoloa,,,,,,,,,,,wfo-4000000015,7335820,
-add2a124-8fba-11eb-924d-9cd76263cbd0,species,taboada,Abasoloa,,"La Llave",1824,"11 1824",,,,,173609-1,wfo-0000128581,4206065,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+deae380a-8fd1-11eb-924d-9cd76263cbd0,genus,Abasoloa,,,,,,,,,,,,,,wfo-4000000015,7335820,,
+add2a124-8fba-11eb-924d-9cd76263cbd0,species,taboada,Abasoloa,,"La Llave",,1824,,"11 1824",,,,,,173609-1,wfo-0000128581,4206065,,

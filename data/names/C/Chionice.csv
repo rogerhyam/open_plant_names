@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e19ba458-8fd1-11eb-924d-9cd76263cbd0,genus,Chionice,,,,,,,,,,,wfo-4000007913,3024193,
-96acf234-8fcd-11eb-924d-9cd76263cbd0,species,dioica,Chionice,,"Bunge ex Ledeb.",1841,"Flora rossica ; 1841 33 1843",,,,,,wfo-0000991032,7879264,
-ee80eb82-8fcd-11eb-924d-9cd76263cbd0,species,venturii,Chionobryum,,"(De Not.) Glow.",1913,"Oesterr. Bot. Z. 63: 279 1913",,,,,,wfo-0001180425,7858487,
-b73848c8-8fcd-11eb-924d-9cd76263cbd0,species,capitellatum,Chionocarpium,,"(Clos) Brand",1898,"Bot. Jahrb. Syst. 25: 171 1898",,,,,,wfo-0001060084,7618751,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e19ba458-8fd1-11eb-924d-9cd76263cbd0,genus,Chionice,,,,,,,,,,,,,,wfo-4000007913,3024193,,
+96acf234-8fcd-11eb-924d-9cd76263cbd0,species,dioica,Chionice,,"Bunge ex Ledeb.",,1841,,"Flora rossica ; 1841 33 1843",,,,,,,wfo-0000991032,7879264,,
+ee80eb82-8fcd-11eb-924d-9cd76263cbd0,species,venturii,Chionobryum,,"(De Not.) Glow.",,1913,,"Oesterr. Bot. Z. 63: 279 1913",,,,,,,wfo-0001180425,7858487,,
+b73848c8-8fcd-11eb-924d-9cd76263cbd0,species,capitellatum,Chionocarpium,,"(Clos) Brand",,1898,,"Bot. Jahrb. Syst. 25: 171 1898",,,,,,,wfo-0001060084,7618751,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff1f59e-8fd1-11eb-924d-9cd76263cbd0,genus,Aulosolena,,,Koso-Pol.,1916,"Bull. Soc. Imp. Naturalistes Moscou ser. 2. 29: 156. 1916.",,,,,,wfo-4000003685,6026639,
-ab3d4574-8fcc-11eb-924d-9cd76263cbd0,species,crassicaulis,Aulosolena,,Koso-Pol.,1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,26931-2,wfo-0000557002,3632786,
-ab3d7e36-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Aulosolena,,Koso-Pol.,1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,26932-2,wfo-0000557003,3632773,
-ab3dc594-8fcc-11eb-924d-9cd76263cbd0,species,menziesii,Aulosolena,,Koso-Pol.,1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,26933-2,wfo-0000557004,3632759,
-ab3de272-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Aulosolena,,"(Speg.) Koso-Pol.",1915,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,26934-2,wfo-0000557005,3632738,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff1f59e-8fd1-11eb-924d-9cd76263cbd0,genus,Aulosolena,,,Koso-Pol.,,1916,,"Bull. Soc. Imp. Naturalistes Moscou ser. 2. 29: 156. 1916.",,,,,,,wfo-4000003685,6026639,,
+ab3d4574-8fcc-11eb-924d-9cd76263cbd0,species,crassicaulis,Aulosolena,,Koso-Pol.,,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,,26931-2,wfo-0000557002,3632786,,
+ab3d7e36-8fcc-11eb-924d-9cd76263cbd0,species,laciniata,Aulosolena,,Koso-Pol.,,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,,26932-2,wfo-0000557003,3632773,,
+ab3dc594-8fcc-11eb-924d-9cd76263cbd0,species,menziesii,Aulosolena,,Koso-Pol.,,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,,26933-2,wfo-0000557004,3632759,,
+ab3de272-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Aulosolena,,"(Speg.) Koso-Pol.",,1915,,"Bull. Soc. Imp. Naturalistes Moscou n.s., 29: 156 1915 publ. 1916",,,,,,26934-2,wfo-0000557005,3632738,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1218434-8fd1-11eb-924d-9cd76263cbd0,genus,Camptostylus,,,Gilg,1898,"Notizbl. Königl. Bot. Gart. Berlin 2: 57. 1898. (12 Feb 1898)",,,,,4308-1,wfo-4000006435,7274084,
-7758d8d0-8fcd-11eb-924d-9cd76263cbd0,species,aristatus,Camptostylus,,"(Oliv.) Gilg",1925,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,365024-1,wfo-0000923702,3878232,
-77591a7a-8fcd-11eb-924d-9cd76263cbd0,species,caudatus,Camptostylus,,Gilg,1898,"Notizbl. Königl. Bot. Gart. Berlin 2: 57 1898",,,,,111506-1,wfo-0000923703,3878225,
-77594720-8fcd-11eb-924d-9cd76263cbd0,species,kivuensis,Camptostylus,,Bamps,1964,"Bull. Jard. Bot. État 34: 495 1964",,,,,365025-1,wfo-0000923704,3878218,
-77596bba-8fcd-11eb-924d-9cd76263cbd0,species,litoralis,Camptostylus,,Gilg,1925,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,365026-1,wfo-0000923705,3878210,
-77598d2a-8fcd-11eb-924d-9cd76263cbd0,species,mannii,Camptostylus,,"(Oliv.) Gilg",1925,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,365027-1,wfo-0000923706,3878205,
-7759acf6-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Camptostylus,,"(Oliv.) Chipp",1923,"Bull. Misc. Inform. Kew 1923: 266 1923",,,,afc49c14-8fd1-11eb-924d-9cd76263cbd0,365028-1,wfo-0000923707,3878194,
-7759cf38-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Camptostylus,,Gilg,1908,"Bot. Jahrb. Syst. 40: 451 1908",,,,,365029-1,wfo-0000923708,3878185,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1218434-8fd1-11eb-924d-9cd76263cbd0,genus,Camptostylus,,,Gilg,,1898,,"Notizbl. Königl. Bot. Gart. Berlin 2: 57. 1898. (12 Feb 1898)",,Q55776722,,,,4308-1,wfo-4000006435,7274084,,
+7758d8d0-8fcd-11eb-924d-9cd76263cbd0,species,aristatus,Camptostylus,,"(Oliv.) Gilg",,1925,,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,,365024-1,wfo-0000923702,3878232,,
+77591a7a-8fcd-11eb-924d-9cd76263cbd0,species,caudatus,Camptostylus,,Gilg,,1898,,"Notizbl. Königl. Bot. Gart. Berlin 2: 57 1898",,Q55776722,,,,111506-1,wfo-0000923703,3878225,,
+77594720-8fcd-11eb-924d-9cd76263cbd0,species,kivuensis,Camptostylus,,Bamps,,1964,,"Bull. Jard. Bot. État 34: 495 1964",,Q55775954,,,,365025-1,wfo-0000923704,3878218,,
+77596bba-8fcd-11eb-924d-9cd76263cbd0,species,litoralis,Camptostylus,,Gilg,,1925,,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,,365026-1,wfo-0000923705,3878210,,
+77598d2a-8fcd-11eb-924d-9cd76263cbd0,species,mannii,Camptostylus,,"(Oliv.) Gilg",,1925,,"Nat. Pflanzenfam. ed. 2 21: 398 1925",,,,,,365027-1,wfo-0000923706,3878205,,
+7759acf6-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Camptostylus,,"(Oliv.) Chipp",,1923,,"Bull. Misc. Inform. Kew 1923: 266 1923",,,,afc49c14-8fd1-11eb-924d-9cd76263cbd0,,365028-1,wfo-0000923707,3878194,,
+7759cf38-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Camptostylus,,Gilg,,1908,,"Bot. Jahrb. Syst. 40: 451 1908",,,,,,365029-1,wfo-0000923708,3878185,,

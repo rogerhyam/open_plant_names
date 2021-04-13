@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e91897d6-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobersama,,,Verdc.,1956,"J. Linn. Soc., Bot. 55: 504. 1956.",,,,,26818-1,wfo-4000031406,8379212,
-c1868e7a-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Pseudobersama,,"(Sim) Verdc.",1956,"J. Linn. Soc., Bot. 55: 504, t. 1 1956",,,,,579132-1,wfo-0001083555,3852100,
-42173262-8fcc-11eb-924d-9cd76263cbd0,species,umbrosa,Pseudobesleria,,Oerst.,1858,"Centralamer. Gesner. 54 1858",,,,,,wfo-0000393418,3771582,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e91897d6-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobersama,,,Verdc.,,1956,,"J. Linn. Soc., Bot. 55: 504. 1956.",,Q55760600,,,,26818-1,wfo-4000031406,8379212,,
+c1868e7a-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Pseudobersama,,"(Sim) Verdc.",,1956,,"J. Linn. Soc., Bot. 55: 504, t. 1 1956",,Q55760600,,,,579132-1,wfo-0001083555,3852100,,
+42173262-8fcc-11eb-924d-9cd76263cbd0,species,umbrosa,Pseudobesleria,,Oerst.,,1858,,"Centralamer. Gesner. 54 1858",,,,,,,wfo-0000393418,3771582,,

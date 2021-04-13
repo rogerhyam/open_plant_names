@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e43a4994-8fd1-11eb-924d-9cd76263cbd0,genus,Gubleria,,,Gaudich.,1844,"(I. ) Haegi, (I. ) Haegi, and Gaudich., Bot. Voy. Bonite t. 104 (1844-52)..",,,,,,wfo-4000016321,7300165,
-a5a71774-8fcd-11eb-924d-9cd76263cbd0,species,baccata,Gubleria,,Gaudich.,1844,"(I. ) Haegi, (I. ) Haegi, and Gaudich., Bot. Voy. Bonite t. 104 (1844-52)..",,,,,,wfo-0001021726,5581529,
-8fb1e700-8fcd-11eb-924d-9cd76263cbd0,species,tuerckheimii,Gudrunia,,"(Cogn.) Braem",1993,"Schlechteriana 4: 24 1993",,,,,972641-1,wfo-0000975988,2794740,
-8fb2032a-8fcd-11eb-924d-9cd76263cbd0,species,natalensis,Gueinzia,,"Sond. ex Schott",1853,"Aroideae 10 1853",,,,,87078-1,wfo-0000975989,2871859,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e43a4994-8fd1-11eb-924d-9cd76263cbd0,genus,Gubleria,,,Gaudich.,,1844,,"(I. ) Haegi, (I. ) Haegi, and Gaudich., Bot. Voy. Bonite t. 104 (1844-52)..",,,,,,,wfo-4000016321,7300165,,
+a5a71774-8fcd-11eb-924d-9cd76263cbd0,species,baccata,Gubleria,,Gaudich.,,1844,,"(I. ) Haegi, (I. ) Haegi, and Gaudich., Bot. Voy. Bonite t. 104 (1844-52)..",,,,,,,wfo-0001021726,5581529,,

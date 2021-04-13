@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec31c898-8fd1-11eb-924d-9cd76263cbd0,genus,Yunnanobryon,,,"Shevock, Ochyra, S.He & D.G.Long",2011,"Bryologist 114(1): 195. 2011.",,,,,,wfo-4000041105,8221426,
-aec7dd02-8fcd-11eb-924d-9cd76263cbd0,species,rhyacophilum,Yunnanobryon,,"Shevock, Ochyra, S.He & D.G.Long",2011,"Bryologist 114(1): 194 2011",,,,,,wfo-0001040957,7400258,
-5e4f6a30-8fcc-11eb-924d-9cd76263cbd0,species,longistaminea,Yunnanopilia,,"(W.Z.Li) C.Y.Wu & D.Z.Li",2000,"Acta Bot. Yunnan. 22: 250 2000",,,,6aee9950-8fcc-11eb-924d-9cd76263cbd0,1016124-1,wfo-0000429149,3658874,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec31c898-8fd1-11eb-924d-9cd76263cbd0,genus,Yunnanobryon,,,"Shevock, Ochyra, S.He & D.G.Long",,2011,,"Bryologist 114(1): 195. 2011.",,,,,,,wfo-4000041105,8221426,,
+aec7dd02-8fcd-11eb-924d-9cd76263cbd0,species,rhyacophilum,Yunnanobryon,,"Shevock, Ochyra, S.He & D.G.Long",,2011,,"Bryologist 114(1): 194 2011",,,,,,,wfo-0001040957,7400258,,
+5e4f6a30-8fcc-11eb-924d-9cd76263cbd0,species,longistaminea,Yunnanopilia,,"(W.Z.Li) C.Y.Wu & D.Z.Li",,2000,,"Acta Bot. Yunnan. 22: 250 2000",,,,6aee9950-8fcc-11eb-924d-9cd76263cbd0,,1016124-1,wfo-0000429149,3658874,,

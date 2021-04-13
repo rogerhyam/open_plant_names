@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e587c86c-8fd1-11eb-924d-9cd76263cbd0,genus,Lamellisepalum,,,Engl.,1897,"Annuario Reale Ist. Bot. Roma 7: 19. 1897.",,,,,,wfo-4000020486,7273642,
-67cc7c56-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Lamellisepalum,,Engl.,1897,"Nat. Pflanzenfam. Nachtr. 1: 229 1897",,,,,717597-1,wfo-0000442933,3874713,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e587c86c-8fd1-11eb-924d-9cd76263cbd0,genus,Lamellisepalum,,,Engl.,,1897,,"Annuario Reale Ist. Bot. Roma 7: 19. 1897.",,,,,,,wfo-4000020486,7273642,,
+67cc7c56-8fcc-11eb-924d-9cd76263cbd0,species,hildebrandtii,Lamellisepalum,,Engl.,,1897,,"Nat. Pflanzenfam. Nachtr. 1: 229 1897",,,,,,717597-1,wfo-0000442933,3874713,,

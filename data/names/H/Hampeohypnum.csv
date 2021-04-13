@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e460c6c8-8fd1-11eb-924d-9cd76263cbd0,genus,Hampeohypnum,,,W.R.Buck,1987,"Mem. New York Bot. Gard. 45: 522. 1987.",,,,,,wfo-4000016812,7974609,
-f5dbce9c-8fcd-11eb-924d-9cd76263cbd0,species,littorale,Hampeohypnum,,"(Hampe) W.R.Buck",1987,"Mem. New York Bot. Gard. 45: 522 1987",,,,e33d91a8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195450,8034672,
-37275552-8fcd-11eb-924d-9cd76263cbd0,species,cornuta,Hamularia,,"(Blume) Aver. & Averyanova",2006,"Komarovia 4: 19 2006",,,,e725b52c-8fcb-11eb-924d-9cd76263cbd0,77076208-1,wfo-0000808814,2845119,
-37276ef2-8fcd-11eb-924d-9cd76263cbd0,species,ecornuta,Hamularia,,"(J.J.Sm.) Aver. & Averyanova",2006,"Komarovia 4: 19 2006",,,,,77076213-1,wfo-0000808815,2846338,
-37278b9e-8fcd-11eb-924d-9cd76263cbd0,species,gibbolabia,Hamularia,,"(Seidenf.) Aver. & Averyanova",2006,"Komarovia 4: 19 2006",,,,,77076209-1,wfo-0000808816,2844352,
-3727a73c-8fcd-11eb-924d-9cd76263cbd0,species,puluongensis,Hamularia,,"Aver. & Averyanova",2006,"Komarovia 4: 19 2006",,,,,77076207-1,wfo-0000808817,3653103,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e460c6c8-8fd1-11eb-924d-9cd76263cbd0,genus,Hampeohypnum,,,W.R.Buck,,1987,,"Mem. New York Bot. Gard. 45: 522. 1987.",,,,,,,wfo-4000016812,7974609,,
+f5dbce9c-8fcd-11eb-924d-9cd76263cbd0,species,littorale,Hampeohypnum,,"(Hampe) W.R.Buck",,1987,,"Mem. New York Bot. Gard. 45: 522 1987",,,,e33d91a8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195450,8034672,,
+37275552-8fcd-11eb-924d-9cd76263cbd0,species,cornuta,Hamularia,,"(Blume) Aver. & Averyanova",,2006,,"Komarovia 4: 19 2006",,,,e725b52c-8fcb-11eb-924d-9cd76263cbd0,,77076208-1,wfo-0000808814,2845119,,
+37276ef2-8fcd-11eb-924d-9cd76263cbd0,species,ecornuta,Hamularia,,"(J.J.Sm.) Aver. & Averyanova",,2006,,"Komarovia 4: 19 2006",,,,,,77076213-1,wfo-0000808815,2846338,,
+37278b9e-8fcd-11eb-924d-9cd76263cbd0,species,gibbolabia,Hamularia,,"(Seidenf.) Aver. & Averyanova",,2006,,"Komarovia 4: 19 2006",,,,,,77076209-1,wfo-0000808816,2844352,,
+3727a73c-8fcd-11eb-924d-9cd76263cbd0,species,puluongensis,Hamularia,,"Aver. & Averyanova",,2006,,"Komarovia 4: 19 2006",,,,,,77076207-1,wfo-0000808817,3653103,,

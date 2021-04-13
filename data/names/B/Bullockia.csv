@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0eaaf36-8fd1-11eb-924d-9cd76263cbd0,genus,Bullockia,,,"(Bridson) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96(1): 175. 2009. (23 Apr 2009)",,,,,77101424-1,wfo-4000005738,3230895,
-ab370898-8fcd-11eb-924d-9cd76263cbd0,species,dyscriton,Bullockia,,"(Bullock) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96(1): 175 2009",,,,318f8fc4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001033051,7817859,
-6e7edd86-8fcd-11eb-924d-9cd76263cbd0,species,dyscritos,Bullockia,,"(Bullock) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101430-1,wfo-0000911873,5938110,
-6e7f06a8-8fcd-11eb-924d-9cd76263cbd0,species,fadenii,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101425-1,wfo-0000911874,5829788,
-6e7f27aa-8fcd-11eb-924d-9cd76263cbd0,species,impressinervia,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101426-1,wfo-0000911875,5938109,
-6e7f45f0-8fcd-11eb-924d-9cd76263cbd0,species,mombazensis,Bullockia,,"(Baill.) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101427-1,wfo-0000911876,5829787,
-6e7f649a-8fcd-11eb-924d-9cd76263cbd0,species,pseudosetiflora,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101428-1,wfo-0000911877,5938111,
-6e7f8204-8fcd-11eb-924d-9cd76263cbd0,species,setiflora,Bullockia,,"(Hiern) Razafim., Lantz & B.Bremer",2009,"Ann. Missouri Bot. Gard. 96: 175 2009",,,,,77101429-1,wfo-0000911878,5829785,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0eaaf36-8fd1-11eb-924d-9cd76263cbd0,genus,Bullockia,,,"(Bridson) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96(1): 175. 2009. (23 Apr 2009)",,Q55791302,,,,77101424-1,wfo-4000005738,3230895,,
+ab370898-8fcd-11eb-924d-9cd76263cbd0,species,dyscriton,Bullockia,,"(Bullock) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96(1): 175 2009",,,,318f8fc4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001033051,7817859,,
+6e7edd86-8fcd-11eb-924d-9cd76263cbd0,species,dyscritos,Bullockia,,"(Bullock) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101430-1,wfo-0000911873,5938110,,
+6e7f06a8-8fcd-11eb-924d-9cd76263cbd0,species,fadenii,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101425-1,wfo-0000911874,5829788,,
+6e7f27aa-8fcd-11eb-924d-9cd76263cbd0,species,impressinervia,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101426-1,wfo-0000911875,5938109,,
+6e7f45f0-8fcd-11eb-924d-9cd76263cbd0,species,mombazensis,Bullockia,,"(Baill.) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101427-1,wfo-0000911876,5829787,,
+6e7f649a-8fcd-11eb-924d-9cd76263cbd0,species,pseudosetiflora,Bullockia,,"(Bridson) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101428-1,wfo-0000911877,5938111,,
+6e7f8204-8fcd-11eb-924d-9cd76263cbd0,species,setiflora,Bullockia,,"(Hiern) Razafim., Lantz & B.Bremer",,2009,,"Ann. Missouri Bot. Gard. 96: 175 2009",,Q55791302,,,,77101429-1,wfo-0000911878,5829785,,

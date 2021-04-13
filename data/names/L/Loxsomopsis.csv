@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e61ae732-8fd1-11eb-924d-9cd76263cbd0,genus,Loxsomopsis,,,Christ,1904,"Bull. Herb. Boissier, sér. 2, 4(5): 399. 1904.",,,,,30005013-2,wfo-4000022361,3585420,
-d0a155ac-8fcd-11eb-924d-9cd76263cbd0,species,costaricensis,Loxsomopsis,,Christ,1904,"Bull. Herb. Boissier, sér. 2, 4(5): 399, t. 1 1904",,,,,144124-2,wfo-0001116333,3585421,
-ce9d8dde-8fcd-11eb-924d-9cd76263cbd0,species,lehmannii,Loxsomopsis,,Hieron.,1904,"Bot. Jahrb. Syst. 34(4): 435 1904",,,,,144125-2,wfo-0001112336,3585422,
-d2eb7810-8fcd-11eb-924d-9cd76263cbd0,species,notabilis,Loxsomopsis,,Sloss.,1912,"Bull. Torrey Bot. Club 39: 285 1912",,,,,144128-2,wfo-0001121408,3585425,
-ce9d0abc-8fcd-11eb-924d-9cd76263cbd0,species,pearcei,Loxsomopsis,,"(Baker) Maxon",1933,"Proc. Biol. Soc. Wash. 46: 105 1933",,,,,17340260-1,wfo-0001112334,3585424,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e61ae732-8fd1-11eb-924d-9cd76263cbd0,genus,Loxsomopsis,,,Christ,,1904,,"Bull. Herb. Boissier, sér. 2, 4(5): 399. 1904.",,,,,,30005013-2,wfo-4000022361,3585420,,
+d0a155ac-8fcd-11eb-924d-9cd76263cbd0,species,costaricensis,Loxsomopsis,,Christ,,1904,,"Bull. Herb. Boissier, sér. 2, 4(5): 399, t. 1 1904",,,,,,144124-2,wfo-0001116333,3585421,,
+ce9d8dde-8fcd-11eb-924d-9cd76263cbd0,species,lehmannii,Loxsomopsis,,Hieron.,,1904,,"Bot. Jahrb. Syst. 34(4): 435 1904",,,,,,144125-2,wfo-0001112336,3585422,,
+d2eb7810-8fcd-11eb-924d-9cd76263cbd0,species,notabilis,Loxsomopsis,,Sloss.,,1912,,"Bull. Torrey Bot. Club 39: 285 1912",,Q55766913,,,,144128-2,wfo-0001121408,3585425,,
+ce9d0abc-8fcd-11eb-924d-9cd76263cbd0,species,pearcei,Loxsomopsis,,"(Baker) Maxon",,1933,,"Proc. Biol. Soc. Wash. 46: 105 1933",,,,,,17340260-1,wfo-0001112334,3585424,,

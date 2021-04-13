@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4661038-8fd1-11eb-924d-9cd76263cbd0,genus,Haploesthes,,,A.Gray,,,,,,,9194-1,wfo-4000016872,3117391,
-0bc26884-8fb9-11eb-924d-9cd76263cbd0,species,fruticosa,Haploesthes,,B.L.Turner,1975,"Wrightia 5(5) 114 1975",,,,,,wfo-0000114916,3117393,
-e5326eea-8fb2-11eb-924d-9cd76263cbd0,species,greggii,Haploesthes,,A.Gray,1849,"Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.) 109",,,,,,wfo-0000036943,3117392,
-7e571922-8fb8-11eb-924d-9cd76263cbd0,variety,texana,Haploesthes,greggii,"(J.M.Coult.) I.M.Johnst.",1941,"J. Arnold Arbor. 22: 169. 1941",,,,dbb2a834-8fd1-11eb-924d-9cd76263cbd0,,wfo-0000109891,4228209,
-991318ac-8fb7-11eb-924d-9cd76263cbd0,species,robusta,Haploesthes,,I.M.Johnst.,1941,"121 1941",,,,,,wfo-0000101228,3117394,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4661038-8fd1-11eb-924d-9cd76263cbd0,genus,Haploesthes,,,A.Gray,,,,,,,,,,9194-1,wfo-4000016872,3117391,,
+0bc26884-8fb9-11eb-924d-9cd76263cbd0,species,fruticosa,Haploesthes,,B.L.Turner,,1975,,"Wrightia 5(5) 114 1975",,,,,,,wfo-0000114916,3117393,,
+e5326eea-8fb2-11eb-924d-9cd76263cbd0,species,greggii,Haploesthes,,A.Gray,,1849,,"Mem. Amer. Acad. Arts n.s., iv. (1849) (Pl. Fendl.) 109",,,,,,,wfo-0000036943,3117392,,
+7e571922-8fb8-11eb-924d-9cd76263cbd0,variety,texana,Haploesthes,greggii,"(J.M.Coult.) I.M.Johnst.",,1941,,"J. Arnold Arbor. 22: 169. 1941",,,,dbb2a834-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000109891,4228209,,
+991318ac-8fb7-11eb-924d-9cd76263cbd0,species,robusta,Haploesthes,,I.M.Johnst.,,1941,,"121 1941",,,,,,,wfo-0000101228,3117394,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a85292-8fd1-11eb-924d-9cd76263cbd0,genus,Ormiscus,,,"Eckl. & Zeyh.",1834,"Enum. 9. 1834.",,,,,,wfo-4000027164,3054176,
-abcbffbc-8fd1-11eb-924d-9cd76263cbd0,species,amplexicaulis,Ormiscus,,"Eckl. & Zeyh.",,,,,,,,wfo-0001216910,5374343,
-3d46c504-8fcc-11eb-924d-9cd76263cbd0,species,pendulus,Ormiscus,,Spach,1838,"Hist. Nat. Vég. 6: 453 1838",,,,,287879-1,wfo-0000386681,5552524,
-ad5b8dce-8fcd-11eb-924d-9cd76263cbd0,species,pinnatus,Ormiscus,,"(L.f.) Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 10, No. 68. 1834",,,,3fcff35a-8fb2-11eb-924d-9cd76263cbd0,,wfo-0001037692,5374335,
-abddae56-8fd1-11eb-924d-9cd76263cbd0,species,pusilla,Ormiscus,,"Eckl. & Zeyh.",,,,,,,,wfo-0001217046,,
-ad5ba8ae-8fcd-11eb-924d-9cd76263cbd0,species,pusillus,Ormiscus,,"(L.f.) Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 9, No. 66. 1834",,,,,,wfo-0001037693,3043955,
-ad5bc532-8fcd-11eb-924d-9cd76263cbd0,species,tenuisiliqua,Ormiscus,,"Eckl. & Zeyh.",1834,"Enum. Pl. Afr. Austral. 9, No. 67. 1834",,,,,,wfo-0001037694,5374391,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a85292-8fd1-11eb-924d-9cd76263cbd0,genus,Ormiscus,,,"Eckl. & Zeyh.",,1834,,"Enum. 9. 1834.",,,,,,,wfo-4000027164,3054176,,
+abcbffbc-8fd1-11eb-924d-9cd76263cbd0,species,amplexicaulis,Ormiscus,,"Eckl. & Zeyh.",,,,,,,,,,,wfo-0001216910,5374343,,
+3d46c504-8fcc-11eb-924d-9cd76263cbd0,species,pendulus,Ormiscus,,Spach,,1838,,"Hist. Nat. Vég. 6: 453 1838",,,,,,287879-1,wfo-0000386681,5552524,,
+ad5b8dce-8fcd-11eb-924d-9cd76263cbd0,species,pinnatus,Ormiscus,,"(L.f.) Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 10, No. 68. 1834",,,,3fcff35a-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0001037692,5374335,,
+abddae56-8fd1-11eb-924d-9cd76263cbd0,species,pusilla,Ormiscus,,"Eckl. & Zeyh.",,,,,,,,,,,wfo-0001217046,,,
+ad5ba8ae-8fcd-11eb-924d-9cd76263cbd0,species,pusillus,Ormiscus,,"(L.f.) Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 9, No. 66. 1834",,,,,,,wfo-0001037693,3043955,,
+ad5bc532-8fcd-11eb-924d-9cd76263cbd0,species,tenuisiliqua,Ormiscus,,"Eckl. & Zeyh.",,1834,,"Enum. Pl. Afr. Austral. 9, No. 67. 1834",,,,,,,wfo-0001037694,5374391,,

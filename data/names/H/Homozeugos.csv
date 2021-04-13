@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d61694-8fd1-11eb-924d-9cd76263cbd0,genus,Homozeugos,,,Stapf,,"Hooker's Icon. Pl. 31: t. 3033. 1915.",,,,,18234-1,wfo-4000018210,4117322,
-5588f4b0-8fcd-11eb-924d-9cd76263cbd0,species,conciliatum,Homozeugos,,Guala,2002,"Novon 12: 196 2002",,,,,20006848-1,wfo-0000874628,4117331,
-55895306-8fcd-11eb-924d-9cd76263cbd0,species,eylesii,Homozeugos,,C.E.Hubb.,1936,"Bull. Misc. Inform. Kew 1936: 295 1936",,,,,405126-1,wfo-0000874629,4141256,
-55897110-8fcd-11eb-924d-9cd76263cbd0,species,fragile,Homozeugos,,Stapf,,"Hooker's Icon. Pl. 31: t. 3033 1915",,,,,405127-1,wfo-0000874630,4141247,
-5589ab4e-8fcd-11eb-924d-9cd76263cbd0,species,gossweileri,Homozeugos,,Stapf,1917,"Fl. Trop. Afr. 9: 103 1917",,,,,405128-1,wfo-0000874632,4141236,
-5589c8cc-8fcd-11eb-924d-9cd76263cbd0,species,huillense,Homozeugos,,"(Rendle) Stapf",,"Hooker's Icon. Pl. 31: t. 3033 1915",,,,,405129-1,wfo-0000874633,4141227,
-5589e672-8fcd-11eb-924d-9cd76263cbd0,species,katakton,Homozeugos,,Clayton,1973,"Garcia de Orta, Sér. Bot. 1: 11 1973",,,,,405130-1,wfo-0000874634,4117321,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d61694-8fd1-11eb-924d-9cd76263cbd0,genus,Homozeugos,,,Stapf,,,,"Hooker's Icon. Pl. 31: t. 3033. 1915.",,,,,,18234-1,wfo-4000018210,4117322,,
+5588f4b0-8fcd-11eb-924d-9cd76263cbd0,species,conciliatum,Homozeugos,,Guala,,2002,,"Novon 12: 196 2002",,Q55774804,,,,20006848-1,wfo-0000874628,4117331,,
+55895306-8fcd-11eb-924d-9cd76263cbd0,species,eylesii,Homozeugos,,C.E.Hubb.,,1936,,"Bull. Misc. Inform. Kew 1936: 295 1936",,Q55781774,,,,405126-1,wfo-0000874629,4141256,,
+55897110-8fcd-11eb-924d-9cd76263cbd0,species,fragile,Homozeugos,,Stapf,,,,"Hooker's Icon. Pl. 31: t. 3033 1915",,,,,,405127-1,wfo-0000874630,4141247,,
+5589ab4e-8fcd-11eb-924d-9cd76263cbd0,species,gossweileri,Homozeugos,,Stapf,,1917,,"Fl. Trop. Afr. 9: 103 1917",,,,,,405128-1,wfo-0000874632,4141236,,
+5589c8cc-8fcd-11eb-924d-9cd76263cbd0,species,huillense,Homozeugos,,"(Rendle) Stapf",,,,"Hooker's Icon. Pl. 31: t. 3033 1915",,,,,,405129-1,wfo-0000874633,4141227,,
+5589e672-8fcd-11eb-924d-9cd76263cbd0,species,katakton,Homozeugos,,Clayton,,1973,,"Garcia de Orta, Sér. Bot. 1: 11 1973",,,,,,405130-1,wfo-0000874634,4117321,,

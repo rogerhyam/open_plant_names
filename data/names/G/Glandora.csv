@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4052390-8fd1-11eb-924d-9cd76263cbd0,genus,Glandora,,,"D.C.Thomas, Weigend & Hilger",,,,,,,77088627-1,wfo-4000015697,7294610,
-8ee3d960-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Glandora,,"(Lag.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,3c635a30-8fcc-11eb-924d-9cd76263cbd0,77088628-1,wfo-0000509314,4059971,
-8ee3f40e-8fcc-11eb-924d-9cd76263cbd0,species,moroccana,Glandora,,"(I.M.Johnst.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,2cc587e2-8fcc-11eb-924d-9cd76263cbd0,77088629-1,wfo-0000509315,4059963,
-8ee41b82-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Glandora,,"(Ern) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,,77088631-1,wfo-0000509316,4059956,
-8ee43f54-8fcc-11eb-924d-9cd76263cbd0,species,oleifolia,Glandora,,"(Lapeyr.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,,77088632-1,wfo-0000509317,4059949,
-8ee4666e-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Glandora,,"(Loisel.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,,77088633-1,wfo-0000509318,7294611,
-8ee566fe-8fcc-11eb-924d-9cd76263cbd0,subspecies,lusitanica,Glandora,prostrata,"(Samp.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,,77088634-1,wfo-0000509320,4059932,
-8ee5892c-8fcc-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Glandora,,"(Ten.) D.C.Thomas",2008,"Taxon 57: 94 2008",,,,,77088635-1,wfo-0000509321,4059924,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4052390-8fd1-11eb-924d-9cd76263cbd0,genus,Glandora,,,"D.C.Thomas, Weigend & Hilger",,,,,,,,,,77088627-1,wfo-4000015697,7294610,,
+8ee3d960-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Glandora,,"(Lag.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,3c635a30-8fcc-11eb-924d-9cd76263cbd0,,77088628-1,wfo-0000509314,4059971,,
+8ee3f40e-8fcc-11eb-924d-9cd76263cbd0,species,moroccana,Glandora,,"(I.M.Johnst.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,2cc587e2-8fcc-11eb-924d-9cd76263cbd0,,77088629-1,wfo-0000509315,4059963,,
+8ee41b82-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Glandora,,"(Ern) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,,,77088631-1,wfo-0000509316,4059956,,
+8ee43f54-8fcc-11eb-924d-9cd76263cbd0,species,oleifolia,Glandora,,"(Lapeyr.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,,,77088632-1,wfo-0000509317,4059949,,
+8ee4666e-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Glandora,,"(Loisel.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,,,77088633-1,wfo-0000509318,7294611,,
+8ee566fe-8fcc-11eb-924d-9cd76263cbd0,subspecies,lusitanica,Glandora,prostrata,"(Samp.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,,,77088634-1,wfo-0000509320,4059932,,
+8ee5892c-8fcc-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Glandora,,"(Ten.) D.C.Thomas",,2008,,"Taxon 57: 94 2008",,,,,,77088635-1,wfo-0000509321,4059924,,

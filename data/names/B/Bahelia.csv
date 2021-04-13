@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0050fbc-8fd1-11eb-924d-9cd76263cbd0,genus,Bahelia,,,,,,,,,,,wfo-4000003888,7333102,
-ac7bd39c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Bahelia,,"(Benth.) Kuntze",1891,"Revis. Gen. Pl. 2: 458 1891",,,,,799586-1,wfo-0000558486,3739597,
-ac7bef9e-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Bahelia,,"(D.Don) Kuntze",1891,"Revis. Gen. Pl. 2: 458 1891",,,,858fb5e6-8fcc-11eb-924d-9cd76263cbd0,799587-1,wfo-0000558487,3739590,
-ac7c0c2c-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Bahelia,,Kuntze,1891,"Revis. Gen. Pl. 2: 458 1891",,,,,799588-1,wfo-0000558488,3739582,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0050fbc-8fd1-11eb-924d-9cd76263cbd0,genus,Bahelia,,,,,,,,,,,,,,wfo-4000003888,7333102,,
+ac7bd39c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Bahelia,,"(Benth.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 458 1891",,,,,,799586-1,wfo-0000558486,3739597,,
+ac7bef9e-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Bahelia,,"(D.Don) Kuntze",,1891,,"Revis. Gen. Pl. 2: 458 1891",,,,858fb5e6-8fcc-11eb-924d-9cd76263cbd0,,799587-1,wfo-0000558487,3739590,,
+ac7c0c2c-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Bahelia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 458 1891",,,,,,799588-1,wfo-0000558488,3739582,,

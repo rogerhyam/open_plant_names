@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfaa0414-8fd1-11eb-924d-9cd76263cbd0,genus,Arachnocalyx,,,Compton,1935,"J. S. African Bot. 1: 144. 1935. (Oct 1935)",,,,,,wfo-4000002826,7328431,
-a2ba59f0-8fcc-11eb-924d-9cd76263cbd0,species,cereris,Arachnocalyx,,Compton,1935,"J. S. African Bot. 1: 144 1935",,,,,326431-1,wfo-0000543026,4170952,
-a2baa0fe-8fcc-11eb-924d-9cd76263cbd0,species,viscidus,Arachnocalyx,,"(N.E.Br.) E.G.H.Oliv.",1984,"S. African J. Bot. 3: 268 1984",,,,,913674-1,wfo-0000543027,4170945,
-e8ebe872-8fcb-11eb-924d-9cd76263cbd0,species,chevalieri,Arachnodes,,Gagnep.,1950,"Notul. Syst. (Paris) 14: 32 1950",,,,,302340-2,wfo-0000253706,5381407,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfaa0414-8fd1-11eb-924d-9cd76263cbd0,genus,Arachnocalyx,,,Compton,,1935,,"J. S. African Bot. 1: 144. 1935. (Oct 1935)",,,,,,,wfo-4000002826,7328431,,
+a2ba59f0-8fcc-11eb-924d-9cd76263cbd0,species,cereris,Arachnocalyx,,Compton,,1935,,"J. S. African Bot. 1: 144 1935",,,,,,326431-1,wfo-0000543026,4170952,,
+a2baa0fe-8fcc-11eb-924d-9cd76263cbd0,species,viscidus,Arachnocalyx,,"(N.E.Br.) E.G.H.Oliv.",,1984,,"S. African J. Bot. 3: 268 1984",,,,,,913674-1,wfo-0000543027,4170945,,

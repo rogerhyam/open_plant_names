@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e11ebf60-8fd1-11eb-924d-9cd76263cbd0,genus,Campovassouria,,,"R.M.King & H.Rob.",,,,,,,312247-2,wfo-4000006415,3094779,
-4195d10e-8fb3-11eb-924d-9cd76263cbd0,species,barbosae,Campovassouria,,H.Rob.,2006,2006,,,,,,wfo-0000044830,3094780,
-45d43496-8fb2-11eb-924d-9cd76263cbd0,species,bupleurifolia,Campovassouria,,"(DC.) R.M.King & H.Rob.",1971,"Phytologia 22(2) 122 1971",,,,dbb4abd0-8fb7-11eb-924d-9cd76263cbd0,44111-2,wfo-0000018463,4215908,
-80066aa8-8fb2-11eb-924d-9cd76263cbd0,species,cruciata,Campovassouria,,"(Vell.) R.M.King & H.Rob.",1981,"Phytologia 49 3 1981",,,,,44112-2,wfo-0000026303,3094781,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e11ebf60-8fd1-11eb-924d-9cd76263cbd0,genus,Campovassouria,,,"R.M.King & H.Rob.",,,,,,,,,,312247-2,wfo-4000006415,3094779,,
+4195d10e-8fb3-11eb-924d-9cd76263cbd0,species,barbosae,Campovassouria,,H.Rob.,,2006,,2006,,,,,,,wfo-0000044830,3094780,,
+45d43496-8fb2-11eb-924d-9cd76263cbd0,species,bupleurifolia,Campovassouria,,"(DC.) R.M.King & H.Rob.",,1971,,"Phytologia 22(2) 122 1971",,,,dbb4abd0-8fb7-11eb-924d-9cd76263cbd0,,44111-2,wfo-0000018463,4215908,,
+80066aa8-8fb2-11eb-924d-9cd76263cbd0,species,cruciata,Campovassouria,,"(Vell.) R.M.King & H.Rob.",,1981,,"Phytologia 49 3 1981",,,,,,44112-2,wfo-0000026303,3094781,,

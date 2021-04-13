@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4b41ac6-8fd1-11eb-924d-9cd76263cbd0,genus,Heterosavia,,,"(Urb.) Petra Hoffm.",,,,,,,77094260-1,wfo-4000017769,8339393,
-439dbea2-8fcd-11eb-924d-9cd76263cbd0,species,bahamensis,Heterosavia,,"(Britton) Petra Hoffm.",2008,"Brittonia 60: 153 2008",,,,,77094261-1,wfo-0000835709,3079602,
-439e6dca-8fcd-11eb-924d-9cd76263cbd0,species,erythroxyloides,Heterosavia,,"(Griseb.) Petra Hoffm.",2008,"Brittonia 60: 157 2008",,,,096116f4-8fcc-11eb-924d-9cd76263cbd0,77094262-1,wfo-0000835715,3079583,
-439e4ba6-8fcd-11eb-924d-9cd76263cbd0,species,laurifolia,Heterosavia,,"(Griseb.) Petra Hoffm.",2008,"Brittonia 60: 159 2008",,,,0961d1d4-8fcc-11eb-924d-9cd76263cbd0,77094263-1,wfo-0000835714,3079586,
-439e30e4-8fcd-11eb-924d-9cd76263cbd0,variety,intermedia,Heterosavia,laurifolia,"(Müll.Arg.) Petra Hoffm.",2008,"Brittonia 60: 161 2008",,,,,77094264-1,wfo-0000835713,3079587,
-439dfa98-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Heterosavia,,"(Urb.) Petra Hoffm.",2008,"Brittonia 60: 161 2008",,,,09630fe0-8fcc-11eb-924d-9cd76263cbd0,77094265-1,wfo-0000835711,3079596,
-439ddcde-8fcd-11eb-924d-9cd76263cbd0,variety,clementis,Heterosavia,maculata,"(Alain) Petra Hoffm.",2008,"Brittonia 60: 163 2008",,,,,77094266-1,wfo-0000835710,3079598,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4b41ac6-8fd1-11eb-924d-9cd76263cbd0,genus,Heterosavia,,,"(Urb.) Petra Hoffm.",,,,,,Q55808664,,,,77094260-1,wfo-4000017769,8339393,,
+439dbea2-8fcd-11eb-924d-9cd76263cbd0,species,bahamensis,Heterosavia,,"(Britton) Petra Hoffm.",,2008,,"Brittonia 60: 153 2008",,Q55808664,,,,77094261-1,wfo-0000835709,3079602,,
+439e6dca-8fcd-11eb-924d-9cd76263cbd0,species,erythroxyloides,Heterosavia,,"(Griseb.) Petra Hoffm.",,2008,,"Brittonia 60: 157 2008",,Q55808664,,096116f4-8fcc-11eb-924d-9cd76263cbd0,,77094262-1,wfo-0000835715,3079583,,
+439e4ba6-8fcd-11eb-924d-9cd76263cbd0,species,laurifolia,Heterosavia,,"(Griseb.) Petra Hoffm.",,2008,,"Brittonia 60: 159 2008",,Q55808664,,0961d1d4-8fcc-11eb-924d-9cd76263cbd0,,77094263-1,wfo-0000835714,3079586,,
+439e30e4-8fcd-11eb-924d-9cd76263cbd0,variety,intermedia,Heterosavia,laurifolia,"(Müll.Arg.) Petra Hoffm.",,2008,,"Brittonia 60: 161 2008",,Q55808664,,,,77094264-1,wfo-0000835713,3079587,,
+439dfa98-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Heterosavia,,"(Urb.) Petra Hoffm.",,2008,,"Brittonia 60: 161 2008",,Q55808664,,09630fe0-8fcc-11eb-924d-9cd76263cbd0,,77094265-1,wfo-0000835711,3079596,,
+439ddcde-8fcd-11eb-924d-9cd76263cbd0,variety,clementis,Heterosavia,maculata,"(Alain) Petra Hoffm.",,2008,,"Brittonia 60: 163 2008",,Q55808664,,,,77094266-1,wfo-0000835710,3079598,,

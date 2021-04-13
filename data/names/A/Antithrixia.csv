@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df902dd2-8fd1-11eb-924d-9cd76263cbd0,genus,Antithrixia,,,DC.,,,,,,,7659-1,wfo-4000002515,3132496,
-5c65e2ae-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"(Sch.Bip. ex Walp.) Vatke",,,,,,,,wfo-0000021957,,
-bc146354-8fb9-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"(Sch.Bip.) Benth. & Hook.f. ex Oliv. & Hiern",1877,"Fl. Trop. Afr. 3: 356 (1877)",,,,,,wfo-0000120921,,
-103cf958-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"Benth. & Hook.f.",,"Gen. ii. 329.",,,,,177711-1,wfo-0000008942,7604051,
-11af8364-8fb2-11eb-924d-9cd76263cbd0,species,angustifolia,Antithrixia,,"Oliv. & Hiern",1877,1877,,,,,,wfo-0000009364,3114878,
-12449d3e-8fb5-11eb-924d-9cd76263cbd0,species,flavicoma,Antithrixia,,DC.,1838,"278 1838",,,,,177713-1,wfo-0000073562,3132497,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df902dd2-8fd1-11eb-924d-9cd76263cbd0,genus,Antithrixia,,,DC.,,,,,,,,,,7659-1,wfo-4000002515,3132496,,
+103cf958-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"Benth. & Hook.f.",,,,"Gen. ii. 329.",,,,,,177711-1,wfo-0000008942,7604051,,
+5c65e2ae-8fb2-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"(Sch.Bip. ex Walp.) Vatke",,,,,,,,,,,wfo-0000021957,,,
+bc146354-8fb9-11eb-924d-9cd76263cbd0,species,abyssinica,Antithrixia,,"(Sch.Bip.) Benth. & Hook.f. ex Oliv. & Hiern",,1877,,"Fl. Trop. Afr. 3: 356 (1877)",,,,,,,wfo-0000120921,,,
+11af8364-8fb2-11eb-924d-9cd76263cbd0,species,angustifolia,Antithrixia,,"Oliv. & Hiern",,1877,,1877,,,,,,,wfo-0000009364,3114878,,
+12449d3e-8fb5-11eb-924d-9cd76263cbd0,species,flavicoma,Antithrixia,,DC.,,1838,,"278 1838",,,,,,177713-1,wfo-0000073562,3132497,,

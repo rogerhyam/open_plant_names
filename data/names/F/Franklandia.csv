@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3cc91b0-8fd1-11eb-924d-9cd76263cbd0,genus,Franklandia,,,R.Br.,1811,"Trans. Linn. Soc. London 10: 157. 1811[1810].",,,,,32914-1,wfo-4000015015,7287587,
-fc1d4782-8fcc-11eb-924d-9cd76263cbd0,species,fucifolia,Franklandia,,R.Br.,1810,"Trans. Linn. Soc. London 10: 157 1810",,,,,703655-1,wfo-0000692145,3998992,
-fc1d6988-8fcc-11eb-924d-9cd76263cbd0,species,triaristata,Franklandia,,Benth.,1870,"Fl. Austral. 5: 377 1870",,,,,703657-1,wfo-0000692146,3998970,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3cc91b0-8fd1-11eb-924d-9cd76263cbd0,genus,Franklandia,,,R.Br.,,1811,,"Trans. Linn. Soc. London 10: 157. 1811[1810].",,Q55760724,,,,32914-1,wfo-4000015015,7287587,,
+fc1d4782-8fcc-11eb-924d-9cd76263cbd0,species,fucifolia,Franklandia,,R.Br.,,1810,,"Trans. Linn. Soc. London 10: 157 1810",,Q55760724,,,,703655-1,wfo-0000692145,3998992,,
+fc1d6988-8fcc-11eb-924d-9cd76263cbd0,species,triaristata,Franklandia,,Benth.,,1870,,"Fl. Austral. 5: 377 1870",,,,,,703657-1,wfo-0000692146,3998970,,

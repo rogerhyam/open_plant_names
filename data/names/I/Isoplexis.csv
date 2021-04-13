@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5297118-8fd1-11eb-924d-9cd76263cbd0,genus,Isoplexis,,,"(Lindl.) Benth.",1770,"Edwards's Bot. Reg. ad 1770[3]. 1835.",,,,,,wfo-4000019305,,
-132b0ba8-8fcd-11eb-924d-9cd76263cbd0,species,canariensis,Isoplexis,,"(L.) Loudon",1829,"Encycl. Pl. 528 1829",,,,,804042-1,wfo-0000732678,3741198,
-132b306a-8fcd-11eb-924d-9cd76263cbd0,species,canariensis,Isoplexis,,Steud.,1840,"Nomencl. Bot. ed. 2, 1: 829 1840",,,,,,wfo-0000732679,7612393,
-d1c13b10-8fd1-11eb-924d-9cd76263cbd0,species,chalcantha,Isoplexis,,"Svent. & O'Shan.",,,,,,,,wfo-0001282451,3741191,
-132ba2e8-8fcd-11eb-924d-9cd76263cbd0,species,isabelliana,Isoplexis,,"(Webb & Berthel.) Mansf.",1896,"J. Roy. Hort. Soc. 19: 67 1896",,,,ba58229a-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000732682,8360211,
-dac85706-8fcd-11eb-924d-9cd76263cbd0,species,sceptrum,Isoplexis,,"(L.f.) Steud.",1840,"Nomencl. Bot. (ed. 2) 1: 829 1840",,,,e2499b94-8fcc-11eb-924d-9cd76263cbd0,804045-1,wfo-0001138940,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5297118-8fd1-11eb-924d-9cd76263cbd0,genus,Isoplexis,,,"(Lindl.) Benth.",,1770,,"Edwards's Bot. Reg. ad 1770[3]. 1835.",,,,,,,wfo-4000019305,,,
+132b0ba8-8fcd-11eb-924d-9cd76263cbd0,species,canariensis,Isoplexis,,"(L.) Loudon",,1829,,"Encycl. Pl. 528 1829",,,,,,804042-1,wfo-0000732678,3741198,,
+132b306a-8fcd-11eb-924d-9cd76263cbd0,species,canariensis,Isoplexis,,Steud.,,1840,,"Nomencl. Bot. ed. 2, 1: 829 1840",,,,,,,wfo-0000732679,7612393,,
+d1c13b10-8fd1-11eb-924d-9cd76263cbd0,species,chalcantha,Isoplexis,,"Svent. & O'Shan.",,,,,,,,,,,wfo-0001282451,3741191,,
+132ba2e8-8fcd-11eb-924d-9cd76263cbd0,species,isabelliana,Isoplexis,,"(Webb & Berthel.) Mansf.",,1896,,"J. Roy. Hort. Soc. 19: 67 1896",,,,ba58229a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000732682,8360211,,
+dac85706-8fcd-11eb-924d-9cd76263cbd0,species,sceptrum,Isoplexis,,"(L.f.) Steud.",,1840,,"Nomencl. Bot. (ed. 2) 1: 829 1840",,,,e2499b94-8fcc-11eb-924d-9cd76263cbd0,,804045-1,wfo-0001138940,,,

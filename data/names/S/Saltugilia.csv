@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9e7b822-8fd1-11eb-924d-9cd76263cbd0,genus,Saltugilia,,,"(V.E.Grant) L.A.Johnson",2000,"Aliso 19(1): 69. 2000.",,,,,1003263-2,wfo-4000033881,7131187,
-c0332f66-8fd1-11eb-924d-9cd76263cbd0,species,australis,Saltugilia,,"(H.Mason & A.D.Grant) L.A.Johnson",2000,"Aliso 19(1): 69 2000",,,,022bde9a-8fcd-11eb-924d-9cd76263cbd0,1015846-1,wfo-0001254443,4057459,
-c0331256-8fd1-11eb-924d-9cd76263cbd0,species,caruifolia,Saltugilia,,"(Abrams) L.A.Johnson",2000,"Aliso 19(1): 69 2000",,,,01ec8c22-8fcd-11eb-924d-9cd76263cbd0,1015845-1,wfo-0001254442,4057444,
-8b642ff6-8fcc-11eb-924d-9cd76263cbd0,species,grinnellii,Saltugilia,,"(Brand) L.A.Johnson",2000,"Aliso 19: 69 2000",,,,01ff3764-8fcd-11eb-924d-9cd76263cbd0,1015843-1,wfo-0000503518,7131197,
-c032f82a-8fd1-11eb-924d-9cd76263cbd0,subspecies,grantii,Saltugilia,grinnellii,"(Brand) L.A.Johnson",2000,"Aliso 19(1): 69 2000",,,,01ee9738-8fcd-11eb-924d-9cd76263cbd0,1015844-1,wfo-0001254441,4057419,
-8b6409a4-8fcc-11eb-924d-9cd76263cbd0,species,latimeri,Saltugilia,,"T.L.Weese & L.A.Johnson",2001,"Madroño 48: 198 2001 publ. 2002",,,,,20004000-1,wfo-0000503517,4057409,
-ab39aefe-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Saltugilia,,"(Douglas ex H.Mason & A.D.Grant) L.A.Johnson",2007,"Novon 17(2): 193 2007",,,,022bbff0-8fcd-11eb-924d-9cd76263cbd0,60446956-2,wfo-0001033066,7131188,
-ab39ceac-8fcd-11eb-924d-9cd76263cbd0,subspecies,grantii,Saltugilia,splendens,"(Brand) L.A.Johnson",2007,"Novon 17(2): 193 2007",,,,01ee9738-8fcd-11eb-924d-9cd76263cbd0,60446957-2,wfo-0001033067,4057394,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9e7b822-8fd1-11eb-924d-9cd76263cbd0,genus,Saltugilia,,,"(V.E.Grant) L.A.Johnson",,2000,,"Aliso 19(1): 69. 2000.",,Q54552416,,,,1003263-2,wfo-4000033881,7131187,,
+c0332f66-8fd1-11eb-924d-9cd76263cbd0,species,australis,Saltugilia,,"(H.Mason & A.D.Grant) L.A.Johnson",,2000,,"Aliso 19(1): 69 2000",,Q54552416,,022bde9a-8fcd-11eb-924d-9cd76263cbd0,,1015846-1,wfo-0001254443,4057459,,
+c0331256-8fd1-11eb-924d-9cd76263cbd0,species,caruifolia,Saltugilia,,"(Abrams) L.A.Johnson",,2000,,"Aliso 19(1): 69 2000",,Q54552416,,01ec8c22-8fcd-11eb-924d-9cd76263cbd0,,1015845-1,wfo-0001254442,4057444,,
+8b642ff6-8fcc-11eb-924d-9cd76263cbd0,species,grinnellii,Saltugilia,,"(Brand) L.A.Johnson",,2000,,"Aliso 19: 69 2000",,Q54552416,,01ff3764-8fcd-11eb-924d-9cd76263cbd0,,1015843-1,wfo-0000503518,7131197,,
+c032f82a-8fd1-11eb-924d-9cd76263cbd0,subspecies,grantii,Saltugilia,grinnellii,"(Brand) L.A.Johnson",,2000,,"Aliso 19(1): 69 2000",,Q54552416,,01ee9738-8fcd-11eb-924d-9cd76263cbd0,,1015844-1,wfo-0001254441,4057419,,
+8b6409a4-8fcc-11eb-924d-9cd76263cbd0,species,latimeri,Saltugilia,,"T.L.Weese & L.A.Johnson",,2001,,"Madroño 48: 198 2001 publ. 2002",,Q93958751,,,,20004000-1,wfo-0000503517,4057409,,
+ab39aefe-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Saltugilia,,"(Douglas ex H.Mason & A.D.Grant) L.A.Johnson",,2007,,"Novon 17(2): 193 2007",,Q55791048,,022bbff0-8fcd-11eb-924d-9cd76263cbd0,,60446956-2,wfo-0001033066,7131188,,
+ab39ceac-8fcd-11eb-924d-9cd76263cbd0,subspecies,grantii,Saltugilia,splendens,"(Brand) L.A.Johnson",,2007,,"Novon 17(2): 193 2007",,Q55791048,,01ee9738-8fcd-11eb-924d-9cd76263cbd0,,60446957-2,wfo-0001033067,4057394,,

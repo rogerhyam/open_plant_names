@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9bd670c-8fd1-11eb-924d-9cd76263cbd0,genus,Robsonia,,,Rchb.,1837,"Handb. Nat. Pfl.-Syst. 233. 1837.",,,,,,wfo-4000033351,3230659,
-73dee768-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Robsonia,,Spach,1838,"Hist. Nat. Vég. 6: 181 1838",,,,,793116-1,wfo-0000463873,5567715,
-47027afc-8fcc-11eb-924d-9cd76263cbd0,species,eucleiforme,Robsonodendron,,"(Eckl. & Zeyh.) R.H.Archer",1997,"S. African J. Bot. 63: 118 1997",,,,35b26078-8fcc-11eb-924d-9cd76263cbd0,996831-1,wfo-0000399166,3793497,
-4704573c-8fcc-11eb-924d-9cd76263cbd0,species,maritimum,Robsonodendron,,"(Bolus) R.H.Archer",1997,"S. African J. Bot. 63: 119 1997",,,,,996832-1,wfo-0000399176,3793485,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9bd670c-8fd1-11eb-924d-9cd76263cbd0,genus,Robsonia,,,Rchb.,,1837,,"Handb. Nat. Pfl.-Syst. 233. 1837.",,,,,,,wfo-4000033351,3230659,,
+73dee768-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Robsonia,,Spach,,1838,,"Hist. Nat. Vég. 6: 181 1838",,,,,,793116-1,wfo-0000463873,5567715,,
+47027afc-8fcc-11eb-924d-9cd76263cbd0,species,eucleiforme,Robsonodendron,,"(Eckl. & Zeyh.) R.H.Archer",,1997,,"S. African J. Bot. 63: 118 1997",,Q55808713,,35b26078-8fcc-11eb-924d-9cd76263cbd0,,996831-1,wfo-0000399166,3793497,,
+4704573c-8fcc-11eb-924d-9cd76263cbd0,species,maritimum,Robsonodendron,,"(Bolus) R.H.Archer",,1997,,"S. African J. Bot. 63: 119 1997",,Q55808713,,,,996832-1,wfo-0000399176,3793485,,

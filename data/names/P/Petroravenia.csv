@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e84b6400-8fd1-11eb-924d-9cd76263cbd0,genus,Petroravenia,,,Al-Shehbaz,1994,"Novon 4(3): 191. 1994.",,,,,979272-1,wfo-4000028983,3050661,
-b3c60046-8fd1-11eb-924d-9cd76263cbd0,species,eseptata,Petroravenia,,Al-Shehbaz,1994,"Novon 4(3): 191–196, f. 1–2 1994",,,,,979273-1,wfo-0001231448,3050662,
-8364ef48-8fcc-11eb-924d-9cd76263cbd0,species,bicornis,Petrorchis,,"(D.L.Jones & M.A.Clem.) D.L.Jones & M.A.Clem.",2002,"Austral. Orchid Res. 4: 78 2002",,,,ff38a890-8fcb-11eb-924d-9cd76263cbd0,20012268-1,wfo-0000490224,2847465,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e84b6400-8fd1-11eb-924d-9cd76263cbd0,genus,Petroravenia,,,Al-Shehbaz,,1994,,"Novon 4(3): 191. 1994.",,Q55773874,,,,979272-1,wfo-4000028983,3050661,,
+b3c60046-8fd1-11eb-924d-9cd76263cbd0,species,eseptata,Petroravenia,,Al-Shehbaz,,1994,,"Novon 4(3): 191–196, f. 1–2 1994",,Q55773874,,,,979273-1,wfo-0001231448,3050662,,
+8364ef48-8fcc-11eb-924d-9cd76263cbd0,species,bicornis,Petrorchis,,"(D.L.Jones & M.A.Clem.) D.L.Jones & M.A.Clem.",,2002,,"Austral. Orchid Res. 4: 78 2002",,,,ff38a890-8fcb-11eb-924d-9cd76263cbd0,,20012268-1,wfo-0000490224,2847465,,

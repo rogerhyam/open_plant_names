@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4dbc274-8fd1-11eb-924d-9cd76263cbd0,genus,Horridohypnum,,,W.R.Buck,1980,"Bryologist 83: 463. 1980[1981].",,,,,,wfo-4000018301,2680317,
-f11fe514-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Horridohypnum,,"(Thér.) W.R.Buck",1980,"Bryologist 83: 463 1980",,,,,,wfo-0001186040,2680318,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4dbc274-8fd1-11eb-924d-9cd76263cbd0,genus,Horridohypnum,,,W.R.Buck,,1980,,"Bryologist 83: 463. 1980[1981].",,,,,,,wfo-4000018301,2680317,,
+f11fe514-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Horridohypnum,,"(Thér.) W.R.Buck",,1980,,"Bryologist 83: 463 1980",,,,,,,wfo-0001186040,2680318,,

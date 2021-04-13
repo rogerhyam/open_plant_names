@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e925eba2-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolophozia,,,"Konstant. & Vilnet",2009,"Arctoa 18: 65. 2009[2010].",,,,,,wfo-4000031575,4888492,
-ac71f704-8fcd-11eb-924d-9cd76263cbd0,species,debiliformis,Pseudolophozia,,"(R.M.Schust. & Damsh.) Konstant. & Vilnet",2009,"Arctoa 18: 66 2009",,,,f945a166-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001035617,7816269,
-ac71beec-8fcd-11eb-924d-9cd76263cbd0,species,sudetica,Pseudolophozia,,"(Nees ex Huebener) Konstant. & Vilnet",2009,"Arctoa 18: 66 2009",,,,f7a953de-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001035616,8196045,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e925eba2-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolophozia,,,"Konstant. & Vilnet",,2009,,"Arctoa 18: 65. 2009[2010].",,,,,,,wfo-4000031575,4888492,,
+ac71f704-8fcd-11eb-924d-9cd76263cbd0,species,debiliformis,Pseudolophozia,,"(R.M.Schust. & Damsh.) Konstant. & Vilnet",,2009,,"Arctoa 18: 66 2009",,,,f945a166-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035617,7816269,,
+ac71beec-8fcd-11eb-924d-9cd76263cbd0,species,sudetica,Pseudolophozia,,"(Nees ex Huebener) Konstant. & Vilnet",,2009,,"Arctoa 18: 66 2009",,,,f7a953de-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035616,8196045,,

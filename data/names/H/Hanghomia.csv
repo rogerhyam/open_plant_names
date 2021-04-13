@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4629b74-8fd1-11eb-924d-9cd76263cbd0,genus,Hanghomia,,,"Gagnep. & Thénint",,"Bull. Soc. Bot. France 83: 392.",,,,,,wfo-4000016829,7316568,
-9136848c-8fcd-11eb-924d-9cd76263cbd0,species,marseillei,Hanghomia,,"Gagnep. & Thénint",1936,"Bull. Soc. Bot. France 83: 392 1936",,,,,79242-1,wfo-0000979198,3614569,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4629b74-8fd1-11eb-924d-9cd76263cbd0,genus,Hanghomia,,,"Gagnep. & Thénint",,,,"Bull. Soc. Bot. France 83: 392.",,,,,,,wfo-4000016829,7316568,,
+9136848c-8fcd-11eb-924d-9cd76263cbd0,species,marseillei,Hanghomia,,"Gagnep. & Thénint",,1936,,"Bull. Soc. Bot. France 83: 392 1936",,Q55757348,,,,79242-1,wfo-0000979198,3614569,,

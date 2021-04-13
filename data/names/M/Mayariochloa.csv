@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec635818-8fd1-11eb-924d-9cd76263cbd0,genus,Mayariochloa,,,"Salariato, Morrone & Zuloaga",2012,"Syst. Bot. 37: 110 (2012)",,,,,77121305-1,wfo-4001303318,7390600,
-e08f211c-8fcb-11eb-924d-9cd76263cbd0,species,rauwolfiae,Maycockia,,A.DC.,1844,"Prodr. 8: 324 1844",,,,,80157-1,wfo-0000239097,3614654,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec635818-8fd1-11eb-924d-9cd76263cbd0,genus,Mayariochloa,,,"Salariato, Morrone & Zuloaga",,2012,,"Syst. Bot. 37: 110 (2012)",,Q93533287,,,,77121305-1,wfo-4001303318,7390600,,
+e08f211c-8fcb-11eb-924d-9cd76263cbd0,species,rauwolfiae,Maycockia,,A.DC.,,1844,,"Prodr. 8: 324 1844",,,,,,80157-1,wfo-0000239097,3614654,,

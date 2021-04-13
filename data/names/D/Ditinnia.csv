@@ -1,10 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2f26968-8fd1-11eb-924d-9cd76263cbd0,genus,Ditinnia,,,A.Chev.,1920,"Dict. Sci. Nat. (ed. 2) 1: 279. 1920.",,,,,,wfo-4000012274,7273035,
-5e1fb496-8fbf-11eb-924d-9cd76263cbd0,species,rupicola,Ditinnia,,A.Chev.,1936,"Fl. W. Trop. Afr. [Hutchinson & Dalziel] 2: 361, in syn. 1936",,,,,568614-1,wfo-0000159541,3865212,
-e57fb668-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Ditmaria,,"(Rudge) Spreng.",1824,"Syst. Veg. 1: 16 1824",,,,,870860-1,wfo-0000652690,5650914,
-e57fd7a6-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Ditmaria,,"(Mart.) Spreng.",1827,"Syst. Veg. 4(2): 8 1827",,,,abce8002-8fcc-11eb-924d-9cd76263cbd0,870861-1,wfo-0000652691,5650912,
-e57ff812-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Ditomostrophe,,Turcz.,1846,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 499 1846",,,,,822887-1,wfo-0000652693,3669548,
-e5801388-8fcc-11eb-924d-9cd76263cbd0,species,betonicifolia,Ditoxia,,Raf.,1814,"Précis Découv. Somiol. 40 1814",,,,,802146-1,wfo-0000652694,3742334,
-e5802f80-8fcc-11eb-924d-9cd76263cbd0,species,cretica,Ditoxia,,"(L.f.) Raf. ex Desv.",1814,"J. Bot. Agric. 4: 270 1814",,,,c2af31a4-8fcc-11eb-924d-9cd76263cbd0,802147-1,wfo-0000652695,,
-e5806662-8fcc-11eb-924d-9cd76263cbd0,species,lyrata,Ditoxia,,"(Lam.) Raf.",1814,"Précis Découv. Somiol. 40 1814",,,,,802148-1,wfo-0000652697,3742325,
-3ad725fe-8fc5-11eb-924d-9cd76263cbd0,species,occidentalis,Ditramexa,,"Britton & Rose",,,,,,,,wfo-0000192009,2957974,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2f26968-8fd1-11eb-924d-9cd76263cbd0,genus,Ditinnia,,,A.Chev.,,1920,,"Dict. Sci. Nat. (ed. 2) 1: 279. 1920.",,,,,,,wfo-4000012274,7273035,,
+5e1fb496-8fbf-11eb-924d-9cd76263cbd0,species,rupicola,Ditinnia,,A.Chev.,,1936,,"Fl. W. Trop. Afr. [Hutchinson & Dalziel] 2: 361, in syn. 1936",,,,,,568614-1,wfo-0000159541,3865212,,

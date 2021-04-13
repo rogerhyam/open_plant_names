@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebf861e8-8fd1-11eb-924d-9cd76263cbd0,genus,Vittetia,,,"R.M.King & H.Rob.",,,,,,,288281-2,wfo-4000040388,3102905,
-138d9f68-8fb2-11eb-924d-9cd76263cbd0,species,bishopii,Vittetia,,"R.M.King & H.Rob.",1981,"281 1981",,,,,,wfo-0000009862,7885675,
-b5dc4132-8fb4-11eb-924d-9cd76263cbd0,species,orbiculata,Vittetia,,"(DC.) R.M.King & H.Rob.",1974,"122 1974",,,,,266229-2,wfo-0000068808,3142721,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebf861e8-8fd1-11eb-924d-9cd76263cbd0,genus,Vittetia,,,"R.M.King & H.Rob.",,,,,,,,,,288281-2,wfo-4000040388,3102905,,
+138d9f68-8fb2-11eb-924d-9cd76263cbd0,species,bishopii,Vittetia,,"R.M.King & H.Rob.",,1981,,"281 1981",,,,,,,wfo-0000009862,7885675,,
+b5dc4132-8fb4-11eb-924d-9cd76263cbd0,species,orbiculata,Vittetia,,"(DC.) R.M.King & H.Rob.",,1974,,"122 1974",,,,,,266229-2,wfo-0000068808,3142721,,

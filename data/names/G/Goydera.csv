@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e42890fa-8fd1-11eb-924d-9cd76263cbd0,genus,Goydera,,,Liede,1993,"Novon 3(3): 265, f. 1. 1993.",,,,,973294-1,wfo-4000016103,7312352,
-050e7942-8fcd-11eb-924d-9cd76263cbd0,species,somaliense,Goydera,,Liede,1993,"Novon 3: 265 1993",,,,,,wfo-0000708406,8030237,
-cb3ee480-8fcd-11eb-924d-9cd76263cbd0,species,somaliensis,Goydera,,Liede,1993,"Novon 3(3): 265, f. 1 1993",,,,,973295-1,wfo-0001104810,3578220,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e42890fa-8fd1-11eb-924d-9cd76263cbd0,genus,Goydera,,,Liede,,1993,,"Novon 3(3): 265, f. 1. 1993.",,Q54801114,,,,973294-1,wfo-4000016103,7312352,,
+050e7942-8fcd-11eb-924d-9cd76263cbd0,species,somaliense,Goydera,,Liede,,1993,,"Novon 3: 265 1993",,,,,,,wfo-0000708406,8030237,,
+cb3ee480-8fcd-11eb-924d-9cd76263cbd0,species,somaliensis,Goydera,,Liede,,1993,,"Novon 3(3): 265, f. 1 1993",,Q54801114,,,,973295-1,wfo-0001104810,3578220,,

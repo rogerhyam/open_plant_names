@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e49b1b70-8fd1-11eb-924d-9cd76263cbd0,genus,Hemolepis,,,,,,,,,,,wfo-4000017461,7338078,
-44ac58b2-8fb9-11eb-924d-9cd76263cbd0,species,canesoens,Hemolepis,,"Hort ex Vilm.",1866,"Fl. Pleine Terre (ed. 2) 396 1866",,,,,213831-1,wfo-0000116893,4241015,
-0c1cb5d2-8fcd-11eb-924d-9cd76263cbd0,species,erythraea,Hemprichia,,Ehrenb.,1829,"Linnaea 4: 396 1829",,,,,128116-1,wfo-0000719655,3992752,
-923c9bbe-8fcd-11eb-924d-9cd76263cbd0,species,calcarata,Hemsleia,,"(Hemsl.) Kudô",1929,"Mem. Fac. Sci. Taihoku Imp. Univ. 2: 143 1929",,,,afe46792-8fd1-11eb-924d-9cd76263cbd0,447834-1,wfo-0000981464,3885413,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e49b1b70-8fd1-11eb-924d-9cd76263cbd0,genus,Hemolepis,,,,,,,,,,,,,,wfo-4000017461,7338078,,
+44ac58b2-8fb9-11eb-924d-9cd76263cbd0,species,canesoens,Hemolepis,,"Hort ex Vilm.",,1866,,"Fl. Pleine Terre (ed. 2) 396 1866",,,,,,213831-1,wfo-0000116893,4241015,,
+0c1cb5d2-8fcd-11eb-924d-9cd76263cbd0,species,erythraea,Hemprichia,,Ehrenb.,,1829,,"Linnaea 4: 396 1829",,,,,,128116-1,wfo-0000719655,3992752,,
+923c9bbe-8fcd-11eb-924d-9cd76263cbd0,species,calcarata,Hemsleia,,"(Hemsl.) Kudô",,1929,,"Mem. Fac. Sci. Taihoku Imp. Univ. 2: 143 1929",,,,afe46792-8fd1-11eb-924d-9cd76263cbd0,,447834-1,wfo-0000981464,3885413,,

@@ -1,10 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebe8ac3a-8fd1-11eb-924d-9cd76263cbd0,genus,Verschaffeltia,,,H.Wendl.,1865,"Ill. Hort. 12 Misc.: 5. 1865.",,,,,31552-1,wfo-4000040183,2739115,
-1a7d4606-8fcc-11eb-924d-9cd76263cbd0,species,melanochaetes,Verschaffeltia,,H.Wendl.,1871,"Ill. Hort. 18: 54 1871",,,,,,wfo-0000332487,2733491,
-1a7d60be-8fcc-11eb-924d-9cd76263cbd0,species,splendida,Verschaffeltia,,H.Wendl.,1865,"Ill. Hort. 12(Misc.): 6 1865",,,,,670228-1,wfo-0000332488,2739116,
-7570dcca-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,,,"(A.P.Khokhr.) Lysenko",1764,"Bot. Zhurn. (Moscow & Leningrad) 95: 1764 2010",,,,520cc28a-8fcd-11eb-924d-9cd76263cbd0,77111052-1,wfo-0000921456,,
-1a7d9c78-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Versteegia,,"(K.Schum. & Lauterb.) Valeton",1911,"Nova Guinea 8: 484 1911",,,,,770224-1,wfo-0000332490,2899520,
-1a7dba1e-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Versteegia,,Valeton,1911,"Nova Guinea 8: 484 1911",,,,,770225-1,wfo-0000332491,2899524,
-1a7dd954-8fcc-11eb-924d-9cd76263cbd0,species,minor,Versteegia,,Valeton,1927,"Bot. Jahrb. Syst. 61: 67 1927",,,,,770226-1,wfo-0000332492,2899522,
-1a7df40c-8fcc-11eb-924d-9cd76263cbd0,species,puberula,Versteegia,,Ridsdale,1972,"Blumea 20: 340 1972 publ. 1973",,,,,770227-1,wfo-0000332493,2899519,
-1a7e1540-8fcc-11eb-924d-9cd76263cbd0,species,solomonensis,Versteegia,,Ridsdale,1972,"Blumea 20: 340 1972 publ. 1973",,,,,770228-1,wfo-0000332494,2899523,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebe8ac3a-8fd1-11eb-924d-9cd76263cbd0,genus,Verschaffeltia,,,H.Wendl.,,1865,,"Ill. Hort. 12 Misc.: 5. 1865.",,,,,,31552-1,wfo-4000040183,2739115,,
+1a7d4606-8fcc-11eb-924d-9cd76263cbd0,species,melanochaetes,Verschaffeltia,,H.Wendl.,,1871,,"Ill. Hort. 18: 54 1871",,,,,,,wfo-0000332487,2733491,,
+1a7d60be-8fcc-11eb-924d-9cd76263cbd0,species,splendida,Verschaffeltia,,H.Wendl.,,1865,,"Ill. Hort. 12(Misc.): 6 1865",,,,,,670228-1,wfo-0000332488,2739116,,
+7570dcca-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,,,"(A.P.Khokhr.) Lysenko",,1764,,"Bot. Zhurn. (Moscow & Leningrad) 95: 1764 2010",,,,520cc28a-8fcd-11eb-924d-9cd76263cbd0,,77111052-1,wfo-0000921456,,,

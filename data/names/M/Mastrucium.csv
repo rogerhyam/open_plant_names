@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e66ab294-8fd1-11eb-924d-9cd76263cbd0,genus,Mastrucium,,,,,,,,,,,wfo-4000023308,7337595,
-b2961ea0-8fb2-11eb-924d-9cd76263cbd0,species,coronata,Mastrucium,,Cass.,1825,"in Dict. Sc. Nat. xxxv. 173 (1825).",,,,,231798-1,wfo-0000032125,4233697,
-25cf0cb6-8fb2-11eb-924d-9cd76263cbd0,species,insulare,Mastrucium,,"(Iljin) Kitag.",1947,"J. Jap. Bot. xxi. 138 (1947) (aphalm. Masturcium).",,,,,231799-1,wfo-0000013507,4233691,
-4595d638-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifidum,Mastrucium,,Cass.,1825,"Dictionnaire des Sciences Naturelles 35: 173 1825",,,,,,wfo-0000018420,3097791,
-5775b3b4-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifidum,Mastrucium,,DC.,1838,"Prodr. (DC.) 6: 667 1838",,,,,231800-1,wfo-0000021238,7964955,
-e2c651d4-8fb3-11eb-924d-9cd76263cbd0,species,spicata,Matamoria,,"(Juss. ex Aubl.) La Llave & Lex.",1824,"Nov. Veg. Descr. 1: 8. 1824.",,,,,231801-1,wfo-0000056329,3134314,
-33e332a0-8fb2-11eb-924d-9cd76263cbd0,species,spicata,Matamoria,,"La Llave",1824,"8 1824",,,,,231801-1,wfo-0000015726,3134314,
-0a32cf62-8fba-11eb-924d-9cd76263cbd0,species,capensis,Mataxa,,Spreng.,1827,"Syst. Veg. (ed. 16) [Sprengel] 4(2, Cur. Post.): 303 1827",,,,,231802-1,wfo-0000123478,5385179,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e66ab294-8fd1-11eb-924d-9cd76263cbd0,genus,Mastrucium,,,,,,,,,,,,,,wfo-4000023308,7337595,,
+b2961ea0-8fb2-11eb-924d-9cd76263cbd0,species,coronata,Mastrucium,,Cass.,,1825,,"in Dict. Sc. Nat. xxxv. 173 (1825).",,,,,,231798-1,wfo-0000032125,4233697,,
+25cf0cb6-8fb2-11eb-924d-9cd76263cbd0,species,insulare,Mastrucium,,"(Iljin) Kitag.",,1947,,"J. Jap. Bot. xxi. 138 (1947) (aphalm. Masturcium).",,Q104820449,,,,231799-1,wfo-0000013507,4233691,,
+4595d638-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifidum,Mastrucium,,Cass.,,1825,,"Dictionnaire des Sciences Naturelles 35: 173 1825",,,,,,,wfo-0000018420,3097791,,
+5775b3b4-8fb2-11eb-924d-9cd76263cbd0,species,pinnatifidum,Mastrucium,,DC.,,1838,,"Prodr. (DC.) 6: 667 1838",,,,,,231800-1,wfo-0000021238,7964955,,
+33e332a0-8fb2-11eb-924d-9cd76263cbd0,species,spicata,Matamoria,,"La Llave",,1824,,"8 1824",,,,,,231801-1,wfo-0000015726,3134314,,
+e2c651d4-8fb3-11eb-924d-9cd76263cbd0,species,spicata,Matamoria,,"(Juss. ex Aubl.) La Llave & Lex.",,1824,,"Nov. Veg. Descr. 1: 8. 1824.",,,,,,231801-1,wfo-0000056329,3134314,,
+0a32cf62-8fba-11eb-924d-9cd76263cbd0,species,capensis,Mataxa,,Spreng.,,1827,,"Syst. Veg. (ed. 16) [Sprengel] 4(2, Cur. Post.): 303 1827",,,,,,231802-1,wfo-0000123478,5385179,,

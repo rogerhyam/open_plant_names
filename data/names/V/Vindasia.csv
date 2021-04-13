@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebf28b88-8fd1-11eb-924d-9cd76263cbd0,genus,Vindasia,,,Benoist,1962,"Bull. Soc. Bot. France 109: 133. 1962.",,,,,1020-1,wfo-4000040302,7263391,
-b0d218d8-8fcd-11eb-924d-9cd76263cbd0,species,virgata,Vindasia,,Benoist,1962,"Bull. Soc. Bot. France 109: 133 1962",,,,,56546-1,wfo-0001045491,3770988,
-57d5c884-8fcc-11eb-924d-9cd76263cbd0,species,begoniifolia,Vindicta,,Raf.,1837,"Fl. Tellur. 2: 51 1837",,,,,107629-1,wfo-0000420843,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebf28b88-8fd1-11eb-924d-9cd76263cbd0,genus,Vindasia,,,Benoist,,1962,,"Bull. Soc. Bot. France 109: 133. 1962.",,Q55757749,,,,1020-1,wfo-4000040302,7263391,,
+b0d218d8-8fcd-11eb-924d-9cd76263cbd0,species,virgata,Vindasia,,Benoist,,1962,,"Bull. Soc. Bot. France 109: 133 1962",,Q55757749,,,,56546-1,wfo-0001045491,3770988,,
+57d5c884-8fcc-11eb-924d-9cd76263cbd0,species,begoniifolia,Vindicta,,Raf.,,1837,,"Fl. Tellur. 2: 51 1837",,,,,,107629-1,wfo-0000420843,,,

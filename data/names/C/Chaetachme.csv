@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1771304-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetachme,,,Planch.,1848,"Ann. Sci. Nat., Bot., sér. 3, 10: 266. 1848.",,,,,40747-1,wfo-4000007491,7303581,
-c64b408c-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Chaetachme,,Planch.,1848,"Ann. Sci. Nat., Bot. III, 10: 341 1848",,,,,851209-1,wfo-0000599138,4159728,
-c64b5d4c-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Chaetachme,,Baker,1885,"J. Linn. Soc., Bot. 21: 443 1885",,,,,851210-1,wfo-0000599139,4160077,
-c64b92da-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Chaetachme,,Harv.,1859,"Thes. Cap. 1: 16 1859",,,,,851211-1,wfo-0000599141,4159719,
-c64bafc2-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Chaetachme,,Rendle,1916,"Fl. Trop. Afr. 6(2): 13 1916",,,,,837044-1,wfo-0000599142,4159708,
-c64bca48-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Chaetachme,,"Planch. & Harv.",1859,"Thes. Cap. 1: 16 1859",,,,,,wfo-0000599143,4159702,
-c64be488-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Chaetachme,,Engl.,1902,"Notizbl. Königl. Bot. Gart. Berlin 3: 24 1902",,,,,851213-1,wfo-0000599144,4159692,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1771304-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetachme,,,Planch.,,1848,,"Ann. Sci. Nat., Bot., sér. 3, 10: 266. 1848.",,,,,,40747-1,wfo-4000007491,7303581,,
+c64b408c-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Chaetachme,,Planch.,,1848,,"Ann. Sci. Nat., Bot. III, 10: 341 1848",,,,,,851209-1,wfo-0000599138,4159728,,
+c64b5d4c-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Chaetachme,,Baker,,1885,,"J. Linn. Soc., Bot. 21: 443 1885",,Q55760266,,,,851210-1,wfo-0000599139,4160077,,
+c64b92da-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Chaetachme,,Harv.,,1859,,"Thes. Cap. 1: 16 1859",,,,,,851211-1,wfo-0000599141,4159719,,
+c64bafc2-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Chaetachme,,Rendle,,1916,,"Fl. Trop. Afr. 6(2): 13 1916",,,,,,837044-1,wfo-0000599142,4159708,,
+c64bca48-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Chaetachme,,"Planch. & Harv.",,1859,,"Thes. Cap. 1: 16 1859",,,,,,,wfo-0000599143,4159702,,
+c64be488-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Chaetachme,,Engl.,,1902,,"Notizbl. Königl. Bot. Gart. Berlin 3: 24 1902",,,,,,851213-1,wfo-0000599144,4159692,,

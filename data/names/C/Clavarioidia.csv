@@ -1,10 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1cc1b2e-8fd1-11eb-924d-9cd76263cbd0,genus,Clavarioidia,,,,,,,,,,,wfo-4000008509,7279904,
-cbfc8ac2-8fcc-11eb-924d-9cd76263cbd0,species,clavarioides,Clavarioidia,,"(Pfeiff.) Kreuz.",1935,"Verz. Amer. Sukkulent. 41 1935",,,,,130994-1,wfo-0000608751,3942065,
-44c9e7ca-8fcc-11eb-924d-9cd76263cbd0,species,clavata,,,E.Walther,1934,"Cact. Succ. J. (Los Angeles) 6: 55 1934",,,,,274659-1,wfo-0000396572,,
-262953fe-8fb4-11eb-924d-9cd76263cbd0,species,baeocephala,Clavena,,Sch.Bip.,1844,1844,,,,,,wfo-0000060704,5393610,
-bf002e2a-8fbb-11eb-924d-9cd76263cbd0,species,canariensis,Clavena,,DC.,1838,"633 1838",,,,,196286-1,wfo-0000136342,5393607,
-0ec50278-8fb2-11eb-924d-9cd76263cbd0,species,squarrosa,Clavena,,DC.,1838,"633 1838",,,,,196287-1,wfo-0000008499,5393609,
-cbfcd590-8fcc-11eb-924d-9cd76263cbd0,species,tetrandra,Clavenna,,"(L.) Standl.",1918,"N. Amer. Fl. 32: 24 1918",,,,f1880db2-8fcb-11eb-924d-9cd76263cbd0,59785-2,wfo-0000608753,3849216,
-44ca54ee-8fcc-11eb-924d-9cd76263cbd0,species,clavifolia,,,"(A.Berger) E.Walther",1931,"Cact. Succ. J. (Los Angeles) 3: 13 1931",,,,,274657-1,wfo-0000396575,,
-44c9c6be-8fcc-11eb-924d-9cd76263cbd0,species,clavifolia,,,"(A.Berger) E.Walther",1934,"Cact. Succ. J. (Los Angeles) 6: 55 1934",,,,,274660-1,wfo-0000396571,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1cc1b2e-8fd1-11eb-924d-9cd76263cbd0,genus,Clavarioidia,,,,,,,,,,,,,,wfo-4000008509,7279904,,
+cbfc8ac2-8fcc-11eb-924d-9cd76263cbd0,species,clavarioides,Clavarioidia,,"(Pfeiff.) Kreuz.",,1935,,"Verz. Amer. Sukkulent. 41 1935",,,,,,130994-1,wfo-0000608751,3942065,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e31ccd8e-8fd1-11eb-924d-9cd76263cbd0,genus,Duthiastrum,,,"M.P.de Vos",1975,"J. S. African Bot. 41: 91. 1975.",,,,,20310-1,wfo-4000012788,2749602,
-2e06dc22-8fcd-11eb-924d-9cd76263cbd0,species,linifolium,Duthiastrum,,"(E.Phillips) M.P.de Vos",1975,"J. S. African Bot. 41: 91 1975",,,,,436881-1,wfo-0000789360,2749603,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e31ccd8e-8fd1-11eb-924d-9cd76263cbd0,genus,Duthiastrum,,,"M.P.de Vos",,1975,,"J. S. African Bot. 41: 91. 1975.",,,,,,20310-1,wfo-4000012788,2749602,,
+2e06dc22-8fcd-11eb-924d-9cd76263cbd0,species,linifolium,Duthiastrum,,"(E.Phillips) M.P.de Vos",,1975,,"J. S. African Bot. 41: 91 1975",,,,,,436881-1,wfo-0000789360,2749603,,

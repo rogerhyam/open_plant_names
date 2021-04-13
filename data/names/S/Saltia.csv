@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9e79e5a-8fd1-11eb-924d-9cd76263cbd0,genus,Saltia,,,"R.Br. ex Moq.",1849,"Prodr. 13(2): 325. 1849. (5 May 1849)",,,,,77111124-1,wfo-4000033879,3231904,
-88647004-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Saltia,,A.Br.,1814,"Voy. Abyss. App.: Ixiv 1814",,,,,,wfo-0000498845,7473833,
-62178940-8fcc-11eb-924d-9cd76263cbd0,species,globosa,Saltia,,"Hochst. & Steud. ex Moq.",1849,"Prodr. 13(2): 325 1849",,,,,61375-1,wfo-0000433937,5548289,
-ac78c1ce-8fcd-11eb-924d-9cd76263cbd0,species,papposa,Saltia,,"(Forssk.) Moq.",1849,"Prodr. 13(2): 325 1849",,,,93124b52-8fcc-11eb-924d-9cd76263cbd0,77111125-1,wfo-0001035675,7699781,
-63012cda-8fcc-11eb-924d-9cd76263cbd0,species,seddera,Saltia,,Moq.,1849,"Prodr. 13(2): 325 1849",,,,,61377-1,wfo-0000435068,5548286,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9e79e5a-8fd1-11eb-924d-9cd76263cbd0,genus,Saltia,,,"R.Br. ex Moq.",,1849,,"Prodr. 13(2): 325. 1849. (5 May 1849)",,,,,,77111124-1,wfo-4000033879,3231904,,
+88647004-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Saltia,,A.Br.,,1814,,"Voy. Abyss. App.: Ixiv 1814",,,,,,,wfo-0000498845,7473833,,
+62178940-8fcc-11eb-924d-9cd76263cbd0,species,globosa,Saltia,,"Hochst. & Steud. ex Moq.",,1849,,"Prodr. 13(2): 325 1849",,,,,,61375-1,wfo-0000433937,5548289,,
+ac78c1ce-8fcd-11eb-924d-9cd76263cbd0,species,papposa,Saltia,,"(Forssk.) Moq.",,1849,,"Prodr. 13(2): 325 1849",,,,93124b52-8fcc-11eb-924d-9cd76263cbd0,,77111125-1,wfo-0001035675,7699781,,
+63012cda-8fcc-11eb-924d-9cd76263cbd0,species,seddera,Saltia,,Moq.,,1849,,"Prodr. 13(2): 325 1849",,,,,,61377-1,wfo-0000435068,5548286,,

@@ -1,12 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae8d9c2-8fd1-11eb-924d-9cd76263cbd0,genus,Strombulidens,,,W.R.Buck,1981,"Brittonia 33: 454. 1981.",,,,,,wfo-4000036915,2675851,
-f12eec08-8fcd-11eb-924d-9cd76263cbd0,species,longirostris,Strombulidens,,"(M.Fleisch.) W.R.Buck",1981,"Brittonia 33: 454 1981",,,,ee809b82-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001186172,2675852,
-113128a6-8fcc-11eb-924d-9cd76263cbd0,species,hemisphaericus,Strongylocalyx,,"(Wight) Blume",1850,"Mus. Bot. 1: 89 1850",,,,,601347-1,wfo-0000317220,3182228,
-11314606-8fcc-11eb-924d-9cd76263cbd0,species,lanceifolius,Strongylocalyx,,"(Roxb.) Blume",1850,"Mus. Bot. 1: 89 1850",,,,,601348-1,wfo-0000317221,3184588,
-1131632a-8fcc-11eb-924d-9cd76263cbd0,species,leptostachyus,Strongylocalyx,,"Blume ex Miq.",1855,"Fl. Ned. Ind. 1(1): 443 1855",,,,,601349-1,wfo-0000317222,3183437,
-11318170-8fcc-11eb-924d-9cd76263cbd0,species,leptostemon,Strongylocalyx,,"(Korth.) Blume",1850,"Mus. Bot. 1: 89 1850",,,,c33cf7e8-8fca-11eb-924d-9cd76263cbd0,601350-1,wfo-0000317223,3183439,
-11319dcc-8fcc-11eb-924d-9cd76263cbd0,species,oblatus,Strongylocalyx,,"(Roxb.) Blume",1850,"Mus. Bot. 1: 89 1850",,,,,601351-1,wfo-0000317224,3183252,
-1131b9ce-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Strongylocalyx,,"(Roxb.) Blume",1850,"Mus. Bot. 1: 89 1850",,,,874ebbec-8fcd-11eb-924d-9cd76263cbd0,601352-1,wfo-0000317225,3184589,
-1131d5ee-8fcc-11eb-924d-9cd76263cbd0,species,brassii,Strongylocaryum,,Burret,1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 98 1936",,,,,669974-1,wfo-0000317226,2733830,
-1131f59c-8fcc-11eb-924d-9cd76263cbd0,species,latius,Strongylocaryum,,Burret,1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 100 1936",,,,,669975-1,wfo-0000317227,2733828,
-11321720-8fcc-11eb-924d-9cd76263cbd0,species,macranthum,Strongylocaryum,,Burret,1936,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 96 1936",,,,,669976-1,wfo-0000317228,2733832,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae8d9c2-8fd1-11eb-924d-9cd76263cbd0,genus,Strombulidens,,,W.R.Buck,,1981,,"Brittonia 33: 454. 1981.",,,,,,,wfo-4000036915,2675851,,
+f12eec08-8fcd-11eb-924d-9cd76263cbd0,species,longirostris,Strombulidens,,"(M.Fleisch.) W.R.Buck",,1981,,"Brittonia 33: 454 1981",,,,ee809b82-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001186172,2675852,,

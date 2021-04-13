@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5b043f0-8fd1-11eb-924d-9cd76263cbd0,genus,Lembotropis,,,,,,,,,,,wfo-4000020976,2962931,
-2bfc66d2-8fcc-11eb-924d-9cd76263cbd0,species,affinis,Lembotropis,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 568 1845",,,,,844138-1,wfo-0000360836,3980159,
-b7307c9c-8fcd-11eb-924d-9cd76263cbd0,species,emeriflora,Lembotropis,,"(Rchb.) Skalická",1969,"Acta Univ. Carol., Biol. 275 1969",,,,,502188-1,wfo-0001060009,3980157,
-2e94ec52-8fcc-11eb-924d-9cd76263cbd0,species,glabrescens,Lembotropis,,"(Sart.) Klásk.",1958,"Preslia 30: 214 1958",,,,c6772056-8fc9-11eb-924d-9cd76263cbd0,502189-1,wfo-0000365107,3980154,
-9e462956-8fc9-11eb-924d-9cd76263cbd0,species,nigricans,Lembotropis,,"(L.) Griseb.",,,,,,,,wfo-0000213831,2962932,
-aebd340a-8fc9-11eb-924d-9cd76263cbd0,subspecies,australis,Lembotropis,nigricans,"(Wohlf.) Holub",,,,,,,,wfo-0000214145,,
-2bfc82e8-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolia,Lembotropis,,K.Koch,1869,"Dendrologie 1: 22 1869",,,,,844140-1,wfo-0000360837,3980144,
-2bfc9d00-8fcc-11eb-924d-9cd76263cbd0,species,triflora,Lembotropis,,C.Presl,1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 568 1845",,,,,844141-1,wfo-0000360838,3980140,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5b043f0-8fd1-11eb-924d-9cd76263cbd0,genus,Lembotropis,,,,,,,,,,,,,,wfo-4000020976,2962931,,
+2bfc66d2-8fcc-11eb-924d-9cd76263cbd0,species,affinis,Lembotropis,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 568 1845",,,,,,844138-1,wfo-0000360836,3980159,,
+b7307c9c-8fcd-11eb-924d-9cd76263cbd0,species,emeriflora,Lembotropis,,"(Rchb.) Skalická",,1969,,"Acta Univ. Carol., Biol. 275 1969",,,,,,502188-1,wfo-0001060009,3980157,,
+2e94ec52-8fcc-11eb-924d-9cd76263cbd0,species,glabrescens,Lembotropis,,"(Sart.) Klásk.",,1958,,"Preslia 30: 214 1958",,,,c6772056-8fc9-11eb-924d-9cd76263cbd0,,502189-1,wfo-0000365107,3980154,,
+9e462956-8fc9-11eb-924d-9cd76263cbd0,species,nigricans,Lembotropis,,"(L.) Griseb.",,,,,,,,,,,wfo-0000213831,2962932,,
+aebd340a-8fc9-11eb-924d-9cd76263cbd0,subspecies,australis,Lembotropis,nigricans,"(Wohlf.) Holub",,,,,,,,,,,wfo-0000214145,,,
+2bfc82e8-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolia,Lembotropis,,K.Koch,,1869,,"Dendrologie 1: 22 1869",,,,,,844140-1,wfo-0000360837,3980144,,
+2bfc9d00-8fcc-11eb-924d-9cd76263cbd0,species,triflora,Lembotropis,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 568 1845",,,,,,844141-1,wfo-0000360838,3980140,,

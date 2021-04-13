@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36cedfa-8fd1-11eb-924d-9cd76263cbd0,genus,Erinocarpus,,,"Nimmo ex J.Graham",1839,"Cat. Pl. Bombay 21. 1839.",,,,,39428-1,wfo-4000013792,7311205,
-f2186276-8fcc-11eb-924d-9cd76263cbd0,species,knimonii,Erinocarpus,,Hassk.,1855,"Retzia 1: 137 1855",,,,,,wfo-0000674216,7476508,
-f2187d24-8fcc-11eb-924d-9cd76263cbd0,species,nimmoanus,Erinocarpus,,Mast.,1874,"Fl. Brit. India 1: 394 1874",,,,,834008-1,wfo-0000674217,4261629,
-f2189818-8fcc-11eb-924d-9cd76263cbd0,species,nimmonii,Erinocarpus,,J.Graham,1839,"Cat. Pl. Bombay 21 1839",,,,,834009-1,wfo-0000674218,4261623,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36cedfa-8fd1-11eb-924d-9cd76263cbd0,genus,Erinocarpus,,,"Nimmo ex J.Graham",,1839,,"Cat. Pl. Bombay 21. 1839.",,,,,,39428-1,wfo-4000013792,7311205,,
+f2186276-8fcc-11eb-924d-9cd76263cbd0,species,knimonii,Erinocarpus,,Hassk.,,1855,,"Retzia 1: 137 1855",,,,,,,wfo-0000674216,7476508,,
+f2187d24-8fcc-11eb-924d-9cd76263cbd0,species,nimmoanus,Erinocarpus,,Mast.,,1874,,"Fl. Brit. India 1: 394 1874",,,,,,834008-1,wfo-0000674217,4261629,,
+f2189818-8fcc-11eb-924d-9cd76263cbd0,species,nimmonii,Erinocarpus,,J.Graham,,1839,,"Cat. Pl. Bombay 21 1839",,,,,,834009-1,wfo-0000674218,4261623,,

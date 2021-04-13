@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-def989d6-8fd1-11eb-924d-9cd76263cbd0,genus,Agenium,,,Nees,1836,"Nat. Syst. Bot. 447. 1836. (Jul (?) 1836)",,,,,17384-1,wfo-4000000932,4114873,
-469b467e-8fcd-11eb-924d-9cd76263cbd0,species,goyazense,Agenium,,"(Hack.) Clayton",1972,"Kew Bull. 27: 447 1972",,,,,384757-1,wfo-0000842084,4136014,
-469b60dc-8fcd-11eb-924d-9cd76263cbd0,species,leptocladum,Agenium,,"(Hack.) Clayton",1972,"Kew Bull. 27: 447 1972",,,,,384758-1,wfo-0000842085,4136008,
-469b7b80-8fcd-11eb-924d-9cd76263cbd0,species,majus,Agenium,,Pilg.,1938,"Repert. Spec. Nov. Regni Veg. 43: 82 1938",,,,,6801-2,wfo-0000842086,4135991,
-469b9624-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Agenium,,Nees,1836,"Intr. Nat. Syst. Bot. ed. 2: 447 1836",,,,,384760-1,wfo-0000842087,4135973,
-469bb4b0-8fcd-11eb-924d-9cd76263cbd0,species,villosum,Agenium,,"(Nees) Pilg.",1938,"Repert. Spec. Nov. Regni Veg. 43: 82 1938",,,,,6803-2,wfo-0000842088,4135957,
-d139fc3e-8fb5-11eb-924d-9cd76263cbd0,species,laevigata,Agenora,,D.Don,1829,"310 1829",,,,,175182-1,wfo-0000082502,5387338,
-975b5eec-8fcc-11eb-924d-9cd76263cbd0,species,royenii,Ageomoron,,"(L.) Raf.",1840,"Good Book 56 1840",,,,,837372-1,wfo-0000523886,3633696,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+def989d6-8fd1-11eb-924d-9cd76263cbd0,genus,Agenium,,,Nees,,1836,,"Nat. Syst. Bot. 447. 1836. (Jul (?) 1836)",,,,,,17384-1,wfo-4000000932,4114873,,
+469b467e-8fcd-11eb-924d-9cd76263cbd0,species,goyazense,Agenium,,"(Hack.) Clayton",,1972,,"Kew Bull. 27: 447 1972",,Q43233268,,,,384757-1,wfo-0000842084,4136014,,
+469b60dc-8fcd-11eb-924d-9cd76263cbd0,species,leptocladum,Agenium,,"(Hack.) Clayton",,1972,,"Kew Bull. 27: 447 1972",,Q43233268,,,,384758-1,wfo-0000842085,4136008,,
+469b7b80-8fcd-11eb-924d-9cd76263cbd0,species,majus,Agenium,,Pilg.,,1938,,"Repert. Spec. Nov. Regni Veg. 43: 82 1938",,Q55754523,,,,6801-2,wfo-0000842086,4135991,,
+469b9624-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Agenium,,Nees,,1836,,"Intr. Nat. Syst. Bot. ed. 2: 447 1836",,,,,,384760-1,wfo-0000842087,4135973,,
+469bb4b0-8fcd-11eb-924d-9cd76263cbd0,species,villosum,Agenium,,"(Nees) Pilg.",,1938,,"Repert. Spec. Nov. Regni Veg. 43: 82 1938",,Q55754523,,,,6803-2,wfo-0000842088,4135957,,
+d139fc3e-8fb5-11eb-924d-9cd76263cbd0,species,laevigata,Agenora,,D.Don,,1829,,"310 1829",,,,,,175182-1,wfo-0000082502,5387338,,
+975b5eec-8fcc-11eb-924d-9cd76263cbd0,species,royenii,Ageomoron,,"(L.) Raf.",,1840,,"Good Book 56 1840",,,,,,837372-1,wfo-0000523886,3633696,,

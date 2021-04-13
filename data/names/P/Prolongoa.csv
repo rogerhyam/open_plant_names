@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e90879be-8fd1-11eb-924d-9cd76263cbd0,genus,Prolongoa,,,Boiss.,,,,,,,331878-2,wfo-4000031216,3151343,
-9654e1ce-8fb5-11eb-924d-9cd76263cbd0,species,hispanica,Prolongoa,,"G.López & C.E.Jarvis",1984,"343 1984",,,,,905028-1,wfo-0000079824,3151344,
-3b12606e-8fb2-11eb-924d-9cd76263cbd0,species,macrocarpa,Prolongoa,,"(Sch.Bip.) Alavi",,171,,,,,,wfo-0000016579,3098650,
-f7790232-8fb5-11eb-924d-9cd76263cbd0,species,pectinata,Prolongoa,,"(L.) Boiss.",1840,"Voy. Bot. Espagne ii. 320 t. 93 (1840)",,,,,239641-1,wfo-0000084208,4220116,
-04fcf016-8fb2-11eb-924d-9cd76263cbd0,species,pseudanthemis,Prolongoa,,Kunze,1846,1846,,,,,,wfo-0000005244,3132538,
-c6c35a5a-8fb7-11eb-924d-9cd76263cbd0,species,setabensis,Prolongoa,,Nyman,1855,"Syll. Fl. Eur. 10. 1855",,,,,239643-1,wfo-0000103038,4220107,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e90879be-8fd1-11eb-924d-9cd76263cbd0,genus,Prolongoa,,,Boiss.,,,,,,,,,,331878-2,wfo-4000031216,3151343,,
+9654e1ce-8fb5-11eb-924d-9cd76263cbd0,species,hispanica,Prolongoa,,"G.López & C.E.Jarvis",,1984,,"343 1984",,,,,,905028-1,wfo-0000079824,3151344,,
+3b12606e-8fb2-11eb-924d-9cd76263cbd0,species,macrocarpa,Prolongoa,,"(Sch.Bip.) Alavi",,,,171,,,,,,,wfo-0000016579,3098650,,
+f7790232-8fb5-11eb-924d-9cd76263cbd0,species,pectinata,Prolongoa,,"(L.) Boiss.",,1840,,"Voy. Bot. Espagne ii. 320 t. 93 (1840)",,,,,,239641-1,wfo-0000084208,4220116,,
+04fcf016-8fb2-11eb-924d-9cd76263cbd0,species,pseudanthemis,Prolongoa,,Kunze,,1846,,1846,,,,,,,wfo-0000005244,3132538,,
+c6c35a5a-8fb7-11eb-924d-9cd76263cbd0,species,setabensis,Prolongoa,,Nyman,,1855,,"Syll. Fl. Eur. 10. 1855",,,,,,239643-1,wfo-0000103038,4220107,,

@@ -1,9 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea75db70-8fd1-11eb-924d-9cd76263cbd0,genus,Skottsbergia,,,Cardot,1905,"Rev. Bryol. 32: 47. 1905.",,,,,,wfo-4000035592,2675919,
-f0d5a59e-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Skottsbergia,,Cardot,1905,"Rev. Bryol. 32: 47 1905",,,,,,wfo-0001185393,5282405,
-b714fd92-8fd1-11eb-924d-9cd76263cbd0,species,colobanthoides,Skottsbergianthus,,"(Skottsb.) Boelcke",1984,"Fl. Patagónica 4a: 526 1984",,,,aba91b0a-8fd1-11eb-924d-9cd76263cbd0,285143-2,wfo-0001237584,3047216,
-b71554a4-8fd1-11eb-924d-9cd76263cbd0,species,sorianoi,Skottsbergianthus,,"(Boelcke) Boelcke",1984,"Fl. Patagónica 4a: 527 1984",,,,b7153712-8fd1-11eb-924d-9cd76263cbd0,285144-2,wfo-0001237587,3047212,
-b7151aa2-8fd1-11eb-924d-9cd76263cbd0,species,colobanthoides,Skottsbergiella,,"(Skottsb.) Boelcke",,,,,,aba91b0a-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001237585,5375303,
-0d738876-8fcc-11eb-924d-9cd76263cbd0,species,fernandezia,Skottsbergiella,,"(Colla) Epling",1935,"Repert. Spec. Nov. Regni Veg. Beih. 85: 1 1935",,,,,459145-1,wfo-0000311405,5606896,
-b7153712-8fd1-11eb-924d-9cd76263cbd0,species,sorianoi,Skottsbergiella,,Boelcke,,,,,,,,wfo-0001237586,5375302,
-9d44df80-8fcd-11eb-924d-9cd76263cbd0,species,skottsbergii,,,Bitter,1921,"; 1921 239 1921",,,,,287828-2,wfo-0001004517,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea75db70-8fd1-11eb-924d-9cd76263cbd0,genus,Skottsbergia,,,Cardot,,1905,,"Rev. Bryol. 32: 47. 1905.",,,,,,,wfo-4000035592,2675919,,
+f0d5a59e-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Skottsbergia,,Cardot,,1905,,"Rev. Bryol. 32: 47 1905",,,,,,,wfo-0001185393,5282405,,
+b714fd92-8fd1-11eb-924d-9cd76263cbd0,species,colobanthoides,Skottsbergianthus,,"(Skottsb.) Boelcke",,1984,,"Fl. Patagónica 4a: 526 1984",,,,aba91b0a-8fd1-11eb-924d-9cd76263cbd0,,285143-2,wfo-0001237584,3047216,,
+b71554a4-8fd1-11eb-924d-9cd76263cbd0,species,sorianoi,Skottsbergianthus,,"(Boelcke) Boelcke",,1984,,"Fl. Patagónica 4a: 527 1984",,,,b7153712-8fd1-11eb-924d-9cd76263cbd0,,285144-2,wfo-0001237587,3047212,,

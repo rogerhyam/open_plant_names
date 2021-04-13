@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e59e40e2-8fd1-11eb-924d-9cd76263cbd0,genus,Lauro-cerasus,,,"Tourn. ex Duhamel",1755,"Traité Arbr. Arbust. 1: 345, f. s.n. [p. 345], pl. 133. 1755.",,,,,,wfo-4000020754,7271856,
-c5d916ec-8fd1-11eb-924d-9cd76263cbd0,species,brachybotrya,Lauro-cerasus,,Roem.,1847,"Fam. Nat. Syn. Monogr. 3: 91 1847",,,,,725904-1,wfo-0001264794,8377106,
-d797d4bc-8fcd-11eb-924d-9cd76263cbd0,form,angustifolia,Lauro-cerasus,zippeliana,"T.T.Yu & L.T.Lu",1984,"Bull. Bot. Res., Harbin 4(4): 49 1984",,,,,918495-1,wfo-0001131949,8914897,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e59e40e2-8fd1-11eb-924d-9cd76263cbd0,genus,Lauro-cerasus,,,"Tourn. ex Duhamel",,1755,,"Traité Arbr. Arbust. 1: 345, f. s.n. [p. 345], pl. 133. 1755.",,,,,,,wfo-4000020754,7271856,,
+c5d916ec-8fd1-11eb-924d-9cd76263cbd0,species,brachybotrya,Lauro-cerasus,,Roem.,,1847,,"Fam. Nat. Syn. Monogr. 3: 91 1847",,,,,,725904-1,wfo-0001264794,8377106,,
+d797d4bc-8fcd-11eb-924d-9cd76263cbd0,form,angustifolia,Lauro-cerasus,zippeliana,"T.T.Yu & L.T.Lu",,1984,,"Bull. Bot. Res., Harbin 4(4): 49 1984",,Q96108280,,,,918495-1,wfo-0001131949,8914897,,

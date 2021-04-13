@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb64a232-8fd1-11eb-924d-9cd76263cbd0,genus,Toelkenia,,,,,,,,,,,wfo-4000038517,7334587,
-4e69bc6a-8fcc-11eb-924d-9cd76263cbd0,species,arborescens,Toelkenia,,"(Mill.) P.V.Heath",1993,"Calyx 3: 105 1993",,,,,969758-1,wfo-0000408677,4201630,
-4e693272-8fcc-11eb-924d-9cd76263cbd0,species,lactea,Toelkenia,,"(Sol.) P.V.Heath",1993,"Calyx 3: 105 1993",,,,,969759-1,wfo-0000408673,8636587,
-4e69f86a-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Toelkenia,,"(Mill.) P.V.Heath",1993,"Calyx 3: 105 1993",,,,,969760-1,wfo-0000408679,4201612,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb64a232-8fd1-11eb-924d-9cd76263cbd0,genus,Toelkenia,,,,,,,,,,,,,,wfo-4000038517,7334587,,
+4e69bc6a-8fcc-11eb-924d-9cd76263cbd0,species,arborescens,Toelkenia,,"(Mill.) P.V.Heath",,1993,,"Calyx 3: 105 1993",,,,,,969758-1,wfo-0000408677,4201630,,
+4e693272-8fcc-11eb-924d-9cd76263cbd0,species,lactea,Toelkenia,,"(Sol.) P.V.Heath",,1993,,"Calyx 3: 105 1993",,,,,,969759-1,wfo-0000408673,8636587,,
+4e69f86a-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Toelkenia,,"(Mill.) P.V.Heath",,1993,,"Calyx 3: 105 1993",,,,,,969760-1,wfo-0000408679,4201612,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0093948-8fd1-11eb-924d-9cd76263cbd0,genus,Balanostreblus,,,Kurz,1873,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 247. 1873[1874]. (26 May 1874)",,,,,,wfo-4000003934,7262509,
-acb32ea0-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolia,Balanostreblus,,Kurz,1873,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 248 1873",,,,,,wfo-0000558756,,
-c2273ad2-8fcd-11eb-924d-9cd76263cbd0,species,ilicifolius,Balanostreblus,,Kurz,1873,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42: 247 1873",,,,,,wfo-0001084962,8052116,
-acb352d6-8fcc-11eb-924d-9cd76263cbd0,species,fontanesii,Balansaea,,"Boiss. & Reut.",1852,"Pugill. Pl. Afr. Bor. Hispan. 50 1852",,,,,838663-1,wfo-0000558757,3630381,
-1bc539e6-8fcd-11eb-924d-9cd76263cbd0,variety,maritima,Balansaea,fontanesii,Batt.,1898,"Bull. Soc. Bot. France 45: 239 1898",,,,,,wfo-0000750852,7667884,
-acb3725c-8fcc-11eb-924d-9cd76263cbd0,species,glaberrima,Balansaea,,"(Desf.) Lange",1865,"Pug. Pl. Hispan. 4: 238 1865",,,,625bb34a-8fcc-11eb-924d-9cd76263cbd0,838664-1,wfo-0000558758,3630363,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0093948-8fd1-11eb-924d-9cd76263cbd0,genus,Balanostreblus,,,Kurz,,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 247. 1873[1874]. (26 May 1874)",,,,,,,wfo-4000003934,7262509,,
+acb32ea0-8fcc-11eb-924d-9cd76263cbd0,species,ilicifolia,Balanostreblus,,Kurz,,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 248 1873",,,,,,,wfo-0000558756,,,
+c2273ad2-8fcd-11eb-924d-9cd76263cbd0,species,ilicifolius,Balanostreblus,,Kurz,,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42: 247 1873",,,,,,,wfo-0001084962,8052116,,
+acb352d6-8fcc-11eb-924d-9cd76263cbd0,species,fontanesii,Balansaea,,"Boiss. & Reut.",,1852,,"Pugill. Pl. Afr. Bor. Hispan. 50 1852",,,,,,838663-1,wfo-0000558757,3630381,,
+1bc539e6-8fcd-11eb-924d-9cd76263cbd0,variety,maritima,Balansaea,fontanesii,Batt.,,1898,,"Bull. Soc. Bot. France 45: 239 1898",,,,,,,wfo-0000750852,7667884,,
+acb3725c-8fcc-11eb-924d-9cd76263cbd0,species,glaberrima,Balansaea,,"(Desf.) Lange",,1865,,"Pug. Pl. Hispan. 4: 238 1865",,,,625bb34a-8fcc-11eb-924d-9cd76263cbd0,,838664-1,wfo-0000558758,3630363,,

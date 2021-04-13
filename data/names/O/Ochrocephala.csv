@@ -1,5 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7706800-8fd1-11eb-924d-9cd76263cbd0,genus,Ochrocephala,,,Dittrich,,,,,,,893316-1,wfo-4000026490,3132385,
-0bd89872-8fb2-11eb-924d-9cd76263cbd0,species,imatongensis,Ochrocephala,,"(Philipson) Dittrich",1983,"Bot. Jahrb. Syst. 103(4): 477 (1983):.",,,,b7ded014-8fb2-11eb-924d-9cd76263cbd0,912878-1,wfo-0000007553,3132386,
-08ef997e-8fcd-11eb-924d-9cd76263cbd0,species,pudicus,Ochrocodon,,"(Pursh) Rydb.",1917,"Fl. Rocky Mts. 164 1917",,,,,171448-2,wfo-0000714101,2752404,
-3a84d298-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Ochrolasia,,Turcz.,1849,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 4 1849",,,,,317105-1,wfo-0000382885,4163811,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7706800-8fd1-11eb-924d-9cd76263cbd0,genus,Ochrocephala,,,Dittrich,,,,,,,,,,893316-1,wfo-4000026490,3132385,,
+0bd89872-8fb2-11eb-924d-9cd76263cbd0,species,imatongensis,Ochrocephala,,"(Philipson) Dittrich",,1983,,"Bot. Jahrb. Syst. 103(4): 477 (1983):.",,,,b7ded014-8fb2-11eb-924d-9cd76263cbd0,,912878-1,wfo-0000007553,3132386,,

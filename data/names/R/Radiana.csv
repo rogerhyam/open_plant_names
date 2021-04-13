@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9734028-8fd1-11eb-924d-9cd76263cbd0,genus,Radiana,,,Raf.,1814,"Specchio Sci. 1: 88. 1814.",,,,,,wfo-4000032458,3707844,
-13a4376c-8fcd-11eb-924d-9cd76263cbd0,species,petiolata,Radiana,,"Raf. ex DC.",1828,"Prodr. 3: 353 1828",,,,,,wfo-0000733729,8294527,
-0c67e756-8fc7-11eb-924d-9cd76263cbd0,species,dasycarpa,Radiata,,"(Ser.) Ovcz., Rassulova & Kinzi",,,,,,0c750b48-8fc7-11eb-924d-9cd76263cbd0,,wfo-0000200814,2981558,
-0cb6473e-8fc7-11eb-924d-9cd76263cbd0,species,glabra,Radiata,,"Ovcz., Rassulova & Kinzik.",,,,,,,,wfo-0000200820,2965389,
-0cc3e920-8fc7-11eb-924d-9cd76263cbd0,species,leiocarpa,Radiata,,Sojak,,,,,,,,wfo-0000200821,2965393,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9734028-8fd1-11eb-924d-9cd76263cbd0,genus,Radiana,,,Raf.,,1814,,"Specchio Sci. 1: 88. 1814.",,,,,,,wfo-4000032458,3707844,,
+13a4376c-8fcd-11eb-924d-9cd76263cbd0,species,petiolata,Radiana,,"Raf. ex DC.",,1828,,"Prodr. 3: 353 1828",,,,,,,wfo-0000733729,8294527,,
+0c67e756-8fc7-11eb-924d-9cd76263cbd0,species,dasycarpa,Radiata,,"(Ser.) Ovcz., Rassulova & Kinzi",,,,,,,,0c750b48-8fc7-11eb-924d-9cd76263cbd0,,,wfo-0000200814,2981558,,
+0cb6473e-8fc7-11eb-924d-9cd76263cbd0,species,glabra,Radiata,,"Ovcz., Rassulova & Kinzik.",,,,,,,,,,,wfo-0000200820,2965389,,
+0cc3e920-8fc7-11eb-924d-9cd76263cbd0,species,leiocarpa,Radiata,,Sojak,,,,,,,,,,,wfo-0000200821,2965393,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2bddf7c-8fd1-11eb-924d-9cd76263cbd0,genus,Didiclis,,,"P.Beauv. ex Mirb.",1802,"Hist. Nat. Vég. 3: 477; 4:314. 1802.",,,,,,wfo-4000011604,7329767,
-d1c08aac-8fcd-11eb-924d-9cd76263cbd0,species,kraussiana,Didiclis,,"(Kunze) Rothm.",,,,,,,,wfo-0001118781,7693526,
-ac372a0c-8fcd-11eb-924d-9cd76263cbd0,species,ornithopodioides,Didiclis,,"(L.) P.Beauv. ex J.St.-Hil.",1805,"Expos. Fam. Nat. 1: 39 1805",,,,,,wfo-0001035150,7550269,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2bddf7c-8fd1-11eb-924d-9cd76263cbd0,genus,Didiclis,,,"P.Beauv. ex Mirb.",,1802,,"Hist. Nat. Vég. 3: 477; 4:314. 1802.",,,,,,,wfo-4000011604,7329767,,
+d1c08aac-8fcd-11eb-924d-9cd76263cbd0,species,kraussiana,Didiclis,,"(Kunze) Rothm.",,,,,,,,,,,wfo-0001118781,7693526,,
+ac372a0c-8fcd-11eb-924d-9cd76263cbd0,species,ornithopodioides,Didiclis,,"(L.) P.Beauv. ex J.St.-Hil.",,1805,,"Expos. Fam. Nat. 1: 39 1805",,,,,,,wfo-0001035150,7550269,,

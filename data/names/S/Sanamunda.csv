@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9eaaee2-8fd1-11eb-924d-9cd76263cbd0,genus,Sanamunda,,,,,,,,,,,wfo-4000033922,,
-89b0b652-8fcc-11eb-924d-9cd76263cbd0,species,adpressa,Sanamunda,,Raf.,1840,"Autik. Bot. 147 1840",,,,,832735-1,wfo-0000500850,3567713,
-89b4d4ee-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Sanamunda,,Raf.,1840,"Autik. Bot. 146 1840",,,,,832736-1,wfo-0000500877,3567705,
-89b9b748-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Sanamunda,,"(L.f.) Raf.",1840,"Autik. Bot. 146 1840",,,,,832737-1,wfo-0000500898,8509301,
-89b99646-8fcc-11eb-924d-9cd76263cbd0,species,myrsinites,Sanamunda,,Fourr.,1869,"Ann. Soc. Linn. Lyon n.s., 17: 147 1869",,,,,832738-1,wfo-0000500897,3567689,
-89b979fe-8fcc-11eb-924d-9cd76263cbd0,species,subulata,Sanamunda,,Raf.,1840,"Autik. Bot. 147 1840",,,,,832739-1,wfo-0000500896,3567681,
-89b95b04-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Sanamunda,,Zumagl.,1864,"Fl. Pedemont. 2: 156 1864",,,,,832740-1,wfo-0000500895,3567671,
-89b939da-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Sanamunda,,Raf.,1840,"Autik. Bot. 147 1840",,,,,832741-1,wfo-0000500894,3567662,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9eaaee2-8fd1-11eb-924d-9cd76263cbd0,genus,Sanamunda,,,,,,,,,,,,,,wfo-4000033922,,,
+89b0b652-8fcc-11eb-924d-9cd76263cbd0,species,adpressa,Sanamunda,,Raf.,,1840,,"Autik. Bot. 147 1840",,,,,,832735-1,wfo-0000500850,3567713,,
+89b4d4ee-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Sanamunda,,Raf.,,1840,,"Autik. Bot. 146 1840",,,,,,832736-1,wfo-0000500877,3567705,,
+89b9b748-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Sanamunda,,"(L.f.) Raf.",,1840,,"Autik. Bot. 146 1840",,,,,,832737-1,wfo-0000500898,8509301,,
+89b99646-8fcc-11eb-924d-9cd76263cbd0,species,myrsinites,Sanamunda,,Fourr.,,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 147 1869",,,,,,832738-1,wfo-0000500897,3567689,,
+89b979fe-8fcc-11eb-924d-9cd76263cbd0,species,subulata,Sanamunda,,Raf.,,1840,,"Autik. Bot. 147 1840",,,,,,832739-1,wfo-0000500896,3567681,,
+89b95b04-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Sanamunda,,Zumagl.,,1864,,"Fl. Pedemont. 2: 156 1864",,,,,,832740-1,wfo-0000500895,3567671,,
+89b939da-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Sanamunda,,Raf.,,1840,,"Autik. Bot. 147 1840",,,,,,832741-1,wfo-0000500894,3567662,,

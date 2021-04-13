@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaccd6e6-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanostema,,,K.Schum.,1904,"Bot. Jahrb. Syst. 34: 325. 1904.",,,,,2578-1,wfo-4000036597,7317275,
-10dd48ee-8fcc-11eb-924d-9cd76263cbd0,species,stenocarpum,Stephanostema,,K.Schum.,1904,"Bot. Jahrb. Syst. 34: 325 1904",,,,,81838-1,wfo-0000316717,3620814,
-ca47ab66-8fcd-11eb-924d-9cd76263cbd0,species,glaziovii,Stephanotella,,E.Fourn.,1885,"Fl. Bras. 6(4): 326 1885",,,,,245139-2,wfo-0001102618,3573370,
-5fe1273a-8fcc-11eb-924d-9cd76263cbd0,species,killipii,Stephanotella,,Woodson,1931,"Ann. Missouri Bot. Gard. 18: 558 1931",,,,,245140-2,wfo-0000431129,3573356,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaccd6e6-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanostema,,,K.Schum.,,1904,,"Bot. Jahrb. Syst. 34: 325. 1904.",,,,,,2578-1,wfo-4000036597,7317275,,
+10dd48ee-8fcc-11eb-924d-9cd76263cbd0,species,stenocarpum,Stephanostema,,K.Schum.,,1904,,"Bot. Jahrb. Syst. 34: 325 1904",,,,,,81838-1,wfo-0000316717,3620814,,
+ca47ab66-8fcd-11eb-924d-9cd76263cbd0,species,glaziovii,Stephanotella,,E.Fourn.,,1885,,"Fl. Bras. 6(4): 326 1885",,,,,,245139-2,wfo-0001102618,3573370,,
+5fe1273a-8fcc-11eb-924d-9cd76263cbd0,species,killipii,Stephanotella,,Woodson,,1931,,"Ann. Missouri Bot. Gard. 18: 558 1931",,Q55764636,,,,245140-2,wfo-0000431129,3573356,,

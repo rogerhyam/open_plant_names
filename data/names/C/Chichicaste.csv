@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1962e42-8fd1-11eb-924d-9cd76263cbd0,genus,Chichicaste,,,Weigend,2006,"Taxon 55(2): 464. 2006. (22 Jun 2006)",,,,,,wfo-4000007845,7289776,
-c8002ef6-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Chichicaste,,"(Standl.) Weigend",2006,"Taxon 55: 465 2006",,,,,1007422-1,wfo-0000601985,4021377,
-471090d2-8fcd-11eb-924d-9cd76263cbd0,species,cortesiana,Chiclea,,Lundell,1976,"Wrightia 5: 318 1976",,,,,56301-2,wfo-0000843112,2885102,
-4711be4e-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Chiclea,,Lundell,1976,"Wrightia 5: 224 1976",,,,,56302-2,wfo-0000843122,2885100,
-4712ca96-8fcd-11eb-924d-9cd76263cbd0,species,guatemalensis,Chiclea,,Lundell,1976,"Wrightia 5: 222 1976",,,,,56303-2,wfo-0000843132,2885105,
-47138d96-8fcd-11eb-924d-9cd76263cbd0,species,staminodella,Chiclea,,"(Gilly) Lundell",1976,"Wrightia 5: 225 1976",,,,dec2eabc-8fcb-11eb-924d-9cd76263cbd0,56304-2,wfo-0000843138,2885103,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1962e42-8fd1-11eb-924d-9cd76263cbd0,genus,Chichicaste,,,Weigend,,2006,,"Taxon 55(2): 464. 2006. (22 Jun 2006)",,Q28960249,,,,1007421-1,wfo-4000007845,7289776,,
+c8002ef6-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Chichicaste,,"(Standl.) Weigend",,2006,,"Taxon 55: 465 2006",,Q28960249,,,,1007422-1,wfo-0000601985,4021377,,
+471090d2-8fcd-11eb-924d-9cd76263cbd0,species,cortesiana,Chiclea,,Lundell,,1976,,"Wrightia 5: 318 1976",,,,,,56301-2,wfo-0000843112,2885102,,
+4711be4e-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Chiclea,,Lundell,,1976,,"Wrightia 5: 224 1976",,,,,,56302-2,wfo-0000843122,2885100,,
+4712ca96-8fcd-11eb-924d-9cd76263cbd0,species,guatemalensis,Chiclea,,Lundell,,1976,,"Wrightia 5: 222 1976",,,,,,56303-2,wfo-0000843132,2885105,,
+47138d96-8fcd-11eb-924d-9cd76263cbd0,species,staminodella,Chiclea,,"(Gilly) Lundell",,1976,,"Wrightia 5: 225 1976",,,,dec2eabc-8fcb-11eb-924d-9cd76263cbd0,,56304-2,wfo-0000843138,2885103,,

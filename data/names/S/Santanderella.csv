@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9ee3d78-8fd1-11eb-924d-9cd76263cbd0,genus,Santanderella,,,P.Ortiz,2011,"Orquideología 27(2): 169. 2011.",,,,,,wfo-4000033962,7881268,
-7564036a-8fcd-11eb-924d-9cd76263cbd0,species,amadorinconiana,Santanderella,,P.Ortiz,2010,"Orquideologia 27: 170 2010 publ. 2011",,,,,,wfo-0000921379,8378213,
-61cafcce-8fcc-11eb-924d-9cd76263cbd0,species,madurensis,Santapaua,,"N.P.Balakr. & Subram.",1964,"J. Indian Bot. Soc. 42: 411 1964",,,,,54921-1,wfo-0000433599,3778385,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9ee3d78-8fd1-11eb-924d-9cd76263cbd0,genus,Santanderella,,,P.Ortiz,,2011,,"Orquideología 27(2): 169. 2011.",,,,,,,wfo-4000033962,7881268,,
+7564036a-8fcd-11eb-924d-9cd76263cbd0,species,amadorinconiana,Santanderella,,P.Ortiz,,2010,,"Orquideologia 27: 170 2010 publ. 2011",,,,,,,wfo-0000921379,8378213,,
+61cafcce-8fcc-11eb-924d-9cd76263cbd0,species,madurensis,Santapaua,,"N.P.Balakr. & Subram.",,1964,,"J. Indian Bot. Soc. 42: 411 1964",,,,,,54921-1,wfo-0000433599,3778385,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9b936f0-8fd1-11eb-924d-9cd76263cbd0,genus,Rigodiadelphus,,,Dixon,1936,"J. Bot. 74: 3. f. 3. 1936.",,,,,,wfo-4000033283,2681268,
-f1a3988c-8fcd-11eb-924d-9cd76263cbd0,species,arcuatus,Rigodiadelphus,,"(Nog.) Nog.",1973,"Misc. Bryol. Lichenol. 6: 95 1973",,,,,,wfo-0001187038,2681269,
-eba48270-8fcd-11eb-924d-9cd76263cbd0,species,octoblepharis,Rigodiadelphus,,Dixon,1936,"J. Bot. 1936: 3 1936",,,,,,wfo-0001174871,8203753,
-f1a3b470-8fcd-11eb-924d-9cd76263cbd0,species,robustus,Rigodiadelphus,,"(Lindb.) Nog.",1973,"Misc. Bryol. Lichenol. 6: 95 1973",,,,,,wfo-0001187039,2681270,
-eba49eea-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Rigodiopsis,,"Dixon & Thér.",1933,"Rev. Bryol. Lichénol. 4: 155 1933",,,,,,wfo-0001174872,8060921,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9b936f0-8fd1-11eb-924d-9cd76263cbd0,genus,Rigodiadelphus,,,Dixon,,1936,,"J. Bot. 74: 3. f. 3. 1936.",,,,,,,wfo-4000033283,2681268,,
+f1a3988c-8fcd-11eb-924d-9cd76263cbd0,species,arcuatus,Rigodiadelphus,,"(Nog.) Nog.",,1973,,"Misc. Bryol. Lichenol. 6: 95 1973",,,,,,,wfo-0001187038,2681269,,
+eba48270-8fcd-11eb-924d-9cd76263cbd0,species,octoblepharis,Rigodiadelphus,,Dixon,,1936,,"J. Bot. 1936: 3 1936",,,,,,,wfo-0001174871,8203753,,
+f1a3b470-8fcd-11eb-924d-9cd76263cbd0,species,robustus,Rigodiadelphus,,"(Lindb.) Nog.",,1973,,"Misc. Bryol. Lichenol. 6: 95 1973",,,,,,,wfo-0001187039,2681270,,
+eba49eea-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Rigodiopsis,,"Dixon & Thér.",,1933,,"Rev. Bryol. Lichénol. 4: 155 1933",,,,,,,wfo-0001174872,8060921,,

@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5a08ef6-8fd1-11eb-924d-9cd76263cbd0,genus,Lawiella,,,Koidz.,1928,"Fl. Satsum. 1: 21. 1928.",,,,,,wfo-4000020786,7296064,
-686f9486-8fcc-11eb-924d-9cd76263cbd0,species,austrosatsumensis,Lawiella,,Koidz.,1931,"Fl. Satsum. 2: 101 1931",,,,,688308-1,wfo-0000444001,4072788,
-686e4338-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Lawiella,,H.C.Chao,1948,"Contr. Inst. Bot. Natl. Acad. Peiping 6: 9 1948 publ. 1949",,,,,928307-1,wfo-0000443990,4072780,
-686e2574-8fcc-11eb-924d-9cd76263cbd0,species,doiana,Lawiella,,Koidz.,1927,"Fl. Satsum. 1: 22 1927",,,,,688309-1,wfo-0000443989,4072768,
-686e0882-8fcc-11eb-924d-9cd76263cbd0,species,fukienensis,Lawiella,,H.C.Chao,1948,"Contr. Inst. Bot. Natl. Acad. Peiping 6: 6 1948 publ. 1949",,,,,928306-1,wfo-0000443988,4072760,
-686de708-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Lawiella,,Koidz.,1928,"J. Jap. Bot. 5: 1 1928",,,,,688311-1,wfo-0000443987,4072751,
-686db8aa-8fcc-11eb-924d-9cd76263cbd0,species,kiusiana,Lawiella,,Koidz.,1930,"Fl. Symb. Orient.-Asiat. 96 1930",,,,,688312-1,wfo-0000443986,4072742,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5a08ef6-8fd1-11eb-924d-9cd76263cbd0,genus,Lawiella,,,Koidz.,,1928,,"Fl. Satsum. 1: 21. 1928.",,,,,,,wfo-4000020786,7296064,,
+686f9486-8fcc-11eb-924d-9cd76263cbd0,species,austrosatsumensis,Lawiella,,Koidz.,,1931,,"Fl. Satsum. 2: 101 1931",,,,,,688308-1,wfo-0000444001,4072788,,
+686e4338-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Lawiella,,H.C.Chao,,1948,,"Contr. Inst. Bot. Natl. Acad. Peiping 6: 9 1948 publ. 1949",,,,,,928307-1,wfo-0000443990,4072780,,
+686e2574-8fcc-11eb-924d-9cd76263cbd0,species,doiana,Lawiella,,Koidz.,,1927,,"Fl. Satsum. 1: 22 1927",,,,,,688309-1,wfo-0000443989,4072768,,
+686e0882-8fcc-11eb-924d-9cd76263cbd0,species,fukienensis,Lawiella,,H.C.Chao,,1948,,"Contr. Inst. Bot. Natl. Acad. Peiping 6: 6 1948 publ. 1949",,,,,,928306-1,wfo-0000443988,4072760,,
+686de708-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Lawiella,,Koidz.,,1928,,"J. Jap. Bot. 5: 1 1928",,Q104821254,,,,688311-1,wfo-0000443987,4072751,,
+686db8aa-8fcc-11eb-924d-9cd76263cbd0,species,kiusiana,Lawiella,,Koidz.,,1930,,"Fl. Symb. Orient.-Asiat. 96 1930",,,,,,688312-1,wfo-0000443986,4072742,,

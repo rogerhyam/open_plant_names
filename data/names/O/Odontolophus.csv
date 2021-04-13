@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7797b70-8fd1-11eb-924d-9cd76263cbd0,genus,Odontolophus,,,,,,,,,,,wfo-4000026593,3125762,
-e9132f22-8fb2-11eb-924d-9cd76263cbd0,species,cyanoides,Odontolophus,,Cass.,1827,1827,,,,,,wfo-0000037250,5401464,
-3161138a-8fb2-11eb-924d-9cd76263cbd0,species,kobstanicus,Odontolophus,,"(Tzvelev) Soják",1962,"Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 47 (1962).",,,,,234645-1,wfo-0000015331,5692354,
-98d2664a-8fb2-11eb-924d-9cd76263cbd0,species,trinervins,Odontolophus,,"(Steph.) Dobrocz.",,,,,,,,wfo-0000029253,5399108,
-d8ef39fe-8fb9-11eb-924d-9cd76263cbd0,species,trinervius,Odontolophus,,"(Steph. ex Willd.) Dobrocz.",1965,1965,,,,,,wfo-0000121886,5401465,
-a9362b4a-8fb5-11eb-924d-9cd76263cbd0,species,trinervius,Odontolophus,,"(Steph. ex Willd.) Dostál",1973,"Acta Bot. Acad. Sci. Hung. 19(1-4): 78 1973",,,,,,wfo-0000080677,8231068,
-ce9ab5e6-8fcd-11eb-924d-9cd76263cbd0,species,hostmannianum,Odontomanes,,"(Klotzsch) C.Presl",1851,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 381 1851",,,,ce9a9930-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001112315,3607238,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7797b70-8fd1-11eb-924d-9cd76263cbd0,genus,Odontolophus,,,,,,,,,,,,,,wfo-4000026593,3125762,,
+e9132f22-8fb2-11eb-924d-9cd76263cbd0,species,cyanoides,Odontolophus,,Cass.,,1827,,1827,,,,,,,wfo-0000037250,5401464,,
+3161138a-8fb2-11eb-924d-9cd76263cbd0,species,kobstanicus,Odontolophus,,"(Tzvelev) Soják",,1962,,"Novit. Bot. & Del. Sem. Hort. Bot. Univ. Carol. Prag. 1962, 47 (1962).",,,,,,234645-1,wfo-0000015331,5692354,,
+98d2664a-8fb2-11eb-924d-9cd76263cbd0,species,trinervins,Odontolophus,,"(Steph.) Dobrocz.",,,,,,,,,,,wfo-0000029253,5399108,,
+d8ef39fe-8fb9-11eb-924d-9cd76263cbd0,species,trinervius,Odontolophus,,"(Steph. ex Willd.) Dobrocz.",,1965,,1965,,,,,,,wfo-0000121886,5401465,,
+a9362b4a-8fb5-11eb-924d-9cd76263cbd0,species,trinervius,Odontolophus,,"(Steph. ex Willd.) Dostál",,1973,,"Acta Bot. Acad. Sci. Hung. 19(1-4): 78 1973",,,,,,,wfo-0000080677,8231068,,
+ce9ab5e6-8fcd-11eb-924d-9cd76263cbd0,species,hostmannianum,Odontomanes,,"(Klotzsch) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 381 1851",,,,ce9a9930-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001112315,3607238,,

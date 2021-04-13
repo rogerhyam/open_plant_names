@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb1b828c-8fd1-11eb-924d-9cd76263cbd0,genus,Tapiscia,,,Oliv.,1928,"Hooker's Icon. Pl. , pl. 1928. 1890.",,,,,36598-1,wfo-4000037570,7326542,
-cc4a8ac4-8fd1-11eb-924d-9cd76263cbd0,species,lichunensis,Tapiscia,,"W.C.Cheng & C.D.Chu",1963,"Res. Mem. Forest. Dept. Nanjing Forest. Coll 1 1963",,,,,,wfo-0001276793,7613632,
-b6ca6c6e-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Tapiscia,,Oliv.,1928,"Hooker's Icon. Pl. 20: , pl. 1928 1890",,,,,,wfo-0001237010,7326543,
-cc4a3240-8fd1-11eb-924d-9cd76263cbd0,variety,concolor,Tapiscia,sinensis,W.C.Cheng,1949,"Science & Technology in China 2: ? 1949",,,,,,wfo-0001276790,7812208,
-cc4a4f64-8fd1-11eb-924d-9cd76263cbd0,variety,macrocarpa,Tapiscia,sinensis,T.Z.Hsu,1981,"Fl. Reipubl. Popularis Sin. 46: 18, Addenda 1981",,,,,,wfo-0001276791,3686300,
-cc4a6f6c-8fd1-11eb-924d-9cd76263cbd0,species,yunnanensis,Tapiscia,,"W.C.Cheng & C.D.Chu",1963,"Res. Mem. Forest. Dept. Nanjing Forest. Coll 1 1963",,,,,,wfo-0001276792,7886372,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb1b828c-8fd1-11eb-924d-9cd76263cbd0,genus,Tapiscia,,,Oliv.,,1928,,"Hooker's Icon. Pl. , pl. 1928. 1890.",,,,,,36598-1,wfo-4000037570,7326542,,
+cc4a8ac4-8fd1-11eb-924d-9cd76263cbd0,species,lichunensis,Tapiscia,,"W.C.Cheng & C.D.Chu",,1963,,"Res. Mem. Forest. Dept. Nanjing Forest. Coll 1 1963",,,,,,,wfo-0001276793,7613632,,
+b6ca6c6e-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Tapiscia,,Oliv.,,1928,,"Hooker's Icon. Pl. 20: , pl. 1928 1890",,,,,,,wfo-0001237010,7326543,,
+cc4a3240-8fd1-11eb-924d-9cd76263cbd0,variety,concolor,Tapiscia,sinensis,W.C.Cheng,,1949,,"Science & Technology in China 2: ? 1949",,,,,,,wfo-0001276790,7812208,,
+cc4a4f64-8fd1-11eb-924d-9cd76263cbd0,variety,macrocarpa,Tapiscia,sinensis,T.Z.Hsu,,1981,,"Fl. Reipubl. Popularis Sin. 46: 18, Addenda 1981",,,,,,,wfo-0001276791,3686300,,
+cc4a6f6c-8fd1-11eb-924d-9cd76263cbd0,species,yunnanensis,Tapiscia,,"W.C.Cheng & C.D.Chu",,1963,,"Res. Mem. Forest. Dept. Nanjing Forest. Coll 1 1963",,,,,,,wfo-0001276792,7886372,,

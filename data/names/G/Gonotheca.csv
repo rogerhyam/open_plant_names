@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e422e52e-8fd1-11eb-924d-9cd76263cbd0,genus,Gonotheca,,,,,,,,,,,wfo-4000016039,,
-8ef327ac-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Gonotheca,,"(L.) Masam.",1955,"Sci. Rep. Kanazawa Univ., Biol. 4: 78 1955",,,,,751505-1,wfo-0000974487,5339987,
-8ef34322-8fcd-11eb-924d-9cd76263cbd0,species,blumei,Gonotheca,,DC.,1830,"Prodr. 4: 429 1830",,,,,751506-1,wfo-0000974488,5339977,
-076600e4-8fb3-11eb-924d-9cd76263cbd0,species,helianthoides,Gonotheca,,Rzfin.,1808,"in Med. Repos. N. York, v. (1808) 352. v.  352 1808",,,,,210416-1,wfo-0000040004,7666753,
-9ea9cf14-8fb6-11eb-924d-9cd76263cbd0,species,helianthoides,Gonotheca,,"(L.) Raf.",,,,,,,,wfo-0000091378,5405848,
-8ef35fba-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Gonotheca,,"(Cav.) Santapau & Wagh",1964,"Bull. Bot. Surv. India 5: 107 1964",,,,,751507-1,wfo-0000974489,5339982,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e422e52e-8fd1-11eb-924d-9cd76263cbd0,genus,Gonotheca,,,,,,,,,,,,,,wfo-4000016039,,,
+8ef327ac-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Gonotheca,,"(L.) Masam.",,1955,,"Sci. Rep. Kanazawa Univ., Biol. 4: 78 1955",,,,,,751505-1,wfo-0000974487,5339987,,
+8ef34322-8fcd-11eb-924d-9cd76263cbd0,species,blumei,Gonotheca,,DC.,,1830,,"Prodr. 4: 429 1830",,,,,,751506-1,wfo-0000974488,5339977,,
+076600e4-8fb3-11eb-924d-9cd76263cbd0,species,helianthoides,Gonotheca,,Rzfin.,,1808,,"in Med. Repos. N. York, v. (1808) 352. v.  352 1808",,,,,,210416-1,wfo-0000040004,7666753,,
+9ea9cf14-8fb6-11eb-924d-9cd76263cbd0,species,helianthoides,Gonotheca,,"(L.) Raf.",,,,,,,,,,,wfo-0000091378,5405848,,
+8ef35fba-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolia,Gonotheca,,"(Cav.) Santapau & Wagh",,1964,,"Bull. Bot. Surv. India 5: 107 1964",,Q101080991,,,,751507-1,wfo-0000974489,5339982,,

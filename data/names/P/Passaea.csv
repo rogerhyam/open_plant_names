@@ -1,9 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e80c6e1c-8fd1-11eb-924d-9cd76263cbd0,genus,Passaea,,,,,,,,,,,wfo-4000028289,,
-1f913a74-8fc4-11eb-924d-9cd76263cbd0,species,ornithopodioides,Passaea,,"(L.) Adans.",,,,,,,,wfo-0000186486,5360143,
-750409ca-8fcc-11eb-924d-9cd76263cbd0,species,ornithopoides,Passaea,,Scop.,1777,"Intr. Hist. Nat. 310 1777",,,,,512547-1,wfo-0000465720,5626668,
-f0449f88-8fcb-11eb-924d-9cd76263cbd0,species,spartioides,Passaea,,Baill.,1858,"Étude Euphorb. 508 1858",,,,,353238-1,wfo-0000264999,5378280,
-f044ba4a-8fcb-11eb-924d-9cd76263cbd0,species,lanceolata,Passaveria,,"Mart. & Eichler ex Miq.",1863,"Fl. Bras. 7: 85 1863",,,,,,wfo-0000265000,2887359,
-f044d4ee-8fcb-11eb-924d-9cd76263cbd0,species,lancifolia,Passaveria,,"Mart. & Eichler ex Miq.",1863,"Fl. Bras. 7: 85 1863",,,,,,wfo-0000265001,2887375,
-f04532a4-8fcb-11eb-924d-9cd76263cbd0,species,obovata,Passaveria,,"Mart. & Eichler ex Miq.",1863,"Fl. Bras. 7: 85 1863",,,,,,wfo-0000265002,2887368,
-32487cd2-8fcd-11eb-924d-9cd76263cbd0,variety,tomentosa,Passaveria,obovata,Miq.,1863,"Fl. Bras. 7: 87 1863",,,,,184782-2,wfo-0000798781,2887364,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e80c6e1c-8fd1-11eb-924d-9cd76263cbd0,genus,Passaea,,,,,,,,,,,,,,wfo-4000028289,,,
+1f913a74-8fc4-11eb-924d-9cd76263cbd0,species,ornithopodioides,Passaea,,"(L.) Adans.",,,,,,,,,,,wfo-0000186486,5360143,,
+750409ca-8fcc-11eb-924d-9cd76263cbd0,species,ornithopoides,Passaea,,Scop.,,1777,,"Intr. Hist. Nat. 310 1777",,,,,,512547-1,wfo-0000465720,5626668,,
+f0449f88-8fcb-11eb-924d-9cd76263cbd0,species,spartioides,Passaea,,Baill.,,1858,,"Étude Euphorb. 508 1858",,,,,,353238-1,wfo-0000264999,5378280,,

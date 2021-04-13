@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2659a56-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphochlaena,,,Hack.,1901,"Oesterr. Bot. Z. 51: 465. 1901.",,,,,17839-1,wfo-4000010460,4133252,
-4f9db770-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Cyphochlaena,,Hack.,1901,"Oesterr. Bot. Z. 51: 465 1901",,,,,397242-1,wfo-0000861416,4133261,
-4f9dee48-8fcd-11eb-924d-9cd76263cbd0,species,sclerioides,Cyphochlaena,,"(A.Camus) Bosser",1965,"Adansonia n.s., 5: 413 1965",,,,4be1f0e2-8fcd-11eb-924d-9cd76263cbd0,397243-1,wfo-0000861418,4133251,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2659a56-8fd1-11eb-924d-9cd76263cbd0,genus,Cyphochlaena,,,Hack.,,1901,,"Oesterr. Bot. Z. 51: 465. 1901.",,Q101059607,,,,17839-1,wfo-4000010460,4133252,,
+4f9db770-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Cyphochlaena,,Hack.,,1901,,"Oesterr. Bot. Z. 51: 465 1901",,Q101059607,,,,397242-1,wfo-0000861416,4133261,,
+4f9dee48-8fcd-11eb-924d-9cd76263cbd0,species,sclerioides,Cyphochlaena,,"(A.Camus) Bosser",,1965,,"Adansonia n.s., 5: 413 1965",,Q58837728,,4be1f0e2-8fcd-11eb-924d-9cd76263cbd0,,397243-1,wfo-0000861418,4133251,,

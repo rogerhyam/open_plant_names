@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e479c2c2-8fd1-11eb-924d-9cd76263cbd0,genus,Hebecoccus,,,Radlk.,1878,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 247. 1878.",,,,,,wfo-4000017066,7264968,
-0a475546-8fcd-11eb-924d-9cd76263cbd0,species,falcatus,Hebecoccus,,Radlk.,1913,"Philipp. J. Sci., C 8: 453 1913 publ. 1914",,,,,783356-1,wfo-0000716488,3786523,
-0a4774ae-8fcd-11eb-924d-9cd76263cbd0,species,ferrugineus,Hebecoccus,,Radlk.,1878,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 309 1878",,,,,783357-1,wfo-0000716489,3786518,
-0a47d106-8fcd-11eb-924d-9cd76263cbd0,species,inaequalis,Hebecoccus,,Radlk.,1913,"Philipp. J. Sci., C 8: 453 1913 publ. 1914",,,,,783358-1,wfo-0000716491,3786509,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e479c2c2-8fd1-11eb-924d-9cd76263cbd0,genus,Hebecoccus,,,Radlk.,,1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 247. 1878.",,,,,,,wfo-4000017066,7264968,,
+0a475546-8fcd-11eb-924d-9cd76263cbd0,species,falcatus,Hebecoccus,,Radlk.,,1913,,"Philipp. J. Sci., C 8: 453 1913 publ. 1914",,,,,,783356-1,wfo-0000716488,3786523,,
+0a4774ae-8fcd-11eb-924d-9cd76263cbd0,species,ferrugineus,Hebecoccus,,Radlk.,,1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 309 1878",,,,,,783357-1,wfo-0000716489,3786518,,
+0a47d106-8fcd-11eb-924d-9cd76263cbd0,species,inaequalis,Hebecoccus,,Radlk.,,1913,,"Philipp. J. Sci., C 8: 453 1913 publ. 1914",,,,,,783358-1,wfo-0000716491,3786509,,

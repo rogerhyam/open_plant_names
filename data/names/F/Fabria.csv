@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3a77344-8fd1-11eb-924d-9cd76263cbd0,genus,Fabria,,,"E.Mey. ex Nees",1847,"Prodr. 11: 113. 1847.",,,,,,wfo-4000014512,7494935,
-f7e4b2d6-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Fabria,,Nees,1847,"Prodr. 11: 114 1847",,,,,48978-1,wfo-0000684569,5574549,
-f7e4cdd4-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Fabria,,Nees,1847,"Prodr. 11: 114 1847",,,,,48979-1,wfo-0000684570,5574546,
-f7e4eb34-8fcc-11eb-924d-9cd76263cbd0,species,rigida,Fabria,,E.Mey.,1844,"Zwei Pflanzengeogr. Dokum. 185 1844",,,,,48980-1,wfo-0000684571,5574543,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3a77344-8fd1-11eb-924d-9cd76263cbd0,genus,Fabria,,,"E.Mey. ex Nees",,1847,,"Prodr. 11: 113. 1847.",,,,,,,wfo-4000014512,7494935,,
+f7e4b2d6-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Fabria,,Nees,,1847,,"Prodr. 11: 114 1847",,,,,,48978-1,wfo-0000684569,5574549,,
+f7e4cdd4-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Fabria,,Nees,,1847,,"Prodr. 11: 114 1847",,,,,,48979-1,wfo-0000684570,5574546,,
+f7e4eb34-8fcc-11eb-924d-9cd76263cbd0,species,rigida,Fabria,,E.Mey.,,1844,,"Zwei Pflanzengeogr. Dokum. 185 1844",,,,,,48980-1,wfo-0000684571,5574543,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f95ca8-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenodontopsis,,,Herzog,1916,"Hedwigia 57: 235. 1916.",,,,,,wfo-4000018666,2676488,
-fecaa712-8fcd-11eb-924d-9cd76263cbd0,species,bifaria,Hymenodontopsis,,"(Hook.) N.E.Bell, A.E.Newton & D.Quandt",2007,"Bryologist 110: 555 2007",,,,,,wfo-0001214314,8326060,
-fecac634-8fcd-11eb-924d-9cd76263cbd0,species,mnioides,Hymenodontopsis,,"(Hook.) N.E.Bell, A.E.Newton & D.Quandt",2007,"Bryologist 110: 555 2007",,,,e34bef0a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001214315,7497651,
-f0599c7e-8fcd-11eb-924d-9cd76263cbd0,species,rhizogonioides,Hymenodontopsis,,Dixon,1922,"J. Linn. Soc., Bot. 45: 480. 28 f. 2 1922",,,,,,wfo-0001184398,8006715,
-f059b6d2-8fcd-11eb-924d-9cd76263cbd0,species,stresemannii,Hymenodontopsis,,Herzog,1916,"Hedwigia 57: 235 1916",,,,,,wfo-0001184399,2676489,
-fecae0a6-8fcd-11eb-924d-9cd76263cbd0,species,vallis-gratiae,Hymenodontopsis,,"(Hampe ex Müll.Hal.) N.E.Bell, A.E.Newton & D.Quandt",2007,"Bryologist 110: 555 2007",,,,,,wfo-0001214316,8002449,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f95ca8-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenodontopsis,,,Herzog,,1916,,"Hedwigia 57: 235. 1916.",,,,,,,wfo-4000018666,2676488,,
+fecaa712-8fcd-11eb-924d-9cd76263cbd0,species,bifaria,Hymenodontopsis,,"(Hook.) N.E.Bell, A.E.Newton & D.Quandt",,2007,,"Bryologist 110: 555 2007",,,,,,,wfo-0001214314,8326060,,
+fecac634-8fcd-11eb-924d-9cd76263cbd0,species,mnioides,Hymenodontopsis,,"(Hook.) N.E.Bell, A.E.Newton & D.Quandt",,2007,,"Bryologist 110: 555 2007",,,,e34bef0a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001214315,7497651,,
+f0599c7e-8fcd-11eb-924d-9cd76263cbd0,species,rhizogonioides,Hymenodontopsis,,Dixon,,1922,,"J. Linn. Soc., Bot. 45: 480. 28 f. 2 1922",,,,,,,wfo-0001184398,8006715,,
+f059b6d2-8fcd-11eb-924d-9cd76263cbd0,species,stresemannii,Hymenodontopsis,,Herzog,,1916,,"Hedwigia 57: 235 1916",,,,,,,wfo-0001184399,2676489,,
+fecae0a6-8fcd-11eb-924d-9cd76263cbd0,species,vallis-gratiae,Hymenodontopsis,,"(Hampe ex Müll.Hal.) N.E.Bell, A.E.Newton & D.Quandt",,2007,,"Bryologist 110: 555 2007",,,,,,,wfo-0001214316,8002449,,

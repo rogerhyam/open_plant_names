@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e69efe50-8fd1-11eb-924d-9cd76263cbd0,genus,Metasequoia,,,"Hu & W.C.Cheng",1948,"Bull. Fan Mem. Inst. Biol., n.s. 1: 154. 1948. (15 May 1948)",,,,,331123-2,wfo-4000023916,8307747,
-dc5e1bdc-8fcd-11eb-924d-9cd76263cbd0,species,disticha,Metasequoia,,"(Heer) Miki",1941,"Jap. J. Bot. 11: 261 1941",,,,dc5e34c8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001142115,5534777,
-6cfe04a6-8fcc-11eb-924d-9cd76263cbd0,species,glyptostroboides,Metasequoia,,"Hu & W.C.Cheng",1948,"Bull. Fan Mem. Inst. Biol. n.s., 1: 154 1948",,,,,828387-1,wfo-0000452120,5284231,
-75bf6ec6-8fcd-11eb-924d-9cd76263cbd0,subspecies,caespitosa,Metasequoia,glyptostroboides,"(Y.H.Long & Y.Wu) Silba",2010,"J. Int. Conifer Preserv. Soc. 17: 25 2010",,,,6cfe8944-8fcc-11eb-924d-9cd76263cbd0,77109828-1,wfo-0000921931,5284232,
-6cfe8944-8fcc-11eb-924d-9cd76263cbd0,variety,caespitosa,Metasequoia,glyptostroboides,"Y.H.Long & Y.Wu",1984,"Bull. Bot. Res., Harbin 4(1): 149 1984",,,,,918530-1,wfo-0000452123,5284232,
-75bc065a-8fcd-11eb-924d-9cd76263cbd0,subspecies,neopangaea,Metasequoia,glyptostroboides,"(Silba) Silba",2010,"J. Int. Conifer Preserv. Soc. 17: 25 2010",,,,,77109829-1,wfo-0000921907,7815243,
-6cfde192-8fcc-11eb-924d-9cd76263cbd0,species,honshuenensis,Metasequoia,,"Silba & Callahan",2000,"J. Int. Conifer Preserv. Soc. 7: 2 2000",,,,,1012940-1,wfo-0000452118,5534774,
-6cfdad94-8fcc-11eb-924d-9cd76263cbd0,species,neopangaea,Metasequoia,,Silba,2002,"J. Int. Conifer Preserv. Soc. 9: 9 2002",,,,,20003995-1,wfo-0000452117,5284234,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e69efe50-8fd1-11eb-924d-9cd76263cbd0,genus,Metasequoia,,,"Hu & W.C.Cheng",,1948,,"Bull. Fan Mem. Inst. Biol., n.s. 1: 154. 1948. (15 May 1948)",,,,,,331123-2,wfo-4000023916,8307747,,
+dc5e1bdc-8fcd-11eb-924d-9cd76263cbd0,species,disticha,Metasequoia,,"(Heer) Miki",,1941,,"Jap. J. Bot. 11: 261 1941",,,,dc5e34c8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001142115,5534777,,
+6cfe04a6-8fcc-11eb-924d-9cd76263cbd0,species,glyptostroboides,Metasequoia,,"Hu & W.C.Cheng",,1948,,"Bull. Fan Mem. Inst. Biol. n.s., 1: 154 1948",,,,,,828387-1,wfo-0000452120,5284231,,
+75bf6ec6-8fcd-11eb-924d-9cd76263cbd0,subspecies,caespitosa,Metasequoia,glyptostroboides,"(Y.H.Long & Y.Wu) Silba",,2010,,"J. Int. Conifer Preserv. Soc. 17: 25 2010",,,,6cfe8944-8fcc-11eb-924d-9cd76263cbd0,,77109828-1,wfo-0000921931,5284232,,
+6cfe8944-8fcc-11eb-924d-9cd76263cbd0,variety,caespitosa,Metasequoia,glyptostroboides,"Y.H.Long & Y.Wu",,1984,,"Bull. Bot. Res., Harbin 4(1): 149 1984",,Q96108508,,,,918530-1,wfo-0000452123,5284232,,
+75bc065a-8fcd-11eb-924d-9cd76263cbd0,subspecies,neopangaea,Metasequoia,glyptostroboides,"(Silba) Silba",,2010,,"J. Int. Conifer Preserv. Soc. 17: 25 2010",,,,,,77109829-1,wfo-0000921907,7815243,,
+6cfde192-8fcc-11eb-924d-9cd76263cbd0,species,honshuenensis,Metasequoia,,"Silba & Callahan",,2000,,"J. Int. Conifer Preserv. Soc. 7: 2 2000",,,,,,1012940-1,wfo-0000452118,5534774,,
+6cfdad94-8fcc-11eb-924d-9cd76263cbd0,species,neopangaea,Metasequoia,,Silba,,2002,,"J. Int. Conifer Preserv. Soc. 9: 9 2002",,,,,,20003995-1,wfo-0000452117,5284234,,

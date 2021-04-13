@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb7fe6b4-8fd1-11eb-924d-9cd76263cbd0,genus,Trianoptiles,,,"Fenzl ex Endl.",1836,"Gen. Pl. 113. 1836. (Dec 1836)",,,,,14071-1,wfo-4000038866,7387738,
-c1043354-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Trianoptiles,,"(Steud.) Harv.",1868,"Gen. S. Afr. Pl. ed. 2: 422 1868",,,,,315410-1,wfo-0000590862,2708014,
-c10496aa-8fcc-11eb-924d-9cd76263cbd0,species,solitaria,Trianoptiles,,"(C.B.Clarke) Levyns",1943,"J. S. African Bot. 9: 26 1943",,,,48ec2688-8fcc-11eb-924d-9cd76263cbd0,315411-1,wfo-0000590865,2708017,
-c106b994-8fcc-11eb-924d-9cd76263cbd0,species,stipitata,Trianoptiles,,Levyns,1943,"J. S. African Bot. 9: 25 1943",,,,,315412-1,wfo-0000590875,2708013,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb7fe6b4-8fd1-11eb-924d-9cd76263cbd0,genus,Trianoptiles,,,"Fenzl ex Endl.",,1836,,"Gen. Pl. 113. 1836. (Dec 1836)",,,,,,14071-1,wfo-4000038866,7387738,,
+c1043354-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Trianoptiles,,"(Steud.) Harv.",,1868,,"Gen. S. Afr. Pl. ed. 2: 422 1868",,,,,,315410-1,wfo-0000590862,2708014,,
+c10496aa-8fcc-11eb-924d-9cd76263cbd0,species,solitaria,Trianoptiles,,"(C.B.Clarke) Levyns",,1943,,"J. S. African Bot. 9: 26 1943",,,,48ec2688-8fcc-11eb-924d-9cd76263cbd0,,315411-1,wfo-0000590865,2708017,,
+c106b994-8fcc-11eb-924d-9cd76263cbd0,species,stipitata,Trianoptiles,,Levyns,,1943,,"J. S. African Bot. 9: 25 1943",,,,,,315412-1,wfo-0000590875,2708013,,

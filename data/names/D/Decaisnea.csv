@@ -1,7 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e285ebee-8fd1-11eb-924d-9cd76263cbd0,genus,Decaisnea,,,"Hook.f. & Thomson",1855,"Proc. Linn. Soc. Lond. 2: 350. 1855.",,,,,331545-2,wfo-4000010908,,
-7e1ca7be-8fcd-11eb-924d-9cd76263cbd0,species,angulosa,Decaisnea,,"Lindl. ex Wall.",,"Numer. List 7388 1832",,,,,,wfo-0000937965,7637527,
-7e1cc55a-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Decaisnea,,Brongn.,1829,"Voy. Monde 192 1829",,,,,626709-1,wfo-0000937966,7367488,
-dd97168a-8fcc-11eb-924d-9cd76263cbd0,species,fargesii,Decaisnea,,Franch.,1892,"J. Bot. (Morot) 6: 233 1892",,,,,107239-1,wfo-0000638938,5686497,
-dd97305c-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Decaisnea,,"(Griff.) Hook.f. & Thomson",1854,"Proc. Linn. Soc. London 2: 350 1854",,,,,107240-1,wfo-0000638939,5686494,
-dd974eca-8fcc-11eb-924d-9cd76263cbd0,species,cumingiana,Decaisnella,,"(Decne.) Kuntze",1891,"Revis. Gen. Pl. 2: 581 1891",,,,,831489-1,wfo-0000638940,5524514,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e285ebee-8fd1-11eb-924d-9cd76263cbd0,genus,Decaisnea,,,"Hook.f. & Thomson",,1855,,"Proc. Linn. Soc. Lond. 2: 350. 1855.",,,,,,331545-2,wfo-4000010908,,,
+7e1ca7be-8fcd-11eb-924d-9cd76263cbd0,species,angulosa,Decaisnea,,"Lindl. ex Wall.",,,,"Numer. List 7388 1832",,,,,,,wfo-0000937965,7637527,,
+7e1cc55a-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Decaisnea,,Brongn.,,1829,,"Voy. Monde 192 1829",,,,,,626709-1,wfo-0000937966,7367488,,
+dd97168a-8fcc-11eb-924d-9cd76263cbd0,species,fargesii,Decaisnea,,Franch.,,1892,,"J. Bot. (Morot) 6: 233 1892",,,,,,107239-1,wfo-0000638938,5686497,,
+dd97305c-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Decaisnea,,"(Griff.) Hook.f. & Thomson",,1854,,"Proc. Linn. Soc. London 2: 350 1854",,,,,,107240-1,wfo-0000638939,5686494,,

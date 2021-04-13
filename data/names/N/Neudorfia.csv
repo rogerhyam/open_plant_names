@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7461988-8fd1-11eb-924d-9cd76263cbd0,genus,Neudorfia,,,Adans.,1763,"Kunth, Raf., Kunth, Raf., H. P.  ex Adans., and Adans., Fam. Pl. (Adanson) 2: 219. 1763, 1763.",,,,,,wfo-4000026008,7299800,
-a69e3cac-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Neudorfia,,Adans.,1763,"Kunth, Raf., Kunth, Raf., H. P.  ex Adans., and Adans., Fam. Pl. (Adanson) 2: 219. 1763, 1763.",,,,,,wfo-0001023621,3800773,
-e7d32ce8-8fcb-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Neuhofia,,Stokes,1812,"Bot. Mat. Med. 1: 439 1812",,,,,600426-1,wfo-0000251778,3187804,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7461988-8fd1-11eb-924d-9cd76263cbd0,genus,Neudorfia,,,Adans.,,1763,,"Kunth, Raf., Kunth, Raf., H. P.  ex Adans., and Adans., Fam. Pl. (Adanson) 2: 219. 1763, 1763.",,,,,,,wfo-4000026008,7299800,,
+a69e3cac-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Neudorfia,,Adans.,,1763,,"Kunth, Raf., Kunth, Raf., H. P.  ex Adans., and Adans., Fam. Pl. (Adanson) 2: 219. 1763, 1763.",,,,,,,wfo-0001023621,3800773,,
+e7d32ce8-8fcb-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Neuhofia,,Stokes,,1812,,"Bot. Mat. Med. 1: 439 1812",,,,,,600426-1,wfo-0000251778,3187804,,

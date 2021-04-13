@@ -1,3 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e81e3ff2-8fd1-11eb-924d-9cd76263cbd0,genus,Peltidium,,,,,,,,,,,wfo-4000028499,3104124,
-598dd526-8fb9-11eb-924d-9cd76263cbd0,species,apargioides,Peltidium,,Zollikof,1820,"in Nat. Anz. Schw. Ges. iv. (1820) 13. iv.  13 1820",,,,,,wfo-0000117613,5391201,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e81e3ff2-8fd1-11eb-924d-9cd76263cbd0,genus,Peltidium,,,Kalchbr.,,1862,,"Hedwigia 2: 58 (1862)",,,,e81e3ff2-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000028499,3104124,3793," "
+598dd526-8fb9-11eb-924d-9cd76263cbd0,species,apargioides,Peltidium,,Zollikof,,1820,,"in Nat. Anz. Schw. Ges. iv. (1820) 13. iv.  13 1820",,,,,,,wfo-0000117613,5391201,,
+053bd112-9bad-11eb-a8a2-19ed5c03f8d3,species,oocardii,Peltidium,,Kalchbr.,,1862,,"Hedwigia 2: (1862)",,,,053bd112-9bad-11eb-a8a2-19ed5c03f8d3,,,,,147703," "
+5fe5a1f2-9bac-11eb-a8a2-19ed5c03f8d3,species,tremellosum,Peltidium,,Hazsl.,,,,,,,,5fe5a1f2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,146969," "

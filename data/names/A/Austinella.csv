@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff321da-8fd1-11eb-924d-9cd76263cbd0,genus,Austinella,,,R.S.Williams,1911,"Bryologist 14: 70. 1911.",,,,,,wfo-4000003703,3230055,
-f45fdb08-8fcd-11eb-924d-9cd76263cbd0,species,rauei,Austinella,,"(Austin) R.S.Williams",1911,"Bryologist 14: 70. 1–4 1911",,,,,,wfo-0001192504,7850061,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff321da-8fd1-11eb-924d-9cd76263cbd0,genus,Austinella,,,R.S.Williams,,1911,,"Bryologist 14: 70. 1911.",,,,,,,wfo-4000003703,3230055,,
+f45fdb08-8fcd-11eb-924d-9cd76263cbd0,species,rauei,Austinella,,"(Austin) R.S.Williams",,1911,,"Bryologist 14: 70. 1–4 1911",,,,,,,wfo-0001192504,7850061,,

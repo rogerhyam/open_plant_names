@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3f76214-8fd1-11eb-924d-9cd76263cbd0,genus,Geochloa,,,"H.P.Linder & N.P.Barker",2010,"Ann. Missouri Bot. Gard. 97(3): 323–324. 2010. (10 Oct 2010)",,,,,77111489-1,wfo-4000015524,4932126,
-7507da36-8fcd-11eb-924d-9cd76263cbd0,species,decora,Geochloa,,"(Nees) N.P.Barker & H.P.Linder",2010,"Ann. Missouri Bot. Gard. 97: 324 2010",,,,4fd3ea3e-8fcd-11eb-924d-9cd76263cbd0,77111490-1,wfo-0000920791,6068451,
-7507b8ee-8fcd-11eb-924d-9cd76263cbd0,species,lupulina,Geochloa,,"(L.f.) N.P.Barker & H.P.Linder",2010,"Ann. Missouri Bot. Gard. 97: 324 2010",,,,4b1f3aac-8fcd-11eb-924d-9cd76263cbd0,77111491-1,wfo-0000920790,6068450,
-750794ae-8fcd-11eb-924d-9cd76263cbd0,species,rufa,Geochloa,,"(Nees) N.P.Barker & H.P.Linder",2010,"Ann. Missouri Bot. Gard. 97: 324 2010",,,,,77111492-1,wfo-0000920789,6068449,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3f76214-8fd1-11eb-924d-9cd76263cbd0,genus,Geochloa,,,"H.P.Linder & N.P.Barker",,2010,,"Ann. Missouri Bot. Gard. 97(3): 323–324. 2010. (10 Oct 2010)",,Q54552837,,,,77111489-1,wfo-4000015524,4932126,,
+7507da36-8fcd-11eb-924d-9cd76263cbd0,species,decora,Geochloa,,"(Nees) N.P.Barker & H.P.Linder",,2010,,"Ann. Missouri Bot. Gard. 97: 324 2010",,Q54552837,,4fd3ea3e-8fcd-11eb-924d-9cd76263cbd0,,77111490-1,wfo-0000920791,6068451,,
+7507b8ee-8fcd-11eb-924d-9cd76263cbd0,species,lupulina,Geochloa,,"(L.f.) N.P.Barker & H.P.Linder",,2010,,"Ann. Missouri Bot. Gard. 97: 324 2010",,Q54552837,,4b1f3aac-8fcd-11eb-924d-9cd76263cbd0,,77111491-1,wfo-0000920790,6068450,,
+750794ae-8fcd-11eb-924d-9cd76263cbd0,species,rufa,Geochloa,,"(Nees) N.P.Barker & H.P.Linder",,2010,,"Ann. Missouri Bot. Gard. 97: 324 2010",,Q54552837,,,,77111492-1,wfo-0000920789,6068449,,

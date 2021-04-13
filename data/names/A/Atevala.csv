@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfe4e836-8fd1-11eb-924d-9cd76263cbd0,genus,Atevala,,,,,,,,,,,wfo-4000003535,7295949,
-dddcace0-8fcc-11eb-924d-9cd76263cbd0,species,imbricata,Atevala,,Raf.,1840,"Autik. Bot. 136 1840",,,,,,wfo-0000639416,4071992,
-ddddf212-8fcc-11eb-924d-9cd76263cbd0,species,remotiflora,Atevala,,Raf.,1840,"Autik. Bot. 136 1840",,,,,531683-1,wfo-0000639427,4071989,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfe4e836-8fd1-11eb-924d-9cd76263cbd0,genus,Atevala,,,,,,,,,,,,,,wfo-4000003535,7295949,,
+dddcace0-8fcc-11eb-924d-9cd76263cbd0,species,imbricata,Atevala,,Raf.,,1840,,"Autik. Bot. 136 1840",,,,,,,wfo-0000639416,4071992,,
+ddddf212-8fcc-11eb-924d-9cd76263cbd0,species,remotiflora,Atevala,,Raf.,,1840,,"Autik. Bot. 136 1840",,,,,,531683-1,wfo-0000639427,4071989,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7ef990-8fd1-11eb-924d-9cd76263cbd0,genus,Anomianthus,,,Zoll.,1858,"Linnaea 29: 324. 1858.",,,,,1967-1,wfo-4000002288,3156536,
-9fde3ef4-8fcc-11eb-924d-9cd76263cbd0,species,argenteus,Anomianthus,,"(Blume) Backer",1911,"Schoolfl. Java 23 1911",,,,,72138-1,wfo-0000538193,3156919,
-9fde5916-8fcc-11eb-924d-9cd76263cbd0,species,auritus,Anomianthus,,"(Blume) Backer",1911,"Schoolfl. Java 23 1911",,,,,72140-1,wfo-0000538194,3156544,
-b9db48e6-8fcd-11eb-924d-9cd76263cbd0,species,dulcis,Anomianthus,,"(Dunal) James Sinclair",,,,,,b9db2c58-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001066094,3156537,
-9fde737e-8fcc-11eb-924d-9cd76263cbd0,species,dulcis,Anomianthus,,"(Dunal) J.Sinclair",1953,"Gard. Bull. Singapore 14: 40 1953",,,,b9db2c58-8fcd-11eb-924d-9cd76263cbd0,72141-1,wfo-0000538195,3156537,
-9fde9200-8fcc-11eb-924d-9cd76263cbd0,species,heterocarpus,Anomianthus,,Zoll.,1858,"Linnaea 29: 324 1858",,,,,72142-1,wfo-0000538196,3156540,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7ef990-8fd1-11eb-924d-9cd76263cbd0,genus,Anomianthus,,,Zoll.,,1858,,"Linnaea 29: 324. 1858.",,,,,,1967-1,wfo-4000002288,3156536,,
+9fde3ef4-8fcc-11eb-924d-9cd76263cbd0,species,argenteus,Anomianthus,,"(Blume) Backer",,1911,,"Schoolfl. Java 23 1911",,,,,,72138-1,wfo-0000538193,3156919,,
+9fde5916-8fcc-11eb-924d-9cd76263cbd0,species,auritus,Anomianthus,,"(Blume) Backer",,1911,,"Schoolfl. Java 23 1911",,,,,,72140-1,wfo-0000538194,3156544,,
+b9db48e6-8fcd-11eb-924d-9cd76263cbd0,species,dulcis,Anomianthus,,"(Dunal) James Sinclair",,,,,,,,b9db2c58-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001066094,3156537,,
+9fde737e-8fcc-11eb-924d-9cd76263cbd0,species,dulcis,Anomianthus,,"(Dunal) J.Sinclair",,1953,,"Gard. Bull. Singapore 14: 40 1953",,,,b9db2c58-8fcd-11eb-924d-9cd76263cbd0,,72141-1,wfo-0000538195,3156537,,
+9fde9200-8fcc-11eb-924d-9cd76263cbd0,species,heterocarpus,Anomianthus,,Zoll.,,1858,,"Linnaea 29: 324 1858",,,,,,72142-1,wfo-0000538196,3156540,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65aa53e-8fd1-11eb-924d-9cd76263cbd0,genus,Marcelliopsis,,,Schinz,1934,"Nat. Pflanzenfam. (ed. 2) 16c: 48. 1934.",,,,,1241-1,wfo-4000023114,7323709,
-331e2afe-8fcc-11eb-924d-9cd76263cbd0,species,denudata,Marcelliopsis,,"(Hook.f.) Schinz",1934,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,60921-1,wfo-0000372535,3675725,
-332c4026-8fcc-11eb-924d-9cd76263cbd0,species,dinteri,Marcelliopsis,,"(Schinz) Schinz",1934,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,60922-1,wfo-0000372614,3675720,
-b11e4ce4-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Marcelliopsis,,Schinz,,,,,,,,wfo-0001046183,3675717,
-333b381a-8fcc-11eb-924d-9cd76263cbd0,species,welwitschii,Marcelliopsis,,"(Hook.f.) Schinz",1934,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,60924-1,wfo-0000372682,3675714,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65aa53e-8fd1-11eb-924d-9cd76263cbd0,genus,Marcelliopsis,,,Schinz,,1934,,"Nat. Pflanzenfam. (ed. 2) 16c: 48. 1934.",,,,,,1241-1,wfo-4000023114,7323709,,
+331e2afe-8fcc-11eb-924d-9cd76263cbd0,species,denudata,Marcelliopsis,,"(Hook.f.) Schinz",,1934,,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,,60921-1,wfo-0000372535,3675725,,
+332c4026-8fcc-11eb-924d-9cd76263cbd0,species,dinteri,Marcelliopsis,,"(Schinz) Schinz",,1934,,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,,60922-1,wfo-0000372614,3675720,,
+b11e4ce4-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Marcelliopsis,,Schinz,,,,,,,,,,,wfo-0001046183,3675717,,
+333b381a-8fcc-11eb-924d-9cd76263cbd0,species,welwitschii,Marcelliopsis,,"(Hook.f.) Schinz",,1934,,"Nat. Pflanzenfam. ed. 2 16c: 48 1934",,,,,,60924-1,wfo-0000372682,3675714,,

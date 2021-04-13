@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63a56c6-8fd1-11eb-924d-9cd76263cbd0,genus,Macronyx,,,,,,,,,,,wfo-4000022738,2975773,
-f87c3fde-8fc7-11eb-924d-9cd76263cbd0,species,strigosus,Macronyx,,Dalzell,,,,,,,,wfo-0000205416,5342085,
-33c5708e-8fcc-11eb-924d-9cd76263cbd0,species,tenuis,Macronyx,,Hook.,1850,"Hooker's J. Bot. Kew Gard. Misc. 2: 35 1850",,,,,505809-1,wfo-0000373421,5629579,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63a56c6-8fd1-11eb-924d-9cd76263cbd0,genus,Macronyx,,,,,,,,,,,,,,wfo-4000022738,2975773,,
+f87c3fde-8fc7-11eb-924d-9cd76263cbd0,species,strigosus,Macronyx,,Dalzell,,,,,,,,,,,wfo-0000205416,5342085,,
+33c5708e-8fcc-11eb-924d-9cd76263cbd0,species,tenuis,Macronyx,,Hook.,,1850,,"Hooker's J. Bot. Kew Gard. Misc. 2: 35 1850",,,,,,505809-1,wfo-0000373421,5629579,,

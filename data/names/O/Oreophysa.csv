@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a371be-8fd1-11eb-924d-9cd76263cbd0,genus,Oreophysa,,,,,,,,,,,wfo-4000027102,2947446,
-99b769f4-8fc4-11eb-924d-9cd76263cbd0,species,microphylla,Oreophysa,,"(Jaub. & Spach) Browicz",,,,,,dc2258c6-8fc4-11eb-924d-9cd76263cbd0,,wfo-0000188864,2947447,
-b6f827de-8fcd-11eb-924d-9cd76263cbd0,species,triphylla,Oreophysa,,"(Bunge ex Boiss.) Bornm.",1905,"Bull. Herb. Boissier 5: 652 1905",,,,,510601-1,wfo-0001059517,3969380,
-dc3af1a6-8fc4-11eb-924d-9cd76263cbd0,species,triphylla,Oreophysaysa,,Boiss.,,,,,,,,wfo-0000190180,2947450,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a371be-8fd1-11eb-924d-9cd76263cbd0,genus,Oreophysa,,,,,,,,,,,,,,wfo-4000027102,2947446,,
+99b769f4-8fc4-11eb-924d-9cd76263cbd0,species,microphylla,Oreophysa,,"(Jaub. & Spach) Browicz",,,,,,,,dc2258c6-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0000188864,2947447,,
+b6f827de-8fcd-11eb-924d-9cd76263cbd0,species,triphylla,Oreophysa,,"(Bunge ex Boiss.) Bornm.",,1905,,"Bull. Herb. Boissier 5: 652 1905",,,,,,510601-1,wfo-0001059517,3969380,,
+dc3af1a6-8fc4-11eb-924d-9cd76263cbd0,species,triphylla,Oreophysaysa,,Boiss.,,,,,,,,,,,wfo-0000190180,2947450,,

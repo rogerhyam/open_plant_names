@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e924876c-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolinosyris,,,,,,,,,,,wfo-4000031564,3087066,
-3a01c5fc-8fb2-11eb-924d-9cd76263cbd0,species,capusi,Pseudolinosyris,,Novopokr.,1918,"in Bull. Jard. Bot. Petersb. 1918, xviii. 13.",,,,,,wfo-0000016426,4217348,
-5aab7c8c-8fb5-11eb-924d-9cd76263cbd0,species,grimmii,Pseudolinosyris,,"(Regel & Schmalh.) Novopokr.",1918,"in Bull. Jard. Bot. Petersb. 1918, xviii. 12.",,,,fa1a5fd6-8fb5-11eb-924d-9cd76263cbd0,239868-1,wfo-0000077058,3087069,
-69b7de8a-8fb2-11eb-924d-9cd76263cbd0,species,microcephala,Pseudolinosyris,,"(Novopokr.) Tamamsch.",1959,"Fl. URSS xxv. 182 (1959)",,,,,239869-1,wfo-0000023768,3087067,
-4c4e9c74-8fb4-11eb-924d-9cd76263cbd0,species,sintenisii,Pseudolinosyris,,"(Bornm.) Tamamsch.",1959,"Fl. URSS xxv. 183 (1959).",,,,,,wfo-0000062933,3087068,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e924876c-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolinosyris,,,,,,,,,,,,,,wfo-4000031564,3087066,,
+3a01c5fc-8fb2-11eb-924d-9cd76263cbd0,species,capusi,Pseudolinosyris,,Novopokr.,,1918,,"in Bull. Jard. Bot. Petersb. 1918, xviii. 13.",,,,,,,wfo-0000016426,4217348,,
+5aab7c8c-8fb5-11eb-924d-9cd76263cbd0,species,grimmii,Pseudolinosyris,,"(Regel & Schmalh.) Novopokr.",,1918,,"in Bull. Jard. Bot. Petersb. 1918, xviii. 12.",,,,fa1a5fd6-8fb5-11eb-924d-9cd76263cbd0,,239868-1,wfo-0000077058,3087069,,
+69b7de8a-8fb2-11eb-924d-9cd76263cbd0,species,microcephala,Pseudolinosyris,,"(Novopokr.) Tamamsch.",,1959,,"Fl. URSS xxv. 182 (1959)",,,,,,239869-1,wfo-0000023768,3087067,,
+4c4e9c74-8fb4-11eb-924d-9cd76263cbd0,species,sintenisii,Pseudolinosyris,,"(Bornm.) Tamamsch.",,1959,,"Fl. URSS xxv. 183 (1959).",,,,,,,wfo-0000062933,3087068,,

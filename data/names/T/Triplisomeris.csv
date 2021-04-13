@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eba058e0-8fd1-11eb-924d-9cd76263cbd0,genus,Triplisomeris,,,,,,,,,,,wfo-4000039283,2970307,
-b6355ee8-8fcd-11eb-924d-9cd76263cbd0,species,ernae,Triplisomeris,,"(Dinkl.) Aubrév. & Pellegr.",1958,"Bull. Soc. Bot. France 104: 497 1958",,,,3fd778d4-8fc9-11eb-924d-9cd76263cbd0,524167-1,wfo-0001057763,8601467,
-b6357b6c-8fcd-11eb-924d-9cd76263cbd0,species,explicans,Triplisomeris,,"Aubrév. & Pellegr.",1958,"Bull. Soc. Bot. France 104: 497 1958",,,,,524168-1,wfo-0001057764,2976633,
-b6aa2d4a-8fcd-11eb-924d-9cd76263cbd0,species,pellegrinii,Triplisomeris,,Aubrév.,1970,"Fl. Cameroun 9: 185 1970",,,,,524169-1,wfo-0001058815,2976612,
-b6359822-8fcd-11eb-924d-9cd76263cbd0,species,triplisomeris,Triplisomeris,,"Aubrév. & Pellegr.",1958,"Bull. Soc. Bot. France 104: 497 1958",,,,,524170-1,wfo-0001057765,2976611,
-70c6645c-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Triplobus,,Raf.,1838,"Sylva Tellur. 111 1838",,,,,825687-1,wfo-0000458813,3671866,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eba058e0-8fd1-11eb-924d-9cd76263cbd0,genus,Triplisomeris,,,,,,,,,,,,,,wfo-4000039283,2970307,,
+b6355ee8-8fcd-11eb-924d-9cd76263cbd0,species,ernae,Triplisomeris,,"(Dinkl.) Aubrév. & Pellegr.",,1958,,"Bull. Soc. Bot. France 104: 497 1958",,Q55757710,,3fd778d4-8fc9-11eb-924d-9cd76263cbd0,,524167-1,wfo-0001057763,8601467,,
+b6357b6c-8fcd-11eb-924d-9cd76263cbd0,species,explicans,Triplisomeris,,"Aubrév. & Pellegr.",,1958,,"Bull. Soc. Bot. France 104: 497 1958",,Q55757710,,,,524168-1,wfo-0001057764,2976633,,
+b6aa2d4a-8fcd-11eb-924d-9cd76263cbd0,species,pellegrinii,Triplisomeris,,Aubrév.,,1970,,"Fl. Cameroun 9: 185 1970",,,,,,524169-1,wfo-0001058815,2976612,,
+b6359822-8fcd-11eb-924d-9cd76263cbd0,species,triplisomeris,Triplisomeris,,"Aubrév. & Pellegr.",,1958,,"Bull. Soc. Bot. France 104: 497 1958",,Q55757710,,,,524170-1,wfo-0001057765,2976611,,
+70c6645c-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Triplobus,,Raf.,,1838,,"Sylva Tellur. 111 1838",,,,,,825687-1,wfo-0000458813,3671866,,

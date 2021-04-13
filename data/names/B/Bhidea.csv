@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e037f918-8fd1-11eb-924d-9cd76263cbd0,genus,Bhidea,,,"Stapf ex Bor",1948,"Kew Bull. 3: 445. 1948[1949]. (10 Jan 1949)",,,,,17598-1,wfo-4000004561,4138394,
-4bded3da-8fcd-11eb-924d-9cd76263cbd0,species,borii,Bhidea,,"Deshp., V.Prakash & N.P.Singh",,"Curr. Sci. 58: 1094 1989",,,,,938099-1,wfo-0000853689,4138416,
-4bdeedde-8fcd-11eb-924d-9cd76263cbd0,species,burnsiana,Bhidea,,Bor,1948,"Kew Bull. 3: 445 1948",,,,,392659-1,wfo-0000853690,4138405,
-4bdf099a-8fcd-11eb-924d-9cd76263cbd0,species,fischeri,Bhidea,,"Sreek. & B.V.Shetty",1987,"Kew Bull. 42: 683 1987",,,,,932425-1,wfo-0000853691,4138393,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e037f918-8fd1-11eb-924d-9cd76263cbd0,genus,Bhidea,,,"Stapf ex Bor",,1948,,"Kew Bull. 3: 445. 1948[1949]. (10 Jan 1949)",,Q43262470,,,,17598-1,wfo-4000004561,4138394,,
+4bded3da-8fcd-11eb-924d-9cd76263cbd0,species,borii,Bhidea,,"Deshp., V.Prakash & N.P.Singh",,,,"Curr. Sci. 58: 1094 1989",,,,,,938099-1,wfo-0000853689,4138416,,
+4bdeedde-8fcd-11eb-924d-9cd76263cbd0,species,burnsiana,Bhidea,,Bor,,1948,,"Kew Bull. 3: 445 1948",,Q43262470,,,,392659-1,wfo-0000853690,4138405,,
+4bdf099a-8fcd-11eb-924d-9cd76263cbd0,species,fischeri,Bhidea,,"Sreek. & B.V.Shetty",,1987,,"Kew Bull. 42: 683 1987",,Q43216782,,,,932425-1,wfo-0000853691,4138393,,

@@ -1,10 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8fd2d66-8fd1-11eb-924d-9cd76263cbd0,genus,Praecoxanthus,,,"Hopper & A.P.Br.",,,,,,,1015714-1,wfo-4000031075,2785087,
-fb215216-8fcb-11eb-924d-9cd76263cbd0,species,aphyllus,Praecoxanthus,,"(Benth.) Hopper & A.P.Br.",2000,"Lindleyana 15: 124 2000",,,,,1015715-1,wfo-0000282235,2785088,
-1b6628ac-8fcd-11eb-924d-9cd76263cbd0,species,mortensenii,Praepilosocereus,,"(Croizat) Guiggi",2010,"Cactology 2: 19 2010",,,,45d5b162-8fcc-11eb-924d-9cd76263cbd0,77115039-1,wfo-0000750024,8141984,
-43433e92-8fcc-11eb-924d-9cd76263cbd0,species,pendula,Pragmatropa,,Pierre,1895,"Fl. Forest. Cochinch. t. 309 1895",,,,,162397-1,wfo-0000394831,3792004,
-4343108e-8fcc-11eb-924d-9cd76263cbd0,species,echinata,Pragmotessara,,Pierre,1895,"Fl. Forest. Cochinch. t. 309 1895",,,,,162398-1,wfo-0000394830,3791986,
-cbc11834-8fd1-11eb-924d-9cd76263cbd0,species,ilicifolia,Pragmotessara,,"(Franch.) Pierre",1894,"Fl. Forest. Cochinch. 20: , pl. 309 1894",,,,,162399-1,wfo-0001275828,3791979,
-4342b0bc-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Pragmotessara,,Pierre,1895,"Fl. Forest. Cochinch. t. 309 1895",,,,,162400-1,wfo-0000394829,3791971,
-43411036-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Pragmotessara,,Pierre,1895,"Fl. Forest. Cochinch. t. 309 1895",,,,,162401-1,wfo-0000394821,3791961,
-4342609e-8fcc-11eb-924d-9cd76263cbd0,species,theifolia,Pragmotessara,,Pierre,1895,"Fl. Forest. Cochinch. t. 309 1895",,,,,162402-1,wfo-0000394827,3791947,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8fd2d66-8fd1-11eb-924d-9cd76263cbd0,genus,Praecoxanthus,,,"Hopper & A.P.Br.",,,,,,,,,,1015714-1,wfo-4000031075,2785087,,
+fb215216-8fcb-11eb-924d-9cd76263cbd0,species,aphyllus,Praecoxanthus,,"(Benth.) Hopper & A.P.Br.",,2000,,"Lindleyana 15: 124 2000",,,,,,1015715-1,wfo-0000282235,2785088,,
+1b6628ac-8fcd-11eb-924d-9cd76263cbd0,species,mortensenii,Praepilosocereus,,"(Croizat) Guiggi",,2010,,"Cactology 2: 19 2010",,,,45d5b162-8fcc-11eb-924d-9cd76263cbd0,,77115039-1,wfo-0000750024,8141984,,
+43433e92-8fcc-11eb-924d-9cd76263cbd0,species,pendula,Pragmatropa,,Pierre,,1895,,"Fl. Forest. Cochinch. t. 309 1895",,,,,,162397-1,wfo-0000394831,3792004,,

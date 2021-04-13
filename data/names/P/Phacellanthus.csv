@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e84e58a4-8fd1-11eb-924d-9cd76263cbd0,genus,Phacellanthus,,,"Siebold & Zucc.",1846,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(3): 141. 1846.",,,,,31028-1,wfo-4000029023,8052834,
-b0e5ed1e-8fd1-11eb-924d-9cd76263cbd0,species,continentalis,Phacellanthus,,Kom.,1930,"Bull. Acad. Imp. Sci. Saint-Petersbourg 273, f. 1–4 1930",,,,,,wfo-0001226247,3729277,
-836acb98-8fcc-11eb-924d-9cd76263cbd0,species,multiflorus,Phacellanthus,,Steud.,1854,"Syst. Verz. 1: 61 1854",,,,,311414-1,wfo-0000490271,2710083,
-c423ee8e-8fcd-11eb-924d-9cd76263cbd0,species,tubiflorus,Phacellanthus,,"Siebold & Zucc.",1846,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(3): 141 1846",,,,,662813-1,wfo-0001089291,3728146,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e84e58a4-8fd1-11eb-924d-9cd76263cbd0,genus,Phacellanthus,,,"Siebold & Zucc.",,1846,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(3): 141. 1846.",,,,,,31028-1,wfo-4000029023,8052834,,
+b0e5ed1e-8fd1-11eb-924d-9cd76263cbd0,species,continentalis,Phacellanthus,,Kom.,,1930,,"Bull. Acad. Imp. Sci. Saint-Petersbourg 273, f. 1–4 1930",,,,,,,wfo-0001226247,3729277,,
+836acb98-8fcc-11eb-924d-9cd76263cbd0,species,multiflorus,Phacellanthus,,Steud.,,1854,,"Syst. Verz. 1: 61 1854",,,,,,311414-1,wfo-0000490271,2710083,,
+c423ee8e-8fcd-11eb-924d-9cd76263cbd0,species,tubiflorus,Phacellanthus,,"Siebold & Zucc.",,1846,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(3): 141 1846",,,,,,662813-1,wfo-0001089291,3728146,,

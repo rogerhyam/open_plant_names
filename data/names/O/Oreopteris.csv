@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a3e2ca-8fd1-11eb-924d-9cd76263cbd0,genus,Oreopteris,,,Holub,1969,"Folia Geobot. Phytotax. 4(1): 46–47. 1969.",,,,,,wfo-4000027108,7321305,
-d2b37e92-8fcd-11eb-924d-9cd76263cbd0,species,elwesii,Oreopteris,,"(Baker) Holttum",1974,"Companion Beddome's Handb. Ferns Brit. India 204 1974",,,,,17446110-1,wfo-0001120911,4082963,
-d0a624d8-8fcd-11eb-924d-9cd76263cbd0,species,limbosperma,Oreopteris,,Holub,1969,"Folia Geobot. Phytotax. 4: 48 1969",,,,,17446120-1,wfo-0001116371,2651495,
-cfdfb05a-8fcd-11eb-924d-9cd76263cbd0,species,quelpaertensis,Oreopteris,,"(Christ) Holub",1969,"Folia Geobot. Phytotax. 4(1): 48, 49–50 1969",,,,,17446130-1,wfo-0001114698,2651493,
-d1018076-8fcd-11eb-924d-9cd76263cbd0,variety,yakumontana,Oreopteris,quelpaertensis,"(Masam.) Nakaike",1975,"Enum. Pterid. Jap., Fil. 285 1975",,,,,,wfo-0001117121,8221504,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a3e2ca-8fd1-11eb-924d-9cd76263cbd0,genus,Oreopteris,,,Holub,,1969,,"Folia Geobot. Phytotax. 4(1): 46–47. 1969.",,,,,,,wfo-4000027108,7321305,,
+d2b37e92-8fcd-11eb-924d-9cd76263cbd0,species,elwesii,Oreopteris,,"(Baker) Holttum",,1974,,"Companion Beddome's Handb. Ferns Brit. India 204 1974",,,,,,17446110-1,wfo-0001120911,4082963,,
+d0a624d8-8fcd-11eb-924d-9cd76263cbd0,species,limbosperma,Oreopteris,,Holub,,1969,,"Folia Geobot. Phytotax. 4: 48 1969",,Q55755393,,,,17446120-1,wfo-0001116371,2651495,,
+cfdfb05a-8fcd-11eb-924d-9cd76263cbd0,species,quelpaertensis,Oreopteris,,"(Christ) Holub",,1969,,"Folia Geobot. Phytotax. 4(1): 48, 49–50 1969",,Q55755393,,,,17446130-1,wfo-0001114698,2651493,,
+d1018076-8fcd-11eb-924d-9cd76263cbd0,variety,yakumontana,Oreopteris,quelpaertensis,"(Masam.) Nakaike",,1975,,"Enum. Pterid. Jap., Fil. 285 1975",,,,,,,wfo-0001117121,8221504,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8069690-8fd1-11eb-924d-9cd76263cbd0,genus,Parita,,,Scop.,1777,"Intr. Hist. Nat. 282. 1777.",,,,,,wfo-4000028215,7278689,
-7a54c932-8fcc-11eb-924d-9cd76263cbd0,species,panduriformis,Parita,,Scop.,1777,"Intr. Hist. Nat. 282 1777",,,,,562712-1,wfo-0000474619,3933256,
-d0acadcc-8fd1-11eb-924d-9cd76263cbd0,species,populnea,Parita,,"(L.) Scop.",,"Intr. Hist. Nat. 282",,,,,562713-1,wfo-0001281698,,
-7a54590c-8fcc-11eb-924d-9cd76263cbd0,species,populneus,Parita,,Scop.,1777,"Intr. Hist. Nat. 282 1777",,,,,562713-1,wfo-0000474615,3933251,
-7a54e55c-8fcc-11eb-924d-9cd76263cbd0,species,tiliaceus,Parita,,Scop.,1777,"Intr. Hist. Nat. 282 1777",,,,,562714-1,wfo-0000474620,3933246,
-7a550690-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicus,Parita,,Scop.,1777,"Intr. Hist. Nat. 282 1777",,,,,562715-1,wfo-0000474621,3933240,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8069690-8fd1-11eb-924d-9cd76263cbd0,genus,Parita,,,Scop.,,1777,,"Intr. Hist. Nat. 282. 1777.",,,,,,,wfo-4000028215,7278689,,
+7a54c932-8fcc-11eb-924d-9cd76263cbd0,species,panduriformis,Parita,,Scop.,,1777,,"Intr. Hist. Nat. 282 1777",,,,,,562712-1,wfo-0000474619,3933256,,
+d0acadcc-8fd1-11eb-924d-9cd76263cbd0,species,populnea,Parita,,"(L.) Scop.",,,,"Intr. Hist. Nat. 282",,,,,,562713-1,wfo-0001281698,,,
+7a54590c-8fcc-11eb-924d-9cd76263cbd0,species,populneus,Parita,,Scop.,,1777,,"Intr. Hist. Nat. 282 1777",,,,,,562713-1,wfo-0000474615,3933251,,
+7a54e55c-8fcc-11eb-924d-9cd76263cbd0,species,tiliaceus,Parita,,Scop.,,1777,,"Intr. Hist. Nat. 282 1777",,,,,,562714-1,wfo-0000474620,3933246,,
+7a550690-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicus,Parita,,Scop.,,1777,,"Intr. Hist. Nat. 282 1777",,,,,,562715-1,wfo-0000474621,3933240,,

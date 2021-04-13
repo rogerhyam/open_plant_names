@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4155f9e-8fd1-11eb-924d-9cd76263cbd0,genus,Glyphosperma,,,,,,,,,,,wfo-4000015866,2780811,
-24d9ab7a-8fcd-11eb-924d-9cd76263cbd0,species,palmeri,Glyphosperma,,S.Watson,1883,"Proc. Amer. Acad. Arts 18: 164 1883",,,,,,wfo-0000769251,5304813,
-0302ab64-8fcd-11eb-924d-9cd76263cbd0,species,ornatum,Glyphospermum,,"D.Don ex G.Don",1837,"Gen. Hist. 4: 195 1837",,,,,369420-1,wfo-0000704662,3844458,
-0302c5cc-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Glyphospermum,,"D.Don ex G.Don",1837,"Gen. Hist. 4: 194 1837",,,,,,wfo-0000704663,3844443,
-8ebe4082-8fcd-11eb-924d-9cd76263cbd0,species,laoticus,Glyphostylus,,Gagnep.,1924,"Bull. Soc. Bot. France 71: 871 1924 publ. 1925",,,,,349717-1,wfo-0000974013,3071682,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4155f9e-8fd1-11eb-924d-9cd76263cbd0,genus,Glyphosperma,,,,,,,,,,,,,,wfo-4000015866,2780811,,
+24d9ab7a-8fcd-11eb-924d-9cd76263cbd0,species,palmeri,Glyphosperma,,S.Watson,,1883,,"Proc. Amer. Acad. Arts 18: 164 1883",,,,,,,wfo-0000769251,5304813,,
+0302ab64-8fcd-11eb-924d-9cd76263cbd0,species,ornatum,Glyphospermum,,"D.Don ex G.Don",,1837,,"Gen. Hist. 4: 195 1837",,,,,,369420-1,wfo-0000704662,3844458,,
+0302c5cc-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Glyphospermum,,"D.Don ex G.Don",,1837,,"Gen. Hist. 4: 194 1837",,,,,,,wfo-0000704663,3844443,,
+8ebe4082-8fcd-11eb-924d-9cd76263cbd0,species,laoticus,Glyphostylus,,Gagnep.,,1924,,"Bull. Soc. Bot. France 71: 871 1924 publ. 1925",,Q55757136,,,,349717-1,wfo-0000974013,3071682,,

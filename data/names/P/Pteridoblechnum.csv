@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e943b736-8fd1-11eb-924d-9cd76263cbd0,genus,Pteridoblechnum,,,Hennipman,1966,"Blumea 13: 397. 1966.",,,,,,wfo-4000031877,7296852,
-d165dff8-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Pteridoblechnum,,"(C.T.White & Goy) Hennipman",1976,"Proc. Roy. Soc. Queensland 87: 95, f. 1–5 1976",,,,,,wfo-0001117998,4079087,
-ae618e04-8fd1-11eb-924d-9cd76263cbd0,species,neglectum,Pteridoblechnum,,Hennipman,1966,"Blumea 13: 397 1966",,,,,17452700-1,wfo-0001221560,4079068,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e943b736-8fd1-11eb-924d-9cd76263cbd0,genus,Pteridoblechnum,,,Hennipman,,1966,,"Blumea 13: 397. 1966.",,,,,,,wfo-4000031877,7296852,,
+d165dff8-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Pteridoblechnum,,"(C.T.White & Goy) Hennipman",,1976,,"Proc. Roy. Soc. Queensland 87: 95, f. 1–5 1976",,,,,,,wfo-0001117998,4079087,,
+ae618e04-8fd1-11eb-924d-9cd76263cbd0,species,neglectum,Pteridoblechnum,,Hennipman,,1966,,"Blumea 13: 397 1966",,Q96028660,,,,17452700-1,wfo-0001221560,4079068,,

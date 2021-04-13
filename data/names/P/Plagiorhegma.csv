@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a015c2-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiorhegma,,,Maxim.,1859,"Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 9(*): 34, pl. 2. 1859.",,,,,3965-1,wfo-4000029999,8133358,
-de6923a4-8fcd-11eb-924d-9cd76263cbd0,species,dubium,Plagiorhegma,,Maxim.,1859,"Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 9(*): 34, pl. 2 1859",,,,,107580-1,wfo-0001146550,3981642,
-43ac6fa2-8fcc-11eb-924d-9cd76263cbd0,species,nervosa,Plagiorrhiza,,"Hallier f.",1921,"Beih. Bot. Centralbl. 39(2): 162 1921",,,,,429007-1,wfo-0000395252,3714994,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a015c2-8fd1-11eb-924d-9cd76263cbd0,genus,Plagiorhegma,,,Maxim.,,1859,,"Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 9(*): 34, pl. 2. 1859.",,,,,,3965-1,wfo-4000029999,8133358,,
+de6923a4-8fcd-11eb-924d-9cd76263cbd0,species,dubium,Plagiorhegma,,Maxim.,,1859,,"Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 9(*): 34, pl. 2 1859",,,,,,107580-1,wfo-0001146550,3981642,,
+43ac6fa2-8fcc-11eb-924d-9cd76263cbd0,species,nervosa,Plagiorrhiza,,"Hallier f.",,1921,,"Beih. Bot. Centralbl. 39(2): 162 1921",,,,,,429007-1,wfo-0000395252,3714994,,

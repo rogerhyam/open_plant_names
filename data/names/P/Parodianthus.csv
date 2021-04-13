@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e808438c-8fd1-11eb-924d-9cd76263cbd0,genus,Parodianthus,,,Tronc.,1941,"Darwiniana 5: 37. 1941.",,,,,296897-2,wfo-4000028231,7297462,
-f01c0f1e-8fcb-11eb-924d-9cd76263cbd0,species,capillaris,Parodianthus,,Tronc.,1973,"Darwiniana 18: 19 1973",,,,,183531-2,wfo-0000264697,4085866,
-f01c2f76-8fcb-11eb-924d-9cd76263cbd0,species,ilicifolius,Parodianthus,,"(Moldenke) Tronc.",1941,"Darwiniana 5: 39 1941",,,,,183532-2,wfo-0000264698,4085844,
-5b9bc3dc-8fcd-11eb-924d-9cd76263cbd0,species,erectifolia,Parodiella,,"(Swallen) Reeder & C.Reeder",1968,"Bol. Soc. Argent. Bot. 12: 279 1968",,,,585f74de-8fcd-11eb-924d-9cd76263cbd0,183533-2,wfo-0000887168,5674015,
-5b9bfe10-8fcd-11eb-924d-9cd76263cbd0,species,flabellata,Parodiochloa,,"(Lam.) C.E.Hubb.",1981,"Bull. Brit. Mus. (Nat. Hist.), Bot. 8: 396 1981",,,,53b17cac-8fcd-11eb-924d-9cd76263cbd0,909350-1,wfo-0000887170,5674009,
-5b9c1ada-8fcd-11eb-924d-9cd76263cbd0,species,trachyantha,Parodiochloa,,"(Phil.) A.M.Molina",1986,"Parodiana 4: 112 1986",,,,56cd4434-8fcd-11eb-924d-9cd76263cbd0,943071-1,wfo-0000887171,5674004,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e808438c-8fd1-11eb-924d-9cd76263cbd0,genus,Parodianthus,,,Tronc.,,1941,,"Darwiniana 5: 37. 1941.",,Q104174010,,,,296897-2,wfo-4000028231,7297462,,
+f01c0f1e-8fcb-11eb-924d-9cd76263cbd0,species,capillaris,Parodianthus,,Tronc.,,1973,,"Darwiniana 18: 19 1973",,Q104174785,,,,183531-2,wfo-0000264697,4085866,,
+f01c2f76-8fcb-11eb-924d-9cd76263cbd0,species,ilicifolius,Parodianthus,,"(Moldenke) Tronc.",,1941,,"Darwiniana 5: 39 1941",,Q104174010,,,,183532-2,wfo-0000264698,4085844,,

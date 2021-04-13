@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33267d4-8fd1-11eb-924d-9cd76263cbd0,genus,Eichlerodendron,,,Briq.,1898,"Annuaire Conserv. Jard. Bot. Genève 2: 77. 1898.",,,,,,wfo-4000013072,7274209,
-7842286e-8fcd-11eb-924d-9cd76263cbd0,species,calophyllum,Eichlerodendron,,"(Griseb. ex Eichler) Briq.",1898,"Annuaire Conserv. Jard. Bot. Genève 2: 77 1898",,,,,88928-2,wfo-0000925267,3880206,
-78426518-8fcd-11eb-924d-9cd76263cbd0,species,intermedium,Eichlerodendron,,"(Seem.) Sleumer",1934,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 54 1934",,,,,365330-1,wfo-0000925269,3880193,
-78428296-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Eichlerodendron,,Sleumer,1934,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 54 1934",,,,,88930-2,wfo-0000925270,3880182,
-78429f60-8fcd-11eb-924d-9cd76263cbd0,species,paucinervosum,Eichlerodendron,,"(Steyerm.) Sleumer ex Aristeg.",1973,"Fam. Gen. Arb. Venez. 273 1973",,,,,,wfo-0000925271,3880177,
-ebff9080-8fcc-11eb-924d-9cd76263cbd0,species,oxiana,Eichwaldia,,Ledeb.,1831,"Pl. Nov. 38 1831",,,,,827945-1,wfo-0000663596,5535247,
-ebffd978-8fcc-11eb-924d-9cd76263cbd0,species,persica,Eichwaldia,,Boiss.,1843,"Diagn. Pl. Orient. 3: 13 1843",,,,,827946-1,wfo-0000663597,5535244,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33267d4-8fd1-11eb-924d-9cd76263cbd0,genus,Eichlerodendron,,,Briq.,,1898,,"Annuaire Conserv. Jard. Bot. Genève 2: 77. 1898.",,,,,,,wfo-4000013072,7274209,,
+7842286e-8fcd-11eb-924d-9cd76263cbd0,species,calophyllum,Eichlerodendron,,"(Griseb. ex Eichler) Briq.",,1898,,"Annuaire Conserv. Jard. Bot. Genève 2: 77 1898",,,,,,88928-2,wfo-0000925267,3880206,,
+78426518-8fcd-11eb-924d-9cd76263cbd0,species,intermedium,Eichlerodendron,,"(Seem.) Sleumer",,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 54 1934",,Q55777707,,,,365330-1,wfo-0000925269,3880193,,
+78428296-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Eichlerodendron,,Sleumer,,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 54 1934",,Q55777707,,,,88930-2,wfo-0000925270,3880182,,
+78429f60-8fcd-11eb-924d-9cd76263cbd0,species,paucinervosum,Eichlerodendron,,"(Steyerm.) Sleumer ex Aristeg.",,1973,,"Fam. Gen. Arb. Venez. 273 1973",,,,,,,wfo-0000925271,3880177,,
+ebff9080-8fcc-11eb-924d-9cd76263cbd0,species,oxiana,Eichwaldia,,Ledeb.,,1831,,"Pl. Nov. 38 1831",,,,,,827945-1,wfo-0000663596,5535247,,
+ebffd978-8fcc-11eb-924d-9cd76263cbd0,species,persica,Eichwaldia,,Boiss.,,1843,,"Diagn. Pl. Orient. 3: 13 1843",,,,,,827946-1,wfo-0000663597,5535244,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e44bc76e-8fd1-11eb-924d-9cd76263cbd0,genus,Gynatrix,,,Alef.,1862,"Oesterr. Bot. Z. 12: 34. 1862.",,,,,,wfo-4000016571,7279631,
-08835890-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Gynatrix,,N.G.Walsh,1996,"Muelleria 9: 191 1996",,,,,991666-1,wfo-0000713255,3940514,
-088376c2-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Gynatrix,,"(Willd.) Alef.",1862,"Oesterr. Bot. Z. 12: 35 1862",,,,,1132047-2,wfo-0000713256,3940500,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e44bc76e-8fd1-11eb-924d-9cd76263cbd0,genus,Gynatrix,,,Alef.,,1862,,"Oesterr. Bot. Z. 12: 34. 1862.",,,,,,,wfo-4000016571,7279631,,
+08835890-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Gynatrix,,N.G.Walsh,,1996,,"Muelleria 9: 191 1996",,,,,,991666-1,wfo-0000713255,3940514,,
+088376c2-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Gynatrix,,"(Willd.) Alef.",,1862,,"Oesterr. Bot. Z. 12: 35 1862",,Q101055262,,,,1132047-2,wfo-0000713256,3940500,,

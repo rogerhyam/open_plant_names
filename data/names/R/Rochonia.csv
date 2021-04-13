@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9beca20-8fd1-11eb-924d-9cd76263cbd0,genus,Rochonia,,,DC.,,,,,,,10872-1,wfo-4000033367,3141175,
-0b097296-8fbb-11eb-924d-9cd76263cbd0,species,antandroy,Rochonia,,Humbert,1958,"in Not. Syst., Paris, xv. 251 (1958).",,,,,,wfo-0000131322,5691232,
-3f958aac-8fb3-11eb-924d-9cd76263cbd0,species,aspera,Rochonia,,Humbert,1923,"Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 53, 286 (1923).",,,,,,wfo-0000044680,5387653,
-536e795a-8fbb-11eb-924d-9cd76263cbd0,species,cinerarioides,Rochonia,,DC.,1836,"Prodr. (DC.) 5: 345 1836",,,,,241526-1,wfo-0000133380,5402439,
-5eba2d62-8fb2-11eb-924d-9cd76263cbd0,species,cuneata,Rochonia,,DC.,1836,"Prodr. (DC.) 5: 345 1836",,,,,,wfo-0000022295,5402438,
-d2bfea30-8fb2-11eb-924d-9cd76263cbd0,species,senecionoides,Rochonia,,Baker,1890,"J. Linn. Soc., Bot. xxv. (1890) 326.",,,,,241528-1,wfo-0000035374,5389458,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9beca20-8fd1-11eb-924d-9cd76263cbd0,genus,Rochonia,,,DC.,,,,,,,,,,10872-1,wfo-4000033367,3141175,,
+0b097296-8fbb-11eb-924d-9cd76263cbd0,species,antandroy,Rochonia,,Humbert,,1958,,"in Not. Syst., Paris, xv. 251 (1958).",,,,,,,wfo-0000131322,5691232,,
+3f958aac-8fb3-11eb-924d-9cd76263cbd0,species,aspera,Rochonia,,Humbert,,1923,,"Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 53, 286 (1923).",,,,,,,wfo-0000044680,5387653,,
+536e795a-8fbb-11eb-924d-9cd76263cbd0,species,cinerarioides,Rochonia,,DC.,,1836,,"Prodr. (DC.) 5: 345 1836",,,,,,241526-1,wfo-0000133380,5402439,,
+5eba2d62-8fb2-11eb-924d-9cd76263cbd0,species,cuneata,Rochonia,,DC.,,1836,,"Prodr. (DC.) 5: 345 1836",,,,,,,wfo-0000022295,5402438,,
+d2bfea30-8fb2-11eb-924d-9cd76263cbd0,species,senecionoides,Rochonia,,Baker,,1890,,"J. Linn. Soc., Bot. xxv. (1890) 326.",,Q55760339,,,,241528-1,wfo-0000035374,5389458,,

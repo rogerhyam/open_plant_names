@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9c83ae2-8fd1-11eb-924d-9cd76263cbd0,genus,Rosselia,,,Forman,1994,"Kew Bull. 49(4): 603. 1994.",,,,,980040-1,wfo-4000033501,7286749,
-473d67a2-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Rosselia,,Forman,1994,"Kew Bull. 49: 604 1994",,,,,980041-1,wfo-0000399436,3992656,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9c83ae2-8fd1-11eb-924d-9cd76263cbd0,genus,Rosselia,,,Forman,,1994,,"Kew Bull. 49(4): 603. 1994.",,Q55785778,,,,980040-1,wfo-4000033501,7286749,,
+473d67a2-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Rosselia,,Forman,,1994,,"Kew Bull. 49: 604 1994",,Q55785778,,,,980041-1,wfo-0000399436,3992656,,

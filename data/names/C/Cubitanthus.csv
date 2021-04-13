@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24207d0-8fd1-11eb-924d-9cd76263cbd0,genus,Cubitanthus,,,Barringer,1984,"J. Arnold Arbor. 65(1): 145–146. 1984.",,,,,893359-1,wfo-4000009995,6365268,
-d7c5677a-8fcc-11eb-924d-9cd76263cbd0,species,alatus,Cubitanthus,,"(Cham. & Schltdl.) Barringer",1984,"J. Arnold Arbor. 65: 146 1984",,,,,72072-2,wfo-0000628620,3819895,
-d7c58746-8fcc-11eb-924d-9cd76263cbd0,species,palustre,Cubospermum,,"(L.) Lour.",1790,"Fl. Cochinch. 275 1790",,,,,611550-1,wfo-0000628621,3664324,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24207d0-8fd1-11eb-924d-9cd76263cbd0,genus,Cubitanthus,,,Barringer,,1984,,"J. Arnold Arbor. 65(1): 145–146. 1984.",,Q100558395,,,,893359-1,wfo-4000009995,6365268,,
+d7c5677a-8fcc-11eb-924d-9cd76263cbd0,species,alatus,Cubitanthus,,"(Cham. & Schltdl.) Barringer",,1984,,"J. Arnold Arbor. 65: 146 1984",,Q100558395,,,,72072-2,wfo-0000628620,3819895,,

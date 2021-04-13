@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebce67f8-8fd1-11eb-924d-9cd76263cbd0,genus,Uromorus,,,Bureau,1873,"Prodr. 17: 214, 236. 1873.",,,,,,wfo-4000039851,7262752,
-55224626-8fcc-11eb-924d-9cd76263cbd0,species,anthopophagorum,Uromorus,,Bureau,1873,"Prodr. 17: 236 1873",,,,,857081-1,wfo-0000417285,3766285,
-552147d0-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Uromorus,,Bureau,1873,"Prodr. 17: 237 1873",,,,,857082-1,wfo-0000417280,3766280,
-552289e2-8fcc-11eb-924d-9cd76263cbd0,species,tahitensis,Uromorus,,Bureau,1873,"Prodr. 17: 237 1873",,,,,857083-1,wfo-0000417287,3766273,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebce67f8-8fd1-11eb-924d-9cd76263cbd0,genus,Uromorus,,,Bureau,,1873,,"Prodr. 17: 214, 236. 1873.",,,,,,,wfo-4000039851,7262752,,
+55224626-8fcc-11eb-924d-9cd76263cbd0,species,anthopophagorum,Uromorus,,Bureau,,1873,,"Prodr. 17: 236 1873",,,,,,857081-1,wfo-0000417285,3766285,,
+552147d0-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Uromorus,,Bureau,,1873,,"Prodr. 17: 237 1873",,,,,,857082-1,wfo-0000417280,3766280,,
+552289e2-8fcc-11eb-924d-9cd76263cbd0,species,tahitensis,Uromorus,,Bureau,,1873,,"Prodr. 17: 237 1873",,,,,,857083-1,wfo-0000417287,3766273,,

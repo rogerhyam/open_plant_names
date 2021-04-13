@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dffdafa6-8fd1-11eb-924d-9cd76263cbd0,genus,Aylacophora,,,Cabrera,,,,,,,295168-2,wfo-4000003802,3104561,
-6e16fb3e-8fba-11eb-924d-9cd76263cbd0,species,deserticola,Aylacophora,,Cabrera,1953,"Bol. Soc. Argent. Bot. 4 268 1953",,,,,27580-2,wfo-0000126579,3104562,
-abce61da-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Aylmeria,,Mart.,1826,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 13: 276 1826",,,,,151867-1,wfo-0000557636,3816039,
-abce8002-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Aylmeria,,Mart.,1826,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 13: 276 1826",,,,,151868-1,wfo-0000557637,3816026,
-abcea870-8fcc-11eb-924d-9cd76263cbd0,species,zollingeri,Aylmeria,,Fenzl,1857,"Natuurk. Tijdschr. Ned.-Indië 14: 163 1857",,,,,151869-1,wfo-0000557638,3816011,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dffdafa6-8fd1-11eb-924d-9cd76263cbd0,genus,Aylacophora,,,Cabrera,,,,,,,,,,295168-2,wfo-4000003802,3104561,,
+6e16fb3e-8fba-11eb-924d-9cd76263cbd0,species,deserticola,Aylacophora,,Cabrera,,1953,,"Bol. Soc. Argent. Bot. 4 268 1953",,,,,,27580-2,wfo-0000126579,3104562,,
+abce61da-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Aylmeria,,Mart.,,1826,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 13: 276 1826",,,,,,151867-1,wfo-0000557636,3816039,,
+abce8002-8fcc-11eb-924d-9cd76263cbd0,species,violacea,Aylmeria,,Mart.,,1826,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 13: 276 1826",,,,,,151868-1,wfo-0000557637,3816026,,
+abcea870-8fcc-11eb-924d-9cd76263cbd0,species,zollingeri,Aylmeria,,Fenzl,,1857,,"Natuurk. Tijdschr. Ned.-Indië 14: 163 1857",,,,,,151869-1,wfo-0000557638,3816011,,

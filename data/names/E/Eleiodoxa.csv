@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33a2e1a-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiodoxa,,,"(Becc.) Burret",1942,"Notizbl. Bot. Gart. Berlin–Dahlem 15: 733. 1942.",,,,,31230-1,wfo-4000013165,2735099,
-8290fd9a-8fcd-11eb-924d-9cd76263cbd0,species,conferta,Eleiodoxa,,"(Griff.) Burret",1942,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 734 1942",,,,0642bbc6-8fcc-11eb-924d-9cd76263cbd0,666819-1,wfo-0000948032,2735100,
-82911a14-8fcd-11eb-924d-9cd76263cbd0,species,microcarpa,Eleiodoxa,,Burret,1942,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,,,,666820-1,wfo-0000948033,2735104,
-82913698-8fcd-11eb-924d-9cd76263cbd0,species,orthoschista,Eleiodoxa,,Burret,1942,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 734 1942",,,,,666821-1,wfo-0000948034,2735101,
-829152cc-8fcd-11eb-924d-9cd76263cbd0,species,scortechinii,Eleiodoxa,,"(Becc.) Burret",1942,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,,,,666822-1,wfo-0000948035,2735105,
-82916d52-8fcd-11eb-924d-9cd76263cbd0,species,xantholepis,Eleiodoxa,,Burret,1942,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,,,,666823-1,wfo-0000948036,2735103,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33a2e1a-8fd1-11eb-924d-9cd76263cbd0,genus,Eleiodoxa,,,"(Becc.) Burret",,1942,,"Notizbl. Bot. Gart. Berlin–Dahlem 15: 733. 1942.",,Q55809228,,,,31230-1,wfo-4000013165,2735099,,
+8290fd9a-8fcd-11eb-924d-9cd76263cbd0,species,conferta,Eleiodoxa,,"(Griff.) Burret",,1942,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 734 1942",,Q55809228,,0642bbc6-8fcc-11eb-924d-9cd76263cbd0,,666819-1,wfo-0000948032,2735100,,
+82911a14-8fcd-11eb-924d-9cd76263cbd0,species,microcarpa,Eleiodoxa,,Burret,,1942,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,Q55809228,,,,666820-1,wfo-0000948033,2735104,,
+82913698-8fcd-11eb-924d-9cd76263cbd0,species,orthoschista,Eleiodoxa,,Burret,,1942,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 734 1942",,Q55809228,,,,666821-1,wfo-0000948034,2735101,,
+829152cc-8fcd-11eb-924d-9cd76263cbd0,species,scortechinii,Eleiodoxa,,"(Becc.) Burret",,1942,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,Q55809228,,,,666822-1,wfo-0000948035,2735105,,
+82916d52-8fcd-11eb-924d-9cd76263cbd0,species,xantholepis,Eleiodoxa,,Burret,,1942,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 735 1942",,Q55809228,,,,666823-1,wfo-0000948036,2735103,,

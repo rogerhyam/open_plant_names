@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9849972-8fd1-11eb-924d-9cd76263cbd0,genus,Recchia,,,"Sessé & Moc. ex DC.",1818,"Syst. Nat. 1: 411. 1818[1817]. (1-15 Nov 1817)",,,,,38244-1,wfo-4000032649,3233303,
-c608fcea-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Recchia,,Small,1911,"N. Amer. Fl. 25: 235 1911",,,,,218284-2,wfo-0001265138,7586311,
-bd4c0f52-8fd1-11eb-924d-9cd76263cbd0,species,connaroides,Recchia,,"(Loes. & Soler.) Standl.",1923,"Contr. U.S. Natl. Herb. 23(3): 541 1923",,,,db8e6a5e-8fcd-11eb-924d-9cd76263cbd0,218285-2,wfo-0001249051,8218958,
-db91361c-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Recchia,,"Moc. & Sessé ex DC.",1818,"Syst. Nat. 1: 411 1818",,,,,,wfo-0001140339,7898222,
-db980e7e-8fcd-11eb-924d-9cd76263cbd0,species,simplicifolia,Recchia,,"T.Wendt & E.J.Lott",1985,"Brittonia 37(2): 219–224, f. 1–4 1985",,,,,301276-2,wfo-0001140393,7787271,
-c00c79fc-8fd1-11eb-924d-9cd76263cbd0,species,cordata,Receveura,,Vell.,1825,"Fl. Flumin. 237 1825",,,,,,wfo-0001254149,3713843,
-c7d2f1b6-8fd1-11eb-924d-9cd76263cbd0,species,graveolens,Receveura,,Vell.,1825,"Fl. Flumin. 237 1825",,,,,,wfo-0001268414,3713837,
-f5c40320-8fcd-11eb-924d-9cd76263cbd0,species,macedonica,Rechingerella,,J.Froehl.,1963,"Ann. Naturhist. Mus. Wien 66: 36. f. 1–4 1963",,,,,,wfo-0001195273,7722416,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9849972-8fd1-11eb-924d-9cd76263cbd0,genus,Recchia,,,"Sessé & Moc. ex DC.",,1818,,"Syst. Nat. 1: 411. 1818[1817]. (1-15 Nov 1817)",,,,,,38244-1,wfo-4000032649,3233303,,
+c608fcea-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Recchia,,Small,,1911,,"N. Amer. Fl. 25: 235 1911",,,,,,218284-2,wfo-0001265138,7586311,,
+bd4c0f52-8fd1-11eb-924d-9cd76263cbd0,species,connaroides,Recchia,,"(Loes. & Soler.) Standl.",,1923,,"Contr. U.S. Natl. Herb. 23(3): 541 1923",,Q95371738,,db8e6a5e-8fcd-11eb-924d-9cd76263cbd0,,218285-2,wfo-0001249051,8218958,,
+db91361c-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Recchia,,"Moc. & Sessé ex DC.",,1818,,"Syst. Nat. 1: 411 1818",,,,,,,wfo-0001140339,7898222,,
+db980e7e-8fcd-11eb-924d-9cd76263cbd0,species,simplicifolia,Recchia,,"T.Wendt & E.J.Lott",,1985,,"Brittonia 37(2): 219–224, f. 1–4 1985",,Q55769276,,,,301276-2,wfo-0001140393,7787271,,
+c00c79fc-8fd1-11eb-924d-9cd76263cbd0,species,cordata,Receveura,,Vell.,,1825,,"Fl. Flumin. 237 1825",,,,,,,wfo-0001254149,3713843,,
+c7d2f1b6-8fd1-11eb-924d-9cd76263cbd0,species,graveolens,Receveura,,Vell.,,1825,,"Fl. Flumin. 237 1825",,,,,,,wfo-0001268414,3713837,,
+f5c40320-8fcd-11eb-924d-9cd76263cbd0,species,macedonica,Rechingerella,,J.Froehl.,,1963,,"Ann. Naturhist. Mus. Wien 66: 36. f. 1–4 1963",,,,,,,wfo-0001195273,7722416,,

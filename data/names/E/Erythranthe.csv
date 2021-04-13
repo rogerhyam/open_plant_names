@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec546524-8fd1-11eb-924d-9cd76263cbd0,genus,Erythranthe,,,Spach,1840,"Hist. Nat. Vég. 9: 312 (1840)",,,,,37635-1,wfo-4001303207,3171742,
-531d5608-8fcd-11eb-924d-9cd76263cbd0,species,australis,Erythranthera,,"(Petrie) Zotov",1963,"New Zealand J. Bot. 1: 125 1963",,,,69128884-8fcd-11eb-924d-9cd76263cbd0,402115-1,wfo-0000869220,4132810,
-531d7c64-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Erythranthera,,"(Kirk) Zotov",1963,"New Zealand J. Bot. 1: 124 1963",,,,4ad71c54-8fcd-11eb-924d-9cd76263cbd0,402116-1,wfo-0000869221,4132794,
-f5112238-8fcc-11eb-924d-9cd76263cbd0,species,coriaceus,Erythranthus,,"Oerst. ex Hanst.",1861,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 120 1861",,,,,,wfo-0000679505,3819532,
-a3e8cdb8-8fb6-11eb-924d-9cd76263cbd0,species,aphylla,Erythremia,,"(Nutt.) Nutt.",1841,"446 1841",,,,,,wfo-0000091599,3091134,
-49384e68-8fb4-11eb-924d-9cd76263cbd0,species,grandiflora,Erythremia,,Nutt.,1841,"445 1841",,,,,,wfo-0000062754,3091137,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec546524-8fd1-11eb-924d-9cd76263cbd0,genus,Erythranthe,,,Spach,,1840,,"Hist. Nat. Vég. 9: 312 (1840)",,,,,,37635-1,wfo-4001303207,3171742,,
+531d5608-8fcd-11eb-924d-9cd76263cbd0,species,australis,Erythranthera,,"(Petrie) Zotov",,1963,,"New Zealand J. Bot. 1: 125 1963",,,,69128884-8fcd-11eb-924d-9cd76263cbd0,,402115-1,wfo-0000869220,4132810,,
+531d7c64-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Erythranthera,,"(Kirk) Zotov",,1963,,"New Zealand J. Bot. 1: 124 1963",,,,4ad71c54-8fcd-11eb-924d-9cd76263cbd0,,402116-1,wfo-0000869221,4132794,,
+f5112238-8fcc-11eb-924d-9cd76263cbd0,species,coriaceus,Erythranthus,,"Oerst. ex Hanst.",,1861,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 120 1861",,,,,,,wfo-0000679505,3819532,,
+a3e8cdb8-8fb6-11eb-924d-9cd76263cbd0,species,aphylla,Erythremia,,"(Nutt.) Nutt.",,1841,,"446 1841",,,,,,,wfo-0000091599,3091134,,
+49384e68-8fb4-11eb-924d-9cd76263cbd0,species,grandiflora,Erythremia,,Nutt.,,1841,,"445 1841",,,,,,,wfo-0000062754,3091137,,

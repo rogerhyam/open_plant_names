@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ed9cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Gatyona,,,,,,,,,,,wfo-4000015395,8698713,
-9bccb736-8fb9-11eb-924d-9cd76263cbd0,species,bergeri,Gatyona,,Sch.Bip.,1839,"21 1839",,,,,208662-1,wfo-0000119841,3143322,
-272168f8-8fbb-11eb-924d-9cd76263cbd0,species,dioscoridis,Gatyona,,Dumort.,1827,"60 1827",,,,,,wfo-0000132125,3143311,
-ee55f89c-8fb3-11eb-924d-9cd76263cbd0,species,dioscoridis,Gatyona,,"(L.) Rchb.",,,,,,,,wfo-0000057125,7535052,
-128e1b9c-8fb2-11eb-924d-9cd76263cbd0,species,globulifera,Gatyona,,"(Desf.) Cass.",1818,"168 1818",,,,,208665-1,wfo-0000009604,3143313,
-c7362f1c-8fb2-11eb-924d-9cd76263cbd0,species,leiocarpa,Gatyona,,Sch.Bip.,1889,"21 1889",,,,,,wfo-0000034253,4229104,
-1a9ead22-8fb9-11eb-924d-9cd76263cbd0,species,pantocsekii,Gatyona,,Vis.,1881,"527 1881",,,,,,wfo-0000115438,3143966,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ed9cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Gatyona,,,,,,,,,,,,,,wfo-4000015395,8698713,,
+9bccb736-8fb9-11eb-924d-9cd76263cbd0,species,bergeri,Gatyona,,Sch.Bip.,,1839,,"21 1839",,,,,,208662-1,wfo-0000119841,3143322,,
+272168f8-8fbb-11eb-924d-9cd76263cbd0,species,dioscoridis,Gatyona,,Dumort.,,1827,,"60 1827",,,,,,,wfo-0000132125,3143311,,
+ee55f89c-8fb3-11eb-924d-9cd76263cbd0,species,dioscoridis,Gatyona,,"(L.) Rchb.",,,,,,,,,,,wfo-0000057125,7535052,,
+128e1b9c-8fb2-11eb-924d-9cd76263cbd0,species,globulifera,Gatyona,,"(Desf.) Cass.",,1818,,"168 1818",,,,,,208665-1,wfo-0000009604,3143313,,
+c7362f1c-8fb2-11eb-924d-9cd76263cbd0,species,leiocarpa,Gatyona,,Sch.Bip.,,1889,,"21 1889",,,,,,,wfo-0000034253,4229104,,
+1a9ead22-8fb9-11eb-924d-9cd76263cbd0,species,pantocsekii,Gatyona,,Vis.,,1881,,"527 1881",,,,,,,wfo-0000115438,3143966,,

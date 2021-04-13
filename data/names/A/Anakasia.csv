@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df595ae6-8fd1-11eb-924d-9cd76263cbd0,genus,Anakasia,,,Philipson,1973,"Blumea 21: 87. 1973.",,,,,2962-1,wfo-4000001830,3037422,
-8c5681d8-8fcd-11eb-924d-9cd76263cbd0,species,simplicifolia,Anakasia,,Philipson,1973,"Blumea 21: 87 1973",,,,,89555-1,wfo-0000969361,3037423,
-8c591380-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Analectis,,Vahl,1810,"Kongel. Danske Vidensk. Selsk. Skr. 6: 94 1810",,,,,861112-1,wfo-0000969382,7677122,
-9cec8e8a-8fcc-11eb-924d-9cd76263cbd0,species,bipinnatus,Analiton,,Raf.,1837,"Fl. Tellur. 3: 46 1837",,,,,693081-1,wfo-0000533325,4034443,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df595ae6-8fd1-11eb-924d-9cd76263cbd0,genus,Anakasia,,,Philipson,,1973,,"Blumea 21: 87. 1973.",,Q96027619,,,,2962-1,wfo-4000001830,3037422,,
+8c5681d8-8fcd-11eb-924d-9cd76263cbd0,species,simplicifolia,Anakasia,,Philipson,,1973,,"Blumea 21: 87 1973",,Q96027619,,,,89555-1,wfo-0000969361,3037423,,
+8c591380-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Analectis,,Vahl,,1810,,"Kongel. Danske Vidensk. Selsk. Skr. 6: 94 1810",,,,,,861112-1,wfo-0000969382,7677122,,
+9cec8e8a-8fcc-11eb-924d-9cd76263cbd0,species,bipinnatus,Analiton,,Raf.,,1837,,"Fl. Tellur. 3: 46 1837",,,,,,693081-1,wfo-0000533325,4034443,,

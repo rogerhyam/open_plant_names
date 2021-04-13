@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5c2e014-8fd1-11eb-924d-9cd76263cbd0,genus,Leptalea,,,,,,,,,,,wfo-4000021190,8128495,
-157744ec-8fb6-11eb-924d-9cd76263cbd0,species,apiculata,Leptalea,,"(Cass.) Hook. & Arn.",1835,"102 1835",,,,,,wfo-0000085476,7615538,
-99fc0370-8fb5-11eb-924d-9cd76263cbd0,species,apiculata,Leptalea,,D.Don,1835,"in Comp. Bot. Mag. i. (1835) 102. i.  102 1835",,,,,229756-1,wfo-0000079981,8407253,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5c2e014-8fd1-11eb-924d-9cd76263cbd0,genus,Leptalea,,,,,,,,,,,,,,wfo-4000021190,8128495,,
+99fc0370-8fb5-11eb-924d-9cd76263cbd0,species,apiculata,Leptalea,,D.Don,,1835,,"in Comp. Bot. Mag. i. (1835) 102. i.  102 1835",,,,,,229756-1,wfo-0000079981,8407253,,
+157744ec-8fb6-11eb-924d-9cd76263cbd0,species,apiculata,Leptalea,,"(Cass.) Hook. & Arn.",,1835,,"102 1835",,,,,,,wfo-0000085476,7615538,,

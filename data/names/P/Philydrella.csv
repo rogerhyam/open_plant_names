@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e86212c2-8fd1-11eb-924d-9cd76263cbd0,genus,Philydrella,,,Caruel,1878,"Nuovo Giorn. Bot. Ital. 10: 91. 1878.",,,,,325761-2,wfo-4000029248,2765637,
-83ae70e6-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Philydrella,,L.G.Adams,1987,"in Fl. Australia 45: 454 1987",,,,,932515-1,wfo-0000490732,2765638,
-83aed608-8fcc-11eb-924d-9cd76263cbd0,species,pygmaea,Philydrella,,"(R.Br.) Caruel",1881,"Monogr. Phan. 3: 4 1881",,,,,676142-1,wfo-0000490735,2765639,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e86212c2-8fd1-11eb-924d-9cd76263cbd0,genus,Philydrella,,,Caruel,,1878,,"Nuovo Giorn. Bot. Ital. 10: 91. 1878.",,,,,,325761-2,wfo-4000029248,2765637,,
+83ae70e6-8fcc-11eb-924d-9cd76263cbd0,species,drummondii,Philydrella,,L.G.Adams,,1987,,"in Fl. Australia 45: 454 1987",,,,,,932515-1,wfo-0000490732,2765638,,
+83aed608-8fcc-11eb-924d-9cd76263cbd0,species,pygmaea,Philydrella,,"(R.Br.) Caruel",,1881,,"Monogr. Phan. 3: 4 1881",,,,,,676142-1,wfo-0000490735,2765639,,

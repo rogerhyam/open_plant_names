@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e256550a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclogyne,,,,,,,,,,,wfo-4000010262,,
-d9c4554a-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Cyclogyne,,Benth.,1839,"Sketch Veg. Swan R. 16 1839",,,,,489261-1,wfo-0000632100,3910176,
-d9c47ba6-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Cyclogyne,,F.Muell.,1853,"Linnaea 25: 393 1853",,,,,489262-1,wfo-0000632101,3910172,
-d9c4e6c2-8fcc-11eb-924d-9cd76263cbd0,species,swainsonioides,Cyclogyne,,Benth.,1848,"J. Exped. Trop. Australia 397 1848",,,,,122803-3,wfo-0000632102,3910168,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e256550a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclogyne,,,,,,,,,,,,,,wfo-4000010262,,,
+d9c4554a-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Cyclogyne,,Benth.,,1839,,"Sketch Veg. Swan R. 16 1839",,,,,,489261-1,wfo-0000632100,3910176,,
+d9c47ba6-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Cyclogyne,,F.Muell.,,1853,,"Linnaea 25: 393 1853",,,,,,489262-1,wfo-0000632101,3910172,,
+d9c4e6c2-8fcc-11eb-924d-9cd76263cbd0,species,swainsonioides,Cyclogyne,,Benth.,,1848,,"J. Exped. Trop. Australia 397 1848",,,,,,122803-3,wfo-0000632102,3910168,,

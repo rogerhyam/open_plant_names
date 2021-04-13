@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1d77ea6-8fd1-11eb-924d-9cd76263cbd0,genus,Cluacena,,,Raf.,1838,"Sylva Tellur. 104. 1838.",,,,,,wfo-4000008660,3179925,
-ca95e00c-8fd1-11eb-924d-9cd76263cbd0,species,lhotzkiana,Cluacena,,Schltdl.,1833,"Linnaea 8: 184 1833",,,,,,wfo-0001273744,7415713,
-5f84b378-8fcd-11eb-924d-9cd76263cbd0,species,myrsinoides,Cluacena,,"(Kunth) Raf.",1838,"Sylva Tellur. 104 1838",,,,,592356-1,wfo-0000895040,3188222,
-5f85cb96-8fcd-11eb-924d-9cd76263cbd0,species,vaccinioides,Cluacena,,"(Kunth) Raf.",1838,"Sylva Tellur. 104 1838",,,,,592357-1,wfo-0000895050,3173851,
-5f88add4-8fcd-11eb-924d-9cd76263cbd0,species,laciniata,Clueria,,"(L.) Raf.",1837,"Fl. Tellur. 3: 87 1837",,,,,445888-1,wfo-0000895068,3885022,
-cdda66de-8fcc-11eb-924d-9cd76263cbd0,species,volupis,Clugnia,,"Comm. ex DC.",1817,"Syst. Nat. 1: 433 1817",,,,,316531-1,wfo-0000612080,4163583,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1d77ea6-8fd1-11eb-924d-9cd76263cbd0,genus,Cluacena,,,Raf.,,1838,,"Sylva Tellur. 104. 1838.",,,,,,,wfo-4000008660,3179925,,
+ca95e00c-8fd1-11eb-924d-9cd76263cbd0,species,lhotzkiana,Cluacena,,Schltdl.,,1833,,"Linnaea 8: 184 1833",,,,,,,wfo-0001273744,7415713,,
+5f84b378-8fcd-11eb-924d-9cd76263cbd0,species,myrsinoides,Cluacena,,"(Kunth) Raf.",,1838,,"Sylva Tellur. 104 1838",,,,,,592356-1,wfo-0000895040,3188222,,
+5f85cb96-8fcd-11eb-924d-9cd76263cbd0,species,vaccinioides,Cluacena,,"(Kunth) Raf.",,1838,,"Sylva Tellur. 104 1838",,,,,,592357-1,wfo-0000895050,3173851,,
+5f88add4-8fcd-11eb-924d-9cd76263cbd0,species,laciniata,Clueria,,"(L.) Raf.",,1837,,"Fl. Tellur. 3: 87 1837",,,,,,445888-1,wfo-0000895068,3885022,,
+cdda66de-8fcc-11eb-924d-9cd76263cbd0,species,volupis,Clugnia,,"Comm. ex DC.",,1817,,"Syst. Nat. 1: 433 1817",,,,,,316531-1,wfo-0000612080,4163583,,

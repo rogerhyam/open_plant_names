@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8ac97f2-8fd1-11eb-924d-9cd76263cbd0,genus,Platystigma,,,Benth.,1835,"Trans. Hort. Soc. London, ser. 2 1(5): 406–407. 1835.",,,,,30075368-2,wfo-4000030167,2888414,
-7df45f58-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Platystigma,,"Benth. & Hook.f.",1862,"Gen. Pl. 1: 51 1862",,,,,673922-1,wfo-0000480844,5531535,
-cc96cace-8fd1-11eb-924d-9cd76263cbd0,species,denticulatum,Platystigma,,"(Greene) Greene",1886,"Bull. Torrey Bot. Club 13(11): 218 1886",,,,,201951-2,wfo-0001277338,5531528,
-c4a417c6-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Platystigma,,Benth.,1835,"Trans. Hort. Soc. London, ser. 2, 1(5): 407 1835",,,,,,wfo-0001090368,5531517,
-1356831e-8fcd-11eb-924d-9cd76263cbd0,species,myristiceum,Platystigma,,"R.Br. ex Hook.f.",,"Hooker's Icon. Pl. 18: t. 1707 1887",,,,,354942-1,wfo-0000733051,,
-7df15c36-8fcc-11eb-924d-9cd76263cbd0,species,oreganum,Platystigma,,"(Nutt.) Benth. & Hook.f. ex S.Watson",1878,"Bibl. Index N. Amer. Bot. 43 1878",,,,dc4638f6-8fd1-11eb-924d-9cd76263cbd0,673925-1,wfo-0000480824,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8ac97f2-8fd1-11eb-924d-9cd76263cbd0,genus,Platystigma,,,Benth.,,1835,,"Trans. Hort. Soc. London, ser. 2 1(5): 406–407. 1835.",,,,,,30075368-2,wfo-4000030167,2888414,,
+7df45f58-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Platystigma,,"Benth. & Hook.f.",,1862,,"Gen. Pl. 1: 51 1862",,,,,,673922-1,wfo-0000480844,5531535,,
+cc96cace-8fd1-11eb-924d-9cd76263cbd0,species,denticulatum,Platystigma,,"(Greene) Greene",,1886,,"Bull. Torrey Bot. Club 13(11): 218 1886",,Q54640292,,,,201951-2,wfo-0001277338,5531528,,
+c4a417c6-8fcd-11eb-924d-9cd76263cbd0,species,lineare,Platystigma,,Benth.,,1835,,"Trans. Hort. Soc. London, ser. 2, 1(5): 407 1835",,,,,,,wfo-0001090368,5531517,,
+1356831e-8fcd-11eb-924d-9cd76263cbd0,species,myristiceum,Platystigma,,"R.Br. ex Hook.f.",,,,"Hooker's Icon. Pl. 18: t. 1707 1887",,,,,,354942-1,wfo-0000733051,,,
+7df15c36-8fcc-11eb-924d-9cd76263cbd0,species,oreganum,Platystigma,,"(Nutt.) Benth. & Hook.f. ex S.Watson",,1878,,"Bibl. Index N. Amer. Bot. 43 1878",,,,dc4638f6-8fd1-11eb-924d-9cd76263cbd0,,673925-1,wfo-0000480824,,,

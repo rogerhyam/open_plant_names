@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0156aba-8fd1-11eb-924d-9cd76263cbd0,genus,Barnebydendron,,,J.H.Kirkbr.,,,,,,,1012322-1,wfo-4000004113,7278343,
-bdcaada8-8fd1-11eb-924d-9cd76263cbd0,species,riedelii,Barnebydendron,,"(Tul.) J.H.Kirkbr.",1999,"Sida 18(3): 817 1999",,,,96eee8a2-8fc2-11eb-924d-9cd76263cbd0,1210001-2,wfo-0001249929,3931454,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0156aba-8fd1-11eb-924d-9cd76263cbd0,genus,Barnebydendron,,,J.H.Kirkbr.,,,,,,Q91207714,,,,1012322-1,wfo-4000004113,7278343,,
+bdcaada8-8fd1-11eb-924d-9cd76263cbd0,species,riedelii,Barnebydendron,,"(Tul.) J.H.Kirkbr.",,1999,,"Sida 18(3): 817 1999",,Q91207714,,96eee8a2-8fc2-11eb-924d-9cd76263cbd0,,1210001-2,wfo-0001249929,3931454,,

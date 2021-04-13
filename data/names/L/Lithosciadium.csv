@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5ff90c2-8fd1-11eb-924d-9cd76263cbd0,genus,Lithosciadium,,,Turcz.,1844,"Bull. Soc. Imp. Naturalistes Moscou 17: 730. 1844.",,,,,40207-1,wfo-4000021987,6026902,
-ca263d06-8fd1-11eb-924d-9cd76263cbd0,species,kamelinii,Lithosciadium,,"(V.M.Vinogr.) Pimenov",1996,"Consp. Fl. Outer Mongolia (vasc. pl.) 79 1996",,,,ce43c3e0-8fcc-11eb-924d-9cd76263cbd0,,wfo-0001272917,8071847,
-2ccfea84-8fcc-11eb-924d-9cd76263cbd0,species,multicaule,Lithosciadium,,Turcz.,1844,"Bull. Soc. Imp. Naturalistes Moscou 17: 731 1844",,,,,844688-1,wfo-0000362229,3636181,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5ff90c2-8fd1-11eb-924d-9cd76263cbd0,genus,Lithosciadium,,,Turcz.,,1844,,"Bull. Soc. Imp. Naturalistes Moscou 17: 730. 1844.",,,,,,40207-1,wfo-4000021987,6026902,,
+ca263d06-8fd1-11eb-924d-9cd76263cbd0,species,kamelinii,Lithosciadium,,"(V.M.Vinogr.) Pimenov",,1996,,"Consp. Fl. Outer Mongolia (vasc. pl.) 79 1996",,,,ce43c3e0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001272917,8071847,,
+2ccfea84-8fcc-11eb-924d-9cd76263cbd0,species,multicaule,Lithosciadium,,Turcz.,,1844,,"Bull. Soc. Imp. Naturalistes Moscou 17: 731 1844",,,,,,844688-1,wfo-0000362229,3636181,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb66627a-8fd1-11eb-924d-9cd76263cbd0,genus,Tomanthera,,,,,,,,,,,wfo-4000038539,6438588,
-70f8ec74-8fcc-11eb-924d-9cd76263cbd0,species,auriculata,Tomanthera,,"(Michx.) Raf.",1837,"New Fl. 2: 66 1837",,,,015a29e0-8fcd-11eb-924d-9cd76263cbd0,810338-1,wfo-0000459160,3171194,
-d9f09d5c-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Tomanthera,,"(Benth.) Pennell",1928,"Proc. Acad. Nat. Sci. Philadelphia 80(10): 445 1928",,,,,255029-2,wfo-0001137198,3171202,
-70f8d036-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Tomanthera,,Raf.,1837,"New Fl. 2: 66 1837",,,,,810340-1,wfo-0000459159,3726203,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb66627a-8fd1-11eb-924d-9cd76263cbd0,genus,Tomanthera,,,,,,,,,,,,,,wfo-4000038539,6438588,,
+70f8ec74-8fcc-11eb-924d-9cd76263cbd0,species,auriculata,Tomanthera,,"(Michx.) Raf.",,1837,,"New Fl. 2: 66 1837",,,,015a29e0-8fcd-11eb-924d-9cd76263cbd0,,810338-1,wfo-0000459160,3171194,,
+d9f09d5c-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Tomanthera,,"(Benth.) Pennell",,1928,,"Proc. Acad. Nat. Sci. Philadelphia 80(10): 445 1928",,,,,,255029-2,wfo-0001137198,3171202,,
+70f8d036-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Tomanthera,,Raf.,,1837,,"New Fl. 2: 66 1837",,,,,,810340-1,wfo-0000459159,3726203,,

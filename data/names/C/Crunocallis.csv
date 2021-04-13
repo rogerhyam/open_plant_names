@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e235ee14-8fd1-11eb-924d-9cd76263cbd0,genus,Crunocallis,,,Rydb.,1906,"Bull. Torrey Bot. Club 33(3): 139. 1906. (7 Apr 1906)",,,,,,wfo-4000009822,7288798,
-d6e74896-8fcc-11eb-924d-9cd76263cbd0,species,calcicola,Crunocallis,,"(Standl. & Steyerm.) Ö.Nilsson",1967,"Grana Palynol. 7: 359 1967",,,,,71170-2,wfo-0000627056,4021923,
-d6e76510-8fcc-11eb-924d-9cd76263cbd0,species,chamissoi,Crunocallis,,"(Ledeb. ex Spreng.) Cockerell ex Daniels",1911,"Univ. Missouri Studies, Sci. Ser. 2(2): 114 1911",,,,cc1c52f8-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000627057,7914405,
-d6e78298-8fcc-11eb-924d-9cd76263cbd0,species,chamissonis,Crunocallis,,"(Eschsch. ex Cham.) Rydb.",1906,"Bull. Torrey Bot. Club 33: 139 1906",,,,cc1c6cc0-8fcc-11eb-924d-9cd76263cbd0,1198068-2,wfo-0000627058,4021895,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e235ee14-8fd1-11eb-924d-9cd76263cbd0,genus,Crunocallis,,,Rydb.,,1906,,"Bull. Torrey Bot. Club 33(3): 139. 1906. (7 Apr 1906)",,,,,,,wfo-4000009822,7288798,,
+d6e74896-8fcc-11eb-924d-9cd76263cbd0,species,calcicola,Crunocallis,,"(Standl. & Steyerm.) Ö.Nilsson",,1967,,"Grana Palynol. 7: 359 1967",,,,,,71170-2,wfo-0000627056,4021923,,
+d6e76510-8fcc-11eb-924d-9cd76263cbd0,species,chamissoi,Crunocallis,,"(Ledeb. ex Spreng.) Cockerell ex Daniels",,1911,,"Univ. Missouri Studies, Sci. Ser. 2(2): 114 1911",,,,cc1c52f8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000627057,7914405,,
+d6e78298-8fcc-11eb-924d-9cd76263cbd0,species,chamissonis,Crunocallis,,"(Eschsch. ex Cham.) Rydb.",,1906,,"Bull. Torrey Bot. Club 33: 139 1906",,Q55766860,,cc1c6cc0-8fcc-11eb-924d-9cd76263cbd0,,1198068-2,wfo-0000627058,4021895,,

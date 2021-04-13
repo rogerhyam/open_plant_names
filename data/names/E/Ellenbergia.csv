@@ -1,9 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e33eefcc-8fd1-11eb-924d-9cd76263cbd0,genus,Ellenbergia,,,Cuatrec.,,,,,,,298271-2,wfo-4000013223,3130576,
-4506d0c8-8fb2-11eb-924d-9cd76263cbd0,species,glandulata,Ellenbergia,,Cuatrec.,1964,"Proc. Biol. Soc. Wash. 77 142 1964",,,,,90054-2,wfo-0000018326,3130577,
-82b2b30e-8fcd-11eb-924d-9cd76263cbd0,species,macgregorii,Ellertonia,,Merr.,1905,"Publ. Bur. Sci. Gov. Lab. 35: 59 1905",,,,,78852-1,wfo-0000948323,7422911,
-82b1fc7a-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Ellertonia,,Radlk.,1883,"Abh. Naturwiss. Vereins Bremen 8: 402 1883",,,,,78851-1,wfo-0000948322,3620447,
-82b2d5d2-8fcd-11eb-924d-9cd76263cbd0,species,rheedei,Ellertonia,,Wight,,"Icon. Pl. Ind. Orient. 4: t. 1295 1848",,,,,78853-1,wfo-0000948324,3620431,
-82b2f27e-8fcd-11eb-924d-9cd76263cbd0,species,sessilis,Ellertonia,,K.Schum.,1895,"Nat. Pflanzenfam. 4(2): 144 1895",,,,,78854-1,wfo-0000948325,3620424,
-d63f6092-8fb6-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,Nutt.,1838,"Fl. N. Amer. (Torr. & A. Gray) 1: 125 1838",,,,,90055-2,wfo-0000093689,3109860,
-672d6be2-8fb9-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,"Nutt. ex Torr. & A.Gray",1838,"Fl. N. Amer. 1: 125 (1838)",,,,,,wfo-0000118072,8419471,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e33eefcc-8fd1-11eb-924d-9cd76263cbd0,genus,Ellenbergia,,,Cuatrec.,,,,,,,,,,298271-2,wfo-4000013223,3130576,,
+4506d0c8-8fb2-11eb-924d-9cd76263cbd0,species,glandulata,Ellenbergia,,Cuatrec.,,1964,,"Proc. Biol. Soc. Wash. 77 142 1964",,,,,,90054-2,wfo-0000018326,3130577,,
+82b2b30e-8fcd-11eb-924d-9cd76263cbd0,species,macgregorii,Ellertonia,,Merr.,,1905,,"Publ. Bur. Sci. Gov. Lab. 35: 59 1905",,,,,,78852-1,wfo-0000948323,7422911,,
+82b1fc7a-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Ellertonia,,Radlk.,,1883,,"Abh. Naturwiss. Vereins Bremen 8: 402 1883",,,,,,78851-1,wfo-0000948322,3620447,,
+82b2d5d2-8fcd-11eb-924d-9cd76263cbd0,species,rheedei,Ellertonia,,Wight,,,,"Icon. Pl. Ind. Orient. 4: t. 1295 1848",,,,,,78853-1,wfo-0000948324,3620431,,
+82b2f27e-8fcd-11eb-924d-9cd76263cbd0,species,sessilis,Ellertonia,,K.Schum.,,1895,,"Nat. Pflanzenfam. 4(2): 144 1895",,,,,,78854-1,wfo-0000948325,3620424,,

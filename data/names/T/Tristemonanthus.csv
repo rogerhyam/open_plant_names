@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eba70ba4-8fd1-11eb-924d-9cd76263cbd0,genus,Tristemonanthus,,,Loes.,1940,"Repert. Spec. Nov. Regni Veg. 49: 226. 1940.",,,,,19657-1,wfo-4000039370,7265490,
-529549c6-8fcc-11eb-924d-9cd76263cbd0,species,mildbraedianus,Tristemonanthus,,Loes.,1940,"Repert. Spec. Nov. Regni Veg. 49: 226 1940",,,,,431416-1,wfo-0000413944,3791578,
-5294b7c2-8fcc-11eb-924d-9cd76263cbd0,species,nigrisilvae,Tristemonanthus,,"(N.Hallé) N.Hallé",1959,"Bull. Mus. Natl. Hist. Nat. II, 31: 274 1959",,,,bc63f1ea-8fcc-11eb-924d-9cd76263cbd0,431417-1,wfo-0000413940,3791569,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eba70ba4-8fd1-11eb-924d-9cd76263cbd0,genus,Tristemonanthus,,,Loes.,,1940,,"Repert. Spec. Nov. Regni Veg. 49: 226. 1940.",,Q55754609,,,,19657-1,wfo-4000039370,7265490,,
+529549c6-8fcc-11eb-924d-9cd76263cbd0,species,mildbraedianus,Tristemonanthus,,Loes.,,1940,,"Repert. Spec. Nov. Regni Veg. 49: 226 1940",,Q55754609,,,,431416-1,wfo-0000413944,3791578,,
+5294b7c2-8fcc-11eb-924d-9cd76263cbd0,species,nigrisilvae,Tristemonanthus,,"(N.Hallé) N.Hallé",,1959,,"Bull. Mus. Natl. Hist. Nat. II, 31: 274 1959",,,,bc63f1ea-8fcc-11eb-924d-9cd76263cbd0,,431417-1,wfo-0000413940,3791569,,

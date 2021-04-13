@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5bc366a-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidoneuron,,,Fée,,,,,,,,wfo-4000021112,4922225,
-cfb1e54e-8fcd-11eb-924d-9cd76263cbd0,species,biserratum,Lepidoneuron,,"(Sw.) Fée",1852,"Mém. Foug. 5: 301 1852",,,,cc8809a2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001114323,8173293,
-d476f920-8fcd-11eb-924d-9cd76263cbd0,species,hirsutulum,Lepidoneuron,,"(G.Forst.) Fée",1852,"Mém. Foug. 5: 301 1852",,,,cf001f80-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001124846,8405019,
-cfd41876-8fcd-11eb-924d-9cd76263cbd0,species,punctulatum,Lepidoneuron,,"(Poir.) Fée",1852,"Mem. Foug., Gen. Filic. 301 1852",,,,cfd3e4c8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001114592,8023312,
-d4774b3c-8fcd-11eb-924d-9cd76263cbd0,species,rufescens,Lepidoneuron,,"(Schrad.) Fée",1852,"Mém. Foug. 5: 301 1852",,,,,,wfo-0001124849,8146212,
-d610577c-8fcd-11eb-924d-9cd76263cbd0,species,sesquipedale,Lepidoneuron,,"(Willd.) Fée",1869,"Crypt. Vasc. Brésil 1: 148 1869",,,,d3d404a4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001128420,8378852,
-d4780fd6-8fcd-11eb-924d-9cd76263cbd0,species,trichomanoides,Lepidoneuron,,"(J.Sm.) Fée",1852,"Mém. Foug. 5: 301 1852",,,,,,wfo-0001124856,7526271,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5bc366a-8fd1-11eb-924d-9cd76263cbd0,genus,Lepidoneuron,,,Fée,,,,,,,,,,,wfo-4000021112,4922225,,
+cfb1e54e-8fcd-11eb-924d-9cd76263cbd0,species,biserratum,Lepidoneuron,,"(Sw.) Fée",,1852,,"Mém. Foug. 5: 301 1852",,,,cc8809a2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001114323,8173293,,
+d476f920-8fcd-11eb-924d-9cd76263cbd0,species,hirsutulum,Lepidoneuron,,"(G.Forst.) Fée",,1852,,"Mém. Foug. 5: 301 1852",,,,cf001f80-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001124846,8405019,,
+cfd41876-8fcd-11eb-924d-9cd76263cbd0,species,punctulatum,Lepidoneuron,,"(Poir.) Fée",,1852,,"Mem. Foug., Gen. Filic. 301 1852",,,,cfd3e4c8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001114592,8023312,,
+d4774b3c-8fcd-11eb-924d-9cd76263cbd0,species,rufescens,Lepidoneuron,,"(Schrad.) Fée",,1852,,"Mém. Foug. 5: 301 1852",,,,,,,wfo-0001124849,8146212,,
+d610577c-8fcd-11eb-924d-9cd76263cbd0,species,sesquipedale,Lepidoneuron,,"(Willd.) Fée",,1869,,"Crypt. Vasc. Brésil 1: 148 1869",,,,d3d404a4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001128420,8378852,,
+d4780fd6-8fcd-11eb-924d-9cd76263cbd0,species,trichomanoides,Lepidoneuron,,"(J.Sm.) Fée",,1852,,"Mém. Foug. 5: 301 1852",,,,,,,wfo-0001124856,7526271,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7c789f0-8fd1-11eb-924d-9cd76263cbd0,genus,Ougeinia,,,Benth.,,,,,,,23104-1,wfo-4000027497,2963413,
-1bec1bbe-8fc4-11eb-924d-9cd76263cbd0,species,dalbergioides,Ougeinia,,Benth.,,,,,,,,wfo-0000186404,2967472,
-1bdffbae-8fc4-11eb-924d-9cd76263cbd0,species,oojeinensis,Ougeinia,,"(Roxb.) Hochr.",,,,,,abcb4bf2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000186403,2967471,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7c789f0-8fd1-11eb-924d-9cd76263cbd0,genus,Ougeinia,,,Benth.,,,,,,,,,,23104-1,wfo-4000027497,2963413,,
+1bec1bbe-8fc4-11eb-924d-9cd76263cbd0,species,dalbergioides,Ougeinia,,Benth.,,,,,,,,,,,wfo-0000186404,2967472,,
+1bdffbae-8fc4-11eb-924d-9cd76263cbd0,species,oojeinensis,Ougeinia,,"(Roxb.) Hochr.",,,,,,,,abcb4bf2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000186403,2967471,,

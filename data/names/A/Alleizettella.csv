@@ -1,12 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df18f5e6-8fd1-11eb-924d-9cd76263cbd0,genus,Alleizettella,,,Pit.,1923,"Fl. Indo-Chine 3: 278. 1923.",,,,,34118-1,wfo-4000001240,2909605,
-808ec4e6-8fcd-11eb-924d-9cd76263cbd0,species,leucocarpa,Alleizettella,,"(Champ. ex Benth.) Tirveng.",1983,"Nordic J. Bot. 3: 455 1983",,,,02e34694-8fcc-11eb-924d-9cd76263cbd0,911718-1,wfo-0000943493,2909607,
-808fdafc-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Alleizettella,,Pit.,1923,"Fl. Indo-Chine 3: 278 1923",,,,,743038-1,wfo-0000943503,2909606,
-48227756-8fcd-11eb-924d-9cd76263cbd0,species,urvillei,Allelotheca,,Steud.,1854,"Syn. Pl. Glumac. 1: 117 1854",,,,,386979-1,wfo-0000845345,4109589,
-809190a4-8fcd-11eb-924d-9cd76263cbd0,species,erythrocarpus,Allenanthus,,Standl.,1940,"Ann. Missouri Bot. Gard. 27: 344 1940",,,,,8546-2,wfo-0000943518,2907885,
-809273ac-8fcd-11eb-924d-9cd76263cbd0,species,hondurensis,Allenanthus,,Standl.,1950,"Ceiba 1: 45 1950",,,,,8547-2,wfo-0000943526,2907889,
-80953cd6-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Allenanthus,hondurensis,L.O.Williams,1973,"Phytologia 25: 461 1973",,,,,8548-2,wfo-0000943546,2907884,
-1b45516a-8fb2-11eb-924d-9cd76263cbd0,species,lanceolata,Allendea,,"La Llave",1824,"Nov. Veg. Descr. 1 10 1824",,,,,175908-1,wfo-0000011552,3120404,
-8098ae52-8fcd-11eb-924d-9cd76263cbd0,species,blackiana,Allenia,,"Ewart, Jean White & B.Rees",1909,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,wfo-0000943578,5823215,
-8099df48-8fcd-11eb-924d-9cd76263cbd0,variety,microphylla,Allenia,blackiana,"Ewart, Jean White & B.Rees",1909,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,wfo-0000943589,5380954,
-989c6a4e-8fcc-11eb-924d-9cd76263cbd0,species,urena,Allenia,,"(L.f.) E.Phillips",1944,"J. S. African Bot. 10: 33 1944",,,,,558744-1,wfo-0000525999,5617410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df18f5e6-8fd1-11eb-924d-9cd76263cbd0,genus,Alleizettella,,,Pit.,,1923,,"Fl. Indo-Chine 3: 278. 1923.",,,,,,34118-1,wfo-4000001240,2909605,,
+808ec4e6-8fcd-11eb-924d-9cd76263cbd0,species,leucocarpa,Alleizettella,,"(Champ. ex Benth.) Tirveng.",,1983,,"Nordic J. Bot. 3: 455 1983",,Q55761177,,02e34694-8fcc-11eb-924d-9cd76263cbd0,,911718-1,wfo-0000943493,2909607,,
+808fdafc-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Alleizettella,,Pit.,,1923,,"Fl. Indo-Chine 3: 278 1923",,,,,,743038-1,wfo-0000943503,2909606,,

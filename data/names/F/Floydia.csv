@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c2966a-8fd1-11eb-924d-9cd76263cbd0,genus,Floydia,,,"L.A.S.Johnson & B.G.Briggs",1975,"Bot. J. Linn. Soc. 70: 176. 1975.",,,,,32913-1,wfo-4000014878,3232572,
-fbbbe8ca-8fcc-11eb-924d-9cd76263cbd0,species,praealta,Floydia,,"(F.Muell.) L.A.S.Johnson & B.G.Briggs",1975,"Bot. J. Linn. Soc. 70: 176 1975",,,,0b29b4ae-8fcd-11eb-924d-9cd76263cbd0,703654-1,wfo-0000691431,5638129,
-21946c36-8fb2-11eb-924d-9cd76263cbd0,species,fritschi,Fluckigeria,,Rusby,1895,"Bull. Torrey Bot. Club xxi. (1895) 488",,,,,,wfo-0000012740,8393285,
-fbbc5878-8fcc-11eb-924d-9cd76263cbd0,species,fritschii,Fluckigeria,,Rusby,1895,"Bull. Torrey Bot. Club 21: 488 1895",,,,,310981-2,wfo-0000691433,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c2966a-8fd1-11eb-924d-9cd76263cbd0,genus,Floydia,,,"L.A.S.Johnson & B.G.Briggs",,1975,,"Bot. J. Linn. Soc. 70: 176. 1975.",,Q7091459,,,,32913-1,wfo-4000014878,3232572,,
+fbbbe8ca-8fcc-11eb-924d-9cd76263cbd0,species,praealta,Floydia,,"(F.Muell.) L.A.S.Johnson & B.G.Briggs",,1975,,"Bot. J. Linn. Soc. 70: 176 1975",,Q7091459,,0b29b4ae-8fcd-11eb-924d-9cd76263cbd0,,703654-1,wfo-0000691431,5638129,,
+21946c36-8fb2-11eb-924d-9cd76263cbd0,species,fritschi,Fluckigeria,,Rusby,,1895,,"Bull. Torrey Bot. Club xxi. (1895) 488",,,,,,,wfo-0000012740,8393285,,
+fbbc5878-8fcc-11eb-924d-9cd76263cbd0,species,fritschii,Fluckigeria,,Rusby,,1895,,"Bull. Torrey Bot. Club 21: 488 1895",,Q55766685,,,,310981-2,wfo-0000691433,,,

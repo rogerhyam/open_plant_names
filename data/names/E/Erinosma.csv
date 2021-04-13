@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36d09e8-8fd1-11eb-924d-9cd76263cbd0,genus,Erinosma,,,Herb.,1837,"Amaryllidaceae 63, 80, 330. 1837.",,,,,,wfo-4000013793,2860619,
-23820dd0-8fcd-11eb-924d-9cd76263cbd0,species,carpathica,Erinosma,,"(Sims) Herb.",1837,"Amaryllidaceae 331 1837",,,,,64305-1,wfo-0000766673,,
-b1615ea8-8fcd-11eb-924d-9cd76263cbd0,species,carpathicum,Erinosma,,Herb.,,,,,,,,wfo-0001046821,,
-238229c8-8fcd-11eb-924d-9cd76263cbd0,species,nebrodense,Erinosma,,Lojac.,1909,"Fl. Sicul. 3: 80 1909",,,,,,wfo-0000766674,2860416,
-2382458e-8fcd-11eb-924d-9cd76263cbd0,species,verna,Erinosma,,"(L.) Herb.",1837,"Amaryllidaceae 331 1837",,,,,64307-1,wfo-0000766675,2860410,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36d09e8-8fd1-11eb-924d-9cd76263cbd0,genus,Erinosma,,,Herb.,,1837,,"Amaryllidaceae 63, 80, 330. 1837.",,,,,,,wfo-4000013793,2860619,,
+23820dd0-8fcd-11eb-924d-9cd76263cbd0,species,carpathica,Erinosma,,"(Sims) Herb.",,1837,,"Amaryllidaceae 331 1837",,,,,,64305-1,wfo-0000766673,,,
+b1615ea8-8fcd-11eb-924d-9cd76263cbd0,species,carpathicum,Erinosma,,Herb.,,,,,,,,,,,wfo-0001046821,,,
+238229c8-8fcd-11eb-924d-9cd76263cbd0,species,nebrodense,Erinosma,,Lojac.,,1909,,"Fl. Sicul. 3: 80 1909",,,,,,,wfo-0000766674,2860416,,
+2382458e-8fcd-11eb-924d-9cd76263cbd0,species,verna,Erinosma,,"(L.) Herb.",,1837,,"Amaryllidaceae 331 1837",,,,,,64307-1,wfo-0000766675,2860410,,

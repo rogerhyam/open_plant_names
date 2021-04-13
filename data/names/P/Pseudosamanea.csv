@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9308d5a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosamanea,,,Harms,,,,,,,290970-2,wfo-4000031669,8107622,
-b72c11bc-8fd1-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & P.Wilson in Britton & Rose) Barneby & J.W.Grimes",1996,"Mem. New York Bot. Gard. 74(1): 116 1996",,,,b32f1bd0-8fcd-11eb-924d-9cd76263cbd0,1157070-2,wfo-0001237752,2974705,
-ac3f8862-8fc5-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & Rose) Barneby & J.W.",,,,,,,,wfo-0000194240,2974705,
-092855c4-8fc4-11eb-924d-9cd76263cbd0,species,guachapele,Pseudosamanea,,"(Kunth) Harms",,,,,,37669bd0-8fc4-11eb-924d-9cd76263cbd0,1176210-2,wfo-0000185990,2972923,
-fc4269aa-8fcb-11eb-924d-9cd76263cbd0,species,miquelii,Pseudosantalum,,"(Boerl.) Kuntze",1891,"Revis. Gen. Pl. 1: 271 1891",,,,,,wfo-0000284238,3037208,
-fc430554-8fcb-11eb-924d-9cd76263cbd0,species,umbelliferum,Pseudosantalum,,"(Lam.) Kuntze",1891,"Revis. Gen. Pl. 1: 271 1891",,,,,,wfo-0000284239,3037264,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9308d5a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosamanea,,,Harms,,,,,,Q96000024,,,,290970-2,wfo-4000031669,8107622,,
+b72c11bc-8fd1-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & P.Wilson in Britton & Rose) Barneby & J.W.Grimes",,1996,,"Mem. New York Bot. Gard. 74(1): 116 1996",,,,b32f1bd0-8fcd-11eb-924d-9cd76263cbd0,,1157070-2,wfo-0001237752,2974705,,
+ac3f8862-8fc5-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & Rose) Barneby & J.W.",,,,,,,,,,,wfo-0000194240,2974705,,
+092855c4-8fc4-11eb-924d-9cd76263cbd0,species,guachapele,Pseudosamanea,,"(Kunth) Harms",,,,,,,,37669bd0-8fc4-11eb-924d-9cd76263cbd0,,1176210-2,wfo-0000185990,2972923,,
+fc4269aa-8fcb-11eb-924d-9cd76263cbd0,species,miquelii,Pseudosantalum,,"(Boerl.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 271 1891",,,,,,,wfo-0000284238,3037208,,
+fc430554-8fcb-11eb-924d-9cd76263cbd0,species,umbelliferum,Pseudosantalum,,"(Lam.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 271 1891",,,,,,,wfo-0000284239,3037264,,

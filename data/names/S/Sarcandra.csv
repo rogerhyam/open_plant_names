@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9f16e08-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcandra,,,Gardner,1845,"Calcutta J. Nat. Hist. 6: 348. 1845.",,,,,7062-1,wfo-4000034005,7339063,
-64eba606-8fcc-11eb-924d-9cd76263cbd0,species,chloranthoides,Sarcandra,,Gardner,1845,"Calcutta J. Nat. Hist. 4: 348 1845",,,,,,wfo-0000438015,3750591,
-64ed1784-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Sarcandra,,"(Thunb.) Nakai",1930,"Fl. Sylv. Kor. 18: 17 1930",,,,,167899-1,wfo-0000438024,7339073,
-64ed3250-8fcc-11eb-924d-9cd76263cbd0,subspecies,brachystachys,Sarcandra,glabra,"(Blume) Verdc.",1985,"Kew Bull. 40: 216 1985",,,,c8ab49da-8fcc-11eb-924d-9cd76263cbd0,924491-1,wfo-0000438025,3750576,
-64ed5050-8fcc-11eb-924d-9cd76263cbd0,variety,melanocarpa,Sarcandra,glabra,"(Ridl.) Verdc.",1985,"Kew Bull. 40: 217 1985",,,,,924492-1,wfo-0000438026,3750568,
-64ed6dec-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Sarcandra,,"(Miq.) Subr. & A.N.Henry",1970,"Bull. Bot. Surv. India 12: 5 1970 publ. 1972",,,,,167900-1,wfo-0000438027,3750558,
-64eda6cc-8fcc-11eb-924d-9cd76263cbd0,species,hainanensis,Sarcandra,,"(C.Pei) Swamy & I.W.Bailey",1950,"J. Arnold Arbor. 31: 128 1950",,,,c8ae4cd4-8fcc-11eb-924d-9cd76263cbd0,167901-1,wfo-0000438028,7339066,
-64ede8e4-8fcc-11eb-924d-9cd76263cbd0,species,irvingbaileyi,Sarcandra,,Swamy,1953,"Proc. Natl. Inst. Sci. India, Pt. B, Biol. Sci. 19: 303 1953",,,,,167902-1,wfo-0000438030,3750526,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9f16e08-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcandra,,,Gardner,,1845,,"Calcutta J. Nat. Hist. 6: 348. 1845.",,,,,,7062-1,wfo-4000034005,7339063,,
+64eba606-8fcc-11eb-924d-9cd76263cbd0,species,chloranthoides,Sarcandra,,Gardner,,1845,,"Calcutta J. Nat. Hist. 4: 348 1845",,,,,,,wfo-0000438015,3750591,,
+64ed1784-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Sarcandra,,"(Thunb.) Nakai",,1930,,"Fl. Sylv. Kor. 18: 17 1930",,,,,,167899-1,wfo-0000438024,7339073,,
+64ed3250-8fcc-11eb-924d-9cd76263cbd0,subspecies,brachystachys,Sarcandra,glabra,"(Blume) Verdc.",,1985,,"Kew Bull. 40: 216 1985",,Q43219644,,c8ab49da-8fcc-11eb-924d-9cd76263cbd0,,924491-1,wfo-0000438025,3750576,,
+64ed5050-8fcc-11eb-924d-9cd76263cbd0,variety,melanocarpa,Sarcandra,glabra,"(Ridl.) Verdc.",,1985,,"Kew Bull. 40: 217 1985",,Q43219644,,,,924492-1,wfo-0000438026,3750568,,
+64ed6dec-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Sarcandra,,"(Miq.) Subr. & A.N.Henry",,1970,,"Bull. Bot. Surv. India 12: 5 1970 publ. 1972",,Q101074651,,,,167900-1,wfo-0000438027,3750558,,
+64eda6cc-8fcc-11eb-924d-9cd76263cbd0,species,hainanensis,Sarcandra,,"(C.Pei) Swamy & I.W.Bailey",,1950,,"J. Arnold Arbor. 31: 128 1950",,Q100550489,,c8ae4cd4-8fcc-11eb-924d-9cd76263cbd0,,167901-1,wfo-0000438028,7339066,,
+64ede8e4-8fcc-11eb-924d-9cd76263cbd0,species,irvingbaileyi,Sarcandra,,Swamy,,1953,,"Proc. Natl. Inst. Sci. India, Pt. B, Biol. Sci. 19: 303 1953",,,,,,167902-1,wfo-0000438030,3750526,,

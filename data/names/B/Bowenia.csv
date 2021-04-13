@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0bf8950-8fd1-11eb-924d-9cd76263cbd0,genus,Bowenia,,,Hook.,,"Bot. Mag. 89: pl. 5398. 1863.",,,,,13515-1,wfo-4000005149,2683194,
-b46badde-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Bowenia,,"(W.Bull) Chamb.",1912,"Bot. Gaz. 54: 419 1912",,,,b46c8204-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000570066,5284011,
-b46bc9d6-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Bowenia,,Hook.,,"Bot. Mag. 89: t. 5398 1863",,,,,296945-1,wfo-0000570067,5284014,
-b46be736-8fcc-11eb-924d-9cd76263cbd0,variety,serrata,Bowenia,spectabilis,F.M.Bailey,1883,"Syn. Queensl. Fl. 501 1883",,,,,66009-3,wfo-0000570068,5284013,
-b46c8204-8fcc-11eb-924d-9cd76263cbd0,variety,serrulata,Bowenia,spectabilis,W.Bull,1878,"Retail List New Beautiful Rare Pl. 5: 4 1878",,,,,,wfo-0000570070,5284012,
-461ed198-8fcd-11eb-924d-9cd76263cbd0,species,bowes-lyonii,,,Melderis,1960,"Grass. Burma, Ceylon, India & Pakistan 699 1960",,,,,400119-1,wfo-0000841076,,
-4619b050-8fcd-11eb-924d-9cd76263cbd0,species,bowes-lyonii,,,"(Melderis) Melderis",1970,"in Fl. Iran. 70: 243 1970",,,,461ed198-8fcd-11eb-924d-9cd76263cbd0,400094-1,wfo-0000841037,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0bf8950-8fd1-11eb-924d-9cd76263cbd0,genus,Bowenia,,,Hook.,,,,"Bot. Mag. 89: pl. 5398. 1863.",,,,,,13515-1,wfo-4000005149,2683194,,
+b46badde-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Bowenia,,"(W.Bull) Chamb.",,1912,,"Bot. Gaz. 54: 419 1912",,,,b46c8204-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000570066,5284011,,
+b46bc9d6-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Bowenia,,Hook.,,,,"Bot. Mag. 89: t. 5398 1863",,,,,,296945-1,wfo-0000570067,5284014,,
+b46be736-8fcc-11eb-924d-9cd76263cbd0,variety,serrata,Bowenia,spectabilis,F.M.Bailey,,1883,,"Syn. Queensl. Fl. 501 1883",,,,,,66009-3,wfo-0000570068,5284013,,
+b46c8204-8fcc-11eb-924d-9cd76263cbd0,variety,serrulata,Bowenia,spectabilis,W.Bull,,1878,,"Retail List New Beautiful Rare Pl. 5: 4 1878",,,,,,,wfo-0000570070,5284012,,
+4619b050-8fcd-11eb-924d-9cd76263cbd0,species,bowes-lyonii,,,"(Melderis) Melderis",,1970,,"in Fl. Iran. 70: 243 1970",,,,461ed198-8fcd-11eb-924d-9cd76263cbd0,,400094-1,wfo-0000841037,,,
+461ed198-8fcd-11eb-924d-9cd76263cbd0,species,bowes-lyonii,,,Melderis,,1960,,"Grass. Burma, Ceylon, India & Pakistan 699 1960",,,,,,400119-1,wfo-0000841076,,,

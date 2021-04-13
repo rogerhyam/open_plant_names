@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e82a8b7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pentapyxis,,,Hook.f.,1873,"Gen. Pl. 2: 2, 6. 1873.",,,,,,wfo-4000028624,7272466,
-43bf8312-8fcc-11eb-924d-9cd76263cbd0,species,glaucophylla,Pentapyxis,,"Hook.f. ex Gamble",1881,"Man. Ind. Timb. 217 1881",,,,,149266-1,wfo-0000395357,,
-d79e110c-8fd1-11eb-924d-9cd76263cbd0,species,stipulata,Pentapyxis,,"(Hook.f. & Thomson) Hook.f. ex C.B.Clarke",1880,"Fl. Brit. India 3(7): 17 1880",,,,afcf19dc-8fd1-11eb-924d-9cd76263cbd0,,wfo-0001290929,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e82a8b7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pentapyxis,,,Hook.f.,,1873,,"Gen. Pl. 2: 2, 6. 1873.",,,,,,,wfo-4000028624,7272466,,
+43bf8312-8fcc-11eb-924d-9cd76263cbd0,species,glaucophylla,Pentapyxis,,"Hook.f. ex Gamble",,1881,,"Man. Ind. Timb. 217 1881",,,,,,149266-1,wfo-0000395357,,,
+d79e110c-8fd1-11eb-924d-9cd76263cbd0,species,stipulata,Pentapyxis,,"(Hook.f. & Thomson) Hook.f. ex C.B.Clarke",,1880,,"Fl. Brit. India 3(7): 17 1880",,,,afcf19dc-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001290929,,,

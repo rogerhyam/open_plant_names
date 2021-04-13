@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e40ba2ec-8fd1-11eb-924d-9cd76263cbd0,genus,Globulinella,,,Steere,1946,"J. Wash. Acad. Sci. 36: 221. 1946.",,,,,,wfo-4000015763,2671845,
-e92bdb24-8fcd-11eb-924d-9cd76263cbd0,species,benoistii,Globulinella,,"(Thér.) Magill",1977,"Bryologist 80: 79 1977",,,,,,wfo-0001169521,2671846,
-eac1697c-8fcd-11eb-924d-9cd76263cbd0,species,globifera,Globulinella,,"(Hampe) Steere",1946,"J. Wash. Acad. Sci. 36: 221 1946",,,,ebf8b7be-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001172997,2671847,
-aa8b64a8-8fd1-11eb-924d-9cd76263cbd0,species,halloyi,Globulinella,,"Schiavone & G.M.Suarez",2009,"Bryologist 112: 584 2009",,,,,,wfo-0001214602,7626447,
-eac18768-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Globulinella,,"(R.S.Williams) Steere",1946,"J. Wash. Acad. Sci. 36: 222 1946",,,,,,wfo-0001172998,7873239,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e40ba2ec-8fd1-11eb-924d-9cd76263cbd0,genus,Globulinella,,,Steere,,1946,,"J. Wash. Acad. Sci. 36: 221. 1946.",,,,,,,wfo-4000015763,2671845,,
+e92bdb24-8fcd-11eb-924d-9cd76263cbd0,species,benoistii,Globulinella,,"(Thér.) Magill",,1977,,"Bryologist 80: 79 1977",,,,,,,wfo-0001169521,2671846,,
+eac1697c-8fcd-11eb-924d-9cd76263cbd0,species,globifera,Globulinella,,"(Hampe) Steere",,1946,,"J. Wash. Acad. Sci. 36: 221 1946",,,,ebf8b7be-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001172997,2671847,,
+aa8b64a8-8fd1-11eb-924d-9cd76263cbd0,species,halloyi,Globulinella,,"Schiavone & G.M.Suarez",,2009,,"Bryologist 112: 584 2009",,,,,,,wfo-0001214602,7626447,,
+eac18768-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Globulinella,,"(R.S.Williams) Steere",,1946,,"J. Wash. Acad. Sci. 36: 222 1946",,,,,,,wfo-0001172998,7873239,,

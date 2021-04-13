@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e77f8718-8fd1-11eb-924d-9cd76263cbd0,genus,Oestlundia,,,W.E.Higgins,2001,"Selbyana 22(1): 1–4, f. 1–2. 2001.",,,,,20005438-1,wfo-4000026664,2832174,
-7cd4c752-8fcc-11eb-924d-9cd76263cbd0,species,cyanocolumna,Oestlundia,,"(Ames, F.T.Hubb. & C.Schweinf.) W.E.Higgins",2001,"Selbyana 22: 4 2001",,,,8375a90e-8fcd-11eb-924d-9cd76263cbd0,20005439-1,wfo-0000478929,5321278,
-7cd5506e-8fcc-11eb-924d-9cd76263cbd0,species,distantiflora,Oestlundia,,"(A.Rich. & Galeotti) W.E.Higgins",2001,"Selbyana 22: 4 2001",,,,,20005440-1,wfo-0000478934,5321271,
-6fdae774-8fcd-11eb-924d-9cd76263cbd0,species,ligulata,Oestlundia,,"(La Llave & Lex.) Soto Arenas",,"Icon. Orchid. 10: t. 1057 2008",,,,,77100804-1,wfo-0000913539,5952220,
-7cd5f8ac-8fcc-11eb-924d-9cd76263cbd0,species,luteorosea,Oestlundia,,"(A.Rich. & Galeotti) W.E.Higgins",2001,"Selbyana 22: 4 2001",,,,,20005441-1,wfo-0000478940,5321275,
-7cd7178c-8fcc-11eb-924d-9cd76263cbd0,species,tenuissima,Oestlundia,,"(Ames, F.T.Hubb. & C.Schweinf.) W.E.Higgins",2001,"Selbyana 22: 4 2001",,,,,20005442-1,wfo-0000478947,5321273,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e77f8718-8fd1-11eb-924d-9cd76263cbd0,genus,Oestlundia,,,W.E.Higgins,,2001,,"Selbyana 22(1): 1–4, f. 1–2. 2001.",,Q91187659,,,,20005438-1,wfo-4000026664,2832174,,
+7cd4c752-8fcc-11eb-924d-9cd76263cbd0,species,cyanocolumna,Oestlundia,,"(Ames, F.T.Hubb. & C.Schweinf.) W.E.Higgins",,2001,,"Selbyana 22: 4 2001",,Q91187659,,8375a90e-8fcd-11eb-924d-9cd76263cbd0,,20005439-1,wfo-0000478929,5321278,,
+7cd5506e-8fcc-11eb-924d-9cd76263cbd0,species,distantiflora,Oestlundia,,"(A.Rich. & Galeotti) W.E.Higgins",,2001,,"Selbyana 22: 4 2001",,Q91187659,,,,20005440-1,wfo-0000478934,5321271,,
+6fdae774-8fcd-11eb-924d-9cd76263cbd0,species,ligulata,Oestlundia,,"(La Llave & Lex.) Soto Arenas",,,,"Icon. Orchid. 10: t. 1057 2008",,,,,,77100804-1,wfo-0000913539,5952220,,
+7cd5f8ac-8fcc-11eb-924d-9cd76263cbd0,species,luteorosea,Oestlundia,,"(A.Rich. & Galeotti) W.E.Higgins",,2001,,"Selbyana 22: 4 2001",,Q91187659,,,,20005441-1,wfo-0000478940,5321275,,
+7cd7178c-8fcc-11eb-924d-9cd76263cbd0,species,tenuissima,Oestlundia,,"(Ames, F.T.Hubb. & C.Schweinf.) W.E.Higgins",,2001,,"Selbyana 22: 4 2001",,Q91187659,,,,20005442-1,wfo-0000478947,5321273,,

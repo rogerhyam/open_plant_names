@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e65320f2-8fd1-11eb-924d-9cd76263cbd0,genus,Mangonia,,,Schott,1857,"Oesterr. Bot. Wochenbl. 7: 77. 1857.",,,,,2841-1,wfo-4000023037,2866701,
-de6ee516-8fcb-11eb-924d-9cd76263cbd0,species,tweedieana,Mangonia,,Schott,1857,"Oesterr. Bot. Wochenbl. 7: 77 1857",,,,,87439-1,wfo-0000235392,2866702,
-de6f0e9c-8fcb-11eb-924d-9cd76263cbd0,species,uruguaya,Mangonia,,"(Hicken) Bogner",1973,"Darwiniana 18: 70 1973",,,,8b0cc206-8fcd-11eb-924d-9cd76263cbd0,152343-2,wfo-0000235393,2866703,
-3597878a-8fcc-11eb-924d-9cd76263cbd0,species,cambogia,Mangostana,,Gaertn.,1790,"Fruct. Sem. Pl. 2: 106 1790",,,,,428789-1,wfo-0000376569,3711445,
-da8c3c9a-8fd1-11eb-924d-9cd76263cbd0,species,garcinia,Mangostana,,Gaertn.,1791,"Fruct. Sem. Pl. 2: 105 1791",,,,,428790-1,wfo-0001296240,3712629,
-3597c4de-8fcc-11eb-924d-9cd76263cbd0,species,morella,Mangostana,,Gaertn.,1790,"Fruct. Sem. Pl. 2: 106 1790",,,,,428791-1,wfo-0000376571,8635795,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e65320f2-8fd1-11eb-924d-9cd76263cbd0,genus,Mangonia,,,Schott,,1857,,"Oesterr. Bot. Wochenbl. 7: 77. 1857.",,,,,,2841-1,wfo-4000023037,2866701,,
+de6ee516-8fcb-11eb-924d-9cd76263cbd0,species,tweedieana,Mangonia,,Schott,,1857,,"Oesterr. Bot. Wochenbl. 7: 77 1857",,,,,,87439-1,wfo-0000235392,2866702,,
+de6f0e9c-8fcb-11eb-924d-9cd76263cbd0,species,uruguaya,Mangonia,,"(Hicken) Bogner",,1973,,"Darwiniana 18: 70 1973",,Q104174790,,8b0cc206-8fcd-11eb-924d-9cd76263cbd0,,152343-2,wfo-0000235393,2866703,,
+3597878a-8fcc-11eb-924d-9cd76263cbd0,species,cambogia,Mangostana,,Gaertn.,,1790,,"Fruct. Sem. Pl. 2: 106 1790",,,,,,428789-1,wfo-0000376569,3711445,,
+da8c3c9a-8fd1-11eb-924d-9cd76263cbd0,species,garcinia,Mangostana,,Gaertn.,,1791,,"Fruct. Sem. Pl. 2: 105 1791",,,,,,428790-1,wfo-0001296240,3712629,,
+3597c4de-8fcc-11eb-924d-9cd76263cbd0,species,morella,Mangostana,,Gaertn.,,1790,,"Fruct. Sem. Pl. 2: 106 1790",,,,,,428791-1,wfo-0000376571,8635795,,

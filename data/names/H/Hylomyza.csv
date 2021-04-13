@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4f62ee8-8fd1-11eb-924d-9cd76263cbd0,genus,Hylomyza,,,Danser,1940,"Nova Guinea ser. 2. 4: 141. 1940.",,,,,36202-1,wfo-4000018623,3788934,
-101b8924-8fcd-11eb-924d-9cd76263cbd0,species,euryphylla,Hylomyza,,Danser,1940,"Nova Guinea n.s., 4: 144 1940",,,,,780283-1,wfo-0000726925,3789422,
-101bb926-8fcd-11eb-924d-9cd76263cbd0,species,granulata,Hylomyza,,"(A.DC.) Danser",1940,"Nova Guinea n.s., 4: 145 1940",,,,,780284-1,wfo-0000726926,3789417,
-101bdd34-8fcd-11eb-924d-9cd76263cbd0,species,oocarpa,Hylomyza,,Danser,1940,"Nova Guinea n.s., 4: 143 1940",,,,,780285-1,wfo-0000726927,3789410,
-101bf8be-8fcd-11eb-924d-9cd76263cbd0,species,oresitropha,Hylomyza,,Danser,1940,"Nova Guinea n.s., 4: 143 1940",,,,,780286-1,wfo-0000726928,3789404,
-101c242e-8fcd-11eb-924d-9cd76263cbd0,species,platyphylla,Hylomyza,,"(Spreng.) Danser",1940,"Nova Guinea n.s., 4: 145 1940",,,,,780287-1,wfo-0000726929,3789396,
-101c45da-8fcd-11eb-924d-9cd76263cbd0,species,sphaerocarpa,Hylomyza,,Danser,1940,"Nova Guinea n.s., 4: 142 1940",,,,,780288-1,wfo-0000726930,3789390,
-ed840af8-8fcc-11eb-924d-9cd76263cbd0,species,reticulata,Hylonome,,"(Thunb.) Webb & Berthel.",1846,"Hist. Nat. Iles Canaries 2(3): 320 1846",,,,,,wfo-0000666229,2781146,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4f62ee8-8fd1-11eb-924d-9cd76263cbd0,genus,Hylomyza,,,Danser,,1940,,"Nova Guinea ser. 2. 4: 141. 1940.",,,,,,36202-1,wfo-4000018623,3788934,,
+101b8924-8fcd-11eb-924d-9cd76263cbd0,species,euryphylla,Hylomyza,,Danser,,1940,,"Nova Guinea n.s., 4: 144 1940",,,,,,780283-1,wfo-0000726925,3789422,,
+101bb926-8fcd-11eb-924d-9cd76263cbd0,species,granulata,Hylomyza,,"(A.DC.) Danser",,1940,,"Nova Guinea n.s., 4: 145 1940",,,,,,780284-1,wfo-0000726926,3789417,,
+101bdd34-8fcd-11eb-924d-9cd76263cbd0,species,oocarpa,Hylomyza,,Danser,,1940,,"Nova Guinea n.s., 4: 143 1940",,,,,,780285-1,wfo-0000726927,3789410,,
+101bf8be-8fcd-11eb-924d-9cd76263cbd0,species,oresitropha,Hylomyza,,Danser,,1940,,"Nova Guinea n.s., 4: 143 1940",,,,,,780286-1,wfo-0000726928,3789404,,
+101c242e-8fcd-11eb-924d-9cd76263cbd0,species,platyphylla,Hylomyza,,"(Spreng.) Danser",,1940,,"Nova Guinea n.s., 4: 145 1940",,,,,,780287-1,wfo-0000726929,3789396,,
+101c45da-8fcd-11eb-924d-9cd76263cbd0,species,sphaerocarpa,Hylomyza,,Danser,,1940,,"Nova Guinea n.s., 4: 142 1940",,,,,,780288-1,wfo-0000726930,3789390,,
+ed840af8-8fcc-11eb-924d-9cd76263cbd0,species,reticulata,Hylonome,,"(Thunb.) Webb & Berthel.",,1846,,"Hist. Nat. Iles Canaries 2(3): 320 1846",,,,,,,wfo-0000666229,2781146,,

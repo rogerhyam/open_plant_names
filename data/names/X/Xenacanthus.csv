@@ -1,9 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec2181fe-8fd1-11eb-924d-9cd76263cbd0,genus,Xenacanthus,,,Bremek.,1944,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 41(1): 176. 1944.",,,,,,wfo-4000040910,7263362,
-5d9017d4-8fcc-11eb-924d-9cd76263cbd0,species,heteromallus,Xenacanthus,,"(T.Anderson ex C.B.Clarke) Bremek.",1944,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,,56578-1,wfo-0000428163,5573337,
-5d8fed0e-8fcc-11eb-924d-9cd76263cbd0,species,leschenaultianus,Xenacanthus,,"(Nees) Bremek.",1944,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,,56579-1,wfo-0000428162,5573335,
-5d8fc45a-8fcc-11eb-924d-9cd76263cbd0,species,pulneyensis,Xenacanthus,,"(C.B.Clarke) Bremek.",1944,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,61460280-8fcc-11eb-924d-9cd76263cbd0,56580-1,wfo-0000428161,5573334,
-ade12d8a-8fcd-11eb-924d-9cd76263cbd0,species,zenkerianus,Xenacanthus,,"(Nees) Bremek.",1944,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 41(1): 176 1944",,,,,56581-1,wfo-0001038883,5573331,
-5dac886a-8fcc-11eb-924d-9cd76263cbd0,species,vulcanensis,Xenia,,"(Añon) Gerbaulet",1992,"Bot. Jahrb. Syst. 113: 552 1992",,,,9cbfe394-8fcc-11eb-924d-9cd76263cbd0,963764-1,wfo-0000428343,7934774,
-1c620690-8fcd-11eb-924d-9cd76263cbd0,species,umbellatum,Xeniatrum,,"(Torr.) Salisb.",1866,"Gen. Pl. 58 1866",,,,f2f001cc-8fcc-11eb-924d-9cd76263cbd0,543602-1,wfo-0000751975,2753564,
-1d2a594c-8fcd-11eb-924d-9cd76263cbd0,species,umbellulatum,Xeniatrum,,"(Michx.) Small",1933,"Man. S.E. Fl. 296 1933",,,,,269426-2,wfo-0000753581,2753557,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec2181fe-8fd1-11eb-924d-9cd76263cbd0,genus,Xenacanthus,,,Bremek.,,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 41(1): 176. 1944.",,,,,,,wfo-4000040910,7263362,,
+5d9017d4-8fcc-11eb-924d-9cd76263cbd0,species,heteromallus,Xenacanthus,,"(T.Anderson ex C.B.Clarke) Bremek.",,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,,,56578-1,wfo-0000428163,5573337,,
+5d8fed0e-8fcc-11eb-924d-9cd76263cbd0,species,leschenaultianus,Xenacanthus,,"(Nees) Bremek.",,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,,,56579-1,wfo-0000428162,5573335,,
+5d8fc45a-8fcc-11eb-924d-9cd76263cbd0,species,pulneyensis,Xenacanthus,,"(C.B.Clarke) Bremek.",,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 176 1944",,,,61460280-8fcc-11eb-924d-9cd76263cbd0,,56580-1,wfo-0000428161,5573334,,
+ade12d8a-8fcd-11eb-924d-9cd76263cbd0,species,zenkerianus,Xenacanthus,,"(Nees) Bremek.",,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Tweede Sect. 41(1): 176 1944",,,,,,56581-1,wfo-0001038883,5573331,,

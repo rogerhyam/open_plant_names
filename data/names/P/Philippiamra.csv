@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e85fae92-8fd1-11eb-924d-9cd76263cbd0,genus,Philippiamra,,,,,,,,,,,wfo-4000029220,7288854,
-cb5c5650-8fcd-11eb-924d-9cd76263cbd0,species,amaranthoides,Philippiamra,,Kuntze,1891,"Revis. Gen. Pl. 1891",,,,,,wfo-0001105084,,
-82fad19e-8fcc-11eb-924d-9cd76263cbd0,species,amarantodes,Philippiamra,,Kuntze,1891,"Revis. Gen. Pl. 1: 58 1891",,,,,192945-2,wfo-0000489479,4022450,
-cb5c71f8-8fcd-11eb-924d-9cd76263cbd0,species,celosioides,Philippiamra,,Kuntze,1891,"Revis. Gen. Pl. 1891",,,,,,wfo-0001105085,8048786,
-82fab100-8fcc-11eb-924d-9cd76263cbd0,species,corrigiolodes,Philippiamra,,Kuntze,1891,"Revis. Gen. Pl. 1: 58 1891",,,,,192947-2,wfo-0000489478,4022431,
-cb5c8ddc-8fcd-11eb-924d-9cd76263cbd0,species,fastigiata,Philippiamra,,"(Phil.) Pax & K.Hoffm.",1934,"Nat. Pflanzenfam. (ed. 2) 16: 261 1934",,,,,192948-2,wfo-0001105086,4022414,
-cb5864fa-8fcd-11eb-924d-9cd76263cbd0,species,pachyphylla,Philippiamra,,"(Phil.) Kuntze",1891,"Revis. Gen. Pl. 1: 58 1891",,,,,192949-2,wfo-0001105042,4022405,
-45f1eae4-8fcc-11eb-924d-9cd76263cbd0,species,castaneus,Philippicereus,,"(K.Schum.) Backeb.",1941,"Cactaceae (Berlin) 1941(2): 29 1942",,,,,137551-1,wfo-0000397829,3943125,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e85fae92-8fd1-11eb-924d-9cd76263cbd0,genus,Philippiamra,,,,,,,,,,,,,,wfo-4000029220,7288854,,
+cb5c5650-8fcd-11eb-924d-9cd76263cbd0,species,amaranthoides,Philippiamra,,Kuntze,,1891,,"Revis. Gen. Pl. 1891",,,,,,,wfo-0001105084,,,
+82fad19e-8fcc-11eb-924d-9cd76263cbd0,species,amarantodes,Philippiamra,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 58 1891",,,,,,192945-2,wfo-0000489479,4022450,,
+cb5c71f8-8fcd-11eb-924d-9cd76263cbd0,species,celosioides,Philippiamra,,Kuntze,,1891,,"Revis. Gen. Pl. 1891",,,,,,,wfo-0001105085,8048786,,
+82fab100-8fcc-11eb-924d-9cd76263cbd0,species,corrigiolodes,Philippiamra,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 58 1891",,,,,,192947-2,wfo-0000489478,4022431,,
+cb5c8ddc-8fcd-11eb-924d-9cd76263cbd0,species,fastigiata,Philippiamra,,"(Phil.) Pax & K.Hoffm.",,1934,,"Nat. Pflanzenfam. (ed. 2) 16: 261 1934",,,,,,192948-2,wfo-0001105086,4022414,,
+cb5864fa-8fcd-11eb-924d-9cd76263cbd0,species,pachyphylla,Philippiamra,,"(Phil.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 58 1891",,,,,,192949-2,wfo-0001105042,4022405,,
+45f1eae4-8fcc-11eb-924d-9cd76263cbd0,species,castaneus,Philippicereus,,"(K.Schum.) Backeb.",,1941,,"Cactaceae (Berlin) 1941(2): 29 1942",,,,,,137551-1,wfo-0000397829,3943125,,

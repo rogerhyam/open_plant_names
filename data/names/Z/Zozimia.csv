@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec3e8e34-8fd1-11eb-924d-9cd76263cbd0,genus,Zozimia,,,,,,,,,,,wfo-4000041294,6027085,
-5e54253e-8fcc-11eb-924d-9cd76263cbd0,species,pamirica,Zozimia,,"Lipsky ex Paulsen",1903,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1903: 143 1903",,,,,,wfo-0000429174,3638551,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec3e8e34-8fd1-11eb-924d-9cd76263cbd0,genus,Zozimia,,,,,,,,,,,,,,wfo-4000041294,6027085,,
+5e54253e-8fcc-11eb-924d-9cd76263cbd0,species,pamirica,Zozimia,,"Lipsky ex Paulsen",,1903,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1903: 143 1903",,,,,,,wfo-0000429174,3638551,,

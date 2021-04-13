@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebda8894-8fd1-11eb-924d-9cd76263cbd0,genus,Vania,,,F.K.Mey.,1973,"Feddes Repert. 84: 467. 1973.",,,,,,wfo-4000040012,9365517,
-acf04a0a-8fcd-11eb-924d-9cd76263cbd0,species,campylophylla,Vania,,F.K.Mey.,1973,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,,,,290983-1,wfo-0001036734,5375918,
-ad240ae8-8fcd-11eb-924d-9cd76263cbd0,species,kurdica,Vania,,"(Hedge) F.K.Mey.",1973,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,,,,290984-1,wfo-0001037194,5377147,
-acf06652-8fcd-11eb-924d-9cd76263cbd0,species,pulvinata,Vania,,F.K.Mey.,1973,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,,,,290985-1,wfo-0001036735,5377148,
-1984c9a8-8fcd-11eb-924d-9cd76263cbd0,species,trinervia,Vania,,"(DC.) Khosravi, Jacquemoud, Menke, Mumm. & Mohsenz.",2009,"Ann. Missouri Bot. Gard. 96: 570 2009",,,,,77104866-1,wfo-0000746004,8232797,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebda8894-8fd1-11eb-924d-9cd76263cbd0,genus,Vania,,,F.K.Mey.,,1973,,"Feddes Repert. 84: 467. 1973.",,,,,,,wfo-4000040012,9365517,,
+acf04a0a-8fcd-11eb-924d-9cd76263cbd0,species,campylophylla,Vania,,F.K.Mey.,,1973,,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,Q54764362,,,,290983-1,wfo-0001036734,5375918,,
+ad240ae8-8fcd-11eb-924d-9cd76263cbd0,species,kurdica,Vania,,"(Hedge) F.K.Mey.",,1973,,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,Q54764362,,,,290984-1,wfo-0001037194,5377147,,
+acf06652-8fcd-11eb-924d-9cd76263cbd0,species,pulvinata,Vania,,F.K.Mey.,,1973,,"Explor. Sci. Tunisie, Ill. Bot. 84: 467 1973",,Q54764362,,,,290985-1,wfo-0001036735,5377148,,
+1984c9a8-8fcd-11eb-924d-9cd76263cbd0,species,trinervia,Vania,,"(DC.) Khosravi, Jacquemoud, Menke, Mumm. & Mohsenz.",,2009,,"Ann. Missouri Bot. Gard. 96: 570 2009",,Q55791311,,,,77104866-1,wfo-0000746004,8232797,,

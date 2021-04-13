@@ -1,9 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e63e1cb6-8fd1-11eb-924d-9cd76263cbd0,genus,Macrosporiella,,,"Dixon & Thér.",1936,"J. Jap. Bot. 74: 2. 1936.",,,,,,wfo-4000022777,4909292,
-ec40428c-8fcd-11eb-924d-9cd76263cbd0,species,dozyoides,Macrosporiella,,"(Broth. & Paris) Nog.",1947,"J. Hattori Bot. Lab. 2: 47 1947",,,,e63e6468-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001176027,7552153,
-ec407b4e-8fcd-11eb-924d-9cd76263cbd0,variety,homomalla,Macrosporiella,dozyoides,Nog.,1947,"J. Hattori Bot. Lab. 2: 48 1947",,,,,,wfo-0001176028,8181044,
-ec40a57e-8fcd-11eb-924d-9cd76263cbd0,species,gigantea,Macrosporiella,,Nog.,1947,"J. Hattori Bot. Lab. 2: 48. f. 10 1947",,,,,,wfo-0001176029,8195155,
-ec40c3a6-8fcd-11eb-924d-9cd76263cbd0,species,sapporensis,Macrosporiella,,"(Besch.) Nog.",1947,"J. Hattori Bot. Lab. 2: 47. 3 f. 5 1947",,,,e643dcea-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001176030,8384667,
-ec40defe-8fcd-11eb-924d-9cd76263cbd0,species,scabriseta,Macrosporiella,,"Dixon & Thér.",1936,"J. Bot. 74: 2. pl. 2 1936",,,,,,wfo-0001176031,8042834,
-d2136e26-8fd1-11eb-924d-9cd76263cbd0,species,erubescens,Macrostegia,,Turcz.,1852,"Bull. Soc. Imp. Naturalistes Moscou 25(2): 178 1852",,,,,832243-1,wfo-0001282675,5523775,
-74617994-8fcc-11eb-924d-9cd76263cbd0,species,ruiziana,Macrostegia,,Nees,1847,"Prodr. 11: 219 1847",,,,,52263-1,wfo-0000464696,5605454,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e63e1cb6-8fd1-11eb-924d-9cd76263cbd0,genus,Macrosporiella,,,"Dixon & Thér.",,1936,,"J. Jap. Bot. 74: 2. 1936.",,,,,,,wfo-4000022777,4909292,,
+ec40428c-8fcd-11eb-924d-9cd76263cbd0,species,dozyoides,Macrosporiella,,"(Broth. & Paris) Nog.",,1947,,"J. Hattori Bot. Lab. 2: 47 1947",,,,e63e6468-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001176027,7552153,,
+ec407b4e-8fcd-11eb-924d-9cd76263cbd0,variety,homomalla,Macrosporiella,dozyoides,Nog.,,1947,,"J. Hattori Bot. Lab. 2: 48 1947",,,,,,,wfo-0001176028,8181044,,
+ec40a57e-8fcd-11eb-924d-9cd76263cbd0,species,gigantea,Macrosporiella,,Nog.,,1947,,"J. Hattori Bot. Lab. 2: 48. f. 10 1947",,,,,,,wfo-0001176029,8195155,,
+ec40c3a6-8fcd-11eb-924d-9cd76263cbd0,species,sapporensis,Macrosporiella,,"(Besch.) Nog.",,1947,,"J. Hattori Bot. Lab. 2: 47. 3 f. 5 1947",,,,e643dcea-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001176030,8384667,,
+ec40defe-8fcd-11eb-924d-9cd76263cbd0,species,scabriseta,Macrosporiella,,"Dixon & Thér.",,1936,,"J. Bot. 74: 2. pl. 2 1936",,,,,,,wfo-0001176031,8042834,,

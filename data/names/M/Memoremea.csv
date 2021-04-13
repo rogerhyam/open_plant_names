@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec63d662-8fd1-11eb-924d-9cd76263cbd0,genus,Memoremea,,,"A.Otero, Jim.Mejías, Valcárcel & P.Vargas",2014,"Phytotaxa 173: 266 (2014)",,,,,77141831-1,wfo-4001303322,8761948,
-1fd99464-8fcd-11eb-924d-9cd76263cbd0,species,memoria-corsii,,,"(Ragion.) H.E.Moore",1975,"Baileya 19: 163 1975",,,,e04a4028-8fcc-11eb-924d-9cd76263cbd0,62653-1,wfo-0000759395,,
-e04a4028-8fcc-11eb-924d-9cd76263cbd0,species,memoria-corsii,,,Ragion.,1921,"Gard. Chron. III, 69: 32 1921",,,,,,wfo-0000643851,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec63d662-8fd1-11eb-924d-9cd76263cbd0,genus,Memoremea,,,"A.Otero, Jim.Mejías, Valcárcel & P.Vargas",,2014,,"Phytotaxa 173: 266 (2014)",,Q23088520,,,,77141831-1,wfo-4001303322,8761948,,
+1fd99464-8fcd-11eb-924d-9cd76263cbd0,species,memoria-corsii,,,"(Ragion.) H.E.Moore",,1975,,"Baileya 19: 163 1975",,,,e04a4028-8fcc-11eb-924d-9cd76263cbd0,,62653-1,wfo-0000759395,,,
+e04a4028-8fcc-11eb-924d-9cd76263cbd0,species,memoria-corsii,,,Ragion.,,1921,,"Gard. Chron. III, 69: 32 1921",,,,,,,wfo-0000643851,,,

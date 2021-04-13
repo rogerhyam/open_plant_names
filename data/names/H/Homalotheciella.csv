@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4d40908-8fd1-11eb-924d-9cd76263cbd0,genus,Homalotheciella,,,"(Cardot) Broth.",,"Nat. Pflanzenfam. 232/233[I,3]: 1133. 1908.",,,,,,wfo-4000018170,2680040,
-f561c98a-8fcd-11eb-924d-9cd76263cbd0,species,fabronifolia,Homalotheciella,,"(Grout) Broth.",,"Nat. Pflanzenfam. I(3): 1133 1908",,,,ecfaa1a4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001194457,8274007,
-f561e76c-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Homalotheciella,,"Cardot & Thér.",1911,"Bull. Géogr. Bot. 21: 271 1911",,,,,,wfo-0001194458,2680043,
-f5620210-8fcd-11eb-924d-9cd76263cbd0,species,subcapillata,Homalotheciella,,"(Hedw.) Broth.",,"Nat. Pflanzenfam. I(3): 1133. 802 1908",,,,,,wfo-0001194459,2680042,
-f56221d2-8fcd-11eb-924d-9cd76263cbd0,species,tenerrima,Homalotheciella,,"(Müll.Hal.) E.B.Bartram",1949,"Fieldiana, Bot. 25: 352 1949",,,,,,wfo-0001194460,2680041,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4d40908-8fd1-11eb-924d-9cd76263cbd0,genus,Homalotheciella,,,"(Cardot) Broth.",,,,"Nat. Pflanzenfam. 232/233[I,3]: 1133. 1908.",,,,,,,wfo-4000018170,2680040,,
+f561c98a-8fcd-11eb-924d-9cd76263cbd0,species,fabronifolia,Homalotheciella,,"(Grout) Broth.",,,,"Nat. Pflanzenfam. I(3): 1133 1908",,,,ecfaa1a4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001194457,8274007,,
+f561e76c-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Homalotheciella,,"Cardot & Thér.",,1911,,"Bull. Géogr. Bot. 21: 271 1911",,,,,,,wfo-0001194458,2680043,,
+f5620210-8fcd-11eb-924d-9cd76263cbd0,species,subcapillata,Homalotheciella,,"(Hedw.) Broth.",,,,"Nat. Pflanzenfam. I(3): 1133. 802 1908",,,,,,,wfo-0001194459,2680042,,
+f56221d2-8fcd-11eb-924d-9cd76263cbd0,species,tenerrima,Homalotheciella,,"(Müll.Hal.) E.B.Bartram",,1949,,"Fieldiana, Bot. 25: 352 1949",,,,,,,wfo-0001194460,2680041,,

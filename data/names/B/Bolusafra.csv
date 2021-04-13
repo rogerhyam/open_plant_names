@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e054dbb4-8fd1-11eb-924d-9cd76263cbd0,genus,Bolusafra,,,Kuntze,,,,,,,21823-1,wfo-4000004933,2950718,
-27e3a41a-8fc3-11eb-924d-9cd76263cbd0,species,bituminosa,Bolusafra,,"(L.) Kuntze",,,,,,,,wfo-0000181309,2958159,
-b34d5d1c-8fcc-11eb-924d-9cd76263cbd0,species,tugwelliae,Bolusanthemum,,"(L.Bolus) Schwantes",1928,"Gartenwelt 32: 514 1928",,,,,360755-1,wfo-0000568292,3703985,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e054dbb4-8fd1-11eb-924d-9cd76263cbd0,genus,Bolusafra,,,Kuntze,,,,,,,,,,21823-1,wfo-4000004933,2950718,,
+27e3a41a-8fc3-11eb-924d-9cd76263cbd0,species,bituminosa,Bolusafra,,"(L.) Kuntze",,,,,,,,,,,wfo-0000181309,2958159,,
+b34d5d1c-8fcc-11eb-924d-9cd76263cbd0,species,tugwelliae,Bolusanthemum,,"(L.Bolus) Schwantes",,1928,,"Gartenwelt 32: 514 1928",,,,,,360755-1,wfo-0000568292,3703985,,

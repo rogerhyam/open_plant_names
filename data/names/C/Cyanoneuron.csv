@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e24cfe56-8fd1-11eb-924d-9cd76263cbd0,genus,Cyanoneuron,,,Tange,1998,"Nordic J. Bot. 18(2): 147. 1998.",,,,,1001902-1,wfo-4000010158,2896896,
-7c3115c0-8fcd-11eb-924d-9cd76263cbd0,species,cyaneum,Cyanoneuron,,"(Hallier f.) Tange",1998,"Nordic J. Bot. 18: 148 1998",,,,e5cba27c-8fcb-11eb-924d-9cd76263cbd0,1001903-1,wfo-0000933734,2896900,
-7c3133ac-8fcd-11eb-924d-9cd76263cbd0,species,depauperatum,Cyanoneuron,,"(Merr.) Tange",1998,"Nordic J. Bot. 18: 152 1998",,,,,1001905-1,wfo-0000933735,2896897,
-7c314f90-8fcd-11eb-924d-9cd76263cbd0,species,grandiflorum,Cyanoneuron,,Tange,1998,"Nordic J. Bot. 18: 153 1998",,,,,1001906-1,wfo-0000933736,2896899,
-7c31696c-8fcd-11eb-924d-9cd76263cbd0,species,pedunculatum,Cyanoneuron,,Tange,1998,"Nordic J. Bot. 18: 153 1998",,,,,1001907-1,wfo-0000933737,2896906,
-7c319ed2-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Cyanoneuron,,"(Valeton) Tange",1998,"Nordic J. Bot. 18: 151 1998",,,,,1001904-1,wfo-0000933739,2896902,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e24cfe56-8fd1-11eb-924d-9cd76263cbd0,genus,Cyanoneuron,,,Tange,,1998,,"Nordic J. Bot. 18(2): 147. 1998.",,Q55761769,,,,1001902-1,wfo-4000010158,2896896,,
+7c3115c0-8fcd-11eb-924d-9cd76263cbd0,species,cyaneum,Cyanoneuron,,"(Hallier f.) Tange",,1998,,"Nordic J. Bot. 18: 148 1998",,Q55761769,,e5cba27c-8fcb-11eb-924d-9cd76263cbd0,,1001903-1,wfo-0000933734,2896900,,
+7c3133ac-8fcd-11eb-924d-9cd76263cbd0,species,depauperatum,Cyanoneuron,,"(Merr.) Tange",,1998,,"Nordic J. Bot. 18: 152 1998",,Q55761769,,,,1001905-1,wfo-0000933735,2896897,,
+7c314f90-8fcd-11eb-924d-9cd76263cbd0,species,grandiflorum,Cyanoneuron,,Tange,,1998,,"Nordic J. Bot. 18: 153 1998",,Q55761769,,,,1001906-1,wfo-0000933736,2896899,,
+7c31696c-8fcd-11eb-924d-9cd76263cbd0,species,pedunculatum,Cyanoneuron,,Tange,,1998,,"Nordic J. Bot. 18: 153 1998",,Q55761769,,,,1001907-1,wfo-0000933737,2896906,,
+7c319ed2-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Cyanoneuron,,"(Valeton) Tange",,1998,,"Nordic J. Bot. 18: 151 1998",,Q55761769,,,,1001904-1,wfo-0000933739,2896902,,

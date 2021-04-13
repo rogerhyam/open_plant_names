@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb4be0bc-8fd1-11eb-924d-9cd76263cbd0,genus,Thevenotia,,,DC.,,,,,,,11290-1,wfo-4000038196,3144891,
-90fba650-8fb4-11eb-924d-9cd76263cbd0,species,persica,Thevenotia,,DC.,1838,"Prodr. (DC.) 6: 551; et in Deless. Ic. Sel. iv. t. 72 1838",,,,,,wfo-0000066910,3144892,
-8ea5741c-8fb4-11eb-924d-9cd76263cbd0,species,scabra,Thevenotia,,"(Boiss.) Boiss.",1875,"Fl. Orient. [Boissier] 3: 455 1875",,,,275e4b20-8fb5-11eb-924d-9cd76263cbd0,255627-1,wfo-0000066783,3144894,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb4be0bc-8fd1-11eb-924d-9cd76263cbd0,genus,Thevenotia,,,DC.,,,,,,,,,,11290-1,wfo-4000038196,3144891,,
+90fba650-8fb4-11eb-924d-9cd76263cbd0,species,persica,Thevenotia,,DC.,,1838,,"Prodr. (DC.) 6: 551; et in Deless. Ic. Sel. iv. t. 72 1838",,,,,,,wfo-0000066910,3144892,,
+8ea5741c-8fb4-11eb-924d-9cd76263cbd0,species,scabra,Thevenotia,,"(Boiss.) Boiss.",,1875,,"Fl. Orient. [Boissier] 3: 455 1875",,,,275e4b20-8fb5-11eb-924d-9cd76263cbd0,,255627-1,wfo-0000066783,3144894,,

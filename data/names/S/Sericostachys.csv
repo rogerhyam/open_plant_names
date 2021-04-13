@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea4d709a-8fd1-11eb-924d-9cd76263cbd0,genus,Sericostachys,,,"Gilg & Lopr.",1899,"Bot. Jahrb. Syst. 27: 50. 1899. (7 Apr 1899)",,,,,1297-1,wfo-4000035137,7323497,
-62ff13b4-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Sericostachys,,"Gilg & Lopr.",1899,"Bot. Jahrb. Syst. 27: 51 1899",,,,,61431-1,wfo-0000435058,3674425,
-6300d0a0-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Sericostachys,,Lopr.,1899,"Bot. Jahrb. Syst. 27: 51 1899",,,,,61433-1,wfo-0000435065,3674414,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea4d709a-8fd1-11eb-924d-9cd76263cbd0,genus,Sericostachys,,,"Gilg & Lopr.",,1899,,"Bot. Jahrb. Syst. 27: 50. 1899. (7 Apr 1899)",,,,,,1297-1,wfo-4000035137,7323497,,
+62ff13b4-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Sericostachys,,"Gilg & Lopr.",,1899,,"Bot. Jahrb. Syst. 27: 51 1899",,,,,,61431-1,wfo-0000435058,3674425,,
+6300d0a0-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Sericostachys,,Lopr.,,1899,,"Bot. Jahrb. Syst. 27: 51 1899",,,,,,61433-1,wfo-0000435065,3674414,,

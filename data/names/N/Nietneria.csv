@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e74fb290-8fd1-11eb-924d-9cd76263cbd0,genus,Nietneria,,,"Klotzsch ex Benth.",1883,"Gen. Pl. 3: 825. 1883.",,,,,24560-1,wfo-4000026119,2756028,
-01af0154-8fcd-11eb-924d-9cd76263cbd0,species,corymbosa,Nietneria,,"Klotzsch & M.R.Schomb. ex B.D.Jacks.",1894,"Index Kew. 2: 314 1894",,,,,538710-1,wfo-0000702217,2756030,
-02b06f02-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Nietneria,,Steyerm.,1951,"Fieldiana, Bot. 28(1): 153 1951",,,,,170038-2,wfo-0000704054,2756029,
-bce81d30-8fd1-11eb-924d-9cd76263cbd0,species,mexicana,Nietoa,,Schaffner,1876,"Naturaleza (Madrid) 3: 343 1876",,,,,,wfo-0001248330,3622965,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e74fb290-8fd1-11eb-924d-9cd76263cbd0,genus,Nietneria,,,"Klotzsch ex Benth.",,1883,,"Gen. Pl. 3: 825. 1883.",,,,,,24560-1,wfo-4000026119,2756028,,
+01af0154-8fcd-11eb-924d-9cd76263cbd0,species,corymbosa,Nietneria,,"Klotzsch & M.R.Schomb. ex B.D.Jacks.",,1894,,"Index Kew. 2: 314 1894",,,,,,538710-1,wfo-0000702217,2756030,,
+02b06f02-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Nietneria,,Steyerm.,,1951,,"Fieldiana, Bot. 28(1): 153 1951",,,,,,170038-2,wfo-0000704054,2756029,,
+bce81d30-8fd1-11eb-924d-9cd76263cbd0,species,mexicana,Nietoa,,Schaffner,,1876,,"Naturaleza (Madrid) 3: 343 1876",,,,,,,wfo-0001248330,3622965,,

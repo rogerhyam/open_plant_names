@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6c1bcf6-8fd1-11eb-924d-9cd76263cbd0,genus,Mimophytum,,,Greenm.,1906,"Proc. Amer. Acad. Arts 41: 242. 1906[1905].",,,,,297547-2,wfo-4000024327,7295284,
-18aa4fd0-8fcd-11eb-924d-9cd76263cbd0,species,benitomartinezii,Mimophytum,,"Pérez-Calix & Pat.-Sicil.",2009,"Acta Bot. Mex. 87: 93 2009",,,,,77101409-1,wfo-0000744261,7637368,
-30679ff2-8fcc-11eb-924d-9cd76263cbd0,species,omphalodoides,Mimophytum,,Greenm.,1905,"Proc. Amer. Acad. Arts 41: 242 1905",,,,,161455-2,wfo-0000367903,4065584,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6c1bcf6-8fd1-11eb-924d-9cd76263cbd0,genus,Mimophytum,,,Greenm.,,1906,,"Proc. Amer. Acad. Arts 41: 242. 1906[1905].",,,,,,297547-2,wfo-4000024327,7295284,,
+18aa4fd0-8fcd-11eb-924d-9cd76263cbd0,species,benitomartinezii,Mimophytum,,"Pérez-Calix & Pat.-Sicil.",,2009,,"Acta Bot. Mex. 87: 93 2009",,Q55994547,,,,77101409-1,wfo-0000744261,7637368,,
+30679ff2-8fcc-11eb-924d-9cd76263cbd0,species,omphalodoides,Mimophytum,,Greenm.,,1905,,"Proc. Amer. Acad. Arts 41: 242 1905",,,,,,161455-2,wfo-0000367903,4065584,,

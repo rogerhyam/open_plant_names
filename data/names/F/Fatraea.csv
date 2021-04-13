@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ae34b8-8fd1-11eb-924d-9cd76263cbd0,genus,Fatraea,,,"Juss. ex Thouars",1811,"Mel. Bot. Voy. 19. 1811.",,,,,,wfo-4000014612,7327020,
-f8a49df8-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Fatraea,,Juss.,1820,"Dict. Sci. Nat. ed. 2, 16: 206 1820",,,,,170620-1,wfo-0000685956,3698241,
-f8a4d7f0-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Fatraea,,"Juss. ex Poir.",1813,"Encycl. Suppl. 3: 708 1813",,,,,,wfo-0000685957,3700061,
-daa51328-8fd1-11eb-924d-9cd76263cbd0,species,madagscariensis,Fatraea,,Juss.,,,,,,,,wfo-0001296407,7602093,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ae34b8-8fd1-11eb-924d-9cd76263cbd0,genus,Fatraea,,,"Juss. ex Thouars",,1811,,"Mel. Bot. Voy. 19. 1811.",,,,,,,wfo-4000014612,7327020,,
+f8a49df8-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Fatraea,,Juss.,,1820,,"Dict. Sci. Nat. ed. 2, 16: 206 1820",,,,,,170620-1,wfo-0000685956,3698241,,
+f8a4d7f0-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Fatraea,,"Juss. ex Poir.",,1813,,"Encycl. Suppl. 3: 708 1813",,,,,,,wfo-0000685957,3700061,,
+daa51328-8fd1-11eb-924d-9cd76263cbd0,species,madagscariensis,Fatraea,,Juss.,,,,,,,,,,,wfo-0001296407,7602093,,

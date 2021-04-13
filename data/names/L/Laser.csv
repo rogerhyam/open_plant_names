@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e593795a-8fd1-11eb-924d-9cd76263cbd0,genus,Laser,,,"Borkh. ex P.Gaertn., B.Mey. & Scherb.",1799,"Oekon. Fl. Wetterau 1: 244, 384. 1799.",,,,,40159-1,wfo-4000020624,6026469,
-2bbe39a2-8fcc-11eb-924d-9cd76263cbd0,species,aquilegifolium,Laser,,"Röhl. ex Steud.",1821,"Nomencl. Bot. 1: 463 1821",,,,,,wfo-0000360394,3631004,
-2bbe67f6-8fcc-11eb-924d-9cd76263cbd0,species,cordifolium,Laser,,"(Boiss.) Thell.",1925,"Monde Pl. 26(153): 4 1925",,,,,843941-1,wfo-0000360395,3630994,
-2bbead9c-8fcc-11eb-924d-9cd76263cbd0,species,divaricatum,Laser,,"(Turcz.) Thell.",1925,"Monde Pl. 26(153): 4 1925",,,,,843942-1,wfo-0000360396,3630988,
-2bbf5328-8fcc-11eb-924d-9cd76263cbd0,species,rechingeri,Laser,,Akhani,1996,"Ann. Naturhist. Mus. Wien, B 98(Suppl.): 99 1996",,,,,994525-1,wfo-0000360397,3630979,
-2bbfbed0-8fcc-11eb-924d-9cd76263cbd0,species,siler,Laser,,"(L.) Druce",1925,"Rep. Bot. Soc. Exch. Club Brit. Isles 7: 835 1925 publ. 1926",,,,2be88932-8fcc-11eb-924d-9cd76263cbd0,843943-1,wfo-0000360399,3630969,
-2bba5e4a-8fcc-11eb-924d-9cd76263cbd0,species,trilobum,Laser,,"(L.) Borkh.",1795,"Botaniker 13-15: 246 1795",,,,,,wfo-0000360365,3630948,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e593795a-8fd1-11eb-924d-9cd76263cbd0,genus,Laser,,,"Borkh. ex P.Gaertn., B.Mey. & Scherb.",,1799,,"Oekon. Fl. Wetterau 1: 244, 384. 1799.",,,,,,40159-1,wfo-4000020624,6026469,,
+2bbe39a2-8fcc-11eb-924d-9cd76263cbd0,species,aquilegifolium,Laser,,"Röhl. ex Steud.",,1821,,"Nomencl. Bot. 1: 463 1821",,,,,,,wfo-0000360394,3631004,,
+2bbe67f6-8fcc-11eb-924d-9cd76263cbd0,species,cordifolium,Laser,,"(Boiss.) Thell.",,1925,,"Monde Pl. 26(153): 4 1925",,,,,,843941-1,wfo-0000360395,3630994,,
+2bbead9c-8fcc-11eb-924d-9cd76263cbd0,species,divaricatum,Laser,,"(Turcz.) Thell.",,1925,,"Monde Pl. 26(153): 4 1925",,,,,,843942-1,wfo-0000360396,3630988,,
+2bbf5328-8fcc-11eb-924d-9cd76263cbd0,species,rechingeri,Laser,,Akhani,,1996,,"Ann. Naturhist. Mus. Wien, B 98(Suppl.): 99 1996",,,,,,994525-1,wfo-0000360397,3630979,,
+2bbfbed0-8fcc-11eb-924d-9cd76263cbd0,species,siler,Laser,,"(L.) Druce",,1925,,"Rep. Bot. Soc. Exch. Club Brit. Isles 7: 835 1925 publ. 1926",,,,2be88932-8fcc-11eb-924d-9cd76263cbd0,,843943-1,wfo-0000360399,3630969,,
+2bba5e4a-8fcc-11eb-924d-9cd76263cbd0,species,trilobum,Laser,,"(L.) Borkh.",,1795,,"Botaniker 13-15: 246 1795",,,,,,,wfo-0000360365,3630948,,

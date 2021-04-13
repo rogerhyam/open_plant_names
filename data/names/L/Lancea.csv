@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e58bee42-8fd1-11eb-924d-9cd76263cbd0,genus,Lancea,,,"Hook.f. & Thomson",1857,"Hooker's J. Bot. Kew Gard. Misc. 9: 244. 1857.",,,,,37755-1,wfo-4000020533,3233392,
-db62bf94-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Lancea,,Bonati,1909,"Société Botanique de France 56: 467 1909",,,,,804208-1,wfo-0001140027,7972896,
-db629c26-8fcd-11eb-924d-9cd76263cbd0,species,tibetica,Lancea,,"Hook.f. & Thomson",1857,"Hooker's J. Bot. Kew Gard. Misc. 9: 244, pl. 7 1857",,,,,804209-1,wfo-0001140026,7469425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e58bee42-8fd1-11eb-924d-9cd76263cbd0,genus,Lancea,,,"Hook.f. & Thomson",,1857,,"Hooker's J. Bot. Kew Gard. Misc. 9: 244. 1857.",,,,,,37755-1,wfo-4000020533,3233392,,
+db62bf94-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Lancea,,Bonati,,1909,,"Société Botanique de France 56: 467 1909",,Q55756972,,,,804208-1,wfo-0001140027,7972896,,
+db629c26-8fcd-11eb-924d-9cd76263cbd0,species,tibetica,Lancea,,"Hook.f. & Thomson",,1857,,"Hooker's J. Bot. Kew Gard. Misc. 9: 244, pl. 7 1857",,,,,,804209-1,wfo-0001140026,7469425,,

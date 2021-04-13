@@ -1,6 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e91e1bd4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudocryptocarya,,,Teschner,1923,"Bot. Jahrb. Syst. 58: 411. 1923.",,,,,21491-1,wfo-4000031475,7304466,
-75351f56-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Pseudocryptocarya,,Teschner,1923,"Bot. Jahrb. Syst. 58: 413 1923",,,,,,wfo-0000466036,4179843,
-fc193cf6-8fcb-11eb-924d-9cd76263cbd0,species,lentiginosa,Pseudoctomeria,,"(F.Lehm. & Kraenzl.) Kraenzl.",1925,"Bull. Misc. Inform. Kew 1925: 116 1925",,,,f811e518-8fcb-11eb-924d-9cd76263cbd0,211321-2,wfo-0000283962,2835464,
-1ae2c89a-8fcd-11eb-924d-9cd76263cbd0,species,naudinianus,Pseudocucumis,,"(Sond.) C.Jeffrey",2009,"Genet. Resursy Kul't. Rast. 174 2009",,,,d7f3ff9a-8fcc-11eb-924d-9cd76263cbd0,77110032-1,wfo-0000748900,7819597,
-fc195bf0-8fcb-11eb-924d-9cd76263cbd0,species,montana,Pseudocunila,,Brade,1944,"Rodriguésia 7(16): 27 1944",,,,,211322-2,wfo-0000283963,3891913,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e91e1bd4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudocryptocarya,,,Teschner,,1923,,"Bot. Jahrb. Syst. 58: 411. 1923.",,,,,,21491-1,wfo-4000031475,7304466,,
+75351f56-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Pseudocryptocarya,,Teschner,,1923,,"Bot. Jahrb. Syst. 58: 413 1923",,,,,,,wfo-0000466036,4179843,,

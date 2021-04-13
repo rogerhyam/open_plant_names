@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb268f1a-8fd1-11eb-924d-9cd76263cbd0,genus,Telfairia,,,Hook.,,"Bot. Mag. 54: t. 2751–52. 1827. (1 Jul 1827)",,,,,13423-1,wfo-4000037713,2874668,
-4e9dbbdc-8fcc-11eb-924d-9cd76263cbd0,species,africana,Telfairia,,"(Delile) A.Chev.",1949,"Rev. Int. Bot. Appl. Agric. Trop. 29: 217 1949",,,,28f93262-8fcc-11eb-924d-9cd76263cbd0,294052-1,wfo-0000408977,3622707,
-c690e902-8fd1-11eb-924d-9cd76263cbd0,species,batesii,Telfairia,,Keraudren,1965,"Adansonia, n.s. 513: 1965",,,,,,wfo-0001266119,3622696,
-4e9f6b9e-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Telfairia,,Hook.f.,1871,"Fl. Trop. Afr. 2: 524 1871",,,,,294054-1,wfo-0000408984,2874669,
-4e9f95e2-8fcc-11eb-924d-9cd76263cbd0,species,pedata,Telfairia,,"(Sm.) Hook.",,"Bot. Mag. 54: t. 2751 1827",,,,,294055-1,wfo-0000408985,2874670,
-708da1a8-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Telfairia,,"F.Newman ex Hook.",1830,"Bot. Misc. 1: 291 1830",,,,,825555-1,wfo-0000458433,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb268f1a-8fd1-11eb-924d-9cd76263cbd0,genus,Telfairia,,,Hook.,,,,"Bot. Mag. 54: t. 2751–52. 1827. (1 Jul 1827)",,,,,,13423-1,wfo-4000037713,2874668,,
+4e9dbbdc-8fcc-11eb-924d-9cd76263cbd0,species,africana,Telfairia,,"(Delile) A.Chev.",,1949,,"Rev. Int. Bot. Appl. Agric. Trop. 29: 217 1949",,,,28f93262-8fcc-11eb-924d-9cd76263cbd0,,294052-1,wfo-0000408977,3622707,,
+c690e902-8fd1-11eb-924d-9cd76263cbd0,species,batesii,Telfairia,,Keraudren,,1965,,"Adansonia, n.s. 513: 1965",,,,,,,wfo-0001266119,3622696,,
+4e9f6b9e-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Telfairia,,Hook.f.,,1871,,"Fl. Trop. Afr. 2: 524 1871",,,,,,294054-1,wfo-0000408984,2874669,,
+4e9f95e2-8fcc-11eb-924d-9cd76263cbd0,species,pedata,Telfairia,,"(Sm.) Hook.",,,,"Bot. Mag. 54: t. 2751 1827",,,,,,294055-1,wfo-0000408985,2874670,,
+708da1a8-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Telfairia,,"F.Newman ex Hook.",,1830,,"Bot. Misc. 1: 291 1830",,,,,,825555-1,wfo-0000458433,,,

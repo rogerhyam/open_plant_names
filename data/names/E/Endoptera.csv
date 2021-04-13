@@ -1,10 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e34f45ca-8fd1-11eb-924d-9cd76263cbd0,genus,Endoptera,,,,,,,,,,,wfo-4000013415,6064046,
-30893f08-8fb4-11eb-924d-9cd76263cbd0,species,aspera,Endoptera,,"(L.) DC.",1838,"178 1838",,,,,203192-1,wfo-0000061274,3143905,
-9cfa828a-8fbb-11eb-924d-9cd76263cbd0,species,dichotoma,Endoptera,,"Boiss. & Balansa",1856,"98 1856",,,,,,wfo-0000135479,3143419,
-fd7df100-8fb1-11eb-924d-9cd76263cbd0,species,dioscoridis,Endoptera,,"(L.) DC.",1838,"179 1838",,,,,203194-1,wfo-0000000456,3143320,
-37292196-8fbb-11eb-924d-9cd76263cbd0,species,intermedia,Endoptera,,"Boiss. & Balansa",1856,"99 1856",,,,,,wfo-0000132612,4222934,
-01a97cb8-8fb2-11eb-924d-9cd76263cbd0,species,atropurpurea,Endorima,,Small,1903,1903,,,,,203196-1,wfo-0000003858,3104997,
-01aecb5a-8fb2-11eb-924d-9cd76263cbd0,species,modesta,Endorima,,Raf.,1837,1837,,,,,,wfo-0000003867,3104995,
-2995c7c4-8fb5-11eb-924d-9cd76263cbd0,species,uniflora,Endorima,,"(Nutt.) Barnhart",1903,1903,,,,,203198-1,wfo-0000074659,7601954,
-3be91ece-8fb2-11eb-924d-9cd76263cbd0,species,uniflora,Endorima,,"(Nutt.) Raf.",,,,,,,,wfo-0000016724,3104994,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e34f45ca-8fd1-11eb-924d-9cd76263cbd0,genus,Endoptera,,,,,,,,,,,,,,wfo-4000013415,6064046,,
+30893f08-8fb4-11eb-924d-9cd76263cbd0,species,aspera,Endoptera,,"(L.) DC.",,1838,,"178 1838",,,,,,203192-1,wfo-0000061274,3143905,,
+9cfa828a-8fbb-11eb-924d-9cd76263cbd0,species,dichotoma,Endoptera,,"Boiss. & Balansa",,1856,,"98 1856",,,,,,,wfo-0000135479,3143419,,
+fd7df100-8fb1-11eb-924d-9cd76263cbd0,species,dioscoridis,Endoptera,,"(L.) DC.",,1838,,"179 1838",,,,,,203194-1,wfo-0000000456,3143320,,
+37292196-8fbb-11eb-924d-9cd76263cbd0,species,intermedia,Endoptera,,"Boiss. & Balansa",,1856,,"99 1856",,,,,,,wfo-0000132612,4222934,,

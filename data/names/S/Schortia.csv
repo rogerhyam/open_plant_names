@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea1d6620-8fd1-11eb-924d-9cd76263cbd0,genus,Schortia,,,,,,,,,,,wfo-4000034570,7338530,
-5b5b9838-8fba-11eb-924d-9cd76263cbd0,species,californica,Schortia,,"Hort. ex Vilm.",1863,"Fl. Pleine Terre 794 1863",,,,,242951-1,wfo-0000125995,4247416,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea1d6620-8fd1-11eb-924d-9cd76263cbd0,genus,Schortia,,,,,,,,,,,,,,wfo-4000034570,7338530,,
+5b5b9838-8fba-11eb-924d-9cd76263cbd0,species,californica,Schortia,,"Hort. ex Vilm.",,1863,,"Fl. Pleine Terre 794 1863",,,,,,242951-1,wfo-0000125995,4247416,,

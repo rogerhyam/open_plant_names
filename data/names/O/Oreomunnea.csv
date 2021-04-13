@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a2802e-8fd1-11eb-924d-9cd76263cbd0,genus,Oreomunnea,,,Oerst.,1856,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1856(3–7): 33–34. 1856.",,,,,20568-1,wfo-4000027093,7148650,
-3a9722b8-8fcc-11eb-924d-9cd76263cbd0,species,americana,Oreomunnea,,Lundell,1978,"Wrightia 6: 4 1978",,,,,176143-2,wfo-0000382959,4205564,
-3a98604c-8fcc-11eb-924d-9cd76263cbd0,species,guatemalensis,Oreomunnea,,"(Standl.) J.-F.Leroy",1951,"Bull. Mus. Natl. Hist. Nat. II, 23: 127 1951",,,,,176144-2,wfo-0000382968,4205558,
-3a9ac8f0-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Oreomunnea,,"(Standl.) J.-F.Leroy",1951,"Bull. Mus. Natl. Hist. Nat. II, 23: 127 1951",,,,,176145-2,wfo-0000382983,7310542,
-ba431210-8fd1-11eb-924d-9cd76263cbd0,species,munchiquensis,Oreomunnea,,"Lozano & F.González",1994,"Anales Jard. Bot. Madrid 52(1): 14–18, f. 1–2 1994",,,,,301953-2,wfo-0001243425,4205528,
-3a9839e6-8fcc-11eb-924d-9cd76263cbd0,species,pterocarpa,Oreomunnea,,Oerst.,1856,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1856: 34 1856",,,,,442456-1,wfo-0000382967,4205518,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a2802e-8fd1-11eb-924d-9cd76263cbd0,genus,Oreomunnea,,,Oerst.,,1856,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1856(3–7): 33–34. 1856.",,,,,,20568-1,wfo-4000027093,7148650,,
+3a9722b8-8fcc-11eb-924d-9cd76263cbd0,species,americana,Oreomunnea,,Lundell,,1978,,"Wrightia 6: 4 1978",,,,,,176143-2,wfo-0000382959,4205564,,
+3a98604c-8fcc-11eb-924d-9cd76263cbd0,species,guatemalensis,Oreomunnea,,"(Standl.) J.-F.Leroy",,1951,,"Bull. Mus. Natl. Hist. Nat. II, 23: 127 1951",,,,,,176144-2,wfo-0000382968,4205558,,
+3a9ac8f0-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Oreomunnea,,"(Standl.) J.-F.Leroy",,1951,,"Bull. Mus. Natl. Hist. Nat. II, 23: 127 1951",,,,,,176145-2,wfo-0000382983,7310542,,
+ba431210-8fd1-11eb-924d-9cd76263cbd0,species,munchiquensis,Oreomunnea,,"Lozano & F.González",,1994,,"Anales Jard. Bot. Madrid 52(1): 14–18, f. 1–2 1994",,,,,,301953-2,wfo-0001243425,4205528,,
+3a9839e6-8fcc-11eb-924d-9cd76263cbd0,species,pterocarpa,Oreomunnea,,Oerst.,,1856,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1856: 34 1856",,,,,,442456-1,wfo-0000382967,4205518,,

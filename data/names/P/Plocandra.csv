@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8c3b572-8fd1-11eb-924d-9cd76263cbd0,genus,Plocandra,,,E.H.F.Meyer,,"Comment. Pl. Africae Austr. 181.",,,,,,wfo-4000030404,7270410,
-75a873fc-8fcc-11eb-924d-9cd76263cbd0,species,albens,Plocandra,,E.Mey.,1838,"Comm. Pl. Afr. Austr. 182 1838",,,,,,wfo-0000466756,3843649,
-75ab22a0-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Plocandra,,Griseb.,1845,"Prodr. 9: 43 1845",,,,,370383-1,wfo-0000466776,3843643,
-75abeb18-8fcc-11eb-924d-9cd76263cbd0,species,purpurascens,Plocandra,,E.Mey.,1838,"Comm. Pl. Afr. Austr. 182 1838",,,,,370384-1,wfo-0000466778,3843633,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8c3b572-8fd1-11eb-924d-9cd76263cbd0,genus,Plocandra,,,E.H.F.Meyer,,,,"Comment. Pl. Africae Austr. 181.",,,,,,,wfo-4000030404,7270410,,
+75a873fc-8fcc-11eb-924d-9cd76263cbd0,species,albens,Plocandra,,E.Mey.,,1838,,"Comm. Pl. Afr. Austr. 182 1838",,,,,,,wfo-0000466756,3843649,,
+75ab22a0-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Plocandra,,Griseb.,,1845,,"Prodr. 9: 43 1845",,,,,,370383-1,wfo-0000466776,3843643,,
+75abeb18-8fcc-11eb-924d-9cd76263cbd0,species,purpurascens,Plocandra,,E.Mey.,,1838,,"Comm. Pl. Afr. Austr. 182 1838",,,,,,370384-1,wfo-0000466778,3843633,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6cb29bc-8fd1-11eb-924d-9cd76263cbd0,genus,Mitrantia,,,"Peter G.Wilson & B.Hyland",1988,"Telopea 3(2): 264–265. 1988.",,,,,925134-1,wfo-4000024429,3177653,
-e3f0291e-8fcb-11eb-924d-9cd76263cbd0,species,bilocularis,Mitrantia,,"Peter G.Wilson & B.Hyland",1988,"Telopea 3: 265 1988",,,,,935328-1,wfo-0000244981,3177654,
-f1b25098-8fcd-11eb-924d-9cd76263cbd0,species,ciliatum,Mitrapoma,,Duby,1880,"Flora 63: 171 1880",,,,,,wfo-0001187152,7512893,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6cb29bc-8fd1-11eb-924d-9cd76263cbd0,genus,Mitrantia,,,"Peter G.Wilson & B.Hyland",,1988,,"Telopea 3(2): 264–265. 1988.",,Q55800142,,,,925134-1,wfo-4000024429,3177653,,
+e3f0291e-8fcb-11eb-924d-9cd76263cbd0,species,bilocularis,Mitrantia,,"Peter G.Wilson & B.Hyland",,1988,,"Telopea 3: 265 1988",,Q55800142,,,,935328-1,wfo-0000244981,3177654,,
+f1b25098-8fcd-11eb-924d-9cd76263cbd0,species,ciliatum,Mitrapoma,,Duby,,1880,,"Flora 63: 171 1880",,,,,,,wfo-0001187152,7512893,,

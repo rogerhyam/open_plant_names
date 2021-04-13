@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e73c9520-8fd1-11eb-924d-9cd76263cbd0,genus,Neoussuria,,,Tzvelev,2002,"Novosti Sist. Vyssh. Rast. 34: 299. 2002. (20 Jun 2002)",,,,,,wfo-4000025883,7267258,
-3a4a68ce-8fcc-11eb-924d-9cd76263cbd0,species,aprica,Neoussuria,,"(Turcz. ex Fisch. & C.A.Mey.) Tzvelev",2002,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,,50426318-2,wfo-0000382552,3809588,
-3a4a9542-8fcc-11eb-924d-9cd76263cbd0,species,firma,Neoussuria,,"(Siebold & Zucc.) Tzvelev",2002,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,,50426319-2,wfo-0000382553,3809580,
-3a4aef38-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Neoussuria,,"(Maxim.) Tzvelev",2002,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,d83e1d5a-8fd1-11eb-924d-9cd76263cbd0,50426321-2,wfo-0000382555,3809573,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e73c9520-8fd1-11eb-924d-9cd76263cbd0,genus,Neoussuria,,,Tzvelev,,2002,,"Novosti Sist. Vyssh. Rast. 34: 299. 2002. (20 Jun 2002)",,,,,,,wfo-4000025883,7267258,,
+3a4a68ce-8fcc-11eb-924d-9cd76263cbd0,species,aprica,Neoussuria,,"(Turcz. ex Fisch. & C.A.Mey.) Tzvelev",,2002,,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,,,50426318-2,wfo-0000382552,3809588,,
+3a4a9542-8fcc-11eb-924d-9cd76263cbd0,species,firma,Neoussuria,,"(Siebold & Zucc.) Tzvelev",,2002,,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,,,50426319-2,wfo-0000382553,3809580,,
+3a4aef38-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Neoussuria,,"(Maxim.) Tzvelev",,2002,,"Novosti Sist. Vyssh. Rast. 34: 299 2002",,,,d83e1d5a-8fd1-11eb-924d-9cd76263cbd0,,50426321-2,wfo-0000382555,3809573,,

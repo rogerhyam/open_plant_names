@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8d0db30-8fd1-11eb-924d-9cd76263cbd0,genus,Pogonachne,,,Bor,1949,"Kew Bull. 4: 176. 1949.",,,,,18774-1,wfo-4000030563,4105772,
-5f2f9000-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Pogonachne,,Bor,1949,"Kew Bull. 4: 176 1949",,,,,418473-1,wfo-0000894409,4105771,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8d0db30-8fd1-11eb-924d-9cd76263cbd0,genus,Pogonachne,,,Bor,,1949,,"Kew Bull. 4: 176. 1949.",,Q55782887,,,,18774-1,wfo-4000030563,4105772,,
+5f2f9000-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Pogonachne,,Bor,,1949,,"Kew Bull. 4: 176 1949",,Q55782887,,,,418473-1,wfo-0000894409,4105771,,

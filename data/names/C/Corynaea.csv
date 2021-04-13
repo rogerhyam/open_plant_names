@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e212a314-8fd1-11eb-924d-9cd76263cbd0,genus,Corynaea,,,Hook.f.,1856,"Trans. Linn. Soc. London 22: 31, 54. 1856.",,,,,3825-1,wfo-4000009397,3232655,
-d48ce6f0-8fcc-11eb-924d-9cd76263cbd0,species,crassa,Corynaea,,Hook.f.,1856,"Trans. Linn. Soc. London 22: 31 1856",,,,,103322-1,wfo-0000623136,7309807,
-d48d0324-8fcc-11eb-924d-9cd76263cbd0,variety,sprucei,Corynaea,crassa,"(Eichler) B.Hansen",1978,"Bot. Tidsskr. 72: 188 1978",,,,,874638-1,wfo-0000623137,5687188,
-d48d1f4e-8fcc-11eb-924d-9cd76263cbd0,species,purdiei,Corynaea,,Hook.f.,1856,"Trans. Linn. Soc. London 22: 31 1856",,,,,103323-1,wfo-0000623138,5687187,
-d48d3f56-8fcc-11eb-924d-9cd76263cbd0,species,sphaerica,Corynaea,,Hook.f.,1856,"Trans. Linn. Soc. London 22: 31 1856",,,,,103324-1,wfo-0000623139,5687185,
-d48d5d7e-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Corynaea,,Eichler,1873,"Prodr. 17: 137 1873",,,,,103325-1,wfo-0000623140,5687184,
-d48d9582-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Corynandra,,"Schrad. ex Spreng.",1827,"Syst. Veg. 4(2): 204 1827",,,,,147433-1,wfo-0000623142,3871807,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e212a314-8fd1-11eb-924d-9cd76263cbd0,genus,Corynaea,,,Hook.f.,,1856,,"Trans. Linn. Soc. London 22: 31, 54. 1856.",,Q55760750,,,,3825-1,wfo-4000009397,3232655,,
+d48ce6f0-8fcc-11eb-924d-9cd76263cbd0,species,crassa,Corynaea,,Hook.f.,,1856,,"Trans. Linn. Soc. London 22: 31 1856",,Q55760750,,,,103322-1,wfo-0000623136,7309807,,
+d48d0324-8fcc-11eb-924d-9cd76263cbd0,variety,sprucei,Corynaea,crassa,"(Eichler) B.Hansen",,1978,,"Bot. Tidsskr. 72: 188 1978",,,,,,874638-1,wfo-0000623137,5687188,,
+d48d1f4e-8fcc-11eb-924d-9cd76263cbd0,species,purdiei,Corynaea,,Hook.f.,,1856,,"Trans. Linn. Soc. London 22: 31 1856",,Q55760750,,,,103323-1,wfo-0000623138,5687187,,
+d48d3f56-8fcc-11eb-924d-9cd76263cbd0,species,sphaerica,Corynaea,,Hook.f.,,1856,,"Trans. Linn. Soc. London 22: 31 1856",,Q55760750,,,,103324-1,wfo-0000623139,5687185,,
+d48d5d7e-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Corynaea,,Eichler,,1873,,"Prodr. 17: 137 1873",,,,,,103325-1,wfo-0000623140,5687184,,
+d48d9582-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Corynandra,,"Schrad. ex Spreng.",,1827,,"Syst. Veg. 4(2): 204 1827",,,,,,147433-1,wfo-0000623142,3871807,,

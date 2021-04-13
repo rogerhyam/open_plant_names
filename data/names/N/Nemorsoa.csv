@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e721784e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemorsoa,,,,,,,,,,,wfo-4000025575,7278304,
-3a558254-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nemorsoa,,Nieuwl.,1914,"Amer. Midl. Naturalist 3: 322 1914",,,,,168357-2,wfo-0000382608,3931320,
-3a55a2e8-8fcc-11eb-924d-9cd76263cbd0,species,quinquefolia,Nemorsoa,,Nieuwl.,1914,"Amer. Midl. Naturalist 3: 322 1914",,,,,168358-2,wfo-0000382609,3931304,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e721784e-8fd1-11eb-924d-9cd76263cbd0,genus,Nemorsoa,,,,,,,,,,,,,,wfo-4000025575,7278304,,
+3a558254-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Nemorsoa,,Nieuwl.,,1914,,"Amer. Midl. Naturalist 3: 322 1914",,Q55773206,,,,168357-2,wfo-0000382608,3931320,,
+3a55a2e8-8fcc-11eb-924d-9cd76263cbd0,species,quinquefolia,Nemorsoa,,Nieuwl.,,1914,,"Amer. Midl. Naturalist 3: 322 1914",,Q55773206,,,,168358-2,wfo-0000382609,3931304,,

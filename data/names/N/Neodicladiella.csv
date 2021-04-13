@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e729dbf6-8fd1-11eb-924d-9cd76263cbd0,genus,Neodicladiella,,,"(Nog.) W.R.Buck",1994,"J. Hattori Bot. Lab. 75: 61. 1994.",,,,,,wfo-4000025667,2677752,
-fec58d9a-8fcd-11eb-924d-9cd76263cbd0,species,flagellifera,Neodicladiella,,"(Cardot) Huttunen & D.Quandt",2007,"Syst. Assoc. Special Vol. 71: 159 2007",,,,,,wfo-0001214268,7921585,
-f7647034-8fcd-11eb-924d-9cd76263cbd0,species,pendula,Neodicladiella,,"(Sull.) W.R.Buck",1994,"J. Hattori Bot. Lab. 75: 62 1994",,,,,,wfo-0001198856,2677753,
-b6f7947c-8fcd-11eb-924d-9cd76263cbd0,species,polyantha,Neodielsia,,Harms,1905,"Bot. Jahrb. Syst. 36(5, Beibl. 82): 68–69 1905",,,,,509534-1,wfo-0001059512,3973389,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e729dbf6-8fd1-11eb-924d-9cd76263cbd0,genus,Neodicladiella,,,"(Nog.) W.R.Buck",,1994,,"J. Hattori Bot. Lab. 75: 61. 1994.",,,,,,,wfo-4000025667,2677752,,
+fec58d9a-8fcd-11eb-924d-9cd76263cbd0,species,flagellifera,Neodicladiella,,"(Cardot) Huttunen & D.Quandt",,2007,,"Syst. Assoc. Special Vol. 71: 159 2007",,,,,,,wfo-0001214268,7921585,,
+f7647034-8fcd-11eb-924d-9cd76263cbd0,species,pendula,Neodicladiella,,"(Sull.) W.R.Buck",,1994,,"J. Hattori Bot. Lab. 75: 62 1994",,,,,,,wfo-0001198856,2677753,,
+b6f7947c-8fcd-11eb-924d-9cd76263cbd0,species,polyantha,Neodielsia,,Harms,,1905,,"Bot. Jahrb. Syst. 36(5, Beibl. 82): 68–69 1905",,,,,,509534-1,wfo-0001059512,3973389,,

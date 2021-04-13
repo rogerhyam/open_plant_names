@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7982c14-8fd1-11eb-924d-9cd76263cbd0,genus,Opisthiolepis,,,L.S.Sm.,1952,"Proc. Roy. Soc. Queensland 62: 79. 1952.",,,,,32962-1,wfo-4000026976,7287743,
-3e691d10-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Opisthiolepis,,L.S.Sm.,1952,"Proc. Roy. Soc. Queensland 62: 79 1952",,,,,705288-1,wfo-0000388325,3999848,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7982c14-8fd1-11eb-924d-9cd76263cbd0,genus,Opisthiolepis,,,L.S.Sm.,,1952,,"Proc. Roy. Soc. Queensland 62: 79. 1952.",,,,,,32962-1,wfo-4000026976,7287743,,
+3e691d10-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Opisthiolepis,,L.S.Sm.,,1952,,"Proc. Roy. Soc. Queensland 62: 79 1952",,,,,,705288-1,wfo-0000388325,3999848,,

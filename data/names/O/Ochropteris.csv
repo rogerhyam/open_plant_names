@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e770bcf6-8fd1-11eb-924d-9cd76263cbd0,genus,Ochropteris,,,J.Sm.,1841,"J. Bot. (Hooker) 4: 158. 1841.",,,,,,wfo-4000026496,7310095,
-e3535fde-8fbd-11eb-924d-9cd76263cbd0,species,angusta,Ochropteris,,F,1850,"M 120 t. 29 f. 3. 1850-52 1850",,,,,17164770-1,wfo-0000150742,3914745,
-af5d399c-8fcd-11eb-924d-9cd76263cbd0,species,bosseri,Ochropteris,,Tardieu,1984,"Bull. Mus. Natl. Hist. Nat., Sér. 4, Misc. 6: 193 1984",,,,,17509150-1,wfo-0001042289,3914740,
-cc91d4aa-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Ochropteris,,"(Sw.) J.Sm.",1841,"J. Bot. 4: 158 1841",,,,,17164780-1,wfo-0001107873,3914735,
-cc920a60-8fcd-11eb-924d-9cd76263cbd0,species,peltigera,Ochropteris,,Fée,1850,"Mem. Foug., Gen. Filic. 102, t. 29, f. 4 1850",,,,,17164790-1,wfo-0001107875,3914731,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e770bcf6-8fd1-11eb-924d-9cd76263cbd0,genus,Ochropteris,,,J.Sm.,,1841,,"J. Bot. (Hooker) 4: 158. 1841.",,,,,,,wfo-4000026496,7310095,,
+e3535fde-8fbd-11eb-924d-9cd76263cbd0,species,angusta,Ochropteris,,F,,1850,,"M 120 t. 29 f. 3. 1850-52 1850",,,,,,17164770-1,wfo-0000150742,3914745,,
+af5d399c-8fcd-11eb-924d-9cd76263cbd0,species,bosseri,Ochropteris,,Tardieu,,1984,,"Bull. Mus. Natl. Hist. Nat., Sér. 4, Misc. 6: 193 1984",,,,,,17509150-1,wfo-0001042289,3914740,,
+cc91d4aa-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Ochropteris,,"(Sw.) J.Sm.",,1841,,"J. Bot. 4: 158 1841",,,,,,17164780-1,wfo-0001107873,3914735,,
+cc920a60-8fcd-11eb-924d-9cd76263cbd0,species,peltigera,Ochropteris,,Fée,,1850,,"Mem. Foug., Gen. Filic. 102, t. 29, f. 4 1850",,,,,,17164790-1,wfo-0001107875,3914731,,

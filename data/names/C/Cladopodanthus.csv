@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1c5f190-8fd1-11eb-924d-9cd76263cbd0,genus,Cladopodanthus,,,"Dozy & Molk.",1846,"Musc. Frond. Ined. Archip. Ind. 79. 1846.",,,,,,wfo-4000008440,2675362,
-ee93b186-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllus,Cladopodanthus,,"(M.Fleisch.) E.B.Bartram",1943,"Farlowia 1: 43 1943",,,,,,wfo-0001180592,2675363,
-ee93cd56-8fcd-11eb-924d-9cd76263cbd0,species,microcarpus,Cladopodanthus,,Dixon,1935,"J. Linn. Soc., Bot. 50: 74. 1 f. 5 1935",,,,,,wfo-0001180593,2675365,
-ee93e7aa-8fcd-11eb-924d-9cd76263cbd0,species,muticus,Cladopodanthus,,Broth.,1926,"Philipp. J. Sci. 31: 279 1926",,,,,,wfo-0001180594,8397816,
-ee940154-8fcd-11eb-924d-9cd76263cbd0,species,pilifer,Cladopodanthus,,"Dozy & Molk.",1846,"Musci Frond. Ined. Archip. Ind. 3: 80. 28 1846",,,,,,wfo-0001180595,8135100,
-ee941ac2-8fcd-11eb-924d-9cd76263cbd0,variety,acuminatus,Cladopodanthus,pilifer,"Dozy & Molk. ex M.Fleisch.",1904,"Musci Buitenzorg 1: 156 1904",,,,,,wfo-0001180596,7376233,
-ee943660-8fcd-11eb-924d-9cd76263cbd0,species,speciosus,Cladopodanthus,,"(Dozy & Molk.) M.Fleisch.",1904,"Musci Buitenzorg 1: 156 1904",,,,f3f66c54-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001180597,2675364,
-ee945118-8fcd-11eb-924d-9cd76263cbd0,species,truncatus,Cladopodanthus,,Dixon,1935,"J. Linn. Soc., Bot. 50: 73. 1 f. 6 1935",,,,,,wfo-0001180598,7564329,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1c5f190-8fd1-11eb-924d-9cd76263cbd0,genus,Cladopodanthus,,,"Dozy & Molk.",,1846,,"Musc. Frond. Ined. Archip. Ind. 79. 1846.",,,,,,,wfo-4000008440,2675362,,
+ee93b186-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllus,Cladopodanthus,,"(M.Fleisch.) E.B.Bartram",,1943,,"Farlowia 1: 43 1943",,,,,,,wfo-0001180592,2675363,,
+ee93cd56-8fcd-11eb-924d-9cd76263cbd0,species,microcarpus,Cladopodanthus,,Dixon,,1935,,"J. Linn. Soc., Bot. 50: 74. 1 f. 5 1935",,,,,,,wfo-0001180593,2675365,,
+ee93e7aa-8fcd-11eb-924d-9cd76263cbd0,species,muticus,Cladopodanthus,,Broth.,,1926,,"Philipp. J. Sci. 31: 279 1926",,,,,,,wfo-0001180594,8397816,,
+ee940154-8fcd-11eb-924d-9cd76263cbd0,species,pilifer,Cladopodanthus,,"Dozy & Molk.",,1846,,"Musci Frond. Ined. Archip. Ind. 3: 80. 28 1846",,,,,,,wfo-0001180595,8135100,,
+ee941ac2-8fcd-11eb-924d-9cd76263cbd0,variety,acuminatus,Cladopodanthus,pilifer,"Dozy & Molk. ex M.Fleisch.",,1904,,"Musci Buitenzorg 1: 156 1904",,,,,,,wfo-0001180596,7376233,,
+ee943660-8fcd-11eb-924d-9cd76263cbd0,species,speciosus,Cladopodanthus,,"(Dozy & Molk.) M.Fleisch.",,1904,,"Musci Buitenzorg 1: 156 1904",,,,f3f66c54-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180597,2675364,,
+ee945118-8fcd-11eb-924d-9cd76263cbd0,species,truncatus,Cladopodanthus,,Dixon,,1935,,"J. Linn. Soc., Bot. 50: 73. 1 f. 6 1935",,,,,,,wfo-0001180598,7564329,,

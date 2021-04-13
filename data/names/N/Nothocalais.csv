@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e75c5a68-8fd1-11eb-924d-9cd76263cbd0,genus,Nothocalais,,,"(A.Gray) Greene",,,,,,,30204707-2,wfo-4000026263,8014513,
-5885a8e8-8fb4-11eb-924d-9cd76263cbd0,species,alpestris,Nothocalais,,"(A.Gray) K.L.Chambers",1957,"66 1957",,,,,170353-2,wfo-0000063660,3130426,
-8f547a3c-8fb6-11eb-924d-9cd76263cbd0,species,cuspidata,Nothocalais,,"(Pursh) Greene",1886,"55 1886",,,,03e1fc6c-8fc1-11eb-924d-9cd76263cbd0,170354-2,wfo-0000090735,3130419,
-a54ba726-8fb5-11eb-924d-9cd76263cbd0,species,nigrescens,Nothocalais,,"(L.F.Hend.) A.Heller",1900,"8 1900",,,,8fb0d7b8-8fb2-11eb-924d-9cd76263cbd0,234525-1,wfo-0000080500,3130417,
-a1d23a8c-8fbb-11eb-924d-9cd76263cbd0,species,suksdorfii,Nothocalais,,Greene,1886,"54 1886",,,,,170356-2,wfo-0000135625,4211663,
-929a0936-8fb2-11eb-924d-9cd76263cbd0,species,troximoides,Nothocalais,,"(A.Gray) Greene",1886,"55 1886",,,,0cee13a4-8fb2-11eb-924d-9cd76263cbd0,170357-2,wfo-0000028520,3130423,
-8ddeb008-8fcc-11eb-924d-9cd76263cbd0,species,neocaledonica,Nothocallitris,,"(Dümmer) A.V.Bobrov & Melikyan",2006,"Komarovia 4: 86 2006",,,,baac7be2-8fcc-11eb-924d-9cd76263cbd0,77076372-1,wfo-0000507692,2684309,
-8dded272-8fcc-11eb-924d-9cd76263cbd0,species,sulcata,Nothocallitris,,"(Parl.) A.V.Bobrov & Melikyan",2006,"Komarovia 4: 85 2006",,,,fc3327c8-8fcc-11eb-924d-9cd76263cbd0,77076371-1,wfo-0000507693,2684319,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e75c5a68-8fd1-11eb-924d-9cd76263cbd0,genus,Nothocalais,,,"(A.Gray) Greene",,,,,,,,,,30204707-2,wfo-4000026263,8014513,,
+5885a8e8-8fb4-11eb-924d-9cd76263cbd0,species,alpestris,Nothocalais,,"(A.Gray) K.L.Chambers",,1957,,"66 1957",,,,,,170353-2,wfo-0000063660,3130426,,
+8f547a3c-8fb6-11eb-924d-9cd76263cbd0,species,cuspidata,Nothocalais,,"(Pursh) Greene",,1886,,"55 1886",,,,03e1fc6c-8fc1-11eb-924d-9cd76263cbd0,,170354-2,wfo-0000090735,3130419,,
+a54ba726-8fb5-11eb-924d-9cd76263cbd0,species,nigrescens,Nothocalais,,"(L.F.Hend.) A.Heller",,1900,,"8 1900",,,,8fb0d7b8-8fb2-11eb-924d-9cd76263cbd0,,234525-1,wfo-0000080500,3130417,,
+a1d23a8c-8fbb-11eb-924d-9cd76263cbd0,species,suksdorfii,Nothocalais,,Greene,,1886,,"54 1886",,,,,,170356-2,wfo-0000135625,4211663,,
+929a0936-8fb2-11eb-924d-9cd76263cbd0,species,troximoides,Nothocalais,,"(A.Gray) Greene",,1886,,"55 1886",,,,0cee13a4-8fb2-11eb-924d-9cd76263cbd0,,170357-2,wfo-0000028520,3130423,,
+8ddeb008-8fcc-11eb-924d-9cd76263cbd0,species,neocaledonica,Nothocallitris,,"(Dümmer) A.V.Bobrov & Melikyan",,2006,,"Komarovia 4: 86 2006",,,,baac7be2-8fcc-11eb-924d-9cd76263cbd0,,77076372-1,wfo-0000507692,2684309,,
+8dded272-8fcc-11eb-924d-9cd76263cbd0,species,sulcata,Nothocallitris,,"(Parl.) A.V.Bobrov & Melikyan",,2006,,"Komarovia 4: 85 2006",,,,fc3327c8-8fcc-11eb-924d-9cd76263cbd0,,77076371-1,wfo-0000507693,2684319,,

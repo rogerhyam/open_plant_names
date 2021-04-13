@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e40d7108-8fd1-11eb-924d-9cd76263cbd0,genus,Glossarrhen,,,Mart.,1823,"Nov. Gen. Sp. Pl. 1: 21. 1823[1824].",,,,,,wfo-4000015792,7296344,
-02a77da2-8fcd-11eb-924d-9cd76263cbd0,species,floribundus,Glossarrhen,,Mart.,1824,"Nov. Gen. Sp. Pl. 1: 22 1824",,,,,866587-1,wfo-0000703996,4074874,
-02a7a034-8fcd-11eb-924d-9cd76263cbd0,species,mexicanus,Glossarrhen,,Steud.,1840,"Nomencl. Bot. ed. 2, 1: 689 1840",,,,,,wfo-0000703997,4074864,
-02a7ef76-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorus,Glossarrhen,,Mart.,1824,"Nov. Gen. Sp. Pl. 1: 23 1824",,,,,866590-1,wfo-0000703998,4074838,
-8ea96f0e-8fcd-11eb-924d-9cd76263cbd0,species,antennifera,Glossaspis,,Rchb.f.,1852,"Linnaea 25: 225 1852",,,,,635805-1,wfo-0000973843,2817679,
-8ea98b24-8fcd-11eb-924d-9cd76263cbd0,species,tentaculata,Glossaspis,,"(Lindl.) Spreng.",1826,"Syst. Veg. 3: 694 1826",,,,8ebc49da-8fcd-11eb-924d-9cd76263cbd0,635806-1,wfo-0000973844,2817675,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e40d7108-8fd1-11eb-924d-9cd76263cbd0,genus,Glossarrhen,,,Mart.,,1823,,"Nov. Gen. Sp. Pl. 1: 21. 1823[1824].",,,,,,,wfo-4000015792,7296344,,
+02a77da2-8fcd-11eb-924d-9cd76263cbd0,species,floribundus,Glossarrhen,,Mart.,,1824,,"Nov. Gen. Sp. Pl. 1: 22 1824",,,,,,866587-1,wfo-0000703996,4074874,,
+02a7a034-8fcd-11eb-924d-9cd76263cbd0,species,mexicanus,Glossarrhen,,Steud.,,1840,,"Nomencl. Bot. ed. 2, 1: 689 1840",,,,,,,wfo-0000703997,4074864,,
+02a7ef76-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorus,Glossarrhen,,Mart.,,1824,,"Nov. Gen. Sp. Pl. 1: 23 1824",,,,,,866590-1,wfo-0000703998,4074838,,
+8ea96f0e-8fcd-11eb-924d-9cd76263cbd0,species,antennifera,Glossaspis,,Rchb.f.,,1852,,"Linnaea 25: 225 1852",,,,,,635805-1,wfo-0000973843,2817679,,
+8ea98b24-8fcd-11eb-924d-9cd76263cbd0,species,tentaculata,Glossaspis,,"(Lindl.) Spreng.",,1826,,"Syst. Veg. 3: 694 1826",,,,8ebc49da-8fcd-11eb-924d-9cd76263cbd0,,635806-1,wfo-0000973844,2817675,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e547cac8-8fd1-11eb-924d-9cd76263cbd0,genus,Juruasia,,,Lindau,1904,"Bull. Herb. Boissier, sér. 2, 4: 402. 1904.",,,,,,wfo-4000019738,7263618,
-280f8932-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Juruasia,,Lindau,1904,"Bull. Herb. Boissier II, 4: 403 1904",,,,,132579-2,wfo-0000354273,3773751,
-b01f199a-8fcd-11eb-924d-9cd76263cbd0,species,rotundata,Juruasia,,Lindau,1904,"Bull. Herb. Boissier, sér. 2, 4: 403 1904",,,,,132580-2,wfo-0001043965,3773722,
-09feb2b4-8fcd-11eb-924d-9cd76263cbd0,species,jusbertii,,,"(K.Schum.) P.V.Heath",1992,"Calyx 1: 111 1992",,,,,963962-1,wfo-0000715898,,
-f2233df4-8fcc-11eb-924d-9cd76263cbd0,species,jusbertii,,,"(Rebut ex K.Schum.) Doweld",2001,"Tsukkulenty 4: 41 2001 publ. 2002",,,,c521e468-8fcc-11eb-924d-9cd76263cbd0,20011218-1,wfo-0000674287,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e547cac8-8fd1-11eb-924d-9cd76263cbd0,genus,Juruasia,,,Lindau,,1904,,"Bull. Herb. Boissier, sér. 2, 4: 402. 1904.",,,,,,,wfo-4000019738,7263618,,
+280f8932-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Juruasia,,Lindau,,1904,,"Bull. Herb. Boissier II, 4: 403 1904",,,,,,132579-2,wfo-0000354273,3773751,,
+b01f199a-8fcd-11eb-924d-9cd76263cbd0,species,rotundata,Juruasia,,Lindau,,1904,,"Bull. Herb. Boissier, sér. 2, 4: 403 1904",,,,,,132580-2,wfo-0001043965,3773722,,
+09feb2b4-8fcd-11eb-924d-9cd76263cbd0,species,jusbertii,,,"(K.Schum.) P.V.Heath",,1992,,"Calyx 1: 111 1992",,,,,,963962-1,wfo-0000715898,,,
+f2233df4-8fcc-11eb-924d-9cd76263cbd0,species,jusbertii,,,"(Rebut ex K.Schum.) Doweld",,2001,,"Tsukkulenty 4: 41 2001 publ. 2002",,,,c521e468-8fcc-11eb-924d-9cd76263cbd0,,20011218-1,wfo-0000674287,,,

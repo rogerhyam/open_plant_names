@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5503596-8fd1-11eb-924d-9cd76263cbd0,genus,Kanilia,,,Blume,1850,"Mus. Bot. 1: 140. 1850.",,,,,,wfo-4000019828,7273567,
-29d344ac-8fcc-11eb-924d-9cd76263cbd0,species,caryophylloides,Kanilia,,Blume,1850,"Mus. Bot. 1: 141 1850",,,,,719763-1,wfo-0000357245,3874141,
-29d41b20-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Kanilia,,Blume,1850,"Mus. Bot. 1: 140 1850",,,,,719764-1,wfo-0000357252,3874130,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5503596-8fd1-11eb-924d-9cd76263cbd0,genus,Kanilia,,,Blume,,1850,,"Mus. Bot. 1: 140. 1850.",,,,,,,wfo-4000019828,7273567,,
+29d344ac-8fcc-11eb-924d-9cd76263cbd0,species,caryophylloides,Kanilia,,Blume,,1850,,"Mus. Bot. 1: 141 1850",,,,,,719763-1,wfo-0000357245,3874141,,
+29d41b20-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Kanilia,,Blume,,1850,,"Mus. Bot. 1: 140 1850",,,,,,719764-1,wfo-0000357252,3874130,,

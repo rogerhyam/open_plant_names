@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e39f0d62-8fd1-11eb-924d-9cd76263cbd0,genus,Eversmannia,,,Bunge,,,,,,,22409-1,wfo-4000014397,2943923,
-a791e4ba-8fc8-11eb-924d-9cd76263cbd0,species,astragaloides,Eversmannia,,"Regel & Schmalh.",,,,,,,,wfo-0000209012,5348807,
-a74ea5d8-8fc8-11eb-924d-9cd76263cbd0,species,botschantzevii,Eversmannia,,Sarkisova,,,,,,,,wfo-0000209006,5348810,
-c795ae80-8fc9-11eb-924d-9cd76263cbd0,species,hedysaroides,Eversmannia,,Bunge,,,,,,,,wfo-0000214633,5348808,
-a76981b4-8fc8-11eb-924d-9cd76263cbd0,species,sarytavica,Eversmannia,,Sarkisova,,,,,,,897738-1,wfo-0000209009,5348805,
-a777249a-8fc8-11eb-924d-9cd76263cbd0,species,sogdiana,Eversmannia,,Ovcz.,,,,,,,,wfo-0000209010,5348809,
-989a2b60-8fc9-11eb-924d-9cd76263cbd0,species,subspinosa,Eversmannia,,"(DC.) B.Fedtsch.",,,,,,,,wfo-0000213721,5348806,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e39f0d62-8fd1-11eb-924d-9cd76263cbd0,genus,Eversmannia,,,Bunge,,,,,,,,,,22409-1,wfo-4000014397,2943923,,
+a791e4ba-8fc8-11eb-924d-9cd76263cbd0,species,astragaloides,Eversmannia,,"Regel & Schmalh.",,,,,,,,,,,wfo-0000209012,5348807,,
+a74ea5d8-8fc8-11eb-924d-9cd76263cbd0,species,botschantzevii,Eversmannia,,Sarkisova,,,,,,,,,,,wfo-0000209006,5348810,,
+c795ae80-8fc9-11eb-924d-9cd76263cbd0,species,hedysaroides,Eversmannia,,Bunge,,,,,,,,,,,wfo-0000214633,5348808,,
+a76981b4-8fc8-11eb-924d-9cd76263cbd0,species,sarytavica,Eversmannia,,Sarkisova,,,,,,,,,,897738-1,wfo-0000209009,5348805,,
+a777249a-8fc8-11eb-924d-9cd76263cbd0,species,sogdiana,Eversmannia,,Ovcz.,,,,,,,,,,,wfo-0000209010,5348809,,
+989a2b60-8fc9-11eb-924d-9cd76263cbd0,species,subspinosa,Eversmannia,,"(DC.) B.Fedtsch.",,,,,,,,,,,wfo-0000213721,5348806,,

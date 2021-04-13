@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfc6f132-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrobotrya,,,J.Sm.,1875,"Hist. Fil. 141. 1875.",,,,,,wfo-4000003153,7288629,
-c1995bc8-8fd1-11eb-924d-9cd76263cbd0,species,articulata,Arthrobotrya,,"(Fée) J.Sm.",1875,"Hist. Fil. 141 1875",,,,,,wfo-0001257130,4011241,
-45d00e06-8fbd-11eb-924d-9cd76263cbd0,species,brightiae,Arthrobotrya,,Pic.Serm.,1969,"Webbia 23: 382. 1969. 1969",,,,,17428200-1,wfo-0000146735,4012482,
-45d9830a-8fbd-11eb-924d-9cd76263cbd0,species,wilkesiana,Arthrobotrya,,Copel.,1947,"Gen. Fil. [Copeland] 118 1947",,,,,17370160-1,wfo-0000146736,4012475,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfc6f132-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrobotrya,,,J.Sm.,,1875,,"Hist. Fil. 141. 1875.",,,,,,,wfo-4000003153,7288629,,
+c1995bc8-8fd1-11eb-924d-9cd76263cbd0,species,articulata,Arthrobotrya,,"(Fée) J.Sm.",,1875,,"Hist. Fil. 141 1875",,,,,,,wfo-0001257130,4011241,,
+45d00e06-8fbd-11eb-924d-9cd76263cbd0,species,brightiae,Arthrobotrya,,Pic.Serm.,,1969,,"Webbia 23: 382. 1969. 1969",,Q55757948,,,,17428200-1,wfo-0000146735,4012482,,
+45d9830a-8fbd-11eb-924d-9cd76263cbd0,species,wilkesiana,Arthrobotrya,,Copel.,,1947,,"Gen. Fil. [Copeland] 118 1947",,,,,,17370160-1,wfo-0000146736,4012475,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e386ad4e-8fd1-11eb-924d-9cd76263cbd0,genus,Eucatagonium,,,"M.Fleisch. ex Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 177. 1925.",,,,,,wfo-4000014097,4904055,
-e7d4a8b4-8fcd-11eb-924d-9cd76263cbd0,species,brevicaudatum,Eucatagonium,,"(Müll.Hal. ex Broth.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,ee4e334a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001166690,7696941,
-e7d4c52e-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Eucatagonium,,"(Besch.) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,,,wfo-0001166691,7623905,
-e7d4e23e-8fcd-11eb-924d-9cd76263cbd0,species,mucronatum,Eucatagonium,,"(A.Jaeger) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,defac926-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001166692,7564664,
-e7d4fc6a-8fcd-11eb-924d-9cd76263cbd0,species,politum,Eucatagonium,,"(Hook.f. & Wilson) Broth.",1925,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,e3695afe-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001166693,8398192,
-f5e92142-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Eucentrus,,"(L.f.) C.Presl",1845,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 463 1845",,,,,,wfo-0000680996,7735692,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e386ad4e-8fd1-11eb-924d-9cd76263cbd0,genus,Eucatagonium,,,"M.Fleisch. ex Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 177. 1925.",,,,,,,wfo-4000014097,4904055,,
+e7d4a8b4-8fcd-11eb-924d-9cd76263cbd0,species,brevicaudatum,Eucatagonium,,"(Müll.Hal. ex Broth.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,ee4e334a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001166690,7696941,,
+e7d4c52e-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Eucatagonium,,"(Besch.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,,,,wfo-0001166691,7623905,,
+e7d4e23e-8fcd-11eb-924d-9cd76263cbd0,species,mucronatum,Eucatagonium,,"(A.Jaeger) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,defac926-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001166692,7564664,,
+e7d4fc6a-8fcd-11eb-924d-9cd76263cbd0,species,politum,Eucatagonium,,"(Hook.f. & Wilson) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 178 1925",,,,e3695afe-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001166693,8398192,,
+f5e92142-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Eucentrus,,"(L.f.) C.Presl",,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 463 1845",,,,,,,wfo-0000680996,7735692,,

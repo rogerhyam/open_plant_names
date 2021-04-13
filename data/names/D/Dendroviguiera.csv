@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2982066-8fd1-11eb-924d-9cd76263cbd0,genus,Dendroviguiera,,,"E.E.Schill. & Panero",,,,,,,77115739-1,wfo-4000011125,7525349,
-afc3fb0a-8fcd-11eb-924d-9cd76263cbd0,species,eriophora,Dendroviguiera,,"(Greenm.) E.E.Schill. & Panero",2011,"Bot. J. Linn. Soc. 167: 325 2011",,,,2a7a3a16-8fb6-11eb-924d-9cd76263cbd0,77115753-1,wfo-0001043168,8355885,
-afc4193c-8fcd-11eb-924d-9cd76263cbd0,species,sylvatica,Dendroviguiera,,"(Klatt) E.E.Schill. & Panero",2011,"Bot. J. Linn. Soc. 167: 326 2011",,,,,77115770-1,wfo-0001043169,7663549,
-7fd005b0-8fcd-11eb-924d-9cd76263cbd0,species,forsteriana,Denea,,"(F.Muell.) O.F.Cook",1926,"J. Wash. Acad. Sci. 16: 397 1926",,,,1983274e-8fcb-11eb-924d-9cd76263cbd0,666582-1,wfo-0000941805,5293808,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2982066-8fd1-11eb-924d-9cd76263cbd0,genus,Dendroviguiera,,,"E.E.Schill. & Panero",,,,,,Q43295841,,,,77115739-1,wfo-4000011125,7525349,,
+afc3fb0a-8fcd-11eb-924d-9cd76263cbd0,species,eriophora,Dendroviguiera,,"(Greenm.) E.E.Schill. & Panero",,2011,,"Bot. J. Linn. Soc. 167: 325 2011",,Q43295841,,2a7a3a16-8fb6-11eb-924d-9cd76263cbd0,,77115753-1,wfo-0001043168,8355885,,
+afc4193c-8fcd-11eb-924d-9cd76263cbd0,species,sylvatica,Dendroviguiera,,"(Klatt) E.E.Schill. & Panero",,2011,,"Bot. J. Linn. Soc. 167: 326 2011",,Q43295841,,,,77115770-1,wfo-0001043169,7663549,,

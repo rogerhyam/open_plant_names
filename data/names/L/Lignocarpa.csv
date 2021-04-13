@@ -1,8 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5eaed7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lignocarpa,,,J.W.Dawson,1967,"New Zealand J. Bot. 5: 400. 1967.",,,,,40197-1,wfo-4000021712,6027265,
-2be33f0e-8fcc-11eb-924d-9cd76263cbd0,species,carnosula,Lignocarpa,,"(Hook.f.) J.W.Dawson",1967,"New Zealand J. Bot. 5: 405 1967",,,,56b4c40a-8fcc-11eb-924d-9cd76263cbd0,844309-1,wfo-0000360656,3640763,
-ba8dcb92-8fcd-11eb-924d-9cd76263cbd0,species,carnulosa,Lignocarpa,,Dawson,,,,,,,,wfo-0001067736,8196634,
-2be35958-8fcc-11eb-924d-9cd76263cbd0,species,diversifolia,Lignocarpa,,"(Cheeseman) J.W.Dawson",1967,"New Zealand J. Bot. 5: 405 1967",,,,,844310-1,wfo-0000360657,3640754,
-69304316-8fcc-11eb-924d-9cd76263cbd0,species,monodynama,Lignonia,,J.F.Gmel.,1791,"Syst. Nat. 373 1791",,,,,866962-1,wfo-0000445327,4075538,
-24392f74-8fc8-11eb-924d-9cd76263cbd0,species,murinum-majus,Lignum,,Rumph.,,,,,,,,wfo-0000206336,2973178,
-2be375dc-8fcc-11eb-924d-9cd76263cbd0,species,aciphyllum,Ligosticon,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 129 1880",,,,,844311-1,wfo-0000360658,3640737,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5eaed7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lignocarpa,,,J.W.Dawson,,1967,,"New Zealand J. Bot. 5: 400. 1967.",,,,,,40197-1,wfo-4000021712,6027265,,
+2be33f0e-8fcc-11eb-924d-9cd76263cbd0,species,carnosula,Lignocarpa,,"(Hook.f.) J.W.Dawson",,1967,,"New Zealand J. Bot. 5: 405 1967",,,,56b4c40a-8fcc-11eb-924d-9cd76263cbd0,,844309-1,wfo-0000360656,3640763,,
+ba8dcb92-8fcd-11eb-924d-9cd76263cbd0,species,carnulosa,Lignocarpa,,Dawson,,,,,,,,,,,wfo-0001067736,8196634,,
+2be35958-8fcc-11eb-924d-9cd76263cbd0,species,diversifolia,Lignocarpa,,"(Cheeseman) J.W.Dawson",,1967,,"New Zealand J. Bot. 5: 405 1967",,,,,,844310-1,wfo-0000360657,3640754,,

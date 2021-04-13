@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7a63d18-8fd1-11eb-924d-9cd76263cbd0,genus,Oresigonia,,,,,,,,,,,wfo-4000027131,7338962,
-385eae12-8fb3-11eb-924d-9cd76263cbd0,species,angustifolia,Oresigonia,,"Willd. ex Rockh.",1939,"Bot. Jahrb. Syst. Ixx. 310 (1939), in syn. ""Ixx. 310 , in syn."" 1939",,,,,235570-1,wfo-0000044120,4254372,
-4169077a-8fbb-11eb-924d-9cd76263cbd0,species,brevifolia,Oresigonia,,"Willd. ex Wedd.",,"Chlor. And. i. 82",,,,,,wfo-0000132894,8118055,
-0b3a357e-8fbc-11eb-924d-9cd76263cbd0,species,grandiflora,Oresigonia,,"Willd. ex Rockh.",1939,"Bot. Jahrb. Syst. Ixx. 301 (1939), in syn. ""Ixx. 301 , in syn."" 1939",,,,,235572-1,wfo-0000138461,4254361,
-027f8c22-8fb2-11eb-924d-9cd76263cbd0,species,latifolia,Oresigonia,,"Willd. ex Less.",,"Syn. Gen. Compos. 393",,,,,235573-1,wfo-0000004252,7608116,
-683e562a-8fb6-11eb-924d-9cd76263cbd0,species,parviflora,Oresigonia,,"Willd. ex Rockh.",1939,"Bot. Jahrb. Syst. Ixx. 312 (1939), in syn. ""Ixx. 312 , in syn."" 1939",,,,,235574-1,wfo-0000089134,4254351,
-a5568722-8fba-11eb-924d-9cd76263cbd0,species,pycnophylla,Oresigonia,,"Bonpl. ex Wedd.",,"Chlor. And. i. 83",,,,,,wfo-0000128315,4254345,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7a63d18-8fd1-11eb-924d-9cd76263cbd0,genus,Oresigonia,,,,,,,,,,,,,,wfo-4000027131,7338962,,
+385eae12-8fb3-11eb-924d-9cd76263cbd0,species,angustifolia,Oresigonia,,"Willd. ex Rockh.",,1939,,"Bot. Jahrb. Syst. Ixx. 310 (1939), in syn. ""Ixx. 310 , in syn."" 1939",,,,,,235570-1,wfo-0000044120,4254372,,
+4169077a-8fbb-11eb-924d-9cd76263cbd0,species,brevifolia,Oresigonia,,"Willd. ex Wedd.",,,,"Chlor. And. i. 82",,,,,,,wfo-0000132894,8118055,,
+0b3a357e-8fbc-11eb-924d-9cd76263cbd0,species,grandiflora,Oresigonia,,"Willd. ex Rockh.",,1939,,"Bot. Jahrb. Syst. Ixx. 301 (1939), in syn. ""Ixx. 301 , in syn."" 1939",,,,,,235572-1,wfo-0000138461,4254361,,
+027f8c22-8fb2-11eb-924d-9cd76263cbd0,species,latifolia,Oresigonia,,"Willd. ex Less.",,,,"Syn. Gen. Compos. 393",,,,,,235573-1,wfo-0000004252,7608116,,
+683e562a-8fb6-11eb-924d-9cd76263cbd0,species,parviflora,Oresigonia,,"Willd. ex Rockh.",,1939,,"Bot. Jahrb. Syst. Ixx. 312 (1939), in syn. ""Ixx. 312 , in syn."" 1939",,,,,,235574-1,wfo-0000089134,4254351,,
+a5568722-8fba-11eb-924d-9cd76263cbd0,species,pycnophylla,Oresigonia,,"Bonpl. ex Wedd.",,,,"Chlor. And. i. 83",,,,,,,wfo-0000128315,4254345,,

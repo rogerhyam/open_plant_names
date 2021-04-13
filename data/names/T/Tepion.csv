@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb2afadc-8fd1-11eb-924d-9cd76263cbd0,genus,Tepion,,,,,,,,,,,wfo-4000037776,3130693,
-0cbb5a90-8fb2-11eb-924d-9cd76263cbd0,species,alatum,Tepion,,"Britton ex P.Wilson",1917,"Bull. New York Bot. Gard. 8: 408. 1917",,,,,250444-2,wfo-0000007845,8171215,
-a095d4e6-8fb4-11eb-924d-9cd76263cbd0,species,alatum,Tepion,,"(L.) Britton",1917,"408 1917",,,,a66a014a-8fbd-11eb-924d-9cd76263cbd0,255278-1,wfo-0000067691,3147907,
-4f45bda0-8fcc-11eb-924d-9cd76263cbd0,species,odontites,Tepso,,"(L.) Raf.",1840,"Good Book 54 1840",,,,,849309-1,wfo-0000409851,3635826,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb2afadc-8fd1-11eb-924d-9cd76263cbd0,genus,Tepion,,,,,,,,,,,,,,wfo-4000037776,3130693,,
+a095d4e6-8fb4-11eb-924d-9cd76263cbd0,species,alatum,Tepion,,"(L.) Britton",,1917,,"408 1917",,,,a66a014a-8fbd-11eb-924d-9cd76263cbd0,,255278-1,wfo-0000067691,3147907,,
+0cbb5a90-8fb2-11eb-924d-9cd76263cbd0,species,alatum,Tepion,,"Britton ex P.Wilson",,1917,,"Bull. New York Bot. Gard. 8: 408. 1917",,,,,,250444-2,wfo-0000007845,8171215,,
+4f45bda0-8fcc-11eb-924d-9cd76263cbd0,species,odontites,Tepso,,"(L.) Raf.",,1840,,"Good Book 54 1840",,,,,,849309-1,wfo-0000409851,3635826,,

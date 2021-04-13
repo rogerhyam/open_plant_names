@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6eee866-8fd1-11eb-924d-9cd76263cbd0,genus,Mossia,,,N.E.Br.,1930,"Gard. Chron. ser. 3. 87: 71. 1930.",,,,,16265-1,wfo-4000024907,3231677,
-d91c53ea-8fd1-11eb-924d-9cd76263cbd0,species,intervallaris,Mossia,,"(L.Bolus) N.E.Br.",1930,"Gard. Chron., ser. 3 87: 71 1930",,,,,363784-1,wfo-0001293656,5554080,
-3323151e-8fcc-11eb-924d-9cd76263cbd0,species,verdoorniae,Mossia,,N.E.Br.,1934,"Cact. J. (Croydon) 3: 11 1934",,,,,363785-1,wfo-0000372567,5554076,
-cd889ebc-8fd1-11eb-924d-9cd76263cbd0,species,mossii,,,"(Lepage) Barkworth",2006,"Sida 22(1): 497 2006",,,,46116ba2-8fcd-11eb-924d-9cd76263cbd0,60443114-2,wfo-0001279015,,
-46116ba2-8fcd-11eb-924d-9cd76263cbd0,species,mossii,,,Lepage,1965,"Naturaliste Canad. 92: 214 1965",,,,,316527-2,wfo-0000840972,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6eee866-8fd1-11eb-924d-9cd76263cbd0,genus,Mossia,,,N.E.Br.,,1930,,"Gard. Chron. ser. 3. 87: 71. 1930.",,,,,,16265-1,wfo-4000024907,3231677,,
+d91c53ea-8fd1-11eb-924d-9cd76263cbd0,species,intervallaris,Mossia,,"(L.Bolus) N.E.Br.",,1930,,"Gard. Chron., ser. 3 87: 71 1930",,,,,,363784-1,wfo-0001293656,5554080,,
+3323151e-8fcc-11eb-924d-9cd76263cbd0,species,verdoorniae,Mossia,,N.E.Br.,,1934,,"Cact. J. (Croydon) 3: 11 1934",,,,,,363785-1,wfo-0000372567,5554076,,
+46116ba2-8fcd-11eb-924d-9cd76263cbd0,species,mossii,,,Lepage,,1965,,"Naturaliste Canad. 92: 214 1965",,,,,,316527-2,wfo-0000840972,,,
+cd889ebc-8fd1-11eb-924d-9cd76263cbd0,species,mossii,,,"(Lepage) Barkworth",,2006,,"Sida 22(1): 497 2006",,Q91203183,,46116ba2-8fcd-11eb-924d-9cd76263cbd0,,60443114-2,wfo-0001279015,,,

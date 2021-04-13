@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0248c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Behnia,,,Didr.,1854,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjo|benhavn 1854: 182. 1855.",,,,,24040-1,wfo-4000004316,7988302,
-20d33d8e-8fcd-11eb-924d-9cd76263cbd0,species,reticulata,Behnia,,"(Thunb.) Didr.",1854,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 6: 183 1854",,,,,,wfo-0000761368,2781143,
-20d35b66-8fcd-11eb-924d-9cd76263cbd0,species,tenuiflora,Behria,,Greene,1887,"Bull. Calif. Acad. Sci. 2(4): 143 1887",,,,,,wfo-0000761369,2769035,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0248c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Behnia,,,Didr.,,1854,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjo|benhavn 1854: 182. 1855.",,,,,,24040-1,wfo-4000004316,7988302,,
+20d33d8e-8fcd-11eb-924d-9cd76263cbd0,species,reticulata,Behnia,,"(Thunb.) Didr.",,1854,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 6: 183 1854",,,,,,,wfo-0000761368,2781143,,
+20d35b66-8fcd-11eb-924d-9cd76263cbd0,species,tenuiflora,Behria,,Greene,,1887,,"Bull. Calif. Acad. Sci. 2(4): 143 1887",,,,,,,wfo-0000761369,2769035,,

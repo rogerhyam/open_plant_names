@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e781ddb0-8fd1-11eb-924d-9cd76263cbd0,genus,Okenia,,,"Schltdl. & Cham.",1830,"Linnaea 5(1): 92–93. 1830. (Jan 1830)",,,,,326861-2,wfo-4000026688,3086101,
-3ee3833e-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Okenia,,Standl.,1911,"Contr. U. S. Natl. Herb. 13: 397 1911",,,,,173613-2,wfo-0000388912,5553428,
-3ee31bce-8fcc-11eb-924d-9cd76263cbd0,species,hypogaea,Okenia,,"Schltdl. & Cham.",1830,"Linnaea 5: 92 1830",,,,,326881-2,wfo-0000388909,5384867,
-3ee2f8ba-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Okenia,,"Paul G.Wilson",1958,"Kew Bull. 13: 169 1958",,,,,173614-2,wfo-0000388908,5553423,
-3ee2d3b2-8fcc-11eb-924d-9cd76263cbd0,species,rosei,Okenia,,Standl.,1911,"Contr. U. S. Natl. Herb. 13: 398 1911",,,,,173615-2,wfo-0000388907,5553419,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e781ddb0-8fd1-11eb-924d-9cd76263cbd0,genus,Okenia,,,"Schltdl. & Cham.",,1830,,"Linnaea 5(1): 92–93. 1830. (Jan 1830)",,,,,,326861-2,wfo-4000026688,3086101,,
+3ee3833e-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Okenia,,Standl.,,1911,,"Contr. U. S. Natl. Herb. 13: 397 1911",,Q95371665,,,,173613-2,wfo-0000388912,5553428,,
+3ee31bce-8fcc-11eb-924d-9cd76263cbd0,species,hypogaea,Okenia,,"Schltdl. & Cham.",,1830,,"Linnaea 5: 92 1830",,,,,,326881-2,wfo-0000388909,5384867,,
+3ee2f8ba-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Okenia,,"Paul G.Wilson",,1958,,"Kew Bull. 13: 169 1958",,,,,,173614-2,wfo-0000388908,5553423,,
+3ee2d3b2-8fcc-11eb-924d-9cd76263cbd0,species,rosei,Okenia,,Standl.,,1911,,"Contr. U. S. Natl. Herb. 13: 398 1911",,Q95371665,,,,173615-2,wfo-0000388907,5553419,,

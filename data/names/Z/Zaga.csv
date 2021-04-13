@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec32ec3c-8fd1-11eb-924d-9cd76263cbd0,genus,Zaga,,,,,,,,,,,wfo-4000041120,3233192,
-5efdcfb2-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Zaga,,Raf.,1837,"Fl. Tellur. 2: 33 1837",,,,,525921-1,wfo-0000430053,5629955,
-5efe45b4-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Zaga,,Raf.,1837,"Fl. Tellur. 2: 33 1837",,,,,525922-1,wfo-0000430054,5629954,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec32ec3c-8fd1-11eb-924d-9cd76263cbd0,genus,Zaga,,,,,,,,,,,,,,wfo-4000041120,3233192,,
+5efdcfb2-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Zaga,,Raf.,,1837,,"Fl. Tellur. 2: 33 1837",,,,,,525921-1,wfo-0000430053,5629955,,
+5efe45b4-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Zaga,,Raf.,,1837,,"Fl. Tellur. 2: 33 1837",,,,,,525922-1,wfo-0000430054,5629954,,

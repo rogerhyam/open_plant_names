@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea2c5252-8fd1-11eb-924d-9cd76263cbd0,genus,Scleropus,,,Schrad.,1835,"Index Semina Horto Go%tt. 1835: 5. 1835.",,,,,,wfo-4000034757,3231845,
-6301f14c-8fcc-11eb-924d-9cd76263cbd0,species,amaranthoides,Scleropus,,Schrad.,1835,"Index Seminum (GOET) 1835: 5 1835",,,,,,wfo-0000435075,5548267,
-b12d2cfa-8fcd-11eb-924d-9cd76263cbd0,species,crassipes,Scleropus,,"(Schltdl.) Moq.",1849,"Prodr. 13(2): 271 1849",,,,9aff4ab8-8fcc-11eb-924d-9cd76263cbd0,61384-1,wfo-0001046321,5548264,
-b128ef28-8fcd-11eb-924d-9cd76263cbd0,species,squamulatus,Scleropus,,Andersson,1853,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 1853: 162 1855",,,,,230864-2,wfo-0001046281,5548259,
-b131d192-8fcd-11eb-924d-9cd76263cbd0,species,urceolatus,Scleropus,,Andersson,1853,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 1853: 162 1855",,,,,61386-1,wfo-0001046363,5548254,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea2c5252-8fd1-11eb-924d-9cd76263cbd0,genus,Scleropus,,,Schrad.,,1835,,"Index Semina Horto Go%tt. 1835: 5. 1835.",,,,,,,wfo-4000034757,3231845,,
+6301f14c-8fcc-11eb-924d-9cd76263cbd0,species,amaranthoides,Scleropus,,Schrad.,,1835,,"Index Seminum (GOET) 1835: 5 1835",,,,,,,wfo-0000435075,5548267,,
+b12d2cfa-8fcd-11eb-924d-9cd76263cbd0,species,crassipes,Scleropus,,"(Schltdl.) Moq.",,1849,,"Prodr. 13(2): 271 1849",,,,9aff4ab8-8fcc-11eb-924d-9cd76263cbd0,,61384-1,wfo-0001046321,5548264,,
+b128ef28-8fcd-11eb-924d-9cd76263cbd0,species,squamulatus,Scleropus,,Andersson,,1853,,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 1853: 162 1855",,,,,,230864-2,wfo-0001046281,5548259,,
+b131d192-8fcd-11eb-924d-9cd76263cbd0,species,urceolatus,Scleropus,,Andersson,,1853,,"Kongl. Svenska Vetensk. Acad. Handl., n.s. 1853: 162 1855",,,,,,61386-1,wfo-0001046363,5548254,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e49d44d6-8fd1-11eb-924d-9cd76263cbd0,genus,Henophyton,,,"Coss. & Durieu",1856,"Ann. Sci. Nat., Bot., sér. 4, 4: 282. 1856.",,,,,12645-1,wfo-4000017484,3047659,
-ad0482cc-8fcd-11eb-924d-9cd76263cbd0,species,deserti,Henophyton,,"(Coss. & Durieu) Coss. & Durieu",1855,"Ann. Sci. Nat., Bot., sér. 4, 4: 282 1855",,,,acc1c2d4-8fcd-11eb-924d-9cd76263cbd0,284821-1,wfo-0001036906,3047663,
-b4caf3ac-8fd1-11eb-924d-9cd76263cbd0,subspecies,zygarrhenum,Henophyton,deserti,Greuter,,,,,,,,wfo-0001233291,3047661,
-ad04b968-8fcd-11eb-924d-9cd76263cbd0,subspecies,zygarrhenum,Henophyton,deserti,"(Maire) Greuter & Burdet",1983,"Willemetia 13: 93 1983",,,,,922238-1,wfo-0001036908,3047661,
-ad04d56a-8fcd-11eb-924d-9cd76263cbd0,species,zygarrhenum,Henophyton,,"(Maire) Gomez-Campo",1998,"Anales IV Congr. Latinamer. Bot. 56: 381 1998",,,,,,wfo-0001036909,3047660,
-923d9e6a-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Henosis,,Hook.f.,1890,"Fl. Brit. India 5: 771 1890",,,,,,wfo-0000981473,5306250,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e49d44d6-8fd1-11eb-924d-9cd76263cbd0,genus,Henophyton,,,"Coss. & Durieu",,1856,,"Ann. Sci. Nat., Bot., sér. 4, 4: 282. 1856.",,Q95996379,,,,12645-1,wfo-4000017484,3047659,,
+ad0482cc-8fcd-11eb-924d-9cd76263cbd0,species,deserti,Henophyton,,"(Coss. & Durieu) Coss. & Durieu",,1855,,"Ann. Sci. Nat., Bot., sér. 4, 4: 282 1855",,,,acc1c2d4-8fcd-11eb-924d-9cd76263cbd0,,284821-1,wfo-0001036906,3047663,,
+b4caf3ac-8fd1-11eb-924d-9cd76263cbd0,subspecies,zygarrhenum,Henophyton,deserti,Greuter,,,,,,,,,,,wfo-0001233291,3047661,,
+ad04b968-8fcd-11eb-924d-9cd76263cbd0,subspecies,zygarrhenum,Henophyton,deserti,"(Maire) Greuter & Burdet",,1983,,"Willemetia 13: 93 1983",,,,,,922238-1,wfo-0001036908,3047661,,
+ad04d56a-8fcd-11eb-924d-9cd76263cbd0,species,zygarrhenum,Henophyton,,"(Maire) Gomez-Campo",,1998,,"Anales IV Congr. Latinamer. Bot. 56: 381 1998",,,,,,,wfo-0001036909,3047660,,
+923d9e6a-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Henosis,,Hook.f.,,1890,,"Fl. Brit. India 5: 771 1890",,,,,,,wfo-0000981473,5306250,,

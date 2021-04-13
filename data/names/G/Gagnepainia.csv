@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3d931f4-8fd1-11eb-924d-9cd76263cbd0,genus,Gagnepainia,,,K.Schum.,1904,"Pflanzenr. IV. 46(Heft 20): 129. 1904.",,,,,41672-1,wfo-4000015169,2757337,
-5c88b54e-8fcc-11eb-924d-9cd76263cbd0,species,godefroyi,Gagnepainia,,"(Baill.) K.Schum.",1904,"Pflanzenr. IV, 46: 130 1904",,,,662ff666-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000426846,2757340,
-5c8a02d2-8fcc-11eb-924d-9cd76263cbd0,species,harmandii,Gagnepainia,,"(Baill.) K.Schum.",1904,"Pflanzenr. IV, 46: 129 1904",,,,66306aec-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000426853,2757342,
-5c8afc78-8fcc-11eb-924d-9cd76263cbd0,species,thoreliana,Gagnepainia,,"(Baill.) K.Schum.",1904,"Pflanzenr. IV, 46: 130 1904",,,,66340c38-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000426860,2757338,
-fcf60022-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Gagria,,M.Král,1981,"Preslia 53: 172 1981",,,,,897786-1,wfo-0000693617,3040570,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3d931f4-8fd1-11eb-924d-9cd76263cbd0,genus,Gagnepainia,,,K.Schum.,,1904,,"Pflanzenr. IV. 46(Heft 20): 129. 1904.",,,,,,41672-1,wfo-4000015169,2757337,,
+5c88b54e-8fcc-11eb-924d-9cd76263cbd0,species,godefroyi,Gagnepainia,,"(Baill.) K.Schum.",,1904,,"Pflanzenr. IV, 46: 130 1904",,,,662ff666-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000426846,2757340,,
+5c8a02d2-8fcc-11eb-924d-9cd76263cbd0,species,harmandii,Gagnepainia,,"(Baill.) K.Schum.",,1904,,"Pflanzenr. IV, 46: 129 1904",,,,66306aec-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000426853,2757342,,
+5c8afc78-8fcc-11eb-924d-9cd76263cbd0,species,thoreliana,Gagnepainia,,"(Baill.) K.Schum.",,1904,,"Pflanzenr. IV, 46: 130 1904",,,,66340c38-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000426860,2757338,,
+fcf60022-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Gagria,,M.Král,,1981,,"Preslia 53: 172 1981",,,,,,897786-1,wfo-0000693617,3040570,,

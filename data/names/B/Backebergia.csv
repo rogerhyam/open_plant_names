@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e001bfba-8fd1-11eb-924d-9cd76263cbd0,genus,Backebergia,,,Bravo,1953,"Anales Inst. Biol. Univ. Nac. México 24(2): 230–231. 1953[1954]. (24 Mar 1954)",,,,,,wfo-4000003851,7281973,
-ac421166-8fcc-11eb-924d-9cd76263cbd0,species,chrysomallus,Backebergia,,"(Lem.) Bravo",1954,"Anales Inst. Biol. Univ. Nac. México 24: 231 1954",,,,45fe536a-8fcc-11eb-924d-9cd76263cbd0,28266-2,wfo-0000558198,3950395,
-ac422e12-8fcc-11eb-924d-9cd76263cbd0,species,militaris,Backebergia,,"(Audot) Bravo ex Sánchez-Mej.",1973,"Cact. Succ. J. (Los Angeles) 45: 174 1973",,,,c532a654-8fcc-11eb-924d-9cd76263cbd0,28267-2,wfo-0000558199,7548354,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e001bfba-8fd1-11eb-924d-9cd76263cbd0,genus,Backebergia,,,Bravo,,1953,,"Anales Inst. Biol. Univ. Nac. México 24(2): 230–231. 1953[1954]. (24 Mar 1954)",,,,,,,wfo-4000003851,7281973,,
+ac421166-8fcc-11eb-924d-9cd76263cbd0,species,chrysomallus,Backebergia,,"(Lem.) Bravo",,1954,,"Anales Inst. Biol. Univ. Nac. México 24: 231 1954",,,,45fe536a-8fcc-11eb-924d-9cd76263cbd0,,28266-2,wfo-0000558198,3950395,,
+ac422e12-8fcc-11eb-924d-9cd76263cbd0,species,militaris,Backebergia,,"(Audot) Bravo ex Sánchez-Mej.",,1973,,"Cact. Succ. J. (Los Angeles) 45: 174 1973",,,,c532a654-8fcc-11eb-924d-9cd76263cbd0,,28267-2,wfo-0000558199,7548354,,

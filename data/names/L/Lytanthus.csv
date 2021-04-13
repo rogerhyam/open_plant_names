@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e62e1096-8fd1-11eb-924d-9cd76263cbd0,genus,Lytanthus,,,R.v.Wettstein,1895,"Bull. Herb. Boissier 3: 271. 1895.",,,,,,wfo-4000022581,7265182,
-2de9840c-8fcc-11eb-924d-9cd76263cbd0,species,amygdalifolius,Lytanthus,,Wettst.,1895,"Bull. Herb. Boissier 3: 272 1895",,,,,813218-1,wfo-0000364040,3788471,
-2de9bdc8-8fcc-11eb-924d-9cd76263cbd0,species,salicinus,Lytanthus,,Wettst.,1895,"Bull. Herb. Boissier 3: 272 1895",,,,,813219-1,wfo-0000364042,3788461,
-2fb2d1e4-8fcc-11eb-924d-9cd76263cbd0,species,salicarium,Lythron,,St.-Lag.,1880,"Ann. Soc. Bot. Lyon 7: 113 1880",,,,,553642-1,wfo-0000366654,3990008,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e62e1096-8fd1-11eb-924d-9cd76263cbd0,genus,Lytanthus,,,R.v.Wettstein,,1895,,"Bull. Herb. Boissier 3: 271. 1895.",,,,,,,wfo-4000022581,7265182,,
+2de9840c-8fcc-11eb-924d-9cd76263cbd0,species,amygdalifolius,Lytanthus,,Wettst.,,1895,,"Bull. Herb. Boissier 3: 272 1895",,,,,,813218-1,wfo-0000364040,3788471,,
+2de9bdc8-8fcc-11eb-924d-9cd76263cbd0,species,salicinus,Lytanthus,,Wettst.,,1895,,"Bull. Herb. Boissier 3: 272 1895",,,,,,813219-1,wfo-0000364042,3788461,,
+2fb2d1e4-8fcc-11eb-924d-9cd76263cbd0,species,salicarium,Lythron,,St.-Lag.,,1880,,"Ann. Soc. Bot. Lyon 7: 113 1880",,,,,,553642-1,wfo-0000366654,3990008,,

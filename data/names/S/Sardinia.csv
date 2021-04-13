@@ -1,15 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9f9587a-8fd1-11eb-924d-9cd76263cbd0,genus,Sardinia,,,Vell.,1825,"Fl. Flumin. 144. 1825.",,,,,,wfo-4000034097,7270991,
-087938de-8fcc-11eb-924d-9cd76263cbd0,species,bella,Sardinia,,Vell.,1829,"Fl. Flumin. 3: 144, t. 163 1829",,,,,766117-1,wfo-0000303905,5596803,
-60f0d8b8-8fcd-11eb-924d-9cd76263cbd0,species,angusta,Sarga,,"(S.T.Blake) Spangler",2003,"Austral. Syst. Bot. 16: 289 2003",,,,,70027979-1,wfo-0000896893,4132415,
-60f10266-8fcd-11eb-924d-9cd76263cbd0,species,intrans,Sarga,,"(F.Muell. ex Benth.) Spangler",2003,"Austral. Syst. Bot. 16: 290 2003",,,,641ba432-8fcd-11eb-924d-9cd76263cbd0,70027988-1,wfo-0000896894,4132407,
-60f122c8-8fcd-11eb-924d-9cd76263cbd0,species,leioclada,Sarga,,"(Hack.) Spangler",2003,"Austral. Syst. Bot. 16: 290 2003",,,,5e61dc1e-8fcd-11eb-924d-9cd76263cbd0,70027981-1,wfo-0000896895,4132392,
-60f182cc-8fcd-11eb-924d-9cd76263cbd0,species,plumosa,Sarga,,"(R.Br.) Spangler",2003,"Austral. Syst. Bot. 16: 291 2003",,,,e851c7f0-8fcc-11eb-924d-9cd76263cbd0,70027982-1,wfo-0000896898,4132383,
-60f1d65a-8fcd-11eb-924d-9cd76263cbd0,species,purpureosericea,Sarga,,"(Hochst. ex A.Rich.) Spangler",2003,"Austral. Syst. Bot. 16: 291 2003",,,,,70027983-1,wfo-0000896899,4132373,
-60f20724-8fcd-11eb-924d-9cd76263cbd0,species,stipoidea,Sarga,,"Ewart & Jean White",1911,"Proc. Roy. Soc. Victoria n.s., 23: 297 1911",,,,,420154-1,wfo-0000896900,4132358,
-60f255a8-8fcd-11eb-924d-9cd76263cbd0,species,timorensis,Sarga,,"(Kunth) Spangler",2003,"Austral. Syst. Bot. 16: 292 2003",,,,,70027985-1,wfo-0000896901,4132350,
-60f2af26-8fcd-11eb-924d-9cd76263cbd0,species,trichoclada,Sarga,,"(Rupr. ex Hack.) Spangler",2003,"Austral. Syst. Bot. 16: 294 2003",,,,,70027986-1,wfo-0000896902,4132343,
-60f2dd0c-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,Sarga,,"(Andersson) Spangler",2003,"Austral. Syst. Bot. 16: 294 2003",,,,647e005a-8fcd-11eb-924d-9cd76263cbd0,70027987-1,wfo-0000896903,4132333,
-c61d3778-8fd1-11eb-924d-9cd76263cbd0,species,ariococca,Sargentia,,"H.Wendl. & Drude ex Salomon",1887,"Palmen 160 1887",,,,,,wfo-0001265286,8152315,
-d7eac83e-8fcd-11eb-924d-9cd76263cbd0,species,greggii,Sargentia,,S.Watson,1890,"Proc. Amer. Acad. Arts 25: 144 1890",,,,,317265-2,wfo-0001132727,5593135,
-c079e8b6-8fd1-11eb-924d-9cd76263cbd0,species,pringlei,Sargentia,,S.Watson,1891,"Proc. Amer. Acad. Arts 26: 134 1891",,,,,775168-1,wfo-0001254973,5593128,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9f9587a-8fd1-11eb-924d-9cd76263cbd0,genus,Sardinia,,,Vell.,,1825,,"Fl. Flumin. 144. 1825.",,,,,,,wfo-4000034097,7270991,,
+087938de-8fcc-11eb-924d-9cd76263cbd0,species,bella,Sardinia,,Vell.,,1829,,"Fl. Flumin. 3: 144, t. 163 1829",,,,,,766117-1,wfo-0000303905,5596803,,

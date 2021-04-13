@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e443dcd4-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnemopsis,,,Costantin,1912,"Fl. Indo-Chine 4: 88. 1912.",,,,,,wfo-4000016447,7312243,
-07f0a612-8fcd-11eb-924d-9cd76263cbd0,species,calcicola,Gymnemopsis,,Kerr,1938,"Bull. Misc. Inform. Kew 1938: 451 1938",,,,,98240-1,wfo-0000712304,3577139,
-07f0c2be-8fcd-11eb-924d-9cd76263cbd0,species,pierrei,Gymnemopsis,,Costantin,1912,"Fl. Indo-Chine 4: 88 1912",,,,,,wfo-0000712305,8249707,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e443dcd4-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnemopsis,,,Costantin,,1912,,"Fl. Indo-Chine 4: 88. 1912.",,,,,,,wfo-4000016447,7312243,,
+07f0a612-8fcd-11eb-924d-9cd76263cbd0,species,calcicola,Gymnemopsis,,Kerr,,1938,,"Bull. Misc. Inform. Kew 1938: 451 1938",,Q55782479,,,,98240-1,wfo-0000712304,3577139,,
+07f0c2be-8fcd-11eb-924d-9cd76263cbd0,species,pierrei,Gymnemopsis,,Costantin,,1912,,"Fl. Indo-Chine 4: 88 1912",,,,,,,wfo-0000712305,8249707,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6bb366-8fd1-11eb-924d-9cd76263cbd0,genus,Sinomalus,,,Koidz.,1932,"Acta Phytotax. Geobot. 1: 11. 1932.",,,,,,wfo-4000035459,3030216,
-a3403542-8fcd-11eb-924d-9cd76263cbd0,species,honanensis,Sinomalus,,"(Rehder) Koidz.",1934,"; 1934 196 1934",,,,a2f971b6-8fcd-11eb-924d-9cd76263cbd0,741562-1,wfo-0001016946,3001340,
-96aa8828-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Sinomalus,,"(Sarg.) Honda",1933,"; 1933 297 1933",,,,a3083aac-8fcd-11eb-924d-9cd76263cbd0,741563-1,wfo-0000991009,3030217,
-9fa62b62-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Sinomalus,,"(Sarg.) Nakai",1952,"; 1952 62 1952",,,,a3083aac-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001009397,8234181,
-96e38e3e-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolia,Sinomalus,,"(Kom.) Koidz.",1932,"; 1932 12 1932",,,,9678c22a-8fcd-11eb-924d-9cd76263cbd0,,wfo-0000991515,3030218,
-a33f7ce2-8fcd-11eb-924d-9cd76263cbd0,species,toringoides,Sinomalus,,"(Rehder) Koidz.",1932,"; 1932 11 1932",,,,a31ed3ca-8fcd-11eb-924d-9cd76263cbd0,741565-1,wfo-0001016941,3001588,
-a33fc616-8fcd-11eb-924d-9cd76263cbd0,species,transitoria,Sinomalus,,"(Batalin) Koidz.",1934,"; 1934 196 1934",,,,a3080226-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001016943,3001638,
-0d5763a8-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Sinomanglietia,,"Z.X.Yu & Q.Y.Zheng",1994,"Acta Agric. Univ. Jiangxiensis 16: 203 1994",,,,,981540-1,wfo-0000311217,3153226,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6bb366-8fd1-11eb-924d-9cd76263cbd0,genus,Sinomalus,,,Koidz.,,1932,,"Acta Phytotax. Geobot. 1: 11. 1932.",,,,,,,wfo-4000035459,3030216,,
+a3403542-8fcd-11eb-924d-9cd76263cbd0,species,honanensis,Sinomalus,,"(Rehder) Koidz.",,1934,,"; 1934 196 1934",,Q101149064,,a2f971b6-8fcd-11eb-924d-9cd76263cbd0,,741562-1,wfo-0001016946,3001340,,
+96aa8828-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Sinomalus,,"(Sarg.) Honda",,1933,,"; 1933 297 1933",,Q55762694,,a3083aac-8fcd-11eb-924d-9cd76263cbd0,,741563-1,wfo-0000991009,3030217,,
+9fa62b62-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Sinomalus,,"(Sarg.) Nakai",,1952,,"; 1952 62 1952",,,,a3083aac-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001009397,8234181,,
+96e38e3e-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolia,Sinomalus,,"(Kom.) Koidz.",,1932,,"; 1932 12 1932",,,,9678c22a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000991515,3030218,,
+a33f7ce2-8fcd-11eb-924d-9cd76263cbd0,species,toringoides,Sinomalus,,"(Rehder) Koidz.",,1932,,"; 1932 11 1932",,Q101147353,,a31ed3ca-8fcd-11eb-924d-9cd76263cbd0,,741565-1,wfo-0001016941,3001588,,
+a33fc616-8fcd-11eb-924d-9cd76263cbd0,species,transitoria,Sinomalus,,"(Batalin) Koidz.",,1934,,"; 1934 196 1934",,,,a3080226-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001016943,3001638,,
+0d5763a8-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Sinomanglietia,,"Z.X.Yu & Q.Y.Zheng",,1994,,"Acta Agric. Univ. Jiangxiensis 16: 203 1994",,,,,,981540-1,wfo-0000311217,3153226,,

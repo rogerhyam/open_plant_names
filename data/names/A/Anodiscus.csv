@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7c24ae-8fd1-11eb-924d-9cd76263cbd0,genus,Anodiscus,,,Benth.,1876,"Gen. Pl. 2: 998. 1876.",,,,,,wfo-4000002247,3233448,
-9fca4c78-8fcc-11eb-924d-9cd76263cbd0,species,peruvianus,Anodiscus,,Benth.,,"Hooker's Icon. Pl. 12: t. 1199 1876",,,,,378049-1,wfo-0000538059,5589841,
-b3b2e826-8fd1-11eb-924d-9cd76263cbd0,species,weirii,Anodiscus,,Wiehler,,,,,,,,wfo-0001231298,7539537,
-9fca6906-8fcc-11eb-924d-9cd76263cbd0,species,xanthophyllus,Anodiscus,,"(Poepp.) Mansf.",1934,"Repert. Spec. Nov. Regni Veg. 36: 124 1934",,,,,14401-2,wfo-0000538060,5589832,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7c24ae-8fd1-11eb-924d-9cd76263cbd0,genus,Anodiscus,,,Benth.,,1876,,"Gen. Pl. 2: 998. 1876.",,,,,,,wfo-4000002247,3233448,,
+9fca4c78-8fcc-11eb-924d-9cd76263cbd0,species,peruvianus,Anodiscus,,Benth.,,,,"Hooker's Icon. Pl. 12: t. 1199 1876",,,,,,378049-1,wfo-0000538059,5589841,,
+b3b2e826-8fd1-11eb-924d-9cd76263cbd0,species,weirii,Anodiscus,,Wiehler,,,,,,,,,,,wfo-0001231298,7539537,,
+9fca6906-8fcc-11eb-924d-9cd76263cbd0,species,xanthophyllus,Anodiscus,,"(Poepp.) Mansf.",,1934,,"Repert. Spec. Nov. Regni Veg. 36: 124 1934",,,,,,14401-2,wfo-0000538060,5589832,,

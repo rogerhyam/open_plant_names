@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e50326ca-8fd1-11eb-924d-9cd76263cbd0,genus,Hypnofabronia,,,Dixon,1929,"Trans. Roy. Soc. South Africa 18: 258. 1929.",,,,,,wfo-4000018781,4888501,
-f1135baa-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Hypnofabronia,,Dixon,1930,"Trans. Roy. Soc. South Africa 18: 258. f. 10 1930",,,,,,wfo-0001185931,7782397,
-f492c9f0-8fcd-11eb-924d-9cd76263cbd0,species,schreberi,Hypnopsis,,"(Willd. ex Brid.) Podp.",1921,"Spisy PYír. Fak. Univ. v Brnĕ 1(5): 40 1921",,,,e5bd35c8-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001192823,7355033,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e50326ca-8fd1-11eb-924d-9cd76263cbd0,genus,Hypnofabronia,,,Dixon,,1929,,"Trans. Roy. Soc. South Africa 18: 258. 1929.",,,,,,,wfo-4000018781,4888501,,
+f1135baa-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Hypnofabronia,,Dixon,,1930,,"Trans. Roy. Soc. South Africa 18: 258. f. 10 1930",,,,,,,wfo-0001185931,7782397,,
+f492c9f0-8fcd-11eb-924d-9cd76263cbd0,species,schreberi,Hypnopsis,,"(Willd. ex Brid.) Podp.",,1921,,"Spisy PYír. Fak. Univ. v Brnĕ 1(5): 40 1921",,,,e5bd35c8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192823,7355033,,

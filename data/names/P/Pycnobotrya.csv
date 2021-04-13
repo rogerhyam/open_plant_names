@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e95ef8e8-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnobotrya,,,Benth.,1876,"Gen. Pl. 2: 688, 715. 1876.",,,,,2538-1,wfo-4000032218,7317037,
-ff9d935e-8fcb-11eb-924d-9cd76263cbd0,species,multiflora,Pycnobotrya,,"K.Schum. ex Stapf",1902,"Fl. Trop. Afr. 4(1): 203 1902",,,,,81487-1,wfo-0000289046,3618726,
-ff9db992-8fcb-11eb-924d-9cd76263cbd0,species,nitida,Pycnobotrya,,Benth.,,"Hooker's Icon. Pl. 12: t. 1183 1876",,,,,81488-1,wfo-0000289047,3618718,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e95ef8e8-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnobotrya,,,Benth.,,1876,,"Gen. Pl. 2: 688, 715. 1876.",,,,,,2538-1,wfo-4000032218,7317037,,
+ff9d935e-8fcb-11eb-924d-9cd76263cbd0,species,multiflora,Pycnobotrya,,"K.Schum. ex Stapf",,1902,,"Fl. Trop. Afr. 4(1): 203 1902",,,,,,81487-1,wfo-0000289046,3618726,,
+ff9db992-8fcb-11eb-924d-9cd76263cbd0,species,nitida,Pycnobotrya,,Benth.,,,,"Hooker's Icon. Pl. 12: t. 1183 1876",,,,,,81488-1,wfo-0000289047,3618718,,

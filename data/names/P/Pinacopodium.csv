@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e88cd750-8fd1-11eb-924d-9cd76263cbd0,genus,Pinacopodium,,,"Exell & Mendonça",,"Bol. Soc. Brot., sér. 2 2525: 105. 1951.",,,,,27874-1,wfo-4000029761,7284857,
-445b51f2-8fcc-11eb-924d-9cd76263cbd0,species,congolense,Pinacopodium,,"(S.Moore) Exell & Mendonça",1951,"Bol. Soc. Brot. II, 25: 105 1951",,,,3777f184-8fcc-11eb-924d-9cd76263cbd0,603641-1,wfo-0000396079,3694151,
-b255fbf2-8fcd-11eb-924d-9cd76263cbd0,species,gabonense,Pinacopodium,,"Normand & Cavaco",,,,,,,,wfo-0001049006,3694144,
-46162e26-8fcd-11eb-924d-9cd76263cbd0,species,pinalenoensis,,,Pyrah,1983,"Great Basin Naturalist 43: 135 1983",,,,,316529-2,wfo-0000841008,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e88cd750-8fd1-11eb-924d-9cd76263cbd0,genus,Pinacopodium,,,"Exell & Mendonça",,,,"Bol. Soc. Brot., sér. 2 2525: 105. 1951.",,,,,,27874-1,wfo-4000029761,7284857,,
+445b51f2-8fcc-11eb-924d-9cd76263cbd0,species,congolense,Pinacopodium,,"(S.Moore) Exell & Mendonça",,1951,,"Bol. Soc. Brot. II, 25: 105 1951",,,,3777f184-8fcc-11eb-924d-9cd76263cbd0,,603641-1,wfo-0000396079,3694151,,
+b255fbf2-8fcd-11eb-924d-9cd76263cbd0,species,gabonense,Pinacopodium,,"Normand & Cavaco",,,,,,,,,,,wfo-0001049006,3694144,,
+46162e26-8fcd-11eb-924d-9cd76263cbd0,species,pinalenoensis,,,Pyrah,,1983,,"Great Basin Naturalist 43: 135 1983",,,,,,316529-2,wfo-0000841008,,,

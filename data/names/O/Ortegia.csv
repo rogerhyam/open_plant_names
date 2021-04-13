@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7ae1db2-8fd1-11eb-924d-9cd76263cbd0,genus,Ortegia,,,Loefl.,1753,"Sp. Pl. 560. 1753. (1 May 1753)",,,,,6383-1,wfo-4000027238,7267192,
-3af6ce2a-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Ortegia,,L.,1771,"Mant. Pl. 2: 174 1771",,,,,155865-1,wfo-0000383521,3809074,
-3af681b8-8fcc-11eb-924d-9cd76263cbd0,species,hispanica,Ortegia,,L.,1753,"Sp. Pl. 560 1753",,,,,155866-1,wfo-0000383520,3809068,
-3ec9980c-8fcc-11eb-924d-9cd76263cbd0,species,decussata,Ortegioides,,"Sol. ex DC.",1828,"Prodr. 3: 76 1828",,,,,,wfo-0000388762,8120365,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7ae1db2-8fd1-11eb-924d-9cd76263cbd0,genus,Ortegia,,,Loefl.,,1753,,"Sp. Pl. 560. 1753. (1 May 1753)",,,,,,6383-1,wfo-4000027238,7267192,,
+3af6ce2a-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Ortegia,,L.,,1771,,"Mant. Pl. 2: 174 1771",,,,,,155865-1,wfo-0000383521,3809074,,
+3af681b8-8fcc-11eb-924d-9cd76263cbd0,species,hispanica,Ortegia,,L.,,1753,,"Sp. Pl. 560 1753",,,,,,155866-1,wfo-0000383520,3809068,,
+3ec9980c-8fcc-11eb-924d-9cd76263cbd0,species,decussata,Ortegioides,,"Sol. ex DC.",,1828,,"Prodr. 3: 76 1828",,,,,,,wfo-0000388762,8120365,,

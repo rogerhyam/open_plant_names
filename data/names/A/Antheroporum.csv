@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df87075c-8fd1-11eb-924d-9cd76263cbd0,genus,Antheroporum,,,Gagnep.,,,,,,,21678-1,wfo-4000002412,2947701,
-a0090792-8fcc-11eb-924d-9cd76263cbd0,species,banaense,Antheroporum,,"P.K.Lôc & J.E.Vidal",2001,"in Fl. Camb., Laos & Vietn. 30: 22 2001",,,,,20000747-1,wfo-0000538415,3963470,
-4eb504d2-8fc6-11eb-924d-9cd76263cbd0,species,glaucum,Antheroporum,,Z.Wei,,,,,,,,wfo-0000197330,2947703,
-4ec1f1d8-8fc6-11eb-924d-9cd76263cbd0,species,harmandii,Antheroporum,,Gagnep.,,,,,,,,wfo-0000197331,2947704,
-06bc2266-8fc4-11eb-924d-9cd76263cbd0,species,pierrei,Antheroporum,,Gagnep.,,,,,,,,wfo-0000185939,2947702,
-a009288a-8fcc-11eb-924d-9cd76263cbd0,species,vidalii,Antheroporum,,P.K.Lôc,2001,"in Fl. Camb., Laos & Vietn. 30: 24 2001",,,,,20000748-1,wfo-0000538416,3963450,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df87075c-8fd1-11eb-924d-9cd76263cbd0,genus,Antheroporum,,,Gagnep.,,,,,,,,,,21678-1,wfo-4000002412,2947701,,
+a0090792-8fcc-11eb-924d-9cd76263cbd0,species,banaense,Antheroporum,,"P.K.Lôc & J.E.Vidal",,2001,,"in Fl. Camb., Laos & Vietn. 30: 22 2001",,,,,,20000747-1,wfo-0000538415,3963470,,
+4eb504d2-8fc6-11eb-924d-9cd76263cbd0,species,glaucum,Antheroporum,,Z.Wei,,,,,,,,,,,wfo-0000197330,2947703,,
+4ec1f1d8-8fc6-11eb-924d-9cd76263cbd0,species,harmandii,Antheroporum,,Gagnep.,,,,,,,,,,,wfo-0000197331,2947704,,
+06bc2266-8fc4-11eb-924d-9cd76263cbd0,species,pierrei,Antheroporum,,Gagnep.,,,,,,,,,,,wfo-0000185939,2947702,,
+a009288a-8fcc-11eb-924d-9cd76263cbd0,species,vidalii,Antheroporum,,P.K.Lôc,,2001,,"in Fl. Camb., Laos & Vietn. 30: 24 2001",,,,,,20000748-1,wfo-0000538416,3963450,,

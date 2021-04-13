@@ -1,10 +1,10 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9691c10-8fd1-11eb-924d-9cd76263cbd0,genus,Pyxidium,,,,,,,,,,,wfo-4000032341,3231895,
-42f699de-8fcc-11eb-924d-9cd76263cbd0,species,gangeticum,Pyxidium,,Moq.,1849,"Prodr. 13(2): 261 1849",,,,,61359-1,wfo-0000394568,5548334,
-42f675da-8fcc-11eb-924d-9cd76263cbd0,species,graecizans,Pyxidium,,Moq.,1849,"Prodr. 13(2): 263 1849",,,,,61360-1,wfo-0000394567,5548333,
-42e50052-8fcc-11eb-924d-9cd76263cbd0,species,melancholicum,Pyxidium,,Moq.,1849,"Prodr. 13(2): 262 1849",,,,,61361-1,wfo-0000394500,5548332,
-42e4c506-8fcc-11eb-924d-9cd76263cbd0,species,oleraceum,Pyxidium,,Moq.,1849,"Prodr. 13(2): 273 1849",,,,,61362-1,wfo-0000394499,5548330,
-42e485c8-8fcc-11eb-924d-9cd76263cbd0,species,retroflexum,Pyxidium,,Montandon,1868,"Syn. Fl. Jura ed. 2: 261 1868",,,,,,wfo-0000394498,5548327,
-42e43f00-8fcc-11eb-924d-9cd76263cbd0,species,sylvestre,Pyxidium,,Montandon,1868,"Syn. Fl. Jura ed. 2: 261 1868",,,,,,wfo-0000394497,,
-42dccd92-8fcc-11eb-924d-9cd76263cbd0,species,viride,Pyxidium,,"(L.) Moq.",1849,"Prodr. 13(2): 274 1849",,,,,61367-1,wfo-0000394469,5548324,
-42d00080-8fcc-11eb-924d-9cd76263cbd0,species,polyandrum,Pyxipoma,,Fenzl,1839,"Ann. Wiener Mus. Naturgesch. 2: 293 1839",,,,,364137-1,wfo-0000394403,5554667,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9691c10-8fd1-11eb-924d-9cd76263cbd0,genus,Pyxidium,,,Gray,,1821,,"Nat. Arr. Brit. Pl. (London) 1: 580 (1821)",,,,e9691c10-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000032341,3231895,12206," "
+42f699de-8fcc-11eb-924d-9cd76263cbd0,species,gangeticum,Pyxidium,,Moq.,,1849,,"Prodr. 13(2): 261 1849",,,,,,61359-1,wfo-0000394568,5548334,,
+42f675da-8fcc-11eb-924d-9cd76263cbd0,species,graecizans,Pyxidium,,Moq.,,1849,,"Prodr. 13(2): 263 1849",,,,,,61360-1,wfo-0000394567,5548333,,
+42e50052-8fcc-11eb-924d-9cd76263cbd0,species,melancholicum,Pyxidium,,Moq.,,1849,,"Prodr. 13(2): 262 1849",,,,,,61361-1,wfo-0000394500,5548332,,
+42e4c506-8fcc-11eb-924d-9cd76263cbd0,species,oleraceum,Pyxidium,,Moq.,,1849,,"Prodr. 13(2): 273 1849",,,,,,61362-1,wfo-0000394499,5548330,,
+42e485c8-8fcc-11eb-924d-9cd76263cbd0,species,retroflexum,Pyxidium,,Montandon,,1868,,"Syn. Fl. Jura ed. 2: 261 1868",,,,,,,wfo-0000394498,5548327,,
+09c9e454-9bac-11eb-a8a2-19ed5c03f8d3,species,sessile,Pyxidium,,"(Bull.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,76066c42-9bab-11eb-a8a2-19ed5c03f8d3,,,,,431996," "
+42e43f00-8fcc-11eb-924d-9cd76263cbd0,species,sylvestre,Pyxidium,,Montandon,,1868,,"Syn. Fl. Jura ed. 2: 261 1868",,,,,,,wfo-0000394497,,,
+42dccd92-8fcc-11eb-924d-9cd76263cbd0,species,viride,Pyxidium,,"(L.) Moq.",,1849,,"Prodr. 13(2): 274 1849",,,,,,61367-1,wfo-0000394469,5548324,,

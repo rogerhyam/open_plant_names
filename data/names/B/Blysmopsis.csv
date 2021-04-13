@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e04d27d4-8fd1-11eb-924d-9cd76263cbd0,genus,Blysmopsis,,,Oteng-Yeb.,1974,"Notes Roy. Bot. Gard. Edinburgh 33(2): 309. 1974.",,,,,,wfo-4000004831,2720018,
-ae40feae-8fcd-11eb-924d-9cd76263cbd0,species,compressus,Blysmopsis,,"(L.) Oteng-Yeb.",,,,,,,,wfo-0001039737,8317987,
-dde6bcd0-8fd1-11eb-924d-9cd76263cbd0,species,exilis,Blysmopsis,,Ivanina,,,,,,,,wfo-0001302019,7541699,
-1fa5a056-8fcc-11eb-924d-9cd76263cbd0,species,rufa,Blysmopsis,,"(Huds.) Oteng-Yeb.",1974,"Notes Roy. Bot. Gard. Edinburgh 33: 310 1974",,,,,298074-1,wfo-0000341567,2710648,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e04d27d4-8fd1-11eb-924d-9cd76263cbd0,genus,Blysmopsis,,,Oteng-Yeb.,,1974,,"Notes Roy. Bot. Gard. Edinburgh 33(2): 309. 1974.",,,,,,,wfo-4000004831,2720018,,
+ae40feae-8fcd-11eb-924d-9cd76263cbd0,species,compressus,Blysmopsis,,"(L.) Oteng-Yeb.",,,,,,,,,,,wfo-0001039737,8317987,,
+dde6bcd0-8fd1-11eb-924d-9cd76263cbd0,species,exilis,Blysmopsis,,Ivanina,,,,,,,,,,,wfo-0001302019,7541699,,
+1fa5a056-8fcc-11eb-924d-9cd76263cbd0,species,rufa,Blysmopsis,,"(Huds.) Oteng-Yeb.",,1974,,"Notes Roy. Bot. Gard. Edinburgh 33: 310 1974",,Q102417616,,,,298074-1,wfo-0000341567,2710648,,

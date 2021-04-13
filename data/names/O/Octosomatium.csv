@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e776547c-8fd1-11eb-924d-9cd76263cbd0,genus,Octosomatium,,,Gagnep.,1950,"Notul. Syst. (Paris) 14: 23. 1950.",,,,,,wfo-4000026553,7294633,
-3c01a74a-8fcc-11eb-924d-9cd76263cbd0,species,kerrii,Octosomatium,,Gagnep.,1950,"Notul. Syst. (Paris) 14: 23 1950",,,,,119426-1,wfo-0000384925,4060162,
-e903e47c-8fcb-11eb-924d-9cd76263cbd0,species,pleiogynum,Octospermum,,"(Pax & K.Hoffm.) Airy Shaw",1965,"Kew Bull. 19: 312 1965",,,,,352536-1,wfo-0000253873,3062642,
-e9040308-8fcb-11eb-924d-9cd76263cbd0,species,ouveana,Octotheca,,"(Däniker) Guillaumin",1944,"Bull. Mus. Natl. Hist. Nat. II, 15: 450 1944",,,,8142c806-8fcd-11eb-924d-9cd76263cbd0,91127-1,wfo-0000253874,5372339,
-e9041e88-8fcb-11eb-924d-9cd76263cbd0,species,plerandroides,Octotheca,,"(R.Vig.) R.Vig.",1906,"Ann. Sci. Nat., Bot. IX, 4: 135 1906",,,,81430726-8fcd-11eb-924d-9cd76263cbd0,91128-1,wfo-0000253875,5372318,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e776547c-8fd1-11eb-924d-9cd76263cbd0,genus,Octosomatium,,,Gagnep.,,1950,,"Notul. Syst. (Paris) 14: 23. 1950.",,,,,,,wfo-4000026553,7294633,,
+3c01a74a-8fcc-11eb-924d-9cd76263cbd0,species,kerrii,Octosomatium,,Gagnep.,,1950,,"Notul. Syst. (Paris) 14: 23 1950",,,,,,119426-1,wfo-0000384925,4060162,,
+e903e47c-8fcb-11eb-924d-9cd76263cbd0,species,pleiogynum,Octospermum,,"(Pax & K.Hoffm.) Airy Shaw",,1965,,"Kew Bull. 19: 312 1965",,Q55779005,,,,352536-1,wfo-0000253873,3062642,,

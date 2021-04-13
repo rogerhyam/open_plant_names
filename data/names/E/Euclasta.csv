@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3891e44-8fd1-11eb-924d-9cd76263cbd0,genus,Euclasta,,,Franch.,1895,"Bull. Soc. Hist. Nat. Autun 8: 335. 1895.",,,,,295145-2,wfo-4000014119,2705909,
-531e61a6-8fcd-11eb-924d-9cd76263cbd0,species,clarkei,Euclasta,,"(Hack.) Cope",1980,"Kew Bull. 35: 704 1980",,,,,402123-1,wfo-0000869229,5676872,
-531e7ff6-8fcd-11eb-924d-9cd76263cbd0,species,condylotricha,Euclasta,,"(Steud.) Stapf",1917,"Fl. Trop. Afr. 9: 181 1917",,,,,97916-2,wfo-0000869230,5290156,
-531e9d74-8fcd-11eb-924d-9cd76263cbd0,species,glumacea,Euclasta,,Franch.,1895,"Bull. Soc. Hist. Nat. Autun 8: 336 1895",,,,,97917-2,wfo-0000869231,5676866,
-531eba16-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Euclasta,,T.Durand,1909,"Syll. Fl. Congol. 649 1909",,,,,,wfo-0000869232,5945425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3891e44-8fd1-11eb-924d-9cd76263cbd0,genus,Euclasta,,,Franch.,,1895,,"Bull. Soc. Hist. Nat. Autun 8: 335. 1895.",,,,,,295145-2,wfo-4000014119,2705909,,
+531e61a6-8fcd-11eb-924d-9cd76263cbd0,species,clarkei,Euclasta,,"(Hack.) Cope",,1980,,"Kew Bull. 35: 704 1980",,Q43227743,,,,402123-1,wfo-0000869229,5676872,,
+531e7ff6-8fcd-11eb-924d-9cd76263cbd0,species,condylotricha,Euclasta,,"(Steud.) Stapf",,1917,,"Fl. Trop. Afr. 9: 181 1917",,,,,,97916-2,wfo-0000869230,5290156,,
+531e9d74-8fcd-11eb-924d-9cd76263cbd0,species,glumacea,Euclasta,,Franch.,,1895,,"Bull. Soc. Hist. Nat. Autun 8: 336 1895",,,,,,97917-2,wfo-0000869231,5676866,,
+531eba16-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Euclasta,,T.Durand,,1909,,"Syll. Fl. Congol. 649 1909",,,,,,,wfo-0000869232,5945425,,

@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3bfedc0-8fd1-11eb-924d-9cd76263cbd0,genus,Fleischmanniopsis,,,"R.M.King & H.Rob.",,,,,,,295432-2,wfo-4000014848,3118127,
-2017b92e-8fb4-11eb-924d-9cd76263cbd0,species,anomalochaeta,Fleischmanniopsis,,"R.M.King & H.Rob.",1977,"195 1977",,,,,105150-2,wfo-0000060351,3118133,
-0415615a-8fb3-11eb-924d-9cd76263cbd0,species,langmaniae,Fleischmanniopsis,,"R.M.King & H.Rob.",1977,"Phytologia 36 196 1977",,,,,105151-2,wfo-0000039711,3118130,
-fe39603e-8fb1-11eb-924d-9cd76263cbd0,species,leucocephala,Fleischmanniopsis,,"(Benth.) R.M.King & H.Rob.",1971,"Phytologia 21 403 1971",,,,c8f02216-8fcd-11eb-924d-9cd76263cbd0,105152-2,wfo-0000001388,3118128,
-62a5fd2e-8fb8-11eb-924d-9cd76263cbd0,variety,anodonta,Fleischmanniopsis,leucocephala,"(B.L.Rob.) R.M.King & H.Rob.",1977,"Phytologia 36 197 1977",,,,,105153-2,wfo-0000108919,4234176,
-11e82e9e-8fb2-11eb-924d-9cd76263cbd0,species,mendax,Fleischmanniopsis,,"(Standl. & Steyerm.) R.M.King & H.Rob.",1971,"Phytologia 21 403 1971",,,,44cbdef4-8fb3-11eb-924d-9cd76263cbd0,105154-2,wfo-0000009427,3118131,
-e0a118ae-8fb7-11eb-924d-9cd76263cbd0,species,nubigenoides,Fleischmanniopsis,,"(B.L.Rob.) R.M.King & H.Rob.",1971,"Phytologia 21: 404. 1971.",,,,54f3fe5c-8fb2-11eb-924d-9cd76263cbd0,208122-1,wfo-0000104043,3118134,
-2c16194e-8fbb-11eb-924d-9cd76263cbd0,species,paneroi,Fleischmanniopsis,,B.L.Turner,,,,,,,,wfo-0000132277,7638077,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3bfedc0-8fd1-11eb-924d-9cd76263cbd0,genus,Fleischmanniopsis,,,"R.M.King & H.Rob.",,,,,,,,,,295432-2,wfo-4000014848,3118127,,
+2017b92e-8fb4-11eb-924d-9cd76263cbd0,species,anomalochaeta,Fleischmanniopsis,,"R.M.King & H.Rob.",,1977,,"195 1977",,,,,,105150-2,wfo-0000060351,3118133,,
+0415615a-8fb3-11eb-924d-9cd76263cbd0,species,langmaniae,Fleischmanniopsis,,"R.M.King & H.Rob.",,1977,,"Phytologia 36 196 1977",,,,,,105151-2,wfo-0000039711,3118130,,
+fe39603e-8fb1-11eb-924d-9cd76263cbd0,species,leucocephala,Fleischmanniopsis,,"(Benth.) R.M.King & H.Rob.",,1971,,"Phytologia 21 403 1971",,,,c8f02216-8fcd-11eb-924d-9cd76263cbd0,,105152-2,wfo-0000001388,3118128,,
+62a5fd2e-8fb8-11eb-924d-9cd76263cbd0,variety,anodonta,Fleischmanniopsis,leucocephala,"(B.L.Rob.) R.M.King & H.Rob.",,1977,,"Phytologia 36 197 1977",,,,,,105153-2,wfo-0000108919,4234176,,
+11e82e9e-8fb2-11eb-924d-9cd76263cbd0,species,mendax,Fleischmanniopsis,,"(Standl. & Steyerm.) R.M.King & H.Rob.",,1971,,"Phytologia 21 403 1971",,,,44cbdef4-8fb3-11eb-924d-9cd76263cbd0,,105154-2,wfo-0000009427,3118131,,
+e0a118ae-8fb7-11eb-924d-9cd76263cbd0,species,nubigenoides,Fleischmanniopsis,,"(B.L.Rob.) R.M.King & H.Rob.",,1971,,"Phytologia 21: 404. 1971.",,,,54f3fe5c-8fb2-11eb-924d-9cd76263cbd0,,208122-1,wfo-0000104043,3118134,,
+2c16194e-8fbb-11eb-924d-9cd76263cbd0,species,paneroi,Fleischmanniopsis,,B.L.Turner,,,,,,,,,,,wfo-0000132277,7638077,,

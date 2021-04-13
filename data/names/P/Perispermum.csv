@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8399626-8fd1-11eb-924d-9cd76263cbd0,genus,Perispermum,,,O.Deg.,1932,"Fl. Hawaii. 307. 1932.",,,,,,wfo-4000028790,3234452,
-cad15506-8fd1-11eb-924d-9cd76263cbd0,species,albiflorum,Perispermum,,O.Deg.,1932,"Fl. Hawaii. 307 1932",,,,,270832-1,wfo-0001274187,5549350,
-fe6edd2e-8fbe-11eb-924d-9cd76263cbd0,species,menziesii,Perispermum,,O.Deg.,1932,"Fl. Hawaiiensis [Degener] p. K 6 1932",,,,,270833-1,wfo-0000157322,5549347,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8399626-8fd1-11eb-924d-9cd76263cbd0,genus,Perispermum,,,O.Deg.,,1932,,"Fl. Hawaii. 307. 1932.",,,,,,,wfo-4000028790,3234452,,
+cad15506-8fd1-11eb-924d-9cd76263cbd0,species,albiflorum,Perispermum,,O.Deg.,,1932,,"Fl. Hawaii. 307 1932",,,,,,270832-1,wfo-0001274187,5549350,,
+fe6edd2e-8fbe-11eb-924d-9cd76263cbd0,species,menziesii,Perispermum,,O.Deg.,,1932,,"Fl. Hawaiiensis [Degener] p. K 6 1932",,,,,,270833-1,wfo-0000157322,5549347,,

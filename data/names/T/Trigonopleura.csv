@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb962bcc-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonopleura,,,Hook.f.,1887,"Fl. Brit. India 5: 399. 1887.",,,,,16022-1,wfo-4000039163,7276280,
-181eb0e8-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Trigonopleura,,Merr.,1916,"Philipp. J. Sci., C 11: 76 1916",,,,,357972-1,wfo-0000328221,3918615,
-181eccea-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Trigonopleura,,"(Elmer) Merr.",1916,"Philipp. J. Sci., C 11: 77 1916",,,,,357973-1,wfo-0000328222,3918614,
-181ee784-8fcc-11eb-924d-9cd76263cbd0,species,macrocarpa,Trigonopleura,,"Airy Shaw",1981,"Kew Bull. 36: 610 1981",,,,,898968-1,wfo-0000328223,3918612,
-181f0278-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Trigonopleura,,Hook.f.,1887,"Fl. Brit. India 5: 399 1887",,,,,,wfo-0000328224,3918611,
-181f38c4-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Trigonopleura,,Merr.,1915,"Philipp. J. Sci., C 10: 275 1915",,,,,357975-1,wfo-0000328226,3918608,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb962bcc-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonopleura,,,Hook.f.,,1887,,"Fl. Brit. India 5: 399. 1887.",,,,,,16022-1,wfo-4000039163,7276280,,
+181eb0e8-8fcc-11eb-924d-9cd76263cbd0,species,borneensis,Trigonopleura,,Merr.,,1916,,"Philipp. J. Sci., C 11: 76 1916",,,,,,357972-1,wfo-0000328221,3918615,,
+181eccea-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Trigonopleura,,"(Elmer) Merr.",,1916,,"Philipp. J. Sci., C 11: 77 1916",,,,,,357973-1,wfo-0000328222,3918614,,
+181ee784-8fcc-11eb-924d-9cd76263cbd0,species,macrocarpa,Trigonopleura,,"Airy Shaw",,1981,,"Kew Bull. 36: 610 1981",,Q54639310,,,,898968-1,wfo-0000328223,3918612,,
+181f0278-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Trigonopleura,,Hook.f.,,1887,,"Fl. Brit. India 5: 399 1887",,,,,,,wfo-0000328224,3918611,,
+181f38c4-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Trigonopleura,,Merr.,,1915,,"Philipp. J. Sci., C 10: 275 1915",,,,,,357975-1,wfo-0000328226,3918608,,

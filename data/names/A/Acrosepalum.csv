@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ded26072-8fd1-11eb-924d-9cd76263cbd0,genus,Acrosepalum,,,,,,,,,,,wfo-4000000456,7311146,
-94978bd6-8fcc-11eb-924d-9cd76263cbd0,species,klaineanum,Acrosepalum,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 22 1898",,,,,833218-1,wfo-0000518930,4260904,
-bbd03a68-8fd1-11eb-924d-9cd76263cbd0,species,quarrei,Acrosephalus,,"Robyns & Lebrun",1928,"Ann. Soc. Sci. Bruxelles, Sér. B 48: Mem. 196 1928",,,,,,wfo-0001246260,8103329,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ded26072-8fd1-11eb-924d-9cd76263cbd0,genus,Acrosepalum,,,,,,,,,,,,,,wfo-4000000456,7311146,,
+94978bd6-8fcc-11eb-924d-9cd76263cbd0,species,klaineanum,Acrosepalum,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 22 1898",,,,,,833218-1,wfo-0000518930,4260904,,
+bbd03a68-8fd1-11eb-924d-9cd76263cbd0,species,quarrei,Acrosephalus,,"Robyns & Lebrun",,1928,,"Ann. Soc. Sci. Bruxelles, Sér. B 48: Mem. 196 1928",,,,,,,wfo-0001246260,8103329,,

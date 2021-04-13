@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1f81c9c-8fd1-11eb-924d-9cd76263cbd0,genus,Comomyrsine,,,Hook.f.,1876,"Gen. Pl. 2(2): 643. 1876.",,,,,,wfo-4000009065,7330995,
-d0ffa784-8fcc-11eb-924d-9cd76263cbd0,species,schlimii,Comomyrsine,,Hook.f.,1876,"Gen. Pl. 2: 644 1876",,,,,63993-2,wfo-0000617582,3720553,
-d1000bde-8fcc-11eb-924d-9cd76263cbd0,species,simplex,Comomyrsine,,Hook.f.,1876,"Gen. Pl. 2: 644 1876",,,,,63994-2,wfo-0000617583,3720541,
-d1003884-8fcc-11eb-924d-9cd76263cbd0,species,sodiroana,Comomyrsine,,Mez,1905,"Bull. Herb. Boissier II, 5: 535 1905",,,,,63995-2,wfo-0000617584,3720530,
-d100862c-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Comomyrsine,,Hook.f.,1876,"Gen. Pl. 2: 644 1876",,,,,63996-2,wfo-0000617585,3720518,
-d100ac4c-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Comoneura,,Pierre,,"Bull. Mens. Soc. Linn. Paris 2: 1293 1897",,,,,607743-1,wfo-0000617586,3685897,
-4f1f8a4e-8fcd-11eb-924d-9cd76263cbd0,species,comosum,Comopyrum,,"(Sm.) Á.Löve",1982,"Biol. Zentralbl. 101: 207 1982",,,,,910438-1,wfo-0000860559,4152435,
-4f1fa7cc-8fcd-11eb-924d-9cd76263cbd0,subspecies,heldreichii,Comopyrum,comosum,"(Boiss.) Á.Löve",1984,"Feddes Repert. 95: 494 1984",,,,,923143-1,wfo-0000860560,4152442,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1f81c9c-8fd1-11eb-924d-9cd76263cbd0,genus,Comomyrsine,,,Hook.f.,,1876,,"Gen. Pl. 2(2): 643. 1876.",,,,,,,wfo-4000009065,7330995,,
+d0ffa784-8fcc-11eb-924d-9cd76263cbd0,species,schlimii,Comomyrsine,,Hook.f.,,1876,,"Gen. Pl. 2: 644 1876",,,,,,63993-2,wfo-0000617582,3720553,,
+d1000bde-8fcc-11eb-924d-9cd76263cbd0,species,simplex,Comomyrsine,,Hook.f.,,1876,,"Gen. Pl. 2: 644 1876",,,,,,63994-2,wfo-0000617583,3720541,,
+d1003884-8fcc-11eb-924d-9cd76263cbd0,species,sodiroana,Comomyrsine,,Mez,,1905,,"Bull. Herb. Boissier II, 5: 535 1905",,,,,,63995-2,wfo-0000617584,3720530,,
+d100862c-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Comomyrsine,,Hook.f.,,1876,,"Gen. Pl. 2: 644 1876",,,,,,63996-2,wfo-0000617585,3720518,,
+d100ac4c-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Comoneura,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 2: 1293 1897",,,,,,607743-1,wfo-0000617586,3685897,,
+4f1f8a4e-8fcd-11eb-924d-9cd76263cbd0,species,comosum,Comopyrum,,"(Sm.) Á.Löve",,1982,,"Biol. Zentralbl. 101: 207 1982",,,,,,910438-1,wfo-0000860559,4152435,,
+4f1fa7cc-8fcd-11eb-924d-9cd76263cbd0,subspecies,heldreichii,Comopyrum,comosum,"(Boiss.) Á.Löve",,1984,,"Feddes Repert. 95: 494 1984",,,,,,923143-1,wfo-0000860560,4152442,,

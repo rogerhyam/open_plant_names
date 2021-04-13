@@ -1,7 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea5d8296-8fd1-11eb-924d-9cd76263cbd0,genus,Sicyoides,,,Mill.,1754,"Gard. Dict. Abr. (ed. 4) 1754. (28 Jan 1754)",,,,,,wfo-4000035296,7317933,
-dd71b764-8fd1-11eb-924d-9cd76263cbd0,species,andreana,Sicyoides,,Cogn.,1880,"Bull Acad. Roy. Bel. Ser. II, xlix, 200 1880",,,,,,wfo-0001301265,8422061,
-6705c2b4-8fcc-11eb-924d-9cd76263cbd0,species,angulata,Sicyoides,,Medik.,1789,"Philos. Bot. 1: 36 1789",,,,,,wfo-0000441550,3625601,
-6354f568-8fcc-11eb-924d-9cd76263cbd0,species,nervosa,Sicyomorpha,,Miers,1872,"Trans. Linn. Soc. London 28: 412 1872",,,,,162786-1,wfo-0000435567,5580360,
-6355155c-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Sicyomorpha,,Miers,1872,"Trans. Linn. Soc. London 28: 411 1872",,,,,162787-1,wfo-0000435568,5580358,
-63555b0c-8fcc-11eb-924d-9cd76263cbd0,species,pruinosa,Sicyomorpha,,"(Seem.) Miers",1872,"Trans. Linn. Soc. London 28: 411 1872",,,,6372d33a-8fcc-11eb-924d-9cd76263cbd0,162788-1,wfo-0000435570,5580355,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea5d8296-8fd1-11eb-924d-9cd76263cbd0,genus,Sicyoides,,,Mill.,,1754,,"Gard. Dict. Abr. (ed. 4) 1754. (28 Jan 1754)",,,,,,,wfo-4000035296,7317933,,
+dd71b764-8fd1-11eb-924d-9cd76263cbd0,species,andreana,Sicyoides,,Cogn.,,1880,,"Bull Acad. Roy. Bel. Ser. II, xlix, 200 1880",,,,,,,wfo-0001301265,8422061,,
+6705c2b4-8fcc-11eb-924d-9cd76263cbd0,species,angulata,Sicyoides,,Medik.,,1789,,"Philos. Bot. 1: 36 1789",,,,,,,wfo-0000441550,3625601,,

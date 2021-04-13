@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ebc0a56e-8fd1-11eb-924d-9cd76263cbd0,genus,Tzvelevopyrethrum,,,Kamelin,,,,,,,986185-1,wfo-4000039690,3146553,
-2ff199de-8fb2-11eb-924d-9cd76263cbd0,species,khorassanicum,Tzvelevopyrethrum,,"(Krasch.) Kamelin",1993,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,a63e5a3e-8fba-11eb-924d-9cd76263cbd0,986188-1,wfo-0000015103,4206843,
-23f41da4-8fb3-11eb-924d-9cd76263cbd0,species,turcomanicum,Tzvelevopyrethrum,,"(Krasch.) Kamelin",1993,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,14934e76-8fb2-11eb-924d-9cd76263cbd0,986187-1,wfo-0000042436,4206839,
-54d8ffa0-8fba-11eb-924d-9cd76263cbd0,species,walteri,Tzvelevopyrethrum,,"(C.Winkl.) Kamelin",1993,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,cd35e02c-8fb9-11eb-924d-9cd76263cbd0,986186-1,wfo-0000125785,3146554,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ebc0a56e-8fd1-11eb-924d-9cd76263cbd0,genus,Tzvelevopyrethrum,,,Kamelin,,,,,,,,,,986185-1,wfo-4000039690,3146553,,
+2ff199de-8fb2-11eb-924d-9cd76263cbd0,species,khorassanicum,Tzvelevopyrethrum,,"(Krasch.) Kamelin",,1993,,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,a63e5a3e-8fba-11eb-924d-9cd76263cbd0,,986188-1,wfo-0000015103,4206843,,
+23f41da4-8fb3-11eb-924d-9cd76263cbd0,species,turcomanicum,Tzvelevopyrethrum,,"(Krasch.) Kamelin",,1993,,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,14934e76-8fb2-11eb-924d-9cd76263cbd0,,986187-1,wfo-0000042436,4206839,,
+54d8ffa0-8fba-11eb-924d-9cd76263cbd0,species,walteri,Tzvelevopyrethrum,,"(C.Winkl.) Kamelin",,1993,,"Opred. Rast. Sred. Azii 10: 635 (1993):",,,,cd35e02c-8fb9-11eb-924d-9cd76263cbd0,,986186-1,wfo-0000125785,3146554,,

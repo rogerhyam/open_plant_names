@@ -1,5 +1,2 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2068dd6-8fd1-11eb-924d-9cd76263cbd0,genus,Coracaea,,,,,,,,,,,wfo-4000009241,7268399,
-3edd2f88-8fc8-11eb-924d-9cd76263cbd0,species,parvifolia,Corallaria,,Rumph.,,,,,,,,wfo-0000206908,2951848,
-7767299e-8fcd-11eb-924d-9cd76263cbd0,species,candidissimum,Coralliokyphos,,"H.Fleischm. & Rech.",1910,"Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 85: 252 1910",,,,,624176-1,wfo-0000923805,2805179,
-d25a0ff2-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Corallobotrys,,Hook.f.,1882,"Fl. Brit. India 3: 455 1882",,,,,858313-1,wfo-0000619892,4175056,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2068dd6-8fd1-11eb-924d-9cd76263cbd0,genus,Coracaea,,,,,,,,,,,,,,wfo-4000009241,7268399,,

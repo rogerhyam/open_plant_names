@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1f12c3e-8fd1-11eb-924d-9cd76263cbd0,genus,Colpoon,,,P.J.Bergius,1767,"Descr. Pl. Cap. 38, t. 1. 1767.",,,,,,wfo-4000008979,7265291,
-cfafdd68-8fcc-11eb-924d-9cd76263cbd0,species,capense,Colpoon,,"(Harv.) Sim",1907,"Forest Fl. Cape 303 1907",,,,,780096-1,wfo-0000615197,3789813,
-cfaffaaa-8fcc-11eb-924d-9cd76263cbd0,species,compressum,Colpoon,,P.J.Bergius,1767,"Descr. Pl. Cap. 38 1767",,,,,780097-1,wfo-0000615198,3789808,
-cfb01508-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Colpoon,,"(A.W.Hill) P.A.Bean",1990,"S. African J. Bot. 56: 667 1990",,,,,962253-1,wfo-0000615199,3789799,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1f12c3e-8fd1-11eb-924d-9cd76263cbd0,genus,Colpoon,,,P.J.Bergius,,1767,,"Descr. Pl. Cap. 38, t. 1. 1767.",,,,,,,wfo-4000008979,7265291,,
+cfafdd68-8fcc-11eb-924d-9cd76263cbd0,species,capense,Colpoon,,"(Harv.) Sim",,1907,,"Forest Fl. Cape 303 1907",,,,,,780096-1,wfo-0000615197,3789813,,
+cfaffaaa-8fcc-11eb-924d-9cd76263cbd0,species,compressum,Colpoon,,P.J.Bergius,,1767,,"Descr. Pl. Cap. 38 1767",,,,,,780097-1,wfo-0000615198,3789808,,
+cfb01508-8fcc-11eb-924d-9cd76263cbd0,species,speciosum,Colpoon,,"(A.W.Hill) P.A.Bean",,1990,,"S. African J. Bot. 56: 667 1990",,,,,,962253-1,wfo-0000615199,3789799,,

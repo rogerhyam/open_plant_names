@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8fe79e6-8fd1-11eb-924d-9cd76263cbd0,genus,Preissia,,,Corda,1829,"Naturalientausch 12: 647. 1829.",,,,,,wfo-4000031097,10973038,
-fad61f2e-8fcd-11eb-924d-9cd76263cbd0,species,commutata,Preissia,,Nees,,"Gard. Bull. Straits Settlem.",,,,,,wfo-0001205721,4276582,
-fc55dcb8-8fcd-11eb-924d-9cd76263cbd0,species,italica,Preissia,,Corda,1829,"Naturalientausch 12: 647 1829",,,,,,wfo-0001208891,4276583,
-f66d04e8-8fcd-11eb-924d-9cd76263cbd0,species,quadrata,Preissia,,"(Scop.) Nees",1838,"Naturgesch. Eur. Leberm. 4: 135 1838",,,,f7b67230-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001196672,2688576,
-5f6228c6-8fcd-11eb-924d-9cd76263cbd0,species,strigosa,Preissia,,"(Schreb.) Opiz",1852,"Seznam 79 1852",,,,4b4674fa-8fcd-11eb-924d-9cd76263cbd0,418781-1,wfo-0000894799,5946343,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8fe79e6-8fd1-11eb-924d-9cd76263cbd0,genus,Preissia,,,Corda,,1829,,"Naturalientausch 12: 647. 1829.",,,,,,,wfo-4000031097,10973038,,
+fad61f2e-8fcd-11eb-924d-9cd76263cbd0,species,commutata,Preissia,,Nees,,,,"Gard. Bull. Straits Settlem.",,,,,,,wfo-0001205721,4276582,,
+fc55dcb8-8fcd-11eb-924d-9cd76263cbd0,species,italica,Preissia,,Corda,,1829,,"Naturalientausch 12: 647 1829",,,,,,,wfo-0001208891,4276583,,
+f66d04e8-8fcd-11eb-924d-9cd76263cbd0,species,quadrata,Preissia,,"(Scop.) Nees",,1838,,"Naturgesch. Eur. Leberm. 4: 135 1838",,,,f7b67230-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001196672,2688576,,
+5f6228c6-8fcd-11eb-924d-9cd76263cbd0,species,strigosa,Preissia,,"(Schreb.) Opiz",,1852,,"Seznam 79 1852",,,,4b4674fa-8fcd-11eb-924d-9cd76263cbd0,,418781-1,wfo-0000894799,5946343,,

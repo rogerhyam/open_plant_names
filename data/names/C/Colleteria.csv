@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1ed9358-8fd1-11eb-924d-9cd76263cbd0,genus,Colleteria,,,"David W.Taylor",2003,"Syst. & Geogr. Pl. 73(2): 203–204, f. 1–2. 2003.",,,,,,wfo-4000008934,2910175,
-1c887b1e-8fcc-11eb-924d-9cd76263cbd0,species,exserta,Colleteria,,"(DC.) David W.Taylor",2003,"Syst. Geogr. Pl. 73: 204 2003",,,,,60426502-2,wfo-0000336076,2910178,
-1c889dc4-8fcc-11eb-924d-9cd76263cbd0,species,seminervis,Colleteria,,"(Urb. & Ekman) David W.Taylor",2003,"Syst. Geogr. Pl. 73: 206 2003",,,,4857625e-8fcd-11eb-924d-9cd76263cbd0,1140600-2,wfo-0000336077,2910176,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1ed9358-8fd1-11eb-924d-9cd76263cbd0,genus,Colleteria,,,"David W.Taylor",,2003,,"Syst. & Geogr. Pl. 73(2): 203–204, f. 1–2. 2003.",,,,,,,wfo-4000008934,2910175,,
+1c887b1e-8fcc-11eb-924d-9cd76263cbd0,species,exserta,Colleteria,,"(DC.) David W.Taylor",,2003,,"Syst. Geogr. Pl. 73: 204 2003",,Q92256090,,,,60426502-2,wfo-0000336076,2910178,,
+1c889dc4-8fcc-11eb-924d-9cd76263cbd0,species,seminervis,Colleteria,,"(Urb. & Ekman) David W.Taylor",,2003,,"Syst. Geogr. Pl. 73: 206 2003",,,,4857625e-8fcd-11eb-924d-9cd76263cbd0,,1140600-2,wfo-0000336077,2910176,,

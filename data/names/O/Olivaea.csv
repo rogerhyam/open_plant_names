@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7873030-8fd1-11eb-924d-9cd76263cbd0,genus,Olivaea,,,"Sch.Bip. ex Benth.",,,,,,,10269-1,wfo-4000026763,3120465,
-606d3d96-8fb4-11eb-924d-9cd76263cbd0,species,leptocarpa,Olivaea,,"DeJong & Beaman",1963,1963,,,,,,wfo-0000064130,3120468,
-4602986e-8fbb-11eb-924d-9cd76263cbd0,species,tricuspis,Olivaea,,Sch.Bip.,,"Hook. Ic. Pl. t. 1103 (1872).",,,,,235173-1,wfo-0000132997,3120466,
-dca4f4d6-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Oliveranthus,,Rose,1905,"N. Amer. Fl. 22(1): 27 1905",,,,,173730-2,wfo-0001300114,4197252,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7873030-8fd1-11eb-924d-9cd76263cbd0,genus,Olivaea,,,"Sch.Bip. ex Benth.",,,,,,,,,,10269-1,wfo-4000026763,3120465,,
+606d3d96-8fb4-11eb-924d-9cd76263cbd0,species,leptocarpa,Olivaea,,"DeJong & Beaman",,1963,,1963,,,,,,,wfo-0000064130,3120468,,
+4602986e-8fbb-11eb-924d-9cd76263cbd0,species,tricuspis,Olivaea,,Sch.Bip.,,,,"Hook. Ic. Pl. t. 1103 (1872).",,,,,,235173-1,wfo-0000132997,3120466,,

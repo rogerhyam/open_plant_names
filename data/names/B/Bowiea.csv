@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0bfd0e0-8fd1-11eb-924d-9cd76263cbd0,genus,Bowiea,,,"Harv. ex Hook.f.",,"Bot. Mag. 93: t. 5619. 1867.",,,,,331153-2,wfo-4000005150,2768050,
-212a60be-8fcd-11eb-924d-9cd76263cbd0,species,africana,Bowiea,,Haw.,1824,"Philos. Mag. J. 64: 299 1824",,,,,531996-1,wfo-0000762014,2778160,
-212a80e4-8fcd-11eb-924d-9cd76263cbd0,species,gariepensis,Bowiea,,"van Jaarsv.",1983,"J. S. African Bot. 49: 343 1983",,,,,901609-1,wfo-0000762015,2768056,
-212a9dc2-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Bowiea,,Mildbr.,1934,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 202 1934",,,,,531997-1,wfo-0000762016,2768053,
-212ab974-8fcd-11eb-924d-9cd76263cbd0,species,myriacantha,Bowiea,,Haw.,1824,"Philos. Mag. J. 64: 299 1824",,,,,531998-1,wfo-0000762017,2777328,
-bccfff2e-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,"Harv. ex Hook.f.",,"Bot. Mag. 93: , t. 5619 1867",,,,,531999-1,wfo-0001072966,7386178,
-212ad616-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,Harv.,,"Bot. Mag. 93: t. 5619 1867",,,,,,wfo-0000762018,2768051,
-212af128-8fcd-11eb-924d-9cd76263cbd0,subspecies,gariepensis,Bowiea,volubilis,"(van Jaarsv.) Bruyns",1987,"Caryologia 40: 291 1987 publ. 1988",,,,212a80e4-8fcd-11eb-924d-9cd76263cbd0,954453-1,wfo-0000762019,2768055,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0bfd0e0-8fd1-11eb-924d-9cd76263cbd0,genus,Bowiea,,,"Harv. ex Hook.f.",,,,"Bot. Mag. 93: t. 5619. 1867.",,,,,,331153-2,wfo-4000005150,2768050,,
+212a60be-8fcd-11eb-924d-9cd76263cbd0,species,africana,Bowiea,,Haw.,,1824,,"Philos. Mag. J. 64: 299 1824",,,,,,531996-1,wfo-0000762014,2778160,,
+212a80e4-8fcd-11eb-924d-9cd76263cbd0,species,gariepensis,Bowiea,,"van Jaarsv.",,1983,,"J. S. African Bot. 49: 343 1983",,,,,,901609-1,wfo-0000762015,2768056,,
+212a9dc2-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Bowiea,,Mildbr.,,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 202 1934",,Q55777737,,,,531997-1,wfo-0000762016,2768053,,
+212ab974-8fcd-11eb-924d-9cd76263cbd0,species,myriacantha,Bowiea,,Haw.,,1824,,"Philos. Mag. J. 64: 299 1824",,,,,,531998-1,wfo-0000762017,2777328,,
+bccfff2e-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,"Harv. ex Hook.f.",,,,"Bot. Mag. 93: , t. 5619 1867",,,,,,531999-1,wfo-0001072966,7386178,,
+212ad616-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,Harv.,,,,"Bot. Mag. 93: t. 5619 1867",,,,,,,wfo-0000762018,2768051,,
+212af128-8fcd-11eb-924d-9cd76263cbd0,subspecies,gariepensis,Bowiea,volubilis,"(van Jaarsv.) Bruyns",,1987,,"Caryologia 40: 291 1987 publ. 1988",,,,212a80e4-8fcd-11eb-924d-9cd76263cbd0,,954453-1,wfo-0000762019,2768055,,

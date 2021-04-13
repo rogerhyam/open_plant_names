@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e76612ec-8fd1-11eb-924d-9cd76263cbd0,genus,Novopokrovskia,,,Tzvelev,,,,,,,977244-1,wfo-4000026368,3142317,
-261e2af8-8fb2-11eb-924d-9cd76263cbd0,species,aucheri,Novopokrovskia,,"(DC.) Tzvelev",1993,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 98(6): 102 (1993 publ. 1994):",,,,,,wfo-0000013569,4210963,
-d03a6e40-8fba-11eb-924d-9cd76263cbd0,species,nigromontana,Novopokrovskia,,"(Boiss. & Buhse) Tzvelev",1993,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 98(6): 102 (1993 publ. 1994):",,,,,,wfo-0000129558,3142318,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e76612ec-8fd1-11eb-924d-9cd76263cbd0,genus,Novopokrovskia,,,Tzvelev,,,,,,,,,,977244-1,wfo-4000026368,3142317,,
+261e2af8-8fb2-11eb-924d-9cd76263cbd0,species,aucheri,Novopokrovskia,,"(DC.) Tzvelev",,1993,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 98(6): 102 (1993 publ. 1994):",,,,,,,wfo-0000013569,4210963,,
+d03a6e40-8fba-11eb-924d-9cd76263cbd0,species,nigromontana,Novopokrovskia,,"(Boiss. & Buhse) Tzvelev",,1993,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 98(6): 102 (1993 publ. 1994):",,,,,,,wfo-0000129558,3142318,,

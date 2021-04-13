@@ -1,4 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e017a974-8fd1-11eb-924d-9cd76263cbd0,genus,Bartlettia,,,A.Gray,,,,,,,327685-2,wfo-4000004142,3105455,
-bf1916a2-8fb5-11eb-924d-9cd76263cbd0,species,scaposa,Bartlettia,,A.Gray,1855,"323 1855",,,,,,wfo-0000081678,5391636,
-b1177294-8fd1-11eb-924d-9cd76263cbd0,species,bartlettii,,,"(Weath.) Mickel & Beitel",1987,"Amer. Fern J. 77(1): 20, f. 1K–L 1987",,,,b117956c-8fd1-11eb-924d-9cd76263cbd0,17535090-1,wfo-0001226612,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e017a974-8fd1-11eb-924d-9cd76263cbd0,genus,Bartlettia,,,A.Gray,,,,,,,,,,327685-2,wfo-4000004142,3105455,,
+bf1916a2-8fb5-11eb-924d-9cd76263cbd0,species,scaposa,Bartlettia,,A.Gray,,1855,,"323 1855",,,,,,,wfo-0000081678,5391636,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec78da30-8fd1-11eb-924d-9cd76263cbd0,genus,Widjajachloa,,,"K.M.Wong & S.Dransf.",2016,"Sandakania 22: 4 (2016)",,,,,77161252-1,wfo-4001303468,9670230,
-1b87eaf6-8fcc-11eb-924d-9cd76263cbd0,species,erythrotricha,Wiedemannia,,Benth.,1848,"Prodr. 12: 503 1848",,,,,461938-1,wfo-0000334321,5609793,
-1b8809fa-8fcc-11eb-924d-9cd76263cbd0,species,multifida,Wiedemannia,,"(L.) Benth.",1848,"Prodr. 12: 503 1848",,,,,461939-1,wfo-0000334322,5609789,
-1b882b88-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Wiedemannia,,"Fisch. & C.A.Mey.",1838,"Index Seminum (LE) 4: 52 1838",,,,,461940-1,wfo-0000334323,7420205,
-5d1f16c4-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Wiegmannia,,"(J.F.Gmel.) Hochst. & Steud.",1841,"Nomencl. Bot. ed. 2, 2: 787 1841",,,,,148166-1,wfo-0000427578,8102605,
-1b88b8dc-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Wiegmannia,,Meyen,1834,"Observ. Bot. 2: 139 1834",,,,,770534-1,wfo-0000334325,5337535,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec78da30-8fd1-11eb-924d-9cd76263cbd0,genus,Widjajachloa,,,"K.M.Wong & S.Dransf.",,2016,,"Sandakania 22: 4 (2016)",,Q104587168,,,,77161252-1,wfo-4001303468,9670230,,
+1b87eaf6-8fcc-11eb-924d-9cd76263cbd0,species,erythrotricha,Wiedemannia,,Benth.,,1848,,"Prodr. 12: 503 1848",,,,,,461938-1,wfo-0000334321,5609793,,
+1b8809fa-8fcc-11eb-924d-9cd76263cbd0,species,multifida,Wiedemannia,,"(L.) Benth.",,1848,,"Prodr. 12: 503 1848",,,,,,461939-1,wfo-0000334322,5609789,,
+1b882b88-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Wiedemannia,,"Fisch. & C.A.Mey.",,1838,,"Index Seminum (LE) 4: 52 1838",,,,,,461940-1,wfo-0000334323,7420205,,
+5d1f16c4-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Wiegmannia,,"(J.F.Gmel.) Hochst. & Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 787 1841",,,,,,148166-1,wfo-0000427578,8102605,,
+1b88b8dc-8fcc-11eb-924d-9cd76263cbd0,species,glauca,Wiegmannia,,Meyen,,1834,,"Observ. Bot. 2: 139 1834",,,,,,770534-1,wfo-0000334325,5337535,,

@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb9dea10-8fd1-11eb-924d-9cd76263cbd0,genus,Tripetelus,,,,,,,,,,,wfo-4000039251,7272612,
-b91906c4-8fd1-11eb-924d-9cd76263cbd0,species,australasicus,Tripetelus,,Lindl.,1839,"Three Exped. Australia 2: 14 1839",,,,,149520-1,wfo-0001241266,3856548,
-70c67fa0-8fcc-11eb-924d-9cd76263cbd0,species,africana,Triphaca,,Lour.,1790,"Fl. Cochinch. 577 1790",,,,,825686-1,wfo-0000458814,3671884,
-6fe4de24-8fcc-11eb-924d-9cd76263cbd0,species,rubicunda,Triphalia,,"Banks & Sol. ex Hook.f.",,"Bot. Mag. 128: t. 7868 1902",,,,,835718-1,wfo-0000457284,8459126,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb9dea10-8fd1-11eb-924d-9cd76263cbd0,genus,Tripetelus,,,,,,,,,,,,,,wfo-4000039251,7272612,,
+b91906c4-8fd1-11eb-924d-9cd76263cbd0,species,australasicus,Tripetelus,,Lindl.,,1839,,"Three Exped. Australia 2: 14 1839",,,,,,149520-1,wfo-0001241266,3856548,,
+70c67fa0-8fcc-11eb-924d-9cd76263cbd0,species,africana,Triphaca,,Lour.,,1790,,"Fl. Cochinch. 577 1790",,,,,,825686-1,wfo-0000458814,3671884,,
+6fe4de24-8fcc-11eb-924d-9cd76263cbd0,species,rubicunda,Triphalia,,"Banks & Sol. ex Hook.f.",,,,"Bot. Mag. 128: t. 7868 1902",,,,,,835718-1,wfo-0000457284,8459126,,

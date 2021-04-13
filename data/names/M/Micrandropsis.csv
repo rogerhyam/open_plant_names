@@ -1,5 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6a8d510-8fd1-11eb-924d-9cd76263cbd0,genus,Micrandropsis,,,W.A.Rodrigues,1973,"Acta Amazon. 3(2): 5. 1973.",,,,,297554-2,wfo-4000024024,3072432,
-e2c0387c-8fcb-11eb-924d-9cd76263cbd0,species,scleroxylon,Micrandropsis,,"(W.A.Rodrigues) W.A.Rodrigues",1973,"Acta Amazon. 3: 5 1973",,,,e2bf20c2-8fcb-11eb-924d-9cd76263cbd0,159995-2,wfo-0000242909,3072433,
-336ca896-8fcc-11eb-924d-9cd76263cbd0,species,pyrenaea,Micrangelia,,"(L.) Fourr.",1868,"Ann. Soc. Linn. Lyon n.s., 16: 388 1868",,,,,844968-1,wfo-0000372877,3630905,
-fc0db296-8fcb-11eb-924d-9cd76263cbd0,species,micrantha,,,"(A.Kern.) P.F.Hunt",1971,"Orchid Rev. 79: 142 1971",,,,,655103-1,wfo-0000283871,3047177,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6a8d510-8fd1-11eb-924d-9cd76263cbd0,genus,Micrandropsis,,,W.A.Rodrigues,,1973,,"Acta Amazon. 3(2): 5. 1973.",,Q95998370,,,,297554-2,wfo-4000024024,3072432,,
+e2c0387c-8fcb-11eb-924d-9cd76263cbd0,species,scleroxylon,Micrandropsis,,"(W.A.Rodrigues) W.A.Rodrigues",,1973,,"Acta Amazon. 3: 5 1973",,Q95998370,,e2bf20c2-8fcb-11eb-924d-9cd76263cbd0,,159995-2,wfo-0000242909,3072433,,
+336ca896-8fcc-11eb-924d-9cd76263cbd0,species,pyrenaea,Micrangelia,,"(L.) Fourr.",,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 388 1868",,,,,,844968-1,wfo-0000372877,3630905,,
+fc0db296-8fcb-11eb-924d-9cd76263cbd0,species,micrantha,,,"(A.Kern.) P.F.Hunt",,1971,,"Orchid Rev. 79: 142 1971",,,,,,655103-1,wfo-0000283871,3047177,,
+da39837a-8fcb-11eb-924d-9cd76263cbd0,species,micrantha,,,"(A.Kern.) Schltr.",,1919,,"Repert. Spec. Nov. Regni Veg. 16: 272 1919",,,,,,640468-1,wfo-0000227363,3047177,,
+e7e275ea-8fcb-11eb-924d-9cd76263cbd0,species,micrantha,,,"(A.Kern.) E.G.Camus, Bergon & A.Camus",,1908,,"Monogr. Orchid. 360 1908",,,,,,645579-1,wfo-0000251883,3047177,,

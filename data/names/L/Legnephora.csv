@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5a8e704-8fd1-11eb-924d-9cd76263cbd0,genus,Legnephora,,,Miers,1867,"Ann. Mag. Nat. Hist., ser. 3 19: 89. 1867.",,,,,26962-1,wfo-4000020886,7268632,
-685c5128-8fcc-11eb-924d-9cd76263cbd0,species,acuta,Legnephora,,Forman,1972,"Kew Bull. 27: 276 1972",,,,,580992-1,wfo-0000443858,3829345,
-685c105a-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Legnephora,,Forman,1972,"Kew Bull. 27: 278 1972",,,,,580993-1,wfo-0000443856,3829331,
-685bd004-8fcc-11eb-924d-9cd76263cbd0,species,minutiflora,Legnephora,,Diels,1910,"Pflanzenr. IV, 94: 222 1910",,,,,,wfo-0000443855,3829323,
-c42a4ef6-8fd1-11eb-924d-9cd76263cbd0,species,moorei,Legnephora,,"(F.Muell.) Miers",,,,,,,,wfo-0001261754,7268636,
-68616226-8fcc-11eb-924d-9cd76263cbd0,species,nyctericarpa,Legnephora,,Diels,1915,"Bot. Jahrb. Syst. 52: 189 1915",,,,,580996-1,wfo-0000443895,3829259,
-686135ee-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Legnephora,,Forman,1972,"Kew Bull. 27: 278 1972",,,,,580997-1,wfo-0000443894,3831090,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5a8e704-8fd1-11eb-924d-9cd76263cbd0,genus,Legnephora,,,Miers,,1867,,"Ann. Mag. Nat. Hist., ser. 3 19: 89. 1867.",,Q95996320,,,,26962-1,wfo-4000020886,7268632,,
+685c5128-8fcc-11eb-924d-9cd76263cbd0,species,acuta,Legnephora,,Forman,,1972,,"Kew Bull. 27: 276 1972",,Q55779697,,,,580992-1,wfo-0000443858,3829345,,
+685c105a-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Legnephora,,Forman,,1972,,"Kew Bull. 27: 278 1972",,Q55779697,,,,580993-1,wfo-0000443856,3829331,,
+685bd004-8fcc-11eb-924d-9cd76263cbd0,species,minutiflora,Legnephora,,Diels,,1910,,"Pflanzenr. IV, 94: 222 1910",,,,,,,wfo-0000443855,3829323,,
+c42a4ef6-8fd1-11eb-924d-9cd76263cbd0,species,moorei,Legnephora,,"(F.Muell.) Miers",,,,,,,,,,,wfo-0001261754,7268636,,
+68616226-8fcc-11eb-924d-9cd76263cbd0,species,nyctericarpa,Legnephora,,Diels,,1915,,"Bot. Jahrb. Syst. 52: 189 1915",,,,,,580996-1,wfo-0000443895,3829259,,
+686135ee-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Legnephora,,Forman,,1972,,"Kew Bull. 27: 278 1972",,Q55779697,,,,580997-1,wfo-0000443894,3831090,,

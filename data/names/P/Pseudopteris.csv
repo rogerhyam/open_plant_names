@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e92dd218-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudopteris,,,Baill.,1874,"Adansonia 11: 243. 1874.",,,,,,wfo-4000031646,7264853,
-d8f0e8a8-8fcd-11eb-924d-9cd76263cbd0,species,ankaranensis,Pseudopteris,,Capuron,1969,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 114, t. 28, f. 12–17 1969",,,,,784508-1,wfo-0001135110,3785557,
-d8f1048c-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pseudopteris,,Capuron,1969,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 116 1969",,,,,784509-1,wfo-0001135111,3785551,
-d8e4f78c-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Pseudopteris,,Baill.,1873,"Adansonia 11: 243 1873",,,,,,wfo-0001135003,3785543,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e92dd218-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudopteris,,,Baill.,,1874,,"Adansonia 11: 243. 1874.",,,,,,,wfo-4000031646,7264853,,
+d8f0e8a8-8fcd-11eb-924d-9cd76263cbd0,species,ankaranensis,Pseudopteris,,Capuron,,1969,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 114, t. 28, f. 12–17 1969",,,,,,784508-1,wfo-0001135110,3785557,,
+d8f1048c-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Pseudopteris,,Capuron,,1969,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 116 1969",,,,,,784509-1,wfo-0001135111,3785551,,
+d8e4f78c-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Pseudopteris,,Baill.,,1873,,"Adansonia 11: 243 1873",,,,,,,wfo-0001135003,3785543,,

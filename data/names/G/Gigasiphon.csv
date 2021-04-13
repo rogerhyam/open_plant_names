@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3ffa3b6-8fd1-11eb-924d-9cd76263cbd0,genus,Gigasiphon,,,Drake,,,,,,,22484-1,wfo-4000015631,8059232,
-b626254a-8fcd-11eb-924d-9cd76263cbd0,species,amplus,Gigasiphon,,"(Span.) de Wit",1956,"Reinwardtia 3: 419 1956",,,,,496525-1,wfo-0001057619,,
-06908076-8fc8-11eb-924d-9cd76263cbd0,species,dolichocalyx,Gigasiphon,,"(Merr.) de Wit",,,,,,0683363c-8fc8-11eb-924d-9cd76263cbd0,,wfo-0000205713,2953709,
-a5c3360a-8fc0-11eb-924d-9cd76263cbd0,species,gossweileri,Gigasiphon,,"(Baker f.) Torre & Hillc.",,,,,,,,wfo-0000167264,2977464,
-86ce3ce0-8fc5-11eb-924d-9cd76263cbd0,species,humblotianum,Gigasiphon,,"(Baill.) Drake",,,,,,,,wfo-0000193511,2977461,
-a684fd76-8fc0-11eb-924d-9cd76263cbd0,species,macrosiphon,Gigasiphon,,"(Harms) Brenan",,,,,,a6df5b5e-8fc0-11eb-924d-9cd76263cbd0,,wfo-0000167283,2977460,
-04b46650-8fc8-11eb-924d-9cd76263cbd0,species,schlechteri,Gigasiphon,,"(Harms) de Wit",,,,,,,,wfo-0000205676,2953644,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3ffa3b6-8fd1-11eb-924d-9cd76263cbd0,genus,Gigasiphon,,,Drake,,,,,,,,,,22484-1,wfo-4000015631,8059232,,
+b626254a-8fcd-11eb-924d-9cd76263cbd0,species,amplus,Gigasiphon,,"(Span.) de Wit",,1956,,"Reinwardtia 3: 419 1956",,Q94139373,,,,496525-1,wfo-0001057619,,,
+06908076-8fc8-11eb-924d-9cd76263cbd0,species,dolichocalyx,Gigasiphon,,"(Merr.) de Wit",,,,,,,,0683363c-8fc8-11eb-924d-9cd76263cbd0,,,wfo-0000205713,2953709,,
+a5c3360a-8fc0-11eb-924d-9cd76263cbd0,species,gossweileri,Gigasiphon,,"(Baker f.) Torre & Hillc.",,,,,,,,,,,wfo-0000167264,2977464,,
+86ce3ce0-8fc5-11eb-924d-9cd76263cbd0,species,humblotianum,Gigasiphon,,"(Baill.) Drake",,,,,,,,,,,wfo-0000193511,2977461,,
+a684fd76-8fc0-11eb-924d-9cd76263cbd0,species,macrosiphon,Gigasiphon,,"(Harms) Brenan",,,,,,,,a6df5b5e-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000167283,2977460,,
+04b46650-8fc8-11eb-924d-9cd76263cbd0,species,schlechteri,Gigasiphon,,"(Harms) de Wit",,,,,,,,,,,wfo-0000205676,2953644,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dff39c28-8fd1-11eb-924d-9cd76263cbd0,genus,Australluma,,,Plowes,1995,"Haseltonia 3: 54. 1995.",,,,,986757-1,wfo-4000003706,7311723,
-ab8ebac6-8fcc-11eb-924d-9cd76263cbd0,species,peschii,Australluma,,"(Nel) Plowes",1995,"Haseltonia 3: 54 1995",,,,be6c5dba-8fcc-11eb-924d-9cd76263cbd0,986758-1,wfo-0000557289,3571382,
-8d310980-8fcc-11eb-924d-9cd76263cbd0,species,ubomboensis,Australluma,,"(I.Verd.) Bruyns",2005,"Stapeliads S. Africa Madagascar 1: 63 2005",,,,e61473d4-8fcc-11eb-924d-9cd76263cbd0,77078151-1,wfo-0000506476,3571376,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dff39c28-8fd1-11eb-924d-9cd76263cbd0,genus,Australluma,,,Plowes,,1995,,"Haseltonia 3: 54. 1995.",,,,,,986757-1,wfo-4000003706,7311723,,
+ab8ebac6-8fcc-11eb-924d-9cd76263cbd0,species,peschii,Australluma,,"(Nel) Plowes",,1995,,"Haseltonia 3: 54 1995",,,,be6c5dba-8fcc-11eb-924d-9cd76263cbd0,,986758-1,wfo-0000557289,3571382,,
+8d310980-8fcc-11eb-924d-9cd76263cbd0,species,ubomboensis,Australluma,,"(I.Verd.) Bruyns",,2005,,"Stapeliads S. Africa Madagascar 1: 63 2005",,,,e61473d4-8fcc-11eb-924d-9cd76263cbd0,,77078151-1,wfo-0000506476,3571376,,

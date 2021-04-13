@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e64ec976-8fd1-11eb-924d-9cd76263cbd0,genus,Malvalthaea,,,Iljin,1924,"Bot. Mater. Gerb. Glavn. Bot. Sada RSFSR 5: 9. 1924.",,,,,25967-1,wfo-4000022984,7279586,
-6b8a107e-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Malvalthaea,,I.Riedl,1976,"in Fl. Iran. 120: 9 1976",,,,,561988-1,wfo-0000449448,3940142,
-6b89d7b2-8fcc-11eb-924d-9cd76263cbd0,species,palmata,Malvalthaea,,I.Riedl,1976,"in Fl. Iran. 120: 10 1976",,,,,561989-1,wfo-0000449447,3940137,
-beff88dc-8fcd-11eb-924d-9cd76263cbd0,species,transcaucasica,Malvalthaea,,Iljin,,,,,,,,wfo-0001077841,3940133,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e64ec976-8fd1-11eb-924d-9cd76263cbd0,genus,Malvalthaea,,,Iljin,,1924,,"Bot. Mater. Gerb. Glavn. Bot. Sada RSFSR 5: 9. 1924.",,,,,,25967-1,wfo-4000022984,7279586,,
+6b8a107e-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Malvalthaea,,I.Riedl,,1976,,"in Fl. Iran. 120: 9 1976",,,,,,561988-1,wfo-0000449448,3940142,,
+6b89d7b2-8fcc-11eb-924d-9cd76263cbd0,species,palmata,Malvalthaea,,I.Riedl,,1976,,"in Fl. Iran. 120: 10 1976",,,,,,561989-1,wfo-0000449447,3940137,,
+beff88dc-8fcd-11eb-924d-9cd76263cbd0,species,transcaucasica,Malvalthaea,,Iljin,,,,,,,,,,,wfo-0001077841,3940133,,

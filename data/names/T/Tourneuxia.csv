@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb6dc402-8fd1-11eb-924d-9cd76263cbd0,genus,Tourneuxia,,,Coss.,,,,,,,11325-1,wfo-4000038637,3093116,
-ad4d999e-8fb4-11eb-924d-9cd76263cbd0,species,variifolia,Tourneuxia,,Coss.,1859,"396 1859",,,,,255865-1,wfo-0000068347,3093117,
-821aacb2-8fb4-11eb-924d-9cd76263cbd0,variety,bellidifolia,Tourneuxia,variifolia,Sauvage,,,,,,,,wfo-0000066099,6305257,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb6dc402-8fd1-11eb-924d-9cd76263cbd0,genus,Tourneuxia,,,Coss.,,,,,,Q55756480,,,,11325-1,wfo-4000038637,3093116,,
+ad4d999e-8fb4-11eb-924d-9cd76263cbd0,species,variifolia,Tourneuxia,,Coss.,,1859,,"396 1859",,Q55756480,,,,255865-1,wfo-0000068347,3093117,,
+821aacb2-8fb4-11eb-924d-9cd76263cbd0,variety,bellidifolia,Tourneuxia,variifolia,Sauvage,,,,,,,,,,,wfo-0000066099,6305257,,

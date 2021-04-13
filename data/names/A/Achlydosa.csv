@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-debf7a8e-8fd1-11eb-924d-9cd76263cbd0,genus,Achlydosa,,,"M.A.Clem. & D.L.Jones",2002,"Orchadian 13: 439. 2002.",,,,,20004355-1,wfo-4000000224,9509258,
-1d17c6fc-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Achlydosa,,"(Schltr.) M.A.Clem. & D.L.Jones",2002,"Orchadian 13: 439 2002",,,,,20004356-1,wfo-0000337055,2832361,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+debf7a8e-8fd1-11eb-924d-9cd76263cbd0,genus,Achlydosa,,,"M.A.Clem. & D.L.Jones",,2002,,"Orchadian 13: 439. 2002.",,,,,,20004355-1,wfo-4000000224,9509258,,
+1d17c6fc-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Achlydosa,,"(Schltr.) M.A.Clem. & D.L.Jones",,2002,,"Orchadian 13: 439 2002",,,,,,20004356-1,wfo-0000337055,2832361,,

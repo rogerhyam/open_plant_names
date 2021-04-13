@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e46cd620-8fd1-11eb-924d-9cd76263cbd0,genus,Harpaecarpus,,,,,,,,,,,wfo-4000016941,7335809,
-4cc08c66-8fba-11eb-924d-9cd76263cbd0,species,californicus,Harpaecarpus,,Gand.,1918,"Bull. Soc. Bot. France 65 43 1918",,,,,117942-2,wfo-0000125523,4205843,
-0001cc26-8fb2-11eb-924d-9cd76263cbd0,species,exiguus,Harpaecarpus,,"(Sm.) A.Gray",,101,,,,,211542-1,wfo-0000002901,6065254,
-113207dc-8fbb-11eb-924d-9cd76263cbd0,species,longipes,Harpaecarpus,,Gand.,1918,"Bull. Soc. Bot. France 65 43 1918",,,,,117944-2,wfo-0000131456,4255993,
-0ec0f8de-8fb9-11eb-924d-9cd76263cbd0,species,madarioides,Harpaecarpus,,Nutt.,1841,"Trans. Amer. Philos. Soc. ser. 2, 7: 389 1841",,,,,,wfo-0000115022,4255989,
-1201011c-8fb2-11eb-924d-9cd76263cbd0,species,minimus,Harpaecarpus,,"(A.Gray) Greene",1897,"Fl. Francisc. 417 1897",,,,,117945-2,wfo-0000009452,4255972,
-6e930748-8fb4-11eb-924d-9cd76263cbd0,species,parvulus,Harpaecarpus,,Greene,1897,"Fl. Francisc. 416 1897",,,,,117946-2,wfo-0000064966,4255963,
-22fce0f2-8fb3-11eb-924d-9cd76263cbd0,species,suksdorfii,Harpaecarpus,,Gand.,1918,"Bull. Soc. Bot. France 65 43 1918",,,,,117947-2,wfo-0000042357,4255949,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e46cd620-8fd1-11eb-924d-9cd76263cbd0,genus,Harpaecarpus,,,,,,,,,,,,,,wfo-4000016941,7335809,,
+4cc08c66-8fba-11eb-924d-9cd76263cbd0,species,californicus,Harpaecarpus,,Gand.,,1918,,"Bull. Soc. Bot. France 65 43 1918",,Q55757061,,,,117942-2,wfo-0000125523,4205843,,
+0001cc26-8fb2-11eb-924d-9cd76263cbd0,species,exiguus,Harpaecarpus,,"(Sm.) A.Gray",,,,101,,,,,,211542-1,wfo-0000002901,6065254,,
+113207dc-8fbb-11eb-924d-9cd76263cbd0,species,longipes,Harpaecarpus,,Gand.,,1918,,"Bull. Soc. Bot. France 65 43 1918",,Q55757061,,,,117944-2,wfo-0000131456,4255993,,
+0ec0f8de-8fb9-11eb-924d-9cd76263cbd0,species,madarioides,Harpaecarpus,,Nutt.,,1841,,"Trans. Amer. Philos. Soc. ser. 2, 7: 389 1841",,,,,,,wfo-0000115022,4255989,,
+1201011c-8fb2-11eb-924d-9cd76263cbd0,species,minimus,Harpaecarpus,,"(A.Gray) Greene",,1897,,"Fl. Francisc. 417 1897",,,,,,117945-2,wfo-0000009452,4255972,,
+6e930748-8fb4-11eb-924d-9cd76263cbd0,species,parvulus,Harpaecarpus,,Greene,,1897,,"Fl. Francisc. 416 1897",,,,,,117946-2,wfo-0000064966,4255963,,
+22fce0f2-8fb3-11eb-924d-9cd76263cbd0,species,suksdorfii,Harpaecarpus,,Gand.,,1918,,"Bull. Soc. Bot. France 65 43 1918",,Q55757061,,,,117947-2,wfo-0000042357,4255949,,

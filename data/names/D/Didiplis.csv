@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2be53ee-8fd1-11eb-924d-9cd76263cbd0,genus,Didiplis,,,Raf.,1833,"Atlantic J. 1(6): 177. 1833.",,,,,30206367-2,wfo-4000011607,3188665,
-e1ac320a-8fcc-11eb-924d-9cd76263cbd0,species,diandra,Didiplis,,"(Nutt. ex DC.) Alph.Wood",1870,"Amer. Bot. Fl. 124 1870",,,,13555458-8fcd-11eb-924d-9cd76263cbd0,553322-1,wfo-0000646418,3188666,
-e1ac4fa6-8fcc-11eb-924d-9cd76263cbd0,form,aquatica,Didiplis,diandra,"(Koehne) Fassett",1939,"Rhodora 41: 376 1939",,,,,80028-2,wfo-0000646419,3989406,
-e1ac6ba8-8fcc-11eb-924d-9cd76263cbd0,form,terrestris,Didiplis,diandra,"(Koehne) Fassett",1939,"Rhodora 41: 376 1939",,,,,80029-2,wfo-0000646420,3989396,
-e1ac87aa-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Didiplis,,Raf.,1833,"Atlantic J. 1: 177 1833",,,,,553323-1,wfo-0000646421,3989385,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2be53ee-8fd1-11eb-924d-9cd76263cbd0,genus,Didiplis,,,Raf.,,1833,,"Atlantic J. 1(6): 177. 1833.",,,,,,30206367-2,wfo-4000011607,3188665,,
+e1ac320a-8fcc-11eb-924d-9cd76263cbd0,species,diandra,Didiplis,,"(Nutt. ex DC.) Alph.Wood",,1870,,"Amer. Bot. Fl. 124 1870",,,,13555458-8fcd-11eb-924d-9cd76263cbd0,,553322-1,wfo-0000646418,3188666,,
+e1ac4fa6-8fcc-11eb-924d-9cd76263cbd0,form,aquatica,Didiplis,diandra,"(Koehne) Fassett",,1939,,"Rhodora 41: 376 1939",,Q100408964,,b3c5e2b4-8fd1-11eb-924d-9cd76263cbd0,,80028-2,wfo-0000646419,3989406,,
+e1ac6ba8-8fcc-11eb-924d-9cd76263cbd0,form,terrestris,Didiplis,diandra,"(Koehne) Fassett",,1939,,"Rhodora 41: 376 1939",,Q100408964,,b3c5c784-8fd1-11eb-924d-9cd76263cbd0,,80029-2,wfo-0000646420,3989396,,
+e1ac87aa-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Didiplis,,Raf.,,1833,,"Atlantic J. 1: 177 1833",,,,,,553323-1,wfo-0000646421,3989385,,

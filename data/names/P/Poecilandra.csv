@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8cebcd8-8fd1-11eb-924d-9cd76263cbd0,genus,Poecilandra,,,Tul.,1847,"Ann. Sci. Nat., Bot., sér. 3, 8: 342. 1847.",,,,,28094-1,wfo-4000030531,7326803,
-7b8622e2-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Poecilandra,,Steyerm.,1952,"Fieldiana, Bot. 28: 371 1952",,,,,204692-2,wfo-0000476687,3696263,
-7b863fde-8fcc-11eb-924d-9cd76263cbd0,species,retusa,Poecilandra,,Tul.,1847,"Ann. Sci. Nat., Bot. III, 8: 242 1847",,,,,607313-1,wfo-0000476688,3696252,
-1577d526-8fcd-11eb-924d-9cd76263cbd0,variety,sclerophylla,Poecilandra,retusa,"(Ule) Sastre",1994,"Mém. Soc. Biogéogr. II, 4: 7 1994",,,,7b87cd04-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000737358,8272872,
-7b87cd04-8fcc-11eb-924d-9cd76263cbd0,species,sclerophylla,Poecilandra,,Ule,1915,"Notizbl. Königl. Bot. Gart. Berlin 6: 311 1915",,,,,204693-2,wfo-0000476697,3696234,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8cebcd8-8fd1-11eb-924d-9cd76263cbd0,genus,Poecilandra,,,Tul.,,1847,,"Ann. Sci. Nat., Bot., sér. 3, 8: 342. 1847.",,,,,,28094-1,wfo-4000030531,7326803,,
+7b8622e2-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Poecilandra,,Steyerm.,,1952,,"Fieldiana, Bot. 28: 371 1952",,,,,,204692-2,wfo-0000476687,3696263,,
+7b863fde-8fcc-11eb-924d-9cd76263cbd0,species,retusa,Poecilandra,,Tul.,,1847,,"Ann. Sci. Nat., Bot. III, 8: 242 1847",,,,,,607313-1,wfo-0000476688,3696252,,
+1577d526-8fcd-11eb-924d-9cd76263cbd0,variety,sclerophylla,Poecilandra,retusa,"(Ule) Sastre",,1994,,"Mém. Soc. Biogéogr. II, 4: 7 1994",,,,7b87cd04-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000737358,8272872,,
+7b87cd04-8fcc-11eb-924d-9cd76263cbd0,species,sclerophylla,Poecilandra,,Ule,,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 311 1915",,Q55776783,,,,204693-2,wfo-0000476697,3696234,,

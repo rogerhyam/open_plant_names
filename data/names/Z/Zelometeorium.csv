@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec36aa16-8fd1-11eb-924d-9cd76263cbd0,genus,Zelometeorium,,,Manuel,1977,"J. Hattori Bot. Lab. 43: 110–125, f. 1–4 [maps], 5–9. 1977[1978].",,,,,,wfo-4000041179,7680812,
-de7b9d5e-8fcd-11eb-924d-9cd76263cbd0,species,allionii,Zelometeorium,,Manuel,1977,"J. Hattori Bot. Lab. 43: 113. f. 5 1977",,,,,,wfo-0001146708,2677918,
-de7bb83e-8fcd-11eb-924d-9cd76263cbd0,species,ambiguum,Zelometeorium,,"(Hornsch.) Manuel",1977,"J. Hattori Bot. Lab. 43: 113 1977",,,,e10b89e4-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146709,2677920,
-de7bd4fe-8fcd-11eb-924d-9cd76263cbd0,species,patens,Zelometeorium,,"(Hook.) Manuel",1977,"J. Hattori Bot. Lab. 43: 116 1977",,,,,,wfo-0001146710,2677919,
-f607ba2a-8fcd-11eb-924d-9cd76263cbd0,variety,recurvifolium,Zelometeorium,patens,"(Hornsch.) M.Menzel",1987,"Beih. Nova Hedwigia 88: 57 1987",,,,e11b1418-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001195832,8119837,
-de7bf16e-8fcd-11eb-924d-9cd76263cbd0,species,patulum,Zelometeorium,,"(Hedw.) Manuel",1977,"J. Hattori Bot. Lab. 43: 118 1977",,,,e3616e84-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146711,2677917,
-de7c0e42-8fcd-11eb-924d-9cd76263cbd0,species,recurvifolium,Zelometeorium,,"(Hornsch.) Manuel",1977,"J. Hattori Bot. Lab. 43: 121 1977",,,,e11b1418-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001146712,7544650,
-1c0be5ea-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Zelonops,,"(Gaertn.) Raf.",1837,"Fl. Tellur. 2: 102 1837",,,,,670337-1,wfo-0000335236,2732149,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec36aa16-8fd1-11eb-924d-9cd76263cbd0,genus,Zelometeorium,,,Manuel,,1977,,"J. Hattori Bot. Lab. 43: 110–125, f. 1–4 [maps], 5–9. 1977[1978].",,,,,,,wfo-4000041179,7680812,,
+de7b9d5e-8fcd-11eb-924d-9cd76263cbd0,species,allionii,Zelometeorium,,Manuel,,1977,,"J. Hattori Bot. Lab. 43: 113. f. 5 1977",,,,,,,wfo-0001146708,2677918,,
+de7bb83e-8fcd-11eb-924d-9cd76263cbd0,species,ambiguum,Zelometeorium,,"(Hornsch.) Manuel",,1977,,"J. Hattori Bot. Lab. 43: 113 1977",,,,e10b89e4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146709,2677920,,
+de7bd4fe-8fcd-11eb-924d-9cd76263cbd0,species,patens,Zelometeorium,,"(Hook.) Manuel",,1977,,"J. Hattori Bot. Lab. 43: 116 1977",,,,,,,wfo-0001146710,2677919,,
+f607ba2a-8fcd-11eb-924d-9cd76263cbd0,variety,recurvifolium,Zelometeorium,patens,"(Hornsch.) M.Menzel",,1987,,"Beih. Nova Hedwigia 88: 57 1987",,,,e11b1418-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195832,8119837,,
+de7bf16e-8fcd-11eb-924d-9cd76263cbd0,species,patulum,Zelometeorium,,"(Hedw.) Manuel",,1977,,"J. Hattori Bot. Lab. 43: 118 1977",,,,e3616e84-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146711,2677917,,
+de7c0e42-8fcd-11eb-924d-9cd76263cbd0,species,recurvifolium,Zelometeorium,,"(Hornsch.) Manuel",,1977,,"J. Hattori Bot. Lab. 43: 121 1977",,,,e11b1418-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001146712,7544650,,
+1c0be5ea-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Zelonops,,"(Gaertn.) Raf.",,1837,,"Fl. Tellur. 2: 102 1837",,,,,,670337-1,wfo-0000335236,2732149,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e718809a-8fd1-11eb-924d-9cd76263cbd0,genus,Neblinaea,,,"Maguire & Wurdack",,,,,,,295034-2,wfo-4000025420,3140902,
-a7fbd504-8fba-11eb-924d-9cd76263cbd0,species,promontoriorum,Neblinaea,,"Maguire & Wurdack",1957,"Mem. New York Bot. Gard. ix. 392 (1957).",,,,,,wfo-0000128397,3140903,
-00f8e146-8fb2-11eb-924d-9cd76263cbd0,species,promontorium,Neblinaea,,"Maguire & Wurdack",1957,"Mem. New York Bot. Gard. 9: 392. 1957",,,,,,wfo-0000003509,4213944,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e718809a-8fd1-11eb-924d-9cd76263cbd0,genus,Neblinaea,,,"Maguire & Wurdack",,,,,,,,,,295034-2,wfo-4000025420,3140902,,
+a7fbd504-8fba-11eb-924d-9cd76263cbd0,species,promontoriorum,Neblinaea,,"Maguire & Wurdack",,1957,,"Mem. New York Bot. Gard. ix. 392 (1957).",,,,,,,wfo-0000128397,3140903,,
+00f8e146-8fb2-11eb-924d-9cd76263cbd0,species,promontorium,Neblinaea,,"Maguire & Wurdack",,1957,,"Mem. New York Bot. Gard. 9: 392. 1957",,,,,,,wfo-0000003509,4213944,,

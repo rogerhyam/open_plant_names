@@ -1,7 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e267f6f2-8fd1-11eb-924d-9cd76263cbd0,genus,Cyptodontopsis,,,Dixon,1937,"Ann. Bryol. 9: 64. 1937.",,,,,,wfo-4000010488,2678332,
-ef2503fc-8fcd-11eb-924d-9cd76263cbd0,species,laosiensis,Cyptodontopsis,,Dixon,1937,"Ann. Bryol. 9: 64 1937",,,,,,wfo-0001181765,7961668,
-fa19232e-8fcd-11eb-924d-9cd76263cbd0,species,leveillei,Cyptodontopsis,,"(Thér.) P.Rao & Enroth",1999,"Bryobrothera 5: 185 1999",,,,eed4a9f2-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001204272,2678333,
-ef25206c-8fcd-11eb-924d-9cd76263cbd0,species,obtusifolia,Cyptodontopsis,,"(Nog.) Nog.",1941,"J. Jap. Bot. 17: 211 1941",,,,eed6fd74-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001181766,8294887,
-db5ba976-8fcc-11eb-924d-9cd76263cbd0,species,erosum,Cyrbasium,,"Endl. ex Walp.",1842,"Repert. Bot. Syst. 1: 196 1842",,,,,147516-1,wfo-0000634789,3873396,
-db5bc49c-8fcc-11eb-924d-9cd76263cbd0,species,jamesii,Cyrbasium,,"Endl. ex Walp.",1842,"Repert. Bot. Syst. 1: 196 1842",,,,,,wfo-0000634790,8035337,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e267f6f2-8fd1-11eb-924d-9cd76263cbd0,genus,Cyptodontopsis,,,Dixon,,1937,,"Ann. Bryol. 9: 64. 1937.",,,,,,,wfo-4000010488,2678332,,
+ef2503fc-8fcd-11eb-924d-9cd76263cbd0,species,laosiensis,Cyptodontopsis,,Dixon,,1937,,"Ann. Bryol. 9: 64 1937",,,,,,,wfo-0001181765,7961668,,
+fa19232e-8fcd-11eb-924d-9cd76263cbd0,species,leveillei,Cyptodontopsis,,"(Thér.) P.Rao & Enroth",,1999,,"Bryobrothera 5: 185 1999",,,,eed4a9f2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001204272,2678333,,
+ef25206c-8fcd-11eb-924d-9cd76263cbd0,species,obtusifolia,Cyptodontopsis,,"(Nog.) Nog.",,1941,,"J. Jap. Bot. 17: 211 1941",,,,eed6fd74-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001181766,8294887,,

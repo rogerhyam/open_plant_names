@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea800956-8fd1-11eb-924d-9cd76263cbd0,genus,Solenocarpus,,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 171. 1834.",,,,,1917-1,wfo-4000035710,7321905,
-62ef797c-8fcc-11eb-924d-9cd76263cbd0,species,indica,Solenocarpus,,"Wight & Arn.",1834,"Prodr. Fl. Ind. Orient. 171 1834",,,,,71341-1,wfo-0000434953,3662473,
-62eee8ae-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Solenocarpus,,"(Elmer) Kosterm.",1955,"New Crit. Mal. Pl. 3: 1 1955",,,,,71342-1,wfo-0000434948,3662466,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea800956-8fd1-11eb-924d-9cd76263cbd0,genus,Solenocarpus,,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 171. 1834.",,,,,,1917-1,wfo-4000035710,7321905,,
+62ef797c-8fcc-11eb-924d-9cd76263cbd0,species,indica,Solenocarpus,,"Wight & Arn.",,1834,,"Prodr. Fl. Ind. Orient. 171 1834",,,,,,71341-1,wfo-0000434953,3662473,,
+62eee8ae-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Solenocarpus,,"(Elmer) Kosterm.",,1955,,"New Crit. Mal. Pl. 3: 1 1955",,,,,,71342-1,wfo-0000434948,3662466,,

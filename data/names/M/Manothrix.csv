@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e655e102-8fd1-11eb-924d-9cd76263cbd0,genus,Manothrix,,,Miers,1878,"Apocyn. S. Am. 28. 1878.",,,,,2424-1,wfo-4000023063,7316634,
-decab378-8fcb-11eb-924d-9cd76263cbd0,species,nodosa,Manothrix,,Miers,1878,"Apocyn. S. Amer. 30 1878",,,,,80117-1,wfo-0000236023,3615098,
-decafcc0-8fcb-11eb-924d-9cd76263cbd0,species,valida,Manothrix,,Miers,1878,"Apocyn. S. Amer. 29 1878",,,,,80118-1,wfo-0000236024,3615087,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e655e102-8fd1-11eb-924d-9cd76263cbd0,genus,Manothrix,,,Miers,,1878,,"Apocyn. S. Am. 28. 1878.",,,,,,2424-1,wfo-4000023063,7316634,,
+decab378-8fcb-11eb-924d-9cd76263cbd0,species,nodosa,Manothrix,,Miers,,1878,,"Apocyn. S. Amer. 30 1878",,,,,,80117-1,wfo-0000236023,3615098,,
+decafcc0-8fcb-11eb-924d-9cd76263cbd0,species,valida,Manothrix,,Miers,,1878,,"Apocyn. S. Amer. 29 1878",,,,,,80118-1,wfo-0000236024,3615087,,

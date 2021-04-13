@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8a70800-8fd1-11eb-924d-9cd76263cbd0,genus,Platycheilus,,,,,,,,,,,wfo-4000030089,3098129,
-1eacfb0e-8fb3-11eb-924d-9cd76263cbd0,species,ochroleucus,Platycheilus,,Cass.,1825,"Opuscules Phytologiques 2: 153 1825",,,,,,wfo-0000041990,3137394,
-64a78ac6-8fb2-11eb-924d-9cd76263cbd0,species,ochroleucus,Platycheilus,,"Hook. & Arn.",1835,"in Hook. Comp. Bot. Mag. i. (1835) 33, in syn. ""i.  33, in syn."" 1835",,,,,238692-1,wfo-0000023127,7838426,
-7780fe88-8fcc-11eb-924d-9cd76263cbd0,species,celsianum,Platychilum,,Delaun.,1815,"Herb. Amat. t. 187 1815",,,,,515189-1,wfo-0000469761,8135158,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8a70800-8fd1-11eb-924d-9cd76263cbd0,genus,Platycheilus,,,,,,,,,,,,,,wfo-4000030089,3098129,,
+1eacfb0e-8fb3-11eb-924d-9cd76263cbd0,species,ochroleucus,Platycheilus,,Cass.,,1825,,"Opuscules Phytologiques 2: 153 1825",,,,,,,wfo-0000041990,3137394,,
+64a78ac6-8fb2-11eb-924d-9cd76263cbd0,species,ochroleucus,Platycheilus,,"Hook. & Arn.",,1835,,"in Hook. Comp. Bot. Mag. i. (1835) 33, in syn. ""i.  33, in syn."" 1835",,,,,,238692-1,wfo-0000023127,7838426,,
+7780fe88-8fcc-11eb-924d-9cd76263cbd0,species,celsianum,Platychilum,,Delaun.,,1815,,"Herb. Amat. t. 187 1815",,,,,,515189-1,wfo-0000469761,8135158,,

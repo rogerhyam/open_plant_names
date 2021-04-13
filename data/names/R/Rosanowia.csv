@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9c690ca-8fd1-11eb-924d-9cd76263cbd0,genus,Rosanowia,,,Regel,1872,"Gartenflora 21: 33. 1872.",,,,,,wfo-4000033478,7268339,
-bb9486b2-8fd1-11eb-924d-9cd76263cbd0,species,conspicua,Rosanowia,,"(Seem.) Regel",1872,"Gartenflora 21: 33, t. 712 1872",,,,b1620ef8-8fcc-11eb-924d-9cd76263cbd0,1169722-2,wfo-0001245855,3820259,
-ca7f2ca4-8fd1-11eb-924d-9cd76263cbd0,species,hybrida,Rosanowia,,Nagy,1885,"Ill. Wien. Gartenfl. Zeit. 10: 126 1885",,,,,382662-1,wfo-0001273572,3820250,
-ca77c180-8fd1-11eb-924d-9cd76263cbd0,species,ornata,Rosanowia,,"Van Houtte",,"Ann. Gén. Hort. 23: 149, t. 2423–24 1880",,,,,382663-1,wfo-0001273527,3820239,
-c60d69c4-8fd1-11eb-924d-9cd76263cbd0,species,subverticellatus,Rosanthus,,"(Rose) Small",1910,"N. Amer. Fl. 25: 131 1910",,,,,222494-2,wfo-0001265168,7540902,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9c690ca-8fd1-11eb-924d-9cd76263cbd0,genus,Rosanowia,,,Regel,,1872,,"Gartenflora 21: 33. 1872.",,,,,,,wfo-4000033478,7268339,,
+bb9486b2-8fd1-11eb-924d-9cd76263cbd0,species,conspicua,Rosanowia,,"(Seem.) Regel",,1872,,"Gartenflora 21: 33, t. 712 1872",,,,b1620ef8-8fcc-11eb-924d-9cd76263cbd0,,1169722-2,wfo-0001245855,3820259,,
+ca7f2ca4-8fd1-11eb-924d-9cd76263cbd0,species,hybrida,Rosanowia,,Nagy,,1885,,"Ill. Wien. Gartenfl. Zeit. 10: 126 1885",,,,,,382662-1,wfo-0001273572,3820250,,
+ca77c180-8fd1-11eb-924d-9cd76263cbd0,species,ornata,Rosanowia,,"Van Houtte",,,,"Ann. Gén. Hort. 23: 149, t. 2423–24 1880",,,,,,382663-1,wfo-0001273527,3820239,,
+c60d69c4-8fd1-11eb-924d-9cd76263cbd0,species,subverticellatus,Rosanthus,,"(Rose) Small",,1910,,"N. Amer. Fl. 25: 131 1910",,,,,,222494-2,wfo-0001265168,7540902,,

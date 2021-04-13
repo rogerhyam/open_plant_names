@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e36825b8-8fd1-11eb-924d-9cd76263cbd0,genus,Eremosemium,,,Greene,1900,"Pittonia 4: 225. 1900. (8 Dec 1900)",,,,,,wfo-4000013738,7339757,
-f05ee14e-8fcc-11eb-924d-9cd76263cbd0,species,brandegeei,Eremosemium,,"(A.Gray) Greene",1900,"Pittonia 4: 225 1900",,,,,93397-2,wfo-0000671139,3756832,
-f05f0a66-8fcc-11eb-924d-9cd76263cbd0,species,spinosum,Eremosemium,,Greene,1900,"Pittonia 4: 225 1900",,,,,93398-2,wfo-0000671140,3756816,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e36825b8-8fd1-11eb-924d-9cd76263cbd0,genus,Eremosemium,,,Greene,,1900,,"Pittonia 4: 225. 1900. (8 Dec 1900)",,,,,,,wfo-4000013738,7339757,,
+f05ee14e-8fcc-11eb-924d-9cd76263cbd0,species,brandegeei,Eremosemium,,"(A.Gray) Greene",,1900,,"Pittonia 4: 225 1900",,,,,,93397-2,wfo-0000671139,3756832,,
+f05f0a66-8fcc-11eb-924d-9cd76263cbd0,species,spinosum,Eremosemium,,Greene,,1900,,"Pittonia 4: 225 1900",,,,,,93398-2,wfo-0000671140,3756816,,

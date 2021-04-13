@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6770e90-8fd1-11eb-924d-9cd76263cbd0,genus,Medusandra,,,Brenan,1952,"Kew Bull. 7: 228. 1952. (25 Jul 1952)",,,,,26132-1,wfo-4000023452,7273595,
-bf5efc22-8fcd-11eb-924d-9cd76263cbd0,species,mpomiana,Medusandra,,"Letouzey & Satabie",1974,"Adansonia, n.s. 14(1): 65 1974",,,,,565407-1,wfo-0001078702,3874442,
-bf5edf58-8fcd-11eb-924d-9cd76263cbd0,species,richardsiana,Medusandra,,Brenan,1952,"Kew Bull. 7: 229, f. 1 & 2 1952",,,,,,wfo-0001078701,3874433,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6770e90-8fd1-11eb-924d-9cd76263cbd0,genus,Medusandra,,,Brenan,,1952,,"Kew Bull. 7: 228. 1952. (25 Jul 1952)",,Q93613045,,,,26132-1,wfo-4000023452,7273595,,
+bf5efc22-8fcd-11eb-924d-9cd76263cbd0,species,mpomiana,Medusandra,,"Letouzey & Satabie",,1974,,"Adansonia, n.s. 14(1): 65 1974",,Q58838059,,,,565407-1,wfo-0001078702,3874442,,
+bf5edf58-8fcd-11eb-924d-9cd76263cbd0,species,richardsiana,Medusandra,,Brenan,,1952,,"Kew Bull. 7: 229, f. 1 & 2 1952",,,,,,,wfo-0001078701,3874433,,

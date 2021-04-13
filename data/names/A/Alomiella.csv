@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df22f7ee-8fd1-11eb-924d-9cd76263cbd0,genus,Alomiella,,,"R.M.King & H.Rob.",,,,,,,295830-2,wfo-4000001349,3096952,
-6e3092d8-8fba-11eb-924d-9cd76263cbd0,species,hatschbachii,Alomiella,,"R.M.King & H.Rob.",1984,"Phytologia 56 256 1984",,,,,271977-2,wfo-0000126582,3096955,
-2b8a96c6-8fb6-11eb-924d-9cd76263cbd0,species,regnellii,Alomiella,,"(Malme) R.M.King & H.Rob.",1972,"Phytologia 24 396 1972",,,,,9508-2,wfo-0000086465,3096953,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df22f7ee-8fd1-11eb-924d-9cd76263cbd0,genus,Alomiella,,,"R.M.King & H.Rob.",,,,,,,,,,295830-2,wfo-4000001349,3096952,,
+6e3092d8-8fba-11eb-924d-9cd76263cbd0,species,hatschbachii,Alomiella,,"R.M.King & H.Rob.",,1984,,"Phytologia 56 256 1984",,,,,,271977-2,wfo-0000126582,3096955,,
+2b8a96c6-8fb6-11eb-924d-9cd76263cbd0,species,regnellii,Alomiella,,"(Malme) R.M.King & H.Rob.",,1972,,"Phytologia 24 396 1972",,,,,,9508-2,wfo-0000086465,3096953,,

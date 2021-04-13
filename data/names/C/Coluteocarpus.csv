@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e1f36e4a-8fd1-11eb-924d-9cd76263cbd0,genus,Coluteocarpus,,,Boiss.,1841,"Ann. Sci. Nat., Bot., sér. 2 16: 378. 1841.",,,,,,wfo-4000009001,3040740,
-d00d04de-8fcc-11eb-924d-9cd76263cbd0,species,boissieri,Coluteocarpus,,"Hausskn. ex O.E.Schulz",1936,"Nat. Pflanzenfam. ed. 2 17b: 428 1936",,,,,281531-1,wfo-0000615888,3040749,
-acfe807a-8fcd-11eb-924d-9cd76263cbd0,species,reticulatus,Coluteocarpus,,"(Lam. ex Poir.) Boiss.",1841,"Ann. Sci. Nat., Bot., sér. 2, 16: 378 1841",,,,,,wfo-0001036852,3040743,
-ad8f6388-8fcd-11eb-924d-9cd76263cbd0,variety,boissieri,Coluteocarpus,reticulatus,"Hausskn. ex Bornm.",1906,"Beih. Bot. Centralbl. 19(2): 207. 1906",,,,,,wfo-0001038151,3040748,
-d00d7efa-8fcc-11eb-924d-9cd76263cbd0,species,vesicaria,Coluteocarpus,,"(L.) Holmboe",1907,"Bergens Mus. Årbok 13: 6 1907",,,,,1121489-2,wfo-0000615889,3040741,
-d00dbbf4-8fcc-11eb-924d-9cd76263cbd0,subspecies,boissieri,Coluteocarpus,vesicaria,"(Hausskn. ex O.E.Schulz) Hedge",1965,"Notes Roy. Bot. Gard. Edinburgh 26: 181 1965",,,,d00d04de-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000615890,3040747,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e1f36e4a-8fd1-11eb-924d-9cd76263cbd0,genus,Coluteocarpus,,,Boiss.,,1841,,"Ann. Sci. Nat., Bot., sér. 2 16: 378. 1841.",,,,,,,wfo-4000009001,3040740,,
+d00d04de-8fcc-11eb-924d-9cd76263cbd0,species,boissieri,Coluteocarpus,,"Hausskn. ex O.E.Schulz",,1936,,"Nat. Pflanzenfam. ed. 2 17b: 428 1936",,,,,,281531-1,wfo-0000615888,3040749,,
+acfe807a-8fcd-11eb-924d-9cd76263cbd0,species,reticulatus,Coluteocarpus,,"(Lam. ex Poir.) Boiss.",,1841,,"Ann. Sci. Nat., Bot., sér. 2, 16: 378 1841",,,,,,,wfo-0001036852,3040743,,
+ad8f6388-8fcd-11eb-924d-9cd76263cbd0,variety,boissieri,Coluteocarpus,reticulatus,"Hausskn. ex Bornm.",,1906,,"Beih. Bot. Centralbl. 19(2): 207. 1906",,,,,,,wfo-0001038151,3040748,,
+d00d7efa-8fcc-11eb-924d-9cd76263cbd0,species,vesicaria,Coluteocarpus,,"(L.) Holmboe",,1907,,"Bergens Mus. Årbok 13: 6 1907",,,,,,1121489-2,wfo-0000615889,3040741,,
+d00dbbf4-8fcc-11eb-924d-9cd76263cbd0,subspecies,boissieri,Coluteocarpus,vesicaria,"(Hausskn. ex O.E.Schulz) Hedge",,1965,,"Notes Roy. Bot. Gard. Edinburgh 26: 181 1965",,,,d00d04de-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000615890,3040747,,

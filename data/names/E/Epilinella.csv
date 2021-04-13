@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e35f1068-8fd1-11eb-924d-9cd76263cbd0,genus,Epilinella,,,Pfeiff.,1845,"Bot. Zeitung (Berlin) 3: 673. 1845.",,,,,,wfo-4000013607,7324319,
-d8945cfa-8fbe-11eb-924d-9cd76263cbd0,species,cuscutoides,Epilinella,,Pfeiff.,1845,"Bot. Zeit. iii. (1845) 673",,,,,267829-1,wfo-0000156405,3680161,
-eedf28d8-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Epilithes,,Blume,1826,"Bijdr. 734 1826",,,,,430075-1,wfo-0000668665,3709833,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e35f1068-8fd1-11eb-924d-9cd76263cbd0,genus,Epilinella,,,Pfeiff.,,1845,,"Bot. Zeitung (Berlin) 3: 673. 1845.",,,,,,,wfo-4000013607,7324319,,
+d8945cfa-8fbe-11eb-924d-9cd76263cbd0,species,cuscutoides,Epilinella,,Pfeiff.,,1845,,"Bot. Zeit. iii. (1845) 673",,,,,,267829-1,wfo-0000156405,3680161,,
+eedf28d8-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Epilithes,,Blume,,1826,,"Bijdr. 734 1826",,,,,,430075-1,wfo-0000668665,3709833,,

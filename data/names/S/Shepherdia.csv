@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea57759a-8fd1-11eb-924d-9cd76263cbd0,genus,Shepherdia,,,Nutt.,1818,"Gen. N. Amer. Pl. 2: 240–241. 1818.",,,,,331958-2,wfo-4000035241,3039276,
-b143c1d6-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Shepherdia,,"(Pursh) Nutt.",1818,"Gen. N. Amer. Pl. 2: 240 1818",,,,,1043645-2,wfo-0001046525,5372429,
-88d11808-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Shepherdia,,"(L.) Nutt.",1818,"Gen. N. Amer. Pl. 2: 241 1818",,,,,323864-1,wfo-0000499493,5372427,
-88d2f844-8fcc-11eb-924d-9cd76263cbd0,species,gottingensis,Shepherdia,,Rehder,1927,"Man. Cult. Trees 649 1927",,,,,323865-1,wfo-0000499501,5657969,
-b143de82-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolia,Shepherdia,,Parry,1875,"Amer. Naturalist 9(6): 350 1875",,,,,323866-1,wfo-0001046526,5372428,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea57759a-8fd1-11eb-924d-9cd76263cbd0,genus,Shepherdia,,,Nutt.,,1818,,"Gen. N. Amer. Pl. 2: 240–241. 1818.",,,,,,331958-2,wfo-4000035241,3039276,,
+b143c1d6-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Shepherdia,,"(Pursh) Nutt.",,1818,,"Gen. N. Amer. Pl. 2: 240 1818",,,,,,1043645-2,wfo-0001046525,5372429,,
+88d11808-8fcc-11eb-924d-9cd76263cbd0,species,canadensis,Shepherdia,,"(L.) Nutt.",,1818,,"Gen. N. Amer. Pl. 2: 241 1818",,,,,,323864-1,wfo-0000499493,5372427,,
+88d2f844-8fcc-11eb-924d-9cd76263cbd0,species,gottingensis,Shepherdia,,Rehder,,1927,,"Man. Cult. Trees 649 1927",,,,,,323865-1,wfo-0000499501,5657969,,
+b143de82-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolia,Shepherdia,,Parry,,1875,,"Amer. Naturalist 9(6): 350 1875",,,,,,323866-1,wfo-0001046526,5372428,,

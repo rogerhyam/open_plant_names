@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea099a82-8fd1-11eb-924d-9cd76263cbd0,genus,Schenkia,,,Griseb.,1853,"Bonplandia (Hannover) 1(22): 226. 1853.",,,,,16708-1,wfo-4000034309,8177819,
-cac5fd00-8fd1-11eb-924d-9cd76263cbd0,species,australis,Schenkia,,"(R.Br.) G.Mans.",2004,"Taxon 53(3): 725 2004",,,,,77061733-1,wfo-0001274098,5595259,
-cb6301ea-8fd1-11eb-924d-9cd76263cbd0,species,clementii,Schenkia,,"(Domin) G.Mans.",2004,"Taxon 53(3): 725 2004",,,,,77061734-1,wfo-0001275164,5595256,
-cb631ebe-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Schenkia,,"(Maxim.) G.Mans.",2004,"Taxon 53(3): 725 2004",,,,,77061735-1,wfo-0001275165,5595253,
-cac57920-8fd1-11eb-924d-9cd76263cbd0,species,sebaeoides,Schenkia,,Griseb.,1853,"Bonplandia 1: 226 1853",,,,,370560-1,wfo-0001274097,5595251,
-cb641f08-8fd1-11eb-924d-9cd76263cbd0,species,spicata,Schenkia,,"(L.) G.Mans.",2004,"Taxon 53(3): 726 2004",,,,,77061736-1,wfo-0001275170,5595243,
-65ab1ffe-8fcc-11eb-924d-9cd76263cbd0,species,aphylla,Schepperia,,"Eckl. & Zeyh.",1835,"Enum. Pl. Afric. Austral. 14 1835",,,,,148058-1,wfo-0000439286,3873063,
-65abab2c-8fcc-11eb-924d-9cd76263cbd0,species,juncea,Schepperia,,DC.,1824,"Prodr. 1: 245 1824",,,,,148059-1,wfo-0000439291,3873057,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea099a82-8fd1-11eb-924d-9cd76263cbd0,genus,Schenkia,,,Griseb.,,1853,,"Bonplandia (Hannover) 1(22): 226. 1853.",,,,,,16708-1,wfo-4000034309,8177819,,
+cac5fd00-8fd1-11eb-924d-9cd76263cbd0,species,australis,Schenkia,,"(R.Br.) G.Mans.",,2004,,"Taxon 53(3): 725 2004",,Q28959841,,,,77061733-1,wfo-0001274098,5595259,,
+cb6301ea-8fd1-11eb-924d-9cd76263cbd0,species,clementii,Schenkia,,"(Domin) G.Mans.",,2004,,"Taxon 53(3): 725 2004",,Q28959841,,,,77061734-1,wfo-0001275164,5595256,,
+cb631ebe-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Schenkia,,"(Maxim.) G.Mans.",,2004,,"Taxon 53(3): 725 2004",,Q28959841,,,,77061735-1,wfo-0001275165,5595253,,
+cac57920-8fd1-11eb-924d-9cd76263cbd0,species,sebaeoides,Schenkia,,Griseb.,,1853,,"Bonplandia 1: 226 1853",,,,,,370560-1,wfo-0001274097,5595251,,
+cb641f08-8fd1-11eb-924d-9cd76263cbd0,species,spicata,Schenkia,,"(L.) G.Mans.",,2004,,"Taxon 53(3): 726 2004",,Q28959841,,,,77061736-1,wfo-0001275170,5595243,,
+65ab1ffe-8fcc-11eb-924d-9cd76263cbd0,species,aphylla,Schepperia,,"Eckl. & Zeyh.",,1835,,"Enum. Pl. Afric. Austral. 14 1835",,,,,,148058-1,wfo-0000439286,3873063,,
+65abab2c-8fcc-11eb-924d-9cd76263cbd0,species,juncea,Schepperia,,DC.,,1824,,"Prodr. 1: 245 1824",,,,,,148059-1,wfo-0000439291,3873057,,

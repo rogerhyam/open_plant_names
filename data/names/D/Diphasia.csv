@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2d41e72-8fd1-11eb-924d-9cd76263cbd0,genus,Diphasia,,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris 2: 70. 1898.",,,,,,wfo-4000011894,7269384,
-e3d04fb2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Diphasia,,"(Hiern) Verd.",1926,"Bull. Misc. Inform. Kew 1926: 411 1926",,,,,772624-1,wfo-0000650043,5594422,
-e3d06fa6-8fcc-11eb-924d-9cd76263cbd0,species,dainellii,Diphasia,,Pic.Serm.,1951,"Miss. Stud. Lago Tana 7(1): 70 1951",,,,,772625-1,wfo-0000650044,5594418,
-e3d098f0-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Diphasia,,Pierre,1898,"Bull. Mens. Soc. Linn. Paris n.s., 1: 80 1898",,,,,772626-1,wfo-0000650045,5594415,
-e3d1969c-8fcc-11eb-924d-9cd76263cbd0,species,madagascarienis,Diphasia,,H.Perrier,1948,"Mém. Acad. Sci. Inst. France II, 67(3): 33 1948",,,,,772627-1,wfo-0000650047,5594412,
-e3d1b38e-8fcc-11eb-924d-9cd76263cbd0,species,mildbraedii,Diphasia,,Engl.,1931,"Nat. Pflanzenfam. ed. 2 19a: 304 1931",,,,,772628-1,wfo-0000650048,5594410,
-e3d1cf2c-8fcc-11eb-924d-9cd76263cbd0,species,morogorensis,Diphasia,,Kokwaro,1978,"Kew Bull. 32: 785 1978",,,,,772629-1,wfo-0000650049,7269387,
-e3d1ea52-8fcc-11eb-924d-9cd76263cbd0,species,noldeae,Diphasia,,"Exell & Mendonça",1951,"Bol. Soc. Brot. II, 25: 107 1951",,,,,772630-1,wfo-0000650050,5594400,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2d41e72-8fd1-11eb-924d-9cd76263cbd0,genus,Diphasia,,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris 2: 70. 1898.",,,,,,,wfo-4000011894,7269384,,
+e3d04fb2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Diphasia,,"(Hiern) Verd.",,1926,,"Bull. Misc. Inform. Kew 1926: 411 1926",,Q55786675,,,,772624-1,wfo-0000650043,5594422,,
+e3d06fa6-8fcc-11eb-924d-9cd76263cbd0,species,dainellii,Diphasia,,Pic.Serm.,,1951,,"Miss. Stud. Lago Tana 7(1): 70 1951",,,,,,772625-1,wfo-0000650044,5594418,,
+e3d098f0-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Diphasia,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 80 1898",,,,,,772626-1,wfo-0000650045,5594415,,
+e3d1969c-8fcc-11eb-924d-9cd76263cbd0,species,madagascarienis,Diphasia,,H.Perrier,,1948,,"Mém. Acad. Sci. Inst. France II, 67(3): 33 1948",,,,,,772627-1,wfo-0000650047,5594412,,
+e3d1b38e-8fcc-11eb-924d-9cd76263cbd0,species,mildbraedii,Diphasia,,Engl.,,1931,,"Nat. Pflanzenfam. ed. 2 19a: 304 1931",,,,,,772628-1,wfo-0000650048,5594410,,
+e3d1cf2c-8fcc-11eb-924d-9cd76263cbd0,species,morogorensis,Diphasia,,Kokwaro,,1978,,"Kew Bull. 32: 785 1978",,Q43231733,,,,772629-1,wfo-0000650049,7269387,,
+e3d1ea52-8fcc-11eb-924d-9cd76263cbd0,species,noldeae,Diphasia,,"Exell & Mendonça",,1951,,"Bol. Soc. Brot. II, 25: 107 1951",,,,,,772630-1,wfo-0000650050,5594400,,

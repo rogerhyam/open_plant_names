@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5fa4608-8fd1-11eb-924d-9cd76263cbd0,genus,Lipostoma,,,D.Don,1829,"Edinburgh New Philos. J. 8: 168. 1829.",,,,,,wfo-4000021916,7271128,
-dae6a5d2-8fcb-11eb-924d-9cd76263cbd0,species,capitatum,Lipostoma,,"(Graham) D.Don",1823,"Edinburgh New Philos. J. 7: 168 1823",,,,,,wfo-0000228645,2906950,
-dae6c6e8-8fcb-11eb-924d-9cd76263cbd0,species,prostratum,Lipostoma,,K.Schum.,1889,"Fl. Bras. 6(6): 275 1889",,,,,141015-2,wfo-0000228646,2895678,
-dae6e7c2-8fcb-11eb-924d-9cd76263cbd0,species,sericeum,Lipostoma,,D.Don,1830,"Edinburgh New Philos. J. 1830(Jan.-April): 169 1830",,,,,755356-1,wfo-0000228647,3848577,
-2f2db824-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Lipotactes,,"(Sw.) Blume",,"Syst. Veg. 7: 1729 1830",,,,,548971-1,wfo-0000366000,5639934,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5fa4608-8fd1-11eb-924d-9cd76263cbd0,genus,Lipostoma,,,D.Don,,1829,,"Edinburgh New Philos. J. 8: 168. 1829.",,,,,,,wfo-4000021916,7271128,,
+dae6a5d2-8fcb-11eb-924d-9cd76263cbd0,species,capitatum,Lipostoma,,"(Graham) D.Don",,1823,,"Edinburgh New Philos. J. 7: 168 1823",,,,,,,wfo-0000228645,2906950,,
+dae6c6e8-8fcb-11eb-924d-9cd76263cbd0,species,prostratum,Lipostoma,,K.Schum.,,1889,,"Fl. Bras. 6(6): 275 1889",,,,,,141015-2,wfo-0000228646,2895678,,
+dae6e7c2-8fcb-11eb-924d-9cd76263cbd0,species,sericeum,Lipostoma,,D.Don,,1830,,"Edinburgh New Philos. J. 1830(Jan.-April): 169 1830",,,,,,755356-1,wfo-0000228647,3848577,,
+2f2db824-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Lipotactes,,"(Sw.) Blume",,,,"Syst. Veg. 7: 1729 1830",,,,,,548971-1,wfo-0000366000,5639934,,

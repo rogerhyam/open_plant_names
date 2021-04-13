@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9174124-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoarabidopsis,,,"Al-Shehbaz, O'Kane & R.A.Price",1999,"Novon 9(3): 304. 1999.",,,,,1009843-1,wfo-4000031395,3044556,
-4549e740-8fcc-11eb-924d-9cd76263cbd0,species,toxophylla,Pseudoarabidopsis,,"(M.Bieb.) Al-Shehbaz, O'Kane & R.A.Price",1999,"Novon 9: 304 1999",,,,a2aef3bc-8fcc-11eb-924d-9cd76263cbd0,1009844-1,wfo-0000397179,3044557,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9174124-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoarabidopsis,,,"Al-Shehbaz, O'Kane & R.A.Price",,1999,,"Novon 9(3): 304. 1999.",,Q54553244,,,,1009843-1,wfo-4000031395,3044556,,
+4549e740-8fcc-11eb-924d-9cd76263cbd0,species,toxophylla,Pseudoarabidopsis,,"(M.Bieb.) Al-Shehbaz, O'Kane & R.A.Price",,1999,,"Novon 9: 304 1999",,Q54553244,,a2aef3bc-8fcc-11eb-924d-9cd76263cbd0,,1009844-1,wfo-0000397179,3044557,,

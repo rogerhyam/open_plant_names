@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4304322-8fd1-11eb-924d-9cd76263cbd0,genus,Greenia,,,,,,,,,,,wfo-4000016187,,
-550417fe-8fcd-11eb-924d-9cd76263cbd0,species,arkansana,Greenia,,Nutt.,1835,"Trans. Amer. Philos. Soc. n.s., 5: 142 1835 publ. 1837",,,,,302319-2,wfo-0000873490,5675658,
-abfe66f4-8fcd-11eb-924d-9cd76263cbd0,species,brownensis,Greenia,,S.Wallman,1791,"2: 188 188 1791",,,,,,wfo-0001034748,7950846,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4304322-8fd1-11eb-924d-9cd76263cbd0,genus,Greenia,,,,,,,,,,,,,,wfo-4000016187,,,
+550417fe-8fcd-11eb-924d-9cd76263cbd0,species,arkansana,Greenia,,Nutt.,,1835,,"Trans. Amer. Philos. Soc. n.s., 5: 142 1835 publ. 1837",,,,,,302319-2,wfo-0000873490,5675658,,
+abfe66f4-8fcd-11eb-924d-9cd76263cbd0,species,brownensis,Greenia,,S.Wallman,,1791,,"2: 188 188 1791",,,,,,,wfo-0001034748,7950846,,

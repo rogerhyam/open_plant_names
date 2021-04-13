@@ -1,11 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e84f6708-8fd1-11eb-924d-9cd76263cbd0,genus,Phaedranthus,,,Miers,1863,"Proc. Roy. Hort. Soc. London 3: 182. 1863.",,,,,,wfo-4000029036,7298434,
-2a1cea02-8fcd-11eb-924d-9cd76263cbd0,species,buccinatorius,Phaedranthus,,"(DC.) Miers",1863,"Proc. Roy. Hort. Soc. London 3: 182 1863",,,,,110316-1,wfo-0000780694,4092067,
-2967ca00-8fcd-11eb-924d-9cd76263cbd0,species,cinerascens,Phaedranthus,,Miers,1863,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,110317-1,wfo-0000779247,4092057,
-2967b010-8fcd-11eb-924d-9cd76263cbd0,species,exsertus,Phaedranthus,,"(DC.) Miers",1863,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,110318-1,wfo-0000779246,4092049,
-296792b0-8fcd-11eb-924d-9cd76263cbd0,species,extatus,Phaedranthus,,Miers,1863,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,110319-1,wfo-0000779245,4092039,
-296775dc-8fcd-11eb-924d-9cd76263cbd0,species,lindleyanus,Phaedranthus,,Miers,1863,"Proc. Roy. Hort. Soc. London 3: 182 1863",,,,,110320-1,wfo-0000779244,4092027,
-c3b0bf18-8fcd-11eb-924d-9cd76263cbd0,species,ciliaris,Phaedrosanthus,,"(L.) Kuntze",1902,"Lex. Gen. Phan. 429 1902",,,,,,wfo-0001088244,7817572,
-c4038068-8fcd-11eb-924d-9cd76263cbd0,species,cochleatus,Phaedrosanthus,,"(L.) Kuntze",1902,"Lex. Gen. Phan. 429 1902",,,,,,wfo-0001089011,7637218,
-c3c7e2d8-8fcd-11eb-924d-9cd76263cbd0,species,nocturnus,Phaedrosanthus,,"(Jacq.) Kuntze",1902,"Lex. Gen. Phan. 429 1902",,,,,,wfo-0001088464,7464045,
-d9fc7366-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Phaelypaea,,P.Browne,1756,"Civ. Nat. Hist. Jamaica 269 1756",,,,,,wfo-0001137297,3728136,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e84f6708-8fd1-11eb-924d-9cd76263cbd0,genus,Phaedranthus,,,Miers,,1863,,"Proc. Roy. Hort. Soc. London 3: 182. 1863.",,,,,,,wfo-4000029036,7298434,,
+2a1cea02-8fcd-11eb-924d-9cd76263cbd0,species,buccinatorius,Phaedranthus,,"(DC.) Miers",,1863,,"Proc. Roy. Hort. Soc. London 3: 182 1863",,,,,,110316-1,wfo-0000780694,4092067,,
+2967ca00-8fcd-11eb-924d-9cd76263cbd0,species,cinerascens,Phaedranthus,,Miers,,1863,,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,,110317-1,wfo-0000779247,4092057,,
+2967b010-8fcd-11eb-924d-9cd76263cbd0,species,exsertus,Phaedranthus,,"(DC.) Miers",,1863,,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,,110318-1,wfo-0000779246,4092049,,
+296792b0-8fcd-11eb-924d-9cd76263cbd0,species,extatus,Phaedranthus,,Miers,,1863,,"Proc. Roy. Hort. Soc. London 3: 183 1863",,,,,,110319-1,wfo-0000779245,4092039,,
+296775dc-8fcd-11eb-924d-9cd76263cbd0,species,lindleyanus,Phaedranthus,,Miers,,1863,,"Proc. Roy. Hort. Soc. London 3: 182 1863",,,,,,110320-1,wfo-0000779244,4092027,,

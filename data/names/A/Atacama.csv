@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec49fcc4-8fd1-11eb-924d-9cd76263cbd0,genus,Atacama,,,"Toro-Núñez, Mort & Al-Shehbaz",,"Pl. Syst. Evol. 301: 1388 (2014)",,,,,77147103-1,wfo-4001303137,8232035,
-1f355f94-8fcc-11eb-924d-9cd76263cbd0,species,aspera,Ataccia,,"(Roxb.) Kunth",1850,"Enum. Pl. 5: 464 1850",,,,,827873-1,wfo-0000340801,2755857,
-1f35883e-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Ataccia,,"(Jack) Kunth",1850,"Enum. Pl. 5: 466 1850",,,,b2ea95f6-8fcc-11eb-924d-9cd76263cbd0,827874-1,wfo-0000340802,2755862,
-1f35ab98-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Ataccia,,"(Ker Gawl.) C.Presl",1828,"Reliq. Haenk. 1: 149 1828",,,,,,wfo-0000340803,2755855,
-1f35cd26-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Ataccia,,"(Roxb.) Kunth",1850,"Enum. Pl. 5: 466 1850",,,,,827876-1,wfo-0000340804,2755858,
-1f35f09e-8fcc-11eb-924d-9cd76263cbd0,species,lancifolia,Ataccia,,"(Zoll. & Moritzi) Kunth",1850,"Enum. Pl. 5: 465 1850",,,,b304d038-8fcc-11eb-924d-9cd76263cbd0,827877-1,wfo-0000340805,2755863,
-ec241a64-8fcb-11eb-924d-9cd76263cbd0,species,atacina,,,P.Delforge,1992,"Naturalistes Belges 73: 134 1992",,,,,979726-1,wfo-0000258743,,
-ec2aa546-8fcb-11eb-924d-9cd76263cbd0,species,atacina,,,"(P.Delforge) P.Delforge",2000,"Naturalistes Belges 81: 398 2000",,,,ec241a64-8fcb-11eb-924d-9cd76263cbd0,1018159-1,wfo-0000258776,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec49fcc4-8fd1-11eb-924d-9cd76263cbd0,genus,Atacama,,,"Toro-Núñez, Mort & Al-Shehbaz",,,,"Pl. Syst. Evol. 301: 1388 (2014)",,Q54786892,,,,77147103-1,wfo-4001303137,8232035,,
+1f355f94-8fcc-11eb-924d-9cd76263cbd0,species,aspera,Ataccia,,"(Roxb.) Kunth",,1850,,"Enum. Pl. 5: 464 1850",,,,,,827873-1,wfo-0000340801,2755857,,
+1f35883e-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Ataccia,,"(Jack) Kunth",,1850,,"Enum. Pl. 5: 466 1850",,,,b2ea95f6-8fcc-11eb-924d-9cd76263cbd0,,827874-1,wfo-0000340802,2755862,,
+1f35ab98-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Ataccia,,"(Ker Gawl.) C.Presl",,1828,,"Reliq. Haenk. 1: 149 1828",,,,,,,wfo-0000340803,2755855,,
+1f35cd26-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Ataccia,,"(Roxb.) Kunth",,1850,,"Enum. Pl. 5: 466 1850",,,,,,827876-1,wfo-0000340804,2755858,,
+1f35f09e-8fcc-11eb-924d-9cd76263cbd0,species,lancifolia,Ataccia,,"(Zoll. & Moritzi) Kunth",,1850,,"Enum. Pl. 5: 465 1850",,,,b304d038-8fcc-11eb-924d-9cd76263cbd0,,827877-1,wfo-0000340805,2755863,,
+ec2aa546-8fcb-11eb-924d-9cd76263cbd0,species,atacina,,,"(P.Delforge) P.Delforge",,2000,,"Naturalistes Belges 81: 398 2000",,,,ec241a64-8fcb-11eb-924d-9cd76263cbd0,,1018159-1,wfo-0000258776,,,
+ec241a64-8fcb-11eb-924d-9cd76263cbd0,species,atacina,,,P.Delforge,,1992,,"Naturalistes Belges 73: 134 1992",,,,,,979726-1,wfo-0000258743,,,

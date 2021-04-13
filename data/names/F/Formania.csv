@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3c63a72-8fd1-11eb-924d-9cd76263cbd0,genus,Formania,,,"W.W.Sm. & J.Small",,,,,,,8961-1,wfo-4000014939,3105046,
-76268064-8fbb-11eb-924d-9cd76263cbd0,species,mekongensis,Formania,,"W.W.Sm. & J.Small",1922,1922,,,,,,wfo-0000134421,5391557,
-8b3e772e-8fcd-11eb-924d-9cd76263cbd0,species,doichangensis,Formanodendron,,"(A.Camus) Nixon & Crepet",1989,"Amer. J. Bot. 76: 840 1989",,,,008f758e-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000967288,2876670,
-8b3e9a7e-8fcd-11eb-924d-9cd76263cbd0,species,benthamiana,Formosia,,"(Hemsl.) Pichon",1948,"Bull. Mus. Natl. Hist. Nat. II, 20: 301 1948",,,,,79017-1,wfo-0000967289,5535924,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3c63a72-8fd1-11eb-924d-9cd76263cbd0,genus,Formania,,,"W.W.Sm. & J.Small",,,,,,,,,,8961-1,wfo-4000014939,3105046,,
+76268064-8fbb-11eb-924d-9cd76263cbd0,species,mekongensis,Formania,,"W.W.Sm. & J.Small",,1922,,1922,,,,,,,wfo-0000134421,5391557,,
+8b3e772e-8fcd-11eb-924d-9cd76263cbd0,species,doichangensis,Formanodendron,,"(A.Camus) Nixon & Crepet",,1989,,"Amer. J. Bot. 76: 840 1989",,,,008f758e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000967288,2876670,,
+8b3e9a7e-8fcd-11eb-924d-9cd76263cbd0,species,benthamiana,Formosia,,"(Hemsl.) Pichon",,1948,,"Bull. Mus. Natl. Hist. Nat. II, 20: 301 1948",,,,,,79017-1,wfo-0000967289,5535924,,

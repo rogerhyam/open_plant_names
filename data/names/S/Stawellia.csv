@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eab55430-8fd1-11eb-924d-9cd76263cbd0,genus,Stawellia,,,F.Muell.,,,,,,,24784-1,wfo-4000036326,2780614,
-15f10b12-8fcd-11eb-924d-9cd76263cbd0,species,dimorphantha,Stawellia,,F.Muell.,1870,"Fragm. 7: 85 1870",,,,,541995-1,wfo-0000738363,2780616,
-15ecb936-8fcd-11eb-924d-9cd76263cbd0,species,gymnocephala,Stawellia,,Diels,1904,"Bot. Jahrb. Syst. 35: 100 1904",,,,,541996-1,wfo-0000738329,2780615,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eab55430-8fd1-11eb-924d-9cd76263cbd0,genus,Stawellia,,,F.Muell.,,,,,,,,,,24784-1,wfo-4000036326,2780614,,
+15f10b12-8fcd-11eb-924d-9cd76263cbd0,species,dimorphantha,Stawellia,,F.Muell.,,1870,,"Fragm. 7: 85 1870",,,,,,541995-1,wfo-0000738363,2780616,,
+15ecb936-8fcd-11eb-924d-9cd76263cbd0,species,gymnocephala,Stawellia,,Diels,,1904,,"Bot. Jahrb. Syst. 35: 100 1904",,,,,,541996-1,wfo-0000738329,2780615,,

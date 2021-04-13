@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea6953f0-8fd1-11eb-924d-9cd76263cbd0,genus,Sinoadina,,,Ridsdale,1978,"Blumea 24(2): 351. 1978.",,,,,35354-1,wfo-4000035438,2896752,
-0d56aa76-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Sinoadina,,"(Siebold & Zucc.) Ridsdale",1978,"Blumea 24: 352 1978",,,,,766466-1,wfo-0000311214,2896753,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea6953f0-8fd1-11eb-924d-9cd76263cbd0,genus,Sinoadina,,,Ridsdale,,1978,,"Blumea 24(2): 351. 1978.",,Q96027383,,,,35354-1,wfo-4000035438,2896752,,
+0d56aa76-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Sinoadina,,"(Siebold & Zucc.) Ridsdale",,1978,,"Blumea 24: 352 1978",,Q96027383,,,,766466-1,wfo-0000311214,2896753,,

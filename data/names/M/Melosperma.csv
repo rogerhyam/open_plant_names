@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e68d9552-8fd1-11eb-924d-9cd76263cbd0,genus,Melosperma,,,Benth.,1846,"Prodr. 10: 374. 1846. (8 Apr 1846)",,,,,37816-1,wfo-4000023696,7331581,
-6c51716e-8fcc-11eb-924d-9cd76263cbd0,species,andicola,Melosperma,,Benth.,1846,"Prodr. 10: 374 1846",,,,,805790-1,wfo-0000450836,7331585,
-6c580a56-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Melosperma,,Phil.,1873,"Anales Univ. Chile 43: 525 1873",,,,,280722-2,wfo-0000450885,3724314,
-6c4fd458-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Melosperma,,Phil.,1858,"Linnaea 29: 26 1858",,,,,805792-1,wfo-0000450825,3724305,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e68d9552-8fd1-11eb-924d-9cd76263cbd0,genus,Melosperma,,,Benth.,,1846,,"Prodr. 10: 374. 1846. (8 Apr 1846)",,,,,,37816-1,wfo-4000023696,7331581,,
+6c51716e-8fcc-11eb-924d-9cd76263cbd0,species,andicola,Melosperma,,Benth.,,1846,,"Prodr. 10: 374 1846",,,,,,805790-1,wfo-0000450836,7331585,,
+6c580a56-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Melosperma,,Phil.,,1873,,"Anales Univ. Chile 43: 525 1873",,Q101007068,,,,280722-2,wfo-0000450885,3724314,,
+6c4fd458-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Melosperma,,Phil.,,1858,,"Linnaea 29: 26 1858",,,,,,805792-1,wfo-0000450825,3724305,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb75ba4a-8fd1-11eb-924d-9cd76263cbd0,genus,Trachystylis,,,S.T.Blake,1937,"Proc. Roy. Soc. Queensland 48: 89. 1937.",,,,,14067-1,wfo-4000038749,2731312,
-bfb55de8-8fcc-11eb-924d-9cd76263cbd0,species,foliosa,Trachystylis,,S.T.Blake,1936,"Proc. Roy. Soc. Queensland 48: 89 1936 publ. 1937",,,,,315373-1,wfo-0000588515,2731316,
-bfb6a18a-8fcc-11eb-924d-9cd76263cbd0,species,stradbrokensis,Trachystylis,,"(Domin) Kük.",1952,"Bot. Jahrb. Syst. 75: 496 1952",,,,,315374-1,wfo-0000588526,2731313,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb75ba4a-8fd1-11eb-924d-9cd76263cbd0,genus,Trachystylis,,,S.T.Blake,,1937,,"Proc. Roy. Soc. Queensland 48: 89. 1937.",,,,,,14067-1,wfo-4000038749,2731312,,
+bfb55de8-8fcc-11eb-924d-9cd76263cbd0,species,foliosa,Trachystylis,,S.T.Blake,,1936,,"Proc. Roy. Soc. Queensland 48: 89 1936 publ. 1937",,,,,,315373-1,wfo-0000588515,2731316,,
+bfb6a18a-8fcc-11eb-924d-9cd76263cbd0,species,stradbrokensis,Trachystylis,,"(Domin) Kük.",,1952,,"Bot. Jahrb. Syst. 75: 496 1952",,,,,,315374-1,wfo-0000588526,2731313,,

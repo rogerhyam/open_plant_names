@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e48c121a-8fd1-11eb-924d-9cd76263cbd0,genus,Heliostemma,,,Woodson,1935,"Amer. J. Bot. 22(7): 689–690. 1935.",,,,,,wfo-4000017266,7312211,
-0b65e62c-8fcd-11eb-924d-9cd76263cbd0,species,molestum,Heliostemma,,Woodson,1935,"Amer. J. Bot. 22: 690 1935",,,,,119705-2,wfo-0000718356,3576926,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e48c121a-8fd1-11eb-924d-9cd76263cbd0,genus,Heliostemma,,,Woodson,,1935,,"Amer. J. Bot. 22(7): 689–690. 1935.",,,,,,,wfo-4000017266,7312211,,
+0b65e62c-8fcd-11eb-924d-9cd76263cbd0,species,molestum,Heliostemma,,Woodson,,1935,,"Amer. J. Bot. 22: 690 1935",,Q55765996,,,,119705-2,wfo-0000718356,3576926,,

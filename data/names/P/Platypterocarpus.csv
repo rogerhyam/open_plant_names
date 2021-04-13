@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e8ab7a66-8fd1-11eb-924d-9cd76263cbd0,genus,Platypterocarpus,,,"Dunkley & Brenan",1948,"Kew Bull. 1948: 47. 1948.",,,,,6646-1,wfo-4000030144,7265598,
-c3123e52-8fd1-11eb-924d-9cd76263cbd0,species,tanganyikensis,Platypterocarpus,,"Dunkley & Brenan",1948,"Kew Bull. 3: 47 1948",,,,,162364-1,wfo-0001259831,3792636,
-f6622110-8fcb-11eb-924d-9cd76263cbd0,species,altus,Platypus,,"(L.) Small",1913,"Fl. S.E. U.S. ed. 2: 329 1913",,,,,652043-1,wfo-0000274970,5311798,
-f662d9ca-8fcb-11eb-924d-9cd76263cbd0,species,papilliferus,Platypus,,Small,1903,"Fl. S.E. U.S. 329 1903",,,,,201812-2,wfo-0000274972,5311805,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e8ab7a66-8fd1-11eb-924d-9cd76263cbd0,genus,Platypterocarpus,,,"Dunkley & Brenan",,1948,,"Kew Bull. 1948: 47. 1948.",,Q93625954,,,,6646-1,wfo-4000030144,7265598,,
+c3123e52-8fd1-11eb-924d-9cd76263cbd0,species,tanganyikensis,Platypterocarpus,,"Dunkley & Brenan",,1948,,"Kew Bull. 3: 47 1948",,Q93625954,,,,162364-1,wfo-0001259831,3792636,,
+f6622110-8fcb-11eb-924d-9cd76263cbd0,species,altus,Platypus,,"(L.) Small",,1913,,"Fl. S.E. U.S. ed. 2: 329 1913",,,,,,652043-1,wfo-0000274970,5311798,,
+f662d9ca-8fcb-11eb-924d-9cd76263cbd0,species,papilliferus,Platypus,,Small,,1903,,"Fl. S.E. U.S. 329 1903",,,,,,201812-2,wfo-0000274972,5311805,,

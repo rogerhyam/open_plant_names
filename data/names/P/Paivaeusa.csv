@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7e0809a-8fd1-11eb-924d-9cd76263cbd0,genus,Paivaeusa,,,Welw.,1869,"Trans. Linn. Soc. London 27: 20. 1869.",,,,,,wfo-4000027757,7276077,
-eea82848-8fcb-11eb-924d-9cd76263cbd0,species,dactylophylla,Paivaeusa,,"Welw. ex Oliv.",1868,"Fl. Trop. Afr. 1: 328 1868",,,,,,wfo-0000262477,3075120,
-eea847f6-8fcb-11eb-924d-9cd76263cbd0,species,gabonensis,Paivaeusa,,A.Chev.,1917,"Veg. Ut. Afr. Trop. Franç. 9: 298 1917",,,,,353217-1,wfo-0000262478,3917325,
-eea864f2-8fcb-11eb-924d-9cd76263cbd0,species,orientalis,Paivaeusa,,Mildbr.,1935,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 710 1935",,,,,353218-1,wfo-0000262479,3075118,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7e0809a-8fd1-11eb-924d-9cd76263cbd0,genus,Paivaeusa,,,Welw.,,1869,,"Trans. Linn. Soc. London 27: 20. 1869.",,,,,,,wfo-4000027757,7276077,,
+eea82848-8fcb-11eb-924d-9cd76263cbd0,species,dactylophylla,Paivaeusa,,"Welw. ex Oliv.",,1868,,"Fl. Trop. Afr. 1: 328 1868",,,,,,,wfo-0000262477,3075120,,
+eea847f6-8fcb-11eb-924d-9cd76263cbd0,species,gabonensis,Paivaeusa,,A.Chev.,,1917,,"Veg. Ut. Afr. Trop. Franç. 9: 298 1917",,,,,,353217-1,wfo-0000262478,3917325,,
+eea864f2-8fcb-11eb-924d-9cd76263cbd0,species,orientalis,Paivaeusa,,Mildbr.,,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 710 1935",,Q55777617,,,,353218-1,wfo-0000262479,3075118,,

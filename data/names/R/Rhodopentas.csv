@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e9a5abd0-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopentas,,,"Kårehed & B.Bremer",,"Taxon 56(4): 1076. 2007.",,,,,77086242-1,wfo-4000033037,8104133,
-440d4be6-8fcd-11eb-924d-9cd76263cbd0,species,bussei,Rhodopentas,,"(K.Krause) Kårehed & B.Bremer",,"Taxon 56: 1076 2007",,,,f170dc6e-8fcb-11eb-924d-9cd76263cbd0,77086243-1,wfo-0000836656,3845991,
-440da53c-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Rhodopentas,,"(Hiern) Kårehed & B.Bremer",,"Taxon 56: 1076 2007",,,,,77086244-1,wfo-0000836659,3845988,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e9a5abd0-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopentas,,,"Kårehed & B.Bremer",,,,"Taxon 56(4): 1076. 2007.",,Q28960432,,,,77086242-1,wfo-4000033037,8104133,,
+440d4be6-8fcd-11eb-924d-9cd76263cbd0,species,bussei,Rhodopentas,,"(K.Krause) Kårehed & B.Bremer",,,,"Taxon 56: 1076 2007",,Q28960432,,f170dc6e-8fcb-11eb-924d-9cd76263cbd0,,77086243-1,wfo-0000836656,3845991,,
+440da53c-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Rhodopentas,,"(Hiern) Kårehed & B.Bremer",,,,"Taxon 56: 1076 2007",,Q28960432,,,,77086244-1,wfo-0000836659,3845988,,

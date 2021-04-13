@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3e9b3a8-8fd1-11eb-924d-9cd76263cbd0,genus,Gasteraloe,,,,,,,,,,,wfo-4000015354,4889276,
-fda5ecc6-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Gasteranthopsis,,Oerst.,1861,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 129 1861",,,,,380868-1,wfo-0000694814,3818884,
-fda60b0c-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Gasteranthopsis,,Oerst.,1861,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 129 1861",,,,,380869-1,wfo-0000694815,3818870,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3e9b3a8-8fd1-11eb-924d-9cd76263cbd0,genus,Gasteraloe,,,,,,,,,,,,,,wfo-4000015354,4889276,,
+fda5ecc6-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Gasteranthopsis,,Oerst.,,1861,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 129 1861",,,,,,380868-1,wfo-0000694814,3818884,,
+fda60b0c-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Gasteranthopsis,,Oerst.,,1861,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 5: 129 1861",,,,,,380869-1,wfo-0000694815,3818870,,

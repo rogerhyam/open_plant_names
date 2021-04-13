@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eaa54a54-8fd1-11eb-924d-9cd76263cbd0,genus,Spondianthus,,,Engl.,1905,"Bot. Jahrb. Syst. 36: 215. 1905.",,,,,1921-1,wfo-4000036161,3079396,
-0ee2e814-8fcc-11eb-924d-9cd76263cbd0,species,glaber,Spondianthus,,Engl.,1905,"Bot. Jahrb. Syst. 36: 216 1905",,,,,71434-1,wfo-0000313551,3079403,
-0ee305f6-8fcc-11eb-924d-9cd76263cbd0,species,obovatus,Spondianthus,,Engl.,1911,"Notizbl. Bot. Gart. Berlin-Dahlem 5: 242 1911",,,,,356449-1,wfo-0000313552,3081477,
-0ee320ae-8fcc-11eb-924d-9cd76263cbd0,species,preussii,Spondianthus,,Engl.,1905,"Bot. Jahrb. Syst. 36: 216 1905",,,,,71435-1,wfo-0000313553,3079397,
-0ee360a0-8fcc-11eb-924d-9cd76263cbd0,subspecies,glaber,Spondianthus,preussii,"(Engl.) J.Léonard & Nkounkou",1989,"Bull. Jard. Bot. Natl. Belg. 59: 143 1989",,,,0ee2e814-8fcc-11eb-924d-9cd76263cbd0,955371-1,wfo-0000313555,6289147,
-0ee34142-8fcc-11eb-924d-9cd76263cbd0,variety,glaber,Spondianthus,preussii,"(Engl.) Engl.",1911,"Notizbl. Bot. Gart. Berlin-Dahlem 5: 242 1911",,,,0ee2e814-8fcc-11eb-924d-9cd76263cbd0,,wfo-0000313554,3079400,
-0ee3a20e-8fcc-11eb-924d-9cd76263cbd0,species,ugandensis,Spondianthus,,"(Hutch.) Hutch.",,"Fl. Trop. Afr. 6(1): 1044 1913",,,,,356450-1,wfo-0000313557,3079401,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eaa54a54-8fd1-11eb-924d-9cd76263cbd0,genus,Spondianthus,,,Engl.,,1905,,"Bot. Jahrb. Syst. 36: 215. 1905.",,,,,,1921-1,wfo-4000036161,3079396,,
+0ee2e814-8fcc-11eb-924d-9cd76263cbd0,species,glaber,Spondianthus,,Engl.,,1905,,"Bot. Jahrb. Syst. 36: 216 1905",,,,,,71434-1,wfo-0000313551,3079403,,
+0ee305f6-8fcc-11eb-924d-9cd76263cbd0,species,obovatus,Spondianthus,,Engl.,,1911,,"Notizbl. Bot. Gart. Berlin-Dahlem 5: 242 1911",,Q55776744,,,,356449-1,wfo-0000313552,3081477,,
+0ee320ae-8fcc-11eb-924d-9cd76263cbd0,species,preussii,Spondianthus,,Engl.,,1905,,"Bot. Jahrb. Syst. 36: 216 1905",,,,,,71435-1,wfo-0000313553,3079397,,
+0ee360a0-8fcc-11eb-924d-9cd76263cbd0,subspecies,glaber,Spondianthus,preussii,"(Engl.) J.Léonard & Nkounkou",,1989,,"Bull. Jard. Bot. Natl. Belg. 59: 143 1989",,Q55809181,,0ee2e814-8fcc-11eb-924d-9cd76263cbd0,,955371-1,wfo-0000313555,6289147,,
+0ee34142-8fcc-11eb-924d-9cd76263cbd0,variety,glaber,Spondianthus,preussii,"(Engl.) Engl.",,1911,,"Notizbl. Bot. Gart. Berlin-Dahlem 5: 242 1911",,,,0ee2e814-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000313554,3079400,,
+0ee3a20e-8fcc-11eb-924d-9cd76263cbd0,species,ugandensis,Spondianthus,,"(Hutch.) Hutch.",,,,"Fl. Trop. Afr. 6(1): 1044 1913",,,,,,356450-1,wfo-0000313557,3079401,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e94e088a-8fd1-11eb-924d-9cd76263cbd0,genus,Pterosiphon,,,Turcz.,1863,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 589. 1863.",,,,,,wfo-4000032026,7271445,
-ad308f66-8fcd-11eb-924d-9cd76263cbd0,species,multinervis,Pterosiphon,,Turcz.,1863,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 589 1863",,,,,,wfo-0001037306,7502591,
-79cfd4f2-8fcc-11eb-924d-9cd76263cbd0,species,multivenius,Pterosiphon,,Turcz.,1863,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 590 1863",,,,,579145-1,wfo-0000473665,3851904,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e94e088a-8fd1-11eb-924d-9cd76263cbd0,genus,Pterosiphon,,,Turcz.,,1863,,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 589. 1863.",,,,,,,wfo-4000032026,7271445,,
+ad308f66-8fcd-11eb-924d-9cd76263cbd0,species,multinervis,Pterosiphon,,Turcz.,,1863,,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 589 1863",,,,,,,wfo-0001037306,7502591,,
+79cfd4f2-8fcc-11eb-924d-9cd76263cbd0,species,multivenius,Pterosiphon,,Turcz.,,1863,,"Bull. Soc. Imp. Naturalistes Moscou 36(1): 590 1863",,,,,,579145-1,wfo-0000473665,3851904,,

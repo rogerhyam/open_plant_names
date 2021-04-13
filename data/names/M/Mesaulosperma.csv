@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6978b16-8fd1-11eb-924d-9cd76263cbd0,genus,Mesaulosperma,,,Slooten,1925,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 384. 1925.",,,,,,wfo-4000023836,7274110,
-ae3389f4-8fcd-11eb-924d-9cd76263cbd0,species,stapfii,Mesaulosperma,,"(Koord.) Slooten",1925,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 386 1925",,,,,365737-1,wfo-0001039610,3878430,
-bfc1fe68-8fd1-11eb-924d-9cd76263cbd0,species,vieillardii,Mesaulosperma,,"(Gagnep.) Slooten",1925,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 384 1925",,,,776705cc-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001253582,3878425,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6978b16-8fd1-11eb-924d-9cd76263cbd0,genus,Mesaulosperma,,,Slooten,,1925,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 384. 1925.",,,,,,,wfo-4000023836,7274110,,
+ae3389f4-8fcd-11eb-924d-9cd76263cbd0,species,stapfii,Mesaulosperma,,"(Koord.) Slooten",,1925,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 386 1925",,,,,,365737-1,wfo-0001039610,3878430,,
+bfc1fe68-8fd1-11eb-924d-9cd76263cbd0,species,vieillardii,Mesaulosperma,,"(Gagnep.) Slooten",,1925,,"Bull. Jard. Bot. Buitenzorg, sér. 3, 7: 384 1925",,,,776705cc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001253582,3878425,,

@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df7acfdc-8fd1-11eb-924d-9cd76263cbd0,genus,Anna,,,Pellegr.,1930,"Bull. Soc. Bot. France 77: 46. 1930.",,,,,16897-1,wfo-4000002229,3233464,
-9f78da5a-8fcc-11eb-924d-9cd76263cbd0,species,mollifolia,Anna,,"(W.T.Wang) W.T.Wang & K.Y.Pan",1990,"in Fl. Reipubl. Popul. Sin. 69: 487 1990",,,,,948356-1,wfo-0000537561,5589862,
-9f78f5b2-8fcc-11eb-924d-9cd76263cbd0,species,ophiorrhizoides,Anna,,"(Hemsl.) B.L.Burtt & R.A.Davidson",1955,"Notes Roy. Bot. Gard. Edinburgh 21: 233 1955",,,,b25253ae-8fd1-11eb-924d-9cd76263cbd0,378047-1,wfo-0000537562,5589857,
-9f792e9c-8fcc-11eb-924d-9cd76263cbd0,species,submontana,Anna,,Pellegr.,1930,"Bull. Soc. Bot. France 77: 46 1930",,,,,378048-1,wfo-0000537564,5589852,
-3dcf9acc-8fcd-11eb-924d-9cd76263cbd0,species,hieracioides,Annaea,,"(Kolak.) Kolak.",1979,"Soobshch. Akad. Nauk Gruzinsk. S.S.R. 94: 163 1979",,,,3fd3b72c-8fcd-11eb-924d-9cd76263cbd0,139545-1,wfo-0000822991,3163993,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df7acfdc-8fd1-11eb-924d-9cd76263cbd0,genus,Anna,,,Pellegr.,,1930,,"Bull. Soc. Bot. France 77: 46. 1930.",,Q55757229,,,,16897-1,wfo-4000002229,3233464,,
+9f78da5a-8fcc-11eb-924d-9cd76263cbd0,species,mollifolia,Anna,,"(W.T.Wang) W.T.Wang & K.Y.Pan",,1990,,"in Fl. Reipubl. Popul. Sin. 69: 487 1990",,,,,,948356-1,wfo-0000537561,5589862,,
+9f78f5b2-8fcc-11eb-924d-9cd76263cbd0,species,ophiorrhizoides,Anna,,"(Hemsl.) B.L.Burtt & R.A.Davidson",,1955,,"Notes Roy. Bot. Gard. Edinburgh 21: 233 1955",,Q102419115,,b25253ae-8fd1-11eb-924d-9cd76263cbd0,,378047-1,wfo-0000537562,5589857,,
+9f792e9c-8fcc-11eb-924d-9cd76263cbd0,species,submontana,Anna,,Pellegr.,,1930,,"Bull. Soc. Bot. France 77: 46 1930",,Q55757229,,,,378048-1,wfo-0000537564,5589852,,
+3dcf9acc-8fcd-11eb-924d-9cd76263cbd0,species,hieracioides,Annaea,,"(Kolak.) Kolak.",,1979,,"Soobshch. Akad. Nauk Gruzinsk. S.S.R. 94: 163 1979",,,,3fd3b72c-8fcd-11eb-924d-9cd76263cbd0,,139545-1,wfo-0000822991,3163993,,

@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dee58bb6-8fd1-11eb-924d-9cd76263cbd0,genus,Adike,,,Raf.,1836,"New Fl. 1: 63–64. 1836.",,,,,,wfo-4000000697,7300838,
-959edd04-8fcc-11eb-924d-9cd76263cbd0,species,allophyla,Adike,,Raf.,1837,"Fl. Tellur. 3: 48 1837",,,,,850272-1,wfo-0000520811,4101290,
-959ef672-8fcc-11eb-924d-9cd76263cbd0,species,glaberrima,Adike,,Raf.,1836,"New Fl. 1: 64 1836",,,,,850273-1,wfo-0000520812,4101277,
-959f10c6-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Adike,,Raf.,1836,"New Fl. 1: 64 1836",,,,,850274-1,wfo-0000520813,4101266,
-959f2d72-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Adike,,Raf.,1836,"New Fl. 1: 63 1836",,,,,850275-1,wfo-0000520814,4101254,
-959f51f8-8fcc-11eb-924d-9cd76263cbd0,species,rhomboidea,Adike,,Raf.,1836,"New Fl. 1: 64 1836",,,,,850276-1,wfo-0000520815,4101240,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dee58bb6-8fd1-11eb-924d-9cd76263cbd0,genus,Adike,,,Raf.,,1836,,"New Fl. 1: 63–64. 1836.",,,,,,,wfo-4000000697,7300838,,
+959edd04-8fcc-11eb-924d-9cd76263cbd0,species,allophyla,Adike,,Raf.,,1837,,"Fl. Tellur. 3: 48 1837",,,,,,850272-1,wfo-0000520811,4101290,,
+959ef672-8fcc-11eb-924d-9cd76263cbd0,species,glaberrima,Adike,,Raf.,,1836,,"New Fl. 1: 64 1836",,,,,,850273-1,wfo-0000520812,4101277,,
+959f10c6-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Adike,,Raf.,,1836,,"New Fl. 1: 64 1836",,,,,,850274-1,wfo-0000520813,4101266,,
+959f2d72-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Adike,,Raf.,,1836,,"New Fl. 1: 63 1836",,,,,,850275-1,wfo-0000520814,4101254,,
+959f51f8-8fcc-11eb-924d-9cd76263cbd0,species,rhomboidea,Adike,,Raf.,,1836,,"New Fl. 1: 64 1836",,,,,,850276-1,wfo-0000520815,4101240,,

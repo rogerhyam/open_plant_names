@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ea03b63a-8fd1-11eb-924d-9cd76263cbd0,genus,Scandia,,,J.W.Dawson,1967,"New Zealand J. Bot. 5: 407. 1967.",,,,,40485-1,wfo-4000034235,3232475,
-ae0fd3ce-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Scandia,,"(G.Forst.) J.W.Dawson",1967,"New Zealand J. Bot. 5: 407 1967",,,,,,wfo-0001039294,5539437,
-631bb7c6-8fcc-11eb-924d-9cd76263cbd0,species,rosifolia,Scandia,,"(Hook.f.) J.W.Dawson",1967,"New Zealand J. Bot. 5: 410 1967",,,,,847958-1,wfo-0000435248,5539434,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ea03b63a-8fd1-11eb-924d-9cd76263cbd0,genus,Scandia,,,J.W.Dawson,,1967,,"New Zealand J. Bot. 5: 407. 1967.",,,,,,40485-1,wfo-4000034235,3232475,,
+ae0fd3ce-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Scandia,,"(G.Forst.) J.W.Dawson",,1967,,"New Zealand J. Bot. 5: 407 1967",,,,,,,wfo-0001039294,5539437,,
+631bb7c6-8fcc-11eb-924d-9cd76263cbd0,species,rosifolia,Scandia,,"(Hook.f.) J.W.Dawson",,1967,,"New Zealand J. Bot. 5: 410 1967",,,,,,847958-1,wfo-0000435248,5539434,,

@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eae4c88c-8fd1-11eb-924d-9cd76263cbd0,genus,Streptostigma,,,Regel,1853,"Miers, Miers, and Regel, Gartenfl. (1853) 322. t. 68..",,,,,,wfo-4000036872,7299972,
-ab01bf08-8fcd-11eb-924d-9cd76263cbd0,species,warszewiczii,Streptostigma,,Regel,1853,"Miers, Miers, and Regel, Gartenfl. (1853) 322. t. 68..",,,,,,wfo-0001032645,5581374,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eae4c88c-8fd1-11eb-924d-9cd76263cbd0,genus,Streptostigma,,,Regel,,1853,,"Miers, Miers, and Regel, Gartenfl. (1853) 322. t. 68..",,,,,,,wfo-4000036872,7299972,,
+ab01bf08-8fcd-11eb-924d-9cd76263cbd0,species,warszewiczii,Streptostigma,,Regel,,1853,,"Miers, Miers, and Regel, Gartenfl. (1853) 322. t. 68..",,,,,,,wfo-0001032645,5581374,,

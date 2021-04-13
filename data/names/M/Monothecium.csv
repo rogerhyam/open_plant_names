@@ -1,7 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e6e1e4fe-8fd1-11eb-924d-9cd76263cbd0,genus,Monothecium,,,Hochst.,1842,"Flora 26: 74. 1842.",,,,,750-1,wfo-4000024767,3233824,
-3241d874-8fcc-11eb-924d-9cd76263cbd0,species,abbreviatum,Monothecium,,S.Moore,1900,"J. Bot. 38: 466 1900",,,,,52547-1,wfo-0000371088,5573161,
-32422414-8fcc-11eb-924d-9cd76263cbd0,species,aristatum,Monothecium,,"(Nees) T.Anderson",1860,"Enum. Pl. Zeyl. 234 1860",,,,,52548-1,wfo-0000371089,5573157,
-32424426-8fcc-11eb-924d-9cd76263cbd0,species,glandulosum,Monothecium,,Hochst.,1843,"Flora 26: 74 1843",,,,,52549-1,wfo-0000371090,5573154,
-b0d5fb56-8fcd-11eb-924d-9cd76263cbd0,species,leucopterum,Monothecium,,Benoist,1946,"Notul. Syst. (Paris) 12: 145 1946",,,,,52550-1,wfo-0001045524,5573150,
-32418a54-8fcc-11eb-924d-9cd76263cbd0,species,nakarii,Monothecium,,Chiov.,1911,"Ann. Bot. (Rome) 9: 129 1911",,,,,52551-1,wfo-0000371086,5573146,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e6e1e4fe-8fd1-11eb-924d-9cd76263cbd0,genus,Monothecium,,,Hochst.,,1842,,"Flora 26: 74. 1842.",,,,e6e1e4fe-8fd1-11eb-924d-9cd76263cbd0,,750-1,wfo-4000024767,3233824,8989," "
+3241d874-8fcc-11eb-924d-9cd76263cbd0,species,abbreviatum,Monothecium,,S.Moore,,1900,,"J. Bot. 38: 466 1900",,,,,,52547-1,wfo-0000371088,5573161,,
+32422414-8fcc-11eb-924d-9cd76263cbd0,species,aristatum,Monothecium,,"(Nees) T.Anderson",,1860,,"Enum. Pl. Zeyl. 234 1860",,Q96016554,,,,52548-1,wfo-0000371089,5573157,,
+32424426-8fcc-11eb-924d-9cd76263cbd0,species,glandulosum,Monothecium,,Hochst.,,1843,,"Flora 26: 74 1843",,,,,,52549-1,wfo-0000371090,5573154,,
+5b47f4b0-9bac-11eb-a8a2-19ed5c03f8d3,species,graminis,Monothecium,,Lib.,,,,,,,,5b47f4b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144372," "
+b0d5fb56-8fcd-11eb-924d-9cd76263cbd0,species,leucopterum,Monothecium,,Benoist,,1946,,"Notul. Syst. (Paris) 12: 145 1946",,,,,,52550-1,wfo-0001045524,5573150,,
+32418a54-8fcc-11eb-924d-9cd76263cbd0,species,nakarii,Monothecium,,Chiov.,,1911,,"Ann. Bot. (Rome) 9: 129 1911",,,,,,52551-1,wfo-0000371086,5573146,,

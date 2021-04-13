@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-ec3cca68-8fd1-11eb-924d-9cd76263cbd0,genus,Zonanthus,,,Griseb.,1862,"J. Linn. Soc., Bot. 6: 145. 1862.",,,,,16774-1,wfo-4000041269,7270289,
-5f25b1e4-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Zonanthus,,Griseb.,1862,"J. Proc. Linn. Soc., Bot. 6: 145 1862",,,,,371506-1,wfo-0000430193,3842717,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+ec3cca68-8fd1-11eb-924d-9cd76263cbd0,genus,Zonanthus,,,Griseb.,,1862,,"J. Linn. Soc., Bot. 6: 145. 1862.",,,,,,16774-1,wfo-4000041269,7270289,,
+5f25b1e4-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Zonanthus,,Griseb.,,1862,,"J. Proc. Linn. Soc., Bot. 6: 145 1862",,,,,,371506-1,wfo-0000430193,3842717,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb341c02-8fd1-11eb-924d-9cd76263cbd0,genus,Tetragonella,,,"Miquel in J.G.C.Lehmann",1845,"Pl. Preiss. 1: 245. 1845.",,,,,,wfo-4000037906,7329356,
-d99fbfa0-8fd1-11eb-924d-9cd76263cbd0,species,amplexicoma,Tetragonella,,Miq.,1845,"Pl. Preiss. 1(4): 246 1845",,,,,,wfo-0001294560,3705669,
-4fde4c32-8fcc-11eb-924d-9cd76263cbd0,species,implexicoma,Tetragonella,,Miq.,1845,"Pl. Preiss. 1: 245 1845",,,,,364722-1,wfo-0000410508,3705654,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb341c02-8fd1-11eb-924d-9cd76263cbd0,genus,Tetragonella,,,"Miquel in J.G.C.Lehmann",,1845,,"Pl. Preiss. 1: 245. 1845.",,,,,,,wfo-4000037906,7329356,,
+d99fbfa0-8fd1-11eb-924d-9cd76263cbd0,species,amplexicoma,Tetragonella,,Miq.,,1845,,"Pl. Preiss. 1(4): 246 1845",,,,,,,wfo-0001294560,3705669,,
+4fde4c32-8fcc-11eb-924d-9cd76263cbd0,species,implexicoma,Tetragonella,,Miq.,,1845,,"Pl. Preiss. 1: 245 1845",,,,,,364722-1,wfo-0000410508,3705654,,

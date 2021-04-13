@@ -1,12 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e0ffdbd6-8fd1-11eb-924d-9cd76263cbd0,genus,California,,,"Aldasoro & al.",2002,"Anales Jard. Bot. Madrid 59(2): 213–215, f. 1, 2A, 2C, 3. 2002.",,,,,326178-2,wfo-4000006023,6630306,
-ba53556c-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,California,,"(Hook. & Arn.) Aldasoro & al.",2001,"Anales Jard. Bot. Madrid 59: 213 2001 publ. 2002",,,,,,wfo-0000580185,3827094,
-46301296-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,Bowden,1967,"Canad. J. Bot. 45: 722 1967",,,,,288189-2,wfo-0000841224,,
-461fbca2-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,"(Bowden) Barkworth & D.R.Dewey",1985,"Amer. J. Bot. 72: 772 1985",,,,46301296-8fcd-11eb-924d-9cd76263cbd0,1110722-2,wfo-0000841084,,
-4619cf54-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,"(Bowden) Barkworth",1998,"Phytologia 83: 308 1998",,,,46301296-8fcd-11eb-924d-9cd76263cbd0,1091401-2,wfo-0000841038,,
-ba5370e2-8fcc-11eb-924d-9cd76263cbd0,species,odontocera,Caligula,,Klotzsch,1851,"Linnaea 24: 28 1851",,,,,858217-1,wfo-0000580186,8249336,
-ba538bd6-8fcc-11eb-924d-9cd76263cbd0,species,pulcherrima,Caligula,,Klotzsch,1851,"Linnaea 24: 28 1851",,,,,858218-1,wfo-0000580187,7764597,
-30f17a46-8fcd-11eb-924d-9cd76263cbd0,species,calimaniana,,,"V.P.Castro & K.G.Lacerda",2005,"Richardiana 5: 98 2005",,,,,,wfo-0000795851,,
-7512c13a-8fcd-11eb-924d-9cd76263cbd0,species,calimaniana,,,"(L.C.Menezes) Van den Berg",2010,"Neodiversity 5: 16 2010",,,,9cd56ea8-8fcc-11eb-924d-9cd76263cbd0,77114837-1,wfo-0000920863,,
-35f9892a-8fcd-11eb-924d-9cd76263cbd0,species,calimaniana,,,"(V.P.Castro & K.G.Lacerda) Baptista",2005,"Bol. CAOB 58: 50 2005",,,,30f17a46-8fcd-11eb-924d-9cd76263cbd0,60442314-2,wfo-0000806475,,
-9cd56ea8-8fcc-11eb-924d-9cd76263cbd0,species,calimaniana,,,L.C.Menezes,2002,"Orquidário 16: 60 2002",,,,,324260-2,wfo-0000533153,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e0ffdbd6-8fd1-11eb-924d-9cd76263cbd0,genus,California,,,"Aldasoro & al.",,2002,,"Anales Jard. Bot. Madrid 59(2): 213–215, f. 1, 2A, 2C, 3. 2002.",,Q96002489,,,,326178-2,wfo-4000006023,6630306,,
+ba53556c-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,California,,"(Hook. & Arn.) Aldasoro & al.",,2001,,"Anales Jard. Bot. Madrid 59: 213 2001 publ. 2002",,,,,,,wfo-0000580185,3827094,,
+461fbca2-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,"(Bowden) Barkworth & D.R.Dewey",,1985,,"Amer. J. Bot. 72: 772 1985",,Q55766277,,46301296-8fcd-11eb-924d-9cd76263cbd0,,1110722-2,wfo-0000841084,,,
+46301296-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,Bowden,,1967,,"Canad. J. Bot. 45: 722 1967",,Q95998079,,,,288189-2,wfo-0000841224,,,
+4619cf54-8fcd-11eb-924d-9cd76263cbd0,species,californicum,,,"(Bowden) Barkworth",,1998,,"Phytologia 83: 308 1998",,,,46301296-8fcd-11eb-924d-9cd76263cbd0,,1091401-2,wfo-0000841038,,,

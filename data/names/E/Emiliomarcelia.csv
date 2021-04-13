@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e3470c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Emiliomarcelia,,,"T.Durand & H.Durand",1909,"Syll. Fl. Congol. 115. 1909.",,,,,,wfo-4000013314,7321513,
-ee0c5dc2-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Emiliomarcelia,,A.Chev.,1911,"Bull. Soc. Bot. France 58(8): 151 1911 publ. 1912",,,,,69577-1,wfo-0000667152,3659720,
-ee0c7a82-8fcc-11eb-924d-9cd76263cbd0,species,braunii,Emiliomarcelia,,"(Engl.) T.Durand & H.Durand",1909,"Syll. Fl. Congol. 115 1909",,,,,,wfo-0000667153,7366883,
-ee0c9594-8fcc-11eb-924d-9cd76263cbd0,species,congoensis,Emiliomarcelia,,"(Engl.) T.Durand & H.Durand",1909,"Syll. Fl. Congol. 115 1909",,,,,,wfo-0000667154,8185498,
-ee0cb34e-8fcc-11eb-924d-9cd76263cbd0,species,laurentii,Emiliomarcelia,,"(De Wild.) T.Durand & H.Durand",1909,"Syll. Fl. Congol. 115 1909",,,,,,wfo-0000667155,8263698,
-ee0cce92-8fcc-11eb-924d-9cd76263cbd0,species,lescrauwaetii,Emiliomarcelia,,"(De Wild.) De Wild.",1914,"Bull. Jard. Bot. État 4: 368 1914",,,,,69584-1,wfo-0000667156,7684504,
-ee0ce95e-8fcc-11eb-924d-9cd76263cbd0,species,oddonii,Emiliomarcelia,,"(De Wild.) T.Durand & H.Durand",1909,"Syll. Fl. Congol. 115 1909",,,,,,wfo-0000667157,8311580,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e3470c7a-8fd1-11eb-924d-9cd76263cbd0,genus,Emiliomarcelia,,,"T.Durand & H.Durand",,1909,,"Syll. Fl. Congol. 115. 1909.",,,,,,,wfo-4000013314,7321513,,
+ee0c5dc2-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Emiliomarcelia,,A.Chev.,,1911,,"Bull. Soc. Bot. France 58(8): 151 1911 publ. 1912",,Q55756922,,,,69577-1,wfo-0000667152,3659720,,
+ee0c7a82-8fcc-11eb-924d-9cd76263cbd0,species,braunii,Emiliomarcelia,,"(Engl.) T.Durand & H.Durand",,1909,,"Syll. Fl. Congol. 115 1909",,,,,,,wfo-0000667153,7366883,,
+ee0c9594-8fcc-11eb-924d-9cd76263cbd0,species,congoensis,Emiliomarcelia,,"(Engl.) T.Durand & H.Durand",,1909,,"Syll. Fl. Congol. 115 1909",,,,,,,wfo-0000667154,8185498,,
+ee0cb34e-8fcc-11eb-924d-9cd76263cbd0,species,laurentii,Emiliomarcelia,,"(De Wild.) T.Durand & H.Durand",,1909,,"Syll. Fl. Congol. 115 1909",,,,,,,wfo-0000667155,8263698,,
+ee0cce92-8fcc-11eb-924d-9cd76263cbd0,species,lescrauwaetii,Emiliomarcelia,,"(De Wild.) De Wild.",,1914,,"Bull. Jard. Bot. État 4: 368 1914",,Q55775574,,,,69584-1,wfo-0000667156,7684504,,
+ee0ce95e-8fcc-11eb-924d-9cd76263cbd0,species,oddonii,Emiliomarcelia,,"(De Wild.) T.Durand & H.Durand",,1909,,"Syll. Fl. Congol. 115 1909",,,,,,,wfo-0000667157,8311580,,

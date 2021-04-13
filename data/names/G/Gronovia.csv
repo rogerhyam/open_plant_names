@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4354cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Gronovia,,,"Houst. ex L.",1753,"Sp. Pl. 1: 202. 1753. (1 May 1753)",,,,,24992-1,wfo-4000016265,3231439,
-06dee298-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Gronovia,,"Urb. & Gilg",1900,"Nova Acta Acad. Caes. Leop.-Carol. German. Nat. Cur. 76: 13 1900",,,,,545135-1,wfo-0000710516,5646253,
-06df436e-8fcd-11eb-924d-9cd76263cbd0,species,humboldtiana,Gronovia,,Schult.,1819,"Syst. Veg. 5: 492 1819",,,,,545136-1,wfo-0000710517,5646250,
-06df9cf6-8fcd-11eb-924d-9cd76263cbd0,species,jacquiniana,Gronovia,,M.Roem.,1846,"Fam. Nat. Syn. Monogr. 2: 108 1846",,,,,545137-1,wfo-0000710519,5646247,
-06dfca14-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Gronovia,,Rose,1899,"Contr. U. S. Natl. Herb. 5: 197 1899",,,,,545138-1,wfo-0000710520,5646242,
-06dfebb6-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Gronovia,,L.,1753,"Sp. Pl. 202 1753",,,,,545139-1,wfo-0000710521,5646241,
-06e00d9e-8fcd-11eb-924d-9cd76263cbd0,species,ternata,Gronovia,,Blanco,1837,"Fl. Filip. 187 1837",,,,,170632-1,wfo-0000710522,5549971,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4354cc8-8fd1-11eb-924d-9cd76263cbd0,genus,Gronovia,,,"Houst. ex L.",,1753,,"Sp. Pl. 1: 202. 1753. (1 May 1753)",,,,,,24992-1,wfo-4000016265,3231439,,
+06dee298-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Gronovia,,"Urb. & Gilg",,1900,,"Nova Acta Acad. Caes. Leop.-Carol. German. Nat. Cur. 76: 13 1900",,,,,,545135-1,wfo-0000710516,5646253,,
+06df436e-8fcd-11eb-924d-9cd76263cbd0,species,humboldtiana,Gronovia,,Schult.,,1819,,"Syst. Veg. 5: 492 1819",,,,,,545136-1,wfo-0000710517,5646250,,
+06df9cf6-8fcd-11eb-924d-9cd76263cbd0,species,jacquiniana,Gronovia,,M.Roem.,,1846,,"Fam. Nat. Syn. Monogr. 2: 108 1846",,,,,,545137-1,wfo-0000710519,5646247,,
+06dfca14-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Gronovia,,Rose,,1899,,"Contr. U. S. Natl. Herb. 5: 197 1899",,Q95371187,,,,545138-1,wfo-0000710520,5646242,,
+06dfebb6-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Gronovia,,L.,,1753,,"Sp. Pl. 202 1753",,,,,,545139-1,wfo-0000710521,5646241,,
+06e00d9e-8fcd-11eb-924d-9cd76263cbd0,species,ternata,Gronovia,,Blanco,,1837,,"Fl. Filip. 187 1837",,,,,,170632-1,wfo-0000710522,5549971,,

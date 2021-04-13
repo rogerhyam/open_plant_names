@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-df13ca26-8fd1-11eb-924d-9cd76263cbd0,genus,Alexgeorgea,,,Carlquist,1976,"Austral. J. Bot. 24: 283. 1976.",,,,,33320-1,wfo-4000001167,2706737,
-1dbf0fac-8fcc-11eb-924d-9cd76263cbd0,species,arenicola,Alexgeorgea,,Carlquist,1976,"Austral. J. Bot. 24: 284 1976",,,,,715690-1,wfo-0000338211,2706741,
-1dbf3824-8fcc-11eb-924d-9cd76263cbd0,species,ganopoda,Alexgeorgea,,"L.A.S.Johnson & B.G.Briggs",1990,"Austral. Syst. Bot. 3: 752 1990",,,,,958328-1,wfo-0000338212,2706738,
-1dbf55c0-8fcc-11eb-924d-9cd76263cbd0,species,nitens,Alexgeorgea,,"(Nees) L.A.S.Johnson & B.G.Briggs",1986,"Telopea 2: 781 1986",,,,,943344-1,wfo-0000338213,8789077,
-1dbf7366-8fcc-11eb-924d-9cd76263cbd0,species,subterranea,Alexgeorgea,,Carlquist,1976,"Austral. J. Bot. 24: 283 1976",,,,,715691-1,wfo-0000338214,2706739,
-1dbf90d0-8fcc-11eb-924d-9cd76263cbd0,species,bifurca,Alexis,,Salisb.,1812,"Trans. Hort. Soc. London 1: 284 1812",,,,,795188-1,wfo-0000338215,2758813,
-1dbfab42-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Alexis,,"(Sm.) Salisb.",1812,"Trans. Hort. Soc. London 1: 284 1812",,,,,795189-1,wfo-0000338216,2758935,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+df13ca26-8fd1-11eb-924d-9cd76263cbd0,genus,Alexgeorgea,,,Carlquist,,1976,,"Austral. J. Bot. 24: 283. 1976.",,Q55756150,,,,33320-1,wfo-4000001167,2706737,,
+1dbf0fac-8fcc-11eb-924d-9cd76263cbd0,species,arenicola,Alexgeorgea,,Carlquist,,1976,,"Austral. J. Bot. 24: 284 1976",,Q55756150,,,,715690-1,wfo-0000338211,2706741,,
+1dbf3824-8fcc-11eb-924d-9cd76263cbd0,species,ganopoda,Alexgeorgea,,"L.A.S.Johnson & B.G.Briggs",,1990,,"Austral. Syst. Bot. 3: 752 1990",,Q55756260,,,,958328-1,wfo-0000338212,2706738,,
+1dbf55c0-8fcc-11eb-924d-9cd76263cbd0,species,nitens,Alexgeorgea,,"(Nees) L.A.S.Johnson & B.G.Briggs",,1986,,"Telopea 2: 781 1986",,Q55800115,,,,943344-1,wfo-0000338213,8789077,,
+1dbf7366-8fcc-11eb-924d-9cd76263cbd0,species,subterranea,Alexgeorgea,,Carlquist,,1976,,"Austral. J. Bot. 24: 283 1976",,Q55756150,,,,715691-1,wfo-0000338214,2706739,,
+1dbf90d0-8fcc-11eb-924d-9cd76263cbd0,species,bifurca,Alexis,,Salisb.,,1812,,"Trans. Hort. Soc. London 1: 284 1812",,,,,,795188-1,wfo-0000338215,2758813,,
+1dbfab42-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Alexis,,"(Sm.) Salisb.",,1812,,"Trans. Hort. Soc. London 1: 284 1812",,,,,,795189-1,wfo-0000338216,2758935,,

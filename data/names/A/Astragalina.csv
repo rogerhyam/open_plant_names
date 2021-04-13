@@ -1,5 +1,5 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-dfdde8c4-8fd1-11eb-924d-9cd76263cbd0,genus,Astragalina,,,,,,,,,,,wfo-4000003457,7302635,
-a8b5d6d6-8fcc-11eb-924d-9cd76263cbd0,species,alpestris,Astragalina,,Bubani,1899,"Fl. Pyren. 2: 516 1899",,,,,475896-1,wfo-0000552967,3977422,
-a8b5fddc-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Astragalina,,Bubani,1899,"Fl. Pyren. 2: 516 1899",,,,,475897-1,wfo-0000552968,3977421,
-a8b6e788-8fcc-11eb-924d-9cd76263cbd0,species,australis,Astragalina,,Bubani,1899,"Fl. Pyren. 2: 516 1899",,,,,475898-1,wfo-0000552969,3977417,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+dfdde8c4-8fd1-11eb-924d-9cd76263cbd0,genus,Astragalina,,,,,,,,,,,,,,wfo-4000003457,7302635,,
+a8b5d6d6-8fcc-11eb-924d-9cd76263cbd0,species,alpestris,Astragalina,,Bubani,,1899,,"Fl. Pyren. 2: 516 1899",,,,,,475896-1,wfo-0000552967,3977422,,
+a8b5fddc-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Astragalina,,Bubani,,1899,,"Fl. Pyren. 2: 516 1899",,,,,,475897-1,wfo-0000552968,3977421,,
+a8b6e788-8fcc-11eb-924d-9cd76263cbd0,species,australis,Astragalina,,Bubani,,1899,,"Fl. Pyren. 2: 516 1899",,,,,,475898-1,wfo-0000552969,3977417,,

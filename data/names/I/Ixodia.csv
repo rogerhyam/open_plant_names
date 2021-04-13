@@ -1,9 +1,9 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e53041aa-8fd1-11eb-924d-9cd76263cbd0,genus,Ixodia,,,R.Br.,,,,,,,9519-1,wfo-4000019405,7995676,
-08e29dd4-8fb2-11eb-924d-9cd76263cbd0,species,achilleoides,Ixodia,,R.Br.,1812,"517 1812",,,,,226459-1,wfo-0000006486,7336988,
-48c0843a-8fbb-11eb-924d-9cd76263cbd0,species,achlaena,Ixodia,,D.I.Morris,1977,1977,,,,,118330-3,wfo-0000133060,5389207,
-159d9602-8fb5-11eb-924d-9cd76263cbd0,species,alata,Ixodia,,Schltdl.,1847,"593 1847",,,,,226460-1,wfo-0000073697,5696051,
-07b7262a-8fba-11eb-924d-9cd76263cbd0,species,ammobium,Ixodia,,Spreng.,1827,1827,,,,,118414-3,wfo-0000123398,5696046,
-abb7e078-8fb2-11eb-924d-9cd76263cbd0,species,angusta,Ixodia,,"(N.A.Wakef.) N.T.Burb.",1958,1958,,,,,118468-3,wfo-0000031379,5389208,
-f21d1d08-8fb2-11eb-924d-9cd76263cbd0,species,flindersica,Ixodia,,Copley,1982,1982,,,,,118493-3,wfo-0000038088,5391554,
-163f1eda-8fb2-11eb-924d-9cd76263cbd0,species,ptarmicoides,Ixodia,,F.Muell.,1853,1853,,,,,118517-3,wfo-0000010583,5696038,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e53041aa-8fd1-11eb-924d-9cd76263cbd0,genus,Ixodia,,,R.Br.,,,,,,,,,,9519-1,wfo-4000019405,7995676,,
+08e29dd4-8fb2-11eb-924d-9cd76263cbd0,species,achilleoides,Ixodia,,R.Br.,,1812,,"517 1812",,,,,,226459-1,wfo-0000006486,7336988,,
+48c0843a-8fbb-11eb-924d-9cd76263cbd0,species,achlaena,Ixodia,,D.I.Morris,,1977,,1977,,,,,,118330-3,wfo-0000133060,5389207,,
+159d9602-8fb5-11eb-924d-9cd76263cbd0,species,alata,Ixodia,,Schltdl.,,1847,,"593 1847",,,,,,226460-1,wfo-0000073697,5696051,,
+07b7262a-8fba-11eb-924d-9cd76263cbd0,species,ammobium,Ixodia,,Spreng.,,1827,,1827,,,,,,118414-3,wfo-0000123398,5696046,,
+abb7e078-8fb2-11eb-924d-9cd76263cbd0,species,angusta,Ixodia,,"(N.A.Wakef.) N.T.Burb.",,1958,,1958,,,,,,118468-3,wfo-0000031379,5389208,,
+f21d1d08-8fb2-11eb-924d-9cd76263cbd0,species,flindersica,Ixodia,,Copley,,1982,,1982,,,,,,118493-3,wfo-0000038088,5391554,,
+163f1eda-8fb2-11eb-924d-9cd76263cbd0,species,ptarmicoides,Ixodia,,F.Muell.,,1853,,1853,,,,,,118517-3,wfo-0000010583,5696038,,

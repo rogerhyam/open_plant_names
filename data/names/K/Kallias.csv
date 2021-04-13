@@ -1,6 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e54d7ffe-8fd1-11eb-924d-9cd76263cbd0,genus,Kallias,,,,,,,,,,,wfo-4000019798,7336694,
-008cb08c-8fb4-11eb-924d-9cd76263cbd0,species,dubia,Kallias,,Cass.,1822,"in Dict. Sc. Nat. xxiv. 833 (1822).",,,,,227182-1,wfo-0000058349,4218423,
-fea0c6fc-8fb1-11eb-924d-9cd76263cbd0,species,ovata,Kallias,,Cass.,1822,"in Dict. Sc. Nat. xxiv. 327 (1822).",,,,,,wfo-0000001789,3122230,
-1fc7df74-8fbb-11eb-924d-9cd76263cbd0,species,crenatum,Kallophyllon,,"Pohl ex Baker",1876,"Fl. Bras. (Martius) 6(2): 367 1876",,,,,227184-1,wfo-0000131902,4218411,
-430eb19c-8fb6-11eb-924d-9cd76263cbd0,species,ovatum,Kallophyllon,,"Pohl ex Baker",1876,"Fl. Bras. (Martius) 6(2): 368 1876",,,,,227185-1,wfo-0000087508,4218403,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e54d7ffe-8fd1-11eb-924d-9cd76263cbd0,genus,Kallias,,,,,,,,,,,,,,wfo-4000019798,7336694,,
+008cb08c-8fb4-11eb-924d-9cd76263cbd0,species,dubia,Kallias,,Cass.,,1822,,"in Dict. Sc. Nat. xxiv. 833 (1822).",,,,,,227182-1,wfo-0000058349,4218423,,
+fea0c6fc-8fb1-11eb-924d-9cd76263cbd0,species,ovata,Kallias,,Cass.,,1822,,"in Dict. Sc. Nat. xxiv. 327 (1822).",,,,,,,wfo-0000001789,3122230,,

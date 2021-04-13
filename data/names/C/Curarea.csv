@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2472a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Curarea,,,"Barneby & Krukoff",1971,"Mem. New York Bot. Gard. 22(2): 7–9, f. 1. 1971. (14 Dec 1971)",,,,,295947-2,wfo-4000010082,7268729,
-d90e385a-8fcc-11eb-924d-9cd76263cbd0,species,candicans,Curarea,,"(Rich. ex DC.) Barneby & Krukoff",1971,"Mem. New York Bot. Gard. 22(2): 12 1971",,,,90362ce6-8fcc-11eb-924d-9cd76263cbd0,72706-2,wfo-0000630840,3830224,
-d90e534e-8fcc-11eb-924d-9cd76263cbd0,species,crassa,Curarea,,Barneby,1996,"Brittonia 48: 22 1996",,,,,304205-2,wfo-0000630841,3830208,
-d90e6d2a-8fcc-11eb-924d-9cd76263cbd0,species,cuatrecasasii,Curarea,,"Barneby & Krukoff",1971,"Mem. New York Bot. Gard. 22(2): 14 1971",,,,,72707-2,wfo-0000630842,3830192,
-bdb684ae-8fd1-11eb-924d-9cd76263cbd0,species,phaeofusca,Curarea,,R.Ortiz,,,,,,,,wfo-0001249785,7695670,
-d90e86de-8fcc-11eb-924d-9cd76263cbd0,species,tecunarum,Curarea,,"Barneby & Krukoff",1971,"Mem. New York Bot. Gard. 22(2): 12 1971",,,,,72708-2,wfo-0000630843,3830166,
-d90ea376-8fcc-11eb-924d-9cd76263cbd0,species,toxicofera,Curarea,,"(Wedd.) Barneby & Krukoff",1971,"Mem. New York Bot. Gard. 22(2): 9 1971",,,,,72709-2,wfo-0000630844,10947659,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2472a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Curarea,,,"Barneby & Krukoff",,1971,,"Mem. New York Bot. Gard. 22(2): 7–9, f. 1. 1971. (14 Dec 1971)",,,,,,295947-2,wfo-4000010082,7268729,,
+d90e385a-8fcc-11eb-924d-9cd76263cbd0,species,candicans,Curarea,,"(Rich. ex DC.) Barneby & Krukoff",,1971,,"Mem. New York Bot. Gard. 22(2): 12 1971",,,,90362ce6-8fcc-11eb-924d-9cd76263cbd0,,72706-2,wfo-0000630840,3830224,,
+d90e534e-8fcc-11eb-924d-9cd76263cbd0,species,crassa,Curarea,,Barneby,,1996,,"Brittonia 48: 22 1996",,Q55771822,,,,304205-2,wfo-0000630841,3830208,,
+d90e6d2a-8fcc-11eb-924d-9cd76263cbd0,species,cuatrecasasii,Curarea,,"Barneby & Krukoff",,1971,,"Mem. New York Bot. Gard. 22(2): 14 1971",,,,,,72707-2,wfo-0000630842,3830192,,
+bdb684ae-8fd1-11eb-924d-9cd76263cbd0,species,phaeofusca,Curarea,,R.Ortiz,,,,,,,,,,,wfo-0001249785,7695670,,
+d90e86de-8fcc-11eb-924d-9cd76263cbd0,species,tecunarum,Curarea,,"Barneby & Krukoff",,1971,,"Mem. New York Bot. Gard. 22(2): 12 1971",,,,,,72708-2,wfo-0000630843,3830166,,
+d90ea376-8fcc-11eb-924d-9cd76263cbd0,species,toxicofera,Curarea,,"(Wedd.) Barneby & Krukoff",,1971,,"Mem. New York Bot. Gard. 22(2): 9 1971",,,,,,72709-2,wfo-0000630844,10947659,,

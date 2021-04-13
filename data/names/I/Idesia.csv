@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e50e6602-8fd1-11eb-924d-9cd76263cbd0,genus,Idesia,,,Maxim.,1866,"Bull. Acad. Imp. Sci. Saint-Petersbourg, sér. 3 10: 485. 1866.",,,,,331671-2,wfo-4000018967,3231184,
-bfbe7342-8fd1-11eb-924d-9cd76263cbd0,species,fujianensis,Idesia,,G.S.Fan,1995,"J. SouthW. Forest. Coll. 5(3): 30 1995",,,,,51029284-1,wfo-0001253557,7409960,
-78d13144-8fcd-11eb-924d-9cd76263cbd0,species,polycarpa,Idesia,,Maxim.,1866,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 10: 485 1866",,,,,111768-1,wfo-0000926532,6043516,
-bfbee354-8fd1-11eb-924d-9cd76263cbd0,variety,fujianensis,Idesia,polycarpa,"(G.S.Fan) S.S.Lai",1999,"Fl. Reipubl. Popularis Sin. 52(1): 58 1999",,,,bfbe7342-8fd1-11eb-924d-9cd76263cbd0,1015997-1,wfo-0001253561,7590078,
-b2124fac-8fd1-11eb-924d-9cd76263cbd0,variety,intermedia,Idesia,polycarpa,Pamp.,1910,"Nuovo Giorn. Bot. Ital., n.s., 17(4): 673–674 1910",,,,,,wfo-0001228360,8425480,
-add3cdee-8fd1-11eb-924d-9cd76263cbd0,variety,latifolia,Idesia,polycarpa,Diels,1900,"Bot. Jahrb. Syst. 29(3–4): 478 1900",,,,,,wfo-0001220625,8099096,
-2a5f6dc2-8fba-11eb-924d-9cd76263cbd0,species,pulchra,Idianthes,,"(L.) Desv.",1827,"Fl. Anj. 199 (1827).",,,,b6858a62-8fb9-11eb-924d-9cd76263cbd0,225681-1,wfo-0000124519,4228026,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e50e6602-8fd1-11eb-924d-9cd76263cbd0,genus,Idesia,,,Maxim.,,1866,,"Bull. Acad. Imp. Sci. Saint-Petersbourg, sér. 3 10: 485. 1866.",,,,,,331671-2,wfo-4000018967,3231184,,
+bfbe7342-8fd1-11eb-924d-9cd76263cbd0,species,fujianensis,Idesia,,G.S.Fan,,1995,,"J. SouthW. Forest. Coll. 5(3): 30 1995",,,,,,51029284-1,wfo-0001253557,7409960,,
+78d13144-8fcd-11eb-924d-9cd76263cbd0,species,polycarpa,Idesia,,Maxim.,,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 10: 485 1866",,,,,,111768-1,wfo-0000926532,6043516,,
+bfbee354-8fd1-11eb-924d-9cd76263cbd0,variety,fujianensis,Idesia,polycarpa,"(G.S.Fan) S.S.Lai",,1999,,"Fl. Reipubl. Popularis Sin. 52(1): 58 1999",,,,bfbe7342-8fd1-11eb-924d-9cd76263cbd0,,1015997-1,wfo-0001253561,7590078,,
+b2124fac-8fd1-11eb-924d-9cd76263cbd0,variety,intermedia,Idesia,polycarpa,Pamp.,,1910,,"Nuovo Giorn. Bot. Ital., n.s., 17(4): 673–674 1910",,,,,,,wfo-0001228360,8425480,,
+add3cdee-8fd1-11eb-924d-9cd76263cbd0,variety,latifolia,Idesia,polycarpa,Diels,,1900,,"Bot. Jahrb. Syst. 29(3–4): 478 1900",,,,,,,wfo-0001220625,8099096,,
+2a5f6dc2-8fba-11eb-924d-9cd76263cbd0,species,pulchra,Idianthes,,"(L.) Desv.",,1827,,"Fl. Anj. 199 (1827).",,,,b6858a62-8fb9-11eb-924d-9cd76263cbd0,,225681-1,wfo-0000124519,4228026,,

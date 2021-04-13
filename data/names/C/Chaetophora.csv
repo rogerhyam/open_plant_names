@@ -1,8 +1,8 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e17a041a-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetophora,,,,,,,,,,,wfo-4000007522,2639708,
-ee75dd1e-8fcd-11eb-924d-9cd76263cbd0,species,cristata,Chaetophora,,"(Hedw.) Brid.",1819,"Muscol. Recent. Suppl. 4: 149 1819",,,,e8fdb794-8fcd-11eb-924d-9cd76263cbd0,,wfo-0001180327,8400341,
-ee75fd76-8fcd-11eb-924d-9cd76263cbd0,species,incurva,Chaetophora,,Hornsch.,1820,"Horae Phys. Berol. 65. f. 13 1820",,,,,,wfo-0001180328,7611593,
-ee761f7c-8fcd-11eb-924d-9cd76263cbd0,species,langsdorffii,Chaetophora,,"(Hook.) Brid.",1827,"Bryol. Univ. 2: 337 1827",,,,,,wfo-0001180329,7888621,
-ee763dc2-8fcd-11eb-924d-9cd76263cbd0,species,orthotrichoides,Chaetophora,,"(Raddi) Brid.",1827,"Bryol. Univ. 2: 339 1827",,,,,,wfo-0001180330,7877874,
-ee765da2-8fcd-11eb-924d-9cd76263cbd0,species,pendula,Chaetophora,,"(Hook.) Brid.",1827,"Bryol. Univ. 2: 338 1827",,,,,,wfo-0001180331,8411539,
-ee767b5c-8fcd-11eb-924d-9cd76263cbd0,species,perrinii,Chaetophora,,"(Spreng.) Brid.",1827,"Bryol. Univ. 2: 336 1827",,,,,,wfo-0001180332,5280012,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e17a041a-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetophora,,,,,,,,,,,,,,wfo-4000007522,2639708,,
+ee75dd1e-8fcd-11eb-924d-9cd76263cbd0,species,cristata,Chaetophora,,"(Hedw.) Brid.",,1819,,"Muscol. Recent. Suppl. 4: 149 1819",,,,e8fdb794-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180327,8400341,,
+ee75fd76-8fcd-11eb-924d-9cd76263cbd0,species,incurva,Chaetophora,,Hornsch.,,1820,,"Horae Phys. Berol. 65. f. 13 1820",,,,,,,wfo-0001180328,7611593,,
+ee761f7c-8fcd-11eb-924d-9cd76263cbd0,species,langsdorffii,Chaetophora,,"(Hook.) Brid.",,1827,,"Bryol. Univ. 2: 337 1827",,,,,,,wfo-0001180329,7888621,,
+ee763dc2-8fcd-11eb-924d-9cd76263cbd0,species,orthotrichoides,Chaetophora,,"(Raddi) Brid.",,1827,,"Bryol. Univ. 2: 339 1827",,,,,,,wfo-0001180330,7877874,,
+ee765da2-8fcd-11eb-924d-9cd76263cbd0,species,pendula,Chaetophora,,"(Hook.) Brid.",,1827,,"Bryol. Univ. 2: 338 1827",,,,,,,wfo-0001180331,8411539,,
+ee767b5c-8fcd-11eb-924d-9cd76263cbd0,species,perrinii,Chaetophora,,"(Spreng.) Brid.",,1827,,"Bryol. Univ. 2: 336 1827",,,,,,,wfo-0001180332,5280012,,

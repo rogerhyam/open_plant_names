@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb167fd0-8fd1-11eb-924d-9cd76263cbd0,genus,Tamania,,,Cuatrec.,,,,,,,298450-2,wfo-4000037500,8232389,
-f4c0fc72-8fb8-11eb-924d-9cd76263cbd0,species,chardonii,Tamania,,"(A.C.Sm.) Cuatrec.",1976,"53 1976",,,,1ab80dc4-8fbb-11eb-924d-9cd76263cbd0,249253-2,wfo-0000114108,5389437,
-6f510c94-8fcc-11eb-924d-9cd76263cbd0,species,alba,Tamara,,"Roxb. ex Steud.",1841,"Nomencl. Bot. ed. 2, 2: 661 1841",,,,,605772-1,wfo-0000456188,8413776,
-6f51ff64-8fcc-11eb-924d-9cd76263cbd0,species,hemisphaerica,Tamara,,"Buch.-Ham. ex Pritz.",,"Icon. Bot. Index 1087 1855",,,,,,wfo-0000456193,7579123,
-6f50c950-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Tamara,,"Roxb. ex Steud.",1841,"Nomencl. Bot. ed. 2, 2: 661 1841",,,,,605774-1,wfo-0000456186,8119462,
-dc5cba9e-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Tamaricaria,,"(Royle) Qaiser & Ali",1978,"Blumea 24(1): 153–154, pl. 1, f. 1b 1978",,,,dc549f44-8fcd-11eb-924d-9cd76263cbd0,828025-1,wfo-0001142099,3612950,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb167fd0-8fd1-11eb-924d-9cd76263cbd0,genus,Tamania,,,Cuatrec.,,,,,,,,,,298450-2,wfo-4000037500,8232389,,
+f4c0fc72-8fb8-11eb-924d-9cd76263cbd0,species,chardonii,Tamania,,"(A.C.Sm.) Cuatrec.",,1976,,"53 1976",,,,1ab80dc4-8fbb-11eb-924d-9cd76263cbd0,,249253-2,wfo-0000114108,5389437,,
+6f510c94-8fcc-11eb-924d-9cd76263cbd0,species,alba,Tamara,,"Roxb. ex Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 661 1841",,,,,,605772-1,wfo-0000456188,8413776,,
+6f51ff64-8fcc-11eb-924d-9cd76263cbd0,species,hemisphaerica,Tamara,,"Buch.-Ham. ex Pritz.",,,,"Icon. Bot. Index 1087 1855",,,,,,,wfo-0000456193,7579123,,
+6f50c950-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Tamara,,"Roxb. ex Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 661 1841",,,,,,605774-1,wfo-0000456186,8119462,,
+dc5cba9e-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Tamaricaria,,"(Royle) Qaiser & Ali",,1978,,"Blumea 24(1): 153–154, pl. 1, f. 1b 1978",,Q96027364,,dc549f44-8fcd-11eb-924d-9cd76263cbd0,,828025-1,wfo-0001142099,3612950,,

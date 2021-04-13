@@ -1,3 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e78c6d5c-8fd1-11eb-924d-9cd76263cbd0,genus,Oncaglossum,,,Sutorý,2010,"Novon 20(4): 464. 2010. (29 Nov 2010)",,,,,77112235-1,wfo-4000026832,7742138,
-ae50ec24-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Oncaglossum,,"(Greenm.) Sutorý",2010,"Novon 20(4): 464–468, f. 1, 2A, C–D 2010",,,,,,wfo-0001039879,7520106,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e78c6d5c-8fd1-11eb-924d-9cd76263cbd0,genus,Oncaglossum,,,Sutorý,,2010,,"Novon 20(4): 464. 2010. (29 Nov 2010)",,Q54741239,,,,77112235-1,wfo-4000026832,7742138,,
+ae50ec24-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Oncaglossum,,"(Greenm.) Sutorý",,2010,,"Novon 20(4): 464–468, f. 1, 2A, C–D 2010",,,,,,,wfo-0001039879,7520106,,

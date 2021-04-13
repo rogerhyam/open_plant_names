@@ -1,5 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a96204-8fd1-11eb-924d-9cd76263cbd0,genus,Diatenopteryx,,,Radlk.,1878,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 284. 1878.",,,,,36362-1,wfo-4000011354,7265099,
-e0d5136a-8fcc-11eb-924d-9cd76263cbd0,species,grazielae,Diatenopteryx,,"Vaz & Andreata",1981,"Bradea 3: 123 1981",,,,,79183-2,wfo-0000644835,3787652,
-e0d5733c-8fcc-11eb-924d-9cd76263cbd0,species,sorbifolia,Diatenopteryx,,Radlk.,1878,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 285 1878",,,,,782763-1,wfo-0000644836,3787646,
-e0d5a974-8fcc-11eb-924d-9cd76263cbd0,species,brachiata,Diatoma,,Lour.,1790,"Fl. Cochinch. 296 1790",,,,,719746-1,wfo-0000644837,5602635,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a96204-8fd1-11eb-924d-9cd76263cbd0,genus,Diatenopteryx,,,Radlk.,,1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 284. 1878.",,,,,,36362-1,wfo-4000011354,7265099,,
+e0d5136a-8fcc-11eb-924d-9cd76263cbd0,species,grazielae,Diatenopteryx,,"Vaz & Andreata",,1981,,"Bradea 3: 123 1981",,,,,,79183-2,wfo-0000644835,3787652,,
+e0d5733c-8fcc-11eb-924d-9cd76263cbd0,species,sorbifolia,Diatenopteryx,,Radlk.,,1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8: 285 1878",,,,,,782763-1,wfo-0000644836,3787646,,

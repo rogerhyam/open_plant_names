@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e466c1b8-8fd1-11eb-924d-9cd76263cbd0,genus,Haplopetalon,,,A.Gray,,"Proc. Amer. Acad. Arts 3: 53.",,,,,,wfo-4000016880,7273574,
-09b87c18-8fcd-11eb-924d-9cd76263cbd0,species,multiflorum,Haplopetalon,,Baill.,1862,"Adansonia 3: 40 1862",,,,,719757-1,wfo-0000715462,3874247,
-09b89716-8fcd-11eb-924d-9cd76263cbd0,species,parksii,Haplopetalon,,Gillespie,1932,"Bernice P. Bishop Mus. Bull. 91: 21 1932",,,,,719758-1,wfo-0000715463,3874239,
-09b8b3ea-8fcd-11eb-924d-9cd76263cbd0,species,richii,Haplopetalon,,A.Gray,1854,"U.S. Expl. Exped., Phan. 1: 608 1854",,,,,,wfo-0000715464,3874230,
-09b8ed60-8fcd-11eb-924d-9cd76263cbd0,species,seemannii,Haplopetalon,,A.Gray,1862,"Bonplandia (Hannover) 10: 36 1862",,,,,719760-1,wfo-0000715466,3874221,
-9143e988-8fcd-11eb-924d-9cd76263cbd0,species,gracilipes,Haplophandra,,"(Stadelm.) Pichon",1948,"Bull. Mus. Natl. Hist. Nat. II, 20: 301 1948",,,,825ddd2a-8fcd-11eb-924d-9cd76263cbd0,117865-2,wfo-0000979319,3614540,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e466c1b8-8fd1-11eb-924d-9cd76263cbd0,genus,Haplopetalon,,,A.Gray,,,,"Proc. Amer. Acad. Arts 3: 53.",,,,,,,wfo-4000016880,7273574,,
+09b87c18-8fcd-11eb-924d-9cd76263cbd0,species,multiflorum,Haplopetalon,,Baill.,,1862,,"Adansonia 3: 40 1862",,,,,,719757-1,wfo-0000715462,3874247,,
+09b89716-8fcd-11eb-924d-9cd76263cbd0,species,parksii,Haplopetalon,,Gillespie,,1932,,"Bernice P. Bishop Mus. Bull. 91: 21 1932",,,,,,719758-1,wfo-0000715463,3874239,,
+09b8b3ea-8fcd-11eb-924d-9cd76263cbd0,species,richii,Haplopetalon,,A.Gray,,1854,,"U.S. Expl. Exped., Phan. 1: 608 1854",,,,,,,wfo-0000715464,3874230,,
+09b8ed60-8fcd-11eb-924d-9cd76263cbd0,species,seemannii,Haplopetalon,,A.Gray,,1862,,"Bonplandia (Hannover) 10: 36 1862",,,,,,719760-1,wfo-0000715466,3874221,,
+9143e988-8fcd-11eb-924d-9cd76263cbd0,species,gracilipes,Haplophandra,,"(Stadelm.) Pichon",,1948,,"Bull. Mus. Natl. Hist. Nat. II, 20: 301 1948",,,,825ddd2a-8fcd-11eb-924d-9cd76263cbd0,,117865-2,wfo-0000979319,3614540,,

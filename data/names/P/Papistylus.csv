@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e7ecca94-8fd1-11eb-924d-9cd76263cbd0,genus,Papistylus,,,"Kellermann, Rye & K.R.Thiele",,,,,,,77091365-1,wfo-4000027934,7273917,
-8f39bc18-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Papistylus,,"(C.A.Gardner) Kellermann, Rye & K.R.Thiele",2007,"Nuytsia 16: 307 2007",,,,,77091366-1,wfo-0000509907,3876660,
-8f39d95a-8fcc-11eb-924d-9cd76263cbd0,species,intropubens,Papistylus,,Rye,2007,"Nuytsia 16: 308 2007",,,,,,wfo-0000509908,3876650,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e7ecca94-8fd1-11eb-924d-9cd76263cbd0,genus,Papistylus,,,"Kellermann, Rye & K.R.Thiele",,,,,,,,,,77091365-1,wfo-4000027934,7273917,,
+8f39bc18-8fcc-11eb-924d-9cd76263cbd0,species,grandiflorus,Papistylus,,"(C.A.Gardner) Kellermann, Rye & K.R.Thiele",,2007,,"Nuytsia 16: 307 2007",,,,,,77091366-1,wfo-0000509907,3876660,,
+8f39d95a-8fcc-11eb-924d-9cd76263cbd0,species,intropubens,Papistylus,,Rye,,2007,,"Nuytsia 16: 308 2007",,,,,,,wfo-0000509908,3876650,,

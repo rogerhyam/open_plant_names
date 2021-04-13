@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e2a4712c-8fd1-11eb-924d-9cd76263cbd0,genus,Dialyceras,,,Capuron,1962,"Adansonia, n.s. 2: 262. 1962.",,,,,38592-1,wfo-4000011292,7306107,
-d7b63f2a-8fcc-11eb-924d-9cd76263cbd0,species,coriaceum,Dialyceras,,"(Capuron) J.-F.Leroy",1973,"Adansonia n.s., 13: 39 1973",,,,d7ba9656-8fcc-11eb-924d-9cd76263cbd0,821846-1,wfo-0000628521,3701950,
-d7b80ad0-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Dialyceras,,"(Capuron) J.-F.Leroy",1973,"Adansonia n.s., 13: 39 1973",,,,d7bb8b92-8fcc-11eb-924d-9cd76263cbd0,821847-1,wfo-0000628533,3701947,
-d7b92208-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Dialyceras,,Capuron,1962,"Adansonia n.s., 2: 265 1962",,,,,821848-1,wfo-0000628543,3701936,
-d7ba9656-8fcc-11eb-924d-9cd76263cbd0,variety,coriaceum,Dialyceras,parvifolium,Capuron,1962,"Adansonia n.s., 2: 265 1962",,,,,,wfo-0000628552,8166051,
-d7bb8b92-8fcc-11eb-924d-9cd76263cbd0,form,discolor,Dialyceras,parvifolium,Capuron,1962,"Adansonia n.s., 2: 265 1962",,,,,,wfo-0000628560,8164749,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e2a4712c-8fd1-11eb-924d-9cd76263cbd0,genus,Dialyceras,,,Capuron,,1962,,"Adansonia, n.s. 2: 262. 1962.",,Q58837851,,,,38592-1,wfo-4000011292,7306107,,
+d7b63f2a-8fcc-11eb-924d-9cd76263cbd0,species,coriaceum,Dialyceras,,"(Capuron) J.-F.Leroy",,1973,,"Adansonia n.s., 13: 39 1973",,Q58838118,,d7ba9656-8fcc-11eb-924d-9cd76263cbd0,,821846-1,wfo-0000628521,3701950,,
+d7b80ad0-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Dialyceras,,"(Capuron) J.-F.Leroy",,1973,,"Adansonia n.s., 13: 39 1973",,Q58838118,,d7bb8b92-8fcc-11eb-924d-9cd76263cbd0,,821847-1,wfo-0000628533,3701947,,
+d7b92208-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Dialyceras,,Capuron,,1962,,"Adansonia n.s., 2: 265 1962",,Q58837851,,,,821848-1,wfo-0000628543,3701936,,
+d7ba9656-8fcc-11eb-924d-9cd76263cbd0,variety,coriaceum,Dialyceras,parvifolium,Capuron,,1962,,"Adansonia n.s., 2: 265 1962",,,,,,,wfo-0000628552,8166051,,
+d7bb8b92-8fcc-11eb-924d-9cd76263cbd0,form,discolor,Dialyceras,parvifolium,Capuron,,1962,,"Adansonia n.s., 2: 265 1962",,,,,,,wfo-0000628560,8164749,,

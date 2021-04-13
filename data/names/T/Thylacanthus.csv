@@ -1,6 +1,6 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-eb551d08-8fd1-11eb-924d-9cd76263cbd0,genus,Thylacanthus,,,,,,,,,,,wfo-4000038319,2943817,
-52b77582-8fcc-11eb-924d-9cd76263cbd0,species,corymbosus,Thylacanthus,,Baill.,1870,"Hist. Pl. 2: 96 1870",,,,,521229-1,wfo-0000414143,3965827,
-a092fcae-8fc2-11eb-924d-9cd76263cbd0,species,ferrugineus,Thylacanthus,,Tul.,,,,,,,,wfo-0000178498,2943818,
-159030a4-8fcc-11eb-924d-9cd76263cbd0,species,fleuryi,Thylacis,,Gagnep.,1932,"Bull. Mus. Natl. Hist. Nat. II, 4: 600 1932",,,,,660364-1,wfo-0000323590,5324629,
-15907df2-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Thylacis,,Gagnep.,1932,"Bull. Mus. Natl. Hist. Nat. II, 4: 600 1932",,,,,660365-1,wfo-0000323591,5324624,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+eb551d08-8fd1-11eb-924d-9cd76263cbd0,genus,Thylacanthus,,,,,,,,,,,,,,wfo-4000038319,2943817,,
+52b77582-8fcc-11eb-924d-9cd76263cbd0,species,corymbosus,Thylacanthus,,Baill.,,1870,,"Hist. Pl. 2: 96 1870",,,,,,521229-1,wfo-0000414143,3965827,,
+a092fcae-8fc2-11eb-924d-9cd76263cbd0,species,ferrugineus,Thylacanthus,,Tul.,,,,,,,,,,,wfo-0000178498,2943818,,
+159030a4-8fcc-11eb-924d-9cd76263cbd0,species,fleuryi,Thylacis,,Gagnep.,,1932,,"Bull. Mus. Natl. Hist. Nat. II, 4: 600 1932",,,,,,660364-1,wfo-0000323590,5324629,,
+15907df2-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Thylacis,,Gagnep.,,1932,,"Bull. Mus. Natl. Hist. Nat. II, 4: 600 1932",,,,,,660365-1,wfo-0000323591,5324624,,

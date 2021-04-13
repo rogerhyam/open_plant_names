@@ -1,12 +1,3 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e5174bfa-8fd1-11eb-924d-9cd76263cbd0,genus,Inouethuidium,,,R.Watan.,1991,"J. Hattori Bot. Lab. 69: 44. 1991.",,,,,,wfo-4000019099,2679526,
-f658cc30-8fcd-11eb-924d-9cd76263cbd0,species,robbinsii,Inouethuidium,,"(E.B.Bartram) R.Watan.",1991,"J. Hattori Bot. Lab. 69: 45 1991",,,,,,wfo-0001196524,2679527,
-00263050-8fbe-11eb-924d-9cd76263cbd0,species,insulare,,,Nakaike,1992,"New Fl. Jap. Pterid. 839 (1992): 1992",,,,,17560190-1,wfo-0000151482,,
-673b36ce-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,,,"(F.E.L.Miranda) Chiron & V.P.Castro",2002,"Richardiana 2: 27 2002",,,,83030d4a-8fcd-11eb-924d-9cd76263cbd0,1100411-2,wfo-0000441946,,
-30006b1a-8fcd-11eb-924d-9cd76263cbd0,species,intermedia,,,"(Bernacki) J.M.H.Shaw",2005,"Orchid Rev. 113: 267 2005",,,,03f8a3a8-8fcc-11eb-924d-9cd76263cbd0,77068519-1,wfo-0000793789,,
-83030d4a-8fcd-11eb-924d-9cd76263cbd0,species,intermedia,,,F.E.L.Miranda,1991,"Albertoa 3(10): 94 1991",,,,,305775-2,wfo-0000949000,,
-453dafc4-8fcd-11eb-924d-9cd76263cbd0,species,intermedia,,,"(F.E.L.Miranda) Van den Berg",2010,"Neodiversity 5: 16 2010",,,,83030d4a-8fcd-11eb-924d-9cd76263cbd0,77114836-1,wfo-0000839293,,
-03f8a3a8-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,,,Bernacki,1986,"Fragm. Florist. Geobot. 31-32: 51 1986-1987 publ. 1988",,,,,935049-1,wfo-0000296269,,
-0db4d79a-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,,,"(F.E.L.Miranda) Van den Berg & M.W.Chase",2001,"Lindleyana 16: 112 2001",,,,83030d4a-8fcd-11eb-924d-9cd76263cbd0,1021249-1,wfo-0000311838,,
-b1d36188-8fcd-11eb-924d-9cd76263cbd0,species,intermedium,,,Avrorin,,,,,,,,wfo-0001047847,,
-c7293a54-8fcc-11eb-924d-9cd76263cbd0,species,intermedium,,,"(Wettst.) Janch.",1933,"Oesterr. Bot. Z. 82: 153 1933",,,,f4b51362-8fcc-11eb-924d-9cd76263cbd0,281217-1,wfo-0000600624,,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e5174bfa-8fd1-11eb-924d-9cd76263cbd0,genus,Inouethuidium,,,R.Watan.,,1991,,"J. Hattori Bot. Lab. 69: 44. 1991.",,,,,,,wfo-4000019099,2679526,,
+f658cc30-8fcd-11eb-924d-9cd76263cbd0,species,robbinsii,Inouethuidium,,"(E.B.Bartram) R.Watan.",,1991,,"J. Hattori Bot. Lab. 69: 45 1991",,,,,,,wfo-0001196524,2679527,,

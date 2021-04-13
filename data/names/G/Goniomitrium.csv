@@ -1,7 +1,7 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e41fec48-8fd1-11eb-924d-9cd76263cbd0,genus,Goniomitrium,,,"Hook.f. & Wilson",1846,"London J. Bot. 5: 142. 1846.",,,,,,wfo-4000016001,2673939,
-eae07f1a-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Goniomitrium,,"Hook. & Wilson",1846,"London J. Bot. 5: 143. pl. 3: b 1846",,,,,,wfo-0001173251,2673940,
-eae09bb2-8fcd-11eb-924d-9cd76263cbd0,species,africanum,Goniomitrium,,"(Müll.Hal.) Broth.",1903,"Nat. Pflanzenfam. I(3): 521. 376 1903",,,,,,wfo-0001173252,2673942,
-eae0b692-8fcd-11eb-924d-9cd76263cbd0,species,enerve,Goniomitrium,,"Hook. & Wilson",1846,"London J. Bot. 5: 142. 3A 1846",,,,,,wfo-0001173253,7433189,
-e95cc1c6-8fcd-11eb-924d-9cd76263cbd0,species,seroi,Goniomitrium,,Casas,1993,"Orsis 8: 151 1993",,,,,,wfo-0001169966,2673941,
-eae0d370-8fcd-11eb-924d-9cd76263cbd0,species,speluncae,Goniomitrium,,"P.de la Varde",1946,"Rev. Bryol. Lichénol. 15: 141. 1, 2 1946",,,,,,wfo-0001173254,2673943,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e41fec48-8fd1-11eb-924d-9cd76263cbd0,genus,Goniomitrium,,,"Hook.f. & Wilson",,1846,,"London J. Bot. 5: 142. 1846.",,,,,,,wfo-4000016001,2673939,,
+eae07f1a-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Goniomitrium,,"Hook. & Wilson",,1846,,"London J. Bot. 5: 143. pl. 3: b 1846",,,,,,,wfo-0001173251,2673940,,
+eae09bb2-8fcd-11eb-924d-9cd76263cbd0,species,africanum,Goniomitrium,,"(Müll.Hal.) Broth.",,1903,,"Nat. Pflanzenfam. I(3): 521. 376 1903",,,,,,,wfo-0001173252,2673942,,
+eae0b692-8fcd-11eb-924d-9cd76263cbd0,species,enerve,Goniomitrium,,"Hook. & Wilson",,1846,,"London J. Bot. 5: 142. 3A 1846",,,,,,,wfo-0001173253,7433189,,
+e95cc1c6-8fcd-11eb-924d-9cd76263cbd0,species,seroi,Goniomitrium,,Casas,,1993,,"Orsis 8: 151 1993",,,,,,,wfo-0001169966,2673941,,
+eae0d370-8fcd-11eb-924d-9cd76263cbd0,species,speluncae,Goniomitrium,,"P.de la Varde",,1946,,"Rev. Bryol. Lichénol. 15: 141. 1, 2 1946",,,,,,,wfo-0001173254,2673943,,

@@ -1,4 +1,4 @@
-id,rank,name,genus,species,authors,year,citation_micro,citation_full,citation_id,publication_id,basionym_id,ipni_id,wfo_id,gbif_id,note
-e4ba32da-8fd1-11eb-924d-9cd76263cbd0,genus,Heynella,,,Backer,1950,"Blumea 6: 381. 1950.",,,,,3415-1,wfo-4000017865,7312161,
-0d4d133e-8fcd-11eb-924d-9cd76263cbd0,species,lactea,Heynella,,Backer,1950,"Blumea 6: 381 1950",,,,,98312-1,wfo-0000721853,3576219,
-0d4d34ae-8fcd-11eb-924d-9cd76263cbd0,species,malleoides,Heynichia,,Kunth,1844,"Index Seminum (B) 1844(Adnot.): 8 1844",,,,,578840-1,wfo-0000721854,3852244,
+id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
+e4ba32da-8fd1-11eb-924d-9cd76263cbd0,genus,Heynella,,,Backer,,1950,,"Blumea 6: 381. 1950.",,Q96029142,,,,3415-1,wfo-4000017865,7312161,,
+0d4d133e-8fcd-11eb-924d-9cd76263cbd0,species,lactea,Heynella,,Backer,,1950,,"Blumea 6: 381 1950",,Q96029142,,,,98312-1,wfo-0000721853,3576219,,
+0d4d34ae-8fcd-11eb-924d-9cd76263cbd0,species,malleoides,Heynichia,,Kunth,,1844,,"Index Seminum (B) 1844(Adnot.): 8 1844",,,,,,578840-1,wfo-0000721854,3852244,,
