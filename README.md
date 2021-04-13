@@ -1,12 +1,14 @@
 # Open Plant Names
 
-==NOTE: (April 2021): This is trying out an idea. At this point I'm roughing out how it would all work and looking for feedback.==
+***NOTE: At this point I'm trying this out as an idea. I need to check that what is written here will work. e.g. how many files will GitHub handle etc. This is NOT READY FOR PRIME TIME YET AND MAY BE SCRAPPED but if you think this is a good idea and might want to contribute please get in touch.***
 
 A collection of data about names governed by the ICBN (International Code of Botanical Nomenclature).
 
 There are many projects around the world that use plant nomenclature for various purposes. Each of these projects puts work into cleaning up and linking data but these tend to be siloed within projects and institutions or become dated or lost. This is especially so as much of the data is locked away in SQL databases and so not easy to work on collaboratively.
 
 The purpose of this repository is to act as a shared authority file containing plant names and links to other sources.
+
+There are currently 1.7m names in 40k files. 
 
 ## Principles
 
