@@ -5,16 +5,27 @@ CREATE TABLE `__TABLE_NAME__` (
   `genus` varchar(100) DEFAULT NULL COMMENT 'The single word that is the name of another name at the genus rank (only used for species and subspecific ranks)\n',
   `species` varchar(100) DEFAULT NULL COMMENT 'The name of a species (only used if this is a subspecific name)\n',
   `authors` varchar(250) DEFAULT NULL COMMENT 'The author string for the name following standard author abbreviations\\n',
+  `author_ids` varchar(200) DEFAULT NULL,
   `year` int DEFAULT NULL COMMENT 'Year of publication\n',
-  `citation_micro` varchar(250) DEFAULT NULL,
+  `status` enum('illegitimate','later_homonym','superfluous','conserved','rejected','sanctioned','valid','invalid') DEFAULT NULL,
+  `citation_micro` varchar(1000) DEFAULT NULL,
   `citation_full` varchar(1000) DEFAULT NULL,
   `citation_id` varchar(45) DEFAULT NULL,
   `publication_id` varchar(45) DEFAULT NULL,
   `basionym_id` char(36) DEFAULT NULL,
+  `type_id` varchar(200) DEFAULT NULL,
   `ipni_id` varchar(45) DEFAULT NULL,
   `wfo_id` varchar(45) DEFAULT NULL,
   `gbif_id` varchar(45) DEFAULT NULL,
+  `indexfungorum_id` int DEFAULT NULL,
   `note` text,
   PRIMARY KEY (`id`),
-  KEY `WFO_ID` (`wfo_id`) USING BTREE
+  KEY `WFO_ID` (`wfo_id`) USING BTREE,
+  KEY `full_name` (`genus`,`species`,`name`) USING BTREE,
+  KEY `authors` (`authors`) USING BTREE,
+  KEY `rank` (`rank`) USING BTREE,
+  KEY `name` (`name`) USING BTREE,
+  KEY `ipni` (`ipni_id`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
