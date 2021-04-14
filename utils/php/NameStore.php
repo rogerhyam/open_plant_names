@@ -22,6 +22,7 @@ class NameStore{
     public function put($new_data){
 
         global $mysqli;
+        global $fields;
 
         // have we been provided with an id?
         $current_data = null;
@@ -71,6 +72,11 @@ class NameStore{
 
         $combined_data = $this->merge($current_data, $new_data);
 
+        // null the empty strings
+        foreach ($fields as $field) {
+            if($combined_data[$field] == '') $combined_data[$field] = null;
+        }
+        
         if($current_data['id']){
             return $this->update($combined_data);
         }else{
