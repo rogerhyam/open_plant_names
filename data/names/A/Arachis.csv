@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 dfa8d86e-8fd1-11eb-924d-9cd76263cbd0,genus,Arachis,,,L.,,,,,,,,,,30003907-2,wfo-4000002816,2956684,,
-a2b7643e-8fcc-11eb-924d-9cd76263cbd0,species,africana,Arachis,,Lour.,,1790,,"Fl. Cochinch. 430 1790",,,,,,474918-1,wfo-0000543007,8300006,,
 a2b72988-8fcc-11eb-924d-9cd76263cbd0,species,africana,Arachis,,Burm.f.,,1768,,"Fl. Indica Prodr. Fl. Cap.: 22 1768",,,,,,474917-1,wfo-0000543006,5611314,,
+a2b7643e-8fcc-11eb-924d-9cd76263cbd0,species,africana,Arachis,,Lour.,,1790,,"Fl. Cochinch. 430 1790",,,,,,474918-1,wfo-0000543007,8300006,,
 a2b7b934-8fcc-11eb-924d-9cd76263cbd0,species,americana,Arachis,,Ten.,,1811,,"Mem. Ist. Incorr. 1: 48 1811",,,,,,474919-1,wfo-0000543008,5632042,,
 b42796b6-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Arachis,,"(Chodat & Hassl.) Killip ex Hoehne",,1940,,"Fl. Brasilica 25(2): 7 1940",,,,,,17284-2,wfo-0001053025,5353815,,
 947eb9dc-8fc5-11eb-924d-9cd76263cbd0,species,appressipila,Arachis,,"Krapov. & W.C.Greg.",,,,,,,,,,,wfo-0000193788,5353792,,
@@ -56,8 +56,8 @@ bbe7c23c-8fd1-11eb-924d-9cd76263cbd0,species,herzogii,Arachis,,"Krapov., W.C.Gre
 971f79e2-8fc5-11eb-924d-9cd76263cbd0,species,herzogii,Arachis,,"Krapov. & al.",,,,,,,,,,,wfo-0000193820,5353830,,
 9674b50c-8fc5-11eb-924d-9cd76263cbd0,species,hoehnei,Arachis,,"Krapov. & W.C.Greg.",,,,,,,,,,,wfo-0000193813,5353809,,
 e57251ae-8fc1-11eb-924d-9cd76263cbd0,species,hypogaea,Arachis,,L.,,,,,,,,,,,wfo-0000174378,5353770,,
-b754da24-8fcd-11eb-924d-9cd76263cbd0,subspecies,nambyquarae,Arachis,hypogaea,"(Hoehne) A.Chev.",,1933,,"Rev. Bot. Appl. Agric. Trop. 13: 772 1933",,Q96002248,,,,17297-2,wfo-0001060343,5611478,,
 b754f6c6-8fcd-11eb-924d-9cd76263cbd0,variety,nambyquarae,Arachis,hypogaea,"(Hoehne) Burkart",,1939,,"Darwiniana 3(2): 281 1939",,Q104173982,,,,17298-2,wfo-0001060344,8413432,,
+b754da24-8fcd-11eb-924d-9cd76263cbd0,subspecies,nambyquarae,Arachis,hypogaea,"(Hoehne) A.Chev.",,1933,,"Rev. Bot. Appl. Agric. Trop. 13: 772 1933",,Q96002248,,,,17297-2,wfo-0001060343,5611478,,
 98416dd0-8fc5-11eb-924d-9cd76263cbd0,subspecies,oleifera,Arachis,hypogaea,A.Chev.,,,,,,,,,,,wfo-0000193835,5353772,,
 93a1cdf6-8fc5-11eb-924d-9cd76263cbd0,subspecies,sylvestris,Arachis,hypogaea,A.Chev.,,,,,,,,,,,wfo-0000193777,5353778,,
 ab963cdc-8fcd-11eb-924d-9cd76263cbd0,species,interrupta,Arachis,,"Valls & C.E.Simpson",,2005,,"Bonplandia (Corrientes) 14: 45 2005",,,,,,,wfo-0001033880,5611467,,

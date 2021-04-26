@@ -29,7 +29,7 @@ fclose($out);
 
 // genera and below
 $rank_list = "'" . implode("','", $ranks_lower) . "'";
-$sql = "SELECT $field_list from `names` WHERE `rank` IN ($rank_list) ORDER BY concat_ws(' ', `genus`, `species`, `name`)";
+$sql = "SELECT $field_list from `names` WHERE `rank` IN ($rank_list) ORDER BY concat_ws(' ', `genus`, `species`, `name`), id";
 $mysqli->real_query($sql); // don't fetch complete result set
 $result = $mysqli->use_result();
 
