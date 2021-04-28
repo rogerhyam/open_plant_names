@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7fcb5a6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calogloeum,,,Syd.,,1924,,"Annls mycol. 22(3/6): 401 (1924)",,,,a7fcb5a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7470," "
-aa7f8b2e-9bac-11eb-a8a2-19ed5c03f8d3,species,amentorum,Calogloeum,,"(Delacr.) Nannf.",,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,7db9283e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,256633," "
-d871c588-9bac-11eb-a8a2-19ed5c03f8d3,species,deformans,Calogloeum,,"(J. Schröt.) Nannf.",,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,8ecad3de-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262892," "
-0d321616-9bac-11eb-a8a2-19ed5c03f8d3,species,lapponum,Calogloeum,,"(Lind) Nannf.",,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,856901e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,268979," "
-e00435f6-9bac-11eb-a8a2-19ed5c03f8d3,species,oelandicum,Calogloeum,,"(Lind) Nannf.",,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,68d2eaf4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,272768," "
-c1f167c8-9bac-11eb-a8a2-19ed5c03f8d3,species,weirianum,Calogloeum,,"(Sacc.) Syd.",,1924,,"in Sydow & Petrak, Annls mycol. 22: 401 (1924)",,,,7c467ccc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,282059," "
-63eaa03c-8fcb-11eb-924d-9cd76263cbd0,species,caloglossa,,,"(Rchb.f.) Rolfe",,1889,,"Gard. Chron. 1889(2): 79 1889",,,,,,639742-1,wfo-0000222178,,,
-2962a584-8fcd-11eb-924d-9cd76263cbd0,species,flabellatum,Caloglossum,,"(Thouars) Schltr.",,1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,da6abb3e-8fcb-11eb-924d-9cd76263cbd0,,621496-1,wfo-0000779206,2808297,,
-29644a74-8fcd-11eb-924d-9cd76263cbd0,species,humblotii,Caloglossum,,"(Rolfe) Schltr.",,1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,,,621497-1,wfo-0000779217,2808307,,
-29658bdc-8fcd-11eb-924d-9cd76263cbd0,species,magnificum,Caloglossum,,Schltr.,,1918,,"Repert. Spec. Nov. Regni Veg. 15: 314 1918",,,,,,,wfo-0000779228,2808310,,
-29670142-8fcd-11eb-924d-9cd76263cbd0,species,rhodochilum,Caloglossum,,"(Rolfe) Schltr.",,1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,7c926c9e-8fcd-11eb-924d-9cd76263cbd0,,621499-1,wfo-0000779240,2808301,,
+aa7f8b2e-9bac-11eb-a8a2-19ed5c03f8d3,species,amentorum,Calogloeum,,"(Delacr.) Nannf.","Q6174201,Q2330447",1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,7db9283e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,256633," "
+d871c588-9bac-11eb-a8a2-19ed5c03f8d3,species,deformans,Calogloeum,,"(J. Schröt.) Nannf.",Q2330447,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,8ecad3de-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262892," "
+0d321616-9bac-11eb-a8a2-19ed5c03f8d3,species,lapponum,Calogloeum,,"(Lind) Nannf.",Q2330447,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,856901e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,268979," "
+e00435f6-9bac-11eb-a8a2-19ed5c03f8d3,species,oelandicum,Calogloeum,,"(Lind) Nannf.",Q2330447,1931,,"Svensk bot. Tidskr. 25: 25 (1931)",,,,68d2eaf4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,272768," "
+c1f167c8-9bac-11eb-a8a2-19ed5c03f8d3,species,weirianum,Calogloeum,,"(Sacc.) Syd.",Q707840,1924,,"in Sydow & Petrak, Annls mycol. 22: 401 (1924)",,,,7c467ccc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,282059," "
+63eaa03c-8fcb-11eb-924d-9cd76263cbd0,species,caloglossa,,,"(Rchb.f.) Rolfe","Q62820,Q2635543",1889,,"Gard. Chron. 1889(2): 79 1889",,,,,,639742-1,wfo-0000222178,,,
+2962a584-8fcd-11eb-924d-9cd76263cbd0,species,flabellatum,Caloglossum,,"(Thouars) Schltr.","Q537070,Q62278",1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,da6abb3e-8fcb-11eb-924d-9cd76263cbd0,,621496-1,wfo-0000779206,2808297,,
+29644a74-8fcd-11eb-924d-9cd76263cbd0,species,humblotii,Caloglossum,,"(Rolfe) Schltr.","Q2635543,Q62278",1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,,,621497-1,wfo-0000779217,2808307,,
+29658bdc-8fcd-11eb-924d-9cd76263cbd0,species,magnificum,Caloglossum,,Schltr.,Q62278,1918,,"Repert. Spec. Nov. Regni Veg. 15: 314 1918",,,,,,,wfo-0000779228,2808310,,
+29670142-8fcd-11eb-924d-9cd76263cbd0,species,rhodochilum,Caloglossum,,"(Rolfe) Schltr.","Q2635543,Q62278",1918,,"Repert. Spec. Nov. Regni Veg. 15: 213 1918",,Q55753051,,7c926c9e-8fcd-11eb-924d-9cd76263cbd0,,621499-1,wfo-0000779240,2808301,,

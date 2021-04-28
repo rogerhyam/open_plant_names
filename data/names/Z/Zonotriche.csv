@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec3cec0a-8fd1-11eb-924d-9cd76263cbd0,genus,Zonotriche,,,"(C.E.Hubb.) J.B.Phipps",,1964,,"Kirkia 4: 113. 1964.",,Q91469059,,,,19291-1,wfo-4000041270,4138733,,
-6ba5a77a-8fcd-11eb-924d-9cd76263cbd0,species,brunnea,Zonotriche,,"(J.B.Phipps) Clayton",,1971,,"Kew Bull. 26: 119 1971",,Q55784927,,58340f4c-8fcd-11eb-924d-9cd76263cbd0,,426985-1,wfo-0000908033,4138749,,
-6ba5c1d8-8fcd-11eb-924d-9cd76263cbd0,species,decora,Zonotriche,,"(Stapf) J.B.Phipps",,1964,,"Kirkia 4: 113 1964",,,,,,,wfo-0000908034,4138742,,
-6ba5dc90-8fcd-11eb-924d-9cd76263cbd0,species,inamoena,Zonotriche,,"(K.Schum.) Clayton",,1967,,"Kew Bull. 21: 124 1967",,Q55779096,,,,426987-1,wfo-0000908035,4138732,,
+ec3cec0a-8fd1-11eb-924d-9cd76263cbd0,genus,Zonotriche,,,"(C.E.Hubb.) J.B.Phipps","Q2353716,Q5925683",1964,,"Kirkia 4: 113. 1964.",,Q91469059,,,,19291-1,wfo-4000041270,4138733,,
+6ba5a77a-8fcd-11eb-924d-9cd76263cbd0,species,brunnea,Zonotriche,,"(J.B.Phipps) Clayton","Q5925683,Q6167600",1971,,"Kew Bull. 26: 119 1971",,Q55784927,,58340f4c-8fcd-11eb-924d-9cd76263cbd0,,426985-1,wfo-0000908033,4138749,,
+6ba5c1d8-8fcd-11eb-924d-9cd76263cbd0,species,decora,Zonotriche,,"(Stapf) J.B.Phipps","Q78630,Q5925683",1964,,"Kirkia 4: 113 1964",,,,,,,wfo-0000908034,4138742,,
+6ba5dc90-8fcd-11eb-924d-9cd76263cbd0,species,inamoena,Zonotriche,,"(K.Schum.) Clayton","Q63545,Q6167600",1967,,"Kew Bull. 21: 124 1967",,Q55779096,,,,426987-1,wfo-0000908035,4138732,,

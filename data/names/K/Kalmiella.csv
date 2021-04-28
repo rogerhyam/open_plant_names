@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e54dd7a6-8fd1-11eb-924d-9cd76263cbd0,genus,Kalmiella,,,Small,,,,"Fl. S.E. U.S. 886, 1336. 1903. (22 Jul 1903)",,,,,,,wfo-4000019802,7327571,,
-2929f4c4-8fcc-11eb-924d-9cd76263cbd0,species,aggregata,Kalmiella,,Small,,1914,,"N. Amer. Fl. 29: 54 1914",,,,,,133244-2,wfo-0000356098,4164725,,
-b3236ac0-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Kalmiella,,"(C.Wright ex Griseb.) Small",,1914,,"N. Amer. Fl. 29(1): 54 1914",,,,b1dbcbf2-8fcd-11eb-924d-9cd76263cbd0,,133245-2,wfo-0001230280,4164712,,
-b1c4be4e-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Kalmiella,,"(Walter) Small",,1903,,"Fl. S.E. U.S. 886 1903",,,,b179f814-8fcd-11eb-924d-9cd76263cbd0,,133246-2,wfo-0001047721,2882994,,
-b323c718-8fd1-11eb-924d-9cd76263cbd0,species,simulata,Kalmiella,,"Britton & M.Wilson",,1920,,"Mem. Torrey Bot. Club 16: 93 1920",,,,,,133247-2,wfo-0001230283,4164686,,
+e54dd7a6-8fd1-11eb-924d-9cd76263cbd0,genus,Kalmiella,,,Small,Q2590065,,,"Fl. S.E. U.S. 886, 1336. 1903. (22 Jul 1903)",,,,,,,wfo-4000019802,7327571,,
+2929f4c4-8fcc-11eb-924d-9cd76263cbd0,species,aggregata,Kalmiella,,Small,Q2590065,1914,,"N. Amer. Fl. 29: 54 1914",,,,,,133244-2,wfo-0000356098,4164725,,
+b3236ac0-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Kalmiella,,"(C.Wright ex Griseb.) Small","Q721062,Q76351,Q2590065",1914,,"N. Amer. Fl. 29(1): 54 1914",,,,b1dbcbf2-8fcd-11eb-924d-9cd76263cbd0,,133245-2,wfo-0001230280,4164712,,
+b1c4be4e-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Kalmiella,,"(Walter) Small","Q1366734,Q2590065",1903,,"Fl. S.E. U.S. 886 1903",,,,b179f814-8fcd-11eb-924d-9cd76263cbd0,,133246-2,wfo-0001047721,2882994,,
+b323c718-8fd1-11eb-924d-9cd76263cbd0,species,simulata,Kalmiella,,"Britton & M.Wilson","Q553714,Q21612782",1920,,"Mem. Torrey Bot. Club 16: 93 1920",,,,,,133247-2,wfo-0001230283,4164686,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e624d756-8fd1-11eb-924d-9cd76263cbd0,genus,Lyallia,,,Hook.f.,,1847,,"Fl. Antarct. 548. 1847.",,,,,,6343-1,wfo-4000022469,3701793,,
-b511829a-8fd1-11eb-924d-9cd76263cbd0,species,andicola,Lyallia,,Phil.,,,,,,,,,,,wfo-0001233834,3701798,,
-2dd86bb8-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Lyallia,,"(Hook.f.) Nyananyo & Heywood",,1987,,"Taxon 36: 641 1987",,Q28956639,,,,944546-1,wfo-0000363924,3701794,,
-2dd84e58-8fcc-11eb-924d-9cd76263cbd0,species,kerguelensis,Lyallia,,Hook.f.,,1847,,"Fl. Antarct. 548 1847",,,,,,155006-1,wfo-0000363923,3701799,,
-446fd166-8fc9-11eb-924d-9cd76263cbd0,species,ahmedii,Lyauteya,,"(Batt. & Pit.) Maire",,,,,,,,,,,wfo-0000212129,2977782,,
+e624d756-8fd1-11eb-924d-9cd76263cbd0,genus,Lyallia,,,Hook.f.,Q157501,1847,,"Fl. Antarct. 548. 1847.",,,,,,6343-1,wfo-4000022469,3701793,,
+b511829a-8fd1-11eb-924d-9cd76263cbd0,species,andicola,Lyallia,,Phil.,Q214994,,,,,,,,,,wfo-0001233834,3701798,,
+2dd86bb8-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Lyallia,,"(Hook.f.) Nyananyo & Heywood","Q157501,Q26713752,Q444382",1987,,"Taxon 36: 641 1987",,Q28956639,,,,944546-1,wfo-0000363924,3701794,,
+2dd84e58-8fcc-11eb-924d-9cd76263cbd0,species,kerguelensis,Lyallia,,Hook.f.,Q157501,1847,,"Fl. Antarct. 548 1847",,,,,,155006-1,wfo-0000363923,3701799,,
+446fd166-8fc9-11eb-924d-9cd76263cbd0,species,ahmedii,Lyauteya,,"(Batt. & Pit.) Maire","Q2597737,Q2958169,Q2661320",,,,,,,,,,wfo-0000212129,2977782,,

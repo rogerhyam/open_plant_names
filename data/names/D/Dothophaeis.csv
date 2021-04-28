@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9c914ace-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dothophaeis,,,Clem.,,1931,,"in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 291 (1931)",,,,9c914ace-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1706," "
-73b08026-9bac-11eb-a8a2-19ed5c03f8d3,species,kilimandscharica,Dothophaeis,,"(Henn.) Clem. & Shear",,1931,,"Gen. fung. (Minneapolis), Edn 2 (1931)",,,,,,,,,431593," "
-c3ddd494-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Dottulis,,"(Lindl.) Raf.",,1836,,"Fl. Tellur. 2: 60 1836",,,,,,,wfo-0001088659,8182119,,
-8158cdf4-8fcd-11eb-924d-9cd76263cbd0,species,alba,Douarrea,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 223 1860",,,,,,748606-1,wfo-0000945269,2922788,,
-8158ebb8-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Douarrea,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 222 1860",,,,,,748607-1,wfo-0000945270,2923323,,
+9c914ace-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dothophaeis,,,Clem.,Q920184,1931,,"in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 291 (1931)",,,,9c914ace-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1706," "
+73b08026-9bac-11eb-a8a2-19ed5c03f8d3,species,kilimandscharica,Dothophaeis,,"(Henn.) Clem. & Shear","Q4497246,Q920184,Q2596205",1931,,"Gen. fung. (Minneapolis), Edn 2 (1931)",,,,,,,,,431593," "
+c3ddd494-8fcd-11eb-924d-9cd76263cbd0,species,grandiflora,Dottulis,,"(Lindl.) Raf.","Q378629,Q364857",1836,,"Fl. Tellur. 2: 60 1836",,,,,,,wfo-0001088659,8182119,,
+8158cdf4-8fcd-11eb-924d-9cd76263cbd0,species,alba,Douarrea,,Montrouz.,Q743935,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 223 1860",,,,,,748606-1,wfo-0000945269,2922788,,
+8158ebb8-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Douarrea,,Montrouz.,Q743935,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 222 1860",,,,,,748607-1,wfo-0000945270,2923323,,

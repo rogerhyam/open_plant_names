@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e50fa940-8fd1-11eb-924d-9cd76263cbd0,genus,Ighermia,,,Wiklund,,,,,,Q95997666,,,,893295-1,wfo-4000018981,3088748,,
-75687cba-8fb9-11eb-924d-9cd76263cbd0,species,pinifolia,Ighermia,,"(Maire & Wilczek) Wiklund",,1983,,"445 1983",,Q95997666,,,,912720-1,wfo-0000118541,3115021,,
-f0a1a5a6-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Igidia,,"(H.Perrier) Speta",,1998,,"Phyton (Horn) 38: 70 1998",,,,1c07a902-8fcd-11eb-924d-9cd76263cbd0,,1003396-1,wfo-0000671600,3647456,,
-bd599ba8-8fcd-11eb-924d-9cd76263cbd0,species,amara,Ignatia,,L.f.,,1781,,"Suppl. Pl. 149 1781",,,,,,546490-1,wfo-0001074232,7494832,,
+e50fa940-8fd1-11eb-924d-9cd76263cbd0,genus,Ighermia,,,Wiklund,Q5696462,,,,,Q95997666,,,,893295-1,wfo-4000018981,3088748,,
+75687cba-8fb9-11eb-924d-9cd76263cbd0,species,pinifolia,Ighermia,,"(Maire & Wilczek) Wiklund","Q2661320,Q3057217,Q5696462",1983,,"445 1983",,Q95997666,,,,912720-1,wfo-0000118541,3115021,,
+f0a1a5a6-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Igidia,,"(H.Perrier) Speta","Q2564623,Q86532",1998,,"Phyton (Horn) 38: 70 1998",,,,1c07a902-8fcd-11eb-924d-9cd76263cbd0,,1003396-1,wfo-0000671600,3647456,,
+bd599ba8-8fcd-11eb-924d-9cd76263cbd0,species,amara,Ignatia,,L.f.,Q178823,1781,,"Suppl. Pl. 149 1781",,,,,,546490-1,wfo-0001074232,7494832,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2326d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Crossosperma,,,T.G.Hartley,,,,,,,,,,999105-1,wfo-4000009776,7269064,,
-d694292c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Crossosperma,,T.G.Hartley,,1997,,"Adansonia III, 19: 206 1997",,,,,,999106-1,wfo-0000626489,3833172,,
-d69443c6-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Crossosperma,,"(Guillaumin) T.G.Hartley",,1997,,"Adansonia III, 19: 208 1997",,,,,,999107-1,wfo-0000626490,3833164,,
+e2326d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Crossosperma,,,T.G.Hartley,Q349605,,,,,,,,,999105-1,wfo-4000009776,7269064,,
+d694292c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Crossosperma,,T.G.Hartley,Q349605,1997,,"Adansonia III, 19: 206 1997",,,,,,999106-1,wfo-0000626489,3833172,,
+d69443c6-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Crossosperma,,"(Guillaumin) T.G.Hartley","Q2847911,Q349605",1997,,"Adansonia III, 19: 208 1997",,,,,,999107-1,wfo-0000626490,3833164,,

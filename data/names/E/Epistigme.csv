@@ -1,23 +1,23 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 989d8248-9bad-11eb-a8a2-19ed5c03f8d3,genus,Epistigme,,,Syd.,,1924,,"Annls mycol. 22(3/6): 431 (1924)",,,,989d8248-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8193," "
-1c4aeae6-9bad-11eb-a8a2-19ed5c03f8d3,species,erodens,Epistigme,,"Bat. & R. Garnier",,1966,,"Atas Inst. Micol. Univ. Recife 3: 14 (1966)",,,,1c4aeae6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330671," "
-f25603ce-9bac-11eb-a8a2-19ed5c03f8d3,species,ingae,Epistigme,,"Bat. & A.F. Vital",,,,,,,,f25603ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297312," "
-f2565a9a-9bac-11eb-a8a2-19ed5c03f8d3,species,laporteae,Epistigme,,"(Peck) Arx",,,,,,,,88fa75c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297313," "
+1c4aeae6-9bad-11eb-a8a2-19ed5c03f8d3,species,erodens,Epistigme,,"Bat. & R. Garnier",Q4079389,1966,,"Atas Inst. Micol. Univ. Recife 3: 14 (1966)",,,,1c4aeae6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330671," "
+f25603ce-9bac-11eb-a8a2-19ed5c03f8d3,species,ingae,Epistigme,,"Bat. & A.F. Vital",Q4079389,,,,,,,f25603ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297312," "
+f2565a9a-9bac-11eb-a8a2-19ed5c03f8d3,species,laporteae,Epistigme,,"(Peck) Arx",Q1064899,,,,,,,88fa75c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297313," "
 c0ad3234-9bac-11eb-a8a2-19ed5c03f8d3,species,nidulans,Epistigme,,Syd.,,1924,,"Annls mycol. 22(3/6): 431 (1924)",,,,c0ad3234-9bac-11eb-a8a2-19ed5c03f8d3,,,,,272226," "
-1c4b1b9c-9bad-11eb-a8a2-19ed5c03f8d3,species,parmulariicola,Epistigme,,"Bat., R. Garnier & J.L. Bezerra",,1966,,"Publicações. Instituto de Micologia da Universidade de Pernambuco 506: 13 (1966)",,,,1c4b1b9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330672," "
-1c4b4982-9bad-11eb-a8a2-19ed5c03f8d3,species,teucrii,Epistigme,,"Bat. & H. Maia",,,,,,,,1c4b4982-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330673," "
-8493acbe-8fcd-11eb-924d-9cd76263cbd0,species,axillare,Epistylium,,"(Sw.) Sw.",,,,"Fl. Ind. Occid. 2: 1095 1800",,,,,,345309-1,wfo-0000952458,5382347,,
-8493c82a-8fcd-11eb-924d-9cd76263cbd0,species,cauliflorum,Epistylium,,"(Sw.) Sw.",,,,"Fl. Ind. Occid. 2: 1095 1800",,,,,,345310-1,wfo-0000952459,5382625,,
-8493e42c-8fcd-11eb-924d-9cd76263cbd0,species,cordifolium,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345311-1,wfo-0000952460,5382240,,
-849400c4-8fcd-11eb-924d-9cd76263cbd0,species,floribundum,Epistylium,,Thwaites,,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345312-1,wfo-0000952461,5381503,,
-84941c4e-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345313-1,wfo-0000952462,5381515,,
-849437f6-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Epistylium,,"(Wight) Thwaites",,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,1eace3a8-8fcc-11eb-924d-9cd76263cbd0,,345314-1,wfo-0000952463,5382239,,
-8494536c-8fcd-11eb-924d-9cd76263cbd0,species,leptocladon,Epistylium,,"(Benth.) Hance",,1862,,"Ann. Sci. Nat., Bot. IV, 18: 229 1862",,,,f2e648b2-8fcc-11eb-924d-9cd76263cbd0,,345315-1,wfo-0000952464,5382174,,
-84946bea-8fcd-11eb-924d-9cd76263cbd0,species,montanum,Epistylium,,Thwaites,,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345316-1,wfo-0000952465,5382043,,
-849485bc-8fcd-11eb-924d-9cd76263cbd0,species,phyllanthoides,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345317-1,wfo-0000952466,5381518,,
-8494a1aa-8fcd-11eb-924d-9cd76263cbd0,species,polyphyllum,Epistylium,,"(Wight) Thwaites",,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345318-1,wfo-0000952467,5382369,,
-8494bb4a-8fcd-11eb-924d-9cd76263cbd0,species,pulchrum,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345319-1,wfo-0000952468,5381521,,
-8494d878-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345320-1,wfo-0000952469,5382351,,
-8494f204-8fcd-11eb-924d-9cd76263cbd0,species,zeylanicum,Epistylium,,Baill.,,1858,,"Étude Euphorb. 648 1858",,,,,,345321-1,wfo-0000952470,5382372,,
-84950e06-8fcd-11eb-924d-9cd76263cbd0,species,oahuense,Episyzygium,,"Suess. & A.Ludw.",,1950,,"Mitt. Bot. Staatssamml. München 1: 18 1950",,,,,,592567-1,wfo-0000952471,6306355,,
-84952a12-8fcd-11eb-924d-9cd76263cbd0,species,myrmoecia,Epitaberna,,K.Schum.,,1903,,"Bot. Jahrb. Syst. 33: 317 1903",,,,,,78880-1,wfo-0000952472,2899515,,
+1c4b1b9c-9bad-11eb-a8a2-19ed5c03f8d3,species,parmulariicola,Epistigme,,"Bat., R. Garnier & J.L. Bezerra",Q4079389,1966,,"Publicações. Instituto de Micologia da Universidade de Pernambuco 506: 13 (1966)",,,,1c4b1b9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330672," "
+1c4b4982-9bad-11eb-a8a2-19ed5c03f8d3,species,teucrii,Epistigme,,"Bat. & H. Maia",Q4079389,,,,,,,1c4b4982-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330673," "
+8493acbe-8fcd-11eb-924d-9cd76263cbd0,species,axillare,Epistylium,,"(Sw.) Sw.",Q632088,,,"Fl. Ind. Occid. 2: 1095 1800",,,,,,345309-1,wfo-0000952458,5382347,,
+8493c82a-8fcd-11eb-924d-9cd76263cbd0,species,cauliflorum,Epistylium,,"(Sw.) Sw.",Q632088,,,"Fl. Ind. Occid. 2: 1095 1800",,,,,,345310-1,wfo-0000952459,5382625,,
+8493e42c-8fcd-11eb-924d-9cd76263cbd0,species,cordifolium,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345311-1,wfo-0000952460,5382240,,
+849400c4-8fcd-11eb-924d-9cd76263cbd0,species,floribundum,Epistylium,,Thwaites,Q2656749,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345312-1,wfo-0000952461,5381503,,
+84941c4e-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345313-1,wfo-0000952462,5381515,,
+849437f6-8fcd-11eb-924d-9cd76263cbd0,species,latifolium,Epistylium,,"(Wight) Thwaites","Q1375864,Q2656749",1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,1eace3a8-8fcc-11eb-924d-9cd76263cbd0,,345314-1,wfo-0000952463,5382239,,
+8494536c-8fcd-11eb-924d-9cd76263cbd0,species,leptocladon,Epistylium,,"(Benth.) Hance","Q731808,Q2657692",1862,,"Ann. Sci. Nat., Bot. IV, 18: 229 1862",,,,f2e648b2-8fcc-11eb-924d-9cd76263cbd0,,345315-1,wfo-0000952464,5382174,,
+84946bea-8fcd-11eb-924d-9cd76263cbd0,species,montanum,Epistylium,,Thwaites,Q2656749,1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345316-1,wfo-0000952465,5382043,,
+849485bc-8fcd-11eb-924d-9cd76263cbd0,species,phyllanthoides,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345317-1,wfo-0000952466,5381518,,
+8494a1aa-8fcd-11eb-924d-9cd76263cbd0,species,polyphyllum,Epistylium,,"(Wight) Thwaites","Q1375864,Q2656749",1861,,"Enum. Pl. Zeyl. 283 1861",,Q96016554,,,,345318-1,wfo-0000952467,5382369,,
+8494bb4a-8fcd-11eb-924d-9cd76263cbd0,species,pulchrum,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345319-1,wfo-0000952468,5381521,,
+8494d878-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345320-1,wfo-0000952469,5382351,,
+8494f204-8fcd-11eb-924d-9cd76263cbd0,species,zeylanicum,Epistylium,,Baill.,Q461931,1858,,"Étude Euphorb. 648 1858",,,,,,345321-1,wfo-0000952470,5382372,,
+84950e06-8fcd-11eb-924d-9cd76263cbd0,species,oahuense,Episyzygium,,"Suess. & A.Ludw.","Q91125,Q6382619",1950,,"Mitt. Bot. Staatssamml. München 1: 18 1950",,,,,,592567-1,wfo-0000952471,6306355,,
+84952a12-8fcd-11eb-924d-9cd76263cbd0,species,myrmoecia,Epitaberna,,K.Schum.,Q63545,1903,,"Bot. Jahrb. Syst. 33: 317 1903",,,,,,78880-1,wfo-0000952472,2899515,,

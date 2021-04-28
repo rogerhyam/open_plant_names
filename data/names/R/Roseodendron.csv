@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9c79646-8fd1-11eb-924d-9cd76263cbd0,genus,Roseodendron,,,Miranda,,1965,,"Bol. Soc. Bot. México 29: 42. 1965.",,Q96016802,,,,296296-2,wfo-4000033495,6401220,,
-2986d1f2-8fcd-11eb-924d-9cd76263cbd0,species,chryseum,Roseodendron,,"(S.F.Blake) Miranda",,1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,,,222517-2,wfo-0000779515,4091640,,
-2986ef52-8fcd-11eb-924d-9cd76263cbd0,species,donnell-smithii,Roseodendron,,"(Rose) Miranda",,1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,29d1fa9c-8fcd-11eb-924d-9cd76263cbd0,,222518-2,wfo-0000779516,3172541,,
-2af8a164-8fcd-11eb-924d-9cd76263cbd0,species,millsii,Roseodendron,,"(Miranda) Miranda",,1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,2ac6752c-8fcd-11eb-924d-9cd76263cbd0,,222519-2,wfo-0000782541,4091601,,
+e9c79646-8fd1-11eb-924d-9cd76263cbd0,genus,Roseodendron,,,Miranda,Q5405844,1965,,"Bol. Soc. Bot. México 29: 42. 1965.",,Q96016802,,,,296296-2,wfo-4000033495,6401220,,
+2986d1f2-8fcd-11eb-924d-9cd76263cbd0,species,chryseum,Roseodendron,,"(S.F.Blake) Miranda","Q2332170,Q5405844",1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,,,222517-2,wfo-0000779515,4091640,,
+2986ef52-8fcd-11eb-924d-9cd76263cbd0,species,donnell-smithii,Roseodendron,,"(Rose) Miranda","Q1336049,Q5405844",1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,29d1fa9c-8fcd-11eb-924d-9cd76263cbd0,,222518-2,wfo-0000779516,3172541,,
+2af8a164-8fcd-11eb-924d-9cd76263cbd0,species,millsii,Roseodendron,,"(Miranda) Miranda",Q5405844,1965,,"Bol. Soc. Bot. México 29: 43 1965",,Q96016802,,2ac6752c-8fcd-11eb-924d-9cd76263cbd0,,222519-2,wfo-0000782541,4091601,,

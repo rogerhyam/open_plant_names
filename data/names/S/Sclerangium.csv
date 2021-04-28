@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9de3537c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sclerangium,,,Lév.,,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,9de3537c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19308," "
-15b093c0-9bad-11eb-a8a2-19ed5c03f8d3,species,bermudense,Sclerangium,,"(Coker) D.A. Reid",,1977,,"Kew Bull., Addit. Ser. 31(3): 681 (1977)",,,,d5648f88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,323240," "
-a57c1da4-9bac-11eb-a8a2-19ed5c03f8d3,variety,bermudense,Sclerangium,bermudense,"(Coker) D.A. Reid",,,,,,,,a57c1da4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,427359," "
+9de3537c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sclerangium,,,Lév.,Q1375120,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,9de3537c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19308," "
+15b093c0-9bad-11eb-a8a2-19ed5c03f8d3,species,bermudense,Sclerangium,,"(Coker) D.A. Reid",Q2331087,1977,,"Kew Bull., Addit. Ser. 31(3): 681 (1977)",,,,d5648f88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,323240," "
+a57c1da4-9bac-11eb-a8a2-19ed5c03f8d3,variety,bermudense,Sclerangium,bermudense,"(Coker) D.A. Reid",Q2331087,,,,,,,a57c1da4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,427359," "
 2cd3493a-9bad-11eb-a8a2-19ed5c03f8d3,variety,trinitense,Sclerangium,bermudense,"D.A. Reid",,1977,,"Kew Bull., Addit. Ser. 31(3): 681 (1977)",,,,2cd3493a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,348855," "
-b5154a14-9bad-11eb-a8a2-19ed5c03f8d3,species,brasiliense,Sclerangium,,Henn.,,,,,,,,b5154a14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211798," "
-111b201a-9bac-11eb-a8a2-19ed5c03f8d3,species,michelii,Sclerangium,,Lév.,,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,111b201a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211499," "
-257a2740-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrhiza,Sclerangium,,Lév.,,,,,,,,257a2740-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280992," Sclerangium polyrhizon"
-959de692-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrhizon,Sclerangium,,Lév.,,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,959de692-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206625," polyrhiza"
-ae75dd5a-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrrhizon,Sclerangium,,"(J.F. Gmel.) Lév.",,,,,,,,,,,,,123093," "
-0afa2776-8fcc-11eb-924d-9cd76263cbd0,species,cambodiensis,Scleranthera,,"(Pierre ex Pit.) Pichon",,1951,,"Notul. Syst. (Paris) 14: 89 1951",,,,1ba47842-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000307425,3614712,,
-0afa4526-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Scleranthera,,"(Sims) Pichon",,1951,,"Notul. Syst. (Paris) 14: 90 1951",,,,2f4a67ca-8fcd-11eb-924d-9cd76263cbd0,,81766-1,wfo-0000307426,3614703,,
+b5154a14-9bad-11eb-a8a2-19ed5c03f8d3,species,brasiliense,Sclerangium,,Henn.,Q4497246,,,,,,,b5154a14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211798," "
+111b201a-9bac-11eb-a8a2-19ed5c03f8d3,species,michelii,Sclerangium,,Lév.,Q1375120,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,111b201a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211499," "
+257a2740-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrhiza,Sclerangium,,Lév.,Q1375120,,,,,,,257a2740-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280992," Sclerangium polyrhizon"
+959de692-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrhizon,Sclerangium,,Lév.,Q1375120,1848,,"Annls Sci. Nat., Bot., sér. 3 9: 130 (1848)",,,,959de692-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206625," polyrhiza"
+ae75dd5a-9bac-11eb-a8a2-19ed5c03f8d3,species,polyrrhizon,Sclerangium,,"(J.F. Gmel.) Lév.",Q1375120,,,,,,,,,,,,123093," "
+0afa2776-8fcc-11eb-924d-9cd76263cbd0,species,cambodiensis,Scleranthera,,"(Pierre ex Pit.) Pichon","Q2593213,Q2958169,Q2338866",1951,,"Notul. Syst. (Paris) 14: 89 1951",,,,1ba47842-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000307425,3614712,,
+0afa4526-8fcc-11eb-924d-9cd76263cbd0,species,dubia,Scleranthera,,"(Sims) Pichon","Q2430593,Q2338866",1951,,"Notul. Syst. (Paris) 14: 90 1951",,,,2f4a67ca-8fcd-11eb-924d-9cd76263cbd0,,81766-1,wfo-0000307426,3614703,,

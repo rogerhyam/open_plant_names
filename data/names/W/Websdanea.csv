@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a52e541a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Websdanea,,,Vánky,,1997,,"Mycotaxon 65: 184 (1997)",,,,a52e541a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27732," "
-56b45726-9bad-11eb-a8a2-19ed5c03f8d3,species,lyginiae,Websdanea,,"(Websdane, Sivasith., K.W. Dixon & Pate) Vánky",,1997,,"Mycotaxon 65: 184 (1997)",,,,34bdac30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,442454," "
-caabdb78-8fcc-11eb-924d-9cd76263cbd0,species,confervoides,Websteria,,"(Poir.) S.S.Hooper",,1972,,"Kew Bull. 26: 582 1972",,Q43234806,,9efde160-8fcc-11eb-924d-9cd76263cbd0,,315926-1,wfo-0000606468,5292806,,
-caadaebc-8fcc-11eb-924d-9cd76263cbd0,species,limnophila,Websteria,,C.Wright,,1887,,"Bull. Torrey Bot. Club 14: 135 1887",,,,,,,wfo-0000606480,5292808,,
-caaf58de-8fcc-11eb-924d-9cd76263cbd0,species,submersa,Websteria,,"(C.Wright) Britton",,1888,,"Bull. Torrey Bot. Club 15: 99 1888",,Q55766376,,,,315928-1,wfo-0000606491,8638549,,
-33a45894-8fcd-11eb-924d-9cd76263cbd0,variety,luetzelburgii,Websteria,submersa,Suess.,,1943,,"Bot. Jahrb. Syst. 73: 125 1943",,,,,,267854-2,wfo-0000801446,5292809,,
-33a47432-8fcd-11eb-924d-9cd76263cbd0,variety,negrensis,Websteria,submersa,Suess.,,1943,,"Bot. Jahrb. Syst. 73: 124 1943",,,,,,267855-2,wfo-0000801447,5292811,,
+56b45726-9bad-11eb-a8a2-19ed5c03f8d3,species,lyginiae,Websdanea,,"(Websdane, Sivasith., K.W. Dixon & Pate) Vánky",Q21522676,1997,,"Mycotaxon 65: 184 (1997)",,,,34bdac30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,442454," "
+caabdb78-8fcc-11eb-924d-9cd76263cbd0,species,confervoides,Websteria,,"(Poir.) S.S.Hooper","Q966539,Q5653952",1972,,"Kew Bull. 26: 582 1972",,Q43234806,,9efde160-8fcc-11eb-924d-9cd76263cbd0,,315926-1,wfo-0000606468,5292806,,
+caadaebc-8fcc-11eb-924d-9cd76263cbd0,species,limnophila,Websteria,,C.Wright,Q721062,1887,,"Bull. Torrey Bot. Club 14: 135 1887",,,,,,,wfo-0000606480,5292808,,
+caaf58de-8fcc-11eb-924d-9cd76263cbd0,species,submersa,Websteria,,"(C.Wright) Britton","Q721062,Q553714",1888,,"Bull. Torrey Bot. Club 15: 99 1888",,Q55766376,,,,315928-1,wfo-0000606491,8638549,,
+33a45894-8fcd-11eb-924d-9cd76263cbd0,variety,luetzelburgii,Websteria,submersa,Suess.,Q91125,1943,,"Bot. Jahrb. Syst. 73: 125 1943",,,,,,267854-2,wfo-0000801446,5292809,,
+33a47432-8fcd-11eb-924d-9cd76263cbd0,variety,negrensis,Websteria,submersa,Suess.,Q91125,1943,,"Bot. Jahrb. Syst. 73: 124 1943",,,,,,267855-2,wfo-0000801447,5292811,,

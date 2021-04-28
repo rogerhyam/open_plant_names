@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-3b0ca622-9bad-11eb-a8a2-19ed5c03f8d3,genus,Thyrodochium,,,Werderm.,,1924,,"in Sydow & Werdermann, Annls mycol. 22(1/2): 188 (1924)",,,,3b0ca622-9bad-11eb-a8a2-19ed5c03f8d3,,,,,10222," "
-73b41e70-9bac-11eb-a8a2-19ed5c03f8d3,species,dracaenae,Thyrodochium,,Werderm.,,1924,,"Annls mycol. 22: (1924)",,,,73b41e70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432142," "
-165dd45a-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Thyroma,,"(Mart.) Miers",,1878,,"Apocyn. S. Amer. 25 1878",,,,,,82466-1,wfo-0000325000,3619715,,
-165e3e18-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 24 1878",,,,,,82467-1,wfo-0000325001,3619709,,
-165e9412-8fcc-11eb-924d-9cd76263cbd0,species,lhotzkiana,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 25 1878",,,,,,82468-1,wfo-0000325002,3619699,,
-165eb654-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Thyroma,,"(Benth. ex Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 24 1878",,,,,,82469-1,wfo-0000325003,3619687,,
-165ed526-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Thyroma,,"(A.DC.) Miers",,1878,,"Apocyn. S. Amer. 25 1878",,,,,,82470-1,wfo-0000325004,3619679,,
-165efe52-8fcc-11eb-924d-9cd76263cbd0,species,polyneura,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 24 1878",,,,,,82471-1,wfo-0000325005,3619670,,
-165f1d60-8fcc-11eb-924d-9cd76263cbd0,species,riedelii,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 26 1878",,,,,,82472-1,wfo-0000325006,3619660,,
-165f3c78-8fcc-11eb-924d-9cd76263cbd0,species,sellowii,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 24 1878",,,,,,82473-1,wfo-0000325007,3619650,,
-165f65a4-8fcc-11eb-924d-9cd76263cbd0,species,sessiliflora,Thyroma,,"(Müll.Arg.) Miers",,1878,,"Apocyn. S. Amer. 23 1878",,,,dee1a68c-8fcb-11eb-924d-9cd76263cbd0,,82474-1,wfo-0000325008,3619640,,
+3b0ca622-9bad-11eb-a8a2-19ed5c03f8d3,genus,Thyrodochium,,,Werderm.,Q77133,1924,,"in Sydow & Werdermann, Annls mycol. 22(1/2): 188 (1924)",,,,3b0ca622-9bad-11eb-a8a2-19ed5c03f8d3,,,,,10222," "
+73b41e70-9bac-11eb-a8a2-19ed5c03f8d3,species,dracaenae,Thyrodochium,,Werderm.,Q77133,1924,,"Annls mycol. 22: (1924)",,,,73b41e70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432142," "
+165dd45a-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Thyroma,,"(Mart.) Miers","Q77131,Q575253",1878,,"Apocyn. S. Amer. 25 1878",,,,,,82466-1,wfo-0000325000,3619715,,
+165e3e18-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 24 1878",,,,,,82467-1,wfo-0000325001,3619709,,
+165e9412-8fcc-11eb-924d-9cd76263cbd0,species,lhotzkiana,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 25 1878",,,,,,82468-1,wfo-0000325002,3619699,,
+165eb654-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Thyroma,,"(Benth. ex Müll.Arg.) Miers","Q731808,Q2504914,Q575253",1878,,"Apocyn. S. Amer. 24 1878",,,,,,82469-1,wfo-0000325003,3619687,,
+165ed526-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Thyroma,,"(A.DC.) Miers","Q123807,Q575253",1878,,"Apocyn. S. Amer. 25 1878",,,,,,82470-1,wfo-0000325004,3619679,,
+165efe52-8fcc-11eb-924d-9cd76263cbd0,species,polyneura,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 24 1878",,,,,,82471-1,wfo-0000325005,3619670,,
+165f1d60-8fcc-11eb-924d-9cd76263cbd0,species,riedelii,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 26 1878",,,,,,82472-1,wfo-0000325006,3619660,,
+165f3c78-8fcc-11eb-924d-9cd76263cbd0,species,sellowii,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 24 1878",,,,,,82473-1,wfo-0000325007,3619650,,
+165f65a4-8fcc-11eb-924d-9cd76263cbd0,species,sessiliflora,Thyroma,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 23 1878",,,,dee1a68c-8fcb-11eb-924d-9cd76263cbd0,,82474-1,wfo-0000325008,3619640,,

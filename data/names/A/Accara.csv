@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-debbdff0-8fd1-11eb-924d-9cd76263cbd0,genus,Accara,,,Landrum,,1990,,"Syst. Bot. 15: 221. 1990.",,Q55765467,,,,925280-1,wfo-4000000181,3185110,,
-fb15377e-8fcb-11eb-924d-9cd76263cbd0,species,elegans,Accara,,"(DC.) Landrum",,1990,,"Syst. Bot. 15: 221 1990",,Q55765467,,,,947894-1,wfo-0000282153,3185111,,
-fb338ad0-8fcb-11eb-924d-9cd76263cbd0,species,scandens,Accia,,A.St.-Hil.,,1840,,"Morphol. 499 1840",,,,,,337952-1,wfo-0000282363,5379822,,
+debbdff0-8fd1-11eb-924d-9cd76263cbd0,genus,Accara,,,Landrum,Q6531086,1990,,"Syst. Bot. 15: 221. 1990.",,Q55765467,,,,925280-1,wfo-4000000181,3185110,,
+fb15377e-8fcb-11eb-924d-9cd76263cbd0,species,elegans,Accara,,"(DC.) Landrum","Q123057,Q6531086",1990,,"Syst. Bot. 15: 221 1990",,Q55765467,,,,947894-1,wfo-0000282153,3185111,,
+fb338ad0-8fcb-11eb-924d-9cd76263cbd0,species,scandens,Accia,,A.St.-Hil.,Q707961,1840,,"Morphol. 499 1840",,,,,,337952-1,wfo-0000282363,5379822,,

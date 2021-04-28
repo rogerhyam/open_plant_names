@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e676d768-8fd1-11eb-924d-9cd76263cbd0,genus,Medranoa,,,"Urbatsch & R.P.Roberts",,,,,,Q91203442,,,,60436348-2,wfo-4000023449,3099007,,
-ed09e6ea-8fb5-11eb-924d-9cd76263cbd0,species,parrasana,Medranoa,,"(S.F.Blake) Urbatsch & R.P.Roberts",,2004,,"Sida 21(1): 255. 2004 [20 Aug 2004]",,Q91203442,,068d9f66-8fbc-11eb-924d-9cd76263cbd0,,60436349-2,wfo-0000083749,3099008,,
-ab312b62-8fcd-11eb-924d-9cd76263cbd0,species,pseudobaccharis,Medranoa,,G.L.Nesom,,2007,,"J. Bot. Res. Inst. Texas 1(1): 148 2007",,Q99430900,,,,77093163-1,wfo-0001033016,4232192,,
-6cd9efe4-8fcc-11eb-924d-9cd76263cbd0,species,anguifera,Medusa,,Lour.,,1790,,"Fl. Cochinch. 406 1790",,,,,,866971-1,wfo-0000451845,5664022,,
+e676d768-8fd1-11eb-924d-9cd76263cbd0,genus,Medranoa,,,"Urbatsch & R.P.Roberts","Q5981690,Q6111188",,,,,Q91203442,,,,60436348-2,wfo-4000023449,3099007,,
+ed09e6ea-8fb5-11eb-924d-9cd76263cbd0,species,parrasana,Medranoa,,"(S.F.Blake) Urbatsch & R.P.Roberts","Q2332170,Q5981690,Q6111188",2004,,"Sida 21(1): 255. 2004 [20 Aug 2004]",,Q91203442,,068d9f66-8fbc-11eb-924d-9cd76263cbd0,,60436349-2,wfo-0000083749,3099008,,
+ab312b62-8fcd-11eb-924d-9cd76263cbd0,species,pseudobaccharis,Medranoa,,G.L.Nesom,Q5622397,2007,,"J. Bot. Res. Inst. Texas 1(1): 148 2007",,Q99430900,,,,77093163-1,wfo-0001033016,4232192,,
+6cd9efe4-8fcc-11eb-924d-9cd76263cbd0,species,anguifera,Medusa,,Lour.,Q729917,1790,,"Fl. Cochinch. 406 1790",,,,,,866971-1,wfo-0000451845,5664022,,

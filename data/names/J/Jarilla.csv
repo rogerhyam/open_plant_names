@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e53991ec-8fd1-11eb-924d-9cd76263cbd0,genus,Jarilla,,,Rusby,,1921,,"Torreya 21: 47. 1921. (May-Jun 1921)",,,,,,6150-1,wfo-4000019517,2874489,,
-bad7e7b4-8fd1-11eb-924d-9cd76263cbd0,species,caudata,Jarilla,,"(Brandegee) Standl.",,1924,,"Contr. U.S. Natl. Herb. 23(4): 853 1924",,Q95371736,,bf649b1a-8fcc-11eb-924d-9cd76263cbd0,,131403-2,wfo-0001244521,3838676,,
-d7c88e50-8fd1-11eb-924d-9cd76263cbd0,species,chocola,Jarilla,,Standl.,,1937,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 17(2): 200 1937",,,,,,131404-2,wfo-0001291241,2874491,,
-c648f782-8fd1-11eb-924d-9cd76263cbd0,species,heterophylla,Jarilla,,"(Cerv. ex La Llave) Rusby",,1921,,"Torreya 21(3): 50 1921",,,,be10baa0-8fd1-11eb-924d-9cd76263cbd0,,131405-2,wfo-0001265592,11030074,,
-c68658a2-8fd1-11eb-924d-9cd76263cbd0,species,nana,Jarilla,,"(Benth.) McVaugh",,2001,,"Fl. Novo-Galiciana 3: 475 2001",,,,,,20004880-1,wfo-0001266037,3838820,,
-c6493a3a-8fd1-11eb-924d-9cd76263cbd0,species,sesseana,Jarilla,,"(Ramírez) Rusby",,1921,,"Torreya 21: 47 1921",,,,c6491e1a-8fd1-11eb-924d-9cd76263cbd0,,131406-2,wfo-0001265594,3838804,,
+e53991ec-8fd1-11eb-924d-9cd76263cbd0,genus,Jarilla,,,Rusby,Q2611285,1921,,"Torreya 21: 47. 1921. (May-Jun 1921)",,,,,,6150-1,wfo-4000019517,2874489,,
+bad7e7b4-8fd1-11eb-924d-9cd76263cbd0,species,caudata,Jarilla,,"(Brandegee) Standl.","Q1002345,Q1333160",1924,,"Contr. U.S. Natl. Herb. 23(4): 853 1924",,Q95371736,,bf649b1a-8fcc-11eb-924d-9cd76263cbd0,,131403-2,wfo-0001244521,3838676,,
+d7c88e50-8fd1-11eb-924d-9cd76263cbd0,species,chocola,Jarilla,,Standl.,Q1333160,1937,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 17(2): 200 1937",,,,,,131404-2,wfo-0001291241,2874491,,
+c648f782-8fd1-11eb-924d-9cd76263cbd0,species,heterophylla,Jarilla,,"(Cerv. ex La Llave) Rusby","Q920680,Q2613638,Q2611285",1921,,"Torreya 21(3): 50 1921",,,,be10baa0-8fd1-11eb-924d-9cd76263cbd0,,131405-2,wfo-0001265592,11030074,,
+c68658a2-8fd1-11eb-924d-9cd76263cbd0,species,nana,Jarilla,,"(Benth.) McVaugh","Q731808,Q2063048",2001,,"Fl. Novo-Galiciana 3: 475 2001",,,,,,20004880-1,wfo-0001266037,3838820,,
+c6493a3a-8fd1-11eb-924d-9cd76263cbd0,species,sesseana,Jarilla,,"(Ramírez) Rusby","Q5944857,Q2611285",1921,,"Torreya 21: 47 1921",,,,c6491e1a-8fd1-11eb-924d-9cd76263cbd0,,131406-2,wfo-0001265594,3838804,,

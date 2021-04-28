@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a37e235c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Digraphis,,,Clem.,,1909,,"Gen. fung. (Minneapolis) 59, 174 (1909)",,,,a37e235c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1570," "
-5104ee6c-8fcd-11eb-924d-9cd76263cbd0,species,americana,Digraphis,,"Elliott ex Loudon",,1830,,"Hort. Brit. 27 1830",,,,,,399244-1,wfo-0000864545,5673117,,
-51050b0e-8fcd-11eb-924d-9cd76263cbd0,species,arundinacea,Digraphis,,"(L.) Trin.",,1820,,"Fund. Agrost. 127 1820",,,,,,399245-1,wfo-0000864546,5677053,,
-c85539f4-8fcd-11eb-924d-9cd76263cbd0,form,coarctata,Digraphis,arundinacea,Prahl,,,,"Krit. Fl. 245",,,,,,,wfo-0001098535,,,
-c8556b5e-8fcd-11eb-924d-9cd76263cbd0,form,pallida,Digraphis,arundinacea,Kuntze,,,,,,,,,,,wfo-0001098536,,,
-5105277e-8fcd-11eb-924d-9cd76263cbd0,variety,picta,Digraphis,arundinacea,"(L.) Pacher",,1880,,"Jahrb. Naturhist. Landesmus. Kärnten 14: 119 1880",,,,,,,wfo-0000864547,5945843,,
-8599058c-9bad-11eb-a8a2-19ed5c03f8d3,species,turbulenta,Digraphis,,"(Nyl.) Clem.",,1909,,"Gen. fung. (Minneapolis) (1909)",,,,86b9ab6a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384348," "
+a37e235c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Digraphis,,,Clem.,Q920184,1909,,"Gen. fung. (Minneapolis) 59, 174 (1909)",,,,a37e235c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1570," "
+5104ee6c-8fcd-11eb-924d-9cd76263cbd0,species,americana,Digraphis,,"Elliott ex Loudon","Q2982922,Q1346111",1830,,"Hort. Brit. 27 1830",,,,,,399244-1,wfo-0000864545,5673117,,
+51050b0e-8fcd-11eb-924d-9cd76263cbd0,species,arundinacea,Digraphis,,"(L.) Trin.","Q1043,Q65867",1820,,"Fund. Agrost. 127 1820",,,,,,399245-1,wfo-0000864546,5677053,,
+c85539f4-8fcd-11eb-924d-9cd76263cbd0,form,coarctata,Digraphis,arundinacea,Prahl,Q6073468,,,"Krit. Fl. 245",,,,,,,wfo-0001098535,,,
+c8556b5e-8fcd-11eb-924d-9cd76263cbd0,form,pallida,Digraphis,arundinacea,Kuntze,Q62853,,,,,,,,,,wfo-0001098536,,,
+5105277e-8fcd-11eb-924d-9cd76263cbd0,variety,picta,Digraphis,arundinacea,"(L.) Pacher","Q1043,Q5800247",1880,,"Jahrb. Naturhist. Landesmus. Kärnten 14: 119 1880",,,,,,,wfo-0000864547,5945843,,
+8599058c-9bad-11eb-a8a2-19ed5c03f8d3,species,turbulenta,Digraphis,,"(Nyl.) Clem.","Q932083,Q920184",1909,,"Gen. fung. (Minneapolis) (1909)",,,,86b9ab6a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384348," "

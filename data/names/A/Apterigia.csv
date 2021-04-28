@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfa61b74-8fd1-11eb-924d-9cd76263cbd0,genus,Apterigia,,,Galushko,,1970,,"Novosti Sist. Vyss{. Rast. 6: 209. 1970.",,,,,,,wfo-4000002783,3041646,,
-a18f5de6-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Apterigia,,"(Ledeb.) Galushko",,1970,,"Novosti Sist. Vyssh. Rast. 6: 209 1970",,,,ac5f78e6-8fd1-11eb-924d-9cd76263cbd0,,277928-1,wfo-0000540985,5374719,,
-a18f77cc-8fcc-11eb-924d-9cd76263cbd0,species,rostrata,Apterigia,,"(N.Busch) Galushko",,1970,,"Novosti Sist. Vyssh. Rast. 6: 209 1970",,,,,,277929-1,wfo-0000540986,5377146,,
-ac35e044-8fd1-11eb-924d-9cd76263cbd0,species,zangezura,Apterigia,,F.K.Mey.,,,,,,,,,,,wfo-0001217641,7632830,,
+dfa61b74-8fd1-11eb-924d-9cd76263cbd0,genus,Apterigia,,,Galushko,Q18719735,1970,,"Novosti Sist. Vyss{. Rast. 6: 209. 1970.",,,,,,,wfo-4000002783,3041646,,
+a18f5de6-8fcc-11eb-924d-9cd76263cbd0,species,pumila,Apterigia,,"(Ledeb.) Galushko","Q64544,Q18719735",1970,,"Novosti Sist. Vyssh. Rast. 6: 209 1970",,,,ac5f78e6-8fd1-11eb-924d-9cd76263cbd0,,277928-1,wfo-0000540985,5374719,,
+a18f77cc-8fcc-11eb-924d-9cd76263cbd0,species,rostrata,Apterigia,,"(N.Busch) Galushko","Q2001947,Q18719735",1970,,"Novosti Sist. Vyssh. Rast. 6: 209 1970",,,,,,277929-1,wfo-0000540986,5377146,,
+ac35e044-8fd1-11eb-924d-9cd76263cbd0,species,zangezura,Apterigia,,F.K.Mey.,Q5869614,,,,,,,,,,wfo-0001217641,7632830,,

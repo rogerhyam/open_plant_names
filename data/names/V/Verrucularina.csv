@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebe86982-8fd1-11eb-924d-9cd76263cbd0,genus,Verrucularina,,,Rauschert,,1982,,"Taxon 31(3): 560. 1982.",,Q28955334,,,,893583-1,wfo-4000040182,7285097,,
-c1c395aa-8fd1-11eb-924d-9cd76263cbd0,species,glaucophylla,Verrucularina,,"(A.Juss.) Rauschert",,1982,,"Taxon 31(3): 560 1982",,Q28955334,,b0421662-8fd1-11eb-924d-9cd76263cbd0,,911614-1,wfo-0001257445,3983074,,
-c1c3b7d8-8fd1-11eb-924d-9cd76263cbd0,species,piresii,Verrucularina,,"(W.R.Anderson) Rauschert",,1982,,"Taxon 34(3): 560 1982",,Q28955334,,,,911615-1,wfo-0001257446,3983068,,
+ebe86982-8fd1-11eb-924d-9cd76263cbd0,genus,Verrucularina,,,Rauschert,Q3326939,1982,,"Taxon 31(3): 560. 1982.",,Q28955334,,,,893583-1,wfo-4000040182,7285097,,
+c1c395aa-8fd1-11eb-924d-9cd76263cbd0,species,glaucophylla,Verrucularina,,"(A.Juss.) Rauschert","Q377094,Q3326939",1982,,"Taxon 31(3): 560 1982",,Q28955334,,b0421662-8fd1-11eb-924d-9cd76263cbd0,,911614-1,wfo-0001257445,3983074,,
+c1c3b7d8-8fd1-11eb-924d-9cd76263cbd0,species,piresii,Verrucularina,,"(W.R.Anderson) Rauschert","Q6167725,Q3326939",1982,,"Taxon 34(3): 560 1982",,Q28955334,,,,911615-1,wfo-0001257446,3983068,,

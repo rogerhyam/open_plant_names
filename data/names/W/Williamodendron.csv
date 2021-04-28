@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec12a9fe-8fd1-11eb-924d-9cd76263cbd0,genus,Williamodendron,,,"Kubitzki & H.G.Richt.",,1987,,"Bot. Jahrb. Syst. 109(1): 50–57. 1987. (28 Oct 1987)",,,,,,925068-1,wfo-4000040736,7304595,,
-5d571e84-8fcc-11eb-924d-9cd76263cbd0,species,cinnamomeum,Williamodendron,,"van der Werff",,1991,,"Novon 1: 6 1991",,Q55773989,,,,958552-1,wfo-0000427847,4181372,,
-bc2c4186-8fcd-11eb-924d-9cd76263cbd0,species,glaucophyllum,Williamodendron,,"(van der Werff) Kubitzki & H.G.Richt.",,1987,,"Bot. Jahrb. Syst. 109(1): 58 1987",,,,,,944575-1,wfo-0001071473,10657507,,
-bc2c2372-8fcd-11eb-924d-9cd76263cbd0,species,quadrilocellatum,Williamodendron,,"(van der Werff) Kubitzki & H.G.Richt.",,1987,,"Bot. Jahrb. Syst. 109(1): 58 1987",,,,,,944574-1,wfo-0001071472,4181338,,
-b61dd2ce-8fd1-11eb-924d-9cd76263cbd0,species,spectabile,Williamodendron,,"Kubitzki & H.G.Richt.",,1987,,"Bot. Jahrb. Syst. 109(1): 50–57, f. 1–3a–c 1987",,,,,,,wfo-0001235745,4181318,,
+ec12a9fe-8fd1-11eb-924d-9cd76263cbd0,genus,Williamodendron,,,"Kubitzki & H.G.Richt.","Q5960148,Q5891881",1987,,"Bot. Jahrb. Syst. 109(1): 50–57. 1987. (28 Oct 1987)",,,,,,925068-1,wfo-4000040736,7304595,,
+5d571e84-8fcc-11eb-924d-9cd76263cbd0,species,cinnamomeum,Williamodendron,,"van der Werff",Q2003874,1991,,"Novon 1: 6 1991",,Q55773989,,,,958552-1,wfo-0000427847,4181372,,
+bc2c4186-8fcd-11eb-924d-9cd76263cbd0,species,glaucophyllum,Williamodendron,,"(van der Werff) Kubitzki & H.G.Richt.","Q2003874,Q5960148,Q5891881",1987,,"Bot. Jahrb. Syst. 109(1): 58 1987",,,,,,944575-1,wfo-0001071473,10657507,,
+bc2c2372-8fcd-11eb-924d-9cd76263cbd0,species,quadrilocellatum,Williamodendron,,"(van der Werff) Kubitzki & H.G.Richt.","Q2003874,Q5960148,Q5891881",1987,,"Bot. Jahrb. Syst. 109(1): 58 1987",,,,,,944574-1,wfo-0001071472,4181338,,
+b61dd2ce-8fd1-11eb-924d-9cd76263cbd0,species,spectabile,Williamodendron,,"Kubitzki & H.G.Richt.","Q5960148,Q5891881",1987,,"Bot. Jahrb. Syst. 109(1): 50–57, f. 1–3a–c 1987",,,,,,,wfo-0001235745,4181318,,

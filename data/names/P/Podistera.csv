@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8c9f28e-8fd1-11eb-924d-9cd76263cbd0,genus,Podistera,,,S.Watson,,1887,,"Proc. Amer. Acad. Arts 22(2): 475. 1887.",,,,,,290881-2,wfo-4000030474,3034189,,
-41791992-8fcc-11eb-924d-9cd76263cbd0,species,albensis,Podistera,,Jeps.,,1925,,"Man. Fl. Pl. Calif. 714 1925",,,,,,847317-1,wfo-0000392599,3631845,,
-baa68b0a-8fcd-11eb-924d-9cd76263cbd0,species,eastwoodiae,Podistera,,"Mathias & Constance",,1942,,"Bull. Torrey Bot. Club 69(3): 247 1942",,Q55767602,,,,204565-2,wfo-0001067957,3034193,,
-ba8a200a-8fcd-11eb-924d-9cd76263cbd0,species,macounii,Podistera,,"(J.M.Coult. & Rose) Mathias & Constance",,1942,,"Bull. Torrey Bot. Club 69(3): 247 1942",,Q55767602,,bf611210-8fd1-11eb-924d-9cd76263cbd0,,204566-2,wfo-0001067701,3034190,,
-baa6d31c-8fcd-11eb-924d-9cd76263cbd0,species,nevadensis,Podistera,,"(A.Gray) S.Watson",,1887,,"Proc. Amer. Acad. Arts 22(2): 475 1887",,,,,,204567-2,wfo-0001067958,3034194,,
-baa6efdc-8fcd-11eb-924d-9cd76263cbd0,species,yukonensis,Podistera,,"Mathias & Constance",,1950,,"Bull. Torrey Bot. Club 77(2): 136–138 1950",,Q55767674,,,,204568-2,wfo-0001067959,3034192,,
+e8c9f28e-8fd1-11eb-924d-9cd76263cbd0,genus,Podistera,,,S.Watson,Q960820,1887,,"Proc. Amer. Acad. Arts 22(2): 475. 1887.",,,,,,290881-2,wfo-4000030474,3034189,,
+41791992-8fcc-11eb-924d-9cd76263cbd0,species,albensis,Podistera,,Jeps.,Q324259,1925,,"Man. Fl. Pl. Calif. 714 1925",,,,,,847317-1,wfo-0000392599,3631845,,
+baa68b0a-8fcd-11eb-924d-9cd76263cbd0,species,eastwoodiae,Podistera,,"Mathias & Constance","Q4284790,Q4231273",1942,,"Bull. Torrey Bot. Club 69(3): 247 1942",,Q55767602,,,,204565-2,wfo-0001067957,3034193,,
+ba8a200a-8fcd-11eb-924d-9cd76263cbd0,species,macounii,Podistera,,"(J.M.Coult. & Rose) Mathias & Constance","Q1701075,Q1336049,Q4284790,Q4231273",1942,,"Bull. Torrey Bot. Club 69(3): 247 1942",,Q55767602,,bf611210-8fd1-11eb-924d-9cd76263cbd0,,204566-2,wfo-0001067701,3034190,,
+baa6d31c-8fcd-11eb-924d-9cd76263cbd0,species,nevadensis,Podistera,,"(A.Gray) S.Watson","Q347356,Q960820",1887,,"Proc. Amer. Acad. Arts 22(2): 475 1887",,,,,,204567-2,wfo-0001067958,3034194,,
+baa6efdc-8fcd-11eb-924d-9cd76263cbd0,species,yukonensis,Podistera,,"Mathias & Constance","Q4284790,Q4231273",1950,,"Bull. Torrey Bot. Club 77(2): 136–138 1950",,Q55767674,,,,204568-2,wfo-0001067959,3034192,,

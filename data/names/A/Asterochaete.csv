@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7297178-9bad-11eb-a8a2-19ed5c03f8d3,genus,Asterochaete,,,"(Pat.) Bondartsev & Singer",,1941,,"Annls mycol. 39(1): 58 (1941)",,,,,,,,,17109," "
-1f31b6aa-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Asterochaete,,Nees,,1834,,"Linnaea 9: 300 1834",,,,,,297958-1,wfo-0000340777,5291346,,
-1f31e134-8fcc-11eb-924d-9cd76263cbd0,species,arundinacea,Asterochaete,,"(Sol. ex Vahl) Kunth",,1837,,"Enum. Pl. 2: 312 1837",,,,,,297959-1,wfo-0000340778,5293028,,
-1f3292d2-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Asterochaete,,Nees,,1836,,"Linnaea 10: 194 1836",,,,,,,wfo-0000340782,5291350,,
-66f00a28-9bac-11eb-a8a2-19ed5c03f8d3,species,cinnamomeosquamulosa,Asterochaete,,"(Henn.) Bondartsev & Singer",,1941,,"Annls mycol. 39(1): 58 (1941)",,,,890c34f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293435," "
-f023c334-9bac-11eb-a8a2-19ed5c03f8d3,species,coracina,Asterochaete,,"(Murrill) Bondartsev & Singer",,1941,,"Annls mycol. 39(1): 58 (1941)",,,,8377ff66-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293436," "
-1f32b640-8fcc-11eb-924d-9cd76263cbd0,species,elongata,Asterochaete,,Kunth,,1837,,"Enum. Pl. 2: 312 1837",,,,,,297961-1,wfo-0000340783,5293001,,
-1f32dc2e-8fcc-11eb-924d-9cd76263cbd0,species,glomerata,Asterochaete,,"(Nees) Nees",,1834,,"Linnaea 9: 300 1834",,,,,,,wfo-0000340784,5291348,,
-1f32fa92-8fcc-11eb-924d-9cd76263cbd0,species,ludwigii,Asterochaete,,Hochst.,,1845,,"Flora 28: 759 1845",,,,,,297963-1,wfo-0000340785,5291349,,
-f023f4bc-9bac-11eb-a8a2-19ed5c03f8d3,species,megalopora,Asterochaete,,"(Mont.) Bondartsev & Singer",,1941,,"Annls mycol. 39(1): 58 (1941)",,,,22cffce4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,293437," "
-1f331e32-8fcc-11eb-924d-9cd76263cbd0,species,nitens,Asterochaete,,Kunth,,1837,,"Enum. Pl. 2: 313 1837",,,,,,297964-1,wfo-0000340786,5291344,,
-f0243440-9bac-11eb-a8a2-19ed5c03f8d3,species,russiceps,Asterochaete,,"(Berk. & Broome) Bondartsev & Singer",,1941,,"Annls mycol. 39(1): 58 (1941)",,,,5bae61d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293438," "
-1f33407e-8fcc-11eb-924d-9cd76263cbd0,species,tenuis,Asterochaete,,Kunth,,1837,,"Enum. Pl. 2: 312 1837",,,,,,297965-1,wfo-0000340787,5291347,,
-a88a1a82-8fcc-11eb-924d-9cd76263cbd0,species,pygmaeus,Asterochiton,,Turcz.,,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(2): 139 1852",,,,,,822133-1,wfo-0000552720,5546552,,
+1f31b6aa-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Asterochaete,,Nees,Q76349,1834,,"Linnaea 9: 300 1834",,,,,,297958-1,wfo-0000340777,5291346,,
+1f31e134-8fcc-11eb-924d-9cd76263cbd0,species,arundinacea,Asterochaete,,"(Sol. ex Vahl) Kunth","Q39789,Q353283,Q77074",1837,,"Enum. Pl. 2: 312 1837",,,,,,297959-1,wfo-0000340778,5293028,,
+1f3292d2-8fcc-11eb-924d-9cd76263cbd0,species,capitellata,Asterochaete,,Nees,Q76349,1836,,"Linnaea 10: 194 1836",,,,,,,wfo-0000340782,5291350,,
+66f00a28-9bac-11eb-a8a2-19ed5c03f8d3,species,cinnamomeosquamulosa,Asterochaete,,"(Henn.) Bondartsev & Singer",Q4497246,1941,,"Annls mycol. 39(1): 58 (1941)",,,,890c34f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293435," "
+f023c334-9bac-11eb-a8a2-19ed5c03f8d3,species,coracina,Asterochaete,,"(Murrill) Bondartsev & Singer",Q2170251,1941,,"Annls mycol. 39(1): 58 (1941)",,,,8377ff66-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293436," "
+1f32b640-8fcc-11eb-924d-9cd76263cbd0,species,elongata,Asterochaete,,Kunth,Q77074,1837,,"Enum. Pl. 2: 312 1837",,,,,,297961-1,wfo-0000340783,5293001,,
+1f32dc2e-8fcc-11eb-924d-9cd76263cbd0,species,glomerata,Asterochaete,,"(Nees) Nees",Q76349,1834,,"Linnaea 9: 300 1834",,,,,,,wfo-0000340784,5291348,,
+1f32fa92-8fcc-11eb-924d-9cd76263cbd0,species,ludwigii,Asterochaete,,Hochst.,Q64983,1845,,"Flora 28: 759 1845",,,,,,297963-1,wfo-0000340785,5291349,,
+f023f4bc-9bac-11eb-a8a2-19ed5c03f8d3,species,megalopora,Asterochaete,,"(Mont.) Bondartsev & Singer",Q1029228,1941,,"Annls mycol. 39(1): 58 (1941)",,,,22cffce4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,293437," "
+1f331e32-8fcc-11eb-924d-9cd76263cbd0,species,nitens,Asterochaete,,Kunth,Q77074,1837,,"Enum. Pl. 2: 313 1837",,,,,,297964-1,wfo-0000340786,5291344,,
+f0243440-9bac-11eb-a8a2-19ed5c03f8d3,species,russiceps,Asterochaete,,"(Berk. & Broome) Bondartsev & Singer","Q662338,Q1932460",1941,,"Annls mycol. 39(1): 58 (1941)",,,,5bae61d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293438," "
+1f33407e-8fcc-11eb-924d-9cd76263cbd0,species,tenuis,Asterochaete,,Kunth,Q77074,1837,,"Enum. Pl. 2: 312 1837",,,,,,297965-1,wfo-0000340787,5291347,,
+a88a1a82-8fcc-11eb-924d-9cd76263cbd0,species,pygmaeus,Asterochiton,,Turcz.,Q2640364,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(2): 139 1852",,,,,,822133-1,wfo-0000552720,5546552,,

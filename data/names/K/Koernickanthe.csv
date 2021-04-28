@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5692c2c-8fd1-11eb-924d-9cd76263cbd0,genus,Koernickanthe,,,L.Andersson,,1981,,"Nordic J. Bot. 1(2): 240. 1981.",,Q55761058,,,,893072-1,wfo-4000020129,2761302,,
-6dd1f86a-8fcc-11eb-924d-9cd76263cbd0,species,orbiculata,Koernickanthe,,"(Körn.) L.Andersson",,1981,,"Nordic J. Bot. 1: 241 1981",,Q55761058,,bf2988d0-8fcd-11eb-924d-9cd76263cbd0,,909016-1,wfo-0000453522,2761303,,
-29dbfe94-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Koernickea,,Klotzsch,,,,"Reis. Br.-Guiana 3: 1181 1849",,,,,,783430-1,wfo-0000357314,3785702,,
-c4f78b8c-8fd1-11eb-924d-9cd76263cbd0,species,lanata,Koernickea,,"(Planch. & Linden) Regel",,1857,,"Index Sem. (St. Petersburg) 48 1857",,,,c4f7381c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001263210,3819626,,
+e5692c2c-8fd1-11eb-924d-9cd76263cbd0,genus,Koernickanthe,,,L.Andersson,Q5725661,1981,,"Nordic J. Bot. 1(2): 240. 1981.",,Q55761058,,,,893072-1,wfo-4000020129,2761302,,
+6dd1f86a-8fcc-11eb-924d-9cd76263cbd0,species,orbiculata,Koernickanthe,,"(Körn.) L.Andersson","Q74097,Q5725661",1981,,"Nordic J. Bot. 1: 241 1981",,Q55761058,,bf2988d0-8fcd-11eb-924d-9cd76263cbd0,,909016-1,wfo-0000453522,2761303,,
+29dbfe94-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Koernickea,,Klotzsch,Q67003,,,"Reis. Br.-Guiana 3: 1181 1849",,,,,,783430-1,wfo-0000357314,3785702,,
+c4f78b8c-8fd1-11eb-924d-9cd76263cbd0,species,lanata,Koernickea,,"(Planch. & Linden) Regel","Q1387276,Q781362,Q62989",1857,,"Index Sem. (St. Petersburg) 48 1857",,,,c4f7381c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001263210,3819626,,

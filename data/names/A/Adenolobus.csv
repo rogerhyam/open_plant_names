@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dee0e606-8fd1-11eb-924d-9cd76263cbd0,genus,Adenolobus,,,"(Harv. ex Benth.) Torre & Hillc.",,,,,,,,,,21580-1,wfo-4000000636,2956199,,
-7e4941ba-8fc9-11eb-924d-9cd76263cbd0,species,garipensis,Adenolobus,,"(E.Mey.) Torre & Hillc.",,,,,,,,,,,wfo-0000213217,2956206,,
-30424958-8fc9-11eb-924d-9cd76263cbd0,species,mossamedensis,Adenolobus,,"Torre & Hillc.",,,,,,,,,,,wfo-0000211738,2956204,,
-2e30994e-8fc9-11eb-924d-9cd76263cbd0,species,pechuelii,Adenolobus,,"(Kuntze) Torre & Hillc.",,,,,,,,,,,wfo-0000211696,2956200,,
-2fca0da8-8fc9-11eb-924d-9cd76263cbd0,subspecies,mossamedensis,Adenolobus,pechuelii,"(Torre & Hillc.) Brummitt & J.H",,,,,,,,30424958-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000211728,2956203,,
-7d40dbca-8fc9-11eb-924d-9cd76263cbd0,species,rufescens,Adenolobus,,"(Lam.) A.Schmitz",,,,,,,,,,,wfo-0000213197,2953711,,
+dee0e606-8fd1-11eb-924d-9cd76263cbd0,genus,Adenolobus,,,"(Harv. ex Benth.) Torre & Hillc.","Q1378128,Q731808,Q19060927,Q5928795",,,,,,,,,21580-1,wfo-4000000636,2956199,,
+7e4941ba-8fc9-11eb-924d-9cd76263cbd0,species,garipensis,Adenolobus,,"(E.Mey.) Torre & Hillc.","Q62969,Q19060927,Q5928795",,,,,,,,,,wfo-0000213217,2956206,,
+30424958-8fc9-11eb-924d-9cd76263cbd0,species,mossamedensis,Adenolobus,,"Torre & Hillc.","Q19060927,Q5928795",,,,,,,,,,wfo-0000211738,2956204,,
+2e30994e-8fc9-11eb-924d-9cd76263cbd0,species,pechuelii,Adenolobus,,"(Kuntze) Torre & Hillc.","Q62853,Q19060927,Q5928795",,,,,,,,,,wfo-0000211696,2956200,,
+2fca0da8-8fc9-11eb-924d-9cd76263cbd0,subspecies,mossamedensis,Adenolobus,pechuelii,"(Torre & Hillc.) Brummitt & J.H","Q19060927,Q5928795,Q372403",,,,,,,30424958-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000211728,2956203,,
+7d40dbca-8fc9-11eb-924d-9cd76263cbd0,species,rufescens,Adenolobus,,"(Lam.) A.Schmitz","Q82122,Q19001839",,,,,,,,,,wfo-0000213197,2953711,,

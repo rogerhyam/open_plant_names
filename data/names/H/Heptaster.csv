@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9a8148a6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Heptaster,,,"Cif., Bat. & Nascim.",,1956,,"Publções Inst. Micol. Recife 46: 3 (1956)",,,,9a8148a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8516," "
-5e31b1ca-9bac-11eb-a8a2-19ed5c03f8d3,species,hughesii,Heptaster,,"Cif., Bat. & Nascim.",,1956,,"Publções Inst. Micol. Recife 46: 3 (1956)",,,,5e31b1ca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298395," "
-da532bb2-9bac-11eb-a8a2-19ed5c03f8d3,species,macroradiata,Heptaster,,"Cif., Bat. & Nascim.",,,,,,,,da532bb2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265347," Heptaster macroradiatus"
-5e31e0a0-9bac-11eb-a8a2-19ed5c03f8d3,species,macroradiatus,Heptaster,,"Cif., Bat. & Nascim.",,1956,,"Publções Inst. Micol. Recife 46: 4 (1956)",,,,5e31e0a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298396," macroradiata"
-5e322768-9bac-11eb-a8a2-19ed5c03f8d3,species,regnellianae,Heptaster,,Bat.,,1957,,"Revta Biol., Lisb. 1(2): 103 (1957)",,,,5e322768-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298397," "
-93479dc0-8fc2-11eb-924d-9cd76263cbd0,species,glandulosa,Hepteireca,,Raf.,,,,,,,,,,,wfo-0000178210,2949636,,
-924d8712-8fcd-11eb-924d-9cd76263cbd0,species,pergamaceum,Heptoneurum,,"(Blume) Hassk.",,1842,,"Flora 25(2 Beibl. 1): 31 1842",,,,,,,wfo-0000981612,3038957,,
-924da350-8fcd-11eb-924d-9cd76263cbd0,species,rigidum,Heptoneurum,,"(Blume) Hassk.",,1842,,"Flora 25(2 Beibl. 1): 30 1842",,,,,,,wfo-0000981613,3039013,,
-924dbf2a-8fcd-11eb-924d-9cd76263cbd0,species,tomentosum,Heptoneurum,,"(Blume) Hassk.",,1842,,"Flora 25(2 Beibl. 1): 30 1842",,,,,,,wfo-0000981614,3038280,,
-66df9b98-8fcc-11eb-924d-9cd76263cbd0,variety,farinosum,Heptoneurum,tomentosum,"(Blume) Hassk.",,1842,,"Flora 25(2 Beibl. 1): 31 1842",,,,e3e648ee-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000441300,3038282,,
-924ddc4e-8fcd-11eb-924d-9cd76263cbd0,species,glabrata,Heptrilis,,"(Vahl) Raf.",,1837,,"Fl. Tellur. 1: 89 1837",,,,,,447835-1,wfo-0000981615,3885398,,
+9a8148a6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Heptaster,,,"Cif., Bat. & Nascim.","Q4516707,Q4079389",1956,,"Publções Inst. Micol. Recife 46: 3 (1956)",,,,9a8148a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8516," "
+5e31b1ca-9bac-11eb-a8a2-19ed5c03f8d3,species,hughesii,Heptaster,,"Cif., Bat. & Nascim.","Q4516707,Q4079389",1956,,"Publções Inst. Micol. Recife 46: 3 (1956)",,,,5e31b1ca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298395," "
+da532bb2-9bac-11eb-a8a2-19ed5c03f8d3,species,macroradiata,Heptaster,,"Cif., Bat. & Nascim.","Q4516707,Q4079389",,,,,,,da532bb2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265347," Heptaster macroradiatus"
+5e31e0a0-9bac-11eb-a8a2-19ed5c03f8d3,species,macroradiatus,Heptaster,,"Cif., Bat. & Nascim.","Q4516707,Q4079389",1956,,"Publções Inst. Micol. Recife 46: 4 (1956)",,,,5e31e0a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298396," macroradiata"
+5e322768-9bac-11eb-a8a2-19ed5c03f8d3,species,regnellianae,Heptaster,,Bat.,Q4079389,1957,,"Revta Biol., Lisb. 1(2): 103 (1957)",,,,5e322768-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298397," "
+93479dc0-8fc2-11eb-924d-9cd76263cbd0,species,glandulosa,Hepteireca,,Raf.,Q364857,,,,,,,,,,wfo-0000178210,2949636,,
+924d8712-8fcd-11eb-924d-9cd76263cbd0,species,pergamaceum,Heptoneurum,,"(Blume) Hassk.","Q76816,Q68616",1842,,"Flora 25(2 Beibl. 1): 31 1842",,,,,,,wfo-0000981612,3038957,,
+924da350-8fcd-11eb-924d-9cd76263cbd0,species,rigidum,Heptoneurum,,"(Blume) Hassk.","Q76816,Q68616",1842,,"Flora 25(2 Beibl. 1): 30 1842",,,,,,,wfo-0000981613,3039013,,
+924dbf2a-8fcd-11eb-924d-9cd76263cbd0,species,tomentosum,Heptoneurum,,"(Blume) Hassk.","Q76816,Q68616",1842,,"Flora 25(2 Beibl. 1): 30 1842",,,,,,,wfo-0000981614,3038280,,
+66df9b98-8fcc-11eb-924d-9cd76263cbd0,variety,farinosum,Heptoneurum,tomentosum,"(Blume) Hassk.","Q76816,Q68616",1842,,"Flora 25(2 Beibl. 1): 31 1842",,,,e3e648ee-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000441300,3038282,,
+924ddc4e-8fcd-11eb-924d-9cd76263cbd0,species,glabrata,Heptrilis,,"(Vahl) Raf.","Q353283,Q364857",1837,,"Fl. Tellur. 1: 89 1837",,,,,,447835-1,wfo-0000981615,3885398,,

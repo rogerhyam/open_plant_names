@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e739d27c-8fd1-11eb-924d-9cd76263cbd0,genus,Neostachyanthus,,,"Exell & Mendonc$a",,1951,,"Bol. Soc. Brot., sér. 2 25: 111. 1951. (10 Mar 1951)",,,,,,,wfo-4000025850,7314415,,
-37479ff2-8fcc-11eb-924d-9cd76263cbd0,species,cuneatus,Neostachyanthus,,"(Engl.) Exell & Mendonça",,1951,,"Bol. Soc. Brot. II, 25: 112 1951",,,,88434b0e-8fcc-11eb-924d-9cd76263cbd0,,434461-1,wfo-0000379072,3597045,,
-37477c8e-8fcc-11eb-924d-9cd76263cbd0,species,donisii,Neostachyanthus,,Boutique,,1956,,"Bull. Jard. Bot. État 26: 346 1956",,Q55775788,,,,434462-1,wfo-0000379071,3597038,,
-374759ac-8fcc-11eb-924d-9cd76263cbd0,species,nigeriensis,Neostachyanthus,,"(S.Moore) Exell & Mendonça",,1951,,"Bol. Soc. Brot. II, 25: 112 1951",,,,ba4e58c2-8fcd-11eb-924d-9cd76263cbd0,,434463-1,wfo-0000379070,3597029,,
-37473990-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Neostachyanthus,,"Keay & J.Miège",,1955,,"Bull. Jard. Bot. État 25: 271 1955",,,,,,,wfo-0000379069,3597022,,
-b63824c6-8fd1-11eb-924d-9cd76263cbd0,species,zenkeri,Neostachyanthus,,"(Engl.) Exell & Mendonça",,1951,,"Bol. Soc. Brot., sér. 2, 25: 111 1951",,,,,,434465-1,wfo-0001235933,3597009,,
+e739d27c-8fd1-11eb-924d-9cd76263cbd0,genus,Neostachyanthus,,,"Exell & Mendonc$a",Q2865378,1951,,"Bol. Soc. Brot., sér. 2 25: 111. 1951. (10 Mar 1951)",,,,,,,wfo-4000025850,7314415,,
+37479ff2-8fcc-11eb-924d-9cd76263cbd0,species,cuneatus,Neostachyanthus,,"(Engl.) Exell & Mendonça","Q60718,Q2865378,Q4290420",1951,,"Bol. Soc. Brot. II, 25: 112 1951",,,,88434b0e-8fcc-11eb-924d-9cd76263cbd0,,434461-1,wfo-0000379072,3597045,,
+37477c8e-8fcc-11eb-924d-9cd76263cbd0,species,donisii,Neostachyanthus,,Boutique,Q2883140,1956,,"Bull. Jard. Bot. État 26: 346 1956",,Q55775788,,,,434462-1,wfo-0000379071,3597038,,
+374759ac-8fcc-11eb-924d-9cd76263cbd0,species,nigeriensis,Neostachyanthus,,"(S.Moore) Exell & Mendonça","Q2975984,Q2865378,Q4290420",1951,,"Bol. Soc. Brot. II, 25: 112 1951",,,,ba4e58c2-8fcd-11eb-924d-9cd76263cbd0,,434463-1,wfo-0000379070,3597029,,
+37473990-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Neostachyanthus,,"Keay & J.Miège","Q5804349,Q21520523",1955,,"Bull. Jard. Bot. État 25: 271 1955",,,,,,,wfo-0000379069,3597022,,
+b63824c6-8fd1-11eb-924d-9cd76263cbd0,species,zenkeri,Neostachyanthus,,"(Engl.) Exell & Mendonça","Q60718,Q2865378,Q4290420",1951,,"Bol. Soc. Brot., sér. 2, 25: 111 1951",,,,,,434465-1,wfo-0001235933,3597009,,

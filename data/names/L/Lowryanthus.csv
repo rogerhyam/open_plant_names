@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec619b22-8fd1-11eb-924d-9cd76263cbd0,genus,Lowryanthus,,,Pruski,,2014,,"Phytoneuron 2014-51: 1 (2014)",,,,,,77140010-1,wfo-4001303307,9598740,,
-de3f4b66-8fd1-11eb-924d-9cd76263cbd0,species,rubens,Lowryanthus,,Pruski,,2014,,"Phytoneuron 2014–51: 1, Figs. 1–5. 2014. (20 May 2014) (Phytoneuron)",,,,,,,wfo-0001315171,8897866,,
-be2ea1e6-8fd1-11eb-924d-9cd76263cbd0,species,loniceroides,Loxania,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 387 1895",,Q54801580,,,,144073-2,wfo-0001250661,4002586,,
-be2f1036-8fd1-11eb-924d-9cd76263cbd0,species,microphylla,Loxania,,"(Kunth) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 387 1895",,Q54801580,,,,144074-2,wfo-0001250665,4002556,,
-736960ba-8fcc-11eb-924d-9cd76263cbd0,species,atrata,Loxanisa,,"(L.) Raf.",,1840,,"Good Book 26 1840",,,,,,310322-1,wfo-0000463170,2724928,,
-736b4416-8fcc-11eb-924d-9cd76263cbd0,species,gracillima,Loxanisa,,"(Schwein.) Raf.",,1840,,"Good Book 26 1840",,,,240aa9de-8fcc-11eb-924d-9cd76263cbd0,,310323-1,wfo-0000463181,2727829,,
+ec619b22-8fd1-11eb-924d-9cd76263cbd0,genus,Lowryanthus,,,Pruski,Q5933245,2014,,"Phytoneuron 2014-51: 1 (2014)",,,,,,77140010-1,wfo-4001303307,9598740,,
+de3f4b66-8fd1-11eb-924d-9cd76263cbd0,species,rubens,Lowryanthus,,Pruski,Q5933245,2014,,"Phytoneuron 2014–51: 1, Figs. 1–5. 2014. (20 May 2014) (Phytoneuron)",,,,,,,wfo-0001315171,8897866,,
+be2ea1e6-8fd1-11eb-924d-9cd76263cbd0,species,loniceroides,Loxania,,Tiegh.,Q2421500,1895,,"Bull. Soc. Bot. France 42: 387 1895",,Q54801580,,,,144073-2,wfo-0001250661,4002586,,
+be2f1036-8fd1-11eb-924d-9cd76263cbd0,species,microphylla,Loxania,,"(Kunth) Tiegh.","Q77074,Q2421500",1895,,"Bull. Soc. Bot. France 42: 387 1895",,Q54801580,,,,144074-2,wfo-0001250665,4002556,,
+736960ba-8fcc-11eb-924d-9cd76263cbd0,species,atrata,Loxanisa,,"(L.) Raf.","Q1043,Q364857",1840,,"Good Book 26 1840",,,,,,310322-1,wfo-0000463170,2724928,,
+736b4416-8fcc-11eb-924d-9cd76263cbd0,species,gracillima,Loxanisa,,"(Schwein.) Raf.","Q1822110,Q364857",1840,,"Good Book 26 1840",,,,240aa9de-8fcc-11eb-924d-9cd76263cbd0,,310323-1,wfo-0000463181,2727829,,

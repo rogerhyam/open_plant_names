@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0d66e0e-8fd1-11eb-924d-9cd76263cbd0,genus,Brocchia,,,Vis.,,,,,,,,,,7997-1,wfo-4000005461,3101669,,
-369db05e-8fb4-11eb-924d-9cd76263cbd0,species,cinerea,Brocchia,,"(Delile) Vis.",,1836,,"35 1836",,,,f0192cae-8fb2-11eb-924d-9cd76263cbd0,,186338-1,wfo-0000061622,5390421,,
-3eacef60-8fb6-11eb-924d-9cd76263cbd0,species,cinerea,Brocchia,,Batt.,,1890,,1890,,,,,,,wfo-0000087313,7787994,,
-b5b2a968-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Brocchia,,Mauri,,1845,,"Cat. Orto Bot. Napoli 80 1845",,,,,,340254-1,wfo-0000572335,6045232,,
-938702e0-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Brocchia,,"Schult. ex Schweinf. & Asch.",,1867,,"283 1867",,,,,,186340-1,wfo-0000028629,5393444,,
+e0d66e0e-8fd1-11eb-924d-9cd76263cbd0,genus,Brocchia,,,Vis.,Q1389217,,,,,,,,,7997-1,wfo-4000005461,3101669,,
+369db05e-8fb4-11eb-924d-9cd76263cbd0,species,cinerea,Brocchia,,"(Delile) Vis.","Q1340280,Q1389217",1836,,"35 1836",,,,f0192cae-8fb2-11eb-924d-9cd76263cbd0,,186338-1,wfo-0000061622,5390421,,
+3eacef60-8fb6-11eb-924d-9cd76263cbd0,species,cinerea,Brocchia,,Batt.,Q2597737,1890,,1890,,,,,,,wfo-0000087313,7787994,,
+b5b2a968-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Brocchia,,Mauri,Q5805798,1845,,"Cat. Orto Bot. Napoli 80 1845",,,,,,340254-1,wfo-0000572335,6045232,,
+938702e0-8fb2-11eb-924d-9cd76263cbd0,species,kotschyi,Brocchia,,"Schult. ex Schweinf. & Asch.","Q78881,Q63126,Q61290",1867,,"283 1867",,,,,,186340-1,wfo-0000028629,5393444,,

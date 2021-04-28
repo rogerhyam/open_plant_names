@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfdd8956-8fd1-11eb-924d-9cd76263cbd0,genus,Astonia,,,S.W.L.Jacobs,,1997,,"Telopea 7: 140. 1997.",,Q55801413,,,,996436-1,wfo-4000003451,2864771,,
-ddac68e6-8fcc-11eb-924d-9cd76263cbd0,species,australiensis,Astonia,,"(Aston) S.W.L.Jacobs",,1997,,"Telopea 7: 141 1997",,Q55801413,,,,996437-1,wfo-0000639080,2864772,,
-a8ad67b2-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Astorganthus,,Endl.,,1842,,"Cat. Horti Vindob. 2: 196 1842",,,,,,771374-1,wfo-0000552921,3834521,,
+dfdd8956-8fd1-11eb-924d-9cd76263cbd0,genus,Astonia,,,S.W.L.Jacobs,Q2528400,1997,,"Telopea 7: 140. 1997.",,Q55801413,,,,996436-1,wfo-4000003451,2864771,,
+ddac68e6-8fcc-11eb-924d-9cd76263cbd0,species,australiensis,Astonia,,"(Aston) S.W.L.Jacobs","Q21393448,Q2528400",1997,,"Telopea 7: 141 1997",,Q55801413,,,,996437-1,wfo-0000639080,2864772,,
+a8ad67b2-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Astorganthus,,Endl.,Q78605,1842,,"Cat. Horti Vindob. 2: 196 1842",,,,,,771374-1,wfo-0000552921,3834521,,

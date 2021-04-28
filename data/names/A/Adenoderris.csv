@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dedfc19a-8fd1-11eb-924d-9cd76263cbd0,genus,Adenoderris,,,J.Sm.,,1875,,"Hist. Fil. 222. 1875.",,,,,,,wfo-4000000621,7289206,,
-d6030d06-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Adenoderris,,"(C.Presl) J.Sm.",,1875,,"Hist. Fil. 222 1875",,,,,,,wfo-0001128302,4017031,,
-cf2211c6-8fcd-11eb-924d-9cd76263cbd0,species,sororia,Adenoderris,,Maxon,,1905,,"Bot. Gaz. 39(5): 368, f. 2 1905",,Q55808786,,,,4356-2,wfo-0001113313,4017019,,
-d321e0da-8fcd-11eb-924d-9cd76263cbd0,species,viscidula,Adenoderris,,"(Mett.) Maxon",,1905,,"Bot. Gaz. 39(5): 367, f. 1 1905",,Q55808786,,5b556146-8fbc-11eb-924d-9cd76263cbd0,,4357-2,wfo-0001121897,4017002,,
-9543aae2-8fcc-11eb-924d-9cd76263cbd0,species,mexicanus,Adenodiscus,,Turcz.,,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 504 1846",,,,,,833227-1,wfo-0000520169,4260831,,
+dedfc19a-8fd1-11eb-924d-9cd76263cbd0,genus,Adenoderris,,,J.Sm.,Q3182477,1875,,"Hist. Fil. 222. 1875.",,,,,,,wfo-4000000621,7289206,,
+d6030d06-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Adenoderris,,"(C.Presl) J.Sm.","Q379601,Q3182477",1875,,"Hist. Fil. 222 1875",,,,,,,wfo-0001128302,4017031,,
+cf2211c6-8fcd-11eb-924d-9cd76263cbd0,species,sororia,Adenoderris,,Maxon,Q8017342,1905,,"Bot. Gaz. 39(5): 368, f. 2 1905",,Q55808786,,,,4356-2,wfo-0001113313,4017019,,
+d321e0da-8fcd-11eb-924d-9cd76263cbd0,species,viscidula,Adenoderris,,"(Mett.) Maxon","Q70825,Q8017342",1905,,"Bot. Gaz. 39(5): 367, f. 1 1905",,Q55808786,,5b556146-8fbc-11eb-924d-9cd76263cbd0,,4357-2,wfo-0001121897,4017002,,
+9543aae2-8fcc-11eb-924d-9cd76263cbd0,species,mexicanus,Adenodiscus,,Turcz.,Q2640364,1846,,"Bull. Soc. Imp. Naturalistes Moscou 19(2): 504 1846",,,,,,833227-1,wfo-0000520169,4260831,,

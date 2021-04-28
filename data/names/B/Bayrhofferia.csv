@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a7b7d954-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bayrhofferia,,,Trevis.,,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 69 (1857)",,,,a7b7d954-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528," "
-8251148c-9bad-11eb-a8a2-19ed5c03f8d3,species,leucochlora,Bayrhofferia,,"(Mont.) Trevis.",,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 69 (1857)",,,,,,,,,378668," "
-409820e4-9bad-11eb-a8a2-19ed5c03f8d3,species,spadicea,Bayrhofferia,,"(Flot.) anon.",,,,,,,,884c4190-9bad-11eb-a8a2-19ed5c03f8d3,,,,,378669," "
-40989b5a-9bad-11eb-a8a2-19ed5c03f8d3,species,valenzueliana,Bayrhofferia,,"(Mont.) Trevis.",,,,,,,,8da68632-9bad-11eb-a8a2-19ed5c03f8d3,,,,,378670," "
-56cfb51a-8fba-11eb-924d-9cd76263cbd0,species,humilis,Baziasa,,Steud.,,1840,,"192 1840",,,,,,184317-1,wfo-0000125850,3100715,,
-45d41884-8fb3-11eb-924d-9cd76263cbd0,species,microglossa,Baziasa,,Steud.,,1840,,"192 1840",,,,,,184318-1,wfo-0000045146,3100695,,
-950363fa-8fb4-11eb-924d-9cd76263cbd0,species,sarmentosa,Baziasa,,"(Less.) Steud.",,1840,,"192 1840",,,,d7591312-8fb4-11eb-924d-9cd76263cbd0,,184319-1,wfo-0000067121,3100718,,
-3345a350-8fb2-11eb-924d-9cd76263cbd0,species,urticifolia,Baziasa,,"(Kunth) Steud.",,1840,,"192 1840",,,,,,184320-1,wfo-0000015631,3134186,,
+a7b7d954-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bayrhofferia,,,Trevis.,Q634712,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 69 (1857)",,,,a7b7d954-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528," "
+8251148c-9bad-11eb-a8a2-19ed5c03f8d3,species,leucochlora,Bayrhofferia,,"(Mont.) Trevis.","Q1029228,Q634712",1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 69 (1857)",,,,,,,,,378668," "
+409820e4-9bad-11eb-a8a2-19ed5c03f8d3,species,spadicea,Bayrhofferia,,"(Flot.) anon.",Q4491206,,,,,,,884c4190-9bad-11eb-a8a2-19ed5c03f8d3,,,,,378669," "
+40989b5a-9bad-11eb-a8a2-19ed5c03f8d3,species,valenzueliana,Bayrhofferia,,"(Mont.) Trevis.","Q1029228,Q634712",,,,,,,8da68632-9bad-11eb-a8a2-19ed5c03f8d3,,,,,378670," "
+56cfb51a-8fba-11eb-924d-9cd76263cbd0,species,humilis,Baziasa,,Steud.,Q62821,1840,,"192 1840",,,,,,184317-1,wfo-0000125850,3100715,,
+45d41884-8fb3-11eb-924d-9cd76263cbd0,species,microglossa,Baziasa,,Steud.,Q62821,1840,,"192 1840",,,,,,184318-1,wfo-0000045146,3100695,,
+950363fa-8fb4-11eb-924d-9cd76263cbd0,species,sarmentosa,Baziasa,,"(Less.) Steud.","Q76352,Q62821",1840,,"192 1840",,,,d7591312-8fb4-11eb-924d-9cd76263cbd0,,184319-1,wfo-0000067121,3100718,,
+3345a350-8fb2-11eb-924d-9cd76263cbd0,species,urticifolia,Baziasa,,"(Kunth) Steud.","Q77074,Q62821",1840,,"192 1840",,,,,,184320-1,wfo-0000015631,3134186,,

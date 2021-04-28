@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e95c7c94-8fd1-11eb-924d-9cd76263cbd0,genus,Purdieanthus,,,Gilg,,1895,,"Nat. Pflanzenfam. 4(2): 99. 1895.",,,,,,295519-2,wfo-4000032191,7270250,,
-b8f0b48e-8fcd-11eb-924d-9cd76263cbd0,species,pulcher,Purdieanthus,,"(Hook.) Gilg",,1895,,"Nat. Pflanzenfam. 4(2): 99 1895",,,,b8cc720e-8fcd-11eb-924d-9cd76263cbd0,,214498-2,wfo-0001063999,3842497,,
-b62af832-8fd1-11eb-924d-9cd76263cbd0,species,splendens,Purdieanthus,,"(Hook.) Cuatrec.",,1972,,"Ciencia (Mexico) 27(6): 175 1972",,,,,,370465-1,wfo-0001235845,3842489,,
+e95c7c94-8fd1-11eb-924d-9cd76263cbd0,genus,Purdieanthus,,,Gilg,Q77655,1895,,"Nat. Pflanzenfam. 4(2): 99. 1895.",,,,,,295519-2,wfo-4000032191,7270250,,
+b8f0b48e-8fcd-11eb-924d-9cd76263cbd0,species,pulcher,Purdieanthus,,"(Hook.) Gilg","Q472639,Q77655",1895,,"Nat. Pflanzenfam. 4(2): 99 1895",,,,b8cc720e-8fcd-11eb-924d-9cd76263cbd0,,214498-2,wfo-0001063999,3842497,,
+b62af832-8fd1-11eb-924d-9cd76263cbd0,species,splendens,Purdieanthus,,"(Hook.) Cuatrec.","Q472639,Q3088960",1972,,"Ciencia (Mexico) 27(6): 175 1972",,,,,,370465-1,wfo-0001235845,3842489,,

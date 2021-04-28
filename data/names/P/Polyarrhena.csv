@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8d9d9ec-8fd1-11eb-924d-9cd76263cbd0,genus,Polyarrhena,,,Cass.,,,,,,,,,,10635-1,wfo-4000030685,3141922,,
-9612bc02-8fb2-11eb-924d-9cd76263cbd0,species,imbricata,Polyarrhena,,"(DC.) Grau",,1970,,"Mitt. Bot. Staatssamml. München vii. 364 (1970)",,,,,,239146-1,wfo-0000028936,3141926,,
-c2e4b84e-8fb6-11eb-924d-9cd76263cbd0,species,prostrata,Polyarrhena,,Grau,,1970,,"Mitt. Bot. Staatssamml. München vii. 361 (1970).",,,,,,,wfo-0000092886,3141930,,
-bcade0aa-8fba-11eb-924d-9cd76263cbd0,species,reflexa,Polyarrhena,,"(L.) Cass.",,1826,,"in Dict. Sci. Nat. lvi. 173 (1826).",,,,,,239148-1,wfo-0000129044,3141923,,
-643bcd58-8fb8-11eb-924d-9cd76263cbd0,subspecies,brachyphylla,Polyarrhena,reflexa,"(Sond. ex Harv.) Grau",,,,,,,,,,,wfo-0000108977,6302456,,
-6530985c-8fb2-11eb-924d-9cd76263cbd0,species,stricta,Polyarrhena,,Grau,,1970,,"Mitt. Bot. Staatssamml. München vii. 358 (1970).",,,,,,,wfo-0000023194,3141925,,
+e8d9d9ec-8fd1-11eb-924d-9cd76263cbd0,genus,Polyarrhena,,,Cass.,Q958431,,,,,,,,,10635-1,wfo-4000030685,3141922,,
+9612bc02-8fb2-11eb-924d-9cd76263cbd0,species,imbricata,Polyarrhena,,"(DC.) Grau","Q123057,Q92335",1970,,"Mitt. Bot. Staatssamml. München vii. 364 (1970)",,,,,,239146-1,wfo-0000028936,3141926,,
+c2e4b84e-8fb6-11eb-924d-9cd76263cbd0,species,prostrata,Polyarrhena,,Grau,Q92335,1970,,"Mitt. Bot. Staatssamml. München vii. 361 (1970).",,,,,,,wfo-0000092886,3141930,,
+bcade0aa-8fba-11eb-924d-9cd76263cbd0,species,reflexa,Polyarrhena,,"(L.) Cass.","Q1043,Q958431",1826,,"in Dict. Sci. Nat. lvi. 173 (1826).",,,,,,239148-1,wfo-0000129044,3141923,,
+643bcd58-8fb8-11eb-924d-9cd76263cbd0,subspecies,brachyphylla,Polyarrhena,reflexa,"(Sond. ex Harv.) Grau","Q77215,Q1378128,Q92335",,,,,,,,,,wfo-0000108977,6302456,,
+6530985c-8fb2-11eb-924d-9cd76263cbd0,species,stricta,Polyarrhena,,Grau,Q92335,1970,,"Mitt. Bot. Staatssamml. München vii. 358 (1970).",,,,,,,wfo-0000023194,3141925,,

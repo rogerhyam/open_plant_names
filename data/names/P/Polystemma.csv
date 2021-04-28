@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8e3c4ca-8fd1-11eb-924d-9cd76263cbd0,genus,Polystemma,,,Decne.,,1844,,"Prodr. 8: 602. 1844. (Mar 1844)",,,,,,30266778-2,wfo-4000030826,8189087,,
-46a6bf32-8fcc-11eb-924d-9cd76263cbd0,species,guatemalense,Polystemma,,"(Schltr.) W.D.Stevens",,2005,,"Novon 15: 618 2005",,,,,,60440849-2,wfo-0000398669,7221882,,
-ae4f9eaa-8fcd-11eb-924d-9cd76263cbd0,species,mirandae,Polystemma,,Lozada-Pérez,,2010,,"Novon 20(4): 429–431, f. 1 2010",,Q55791514,,,,77112230-1,wfo-0001039867,7499249,,
-41433f2a-8fcc-11eb-924d-9cd76263cbd0,species,rupestre,Polystemma,,Brandegee,,1920,,"Univ. Calif. Publ. Bot. 7: 330 1920",,,,,,207919-2,wfo-0000392270,8127644,,
-41431d2e-8fcc-11eb-924d-9cd76263cbd0,species,scopulorum,Polystemma,,Brandegee,,1915,,"Univ. Calif. Publ. Bot. 6: 189 1915",,,,,,207920-2,wfo-0000392269,8163698,,
-4142f8a8-8fcc-11eb-924d-9cd76263cbd0,species,viridiflora,Polystemma,,Decne.,,1844,,"Prodr. 8: 602 1844",,,,,,100712-1,wfo-0000392268,,,
+e8e3c4ca-8fd1-11eb-924d-9cd76263cbd0,genus,Polystemma,,,Decne.,Q966069,1844,,"Prodr. 8: 602. 1844. (Mar 1844)",,,,,,30266778-2,wfo-4000030826,8189087,,
+46a6bf32-8fcc-11eb-924d-9cd76263cbd0,species,guatemalense,Polystemma,,"(Schltr.) W.D.Stevens","Q62278,Q6166437",2005,,"Novon 15: 618 2005",,,,,,60440849-2,wfo-0000398669,7221882,,
+ae4f9eaa-8fcd-11eb-924d-9cd76263cbd0,species,mirandae,Polystemma,,Lozada-Pérez,Q19275624,2010,,"Novon 20(4): 429–431, f. 1 2010",,Q55791514,,,,77112230-1,wfo-0001039867,7499249,,
+41433f2a-8fcc-11eb-924d-9cd76263cbd0,species,rupestre,Polystemma,,Brandegee,Q1002345,1920,,"Univ. Calif. Publ. Bot. 7: 330 1920",,,,,,207919-2,wfo-0000392270,8127644,,
+41431d2e-8fcc-11eb-924d-9cd76263cbd0,species,scopulorum,Polystemma,,Brandegee,Q1002345,1915,,"Univ. Calif. Publ. Bot. 6: 189 1915",,,,,,207920-2,wfo-0000392269,8163698,,
+4142f8a8-8fcc-11eb-924d-9cd76263cbd0,species,viridiflora,Polystemma,,Decne.,Q966069,1844,,"Prodr. 8: 602 1844",,,,,,100712-1,wfo-0000392268,,,

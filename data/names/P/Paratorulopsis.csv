@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 98da46e2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Paratorulopsis,,,"E.K. Novák & Zsolt",,1961,,"Acta microbiol. hung. 7: 101 (1961)",,,,98da46e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9228," "
 21037dfa-9bad-11eb-a8a2-19ed5c03f8d3,species,aeria,Paratorulopsis,,"(Saito) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,d43fe62a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,335633," "
-e7cb87da-9bac-11eb-a8a2-19ed5c03f8d3,species,apis,Paratorulopsis,,"(Lavie) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,,,,,,283171," "
+e7cb87da-9bac-11eb-a8a2-19ed5c03f8d3,species,apis,Paratorulopsis,,"(Lavie) E.K. Novák & Zsolt",Q26714683,1961,,"Acta bot. hung. 7: 141 (1961)",,,,,,,,,283171," "
 2103bdf6-9bad-11eb-a8a2-19ed5c03f8d3,species,banhegyi,Paratorulopsis,,"Galgoczy & R.O. Novak",,1962,,"Acta microbiol. hung. 9: 77 (1962)",,,,2103bdf6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335634," banhegyii"
 e0d974c8-9bac-11eb-a8a2-19ed5c03f8d3,species,banhegyii,Paratorulopsis,,"Galgoczy & R.O. Novak",,,,,,,,e0d974c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,273744," Paratorulopsis banhegyi"
 20f81622-9bad-11eb-a8a2-19ed5c03f8d3,species,buffonii,Paratorulopsis,,"(C. Ramírez) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,2639b33e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335635," "
@@ -9,6 +9,6 @@ e0d974c8-9bac-11eb-a8a2-19ed5c03f8d3,species,banhegyii,Paratorulopsis,,"Galgoczy
 2104ecee-9bad-11eb-a8a2-19ed5c03f8d3,species,norvegica,Paratorulopsis,,"(Reiersöl) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,01794df2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335637," "
 21053938-9bad-11eb-a8a2-19ed5c03f8d3,species,pinus,Paratorulopsis,,"(Lodder & Kreger-van Rij) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,0179bb48-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335638," "
 210575a6-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudaeria,Paratorulopsis,,"(Zsolt) E.K. Novák & Zsolt",,1961,,"Acta bot. hung. 7: 141 (1961)",,,,0179f270-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335639," "
-f00ce8c2-8fcb-11eb-924d-9cd76263cbd0,species,xerophila,Paratriaina,,Bremek.,,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 18 1956",,,,,,759424-1,wfo-0000264586,2907592,,
-f00da546-8fcb-11eb-924d-9cd76263cbd0,variety,glabrescens,Paratriaina,xerophila,Bremek.,,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 19 1956",,,,,,77086209-1,wfo-0000264589,2907593,,
-f00dc238-8fcb-11eb-924d-9cd76263cbd0,variety,pubescens,Paratriaina,xerophila,Bremek.,,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 20 1956",,,,,,77086210-1,wfo-0000264590,2907594,,
+f00ce8c2-8fcb-11eb-924d-9cd76263cbd0,species,xerophila,Paratriaina,,Bremek.,Q5171231,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 18 1956",,,,,,759424-1,wfo-0000264586,2907592,,
+f00da546-8fcb-11eb-924d-9cd76263cbd0,variety,glabrescens,Paratriaina,xerophila,Bremek.,Q5171231,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 19 1956",,,,,,77086209-1,wfo-0000264589,2907593,,
+f00dc238-8fcb-11eb-924d-9cd76263cbd0,variety,pubescens,Paratriaina,xerophila,Bremek.,Q5171231,1956,,"Proc. Kon. Ned. Akad. Wetensch., C 59: 20 1956",,,,,,77086210-1,wfo-0000264590,2907594,,

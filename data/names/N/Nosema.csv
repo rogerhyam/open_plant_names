@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e75a1e38-8fd1-11eb-924d-9cd76263cbd0,genus,Nosema,,,Prain,,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 20. 1904.",,,,e75a1e38-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000026243,7306935,30537," "
+e75a1e38-8fd1-11eb-924d-9cd76263cbd0,genus,Nosema,,,Prain,Q689862,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 20. 1904.",,,,e75a1e38-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000026243,7306935,30537," "
 36ccd81c-9bac-11eb-a8a2-19ed5c03f8d3,species,acridophagus,Nosema,,"J.E. Henry",,,,,,,,36ccd81c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522709," "
 f932441a-9bab-11eb-a8a2-19ed5c03f8d3,species,aedis,Nosema,,"R. Kudo",,,,,,,,f932441a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522710," "
 f9b472d2-9bab-11eb-a8a2-19ed5c03f8d3,species,agrotidis,Nosema,,,,,,,,,,,,,,,522711," "
@@ -9,22 +9,22 @@ f985bf78-9bab-11eb-a8a2-19ed5c03f8d3,species,anophelis,Nosema,,"R. Kudo",,,,,,,,
 3b22ce4e-9bac-11eb-a8a2-19ed5c03f8d3,species,apis,Nosema,,Zonder,,,,,,,,3b22ce4e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522715," "
 67b0b50c-9bac-11eb-a8a2-19ed5c03f8d3,species,birgii,Nosema,,"B.S. Toguebaye & B. Marchand",,,,,,,,67b0b50c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522716," "
 f9333884-9bab-11eb-a8a2-19ed5c03f8d3,species,bombi,Nosema,,,,,,,,,,,,,,,522717," "
-fa8d067e-9bab-11eb-a8a2-19ed5c03f8d3,species,bombycis,Nosema,,Nägeli,,,,,,,,fa8d067e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522718," "
+fa8d067e-9bab-11eb-a8a2-19ed5c03f8d3,species,bombycis,Nosema,,Nägeli,Q123876,,,,,,,fa8d067e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522718," "
 0889ac8c-9bac-11eb-a8a2-19ed5c03f8d3,species,branchialis,Nosema,,Nemeczek,,,,,,,,0889ac8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523015," "
-e7ff1c86-8fcb-11eb-924d-9cd76263cbd0,species,capitatum,Nosema,,Prain,,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 20 1904",,,,,,452834-1,wfo-0000252080,5606166,,
-d239ad34-8fcc-11eb-924d-9cd76263cbd0,variety,javanicum,Nosema,capitatum,"C.B.Clarke ex Prain",,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 66: 21 1904",,,,,,,wfo-0000619676,8305526,,
+e7ff1c86-8fcb-11eb-924d-9cd76263cbd0,species,capitatum,Nosema,,Prain,Q689862,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 20 1904",,,,,,452834-1,wfo-0000252080,5606166,,
+d239ad34-8fcc-11eb-924d-9cd76263cbd0,variety,javanicum,Nosema,capitatum,"C.B.Clarke ex Prain","Q2659116,Q689862",1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 66: 21 1904",,,,,,,wfo-0000619676,8305526,,
 fa8d33c4-9bab-11eb-a8a2-19ed5c03f8d3,species,carpocapsae,Nosema,,,,,,,,,,,,,,,522719," "
 1145d2ba-9bac-11eb-a8a2-19ed5c03f8d3,species,ceranae,Nosema,,,,,,,,,,,,,,,522720," "
 721e5df0-9bac-11eb-a8a2-19ed5c03f8d3,species,chaetocnemae,Nosema,,"M. Yaman & R. Radek",,,,,,,,721e5df0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522721," "
 081ca334-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysorrhoeae,Nosema,,,,,,,,,,,,,,,522722," "
-e7ff3b44-8fcb-11eb-924d-9cd76263cbd0,species,clausa,Nosema,,"(Merr.) H.Keng",,1969,,"Gard. Bull. Singapore 24: 123 1969",,,,e2354ed8-8fcb-11eb-924d-9cd76263cbd0,,452835-1,wfo-0000252081,5609327,,
-e7ff5804-8fcb-11eb-924d-9cd76263cbd0,species,cochinchinense,Nosema,,"(Lour.) Merr.",,1935,,"Trans. Amer. Philos. Soc. n.s., 24: 343 1935",,,,,,452836-1,wfo-0000252082,5609324,,
-bb93d374-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Nosema,,"(Lour.) Merr.",,1935,,"Trans. Amer. Philos. Soc., n.s., 24: 343 1935",,,,,,,wfo-0001070117,8027626,,
-066cc592-9bac-11eb-a8a2-19ed5c03f8d3,species,connori,Nosema,,Sprague,,,,,,,,066cc592-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522723," "
-060d0ee4-9bad-11eb-a8a2-19ed5c03f8d3,species,corneum,Nosema,,"Shadduck, Meccoli, Davis & Font",,,,,,,,060d0ee4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,522724," "
+e7ff3b44-8fcb-11eb-924d-9cd76263cbd0,species,clausa,Nosema,,"(Merr.) H.Keng","Q729926,Q5903806",1969,,"Gard. Bull. Singapore 24: 123 1969",,,,e2354ed8-8fcb-11eb-924d-9cd76263cbd0,,452835-1,wfo-0000252081,5609327,,
+e7ff5804-8fcb-11eb-924d-9cd76263cbd0,species,cochinchinense,Nosema,,"(Lour.) Merr.","Q729917,Q729926",1935,,"Trans. Amer. Philos. Soc. n.s., 24: 343 1935",,,,,,452836-1,wfo-0000252082,5609324,,
+bb93d374-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Nosema,,"(Lour.) Merr.","Q729917,Q729926",1935,,"Trans. Amer. Philos. Soc., n.s., 24: 343 1935",,,,,,,wfo-0001070117,8027626,,
+066cc592-9bac-11eb-a8a2-19ed5c03f8d3,species,connori,Nosema,,Sprague,Q2422076,,,,,,,066cc592-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522723," "
+060d0ee4-9bad-11eb-a8a2-19ed5c03f8d3,species,corneum,Nosema,,"Shadduck, Meccoli, Davis & Font","Q21509931,Q36554057",,,,,,,060d0ee4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,522724," "
 fad8c082-9bab-11eb-a8a2-19ed5c03f8d3,species,costelytrae,Nosema,,,,,,,,,,,,,,,522725," "
 6de9440c-9bac-11eb-a8a2-19ed5c03f8d3,species,couilloudi,Nosema,,"B.S. Toguebaye & B. Marchand",,,,,,,,6de9440c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522726," "
-6e696628-9bac-11eb-a8a2-19ed5c03f8d3,species,cristatellae,Nosema,,"Canning, Okamura & Curry",,,,,,,,6e696628-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522727," "
+6e696628-9bac-11eb-a8a2-19ed5c03f8d3,species,cristatellae,Nosema,,"Canning, Okamura & Curry",Q658858,,,,,,,6e696628-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522727," "
 fa238816-9bab-11eb-a8a2-19ed5c03f8d3,species,culicis,Nosema,,,,,,,,,,,,,,,522728," "
 069b4d4a-9bac-11eb-a8a2-19ed5c03f8d3,species,cuneatum,Nosema,,,,,,,,,,,,,,,522729," "
 175ce2ba-9bac-11eb-a8a2-19ed5c03f8d3,species,cuniculi,Nosema,,,,,,,,,,,,,,,522730," "
@@ -43,37 +43,37 @@ a5c6081a-9bac-11eb-a8a2-19ed5c03f8d3,species,galerucellae,Nosema,,"B.S. Toguebay
 16a9d92c-9bac-11eb-a8a2-19ed5c03f8d3,species,granulosis,Nosema,,,,,,,,,,,,,,,522743," "
 f8d42538-9bab-11eb-a8a2-19ed5c03f8d3,species,grylli,Nosema,,"Sokolova, Selezniov, Dolgikh, I.V. Issi",,,,,,,,f8d42538-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522744," "
 1fb9b5d2-9bac-11eb-a8a2-19ed5c03f8d3,species,heliothidis,Nosema,,,,,,,,,,,,,,,522745," "
-e7ff78e8-8fcb-11eb-924d-9cd76263cbd0,species,holochilum,Nosema,,"(Hance) Kudô",,1929,,"Mem. Fac. Sci. Taihoku Imp. Univ. 2: 108 1929",,,,8da84eea-8fcd-11eb-924d-9cd76263cbd0,,452833-1,wfo-0000252083,7550741,,
-059d7e9e-9bad-11eb-a8a2-19ed5c03f8d3,species,infirmum,Nosema,,Kudo,,,,,,,,059d7e9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,522993," "
+e7ff78e8-8fcb-11eb-924d-9cd76263cbd0,species,holochilum,Nosema,,"(Hance) Kudô","Q2657692,Q5958921",1929,,"Mem. Fac. Sci. Taihoku Imp. Univ. 2: 108 1929",,,,8da84eea-8fcd-11eb-924d-9cd76263cbd0,,452833-1,wfo-0000252083,7550741,,
+059d7e9e-9bad-11eb-a8a2-19ed5c03f8d3,species,infirmum,Nosema,,Kudo,Q5958921,,,,,,,059d7e9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,522993," "
 f8d8ba30-9bab-11eb-a8a2-19ed5c03f8d3,species,kingi,Nosema,,"J. Kramer",,,,,,,,f8d8ba30-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522746," "
 0d8923e2-9bad-11eb-a8a2-19ed5c03f8d3,species,kovacevici,Nosema,,,,,,,,,,,,,,,522747," "
 f9d708ce-9bab-11eb-a8a2-19ed5c03f8d3,species,leptinotarsae,Nosema,,,,,,,,,,,,,,,522748," "
 062b0278-9bad-11eb-a8a2-19ed5c03f8d3,species,locustae,Nosema,,Canning,,,,,,,,062b0278-9bad-11eb-a8a2-19ed5c03f8d3,,,,,522749," "
-3721fb80-9bac-11eb-a8a2-19ed5c03f8d3,species,lophi,Nosema,,"(Doflein) Pace",,,,,,,,72265fd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522750," "
+3721fb80-9bac-11eb-a8a2-19ed5c03f8d3,species,lophi,Nosema,,"(Doflein) Pace",Q21522499,,,,,,,72265fd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522750," "
 f8df8130-9bab-11eb-a8a2-19ed5c03f8d3,species,lutzi,Nosema,,,,,,,,,,,,,,,522751," "
 f8f6b1f2-9bab-11eb-a8a2-19ed5c03f8d3,species,lymantriae,Nosema,,Weiser,,,,,,,,f8f6b1f2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522752," "
 5a3f42c6-9bac-11eb-a8a2-19ed5c03f8d3,species,mesnili,Nosema,,"(Paillot) Paillot",,,,,,,,088b8200-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522753," "
-0a80fa90-9bac-11eb-a8a2-19ed5c03f8d3,species,michaeli,Nosema,,Sprague,,,,,,,,0a80fa90-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522754," "
+0a80fa90-9bac-11eb-a8a2-19ed5c03f8d3,species,michaeli,Nosema,,Sprague,Q2422076,,,,,,,0a80fa90-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522754," "
 93e71ac6-9bac-11eb-a8a2-19ed5c03f8d3,species,muscularis,Nosema,,,,,,,,,,,,,,,522756," "
 f9bb285c-9bab-11eb-a8a2-19ed5c03f8d3,species,necatrix,Nosema,,"J.P. Kramer",,,,,,,,f9bb285c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522757," "
-1709753a-9bac-11eb-a8a2-19ed5c03f8d3,species,nelsoni,Nosema,,Sprague,,,,,,,,1709753a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522755," "
+1709753a-9bac-11eb-a8a2-19ed5c03f8d3,species,nelsoni,Nosema,,Sprague,Q2422076,,,,,,,1709753a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522755," "
 16ecd704-9bac-11eb-a8a2-19ed5c03f8d3,species,nisotrae,Nosema,,"B.S. Toguebaye & B. Marchand",,,,,,,,16ecd704-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522758," "
 f8e1b70c-9bab-11eb-a8a2-19ed5c03f8d3,species,notabilis,Nosema,,,,,,,,,,,,,,,522759," "
 4274c97c-9bac-11eb-a8a2-19ed5c03f8d3,species,onophelis,Nosema,,"R. Kudo",,,,,,,,4274c97c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522760," "
 f8e2b21a-9bab-11eb-a8a2-19ed5c03f8d3,species,oryzaephili,Nosema,,,,,,,,,,,,,,,522761," "
 f8e35878-9bab-11eb-a8a2-19ed5c03f8d3,species,oulemae,Nosema,,,,,,,,,,,,,,,522762," "
-4465846a-9bac-11eb-a8a2-19ed5c03f8d3,species,ovoideum,Nosema,,"(Thélohan) Labbé",,,,,,,,f8901de8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522995," "
+4465846a-9bac-11eb-a8a2-19ed5c03f8d3,species,ovoideum,Nosema,,"(Thélohan) Labbé",Q21340053,,,,,,,f8901de8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,522995," "
 c7ac1136-9bac-11eb-a8a2-19ed5c03f8d3,species,phyllotretae,Nosema,,"J. Weiser",,,,,,,,c7ac1136-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522763," "
 f8e3eb3a-9bab-11eb-a8a2-19ed5c03f8d3,species,plodiae,Nosema,,,,,,,,,,,,,,,522764," "
 741ab856-9bac-11eb-a8a2-19ed5c03f8d3,species,plutellae,Nosema,,,,,,,,,,,,,,,522765," "
 741ae4fc-9bac-11eb-a8a2-19ed5c03f8d3,species,polygrammae,Nosema,,"Z. Hostounský & J. Weiser",,,,,,,,741ae4fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522767," "
 741b113e-9bac-11eb-a8a2-19ed5c03f8d3,species,portugal,Nosema,,,,,,,,,,,,,,,522768," "
-e7ffd144-8fcb-11eb-924d-9cd76263cbd0,species,prunelloides,Nosema,,"(Hemsl.) C.B.Clarke ex Prain",,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 21 1904",,,,e236ba84-8fcb-11eb-924d-9cd76263cbd0,,452838-1,wfo-0000252084,5609315,,
+e7ffd144-8fcb-11eb-924d-9cd76263cbd0,species,prunelloides,Nosema,,"(Hemsl.) C.B.Clarke ex Prain","Q1339247,Q2659116,Q689862",1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 21 1904",,,,e236ba84-8fcb-11eb-924d-9cd76263cbd0,,452838-1,wfo-0000252084,5609315,,
 08c05da4-9bac-11eb-a8a2-19ed5c03f8d3,species,pulvis,Nosema,,Pérez,,,,,,,,08c05da4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523014," "
 741b3d76-9bac-11eb-a8a2-19ed5c03f8d3,species,pyrausta,Nosema,,,,,,,,,,,,,,,522769," "
 741b6b0c-9bac-11eb-a8a2-19ed5c03f8d3,species,pyrrhocoridis,Nosema,,Lipa,,,,,,,,741b6b0c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522770," "
 2fb4a140-9bac-11eb-a8a2-19ed5c03f8d3,species,rivulogammari,Nosema,,"J.I.R. Larsson",,,,,,,,2fb4a140-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522964," "
-bfc9c224-8fd1-11eb-924d-9cd76263cbd0,species,rubra,Nosema,,"(Doan) C.Y.Wu",,1959,,"Acta Phytotax. Sin. 8(1): 63–64 1959",,,,e236e7c0-8fcb-11eb-924d-9cd76263cbd0,,452839-1,wfo-0001253645,5609312,,
+bfc9c224-8fd1-11eb-924d-9cd76263cbd0,species,rubra,Nosema,,"(Doan) C.Y.Wu","Q33669631,Q534717",1959,,"Acta Phytotax. Sin. 8(1): 63–64 1959",,,,e236e7c0-8fcb-11eb-924d-9cd76263cbd0,,452839-1,wfo-0001253645,5609312,,
 741b98ca-9bac-11eb-a8a2-19ed5c03f8d3,species,sauridae,Nosema,,,,,,,,,,,,,,,522771," "
 741be974-9bac-11eb-a8a2-19ed5c03f8d3,species,serbica,Nosema,,,,,,,,,,,,,,,522772," "
 741c27ae-9bac-11eb-a8a2-19ed5c03f8d3,species,shingidis,Nosema,,,,,,,,,,,,,,,522773," "
@@ -81,7 +81,7 @@ bfc9c224-8fd1-11eb-924d-9cd76263cbd0,species,rubra,Nosema,,"(Doan) C.Y.Wu",,1959
 741c9ba8-9bac-11eb-a8a2-19ed5c03f8d3,species,stegomyiae,Nosema,,,,,,,,,,,,,,,522775," "
 741cfd32-9bac-11eb-a8a2-19ed5c03f8d3,species,tephrititae,Nosema,,,,,,,,,,,,,,,522776," "
 741d3964-9bac-11eb-a8a2-19ed5c03f8d3,species,thomsoni,Nosema,,,,,,,,,,,,,,,522777," "
-e800171c-8fcb-11eb-924d-9cd76263cbd0,species,tonkinense,Nosema,,"C.B.Clarke ex Prain",,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 21 1904",,,,,,452840-1,wfo-0000252085,5609310,,
+e800171c-8fcb-11eb-924d-9cd76263cbd0,species,tonkinense,Nosema,,"C.B.Clarke ex Prain","Q2659116,Q689862",1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 21 1904",,,,,,452840-1,wfo-0000252085,5609310,,
 741d7690-9bac-11eb-a8a2-19ed5c03f8d3,species,tortricis,Nosema,,,,,,,,,,,,,,,522778," "
 16ced2ea-9bac-11eb-a8a2-19ed5c03f8d3,species,tractabile,Nosema,,"J.I.R. Larsson",,,,,,,,16ced2ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522958," "
 741da39a-9bac-11eb-a8a2-19ed5c03f8d3,species,trichoplusiae,Nosema,,,,,,,,,,,,,,,522779," "

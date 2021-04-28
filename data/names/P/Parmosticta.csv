@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a11df0e2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Parmosticta,,,Nyl.,,1875,,"Flora, Jena 58: 303 (1875)",,,,a11df0e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3740," "
-3b1f2324-9bad-11eb-a8a2-19ed5c03f8d3,species,aurata,Parmosticta,,"(Ach.) Nyl.",,1875,,"Flora, Jena 58: (1875)",,,,d440c838-9bac-11eb-a8a2-19ed5c03f8d3,,,,,368885," "
-3b25f668-9bad-11eb-a8a2-19ed5c03f8d3,species,obvoluta,Parmosticta,,"(Ach.) Nyl.",,,,,,,,,,,,,368886," "
-5d523648-9bad-11eb-a8a2-19ed5c03f8d3,species,purpurascens,Parmosticta,,Stirt.,,1899,,"Trans. & Proc. New Zealand Inst. 32: 71 (1899)",,,,5d523648-9bad-11eb-a8a2-19ed5c03f8d3,,,,,458433," "
-8dbaabbc-9bad-11eb-a8a2-19ed5c03f8d3,species,rubrina,Parmosticta,,Stirt.,,1881,,"Trans. & Proc. Roy. Soc. Queensland 17: 69 (1881)",,,,8dbaabbc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,398617," "
+a11df0e2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Parmosticta,,,Nyl.,Q932083,1875,,"Flora, Jena 58: 303 (1875)",,,,a11df0e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3740," "
+3b1f2324-9bad-11eb-a8a2-19ed5c03f8d3,species,aurata,Parmosticta,,"(Ach.) Nyl.","Q365923,Q932083",1875,,"Flora, Jena 58: (1875)",,,,d440c838-9bac-11eb-a8a2-19ed5c03f8d3,,,,,368885," "
+3b25f668-9bad-11eb-a8a2-19ed5c03f8d3,species,obvoluta,Parmosticta,,"(Ach.) Nyl.","Q365923,Q932083",,,,,,,,,,,,368886," "
+5d523648-9bad-11eb-a8a2-19ed5c03f8d3,species,purpurascens,Parmosticta,,Stirt.,Q4442403,1899,,"Trans. & Proc. New Zealand Inst. 32: 71 (1899)",,,,5d523648-9bad-11eb-a8a2-19ed5c03f8d3,,,,,458433," "
+8dbaabbc-9bad-11eb-a8a2-19ed5c03f8d3,species,rubrina,Parmosticta,,Stirt.,Q4442403,1881,,"Trans. & Proc. Roy. Soc. Queensland 17: 69 (1881)",,,,8dbaabbc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,398617," "

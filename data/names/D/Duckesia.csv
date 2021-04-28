@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e313e16a-8fd1-11eb-924d-9cd76263cbd0,genus,Duckesia,,,Cuatrec.,,1961,,"Contr. U.S. Natl. Herb. 35(2): 76. 1961. (14 Apr 1961)",,Q95371778,,,,297169-2,wfo-4000012702,7320154,,
-e8977fb6-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Duckesia,,"(Ducke) Cuatrec.",,1961,,"Contr. U. S. Natl. Herb. 35: 78 1961",,Q95371778,,,,85534-2,wfo-0000657620,3649066,,
-32ee3550-8fcd-11eb-924d-9cd76263cbd0,species,ducoroniae,,,"(P.Delforge) J.M.H.Shaw",,,,"Orchid Rev. Suppl. 113(1264): 20 2005",,,,ed31c28a-8fcb-11eb-924d-9cd76263cbd0,,77066962-1,wfo-0000800149,,,
-ed31c28a-8fcb-11eb-924d-9cd76263cbd0,species,ducoroniae,,,P.Delforge,,1992,,"Naturalistes Belges 73: 127 1992",,,,,,979724-1,wfo-0000260198,,,
-6f57c326-8fcd-11eb-924d-9cd76263cbd0,species,ducoroniae,,,"(P.Delforge) P.Delforge",,2009,,"Naturalistes Belges 90: 33 2009",,,,ed31c28a-8fcb-11eb-924d-9cd76263cbd0,,77103224-1,wfo-0000912951,,,
-2adcc69c-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Ducoudraea,,Bureau,,1864,,"Monogr. Bignon. 49 1864",,,,,,109593-1,wfo-0000782297,4094492,,
+e313e16a-8fd1-11eb-924d-9cd76263cbd0,genus,Duckesia,,,Cuatrec.,Q3088960,1961,,"Contr. U.S. Natl. Herb. 35(2): 76. 1961. (14 Apr 1961)",,Q95371778,,,,297169-2,wfo-4000012702,7320154,,
+e8977fb6-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Duckesia,,"(Ducke) Cuatrec.","Q2601698,Q3088960",1961,,"Contr. U. S. Natl. Herb. 35: 78 1961",,Q95371778,,,,85534-2,wfo-0000657620,3649066,,
+32ee3550-8fcd-11eb-924d-9cd76263cbd0,species,ducoroniae,,,"(P.Delforge) J.M.H.Shaw","Q3903438,Q5954755",,,"Orchid Rev. Suppl. 113(1264): 20 2005",,,,ed31c28a-8fcb-11eb-924d-9cd76263cbd0,,77066962-1,wfo-0000800149,,,
+6f57c326-8fcd-11eb-924d-9cd76263cbd0,species,ducoroniae,,,"(P.Delforge) P.Delforge",Q3903438,2009,,"Naturalistes Belges 90: 33 2009",,,,ed31c28a-8fcb-11eb-924d-9cd76263cbd0,,77103224-1,wfo-0000912951,,,
+ed31c28a-8fcb-11eb-924d-9cd76263cbd0,species,ducoroniae,,,P.Delforge,Q3903438,1992,,"Naturalistes Belges 73: 127 1992",,,,,,979724-1,wfo-0000260198,,,
+2adcc69c-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Ducoudraea,,Bureau,Q723391,1864,,"Monogr. Bignon. 49 1864",,,,,,109593-1,wfo-0000782297,4094492,,

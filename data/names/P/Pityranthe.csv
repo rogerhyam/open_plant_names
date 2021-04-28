@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e89aeafc-8fd1-11eb-924d-9cd76263cbd0,genus,Pityranthe,,,Thwaites,,1858,,"Enum. Pl. Zeyl. 29. 1858.",,Q96016554,,,,39503-1,wfo-4000029938,7311197,,
-d08937e8-8fd1-11eb-924d-9cd76263cbd0,species,trichosperma,Pityranthe,,"(Merr.) Kubitzki",,,,,,,,08f8b43c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001281593,4261443,,
-7aeb9678-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Pityranthe,,Thwaites,,1858,,"Enum. Pl. Zeyl. 29 1858",,Q96016554,,,,835024-1,wfo-0000475686,4261437,,
-b117d80a-8fcd-11eb-924d-9cd76263cbd0,species,crassifolius,Pityranthus,,Mart.,,1817,,"Denks. Akad. Munch. 5: 179 1817",,,,,,61110-1,wfo-0001046128,3673647,,
+e89aeafc-8fd1-11eb-924d-9cd76263cbd0,genus,Pityranthe,,,Thwaites,Q2656749,1858,,"Enum. Pl. Zeyl. 29. 1858.",,Q96016554,,,,39503-1,wfo-4000029938,7311197,,
+d08937e8-8fd1-11eb-924d-9cd76263cbd0,species,trichosperma,Pityranthe,,"(Merr.) Kubitzki","Q729926,Q5960148",,,,,,,08f8b43c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001281593,4261443,,
+7aeb9678-8fcc-11eb-924d-9cd76263cbd0,species,verrucosa,Pityranthe,,Thwaites,Q2656749,1858,,"Enum. Pl. Zeyl. 29 1858",,Q96016554,,,,835024-1,wfo-0000475686,4261437,,
+b117d80a-8fcd-11eb-924d-9cd76263cbd0,species,crassifolius,Pityranthus,,Mart.,Q77131,1817,,"Denks. Akad. Munch. 5: 179 1817",,,,,,61110-1,wfo-0001046128,3673647,,

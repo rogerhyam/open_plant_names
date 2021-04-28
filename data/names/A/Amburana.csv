@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df326b8e-8fd1-11eb-924d-9cd76263cbd0,genus,Amburana,,,"Schwacke & Taubert",,,,,,,,,,296650-2,wfo-4000001566,2945820,,
-52e685a6-8fc3-11eb-924d-9cd76263cbd0,species,acreana,Amburana,,"(Ducke) A.C.Sm.",,,,,,,,,,,wfo-0000182163,2945824,,
-52fdf9a2-8fc3-11eb-924d-9cd76263cbd0,species,cearensis,Amburana,,"(Allemao) A.C.Sm.",,,,,,,,b2ce520a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000182165,2945821,,
-696d36e4-8fc3-11eb-924d-9cd76263cbd0,species,claudii,Amburana,,"Schwacke & Taub.",,,,,,,,,,,wfo-0000182669,2945822,,
-9b622fca-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Ambuya,,Raf.,,1838,,"Fl. Tellur. 4: 98 1838",,,,,,92702-1,wfo-0000530817,3589448,,
+df326b8e-8fd1-11eb-924d-9cd76263cbd0,genus,Amburana,,,"Schwacke & Taubert",Q2938868,,,,,,,,,296650-2,wfo-4000001566,2945820,,
+52e685a6-8fc3-11eb-924d-9cd76263cbd0,species,acreana,Amburana,,"(Ducke) A.C.Sm.","Q2601698,Q1922675",,,,,,,,,,wfo-0000182163,2945824,,
+52fdf9a2-8fc3-11eb-924d-9cd76263cbd0,species,cearensis,Amburana,,"(Allemao) A.C.Sm.",Q1922675,,,,,,,b2ce520a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000182165,2945821,,
+696d36e4-8fc3-11eb-924d-9cd76263cbd0,species,claudii,Amburana,,"Schwacke & Taub.","Q2938868,Q4452735",,,,,,,,,,wfo-0000182669,2945822,,
+9b622fca-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Ambuya,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 98 1838",,,,,,92702-1,wfo-0000530817,3589448,,

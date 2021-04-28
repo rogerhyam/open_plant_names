@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df2ca456-8fd1-11eb-924d-9cd76263cbd0,genus,Amauria,,,Benth.,,,,,,,,,,7563-1,wfo-4000001487,3130671,,
-861f9f28-8fb6-11eb-924d-9cd76263cbd0,species,brandegeana,Amauria,,"(Rose) Rydb.",,1914,,"N. Amer. Fl. 34 30 1914",,,,69e466de-8fb3-11eb-924d-9cd76263cbd0,,12034-2,wfo-0000090359,,,
-26479b9a-8fb2-11eb-924d-9cd76263cbd0,species,carterae,Amauria,,A.M.Powell,,1972,,"Madroño 21 457 1972",,Q93964450,,,,12035-2,wfo-0000013599,3130673,,
-6b930dec-8fb2-11eb-924d-9cd76263cbd0,species,dissecta,Amauria,,A.Gray,,1849,,"104 1849",,,,,,175970-1,wfo-0000023991,3134291,,
-07bb467c-8fb2-11eb-924d-9cd76263cbd0,species,rotundifolia,Amauria,,Benth.,,1844,,"31 1844",,,,,,175971-1,wfo-0000006049,3130672,,
+df2ca456-8fd1-11eb-924d-9cd76263cbd0,genus,Amauria,,,Benth.,Q731808,,,,,,,,,7563-1,wfo-4000001487,3130671,,
+861f9f28-8fb6-11eb-924d-9cd76263cbd0,species,brandegeana,Amauria,,"(Rose) Rydb.","Q1336049,Q1905130",1914,,"N. Amer. Fl. 34 30 1914",,,,69e466de-8fb3-11eb-924d-9cd76263cbd0,,12034-2,wfo-0000090359,,,
+26479b9a-8fb2-11eb-924d-9cd76263cbd0,species,carterae,Amauria,,A.M.Powell,Q2638485,1972,,"Madroño 21 457 1972",,Q93964450,,,,12035-2,wfo-0000013599,3130673,,
+6b930dec-8fb2-11eb-924d-9cd76263cbd0,species,dissecta,Amauria,,A.Gray,Q347356,1849,,"104 1849",,,,,,175970-1,wfo-0000023991,3134291,,
+07bb467c-8fb2-11eb-924d-9cd76263cbd0,species,rotundifolia,Amauria,,Benth.,Q731808,1844,,"31 1844",,,,,,175971-1,wfo-0000006049,3130672,,

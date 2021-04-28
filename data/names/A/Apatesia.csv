@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df94b7c6-8fd1-11eb-924d-9cd76263cbd0,genus,Apatesia,,,N.E.Br.,,1927,,"Gard. Chron. ser. 3. 81: 12. 1927.",,,,,,16100-1,wfo-4000002585,7329401,,
-a0e8f62c-8fcc-11eb-924d-9cd76263cbd0,species,helianthoides,Apatesia,,"(Sol. ex Aiton) N.E.Br.",,1927,,"Gard. Chron. III, 81: 12 1927",,,,,,360545-1,wfo-0000539804,3706078,,
-a0e9327c-8fcc-11eb-924d-9cd76263cbd0,species,maughanii,Apatesia,,N.E.Br.,,1932,,"Gard. Chron. III, 91: 263 1932",,,,,,360546-1,wfo-0000539806,7706920,,
-a0e94dfc-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Apatesia,,N.E.Br.,,1927,,"Gard. Chron. III, 81: 12 1927",,,,,,360547-1,wfo-0000539807,7482866,,
-a0e96ddc-8fcc-11eb-924d-9cd76263cbd0,species,sabulosa,Apatesia,,"(Thunb.) L.Bolus",,1950,,"Notes Mesembryanthemum 3: 229 1950",,,,,,360549-1,wfo-0000539808,3706047,,
-e275cc06-8fcb-11eb-924d-9cd76263cbd0,species,purpurascens,Apation,,"Blume ex Ridl.",,1886,,"J. Linn. Soc., Bot. 22: 279 1886",,Q55760277,,,,616674-1,wfo-0000242396,2837380,,
+df94b7c6-8fd1-11eb-924d-9cd76263cbd0,genus,Apatesia,,,N.E.Br.,Q721850,1927,,"Gard. Chron. ser. 3. 81: 12. 1927.",,,,,,16100-1,wfo-4000002585,7329401,,
+a0e8f62c-8fcc-11eb-924d-9cd76263cbd0,species,helianthoides,Apatesia,,"(Sol. ex Aiton) N.E.Br.","Q39789,Q465898,Q721850",1927,,"Gard. Chron. III, 81: 12 1927",,,,,,360545-1,wfo-0000539804,3706078,,
+a0e9327c-8fcc-11eb-924d-9cd76263cbd0,species,maughanii,Apatesia,,N.E.Br.,Q721850,1932,,"Gard. Chron. III, 91: 263 1932",,,,,,360546-1,wfo-0000539806,7706920,,
+a0e94dfc-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Apatesia,,N.E.Br.,Q721850,1927,,"Gard. Chron. III, 81: 12 1927",,,,,,360547-1,wfo-0000539807,7482866,,
+a0e96ddc-8fcc-11eb-924d-9cd76263cbd0,species,sabulosa,Apatesia,,"(Thunb.) L.Bolus","Q39658,Q63764",1950,,"Notes Mesembryanthemum 3: 229 1950",,,,,,360549-1,wfo-0000539808,3706047,,
+e275cc06-8fcb-11eb-924d-9cd76263cbd0,species,purpurascens,Apation,,"Blume ex Ridl.","Q76816,Q733709",1886,,"J. Linn. Soc., Bot. 22: 279 1886",,Q55760277,,,,616674-1,wfo-0000242396,2837380,,

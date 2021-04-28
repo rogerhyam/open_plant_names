@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e17765e8-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetanthus,,,R.Br.,,1810,,"Prodr. 251. 1810.",,Q7247677,,,,33335-1,wfo-4000007495,2707357,,
-2771a8fc-8fcc-11eb-924d-9cd76263cbd0,species,aristatus,Chaetanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 8: 24 1998",,Q55801447,,71729b50-8fcc-11eb-924d-9cd76263cbd0,,1005478-1,wfo-0000353337,2707363,,
-2771d05c-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpoides,Chaetanthus,,R.Br.,,1810,,"Prodr. Fl. Nov. Holl. 251 1810",,Q7247677,,,,715772-1,wfo-0000353338,2707361,,
-2771ebdc-8fcc-11eb-924d-9cd76263cbd0,species,tenellus,Chaetanthus,,"(Nees) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 8: 24 1998",,Q55801447,,,,1005479-1,wfo-0000353339,2707358,,
+e17765e8-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetanthus,,,R.Br.,Q155764,1810,,"Prodr. 251. 1810.",,Q7247677,,,,33335-1,wfo-4000007495,2707357,,
+2771a8fc-8fcc-11eb-924d-9cd76263cbd0,species,aristatus,Chaetanthus,,"(R.Br.) B.G.Briggs & L.A.S.Johnson","Q155764,Q2356897,Q3090721",1998,,"Telopea 8: 24 1998",,Q55801447,,71729b50-8fcc-11eb-924d-9cd76263cbd0,,1005478-1,wfo-0000353337,2707363,,
+2771d05c-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpoides,Chaetanthus,,R.Br.,Q155764,1810,,"Prodr. Fl. Nov. Holl. 251 1810",,Q7247677,,,,715772-1,wfo-0000353338,2707361,,
+2771ebdc-8fcc-11eb-924d-9cd76263cbd0,species,tenellus,Chaetanthus,,"(Nees) B.G.Briggs & L.A.S.Johnson","Q76349,Q2356897,Q3090721",1998,,"Telopea 8: 24 1998",,Q55801447,,,,1005479-1,wfo-0000353339,2707358,,

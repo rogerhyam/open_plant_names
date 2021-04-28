@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df42e2fc-8fd1-11eb-924d-9cd76263cbd0,genus,Amphorocalyx,,,Baker,,1887,,"J. Linn. Soc., Bot. 22: 476. 1887.",,Q54800858,,,,26159-1,wfo-4000001759,7272830,,
-c01b7cee-8fcd-11eb-924d-9cd76263cbd0,species,albus,Amphorocalyx,,"Jum. & H.Perrier",,1911,,"Ann. Sci. Nat., Bot. 14: 272 1911",,,,,,566188-1,wfo-0001080383,3859155,,
-c01b458a-8fcd-11eb-924d-9cd76263cbd0,species,auratifolius,Amphorocalyx,,H.Perrier,,1945,,"Notul. Syst. (Paris) 12: 91 1945",,,,,,566189-1,wfo-0001080381,3859145,,
-c07a4d6e-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Amphorocalyx,,H.Perrier,,1932,,"Mém. Acad. Malgache 12: 22–23, t. III, f. 5 1932",,,,,,566190-1,wfo-0001081211,3859135,,
-c01b5f8e-8fcd-11eb-924d-9cd76263cbd0,species,multiflorus,Amphorocalyx,,Baker,,1886,,"J. Linn. Soc., Bot. 22: 476 1886",,,,,,,wfo-0001080382,3859129,,
-c01b2bc2-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Amphorocalyx,,H.Perrier,,1932,,"Mém. Acad. Malgache 12: 23, t. II, f. 4 1932",,,,,,566192-1,wfo-0001080380,3859118,,
+df42e2fc-8fd1-11eb-924d-9cd76263cbd0,genus,Amphorocalyx,,,Baker,Q730330,1887,,"J. Linn. Soc., Bot. 22: 476. 1887.",,Q54800858,,,,26159-1,wfo-4000001759,7272830,,
+c01b7cee-8fcd-11eb-924d-9cd76263cbd0,species,albus,Amphorocalyx,,"Jum. & H.Perrier","Q4182034,Q2564623",1911,,"Ann. Sci. Nat., Bot. 14: 272 1911",,,,,,566188-1,wfo-0001080383,3859155,,
+c01b458a-8fcd-11eb-924d-9cd76263cbd0,species,auratifolius,Amphorocalyx,,H.Perrier,Q2564623,1945,,"Notul. Syst. (Paris) 12: 91 1945",,,,,,566189-1,wfo-0001080381,3859145,,
+c07a4d6e-8fcd-11eb-924d-9cd76263cbd0,species,latifolius,Amphorocalyx,,H.Perrier,Q2564623,1932,,"Mém. Acad. Malgache 12: 22–23, t. III, f. 5 1932",,,,,,566190-1,wfo-0001081211,3859135,,
+c01b5f8e-8fcd-11eb-924d-9cd76263cbd0,species,multiflorus,Amphorocalyx,,Baker,Q730330,1886,,"J. Linn. Soc., Bot. 22: 476 1886",,,,,,,wfo-0001080382,3859129,,
+c01b2bc2-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Amphorocalyx,,H.Perrier,Q2564623,1932,,"Mém. Acad. Malgache 12: 23, t. II, f. 4 1932",,,,,,566192-1,wfo-0001080380,3859118,,

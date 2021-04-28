@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4611ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Hanabusaya,,,Nakai,,1911,,"Bot. Mag. (Tokyo) 25: (161). 1911.",,,,,,5710-1,wfo-4000016816,3166589,,
-4287b4be-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Hanabusaya,,"(Nakai) Nakai",,1911,,"J. Coll. Sci. Imp. Univ. Tokyo 31: 62 1911",,,,,,142532-1,wfo-0000833329,3166590,,
-4288188c-8fcd-11eb-924d-9cd76263cbd0,form,alba,Hanabusaya,asiatica,T.B.Lee,,1975,,"J. Korean Pl. Taxon. 6: 17 1975",,,,,,948593-1,wfo-0000833331,3166592,,
-42884280-8fcd-11eb-924d-9cd76263cbd0,variety,latisepala,Hanabusaya,asiatica,"(Nakai) W.Lee",,,,"Lin. Fl. Koreae 1071 1996",,,,42886c10-8fcd-11eb-924d-9cd76263cbd0,,20007545-1,wfo-0000833332,3166596,,
-42886c10-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Hanabusaya,,Nakai,,1921,,"Bot. Mag. (Tokyo) 35: 147 1921",,,,,,142533-1,wfo-0000833333,3166591,,
+e4611ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Hanabusaya,,,Nakai,Q704751,1911,,"Bot. Mag. (Tokyo) 25: (161). 1911.",,,,,,5710-1,wfo-4000016816,3166589,,
+4287b4be-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Hanabusaya,,"(Nakai) Nakai",Q704751,1911,,"J. Coll. Sci. Imp. Univ. Tokyo 31: 62 1911",,,,,,142532-1,wfo-0000833329,3166590,,
+4288188c-8fcd-11eb-924d-9cd76263cbd0,form,alba,Hanabusaya,asiatica,T.B.Lee,Q21339961,1975,,"J. Korean Pl. Taxon. 6: 17 1975",,,,,,948593-1,wfo-0000833331,3166592,,
+42884280-8fcd-11eb-924d-9cd76263cbd0,variety,latisepala,Hanabusaya,asiatica,"(Nakai) W.Lee","Q704751,Q36701915",,,"Lin. Fl. Koreae 1071 1996",,,,42886c10-8fcd-11eb-924d-9cd76263cbd0,,20007545-1,wfo-0000833332,3166596,,
+42886c10-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Hanabusaya,,Nakai,Q704751,1921,,"Bot. Mag. (Tokyo) 35: 147 1921",,,,,,142533-1,wfo-0000833333,3166591,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9b642d4c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calyptra,,,"Theiss. & Syd.",,1918,,"Annls mycol. 15(6): 478 (1918)",,,,9b642d4c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,773," "
-1bc484a2-9bac-11eb-a8a2-19ed5c03f8d3,species,capnoides,Calyptra,,"(Ellis) Theiss. & Syd.",,,,,,,,,,,,,168934," "
-7924d0de-9bac-11eb-a8a2-19ed5c03f8d3,species,cordobensis,Calyptra,,"(Speg.) Theiss. & Syd.",,1918,,"Annls mycol. 15(6): 478 (1918)",,,,50907e84-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165228," "
-b2092846-9bac-11eb-a8a2-19ed5c03f8d3,species,plumeriae,Calyptra,,"Bat. & Cif.",,,,,,,,b2092846-9bac-11eb-a8a2-19ed5c03f8d3,,,,,327335," "
-feda00f6-9bab-11eb-a8a2-19ed5c03f8d3,species,robinsonii,Calyptra,,"Bat. & Cif.",,,,,,,,feda00f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,327336," "
-193c4f70-9bad-11eb-a8a2-19ed5c03f8d3,species,tonduzii,Calyptra,,"(Speg.) Bat. & Cif.",,,,,,,,fa9c3620-9bac-11eb-a8a2-19ed5c03f8d3,,,,,327337," "
+1bc484a2-9bac-11eb-a8a2-19ed5c03f8d3,species,capnoides,Calyptra,,"(Ellis) Theiss. & Syd.",Q6206643,,,,,,,,,,,,168934," "
+7924d0de-9bac-11eb-a8a2-19ed5c03f8d3,species,cordobensis,Calyptra,,"(Speg.) Theiss. & Syd.",Q648013,1918,,"Annls mycol. 15(6): 478 (1918)",,,,50907e84-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165228," "
+b2092846-9bac-11eb-a8a2-19ed5c03f8d3,species,plumeriae,Calyptra,,"Bat. & Cif.","Q4079389,Q4516707",,,,,,,b2092846-9bac-11eb-a8a2-19ed5c03f8d3,,,,,327335," "
+feda00f6-9bab-11eb-a8a2-19ed5c03f8d3,species,robinsonii,Calyptra,,"Bat. & Cif.","Q4079389,Q4516707",,,,,,,feda00f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,327336," "
+193c4f70-9bad-11eb-a8a2-19ed5c03f8d3,species,tonduzii,Calyptra,,"(Speg.) Bat. & Cif.","Q648013,Q4079389,Q4516707",,,,,,,fa9c3620-9bac-11eb-a8a2-19ed5c03f8d3,,,,,327337," "

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5d93bf2-8fd1-11eb-924d-9cd76263cbd0,genus,Leucalepis,,,Ducke,,1938,,"An. Prim. Reun. Sul. Am. Bot. 1938. 3: 397. 1940.",,,,,,,wfo-4000021483,7272902,,
-69e6f0b4-8fbf-11eb-924d-9cd76263cbd0,species,duckei,Leucalepis,,"Brade ex Ducke",,1938,,"Anais Reuniao Sul-Amer. Bot. 1938, iii. 397 (1940), in obs., sphalm.",,,,,,569782-1,wfo-0000159824,3860395,,
-0f8662ae-8fb4-11eb-924d-9cd76263cbd0,species,newberryi,Leucampyx,,"A.Gray ex Porter & J.M.Coult.",,1874,,"77 1874",,,,,,138982-2,wfo-0000059315,3110168,,
-2167679e-8fb3-11eb-924d-9cd76263cbd0,species,newberryi,Leucampyx,,A.Gray,,,,,,,,,,,wfo-0000042221,3110168,,
-d9fe3842-8fcb-11eb-924d-9cd76263cbd0,species,betonicifolia,Leucandra,,Klotzsch,,1841,,"Arch. Naturgesch. 7: 188 1841",,,,,,350864-1,wfo-0000226882,5378266,,
+e5d93bf2-8fd1-11eb-924d-9cd76263cbd0,genus,Leucalepis,,,Ducke,Q2601698,1938,,"An. Prim. Reun. Sul. Am. Bot. 1938. 3: 397. 1940.",,,,,,,wfo-4000021483,7272902,,
+69e6f0b4-8fbf-11eb-924d-9cd76263cbd0,species,duckei,Leucalepis,,"Brade ex Ducke","Q5650096,Q2601698",1938,,"Anais Reuniao Sul-Amer. Bot. 1938, iii. 397 (1940), in obs., sphalm.",,,,,,569782-1,wfo-0000159824,3860395,,
+0f8662ae-8fb4-11eb-924d-9cd76263cbd0,species,newberryi,Leucampyx,,"A.Gray ex Porter & J.M.Coult.","Q347356,Q48627,Q1701075",1874,,"77 1874",,,,,,138982-2,wfo-0000059315,3110168,,
+2167679e-8fb3-11eb-924d-9cd76263cbd0,species,newberryi,Leucampyx,,A.Gray,Q347356,,,,,,,,,,wfo-0000042221,3110168,,
+d9fe3842-8fcb-11eb-924d-9cd76263cbd0,species,betonicifolia,Leucandra,,Klotzsch,Q67003,1841,,"Arch. Naturgesch. 7: 188 1841",,,,,,350864-1,wfo-0000226882,5378266,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8bde2d2-8fd1-11eb-924d-9cd76263cbd0,genus,Pleuromanes,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 618. 1851.",,,,,,,wfo-4000030345,7154279,,
-ac68541a-8fcd-11eb-924d-9cd76263cbd0,species,acutum,Pleuromanes,,"(C.Presl) C.Presl",,,,,,,,,,,wfo-0001035532,3607192,,
-3491ffb4-8fbd-11eb-924d-9cd76263cbd0,species,album,Pleuromanes,,Parris,,1992,,"Pl. Mt. Kinabalu [J.H. Beaman et al.] 87 (1992): 1992",,,,,,17544800-1,wfo-0000146288,3607186,,
-d1751f22-8fcd-11eb-924d-9cd76263cbd0,species,pallidum,Pleuromanes,,"(Blume) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 618 1851",,,,,,,wfo-0001118123,3607174,,
-349bc9cc-8fbd-11eb-924d-9cd76263cbd0,species,retusum,Pleuromanes,,Copel.,,1941,,"Philipp. J. Sci. 73: 466 1941",,,,,,17411510-1,wfo-0000146289,3607166,,
+e8bde2d2-8fd1-11eb-924d-9cd76263cbd0,genus,Pleuromanes,,,C.Presl,Q379601,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 618. 1851.",,,,,,,wfo-4000030345,7154279,,
+ac68541a-8fcd-11eb-924d-9cd76263cbd0,species,acutum,Pleuromanes,,"(C.Presl) C.Presl",Q379601,,,,,,,,,,wfo-0001035532,3607192,,
+3491ffb4-8fbd-11eb-924d-9cd76263cbd0,species,album,Pleuromanes,,Parris,Q5719329,1992,,"Pl. Mt. Kinabalu [J.H. Beaman et al.] 87 (1992): 1992",,,,,,17544800-1,wfo-0000146288,3607186,,
+d1751f22-8fcd-11eb-924d-9cd76263cbd0,species,pallidum,Pleuromanes,,"(Blume) C.Presl","Q76816,Q379601",1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 618 1851",,,,,,,wfo-0001118123,3607174,,
+349bc9cc-8fbd-11eb-924d-9cd76263cbd0,species,retusum,Pleuromanes,,Copel.,Q2618968,1941,,"Philipp. J. Sci. 73: 466 1941",,,,,,17411510-1,wfo-0000146289,3607166,,

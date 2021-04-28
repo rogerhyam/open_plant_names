@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a4b974-8fd1-11eb-924d-9cd76263cbd0,genus,Plathymenia,,,Benth.,,,,,,,,,,328383-2,wfo-4000030066,2960738,,
-54b1c364-8fc3-11eb-924d-9cd76263cbd0,species,foliolosa,Plathymenia,,Benth.,,,,,,,,,,,wfo-0000182202,5355648,,
-6d7083cc-8fc3-11eb-924d-9cd76263cbd0,species,modesta,Plathymenia,,"(Speg.) Burkart",,,,,,,,6d640d18-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000182755,5355649,,
-54bd847e-8fc3-11eb-924d-9cd76263cbd0,species,reticulata,Plathymenia,,Benth.,,,,,,,,,,,wfo-0000182203,5355647,,
+e8a4b974-8fd1-11eb-924d-9cd76263cbd0,genus,Plathymenia,,,Benth.,Q731808,,,,,,,,,328383-2,wfo-4000030066,2960738,,
+54b1c364-8fc3-11eb-924d-9cd76263cbd0,species,foliolosa,Plathymenia,,Benth.,Q731808,,,,,,,,,,wfo-0000182202,5355648,,
+6d7083cc-8fc3-11eb-924d-9cd76263cbd0,species,modesta,Plathymenia,,"(Speg.) Burkart","Q648013,Q2748897",,,,,,,6d640d18-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000182755,5355649,,
+54bd847e-8fc3-11eb-924d-9cd76263cbd0,species,reticulata,Plathymenia,,Benth.,Q731808,,,,,,,,,,wfo-0000182203,5355647,,

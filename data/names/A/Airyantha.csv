@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df084110-8fd1-11eb-924d-9cd76263cbd0,genus,Airyantha,,,Brummitt,,,,,,Q43249996,,,,21600-1,wfo-4000001045,2949416,,
-50b2bcdc-8fc8-11eb-924d-9cd76263cbd0,species,borneensis,Airyantha,,"(Oliv.) Brummitt",,,,,,,,,,,wfo-0000207289,2949417,,
-b7e03be6-8fcd-11eb-924d-9cd76263cbd0,species,confusum,Airyantha,,Pellegr.,,,,,,,,,,,wfo-0001061576,7963426,,
-37396354-8fc9-11eb-924d-9cd76263cbd0,species,schweinfurthii,Airyantha,,"(Taub.) Brummitt",,,,,,,,,,,wfo-0000211885,2949420,,
-3772286a-8fc9-11eb-924d-9cd76263cbd0,subspecies,confusa,Airyantha,schweinfurthii,"(Hutch. & Dalziel) Brummitt",,,,,,,,,,,wfo-0000211890,2949421,,
-97e2bea0-8fcc-11eb-924d-9cd76263cbd0,species,rosulatum,Aistocaulon,,"(N.E.Br.) Poelln. ex H.Jacobsen",,1935,,"Succ. Pl. 123 1935",,,,,,,wfo-0000524769,,,
+df084110-8fd1-11eb-924d-9cd76263cbd0,genus,Airyantha,,,Brummitt,Q372403,,,,,Q43249996,,,,21600-1,wfo-4000001045,2949416,,
+50b2bcdc-8fc8-11eb-924d-9cd76263cbd0,species,borneensis,Airyantha,,"(Oliv.) Brummitt","Q1161960,Q372403",,,,,,,,,,wfo-0000207289,2949417,,
+b7e03be6-8fcd-11eb-924d-9cd76263cbd0,species,confusum,Airyantha,,Pellegr.,Q4348287,,,,,,,,,,wfo-0001061576,7963426,,
+37396354-8fc9-11eb-924d-9cd76263cbd0,species,schweinfurthii,Airyantha,,"(Taub.) Brummitt","Q4452735,Q372403",,,,,,,,,,wfo-0000211885,2949420,,
+3772286a-8fc9-11eb-924d-9cd76263cbd0,subspecies,confusa,Airyantha,schweinfurthii,"(Hutch. & Dalziel) Brummitt","Q253917,Q2917982,Q372403",,,,,,,,,,wfo-0000211890,2949421,,
+97e2bea0-8fcc-11eb-924d-9cd76263cbd0,species,rosulatum,Aistocaulon,,"(N.E.Br.) Poelln. ex H.Jacobsen","Q721850,Q4386141,Q125552",1935,,"Succ. Pl. 123 1935",,,,,,,wfo-0000524769,,,

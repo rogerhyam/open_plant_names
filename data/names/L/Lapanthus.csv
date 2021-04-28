@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e58f5938-8fd1-11eb-924d-9cd76263cbd0,genus,Lapanthus,,,"Louzada & Versieux",,2010,,"Syst. Bot. 35: 497. 2010.",,Q54639791,,,,77111784-1,wfo-4000020577,7504334,,
-75151714-8fcd-11eb-924d-9cd76263cbd0,species,duartei,Lapanthus,,"(L.B.Sm.) Louzada & Versieux",,2010,,"Syst. Bot. 35: 500 2010",,Q54639791,,,,77111785-1,wfo-0000920881,7999655,,
-7514f8c4-8fcd-11eb-924d-9cd76263cbd0,species,itambensis,Lapanthus,,"(Versieux & Leme) Louzada & Versieux",,2010,,"Syst. Bot. 35: 500 2010",,Q54639791,,,,77111786-1,wfo-0000920880,8046210,,
-2e8d93e4-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Lapasathus,,C.Presl,,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 562 1845",,,,,,501480-1,wfo-0000365053,3963243,,
-67a86168-8fcc-11eb-924d-9cd76263cbd0,species,sylvaticum,Lapathon,,Raf.,,1838,,"New Fl. 4: 51 1838",,,,,,694622-1,wfo-0000442681,4034632,,
+e58f5938-8fd1-11eb-924d-9cd76263cbd0,genus,Lapanthus,,,"Louzada & Versieux","Q21338912,Q19002954",2010,,"Syst. Bot. 35: 497. 2010.",,Q54639791,,,,77111784-1,wfo-4000020577,7504334,,
+75151714-8fcd-11eb-924d-9cd76263cbd0,species,duartei,Lapanthus,,"(L.B.Sm.) Louzada & Versieux","Q968961,Q21338912,Q19002954",2010,,"Syst. Bot. 35: 500 2010",,Q54639791,,,,77111785-1,wfo-0000920881,7999655,,
+7514f8c4-8fcd-11eb-924d-9cd76263cbd0,species,itambensis,Lapanthus,,"(Versieux & Leme) Louzada & Versieux","Q19002954,Q5830059,Q21338912",2010,,"Syst. Bot. 35: 500 2010",,Q54639791,,,,77111786-1,wfo-0000920880,8046210,,
+2e8d93e4-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Lapasathus,,C.Presl,Q379601,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 562 1845",,,,,,501480-1,wfo-0000365053,3963243,,
+67a86168-8fcc-11eb-924d-9cd76263cbd0,species,sylvaticum,Lapathon,,Raf.,Q364857,1838,,"New Fl. 4: 51 1838",,,,,,694622-1,wfo-0000442681,4034632,,

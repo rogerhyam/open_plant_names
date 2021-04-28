@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e003aece-8fd1-11eb-924d-9cd76263cbd0,genus,Baeometra,,,"Salisb. ex Endl.",,1836,,"Gen. Pl. 1: 136. 1836.",,,,,,24028-1,wfo-4000003872,2740342,,
-20ac6ccc-8fcd-11eb-924d-9cd76263cbd0,species,breyniana,Baeometra,,"(L.) T.Durand & Schinz",,1894,,"Consp. Fl. Afric. 5: 413 1894",,,,190b3a16-8fcd-11eb-924d-9cd76263cbd0,,531686-1,wfo-0000761101,7727002,,
-20ac8784-8fcd-11eb-924d-9cd76263cbd0,species,breyniana,Baeometra,,Baill.,,1894,,"Hist. Pl. 12: 588 1894",,,,,,531687-1,wfo-0000761102,2740351,,
-20aca2f0-8fcd-11eb-924d-9cd76263cbd0,species,columellaris,Baeometra,,Salisb.,,1812,,"Trans. Hort. Soc. London 1: 330 1812",,,,,,531688-1,wfo-0000761103,2740349,,
-bcee8f0c-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Baeometra,,Lewis,,,,,,,,,,,wfo-0001073317,2740343,,
-20acc082-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Baeometra,,"(Jacq.) G.J.Lewis",,1941,,"J. S. African Bot. 7: 59 1941",,,,,,531689-1,wfo-0000761104,2740343,,
+e003aece-8fd1-11eb-924d-9cd76263cbd0,genus,Baeometra,,,"Salisb. ex Endl.","Q1358261,Q78605",1836,,"Gen. Pl. 1: 136. 1836.",,,,,,24028-1,wfo-4000003872,2740342,,
+20ac6ccc-8fcd-11eb-924d-9cd76263cbd0,species,breyniana,Baeometra,,"(L.) T.Durand & Schinz","Q1043,Q1839687,Q124491",1894,,"Consp. Fl. Afric. 5: 413 1894",,,,190b3a16-8fcd-11eb-924d-9cd76263cbd0,,531686-1,wfo-0000761101,7727002,,
+20ac8784-8fcd-11eb-924d-9cd76263cbd0,species,breyniana,Baeometra,,Baill.,Q461931,1894,,"Hist. Pl. 12: 588 1894",,,,,,531687-1,wfo-0000761102,2740351,,
+20aca2f0-8fcd-11eb-924d-9cd76263cbd0,species,columellaris,Baeometra,,Salisb.,Q1358261,1812,,"Trans. Hort. Soc. London 1: 330 1812",,,,,,531688-1,wfo-0000761103,2740349,,
+20acc082-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Baeometra,,"(Jacq.) G.J.Lewis","Q84497,Q4271206",1941,,"J. S. African Bot. 7: 59 1941",,,,,,531689-1,wfo-0000761104,2740343,,
+bcee8f0c-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Baeometra,,Lewis,Q313492,,,,,,,,,,wfo-0001073317,2740343,,

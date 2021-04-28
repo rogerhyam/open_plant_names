@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e637abb0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrococculus,,,Becc.,,1877,,"Malesia 1: 160. 1877.",,,,,,26969-1,wfo-4000022699,7268782,,
-c1b4c236-8fcd-11eb-924d-9cd76263cbd0,species,pomifera,Macrococculus,,Becc.,,,,,,,,,,,wfo-0001083948,,,
-6c17fc40-8fcc-11eb-924d-9cd76263cbd0,species,pomiferus,Macrococculus,,Becc.,,1877,,"Malesia 1: 161 1877",,,,,,581027-1,wfo-0000450454,3830696,,
-6c17e25a-8fcc-11eb-924d-9cd76263cbd0,species,tympanopodus,Macrococculus,,"K.Schum. & Lauterb.",,1900,,"Fl. Schutzgeb. Südsee 314 1900",,Q51474811,,,,581029-1,wfo-0000450453,3830685,,
+e637abb0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrococculus,,,Becc.,Q361037,1877,,"Malesia 1: 160. 1877.",,,,,,26969-1,wfo-4000022699,7268782,,
+c1b4c236-8fcd-11eb-924d-9cd76263cbd0,species,pomifera,Macrococculus,,Becc.,Q361037,,,,,,,,,,wfo-0001083948,,,
+6c17fc40-8fcc-11eb-924d-9cd76263cbd0,species,pomiferus,Macrococculus,,Becc.,Q361037,1877,,"Malesia 1: 161 1877",,,,,,581027-1,wfo-0000450454,3830696,,
+6c17e25a-8fcc-11eb-924d-9cd76263cbd0,species,tympanopodus,Macrococculus,,"K.Schum. & Lauterb.","Q63545,Q72821",1900,,"Fl. Schutzgeb. Südsee 314 1900",,Q51474811,,,,581029-1,wfo-0000450453,3830685,,

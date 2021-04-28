@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9ce210a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kommamyce,,,Nieuwl.,,1916,,"Am. Midl. Nat. 4: 375 (1916)",,,,9ce210a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2579," "
-efa25cd6-9bac-11eb-a8a2-19ed5c03f8d3,species,bulliardi,Kommamyce,,"(Tul. & C. Tul.) Nieuwl.",,,,,,,,,,,,,267112," Kommamyce bulliardii"
-2467df8c-9bac-11eb-a8a2-19ed5c03f8d3,species,bulliardii,Kommamyce,,"(Tul. & C. Tul.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 375 (1916)",,,,,,,,,101981," Bulliardi"
-2350ead0-9bac-11eb-a8a2-19ed5c03f8d3,species,lateritia,Kommamyce,,"(Ellis & Everh.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 373 (1916)",,,,73761a9a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100347," "
-2970baf8-8fcc-11eb-924d-9cd76263cbd0,species,hamulosa,Kommia,,"Ehrenb. ex Schweinf.",,1867,,"Beitr. Fl. Aethiop. 181 1867",,,,,,,wfo-0000356579,8237689,,
-cb4835da-8fcd-11eb-924d-9cd76263cbd0,species,elastica,Kompitsia,,"Costantin & Gallaud",,,,"Compt. Rend. Hebd. Séances Acad. Sci. 142: 1555 1906",,,,,,98892-1,wfo-0001104897,3581456,,
+9ce210a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kommamyce,,,Nieuwl.,Q88145,1916,,"Am. Midl. Nat. 4: 375 (1916)",,,,9ce210a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2579," "
+efa25cd6-9bac-11eb-a8a2-19ed5c03f8d3,species,bulliardi,Kommamyce,,"(Tul. & C. Tul.) Nieuwl.","Q918803,Q88145",,,,,,,,,,,,267112," Kommamyce bulliardii"
+2467df8c-9bac-11eb-a8a2-19ed5c03f8d3,species,bulliardii,Kommamyce,,"(Tul. & C. Tul.) Nieuwl.","Q918803,Q88145",1916,,"Am. Midl. Nat. 4: 375 (1916)",,,,,,,,,101981," Bulliardi"
+2350ead0-9bac-11eb-a8a2-19ed5c03f8d3,species,lateritia,Kommamyce,,"(Ellis & Everh.) Nieuwl.","Q6206643,Q88145",1916,,"Am. Midl. Nat. 4: 373 (1916)",,,,73761a9a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100347," "
+2970baf8-8fcc-11eb-924d-9cd76263cbd0,species,hamulosa,Kommia,,"Ehrenb. ex Schweinf.","Q76549,Q63126",1867,,"Beitr. Fl. Aethiop. 181 1867",,,,,,,wfo-0000356579,8237689,,
+cb4835da-8fcd-11eb-924d-9cd76263cbd0,species,elastica,Kompitsia,,"Costantin & Gallaud","Q2701525,Q19056568",,,"Compt. Rend. Hebd. Séances Acad. Sci. 142: 1555 1906",,,,,,98892-1,wfo-0001104897,3581456,,

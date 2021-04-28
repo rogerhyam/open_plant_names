@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5dea0ce-8fd1-11eb-924d-9cd76263cbd0,genus,Leucolophus,,,Bremek.,,1940,,"Recueil Trav. Bot. Néerl. 37: 187–188. 1940.",,Q100727396,,,,34842-1,wfo-4000021557,2907511,,
-da2fb8d6-8fcb-11eb-924d-9cd76263cbd0,species,gajoensis,Leucolophus,,Bremek.,,1940,,"Recueil Trav. Bot. Néerl. 37: 188 1940",,Q100727396,,,,755334-1,wfo-0000227282,2907512,,
-da2fd488-8fcb-11eb-924d-9cd76263cbd0,species,macranthus,Leucolophus,,"(Ridl.) Bremek.",,1940,,"Recueil Trav. Bot. Néerl. 37: 188 1940",,Q100727396,,,,755335-1,wfo-0000227283,2907515,,
-da2ff9fe-8fcb-11eb-924d-9cd76263cbd0,species,tobingensis,Leucolophus,,"(Miq.) Bremek.",,1940,,"Recueil Trav. Bot. Néerl. 37: 189 1940",,Q100727396,,c8abb0c4-8fcb-11eb-924d-9cd76263cbd0,,755336-1,wfo-0000227284,2907513,,
-dbbf94cc-8fd1-11eb-924d-9cd76263cbd0,species,lanuginosa,Leucomalla,,Phil.,,1870,,"Anales Univ. Chile 36: 189 1870",,Q101007092,,,,139160-2,wfo-0001298451,3680724,,
+e5dea0ce-8fd1-11eb-924d-9cd76263cbd0,genus,Leucolophus,,,Bremek.,Q5171231,1940,,"Recueil Trav. Bot. Néerl. 37: 187–188. 1940.",,Q100727396,,,,34842-1,wfo-4000021557,2907511,,
+da2fb8d6-8fcb-11eb-924d-9cd76263cbd0,species,gajoensis,Leucolophus,,Bremek.,Q5171231,1940,,"Recueil Trav. Bot. Néerl. 37: 188 1940",,Q100727396,,,,755334-1,wfo-0000227282,2907512,,
+da2fd488-8fcb-11eb-924d-9cd76263cbd0,species,macranthus,Leucolophus,,"(Ridl.) Bremek.","Q733709,Q5171231",1940,,"Recueil Trav. Bot. Néerl. 37: 188 1940",,Q100727396,,,,755335-1,wfo-0000227283,2907515,,
+da2ff9fe-8fcb-11eb-924d-9cd76263cbd0,species,tobingensis,Leucolophus,,"(Miq.) Bremek.","Q76742,Q5171231",1940,,"Recueil Trav. Bot. Néerl. 37: 189 1940",,Q100727396,,c8abb0c4-8fcb-11eb-924d-9cd76263cbd0,,755336-1,wfo-0000227284,2907513,,
+dbbf94cc-8fd1-11eb-924d-9cd76263cbd0,species,lanuginosa,Leucomalla,,Phil.,Q214994,1870,,"Anales Univ. Chile 36: 189 1870",,Q101007092,,,,139160-2,wfo-0001298451,3680724,,

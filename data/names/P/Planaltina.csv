@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a1e4ba-8fd1-11eb-924d-9cd76263cbd0,genus,Planaltina,,,"R.M.Salas & E.L.Cabral",,2010,,"J. Bot. Res. Inst. Texas 4(1): 198–199. 2010.",,Q99431812,,,,77113910-1,wfo-4000030023,7955488,,
-75ffd858-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Planaltina,,"(K.Schum.) R.M.Salas & E.L.Cabral",,2010,,"J. Bot. Res. Inst. Texas 4: 199 2010",,Q99431812,,0fd05bd0-8fcc-11eb-924d-9cd76263cbd0,,77113911-1,wfo-0000922340,7359034,,
-75ffbba2-8fcd-11eb-924d-9cd76263cbd0,species,lanigera,Planaltina,,"(DC.) R.M.Salas & E.L.Cabral",,2010,,"J. Bot. Res. Inst. Texas 4: 202 2010",,Q99431812,,,,77113912-1,wfo-0000922339,8378986,,
-75ff9dde-8fcd-11eb-924d-9cd76263cbd0,species,myndeliana,Planaltina,,"R.M.Salas & E.L.Cabral",,2010,,"J. Bot. Res. Inst. Texas 4: 204 2010",,Q99431812,,,,77113913-1,wfo-0000922338,7546745,,
+e8a1e4ba-8fd1-11eb-924d-9cd76263cbd0,genus,Planaltina,,,"R.M.Salas & E.L.Cabral","Q21516391,Q21338528",2010,,"J. Bot. Res. Inst. Texas 4(1): 198–199. 2010.",,Q99431812,,,,77113910-1,wfo-4000030023,7955488,,
+75ffd858-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Planaltina,,"(K.Schum.) R.M.Salas & E.L.Cabral","Q63545,Q21516391,Q21338528",2010,,"J. Bot. Res. Inst. Texas 4: 199 2010",,Q99431812,,0fd05bd0-8fcc-11eb-924d-9cd76263cbd0,,77113911-1,wfo-0000922340,7359034,,
+75ffbba2-8fcd-11eb-924d-9cd76263cbd0,species,lanigera,Planaltina,,"(DC.) R.M.Salas & E.L.Cabral","Q123057,Q21516391,Q21338528",2010,,"J. Bot. Res. Inst. Texas 4: 202 2010",,Q99431812,,,,77113912-1,wfo-0000922339,8378986,,
+75ff9dde-8fcd-11eb-924d-9cd76263cbd0,species,myndeliana,Planaltina,,"R.M.Salas & E.L.Cabral","Q21516391,Q21338528",2010,,"J. Bot. Res. Inst. Texas 4: 204 2010",,Q99431812,,,,77113913-1,wfo-0000922338,7546745,,

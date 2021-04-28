@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5cb2562-8fd1-11eb-924d-9cd76263cbd0,genus,Leptogonum,,,Benth.,,1880,,"Gen. Pl. 3: 103. 1880.",,,,,,32523-1,wfo-4000021280,7291380,,
-67af26e2-8fcc-11eb-924d-9cd76263cbd0,species,buchii,Leptogonum,,Urb.,,1918,,"Repert. Spec. Nov. Regni Veg. 15: 168 1918",,Q55753048,,,,138457-2,wfo-0000442724,4033955,,
-b5b27b5a-8fd1-11eb-924d-9cd76263cbd0,species,domingense,Leptogonum,,Benth.,,,,,,,,,,,wfo-0001234977,7291385,,
-c3392882-8fd1-11eb-924d-9cd76263cbd0,variety,molle,Leptogonum,domingense,"(Urb.) Brandbyge",,1990,,"Nordic J. Bot. 10(5): 491 1990",,Q54792232,,b5b234ce-8fd1-11eb-924d-9cd76263cbd0,,966350-1,wfo-0001260126,4033936,,
-67aed7d2-8fcc-11eb-924d-9cd76263cbd0,species,domingensis,Leptogonum,,Benth.,,1880,,"Gen. Pl. 3: 104 1880",,,,,,694693-1,wfo-0000442723,4033929,,
-b5b234ce-8fd1-11eb-924d-9cd76263cbd0,species,molle,Leptogonum,,Urb.,,1924,,"Repert. Spec. Nov. Regni Veg. 20: 338 1924",,Q55753372,,,,279576-2,wfo-0001234976,4033910,,
+e5cb2562-8fd1-11eb-924d-9cd76263cbd0,genus,Leptogonum,,,Benth.,Q731808,1880,,"Gen. Pl. 3: 103. 1880.",,,,,,32523-1,wfo-4000021280,7291380,,
+67af26e2-8fcc-11eb-924d-9cd76263cbd0,species,buchii,Leptogonum,,Urb.,Q64845,1918,,"Repert. Spec. Nov. Regni Veg. 15: 168 1918",,Q55753048,,,,138457-2,wfo-0000442724,4033955,,
+b5b27b5a-8fd1-11eb-924d-9cd76263cbd0,species,domingense,Leptogonum,,Benth.,Q731808,,,,,,,,,,wfo-0001234977,7291385,,
+c3392882-8fd1-11eb-924d-9cd76263cbd0,variety,molle,Leptogonum,domingense,"(Urb.) Brandbyge","Q64845,Q21506421",1990,,"Nordic J. Bot. 10(5): 491 1990",,Q54792232,,b5b234ce-8fd1-11eb-924d-9cd76263cbd0,,966350-1,wfo-0001260126,4033936,,
+67aed7d2-8fcc-11eb-924d-9cd76263cbd0,species,domingensis,Leptogonum,,Benth.,Q731808,1880,,"Gen. Pl. 3: 104 1880",,,,,,694693-1,wfo-0000442723,4033929,,
+b5b234ce-8fd1-11eb-924d-9cd76263cbd0,species,molle,Leptogonum,,Urb.,Q64845,1924,,"Repert. Spec. Nov. Regni Veg. 20: 338 1924",,Q55753372,,,,279576-2,wfo-0001234976,4033910,,

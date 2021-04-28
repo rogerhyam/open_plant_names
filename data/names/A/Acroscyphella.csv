@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ded2292c-8fd1-11eb-924d-9cd76263cbd0,genus,Acroscyphella,,,"N.Kitag. & Grolle",,1985,,"Acta Phytotax. Geobot. 36: 58. 1985. (29 Jun 1985)",,,,,,,wfo-4000000454,2689319,,
-f8026f00-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Acroscyphella,,"(N.Kitag.) N.Kitag. & Grolle",,1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,f80230a8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200105,2689320,,
-f8029084-8fcd-11eb-924d-9cd76263cbd0,species,nitidissima,Acroscyphella,,"(R.M.Schust.) N.Kitag. & Grolle",,1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,fce8a62e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200106,8252680,,
-f802af60-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhiza,Acroscyphella,,"(Grolle) N.Kitag. & Grolle",,1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,,,,wfo-0001200107,7761407,,
-f802d08a-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Acroscyphella,,"(Sande Lac.) N.Kitag. & Grolle",,1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200108,7736632,,
+ded2292c-8fd1-11eb-924d-9cd76263cbd0,genus,Acroscyphella,,,"N.Kitag. & Grolle","Q21517564,Q15926718",1985,,"Acta Phytotax. Geobot. 36: 58. 1985. (29 Jun 1985)",,,,,,,wfo-4000000454,2689319,,
+f8026f00-8fcd-11eb-924d-9cd76263cbd0,species,iwatsukii,Acroscyphella,,"(N.Kitag.) N.Kitag. & Grolle","Q21517564,Q15926718",1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,f80230a8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200105,2689320,,
+f8029084-8fcd-11eb-924d-9cd76263cbd0,species,nitidissima,Acroscyphella,,"(R.M.Schust.) N.Kitag. & Grolle","Q6113453,Q21517564,Q15926718",1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,fce8a62e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200106,8252680,,
+f802af60-8fcd-11eb-924d-9cd76263cbd0,species,phoenicorhiza,Acroscyphella,,"(Grolle) N.Kitag. & Grolle","Q15926718,Q21517564",1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,,,,wfo-0001200107,7761407,,
+f802d08a-8fcd-11eb-924d-9cd76263cbd0,species,tjiwideiensis,Acroscyphella,,"(Sande Lac.) N.Kitag. & Grolle","Q21340193,Q21517564,Q15926718",1985,,"Acta Phytotax. Geobot. 36: 58 1985",,,,f80308c0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001200108,7736632,,

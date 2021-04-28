@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4b92f28-9bad-11eb-a8a2-19ed5c03f8d3,genus,Polhysterium,,,Speg.,,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 87 (1912)",,,,a4b92f28-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4292," "
-7d24be5c-9bab-11eb-a8a2-19ed5c03f8d3,species,cuyanum,Polhysterium,,Speg.,,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 87 (1912)",,,,7d24be5c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,148911," "
-441a185e-8fcc-11eb-924d-9cd76263cbd0,species,arenaria,Polia,,Lour.,,1790,,"Fl. Cochinch. 164 1790",,,,,,156046-1,wfo-0000395780,5584244,,
-2c65d080-8fcd-11eb-924d-9cd76263cbd0,species,bonariensis,Polia,,Ten.,,1845,,"Cat. Orto Bot. Napoli 92 1845",,,,,,440611-1,wfo-0000785711,2745889,,
-2c660d98-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Polia,,Klatt,,1862,,"Linnaea 31: 545 1862",,,,,,,wfo-0000785713,2745919,,
-2c694ce2-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Polia,,"(Link & Otto) Klatt",,1862,,"Linnaea 31: 545 1862",,,,2e14f532-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000785737,5297354,,
-2c6925aa-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Polia,,Klatt,,1862,,"Linnaea 31: 544 1862",,,,,,,wfo-0000785736,2745888,,
+a4b92f28-9bad-11eb-a8a2-19ed5c03f8d3,genus,Polhysterium,,,Speg.,Q648013,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 87 (1912)",,,,a4b92f28-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4292," "
+7d24be5c-9bab-11eb-a8a2-19ed5c03f8d3,species,cuyanum,Polhysterium,,Speg.,Q648013,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 87 (1912)",,,,7d24be5c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,148911," "
+441a185e-8fcc-11eb-924d-9cd76263cbd0,species,arenaria,Polia,,Lour.,Q729917,1790,,"Fl. Cochinch. 164 1790",,,,,,156046-1,wfo-0000395780,5584244,,
+2c65d080-8fcd-11eb-924d-9cd76263cbd0,species,bonariensis,Polia,,Ten.,Q947973,1845,,"Cat. Orto Bot. Napoli 92 1845",,,,,,440611-1,wfo-0000785711,2745889,,
+2c660d98-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Polia,,Klatt,Q3087784,1862,,"Linnaea 31: 545 1862",,,,,,,wfo-0000785713,2745919,,
+2c694ce2-8fcd-11eb-924d-9cd76263cbd0,species,pusilla,Polia,,"(Link & Otto) Klatt","Q215466,Q77650,Q3087784",1862,,"Linnaea 31: 545 1862",,,,2e14f532-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000785737,5297354,,
+2c6925aa-8fcd-11eb-924d-9cd76263cbd0,species,ramosa,Polia,,Klatt,Q3087784,1862,,"Linnaea 31: 544 1862",,,,,,,wfo-0000785736,2745888,,

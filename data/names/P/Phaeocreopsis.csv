@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-13f6b7f4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Phaeocreopsis,,,"Sacc. & P. Syd. ex Lindau",,1900,,"in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 541 (1900)",,,,13f6b7f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,3901," "
-77ea010c-9bad-11eb-a8a2-19ed5c03f8d3,species,hypoxyloides,Phaeocreopsis,,"(Speg.) Sacc. & P. Syd. ex Lindau",,1902,,"Syll. fung. (Abellini) 16: 592 (1902)",,,,1dd98490-9bac-11eb-a8a2-19ed5c03f8d3,,,,,183768," "
-c12477e0-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizaeformis,Phaeocreopsis,,Boedijn,,,,,,,,c12477e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275075," Phaeocreopsis peziziformis"
-ecef073c-9bac-11eb-a8a2-19ed5c03f8d3,species,peziziformis,Phaeocreopsis,,Boedijn,,1940,,"Ann. Jard. Bot. Buitenzorg 16: 371 (1940)",,,,ecef073c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289275," pezizaeformis"
+13f6b7f4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Phaeocreopsis,,,"Sacc. & P. Syd. ex Lindau","Q707840,Q66039",1900,,"in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 541 (1900)",,,,13f6b7f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,3901," "
+77ea010c-9bad-11eb-a8a2-19ed5c03f8d3,species,hypoxyloides,Phaeocreopsis,,"(Speg.) Sacc. & P. Syd. ex Lindau","Q648013,Q707840,Q66039",1902,,"Syll. fung. (Abellini) 16: 592 (1902)",,,,1dd98490-9bac-11eb-a8a2-19ed5c03f8d3,,,,,183768," "
+c12477e0-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizaeformis,Phaeocreopsis,,Boedijn,Q4098011,,,,,,,c12477e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275075," Phaeocreopsis peziziformis"
+ecef073c-9bac-11eb-a8a2-19ed5c03f8d3,species,peziziformis,Phaeocreopsis,,Boedijn,Q4098011,1940,,"Ann. Jard. Bot. Buitenzorg 16: 371 (1940)",,,,ecef073c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289275," pezizaeformis"

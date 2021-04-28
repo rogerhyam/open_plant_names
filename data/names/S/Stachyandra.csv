@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaab0714-8fd1-11eb-924d-9cd76263cbd0,genus,Stachyandra,,,"J.-F.Leroy ex Radcl.-Sm.",,1990,,"Kew Bull. 45(3): 561–568. 1990.",,Q55780247,,,,925297-1,wfo-4000036219,3075193,,
-0ee6761e-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Stachyandra,,"(Airy Shaw) Radcl.-Sm.",,1990,,"Kew Bull. 45: 567 1990",,Q55780247,,8e1d29a4-8fcd-11eb-924d-9cd76263cbd0,,948209-1,wfo-0000313578,3075202,,
-0ee69ab8-8fcc-11eb-924d-9cd76263cbd0,species,merana,Stachyandra,,"(Airy Shaw) J.-F.Leroy ex Radcl.-Sm.",,1990,,"Kew Bull. 45: 567 1990",,Q55780247,,8e1fea9a-8fcd-11eb-924d-9cd76263cbd0,,948210-1,wfo-0000313579,3075198,,
-0ee74738-8fcc-11eb-924d-9cd76263cbd0,species,rufibarbis,Stachyandra,,"(Airy Shaw) Radcl.-Sm.",,1990,,"Kew Bull. 45: 568 1990",,Q55780247,,8e2159fc-8fcd-11eb-924d-9cd76263cbd0,,948211-1,wfo-0000313582,3075196,,
-0ee7631c-8fcc-11eb-924d-9cd76263cbd0,species,viticifolia,Stachyandra,,"(Airy Shaw) Radcl.-Sm.",,1990,,"Kew Bull. 45: 568 1990",,Q55780247,,8e23fa2c-8fcd-11eb-924d-9cd76263cbd0,,948212-1,wfo-0000313583,3075194,,
-8885f27e-8fcc-11eb-924d-9cd76263cbd0,species,schomburgkii,Stachyanthemum,,Klotzsch,,,,"Reis. Br.-Guiana 3: 1197 1849",,,,,,,wfo-0000499076,3570653,,
+eaab0714-8fd1-11eb-924d-9cd76263cbd0,genus,Stachyandra,,,"J.-F.Leroy ex Radcl.-Sm.","Q4259300,Q2830574",1990,,"Kew Bull. 45(3): 561–568. 1990.",,Q55780247,,,,925297-1,wfo-4000036219,3075193,,
+0ee6761e-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Stachyandra,,"(Airy Shaw) Radcl.-Sm.","Q939981,Q2830574",1990,,"Kew Bull. 45: 567 1990",,Q55780247,,8e1d29a4-8fcd-11eb-924d-9cd76263cbd0,,948209-1,wfo-0000313578,3075202,,
+0ee69ab8-8fcc-11eb-924d-9cd76263cbd0,species,merana,Stachyandra,,"(Airy Shaw) J.-F.Leroy ex Radcl.-Sm.","Q939981,Q4259300,Q2830574",1990,,"Kew Bull. 45: 567 1990",,Q55780247,,8e1fea9a-8fcd-11eb-924d-9cd76263cbd0,,948210-1,wfo-0000313579,3075198,,
+0ee74738-8fcc-11eb-924d-9cd76263cbd0,species,rufibarbis,Stachyandra,,"(Airy Shaw) Radcl.-Sm.","Q939981,Q2830574",1990,,"Kew Bull. 45: 568 1990",,Q55780247,,8e2159fc-8fcd-11eb-924d-9cd76263cbd0,,948211-1,wfo-0000313582,3075196,,
+0ee7631c-8fcc-11eb-924d-9cd76263cbd0,species,viticifolia,Stachyandra,,"(Airy Shaw) Radcl.-Sm.","Q939981,Q2830574",1990,,"Kew Bull. 45: 568 1990",,Q55780247,,8e23fa2c-8fcd-11eb-924d-9cd76263cbd0,,948212-1,wfo-0000313583,3075194,,
+8885f27e-8fcc-11eb-924d-9cd76263cbd0,species,schomburgkii,Stachyanthemum,,Klotzsch,Q67003,,,"Reis. Br.-Guiana 3: 1197 1849",,,,,,,wfo-0000499076,3570653,,

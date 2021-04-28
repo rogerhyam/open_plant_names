@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e4122126-8fd1-11eb-924d-9cd76263cbd0,genus,Glottidium,,,,,,,,,,,,,,wfo-4000015823,2976457,,
-b2929710-8fcd-11eb-924d-9cd76263cbd0,species,floridanum,Glottidium,,"(Willd.) DC.",,1825,,"Prodr. 2: 266 1825",,,,,,496641-1,wfo-0001049574,8011863,,
-7d1fb4c6-8fc0-11eb-924d-9cd76263cbd0,variety,atrorubrum,Glottidium,floridanum,Nash,,,,,,,,,,,wfo-0000166311,2976468,,
-18b8f240-8fc0-11eb-924d-9cd76263cbd0,species,vesicarium,Glottidium,,"(Jacq.) R.M.Harper",,,,,,,,,,,wfo-0000163992,2976458,,
-7d2a850e-8fc0-11eb-924d-9cd76263cbd0,variety,atrorubrum,Glottidium,vesicarium,"(Nash) Small",,,,,,,,7d1fb4c6-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000166312,2976461,,
-b292b2ae-8fcd-11eb-924d-9cd76263cbd0,variety,sericeum,Glottidium,vesicarium,R.S.Cocks,,1910,,"Bull. Louisiana State Mus. Nat. Hist. Surv. 1: 11 1910",,,,,,,wfo-0001049575,2976469,,
+b2929710-8fcd-11eb-924d-9cd76263cbd0,species,floridanum,Glottidium,,"(Willd.) DC.","Q76353,Q123057",1825,,"Prodr. 2: 266 1825",,,,,,496641-1,wfo-0001049574,8011863,,
+7d1fb4c6-8fc0-11eb-924d-9cd76263cbd0,variety,atrorubrum,Glottidium,floridanum,Nash,Q2663440,,,,,,,,,,wfo-0000166311,2976468,,
+18b8f240-8fc0-11eb-924d-9cd76263cbd0,species,vesicarium,Glottidium,,"(Jacq.) R.M.Harper","Q84497,Q6111184",,,,,,,,,,wfo-0000163992,2976458,,
+7d2a850e-8fc0-11eb-924d-9cd76263cbd0,variety,atrorubrum,Glottidium,vesicarium,"(Nash) Small","Q2663440,Q2590065",,,,,,,7d1fb4c6-8fc0-11eb-924d-9cd76263cbd0,,,wfo-0000166312,2976461,,
 7d3593c2-8fc0-11eb-924d-9cd76263cbd0,variety,sericeum,Glottidium,vesicarium,R.W.S.Cocks,,,,,,,,,,,wfo-0000166313,2976469,,
+b292b2ae-8fcd-11eb-924d-9cd76263cbd0,variety,sericeum,Glottidium,vesicarium,R.S.Cocks,,1910,,"Bull. Louisiana State Mus. Nat. Hist. Surv. 1: 11 1910",,,,,,,wfo-0001049575,2976469,,

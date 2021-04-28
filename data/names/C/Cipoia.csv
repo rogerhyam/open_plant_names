@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1be6b64-8fd1-11eb-924d-9cd76263cbd0,genus,Cipoia,,,"C.T.Philbrick, Novelo & Irgang",,2004,,"Syst. Bot. 29(1): 113–117, f. 2–3. 2004.",,Q95462678,,,,330390-2,wfo-4000008357,7296003,,
-ca1e8656-8fcc-11eb-924d-9cd76263cbd0,species,inserta,Cipoia,,"C.T.Philbrick, Novelo & Irgang",,2004,,"Syst. Bot. 29: 113 2004",,Q95462678,,,,330393-2,wfo-0000605587,4072328,,
-8d609218-8fcc-11eb-924d-9cd76263cbd0,species,ramosa,Cipoia,,"C.P.Bove, C.T.Philbrick & Novelo",,2006,,"Syst. Bot. 31: 822 2006",,,,,,,wfo-0000506807,4072321,,
-ca1ea3a2-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Ciponima,,Aubl.,,1775,,"Hist. Pl. Guiane 1: 566 1775",,,,,,826330-1,wfo-0000605588,3643209,,
-ca1ec03a-8fcc-11eb-924d-9cd76263cbd0,species,scabridula,Ciponima,,Miers,,1879,,"J. Linn. Soc., Bot. 17: 288 1879",,Q55760190,,,,826331-1,wfo-0000605589,3643198,,
+e1be6b64-8fd1-11eb-924d-9cd76263cbd0,genus,Cipoia,,,"C.T.Philbrick, Novelo & Irgang","Q26714235,Q21522256,Q18985781",2004,,"Syst. Bot. 29(1): 113–117, f. 2–3. 2004.",,Q95462678,,,,330390-2,wfo-4000008357,7296003,,
+ca1e8656-8fcc-11eb-924d-9cd76263cbd0,species,inserta,Cipoia,,"C.T.Philbrick, Novelo & Irgang","Q26714235,Q21522256,Q18985781",2004,,"Syst. Bot. 29: 113 2004",,Q95462678,,,,330393-2,wfo-0000605587,4072328,,
+8d609218-8fcc-11eb-924d-9cd76263cbd0,species,ramosa,Cipoia,,"C.P.Bove, C.T.Philbrick & Novelo","Q16297893,Q26714235,Q21522256",2006,,"Syst. Bot. 31: 822 2006",,,,,,,wfo-0000506807,4072321,,
+ca1ea3a2-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Ciponima,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane 1: 566 1775",,,,,,826330-1,wfo-0000605588,3643209,,
+ca1ec03a-8fcc-11eb-924d-9cd76263cbd0,species,scabridula,Ciponima,,Miers,Q575253,1879,,"J. Linn. Soc., Bot. 17: 288 1879",,Q55760190,,,,826331-1,wfo-0000605589,3643198,,

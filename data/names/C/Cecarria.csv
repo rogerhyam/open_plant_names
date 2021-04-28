@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e156f6b4-8fd1-11eb-924d-9cd76263cbd0,genus,Cecarria,,,Barlow,,1973,,"Brittonia 25(1): 34, 28. 1973. (23 Feb 1973)",,Q54801357,,,,25173-1,wfo-4000007106,7288054,,
-c1e5b2de-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolia,Cecarria,,"(Merr.) Barlow",,1973,,"Brittonia 25: 34 1973",,Q54801357,,,,548071-1,wfo-0000592146,4002533,,
-3ea8a72c-8fcd-11eb-924d-9cd76263cbd0,species,somalensis,Cecchia,,Chiov.,,1932,,"Fl. Somala 2: 397 1932",,,,,,340458-1,wfo-0000824783,3075117,,
+e156f6b4-8fd1-11eb-924d-9cd76263cbd0,genus,Cecarria,,,Barlow,Q6398703,1973,,"Brittonia 25(1): 34, 28. 1973. (23 Feb 1973)",,Q54801357,,,,25173-1,wfo-4000007106,7288054,,
+c1e5b2de-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolia,Cecarria,,"(Merr.) Barlow","Q729926,Q6398703",1973,,"Brittonia 25: 34 1973",,Q54801357,,,,548071-1,wfo-0000592146,4002533,,
+3ea8a72c-8fcd-11eb-924d-9cd76263cbd0,species,somalensis,Cecchia,,Chiov.,Q2348823,1932,,"Fl. Somala 2: 397 1932",,,,,,340458-1,wfo-0000824783,3075117,,

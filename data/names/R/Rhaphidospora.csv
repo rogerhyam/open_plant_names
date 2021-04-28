@@ -1,46 +1,46 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9982fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Rhaphidospora,,,Nees,,1832,,"Pl. Asiat. Rar. 3: 77, 115. 1832.",,,,e9982fb4-8fd1-11eb-924d-9cd76263cbd0,,869-1,wfo-4000032895,7263259,4694," "
-4906d280-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 500 1847",,,,,,53521-1,wfo-0000401642,5573121,,
-8ec7f26c-9bad-11eb-a8a2-19ed5c03f8d3,species,acuminata,Rhaphidospora,,"(Sowerby) Cooke",,,,,,,,0caefbc8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,465499," "
-cb5d763a-8fd1-11eb-924d-9cd76263cbd0,species,anisophylla,Rhaphidospora,,Mildbr.,,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 520 1935",,Q55777701,,,,53522-1,wfo-0001275129,5573118,,
+e9982fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Rhaphidospora,,,Nees,Q76349,1832,,"Pl. Asiat. Rar. 3: 77, 115. 1832.",,,,e9982fb4-8fd1-11eb-924d-9cd76263cbd0,,869-1,wfo-4000032895,7263259,4694," "
+4906d280-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 500 1847",,,,,,53521-1,wfo-0000401642,5573121,,
+8ec7f26c-9bad-11eb-a8a2-19ed5c03f8d3,species,acuminata,Rhaphidospora,,"(Sowerby) Cooke","Q1235813,Q2351239",,,,,,,0caefbc8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,465499," "
+cb5d763a-8fd1-11eb-924d-9cd76263cbd0,species,anisophylla,Rhaphidospora,,Mildbr.,Q470035,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 520 1935",,Q55777701,,,,53522-1,wfo-0001275129,5573118,,
 6ee1482c-9bad-11eb-a8a2-19ed5c03f8d3,species,arenicola,Rhaphidospora,,Mudd,,,,,,,,6ee1482c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,478911," "
-9317a728-9bac-11eb-a8a2-19ed5c03f8d3,species,bardanae,Rhaphidospora,,Fuckel,,1870,,"Jb. nassau. Ver. Naturk. 23-24: 126 (1870)",,,,9317a728-9bac-11eb-a8a2-19ed5c03f8d3,,,,,203606," "
+9317a728-9bac-11eb-a8a2-19ed5c03f8d3,species,bardanae,Rhaphidospora,,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 126 (1870)",,,,9317a728-9bac-11eb-a8a2-19ed5c03f8d3,,,,,203606," "
 93059380-9bac-11eb-a8a2-19ed5c03f8d3,species,betonicae,Rhaphidospora,,Thüm.,,,,,,,,93059380-9bac-11eb-a8a2-19ed5c03f8d3,,,,,203482," "
-490738c4-8fcc-11eb-924d-9cd76263cbd0,species,bonneyana,Rhaphidospora,,"(F.Muell.) R.M.Barker",,1986,,"J. Adelaide Bot. Gard. 9: 233 1986",,Q92901465,,,,943318-1,wfo-0000401645,5573111,,
+490738c4-8fcc-11eb-924d-9cd76263cbd0,species,bonneyana,Rhaphidospora,,"(F.Muell.) R.M.Barker","Q708002,Q21505668",1986,,"J. Adelaide Bot. Gard. 9: 233 1986",,Q92901465,,,,943318-1,wfo-0000401645,5573111,,
 75290e24-9bab-11eb-a8a2-19ed5c03f8d3,species,brachyascus,Rhaphidospora,,"G. Winter",,1874,,"Hedwigia 129 (1874)",,,,75290e24-9bab-11eb-a8a2-19ed5c03f8d3,,,,,203752," "
-98a99188-9bac-11eb-a8a2-19ed5c03f8d3,species,calaminthae,Rhaphidospora,,Pass.,,,,,,,,98a99188-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211105," "
-49068aaa-8fcc-11eb-924d-9cd76263cbd0,species,campylostemon,Rhaphidospora,,Lindau,,1895,,"Nat. Pflanzenfam. 4(3b): 329 1895",,,,,,53523-1,wfo-0000401640,5573108,,
-f3e52c02-9bab-11eb-a8a2-19ed5c03f8d3,species,cariceti,Rhaphidospora,,"(Berk. & Broome) Cooke",,,,,,,,b8eec232-9bad-11eb-a8a2-19ed5c03f8d3,,,,,465500," "
-49077fc8-8fcc-11eb-924d-9cd76263cbd0,species,cavernarum,Rhaphidospora,,"(F.Muell.) R.M.Barker",,1986,,"J. Adelaide Bot. Gard. 9: 232 1986",,Q92901465,,28320106-8fcc-11eb-924d-9cd76263cbd0,,943317-1,wfo-0000401647,5573102,,
-cfb7b5ec-8fd1-11eb-924d-9cd76263cbd0,species,ciliata,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 500 1847",,,,,,53524-1,wfo-0001281283,5573100,,
+98a99188-9bac-11eb-a8a2-19ed5c03f8d3,species,calaminthae,Rhaphidospora,,Pass.,Q2084039,,,,,,,98a99188-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211105," "
+49068aaa-8fcc-11eb-924d-9cd76263cbd0,species,campylostemon,Rhaphidospora,,Lindau,Q66039,1895,,"Nat. Pflanzenfam. 4(3b): 329 1895",,,,,,53523-1,wfo-0000401640,5573108,,
+f3e52c02-9bab-11eb-a8a2-19ed5c03f8d3,species,cariceti,Rhaphidospora,,"(Berk. & Broome) Cooke","Q662338,Q1932460,Q2351239",,,,,,,b8eec232-9bad-11eb-a8a2-19ed5c03f8d3,,,,,465500," "
+49077fc8-8fcc-11eb-924d-9cd76263cbd0,species,cavernarum,Rhaphidospora,,"(F.Muell.) R.M.Barker","Q708002,Q21505668",1986,,"J. Adelaide Bot. Gard. 9: 232 1986",,Q92901465,,28320106-8fcc-11eb-924d-9cd76263cbd0,,943317-1,wfo-0000401647,5573102,,
+cfb7b5ec-8fd1-11eb-924d-9cd76263cbd0,species,ciliata,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 500 1847",,,,,,53524-1,wfo-0001281283,5573100,,
 11182658-9bac-11eb-a8a2-19ed5c03f8d3,species,cirsii,Rhaphidospora,,"P. Karst.",,,,,,,,11182658-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211372," "
-4907a304-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 499 1847",,,,,,53525-1,wfo-0000401648,5573097,,
-4907d5ae-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 500 1847",,,,,,53526-1,wfo-0000401649,5573094,,
-110f83f4-9bac-11eb-a8a2-19ed5c03f8d3,species,dictamni,Rhaphidospora,,Fuckel,,,,,,,,110f83f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210971," "
-79cb3b26-9bad-11eb-a8a2-19ed5c03f8d3,species,erythrospora,Rhaphidospora,,Oudem.,,,,,,,,79cb3b26-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211276," "
-79ca2d76-9bad-11eb-a8a2-19ed5c03f8d3,species,exilis,Rhaphidospora,,Ces.,,,,,,,,79ca2d76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211175," "
-98d0b6aa-9bac-11eb-a8a2-19ed5c03f8d3,species,friesii,Rhaphidospora,,Mont.,,1849,,"Summa veg. Scand. (Stockholm), Section Post. 401 (1849)",,,,98d0b6aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211352," "
-490802f4-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Rhaphidospora,,"(K.D.Koenig ex Roxb.) Nees",,1832,,"Pl. Asiat. Rar. 3: 115 1832",,,,2836eb76-8fcc-11eb-924d-9cd76263cbd0,,53527-1,wfo-0000401650,5573089,,
-490b7768-8fcc-11eb-924d-9cd76263cbd0,species,glabrituba,Rhaphidospora,,Bremek.,,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 48 1948",,,,,,53528-1,wfo-0000401660,5573084,,
-782bafe6-9bab-11eb-a8a2-19ed5c03f8d3,species,hystrix,Rhaphidospora,,Ces.,,,,,,,,782bafe6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,211017," "
-49071628-8fcc-11eb-924d-9cd76263cbd0,species,javanica,Rhaphidospora,,Bremek.,,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 49 1948",,,,,,53529-1,wfo-0000401644,5573080,,
-49091ac2-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Rhaphidospora,,Bremek.,,1965,,"Dansk Bot. Ark. 23: 218 1965",,,,,,53530-1,wfo-0000401655,5573076,,
-b0e24ac8-8fcd-11eb-924d-9cd76263cbd0,species,leptantha,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 501 1847",,,,,,53531-1,wfo-0001045630,5573073,,
-490c8626-8fcc-11eb-924d-9cd76263cbd0,species,luzonensis,Rhaphidospora,,"(C.B.Clarke) Bremek.",,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 49 1948",,,,27a6cf32-8fcc-11eb-924d-9cd76263cbd0,,53532-1,wfo-0000401667,5573071,,
-490caf98-8fcc-11eb-924d-9cd76263cbd0,species,medullosa,Rhaphidospora,,Bremek.,,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 50 1948",,,,,,53533-1,wfo-0000401668,5573068,,
-490cdec8-8fcc-11eb-924d-9cd76263cbd0,species,membranifolia,Rhaphidospora,,Miq.,,1858,,"Fl. Ned. Ind. 2: 850 1858",,,,,,53534-1,wfo-0000401669,5573066,,
-490d7644-8fcc-11eb-924d-9cd76263cbd0,species,novoguineensis,Rhaphidospora,,Valeton,,1907,,"Bull. Dép. Agric. Indes Néerl. 10: 58 1907",,,,,,53535-1,wfo-0000401670,7819293,,
-b0b40eec-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolia,Rhaphidospora,,Lindau,,1905,,"Bot. Jahrb. Syst. 38: 71 1905",,,,,,53536-1,wfo-0001045221,5573059,,
-98b69ed2-9bac-11eb-a8a2-19ed5c03f8d3,species,oedema,Rhaphidospora,,"(Mont.) Ces. & De Not.",,,,,,,,782e54b2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,211189," "
-490e7b98-8fcc-11eb-924d-9cd76263cbd0,species,platyphylla,Rhaphidospora,,"(S.Moore) Bremek.",,1957,,"Nova Guinea n.s., 8: 151 1957",,,,27958664-8fcc-11eb-924d-9cd76263cbd0,,53537-1,wfo-0000401677,5573057,,
-98a49246-9bac-11eb-a8a2-19ed5c03f8d3,species,rubella,Rhaphidospora,,"(Pers.) Fuckel",,1870,,"Jb. nassau. Ver. Naturk. 23-24: 125 (1870)",,,,843246d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211072," "
-98db6e4c-9bac-11eb-a8a2-19ed5c03f8d3,species,rudis,Rhaphidospora,,"(Riess) Fuckel",,,,,,,,9cba9ad8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211412," "
-5a65123e-9bad-11eb-a8a2-19ed5c03f8d3,species,saligna,Rhaphidospora,,"(Ehrh. ex Pers.) Auersw.",,1870,,"Lepiz. Bot. Tauschverein 4 (1870)",,,,5a66ff22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,447397," "
+4907a304-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 499 1847",,,,,,53525-1,wfo-0000401648,5573097,,
+4907d5ae-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 500 1847",,,,,,53526-1,wfo-0000401649,5573094,,
+110f83f4-9bac-11eb-a8a2-19ed5c03f8d3,species,dictamni,Rhaphidospora,,Fuckel,Q66899,,,,,,,110f83f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210971," "
+79cb3b26-9bad-11eb-a8a2-19ed5c03f8d3,species,erythrospora,Rhaphidospora,,Oudem.,Q205419,,,,,,,79cb3b26-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211276," "
+79ca2d76-9bad-11eb-a8a2-19ed5c03f8d3,species,exilis,Rhaphidospora,,Ces.,Q2138005,,,,,,,79ca2d76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211175," "
+98d0b6aa-9bac-11eb-a8a2-19ed5c03f8d3,species,friesii,Rhaphidospora,,Mont.,Q1029228,1849,,"Summa veg. Scand. (Stockholm), Section Post. 401 (1849)",,,,98d0b6aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211352," "
+490802f4-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Rhaphidospora,,"(K.D.Koenig ex Roxb.) Nees","Q2623607,Q748967,Q76349",1832,,"Pl. Asiat. Rar. 3: 115 1832",,,,2836eb76-8fcc-11eb-924d-9cd76263cbd0,,53527-1,wfo-0000401650,5573089,,
+490b7768-8fcc-11eb-924d-9cd76263cbd0,species,glabrituba,Rhaphidospora,,Bremek.,Q5171231,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 48 1948",,,,,,53528-1,wfo-0000401660,5573084,,
+782bafe6-9bab-11eb-a8a2-19ed5c03f8d3,species,hystrix,Rhaphidospora,,Ces.,Q2138005,,,,,,,782bafe6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,211017," "
+49071628-8fcc-11eb-924d-9cd76263cbd0,species,javanica,Rhaphidospora,,Bremek.,Q5171231,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 49 1948",,,,,,53529-1,wfo-0000401644,5573080,,
+49091ac2-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Rhaphidospora,,Bremek.,Q5171231,1965,,"Dansk Bot. Ark. 23: 218 1965",,,,,,53530-1,wfo-0000401655,5573076,,
+b0e24ac8-8fcd-11eb-924d-9cd76263cbd0,species,leptantha,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 501 1847",,,,,,53531-1,wfo-0001045630,5573073,,
+490c8626-8fcc-11eb-924d-9cd76263cbd0,species,luzonensis,Rhaphidospora,,"(C.B.Clarke) Bremek.","Q2659116,Q5171231",1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 49 1948",,,,27a6cf32-8fcc-11eb-924d-9cd76263cbd0,,53532-1,wfo-0000401667,5573071,,
+490caf98-8fcc-11eb-924d-9cd76263cbd0,species,medullosa,Rhaphidospora,,Bremek.,Q5171231,1948,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 45(2): 50 1948",,,,,,53533-1,wfo-0000401668,5573068,,
+490cdec8-8fcc-11eb-924d-9cd76263cbd0,species,membranifolia,Rhaphidospora,,Miq.,Q76742,1858,,"Fl. Ned. Ind. 2: 850 1858",,,,,,53534-1,wfo-0000401669,5573066,,
+490d7644-8fcc-11eb-924d-9cd76263cbd0,species,novoguineensis,Rhaphidospora,,Valeton,Q2335410,1907,,"Bull. Dép. Agric. Indes Néerl. 10: 58 1907",,,,,,53535-1,wfo-0000401670,7819293,,
+b0b40eec-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolia,Rhaphidospora,,Lindau,Q66039,1905,,"Bot. Jahrb. Syst. 38: 71 1905",,,,,,53536-1,wfo-0001045221,5573059,,
+98b69ed2-9bac-11eb-a8a2-19ed5c03f8d3,species,oedema,Rhaphidospora,,"(Mont.) Ces. & De Not.","Q1029228,Q2138005,Q3014085",,,,,,,782e54b2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,211189," "
+490e7b98-8fcc-11eb-924d-9cd76263cbd0,species,platyphylla,Rhaphidospora,,"(S.Moore) Bremek.","Q2975984,Q5171231",1957,,"Nova Guinea n.s., 8: 151 1957",,,,27958664-8fcc-11eb-924d-9cd76263cbd0,,53537-1,wfo-0000401677,5573057,,
+98a49246-9bac-11eb-a8a2-19ed5c03f8d3,species,rubella,Rhaphidospora,,"(Pers.) Fuckel","Q346451,Q66899",1870,,"Jb. nassau. Ver. Naturk. 23-24: 125 (1870)",,,,843246d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211072," "
+98db6e4c-9bac-11eb-a8a2-19ed5c03f8d3,species,rudis,Rhaphidospora,,"(Riess) Fuckel",Q66899,,,,,,,9cba9ad8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,211412," "
+5a65123e-9bad-11eb-a8a2-19ed5c03f8d3,species,saligna,Rhaphidospora,,"(Ehrh. ex Pers.) Auersw.","Q123996,Q346451,Q5727033",1870,,"Lepiz. Bot. Tauschverein 4 (1870)",,,,5a66ff22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,447397," "
 7e17d8d0-9bab-11eb-a8a2-19ed5c03f8d3,species,scolymi,Rhaphidospora,,Mouton,,,,,,,,7e17d8d0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,208369," "
-490dced2-8fcc-11eb-924d-9cd76263cbd0,species,tenella,Rhaphidospora,,Nees,,1847,,"Prodr. 11: 501 1847",,,,,,53538-1,wfo-0000401672,7535240,,
-490c61a0-8fcc-11eb-924d-9cd76263cbd0,species,tenella,Rhaphidospora,,T.Anderson,,1867,,"J. Linn. Soc., Bot. 9: 515 1867",,Q55758840,,,,53539-1,wfo-0000401666,5573052,,
-90374f26-9bad-11eb-a8a2-19ed5c03f8d3,species,ulnosporus,Rhaphidospora,,"(Cooke) Sacc.",,,,,,,,587e8cbc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,465508," Rhaphidophora ulnospora"
-b26682b6-8fd1-11eb-924d-9cd76263cbd0,species,vagabunda,Rhaphidospora,,"(Benoist) C.Y.Wu ex C.C.Hu",,,,,,,,,,,wfo-0001228941,7549819,,
+490c61a0-8fcc-11eb-924d-9cd76263cbd0,species,tenella,Rhaphidospora,,T.Anderson,Q371504,1867,,"J. Linn. Soc., Bot. 9: 515 1867",,Q55758840,,,,53539-1,wfo-0000401666,5573052,,
+490dced2-8fcc-11eb-924d-9cd76263cbd0,species,tenella,Rhaphidospora,,Nees,Q76349,1847,,"Prodr. 11: 501 1847",,,,,,53538-1,wfo-0000401672,7535240,,
+90374f26-9bad-11eb-a8a2-19ed5c03f8d3,species,ulnosporus,Rhaphidospora,,"(Cooke) Sacc.","Q2351239,Q707840",,,,,,,587e8cbc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,465508," Rhaphidophora ulnospora"
+b26682b6-8fd1-11eb-924d-9cd76263cbd0,species,vagabunda,Rhaphidospora,,"(Benoist) C.Y.Wu ex C.C.Hu","Q4083881,Q534717,Q21516589",,,,,,,,,,wfo-0001228941,7549819,,
 0b919836-9bac-11eb-a8a2-19ed5c03f8d3,species,verminosa,Rhaphidospora,,Mouton,,,,,,,,0b919836-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208056," "
-490e12d4-8fcc-11eb-924d-9cd76263cbd0,species,vestita,Rhaphidospora,,G.Don,,1839,,"Hort. Brit. ed. 3: 559 1839",,,,,,53540-1,wfo-0000401674,5573049,,
-1c74551c-9bac-11eb-a8a2-19ed5c03f8d3,species,xanthii,Rhaphidospora,,"(Lasch) Ces. & De Not.",,,,,,,,523ed938-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208226," "
+490e12d4-8fcc-11eb-924d-9cd76263cbd0,species,vestita,Rhaphidospora,,G.Don,Q1381245,1839,,"Hort. Brit. ed. 3: 559 1839",,,,,,53540-1,wfo-0000401674,5573049,,
+1c74551c-9bac-11eb-a8a2-19ed5c03f8d3,species,xanthii,Rhaphidospora,,"(Lasch) Ces. & De Not.","Q4255445,Q2138005,Q3014085",,,,,,,523ed938-9bac-11eb-a8a2-19ed5c03f8d3,,,,,208226," "

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec454774-8fd1-11eb-924d-9cd76263cbd0,genus,Afrohybanthus,,,Flicker,,2015,,"Phytotaxa 230: 43 (2015)",,Q23779931,,,,77150385-1,wfo-4001303107,8537522,,
-de562570-8fd1-11eb-924d-9cd76263cbd0,species,buxifolius,Afrohybanthus,,"(Vent.) Flicker",,2015,,"Phytotaxa 230(1): 44. 2015. (Phytotaxa)",,,,,,,wfo-0001315327,8455102,,
-de4b3980-8fd1-11eb-924d-9cd76263cbd0,species,danguyanus,Afrohybanthus,,"(H. Perrier) Flicker",,2015,,"Phytotaxa 230(1): 45. 2015. (Phytotaxa)",,,,,,,wfo-0001315250,8628250,,
-de4b1cd4-8fd1-11eb-924d-9cd76263cbd0,species,decaryanus,Afrohybanthus,,"(H. Perrier) Flicker",,2015,,"Phytotaxa 230(1): 46. 2015. (Phytotaxa)",,,,,,,wfo-0001315249,8689183,,
-5aad2c7c-8fcd-11eb-924d-9cd76263cbd0,species,manika,Afroknoxia,,Verdc.,,1981,,"Kew Bull. 36: 495 1981",,Q43227423,,,,896855-1,wfo-0000885235,2901208,,
+ec454774-8fd1-11eb-924d-9cd76263cbd0,genus,Afrohybanthus,,,Flicker,Q36515675,2015,,"Phytotaxa 230: 43 (2015)",,Q23779931,,,,77150385-1,wfo-4001303107,8537522,,
+de562570-8fd1-11eb-924d-9cd76263cbd0,species,buxifolius,Afrohybanthus,,"(Vent.) Flicker","Q290065,Q36515675",2015,,"Phytotaxa 230(1): 44. 2015. (Phytotaxa)",,,,,,,wfo-0001315327,8455102,,
+de4b3980-8fd1-11eb-924d-9cd76263cbd0,species,danguyanus,Afrohybanthus,,"(H. Perrier) Flicker",Q36515675,2015,,"Phytotaxa 230(1): 45. 2015. (Phytotaxa)",,,,,,,wfo-0001315250,8628250,,
+de4b1cd4-8fd1-11eb-924d-9cd76263cbd0,species,decaryanus,Afrohybanthus,,"(H. Perrier) Flicker",Q36515675,2015,,"Phytotaxa 230(1): 46. 2015. (Phytotaxa)",,,,,,,wfo-0001315249,8689183,,
+5aad2c7c-8fcd-11eb-924d-9cd76263cbd0,species,manika,Afroknoxia,,Verdc.,Q604992,1981,,"Kew Bull. 36: 495 1981",,Q43227423,,,,896855-1,wfo-0000885235,2901208,,

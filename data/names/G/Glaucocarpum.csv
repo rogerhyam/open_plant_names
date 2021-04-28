@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e40674d4-8fd1-11eb-924d-9cd76263cbd0,genus,Glaucocarpum,,,Rollins,,1938,,"Madroño 4(7): 233–234, pl. 33. 1938.",,,,,,,wfo-4000015711,3040904,,
-0274931a-8fcd-11eb-924d-9cd76263cbd0,species,suffrutescens,Glaucocarpum,,"(Rollins) Rollins",,1938,,"Madroño 4: 233 1938",,Q93975862,,ac1d5704-8fd1-11eb-924d-9cd76263cbd0,,110668-2,wfo-0000703637,3047782,,
-0274d80c-8fcd-11eb-924d-9cd76263cbd0,species,glastifolia,Glaucocochlearia,,"(L.) Pobed.",,1968,,"Novosti Sist. Vyssh. Rast. 4: 137 1968",,,,,,284502-1,wfo-0000703638,3040522,,
-eac116f2-8fcd-11eb-924d-9cd76263cbd0,species,frigida,Glaucodipsis,,K.F.Schimp.,,1857,,"Mooslob 16 1857",,,,,,,wfo-0001172994,7632377,,
-cd3903a2-8fd1-11eb-924d-9cd76263cbd0,species,maritima,Glaucoides,,"(L.) Lunell",,1916,,"Amer. Midl. Naturalist 4(12): 505 1916",,Q55773199,,,,110669-2,wfo-0001278450,7290740,,
-cd3920da-8fd1-11eb-924d-9cd76263cbd0,variety,obtusifolia,Glaucoides,maritima,"(Fernald) Lunell",,1917,,"Amer. Midl. Naturalist 5(4): 97 1917",,Q55773130,,02762248-8fcd-11eb-924d-9cd76263cbd0,,110670-2,wfo-0001278451,4006967,,
+e40674d4-8fd1-11eb-924d-9cd76263cbd0,genus,Glaucocarpum,,,Rollins,Q3423003,1938,,"Madroño 4(7): 233–234, pl. 33. 1938.",,,,,,,wfo-4000015711,3040904,,
+0274931a-8fcd-11eb-924d-9cd76263cbd0,species,suffrutescens,Glaucocarpum,,"(Rollins) Rollins",Q3423003,1938,,"Madroño 4: 233 1938",,Q93975862,,ac1d5704-8fd1-11eb-924d-9cd76263cbd0,,110668-2,wfo-0000703637,3047782,,
+0274d80c-8fcd-11eb-924d-9cd76263cbd0,species,glastifolia,Glaucocochlearia,,"(L.) Pobed.","Q1043,Q6169986",1968,,"Novosti Sist. Vyssh. Rast. 4: 137 1968",,,,,,284502-1,wfo-0000703638,3040522,,
+eac116f2-8fcd-11eb-924d-9cd76263cbd0,species,frigida,Glaucodipsis,,K.F.Schimp.,Q65402,1857,,"Mooslob 16 1857",,,,,,,wfo-0001172994,7632377,,
+cd3903a2-8fd1-11eb-924d-9cd76263cbd0,species,maritima,Glaucoides,,"(L.) Lunell","Q1043,Q3019197",1916,,"Amer. Midl. Naturalist 4(12): 505 1916",,Q55773199,,,,110669-2,wfo-0001278450,7290740,,
+cd3920da-8fd1-11eb-924d-9cd76263cbd0,variety,obtusifolia,Glaucoides,maritima,"(Fernald) Lunell","Q2656885,Q3019197",1917,,"Amer. Midl. Naturalist 5(4): 97 1917",,Q55773130,,02762248-8fcd-11eb-924d-9cd76263cbd0,,110670-2,wfo-0001278451,4006967,,

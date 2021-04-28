@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5873848-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarckia,,,Moench,,1794,,"Methodus 201. 1794.",,,,,,331222-2,wfo-4000020479,2703299,,
-56dcc530-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Lamarckia,,"(L.) Moench",,1794,,"Methodus 201 1794",,,,,,406803-1,wfo-0000877504,5289762,,
-a5dc5452-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Lamarckia,,Vahl,,1810,,"(R. P. )& Raf., (R. P. )& Raf., and Vahl, Skr. Naturhist.-Selsk. 6: 93. 1810, 1810.",,,,,,,wfo-0001022095,5581260,,
-56dcfa78-8fcd-11eb-924d-9cd76263cbd0,species,hookeriana,Lamarckia,,Griff.,,1851,,"Itin. Pl. Khasyah Mts. 349 1851",,,,,,,wfo-0000877506,5677095,,
-56dd172e-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Lamarckia,,DC.,,1813,,"Cat. Pl. Horti Monsp. 120 1813",,,,,,406805-1,wfo-0000877507,5289875,,
+e5873848-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarckia,,,Moench,Q60948,1794,,"Methodus 201. 1794.",,,,,,331222-2,wfo-4000020479,2703299,,
+56dcc530-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Lamarckia,,"(L.) Moench","Q1043,Q60948",1794,,"Methodus 201 1794",,,,,,406803-1,wfo-0000877504,5289762,,
+a5dc5452-8fcd-11eb-924d-9cd76263cbd0,species,coccinea,Lamarckia,,Vahl,Q353283,1810,,"(R. P. )& Raf., (R. P. )& Raf., and Vahl, Skr. Naturhist.-Selsk. 6: 93. 1810, 1810.",,,,,,,wfo-0001022095,5581260,,
+56dcfa78-8fcd-11eb-924d-9cd76263cbd0,species,hookeriana,Lamarckia,,Griff.,Q11705310,1851,,"Itin. Pl. Khasyah Mts. 349 1851",,,,,,,wfo-0000877506,5677095,,
+56dd172e-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Lamarckia,,DC.,Q123057,1813,,"Cat. Pl. Horti Monsp. 120 1813",,,,,,406805-1,wfo-0000877507,5289875,,

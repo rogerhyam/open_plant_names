@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e11dda1e-8fd1-11eb-924d-9cd76263cbd0,genus,Camphusia,,,"de Vriese",,1850,,"Ned. Kruidk. Arch. 2(1): 148. 1850.",,,,,,,wfo-4000006408,7262208,,
-bc38d2d0-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Camphusia,,"(Hook. & Arn.) de Vriese",,1850,,"Ned. Kruidk. Arch. 2: 149 1850",,,,,,383646-1,wfo-0000583049,3761342,,
-bc38ee00-8fcc-11eb-924d-9cd76263cbd0,variety,kauaiensis,Camphusia,glabra,O.Deg.,,1938,,"Fl. Hawaiiensis Oct. 14: s.p. 1938",,,,,,,wfo-0000583050,8146031,,
-bc390732-8fcc-11eb-924d-9cd76263cbd0,species,kauaiensis,Camphusia,,"(O.Deg.) O.Deg. & I.Deg.",,1961,,"Taxon 10: 228 1961",,Q28951682,,bc38ee00-8fcc-11eb-924d-9cd76263cbd0,,383647-1,wfo-0000583051,3761336,,
+e11dda1e-8fd1-11eb-924d-9cd76263cbd0,genus,Camphusia,,,"de Vriese",Q2101720,1850,,"Ned. Kruidk. Arch. 2(1): 148. 1850.",,,,,,,wfo-4000006408,7262208,,
+bc38d2d0-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Camphusia,,"(Hook. & Arn.) de Vriese","Q472639,Q730292,Q2101720",1850,,"Ned. Kruidk. Arch. 2: 149 1850",,,,,,383646-1,wfo-0000583049,3761342,,
+bc38ee00-8fcc-11eb-924d-9cd76263cbd0,variety,kauaiensis,Camphusia,glabra,O.Deg.,Q2040112,1938,,"Fl. Hawaiiensis Oct. 14: s.p. 1938",,,,,,,wfo-0000583050,8146031,,
+bc390732-8fcc-11eb-924d-9cd76263cbd0,species,kauaiensis,Camphusia,,"(O.Deg.) O.Deg. & I.Deg.","Q2040112,Q5920434",1961,,"Taxon 10: 228 1961",,Q28951682,,bc38ee00-8fcc-11eb-924d-9cd76263cbd0,,383647-1,wfo-0000583051,3761336,,

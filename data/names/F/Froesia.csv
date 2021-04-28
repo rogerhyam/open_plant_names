@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3d2191e-8fd1-11eb-924d-9cd76263cbd0,genus,Froesia,,,Pires,,1948,,"Bol. Tecn. Inst. Agron. N. 15: 22, f. 1948.",,,,,,295877-2,wfo-4000015076,7285769,,
-fc5c4f4a-8fcc-11eb-924d-9cd76263cbd0,species,crassiflora,Froesia,,"Pires & Fróes",,1950,,"Bol. Técn. Inst. Agron. N. 20: 41 1950",,,,,,706992-1,wfo-0000692613,3986489,,
-fc5c6d36-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Froesia,,"Gereau & R.Vásquez",,1994,,"Novon 4: 247 1994",,Q55773893,,,,979294-1,wfo-0000692614,3986477,,
-fc5cb570-8fcc-11eb-924d-9cd76263cbd0,species,gereauana,Froesia,,"J.V.Schneid. & Zizka",,1997,,"Novon 7: 408 1997 publ. 1998",,Q55774082,,,,314583-2,wfo-0000692615,3986462,,
-fc5cf530-8fcc-11eb-924d-9cd76263cbd0,species,tricarpa,Froesia,,Pires,,1948,,"Bol. Técn. Inst. Agron. N. 15: 22 1948",,,,,,106122-2,wfo-0000692616,3986444,,
-fc5d26fe-8fcc-11eb-924d-9cd76263cbd0,species,venezuelensis,Froesia,,"Steyerm. & Bunting",,1975,,"Brittonia 27: 175 1975",,Q54557117,,,,106123-2,wfo-0000692617,3986525,,
+e3d2191e-8fd1-11eb-924d-9cd76263cbd0,genus,Froesia,,,Pires,Q5816173,1948,,"Bol. Tecn. Inst. Agron. N. 15: 22, f. 1948.",,,,,,295877-2,wfo-4000015076,7285769,,
+fc5c4f4a-8fcc-11eb-924d-9cd76263cbd0,species,crassiflora,Froesia,,"Pires & Fróes","Q5816173,Q6108581",1950,,"Bol. Técn. Inst. Agron. N. 20: 41 1950",,,,,,706992-1,wfo-0000692613,3986489,,
+fc5c6d36-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Froesia,,"Gereau & R.Vásquez",Q4615065,1994,,"Novon 4: 247 1994",,Q55773893,,,,979294-1,wfo-0000692614,3986477,,
+fc5cb570-8fcc-11eb-924d-9cd76263cbd0,species,gereauana,Froesia,,"J.V.Schneid. & Zizka","Q21395713,Q21339676",1997,,"Novon 7: 408 1997 publ. 1998",,Q55774082,,,,314583-2,wfo-0000692615,3986462,,
+fc5cf530-8fcc-11eb-924d-9cd76263cbd0,species,tricarpa,Froesia,,Pires,Q5816173,1948,,"Bol. Técn. Inst. Agron. N. 15: 22 1948",,,,,,106122-2,wfo-0000692616,3986444,,
+fc5d26fe-8fcc-11eb-924d-9cd76263cbd0,species,venezuelensis,Froesia,,"Steyerm. & Bunting","Q250148,Q36659774",1975,,"Brittonia 27: 175 1975",,Q54557117,,,,106123-2,wfo-0000692617,3986525,,

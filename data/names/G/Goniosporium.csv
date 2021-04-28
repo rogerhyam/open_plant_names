@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2500fb8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Goniosporium,,,Link,,1824,,"in Willdenow, Willd., Sp. pl., Edn 4 6(1): 44 (1824)",,,,a2500fb8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8384," "
-40f4b4cc-9bac-11eb-a8a2-19ed5c03f8d3,species,puccinioides,Goniosporium,,"(Kunze & J.C. Schmidt) Link",,1824,,"in Willdenow, Willd., Sp. pl., Edn 4 6(1): 44 (1824)",,,,a11a546a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173590," "
-7f291c10-9bac-11eb-a8a2-19ed5c03f8d3,species,punctiforme,Goniosporium,,Speg.,,,,,,,,7f291c10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,172965," "
-7f644d62-9bac-11eb-a8a2-19ed5c03f8d3,species,sphaerospermum,Goniosporium,,"(Fuckel) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 280 (1886)",,,,d056d078-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173380," "
-7f52bb42-9bac-11eb-a8a2-19ed5c03f8d3,species,unilaterale,Goniosporium,,"Sacc. & Peyronel",,,,,,,,7f52bb42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173225," "
-8ef28504-8fcd-11eb-924d-9cd76263cbd0,species,citrosum,Goniostachyum,,Small,,1909,,"Bull. Torrey Bot. Club 36: 163 1909",,Q55766968,,,,112291-2,wfo-0000974481,2925334,,
-8ef29e36-8fcd-11eb-924d-9cd76263cbd0,species,graveolens,Goniostachyum,,"(Kunth) Small",,,,"Fl. S.E. U.S. 1012 1903",,,,,,112292-2,wfo-0000974482,4084943,,
+a2500fb8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Goniosporium,,,Link,Q215466,1824,,"in Willdenow, Willd., Sp. pl., Edn 4 6(1): 44 (1824)",,,,a2500fb8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8384," "
+40f4b4cc-9bac-11eb-a8a2-19ed5c03f8d3,species,puccinioides,Goniosporium,,"(Kunze & J.C. Schmidt) Link","Q65400,Q215466",1824,,"in Willdenow, Willd., Sp. pl., Edn 4 6(1): 44 (1824)",,,,a11a546a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173590," "
+7f291c10-9bac-11eb-a8a2-19ed5c03f8d3,species,punctiforme,Goniosporium,,Speg.,Q648013,,,,,,,7f291c10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,172965," "
+7f644d62-9bac-11eb-a8a2-19ed5c03f8d3,species,sphaerospermum,Goniosporium,,"(Fuckel) Sacc.","Q66899,Q707840",1886,,"Syll. fung. (Abellini) 4: 280 (1886)",,,,d056d078-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173380," "
+7f52bb42-9bac-11eb-a8a2-19ed5c03f8d3,species,unilaterale,Goniosporium,,"Sacc. & Peyronel",Q707840,,,,,,,7f52bb42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,173225," "
+8ef28504-8fcd-11eb-924d-9cd76263cbd0,species,citrosum,Goniostachyum,,Small,Q2590065,1909,,"Bull. Torrey Bot. Club 36: 163 1909",,Q55766968,,,,112291-2,wfo-0000974481,2925334,,
+8ef29e36-8fcd-11eb-924d-9cd76263cbd0,species,graveolens,Goniostachyum,,"(Kunth) Small","Q77074,Q2590065",,,"Fl. S.E. U.S. 1012 1903",,,,,,112292-2,wfo-0000974482,4084943,,

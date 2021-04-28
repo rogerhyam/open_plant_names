@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a2b7a0-8fd1-11eb-924d-9cd76263cbd0,genus,Planocarpa,,,C.M.Weiller,,,,,,Q55756319,,,,990882-1,wfo-4000030038,7288559,,
-4446225a-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Planocarpa,,"(Jarman) C.M.Weiller",,1996,,"Austral. Syst. Bot. 9: 517 1996",,Q55756319,,d9342862-8fcc-11eb-924d-9cd76263cbd0,,990885-1,wfo-0000395978,4010519,,
-4445fece-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Planocarpa,,"(DC.) C.M.Weiller",,1996,,"Austral. Syst. Bot. 9: 514 1996",,Q55756319,,,,990883-1,wfo-0000395977,4010510,,
-4445da3e-8fcc-11eb-924d-9cd76263cbd0,species,sulcata,Planocarpa,,"(Mihaich) C.M.Weiller",,1996,,"Austral. Syst. Bot. 9: 516 1996",,Q55756319,,d936167c-8fcc-11eb-924d-9cd76263cbd0,,990884-1,wfo-0000395976,4010501,,
+e8a2b7a0-8fd1-11eb-924d-9cd76263cbd0,genus,Planocarpa,,,C.M.Weiller,Q26713196,,,,,Q55756319,,,,990882-1,wfo-4000030038,7288559,,
+4446225a-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Planocarpa,,"(Jarman) C.M.Weiller","Q26713197,Q26713196",1996,,"Austral. Syst. Bot. 9: 517 1996",,Q55756319,,d9342862-8fcc-11eb-924d-9cd76263cbd0,,990885-1,wfo-0000395978,4010519,,
+4445fece-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Planocarpa,,"(DC.) C.M.Weiller","Q123057,Q26713196",1996,,"Austral. Syst. Bot. 9: 514 1996",,Q55756319,,,,990883-1,wfo-0000395977,4010510,,
+4445da3e-8fcc-11eb-924d-9cd76263cbd0,species,sulcata,Planocarpa,,"(Mihaich) C.M.Weiller","Q36527484,Q26713196",1996,,"Austral. Syst. Bot. 9: 516 1996",,Q55756319,,d936167c-8fcc-11eb-924d-9cd76263cbd0,,990884-1,wfo-0000395976,4010501,,

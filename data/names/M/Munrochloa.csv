@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f5f53e-8fd1-11eb-924d-9cd76263cbd0,genus,Munrochloa,,,"M.Kumar & Remesh",,2008,,"J. Bot. Res. Inst. Texas 2(1): 374–376, f. 1. 2008.",,,,,,,wfo-4000024980,9698308,,
-6fc95978-8fcd-11eb-924d-9cd76263cbd0,species,ritchiei,Munrochloa,,"(Munro) M.Kumar & Remesh",,2008,,"J. Bot. Res. Inst. Texas 2: 376 2008",,Q99431098,,,,77099564-1,wfo-0000913425,8144151,,
-e4ca58e6-8fcb-11eb-924d-9cd76263cbd0,species,racemosum,Munroidendron,,"(C.N.Forbes) Sherff",,1952,,"Bot. Leafl. 7: 22 1952",,,,,,91050-1,wfo-0000246438,3036832,,
-e4ca76e6-8fcb-11eb-924d-9cd76263cbd0,variety,forbesii,Munroidendron,racemosum,Sherff,,1952,,"Bot. Leafl. 7: 23 1952",,,,,,,wfo-0000246439,3036835,,
-e4ca96f8-8fcb-11eb-924d-9cd76263cbd0,variety,macdanielsii,Munroidendron,racemosum,Sherff,,1952,,"Bot. Leafl. 7: 24 1952",,,,,,,wfo-0000246440,3036834,,
+e6f5f53e-8fd1-11eb-924d-9cd76263cbd0,genus,Munrochloa,,,"M.Kumar & Remesh","Q21339825,Q26714069",2008,,"J. Bot. Res. Inst. Texas 2(1): 374–376, f. 1. 2008.",,,,,,,wfo-4000024980,9698308,,
+6fc95978-8fcd-11eb-924d-9cd76263cbd0,species,ritchiei,Munrochloa,,"(Munro) M.Kumar & Remesh","Q2004878,Q21339825,Q26714069",2008,,"J. Bot. Res. Inst. Texas 2: 376 2008",,Q99431098,,,,77099564-1,wfo-0000913425,8144151,,
+e4ca58e6-8fcb-11eb-924d-9cd76263cbd0,species,racemosum,Munroidendron,,"(C.N.Forbes) Sherff","Q1065657,Q1277047",1952,,"Bot. Leafl. 7: 22 1952",,,,,,91050-1,wfo-0000246438,3036832,,
+e4ca76e6-8fcb-11eb-924d-9cd76263cbd0,variety,forbesii,Munroidendron,racemosum,Sherff,Q1277047,1952,,"Bot. Leafl. 7: 23 1952",,,,,,,wfo-0000246439,3036835,,
+e4ca96f8-8fcb-11eb-924d-9cd76263cbd0,variety,macdanielsii,Munroidendron,racemosum,Sherff,Q1277047,1952,,"Bot. Leafl. 7: 24 1952",,,,,,,wfo-0000246440,3036834,,

@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a68dec62-9bad-11eb-a8a2-19ed5c03f8d3,genus,Tetragoniomyces,,,"Oberw. & Bandoni",,,,"Can. J. Bot. 59(6): 1034 (1981)",,,,a68dec62-9bad-11eb-a8a2-19ed5c03f8d3,,,,,10197," "
 2bad1db6-9bac-11eb-a8a2-19ed5c03f8d3,species,uliginosus,Tetragoniomyces,,"(P. Karst.) Oberw. & Bandoni",,,,"Can. J. Bot. 59(6): 1035 (1981)",,,,8b7fe55c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,112658," "
-682e8b34-8fcd-11eb-924d-9cd76263cbd0,species,angulatus,Tetragonocalamus,,"(Munro) Nakai",,1933,,"J. Jap. Bot. 9: 86, 89 1933",,,,,,424111-1,wfo-0000903405,4127134,,
-682eadc6-8fcd-11eb-924d-9cd76263cbd0,species,quadrangularis,Tetragonocalamus,,"(Fenzl) Nakai",,1933,,"J. Jap. Bot. 9: 90 1933",,,,4bbe745a-8fcd-11eb-924d-9cd76263cbd0,,424112-1,wfo-0000903406,4127115,,
-b6a821ea-8fd1-11eb-924d-9cd76263cbd0,variety,albostriatus,Tetragonocalamus,quadrangularis,"Muroi & Okamura",,1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,,wfo-0001236749,7744601,,
-682ed1d4-8fcd-11eb-924d-9cd76263cbd0,form,albostriatus,Tetragonocalamus,quadrangularis,"Muroi & H.Okamura",,1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,964825-1,wfo-0000903407,4127123,,
-682ef560-8fcd-11eb-924d-9cd76263cbd0,form,aureostriatus,Tetragonocalamus,quadrangularis,"Muroi & H.Okamura",,1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,964826-1,wfo-0000903408,4127113,,
-682f316a-8fcd-11eb-924d-9cd76263cbd0,form,nagamineus,Tetragonocalamus,quadrangularis,H.Okamura,,1986,,"Hort. Bamoo Sp. Japan 31 1986",,,,,,,wfo-0000903410,5948501,,
-682f8ce6-8fcd-11eb-924d-9cd76263cbd0,variety,sotaroanus,Tetragonocalamus,quadrangularis,Muroi,,1948,,"Hyogo Biol. 2: 7 1948",,,,,,,wfo-0000903413,6313294,,
-682f4ea2-8fcd-11eb-924d-9cd76263cbd0,form,sotaroanus,Tetragonocalamus,quadrangularis,"(Muroi) Muroi",,1974,,"J. Himeji Gakuim Wom. Coll. 1: 11 1974",,,,682f8ce6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000903411,6313294,,
-682f6dd8-8fcd-11eb-924d-9cd76263cbd0,form,tatejima,Tetragonocalamus,quadrangularis,"Kasahara & H.Okamura",,1991,,"Ill. Hort. Bamoo Sp. Japan 349 1991",,,,,,,wfo-0000903412,5948502,,
+682e8b34-8fcd-11eb-924d-9cd76263cbd0,species,angulatus,Tetragonocalamus,,"(Munro) Nakai","Q2004878,Q704751",1933,,"J. Jap. Bot. 9: 86, 89 1933",,,,,,424111-1,wfo-0000903405,4127134,,
+682eadc6-8fcd-11eb-924d-9cd76263cbd0,species,quadrangularis,Tetragonocalamus,,"(Fenzl) Nakai","Q113291,Q704751",1933,,"J. Jap. Bot. 9: 90 1933",,,,4bbe745a-8fcd-11eb-924d-9cd76263cbd0,,424112-1,wfo-0000903406,4127115,,
+682ed1d4-8fcd-11eb-924d-9cd76263cbd0,form,albostriatus,Tetragonocalamus,quadrangularis,"Muroi & H.Okamura","Q20742065,Q33687153",1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,964825-1,wfo-0000903407,4127123,,
+b6a821ea-8fd1-11eb-924d-9cd76263cbd0,variety,albostriatus,Tetragonocalamus,quadrangularis,"Muroi & Okamura","Q20742065,Q658858",1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,,wfo-0001236749,7744601,,
+682ef560-8fcd-11eb-924d-9cd76263cbd0,form,aureostriatus,Tetragonocalamus,quadrangularis,"Muroi & H.Okamura","Q20742065,Q33687153",1972,,"Rep. Fuji Bamboo Gard. 17: 10 1972",,,,,,964826-1,wfo-0000903408,4127113,,
+682f316a-8fcd-11eb-924d-9cd76263cbd0,form,nagamineus,Tetragonocalamus,quadrangularis,H.Okamura,Q33687153,1986,,"Hort. Bamoo Sp. Japan 31 1986",,,,,,,wfo-0000903410,5948501,,
+682f4ea2-8fcd-11eb-924d-9cd76263cbd0,form,sotaroanus,Tetragonocalamus,quadrangularis,"(Muroi) Muroi",Q20742065,1974,,"J. Himeji Gakuim Wom. Coll. 1: 11 1974",,,,682f8ce6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000903411,6313294,,
+682f8ce6-8fcd-11eb-924d-9cd76263cbd0,variety,sotaroanus,Tetragonocalamus,quadrangularis,Muroi,Q20742065,1948,,"Hyogo Biol. 2: 7 1948",,,,,,,wfo-0000903413,6313294,,
+682f6dd8-8fcd-11eb-924d-9cd76263cbd0,form,tatejima,Tetragonocalamus,quadrangularis,"Kasahara & H.Okamura",Q33687153,1991,,"Ill. Hort. Bamoo Sp. Japan 349 1991",,,,,,,wfo-0000903412,5948502,,

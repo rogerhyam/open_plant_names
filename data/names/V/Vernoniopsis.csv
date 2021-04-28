@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebe79160-8fd1-11eb-924d-9cd76263cbd0,genus,Vernoniopsis,,,Dusén,,,,,,,,,,288287-2,wfo-4000040169,7455031,,
-2060f09c-8fbb-11eb-924d-9cd76263cbd0,species,caudata,Vernoniopsis,,"(Drake) Humbert",,1955,,"in Mem. Inst. Sci. Madag., Ser. B, vi. 155 (1955).",,,,5338fedc-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000131920,3127450,,
-b9426f34-8fb6-11eb-924d-9cd76263cbd0,subspecies,lokohensis,Vernoniopsis,caudata,Humbert,,1955,,"Memoires de l'Institut Scientifique de Madagascar. Serie B. Biologie Vegetale. 6: 155 1955",,,,,,77117092-1,wfo-0000092486,8085737,,
-eaf00054-8fb2-11eb-924d-9cd76263cbd0,species,crassipes,Vernoniopsis,,Dusén,,1921,,"Beih. Bot. Centralbl. 38, pt. 2: 284, fig. 11 1921",,,,,,264488-2,wfo-0000037425,4237129,,
-af0f3486-8fcd-11eb-924d-9cd76263cbd0,species,lokohensis,Vernoniopsis,,"(Humbert) Callm. & Phillipson",,2011,,"Candollea 66(2): 411 2011",,Q55763000,,b927274e-8fcd-11eb-924d-9cd76263cbd0,,77117093-1,wfo-0001041602,7923968,,
+ebe79160-8fd1-11eb-924d-9cd76263cbd0,genus,Vernoniopsis,,,Dusén,Q5625930,,,,,,,,,288287-2,wfo-4000040169,7455031,,
+2060f09c-8fbb-11eb-924d-9cd76263cbd0,species,caudata,Vernoniopsis,,"(Drake) Humbert","Q1338265,Q2738811",1955,,"in Mem. Inst. Sci. Madag., Ser. B, vi. 155 (1955).",,,,5338fedc-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000131920,3127450,,
+b9426f34-8fb6-11eb-924d-9cd76263cbd0,subspecies,lokohensis,Vernoniopsis,caudata,Humbert,Q2738811,1955,,"Memoires de l'Institut Scientifique de Madagascar. Serie B. Biologie Vegetale. 6: 155 1955",,,,,,77117092-1,wfo-0000092486,8085737,,
+eaf00054-8fb2-11eb-924d-9cd76263cbd0,species,crassipes,Vernoniopsis,,Dusén,Q5625930,1921,,"Beih. Bot. Centralbl. 38, pt. 2: 284, fig. 11 1921",,,,,,264488-2,wfo-0000037425,4237129,,
+af0f3486-8fcd-11eb-924d-9cd76263cbd0,species,lokohensis,Vernoniopsis,,"(Humbert) Callm. & Phillipson","Q2738811,Q6002328,Q18719879",2011,,"Candollea 66(2): 411 2011",,Q55763000,,b927274e-8fcd-11eb-924d-9cd76263cbd0,,77117093-1,wfo-0001041602,7923968,,

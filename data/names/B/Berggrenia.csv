@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-7feb06a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Berggrenia,,,Cooke,,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,7feb06a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,547," "
-d049cb26-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiaca,Berggrenia,,Cooke,,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,d049cb26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249137," "
-61d5e116-9bac-11eb-a8a2-19ed5c03f8d3,variety,aurantiaca,Berggrenia,aurantiaca,Cooke,,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,61d5e116-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530463," "
-61e97262-9bac-11eb-a8a2-19ed5c03f8d3,variety,cyclospora,Berggrenia,aurantiaca,Cooke,,1886,,"Grevillea 15(no. 73): 16 (1886)",,,,61e97262-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530464," "
-56f978ac-9bac-11eb-a8a2-19ed5c03f8d3,species,cyclospora,Berggrenia,,"(Cooke) Sacc.",,1889,,"Syll. fung. (Abellini) 8: 152 (1889)",,,,61e97262-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249764," "
-4bdda58c-8fcd-11eb-924d-9cd76263cbd0,species,barbulata,Berghausia,,"(Nees) Endl. ex Miq.",,1851,,"Anal. Bot. Ind. 2: 32 1851",,,,58248ff4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000853678,4138552,,
-c8c2a4ee-8fcd-11eb-924d-9cd76263cbd0,species,courtallensis,Berghausia,,"(Arn. & Nees) Endl.",,1851,,"Anal. Bot. Ind. 32 1851",,,,5824c546-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001099362,8460614,,
-4bddc404-8fcd-11eb-924d-9cd76263cbd0,species,courtallensis,Berghausia,,"Nees ex Miq.",,1851,,"Anal. Bot. Ind. 2: 32 1851",,,,,,,wfo-0000853679,4138543,,
-4bdde0ba-8fcd-11eb-924d-9cd76263cbd0,species,elata,Berghausia,,"Arn. ex Miq.",,1851,,"Anal. Bot. Ind. 2: 32 1851",,,,,,,wfo-0000853680,4138525,,
-c8c2c2a8-8fcd-11eb-924d-9cd76263cbd0,species,emodi,Berghausia,,Endl.,,1951,,"Anal. Bot. Ind. 2: 20 1951",,,,,,,wfo-0001099363,7392530,,
-4bddfbfe-8fcd-11eb-924d-9cd76263cbd0,species,emodi,Berghausia,,"(Arn. & Nees) Endl. ex Miq.",,1851,,"Anal. Bot. Ind. 2: 32 1851",,,,5824fa70-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000853681,7392530,,
-4bde162a-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Berghausia,,Munro,,1860,,"Proc. Amer. Acad. Arts 4: 362 1860",,,,,,392653-1,wfo-0000853682,4138490,,
-4bde316e-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Berghausia,,"Arn. ex Miq.",,1851,,"Anal. Bot. Ind. 2: 33 1851",,,,,,,wfo-0000853683,4138483,,
-4bde4e42-8fcd-11eb-924d-9cd76263cbd0,species,patula,Berghausia,,Munro,,1864,,"Proc. Amer. Acad. Arts 4: 362 1864",,,,,,392655-1,wfo-0000853684,4138477,,
-4bde6a12-8fcd-11eb-924d-9cd76263cbd0,species,scoparia,Berghausia,,"Munro ex Hook.f.",,1896,,"Fl. Brit. India 7: 242 1896",,,,,,392656-1,wfo-0000853685,4138470,,
-4bde85ba-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Berghausia,,"Arn. ex Miq.",,1851,,"Anal. Bot. Ind. 2: 34 1851",,,,,,,wfo-0000853686,4138463,,
+7feb06a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Berggrenia,,,Cooke,Q2351239,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,7feb06a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,547," "
+d049cb26-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiaca,Berggrenia,,Cooke,Q2351239,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,d049cb26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249137," "
+61d5e116-9bac-11eb-a8a2-19ed5c03f8d3,variety,aurantiaca,Berggrenia,aurantiaca,Cooke,Q2351239,1879,,"Grevillea 8(no. 46): 64 (1879)",,,,61d5e116-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530463," "
+61e97262-9bac-11eb-a8a2-19ed5c03f8d3,variety,cyclospora,Berggrenia,aurantiaca,Cooke,Q2351239,1886,,"Grevillea 15(no. 73): 16 (1886)",,,,61e97262-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530464," "
+56f978ac-9bac-11eb-a8a2-19ed5c03f8d3,species,cyclospora,Berggrenia,,"(Cooke) Sacc.","Q2351239,Q707840",1889,,"Syll. fung. (Abellini) 8: 152 (1889)",,,,61e97262-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249764," "
+4bdda58c-8fcd-11eb-924d-9cd76263cbd0,species,barbulata,Berghausia,,"(Nees) Endl. ex Miq.","Q76349,Q78605,Q76742",1851,,"Anal. Bot. Ind. 2: 32 1851",,,,58248ff4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000853678,4138552,,
+4bddc404-8fcd-11eb-924d-9cd76263cbd0,species,courtallensis,Berghausia,,"Nees ex Miq.","Q76349,Q76742",1851,,"Anal. Bot. Ind. 2: 32 1851",,,,,,,wfo-0000853679,4138543,,
+c8c2a4ee-8fcd-11eb-924d-9cd76263cbd0,species,courtallensis,Berghausia,,"(Arn. & Nees) Endl.","Q730292,Q76349,Q78605",1851,,"Anal. Bot. Ind. 32 1851",,,,5824c546-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001099362,8460614,,
+4bdde0ba-8fcd-11eb-924d-9cd76263cbd0,species,elata,Berghausia,,"Arn. ex Miq.","Q730292,Q76742",1851,,"Anal. Bot. Ind. 2: 32 1851",,,,,,,wfo-0000853680,4138525,,
+4bddfbfe-8fcd-11eb-924d-9cd76263cbd0,species,emodi,Berghausia,,"(Arn. & Nees) Endl. ex Miq.","Q730292,Q76349,Q78605,Q76742",1851,,"Anal. Bot. Ind. 2: 32 1851",,,,5824fa70-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000853681,7392530,,
+c8c2c2a8-8fcd-11eb-924d-9cd76263cbd0,species,emodi,Berghausia,,Endl.,Q78605,1951,,"Anal. Bot. Ind. 2: 20 1951",,,,,,,wfo-0001099363,7392530,,
+4bde162a-8fcd-11eb-924d-9cd76263cbd0,species,mutica,Berghausia,,Munro,Q2004878,1860,,"Proc. Amer. Acad. Arts 4: 362 1860",,,,,,392653-1,wfo-0000853682,4138490,,
+4bde316e-8fcd-11eb-924d-9cd76263cbd0,species,pallens,Berghausia,,"Arn. ex Miq.","Q730292,Q76742",1851,,"Anal. Bot. Ind. 2: 33 1851",,,,,,,wfo-0000853683,4138483,,
+4bde4e42-8fcd-11eb-924d-9cd76263cbd0,species,patula,Berghausia,,Munro,Q2004878,1864,,"Proc. Amer. Acad. Arts 4: 362 1864",,,,,,392655-1,wfo-0000853684,4138477,,
+4bde6a12-8fcd-11eb-924d-9cd76263cbd0,species,scoparia,Berghausia,,"Munro ex Hook.f.","Q2004878,Q157501",1896,,"Fl. Brit. India 7: 242 1896",,,,,,392656-1,wfo-0000853685,4138470,,
+4bde85ba-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Berghausia,,"Arn. ex Miq.","Q730292,Q76742",1851,,"Anal. Bot. Ind. 2: 34 1851",,,,,,,wfo-0000853686,4138463,,

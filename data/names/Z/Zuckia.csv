@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec3f58aa-8fd1-11eb-924d-9cd76263cbd0,genus,Zuckia,,,Standl.,,1915,,"J. Wash. Acad. Sci. 5(2): 58–59. 1915.",,,,,,,wfo-4000041302,6447955,,
-b9087b88-8fd1-11eb-924d-9cd76263cbd0,species,arizonica,Zuckia,,Standl.,,1915,,"J. Wash. Acad. Sci. 5(2): 58–59 1915",,Q96057052,,,,287216-2,wfo-0001241159,3760095,,
-d9bf8e20-8fd1-11eb-924d-9cd76263cbd0,species,brandegeei,Zuckia,,"(A.Gray) S.L.Welsh & Stutz",,1984,,"Great Basin Naturalist 44(2): 208 1984",,,,,,287217-2,wfo-0001294788,6447997,,
-d9bf6ef4-8fd1-11eb-924d-9cd76263cbd0,variety,arizonica,Zuckia,brandegeei,"(Standl.) S.L.Welsh",,1984,,"Great Basin Naturalist 44(2): 209 1984",,,,,,952038-1,wfo-0001294787,3760086,,
-643aad8e-9a07-11eb-a8a2-19ed5c03f8d3,variety,plummeri,Zuckia,brandegeei,"(Stutz & S.C.Sand.) S.L.Welsh",,1993,,"Rhodora 95: 393",,Q100413868,,,,1009385-2,,,,
+ec3f58aa-8fd1-11eb-924d-9cd76263cbd0,genus,Zuckia,,,Standl.,Q1333160,1915,,"J. Wash. Acad. Sci. 5(2): 58–59. 1915.",,,,,,,wfo-4000041302,6447955,,
+b9087b88-8fd1-11eb-924d-9cd76263cbd0,species,arizonica,Zuckia,,Standl.,Q1333160,1915,,"J. Wash. Acad. Sci. 5(2): 58–59 1915",,Q96057052,,,,287216-2,wfo-0001241159,3760095,,
+d9bf8e20-8fd1-11eb-924d-9cd76263cbd0,species,brandegeei,Zuckia,,"(A.Gray) S.L.Welsh & Stutz","Q347356,Q5678658,Q17403858",1984,,"Great Basin Naturalist 44(2): 208 1984",,,,,,287217-2,wfo-0001294788,6447997,,
+d9bf6ef4-8fd1-11eb-924d-9cd76263cbd0,variety,arizonica,Zuckia,brandegeei,"(Standl.) S.L.Welsh","Q1333160,Q5678658",1984,,"Great Basin Naturalist 44(2): 209 1984",,,,,,952038-1,wfo-0001294787,3760086,,
+643aad8e-9a07-11eb-a8a2-19ed5c03f8d3,variety,plummeri,Zuckia,brandegeei,"(Stutz & S.C.Sand.) S.L.Welsh","Q17403858,Q15975693,Q5678658",1993,,"Rhodora 95: 393",,Q100413868,,,,1009385-2,,,,

@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 99f9c8ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Keinstirschia,,,"J. Reid & C. Booth",,1989,,"Can. J. Bot. 67(3): 897 (1989)",,,,99f9c8ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25314," "
 42c5f914-9bac-11eb-a8a2-19ed5c03f8d3,species,megalosperma,Keinstirschia,,"(Kirschst.) J. Reid & C. Booth",,1989,,"Can. J. Bot. 67(3): 897 (1989)",,,,3d37ab68-9bad-11eb-a8a2-19ed5c03f8d3,,,,,136064," "
-39963df8-8fcd-11eb-924d-9cd76263cbd0,species,lutea,Keiria,,Bowdich,,1825,,"Exc. Madeira 259 1825",,,,,,609892-1,wfo-0000814168,3684117,,
-1731912e-8fcb-11eb-924d-9cd76263cbd0,species,australis,Keiskea,,"C.Y.Wu & H.W.Li",,1977,,"in Fl. Reipubl. Popul. Sin. 66: 585 1977",,,,,,448631-1,wfo-0000220824,3896432,,
-173fa49e-8fcb-11eb-924d-9cd76263cbd0,species,elsholtzioides,Keiskea,,Merr.,,1937,,"Sunyatsenia 3: 258 1937",,,,,,448632-1,wfo-0000220825,7308471,,
-174d81c2-8fcb-11eb-924d-9cd76263cbd0,form,purpurea,Keiskea,elsholtzioides,X.H.Guo,,1987,,"Bull. Bot. Res., Harbin 7: 137 1987",,Q96108785,,,,949822-1,wfo-0000220826,3896415,,
-175b606c-8fcb-11eb-924d-9cd76263cbd0,species,glandulosa,Keiskea,,C.Y.Wu,,1965,,"Acta Phytotax. Sin. 10: 236 1965",,,,,,448633-1,wfo-0000220827,3896408,,
-1769823c-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Keiskea,,Miq.,,1865,,"Ann. Mus. Bot. Lugduno-Batavi 2: 105 1865",,,,,,448634-1,wfo-0000220828,7308469,,
-1777a6be-8fcb-11eb-924d-9cd76263cbd0,form,rubra,Keiskea,japonica,Kigawa,,1989,,"Bull. Kanagawa Pref. Mus., Nat. Sci. 18: 22 1989",,,,,,964952-1,wfo-0000220829,3896391,,
-1793dd7a-8fcb-11eb-924d-9cd76263cbd0,species,macrobracteata,Keiskea,,Masam.,,1940,,"Trans. Nat. Hist. Soc. Taiwan 30: 341 1940",,,,,,448635-1,wfo-0000220831,3896384,,
-17a4a2d6-8fcb-11eb-924d-9cd76263cbd0,species,sinensis,Keiskea,,Diels,,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 199 1924",,Q55776796,,,,448636-1,wfo-0000220832,3896374,,
-17b4e16e-8fcb-11eb-924d-9cd76263cbd0,species,szechuanensis,Keiskea,,C.Y.Wu,,1965,,"Acta Phytotax. Sin. 10: 236 1965",,,,,,448637-1,wfo-0000220833,3896367,,
+39963df8-8fcd-11eb-924d-9cd76263cbd0,species,lutea,Keiria,,Bowdich,Q2375893,1825,,"Exc. Madeira 259 1825",,,,,,609892-1,wfo-0000814168,3684117,,
+1731912e-8fcb-11eb-924d-9cd76263cbd0,species,australis,Keiskea,,"C.Y.Wu & H.W.Li","Q534717,Q5647382",1977,,"in Fl. Reipubl. Popul. Sin. 66: 585 1977",,,,,,448631-1,wfo-0000220824,3896432,,
+173fa49e-8fcb-11eb-924d-9cd76263cbd0,species,elsholtzioides,Keiskea,,Merr.,Q729926,1937,,"Sunyatsenia 3: 258 1937",,,,,,448632-1,wfo-0000220825,7308471,,
+174d81c2-8fcb-11eb-924d-9cd76263cbd0,form,purpurea,Keiskea,elsholtzioides,X.H.Guo,Q19589313,1987,,"Bull. Bot. Res., Harbin 7: 137 1987",,Q96108785,,,,949822-1,wfo-0000220826,3896415,,
+175b606c-8fcb-11eb-924d-9cd76263cbd0,species,glandulosa,Keiskea,,C.Y.Wu,Q534717,1965,,"Acta Phytotax. Sin. 10: 236 1965",,,,,,448633-1,wfo-0000220827,3896408,,
+1769823c-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Keiskea,,Miq.,Q76742,1865,,"Ann. Mus. Bot. Lugduno-Batavi 2: 105 1865",,,,,,448634-1,wfo-0000220828,7308469,,
+1777a6be-8fcb-11eb-924d-9cd76263cbd0,form,rubra,Keiskea,japonica,Kigawa,Q36677831,1989,,"Bull. Kanagawa Pref. Mus., Nat. Sci. 18: 22 1989",,,,,,964952-1,wfo-0000220829,3896391,,
+1793dd7a-8fcb-11eb-924d-9cd76263cbd0,species,macrobracteata,Keiskea,,Masam.,Q2445064,1940,,"Trans. Nat. Hist. Soc. Taiwan 30: 341 1940",,,,,,448635-1,wfo-0000220831,3896384,,
+17a4a2d6-8fcb-11eb-924d-9cd76263cbd0,species,sinensis,Keiskea,,Diels,Q77123,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 199 1924",,Q55776796,,,,448636-1,wfo-0000220832,3896374,,
+17b4e16e-8fcb-11eb-924d-9cd76263cbd0,species,szechuanensis,Keiskea,,C.Y.Wu,Q534717,1965,,"Acta Phytotax. Sin. 10: 236 1965",,,,,,448637-1,wfo-0000220833,3896367,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e609ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lomatocarpa,,,Pimenov,,1982,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 87(1): 115. 1982.",,,,,,893188-1,wfo-4000022128,8117793,,
-c3a6ff42-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Lomatocarpa,,"(Rech.f.) Pimenov",,1995,,"Vasc. Pl. Russia & Adj. States 20 1995",,,,,,984636-1,wfo-0001260854,3633104,,
-bb187b66-8fcd-11eb-924d-9cd76263cbd0,species,albomarginata,Lomatocarpa,,"(Schrenk ex Fisch. & C.A.Mey.) Pimenov & Lavrova",,1987,,"Bot. Žurn. (Moscow & Leningrad) 72(1): 35 1987",,,,baf23262-8fcd-11eb-924d-9cd76263cbd0,,943754-1,wfo-0001068996,3633093,,
-bb0a7d7c-8fcd-11eb-924d-9cd76263cbd0,species,korovinii,Lomatocarpa,,Pimenov,,1981,,"Sosud. Rast. SSSR 24 1981",,,,,,984624-1,wfo-0001068859,3633071,,
-bb0a96ea-8fcd-11eb-924d-9cd76263cbd0,species,steineri,Lomatocarpa,,Pimenov,,,,,,,,,,,wfo-0001068860,3633059,,
+e609ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lomatocarpa,,,Pimenov,Q6012784,1982,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 87(1): 115. 1982.",,,,,,893188-1,wfo-4000022128,8117793,,
+c3a6ff42-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Lomatocarpa,,"(Rech.f.) Pimenov","Q78738,Q6012784",1995,,"Vasc. Pl. Russia & Adj. States 20 1995",,,,,,984636-1,wfo-0001260854,3633104,,
+bb187b66-8fcd-11eb-924d-9cd76263cbd0,species,albomarginata,Lomatocarpa,,"(Schrenk ex Fisch. & C.A.Mey.) Pimenov & Lavrova","Q519196,Q64109,Q728729,Q6012784,Q18857123",1987,,"Bot. Žurn. (Moscow & Leningrad) 72(1): 35 1987",,,,baf23262-8fcd-11eb-924d-9cd76263cbd0,,943754-1,wfo-0001068996,3633093,,
+bb0a7d7c-8fcd-11eb-924d-9cd76263cbd0,species,korovinii,Lomatocarpa,,Pimenov,Q6012784,1981,,"Sosud. Rast. SSSR 24 1981",,,,,,984624-1,wfo-0001068859,3633071,,
+bb0a96ea-8fcd-11eb-924d-9cd76263cbd0,species,steineri,Lomatocarpa,,Pimenov,Q6012784,,,,,,,,,,wfo-0001068860,3633059,,

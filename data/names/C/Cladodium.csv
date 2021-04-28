@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1c4e494-8fd1-11eb-924d-9cd76263cbd0,genus,Cladodium,,,Brid.,,1826,,"Bryol. Univ. 1(1): 620–623, pl. suppl. 3, f. 9. 1826.",,,,,,,wfo-4000008428,3230072,1076," "
-ee915972-8fcd-11eb-924d-9cd76263cbd0,species,calophyllum,Cladodium,,"(R.Br.) Brid.",,1826,,"Bryol. Univ. 1: 622 1826",,,,e2fe98ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180571,8373208,,
-ee9174f2-8fcd-11eb-924d-9cd76263cbd0,species,demissum,Cladodium,,"(Hook.) Nees",,1836,,"Flora 19 Lit. 2: 25 1836",,,,e7ffaf82-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180572,7850708,,
+e1c4e494-8fd1-11eb-924d-9cd76263cbd0,genus,Cladodium,,,Brid.,Q946113,1826,,"Bryol. Univ. 1(1): 620–623, pl. suppl. 3, f. 9. 1826.",,,,,,,wfo-4000008428,3230072,1076," "
+ee915972-8fcd-11eb-924d-9cd76263cbd0,species,calophyllum,Cladodium,,"(R.Br.) Brid.","Q155764,Q946113",1826,,"Bryol. Univ. 1: 622 1826",,,,e2fe98ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180571,8373208,,
+ee9174f2-8fcd-11eb-924d-9cd76263cbd0,species,demissum,Cladodium,,"(Hook.) Nees","Q472639,Q76349",1836,,"Flora 19 Lit. 2: 25 1836",,,,e7ffaf82-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180572,7850708,,
 40f051d8-9bad-11eb-a8a2-19ed5c03f8d3,species,hosseanum,Cladodium,,Gyeln.,,,,,,,,40f051d8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365600," "
-ee919090-8fcd-11eb-924d-9cd76263cbd0,species,inclinatum,Cladodium,,"(Sw. ex Brid.) Brid.",,1826,,"Bryol. Univ. 1: 621 1826",,,,,,,wfo-0001180573,7541454,,
-ee91ae40-8fcd-11eb-924d-9cd76263cbd0,species,microcarpon,Cladodium,,"(Hornsch.) Hampe",,1879,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1: 102 1879",,,,,,,wfo-0001180574,7851913,,
-ee91c966-8fcd-11eb-924d-9cd76263cbd0,species,rhamphostegium,Cladodium,,Hampe,,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 339 1865",,,,,,,wfo-0001180575,7586075,,
-ee91e77a-8fcd-11eb-924d-9cd76263cbd0,species,socorrense,Cladodium,,Hampe,,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 338 1865",,,,,,,wfo-0001180576,7727456,,
-ee9205c0-8fcd-11eb-924d-9cd76263cbd0,species,uliginosum,Cladodium,,Brid.,,1827,,"Bryol. Univ. 1: 841 1827",,,,,,,wfo-0001180577,8084329,,
-ee922320-8fcd-11eb-924d-9cd76263cbd0,species,zierii,Cladodium,,"(Dicks. ex Hedw.) Hampe",,1873,,"Fl. Hercyn. 353 1873",,,,ecf9dd6e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180578,7647211,,
+ee919090-8fcd-11eb-924d-9cd76263cbd0,species,inclinatum,Cladodium,,"(Sw. ex Brid.) Brid.","Q632088,Q946113",1826,,"Bryol. Univ. 1: 621 1826",,,,,,,wfo-0001180573,7541454,,
+ee91ae40-8fcd-11eb-924d-9cd76263cbd0,species,microcarpon,Cladodium,,"(Hornsch.) Hampe","Q69662,Q64025",1879,,"Vidensk. Meddel. Dansk Naturhist. Foren. Kjøbenhavn 1: 102 1879",,,,,,,wfo-0001180574,7851913,,
+ee91c966-8fcd-11eb-924d-9cd76263cbd0,species,rhamphostegium,Cladodium,,Hampe,Q64025,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 339 1865",,,,,,,wfo-0001180575,7586075,,
+ee91e77a-8fcd-11eb-924d-9cd76263cbd0,species,socorrense,Cladodium,,Hampe,Q64025,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 338 1865",,,,,,,wfo-0001180576,7727456,,
+ee9205c0-8fcd-11eb-924d-9cd76263cbd0,species,uliginosum,Cladodium,,Brid.,Q946113,1827,,"Bryol. Univ. 1: 841 1827",,,,,,,wfo-0001180577,8084329,,
+ee922320-8fcd-11eb-924d-9cd76263cbd0,species,zierii,Cladodium,,"(Dicks. ex Hedw.) Hampe","Q521759,Q64256,Q64025",1873,,"Fl. Hercyn. 353 1873",,,,ecf9dd6e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001180578,7647211,,

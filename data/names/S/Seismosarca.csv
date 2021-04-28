@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6496f88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Seismosarca,,,Cooke,,1889,,"Grevillea 18(no. 86): 25 (1889)",,,,a6496f88-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18536," "
-fc924600-9bab-11eb-a8a2-19ed5c03f8d3,species,alba,Seismosarca,,Lloyd,,,,"Mycol. Writ. 6(65): 1045 (1921)",,,,fc924600-9bab-11eb-a8a2-19ed5c03f8d3,,,,,256167," "
-a657f07c-9bac-11eb-a8a2-19ed5c03f8d3,variety,alba,Seismosarca,alba,Lloyd,,,,,,,,a657f07c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,429793," "
+a6496f88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Seismosarca,,,Cooke,Q2351239,1889,,"Grevillea 18(no. 86): 25 (1889)",,,,a6496f88-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18536," "
+fc924600-9bab-11eb-a8a2-19ed5c03f8d3,species,alba,Seismosarca,,Lloyd,Q4264539,,,"Mycol. Writ. 6(65): 1045 (1921)",,,,fc924600-9bab-11eb-a8a2-19ed5c03f8d3,,,,,256167," "
+a657f07c-9bac-11eb-a8a2-19ed5c03f8d3,variety,alba,Seismosarca,alba,Lloyd,Q4264539,,,,,,,a657f07c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,429793," "
 8ef44484-9bad-11eb-a8a2-19ed5c03f8d3,variety,minor,Seismosarca,alba,Rick,,,,,,,,8ef44484-9bad-11eb-a8a2-19ed5c03f8d3,,,,,353854," "
 0084b6c0-9bad-11eb-a8a2-19ed5c03f8d3,species,cartilaginea,Seismosarca,,"L.S. Olive",,,,,,,,0084b6c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,305733," "
-44ed1a56-9bac-11eb-a8a2-19ed5c03f8d3,species,hydrophora,Seismosarca,,Cooke,,1889,,"Grevillea 18(no. 86): 25 (1889)",,,,44ed1a56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182193," "
+44ed1a56-9bac-11eb-a8a2-19ed5c03f8d3,species,hydrophora,Seismosarca,,Cooke,Q2351239,1889,,"Grevillea 18(no. 86): 25 (1889)",,,,44ed1a56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182193," "
 3c855770-9bac-11eb-a8a2-19ed5c03f8d3,species,megaspora,Seismosarca,,anon.,,,,,,,,3c855770-9bac-11eb-a8a2-19ed5c03f8d3,,,,,356927," "
 2e0736f4-9bad-11eb-a8a2-19ed5c03f8d3,variety,gloeohyalina,Seismosarca,megaspora,Rick,,,,,,,,2e0736f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,350342," "
 086b4580-9bac-11eb-a8a2-19ed5c03f8d3,variety,megaspora,Seismosarca,megaspora,anon.,,,,,,,,086b4580-9bac-11eb-a8a2-19ed5c03f8d3,,,,,428021," "
-ee359084-9bac-11eb-a8a2-19ed5c03f8d3,species,stratosa,Seismosarca,,Viégas,,1945,,"Bragantia 5(4): 243 (1945)",,,,ee359084-9bac-11eb-a8a2-19ed5c03f8d3,,,,,290853," "
+ee359084-9bac-11eb-a8a2-19ed5c03f8d3,species,stratosa,Seismosarca,,Viégas,Q21611725,1945,,"Bragantia 5(4): 243 (1945)",,,,ee359084-9bac-11eb-a8a2-19ed5c03f8d3,,,,,290853," "
 ee35be88-9bac-11eb-a8a2-19ed5c03f8d3,species,tomentosa,Seismosarca,,Olive,,1947,,"Mycologia 39: 99 (1947)",,,,ee35be88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,290854," "
-164ff7c6-8fcd-11eb-924d-9cd76263cbd0,species,burkei,Sekanama,,"(Baker) Speta",,2001,,"Stapfia 75: 168 2001",,,,,,1020487-1,wfo-0000739135,2776688,,
-1651b700-8fcd-11eb-924d-9cd76263cbd0,species,delagoensis,Sekanama,,"(Baker) Speta",,2001,,"Stapfia 74: 168 2001",,,,,,1020488-1,wfo-0000739149,2776832,,
-164bf89c-8fcd-11eb-924d-9cd76263cbd0,species,sanguinea,Sekanama,,"(Schinz) Speta",,2001,,"Stapfia 75: 168 2001",,,,1c09fc52-8fcd-11eb-924d-9cd76263cbd0,,1020486-1,wfo-0000739105,2776691,,
+164ff7c6-8fcd-11eb-924d-9cd76263cbd0,species,burkei,Sekanama,,"(Baker) Speta","Q730330,Q86532",2001,,"Stapfia 75: 168 2001",,,,,,1020487-1,wfo-0000739135,2776688,,
+1651b700-8fcd-11eb-924d-9cd76263cbd0,species,delagoensis,Sekanama,,"(Baker) Speta","Q730330,Q86532",2001,,"Stapfia 74: 168 2001",,,,,,1020488-1,wfo-0000739149,2776832,,
+164bf89c-8fcd-11eb-924d-9cd76263cbd0,species,sanguinea,Sekanama,,"(Schinz) Speta","Q124491,Q86532",2001,,"Stapfia 75: 168 2001",,,,1c09fc52-8fcd-11eb-924d-9cd76263cbd0,,1020486-1,wfo-0000739105,2776691,,

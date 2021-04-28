@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9e8fbac2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cyptotrama,,,Singer,,1960,,"Lilloa 30: 375 (1960)",,,,9e8fbac2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17442," "
-30121442-9bac-11eb-a8a2-19ed5c03f8d3,species,asprata,Cyptotrama,,"(Berk.) Redhead & Ginns",,1980,,"Can. J. Bot. 58(6): 731 (1980)",,,,3cda6692-9bad-11eb-a8a2-19ed5c03f8d3,,,,,118606," "
-0ce50c58-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysopeplum,Cyptotrama,,"(Berk. & M.A. Curtis) Singer",,1973,,"Beih. Sydowia 7: 34 (1973)",,,,c880921c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,312515," "
-0cdfd724-9bad-11eb-a8a2-19ed5c03f8d3,species,costesii,Cyptotrama,,"(Speg.) Singer",,1973,,"Beih. Sydowia 7: 34 (1973)",,,,5cf5d462-9bac-11eb-a8a2-19ed5c03f8d3,,,,,312516," "
+30121442-9bac-11eb-a8a2-19ed5c03f8d3,species,asprata,Cyptotrama,,"(Berk.) Redhead & Ginns",Q662338,1980,,"Can. J. Bot. 58(6): 731 (1980)",,,,3cda6692-9bad-11eb-a8a2-19ed5c03f8d3,,,,,118606," "
+0ce50c58-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysopeplum,Cyptotrama,,"(Berk. & M.A. Curtis) Singer",Q662338,1973,,"Beih. Sydowia 7: 34 (1973)",,,,c880921c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,312515," "
+0cdfd724-9bad-11eb-a8a2-19ed5c03f8d3,species,costesii,Cyptotrama,,"(Speg.) Singer",Q648013,1973,,"Beih. Sydowia 7: 34 (1973)",,,,5cf5d462-9bac-11eb-a8a2-19ed5c03f8d3,,,,,312516," "
 0ce54286-9bad-11eb-a8a2-19ed5c03f8d3,species,dennisii,Cyptotrama,,Singer,,1973,,"Beih. Sydowia 7: 34 (1973)",,,,0ce54286-9bad-11eb-a8a2-19ed5c03f8d3,,,,,312517," "
 0ce579c2-9bad-11eb-a8a2-19ed5c03f8d3,species,depauperatum,Cyptotrama,,Singer,,1977,,"Nova Hedwigia 29(1-2): 43 (1977)",,,,0ce579c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,312518," "
 3012452a-9bac-11eb-a8a2-19ed5c03f8d3,species,deseynesiana,Cyptotrama,,"(Pegler) Redhead & Ginns",,1980,,"Can. J. Bot. 58(6): 737 (1980)",,,,272c34d8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,118607," "
@@ -15,5 +15,5 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 1b4330a4-9bad-11eb-a8a2-19ed5c03f8d3,species,platense,Cyptotrama,,Singer,,1969,,"Beih. Nova Hedwigia 29: 92 (1969)",,,,1b4330a4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329531," "
 4e4e6f18-9bad-11eb-a8a2-19ed5c03f8d3,species,songolarum,Cyptotrama,,Courtec.,,1995,,"African Study Monographs 16(1): 52 (1995)",,,,4e4e6f18-9bad-11eb-a8a2-19ed5c03f8d3,,,,,412924," "
 0ce62e58-9bad-11eb-a8a2-19ed5c03f8d3,species,verruculosum,Cyptotrama,,"(Singer) Singer",,1973,,"Beih. Sydowia 7: 34 (1973)",,,,08fdd660-9bad-11eb-a8a2-19ed5c03f8d3,,,,,312520," "
-db5ba976-8fcc-11eb-924d-9cd76263cbd0,species,erosum,Cyrbasium,,"Endl. ex Walp.",,1842,,"Repert. Bot. Syst. 1: 196 1842",,,,,,147516-1,wfo-0000634789,3873396,,
-db5bc49c-8fcc-11eb-924d-9cd76263cbd0,species,jamesii,Cyrbasium,,"Endl. ex Walp.",,1842,,"Repert. Bot. Syst. 1: 196 1842",,,,,,,wfo-0000634790,8035337,,
+db5ba976-8fcc-11eb-924d-9cd76263cbd0,species,erosum,Cyrbasium,,"Endl. ex Walp.","Q78605,Q77671",1842,,"Repert. Bot. Syst. 1: 196 1842",,,,,,147516-1,wfo-0000634789,3873396,,
+db5bc49c-8fcc-11eb-924d-9cd76263cbd0,species,jamesii,Cyrbasium,,"Endl. ex Walp.","Q78605,Q77671",1842,,"Repert. Bot. Syst. 1: 196 1842",,,,,,,wfo-0000634790,8035337,,

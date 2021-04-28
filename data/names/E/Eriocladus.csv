@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2cca3ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eriocladus,,,Lév.,,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 158 (1846)",,,,a2cca3ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17567,"Nom. rejic., Art. 56.1 "
-245d310e-9bac-11eb-a8a2-19ed5c03f8d3,species,acicularis,Eriocladus,,"(Lév.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,6c0322f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,469094," "
-90643bd6-9bac-11eb-a8a2-19ed5c03f8d3,species,brasiliensis,Eriocladus,,Lév.,,1846,,"Suppl. Lich., Paris 5: 108 (1846)",,,,90643bd6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200465," "
-05510104-9bad-11eb-a8a2-19ed5c03f8d3,species,compressus,Eriocladus,,"(Berk.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,,,,,,469095," "
-51f04692-9bac-11eb-a8a2-19ed5c03f8d3,species,fistulosus,Eriocladus,,"(Holmsk.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,,,,,,469096," "
-645d232c-9bac-11eb-a8a2-19ed5c03f8d3,species,funalis,Eriocladus,,"(Lév.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,ce2096cc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469097," "
-0e21a406-9bac-11eb-a8a2-19ed5c03f8d3,species,furcellatus,Eriocladus,,"(Fr.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,82f09bc0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469098," "
-fa2bdb6a-9bab-11eb-a8a2-19ed5c03f8d3,species,scoparius,Eriocladus,,"(Lév.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,73f373b4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,469099," "
-0e25496c-9bac-11eb-a8a2-19ed5c03f8d3,species,setulosus,Eriocladus,,"(Berk.) Lév.",,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 303 (1846)",,,,572d45f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469100," "
-25de74be-8fb5-11eb-924d-9cd76263cbd0,species,obovata,Eriocline,,Cass.,,1819,,1819,,,,,,,wfo-0000074476,3093577,,
+a2cca3ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eriocladus,,,Lév.,Q1375120,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 158 (1846)",,,,a2cca3ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17567,"Nom. rejic., Art. 56.1 "
+245d310e-9bac-11eb-a8a2-19ed5c03f8d3,species,acicularis,Eriocladus,,"(Lév.) Lév.",Q1375120,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,6c0322f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,469094," "
+90643bd6-9bac-11eb-a8a2-19ed5c03f8d3,species,brasiliensis,Eriocladus,,Lév.,Q1375120,1846,,"Suppl. Lich., Paris 5: 108 (1846)",,,,90643bd6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200465," "
+05510104-9bad-11eb-a8a2-19ed5c03f8d3,species,compressus,Eriocladus,,"(Berk.) Lév.","Q662338,Q1375120",1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,,,,,,469095," "
+51f04692-9bac-11eb-a8a2-19ed5c03f8d3,species,fistulosus,Eriocladus,,"(Holmsk.) Lév.",Q1375120,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,,,,,,469096," "
+645d232c-9bac-11eb-a8a2-19ed5c03f8d3,species,funalis,Eriocladus,,"(Lév.) Lév.",Q1375120,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,ce2096cc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469097," "
+0e21a406-9bac-11eb-a8a2-19ed5c03f8d3,species,furcellatus,Eriocladus,,"(Fr.) Lév.","Q15405,Q1375120",1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,82f09bc0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469098," "
+fa2bdb6a-9bab-11eb-a8a2-19ed5c03f8d3,species,scoparius,Eriocladus,,"(Lév.) Lév.",Q1375120,1846,,"Annls Sci. Nat., Bot., sér. 3 5: 159 (1846)",,,,73f373b4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,469099," "
+0e25496c-9bac-11eb-a8a2-19ed5c03f8d3,species,setulosus,Eriocladus,,"(Berk.) Lév.","Q662338,Q1375120",1846,,"Annls Sci. Nat., Bot., sér. 3 5: 303 (1846)",,,,572d45f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469100," "
+25de74be-8fb5-11eb-924d-9cd76263cbd0,species,obovata,Eriocline,,Cass.,Q958431,1819,,1819,,,,,,,wfo-0000074476,3093577,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df19f1da-8fd1-11eb-924d-9cd76263cbd0,genus,Allisoniella,,,E.A.Hodgs.,,1965,,"Trans. Roy. Soc. New Zealand, Bot. 3: 80. 1965.",,,,,,,wfo-4000001258,2688982,,
-fdf5a530-8fcd-11eb-924d-9cd76263cbd0,species,nigra,Allisoniella,,"(Rodway) R.M.Schust.",,1972,,"Nova Hedwigia 22: 137 1972",,,,,,,wfo-0001212576,2688983,,
-fa1eca7c-8fcd-11eb-924d-9cd76263cbd0,species,obcordata,Allisoniella,,E.A.Hodgs.,,1965,,"Trans. Roy. Soc. New Zealand, Bot. 3: 80 1965",,,,,,,wfo-0001204314,8357151,,
-fb6b3352-8fcd-11eb-924d-9cd76263cbd0,species,recurva,Allisoniella,,R.M.Schust.,,1972,,"Nova Hedwigia 12: 146 1972",,,,,,,wfo-0001206896,8034029,,
-fbb044ba-8fcd-11eb-924d-9cd76263cbd0,species,subbipartita,Allisoniella,,"(C.Massal.) R.M.Schust. & J.J.Engel",,1972,,"Nova Hedwigia 22: 147 1972",,,,fbb02638-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001207501,8050550,,
-a1871e2e-8fcc-11eb-924d-9cd76263cbd0,form,smithii,allisonii,mallisonii,"(Pfeiff.) P.V.Heath",,1989,,"Taxon 38: 281 1989",,Q28956737,,c55f618a-8fcc-11eb-924d-9cd76263cbd0,,955357-1,wfo-0000540928,,,
+df19f1da-8fd1-11eb-924d-9cd76263cbd0,genus,Allisoniella,,,E.A.Hodgs.,Q5362090,1965,,"Trans. Roy. Soc. New Zealand, Bot. 3: 80. 1965.",,,,,,,wfo-4000001258,2688982,,
+fdf5a530-8fcd-11eb-924d-9cd76263cbd0,species,nigra,Allisoniella,,"(Rodway) R.M.Schust.","Q4396077,Q6113453",1972,,"Nova Hedwigia 22: 137 1972",,,,,,,wfo-0001212576,2688983,,
+fa1eca7c-8fcd-11eb-924d-9cd76263cbd0,species,obcordata,Allisoniella,,E.A.Hodgs.,Q5362090,1965,,"Trans. Roy. Soc. New Zealand, Bot. 3: 80 1965",,,,,,,wfo-0001204314,8357151,,
+fb6b3352-8fcd-11eb-924d-9cd76263cbd0,species,recurva,Allisoniella,,R.M.Schust.,Q6113453,1972,,"Nova Hedwigia 12: 146 1972",,,,,,,wfo-0001206896,8034029,,
+fbb044ba-8fcd-11eb-924d-9cd76263cbd0,species,subbipartita,Allisoniella,,"(C.Massal.) R.M.Schust. & J.J.Engel","Q16030399,Q6113453,Q18719714",1972,,"Nova Hedwigia 22: 147 1972",,,,fbb02638-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001207501,8050550,,
+a1871e2e-8fcc-11eb-924d-9cd76263cbd0,form,smithii,allisonii,mallisonii,"(Pfeiff.) P.V.Heath","Q63727,Q6067280",1989,,"Taxon 38: 281 1989",,Q28956737,,c55f618a-8fcc-11eb-924d-9cd76263cbd0,,955357-1,wfo-0000540928,,,

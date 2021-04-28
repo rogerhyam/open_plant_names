@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e859f902-8fd1-11eb-924d-9cd76263cbd0,genus,Pheidonocarpa,,,L.E.Skog,,1976,,"Smithsonian Contr. Bot. 29: 40. 1976.",,Q55798694,,,,17163-1,wfo-4000029169,6365161,,
-bfebab28-8fd1-11eb-924d-9cd76263cbd0,species,corymbosa,Pheidonocarpa,,"(Sw.) L.E.Skog",,1976,,"Smithsonian Contr. Bot. 29: 40, 42 1976",,Q55798694,,,,192667-2,wfo-0001253904,6365164,,
-bfec3020-8fd1-11eb-924d-9cd76263cbd0,subspecies,cubensis,Pheidonocarpa,corymbosa,"(C.V.Morton) L.E.Skog",,1976,,"Smithsonian Contr. Bot. 29: 43 1976",,Q55798694,,bfebfad8-8fd1-11eb-924d-9cd76263cbd0,,192668-2,wfo-0001253909,3819035,,
-aeddefe8-8fcd-11eb-924d-9cd76263cbd0,species,cubensis,Pheidonocarpa,,"(C.V.Morton) Borhidi",,,,,,,,bfebfad8-8fd1-11eb-924d-9cd76263cbd0,,1044116-2,wfo-0001041160,3819005,,
+e859f902-8fd1-11eb-924d-9cd76263cbd0,genus,Pheidonocarpa,,,L.E.Skog,Q2490099,1976,,"Smithsonian Contr. Bot. 29: 40. 1976.",,Q55798694,,,,17163-1,wfo-4000029169,6365161,,
+bfebab28-8fd1-11eb-924d-9cd76263cbd0,species,corymbosa,Pheidonocarpa,,"(Sw.) L.E.Skog","Q632088,Q2490099",1976,,"Smithsonian Contr. Bot. 29: 40, 42 1976",,Q55798694,,,,192667-2,wfo-0001253904,6365164,,
+bfec3020-8fd1-11eb-924d-9cd76263cbd0,subspecies,cubensis,Pheidonocarpa,corymbosa,"(C.V.Morton) L.E.Skog","Q1127029,Q2490099",1976,,"Smithsonian Contr. Bot. 29: 43 1976",,Q55798694,,bfebfad8-8fd1-11eb-924d-9cd76263cbd0,,192668-2,wfo-0001253909,3819035,,
+aeddefe8-8fcd-11eb-924d-9cd76263cbd0,species,cubensis,Pheidonocarpa,,"(C.V.Morton) Borhidi","Q1127029,Q548434",,,,,,,bfebfad8-8fd1-11eb-924d-9cd76263cbd0,,1044116-2,wfo-0001041160,3819005,,

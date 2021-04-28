@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4e9fbda-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pterulicium,,,Corner,,1950,,"Ann. Bot. Mem. 1: 689, 699 (1950)",,,,a4e9fbda-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18423," "
-e4862dc8-9bac-11eb-a8a2-19ed5c03f8d3,species,xylogena,Pterulicium,,"(Berk. & Broome) Corner",,,,,,,,65f727b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,278822," Pterulicium xylogenum"
-ff5b21d0-9bac-11eb-a8a2-19ed5c03f8d3,species,xylogenum,Pterulicium,,"(Berk. & Broome) Corner",,1950,,"Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 538 (1950)",,,,65f727b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,304549," xylogena"
+a4e9fbda-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pterulicium,,,Corner,Q4233315,1950,,"Ann. Bot. Mem. 1: 689, 699 (1950)",,,,a4e9fbda-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18423," "
+e4862dc8-9bac-11eb-a8a2-19ed5c03f8d3,species,xylogena,Pterulicium,,"(Berk. & Broome) Corner","Q662338,Q1932460,Q4233315",,,,,,,65f727b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,278822," Pterulicium xylogenum"
+ff5b21d0-9bac-11eb-a8a2-19ed5c03f8d3,species,xylogenum,Pterulicium,,"(Berk. & Broome) Corner","Q662338,Q1932460,Q4233315",1950,,"Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 538 (1950)",,,,65f727b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,304549," xylogena"

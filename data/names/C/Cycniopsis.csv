@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2591da8-8fd1-11eb-924d-9cd76263cbd0,genus,Cycniopsis,,,Engl.,,,,,,,,,,37559-1,wfo-4000010299,7331934,,
-d9cc5dbc-8fcc-11eb-924d-9cd76263cbd0,species,humifusa,Cycniopsis,,"(Forssk.) Engl.",,1905,,"Bot. Jahrb. Syst. 36: 233 1905",,,,,,801752-1,wfo-0000632155,3727520,,
-d9cc7b3a-8fcc-11eb-924d-9cd76263cbd0,variety,parviflora,Cycniopsis,humifusa,Pax,,1907,,"Bot. Jahrb. Syst. 39: 650 1907",,,,,,,wfo-0000632156,8184040,,
-d9ccb0be-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Cycniopsis,,"(Hochst. ex A.Rich.) A.Backlund, Asfaw & E.Langstrom",,1993,,"Nordic J. Bot. 13: 193 1993",,,,48c8ab44-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000632158,3727508,,
-d9ccccde-8fcc-11eb-924d-9cd76263cbd0,species,minima,Cycniopsis,,Engl.,,1905,,"Bot. Jahrb. Syst. 36: 233 1905",,,,,,801753-1,wfo-0000632159,3727501,,
-d9cce804-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolia,Cycniopsis,,Skan,,1906,,"Fl. Trop. Afr. 4(2): 416 1906",,,,,,801754-1,wfo-0000632160,3727493,,
+e2591da8-8fd1-11eb-924d-9cd76263cbd0,genus,Cycniopsis,,,Engl.,Q60718,,,,,,,,,37559-1,wfo-4000010299,7331934,,
+d9cc5dbc-8fcc-11eb-924d-9cd76263cbd0,species,humifusa,Cycniopsis,,"(Forssk.) Engl.","Q27684,Q60718",1905,,"Bot. Jahrb. Syst. 36: 233 1905",,,,,,801752-1,wfo-0000632155,3727520,,
+d9cc7b3a-8fcc-11eb-924d-9cd76263cbd0,variety,parviflora,Cycniopsis,humifusa,Pax,Q64244,1907,,"Bot. Jahrb. Syst. 39: 650 1907",,,,,,,wfo-0000632156,8184040,,
+d9ccb0be-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Cycniopsis,,"(Hochst. ex A.Rich.) A.Backlund, Asfaw & E.Langstrom","Q64983,Q340247",1993,,"Nordic J. Bot. 13: 193 1993",,,,48c8ab44-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000632158,3727508,,
+d9ccccde-8fcc-11eb-924d-9cd76263cbd0,species,minima,Cycniopsis,,Engl.,Q60718,1905,,"Bot. Jahrb. Syst. 36: 233 1905",,,,,,801753-1,wfo-0000632159,3727501,,
+d9cce804-8fcc-11eb-924d-9cd76263cbd0,species,obtusifolia,Cycniopsis,,Skan,Q2884082,1906,,"Fl. Trop. Afr. 4(2): 416 1906",,,,,,801754-1,wfo-0000632160,3727493,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4674ebc-8fd1-11eb-924d-9cd76263cbd0,genus,Haplophragma,,,Dop,,1926,,"Bull. Soc. Bot. France 72: 889–890. 1926.",,,,,,,wfo-4000016883,7298399,,
-291f4c4e-8fcd-11eb-924d-9cd76263cbd0,species,adenophyllum,Haplophragma,,"(Wall. ex G.Don) Dop",,1926,,"Bull. Soc. Bot. France 72: 890 1926",,Q55808749,,,,109710-1,wfo-0000778618,8549147,,
-291f6ad0-8fcd-11eb-924d-9cd76263cbd0,species,macrolobum,Haplophragma,,"(Miq.) Steenis",,,,"Rec. Auckland Inst. & Mus. 24: 1002 1927",,Q100726977,,,,109711-1,wfo-0000778619,4091801,,
-aab4b66e-8fd1-11eb-924d-9cd76263cbd0,species,rodriguezii,Haplophragma,,A.H.Gentry,,,,,,,,,,,wfo-0001214896,8246628,,
-291f8b1e-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Haplophragma,,Dop,,1930,,"Bull. Mus. Natl. Hist. Nat. II, 2: 154 1930",,,,,,109712-1,wfo-0000778620,4091794,,
-291fb012-8fcd-11eb-924d-9cd76263cbd0,species,sulfureum,Haplophragma,,"(Kurz) Pichon",,1945,,"Bull. Soc. Bot. France 92: 227 1945 publ. 1946",,Q55757503,,29210f3e-8fcd-11eb-924d-9cd76263cbd0,,109713-1,wfo-0000778621,4091783,,
+e4674ebc-8fd1-11eb-924d-9cd76263cbd0,genus,Haplophragma,,,Dop,Q6067226,1926,,"Bull. Soc. Bot. France 72: 889–890. 1926.",,,,,,,wfo-4000016883,7298399,,
+291f4c4e-8fcd-11eb-924d-9cd76263cbd0,species,adenophyllum,Haplophragma,,"(Wall. ex G.Don) Dop","Q730310,Q1381245,Q6067226",1926,,"Bull. Soc. Bot. France 72: 890 1926",,Q55808749,,,,109710-1,wfo-0000778618,8549147,,
+291f6ad0-8fcd-11eb-924d-9cd76263cbd0,species,macrolobum,Haplophragma,,"(Miq.) Steenis","Q76742,Q2941727",,,"Rec. Auckland Inst. & Mus. 24: 1002 1927",,Q100726977,,,,109711-1,wfo-0000778619,4091801,,
+aab4b66e-8fd1-11eb-924d-9cd76263cbd0,species,rodriguezii,Haplophragma,,A.H.Gentry,Q449930,,,,,,,,,,wfo-0001214896,8246628,,
+291f8b1e-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Haplophragma,,Dop,Q6067226,1930,,"Bull. Mus. Natl. Hist. Nat. II, 2: 154 1930",,,,,,109712-1,wfo-0000778620,4091794,,
+291fb012-8fcd-11eb-924d-9cd76263cbd0,species,sulfureum,Haplophragma,,"(Kurz) Pichon","Q2587569,Q2338866",1945,,"Bull. Soc. Bot. France 92: 227 1945 publ. 1946",,Q55757503,,29210f3e-8fcd-11eb-924d-9cd76263cbd0,,109713-1,wfo-0000778621,4091783,,

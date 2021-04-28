@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a007b80a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ferraroa,,,"Lücking, Sérus. & Vezda",,2005,,"Lichenologist 37(2): 164 (2005)",,,,a007b80a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28927," "
-ad172c56-9bad-11eb-a8a2-19ed5c03f8d3,species,hyalina,Ferraroa,,"(Lücking) Lücking, Sérus. & Vezda",,2005,,"Lichenologist 37(2): 164 (2005)",,,,54f80022-9bad-11eb-a8a2-19ed5c03f8d3,,,,,369389," "
-3fc14df0-8fc1-11eb-924d-9cd76263cbd0,species,praecox,Ferreirea,,"(Harms) Malme",,,,,,,,,,1173431-2,wfo-0000170875,2947740,,
+a007b80a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ferraroa,,,"Lücking, Sérus. & Vezda",Q21339085,2005,,"Lichenologist 37(2): 164 (2005)",,,,a007b80a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28927," "
+ad172c56-9bad-11eb-a8a2-19ed5c03f8d3,species,hyalina,Ferraroa,,"(Lücking) Lücking, Sérus. & Vezda",Q21339085,2005,,"Lichenologist 37(2): 164 (2005)",,,,54f80022-9bad-11eb-a8a2-19ed5c03f8d3,,,,,369389," "
+3fc14df0-8fc1-11eb-924d-9cd76263cbd0,species,praecox,Ferreirea,,"(Harms) Malme","Q62415,Q429017",,,,,,,,,1173431-2,wfo-0000170875,2947740,,
 cface0b2-8fc3-11eb-924d-9cd76263cbd0,species,spectabilis,Ferreirea,,Allemao,,,,,,,,,,,wfo-0000184745,2967001,,
-b2b19d18-8fcd-11eb-924d-9cd76263cbd0,form,fruticosa,Ferreirea,spectabilis,"Chodat & Hassl.",,1904,,"Bull. Herb. Boissier, sér. 2, 4: 834 1904",,,,,,103718-2,wfo-0001049859,3912320,,
-cfd07a36-8fc3-11eb-924d-9cd76263cbd0,variety,paraguariensis,Ferreirea,spectabilis,Hassl.,,,,,,,,,,,wfo-0000184748,2967005,,
-f8e134d4-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Ferreola,,"(Rottb.) Roxb.",,1795,,"Pl. Coromandel 1: 35 1795",,,,7b3c0ffe-8fcc-11eb-924d-9cd76263cbd0,,323346-1,wfo-0000686412,5662630,,
-f8e1513a-8fcc-11eb-924d-9cd76263cbd0,species,ebenus,Ferreola,,Stokes,,1812,,"Bot. Mat. Med. 4: 556 1812",,,,,,323347-1,wfo-0000686413,5662629,,
-f8e16e04-8fcc-11eb-924d-9cd76263cbd0,species,ellipticifolia,Ferreola,,Stokes,,1812,,"Bot. Mat. Med. 4: 556 1812",,,,,,323348-1,wfo-0000686414,5662628,,
-f8e1897a-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Ferreola,,"Schumach. & Thonn.",,1827,,"Beskr. Guin. Pl. 448 1827",,,,,,323349-1,wfo-0000686415,5662627,,
+b2b19d18-8fcd-11eb-924d-9cd76263cbd0,form,fruticosa,Ferreirea,spectabilis,"Chodat & Hassl.","Q2613173,Q116720",1904,,"Bull. Herb. Boissier, sér. 2, 4: 834 1904",,,,,,103718-2,wfo-0001049859,3912320,,
+cfd07a36-8fc3-11eb-924d-9cd76263cbd0,variety,paraguariensis,Ferreirea,spectabilis,Hassl.,Q116720,,,,,,,,,,wfo-0000184748,2967005,,
+f8e134d4-8fcc-11eb-924d-9cd76263cbd0,species,buxifolia,Ferreola,,"(Rottb.) Roxb.","Q2615816,Q748967",1795,,"Pl. Coromandel 1: 35 1795",,,,7b3c0ffe-8fcc-11eb-924d-9cd76263cbd0,,323346-1,wfo-0000686412,5662630,,
+f8e1513a-8fcc-11eb-924d-9cd76263cbd0,species,ebenus,Ferreola,,Stokes,Q433405,1812,,"Bot. Mat. Med. 4: 556 1812",,,,,,323347-1,wfo-0000686413,5662629,,
+f8e16e04-8fcc-11eb-924d-9cd76263cbd0,species,ellipticifolia,Ferreola,,Stokes,Q433405,1812,,"Bot. Mat. Med. 4: 556 1812",,,,,,323348-1,wfo-0000686414,5662628,,
+f8e1897a-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Ferreola,,"Schumach. & Thonn.","Q66153,Q1369447",1827,,"Beskr. Guin. Pl. 448 1827",,,,,,323349-1,wfo-0000686415,5662627,,

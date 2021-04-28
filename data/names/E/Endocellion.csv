@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e34dfdfa-8fd1-11eb-924d-9cd76263cbd0,genus,Endocellion,,,"Turcz. ex Herder",,,,,,,,,,8784-1,wfo-4000013392,3130926,,
-963e625e-8fb6-11eb-924d-9cd76263cbd0,species,boreale,Endocellion,,"Turcz. ex Herder",,1865,,"375 1865",,,,,,203183-1,wfo-0000091025,4223012,,
-46a50cd8-8fb2-11eb-924d-9cd76263cbd0,species,glaciale,Endocellion,,"(Ledeb.) Toman",,1972,,"394 1972",,Q54641923,,,,203185-1,wfo-0000018601,,,
-4de51db4-8fb5-11eb-924d-9cd76263cbd0,species,glacialis,Endocellion,,"(Ledeb.) Á.Löve & D.Löve",,1976,,"519 1976",,,,b7626e90-8fba-11eb-924d-9cd76263cbd0,,90997-2,wfo-0000076441,4222998,,
-83dad37e-8fb9-11eb-924d-9cd76263cbd0,species,gmelinii,Endocellion,,"(Turcz. ex DC.) Á.Löve & D.Löve",,1976,,"519 1976",,,,6555fe06-8fb4-11eb-924d-9cd76263cbd0,,90998-2,wfo-0000119034,8019252,,
-fd54f02a-8fb1-11eb-924d-9cd76263cbd0,species,sibiricum,Endocellion,,"(J.F.Gmel.) Toman",,1972,,"394 1972",,Q54641923,,,,203188-1,wfo-0000000183,3088280,,
+e34dfdfa-8fd1-11eb-924d-9cd76263cbd0,genus,Endocellion,,,"Turcz. ex Herder","Q2640364,Q1348727",,,,,,,,,8784-1,wfo-4000013392,3130926,,
+963e625e-8fb6-11eb-924d-9cd76263cbd0,species,boreale,Endocellion,,"Turcz. ex Herder","Q2640364,Q1348727",1865,,"375 1865",,,,,,203183-1,wfo-0000091025,4223012,,
+46a50cd8-8fb2-11eb-924d-9cd76263cbd0,species,glaciale,Endocellion,,"(Ledeb.) Toman",Q64544,1972,,"394 1972",,Q54641923,,,,203185-1,wfo-0000018601,,,
+4de51db4-8fb5-11eb-924d-9cd76263cbd0,species,glacialis,Endocellion,,"(Ledeb.) Á.Löve & D.Löve","Q64544,Q2464202,Q4272889",1976,,"519 1976",,,,b7626e90-8fba-11eb-924d-9cd76263cbd0,,90997-2,wfo-0000076441,4222998,,
+83dad37e-8fb9-11eb-924d-9cd76263cbd0,species,gmelinii,Endocellion,,"(Turcz. ex DC.) Á.Löve & D.Löve","Q2640364,Q123057,Q2464202,Q4272889",1976,,"519 1976",,,,6555fe06-8fb4-11eb-924d-9cd76263cbd0,,90998-2,wfo-0000119034,8019252,,
+fd54f02a-8fb1-11eb-924d-9cd76263cbd0,species,sibiricum,Endocellion,,"(J.F.Gmel.) Toman",Q57230,1972,,"394 1972",,Q54641923,,,,203188-1,wfo-0000000183,3088280,,

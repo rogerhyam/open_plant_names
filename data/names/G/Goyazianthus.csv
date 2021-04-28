@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4285a36-8fd1-11eb-924d-9cd76263cbd0,genus,Goyazianthus,,,"R.M.King & H.Rob.",,,,,,,,,,298322-2,wfo-4000016102,3094727,,
-7a5d61aa-8fb3-11eb-924d-9cd76263cbd0,species,tetrastichus,Goyazianthus,,B.L.Rob.,,1977,,"Phytologia 37: 462. 1977",,,,,,,wfo-0000049073,8318260,,
-bfe62ad4-8fb5-11eb-924d-9cd76263cbd0,species,tetrastichus,Goyazianthus,,"(B.L.Rob.) R.M.King & H.Rob.",,1977,,"462 1977",,,,,,112912-2,wfo-0000081714,,,
+e4285a36-8fd1-11eb-924d-9cd76263cbd0,genus,Goyazianthus,,,"R.M.King & H.Rob.","Q2854893,Q2100759",,,,,,,,,298322-2,wfo-4000016102,3094727,,
+7a5d61aa-8fb3-11eb-924d-9cd76263cbd0,species,tetrastichus,Goyazianthus,,B.L.Rob.,Q817600,1977,,"Phytologia 37: 462. 1977",,,,,,,wfo-0000049073,8318260,,
+bfe62ad4-8fb5-11eb-924d-9cd76263cbd0,species,tetrastichus,Goyazianthus,,"(B.L.Rob.) R.M.King & H.Rob.","Q817600,Q2854893,Q2100759",1977,,"462 1977",,,,,,112912-2,wfo-0000081714,,,

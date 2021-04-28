@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3d25bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Froesiodendron,,,R.E.Fr.,,1956,,"Ark. Bot., n.s. 3: 439. 1956.",,,,,,295875-2,wfo-4000015078,3156840,,
-fc5d4918-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Froesiodendron,,R.E.Fr.,,1956,,"Ark. Bot. a.s., 3: 439 1956",,,,,,106125-2,wfo-0000692618,3156841,,
-fc5d64e8-8fcc-11eb-924d-9cd76263cbd0,variety,longicuspe,Froesiodendron,amazonicum,R.E.Fr.,,1956,,"Ark. Bot. a.s., 3: 600 1956",,,,,,302412-2,wfo-0000692619,3648872,,
-fc5d8068-8fcc-11eb-924d-9cd76263cbd0,species,longicuspe,Froesiodendron,,"(R.E.Fr.) N.A.Murray",,1995,,"Brittonia 47: 272 1995",,Q54783775,,d62e044e-8fcc-11eb-924d-9cd76263cbd0,,985069-1,wfo-0000692620,3156842,,
-fc5d9ab2-8fcc-11eb-924d-9cd76263cbd0,species,surinamense,Froesiodendron,,"(R.E.Fr.) R.E.Fr.",,1956,,"Ark. Bot. a.s., 3: 442 1956",,,,bf545e9e-8fcc-11eb-924d-9cd76263cbd0,,73144-1,wfo-0000692621,3158647,,
-fc5db6be-8fcc-11eb-924d-9cd76263cbd0,species,urceocalyx,Froesiodendron,,N.A.Murray,,1995,,"Brittonia 47: 273 1995",,Q54783775,,,,304672-2,wfo-0000692622,3156844,,
+e3d25bd6-8fd1-11eb-924d-9cd76263cbd0,genus,Froesiodendron,,,R.E.Fr.,Q15414,1956,,"Ark. Bot., n.s. 3: 439. 1956.",,,,,,295875-2,wfo-4000015078,3156840,,
+fc5d4918-8fcc-11eb-924d-9cd76263cbd0,species,amazonicum,Froesiodendron,,R.E.Fr.,Q15414,1956,,"Ark. Bot. a.s., 3: 439 1956",,,,,,106125-2,wfo-0000692618,3156841,,
+fc5d64e8-8fcc-11eb-924d-9cd76263cbd0,variety,longicuspe,Froesiodendron,amazonicum,R.E.Fr.,Q15414,1956,,"Ark. Bot. a.s., 3: 600 1956",,,,,,302412-2,wfo-0000692619,3648872,,
+fc5d8068-8fcc-11eb-924d-9cd76263cbd0,species,longicuspe,Froesiodendron,,"(R.E.Fr.) N.A.Murray","Q15414,Q6037678",1995,,"Brittonia 47: 272 1995",,Q54783775,,d62e044e-8fcc-11eb-924d-9cd76263cbd0,,985069-1,wfo-0000692620,3156842,,
+fc5d9ab2-8fcc-11eb-924d-9cd76263cbd0,species,surinamense,Froesiodendron,,"(R.E.Fr.) R.E.Fr.",Q15414,1956,,"Ark. Bot. a.s., 3: 442 1956",,,,bf545e9e-8fcc-11eb-924d-9cd76263cbd0,,73144-1,wfo-0000692621,3158647,,
+fc5db6be-8fcc-11eb-924d-9cd76263cbd0,species,urceocalyx,Froesiodendron,,N.A.Murray,Q6037678,1995,,"Brittonia 47: 273 1995",,Q54783775,,,,304672-2,wfo-0000692622,3156844,,

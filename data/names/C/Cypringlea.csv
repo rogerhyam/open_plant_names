@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2670a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cypringlea,,,M.T.Strong,,2003,,"Novon 13(1): 123–132, f. 1–6. 2003. (25 Mar 2003)",,Q55775530,,,,326724-2,wfo-4000010479,2709419,,
-3c390dd4-8fcc-11eb-924d-9cd76263cbd0,species,analecta,Cypringlea,,"(Beetle) M.T.Strong",,2003,,"Novon 13: 125 2003",,Q55775530,,9d54731a-8fcc-11eb-924d-9cd76263cbd0,,20011929-1,wfo-0000385239,2709424,,
-3c3a8ac4-8fcc-11eb-924d-9cd76263cbd0,species,coahuilensis,Cypringlea,,"(Svenson) M.T.Strong",,2003,,"Novon 13: 129 2003",,Q55775530,,9ee001d6-8fcc-11eb-924d-9cd76263cbd0,,20011930-1,wfo-0000385248,2709420,,
-44531ebe-8fcd-11eb-924d-9cd76263cbd0,species,evadens,Cypringlea,,"(C.D.Adams) Reznicek & S.González",,2008,,"Acta Bot. Mex. 83: 21 2008",,Q55994243,,9d55b27a-8fcc-11eb-924d-9cd76263cbd0,,60447735-2,wfo-0000837263,2709422,,
+e2670a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cypringlea,,,M.T.Strong,Q21516151,2003,,"Novon 13(1): 123–132, f. 1–6. 2003. (25 Mar 2003)",,Q55775530,,,,326724-2,wfo-4000010479,2709419,,
+3c390dd4-8fcc-11eb-924d-9cd76263cbd0,species,analecta,Cypringlea,,"(Beetle) M.T.Strong","Q4706055,Q21516151",2003,,"Novon 13: 125 2003",,Q55775530,,9d54731a-8fcc-11eb-924d-9cd76263cbd0,,20011929-1,wfo-0000385239,2709424,,
+3c3a8ac4-8fcc-11eb-924d-9cd76263cbd0,species,coahuilensis,Cypringlea,,"(Svenson) M.T.Strong","Q13423965,Q21516151",2003,,"Novon 13: 129 2003",,Q55775530,,9ee001d6-8fcc-11eb-924d-9cd76263cbd0,,20011930-1,wfo-0000385248,2709420,,
+44531ebe-8fcd-11eb-924d-9cd76263cbd0,species,evadens,Cypringlea,,"(C.D.Adams) Reznicek & S.González","Q4057357,Q21607150,Q10885343",2008,,"Acta Bot. Mex. 83: 21 2008",,Q55994243,,9d55b27a-8fcc-11eb-924d-9cd76263cbd0,,60447735-2,wfo-0000837263,2709422,,

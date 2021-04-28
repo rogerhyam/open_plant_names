@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfb62ac8-8fd1-11eb-924d-9cd76263cbd0,genus,Arequipiopsis,,,"Kreuz. & Buining",,1941,,"Repert. Spec. Nov. Regni Veg. 50: 20, 198. 1941.",,,,,,,wfo-4000002964,7283184,,
-a52b771e-8fcc-11eb-924d-9cd76263cbd0,species,hempeliana,Arequipiopsis,,"(Gürke) Kreuz. & Buining",,1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,eb23aa70-8fcc-11eb-924d-9cd76263cbd0,,18773-2,wfo-0000546916,3957262,,
-a52b960e-8fcc-11eb-924d-9cd76263cbd0,species,rettigii,Arequipiopsis,,"(Quehl) Kreuz. & Buining",,1941,,"Repert. Spec. Nov. Regni Veg. 50: 188 1941",,Q55754623,,ea677f1c-8fcc-11eb-924d-9cd76263cbd0,,18774-2,wfo-0000546917,3954552,,
-a52bb2e2-8fcc-11eb-924d-9cd76263cbd0,species,soehrensii,Arequipiopsis,,Kreuz.,,1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,,,18775-2,wfo-0000546918,3954539,,
-a52bd484-8fcc-11eb-924d-9cd76263cbd0,species,weingartiana,Arequipiopsis,,"(Backeb.) Kreuz. & Buining",,1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,,,18776-2,wfo-0000546919,3954527,,
+dfb62ac8-8fd1-11eb-924d-9cd76263cbd0,genus,Arequipiopsis,,,"Kreuz. & Buining","Q4241544,Q241018",1941,,"Repert. Spec. Nov. Regni Veg. 50: 20, 198. 1941.",,,,,,,wfo-4000002964,7283184,,
+a52b771e-8fcc-11eb-924d-9cd76263cbd0,species,hempeliana,Arequipiopsis,,"(Gürke) Kreuz. & Buining","Q71382,Q4241544,Q241018",1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,eb23aa70-8fcc-11eb-924d-9cd76263cbd0,,18773-2,wfo-0000546916,3957262,,
+a52b960e-8fcc-11eb-924d-9cd76263cbd0,species,rettigii,Arequipiopsis,,"(Quehl) Kreuz. & Buining","Q965166,Q4241544,Q241018",1941,,"Repert. Spec. Nov. Regni Veg. 50: 188 1941",,Q55754623,,ea677f1c-8fcc-11eb-924d-9cd76263cbd0,,18774-2,wfo-0000546917,3954552,,
+a52bb2e2-8fcc-11eb-924d-9cd76263cbd0,species,soehrensii,Arequipiopsis,,Kreuz.,Q4241544,1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,,,18775-2,wfo-0000546918,3954539,,
+a52bd484-8fcc-11eb-924d-9cd76263cbd0,species,weingartiana,Arequipiopsis,,"(Backeb.) Kreuz. & Buining","Q61900,Q4241544,Q241018",1941,,"Repert. Spec. Nov. Regni Veg. 50: 199 1941",,Q55754623,,,,18776-2,wfo-0000546919,3954527,,

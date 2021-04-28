@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a2ad57d6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diacanthodes,,,Singer,,1945,,"Lloydia 8: 141 (1945)",,,,a2ad57d6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17497," "
-43315880-9bac-11eb-a8a2-19ed5c03f8d3,species,fluminensis,Diacanthodes,,Corner,,1989,,"Beih. Nova Hedwigia 96: 24 (1989)",,,,43315880-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136482," "
-4331a696-9bac-11eb-a8a2-19ed5c03f8d3,species,griseus,Diacanthodes,,Corner,,1989,,"Beih. Nova Hedwigia 96: 25 (1989)",,,,4331a696-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136483," "
-b0a17ec2-9bac-11eb-a8a2-19ed5c03f8d3,variety,griseus,Diacanthodes,griseus,Corner,,1989,,"Beih. Nova Hedwigia 96: 25 (1989)",,,,b0a17ec2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,419676," "
-4350fd5c-9bac-11eb-a8a2-19ed5c03f8d3,variety,subglaber,Diacanthodes,griseus,Corner,,1989,,"Beih. Nova Hedwigia 96: 26 (1989)",,,,4350fd5c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136596," "
-1f68bb9a-9bad-11eb-a8a2-19ed5c03f8d3,form,novo-guineensis,Diacanthodes,novo-guineensis,"(Henn.) O. Fidalgo",,,,,,,,1f68bb9a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,334003," Diacanthodes novoguineensis f. novoguineensis"
-eff092bc-9bab-11eb-a8a2-19ed5c03f8d3,form,subabortivus,Diacanthodes,novo-guineensis,"(Murrill) O. Fidalgo",,,,,,,,e4c8163e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,494316," Diacanthodes novoguineensis f. subabortivus"
-9bede30c-9bad-11eb-a8a2-19ed5c03f8d3,species,novoguineensis,Diacanthodes,,"(Henn.) O. Fidalgo",,1962,,"Rickia 1: 149 (1962)",,,,b12f7852-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329835," "
-61daab82-9bad-11eb-a8a2-19ed5c03f8d3,form,novoguineensis,Diacanthodes,novoguineensis,"(Henn.) O. Fidalgo",,1962,,"Rickia 1: 149 (1962)",,,,61daab82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,427555," "
-2d2b59b8-9bad-11eb-a8a2-19ed5c03f8d3,form,subabortivus,Diacanthodes,novoguineensis,"(Murrill) O. Fidalgo",,1962,,"Rickia 1: 159, 152 (1962)",,,,e4c8163e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,349299," "
+43315880-9bac-11eb-a8a2-19ed5c03f8d3,species,fluminensis,Diacanthodes,,Corner,Q4233315,1989,,"Beih. Nova Hedwigia 96: 24 (1989)",,,,43315880-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136482," "
+4331a696-9bac-11eb-a8a2-19ed5c03f8d3,species,griseus,Diacanthodes,,Corner,Q4233315,1989,,"Beih. Nova Hedwigia 96: 25 (1989)",,,,4331a696-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136483," "
+b0a17ec2-9bac-11eb-a8a2-19ed5c03f8d3,variety,griseus,Diacanthodes,griseus,Corner,Q4233315,1989,,"Beih. Nova Hedwigia 96: 25 (1989)",,,,b0a17ec2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,419676," "
+4350fd5c-9bac-11eb-a8a2-19ed5c03f8d3,variety,subglaber,Diacanthodes,griseus,Corner,Q4233315,1989,,"Beih. Nova Hedwigia 96: 26 (1989)",,,,4350fd5c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136596," "
+1f68bb9a-9bad-11eb-a8a2-19ed5c03f8d3,form,novo-guineensis,Diacanthodes,novo-guineensis,"(Henn.) O. Fidalgo",Q4497246,,,,,,,1f68bb9a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,334003," Diacanthodes novoguineensis f. novoguineensis"
+eff092bc-9bab-11eb-a8a2-19ed5c03f8d3,form,subabortivus,Diacanthodes,novo-guineensis,"(Murrill) O. Fidalgo",Q2170251,,,,,,,e4c8163e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,494316," Diacanthodes novoguineensis f. subabortivus"
+9bede30c-9bad-11eb-a8a2-19ed5c03f8d3,species,novoguineensis,Diacanthodes,,"(Henn.) O. Fidalgo",Q4497246,1962,,"Rickia 1: 149 (1962)",,,,b12f7852-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329835," "
+61daab82-9bad-11eb-a8a2-19ed5c03f8d3,form,novoguineensis,Diacanthodes,novoguineensis,"(Henn.) O. Fidalgo",Q4497246,1962,,"Rickia 1: 149 (1962)",,,,61daab82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,427555," "
+2d2b59b8-9bad-11eb-a8a2-19ed5c03f8d3,form,subabortivus,Diacanthodes,novoguineensis,"(Murrill) O. Fidalgo",Q2170251,1962,,"Rickia 1: 159, 152 (1962)",,,,e4c8163e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,349299," "
 ea1f8432-9bac-11eb-a8a2-19ed5c03f8d3,species,philippinensis,Diacanthodes,,"(Pat.) Singer",,1945,,"Lloydia 8: 141 (1945)",,,,ca949526-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286062," "
-dfad1500-8fcc-11eb-924d-9cd76263cbd0,species,alata,Diacarpa,,Sim,,1909,,"Forest Fl. Port. E. Afr. 33 1909",,,,,,782761-1,wfo-0000642761,3787675,,
+dfad1500-8fcc-11eb-924d-9cd76263cbd0,species,alata,Diacarpa,,Sim,Q7793599,1909,,"Forest Fl. Port. E. Afr. 33 1909",,,,,,782761-1,wfo-0000642761,3787675,,

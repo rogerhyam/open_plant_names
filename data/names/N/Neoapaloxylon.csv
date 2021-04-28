@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e722ac32-8fd1-11eb-924d-9cd76263cbd0,genus,Neoapaloxylon,,,Rauschert,,,,,,Q28955334,,,,893558-1,wfo-4000025594,2944228,,
-02af83a0-8fc6-11eb-924d-9cd76263cbd0,species,madagascariense,Neoapaloxylon,,"(Drake) Rauschert",,,,,,,,,,,wfo-0000195878,2944229,,
-02c21c9a-8fc6-11eb-924d-9cd76263cbd0,species,mandrarense,Neoapaloxylon,,"Du Puy & R.Rabev.",,,,,,,,,,,wfo-0000195879,2944231,,
-02d5cab0-8fc6-11eb-924d-9cd76263cbd0,species,tuberosum,Neoapaloxylon,,"(R.Vig.) Rauschert",,,,,,,,02f2334e-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000195880,2944232,,
+e722ac32-8fd1-11eb-924d-9cd76263cbd0,genus,Neoapaloxylon,,,Rauschert,Q3326939,,,,,Q28955334,,,,893558-1,wfo-4000025594,2944228,,
+02af83a0-8fc6-11eb-924d-9cd76263cbd0,species,madagascariense,Neoapaloxylon,,"(Drake) Rauschert","Q1338265,Q3326939",,,,,,,,,,wfo-0000195878,2944229,,
+02c21c9a-8fc6-11eb-924d-9cd76263cbd0,species,mandrarense,Neoapaloxylon,,"Du Puy & R.Rabev.","Q5800075,Q18719895",,,,,,,,,,wfo-0000195879,2944231,,
+02d5cab0-8fc6-11eb-924d-9cd76263cbd0,species,tuberosum,Neoapaloxylon,,"(R.Vig.) Rauschert","Q4110557,Q3326939",,,,,,,02f2334e-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000195880,2944232,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80c171e-8fd1-11eb-924d-9cd76263cbd0,genus,Pasithea,,,D.Don,,,,,,,,,,24616-1,wfo-4000028284,2780828,,
-097667f6-8fcd-11eb-924d-9cd76263cbd0,species,caerulea,Pasithea,,"(Ruiz & Pav.) D.Don",,1832,,"Edinburgh New Philos. J. 13: 237 1832",,,,,,539737-1,wfo-0000715125,5305178,,
-1ce2a962-8fcd-11eb-924d-9cd76263cbd0,variety,grandiflora,Pasithea,caerulea,I.M.Johnst.,,1929,,"Contr. Gray Herb. 85: 144 1929",,Q94388501,,,,184127-2,wfo-0000752982,5305179,,
+e80c171e-8fd1-11eb-924d-9cd76263cbd0,genus,Pasithea,,,D.Don,Q1174244,,,,,,,,,24616-1,wfo-4000028284,2780828,,
+097667f6-8fcd-11eb-924d-9cd76263cbd0,species,caerulea,Pasithea,,"(Ruiz & Pav.) D.Don","Q733976,Q332058,Q1174244",1832,,"Edinburgh New Philos. J. 13: 237 1832",,,,,,539737-1,wfo-0000715125,5305178,,
+1ce2a962-8fcd-11eb-924d-9cd76263cbd0,variety,grandiflora,Pasithea,caerulea,I.M.Johnst.,Q729850,1929,,"Contr. Gray Herb. 85: 144 1929",,Q94388501,,,,184127-2,wfo-0000752982,5305179,,

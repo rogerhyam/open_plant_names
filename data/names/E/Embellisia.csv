@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a6766718-9bad-11eb-a8a2-19ed5c03f8d3,genus,Embellisia,,,"E.G. Simmons",,1971,,"Mycologia 63(2): 380 (1971)",,,,a6766718-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8149," "
 97346372-9bad-11eb-a8a2-19ed5c03f8d3,species,abundans,Embellisia,,"E.G. Simmons",,1983,,"Mycotaxon 17: 222 (1983)",,,,97346372-9bad-11eb-a8a2-19ed5c03f8d3,,,,,109312," "
-0db5a430-9bad-11eb-a8a2-19ed5c03f8d3,species,allii,Embellisia,,"(Campan.) E.G. Simmons",,1971,,"Mycologia 63(2): 382 (1971)",,,,a7315ce0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313492," "
+0db5a430-9bad-11eb-a8a2-19ed5c03f8d3,species,allii,Embellisia,,"(Campan.) E.G. Simmons",Q23226966,1971,,"Mycologia 63(2): 382 (1971)",,,,a7315ce0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313492," "
 fbf8bb42-9bac-11eb-a8a2-19ed5c03f8d3,species,annulata,Embellisia,,"de Hoog, Seigle-Mur., Steiman & K.-E. Erikss.",,1985,,"Antonie van Leeuwenhoek 51(4): 409 (1985)",,,,fbf8bb42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103281," "
 5802d658-9bac-11eb-a8a2-19ed5c03f8d3,species,astragali,Embellisia,,"Y.Z. Li & Nan",,2007,,"Mycologia 99(3): 407 (2007)",,,,5802d658-9bac-11eb-a8a2-19ed5c03f8d3,,,,,505737," "
 0db5f660-9bad-11eb-a8a2-19ed5c03f8d3,species,chlamydospora,Embellisia,,"(Hoes, G.W. Bruehl & C.G. Shaw) E.G. Simmons",,1971,,"Mycologia 63(2): 384 (1971)",,,,232cf548-9bad-11eb-a8a2-19ed5c03f8d3,,,,,313493," "
@@ -23,5 +23,5 @@ adc07a90-9bad-11eb-a8a2-19ed5c03f8d3,species,proteae,Embellisia,,"E.G. Simmons",
 6a417c10-9bad-11eb-a8a2-19ed5c03f8d3,species,thlaspis,Embellisia,,"E.G. Simmons & J.C. David",,2000,,"in David, Coles, Fisher & Moss, Mycoscience 41(6): 533 (2000)",,,,6a417c10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,466536," "
 297e823c-9bac-11eb-a8a2-19ed5c03f8d3,species,tumida,Embellisia,,"E.G. Simmons",,1983,,"Mycotaxon 17: 236 (1983)",,,,297e823c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109307," "
 9735307c-9bad-11eb-a8a2-19ed5c03f8d3,species,verruculosa,Embellisia,,"E.G. Simmons",,1983,,"Mycotaxon 17: 236 (1983)",,,,9735307c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,109315," "
-81b44976-8fb5-11eb-924d-9cd76263cbd0,species,grandifolia,Embergeria,,"(Kirk) Boulos",,1965,,"332 1965",,,,,,203023-1,wfo-0000078913,3100683,,
-57fbd6e4-8fba-11eb-924d-9cd76263cbd0,species,megalocarpa,Embergeria,,"(Hook.f.) Boulos",,1965,,"333 1965",,,,6ea57238-8fb5-11eb-924d-9cd76263cbd0,,203024-1,wfo-0000125888,3087199,,
+81b44976-8fb5-11eb-924d-9cd76263cbd0,species,grandifolia,Embergeria,,"(Kirk) Boulos","Q930525,Q5981584",1965,,"332 1965",,,,,,203023-1,wfo-0000078913,3100683,,
+57fbd6e4-8fba-11eb-924d-9cd76263cbd0,species,megalocarpa,Embergeria,,"(Hook.f.) Boulos","Q157501,Q5981584",1965,,"333 1965",,,,6ea57238-8fb5-11eb-924d-9cd76263cbd0,,203024-1,wfo-0000125888,3087199,,

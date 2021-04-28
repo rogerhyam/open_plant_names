@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7394320-8fd1-11eb-924d-9cd76263cbd0,genus,Neoshirakia,,,Esser,,1998,,"Blumea 43: 129. 1998.",,Q96030402,,,,1001567-1,wfo-4000025845,3070783,,
-43d6657c-8fcd-11eb-924d-9cd76263cbd0,species,atrobadiomaculata,Neoshirakia,,"(F.P.Metcalf) Esser & P.T.Li",,2008,,"in Fl. China 11: 287 2008",,,,,,77091061-1,wfo-0000836191,3070787,,
-e70d8ab0-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Neoshirakia,,"(Siebold & Zucc.) Esser",,1998,,"Blumea 43: 129 1998",,Q96030402,,,,1001568-1,wfo-0000250453,3070784,,
+e7394320-8fd1-11eb-924d-9cd76263cbd0,genus,Neoshirakia,,,Esser,Q3126912,1998,,"Blumea 43: 129. 1998.",,Q96030402,,,,1001567-1,wfo-4000025845,3070783,,
+43d6657c-8fcd-11eb-924d-9cd76263cbd0,species,atrobadiomaculata,Neoshirakia,,"(F.P.Metcalf) Esser & P.T.Li","Q5868618,Q3126912,Q7195682",2008,,"in Fl. China 11: 287 2008",,,,,,77091061-1,wfo-0000836191,3070787,,
+e70d8ab0-8fcb-11eb-924d-9cd76263cbd0,species,japonica,Neoshirakia,,"(Siebold & Zucc.) Esser","Q77140,Q77121,Q3126912",1998,,"Blumea 43: 129 1998",,Q96030402,,,,1001568-1,wfo-0000250453,3070784,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7e37dea-8fd1-11eb-924d-9cd76263cbd0,genus,Palisadula,,,Toyama,,1937,,"Acta Phytotax. Geobot. 6: 169. 1937.",,,,,,,wfo-4000027789,2681034,,
-dec4f17a-8fcd-11eb-924d-9cd76263cbd0,species,chrysophylla,Palisadula,,"(Cardot) Toyama",,1937,,"Acta Phytotax. Geobot. 6: 171 1937",,,,,,,wfo-0001147299,2681035,,
-f6c48452-8fcd-11eb-924d-9cd76263cbd0,form,shiicola,Palisadula,chrysophylla,"(Sakurai) Toyama",,1937,,"Acta Phytotax. Geobot. 6: 172 1937",,,,ee9acf0c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001197441,8089069,,
-dec50bce-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Palisadula,,Toyama,,1937,,"Acta Phytotax. Geobot. 6: 170. 1 1937",,,,,,,wfo-0001147300,7419557,,
-febb341c-8fcd-11eb-924d-9cd76263cbd0,form,brevifolia,Palisadula,japonica,"(Cardot) Toyama",,1937,,"Acta Phytotax. Geobot. 6: 171 1937",,,,,,,wfo-0001214201,7580304,,
-e94155a8-8fcd-11eb-924d-9cd76263cbd0,species,katoi,Palisadula,,"(Broth.) Z.Iwats.",,1979,,"J. Hattori Bot. Lab. 46: 279 1979",,,,ee9e8f8e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169713,2681036,,
+e7e37dea-8fd1-11eb-924d-9cd76263cbd0,genus,Palisadula,,,Toyama,Q21390747,1937,,"Acta Phytotax. Geobot. 6: 169. 1937.",,,,,,,wfo-4000027789,2681034,,
+dec4f17a-8fcd-11eb-924d-9cd76263cbd0,species,chrysophylla,Palisadula,,"(Cardot) Toyama","Q2504754,Q21390747",1937,,"Acta Phytotax. Geobot. 6: 171 1937",,,,,,,wfo-0001147299,2681035,,
+f6c48452-8fcd-11eb-924d-9cd76263cbd0,form,shiicola,Palisadula,chrysophylla,"(Sakurai) Toyama","Q19001625,Q21390747",1937,,"Acta Phytotax. Geobot. 6: 172 1937",,,,ee9acf0c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001197441,8089069,,
+dec50bce-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Palisadula,,Toyama,Q21390747,1937,,"Acta Phytotax. Geobot. 6: 170. 1 1937",,,,,,,wfo-0001147300,7419557,,
+febb341c-8fcd-11eb-924d-9cd76263cbd0,form,brevifolia,Palisadula,japonica,"(Cardot) Toyama","Q2504754,Q21390747",1937,,"Acta Phytotax. Geobot. 6: 171 1937",,,,,,,wfo-0001214201,7580304,,
+e94155a8-8fcd-11eb-924d-9cd76263cbd0,species,katoi,Palisadula,,"(Broth.) Z.Iwats.","Q4348569,Q21339979",1979,,"J. Hattori Bot. Lab. 46: 279 1979",,,,ee9e8f8e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169713,2681036,,

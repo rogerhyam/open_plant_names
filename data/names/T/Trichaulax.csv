@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb842120-8fd1-11eb-924d-9cd76263cbd0,genus,Trichaulax,,,Vollesen,,1992,,"Kew Bull. 47(4): 613. 1992.",,Q55780344,,,,967831-1,wfo-4000038935,3233827,,
-b0c20894-8fcd-11eb-924d-9cd76263cbd0,species,mwasumbii,Trichaulax,,Vollesen,,1992,,"Kew Bull. 47: 613–614 1992",,Q55780344,,,,968424-1,wfo-0001045345,5573550,,
-aee6908a-8fcd-11eb-924d-9cd76263cbd0,species,aucherianus,Trichaurus,,"Decne. ex Walp.",,1843,,"Repert. Bot. Syst. 2(1): 115 1843",,,,,,,wfo-0001041233,7493256,,
-d3b9c2c0-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Trichaurus,,"(Rottler & Willd.) Arn.",,1834,,"Prodr. Fl. Ind. Orient. 1: 40 1834",,,,d3b9525e-8fd1-11eb-924d-9cd76263cbd0,,828254-1,wfo-0001285024,3613165,,
-711c75d6-8fcc-11eb-924d-9cd76263cbd0,species,pycnocarpus,Trichaurus,,Decne.,,1844,,"Voy. Inde 4: 59 1844",,,,,,,wfo-0000459406,3613149,,
-d3b9dfda-8fd1-11eb-924d-9cd76263cbd0,species,vaginata,Trichaurus,,"(Desv.) Walp.",,1843,,"Repert. Bot. Syst. 2(1): 115 1843",,,,d3b98d6e-8fd1-11eb-924d-9cd76263cbd0,,828256-1,wfo-0001285025,,,
+eb842120-8fd1-11eb-924d-9cd76263cbd0,genus,Trichaulax,,,Vollesen,Q19345043,1992,,"Kew Bull. 47(4): 613. 1992.",,Q55780344,,,,967831-1,wfo-4000038935,3233827,,
+b0c20894-8fcd-11eb-924d-9cd76263cbd0,species,mwasumbii,Trichaulax,,Vollesen,Q19345043,1992,,"Kew Bull. 47: 613–614 1992",,Q55780344,,,,968424-1,wfo-0001045345,5573550,,
+aee6908a-8fcd-11eb-924d-9cd76263cbd0,species,aucherianus,Trichaurus,,"Decne. ex Walp.","Q966069,Q77671",1843,,"Repert. Bot. Syst. 2(1): 115 1843",,,,,,,wfo-0001041233,7493256,,
+d3b9c2c0-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Trichaurus,,"(Rottler & Willd.) Arn.","Q2615068,Q76353,Q730292",1834,,"Prodr. Fl. Ind. Orient. 1: 40 1834",,,,d3b9525e-8fd1-11eb-924d-9cd76263cbd0,,828254-1,wfo-0001285024,3613165,,
+711c75d6-8fcc-11eb-924d-9cd76263cbd0,species,pycnocarpus,Trichaurus,,Decne.,Q966069,1844,,"Voy. Inde 4: 59 1844",,,,,,,wfo-0000459406,3613149,,
+d3b9dfda-8fd1-11eb-924d-9cd76263cbd0,species,vaginata,Trichaurus,,"(Desv.) Walp.","Q1354671,Q77671",1843,,"Repert. Bot. Syst. 2(1): 115 1843",,,,d3b98d6e-8fd1-11eb-924d-9cd76263cbd0,,828256-1,wfo-0001285025,,,

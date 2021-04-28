@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eae48836-8fd1-11eb-924d-9cd76263cbd0,genus,Streptosolen,,,Miers,,1850,,"Moench and Moench, Ann. Mag. Nat. Hist. ser 2, 5(27): 207., 1850.",,Q56146892,,,,38559-1,wfo-4000036870,2928980,,
-ab0185ec-8fcd-11eb-924d-9cd76263cbd0,species,benthamii,Streptosolen,,Miers,,,,"Miers, Illustr. S. Am. Pl. ii. 70..",,,,,,,wfo-0001032643,,,
-ab01a2c0-8fcd-11eb-924d-9cd76263cbd0,species,jamesonii,Streptosolen,,"(Benth.) Miers",,1850,,"(B. ) Miers, Ann. Mag. Nat. Hist., ser. 2, 5: 208. 1850., 1850.",,,,,,,wfo-0001032644,5341821,,
+eae48836-8fd1-11eb-924d-9cd76263cbd0,genus,Streptosolen,,,Miers,Q575253,1850,,"Moench and Moench, Ann. Mag. Nat. Hist. ser 2, 5(27): 207., 1850.",,Q56146892,,,,38559-1,wfo-4000036870,2928980,,
+ab0185ec-8fcd-11eb-924d-9cd76263cbd0,species,benthamii,Streptosolen,,Miers,Q575253,,,"Miers, Illustr. S. Am. Pl. ii. 70..",,,,,,,wfo-0001032643,,,
+ab01a2c0-8fcd-11eb-924d-9cd76263cbd0,species,jamesonii,Streptosolen,,"(Benth.) Miers","Q731808,Q575253",1850,,"(B. ) Miers, Ann. Mag. Nat. Hist., ser. 2, 5: 208. 1850., 1850.",,,,,,,wfo-0001032644,5341821,,

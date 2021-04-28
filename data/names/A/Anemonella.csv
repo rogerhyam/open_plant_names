@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df6f65b6-8fd1-11eb-924d-9cd76263cbd0,genus,Anemonella,,,Spach,,1839,,"Hist. Nat. Vég. 7: 239. 1839.",,,,,,33057-1,wfo-4000002055,3033686,,
-9e816112-8fcc-11eb-924d-9cd76263cbd0,species,thalictroides,Anemonella,,"(L.) Spach",,1838,,"Hist. Nat. Vég. 7: 240 1838",,,,,,708732-1,wfo-0000535938,3033115,,
-9e817eea-8fcc-11eb-924d-9cd76263cbd0,form,chlorantha,Anemonella,thalictroides,Fassett,,1937,,"Rhodora 39: 461 1937",,,,,,13529-2,wfo-0000535939,3924409,,
-9e8199c0-8fcc-11eb-924d-9cd76263cbd0,form,favilliana,Anemonella,thalictroides,"Bergseng ex Fassett",,1946,,"Trans. Wisconsin Acad. Sci 38: 199 1946",,,,,,13530-2,wfo-0000535940,7545397,,
-c7de018c-8fd1-11eb-924d-9cd76263cbd0,form,rosea,Anemonella,thalictroides,"(Millsp.) Strausb. & Core",,1952,,"Castanea 17(4): 165 1952",,,,c7dde5bc-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001268501,3924379,,
-9e81bc5c-8fcc-11eb-924d-9cd76263cbd0,form,rosea,Anemonella,thalictroides,"(Millsp.) Moldenke",,1943,,"Boissiera 7: 1 1943",,,,c7dde5bc-8fd1-11eb-924d-9cd76263cbd0,,13531-2,wfo-0000535941,3924379,,
+df6f65b6-8fd1-11eb-924d-9cd76263cbd0,genus,Anemonella,,,Spach,Q274449,1839,,"Hist. Nat. Vég. 7: 239. 1839.",,,,,,33057-1,wfo-4000002055,3033686,,
+9e816112-8fcc-11eb-924d-9cd76263cbd0,species,thalictroides,Anemonella,,"(L.) Spach","Q1043,Q274449",1838,,"Hist. Nat. Vég. 7: 240 1838",,,,,,708732-1,wfo-0000535938,3033115,,
+9e817eea-8fcc-11eb-924d-9cd76263cbd0,form,chlorantha,Anemonella,thalictroides,Fassett,Q6045013,1937,,"Rhodora 39: 461 1937",,,,,,13529-2,wfo-0000535939,3924409,,
+9e8199c0-8fcc-11eb-924d-9cd76263cbd0,form,favilliana,Anemonella,thalictroides,"Bergseng ex Fassett",Q6045013,1946,,"Trans. Wisconsin Acad. Sci 38: 199 1946",,,,,,13530-2,wfo-0000535940,7545397,,
+9e81bc5c-8fcc-11eb-924d-9cd76263cbd0,form,rosea,Anemonella,thalictroides,"(Millsp.) Moldenke","Q2585363,Q3127627",1943,,"Boissiera 7: 1 1943",,,,c7dde5bc-8fd1-11eb-924d-9cd76263cbd0,,13531-2,wfo-0000535941,3924379,,
+c7de018c-8fd1-11eb-924d-9cd76263cbd0,form,rosea,Anemonella,thalictroides,"(Millsp.) Strausb. & Core","Q2585363,Q21609940,Q5325972",1952,,"Castanea 17(4): 165 1952",,,,c7dde5bc-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001268501,3924379,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea1db832-8fd1-11eb-924d-9cd76263cbd0,genus,Schottarum,,,"P.C.Boyce & S.Y.Wong",,2008,,"Bot. Stud. (Taipei) 49(4): 393–395, f. 1A–D, 2A–E,. 2008. (Oct 2008)",,Q100530015,,,,77095598-1,wfo-4000034573,3604749,,
-70b537ee-8fcd-11eb-924d-9cd76263cbd0,species,sarikeense,Schottarum,,"(Bogner & M.Hotta) P.C.Boyce & S.Y.Wong",,2008,,"Bot. Stud. (Taipei) 49: 395 2008",,Q100530015,,df5854dc-8fc9-11eb-924d-9cd76263cbd0,,77095599-1,wfo-0000914460,3604748,,
-64dc7794-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Schousboea,,"(Aubl.) Willd.",,1799,,"Sp. Pl. 2: 578 1799",,,,,,170909-1,wfo-0000437904,5553317,,
-64dc9256-8fcc-11eb-924d-9cd76263cbd0,species,commutata,Schousboea,,Spreng.,,1825,,"Syst. Veg. 2: 332 1825",,,,,,170910-1,wfo-0000437905,5553316,,
-0ac51400-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Schousboea,,"Schumach. & Thonn.",,1827,,"Beskr. Guin. Pl. 449 1827",,,,,,356145-1,wfo-0000307074,5378057,,
+ea1db832-8fd1-11eb-924d-9cd76263cbd0,genus,Schottarum,,,"P.C.Boyce & S.Y.Wong","Q13409295,Q21612941",2008,,"Bot. Stud. (Taipei) 49(4): 393–395, f. 1A–D, 2A–E,. 2008. (Oct 2008)",,Q100530015,,,,77095598-1,wfo-4000034573,3604749,,
+70b537ee-8fcd-11eb-924d-9cd76263cbd0,species,sarikeense,Schottarum,,"(Bogner & M.Hotta) P.C.Boyce & S.Y.Wong","Q5640534,Q6883352,Q13409295,Q21612941",2008,,"Bot. Stud. (Taipei) 49: 395 2008",,Q100530015,,df5854dc-8fc9-11eb-924d-9cd76263cbd0,,77095599-1,wfo-0000914460,3604748,,
+64dc7794-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Schousboea,,"(Aubl.) Willd.","Q721482,Q76353",1799,,"Sp. Pl. 2: 578 1799",,,,,,170909-1,wfo-0000437904,5553317,,
+64dc9256-8fcc-11eb-924d-9cd76263cbd0,species,commutata,Schousboea,,Spreng.,Q62829,1825,,"Syst. Veg. 2: 332 1825",,,,,,170910-1,wfo-0000437905,5553316,,
+0ac51400-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Schousboea,,"Schumach. & Thonn.","Q66153,Q1369447",1827,,"Beskr. Guin. Pl. 449 1827",,,,,,356145-1,wfo-0000307074,5378057,,

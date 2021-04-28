@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-989a44c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eleutheromyces,,,Fuckel,,1870,,"Jb. nassau. Ver. Naturk. 23-24: 183 (1870)",,,,989a44c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8139," "
-ac127172-9bac-11eb-a8a2-19ed5c03f8d3,species,geoglossi,Eleutheromyces,,"(Ellis & Everh.) Seaver",,1909,,"Mycologia 1(2): 48 (1909)",,,,9302a6fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502320," "
+989a44c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eleutheromyces,,,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 183 (1870)",,,,989a44c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8139," "
+ac127172-9bac-11eb-a8a2-19ed5c03f8d3,species,geoglossi,Eleutheromyces,,"(Ellis & Everh.) Seaver",Q6206643,1909,,"Mycologia 1(2): 48 (1909)",,,,9302a6fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502320," "
 6ac2e84a-9bad-11eb-a8a2-19ed5c03f8d3,species,longispora,Eleutheromyces,,"N. Maek. & Tsuneda",,2001,,"Mycotaxon 78: 168 (2001)",,,,6ac2e84a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,467833," "
 4d7a3168-9bac-11eb-a8a2-19ed5c03f8d3,species,longisporus,Eleutheromyces,,"W. Phillips & Plowr.",,,,,,,,4d7a3168-9bac-11eb-a8a2-19ed5c03f8d3,,,,,225812," "
-33e9409e-9bad-11eb-a8a2-19ed5c03f8d3,species,mycophilus,Eleutheromyces,,"(Höhn.) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 345 (1993)",,,,4dcd2896-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359607," "
-4db13eec-9bac-11eb-a8a2-19ed5c03f8d3,species,subulatus,Eleutheromyces,,"(Tode) Fuckel",,1870,,"Jb. nassau. Ver. Naturk. 23-24: 183 (1870)",,,,b6918330-9bad-11eb-a8a2-19ed5c03f8d3,,,,,226160," "
-829f113c-8fcd-11eb-924d-9cd76263cbd0,species,ernesti-augustii,Eleutheropetalum,,"(H.Wendl.) Oerst.",,1858,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1858: 7 1859",,,,,,666826-1,wfo-0000948160,2734683,,
-829f2d8e-8fcd-11eb-924d-9cd76263cbd0,species,sartorii,Eleutheropetalum,,"(Liebm.) Oerst.",,1863,,"Amér. Centr. 13 1863",,,,,,,wfo-0000948161,2734517,,
-6c7f36c0-8fcd-11eb-924d-9cd76263cbd0,variety,conferta,Eleutheropetalum,sartorii,"H.Wendl. ex Burret",,1933,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 729 1933",,,,,,,wfo-0000909060,5950068,,
+33e9409e-9bad-11eb-a8a2-19ed5c03f8d3,species,mycophilus,Eleutheromyces,,"(Höhn.) Nag Raj",Q4502879,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 345 (1993)",,,,4dcd2896-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359607," "
+4db13eec-9bac-11eb-a8a2-19ed5c03f8d3,species,subulatus,Eleutheromyces,,"(Tode) Fuckel",Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 183 (1870)",,,,b6918330-9bad-11eb-a8a2-19ed5c03f8d3,,,,,226160," "
+829f113c-8fcd-11eb-924d-9cd76263cbd0,species,ernesti-augustii,Eleutheropetalum,,"(H.Wendl.) Oerst.","Q66720,Q491270",1858,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1858: 7 1859",,,,,,666826-1,wfo-0000948160,2734683,,
+829f2d8e-8fcd-11eb-924d-9cd76263cbd0,species,sartorii,Eleutheropetalum,,"(Liebm.) Oerst.","Q1335154,Q491270",1863,,"Amér. Centr. 13 1863",,,,,,,wfo-0000948161,2734517,,
+6c7f36c0-8fcd-11eb-924d-9cd76263cbd0,variety,conferta,Eleutheropetalum,sartorii,"H.Wendl. ex Burret","Q66720,Q78365",1933,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 729 1933",,,,,,,wfo-0000909060,5950068,,

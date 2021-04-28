@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a00a2e00-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ligiella,,,"J.A. Sáenz",,1980,,"Mycologia 72(2): 338 (1980)",,,,a00a2e00-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19195," "
 2c570ed4-9bac-11eb-a8a2-19ed5c03f8d3,species,rodrigueziana,Ligiella,,"J.A. Sáenz",,1980,,"Mycologia 72(2): 339 (1980)",,,,2c570ed4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,113855," "
-c496786a-8fd1-11eb-924d-9cd76263cbd0,species,duthiei,Lignariella,,Naqshi,,,,,,,,,,,wfo-0001262517,3046676,,
-ca9b36f6-8fd1-11eb-924d-9cd76263cbd0,species,hinkuensis,Lignariella,,"Arai, H.Ohba & Al-Shehbaz",,2000,,"Harvard Pap. Bot. 5(1): 117 2000",,Q95389026,,,,1016825-1,wfo-0001273785,3046660,,
-ac9f4ee4-8fd1-11eb-924d-9cd76263cbd0,species,hobsonii,Lignariella,,"(H.Pearson) Baehni",,1955,,"Candollea 15: 57, 151 1955",,,,cecb675a-8fcc-11eb-924d-9cd76263cbd0,,286607-1,wfo-0001218405,3046668,,
-c42f0cca-8fd1-11eb-924d-9cd76263cbd0,subspecies,serpens,Lignariella,hobsonii,"(W.W.Sm.) H.Hara",,,,,,,,ced941ea-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001261779,3046651,,
-ad72cf66-8fcd-11eb-924d-9cd76263cbd0,species,obscura,Lignariella,,"(Dunn) Jafri",,1957,,"Candollea 16: 134. 1957",,,,e7a0b186-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001037896,3046654,,
-c42e01b8-8fd1-11eb-924d-9cd76263cbd0,species,ohbana,Lignariella,,"Al-Shehbaz & Arai",,2000,,"Harvard Pap. Bot. 5(1): 120 2000",,Q95389026,,,,1016827-1,wfo-0001261777,3046658,,
-c42e6fd6-8fd1-11eb-924d-9cd76263cbd0,species,serpens,Lignariella,,"(W.W.Sm.) Al-Shehbaz, Arai & H.Ohba",,2000,,"Harvard Pap. Bot. 5(1): 119 2000",,Q95389026,,ced941ea-8fcc-11eb-924d-9cd76263cbd0,,1016826-1,wfo-0001261778,3046650,,
+c496786a-8fd1-11eb-924d-9cd76263cbd0,species,duthiei,Lignariella,,Naqshi,Q18986981,,,,,,,,,,wfo-0001262517,3046676,,
+ca9b36f6-8fd1-11eb-924d-9cd76263cbd0,species,hinkuensis,Lignariella,,"Arai, H.Ohba & Al-Shehbaz","Q47113136,Q1100487,Q730643",2000,,"Harvard Pap. Bot. 5(1): 117 2000",,Q95389026,,,,1016825-1,wfo-0001273785,3046660,,
+ac9f4ee4-8fd1-11eb-924d-9cd76263cbd0,species,hobsonii,Lignariella,,"(H.Pearson) Baehni","Q5722627,Q4083799",1955,,"Candollea 15: 57, 151 1955",,,,cecb675a-8fcc-11eb-924d-9cd76263cbd0,,286607-1,wfo-0001218405,3046668,,
+c42f0cca-8fd1-11eb-924d-9cd76263cbd0,subspecies,serpens,Lignariella,hobsonii,"(W.W.Sm.) H.Hara","Q1278792,Q247149",,,,,,,ced941ea-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001261779,3046651,,
+ad72cf66-8fcd-11eb-924d-9cd76263cbd0,species,obscura,Lignariella,,"(Dunn) Jafri","Q925156,Q6117016",1957,,"Candollea 16: 134. 1957",,,,e7a0b186-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001037896,3046654,,
+c42e01b8-8fd1-11eb-924d-9cd76263cbd0,species,ohbana,Lignariella,,"Al-Shehbaz & Arai","Q730643,Q47113136",2000,,"Harvard Pap. Bot. 5(1): 120 2000",,Q95389026,,,,1016827-1,wfo-0001261777,3046658,,
+c42e6fd6-8fd1-11eb-924d-9cd76263cbd0,species,serpens,Lignariella,,"(W.W.Sm.) Al-Shehbaz, Arai & H.Ohba","Q1278792,Q730643,Q47113136,Q1100487",2000,,"Harvard Pap. Bot. 5(1): 119 2000",,Q95389026,,ced941ea-8fcc-11eb-924d-9cd76263cbd0,,1016826-1,wfo-0001261778,3046650,,

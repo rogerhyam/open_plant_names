@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 f76084a8-9bab-11eb-a8a2-19ed5c03f8d3,genus,Halisaria,,,Giard,,1889,,"Bull. Sci. France Belgique 20: 216 (1889)",,,,f76084a8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,22181," "
 cd889e58-9bac-11eb-a8a2-19ed5c03f8d3,species,gracilis,Halisaria,,Giard,,1889,,"Contr. biol. Lab. Sci. Soc. China Bot. 20: (1889)",,,,cd889e58-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242122," "
-9124e5ec-8fcd-11eb-924d-9cd76263cbd0,species,fimbriata,Hallackia,,Harv.,,1863,,"Thes. Cap. 2: 2 1863",,,,,,638407-1,wfo-0000979048,2791900,,
-91251ec2-8fcd-11eb-924d-9cd76263cbd0,species,pulchra,Hallackia,,"(Harv.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 665 1891",,,,019b83ca-8fca-11eb-924d-9cd76263cbd0,,638408-1,wfo-0000979050,2791902,,
-91253a10-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Hallea,,"(Aubrév. & Pellegr.) J.-F.Leroy",,1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,e3e80d74-8fcb-11eb-924d-9cd76263cbd0,,752151-1,wfo-0000979051,5335609,,
-91255856-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Hallea,,"(K.Krause) Verdc.",,1985,,"Kew Bull. 40: 508 1985",,Q55779732,,,,915068-1,wfo-0000979052,5335608,,
-912574d0-8fcd-11eb-924d-9cd76263cbd0,species,rubrostipulata,Hallea,,"(K.Schum.) J.-F.Leroy",,1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,2de9e98c-8fcd-11eb-924d-9cd76263cbd0,,752152-1,wfo-0000979053,5335613,,
-91259352-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Hallea,,"(DC.) J.-F.Leroy",,1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,e69f615c-8fcb-11eb-924d-9cd76263cbd0,,752153-1,wfo-0000979054,5335610,,
+9124e5ec-8fcd-11eb-924d-9cd76263cbd0,species,fimbriata,Hallackia,,Harv.,Q1378128,1863,,"Thes. Cap. 2: 2 1863",,,,,,638407-1,wfo-0000979048,2791900,,
+91251ec2-8fcd-11eb-924d-9cd76263cbd0,species,pulchra,Hallackia,,"(Harv.) Kuntze","Q1378128,Q62853",1891,,"Revis. Gen. Pl. 2: 665 1891",,,,019b83ca-8fca-11eb-924d-9cd76263cbd0,,638408-1,wfo-0000979050,2791902,,
+91253a10-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Hallea,,"(Aubrév. & Pellegr.) J.-F.Leroy","Q516807,Q4348287,Q4259300",1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,e3e80d74-8fcb-11eb-924d-9cd76263cbd0,,752151-1,wfo-0000979051,5335609,,
+91255856-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Hallea,,"(K.Krause) Verdc.","Q5961003,Q604992",1985,,"Kew Bull. 40: 508 1985",,Q55779732,,,,915068-1,wfo-0000979052,5335608,,
+912574d0-8fcd-11eb-924d-9cd76263cbd0,species,rubrostipulata,Hallea,,"(K.Schum.) J.-F.Leroy","Q63545,Q4259300",1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,2de9e98c-8fcd-11eb-924d-9cd76263cbd0,,752152-1,wfo-0000979053,5335613,,
+91259352-8fcd-11eb-924d-9cd76263cbd0,species,stipulosa,Hallea,,"(DC.) J.-F.Leroy","Q123057,Q4259300",1975,,"Adansonia n.s., 15: 66 1975",,Q58837985,,e69f615c-8fcb-11eb-924d-9cd76263cbd0,,752153-1,wfo-0000979054,5335610,,

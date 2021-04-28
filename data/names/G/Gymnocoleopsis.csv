@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4453a20-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnocoleopsis,,,"(R.M.Schust.) R.M.Schust.",,1978,,"Phytologia 39: 243. 1978.",,,,,,,wfo-4000016467,2688994,,
-f7cdb4fe-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Gymnocoleopsis,,"(S.W.Arnell) R.M.Schust.",,1995,,"J. Hattori Bot. Lab. 78: 123 1995",,,,,,,wfo-0001199712,7928596,,
-f7cd6eae-8fcd-11eb-924d-9cd76263cbd0,species,cylindriformis,Gymnocoleopsis,,"(Mitt.) R.M.Schust.",,1995,,"J. Hattori Bot. Lab. 78: 126 1995",,,,f7cd4762-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001199710,8003627,,
-fcb54de2-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Gymnocoleopsis,,"(Steph.) R.M.Schust.",,1978,,"Phytologia 39: 243 1978",,,,fadae4d2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209745,2688995,,
+e4453a20-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnocoleopsis,,,"(R.M.Schust.) R.M.Schust.",Q6113453,1978,,"Phytologia 39: 243. 1978.",,,,,,,wfo-4000016467,2688994,,
+f7cdb4fe-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Gymnocoleopsis,,"(S.W.Arnell) R.M.Schust.","Q2284684,Q6113453",1995,,"J. Hattori Bot. Lab. 78: 123 1995",,,,,,,wfo-0001199712,7928596,,
+f7cd6eae-8fcd-11eb-924d-9cd76263cbd0,species,cylindriformis,Gymnocoleopsis,,"(Mitt.) R.M.Schust.","Q2918015,Q6113453",1995,,"J. Hattori Bot. Lab. 78: 126 1995",,,,f7cd4762-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001199710,8003627,,
+fcb54de2-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Gymnocoleopsis,,"(Steph.) R.M.Schust.","Q4526859,Q6113453",1978,,"Phytologia 39: 243 1978",,,,fadae4d2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209745,2688995,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e79620b8-8fd1-11eb-924d-9cd76263cbd0,genus,Ophionella,,,Bruyns,,1981,,"Cact. Succ. J. Gr. Brit. 43(2–3): 70. 1981.",,,,,,893082-1,wfo-4000026944,3230975,,
-cb33cca8-8fcd-11eb-924d-9cd76263cbd0,species,arcuata,Ophionella,,Bruyns,,,,,,,,,,909285-1,wfo-0001104711,7615514,,
-72c51f7e-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,mirkinii,Ophionella,arcuata,"(Pillans) Bruyns",,1999,,"Bot. J. Linn. Soc. 131(4): 395 (1999):",,Q43304032,,,,1012037-1,,,,
-4004f036-8fcc-11eb-924d-9cd76263cbd0,species,mirkinii,Ophionella,,"(Pillans) Plowes",,2003,,"Excelsa 20: 19 2003",,,,4131a512-8fcc-11eb-924d-9cd76263cbd0,,60429009-2,wfo-0000390514,7426677,,
-3bc5d4f4-8fcc-11eb-924d-9cd76263cbd0,species,willowmorensis,Ophionella,,Bruyns,,1999,,"Bot. J. Linn. Soc. 131: 396 1999",,Q43304032,,,,1012038-1,wfo-0000384560,8407299,,
+e79620b8-8fd1-11eb-924d-9cd76263cbd0,genus,Ophionella,,,Bruyns,Q9058775,1981,,"Cact. Succ. J. Gr. Brit. 43(2–3): 70. 1981.",,,,,,893082-1,wfo-4000026944,3230975,,
+cb33cca8-8fcd-11eb-924d-9cd76263cbd0,species,arcuata,Ophionella,,Bruyns,Q9058775,,,,,,,,,909285-1,wfo-0001104711,7615514,,
+72c51f7e-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,mirkinii,Ophionella,arcuata,"(Pillans) Bruyns","Q3338889,Q9058775",1999,,"Bot. J. Linn. Soc. 131(4): 395 (1999):",,Q43304032,,,,1012037-1,,,,
+4004f036-8fcc-11eb-924d-9cd76263cbd0,species,mirkinii,Ophionella,,"(Pillans) Plowes","Q3338889,Q5799423",2003,,"Excelsa 20: 19 2003",,,,4131a512-8fcc-11eb-924d-9cd76263cbd0,,60429009-2,wfo-0000390514,7426677,,
+3bc5d4f4-8fcc-11eb-924d-9cd76263cbd0,species,willowmorensis,Ophionella,,Bruyns,Q9058775,1999,,"Bot. J. Linn. Soc. 131: 396 1999",,Q43304032,,,,1012038-1,wfo-0000384560,8407299,,

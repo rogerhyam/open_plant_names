@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e128b790-8fd1-11eb-924d-9cd76263cbd0,genus,Canbya,,,"Parry ex A.Gray",,1877,,"Proc. Amer. Acad. Arts 12: 51–52, pl. 1. 1877.",,,,,,30213888-2,wfo-4000006520,2888409,,
-bcf26b6e-8fcc-11eb-924d-9cd76263cbd0,species,aurea,Canbya,,S.Watson,,1886,,"Proc. Amer. Acad. Arts 21: 445 1886",,,,,,44377-2,wfo-0000583827,2888411,,
-bcf2d2f2-8fcc-11eb-924d-9cd76263cbd0,species,candida,Canbya,,"Parry ex A.Gray",,1877,,"Proc. Amer. Acad. Arts 12: 51 1877",,,,,,,wfo-0000583829,2888410,,
+e128b790-8fd1-11eb-924d-9cd76263cbd0,genus,Canbya,,,"Parry ex A.Gray","Q650220,Q347356",1877,,"Proc. Amer. Acad. Arts 12: 51–52, pl. 1. 1877.",,,,,,30213888-2,wfo-4000006520,2888409,,
+bcf26b6e-8fcc-11eb-924d-9cd76263cbd0,species,aurea,Canbya,,S.Watson,Q960820,1886,,"Proc. Amer. Acad. Arts 21: 445 1886",,,,,,44377-2,wfo-0000583827,2888411,,
+bcf2d2f2-8fcc-11eb-924d-9cd76263cbd0,species,candida,Canbya,,"Parry ex A.Gray","Q650220,Q347356",1877,,"Proc. Amer. Acad. Arts 12: 51 1877",,,,,,,wfo-0000583829,2888410,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea2a88e6-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerolepis,,,Monnier,,,,,,,,,,10965-1,wfo-4000034736,5385034,,
+ea2a88e6-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerolepis,,,Monnier,Q21521652,,,,,,,,,10965-1,wfo-4000034736,5385034,,
 40d6ee0c-8fb2-11eb-924d-9cd76263cbd0,species,kalmii,Sclerolepis,,Monn.,,1829,,"Ess. Hierac. 81 (1829).",,,,,,,wfo-0000017598,5703220,,
-cc8cb35a-8fb2-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Britton, Sterns & Poggenb.",,1888,,"25 1888",,,,,,230799-2,wfo-0000034780,5385036,,
-806653ea-8fb3-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Poiret",,1894,,"Mem. Torrey Bot. Club 5: 311. 1894.",,,,,,,wfo-0000049530,,,
-f92adf02-8fb9-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Porter",,1894,,"Memoirs of the Torrey Botanical Club 5(20): 311 1894",,,,,,,wfo-0000122920,,,
-dcbf3af0-8fb6-11eb-924d-9cd76263cbd0,species,verticillata,Sclerolepis,,Cass.,,1827,,"in Dict. Sc. Nat. xxv. 365; xlviii. 155. 1827",,,,,,,wfo-0000093958,5385035,,
+806653ea-8fb3-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Poiret",Q1366734,1894,,"Mem. Torrey Bot. Club 5: 311. 1894.",,,,,,,wfo-0000049530,,,
+cc8cb35a-8fb2-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Britton, Sterns & Poggenb.","Q1366734,Q553714,Q5830724,Q4366556",1888,,"25 1888",,,,,,230799-2,wfo-0000034780,5385036,,
+f92adf02-8fb9-11eb-924d-9cd76263cbd0,species,uniflora,Sclerolepis,,"(Walter) Porter","Q1366734,Q48627",1894,,"Memoirs of the Torrey Botanical Club 5(20): 311 1894",,,,,,,wfo-0000122920,,,
+dcbf3af0-8fb6-11eb-924d-9cd76263cbd0,species,verticillata,Sclerolepis,,Cass.,Q958431,1827,,"in Dict. Sc. Nat. xxv. 365; xlviii. 155. 1827",,,,,,,wfo-0000093958,5385035,,

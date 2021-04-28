@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea4a3c36-8fd1-11eb-924d-9cd76263cbd0,genus,Septulina,,,Tiegh.,,1895,,"Bull. Soc. Bot. France 42: 263. 1895.",,Q54801453,,,,25330-1,wfo-4000035097,7287860,,
-bd8f88ee-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Septulina,,"(Thunb.) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 263 1895",,Q54801453,,,,551590-1,wfo-0001074703,4000539,,
-bd8ffe46-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Septulina,,"(E.Mey. ex Harv.) Tiegh.",,1895,,"Bull. Soc. Bot. France 42: 263 1895",,Q54801453,,bd901a52-8fcd-11eb-924d-9cd76263cbd0,,551591-1,wfo-0001074707,4000531,,
+ea4a3c36-8fd1-11eb-924d-9cd76263cbd0,genus,Septulina,,,Tiegh.,Q2421500,1895,,"Bull. Soc. Bot. France 42: 263. 1895.",,Q54801453,,,,25330-1,wfo-4000035097,7287860,,
+bd8f88ee-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Septulina,,"(Thunb.) Tiegh.","Q39658,Q2421500",1895,,"Bull. Soc. Bot. France 42: 263 1895",,Q54801453,,,,551590-1,wfo-0001074703,4000539,,
+bd8ffe46-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Septulina,,"(E.Mey. ex Harv.) Tiegh.","Q62969,Q1378128,Q2421500",1895,,"Bull. Soc. Bot. France 42: 263 1895",,Q54801453,,bd901a52-8fcd-11eb-924d-9cd76263cbd0,,551591-1,wfo-0001074707,4000531,,

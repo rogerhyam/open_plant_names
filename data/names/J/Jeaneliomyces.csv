@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a499c1b0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Jeaneliomyces,,,Lepesme,,1945,,"Mém. Mus. natn Hist. nat. Paris, Paris 19: 149 (1945)",,,,a499c1b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,22460," "
 a74cbeae-9bac-11eb-a8a2-19ed5c03f8d3,species,tachyoryctidii,Jeaneliomyces,,Lepesme,,1945,,"Mém. Mus. natn Hist. nat. Paris, Paris 19: 149 (1945)",,,,a74cbeae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431746," "
-ec2ec8c4-8fcb-11eb-924d-9cd76263cbd0,species,jeanjeanii,,,G.Keller,,1935,,"Repert. Spec. Nov. Regni Veg. Sonderbeih. A 2: 285 1935",,,,,,648267-1,wfo-0000258805,,,
-7d576e22-8fcd-11eb-924d-9cd76263cbd0,species,jeanjeanii,,,"(G.Keller) Aver.",,1986,,"Bot. Zhurn. (Moscow & Leningrad) 71: 93 1986",,,,,,942409-1,wfo-0000936371,,,
-f27a059e-8fcc-11eb-924d-9cd76263cbd0,species,littoralis,Jeanneretia,,Gaudich.,,1841,,"Voy. Bonite, Bot. 3: t. 25, f. 1-7 1841",,,,,,,wfo-0000674936,5327350,,
-ec262124-8fcb-11eb-924d-9cd76263cbd0,species,jeanpertii,,,"(E.G.Camus & Luizet) Borsos & Soó",,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 316 1966",,,,ec9b5e9e-8fcb-11eb-924d-9cd76263cbd0,,648233-1,wfo-0000258753,,,
+7d576e22-8fcd-11eb-924d-9cd76263cbd0,species,jeanjeanii,,,"(G.Keller) Aver.","Q1252447,Q4055703",1986,,"Bot. Zhurn. (Moscow & Leningrad) 71: 93 1986",,,,,,942409-1,wfo-0000936371,,,
+ec2ec8c4-8fcb-11eb-924d-9cd76263cbd0,species,jeanjeanii,,,G.Keller,Q1252447,1935,,"Repert. Spec. Nov. Regni Veg. Sonderbeih. A 2: 285 1935",,,,,,648267-1,wfo-0000258805,,,
+f27a059e-8fcc-11eb-924d-9cd76263cbd0,species,littoralis,Jeanneretia,,Gaudich.,Q1064524,1841,,"Voy. Bonite, Bot. 3: t. 25, f. 1-7 1841",,,,,,,wfo-0000674936,5327350,,
+ec262124-8fcb-11eb-924d-9cd76263cbd0,species,jeanpertii,,,"(E.G.Camus & Luizet) Borsos & Soó","Q3823236,Q5998154,Q6049790,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 316 1966",,,,ec9b5e9e-8fcb-11eb-924d-9cd76263cbd0,,648233-1,wfo-0000258753,,,

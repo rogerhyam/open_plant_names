@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2b9b3ca-8fd1-11eb-924d-9cd76263cbd0,genus,Dicraurus,,,Hook.f.,,1880,,"Gen. Pl. 3: 42. 1880. (7 Feb 1880)",,,,,,,wfo-4000011550,6429767,,
-bd0a6d90-8fd1-11eb-924d-9cd76263cbd0,species,alternifolius,Dicraurus,,"(S.Watson) Uline & Bray",,1896,,"Bot. Gaz. 21: 355 1896",,Q55758483,,,,275831-2,wfo-0001248583,,,
-e1964436-8fcc-11eb-924d-9cd76263cbd0,species,diffusus,Dicraurus,,Baill.,,1888,,"Hist. Pl. 9: 214 1888",,,,,,79967-2,wfo-0000646263,3675286,,
-e1968662-8fcc-11eb-924d-9cd76263cbd0,species,leptocladus,Dicraurus,,Hook.f.,,1880,,"Gen. Pl. 3: 43 1880",,,,,,79968-2,wfo-0000646265,3085036,,
-805c225c-8fcd-11eb-924d-9cd76263cbd0,species,divaricatum,Dicrobotryum,,"Humb. & Bonpl. ex Schult.",,1819,,"Syst. Veg. 5: 221 1819",,,,,,,wfo-0000943049,2894845,,
+e2b9b3ca-8fd1-11eb-924d-9cd76263cbd0,genus,Dicraurus,,,Hook.f.,Q157501,1880,,"Gen. Pl. 3: 42. 1880. (7 Feb 1880)",,,,,,,wfo-4000011550,6429767,,
+bd0a6d90-8fd1-11eb-924d-9cd76263cbd0,species,alternifolius,Dicraurus,,"(S.Watson) Uline & Bray","Q960820,Q5820049,Q600431",1896,,"Bot. Gaz. 21: 355 1896",,Q55758483,,,,275831-2,wfo-0001248583,,,
+e1964436-8fcc-11eb-924d-9cd76263cbd0,species,diffusus,Dicraurus,,Baill.,Q461931,1888,,"Hist. Pl. 9: 214 1888",,,,,,79967-2,wfo-0000646263,3675286,,
+e1968662-8fcc-11eb-924d-9cd76263cbd0,species,leptocladus,Dicraurus,,Hook.f.,Q157501,1880,,"Gen. Pl. 3: 43 1880",,,,,,79968-2,wfo-0000646265,3085036,,
+805c225c-8fcd-11eb-924d-9cd76263cbd0,species,divaricatum,Dicrobotryum,,"Humb. & Bonpl. ex Schult.","Q6694,Q405702,Q78881",1819,,"Syst. Veg. 5: 221 1819",,,,,,,wfo-0000943049,2894845,,

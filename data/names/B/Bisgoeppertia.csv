@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e03f07d0-8fd1-11eb-924d-9cd76263cbd0,genus,Bisgoeppertia,,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 426. 1891. (5 Nov 1891)",,,,,,30388968-2,wfo-4000004674,7270172,,
-b1e9cc30-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Bisgoeppertia,,"(Wright ex Griseb.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 426 1891",,,,,,366498-1,wfo-0000566063,3841925,,
-b1e9e9e0-8fcc-11eb-924d-9cd76263cbd0,species,prenleloupii,Bisgoeppertia,,Urb.,,1902,,"Symb. Antill. 3: 331 1902",,,,,,366499-1,wfo-0000566064,3841921,,
-8e69e650-8fcc-11eb-924d-9cd76263cbd0,species,robustior,Bisgoeppertia,,"Greuter & R.Rankin",,2008,,"Willdenowia 38: 183 2008",,Q54500351,,,,77091724-1,wfo-0000508568,3841913,,
-b1ea1eb0-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Bisgoeppertia,,"(Spreng.) Urb.",,1913,,"Symb. Antill. 7: 537 1913",,,,,,366500-1,wfo-0000566066,3841902,,
-b1ea392c-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Bisgoeppertia,,"(Mart.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 426 1891",,,,d538ce52-8fcc-11eb-924d-9cd76263cbd0,,366501-1,wfo-0000566067,3841884,,
+e03f07d0-8fd1-11eb-924d-9cd76263cbd0,genus,Bisgoeppertia,,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 426. 1891. (5 Nov 1891)",,,,,,30388968-2,wfo-4000004674,7270172,,
+b1e9cc30-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Bisgoeppertia,,"(Wright ex Griseb.) Kuntze","Q19407879,Q76351,Q62853",1891,,"Revis. Gen. Pl. 2: 426 1891",,,,,,366498-1,wfo-0000566063,3841925,,
+b1e9e9e0-8fcc-11eb-924d-9cd76263cbd0,species,prenleloupii,Bisgoeppertia,,Urb.,Q64845,1902,,"Symb. Antill. 3: 331 1902",,,,,,366499-1,wfo-0000566064,3841921,,
+8e69e650-8fcc-11eb-924d-9cd76263cbd0,species,robustior,Bisgoeppertia,,"Greuter & R.Rankin","Q123950,Q11189269",2008,,"Willdenowia 38: 183 2008",,Q54500351,,,,77091724-1,wfo-0000508568,3841913,,
+b1ea1eb0-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Bisgoeppertia,,"(Spreng.) Urb.","Q62829,Q64845",1913,,"Symb. Antill. 7: 537 1913",,,,,,366500-1,wfo-0000566066,3841902,,
+b1ea392c-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Bisgoeppertia,,"(Mart.) Kuntze","Q77131,Q62853",1891,,"Revis. Gen. Pl. 2: 426 1891",,,,d538ce52-8fcc-11eb-924d-9cd76263cbd0,,366501-1,wfo-0000566067,3841884,,

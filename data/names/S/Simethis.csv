@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea64d19a-8fd1-11eb-924d-9cd76263cbd0,genus,Simethis,,,Kunth,,,,,,,,,,331288-2,wfo-4000035395,2778329,,
-16ec99c8-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Simethis,,"(Desf.) Kunth",,1843,,"Enum. Pl. 4: 618 1843",,,,203f37e2-8fcd-11eb-924d-9cd76263cbd0,,541161-1,wfo-0000740464,2778339,,
-1649416a-8fcd-11eb-924d-9cd76263cbd0,species,mattiazzii,Simethis,,"(Vand.) Sacc.",,1900,,"Atti Mem. Reale Accad. Sci. Lett. Arti Padova n.s., 16: 78 1900",,,,2066a34a-8fcd-11eb-924d-9cd76263cbd0,,541162-1,wfo-0000739080,11086097,,
-16ecd9ba-8fcd-11eb-924d-9cd76263cbd0,species,planifolia,Simethis,,"(L.) Gren. & Godr.",,1855,,"Fl. France 3: 222 1855",,,,f15ffe34-8fcc-11eb-924d-9cd76263cbd0,,541163-1,wfo-0000740466,2778330,,
-f9b02978-8fcd-11eb-924d-9cd76263cbd0,species,atroviridis,Simia,,"(Sim) S.W.Arnell",,1952,,1952,,,,f95d05ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001203468,7763811,,
-b11731ee-8fd1-11eb-924d-9cd76263cbd0,species,simianum,,,"Schelpe & N.C.Anthony",,1985,,"Bothalia 15: 557 or 558 1985",,,,,,17523840-1,wfo-0001226610,,,
+ea64d19a-8fd1-11eb-924d-9cd76263cbd0,genus,Simethis,,,Kunth,Q77074,,,,,,,,,331288-2,wfo-4000035395,2778329,,
+16ec99c8-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Simethis,,"(Desf.) Kunth","Q545953,Q77074",1843,,"Enum. Pl. 4: 618 1843",,,,203f37e2-8fcd-11eb-924d-9cd76263cbd0,,541161-1,wfo-0000740464,2778339,,
+1649416a-8fcd-11eb-924d-9cd76263cbd0,species,mattiazzii,Simethis,,"(Vand.) Sacc.","Q1445443,Q707840",1900,,"Atti Mem. Reale Accad. Sci. Lett. Arti Padova n.s., 16: 78 1900",,,,2066a34a-8fcd-11eb-924d-9cd76263cbd0,,541162-1,wfo-0000739080,11086097,,
+16ecd9ba-8fcd-11eb-924d-9cd76263cbd0,species,planifolia,Simethis,,"(L.) Gren. & Godr.","Q1043,Q2422955,Q975562",1855,,"Fl. France 3: 222 1855",,,,f15ffe34-8fcc-11eb-924d-9cd76263cbd0,,541163-1,wfo-0000740466,2778330,,
+f9b02978-8fcd-11eb-924d-9cd76263cbd0,species,atroviridis,Simia,,"(Sim) S.W.Arnell","Q7793599,Q2284684",1952,,1952,,,,f95d05ae-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001203468,7763811,,
+b11731ee-8fd1-11eb-924d-9cd76263cbd0,species,simianum,,,"Schelpe & N.C.Anthony","Q21395460,Q26713151",1985,,"Bothalia 15: 557 or 558 1985",,,,,,17523840-1,wfo-0001226610,,,

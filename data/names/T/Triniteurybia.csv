@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb9bce74-8fd1-11eb-924d-9cd76263cbd0,genus,Triniteurybia,,,"Brouillet, Urbatsch & R.P.Roberts",,,,,,Q91202566,,,,60437834-2,wfo-4000039225,3087535,,
-a6273d02-8fb2-11eb-924d-9cd76263cbd0,species,aberrans,Triniteurybia,,"(A.Nelson) Brouillet, Urbatsch & R.P.Roberts",,2004,,"Sida 21(2): 898. 2004 [28 Dec 2004]",,Q91202566,,1c28a386-8fba-11eb-924d-9cd76263cbd0,,60437835-2,wfo-0000030766,3087536,,
-690dde38-8fcd-11eb-924d-9cd76263cbd0,species,danthoniae,Triniusa,,"(Trin.) Steud.",,1854,,"Syn. Pl. Glumac. 1: 328 1854",,,,4ca65568-8fcd-11eb-924d-9cd76263cbd0,,424791-1,wfo-0000904506,5944082,,
-690e08d6-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Triniusa,,"(Tausch) Steud.",,1854,,"Syn. Pl. Glumac. 1: 328 1854",,,,,,424792-1,wfo-0000904507,4118608,,
+eb9bce74-8fd1-11eb-924d-9cd76263cbd0,genus,Triniteurybia,,,"Brouillet, Urbatsch & R.P.Roberts","Q18983298,Q5981690,Q6111188",,,,,Q91202566,,,,60437834-2,wfo-4000039225,3087535,,
+a6273d02-8fb2-11eb-924d-9cd76263cbd0,species,aberrans,Triniteurybia,,"(A.Nelson) Brouillet, Urbatsch & R.P.Roberts","Q4316797,Q18983298,Q5981690,Q6111188",2004,,"Sida 21(2): 898. 2004 [28 Dec 2004]",,Q91202566,,1c28a386-8fba-11eb-924d-9cd76263cbd0,,60437835-2,wfo-0000030766,3087536,,
+690dde38-8fcd-11eb-924d-9cd76263cbd0,species,danthoniae,Triniusa,,"(Trin.) Steud.","Q65867,Q62821",1854,,"Syn. Pl. Glumac. 1: 328 1854",,,,4ca65568-8fcd-11eb-924d-9cd76263cbd0,,424791-1,wfo-0000904506,5944082,,
+690e08d6-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Triniusa,,"(Tausch) Steud.","Q2332119,Q62821",1854,,"Syn. Pl. Glumac. 1: 328 1854",,,,,,424792-1,wfo-0000904507,4118608,,

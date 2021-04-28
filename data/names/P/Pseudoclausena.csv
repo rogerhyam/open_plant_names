@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e91cc216-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoclausena,,,T.Clark,,1994,,"Blumea 38(2): 291. 1994.",,Q96030780,,,,977523-1,wfo-4000031461,7271449,,
-79cf5cc0-8fcc-11eb-924d-9cd76263cbd0,species,chrysogyne,Pseudoclausena,,"(Miq.) T.Clark",,1994,,"Blumea 38: 291 1994",,Q96030780,,,,977524-1,wfo-0000473661,7271450,,
-b4c19dac-8fd1-11eb-924d-9cd76263cbd0,form,velutina,Pseudoclausena,chrysogyne,"(Ridl.) T.P.Clark",,1994,,"Blumea 38(2): 294 1994",,Q96030780,,,,977525-1,wfo-0001233221,3851945,,
+79cf5cc0-8fcc-11eb-924d-9cd76263cbd0,species,chrysogyne,Pseudoclausena,,"(Miq.) T.Clark",Q76742,1994,,"Blumea 38: 291 1994",,Q96030780,,,,977524-1,wfo-0000473661,7271450,,
+b4c19dac-8fd1-11eb-924d-9cd76263cbd0,form,velutina,Pseudoclausena,chrysogyne,"(Ridl.) T.P.Clark","Q733709,Q26713741",1994,,"Blumea 38(2): 294 1994",,Q96030780,,,,977525-1,wfo-0001233221,3851945,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e55f8fd2-8fd1-11eb-924d-9cd76263cbd0,genus,Kinghamia,,,C.Jeffrey,,,,,,Q55782996,,,,925122-1,wfo-4000020013,3091277,,
-11b51fe0-8fb2-11eb-924d-9cd76263cbd0,species,angustifolia,Kinghamia,,"(Benth.) C.Jeffrey",,1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000009370,3091284,,
-e1e2c172-8fb2-11eb-924d-9cd76263cbd0,species,engleriana,Kinghamia,,"(Muschl.) C.Jeffrey",,1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000036659,3091278,,
-b550a0f0-8fb9-11eb-924d-9cd76263cbd0,species,foliosa,Kinghamia,,"(O.Hoffm.) C.Jeffrey",,1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000120695,3091292,,
-78bc9e5a-8fb9-11eb-924d-9cd76263cbd0,species,macrocephala,Kinghamia,,"(Oliv. & Hiern) C.Jeffrey",,1988,,"Kew Bull. 43(2): 275 (1988):",,,,6a5d178e-8fbb-11eb-924d-9cd76263cbd0,,,wfo-0000118654,3091290,,
-6b3510c2-8fb5-11eb-924d-9cd76263cbd0,species,nigritana,Kinghamia,,"(Benth.) C.Jeffrey",,1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000077851,3091280,,
+e55f8fd2-8fd1-11eb-924d-9cd76263cbd0,genus,Kinghamia,,,C.Jeffrey,Q1065059,,,,,Q55782996,,,,925122-1,wfo-4000020013,3091277,,
+11b51fe0-8fb2-11eb-924d-9cd76263cbd0,species,angustifolia,Kinghamia,,"(Benth.) C.Jeffrey","Q731808,Q1065059",1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000009370,3091284,,
+e1e2c172-8fb2-11eb-924d-9cd76263cbd0,species,engleriana,Kinghamia,,"(Muschl.) C.Jeffrey","Q71831,Q1065059",1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000036659,3091278,,
+b550a0f0-8fb9-11eb-924d-9cd76263cbd0,species,foliosa,Kinghamia,,"(O.Hoffm.) C.Jeffrey","Q4147110,Q1065059",1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000120695,3091292,,
+78bc9e5a-8fb9-11eb-924d-9cd76263cbd0,species,macrocephala,Kinghamia,,"(Oliv. & Hiern) C.Jeffrey","Q1161960,Q3568881,Q1065059",1988,,"Kew Bull. 43(2): 275 (1988):",,,,6a5d178e-8fbb-11eb-924d-9cd76263cbd0,,,wfo-0000118654,3091290,,
+6b3510c2-8fb5-11eb-924d-9cd76263cbd0,species,nigritana,Kinghamia,,"(Benth.) C.Jeffrey","Q731808,Q1065059",1988,,"Kew Bull. 43(2): 275 (1988):",,,,,,,wfo-0000077851,3091280,,

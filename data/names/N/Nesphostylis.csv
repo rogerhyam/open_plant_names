@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e74551ec-8fd1-11eb-924d-9cd76263cbd0,genus,Nesphostylis,,,Verdc.,,,,,,Q93608692,,,,23027-1,wfo-4000025991,2943536,,
-af52e6fa-8fc7-11eb-924d-9cd76263cbd0,species,bracteata,Nesphostylis,,"(Baker) D.Potter & J.J.Doyle",,,,,,,,,,,wfo-0000203948,2943542,,
-6f4cb0b2-8fc3-11eb-924d-9cd76263cbd0,species,holosericea,Nesphostylis,,"(Baker) Verdc.",,,,,,,,,,,wfo-0000182792,2943546,,
-c3d295dc-8fc5-11eb-924d-9cd76263cbd0,species,junodii,Nesphostylis,,"(Harms) Munyeny. & F.A.Bisby",,,,,,,,dbf93fa6-8fc2-11eb-924d-9cd76263cbd0,,,wfo-0000194759,2943537,,
-af90775e-8fc7-11eb-924d-9cd76263cbd0,species,lanceolata,Nesphostylis,,"(Baker) H.Ohashi & Tateishi",,,,,,,,,,,wfo-0000203953,2943540,,
+e74551ec-8fd1-11eb-924d-9cd76263cbd0,genus,Nesphostylis,,,Verdc.,Q604992,,,,,Q93608692,,,,23027-1,wfo-4000025991,2943536,,
+af52e6fa-8fc7-11eb-924d-9cd76263cbd0,species,bracteata,Nesphostylis,,"(Baker) D.Potter & J.J.Doyle","Q730330,Q14182944,Q33669926",,,,,,,,,,wfo-0000203948,2943542,,
+6f4cb0b2-8fc3-11eb-924d-9cd76263cbd0,species,holosericea,Nesphostylis,,"(Baker) Verdc.","Q730330,Q604992",,,,,,,,,,wfo-0000182792,2943546,,
+c3d295dc-8fc5-11eb-924d-9cd76263cbd0,species,junodii,Nesphostylis,,"(Harms) Munyeny. & F.A.Bisby","Q62415,Q33685783,Q5485334",,,,,,,dbf93fa6-8fc2-11eb-924d-9cd76263cbd0,,,wfo-0000194759,2943537,,
+af90775e-8fc7-11eb-924d-9cd76263cbd0,species,lanceolata,Nesphostylis,,"(Baker) H.Ohashi & Tateishi","Q730330,Q5490914,Q19002571",,,,,,,,,,wfo-0000203953,2943540,,

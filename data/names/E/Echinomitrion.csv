@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e328bb8a-8fd1-11eb-924d-9cd76263cbd0,genus,Echinomitrion,,,Corda,,1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 77. 1832.",,,,,,,wfo-4000012938,4887895,,
-fc5615f2-8fcd-11eb-924d-9cd76263cbd0,species,furcatum,Echinomitrion,,"(L.) Corda",,1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 77 1832",,,,cef4ff8e-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001208893,4277504,,
-fc572f50-8fcd-11eb-924d-9cd76263cbd0,variety,pubescens,Echinomitrion,furcatum,"(Schrank) Corda",,1835,,"Deutschl. Fl., Abt. II, Cryptog. 26–27: 78 1835",,,,,,,wfo-0001208903,4277530,,
-fc562fe2-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Echinomitrion,,"(Ach.) Corda",,1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 81 1832",,,,,,,wfo-0001208894,8111305,,
+e328bb8a-8fd1-11eb-924d-9cd76263cbd0,genus,Echinomitrion,,,Corda,Q624998,1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 77. 1832.",,,,,,,wfo-4000012938,4887895,,
+fc5615f2-8fcd-11eb-924d-9cd76263cbd0,species,furcatum,Echinomitrion,,"(L.) Corda","Q1043,Q624998",1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 77 1832",,,,cef4ff8e-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001208893,4277504,,
+fc572f50-8fcd-11eb-924d-9cd76263cbd0,variety,pubescens,Echinomitrion,furcatum,"(Schrank) Corda","Q62046,Q624998",1835,,"Deutschl. Fl., Abt. II, Cryptog. 26–27: 78 1835",,,,,,,wfo-0001208903,4277530,,
+fc562fe2-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Echinomitrion,,"(Ach.) Corda","Q365923,Q624998",1832,,"Deutschl. Fl., Abt. II, Cryptog. 22–23: 81 1832",,,,,,,wfo-0001208894,8111305,,

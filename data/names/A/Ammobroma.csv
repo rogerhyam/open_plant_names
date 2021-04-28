@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df35c9be-8fd1-11eb-924d-9cd76263cbd0,genus,Ammobroma,,,"Torr. ex A.Gray",,1854,,"Pl. Nov. Thurb. 327. 1854.",,,,,,,wfo-4000001614,8331624,,
-9b9f0bb6-8fcc-11eb-924d-9cd76263cbd0,species,culiacana,Ammobroma,,"Dressler & Kuijt",,1968,,"Madroño 19: 180 1968",,Q93972583,,,,11347-2,wfo-0000531184,3697215,,
-bcaeaad6-8fcd-11eb-924d-9cd76263cbd0,species,sonorae,Ammobroma,,"Torr. ex A.Gray",,1854,,"Pl. Nov. Thurb. 327 1854",,,,,,11348-2,wfo-0001072649,2926383,,
-9b9f2600-8fcc-11eb-924d-9cd76263cbd0,species,sonorae,Ammobroma,,Torr.,,1867,,"Ann. Lyceum Nat. Hist. New York 8: 52 1867",,,,,,526301-1,wfo-0000531185,7653283,,
+df35c9be-8fd1-11eb-924d-9cd76263cbd0,genus,Ammobroma,,,"Torr. ex A.Gray","Q1346660,Q347356",1854,,"Pl. Nov. Thurb. 327. 1854.",,,,,,,wfo-4000001614,8331624,,
+9b9f0bb6-8fcc-11eb-924d-9cd76263cbd0,species,culiacana,Ammobroma,,"Dressler & Kuijt","Q2347591,Q5932553",1968,,"Madroño 19: 180 1968",,Q93972583,,,,11347-2,wfo-0000531184,3697215,,
+9b9f2600-8fcc-11eb-924d-9cd76263cbd0,species,sonorae,Ammobroma,,Torr.,Q1346660,1867,,"Ann. Lyceum Nat. Hist. New York 8: 52 1867",,,,,,526301-1,wfo-0000531185,7653283,,
+bcaeaad6-8fcd-11eb-924d-9cd76263cbd0,species,sonorae,Ammobroma,,"Torr. ex A.Gray","Q1346660,Q347356",1854,,"Pl. Nov. Thurb. 327 1854",,,,,,11348-2,wfo-0001072649,2926383,,

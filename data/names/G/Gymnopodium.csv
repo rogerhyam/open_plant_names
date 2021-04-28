@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4477682-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnopodium,,,Rolfe,,,,"Hooker's Icon. Pl. IV: 7, pl. 2699. 1901.",,,,,,32502-1,wfo-4000016508,7291569,,
-083c0e4a-8fcd-11eb-924d-9cd76263cbd0,species,antigonoides,Gymnopodium,,"(B.L.Rob. ex Millsp. & Loes.) S.F.Blake",,1921,,"Bull. Torrey Bot. Club 48: 84 1921",,Q55767229,,c9e90052-8fcd-11eb-924d-9cd76263cbd0,,115771-2,wfo-0000712792,4035271,,
-083c2ccc-8fcd-11eb-924d-9cd76263cbd0,species,floribundum,Gymnopodium,,Rolfe,,,,"Hooker's Icon. Pl. 27: t. 2699 1901",,,,,,115772-2,wfo-0000712793,7291570,,
-083c5a76-8fcd-11eb-924d-9cd76263cbd0,variety,antigonoides,Gymnopodium,floribundum,"(B.L.Rob. ex Millsp. & Loes.) Standl. & Steyerm.",,1943,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 5 1943",,,,c9e90052-8fcd-11eb-924d-9cd76263cbd0,,115773-2,wfo-0000712794,,,
-083d17e0-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolium,Gymnopodium,,"(B.L.Rob. ex Millsp. & Loes.) S.F.Blake",,1921,,"Bull. Torrey Bot. Club 48: 84 1921",,Q55767229,,,,115774-2,wfo-0000712796,4035229,,
+e4477682-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnopodium,,,Rolfe,Q2635543,,,"Hooker's Icon. Pl. IV: 7, pl. 2699. 1901.",,,,,,32502-1,wfo-4000016508,7291569,,
+083c0e4a-8fcd-11eb-924d-9cd76263cbd0,species,antigonoides,Gymnopodium,,"(B.L.Rob. ex Millsp. & Loes.) S.F.Blake","Q817600,Q2585363,Q4273076,Q2332170",1921,,"Bull. Torrey Bot. Club 48: 84 1921",,Q55767229,,c9e90052-8fcd-11eb-924d-9cd76263cbd0,,115771-2,wfo-0000712792,4035271,,
+083c2ccc-8fcd-11eb-924d-9cd76263cbd0,species,floribundum,Gymnopodium,,Rolfe,Q2635543,,,"Hooker's Icon. Pl. 27: t. 2699 1901",,,,,,115772-2,wfo-0000712793,7291570,,
+083c5a76-8fcd-11eb-924d-9cd76263cbd0,variety,antigonoides,Gymnopodium,floribundum,"(B.L.Rob. ex Millsp. & Loes.) Standl. & Steyerm.","Q817600,Q2585363,Q4273076,Q1333160,Q250148",1943,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 23: 5 1943",,,,c9e90052-8fcd-11eb-924d-9cd76263cbd0,,115773-2,wfo-0000712794,,,
+083d17e0-8fcd-11eb-924d-9cd76263cbd0,species,ovatifolium,Gymnopodium,,"(B.L.Rob. ex Millsp. & Loes.) S.F.Blake","Q817600,Q2585363,Q4273076,Q2332170",1921,,"Bull. Torrey Bot. Club 48: 84 1921",,Q55767229,,,,115774-2,wfo-0000712796,4035229,,

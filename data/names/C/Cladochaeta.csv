@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1c4a150-8fd1-11eb-924d-9cd76263cbd0,genus,Cladochaeta,,,DC.,,,,,,,,,,8321-1,wfo-4000008424,3104927,,
-68418cf2-8fb9-11eb-924d-9cd76263cbd0,species,candidissima,Cladochaeta,,"(M.Bieb.) DC.",,1838,,"245 1838",,,,0690a124-8fcc-11eb-924d-9cd76263cbd0,,196244-1,wfo-0000118107,5391519,,
-7d29aa3e-8fb2-11eb-924d-9cd76263cbd0,species,candissima,Cladochaeta,,"(M.Bieb.) DC.",,,,,,,,,,,wfo-0000025988,7867107,,
-f3364066-8fb2-11eb-924d-9cd76263cbd0,species,caspica,Cladochaeta,,Sosn.,,1934,,"105 1934",,,,,,196245-1,wfo-0000038188,8065709,,
-c95583d8-8fb2-11eb-924d-9cd76263cbd0,species,velutina,Cladochaeta,,Anderb.,,1991,,"Opera Bot. 104 150 1991",,,,,,961687-1,wfo-0000034458,5391521,,
+e1c4a150-8fd1-11eb-924d-9cd76263cbd0,genus,Cladochaeta,,,DC.,Q123057,,,,,,,,,8321-1,wfo-4000008424,3104927,,
+68418cf2-8fb9-11eb-924d-9cd76263cbd0,species,candidissima,Cladochaeta,,"(M.Bieb.) DC.","Q66612,Q123057",1838,,"245 1838",,,,0690a124-8fcc-11eb-924d-9cd76263cbd0,,196244-1,wfo-0000118107,5391519,,
+7d29aa3e-8fb2-11eb-924d-9cd76263cbd0,species,candissima,Cladochaeta,,"(M.Bieb.) DC.","Q66612,Q123057",,,,,,,,,,wfo-0000025988,7867107,,
+f3364066-8fb2-11eb-924d-9cd76263cbd0,species,caspica,Cladochaeta,,Sosn.,Q964497,1934,,"105 1934",,,,,,196245-1,wfo-0000038188,8065709,,
+c95583d8-8fb2-11eb-924d-9cd76263cbd0,species,velutina,Cladochaeta,,Anderb.,Q4065252,1991,,"Opera Bot. 104 150 1991",,,,,,961687-1,wfo-0000034458,5391521,,

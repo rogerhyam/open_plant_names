@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a0072a3e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Karakulinia,,,"N.P. Golovina",,1964,,"Nov. sist. Niz. Rast., 1964 212 (1964)",,,,a0072a3e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8662," "
-1e4bb64a-9bad-11eb-a8a2-19ed5c03f8d3,species,cerasi,Karakulinia,,"(Rabenh.) N.P. Golovina",,1964,,"Nov. sist. Niz. Rast., 1964 213 (1964)",,,,7c199474-9bab-11eb-a8a2-19ed5c03f8d3,,,,,332703," "
+1e4bb64a-9bad-11eb-a8a2-19ed5c03f8d3,species,cerasi,Karakulinia,,"(Rabenh.) N.P. Golovina",Q65090,1964,,"Nov. sist. Niz. Rast., 1964 213 (1964)",,,,7c199474-9bab-11eb-a8a2-19ed5c03f8d3,,,,,332703," "
 1e4c4cd6-9bad-11eb-a8a2-19ed5c03f8d3,species,euphorbiae,Karakulinia,,"(Karak.) N.P. Golovina",,1964,,"Nov. sist. Niz. Rast., 1964 213 (1964)",,,,d9951af0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,332704," "
 ff14d2f8-9bab-11eb-a8a2-19ed5c03f8d3,species,haplophylli,Karakulinia,,"(N.P. Golovina) N.P. Golovina",,1964,,"Nov. sist. Niz. Rast., 1964 213 (1964)",,,,c2e1b4d0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,332705," "
-0ac5a6c8-8fcb-11eb-924d-9cd76263cbd0,species,hedyotoides,Karamyschewia,,"Fisch. & C.A.Mey.",,1838,,"Bull. Soc. Imp. Naturalistes Moscou 8: 266 1838",,,,,,754646-1,wfo-0000220607,2916002,,
-0ad3a3f4-8fcb-11eb-924d-9cd76263cbd0,species,barbatum,Karangolum,,"(R.Br. ex C.B.Clarke) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271820-1,wfo-0000220608,3663068,,
-0ae1ac1a-8fcb-11eb-924d-9cd76263cbd0,species,chinense,Karangolum,,"(Lour.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271821-1,wfo-0000220609,3663058,,
-0af006ac-8fcb-11eb-924d-9cd76263cbd0,species,ebenaceum,Karangolum,,"(C.B.Clarke) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271822-1,wfo-0000220610,3663050,,
-0afe6274-8fcb-11eb-924d-9cd76263cbd0,species,faberi,Karangolum,,"(Oliv.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271823-1,wfo-0000220611,3663039,,
-0b0c8ed0-8fcb-11eb-924d-9cd76263cbd0,species,griffithii,Karangolum,,"(C.B.Clarke) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271824-1,wfo-0000220612,3663029,,
-0b1abb40-8fcb-11eb-924d-9cd76263cbd0,species,mohillae,Karangolum,,"(Tul.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,7dd84fb0-8fcd-11eb-924d-9cd76263cbd0,,271825-1,wfo-0000220613,3663021,,
-0b28cd02-8fcb-11eb-924d-9cd76263cbd0,species,nobile,Karangolum,,"(C.B.Clarke) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,3931b90a-8fcd-11eb-924d-9cd76263cbd0,,271826-1,wfo-0000220614,3663016,,
-0b36e59a-8fcb-11eb-924d-9cd76263cbd0,species,platanifolium,Karangolum,,"(Siebold & Zucc.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271827-1,wfo-0000220615,3663006,,
-0b45162e-8fcb-11eb-924d-9cd76263cbd0,species,salviifolium,Karangolum,,"(L.f.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271828-1,wfo-0000220616,3662999,,
-0b555336-8fcb-11eb-924d-9cd76263cbd0,species,vitiense,Karangolum,,"(A.Gray) Kuntze",,1891,,"Revis. Gen. Pl. 1: 273 1891",,,,,,271829-1,wfo-0000220617,3662991,,
-0b648d74-8fcb-11eb-924d-9cd76263cbd0,species,zollingeri,Karangolum,,"(Baill.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 273 1891",,,,,,271830-1,wfo-0000220618,3662980,,
+0ac5a6c8-8fcb-11eb-924d-9cd76263cbd0,species,hedyotoides,Karamyschewia,,"Fisch. & C.A.Mey.","Q64109,Q728729",1838,,"Bull. Soc. Imp. Naturalistes Moscou 8: 266 1838",,,,,,754646-1,wfo-0000220607,2916002,,
+0ad3a3f4-8fcb-11eb-924d-9cd76263cbd0,species,barbatum,Karangolum,,"(R.Br. ex C.B.Clarke) Kuntze","Q155764,Q2659116,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271820-1,wfo-0000220608,3663068,,
+0ae1ac1a-8fcb-11eb-924d-9cd76263cbd0,species,chinense,Karangolum,,"(Lour.) Kuntze","Q729917,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271821-1,wfo-0000220609,3663058,,
+0af006ac-8fcb-11eb-924d-9cd76263cbd0,species,ebenaceum,Karangolum,,"(C.B.Clarke) Kuntze","Q2659116,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271822-1,wfo-0000220610,3663050,,
+0afe6274-8fcb-11eb-924d-9cd76263cbd0,species,faberi,Karangolum,,"(Oliv.) Kuntze","Q1161960,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271823-1,wfo-0000220611,3663039,,
+0b0c8ed0-8fcb-11eb-924d-9cd76263cbd0,species,griffithii,Karangolum,,"(C.B.Clarke) Kuntze","Q2659116,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271824-1,wfo-0000220612,3663029,,
+0b1abb40-8fcb-11eb-924d-9cd76263cbd0,species,mohillae,Karangolum,,"(Tul.) Kuntze","Q918803,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,7dd84fb0-8fcd-11eb-924d-9cd76263cbd0,,271825-1,wfo-0000220613,3663021,,
+0b28cd02-8fcb-11eb-924d-9cd76263cbd0,species,nobile,Karangolum,,"(C.B.Clarke) Kuntze","Q2659116,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,3931b90a-8fcd-11eb-924d-9cd76263cbd0,,271826-1,wfo-0000220614,3663016,,
+0b36e59a-8fcb-11eb-924d-9cd76263cbd0,species,platanifolium,Karangolum,,"(Siebold & Zucc.) Kuntze","Q77140,Q77121,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271827-1,wfo-0000220615,3663006,,
+0b45162e-8fcb-11eb-924d-9cd76263cbd0,species,salviifolium,Karangolum,,"(L.f.) Kuntze","Q178823,Q62853",1891,,"Revis. Gen. Pl. 1: 272 1891",,,,,,271828-1,wfo-0000220616,3662999,,
+0b555336-8fcb-11eb-924d-9cd76263cbd0,species,vitiense,Karangolum,,"(A.Gray) Kuntze","Q347356,Q62853",1891,,"Revis. Gen. Pl. 1: 273 1891",,,,,,271829-1,wfo-0000220617,3662991,,
+0b648d74-8fcb-11eb-924d-9cd76263cbd0,species,zollingeri,Karangolum,,"(Baill.) Kuntze","Q461931,Q62853",1891,,"Revis. Gen. Pl. 1: 273 1891",,,,,,271830-1,wfo-0000220618,3662980,,

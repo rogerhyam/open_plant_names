@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4b022f4-8fd1-11eb-924d-9cd76263cbd0,genus,Heteromeles,,,M.Roem.,,1847,,"Fam. Nat. Syn. Monogr. 3: 100, 105. 1847. (Apr. 1847)",,,,,,,wfo-4000017729,3025170,,
-a15a6298-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Heteromeles,,"(Dryand.) M.Roem.",,1847,,"Familiarum naturalium regni vegetabilis synopses monographicae 3, Rosiflorae ; 1847 105 1847",,,,a15b345c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001013124,,,
-98ab986a-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Heteromeles,,Greene,,1894,,"Manual of the botany of the region of San Francisco Bay ; 1894 111 1894",,,,,,725491-1,wfo-0000994953,8016355,,
-a15adb10-8fcd-11eb-924d-9cd76263cbd0,variety,cerina,Heteromeles,arbutifolia,"(Jeps.) A.E.Murray",,1982,,"; 1982 20 1982",,,,a15c670a-8fcd-11eb-924d-9cd76263cbd0,,921020-1,wfo-0001013128,7992886,,
-98abb4da-8fcd-11eb-924d-9cd76263cbd0,species,fremontiana,Heteromeles,,Decne.,,1874,,"; 1874 144 1874",,,,,,725492-1,wfo-0000994954,5370153,,
-a15b97a8-8fcd-11eb-924d-9cd76263cbd0,species,salicifolia,Heteromeles,,"(C.Presl) Abrams",,1910,,"; 1910 381 1910",,,,,,121081-2,wfo-0001013133,5370159,,
+e4b022f4-8fd1-11eb-924d-9cd76263cbd0,genus,Heteromeles,,,M.Roem.,Q3440362,1847,,"Fam. Nat. Syn. Monogr. 3: 100, 105. 1847. (Apr. 1847)",,,,,,,wfo-4000017729,3025170,,
+98ab986a-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Heteromeles,,Greene,Q2661665,1894,,"Manual of the botany of the region of San Francisco Bay ; 1894 111 1894",,,,,,725491-1,wfo-0000994953,8016355,,
+a15a6298-8fcd-11eb-924d-9cd76263cbd0,species,arbutifolia,Heteromeles,,"(Dryand.) M.Roem.","Q2500507,Q3440362",1847,,"Familiarum naturalium regni vegetabilis synopses monographicae 3, Rosiflorae ; 1847 105 1847",,,,a15b345c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001013124,,,
+a15adb10-8fcd-11eb-924d-9cd76263cbd0,variety,cerina,Heteromeles,arbutifolia,"(Jeps.) A.E.Murray","Q324259,Q4310122",1982,,"; 1982 20 1982",,,,a15c670a-8fcd-11eb-924d-9cd76263cbd0,,921020-1,wfo-0001013128,7992886,,
+98abb4da-8fcd-11eb-924d-9cd76263cbd0,species,fremontiana,Heteromeles,,Decne.,Q966069,1874,,"; 1874 144 1874",,,,,,725492-1,wfo-0000994954,5370153,,
+a15b97a8-8fcd-11eb-924d-9cd76263cbd0,species,salicifolia,Heteromeles,,"(C.Presl) Abrams","Q379601,Q2698829",1910,,"; 1910 381 1910",,,,,,121081-2,wfo-0001013133,5370159,,

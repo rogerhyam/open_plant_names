@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a08b9102-9bad-11eb-a8a2-19ed5c03f8d3,genus,Megaloblastenia,,,Sipman,,1983,,"Monogr. Megalosporac. 87 (1983)",,,,a08b9102-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3042," "
-32abb2b2-9bac-11eb-a8a2-19ed5c03f8d3,species,flavidoatra,Megaloblastenia,,"(Nyl.) Sipman",,1983,,"Biblthca Lichenol. 18: 87 (1983)",,,,891f8708-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124613," "
-32ac2f94-9bac-11eb-a8a2-19ed5c03f8d3,species,marginiflexa,Megaloblastenia,,"(Hook. f. & Taylor) Sipman",,1983,,"Biblthca Lichenol. 18: 89 (1983)",,,,897fae58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124614," "
-0c561822-9bad-11eb-a8a2-19ed5c03f8d3,variety,dimota,Megaloblastenia,marginiflexa,"(Malme) Sipman",,1983,,"Biblthca Lichenol. 18: 93 (1983)",,,,8bce9da4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124705," "
-5175f472-9bad-11eb-a8a2-19ed5c03f8d3,variety,marginiflexa,Megaloblastenia,marginiflexa,"(Hook. f. & Taylor) Sipman",,,,,,,,5175f472-9bad-11eb-a8a2-19ed5c03f8d3,,,,,418657," "
-3ab9d2bc-8fcd-11eb-924d-9cd76263cbd0,species,propinqua,Megalocalyx,,"(Fisch. & C.A.Mey.) Kolak.",,1991,,"Kolok. Kavk. 125 1991",,,,,,20005024-1,wfo-0000816586,3163607,,
-b3a87440-8fd1-11eb-924d-9cd76263cbd0,species,strigosa,Megalocalyx,,"(Banks & Sol.) Kolak.",,,,,,,,,,,wfo-0001231223,7503845,,
+a08b9102-9bad-11eb-a8a2-19ed5c03f8d3,genus,Megaloblastenia,,,Sipman,Q21339425,1983,,"Monogr. Megalosporac. 87 (1983)",,,,a08b9102-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3042," "
+32abb2b2-9bac-11eb-a8a2-19ed5c03f8d3,species,flavidoatra,Megaloblastenia,,"(Nyl.) Sipman","Q932083,Q21339425",1983,,"Biblthca Lichenol. 18: 87 (1983)",,,,891f8708-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124613," "
+32ac2f94-9bac-11eb-a8a2-19ed5c03f8d3,species,marginiflexa,Megaloblastenia,,"(Hook. f. & Taylor) Sipman","Q7794377,Q21339425",1983,,"Biblthca Lichenol. 18: 89 (1983)",,,,897fae58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124614," "
+0c561822-9bad-11eb-a8a2-19ed5c03f8d3,variety,dimota,Megaloblastenia,marginiflexa,"(Malme) Sipman","Q429017,Q21339425",1983,,"Biblthca Lichenol. 18: 93 (1983)",,,,8bce9da4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124705," "
+5175f472-9bad-11eb-a8a2-19ed5c03f8d3,variety,marginiflexa,Megaloblastenia,marginiflexa,"(Hook. f. & Taylor) Sipman","Q7794377,Q21339425",,,,,,,5175f472-9bad-11eb-a8a2-19ed5c03f8d3,,,,,418657," "
+3ab9d2bc-8fcd-11eb-924d-9cd76263cbd0,species,propinqua,Megalocalyx,,"(Fisch. & C.A.Mey.) Kolak.","Q64109,Q728729,Q4227549",1991,,"Kolok. Kavk. 125 1991",,,,,,20005024-1,wfo-0000816586,3163607,,
+b3a87440-8fd1-11eb-924d-9cd76263cbd0,species,strigosa,Megalocalyx,,"(Banks & Sol.) Kolak.","Q153408,Q39789,Q4227549",,,,,,,,,,wfo-0001231223,7503845,,

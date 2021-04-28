@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfe32da2-8fd1-11eb-924d-9cd76263cbd0,genus,Asystasiella,,,Lindau,,1895,,"Nat. Pflanzenfam. 4(3b): 326. 1895.",,,,,,,wfo-4000003511,7263706,,
-aa2965f0-8fcc-11eb-924d-9cd76263cbd0,species,africana,Asystasiella,,S.Moore,,1906,,"J. Bot. 44: 25 1906",,,,,,45815-1,wfo-0000555276,3774473,,
-aa2989cc-8fcc-11eb-924d-9cd76263cbd0,species,atroviridis,Asystasiella,,"(T.Anderson) Lindau",,1895,,"Nat. Pflanzenfam. 4(3b): 326 1895",,,,aa19084a-8fcc-11eb-924d-9cd76263cbd0,,45816-1,wfo-0000555277,3774466,,
-aa2a3d36-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Asystasiella,,"(S.Moore) E.Hossain",,1973,,"Notes Roy. Bot. Gard. Edinburgh 32: 405 1973",,Q102418681,,,,45817-1,wfo-0000555279,3774457,,
-aa2a59d8-8fcc-11eb-924d-9cd76263cbd0,species,neesiana,Asystasiella,,"(Wall.) Lindau",,1895,,"Nat. Pflanzenfam. 4(3b): 326 1895",,,,aefbcfc2-8fcd-11eb-924d-9cd76263cbd0,,45818-1,wfo-0000555280,3774449,,
+dfe32da2-8fd1-11eb-924d-9cd76263cbd0,genus,Asystasiella,,,Lindau,Q66039,1895,,"Nat. Pflanzenfam. 4(3b): 326. 1895.",,,,,,,wfo-4000003511,7263706,,
+aa2965f0-8fcc-11eb-924d-9cd76263cbd0,species,africana,Asystasiella,,S.Moore,Q2975984,1906,,"J. Bot. 44: 25 1906",,,,,,45815-1,wfo-0000555276,3774473,,
+aa2989cc-8fcc-11eb-924d-9cd76263cbd0,species,atroviridis,Asystasiella,,"(T.Anderson) Lindau","Q371504,Q66039",1895,,"Nat. Pflanzenfam. 4(3b): 326 1895",,,,aa19084a-8fcc-11eb-924d-9cd76263cbd0,,45816-1,wfo-0000555277,3774466,,
+aa2a3d36-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Asystasiella,,"(S.Moore) E.Hossain","Q2975984,Q18985569",1973,,"Notes Roy. Bot. Gard. Edinburgh 32: 405 1973",,Q102418681,,,,45817-1,wfo-0000555279,3774457,,
+aa2a59d8-8fcc-11eb-924d-9cd76263cbd0,species,neesiana,Asystasiella,,"(Wall.) Lindau","Q730310,Q66039",1895,,"Nat. Pflanzenfam. 4(3b): 326 1895",,,,aefbcfc2-8fcd-11eb-924d-9cd76263cbd0,,45818-1,wfo-0000555280,3774449,,

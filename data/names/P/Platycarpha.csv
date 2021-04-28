@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a56590-8fd1-11eb-924d-9cd76263cbd0,genus,Platycarpha,,,Less.,,,,,,,,,,10584-1,wfo-4000030078,3087505,,
-afdeda10-8fb9-11eb-924d-9cd76263cbd0,species,calvescens,Platycarpha,,Gand.,,1918,,"Bull. Soc. Bot. France 65: 46, in clavi 1918",,Q55757061,,,,238679-1,wfo-0000120515,4226885,,
-3829a96e-8fb9-11eb-924d-9cd76263cbd0,species,carlinoides,Platycarpha,,"Oliv. & Hiern",,1877,,"Fl. Trop. Afr. [Oliver et al.] 3: 430 1877",,,,,,238680-1,wfo-0000116463,3087507,,
-969d3d1e-8fb2-11eb-924d-9cd76263cbd0,species,ecklonis,Platycarpha,,Gand.,,1918,,"Bull. Soc. Bot. France 65: 46, in clavi 1918",,Q55757061,,,,238681-1,wfo-0000028999,4226875,,
-19ee0e42-8fb2-11eb-924d-9cd76263cbd0,species,glomerata,Platycarpha,,"(Thunb.) Less.",,1831,,"Linnaea 6: 688 (1831); DC. Prod. 5: 71.",,,,,,,wfo-0000011304,3087508,,
-f96cb988-8fb2-11eb-924d-9cd76263cbd0,species,parvifolia,Platycarpha,,S.Moore,,1903,,"in Journ. Bot. 1903, 136.",,,,,,238683-1,wfo-0000038752,3087506,,
+e8a56590-8fd1-11eb-924d-9cd76263cbd0,genus,Platycarpha,,,Less.,Q76352,,,,,,,,,10584-1,wfo-4000030078,3087505,,
+afdeda10-8fb9-11eb-924d-9cd76263cbd0,species,calvescens,Platycarpha,,Gand.,Q2601687,1918,,"Bull. Soc. Bot. France 65: 46, in clavi 1918",,Q55757061,,,,238679-1,wfo-0000120515,4226885,,
+3829a96e-8fb9-11eb-924d-9cd76263cbd0,species,carlinoides,Platycarpha,,"Oliv. & Hiern","Q1161960,Q3568881",1877,,"Fl. Trop. Afr. [Oliver et al.] 3: 430 1877",,,,,,238680-1,wfo-0000116463,3087507,,
+969d3d1e-8fb2-11eb-924d-9cd76263cbd0,species,ecklonis,Platycarpha,,Gand.,Q2601687,1918,,"Bull. Soc. Bot. France 65: 46, in clavi 1918",,Q55757061,,,,238681-1,wfo-0000028999,4226875,,
+19ee0e42-8fb2-11eb-924d-9cd76263cbd0,species,glomerata,Platycarpha,,"(Thunb.) Less.","Q39658,Q76352",1831,,"Linnaea 6: 688 (1831); DC. Prod. 5: 71.",,,,,,,wfo-0000011304,3087508,,
+f96cb988-8fb2-11eb-924d-9cd76263cbd0,species,parvifolia,Platycarpha,,S.Moore,Q2975984,1903,,"in Journ. Bot. 1903, 136.",,,,,,238683-1,wfo-0000038752,3087506,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a03f72a4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leptodendriscum,,,Vain.,,1890,,"Acta Soc. Fauna Flora fenn. 7(1): 220 (1890)",,,,a03f72a4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2764," "
-a0d9abfe-9bac-11eb-a8a2-19ed5c03f8d3,species,byssoides,Leptodendriscum,,"(Carrington) Vain.",,,,,,,,430c9076-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393297," "
-a0d9e1d2-9bac-11eb-a8a2-19ed5c03f8d3,species,delicatulum,Leptodendriscum,,Vain.,,1890,,"Acta Soc. Fauna Flora fenn. 7(1): (1890)",,,,a0d9e1d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,393298," "
-2a2975ce-9bad-11eb-a8a2-19ed5c03f8d3,species,moorei,Leptodendriscum,,"(Hepp ex Leight.) Vain.",,,,,,,,,,,,,345236," "
-17b31350-9bad-11eb-a8a2-19ed5c03f8d3,species,neocaledonicum,Leptodendriscum,,Vain.,,,,,,,,17b31350-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393299," "
-2a29abd4-9bad-11eb-a8a2-19ed5c03f8d3,species,schmidtii,Leptodendriscum,,Vain.,,,,,,,,2a29abd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,345237," "
+a03f72a4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leptodendriscum,,,Vain.,Q4351122,1890,,"Acta Soc. Fauna Flora fenn. 7(1): 220 (1890)",,,,a03f72a4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2764," "
+a0d9abfe-9bac-11eb-a8a2-19ed5c03f8d3,species,byssoides,Leptodendriscum,,"(Carrington) Vain.","Q21062909,Q4351122",,,,,,,430c9076-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393297," "
+a0d9e1d2-9bac-11eb-a8a2-19ed5c03f8d3,species,delicatulum,Leptodendriscum,,Vain.,Q4351122,1890,,"Acta Soc. Fauna Flora fenn. 7(1): (1890)",,,,a0d9e1d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,393298," "
+2a2975ce-9bad-11eb-a8a2-19ed5c03f8d3,species,moorei,Leptodendriscum,,"(Hepp ex Leight.) Vain.","Q2086812,Q8004384,Q4351122",,,,,,,,,,,,345236," "
+17b31350-9bad-11eb-a8a2-19ed5c03f8d3,species,neocaledonicum,Leptodendriscum,,Vain.,Q4351122,,,,,,,17b31350-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393299," "
+2a29abd4-9bad-11eb-a8a2-19ed5c03f8d3,species,schmidtii,Leptodendriscum,,Vain.,Q4351122,,,,,,,2a29abd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,345237," "

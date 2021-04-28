@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea156736-8fd1-11eb-924d-9cd76263cbd0,genus,Schizostege,,,Hillebr.,,1888,,"Fl. Hawaiian Isl. 631. 1888.",,,,ea156736-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000034457,2651805,4906," "
-b5ec7594-8fd1-11eb-924d-9cd76263cbd0,species,calocarpa,Schizostege,,Copel.,,1906,,"Philipp. J. Sci. 1: 155, t. 12 1906",,,,,,17261350-1,wfo-0001235400,5614152,,
-ac7d9b04-8fcd-11eb-924d-9cd76263cbd0,species,lidgatii,Schizostege,,"(Baker) Hillebr.",,1888,,"Fl. Hawaiian Isl. 631 1888",,,,,,,wfo-0001035713,,,
-f637c144-8fbd-11eb-924d-9cd76263cbd0,species,lydgatei,Schizostege,,Hillebr.,,1888,,"Fl. Hawaiian Isl. [Hillebrand] 632. 1888 1888",,,,,,17261360-1,wfo-0000151225,5275400,,
-b5ecc666-8fd1-11eb-924d-9cd76263cbd0,species,pachysora,Schizostege,,Copel.,,1906,,"Philipp. J. Sci. 1(Suppl. 2): 155 1906",,,,,,17261370-1,wfo-0001235401,5614149,,
-e652fb5e-9bac-11eb-a8a2-19ed5c03f8d3,species,rosaecola,Schizostege,,"(Fuckel) Theiss.",,,,,,,,79530476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,280906," Schizostege rosicola"
-e2ed99e2-9bac-11eb-a8a2-19ed5c03f8d3,species,rosicola,Schizostege,,"(Fuckel) Theiss.",,,,,,,,79530476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,276709," rosaecola"
+ea156736-8fd1-11eb-924d-9cd76263cbd0,genus,Schizostege,,,Hillebr.,Q77663,1888,,"Fl. Hawaiian Isl. 631. 1888.",,,,ea156736-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000034457,2651805,4906," "
+b5ec7594-8fd1-11eb-924d-9cd76263cbd0,species,calocarpa,Schizostege,,Copel.,Q2618968,1906,,"Philipp. J. Sci. 1: 155, t. 12 1906",,,,,,17261350-1,wfo-0001235400,5614152,,
+ac7d9b04-8fcd-11eb-924d-9cd76263cbd0,species,lidgatii,Schizostege,,"(Baker) Hillebr.","Q730330,Q77663",1888,,"Fl. Hawaiian Isl. 631 1888",,,,,,,wfo-0001035713,,,
+f637c144-8fbd-11eb-924d-9cd76263cbd0,species,lydgatei,Schizostege,,Hillebr.,Q77663,1888,,"Fl. Hawaiian Isl. [Hillebrand] 632. 1888 1888",,,,,,17261360-1,wfo-0000151225,5275400,,
+b5ecc666-8fd1-11eb-924d-9cd76263cbd0,species,pachysora,Schizostege,,Copel.,Q2618968,1906,,"Philipp. J. Sci. 1(Suppl. 2): 155 1906",,,,,,17261370-1,wfo-0001235401,5614149,,
+e652fb5e-9bac-11eb-a8a2-19ed5c03f8d3,species,rosaecola,Schizostege,,"(Fuckel) Theiss.",Q66899,,,,,,,79530476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,280906," Schizostege rosicola"
+e2ed99e2-9bac-11eb-a8a2-19ed5c03f8d3,species,rosicola,Schizostege,,"(Fuckel) Theiss.",Q66899,,,,,,,79530476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,276709," rosaecola"

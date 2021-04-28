@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df2a2da2-8fd1-11eb-924d-9cd76263cbd0,genus,Alzatea,,,"Ruiz & Pav.",,,,,,,,,,6516-1,wfo-4000001445,3188751,,
-868c2b0e-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Alzatea,,F.Dietr.,,1802,,"Vollst. Lex. Gärtn. 1: 299 1802",,,,,,159959-1,wfo-0000956921,3188753,,
-868d603c-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Alzatea,,"Ruiz & Pav.",,1802,,"Fl. Peruv. 3: 20 1802",,,,,,159960-1,wfo-0000956932,3188752,,
-9ae8dc24-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Amadea,,"(Small) Lunell",,1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,9daa3958-8fcc-11eb-924d-9cd76263cbd0,,10549-2,wfo-0000529992,4006200,,
-9ae8f8c6-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Amadea,,"(Pursh) Lunell",,1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,,,10550-2,wfo-0000529993,4006183,,
-9ae91586-8fcc-11eb-924d-9cd76263cbd0,species,puberulenta,Amadea,,"(Rydb.) Lunell",,1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,,,10551-2,wfo-0000529994,4006166,,
+df2a2da2-8fd1-11eb-924d-9cd76263cbd0,genus,Alzatea,,,"Ruiz & Pav.","Q733976,Q332058",,,,,,,,,6516-1,wfo-4000001445,3188751,,
+868c2b0e-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Alzatea,,F.Dietr.,Q86320,1802,,"Vollst. Lex. Gärtn. 1: 299 1802",,,,,,159959-1,wfo-0000956921,3188753,,
+868d603c-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Alzatea,,"Ruiz & Pav.","Q733976,Q332058",1802,,"Fl. Peruv. 3: 20 1802",,,,,,159960-1,wfo-0000956932,3188752,,
+9ae8dc24-8fcc-11eb-924d-9cd76263cbd0,species,diffusa,Amadea,,"(Small) Lunell","Q2590065,Q3019197",1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,9daa3958-8fcc-11eb-924d-9cd76263cbd0,,10549-2,wfo-0000529992,4006200,,
+9ae8f8c6-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Amadea,,"(Pursh) Lunell","Q67353,Q3019197",1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,,,10550-2,wfo-0000529993,4006183,,
+9ae91586-8fcc-11eb-924d-9cd76263cbd0,species,puberulenta,Amadea,,"(Rydb.) Lunell","Q1905130,Q3019197",1916,,"Amer. Midl. Naturalist 4: 504 1916",,Q55773199,,,,10551-2,wfo-0000529994,4006166,,

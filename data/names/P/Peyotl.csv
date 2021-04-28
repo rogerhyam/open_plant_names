@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e84d4df6-8fd1-11eb-924d-9cd76263cbd0,genus,Peyotl,,,F.Hern.,,,,,,,,,,,wfo-4000029007,7280201,,
-d483309c-8fd1-11eb-924d-9cd76263cbd0,species,diffusus,Peyotl,,"(Croizat) Sotom.",,,,,,,,,,,wfo-0001286206,3943454,,
-d48359a0-8fd1-11eb-924d-9cd76263cbd0,species,koehresii,Peyotl,,"(Riha) Sotom.",,,,,,,,d482b248-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001286207,7748201,,
-45efb9ea-8fcc-11eb-924d-9cd76263cbd0,species,viridescens,Peyotl,,"(Halda) Sotom., Arred. & Mart.Mend.",,2001,,"Cactus & Co. 5: 227 2001",,,,d483836c-8fd1-11eb-924d-9cd76263cbd0,,20004934-1,wfo-0000397817,3943449,,
-45ef9280-8fcc-11eb-924d-9cd76263cbd0,species,xochimilcensis,Peyotl,,F.Hern.,,1790,,"Hist. Pl. Nov. Hisp. 3: 70 1790",,,,,,,wfo-0000397816,3943443,,
-45ef6ff8-8fcc-11eb-924d-9cd76263cbd0,species,zacatensis,Peyotl,,F.Hern.,,1790,,"Hist. Pl. Nov. Hisp. 3: 70 1790",,,,,,,wfo-0000397815,7280202,,
+e84d4df6-8fd1-11eb-924d-9cd76263cbd0,genus,Peyotl,,,F.Hern.,Q940017,,,,,,,,,,wfo-4000029007,7280201,,
+d483309c-8fd1-11eb-924d-9cd76263cbd0,species,diffusus,Peyotl,,"(Croizat) Sotom.","Q1366568,Q36599469",,,,,,,,,,wfo-0001286206,3943454,,
+d48359a0-8fd1-11eb-924d-9cd76263cbd0,species,koehresii,Peyotl,,"(Riha) Sotom.","Q13223301,Q36599469",,,,,,,d482b248-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001286207,7748201,,
+45efb9ea-8fcc-11eb-924d-9cd76263cbd0,species,viridescens,Peyotl,,"(Halda) Sotom., Arred. & Mart.Mend.","Q13219326,Q36599469,Q36498867,Q47122005",2001,,"Cactus & Co. 5: 227 2001",,,,d483836c-8fd1-11eb-924d-9cd76263cbd0,,20004934-1,wfo-0000397817,3943449,,
+45ef9280-8fcc-11eb-924d-9cd76263cbd0,species,xochimilcensis,Peyotl,,F.Hern.,Q940017,1790,,"Hist. Pl. Nov. Hisp. 3: 70 1790",,,,,,,wfo-0000397816,3943443,,
+45ef6ff8-8fcc-11eb-924d-9cd76263cbd0,species,zacatensis,Peyotl,,F.Hern.,Q940017,1790,,"Hist. Pl. Nov. Hisp. 3: 70 1790",,,,,,,wfo-0000397815,7280202,,

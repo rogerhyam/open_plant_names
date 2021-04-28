@@ -1,20 +1,20 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df0737b6-8fd1-11eb-924d-9cd76263cbd0,genus,Ainsworthia,,,Boiss.,,1844,,"Ann. Sci. Nat., Bot., sér. 3, 1: 343. 1844.",,,,df0737b6-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000001032,3232473,99," "
-97d374ea-8fcc-11eb-924d-9cd76263cbd0,species,byzantina,Ainsworthia,,Azn.,,1897,,"Bull. Soc. Bot. France 44: 170 1897",,Q55756813,,,,837379-1,wfo-0000524662,5538196,,
-97d3af5a-8fcc-11eb-924d-9cd76263cbd0,species,carmelii,Ainsworthia,,Boiss.,,1849,,"Diagn. Pl. Orient. 10: 44 1849",,,,,,837380-1,wfo-0000524664,,,
-97d3ccc4-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Ainsworthia,,"(Jacq.) Boiss.",,1844,,"Ann. Sci. Nat., Bot. III, 1: 343 1844",,,,,,837381-1,wfo-0000524665,5538189,,
-97d3e844-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Ainsworthia,,"Boiss. & Balansa",,1856,,"Diagn. Pl. Orient. II, 5: 100 1856",,,,,,837382-1,wfo-0000524666,5538186,,
-17fefc7a-9bad-11eb-a8a2-19ed5c03f8d3,species,lecythidacearum,Ainsworthia,,"Bat., J.L. Bezerra & Peres",,1964,,"Anais XIV Congr. Soc. bot. Brasil 167 (1964)",,,,17fefc7a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325937," "
-982349f2-9bac-11eb-a8a2-19ed5c03f8d3,species,morindae,Ainsworthia,,"(J.M. Mend.) Bat.",,,,,,,,7baaed98-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325938," "
-11057940-9bac-11eb-a8a2-19ed5c03f8d3,species,negeriana,Ainsworthia,,"(Sacc., Syd. & P. Syd.) Bat. & Cif.",,,,,,,,c92ccf96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325939," "
+df0737b6-8fd1-11eb-924d-9cd76263cbd0,genus,Ainsworthia,,,Boiss.,Q34430,1844,,"Ann. Sci. Nat., Bot., sér. 3, 1: 343. 1844.",,,,df0737b6-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000001032,3232473,99," "
+97d374ea-8fcc-11eb-924d-9cd76263cbd0,species,byzantina,Ainsworthia,,Azn.,Q5390260,1897,,"Bull. Soc. Bot. France 44: 170 1897",,Q55756813,,,,837379-1,wfo-0000524662,5538196,,
+97d3af5a-8fcc-11eb-924d-9cd76263cbd0,species,carmelii,Ainsworthia,,Boiss.,Q34430,1849,,"Diagn. Pl. Orient. 10: 44 1849",,,,,,837380-1,wfo-0000524664,,,
+97d3ccc4-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Ainsworthia,,"(Jacq.) Boiss.","Q84497,Q34430",1844,,"Ann. Sci. Nat., Bot. III, 1: 343 1844",,,,,,837381-1,wfo-0000524665,5538189,,
+97d3e844-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Ainsworthia,,"Boiss. & Balansa","Q34430,Q536946",1856,,"Diagn. Pl. Orient. II, 5: 100 1856",,,,,,837382-1,wfo-0000524666,5538186,,
+17fefc7a-9bad-11eb-a8a2-19ed5c03f8d3,species,lecythidacearum,Ainsworthia,,"Bat., J.L. Bezerra & Peres",Q4079389,1964,,"Anais XIV Congr. Soc. bot. Brasil 167 (1964)",,,,17fefc7a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325937," "
+982349f2-9bac-11eb-a8a2-19ed5c03f8d3,species,morindae,Ainsworthia,,"(J.M. Mend.) Bat.",Q4079389,,,,,,,7baaed98-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325938," "
+11057940-9bac-11eb-a8a2-19ed5c03f8d3,species,negeriana,Ainsworthia,,"(Sacc., Syd. & P. Syd.) Bat. & Cif.","Q707840,Q4079389,Q4516707",,,,,,,c92ccf96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325939," "
 17ff3118-9bad-11eb-a8a2-19ed5c03f8d3,species,oblongotheca,Ainsworthia,,"A.A. Silva",,1964,,"Anais XIII Congr. Soc. bot. Brasil 428 (1964)",,,,17ff3118-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325940," "
-17ff66f6-9bad-11eb-a8a2-19ed5c03f8d3,species,psidii,Ainsworthia,,"Bat., J.L. Bezerra & Poroca",,1966,,"Atas Inst. Micol. Univ. Recife 3: 123 (1966)",,,,17ff66f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325941," "
-b843d526-9bac-11eb-a8a2-19ed5c03f8d3,species,roraimensis,Ainsworthia,,"Bat. & Cavalc.",,1966,,"Brotéria 35(1-2): 58 (1966)",,,,b843d526-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325942," "
-b8443a52-9bac-11eb-a8a2-19ed5c03f8d3,species,seaveriana,Ainsworthia,,"(Toro) Bat. & Cif.",,1962,,"Beih. Sydowia 3: 6 (1962)",,,,7b3bee3a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,325943," "
-b8449268-9bac-11eb-a8a2-19ed5c03f8d3,species,smilacina,Ainsworthia,,"Bat. & A.F. Vital",,,,,,,,b8449268-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325944," "
-97d40766-8fcc-11eb-924d-9cd76263cbd0,species,trachycarpa,Ainsworthia,,Boiss.,,1849,,"Diagn. Pl. Orient. 10: 43 1849",,,,,,,wfo-0000524667,5538185,,
-04dc8f0a-9bac-11eb-a8a2-19ed5c03f8d3,species,xanthoxylii,Ainsworthia,,"Bat. & C.A.A. Costa",,,,,,,,04dc8f0a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,202194," Ainsworthia zanthoxyli"
-2f50ae7e-9bac-11eb-a8a2-19ed5c03f8d3,species,zanthoxyli,Ainsworthia,,"Bat. & C.A.A. Costa",,1962,,"in Batista & Ciferri, Beih. Sydowia 3: 7 (1962)",,,,2f50ae7e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,344426," xanthoxylii"
-97d4253e-8fcc-11eb-924d-9cd76263cbd0,species,canadense,Aiolon,,"Nieuwl. & Lunell",,1916,,"Amer. Midl. Naturalist 4: 360 1916",,Q55773092,,,,7853-2,wfo-0000524668,7277790,,
-97d44640-8fcc-11eb-924d-9cd76263cbd0,form,flavum,Aiolon,canadense,Lunell,,1916,,"Amer. Midl. Naturalist 4: 360 1916",,Q55773092,,,,7854-2,wfo-0000524669,3928418,,
-e003c326-8fba-11eb-924d-9cd76263cbd0,species,parthenioides,Aiolotheca,,DC.,,1836,,"508 1836",,,,,,175786-1,wfo-0000130049,3101706,,
+17ff66f6-9bad-11eb-a8a2-19ed5c03f8d3,species,psidii,Ainsworthia,,"Bat., J.L. Bezerra & Poroca",Q4079389,1966,,"Atas Inst. Micol. Univ. Recife 3: 123 (1966)",,,,17ff66f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325941," "
+b843d526-9bac-11eb-a8a2-19ed5c03f8d3,species,roraimensis,Ainsworthia,,"Bat. & Cavalc.","Q4079389,Q21338946",1966,,"Brotéria 35(1-2): 58 (1966)",,,,b843d526-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325942," "
+b8443a52-9bac-11eb-a8a2-19ed5c03f8d3,species,seaveriana,Ainsworthia,,"(Toro) Bat. & Cif.","Q21610884,Q4079389,Q4516707",1962,,"Beih. Sydowia 3: 6 (1962)",,,,7b3bee3a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,325943," "
+b8449268-9bac-11eb-a8a2-19ed5c03f8d3,species,smilacina,Ainsworthia,,"Bat. & A.F. Vital",Q4079389,,,,,,,b8449268-9bac-11eb-a8a2-19ed5c03f8d3,,,,,325944," "
+97d40766-8fcc-11eb-924d-9cd76263cbd0,species,trachycarpa,Ainsworthia,,Boiss.,Q34430,1849,,"Diagn. Pl. Orient. 10: 43 1849",,,,,,,wfo-0000524667,5538185,,
+04dc8f0a-9bac-11eb-a8a2-19ed5c03f8d3,species,xanthoxylii,Ainsworthia,,"Bat. & C.A.A. Costa",Q4079389,,,,,,,04dc8f0a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,202194," Ainsworthia zanthoxyli"
+2f50ae7e-9bac-11eb-a8a2-19ed5c03f8d3,species,zanthoxyli,Ainsworthia,,"Bat. & C.A.A. Costa",Q4079389,1962,,"in Batista & Ciferri, Beih. Sydowia 3: 7 (1962)",,,,2f50ae7e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,344426," xanthoxylii"
+97d4253e-8fcc-11eb-924d-9cd76263cbd0,species,canadense,Aiolon,,"Nieuwl. & Lunell","Q88145,Q3019197",1916,,"Amer. Midl. Naturalist 4: 360 1916",,Q55773092,,,,7853-2,wfo-0000524668,7277790,,
+97d44640-8fcc-11eb-924d-9cd76263cbd0,form,flavum,Aiolon,canadense,Lunell,Q3019197,1916,,"Amer. Midl. Naturalist 4: 360 1916",,Q55773092,,,,7854-2,wfo-0000524669,3928418,,
+e003c326-8fba-11eb-924d-9cd76263cbd0,species,parthenioides,Aiolotheca,,DC.,Q123057,1836,,"508 1836",,,,,,175786-1,wfo-0000130049,3101706,,

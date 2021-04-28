@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a90da4dc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Heterovesicula,,,"C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett",,,,,,,,a90da4dc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,30496," "
 741e3b48-9bac-11eb-a8a2-19ed5c03f8d3,species,cowani,Heterovesicula,,"C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett",,,,,,,,741e3b48-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522637," "
-92815f24-8fcd-11eb-924d-9cd76263cbd0,species,amboinensis,Heterozeuxine,,"(J.J.Sm.) T.Hashim.",,1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000048-1,wfo-0000982057,2803028,,
-92817b4e-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Heterozeuxine,,"(J.J.Sm.) T.Hashim.",,1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,,wfo-0000982058,2803032,,
-92819bba-8fcd-11eb-924d-9cd76263cbd0,species,elatior,Heterozeuxine,,"(Schltr.) T.Hashim.",,1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000050-1,wfo-0000982059,2803036,,
-9281b8b6-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Heterozeuxine,,"(King & Pantl.) T.Hashim.",,1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,1c14dbd2-8fcc-11eb-924d-9cd76263cbd0,,1000051-1,wfo-0000982060,2803038,,
-9281d5bc-8fcd-11eb-924d-9cd76263cbd0,species,nervosa,Heterozeuxine,,"(Wall. ex Lindl.) T.Hashim.",,1986,,"Ann. Tsukuba Bot. Gard. 5: 21 1986",,Q101207874,,,,943625-1,wfo-0000982061,2802989,,
-9281f1dc-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Heterozeuxine,,"(Fukuy.) T.Hashim.",,1986,,"Ann. Tsukuba Bot. Gard. 5: 21 1986",,Q101207874,,,,943624-1,wfo-0000982062,2803008,,
-abfed7ce-8fcd-11eb-924d-9cd76263cbd0,species,rotundiloba,Heterozeuxine,,"(J.J.Sm.) C.S.Leou",,,,,,,,927070ce-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001034750,7537077,,
-92821608-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Heterozeuxine,,"(J.J.Sm.) T.Hashim.",,1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000052-1,wfo-0000982063,2803006,,
+92815f24-8fcd-11eb-924d-9cd76263cbd0,species,amboinensis,Heterozeuxine,,"(J.J.Sm.) T.Hashim.","Q770032,Q11543836",1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000048-1,wfo-0000982057,2803028,,
+92817b4e-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Heterozeuxine,,"(J.J.Sm.) T.Hashim.","Q770032,Q11543836",1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,,wfo-0000982058,2803032,,
+92819bba-8fcd-11eb-924d-9cd76263cbd0,species,elatior,Heterozeuxine,,"(Schltr.) T.Hashim.","Q62278,Q11543836",1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000050-1,wfo-0000982059,2803036,,
+9281b8b6-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Heterozeuxine,,"(King & Pantl.) T.Hashim.","Q2566984,Q4385599,Q11543836",1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,1c14dbd2-8fcc-11eb-924d-9cd76263cbd0,,1000051-1,wfo-0000982060,2803038,,
+9281d5bc-8fcd-11eb-924d-9cd76263cbd0,species,nervosa,Heterozeuxine,,"(Wall. ex Lindl.) T.Hashim.","Q730310,Q378629,Q11543836",1986,,"Ann. Tsukuba Bot. Gard. 5: 21 1986",,Q101207874,,,,943625-1,wfo-0000982061,2802989,,
+9281f1dc-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Heterozeuxine,,"(Fukuy.) T.Hashim.","Q2035489,Q11543836",1986,,"Ann. Tsukuba Bot. Gard. 5: 21 1986",,Q101207874,,,,943624-1,wfo-0000982062,2803008,,
+abfed7ce-8fcd-11eb-924d-9cd76263cbd0,species,rotundiloba,Heterozeuxine,,"(J.J.Sm.) C.S.Leou","Q770032,Q33680882",,,,,,,927070ce-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001034750,7537077,,
+92821608-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Heterozeuxine,,"(J.J.Sm.) T.Hashim.","Q770032,Q11543836",1987,,"Proc. World Orchid Conf. 12: 125 1987",,,,,,1000052-1,wfo-0000982063,2803006,,

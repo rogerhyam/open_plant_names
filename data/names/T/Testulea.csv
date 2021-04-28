@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb2f9e66-8fd1-11eb-924d-9cd76263cbd0,genus,Testulea,,,Pellegr.,,1924,,"Bull. Soc. Bot. France 71: 76. 1924.",,Q54557177,,,,28111-1,wfo-4000037845,7326664,,
-6f50adb2-8fcc-11eb-924d-9cd76263cbd0,species,gabonensis,Testulea,,Pellegr.,,1924,,"Bull. Soc. Bot. France 71: 76 1924",,Q54557177,,,,607513-1,wfo-0000456185,3694579,,
-18255db6-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Teta,,"(Andrews) Voigt",,1845,,"Hort. Suburb. Calcutt. 651 1845",,,,f1d4728c-8fcc-11eb-924d-9cd76263cbd0,,1004479-1,wfo-0000743116,2774084,,
-f246196e-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Teta,,Voigt,,1845,,"Hort. Suburb. Calcutt. 650 1845",,,,,,429906-1,wfo-0000674546,2774077,,
-f2476d64-8fcc-11eb-924d-9cd76263cbd0,species,viridiflora,Teta,,Roxb.,,1832,,"Fl. Ind. ed. 1832 2: 165 1832",,,,,,429907-1,wfo-0000674557,2774079,,
-6f4d52e8-8fcc-11eb-924d-9cd76263cbd0,species,olacioides,Tetanosia,,"(Wight & Arn.) M.Roem.",,1846,,"Fam. Nat. Syn. Monogr. 1: 23 1846",,,,,,608505-1,wfo-0000456162,3686146,,
+eb2f9e66-8fd1-11eb-924d-9cd76263cbd0,genus,Testulea,,,Pellegr.,Q4348287,1924,,"Bull. Soc. Bot. France 71: 76. 1924.",,Q54557177,,,,28111-1,wfo-4000037845,7326664,,
+6f50adb2-8fcc-11eb-924d-9cd76263cbd0,species,gabonensis,Testulea,,Pellegr.,Q4348287,1924,,"Bull. Soc. Bot. France 71: 76 1924",,Q54557177,,,,607513-1,wfo-0000456185,3694579,,
+18255db6-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Teta,,"(Andrews) Voigt","Q947133,Q2333107",1845,,"Hort. Suburb. Calcutt. 651 1845",,,,f1d4728c-8fcc-11eb-924d-9cd76263cbd0,,1004479-1,wfo-0000743116,2774084,,
+f246196e-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Teta,,Voigt,Q2333107,1845,,"Hort. Suburb. Calcutt. 650 1845",,,,,,429906-1,wfo-0000674546,2774077,,
+f2476d64-8fcc-11eb-924d-9cd76263cbd0,species,viridiflora,Teta,,Roxb.,Q748967,1832,,"Fl. Ind. ed. 1832 2: 165 1832",,,,,,429907-1,wfo-0000674557,2774079,,
+6f4d52e8-8fcc-11eb-924d-9cd76263cbd0,species,olacioides,Tetanosia,,"(Wight & Arn.) M.Roem.","Q1375864,Q730292,Q3440362",1846,,"Fam. Nat. Syn. Monogr. 1: 23 1846",,,,,,608505-1,wfo-0000456162,3686146,,

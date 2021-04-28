@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e839d028-8fd1-11eb-924d-9cd76263cbd0,genus,Perissocarpa,,,"Steyerm. & Maguire",,1984,,"Ann. Missouri Bot. Gard. 71(1): 319. 1984.",,Q55765009,,,,893403-1,wfo-4000028792,7326684,,
-bbaccfb0-8fd1-11eb-924d-9cd76263cbd0,species,ondox,Perissocarpa,,B.Walln.,,1998,,"Ann. Naturhist. Mus. Wien 100: 694 1998",,,,,,1005532-1,wfo-0001246017,3694892,,
-7b8acc20-8fcc-11eb-924d-9cd76263cbd0,species,steyermarkii,Perissocarpa,,"(Maguire) Steyerm. & Maguire",,1984,,"Ann. Missouri Bot. Gard. 71: 319 1984",,Q55765009,,,,914398-1,wfo-0000476721,7326685,,
-7b8ae908-8fcc-11eb-924d-9cd76263cbd0,subspecies,tachirensis,Perissocarpa,steyermarkii,"Steyerm. & Maguire",,1984,,"Ann. Missouri Bot. Gard. 71: 320 1984",,Q55765009,,,,282512-2,wfo-0000476722,3694850,,
-7b8bfb5e-8fcc-11eb-924d-9cd76263cbd0,species,umbellifera,Perissocarpa,,"Steyerm. & Maguire",,1984,,"Ann. Missouri Bot. Gard. 71: 320 1984",,Q55765009,,,,282513-2,wfo-0000476729,3694830,,
+e839d028-8fd1-11eb-924d-9cd76263cbd0,genus,Perissocarpa,,,"Steyerm. & Maguire","Q250148,Q2695559",1984,,"Ann. Missouri Bot. Gard. 71(1): 319. 1984.",,Q55765009,,,,893403-1,wfo-4000028792,7326684,,
+bbaccfb0-8fd1-11eb-924d-9cd76263cbd0,species,ondox,Perissocarpa,,B.Walln.,Q4102944,1998,,"Ann. Naturhist. Mus. Wien 100: 694 1998",,,,,,1005532-1,wfo-0001246017,3694892,,
+7b8acc20-8fcc-11eb-924d-9cd76263cbd0,species,steyermarkii,Perissocarpa,,"(Maguire) Steyerm. & Maguire","Q2695559,Q250148",1984,,"Ann. Missouri Bot. Gard. 71: 319 1984",,Q55765009,,,,914398-1,wfo-0000476721,7326685,,
+7b8ae908-8fcc-11eb-924d-9cd76263cbd0,subspecies,tachirensis,Perissocarpa,steyermarkii,"Steyerm. & Maguire","Q250148,Q2695559",1984,,"Ann. Missouri Bot. Gard. 71: 320 1984",,Q55765009,,,,282512-2,wfo-0000476722,3694850,,
+7b8bfb5e-8fcc-11eb-924d-9cd76263cbd0,species,umbellifera,Perissocarpa,,"Steyerm. & Maguire","Q250148,Q2695559",1984,,"Ann. Missouri Bot. Gard. 71: 320 1984",,Q55765009,,,,282513-2,wfo-0000476729,3694830,,

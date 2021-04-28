@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-8d5d6d64-9a07-11eb-a8a2-19ed5c03f8d3,genus,Myconella,,,Sprague,,1928,,"Bull. Misc. Inform. Kew 1928(7): 269",,Q96000056,,,,10136-1,,,,
-90260d30-8fb2-11eb-924d-9cd76263cbd0,species,multicaulis,Myconella,,"(Desf.) Maire",,1929,,"in Bull. Soc. Hist. Nat. Afr. Nord, 1929, xx. 25",,,,,,,wfo-0000028236,3092088,,
-8bf33474-8fba-11eb-924d-9cd76263cbd0,species,myconis,Myconella,,"(L.) Sprague",,1928,,"269 1928",,Q96000056,,96cd6e1a-8fb9-11eb-924d-9cd76263cbd0,,233985-1,wfo-0000127517,3092092,,
-ec19eb40-8fba-11eb-924d-9cd76263cbd0,species,paludosa,Myconella,,"(Poir.) Maire",,,,,,,,04ee5e9c-8fb3-11eb-924d-9cd76263cbd0,,,wfo-0000130417,3096536,,
+8d5d6d64-9a07-11eb-a8a2-19ed5c03f8d3,genus,Myconella,,,Sprague,Q2422076,1928,,"Bull. Misc. Inform. Kew 1928(7): 269",,Q96000056,,,,10136-1,,,,
+90260d30-8fb2-11eb-924d-9cd76263cbd0,species,multicaulis,Myconella,,"(Desf.) Maire","Q545953,Q2661320",1929,,"in Bull. Soc. Hist. Nat. Afr. Nord, 1929, xx. 25",,,,,,,wfo-0000028236,3092088,,
+8bf33474-8fba-11eb-924d-9cd76263cbd0,species,myconis,Myconella,,"(L.) Sprague","Q1043,Q2422076",1928,,"269 1928",,Q96000056,,96cd6e1a-8fb9-11eb-924d-9cd76263cbd0,,233985-1,wfo-0000127517,3092092,,
+ec19eb40-8fba-11eb-924d-9cd76263cbd0,species,paludosa,Myconella,,"(Poir.) Maire","Q966539,Q2661320",,,,,,,04ee5e9c-8fb3-11eb-924d-9cd76263cbd0,,,wfo-0000130417,3096536,,

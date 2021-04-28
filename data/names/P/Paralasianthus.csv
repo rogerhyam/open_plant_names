@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec6ad5f2-8fd1-11eb-924d-9cd76263cbd0,genus,Paralasianthus,,,H.Zhu,,2015,,"Phytotaxa 202: 274 (2015)",,Q23409157,,,,77145947-1,wfo-4001303365,9357765,,
-35647c18-8fc8-11eb-924d-9cd76263cbd0,species,platycarpa,Paralbizia,,"(Merr.) Kosterm.",,,,,,,,c5ffde8a-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000206711,2962852,,
-35b48ed0-8fc6-11eb-924d-9cd76263cbd0,species,robinsonii,Paralbizzia,,"(Gagnep.) Kosterm.",,,,,,,,,,,wfo-0000196861,2941362,,
-35361f50-8fc6-11eb-924d-9cd76263cbd0,species,turgida,Paralbizzia,,"(Merr.) Kosterm.",,,,,,,,36e3e22e-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000196845,2941473,,
-444595ec-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Paralea,,Aubl.,,1775,,"Hist. Pl. Guiane 576 1775",,,,,,323569-1,wfo-0000395974,4071317,,
+ec6ad5f2-8fd1-11eb-924d-9cd76263cbd0,genus,Paralasianthus,,,H.Zhu,Q21613562,2015,,"Phytotaxa 202: 274 (2015)",,Q23409157,,,,77145947-1,wfo-4001303365,9357765,,
+35647c18-8fc8-11eb-924d-9cd76263cbd0,species,platycarpa,Paralbizia,,"(Merr.) Kosterm.","Q729926,Q2467467",,,,,,,c5ffde8a-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000206711,2962852,,
+35b48ed0-8fc6-11eb-924d-9cd76263cbd0,species,robinsonii,Paralbizzia,,"(Gagnep.) Kosterm.","Q599122,Q2467467",,,,,,,,,,wfo-0000196861,2941362,,
+35361f50-8fc6-11eb-924d-9cd76263cbd0,species,turgida,Paralbizzia,,"(Merr.) Kosterm.","Q729926,Q2467467",,,,,,,36e3e22e-8fc6-11eb-924d-9cd76263cbd0,,,wfo-0000196845,2941473,,
+444595ec-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Paralea,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane 576 1775",,,,,,323569-1,wfo-0000395974,4071317,,

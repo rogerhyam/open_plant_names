@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7dbd73e-8fd1-11eb-924d-9cd76263cbd0,genus,Pachystegia,,,Cheeseman,,,,,,,,,,10361-1,wfo-4000027705,3150320,,
-f3ab3b26-8fb4-11eb-924d-9cd76263cbd0,species,insignis,Pachystegia,,"(Hook.f.) Cheeseman",,1925,,1925,,,,,,236333-1,wfo-0000072037,3150323,,
-247afe38-8fb7-11eb-924d-9cd76263cbd0,variety,minor,Pachystegia,insignis,Cheeseman,,1925,,"Cheeseman, T. F. 1925: Manual of the New Zealand Flora.2 ed.  Wellington, N.Z.,  911 1925",,,,,,,wfo-0000096797,6293527,,
-21a61b88-8fb3-11eb-924d-9cd76263cbd0,species,minor,Pachystegia,,"(Cheeseman) Molloy",,1987,,"144 1987",,,,,,,wfo-0000042241,3150321,,
-95a5b884-8fb5-11eb-924d-9cd76263cbd0,species,rufa,Pachystegia,,Molloy,,1987,,1987,,,,,,,wfo-0000079794,3150322,,
+e7dbd73e-8fd1-11eb-924d-9cd76263cbd0,genus,Pachystegia,,,Cheeseman,Q1361590,,,,,,,,,10361-1,wfo-4000027705,3150320,,
+f3ab3b26-8fb4-11eb-924d-9cd76263cbd0,species,insignis,Pachystegia,,"(Hook.f.) Cheeseman","Q157501,Q1361590",1925,,1925,,,,,,236333-1,wfo-0000072037,3150323,,
+247afe38-8fb7-11eb-924d-9cd76263cbd0,variety,minor,Pachystegia,insignis,Cheeseman,Q1361590,1925,,"Cheeseman, T. F. 1925: Manual of the New Zealand Flora.2 ed.  Wellington, N.Z.,  911 1925",,,,,,,wfo-0000096797,6293527,,
+21a61b88-8fb3-11eb-924d-9cd76263cbd0,species,minor,Pachystegia,,"(Cheeseman) Molloy","Q1361590,Q5733777",1987,,"144 1987",,,,,,,wfo-0000042241,3150321,,
+95a5b884-8fb5-11eb-924d-9cd76263cbd0,species,rufa,Pachystegia,,Molloy,Q5733777,1987,,1987,,,,,,,wfo-0000079794,3150322,,

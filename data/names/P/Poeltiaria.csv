@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a088bc20-9bad-11eb-a8a2-19ed5c03f8d3,genus,Poeltiaria,,,Hertel,,1984,,"Nova Hedwigia, Beih. 79: 430 (1984)",,,,a088bc20-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25661," "
-339b8012-9bac-11eb-a8a2-19ed5c03f8d3,species,coromandelica,Poeltiaria,,"(Zahlbr.) Rambold & Hertel",,1989,,"in Rambold, Biblthca Lichenol. 34: 265 (1989)",,,,3a4ee1aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,125881," "
-284c05b0-9bac-11eb-a8a2-19ed5c03f8d3,species,corralensis,Poeltiaria,,"(Räsänen) Hertel",,1984,,"Beih. Nova Hedwigia 79: 431 (1984)",,,,3a4f1986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107550," "
-3395bc0e-9bac-11eb-a8a2-19ed5c03f8d3,species,howickensis,Poeltiaria,,"(Vain.) Rambold & Haiduk",,1989,,"in Rambold, Biblthca Lichenol. 34: 271 (1989)",,,,03e2e342-9bac-11eb-a8a2-19ed5c03f8d3,,,,,125882,"  Asking DLH for author's initial, if no go writing to Rambold."
-284c4dc2-9bac-11eb-a8a2-19ed5c03f8d3,species,turgescens,Poeltiaria,,"(Körb.) Hertel",,1984,,"Beih. Nova Hedwigia 79: 431 (1984)",,,,8a619458-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107551," "
-284c9052-9bac-11eb-a8a2-19ed5c03f8d3,species,urbanskyana,Poeltiaria,,"(Zahlbr.) Hertel",,1984,,"Beih. Nova Hedwigia 79: 432 (1984)",,,,03402462-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107552," "
+a088bc20-9bad-11eb-a8a2-19ed5c03f8d3,genus,Poeltiaria,,,Hertel,Q21339245,1984,,"Nova Hedwigia, Beih. 79: 430 (1984)",,,,a088bc20-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25661," "
+339b8012-9bac-11eb-a8a2-19ed5c03f8d3,species,coromandelica,Poeltiaria,,"(Zahlbr.) Rambold & Hertel","Q2833235,Q21339245",1989,,"in Rambold, Biblthca Lichenol. 34: 265 (1989)",,,,3a4ee1aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,125881," "
+284c05b0-9bac-11eb-a8a2-19ed5c03f8d3,species,corralensis,Poeltiaria,,"(Räsänen) Hertel",Q21339245,1984,,"Beih. Nova Hedwigia 79: 431 (1984)",,,,3a4f1986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107550," "
+3395bc0e-9bac-11eb-a8a2-19ed5c03f8d3,species,howickensis,Poeltiaria,,"(Vain.) Rambold & Haiduk",Q4351122,1989,,"in Rambold, Biblthca Lichenol. 34: 271 (1989)",,,,03e2e342-9bac-11eb-a8a2-19ed5c03f8d3,,,,,125882,"  Asking DLH for author's initial, if no go writing to Rambold."
+284c4dc2-9bac-11eb-a8a2-19ed5c03f8d3,species,turgescens,Poeltiaria,,"(Körb.) Hertel",Q21339245,1984,,"Beih. Nova Hedwigia 79: 431 (1984)",,,,8a619458-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107551," "
+284c9052-9bac-11eb-a8a2-19ed5c03f8d3,species,urbanskyana,Poeltiaria,,"(Zahlbr.) Hertel","Q2833235,Q21339245",1984,,"Beih. Nova Hedwigia 79: 432 (1984)",,,,03402462-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107552," "

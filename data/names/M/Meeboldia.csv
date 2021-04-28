@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e677625a-8fd1-11eb-924d-9cd76263cbd0,genus,Meeboldia,,,H.Wolff,,1924,,"Repert. Spec. Nov. Regni Veg. 19: 313. 1924.",,Q55808514,,,,40234-1,wfo-4000023457,3631689,,
-b8450216-8fd1-11eb-924d-9cd76263cbd0,species,achilleifolia,Meeboldia,,"(DC.) P.K.Mukh. & Constance",,1991,,"Edinburgh J. Bot. 48(1): 44 1991",,Q55755898,,addeb966-8fd1-11eb-924d-9cd76263cbd0,,962506-1,wfo-0001239742,3631743,,
-334c08de-8fcc-11eb-924d-9cd76263cbd0,species,digitata,Meeboldia,,"(Kljuykov) M.F.Watson",,1996,,"Edinburgh J. Bot. 53: 137 1996",,Q55755849,,62a98fd4-8fcc-11eb-924d-9cd76263cbd0,,987306-1,wfo-0000372747,3631732,,
-334426b4-8fcc-11eb-924d-9cd76263cbd0,species,selinoides,Meeboldia,,H.Wolff,,1924,,"Repert. Spec. Nov. Regni Veg. 19: 313 1924",,Q55808514,,,,844900-1,wfo-0000372719,3631721,,
-3527556e-8fcc-11eb-924d-9cd76263cbd0,species,variabilis,Meeboldia,,"Pax & K.Hoffm.",,1936,,"Nat. Pflanzenfam. ed. 2 17b: 188 1936",,,,,,147807-1,wfo-0000375808,6042881,,
-ad7eb23c-8fd1-11eb-924d-9cd76263cbd0,species,yunnanensis,Meeboldia,,"(H.Wolff) Constance & F.T.Pu",,1998,,"Novon 8(1): 70 1998",,,,bb22c3aa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001220004,3631688,,
+e677625a-8fd1-11eb-924d-9cd76263cbd0,genus,Meeboldia,,,H.Wolff,Q4124761,1924,,"Repert. Spec. Nov. Regni Veg. 19: 313. 1924.",,Q55808514,,,,40234-1,wfo-4000023457,3631689,,
+b8450216-8fd1-11eb-924d-9cd76263cbd0,species,achilleifolia,Meeboldia,,"(DC.) P.K.Mukh. & Constance","Q123057,Q6084041,Q4231273",1991,,"Edinburgh J. Bot. 48(1): 44 1991",,Q55755898,,addeb966-8fd1-11eb-924d-9cd76263cbd0,,962506-1,wfo-0001239742,3631743,,
+334c08de-8fcc-11eb-924d-9cd76263cbd0,species,digitata,Meeboldia,,"(Kljuykov) M.F.Watson","Q18619790,Q19003241",1996,,"Edinburgh J. Bot. 53: 137 1996",,Q55755849,,62a98fd4-8fcc-11eb-924d-9cd76263cbd0,,987306-1,wfo-0000372747,3631732,,
+334426b4-8fcc-11eb-924d-9cd76263cbd0,species,selinoides,Meeboldia,,H.Wolff,Q4124761,1924,,"Repert. Spec. Nov. Regni Veg. 19: 313 1924",,Q55808514,,,,844900-1,wfo-0000372719,3631721,,
+3527556e-8fcc-11eb-924d-9cd76263cbd0,species,variabilis,Meeboldia,,"Pax & K.Hoffm.","Q64244,Q2601446",1936,,"Nat. Pflanzenfam. ed. 2 17b: 188 1936",,,,,,147807-1,wfo-0000375808,6042881,,
+ad7eb23c-8fd1-11eb-924d-9cd76263cbd0,species,yunnanensis,Meeboldia,,"(H.Wolff) Constance & F.T.Pu","Q4124761,Q4231273,Q19001542",1998,,"Novon 8(1): 70 1998",,,,bb22c3aa-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001220004,3631688,,

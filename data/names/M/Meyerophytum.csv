@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6a4cae2-8fd1-11eb-924d-9cd76263cbd0,genus,Meyerophytum,,,Schwantes,,1927,,"Möller's Deutsche Gärtn.-Zeitung 42: 436. 1927.",,,,,,16257-1,wfo-4000023981,7329226,,
-332c67a4-8fcc-11eb-924d-9cd76263cbd0,species,globosum,Meyerophytum,,"(L.Bolus) Ihlenf.",,2002,,"Illustr. Handb. Succ. Pl.: Aizoaceae F-Z: 170 2002 publ. 2001",,,,,,20004203-1,wfo-0000372615,8665989,,
-d918fdc6-8fd1-11eb-924d-9cd76263cbd0,species,meyeri,Meyerophytum,,"(Schwantes) Schwantes",,1927,,"Möller's Deutsche Gärtn.-Zeitung 42: 437 1927",,,,,,363638-1,wfo-0001293634,3703745,,
-d8d310cc-8fd1-11eb-924d-9cd76263cbd0,species,microstigma,Meyerophytum,,L.Bolus,,,,,,,,,,,wfo-0001293133,3703736,,
-d8d32bca-8fd1-11eb-924d-9cd76263cbd0,species,primosii,Meyerophytum,,L.Bolus,,,,,,,,,,,wfo-0001293134,3703728,,
-d919b018-8fd1-11eb-924d-9cd76263cbd0,species,tinctum,Meyerophytum,,Schwantes,,,,,,,,,,,wfo-0001293637,8110725,,
+e6a4cae2-8fd1-11eb-924d-9cd76263cbd0,genus,Meyerophytum,,,Schwantes,Q78016,1927,,"Möller's Deutsche Gärtn.-Zeitung 42: 436. 1927.",,,,,,16257-1,wfo-4000023981,7329226,,
+332c67a4-8fcc-11eb-924d-9cd76263cbd0,species,globosum,Meyerophytum,,"(L.Bolus) Ihlenf.","Q63764,Q5891844",2002,,"Illustr. Handb. Succ. Pl.: Aizoaceae F-Z: 170 2002 publ. 2001",,,,,,20004203-1,wfo-0000372615,8665989,,
+d918fdc6-8fd1-11eb-924d-9cd76263cbd0,species,meyeri,Meyerophytum,,"(Schwantes) Schwantes",Q78016,1927,,"Möller's Deutsche Gärtn.-Zeitung 42: 437 1927",,,,,,363638-1,wfo-0001293634,3703745,,
+d8d310cc-8fd1-11eb-924d-9cd76263cbd0,species,microstigma,Meyerophytum,,L.Bolus,Q63764,,,,,,,,,,wfo-0001293133,3703736,,
+d8d32bca-8fd1-11eb-924d-9cd76263cbd0,species,primosii,Meyerophytum,,L.Bolus,Q63764,,,,,,,,,,wfo-0001293134,3703728,,
+d919b018-8fd1-11eb-924d-9cd76263cbd0,species,tinctum,Meyerophytum,,Schwantes,Q78016,,,,,,,,,,wfo-0001293637,8110725,,

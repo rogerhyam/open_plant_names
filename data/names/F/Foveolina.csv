@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3ca4996-8fd1-11eb-924d-9cd76263cbd0,genus,Foveolina,,,Källersjö,,,,,,Q43296815,,,,925103-1,wfo-4000014989,3121741,,
-73fde3bc-8fb2-11eb-924d-9cd76263cbd0,species,albida,Foveolina,,"(DC.) Källersjö",,1988,,"319 1988",,,,,,,wfo-0000024980,3121753,,
-26a8af66-8fb2-11eb-924d-9cd76263cbd0,species,albidiformis,Foveolina,,"(Thell.) Källersjö",,1988,,"320 1988",,,,43cae1c4-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000013664,3121757,,
-b0e4beaa-8fb6-11eb-924d-9cd76263cbd0,species,dichotoma,Foveolina,,"(DC.) Källersjö",,1988,,"319 1988",,,,,,,wfo-0000092139,3121745,,
-d8d9e766-8fb4-11eb-924d-9cd76263cbd0,species,schinziana,Foveolina,,"(Thell.) Källersjö",,1988,,"320 1988",,,,66fda558-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000070651,3121760,,
-bb05c930-8fb9-11eb-924d-9cd76263cbd0,species,tenella,Foveolina,,"(DC.) Källersjö",,1988,,"319 1988",,,,,,,wfo-0000120886,3121742,,
+e3ca4996-8fd1-11eb-924d-9cd76263cbd0,genus,Foveolina,,,Källersjö,Q5997233,,,,,Q43296815,,,,925103-1,wfo-4000014989,3121741,,
+73fde3bc-8fb2-11eb-924d-9cd76263cbd0,species,albida,Foveolina,,"(DC.) Källersjö","Q123057,Q5997233",1988,,"319 1988",,,,,,,wfo-0000024980,3121753,,
+26a8af66-8fb2-11eb-924d-9cd76263cbd0,species,albidiformis,Foveolina,,"(Thell.) Källersjö","Q124109,Q5997233",1988,,"320 1988",,,,43cae1c4-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000013664,3121757,,
+b0e4beaa-8fb6-11eb-924d-9cd76263cbd0,species,dichotoma,Foveolina,,"(DC.) Källersjö","Q123057,Q5997233",1988,,"319 1988",,,,,,,wfo-0000092139,3121745,,
+d8d9e766-8fb4-11eb-924d-9cd76263cbd0,species,schinziana,Foveolina,,"(Thell.) Källersjö","Q124109,Q5997233",1988,,"320 1988",,,,66fda558-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000070651,3121760,,
+bb05c930-8fb9-11eb-924d-9cd76263cbd0,species,tenella,Foveolina,,"(DC.) Källersjö","Q123057,Q5997233",1988,,"319 1988",,,,,,,wfo-0000120886,3121742,,

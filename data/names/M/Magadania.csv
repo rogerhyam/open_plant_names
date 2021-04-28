@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e644a248-8fd1-11eb-924d-9cd76263cbd0,genus,Magadania,,,"Pimenov & Lavrova",,1985,,"Bot. Žhurn. (Moscow & Leningrad) 70: 530. 1985.",,,,,,893462-1,wfo-4000022854,3232374,,
-3357c57a-8fcc-11eb-924d-9cd76263cbd0,species,olaensis,Magadania,,"(Gorovoj & N.S.Pavlova) Pimenov & Lavrova",,1985,,"Bot. Zhurn. (Moscow & Leningrad) 70: 532 1985",,,,,,915246-1,wfo-0000372785,5538058,,
-33585314-8fcc-11eb-924d-9cd76263cbd0,species,victoris,Magadania,,"(Schischk.) Pimenov & Lavrova",,1985,,"Bot. Zhurn. (Moscow & Leningrad) 70: 531 1985",,,,d1332de8-8fcc-11eb-924d-9cd76263cbd0,,915247-1,wfo-0000372786,5538057,,
+e644a248-8fd1-11eb-924d-9cd76263cbd0,genus,Magadania,,,"Pimenov & Lavrova","Q6012784,Q18857123",1985,,"Bot. Žhurn. (Moscow & Leningrad) 70: 530. 1985.",,,,,,893462-1,wfo-4000022854,3232374,,
+3357c57a-8fcc-11eb-924d-9cd76263cbd0,species,olaensis,Magadania,,"(Gorovoj & N.S.Pavlova) Pimenov & Lavrova","Q4144817,Q21522718,Q6012784,Q18857123",1985,,"Bot. Zhurn. (Moscow & Leningrad) 70: 532 1985",,,,,,915246-1,wfo-0000372785,5538058,,
+33585314-8fcc-11eb-924d-9cd76263cbd0,species,victoris,Magadania,,"(Schischk.) Pimenov & Lavrova","Q893705,Q6012784,Q18857123",1985,,"Bot. Zhurn. (Moscow & Leningrad) 70: 531 1985",,,,d1332de8-8fcc-11eb-924d-9cd76263cbd0,,915247-1,wfo-0000372786,5538057,,
 1a354d82-8fcd-11eb-924d-9cd76263cbd0,species,cavanilesii,Magallana,,Scala,,1929,,"Revista Mus. La Plata, Secc. Bot. 32: 23 1929",,,,,,,wfo-0000747479,,,
-6cba5c10-8fcc-11eb-924d-9cd76263cbd0,species,porifolia,Magallana,,Cav.,,1798,,"Icon. 4: 51 1798",,,,,,,wfo-0000451603,4162483,,
-6cb978ea-8fcc-11eb-924d-9cd76263cbd0,species,trialata,Magallana,,Suess.,,1932,,"Repert. Spec. Nov. Regni Veg. 30: 276 1932",,Q55753803,,,,149259-2,wfo-0000451593,4162407,,
+6cba5c10-8fcc-11eb-924d-9cd76263cbd0,species,porifolia,Magallana,,Cav.,Q545430,1798,,"Icon. 4: 51 1798",,,,,,,wfo-0000451603,4162483,,
+6cb978ea-8fcc-11eb-924d-9cd76263cbd0,species,trialata,Magallana,,Suess.,Q91125,1932,,"Repert. Spec. Nov. Regni Veg. 30: 276 1932",,Q55753803,,,,149259-2,wfo-0000451593,4162407,,

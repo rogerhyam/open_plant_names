@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1b0ed36-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysochamela,,,"(Fenzl) Boiss.",,1867,,"Fl. Orient. 1: 313. 1867.",,,,,,12448-1,wfo-4000008194,3044696,,
-c90e6006-8fcc-11eb-924d-9cd76263cbd0,species,draboides,Chrysochamela,,Woronow,,1931,,"Trudy Bot. Sada Akad. Nauk S.S.S.R. 43: 397 1931",,,,,,281278-1,wfo-0000603757,3044699,,
-c90e7f0a-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Chrysochamela,,"(Boiss.) Boiss.",,1867,,"Fl. Orient. 1: 314 1867",,,,,,281279-1,wfo-0000603758,3044701,,
-c90e9b2a-8fcc-11eb-924d-9cd76263cbd0,species,noeana,Chrysochamela,,"(Boiss.) Boiss.",,1867,,"Fl. Orient. 1: 314 1867",,,,,,281280-1,wfo-0000603759,3692413,,
-c90eb664-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Chrysochamela,,"(DC.) Boiss.",,1867,,"Fl. Orient. 1: 313 1867",,,,,,281281-1,wfo-0000603760,3044702,,
-c90ed590-8fcc-11eb-924d-9cd76263cbd0,variety,aurea,Chrysochamela,velutina,"(Fenzl) Schultz",,,,,,,,aca834e0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000603761,8237230,,
+e1b0ed36-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysochamela,,,"(Fenzl) Boiss.","Q113291,Q34430",1867,,"Fl. Orient. 1: 313. 1867.",,,,,,12448-1,wfo-4000008194,3044696,,
+c90e6006-8fcc-11eb-924d-9cd76263cbd0,species,draboides,Chrysochamela,,Woronow,Q355867,1931,,"Trudy Bot. Sada Akad. Nauk S.S.S.R. 43: 397 1931",,,,,,281278-1,wfo-0000603757,3044699,,
+c90e7f0a-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Chrysochamela,,"(Boiss.) Boiss.",Q34430,1867,,"Fl. Orient. 1: 314 1867",,,,,,281279-1,wfo-0000603758,3044701,,
+c90e9b2a-8fcc-11eb-924d-9cd76263cbd0,species,noeana,Chrysochamela,,"(Boiss.) Boiss.",Q34430,1867,,"Fl. Orient. 1: 314 1867",,,,,,281280-1,wfo-0000603759,3692413,,
+c90eb664-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Chrysochamela,,"(DC.) Boiss.","Q123057,Q34430",1867,,"Fl. Orient. 1: 313 1867",,,,,,281281-1,wfo-0000603760,3044702,,
+c90ed590-8fcc-11eb-924d-9cd76263cbd0,variety,aurea,Chrysochamela,velutina,"(Fenzl) Schultz","Q113291,Q8263441",,,,,,,aca834e0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000603761,8237230,,

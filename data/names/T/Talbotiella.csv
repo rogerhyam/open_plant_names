@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb143af4-8fd1-11eb-924d-9cd76263cbd0,genus,Talbotiella,,,"Baker f.",,,,,,,,,,23657-1,wfo-4000037473,2944645,,
-ae8617aa-8fcd-11eb-924d-9cd76263cbd0,species,bakossiensis,Talbotiella,,Cheek,,,,"Kew Bull. 65(3): 404, 1",,Q54778400,,,,77105954-1,wfo-0001040374,8022170,,
-407bc07c-8fc1-11eb-924d-9cd76263cbd0,species,batesii,Talbotiella,,"Baker f.",,,,,,,,,,,wfo-0000170892,2944647,,
-40ddc90c-8fc1-11eb-924d-9cd76263cbd0,species,eketensis,Talbotiella,,"Baker f.",,,,,,,,,,,wfo-0000170903,2944646,,
-4155a738-8fc1-11eb-924d-9cd76263cbd0,species,gentii,Talbotiella,,"Hutch. & Greenway",,,,,,,,,,,wfo-0000170914,2944648,,
+eb143af4-8fd1-11eb-924d-9cd76263cbd0,genus,Talbotiella,,,"Baker f.",Q4081202,,,,,,,,,23657-1,wfo-4000037473,2944645,,
+ae8617aa-8fcd-11eb-924d-9cd76263cbd0,species,bakossiensis,Talbotiella,,Cheek,Q8932006,,,"Kew Bull. 65(3): 404, 1",,Q54778400,,,,77105954-1,wfo-0001040374,8022170,,
+407bc07c-8fc1-11eb-924d-9cd76263cbd0,species,batesii,Talbotiella,,"Baker f.",Q4081202,,,,,,,,,,wfo-0000170892,2944647,,
+40ddc90c-8fc1-11eb-924d-9cd76263cbd0,species,eketensis,Talbotiella,,"Baker f.",Q4081202,,,,,,,,,,wfo-0000170903,2944646,,
+4155a738-8fc1-11eb-924d-9cd76263cbd0,species,gentii,Talbotiella,,"Hutch. & Greenway","Q253917,Q21340663",,,,,,,,,,wfo-0000170914,2944648,,

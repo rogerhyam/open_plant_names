@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4754f30-8fd1-11eb-924d-9cd76263cbd0,genus,Hattoriella,,,"(Inoue) Inoue",,1960,,"J. Hattori Bot. Lab. 23: 39. 1960[1961].",,,,,,,wfo-4000017021,2689397,,
-fd2069c4-8fcd-11eb-924d-9cd76263cbd0,species,diversiloba,Hattoriella,,"(S.Hatt.) Inoue",,1960,,"J. Hattori Bot. Lab. 23: 40 1960",,,,f7dc12f6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210710,7355706,,
-fd5883f4-8fcd-11eb-924d-9cd76263cbd0,species,mayebarae,Hattoriella,,"(S.Hatt.) Inoue",,1960,,"J. Hattori Bot. Lab. 23: 40 1960",,,,,,,wfo-0001211215,8148579,,
-fdf244b2-8fcd-11eb-924d-9cd76263cbd0,species,morrisoncola,Hattoriella,,"(Horik.) Bakalin, Vadim A.",,2003,,"Arctoa 12: 93 2003",,,,f8c168ec-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212550,2689398,,
-fdf282ec-8fcd-11eb-924d-9cd76263cbd0,species,subcrispa,Hattoriella,,"(Herzog) Bakalin, Vadim A.",,2003,,"Arctoa 12: 94 2003",,,,fdf26334-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212552,2689399,,
+e4754f30-8fd1-11eb-924d-9cd76263cbd0,genus,Hattoriella,,,"(Inoue) Inoue",Q5770856,1960,,"J. Hattori Bot. Lab. 23: 39. 1960[1961].",,,,,,,wfo-4000017021,2689397,,
+fd2069c4-8fcd-11eb-924d-9cd76263cbd0,species,diversiloba,Hattoriella,,"(S.Hatt.) Inoue","Q15927206,Q5770856",1960,,"J. Hattori Bot. Lab. 23: 40 1960",,,,f7dc12f6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210710,7355706,,
+fd5883f4-8fcd-11eb-924d-9cd76263cbd0,species,mayebarae,Hattoriella,,"(S.Hatt.) Inoue","Q15927206,Q5770856",1960,,"J. Hattori Bot. Lab. 23: 40 1960",,,,,,,wfo-0001211215,8148579,,
+fdf244b2-8fcd-11eb-924d-9cd76263cbd0,species,morrisoncola,Hattoriella,,"(Horik.) Bakalin, Vadim A.","Q21341049,Q21505572",2003,,"Arctoa 12: 93 2003",,,,f8c168ec-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212550,2689398,,
+fdf282ec-8fcd-11eb-924d-9cd76263cbd0,species,subcrispa,Hattoriella,,"(Herzog) Bakalin, Vadim A.","Q98278,Q21505572",2003,,"Arctoa 12: 94 2003",,,,fdf26334-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212552,2689399,,

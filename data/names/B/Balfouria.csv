@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e00af756-8fd1-11eb-924d-9cd76263cbd0,genus,Balfouria,,,H.Ohba,,1995,,1995.,,,,,,,wfo-4000003959,7334532,,
-acb67d08-8fcc-11eb-924d-9cd76263cbd0,species,balfourii,Balfouria,,"(Raym.-Hamet) H.Ohba",,1995,,"Evol. & Syst. Crassulac. 156 1995",,,,dcdb8ff0-8fd1-11eb-924d-9cd76263cbd0,,986631-1,wfo-0000558780,6062987,,
-0f433c3c-8fcc-11eb-924d-9cd76263cbd0,species,saligna,Balfouria,,R.Br.,,1810,,"Prodr. Fl. Nov. Holl. 467 1810",,Q7247677,,,,77531-1,wfo-0000314132,5535542,,
-0f49557c-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Balfourina,,"(Hook.f.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 954 1891",,,,,,28808-2,wfo-0000314153,2904553,,
+e00af756-8fd1-11eb-924d-9cd76263cbd0,genus,Balfouria,,,H.Ohba,Q1100487,1995,,1995.,,,,,,,wfo-4000003959,7334532,,
+acb67d08-8fcc-11eb-924d-9cd76263cbd0,species,balfourii,Balfouria,,"(Raym.-Hamet) H.Ohba","Q5946776,Q1100487",1995,,"Evol. & Syst. Crassulac. 156 1995",,,,dcdb8ff0-8fd1-11eb-924d-9cd76263cbd0,,986631-1,wfo-0000558780,6062987,,
+0f433c3c-8fcc-11eb-924d-9cd76263cbd0,species,saligna,Balfouria,,R.Br.,Q155764,1810,,"Prodr. Fl. Nov. Holl. 467 1810",,Q7247677,,,,77531-1,wfo-0000314132,5535542,,
+0f49557c-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Balfourina,,"(Hook.f.) Kuntze","Q157501,Q62853",1891,,"Revis. Gen. Pl. 2: 954 1891",,,,,,28808-2,wfo-0000314153,2904553,,

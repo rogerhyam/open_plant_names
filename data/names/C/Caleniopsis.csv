@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a1e8f71a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Caleniopsis,,,"Vezda & Poelt",,1987,,"Folia geobot. phytotax. 22: 187 (1987)",,,,a1e8f71a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25401," "
-2b9aed5c-9bad-11eb-a8a2-19ed5c03f8d3,species,aggregata,Caleniopsis,,"(R. Sant.) Lücking, Sérus. & Vezda",,2005,,"Lichenologist 37(2): 163 (2005)",,,,390a46f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,347244," "
-3f1714b0-9bac-11eb-a8a2-19ed5c03f8d3,species,conspersa,Caleniopsis,,"(Stirt.) Lücking, Sérus. & Vezda",,2005,,"Lichenologist 37(2): 163 (2005)",,,,8caa3d8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,347628," "
-381bc764-9bac-11eb-a8a2-19ed5c03f8d3,species,laevigata,Caleniopsis,,"(Müll. Arg.) Vezda & Poelt",,1987,,"Folia geobot. phytotax. 22: 187 (1987)",,,,419c11c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,131105," laevigatum"
-a40e59b4-9bac-11eb-a8a2-19ed5c03f8d3,species,laevigatum,Caleniopsis,,"(Müll. Arg.) Vezda & Poelt",,,,,,,,419c11c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,254128," Caleniopsis laevigata"
+a1e8f71a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Caleniopsis,,,"Vezda & Poelt",Q3184048,1987,,"Folia geobot. phytotax. 22: 187 (1987)",,,,a1e8f71a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25401," "
+2b9aed5c-9bad-11eb-a8a2-19ed5c03f8d3,species,aggregata,Caleniopsis,,"(R. Sant.) Lücking, Sérus. & Vezda",Q21339085,2005,,"Lichenologist 37(2): 163 (2005)",,,,390a46f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,347244," "
+3f1714b0-9bac-11eb-a8a2-19ed5c03f8d3,species,conspersa,Caleniopsis,,"(Stirt.) Lücking, Sérus. & Vezda","Q4442403,Q21339085",2005,,"Lichenologist 37(2): 163 (2005)",,,,8caa3d8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,347628," "
+381bc764-9bac-11eb-a8a2-19ed5c03f8d3,species,laevigata,Caleniopsis,,"(Müll. Arg.) Vezda & Poelt",Q3184048,1987,,"Folia geobot. phytotax. 22: 187 (1987)",,,,419c11c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,131105," laevigatum"
+a40e59b4-9bac-11eb-a8a2-19ed5c03f8d3,species,laevigatum,Caleniopsis,,"(Müll. Arg.) Vezda & Poelt",Q3184048,,,,,,,419c11c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,254128," Caleniopsis laevigata"
 6ea1dc4c-9bac-11eb-a8a2-19ed5c03f8d3,species,tetramera,Caleniopsis,,Lücking,,1997,,"Biblthca Lichenol. 65: 46 (1997)",,,,6ea1dc4c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,437136," "
-60f7ee46-8fb9-11eb-924d-9cd76263cbd0,species,sarmentosa,Caleopsis,,"(Greenm.) Fedde",,1910,,"Repert. Spec. Nov. Regni Veg. 8 326 1910",,Q55751832,,,,42023-2,wfo-0000117864,3139517,,
+60f7ee46-8fb9-11eb-924d-9cd76263cbd0,species,sarmentosa,Caleopsis,,"(Greenm.) Fedde","Q933930,Q87035",1910,,"Repert. Spec. Nov. Regni Veg. 8 326 1910",,Q55751832,,,,42023-2,wfo-0000117864,3139517,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9f6c9960-9bad-11eb-a8a2-19ed5c03f8d3,genus,Griphosphaerioma,,,Höhn.,,1918,,"Ber. dt. bot. Ges. 36: 312 (1918)",,,,9f6c9960-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2140," "
-9c06a8b0-9bad-11eb-a8a2-19ed5c03f8d3,species,kansensis,Griphosphaerioma,,"(Ellis & Everh.) Shoemaker",,,,"Can. J. Bot. 41: 1419 (1963)",,,,71e2da28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,331525," "
-e54b0fd0-9bac-11eb-a8a2-19ed5c03f8d3,species,symphoricarpi,Griphosphaerioma,,"(Ellis & Everh.) Höhn. ex Petr.",,,,,,,,,,,,,279652," "
+9f6c9960-9bad-11eb-a8a2-19ed5c03f8d3,genus,Griphosphaerioma,,,Höhn.,Q4502879,1918,,"Ber. dt. bot. Ges. 36: 312 (1918)",,,,9f6c9960-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2140," "
+9c06a8b0-9bad-11eb-a8a2-19ed5c03f8d3,species,kansensis,Griphosphaerioma,,"(Ellis & Everh.) Shoemaker",Q6206643,,,"Can. J. Bot. 41: 1419 (1963)",,,,71e2da28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,331525," "
+e54b0fd0-9bac-11eb-a8a2-19ed5c03f8d3,species,symphoricarpi,Griphosphaerioma,,"(Ellis & Everh.) Höhn. ex Petr.","Q6206643,Q4502879,Q4360385",,,,,,,,,,,,279652," "
 756c768a-9bad-11eb-a8a2-19ed5c03f8d3,species,zelkovicola,Griphosphaerioma,,"Yas. Ono & Tak. Kobay.",,2003,,"Mycoscience 44(2): 109 (2003)",,,,756c768a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,489544," "
-06d1277a-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Gripidea,,Miers,,1865,,"Trans. Linn. Soc. London 25: 235 1865",,,,,,,wfo-0000710449,8311509,,
-06d14872-8fcd-11eb-924d-9cd76263cbd0,species,scabra,Gripidea,,Miers,,1865,,"Trans. Linn. Soc. London 25: 235 1865",,Q55760770,,,,113646-2,wfo-0000710450,4021139,,
+06d1277a-8fcd-11eb-924d-9cd76263cbd0,species,aspera,Gripidea,,Miers,Q575253,1865,,"Trans. Linn. Soc. London 25: 235 1865",,,,,,,wfo-0000710449,8311509,,
+06d14872-8fcd-11eb-924d-9cd76263cbd0,species,scabra,Gripidea,,Miers,Q575253,1865,,"Trans. Linn. Soc. London 25: 235 1865",,Q55760770,,,,113646-2,wfo-0000710450,4021139,,

@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 0df6f3f0-9bac-11eb-a8a2-19ed5c03f8d3,genus,Epiphyma,,,Theiss.,,1916,,"Verh. zool.-bot. Ges. Wein 66: 306 (1916)",,,,0df6f3f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,1871," "
-5b6f2986-9bac-11eb-a8a2-19ed5c03f8d3,species,anceps,Epiphyma,,"(Höhn.) Theiss.",,1916,,"Verh. zool.-bot. Ges. Wein (1916)",,,,,,,,,144599," "
-76a752d8-9bab-11eb-a8a2-19ed5c03f8d3,species,laurinum,Epiphyma,,"(Cooke) Theiss.",,1917,,"Annls mycol. 14(6): 404 (1917)",,,,4a6c3520-9bac-11eb-a8a2-19ed5c03f8d3,,,,,234978," "
-1318f8ec-9bac-11eb-a8a2-19ed5c03f8d3,species,mucunae,Epiphyma,,"(Racib.) Syd. & P. Syd.",,1916,,"Annls mycol. 14(5): 358 (1916)",,,,4a6e23f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502347," "
+5b6f2986-9bac-11eb-a8a2-19ed5c03f8d3,species,anceps,Epiphyma,,"(Höhn.) Theiss.",Q4502879,1916,,"Verh. zool.-bot. Ges. Wein (1916)",,,,,,,,,144599," "
+76a752d8-9bab-11eb-a8a2-19ed5c03f8d3,species,laurinum,Epiphyma,,"(Cooke) Theiss.",Q2351239,1917,,"Annls mycol. 14(6): 404 (1917)",,,,4a6c3520-9bac-11eb-a8a2-19ed5c03f8d3,,,,,234978," "
+1318f8ec-9bac-11eb-a8a2-19ed5c03f8d3,species,mucunae,Epiphyma,,"(Racib.) Syd. & P. Syd.",Q3045640,1916,,"Annls mycol. 14(5): 358 (1916)",,,,4a6e23f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502347," "
 ea5eec08-9bac-11eb-a8a2-19ed5c03f8d3,species,nervisequens,Epiphyma,,"(Chardón) J.H. Mill. & Burton",,1943,,"Mycologia 35(1): 89 (1943)",,,,df89ba56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286382," "
 5267a912-9bac-11eb-a8a2-19ed5c03f8d3,species,neurophilum,Epiphyma,,Theiss.,,1917,,"Annls mycol. 14(6): 404 (1917)",,,,5267a912-9bac-11eb-a8a2-19ed5c03f8d3,,,,,234899,"  The type was not cited in the original publication"
 56c308da-9bac-11eb-a8a2-19ed5c03f8d3,species,premnae,Epiphyma,,Syd.{?},,,,,,,,56c308da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235177," "
-4e39bae2-8fcc-11eb-924d-9cd76263cbd0,species,ophiuroides,Epiphystis,,Trin.,,1820,,"Fund. Agrost. 97 1820",,,,,,307318-1,wfo-0000408435,2715663,,
-4e3c0c16-8fcc-11eb-924d-9cd76263cbd0,species,allenii,Epiphyton,,"(Steyerm.) Maguire",,1958,,"Mem. New York Bot. Gard. 19(1): 31 1958",,,,,,715240-1,wfo-0000408448,5287518,,
-4e3d49a0-8fcc-11eb-924d-9cd76263cbd0,species,micranthera,Epiphyton,,Maguire,,1958,,"Mem. New York Bot. Gard. 10(1): 31 1958",,,,,,92766-2,wfo-0000408456,5287517,,
+4e39bae2-8fcc-11eb-924d-9cd76263cbd0,species,ophiuroides,Epiphystis,,Trin.,Q65867,1820,,"Fund. Agrost. 97 1820",,,,,,307318-1,wfo-0000408435,2715663,,
+4e3c0c16-8fcc-11eb-924d-9cd76263cbd0,species,allenii,Epiphyton,,"(Steyerm.) Maguire","Q250148,Q2695559",1958,,"Mem. New York Bot. Gard. 19(1): 31 1958",,,,,,715240-1,wfo-0000408448,5287518,,
+4e3d49a0-8fcc-11eb-924d-9cd76263cbd0,species,micranthera,Epiphyton,,Maguire,Q2695559,1958,,"Mem. New York Bot. Gard. 10(1): 31 1958",,,,,,92766-2,wfo-0000408456,5287517,,

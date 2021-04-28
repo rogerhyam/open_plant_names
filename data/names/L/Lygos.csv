@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e62a9678-8fd1-11eb-924d-9cd76263cbd0,genus,Lygos,,,,,,,,,,,,,,wfo-4000022534,7301918,,
-87e627b0-8fc9-11eb-924d-9cd76263cbd0,species,monosperma,Lygos,,"(L.) Heywood",,,,,,,,,,,wfo-0000213395,2965090,,
-b7314316-8fcd-11eb-924d-9cd76263cbd0,species,raetam,Lygos,,"(Forssk.) Heyw.",,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,28af2e2c-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0001060016,2965097,,
-88035dbc-8fc9-11eb-924d-9cd76263cbd0,variety,bovei,Lygos,raetam,"(Spach) Tackh. & Boulos",,,,,,,,,,,wfo-0000213397,2965089,,
-b809bd18-8fcd-11eb-924d-9cd76263cbd0,subspecies,gussonei,Lygos,raetam,"(Webb) Heyw.",,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,b65c1f56-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001061950,8168077,,
-b7316198-8fcd-11eb-924d-9cd76263cbd0,species,sphaerocarpa,Lygos,,"(L.) Heyw.",,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,,,,wfo-0001060017,2965094,,
+87e627b0-8fc9-11eb-924d-9cd76263cbd0,species,monosperma,Lygos,,"(L.) Heywood","Q1043,Q444382",,,,,,,,,,wfo-0000213395,2965090,,
+b7314316-8fcd-11eb-924d-9cd76263cbd0,species,raetam,Lygos,,"(Forssk.) Heyw.",Q27684,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,28af2e2c-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0001060016,2965097,,
+88035dbc-8fc9-11eb-924d-9cd76263cbd0,variety,bovei,Lygos,raetam,"(Spach) Tackh. & Boulos","Q274449,Q4983741,Q5981584",,,,,,,,,,wfo-0000213397,2965089,,
+b809bd18-8fcd-11eb-924d-9cd76263cbd0,subspecies,gussonei,Lygos,raetam,"(Webb) Heyw.",Q1113837,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,b65c1f56-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001061950,8168077,,
+b7316198-8fcd-11eb-924d-9cd76263cbd0,species,sphaerocarpa,Lygos,,"(L.) Heyw.",Q1043,1968,,"Feddes Repert. 79(1–2): 53 1968",,,,,,,wfo-0001060017,2965094,,

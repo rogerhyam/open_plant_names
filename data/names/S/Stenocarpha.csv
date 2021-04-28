@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eac0b10e-8fd1-11eb-924d-9cd76263cbd0,genus,Stenocarpha,,,S.F.Blake,,,,,,Q55785888,,,,11132-1,wfo-4000036475,3097030,,
-fea086ba-8fb1-11eb-924d-9cd76263cbd0,species,filiformis,Stenocarpha,,"(Hemsl.) S.F.Blake",,1917,,"Contr. Gray Herb. 52 57 1917",,Q94388966,,,,244620-2,wfo-0000001788,3097032,,
-e51129de-8fb6-11eb-924d-9cd76263cbd0,species,filipes,Stenocarpha,,S.F.Blake,,,,348,,Q55785888,,,,251084-1,wfo-0000094296,4244545,,
-f4b5089e-8fb9-11eb-924d-9cd76263cbd0,species,ritovegana,Stenocarpha,,B.L.Turner,,1992,,1992,,,,,,,wfo-0000122774,3097031,,
+eac0b10e-8fd1-11eb-924d-9cd76263cbd0,genus,Stenocarpha,,,S.F.Blake,Q2332170,,,,,Q55785888,,,,11132-1,wfo-4000036475,3097030,,
+fea086ba-8fb1-11eb-924d-9cd76263cbd0,species,filiformis,Stenocarpha,,"(Hemsl.) S.F.Blake","Q1339247,Q2332170",1917,,"Contr. Gray Herb. 52 57 1917",,Q94388966,,,,244620-2,wfo-0000001788,3097032,,
+e51129de-8fb6-11eb-924d-9cd76263cbd0,species,filipes,Stenocarpha,,S.F.Blake,Q2332170,,,348,,Q55785888,,,,251084-1,wfo-0000094296,4244545,,
+f4b5089e-8fb9-11eb-924d-9cd76263cbd0,species,ritovegana,Stenocarpha,,B.L.Turner,Q4468157,1992,,1992,,,,,,,wfo-0000122774,3097031,,

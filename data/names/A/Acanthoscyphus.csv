@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deb91d92-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoscyphus,,,Small,,1898,,"Bull. Torrey Bot. Club 25(1): 53. 1898.",,Q55766555,,,,329611-2,wfo-4000000151,7726915,,
-9178a7e6-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Acanthoscyphus,,"(Parry) Small",,1898,,"Bull. Torrey Bot. Club 25: 53 1898",,Q55766555,,c980b844-8fcd-11eb-924d-9cd76263cbd0,,1691-2,wfo-0000513764,6391746,,
-9178c3e8-8fcc-11eb-924d-9cd76263cbd0,variety,abramsii,Acanthoscyphus,parishii,"(McGregor) Reveal",,2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,,,60436666-2,wfo-0000513765,4037578,,
-9178e1fc-8fcc-11eb-924d-9cd76263cbd0,variety,cienegensis,Acanthoscyphus,parishii,"(Ertter) Reveal",,2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,c98eff26-8fcd-11eb-924d-9cd76263cbd0,,60436667-2,wfo-0000513766,4037571,,
-9178ffde-8fcc-11eb-924d-9cd76263cbd0,variety,goodmaniana,Acanthoscyphus,parishii,"(Ertter) Reveal",,2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,c98f19f2-8fcd-11eb-924d-9cd76263cbd0,,60436668-2,wfo-0000513767,4037560,,
+deb91d92-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoscyphus,,,Small,Q2590065,1898,,"Bull. Torrey Bot. Club 25(1): 53. 1898.",,Q55766555,,,,329611-2,wfo-4000000151,7726915,,
+9178a7e6-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Acanthoscyphus,,"(Parry) Small","Q650220,Q2590065",1898,,"Bull. Torrey Bot. Club 25: 53 1898",,Q55766555,,c980b844-8fcd-11eb-924d-9cd76263cbd0,,1691-2,wfo-0000513764,6391746,,
+9178c3e8-8fcc-11eb-924d-9cd76263cbd0,variety,abramsii,Acanthoscyphus,parishii,"(McGregor) Reveal","Q21392272,Q1364160",2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,,,60436666-2,wfo-0000513765,4037578,,
+9178e1fc-8fcc-11eb-924d-9cd76263cbd0,variety,cienegensis,Acanthoscyphus,parishii,"(Ertter) Reveal","Q18984525,Q1364160",2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,c98eff26-8fcd-11eb-924d-9cd76263cbd0,,60436667-2,wfo-0000513766,4037571,,
+9178ffde-8fcc-11eb-924d-9cd76263cbd0,variety,goodmaniana,Acanthoscyphus,parishii,"(Ertter) Reveal","Q18984525,Q1364160",2004,,"Harvard Pap. Bot. 9: 144 2004",,Q95390103,,c98f19f2-8fcd-11eb-924d-9cd76263cbd0,,60436668-2,wfo-0000513767,4037560,,

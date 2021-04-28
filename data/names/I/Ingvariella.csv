@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a416be78-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ingvariella,,,"Guderley & Lumbsch",,1997,,"Nova Hedwigia 64(1-2): 152 (1997)",,,,a416be78-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27827," "
-c7801b58-9bac-11eb-a8a2-19ed5c03f8d3,species,bispora,Ingvariella,,"(Bagl.) Guderley & Lumbsch",,1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 152 (1997)",,,,4c4c6986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,436669," "
-63162bf2-9bad-11eb-a8a2-19ed5c03f8d3,variety,bispora,Ingvariella,bispora,"(Bagl.) Guderley & Lumbsch",,1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 152 (1997)",,,,4c4c6986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,439399," "
-66d788f4-9bac-11eb-a8a2-19ed5c03f8d3,variety,multispora,Ingvariella,bispora,"Guderley & Lumbsch",,1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 153 (1997)",,,,66d788f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,436670," "
-093b50b2-8fcd-11eb-924d-9cd76263cbd0,species,ingwersenii,,,E.F.Warb.,,1934,,"Hand-List Trees Shrubs ed. 4: 137 1934",,,,,,168631-1,wfo-0000714699,,,
+a416be78-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ingvariella,,,"Guderley & Lumbsch",Q21339029,1997,,"Nova Hedwigia 64(1-2): 152 (1997)",,,,a416be78-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27827," "
+c7801b58-9bac-11eb-a8a2-19ed5c03f8d3,species,bispora,Ingvariella,,"(Bagl.) Guderley & Lumbsch","Q3749589,Q21339029",1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 152 (1997)",,,,4c4c6986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,436669," "
+63162bf2-9bad-11eb-a8a2-19ed5c03f8d3,variety,bispora,Ingvariella,bispora,"(Bagl.) Guderley & Lumbsch","Q3749589,Q21339029",1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 152 (1997)",,,,4c4c6986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,439399," "
+66d788f4-9bac-11eb-a8a2-19ed5c03f8d3,variety,multispora,Ingvariella,bispora,"Guderley & Lumbsch",Q21339029,1997,,"in Guderley, Lumbsch & Feige, Nova Hedwigia 64(1-2): 153 (1997)",,,,66d788f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,436670," "
+093b50b2-8fcd-11eb-924d-9cd76263cbd0,species,ingwersenii,,,E.F.Warb.,Q5818760,1934,,"Hand-List Trees Shrubs ed. 4: 137 1934",,,,,,168631-1,wfo-0000714699,,,

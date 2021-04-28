@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e00ba43a-8fd1-11eb-924d-9cd76263cbd0,genus,Ballantinia,,,"Hook.f. ex Airy Shaw",,1974,,"Contr. Gray Herb. 205: 160–162, f. 1. 1974.",,Q94389239,,,,12346-1,wfo-4000003967,3053691,,
-acb961a8-8fcc-11eb-924d-9cd76263cbd0,species,antipoda,Ballantinia,,"(F.Muell.) Airy Shaw",,1974,,"Contr. Gray Herb. 205: 161 1974",,,,,,,wfo-0000558800,3053692,,
-0f8c72f8-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Ballardia,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 205 1860",,,,,,591174-1,wfo-0000314577,5419658,,
-acb97eb8-8fcc-11eb-924d-9cd76263cbd0,species,maritimum,Ballimon,,Raf.,,1838,,"New Fl. 4: 28 1838",,,,,,838666-1,wfo-0000558801,3630244,,
-acb99b3c-8fcc-11eb-924d-9cd76263cbd0,species,muricatulum,Ballimon,,"(L.) Raf.",,1838,,"New Fl. 4: 28 1838",,,,,,838667-1,wfo-0000558802,3630233,,
+e00ba43a-8fd1-11eb-924d-9cd76263cbd0,genus,Ballantinia,,,"Hook.f. ex Airy Shaw","Q157501,Q939981",1974,,"Contr. Gray Herb. 205: 160–162, f. 1. 1974.",,Q94389239,,,,12346-1,wfo-4000003967,3053691,,
+acb961a8-8fcc-11eb-924d-9cd76263cbd0,species,antipoda,Ballantinia,,"(F.Muell.) Airy Shaw","Q708002,Q939981",1974,,"Contr. Gray Herb. 205: 161 1974",,,,,,,wfo-0000558800,3053692,,
+0f8c72f8-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Ballardia,,Montrouz.,Q743935,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 205 1860",,,,,,591174-1,wfo-0000314577,5419658,,
+acb97eb8-8fcc-11eb-924d-9cd76263cbd0,species,maritimum,Ballimon,,Raf.,Q364857,1838,,"New Fl. 4: 28 1838",,,,,,838666-1,wfo-0000558801,3630244,,
+acb99b3c-8fcc-11eb-924d-9cd76263cbd0,species,muricatulum,Ballimon,,"(L.) Raf.","Q1043,Q364857",1838,,"New Fl. 4: 28 1838",,,,,,838667-1,wfo-0000558802,3630233,,

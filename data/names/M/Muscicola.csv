@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a7aa92c6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Muscicola,,,Velen.,,1934,,"Monogr. Discom. Bohem. (Prague) 1: 208 (1934)",,,,a7aa92c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25724," "
-263cddf8-9bac-11eb-a8a2-19ed5c03f8d3,species,dubia,Muscicola,,"(Velen.) Svrcek",,1984,,"Sb. nár. Mus. Praze 40B(3-4): 134 (1984)",,,,d90256b6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104503," "
-348bd8c8-8fcc-11eb-924d-9cd76263cbd0,species,australis,Muscipula,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,,155808-1,wfo-0000374734,3809717,,
-348c2b52-8fcc-11eb-924d-9cd76263cbd0,species,portensis,Muscipula,,Fourr.,,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,,155809-1,wfo-0000374737,3809706,,
-f208d77e-8fcd-11eb-924d-9cd76263cbd0,species,confertus,Muscites,,"Göpp. & Berendt",,1845,,"Bernstein 1(1): 112. pl. 6: f. 29–31 1845",,,,,,,wfo-0001187901,7994585,,
-f208f470-8fcd-11eb-924d-9cd76263cbd0,species,convolutus,Muscites,,Mägd.,,1957,,"Ber. Deutsch. Bot. Ges. 70: 435. 12 f. 1 1957",,,,,,,wfo-0001187902,8354772,,
-f209107c-8fcd-11eb-924d-9cd76263cbd0,species,elatinus,Muscites,,Saporta,,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 33. 1 f. 2 1865",,,,,,,wfo-0001187904,8256531,,
-f2092daa-8fcd-11eb-924d-9cd76263cbd0,species,oeningensis,Muscites,,A.Braun,,1851,,"Uebers. Verstein. Baden 72: 1851",,,,,,,wfo-0001187915,8227730,,
-f2094b32-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Muscites,,"Göpp. & Berendt",,1845,,"Bernstein 1(1): 111. 6 f. 27–28 1845",,,,,,,wfo-0001187921,8404480,,
-f2096e32-8fcd-11eb-924d-9cd76263cbd0,species,tortifolius,Muscites,,"Casp. & G.A.Klebs",,1906,,"Abh. Königl. Preuss. Geol. Landesanst. 4: 57. 8 f. 49 1906",,,,,,,wfo-0001187927,7881704,,
-f2098a7a-8fcd-11eb-924d-9cd76263cbd0,species,tournalii,Muscites,,Brongn.,,1928,,"Hist. Vég. Foss. 1: 93. 10 f. 1–2 1928",,,,,,,wfo-0001187928,7693212,,
+a7aa92c6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Muscicola,,,Velen.,Q950581,1934,,"Monogr. Discom. Bohem. (Prague) 1: 208 (1934)",,,,a7aa92c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25724," "
+263cddf8-9bac-11eb-a8a2-19ed5c03f8d3,species,dubia,Muscicola,,"(Velen.) Svrcek",Q950581,1984,,"Sb. nár. Mus. Praze 40B(3-4): 134 (1984)",,,,d90256b6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104503," "
+348bd8c8-8fcc-11eb-924d-9cd76263cbd0,species,australis,Muscipula,,Fourr.,Q925866,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,,155808-1,wfo-0000374734,3809717,,
+348c2b52-8fcc-11eb-924d-9cd76263cbd0,species,portensis,Muscipula,,Fourr.,Q925866,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 344 1868",,,,,,155809-1,wfo-0000374737,3809706,,
+f208d77e-8fcd-11eb-924d-9cd76263cbd0,species,confertus,Muscites,,"Göpp. & Berendt","Q62670,Q71348",1845,,"Bernstein 1(1): 112. pl. 6: f. 29–31 1845",,,,,,,wfo-0001187901,7994585,,
+f208f470-8fcd-11eb-924d-9cd76263cbd0,species,convolutus,Muscites,,Mägd.,Q1250009,1957,,"Ber. Deutsch. Bot. Ges. 70: 435. 12 f. 1 1957",,,,,,,wfo-0001187902,8354772,,
+f209107c-8fcd-11eb-924d-9cd76263cbd0,species,elatinus,Muscites,,Saporta,Q327351,1865,,"Ann. Sci. Nat., Bot., sér. 5, 4: 33. 1 f. 2 1865",,,,,,,wfo-0001187904,8256531,,
+f2092daa-8fcd-11eb-924d-9cd76263cbd0,species,oeningensis,Muscites,,A.Braun,Q62855,1851,,"Uebers. Verstein. Baden 72: 1851",,,,,,,wfo-0001187915,8227730,,
+f2094b32-8fcd-11eb-924d-9cd76263cbd0,species,serratus,Muscites,,"Göpp. & Berendt","Q62670,Q71348",1845,,"Bernstein 1(1): 111. 6 f. 27–28 1845",,,,,,,wfo-0001187921,8404480,,
+f2096e32-8fcd-11eb-924d-9cd76263cbd0,species,tortifolius,Muscites,,"Casp. & G.A.Klebs","Q65869,Q67250",1906,,"Abh. Königl. Preuss. Geol. Landesanst. 4: 57. 8 f. 49 1906",,,,,,,wfo-0001187927,7881704,,
+f2098a7a-8fcd-11eb-924d-9cd76263cbd0,species,tournalii,Muscites,,Brongn.,Q73990,1928,,"Hist. Vég. Foss. 1: 93. 10 f. 1–2 1928",,,,,,,wfo-0001187928,7693212,,

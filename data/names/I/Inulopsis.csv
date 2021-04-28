@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e51862d8-8fd1-11eb-924d-9cd76263cbd0,genus,Inulopsis,,,O.Hoffm.,,,,,,,,,,9490-1,wfo-4000019111,3089988,,
-a45ca8ae-8fb2-11eb-924d-9cd76263cbd0,species,camporum,Inulopsis,,"(Gardner) G.L.Nesom",,1994,,"Phytologia 76(2) 120 1994",,,,,,1047420-2,wfo-0000030568,3089990,,
-f4892154-8fb2-11eb-924d-9cd76263cbd0,species,phoenix,Inulopsis,,G.L.Nesom,,1994,,"Phytologia 76 118 1994",,,,,,312554-2,wfo-0000038309,3089994,,
-7ae8049e-8fb4-11eb-924d-9cd76263cbd0,species,scaposa,Inulopsis,,"(DC.) O.Hoffm.",,1890,,"149 1890",,,,,,128870-2,wfo-0000065683,3089995,,
-d6c93f06-8fbb-11eb-924d-9cd76263cbd0,species,stenophylla,Inulopsis,,Dusén,,1910,,"22, pl. 7 1910",,,,,,128871-2,wfo-0000137024,3089989,,
+e51862d8-8fd1-11eb-924d-9cd76263cbd0,genus,Inulopsis,,,O.Hoffm.,Q4147110,,,,,,,,,9490-1,wfo-4000019111,3089988,,
+a45ca8ae-8fb2-11eb-924d-9cd76263cbd0,species,camporum,Inulopsis,,"(Gardner) G.L.Nesom","Q2404423,Q5622397",1994,,"Phytologia 76(2) 120 1994",,,,,,1047420-2,wfo-0000030568,3089990,,
+f4892154-8fb2-11eb-924d-9cd76263cbd0,species,phoenix,Inulopsis,,G.L.Nesom,Q5622397,1994,,"Phytologia 76 118 1994",,,,,,312554-2,wfo-0000038309,3089994,,
+7ae8049e-8fb4-11eb-924d-9cd76263cbd0,species,scaposa,Inulopsis,,"(DC.) O.Hoffm.","Q123057,Q4147110",1890,,"149 1890",,,,,,128870-2,wfo-0000065683,3089995,,
+d6c93f06-8fbb-11eb-924d-9cd76263cbd0,species,stenophylla,Inulopsis,,Dusén,Q5625930,1910,,"22, pl. 7 1910",,,,,,128871-2,wfo-0000137024,3089989,,

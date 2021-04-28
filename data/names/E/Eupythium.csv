@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9f0a4030-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eupythium,,,Nieuwl.,,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,9f0a4030-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20225," "
-235eb764-9bac-11eb-a8a2-19ed5c03f8d3,species,anguillulae,Eupythium,,"(Sadeb.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,3e8f9476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100447," "
-24af1762-9bac-11eb-a8a2-19ed5c03f8d3,species,debaryanum,Eupythium,,"(R. Hesse) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,c966afea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102355," "
-244b5146-9bac-11eb-a8a2-19ed5c03f8d3,species,proliferum,Eupythium,,"(de Bary) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,7116e5bc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101772," "
-24255c20-9bac-11eb-a8a2-19ed5c03f8d3,species,sadebeckianum,Eupythium,,"(Wittm.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,3e9ff276-9bad-11eb-a8a2-19ed5c03f8d3,,,,,101562," "
-532ca0a4-8fcd-11eb-924d-9cd76263cbd0,species,pumilio,Euraphis,,"(Trin.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 776 1891",,,,5b8d9da2-8fcd-11eb-924d-9cd76263cbd0,,402214-1,wfo-0000869351,4154336,,
-532cbd0a-8fcd-11eb-924d-9cd76263cbd0,species,squarrosa,Euraphis,,"(Banks & Sol.) Soják",,1982,,"Cas. Nár. Mus., Odd. Prír. 150: 140 1982",,,,,,910653-1,wfo-0000869352,4131670,,
+9f0a4030-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eupythium,,,Nieuwl.,Q88145,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,9f0a4030-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20225," "
+235eb764-9bac-11eb-a8a2-19ed5c03f8d3,species,anguillulae,Eupythium,,"(Sadeb.) Nieuwl.","Q15925485,Q88145",1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,3e8f9476-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100447," "
+24af1762-9bac-11eb-a8a2-19ed5c03f8d3,species,debaryanum,Eupythium,,"(R. Hesse) Nieuwl.",Q88145,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,c966afea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102355," "
+244b5146-9bac-11eb-a8a2-19ed5c03f8d3,species,proliferum,Eupythium,,"(de Bary) Nieuwl.","Q58806,Q88145",1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,7116e5bc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101772," "
+24255c20-9bac-11eb-a8a2-19ed5c03f8d3,species,sadebeckianum,Eupythium,,"(Wittm.) Nieuwl.","Q67105,Q88145",1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,3e9ff276-9bad-11eb-a8a2-19ed5c03f8d3,,,,,101562," "
+532ca0a4-8fcd-11eb-924d-9cd76263cbd0,species,pumilio,Euraphis,,"(Trin.) Kuntze","Q65867,Q62853",1891,,"Revis. Gen. Pl. 2: 776 1891",,,,5b8d9da2-8fcd-11eb-924d-9cd76263cbd0,,402214-1,wfo-0000869351,4154336,,
+532cbd0a-8fcd-11eb-924d-9cd76263cbd0,species,squarrosa,Euraphis,,"(Banks & Sol.) Soják","Q153408,Q39789,Q4430625",1982,,"Cas. Nár. Mus., Odd. Prír. 150: 140 1982",,,,,,910653-1,wfo-0000869352,4131670,,

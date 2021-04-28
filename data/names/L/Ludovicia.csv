@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e61d79e8-8fd1-11eb-924d-9cd76263cbd0,genus,Ludovicia,,,Trevis.,,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 70 (1857)",,,,e61d79e8-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000022390,9752900,2951," "
-8bc449bc-9bad-11eb-a8a2-19ed5c03f8d3,species,aurata,Ludovicia,,"(Mont. & Bosch) Trevis.",,,,,,,,825f80ee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395076," "
+e61d79e8-8fd1-11eb-924d-9cd76263cbd0,genus,Ludovicia,,,Trevis.,Q634712,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova 5: 70 (1857)",,,,e61d79e8-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000022390,9752900,2951," "
+8bc449bc-9bad-11eb-a8a2-19ed5c03f8d3,species,aurata,Ludovicia,,"(Mont. & Bosch) Trevis.","Q1029228,Q3438551,Q634712",,,,,,,825f80ee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395076," "
 b36f0416-8fcd-11eb-924d-9cd76263cbd0,species,crenifolia,Ludovicia,,hort.,,1895,,"Ill. Hort. 42: 189 1895",,,,,,,wfo-0001051540,9775090,,
-8bbed5f4-9bad-11eb-a8a2-19ed5c03f8d3,species,imbricata,Ludovicia,,"(Hook.) Trevis.",,,,,,,,408c250a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395077," "
-b64eab64-8fcd-11eb-924d-9cd76263cbd0,species,kremeriana,Ludovicia,,Coss.,,1857,,"Bull. Soc. Bot. France 3: 675 1857",,Q55756452,,,,503988-1,wfo-0001057991,5631558,,
-8bc498ae-9bad-11eb-a8a2-19ed5c03f8d3,species,placophylla,Ludovicia,,"(Ach.) Trevis.",,1857,,"Revta Period. Lav. Regia Accad. Sci., Padova (1857)",,,,65aa8412-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395078," "
-1b8e2fec-8fb3-11eb-924d-9cd76263cbd0,species,ludoviciae,,,P.Fourn.,,,,"1001 1940",,,,,,188352-1,wfo-0000041732,,,
+8bbed5f4-9bad-11eb-a8a2-19ed5c03f8d3,species,imbricata,Ludovicia,,"(Hook.) Trevis.","Q472639,Q634712",,,,,,,408c250a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395077," "
+b64eab64-8fcd-11eb-924d-9cd76263cbd0,species,kremeriana,Ludovicia,,Coss.,Q1276939,1857,,"Bull. Soc. Bot. France 3: 675 1857",,Q55756452,,,,503988-1,wfo-0001057991,5631558,,
+8bc498ae-9bad-11eb-a8a2-19ed5c03f8d3,species,placophylla,Ludovicia,,"(Ach.) Trevis.","Q365923,Q634712",1857,,"Revta Period. Lav. Regia Accad. Sci., Padova (1857)",,,,65aa8412-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395078," "
+1b8e2fec-8fb3-11eb-924d-9cd76263cbd0,species,ludoviciae,,,P.Fourn.,Q3372376,,,"1001 1940",,,,,,188352-1,wfo-0000041732,,,

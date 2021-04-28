@@ -1,3 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6a16690-8fd1-11eb-924d-9cd76263cbd0,genus,Meterostachys,,,Nakai,,1935,,"Bot. Mag. (Tokyo) 49: 74. 1935.",,Q55762752,,,,12199-1,wfo-4000023943,7334002,,
-dcc9146a-8fd1-11eb-924d-9cd76263cbd0,species,sikokianus,Meterostachys,,"(Makino) Nakai",,1935,,"Bot. Mag. (Tokyo) 49(578): 74 1935",,Q55762752,,,,274569-1,wfo-0001300359,4197607,,
+e6a16690-8fd1-11eb-924d-9cd76263cbd0,genus,Meterostachys,,,Nakai,Q704751,1935,,"Bot. Mag. (Tokyo) 49: 74. 1935.",,Q55762752,,,,12199-1,wfo-4000023943,7334002,,
+dcc9146a-8fd1-11eb-924d-9cd76263cbd0,species,sikokianus,Meterostachys,,"(Makino) Nakai","Q729955,Q704751",1935,,"Bot. Mag. (Tokyo) 49(578): 74 1935",,Q55762752,,,,274569-1,wfo-0001300359,4197607,,

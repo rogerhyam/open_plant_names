@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a349cb52-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lepadolemma,,,Trevis.,,1853,,"Revta Period. Lav. Regia Accad. Sci., Padova 268 (1853)",,,,a349cb52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2739," "
-dcc0eae2-9bac-11eb-a8a2-19ed5c03f8d3,species,cinereo-virens,Lepadolemma,,"(Eschw.) Trevis.",,,,,,,,8787f16e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,268391," Lepadolemma cinereovirens"
-ee25841a-9bab-11eb-a8a2-19ed5c03f8d3,species,cinereovirens,Lepadolemma,,"(Eschw.) Trevis.",,,,,,,,8787f16e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367811," cinereo-virens"
-3a922604-9bad-11eb-a8a2-19ed5c03f8d3,species,diploloma,Lepadolemma,,"(Mont.) Trevis.",,,,,,,,af8f3852-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367812," "
-462f8ac4-9bad-11eb-a8a2-19ed5c03f8d3,species,haematomma,Lepadolemma,,"(Ehrh.) Gray",,,,,,,,8b219dd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393156," "
-4630029c-9bad-11eb-a8a2-19ed5c03f8d3,species,puniceum,Lepadolemma,,"(Sw.) Trevis.",,1853,,"Revta Period. Lav. Imp. Reale Acad., Padova 268 (1853)",,,,8b3cb48e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393157," "
-46302ff6-9bad-11eb-a8a2-19ed5c03f8d3,species,rubrum,Lepadolemma,,"(Hoffm.) Trevis.",,,,,,,,8df5f438-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393158," "
-46305bc0-9bad-11eb-a8a2-19ed5c03f8d3,species,russulum,Lepadolemma,,"(Ach.) Trevis.",,,,,,,,a08fe26c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,393159," "
-17a7bc94-9bad-11eb-a8a2-19ed5c03f8d3,species,ventosum,Lepadolemma,,"(L.) Trevis.",,,,,,,,46f1b734-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393160," "
-3737b230-8fcd-11eb-924d-9cd76263cbd0,species,cruttwellii,Lepanthanthe,,"(J.J.Verm.) Szlach.",,2007,,"Richardiana 7: 83 2007",,,,7d8d033a-8fcc-11eb-924d-9cd76263cbd0,,77081776-1,wfo-0000808959,2843324,,
-3737ce50-8fcd-11eb-924d-9cd76263cbd0,species,inquirenda,Lepanthanthe,,"(J.J.Verm.) Szlach.",,2007,,"Richardiana 7: 83 2007",,,,,,77081777-1,wfo-0000808960,2846036,,
-3737e78c-8fcd-11eb-924d-9cd76263cbd0,species,lepanthiflora,Lepanthanthe,,"(Schltr.) Szlach.",,2007,,"Richardiana 7: 83 2007",,,,e3526ddc-8fcb-11eb-924d-9cd76263cbd0,,77081778-1,wfo-0000808961,2843138,,
-37380316-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Lepanthanthe,,"(W.Kittr.) Szlach.",,2007,,"Richardiana 7: 83 2007",,,,,,77081779-1,wfo-0000808962,2844363,,
+a349cb52-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lepadolemma,,,Trevis.,Q634712,1853,,"Revta Period. Lav. Regia Accad. Sci., Padova 268 (1853)",,,,a349cb52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2739," "
+dcc0eae2-9bac-11eb-a8a2-19ed5c03f8d3,species,cinereo-virens,Lepadolemma,,"(Eschw.) Trevis.","Q5868678,Q634712",,,,,,,8787f16e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,268391," Lepadolemma cinereovirens"
+ee25841a-9bab-11eb-a8a2-19ed5c03f8d3,species,cinereovirens,Lepadolemma,,"(Eschw.) Trevis.","Q5868678,Q634712",,,,,,,8787f16e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367811," cinereo-virens"
+3a922604-9bad-11eb-a8a2-19ed5c03f8d3,species,diploloma,Lepadolemma,,"(Mont.) Trevis.","Q1029228,Q634712",,,,,,,af8f3852-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367812," "
+462f8ac4-9bad-11eb-a8a2-19ed5c03f8d3,species,haematomma,Lepadolemma,,"(Ehrh.) Gray","Q123996,Q540667",,,,,,,8b219dd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393156," "
+4630029c-9bad-11eb-a8a2-19ed5c03f8d3,species,puniceum,Lepadolemma,,"(Sw.) Trevis.","Q632088,Q634712",1853,,"Revta Period. Lav. Imp. Reale Acad., Padova 268 (1853)",,,,8b3cb48e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393157," "
+46302ff6-9bad-11eb-a8a2-19ed5c03f8d3,species,rubrum,Lepadolemma,,"(Hoffm.) Trevis.","Q69815,Q634712",,,,,,,8df5f438-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393158," "
+46305bc0-9bad-11eb-a8a2-19ed5c03f8d3,species,russulum,Lepadolemma,,"(Ach.) Trevis.","Q365923,Q634712",,,,,,,a08fe26c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,393159," "
+17a7bc94-9bad-11eb-a8a2-19ed5c03f8d3,species,ventosum,Lepadolemma,,"(L.) Trevis.","Q1043,Q634712",,,,,,,46f1b734-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393160," "
+3737b230-8fcd-11eb-924d-9cd76263cbd0,species,cruttwellii,Lepanthanthe,,"(J.J.Verm.) Szlach.","Q2342479,Q2624334",2007,,"Richardiana 7: 83 2007",,,,7d8d033a-8fcc-11eb-924d-9cd76263cbd0,,77081776-1,wfo-0000808959,2843324,,
+3737ce50-8fcd-11eb-924d-9cd76263cbd0,species,inquirenda,Lepanthanthe,,"(J.J.Verm.) Szlach.","Q2342479,Q2624334",2007,,"Richardiana 7: 83 2007",,,,,,77081777-1,wfo-0000808960,2846036,,
+3737e78c-8fcd-11eb-924d-9cd76263cbd0,species,lepanthiflora,Lepanthanthe,,"(Schltr.) Szlach.","Q62278,Q2624334",2007,,"Richardiana 7: 83 2007",,,,e3526ddc-8fcb-11eb-924d-9cd76263cbd0,,77081778-1,wfo-0000808961,2843138,,
+37380316-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Lepanthanthe,,"(W.Kittr.) Szlach.","Q21516390,Q2624334",2007,,"Richardiana 7: 83 2007",,,,,,77081779-1,wfo-0000808962,2844363,,

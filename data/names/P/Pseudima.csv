@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e915e18a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudima,,,Radlk.,,1878,,"Nuovo Giorn. Bot. Ital. 10: 108. 1878.",,,,,,36542-1,wfo-4000031380,7264875,,
-d8f8ac32-8fcd-11eb-924d-9cd76263cbd0,species,costaricense,Pseudima,,"L.O.Williams & P.H.Allen",,1954,,"Ceiba 4(4): 224, f. 1954",,,,,,,wfo-0001135181,8183835,,
-789c5c7c-8fcc-11eb-924d-9cd76263cbd0,species,costaricensis,Pseudima,,"L.O.Williams & P.H.Allen",,1954,,"Ceiba 4: 224 1954",,Q103981607,,,,211193-2,wfo-0000471619,3785669,,
-d8d9fcc4-8fcd-11eb-924d-9cd76263cbd0,species,frutescens,Pseudima,,"(Aubl.) Radlk.",,1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8(3): 300 1878",,,,,,,wfo-0001134912,3785662,,
-c97b72e0-8fd1-11eb-924d-9cd76263cbd0,species,pallidum,Pseudima,,Radlk.,,1911,,"Repert. Spec. Nov. Regni Veg. 9: 376 1911",,Q55752448,,,,211194-2,wfo-0001271662,3785651,,
+e915e18a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudima,,,Radlk.,Q62865,1878,,"Nuovo Giorn. Bot. Ital. 10: 108. 1878.",,,,,,36542-1,wfo-4000031380,7264875,,
+d8f8ac32-8fcd-11eb-924d-9cd76263cbd0,species,costaricense,Pseudima,,"L.O.Williams & P.H.Allen","Q1871895,Q7151048",1954,,"Ceiba 4(4): 224, f. 1954",,,,,,,wfo-0001135181,8183835,,
+789c5c7c-8fcc-11eb-924d-9cd76263cbd0,species,costaricensis,Pseudima,,"L.O.Williams & P.H.Allen","Q1871895,Q7151048",1954,,"Ceiba 4: 224 1954",,Q103981607,,,,211193-2,wfo-0000471619,3785669,,
+d8d9fcc4-8fcd-11eb-924d-9cd76263cbd0,species,frutescens,Pseudima,,"(Aubl.) Radlk.","Q721482,Q62865",1878,,"Sitzungsber. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. München 8(3): 300 1878",,,,,,,wfo-0001134912,3785662,,
+c97b72e0-8fd1-11eb-924d-9cd76263cbd0,species,pallidum,Pseudima,,Radlk.,Q62865,1911,,"Repert. Spec. Nov. Regni Veg. 9: 376 1911",,Q55752448,,,,211194-2,wfo-0001271662,3785651,,

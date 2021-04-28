@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3b34ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Fernaldia,,,Woodson,,1932,,"Ann. Missouri Bot. Gard. 19(1): 48. 1932. (15 Apr 1932)",,,,e3b34ed0-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000014678,3169595,1985," "
-8b150f6a-8fcd-11eb-924d-9cd76263cbd0,species,asperoglottis,Fernaldia,,Woodson,,1939,,"Ann. Missouri Bot. Gard. 26: 96 1939",,Q55764672,,,,103577-2,wfo-0000967016,5535959,,
-8b152b30-8fcd-11eb-924d-9cd76263cbd0,species,brachypharynx,Fernaldia,,Woodson,,1932,,"Ann. Missouri Bot. Gard. 19: 380 1932",,Q55764638,,,,103578-2,wfo-0000967017,5414403,,
-8b154818-8fcd-11eb-924d-9cd76263cbd0,species,glabra,Fernaldia,,"(Molina) Lundell",,1976,,"Wrightia 5: 256 1976",,,,3e49b218-8fcc-11eb-924d-9cd76263cbd0,,103579-2,wfo-0000967018,5535950,,
-8b1565e6-8fcd-11eb-924d-9cd76263cbd0,species,pandurata,Fernaldia,,"(A.DC.) Woodson",,1932,,"Ann. Missouri Bot. Gard. 19: 48 1932",,Q55764646,,,,103580-2,wfo-0000967019,5414402,,
-8b159b1a-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Fernaldia,pandurata,Molina,,1952,,"Ceiba 3: 95 1952",,Q103981554,,,,103581-2,wfo-0000967020,5535939,,
-95a55ce6-9bad-11eb-a8a2-19ed5c03f8d3,species,scholanderi,Fernaldia,,Lynge,,,,,,,,95a55ce6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410693," "
-8b160eba-8fcd-11eb-924d-9cd76263cbd0,species,speciosissima,Fernaldia,,Woodson,,1939,,"Ann. Missouri Bot. Gard. 26: 300 1939",,Q54801312,,,,103582-2,wfo-0000967021,5535933,,
+e3b34ed0-8fd1-11eb-924d-9cd76263cbd0,genus,Fernaldia,,,Woodson,Q727273,1932,,"Ann. Missouri Bot. Gard. 19(1): 48. 1932. (15 Apr 1932)",,,,e3b34ed0-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000014678,3169595,1985," "
+8b150f6a-8fcd-11eb-924d-9cd76263cbd0,species,asperoglottis,Fernaldia,,Woodson,Q727273,1939,,"Ann. Missouri Bot. Gard. 26: 96 1939",,Q55764672,,,,103577-2,wfo-0000967016,5535959,,
+8b152b30-8fcd-11eb-924d-9cd76263cbd0,species,brachypharynx,Fernaldia,,Woodson,Q727273,1932,,"Ann. Missouri Bot. Gard. 19: 380 1932",,Q55764638,,,,103578-2,wfo-0000967017,5414403,,
+8b154818-8fcd-11eb-924d-9cd76263cbd0,species,glabra,Fernaldia,,"(Molina) Lundell","Q55068526,Q3009490",1976,,"Wrightia 5: 256 1976",,,,3e49b218-8fcc-11eb-924d-9cd76263cbd0,,103579-2,wfo-0000967018,5535950,,
+8b1565e6-8fcd-11eb-924d-9cd76263cbd0,species,pandurata,Fernaldia,,"(A.DC.) Woodson","Q123807,Q727273",1932,,"Ann. Missouri Bot. Gard. 19: 48 1932",,Q55764646,,,,103580-2,wfo-0000967019,5414402,,
+8b159b1a-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Fernaldia,pandurata,Molina,Q55068526,1952,,"Ceiba 3: 95 1952",,Q103981554,,,,103581-2,wfo-0000967020,5535939,,
+95a55ce6-9bad-11eb-a8a2-19ed5c03f8d3,species,scholanderi,Fernaldia,,Lynge,Q11960807,,,,,,,95a55ce6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410693," "
+8b160eba-8fcd-11eb-924d-9cd76263cbd0,species,speciosissima,Fernaldia,,Woodson,Q727273,1939,,"Ann. Missouri Bot. Gard. 26: 300 1939",,Q54801312,,,,103582-2,wfo-0000967021,5535933,,

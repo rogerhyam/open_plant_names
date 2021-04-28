@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df2e823a-8fd1-11eb-924d-9cd76263cbd0,genus,Amblyanthopsis,,,Mez,,1902,,"Pflanzenr. 236(Heft 9): 14, 210. 1902.",,,,,,27260-1,wfo-4000001510,7331022,,
-9b4e7bd8-8fcc-11eb-924d-9cd76263cbd0,species,bhotanica,Amblyanthopsis,,"(C.B.Clarke) Mez",,1902,,"Pflanzenr. IV, 236: 211 1902",,,,a34d8e78-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000530690,3720941,,
-9b4e956e-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Amblyanthopsis,,Merr.,,1919,,"Philipp. J. Sci. 14: 445 1919",,,,,,586653-1,wfo-0000530691,3720935,,
-9b4eaf18-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Amblyanthopsis,,"(Wall.) Mez",,1902,,"Pflanzenr. IV, 236: 211 1902",,,,,,,wfo-0000530692,3720927,,
-9b4eca8e-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Amblyanthopsis,,Mez,,1906,,"Philipp. J. Sci. 1(Suppl.): 274 1906",,,,,,586655-1,wfo-0000530693,3720921,,
+df2e823a-8fd1-11eb-924d-9cd76263cbd0,genus,Amblyanthopsis,,,Mez,Q65095,1902,,"Pflanzenr. 236(Heft 9): 14, 210. 1902.",,,,,,27260-1,wfo-4000001510,7331022,,
+9b4e7bd8-8fcc-11eb-924d-9cd76263cbd0,species,bhotanica,Amblyanthopsis,,"(C.B.Clarke) Mez","Q2659116,Q65095",1902,,"Pflanzenr. IV, 236: 211 1902",,,,a34d8e78-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000530690,3720941,,
+9b4e956e-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Amblyanthopsis,,Merr.,Q729926,1919,,"Philipp. J. Sci. 14: 445 1919",,,,,,586653-1,wfo-0000530691,3720935,,
+9b4eaf18-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Amblyanthopsis,,"(Wall.) Mez","Q730310,Q65095",1902,,"Pflanzenr. IV, 236: 211 1902",,,,,,,wfo-0000530692,3720927,,
+9b4eca8e-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Amblyanthopsis,,Mez,Q65095,1906,,"Philipp. J. Sci. 1(Suppl.): 274 1906",,,,,,586655-1,wfo-0000530693,3720921,,

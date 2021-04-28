@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a4be1024-9bad-11eb-a8a2-19ed5c03f8d3,genus,Polyschistes,,,"J. Steiner",,1898,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 107: 166 (1898)",,,,a4be1024-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4320," "
-bf635520-9bac-11eb-a8a2-19ed5c03f8d3,species,capensis,Polyschistes,,"(Stizenb.) Keissl.",,,,,,,,7a61fb4e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,259669," "
-dda905b6-9bac-11eb-a8a2-19ed5c03f8d3,species,lusitanica,Polyschistes,,"(Nyl.) Keissl.",,,,,,,,8010ddc4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,269925," "
-ed7f062a-9bac-11eb-a8a2-19ed5c03f8d3,species,mairei,Polyschistes,,Werner,,,,,,,,ed7f062a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289853," "
-dfb153ae-9bac-11eb-a8a2-19ed5c03f8d3,species,nivalis,Polyschistes,,"(Bagl. & Carestia) Keissl.",,,,,,,,b52079f2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,272374," "
+bf635520-9bac-11eb-a8a2-19ed5c03f8d3,species,capensis,Polyschistes,,"(Stizenb.) Keissl.",Q5958333,,,,,,,7a61fb4e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,259669," "
+dda905b6-9bac-11eb-a8a2-19ed5c03f8d3,species,lusitanica,Polyschistes,,"(Nyl.) Keissl.","Q932083,Q5958333",,,,,,,8010ddc4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,269925," "
+ed7f062a-9bac-11eb-a8a2-19ed5c03f8d3,species,mairei,Polyschistes,,Werner,Q6111008,,,,,,,ed7f062a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289853," "
+dfb153ae-9bac-11eb-a8a2-19ed5c03f8d3,species,nivalis,Polyschistes,,"(Bagl. & Carestia) Keissl.","Q3749589,Q1111111,Q5958333",,,,,,,b52079f2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,272374," "
 121792aa-9bac-11eb-a8a2-19ed5c03f8d3,species,subclausus,Polyschistes,,"J. Steiner",,1898,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 107: 166 (1898)",,,,121792aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432001," "
-5f5e2816-8fcd-11eb-924d-9cd76263cbd0,species,paupercula,Polyschistis,,J.Presl,,1830,,"Reliq. Haenk. 1: 294 1830",,,,,,418746-1,wfo-0000894763,4153426,,
+5f5e2816-8fcd-11eb-924d-9cd76263cbd0,species,paupercula,Polyschistis,,J.Presl,Q379593,1830,,"Reliq. Haenk. 1: 294 1830",,,,,,418746-1,wfo-0000894763,4153426,,

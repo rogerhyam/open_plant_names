@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec16464a-8fd1-11eb-924d-9cd76263cbd0,genus,Wittmackia,,,Mez,,1891,,"Fl. Bras. 3(3): 179, 274. 1891.",,,,,,289056-2,wfo-4000040791,2693687,,
-cb8fdc24-8fcc-11eb-924d-9cd76263cbd0,species,glaziovii,Wittmackia,,Mez,,1896,,"Monogr. Phan. 9: 142 1896",,,,,,269046-2,wfo-0000607971,2698579,,
-cb910f9a-8fcc-11eb-924d-9cd76263cbd0,species,lingulata,Wittmackia,,"(L.) Mez",,1891,,"Fl. Bras. 3(3): 275 1891",,,,,,269047-2,wfo-0000607982,2698585,,
-cb92addc-8fcc-11eb-924d-9cd76263cbd0,species,odora,Wittmackia,,"(Miq.) Mez",,1891,,"Fl. Bras. 3(3): 277 1891",,,,1f9087e8-8fcc-11eb-924d-9cd76263cbd0,,269048-2,wfo-0000607993,2698582,,
-cb93f3e0-8fcc-11eb-924d-9cd76263cbd0,species,patentissima,Wittmackia,,"(Mart. ex Schult. & Schult.f.) Mez",,1891,,"Fl. Bras. 3(3): 278 1891",,,,1f92196e-8fcc-11eb-924d-9cd76263cbd0,,269049-2,wfo-0000608003,2698589,,
-cb9576e8-8fcc-11eb-924d-9cd76263cbd0,species,poeppigii,Wittmackia,,"(Baker) Mez",,1934,,"Pflanzenr. IV, 32: 89 1934",,,,1d8ab3f6-8fcc-11eb-924d-9cd76263cbd0,,269050-2,wfo-0000608014,2698576,,
+ec16464a-8fd1-11eb-924d-9cd76263cbd0,genus,Wittmackia,,,Mez,Q65095,1891,,"Fl. Bras. 3(3): 179, 274. 1891.",,,,,,289056-2,wfo-4000040791,2693687,,
+cb8fdc24-8fcc-11eb-924d-9cd76263cbd0,species,glaziovii,Wittmackia,,Mez,Q65095,1896,,"Monogr. Phan. 9: 142 1896",,,,,,269046-2,wfo-0000607971,2698579,,
+cb910f9a-8fcc-11eb-924d-9cd76263cbd0,species,lingulata,Wittmackia,,"(L.) Mez","Q1043,Q65095",1891,,"Fl. Bras. 3(3): 275 1891",,,,,,269047-2,wfo-0000607982,2698585,,
+cb92addc-8fcc-11eb-924d-9cd76263cbd0,species,odora,Wittmackia,,"(Miq.) Mez","Q76742,Q65095",1891,,"Fl. Bras. 3(3): 277 1891",,,,1f9087e8-8fcc-11eb-924d-9cd76263cbd0,,269048-2,wfo-0000607993,2698582,,
+cb93f3e0-8fcc-11eb-924d-9cd76263cbd0,species,patentissima,Wittmackia,,"(Mart. ex Schult. & Schult.f.) Mez","Q77131,Q78881,Q78745,Q65095",1891,,"Fl. Bras. 3(3): 278 1891",,,,1f92196e-8fcc-11eb-924d-9cd76263cbd0,,269049-2,wfo-0000608003,2698589,,
+cb9576e8-8fcc-11eb-924d-9cd76263cbd0,species,poeppigii,Wittmackia,,"(Baker) Mez","Q730330,Q65095",1934,,"Pflanzenr. IV, 32: 89 1934",,,,1d8ab3f6-8fcc-11eb-924d-9cd76263cbd0,,269050-2,wfo-0000608014,2698576,,

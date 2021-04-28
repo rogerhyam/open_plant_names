@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e935ccfc-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudotephrocactus,,,"Frič & Schelle",,1933,,"Akklim. Versuchs-Gart. 1933.",,,,,,,wfo-4000031722,,,
-d3666e40-8fd1-11eb-924d-9cd76263cbd0,species,subterraneus,Pseudotephrocactus,,Kreuz.,,1935,,"Verz. Amer. Sukk. Rev. Syst. Kakteen 40 1935",,,,,,,wfo-0001284506,7404363,,
-1574c5ca-8fcd-11eb-924d-9cd76263cbd0,species,vestitus,Pseudotephrocactus,,"(Salm-Dyck) Fric & Schelle",,1933,,"Akklim. Versuchs-Garten 1 1933",,,,,,,wfo-0000737332,7776740,,
+e935ccfc-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudotephrocactus,,,"Frič & Schelle","Q963023,Q4522680",1933,,"Akklim. Versuchs-Gart. 1933.",,,,,,,wfo-4000031722,,,
+d3666e40-8fd1-11eb-924d-9cd76263cbd0,species,subterraneus,Pseudotephrocactus,,Kreuz.,Q4241544,1935,,"Verz. Amer. Sukk. Rev. Syst. Kakteen 40 1935",,,,,,,wfo-0001284506,7404363,,
+1574c5ca-8fcd-11eb-924d-9cd76263cbd0,species,vestitus,Pseudotephrocactus,,"(Salm-Dyck) Fric & Schelle","Q62938,Q963023,Q4522680",1933,,"Akklim. Versuchs-Garten 1 1933",,,,,,,wfo-0000737332,7776740,,

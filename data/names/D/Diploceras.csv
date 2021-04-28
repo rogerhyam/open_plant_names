@@ -1,19 +1,19 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a390ce80-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diploceras,,,"(Sacc.) Died.",,1915,,"Mykol. Untersuch. Ber. 342 (1915)",,,,,,,,,8043," "
-05877f86-9bad-11eb-a8a2-19ed5c03f8d3,species,anomala,Diploceras,,"(Harkn.) Höhn.",,,,,,,,1ffdd942-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261182," Diploceras anomalum"
-6ef2275a-9bad-11eb-a8a2-19ed5c03f8d3,species,anomalum,Diploceras,,"(Harkn.) Höhn.",,1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125: 93 (1916)",,,,1ffdd942-9bac-11eb-a8a2-19ed5c03f8d3,,,,,479350," anomala"
-33dba5ce-9bad-11eb-a8a2-19ed5c03f8d3,species,brachypodum,Diploceras,,"(Speg.) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 280 (1993)",,,,f47f1cf4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,359592," "
-64613f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,dilophosporum,Diploceras,,"(Cooke) Sacc.",,1892,,"Syll. fung. (Abellini) 10: 484 (1892)",,,,9aece62a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,531417," "
-33e499a4-9bad-11eb-a8a2-19ed5c03f8d3,species,discosioides,Diploceras,,"(Ellis & Everh.) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 283 (1993)",,,,8fe16d5a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359593," "
+a390ce80-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diploceras,,,"(Sacc.) Died.",Q707840,1915,,"Mykol. Untersuch. Ber. 342 (1915)",,,,,,,,,8043," "
+05877f86-9bad-11eb-a8a2-19ed5c03f8d3,species,anomala,Diploceras,,"(Harkn.) Höhn.","Q4495965,Q4502879",,,,,,,1ffdd942-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261182," Diploceras anomalum"
+6ef2275a-9bad-11eb-a8a2-19ed5c03f8d3,species,anomalum,Diploceras,,"(Harkn.) Höhn.","Q4495965,Q4502879",1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125: 93 (1916)",,,,1ffdd942-9bac-11eb-a8a2-19ed5c03f8d3,,,,,479350," anomala"
+33dba5ce-9bad-11eb-a8a2-19ed5c03f8d3,species,brachypodum,Diploceras,,"(Speg.) Nag Raj",Q648013,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 280 (1993)",,,,f47f1cf4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,359592," "
+64613f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,dilophosporum,Diploceras,,"(Cooke) Sacc.","Q2351239,Q707840",1892,,"Syll. fung. (Abellini) 10: 484 (1892)",,,,9aece62a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,531417," "
+33e499a4-9bad-11eb-a8a2-19ed5c03f8d3,species,discosioides,Diploceras,,"(Ellis & Everh.) Nag Raj",Q6206643,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 283 (1993)",,,,8fe16d5a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359593," "
 33e4f610-9bad-11eb-a8a2-19ed5c03f8d3,species,elegans,Diploceras,,"(H.J. Swart) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 286 (1993)",,,,15db3486-9bad-11eb-a8a2-19ed5c03f8d3,,,,,359594," "
-7bd639d4-9bad-11eb-a8a2-19ed5c03f8d3,species,hypericinum,Diploceras,,"(Ces.) Died.",,1915,,"Krypt.-Fl. Brandenburg (Leipzig) 9: 887 (1915)",,,,7a9b4cc8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,189870," "
+7bd639d4-9bad-11eb-a8a2-19ed5c03f8d3,species,hypericinum,Diploceras,,"(Ces.) Died.",Q2138005,1915,,"Krypt.-Fl. Brandenburg (Leipzig) 9: 887 (1915)",,,,7a9b4cc8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,189870," "
 33e56b36-9bad-11eb-a8a2-19ed5c03f8d3,species,kriegerianum,Diploceras,,"(Bres.) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 289 (1993)",,,,97aeff48-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359595," "
 9f54cb24-9bac-11eb-a8a2-19ed5c03f8d3,species,leptospermi,Diploceras,,"(R.G. Bagn. & Sheridan) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 291 (1993)",,,,15dd7cb4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,359596," "
-930b8dc0-9bad-11eb-a8a2-19ed5c03f8d3,species,monochaetoides,Diploceras,,"(Speg.) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 291 (1993)",,,,df1c0010-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359597," "
+930b8dc0-9bad-11eb-a8a2-19ed5c03f8d3,species,monochaetoides,Diploceras,,"(Speg.) Nag Raj",Q648013,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 291 (1993)",,,,df1c0010-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359597," "
 33d3366e-9bad-11eb-a8a2-19ed5c03f8d3,species,muehlenbeckiae,Diploceras,,"(McAlpine) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 294 (1993)",,,,11366e64-9bad-11eb-a8a2-19ed5c03f8d3,,,,,359548," "
-33e600a0-9bad-11eb-a8a2-19ed5c03f8d3,species,parasiticum,Diploceras,,"(Dearn. & House) Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 294 (1993)",,,,df1bc334-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359598," "
+33e600a0-9bad-11eb-a8a2-19ed5c03f8d3,species,parasiticum,Diploceras,,"(Dearn. & House) Nag Raj",Q3139666,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 294 (1993)",,,,df1bc334-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359598," "
 65f52554-9bac-11eb-a8a2-19ed5c03f8d3,species,pycnidiforme,Diploceras,,"Nag Raj",,,,,,,,65f52554-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261186," Diploceras pycnidiiforme"
 33e66e32-9bad-11eb-a8a2-19ed5c03f8d3,species,pycnidiiforme,Diploceras,,"Nag Raj",,1993,,"Coelomycetous Anamorphs with Appendage-bearing Conidia (Ontario) 297 (1993)",,,,33e66e32-9bad-11eb-a8a2-19ed5c03f8d3,,,,,359599," pycnidiforme"
-4517a0be-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Diplochaete,,Nees,,1834,,"Linnaea 9: 296 1834",,,,,,306589-1,wfo-0000396942,5292725,,
-80cd9400-8fcd-11eb-924d-9cd76263cbd0,species,hirsutus,Diplochilos,,Lindl.,,,,"Edwards's Bot. Reg. 18: t. 1499 1832",,,,,,,wfo-0000944032,5951907,,
-80cdb08e-8fcd-11eb-924d-9cd76263cbd0,species,longifolius,Diplochilos,,Lindl.,,,,"Edwards's Bot. Reg. 18: t. 1499 1832",,,,,,,wfo-0000944033,5951906,,
+4517a0be-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Diplochaete,,Nees,Q76349,1834,,"Linnaea 9: 296 1834",,,,,,306589-1,wfo-0000396942,5292725,,
+80cd9400-8fcd-11eb-924d-9cd76263cbd0,species,hirsutus,Diplochilos,,Lindl.,Q378629,,,"Edwards's Bot. Reg. 18: t. 1499 1832",,,,,,,wfo-0000944032,5951907,,
+80cdb08e-8fcd-11eb-924d-9cd76263cbd0,species,longifolius,Diplochilos,,Lindl.,Q378629,,,"Edwards's Bot. Reg. 18: t. 1499 1832",,,,,,,wfo-0000944033,5951906,,

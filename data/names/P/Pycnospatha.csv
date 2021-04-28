@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e96125aa-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnospatha,,,"Thorel ex Gagnep.",,1941,,"Bull. Soc. Bot. France 88: 511. 1941.",,Q55757410,,,,2885-1,wfo-4000032240,2869469,,
-ffa88de0-8fcb-11eb-924d-9cd76263cbd0,species,arietina,Pycnospatha,,Gagnep.,,1941,,"Bull. Soc. Bot. France 88: 512 1941",,Q55757410,,,,88419-1,wfo-0000289098,2869471,,
-ffa8ae9c-8fcb-11eb-924d-9cd76263cbd0,species,palmata,Pycnospatha,,Gagnep.,,1941,,"Bull. Soc. Bot. France 88: 511 1941",,Q55757410,,,,88420-1,wfo-0000289099,2869470,,
-ffa8f884-8fcb-11eb-924d-9cd76263cbd0,species,soerensenii,Pycnospatha,,S.Y.Hu,,1968,,"Dansk Bot. Ark. 23: 418 1968",,,,,,88421-1,wfo-0000289100,2869472,,
-ffa98f06-8fcb-11eb-924d-9cd76263cbd0,species,columbariae,Pycnosphace,,"(Benth.) Rydb.",,1917,,"Fl. Rocky Mts. 747 1917",,,,06a5e1f6-8fcc-11eb-924d-9cd76263cbd0,,214798-2,wfo-0000289101,3890805,,
+e96125aa-8fd1-11eb-924d-9cd76263cbd0,genus,Pycnospatha,,,"Thorel ex Gagnep.","Q2979757,Q599122",1941,,"Bull. Soc. Bot. France 88: 511. 1941.",,Q55757410,,,,2885-1,wfo-4000032240,2869469,,
+ffa88de0-8fcb-11eb-924d-9cd76263cbd0,species,arietina,Pycnospatha,,Gagnep.,Q599122,1941,,"Bull. Soc. Bot. France 88: 512 1941",,Q55757410,,,,88419-1,wfo-0000289098,2869471,,
+ffa8ae9c-8fcb-11eb-924d-9cd76263cbd0,species,palmata,Pycnospatha,,Gagnep.,Q599122,1941,,"Bull. Soc. Bot. France 88: 511 1941",,Q55757410,,,,88420-1,wfo-0000289099,2869470,,
+ffa8f884-8fcb-11eb-924d-9cd76263cbd0,species,soerensenii,Pycnospatha,,S.Y.Hu,Q7499182,1968,,"Dansk Bot. Ark. 23: 418 1968",,,,,,88421-1,wfo-0000289100,2869472,,
+ffa98f06-8fcb-11eb-924d-9cd76263cbd0,species,columbariae,Pycnosphace,,"(Benth.) Rydb.","Q731808,Q1905130",1917,,"Fl. Rocky Mts. 747 1917",,,,06a5e1f6-8fcc-11eb-924d-9cd76263cbd0,,214798-2,wfo-0000289101,3890805,,

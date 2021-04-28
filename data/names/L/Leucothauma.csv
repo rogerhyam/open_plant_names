@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5e314f6-8fd1-11eb-924d-9cd76263cbd0,genus,Leucothauma,,,Ravenna,,2009,,"Onira 11(25): 65. 2009.",,,,,,,wfo-4000021616,9799018,,
-6f9759e6-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Leucothauma,,"(Herb.) Ravenna",,2009,,"Onira 11: 66 2009",,,,102c5b28-8fcd-11eb-924d-9cd76263cbd0,,77098070-1,wfo-0000913183,4014033,,
-6f977e4e-8fcd-11eb-924d-9cd76263cbd0,species,cachendoensis,Leucothauma,,Ravenna,,2009,,"Onira 11: 66 2009",,,,,,77098071-1,wfo-0000913184,4014032,,
-6f979f50-8fcd-11eb-924d-9cd76263cbd0,species,chlorosolen,Leucothauma,,"(Herb.) Ravenna",,2009,,"Onira 11: 67 2009",,,,dffc2834-8fcc-11eb-924d-9cd76263cbd0,,77098072-1,wfo-0000913185,4014030,,
-68f08000-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Leucothea,,"Moc. & Sessé ex DC.",,1822,,"Mém. Soc. Phys. Genève 1: 420 1822",,,,,,829020-1,wfo-0000444882,7574335,,
-68f04414-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Leucothea,,"Moc. & Sessé ex DC.",,1822,,"Mém. Soc. Phys. Genève 1: 420 1822",,,,,,829021-1,wfo-0000444880,7933745,,
+e5e314f6-8fd1-11eb-924d-9cd76263cbd0,genus,Leucothauma,,,Ravenna,Q9059543,2009,,"Onira 11(25): 65. 2009.",,,,,,,wfo-4000021616,9799018,,
+6f9759e6-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Leucothauma,,"(Herb.) Ravenna","Q954928,Q9059543",2009,,"Onira 11: 66 2009",,,,102c5b28-8fcd-11eb-924d-9cd76263cbd0,,77098070-1,wfo-0000913183,4014033,,
+6f977e4e-8fcd-11eb-924d-9cd76263cbd0,species,cachendoensis,Leucothauma,,Ravenna,Q9059543,2009,,"Onira 11: 66 2009",,,,,,77098071-1,wfo-0000913184,4014032,,
+6f979f50-8fcd-11eb-924d-9cd76263cbd0,species,chlorosolen,Leucothauma,,"(Herb.) Ravenna","Q954928,Q9059543",2009,,"Onira 11: 67 2009",,,,dffc2834-8fcc-11eb-924d-9cd76263cbd0,,77098072-1,wfo-0000913185,4014030,,
+68f08000-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Leucothea,,"Moc. & Sessé ex DC.","Q2983655,Q2983613,Q123057",1822,,"Mém. Soc. Phys. Genève 1: 420 1822",,,,,,829020-1,wfo-0000444882,7574335,,
+68f04414-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Leucothea,,"Moc. & Sessé ex DC.","Q2983655,Q2983613,Q123057",1822,,"Mém. Soc. Phys. Genève 1: 420 1822",,,,,,829021-1,wfo-0000444880,7933745,,

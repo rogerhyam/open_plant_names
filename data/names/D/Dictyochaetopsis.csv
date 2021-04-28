@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a19ea002-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dictyochaetopsis,,,"Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,a19ea002-9bad-11eb-a8a2-19ed5c03f8d3,,,,,11255," "
 69c88170-9bad-11eb-a8a2-19ed5c03f8d3,species,antillana,Dictyochaetopsis,,"(R.F. Castañeda) Whitton, McKenzie & K.D. Hyde",,2000,,"Fungal Diversity 4: 153 (2000)",,,,33208506-9bac-11eb-a8a2-19ed5c03f8d3,,,,,464748," "
-353c3aba-9bac-11eb-a8a2-19ed5c03f8d3,species,apicalis,Dictyochaetopsis,,"(Berk. & M.A. Curtis) Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,7e2c43f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,127665," "
+353c3aba-9bac-11eb-a8a2-19ed5c03f8d3,species,apicalis,Dictyochaetopsis,,"(Berk. & M.A. Curtis) Aramb. & Cabello",Q662338,1990,,"Mycotaxon 38: 12 (1990)",,,,7e2c43f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,127665," "
 436d7328-9bad-11eb-a8a2-19ed5c03f8d3,species,brasiliensis,Dictyochaetopsis,,"M. Calduch, Gené, Stchigel & Guarro",,,,"Mycologia 94(6): 1071 (2002)",,,,436d7328-9bad-11eb-a8a2-19ed5c03f8d3,,,,,385979," "
 353caf0e-9bac-11eb-a8a2-19ed5c03f8d3,species,dingleyae,Dictyochaetopsis,,"Aramb. & Cabello",,1990,invalid,"Mycotaxon 38: 12 (1990)",,,,353caf0e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127666,"Nom. inval., Art. 36.1  published as a comb.nov. but the cited basionym does not exist"
 353d22d6-9bac-11eb-a8a2-19ed5c03f8d3,species,elegantissima,Dictyochaetopsis,,"(Lunghini) Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,2a45086c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127667," "
 353d6494-9bac-11eb-a8a2-19ed5c03f8d3,species,filamentosa,Dictyochaetopsis,,"(Onofri) Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,2a452e14-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127668," "
-353dce70-9bac-11eb-a8a2-19ed5c03f8d3,species,glauconigra,Dictyochaetopsis,,"(Cooke & Ellis) Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,9405f14e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127669," "
+353dce70-9bac-11eb-a8a2-19ed5c03f8d3,species,glauconigra,Dictyochaetopsis,,"(Cooke & Ellis) Aramb. & Cabello","Q2351239,Q6206643",1990,,"Mycotaxon 38: 12 (1990)",,,,9405f14e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127669," "
 69c90c44-9bad-11eb-a8a2-19ed5c03f8d3,species,gonytrichoides,Dictyochaetopsis,,"(Shearer & J.L. Crane) Whitton, McKenzie & K.D. Hyde",,2000,,"Fungal Diversity 4: 156 (2000)",,,,2045273e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,464753," "
 69c95118-9bad-11eb-a8a2-19ed5c03f8d3,species,hamata,Dictyochaetopsis,,"(Kuthub. & Nawawi) Whitton, McKenzie & K.D. Hyde",,2000,,"Fungal Diversity 4: 156 (2000)",,,,35505cfc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,464754," "
 353e5a70-9bac-11eb-a8a2-19ed5c03f8d3,species,intermedia,Dictyochaetopsis,,"(Rambelli) Aramb. & Cabello",,1990,,"Mycotaxon 38: 12 (1990)",,,,2a456352-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127670," "
@@ -14,4 +14,4 @@ a19ea002-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dictyochaetopsis,,,"Aramb. & Cabello"
 353eb0d8-9bac-11eb-a8a2-19ed5c03f8d3,species,menisporoides,Dictyochaetopsis,,"(Hol.-Jech.) Aramb. & Cabello",,1990,,"Mycotaxon 38: 13 (1990)",,,,273d7a1e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127672," "
 69c99bb4-9bad-11eb-a8a2-19ed5c03f8d3,species,pahangensis,Dictyochaetopsis,,"(Kuthub. & Nawawi) Whitton, McKenzie & K.D. Hyde",,2000,,"Fungal Diversity 4: 156 (2000)",,,,3550bb70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,464755," "
 58093250-9bac-11eb-a8a2-19ed5c03f8d3,species,polysetosa,Dictyochaetopsis,,"R.F. Castañeda, Gusmão, Guarro & Saikawa",,2008,,"Mycotaxon (2008)",,,,58093250-9bac-11eb-a8a2-19ed5c03f8d3,,,,,510905," "
-509f505c-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Dictyochloa,,"(Murb.) E.G.Camus",,1900,,"Compt. Rend. Intern. Congr. Bot. 1900: 344 1900",,,,4856026a-8fcd-11eb-924d-9cd76263cbd0,,398600-1,wfo-0000863658,4132171,,
+509f505c-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Dictyochloa,,"(Murb.) E.G.Camus","Q2616431,Q3823236",1900,,"Compt. Rend. Intern. Congr. Bot. 1900: 344 1900",,,,4856026a-8fcd-11eb-924d-9cd76263cbd0,,398600-1,wfo-0000863658,4132171,,

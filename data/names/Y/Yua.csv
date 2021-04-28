@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec31516a-8fd1-11eb-924d-9cd76263cbd0,genus,Yua,,,C.L.Li,,1990,,"Acta Bot. Yunnan. 12(1): 2–3. 1990.",,,,,,925264-1,wfo-4000041096,7293741,,
-de3129d6-8fcd-11eb-924d-9cd76263cbd0,species,austro-orientalis,Yua,,"(F.P.Metcalf) C.L.Li",,1990,,"Acta Bot. Yunnan. 12(1): 7 1990",,,,de0d52c2-8fcd-11eb-924d-9cd76263cbd0,,947656-1,wfo-0001146045,,,
-bba76cb4-8fd1-11eb-924d-9cd76263cbd0,species,chinensis,Yua,,C.L.Li,,1996,,"Chin. J. Appl. Environ. Biol. 2(1): 47 1996",,,,,,992605-1,wfo-0001245977,4052939,,
-de30f1aa-8fcd-11eb-924d-9cd76263cbd0,species,thomsonii,Yua,,"(M.A.Lawson) C.L.Li",,1990,,"Acta Bot. Yunnan. 12(1): 5 1990",,,,dde8c114-8fcd-11eb-924d-9cd76263cbd0,,947655-1,wfo-0001146043,4052930,,
-de310cb2-8fcd-11eb-924d-9cd76263cbd0,variety,glaucescens,Yua,thomsonii,"(Diels & Gilg) C.L.Li",,1990,,"Acta Bot. Yunnan. 12(1): 6 1990",,,,de0df722-8fcd-11eb-924d-9cd76263cbd0,,956156-1,wfo-0001146044,4055362,,
-ea21cfb4-8fc0-11eb-924d-9cd76263cbd0,species,brenningii,Yucaratonia,,"(Harms) Burkart",,,,,,,,631a443c-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000168874,2953985,,
+ec31516a-8fd1-11eb-924d-9cd76263cbd0,genus,Yua,,,C.L.Li,Q21389874,1990,,"Acta Bot. Yunnan. 12(1): 2–3. 1990.",,,,,,925264-1,wfo-4000041096,7293741,,
+de3129d6-8fcd-11eb-924d-9cd76263cbd0,species,austro-orientalis,Yua,,"(F.P.Metcalf) C.L.Li","Q5868618,Q21389874",1990,,"Acta Bot. Yunnan. 12(1): 7 1990",,,,de0d52c2-8fcd-11eb-924d-9cd76263cbd0,,947656-1,wfo-0001146045,,,
+bba76cb4-8fd1-11eb-924d-9cd76263cbd0,species,chinensis,Yua,,C.L.Li,Q21389874,1996,,"Chin. J. Appl. Environ. Biol. 2(1): 47 1996",,,,,,992605-1,wfo-0001245977,4052939,,
+de30f1aa-8fcd-11eb-924d-9cd76263cbd0,species,thomsonii,Yua,,"(M.A.Lawson) C.L.Li","Q5999683,Q21389874",1990,,"Acta Bot. Yunnan. 12(1): 5 1990",,,,dde8c114-8fcd-11eb-924d-9cd76263cbd0,,947655-1,wfo-0001146043,4052930,,
+de310cb2-8fcd-11eb-924d-9cd76263cbd0,variety,glaucescens,Yua,thomsonii,"(Diels & Gilg) C.L.Li","Q77123,Q77655,Q21389874",1990,,"Acta Bot. Yunnan. 12(1): 6 1990",,,,de0df722-8fcd-11eb-924d-9cd76263cbd0,,956156-1,wfo-0001146044,4055362,,
+ea21cfb4-8fc0-11eb-924d-9cd76263cbd0,species,brenningii,Yucaratonia,,"(Harms) Burkart","Q62415,Q2748897",,,,,,,631a443c-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000168874,2953985,,

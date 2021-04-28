@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9d49c0c2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Macroscyphus,,,"Nees ex Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 671 (1821)",,,,9d49c0c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2968," "
-837fd884-9bad-11eb-a8a2-19ed5c03f8d3,species,acetabuliforme,Macroscyphus,,Gray,,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,837fd884-9bad-11eb-a8a2-19ed5c03f8d3,,,,,462162," "
-f7186b32-9bab-11eb-a8a2-19ed5c03f8d3,species,cerea,Macroscyphus,,"(Sowerby) anon. ined.",,,,,,,,,,,,,465815," "
-606ef3ac-9bad-11eb-a8a2-19ed5c03f8d3,species,coccineus,Macroscyphus,,"(Jacq.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,,,,,,462684," "
-f5c4aca4-9bac-11eb-a8a2-19ed5c03f8d3,species,macropus,Macroscyphus,,"(Pers.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 372 (1821)",,,,,,,,,433806," "
+9d49c0c2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Macroscyphus,,,"Nees ex Gray","Q76349,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 671 (1821)",,,,9d49c0c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2968," "
+837fd884-9bad-11eb-a8a2-19ed5c03f8d3,species,acetabuliforme,Macroscyphus,,Gray,Q540667,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,837fd884-9bad-11eb-a8a2-19ed5c03f8d3,,,,,462162," "
+f7186b32-9bab-11eb-a8a2-19ed5c03f8d3,species,cerea,Macroscyphus,,"(Sowerby) anon. ined.",Q1235813,,,,,,,,,,,,465815," "
+606ef3ac-9bad-11eb-a8a2-19ed5c03f8d3,species,coccineus,Macroscyphus,,"(Jacq.) Gray","Q84497,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,,,,,,462684," "
+f5c4aca4-9bac-11eb-a8a2-19ed5c03f8d3,species,macropus,Macroscyphus,,"(Pers.) Gray","Q346451,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 372 (1821)",,,,,,,,,433806," "
 3782f632-9bad-11eb-a8a2-19ed5c03f8d3,species,nigrellus,Macroscyphus,,"(Seaver) Z.S. Bi",,1990,,"in Bi, Zheng & Li, [Macrofungus Flora of the Mountainous District of North Guangdong] (Guangdong) 26 (1990)",,,,bfd58c80-9bac-11eb-a8a2-19ed5c03f8d3,,,,,363616," "
-b7e686e6-9bac-11eb-a8a2-19ed5c03f8d3,species,perennis,Macroscyphus,,"(Pers.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,5bd24372-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495828," "
-94d9539e-9bad-11eb-a8a2-19ed5c03f8d3,species,radicatus,Macroscyphus,,"(Reichard) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,97a7101c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495855," "
-f62cccae-9bab-11eb-a8a2-19ed5c03f8d3,species,sowerbyi,Macroscyphus,,"(Pers.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,,,,,,495862," "
-f3385b12-9bab-11eb-a8a2-19ed5c03f8d3,species,tuberosus,Macroscyphus,,"(Hedw.) Gray",,1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,4dcdfc4e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495868," "
-33557f40-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Macroselinum,,"(M.Bieb.) Schur",,1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 30 1853",,,,,,844820-1,wfo-0000372779,3632734,,
+b7e686e6-9bac-11eb-a8a2-19ed5c03f8d3,species,perennis,Macroscyphus,,"(Pers.) Gray","Q346451,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,5bd24372-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495828," "
+94d9539e-9bad-11eb-a8a2-19ed5c03f8d3,species,radicatus,Macroscyphus,,"(Reichard) Gray","Q4389251,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,97a7101c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495855," "
+f62cccae-9bab-11eb-a8a2-19ed5c03f8d3,species,sowerbyi,Macroscyphus,,"(Pers.) Gray","Q346451,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,,,,,,495862," "
+f3385b12-9bab-11eb-a8a2-19ed5c03f8d3,species,tuberosus,Macroscyphus,,"(Hedw.) Gray","Q64256,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 672 (1821)",,,,4dcdfc4e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,495868," "
+33557f40-8fcc-11eb-924d-9cd76263cbd0,species,latifolium,Macroselinum,,"(M.Bieb.) Schur","Q66612,Q71649",1853,,"Verh. Mitth. Siebenbürg. Vereins Naturwiss. Hermannstadt 4: 30 1853",,,,,,844820-1,wfo-0000372779,3632734,,

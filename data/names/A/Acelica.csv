@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-debc802c-8fd1-11eb-924d-9cd76263cbd0,genus,Acelica,,,Rizzini,,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 55. 1949.",,,,,,,wfo-4000000184,7263540,,
-91950da0-8fcc-11eb-924d-9cd76263cbd0,species,cydoniifolia,Acelica,,"(Nees) Rizzini",,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 55 1949",,,,957170f8-8fcc-11eb-924d-9cd76263cbd0,,44932-1,wfo-0000513934,3772712,,
-91952cea-8fcc-11eb-924d-9cd76263cbd0,species,holosericea,Acelica,,"(Nees) Rizzini",,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 194 1949",,,,95756b0e-8fcc-11eb-924d-9cd76263cbd0,,1736-2,wfo-0000513935,3772690,,
-9195687c-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Acelica,,Rizzini,,1950,,"Dusenia 1: 292 1950",,,,,,1737-2,wfo-0000513937,3772672,,
-9195832a-8fcc-11eb-924d-9cd76263cbd0,species,trimerocalyx,Acelica,,Rizzini,,1975,,"Leandra 5(6): 36 1975",,,,,,44935-1,wfo-0000513938,3772659,,
-260f17be-8fcd-11eb-924d-9cd76263cbd0,species,anticleoides,Acelidanthus,,"Trautv. & C.A.Mey.",,1856,,"Reise Sibir. 1(2; 3): 95 1856",,,,,,,wfo-0000771910,2742154,,
+debc802c-8fd1-11eb-924d-9cd76263cbd0,genus,Acelica,,,Rizzini,Q4394947,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 55. 1949.",,,,,,,wfo-4000000184,7263540,,
+91950da0-8fcc-11eb-924d-9cd76263cbd0,species,cydoniifolia,Acelica,,"(Nees) Rizzini","Q76349,Q4394947",1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 55 1949",,,,957170f8-8fcc-11eb-924d-9cd76263cbd0,,44932-1,wfo-0000513934,3772712,,
+91952cea-8fcc-11eb-924d-9cd76263cbd0,species,holosericea,Acelica,,"(Nees) Rizzini","Q76349,Q4394947",1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 194 1949",,,,95756b0e-8fcc-11eb-924d-9cd76263cbd0,,1736-2,wfo-0000513935,3772690,,
+9195687c-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Acelica,,Rizzini,Q4394947,1950,,"Dusenia 1: 292 1950",,,,,,1737-2,wfo-0000513937,3772672,,
+9195832a-8fcc-11eb-924d-9cd76263cbd0,species,trimerocalyx,Acelica,,Rizzini,Q4394947,1975,,"Leandra 5(6): 36 1975",,,,,,44935-1,wfo-0000513938,3772659,,
+260f17be-8fcd-11eb-924d-9cd76263cbd0,species,anticleoides,Acelidanthus,,"Trautv. & C.A.Mey.","Q62846,Q728729",1856,,"Reise Sibir. 1(2; 3): 95 1856",,,,,,,wfo-0000771910,2742154,,

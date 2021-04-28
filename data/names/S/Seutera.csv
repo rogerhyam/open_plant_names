@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea54f202-8fd1-11eb-924d-9cd76263cbd0,genus,Seutera,,,Rchb.,,1828,,"Consp. Regn. Veg. 131. 1828. (Dec 1828-Mar 1829)",,,,,,,wfo-4000035216,8605290,,
-cbbc0808-8fd1-11eb-924d-9cd76263cbd0,species,angustifolia,Seutera,,"(Pers.) Fishbein & W.D.Stevens",,2005,,"Novon 15(4): 532 2005",,,,73d66084-8fcc-11eb-924d-9cd76263cbd0,,77069430-1,wfo-0001275791,3577955,,
-5fcab2d4-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Seutera,,Decne.,,1844,,"Prodr. 8: 590 1844",,,,,,101412-1,wfo-0000431019,3577947,,
-cbc7398a-8fd1-11eb-924d-9cd76263cbd0,species,palmeri,Seutera,,"(S.Watson) Fishbein & W.D.Stevens",,2005,,"Novon 15(4): 533 2005",,,,,,77069431-1,wfo-0001275872,7151022,,
-18dcaaac-8fcd-11eb-924d-9cd76263cbd0,species,palustris,Seutera,,"(Pursh) Vail",,1903,,"Fl. S.E. U.S. 952 1903",,,,c5d71720-8fcc-11eb-924d-9cd76263cbd0,,60452509-2,wfo-0000744659,7387228,,
-cb202b9e-8fcd-11eb-924d-9cd76263cbd0,species,wilfordii,Seutera,,"(Maxim.) Pobed.",,1952,,"Fl. URSS 18: 713 1952",,,,,,101413-1,wfo-0001104533,3577922,,
+ea54f202-8fd1-11eb-924d-9cd76263cbd0,genus,Seutera,,,Rchb.,Q58053,1828,,"Consp. Regn. Veg. 131. 1828. (Dec 1828-Mar 1829)",,,,,,,wfo-4000035216,8605290,,
+cbbc0808-8fd1-11eb-924d-9cd76263cbd0,species,angustifolia,Seutera,,"(Pers.) Fishbein & W.D.Stevens","Q346451,Q19272317,Q6166437",2005,,"Novon 15(4): 532 2005",,,,73d66084-8fcc-11eb-924d-9cd76263cbd0,,77069430-1,wfo-0001275791,3577955,,
+5fcab2d4-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Seutera,,Decne.,Q966069,1844,,"Prodr. 8: 590 1844",,,,,,101412-1,wfo-0000431019,3577947,,
+cbc7398a-8fd1-11eb-924d-9cd76263cbd0,species,palmeri,Seutera,,"(S.Watson) Fishbein & W.D.Stevens","Q960820,Q19272317,Q6166437",2005,,"Novon 15(4): 533 2005",,,,,,77069431-1,wfo-0001275872,7151022,,
+18dcaaac-8fcd-11eb-924d-9cd76263cbd0,species,palustris,Seutera,,"(Pursh) Vail","Q67353,Q13377797",1903,,"Fl. S.E. U.S. 952 1903",,,,c5d71720-8fcc-11eb-924d-9cd76263cbd0,,60452509-2,wfo-0000744659,7387228,,
+cb202b9e-8fcd-11eb-924d-9cd76263cbd0,species,wilfordii,Seutera,,"(Maxim.) Pobed.","Q77640,Q6169986",1952,,"Fl. URSS 18: 713 1952",,,,,,101413-1,wfo-0001104533,3577922,,

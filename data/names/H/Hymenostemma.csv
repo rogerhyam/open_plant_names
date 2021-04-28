@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4fcc2f8-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenostemma,,,"Kunze ex Willk.",,,,,,,,,,9447-1,wfo-4000018701,3132536,,
-fd59f796-8fb1-11eb-924d-9cd76263cbd0,species,fontanesii,Hymenostemma,,Willk.,,1864,,"253 1864",,,,,,225262-1,wfo-0000000217,3096534,,
-3d96a0fa-8fb9-11eb-924d-9cd76263cbd0,species,paludosum,Hymenostemma,,Willk.,,1864,,"Bot. Zeitung (Berlin) 22: 253 1864",,,,,,225263-1,wfo-0000116649,8397090,,
-149d8972-8fb2-11eb-924d-9cd76263cbd0,species,paludosum,Hymenostemma,,"(Poir.) Pomel",,1875,,"292 1875",,,,f1cec87e-8fb2-11eb-924d-9cd76263cbd0,,225264-1,wfo-0000010143,3096542,,
-84341dd8-8fb6-11eb-924d-9cd76263cbd0,species,pseudanthemis,Hymenostemma,,"Kunze ex Willk.",,1864,,"253 1864",,,,,,225265-1,wfo-0000090280,3132537,,
+e4fcc2f8-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenostemma,,,"Kunze ex Willk.","Q65400,Q64566",,,,,,,,,9447-1,wfo-4000018701,3132536,,
+fd59f796-8fb1-11eb-924d-9cd76263cbd0,species,fontanesii,Hymenostemma,,Willk.,Q64566,1864,,"253 1864",,,,,,225262-1,wfo-0000000217,3096534,,
+149d8972-8fb2-11eb-924d-9cd76263cbd0,species,paludosum,Hymenostemma,,"(Poir.) Pomel","Q966539,Q766920",1875,,"292 1875",,,,f1cec87e-8fb2-11eb-924d-9cd76263cbd0,,225264-1,wfo-0000010143,3096542,,
+3d96a0fa-8fb9-11eb-924d-9cd76263cbd0,species,paludosum,Hymenostemma,,Willk.,Q64566,1864,,"Bot. Zeitung (Berlin) 22: 253 1864",,,,,,225263-1,wfo-0000116649,8397090,,
+84341dd8-8fb6-11eb-924d-9cd76263cbd0,species,pseudanthemis,Hymenostemma,,"Kunze ex Willk.","Q65400,Q64566",1864,,"253 1864",,,,,,225265-1,wfo-0000090280,3132537,,

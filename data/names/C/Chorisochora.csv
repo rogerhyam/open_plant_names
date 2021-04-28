@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1a9c394-8fd1-11eb-924d-9cd76263cbd0,genus,Chorisochora,,,Vollesen,,1994,,"Kew Bull. 49(3): 474. 1994.",,Q55783412,,,,979032-1,wfo-4000008102,7263700,,
-c8daace8-8fcc-11eb-924d-9cd76263cbd0,species,minor,Chorisochora,,"(Balf.f.) Vollesen",,1994,,"Kew Bull. 49: 476 1994",,Q55783412,,e9a00dba-8fcc-11eb-924d-9cd76263cbd0,,979034-1,wfo-0000603375,3774437,,
-c8dae8de-8fcc-11eb-924d-9cd76263cbd0,species,striata,Chorisochora,,"(Balf.f.) Vollesen",,1994,,"Kew Bull. 49: 475 1994",,Q55783412,,,,979033-1,wfo-0000603376,3774429,,
-c8db072e-8fcc-11eb-924d-9cd76263cbd0,species,transvaalensis,Chorisochora,,"(A.Meeuse) Vollesen",,1994,,"Kew Bull. 49: 476 1994",,Q55783412,,,,979035-1,wfo-0000603377,3774421,,
+e1a9c394-8fd1-11eb-924d-9cd76263cbd0,genus,Chorisochora,,,Vollesen,Q19345043,1994,,"Kew Bull. 49(3): 474. 1994.",,Q55783412,,,,979032-1,wfo-4000008102,7263700,,
+c8daace8-8fcc-11eb-924d-9cd76263cbd0,species,minor,Chorisochora,,"(Balf.f.) Vollesen","Q670050,Q19345043",1994,,"Kew Bull. 49: 476 1994",,Q55783412,,e9a00dba-8fcc-11eb-924d-9cd76263cbd0,,979034-1,wfo-0000603375,3774437,,
+c8dae8de-8fcc-11eb-924d-9cd76263cbd0,species,striata,Chorisochora,,"(Balf.f.) Vollesen","Q670050,Q19345043",1994,,"Kew Bull. 49: 475 1994",,Q55783412,,,,979033-1,wfo-0000603376,3774429,,
+c8db072e-8fcc-11eb-924d-9cd76263cbd0,species,transvaalensis,Chorisochora,,"(A.Meeuse) Vollesen","Q5658466,Q19345043",1994,,"Kew Bull. 49: 476 1994",,Q55783412,,,,979035-1,wfo-0000603377,3774421,,

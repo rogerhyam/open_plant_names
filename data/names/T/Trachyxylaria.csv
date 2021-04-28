@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7c11a1e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Trachyxylaria,,,Möller,,1901,,"Bot. Mitt. Trop. 9: 308 (1901)",,,,a7c11a1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5515," "
 4f75448a-9bac-11eb-a8a2-19ed5c03f8d3,species,phaeodidyma,Trachyxylaria,,Möller,,1901,,"Bot. Mitt. Trop. 9: (1901)",,,,4f75448a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,229462," "
-182767a0-8fcd-11eb-924d-9cd76263cbd0,species,liliohyacinthus,Tractema,,"(L.) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003503-1,wfo-0000743134,2767392,,
-18272b6e-8fcd-11eb-924d-9cd76263cbd0,species,merinoi,Tractema,,"(S.Ortiz, Rodr.Oubiña & Izco) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,16936ab0-8fcd-11eb-924d-9cd76263cbd0,,1003504-1,wfo-0000743132,2767258,,
-18270fda-8fcd-11eb-924d-9cd76263cbd0,species,monophyllos,Tractema,,"(Link) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,176d2d7c-8fcd-11eb-924d-9cd76263cbd0,,1003505-1,wfo-0000743131,2767234,,
-1826f414-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Tractema,,"(Link) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,1764d44c-8fcd-11eb-924d-9cd76263cbd0,,1003506-1,wfo-0000743130,2767577,,
-1a6e8ce6-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Tractema,,"(Brot.) Raf.",,1837,,"Fl. Tellur. 2: 57 1837",,,,17784950-8fcd-11eb-924d-9cd76263cbd0,,542438-1,wfo-0000747951,2767237,,
-1826d7ea-8fcd-11eb-924d-9cd76263cbd0,species,ramburei,Tractema,,"(Boiss.) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003507-1,wfo-0000743129,,,
-1826b896-8fcd-11eb-924d-9cd76263cbd0,species,tingitana,Tractema,,"(Schousb.) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,1762f8b6-8fcd-11eb-924d-9cd76263cbd0,,1003508-1,wfo-0000743128,2767235,,
-1827dab4-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Tractema,,"(Ramond) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,175f5c56-8fcd-11eb-924d-9cd76263cbd0,,1003509-1,wfo-0000743138,2767424,,
-1825b130-8fcd-11eb-924d-9cd76263cbd0,species,verna,Tractema,,"(Huds.) Speta",,1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003510-1,wfo-0000743119,2767421,,
-ca4b2620-8fd1-11eb-924d-9cd76263cbd0,species,burmahia,Tractocopevodia,,"Raizada & K.Narayanaswami",,1946,,"Indian Forester 72: 276, t. 19 1946",,,,,,775452-1,wfo-0001273188,7833148,,
+182767a0-8fcd-11eb-924d-9cd76263cbd0,species,liliohyacinthus,Tractema,,"(L.) Speta","Q1043,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003503-1,wfo-0000743134,2767392,,
+18272b6e-8fcd-11eb-924d-9cd76263cbd0,species,merinoi,Tractema,,"(S.Ortiz, Rodr.Oubiña & Izco) Speta","Q16301809,Q26712445,Q18644252,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,16936ab0-8fcd-11eb-924d-9cd76263cbd0,,1003504-1,wfo-0000743132,2767258,,
+18270fda-8fcd-11eb-924d-9cd76263cbd0,species,monophyllos,Tractema,,"(Link) Speta","Q215466,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,176d2d7c-8fcd-11eb-924d-9cd76263cbd0,,1003505-1,wfo-0000743131,2767234,,
+1826f414-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Tractema,,"(Link) Speta","Q215466,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,1764d44c-8fcd-11eb-924d-9cd76263cbd0,,1003506-1,wfo-0000743130,2767577,,
+1a6e8ce6-8fcd-11eb-924d-9cd76263cbd0,species,pumila,Tractema,,"(Brot.) Raf.","Q1032088,Q364857",1837,,"Fl. Tellur. 2: 57 1837",,,,17784950-8fcd-11eb-924d-9cd76263cbd0,,542438-1,wfo-0000747951,2767237,,
+1826d7ea-8fcd-11eb-924d-9cd76263cbd0,species,ramburei,Tractema,,"(Boiss.) Speta","Q34430,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003507-1,wfo-0000743129,,,
+1826b896-8fcd-11eb-924d-9cd76263cbd0,species,tingitana,Tractema,,"(Schousb.) Speta","Q3376870,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,1762f8b6-8fcd-11eb-924d-9cd76263cbd0,,1003508-1,wfo-0000743128,2767235,,
+1827dab4-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Tractema,,"(Ramond) Speta","Q640494,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,175f5c56-8fcd-11eb-924d-9cd76263cbd0,,1003509-1,wfo-0000743138,2767424,,
+1825b130-8fcd-11eb-924d-9cd76263cbd0,species,verna,Tractema,,"(Huds.) Speta","Q982798,Q86532",1998,,"Phyton (Horn) 38: 124 1998",,,,,,1003510-1,wfo-0000743119,2767421,,
+ca4b2620-8fd1-11eb-924d-9cd76263cbd0,species,burmahia,Tractocopevodia,,"Raizada & K.Narayanaswami",Q6026058,1946,,"Indian Forester 72: 276, t. 19 1946",,,,,,775452-1,wfo-0001273188,7833148,,

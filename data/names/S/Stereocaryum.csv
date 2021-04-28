@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eace348c-8fd1-11eb-924d-9cd76263cbd0,genus,Stereocaryum,,,Burret,,1941,,"Notizbl. Bot. Gart. Berlin–Dahlem 15: 546. 1941.",,Q55777764,,,,27755-1,wfo-4000036612,3175334,,
-10e0049e-8fcc-11eb-924d-9cd76263cbd0,species,neocaledonicum,Stereocaryum,,"(Brongn. & Gris) A.J.Scott",,1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601311-1,wfo-0000316735,3175335,,
-10e02bd6-8fcc-11eb-924d-9cd76263cbd0,species,ovigerum,Stereocaryum,,"(Brongn. & Gris) Burret",,1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 547 1941",,Q55777764,,,,601312-1,wfo-0000316736,3175344,,
-10e18896-8fcc-11eb-924d-9cd76263cbd0,species,rubiginosum,Stereocaryum,,"(Brongn. & Gris) Burret",,1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 546 1941",,Q55777764,,,,601313-1,wfo-0000316737,3175337,,
-10e1cff4-8fcc-11eb-924d-9cd76263cbd0,species,symingtonianum,Stereocaryum,,"(M.R.Hend.) A.J.Scott",,1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601314-1,wfo-0000316738,3182487,,
-10e1f678-8fcc-11eb-924d-9cd76263cbd0,species,watsonianum,Stereocaryum,,"(M.R.Hend.) A.J.Scott",,1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601315-1,wfo-0000316739,3183744,,
+eace348c-8fd1-11eb-924d-9cd76263cbd0,genus,Stereocaryum,,,Burret,Q78365,1941,,"Notizbl. Bot. Gart. Berlin–Dahlem 15: 546. 1941.",,Q55777764,,,,27755-1,wfo-4000036612,3175334,,
+10e0049e-8fcc-11eb-924d-9cd76263cbd0,species,neocaledonicum,Stereocaryum,,"(Brongn. & Gris) A.J.Scott","Q73990,Q797799,Q5675316",1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601311-1,wfo-0000316735,3175335,,
+10e02bd6-8fcc-11eb-924d-9cd76263cbd0,species,ovigerum,Stereocaryum,,"(Brongn. & Gris) Burret","Q73990,Q797799,Q78365",1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 547 1941",,Q55777764,,,,601312-1,wfo-0000316736,3175344,,
+10e18896-8fcc-11eb-924d-9cd76263cbd0,species,rubiginosum,Stereocaryum,,"(Brongn. & Gris) Burret","Q73990,Q797799,Q78365",1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 546 1941",,Q55777764,,,,601313-1,wfo-0000316737,3175337,,
+10e1cff4-8fcc-11eb-924d-9cd76263cbd0,species,symingtonianum,Stereocaryum,,"(M.R.Hend.) A.J.Scott","Q6713025,Q5675316",1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601314-1,wfo-0000316738,3182487,,
+10e1f678-8fcc-11eb-924d-9cd76263cbd0,species,watsonianum,Stereocaryum,,"(M.R.Hend.) A.J.Scott","Q6713025,Q5675316",1980,,"Kew Bull. 34: 496 1980",,Q54802005,,,,601315-1,wfo-0000316739,3183744,,

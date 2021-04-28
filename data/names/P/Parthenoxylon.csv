@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80b4fd2-8fd1-11eb-924d-9cd76263cbd0,genus,Parthenoxylon,,,Blume,,1851,,"Mus. Bot. 1: 322. 1851.",,,,,,,wfo-4000028268,7304194,,
-74abcbde-8fcc-11eb-924d-9cd76263cbd0,species,porrectum,Parthenoxylon,,"(Roxb.) Blume",,1851,,"Mus. Bot. 1: 323 1851",,,,,,467908-1,wfo-0000465150,4176780,,
-74abb19e-8fcc-11eb-924d-9cd76263cbd0,species,pruinosum,Parthenoxylon,,Blume,,1851,,"Mus. Bot. 1: 323 1851",,,,,,467909-1,wfo-0000465149,4176770,,
-b8b37e4e-8fd1-11eb-924d-9cd76263cbd0,species,pseudosassafras,Parthenoxylon,,"(Blume) Blume",,1851,,"Mus. Bot. 1: 323 1851",,,,b8b39a50-8fd1-11eb-924d-9cd76263cbd0,,467910-1,wfo-0001240543,4176757,,
+e80b4fd2-8fd1-11eb-924d-9cd76263cbd0,genus,Parthenoxylon,,,Blume,Q76816,1851,,"Mus. Bot. 1: 322. 1851.",,,,,,,wfo-4000028268,7304194,,
+74abcbde-8fcc-11eb-924d-9cd76263cbd0,species,porrectum,Parthenoxylon,,"(Roxb.) Blume","Q748967,Q76816",1851,,"Mus. Bot. 1: 323 1851",,,,,,467908-1,wfo-0000465150,4176780,,
+74abb19e-8fcc-11eb-924d-9cd76263cbd0,species,pruinosum,Parthenoxylon,,Blume,Q76816,1851,,"Mus. Bot. 1: 323 1851",,,,,,467909-1,wfo-0000465149,4176770,,
+b8b37e4e-8fd1-11eb-924d-9cd76263cbd0,species,pseudosassafras,Parthenoxylon,,"(Blume) Blume",Q76816,1851,,"Mus. Bot. 1: 323 1851",,,,b8b39a50-8fd1-11eb-924d-9cd76263cbd0,,467910-1,wfo-0001240543,4176757,,

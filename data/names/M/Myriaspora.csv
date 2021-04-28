@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7009d22-8fd1-11eb-924d-9cd76263cbd0,genus,Myriaspora,,,DC.,,1828,,"Prodr. 3: 165. 1828.",,,,,,,wfo-4000025119,7273167,,
-bff61fda-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Myriaspora,,Naudin,,1850,,"Ann. Sci. Nat., Bot., sér. 3, 16(2): 101–102 1850",,,,,,,wfo-0001080047,3868822,,
-bf72d04e-8fcd-11eb-924d-9cd76263cbd0,species,egensis,Myriaspora,,"Mart. ex DC.",,1828,,"Prodr. 3: 165 1828",,,,,,573868-1,wfo-0001078881,3868813,,
-a195ad02-8fbf-11eb-924d-9cd76263cbd0,species,integrifolia,Myriaspora,,"Steud. ex Triana",,1871,,"Trans. Linn. Soc. London 28(1): 145 8 Dec 1871-13 Jan 1872",,Q55760785,,,,573869-1,wfo-0000161102,3868800,,
-a1a0848e-8fbf-11eb-924d-9cd76263cbd0,species,paulensis,Myriaspora,,DC.,,1828,,"Prodr. (DC.) 3: 165 1828 [mid Mar 1828]",,,,,,573870-1,wfo-0000161103,3868790,,
-cd059148-8fd1-11eb-924d-9cd76263cbd0,species,surinamensis,Myriaspora,,Steud.,,1844,,"Flora 27: 722 1844",,,,,,573871-1,wfo-0001278107,3868777,,
+e7009d22-8fd1-11eb-924d-9cd76263cbd0,genus,Myriaspora,,,DC.,Q123057,1828,,"Prodr. 3: 165. 1828.",,,,,,,wfo-4000025119,7273167,,
+bff61fda-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Myriaspora,,Naudin,Q2245197,1850,,"Ann. Sci. Nat., Bot., sér. 3, 16(2): 101–102 1850",,,,,,,wfo-0001080047,3868822,,
+bf72d04e-8fcd-11eb-924d-9cd76263cbd0,species,egensis,Myriaspora,,"Mart. ex DC.","Q77131,Q123057",1828,,"Prodr. 3: 165 1828",,,,,,573868-1,wfo-0001078881,3868813,,
+a195ad02-8fbf-11eb-924d-9cd76263cbd0,species,integrifolia,Myriaspora,,"Steud. ex Triana","Q62821,Q2495258",1871,,"Trans. Linn. Soc. London 28(1): 145 8 Dec 1871-13 Jan 1872",,Q55760785,,,,573869-1,wfo-0000161102,3868800,,
+a1a0848e-8fbf-11eb-924d-9cd76263cbd0,species,paulensis,Myriaspora,,DC.,Q123057,1828,,"Prodr. (DC.) 3: 165 1828 [mid Mar 1828]",,,,,,573870-1,wfo-0000161103,3868790,,
+cd059148-8fd1-11eb-924d-9cd76263cbd0,species,surinamensis,Myriaspora,,Steud.,Q62821,1844,,"Flora 27: 722 1844",,,,,,573871-1,wfo-0001278107,3868777,,

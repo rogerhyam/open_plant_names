@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8e1989e-8fd1-11eb-924d-9cd76263cbd0,genus,Polypodiopteris,,,C.F.Reed,,1948,,"Amer. Fern J. 38: 87. 1948.",,,,,,,wfo-4000030778,7726972,,
-ac33065c-8fcd-11eb-924d-9cd76263cbd0,species,brachypodia,Polypodiopteris,,"(Copel.) Reed",,1948,,"Amer. Fern J. 38: 87 1948",,,,a57e13d4-8fbd-11eb-924d-9cd76263cbd0,,,wfo-0001035122,5648505,,
-ac3346b2-8fcd-11eb-924d-9cd76263cbd0,species,colorata,Polypodiopteris,,C.F.Reed,,1948,,"Amer. Fern J. 38: 87 1948",,Q55764353,,,,17411690-1,wfo-0001035124,5648501,,
-ac32eb9a-8fcd-11eb-924d-9cd76263cbd0,species,proavita,Polypodiopteris,,"(Copel.) C.F.Reed",,1948,,"Amer. Fern J. 38: 87 1948",,Q55764353,,,,17411700-1,wfo-0001035121,5648492,,
+e8e1989e-8fd1-11eb-924d-9cd76263cbd0,genus,Polypodiopteris,,,C.F.Reed,Q5775258,1948,,"Amer. Fern J. 38: 87. 1948.",,,,,,,wfo-4000030778,7726972,,
+ac33065c-8fcd-11eb-924d-9cd76263cbd0,species,brachypodia,Polypodiopteris,,"(Copel.) Reed",Q2618968,1948,,"Amer. Fern J. 38: 87 1948",,,,a57e13d4-8fbd-11eb-924d-9cd76263cbd0,,,wfo-0001035122,5648505,,
+ac3346b2-8fcd-11eb-924d-9cd76263cbd0,species,colorata,Polypodiopteris,,C.F.Reed,Q5775258,1948,,"Amer. Fern J. 38: 87 1948",,Q55764353,,,,17411690-1,wfo-0001035124,5648501,,
+ac32eb9a-8fcd-11eb-924d-9cd76263cbd0,species,proavita,Polypodiopteris,,"(Copel.) C.F.Reed","Q2618968,Q5775258",1948,,"Amer. Fern J. 38: 87 1948",,Q55764353,,,,17411700-1,wfo-0001035121,5648492,,

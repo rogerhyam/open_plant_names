@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6e9d78e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bergorea,,,Nieuwl.,,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,a6e9d78e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,548," "
-b90a9de0-9bad-11eb-a8a2-19ed5c03f8d3,species,albifrons,Bergorea,,"(Tul.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,ca371d9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100552," "
-07752e34-9bac-11eb-a8a2-19ed5c03f8d3,species,unica,Bergorea,,"(Desm.) Nieuwl.",,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,51475e42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101596," "
-46753678-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Rousseau",,1952,,"Mém. Jard. Bot. Montréal 29: 15 1952",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,384785-1,wfo-0000841773,,,
-519fb140-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Hyl.",,1953,,"Nordisk Karlvaxtfl. 1: 371 1953",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000865885,,,
-46236a46-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Tzvelev",,1964,,"Fl. Arct. URSS 2: 250 1964",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,407299-1,wfo-0000841116,,,
-461d4224-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Conert",,1997,,"Ill. Fl. Mitt.-Eur. ed. 3, 1(3; 10): 802 1997",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,1000002-1,wfo-0000841063,,,
-46321302-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,H.Lindb.,,1906,,"Meddeland. Soc. Fauna Fl. Fenn. 32: 21 1906",,,,,,426031-1,wfo-0000841241,,,
-462331c0-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Tzvelev",,1974,,"in Fl. Severo-Vostoka Evropeiskoi Chasti SSSR 1: 121 1974",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000841114,,,
+a6e9d78e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bergorea,,,Nieuwl.,Q88145,1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,a6e9d78e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,548," "
+b90a9de0-9bad-11eb-a8a2-19ed5c03f8d3,species,albifrons,Bergorea,,"(Tul.) Nieuwl.","Q918803,Q88145",1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,ca371d9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100552," "
+07752e34-9bac-11eb-a8a2-19ed5c03f8d3,species,unica,Bergorea,,"(Desm.) Nieuwl.","Q4157332,Q88145",1916,,"Am. Midl. Nat. 4: 384 (1916)",,,,51475e42-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101596," "
+461d4224-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Conert","Q3127253,Q5891900",1997,,"Ill. Fl. Mitt.-Eur. ed. 3, 1(3; 10): 802 1997",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,1000002-1,wfo-0000841063,,,
+462331c0-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Tzvelev","Q3127253,Q4503394",1974,,"in Fl. Severo-Vostoka Evropeiskoi Chasti SSSR 1: 121 1974",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000841114,,,
+46236a46-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Tzvelev","Q3127253,Q4503394",1964,,"Fl. Arct. URSS 2: 250 1964",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,407299-1,wfo-0000841116,,,
+46321302-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,H.Lindb.,Q3127253,1906,,"Meddeland. Soc. Fauna Fl. Fenn. 32: 21 1906",,,,,,426031-1,wfo-0000841241,,,
+46753678-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Rousseau","Q3127253,Q6527",1952,,"Mém. Jard. Bot. Montréal 29: 15 1952",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,384785-1,wfo-0000841773,,,
+519fb140-8fcd-11eb-924d-9cd76263cbd0,species,bergrothii,,,"(H.Lindb.) Hyl.","Q3127253,Q2843692",1953,,"Nordisk Karlvaxtfl. 1: 371 1953",,,,46321302-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000865885,,,

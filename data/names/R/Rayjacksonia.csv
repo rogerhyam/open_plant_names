@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e982b27e-8fd1-11eb-924d-9cd76263cbd0,genus,Rayjacksonia,,,"R.L.Hartm. & M.A.Lane",,,,,,Q55766300,,,,988869-1,wfo-4000032622,3106591,,
-8dae7c7e-8fba-11eb-924d-9cd76263cbd0,species,annua,Rayjacksonia,,"(Rydb.) R.L.Hartm. & M.A.Lane",,1996,,"368-369 1996",,Q55766300,,,,1177846-2,wfo-0000127571,3106602,,
-11432668-8fb4-11eb-924d-9cd76263cbd0,species,aurea,Rayjacksonia,,"(A.Gray) R.L.Hartm. & M.A.Lane",,1996,,"369 1996",,Q55766300,,,,1118614-2,wfo-0000059425,3106592,,
-cc05350c-8fb6-11eb-924d-9cd76263cbd0,species,phyllocephala,Rayjacksonia,,"(DC.) R.L.Hartm. & M.A.Lane",,1996,,"Amer. J. Bot. 83(3): 369 (1996):.",,Q55766300,,,,1122699-2,wfo-0000093265,3106596,,
-64b1283a-8fb5-11eb-924d-9cd76263cbd0,species,phyllocephala,Rayjacksonia,,DC.,,1996,,"Amer. J. Bot. 83: 369. 1996",,,,,,,wfo-0000077537,7673607,,
+e982b27e-8fd1-11eb-924d-9cd76263cbd0,genus,Rayjacksonia,,,"R.L.Hartm. & M.A.Lane","Q6111661,Q21391286",,,,,Q55766300,,,,988869-1,wfo-4000032622,3106591,,
+8dae7c7e-8fba-11eb-924d-9cd76263cbd0,species,annua,Rayjacksonia,,"(Rydb.) R.L.Hartm. & M.A.Lane","Q1905130,Q6111661,Q21391286",1996,,"368-369 1996",,Q55766300,,,,1177846-2,wfo-0000127571,3106602,,
+11432668-8fb4-11eb-924d-9cd76263cbd0,species,aurea,Rayjacksonia,,"(A.Gray) R.L.Hartm. & M.A.Lane","Q347356,Q6111661,Q21391286",1996,,"369 1996",,Q55766300,,,,1118614-2,wfo-0000059425,3106592,,
+64b1283a-8fb5-11eb-924d-9cd76263cbd0,species,phyllocephala,Rayjacksonia,,DC.,Q123057,1996,,"Amer. J. Bot. 83: 369. 1996",,,,,,,wfo-0000077537,7673607,,
+cc05350c-8fb6-11eb-924d-9cd76263cbd0,species,phyllocephala,Rayjacksonia,,"(DC.) R.L.Hartm. & M.A.Lane","Q123057,Q6111661,Q21391286",1996,,"Amer. J. Bot. 83(3): 369 (1996):.",,Q55766300,,,,1122699-2,wfo-0000093265,3106596,,

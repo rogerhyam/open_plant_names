@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfee2c0c-8fd1-11eb-924d-9cd76263cbd0,genus,Aucoumea,,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 1: 1241. 1896.",,,,,,5109-1,wfo-4000003638,7286760,,
-ab24d71e-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Aucoumea,,Pierre,,,,"Bull. Mens. Soc. Linn. Paris 1: 1241 1896",,,,,,126950-1,wfo-0000556878,3992751,,
-ab252f48-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Aucoumea,,"(Guill.) Pierre ex Guillaumin",,1908,,"Bull. Soc. Bot. France 55: 267 1908",,Q55756936,,,,126951-1,wfo-0000556879,,,
+dfee2c0c-8fd1-11eb-924d-9cd76263cbd0,genus,Aucoumea,,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 1: 1241. 1896.",,,,,,5109-1,wfo-4000003638,7286760,,
+ab24d71e-8fcc-11eb-924d-9cd76263cbd0,species,klaineana,Aucoumea,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 1: 1241 1896",,,,,,126950-1,wfo-0000556878,3992751,,
+ab252f48-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Aucoumea,,"(Guill.) Pierre ex Guillaumin","Q532500,Q2593213,Q2847911",1908,,"Bull. Soc. Bot. France 55: 267 1908",,Q55756936,,,,126951-1,wfo-0000556879,,,

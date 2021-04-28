@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e57bc4d6-8fd1-11eb-924d-9cd76263cbd0,genus,Lachanodes,,,DC.,,,,,,,,,,9608-1,wfo-4000020354,7336390,,
-4ac3de62-8fbb-11eb-924d-9cd76263cbd0,species,arborea,Lachanodes,,"(Roxb.) B.Nord.",,1978,,"Opera Bot. 44: 38 (1978).",,,,,,227766-1,wfo-0000133120,4213910,,
-71b28ade-8fb4-11eb-924d-9cd76263cbd0,species,cuneifolia,Lachanodes,,DC.,,1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227767-1,wfo-0000065149,4213905,,
-92364f6e-8fbb-11eb-924d-9cd76263cbd0,species,leucadendron,Lachanodes,,DC.,,1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227768-1,wfo-0000135159,4213902,,
-7c0c1148-8fba-11eb-924d-9cd76263cbd0,species,pladaroxylon,Lachanodes,,Endl.,,1838,,"Gen. Pl. [Endlicher] 461 1838",,,,,,227769-1,wfo-0000127014,4213898,,
-0040f8de-8fbb-11eb-924d-9cd76263cbd0,species,prenanthiflora,Lachanodes,,"Burch. ex DC.",,1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227770-1,wfo-0000131026,4213892,,
+e57bc4d6-8fd1-11eb-924d-9cd76263cbd0,genus,Lachanodes,,,DC.,Q123057,,,,,,,,,9608-1,wfo-4000020354,7336390,,
+4ac3de62-8fbb-11eb-924d-9cd76263cbd0,species,arborea,Lachanodes,,"(Roxb.) B.Nord.","Q748967,Q4895698",1978,,"Opera Bot. 44: 38 (1978).",,,,,,227766-1,wfo-0000133120,4213910,,
+71b28ade-8fb4-11eb-924d-9cd76263cbd0,species,cuneifolia,Lachanodes,,DC.,Q123057,1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227767-1,wfo-0000065149,4213905,,
+92364f6e-8fbb-11eb-924d-9cd76263cbd0,species,leucadendron,Lachanodes,,DC.,Q123057,1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227768-1,wfo-0000135159,4213902,,
+7c0c1148-8fba-11eb-924d-9cd76263cbd0,species,pladaroxylon,Lachanodes,,Endl.,Q78605,1838,,"Gen. Pl. [Endlicher] 461 1838",,,,,,227769-1,wfo-0000127014,4213898,,
+0040f8de-8fbb-11eb-924d-9cd76263cbd0,species,prenanthiflora,Lachanodes,,"Burch. ex DC.","Q1397207,Q123057",1838,,"Prodr. (DC.) 6: 443 1838",,,,,,227770-1,wfo-0000131026,4213892,,

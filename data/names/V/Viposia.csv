@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebf38ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Viposia,,,Lundell,,1939,,"Lilloa 4(2): 384–386, t. 1, f. 1. 1939.",,,,,,,wfo-4000040314,7265475,,
-d895d8d8-8fd1-11eb-924d-9cd76263cbd0,species,integerrima,Viposia,,"(Lundell) Lundell",,1939,,"Lilloa 4(2): 386–387, t. 1, f. 1 1939",,,,d895bb96-8fd1-11eb-924d-9cd76263cbd0,,267098-2,wfo-0001292712,3791387,,
-c69d1c18-8fd1-11eb-924d-9cd76263cbd0,species,morelensis,Viquiera,,Greenm.,,1904,,"Proc. Amer. Acad. Arts 40: 40 1904",,,,,,,wfo-0001266199,7495863,,
-c69d3a0e-8fd1-11eb-924d-9cd76263cbd0,species,palmeri,Viquiera,,"A.Gray ex S.Watson",,,,"Proc. Amer. Acad. Arts 22: 427 `887",,,,,,,wfo-0001266200,8219693,,
-579256ae-8fb2-11eb-924d-9cd76263cbd0,species,asplenoides,Viraea,,"(L.) Batt.",,,,,,,,,,,wfo-0000021255,3093369,,
-9adfd596-8fb5-11eb-924d-9cd76263cbd0,species,podolepis,Viraya,,Gaudich.,,,,"466. t. 89",,,,,,260008-1,wfo-0000080022,4234455,,
+ebf38ce0-8fd1-11eb-924d-9cd76263cbd0,genus,Viposia,,,Lundell,Q3009490,1939,,"Lilloa 4(2): 384–386, t. 1, f. 1. 1939.",,,,,,,wfo-4000040314,7265475,,
+d895d8d8-8fd1-11eb-924d-9cd76263cbd0,species,integerrima,Viposia,,"(Lundell) Lundell",Q3009490,1939,,"Lilloa 4(2): 386–387, t. 1, f. 1 1939",,,,d895bb96-8fd1-11eb-924d-9cd76263cbd0,,267098-2,wfo-0001292712,3791387,,
+c69d1c18-8fd1-11eb-924d-9cd76263cbd0,species,morelensis,Viquiera,,Greenm.,Q933930,1904,,"Proc. Amer. Acad. Arts 40: 40 1904",,,,,,,wfo-0001266199,7495863,,
+c69d3a0e-8fd1-11eb-924d-9cd76263cbd0,species,palmeri,Viquiera,,"A.Gray ex S.Watson","Q347356,Q960820",,,"Proc. Amer. Acad. Arts 22: 427 `887",,,,,,,wfo-0001266200,8219693,,
+579256ae-8fb2-11eb-924d-9cd76263cbd0,species,asplenoides,Viraea,,"(L.) Batt.","Q1043,Q2597737",,,,,,,,,,wfo-0000021255,3093369,,
+9adfd596-8fb5-11eb-924d-9cd76263cbd0,species,podolepis,Viraya,,Gaudich.,Q1064524,,,"466. t. 89",,,,,,260008-1,wfo-0000080022,4234455,,

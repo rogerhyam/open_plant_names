@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9e133a88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sceptromyces,,,Corda,,1831,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(11): 7 (1831)",,,,9e133a88-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9797," "
-0db179ba-9bac-11eb-a8a2-19ed5c03f8d3,species,opizi,Sceptromyces,,Corda,,,,,,,,0db179ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280834," Sceptromyces opizii"
-75f74d6e-9bad-11eb-a8a2-19ed5c03f8d3,species,opizii,Sceptromyces,,Corda,,1831,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(11): 7 (1831)",,,,75f74d6e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211131," opizi"
-09aa180e-8fcc-11eb-924d-9cd76263cbd0,species,marina,Sceura,,Forssk.,,1775,,"Fl. Aegypt.-Arab. 37 1775",,Q5862701,,,,864598-1,wfo-0000305525,4196615,,
-46206634-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,"(Bowden) Barkworth & D.R.Dewey",,1985,,"Amer. J. Bot. 72: 772 1985",,Q55766277,,462c156a-8fcd-11eb-924d-9cd76263cbd0,,1035093-2,wfo-0000841090,,,
-462c156a-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,Bowden,,1958,,"Canad. J. Bot. 36: 105 1958",,,,,,288388-2,wfo-0000841189,,,
-461c88e8-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,"(Bowden) Bowden",,1967,,"Canad. J. Bot. 45: 719 1967",,Q95998079,,462c156a-8fcd-11eb-924d-9cd76263cbd0,,288403-2,wfo-0000841056,,,
+9e133a88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sceptromyces,,,Corda,Q624998,1831,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(11): 7 (1831)",,,,9e133a88-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9797," "
+0db179ba-9bac-11eb-a8a2-19ed5c03f8d3,species,opizi,Sceptromyces,,Corda,Q624998,,,,,,,0db179ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280834," Sceptromyces opizii"
+75f74d6e-9bad-11eb-a8a2-19ed5c03f8d3,species,opizii,Sceptromyces,,Corda,Q624998,1831,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(11): 7 (1831)",,,,75f74d6e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,211131," opizi"
+09aa180e-8fcc-11eb-924d-9cd76263cbd0,species,marina,Sceura,,Forssk.,Q27684,1775,,"Fl. Aegypt.-Arab. 37 1775",,Q5862701,,,,864598-1,wfo-0000305525,4196615,,
+461c88e8-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,"(Bowden) Bowden",Q21339686,1967,,"Canad. J. Bot. 45: 719 1967",,Q95998079,,462c156a-8fcd-11eb-924d-9cd76263cbd0,,288403-2,wfo-0000841056,,,
+46206634-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,"(Bowden) Barkworth & D.R.Dewey","Q21339686,Q2918786,Q5813901",1985,,"Amer. J. Bot. 72: 772 1985",,Q55766277,,462c156a-8fcd-11eb-924d-9cd76263cbd0,,1035093-2,wfo-0000841090,,,
+462c156a-8fcd-11eb-924d-9cd76263cbd0,species,schaackianum,,,Bowden,Q21339686,1958,,"Canad. J. Bot. 36: 105 1958",,,,,,288388-2,wfo-0000841189,,,

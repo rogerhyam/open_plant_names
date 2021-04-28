@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-0e194d8c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pseudomassariella,,,Petr.,,1955,,"Sydowia 9: 602 (1955)",,,,0e194d8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4453," "
-ff3d4426-9bac-11eb-a8a2-19ed5c03f8d3,species,vexata,Pseudomassariella,,"(Sacc.) Petr.",,1955,,"Sydowia 9: 603 (1955)",,,,79cfcdfa-9bab-11eb-a8a2-19ed5c03f8d3,,,,,304441," "
-fc297ea4-8fcb-11eb-924d-9cd76263cbd0,species,chloroleuca,Pseudomaxillaria,,"(Barb.Rodr.) Hoehne",,1947,,"Arq. Bot. Estado São Paulo n.s., f.m., 2: 71 1947",,,,,,211474-2,wfo-0000284075,2826632,,
-fc29ac4e-8fcb-11eb-924d-9cd76263cbd0,species,parviflora,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger",,1977,,"Bot. Jahrb. Syst. 97: 555 1977",,,,,,211475-2,wfo-0000284076,2826639,,
-fc29d07a-8fcb-11eb-924d-9cd76263cbd0,species,pendula,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger",,1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,0995b72e-8fcc-11eb-924d-9cd76263cbd0,,211476-2,wfo-0000284077,2826324,,
-fc29eea2-8fcb-11eb-924d-9cd76263cbd0,species,rhomboglossa,Pseudomaxillaria,,"(Schltr.) Brieger",,1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,,,211477-2,wfo-0000284078,3653949,,
-fc2a095a-8fcb-11eb-924d-9cd76263cbd0,species,vestita,Pseudomaxillaria,,"(Sw.) Brieger",,1977,,"Bot. Jahrb. Syst. 97: 553 1977",,,,,,211478-2,wfo-0000284079,2826633,,
-fc2a252a-8fcb-11eb-924d-9cd76263cbd0,species,virescens,Pseudomaxillaria,,"(Schltr.) Brieger",,1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,,,211479-2,wfo-0000284080,3653946,,
+0e194d8c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pseudomassariella,,,Petr.,Q4360385,1955,,"Sydowia 9: 602 (1955)",,,,0e194d8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4453," "
+ff3d4426-9bac-11eb-a8a2-19ed5c03f8d3,species,vexata,Pseudomassariella,,"(Sacc.) Petr.","Q707840,Q4360385",1955,,"Sydowia 9: 603 (1955)",,,,79cfcdfa-9bab-11eb-a8a2-19ed5c03f8d3,,,,,304441," "
+fc297ea4-8fcb-11eb-924d-9cd76263cbd0,species,chloroleuca,Pseudomaxillaria,,"(Barb.Rodr.) Hoehne","Q45374,Q5499235",1947,,"Arq. Bot. Estado São Paulo n.s., f.m., 2: 71 1947",,,,,,211474-2,wfo-0000284075,2826632,,
+fc29ac4e-8fcb-11eb-924d-9cd76263cbd0,species,parviflora,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger","Q61501,Q78605,Q2314714",1977,,"Bot. Jahrb. Syst. 97: 555 1977",,,,,,211475-2,wfo-0000284076,2826639,,
+fc29d07a-8fcb-11eb-924d-9cd76263cbd0,species,pendula,Pseudomaxillaria,,"(Poepp. & Endl.) Brieger","Q61501,Q78605,Q2314714",1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,0995b72e-8fcc-11eb-924d-9cd76263cbd0,,211476-2,wfo-0000284077,2826324,,
+fc29eea2-8fcb-11eb-924d-9cd76263cbd0,species,rhomboglossa,Pseudomaxillaria,,"(Schltr.) Brieger","Q62278,Q2314714",1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,,,211477-2,wfo-0000284078,3653949,,
+fc2a095a-8fcb-11eb-924d-9cd76263cbd0,species,vestita,Pseudomaxillaria,,"(Sw.) Brieger","Q632088,Q2314714",1977,,"Bot. Jahrb. Syst. 97: 553 1977",,,,,,211478-2,wfo-0000284079,2826633,,
+fc2a252a-8fcb-11eb-924d-9cd76263cbd0,species,virescens,Pseudomaxillaria,,"(Schltr.) Brieger","Q62278,Q2314714",1977,,"Bot. Jahrb. Syst. 97: 556 1977",,,,,,211479-2,wfo-0000284080,3653946,,

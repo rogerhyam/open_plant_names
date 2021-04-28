@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4e3011a-8fd1-11eb-924d-9cd76263cbd0,genus,Huerniopsis,,,N.E.Br.,,1878,,"J. Linn. Soc., Bot. 17: 171, t. 12, f. 9–13. 1878.",,,,,,,wfo-4000018379,7312719,,
-cabe41ae-8fcd-11eb-924d-9cd76263cbd0,species,atrosanguinea,Huerniopsis,,"(N.E.Br.) A.C.White & B.Sloane",,1937,,"Stapelieae 3: 973 1937",,,,,,98834-1,wfo-0001103656,3582494,,
-c98951f2-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Huerniopsis,,N.E.Br.,,1878,,"J. Linn. Soc., Bot. 17: 171, t. 12, f. 9–13 1878",,,,,,,wfo-0001100946,3582486,,
-cabe608a-8fcd-11eb-924d-9cd76263cbd0,species,gibbosa,Huerniopsis,,Nel,,,,"Stapelieae 3: 1174 1937",,,,,,98836-1,wfo-0001103657,3582482,,
-0f6d1e52-8fcd-11eb-924d-9cd76263cbd0,species,papillata,Huerniopsis,,Nel,,1937,,"Stapelieae ed. 2, 3: 972 1937",,,,,,98837-1,wfo-0000725694,3582473,,
+e4e3011a-8fd1-11eb-924d-9cd76263cbd0,genus,Huerniopsis,,,N.E.Br.,Q721850,1878,,"J. Linn. Soc., Bot. 17: 171, t. 12, f. 9–13. 1878.",,,,,,,wfo-4000018379,7312719,,
+cabe41ae-8fcd-11eb-924d-9cd76263cbd0,species,atrosanguinea,Huerniopsis,,"(N.E.Br.) A.C.White & B.Sloane","Q721850,Q117088,Q5732971",1937,,"Stapelieae 3: 973 1937",,,,,,98834-1,wfo-0001103656,3582494,,
+c98951f2-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Huerniopsis,,N.E.Br.,Q721850,1878,,"J. Linn. Soc., Bot. 17: 171, t. 12, f. 9–13 1878",,,,,,,wfo-0001100946,3582486,,
+cabe608a-8fcd-11eb-924d-9cd76263cbd0,species,gibbosa,Huerniopsis,,Nel,Q1515170,,,"Stapelieae 3: 1174 1937",,,,,,98836-1,wfo-0001103657,3582482,,
+0f6d1e52-8fcd-11eb-924d-9cd76263cbd0,species,papillata,Huerniopsis,,Nel,Q1515170,1937,,"Stapelieae ed. 2, 3: 972 1937",,,,,,98837-1,wfo-0000725694,3582473,,

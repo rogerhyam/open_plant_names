@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a15b2e9e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Allelochaeta,,,Petr.,,1955,,"Sydowia 9: 464 (1955)",,,,a15b2e9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7095," "
-101ea18c-9bac-11eb-a8a2-19ed5c03f8d3,species,gaubae,Allelochaeta,,Petr.,,1955,,"Sydowia 9: 464 (1955)",,,,101ea18c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,292387," "
-48227756-8fcd-11eb-924d-9cd76263cbd0,species,urvillei,Allelotheca,,Steud.,,1854,,"Syn. Pl. Glumac. 1: 117 1854",,,,,,386979-1,wfo-0000845345,4109589,,
-809190a4-8fcd-11eb-924d-9cd76263cbd0,species,erythrocarpus,Allenanthus,,Standl.,,1940,,"Ann. Missouri Bot. Gard. 27: 344 1940",,Q55764697,,,,8546-2,wfo-0000943518,2907885,,
-809273ac-8fcd-11eb-924d-9cd76263cbd0,species,hondurensis,Allenanthus,,Standl.,,1950,,"Ceiba 1: 45 1950",,Q103981444,,,,8547-2,wfo-0000943526,2907889,,
-80953cd6-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Allenanthus,hondurensis,L.O.Williams,,1973,,"Phytologia 25: 461 1973",,,,,,8548-2,wfo-0000943546,2907884,,
-1b45516a-8fb2-11eb-924d-9cd76263cbd0,species,lanceolata,Allendea,,"La Llave",,1824,,"Nov. Veg. Descr. 1 10 1824",,,,,,175908-1,wfo-0000011552,3120404,,
-8098ae52-8fcd-11eb-924d-9cd76263cbd0,species,blackiana,Allenia,,"Ewart, Jean White & B.Rees",,1909,,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,,wfo-0000943578,5823215,,
-8099df48-8fcd-11eb-924d-9cd76263cbd0,variety,microphylla,Allenia,blackiana,"Ewart, Jean White & B.Rees",,1909,,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,,wfo-0000943589,5380954,,
-989c6a4e-8fcc-11eb-924d-9cd76263cbd0,species,urena,Allenia,,"(L.f.) E.Phillips",,1944,,"J. S. African Bot. 10: 33 1944",,,,,,558744-1,wfo-0000525999,5617410,,
+a15b2e9e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Allelochaeta,,,Petr.,Q4360385,1955,,"Sydowia 9: 464 (1955)",,,,a15b2e9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7095," "
+101ea18c-9bac-11eb-a8a2-19ed5c03f8d3,species,gaubae,Allelochaeta,,Petr.,Q4360385,1955,,"Sydowia 9: 464 (1955)",,,,101ea18c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,292387," "
+48227756-8fcd-11eb-924d-9cd76263cbd0,species,urvillei,Allelotheca,,Steud.,Q62821,1854,,"Syn. Pl. Glumac. 1: 117 1854",,,,,,386979-1,wfo-0000845345,4109589,,
+809190a4-8fcd-11eb-924d-9cd76263cbd0,species,erythrocarpus,Allenanthus,,Standl.,Q1333160,1940,,"Ann. Missouri Bot. Gard. 27: 344 1940",,Q55764697,,,,8546-2,wfo-0000943518,2907885,,
+809273ac-8fcd-11eb-924d-9cd76263cbd0,species,hondurensis,Allenanthus,,Standl.,Q1333160,1950,,"Ceiba 1: 45 1950",,Q103981444,,,,8547-2,wfo-0000943526,2907889,,
+80953cd6-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Allenanthus,hondurensis,L.O.Williams,Q1871895,1973,,"Phytologia 25: 461 1973",,,,,,8548-2,wfo-0000943546,2907884,,
+1b45516a-8fb2-11eb-924d-9cd76263cbd0,species,lanceolata,Allendea,,"La Llave",Q2613638,1824,,"Nov. Veg. Descr. 1 10 1824",,,,,,175908-1,wfo-0000011552,3120404,,
+8098ae52-8fcd-11eb-924d-9cd76263cbd0,species,blackiana,Allenia,,"Ewart, Jean White & B.Rees","Q614703,Q6171680,Q25894051",1909,,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,,wfo-0000943578,5823215,,
+8099df48-8fcd-11eb-924d-9cd76263cbd0,variety,microphylla,Allenia,blackiana,"Ewart, Jean White & B.Rees","Q614703,Q6171680,Q25894051",1909,,"Proc. Roy. Soc. Victoria 22: 8 1909",,,,,,,wfo-0000943589,5380954,,
+989c6a4e-8fcc-11eb-924d-9cd76263cbd0,species,urena,Allenia,,"(L.f.) E.Phillips","Q178823,Q5346743",1944,,"J. S. African Bot. 10: 33 1944",,,,,,558744-1,wfo-0000525999,5617410,,

@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9f50ba2e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Galactopus,,,Earle,,1909,,"Bulletin of the New York Botanical Garden 5: 426 (1909)",,,,9f50ba2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17628," "
-2341e4cc-9bac-11eb-a8a2-19ed5c03f8d3,species,haematopus,Galactopus,,"(Pers.) Earle",,1909,,"Bulletin of the New York Botanical Garden 5: 426 (1909)",,,,3e903d9a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100229," "
+9f50ba2e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Galactopus,,,Earle,Q2547765,1909,,"Bulletin of the New York Botanical Garden 5: 426 (1909)",,,,9f50ba2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17628," "
+2341e4cc-9bac-11eb-a8a2-19ed5c03f8d3,species,haematopus,Galactopus,,"(Pers.) Earle","Q346451,Q2547765",1909,,"Bulletin of the New York Botanical Garden 5: 426 (1909)",,,,3e903d9a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100229," "
 0e5c044c-9bad-11eb-a8a2-19ed5c03f8d3,species,miniatus,Galactopus,,"E. Horak",,1971,,"N.Z. Jl Bot. 9(3): 436 (1971)",,,,0e5c044c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314259," "
 0e5c42c2-9bad-11eb-a8a2-19ed5c03f8d3,species,morris-jonesii,Galactopus,,"(G. Stev.) E. Horak",,1971,,"N.Z. Jl Bot. 9(3): 436 (1971)",,,,1ff8be98-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314260," "
 61e5d8c8-9bac-11eb-a8a2-19ed5c03f8d3,species,parsonsiae,Galactopus,,"(G. Stev.) E. Horak",,1971,,"N.Z. Jl Bot. 9(3): 444 (1971)",,,,61e5d8c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530406," parsonsii"
 0e5c7080-9bad-11eb-a8a2-19ed5c03f8d3,species,parsonsii,Galactopus,,"(G. Stev.) E. Horak",,,,,,,,10c6be12-9bac-11eb-a8a2-19ed5c03f8d3,,,,,314261," Galactopus parsonsiae"
-ac196a90-9bac-11eb-a8a2-19ed5c03f8d3,species,rugosodiscus,Galactopus,,"(Peck) Murrill",,1916,,"N. Amer. Fl. (New York) 9(5): 318 (1916)",,,,b1f50a04-9bad-11eb-a8a2-19ed5c03f8d3,,,,,502398," "
-ac199966-9bac-11eb-a8a2-19ed5c03f8d3,species,sanguinolentus,Galactopus,,"(Alb. & Schwein.) Murrill",,1916,,"N. Amer. Fl. (New York) 9(5): 319 (1916)",,,,78edeec6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,502399," "
-d353128c-9bac-11eb-a8a2-19ed5c03f8d3,species,serifluus,Galactopus,,Murrill,,,,,,,,d353128c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254671," "
-62419e10-9bac-11eb-a8a2-19ed5c03f8d3,species,succosus,Galactopus,,"(Peck) Muir",,1916,,"N. Amer. Fl. (New York) 9: 318 (1916)",,,,77e6e63a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,508207," "
-8b845906-8fcd-11eb-924d-9cd76263cbd0,species,pierrei,Galactoxylon,,Baill.,,1892,,"Hist. Pl. 11: 300 1892",,,,,,786838-1,wfo-0000967734,2886608,,
+ac196a90-9bac-11eb-a8a2-19ed5c03f8d3,species,rugosodiscus,Galactopus,,"(Peck) Murrill","Q1064899,Q2170251",1916,,"N. Amer. Fl. (New York) 9(5): 318 (1916)",,,,b1f50a04-9bad-11eb-a8a2-19ed5c03f8d3,,,,,502398," "
+ac199966-9bac-11eb-a8a2-19ed5c03f8d3,species,sanguinolentus,Galactopus,,"(Alb. & Schwein.) Murrill","Q62241,Q1822110,Q2170251",1916,,"N. Amer. Fl. (New York) 9(5): 319 (1916)",,,,78edeec6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,502399," "
+d353128c-9bac-11eb-a8a2-19ed5c03f8d3,species,serifluus,Galactopus,,Murrill,Q2170251,,,,,,,d353128c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254671," "
+62419e10-9bac-11eb-a8a2-19ed5c03f8d3,species,succosus,Galactopus,,"(Peck) Muir",Q1064899,1916,,"N. Amer. Fl. (New York) 9: 318 (1916)",,,,77e6e63a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,508207," "
+8b845906-8fcd-11eb-924d-9cd76263cbd0,species,pierrei,Galactoxylon,,Baill.,Q461931,1892,,"Hist. Pl. 11: 300 1892",,,,,,786838-1,wfo-0000967734,2886608,,

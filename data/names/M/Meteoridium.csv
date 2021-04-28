@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6a06272-8fd1-11eb-924d-9cd76263cbd0,genus,Meteoridium,,,Manuel,,1977,,"Lindbergia 4: 47. 1977.",,,,,,,wfo-4000023928,2677999,,
-e9376cc8-8fcd-11eb-924d-9cd76263cbd0,species,remotifolium,Meteoridium,,"(Müll.Hal.) Manuel",,1977,,"Lindbergia 4: 49 1977",,,,e6d3bce8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169620,2678000,,
-f6993612-8fcd-11eb-924d-9cd76263cbd0,species,tenuissimum,Meteoridium,,"(Hook. & Wilson) M.A.Lewis",,1992,,"Trop. Bryol. 5: 41 1992",,,,,,,wfo-0001197055,2678001,,
+e6a06272-8fd1-11eb-924d-9cd76263cbd0,genus,Meteoridium,,,Manuel,Q21340811,1977,,"Lindbergia 4: 47. 1977.",,,,,,,wfo-4000023928,2677999,,
+e9376cc8-8fcd-11eb-924d-9cd76263cbd0,species,remotifolium,Meteoridium,,"(Müll.Hal.) Manuel","Q66346,Q21340811",1977,,"Lindbergia 4: 49 1977",,,,e6d3bce8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001169620,2678000,,
+f6993612-8fcd-11eb-924d-9cd76263cbd0,species,tenuissimum,Meteoridium,,"(Hook. & Wilson) M.A.Lewis","Q472639,Q8014944,Q21518845",1992,,"Trop. Bryol. 5: 41 1992",,,,,,,wfo-0001197055,2678001,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea68a522-8fd1-11eb-924d-9cd76263cbd0,genus,Sindechites,,,Oliv.,,1772,,"Hooker's Icon. Pl. 18: , t. 1772. 1888.",,,,,,2568-1,wfo-4000035427,7317438,,
-0d563e2e-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Sindechites,,"(Merr.) Markgr. & Tsiang",,1936,,"Sunyatsenia 3: 152 1936",,,,,,81781-1,wfo-0000311210,3622008,,
-0d565850-8fcc-11eb-924d-9cd76263cbd0,species,esquirolii,Sindechites,,"(H.Lév.) Woodson",,1934,,"J. Arnold Arbor. 15: 316 1934",,Q100558623,,,,81782-1,wfo-0000311211,3621999,,
-0d56713c-8fcc-11eb-924d-9cd76263cbd0,species,henryi,Sindechites,,Oliv.,,1772,,"Hooker's Icon. Pl. 18: t. 1772 A 1888",,,,,,81783-1,wfo-0000311212,3621977,,
-bcab983c-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Sindechites,henryi,Tsiang,,1932,,"Sinensia 3(5): 159–160, f. 1–8 1932",,,,,,,wfo-0001072621,8199751,,
-6c5c25b8-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolius,Sindechites,henryi,Tsiang,,1932,,"Sinensia 3: 159 1932",,,,,,,wfo-0000908895,,,
+ea68a522-8fd1-11eb-924d-9cd76263cbd0,genus,Sindechites,,,Oliv.,Q1161960,1772,,"Hooker's Icon. Pl. 18: , t. 1772. 1888.",,,,,,2568-1,wfo-4000035427,7317438,,
+0d563e2e-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Sindechites,,"(Merr.) Markgr. & Tsiang","Q729926,Q91845,Q6170028",1936,,"Sunyatsenia 3: 152 1936",,,,,,81781-1,wfo-0000311210,3622008,,
+0d565850-8fcc-11eb-924d-9cd76263cbd0,species,esquirolii,Sindechites,,"(H.Lév.) Woodson","Q134120,Q727273",1934,,"J. Arnold Arbor. 15: 316 1934",,Q100558623,,,,81782-1,wfo-0000311211,3621999,,
+0d56713c-8fcc-11eb-924d-9cd76263cbd0,species,henryi,Sindechites,,Oliv.,Q1161960,1772,,"Hooker's Icon. Pl. 18: t. 1772 A 1888",,,,,,81783-1,wfo-0000311212,3621977,,
+bcab983c-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Sindechites,henryi,Tsiang,Q6170028,1932,,"Sinensia 3(5): 159–160, f. 1–8 1932",,,,,,,wfo-0001072621,8199751,,
+6c5c25b8-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolius,Sindechites,henryi,Tsiang,Q6170028,1932,,"Sinensia 3: 159 1932",,,,,,,wfo-0000908895,,,

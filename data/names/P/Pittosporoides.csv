@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e899ee54-8fd1-11eb-924d-9cd76263cbd0,genus,Pittosporoides,,,"Solander ex Gaertner",,1788,,"Fruct. Sem. Pl. 1: 286. 1788.",,,,,,,wfo-4000029921,7303889,,
-c696885c-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Pittosporoides,,"Soland. ex Gaertn.",,1787,,"Fruct. et Sem. 286 1787",,,,,,,wfo-0001094717,,,
-81cd7e84-8fcc-11eb-924d-9cd76263cbd0,species,umbellatum,Pittosporoides,,"Sol. ex Gaertn.",,1788,,"Fruct. Sem. Pl. 1: 286 1788",,,,,,684357-1,wfo-0000487438,4161929,,
+c696885c-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Pittosporoides,,"Soland. ex Gaertn.",Q60226,1787,,"Fruct. et Sem. 286 1787",,,,,,,wfo-0001094717,,,
+81cd7e84-8fcc-11eb-924d-9cd76263cbd0,species,umbellatum,Pittosporoides,,"Sol. ex Gaertn.","Q39789,Q60226",1788,,"Fruct. Sem. Pl. 1: 286 1788",,,,,,684357-1,wfo-0000487438,4161929,,

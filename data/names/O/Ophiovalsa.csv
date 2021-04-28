@@ -1,36 +1,36 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9d408246-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ophiovalsa,,,Petr.,,1966,,"Sydowia 19: 272 (1966)",,,,9d408246-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3619," "
-1d486258-9bac-11eb-a8a2-19ed5c03f8d3,species,betulae,Ophiovalsa,,"(Tul. & C. Tul.) Petr.",,1966,,"Sydowia 19: 275 (1966)",,,,7a1fb59a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,118762," "
-29dcf66e-9bac-11eb-a8a2-19ed5c03f8d3,species,caryae,Ophiovalsa,,"(Peck) J.N. Kapoor & S.P. Lal",,1982,,"Indian Phytopath. 35(1): 144 (1982)",,,,44ea4222-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109979," "
-20caf9ee-9bad-11eb-a8a2-19ed5c03f8d3,species,cinctula,Ophiovalsa,,"(Cooke & Peck) Petr.",,1966,,"Sydowia 19: 274 (1966)",,,,f521619e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,335428," "
-35ac17a4-9bac-11eb-a8a2-19ed5c03f8d3,species,corylina,Ophiovalsa,,"(Tul. & C. Tul.) Merezhko",,1991,,"in Merezhko & Smyk, Flora Gribov Ukrainy. Diaportal'nye Griby (Kiev) 84 (1991)",,,,cd12adec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128301," "
-20cb8abc-9bad-11eb-a8a2-19ed5c03f8d3,species,femoralis,Ophiovalsa,,"(Peck) Petr.",,1966,,"Sydowia 19: 273 (1966)",,,,58c256c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,335430," "
+9d408246-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ophiovalsa,,,Petr.,Q4360385,1966,,"Sydowia 19: 272 (1966)",,,,9d408246-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3619," "
+1d486258-9bac-11eb-a8a2-19ed5c03f8d3,species,betulae,Ophiovalsa,,"(Tul. & C. Tul.) Petr.","Q918803,Q4360385",1966,,"Sydowia 19: 275 (1966)",,,,7a1fb59a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,118762," "
+29dcf66e-9bac-11eb-a8a2-19ed5c03f8d3,species,caryae,Ophiovalsa,,"(Peck) J.N. Kapoor & S.P. Lal",Q1064899,1982,,"Indian Phytopath. 35(1): 144 (1982)",,,,44ea4222-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109979," "
+20caf9ee-9bad-11eb-a8a2-19ed5c03f8d3,species,cinctula,Ophiovalsa,,"(Cooke & Peck) Petr.","Q2351239,Q1064899,Q4360385",1966,,"Sydowia 19: 274 (1966)",,,,f521619e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,335428," "
+35ac17a4-9bac-11eb-a8a2-19ed5c03f8d3,species,corylina,Ophiovalsa,,"(Tul. & C. Tul.) Merezhko",Q918803,1991,,"in Merezhko & Smyk, Flora Gribov Ukrainy. Diaportal'nye Griby (Kiev) 84 (1991)",,,,cd12adec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128301," "
+20cb8abc-9bad-11eb-a8a2-19ed5c03f8d3,species,femoralis,Ophiovalsa,,"(Peck) Petr.","Q1064899,Q4360385",1966,,"Sydowia 19: 273 (1966)",,,,58c256c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,335430," "
 29dd253a-9bac-11eb-a8a2-19ed5c03f8d3,species,fici,Ophiovalsa,,"J.N. Kapoor & S.P. Lal",,1982,,"Indian Phytopath. 35(1): 145 (1982)",,,,29dd253a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109980," "
-6a7cfb1e-9bad-11eb-a8a2-19ed5c03f8d3,species,hypodermia,Ophiovalsa,,"(Fr.) L. Holm",,2000,,"in Holm & Ryman, Thunbergia 30: 9 (2000)",,,,7ed74304-9bac-11eb-a8a2-19ed5c03f8d3,,,,,467444," "
-20cbb88e-9bad-11eb-a8a2-19ed5c03f8d3,species,panamensis,Ophiovalsa,,"(F. Stevens) Petr.",,1966,,"Sydowia 19: 277 (1966)",,,,e0960850-9bac-11eb-a8a2-19ed5c03f8d3,,,,,335431," "
-2080bb40-9bad-11eb-a8a2-19ed5c03f8d3,species,quercus,Ophiovalsa,,"(Allesch.) Petr.",,,,,,,,,,,,,335432," "
-20cbeb88-9bad-11eb-a8a2-19ed5c03f8d3,species,suffusa,Ophiovalsa,,"(Fr.) Petr.",,1966,,"Sydowia 19: 272 (1966)",,,,,,,,,335433," "
-0f60cd9c-9bac-11eb-a8a2-19ed5c03f8d3,species,theae,Ophiovalsa,,"(Hara) Kobayasi",,1970,,"Bull. Govt Forest Exp. Stn Meguro 226: 47 (1970)",,,,135c757c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,319029," "
-20cc2c60-9bad-11eb-a8a2-19ed5c03f8d3,species,tiliae,Ophiovalsa,,"(Tul. & C. Tul.) Petr.",,1966,,"Sydowia 19: 274 (1966)",,,,073619f0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335434," "
-35abed10-9bac-11eb-a8a2-19ed5c03f8d3,species,tomentella,Ophiovalsa,,"(Peck) Petr.",,1966,,"in Merezhko & Smyk, Flora Gribov Ukrainy. Diaportal'nye Griby (Kiev) 84 (1966)",,,,d00e8de0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128300,"  CHECK REFERENCE"
-121b57cc-9bad-11eb-a8a2-19ed5c03f8d3,species,trichispora,Ophiovalsa,,"(Cooke & Peck) M.E. Barr",,1978,,"Mycol. Mem. 7: 145 (1978)",,,,ac215854-9bac-11eb-a8a2-19ed5c03f8d3,,,,,319030," "
-1cb75a2e-9bac-11eb-a8a2-19ed5c03f8d3,species,valsoides,Ophiovalsa,,"(Rehm) Glawe & J.D. Jensen",,1986,,"Mycotaxon 25(2): 647 (1986)",,,,10aa76da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103631," "
-eb23a774-8fcb-11eb-924d-9cd76263cbd0,species,album,Ophioxylon,,Gaertn.,,1790,,"Fruct. Sem. Pl. 2: 129 1790",,,,,,80646-1,wfo-0000257333,3615770,,
-eb23cf7e-8fcb-11eb-924d-9cd76263cbd0,species,arboreum,Ophioxylon,,"J.Koenig ex DC.",,1830,,"Prodr. 4: 520 1830",,,,,,,wfo-0000257334,7758456,,
-eb24157e-8fcb-11eb-924d-9cd76263cbd0,species,belgaumense,Ophioxylon,,Wight,,1848,,"Icon. Pl. Ind. Orient. 4(2): 2 1848",,,,,,80648-1,wfo-0000257335,3615751,,
-eb247c12-8fcb-11eb-924d-9cd76263cbd0,species,chinense,Ophioxylon,,Hance,,1865,,"J. Bot. 3: 380 1865",,,,,,80650-1,wfo-0000257337,3615733,,
-bc9f22d2-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Ophioxylon,,Hance,,1865,,"J. Bot. 3(36): 380–381 1865",,,,,,,wfo-0001072504,7796421,,
-eb24a6a6-8fcb-11eb-924d-9cd76263cbd0,species,densiflorum,Ophioxylon,,"(Wall.) Thwaites",,1860,,"Enum. Pl. Zeyl. 191 1860",,Q96016554,,638f9e02-8fcc-11eb-924d-9cd76263cbd0,,80652-1,wfo-0000257338,3615716,,
-eb24cc30-8fcb-11eb-924d-9cd76263cbd0,species,macrocarpum,Ophioxylon,,Wight,,1848,,"Icon. Pl. Ind. Orient. 4(2): 1 1848",,,,,,80653-1,wfo-0000257339,3615704,,
-eb24f0fc-8fcb-11eb-924d-9cd76263cbd0,species,majus,Ophioxylon,,Hassk.,,1854,,"Flora 28: 295 1854",,,,,,,wfo-0000257340,3615698,,
-eb2511ea-8fcb-11eb-924d-9cd76263cbd0,species,neilgheerense,Ophioxylon,,Wight,,,,"Icon. Pl. Ind. Orient. 4: t. 1292 1848",,,,,,80656-1,wfo-0000257341,3615678,,
-eb2532ba-8fcb-11eb-924d-9cd76263cbd0,species,obversum,Ophioxylon,,Miq.,,1857,,"Fl. Ned. Ind. 2: 405 1857",,,,,,80657-1,wfo-0000257342,3615671,,
-eb2555e2-8fcb-11eb-924d-9cd76263cbd0,species,ochrosia,Ophioxylon,,Pers.,,1805,,"Syn. Pl. 1: 266 1805",,,,,,80658-1,wfo-0000257343,3615661,,
-eb257752-8fcb-11eb-924d-9cd76263cbd0,species,salutiferum,Ophioxylon,,Salisb.,,1796,,"Prodr. Stirp. Chap. Allerton 146 1796",,,,,,80659-1,wfo-0000257344,3615652,,
-eb2597fa-8fcb-11eb-924d-9cd76263cbd0,species,serpentinum,Ophioxylon,,L.,,,,"Sp. Pl. 1043 1753",,,,,,80660-1,wfo-0000257345,3615644,,
-eb25b852-8fcb-11eb-924d-9cd76263cbd0,species,trifoliatum,Ophioxylon,,Gaertn.,,1790,,"Fruct. Sem. Pl. 2: 123 1790",,,,,,80661-1,wfo-0000257346,3615635,,
-eb25fbfa-8fcb-11eb-924d-9cd76263cbd0,species,zeylanicum,Ophioxylon,,Wight,,,,"Icon. Pl. Ind. Orient. 4: t. 1291 1848",,,,,,80662-1,wfo-0000257348,3615624,,
-3e600036-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Ophira,,L.,,1771,,"Mant. Pl. 2: 229 1771",,,,,,780487-1,wfo-0000388258,7908139,,
-3e5fd872-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Ophira,,Lam.,,1798,,"Encycl. 4: 565 1798",,,,,,780488-1,wfo-0000388257,8845127,,
-eb261efa-8fcb-11eb-924d-9cd76263cbd0,species,paradoxa,Ophiria,,"(Griff.) Becc.",,1885,,"Ann. Jard. Bot. Buitenzorg 2: 128 1885",,,,ef1855b4-8fcb-11eb-924d-9cd76263cbd0,,668560-1,wfo-0000257349,2739569,,
-dc8fec16-8fcd-11eb-924d-9cd76263cbd0,species,sinense,Ophispermum,,Lour.,,1790,,"Fl. Cochinch. 1: 281 1790",,,,,,832268-1,wfo-0001142561,3568461,,
+6a7cfb1e-9bad-11eb-a8a2-19ed5c03f8d3,species,hypodermia,Ophiovalsa,,"(Fr.) L. Holm",Q15405,2000,,"in Holm & Ryman, Thunbergia 30: 9 (2000)",,,,7ed74304-9bac-11eb-a8a2-19ed5c03f8d3,,,,,467444," "
+20cbb88e-9bad-11eb-a8a2-19ed5c03f8d3,species,panamensis,Ophiovalsa,,"(F. Stevens) Petr.",Q4360385,1966,,"Sydowia 19: 277 (1966)",,,,e0960850-9bac-11eb-a8a2-19ed5c03f8d3,,,,,335431," "
+2080bb40-9bad-11eb-a8a2-19ed5c03f8d3,species,quercus,Ophiovalsa,,"(Allesch.) Petr.",Q4360385,,,,,,,,,,,,335432," "
+20cbeb88-9bad-11eb-a8a2-19ed5c03f8d3,species,suffusa,Ophiovalsa,,"(Fr.) Petr.","Q15405,Q4360385",1966,,"Sydowia 19: 272 (1966)",,,,,,,,,335433," "
+0f60cd9c-9bac-11eb-a8a2-19ed5c03f8d3,species,theae,Ophiovalsa,,"(Hara) Kobayasi","Q4390878,Q18341957",1970,,"Bull. Govt Forest Exp. Stn Meguro 226: 47 (1970)",,,,135c757c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,319029," "
+20cc2c60-9bad-11eb-a8a2-19ed5c03f8d3,species,tiliae,Ophiovalsa,,"(Tul. & C. Tul.) Petr.","Q918803,Q4360385",1966,,"Sydowia 19: 274 (1966)",,,,073619f0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335434," "
+35abed10-9bac-11eb-a8a2-19ed5c03f8d3,species,tomentella,Ophiovalsa,,"(Peck) Petr.","Q1064899,Q4360385",1966,,"in Merezhko & Smyk, Flora Gribov Ukrainy. Diaportal'nye Griby (Kiev) 84 (1966)",,,,d00e8de0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128300,"  CHECK REFERENCE"
+121b57cc-9bad-11eb-a8a2-19ed5c03f8d3,species,trichispora,Ophiovalsa,,"(Cooke & Peck) M.E. Barr","Q2351239,Q1064899",1978,,"Mycol. Mem. 7: 145 (1978)",,,,ac215854-9bac-11eb-a8a2-19ed5c03f8d3,,,,,319030," "
+1cb75a2e-9bac-11eb-a8a2-19ed5c03f8d3,species,valsoides,Ophiovalsa,,"(Rehm) Glawe & J.D. Jensen",Q4393082,1986,,"Mycotaxon 25(2): 647 (1986)",,,,10aa76da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103631," "
+eb23a774-8fcb-11eb-924d-9cd76263cbd0,species,album,Ophioxylon,,Gaertn.,Q60226,1790,,"Fruct. Sem. Pl. 2: 129 1790",,,,,,80646-1,wfo-0000257333,3615770,,
+eb23cf7e-8fcb-11eb-924d-9cd76263cbd0,species,arboreum,Ophioxylon,,"J.Koenig ex DC.","Q64834,Q123057",1830,,"Prodr. 4: 520 1830",,,,,,,wfo-0000257334,7758456,,
+eb24157e-8fcb-11eb-924d-9cd76263cbd0,species,belgaumense,Ophioxylon,,Wight,Q1375864,1848,,"Icon. Pl. Ind. Orient. 4(2): 2 1848",,,,,,80648-1,wfo-0000257335,3615751,,
+eb247c12-8fcb-11eb-924d-9cd76263cbd0,species,chinense,Ophioxylon,,Hance,Q2657692,1865,,"J. Bot. 3: 380 1865",,,,,,80650-1,wfo-0000257337,3615733,,
+bc9f22d2-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Ophioxylon,,Hance,Q2657692,1865,,"J. Bot. 3(36): 380–381 1865",,,,,,,wfo-0001072504,7796421,,
+eb24a6a6-8fcb-11eb-924d-9cd76263cbd0,species,densiflorum,Ophioxylon,,"(Wall.) Thwaites","Q730310,Q2656749",1860,,"Enum. Pl. Zeyl. 191 1860",,Q96016554,,638f9e02-8fcc-11eb-924d-9cd76263cbd0,,80652-1,wfo-0000257338,3615716,,
+eb24cc30-8fcb-11eb-924d-9cd76263cbd0,species,macrocarpum,Ophioxylon,,Wight,Q1375864,1848,,"Icon. Pl. Ind. Orient. 4(2): 1 1848",,,,,,80653-1,wfo-0000257339,3615704,,
+eb24f0fc-8fcb-11eb-924d-9cd76263cbd0,species,majus,Ophioxylon,,Hassk.,Q68616,1854,,"Flora 28: 295 1854",,,,,,,wfo-0000257340,3615698,,
+eb2511ea-8fcb-11eb-924d-9cd76263cbd0,species,neilgheerense,Ophioxylon,,Wight,Q1375864,,,"Icon. Pl. Ind. Orient. 4: t. 1292 1848",,,,,,80656-1,wfo-0000257341,3615678,,
+eb2532ba-8fcb-11eb-924d-9cd76263cbd0,species,obversum,Ophioxylon,,Miq.,Q76742,1857,,"Fl. Ned. Ind. 2: 405 1857",,,,,,80657-1,wfo-0000257342,3615671,,
+eb2555e2-8fcb-11eb-924d-9cd76263cbd0,species,ochrosia,Ophioxylon,,Pers.,Q346451,1805,,"Syn. Pl. 1: 266 1805",,,,,,80658-1,wfo-0000257343,3615661,,
+eb257752-8fcb-11eb-924d-9cd76263cbd0,species,salutiferum,Ophioxylon,,Salisb.,Q1358261,1796,,"Prodr. Stirp. Chap. Allerton 146 1796",,,,,,80659-1,wfo-0000257344,3615652,,
+eb2597fa-8fcb-11eb-924d-9cd76263cbd0,species,serpentinum,Ophioxylon,,L.,Q1043,,,"Sp. Pl. 1043 1753",,,,,,80660-1,wfo-0000257345,3615644,,
+eb25b852-8fcb-11eb-924d-9cd76263cbd0,species,trifoliatum,Ophioxylon,,Gaertn.,Q60226,1790,,"Fruct. Sem. Pl. 2: 123 1790",,,,,,80661-1,wfo-0000257346,3615635,,
+eb25fbfa-8fcb-11eb-924d-9cd76263cbd0,species,zeylanicum,Ophioxylon,,Wight,Q1375864,,,"Icon. Pl. Ind. Orient. 4: t. 1291 1848",,,,,,80662-1,wfo-0000257348,3615624,,
+3e5fd872-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Ophira,,Lam.,Q82122,1798,,"Encycl. 4: 565 1798",,,,,,780488-1,wfo-0000388257,8845127,,
+3e600036-8fcc-11eb-924d-9cd76263cbd0,species,stricta,Ophira,,L.,Q1043,1771,,"Mant. Pl. 2: 229 1771",,,,,,780487-1,wfo-0000388258,7908139,,
+eb261efa-8fcb-11eb-924d-9cd76263cbd0,species,paradoxa,Ophiria,,"(Griff.) Becc.","Q11705310,Q361037",1885,,"Ann. Jard. Bot. Buitenzorg 2: 128 1885",,,,ef1855b4-8fcb-11eb-924d-9cd76263cbd0,,668560-1,wfo-0000257349,2739569,,
+dc8fec16-8fcd-11eb-924d-9cd76263cbd0,species,sinense,Ophispermum,,Lour.,Q729917,1790,,"Fl. Cochinch. 1: 281 1790",,,,,,832268-1,wfo-0001142561,3568461,,

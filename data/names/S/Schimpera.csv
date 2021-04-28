@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea0ba41c-8fd1-11eb-924d-9cd76263cbd0,genus,Schimpera,,,"Steud. & Hochst. ex Endl.",,1839,,"Gen. Pl. 889. 1839.",,,,,,13018-1,wfo-4000034333,3050639,,
-60dcea66-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Schimpera,,"Hochst. & Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 530 1841",,,,,,288837-1,wfo-0000432342,3050640,,
-60db70f0-8fcc-11eb-924d-9cd76263cbd0,subspecies,persica,Schimpera,arabica,"(Boiss.) Hadač & Chrtek",,1971,,"Acta Univ. Carol., Biol. 1971: 262 1971 publ. 1973",,,,,,879354-1,wfo-0000432338,3050642,,
-60db4008-8fcc-11eb-924d-9cd76263cbd0,species,persica,Schimpera,,Boiss.,,1846,,"Diagn. Pl. Orient. 6: 18 1846",,,,,,288838-1,wfo-0000432337,3050641,,
+ea0ba41c-8fd1-11eb-924d-9cd76263cbd0,genus,Schimpera,,,"Steud. & Hochst. ex Endl.","Q62821,Q64983,Q78605",1839,,"Gen. Pl. 889. 1839.",,,,,,13018-1,wfo-4000034333,3050639,,
+60dcea66-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Schimpera,,"Hochst. & Steud.","Q64983,Q62821",1841,,"Nomencl. Bot. ed. 2, 2: 530 1841",,,,,,288837-1,wfo-0000432342,3050640,,
+60db70f0-8fcc-11eb-924d-9cd76263cbd0,subspecies,persica,Schimpera,arabica,"(Boiss.) Hadač & Chrtek","Q34430,Q11878569,Q2355578",1971,,"Acta Univ. Carol., Biol. 1971: 262 1971 publ. 1973",,,,,,879354-1,wfo-0000432338,3050642,,
+60db4008-8fcc-11eb-924d-9cd76263cbd0,species,persica,Schimpera,,Boiss.,Q34430,1846,,"Diagn. Pl. Orient. 6: 18 1846",,,,,,288838-1,wfo-0000432337,3050641,,

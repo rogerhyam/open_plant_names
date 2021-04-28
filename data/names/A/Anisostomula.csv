@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-13f1804a-9bac-11eb-a8a2-19ed5c03f8d3,genus,Anisostomula,,,Höhn.,,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 578 (1919)",,,,13f1804a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,204," "
-4fca7922-9bad-11eb-a8a2-19ed5c03f8d3,species,areola,Anisostomula,,"(Fuckel) Höhn.",,1918,,"Annls mycol. 16: 49 (1918)",,,,8811de98-9bac-11eb-a8a2-19ed5c03f8d3,,,,,414732," "
-75b8463e-9bab-11eb-a8a2-19ed5c03f8d3,species,campanulae,Anisostomula,,Petr.,,1921,,"Annls mycol. 19: 194 (1921)",,,,75b8463e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,216539," "
-306631f8-9bac-11eb-a8a2-19ed5c03f8d3,species,cookeana,Anisostomula,,"(Auersw.) Höhn.",,1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,054f47e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,120225," "
-f15b63a2-9bab-11eb-a8a2-19ed5c03f8d3,species,cooperta,Anisostomula,,"(Desm.) Höhn.",,1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,7dfc684c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,491356," "
-f15bbdf2-9bab-11eb-a8a2-19ed5c03f8d3,species,polystigma,Anisostomula,,"(Ellis & Everh.) Höhn.",,1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,b220c392-9bad-11eb-a8a2-19ed5c03f8d3,,,,,491357," "
-1983a254-9bac-11eb-a8a2-19ed5c03f8d3,species,quercus-ilicis,Anisostomula,,"(Trav.{?}) Höhn.",,,,,,,,,,,,,455334,"  basionym untraced"
-183e9916-9bad-11eb-a8a2-19ed5c03f8d3,species,rubescens,Anisostomula,,"(Ellis & Everh.) M.E. Barr",,,,,,,,51c1d320-9bac-11eb-a8a2-19ed5c03f8d3,,,,,326215," "
-e355b93c-9bac-11eb-a8a2-19ed5c03f8d3,species,salicis,Anisostomula,,"(Auersw. ex Fuckel) Petr.",,1925,,"Hedwigia 65: 198 (1925)",,,,,,,,,277295," "
-fba0d426-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Anisotachis,,"(Stephani) R.M.Schust.",,1964,,"Nova Hedwigia 8: 282 1964",,,,f8eb8d7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001207370,8407713,,
+13f1804a-9bac-11eb-a8a2-19ed5c03f8d3,genus,Anisostomula,,,Höhn.,Q4502879,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 578 (1919)",,,,13f1804a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,204," "
+4fca7922-9bad-11eb-a8a2-19ed5c03f8d3,species,areola,Anisostomula,,"(Fuckel) Höhn.","Q66899,Q4502879",1918,,"Annls mycol. 16: 49 (1918)",,,,8811de98-9bac-11eb-a8a2-19ed5c03f8d3,,,,,414732," "
+75b8463e-9bab-11eb-a8a2-19ed5c03f8d3,species,campanulae,Anisostomula,,Petr.,Q4360385,1921,,"Annls mycol. 19: 194 (1921)",,,,75b8463e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,216539," "
+306631f8-9bac-11eb-a8a2-19ed5c03f8d3,species,cookeana,Anisostomula,,"(Auersw.) Höhn.","Q5727033,Q4502879",1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,054f47e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,120225," "
+f15b63a2-9bab-11eb-a8a2-19ed5c03f8d3,species,cooperta,Anisostomula,,"(Desm.) Höhn.","Q4157332,Q4502879",1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,7dfc684c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,491356," "
+f15bbdf2-9bab-11eb-a8a2-19ed5c03f8d3,species,polystigma,Anisostomula,,"(Ellis & Everh.) Höhn.","Q6206643,Q4502879",1918,,"Annls mycol. 16(1/2): 49 (1918)",,,,b220c392-9bad-11eb-a8a2-19ed5c03f8d3,,,,,491357," "
+1983a254-9bac-11eb-a8a2-19ed5c03f8d3,species,quercus-ilicis,Anisostomula,,"(Trav.{?}) Höhn.",Q4502879,,,,,,,,,,,,455334,"  basionym untraced"
+183e9916-9bad-11eb-a8a2-19ed5c03f8d3,species,rubescens,Anisostomula,,"(Ellis & Everh.) M.E. Barr",Q6206643,,,,,,,51c1d320-9bac-11eb-a8a2-19ed5c03f8d3,,,,,326215," "
+e355b93c-9bac-11eb-a8a2-19ed5c03f8d3,species,salicis,Anisostomula,,"(Auersw. ex Fuckel) Petr.","Q5727033,Q66899,Q4360385",1925,,"Hedwigia 65: 198 (1925)",,,,,,,,,277295," "
+fba0d426-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Anisotachis,,"(Stephani) R.M.Schust.",Q6113453,1964,,"Nova Hedwigia 8: 282 1964",,,,f8eb8d7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001207370,8407713,,

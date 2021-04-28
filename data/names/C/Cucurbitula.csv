@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a28b3818-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cucurbitula,,,Fuckel,,1870,,"Jb. nassau. Ver. Naturk. 23-24: 171 (1870)",,,,a28b3818-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1352," "
-4063a63a-9bac-11eb-a8a2-19ed5c03f8d3,species,arenula,Cucurbitula,,"(Berk. & Broome) anon. ined.",,,,,,,,7db6f4a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,457677," "
-9d0539bc-9bac-11eb-a8a2-19ed5c03f8d3,species,conglobata,Cucurbitula,,"(Fr.) Fuckel",,1870,,"Jb. nassau. Ver. Naturk. 23-24: (1870)",,,,,,,,,217920," "
-df2bf240-9bac-11eb-a8a2-19ed5c03f8d3,species,moravica,Cucurbitula,,"(Petr.) Kirschst.",,,,,,,,7e01ff1a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,271639," "
-9d2f751a-9bac-11eb-a8a2-19ed5c03f8d3,species,myricariae,Cucurbitula,,Fuckel,,1873,,"Jb. nassau. Ver. Naturk. 27-28: 32 (1873)",,,,9d2f751a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218148," "
+a28b3818-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cucurbitula,,,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 171 (1870)",,,,a28b3818-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1352," "
+4063a63a-9bac-11eb-a8a2-19ed5c03f8d3,species,arenula,Cucurbitula,,"(Berk. & Broome) anon. ined.","Q662338,Q1932460",,,,,,,7db6f4a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,457677," "
+9d0539bc-9bac-11eb-a8a2-19ed5c03f8d3,species,conglobata,Cucurbitula,,"(Fr.) Fuckel","Q15405,Q66899",1870,,"Jb. nassau. Ver. Naturk. 23-24: (1870)",,,,,,,,,217920," "
+df2bf240-9bac-11eb-a8a2-19ed5c03f8d3,species,moravica,Cucurbitula,,"(Petr.) Kirschst.",Q4360385,,,,,,,7e01ff1a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,271639," "
+9d2f751a-9bac-11eb-a8a2-19ed5c03f8d3,species,myricariae,Cucurbitula,,Fuckel,Q66899,1873,,"Jb. nassau. Ver. Naturk. 27-28: 32 (1873)",,,,9d2f751a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218148," "
 9d1f81dc-9bac-11eb-a8a2-19ed5c03f8d3,species,syringae,Cucurbitula,,"(J. Kickx f.) F. Lamb.",,,,,,,,,,,,,218047," "
-7c0fe45e-8fcd-11eb-924d-9cd76263cbd0,species,gyrandra,Cudicia,,"Buch.-Ham. ex Dillwyn",,1839,,"Rev. Hortus Malab. 41 1839",,,,,,927836-1,wfo-0000933434,3614738,,
-7c0fffe8-8fcd-11eb-924d-9cd76263cbd0,species,trichotoma,Cudicia,,"Buch.-Ham. ex Dillwyn",,1839,,"Rev. Hortus Malab. 4 1839",,,,,,,wfo-0000933435,8093235,,
+7c0fe45e-8fcd-11eb-924d-9cd76263cbd0,species,gyrandra,Cudicia,,"Buch.-Ham. ex Dillwyn","Q536945,Q438932",1839,,"Rev. Hortus Malab. 41 1839",,,,,,927836-1,wfo-0000933434,3614738,,
+7c0fffe8-8fcd-11eb-924d-9cd76263cbd0,species,trichotoma,Cudicia,,"Buch.-Ham. ex Dillwyn","Q536945,Q438932",1839,,"Rev. Hortus Malab. 4 1839",,,,,,,wfo-0000933435,8093235,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9313084-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoscabiosa,,,Devesa,,1984,,"Lagascalia 12(2): 216. 1984. (Jun 1984)",,,,,,893413-1,wfo-4000031677,7300970,,
-43666cc8-8fcc-11eb-924d-9cd76263cbd0,species,africana,Pseudoscabiosa,,"(Font Quer) Romo, Cirujano, Peris & Stübing",,1997,,"Feddes Repert. 108: 31 1997",,Q55754871,,,,995017-1,wfo-0000394951,4102810,,
-436624ca-8fcc-11eb-924d-9cd76263cbd0,species,diandra,Pseudoscabiosa,,"(Lag.) Greuter & Burdet",,1985,,"Willdenowia 15: 76 1985",,,,bdbc41d2-8fd1-11eb-924d-9cd76263cbd0,,915398-1,wfo-0000394949,4102802,,
-4365fe96-8fcc-11eb-924d-9cd76263cbd0,species,grosii,Pseudoscabiosa,,"(Font Quer) Devesa",,1984,,"Lagascalia 12: 218 1984",,,,,,914502-1,wfo-0000394948,7300971,,
-4365aaa4-8fcc-11eb-924d-9cd76263cbd0,species,limonifolia,Pseudoscabiosa,,"(Vahl) Devesa",,1984,,"Lagascalia 12: 220 1984",,,,8931d4e0-8fcc-11eb-924d-9cd76263cbd0,,914503-1,wfo-0000394946,4102777,,
-c330fe82-8fd1-11eb-924d-9cd76263cbd0,species,saxatilis,Pseudoscabiosa,,"(Cav.) Devesa",,1984,,"Lagascalia 12(2): 218 1984",,,,899c8cea-8fcc-11eb-924d-9cd76263cbd0,,914504-1,wfo-0001260064,4102768,,
+e9313084-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoscabiosa,,,Devesa,Q5947259,1984,,"Lagascalia 12(2): 216. 1984. (Jun 1984)",,,,,,893413-1,wfo-4000031677,7300970,,
+43666cc8-8fcc-11eb-924d-9cd76263cbd0,species,africana,Pseudoscabiosa,,"(Font Quer) Romo, Cirujano, Peris & Stübing","Q2987664,Q6173321,Q21389279,Q18719873,Q19061002",1997,,"Feddes Repert. 108: 31 1997",,Q55754871,,,,995017-1,wfo-0000394951,4102810,,
+436624ca-8fcc-11eb-924d-9cd76263cbd0,species,diandra,Pseudoscabiosa,,"(Lag.) Greuter & Burdet","Q891966,Q123950,Q3134601",1985,,"Willdenowia 15: 76 1985",,,,bdbc41d2-8fd1-11eb-924d-9cd76263cbd0,,915398-1,wfo-0000394949,4102802,,
+4365fe96-8fcc-11eb-924d-9cd76263cbd0,species,grosii,Pseudoscabiosa,,"(Font Quer) Devesa","Q2987664,Q5947259",1984,,"Lagascalia 12: 218 1984",,,,,,914502-1,wfo-0000394948,7300971,,
+4365aaa4-8fcc-11eb-924d-9cd76263cbd0,species,limonifolia,Pseudoscabiosa,,"(Vahl) Devesa","Q353283,Q5947259",1984,,"Lagascalia 12: 220 1984",,,,8931d4e0-8fcc-11eb-924d-9cd76263cbd0,,914503-1,wfo-0000394946,4102777,,
+c330fe82-8fd1-11eb-924d-9cd76263cbd0,species,saxatilis,Pseudoscabiosa,,"(Cav.) Devesa","Q545430,Q5947259",1984,,"Lagascalia 12(2): 218 1984",,,,899c8cea-8fcc-11eb-924d-9cd76263cbd0,,914504-1,wfo-0001260064,4102768,,

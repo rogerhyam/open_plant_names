@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb89e3da-8fd1-11eb-924d-9cd76263cbd0,genus,Trichopetalum,,,Lindl.,,,,,,,,,,330083-2,wfo-4000039018,2769636,,
-1d1b4600-8fcd-11eb-924d-9cd76263cbd0,species,chosmalensis,Trichopetalum,,"Guagl. & Belgrano",,2003,,"Hickenia 3: 190 2003",,,,,,,wfo-0000753471,5303862,,
-1b9502f8-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Trichopetalum,,Lindl.,,,,"Edwards's Bot. Reg. 18: t. 1535 1832",,,,,,542453-1,wfo-0000750431,5303865,,
-1b94dfee-8fcd-11eb-924d-9cd76263cbd0,species,plumosum,Trichopetalum,,"(Ruiz & Pav.) J.F.Macbr.",,1918,,"Contr. Gray Herb. 56: 2 1918",,Q94388827,,2072fcda-8fcd-11eb-924d-9cd76263cbd0,,257473-2,wfo-0000750429,5303863,,
-1b94a34e-8fcd-11eb-924d-9cd76263cbd0,species,stellatum,Trichopetalum,,Lindl.,,,,"Edwards's Bot. Reg. 18: t. 1535 1832",,,,,,542455-1,wfo-0000750427,5303864,,
+eb89e3da-8fd1-11eb-924d-9cd76263cbd0,genus,Trichopetalum,,,Lindl.,Q378629,,,,,,,,,330083-2,wfo-4000039018,2769636,,
+1d1b4600-8fcd-11eb-924d-9cd76263cbd0,species,chosmalensis,Trichopetalum,,"Guagl. & Belgrano","Q8775761,Q21516397",2003,,"Hickenia 3: 190 2003",,,,,,,wfo-0000753471,5303862,,
+1b9502f8-8fcd-11eb-924d-9cd76263cbd0,species,gracile,Trichopetalum,,Lindl.,Q378629,,,"Edwards's Bot. Reg. 18: t. 1535 1832",,,,,,542453-1,wfo-0000750431,5303865,,
+1b94dfee-8fcd-11eb-924d-9cd76263cbd0,species,plumosum,Trichopetalum,,"(Ruiz & Pav.) J.F.Macbr.","Q733976,Q332058,Q3046674",1918,,"Contr. Gray Herb. 56: 2 1918",,Q94388827,,2072fcda-8fcd-11eb-924d-9cd76263cbd0,,257473-2,wfo-0000750429,5303863,,
+1b94a34e-8fcd-11eb-924d-9cd76263cbd0,species,stellatum,Trichopetalum,,Lindl.,Q378629,,,"Edwards's Bot. Reg. 18: t. 1535 1832",,,,,,542455-1,wfo-0000750427,5303864,,

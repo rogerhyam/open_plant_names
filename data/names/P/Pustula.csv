@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4c1086a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pustula,,,Thines,,2005,,"Mycotaxon 92: 454 (2005)",,,,a4c1086a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28962," "
-f2edb8f0-9bab-11eb-a8a2-19ed5c03f8d3,species,chardiniae,Pustula,,"(Bremer & Petr.) Thines",,2005,,"Mycotaxon 92: 455 (2005)",,,,e83eeb6c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345923," "
-2aa3fb82-9bad-11eb-a8a2-19ed5c03f8d3,species,hydrocotyles,Pustula,,"(Petr.) Thines",,2005,,"Mycotaxon 92: 455 (2005)",,,,ef1d6fc6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,346097," "
-f2e40710-9bab-11eb-a8a2-19ed5c03f8d3,species,spinulosa,Pustula,,"(de Bary) Thines",,2005,,"Mycotaxon 92: 455 (2005)",,,,4bf36562-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345141," "
-2aed6f38-9bad-11eb-a8a2-19ed5c03f8d3,species,tragopogonis,Pustula,,"(Pers.) Thines",,2005,,"Mycotaxon 92: 455 (2005)",,,,,,,,,346454," "
+a4c1086a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pustula,,,Thines,Q21837007,2005,,"Mycotaxon 92: 454 (2005)",,,,a4c1086a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28962," "
+f2edb8f0-9bab-11eb-a8a2-19ed5c03f8d3,species,chardiniae,Pustula,,"(Bremer & Petr.) Thines","Q5891871,Q4360385,Q21837007",2005,,"Mycotaxon 92: 455 (2005)",,,,e83eeb6c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345923," "
+2aa3fb82-9bad-11eb-a8a2-19ed5c03f8d3,species,hydrocotyles,Pustula,,"(Petr.) Thines","Q4360385,Q21837007",2005,,"Mycotaxon 92: 455 (2005)",,,,ef1d6fc6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,346097," "
+f2e40710-9bab-11eb-a8a2-19ed5c03f8d3,species,spinulosa,Pustula,,"(de Bary) Thines","Q58806,Q21837007",2005,,"Mycotaxon 92: 455 (2005)",,,,4bf36562-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345141," "
+2aed6f38-9bad-11eb-a8a2-19ed5c03f8d3,species,tragopogonis,Pustula,,"(Pers.) Thines","Q346451,Q21837007",2005,,"Mycotaxon 92: 455 (2005)",,,,,,,,,346454," "

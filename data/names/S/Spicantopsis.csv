@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea9f0bd0-8fd1-11eb-924d-9cd76263cbd0,genus,Spicantopsis,,,Nakai,,1933,,"Bot. Mag. (Tokyo) 47(555): 180–181. 1933.",,,,,,,wfo-4000036077,7296780,,
-073e79d6-8fc0-11eb-924d-9cd76263cbd0,species,amabilis,Spicantopsis,,Nakai,,1933,,"Bot. Mag. (Tokyo) 47. 184. 1933 1933",,Q55762692,,,,17358320-1,wfo-0000163579,4079362,,
-d630edde-8fcd-11eb-924d-9cd76263cbd0,species,eburnea,Spicantopsis,,"(Christ) Tagawa",,1940,,"Acta Phytotax. Geobot. 9(2): 88 1940",,Q101151787,,,,17418850-1,wfo-0001128703,4078354,,
-d08bb6f2-8fcd-11eb-924d-9cd76263cbd0,species,nipponica,Spicantopsis,,"(Kunze) Nakai",,1933,,"Bot. Mag. (Tokyo) 47: 181 1933",,Q55762692,,d08b9cee-8fcd-11eb-924d-9cd76263cbd0,,17358330-1,wfo-0001116170,,,
-d10aa66a-8fcd-11eb-924d-9cd76263cbd0,variety,minima,Spicantopsis,nipponica,Tagawa,,1938,,"J. Jap. Bot. 14: 706 1938",,,,,,,wfo-0001117204,,,
+ea9f0bd0-8fd1-11eb-924d-9cd76263cbd0,genus,Spicantopsis,,,Nakai,Q704751,1933,,"Bot. Mag. (Tokyo) 47(555): 180–181. 1933.",,,,,,,wfo-4000036077,7296780,,
+073e79d6-8fc0-11eb-924d-9cd76263cbd0,species,amabilis,Spicantopsis,,Nakai,Q704751,1933,,"Bot. Mag. (Tokyo) 47. 184. 1933 1933",,Q55762692,,,,17358320-1,wfo-0000163579,4079362,,
+d630edde-8fcd-11eb-924d-9cd76263cbd0,species,eburnea,Spicantopsis,,"(Christ) Tagawa","Q115901,Q11576736",1940,,"Acta Phytotax. Geobot. 9(2): 88 1940",,Q101151787,,,,17418850-1,wfo-0001128703,4078354,,
+d08bb6f2-8fcd-11eb-924d-9cd76263cbd0,species,nipponica,Spicantopsis,,"(Kunze) Nakai","Q65400,Q704751",1933,,"Bot. Mag. (Tokyo) 47: 181 1933",,Q55762692,,d08b9cee-8fcd-11eb-924d-9cd76263cbd0,,17358330-1,wfo-0001116170,,,
+d10aa66a-8fcd-11eb-924d-9cd76263cbd0,variety,minima,Spicantopsis,nipponica,Tagawa,Q11576736,1938,,"J. Jap. Bot. 14: 706 1938",,,,,,,wfo-0001117204,,,

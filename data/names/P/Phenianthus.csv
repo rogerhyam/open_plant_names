@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85be00a-8fd1-11eb-924d-9cd76263cbd0,genus,Phenianthus,,,Raf.,,1820,,"Ann. Gén. Sci. Phys. vi. 1820.",,,,,,,wfo-4000029189,7421376,,
-43bd365c-8fcc-11eb-924d-9cd76263cbd0,species,arizonicus,Phenianthus,,Nieuwl.,,1914,,"Amer. Midl. Naturalist 3: 191 1914",,Q55773085,,,,192730-2,wfo-0000395345,3857553,,
-d79e87ae-8fd1-11eb-924d-9cd76263cbd0,species,semperivens,Phenianthus,,"(L.) Raf. ex B.D.Jacks.",,1895,,"Index Kew. 2: 494 1895",,,,,,,wfo-0001290931,7504565,,
-d788167c-8fd1-11eb-924d-9cd76263cbd0,species,sempervirens,Phenianthus,,"(L.) Raf.",,1820,,"Ann. Gén. Sci. Phys. 6: 83 1820",,,,,,149280-1,wfo-0001290788,3857541,,
+e85be00a-8fd1-11eb-924d-9cd76263cbd0,genus,Phenianthus,,,Raf.,Q364857,1820,,"Ann. Gén. Sci. Phys. vi. 1820.",,,,,,,wfo-4000029189,7421376,,
+43bd365c-8fcc-11eb-924d-9cd76263cbd0,species,arizonicus,Phenianthus,,Nieuwl.,Q88145,1914,,"Amer. Midl. Naturalist 3: 191 1914",,Q55773085,,,,192730-2,wfo-0000395345,3857553,,
+d79e87ae-8fd1-11eb-924d-9cd76263cbd0,species,semperivens,Phenianthus,,"(L.) Raf. ex B.D.Jacks.","Q1043,Q364857,Q817450",1895,,"Index Kew. 2: 494 1895",,,,,,,wfo-0001290931,7504565,,
+d788167c-8fd1-11eb-924d-9cd76263cbd0,species,sempervirens,Phenianthus,,"(L.) Raf.","Q1043,Q364857",1820,,"Ann. Gén. Sci. Phys. 6: 83 1820",,,,,,149280-1,wfo-0001290788,3857541,,

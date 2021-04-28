@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9e372b1e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Trichoskytale,,,Corda,,1842,,"Anleit. Stud. Mykol., Prag 196 (1842)",,,,9e372b1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5584," "
-884ead28-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Trichoskytale,,Berk.,,,,,,,,884ead28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188807," Trichoscytale"
-17f067f6-8fcc-11eb-924d-9cd76263cbd0,species,coronaria,Trichosma,,"(Lindl.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 691 1891",,,,6b39d914-8fcd-11eb-924d-9cd76263cbd0,,660630-1,wfo-0000327876,2815547,,
-17f08cf4-8fcc-11eb-924d-9cd76263cbd0,species,cylindropoda,Trichosma,,Griff.,,1851,,"Not. Pl. Asiat. 3: 299 1851",,,,,,660631-1,wfo-0000327877,2815545,,
-17f0b79c-8fcc-11eb-924d-9cd76263cbd0,species,dilutum,Trichosma,,"(Ridl.) Rauschert",,1983,,"Feddes Repert. 94: 470 1983",,,,,,913546-1,wfo-0000327878,2815104,,
-17f0dace-8fcc-11eb-924d-9cd76263cbd0,species,genuflexum,Trichosma,,"(J.J.Sm.) Rauschert",,1983,,"Feddes Repert. 94: 470 1983",,,,,,913547-1,wfo-0000327879,2815165,,
-17f0f860-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpum,Trichosma,,"(Hook.f.) Rauschert",,1983,,"Feddes Repert. 94: 470 1983",,,,,,913548-1,wfo-0000327880,2815433,,
-17f1152a-8fcc-11eb-924d-9cd76263cbd0,species,neglectum,Trichosma,,"(Ridl.) Rauschert",,1983,,"Feddes Repert. 94: 470 1983",,,,,,913549-1,wfo-0000327881,2815428,,
-17f14a5e-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Trichosma,,"(Lindl.) Brieger",,1981,,"Schlechter Orchideen 1(11-12): 663 1981",,,,,,909792-1,wfo-0000327883,2815311,,
-17f166ba-8fcc-11eb-924d-9cd76263cbd0,species,simondii,Trichosma,,Gagnep.,,1950,,"Bull. Mus. Natl. Hist. Nat. II, 22: 505 1950",,,,,,660632-1,wfo-0000327884,2815273,,
-17f1824e-8fcc-11eb-924d-9cd76263cbd0,species,suavis,Trichosma,,Lindl.,,1842,,"Edwards's Bot. Reg. 28: t. 21 1842",,,,,,660633-1,wfo-0000327885,2815550,,
-752bd83c-8fcd-11eb-924d-9cd76263cbd0,species,yanshanensis,Trichosma,,"(S.C.Chen) Aver.",,2011,,"Taiwania 56: 146 2011",,Q93273132,,85159b2a-8fcd-11eb-924d-9cd76263cbd0,,77113150-1,wfo-0000921036,8175192,,
-d440ee3e-8fcd-11eb-924d-9cd76263cbd0,species,densus,Trichosorus,,Liebm.,,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 284 1849",,,,,,17233200-1,wfo-0001124374,4195465,,
-d4410aa4-8fcd-11eb-924d-9cd76263cbd0,species,frigidus,Trichosorus,,Liebm.,,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 284 1849",,,,,,17233210-1,wfo-0001124375,4195330,,
-d4412570-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Trichosorus,,Liebm.,,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 283 1849",,,,,,17233220-1,wfo-0001124376,7309835,,
-d44142a8-8fcd-11eb-924d-9cd76263cbd0,variety,major,Trichosorus,glaucescens,Liebm.,,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 283 1849",,,,,,,wfo-0001124377,4195313,,
+9e372b1e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Trichoskytale,,,Corda,Q624998,1842,,"Anleit. Stud. Mykol., Prag 196 (1842)",,,,9e372b1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5584," "
+884ead28-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Trichoskytale,,Berk.,Q662338,,,,,,,884ead28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188807," Trichoscytale"
+17f067f6-8fcc-11eb-924d-9cd76263cbd0,species,coronaria,Trichosma,,"(Lindl.) Kuntze","Q378629,Q62853",1891,,"Revis. Gen. Pl. 2: 691 1891",,,,6b39d914-8fcd-11eb-924d-9cd76263cbd0,,660630-1,wfo-0000327876,2815547,,
+17f08cf4-8fcc-11eb-924d-9cd76263cbd0,species,cylindropoda,Trichosma,,Griff.,Q11705310,1851,,"Not. Pl. Asiat. 3: 299 1851",,,,,,660631-1,wfo-0000327877,2815545,,
+17f0b79c-8fcc-11eb-924d-9cd76263cbd0,species,dilutum,Trichosma,,"(Ridl.) Rauschert","Q733709,Q3326939",1983,,"Feddes Repert. 94: 470 1983",,,,,,913546-1,wfo-0000327878,2815104,,
+17f0dace-8fcc-11eb-924d-9cd76263cbd0,species,genuflexum,Trichosma,,"(J.J.Sm.) Rauschert","Q770032,Q3326939",1983,,"Feddes Repert. 94: 470 1983",,,,,,913547-1,wfo-0000327879,2815165,,
+17f0f860-8fcc-11eb-924d-9cd76263cbd0,species,leptocarpum,Trichosma,,"(Hook.f.) Rauschert","Q157501,Q3326939",1983,,"Feddes Repert. 94: 470 1983",,,,,,913548-1,wfo-0000327880,2815433,,
+17f1152a-8fcc-11eb-924d-9cd76263cbd0,species,neglectum,Trichosma,,"(Ridl.) Rauschert","Q733709,Q3326939",1983,,"Feddes Repert. 94: 470 1983",,,,,,913549-1,wfo-0000327881,2815428,,
+17f14a5e-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Trichosma,,"(Lindl.) Brieger","Q378629,Q2314714",1981,,"Schlechter Orchideen 1(11-12): 663 1981",,,,,,909792-1,wfo-0000327883,2815311,,
+17f166ba-8fcc-11eb-924d-9cd76263cbd0,species,simondii,Trichosma,,Gagnep.,Q599122,1950,,"Bull. Mus. Natl. Hist. Nat. II, 22: 505 1950",,,,,,660632-1,wfo-0000327884,2815273,,
+17f1824e-8fcc-11eb-924d-9cd76263cbd0,species,suavis,Trichosma,,Lindl.,Q378629,1842,,"Edwards's Bot. Reg. 28: t. 21 1842",,,,,,660633-1,wfo-0000327885,2815550,,
+752bd83c-8fcd-11eb-924d-9cd76263cbd0,species,yanshanensis,Trichosma,,"(S.C.Chen) Aver.","Q5411213,Q4055703",2011,,"Taiwania 56: 146 2011",,Q93273132,,85159b2a-8fcd-11eb-924d-9cd76263cbd0,,77113150-1,wfo-0000921036,8175192,,
+d440ee3e-8fcd-11eb-924d-9cd76263cbd0,species,densus,Trichosorus,,Liebm.,Q1335154,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 284 1849",,,,,,17233200-1,wfo-0001124374,4195465,,
+d4410aa4-8fcd-11eb-924d-9cd76263cbd0,species,frigidus,Trichosorus,,Liebm.,Q1335154,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 284 1849",,,,,,17233210-1,wfo-0001124375,4195330,,
+d4412570-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Trichosorus,,Liebm.,Q1335154,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 283 1849",,,,,,17233220-1,wfo-0001124376,7309835,,
+d44142a8-8fcd-11eb-924d-9cd76263cbd0,variety,major,Trichosorus,glaucescens,Liebm.,Q1335154,1849,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd., ser. 5 1: 283 1849",,,,,,,wfo-0001124377,4195313,,

@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a05dc5b0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Macrohyporia,,,"I. Johans. & Ryvarden",,1979,,"Trans. Br. mycol. Soc. 72(2): 192 (1979)",,,,a05dc5b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18006," "
-6266fc3c-9bac-11eb-a8a2-19ed5c03f8d3,species,cocos,Macrohyporia,,"(Schwein.) I. Johans. & Ryvarden",,1979,,"Trans. Br. mycol. Soc. 72: 192 (1979)",,,,1d30424a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317065," "
-62676136-9bac-11eb-a8a2-19ed5c03f8d3,species,dictyopora,Macrohyporia,,"(Cooke) I. Johans. & Ryvarden",,1979,,"Trans. Br. mycol. Soc. 72(2): 192 (1979)",,,,8d061fc2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317066," "
-27f09964-9bac-11eb-a8a2-19ed5c03f8d3,species,extensa,Macrohyporia,,"(Peck) Ginns & J. Lowe",,,,"Can. J. Bot. 61(6): 1673 (1983)",,,,7baa94c0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,106995," "
-6267e836-9bac-11eb-a8a2-19ed5c03f8d3,species,inflata,Macrohyporia,,"Overh. ex I. Johans. & Ryvarden",,1979,,"Trans. Br. mycol. Soc. 72: 192 (1979)",,,,6267e836-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317067," "
-c67df608-9bac-11eb-a8a2-19ed5c03f8d3,species,pileata,Macrohyporia,,"Ryvarden & Núñez",,1999,,"in Núñez & Ryvarden, Mycotaxon 71: 363 (1999)",,,,c67df608-9bac-11eb-a8a2-19ed5c03f8d3,,,,,460418," "
+a05dc5b0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Macrohyporia,,,"I. Johans. & Ryvarden",Q4567813,1979,,"Trans. Br. mycol. Soc. 72(2): 192 (1979)",,,,a05dc5b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18006," "
+6266fc3c-9bac-11eb-a8a2-19ed5c03f8d3,species,cocos,Macrohyporia,,"(Schwein.) I. Johans. & Ryvarden","Q1822110,Q4567813",1979,,"Trans. Br. mycol. Soc. 72: 192 (1979)",,,,1d30424a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317065," "
+62676136-9bac-11eb-a8a2-19ed5c03f8d3,species,dictyopora,Macrohyporia,,"(Cooke) I. Johans. & Ryvarden","Q2351239,Q4567813",1979,,"Trans. Br. mycol. Soc. 72(2): 192 (1979)",,,,8d061fc2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317066," "
+27f09964-9bac-11eb-a8a2-19ed5c03f8d3,species,extensa,Macrohyporia,,"(Peck) Ginns & J. Lowe",Q1064899,,,"Can. J. Bot. 61(6): 1673 (1983)",,,,7baa94c0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,106995," "
+6267e836-9bac-11eb-a8a2-19ed5c03f8d3,species,inflata,Macrohyporia,,"Overh. ex I. Johans. & Ryvarden",Q4567813,1979,,"Trans. Br. mycol. Soc. 72: 192 (1979)",,,,6267e836-9bac-11eb-a8a2-19ed5c03f8d3,,,,,317067," "
+c67df608-9bac-11eb-a8a2-19ed5c03f8d3,species,pileata,Macrohyporia,,"Ryvarden & Núñez",Q4567813,1999,,"in Núñez & Ryvarden, Mycotaxon 71: 363 (1999)",,,,c67df608-9bac-11eb-a8a2-19ed5c03f8d3,,,,,460418," "
 07fd269a-9bac-11eb-a8a2-19ed5c03f8d3,species,sulphurea,Macrohyporia,,"(Burt) Ginns & J. Lowe",,,,"Sydowia 36: 1678 (1983)",,,,,,,,,115102," "
-73697d42-8fcd-11eb-924d-9cd76263cbd0,species,californica,Macrohystrix,,"(Bol. ex Thurb.) Tzvelev & Prob.",,2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,,,77107356-1,wfo-0000918193,7457514,,
-73696078-8fcd-11eb-924d-9cd76263cbd0,species,duthiei,Macrohystrix,,"(Stapf ex Hook.f.) Tzvelev & Prob.",,2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,4abb47a4-8fcd-11eb-924d-9cd76263cbd0,,77107357-1,wfo-0000918192,8255030,,
-7369989a-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Macrohystrix,,"(Roshev.) Tzvelev & Prob.",,2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,,,77107355-1,wfo-0000918194,7771275,,
+73697d42-8fcd-11eb-924d-9cd76263cbd0,species,californica,Macrohystrix,,"(Bol. ex Thurb.) Tzvelev & Prob.","Q70471,Q5877950,Q4503394,Q6043133",2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,,,77107356-1,wfo-0000918193,7457514,,
+73696078-8fcd-11eb-924d-9cd76263cbd0,species,duthiei,Macrohystrix,,"(Stapf ex Hook.f.) Tzvelev & Prob.","Q78630,Q157501,Q4503394,Q6043133",2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,4abb47a4-8fcd-11eb-924d-9cd76263cbd0,,77107357-1,wfo-0000918192,8255030,,
+7369989a-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Macrohystrix,,"(Roshev.) Tzvelev & Prob.","Q4120909,Q4503394,Q6043133",2010,,"Bot. Zhurn. (Moscow & Leningrad) 95: 858 2010",,,,,,77107355-1,wfo-0000918194,7771275,,

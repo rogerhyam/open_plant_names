@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e37d4e2a-8fd1-11eb-924d-9cd76263cbd0,genus,Erythrochilus,,,Reinw.,,1825,,"Flora 8(1): 103. 1825.",,,,,,,wfo-4000013977,7276096,,
-853d10ce-8fcd-11eb-924d-9cd76263cbd0,species,indicus,Erythrochilus,,"Reinw. ex Blume",,1826,,"Bijdr. 615 1826",,,,,,,wfo-0000953969,5378162,,
-853d2c4e-8fcd-11eb-924d-9cd76263cbd0,species,longifolius,Erythrochilus,,Blume,,1826,,"Bijdr. 616 1826",,,,,,345337-1,wfo-0000953970,5378163,,
-853d45d0-8fcd-11eb-924d-9cd76263cbd0,species,minor,Erythrochilus,,Blume,,1826,,"Bijdr. 616 1826",,,,,,345338-1,wfo-0000953971,5378161,,
-853d62c2-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Erythrochilus,,Blume,,1826,,"Bijdr. 615 1826",,,,,,345339-1,wfo-0000953972,5378160,,
-853d7c44-8fcd-11eb-924d-9cd76263cbd0,species,multiflorus,Erythrochilus,,"Zipp. ex Span.",,1841,,"Linnaea 15: 349 1841",,,,,,345340-1,wfo-0000953973,5615013,,
+e37d4e2a-8fd1-11eb-924d-9cd76263cbd0,genus,Erythrochilus,,,Reinw.,Q63165,1825,,"Flora 8(1): 103. 1825.",,,,,,,wfo-4000013977,7276096,,
+853d10ce-8fcd-11eb-924d-9cd76263cbd0,species,indicus,Erythrochilus,,"Reinw. ex Blume","Q63165,Q76816",1826,,"Bijdr. 615 1826",,,,,,,wfo-0000953969,5378162,,
+853d2c4e-8fcd-11eb-924d-9cd76263cbd0,species,longifolius,Erythrochilus,,Blume,Q76816,1826,,"Bijdr. 616 1826",,,,,,345337-1,wfo-0000953970,5378163,,
+853d45d0-8fcd-11eb-924d-9cd76263cbd0,species,minor,Erythrochilus,,Blume,Q76816,1826,,"Bijdr. 616 1826",,,,,,345338-1,wfo-0000953971,5378161,,
+853d62c2-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Erythrochilus,,Blume,Q76816,1826,,"Bijdr. 615 1826",,,,,,345339-1,wfo-0000953972,5378160,,
+853d7c44-8fcd-11eb-924d-9cd76263cbd0,species,multiflorus,Erythrochilus,,"Zipp. ex Span.","Q2643365,Q5932839",1841,,"Linnaea 15: 349 1841",,,,,,345340-1,wfo-0000953973,5615013,,

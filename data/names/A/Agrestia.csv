@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1541898-9bad-11eb-a8a2-19ed5c03f8d3,genus,Agrestia,,,"J.W. Thomson",,1961,,"Bryologist 63(4): 246 (1961)",,,,a1541898-9bad-11eb-a8a2-19ed5c03f8d3,,,,,88," "
 37d81a86-9bad-11eb-a8a2-19ed5c03f8d3,species,cyphellata,Agrestia,,"J.W. Thomson",,1961,,"Bryologist 63(4): 246 (1961)",,,,37d81a86-9bad-11eb-a8a2-19ed5c03f8d3,,,,,363936," "
-3c462028-9bac-11eb-a8a2-19ed5c03f8d3,species,hispida,Agrestia,,"(Mereschk.) Hale & W.L. Culb.",,1970,,"Bryologist 73(3): 505 (1970)",,,,0315cbae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341264," "
-469d85f6-8fcd-11eb-924d-9cd76263cbd0,species,alba,Agrestis,,"(L.) Lunell",,1915,,"Amer. Midl. Naturalist 4: 216 1915",,Q55773059,,,,7305-2,wfo-0000842105,4135771,,
-469d9f96-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Agrestis,,"(Scop.) Bubani",,1901,,"Fl. Pyren. 4: 287 1901",,,,,,384773-1,wfo-0000842106,4135759,,
-469db954-8fcd-11eb-924d-9cd76263cbd0,species,canina,Agrestis,,"(L.) Bubani",,1901,,"Fl. Pyren. 4: 286 1901",,,,,,384774-1,wfo-0000842107,4135749,,
-469dd312-8fcd-11eb-924d-9cd76263cbd0,species,hyemalis,Agrestis,,"(Walter) Lunell",,1915,,"Amer. Midl. Naturalist 4: 216 1915",,Q55773059,,,,7306-2,wfo-0000842108,4135730,,
-469dee24-8fcd-11eb-924d-9cd76263cbd0,species,interrupta,Agrestis,,"(L.) Bubani",,1901,,"Fl. Pyren. 4: 289 1901",,,,,,384776-1,wfo-0000842109,4135721,,
-469e0a8a-8fcd-11eb-924d-9cd76263cbd0,species,polymorpha,Agrestis,,"(Huds.) Bubani",,1901,,"Fl. Pyren. 4: 283 1901",,,,47910ae6-8fcd-11eb-924d-9cd76263cbd0,,384777-1,wfo-0000842110,4135713,,
-469e5d64-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Agrestis,,"(All.) Bubani",,1901,,"Fl. Pyren. 4: 288 1901",,,,,,384778-1,wfo-0000842113,4135704,,
-469e7754-8fcd-11eb-924d-9cd76263cbd0,species,schleicheri,Agrestis,,"(Jord. & Verl.) Bubani",,1901,,"Fl. Pyren. 4: 288 1901",,,,47aa0ef6-8fcd-11eb-924d-9cd76263cbd0,,384779-1,wfo-0000842114,4135699,,
-469e93ba-8fcd-11eb-924d-9cd76263cbd0,species,setacea,Agrestis,,"(Curtis) Bubani",,1901,,"Fl. Pyren. 4: 286 1901",,,,47ad5598-8fcd-11eb-924d-9cd76263cbd0,,384780-1,wfo-0000842115,4135687,,
-469eaeae-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Agrestis,,"(Vill.) Bubani",,1901,,"Fl. Pyren. 4: 282 1901",,,,773cfd90-8fcd-11eb-924d-9cd76263cbd0,,384781-1,wfo-0000842116,4135681,,
+3c462028-9bac-11eb-a8a2-19ed5c03f8d3,species,hispida,Agrestia,,"(Mereschk.) Hale & W.L. Culb.",Q18633472,1970,,"Bryologist 73(3): 505 (1970)",,,,0315cbae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341264," "
+469d85f6-8fcd-11eb-924d-9cd76263cbd0,species,alba,Agrestis,,"(L.) Lunell","Q1043,Q3019197",1915,,"Amer. Midl. Naturalist 4: 216 1915",,Q55773059,,,,7305-2,wfo-0000842105,4135771,,
+469d9f96-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Agrestis,,"(Scop.) Bubani","Q84181,Q684026",1901,,"Fl. Pyren. 4: 287 1901",,,,,,384773-1,wfo-0000842106,4135759,,
+469db954-8fcd-11eb-924d-9cd76263cbd0,species,canina,Agrestis,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 286 1901",,,,,,384774-1,wfo-0000842107,4135749,,
+469dd312-8fcd-11eb-924d-9cd76263cbd0,species,hyemalis,Agrestis,,"(Walter) Lunell","Q1366734,Q3019197",1915,,"Amer. Midl. Naturalist 4: 216 1915",,Q55773059,,,,7306-2,wfo-0000842108,4135730,,
+469dee24-8fcd-11eb-924d-9cd76263cbd0,species,interrupta,Agrestis,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 289 1901",,,,,,384776-1,wfo-0000842109,4135721,,
+469e0a8a-8fcd-11eb-924d-9cd76263cbd0,species,polymorpha,Agrestis,,"(Huds.) Bubani","Q982798,Q684026",1901,,"Fl. Pyren. 4: 283 1901",,,,47910ae6-8fcd-11eb-924d-9cd76263cbd0,,384777-1,wfo-0000842110,4135713,,
+469e5d64-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Agrestis,,"(All.) Bubani","Q161420,Q684026",1901,,"Fl. Pyren. 4: 288 1901",,,,,,384778-1,wfo-0000842113,4135704,,
+469e7754-8fcd-11eb-924d-9cd76263cbd0,species,schleicheri,Agrestis,,"(Jord. & Verl.) Bubani","Q2468988,Q5928628,Q684026",1901,,"Fl. Pyren. 4: 288 1901",,,,47aa0ef6-8fcd-11eb-924d-9cd76263cbd0,,384779-1,wfo-0000842114,4135699,,
+469e93ba-8fcd-11eb-924d-9cd76263cbd0,species,setacea,Agrestis,,"(Curtis) Bubani","Q460867,Q684026",1901,,"Fl. Pyren. 4: 286 1901",,,,47ad5598-8fcd-11eb-924d-9cd76263cbd0,,384780-1,wfo-0000842115,4135687,,
+469eaeae-8fcd-11eb-924d-9cd76263cbd0,species,verticillata,Agrestis,,"(Vill.) Bubani","Q680612,Q684026",1901,,"Fl. Pyren. 4: 282 1901",,,,773cfd90-8fcd-11eb-924d-9cd76263cbd0,,384781-1,wfo-0000842116,4135681,,

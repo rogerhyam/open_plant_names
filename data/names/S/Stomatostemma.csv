@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eadd2a82-8fd1-11eb-924d-9cd76263cbd0,genus,Stomatostemma,,,N.E.Br.,,1902,,"Fl. Trop. Africa 4(1): 252. 1902.",,,,,,3732-1,wfo-4000036781,9581135,,
-5ff5b538-8fcc-11eb-924d-9cd76263cbd0,species,monteiroae,Stomatostemma,,"(Oliv.) N.E.Br.",,1902,,"Fl. Trop. Afr. 4(1): 253 1902",,,,,,102026-1,wfo-0000431224,3572391,,
-cb3bc9a8-8fcd-11eb-924d-9cd76263cbd0,species,pendulina,Stomatostemma,,"Venter & D.V.Field",,1989,,"Bot. J. Linn. Soc. 99: 398–400, f. 1–2 1989",,Q43297709,,,,936880-1,wfo-0001104781,3572384,,
+eadd2a82-8fd1-11eb-924d-9cd76263cbd0,genus,Stomatostemma,,,N.E.Br.,Q721850,1902,,"Fl. Trop. Africa 4(1): 252. 1902.",,,,,,3732-1,wfo-4000036781,9581135,,
+5ff5b538-8fcc-11eb-924d-9cd76263cbd0,species,monteiroae,Stomatostemma,,"(Oliv.) N.E.Br.","Q1161960,Q721850",1902,,"Fl. Trop. Afr. 4(1): 253 1902",,,,,,102026-1,wfo-0000431224,3572391,,
+cb3bc9a8-8fcd-11eb-924d-9cd76263cbd0,species,pendulina,Stomatostemma,,"Venter & D.V.Field","Q5894356,Q5800440",1989,,"Bot. J. Linn. Soc. 99: 398–400, f. 1–2 1989",,Q43297709,,,,936880-1,wfo-0001104781,3572384,,

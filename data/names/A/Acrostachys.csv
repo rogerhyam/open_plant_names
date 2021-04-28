@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ded2b4f0-8fd1-11eb-924d-9cd76263cbd0,genus,Acrostachys,,,"(Benth. & Hook.f.) Tiegh.",,1894,,"Bull. Soc. Bot. France 41: 504. 1894.",,,,,,,wfo-4000000462,,,
-9497cce0-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Acrostachys,,"(Oliv.) Tiegh.",,1894,,"Bull. Soc. Bot. France 41: 504 1894",,Q54801450,,,,547627-1,wfo-0000518932,8469961,,
-9497e928-8fcc-11eb-924d-9cd76263cbd0,species,sandersonii,Acrostachys,,Tiegh.,,1894,,"Bull. Soc. Bot. France 41: 504 1894",,Q54801450,,,,547628-1,wfo-0000518933,4004027,,
+ded2b4f0-8fd1-11eb-924d-9cd76263cbd0,genus,Acrostachys,,,"(Benth. & Hook.f.) Tiegh.","Q731808,Q157501,Q2421500",1894,,"Bull. Soc. Bot. France 41: 504. 1894.",,,,,,,wfo-4000000462,,,
+9497cce0-8fcc-11eb-924d-9cd76263cbd0,species,kirkii,Acrostachys,,"(Oliv.) Tiegh.","Q1161960,Q2421500",1894,,"Bull. Soc. Bot. France 41: 504 1894",,Q54801450,,,,547627-1,wfo-0000518932,8469961,,
+9497e928-8fcc-11eb-924d-9cd76263cbd0,species,sandersonii,Acrostachys,,Tiegh.,Q2421500,1894,,"Bull. Soc. Bot. France 41: 504 1894",,Q54801450,,,,547628-1,wfo-0000518933,4004027,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e87e58f6-8fd1-11eb-924d-9cd76263cbd0,genus,Picardaea,,,Urb.,,1903,,"Symb. Antill. 3: 376. 1903.",,,,,,295229-2,wfo-4000029598,2909329,,
-f568e24e-8fcb-11eb-924d-9cd76263cbd0,species,cubensis,Picardaea,,"(Griseb.) Britton ex Urb.",,1912,,"Symb. Antill. 7: 391 1912",,,,,,195851-2,wfo-0000273269,2909330,,
-f5695396-8fcb-11eb-924d-9cd76263cbd0,species,haitiensis,Picardaea,,Urb.,,1903,,"Symb. Antill. 3: 377 1903",,,,,,195852-2,wfo-0000273271,2909332,,
+e87e58f6-8fd1-11eb-924d-9cd76263cbd0,genus,Picardaea,,,Urb.,Q64845,1903,,"Symb. Antill. 3: 376. 1903.",,,,,,295229-2,wfo-4000029598,2909329,,
+f568e24e-8fcb-11eb-924d-9cd76263cbd0,species,cubensis,Picardaea,,"(Griseb.) Britton ex Urb.","Q76351,Q553714,Q64845",1912,,"Symb. Antill. 7: 391 1912",,,,,,195851-2,wfo-0000273269,2909330,,
+f5695396-8fcb-11eb-924d-9cd76263cbd0,species,haitiensis,Picardaea,,Urb.,Q64845,1903,,"Symb. Antill. 3: 377 1903",,,,,,195852-2,wfo-0000273271,2909332,,

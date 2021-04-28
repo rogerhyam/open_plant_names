@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a15fad2a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Tengiomyces,,,Réblová,,1999,,"Mycotaxon 70: 408 (1999)",,,,a15fad2a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28271," "
 49abd7c6-9bac-11eb-a8a2-19ed5c03f8d3,species,indicus,Tengiomyces,,"(Varghese & V.G. Rao) Réblová",,1999,,"Mycotaxon 70: 408 (1999)",,,,0ba76778-9bad-11eb-a8a2-19ed5c03f8d3,,,,,450371,"  bas auths need adding"
-1a313dbe-8fcd-11eb-924d-9cd76263cbd0,species,exuviata,Tenicroa,,"(Jacq.) Speta",,1980,,"Linzer Biol. Beitr. 12: 195 1980",,,,,,542142-1,wfo-0000747444,2776852,,
-1939c69c-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Tenicroa,,"(Poir.) Oberm.",,1981,,"J. S. African Bot. 47: 577 1981",,,,7f32e7cc-8fcc-11eb-924d-9cd76263cbd0,,909746-1,wfo-0000745390,2776783,,
-1a3265cc-8fcd-11eb-924d-9cd76263cbd0,species,fragrans,Tenicroa,,"(Jacq.) Raf.",,1837,,"Fl. Tellur. 3: 53 1837",,,,,,542143-1,wfo-0000747454,2776697,,
-1923f5ce-8fcd-11eb-924d-9cd76263cbd0,species,multifolia,Tenicroa,,"(G.J.Lewis) Oberm.",,1981,,"J. S. African Bot. 47: 577 1981",,,,1bf8cfb8-8fcd-11eb-924d-9cd76263cbd0,,909747-1,wfo-0000745232,2776915,,
-1925ddbc-8fcd-11eb-924d-9cd76263cbd0,species,nana,Tenicroa,,Snijman,,1985,,"S. African J. Bot. 51: 284 1985",,,,,,907163-1,wfo-0000745247,2776756,,
+1a313dbe-8fcd-11eb-924d-9cd76263cbd0,species,exuviata,Tenicroa,,"(Jacq.) Speta","Q84497,Q86532",1980,,"Linzer Biol. Beitr. 12: 195 1980",,,,,,542142-1,wfo-0000747444,2776852,,
+1939c69c-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Tenicroa,,"(Poir.) Oberm.","Q966539,Q4766821",1981,,"J. S. African Bot. 47: 577 1981",,,,7f32e7cc-8fcc-11eb-924d-9cd76263cbd0,,909746-1,wfo-0000745390,2776783,,
+1a3265cc-8fcd-11eb-924d-9cd76263cbd0,species,fragrans,Tenicroa,,"(Jacq.) Raf.","Q84497,Q364857",1837,,"Fl. Tellur. 3: 53 1837",,,,,,542143-1,wfo-0000747454,2776697,,
+1923f5ce-8fcd-11eb-924d-9cd76263cbd0,species,multifolia,Tenicroa,,"(G.J.Lewis) Oberm.","Q4271206,Q4766821",1981,,"J. S. African Bot. 47: 577 1981",,,,1bf8cfb8-8fcd-11eb-924d-9cd76263cbd0,,909747-1,wfo-0000745232,2776915,,
+1925ddbc-8fcd-11eb-924d-9cd76263cbd0,species,nana,Tenicroa,,Snijman,Q5806887,1985,,"S. African J. Bot. 51: 284 1985",,,,,,907163-1,wfo-0000745247,2776756,,

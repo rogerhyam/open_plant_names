@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e70044da-8fd1-11eb-924d-9cd76263cbd0,genus,Myrialepis,,,Becc.,,1893,,"Fl. Brit. India 6: 480. 1893. (Sep 1893)",,,,,,31379-1,wfo-4000025113,2739594,,
-e5c993e2-8fcb-11eb-924d-9cd76263cbd0,species,floribunda,Myrialepis,,"(Becc.) Gagnep.",,,,"Fl. Indo-Chine 6: 1003 1937",,,,f6892328-8fcb-11eb-924d-9cd76263cbd0,,668294-1,wfo-0000248193,2739603,,
-e5c9b084-8fcb-11eb-924d-9cd76263cbd0,species,paradoxa,Myrialepis,,"(Kurz) J.Dransf.",,1982,,"Kew Bull. 37: 242 1982",,Q55779845,,91df79ac-8fcd-11eb-924d-9cd76263cbd0,,910950-1,wfo-0000248194,2739595,,
-e5c9caec-8fcb-11eb-924d-9cd76263cbd0,species,scortechinii,Myrialepis,,Becc.,,1893,,"Fl. Brit. India 6: 480 1893",,,,,,668295-1,wfo-0000248195,2739596,,
-e5c9e87e-8fcb-11eb-924d-9cd76263cbd0,species,triquetra,Myrialepis,,"(Becc.) Becc.",,1893,,"Fl. Brit. India 6: 480 1893",,,,,,,wfo-0000248196,2738626,,
+e70044da-8fd1-11eb-924d-9cd76263cbd0,genus,Myrialepis,,,Becc.,Q361037,1893,,"Fl. Brit. India 6: 480. 1893. (Sep 1893)",,,,,,31379-1,wfo-4000025113,2739594,,
+e5c993e2-8fcb-11eb-924d-9cd76263cbd0,species,floribunda,Myrialepis,,"(Becc.) Gagnep.","Q361037,Q599122",,,"Fl. Indo-Chine 6: 1003 1937",,,,f6892328-8fcb-11eb-924d-9cd76263cbd0,,668294-1,wfo-0000248193,2739603,,
+e5c9b084-8fcb-11eb-924d-9cd76263cbd0,species,paradoxa,Myrialepis,,"(Kurz) J.Dransf.","Q2587569,Q2572317",1982,,"Kew Bull. 37: 242 1982",,Q55779845,,91df79ac-8fcd-11eb-924d-9cd76263cbd0,,910950-1,wfo-0000248194,2739595,,
+e5c9caec-8fcb-11eb-924d-9cd76263cbd0,species,scortechinii,Myrialepis,,Becc.,Q361037,1893,,"Fl. Brit. India 6: 480 1893",,,,,,668295-1,wfo-0000248195,2739596,,
+e5c9e87e-8fcb-11eb-924d-9cd76263cbd0,species,triquetra,Myrialepis,,"(Becc.) Becc.",Q361037,1893,,"Fl. Brit. India 6: 480 1893",,,,,,,wfo-0000248196,2738626,,

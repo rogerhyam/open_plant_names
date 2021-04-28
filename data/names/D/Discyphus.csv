@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ea22b2-8fd1-11eb-924d-9cd76263cbd0,genus,Discyphus,,,Schltr.,,1919,,"Repert. Spec. Nov. Regni Veg. 15(438/443): 417. 1919. (31 Mar 1919)",,Q55753079,,,,296499-2,wfo-4000012160,2820738,,
-81163624-8fcd-11eb-924d-9cd76263cbd0,species,scopulariae,Discyphus,,"(Rchb.f.) Schltr.",,1919,,"Repert. Spec. Nov. Regni Veg. 15: 417 1919",,Q55753079,,0eccfc34-8fcc-11eb-924d-9cd76263cbd0,,82228-2,wfo-0000944679,2820739,,
-456b8314-8fcc-11eb-924d-9cd76263cbd0,species,kotschyi,Disecocarpus,,"Hassk. ex C.B.Clarke",,1881,,"Monogr. Phan. 3: 173 1881",,,,,,172680-1,wfo-0000397231,2764089,,
-45702108-8fcc-11eb-924d-9cd76263cbd0,species,polygamus,Disecocarpus,,"(Roth) Hassk.",,1870,,"Commelin. Ind. 9 1870",,,,,,172681-1,wfo-0000397240,2764306,,
+e2ea22b2-8fd1-11eb-924d-9cd76263cbd0,genus,Discyphus,,,Schltr.,Q62278,1919,,"Repert. Spec. Nov. Regni Veg. 15(438/443): 417. 1919. (31 Mar 1919)",,Q55753079,,,,296499-2,wfo-4000012160,2820738,,
+81163624-8fcd-11eb-924d-9cd76263cbd0,species,scopulariae,Discyphus,,"(Rchb.f.) Schltr.","Q62820,Q62278",1919,,"Repert. Spec. Nov. Regni Veg. 15: 417 1919",,Q55753079,,0eccfc34-8fcc-11eb-924d-9cd76263cbd0,,82228-2,wfo-0000944679,2820739,,
+456b8314-8fcc-11eb-924d-9cd76263cbd0,species,kotschyi,Disecocarpus,,"Hassk. ex C.B.Clarke","Q68616,Q2659116",1881,,"Monogr. Phan. 3: 173 1881",,,,,,172680-1,wfo-0000397231,2764089,,
+45702108-8fcc-11eb-924d-9cd76263cbd0,species,polygamus,Disecocarpus,,"(Roth) Hassk.","Q64246,Q68616",1870,,"Commelin. Ind. 9 1870",,,,,,172681-1,wfo-0000397240,2764306,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df66366c-8fd1-11eb-924d-9cd76263cbd0,genus,Ancylotropis,,,B.Eriksen,,1993,,"Pl. Syst. Evol. 186(1–2): 48. 1993.",,Q54552793,,,,972044-1,wfo-4000001942,3233153,,
-9d4187aa-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Ancylotropis,,"(A.W.Benn.) B.Eriksen",,1993,,"Pl. Syst. Evol. 186: 49 1993",,Q54552793,,c91ac5e8-8fcd-11eb-924d-9cd76263cbd0,,972045-1,wfo-0000533907,5658205,,
-9d41a33e-8fcc-11eb-924d-9cd76263cbd0,species,malmeana,Ancylotropis,,"(Chodat) B.Eriksen",,1993,,"Pl. Syst. Evol. 186: 49 1993",,Q54552793,,,,972046-1,wfo-0000533908,5658203,,
+df66366c-8fd1-11eb-924d-9cd76263cbd0,genus,Ancylotropis,,,B.Eriksen,Q16267950,1993,,"Pl. Syst. Evol. 186(1–2): 48. 1993.",,Q54552793,,,,972044-1,wfo-4000001942,3233153,,
+9d4187aa-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Ancylotropis,,"(A.W.Benn.) B.Eriksen","Q2635041,Q16267950",1993,,"Pl. Syst. Evol. 186: 49 1993",,Q54552793,,c91ac5e8-8fcd-11eb-924d-9cd76263cbd0,,972045-1,wfo-0000533907,5658205,,
+9d41a33e-8fcc-11eb-924d-9cd76263cbd0,species,malmeana,Ancylotropis,,"(Chodat) B.Eriksen","Q2613173,Q16267950",1993,,"Pl. Syst. Evol. 186: 49 1993",,Q54552793,,,,972046-1,wfo-0000533908,5658203,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df058ace-8fd1-11eb-924d-9cd76263cbd0,genus,Aidiopsis,,,Tirveng.,,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 8: 287. 1986.",,,,,,925011-1,wfo-4000001015,2911251,,
-7b6d536a-8fcd-11eb-924d-9cd76263cbd0,species,forbesii,Aidiopsis,,"(King & Gamble) Tirveng.",,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8: 288 1986",,,,,,,wfo-0000932000,2911255,,
-7b6e8cf8-8fcd-11eb-924d-9cd76263cbd0,species,orophila,Aidiopsis,,"(Miq.) Ridsdale",,1996,,"Blumea 41: 176 1996",,Q96030556,,115a0fe6-8fcc-11eb-924d-9cd76263cbd0,,989548-1,wfo-0000932011,2911252,,
-97c93444-8fcc-11eb-924d-9cd76263cbd0,species,parvula,Aidomene,,Stopp,,1967,,"Bot. Jahrb. Syst. 87: 21 1967",,,,,,93884-1,wfo-0000524594,3582478,,
-ccca0844-8fd1-11eb-924d-9cd76263cbd0,species,deltoides,Aigeiros,,"(W.Bartram ex Marshall) Tidestr.",,1910,,"Elys. Marian. Salicaceae 3: 16 1910",,,,,,7843-2,wfo-0001277702,3804918,,
-cccb26a2-8fd1-11eb-924d-9cd76263cbd0,species,sargentii,Aigeiros,,"(Dode) Lundell",,1916,,"Amer. Midl. Naturalist 4: 298 1916",,,,79aaf49c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001277708,7483677,,
+df058ace-8fd1-11eb-924d-9cd76263cbd0,genus,Aidiopsis,,,Tirveng.,Q5804720,1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia, sér. 4 8: 287. 1986.",,,,,,925011-1,wfo-4000001015,2911251,,
+7b6d536a-8fcd-11eb-924d-9cd76263cbd0,species,forbesii,Aidiopsis,,"(King & Gamble) Tirveng.","Q2566984,Q1461150,Q5804720",1986,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 8: 288 1986",,,,,,,wfo-0000932000,2911255,,
+7b6e8cf8-8fcd-11eb-924d-9cd76263cbd0,species,orophila,Aidiopsis,,"(Miq.) Ridsdale","Q76742,Q4394497",1996,,"Blumea 41: 176 1996",,Q96030556,,115a0fe6-8fcc-11eb-924d-9cd76263cbd0,,989548-1,wfo-0000932011,2911252,,
+97c93444-8fcc-11eb-924d-9cd76263cbd0,species,parvula,Aidomene,,Stopp,Q19002389,1967,,"Bot. Jahrb. Syst. 87: 21 1967",,,,,,93884-1,wfo-0000524594,3582478,,
+ccca0844-8fd1-11eb-924d-9cd76263cbd0,species,deltoides,Aigeiros,,"(W.Bartram ex Marshall) Tidestr.","Q18243,Q1397162,Q3156258",1910,,"Elys. Marian. Salicaceae 3: 16 1910",,,,,,7843-2,wfo-0001277702,3804918,,
+cccb26a2-8fd1-11eb-924d-9cd76263cbd0,species,sargentii,Aigeiros,,"(Dode) Lundell","Q4164115,Q3009490",1916,,"Amer. Midl. Naturalist 4: 298 1916",,,,79aaf49c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001277708,7483677,,

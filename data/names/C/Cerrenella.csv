@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-140a8e32-9bac-11eb-a8a2-19ed5c03f8d3,genus,Cerrenella,,,Murrill,,1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,140a8e32-9bac-11eb-a8a2-19ed5c03f8d3,,,,,17271," "
-3df0f0d8-9bac-11eb-a8a2-19ed5c03f8d3,species,coriacea,Cerrenella,,"(Berk. & Ravenel) Murrill",,1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,7934d678-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468562," "
-3df11d88-9bac-11eb-a8a2-19ed5c03f8d3,species,farinacea,Cerrenella,,"(Fr.) Murrill",,1908,,"N. Amer. Fl. (New York) 9(2): 74 (1908)",,,,78aec186-9bad-11eb-a8a2-19ed5c03f8d3,,,,,468563," "
-17636cc4-9bad-11eb-a8a2-19ed5c03f8d3,species,ravenelii,Cerrenella,,"(Berk.) Murrill",,1908,,"N. Amer. Fl. (New York) 9(2): 73 (1908)",,,,cf902d10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468564," "
-7db25b22-9bab-11eb-a8a2-19ed5c03f8d3,species,subcoriacea,Cerrenella,,Murrill,,1908,,"N. Amer. Fl. (New York) 9(2): 74 (1908)",,,,7db25b22-9bab-11eb-a8a2-19ed5c03f8d3,,,,,194991," "
-561d2af4-9bad-11eb-a8a2-19ed5c03f8d3,species,tabacina,Cerrenella,,"(Berk. & M.A. Curtis ex Fr.) Murrill",,1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,78f6ad66-9bad-11eb-a8a2-19ed5c03f8d3,,,,,439719," "
+140a8e32-9bac-11eb-a8a2-19ed5c03f8d3,genus,Cerrenella,,,Murrill,Q2170251,1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,140a8e32-9bac-11eb-a8a2-19ed5c03f8d3,,,,,17271," "
+3df0f0d8-9bac-11eb-a8a2-19ed5c03f8d3,species,coriacea,Cerrenella,,"(Berk. & Ravenel) Murrill","Q662338,Q3127757,Q2170251",1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,7934d678-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468562," "
+3df11d88-9bac-11eb-a8a2-19ed5c03f8d3,species,farinacea,Cerrenella,,"(Fr.) Murrill","Q15405,Q2170251",1908,,"N. Amer. Fl. (New York) 9(2): 74 (1908)",,,,78aec186-9bad-11eb-a8a2-19ed5c03f8d3,,,,,468563," "
+17636cc4-9bad-11eb-a8a2-19ed5c03f8d3,species,ravenelii,Cerrenella,,"(Berk.) Murrill","Q662338,Q2170251",1908,,"N. Amer. Fl. (New York) 9(2): 73 (1908)",,,,cf902d10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468564," "
+7db25b22-9bab-11eb-a8a2-19ed5c03f8d3,species,subcoriacea,Cerrenella,,Murrill,Q2170251,1908,,"N. Amer. Fl. (New York) 9(2): 74 (1908)",,,,7db25b22-9bab-11eb-a8a2-19ed5c03f8d3,,,,,194991," "
+561d2af4-9bad-11eb-a8a2-19ed5c03f8d3,species,tabacina,Cerrenella,,"(Berk. & M.A. Curtis ex Fr.) Murrill","Q662338,Q15405,Q2170251",1905,,"Bull. Torrey bot. Club 32(7): 361 (1905)",,,,78f6ad66-9bad-11eb-a8a2-19ed5c03f8d3,,,,,439719," "

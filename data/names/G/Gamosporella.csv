@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9b429d80-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gamosporella,,,Speg.,,1888,,"Anal. Soc. cient. argent. 26: 63 (1888)",,,,9b429d80-9bad-11eb-a8a2-19ed5c03f8d3,,,,,22162," "
-06d16802-9bad-11eb-a8a2-19ed5c03f8d3,species,hysterioides,Gamosporella,,Speg.,,1888,,"Anal. Soc. cient. argent. 26: (1888)",,,,06d16802-9bad-11eb-a8a2-19ed5c03f8d3,,,,,245156," "
-8d25dbf4-8fcd-11eb-924d-9cd76263cbd0,species,alba,Gamotopea,,"(Aubl.) Bremek.",,1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750880-1,wfo-0000970730,2923413,,
-8d25f9c2-8fcd-11eb-924d-9cd76263cbd0,species,callithrix,Gamotopea,,"(Miq.) Bremek.",,1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750881-1,wfo-0000970731,2922578,,
-8d261812-8fcd-11eb-924d-9cd76263cbd0,species,oblonga,Gamotopea,,"(DC.) Lemée",,1954,,"in Fl. Guyane Franç. 3: 554 1954",,,,,,750882-1,wfo-0000970732,2922864,,
-8d263504-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Gamotopea,,"(Aubl.) Bremek.",,1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,13de420a-8fcc-11eb-924d-9cd76263cbd0,,750883-1,wfo-0000970733,2922565,,
-8d265958-8fcd-11eb-924d-9cd76263cbd0,species,surinamensis,Gamotopea,,"(Standl.) Bremek.",,1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750884-1,wfo-0000970734,2922563,,
-a5989af4-8fba-11eb-924d-9cd76263cbd0,species,flexuosa,Gamozygis,,Turcz.,,1851,,1851,,,,,,88283-3,wfo-0000128323,3087152,,
-aca53434-8fcd-11eb-924d-9cd76263cbd0,species,pinardi,Gampsoceras,,Steven,,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(1): 542 1852",,,,,,,wfo-0001036066,,,
-fd38c024-8fcc-11eb-924d-9cd76263cbd0,species,pinardii,Gampsoceras,,Steven,,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(1): 542 1852",,,,,,711239-1,wfo-0000694095,7357420,,
+9b429d80-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gamosporella,,,Speg.,Q648013,1888,,"Anal. Soc. cient. argent. 26: 63 (1888)",,,,9b429d80-9bad-11eb-a8a2-19ed5c03f8d3,,,,,22162," "
+06d16802-9bad-11eb-a8a2-19ed5c03f8d3,species,hysterioides,Gamosporella,,Speg.,Q648013,1888,,"Anal. Soc. cient. argent. 26: (1888)",,,,06d16802-9bad-11eb-a8a2-19ed5c03f8d3,,,,,245156," "
+8d25dbf4-8fcd-11eb-924d-9cd76263cbd0,species,alba,Gamotopea,,"(Aubl.) Bremek.","Q721482,Q5171231",1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750880-1,wfo-0000970730,2923413,,
+8d25f9c2-8fcd-11eb-924d-9cd76263cbd0,species,callithrix,Gamotopea,,"(Miq.) Bremek.","Q76742,Q5171231",1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750881-1,wfo-0000970731,2922578,,
+8d261812-8fcd-11eb-924d-9cd76263cbd0,species,oblonga,Gamotopea,,"(DC.) Lemée","Q123057,Q5662641",1954,,"in Fl. Guyane Franç. 3: 554 1954",,,,,,750882-1,wfo-0000970732,2922864,,
+8d263504-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Gamotopea,,"(Aubl.) Bremek.","Q721482,Q5171231",1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,13de420a-8fcc-11eb-924d-9cd76263cbd0,,750883-1,wfo-0000970733,2922565,,
+8d265958-8fcd-11eb-924d-9cd76263cbd0,species,surinamensis,Gamotopea,,"(Standl.) Bremek.","Q1333160,Q5171231",1934,,"Recueil Trav. Bot. Néerl. 31: 294 1934",,Q100726861,,,,750884-1,wfo-0000970734,2922563,,
+a5989af4-8fba-11eb-924d-9cd76263cbd0,species,flexuosa,Gamozygis,,Turcz.,Q2640364,1851,,1851,,,,,,88283-3,wfo-0000128323,3087152,,
+aca53434-8fcd-11eb-924d-9cd76263cbd0,species,pinardi,Gampsoceras,,Steven,Q967040,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(1): 542 1852",,,,,,,wfo-0001036066,,,
+fd38c024-8fcc-11eb-924d-9cd76263cbd0,species,pinardii,Gampsoceras,,Steven,Q967040,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(1): 542 1852",,,,,,711239-1,wfo-0000694095,7357420,,

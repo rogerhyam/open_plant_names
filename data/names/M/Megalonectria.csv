@@ -1,16 +1,16 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a08bc7c6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Megalonectria,,,Speg.,,1881,,"Anal. Soc. cient. argent. 12(5): 217 (1881)",,,,a08bc7c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3044," "
-7dc2ccfa-9bab-11eb-a8a2-19ed5c03f8d3,species,caespitosa,Megalonectria,,Speg.,,1889,,"Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 538 [no. 310] (1889)",,,,7dc2ccfa-9bab-11eb-a8a2-19ed5c03f8d3,,,,,197757," "
+a08bc7c6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Megalonectria,,,Speg.,Q648013,1881,,"Anal. Soc. cient. argent. 12(5): 217 (1881)",,,,a08bc7c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3044," "
+7dc2ccfa-9bab-11eb-a8a2-19ed5c03f8d3,species,caespitosa,Megalonectria,,Speg.,Q648013,1889,,"Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 538 [no. 310] (1889)",,,,7dc2ccfa-9bab-11eb-a8a2-19ed5c03f8d3,,,,,197757," "
 2b7b020e-9bac-11eb-a8a2-19ed5c03f8d3,species,coffeae,Megalonectria,,Saccas,,1981,invalid,"Étude de la Flore Cryptogamique des Caféirs en Afrique Centrale, (Bulletin IFCC <b>16</b>) 16: 268 (1981)",,,,2b7b020e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,112434,"Nom. inval., Art. 37.1 "
-ebd936d8-9bac-11eb-a8a2-19ed5c03f8d3,species,irregularis,Megalonectria,,Viégas,,1944,,"Bragantia 4: 84 (1944)",,,,ebd936d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288009," "
-8e28974a-9bac-11eb-a8a2-19ed5c03f8d3,species,madagascariensis,Megalonectria,,Henn.,,,,,,,,8e28974a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197809," "
-7cc9c0c4-9bab-11eb-a8a2-19ed5c03f8d3,species,nigra,Megalonectria,,Torrend,,,,,,,,7cc9c0c4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,233464," "
-518ee6ea-9bac-11eb-a8a2-19ed5c03f8d3,species,nigrescens,Megalonectria,,"(Kalchbr. & Cooke) Sacc.",,1883,,"Syll. fung. (Abellini) 2: 561 (1883)",,,,9071aef6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233310," "
-51b4be6a-9bac-11eb-a8a2-19ed5c03f8d3,species,pseudotrichia,Megalonectria,,"(Schwein.) Speg.",,1881,,"Anal. Soc. cient. argent. 12(5): 216 (1881)",,,,b1b041a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233619," "
-b250e14e-9bad-11eb-a8a2-19ed5c03f8d3,variety,australiensis,Megalonectria,pseudotrichia,Henn.,,,,,,,,b250e14e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,138796," "
-52af0884-9bac-11eb-a8a2-19ed5c03f8d3,variety,oligospora,Megalonectria,pseudotrichia,Sacc.,,,,,,,,52af0884-9bac-11eb-a8a2-19ed5c03f8d3,,,,,138750," "
-0923ba38-9bad-11eb-a8a2-19ed5c03f8d3,variety,pseudotrichia,Megalonectria,pseudotrichia,"(Schwein.) Speg.",,1881,,"Anal. Soc. cient. argent. 12(5): 216 (1881)",,,,0923ba38-9bad-11eb-a8a2-19ed5c03f8d3,,,,,420946," "
+ebd936d8-9bac-11eb-a8a2-19ed5c03f8d3,species,irregularis,Megalonectria,,Viégas,Q21611725,1944,,"Bragantia 4: 84 (1944)",,,,ebd936d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288009," "
+8e28974a-9bac-11eb-a8a2-19ed5c03f8d3,species,madagascariensis,Megalonectria,,Henn.,Q4497246,,,,,,,8e28974a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197809," "
+7cc9c0c4-9bab-11eb-a8a2-19ed5c03f8d3,species,nigra,Megalonectria,,Torrend,Q5742031,,,,,,,7cc9c0c4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,233464," "
+518ee6ea-9bac-11eb-a8a2-19ed5c03f8d3,species,nigrescens,Megalonectria,,"(Kalchbr. & Cooke) Sacc.","Q736795,Q2351239,Q707840",1883,,"Syll. fung. (Abellini) 2: 561 (1883)",,,,9071aef6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233310," "
+51b4be6a-9bac-11eb-a8a2-19ed5c03f8d3,species,pseudotrichia,Megalonectria,,"(Schwein.) Speg.","Q1822110,Q648013",1881,,"Anal. Soc. cient. argent. 12(5): 216 (1881)",,,,b1b041a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233619," "
+b250e14e-9bad-11eb-a8a2-19ed5c03f8d3,variety,australiensis,Megalonectria,pseudotrichia,Henn.,Q4497246,,,,,,,b250e14e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,138796," "
+52af0884-9bac-11eb-a8a2-19ed5c03f8d3,variety,oligospora,Megalonectria,pseudotrichia,Sacc.,Q707840,,,,,,,52af0884-9bac-11eb-a8a2-19ed5c03f8d3,,,,,138750," "
+0923ba38-9bad-11eb-a8a2-19ed5c03f8d3,variety,pseudotrichia,Megalonectria,pseudotrichia,"(Schwein.) Speg.","Q1822110,Q648013",1881,,"Anal. Soc. cient. argent. 12(5): 216 (1881)",,,,0923ba38-9bad-11eb-a8a2-19ed5c03f8d3,,,,,420946," "
 51c6e2a2-9bac-11eb-a8a2-19ed5c03f8d3,species,verrucosa,Megalonectria,,Möller,,1901,,"Bot. Mitt. Trop. 9: 298 (1901)",,,,51c6e2a2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233732," "
-51a7bf62-9bac-11eb-a8a2-19ed5c03f8d3,species,yerbae,Megalonectria,,Speg.,,1908,,"Anal. Mus. nac. B. Aires, Ser. 3 17(10): 129 (1908)",,,,51a7bf62-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233535," "
-ae38fbe6-8fcd-11eb-924d-9cd76263cbd0,species,nobile,Megalonium,,"(Praeger) Kunkel",,1980,,"Kanarischen Ins. Pflanzenwelt 158 1980",,,,67215db2-8fcc-11eb-924d-9cd76263cbd0,,908121-1,wfo-0001039662,4197635,,
-e0aad858-8fcb-11eb-924d-9cd76263cbd0,species,rex,Megalopanax,,Ekman,,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 122 1924",,Q55776957,,,,91003-1,wfo-0000239299,3037071,,
+51a7bf62-9bac-11eb-a8a2-19ed5c03f8d3,species,yerbae,Megalonectria,,Speg.,Q648013,1908,,"Anal. Mus. nac. B. Aires, Ser. 3 17(10): 129 (1908)",,,,51a7bf62-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233535," "
+ae38fbe6-8fcd-11eb-924d-9cd76263cbd0,species,nobile,Megalonium,,"(Praeger) Kunkel","Q3776786,Q21389238",1980,,"Kanarischen Ins. Pflanzenwelt 158 1980",,,,67215db2-8fcc-11eb-924d-9cd76263cbd0,,908121-1,wfo-0001039662,4197635,,
+e0aad858-8fcb-11eb-924d-9cd76263cbd0,species,rex,Megalopanax,,Ekman,Q541549,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 122 1924",,Q55776957,,,,91003-1,wfo-0000239299,3037071,,

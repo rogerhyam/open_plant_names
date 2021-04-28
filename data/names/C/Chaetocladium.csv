@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9e756bae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Chaetocladium,,,Fresen.,,1863,,"Beitr. Mykol. 3: 97 (1863)",,,,9e756bae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20111," "
+9e756bae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Chaetocladium,,,Fresen.,Q77670,1863,,"Beitr. Mykol. 3: 97 (1863)",,,,9e756bae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20111," "
 19e98d34-9bad-11eb-a8a2-19ed5c03f8d3,species,benjaminii,Chaetocladium,,Embree,,1962,,"Mycologia 54(3): 305 (1962)",,,,19e98d34-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328001," "
-7925b184-9bac-11eb-a8a2-19ed5c03f8d3,species,brefeldii,Chaetocladium,,"Tiegh. & G. Le Monn.",,1873,,"Annls Sci. Nat., Bot., sér. 5 17: 342 (1873)",,,,7925b184-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165231," "
-12525552-9bac-11eb-a8a2-19ed5c03f8d3,variety,brefeldii,Chaetocladium,brefeldii,"Tiegh. & G. Le Monn.",,1873,,"Annls Sci. Nat., Bot., sér. 5 17: 342 (1873)",,,,12525552-9bac-11eb-a8a2-19ed5c03f8d3,,,,,439402," "
-a7bbbc00-9bac-11eb-a8a2-19ed5c03f8d3,variety,macrosporum,Chaetocladium,brefeldii,Burgeff,,1924,,"Bot. Abh. 1: 109 (1924)",,,,a7bbbc00-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433062," "
+7925b184-9bac-11eb-a8a2-19ed5c03f8d3,species,brefeldii,Chaetocladium,,"Tiegh. & G. Le Monn.",Q2421500,1873,,"Annls Sci. Nat., Bot., sér. 5 17: 342 (1873)",,,,7925b184-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165231," "
+12525552-9bac-11eb-a8a2-19ed5c03f8d3,variety,brefeldii,Chaetocladium,brefeldii,"Tiegh. & G. Le Monn.",Q2421500,1873,,"Annls Sci. Nat., Bot., sér. 5 17: 342 (1873)",,,,12525552-9bac-11eb-a8a2-19ed5c03f8d3,,,,,439402," "
+a7bbbc00-9bac-11eb-a8a2-19ed5c03f8d3,variety,macrosporum,Chaetocladium,brefeldii,Burgeff,Q86620,1924,,"Bot. Abh. 1: 109 (1924)",,,,a7bbbc00-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433062," "
 a7bbf01c-9bac-11eb-a8a2-19ed5c03f8d3,species,elegans,Chaetocladium,,Zopf,,1890,,"Handb. Bot. 4: 373 (1890)",,,,a7bbf01c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433063," "
 45bcff14-9bac-11eb-a8a2-19ed5c03f8d3,species,fresenianum,Chaetocladium,,Bref.,,1881,,"Unters. Gesammtgeb. Mykol. 4: 55 (1881)",,,,45bcff14-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165740," "
-a7a97630-9bac-11eb-a8a2-19ed5c03f8d3,species,fresenii,Chaetocladium,,Tavel,,1892,illegitimate,"Vergl. Morph. Pilze (Jena) 36 (1892)",,,,a7a97630-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432937,"Nom. illegit., Art. 53.1 "
+a7a97630-9bac-11eb-a8a2-19ed5c03f8d3,species,fresenii,Chaetocladium,,Tavel,Q21610280,1892,illegitimate,"Vergl. Morph. Pilze (Jena) 36 (1892)",,,,a7a97630-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432937,"Nom. illegit., Art. 53.1 "
 19e9dc62-9bad-11eb-a8a2-19ed5c03f8d3,species,hesseltinei,Chaetocladium,,"B.S. Mehrotra & A.K. Sarbhoy",,1961,,"Mycologia 52(5): 797 (1961)",,,,19e9dc62-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328002," hesseltinii"
 ae326d72-9bac-11eb-a8a2-19ed5c03f8d3,species,hesseltinii,Chaetocladium,,"B.S. Mehrotra & A.K. Sarbhoy",,,,,,,,ae326d72-9bac-11eb-a8a2-19ed5c03f8d3,,,,,257222," Chaetocladium hesseltinei"
-750e1e06-9bac-11eb-a8a2-19ed5c03f8d3,species,jonesii,Chaetocladium,,"(Berk. & Broome) Fresen.",,1863,,"Beitr. Mykol. 3: 97 (1863)",,,,750e1e06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,162211," "
+750e1e06-9bac-11eb-a8a2-19ed5c03f8d3,species,jonesii,Chaetocladium,,"(Berk. & Broome) Fresen.","Q662338,Q1932460,Q77670",1863,,"Beitr. Mykol. 3: 97 (1863)",,,,750e1e06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,162211," "
 9bdb570a-9bad-11eb-a8a2-19ed5c03f8d3,species,ovalisporum,Chaetocladium,,"(B.S. Mehrotra & B.R. Mehrotra) Milko & Beliakova",,1974,,"Opred. Mukor., Edn 2 229 (1974)",,,,2616124e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328003," "
-19ea10e2-9bad-11eb-a8a2-19ed5c03f8d3,species,quadrupedatum,Chaetocladium,,"(Blakeslee) Milko & Beliakova",,1974,,"Opred. Mukor., Edn 2 229 (1974)",,,,ad40429e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328004," "
-2f93b718-8fcd-11eb-924d-9cd76263cbd0,species,altissima,Chaetocladus,,"(Desf.) J.Nelson",,1866,,"Pinaceae 162 1866",,,,,,383339-1,wfo-0000792816,2653376,,
-2f93d414-8fcd-11eb-924d-9cd76263cbd0,species,distachys,Chaetocladus,,"(L.) J.Nelson",,1866,,"Pinaceae 162 1866",,,,,,383340-1,wfo-0000792817,2653347,,
-2f93f174-8fcd-11eb-924d-9cd76263cbd0,species,monostachys,Chaetocladus,,J.Nelson,,1866,,"Pinaceae 162 1866",,,,,,383342-1,wfo-0000792818,2653433,,
+19ea10e2-9bad-11eb-a8a2-19ed5c03f8d3,species,quadrupedatum,Chaetocladium,,"(Blakeslee) Milko & Beliakova",Q728749,1974,,"Opred. Mukor., Edn 2 229 (1974)",,,,ad40429e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,328004," "
+2f93b718-8fcd-11eb-924d-9cd76263cbd0,species,altissima,Chaetocladus,,"(Desf.) J.Nelson","Q545953,Q5933487",1866,,"Pinaceae 162 1866",,,,,,383339-1,wfo-0000792816,2653376,,
+2f93d414-8fcd-11eb-924d-9cd76263cbd0,species,distachys,Chaetocladus,,"(L.) J.Nelson","Q1043,Q5933487",1866,,"Pinaceae 162 1866",,,,,,383340-1,wfo-0000792817,2653347,,
+2f93f174-8fcd-11eb-924d-9cd76263cbd0,species,monostachys,Chaetocladus,,J.Nelson,Q5933487,1866,,"Pinaceae 162 1866",,,,,,383342-1,wfo-0000792818,2653433,,

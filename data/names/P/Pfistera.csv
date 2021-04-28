@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a287181e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pfistera,,,"Korf & W.Y. Zhuang",,1991,,"Mycotaxon 40: 275 (1991)",,,,a287181e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25568," "
-35a13e56-9bac-11eb-a8a2-19ed5c03f8d3,species,pyrophila,Pfistera,,"Korf & W.Y. Zhuang",,1991,,"Mycotaxon 40: 275 (1991)",,,,35a13e56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128237," "
-f208277c-8fcb-11eb-924d-9cd76263cbd0,species,schaeferi,Pfitzeria,,Senghas,,1998,,"J. Orchideenfr. 5: 30 1998",,,,,,1012610-1,wfo-0000267953,2790453,,
-0e264456-8fcd-11eb-924d-9cd76263cbd0,species,bithynica,Pfosseria,,"(Boiss.) Speta",,1998,,"Phyton (Horn) 38: 113 1998",,,,,,1003492-1,wfo-0000723348,2767408,,
-24ab40e6-8fcd-11eb-924d-9cd76263cbd0,species,pfrimmeri,,,Guillaumin,,1931,,"Bull. Mus. Natl. Hist. Nat. II, 3: 339 1931",,,,,,535728-1,wfo-0000768912,,,
-24c3fc6c-8fcd-11eb-924d-9cd76263cbd0,species,pfrimmeri,,,"(Guillaumin) Guillaumin",,,,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,24ab40e6-8fcd-11eb-924d-9cd76263cbd0,,535875-1,wfo-0000769084,,,
-78d5663e-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Pfundia,,Opiz,,1852,,"Seznam 73 1852",,,,,,,wfo-0000471976,3930207,,
+a287181e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pfistera,,,"Korf & W.Y. Zhuang",Q21339069,1991,,"Mycotaxon 40: 275 (1991)",,,,a287181e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25568," "
+35a13e56-9bac-11eb-a8a2-19ed5c03f8d3,species,pyrophila,Pfistera,,"Korf & W.Y. Zhuang",Q21339069,1991,,"Mycotaxon 40: 275 (1991)",,,,35a13e56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128237," "
+f208277c-8fcb-11eb-924d-9cd76263cbd0,species,schaeferi,Pfitzeria,,Senghas,Q86617,1998,,"J. Orchideenfr. 5: 30 1998",,,,,,1012610-1,wfo-0000267953,2790453,,
+0e264456-8fcd-11eb-924d-9cd76263cbd0,species,bithynica,Pfosseria,,"(Boiss.) Speta","Q34430,Q86532",1998,,"Phyton (Horn) 38: 113 1998",,,,,,1003492-1,wfo-0000723348,2767408,,
+24ab40e6-8fcd-11eb-924d-9cd76263cbd0,species,pfrimmeri,,,Guillaumin,Q2847911,1931,,"Bull. Mus. Natl. Hist. Nat. II, 3: 339 1931",,,,,,535728-1,wfo-0000768912,,,
+24c3fc6c-8fcd-11eb-924d-9cd76263cbd0,species,pfrimmeri,,,"(Guillaumin) Guillaumin",Q2847911,,,"Bull. Mus. Natl. Hist. Nat. II, 4: 1031 1932",,,,24ab40e6-8fcd-11eb-924d-9cd76263cbd0,,535875-1,wfo-0000769084,,,
+78d5663e-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Pfundia,,Opiz,Q55069871,1852,,"Seznam 73 1852",,,,,,,wfo-0000471976,3930207,,

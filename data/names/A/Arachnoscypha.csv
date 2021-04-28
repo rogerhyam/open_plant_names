@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a191aba4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Arachnoscypha,,,Boud.,,1885,,"Bull. Soc. mycol. Fr. 1: 118 (1885)",,,,a191aba4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,296," "
-7e0b73ae-9bad-11eb-a8a2-19ed5c03f8d3,species,aranea,Arachnoscypha,,"(De Not.) Boud.",,1885,invalid,"Bull. Soc. mycol. Fr. 1: 118-126 (1885)",,,,b84293dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,482030,"Nom. inval., Art. 33.1 "
+7e0b73ae-9bad-11eb-a8a2-19ed5c03f8d3,species,aranea,Arachnoscypha,,"(De Not.) Boud.",Q3014085,1885,invalid,"Bull. Soc. mycol. Fr. 1: 118-126 (1885)",,,,b84293dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,482030,"Nom. inval., Art. 33.1 "
 2be508fc-9bac-11eb-a8a2-19ed5c03f8d3,species,boudieri,Arachnoscypha,,"V.G. Rao & Subhedar",,1980,,"Indian Journal of Mycology and Plant Pathology 9(2): 258 (1980)",,,,2be508fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,113134," boudierii"
 d152c0d6-9bac-11eb-a8a2-19ed5c03f8d3,species,boudierii,Arachnoscypha,,"V.G. Rao & Subhedar",,,,,,,,d152c0d6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,251298," Arachnoscypha boudieri"
 6665d448-9bac-11eb-a8a2-19ed5c03f8d3,species,zonulata,Arachnoscypha,,Rolland,,,,,,,,6665d448-9bac-11eb-a8a2-19ed5c03f8d3,,,,,154638," "
-fca6600c-8fb9-11eb-924d-9cd76263cbd0,species,canum,Arachnospermum,,"(C.A.Mey.) Domin",,1935,,"249 1935",,,,,,178204-1,wfo-0000123034,3125795,,
-fe6fc02a-8fb1-11eb-924d-9cd76263cbd0,species,laciniatum,Arachnospermum,,"(L.) F.W.Schmidt",,1795,,"274 1795",,,,6371523e-8fb9-11eb-924d-9cd76263cbd0,,178205-1,wfo-0000001611,3125811,,
-2607cfe2-8fb2-11eb-924d-9cd76263cbd0,species,resedifolium,Arachnospermum,,"(L.) F.W.Schmidt",,1795,,"274 1795",,,,,,178206-1,wfo-0000013552,3110928,,
+fca6600c-8fb9-11eb-924d-9cd76263cbd0,species,canum,Arachnospermum,,"(C.A.Mey.) Domin","Q728729,Q1109649",1935,,"249 1935",,,,,,178204-1,wfo-0000123034,3125795,,
+fe6fc02a-8fb1-11eb-924d-9cd76263cbd0,species,laciniatum,Arachnospermum,,"(L.) F.W.Schmidt","Q1043,Q596611",1795,,"274 1795",,,,6371523e-8fb9-11eb-924d-9cd76263cbd0,,178205-1,wfo-0000001611,3125811,,
+2607cfe2-8fb2-11eb-924d-9cd76263cbd0,species,resedifolium,Arachnospermum,,"(L.) F.W.Schmidt","Q1043,Q596611",1795,,"274 1795",,,,,,178206-1,wfo-0000013552,3110928,,

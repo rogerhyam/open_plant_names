@@ -11,7 +11,7 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 6c9be744-9bac-11eb-a8a2-19ed5c03f8d3,species,indica,Halosarpheia,,"Borse ined.",,,,,,,,6c9be744-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433380," "
 c68f9e3a-9bac-11eb-a8a2-19ed5c03f8d3,species,kandeliae,Halosarpheia,,"Abdel-Wahab & E.B.G. Jones",,,,"in Abdel-Wahab, Jones & Vrijmoed, Mycol. Res. 103(11): 1500 (1999)",,,,c68f9e3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,460764," "
 96f0790a-9bad-11eb-a8a2-19ed5c03f8d3,species,lotica,Halosarpheia,,Shearer,,1984,,"Mycotaxon 20(2): 505 (1984)",,,,96f0790a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,106856," "
-64caa9f0-9bad-11eb-a8a2-19ed5c03f8d3,species,marina,Halosarpheia,,"(Cribb & J.W. Cribb) Kohlm.",,1984,,"Marine Ecology, [Pubblicazioni della Stazione Zoologica Napoli I] 5(4): 345 (1984)",,,,c2fd9efc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104974," "
+64caa9f0-9bad-11eb-a8a2-19ed5c03f8d3,species,marina,Halosarpheia,,"(Cribb & J.W. Cribb) Kohlm.",Q21509505,1984,,"Marine Ecology, [Pubblicazioni della Stazione Zoologica Napoli I] 5(4): 345 (1984)",,,,c2fd9efc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104974," "
 0e46e590-9bac-11eb-a8a2-19ed5c03f8d3,species,minuta,Halosarpheia,,"W.F. Leong",,1991,,"in Leong, Tan, Hyde & Jones, Can. J. Bot. 69(4): 883 (1991)",,,,0e46e590-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128254," "
 c515d84e-9bac-11eb-a8a2-19ed5c03f8d3,species,phragmiticola,Halosarpheia,,"Poon & K.D. Hyde",,1998,,"Bot. Mar. 41(2): 143 (1998)",,,,c515d84e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,466128," "
 29c9aeb0-9bac-11eb-a8a2-19ed5c03f8d3,species,ratnagiriensis,Halosarpheia,,"S.D. Patil & Borse",,1982,,"Indian Botanical Reporter 1(2): 102 (1982)",,,,29c9aeb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109810," "
@@ -23,22 +23,22 @@ c515d84e-9bac-11eb-a8a2-19ed5c03f8d3,species,phragmiticola,Halosarpheia,,"Poon &
 6d7949da-9bad-11eb-a8a2-19ed5c03f8d3,species,unicellularis,Halosarpheia,,"Abdel-Wahab & E.B.G. Jones",,2001,,"in Abdel-Wahab, Pang, El-Sharouny & Jones, Mycoscience 42(3): 255 (2001)",,,,6d7949da-9bad-11eb-a8a2-19ed5c03f8d3,,,,,474679," "
 2ae34590-9bac-11eb-a8a2-19ed5c03f8d3,species,viscidula,Halosarpheia,,"(Kohlm.) Shearer & J.L. Crane",,1981,,"Bot. Mar. 23: 608 (1981)",,,,9c0a42fe-9bad-11eb-a8a2-19ed5c03f8d3,,,,,111506," "
 2adc505a-9bac-11eb-a8a2-19ed5c03f8d3,species,viscosa,Halosarpheia,,"(I. Schmidt) Shearer & J.L. Crane",,1981,,"Bot. Mar. 23: 608 (1981)",,,,2ae3ff80-9bac-11eb-a8a2-19ed5c03f8d3,,,,,111507," "
-62a13d7a-8fcc-11eb-924d-9cd76263cbd0,species,albidus,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 122 1842",,,,,,308665-1,wfo-0000434559,2720842,,
-62a457b2-8fcc-11eb-924d-9cd76263cbd0,species,capillaris,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,,wfo-0000434567,2721446,,
-62a7c1f4-8fcc-11eb-924d-9cd76263cbd0,variety,congestus,Haloschoenus,capillaris,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117136-2,wfo-0000434577,2721099,,
-30f1ce2e-8fcd-11eb-924d-9cd76263cbd0,variety,descendens,Haloschoenus,capillaris,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117137-2,wfo-0000795854,2721438,,
-30f1e882-8fcd-11eb-924d-9cd76263cbd0,variety,minor,Haloschoenus,capillaris,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117138-2,wfo-0000795855,2721450,,
-30f204fc-8fcd-11eb-924d-9cd76263cbd0,variety,ustilaginosa,Haloschoenus,capillaris,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,295019-2,wfo-0000795856,2721433,,
-ddfa4db8-8fd1-11eb-924d-9cd76263cbd0,species,caracasanus,Haloschoenus,,"(Kunth) Nees",,1842,,"Fl. Bras. 2(1): 122 1842",,,,,,,wfo-0001302167,7569302,,
-62a8f24a-8fcc-11eb-924d-9cd76263cbd0,species,caracasanus,Haloschoenus,,Liebm.,,1851,,"Mexic. Neldeagt. Pl. V, 2: 249 1851",,,,,,308667-1,wfo-0000434582,2721441,,
-62aa138c-8fcc-11eb-924d-9cd76263cbd0,species,contractus,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 123 1842",,,,,,308668-1,wfo-0000434585,2720839,,
-62abeb30-8fcc-11eb-924d-9cd76263cbd0,species,emaciatus,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,308670-1,wfo-0000434592,2720854,,
-62aeb90a-8fcc-11eb-924d-9cd76263cbd0,species,hispidulus,Haloschoenus,,"(Vahl) Nees",,1842,,"Fl. Bras. 2(1): 124 1842",,,,,,308671-1,wfo-0000434603,2721680,,
-62b003fa-8fcc-11eb-924d-9cd76263cbd0,species,nardifolius,Haloschoenus,,"(Kunth) Nees",,1842,,"Fl. Bras. 2(1): 122 1842",,,,812c9500-8fcc-11eb-924d-9cd76263cbd0,,308672-1,wfo-0000434612,2721457,,
-62b13446-8fcc-11eb-924d-9cd76263cbd0,species,pygmaeus,Haloschoenus,,Nees,,1834,,"Linnaea 9: 296 1834",,,,,,308673-1,wfo-0000434619,2720830,,
-62b28224-8fcc-11eb-924d-9cd76263cbd0,species,rigidus,Haloschoenus,,"Nees ex Kunth",,1837,,"Enum. Pl. 2: 300 1837",,,,,,308674-1,wfo-0000434628,2721376,,
-62b4dae2-8fcc-11eb-924d-9cd76263cbd0,species,riparius,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 120 1842",,,,,,117141-2,wfo-0000434639,2721097,,
-62b764c4-8fcc-11eb-924d-9cd76263cbd0,species,sabulosus,Haloschoenus,,Nees,,1834,,"Linnaea 9: 296 1834",,,,,,308676-1,wfo-0000434650,2721437,,
-62b83c28-8fcc-11eb-924d-9cd76263cbd0,species,sparsus,Haloschoenus,,Nees,,1834,,"Linnaea 9: 296 1834",,,,,,308677-1,wfo-0000434656,2720927,,
-62ba5de6-8fcc-11eb-924d-9cd76263cbd0,species,stoloniferus,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 120 1842",,,,,,308678-1,wfo-0000434664,2721118,,
-62bc7298-8fcc-11eb-924d-9cd76263cbd0,species,tenellus,Haloschoenus,,Nees,,1842,,"Fl. Bras. 2(1): 123 1842",,,,,,308679-1,wfo-0000434670,2720859,,
+62a13d7a-8fcc-11eb-924d-9cd76263cbd0,species,albidus,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 122 1842",,,,,,308665-1,wfo-0000434559,2720842,,
+62a457b2-8fcc-11eb-924d-9cd76263cbd0,species,capillaris,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,,wfo-0000434567,2721446,,
+62a7c1f4-8fcc-11eb-924d-9cd76263cbd0,variety,congestus,Haloschoenus,capillaris,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117136-2,wfo-0000434577,2721099,,
+30f1ce2e-8fcd-11eb-924d-9cd76263cbd0,variety,descendens,Haloschoenus,capillaris,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117137-2,wfo-0000795854,2721438,,
+30f1e882-8fcd-11eb-924d-9cd76263cbd0,variety,minor,Haloschoenus,capillaris,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,117138-2,wfo-0000795855,2721450,,
+30f204fc-8fcd-11eb-924d-9cd76263cbd0,variety,ustilaginosa,Haloschoenus,capillaris,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,295019-2,wfo-0000795856,2721433,,
+62a8f24a-8fcc-11eb-924d-9cd76263cbd0,species,caracasanus,Haloschoenus,,Liebm.,Q1335154,1851,,"Mexic. Neldeagt. Pl. V, 2: 249 1851",,,,,,308667-1,wfo-0000434582,2721441,,
+ddfa4db8-8fd1-11eb-924d-9cd76263cbd0,species,caracasanus,Haloschoenus,,"(Kunth) Nees","Q77074,Q76349",1842,,"Fl. Bras. 2(1): 122 1842",,,,,,,wfo-0001302167,7569302,,
+62aa138c-8fcc-11eb-924d-9cd76263cbd0,species,contractus,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 123 1842",,,,,,308668-1,wfo-0000434585,2720839,,
+62abeb30-8fcc-11eb-924d-9cd76263cbd0,species,emaciatus,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 121 1842",,,,,,308670-1,wfo-0000434592,2720854,,
+62aeb90a-8fcc-11eb-924d-9cd76263cbd0,species,hispidulus,Haloschoenus,,"(Vahl) Nees","Q353283,Q76349",1842,,"Fl. Bras. 2(1): 124 1842",,,,,,308671-1,wfo-0000434603,2721680,,
+62b003fa-8fcc-11eb-924d-9cd76263cbd0,species,nardifolius,Haloschoenus,,"(Kunth) Nees","Q77074,Q76349",1842,,"Fl. Bras. 2(1): 122 1842",,,,812c9500-8fcc-11eb-924d-9cd76263cbd0,,308672-1,wfo-0000434612,2721457,,
+62b13446-8fcc-11eb-924d-9cd76263cbd0,species,pygmaeus,Haloschoenus,,Nees,Q76349,1834,,"Linnaea 9: 296 1834",,,,,,308673-1,wfo-0000434619,2720830,,
+62b28224-8fcc-11eb-924d-9cd76263cbd0,species,rigidus,Haloschoenus,,"Nees ex Kunth","Q76349,Q77074",1837,,"Enum. Pl. 2: 300 1837",,,,,,308674-1,wfo-0000434628,2721376,,
+62b4dae2-8fcc-11eb-924d-9cd76263cbd0,species,riparius,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 120 1842",,,,,,117141-2,wfo-0000434639,2721097,,
+62b764c4-8fcc-11eb-924d-9cd76263cbd0,species,sabulosus,Haloschoenus,,Nees,Q76349,1834,,"Linnaea 9: 296 1834",,,,,,308676-1,wfo-0000434650,2721437,,
+62b83c28-8fcc-11eb-924d-9cd76263cbd0,species,sparsus,Haloschoenus,,Nees,Q76349,1834,,"Linnaea 9: 296 1834",,,,,,308677-1,wfo-0000434656,2720927,,
+62ba5de6-8fcc-11eb-924d-9cd76263cbd0,species,stoloniferus,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 120 1842",,,,,,308678-1,wfo-0000434664,2721118,,
+62bc7298-8fcc-11eb-924d-9cd76263cbd0,species,tenellus,Haloschoenus,,Nees,Q76349,1842,,"Fl. Bras. 2(1): 123 1842",,,,,,308679-1,wfo-0000434670,2720859,,

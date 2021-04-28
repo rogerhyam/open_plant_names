@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e592bbf0-8fd1-11eb-924d-9cd76263cbd0,genus,Larsenaikia,,,Tirveng.,,1993,,"Nordic J. Bot. 13(2): 176. 1993.",,Q54000195,,,,972408-1,wfo-4000020617,8388353,,
-aeb0783a-8fcb-11eb-924d-9cd76263cbd0,species,jardinei,Larsenaikia,,"(F.Muell. ex Benth.) Tirveng.",,1993,,"Nordic J. Bot. 13: 180 1993",,Q54000195,,8d475c20-8fcd-11eb-924d-9cd76263cbd0,,972409-1,wfo-0000223503,2910331,,
-aebec4c6-8fcb-11eb-924d-9cd76263cbd0,species,ochreata,Larsenaikia,,"(F.Muell.) Tirveng.",,1993,,"Nordic J. Bot. 13: 181 1993",,Q54000195,,8d528fe6-8fcd-11eb-924d-9cd76263cbd0,,972410-1,wfo-0000223504,2910326,,
-c327c790-8fd1-11eb-924d-9cd76263cbd0,species,suffruticosa,Larsenaikia,,"(R.Br. ex Benth.) Tirveng.",,1993,,"Nordic J. Bot. 13(2): 181 1993",,Q54000195,,,,972411-1,wfo-0001259995,2910323,,
-2c2295d2-8fcc-11eb-924d-9cd76263cbd0,species,decumbens,Larsenia,,Bremek.,,1965,,"Dansk Bot. Ark. 23: 205 1965",,,,,,51922-1,wfo-0000361087,5574909,,
+e592bbf0-8fd1-11eb-924d-9cd76263cbd0,genus,Larsenaikia,,,Tirveng.,Q5804720,1993,,"Nordic J. Bot. 13(2): 176. 1993.",,Q54000195,,,,972408-1,wfo-4000020617,8388353,,
+aeb0783a-8fcb-11eb-924d-9cd76263cbd0,species,jardinei,Larsenaikia,,"(F.Muell. ex Benth.) Tirveng.","Q708002,Q731808,Q5804720",1993,,"Nordic J. Bot. 13: 180 1993",,Q54000195,,8d475c20-8fcd-11eb-924d-9cd76263cbd0,,972409-1,wfo-0000223503,2910331,,
+aebec4c6-8fcb-11eb-924d-9cd76263cbd0,species,ochreata,Larsenaikia,,"(F.Muell.) Tirveng.","Q708002,Q5804720",1993,,"Nordic J. Bot. 13: 181 1993",,Q54000195,,8d528fe6-8fcd-11eb-924d-9cd76263cbd0,,972410-1,wfo-0000223504,2910326,,
+c327c790-8fd1-11eb-924d-9cd76263cbd0,species,suffruticosa,Larsenaikia,,"(R.Br. ex Benth.) Tirveng.","Q155764,Q731808,Q5804720",1993,,"Nordic J. Bot. 13(2): 181 1993",,Q54000195,,,,972411-1,wfo-0001259995,2910323,,
+2c2295d2-8fcc-11eb-924d-9cd76263cbd0,species,decumbens,Larsenia,,Bremek.,Q5171231,1965,,"Dansk Bot. Ark. 23: 205 1965",,,,,,51922-1,wfo-0000361087,5574909,,

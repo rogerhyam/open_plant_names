@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec255770-8fd1-11eb-924d-9cd76263cbd0,genus,Xeronema,,,"Brongn. & Gris",,1865,,"Bull. Soc. Bot. France 11: 316. 1865.",,,,,,24911-1,wfo-4000040956,2860808,,
-1c626414-8fcd-11eb-924d-9cd76263cbd0,species,callistemon,Xeronema,,W.R.B.Oliv.,,1926,,"Trans. & Proc. New Zealand Inst. 56: 1 1926",,,,,,543604-1,wfo-0000751978,2860811,,
-25bcdca6-8fcd-11eb-924d-9cd76263cbd0,variety,bracteosa,Xeronema,callistemon,L.B.Moore,,1969,,"New Zealand J. Bot. 6: 490 1969",,,,,,,wfo-0000771183,6316795,,
-1c68a54a-8fcd-11eb-924d-9cd76263cbd0,form,bracteosa,Xeronema,callistemon,"(L.B.Moore) de Lange & E.K.Cameron",,1999,,"New Zealand J. Bot. 37: 435 1999",,Q54633632,,25bcdca6-8fcd-11eb-924d-9cd76263cbd0,,1010321-1,wfo-0000752021,6316795,,
-1c6280ac-8fcd-11eb-924d-9cd76263cbd0,species,moorei,Xeronema,,"Brongn. & Gris",,1864,,"Bull. Soc. Bot. France 11: 317 1864",,Q55756560,,,,543605-1,wfo-0000751979,2860809,,
+ec255770-8fd1-11eb-924d-9cd76263cbd0,genus,Xeronema,,,"Brongn. & Gris","Q73990,Q797799",1865,,"Bull. Soc. Bot. France 11: 316. 1865.",,,,,,24911-1,wfo-4000040956,2860808,,
+1c626414-8fcd-11eb-924d-9cd76263cbd0,species,callistemon,Xeronema,,W.R.B.Oliv.,Q2033290,1926,,"Trans. & Proc. New Zealand Inst. 56: 1 1926",,,,,,543604-1,wfo-0000751978,2860811,,
+1c68a54a-8fcd-11eb-924d-9cd76263cbd0,form,bracteosa,Xeronema,callistemon,"(L.B.Moore) de Lange & E.K.Cameron","Q5982398,Q21389219,Q21506888",1999,,"New Zealand J. Bot. 37: 435 1999",,Q54633632,,25bcdca6-8fcd-11eb-924d-9cd76263cbd0,,1010321-1,wfo-0000752021,6316795,,
+25bcdca6-8fcd-11eb-924d-9cd76263cbd0,variety,bracteosa,Xeronema,callistemon,L.B.Moore,Q5982398,1969,,"New Zealand J. Bot. 6: 490 1969",,,,,,,wfo-0000771183,6316795,,
+1c6280ac-8fcd-11eb-924d-9cd76263cbd0,species,moorei,Xeronema,,"Brongn. & Gris","Q73990,Q797799",1864,,"Bull. Soc. Bot. France 11: 317 1864",,Q55756560,,,,543605-1,wfo-0000751979,2860809,,

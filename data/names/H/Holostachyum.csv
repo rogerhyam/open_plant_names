@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4d02d38-8fd1-11eb-924d-9cd76263cbd0,genus,Holostachyum,,,"(Copel.) Ching",,1940,,"Sunyatsenia 5: 262. 1940.",,,,,,,wfo-4000018112,7290197,,
-855ae2f8-8fbd-11eb-924d-9cd76263cbd0,species,buchananii,Holostachyum,,Ching,,1940,,"Sunyatsenia 5: 262. 1940; Copel. Gen. Fil. 202. 1947. 1940",,,,,,17398510-1,wfo-0000148366,4027527,,
-d15ae1de-8fcd-11eb-924d-9cd76263cbd0,species,hieronymi,Holostachyum,,Copel.,,,,,,,,,,,wfo-0001117905,8280611,,
-d15affde-8fcd-11eb-924d-9cd76263cbd0,variety,latipinna,Holostachyum,hieronymi,C.Chr.,,1922,,"Svensk Bot. Tidskr. 16: 96 1922",,,,,,,wfo-0001117906,7628875,,
+e4d02d38-8fd1-11eb-924d-9cd76263cbd0,genus,Holostachyum,,,"(Copel.) Ching","Q2618968,Q3424685",1940,,"Sunyatsenia 5: 262. 1940.",,,,,,,wfo-4000018112,7290197,,
+855ae2f8-8fbd-11eb-924d-9cd76263cbd0,species,buchananii,Holostachyum,,Ching,Q3424685,1940,,"Sunyatsenia 5: 262. 1940; Copel. Gen. Fil. 202. 1947. 1940",,,,,,17398510-1,wfo-0000148366,4027527,,
+d15ae1de-8fcd-11eb-924d-9cd76263cbd0,species,hieronymi,Holostachyum,,Copel.,Q2618968,,,,,,,,,,wfo-0001117905,8280611,,
+d15affde-8fcd-11eb-924d-9cd76263cbd0,variety,latipinna,Holostachyum,hieronymi,C.Chr.,Q2114106,1922,,"Svensk Bot. Tidskr. 16: 96 1922",,,,,,,wfo-0001117906,7628875,,

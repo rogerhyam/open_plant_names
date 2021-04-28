@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a14ae534-9bad-11eb-a8a2-19ed5c03f8d3,genus,Acrorixis,,,Trevis.,,1860,,"Consp. Verruc. 15 (1860)",,,,a14ae534-9bad-11eb-a8a2-19ed5c03f8d3,,,,,51," "
-3ee61e22-9bad-11eb-a8a2-19ed5c03f8d3,species,actinostoma,Acrorixis,,"(Pers.) Trevis.",,,,,,,,4c4c3db2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,375835," "
-3ee66dfa-9bad-11eb-a8a2-19ed5c03f8d3,species,corrosa,Acrorixis,,"(Körb.) Trevis.",,,,,,,,8b731a4c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,375836," "
-3ee6b198-9bad-11eb-a8a2-19ed5c03f8d3,species,prasina,Acrorixis,,"(Eschw.) Trevis.",,,,,,,,01790500-9bac-11eb-a8a2-19ed5c03f8d3,,,,,375837," "
+a14ae534-9bad-11eb-a8a2-19ed5c03f8d3,genus,Acrorixis,,,Trevis.,Q634712,1860,,"Consp. Verruc. 15 (1860)",,,,a14ae534-9bad-11eb-a8a2-19ed5c03f8d3,,,,,51," "
+3ee61e22-9bad-11eb-a8a2-19ed5c03f8d3,species,actinostoma,Acrorixis,,"(Pers.) Trevis.","Q346451,Q634712",,,,,,,4c4c3db2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,375835," "
+3ee66dfa-9bad-11eb-a8a2-19ed5c03f8d3,species,corrosa,Acrorixis,,"(Körb.) Trevis.",Q634712,,,,,,,8b731a4c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,375836," "
+3ee6b198-9bad-11eb-a8a2-19ed5c03f8d3,species,prasina,Acrorixis,,"(Eschw.) Trevis.","Q5868678,Q634712",,,,,,,01790500-9bac-11eb-a8a2-19ed5c03f8d3,,,,,375837," "

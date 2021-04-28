@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6873854-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pellidiscus,,,Donk,,1959,,"Persoonia 1(1): 89 (1959)",,,,a6873854-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18198," "
-2111bcf8-9bad-11eb-a8a2-19ed5c03f8d3,species,pallidus,Pellidiscus,,"(Berk. & Broome) Donk",,1959,,"Persoonia 1(1): 90 (1959)",,,,,,,,,335682," "
-e13272c6-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizoidea,Pellidiscus,,"(Ellis & Everh.) Ginns & M.N.L. Lefebvre",,,,,,,,8b4fd916-9bac-11eb-a8a2-19ed5c03f8d3,,,,,274197," Pellidiscus pezizoideus"
-35c892e8-9bad-11eb-a8a2-19ed5c03f8d3,species,pezizoideus,Pellidiscus,,"(Ellis & Everh.) Ginns & M.N.L. Lefebvre",,1993,,"Mycol. Mem. 19: 108 (1993)",,,,8b4fd916-9bac-11eb-a8a2-19ed5c03f8d3,,,,,361642," pezizoidea"
+a6873854-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pellidiscus,,,Donk,Q449688,1959,,"Persoonia 1(1): 89 (1959)",,,,a6873854-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18198," "
+2111bcf8-9bad-11eb-a8a2-19ed5c03f8d3,species,pallidus,Pellidiscus,,"(Berk. & Broome) Donk","Q662338,Q1932460,Q449688",1959,,"Persoonia 1(1): 90 (1959)",,,,,,,,,335682," "
+e13272c6-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizoidea,Pellidiscus,,"(Ellis & Everh.) Ginns & M.N.L. Lefebvre",Q6206643,,,,,,,8b4fd916-9bac-11eb-a8a2-19ed5c03f8d3,,,,,274197," Pellidiscus pezizoideus"
+35c892e8-9bad-11eb-a8a2-19ed5c03f8d3,species,pezizoideus,Pellidiscus,,"(Ellis & Everh.) Ginns & M.N.L. Lefebvre",Q6206643,1993,,"Mycol. Mem. 19: 108 (1993)",,,,8b4fd916-9bac-11eb-a8a2-19ed5c03f8d3,,,,,361642," pezizoidea"
 2112203a-9bad-11eb-a8a2-19ed5c03f8d3,species,subiculosus,Pellidiscus,,"W.B. Cooke",,1961,,"Beih. Sydowia 4: 115 (1961)",,,,2112203a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335683," "

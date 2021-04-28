@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a7c487f8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Disculina,,,Höhn.,,1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125: 104 (1916)",,,,a7c487f8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8086," "
-69949b58-9bad-11eb-a8a2-19ed5c03f8d3,species,betulina,Disculina,,"(Sacc.) Höhn.",,1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125(1-2): 108 (1916)",,,,,,,,,456070," "
-f830ccfc-9bac-11eb-a8a2-19ed5c03f8d3,species,corylina,Disculina,,Höhn.,,,,,,,,f830ccfc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,167638," "
-7b8a6e1a-9bac-11eb-a8a2-19ed5c03f8d3,species,myrceugeniae,Disculina,,Keissl.,,,,,,,,7b8a6e1a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,167021," "
-0efeacde-9bac-11eb-a8a2-19ed5c03f8d3,species,neesii,Disculina,,"(Corda) Höhn.",,1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 (1916)",,,,76efb5be-9bab-11eb-a8a2-19ed5c03f8d3,,,,,431598," "
+a7c487f8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Disculina,,,Höhn.,Q4502879,1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125: 104 (1916)",,,,a7c487f8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8086," "
+69949b58-9bad-11eb-a8a2-19ed5c03f8d3,species,betulina,Disculina,,"(Sacc.) Höhn.","Q707840,Q4502879",1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 125(1-2): 108 (1916)",,,,,,,,,456070," "
+f830ccfc-9bac-11eb-a8a2-19ed5c03f8d3,species,corylina,Disculina,,Höhn.,Q4502879,,,,,,,f830ccfc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,167638," "
+7b8a6e1a-9bac-11eb-a8a2-19ed5c03f8d3,species,myrceugeniae,Disculina,,Keissl.,Q5958333,,,,,,,7b8a6e1a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,167021," "
+0efeacde-9bac-11eb-a8a2-19ed5c03f8d3,species,neesii,Disculina,,"(Corda) Höhn.","Q624998,Q4502879",1916,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 (1916)",,,,76efb5be-9bab-11eb-a8a2-19ed5c03f8d3,,,,,431598," "
 6491b32a-9bad-11eb-a8a2-19ed5c03f8d3,species,quercina,Disculina,,anon.,,,,,,,,6491b32a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,455372,"  Relinquiae Petrakiae (2161)"
 0ef2e494-9bac-11eb-a8a2-19ed5c03f8d3,species,tetrica,Disculina,,"(Syd.) Syd.",,1930,,"Annls mycol. 28(1/2): 191 (1930)",,,,728fb8ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280114,"  anamorph"
-0d8d6bdc-9bad-11eb-a8a2-19ed5c03f8d3,species,vulgaris,Disculina,,"(Fr.) B. Sutton",,1977,,"Mycol. Pap. 141: 75 (1977)",,,,4cd5bb9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313308," "
-e52cd63c-8fcc-11eb-924d-9cd76263cbd0,species,sophia,Discurea,,"(L.) Schur",,1866,,"Enum. Pl. Transsilv. 54 1866",,,,607d06c8-8fcc-11eb-924d-9cd76263cbd0,,282268-1,wfo-0000652145,3044330,,
+0d8d6bdc-9bad-11eb-a8a2-19ed5c03f8d3,species,vulgaris,Disculina,,"(Fr.) B. Sutton",Q15405,1977,,"Mycol. Pap. 141: 75 (1977)",,,,4cd5bb9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313308," "
+e52cd63c-8fcc-11eb-924d-9cd76263cbd0,species,sophia,Discurea,,"(L.) Schur","Q1043,Q71649",1866,,"Enum. Pl. Transsilv. 54 1866",,,,607d06c8-8fcc-11eb-924d-9cd76263cbd0,,282268-1,wfo-0000652145,3044330,,

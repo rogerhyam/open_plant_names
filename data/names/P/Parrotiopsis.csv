@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e809d332-8fd1-11eb-924d-9cd76263cbd0,genus,Parrotiopsis,,,C.K.Schneid.,,1905,,"Ill. Handb. Laubholzk. 1: 429. 1905.",,,,,,19610-1,wfo-4000028254,7329108,,
-ac90e998-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Parrotiopsis,,"(Falc. ex Nied.) C.K.Schneid.",,1905,,"Ill. Handb. Laubholzk. 1: 429 1905",,,,,,,wfo-0001035892,3702736,,
-b97c48c8-8fcd-11eb-924d-9cd76263cbd0,species,jacquemontiana,Parrotiopsis,,"(Decne.) Rehder",,1920,,"J. Arnold Arbor. 1: 256 1920",,Q100552888,,,,430744-1,wfo-0001065245,3702729,,
+e809d332-8fd1-11eb-924d-9cd76263cbd0,genus,Parrotiopsis,,,C.K.Schneid.,Q68249,1905,,"Ill. Handb. Laubholzk. 1: 429. 1905.",,,,,,19610-1,wfo-4000028254,7329108,,
+ac90e998-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Parrotiopsis,,"(Falc. ex Nied.) C.K.Schneid.","Q223013,Q77958,Q68249",1905,,"Ill. Handb. Laubholzk. 1: 429 1905",,,,,,,wfo-0001035892,3702736,,
+b97c48c8-8fcd-11eb-924d-9cd76263cbd0,species,jacquemontiana,Parrotiopsis,,"(Decne.) Rehder","Q966069,Q68949",1920,,"J. Arnold Arbor. 1: 256 1920",,Q100552888,,,,430744-1,wfo-0001065245,3702729,,

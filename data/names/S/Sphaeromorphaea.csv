@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea97dd24-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaeromorphaea,,,DC.,,,,,,,,,,11084-1,wfo-4000035986,8097393,,
-254a7a14-8fb2-11eb-924d-9cd76263cbd0,species,australis,Sphaeromorphaea,,"(Less.) Kitam.",,,,80,,,,,,,wfo-0000013406,3125384,,
-71f843bc-8fb9-11eb-924d-9cd76263cbd0,species,centipeda,Sphaeromorphaea,,DC.,,1838,,"140 1838",,,,,,250675-1,wfo-0000118424,3104390,,
-20966c44-8fb2-11eb-924d-9cd76263cbd0,species,petiolaris,Sphaeromorphaea,,DC.,,1838,,1838,,,,,,108652-3,wfo-0000012562,4247422,,
-0791ca18-8fb2-11eb-924d-9cd76263cbd0,species,russelliana,Sphaeromorphaea,,DC.,,,,,,,,,,,wfo-0000006000,,,
-13fbeb16-8fb8-11eb-924d-9cd76263cbd0,variety,glabrata,Sphaeromorphaea,russelliana,DC.,,1838,,"de Candolle, A. P. 1838[1837] : Prodromus Systematis Naturalis Regni Vegetabilis. 6.  Paris, 687 p.  140 1838",,,,,,,wfo-0000105983,6296666,,
+ea97dd24-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaeromorphaea,,,DC.,Q123057,,,,,,,,,11084-1,wfo-4000035986,8097393,,
+254a7a14-8fb2-11eb-924d-9cd76263cbd0,species,australis,Sphaeromorphaea,,"(Less.) Kitam.","Q76352,Q4222439",,,80,,,,,,,wfo-0000013406,3125384,,
+71f843bc-8fb9-11eb-924d-9cd76263cbd0,species,centipeda,Sphaeromorphaea,,DC.,Q123057,1838,,"140 1838",,,,,,250675-1,wfo-0000118424,3104390,,
+20966c44-8fb2-11eb-924d-9cd76263cbd0,species,petiolaris,Sphaeromorphaea,,DC.,Q123057,1838,,1838,,,,,,108652-3,wfo-0000012562,4247422,,
+0791ca18-8fb2-11eb-924d-9cd76263cbd0,species,russelliana,Sphaeromorphaea,,DC.,Q123057,,,,,,,,,,wfo-0000006000,,,
+13fbeb16-8fb8-11eb-924d-9cd76263cbd0,variety,glabrata,Sphaeromorphaea,russelliana,DC.,Q123057,1838,,"de Candolle, A. P. 1838[1837] : Prodromus Systematis Naturalis Regni Vegetabilis. 6.  Paris, 687 p.  140 1838",,,,,,,wfo-0000105983,6296666,,

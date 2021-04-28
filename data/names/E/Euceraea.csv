@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e386f8c6-8fd1-11eb-924d-9cd76263cbd0,genus,Euceraea,,,Mart.,,1831,,"Nov. Gen. Sp. Pl. 3: 90. 1831.",,,,,,36114-1,wfo-4000014100,7274186,,
-785e832e-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Euceraea,,Mart.,,1831,,"Nov. Gen. Sp. Pl. 3: 90 1831",,,,,,,wfo-0000925517,3879737,,
-785ea37c-8fcd-11eb-924d-9cd76263cbd0,species,rheophytica,Euceraea,,"P.E.Berry & M.E.Olson",,1998,,"Brittonia 50: 492 1998",,Q55772279,,,,1006003-1,wfo-0000925518,3879725,,
-785ec190-8fcd-11eb-924d-9cd76263cbd0,species,sleumeriana,Euceraea,,"Steyerm. & Maguire",,1972,,"Mem. New York Bot. Gard. 23: 879 1972",,,,,,365339-1,wfo-0000925519,3879711,,
+e386f8c6-8fd1-11eb-924d-9cd76263cbd0,genus,Euceraea,,,Mart.,Q77131,1831,,"Nov. Gen. Sp. Pl. 3: 90. 1831.",,,,,,36114-1,wfo-4000014100,7274186,,
+785e832e-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Euceraea,,Mart.,Q77131,1831,,"Nov. Gen. Sp. Pl. 3: 90 1831",,,,,,,wfo-0000925517,3879737,,
+785ea37c-8fcd-11eb-924d-9cd76263cbd0,species,rheophytica,Euceraea,,"P.E.Berry & M.E.Olson","Q6067165,Q21522382",1998,,"Brittonia 50: 492 1998",,Q55772279,,,,1006003-1,wfo-0000925518,3879725,,
+785ec190-8fcd-11eb-924d-9cd76263cbd0,species,sleumeriana,Euceraea,,"Steyerm. & Maguire","Q250148,Q2695559",1972,,"Mem. New York Bot. Gard. 23: 879 1972",,,,,,365339-1,wfo-0000925519,3879711,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9ee58100-9bad-11eb-a8a2-19ed5c03f8d3,genus,Empusa,,,Cohn,,1855,,"Hedwigia 1(10): 60 (1855)",,,,9ee58100-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20201," "
-ea58a6c2-9bac-11eb-a8a2-19ed5c03f8d3,species,acaricida,Empusa,,Petch,,1940,,"Proc. Linn. Soc. N.S.W. 65: 259 (1940)",,,,ea58a6c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286320," "
-ea58f488-9bac-11eb-a8a2-19ed5c03f8d3,species,acaridis,Empusa,,Petch,,1944,,"Trans. Br. mycol. Soc. 27: 87 (1944)",,,,ea58f488-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286321," "
+ea58a6c2-9bac-11eb-a8a2-19ed5c03f8d3,species,acaricida,Empusa,,Petch,Q7817222,1940,,"Proc. Linn. Soc. N.S.W. 65: 259 (1940)",,,,ea58a6c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286320," "
+ea58f488-9bac-11eb-a8a2-19ed5c03f8d3,species,acaridis,Empusa,,Petch,Q7817222,1944,,"Trans. Br. mycol. Soc. 27: 87 (1944)",,,,ea58f488-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286321," "
 23ed4bd2-9bac-11eb-a8a2-19ed5c03f8d3,species,acridii,Empusa,,"A.W. Cooper",,1898,,"Trans. South African phil. Soc. 9: 76 (1898)",,,,23ed4bd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101253," "
 3d43fada-9bad-11eb-a8a2-19ed5c03f8d3,species,americana,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d43fada-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372813," "
 cf559e84-9bac-11eb-a8a2-19ed5c03f8d3,species,apiculata,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,cf559e84-9bac-11eb-a8a2-19ed5c03f8d3,,,,,246054," "
@@ -14,43 +14,43 @@ a2458eea-9bac-11eb-a8a2-19ed5c03f8d3,species,colorata,Empusa,,"(Sorokin) Jacz.",
 449d8a36-9bac-11eb-a8a2-19ed5c03f8d3,species,conglomerata,Empusa,,"(Sorokin) Thaxt.",,,,,,,,735d9cea-9bab-11eb-a8a2-19ed5c03f8d3,,,,,145593," "
 5c38fec8-9bac-11eb-a8a2-19ed5c03f8d3,species,culicis,Empusa,,"A. Braun",,1855,,"Algarum unicellularum genera nova (Lipsiae) 105 (1855)",,,,5c38fec8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,146072," "
 3d4441fc-9bad-11eb-a8a2-19ed5c03f8d3,species,dipterigena,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4441fc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372814," "
-303853d6-8fcd-11eb-924d-9cd76263cbd0,species,disepala,Empusa,,"(Rchb.f.) M.A.Clem. & D.L.Jones",,2005,,"Orchadian 15: 41 2005",,,,,,77068316-1,wfo-0000794269,5322855,,
-d910780e-9bac-11eb-a8a2-19ed5c03f8d3,species,dysderci,Empusa,,Viégas,,,,,,,,d910780e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263644," "
+303853d6-8fcd-11eb-924d-9cd76263cbd0,species,disepala,Empusa,,"(Rchb.f.) M.A.Clem. & D.L.Jones","Q62820,Q2272220,Q1175070",2005,,"Orchadian 15: 41 2005",,,,,,77068316-1,wfo-0000794269,5322855,,
+d910780e-9bac-11eb-a8a2-19ed5c03f8d3,species,dysderci,Empusa,,Viégas,Q21611725,,,,,,,d910780e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263644," "
 3d44bc40-9bad-11eb-a8a2-19ed5c03f8d3,species,echinospora,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d44bc40-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372815," "
 8fd983e6-9bad-11eb-a8a2-19ed5c03f8d3,species,elegans,Empusa,,Maimone{?},,,,,,,,8fd983e6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,145446," "
 d978410a-9bac-11eb-a8a2-19ed5c03f8d3,species,erupta,Empusa,,Dustan,,1924,,"Proc. Acad. Entomol. Soc. 9: 31 (1924)",,,,d978410a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264211," "
-30386e0c-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Empusa,,"(Lindl.) M.A.Clem. & D.L.Jones",,2005,,"Orchadian 15: 41 2005",,,,,,77068317-1,wfo-0000794270,5322970,,
+30386e0c-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Empusa,,"(Lindl.) M.A.Clem. & D.L.Jones","Q378629,Q2272220,Q1175070",2005,,"Orchadian 15: 41 2005",,,,,,77068317-1,wfo-0000794270,5322970,,
 5c20cf88-9bac-11eb-a8a2-19ed5c03f8d3,species,fresenii,Empusa,,Nowak.,,1886,,"Beitr. Biol. Pfl. 4: 22 (1886)",,,,5c20cf88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145892," "
 3d45bd8e-9bad-11eb-a8a2-19ed5c03f8d3,species,fumosa,Empusa,,Speare,,,,"United States Department of Agriculture Technical Bulletin 1117: 1-18 (1922)",,,,3d45bd8e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372816," "
-2d637ef6-9bad-11eb-a8a2-19ed5c03f8d3,species,gastropachae,Empusa,,Racib.,,1910,,"Kosmos 35(7-9): 775 (1910)",,,,2d637ef6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,444132," "
+2d637ef6-9bad-11eb-a8a2-19ed5c03f8d3,species,gastropachae,Empusa,,Racib.,Q3045640,1910,,"Kosmos 35(7-9): 775 (1910)",,,,2d637ef6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,444132," "
 3d460834-9bad-11eb-a8a2-19ed5c03f8d3,species,geometralis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d460834-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372817," "
 3d4659b0-9bad-11eb-a8a2-19ed5c03f8d3,species,gracilis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4659b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372818," "
-f35c0314-9bab-11eb-a8a2-19ed5c03f8d3,species,grylli,Empusa,,"(Fresen.) Nowak.",,1888,,"in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 282 (1888)",,,,3040d976-9bac-11eb-a8a2-19ed5c03f8d3,,,,,349281," "
-f316fc74-9bab-11eb-a8a2-19ed5c03f8d3,species,gryllii,Empusa,,"(Fresen.) Nowak.",,,,,,,,3040d976-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145570," Empusa grylli"
-4d666264-8fcc-11eb-924d-9cd76263cbd0,species,habenarina,Empusa,,"(F.Muell.) M.A.Clem. & D.L.Jones",,2004,,"Orchadian 14(8: Sci. Suppl.): xiv 2004",,,,,,77062209-1,wfo-0000407398,5323244,,
+f35c0314-9bab-11eb-a8a2-19ed5c03f8d3,species,grylli,Empusa,,"(Fresen.) Nowak.",Q77670,1888,,"in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 282 (1888)",,,,3040d976-9bac-11eb-a8a2-19ed5c03f8d3,,,,,349281," "
+f316fc74-9bab-11eb-a8a2-19ed5c03f8d3,species,gryllii,Empusa,,"(Fresen.) Nowak.",Q77670,,,,,,,3040d976-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145570," Empusa grylli"
+4d666264-8fcc-11eb-924d-9cd76263cbd0,species,habenarina,Empusa,,"(F.Muell.) M.A.Clem. & D.L.Jones","Q708002,Q2272220,Q1175070",2004,,"Orchadian 14(8: Sci. Suppl.): xiv 2004",,,,,,77062209-1,wfo-0000407398,5323244,,
 5c2186e4-9bac-11eb-a8a2-19ed5c03f8d3,species,jassii,Empusa,,"(E. Cohn) G. Winter",,1877,,"Jber. schles. Ges. vaterl. Kultur 117 (1877)",,,,f9a0fe5e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145896," "
 f96ffe30-9bac-11eb-a8a2-19ed5c03f8d3,species,lageniformis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): 169 (1888)",,,,f96ffe30-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145283," "
 3d4bf01e-9bad-11eb-a8a2-19ed5c03f8d3,species,lampyridarum,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4bf01e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372826," "
-325d4d34-9bac-11eb-a8a2-19ed5c03f8d3,species,lecanii,Empusa,,Zimm.,,1901,,"Mededelingen-uit s'lands Plantentuin 44: 25 (1901)",,,,325d4d34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124203," "
+325d4d34-9bac-11eb-a8a2-19ed5c03f8d3,species,lecanii,Empusa,,Zimm.,Q5663851,1901,,"Mededelingen-uit s'lands Plantentuin 44: 25 (1901)",,,,325d4d34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124203," "
 3d46dd36-9bad-11eb-a8a2-19ed5c03f8d3,species,montana,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d46dd36-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372819," "
 5c0a663a-9bac-11eb-a8a2-19ed5c03f8d3,species,muscae,Empusa,,Cohn,,1855,,"Hedwigia 1(10): 61 (1855)",,,,5c0a663a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145718," "
 3d48d870-9bad-11eb-a8a2-19ed5c03f8d3,species,occidentalis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d48d870-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372820," "
 5c042ae0-9bac-11eb-a8a2-19ed5c03f8d3,species,papillata,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,5c042ae0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145673," "
-82cdad6c-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Empusa,,Lindl.,,1824,,"Bot. Reg. 10: t. 825 1824",,,,,,630839-1,wfo-0000948557,5322896,,
+82cdad6c-8fcd-11eb-924d-9cd76263cbd0,species,paradoxa,Empusa,,Lindl.,Q378629,1824,,"Bot. Reg. 10: t. 825 1824",,,,,,630839-1,wfo-0000948557,5322896,,
 d2e42778-9bac-11eb-a8a2-19ed5c03f8d3,species,pelliculosa,Empusa,,"(Sorokin) Jacz.",,,,,,,,7e8e9ea6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253867," "
-11fc9414-9bac-11eb-a8a2-19ed5c03f8d3,species,phalangicida,Empusa,,Lagerh.,,,,,,,,11fc9414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,372821," "
+11fc9414-9bac-11eb-a8a2-19ed5c03f8d3,species,phalangicida,Empusa,,Lagerh.,Q5931225,,,,,,,11fc9414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,372821," "
 a3e7eb44-9bac-11eb-a8a2-19ed5c03f8d3,species,phryganeae,Empusa,,"(Sorokin) Jacz.",,1931,,"Opredelitel' Gribov. Sovershennye Griby (Diploidnye Stadii). I. Fikomitsety (Moscow) 224 (1931)",,,,fa04f990-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253954," "
-cbf2447c-9bac-11eb-a8a2-19ed5c03f8d3,species,planchoniana,Empusa,,"(Cornu) Thaxt.",,,,,,,,780b2040-9bac-11eb-a8a2-19ed5c03f8d3,,,,,238740," "
+cbf2447c-9bac-11eb-a8a2-19ed5c03f8d3,species,planchoniana,Empusa,,"(Cornu) Thaxt.",Q2623599,,,,,,,780b2040-9bac-11eb-a8a2-19ed5c03f8d3,,,,,238740," "
 23c9fd76-9bac-11eb-a8a2-19ed5c03f8d3,species,puparum,Empusa,,Teich,,1886,,"KorrespBl. NaturVer. Riga 29: 13 (1886)",,,,23c9fd76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101085," "
 b5f0fff0-9bad-11eb-a8a2-19ed5c03f8d3,species,radicans,Empusa,,Bref.,,1870,,"Bot. Ztg. 185 (1870)",,,,b5f0fff0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,238090," "
 3d49a1ec-9bad-11eb-a8a2-19ed5c03f8d3,species,rhizospora,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): 183 (1888)",,,,3d49a1ec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372822," "
 d340b3da-9bac-11eb-a8a2-19ed5c03f8d3,species,scatophagae,Empusa,,"(Giard) Jacz.",,,,,,,,68870a62-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254592," "
 ba3d53ce-9bad-11eb-a8a2-19ed5c03f8d3,species,sciarae,Empusa,,Olive,,1906,,"Bot. Gaz. 41: 196 (1906)",,,,ba3d53ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,238507," "
 3d4a54f2-9bad-11eb-a8a2-19ed5c03f8d3,species,sepulchralis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4a54f2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372823," "
-2c1b2e90-9bad-11eb-a8a2-19ed5c03f8d3,species,tenthredinis,Empusa,,"(Fresen.) anon. ined.",,,,,,,,f9af5774-9bac-11eb-a8a2-19ed5c03f8d3,,,,,438309," "
+2c1b2e90-9bad-11eb-a8a2-19ed5c03f8d3,species,tenthredinis,Empusa,,"(Fresen.) anon. ined.",Q77670,,,,,,,f9af5774-9bac-11eb-a8a2-19ed5c03f8d3,,,,,438309," "
 0dc4f372-9bad-11eb-a8a2-19ed5c03f8d3,species,thaxteri,Empusa,,Brumpt,,1940,,"C. r. hebd. Séanc. Acad. Sci., Paris 211: 484 (1940)",,,,0dc4f372-9bad-11eb-a8a2-19ed5c03f8d3,,,,,313520," "
-5125af1c-9bad-11eb-a8a2-19ed5c03f8d3,species,thaxteriana,Empusa,,Petch,,1936,invalid,"Naturalist, London 59 (1936)",,,,5125af1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,416360,"Nom. inval., Art. 36.1 "
+5125af1c-9bad-11eb-a8a2-19ed5c03f8d3,species,thaxteriana,Empusa,,Petch,Q7817222,1936,invalid,"Naturalist, London 59 (1936)",,,,5125af1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,416360,"Nom. inval., Art. 36.1 "
 3d4aea20-9bad-11eb-a8a2-19ed5c03f8d3,species,variabilis,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4aea20-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372824," "
 3d4b7e40-9bad-11eb-a8a2-19ed5c03f8d3,species,virescens,Empusa,,Thaxt.,,1888,,"Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)",,,,3d4b7e40-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372825," "
 0dc54912-9bad-11eb-a8a2-19ed5c03f8d3,species,weberi,Empusa,,"G. Lakon",,1939,,"Z. angew. Entomol. 26: 518 (1939)",,,,0dc54912-9bad-11eb-a8a2-19ed5c03f8d3,,,,,313521," "
-4d681b2c-8fcc-11eb-924d-9cd76263cbd0,species,endotrachys,Empusella,,"(Rchb.f.) Luer",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 258 2004",,,,f7cef2ee-8fcb-11eb-924d-9cd76263cbd0,,77063131-1,wfo-0000407409,2835557,,
+4d681b2c-8fcc-11eb-924d-9cd76263cbd0,species,endotrachys,Empusella,,"(Rchb.f.) Luer","Q62820,Q2067641",2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 258 2004",,,,f7cef2ee-8fcb-11eb-924d-9cd76263cbd0,,77063131-1,wfo-0000407409,2835557,,

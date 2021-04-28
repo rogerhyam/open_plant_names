@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9eefe366-9bad-11eb-a8a2-19ed5c03f8d3,genus,Disporium,,,Léman,,1819,,"Dict. Sci. Nat. 13: 351 (1819)",,,,9eefe366-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25102," "
-a746ebbe-9bac-11eb-a8a2-19ed5c03f8d3,species,versicolor,Disporium,,"(Link) Léman",,1819,,"Dict. Sci. Nat. (1819)",,,,85b48a60-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431611," "
-e540a2de-8fcc-11eb-924d-9cd76263cbd0,species,pentandra,Disporocarpa,,"(Royle ex Edgew.) Asch.",,1867,,"Beitr. Fl. Aethiop. 271 1867",,,,dce3bb9e-8fd1-11eb-924d-9cd76263cbd0,,273629-1,wfo-0000652292,4199824,,
-dce39d6c-8fd1-11eb-924d-9cd76263cbd0,species,pharnaceoides,Disporocarpa,,"(Fisch. & C.A.Mey.) Aschers. & Schweinf.",,1867,,"Beitr. Fl. Aethiop. 271 1867",,,,d5e35e9e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001300543,7454165,,
+9eefe366-9bad-11eb-a8a2-19ed5c03f8d3,genus,Disporium,,,Léman,Q5551287,1819,,"Dict. Sci. Nat. 13: 351 (1819)",,,,9eefe366-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25102," "
+a746ebbe-9bac-11eb-a8a2-19ed5c03f8d3,species,versicolor,Disporium,,"(Link) Léman","Q215466,Q5551287",1819,,"Dict. Sci. Nat. (1819)",,,,85b48a60-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431611," "
+e540a2de-8fcc-11eb-924d-9cd76263cbd0,species,pentandra,Disporocarpa,,"(Royle ex Edgew.) Asch.","Q713874,Q3102663,Q61290",1867,,"Beitr. Fl. Aethiop. 271 1867",,,,dce3bb9e-8fd1-11eb-924d-9cd76263cbd0,,273629-1,wfo-0000652292,4199824,,
+dce39d6c-8fd1-11eb-924d-9cd76263cbd0,species,pharnaceoides,Disporocarpa,,"(Fisch. & C.A.Mey.) Aschers. & Schweinf.","Q64109,Q728729,Q63126",1867,,"Beitr. Fl. Aethiop. 271 1867",,,,d5e35e9e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001300543,7454165,,

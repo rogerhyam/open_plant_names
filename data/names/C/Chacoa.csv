@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1751d24-8fd1-11eb-924d-9cd76263cbd0,genus,Chacoa,,,"R.M.King & H.Rob.",,,,,,,,,,298477-2,wfo-4000007469,3102881,,
-04e800e8-8fb2-11eb-924d-9cd76263cbd0,species,mikaniifolia,Chacoa,,"(B.L.Rob.) R.M.King & H.Rob.",,1975,,"Phytologia 32 276 1975",,,,,,53833-2,wfo-0000005216,3142642,,
-8c55e496-8fb2-11eb-924d-9cd76263cbd0,species,pseudoprasiifolia,Chacoa,,"(Hassl.) R.M.King & H.Rob.",,1975,,"Phytologia 32 276 1975",,,,,,53834-2,wfo-0000027777,3142812,,
+e1751d24-8fd1-11eb-924d-9cd76263cbd0,genus,Chacoa,,,"R.M.King & H.Rob.","Q2854893,Q2100759",,,,,,,,,298477-2,wfo-4000007469,3102881,,
+04e800e8-8fb2-11eb-924d-9cd76263cbd0,species,mikaniifolia,Chacoa,,"(B.L.Rob.) R.M.King & H.Rob.","Q817600,Q2854893,Q2100759",1975,,"Phytologia 32 276 1975",,,,,,53833-2,wfo-0000005216,3142642,,
+8c55e496-8fb2-11eb-924d-9cd76263cbd0,species,pseudoprasiifolia,Chacoa,,"(Hassl.) R.M.King & H.Rob.","Q116720,Q2854893,Q2100759",1975,,"Phytologia 32 276 1975",,,,,,53834-2,wfo-0000027777,3142812,,

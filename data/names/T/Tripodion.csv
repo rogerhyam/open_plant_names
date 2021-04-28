@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eba227d8-8fd1-11eb-924d-9cd76263cbd0,genus,Tripodion,,,Medik.,,,,,,,,,,23731-1,wfo-4000039303,2947288,,
-18169c0c-8fc5-11eb-924d-9cd76263cbd0,species,graecum,Tripodion,,"(Boiss.) Lassen",,,,,,,,,,,wfo-0000191357,2960725,,
-122a1848-8fc8-11eb-924d-9cd76263cbd0,species,kremerianum,Tripodion,,"(Coss.) Lassen",,,,,,,,,,,wfo-0000205947,2960729,,
-51ce800c-8fcc-11eb-924d-9cd76263cbd0,species,lotoides,Tripodion,,Medik.,,1787,,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 348 1787",,,,,,524171-1,wfo-0000412990,3975657,,
-d360c6de-8fd1-11eb-924d-9cd76263cbd0,species,tetraphyllum,Tripodion,,Fourr.,,,,,,,,,,,wfo-0001284461,2947289,,
-133d34ea-8fc8-11eb-924d-9cd76263cbd0,species,tetraphyllum,Tripodion,,"(L.) Fourr.",,,,,,,,,,,wfo-0000205968,2947289,,
+eba227d8-8fd1-11eb-924d-9cd76263cbd0,genus,Tripodion,,,Medik.,Q77464,,,,,,,,,23731-1,wfo-4000039303,2947288,,
+18169c0c-8fc5-11eb-924d-9cd76263cbd0,species,graecum,Tripodion,,"(Boiss.) Lassen","Q34430,Q6072041",,,,,,,,,,wfo-0000191357,2960725,,
+122a1848-8fc8-11eb-924d-9cd76263cbd0,species,kremerianum,Tripodion,,"(Coss.) Lassen","Q1276939,Q6072041",,,,,,,,,,wfo-0000205947,2960729,,
+51ce800c-8fcc-11eb-924d-9cd76263cbd0,species,lotoides,Tripodion,,Medik.,Q77464,1787,,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 348 1787",,,,,,524171-1,wfo-0000412990,3975657,,
+133d34ea-8fc8-11eb-924d-9cd76263cbd0,species,tetraphyllum,Tripodion,,"(L.) Fourr.","Q1043,Q925866",,,,,,,,,,wfo-0000205968,2947289,,
+d360c6de-8fd1-11eb-924d-9cd76263cbd0,species,tetraphyllum,Tripodion,,Fourr.,Q925866,,,,,,,,,,wfo-0001284461,2947289,,

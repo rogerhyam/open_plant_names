@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4be701e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Polythrincium,,,Kunze,,1817,,"in Kuntze & Schmidt, Mykologische Hefte (Leipzig) 1: 13 (1817)",,,,a4be701e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9515," "
-be0bd7c4-9bac-11eb-a8a2-19ed5c03f8d3,species,guanicense,Polythrincium,,"(F. Stevens) Cif.",,1938,,"Annls mycol. 36: 233 (1938)",,,,3d2b20a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,266598," "
+a4be701e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Polythrincium,,,Kunze,Q65400,1817,,"in Kuntze & Schmidt, Mykologische Hefte (Leipzig) 1: 13 (1817)",,,,a4be701e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9515," "
+be0bd7c4-9bac-11eb-a8a2-19ed5c03f8d3,species,guanicense,Polythrincium,,"(F. Stevens) Cif.",Q4516707,1938,,"Annls mycol. 36: 233 (1938)",,,,3d2b20a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,266598," "
 c971b50c-9bac-11eb-a8a2-19ed5c03f8d3,species,lathyrinum,Polythrincium,,Syd.,,,,,,,,c971b50c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,269078," "
-b1449440-9bac-11eb-a8a2-19ed5c03f8d3,species,polysporum,Polythrincium,,"(Corda) Fr.",,,,,,,,11481cd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,451808," "
-ca1d72a2-9bac-11eb-a8a2-19ed5c03f8d3,species,shiraianum,Polythrincium,,Henn.,,,,,,,,ca1d72a2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,215476," "
-9b901f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,trifolii,Polythrincium,,Kunze,,1817,,"Mykologische Hefte (Leipzig) 1: 14 (1817)",,,,9b901f7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,215652,"  Hyphomycetous anamorph"
-43e5bc3a-9bac-11eb-a8a2-19ed5c03f8d3,variety,platense,Polythrincium,trifolii,Speg.,,,,,,,,43e5bc3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,137583," "
-832cafd4-9bac-11eb-a8a2-19ed5c03f8d3,variety,trifolii,Polythrincium,trifolii,Kunze,,1817,,"Mykologische Hefte (Leipzig) 1: 14 (1817)",,,,832cafd4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420164," "
-b0588f04-8fcd-11eb-924d-9cd76263cbd0,species,stenandrium,Polythrix,,Nees,,1847,,"Prodr. 11: 286 1847",,,,,,53146-1,wfo-0001044492,5574311,,
+b1449440-9bac-11eb-a8a2-19ed5c03f8d3,species,polysporum,Polythrincium,,"(Corda) Fr.","Q624998,Q15405",,,,,,,11481cd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,451808," "
+ca1d72a2-9bac-11eb-a8a2-19ed5c03f8d3,species,shiraianum,Polythrincium,,Henn.,Q4497246,,,,,,,ca1d72a2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,215476," "
+9b901f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,trifolii,Polythrincium,,Kunze,Q65400,1817,,"Mykologische Hefte (Leipzig) 1: 14 (1817)",,,,9b901f7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,215652,"  Hyphomycetous anamorph"
+43e5bc3a-9bac-11eb-a8a2-19ed5c03f8d3,variety,platense,Polythrincium,trifolii,Speg.,Q648013,,,,,,,43e5bc3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,137583," "
+832cafd4-9bac-11eb-a8a2-19ed5c03f8d3,variety,trifolii,Polythrincium,trifolii,Kunze,Q65400,1817,,"Mykologische Hefte (Leipzig) 1: 14 (1817)",,,,832cafd4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420164," "
+b0588f04-8fcd-11eb-924d-9cd76263cbd0,species,stenandrium,Polythrix,,Nees,Q76349,1847,,"Prodr. 11: 286 1847",,,,,,53146-1,wfo-0001044492,5574311,,

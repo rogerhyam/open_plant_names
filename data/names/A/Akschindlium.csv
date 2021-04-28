@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df0d14f6-8fd1-11eb-924d-9cd76263cbd0,genus,Akschindlium,,,H.Ohashi,,,,,,Q104817754,,,,60428501-2,wfo-4000001072,3910381,,
-d46b51e8-8fd1-11eb-924d-9cd76263cbd0,species,godefroyanum,Akschindlium,,"(Kuntze) H.Ohashi",,2003,,"J. Jap. Bot. 78(5): 275 2003",,,,,,,wfo-0001286105,3968877,,
-383112d0-8fb9-11eb-924d-9cd76263cbd0,species,suaveolens,Akylopsis,,"(Pursh) Lehm.",,1850,,"3 1850",,,,,,175826-1,wfo-0000116464,3103793,,
+df0d14f6-8fd1-11eb-924d-9cd76263cbd0,genus,Akschindlium,,,H.Ohashi,Q5490914,,,,,Q104817754,,,,60428501-2,wfo-4000001072,3910381,,
+d46b51e8-8fd1-11eb-924d-9cd76263cbd0,species,godefroyanum,Akschindlium,,"(Kuntze) H.Ohashi","Q62853,Q5490914",2003,,"J. Jap. Bot. 78(5): 275 2003",,,,,,,wfo-0001286105,3968877,,
+383112d0-8fb9-11eb-924d-9cd76263cbd0,species,suaveolens,Akylopsis,,"(Pursh) Lehm.","Q67353,Q62981",1850,,"3 1850",,,,,,175826-1,wfo-0000116464,3103793,,

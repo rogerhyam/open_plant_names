@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e60f0a84-8fd1-11eb-924d-9cd76263cbd0,genus,Lophocarpinia,,,Burkart,,,,,,Q104174217,,,,294657-2,wfo-4000022202,2967936,,
-5178e13c-8fc3-11eb-924d-9cd76263cbd0,species,aculeatifolia,Lophocarpinia,,"(Burkart) Burkart",,,,,,,,,,,wfo-0000182132,2967937,,
-7344c44e-8fcc-11eb-924d-9cd76263cbd0,species,bonia,Lophocarpus,,Boeckeler,,1896,,"Allg. Bot. Z. Syst. 2: 110 1896",,,,,,310307-1,wfo-0000462953,2709810,,
-2bccc486-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Lophocarpus,,Link,,1795,,"Diss. Bot. Suerin 52 1795",,,,,,60903-1,wfo-0000360499,6030131,,
-73454d6a-8fcc-11eb-924d-9cd76263cbd0,species,tonquinensis,Lophocarpus,,Boeckeler,,1896,,"Allg. Bot. Z. Syst. 2: 111 1896",,,,,,310309-1,wfo-0000462958,2709809,,
-2af0fad2-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Lophocarya,,"Nutt. ex Moq.",,1849,,"Prodr. 13(2): 113 1849",,,,,,166081-1,wfo-0000359077,3756100,,
+e60f0a84-8fd1-11eb-924d-9cd76263cbd0,genus,Lophocarpinia,,,Burkart,Q2748897,,,,,Q104174217,,,,294657-2,wfo-4000022202,2967936,,
+5178e13c-8fc3-11eb-924d-9cd76263cbd0,species,aculeatifolia,Lophocarpinia,,"(Burkart) Burkart",Q2748897,,,,,,,,,,wfo-0000182132,2967937,,
+7344c44e-8fcc-11eb-924d-9cd76263cbd0,species,bonia,Lophocarpus,,Boeckeler,Q10307778,1896,,"Allg. Bot. Z. Syst. 2: 110 1896",,,,,,310307-1,wfo-0000462953,2709810,,
+2bccc486-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Lophocarpus,,Link,Q215466,1795,,"Diss. Bot. Suerin 52 1795",,,,,,60903-1,wfo-0000360499,6030131,,
+73454d6a-8fcc-11eb-924d-9cd76263cbd0,species,tonquinensis,Lophocarpus,,Boeckeler,Q10307778,1896,,"Allg. Bot. Z. Syst. 2: 111 1896",,,,,,310309-1,wfo-0000462958,2709809,,
+2af0fad2-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Lophocarya,,"Nutt. ex Moq.","Q728337,Q55068622",1849,,"Prodr. 13(2): 113 1849",,,,,,166081-1,wfo-0000359077,3756100,,

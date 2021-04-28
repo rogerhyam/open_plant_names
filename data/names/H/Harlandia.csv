@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e46ad8fc-8fd1-11eb-924d-9cd76263cbd0,genus,Harlandia,,,"Hance ex Walpers",,1852,,"Ann. Bot. Syst. 2: 648. 1852.",,,,,,,wfo-4000016920,7317657,,
-09eac330-8fcd-11eb-924d-9cd76263cbd0,species,bryonioides,Harlandia,,Hance,,1852,,"Ann. Bot. Syst. 2: 648 1852",,,,,,292915-1,wfo-0000715753,3623560,,
-9147e3c6-8fcd-11eb-924d-9cd76263cbd0,species,murex,Harlanlewisia,,Epling,,1955,,"Amer. J. Bot. 42: 436 1955",,,,,,117937-2,wfo-0000979354,3890375,,
-9147fe56-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Harlanlewisia,,"(Epling) Epling & Játiva",,1968,,"Brittonia 20: 296 1968",,Q55768690,,,,117938-2,wfo-0000979355,3890359,,
+e46ad8fc-8fd1-11eb-924d-9cd76263cbd0,genus,Harlandia,,,"Hance ex Walpers",Q2657692,1852,,"Ann. Bot. Syst. 2: 648. 1852.",,,,,,,wfo-4000016920,7317657,,
+09eac330-8fcd-11eb-924d-9cd76263cbd0,species,bryonioides,Harlandia,,Hance,Q2657692,1852,,"Ann. Bot. Syst. 2: 648 1852",,,,,,292915-1,wfo-0000715753,3623560,,
+9147e3c6-8fcd-11eb-924d-9cd76263cbd0,species,murex,Harlanlewisia,,Epling,Q924619,1955,,"Amer. J. Bot. 42: 436 1955",,,,,,117937-2,wfo-0000979354,3890375,,
+9147fe56-8fcd-11eb-924d-9cd76263cbd0,species,sarmentosa,Harlanlewisia,,"(Epling) Epling & Játiva","Q924619,Q13512709",1968,,"Brittonia 20: 296 1968",,Q55768690,,,,117938-2,wfo-0000979355,3890359,,

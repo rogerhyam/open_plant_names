@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88ab45c-8fd1-11eb-924d-9cd76263cbd0,genus,Pilotrichopsis,,,Besch.,,1899,,"J. Bot. (Morot) 13: 38. 1899.",,,,,,,wfo-4000029724,2678256,,
-e10aa772-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Pilotrichopsis,,"(Mitt.) Besch.",,1899,,"J. Bot. (Morot) 13: 38 1899",,,,,,,wfo-0001152015,2678259,,
-e10ac3d8-8fcd-11eb-924d-9cd76263cbd0,variety,filiformis,Pilotrichopsis,dentata,"(Besch.) Paris",,1900,,"Index Bryol. Suppl. 272 1900",,,,deb340c4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152016,7829941,,
-e10ae05c-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Pilotrichopsis,,Sakurai,,1932,,"Bot. Mag. (Tokyo) 46: 375 1932",,,,,,,wfo-0001152017,7435016,,
-e10afe70-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Pilotrichopsis,,"(Mitt.) Broth.",,1925,,"Nat. Pflanzenfam. (ed. 2) 11: 86 1925",,,,eed0bc70-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152018,2678258,,
-e10b189c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Pilotrichopsis,,P.C.Chen,,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 58: 29. 4 1955",,,,,,,wfo-0001152019,2678257,,
+e88ab45c-8fd1-11eb-924d-9cd76263cbd0,genus,Pilotrichopsis,,,Besch.,Q8078265,1899,,"J. Bot. (Morot) 13: 38. 1899.",,,,,,,wfo-4000029724,2678256,,
+e10aa772-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Pilotrichopsis,,"(Mitt.) Besch.","Q2918015,Q8078265",1899,,"J. Bot. (Morot) 13: 38 1899",,,,,,,wfo-0001152015,2678259,,
+e10ac3d8-8fcd-11eb-924d-9cd76263cbd0,variety,filiformis,Pilotrichopsis,dentata,"(Besch.) Paris","Q8078265,Q5928874",1900,,"Index Bryol. Suppl. 272 1900",,,,deb340c4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152016,7829941,,
+e10ae05c-8fcd-11eb-924d-9cd76263cbd0,species,erecta,Pilotrichopsis,,Sakurai,Q19001625,1932,,"Bot. Mag. (Tokyo) 46: 375 1932",,,,,,,wfo-0001152017,7435016,,
+e10afe70-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Pilotrichopsis,,"(Mitt.) Broth.","Q2918015,Q4348569",1925,,"Nat. Pflanzenfam. (ed. 2) 11: 86 1925",,,,eed0bc70-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001152018,2678258,,
+e10b189c-8fcd-11eb-924d-9cd76263cbd0,species,robusta,Pilotrichopsis,,P.C.Chen,Q21388127,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 58: 29. 4 1955",,,,,,,wfo-0001152019,2678257,,

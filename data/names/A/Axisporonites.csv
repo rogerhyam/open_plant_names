@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 c493d682-9bac-11eb-a8a2-19ed5c03f8d3,genus,Axisporonites,,,"Kalgutkar & Janson.",,2000,,"AASP Contributions Series (Dallas) 39: 36 (2000)",,,,c493d682-9bac-11eb-a8a2-19ed5c03f8d3,,,,,28611," "
 717459c6-9bad-11eb-a8a2-19ed5c03f8d3,species,indicus,Axisporonites,,"(P. Kumar) Kalgutkar & Janson.",,2000,,"AASP Contributions Series (Dallas) 39: 36 (2000)",,,,345e757c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,483266," "
-aba96592-8fcc-11eb-924d-9cd76263cbd0,species,aegyptia,Axolopha,,Alef.,,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559018-1,wfo-0000557443,3939883,,
-aba98392-8fcc-11eb-924d-9cd76263cbd0,species,althaeoides,Axolopha,,"(Cav.) Alef.",,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,6b72b294-8fcc-11eb-924d-9cd76263cbd0,,559019-1,wfo-0000557444,3939878,,
-aba9a71e-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Axolopha,,"(L.) Alef.",,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559020-1,wfo-0000557445,3939874,,
-aba9cc8a-8fcc-11eb-924d-9cd76263cbd0,species,ludwigii,Axolopha,,"(L.) Alef.",,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,9a55a80a-8fcc-11eb-924d-9cd76263cbd0,,559021-1,wfo-0000557446,3939867,,
-abaa30d0-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Axolopha,,"(Gouan) Alef.",,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559022-1,wfo-0000557447,3939863,,
-abaa5998-8fcc-11eb-924d-9cd76263cbd0,species,wigandii,Axolopha,,Alef.,,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559023-1,wfo-0000557448,4939683,,
-086bd0ae-8fcc-11eb-924d-9cd76263cbd0,species,angustifolius,Axolus,,"(Lour.) Raf.",,1838,,"Sylva Tellur. 61 1838",,,,40db50bc-8fcd-11eb-924d-9cd76263cbd0,,744297-1,wfo-0000303807,2923934,,
+aba96592-8fcc-11eb-924d-9cd76263cbd0,species,aegyptia,Axolopha,,Alef.,Q62876,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559018-1,wfo-0000557443,3939883,,
+aba98392-8fcc-11eb-924d-9cd76263cbd0,species,althaeoides,Axolopha,,"(Cav.) Alef.","Q545430,Q62876",1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,6b72b294-8fcc-11eb-924d-9cd76263cbd0,,559019-1,wfo-0000557444,3939878,,
+aba9a71e-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Axolopha,,"(L.) Alef.","Q1043,Q62876",1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559020-1,wfo-0000557445,3939874,,
+aba9cc8a-8fcc-11eb-924d-9cd76263cbd0,species,ludwigii,Axolopha,,"(L.) Alef.","Q1043,Q62876",1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,9a55a80a-8fcc-11eb-924d-9cd76263cbd0,,559021-1,wfo-0000557446,3939867,,
+abaa30d0-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Axolopha,,"(Gouan) Alef.","Q586298,Q62876",1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559022-1,wfo-0000557447,3939863,,
+abaa5998-8fcc-11eb-924d-9cd76263cbd0,species,wigandii,Axolopha,,Alef.,Q62876,1862,,"Oesterr. Bot. Z. 12: 259 1862",,Q101055242,,,,559023-1,wfo-0000557448,4939683,,
+086bd0ae-8fcc-11eb-924d-9cd76263cbd0,species,angustifolius,Axolus,,"(Lour.) Raf.","Q729917,Q364857",1838,,"Sylva Tellur. 61 1838",,,,40db50bc-8fcd-11eb-924d-9cd76263cbd0,,744297-1,wfo-0000303807,2923934,,

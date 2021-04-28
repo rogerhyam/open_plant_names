@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6a3b42c-8fd1-11eb-924d-9cd76263cbd0,genus,Meximalva,,,Fryxell,,1975,,"Bol. Soc. Bot. México 35: 30–34, f. 2. 1975. (Dec 1975)",,,,,,298637-2,wfo-4000023970,3152510,,
-beacf7fc-8fcd-11eb-924d-9cd76263cbd0,species,filipes,Meximalva,,"(A.Gray) Fryxell",,1975,,"Bol. Soc. Bot. México 35: 32 1975",,Q95998482,,,,158634-2,wfo-0001077096,3152511,,
-6c29c13c-8fcc-11eb-924d-9cd76263cbd0,species,retusa,Meximalva,,"(L.) F.C.Ho",,1979,,"Trop. Pl. Taiwan Colour 2: 257 1979",,,,,,562407-1,wfo-0000450561,3935936,,
-bc0447b8-8fd1-11eb-924d-9cd76263cbd0,species,venusta,Meximalva,,"(Schltdl.) Fryxell",,1975,,"Bol. Soc. Bot. México 35: 31 1975",,Q95998482,,bc046284-8fd1-11eb-924d-9cd76263cbd0,,158635-2,wfo-0001246646,3935927,,
+e6a3b42c-8fd1-11eb-924d-9cd76263cbd0,genus,Meximalva,,,Fryxell,Q7150752,1975,,"Bol. Soc. Bot. México 35: 30–34, f. 2. 1975. (Dec 1975)",,,,,,298637-2,wfo-4000023970,3152510,,
+beacf7fc-8fcd-11eb-924d-9cd76263cbd0,species,filipes,Meximalva,,"(A.Gray) Fryxell","Q347356,Q7150752",1975,,"Bol. Soc. Bot. México 35: 32 1975",,Q95998482,,,,158634-2,wfo-0001077096,3152511,,
+6c29c13c-8fcc-11eb-924d-9cd76263cbd0,species,retusa,Meximalva,,"(L.) F.C.Ho","Q1043,Q36554769",1979,,"Trop. Pl. Taiwan Colour 2: 257 1979",,,,,,562407-1,wfo-0000450561,3935936,,
+bc0447b8-8fd1-11eb-924d-9cd76263cbd0,species,venusta,Meximalva,,"(Schltdl.) Fryxell","Q62826,Q7150752",1975,,"Bol. Soc. Bot. México 35: 31 1975",,Q95998482,,bc046284-8fd1-11eb-924d-9cd76263cbd0,,158635-2,wfo-0001246646,3935927,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e92607cc-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolotus,,,Rech.f.,,,,,,,,,,23353-1,wfo-4000031576,9633183,,
-dbfdc696-8fc4-11eb-924d-9cd76263cbd0,species,makranicus,Pseudolotus,,"(Rech.f. & Esfand.) Rech.f.",,,,,,,,996b32b4-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0000190175,2976474,,
-c4832f58-8fd1-11eb-924d-9cd76263cbd0,species,villosus,Pseudolotus,,"(Blatt. & Hallb.) Ali & Sokoloff",,2001,,"Kew Bull. 56(3): 722 2001",,Q55785087,,,,20001198-1,wfo-0001262372,2976472,,
-f0bdf31e-8fc7-11eb-924d-9cd76263cbd0,species,villosus,Pseudolotus,,"(Blatt. & Hallb.) Ali & D.D.Sok",,,,,,,,,,,wfo-0000205269,2976472,,
+e92607cc-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudolotus,,,Rech.f.,Q78738,,,,,,,,,23353-1,wfo-4000031576,9633183,,
+dbfdc696-8fc4-11eb-924d-9cd76263cbd0,species,makranicus,Pseudolotus,,"(Rech.f. & Esfand.) Rech.f.","Q78738,Q5962476",,,,,,,996b32b4-8fc4-11eb-924d-9cd76263cbd0,,,wfo-0000190175,2976474,,
+c4832f58-8fd1-11eb-924d-9cd76263cbd0,species,villosus,Pseudolotus,,"(Blatt. & Hallb.) Ali & Sokoloff","Q3059270,Q21514569,Q19345770,Q36541241",2001,,"Kew Bull. 56(3): 722 2001",,Q55785087,,,,20001198-1,wfo-0001262372,2976472,,
+f0bdf31e-8fc7-11eb-924d-9cd76263cbd0,species,villosus,Pseudolotus,,"(Blatt. & Hallb.) Ali & D.D.Sok","Q3059270,Q21514569,Q19345770",,,,,,,,,,wfo-0000205269,2976472,,

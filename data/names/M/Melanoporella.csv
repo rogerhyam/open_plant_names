@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a07edcaa-9bad-11eb-a8a2-19ed5c03f8d3,genus,Melanoporella,,,Murrill,,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,a07edcaa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18034," "
-6752ff0c-9bac-11eb-a8a2-19ed5c03f8d3,species,carbonacea,Melanoporella,,"(Berk. & M.A. Curtis) Murrill",,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,22bd4fa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431794," carbonaceus"
-ddeb637a-9bac-11eb-a8a2-19ed5c03f8d3,species,carbonaceus,Melanoporella,,"(Berk. & M.A. Curtis) Murrill",,,,,,,,22bd4fa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270218," Melanoporella carbonacea"
+a07edcaa-9bad-11eb-a8a2-19ed5c03f8d3,genus,Melanoporella,,,Murrill,Q2170251,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,a07edcaa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18034," "
+6752ff0c-9bac-11eb-a8a2-19ed5c03f8d3,species,carbonacea,Melanoporella,,"(Berk. & M.A. Curtis) Murrill","Q662338,Q2170251",1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,22bd4fa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431794," carbonaceus"
+ddeb637a-9bac-11eb-a8a2-19ed5c03f8d3,species,carbonaceus,Melanoporella,,"(Berk. & M.A. Curtis) Murrill","Q662338,Q2170251",,,,,,,22bd4fa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270218," Melanoporella carbonacea"

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a64e5f52-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pompholyx,,,Corda,,1834,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(12): 51 (1834)",,,,a64e5f52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19276," "
+a64e5f52-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pompholyx,,,Corda,Q624998,1834,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) 3(12): 51 (1834)",,,,a64e5f52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19276," "
 ed808478-9bac-11eb-a8a2-19ed5c03f8d3,species,occidentale,Pompholyx,,Zeller,,1947,,"Mycologia 39(3): 293 (1947)",,,,ed808478-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289859," "
-799ae80e-9bad-11eb-a8a2-19ed5c03f8d3,species,sapida,Pompholyx,,Corda,,,,,,,,799ae80e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,203605," "
-1a8eeaa0-9bac-11eb-a8a2-19ed5c03f8d3,species,sapidum,Pompholyx,,Corda,,,,,,,,1a8eeaa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,374324," "
-1f0d53b0-8fb2-11eb-924d-9cd76263cbd0,species,cernua,Ponaea,,Bubani,,1900,,"Fl. Pyren. (Bubani) ii. 196 (1900).",,,,,,239272-1,wfo-0000012277,5695982,,
-78831d66-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Ponaea,,"(Aubl.) J.F.Gmel.",,1791,,"Syst. Nat. 640 1791",,,,,,784491-1,wfo-0000471436,5577304,,
-78813942-8fcc-11eb-924d-9cd76263cbd0,species,saponarioides,Ponaea,,Willd.,,1799,,"Sp. Pl. 2: 470 1799",,,,,,784492-1,wfo-0000471422,5577298,,
+799ae80e-9bad-11eb-a8a2-19ed5c03f8d3,species,sapida,Pompholyx,,Corda,Q624998,,,,,,,799ae80e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,203605," "
+1a8eeaa0-9bac-11eb-a8a2-19ed5c03f8d3,species,sapidum,Pompholyx,,Corda,Q624998,,,,,,,1a8eeaa0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,374324," "
+1f0d53b0-8fb2-11eb-924d-9cd76263cbd0,species,cernua,Ponaea,,Bubani,Q684026,1900,,"Fl. Pyren. (Bubani) ii. 196 (1900).",,,,,,239272-1,wfo-0000012277,5695982,,
+78831d66-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Ponaea,,"(Aubl.) J.F.Gmel.","Q721482,Q57230",1791,,"Syst. Nat. 640 1791",,,,,,784491-1,wfo-0000471436,5577304,,
+78813942-8fcc-11eb-924d-9cd76263cbd0,species,saponarioides,Ponaea,,Willd.,Q76353,1799,,"Sp. Pl. 2: 470 1799",,,,,,784492-1,wfo-0000471422,5577298,,

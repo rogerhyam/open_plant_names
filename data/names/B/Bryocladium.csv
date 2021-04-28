@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9b72b66e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bryocladium,,,Kunze,,1830,,"Flora, Jena 13: 370 (1830)",,,,9b72b66e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,661," "
-48e78844-9bac-11eb-a8a2-19ed5c03f8d3,species,amomi,Bryocladium,,"(Berk. & Broome) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 447 (1898)",,,,b4887184-9bad-11eb-a8a2-19ed5c03f8d3,,,,,523467," "
-83bdf796-9bac-11eb-a8a2-19ed5c03f8d3,species,maculans,Bryocladium,,Kunze,,1830,,"Flora, Jena 13: (1830)",,,,83bdf796-9bac-11eb-a8a2-19ed5c03f8d3,,,,,195262," "
-af84e0a6-9bac-11eb-a8a2-19ed5c03f8d3,species,rhacodiodes,Bryocladium,,"(Corda) Kuntze",,,,,,,,8c873414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,527536," Bryocladium rhacodioides"
-48e80350-9bac-11eb-a8a2-19ed5c03f8d3,species,rhacodioides,Bryocladium,,"(Corda) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 447 (1898)",,,,8c873414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523468," rhacodiodes"
-21496cb6-8fcd-11eb-924d-9cd76263cbd0,species,ventricosa,Bryocles,,Salisb.,,1812,,"Trans. Hort. Soc. London 1: 335 1812",,,,,,532117-1,wfo-0000762258,2771224,,
+9b72b66e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bryocladium,,,Kunze,Q65400,1830,,"Flora, Jena 13: 370 (1830)",,,,9b72b66e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,661," "
+48e78844-9bac-11eb-a8a2-19ed5c03f8d3,species,amomi,Bryocladium,,"(Berk. & Broome) Kuntze","Q662338,Q1932460,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 447 (1898)",,,,b4887184-9bad-11eb-a8a2-19ed5c03f8d3,,,,,523467," "
+83bdf796-9bac-11eb-a8a2-19ed5c03f8d3,species,maculans,Bryocladium,,Kunze,Q65400,1830,,"Flora, Jena 13: (1830)",,,,83bdf796-9bac-11eb-a8a2-19ed5c03f8d3,,,,,195262," "
+af84e0a6-9bac-11eb-a8a2-19ed5c03f8d3,species,rhacodiodes,Bryocladium,,"(Corda) Kuntze","Q624998,Q62853",,,,,,,8c873414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,527536," Bryocladium rhacodioides"
+48e80350-9bac-11eb-a8a2-19ed5c03f8d3,species,rhacodioides,Bryocladium,,"(Corda) Kuntze","Q624998,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 447 (1898)",,,,8c873414-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523468," rhacodiodes"
+21496cb6-8fcd-11eb-924d-9cd76263cbd0,species,ventricosa,Bryocles,,Salisb.,Q1358261,1812,,"Trans. Hort. Soc. London 1: 335 1812",,,,,,532117-1,wfo-0000762258,2771224,,

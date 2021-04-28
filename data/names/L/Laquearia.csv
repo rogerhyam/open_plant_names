@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-98b548ba-9bad-11eb-a8a2-19ed5c03f8d3,genus,Laquearia,,,Fr.,,1849,,"Summa veg. Scand. (Stockholm), Section Post. 366 (1849)",,,,98b548ba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2640," "
+98b548ba-9bad-11eb-a8a2-19ed5c03f8d3,genus,Laquearia,,,Fr.,Q15405,1849,,"Summa veg. Scand. (Stockholm), Section Post. 366 (1849)",,,,98b548ba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2640," "
 8ba8fea6-9bac-11eb-a8a2-19ed5c03f8d3,species,nylanderi,Laquearia,,"P. Crouan & H. Crouan",,,,,,,,8ba8fea6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,194436," "
-7bfb2758-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaeralis,Laquearia,,"(Fr.) Fr.",,1849,,"Summa veg. Scand. (Stockholm), Section Post. 366 (1849)",,,,4ed31336-9bac-11eb-a8a2-19ed5c03f8d3,,,,,194597," "
-2ba30f42-8fcc-11eb-924d-9cd76263cbd0,species,aquatica,Larbrea,,"(L.) Ser.",,1824,,"Prodr. 1: 395 1824",,,,,,154891-1,wfo-0000360197,3809407,,
-2ba32c02-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Larbrea,,Rchb.,,1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,,wfo-0000360198,3809398,,
-2ba361f4-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Larbrea,,"(Ehrh.) Rchb.",,1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,63da6996-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000360200,3809390,,
-2ba37f68-8fcc-11eb-924d-9cd76263cbd0,species,graminea,Larbrea,,Fuss,,1866,,"Fl. Transsilv. 119 1866",,,,,,154894-1,wfo-0000360201,3809383,,
-2ba39980-8fcc-11eb-924d-9cd76263cbd0,species,linoides,Larbrea,,Opiz,,1852,,"Seznam 57 1852",,,,,,154895-1,wfo-0000360202,3809372,,
-2ba4cabc-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Larbrea,,Fuss,,1866,,"Fl. Transsilv. 118 1866",,,,,,154896-1,wfo-0000360210,3809364,,
-2ba3b9f6-8fcc-11eb-924d-9cd76263cbd0,species,uliginosa,Larbrea,,Rchb.,,1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,,wfo-0000360203,7267226,,
-c546ac1c-8fd1-11eb-924d-9cd76263cbd0,variety,alpina,Larbrea,uliginosa,Schur,,1866,,"Enum. Pl. Transsilv. 115 1866",,,,,,135592-2,wfo-0001263777,3809353,,
+7bfb2758-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaeralis,Laquearia,,"(Fr.) Fr.",Q15405,1849,,"Summa veg. Scand. (Stockholm), Section Post. 366 (1849)",,,,4ed31336-9bac-11eb-a8a2-19ed5c03f8d3,,,,,194597," "
+2ba30f42-8fcc-11eb-924d-9cd76263cbd0,species,aquatica,Larbrea,,"(L.) Ser.","Q1043,Q1385633",1824,,"Prodr. 1: 395 1824",,,,,,154891-1,wfo-0000360197,3809407,,
+2ba32c02-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Larbrea,,Rchb.,Q58053,1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,,wfo-0000360198,3809398,,
+2ba361f4-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Larbrea,,"(Ehrh.) Rchb.","Q123996,Q58053",1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,63da6996-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000360200,3809390,,
+2ba37f68-8fcc-11eb-924d-9cd76263cbd0,species,graminea,Larbrea,,Fuss,Q1176670,1866,,"Fl. Transsilv. 119 1866",,,,,,154894-1,wfo-0000360201,3809383,,
+2ba39980-8fcc-11eb-924d-9cd76263cbd0,species,linoides,Larbrea,,Opiz,Q55069871,1852,,"Seznam 57 1852",,,,,,154895-1,wfo-0000360202,3809372,,
+2ba4cabc-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Larbrea,,Fuss,Q1176670,1866,,"Fl. Transsilv. 118 1866",,,,,,154896-1,wfo-0000360210,3809364,,
+2ba3b9f6-8fcc-11eb-924d-9cd76263cbd0,species,uliginosa,Larbrea,,Rchb.,Q58053,1852,,"Icon. Fl. Germ. Helv. 15: 36 1852",,,,,,,wfo-0000360203,7267226,,
+c546ac1c-8fd1-11eb-924d-9cd76263cbd0,variety,alpina,Larbrea,uliginosa,Schur,Q71649,1866,,"Enum. Pl. Transsilv. 115 1866",,,,,,135592-2,wfo-0001263777,3809353,,

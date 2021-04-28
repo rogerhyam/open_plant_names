@@ -1,16 +1,16 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a202d1bc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calathinus,,,Quél.,,1886,,"Enchir. fung. (Paris) 46 (1886)",,,,a202d1bc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17214," "
-249a32c0-9bac-11eb-a8a2-19ed5c03f8d3,species,applicatus,Calathinus,,"(Batsch) Pat.",,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 51 (1903)",,,,,,,,,102256," "
+249a32c0-9bac-11eb-a8a2-19ed5c03f8d3,species,applicatus,Calathinus,,"(Batsch) Pat.",Q213687,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 51 (1903)",,,,,,,,,102256," "
 4ea7d4a0-9bac-11eb-a8a2-19ed5c03f8d3,species,aratus,Calathinus,,"Pat. & Demange",,1910,,"Bull. Soc. mycol. Fr. 26: 38 (1910)",,,,4ea7d4a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227944," "
 09d6aa72-9bac-11eb-a8a2-19ed5c03f8d3,species,bourdotii,Calathinus,,Quél.,,1886,,"Enchir. fung. (Paris) 46 (1886)",,,,09d6aa72-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227631," "
 56dc02f4-9bac-11eb-a8a2-19ed5c03f8d3,species,calceolus,Calathinus,,"Pat. & Demange",,1910,,"Bull. Soc. mycol. Fr. 26: 39 (1910)",,,,56dc02f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227799," "
-de6c57f0-8fcc-11eb-924d-9cd76263cbd0,species,cernuus,Calathinus,,Raf.,,1838,,"Fl. Tellur. 4: 21 1838",,,,,,63535-1,wfo-0000640446,5326371,,
-4155c4f6-9bac-11eb-a8a2-19ed5c03f8d3,species,mastrucatus,Calathinus,,"(Fr.) Quél.",,1887,,"Compt. Rend. Assoc. Franç. Avancem. Sci. 15: 485 (1887)",,,,5bc8d084-9bad-11eb-a8a2-19ed5c03f8d3,,,,,504614," "
-de6de070-8fcc-11eb-924d-9cd76263cbd0,species,multiflorus,Calathinus,,"(Lam.) Raf.",,1838,,"Fl. Tellur. 4: 21 1838",,,,,,63536-1,wfo-0000640456,5326454,,
-24a1a8de-9bac-11eb-a8a2-19ed5c03f8d3,species,niger,Calathinus,,"(Schwein.) Pat.",,1900,,"Essai Tax. Hyménomyc. (Lons-le-Saunier) 151 (1900)",,,,,,,,,102284," "
+de6c57f0-8fcc-11eb-924d-9cd76263cbd0,species,cernuus,Calathinus,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 21 1838",,,,,,63535-1,wfo-0000640446,5326371,,
+4155c4f6-9bac-11eb-a8a2-19ed5c03f8d3,species,mastrucatus,Calathinus,,"(Fr.) Quél.",Q15405,1887,,"Compt. Rend. Assoc. Franç. Avancem. Sci. 15: 485 (1887)",,,,5bc8d084-9bad-11eb-a8a2-19ed5c03f8d3,,,,,504614," "
+de6de070-8fcc-11eb-924d-9cd76263cbd0,species,multiflorus,Calathinus,,"(Lam.) Raf.","Q82122,Q364857",1838,,"Fl. Tellur. 4: 21 1838",,,,,,63536-1,wfo-0000640456,5326454,,
+24a1a8de-9bac-11eb-a8a2-19ed5c03f8d3,species,niger,Calathinus,,"(Schwein.) Pat.",Q1822110,1900,,"Essai Tax. Hyménomyc. (Lons-le-Saunier) 151 (1900)",,,,,,,,,102284," "
 b588ffea-9bad-11eb-a8a2-19ed5c03f8d3,species,pruinulosus,Calathinus,,"Pat. & Demange",,1910,,"Bull. Soc. mycol. Fr. 26: 38 (1910)",,,,b588ffea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,227779," "
-e8df238e-9bac-11eb-a8a2-19ed5c03f8d3,species,semisupinus,Calathinus,,"(Berk. & Broome) Boedijn",,1940,,"Ann. Jard. Bot. Buitenzorg 16: 404 (1940)",,,,854c4738-9bad-11eb-a8a2-19ed5c03f8d3,,,,,284688," "
-de6f0162-8fcc-11eb-924d-9cd76263cbd0,species,serotinus,Calathinus,,"(L.) Raf.",,1838,,"Fl. Tellur. 4: 21 1838",,,,,,63537-1,wfo-0000640466,5326396,,
-085a71b4-9bad-11eb-a8a2-19ed5c03f8d3,species,striatulus,Calathinus,,"(Pers.) Pat.",,1897,,"Cat. Rais. Pl. Cellul. Tunisie (Paris) 28 (1897)",,,,,,,,,102308," "
+e8df238e-9bac-11eb-a8a2-19ed5c03f8d3,species,semisupinus,Calathinus,,"(Berk. & Broome) Boedijn","Q662338,Q1932460,Q4098011",1940,,"Ann. Jard. Bot. Buitenzorg 16: 404 (1940)",,,,854c4738-9bad-11eb-a8a2-19ed5c03f8d3,,,,,284688," "
+de6f0162-8fcc-11eb-924d-9cd76263cbd0,species,serotinus,Calathinus,,"(L.) Raf.","Q1043,Q364857",1838,,"Fl. Tellur. 4: 21 1838",,,,,,63537-1,wfo-0000640466,5326396,,
+085a71b4-9bad-11eb-a8a2-19ed5c03f8d3,species,striatulus,Calathinus,,"(Pers.) Pat.",Q346451,1897,,"Cat. Rais. Pl. Cellul. Tunisie (Paris) 28 (1897)",,,,,,,,,102308," "
 75416398-9bab-11eb-a8a2-19ed5c03f8d3,species,substriatulus,Calathinus,,Singer,,1943,,"Annls mycol. 40: 156 (1943)",,,,75416398-9bab-11eb-a8a2-19ed5c03f8d3,,,,,293891," "
-f31f5810-9bab-11eb-a8a2-19ed5c03f8d3,species,unguicularis,Calathinus,,"(Fr.) Quél.",,1886,,"Enchir. fung. (Paris) 47 (1886)",,,,c444795c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,491712," "
+f31f5810-9bab-11eb-a8a2-19ed5c03f8d3,species,unguicularis,Calathinus,,"(Fr.) Quél.",Q15405,1886,,"Enchir. fung. (Paris) 47 (1886)",,,,c444795c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,491712," "

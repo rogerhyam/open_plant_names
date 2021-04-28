@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a21cacea-9bad-11eb-a8a2-19ed5c03f8d3,genus,Capnodenia,,,"(Sacc.) Theiss. & Syd.",,,,,,,,,,,,,802," "
-c4b7a246-8fcd-11eb-924d-9cd76263cbd0,species,aureum,Capnodes,,"(Willd.) Kuntze",,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,2bb39966-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001090549,7751337,,
-c4b530c4-8fcd-11eb-924d-9cd76263cbd0,species,bidwellianum,Capnodes,,Greene,,,,,,,,,,,wfo-0001090526,7949006,,
-c4b54f96-8fcd-11eb-924d-9cd76263cbd0,species,caseanum,Capnodes,,Greene,,,,,,,,,,,wfo-0001090527,8060529,,
-c4b568c8-8fcd-11eb-924d-9cd76263cbd0,species,caseanum,Capnodes,,"(A.Gray) Kuntze",,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090528,8144670,,
-c4b62074-8fcd-11eb-924d-9cd76263cbd0,species,crystallinum,Capnodes,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090535,7682007,,
-c4b5ee06-8fcd-11eb-924d-9cd76263cbd0,species,flavulum,Capnodes,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090533,,,
-c4b63c80-8fcd-11eb-924d-9cd76263cbd0,species,halei,Capnodes,,Small,,,,,,,,,,,wfo-0001090536,7623943,,
-c4b59e2e-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorum,Capnodes,,Kuntze,,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090530,7628776,,
+a21cacea-9bad-11eb-a8a2-19ed5c03f8d3,genus,Capnodenia,,,"(Sacc.) Theiss. & Syd.",Q707840,,,,,,,,,,,,802," "
+c4b7a246-8fcd-11eb-924d-9cd76263cbd0,species,aureum,Capnodes,,"(Willd.) Kuntze","Q76353,Q62853",1891,,"Revis. Gen. Pl. 1: 14 1891",,,,2bb39966-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001090549,7751337,,
+c4b530c4-8fcd-11eb-924d-9cd76263cbd0,species,bidwellianum,Capnodes,,Greene,Q2661665,,,,,,,,,,wfo-0001090526,7949006,,
+c4b54f96-8fcd-11eb-924d-9cd76263cbd0,species,caseanum,Capnodes,,Greene,Q2661665,,,,,,,,,,wfo-0001090527,8060529,,
+c4b568c8-8fcd-11eb-924d-9cd76263cbd0,species,caseanum,Capnodes,,"(A.Gray) Kuntze","Q347356,Q62853",1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090528,8144670,,
+c4b62074-8fcd-11eb-924d-9cd76263cbd0,species,crystallinum,Capnodes,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090535,7682007,,
+c4b5ee06-8fcd-11eb-924d-9cd76263cbd0,species,flavulum,Capnodes,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090533,,,
+c4b63c80-8fcd-11eb-924d-9cd76263cbd0,species,halei,Capnodes,,Small,Q2590065,,,,,,,,,,wfo-0001090536,7623943,,
+c4b59e2e-8fcd-11eb-924d-9cd76263cbd0,species,pauciflorum,Capnodes,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 14 1891",,,,,,,wfo-0001090530,7628776,,

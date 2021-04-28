@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfaec54e-8fd1-11eb-924d-9cd76263cbd0,genus,Archboldiodendron,,,Kobuski,,1940,,"J. Arnold Arbor. 21(2): 140. 1940[1940].",,Q100547324,,,,39159-1,wfo-4000002884,7313962,,
-a2e95fa2-8fcc-11eb-924d-9cd76263cbd0,species,calosericeum,Archboldiodendron,,Kobuski,,1940,,"J. Arnold Arbor. 21: 140 1940",,Q100547324,,,,829856-1,wfo-0000543353,7313963,,
-a2e97be0-8fcc-11eb-924d-9cd76263cbd0,subspecies,merrillianum,Archboldiodendron,calosericeum,"(Kobuski) W.R.Barker",,1980,,"Brunonia 3: 54 1980",,Q55756069,,a2e997ec-8fcc-11eb-924d-9cd76263cbd0,,891875-1,wfo-0000543354,3591271,,
-a2e997ec-8fcc-11eb-924d-9cd76263cbd0,species,merrillianum,Archboldiodendron,,Kobuski,,1940,,"J. Arnold Arbor. 21: 143 1940",,Q100547324,,,,829857-1,wfo-0000543355,3591265,,
-3274ffbe-8fc8-11eb-924d-9cd76263cbd0,species,vandersijdei,Archdendron,,Verdc.,,,,,,,,,,,wfo-0000206651,2941262,,
+dfaec54e-8fd1-11eb-924d-9cd76263cbd0,genus,Archboldiodendron,,,Kobuski,Q4225225,1940,,"J. Arnold Arbor. 21(2): 140. 1940[1940].",,Q100547324,,,,39159-1,wfo-4000002884,7313962,,
+a2e95fa2-8fcc-11eb-924d-9cd76263cbd0,species,calosericeum,Archboldiodendron,,Kobuski,Q4225225,1940,,"J. Arnold Arbor. 21: 140 1940",,Q100547324,,,,829856-1,wfo-0000543353,7313963,,
+a2e97be0-8fcc-11eb-924d-9cd76263cbd0,subspecies,merrillianum,Archboldiodendron,calosericeum,"(Kobuski) W.R.Barker","Q4225225,Q21505669",1980,,"Brunonia 3: 54 1980",,Q55756069,,a2e997ec-8fcc-11eb-924d-9cd76263cbd0,,891875-1,wfo-0000543354,3591271,,
+a2e997ec-8fcc-11eb-924d-9cd76263cbd0,species,merrillianum,Archboldiodendron,,Kobuski,Q4225225,1940,,"J. Arnold Arbor. 21: 143 1940",,Q100547324,,,,829857-1,wfo-0000543355,3591265,,
+3274ffbe-8fc8-11eb-924d-9cd76263cbd0,species,vandersijdei,Archdendron,,Verdc.,Q604992,,,,,,,,,,wfo-0000206651,2941262,,

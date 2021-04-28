@@ -1,18 +1,18 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a683cfc0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Psorinia,,,"Gotth. Schneid.",,1980,,"Biblthca Lichenol. 13: 128 (1980)",,,,a683cfc0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4517," "
-32b7d7fe-9bac-11eb-a8a2-19ed5c03f8d3,species,conglomerata,Psorinia,,"(Ach.) Gotth. Schneid.",,1980,,"Biblthca Lichenol. 13: 130 (1980)",,,,a50eea04-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124684," "
-32b8d33e-9bac-11eb-a8a2-19ed5c03f8d3,species,lepidotella,Psorinia,,"(Nyl.) Gotth. Schneid.",,1980,,"Biblthca Lichenol. 13: 133 (1980)",,,,454e997e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124688," "
-d463fb7c-8fc3-11eb-924d-9cd76263cbd0,species,benthamii,Psorobatus,,"(Brandegee) Rydb.",,,,,,,,d46ffd82-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000184849,2967041,,
-c1e76ffe-8fc0-11eb-924d-9cd76263cbd0,species,megacarpus,Psorobatus,,"(S.Watson) Rydb.",,,,,,,,,,,wfo-0000167919,2967045,,
-1bd4b592-8fc3-11eb-924d-9cd76263cbd0,species,amoenum,Psorodendron,,"(S.Watson) Rydb.",,,,,,,,,,1203412-2,wfo-0000181041,2940474,,
-1ac8724c-8fc3-11eb-924d-9cd76263cbd0,species,arborescens,Psorodendron,,"(A.Gray) Rydb.",,,,,,,,,,1154006-2,wfo-0000181018,2940501,,
-1b836d5e-8fc3-11eb-924d-9cd76263cbd0,species,californicum,Psorodendron,,"(S.Watson) Rydb.",,,,,,,,,,1031362-2,wfo-0000181034,2940491,,
-1c3d992c-8fc3-11eb-924d-9cd76263cbd0,species,fremontii,Psorodendron,,"(A.Gray) Rydb.",,,,,,,,,,1150495-2,wfo-0000181050,2940510,,
-d427fe38-8fc3-11eb-924d-9cd76263cbd0,species,johnsonii,Psorodendron,,"(S.Watson) Rydb.",,,,,,,,1c31ee7e-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000184844,2940509,,
-b41bdcb8-8fcd-11eb-924d-9cd76263cbd0,species,kingii,Psorodendron,,"(S.Watson) Rydb.",,1919,,"N. Amer. Fl. 24(1): 42 1919",,,,,,212351-2,wfo-0001052924,3910580,,
-1a824d08-8fc3-11eb-924d-9cd76263cbd0,species,puberulum,Psorodendron,,"(Parish) Rydb.",,,,,,,,,,,wfo-0000181012,2940459,,
-1be02dbe-8fc3-11eb-924d-9cd76263cbd0,species,pubescens,Psorodendron,,"(Parish) Rydb.",,,,,,,,da6e9eb4-8fc8-11eb-924d-9cd76263cbd0,,1218661-2,wfo-0000181042,2940469,,
-1ad464bc-8fc3-11eb-924d-9cd76263cbd0,species,saundersii,Psorodendron,,"(Parish) Rydb.",,,,,,,,1adfeb66-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000181019,2940498,,
-1a8e225e-8fc3-11eb-924d-9cd76263cbd0,species,schottii,Psorodendron,,"(Torr.) Rydb.",,,,,,,,,,1203705-2,wfo-0000181013,2940458,,
-17feb8be-8fc3-11eb-924d-9cd76263cbd0,species,spinosum,Psorodendron,,"(A.Gray) Rydb.",,,,,,,,,,1191709-2,wfo-0000180956,2940452,,
-1b3d4a0e-8fc3-11eb-924d-9cd76263cbd0,species,wheeleri,Psorodendron,,"(Vail) Rydb.",,,,,,,,1b491938-8fc3-11eb-924d-9cd76263cbd0,,1055622-2,wfo-0000181028,2940487,,
+32b7d7fe-9bac-11eb-a8a2-19ed5c03f8d3,species,conglomerata,Psorinia,,"(Ach.) Gotth. Schneid.",Q365923,1980,,"Biblthca Lichenol. 13: 130 (1980)",,,,a50eea04-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124684," "
+32b8d33e-9bac-11eb-a8a2-19ed5c03f8d3,species,lepidotella,Psorinia,,"(Nyl.) Gotth. Schneid.",Q932083,1980,,"Biblthca Lichenol. 13: 133 (1980)",,,,454e997e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,124688," "
+d463fb7c-8fc3-11eb-924d-9cd76263cbd0,species,benthamii,Psorobatus,,"(Brandegee) Rydb.","Q1002345,Q1905130",,,,,,,d46ffd82-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000184849,2967041,,
+c1e76ffe-8fc0-11eb-924d-9cd76263cbd0,species,megacarpus,Psorobatus,,"(S.Watson) Rydb.","Q960820,Q1905130",,,,,,,,,,wfo-0000167919,2967045,,
+1bd4b592-8fc3-11eb-924d-9cd76263cbd0,species,amoenum,Psorodendron,,"(S.Watson) Rydb.","Q960820,Q1905130",,,,,,,,,1203412-2,wfo-0000181041,2940474,,
+1ac8724c-8fc3-11eb-924d-9cd76263cbd0,species,arborescens,Psorodendron,,"(A.Gray) Rydb.","Q347356,Q1905130",,,,,,,,,1154006-2,wfo-0000181018,2940501,,
+1b836d5e-8fc3-11eb-924d-9cd76263cbd0,species,californicum,Psorodendron,,"(S.Watson) Rydb.","Q960820,Q1905130",,,,,,,,,1031362-2,wfo-0000181034,2940491,,
+1c3d992c-8fc3-11eb-924d-9cd76263cbd0,species,fremontii,Psorodendron,,"(A.Gray) Rydb.","Q347356,Q1905130",,,,,,,,,1150495-2,wfo-0000181050,2940510,,
+d427fe38-8fc3-11eb-924d-9cd76263cbd0,species,johnsonii,Psorodendron,,"(S.Watson) Rydb.","Q960820,Q1905130",,,,,,,1c31ee7e-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000184844,2940509,,
+b41bdcb8-8fcd-11eb-924d-9cd76263cbd0,species,kingii,Psorodendron,,"(S.Watson) Rydb.","Q960820,Q1905130",1919,,"N. Amer. Fl. 24(1): 42 1919",,,,,,212351-2,wfo-0001052924,3910580,,
+1a824d08-8fc3-11eb-924d-9cd76263cbd0,species,puberulum,Psorodendron,,"(Parish) Rydb.","Q5487180,Q1905130",,,,,,,,,,wfo-0000181012,2940459,,
+1be02dbe-8fc3-11eb-924d-9cd76263cbd0,species,pubescens,Psorodendron,,"(Parish) Rydb.","Q5487180,Q1905130",,,,,,,da6e9eb4-8fc8-11eb-924d-9cd76263cbd0,,1218661-2,wfo-0000181042,2940469,,
+1ad464bc-8fc3-11eb-924d-9cd76263cbd0,species,saundersii,Psorodendron,,"(Parish) Rydb.","Q5487180,Q1905130",,,,,,,1adfeb66-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000181019,2940498,,
+1a8e225e-8fc3-11eb-924d-9cd76263cbd0,species,schottii,Psorodendron,,"(Torr.) Rydb.","Q1346660,Q1905130",,,,,,,,,1203705-2,wfo-0000181013,2940458,,
+17feb8be-8fc3-11eb-924d-9cd76263cbd0,species,spinosum,Psorodendron,,"(A.Gray) Rydb.","Q347356,Q1905130",,,,,,,,,1191709-2,wfo-0000180956,2940452,,
+1b3d4a0e-8fc3-11eb-924d-9cd76263cbd0,species,wheeleri,Psorodendron,,"(Vail) Rydb.","Q13377797,Q1905130",,,,,,,1b491938-8fc3-11eb-924d-9cd76263cbd0,,1055622-2,wfo-0000181028,2940487,,

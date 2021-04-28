@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7e89730-8fd1-11eb-924d-9cd76263cbd0,genus,Paneroa,,,E.E.Schill.,,,,,,Q55791432,,,,77099023-1,wfo-4000027875,4908360,,
-d45d244c-8fd1-11eb-924d-9cd76263cbd0,species,stachyofolia,Paneroa,,"(B.L.Rob.) E.E.Schill.",,2008,,"Novon 18(4): 520 2008",,Q55791432,,,,77099024-1,wfo-0001286008,7647515,,
-32332616-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolius,Panetos,,"(Michx.) Nieuwl.",,1915,,"Amer. Midl. Naturalist 4: 93 1915",,Q55773019,,,,181407-2,wfo-0000798591,2908113,,
+e7e89730-8fd1-11eb-924d-9cd76263cbd0,genus,Paneroa,,,E.E.Schill.,Q5819979,,,,,Q55791432,,,,77099023-1,wfo-4000027875,4908360,,
+d45d244c-8fd1-11eb-924d-9cd76263cbd0,species,stachyofolia,Paneroa,,"(B.L.Rob.) E.E.Schill.","Q817600,Q5819979",2008,,"Novon 18(4): 520 2008",,Q55791432,,,,77099024-1,wfo-0001286008,7647515,,
+32332616-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolius,Panetos,,"(Michx.) Nieuwl.","Q521848,Q88145",1915,,"Amer. Midl. Naturalist 4: 93 1915",,Q55773019,,,,181407-2,wfo-0000798591,2908113,,

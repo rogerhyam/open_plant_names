@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8d25c26-8fd1-11eb-924d-9cd76263cbd0,genus,Pogonolepis,,,Steetz,,,,,,,,,,10623-1,wfo-4000030578,3097460,,
-0964b04e-8fb2-11eb-924d-9cd76263cbd0,species,lanigera,Pogonolepis,,"(Ewart & Jean White) P.S.Short",,1983,,1983,,,,,,76707-3,wfo-0000006682,3097467,,
-267dfe68-8fb4-11eb-924d-9cd76263cbd0,species,muelleriana,Pogonolepis,,"(Sond.) P.S.Short",,1981,,"Muelleria 4:413 (1981)",,,,,,909591-1,wfo-0000060723,3097461,,
-251df2c8-8fb2-11eb-924d-9cd76263cbd0,species,stricta,Pogonolepis,,Steetz,,1845,,1845,,,,,,76728-3,wfo-0000013372,3097463,,
-f9619bf2-8fcb-11eb-924d-9cd76263cbd0,species,reticulatus,Pogonolobus,,F.Muell.,,1858,,"Fragm. 1: 56 1858",,,,,,760846-1,wfo-0000279613,2893030,,
+e8d25c26-8fd1-11eb-924d-9cd76263cbd0,genus,Pogonolepis,,,Steetz,Q4526861,,,,,,,,,10623-1,wfo-4000030578,3097460,,
+0964b04e-8fb2-11eb-924d-9cd76263cbd0,species,lanigera,Pogonolepis,,"(Ewart & Jean White) P.S.Short","Q614703,Q6171680,Q5814766",1983,,1983,,,,,,76707-3,wfo-0000006682,3097467,,
+267dfe68-8fb4-11eb-924d-9cd76263cbd0,species,muelleriana,Pogonolepis,,"(Sond.) P.S.Short","Q77215,Q5814766",1981,,"Muelleria 4:413 (1981)",,,,,,909591-1,wfo-0000060723,3097461,,
+251df2c8-8fb2-11eb-924d-9cd76263cbd0,species,stricta,Pogonolepis,,Steetz,Q4526861,1845,,1845,,,,,,76728-3,wfo-0000013372,3097463,,
+f9619bf2-8fcb-11eb-924d-9cd76263cbd0,species,reticulatus,Pogonolobus,,F.Muell.,Q708002,1858,,"Fragm. 1: 56 1858",,,,,,760846-1,wfo-0000279613,2893030,,

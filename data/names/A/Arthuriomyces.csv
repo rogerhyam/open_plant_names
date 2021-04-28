@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a1656620-9bad-11eb-a8a2-19ed5c03f8d3,genus,Arthuriomyces,,,"Cummins & Y. Hirats.",,1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 114 (1983)",,,,a1656620-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25784," "
-2d6f9c82-9bac-11eb-a8a2-19ed5c03f8d3,species,peckianus,Arthuriomyces,,"(Howe) Cummins & Y. Hirats.",,1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)",,,,9c469c64-9bac-11eb-a8a2-19ed5c03f8d3,,,,,115098," "
-ab60f212-9bac-11eb-a8a2-19ed5c03f8d3,variety,peckianus,Arthuriomyces,peckianus,"(Howe) Cummins & Y. Hirats.",,1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)",,,,ab60f212-9bac-11eb-a8a2-19ed5c03f8d3,,,,,439506," "
+a1656620-9bad-11eb-a8a2-19ed5c03f8d3,genus,Arthuriomyces,,,"Cummins & Y. Hirats.",Q4211656,1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 114 (1983)",,,,a1656620-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25784," "
+2d6f9c82-9bac-11eb-a8a2-19ed5c03f8d3,species,peckianus,Arthuriomyces,,"(Howe) Cummins & Y. Hirats.","Q21516434,Q4211656",1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)",,,,9c469c64-9bac-11eb-a8a2-19ed5c03f8d3,,,,,115098," "
+ab60f212-9bac-11eb-a8a2-19ed5c03f8d3,variety,peckianus,Arthuriomyces,peckianus,"(Howe) Cummins & Y. Hirats.","Q21516434,Q4211656",1983,,"Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)",,,,ab60f212-9bac-11eb-a8a2-19ed5c03f8d3,,,,,439506," "
 c787385c-9bac-11eb-a8a2-19ed5c03f8d3,variety,verrucosus,Arthuriomyces,peckianus,"N. Zhang",,1997,,"in Zhang, Zhuang & Wei, Mycotaxon 61: 52 (1997)",,,,c787385c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,436950," "
 3ccf59fa-9bad-11eb-a8a2-19ed5c03f8d3,species,potentillae,Arthuriomyces,,Shkarupa,,2002,,"Mikol. Fitopatol. 36(4): 42 (2002)",,,,3ccf59fa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371959," "
 361f3256-9bad-11eb-a8a2-19ed5c03f8d3,species,rubicola,Arthuriomyces,,"J.Y. Zhuang & S.X. Wei",,1993,,"Mycosystema 6: 48 (1993)",,,,361f3256-9bad-11eb-a8a2-19ed5c03f8d3,,,,,361997," "

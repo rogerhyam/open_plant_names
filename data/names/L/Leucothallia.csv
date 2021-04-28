@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a05241ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leucothallia,,,Trevis.,,1853,,"Spighe Paglie 1: 23 (1853)",,,,,,,,,2837," "
-77530d8e-9bac-11eb-a8a2-19ed5c03f8d3,species,macularis,Leucothallia,,"(Wallr.) Trevis.",,1853,,"Spighe Paglie 1: 23 (1853)",,,,511c459e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,534120," "
-775249c6-9bac-11eb-a8a2-19ed5c03f8d3,species,pannosa,Leucothallia,,"(Wallr.) Trevis.",,1853,,"Spighe Paglie 1: 23 (1853)",,,,f8aafa90-9bac-11eb-a8a2-19ed5c03f8d3,,,,,534119," "
-68e3633e-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Leucothamnus,,Lindl.,,1839,,"Sketch Veg. Swan R. 19 1839",,,,,,824183-1,wfo-0000444787,3669289,,
-68e34584-8fcc-11eb-924d-9cd76263cbd0,species,polyspermus,Leucothamnus,,Turcz.,,1849,,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 11 1849",,,,,,824184-1,wfo-0000444786,3669268,,
+a05241ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leucothallia,,,Trevis.,Q634712,1853,,"Spighe Paglie 1: 23 (1853)",,,,,,,,,2837," "
+77530d8e-9bac-11eb-a8a2-19ed5c03f8d3,species,macularis,Leucothallia,,"(Wallr.) Trevis.","Q71374,Q634712",1853,,"Spighe Paglie 1: 23 (1853)",,,,511c459e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,534120," "
+775249c6-9bac-11eb-a8a2-19ed5c03f8d3,species,pannosa,Leucothallia,,"(Wallr.) Trevis.","Q71374,Q634712",1853,,"Spighe Paglie 1: 23 (1853)",,,,f8aafa90-9bac-11eb-a8a2-19ed5c03f8d3,,,,,534119," "
+68e3633e-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Leucothamnus,,Lindl.,Q378629,1839,,"Sketch Veg. Swan R. 19 1839",,,,,,824183-1,wfo-0000444787,3669289,,
+68e34584-8fcc-11eb-924d-9cd76263cbd0,species,polyspermus,Leucothamnus,,Turcz.,Q2640364,1849,,"Bull. Soc. Imp. Naturalistes Moscou 22(2): 11 1849",,,,,,824184-1,wfo-0000444786,3669268,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5e2f642-8fd1-11eb-924d-9cd76263cbd0,genus,Leucosyris,,,Greene,,,,,,,,,,30169823-2,wfo-4000021613,6064306,,
-68e661fa-8fb4-11eb-924d-9cd76263cbd0,species,carnosa,Leucosyris,,"(A.Gray) Greene",,1897,,"Fl. Francisc. 384 1897",,,,f669e8ee-8fb4-11eb-924d-9cd76263cbd0,,139218-2,wfo-0000064632,3096163,,
-aabd3892-8fb4-11eb-924d-9cd76263cbd0,variety,intricata,Leucosyris,carnosa,"(A.Gray) Cronquist",,1994,,"260 1994",,,,,,979389-1,wfo-0000068209,4230502,,
-5ffcae52-8fb2-11eb-924d-9cd76263cbd0,species,spinosa,Leucosyris,,"(Benth.) Greene",,1897,,"Pittonia 3: 244. 1897",,,,,,1057567-2,wfo-0000022472,3133772,,
+e5e2f642-8fd1-11eb-924d-9cd76263cbd0,genus,Leucosyris,,,Greene,Q2661665,,,,,,,,,30169823-2,wfo-4000021613,6064306,,
+68e661fa-8fb4-11eb-924d-9cd76263cbd0,species,carnosa,Leucosyris,,"(A.Gray) Greene","Q347356,Q2661665",1897,,"Fl. Francisc. 384 1897",,,,f669e8ee-8fb4-11eb-924d-9cd76263cbd0,,139218-2,wfo-0000064632,3096163,,
+aabd3892-8fb4-11eb-924d-9cd76263cbd0,variety,intricata,Leucosyris,carnosa,"(A.Gray) Cronquist","Q347356,Q362245",1994,,"260 1994",,,,,,979389-1,wfo-0000068209,4230502,,
+5ffcae52-8fb2-11eb-924d-9cd76263cbd0,species,spinosa,Leucosyris,,"(Benth.) Greene","Q731808,Q2661665",1897,,"Pittonia 3: 244. 1897",,,,,,1057567-2,wfo-0000022472,3133772,,

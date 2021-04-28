@@ -1,20 +1,20 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 16415a78-9bac-11eb-a8a2-19ed5c03f8d3,genus,Meristosporum,,,"A. Massal.",,1860,,"Atti Inst. Veneto Sci. lett., ed Arti, Sér. 3 5: 327 (1860)",,,,16415a78-9bac-11eb-a8a2-19ed5c03f8d3,,,,,3126," "
 8bf37e6c-9bad-11eb-a8a2-19ed5c03f8d3,species,ambiguum,Meristosporum,,,,,,,,,,,,,,,395402," "
-8bf3eaaa-9bad-11eb-a8a2-19ed5c03f8d3,species,chapadense,Meristosporum,,"(Malme) anon.",,,,,,,,872d13d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395403," "
+8bf3eaaa-9bad-11eb-a8a2-19ed5c03f8d3,species,chapadense,Meristosporum,,"(Malme) anon.",Q429017,,,,,,,872d13d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395403," "
 8bedfa5a-9bad-11eb-a8a2-19ed5c03f8d3,species,javanicum,Meristosporum,,"A. Massal.",,1860,,"Atti Inst. Veneto Sci. lett., ed Arti, Sér. 3 5: 327 (1860)",,,,8bedfa5a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395404," "
 8bf54508-9bad-11eb-a8a2-19ed5c03f8d3,species,sanguinarium,Meristosporum,,,,,,,,,,,,,,,395405," "
-2c2fb892-8fcd-11eb-924d-9cd76263cbd0,species,aculeatum,Meristostigma,,"(Sweet) Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439967-1,wfo-0000785240,2746879,,
-2c2f9eca-8fcd-11eb-924d-9cd76263cbd0,species,anceps,Meristostigma,,"(L.f.) A.Dietr.",,1833,,"Sp. Pl. 2: 596 1833",,,,,,439968-1,wfo-0000785239,2746841,,
-2c2dc5be-8fcd-11eb-924d-9cd76263cbd0,species,azureum,Meristostigma,,Steud.,,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439969-1,wfo-0000785222,2746917,,
-2c2f69aa-8fcd-11eb-924d-9cd76263cbd0,species,bracteatum,Meristostigma,,"(Thunb.) A.Dietr.",,1833,,"Sp. Pl. 2: 597 1833",,,,,,439970-1,wfo-0000785237,2746808,,
-2c30f04a-8fcd-11eb-924d-9cd76263cbd0,species,corymbosum,Meristostigma,,"(L.) A.Dietr.",,1833,,"Sp. Pl. 2: 594 1833",,,,,,439971-1,wfo-0000785251,2746923,,
-2c2f337c-8fcd-11eb-924d-9cd76263cbd0,species,fabricii,Meristostigma,,"(D.Delaroche) A.Dietr.",,1833,,"Sp. Pl. 2: 597 1833",,,,2bb691ec-8fcd-11eb-924d-9cd76263cbd0,,439972-1,wfo-0000785235,2746878,,
-2c2f16e4-8fcd-11eb-924d-9cd76263cbd0,species,falcatum,Meristostigma,,"(L.f.) A.Dietr.",,1833,,"Sp. Pl. 2: 594 1833",,,,,,439973-1,wfo-0000785234,2746942,,
-2c2ee19c-8fcd-11eb-924d-9cd76263cbd0,species,fissifolium,Meristostigma,,"(Jacq.) A.Dietr.",,1833,,"Sp. Pl. 2: 595 1833",,,,,,439974-1,wfo-0000785232,2746819,,
-2c2ec7de-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllum,Meristostigma,,"(Willd.) A.Dietr.",,1833,,"Sp. Pl. 2: 595 1833",,,,,,439975-1,wfo-0000785231,2746954,,
-2c2eab5a-8fcd-11eb-924d-9cd76263cbd0,species,junceum,Meristostigma,,"(Pourr.) Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439976-1,wfo-0000785230,2747056,,
-2c2e8ecc-8fcd-11eb-924d-9cd76263cbd0,species,laxum,Meristostigma,,"(Thunb.) A.Dietr.",,1833,,"Sp. Pl. 2: 597 1833",,,,,,439977-1,wfo-0000785229,2747072,,
-2c2e7202-8fcd-11eb-924d-9cd76263cbd0,species,manuleiflorum,Meristostigma,,"(Eckl.) Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439978-1,wfo-0000785228,2746792,,
-2c2e5524-8fcd-11eb-924d-9cd76263cbd0,species,silenoides,Meristostigma,,"(Jacq.) A.Dietr.",,1833,,"Sp. Pl. 2: 596 1833",,,,2e77fb5a-8fcd-11eb-924d-9cd76263cbd0,,439979-1,wfo-0000785227,2746798,,
-2c2e36ac-8fcd-11eb-924d-9cd76263cbd0,species,sparmannii,Meristostigma,,"(Thunb.) Steud.",,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439980-1,wfo-0000785226,2747095,,
+2c2fb892-8fcd-11eb-924d-9cd76263cbd0,species,aculeatum,Meristostigma,,"(Sweet) Steud.","Q2003356,Q62821",1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439967-1,wfo-0000785240,2746879,,
+2c2f9eca-8fcd-11eb-924d-9cd76263cbd0,species,anceps,Meristostigma,,"(L.f.) A.Dietr.","Q178823,Q67968",1833,,"Sp. Pl. 2: 596 1833",,,,,,439968-1,wfo-0000785239,2746841,,
+2c2dc5be-8fcd-11eb-924d-9cd76263cbd0,species,azureum,Meristostigma,,Steud.,Q62821,1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439969-1,wfo-0000785222,2746917,,
+2c2f69aa-8fcd-11eb-924d-9cd76263cbd0,species,bracteatum,Meristostigma,,"(Thunb.) A.Dietr.","Q39658,Q67968",1833,,"Sp. Pl. 2: 597 1833",,,,,,439970-1,wfo-0000785237,2746808,,
+2c30f04a-8fcd-11eb-924d-9cd76263cbd0,species,corymbosum,Meristostigma,,"(L.) A.Dietr.","Q1043,Q67968",1833,,"Sp. Pl. 2: 594 1833",,,,,,439971-1,wfo-0000785251,2746923,,
+2c2f337c-8fcd-11eb-924d-9cd76263cbd0,species,fabricii,Meristostigma,,"(D.Delaroche) A.Dietr.","Q121955,Q67968",1833,,"Sp. Pl. 2: 597 1833",,,,2bb691ec-8fcd-11eb-924d-9cd76263cbd0,,439972-1,wfo-0000785235,2746878,,
+2c2f16e4-8fcd-11eb-924d-9cd76263cbd0,species,falcatum,Meristostigma,,"(L.f.) A.Dietr.","Q178823,Q67968",1833,,"Sp. Pl. 2: 594 1833",,,,,,439973-1,wfo-0000785234,2746942,,
+2c2ee19c-8fcd-11eb-924d-9cd76263cbd0,species,fissifolium,Meristostigma,,"(Jacq.) A.Dietr.","Q84497,Q67968",1833,,"Sp. Pl. 2: 595 1833",,,,,,439974-1,wfo-0000785232,2746819,,
+2c2ec7de-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllum,Meristostigma,,"(Willd.) A.Dietr.","Q76353,Q67968",1833,,"Sp. Pl. 2: 595 1833",,,,,,439975-1,wfo-0000785231,2746954,,
+2c2eab5a-8fcd-11eb-924d-9cd76263cbd0,species,junceum,Meristostigma,,"(Pourr.) Steud.","Q78472,Q62821",1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439976-1,wfo-0000785230,2747056,,
+2c2e8ecc-8fcd-11eb-924d-9cd76263cbd0,species,laxum,Meristostigma,,"(Thunb.) A.Dietr.","Q39658,Q67968",1833,,"Sp. Pl. 2: 597 1833",,,,,,439977-1,wfo-0000785229,2747072,,
+2c2e7202-8fcd-11eb-924d-9cd76263cbd0,species,manuleiflorum,Meristostigma,,"(Eckl.) Steud.","Q643765,Q62821",1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439978-1,wfo-0000785228,2746792,,
+2c2e5524-8fcd-11eb-924d-9cd76263cbd0,species,silenoides,Meristostigma,,"(Jacq.) A.Dietr.","Q84497,Q67968",1833,,"Sp. Pl. 2: 596 1833",,,,2e77fb5a-8fcd-11eb-924d-9cd76263cbd0,,439979-1,wfo-0000785227,2746798,,
+2c2e36ac-8fcd-11eb-924d-9cd76263cbd0,species,sparmannii,Meristostigma,,"(Thunb.) Steud.","Q39658,Q62821",1841,,"Nomencl. Bot. ed. 2, 2: 130 1841",,,,,,439980-1,wfo-0000785226,2747095,,

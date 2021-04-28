@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea209c96-8fd1-11eb-924d-9cd76263cbd0,genus,Schroeterella,,,Herzog,,1922,,"Annls mycol. 20(3/4): 119 (1922)",,,,ea209c96-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000034600,2680588,16306," "
+ea209c96-8fd1-11eb-924d-9cd76263cbd0,genus,Schroeterella,,,Herzog,Q98278,1922,,"Annls mycol. 20(3/4): 119 (1922)",,,,ea209c96-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000034600,2680588,16306," "
 060e0f42-9bad-11eb-a8a2-19ed5c03f8d3,species,celakorskyana,Schroeterella,,"(Bubák) Syd.",,,,,,,,731d51ee-9bab-11eb-a8a2-19ed5c03f8d3,,,,,180245," Schroeterella celakovskyana"
 c848a424-9bac-11eb-a8a2-19ed5c03f8d3,species,celakovskyana,Schroeterella,,"(Bubák) Syd.",,1922,,"Annls mycol. 20(3/4): 119 (1922)",,,,731d51ee-9bab-11eb-a8a2-19ed5c03f8d3,,,,,505432," "
-8a792894-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Schroeterella,,Briq.,,1925,,"Veröff. Geobot. Inst. Rübel Zürich 3: 663 1925",,,,,,230019-2,wfo-0000502009,5635266,,
-de507cbe-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Schroeterella,,"(Cav.) Briq.",,1925,,"Veroff. Geobot. Inst. Rubel. 3: 663 1925",,,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,,230020-2,wfo-0001146332,7285890,,
-c471150c-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Schroeterella,,Briq.,,,,,,,,,,873373-1,wfo-0001262243,7285886,,
-82d77b18-9bac-11eb-a8a2-19ed5c03f8d3,species,stachydis,Schroeterella,,"(DC.) Syd.",,1922,,"Annls mycol. 20(3): 119 (1922)",,,,4cba820a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,180163," "
-c67729b8-8fd1-11eb-924d-9cd76263cbd0,species,tridentata,Schroeterella,,"(Sessé & Moc. ex DC.) Briq.",,1925,,"Veröff. Geobot. Inst. Rübel Zürich 3: 664 1925",,,,,,230026-2,wfo-0001265922,5635236,,
-ebe0ba74-8fcd-11eb-924d-9cd76263cbd0,species,zygodonta,Schroeterella,,Herzog,,1916,,"Biblioth. Bot. 87: 157. 7 f. 3 1916",,,,,,,wfo-0001175302,5283540,,
+8a792894-8fcc-11eb-924d-9cd76263cbd0,species,cuneifolia,Schroeterella,,Briq.,Q746034,1925,,"Veröff. Geobot. Inst. Rübel Zürich 3: 663 1925",,,,,,230019-2,wfo-0000502009,5635266,,
+de507cbe-8fcd-11eb-924d-9cd76263cbd0,species,divaricata,Schroeterella,,"(Cav.) Briq.","Q545430,Q746034",1925,,"Veroff. Geobot. Inst. Rubel. 3: 663 1925",,,,de4de2e2-8fcd-11eb-924d-9cd76263cbd0,,230020-2,wfo-0001146332,7285890,,
+c471150c-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Schroeterella,,Briq.,Q746034,,,,,,,,,873373-1,wfo-0001262243,7285886,,
+82d77b18-9bac-11eb-a8a2-19ed5c03f8d3,species,stachydis,Schroeterella,,"(DC.) Syd.",Q123057,1922,,"Annls mycol. 20(3): 119 (1922)",,,,4cba820a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,180163," "
+c67729b8-8fd1-11eb-924d-9cd76263cbd0,species,tridentata,Schroeterella,,"(Sessé & Moc. ex DC.) Briq.","Q2983613,Q2983655,Q123057,Q746034",1925,,"Veröff. Geobot. Inst. Rübel Zürich 3: 664 1925",,,,,,230026-2,wfo-0001265922,5635236,,
+ebe0ba74-8fcd-11eb-924d-9cd76263cbd0,species,zygodonta,Schroeterella,,Herzog,Q98278,1916,,"Biblioth. Bot. 87: 157. 7 f. 3 1916",,,,,,,wfo-0001175302,5283540,,

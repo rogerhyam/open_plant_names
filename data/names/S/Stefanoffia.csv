@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eab743b2-8fd1-11eb-924d-9cd76263cbd0,genus,Stefanoffia,,,H.Wolff,,1925,,"Notizbl. Bot. Gart. Berlin–Dahlem 9: 282. 1925.",,,,,,,wfo-4000036345,6027026,,
-5ffb8670-8fcc-11eb-924d-9cd76263cbd0,species,aurea,Stefanoffia,,"(Boiss.) Pimenov & Kljuykov",,1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 271 1980",,Q102418475,,,,849202-1,wfo-0000431250,3637644,,
-5ffba89e-8fcc-11eb-924d-9cd76263cbd0,species,daucoides,Stefanoffia,,"(Boiss.) H.Wolff",,1925,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 282 1925",,Q55777172,,,,849203-1,wfo-0000431251,3637639,,
-5ffbf0a6-8fcc-11eb-924d-9cd76263cbd0,species,insoluta,Stefanoffia,,Kljuykov,,1986,,"Novosti Sist. Vyssh. Rast. 23: 90 1986",,,,,,931316-1,wfo-0000431253,3637631,,
+eab743b2-8fd1-11eb-924d-9cd76263cbd0,genus,Stefanoffia,,,H.Wolff,Q4124761,1925,,"Notizbl. Bot. Gart. Berlin–Dahlem 9: 282. 1925.",,,,,,,wfo-4000036345,6027026,,
+5ffb8670-8fcc-11eb-924d-9cd76263cbd0,species,aurea,Stefanoffia,,"(Boiss.) Pimenov & Kljuykov","Q34430,Q6012784,Q18619790",1980,,"Notes Roy. Bot. Gard. Edinburgh 38: 271 1980",,Q102418475,,,,849202-1,wfo-0000431250,3637644,,
+5ffba89e-8fcc-11eb-924d-9cd76263cbd0,species,daucoides,Stefanoffia,,"(Boiss.) H.Wolff","Q34430,Q4124761",1925,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 282 1925",,Q55777172,,,,849203-1,wfo-0000431251,3637639,,
+5ffbf0a6-8fcc-11eb-924d-9cd76263cbd0,species,insoluta,Stefanoffia,,Kljuykov,Q18619790,1986,,"Novosti Sist. Vyssh. Rast. 23: 90 1986",,,,,,931316-1,wfo-0000431253,3637631,,

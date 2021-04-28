@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df1b2910-8fd1-11eb-924d-9cd76263cbd0,genus,Allocaryastrum,,,Brand,,1931,,"Pflanzenr. 97[IV,252]: 99–101. 1931.",,,,,,,wfo-4000001269,7294707,,
-98d54af8-8fcc-11eb-924d-9cd76263cbd0,species,allocaryoides,Allocaryastrum,,"(A.Gray) Brand",,1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9074-2,wfo-0000526417,4061079,,
-98d56b28-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Allocaryastrum,,"(A.Gray) Brand",,1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9075-2,wfo-0000526418,4061058,,
-98d59b20-8fcc-11eb-924d-9cd76263cbd0,species,collinum,Allocaryastrum,,"(Phil.) Brand",,1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9076-2,wfo-0000526419,4061043,,
-98d5cc08-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Allocaryastrum,,"(I.M.Johnst.) Brand",,1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9077-2,wfo-0000526420,4061024,,
-98d5fe94-8fcc-11eb-924d-9cd76263cbd0,species,ursinum,Allocaryastrum,,"(A.Gray) Brand",,1931,,"Pflanzenr. IV, 252(97): 101 1931",,,,,,9078-2,wfo-0000526421,7294708,,
+df1b2910-8fd1-11eb-924d-9cd76263cbd0,genus,Allocaryastrum,,,Brand,Q15975618,1931,,"Pflanzenr. 97[IV,252]: 99–101. 1931.",,,,,,,wfo-4000001269,7294707,,
+98d54af8-8fcc-11eb-924d-9cd76263cbd0,species,allocaryoides,Allocaryastrum,,"(A.Gray) Brand","Q347356,Q15975618",1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9074-2,wfo-0000526417,4061079,,
+98d56b28-8fcc-11eb-924d-9cd76263cbd0,species,californicum,Allocaryastrum,,"(A.Gray) Brand","Q347356,Q15975618",1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9075-2,wfo-0000526418,4061058,,
+98d59b20-8fcc-11eb-924d-9cd76263cbd0,species,collinum,Allocaryastrum,,"(Phil.) Brand","Q214994,Q15975618",1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9076-2,wfo-0000526419,4061043,,
+98d5cc08-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Allocaryastrum,,"(I.M.Johnst.) Brand","Q729850,Q15975618",1931,,"Pflanzenr. IV, 252(97): 100 1931",,,,,,9077-2,wfo-0000526420,4061024,,
+98d5fe94-8fcc-11eb-924d-9cd76263cbd0,species,ursinum,Allocaryastrum,,"(A.Gray) Brand","Q347356,Q15975618",1931,,"Pflanzenr. IV, 252(97): 101 1931",,,,,,9078-2,wfo-0000526421,7294708,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea5bb196-8fd1-11eb-924d-9cd76263cbd0,genus,Sibbaldianthe,,,Juz.,,1941,,"Fl. URSS 10: 615. 1941.",,,,,,34030-1,wfo-4000035277,3000722,,
-9f040e5e-8fcd-11eb-924d-9cd76263cbd0,species,adpressa,Sibbaldianthe,,"(Bunge) Juz.",,1934,,"Flora USSR ; 1934 230 1941",,,,931eb6ca-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001007967,3025017,,
-9dbaaabc-8fcd-11eb-924d-9cd76263cbd0,species,bifurca,Sibbaldianthe,,"(L.) Kurtto & T.Erikss.",,2003,,"; 2003 139 2003",,Q42899091,,9695f75a-8fcd-11eb-924d-9cd76263cbd0,,20012673-1,wfo-0001005502,3000723,,
-9dbb3e8c-8fcd-11eb-924d-9cd76263cbd0,subspecies,orientalis,Sibbaldianthe,bifurca,"(Juz.) Kurtto & T.Erikss.",,2003,,"; 2003 139 2003",,Q42899091,,93511aac-8fcd-11eb-924d-9cd76263cbd0,,20012674-1,wfo-0001005504,3000727,,
-93b1fe30-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Sibbaldianthe,,Grubov,,1955,,"; 1955 16 1955",,,,,,741500-1,wfo-0000984754,3025008,,
+ea5bb196-8fd1-11eb-924d-9cd76263cbd0,genus,Sibbaldianthe,,,Juz.,Q3479734,1941,,"Fl. URSS 10: 615. 1941.",,,,,,34030-1,wfo-4000035277,3000722,,
+9f040e5e-8fcd-11eb-924d-9cd76263cbd0,species,adpressa,Sibbaldianthe,,"(Bunge) Juz.","Q65899,Q3479734",1934,,"Flora USSR ; 1934 230 1941",,,,931eb6ca-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001007967,3025017,,
+9dbaaabc-8fcd-11eb-924d-9cd76263cbd0,species,bifurca,Sibbaldianthe,,"(L.) Kurtto & T.Erikss.","Q1043,Q18986716,Q33670814",2003,,"; 2003 139 2003",,Q42899091,,9695f75a-8fcd-11eb-924d-9cd76263cbd0,,20012673-1,wfo-0001005502,3000723,,
+9dbb3e8c-8fcd-11eb-924d-9cd76263cbd0,subspecies,orientalis,Sibbaldianthe,bifurca,"(Juz.) Kurtto & T.Erikss.","Q3479734,Q18986716,Q33670814",2003,,"; 2003 139 2003",,Q42899091,,93511aac-8fcd-11eb-924d-9cd76263cbd0,,20012674-1,wfo-0001005504,3000727,,
+93b1fe30-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Sibbaldianthe,,Grubov,Q10392986,1955,,"; 1955 16 1955",,,,,,741500-1,wfo-0000984754,3025008,,

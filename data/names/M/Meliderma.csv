@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a07fce94-9bad-11eb-a8a2-19ed5c03f8d3,genus,Meliderma,,,Velen.,,1920,,"Ceské Houby 2: 399 (1920)",,,,a07fce94-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18038," "
-d7ea92de-9bac-11eb-a8a2-19ed5c03f8d3,species,crassum,Meliderma,,"(Fr.) Velen.",,1920,,"Ceské Houby 2: 400 (1920)",,,,,,,,,262229," "
-df603258-9bac-11eb-a8a2-19ed5c03f8d3,species,mussivum,Meliderma,,"(Fr.) Velen.",,1920,,"Ceské Houby 2: 399 (1920)",,,,7f466012-9bad-11eb-a8a2-19ed5c03f8d3,,,,,271904," "
-3526fc9a-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Melidiscus,,"(L.) Raf.",,1838,,"Sylva Tellur. 110 1838",,,,,,147808-1,wfo-0000375805,3873199,,
-d3bef7c2-8fd1-11eb-924d-9cd76263cbd0,species,viridiflorus,Melidiscus,,"(Schreb.) Raf.",,1838,,"Sylva Tellur. 110 1838",,,,,,,wfo-0001285057,7833569,,
+a07fce94-9bad-11eb-a8a2-19ed5c03f8d3,genus,Meliderma,,,Velen.,Q950581,1920,,"Ceské Houby 2: 399 (1920)",,,,a07fce94-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18038," "
+d7ea92de-9bac-11eb-a8a2-19ed5c03f8d3,species,crassum,Meliderma,,"(Fr.) Velen.","Q15405,Q950581",1920,,"Ceské Houby 2: 400 (1920)",,,,,,,,,262229," "
+df603258-9bac-11eb-a8a2-19ed5c03f8d3,species,mussivum,Meliderma,,"(Fr.) Velen.","Q15405,Q950581",1920,,"Ceské Houby 2: 399 (1920)",,,,7f466012-9bad-11eb-a8a2-19ed5c03f8d3,,,,,271904," "
+3526fc9a-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Melidiscus,,"(L.) Raf.","Q1043,Q364857",1838,,"Sylva Tellur. 110 1838",,,,,,147808-1,wfo-0000375805,3873199,,
+d3bef7c2-8fd1-11eb-924d-9cd76263cbd0,species,viridiflorus,Melidiscus,,"(Schreb.) Raf.","Q162688,Q364857",1838,,"Sylva Tellur. 110 1838",,,,,,,wfo-0001285057,7833569,,

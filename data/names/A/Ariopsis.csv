@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfbc9caa-8fd1-11eb-924d-9cd76263cbd0,genus,Ariopsis,,,Nimmo,,1839,,"Cat. Pl. Bombay 252. 1839.",,,,,,2704-1,wfo-4000003042,2873684,,
-c1dab3d8-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Ariopsis,,"Roem. & Schult.",,1817,,"Syst. Veg. 2: 578 1817",,,,,,,wfo-0001084283,8320661,,
-f2bec900-8fcb-11eb-924d-9cd76263cbd0,species,peltata,Ariopsis,,Nimmo,,1839,,"Cat. Pl. Bombay 252 1839",,,,,,,wfo-0000269209,5331087,,
-f2c54b54-8fcb-11eb-924d-9cd76263cbd0,form,protanthera,Ariopsis,peltata,"(N.E.Br.) Engl. & K.Krause",,1920,,"Pflanzenr. IV, 23E: 130 1920",,,,f2c7a7c8-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000269230,5331086,,
-f2c7a7c8-8fcb-11eb-924d-9cd76263cbd0,species,protanthera,Ariopsis,,N.E.Br.,,1877,,"Rep. Roy. Bot. Gard. Kew 1877: 51 1877",,,,,,85550-1,wfo-0000269241,5331085,,
+dfbc9caa-8fd1-11eb-924d-9cd76263cbd0,genus,Ariopsis,,,Nimmo,Q3185412,1839,,"Cat. Pl. Bombay 252. 1839.",,,,,,2704-1,wfo-4000003042,2873684,,
+c1dab3d8-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Ariopsis,,"Roem. & Schult.","Q115659,Q78881",1817,,"Syst. Veg. 2: 578 1817",,,,,,,wfo-0001084283,8320661,,
+f2bec900-8fcb-11eb-924d-9cd76263cbd0,species,peltata,Ariopsis,,Nimmo,Q3185412,1839,,"Cat. Pl. Bombay 252 1839",,,,,,,wfo-0000269209,5331087,,
+f2c54b54-8fcb-11eb-924d-9cd76263cbd0,form,protanthera,Ariopsis,peltata,"(N.E.Br.) Engl. & K.Krause","Q721850,Q60718,Q5961003",1920,,"Pflanzenr. IV, 23E: 130 1920",,,,f2c7a7c8-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000269230,5331086,,
+f2c7a7c8-8fcb-11eb-924d-9cd76263cbd0,species,protanthera,Ariopsis,,N.E.Br.,Q721850,1877,,"Rep. Roy. Bot. Gard. Kew 1877: 51 1877",,,,,,85550-1,wfo-0000269241,5331085,,

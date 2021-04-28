@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb4fcd6c-8fd1-11eb-924d-9cd76263cbd0,genus,Thornea,,,"Breedlove & E.M.McClint.",,1976,,"Madroño 23(7): 369–370. 1976. (1 Jul 1976)",,Q93963927,,,,298614-2,wfo-4000038255,7330029,,
-da6e0054-8fd1-11eb-924d-9cd76263cbd0,species,calcicola,Thornea,,"(Standl. & Steyerm.) Breedlove & E.M.McClint.",,1976,,"Madroño 23(7): 370–371, f. 2 1976",,Q93963927,,,,434073-1,wfo-0001296067,3712069,,
-da6e20de-8fd1-11eb-924d-9cd76263cbd0,species,matudae,Thornea,,"(Lundell) Breedlove & E.M.McClint.",,1976,,"Madroño 23(7): 370 1976",,Q93963927,,,,252732-2,wfo-0001296068,3712058,,
-1549ee46-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Thorvaldsenia,,Liebm.,,1844,,"Bot. Not. 1844: 103 1844",,,,,,660116-1,wfo-0000323176,2813056,,
+eb4fcd6c-8fd1-11eb-924d-9cd76263cbd0,genus,Thornea,,,"Breedlove & E.M.McClint.","Q2479753,Q5363183",1976,,"Madroño 23(7): 369–370. 1976. (1 Jul 1976)",,Q93963927,,,,298614-2,wfo-4000038255,7330029,,
+da6e0054-8fd1-11eb-924d-9cd76263cbd0,species,calcicola,Thornea,,"(Standl. & Steyerm.) Breedlove & E.M.McClint.","Q1333160,Q250148,Q2479753,Q5363183",1976,,"Madroño 23(7): 370–371, f. 2 1976",,Q93963927,,,,434073-1,wfo-0001296067,3712069,,
+da6e20de-8fd1-11eb-924d-9cd76263cbd0,species,matudae,Thornea,,"(Lundell) Breedlove & E.M.McClint.","Q3009490,Q2479753,Q5363183",1976,,"Madroño 23(7): 370 1976",,Q93963927,,,,252732-2,wfo-0001296068,3712058,,
+1549ee46-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Thorvaldsenia,,Liebm.,Q1335154,1844,,"Bot. Not. 1844: 103 1844",,,,,,660116-1,wfo-0000323176,2813056,,

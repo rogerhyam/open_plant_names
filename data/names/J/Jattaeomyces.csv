@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-0aca8cfa-9bac-11eb-a8a2-19ed5c03f8d3,genus,Jattaeomyces,,,"Cif. & Tomas.",,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 34, 61 (1953)",,,,0aca8cfa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,2530," "
-edb4ac86-9bab-11eb-a8a2-19ed5c03f8d3,species,pyrenastrellae,Jattaeomyces,,"Cif. & Tomas.",,1954,,"Atti Ist. bot. Univ. Lab. crittog. Pavia 10: 264 (1954)",,,,edb4ac86-9bab-11eb-a8a2-19ed5c03f8d3,,,,,366698," "
-edd06062-8fca-11eb-924d-9cd76263cbd0,species,grandis,Jatus,,"(L.f.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 508 1891",,,,,,863102-1,wfo-0000220079,3896702,,
-edde29fe-8fca-11eb-924d-9cd76263cbd0,species,hamiltonianus,Jatus,,"(Wall.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 508 1891",,,,f6545ec6-8fcc-11eb-924d-9cd76263cbd0,,863103-1,wfo-0000220080,3896694,,
-edec4048-8fca-11eb-924d-9cd76263cbd0,species,philippinensis,Jatus,,"(Benth. & Hook.f.) Kuntze",,1891,,"Revis. Gen. Pl. 2: 508 1891",,,,1418d7bc-8fcc-11eb-924d-9cd76263cbd0,,863104-1,wfo-0000220081,3896686,,
+0aca8cfa-9bac-11eb-a8a2-19ed5c03f8d3,genus,Jattaeomyces,,,"Cif. & Tomas.",Q4516707,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 34, 61 (1953)",,,,0aca8cfa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,2530," "
+edb4ac86-9bab-11eb-a8a2-19ed5c03f8d3,species,pyrenastrellae,Jattaeomyces,,"Cif. & Tomas.",Q4516707,1954,,"Atti Ist. bot. Univ. Lab. crittog. Pavia 10: 264 (1954)",,,,edb4ac86-9bab-11eb-a8a2-19ed5c03f8d3,,,,,366698," "
+edd06062-8fca-11eb-924d-9cd76263cbd0,species,grandis,Jatus,,"(L.f.) Kuntze","Q178823,Q62853",1891,,"Revis. Gen. Pl. 2: 508 1891",,,,,,863102-1,wfo-0000220079,3896702,,
+edde29fe-8fca-11eb-924d-9cd76263cbd0,species,hamiltonianus,Jatus,,"(Wall.) Kuntze","Q730310,Q62853",1891,,"Revis. Gen. Pl. 2: 508 1891",,,,f6545ec6-8fcc-11eb-924d-9cd76263cbd0,,863103-1,wfo-0000220080,3896694,,
+edec4048-8fca-11eb-924d-9cd76263cbd0,species,philippinensis,Jatus,,"(Benth. & Hook.f.) Kuntze","Q731808,Q157501,Q62853",1891,,"Revis. Gen. Pl. 2: 508 1891",,,,1418d7bc-8fcc-11eb-924d-9cd76263cbd0,,863104-1,wfo-0000220081,3896686,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0ff5120-8fd1-11eb-924d-9cd76263cbd0,genus,Calibanus,,,Rose,,1906,,"Contr. U.S. Natl. Herb. 10: 90. 1906. (5 Dec 1906)",,,,,,,wfo-4000006018,2776511,,
-2177ae50-8fcd-11eb-924d-9cd76263cbd0,species,caespitosus,Calibanus,,"(Scheidw.) Rose",,1906,,"Contr. U. S. Natl. Herb. 10: 90 1906",,Q14755225,,,,42047-2,wfo-0000762642,5304720,,
-2177cc46-8fcd-11eb-924d-9cd76263cbd0,species,glassianus,Calibanus,,"L.Hern. & Zamudio",,2003,,"Brittonia 55: 228 2003",,Q55764173,,,,327809-2,wfo-0000762643,5304721,,
-2177eb40-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Calibanus,,"(Lem.) Trel.",,1911,,"Proc. Amer. Philos. Soc. 50: 426 1911",,,,,,42048-2,wfo-0000762644,5304719,,
+e0ff5120-8fd1-11eb-924d-9cd76263cbd0,genus,Calibanus,,,Rose,Q1336049,1906,,"Contr. U.S. Natl. Herb. 10: 90. 1906. (5 Dec 1906)",,,,,,,wfo-4000006018,2776511,,
+2177ae50-8fcd-11eb-924d-9cd76263cbd0,species,caespitosus,Calibanus,,"(Scheidw.) Rose","Q2268288,Q1336049",1906,,"Contr. U. S. Natl. Herb. 10: 90 1906",,Q14755225,,,,42047-2,wfo-0000762642,5304720,,
+2177cc46-8fcd-11eb-924d-9cd76263cbd0,species,glassianus,Calibanus,,"L.Hern. & Zamudio","Q5983658,Q6125684",2003,,"Brittonia 55: 228 2003",,Q55764173,,,,327809-2,wfo-0000762643,5304721,,
+2177eb40-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Calibanus,,"(Lem.) Trel.","Q942880,Q1380171",1911,,"Proc. Amer. Philos. Soc. 50: 426 1911",,,,,,42048-2,wfo-0000762644,5304719,,

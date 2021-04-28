@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e30dff20-8fd1-11eb-924d-9cd76263cbd0,genus,Drymoda,,,Lindl.,,1838,,"Sert. Orchid. t. 8. 1838.",,,,,,,wfo-4000012628,2835820,,
-81ccf7d8-8fcd-11eb-924d-9cd76263cbd0,species,digitata,Drymoda,,"(J.J.Sm.) Garay, Hamer & Siegerist",,1994,,"Nordic J. Bot. 14: 641 1994",,Q55761614,,,,981144-1,wfo-0000946311,2835823,,
-81cd1308-8fcd-11eb-924d-9cd76263cbd0,species,gymnopus,Drymoda,,"(Hook.f.) Garay, Hamer & Siegerist",,1994,,"Nordic J. Bot. 14: 641 1994",,Q55761614,,8d8e275a-8fcc-11eb-924d-9cd76263cbd0,,981145-1,wfo-0000946312,2844915,,
-81cd2cc6-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Drymoda,,Seidenf.,,1981,,"Nordic J. Bot. 1: 212 1981",,Q55761056,,,,897650-1,wfo-0000946313,2843533,,
-81cd49ae-8fcd-11eb-924d-9cd76263cbd0,species,picta,Drymoda,,Lindl.,,1838,,"Sert. Orchid. t. 8 C 1838",,,,,,630652-1,wfo-0000946314,2835822,,
-81cd645c-8fcd-11eb-924d-9cd76263cbd0,species,siamensis,Drymoda,,Schltr.,,1906,,"Repert. Spec. Nov. Regni Veg. 2: 170 1906",,Q55750640,,,,630653-1,wfo-0000946315,2835821,,
+e30dff20-8fd1-11eb-924d-9cd76263cbd0,genus,Drymoda,,,Lindl.,Q378629,1838,,"Sert. Orchid. t. 8. 1838.",,,,,,,wfo-4000012628,2835820,,
+81ccf7d8-8fcd-11eb-924d-9cd76263cbd0,species,digitata,Drymoda,,"(J.J.Sm.) Garay, Hamer & Siegerist","Q770032,Q2937426,Q5869695,Q21387844",1994,,"Nordic J. Bot. 14: 641 1994",,Q55761614,,,,981144-1,wfo-0000946311,2835823,,
+81cd1308-8fcd-11eb-924d-9cd76263cbd0,species,gymnopus,Drymoda,,"(Hook.f.) Garay, Hamer & Siegerist","Q157501,Q2937426,Q5869695,Q21387844",1994,,"Nordic J. Bot. 14: 641 1994",,Q55761614,,8d8e275a-8fcc-11eb-924d-9cd76263cbd0,,981145-1,wfo-0000946312,2844915,,
+81cd2cc6-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Drymoda,,Seidenf.,Q606100,1981,,"Nordic J. Bot. 1: 212 1981",,Q55761056,,,,897650-1,wfo-0000946313,2843533,,
+81cd49ae-8fcd-11eb-924d-9cd76263cbd0,species,picta,Drymoda,,Lindl.,Q378629,1838,,"Sert. Orchid. t. 8 C 1838",,,,,,630652-1,wfo-0000946314,2835822,,
+81cd645c-8fcd-11eb-924d-9cd76263cbd0,species,siamensis,Drymoda,,Schltr.,Q62278,1906,,"Repert. Spec. Nov. Regni Veg. 2: 170 1906",,Q55750640,,,,630653-1,wfo-0000946315,2835821,,

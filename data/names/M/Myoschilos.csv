@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6fe39ce-8fd1-11eb-924d-9cd76263cbd0,genus,Myoschilos,,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 41. 1794. (early Oct 1794)",,,,,,36218-1,wfo-4000025089,7265261,,
-b67bcc58-8fd1-11eb-924d-9cd76263cbd0,species,angustata,Myoschilos,,Phil.,,1889,,"Nat. Pflanzenfam. 3(1): 218 1889",,,,,,,wfo-0001236418,7685088,,
-6deb4464-8fcc-11eb-924d-9cd76263cbd0,species,angustus,Myoschilos,,Phil.,,1889,,"Nat. Pflanzenfam. 3(1): 218 1889",,,,,,165270-2,wfo-0000453685,3789281,,
-b67beda0-8fd1-11eb-924d-9cd76263cbd0,variety,angustata,Myoschilos,oblonga,"(Phil.) Macloskie",,,,,,,,b67bcc58-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001236419,8333188,,
-6db7c7ec-8fcc-11eb-924d-9cd76263cbd0,species,oblongum,Myoschilos,,"Ruiz & Pav.",,1798,,"Syst. Veg. Fl. Peruv. Chil. 73 1798",,,,,,780459-1,wfo-0000453329,3789275,,
-72100346-8fb2-11eb-924d-9cd76263cbd0,species,purpurea,Myoseris,,"(Willd.) Link",,1822,,"Enum. Hort. Berol. ii. 291 (1822).",,,,,,,wfo-0000024773,4215881,,
+e6fe39ce-8fd1-11eb-924d-9cd76263cbd0,genus,Myoschilos,,,"Ruiz & Pav.","Q733976,Q332058",1794,,"Fl. Peruv. Prodr. 41. 1794. (early Oct 1794)",,,,,,36218-1,wfo-4000025089,7265261,,
+b67bcc58-8fd1-11eb-924d-9cd76263cbd0,species,angustata,Myoschilos,,Phil.,Q214994,1889,,"Nat. Pflanzenfam. 3(1): 218 1889",,,,,,,wfo-0001236418,7685088,,
+6deb4464-8fcc-11eb-924d-9cd76263cbd0,species,angustus,Myoschilos,,Phil.,Q214994,1889,,"Nat. Pflanzenfam. 3(1): 218 1889",,,,,,165270-2,wfo-0000453685,3789281,,
+b67beda0-8fd1-11eb-924d-9cd76263cbd0,variety,angustata,Myoschilos,oblonga,"(Phil.) Macloskie","Q214994,Q8963834",,,,,,,b67bcc58-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001236419,8333188,,
+6db7c7ec-8fcc-11eb-924d-9cd76263cbd0,species,oblongum,Myoschilos,,"Ruiz & Pav.","Q733976,Q332058",1798,,"Syst. Veg. Fl. Peruv. Chil. 73 1798",,,,,,780459-1,wfo-0000453329,3789275,,
+72100346-8fb2-11eb-924d-9cd76263cbd0,species,purpurea,Myoseris,,"(Willd.) Link","Q76353,Q215466",1822,,"Enum. Hort. Berol. ii. 291 (1822).",,,,,,,wfo-0000024773,4215881,,

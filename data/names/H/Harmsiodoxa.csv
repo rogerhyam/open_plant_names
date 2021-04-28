@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e46b9de6-8fd1-11eb-924d-9cd76263cbd0,genus,Harmsiodoxa,,,O.E.Schulz,,1924,,"Pflanzenr. IV. 105(Heft 86): 260. 1924. (22 Jul 1924)",,,,,,12635-1,wfo-4000016932,3041952,,
-adaaf0ea-8fd1-11eb-924d-9cd76263cbd0,species,blennodiodes,Harmsiodoxa,,F.A.Müll.,,,,,,,,,,,wfo-0001220337,8033265,,
-ada9f9f6-8fd1-11eb-924d-9cd76263cbd0,species,blennodioides,Harmsiodoxa,,O.E.Schulz,,,,,,,,,,,wfo-0001220329,3041953,,
-ad03ba7c-8fcd-11eb-924d-9cd76263cbd0,species,brevipes,Harmsiodoxa,,"(F.Mull.) O.E.Schulz",,1924,,"Opred. Viss. Rast. Baskirsk. ASSR IV–105(86): 263 1924",,,,,,284570-1,wfo-0001036899,3041962,,
-ad692592-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Harmsiodoxa,,O.E.Schulz,,1924,,"Pflanzenreich IV–105(Heft 86): 262. 1924",,,,,,284571-1,wfo-0001037815,3041956,,
-acc0730c-8fcd-11eb-924d-9cd76263cbd0,species,puberula,Harmsiodoxa,,E.A.Shaw,,1965,,"Trav. Lab. Matière Méd. Ecole Supér Pharm. Paris 89: 212 1965",,,,,,284572-1,wfo-0001036299,3041961,,
+e46b9de6-8fd1-11eb-924d-9cd76263cbd0,genus,Harmsiodoxa,,,O.E.Schulz,Q2598714,1924,,"Pflanzenr. IV. 105(Heft 86): 260. 1924. (22 Jul 1924)",,,,,,12635-1,wfo-4000016932,3041952,,
+adaaf0ea-8fd1-11eb-924d-9cd76263cbd0,species,blennodiodes,Harmsiodoxa,,F.A.Müll.,Q21521864,,,,,,,,,,wfo-0001220337,8033265,,
+ada9f9f6-8fd1-11eb-924d-9cd76263cbd0,species,blennodioides,Harmsiodoxa,,O.E.Schulz,Q2598714,,,,,,,,,,wfo-0001220329,3041953,,
+ad03ba7c-8fcd-11eb-924d-9cd76263cbd0,species,brevipes,Harmsiodoxa,,"(F.Mull.) O.E.Schulz","Q21521863,Q2598714",1924,,"Opred. Viss. Rast. Baskirsk. ASSR IV–105(86): 263 1924",,,,,,284570-1,wfo-0001036899,3041962,,
+ad692592-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Harmsiodoxa,,O.E.Schulz,Q2598714,1924,,"Pflanzenreich IV–105(Heft 86): 262. 1924",,,,,,284571-1,wfo-0001037815,3041956,,
+acc0730c-8fcd-11eb-924d-9cd76263cbd0,species,puberula,Harmsiodoxa,,E.A.Shaw,Q5829651,1965,,"Trav. Lab. Matière Méd. Ecole Supér Pharm. Paris 89: 212 1965",,,,,,284572-1,wfo-0001036299,3041961,,

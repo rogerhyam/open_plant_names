@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8fc1afc-8fd1-11eb-924d-9cd76263cbd0,genus,Powelliopsis,,,Zanten,,2008,,"Lindbergia 33: 60. 2008[2009].",,,,,,,wfo-4000031068,4899812,,
-ac6432c2-8fcd-11eb-924d-9cd76263cbd0,species,elliptica,Powelliopsis,,"(Renauld) Zanten",,2008,,"Lindbergia 33: 64 2008",,,,,,,wfo-0001035496,7848512,,
-ac63fa5a-8fcd-11eb-924d-9cd76263cbd0,species,integra,Powelliopsis,,"(Dixon) Zanten",,2008,,"Lindbergia 33: 62 2008",,,,,,,wfo-0001035494,7650505,,
-ac64172e-8fcd-11eb-924d-9cd76263cbd0,species,pocsii,Powelliopsis,,"(Zanten) Zanten",,2008,,"Lindbergia 33: 64 2008",,,,fdb99cd4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035495,8162730,,
-ac63dd86-8fcd-11eb-924d-9cd76263cbd0,species,subelimbata,Powelliopsis,,"(Zanten) Zanten",,2008,,"Lindbergia 33: 61 2008",,,,f13ccba2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035493,8369678,,
+e8fc1afc-8fd1-11eb-924d-9cd76263cbd0,genus,Powelliopsis,,,Zanten,Q21613405,2008,,"Lindbergia 33: 60. 2008[2009].",,,,,,,wfo-4000031068,4899812,,
+ac6432c2-8fcd-11eb-924d-9cd76263cbd0,species,elliptica,Powelliopsis,,"(Renauld) Zanten","Q21339127,Q21613405",2008,,"Lindbergia 33: 64 2008",,,,,,,wfo-0001035496,7848512,,
+ac63fa5a-8fcd-11eb-924d-9cd76263cbd0,species,integra,Powelliopsis,,"(Dixon) Zanten","Q5904348,Q21613405",2008,,"Lindbergia 33: 62 2008",,,,,,,wfo-0001035494,7650505,,
+ac64172e-8fcd-11eb-924d-9cd76263cbd0,species,pocsii,Powelliopsis,,"(Zanten) Zanten",Q21613405,2008,,"Lindbergia 33: 64 2008",,,,fdb99cd4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035495,8162730,,
+ac63dd86-8fcd-11eb-924d-9cd76263cbd0,species,subelimbata,Powelliopsis,,"(Zanten) Zanten",Q21613405,2008,,"Lindbergia 33: 61 2008",,,,f13ccba2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035493,8369678,,

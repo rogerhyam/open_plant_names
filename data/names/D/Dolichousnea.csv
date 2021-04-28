@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a3e02110-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dolichousnea,,,"(Y. Ohmura) Articus",,2004,,"Taxon 53(4): 932 (2004)",,,,,,,,,28894," "
-aad27914-9bad-11eb-a8a2-19ed5c03f8d3,species,diffracta,Dolichousnea,,"(Vain.) Articus",,2004,,"Taxon 53(4): 932 (2004)",,,,7fd6cf58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371242," "
-aad21c26-9bad-11eb-a8a2-19ed5c03f8d3,species,longissima,Dolichousnea,,"(Ach.) Articus",,2004,,"Taxon 53(4): 932 (2004)",,,,7f27d714-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371241," "
-6e2ef410-9bad-11eb-a8a2-19ed5c03f8d3,species,trichodeoides,Dolichousnea,,"(Vain.) Articus",,2004,,"Taxon 53(4): 932 (2004)",,,,aadeac98-9bad-11eb-a8a2-19ed5c03f8d3,,,,,476098," "
-76e8bbc4-8fc6-11eb-924d-9cd76263cbd0,species,formosana,Dolichovigna,,Hayata,,,,,,,,,,,wfo-0000198036,2963408,,
-f8ffffd2-8fc6-11eb-924d-9cd76263cbd0,species,pilosa,Dolichovigna,,"(Willd.) Niyomdham",,,,,,,,,,,wfo-0000200454,,,
-76a86cc2-8fc6-11eb-924d-9cd76263cbd0,species,rhombifolia,Dolichovigna,,Hayata,,,,,,,,,,,wfo-0000198031,2975625,,
+aad27914-9bad-11eb-a8a2-19ed5c03f8d3,species,diffracta,Dolichousnea,,"(Vain.) Articus",Q4351122,2004,,"Taxon 53(4): 932 (2004)",,,,7fd6cf58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371242," "
+aad21c26-9bad-11eb-a8a2-19ed5c03f8d3,species,longissima,Dolichousnea,,"(Ach.) Articus",Q365923,2004,,"Taxon 53(4): 932 (2004)",,,,7f27d714-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371241," "
+6e2ef410-9bad-11eb-a8a2-19ed5c03f8d3,species,trichodeoides,Dolichousnea,,"(Vain.) Articus",Q4351122,2004,,"Taxon 53(4): 932 (2004)",,,,aadeac98-9bad-11eb-a8a2-19ed5c03f8d3,,,,,476098," "
+76e8bbc4-8fc6-11eb-924d-9cd76263cbd0,species,formosana,Dolichovigna,,Hayata,Q702874,,,,,,,,,,wfo-0000198036,2963408,,
+f8ffffd2-8fc6-11eb-924d-9cd76263cbd0,species,pilosa,Dolichovigna,,"(Willd.) Niyomdham","Q76353,Q21522201",,,,,,,,,,wfo-0000200454,,,
+76a86cc2-8fc6-11eb-924d-9cd76263cbd0,species,rhombifolia,Dolichovigna,,Hayata,Q702874,,,,,,,,,,wfo-0000198031,2975625,,

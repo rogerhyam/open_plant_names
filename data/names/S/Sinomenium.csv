@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea6beca0-8fd1-11eb-924d-9cd76263cbd0,genus,Sinomenium,,,Diels,,1910,,"Pflanzenr. IV. 94(Heft 46): 254, 204. 1910.",,,,,,,wfo-4000035462,7268693,,
-8c73b880-8fcc-11eb-924d-9cd76263cbd0,species,acutum,Sinomenium,,"(Thunb.) Rehder & E.H.Wilson",,1913,,"Pl. Wilson. 1: 387 1913",,,,,,581373-1,wfo-0000505180,7268694,,
-8e06390c-8fcc-11eb-924d-9cd76263cbd0,variety,cinereum,Sinomenium,acutum,"(Diels) Rehder & E.H.Wilson",,1913,,"Pl. Wilson. 1: 387 1913",,,,,,60446098-2,wfo-0000507971,3829821,,
-8c73841e-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Sinomenium,,Diels,,1910,,"Pflanzenr. IV, 94: 254 1910",,,,,,,wfo-0000505179,3829810,,
-8c733da6-8fcc-11eb-924d-9cd76263cbd0,species,heterophyllum,Sinomenium,,"(Hemsl. & E.H.Wilson) Tanaka",,1925,,"Bult. Sci. Fak. Terk. Kjusu Imp. Univ. 1: 202 1925",,,,,,581375-1,wfo-0000505177,3829800,,
-d8a1a7d0-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Sinomerrillia,,Hu,,1937,,"Bull. Fan Mem. Inst. Biol., Bot. 8: 48 1937",,,,,,,wfo-0001292784,7663605,,
+ea6beca0-8fd1-11eb-924d-9cd76263cbd0,genus,Sinomenium,,,Diels,Q77123,1910,,"Pflanzenr. IV. 94(Heft 46): 254, 204. 1910.",,,,,,,wfo-4000035462,7268693,,
+8c73b880-8fcc-11eb-924d-9cd76263cbd0,species,acutum,Sinomenium,,"(Thunb.) Rehder & E.H.Wilson","Q39658,Q68949,Q1356381",1913,,"Pl. Wilson. 1: 387 1913",,,,,,581373-1,wfo-0000505180,7268694,,
+8e06390c-8fcc-11eb-924d-9cd76263cbd0,variety,cinereum,Sinomenium,acutum,"(Diels) Rehder & E.H.Wilson","Q77123,Q68949,Q1356381",1913,,"Pl. Wilson. 1: 387 1913",,,,,,60446098-2,wfo-0000507971,3829821,,
+8c73841e-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Sinomenium,,Diels,Q77123,1910,,"Pflanzenr. IV, 94: 254 1910",,,,,,,wfo-0000505179,3829810,,
+8c733da6-8fcc-11eb-924d-9cd76263cbd0,species,heterophyllum,Sinomenium,,"(Hemsl. & E.H.Wilson) Tanaka","Q1339247,Q1356381,Q3088761",1925,,"Bult. Sci. Fak. Terk. Kjusu Imp. Univ. 1: 202 1925",,,,,,581375-1,wfo-0000505177,3829800,,
+d8a1a7d0-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Sinomerrillia,,Hu,Q510757,1937,,"Bull. Fan Mem. Inst. Biol., Bot. 8: 48 1937",,,,,,,wfo-0001292784,7663605,,

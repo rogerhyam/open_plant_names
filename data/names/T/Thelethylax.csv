@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb45c240-8fd1-11eb-924d-9cd76263cbd0,genus,Thelethylax,,,C.Cusset,,1973,,"Adansonia, n.s. 12: 564. 1973.",,Q58838130,,,,32254-1,wfo-4000038128,7296004,,
-8f94002e-8fcc-11eb-924d-9cd76263cbd0,species,insolata,Thelethylax,,"(H.Perrier) Jäger-Zürn",,2008,,"Bot. Jahrb. Syst. 127: 271 2008",,Q55762210,,8ebefdde-8fcc-11eb-924d-9cd76263cbd0,,77092419-1,wfo-0000510522,4072337,,
-b6ff3110-8fd1-11eb-924d-9cd76263cbd0,species,isalensis,Thelethylax,,"(H.Perrier) C.Cusset",,1972,,"Adansonia, n.s. 12(4): 567 1972",,Q58838130,,e1896716-8fcc-11eb-924d-9cd76263cbd0,,688612-1,wfo-0001237422,4072332,,
-b6ff159a-8fd1-11eb-924d-9cd76263cbd0,species,minutiflora,Thelethylax,,"(Tul.) C.Cusset",,1972,,"Adansonia, n.s. 12(4): 566 1972",,Q58838130,,e18a7d04-8fcc-11eb-924d-9cd76263cbd0,,688613-1,wfo-0001237421,4072323,,
+eb45c240-8fd1-11eb-924d-9cd76263cbd0,genus,Thelethylax,,,C.Cusset,Q5641125,1973,,"Adansonia, n.s. 12: 564. 1973.",,Q58838130,,,,32254-1,wfo-4000038128,7296004,,
+8f94002e-8fcc-11eb-924d-9cd76263cbd0,species,insolata,Thelethylax,,"(H.Perrier) Jäger-Zürn","Q2564623,Q26714233",2008,,"Bot. Jahrb. Syst. 127: 271 2008",,Q55762210,,8ebefdde-8fcc-11eb-924d-9cd76263cbd0,,77092419-1,wfo-0000510522,4072337,,
+b6ff3110-8fd1-11eb-924d-9cd76263cbd0,species,isalensis,Thelethylax,,"(H.Perrier) C.Cusset","Q2564623,Q5641125",1972,,"Adansonia, n.s. 12(4): 567 1972",,Q58838130,,e1896716-8fcc-11eb-924d-9cd76263cbd0,,688612-1,wfo-0001237422,4072332,,
+b6ff159a-8fd1-11eb-924d-9cd76263cbd0,species,minutiflora,Thelethylax,,"(Tul.) C.Cusset","Q918803,Q5641125",1972,,"Adansonia, n.s. 12(4): 566 1972",,Q58838130,,e18a7d04-8fcc-11eb-924d-9cd76263cbd0,,688613-1,wfo-0001237421,4072323,,

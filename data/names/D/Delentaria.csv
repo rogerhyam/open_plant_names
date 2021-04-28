@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9ea19df0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Delentaria,,,Corner,,1970,,"Beih. Nova Hedwigia 33: 225 (1970)",,,,9ea19df0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17473," "
-0d22372c-9bad-11eb-a8a2-19ed5c03f8d3,species,decurva,Delentaria,,Corner,,1970,,"Beih. Nova Hedwigia 33: 226 (1970)",,,,0d22372c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,312770," "
-dddb5b2e-8fcc-11eb-924d-9cd76263cbd0,species,segetalis,Delia,,"(L.) Dumort.",,1827,,"Fl. Belg. 110 1827",,,,,,153002-1,wfo-0000639408,5587515,,
-6205b0a8-8fcc-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) V.P.Castro & Chiron",,2002,,"Richardiana 2: 25 2002",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,20003929-1,wfo-0000433879,,,
-35f9c9e4-8fcd-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) Campacci",,2005,,"Bol. CAOB 58: 50 2005",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,60442316-2,wfo-0000806477,,,
-6470de90-8fcb-11eb-924d-9cd76263cbd0,species,delicata,,,Rolfe,,1901,,"Orchid Rev. 9: 61 1901",,,,,,288080-2,wfo-0000222190,,,
-36b428de-8fcd-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) Campacci",,2006,,"Colet. Orquídeas Brasil. 4(Pré-anexo): 103 2006",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,60445187-2,wfo-0000807877,,,
+9ea19df0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Delentaria,,,Corner,Q4233315,1970,,"Beih. Nova Hedwigia 33: 225 (1970)",,,,9ea19df0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17473," "
+0d22372c-9bad-11eb-a8a2-19ed5c03f8d3,species,decurva,Delentaria,,Corner,Q4233315,1970,,"Beih. Nova Hedwigia 33: 226 (1970)",,,,0d22372c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,312770," "
+dddb5b2e-8fcc-11eb-924d-9cd76263cbd0,species,segetalis,Delia,,"(L.) Dumort.","Q1043,Q316571",1827,,"Fl. Belg. 110 1827",,,,,,153002-1,wfo-0000639408,5587515,,
+35f9c9e4-8fcd-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) Campacci","Q2635543,Q9028687",2005,,"Bol. CAOB 58: 50 2005",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,60442316-2,wfo-0000806477,,,
+36b428de-8fcd-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) Campacci","Q2635543,Q9028687",2006,,"Colet. Orquídeas Brasil. 4(Pré-anexo): 103 2006",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,60445187-2,wfo-0000807877,,,
+6205b0a8-8fcc-11eb-924d-9cd76263cbd0,species,delicata,,,"(Rolfe) V.P.Castro & Chiron","Q2635543,Q10392118,Q9001563",2002,,"Richardiana 2: 25 2002",,,,6470de90-8fcb-11eb-924d-9cd76263cbd0,,20003929-1,wfo-0000433879,,,
+6470de90-8fcb-11eb-924d-9cd76263cbd0,species,delicata,,,Rolfe,Q2635543,1901,,"Orchid Rev. 9: 61 1901",,,,,,288080-2,wfo-0000222190,,,

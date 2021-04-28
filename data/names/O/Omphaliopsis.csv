@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9f82dbd0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Omphaliopsis,,,"(Noordel.) P.D. Orton",,1991,,"Mycologist 5(4): 173 (1991)",,,,,,,,,25334," "
-3e76aa5c-9bac-11eb-a8a2-19ed5c03f8d3,species,californiensis,Omphaliopsis,,Murrill,,,,,,,,3e76aa5c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,450920," "
+3e76aa5c-9bac-11eb-a8a2-19ed5c03f8d3,species,californiensis,Omphaliopsis,,Murrill,Q2170251,,,,,,,3e76aa5c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,450920," "
 a9b9a3ae-9bad-11eb-a8a2-19ed5c03f8d3,species,leptonipes,Omphaliopsis,,"(Kühner & Romagn.) P.D. Orton",,1991,,"Mycologist 5(4): 173 (1991)",,,,fffda2d4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359021," "
 a9b9da72-9bad-11eb-a8a2-19ed5c03f8d3,species,paludicola,Omphaliopsis,,"(P.D. Orton) P.D. Orton",,1991,,"Mycologist 5(4): 173 (1991)",,,,1be896de-9bad-11eb-a8a2-19ed5c03f8d3,,,,,359022," "
-3363cca2-9bad-11eb-a8a2-19ed5c03f8d3,species,parkensis,Omphaliopsis,,"(Fr.) P.D. Orton",,1991,,"Mycologist 5(4): 173 (1991)",,,,ab8589c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359023," "
-05781d98-8fcd-11eb-924d-9cd76263cbd0,species,aulica,Omphalissa,,"(Ker Gawl.) Salisb.",,1866,,"Gen. Pl. 135 1866",,,,1fde1ec6-8fcd-11eb-924d-9cd76263cbd0,,66366-1,wfo-0000709025,2854398,,
-05492272-8fcd-11eb-924d-9cd76263cbd0,species,calyptrata,Omphalissa,,"(Ker Gawl.) Salisb.",,1866,,"Gen. Pl. 135 1866",,,,1fe77c1e-8fcd-11eb-924d-9cd76263cbd0,,66367-1,wfo-0000708817,2854250,,
-3c03397a-8fcc-11eb-924d-9cd76263cbd0,species,scorpioides,Omphalium,,"(Haenke) Roth",,1827,,"Enum. Pl. Phaen. Germ. 1: 591 1827",,,,db04e1a4-8fcc-11eb-924d-9cd76263cbd0,,119427-1,wfo-0000384934,4060132,,
-3c05d9a0-8fcc-11eb-924d-9cd76263cbd0,species,vernum,Omphalium,,"(Moench) Roth",,1827,,"Enum. Pl. Phaen. Germ. 1: 590 1827",,,,,,119428-1,wfo-0000384948,4060126,,
+3363cca2-9bad-11eb-a8a2-19ed5c03f8d3,species,parkensis,Omphaliopsis,,"(Fr.) P.D. Orton",Q15405,1991,,"Mycologist 5(4): 173 (1991)",,,,ab8589c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359023," "
+05781d98-8fcd-11eb-924d-9cd76263cbd0,species,aulica,Omphalissa,,"(Ker Gawl.) Salisb.","Q1699308,Q1358261",1866,,"Gen. Pl. 135 1866",,,,1fde1ec6-8fcd-11eb-924d-9cd76263cbd0,,66366-1,wfo-0000709025,2854398,,
+05492272-8fcd-11eb-924d-9cd76263cbd0,species,calyptrata,Omphalissa,,"(Ker Gawl.) Salisb.","Q1699308,Q1358261",1866,,"Gen. Pl. 135 1866",,,,1fe77c1e-8fcd-11eb-924d-9cd76263cbd0,,66367-1,wfo-0000708817,2854250,,
+3c03397a-8fcc-11eb-924d-9cd76263cbd0,species,scorpioides,Omphalium,,"(Haenke) Roth","Q79107,Q64246",1827,,"Enum. Pl. Phaen. Germ. 1: 591 1827",,,,db04e1a4-8fcc-11eb-924d-9cd76263cbd0,,119427-1,wfo-0000384934,4060132,,
+3c05d9a0-8fcc-11eb-924d-9cd76263cbd0,species,vernum,Omphalium,,"(Moench) Roth","Q60948,Q64246",1827,,"Enum. Pl. Phaen. Germ. 1: 590 1827",,,,,,119428-1,wfo-0000384948,4060126,,

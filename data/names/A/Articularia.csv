@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a8c1d6ec-9bad-11eb-a8a2-19ed5c03f8d3,genus,Articularia,,,Höhn.,,1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 407 (1909)",,,,a8c1d6ec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7227," "
-a12a8e20-9bac-11eb-a8a2-19ed5c03f8d3,species,quercina,Articularia,,"(Peck) Höhn.",,1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 407 (1909)",,,,9547eb16-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249551," "
-b9c42b76-9bac-11eb-a8a2-19ed5c03f8d3,variety,minor,Articularia,quercina,Charles,,,,,,,,b9c42b76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,453790," "
-b71774dc-9bac-11eb-a8a2-19ed5c03f8d3,variety,quercina,Articularia,quercina,"(Peck) Höhn.",,,,,,,,b71774dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,455015," "
+a8c1d6ec-9bad-11eb-a8a2-19ed5c03f8d3,genus,Articularia,,,Höhn.,Q4502879,1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 407 (1909)",,,,a8c1d6ec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7227," "
+a12a8e20-9bac-11eb-a8a2-19ed5c03f8d3,species,quercina,Articularia,,"(Peck) Höhn.","Q1064899,Q4502879",1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 407 (1909)",,,,9547eb16-9bac-11eb-a8a2-19ed5c03f8d3,,,,,249551," "
+b9c42b76-9bac-11eb-a8a2-19ed5c03f8d3,variety,minor,Articularia,quercina,Charles,Q16750975,,,,,,,b9c42b76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,453790," "
+b71774dc-9bac-11eb-a8a2-19ed5c03f8d3,variety,quercina,Articularia,quercina,"(Peck) Höhn.","Q1064899,Q4502879",,,,,,,b71774dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,455015," "

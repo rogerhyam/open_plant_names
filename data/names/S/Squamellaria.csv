@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaa93b64-8fd1-11eb-924d-9cd76263cbd0,genus,Squamellaria,,,Becc.,,1886,,"Malesia 2: 228, tab. 46. 1886.",,,,,,35379-1,wfo-4000036208,2903482,,
-0ee5f66c-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Squamellaria,,"(A.Gray) Becc.",,1886,,"Malesia 2: 228 1886",,,,,,767065-1,wfo-0000313574,2903486,,
-0ee61282-8fcc-11eb-924d-9cd76263cbd0,species,major,Squamellaria,,A.C.Sm.,,1967,,"Contr. U. S. Natl. Herb. 37: 90 1967",,Q95371549,,,,767066-1,wfo-0000313575,2903488,,
-0ee63334-8fcc-11eb-924d-9cd76263cbd0,species,thekii,Squamellaria,,Jebb,,1991,,"Blumea 36: 59 1991",,Q96032757,,,,959926-1,wfo-0000313576,2903485,,
-0ee652f6-8fcc-11eb-924d-9cd76263cbd0,species,wilsonii,Squamellaria,,"(Horne ex Baker) Becc.",,1886,,"Malesia 2: 229 1886",,,,0922ba64-8fca-11eb-924d-9cd76263cbd0,,767067-1,wfo-0000313577,2903483,,
+eaa93b64-8fd1-11eb-924d-9cd76263cbd0,genus,Squamellaria,,,Becc.,Q361037,1886,,"Malesia 2: 228, tab. 46. 1886.",,,,,,35379-1,wfo-4000036208,2903482,,
+0ee5f66c-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Squamellaria,,"(A.Gray) Becc.","Q347356,Q361037",1886,,"Malesia 2: 228 1886",,,,,,767065-1,wfo-0000313574,2903486,,
+0ee61282-8fcc-11eb-924d-9cd76263cbd0,species,major,Squamellaria,,A.C.Sm.,Q1922675,1967,,"Contr. U. S. Natl. Herb. 37: 90 1967",,Q95371549,,,,767066-1,wfo-0000313575,2903488,,
+0ee63334-8fcc-11eb-924d-9cd76263cbd0,species,thekii,Squamellaria,,Jebb,Q6790748,1991,,"Blumea 36: 59 1991",,Q96032757,,,,959926-1,wfo-0000313576,2903485,,
+0ee652f6-8fcc-11eb-924d-9cd76263cbd0,species,wilsonii,Squamellaria,,"(Horne ex Baker) Becc.","Q1700493,Q730330,Q361037",1886,,"Malesia 2: 229 1886",,,,0922ba64-8fca-11eb-924d-9cd76263cbd0,,767067-1,wfo-0000313577,2903483,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a3ae997e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kalchbrennera,,,Berk.,,1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,a3ae997e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19180," "
-a240155a-9bac-11eb-a8a2-19ed5c03f8d3,species,clathrata,Kalchbrennera,,"(Lloyd) Lloyd",,,,"Mycol. Writ. 7(70): 1230 (1923)",,,,7fad7a82-9bac-11eb-a8a2-19ed5c03f8d3,,,,,251468," "
-53db2e4a-9bac-11eb-a8a2-19ed5c03f8d3,species,corallocephala,Kalchbrennera,,"(Welw. & Curr.) Kalchbr.",,,,,,,,8f0f31fa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,177119," "
-810f5d14-9bac-11eb-a8a2-19ed5c03f8d3,species,tuckii,Kalchbrennera,,"(Kalchbr. & MacOwan) Berk.",,1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,,,,,,176534," "
-68a5cd8a-9bac-11eb-a8a2-19ed5c03f8d3,variety,clathroides,Kalchbrennera,tuckii,Henn.,,,,,,,,68a5cd8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,155952," "
-9034bd38-9bad-11eb-a8a2-19ed5c03f8d3,variety,tuckii,Kalchbrennera,tuckii,"(Kalchbr. & MacOwan) Berk.",,1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,9034bd38-9bad-11eb-a8a2-19ed5c03f8d3,,,,,422277," "
+a3ae997e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kalchbrennera,,,Berk.,Q662338,1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,a3ae997e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19180," "
+a240155a-9bac-11eb-a8a2-19ed5c03f8d3,species,clathrata,Kalchbrennera,,"(Lloyd) Lloyd",Q4264539,,,"Mycol. Writ. 7(70): 1230 (1923)",,,,7fad7a82-9bac-11eb-a8a2-19ed5c03f8d3,,,,,251468," "
+53db2e4a-9bac-11eb-a8a2-19ed5c03f8d3,species,corallocephala,Kalchbrennera,,"(Welw. & Curr.) Kalchbr.","Q78609,Q18559734,Q736795",,,,,,,8f0f31fa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,177119," "
+810f5d14-9bac-11eb-a8a2-19ed5c03f8d3,species,tuckii,Kalchbrennera,,"(Kalchbr. & MacOwan) Berk.","Q736795,Q613031,Q662338",1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,,,,,,176534," "
+68a5cd8a-9bac-11eb-a8a2-19ed5c03f8d3,variety,clathroides,Kalchbrennera,tuckii,Henn.,Q4497246,,,,,,,68a5cd8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,155952," "
+9034bd38-9bad-11eb-a8a2-19ed5c03f8d3,variety,tuckii,Kalchbrennera,tuckii,"(Kalchbr. & MacOwan) Berk.","Q736795,Q613031,Q662338",1876,,"Gard. Chron., New Series 5: 785 (1876)",,,,9034bd38-9bad-11eb-a8a2-19ed5c03f8d3,,,,,422277," "

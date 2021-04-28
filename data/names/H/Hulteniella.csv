@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4e523fa-8fd1-11eb-924d-9cd76263cbd0,genus,Hulteniella,,,Tzvelev,,,,,,,,,,925317-1,wfo-4000018396,3110349,,
-a96ec4d2-8fb5-11eb-924d-9cd76263cbd0,species,integrifolia,Hulteniella,,"(Richardson) Tzvelev",,1987,,"118 1987",,,,5ea5b0ee-8fb2-11eb-924d-9cd76263cbd0,,944880-1,wfo-0000080687,3110350,,
-cd88629e-8fd1-11eb-924d-9cd76263cbd0,species,hultenii,,,"(Melderis) Barkworth",,2006,,"Sida 22(1): 496 2006",,Q91203183,,461118d2-8fcd-11eb-924d-9cd76263cbd0,,60443112-2,wfo-0001279013,,,
-461118d2-8fcd-11eb-924d-9cd76263cbd0,species,hultenii,,,Melderis,,1968,,"Arq. Bot. Estado São Paulo n.s., f.m., 7: 21 1968",,,,,,,wfo-0000840969,,,
+e4e523fa-8fd1-11eb-924d-9cd76263cbd0,genus,Hulteniella,,,Tzvelev,Q4503394,,,,,,,,,925317-1,wfo-4000018396,3110349,,
+a96ec4d2-8fb5-11eb-924d-9cd76263cbd0,species,integrifolia,Hulteniella,,"(Richardson) Tzvelev","Q545944,Q4503394",1987,,"118 1987",,,,5ea5b0ee-8fb2-11eb-924d-9cd76263cbd0,,944880-1,wfo-0000080687,3110350,,
+461118d2-8fcd-11eb-924d-9cd76263cbd0,species,hultenii,,,Melderis,Q5665799,1968,,"Arq. Bot. Estado São Paulo n.s., f.m., 7: 21 1968",,,,,,,wfo-0000840969,,,
+cd88629e-8fd1-11eb-924d-9cd76263cbd0,species,hultenii,,,"(Melderis) Barkworth","Q5665799,Q2918786",2006,,"Sida 22(1): 496 2006",,Q91203183,,461118d2-8fcd-11eb-924d-9cd76263cbd0,,60443112-2,wfo-0001279013,,,

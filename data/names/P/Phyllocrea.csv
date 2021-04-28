@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a311db16-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phyllocrea,,,Höhn.,,1918,,"Annls mycol. 16(1/2): 38 (1918)",,,,a311db16-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4063," "
-b98759d0-9bac-11eb-a8a2-19ed5c03f8d3,species,paulliniae,Phyllocrea,,"(Rehm) Höhn.",,,,,,,,,,,,,453573," "
-a787ddea-9bac-11eb-a8a2-19ed5c03f8d3,species,quitensis,Phyllocrea,,"(Pat.) Höhn.",,1918,,"Annls mycol. 16(1/2): 38 (1918)",,,,471c5c10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431982," "
+a311db16-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phyllocrea,,,Höhn.,Q4502879,1918,,"Annls mycol. 16(1/2): 38 (1918)",,,,a311db16-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4063," "
+b98759d0-9bac-11eb-a8a2-19ed5c03f8d3,species,paulliniae,Phyllocrea,,"(Rehm) Höhn.","Q4393082,Q4502879",,,,,,,,,,,,453573," "
+a787ddea-9bac-11eb-a8a2-19ed5c03f8d3,species,quitensis,Phyllocrea,,"(Pat.) Höhn.",Q4502879,1918,,"Annls mycol. 16(1/2): 38 (1918)",,,,471c5c10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431982," "

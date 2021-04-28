@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9cb7a660-9bad-11eb-a8a2-19ed5c03f8d3,genus,Elletevera,,,Deighton,,1969,,"Mycol. Pap. 118: 17 (1969)",,,,9cb7a660-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8140," "
 3a91ce76-9bac-11eb-a8a2-19ed5c03f8d3,species,ochracea,Elletevera,,Katum.,,1987,,"Bulletin of the Faculty of Agriculture, Yamaguchi University 35: 110 (1987)",,,,3a91ce76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133382," "
-1bf66e30-9bad-11eb-a8a2-19ed5c03f8d3,species,parasitica,Elletevera,,"(Ellis & Everh.) Deighton",,1969,,"Mycol. Pap. 118: 19 (1969)",,,,1d3f6324-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330323," "
-672d6be2-8fb9-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,"Nutt. ex Torr. & A.Gray",,1838,,"Fl. N. Amer. 1: 125 (1838)",,,,,,,wfo-0000118072,8419471,,
-d63f6092-8fb6-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,Nutt.,,1838,,"Fl. N. Amer. (Torr. & A. Gray) 1: 125 1838",,,,,,90055-2,wfo-0000093689,3109860,,
+1bf66e30-9bad-11eb-a8a2-19ed5c03f8d3,species,parasitica,Elletevera,,"(Ellis & Everh.) Deighton",Q6206643,1969,,"Mycol. Pap. 118: 19 (1969)",,,,1d3f6324-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330323," "
+672d6be2-8fb9-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,"Nutt. ex Torr. & A.Gray","Q728337,Q1346660,Q347356",1838,,"Fl. N. Amer. 1: 125 (1838)",,,,,,,wfo-0000118072,8419471,,
+d63f6092-8fb6-11eb-924d-9cd76263cbd0,species,ruderalis,Ellimia,,Nutt.,Q728337,1838,,"Fl. N. Amer. (Torr. & A. Gray) 1: 125 1838",,,,,,90055-2,wfo-0000093689,3109860,,

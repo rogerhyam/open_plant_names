@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7eff0c0-8fd1-11eb-924d-9cd76263cbd0,genus,Parablechnum,,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 469. 1851.",,,,,,,wfo-4000027970,7296866,,
-c640b55e-8fd1-11eb-924d-9cd76263cbd0,species,ambiguum,Parablechnum,,"(Kaulf.) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 469 1851",,,,c640d278-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001265539,4079141,,
-c6409830-8fd1-11eb-924d-9cd76263cbd0,species,ciliatum,Parablechnum,,"(C.Presl) C.Presl",,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 469 1851",,,,,,,wfo-0001265538,4079134,,
-cabdb2f8-8fd1-11eb-924d-9cd76263cbd0,species,procerum,Parablechnum,,"(G.Forst.) C.Presl",,,,,,,,,,,wfo-0001274046,7296869,,
-ccd3cd06-8fcd-11eb-924d-9cd76263cbd0,species,salicifolium,Parablechnum,,C.Presl,,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 470 1851",,,,,,,wfo-0001108442,4079106,,
+e7eff0c0-8fd1-11eb-924d-9cd76263cbd0,genus,Parablechnum,,,C.Presl,Q379601,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 469. 1851.",,,,,,,wfo-4000027970,7296866,,
+c640b55e-8fd1-11eb-924d-9cd76263cbd0,species,ambiguum,Parablechnum,,"(Kaulf.) C.Presl","Q102493,Q379601",1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 469 1851",,,,c640d278-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001265539,4079141,,
+c6409830-8fd1-11eb-924d-9cd76263cbd0,species,ciliatum,Parablechnum,,"(C.Presl) C.Presl",Q379601,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 469 1851",,,,,,,wfo-0001265538,4079134,,
+cabdb2f8-8fd1-11eb-924d-9cd76263cbd0,species,procerum,Parablechnum,,"(G.Forst.) C.Presl","Q58062,Q379601",,,,,,,,,,wfo-0001274046,7296869,,
+ccd3cd06-8fcd-11eb-924d-9cd76263cbd0,species,salicifolium,Parablechnum,,C.Presl,Q379601,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 470 1851",,,,,,,wfo-0001108442,4079106,,

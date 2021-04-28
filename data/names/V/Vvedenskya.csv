@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebfe0ae4-8fd1-11eb-924d-9cd76263cbd0,genus,Vvedenskya,,,Korovin,,,,,,,,,,40669-1,wfo-4000040457,6027252,,
-bb0b3e92-8fcd-11eb-924d-9cd76263cbd0,species,pinnatifolia,Vvedenskya,,Korovin,,,,,,,,,,,wfo-0001068866,3640575,,
-acb44f9c-8fd1-11eb-924d-9cd76263cbd0,species,kashgarica,Vvedenskyella,,Botsch.,,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR 17: 174 1955",,,,,,291082-1,wfo-0001218554,3050563,,
-acb4321e-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Vvedenskyella,,"(Kurz) Botsch.",,1955,,"Bot. Mat. 7: 176 1955",,,,,,,wfo-0001218553,3044473,,
+ebfe0ae4-8fd1-11eb-924d-9cd76263cbd0,genus,Vvedenskya,,,Korovin,Q3061578,,,,,,,,,40669-1,wfo-4000040457,6027252,,
+bb0b3e92-8fcd-11eb-924d-9cd76263cbd0,species,pinnatifolia,Vvedenskya,,Korovin,Q3061578,,,,,,,,,,wfo-0001068866,3640575,,
+acb44f9c-8fd1-11eb-924d-9cd76263cbd0,species,kashgarica,Vvedenskyella,,Botsch.,Q2546434,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR 17: 174 1955",,,,,,291082-1,wfo-0001218554,3050563,,
+acb4321e-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Vvedenskyella,,"(Kurz) Botsch.","Q2587569,Q2546434",1955,,"Bot. Mat. 7: 176 1955",,,,,,,wfo-0001218553,3044473,,

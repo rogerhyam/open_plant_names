@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a66069c2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sarcostromella,,,Boedijn,,1959,,"Persoonia 1(1): 16 (1959)",,,,a66069c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4861," "
-2470ee14-9bad-11eb-a8a2-19ed5c03f8d3,species,amorpha,Sarcostromella,,Boedijn,,,,,,,,2470ee14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,338831," "
-2471188a-9bad-11eb-a8a2-19ed5c03f8d3,species,polysticha,Sarcostromella,,"(Penz. & Sacc.) Boedijn",,1959,,"Persoonia 1(1): 16 (1959)",,,,cd08da7e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,338832," "
-24716074-9bad-11eb-a8a2-19ed5c03f8d3,species,spathulata,Sarcostromella,,"(Berk. & Broome) Boedijn",,,,,,,,88b8d504-9bac-11eb-a8a2-19ed5c03f8d3,,,,,338833," "
-856a7074-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Sarcostyles,,"C.Presl ex DC.",,1830,,"Prodr. 4: 16 1830",,,,,,,wfo-0000493880,7948069,,
+a66069c2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sarcostromella,,,Boedijn,Q4098011,1959,,"Persoonia 1(1): 16 (1959)",,,,a66069c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4861," "
+2470ee14-9bad-11eb-a8a2-19ed5c03f8d3,species,amorpha,Sarcostromella,,Boedijn,Q4098011,,,,,,,2470ee14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,338831," "
+2471188a-9bad-11eb-a8a2-19ed5c03f8d3,species,polysticha,Sarcostromella,,"(Penz. & Sacc.) Boedijn","Q3887349,Q707840,Q4098011",1959,,"Persoonia 1(1): 16 (1959)",,,,cd08da7e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,338832," "
+24716074-9bad-11eb-a8a2-19ed5c03f8d3,species,spathulata,Sarcostromella,,"(Berk. & Broome) Boedijn","Q662338,Q1932460,Q4098011",,,,,,,88b8d504-9bac-11eb-a8a2-19ed5c03f8d3,,,,,338833," "
+856a7074-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Sarcostyles,,"C.Presl ex DC.","Q379601,Q123057",1830,,"Prodr. 4: 16 1830",,,,,,,wfo-0000493880,7948069,,

@@ -1,22 +1,22 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-99446e82-9bad-11eb-a8a2-19ed5c03f8d3,genus,Weitenwebera,,,Opiz,,1857,,"Lotos 7: 235 (1857)",,,,99446e82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5769," "
-3c16859c-8fcd-11eb-924d-9cd76263cbd0,species,cervicaria,Weitenwebera,,"(L.) Opiz",,1852,,"Seznam 105 1852",,,,3f8d9274-8fcd-11eb-924d-9cd76263cbd0,,146002-1,wfo-0000819549,5410873,,
-3c149250-8fcd-11eb-924d-9cd76263cbd0,species,glomerata,Weitenwebera,,"(L.) Opiz",,1852,,"Seznam 105 1852",,,,,,146003-1,wfo-0000819531,5410006,,
-3d671f24-8fcd-11eb-924d-9cd76263cbd0,variety,mollis,Weitenwebera,glomerata,"(Tausch) Opiz",,1852,,"Seznam 105 1852",,,,44e08b5a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822194,5409963,,
-3d673b30-8fcd-11eb-924d-9cd76263cbd0,variety,nana,Weitenwebera,glomerata,Opiz,,1852,,"Seznam 105 1852",,,,,,,wfo-0000822195,5409965,,
-3d6755de-8fcd-11eb-924d-9cd76263cbd0,variety,salviifolia,Weitenwebera,glomerata,"(Wallr.) Opiz",,1852,,"Seznam 105 1852",,,,44d86e7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822196,5409951,,
-94137c96-9bad-11eb-a8a2-19ed5c03f8d3,species,latebrosa,Weitenwebera,,"Bagl. & Carestia",,,,,,,,94137c96-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409991," "
-9413e212-9bad-11eb-a8a2-19ed5c03f8d3,species,marginata,Weitenwebera,,"(Arnold) Poetsch",,,,,,,,8308762c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409992," "
-94141ae8-9bad-11eb-a8a2-19ed5c03f8d3,species,melaena,Weitenwebera,,"(Nyl.) Poetsch",,,,,,,,457e25ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409993," "
-94144c3e-9bad-11eb-a8a2-19ed5c03f8d3,species,muscorum,Weitenwebera,,"(Fr.) Körb.",,,,,,,,,,,,,409994," "
-4cf686fa-9bad-11eb-a8a2-19ed5c03f8d3,species,naegelii,Weitenwebera,,"(Hepp) Poetsch",,,,,,,,40e38624-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409995," "
-4cf6ea3c-9bad-11eb-a8a2-19ed5c03f8d3,species,obscurata,Weitenwebera,,"(Sommerf.) anon.",,,,,,,,170d379c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,409996," "
-4cf72858-9bad-11eb-a8a2-19ed5c03f8d3,species,sabuletorum,Weitenwebera,,"(Schreb.) Poetsch",,,,,,,,8b44488e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409997," "
-4cf76a3e-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaeroides,Weitenwebera,,"(Dicks.) Trevis.",,,,,,,,8b4bdbee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409998," "
+99446e82-9bad-11eb-a8a2-19ed5c03f8d3,genus,Weitenwebera,,,Opiz,Q55069871,1857,,"Lotos 7: 235 (1857)",,,,99446e82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5769," "
+3c16859c-8fcd-11eb-924d-9cd76263cbd0,species,cervicaria,Weitenwebera,,"(L.) Opiz","Q1043,Q55069871",1852,,"Seznam 105 1852",,,,3f8d9274-8fcd-11eb-924d-9cd76263cbd0,,146002-1,wfo-0000819549,5410873,,
+3c149250-8fcd-11eb-924d-9cd76263cbd0,species,glomerata,Weitenwebera,,"(L.) Opiz","Q1043,Q55069871",1852,,"Seznam 105 1852",,,,,,146003-1,wfo-0000819531,5410006,,
+3d671f24-8fcd-11eb-924d-9cd76263cbd0,variety,mollis,Weitenwebera,glomerata,"(Tausch) Opiz","Q2332119,Q55069871",1852,,"Seznam 105 1852",,,,44e08b5a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822194,5409963,,
+3d673b30-8fcd-11eb-924d-9cd76263cbd0,variety,nana,Weitenwebera,glomerata,Opiz,Q55069871,1852,,"Seznam 105 1852",,,,,,,wfo-0000822195,5409965,,
+3d6755de-8fcd-11eb-924d-9cd76263cbd0,variety,salviifolia,Weitenwebera,glomerata,"(Wallr.) Opiz","Q71374,Q55069871",1852,,"Seznam 105 1852",,,,44d86e7a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822196,5409951,,
+94137c96-9bad-11eb-a8a2-19ed5c03f8d3,species,latebrosa,Weitenwebera,,"Bagl. & Carestia","Q3749589,Q1111111",,,,,,,94137c96-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409991," "
+9413e212-9bad-11eb-a8a2-19ed5c03f8d3,species,marginata,Weitenwebera,,"(Arnold) Poetsch",Q2460005,,,,,,,8308762c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409992," "
+94141ae8-9bad-11eb-a8a2-19ed5c03f8d3,species,melaena,Weitenwebera,,"(Nyl.) Poetsch",Q932083,,,,,,,457e25ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409993," "
+94144c3e-9bad-11eb-a8a2-19ed5c03f8d3,species,muscorum,Weitenwebera,,"(Fr.) Körb.",Q15405,,,,,,,,,,,,409994," "
+4cf686fa-9bad-11eb-a8a2-19ed5c03f8d3,species,naegelii,Weitenwebera,,"(Hepp) Poetsch",Q2086812,,,,,,,40e38624-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409995," "
+4cf6ea3c-9bad-11eb-a8a2-19ed5c03f8d3,species,obscurata,Weitenwebera,,"(Sommerf.) anon.",Q4428698,,,,,,,170d379c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,409996," "
+4cf72858-9bad-11eb-a8a2-19ed5c03f8d3,species,sabuletorum,Weitenwebera,,"(Schreb.) Poetsch",Q162688,,,,,,,8b44488e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409997," "
+4cf76a3e-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaeroides,Weitenwebera,,"(Dicks.) Trevis.","Q521759,Q634712",,,,,,,8b4bdbee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409998," "
 f15d8632-9bab-11eb-a8a2-19ed5c03f8d3,species,sphinctrinoidella,Weitenwebera,,anon.,,,,,,,,f15d8632-9bab-11eb-a8a2-19ed5c03f8d3,,,,,478554," "
 057c9986-9bad-11eb-a8a2-19ed5c03f8d3,form,arenicola,Weitenwebera,sphinctrinoidella,anon.,,,,,,,,057c9986-9bad-11eb-a8a2-19ed5c03f8d3,,,,,477476," "
-aa1bd034-9bac-11eb-a8a2-19ed5c03f8d3,form,sphinctrinoidella,Weitenwebera,sphinctrinoidella,Nyl.,,,,,,,,aa1bd034-9bac-11eb-a8a2-19ed5c03f8d3,,,,,478553," "
-4cf79e8c-9bad-11eb-a8a2-19ed5c03f8d3,species,sphinctrinoides,Weitenwebera,,"(Nyl.) Körb.",,,,,,,,93f301d2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409999," "
-4cf7cc54-9bad-11eb-a8a2-19ed5c03f8d3,species,syncomista,Weitenwebera,,"(Flörke) Poetsch",,,,,,,,fbfeb0e2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,410000," "
-4cf7fbe8-9bad-11eb-a8a2-19ed5c03f8d3,species,trachona,Weitenwebera,,"(Ach.) Poetsch",,,,,,,,4cecb4ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410001," "
+aa1bd034-9bac-11eb-a8a2-19ed5c03f8d3,form,sphinctrinoidella,Weitenwebera,sphinctrinoidella,Nyl.,Q932083,,,,,,,aa1bd034-9bac-11eb-a8a2-19ed5c03f8d3,,,,,478553," "
+4cf79e8c-9bad-11eb-a8a2-19ed5c03f8d3,species,sphinctrinoides,Weitenwebera,,"(Nyl.) Körb.",Q932083,,,,,,,93f301d2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,409999," "
+4cf7cc54-9bad-11eb-a8a2-19ed5c03f8d3,species,syncomista,Weitenwebera,,"(Flörke) Poetsch",Q4491255,,,,,,,fbfeb0e2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,410000," "
+4cf7fbe8-9bad-11eb-a8a2-19ed5c03f8d3,species,trachona,Weitenwebera,,"(Ach.) Poetsch",Q365923,,,,,,,4cecb4ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410001," "
 4cf82cf8-9bad-11eb-a8a2-19ed5c03f8d3,species,trisepta,Weitenwebera,,"(Hellb.) Poetsch",,,,,,,,11891188-9bac-11eb-a8a2-19ed5c03f8d3,,,,,410002," "

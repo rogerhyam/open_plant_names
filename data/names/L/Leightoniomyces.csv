@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 78c78298-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leightoniomyces,,,"D. Hawksw. & B. Sutton",,1977,,"in Hawksworth, J. Linn. Soc., Bot. 75: 199 (1977)",,,,78c78298-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8723," "
-101044a6-9bad-11eb-a8a2-19ed5c03f8d3,species,phillipsii,Leightoniomyces,,"(Berk. & Leight.) D. Hawksw. & B. Sutton",,1977,,"in Hawksworth, J. Linn. Soc., Bot. 75(2): 204 (1977)",,,,a07b3722-9bac-11eb-a8a2-19ed5c03f8d3,,,,,316442," "
-2e5db430-8fcc-11eb-924d-9cd76263cbd0,species,pratensis,Leimanisa,,Raf.,,1838,,"New Fl. 4: 93 1838",,,,,,369738-1,wfo-0000364764,3839113,,
-f91b1d48-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Leimanthium,,"(Nutt.) Schult. & Schult.f.",,,,"Syst. Veg. 7: 1551 1830",,,,,,537328-1,wfo-0000686817,2741610,,
-bbc99082-8fd1-11eb-924d-9cd76263cbd0,species,hybridum,Leimanthium,,"(Walter) Roem. & Schult.",,,,"Syst. Veg. 7: 1550 1830",,,,fe0301f4-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001246211,7657786,,
-f9309524-8fcc-11eb-924d-9cd76263cbd0,species,hybridum,Leimanthium,,"(Walter) Sweet",,1826,,"Hort. Brit. 429 1826",,,,fe0301f4-8fcc-11eb-924d-9cd76263cbd0,,537329-1,wfo-0000686927,2741831,,
-f9184b18-8fcc-11eb-924d-9cd76263cbd0,species,laetum,Leimanthium,,"(Aiton) Willd.",,1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,fe0a2e66-8fcc-11eb-924d-9cd76263cbd0,,537330-1,wfo-0000686796,2741541,,
-f9167f72-8fcc-11eb-924d-9cd76263cbd0,species,monoicum,Leimanthium,,"(Walter) Sweet",,1826,,"Hort. Brit. 429 1826",,,,fddf4d04-8fcc-11eb-924d-9cd76263cbd0,,537331-1,wfo-0000686785,2741834,,
-f915305e-8fcc-11eb-924d-9cd76263cbd0,species,nuttallii,Leimanthium,,"(A.Gray) Hook.",,1838,,"Fl. Bor.-Amer. 2: 177 1838",,,,,,537332-1,wfo-0000686774,2741775,,
-f9138920-8fcc-11eb-924d-9cd76263cbd0,species,pallidum,Leimanthium,,Willd.,,1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,,,537333-1,wfo-0000686763,2741540,,
-f911d968-8fcc-11eb-924d-9cd76263cbd0,species,sibiricum,Leimanthium,,"(L.) Schult. & Schult.f.",,,,"Syst. Veg. 7: 1551 1830",,,,,,537334-1,wfo-0000686752,2741597,,
-f910c078-8fcc-11eb-924d-9cd76263cbd0,species,virginicum,Leimanthium,,"(L.) Willd.",,1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,,,537335-1,wfo-0000686742,2741819,,
+101044a6-9bad-11eb-a8a2-19ed5c03f8d3,species,phillipsii,Leightoniomyces,,"(Berk. & Leight.) D. Hawksw. & B. Sutton","Q662338,Q8004384",1977,,"in Hawksworth, J. Linn. Soc., Bot. 75(2): 204 (1977)",,,,a07b3722-9bac-11eb-a8a2-19ed5c03f8d3,,,,,316442," "
+2e5db430-8fcc-11eb-924d-9cd76263cbd0,species,pratensis,Leimanisa,,Raf.,Q364857,1838,,"New Fl. 4: 93 1838",,,,,,369738-1,wfo-0000364764,3839113,,
+f91b1d48-8fcc-11eb-924d-9cd76263cbd0,species,glaucum,Leimanthium,,"(Nutt.) Schult. & Schult.f.","Q728337,Q78881,Q78745",,,"Syst. Veg. 7: 1551 1830",,,,,,537328-1,wfo-0000686817,2741610,,
+bbc99082-8fd1-11eb-924d-9cd76263cbd0,species,hybridum,Leimanthium,,"(Walter) Roem. & Schult.","Q1366734,Q115659,Q78881",,,"Syst. Veg. 7: 1550 1830",,,,fe0301f4-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001246211,7657786,,
+f9309524-8fcc-11eb-924d-9cd76263cbd0,species,hybridum,Leimanthium,,"(Walter) Sweet","Q1366734,Q2003356",1826,,"Hort. Brit. 429 1826",,,,fe0301f4-8fcc-11eb-924d-9cd76263cbd0,,537329-1,wfo-0000686927,2741831,,
+f9184b18-8fcc-11eb-924d-9cd76263cbd0,species,laetum,Leimanthium,,"(Aiton) Willd.","Q465898,Q76353",1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,fe0a2e66-8fcc-11eb-924d-9cd76263cbd0,,537330-1,wfo-0000686796,2741541,,
+f9167f72-8fcc-11eb-924d-9cd76263cbd0,species,monoicum,Leimanthium,,"(Walter) Sweet","Q1366734,Q2003356",1826,,"Hort. Brit. 429 1826",,,,fddf4d04-8fcc-11eb-924d-9cd76263cbd0,,537331-1,wfo-0000686785,2741834,,
+f915305e-8fcc-11eb-924d-9cd76263cbd0,species,nuttallii,Leimanthium,,"(A.Gray) Hook.","Q347356,Q472639",1838,,"Fl. Bor.-Amer. 2: 177 1838",,,,,,537332-1,wfo-0000686774,2741775,,
+f9138920-8fcc-11eb-924d-9cd76263cbd0,species,pallidum,Leimanthium,,Willd.,Q76353,1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,,,537333-1,wfo-0000686763,2741540,,
+f911d968-8fcc-11eb-924d-9cd76263cbd0,species,sibiricum,Leimanthium,,"(L.) Schult. & Schult.f.","Q1043,Q78881,Q78745",,,"Syst. Veg. 7: 1551 1830",,,,,,537334-1,wfo-0000686752,2741597,,
+f910c078-8fcc-11eb-924d-9cd76263cbd0,species,virginicum,Leimanthium,,"(L.) Willd.","Q1043,Q76353",1808,,"Mag. Neuesten Entdeck. Gesammten Naturk. Ges. Naturf. Freunde Berlin 2: 24 1808",,,,,,537335-1,wfo-0000686742,2741819,,

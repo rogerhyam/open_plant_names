@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e101655a-8fd1-11eb-924d-9cd76263cbd0,genus,Callialaria,,,Ochyra,,1989,,"J. Hattori Bot. Lab. 67: 217. 1989.",,,,,,,wfo-4000006040,2681628,,
-f6096ca8-8fcd-11eb-924d-9cd76263cbd0,species,curvicaulis,Callialaria,,"(Jur.) Ochyra",,1989,,"J. Hattori Bot. Lab. 67: 219 1989",,,,,,,wfo-0001195847,2681629,,
-ba580742-8fcc-11eb-924d-9cd76263cbd0,species,canariensis,Callianassa,,"(L.) Webb & Berthel.",,1845,,"Hist. Nat. Iles Canaries 2(3): 144 1845",,,,,,,wfo-0000580216,7891847,,
-ba58229a-8fcc-11eb-924d-9cd76263cbd0,species,isabelliana,Callianassa,,"Webb & Berthel.",,1845,,"Hist. Nat. Iles Canaries 2(3): 145 1845",,,,,,,wfo-0000580217,7659487,,
+e101655a-8fd1-11eb-924d-9cd76263cbd0,genus,Callialaria,,,Ochyra,Q7385410,1989,,"J. Hattori Bot. Lab. 67: 217. 1989.",,,,,,,wfo-4000006040,2681628,,
+f6096ca8-8fcd-11eb-924d-9cd76263cbd0,species,curvicaulis,Callialaria,,"(Jur.) Ochyra","Q5924438,Q7385410",1989,,"J. Hattori Bot. Lab. 67: 219 1989",,,,,,,wfo-0001195847,2681629,,
+ba580742-8fcc-11eb-924d-9cd76263cbd0,species,canariensis,Callianassa,,"(L.) Webb & Berthel.","Q1043,Q1113837,Q204261",1845,,"Hist. Nat. Iles Canaries 2(3): 144 1845",,,,,,,wfo-0000580216,7891847,,
+ba58229a-8fcc-11eb-924d-9cd76263cbd0,species,isabelliana,Callianassa,,"Webb & Berthel.","Q1113837,Q204261",1845,,"Hist. Nat. Iles Canaries 2(3): 145 1845",,,,,,,wfo-0000580217,7659487,,

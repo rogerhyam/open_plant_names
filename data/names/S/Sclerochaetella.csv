@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a87c58ce-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sclerochaetella,,,Höhn.,,1917,,"Hedwigia 59: 251 (1917)",,,,a87c58ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9817," "
-95a94c9e-9bac-11eb-a8a2-19ed5c03f8d3,species,melampyri,Sclerochaetella,,Höhn.,,1927,,"Mitt. bot. Inst. tech. Hochsch. Wien 4: 48 (1927)",,,,95a94c9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206703," "
-a796fcb2-9bac-11eb-a8a2-19ed5c03f8d3,species,rivini,Sclerochaetella,,"(Allesch.) Höhn.",,1917,,"Hedwigia (1917)",,,,ba6195b8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,432116," "
-a8f45eec-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Sclerochaetium,,Hochst.,,1845,,"Flora 28: 762 1845",,,,,,315152-1,wfo-0000553307,2718408,,
-a8f4e93e-8fcc-11eb-924d-9cd76263cbd0,species,dactyloides,Sclerochaetium,,"(C.Presl) Nees ex C.B.Clarke",,1894,,"Consp. Fl. Afric. 5: 661 1894",,,,c17f9346-8fcc-11eb-924d-9cd76263cbd0,,315153-1,wfo-0000553311,2718499,,
-a8f53f4c-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Sclerochaetium,,Steud.,,1855,,"Syn. Pl. Glumac. 2: 159 1855",,,,,,315154-1,wfo-0000553314,2718538,,
-a8f6caa6-8fcc-11eb-924d-9cd76263cbd0,species,involucratum,Sclerochaetium,,"(Rottb.) Nees",,1832,,"Linnaea 7: 511 1832",,,,,,315155-1,wfo-0000553318,2718502,,
-a8f6ec0c-8fcc-11eb-924d-9cd76263cbd0,species,koenigii,Sclerochaetium,,"Nees ex Hochst.",,1845,,"Flora 28: 763 1845",,,,,,315156-1,wfo-0000553319,2718404,,
-a8f73694-8fcc-11eb-924d-9cd76263cbd0,species,rottboellii,Sclerochaetium,,"(Schrad.) Nees",,1833,,"Linnaea 8: 89 1833",,,,714c3d2a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000553321,2718406,,
-a8f79058-8fcc-11eb-924d-9cd76263cbd0,species,spirale,Sclerochaetium,,Hochst.,,1845,,"Flora 28: 761 1845",,,,,,315158-1,wfo-0000553324,2718471,,
-a8f7ad2c-8fcc-11eb-924d-9cd76263cbd0,species,teres,Sclerochaetium,,"Nees ex C.B.Clarke",,1894,,"Consp. Fl. Afric. 5: 622 1894",,,,,,315159-1,wfo-0000553325,2718409,,
-a8fa1bc0-8fcc-11eb-924d-9cd76263cbd0,species,thermale,Sclerochaetium,,"(L.) Nees",,1832,,"Linnaea 7: 512 1832",,,,,,315160-1,wfo-0000553331,2718539,,
+a87c58ce-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sclerochaetella,,,Höhn.,Q4502879,1917,,"Hedwigia 59: 251 (1917)",,,,a87c58ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9817," "
+95a94c9e-9bac-11eb-a8a2-19ed5c03f8d3,species,melampyri,Sclerochaetella,,Höhn.,Q4502879,1927,,"Mitt. bot. Inst. tech. Hochsch. Wien 4: 48 (1927)",,,,95a94c9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206703," "
+a796fcb2-9bac-11eb-a8a2-19ed5c03f8d3,species,rivini,Sclerochaetella,,"(Allesch.) Höhn.",Q4502879,1917,,"Hedwigia (1917)",,,,ba6195b8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,432116," "
+a8f45eec-8fcc-11eb-924d-9cd76263cbd0,species,angustifolium,Sclerochaetium,,Hochst.,Q64983,1845,,"Flora 28: 762 1845",,,,,,315152-1,wfo-0000553307,2718408,,
+a8f4e93e-8fcc-11eb-924d-9cd76263cbd0,species,dactyloides,Sclerochaetium,,"(C.Presl) Nees ex C.B.Clarke","Q379601,Q76349,Q2659116",1894,,"Consp. Fl. Afric. 5: 661 1894",,,,c17f9346-8fcc-11eb-924d-9cd76263cbd0,,315153-1,wfo-0000553311,2718499,,
+a8f53f4c-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Sclerochaetium,,Steud.,Q62821,1855,,"Syn. Pl. Glumac. 2: 159 1855",,,,,,315154-1,wfo-0000553314,2718538,,
+a8f6caa6-8fcc-11eb-924d-9cd76263cbd0,species,involucratum,Sclerochaetium,,"(Rottb.) Nees","Q2615816,Q76349",1832,,"Linnaea 7: 511 1832",,,,,,315155-1,wfo-0000553318,2718502,,
+a8f6ec0c-8fcc-11eb-924d-9cd76263cbd0,species,koenigii,Sclerochaetium,,"Nees ex Hochst.","Q76349,Q64983",1845,,"Flora 28: 763 1845",,,,,,315156-1,wfo-0000553319,2718404,,
+a8f73694-8fcc-11eb-924d-9cd76263cbd0,species,rottboellii,Sclerochaetium,,"(Schrad.) Nees","Q62591,Q76349",1833,,"Linnaea 8: 89 1833",,,,714c3d2a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000553321,2718406,,
+a8f79058-8fcc-11eb-924d-9cd76263cbd0,species,spirale,Sclerochaetium,,Hochst.,Q64983,1845,,"Flora 28: 761 1845",,,,,,315158-1,wfo-0000553324,2718471,,
+a8f7ad2c-8fcc-11eb-924d-9cd76263cbd0,species,teres,Sclerochaetium,,"Nees ex C.B.Clarke","Q76349,Q2659116",1894,,"Consp. Fl. Afric. 5: 622 1894",,,,,,315159-1,wfo-0000553325,2718409,,
+a8fa1bc0-8fcc-11eb-924d-9cd76263cbd0,species,thermale,Sclerochaetium,,"(L.) Nees","Q1043,Q76349",1832,,"Linnaea 7: 512 1832",,,,,,315160-1,wfo-0000553331,2718539,,

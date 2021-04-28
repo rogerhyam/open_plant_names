@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5eca494-8fd1-11eb-924d-9cd76263cbd0,genus,Limaciopsis,,,Engl.,,1899,,"Bot. Jahrb. Syst. 26: 414. 1899.",,,,,,26967-1,wfo-4000021750,7268787,,
-c1ac6028-8fcd-11eb-924d-9cd76263cbd0,species,banguensis,Limaciopsis,,Engl.,,,,,,,,,,,wfo-0001083874,7947769,,
-685df406-8fcc-11eb-924d-9cd76263cbd0,species,loangensis,Limaciopsis,,Engl.,,1899,,"Bot. Jahrb. Syst. 26: 414 1899",,,,,,581025-1,wfo-0000443872,3830755,,
-b7a1fec2-8fd1-11eb-924d-9cd76263cbd0,species,valida,Limaciopsis,,"(Diels) H.S.Lo",,1983,,"Fl. Yunnan. 3: 238, pl. 67 1983",,,,,,,wfo-0001238622,3830748,,
+e5eca494-8fd1-11eb-924d-9cd76263cbd0,genus,Limaciopsis,,,Engl.,Q60718,1899,,"Bot. Jahrb. Syst. 26: 414. 1899.",,,,,,26967-1,wfo-4000021750,7268787,,
+c1ac6028-8fcd-11eb-924d-9cd76263cbd0,species,banguensis,Limaciopsis,,Engl.,Q60718,,,,,,,,,,wfo-0001083874,7947769,,
+685df406-8fcc-11eb-924d-9cd76263cbd0,species,loangensis,Limaciopsis,,Engl.,Q60718,1899,,"Bot. Jahrb. Syst. 26: 414 1899",,,,,,581025-1,wfo-0000443872,3830755,,
+b7a1fec2-8fd1-11eb-924d-9cd76263cbd0,species,valida,Limaciopsis,,"(Diels) H.S.Lo","Q77123,Q18986758",1983,,"Fl. Yunnan. 3: 238, pl. 67 1983",,,,,,,wfo-0001238622,3830748,,

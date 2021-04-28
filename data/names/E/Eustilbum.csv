@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6fd98aa-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eustilbum,,,Arnold,,,,,,,,a6fd98aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8217," "
-39b49e70-9bac-11eb-a8a2-19ed5c03f8d3,species,aureum,Eustilbum,,"(Pers.) Seifert & S.E. Carp.",,,,"Can. J. Bot. 65(6): 1263 (1987)",,,,,,,,,132626," "
-85e16a84-9bad-11eb-a8a2-19ed5c03f8d3,species,baeomycioides,Eustilbum,,"(Trevis.) Arnold",,,,,,,,43166ba0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384949," "
-79a8e482-9bac-11eb-a8a2-19ed5c03f8d3,species,rehmianum,Eustilbum,,Rabenh.,,,,,,,,79a8e482-9bac-11eb-a8a2-19ed5c03f8d3,,,,,117542," "
-867df232-9bad-11eb-a8a2-19ed5c03f8d3,species,resinae,Eustilbum,,"(Bres. & Sacc.) Magnus",,1905,,"Pilzfl. Tirol. 562 (1905)",,,,8dd7c8d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502357," "
+a6fd98aa-9bad-11eb-a8a2-19ed5c03f8d3,genus,Eustilbum,,,Arnold,Q2460005,,,,,,,a6fd98aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8217," "
+39b49e70-9bac-11eb-a8a2-19ed5c03f8d3,species,aureum,Eustilbum,,"(Pers.) Seifert & S.E. Carp.",Q346451,,,"Can. J. Bot. 65(6): 1263 (1987)",,,,,,,,,132626," "
+85e16a84-9bad-11eb-a8a2-19ed5c03f8d3,species,baeomycioides,Eustilbum,,"(Trevis.) Arnold","Q634712,Q2460005",,,,,,,43166ba0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384949," "
+79a8e482-9bac-11eb-a8a2-19ed5c03f8d3,species,rehmianum,Eustilbum,,Rabenh.,Q65090,,,,,,,79a8e482-9bac-11eb-a8a2-19ed5c03f8d3,,,,,117542," "
+867df232-9bad-11eb-a8a2-19ed5c03f8d3,species,resinae,Eustilbum,,"(Bres. & Sacc.) Magnus","Q707840,Q15431600",1905,,"Pilzfl. Tirol. 562 (1905)",,,,8dd7c8d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502357," "

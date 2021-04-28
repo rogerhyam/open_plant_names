@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5535b5e-8fd1-11eb-924d-9cd76263cbd0,genus,Kaulinia,,,B.K.Nayar,,1964,,"Taxon 13: 67. 1964.",,,,,,,wfo-4000019875,7290158,,
-b1958198-8fd1-11eb-924d-9cd76263cbd0,species,dilatata,Kaulinia,,"B.K.Nayar & S.Kaur",,1974,,"Companion Beddome's Handb. Ferns Brit. India 69, 89 1974",,,,,,,wfo-0001227483,8669940,,
-b1959f0c-8fd1-11eb-924d-9cd76263cbd0,species,hancockii,Kaulinia,,"(Baker) B.K.Nayar",,1964,,"Taxon 13: 67 1964",,Q28951893,,,,17441400-1,wfo-0001227484,4027128,,
-b1964902-8fd1-11eb-924d-9cd76263cbd0,species,pteropus,Kaulinia,,"(Blume) B.K.Nayar",,1964,,"Taxon 13: 67 1964",,Q28951893,,d112688c-8fcd-11eb-924d-9cd76263cbd0,,17441410-1,wfo-0001227490,4027123,,
-b19945a8-8fd1-11eb-924d-9cd76263cbd0,variety,minor,Kaulinia,pteropus,"(Bedd.) B.K.Nayar & S.Kaur",,1974,,"Companion Beddome's Handb. Ferns Brit. India 87 1974",,,,,,,wfo-0001227512,7501499,,
-b1989158-8fd1-11eb-924d-9cd76263cbd0,species,zosteriformis,Kaulinia,,"(Wall. ex Mett.) B.K.Nayar & S.Kaur",,1974,,"Companion Beddome's Handb. Ferns Brit. India 87 1974",,,,,,17441420-1,wfo-0001227506,4027116,,
+e5535b5e-8fd1-11eb-924d-9cd76263cbd0,genus,Kaulinia,,,B.K.Nayar,Q18986996,1964,,"Taxon 13: 67. 1964.",,,,,,,wfo-4000019875,7290158,,
+b1958198-8fd1-11eb-924d-9cd76263cbd0,species,dilatata,Kaulinia,,"B.K.Nayar & S.Kaur","Q18986996,Q21517349",1974,,"Companion Beddome's Handb. Ferns Brit. India 69, 89 1974",,,,,,,wfo-0001227483,8669940,,
+b1959f0c-8fd1-11eb-924d-9cd76263cbd0,species,hancockii,Kaulinia,,"(Baker) B.K.Nayar","Q730330,Q18986996",1964,,"Taxon 13: 67 1964",,Q28951893,,,,17441400-1,wfo-0001227484,4027128,,
+b1964902-8fd1-11eb-924d-9cd76263cbd0,species,pteropus,Kaulinia,,"(Blume) B.K.Nayar","Q76816,Q18986996",1964,,"Taxon 13: 67 1964",,Q28951893,,d112688c-8fcd-11eb-924d-9cd76263cbd0,,17441410-1,wfo-0001227490,4027123,,
+b19945a8-8fd1-11eb-924d-9cd76263cbd0,variety,minor,Kaulinia,pteropus,"(Bedd.) B.K.Nayar & S.Kaur","Q2985757,Q18986996,Q21517349",1974,,"Companion Beddome's Handb. Ferns Brit. India 87 1974",,,,,,,wfo-0001227512,7501499,,
+b1989158-8fd1-11eb-924d-9cd76263cbd0,species,zosteriformis,Kaulinia,,"(Wall. ex Mett.) B.K.Nayar & S.Kaur","Q730310,Q70825,Q18986996,Q21517349",1974,,"Companion Beddome's Handb. Ferns Brit. India 87 1974",,,,,,17441420-1,wfo-0001227506,4027116,,

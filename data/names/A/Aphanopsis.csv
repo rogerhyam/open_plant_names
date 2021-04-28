@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a183ea82-9bad-11eb-a8a2-19ed5c03f8d3,genus,Aphanopsis,,,"Nyl. ex P. Syd.",,1887,,"Flecht. Deutschl. 307, 325 (1887)",,,,a183ea82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,247," "
-2741d05a-9bac-11eb-a8a2-19ed5c03f8d3,species,coenosa,Aphanopsis,,"(Ach.) Coppins & P. James",,1984,,"Lichenologist 16(3): 248 (1984)",,,,42810074-9bad-11eb-a8a2-19ed5c03f8d3,,,,,105924," "
+a183ea82-9bad-11eb-a8a2-19ed5c03f8d3,genus,Aphanopsis,,,"Nyl. ex P. Syd.",Q932083,1887,,"Flecht. Deutschl. 307, 325 (1887)",,,,a183ea82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,247," "
+2741d05a-9bac-11eb-a8a2-19ed5c03f8d3,species,coenosa,Aphanopsis,,"(Ach.) Coppins & P. James",Q365923,1984,,"Lichenologist 16(3): 248 (1984)",,,,42810074-9bad-11eb-a8a2-19ed5c03f8d3,,,,,105924," "
 8135ebcc-9bad-11eb-a8a2-19ed5c03f8d3,species,lutigena,Aphanopsis,,"J. Lahm",,,,,,,,8135ebcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376267," "
-3f2b556e-9bad-11eb-a8a2-19ed5c03f8d3,species,terrigena,Aphanopsis,,"(Ach.) Nyl.",,,,,,,,886f76e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376268," "
+3f2b556e-9bad-11eb-a8a2-19ed5c03f8d3,species,terrigena,Aphanopsis,,"(Ach.) Nyl.","Q365923,Q932083",,,,,,,886f76e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376268," "

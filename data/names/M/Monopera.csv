@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6de9222-8fd1-11eb-924d-9cd76263cbd0,genus,Monopera,,,Barringer,,1983,,"Brittonia 35(2): 111. 1983.",,Q55768941,,,,893313-1,wfo-4000024722,7332906,,
-be738b1c-8fd1-11eb-924d-9cd76263cbd0,species,micrantha,Monopera,,"(Benth.) Barringer",,1983,,"Brittonia 35(2): 112 1983",,Q55768941,,,,912839-1,wfo-0001251176,3737707,,
-be73ac64-8fd1-11eb-924d-9cd76263cbd0,species,perennis,Monopera,,"(Hassl.) Barringer",,1983,,"Brittonia 35(2): 113 1983",,Q55768941,,9ed649b6-8fcc-11eb-924d-9cd76263cbd0,,163803-2,wfo-0001251177,3737694,,
+e6de9222-8fd1-11eb-924d-9cd76263cbd0,genus,Monopera,,,Barringer,Q5959210,1983,,"Brittonia 35(2): 111. 1983.",,Q55768941,,,,893313-1,wfo-4000024722,7332906,,
+be738b1c-8fd1-11eb-924d-9cd76263cbd0,species,micrantha,Monopera,,"(Benth.) Barringer","Q731808,Q5959210",1983,,"Brittonia 35(2): 112 1983",,Q55768941,,,,912839-1,wfo-0001251176,3737707,,
+be73ac64-8fd1-11eb-924d-9cd76263cbd0,species,perennis,Monopera,,"(Hassl.) Barringer","Q116720,Q5959210",1983,,"Brittonia 35(2): 113 1983",,Q55768941,,9ed649b6-8fcc-11eb-924d-9cd76263cbd0,,163803-2,wfo-0001251177,3737694,,

@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e71bc430-8fd1-11eb-924d-9cd76263cbd0,genus,Neesiella,,,Schiffn.,,1893,,"Hepat. (Engl.-Prantl) 32. 1893.",,,,e71bc430-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000025489,3229840,3435," "
-fc8f70ae-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Neesiella,,"(Lindenb. ex Mont.) Stephani",,1898,,1898,,,,fc8f5754-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209400,7899250,,
-d6f7c2e8-9bac-11eb-a8a2-19ed5c03f8d3,species,cladoniae,Neesiella,,"(Anzi) Kirschst.",,1935,,"Annls mycol. 33: 217 (1935)",,,,cdd48156-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261030," "
-add85f8e-8fcd-11eb-924d-9cd76263cbd0,species,echinoides,Neesiella,,"(L.) Sreem.",,1967,,"Phytologia 15: 270 1967",,,,abf38248-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001038802,7366750,,
-37d5e492-8fcc-11eb-924d-9cd76263cbd0,species,echioides,Neesiella,,"(L.) Sreem.",,1967,,"Phytologia 15: 271 1967",,,,,,52553-1,wfo-0000379847,5573134,,
+e71bc430-8fd1-11eb-924d-9cd76263cbd0,genus,Neesiella,,,Schiffn.,Q15995987,1893,,"Hepat. (Engl.-Prantl) 32. 1893.",,,,e71bc430-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000025489,3229840,3435," "
+fc8f70ae-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Neesiella,,"(Lindenb. ex Mont.) Stephani","Q96169,Q1029228",1898,,1898,,,,fc8f5754-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001209400,7899250,,
+d6f7c2e8-9bac-11eb-a8a2-19ed5c03f8d3,species,cladoniae,Neesiella,,"(Anzi) Kirschst.",Q3850235,1935,,"Annls mycol. 33: 217 (1935)",,,,cdd48156-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261030," "
+add85f8e-8fcd-11eb-924d-9cd76263cbd0,species,echinoides,Neesiella,,"(L.) Sreem.","Q1043,Q14229515",1967,,"Phytologia 15: 270 1967",,,,abf38248-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001038802,7366750,,
+37d5e492-8fcc-11eb-924d-9cd76263cbd0,species,echioides,Neesiella,,"(L.) Sreem.","Q1043,Q14229515",1967,,"Phytologia 15: 271 1967",,,,,,52553-1,wfo-0000379847,5573134,,
 da36cbf2-9bac-11eb-a8a2-19ed5c03f8d3,species,formosa,Neesiella,,"(Kirschst.) Kirschst.",,1935,,"Annls mycol. 33: 212 (1935)",,,,da367bca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265210," "
-37d5c110-8fcc-11eb-924d-9cd76263cbd0,species,longipedunculata,Neesiella,,Sreem.,,1967,,"Phytologia 15: 271 1967",,,,,,52554-1,wfo-0000379846,5573133,,
-fc8f8be8-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Neesiella,,"(Nees) Schiffner",,1893,,1893,,,,,,,wfo-0001209401,8414492,,
+37d5c110-8fcc-11eb-924d-9cd76263cbd0,species,longipedunculata,Neesiella,,Sreem.,Q14229515,1967,,"Phytologia 15: 271 1967",,,,,,52554-1,wfo-0000379846,5573133,,
+fc8f8be8-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Neesiella,,"(Nees) Schiffner",Q76349,1893,,1893,,,,,,,wfo-0001209401,8414492,,

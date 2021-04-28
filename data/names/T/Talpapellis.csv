@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9a8e01ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Talpapellis,,,"Alstrup & M. Cole",,1998,,"Bryologist 10(2): 227 (1998)",,,,9a8e01ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27897," "
 592dd842-9bad-11eb-a8a2-19ed5c03f8d3,species,peltigerae,Talpapellis,,"Alstrup & M.S. Cole",,1998,,"Bryologist 10(2): 227 (1998)",,,,592dd842-9bad-11eb-a8a2-19ed5c03f8d3,,,,,445476," "
-13c463ee-8fcc-11eb-924d-9cd76263cbd0,species,bivalvis,Talpinaria,,H.Karst.,,1859,,"Fl. Columb. 1: 153 1859",,,,,,659823-1,wfo-0000320722,2786619,,
-b346db5e-8fcc-11eb-924d-9cd76263cbd0,species,hitchcockii,Talpinaria,,"(Ames) Luer",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f7f749ec-8fcb-11eb-924d-9cd76263cbd0,,60437235-2,wfo-0000568246,2787573,,
-b34859de-8fcc-11eb-924d-9cd76263cbd0,species,punctulata,Talpinaria,,"(Rolfe) Luer",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f8702b6e-8fcb-11eb-924d-9cd76263cbd0,,60437236-2,wfo-0000568255,2787611,,
-b349029e-8fcc-11eb-924d-9cd76263cbd0,species,sandemanii,Talpinaria,,"(Luer) Luer",,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f88d2e44-8fcb-11eb-924d-9cd76263cbd0,,60437237-2,wfo-0000568262,2787591,,
-181c3f06-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Taltalia,,"(Phil.) Ehr.Bayer",,1998,,"Sendtnera 5: 7 1998",,,,,,1120497-2,wfo-0000743035,2753716,,
+13c463ee-8fcc-11eb-924d-9cd76263cbd0,species,bivalvis,Talpinaria,,H.Karst.,Q62413,1859,,"Fl. Columb. 1: 153 1859",,,,,,659823-1,wfo-0000320722,2786619,,
+b346db5e-8fcc-11eb-924d-9cd76263cbd0,species,hitchcockii,Talpinaria,,"(Ames) Luer","Q1669326,Q2067641",2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f7f749ec-8fcb-11eb-924d-9cd76263cbd0,,60437235-2,wfo-0000568246,2787573,,
+b34859de-8fcc-11eb-924d-9cd76263cbd0,species,punctulata,Talpinaria,,"(Rolfe) Luer","Q2635543,Q2067641",2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f8702b6e-8fcb-11eb-924d-9cd76263cbd0,,60437236-2,wfo-0000568255,2787611,,
+b349029e-8fcc-11eb-924d-9cd76263cbd0,species,sandemanii,Talpinaria,,"(Luer) Luer",Q2067641,2004,,"Monogr. Syst. Bot. Missouri Bot. Gard. 95: 265 2004",,,,f88d2e44-8fcb-11eb-924d-9cd76263cbd0,,60437237-2,wfo-0000568262,2787591,,
+181c3f06-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Taltalia,,"(Phil.) Ehr.Bayer","Q214994,Q600551",1998,,"Sendtnera 5: 7 1998",,,,,,1120497-2,wfo-0000743035,2753716,,

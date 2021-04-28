@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9c929e42-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dubitatio,,,Speg.,,1882,,"Anal. Soc. cient. argent. 12(5): 212 (1882)",,,,9c929e42-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1711," "
-cdf88f56-9bac-11eb-a8a2-19ed5c03f8d3,species,dubitationum,Dubitatio,,Speg.,,1881,,"Anal. Soc. cient. argent. 12(5): 212 [no. 202] (1881)",,,,cdf88f56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242962," "
-81fc6784-8fcd-11eb-924d-9cd76263cbd0,species,hemirhoda,Dubois-Reymondia,,"(Lindl.) Brieger",,1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,f7f3862c-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000946724,3654195,,
-af575e10-8fd1-11eb-924d-9cd76263cbd0,species,hemirrhoda,Dubois-reymondia,,"(Lindl. & J.Paxton) Brieger",,1977,,"Trab. Cong. Nac. Bot. (Rio de Janeiro) 26: 43 1977",,,,,,85514-2,wfo-0001223341,,,
-81fc830e-8fcd-11eb-924d-9cd76263cbd0,species,hystrix,Dubois-Reymondia,,"(Rchb.f.) Brieger",,1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,f7fb5654-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000946725,3654192,,
-81fca1ae-8fcd-11eb-924d-9cd76263cbd0,species,lancipetala,Dubois-Reymondia,,H.Karst.,,1860,,"Fl. Columb. 1: t. 47 1860",,,,,,,wfo-0000946726,3654189,,
-81fcbf54-8fcd-11eb-924d-9cd76263cbd0,species,lonchophylla,Dubois-Reymondia,,"(Barb.Rodr.) Brieger",,1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,039814c0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000946727,3654188,,
-81fcdd68-8fcd-11eb-924d-9cd76263cbd0,species,palpigera,Dubois-Reymondia,,H.Karst.,,1848,,"Bot. Zeitung (Berlin) 6: 397 1848",,,,,,,wfo-0000946728,3654184,,
-81fd162a-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Dubois-Reymondia,,"(Barb.Rodr.) Brieger",,1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,,,,wfo-0000946730,3654182,,
-af592416-8fd1-11eb-924d-9cd76263cbd0,species,raimondii,Dubois-reymondia,,"(H.Karst.) Brieger",,1977,,"Trab. Congr. Nac. Bot. (Rio de Janeiro) 26: 43 1977",,,,,,85520-2,wfo-0001223354,3654181,,
-81fd3524-8fcd-11eb-924d-9cd76263cbd0,species,reymondii,Dubois-Reymondia,,"(H.Karst.) Brieger",,1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,81fc4c04-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000946731,5951397,,
+9c929e42-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dubitatio,,,Speg.,Q648013,1882,,"Anal. Soc. cient. argent. 12(5): 212 (1882)",,,,9c929e42-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1711," "
+cdf88f56-9bac-11eb-a8a2-19ed5c03f8d3,species,dubitationum,Dubitatio,,Speg.,Q648013,1881,,"Anal. Soc. cient. argent. 12(5): 212 [no. 202] (1881)",,,,cdf88f56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242962," "
+81fc6784-8fcd-11eb-924d-9cd76263cbd0,species,hemirhoda,Dubois-Reymondia,,"(Lindl.) Brieger","Q378629,Q2314714",1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,f7f3862c-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000946724,3654195,,
+af575e10-8fd1-11eb-924d-9cd76263cbd0,species,hemirrhoda,Dubois-reymondia,,"(Lindl. & J.Paxton) Brieger","Q378629,Q2314714",1977,,"Trab. Cong. Nac. Bot. (Rio de Janeiro) 26: 43 1977",,,,,,85514-2,wfo-0001223341,,,
+81fc830e-8fcd-11eb-924d-9cd76263cbd0,species,hystrix,Dubois-Reymondia,,"(Rchb.f.) Brieger","Q62820,Q2314714",1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,f7fb5654-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000946725,3654192,,
+81fca1ae-8fcd-11eb-924d-9cd76263cbd0,species,lancipetala,Dubois-Reymondia,,H.Karst.,Q62413,1860,,"Fl. Columb. 1: t. 47 1860",,,,,,,wfo-0000946726,3654189,,
+81fcbf54-8fcd-11eb-924d-9cd76263cbd0,species,lonchophylla,Dubois-Reymondia,,"(Barb.Rodr.) Brieger","Q45374,Q2314714",1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,039814c0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000946727,3654188,,
+81fcdd68-8fcd-11eb-924d-9cd76263cbd0,species,palpigera,Dubois-Reymondia,,H.Karst.,Q62413,1848,,"Bot. Zeitung (Berlin) 6: 397 1848",,,,,,,wfo-0000946728,3654184,,
+81fd162a-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Dubois-Reymondia,,"(Barb.Rodr.) Brieger","Q45374,Q2314714",1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,,,,wfo-0000946730,3654182,,
+af592416-8fd1-11eb-924d-9cd76263cbd0,species,raimondii,Dubois-reymondia,,"(H.Karst.) Brieger","Q62413,Q2314714",1977,,"Trab. Congr. Nac. Bot. (Rio de Janeiro) 26: 43 1977",,,,,,85520-2,wfo-0001223354,3654181,,
+81fd3524-8fcd-11eb-924d-9cd76263cbd0,species,reymondii,Dubois-Reymondia,,"(H.Karst.) Brieger","Q62413,Q2314714",1977,,"Trab. Congr. Nac. Bot. 26: 43 1977",,,,81fc4c04-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000946731,5951397,,

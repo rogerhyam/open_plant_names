@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9fcb21d8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hypopteris,,,Berk.,,,,,,,,9fcb21d8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2450," "
-1f0ba280-9bac-11eb-a8a2-19ed5c03f8d3,species,apiospora,Hypopteris,,"(Mont.) Berk.",,,,,,,,,,,,,191890," "
-c74602c4-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusae,Hypopteris,,Berk.,,,,,,,,c74602c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192058," "
-5a369a08-9bad-11eb-a8a2-19ed5c03f8d3,species,graminis,Hypopteris,,"(Pers.) Fr. ex P. Karst.",,1866,,"Fungi Fenniae Exsiccati, Fasc. 5(nos 400-500): no. 483 (1866)",,,,,,,,,447204," "
-59f95a9e-9bad-11eb-a8a2-19ed5c03f8d3,species,luzulae,Hypopteris,,Rabenh.,,1861,invalid,"Kryptogamen Badens, unter Mitwirkung mehrer Botaniker, fasc. 7(nos 301-340): 335 (1861)",,,,59f95a9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,447205,"Nom. inval., Art. 32.1(c) "
+9fcb21d8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hypopteris,,,Berk.,Q662338,,,,,,,9fcb21d8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2450," "
+1f0ba280-9bac-11eb-a8a2-19ed5c03f8d3,species,apiospora,Hypopteris,,"(Mont.) Berk.","Q1029228,Q662338",,,,,,,,,,,,191890," "
+c74602c4-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusae,Hypopteris,,Berk.,Q662338,,,,,,,c74602c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192058," "
+5a369a08-9bad-11eb-a8a2-19ed5c03f8d3,species,graminis,Hypopteris,,"(Pers.) Fr. ex P. Karst.","Q346451,Q15405",1866,,"Fungi Fenniae Exsiccati, Fasc. 5(nos 400-500): no. 483 (1866)",,,,,,,,,447204," "
+59f95a9e-9bad-11eb-a8a2-19ed5c03f8d3,species,luzulae,Hypopteris,,Rabenh.,Q65090,1861,invalid,"Kryptogamen Badens, unter Mitwirkung mehrer Botaniker, fasc. 7(nos 301-340): 335 (1861)",,,,59f95a9e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,447205,"Nom. inval., Art. 32.1(c) "

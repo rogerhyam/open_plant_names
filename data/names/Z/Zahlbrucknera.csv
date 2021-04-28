@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec332c60-8fd1-11eb-924d-9cd76263cbd0,genus,Zahlbrucknera,,,Rchb.,,1832,,"Fl. Germ. Excurs. 551. 1832.",,,,ec332c60-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000041123,8130945,5862," "
-5e5cd53a-8fcc-11eb-924d-9cd76263cbd0,species,achyranthoidea,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 73 1847",,,,,,56585-1,wfo-0000429220,8274134,,
-4d020566-9bad-11eb-a8a2-19ed5c03f8d3,species,calcarea,Zahlbrucknera,,Herre,,1910,,"Meth. J. Pl. Path. 12: 129 (1910)",,,,4d020566-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410082," "
-5e5cb38e-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 21 1847",,,,,,56586-1,wfo-0000429219,8194881,,
-5e5c8f26-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 16 1847",,,,,,56587-1,wfo-0000429218,7952042,,
-5e5c6c6c-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 21 1847",,,,,,56588-1,wfo-0000429217,8059885,,
-5e5c4c1e-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Prodr. 11: 210 1847",,,,,,56589-1,wfo-0000429216,7782207,,
-5e5c23b0-8fcc-11eb-924d-9cd76263cbd0,species,maranhonis,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 25 1847",,,,,,56590-1,wfo-0000429215,7542266,,
-5e5b9350-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Fl. Bras. 9: 22 1847",,,,,,56591-1,wfo-0000429214,8319493,,
-5e5af044-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Prodr. 11: 86 1847",,,,,,56592-1,wfo-0000429213,7927043,,
-5e79e382-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Zahlbrucknera,,"(Sternb.) Rchb.",,1832,,"Fl. Germ. Excurs. 2: 551 1832",,,,854073d2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000429315,5567712,,
-5e5acd76-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Prodr. 11: 113 1847",,,,,,56593-1,wfo-0000429212,7364868,,
-5e5aa9ea-8fcc-11eb-924d-9cd76263cbd0,species,repens,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Prodr. 11: 66 1847",,,,,,56594-1,wfo-0000429211,7438750,,
-5e5a83de-8fcc-11eb-924d-9cd76263cbd0,species,salicifolia,Zahlbrucknera,,"Pohl ex Nees",,1847,,"Prodr. 11: 214 1847",,,,,,56595-1,wfo-0000429210,7984488,,
+ec332c60-8fd1-11eb-924d-9cd76263cbd0,genus,Zahlbrucknera,,,Rchb.,Q58053,1832,,"Fl. Germ. Excurs. 551. 1832.",,,,ec332c60-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000041123,8130945,5862," "
+5e5cd53a-8fcc-11eb-924d-9cd76263cbd0,species,achyranthoidea,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 73 1847",,,,,,56585-1,wfo-0000429220,8274134,,
+4d020566-9bad-11eb-a8a2-19ed5c03f8d3,species,calcarea,Zahlbrucknera,,Herre,Q425571,1910,,"Meth. J. Pl. Path. 12: 129 (1910)",,,,4d020566-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410082," "
+5e5cb38e-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 21 1847",,,,,,56586-1,wfo-0000429219,8194881,,
+5e5c8f26-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 16 1847",,,,,,56587-1,wfo-0000429218,7952042,,
+5e5c6c6c-8fcc-11eb-924d-9cd76263cbd0,species,longifolia,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 21 1847",,,,,,56588-1,wfo-0000429217,8059885,,
+5e5c4c1e-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Prodr. 11: 210 1847",,,,,,56589-1,wfo-0000429216,7782207,,
+5e5c23b0-8fcc-11eb-924d-9cd76263cbd0,species,maranhonis,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 25 1847",,,,,,56590-1,wfo-0000429215,7542266,,
+5e5b9350-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Fl. Bras. 9: 22 1847",,,,,,56591-1,wfo-0000429214,8319493,,
+5e5af044-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolia,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Prodr. 11: 86 1847",,,,,,56592-1,wfo-0000429213,7927043,,
+5e79e382-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Zahlbrucknera,,"(Sternb.) Rchb.","Q78564,Q58053",1832,,"Fl. Germ. Excurs. 2: 551 1832",,,,854073d2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000429315,5567712,,
+5e5acd76-8fcc-11eb-924d-9cd76263cbd0,species,pilosa,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Prodr. 11: 113 1847",,,,,,56593-1,wfo-0000429212,7364868,,
+5e5aa9ea-8fcc-11eb-924d-9cd76263cbd0,species,repens,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Prodr. 11: 66 1847",,,,,,56594-1,wfo-0000429211,7438750,,
+5e5a83de-8fcc-11eb-924d-9cd76263cbd0,species,salicifolia,Zahlbrucknera,,"Pohl ex Nees","Q78737,Q76349",1847,,"Prodr. 11: 214 1847",,,,,,56595-1,wfo-0000429210,7984488,,

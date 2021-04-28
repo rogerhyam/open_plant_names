@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6bd7a06-8fd1-11eb-924d-9cd76263cbd0,genus,Miersiella,,,Urb.,,1903,,"Symb. Antill. 3: 439. 1903.",,,,,,297576-2,wfo-4000024280,2756427,,
-79032376-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Miersiella,,Sandwith,,1931,,"Bull. Misc. Inform. Kew 1931: 59 1931",,Q55777865,,,,160720-2,wfo-0000472213,5301124,,
-79044076-8fcc-11eb-924d-9cd76263cbd0,species,costata,Miersiella,,"(Miers) Sandwith",,1931,,"Bull. Misc. Inform. Kew 1931: 59 1931",,Q55777865,,,,160721-2,wfo-0000472222,5301123,,
-7905d864-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Miersiella,,Brade,,1946,,"Rodriguésia 10(20): 41 1946",,Q92437520,,,,126753-1,wfo-0000472231,5301122,,
-79073e84-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Miersiella,,"(Miers) Urb.",,1903,,"Symb. Antill. 3: 439 1903",,,,,,160723-2,wfo-0000472242,5301121,,
-c1ac7c20-8fcd-11eb-924d-9cd76263cbd0,species,nervosum,Miersiophyton,,Engl.,,1899,,"Bot. Jahrb. Syst. 26: 406 1899",,,,,,581129-1,wfo-0001083875,3829638,,
+e6bd7a06-8fd1-11eb-924d-9cd76263cbd0,genus,Miersiella,,,Urb.,Q64845,1903,,"Symb. Antill. 3: 439. 1903.",,,,,,297576-2,wfo-4000024280,2756427,,
+79032376-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Miersiella,,Sandwith,Q346126,1931,,"Bull. Misc. Inform. Kew 1931: 59 1931",,Q55777865,,,,160720-2,wfo-0000472213,5301124,,
+79044076-8fcc-11eb-924d-9cd76263cbd0,species,costata,Miersiella,,"(Miers) Sandwith","Q575253,Q346126",1931,,"Bull. Misc. Inform. Kew 1931: 59 1931",,Q55777865,,,,160721-2,wfo-0000472222,5301123,,
+7905d864-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Miersiella,,Brade,Q5650096,1946,,"Rodriguésia 10(20): 41 1946",,Q92437520,,,,126753-1,wfo-0000472231,5301122,,
+79073e84-8fcc-11eb-924d-9cd76263cbd0,species,umbellata,Miersiella,,"(Miers) Urb.","Q575253,Q64845",1903,,"Symb. Antill. 3: 439 1903",,,,,,160723-2,wfo-0000472242,5301121,,
+c1ac7c20-8fcd-11eb-924d-9cd76263cbd0,species,nervosum,Miersiophyton,,Engl.,Q60718,1899,,"Bot. Jahrb. Syst. 26: 406 1899",,,,,,581129-1,wfo-0001083875,3829638,,

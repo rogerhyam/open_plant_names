@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e14c264e-8fd1-11eb-924d-9cd76263cbd0,genus,Catalepis,,,"Stapf & Stent",,1929,,"Bull. Misc. Inform. Kew 1929(1): 11. 1929.",,Q55783919,,,,17688-1,wfo-4000006969,4105610,,
-4e0eae00-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Catalepis,,"Stent & Stapf",,1929,,"Bull. Misc. Inform. Kew 1929: 11 1929",,Q55783919,,,,395146-1,wfo-0000858476,4105609,,
-c0f9ba36-8fb9-11eb-924d-9cd76263cbd0,species,rubicunda,Cataleuca,,"K.Koch & Fintelm.",,1859,,"Wochenschrift fur Gartnerei und Pflanzenkunde 2: 163 1859",,,,,,,wfo-0000121085,3143161,,
+e14c264e-8fd1-11eb-924d-9cd76263cbd0,genus,Catalepis,,,"Stapf & Stent","Q78630,Q2868331",1929,,"Bull. Misc. Inform. Kew 1929(1): 11. 1929.",,Q55783919,,,,17688-1,wfo-4000006969,4105610,,
+4e0eae00-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Catalepis,,"Stent & Stapf","Q2868331,Q78630",1929,,"Bull. Misc. Inform. Kew 1929: 11 1929",,Q55783919,,,,395146-1,wfo-0000858476,4105609,,
+c0f9ba36-8fb9-11eb-924d-9cd76263cbd0,species,rubicunda,Cataleuca,,"K.Koch & Fintelm.","Q65130,Q1556020",1859,,"Wochenschrift fur Gartnerei und Pflanzenkunde 2: 163 1859",,,,,,,wfo-0000121085,3143161,,

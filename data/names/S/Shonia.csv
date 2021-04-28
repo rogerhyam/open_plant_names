@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea58b86a-8fd1-11eb-924d-9cd76263cbd0,genus,Shonia,,,"R.J.F.Hend. & Halford",,,,,,Q92298773,,,,60442409-2,wfo-4000035255,3070771,,
-35f84862-8fcd-11eb-924d-9cd76263cbd0,species,bickertonensis,Shonia,,"(Specht) Halford & R.J.F.Hend.",,2005,,"Austrobaileya 7: 223 2005",,Q92298773,,1db821ec-8fcc-11eb-924d-9cd76263cbd0,,60442414-2,wfo-0000806465,3070777,,
-35f86bda-8fcd-11eb-924d-9cd76263cbd0,species,carinata,Shonia,,"Halford & R.J.F.Hend.",,2005,,"Austrobaileya 7: 225 2005",,,,,,,wfo-0000806466,3070780,,
-35f88750-8fcd-11eb-924d-9cd76263cbd0,species,territorialis,Shonia,,"Halford & R.J.F.Hend.",,2005,,"Austrobaileya 7: 222 2005",,,,,,,wfo-0000806467,3070779,,
-35f8a4a6-8fcd-11eb-924d-9cd76263cbd0,species,tristigma,Shonia,,"(F.Muell.) Halford & R.J.F.Hend.",,2005,,"Austrobaileya 7: 219 2005",,Q92298773,,1dfc64ba-8fcc-11eb-924d-9cd76263cbd0,,60442410-2,wfo-0000806468,3070772,,
+ea58b86a-8fd1-11eb-924d-9cd76263cbd0,genus,Shonia,,,"R.J.F.Hend. & Halford","Q5943219,Q15711547",,,,,Q92298773,,,,60442409-2,wfo-4000035255,3070771,,
+35f84862-8fcd-11eb-924d-9cd76263cbd0,species,bickertonensis,Shonia,,"(Specht) Halford & R.J.F.Hend.","Q3277170,Q15711547,Q5943219",2005,,"Austrobaileya 7: 223 2005",,Q92298773,,1db821ec-8fcc-11eb-924d-9cd76263cbd0,,60442414-2,wfo-0000806465,3070777,,
+35f86bda-8fcd-11eb-924d-9cd76263cbd0,species,carinata,Shonia,,"Halford & R.J.F.Hend.","Q15711547,Q5943219",2005,,"Austrobaileya 7: 225 2005",,,,,,,wfo-0000806466,3070780,,
+35f88750-8fcd-11eb-924d-9cd76263cbd0,species,territorialis,Shonia,,"Halford & R.J.F.Hend.","Q15711547,Q5943219",2005,,"Austrobaileya 7: 222 2005",,,,,,,wfo-0000806467,3070779,,
+35f8a4a6-8fcd-11eb-924d-9cd76263cbd0,species,tristigma,Shonia,,"(F.Muell.) Halford & R.J.F.Hend.","Q708002,Q15711547,Q5943219",2005,,"Austrobaileya 7: 219 2005",,Q92298773,,1dfc64ba-8fcc-11eb-924d-9cd76263cbd0,,60442410-2,wfo-0000806468,3070772,,

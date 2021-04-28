@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9d426764-9bad-11eb-a8a2-19ed5c03f8d3,genus,Orbicula,,,Cooke,,1871,,"Handbook of British Fungi 2: 926 (1871)",,,,9d426764-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3625," "
+9d426764-9bad-11eb-a8a2-19ed5c03f8d3,genus,Orbicula,,,Cooke,Q2351239,1871,,"Handbook of British Fungi 2: 926 (1871)",,,,9d426764-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3625," "
 121b8e40-9bad-11eb-a8a2-19ed5c03f8d3,species,buelliae,Orbicula,,"C.W. Dodge",,1929,,"BANZ Antarctic Research Expedition 1929-1931, Reports, Ser. B 7: 261 (1948)",,,,121b8e40-9bad-11eb-a8a2-19ed5c03f8d3,,,,,319031," "
-583867aa-9bac-11eb-a8a2-19ed5c03f8d3,species,cyclospora,Orbicula,,Cooke,,1871,,"Handbook of British Fungi 2: 926 (1871)",,,,583867aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,141546," "
-fd1d389a-9bac-11eb-a8a2-19ed5c03f8d3,species,parietina,Orbicula,,"(Schrad.) S. Hughes",,1951,,"Mycol. Pap. 42: 1 (1951)",,,,603c6a28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302096," "
-1b9b4556-9bac-11eb-a8a2-19ed5c03f8d3,species,perichaenoides,Orbicula,,Cooke,,1879,,"Grevillea 8(no. 45): 10 (1879)",,,,1b9b4556-9bac-11eb-a8a2-19ed5c03f8d3,,,,,160400," "
+583867aa-9bac-11eb-a8a2-19ed5c03f8d3,species,cyclospora,Orbicula,,Cooke,Q2351239,1871,,"Handbook of British Fungi 2: 926 (1871)",,,,583867aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,141546," "
+fd1d389a-9bac-11eb-a8a2-19ed5c03f8d3,species,parietina,Orbicula,,"(Schrad.) S. Hughes",Q62591,1951,,"Mycol. Pap. 42: 1 (1951)",,,,603c6a28-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302096," "
+1b9b4556-9bac-11eb-a8a2-19ed5c03f8d3,species,perichaenoides,Orbicula,,Cooke,Q2351239,1879,,"Grevillea 8(no. 45): 10 (1879)",,,,1b9b4556-9bac-11eb-a8a2-19ed5c03f8d3,,,,,160400," "
 f77c9368-9bac-11eb-a8a2-19ed5c03f8d3,species,richenii,Orbicula,,Rick,,,,,,,,f77c9368-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242570," "
-f776e0bc-9bac-11eb-a8a2-19ed5c03f8d3,species,tartaricola,Orbicula,,"(Nyl. ex Leight.) Cooke",,,,,,,,7abe3e58-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242392," "
-cdc544de-9bac-11eb-a8a2-19ed5c03f8d3,species,variolariae,Orbicula,,"(Massee) Sacc.",,,,,,,,cb94f3e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242540," "
-ec18ba66-8fcb-11eb-924d-9cd76263cbd0,species,foveolata,Orbicularia,,Britton,,1920,,"Mem. Torrey Bot. Club 16: 73 1920",,,,,,175711-2,wfo-0000258673,6638224,,
-ec1911c8-8fcb-11eb-924d-9cd76263cbd0,species,orbicularis,Orbicularia,,"(Kunth) Moldenke",,1940,,"Revista Sudamer. Bot. 6: 178 1940",,,,,,175712-2,wfo-0000258675,6638221,,
-b25e7520-8fcd-11eb-924d-9cd76263cbd0,species,orbiculata,Orbicularia,,"(Kunth) Moldenke",,1940,,"Revista Sudamer. Bot. 6: 178 1940",,,,89979040-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001049088,8136639,,
-ec1935a4-8fcb-11eb-924d-9cd76263cbd0,species,phyllanthoides,Orbicularia,,Baill.,,1858,,"Étude Euphorb. 617 1858",,,,,,352606-1,wfo-0000258676,6638219,,
-ec196af6-8fcb-11eb-924d-9cd76263cbd0,species,scopulorum,Orbicularia,,Britton,,1920,,"Mem. Torrey Bot. Club 16: 73 1920",,,,,,175713-2,wfo-0000258677,6638218,,
+f776e0bc-9bac-11eb-a8a2-19ed5c03f8d3,species,tartaricola,Orbicula,,"(Nyl. ex Leight.) Cooke","Q932083,Q8004384,Q2351239",,,,,,,7abe3e58-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242392," "
+cdc544de-9bac-11eb-a8a2-19ed5c03f8d3,species,variolariae,Orbicula,,"(Massee) Sacc.","Q4284198,Q707840",,,,,,,cb94f3e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,242540," "
+ec18ba66-8fcb-11eb-924d-9cd76263cbd0,species,foveolata,Orbicularia,,Britton,Q553714,1920,,"Mem. Torrey Bot. Club 16: 73 1920",,,,,,175711-2,wfo-0000258673,6638224,,
+ec1911c8-8fcb-11eb-924d-9cd76263cbd0,species,orbicularis,Orbicularia,,"(Kunth) Moldenke","Q77074,Q3127627",1940,,"Revista Sudamer. Bot. 6: 178 1940",,,,,,175712-2,wfo-0000258675,6638221,,
+b25e7520-8fcd-11eb-924d-9cd76263cbd0,species,orbiculata,Orbicularia,,"(Kunth) Moldenke","Q77074,Q3127627",1940,,"Revista Sudamer. Bot. 6: 178 1940",,,,89979040-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001049088,8136639,,
+ec1935a4-8fcb-11eb-924d-9cd76263cbd0,species,phyllanthoides,Orbicularia,,Baill.,Q461931,1858,,"Étude Euphorb. 617 1858",,,,,,352606-1,wfo-0000258676,6638219,,
+ec196af6-8fcb-11eb-924d-9cd76263cbd0,species,scopulorum,Orbicularia,,Britton,Q553714,1920,,"Mem. Torrey Bot. Club 16: 73 1920",,,,,,175713-2,wfo-0000258677,6638218,,

@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1539364-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dicephalospora,,,Spooner,,1987,,"Biblthca Mycol. 116: 267 (1987)",,,,a1539364-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25098," "
 37ee0fea-9bac-11eb-a8a2-19ed5c03f8d3,species,calochroa,Dicephalospora,,"(Syd.) Spooner",,1987,,"Biblthca Mycol. 116: 269 (1987)",,,,c961638c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,130936," "
-3ac45a48-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysotricha,Dicephalospora,,"(Berk.) Verkley",,2004,,"Sydowia 56(2): 344 (2004)",,,,fabbf902-9bab-11eb-a8a2-19ed5c03f8d3,,,,,368206," "
+3ac45a48-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysotricha,Dicephalospora,,"(Berk.) Verkley",Q662338,2004,,"Sydowia 56(2): 344 (2004)",,,,fabbf902-9bab-11eb-a8a2-19ed5c03f8d3,,,,,368206," "
 5e890e4c-9bad-11eb-a8a2-19ed5c03f8d3,species,damingshanica,Dicephalospora,,"W.Y. Zhuang",,1999,,"Fungal Diversity 3: 190 (1999)",,,,5e890e4c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,460014," "
 5e8944e8-9bad-11eb-a8a2-19ed5c03f8d3,species,pinglongshanica,Dicephalospora,,"W.Y. Zhuang",,1999,,"Fungal Diversity 3: 190 (1999)",,,,5e8944e8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,460015," "
-37ee4bc2-9bac-11eb-a8a2-19ed5c03f8d3,species,rufocornea,Dicephalospora,,"(Berk. & Broome) Spooner",,1987,,"Biblthca Mycol. 116: 272 (1987)",,,,3d638fda-9bad-11eb-a8a2-19ed5c03f8d3,,,,,130937," "
-e0e5c3cc-8fcc-11eb-924d-9cd76263cbd0,species,craspedum,Dicera,,"J.F.Gmel. ex DC.",,1824,,"Prodr. 1: 520 1824",,,,,,833719-1,wfo-0000645000,5651335,,
-e0e5e1b8-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Dicera,,"J.R.Forst. & G.Forst.",,1775,,"Char. Gen. Pl. 80 1775",,,,,,,wfo-0000645001,5651331,,
-e0e5fe82-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Dicera,,"Zipp. ex Blume",,1853,,"Mus. Bot. 2: 67 1853",,,,,,,wfo-0000645002,7760665,,
-e0e61822-8fcc-11eb-924d-9cd76263cbd0,species,rhamnifolia,Dicera,,"Zipp. ex Blume",,1853,,"Mus. Bot. 2: 67 1853",,,,,,,wfo-0000645003,8403440,,
-e0e63550-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Dicera,,"J.R.Forst. & G.Forst.",,1775,,"Char. Gen. Pl. 80 1775",,,,,,,wfo-0000645004,5651329,,
+37ee4bc2-9bac-11eb-a8a2-19ed5c03f8d3,species,rufocornea,Dicephalospora,,"(Berk. & Broome) Spooner","Q662338,Q1932460",1987,,"Biblthca Mycol. 116: 272 (1987)",,,,3d638fda-9bad-11eb-a8a2-19ed5c03f8d3,,,,,130937," "
+e0e5c3cc-8fcc-11eb-924d-9cd76263cbd0,species,craspedum,Dicera,,"J.F.Gmel. ex DC.","Q57230,Q123057",1824,,"Prodr. 1: 520 1824",,,,,,833719-1,wfo-0000645000,5651335,,
+e0e5e1b8-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Dicera,,"J.R.Forst. & G.Forst.","Q213570,Q58062",1775,,"Char. Gen. Pl. 80 1775",,,,,,,wfo-0000645001,5651331,,
+e0e5fe82-8fcc-11eb-924d-9cd76263cbd0,species,lanceolata,Dicera,,"Zipp. ex Blume","Q2643365,Q76816",1853,,"Mus. Bot. 2: 67 1853",,,,,,,wfo-0000645002,7760665,,
+e0e61822-8fcc-11eb-924d-9cd76263cbd0,species,rhamnifolia,Dicera,,"Zipp. ex Blume","Q2643365,Q76816",1853,,"Mus. Bot. 2: 67 1853",,,,,,,wfo-0000645003,8403440,,
+e0e63550-8fcc-11eb-924d-9cd76263cbd0,species,serrata,Dicera,,"J.R.Forst. & G.Forst.","Q213570,Q58062",1775,,"Char. Gen. Pl. 80 1775",,,,,,,wfo-0000645004,5651329,,

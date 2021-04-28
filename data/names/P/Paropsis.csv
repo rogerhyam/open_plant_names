@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2fe13f6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Paropsis,,,Speg.,,1918,,"Physis, Buenos Aires 4: 284 (1918)",,,,a2fe13f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3756," "
-0af2a65e-9bac-11eb-a8a2-19ed5c03f8d3,species,roseospora,Paropsis,,"(Höhn.) Speg.",,1918,,"Physis, Buenos Aires (1918)",,,,fa146c3c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,431989," "
-d6b4b0ec-8fcd-11eb-924d-9cd76263cbd0,species,anemonoides,Paropyrum,,"(Kar. & Kir.) O.E.Ulbr.",,1925,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 218 1925",,,,1337cc26-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001129907,3930247,,
+a2fe13f6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Paropsis,,,Speg.,Q648013,1918,,"Physis, Buenos Aires 4: 284 (1918)",,,,a2fe13f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3756," "
+0af2a65e-9bac-11eb-a8a2-19ed5c03f8d3,species,roseospora,Paropsis,,"(Höhn.) Speg.","Q4502879,Q648013",1918,,"Physis, Buenos Aires (1918)",,,,fa146c3c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,431989," "
+d6b4b0ec-8fcd-11eb-924d-9cd76263cbd0,species,anemonoides,Paropyrum,,"(Kar. & Kir.) O.E.Ulbr.","Q2386863,Q4221435",1925,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 218 1925",,,,1337cc26-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001129907,3930247,,

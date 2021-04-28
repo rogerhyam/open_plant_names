@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e676ba1c-8fd1-11eb-924d-9cd76263cbd0,genus,Mediusella,,,"(Cavaco) Hutch.",,1973,,"Fam. Fl. Pl., Dicot. 348. 1973.",,Q56190918,,,,925346-1,wfo-4000023446,7946184,,
-ac1de7a4-8fcd-11eb-924d-9cd76263cbd0,species,arenaria,Mediusella,,"(F.Gérard) Hong-Wa",,2009,,"Adansonia, sér. 3, 31(2): 316–318 2009",,,,d7795aec-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001034992,7551674,,
-d708e7bc-8fcc-11eb-924d-9cd76263cbd0,species,bernieri,Mediusella,,"(Baill.) Hutch.",,1986,,"Fam. Fl. Pl., Dicot. ed. 3: 348 1986 publ. 1987",,,,,,,wfo-0000627303,8325613,,
-fdb7e4ee-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Medora,,Kunth,,1850,,"Enum. Pl. 5: 156 1850",,,,,,538156-1,wfo-0000694939,5303833,,
-c87dafe8-8fd1-11eb-924d-9cd76263cbd0,species,wardii,Medora,,"(W.W.Sm.) H.Li",,1990,,"Acta Bot. Yunnan. 3: 6 1990",,,,,,,wfo-0001269709,8377173,,
+e676ba1c-8fd1-11eb-924d-9cd76263cbd0,genus,Mediusella,,,"(Cavaco) Hutch.","Q8193512,Q253917",1973,,"Fam. Fl. Pl., Dicot. 348. 1973.",,Q56190918,,,,925346-1,wfo-4000023446,7946184,,
+ac1de7a4-8fcd-11eb-924d-9cd76263cbd0,species,arenaria,Mediusella,,"(F.Gérard) Hong-Wa",Q26714564,2009,,"Adansonia, sér. 3, 31(2): 316–318 2009",,,,d7795aec-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001034992,7551674,,
+d708e7bc-8fcc-11eb-924d-9cd76263cbd0,species,bernieri,Mediusella,,"(Baill.) Hutch.","Q461931,Q253917",1986,,"Fam. Fl. Pl., Dicot. ed. 3: 348 1986 publ. 1987",,,,,,,wfo-0000627303,8325613,,
+fdb7e4ee-8fcc-11eb-924d-9cd76263cbd0,species,divaricata,Medora,,Kunth,Q77074,1850,,"Enum. Pl. 5: 156 1850",,,,,,538156-1,wfo-0000694939,5303833,,
+c87dafe8-8fd1-11eb-924d-9cd76263cbd0,species,wardii,Medora,,"(W.W.Sm.) H.Li","Q1278792,Q19855133",1990,,"Acta Bot. Yunnan. 3: 6 1990",,,,,,,wfo-0001269709,8377173,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8eb24f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pontechium,,,"Böhle & Hilger",,2000,,"Taxon 49(4): 743. 2000.",,Q28958970,,,,1017660-1,wfo-4000030902,7294762,,
-cbf6d442-8fd1-11eb-924d-9cd76263cbd0,species,maculatum,Pontechium,,"(L.) Böhle & Hilger",,2000,,"Taxon 49(4): 744 (2000):",,Q28958970,,,,1017661-1,wfo-0001276201,7294763,,
-aca4eff8-9a07-11eb-a8a2-19ed5c03f8d3,variety,acutifolium,Pontechium,maculatum,"(Lehm.) Böhle & Hilger",,2000,,"Taxon 49(4): 744 (2000):",,Q28958970,,,,1017662-1,,,,
+e8eb24f4-8fd1-11eb-924d-9cd76263cbd0,genus,Pontechium,,,"Böhle & Hilger","Q13427046,Q2892642",2000,,"Taxon 49(4): 743. 2000.",,Q28958970,,,,1017660-1,wfo-4000030902,7294762,,
+cbf6d442-8fd1-11eb-924d-9cd76263cbd0,species,maculatum,Pontechium,,"(L.) Böhle & Hilger","Q1043,Q13427046,Q2892642",2000,,"Taxon 49(4): 744 (2000):",,Q28958970,,,,1017661-1,wfo-0001276201,7294763,,
+aca4eff8-9a07-11eb-a8a2-19ed5c03f8d3,variety,acutifolium,Pontechium,maculatum,"(Lehm.) Böhle & Hilger","Q62981,Q13427046,Q2892642",2000,,"Taxon 49(4): 744 (2000):",,Q28958970,,,,1017662-1,,,,

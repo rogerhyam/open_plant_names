@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1863ab4-8fd1-11eb-924d-9cd76263cbd0,genus,Chamguava,,,Landrum,,1991,,"Syst. Bot. 16(1): 21–22. 1991. (1 Feb 1991)",,Q55765419,,,,956804-1,wfo-4000007659,3186024,,
-45da8c04-8fcd-11eb-924d-9cd76263cbd0,species,gentlei,Chamguava,,"(Lundell) Landrum",,1991,,"Syst. Bot. 16: 23 1991",,Q55765419,,,,962455-1,wfo-0000840534,3186034,,
-45daa54a-8fcd-11eb-924d-9cd76263cbd0,variety,apodantha,Chamguava,gentlei,"(Standl.) Landrum",,1991,,"Syst. Bot. 16: 24 1991",,Q55765419,,,,966665-1,wfo-0000840535,3186037,,
-45daf8c4-8fcd-11eb-924d-9cd76263cbd0,species,musarum,Chamguava,,"(Standl. & Steyerm.) Landrum",,1991,,"Syst. Bot. 16: 27 1991",,Q55765419,,871e057e-8fcd-11eb-924d-9cd76263cbd0,,962456-1,wfo-0000840538,3186025,,
-45db130e-8fcd-11eb-924d-9cd76263cbd0,species,schippii,Chamguava,,"(Standl.) Landrum",,1991,,"Syst. Bot. 16: 27 1991",,Q55765419,,,,962457-1,wfo-0000840539,3186028,,
+e1863ab4-8fd1-11eb-924d-9cd76263cbd0,genus,Chamguava,,,Landrum,Q6531086,1991,,"Syst. Bot. 16(1): 21–22. 1991. (1 Feb 1991)",,Q55765419,,,,956804-1,wfo-4000007659,3186024,,
+45da8c04-8fcd-11eb-924d-9cd76263cbd0,species,gentlei,Chamguava,,"(Lundell) Landrum","Q3009490,Q6531086",1991,,"Syst. Bot. 16: 23 1991",,Q55765419,,,,962455-1,wfo-0000840534,3186034,,
+45daa54a-8fcd-11eb-924d-9cd76263cbd0,variety,apodantha,Chamguava,gentlei,"(Standl.) Landrum","Q1333160,Q6531086",1991,,"Syst. Bot. 16: 24 1991",,Q55765419,,,,966665-1,wfo-0000840535,3186037,,
+45daf8c4-8fcd-11eb-924d-9cd76263cbd0,species,musarum,Chamguava,,"(Standl. & Steyerm.) Landrum","Q1333160,Q250148,Q6531086",1991,,"Syst. Bot. 16: 27 1991",,Q55765419,,871e057e-8fcd-11eb-924d-9cd76263cbd0,,962456-1,wfo-0000840538,3186025,,
+45db130e-8fcd-11eb-924d-9cd76263cbd0,species,schippii,Chamguava,,"(Standl.) Landrum","Q1333160,Q6531086",1991,,"Syst. Bot. 16: 27 1991",,Q55765419,,,,962457-1,wfo-0000840539,3186028,,

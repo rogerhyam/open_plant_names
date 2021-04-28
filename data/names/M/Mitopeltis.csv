@@ -1,16 +1,16 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a389768a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mitopeltis,,,Speg.,,1921,,"Boln Acad. nac. Cienc. Córdoba 25: 93 (1921)",,,,a389768a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3218," "
-6e1057c2-9bac-11eb-a8a2-19ed5c03f8d3,species,chilensis,Mitopeltis,,Speg.,,1921,,"Boln Acad. nac. Cienc. Córdoba 25: (1921)",,,,6e1057c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,158806," "
-e3d4181e-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Mitopetalum,,Blume,,1856,,"Mus. Bot. 2: 185 1856",,,,,,644797-1,wfo-0000244798,2781272,,
-e3d43574-8fcb-11eb-924d-9cd76263cbd0,species,bicorne,Mitopetalum,,"(Lindl.) Blume",,1856,,"Mus. Bot. 2: 185 1856",,,,,,644798-1,wfo-0000244799,2781300,,
-e3d44f6e-8fcb-11eb-924d-9cd76263cbd0,species,fimbriatum,Mitopetalum,,"(Teijsm. & Binn.) Miq.",,1859,,"Fl. Ned. Ind. 3: 674 1859",,,,,,644799-1,wfo-0000244800,2781216,,
-e3d46be8-8fcb-11eb-924d-9cd76263cbd0,species,latifolium,Mitopetalum,,"(Lindl.) Blume",,1856,,"Mus. Bot. 2: 185 1856",,,,,,644800-1,wfo-0000244801,2781262,,
-e3d48b28-8fcb-11eb-924d-9cd76263cbd0,species,parviflorum,Mitopetalum,,Blume,,1859,,"Coll. Orchid. 160 1859",,,,,,644801-1,wfo-0000244802,2781281,,
-e3d4a568-8fcb-11eb-924d-9cd76263cbd0,species,plicatum,Mitopetalum,,Blume,,1856,,"Mus. Bot. 2: 185 1856",,,,,,644802-1,wfo-0000244803,2781277,,
-e3d4c2be-8fcb-11eb-924d-9cd76263cbd0,species,rubescens,Mitopetalum,,Blume,,1859,,"Coll. Orchid. 159 1859",,,,,,644803-1,wfo-0000244804,2781280,,
-e3d4dff6-8fcb-11eb-924d-9cd76263cbd0,species,speciosum,Mitopetalum,,"(Blume) Blume",,1828,,"Fl. Javae Praef.: viii 1828",,,,,,644804-1,wfo-0000244805,2781314,,
-e3d4fb3a-8fcb-11eb-924d-9cd76263cbd0,species,trinerve,Mitopetalum,,Blume,,1856,,"Mus. Bot. 2: 185 1856",,,,,,644805-1,wfo-0000244806,2781282,,
-e3d55dfa-8fcb-11eb-924d-9cd76263cbd0,species,trinervium,Mitopetalum,,Blume,,1859,,"Coll. Orchid. 160 1859",,,,,,644806-1,wfo-0000244807,2781279,,
-e3d5d7d0-8fcb-11eb-924d-9cd76263cbd0,species,wightii,Mitopetalum,,Blume,,1856,,"Mus. Bot. 2: 185 1856",,,,,,644807-1,wfo-0000244809,2781297,,
-baff44ee-8fd1-11eb-924d-9cd76263cbd0,species,diversifolium,Mitophyllum,,"(S.Watson) Greene",,1904,,"Leafl. Bot. Observ. Crit. 1(6): 88 1904",,,,,,162795-2,wfo-0001244804,5373569,,
-ad4c8900-8fcd-11eb-924d-9cd76263cbd0,species,pachyrhizum,Mitophyllum,,"(Kar.) O.E.Schulz",,1933,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 872. 1933",,Q55777355,,,,287114-1,wfo-0001037563,5373333,,
+a389768a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mitopeltis,,,Speg.,Q648013,1921,,"Boln Acad. nac. Cienc. Córdoba 25: 93 (1921)",,,,a389768a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3218," "
+6e1057c2-9bac-11eb-a8a2-19ed5c03f8d3,species,chilensis,Mitopeltis,,Speg.,Q648013,1921,,"Boln Acad. nac. Cienc. Córdoba 25: (1921)",,,,6e1057c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,158806," "
+e3d4181e-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Mitopetalum,,Blume,Q76816,1856,,"Mus. Bot. 2: 185 1856",,,,,,644797-1,wfo-0000244798,2781272,,
+e3d43574-8fcb-11eb-924d-9cd76263cbd0,species,bicorne,Mitopetalum,,"(Lindl.) Blume","Q378629,Q76816",1856,,"Mus. Bot. 2: 185 1856",,,,,,644798-1,wfo-0000244799,2781300,,
+e3d44f6e-8fcb-11eb-924d-9cd76263cbd0,species,fimbriatum,Mitopetalum,,"(Teijsm. & Binn.) Miq.","Q969548,Q4086851,Q76742",1859,,"Fl. Ned. Ind. 3: 674 1859",,,,,,644799-1,wfo-0000244800,2781216,,
+e3d46be8-8fcb-11eb-924d-9cd76263cbd0,species,latifolium,Mitopetalum,,"(Lindl.) Blume","Q378629,Q76816",1856,,"Mus. Bot. 2: 185 1856",,,,,,644800-1,wfo-0000244801,2781262,,
+e3d48b28-8fcb-11eb-924d-9cd76263cbd0,species,parviflorum,Mitopetalum,,Blume,Q76816,1859,,"Coll. Orchid. 160 1859",,,,,,644801-1,wfo-0000244802,2781281,,
+e3d4a568-8fcb-11eb-924d-9cd76263cbd0,species,plicatum,Mitopetalum,,Blume,Q76816,1856,,"Mus. Bot. 2: 185 1856",,,,,,644802-1,wfo-0000244803,2781277,,
+e3d4c2be-8fcb-11eb-924d-9cd76263cbd0,species,rubescens,Mitopetalum,,Blume,Q76816,1859,,"Coll. Orchid. 159 1859",,,,,,644803-1,wfo-0000244804,2781280,,
+e3d4dff6-8fcb-11eb-924d-9cd76263cbd0,species,speciosum,Mitopetalum,,"(Blume) Blume",Q76816,1828,,"Fl. Javae Praef.: viii 1828",,,,,,644804-1,wfo-0000244805,2781314,,
+e3d4fb3a-8fcb-11eb-924d-9cd76263cbd0,species,trinerve,Mitopetalum,,Blume,Q76816,1856,,"Mus. Bot. 2: 185 1856",,,,,,644805-1,wfo-0000244806,2781282,,
+e3d55dfa-8fcb-11eb-924d-9cd76263cbd0,species,trinervium,Mitopetalum,,Blume,Q76816,1859,,"Coll. Orchid. 160 1859",,,,,,644806-1,wfo-0000244807,2781279,,
+e3d5d7d0-8fcb-11eb-924d-9cd76263cbd0,species,wightii,Mitopetalum,,Blume,Q76816,1856,,"Mus. Bot. 2: 185 1856",,,,,,644807-1,wfo-0000244809,2781297,,
+baff44ee-8fd1-11eb-924d-9cd76263cbd0,species,diversifolium,Mitophyllum,,"(S.Watson) Greene","Q960820,Q2661665",1904,,"Leafl. Bot. Observ. Crit. 1(6): 88 1904",,,,,,162795-2,wfo-0001244804,5373569,,
+ad4c8900-8fcd-11eb-924d-9cd76263cbd0,species,pachyrhizum,Mitophyllum,,"(Kar.) O.E.Schulz","Q2386863,Q2598714",1933,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 872. 1933",,Q55777355,,,,287114-1,wfo-0001037563,5373333,,

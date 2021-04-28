@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df5d70cc-8fd1-11eb-924d-9cd76263cbd0,genus,Anarthropteris,,,Copel.,,1947,,"Gen. Filicum 217. 1947.",,,,,,,wfo-4000001867,7290063,,
-ac25c6cc-8fcd-11eb-924d-9cd76263cbd0,species,dicyopteris,Anarthropteris,,"(Mett.) Copel.",,1947,,"Gen. Fil. 217 1947",,,,ac2599fe-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035043,8123218,,
-723a3b88-8fbd-11eb-924d-9cd76263cbd0,species,lanceolata,Anarthropteris,,Pic.Serm.,,1974,,"Webbia 29: 13. 1974. 1974",,Q55757973,,,,17427090-1,wfo-0000147881,4026081,,
+df5d70cc-8fd1-11eb-924d-9cd76263cbd0,genus,Anarthropteris,,,Copel.,Q2618968,1947,,"Gen. Filicum 217. 1947.",,,,,,,wfo-4000001867,7290063,,
+ac25c6cc-8fcd-11eb-924d-9cd76263cbd0,species,dicyopteris,Anarthropteris,,"(Mett.) Copel.","Q70825,Q2618968",1947,,"Gen. Fil. 217 1947",,,,ac2599fe-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035043,8123218,,
+723a3b88-8fbd-11eb-924d-9cd76263cbd0,species,lanceolata,Anarthropteris,,Pic.Serm.,Q2607627,1974,,"Webbia 29: 13. 1974. 1974",,Q55757973,,,,17427090-1,wfo-0000147881,4026081,,

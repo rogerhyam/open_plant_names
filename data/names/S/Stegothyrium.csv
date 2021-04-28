@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2d306c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stegothyrium,,,Höhn.,,1918,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 127: 382 (1918)",,,,a2d306c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5199," "
-a793c15a-9bac-11eb-a8a2-19ed5c03f8d3,species,denudans,Stegothyrium,,"(Rehm) Höhn.",,1918,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 (1918)",,,,7f74656c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432068," "
-0ff2d8cc-8fcc-11eb-924d-9cd76263cbd0,species,montana,Steigeria,,Müll.Arg.,,1865,,"Linnaea 34: 215 1865",,,,,,356460-1,wfo-0000315270,3062068,,
+a2d306c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stegothyrium,,,Höhn.,Q4502879,1918,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 127: 382 (1918)",,,,a2d306c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5199," "
+a793c15a-9bac-11eb-a8a2-19ed5c03f8d3,species,denudans,Stegothyrium,,"(Rehm) Höhn.","Q4393082,Q4502879",1918,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 (1918)",,,,7f74656c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432068," "
+0ff2d8cc-8fcc-11eb-924d-9cd76263cbd0,species,montana,Steigeria,,Müll.Arg.,Q2504914,1865,,"Linnaea 34: 215 1865",,,,,,356460-1,wfo-0000315270,3062068,,

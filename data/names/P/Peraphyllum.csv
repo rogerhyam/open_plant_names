@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8317b6c-8fd1-11eb-924d-9cd76263cbd0,genus,Peraphyllum,,,Nutt.,,1840,,"Fl. N. Amer. 1(3): 474. 1840.",,,,,,33947-1,wfo-4000028703,2987831,,
-a1a81cb8-8fcd-11eb-924d-9cd76263cbd0,species,ramosissimum,Peraphyllum,,"Nutt. ex Torr. & A.Gray",,1838,,"A flora of North America ; 1838 474 1840",,,,,,,wfo-0001013734,2987832,,
-f19fc880-8fcb-11eb-924d-9cd76263cbd0,species,cubensis,Peratanthe,,Urb.,,1923,,"Symb. Antill. 9: 169 1923",,,,,,190051-2,wfo-0000267243,2911646,,
-f19fee64-8fcb-11eb-924d-9cd76263cbd0,species,ekmanii,Peratanthe,,Urb.,,1922,,"Ark. Bot. 17(7): 61 1922",,,,,,190052-2,wfo-0000267244,2911633,,
+e8317b6c-8fd1-11eb-924d-9cd76263cbd0,genus,Peraphyllum,,,Nutt.,Q728337,1840,,"Fl. N. Amer. 1(3): 474. 1840.",,,,,,33947-1,wfo-4000028703,2987831,,
+a1a81cb8-8fcd-11eb-924d-9cd76263cbd0,species,ramosissimum,Peraphyllum,,"Nutt. ex Torr. & A.Gray","Q728337,Q1346660,Q347356",1838,,"A flora of North America ; 1838 474 1840",,,,,,,wfo-0001013734,2987832,,
+f19fc880-8fcb-11eb-924d-9cd76263cbd0,species,cubensis,Peratanthe,,Urb.,Q64845,1923,,"Symb. Antill. 9: 169 1923",,,,,,190051-2,wfo-0000267243,2911646,,
+f19fee64-8fcb-11eb-924d-9cd76263cbd0,species,ekmanii,Peratanthe,,Urb.,Q64845,1922,,"Ark. Bot. 17(7): 61 1922",,,,,,190052-2,wfo-0000267244,2911633,,

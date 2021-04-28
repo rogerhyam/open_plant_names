@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2f67c7c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mitruliopsis,,,Peck,,1903,,"Bull. Torrey bot. Club 30: 100 (1903)",,,,a2f67c7c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3224," "
-f662c880-9bac-11eb-a8a2-19ed5c03f8d3,species,flavida,Mitruliopsis,,Peck,,1903,,"Bull. Torrey bot. Club 30: (1903)",,,,f662c880-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197188," "
-e3f2e208-8fcb-11eb-924d-9cd76263cbd0,species,maculata,Mitsa,,"Chapel. ex Benth.",,1832,,"Labiat. Gen. Spec. 52 1832",,,,,,451969-1,wfo-0000245000,3884454,,
-3d7625fa-8fcd-11eb-924d-9cd76263cbd0,species,albococcinea,Mitscherlichia,,"(Hook.) Klotzsch",,1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 124 1854",,,,3df818b2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822325,7904953,,
-3d73f8b6-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Mitscherlichia,,"(Hassk.) Klotzsch",,1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 194 1855",,,,3e298942-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822306,8245077,,
-3d74f1d0-8fcd-11eb-924d-9cd76263cbd0,species,grahamiana,Mitscherlichia,,Hassk.,,1858,,"Hort. Bogor. Descr. 334 1858",,,,,,,wfo-0000822315,8104955,,
-3d751070-8fcd-11eb-924d-9cd76263cbd0,species,junghuhniana,Mitscherlichia,,"(Miq.) Miq.",,1856,,"Fl. Ned. Ind. 1(1): 696 1856",,,,,,,wfo-0000822316,7768732,,
-3d757f7e-8fcd-11eb-924d-9cd76263cbd0,species,lobbii,Mitscherlichia,,Hassk.,,1858,,"Hort. Bogor. Descr. 331 1858",,,,,,,wfo-0000822320,7666855,,
-3d752c22-8fcd-11eb-924d-9cd76263cbd0,species,repens,Mitscherlichia,,"(Miq.) Miq.",,1861,,"Fl. Ned. Ind., Eerste Bijv. 333 1861",,,,,,,wfo-0000822317,8176390,,
-3d74802e-8fcd-11eb-924d-9cd76263cbd0,species,rubrosetulosa,Mitscherlichia,,Hassk.,,1858,,"Hort. Bogor. Descr. 336 1858",,,,,,,wfo-0000822311,7554300,,
-6b4ba154-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Mitscherlichia,,Kunth,,1831,,"Abh. Königl. Akad. Wiss. Berlin 1831: 209 1831",,,,,,604729-1,wfo-0000449017,5553503,,
-3d74b97c-8fcd-11eb-924d-9cd76263cbd0,species,stictopoda,Mitscherlichia,,Miq.,,,,"Fl. Ned. Ind. 1(1): 1092 1858",,,,,,,wfo-0000822313,5928952,,
-3d75eb94-8fcd-11eb-924d-9cd76263cbd0,species,trichopoda,Mitscherlichia,,Miq.,,1861,,"Fl. Ned. Ind., Eerste Bijv. 333 1861",,,,,,,wfo-0000822323,7770934,,
-ccbf10c0-8fbc-11eb-924d-9cd76263cbd0,species,mitsuyoshiana,,,Nakaike,,1992,,"New Fl. Jap. Pterid. 841 (1992): 1992",,,,,,17560450-1,wfo-0000143616,,,
+a2f67c7c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mitruliopsis,,,Peck,Q1064899,1903,,"Bull. Torrey bot. Club 30: 100 (1903)",,,,a2f67c7c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3224," "
+f662c880-9bac-11eb-a8a2-19ed5c03f8d3,species,flavida,Mitruliopsis,,Peck,Q1064899,1903,,"Bull. Torrey bot. Club 30: (1903)",,,,f662c880-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197188," "
+e3f2e208-8fcb-11eb-924d-9cd76263cbd0,species,maculata,Mitsa,,"Chapel. ex Benth.","Q5483561,Q731808",1832,,"Labiat. Gen. Spec. 52 1832",,,,,,451969-1,wfo-0000245000,3884454,,
+3d7625fa-8fcd-11eb-924d-9cd76263cbd0,species,albococcinea,Mitscherlichia,,"(Hook.) Klotzsch","Q472639,Q67003",1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 124 1854",,,,3df818b2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822325,7904953,,
+3d73f8b6-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Mitscherlichia,,"(Hassk.) Klotzsch","Q68616,Q67003",1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 194 1855",,,,3e298942-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000822306,8245077,,
+3d74f1d0-8fcd-11eb-924d-9cd76263cbd0,species,grahamiana,Mitscherlichia,,Hassk.,Q68616,1858,,"Hort. Bogor. Descr. 334 1858",,,,,,,wfo-0000822315,8104955,,
+3d751070-8fcd-11eb-924d-9cd76263cbd0,species,junghuhniana,Mitscherlichia,,"(Miq.) Miq.",Q76742,1856,,"Fl. Ned. Ind. 1(1): 696 1856",,,,,,,wfo-0000822316,7768732,,
+3d757f7e-8fcd-11eb-924d-9cd76263cbd0,species,lobbii,Mitscherlichia,,Hassk.,Q68616,1858,,"Hort. Bogor. Descr. 331 1858",,,,,,,wfo-0000822320,7666855,,
+3d752c22-8fcd-11eb-924d-9cd76263cbd0,species,repens,Mitscherlichia,,"(Miq.) Miq.",Q76742,1861,,"Fl. Ned. Ind., Eerste Bijv. 333 1861",,,,,,,wfo-0000822317,8176390,,
+3d74802e-8fcd-11eb-924d-9cd76263cbd0,species,rubrosetulosa,Mitscherlichia,,Hassk.,Q68616,1858,,"Hort. Bogor. Descr. 336 1858",,,,,,,wfo-0000822311,7554300,,
+6b4ba154-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Mitscherlichia,,Kunth,Q77074,1831,,"Abh. Königl. Akad. Wiss. Berlin 1831: 209 1831",,,,,,604729-1,wfo-0000449017,5553503,,
+3d74b97c-8fcd-11eb-924d-9cd76263cbd0,species,stictopoda,Mitscherlichia,,Miq.,Q76742,,,"Fl. Ned. Ind. 1(1): 1092 1858",,,,,,,wfo-0000822313,5928952,,
+3d75eb94-8fcd-11eb-924d-9cd76263cbd0,species,trichopoda,Mitscherlichia,,Miq.,Q76742,1861,,"Fl. Ned. Ind., Eerste Bijv. 333 1861",,,,,,,wfo-0000822323,7770934,,
+ccbf10c0-8fbc-11eb-924d-9cd76263cbd0,species,mitsuyoshiana,,,Nakaike,Q18986978,1992,,"New Fl. Jap. Pterid. 841 (1992): 1992",,,,,,17560450-1,wfo-0000143616,,,

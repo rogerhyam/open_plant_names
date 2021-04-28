@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a3d113a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ascagilis,,,"K.D. Hyde",,1992,,"Aust. Syst. Bot. 5(1): 109 (1992)",,,,a3d113a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,21262," "
 31cad5b6-9bad-11eb-a8a2-19ed5c03f8d3,species,bipolaris,Ascagilis,,"K.D. Hyde",,1992,,"Aust. Syst. Bot. 5(1): 111 (1992)",,,,31cad5b6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,355473," "
-061cd008-8fba-11eb-924d-9cd76263cbd0,species,lanceata,Ascalea,,Hill,,1768,,"60 1768",,,,,,180316-1,wfo-0000123346,3112810,,
-759132f8-8fb5-11eb-924d-9cd76263cbd0,species,lanceolata,Ascalea,,"(L.) Hill",,1769,,"Herb. Brit. 1: 72. 1769.",,,,,,,wfo-0000078340,3101399,,
-0922aba4-8fb2-11eb-924d-9cd76263cbd0,species,nutans,Ascalea,,"(L.) Hill",,1768,,"60 1768",,,,,,180317-1,wfo-0000006583,4223923,,
-d8d33d40-8fcc-11eb-924d-9cd76263cbd0,species,sativum,Ascalonicum,,P.Renault,,1804,,"Fl. Orne 33 1804",,,,,,530930-1,wfo-0000630496,2857737,,
-d8d4d588-8fcc-11eb-924d-9cd76263cbd0,species,schoenoprasum,Ascalonicum,,"(L.) P.Renault",,1804,,"Fl. Orne 33 1804",,,,1ed71e92-8fcd-11eb-924d-9cd76263cbd0,,530931-1,wfo-0000630507,2855905,,
-d8d621ea-8fcc-11eb-924d-9cd76263cbd0,species,scorodoprasum,Ascalonicum,,"(L.) P.Renault",,1804,,"Fl. Orne 33 1804",,,,1edb381a-8fcd-11eb-924d-9cd76263cbd0,,530932-1,wfo-0000630518,2857424,,
-63817a26-8fcb-11eb-924d-9cd76263cbd0,species,ascania,,,B.S.Williams,,1894,,"Orch.-Grow. Man. ed. 7: 452 1894",,,,,,,wfo-0000222169,3230796,,
-a78cbc8e-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Ascanica,,Crantz,,1766,,"Inst. Rei Herb. 2: 313 1766",,,,,,113502-1,wfo-0000551017,4064937,,
+061cd008-8fba-11eb-924d-9cd76263cbd0,species,lanceata,Ascalea,,Hill,Q510400,1768,,"60 1768",,,,,,180316-1,wfo-0000123346,3112810,,
+759132f8-8fb5-11eb-924d-9cd76263cbd0,species,lanceolata,Ascalea,,"(L.) Hill","Q1043,Q510400",1769,,"Herb. Brit. 1: 72. 1769.",,,,,,,wfo-0000078340,3101399,,
+0922aba4-8fb2-11eb-924d-9cd76263cbd0,species,nutans,Ascalea,,"(L.) Hill","Q1043,Q510400",1768,,"60 1768",,,,,,180317-1,wfo-0000006583,4223923,,
+d8d33d40-8fcc-11eb-924d-9cd76263cbd0,species,sativum,Ascalonicum,,P.Renault,Q3383751,1804,,"Fl. Orne 33 1804",,,,,,530930-1,wfo-0000630496,2857737,,
+d8d4d588-8fcc-11eb-924d-9cd76263cbd0,species,schoenoprasum,Ascalonicum,,"(L.) P.Renault","Q1043,Q3383751",1804,,"Fl. Orne 33 1804",,,,1ed71e92-8fcd-11eb-924d-9cd76263cbd0,,530931-1,wfo-0000630507,2855905,,
+d8d621ea-8fcc-11eb-924d-9cd76263cbd0,species,scorodoprasum,Ascalonicum,,"(L.) P.Renault","Q1043,Q3383751",1804,,"Fl. Orne 33 1804",,,,1edb381a-8fcd-11eb-924d-9cd76263cbd0,,530932-1,wfo-0000630518,2857424,,
+63817a26-8fcb-11eb-924d-9cd76263cbd0,species,ascania,,,B.S.Williams,Q366231,1894,,"Orch.-Grow. Man. ed. 7: 452 1894",,,,,,,wfo-0000222169,3230796,,
+a78cbc8e-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Ascanica,,Crantz,Q112261,1766,,"Inst. Rei Herb. 2: 313 1766",,,,,,113502-1,wfo-0000551017,4064937,,

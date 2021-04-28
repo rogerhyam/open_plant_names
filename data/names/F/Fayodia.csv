@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a2b68950-9bad-11eb-a8a2-19ed5c03f8d3,genus,Fayodia,,,Kühner,,1930,,"Bull. mens. Soc. linn. Lyon 9: 68 (1930)",,,,a2b68950-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17580," "
-ea721e0e-9bac-11eb-a8a2-19ed5c03f8d3,species,abundans,Fayodia,,"(Peck) Singer",,1942,,"Lloydia 5: 126 (1942)",,,,0f0e5698-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286457," "
+ea721e0e-9bac-11eb-a8a2-19ed5c03f8d3,species,abundans,Fayodia,,"(Peck) Singer",Q1064899,1942,,"Lloydia 5: 126 (1942)",,,,0f0e5698-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286457," "
 2e39a572-9bac-11eb-a8a2-19ed5c03f8d3,species,agloea,Fayodia,,"Singer & Passauer",,1980,,"Sydowia 32(1-6): 299 (1980)",,,,2e39a572-9bac-11eb-a8a2-19ed5c03f8d3,,,,,116340," "
 29345b08-9bac-11eb-a8a2-19ed5c03f8d3,species,albidula,Fayodia,,"(Pat.) Pegler",,1983,,"Kew Bull., Addit. Ser. 9: 270 (1983)",,,,056a8e26-9bad-11eb-a8a2-19ed5c03f8d3,,,,,108882," "
 16e13282-9bac-11eb-a8a2-19ed5c03f8d3,species,alutacea,Fayodia,,"H.E. Bigelow",,1979,,"Mycotaxon 9(1): 39 (1979)",,,,16e13282-9bac-11eb-a8a2-19ed5c03f8d3,,,,,314099," "
@@ -8,7 +8,7 @@ ea721e0e-9bac-11eb-a8a2-19ed5c03f8d3,species,abundans,Fayodia,,"(Peck) Singer",,
 8081273c-9bad-11eb-a8a2-19ed5c03f8d3,variety,anthracobia,Fayodia,anthracobia,"(J. Favre) Knudsen",,1991,,"in Knudsen & Hansen, Nordic Jl Bot. 11(4): 477 (1991)",,,,a5262b96-9bad-11eb-a8a2-19ed5c03f8d3,,,,,368116," "
 fc592870-9bab-11eb-a8a2-19ed5c03f8d3,variety,bisphaerigerella,Fayodia,anthracobia,"(M. Lange) Antonín & Noordel.",,2004,,"in Antonín, Persoonia 18(3): 349 (2004)",,,,ec8e307e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,368220," "
 3bb025aa-9bac-11eb-a8a2-19ed5c03f8d3,species,arctica,Fayodia,,Gulden,,1988,invalid,"Sydowia 40: 52 (1988)",,,,3bb025aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,134912," "
-ea727ba6-9bac-11eb-a8a2-19ed5c03f8d3,species,atrialba,Fayodia,,"(Murrill) Singer",,1942,,"Lloydia 5: 127 (1942)",,,,43f8ba1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,286458," "
+ea727ba6-9bac-11eb-a8a2-19ed5c03f8d3,species,atrialba,Fayodia,,"(Murrill) Singer",Q2170251,1942,,"Lloydia 5: 127 (1942)",,,,43f8ba1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,286458," "
 0a69c546-9bac-11eb-a8a2-19ed5c03f8d3,species,bisphaerica,Fayodia,,anon.,,,,,,,,0a69c546-9bac-11eb-a8a2-19ed5c03f8d3,,,,,356712," "
 f5c41f9c-9bab-11eb-a8a2-19ed5c03f8d3,variety,bisphaerica,Fayodia,bisphaerica,anon.,,,,,,,,f5c41f9c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,426022," "
 2b3d1f42-9bad-11eb-a8a2-19ed5c03f8d3,variety,grisea,Fayodia,bisphaerica,singer,,,,,,,,2b3d1f42-9bad-11eb-a8a2-19ed5c03f8d3,,,,,346771," "
@@ -25,15 +25,15 @@ b85deda8-9bac-11eb-a8a2-19ed5c03f8d3,variety,dusenii,Fayodia,dusenii,"(Bres.) Si
 2e7f8334-9bad-11eb-a8a2-19ed5c03f8d3,variety,griseilamellata,Fayodia,dusenii,Singer,,1952,,"Sydowia 6(1-4): 220 (1952)",,,,2e7f8334-9bad-11eb-a8a2-19ed5c03f8d3,,,,,350945," grisellamellata"
 bc8d6886-9bac-11eb-a8a2-19ed5c03f8d3,variety,grisellamellata,Fayodia,dusenii,Singer,,,,,,,,bc8d6886-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263103," Fayodia dusenii var. griseilamellata"
 27d73c12-9bac-11eb-a8a2-19ed5c03f8d3,species,fallax,Fayodia,,Raithelh.,,1983,,"Metrodiana, Sonderheft 2: 9 (1983)",,,,27d73c12-9bac-11eb-a8a2-19ed5c03f8d3,,,,,106814," "
-414c7964-9bac-11eb-a8a2-19ed5c03f8d3,species,gracilipes,Fayodia,,"(Britzelm.) Bresinsky & Stangl",,1974,,"Z. Pilzk. 40(1-2): 73 (1974)",,,,06a0a334-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314101," "
+414c7964-9bac-11eb-a8a2-19ed5c03f8d3,species,gracilipes,Fayodia,,"(Britzelm.) Bresinsky & Stangl",Q556528,1974,,"Z. Pilzk. 40(1-2): 73 (1974)",,,,06a0a334-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314101," "
 1c774cbc-9bad-11eb-a8a2-19ed5c03f8d3,species,granulospora,Fayodia,,"G. Stev.",,1964,,"Kew Bull. 19(1): 46 (1964)",,,,1c774cbc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330847," "
 1c779b0e-9bad-11eb-a8a2-19ed5c03f8d3,species,grisella,Fayodia,,"G. Stev. & G.M. Taylor",,1964,,"Kew Bull. 19(1): 47 (1964)",,,,1c779b0e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330848," "
 58ac2f22-9bad-11eb-a8a2-19ed5c03f8d3,species,hygrocyboides,Fayodia,,Lonati,,1996,,"Micol. Veg. Medit. 11(1): 20 (1996)",,,,58ac2f22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,444875," "
 f27e6dc8-9bac-11eb-a8a2-19ed5c03f8d3,species,invita,Fayodia,,"(P. Karst.) Singer",,1943,,"Annls mycol. 41: 62 (1943)",,,,d00072b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297438," "
-11c69c60-9bac-11eb-a8a2-19ed5c03f8d3,species,lacerata,Fayodia,,"(Scop.) Singer",,1943,,"Annls mycol. 43(1/2): 63 (1943)",,,,,,,,,252910," "
-1c77e6d6-9bad-11eb-a8a2-19ed5c03f8d3,species,leucophylla,Fayodia,,"(Fr.) M. Lange & Sivertsen",,1966,,"Bot. Tidsskr. 62: 202 (1966)",,,,,,,,,330849," "
+11c69c60-9bac-11eb-a8a2-19ed5c03f8d3,species,lacerata,Fayodia,,"(Scop.) Singer",Q84181,1943,,"Annls mycol. 43(1/2): 63 (1943)",,,,,,,,,252910," "
+1c77e6d6-9bad-11eb-a8a2-19ed5c03f8d3,species,leucophylla,Fayodia,,"(Fr.) M. Lange & Sivertsen",Q15405,1966,,"Bot. Tidsskr. 62: 202 (1966)",,,,,,,,,330849," "
 414ce19c-9bac-11eb-a8a2-19ed5c03f8d3,species,marthae,Fayodia,,"Singer & Clémençon",,1971,,"Schweiz. Z. Pilzk. 49(9): 122 (1971)",,,,414ce19c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,314103," "
-a37dbde6-9bac-11eb-a8a2-19ed5c03f8d3,species,maura,Fayodia,,"(Fr.) Singer",,1936,,"Annls mycol. 34(4/5): 331 (1936)",,,,5b6b0602-9bad-11eb-a8a2-19ed5c03f8d3,,,,,253237," "
+a37dbde6-9bac-11eb-a8a2-19ed5c03f8d3,species,maura,Fayodia,,"(Fr.) Singer",Q15405,1936,,"Annls mycol. 34(4/5): 331 (1936)",,,,5b6b0602-9bad-11eb-a8a2-19ed5c03f8d3,,,,,253237," "
 32d17efc-9bac-11eb-a8a2-19ed5c03f8d3,species,metuloidigera,Fayodia,,Singer,,1989,,"Fieldiana, Bot. 21: 90 (1989)",,,,32d17efc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124824," "
 1c786fde-9bad-11eb-a8a2-19ed5c03f8d3,species,ochracea,Fayodia,,"G. Stev.",,1964,,"Kew Bull. 19(1): 47 (1964)",,,,1c786fde-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330850," "
 1c78c592-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudoclusilis,Fayodia,,"(Joss. & Konrad) Singer",,1962,,"Sydowia 15: 66 (1962)",,,,a413027a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330851," "
@@ -42,6 +42,6 @@ a37dbde6-9bac-11eb-a8a2-19ed5c03f8d3,species,maura,Fayodia,,"(Fr.) Singer",,1936
 1c794ae4-9bad-11eb-a8a2-19ed5c03f8d3,species,tetrasphaerigera,Fayodia,,Singer,,,,,,,,1c794ae4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330854," "
 f27eba30-9bac-11eb-a8a2-19ed5c03f8d3,species,tilieti,Fayodia,,Singer,,1943,,"Annls mycol. 41: 63 (1943)",,,,f27eba30-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297439," "
 0e39ba68-9bad-11eb-a8a2-19ed5c03f8d3,species,xerophila,Fayodia,,"Luthi & Röllin",,1973,,"Bull. trimest. Soc. mycol. Fr. 88(2): 174 (1973)",,,,0e39ba68-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314105," "
-2ad288e8-8fb5-11eb-924d-9cd76263cbd0,species,linearis,Feaea,,Spreng.,,1826,,"581 1826",,,,,,207646-1,wfo-0000074720,4237250,,
-c11a107e-8fb4-11eb-924d-9cd76263cbd0,species,plantaginea,Feaea,,"(Kunth) Spreng.",,1826,,"581 1826",,,,,,207647-1,wfo-0000069405,3086817,,
-c8394e0a-8fb5-11eb-924d-9cd76263cbd0,species,plantaginea,Feaella,,"(Kunth) S.F.Blake",,1930,,"Contr. U. S. Natl. Herb. 26 231 1930",,,,,,103512-2,wfo-0000082092,5385020,,
+2ad288e8-8fb5-11eb-924d-9cd76263cbd0,species,linearis,Feaea,,Spreng.,Q62829,1826,,"581 1826",,,,,,207646-1,wfo-0000074720,4237250,,
+c11a107e-8fb4-11eb-924d-9cd76263cbd0,species,plantaginea,Feaea,,"(Kunth) Spreng.","Q77074,Q62829",1826,,"581 1826",,,,,,207647-1,wfo-0000069405,3086817,,
+c8394e0a-8fb5-11eb-924d-9cd76263cbd0,species,plantaginea,Feaella,,"(Kunth) S.F.Blake","Q77074,Q2332170",1930,,"Contr. U. S. Natl. Herb. 26 231 1930",,,,,,103512-2,wfo-0000082092,5385020,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1f32000-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stropholoma,,,"(Singer) Balletto",,1989,,"Micol. Ital. 18(1): 36 (1989)",,,,,,,,,25873," "
-6f263456-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiacum,Stropholoma,,"(Cooke) Balletto",,1989,invalid,"Micol. Ital. 18(1): 36 (1989)",,,,3cf3919e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,136393,"Nom. inval., Art. 33.3 "
+6f263456-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiacum,Stropholoma,,"(Cooke) Balletto",Q2351239,1989,invalid,"Micol. Ital. 18(1): 36 (1989)",,,,3cf3919e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,136393,"Nom. inval., Art. 33.3 "
 6f266818-9bac-11eb-a8a2-19ed5c03f8d3,species,rubrococcineum,Stropholoma,,"(Balletto) Balletto",,1989,,"Micol. Ital. 18(1): 36 (1989)",,,,3bd9108c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136394," "
-6ee12884-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosa,Stropholoma,,"(Pers.) Balletto",,,,,,,,,,,,,136395," Stropholoma squamosum"
-79c56d82-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosum,Stropholoma,,"(Pers.) Balletto",,1989,invalid,"Micol. Ital. 18(1): 36 (1989)",,,,,,,,,534426,"Nom. inval., Art. 33.3 squamosus"
-3f78d56a-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosus,Stropholoma,,"(Pers.) Balletto",,,,,,,,,,,,,283426," Stropholoma squamosum"
+6ee12884-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosa,Stropholoma,,"(Pers.) Balletto",Q346451,,,,,,,,,,,,136395," Stropholoma squamosum"
+79c56d82-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosum,Stropholoma,,"(Pers.) Balletto",Q346451,1989,invalid,"Micol. Ital. 18(1): 36 (1989)",,,,,,,,,534426,"Nom. inval., Art. 33.3 squamosus"
+3f78d56a-9bac-11eb-a8a2-19ed5c03f8d3,species,squamosus,Stropholoma,,"(Pers.) Balletto",Q346451,,,,,,,,,,,,283426," Stropholoma squamosum"

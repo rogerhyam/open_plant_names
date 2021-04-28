@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a10ab982-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pestalozzia,,,"De Not.",,,,,,,,a10ab982-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9273," Pestalotia"
+a10ab982-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pestalozzia,,,"De Not.",Q3014085,,,,,,,a10ab982-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9273," Pestalotia"
 38e5de22-9bad-11eb-a8a2-19ed5c03f8d3,species,aloës,Pestalozzia,,Trinchieri,,,,,,,,38e5de22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528450," Pestalotia aloës"
 38e6181a-9bad-11eb-a8a2-19ed5c03f8d3,species,betulae,Pestalozzia,,Morochk.,,,,,,,,38e6181a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528451," Pestalotia betulae"
-38e64fba-9bad-11eb-a8a2-19ed5c03f8d3,species,bladhiae,Pestalozzia,,Sawada,,,,,,,,38e64fba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528452," Pestalotia bladhiae"
-38e697d6-9bad-11eb-a8a2-19ed5c03f8d3,species,calami,Pestalozzia,,Sawada,,,,,,,,38e697d6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528453," Pestalotia calami"
+38e64fba-9bad-11eb-a8a2-19ed5c03f8d3,species,bladhiae,Pestalozzia,,Sawada,Q21607805,,,,,,,38e64fba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528452," Pestalotia bladhiae"
+38e697d6-9bad-11eb-a8a2-19ed5c03f8d3,species,calami,Pestalozzia,,Sawada,Q21607805,,,,,,,38e697d6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528453," Pestalotia calami"
 38e6d3ea-9bad-11eb-a8a2-19ed5c03f8d3,species,camphori,Pestalozzia,,"G. Kuros.",,,,,,,,38e6d3ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,528454," Pestalotia camphorae"
-b918fea4-9bac-11eb-a8a2-19ed5c03f8d3,species,canangae,Pestalozzia,,Koord.,,,,,,,,b918fea4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503192," Pestalotia canangae"
-f19364b8-9bac-11eb-a8a2-19ed5c03f8d3,species,choenostroma,Pestalozzia,,Lacroix,,,,,,,,f19364b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528455," Pestalotia choenostroma"
+b918fea4-9bac-11eb-a8a2-19ed5c03f8d3,species,canangae,Pestalozzia,,Koord.,Q4232763,,,,,,,b918fea4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503192," Pestalotia canangae"
+f19364b8-9bac-11eb-a8a2-19ed5c03f8d3,species,choenostroma,Pestalozzia,,Lacroix,Q5981451,,,,,,,f19364b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528455," Pestalotia choenostroma"
 f1c1c2ea-9bac-11eb-a8a2-19ed5c03f8d3,species,cinnamomi,Pestalozzia,,Dzhalag.,,,,,,,,f1c1c2ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528456," Pestalotia cinnamomi"
-b07a1580-8fd1-11eb-924d-9cd76263cbd0,species,laxa,Pestalozzia,,"(Wall.) Thwaites",,1858,,"Enum. Pl. Zeyl. 124 1858",,,,,,,wfo-0001225417,7997052,,
-fb182254-9bab-11eb-a8a2-19ed5c03f8d3,species,macrozamiae,Pestalozzia,,Petr.,,,,,,,,fb182254-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528457," Pestalotia macrozamiae"
+b07a1580-8fd1-11eb-924d-9cd76263cbd0,species,laxa,Pestalozzia,,"(Wall.) Thwaites","Q730310,Q2656749",1858,,"Enum. Pl. Zeyl. 124 1858",,,,,,,wfo-0001225417,7997052,,
+fb182254-9bab-11eb-a8a2-19ed5c03f8d3,species,macrozamiae,Pestalozzia,,Petr.,Q4360385,,,,,,,fb182254-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528457," Pestalotia macrozamiae"
 fb1a45de-9bab-11eb-a8a2-19ed5c03f8d3,species,malicola,Pestalozzia,,Hori,,,,,,,,fb1a45de-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528458," Pestalotia malicola"
-5ac38de2-9bac-11eb-a8a2-19ed5c03f8d3,species,oryzae,Pestalozzia,,Hara,,,,,,,,5ac38de2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528459," Pestalotia oryzae"
-fb1a9264-9bab-11eb-a8a2-19ed5c03f8d3,species,pandani,Pestalozzia,,Sawada,,,,,,,,fb1a9264-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528460," Pestalotia pandani"
-44a53786-8fcc-11eb-924d-9cd76263cbd0,species,pedata,Pestalozzia,,"(Blume) Zoll. & Moritzi",,1846,,"Syst. Verz. 31 1846",,,,,,293721-1,wfo-0000396420,7816467,,
-fb1ce370-9bab-11eb-a8a2-19ed5c03f8d3,species,scirpina,Pestalozzia,,"Ellis & G. Martin",,,,,,,,fb1ce370-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528461," Pestalotia scirpina"
+5ac38de2-9bac-11eb-a8a2-19ed5c03f8d3,species,oryzae,Pestalozzia,,Hara,Q4390878,,,,,,,5ac38de2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528459," Pestalotia oryzae"
+fb1a9264-9bab-11eb-a8a2-19ed5c03f8d3,species,pandani,Pestalozzia,,Sawada,Q21607805,,,,,,,fb1a9264-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528460," Pestalotia pandani"
+44a53786-8fcc-11eb-924d-9cd76263cbd0,species,pedata,Pestalozzia,,"(Blume) Zoll. & Moritzi","Q76816,Q124330,Q2614546",1846,,"Syst. Verz. 31 1846",,,,,,293721-1,wfo-0000396420,7816467,,
+fb1ce370-9bab-11eb-a8a2-19ed5c03f8d3,species,scirpina,Pestalozzia,,"Ellis & G. Martin",Q6206643,,,,,,,fb1ce370-9bab-11eb-a8a2-19ed5c03f8d3,,,,,528461," Pestalotia scirpina"

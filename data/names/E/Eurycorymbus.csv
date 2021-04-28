@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e396ef38-8fd1-11eb-924d-9cd76263cbd0,genus,Eurycorymbus,,,Hand.-Mazz.,,1922,,"Kaiserl. Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz. 59: 104. 1922.",,,,,,36410-1,wfo-4000014293,7265146,,
-f732f762-8fcc-11eb-924d-9cd76263cbd0,species,austrosinensis,Eurycorymbus,,Hand.-Mazz.,,1922,,"Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 59: 104 1922",,,,,,783148-1,wfo-0000683352,3788110,,
-f7331a12-8fcc-11eb-924d-9cd76263cbd0,species,cavaleriei,Eurycorymbus,,"(H.Lév.) Rehder & Hand.-Mazz.",,1934,,"J. Arnold Arbor. 15: 8 1934",,Q100546317,,,,783149-1,wfo-0000683353,3788104,,
-f498d778-8fcd-11eb-924d-9cd76263cbd0,species,paradoxum,Eurydictyon,,"(Broth.) Horik. & Nog.",,1936,,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 3: 22 7. pl. 1 1936",,,,e5f9b80e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192872,7731207,,
+e396ef38-8fd1-11eb-924d-9cd76263cbd0,genus,Eurycorymbus,,,Hand.-Mazz.,Q134118,1922,,"Kaiserl. Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz. 59: 104. 1922.",,,,,,36410-1,wfo-4000014293,7265146,,
+f732f762-8fcc-11eb-924d-9cd76263cbd0,species,austrosinensis,Eurycorymbus,,Hand.-Mazz.,Q134118,1922,,"Anz. Akad. Wiss. Wien, Math.-Naturwiss. Kl. 59: 104 1922",,,,,,783148-1,wfo-0000683352,3788110,,
+f7331a12-8fcc-11eb-924d-9cd76263cbd0,species,cavaleriei,Eurycorymbus,,"(H.Lév.) Rehder & Hand.-Mazz.","Q134120,Q68949,Q134118",1934,,"J. Arnold Arbor. 15: 8 1934",,Q100546317,,,,783149-1,wfo-0000683353,3788104,,
+f498d778-8fcd-11eb-924d-9cd76263cbd0,species,paradoxum,Eurydictyon,,"(Broth.) Horik. & Nog.","Q4348569,Q21341049,Q21516226",1936,,"J. Sci. Hiroshima Univ., Ser. B, Div. 2, Bot. 3: 22 7. pl. 1 1936",,,,e5f9b80e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001192872,7731207,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e316b52a-8fd1-11eb-924d-9cd76263cbd0,genus,Dumortiera,,,Nees,,1824,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 12: 410. 1824[1824].",,,,,,,wfo-4000012734,2688612,,
-fe03c8d6-8fcd-11eb-924d-9cd76263cbd0,species,denudata,Dumortiera,,Mitt.,,,,"J. Proc. Linn. Soc., Bot. 5: 125",,,,,,,wfo-0001212702,7764678,,
-f63d3c2c-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Dumortiera,,"(Sw.) Nees",,1833,,"Fl. Bras. Enum. Pl. 1: 307 1833",,,,,,,wfo-0001196301,2688613,,
-fa6d98be-8fcd-11eb-924d-9cd76263cbd0,subspecies,nepalensis,Dumortiera,hirsuta,"(Taylor) R.M.Schust.",,1992,,"Hepat. Anthocerotae N. Amer. 6: 386 1992",,,,,,,wfo-0001204853,8217341,,
-f7083b66-8fcd-11eb-924d-9cd76263cbd0,species,nepalensis,Dumortiera,,"(Taylor) Nees",,1838,,"Naturgesch. Eur. Leberm. 4: 169 1838",,,,,,,wfo-0001198035,4276579,,
-fe740aec-8fcd-11eb-924d-9cd76263cbd0,species,trichocephala,Dumortiera,,Nees,,1838,,"Naturgesch. Eur. Leberm. 4: 499 1838",,,,,,,wfo-0001213620,8314247,,
+e316b52a-8fd1-11eb-924d-9cd76263cbd0,genus,Dumortiera,,,Nees,Q76349,1824,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 12: 410. 1824[1824].",,,,,,,wfo-4000012734,2688612,,
+fe03c8d6-8fcd-11eb-924d-9cd76263cbd0,species,denudata,Dumortiera,,Mitt.,Q2918015,,,"J. Proc. Linn. Soc., Bot. 5: 125",,,,,,,wfo-0001212702,7764678,,
+f63d3c2c-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Dumortiera,,"(Sw.) Nees","Q632088,Q76349",1833,,"Fl. Bras. Enum. Pl. 1: 307 1833",,,,,,,wfo-0001196301,2688613,,
+fa6d98be-8fcd-11eb-924d-9cd76263cbd0,subspecies,nepalensis,Dumortiera,hirsuta,"(Taylor) R.M.Schust.","Q7794377,Q6113453",1992,,"Hepat. Anthocerotae N. Amer. 6: 386 1992",,,,,,,wfo-0001204853,8217341,,
+f7083b66-8fcd-11eb-924d-9cd76263cbd0,species,nepalensis,Dumortiera,,"(Taylor) Nees","Q7794377,Q76349",1838,,"Naturgesch. Eur. Leberm. 4: 169 1838",,,,,,,wfo-0001198035,4276579,,
+fe740aec-8fcd-11eb-924d-9cd76263cbd0,species,trichocephala,Dumortiera,,Nees,Q76349,1838,,"Naturgesch. Eur. Leberm. 4: 499 1838",,,,,,,wfo-0001213620,8314247,,

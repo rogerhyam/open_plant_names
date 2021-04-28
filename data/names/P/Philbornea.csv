@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85e32a6-8fd1-11eb-924d-9cd76263cbd0,genus,Philbornea,,,"Hallier f.",,1912,,"Arch. Néerl. Sci. Exact. Nat. ser. 3B. 1: 110. 1912.",,,,,,24957-1,wfo-4000029209,7293207,,
-ac75e224-8fcd-11eb-924d-9cd76263cbd0,species,magnifolia,Philbornea,,"(Stapf) Hallier f.",,1912,,"Arch. Néerl. Sci. Exact. Nat., sér 3B 1: 110 1912",,,,e8cb774e-8fcc-11eb-924d-9cd76263cbd0,,544846-1,wfo-0001035649,5833717,,
-771b7306-8fcc-11eb-924d-9cd76263cbd0,species,palawanica,Philbornea,,"Hallier f.",,1912,,"Arch. Néerl. Sci. Exact. Nat., B III, 1: 111 1912",,,,,,544847-1,wfo-0000469108,4048803,,
-65feeeb4-8fcb-11eb-924d-9cd76263cbd0,species,philbrickiana,,,"(Rchb.f.) Rolfe",,1887,,"J. Linn. Soc., Bot. 24: 169 1887",,,,5f6948b0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000222226,,,
+e85e32a6-8fd1-11eb-924d-9cd76263cbd0,genus,Philbornea,,,"Hallier f.",Q75908,1912,,"Arch. Néerl. Sci. Exact. Nat. ser. 3B. 1: 110. 1912.",,,,,,24957-1,wfo-4000029209,7293207,,
+ac75e224-8fcd-11eb-924d-9cd76263cbd0,species,magnifolia,Philbornea,,"(Stapf) Hallier f.","Q78630,Q75908",1912,,"Arch. Néerl. Sci. Exact. Nat., sér 3B 1: 110 1912",,,,e8cb774e-8fcc-11eb-924d-9cd76263cbd0,,544846-1,wfo-0001035649,5833717,,
+771b7306-8fcc-11eb-924d-9cd76263cbd0,species,palawanica,Philbornea,,"Hallier f.",Q75908,1912,,"Arch. Néerl. Sci. Exact. Nat., B III, 1: 111 1912",,,,,,544847-1,wfo-0000469108,4048803,,
+65feeeb4-8fcb-11eb-924d-9cd76263cbd0,species,philbrickiana,,,"(Rchb.f.) Rolfe","Q62820,Q2635543",1887,,"J. Linn. Soc., Bot. 24: 169 1887",,,,5f6948b0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000222226,,,

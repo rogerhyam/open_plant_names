@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-c449fddc-9bac-11eb-a8a2-19ed5c03f8d3,genus,Drudeola,,,Kuntze,,1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,c449fddc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,8107," "
-826550c4-9bac-11eb-a8a2-19ed5c03f8d3,species,clintonii,Drudeola,,"(Peck) Kuntze",,1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,,,,,,178860," "
-f9c8a698-9bac-11eb-a8a2-19ed5c03f8d3,species,sarraceniae,Drudeola,,"(Peck & Cooke) Kuntze",,1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,539b59aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,157692," "
+c449fddc-9bac-11eb-a8a2-19ed5c03f8d3,genus,Drudeola,,,Kuntze,Q62853,1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,c449fddc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,8107," "
+826550c4-9bac-11eb-a8a2-19ed5c03f8d3,species,clintonii,Drudeola,,"(Peck) Kuntze","Q1064899,Q62853",1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,,,,,,178860," "
+f9c8a698-9bac-11eb-a8a2-19ed5c03f8d3,species,sarraceniae,Drudeola,,"(Peck & Cooke) Kuntze","Q1064899,Q2351239,Q62853",1891,,"Revis. gen. pl. (Leipzig) 2: 851 (1891)",,,,539b59aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,157692," "

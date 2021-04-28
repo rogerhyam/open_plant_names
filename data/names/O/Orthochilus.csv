@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7b05e6a-8fd1-11eb-924d-9cd76263cbd0,genus,Orthochilus,,,"Hochst. ex A.Rich.",,1850,,"Tent. Fl. Abyss. 2: 284. 1850.",,,,,,,wfo-4000027259,2801477,,
-edb7f184-8fcb-11eb-924d-9cd76263cbd0,species,abyssinicus,Orthochilus,,"(Rchb.f.) Hochst.",,1850,,"Tent. Fl. Abyss. 2: 284 1850",,,,,,649496-1,wfo-0000261039,5311684,,
-edb80fb6-8fcb-11eb-924d-9cd76263cbd0,species,mechowii,Orthochilus,,Rchb.f.,,1882,,"Flora 65: 532 1882",,,,,,649498-1,wfo-0000261040,5311916,,
-edb82c08-8fcb-11eb-924d-9cd76263cbd0,species,renschianus,Orthochilus,,Rchb.f.,,1882,,"Flora 65: 532 1882",,,,,,649500-1,wfo-0000261041,5311922,,
-de3c792c-8fd1-11eb-924d-9cd76263cbd0,species,rutenbergianus,Orthochilus,,"(Kraenzl.) Bytebier",,2014,,"Taxon 63(1): 20. 2014. (Taxon)",,,,db6b5278-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001315149,9393291,,
-edb848be-8fcb-11eb-924d-9cd76263cbd0,species,welwitschii,Orthochilus,,Rchb.f.,,1865,,"Flora 48: 186 1865",,,,,,649502-1,wfo-0000261042,5312080,,
+e7b05e6a-8fd1-11eb-924d-9cd76263cbd0,genus,Orthochilus,,,"Hochst. ex A.Rich.","Q64983,Q340247",1850,,"Tent. Fl. Abyss. 2: 284. 1850.",,,,,,,wfo-4000027259,2801477,,
+edb7f184-8fcb-11eb-924d-9cd76263cbd0,species,abyssinicus,Orthochilus,,"(Rchb.f.) Hochst.","Q62820,Q64983",1850,,"Tent. Fl. Abyss. 2: 284 1850",,,,,,649496-1,wfo-0000261039,5311684,,
+edb80fb6-8fcb-11eb-924d-9cd76263cbd0,species,mechowii,Orthochilus,,Rchb.f.,Q62820,1882,,"Flora 65: 532 1882",,,,,,649498-1,wfo-0000261040,5311916,,
+edb82c08-8fcb-11eb-924d-9cd76263cbd0,species,renschianus,Orthochilus,,Rchb.f.,Q62820,1882,,"Flora 65: 532 1882",,,,,,649500-1,wfo-0000261041,5311922,,
+de3c792c-8fd1-11eb-924d-9cd76263cbd0,species,rutenbergianus,Orthochilus,,"(Kraenzl.) Bytebier","Q542327,Q18983449",2014,,"Taxon 63(1): 20. 2014. (Taxon)",,,,db6b5278-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001315149,9393291,,
+edb848be-8fcb-11eb-924d-9cd76263cbd0,species,welwitschii,Orthochilus,,Rchb.f.,Q62820,1865,,"Flora 48: 186 1865",,,,,,649502-1,wfo-0000261042,5312080,,

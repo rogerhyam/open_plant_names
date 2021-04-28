@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e51b5876-8fd1-11eb-924d-9cd76263cbd0,genus,Iostephane,,,Benth.,,,,,,,,,,9496-1,wfo-4000019142,3094863,,
-ed5e4a60-8fb4-11eb-924d-9cd76263cbd0,species,heterophylla,Iostephane,,"(Cav.) Benth.",,1873,,"Gen. Pl. (Bentham & Hooker f.) ii. 368 (1873).",,,,,,,wfo-0000071715,3094872,,
-a01a61be-8fb2-11eb-924d-9cd76263cbd0,variety,dicksonii,Iostephane,heterophylla,W.M.Sharp,,1935,,"Ann. Missouri Bot. Gard. 22: 82. 1935",,Q55764641,,,,129080-2,wfo-0000030084,4225256,,
-a5627c6e-8fb8-11eb-924d-9cd76263cbd0,species,madrensis,Iostephane,,"(S.Watson) Strother",,1983,,"36 1983",,Q93957883,,,,912721-1,wfo-0000111303,3094869,,
-2744bae2-8fb6-11eb-924d-9cd76263cbd0,species,papposa,Iostephane,,J.J.Fay,,1973,,1973,,,,,,,wfo-0000086274,3094868,,
-016a2a04-8fb2-11eb-924d-9cd76263cbd0,species,trilobata,Iostephane,,Hemsl.,,1881,,"169 1881",,,,,,,wfo-0000003744,3094864,,
+e51b5876-8fd1-11eb-924d-9cd76263cbd0,genus,Iostephane,,,Benth.,Q731808,,,,,,,,,9496-1,wfo-4000019142,3094863,,
+ed5e4a60-8fb4-11eb-924d-9cd76263cbd0,species,heterophylla,Iostephane,,"(Cav.) Benth.","Q545430,Q731808",1873,,"Gen. Pl. (Bentham & Hooker f.) ii. 368 (1873).",,,,,,,wfo-0000071715,3094872,,
+a01a61be-8fb2-11eb-924d-9cd76263cbd0,variety,dicksonii,Iostephane,heterophylla,W.M.Sharp,Q21608751,1935,,"Ann. Missouri Bot. Gard. 22: 82. 1935",,Q55764641,,,,129080-2,wfo-0000030084,4225256,,
+a5627c6e-8fb8-11eb-924d-9cd76263cbd0,species,madrensis,Iostephane,,"(S.Watson) Strother","Q960820,Q5933388",1983,,"36 1983",,Q93957883,,,,912721-1,wfo-0000111303,3094869,,
+2744bae2-8fb6-11eb-924d-9cd76263cbd0,species,papposa,Iostephane,,J.J.Fay,Q33671310,1973,,1973,,,,,,,wfo-0000086274,3094868,,
+016a2a04-8fb2-11eb-924d-9cd76263cbd0,species,trilobata,Iostephane,,Hemsl.,Q1339247,1881,,"169 1881",,,,,,,wfo-0000003744,3094864,,

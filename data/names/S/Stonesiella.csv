@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eade2f40-8fd1-11eb-924d-9cd76263cbd0,genus,Stonesiella,,,"Crisp & P.H.Weston",,1999,,"Taxon 48(4): 711 (1999).",,Q28958803,,,,1011019-1,wfo-4000036788,2954277,,
-c2c84f9c-8fc5-11eb-924d-9cd76263cbd0,species,selaginoides,Stonesiella,,"(Hook.f.) Crisp & P.H.Weston",,1999,,"Taxon 48(4): 712 (1999):",,Q28958803,,8453e042-8fc4-11eb-924d-9cd76263cbd0,,1011020-1,wfo-0000194738,2954278,,
-8b52223e-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Stopinaca,,Raf.,,1837,,"Fl. Tellur. 3: 11 1837",,,,,,697706-1,wfo-0000503423,4033390,,
+eade2f40-8fd1-11eb-924d-9cd76263cbd0,genus,Stonesiella,,,"Crisp & P.H.Weston","Q4241213,Q9299873",1999,,"Taxon 48(4): 711 (1999).",,Q28958803,,,,1011019-1,wfo-4000036788,2954277,,
+c2c84f9c-8fc5-11eb-924d-9cd76263cbd0,species,selaginoides,Stonesiella,,"(Hook.f.) Crisp & P.H.Weston","Q157501,Q4241213,Q9299873",1999,,"Taxon 48(4): 712 (1999):",,Q28958803,,8453e042-8fc4-11eb-924d-9cd76263cbd0,,1011020-1,wfo-0000194738,2954278,,
+8b52223e-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Stopinaca,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 11 1837",,,,,,697706-1,wfo-0000503423,4033390,,

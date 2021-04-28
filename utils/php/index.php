@@ -15,102 +15,200 @@
         font-family: Sans-Serif;
         padding: 1em;
     }
+    table{
+        width: 80%;
+    }
     th{
         text-align: right;
+        vertical-align: top;
     }
+    .scroll-list{
+        height: 400px;
+        overflow: auto;
+        border: solid gray 1px;
+    }
+
+    .scroll-list div{
+        padding-left: 1em;
+        padding-top: 0.3em;
+    }
+
+    .author-box{
+        border: solid gray 1px;
+        height: 122px;
+        width: 200px;
+        float: left;
+        padding: 0.5em;
+        margin-right: 0.5em;
+        color: white;
+        background-color: gray;
+        border-radius: 8px;
+        text-shadow: 2px 2px 8px black;
+    }
+
+    .author-box p{
+        margin-top: 0.3em;
+        margin-bottom: 0.3em;
+    }
+
+    .author-box a{
+        text-decoration: none;
+    }
+
+    .small{
+        font-size: 80%;
+        color: white;
+    }
+
     </style>
+
+    <script>
+    function toggler(myDivId) {
+        console.log(myDivId);
+         var x = document.getElementById(myDivId);
+         console.log(x.style.display);
+         if (x.style.display === "none") {
+            x.style.display = "block";
+            loadAuthors(myDivId);
+         } else {
+            x.style.display = "none";
+         }
+    }
+
+    function loadAuthors(divId){
+
+        let className = divId + "_author";
+        let authorDivs = document.getElementsByClassName(className);
+        for (let i = 0; i < authorDivs.length; i++) {
+            let div = authorDivs.item(i);
+            let authorId = div.dataset.author;
+            let dataUri = 'https://www.wikidata.org/wiki/Special:EntityData/' + authorId + '.json';
+            fetch(dataUri)
+                .then(response => response.json())
+                .then(data => {
+
+                    // label
+                    let label = data.entities[authorId].labels.en.value;
+                    let node = document.createElement("p");
+                    let txt = document.createTextNode(label);
+                    node.appendChild(txt);
+                    div.appendChild(node);
+
+                    // description
+                    if(data.entities[authorId].descriptions && data.entities[authorId].descriptions.en){
+                        let description = data.entities[authorId].descriptions.en.value;
+                        div.appendChild(document.createElement("p").appendChild(document.createTextNode(description)));
+                    }
+
+                    // is there a picture?
+                    if(data.entities[authorId].claims && data.entities[authorId].claims.P18){
+                        let file = data.entities[authorId].claims.P18[0].mainsnak.datavalue.value;
+                        let uri = 'http://commons.wikimedia.org/wiki/Special:FilePath/' + file;
+                        //let img = document.createElement('img');
+                        //img.setAttribute('src', uri);
+                        div.style.backgroundImage = "url('"+ uri +"')";
+                        div.style.backgroundSize = 'contain';
+                        div.style.backgroundRepeat = 'no-repeat';
+                        div.style.backgroundPosition = 'right';
+
+                        console.log(uri);
+                    }
+                    
+                    // Thomas%20Nuttall.jpg
+
+                    
+
+                    console.log(data.entities[authorId].claims.P18[0]);
+
+                }).finally(
+                    () => {div.style.display = "block";}
+                );
+            console.log(dataUri);
+        }
+
+       // 
+    }
+    </script>
 </head>
 
-<body onload="document.getElementById('search').focus();">
-  <h1>Open Plant Names: Data Browser</h1>
-  <form method="GET" >
-    <p>Enter the first few letters of the name. When there are fewer than 2,000 results a list will be displayed.</p>
-    <input 
-        type="text"
-        id="search"
-        name="search" 
-        value="<?php echo @$_GET['search']  ?>"
-        onfocus="this.selectionStart = this.selectionEnd = this.value.length;"    
-    /><input type="submit" />
-  </form>
-
+<body>
+  
 <?php
+echo "|";
+foreach(range('A','Z') as $letter) {
+    echo " <a href=\"index.php?letter=$letter\">$letter</a> |";
+}
+?>
+  <h1>Open Plant Names: Data Browser</h1>
+ 
+<?php
+    if(@$_GET['letter']){
 
-    $search = @$_GET['search'];
+        // load the higher taxa names into memory
+        $higher_names = array();
+        $in = fopen('../../data/names/higher_names.csv', 'r');
+        $head = fgetcsv($in, 2000);
+        while($line = fgetcsv($in, 2000)){
+            $higher_names[] = $line;
+        }
+        fclose($in);
 
-    // render the search results
-    if($_GET['search'] && !isset($_GET['id'])){
-        
-        // we have search 
-        
+        $letter = $_GET['letter'];
 
-        // count the rows
-        $result = $mysqli->query("SELECT count(*) as n FROM `names` where concat_ws(' ', `genus`, `species`, `name`) like '$search%';");
-        $row = $result->fetch_assoc();
-        $result->close();
-        if($row['n'] > 2000 ){
-            $n = number_format($row['n']);
-            echo "<p>{$n}s records returned. Add more letters to make the search more specific.</p>";
-        }elseif($row['n'] < 1){
-            echo "Nothing found";
-        }else{
-            echo "<ul>";
-            $sql = "SELECT concat_ws(' ', `genus`, `species`, `name`) as name_string, `names`.* FROM `names` where concat_ws(' ', `genus`, `species`, `name`) like '$search%';";
-            $mysqli->real_query($sql); // don't fetch complete result set
-            $result = $mysqli->use_result();
-            while($row = $result->fetch_assoc()){
-                echo "<li>";
-                echo "<a href=\"?search=$search&id={$row['id']}\">{$row['name_string']}</a> {$row['authors']} {$row['citation_micro']}" ;
-                echo "</li>";
+        $name_index = array_search('name', $fields);
+
+        echo "<h2>Higher Names</h2>";
+        echo "<div class=\"scroll-list\">";
+        foreach($higher_names as $row){
+            $name = $row[$name_index];
+            if(strpos( $name , $letter ) === 0){
+                echo_row($row);
             }
-            echo "</ul>";
         }
+        echo "</div>";
 
+        // load the genera starting with that name
+
+        echo "<h2>Genera</h2>";
+        $files = glob("../../data/names/$letter/*.csv");
+
+        echo "<div class=\"scroll-list\">";
+        foreach($files as $file){
+            $info = pathinfo($file);
+            $genus = $info['filename'];
+            echo "<div><a href=\"index.php?genus=$file\">$genus</a></div>";
+        }
+        echo "</div>";
+
+    }elseif(@$_GET['genus']){
+
+        $file = $_GET['genus'];
+
+        $info = pathinfo($file);
+        $genus_name = $info['filename'];
+
+        $genus_rows = array();
+        $in = fopen($file, 'r');
+        $head = fgetcsv($in, 2000);
+        while($line = fgetcsv($in, 2000)){
+            $genus_rows[] = $line;
+        }
+        fclose($in);
+
+        echo "<h2><i>$genus_name</i></h2>";
+        echo "<div>";
+        foreach($genus_rows as $row){
+            echo_row($row);
+
+        }
+        echo "</div>";
+
+    }else{
+        echo "<p>This is a simple way of exploring the files without having to install a database.</p>";
+        echo "<p>To start pick a letter from the top of the page.</p>";
     }
 
-    if(isset($_GET['id']) && preg_match('/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/', $_GET['id'])){
-        $id =  $_GET['id'];
-        $result = $mysqli->query("SELECT * FROM `names` WHERE id = '$id'");
-        $row = $result->fetch_assoc();
-
-        if($row['rank'] == 'species'){
-            $name = "<i>{$row['genus']} {$row['name']}</i>";
-        }elseif(in_array( $row['rank'], array('subspecies', 'variety', 'form'))){
-            $name = "<i>{$row['genus']} {$row['species']}</i> {$row['rank']} <i>{$row['name']}</i>";
-        }elseif(in_array($row['rank'], array('subgenus', 'section'))){
-            $name = "<i>{$row['genus']} {$row['name']}</i>";
-        }else{
-            $name = $row['name'];
-        }
-
-        echo "<h2>$name {$row['authors']}</h2>";
-        echo "<h3>Data</h3>";
-        echo "<table>";
-        render_table_row('ID', $row['id']);
-        render_table_row('Rank', $row['rank']);
-        render_table_row('Name', $row['name']);
-        render_table_row('Genus', $row['genus']);
-        render_table_row('Species', $row['species']);
-        render_table_row('Authors', $row['authors']);
-        render_table_row('Year', $row['year']);
-        render_table_row('Micro Citation', $row['citation_micro']);
-        render_table_row('Full Citation', $row['citation_full']);
-
-        if($row['basionym_id']){
-            $basionym = "<a href=\"?search=$search&id={$row['basionym_id']}\">{$row['basionym_id']}</a>";
-        }else{
-            $basionym = "";
-        }
-        render_table_row('Basionym', $basionym);
-        
-        render_table_row('IPNI ID', "<a target=\"opn-ipni\" href=\"https://www.ipni.org/n/{$row['ipni_id']}\">{$row['ipni_id']}</a>" );
-
-        render_table_row('WFO ID', "<a target=\"opn-wfo\" href=\"http://www.worldfloraonline.org/taxon/{$row['wfo_id']}\">{$row['wfo_id']}</a>" );
-
-        render_table_row('GBIF ID', "<a target=\"opn-gbif\" href=\"https://www.gbif.org/es/species/{$row['gbif_id']}\">{$row['gbif_id']}</a>" );
-
-        echo "</table>";
-    }
+    
 ?>
 
 
@@ -118,10 +216,96 @@
 </html>
 
 <?php
-    function render_table_row($title, $value){
-        echo "<tr>";
-        echo "<th>$title:</th>";
-        echo "<td>$value</td>";
-        echo "</tr>";
+
+function echo_header(){
+
+    global $fields;
+
+    echo "<thead>";
+    echo "<tr>";
+    echo "<th>&nbsp;</th>";
+    foreach($fields as $field){
+        echo "<th>$field</th>";
     }
+    echo "</tr>";
+    echo "</thead>";
+
+}
+
+function echo_row($row){
+
+    global $fields;
+
+    // load them into an assoc array to make things simpler
+    $values = array();
+    foreach ($fields as $field) {
+        $values[$field] = $row[array_search($field, $fields)];
+    }
+
+    $infra_ranks = array('subspecies', 'variety', 'form');
+    switch ($values['rank']) {
+        case 'subspecies':
+            $name_display = "<i>{$values['genus']} {$values['species']}</i> subsp. <i>{$values['name']}</i> {$values['authors']}";
+            break;
+        case 'variety':
+            $name_display = "<i>{$values['genus']} {$values['species']}</i> var. <i>{$values['name']}</i> {$values['authors']}";
+            break;
+        case 'form':
+            $name_display = "<i>{$values['genus']} {$values['species']}</i> f. <i>{$values['name']}</i> {$values['authors']}";
+            break;
+        case 'species':
+            $name_display = "<i>{$values['genus']} {$values['name']}</i> {$values['authors']}";
+            break;
+        default:
+            $name_display = "<i>{$values['name']}</i> {$values['authors']}";
+            break;
+    }
+
+    echo "<div>";
+    $div_id = 'DIV' . str_replace('-', '', $values['id']);
+
+    echo "<a href=\"#\" onclick=\"event.preventDefault(); toggler('$div_id')\">$name_display</a>";
+
+    echo "<div id=\"$div_id\" style=\"display: none\">";
+
+        echo "<table>";
+        echo "<tr><th>ID</th><td>{$values['id']}</td></tr>";
+        echo "<tr><th>Rank</th><td>{$values['rank']}</td></tr>";
+        echo "<tr><th>Name</th><td>{$values['name']}</td></tr>";
+        echo "<tr><th>Genus</th><td>{$values['genus']}</td></tr>";
+        echo "<tr><th>Species</th><td>{$values['species']}</td></tr>";
+        echo "<tr><th>authors</th><td>{$values['authors']}</td></tr>";
+        
+        // authors with ids
+        echo "<tr><th>Author IDs</th><td>";
+        $author_ids = explode(',', $values['author_ids']);
+
+        foreach ($author_ids as $ai) {
+            if(!$ai) continue;
+            $div_class = $div_id . '_author';
+            echo "<a href=\"https://www.wikidata.org/wiki/$ai\" target=\"wikidata\"><div data-author=\"$ai\" class=\"$div_class author-box\" style=\"display: none\"><span class=\"small\">Wikidata: $ai</span></div></a>";
+        }       
+        
+        echo "</td></tr>";
+
+        echo "<tr><th>Year</th><td>{$values['year']}</td></tr>";
+        echo "<tr><th>Status</th><td>{$values['status']}</td></tr>";
+        echo "<tr><th>Citation (micro)</th><td>{$values['citation_micro']}</td></tr>";
+        echo "<tr><th>Citation (full)</th><td>{$values['citation_full']}</td></tr>";
+        echo "<tr><th>Citation ID</th><td>{$values['citation_id']}</td></tr>";
+        echo "<tr><th>Publication ID</th><td>{$values['publication_id']}</td></tr>";
+        echo "<tr><th>Basionym ID</th><td>{$values['basionym_id']}</td></tr>";
+        echo "<tr><th>Type ID</th><td>{$values['type_id']}</td></tr>";
+        echo "<tr><th>IPNI ID</th><td>{$values['ipni_id']}</td></tr>";
+        echo "<tr><th>WFO ID</th><td>{$values['wfo_id']}</td></tr>";
+        echo "<tr><th>GBIF ID</th><td>{$values['gbif_id']}</td></tr>";
+        echo "<tr><th>Indexfungorum ID</th><td>{$values['indexfungorum_id']}</td></tr>";
+        echo "<tr><th>Note</th><td>{$values['note']}</td></tr>";
+        echo "</table>";
+
+    echo "</div>";
+
+    echo "</div>";
+}
+
 ?>

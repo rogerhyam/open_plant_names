@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a54650e2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sciodothis,,,Clem.,,1909,,"Gen. fung. (Minneapolis) 50, 173 (1909)",,,,a54650e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4921," "
-94f6cafa-9bad-11eb-a8a2-19ed5c03f8d3,species,leucoplaca,Sciodothis,,"(Müll. Arg.) Clem.",,1909,,"Gen. fung. (Minneapolis) (1909)",,,,479de95a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,404993," "
-16f43d68-8fcd-11eb-924d-9cd76263cbd0,species,convallarioides,Sciophila,,Wibel,,1799,,"Prim. Fl. Werth. 147 1799",,,,,,541134-1,wfo-0000740526,5303824,,
-8a8f72fc-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Sciophila,,Gaudich.,,1830,,"Voy. Uranie 493 1830",,,,,,856523-1,wfo-0000502161,5670589,,
-8a8ea9c6-8fcc-11eb-924d-9cd76263cbd0,species,sessile,Sciophila,,Gaudich.,,1830,,"Voy. Uranie 493 1830",,,,,,856525-1,wfo-0000502155,5670576,,
-8a8e8810-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolia,Sciophila,,Gaudich.,,1830,,"Voy. Uranie 493 1830",,,,,,856526-1,wfo-0000502154,5670572,,
-b1d9ca9c-8fd1-11eb-924d-9cd76263cbd0,species,torresiana,Sciophila,,Gaudich.,,1826,,"Voy. Uranie 493, t. 120 1826",,,,,,,wfo-0001227964,5670566,,
-62799c7a-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Sciothamnus,,"(Thunb.) Endl. ex Walp.",,1843,,"Repert. Bot. Syst. 2: 412 1843",,,,,,848128-1,wfo-0000434417,3635850,,
-6279c1be-8fcc-11eb-924d-9cd76263cbd0,species,collinus,Sciothamnus,,"(Eckl. & Zeyh.) Endl.",,1843,,"Repert. Bot. Syst. 2: 413 1843",,,,c2488b70-8fcc-11eb-924d-9cd76263cbd0,,848129-1,wfo-0000434418,3635840,,
-6279e6c6-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Sciothamnus,,Endl.,,1843,,"Repert. Bot. Syst. 2: 413 1843",,,,,,848130-1,wfo-0000434419,3635833,,
-627a0f48-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Sciothamnus,,"(Cham. & Schltdl.) Endl.",,1843,,"Repert. Bot. Syst. 2: 413 1843",,,,,,848131-1,wfo-0000434420,3635824,,
+a54650e2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Sciodothis,,,Clem.,Q920184,1909,,"Gen. fung. (Minneapolis) 50, 173 (1909)",,,,a54650e2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4921," "
+94f6cafa-9bad-11eb-a8a2-19ed5c03f8d3,species,leucoplaca,Sciodothis,,"(Müll. Arg.) Clem.",Q920184,1909,,"Gen. fung. (Minneapolis) (1909)",,,,479de95a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,404993," "
+16f43d68-8fcd-11eb-924d-9cd76263cbd0,species,convallarioides,Sciophila,,Wibel,Q4110481,1799,,"Prim. Fl. Werth. 147 1799",,,,,,541134-1,wfo-0000740526,5303824,,
+8a8f72fc-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Sciophila,,Gaudich.,Q1064524,1830,,"Voy. Uranie 493 1830",,,,,,856523-1,wfo-0000502161,5670589,,
+8a8ea9c6-8fcc-11eb-924d-9cd76263cbd0,species,sessile,Sciophila,,Gaudich.,Q1064524,1830,,"Voy. Uranie 493 1830",,,,,,856525-1,wfo-0000502155,5670576,,
+8a8e8810-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolia,Sciophila,,Gaudich.,Q1064524,1830,,"Voy. Uranie 493 1830",,,,,,856526-1,wfo-0000502154,5670572,,
+b1d9ca9c-8fd1-11eb-924d-9cd76263cbd0,species,torresiana,Sciophila,,Gaudich.,Q1064524,1826,,"Voy. Uranie 493, t. 120 1826",,,,,,,wfo-0001227964,5670566,,
+62799c7a-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Sciothamnus,,"(Thunb.) Endl. ex Walp.","Q39658,Q78605,Q77671",1843,,"Repert. Bot. Syst. 2: 412 1843",,,,,,848128-1,wfo-0000434417,3635850,,
+6279c1be-8fcc-11eb-924d-9cd76263cbd0,species,collinus,Sciothamnus,,"(Eckl. & Zeyh.) Endl.","Q643765,Q86271,Q78605",1843,,"Repert. Bot. Syst. 2: 413 1843",,,,c2488b70-8fcc-11eb-924d-9cd76263cbd0,,848129-1,wfo-0000434418,3635840,,
+6279e6c6-8fcc-11eb-924d-9cd76263cbd0,species,montanus,Sciothamnus,,Endl.,Q78605,1843,,"Repert. Bot. Syst. 2: 413 1843",,,,,,848130-1,wfo-0000434419,3635833,,
+627a0f48-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Sciothamnus,,"(Cham. & Schltdl.) Endl.","Q154782,Q62826,Q78605",1843,,"Repert. Bot. Syst. 2: 413 1843",,,,,,848131-1,wfo-0000434420,3635824,,

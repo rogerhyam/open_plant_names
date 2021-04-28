@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7593e14-8fd1-11eb-924d-9cd76263cbd0,genus,Normanbokea,,,"Kladiwa & Buxb.",,1969,,"Kakteen 40: CVIII b. 1969.",,,,,,,wfo-4000026228,7281651,,
-3720e89e-8fcc-11eb-924d-9cd76263cbd0,species,pseudopectinata,Normanbokea,,"(Backeb.) Kladiwa & Buxb.",,1969,,"Kakteen 40-41: CVIII b 1969",,,,c14ff348-8fd1-11eb-924d-9cd76263cbd0,,136179-1,wfo-0000378856,3949354,,
-371fa4b6-8fcc-11eb-924d-9cd76263cbd0,species,valdeziana,Normanbokea,,"(H.Moeller) Kladiwa & Buxb.",,1969,,"Kakteen 40-41: CVIII b 1969",,,,,,136180-1,wfo-0000378850,3949344,,
-58d18b3c-8fcd-11eb-924d-9cd76263cbd0,species,henrardiana,Normanboria,,"(Bor) Butzin",,1978,,"Taxon 27: 301 1978",,Q28954625,,,,409598-1,wfo-0000881698,4152108,,
+e7593e14-8fd1-11eb-924d-9cd76263cbd0,genus,Normanbokea,,,"Kladiwa & Buxb.","Q21517578,Q78998",1969,,"Kakteen 40: CVIII b. 1969.",,,,,,,wfo-4000026228,7281651,,
+3720e89e-8fcc-11eb-924d-9cd76263cbd0,species,pseudopectinata,Normanbokea,,"(Backeb.) Kladiwa & Buxb.","Q61900,Q21517578,Q78998",1969,,"Kakteen 40-41: CVIII b 1969",,,,c14ff348-8fd1-11eb-924d-9cd76263cbd0,,136179-1,wfo-0000378856,3949354,,
+371fa4b6-8fcc-11eb-924d-9cd76263cbd0,species,valdeziana,Normanbokea,,"(H.Moeller) Kladiwa & Buxb.","Q14943083,Q21517578,Q78998",1969,,"Kakteen 40-41: CVIII b 1969",,,,,,136180-1,wfo-0000378850,3949344,,
+58d18b3c-8fcd-11eb-924d-9cd76263cbd0,species,henrardiana,Normanboria,,"(Bor) Butzin","Q4026914,Q10285961",1978,,"Taxon 27: 301 1978",,Q28954625,,,,409598-1,wfo-0000881698,4152108,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9f136548-9bad-11eb-a8a2-19ed5c03f8d3,genus,Epinyctis,,,Wallr.,,1831,,"Fl. crypt. Germ. (Nürnberg) 1: 582 (1831)",,,,9f136548-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1866," "
-00562a90-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginea,Epinyctis,,"(Ach.) Wallr.",,,,,,,,89230ef0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384897," "
-a0125522-9bac-11eb-a8a2-19ed5c03f8d3,species,latebrarum,Epinyctis,,"(Ach.) Wallr.",,,,,,,,0849a51e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384898," "
-2375dcd6-8fcd-11eb-924d-9cd76263cbd0,species,flava,Epionix,,Raf.,,1837,,"Fl. Tellur. 2: 31 1837",,,,,,534660-1,wfo-0000766559,2740350,,
-2375f6c6-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Epionix,,Raf.,,1837,,"Fl. Tellur. 2: 31 1837",,,,,,534661-1,wfo-0000766560,2740348,,
+9f136548-9bad-11eb-a8a2-19ed5c03f8d3,genus,Epinyctis,,,Wallr.,Q71374,1831,,"Fl. crypt. Germ. (Nürnberg) 1: 582 (1831)",,,,9f136548-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1866," "
+00562a90-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginea,Epinyctis,,"(Ach.) Wallr.","Q365923,Q71374",,,,,,,89230ef0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384897," "
+a0125522-9bac-11eb-a8a2-19ed5c03f8d3,species,latebrarum,Epinyctis,,"(Ach.) Wallr.","Q365923,Q71374",,,,,,,0849a51e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384898," "
+2375dcd6-8fcd-11eb-924d-9cd76263cbd0,species,flava,Epionix,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 31 1837",,,,,,534660-1,wfo-0000766559,2740350,,
+2375f6c6-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Epionix,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 31 1837",,,,,,534661-1,wfo-0000766560,2740348,,

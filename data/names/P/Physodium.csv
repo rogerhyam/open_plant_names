@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e87ac470-8fd1-11eb-924d-9cd76263cbd0,genus,Physodium,,,C.Presl,,1835,,"Reliq. Haenk. 2(2): 150. 1835.",,,,,,38797-1,wfo-4000029550,7322978,,
-adb3f4f6-8fd1-11eb-924d-9cd76263cbd0,species,adenodes,Physodium,,"(Goldberg) Fryxell",,2001,,"Fl. Novo-Galiciana 3: 137 2001",,,,c4693422-8fd1-11eb-924d-9cd76263cbd0,,20004877-1,wfo-0001220391,7322985,,
-c6178b34-8fd1-11eb-924d-9cd76263cbd0,variety,acuminatum,Physodium,adenodes,"(Rose) Fryxell",,2001,,"Fl. Novo-Galiciana 3: 140 2001",,,,c469847c-8fd1-11eb-924d-9cd76263cbd0,,20004878-1,wfo-0001265242,3669967,,
-b2e2be26-8fd1-11eb-924d-9cd76263cbd0,species,corymbosum,Physodium,,C.Presl,,1835,,"Reliq. Haenk. 2(2): 150, t. 72 1835",,,,,,,wfo-0001229799,7322982,,
-c469847c-8fd1-11eb-924d-9cd76263cbd0,variety,acuminatum,Physodium,corymbosum,Rose,,1895,,"Contr. U.S. Natl. Herb. 1(9): 309 1895",,,,,,195632-2,wfo-0001262193,3669946,,
-bdf2cc84-8fd1-11eb-924d-9cd76263cbd0,species,dubium,Physodium,,Hemsl.,,1878,,"Diagn. Pl. Nov. Mexic. 1: 4 1878",,,,,,824689-1,wfo-0001250223,3669932,,
+e87ac470-8fd1-11eb-924d-9cd76263cbd0,genus,Physodium,,,C.Presl,Q379601,1835,,"Reliq. Haenk. 2(2): 150. 1835.",,,,,,38797-1,wfo-4000029550,7322978,,
+adb3f4f6-8fd1-11eb-924d-9cd76263cbd0,species,adenodes,Physodium,,"(Goldberg) Fryxell","Q13405847,Q7150752",2001,,"Fl. Novo-Galiciana 3: 137 2001",,,,c4693422-8fd1-11eb-924d-9cd76263cbd0,,20004877-1,wfo-0001220391,7322985,,
+c6178b34-8fd1-11eb-924d-9cd76263cbd0,variety,acuminatum,Physodium,adenodes,"(Rose) Fryxell","Q1336049,Q7150752",2001,,"Fl. Novo-Galiciana 3: 140 2001",,,,c469847c-8fd1-11eb-924d-9cd76263cbd0,,20004878-1,wfo-0001265242,3669967,,
+b2e2be26-8fd1-11eb-924d-9cd76263cbd0,species,corymbosum,Physodium,,C.Presl,Q379601,1835,,"Reliq. Haenk. 2(2): 150, t. 72 1835",,,,,,,wfo-0001229799,7322982,,
+c469847c-8fd1-11eb-924d-9cd76263cbd0,variety,acuminatum,Physodium,corymbosum,Rose,Q1336049,1895,,"Contr. U.S. Natl. Herb. 1(9): 309 1895",,,,,,195632-2,wfo-0001262193,3669946,,
+bdf2cc84-8fd1-11eb-924d-9cd76263cbd0,species,dubium,Physodium,,Hemsl.,Q1339247,1878,,"Diagn. Pl. Nov. Mexic. 1: 4 1878",,,,,,824689-1,wfo-0001250223,3669932,,

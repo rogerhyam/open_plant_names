@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9f9e2cc-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmienta,,,"Ruiz & Pav.",,1794,,"Fl. Peruv. Prodr. 4. 1794. (early Oct 1794)",,,,,,331931-2,wfo-4000034112,6365211,,
-b93d84f8-8fcd-11eb-924d-9cd76263cbd0,species,cauliflora,Sarmienta,,Sieber,,,,"Fl. Mauritius 2: 285",,,,,,,wfo-0001064682,7361317,,
-87791154-8fcc-11eb-924d-9cd76263cbd0,species,repens,Sarmienta,,"Ruiz & Pav.",,1798,,"Fl. Peruv. 1: 8 1798",,,,,,382710-1,wfo-0000497329,3819447,,
-b954a9c6-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Sarmienta,,"(J.D.Brandis ex Molina) Pers.",,1805,,"Syn. Pl. 1: 13 1805",,,,b954c49c-8fcd-11eb-924d-9cd76263cbd0,,382711-1,wfo-0001064878,3819432,,
-88861772-8fcc-11eb-924d-9cd76263cbd0,species,caulotreti,Sarna,,H.Karst.,,1857,,"Linnaea 28: 415 1857",,,,,,316083-1,wfo-0000499077,3941142,,
-bcd51514-8fd1-11eb-924d-9cd76263cbd0,species,ingae,Sarna,,H.Karst.,,1856,,"Linnaea 28: 415 1856",,,,,,,wfo-0001248200,3941134,,
+e9f9e2cc-8fd1-11eb-924d-9cd76263cbd0,genus,Sarmienta,,,"Ruiz & Pav.","Q733976,Q332058",1794,,"Fl. Peruv. Prodr. 4. 1794. (early Oct 1794)",,,,,,331931-2,wfo-4000034112,6365211,,
+b93d84f8-8fcd-11eb-924d-9cd76263cbd0,species,cauliflora,Sarmienta,,Sieber,Q78907,,,"Fl. Mauritius 2: 285",,,,,,,wfo-0001064682,7361317,,
+87791154-8fcc-11eb-924d-9cd76263cbd0,species,repens,Sarmienta,,"Ruiz & Pav.","Q733976,Q332058",1798,,"Fl. Peruv. 1: 8 1798",,,,,,382710-1,wfo-0000497329,3819447,,
+b954a9c6-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Sarmienta,,"(J.D.Brandis ex Molina) Pers.","Q55068526,Q346451",1805,,"Syn. Pl. 1: 13 1805",,,,b954c49c-8fcd-11eb-924d-9cd76263cbd0,,382711-1,wfo-0001064878,3819432,,
+88861772-8fcc-11eb-924d-9cd76263cbd0,species,caulotreti,Sarna,,H.Karst.,Q62413,1857,,"Linnaea 28: 415 1857",,,,,,316083-1,wfo-0000499077,3941142,,
+bcd51514-8fd1-11eb-924d-9cd76263cbd0,species,ingae,Sarna,,H.Karst.,Q62413,1856,,"Linnaea 28: 415 1856",,,,,,,wfo-0001248200,3941134,,

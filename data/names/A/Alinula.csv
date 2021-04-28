@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df1686ee-8fd1-11eb-924d-9cd76263cbd0,genus,Alinula,,,J.Raynal,,1977,,"Adansonia 17: 43. 1977.",,,,,,,wfo-4000001205,2720060,,
-1dc7124c-8fcc-11eb-924d-9cd76263cbd0,species,lipocarphioides,Alinula,,"(Kük.) J.Raynal",,1977,,"Adansonia n.s., 17: 43 1977",,Q58838245,,55c1e65e-8fcc-11eb-924d-9cd76263cbd0,,297866-1,wfo-0000338270,2720073,,
-1dc73826-8fcc-11eb-924d-9cd76263cbd0,species,malawica,Alinula,,"(J.Raynal) Goetgh. & Vorster",,1988,,"Bull. Jard. Bot. Natl. Belg. 58: 462 1988",,Q55776616,,,,945910-1,wfo-0000338271,2720065,,
-1dc75824-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Alinula,,"(Cherm.) Goetgh. & Vorster",,1988,,"Bull. Jard. Bot. Natl. Belg. 58: 461 1988",,Q55776616,,7302dd4a-8fcc-11eb-924d-9cd76263cbd0,,945909-1,wfo-0000338272,2720068,,
-1dc773ae-8fcc-11eb-924d-9cd76263cbd0,species,peteri,Alinula,,"(Kük.) Goetgh. & Vorster",,1988,,"Bull. Jard. Bot. Natl. Belg. 58: 464 1988",,Q55776616,,,,945911-1,wfo-0000338273,2720061,,
+df1686ee-8fd1-11eb-924d-9cd76263cbd0,genus,Alinula,,,J.Raynal,Q5479976,1977,,"Adansonia 17: 43. 1977.",,,,,,,wfo-4000001205,2720060,,
+1dc7124c-8fcc-11eb-924d-9cd76263cbd0,species,lipocarphioides,Alinula,,"(Kük.) J.Raynal","Q75987,Q5479976",1977,,"Adansonia n.s., 17: 43 1977",,Q58838245,,55c1e65e-8fcc-11eb-924d-9cd76263cbd0,,297866-1,wfo-0000338270,2720073,,
+1dc73826-8fcc-11eb-924d-9cd76263cbd0,species,malawica,Alinula,,"(J.Raynal) Goetgh. & Vorster","Q5479976,Q2841931,Q6075608",1988,,"Bull. Jard. Bot. Natl. Belg. 58: 462 1988",,Q55776616,,,,945910-1,wfo-0000338271,2720065,,
+1dc75824-8fcc-11eb-924d-9cd76263cbd0,species,paradoxa,Alinula,,"(Cherm.) Goetgh. & Vorster","Q2754088,Q2841931,Q6075608",1988,,"Bull. Jard. Bot. Natl. Belg. 58: 461 1988",,Q55776616,,7302dd4a-8fcc-11eb-924d-9cd76263cbd0,,945909-1,wfo-0000338272,2720068,,
+1dc773ae-8fcc-11eb-924d-9cd76263cbd0,species,peteri,Alinula,,"(Kük.) Goetgh. & Vorster","Q75987,Q2841931,Q6075608",1988,,"Bull. Jard. Bot. Natl. Belg. 58: 464 1988",,Q55776616,,,,945911-1,wfo-0000338273,2720061,,

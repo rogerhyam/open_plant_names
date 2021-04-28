@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3598242-8fd1-11eb-924d-9cd76263cbd0,genus,Eparmatostigma,,,Garay,,1972,,"Bot. Mus. Leafl. 23: 178. 1972.",,,,,,,wfo-4000013533,2842611,,
-83137df6-8fcd-11eb-924d-9cd76263cbd0,species,dives,Eparmatostigma,,"(Rchb.f.) Garay",,1972,,"Bot. Mus. Leafl. 23: 179 1972",,Q100425847,,,,631116-1,wfo-0000949141,9786530,,
-e5481eb8-8fb5-11eb-924d-9cd76263cbd0,species,obliqua,Epatitis,,Raf.,,,,17,,,,,,,wfo-0000083401,3133736,,
+e3598242-8fd1-11eb-924d-9cd76263cbd0,genus,Eparmatostigma,,,Garay,Q2937426,1972,,"Bot. Mus. Leafl. 23: 178. 1972.",,,,,,,wfo-4000013533,2842611,,
+83137df6-8fcd-11eb-924d-9cd76263cbd0,species,dives,Eparmatostigma,,"(Rchb.f.) Garay","Q62820,Q2937426",1972,,"Bot. Mus. Leafl. 23: 179 1972",,Q100425847,,,,631116-1,wfo-0000949141,9786530,,
+e5481eb8-8fb5-11eb-924d-9cd76263cbd0,species,obliqua,Epatitis,,Raf.,Q364857,,,17,,,,,,,wfo-0000083401,3133736,,

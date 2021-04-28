@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a63da93c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Zygolipomyces,,,"Krassiln., Babeva & Meavahd",,1967,,"Mikrobiologiya 36: 929 (1967)",,,,a63da93c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5886," "
-27486ef0-9bad-11eb-a8a2-19ed5c03f8d3,species,lactosus,Zygolipomyces,,"Krassiln., Babeva & Meavahd",,1967,,"Mikrobiologiya 36: 930 (1967)",,,,27486ef0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341206," "
-2748b8ba-9bad-11eb-a8a2-19ed5c03f8d3,species,tetrasporus,Zygolipomyces,,"Krassiln., Babeva & Meavahd",,1967,,"Mikrobiologiya 36: 929 (1967)",,,,2748b8ba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341207," "
-d1cef37c-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Zygomenes,,"(A.Rich.) Hassk.",,1867,,"Beitr. Fl. Aethiop. 211 1867",,,,,,173600-1,wfo-0000618963,2763403,,
-d1d0acda-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Zygomenes,,"(L.) Salisb.",,1812,,"Trans. Hort. Soc. London 1: 271 1812",,,,,,173601-1,wfo-0000618974,2763439,,
-d1d1e6a4-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Zygomenes,,"Kotschy & Peyr.",,1867,,"Pl. Tinn. t. 22d 1867",,,,,,173602-1,wfo-0000618985,2763466,,
-d1d370b4-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Zygomenes,,"(L.) W.Wight",,1905,,"Contr. U. S. Natl. Herb. 9: 404 1905",,Q95371297,,,,173603-1,wfo-0000618994,2763505,,
-d1d55ba4-8fcc-11eb-924d-9cd76263cbd0,species,cucullata,Zygomenes,,"(Roth) R.S.Rao & Kammathy",,1964,,"Notes Roy. Bot. Gard. Edinburgh 25: 187 1964",,Q102418973,,bff60dde-8fcc-11eb-924d-9cd76263cbd0,,173604-1,wfo-0000619005,2763487,,
-d1d82fdc-8fcc-11eb-924d-9cd76263cbd0,species,parasitica,Zygomenes,,"(Hochst. ex Schweinf.) Hassk.",,1867,,"Beitr. Fl. Aethiop. 214 1867",,,,2fd66406-8fcc-11eb-924d-9cd76263cbd0,,173605-1,wfo-0000619016,2763404,,
-d1d9621c-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Zygomenes,,"(A.Rich.) Hassk.",,1867,,"Beitr. Fl. Aethiop. 213 1867",,,,,,173606-1,wfo-0000619027,2763480,,
-d1daea56-8fcc-11eb-924d-9cd76263cbd0,species,polyrrhiza,Zygomenes,,"(Hochst. ex Hassk.) Hassk.",,1867,,"Beitr. Fl. Aethiop. 214 1867",,,,2fdb7798-8fcc-11eb-924d-9cd76263cbd0,,173607-1,wfo-0000619037,2763516,,
+a63da93c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Zygolipomyces,,,"Krassiln., Babeva & Meavahd",Q4237812,1967,,"Mikrobiologiya 36: 929 (1967)",,,,a63da93c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5886," "
+27486ef0-9bad-11eb-a8a2-19ed5c03f8d3,species,lactosus,Zygolipomyces,,"Krassiln., Babeva & Meavahd",Q4237812,1967,,"Mikrobiologiya 36: 930 (1967)",,,,27486ef0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341206," "
+2748b8ba-9bad-11eb-a8a2-19ed5c03f8d3,species,tetrasporus,Zygolipomyces,,"Krassiln., Babeva & Meavahd",Q4237812,1967,,"Mikrobiologiya 36: 929 (1967)",,,,2748b8ba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,341207," "
+d1cef37c-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Zygomenes,,"(A.Rich.) Hassk.","Q340247,Q68616",1867,,"Beitr. Fl. Aethiop. 211 1867",,,,,,173600-1,wfo-0000618963,2763403,,
+d1d0acda-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Zygomenes,,"(L.) Salisb.","Q1043,Q1358261",1812,,"Trans. Hort. Soc. London 1: 271 1812",,,,,,173601-1,wfo-0000618974,2763439,,
+d1d1e6a4-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Zygomenes,,"Kotschy & Peyr.","Q113299,Q6216038",1867,,"Pl. Tinn. t. 22d 1867",,,,,,173602-1,wfo-0000618985,2763466,,
+d1d370b4-8fcc-11eb-924d-9cd76263cbd0,species,cristata,Zygomenes,,"(L.) W.Wight","Q1043,Q433419",1905,,"Contr. U. S. Natl. Herb. 9: 404 1905",,Q95371297,,,,173603-1,wfo-0000618994,2763505,,
+d1d55ba4-8fcc-11eb-924d-9cd76263cbd0,species,cucullata,Zygomenes,,"(Roth) R.S.Rao & Kammathy","Q64246,Q6111295,Q6095631",1964,,"Notes Roy. Bot. Gard. Edinburgh 25: 187 1964",,Q102418973,,bff60dde-8fcc-11eb-924d-9cd76263cbd0,,173604-1,wfo-0000619005,2763487,,
+d1d82fdc-8fcc-11eb-924d-9cd76263cbd0,species,parasitica,Zygomenes,,"(Hochst. ex Schweinf.) Hassk.","Q64983,Q63126,Q68616",1867,,"Beitr. Fl. Aethiop. 214 1867",,,,2fd66406-8fcc-11eb-924d-9cd76263cbd0,,173605-1,wfo-0000619016,2763404,,
+d1d9621c-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Zygomenes,,"(A.Rich.) Hassk.","Q340247,Q68616",1867,,"Beitr. Fl. Aethiop. 213 1867",,,,,,173606-1,wfo-0000619027,2763480,,
+d1daea56-8fcc-11eb-924d-9cd76263cbd0,species,polyrrhiza,Zygomenes,,"(Hochst. ex Hassk.) Hassk.","Q64983,Q68616",1867,,"Beitr. Fl. Aethiop. 214 1867",,,,2fdb7798-8fcc-11eb-924d-9cd76263cbd0,,173607-1,wfo-0000619037,2763516,,

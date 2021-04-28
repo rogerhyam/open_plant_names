@@ -1,3 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfd08a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Asepalum,,,Marais,,1981,,"Kew Bull. 35(4): 809. 1981.",,Q55779939,,,,893021-1,wfo-4000003265,3570695,,
-fc28cae0-8fcb-11eb-924d-9cd76263cbd0,species,eriantherum,Asepalum,,"(Vatke) Marais",,1981,,"Kew Bull. 35: 809 1981",,Q55779939,,,,908359-1,wfo-0000284071,3570697,,
+dfd08a4e-8fd1-11eb-924d-9cd76263cbd0,genus,Asepalum,,,Marais,Q4283682,1981,,"Kew Bull. 35(4): 809. 1981.",,Q55779939,,,,893021-1,wfo-4000003265,3570695,,
+fc28cae0-8fcb-11eb-924d-9cd76263cbd0,species,eriantherum,Asepalum,,"(Vatke) Marais","Q6167475,Q4283682",1981,,"Kew Bull. 35: 809 1981",,Q55779939,,,,908359-1,wfo-0000284071,3570697,,

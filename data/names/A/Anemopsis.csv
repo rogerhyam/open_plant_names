@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df6ff882-8fd1-11eb-924d-9cd76263cbd0,genus,Anemopsis,,,"Hook. & Arn.",,1841,,"Bot. Beechey Voy. 390, pl. 92. 1841[1840]. (Feb-Mar 1840)",,,,,,30258364-2,wfo-4000002061,3086503,,
-ab8eab48-8fcd-11eb-924d-9cd76263cbd0,species,berlanderi,Anemopsis,,C.DC.,,1872,,"Linnaea 37: 333 1872",,,,,,677261-1,wfo-0001033812,3761025,,
-9e8c4c62-8fcc-11eb-924d-9cd76263cbd0,species,bolanderi,Anemopsis,,C.DC.,,1872,,"Linnaea 37: 333 1872",,,,,,60445043-2,wfo-0000536018,3761043,,
-9e8c9d48-8fcc-11eb-924d-9cd76263cbd0,species,californica,Anemopsis,,"(Nutt.) Hook. & Arn.",,1840,,"Bot. Beechey Voy. 390 1840",,,,,,1197862-2,wfo-0000536020,3086504,,
-9e8d2a56-8fcc-11eb-924d-9cd76263cbd0,variety,subglabra,Anemopsis,californica,Kelso,,1932,,"Amer. Midl. Naturalist 13: 112 1932",,Q55765577,,,,13632-2,wfo-0000536021,3086505,,
-9e8d8640-8fcc-11eb-924d-9cd76263cbd0,species,ludovicisalvatoris,Anemopsis,,Willk.,,1877,,"Gartenflora 26: 228 1877",,,,,,677263-1,wfo-0000536022,,,
+df6ff882-8fd1-11eb-924d-9cd76263cbd0,genus,Anemopsis,,,"Hook. & Arn.","Q472639,Q730292",1841,,"Bot. Beechey Voy. 390, pl. 92. 1841[1840]. (Feb-Mar 1840)",,,,,,30258364-2,wfo-4000002061,3086503,,
+ab8eab48-8fcd-11eb-924d-9cd76263cbd0,species,berlanderi,Anemopsis,,C.DC.,Q282065,1872,,"Linnaea 37: 333 1872",,,,,,677261-1,wfo-0001033812,3761025,,
+9e8c4c62-8fcc-11eb-924d-9cd76263cbd0,species,bolanderi,Anemopsis,,C.DC.,Q282065,1872,,"Linnaea 37: 333 1872",,,,,,60445043-2,wfo-0000536018,3761043,,
+9e8c9d48-8fcc-11eb-924d-9cd76263cbd0,species,californica,Anemopsis,,"(Nutt.) Hook. & Arn.","Q728337,Q472639,Q730292",1840,,"Bot. Beechey Voy. 390 1840",,,,,,1197862-2,wfo-0000536020,3086504,,
+9e8d2a56-8fcc-11eb-924d-9cd76263cbd0,variety,subglabra,Anemopsis,californica,Kelso,Q17381577,1932,,"Amer. Midl. Naturalist 13: 112 1932",,Q55765577,,,,13632-2,wfo-0000536021,3086505,,
+9e8d8640-8fcc-11eb-924d-9cd76263cbd0,species,ludovicisalvatoris,Anemopsis,,Willk.,Q64566,1877,,"Gartenflora 26: 228 1877",,,,,,677263-1,wfo-0000536022,,,

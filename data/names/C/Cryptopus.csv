@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e23ccf22-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptopus,,,Lindl.,,1824,,"Bot. Reg. 10: sub t. 817. 1824. (1 Aug 1824)",,,,e23ccf22-8fd1-11eb-924d-9cd76263cbd0,,29154-1,wfo-4000009917,2804659,1341," "
-b965decc-9bac-11eb-a8a2-19ed5c03f8d3,species,balsamicola,Cryptopus,,"(Peck) Theiss.",,1917,,"Annls mycol. 14(6): 407 (1917)",,,,77001706-9bab-11eb-a8a2-19ed5c03f8d3,,,,,502096," "
-7c071e64-8fcd-11eb-924d-9cd76263cbd0,species,brachiatus,Cryptopus,,H.Perrier,,1938,,"Notul. Syst. (Paris) 7: 137 1938",,,,,,624734-1,wfo-0000933353,5310856,,
-7c073886-8fcd-11eb-924d-9cd76263cbd0,species,dissectus,Cryptopus,,"(Bosser) Bosser",,1980,,"Adansonia n.s., 20: 261 1980",,Q58838314,,7c076d9c-8fcd-11eb-924d-9cd76263cbd0,,624735-1,wfo-0000933354,5310854,,
-7c0751e0-8fcd-11eb-924d-9cd76263cbd0,species,elatus,Cryptopus,,"(Thouars) Lindl.",,1825,,"Bot. Reg. 10: t. 817 1825",,,,,,624736-1,wfo-0000933355,5310851,,
-7c076d9c-8fcd-11eb-924d-9cd76263cbd0,subspecies,dissectus,Cryptopus,elatus,Bosser,,1965,,"Adansonia n.s., 5: 407 1965",,,,,,,wfo-0000933356,5310855,,
-8ac21efa-9bac-11eb-a8a2-19ed5c03f8d3,species,nudus,Cryptopus,,"(Peck) Theiss.",,1914,,"Annls mycol. 12: (1914)",,,,,,,,,192824," "
-7c0789e4-8fcd-11eb-924d-9cd76263cbd0,species,paniculatus,Cryptopus,,H.Perrier,,1938,,"Notul. Syst. (Paris) 7: 136 1938",,,,,,624737-1,wfo-0000933357,5310850,,
+e23ccf22-8fd1-11eb-924d-9cd76263cbd0,genus,Cryptopus,,,Lindl.,Q378629,1824,,"Bot. Reg. 10: sub t. 817. 1824. (1 Aug 1824)",,,,e23ccf22-8fd1-11eb-924d-9cd76263cbd0,,29154-1,wfo-4000009917,2804659,1341," "
+b965decc-9bac-11eb-a8a2-19ed5c03f8d3,species,balsamicola,Cryptopus,,"(Peck) Theiss.",Q1064899,1917,,"Annls mycol. 14(6): 407 (1917)",,,,77001706-9bab-11eb-a8a2-19ed5c03f8d3,,,,,502096," "
+7c071e64-8fcd-11eb-924d-9cd76263cbd0,species,brachiatus,Cryptopus,,H.Perrier,Q2564623,1938,,"Notul. Syst. (Paris) 7: 137 1938",,,,,,624734-1,wfo-0000933353,5310856,,
+7c073886-8fcd-11eb-924d-9cd76263cbd0,species,dissectus,Cryptopus,,"(Bosser) Bosser",Q2917630,1980,,"Adansonia n.s., 20: 261 1980",,Q58838314,,7c076d9c-8fcd-11eb-924d-9cd76263cbd0,,624735-1,wfo-0000933354,5310854,,
+7c0751e0-8fcd-11eb-924d-9cd76263cbd0,species,elatus,Cryptopus,,"(Thouars) Lindl.","Q537070,Q378629",1825,,"Bot. Reg. 10: t. 817 1825",,,,,,624736-1,wfo-0000933355,5310851,,
+7c076d9c-8fcd-11eb-924d-9cd76263cbd0,subspecies,dissectus,Cryptopus,elatus,Bosser,Q2917630,1965,,"Adansonia n.s., 5: 407 1965",,,,,,,wfo-0000933356,5310855,,
+8ac21efa-9bac-11eb-a8a2-19ed5c03f8d3,species,nudus,Cryptopus,,"(Peck) Theiss.",Q1064899,1914,,"Annls mycol. 12: (1914)",,,,,,,,,192824," "
+7c0789e4-8fcd-11eb-924d-9cd76263cbd0,species,paniculatus,Cryptopus,,H.Perrier,Q2564623,1938,,"Notul. Syst. (Paris) 7: 136 1938",,,,,,624737-1,wfo-0000933357,5310850,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e87cd0-8fd1-11eb-924d-9cd76263cbd0,genus,Salweenia,,,"Baker f.",,,,,,,,,,23474-1,wfo-4000033893,2956781,,
-1b7c0654-8fcd-11eb-924d-9cd76263cbd0,species,bouffordiana,Salweenia,,"H.Sun, Zhi M.Li & J.P.Yue",,,,"Taxon 60: 1370 2011",,,,,,,wfo-0000750211,7824053,,
-72a5fa96-8fc5-11eb-924d-9cd76263cbd0,species,wardii,Salweenia,,"Baker f.",,,,,,,,,,,wfo-0000193119,2956782,,
+e9e87cd0-8fd1-11eb-924d-9cd76263cbd0,genus,Salweenia,,,"Baker f.",Q4081202,,,,,,,,,23474-1,wfo-4000033893,2956781,,
+1b7c0654-8fcd-11eb-924d-9cd76263cbd0,species,bouffordiana,Salweenia,,"H.Sun, Zhi M.Li & J.P.Yue","Q19826443,Q33681503,Q19826564",,,"Taxon 60: 1370 2011",,,,,,,wfo-0000750211,7824053,,
+72a5fa96-8fc5-11eb-924d-9cd76263cbd0,species,wardii,Salweenia,,"Baker f.",Q4081202,,,,,,,,,,wfo-0000193119,2956782,,

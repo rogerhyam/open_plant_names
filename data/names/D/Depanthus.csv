@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2999a68-8fd1-11eb-924d-9cd76263cbd0,genus,Depanthus,,,S.Moore,,1921,,"J. Linn. Soc., Bot. 45: 373. 1921.",,Q55760526,,,,16993-1,wfo-4000011153,6365496,,
-df1f5f30-8fcc-11eb-924d-9cd76263cbd0,species,glaber,Depanthus,,"(C.B.Clarke) S.Moore",,1921,,"J. Linn. Soc., Bot. 45: 373 1921",,Q55760526,,,,380149-1,wfo-0000641711,3822127,,
-df1fabb6-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Depanthus,,Guillaumin,,1959,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 8: 170 1959",,,,,,380150-1,wfo-0000641712,3822118,,
+e2999a68-8fd1-11eb-924d-9cd76263cbd0,genus,Depanthus,,,S.Moore,Q2975984,1921,,"J. Linn. Soc., Bot. 45: 373. 1921.",,Q55760526,,,,16993-1,wfo-4000011153,6365496,,
+df1f5f30-8fcc-11eb-924d-9cd76263cbd0,species,glaber,Depanthus,,"(C.B.Clarke) S.Moore","Q2659116,Q2975984",1921,,"J. Linn. Soc., Bot. 45: 373 1921",,Q55760526,,,,380149-1,wfo-0000641711,3822127,,
+df1fabb6-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Depanthus,,Guillaumin,Q2847911,1959,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 8: 170 1959",,,,,,380150-1,wfo-0000641712,3822118,,

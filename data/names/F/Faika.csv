@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3aa59ec-8fd1-11eb-924d-9cd76263cbd0,genus,Faika,,,Philipson,,1985,,"Blumea 30: 419. 1985.",,Q96026981,,,,893451-1,wfo-4000014565,7264500,,
-f886f514-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Faika,,"(Kaneh. & Hatus.) Philipson",,1985,,"Blumea 30: 420 1985",,Q96026981,,8ce22b58-8fcc-11eb-924d-9cd76263cbd0,,915019-1,wfo-0000685733,3782162,,
-61d955ea-8fc1-11eb-924d-9cd76263cbd0,species,panamensis,Fairchildia,,"(Benth.) Britton & Rose",,,,,,,,,,,wfo-0000171564,2951308,,
+e3aa59ec-8fd1-11eb-924d-9cd76263cbd0,genus,Faika,,,Philipson,Q4020136,1985,,"Blumea 30: 419. 1985.",,Q96026981,,,,893451-1,wfo-4000014565,7264500,,
+f886f514-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Faika,,"(Kaneh. & Hatus.) Philipson","Q5935389,Q2880042,Q4020136",1985,,"Blumea 30: 420 1985",,Q96026981,,8ce22b58-8fcc-11eb-924d-9cd76263cbd0,,915019-1,wfo-0000685733,3782162,,
+61d955ea-8fc1-11eb-924d-9cd76263cbd0,species,panamensis,Fairchildia,,"(Benth.) Britton & Rose","Q731808,Q553714,Q1336049",,,,,,,,,,wfo-0000171564,2951308,,

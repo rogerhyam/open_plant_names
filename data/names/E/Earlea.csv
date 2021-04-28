@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9c782f1c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Earlea,,,Arthur,,1906,,"Résult. Sci. Congr. Bot. Vienne 341 (1906)",,,,9c782f1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,16113," "
-422f4cca-9bad-11eb-a8a2-19ed5c03f8d3,species,alaskana,Earlea,,Arthur,,,,,,,,422f4cca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,150012," "
-7f6c1d70-9bad-11eb-a8a2-19ed5c03f8d3,species,speciosa,Earlea,,"(Fr.) Arthur",,,,,,,,,,,,,431642," "
-b28a0348-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Earleocassia,,"(Kunth) Britton",,1930,,"N. Amer. Fl. 23(4): 250 1930",,,,,,86506-2,wfo-0001049499,2957902,,
-b28a3c1e-8fcd-11eb-924d-9cd76263cbd0,species,arida,Earleocassia,,"(Rose) Britton",,1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,86507-2,wfo-0001049501,2957835,,
-b28a5564-8fcd-11eb-924d-9cd76263cbd0,species,bauhinioides,Earleocassia,,"(A.Gray) Britton",,1930,,"N. Amer. Fl. 23(4): 248 1930",,,,75119414-8fc2-11eb-924d-9cd76263cbd0,,86508-2,wfo-0001049502,2958097,,
-b28a712a-8fcd-11eb-924d-9cd76263cbd0,species,confinis,Earleocassia,,"(Greene) Britton",,1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,86509-2,wfo-0001049503,2957341,,
-b28a8ad4-8fcd-11eb-924d-9cd76263cbd0,species,covesii,Earleocassia,,"(A.Gray) Britton",,1930,,"N. Amer. Fl. 23(4): 249 1930",,,,77393a94-8fc2-11eb-924d-9cd76263cbd0,,86510-2,wfo-0001049504,2958066,,
-b28aa500-8fcd-11eb-924d-9cd76263cbd0,species,crotolarioides,Earleocassia,,"(Kunth) Britton",,1930,,"N. Amer. Fl. 23(4): 248 1930",,,,,,86511-2,wfo-0001049505,2957782,,
-b28ac396-8fcd-11eb-924d-9cd76263cbd0,species,demissa,Earleocassia,,"(Rose) Britton",,1930,,"N. Amer. Fl. 23(4): 248 1930",,,,78580bb2-8fc2-11eb-924d-9cd76263cbd0,,86512-2,wfo-0001049506,2957666,,
-b28ae128-8fcd-11eb-924d-9cd76263cbd0,species,durangensis,Earleocassia,,"(Rose) Britton",,1930,,"N. Amer. Fl. 23(4): 248 1930",,,,,,86513-2,wfo-0001049507,2957357,,
-b28afd20-8fcd-11eb-924d-9cd76263cbd0,species,lindeheimeriana,Earleocassia,,"(Scheele) Britton",,1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,,wfo-0001049508,2957350,,
-b28b186e-8fcd-11eb-924d-9cd76263cbd0,species,roemeriana,Earleocassia,,"(Scheele) Britton",,1930,,"N. Amer. Fl. 23(4): 247 1930",,,,,,86515-2,wfo-0001049509,2958046,,
-b28b34e8-8fcd-11eb-924d-9cd76263cbd0,species,vogeliana,Earleocassia,,"(Schltdl.) Britton",,1930,,"N. Amer. Fl. 23(4): 248 1930",,,,778948a4-8fc2-11eb-924d-9cd76263cbd0,,86516-2,wfo-0001049510,2957778,,
+9c782f1c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Earlea,,,Arthur,Q1706753,1906,,"Résult. Sci. Congr. Bot. Vienne 341 (1906)",,,,9c782f1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,16113," "
+422f4cca-9bad-11eb-a8a2-19ed5c03f8d3,species,alaskana,Earlea,,Arthur,Q1706753,,,,,,,422f4cca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,150012," "
+7f6c1d70-9bad-11eb-a8a2-19ed5c03f8d3,species,speciosa,Earlea,,"(Fr.) Arthur","Q15405,Q1706753",,,,,,,,,,,,431642," "
+b28a0348-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Earleocassia,,"(Kunth) Britton","Q77074,Q553714",1930,,"N. Amer. Fl. 23(4): 250 1930",,,,,,86506-2,wfo-0001049499,2957902,,
+b28a3c1e-8fcd-11eb-924d-9cd76263cbd0,species,arida,Earleocassia,,"(Rose) Britton","Q1336049,Q553714",1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,86507-2,wfo-0001049501,2957835,,
+b28a5564-8fcd-11eb-924d-9cd76263cbd0,species,bauhinioides,Earleocassia,,"(A.Gray) Britton","Q347356,Q553714",1930,,"N. Amer. Fl. 23(4): 248 1930",,,,75119414-8fc2-11eb-924d-9cd76263cbd0,,86508-2,wfo-0001049502,2958097,,
+b28a712a-8fcd-11eb-924d-9cd76263cbd0,species,confinis,Earleocassia,,"(Greene) Britton","Q2661665,Q553714",1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,86509-2,wfo-0001049503,2957341,,
+b28a8ad4-8fcd-11eb-924d-9cd76263cbd0,species,covesii,Earleocassia,,"(A.Gray) Britton","Q347356,Q553714",1930,,"N. Amer. Fl. 23(4): 249 1930",,,,77393a94-8fc2-11eb-924d-9cd76263cbd0,,86510-2,wfo-0001049504,2958066,,
+b28aa500-8fcd-11eb-924d-9cd76263cbd0,species,crotolarioides,Earleocassia,,"(Kunth) Britton","Q77074,Q553714",1930,,"N. Amer. Fl. 23(4): 248 1930",,,,,,86511-2,wfo-0001049505,2957782,,
+b28ac396-8fcd-11eb-924d-9cd76263cbd0,species,demissa,Earleocassia,,"(Rose) Britton","Q1336049,Q553714",1930,,"N. Amer. Fl. 23(4): 248 1930",,,,78580bb2-8fc2-11eb-924d-9cd76263cbd0,,86512-2,wfo-0001049506,2957666,,
+b28ae128-8fcd-11eb-924d-9cd76263cbd0,species,durangensis,Earleocassia,,"(Rose) Britton","Q1336049,Q553714",1930,,"N. Amer. Fl. 23(4): 248 1930",,,,,,86513-2,wfo-0001049507,2957357,,
+b28afd20-8fcd-11eb-924d-9cd76263cbd0,species,lindeheimeriana,Earleocassia,,"(Scheele) Britton","Q4522370,Q553714",1930,,"N. Amer. Fl. 23(4): 249 1930",,,,,,,wfo-0001049508,2957350,,
+b28b186e-8fcd-11eb-924d-9cd76263cbd0,species,roemeriana,Earleocassia,,"(Scheele) Britton","Q4522370,Q553714",1930,,"N. Amer. Fl. 23(4): 247 1930",,,,,,86515-2,wfo-0001049509,2958046,,
+b28b34e8-8fcd-11eb-924d-9cd76263cbd0,species,vogeliana,Earleocassia,,"(Schltdl.) Britton","Q62826,Q553714",1930,,"N. Amer. Fl. 23(4): 248 1930",,,,778948a4-8fc2-11eb-924d-9cd76263cbd0,,86516-2,wfo-0001049510,2957778,,

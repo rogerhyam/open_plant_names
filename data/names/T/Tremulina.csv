@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb7beef6-8fd1-11eb-924d-9cd76263cbd0,genus,Tremulina,,,"B.G.Briggs & L.A.S.Johnson",,,,,,Q55801438,,,,1001688-1,wfo-4000038822,2707614,,
-c0fb0a68-8fcc-11eb-924d-9cd76263cbd0,species,cracens,Tremulina,,"B.G.Briggs & L.A.S.Johnson",,2001,,"Telopea 9: 256 2001",,Q96016620,,,,1021323-1,wfo-0000590799,2707615,,
-c0fc952c-8fcc-11eb-924d-9cd76263cbd0,species,tremula,Tremulina,,"(R.Br.) B.G.Briggs & L.A.S.Johnson",,1998,,"Telopea 7: 361 1998",,Q55801438,,cddc296e-8fcd-11eb-924d-9cd76263cbd0,,1001689-1,wfo-0000590811,2707616,,
-3d735302-8fcd-11eb-924d-9cd76263cbd0,species,fruticosa,Trendelenburgia,,Klotzsch,,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 172 1855",,,,,,,wfo-0000822300,4157335,,
+eb7beef6-8fd1-11eb-924d-9cd76263cbd0,genus,Tremulina,,,"B.G.Briggs & L.A.S.Johnson","Q2356897,Q3090721",,,,,Q55801438,,,,1001688-1,wfo-4000038822,2707614,,
+c0fb0a68-8fcc-11eb-924d-9cd76263cbd0,species,cracens,Tremulina,,"B.G.Briggs & L.A.S.Johnson","Q2356897,Q3090721",2001,,"Telopea 9: 256 2001",,Q96016620,,,,1021323-1,wfo-0000590799,2707615,,
+c0fc952c-8fcc-11eb-924d-9cd76263cbd0,species,tremula,Tremulina,,"(R.Br.) B.G.Briggs & L.A.S.Johnson","Q155764,Q2356897,Q3090721",1998,,"Telopea 7: 361 1998",,Q55801438,,cddc296e-8fcd-11eb-924d-9cd76263cbd0,,1001689-1,wfo-0000590811,2707616,,
+3d735302-8fcd-11eb-924d-9cd76263cbd0,species,fruticosa,Trendelenburgia,,Klotzsch,Q67003,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 172 1855",,,,,,,wfo-0000822300,4157335,,

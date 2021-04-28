@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 dfc24a10-8fd1-11eb-924d-9cd76263cbd0,genus,Arnoldia,,,"A. Massal.",,1856,,"Flora, Jena 39: 214 (1856)",,,,dfc24a10-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000003099,,314," "
-c2ee82ae-8fb4-11eb-924d-9cd76263cbd0,species,aurea,Arnoldia,,Cass.,,1824,,"331 1824",,,,,,179096-1,wfo-0000069503,5402320,,
+c2ee82ae-8fb4-11eb-924d-9cd76263cbd0,species,aurea,Arnoldia,,Cass.,Q958431,1824,,"331 1824",,,,,,179096-1,wfo-0000069503,5402320,,
 813665de-9bad-11eb-a8a2-19ed5c03f8d3,species,botryosa,Arnoldia,,"A. Massal.",,1856,,"Miscell. Lich. 20 (1856)",,,,813665de-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376279," "
-2ea7c962-8fb3-11eb-924d-9cd76263cbd0,species,chrysanthemifolia,Arnoldia,,"(Vent.) Steud.",,1840,,"256 1840",,,,bcf40f3e-8fb6-11eb-924d-9cd76263cbd0,,179097-1,wfo-0000043332,5402324,,
+2ea7c962-8fb3-11eb-924d-9cd76263cbd0,species,chrysanthemifolia,Arnoldia,,"(Vent.) Steud.","Q290065,Q62821",1840,,"256 1840",,,,bcf40f3e-8fb6-11eb-924d-9cd76263cbd0,,179097-1,wfo-0000043332,5402324,,
 2fe53eea-9bac-11eb-a8a2-19ed5c03f8d3,species,clavispora,Arnoldia,,"D.J. Gray & Morgan-Jones",,1980,,"Mycotaxon 10(2): 376 (1980)",,,,2fe53eea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,118386," "
 10121bb0-9bac-11eb-a8a2-19ed5c03f8d3,species,clavisporus,Arnoldia,,"D.J. Gray & Morgan-Jones",,,,,,,,10121bb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,372354," Arnoldia clavispora"
 81369fd6-9bad-11eb-a8a2-19ed5c03f8d3,species,cyathodes,Arnoldia,,"A. Massal.",,,,,,,,81369fd6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376280," "
-a6b8ddba-8fcc-11eb-924d-9cd76263cbd0,species,fraxinifolia,Arnoldia,,Blume,,1858,,"Flora 41: 254 1858",,,,,,790261-1,wfo-0000549547,3613604,,
-a6b940c0-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Arnoldia,,Blume,,1826,,"Bijdr. 868 1826",,,,,,790262-1,wfo-0000549548,5535262,,
-8138961a-9bad-11eb-a8a2-19ed5c03f8d3,species,minutula,Arnoldia,,Bornet,,,,,,,,8138961a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376281," "
-a6b980da-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Arnoldia,,"(Blume) Blume",,1826,,"Bijdr. 868 1826",,,,95f8331c-8fcd-11eb-924d-9cd76263cbd0,,790263-1,wfo-0000549549,5535261,,
-0e3b7e36-8fb2-11eb-924d-9cd76263cbd0,species,tragus,Arnoldia,,"(Aiton) Steud.",,1840,,"256 1840",,,,a318a09c-8fb2-11eb-924d-9cd76263cbd0,,179098-1,wfo-0000008342,5402347,,
+a6b8ddba-8fcc-11eb-924d-9cd76263cbd0,species,fraxinifolia,Arnoldia,,Blume,Q76816,1858,,"Flora 41: 254 1858",,,,,,790261-1,wfo-0000549547,3613604,,
+a6b940c0-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Arnoldia,,Blume,Q76816,1826,,"Bijdr. 868 1826",,,,,,790262-1,wfo-0000549548,5535262,,
+8138961a-9bad-11eb-a8a2-19ed5c03f8d3,species,minutula,Arnoldia,,Bornet,Q695467,,,,,,,8138961a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,376281," "
+a6b980da-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Arnoldia,,"(Blume) Blume",Q76816,1826,,"Bijdr. 868 1826",,,,95f8331c-8fcd-11eb-924d-9cd76263cbd0,,790263-1,wfo-0000549549,5535261,,
+0e3b7e36-8fb2-11eb-924d-9cd76263cbd0,species,tragus,Arnoldia,,"(Aiton) Steud.","Q465898,Q62821",1840,,"256 1840",,,,a318a09c-8fb2-11eb-924d-9cd76263cbd0,,179098-1,wfo-0000008342,5402347,,
 5dd1739c-8fb2-11eb-924d-9cd76263cbd0,species,ventenatiana,Arnoldia,,Presl,,1834,,1834,,,,,,179099-1,wfo-0000022162,5402323,,
-696c9888-8fb9-11eb-924d-9cd76263cbd0,species,viscosa,Arnoldia,,"(Andrews) Steud.",,1840,,"256 1840",,,,5e05fc02-8fb2-11eb-924d-9cd76263cbd0,,179100-1,wfo-0000118145,5402328,,
-f2088dc0-8fcb-11eb-924d-9cd76263cbd0,species,arnoldiae,,,Sander,,1894,,"Gard. Chron. III, 15: 84 1894",,,,,,,wfo-0000267956,,,
-6371d918-8fcb-11eb-924d-9cd76263cbd0,species,arnoldiana,,,Rolfe,,1891,,"J. Orchidées 2: 134 1891",,,,,,,wfo-0000222168,,,
+696c9888-8fb9-11eb-924d-9cd76263cbd0,species,viscosa,Arnoldia,,"(Andrews) Steud.","Q947133,Q62821",1840,,"256 1840",,,,5e05fc02-8fb2-11eb-924d-9cd76263cbd0,,179100-1,wfo-0000118145,5402328,,
+f2088dc0-8fcb-11eb-924d-9cd76263cbd0,species,arnoldiae,,,Sander,Q67113,1894,,"Gard. Chron. III, 15: 84 1894",,,,,,,wfo-0000267956,,,
+6371d918-8fcb-11eb-924d-9cd76263cbd0,species,arnoldiana,,,Rolfe,Q2635543,1891,,"J. Orchidées 2: 134 1891",,,,,,,wfo-0000222168,,,

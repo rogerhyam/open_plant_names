@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4072652-9bad-11eb-a8a2-19ed5c03f8d3,genus,Nylanderaria,,,Kuntze,,1891,,"Revis. gen. pl. (Leipzig) 2: 876 (1891)",,,,a4072652-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3532," "
-8c55c93c-9bad-11eb-a8a2-19ed5c03f8d3,species,canariensis,Nylanderaria,,"(Ach.) Kuntze",,,,,,,,fe0e62ca-9bab-11eb-a8a2-19ed5c03f8d3,,,,,395932," "
-8c560f32-9bad-11eb-a8a2-19ed5c03f8d3,species,cladonioides,Nylanderaria,,"(Nyl.) Kuntze",,,,,,,,4255a9a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395933," "
-8c563e44-9bad-11eb-a8a2-19ed5c03f8d3,species,flexuosa,Nylanderaria,,"(Nyl.) Kuntze",,,,,,,,425637a4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395934," "
-8c566eb4-9bad-11eb-a8a2-19ed5c03f8d3,species,soleirolii,Nylanderaria,,"(Schaer.) Kuntze",,,,,,,,91ba0e2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395935," "
-8c56a104-9bad-11eb-a8a2-19ed5c03f8d3,species,vulpina,Nylanderaria,,"(L.) Kuntze",,1891,,"Revis. gen. pl. (Leipzig) (1891)",,,,46f915ec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395936," "
+a4072652-9bad-11eb-a8a2-19ed5c03f8d3,genus,Nylanderaria,,,Kuntze,Q62853,1891,,"Revis. gen. pl. (Leipzig) 2: 876 (1891)",,,,a4072652-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3532," "
+8c55c93c-9bad-11eb-a8a2-19ed5c03f8d3,species,canariensis,Nylanderaria,,"(Ach.) Kuntze","Q365923,Q62853",,,,,,,fe0e62ca-9bab-11eb-a8a2-19ed5c03f8d3,,,,,395932," "
+8c560f32-9bad-11eb-a8a2-19ed5c03f8d3,species,cladonioides,Nylanderaria,,"(Nyl.) Kuntze","Q932083,Q62853",,,,,,,4255a9a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395933," "
+8c563e44-9bad-11eb-a8a2-19ed5c03f8d3,species,flexuosa,Nylanderaria,,"(Nyl.) Kuntze","Q932083,Q62853",,,,,,,425637a4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395934," "
+8c566eb4-9bad-11eb-a8a2-19ed5c03f8d3,species,soleirolii,Nylanderaria,,"(Schaer.) Kuntze",Q62853,,,,,,,91ba0e2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395935," "
+8c56a104-9bad-11eb-a8a2-19ed5c03f8d3,species,vulpina,Nylanderaria,,"(L.) Kuntze","Q1043,Q62853",1891,,"Revis. gen. pl. (Leipzig) (1891)",,,,46f915ec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395936," "

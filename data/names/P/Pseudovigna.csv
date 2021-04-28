@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e937c1c4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudovigna,,,"(Harms) Verdc.",,,,,,Q93608700,,,,23361-1,wfo-4000031739,2945112,,
-98c67e46-8fc3-11eb-924d-9cd76263cbd0,species,argentea,Pseudovigna,,"(Willd.) Verdc.",,,,,,,,,,,wfo-0000183614,2945113,,
-99ca85f8-8fc3-11eb-924d-9cd76263cbd0,species,puerarioides,Pseudovigna,,Ern,,,,,,,,,,,wfo-0000183636,2945117,,
+e937c1c4-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudovigna,,,"(Harms) Verdc.","Q62415,Q604992",,,,,Q93608700,,,,23361-1,wfo-4000031739,2945112,,
+98c67e46-8fc3-11eb-924d-9cd76263cbd0,species,argentea,Pseudovigna,,"(Willd.) Verdc.","Q76353,Q604992",,,,,,,,,,wfo-0000183614,2945113,,
+99ca85f8-8fc3-11eb-924d-9cd76263cbd0,species,puerarioides,Pseudovigna,,Ern,Q21512330,,,,,,,,,,wfo-0000183636,2945117,,

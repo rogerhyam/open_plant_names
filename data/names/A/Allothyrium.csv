@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a375e944-9bad-11eb-a8a2-19ed5c03f8d3,genus,Allothyrium,,,Syd.,,1939,,"Annls mycol. 37(4/5): 393 (1939)",,,,a375e944-9bad-11eb-a8a2-19ed5c03f8d3,,,,,144," "
 de32c9e0-9bac-11eb-a8a2-19ed5c03f8d3,species,marcgraviae,Allothyrium,,Syd.,,1939,,"Annls mycol. 37(4/5): 393 (1939)",,,,de32c9e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270542," "
-1dc89be4-8fcc-11eb-924d-9cd76263cbd0,species,agglutinata,Allotoonia,,"(Jacq.) J.F.Morales & J.K.Williams",,2004,,"Sida 21: 139 2004",,Q91203397,,,,60436262-2,wfo-0000338283,3617570,,
-1dc8f814-8fcc-11eb-924d-9cd76263cbd0,species,caudata,Allotoonia,,"(Woodson) J.F.Morales",,2004,,"Sida 21: 145 2004",,Q91203397,,fb91972e-8fcb-11eb-924d-9cd76263cbd0,,60436263-2,wfo-0000338284,3617562,,
-1dc9445e-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Allotoonia,,"J.F.Morales & J.K.Williams",,2004,,"Sida 21: 148 2004",,Q91203397,,,,60436264-2,wfo-0000338285,3617554,,
-1dc966fa-8fcc-11eb-924d-9cd76263cbd0,species,turbinata,Allotoonia,,"(Woodson) J.F.Morales & J.K.Williams",,2004,,"Sida 21: 150 2004",,Q91203397,,,,60436266-2,wfo-0000338286,3617545,,
-1dc9b84e-8fcc-11eb-924d-9cd76263cbd0,species,tuxtlensis,Allotoonia,,"(Standl.) J.F.Morales & J.K.Williams",,2004,,"Sida 21: 153 2004",,Q91203397,,827ea406-8fcd-11eb-924d-9cd76263cbd0,,60436265-2,wfo-0000338289,3617538,,
-2ecd54b0-8fcd-11eb-924d-9cd76263cbd0,species,woodsoniana,Allotoonia,,"(Monach.) J.F.Morales & J.K.Williams",,2005,,"Lankesteriana 5: 119 2005",,Q55762945,,,,60440690-2,wfo-0000791096,3617525,,
-1dc9d6f8-8fcc-11eb-924d-9cd76263cbd0,species,scabra,Allotria,,Raf.,,1837,,"Fl. Tellur. 3: 70 1837",,,,,,171496-1,wfo-0000338290,5303503,,
+1dc89be4-8fcc-11eb-924d-9cd76263cbd0,species,agglutinata,Allotoonia,,"(Jacq.) J.F.Morales & J.K.Williams","Q84497,Q16301452,Q19003371",2004,,"Sida 21: 139 2004",,Q91203397,,,,60436262-2,wfo-0000338283,3617570,,
+1dc8f814-8fcc-11eb-924d-9cd76263cbd0,species,caudata,Allotoonia,,"(Woodson) J.F.Morales","Q727273,Q16301452",2004,,"Sida 21: 145 2004",,Q91203397,,fb91972e-8fcb-11eb-924d-9cd76263cbd0,,60436263-2,wfo-0000338284,3617562,,
+1dc9445e-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Allotoonia,,"J.F.Morales & J.K.Williams","Q16301452,Q19003371",2004,,"Sida 21: 148 2004",,Q91203397,,,,60436264-2,wfo-0000338285,3617554,,
+1dc966fa-8fcc-11eb-924d-9cd76263cbd0,species,turbinata,Allotoonia,,"(Woodson) J.F.Morales & J.K.Williams","Q727273,Q16301452,Q19003371",2004,,"Sida 21: 150 2004",,Q91203397,,,,60436266-2,wfo-0000338286,3617545,,
+1dc9b84e-8fcc-11eb-924d-9cd76263cbd0,species,tuxtlensis,Allotoonia,,"(Standl.) J.F.Morales & J.K.Williams","Q1333160,Q16301452,Q19003371",2004,,"Sida 21: 153 2004",,Q91203397,,827ea406-8fcd-11eb-924d-9cd76263cbd0,,60436265-2,wfo-0000338289,3617538,,
+2ecd54b0-8fcd-11eb-924d-9cd76263cbd0,species,woodsoniana,Allotoonia,,"(Monach.) J.F.Morales & J.K.Williams","Q5937108,Q16301452,Q19003371",2005,,"Lankesteriana 5: 119 2005",,Q55762945,,,,60440690-2,wfo-0000791096,3617525,,
+1dc9d6f8-8fcc-11eb-924d-9cd76263cbd0,species,scabra,Allotria,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 70 1837",,,,,,171496-1,wfo-0000338290,5303503,,

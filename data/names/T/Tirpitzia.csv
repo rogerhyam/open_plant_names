@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb617ac6-8fd1-11eb-924d-9cd76263cbd0,genus,Tirpitzia,,,"Hallier f.",,1923,,"Beih. Bot. Centralbl. 39(2): 5. 1923.",,,,,,24972-1,wfo-4000038473,7293181,,
-8e15b120-8fcc-11eb-924d-9cd76263cbd0,species,bilocularis,Tirpitzia,,"Suksathan & K.Larsen",,2006,,"Thai Forest Bull., Bot. 34: 202 2006",,Q100991075,,,,77080308-1,wfo-0000508047,4049138,,
-ba769702-8fd1-11eb-924d-9cd76263cbd0,species,candida,Tirpitzia,,Hand.-Mazz.,,1922,,"Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz. 69: 248 1922",,,,,,,wfo-0001243815,4049131,,
-b1f3dcca-8fd1-11eb-924d-9cd76263cbd0,species,ovoidea,Tirpitzia,,"Chun & F.C.How ex W.L.Sha",,1982,,"Guihaia 2(4): 189–190, f. 1–6 1982",,,,,,901160-1,wfo-0001228154,4048587,,
-b374f7c8-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Tirpitzia,,"(Hemsl.) Hallier f.",,1923,,"Beih. Bot. Centralbl. 39(2): 5 1923",,,,,,,wfo-0001230844,5833715,,
+eb617ac6-8fd1-11eb-924d-9cd76263cbd0,genus,Tirpitzia,,,"Hallier f.",Q75908,1923,,"Beih. Bot. Centralbl. 39(2): 5. 1923.",,,,,,24972-1,wfo-4000038473,7293181,,
+8e15b120-8fcc-11eb-924d-9cd76263cbd0,species,bilocularis,Tirpitzia,,"Suksathan & K.Larsen","Q18778718,Q2719575",2006,,"Thai Forest Bull., Bot. 34: 202 2006",,Q100991075,,,,77080308-1,wfo-0000508047,4049138,,
+ba769702-8fd1-11eb-924d-9cd76263cbd0,species,candida,Tirpitzia,,Hand.-Mazz.,Q134118,1922,,"Akad. Wiss. Wien, Math.-Naturwiss. Kl., Anz. 69: 248 1922",,,,,,,wfo-0001243815,4049131,,
+b1f3dcca-8fd1-11eb-924d-9cd76263cbd0,species,ovoidea,Tirpitzia,,"Chun & F.C.How ex W.L.Sha","Q1093510,Q15711474,Q26712973",1982,,"Guihaia 2(4): 189–190, f. 1–6 1982",,,,,,901160-1,wfo-0001228154,4048587,,
+b374f7c8-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Tirpitzia,,"(Hemsl.) Hallier f.","Q1339247,Q75908",1923,,"Beih. Bot. Centralbl. 39(2): 5 1923",,,,,,,wfo-0001230844,5833715,,

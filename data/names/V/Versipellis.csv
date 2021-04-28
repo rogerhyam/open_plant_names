@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a612f214-9bad-11eb-a8a2-19ed5c03f8d3,genus,Versipellis,,,Quél.,,1886,,"Enchir. fung. (Paris) 157 (1886)",,,,a612f214-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18731,"Nom. rejic., Art. 56.1 "
 f4be559a-9bab-11eb-a8a2-19ed5c03f8d3,species,armeniaca,Versipellis,,"(Quél.) Quél.",,1886,,"Enchir. fung. (Paris) 157 (1886)",,,,7ad2939a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,498528," "
-07d99a08-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysenteron,Versipellis,,"(Bull.) Quél.",,1886,,"Enchir. fung. (Paris) 157 (1886)",,,,52d867c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,498555," "
-f1856e4a-9bab-11eb-a8a2-19ed5c03f8d3,species,parasitica,Versipellis,,"(Bull.) Quél.",,1886,,"Enchir. fung. (Paris) 159 (1886)",,,,b48eda10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,495109," "
-f1859b04-9bab-11eb-a8a2-19ed5c03f8d3,species,subtomentosus,Versipellis,,"(L.) Quél.",,1886,,"Enchir. fung. (Paris) 158 (1886)",,,,,,,,,495110," "
-1a7d9c78-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Versteegia,,"(K.Schum. & Lauterb.) Valeton",,1911,,"Nova Guinea 8: 484 1911",,,,,,770224-1,wfo-0000332490,2899520,,
-1a7dba1e-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Versteegia,,Valeton,,1911,,"Nova Guinea 8: 484 1911",,,,,,770225-1,wfo-0000332491,2899524,,
-1a7dd954-8fcc-11eb-924d-9cd76263cbd0,species,minor,Versteegia,,Valeton,,1927,,"Bot. Jahrb. Syst. 61: 67 1927",,,,,,770226-1,wfo-0000332492,2899522,,
-1a7df40c-8fcc-11eb-924d-9cd76263cbd0,species,puberula,Versteegia,,Ridsdale,,1972,,"Blumea 20: 340 1972 publ. 1973",,Q96027945,,,,770227-1,wfo-0000332493,2899519,,
-1a7e1540-8fcc-11eb-924d-9cd76263cbd0,species,solomonensis,Versteegia,,Ridsdale,,1972,,"Blumea 20: 340 1972 publ. 1973",,Q96027945,,,,770228-1,wfo-0000332494,2899523,,
+07d99a08-9bad-11eb-a8a2-19ed5c03f8d3,species,chrysenteron,Versipellis,,"(Bull.) Quél.",Q1246173,1886,,"Enchir. fung. (Paris) 157 (1886)",,,,52d867c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,498555," "
+f1856e4a-9bab-11eb-a8a2-19ed5c03f8d3,species,parasitica,Versipellis,,"(Bull.) Quél.",Q1246173,1886,,"Enchir. fung. (Paris) 159 (1886)",,,,b48eda10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,495109," "
+f1859b04-9bab-11eb-a8a2-19ed5c03f8d3,species,subtomentosus,Versipellis,,"(L.) Quél.",Q1043,1886,,"Enchir. fung. (Paris) 158 (1886)",,,,,,,,,495110," "
+1a7d9c78-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Versteegia,,"(K.Schum. & Lauterb.) Valeton","Q63545,Q72821,Q2335410",1911,,"Nova Guinea 8: 484 1911",,,,,,770224-1,wfo-0000332490,2899520,,
+1a7dba1e-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Versteegia,,Valeton,Q2335410,1911,,"Nova Guinea 8: 484 1911",,,,,,770225-1,wfo-0000332491,2899524,,
+1a7dd954-8fcc-11eb-924d-9cd76263cbd0,species,minor,Versteegia,,Valeton,Q2335410,1927,,"Bot. Jahrb. Syst. 61: 67 1927",,,,,,770226-1,wfo-0000332492,2899522,,
+1a7df40c-8fcc-11eb-924d-9cd76263cbd0,species,puberula,Versteegia,,Ridsdale,Q4394497,1972,,"Blumea 20: 340 1972 publ. 1973",,Q96027945,,,,770227-1,wfo-0000332493,2899519,,
+1a7e1540-8fcc-11eb-924d-9cd76263cbd0,species,solomonensis,Versteegia,,Ridsdale,Q4394497,1972,,"Blumea 20: 340 1972 publ. 1973",,Q96027945,,,,770228-1,wfo-0000332494,2899523,,

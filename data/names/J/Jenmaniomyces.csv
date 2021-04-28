@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-f9eead94-9bab-11eb-a8a2-19ed5c03f8d3,genus,Jenmaniomyces,,,"Cif. & Tomas.",,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 76 (1953)",,,,f9eead94-9bab-11eb-a8a2-19ed5c03f8d3,,,,,2532," "
-edb5128e-9bab-11eb-a8a2-19ed5c03f8d3,species,goebelii,Jenmaniomyces,,"Cif. & Tomas.",,,,,,,,edb5128e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,366699," "
-eeea4da0-8fca-11eb-924d-9cd76263cbd0,species,clarae,Jennyella,,"(Schltr.) Lückel & Fessel",,1999,,"Caesiana 13: 6 1999",,,,e05de4d2-8fc9-11eb-924d-9cd76263cbd0,,1000722-2,wfo-0000220099,2852438,,
-43ac657e-8fcd-11eb-924d-9cd76263cbd0,species,conspersa,Jennyella,,"(P.Ortiz) Szlach.",,2006,,"Polish Bot. J. 51: 34 2006",,,,e06b7944-8fc9-11eb-924d-9cd76263cbd0,,77086264-1,wfo-0000835844,2852420,,
-eef87eca-8fca-11eb-924d-9cd76263cbd0,species,kalbreyeriana,Jennyella,,"(Kraenzl.) Lückel & Fessel",,1999,,"Caesiana 13: 5 1999",,,,,,1012869-1,wfo-0000220100,2852431,,
-ef144844-8fca-11eb-924d-9cd76263cbd0,species,lowiana,Jennyella,,"(Rchb.f.) Lückel & Fessel",,1999,,"Caesiana 13: 6 1999",,,,,,1012871-1,wfo-0000220102,2852429,,
-43acedd2-8fcd-11eb-924d-9cd76263cbd0,species,roraimensis,Jennyella,,"(Rolfe) Lückel & Baumbach",,2007,,"Orchidee (Hamburg) 58: 703 2007 publ. 2008",,,,,,77089501-1,wfo-0000835849,2852408,,
-ef2257e0-8fca-11eb-924d-9cd76263cbd0,species,sanderi,Jennyella,,"(Rolfe) Lückel & Fessel",,1999,,"Caesiana 13: 4 1999",,,,e102cc54-8fc9-11eb-924d-9cd76263cbd0,,1012868-1,wfo-0000220103,2852437,,
-43adcae0-8fcd-11eb-924d-9cd76263cbd0,species,wallisii,Jennyella,,"(Linden & Rchb.f.) Szlach.",,2006,,"Polish Bot. J. 51: 34 2006",,,,,,77086265-1,wfo-0000835857,2852423,,
-43acd1a8-8fcd-11eb-924d-9cd76263cbd0,variety,hennisiana,Jennyella,wallisii,"(Schltr.) Lückel & Baumbach",,2007,,"Orchidee (Hamburg) 58: 703 2007 publ. 2008",,,,,,77089502-1,wfo-0000835848,2852422,,
+f9eead94-9bab-11eb-a8a2-19ed5c03f8d3,genus,Jenmaniomyces,,,"Cif. & Tomas.",Q4516707,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 76 (1953)",,,,f9eead94-9bab-11eb-a8a2-19ed5c03f8d3,,,,,2532," "
+edb5128e-9bab-11eb-a8a2-19ed5c03f8d3,species,goebelii,Jenmaniomyces,,"Cif. & Tomas.",Q4516707,,,,,,,edb5128e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,366699," "
+eeea4da0-8fca-11eb-924d-9cd76263cbd0,species,clarae,Jennyella,,"(Schltr.) Lückel & Fessel","Q62278,Q5830784,Q21512976",1999,,"Caesiana 13: 6 1999",,,,e05de4d2-8fc9-11eb-924d-9cd76263cbd0,,1000722-2,wfo-0000220099,2852438,,
+43ac657e-8fcd-11eb-924d-9cd76263cbd0,species,conspersa,Jennyella,,"(P.Ortiz) Szlach.","Q20015717,Q2624334",2006,,"Polish Bot. J. 51: 34 2006",,,,e06b7944-8fc9-11eb-924d-9cd76263cbd0,,77086264-1,wfo-0000835844,2852420,,
+eef87eca-8fca-11eb-924d-9cd76263cbd0,species,kalbreyeriana,Jennyella,,"(Kraenzl.) Lückel & Fessel","Q542327,Q5830784,Q21512976",1999,,"Caesiana 13: 5 1999",,,,,,1012869-1,wfo-0000220100,2852431,,
+ef144844-8fca-11eb-924d-9cd76263cbd0,species,lowiana,Jennyella,,"(Rchb.f.) Lückel & Fessel","Q62820,Q5830784,Q21512976",1999,,"Caesiana 13: 6 1999",,,,,,1012871-1,wfo-0000220102,2852429,,
+43acedd2-8fcd-11eb-924d-9cd76263cbd0,species,roraimensis,Jennyella,,"(Rolfe) Lückel & Baumbach","Q2635543,Q5830784,Q21393996",2007,,"Orchidee (Hamburg) 58: 703 2007 publ. 2008",,,,,,77089501-1,wfo-0000835849,2852408,,
+ef2257e0-8fca-11eb-924d-9cd76263cbd0,species,sanderi,Jennyella,,"(Rolfe) Lückel & Fessel","Q2635543,Q5830784,Q21512976",1999,,"Caesiana 13: 4 1999",,,,e102cc54-8fc9-11eb-924d-9cd76263cbd0,,1012868-1,wfo-0000220103,2852437,,
+43adcae0-8fcd-11eb-924d-9cd76263cbd0,species,wallisii,Jennyella,,"(Linden & Rchb.f.) Szlach.","Q781362,Q62820,Q2624334",2006,,"Polish Bot. J. 51: 34 2006",,,,,,77086265-1,wfo-0000835857,2852423,,
+43acd1a8-8fcd-11eb-924d-9cd76263cbd0,variety,hennisiana,Jennyella,wallisii,"(Schltr.) Lückel & Baumbach","Q62278,Q5830784,Q21393996",2007,,"Orchidee (Hamburg) 58: 703 2007 publ. 2008",,,,,,77089502-1,wfo-0000835848,2852422,,

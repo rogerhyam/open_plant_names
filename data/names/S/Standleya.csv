@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaaee2f8-8fd1-11eb-924d-9cd76263cbd0,genus,Standleya,,,Brade,,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 119. 1932.",,,,,,295515-2,wfo-4000036268,2895676,,
-0fd312ee-8fcc-11eb-924d-9cd76263cbd0,species,erecta,Standleya,,Brade,,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 121 1932",,,,,,243453-2,wfo-0000315044,2895679,,
-0fd3392c-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Standleya,,Brade,,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 17 1949",,,,,,767097-1,wfo-0000315045,2895681,,
-0fd35ce0-8fcc-11eb-924d-9cd76263cbd0,species,limae,Standleya,,Brade,,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 121 1932",,,,,,243455-2,wfo-0000315046,2895680,,
-0fd3adc6-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Standleya,,"(K.Schum.) Brade",,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 120 1932",,,,,,243456-2,wfo-0000315047,2895677,,
-61c3a64a-8fcc-11eb-924d-9cd76263cbd0,species,costaricanus,Standleyacanthus,,Leonard,,1952,,"Ceiba 3: 143 1952",,Q103981559,,,,243457-2,wfo-0000433558,3774981,,
+eaaee2f8-8fd1-11eb-924d-9cd76263cbd0,genus,Standleya,,,Brade,Q5650096,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 119. 1932.",,,,,,295515-2,wfo-4000036268,2895676,,
+0fd312ee-8fcc-11eb-924d-9cd76263cbd0,species,erecta,Standleya,,Brade,Q5650096,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 121 1932",,,,,,243453-2,wfo-0000315044,2895679,,
+0fd3392c-8fcc-11eb-924d-9cd76263cbd0,species,kuhlmannii,Standleya,,Brade,Q5650096,1949,,"Arch. Jard. Bot. Rio de Janeiro 9: 17 1949",,,,,,767097-1,wfo-0000315045,2895681,,
+0fd35ce0-8fcc-11eb-924d-9cd76263cbd0,species,limae,Standleya,,Brade,Q5650096,1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 121 1932",,,,,,243455-2,wfo-0000315046,2895680,,
+0fd3adc6-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Standleya,,"(K.Schum.) Brade","Q63545,Q5650096",1932,,"Arq. Mus. Nac. Rio de Janeiro 34: 120 1932",,,,,,243456-2,wfo-0000315047,2895677,,
+61c3a64a-8fcc-11eb-924d-9cd76263cbd0,species,costaricanus,Standleyacanthus,,Leonard,Q5370979,1952,,"Ceiba 3: 143 1952",,Q103981559,,,,243457-2,wfo-0000433558,3774981,,

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebbe6362-8fd1-11eb-924d-9cd76263cbd0,genus,Tylosperma,,,Botsch.,,1952,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. SSR 13: 17. 1952.",,,,ebbe6362-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000039664,3024991,18701," "
-ec034f4a-9bac-11eb-a8a2-19ed5c03f8d3,species,asterophora,Tylosperma,,"(Bonord.) Donk",,,,,,,,4d6738ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288207," Tylosperma asterophorum"
-01b5cf16-9bad-11eb-a8a2-19ed5c03f8d3,species,asterophorum,Tylosperma,,"(Bonord.) Donk",,1957,,"Fungus, Wageningen 27: 28 (1957)",,,,4d6738ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307227," asterophora"
-52921bc0-8fcc-11eb-924d-9cd76263cbd0,species,cuneatum,Tylosperma,,"(Gleason) Leeuwenb.",,1958,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 146: 323 1958",,Q100443128,,,,383303-1,wfo-0000413924,5592096,,
-01b62c18-9bad-11eb-a8a2-19ed5c03f8d3,species,fibrillosum,Tylosperma,,"(Burt) Donk",,1957,,"Fungus, Wageningen 27: 28 (1957)",,,,595dcbb6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307228," "
-968a53e6-8fcd-11eb-924d-9cd76263cbd0,species,lignosa,Tylosperma,,"(Willd. ex Schltdl.) Botsch.",,1952,,"; 1952 17 1952",,,,96c75638-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000990714,5370138,,
-a1fc3ece-8fcd-11eb-924d-9cd76263cbd0,species,sericophylla,Tylosperma,,"(R.Parker) Soj k",,2008,,"; 2008 356 2008",,,,96e61ae6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001014395,7865271,,
+ebbe6362-8fd1-11eb-924d-9cd76263cbd0,genus,Tylosperma,,,Botsch.,Q2546434,1952,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. SSR 13: 17. 1952.",,,,ebbe6362-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000039664,3024991,18701," "
+ec034f4a-9bac-11eb-a8a2-19ed5c03f8d3,species,asterophora,Tylosperma,,"(Bonord.) Donk",Q449688,,,,,,,4d6738ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288207," Tylosperma asterophorum"
+01b5cf16-9bad-11eb-a8a2-19ed5c03f8d3,species,asterophorum,Tylosperma,,"(Bonord.) Donk",Q449688,1957,,"Fungus, Wageningen 27: 28 (1957)",,,,4d6738ba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307227," asterophora"
+52921bc0-8fcc-11eb-924d-9cd76263cbd0,species,cuneatum,Tylosperma,,"(Gleason) Leeuwenb.","Q1360735,Q4260321",1958,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 146: 323 1958",,Q100443128,,,,383303-1,wfo-0000413924,5592096,,
+01b62c18-9bad-11eb-a8a2-19ed5c03f8d3,species,fibrillosum,Tylosperma,,"(Burt) Donk",Q449688,1957,,"Fungus, Wageningen 27: 28 (1957)",,,,595dcbb6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307228," "
+968a53e6-8fcd-11eb-924d-9cd76263cbd0,species,lignosa,Tylosperma,,"(Willd. ex Schltdl.) Botsch.","Q76353,Q62826,Q2546434",1952,,"; 1952 17 1952",,,,96c75638-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000990714,5370138,,
+a1fc3ece-8fcd-11eb-924d-9cd76263cbd0,species,sericophylla,Tylosperma,,"(R.Parker) Soj k",Q6108678,2008,,"; 2008 356 2008",,,,96e61ae6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001014395,7865271,,

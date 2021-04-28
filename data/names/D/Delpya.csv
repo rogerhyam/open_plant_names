@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e28fdb0e-8fd1-11eb-924d-9cd76263cbd0,genus,Delpya,,,"Pierre ex Radlk.",,1910,,"Notul. Syst. (Paris) 1: 304. 1910.",,,,,,,wfo-4000011027,7265103,,
-deb5397a-8fcc-11eb-924d-9cd76263cbd0,species,capitata,Delpya,,"(Bonati) Bonati",,1912,,"Bull. Soc. Bot. Genève II, 4: 238 1912",,,,ac42eac2-8fcd-11eb-924d-9cd76263cbd0,,801877-1,wfo-0000640959,5559659,,
-deb559dc-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Delpya,,"Pierre ex Bonati",,1912,,"Bull. Soc. Bot. Genève II, 4: 238 1912",,,,,,801878-1,wfo-0000640960,5559656,,
-deb57836-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Delpya,,"(Pierre) Pierre ex Radlk.",,1910,,"Notul. Syst. (Paris) 1: 306 1910",,,,,,782760-1,wfo-0000640961,,,
+e28fdb0e-8fd1-11eb-924d-9cd76263cbd0,genus,Delpya,,,"Pierre ex Radlk.","Q2593213,Q62865",1910,,"Notul. Syst. (Paris) 1: 304. 1910.",,,,,,,wfo-4000011027,7265103,,
+deb5397a-8fcc-11eb-924d-9cd76263cbd0,species,capitata,Delpya,,"(Bonati) Bonati",Q3121211,1912,,"Bull. Soc. Bot. Genève II, 4: 238 1912",,,,ac42eac2-8fcd-11eb-924d-9cd76263cbd0,,801877-1,wfo-0000640959,5559659,,
+deb559dc-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Delpya,,"Pierre ex Bonati","Q2593213,Q3121211",1912,,"Bull. Soc. Bot. Genève II, 4: 238 1912",,,,,,801878-1,wfo-0000640960,5559656,,
+deb57836-8fcc-11eb-924d-9cd76263cbd0,species,muricata,Delpya,,"(Pierre) Pierre ex Radlk.","Q2593213,Q62865",1910,,"Notul. Syst. (Paris) 1: 306 1910",,,,,,782760-1,wfo-0000640961,,,

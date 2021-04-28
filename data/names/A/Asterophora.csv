@@ -1,34 +1,34 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1ac1d36-9bad-11eb-a8a2-19ed5c03f8d3,genus,Asterophora,,,Ditmar,,1809,,"J. Bot. (Schrader) 3: 56 (1809)",,,,a1ac1d36-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7267," "
-8fee1168-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricicola,Asterophora,,Corda,,1840,,"Icon. fung. (Prague) 4: 8 (1840)",,,,8fee1168-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199932," "
-90155250-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricoides,Asterophora,,Fr.,,1817,,"Symb. gasteromyc. (Lund) 1: 3 (1817)",,,,90155250-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200094," "
+8fee1168-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricicola,Asterophora,,Corda,Q624998,1840,,"Icon. fung. (Prague) 4: 8 (1840)",,,,8fee1168-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199932," "
+90155250-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricoides,Asterophora,,Fr.,Q15405,1817,,"Symb. gasteromyc. (Lund) 1: 3 (1817)",,,,90155250-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200094," "
 8ff90e06-9bac-11eb-a8a2-19ed5c03f8d3,species,angulata,Asterophora,,"(Catt.) Lind",,,,,,,,b737808c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,199975," "
-5ac40fec-9bac-11eb-a8a2-19ed5c03f8d3,species,canaliculata,Asterophora,,"(Pers.) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,7a2fce3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523271," "
-875a46ac-9bac-11eb-a8a2-19ed5c03f8d3,species,candida,Asterophora,,Weinm.,,,,,,,,875a46ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200268," "
-5ac440de-9bac-11eb-a8a2-19ed5c03f8d3,species,cryptarum,Asterophora,,"(Secr. ex Fr.) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,,,,,,523272," "
-12e70dd2-9bac-11eb-a8a2-19ed5c03f8d3,species,effusa,Asterophora,,Schwein.,,1832,,"Trans. Am. phil. Soc., New Series 4: 263 (1832)",,,,12e70dd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,507168," "
-7d65a686-9bad-11eb-a8a2-19ed5c03f8d3,species,grisea,Asterophora,,"(Bonord.) Sacc.",,,,,,,,4f868772-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199847," "
+5ac40fec-9bac-11eb-a8a2-19ed5c03f8d3,species,canaliculata,Asterophora,,"(Pers.) Kuntze","Q346451,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,7a2fce3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523271," "
+875a46ac-9bac-11eb-a8a2-19ed5c03f8d3,species,candida,Asterophora,,Weinm.,Q67124,,,,,,,875a46ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,200268," "
+5ac440de-9bac-11eb-a8a2-19ed5c03f8d3,species,cryptarum,Asterophora,,"(Secr. ex Fr.) Kuntze","Q15405,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,,,,,,523272," "
+12e70dd2-9bac-11eb-a8a2-19ed5c03f8d3,species,effusa,Asterophora,,Schwein.,Q1822110,1832,,"Trans. Am. phil. Soc., New Series 4: 263 (1832)",,,,12e70dd2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,507168," "
+7d65a686-9bad-11eb-a8a2-19ed5c03f8d3,species,grisea,Asterophora,,"(Bonord.) Sacc.",Q707840,,,,,,,4f868772-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199847," "
 0d28e582-9bac-11eb-a8a2-19ed5c03f8d3,species,lignicola,Asterophora,,"G. Arnaud",,1952,invalid,"Bull. trimest. Soc. mycol. Fr. 68: 189 (1952)",,,,0d28e582-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293496,"Nom. inval., Art. 36.1 "
-51791e14-9bac-11eb-a8a2-19ed5c03f8d3,species,lycoperdoides,Asterophora,,"(Bull.) Ditmar",,1809,,"J. Bot. (Schrader) 3: 56 (1809)",,,,,,,,,233153," "
-be87af66-9bac-11eb-a8a2-19ed5c03f8d3,variety,lycoperdoides,Asterophora,lycoperdoides,"(Bull.) Ditmar",,1809,,"J. Bot. (Schrader) 3: 56 (1809)",,,,,,,,,520274," "
-f6548794-9bab-11eb-a8a2-19ed5c03f8d3,variety,trichoides,Asterophora,lycoperdoides,"(Fr.) Fr.",,1829,,"Syst. mycol. (Lundae) 3(1): 206 (1829)",,,,51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,498112," "
-92f5d430-9bad-11eb-a8a2-19ed5c03f8d3,species,microphylla,Asterophora,,"(Corda) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3(2): 488 (1898)",,,,639676c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490585," "
+51791e14-9bac-11eb-a8a2-19ed5c03f8d3,species,lycoperdoides,Asterophora,,"(Bull.) Ditmar",Q1246173,1809,,"J. Bot. (Schrader) 3: 56 (1809)",,,,,,,,,233153," "
+be87af66-9bac-11eb-a8a2-19ed5c03f8d3,variety,lycoperdoides,Asterophora,lycoperdoides,"(Bull.) Ditmar",Q1246173,1809,,"J. Bot. (Schrader) 3: 56 (1809)",,,,,,,,,520274," "
+f6548794-9bab-11eb-a8a2-19ed5c03f8d3,variety,trichoides,Asterophora,lycoperdoides,"(Fr.) Fr.",Q15405,1829,,"Syst. mycol. (Lundae) 3(1): 206 (1829)",,,,51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,498112," "
+92f5d430-9bad-11eb-a8a2-19ed5c03f8d3,species,microphylla,Asterophora,,"(Corda) Kuntze","Q624998,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3(2): 488 (1898)",,,,639676c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490585," "
 6d75794a-9bad-11eb-a8a2-19ed5c03f8d3,species,mirabilis,Asterophora,,"(T.W. May) Redhead & Seifert",,2001,,"Taxon 50(1): 250 (2001)",,,,4eea57b6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,474665," "
-45ec809a-9bac-11eb-a8a2-19ed5c03f8d3,species,nauseosa,Asterophora,,Weinm.,,,,,,,,45ec809a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233720," "
-45eda434-9bac-11eb-a8a2-19ed5c03f8d3,species,oidioides,Asterophora,,Speg.,,1919,,"Boletín de la Soc. Ciencias de Córdoba 23: 527 (1919)",,,,45eda434-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233508," "
-f038a42a-9bac-11eb-a8a2-19ed5c03f8d3,species,parasitica,Asterophora,,"(Bull. ex Pers.) Singer",,1951,,"Lilloa 22: 171 (1951)",,,,,,,,,293497," "
-51d0ada0-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizae,Asterophora,,Corda,,1854,,"Icon. fung. (Prague) 6: 3 (1854)",,,,51d0ada0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233797," "
-51af69ce-9bac-11eb-a8a2-19ed5c03f8d3,species,physaroides,Asterophora,,Fr.,,1817,,"Symb. gasteromyc. (Lund) 1: 8 (1817)",,,,51af69ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233574," "
-83c94416-9bac-11eb-a8a2-19ed5c03f8d3,species,rhizomorpha,Asterophora,,"(Fuckel) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,7a7b4568-9bab-11eb-a8a2-19ed5c03f8d3,,,,,523273," "
-51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,species,trichioides,Asterophora,,Fr.,,1817,,"Symb. gasteromyc. (Lund) 1: 8 (1817)",,,,51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233888," "
-3fc58c60-9bad-11eb-a8a2-19ed5c03f8d3,species,verpodes,Asterophora,,"(Fr.) Kuntze",,,,,,,,59c9b17c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,527530," Asterophora verpoides"
-38c43e6c-9bac-11eb-a8a2-19ed5c03f8d3,species,verpoides,Asterophora,,"(Fr.) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,59c9b17c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,523274," verpodes"
-2e2655b2-9bac-11eb-a8a2-19ed5c03f8d3,species,vopisca,Asterophora,,"(Fr.) Kuntze",,1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,1e56aa10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523275," "
-a8960856-8fcc-11eb-924d-9cd76263cbd0,species,eburneum,Asterophorum,,Sprague,,1908,,"Bull. Misc. Inform. Kew 1908: 249 1908",,Q55781479,,,,833287-1,wfo-0000552781,4260377,,
-a8962c28-8fcc-11eb-924d-9cd76263cbd0,species,mennegae,Asterophorum,,"Jans.-Jac. & Westra",,1983,,"Proc. Kon. Nederl. Akad. Wetensch., C 86: 377 1983",,,,,,901528-1,wfo-0000552782,4260367,,
-01cbea7c-8fcc-11eb-924d-9cd76263cbd0,species,aparine,Asterophyllum,,"(L.) Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744233-1,wfo-0000292628,2913557,,
-01cdc824-8fcc-11eb-924d-9cd76263cbd0,species,asperula,Asterophyllum,,"Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744234-1,wfo-0000292639,2914648,,
-01cf5f36-8fcc-11eb-924d-9cd76263cbd0,species,galium,Asterophyllum,,"Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744236-1,wfo-0000292650,2914406,,
-01d0aea4-8fcc-11eb-924d-9cd76263cbd0,species,scherardianum,Asterophyllum,,"Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744237-1,wfo-0000292661,2908794,,
-01d23b0c-8fcc-11eb-924d-9cd76263cbd0,species,sylvaticum,Asterophyllum,,"Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744238-1,wfo-0000292672,2914646,,
-01d3849e-8fcc-11eb-924d-9cd76263cbd0,species,tinctorium,Asterophyllum,,"(L.) Schimp. & Spenn.",,,,"Fl. Friburg. 3: 1077 1829",,,,,,744239-1,wfo-0000292683,2916774,,
+45ec809a-9bac-11eb-a8a2-19ed5c03f8d3,species,nauseosa,Asterophora,,Weinm.,Q67124,,,,,,,45ec809a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233720," "
+45eda434-9bac-11eb-a8a2-19ed5c03f8d3,species,oidioides,Asterophora,,Speg.,Q648013,1919,,"Boletín de la Soc. Ciencias de Córdoba 23: 527 (1919)",,,,45eda434-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233508," "
+f038a42a-9bac-11eb-a8a2-19ed5c03f8d3,species,parasitica,Asterophora,,"(Bull. ex Pers.) Singer","Q1246173,Q346451",1951,,"Lilloa 22: 171 (1951)",,,,,,,,,293497," "
+51d0ada0-9bac-11eb-a8a2-19ed5c03f8d3,species,pezizae,Asterophora,,Corda,Q624998,1854,,"Icon. fung. (Prague) 6: 3 (1854)",,,,51d0ada0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233797," "
+51af69ce-9bac-11eb-a8a2-19ed5c03f8d3,species,physaroides,Asterophora,,Fr.,Q15405,1817,,"Symb. gasteromyc. (Lund) 1: 8 (1817)",,,,51af69ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233574," "
+83c94416-9bac-11eb-a8a2-19ed5c03f8d3,species,rhizomorpha,Asterophora,,"(Fuckel) Kuntze","Q66899,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,7a7b4568-9bab-11eb-a8a2-19ed5c03f8d3,,,,,523273," "
+51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,species,trichioides,Asterophora,,Fr.,Q15405,1817,,"Symb. gasteromyc. (Lund) 1: 8 (1817)",,,,51dc0bdc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233888," "
+3fc58c60-9bad-11eb-a8a2-19ed5c03f8d3,species,verpodes,Asterophora,,"(Fr.) Kuntze","Q15405,Q62853",,,,,,,59c9b17c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,527530," Asterophora verpoides"
+38c43e6c-9bac-11eb-a8a2-19ed5c03f8d3,species,verpoides,Asterophora,,"(Fr.) Kuntze","Q15405,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,59c9b17c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,523274," verpodes"
+2e2655b2-9bac-11eb-a8a2-19ed5c03f8d3,species,vopisca,Asterophora,,"(Fr.) Kuntze","Q15405,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 445 (1898)",,,,1e56aa10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,523275," "
+a8960856-8fcc-11eb-924d-9cd76263cbd0,species,eburneum,Asterophorum,,Sprague,Q2422076,1908,,"Bull. Misc. Inform. Kew 1908: 249 1908",,Q55781479,,,,833287-1,wfo-0000552781,4260377,,
+a8962c28-8fcc-11eb-924d-9cd76263cbd0,species,mennegae,Asterophorum,,"Jans.-Jac. & Westra","Q5999182,Q5988026",1983,,"Proc. Kon. Nederl. Akad. Wetensch., C 86: 377 1983",,,,,,901528-1,wfo-0000552782,4260367,,
+01cbea7c-8fcc-11eb-924d-9cd76263cbd0,species,aparine,Asterophyllum,,"(L.) Schimp. & Spenn.","Q1043,Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744233-1,wfo-0000292628,2913557,,
+01cdc824-8fcc-11eb-924d-9cd76263cbd0,species,asperula,Asterophyllum,,"Schimp. & Spenn.","Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744234-1,wfo-0000292639,2914648,,
+01cf5f36-8fcc-11eb-924d-9cd76263cbd0,species,galium,Asterophyllum,,"Schimp. & Spenn.","Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744236-1,wfo-0000292650,2914406,,
+01d0aea4-8fcc-11eb-924d-9cd76263cbd0,species,scherardianum,Asterophyllum,,"Schimp. & Spenn.","Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744237-1,wfo-0000292661,2908794,,
+01d23b0c-8fcc-11eb-924d-9cd76263cbd0,species,sylvaticum,Asterophyllum,,"Schimp. & Spenn.","Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744238-1,wfo-0000292672,2914646,,
+01d3849e-8fcc-11eb-924d-9cd76263cbd0,species,tinctorium,Asterophyllum,,"(L.) Schimp. & Spenn.","Q1043,Q63251,Q101024",,,"Fl. Friburg. 3: 1077 1829",,,,,,744239-1,wfo-0000292683,2916774,,

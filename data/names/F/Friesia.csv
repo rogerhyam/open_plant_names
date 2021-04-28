@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9cbc20a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Friesia,,,"Lázaro Ibiza",,1916,,"Revista Real Acad. Ci. Madrid 14: 587 (1916)",,,,9cbc20a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17613," "
-61978b50-9bac-11eb-a8a2-19ed5c03f8d3,species,annosa,Friesia,,"(Fr.) Lázaro Ibiza",,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 588 (1916)",,,,751f2980-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469257," "
-6198694e-9bac-11eb-a8a2-19ed5c03f8d3,species,applanata,Friesia,,"(Pers.) Lázaro Ibiza",,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 587 (1916)",,,,7ea5f38a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469258," "
-8b5ced1c-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Friesia,,Spreng.,,1826,,"Syst. Veg. 3: 850 1826",,,,,,349034-1,wfo-0000967467,5378125,,
-fc49d220-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Friesia,,"Gardner & Champ.",,1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 243 1849",,,,,,834019-1,wfo-0000692479,8258174,,
-fc49f002-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Friesia,,Miers,,1868,,"Ann. Mag. Nat. Hist. IV, 2: 46 1868",,Q96028250,,,,834020-1,wfo-0000692480,7374398,,
-fc4a0ce0-8fcc-11eb-924d-9cd76263cbd0,species,peduncularis,Friesia,,"(Labill.) DC.",,1824,,"Prodr. 1: 520 1824",,,,ec93a4f0-8fcc-11eb-924d-9cd76263cbd0,,834021-1,wfo-0000692481,4030927,,
-fc4a28ba-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Friesia,,A.Cunn.,,1840,,"Ann. Nat. Hist. 4: 24 1840",,,,,,,wfo-0000692482,7655437,,
-619dd7da-9bac-11eb-a8a2-19ed5c03f8d3,species,resinacea,Friesia,,"(Boud.) Lázaro Ibiza",,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 591 (1916)",,,,ae4bde56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469259," "
-7a914390-9bab-11eb-a8a2-19ed5c03f8d3,species,rubra,Friesia,,"Lázaro Ibiza",,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 590 (1916)",,,,7a914390-9bab-11eb-a8a2-19ed5c03f8d3,,,,,184216," "
-fc4a437c-8fcc-11eb-924d-9cd76263cbd0,species,umadeave,Friesia,,"Fric ex Kreuz.",,1929,,"Möller's Deutsche Gärtn.-Zeitung 44: 253 1929",,,,,,297561-2,wfo-0000692483,5625329,,
-61b2d504-9bac-11eb-a8a2-19ed5c03f8d3,species,vegeta,Friesia,,"(Fr.) Lázaro Ibiza",,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 588 (1916)",,,,4365cfe2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,469260," "
+9cbc20a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Friesia,,,"Lázaro Ibiza",Q4254726,1916,,"Revista Real Acad. Ci. Madrid 14: 587 (1916)",,,,9cbc20a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17613," "
+61978b50-9bac-11eb-a8a2-19ed5c03f8d3,species,annosa,Friesia,,"(Fr.) Lázaro Ibiza","Q15405,Q4254726",1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 588 (1916)",,,,751f2980-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469257," "
+6198694e-9bac-11eb-a8a2-19ed5c03f8d3,species,applanata,Friesia,,"(Pers.) Lázaro Ibiza","Q346451,Q4254726",1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 587 (1916)",,,,7ea5f38a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469258," "
+8b5ced1c-8fcd-11eb-924d-9cd76263cbd0,species,argentea,Friesia,,Spreng.,Q62829,1826,,"Syst. Veg. 3: 850 1826",,,,,,349034-1,wfo-0000967467,5378125,,
+fc49d220-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Friesia,,"Gardner & Champ.","Q2404423,Q588623",1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 243 1849",,,,,,834019-1,wfo-0000692479,8258174,,
+fc49f002-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Friesia,,Miers,Q575253,1868,,"Ann. Mag. Nat. Hist. IV, 2: 46 1868",,Q96028250,,,,834020-1,wfo-0000692480,7374398,,
+fc4a0ce0-8fcc-11eb-924d-9cd76263cbd0,species,peduncularis,Friesia,,"(Labill.) DC.","Q528925,Q123057",1824,,"Prodr. 1: 520 1824",,,,ec93a4f0-8fcc-11eb-924d-9cd76263cbd0,,834021-1,wfo-0000692481,4030927,,
+fc4a28ba-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Friesia,,A.Cunn.,Q545888,1840,,"Ann. Nat. Hist. 4: 24 1840",,,,,,,wfo-0000692482,7655437,,
+619dd7da-9bac-11eb-a8a2-19ed5c03f8d3,species,resinacea,Friesia,,"(Boud.) Lázaro Ibiza",Q4254726,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 591 (1916)",,,,ae4bde56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469259," "
+7a914390-9bab-11eb-a8a2-19ed5c03f8d3,species,rubra,Friesia,,"Lázaro Ibiza",Q4254726,1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 590 (1916)",,,,7a914390-9bab-11eb-a8a2-19ed5c03f8d3,,,,,184216," "
+fc4a437c-8fcc-11eb-924d-9cd76263cbd0,species,umadeave,Friesia,,"Fric ex Kreuz.","Q963023,Q4241544",1929,,"Möller's Deutsche Gärtn.-Zeitung 44: 253 1929",,,,,,297561-2,wfo-0000692483,5625329,,
+61b2d504-9bac-11eb-a8a2-19ed5c03f8d3,species,vegeta,Friesia,,"(Fr.) Lázaro Ibiza","Q15405,Q4254726",1916,,"Revta R. Acad. Cienc. exact. fis. nat. Madr. 14: 588 (1916)",,,,4365cfe2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,469260," "

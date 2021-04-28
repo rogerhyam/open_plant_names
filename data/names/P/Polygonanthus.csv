@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8ddacf2-8fd1-11eb-924d-9cd76263cbd0,genus,Polygonanthus,,,Ducke,,1932,,"Notizbl. Bot. Gart. Berlin–Dahlem 11: 345. 1932.",,Q55777464,,,,290896-2,wfo-4000030739,3658082,,
-b649ec7e-8fd1-11eb-924d-9cd76263cbd0,species,amazonicus,Polygonanthus,,Ducke,,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 346 1932",,Q55777464,,,,205948-2,wfo-0001236064,3658117,,
-788c88a6-8fcc-11eb-924d-9cd76263cbd0,species,punctulatus,Polygonanthus,,Kuhlm.,,1940,,"Anais Reunião Sul-Amer. Bot. 3: 80 1940",,,,,,205949-2,wfo-0000471498,3658096,,
-0b5b2cc8-8fcd-11eb-924d-9cd76263cbd0,species,compressum,Polygonastrum,,Moench,,1802,,"Suppl. Meth. 268 1802",,,,,,540073-1,wfo-0000718277,2774170,,
-0b5b6ada-8fcd-11eb-924d-9cd76263cbd0,species,racemosum,Polygonastrum,,"(L.) Moench",,1794,,"Methodus 637 1794",,,,,,540074-1,wfo-0000718279,2769459,,
+e8ddacf2-8fd1-11eb-924d-9cd76263cbd0,genus,Polygonanthus,,,Ducke,Q2601698,1932,,"Notizbl. Bot. Gart. Berlin–Dahlem 11: 345. 1932.",,Q55777464,,,,290896-2,wfo-4000030739,3658082,,
+b649ec7e-8fd1-11eb-924d-9cd76263cbd0,species,amazonicus,Polygonanthus,,Ducke,Q2601698,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 346 1932",,Q55777464,,,,205948-2,wfo-0001236064,3658117,,
+788c88a6-8fcc-11eb-924d-9cd76263cbd0,species,punctulatus,Polygonanthus,,Kuhlm.,Q3113183,1940,,"Anais Reunião Sul-Amer. Bot. 3: 80 1940",,,,,,205949-2,wfo-0000471498,3658096,,
+0b5b2cc8-8fcd-11eb-924d-9cd76263cbd0,species,compressum,Polygonastrum,,Moench,Q60948,1802,,"Suppl. Meth. 268 1802",,,,,,540073-1,wfo-0000718277,2774170,,
+0b5b6ada-8fcd-11eb-924d-9cd76263cbd0,species,racemosum,Polygonastrum,,"(L.) Moench","Q1043,Q60948",1794,,"Methodus 637 1794",,,,,,540074-1,wfo-0000718279,2769459,,

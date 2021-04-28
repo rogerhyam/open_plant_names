@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e28411b6-8fd1-11eb-924d-9cd76263cbd0,genus,Davidia,,,Baill.,,2008,illegitimate,"Bull. Soc. mycol. Fr. 123(1): 56 (2008)",,,,e28411b6-8fd1-11eb-924d-9cd76263cbd0,,19580-1,wfo-4000010881,3231426,509831," "
-67cacaf0-9bac-11eb-a8a2-19ed5c03f8d3,species,cervina,Davidia,,"(Schwein.) M. Pieri & B. Rivoire",,2008,,"Bull. Soc. mycol. Fr. 123(1): 56 (2008)",,,,3d15bc92-9bad-11eb-a8a2-19ed5c03f8d3,,,,,532269," "
-7e1afd24-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Davidia,,Baill.,,1871,,"Adansonia 10: 115 1871",,,,,,430593-1,wfo-0000937952,7322122,,
-dc38bb7c-8fd1-11eb-924d-9cd76263cbd0,variety,vilmoriniana,Davidia,involucrata,"(Dode) Wangerin",,1910,,"Pflanzenr. 41(IV.220a): 17, 19 1910",,,,,,,wfo-0001299343,,,
-7e1b193a-8fcd-11eb-924d-9cd76263cbd0,variety,vilmoriniana,Davidia,involucrata,"(Dode) Hemsl.",,,,"Bot. Mag. 138: t. 8432 1912",,,,,,,wfo-0000937953,7982217,,
-7e1b35aa-8fcd-11eb-924d-9cd76263cbd0,subspecies,vilmoriniana,Davidia,involucrata,"(Dode) Holub",,1983,,"Folia Geobot. Phytotax. 18: 205 1983",,Q55755431,,,,922043-1,wfo-0000937954,5544648,,
-7e1b4fcc-8fcd-11eb-924d-9cd76263cbd0,species,laeta,Davidia,,Dode,,1908,,"Rev. Hort. 80: 407 1908",,,,,,271741-1,wfo-0000937955,5544647,,
-7e1b6e6c-8fcd-11eb-924d-9cd76263cbd0,species,tibetana,Davidia,,David,,1882,,"Nouv. Arch. Mus. Hist. Nat. II, 5: 56 1882",,,,,,,wfo-0000937956,5544645,,
-7e1bda0a-8fcd-11eb-924d-9cd76263cbd0,species,vilmoriniana,Davidia,,Dode,,1908,,"Rev. Hort. 80: 406 1908",,,,,,271742-1,wfo-0000937957,5544643,,
+e28411b6-8fd1-11eb-924d-9cd76263cbd0,genus,Davidia,,,Baill.,Q461931,2008,illegitimate,"Bull. Soc. mycol. Fr. 123(1): 56 (2008)",,,,e28411b6-8fd1-11eb-924d-9cd76263cbd0,,19580-1,wfo-4000010881,3231426,509831," "
+67cacaf0-9bac-11eb-a8a2-19ed5c03f8d3,species,cervina,Davidia,,"(Schwein.) M. Pieri & B. Rivoire",Q1822110,2008,,"Bull. Soc. mycol. Fr. 123(1): 56 (2008)",,,,3d15bc92-9bad-11eb-a8a2-19ed5c03f8d3,,,,,532269," "
+7e1afd24-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Davidia,,Baill.,Q461931,1871,,"Adansonia 10: 115 1871",,,,,,430593-1,wfo-0000937952,7322122,,
+7e1b193a-8fcd-11eb-924d-9cd76263cbd0,variety,vilmoriniana,Davidia,involucrata,"(Dode) Hemsl.","Q4164115,Q1339247",,,"Bot. Mag. 138: t. 8432 1912",,,,,,,wfo-0000937953,7982217,,
+7e1b35aa-8fcd-11eb-924d-9cd76263cbd0,subspecies,vilmoriniana,Davidia,involucrata,"(Dode) Holub","Q4164115,Q328397",1983,,"Folia Geobot. Phytotax. 18: 205 1983",,Q55755431,,,,922043-1,wfo-0000937954,5544648,,
+dc38bb7c-8fd1-11eb-924d-9cd76263cbd0,variety,vilmoriniana,Davidia,involucrata,"(Dode) Wangerin","Q4164115,Q121519",1910,,"Pflanzenr. 41(IV.220a): 17, 19 1910",,,,,,,wfo-0001299343,,,
+7e1b4fcc-8fcd-11eb-924d-9cd76263cbd0,species,laeta,Davidia,,Dode,Q4164115,1908,,"Rev. Hort. 80: 407 1908",,,,,,271741-1,wfo-0000937955,5544647,,
+7e1b6e6c-8fcd-11eb-924d-9cd76263cbd0,species,tibetana,Davidia,,David,Q346939,1882,,"Nouv. Arch. Mus. Hist. Nat. II, 5: 56 1882",,,,,,,wfo-0000937956,5544645,,
+7e1bda0a-8fcd-11eb-924d-9cd76263cbd0,species,vilmoriniana,Davidia,,Dode,Q4164115,1908,,"Rev. Hort. 80: 406 1908",,,,,,271742-1,wfo-0000937957,5544643,,

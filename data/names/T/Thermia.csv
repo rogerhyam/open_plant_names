@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eb497d72-8fd1-11eb-924d-9cd76263cbd0,genus,Thermia,,,,,,,,,,,,,,wfo-4000038175,2956405,,
-52c57556-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Thermia,,Spreng.,,1827,,"Syst. Veg. 4(2): 171 1827",,,,,,521148-1,wfo-0000414218,5628676,,
-52c72ac2-8fcc-11eb-924d-9cd76263cbd0,species,fabacea,Thermia,,"(Pall.) Spreng.",,1827,,"Syst. Veg. 4(2): 171 1827",,,,4e360dd6-8fc5-11eb-924d-9cd76263cbd0,,521149-1,wfo-0000414226,5628675,,
-b63ef444-8fcd-11eb-924d-9cd76263cbd0,species,laburnifolia,Thermia,,"(D.Don) Spreng.",,1827,,"Syst. Veg. 4(2): 171 1827",,,,b3586690-8fc6-11eb-924d-9cd76263cbd0,,521150-1,wfo-0001057851,5628674,,
-52c7c50e-8fcc-11eb-924d-9cd76263cbd0,species,lupinoides,Thermia,,Nutt.,,1818,,"Gen. N. Amer. Pl. 1: 283 1818",,,,,,521151-1,wfo-0000414230,5628672,,
-538f0434-8fc2-11eb-924d-9cd76263cbd0,species,rhombifolia,Thermia,,"(Pursh) Nutt.",,,,,,,,,,,wfo-0000176798,5360184,,
+52c57556-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Thermia,,Spreng.,Q62829,1827,,"Syst. Veg. 4(2): 171 1827",,,,,,521148-1,wfo-0000414218,5628676,,
+52c72ac2-8fcc-11eb-924d-9cd76263cbd0,species,fabacea,Thermia,,"(Pall.) Spreng.","Q155914,Q62829",1827,,"Syst. Veg. 4(2): 171 1827",,,,4e360dd6-8fc5-11eb-924d-9cd76263cbd0,,521149-1,wfo-0000414226,5628675,,
+b63ef444-8fcd-11eb-924d-9cd76263cbd0,species,laburnifolia,Thermia,,"(D.Don) Spreng.","Q1174244,Q62829",1827,,"Syst. Veg. 4(2): 171 1827",,,,b3586690-8fc6-11eb-924d-9cd76263cbd0,,521150-1,wfo-0001057851,5628674,,
+52c7c50e-8fcc-11eb-924d-9cd76263cbd0,species,lupinoides,Thermia,,Nutt.,Q728337,1818,,"Gen. N. Amer. Pl. 1: 283 1818",,,,,,521151-1,wfo-0000414230,5628672,,
+538f0434-8fc2-11eb-924d-9cd76263cbd0,species,rhombifolia,Thermia,,"(Pursh) Nutt.","Q67353,Q728337",,,,,,,,,,wfo-0000176798,5360184,,

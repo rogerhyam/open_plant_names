@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4680776-8fd1-11eb-924d-9cd76263cbd0,genus,Haplormosia,,,Harms,,,,,,,,,,22555-1,wfo-4000016889,2951883,,
-09d60bf2-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Haplormosia,,Harms,,1917,,"Repert. Spec. Nov. Regni Veg. 15: 23 1917",,Q55753024,,,,497344-1,wfo-0000715636,3978068,,
-40fc400a-8fc9-11eb-924d-9cd76263cbd0,species,monophylla,Haplormosia,,"(Harms) Harms",,,,,,,,,,,wfo-0000212072,2951884,,
+e4680776-8fd1-11eb-924d-9cd76263cbd0,genus,Haplormosia,,,Harms,Q62415,,,,,,,,,22555-1,wfo-4000016889,2951883,,
+09d60bf2-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Haplormosia,,Harms,Q62415,1917,,"Repert. Spec. Nov. Regni Veg. 15: 23 1917",,Q55753024,,,,497344-1,wfo-0000715636,3978068,,
+40fc400a-8fc9-11eb-924d-9cd76263cbd0,species,monophylla,Haplormosia,,"(Harms) Harms",Q62415,,,,,,,,,,wfo-0000212072,2951884,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e55b6f1a-8fd1-11eb-924d-9cd76263cbd0,genus,Kerstingiella,,,,,,,,,,,,,,wfo-4000019963,7301431,,
-b76290f6-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Kerstingiella,,"(Schumach. & Thonn.) Lackey",,1978,,"Phytologia 38(4): 229 1978",,,,b464aa1a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001060464,3964271,,
-4d47779a-8fc3-11eb-924d-9cd76263cbd0,species,geocarpa,Kerstingiella,,Harms,,,,,,,,,,,wfo-0000182040,2976971,,
-b7ee9fec-8fcd-11eb-924d-9cd76263cbd0,variety,tisserantii,Kerstingiella,geocarpa,"(Pellegr.) Hepper",,1962,,"Kew Bull. 16(3): 404 1962",,,,,,,wfo-0001061709,7605356,,
-b6e7d6b8-8fcd-11eb-924d-9cd76263cbd0,species,tisserantii,Kerstingiella,,Pellegr.,,1923,,"Bull. Soc. Bot. France 70: 492 1923",,Q55757116,,,,501238-1,wfo-0001059365,3964263,,
-b762ae56-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Kerstingiella,,"(Lam.) Lackey",,1978,,"Phytologia 38(4): 229 1978",,,,,,,wfo-0001060465,2976935,,
+b76290f6-8fcd-11eb-924d-9cd76263cbd0,species,biflora,Kerstingiella,,"(Schumach. & Thonn.) Lackey","Q66153,Q1369447,Q5925691",1978,,"Phytologia 38(4): 229 1978",,,,b464aa1a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001060464,3964271,,
+4d47779a-8fc3-11eb-924d-9cd76263cbd0,species,geocarpa,Kerstingiella,,Harms,Q62415,,,,,,,,,,wfo-0000182040,2976971,,
+b7ee9fec-8fcd-11eb-924d-9cd76263cbd0,variety,tisserantii,Kerstingiella,geocarpa,"(Pellegr.) Hepper","Q4348287,Q5868529",1962,,"Kew Bull. 16(3): 404 1962",,,,,,,wfo-0001061709,7605356,,
+b6e7d6b8-8fcd-11eb-924d-9cd76263cbd0,species,tisserantii,Kerstingiella,,Pellegr.,Q4348287,1923,,"Bull. Soc. Bot. France 70: 492 1923",,Q55757116,,,,501238-1,wfo-0001059365,3964263,,
+b762ae56-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Kerstingiella,,"(Lam.) Lackey","Q82122,Q5925691",1978,,"Phytologia 38(4): 229 1978",,,,,,,wfo-0001060465,2976935,,

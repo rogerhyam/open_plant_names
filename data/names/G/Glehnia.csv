@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e407fc46-8fd1-11eb-924d-9cd76263cbd0,genus,Glehnia,,,"F.Schmidt ex Miq.",,1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 61. 1867.",,,,,,40029-1,wfo-4000015734,3034647,,
-0279bf20-8fcd-11eb-924d-9cd76263cbd0,species,leiocarpa,Glehnia,,Mathias,,1928,,"Ann. Missouri Bot. Gard. 15: 95 1928",,Q55764630,,,,110730-2,wfo-0000703676,3633520,,
-0279f080-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Glehnia,,"F.Schmidt ex Miq.",,1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 61 1867",,,,,,,wfo-0000703677,8404220,,
-027a7faa-8fcd-11eb-924d-9cd76263cbd0,form,leiocarpa,Glehnia,littoralis,"(Mathias) T.N.Liou & Y.H.Chang",,1977,,"in Fl. Plant. Herb. Chinae Bor.-Or. 6: 286 1977",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,892092-1,wfo-0000703680,,,
-027a28e8-8fcd-11eb-924d-9cd76263cbd0,subspecies,leiocarpa,Glehnia,littoralis,"(Mathias) Hultén",,,,"Acta Univ. Lund. n.s., 43(1): 1180 1947",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,110731-2,wfo-0000703678,6308219,,
-027a4f8a-8fcd-11eb-924d-9cd76263cbd0,variety,leiocarpa,Glehnia,littoralis,"(Mathias) B.Boivin",,1967,,"Naturaliste Canad. 94: 524 1967",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,110732-2,wfo-0000703679,6423409,,
+e407fc46-8fd1-11eb-924d-9cd76263cbd0,genus,Glehnia,,,"F.Schmidt ex Miq.","Q283881,Q76742",1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 61. 1867.",,,,,,40029-1,wfo-4000015734,3034647,,
+0279bf20-8fcd-11eb-924d-9cd76263cbd0,species,leiocarpa,Glehnia,,Mathias,Q4284790,1928,,"Ann. Missouri Bot. Gard. 15: 95 1928",,Q55764630,,,,110730-2,wfo-0000703676,3633520,,
+0279f080-8fcd-11eb-924d-9cd76263cbd0,species,littoralis,Glehnia,,"F.Schmidt ex Miq.","Q283881,Q76742",1867,,"Ann. Mus. Bot. Lugduno-Batavi 3: 61 1867",,,,,,,wfo-0000703677,8404220,,
+027a28e8-8fcd-11eb-924d-9cd76263cbd0,subspecies,leiocarpa,Glehnia,littoralis,"(Mathias) Hultén","Q4284790,Q380741",,,"Acta Univ. Lund. n.s., 43(1): 1180 1947",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,110731-2,wfo-0000703678,6308219,,
+027a4f8a-8fcd-11eb-924d-9cd76263cbd0,variety,leiocarpa,Glehnia,littoralis,"(Mathias) B.Boivin","Q4284790,Q5937075",1967,,"Naturaliste Canad. 94: 524 1967",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,110732-2,wfo-0000703679,6423409,,
+027a7faa-8fcd-11eb-924d-9cd76263cbd0,form,leiocarpa,Glehnia,littoralis,"(Mathias) T.N.Liou & Y.H.Chang","Q4284790,Q33666666",1977,,"in Fl. Plant. Herb. Chinae Bor.-Or. 6: 286 1977",,,,0279bf20-8fcd-11eb-924d-9cd76263cbd0,,892092-1,wfo-0000703680,,,

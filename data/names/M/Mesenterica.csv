@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 f4fe0726-9bab-11eb-a8a2-19ed5c03f8d3,genus,Mesenterica,,,Tode,,1790,,"Fung. mecklenb. sel. (Lüneburg) 1: (1790)",,,,f4fe0726-9bab-11eb-a8a2-19ed5c03f8d3,,,,,12144," "
-3eb2e760-9bac-11eb-a8a2-19ed5c03f8d3,species,argentea,Mesenterica,,"Vaill. ex Pers.",,1801,,"Syn. meth. fung. (Göttingen) 2: 706 (1801)",,,,3eb2e760-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213705," "
-8255fad4-9bac-11eb-a8a2-19ed5c03f8d3,species,caerulea,Mesenterica,,Pers.,,1801,,"Syn. meth. fung. (Göttingen) 2: 706 (1801)",,,,8255fad4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440210," "
-827a2e72-9bac-11eb-a8a2-19ed5c03f8d3,species,grisea,Mesenterica,,"Alb. & Schwein.",,1805,,"Consp. fung. (Leipzig) 374 (1805)",,,,827a2e72-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440211," "
-f080474a-9bab-11eb-a8a2-19ed5c03f8d3,species,lutea,Mesenterica,,"Alb. & Schwein.",,1805,illegitimate,"Consp. fung. (Leipzig) 374 (1805)",,,,f080474a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,496059,"Nom. illegit., Art. 53.1 "
-7d5f1ca8-9bad-11eb-a8a2-19ed5c03f8d3,species,sanguinolenta,Mesenterica,,"Alb. & Schwein.",,1805,,"Consp. fung. (Leipzig) 374 (1805)",,,,7d5f1ca8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,449583," "
+3eb2e760-9bac-11eb-a8a2-19ed5c03f8d3,species,argentea,Mesenterica,,"Vaill. ex Pers.","Q737706,Q346451",1801,,"Syn. meth. fung. (Göttingen) 2: 706 (1801)",,,,3eb2e760-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213705," "
+8255fad4-9bac-11eb-a8a2-19ed5c03f8d3,species,caerulea,Mesenterica,,Pers.,Q346451,1801,,"Syn. meth. fung. (Göttingen) 2: 706 (1801)",,,,8255fad4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440210," "
+827a2e72-9bac-11eb-a8a2-19ed5c03f8d3,species,grisea,Mesenterica,,"Alb. & Schwein.","Q62241,Q1822110",1805,,"Consp. fung. (Leipzig) 374 (1805)",,,,827a2e72-9bac-11eb-a8a2-19ed5c03f8d3,,,,,440211," "
+f080474a-9bab-11eb-a8a2-19ed5c03f8d3,species,lutea,Mesenterica,,"Alb. & Schwein.","Q62241,Q1822110",1805,illegitimate,"Consp. fung. (Leipzig) 374 (1805)",,,,f080474a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,496059,"Nom. illegit., Art. 53.1 "
+7d5f1ca8-9bad-11eb-a8a2-19ed5c03f8d3,species,sanguinolenta,Mesenterica,,"Alb. & Schwein.","Q62241,Q1822110",1805,,"Consp. fung. (Leipzig) 374 (1805)",,,,7d5f1ca8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,449583," "
 97f14286-9bac-11eb-a8a2-19ed5c03f8d3,species,tremelloides,Mesenterica,,Tode,,1790,,"Fung. mecklenb. sel. (Lüneburg) 1: 7 (1790)",,,,97f14286-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210103," "
 22bbb2da-9bac-11eb-a8a2-19ed5c03f8d3,variety,coerulea,Mesenterica,tremelloides,Tode,,1790,,"Fung. mecklenb. sel. (Lüneburg) 1: 8 (1790)",,,,22bbb2da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469917," "
 22bc20a8-9bac-11eb-a8a2-19ed5c03f8d3,variety,lutea,Mesenterica,tremelloides,Tode,,1790,,"Fung. mecklenb. sel. (Lüneburg) 1: 7 (1790)",,,,22bc20a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469918," "
 f6b8bde0-9bab-11eb-a8a2-19ed5c03f8d3,variety,tremelloides,Mesenterica,tremelloides,Tode,,1790,,"Fung. mecklenb. sel. (Lüneburg) 1: 7 (1790)",,,,f6b8bde0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,485610," "
-e23344d0-8fcb-11eb-924d-9cd76263cbd0,species,michauxii,Mesicera,,"(Nutt.) Raf.",,1837,,"Fl. Tellur. 2: 39 1837",,,,,,644088-1,wfo-0000241931,2828814,,
-e2336398-8fcb-11eb-924d-9cd76263cbd0,species,quinqueseta,Mesicera,,"(Michx.) Raf.",,1825,,"Neogenyton 4 1825",,,,ecf80f7c-8fcb-11eb-924d-9cd76263cbd0,,644089-1,wfo-0000241932,2828810,,
-e2337ee6-8fcb-11eb-924d-9cd76263cbd0,species,repens,Mesicera,,"(Nutt.) Raf.",,1825,,"Neogenyton 4 1825",,,,,,644090-1,wfo-0000241933,2830047,,
+e23344d0-8fcb-11eb-924d-9cd76263cbd0,species,michauxii,Mesicera,,"(Nutt.) Raf.","Q728337,Q364857",1837,,"Fl. Tellur. 2: 39 1837",,,,,,644088-1,wfo-0000241931,2828814,,
+e2336398-8fcb-11eb-924d-9cd76263cbd0,species,quinqueseta,Mesicera,,"(Michx.) Raf.","Q521848,Q364857",1825,,"Neogenyton 4 1825",,,,ecf80f7c-8fcb-11eb-924d-9cd76263cbd0,,644089-1,wfo-0000241932,2828810,,
+e2337ee6-8fcb-11eb-924d-9cd76263cbd0,species,repens,Mesicera,,"(Nutt.) Raf.","Q728337,Q364857",1825,,"Neogenyton 4 1825",,,,,,644090-1,wfo-0000241933,2830047,,

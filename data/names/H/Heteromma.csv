@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4b05bac-8fd1-11eb-924d-9cd76263cbd0,genus,Heteromma,,,Benth.,,,,,,,,,,9332-1,wfo-4000017733,3088609,,
-8380591e-8fb7-11eb-924d-9cd76263cbd0,species,decurrens,Heteromma,,Benth.,,,,"in Herb. Kew.",,,,,,213957-1,wfo-0000100471,5385710,,
-faeb34f2-8fbb-11eb-924d-9cd76263cbd0,species,decurrens,Heteromma,,"(DC.) O.Hoffm.",,,,,,,,,,,wfo-0000137981,8002036,,
-ea3c2c8a-8fb9-11eb-924d-9cd76263cbd0,species,krookii,Heteromma,,"(O.Hoffm. & Muschl.) Hilliard & B.L.Burtt",,1971,,"Notes Roy. Bot. Gard. Edinburgh 31(1): 33 1971",,Q102417597,,a3381670-8fb2-11eb-924d-9cd76263cbd0,,213958-1,wfo-0000122443,5385709,,
-a5f0b6ea-8fb9-11eb-924d-9cd76263cbd0,species,simplicifolium,Heteromma,,"J.M.Wood & M.S.Evans",,1897,,"in Journ. Bot. 1897, 488.",,,,,,213959-1,wfo-0000120182,,,
+e4b05bac-8fd1-11eb-924d-9cd76263cbd0,genus,Heteromma,,,Benth.,Q731808,,,,,,,,,9332-1,wfo-4000017733,3088609,,
+8380591e-8fb7-11eb-924d-9cd76263cbd0,species,decurrens,Heteromma,,Benth.,Q731808,,,"in Herb. Kew.",,,,,,213957-1,wfo-0000100471,5385710,,
+faeb34f2-8fbb-11eb-924d-9cd76263cbd0,species,decurrens,Heteromma,,"(DC.) O.Hoffm.","Q123057,Q4147110",,,,,,,,,,wfo-0000137981,8002036,,
+ea3c2c8a-8fb9-11eb-924d-9cd76263cbd0,species,krookii,Heteromma,,"(O.Hoffm. & Muschl.) Hilliard & B.L.Burtt","Q4147110,Q71831,Q7087177,Q3286276",1971,,"Notes Roy. Bot. Gard. Edinburgh 31(1): 33 1971",,Q102417597,,a3381670-8fb2-11eb-924d-9cd76263cbd0,,213958-1,wfo-0000122443,5385709,,
+a5f0b6ea-8fb9-11eb-924d-9cd76263cbd0,species,simplicifolium,Heteromma,,"J.M.Wood & M.S.Evans","Q1701052,Q6006848",1897,,"in Journ. Bot. 1897, 488.",,,,,,213959-1,wfo-0000120182,,,

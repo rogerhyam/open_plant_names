@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-04a2a03c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Porterula,,,Speg.,,1920,,"Revista Chilena Hist. Nat. 24: 13 (1920)",,,,04a2a03c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9520," "
-a1736f6e-9bac-11eb-a8a2-19ed5c03f8d3,species,alstroemeriae,Porterula,,Speg.,,1920,,"Revista Chilena Hist. Nat. 24: (1920)",,,,a1736f6e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250615," "
-c191af58-8fcd-11eb-924d-9cd76263cbd0,species,diversifolia,Portesia,,M.Roem.,,1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,579122-1,wfo-0001083650,3852234,,
-c18274d4-8fcd-11eb-924d-9cd76263cbd0,species,echinocarpa,Portesia,,"de Vriese",,1847,,"Ned. Kruidk. Arch. 1: 251 1847",,,,,,,wfo-0001083520,3852225,,
-79d80668-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Portesia,,"(L.) Griseb.",,1859,,"Fl. Brit. W. I. 130 1859",,,,,,579124-1,wfo-0000473720,3852216,,
-79d82468-8fcc-11eb-924d-9cd76263cbd0,species,montana,Portesia,,"(Kunth) M.Roem.",,1846,,"Fam. Nat. Syn. Monogr. 1: 115 1846",,,,,,,wfo-0000473721,3852208,,
-c19995b0-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Portesia,,Cav.,,1789,,"Diss. 7: 370 1789",,,,,,579126-1,wfo-0001083720,3852172,,
-c1913ca8-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Portesia,,Cav.,,1789,,"Diss. 7: 369, t. 215 1789",,,,,,579127-1,wfo-0001083646,3852163,,
-b70e9844-8fd1-11eb-924d-9cd76263cbd0,species,rimosa,Portesia,,Blanco,,1837,,"Fl. Filip. 297 1837",,,,,,,wfo-0001237537,3852150,,
-c191c998-8fcd-11eb-924d-9cd76263cbd0,species,symplicifolia,Portesia,,M.Roem.,,1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,,wfo-0001083651,,,
-79d062d2-8fcc-11eb-924d-9cd76263cbd0,species,trinitensis,Portesia,,"(A.Juss.) M.Roem.",,1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,,wfo-0000473670,3852131,,
-fa67b5a4-8fcb-11eb-924d-9cd76263cbd0,species,popowiana,Portillia,,"Königer & J.Portilla",,1996,,"Arcula 6: 155 1996",,,,,,994037-1,wfo-0000281107,2848810,,
+04a2a03c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Porterula,,,Speg.,Q648013,1920,,"Revista Chilena Hist. Nat. 24: 13 (1920)",,,,04a2a03c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9520," "
+a1736f6e-9bac-11eb-a8a2-19ed5c03f8d3,species,alstroemeriae,Porterula,,Speg.,Q648013,1920,,"Revista Chilena Hist. Nat. 24: (1920)",,,,a1736f6e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250615," "
+c191af58-8fcd-11eb-924d-9cd76263cbd0,species,diversifolia,Portesia,,M.Roem.,Q3440362,1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,579122-1,wfo-0001083650,3852234,,
+c18274d4-8fcd-11eb-924d-9cd76263cbd0,species,echinocarpa,Portesia,,"de Vriese",Q2101720,1847,,"Ned. Kruidk. Arch. 1: 251 1847",,,,,,,wfo-0001083520,3852225,,
+79d80668-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Portesia,,"(L.) Griseb.","Q1043,Q76351",1859,,"Fl. Brit. W. I. 130 1859",,,,,,579124-1,wfo-0000473720,3852216,,
+79d82468-8fcc-11eb-924d-9cd76263cbd0,species,montana,Portesia,,"(Kunth) M.Roem.","Q77074,Q3440362",1846,,"Fam. Nat. Syn. Monogr. 1: 115 1846",,,,,,,wfo-0000473721,3852208,,
+c19995b0-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Portesia,,Cav.,Q545430,1789,,"Diss. 7: 370 1789",,,,,,579126-1,wfo-0001083720,3852172,,
+c1913ca8-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Portesia,,Cav.,Q545430,1789,,"Diss. 7: 369, t. 215 1789",,,,,,579127-1,wfo-0001083646,3852163,,
+b70e9844-8fd1-11eb-924d-9cd76263cbd0,species,rimosa,Portesia,,Blanco,Q721827,1837,,"Fl. Filip. 297 1837",,,,,,,wfo-0001237537,3852150,,
+c191c998-8fcd-11eb-924d-9cd76263cbd0,species,symplicifolia,Portesia,,M.Roem.,Q3440362,1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,,wfo-0001083651,,,
+79d062d2-8fcc-11eb-924d-9cd76263cbd0,species,trinitensis,Portesia,,"(A.Juss.) M.Roem.","Q377094,Q3440362",1846,,"Fam. Nat. Syn. Monogr. 1: 116 1846",,,,,,,wfo-0000473670,3852131,,
+fa67b5a4-8fcb-11eb-924d-9cd76263cbd0,species,popowiana,Portillia,,"Königer & J.Portilla","Q6167798,Q21516328",1996,,"Arcula 6: 155 1996",,,,,,994037-1,wfo-0000281107,2848810,,

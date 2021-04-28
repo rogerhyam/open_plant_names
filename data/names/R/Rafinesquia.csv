@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e97552b4-8fd1-11eb-924d-9cd76263cbd0,genus,Rafinesquia,,,Nutt.,,,,,,,,,,328778-2,wfo-4000032480,3089304,,
-02b24e22-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Rafinesquia,,Raf.,,1838,,"New Fl. 3: 52 1838",,,,,,455469-1,wfo-0000294254,5606958,,
-2987cec2-8fcd-11eb-924d-9cd76263cbd0,species,caerulea,Rafinesquia,,"(L.) Raf.",,1838,,"Sylva Tellur. 79 1838",,,,,,110538-1,wfo-0000779524,5668474,,
-4693a920-8fb2-11eb-924d-9cd76263cbd0,species,californica,Rafinesquia,,Nutt.,,1841,,"Trans. Amer. Philos. Soc. ser. 2, 7 429 1841",,,,,,,wfo-0000018590,5385941,,
-02b2797e-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Rafinesquia,,"(Nutt. ex Hook.) Raf.",,1837,,"Fl. Tellur. 3: 83 1837",,,,7c1896da-8fcd-11eb-924d-9cd76263cbd0,,455470-1,wfo-0000294255,5606956,,
-7f38c292-8fb2-11eb-924d-9cd76263cbd0,species,neomexicana,Rafinesquia,,A.Gray,,1853,,"103 1853",,,,,,328783-2,wfo-0000026221,5385940,,
+e97552b4-8fd1-11eb-924d-9cd76263cbd0,genus,Rafinesquia,,,Nutt.,Q728337,,,,,,,,,328778-2,wfo-4000032480,3089304,,
+02b24e22-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Rafinesquia,,Raf.,Q364857,1838,,"New Fl. 3: 52 1838",,,,,,455469-1,wfo-0000294254,5606958,,
+2987cec2-8fcd-11eb-924d-9cd76263cbd0,species,caerulea,Rafinesquia,,"(L.) Raf.","Q1043,Q364857",1838,,"Sylva Tellur. 79 1838",,,,,,110538-1,wfo-0000779524,5668474,,
+4693a920-8fb2-11eb-924d-9cd76263cbd0,species,californica,Rafinesquia,,Nutt.,Q728337,1841,,"Trans. Amer. Philos. Soc. ser. 2, 7 429 1841",,,,,,,wfo-0000018590,5385941,,
+02b2797e-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Rafinesquia,,"(Nutt. ex Hook.) Raf.","Q728337,Q472639,Q364857",1837,,"Fl. Tellur. 3: 83 1837",,,,7c1896da-8fcd-11eb-924d-9cd76263cbd0,,455470-1,wfo-0000294255,5606956,,
+7f38c292-8fb2-11eb-924d-9cd76263cbd0,species,neomexicana,Rafinesquia,,A.Gray,Q347356,1853,,"103 1853",,,,,,328783-2,wfo-0000026221,5385940,,

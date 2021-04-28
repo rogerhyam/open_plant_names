@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e289502c-8fd1-11eb-924d-9cd76263cbd0,genus,Deccania,,,Tirveng.,,1983,,"Nordic J. Bot. 3(4): 456, f. 1. 1983.",,Q55761177,,,,893278-1,wfo-4000010950,2895661,,
-7e2b5c28-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Deccania,,"(Roth) Tirveng.",,1983,,"Nordic J. Bot. 3: 456 1983",,Q55761177,,,,912373-1,wfo-0000938048,5335487,,
-7e2b799c-8fcd-11eb-924d-9cd76263cbd0,variety,candolleana,Deccania,pubescens,"(Wight & Arn.) Tirveng.",,1983,,"Nordic J. Bot. 3: 456 1983",,Q55761177,,,,922044-1,wfo-0000938049,5335488,,
+e289502c-8fd1-11eb-924d-9cd76263cbd0,genus,Deccania,,,Tirveng.,Q5804720,1983,,"Nordic J. Bot. 3(4): 456, f. 1. 1983.",,Q55761177,,,,893278-1,wfo-4000010950,2895661,,
+7e2b5c28-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Deccania,,"(Roth) Tirveng.","Q64246,Q5804720",1983,,"Nordic J. Bot. 3: 456 1983",,Q55761177,,,,912373-1,wfo-0000938048,5335487,,
+7e2b799c-8fcd-11eb-924d-9cd76263cbd0,variety,candolleana,Deccania,pubescens,"(Wight & Arn.) Tirveng.","Q1375864,Q730292,Q5804720",1983,,"Nordic J. Bot. 3: 456 1983",,Q55761177,,,,922044-1,wfo-0000938049,5335488,,

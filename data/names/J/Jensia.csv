@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e53d2c12-8fd1-11eb-924d-9cd76263cbd0,genus,Jensia,,,B.G.Baldwin,,,,,,Q55774607,,,,1012653-1,wfo-4000019561,9539334,,
-658dd734-8fbb-11eb-924d-9cd76263cbd0,species,rammii,Jensia,,"(Greene) B.G.Baldwin",,1999,,"Novon 9(4) 465 1999",,Q55774607,,3abebf0e-8fb2-11eb-924d-9cd76263cbd0,,1012654-1,wfo-0000133924,3130664,,
-62cd3356-8fb5-11eb-924d-9cd76263cbd0,species,yosemitana,Jensia,,"(Parry ex A.Gray) B.G.Baldwin",,1999,,"Novon 9(4) 465 1999",,Q55774607,,5a70475c-8fb5-11eb-924d-9cd76263cbd0,,1173210-2,wfo-0000077446,3130667,,
-ef30319e-8fca-11eb-924d-9cd76263cbd0,species,ensata,Jensoa,,"(Thunb.) Raf.",,1838,,"Fl. Tellur. 4: 38 1838",,,,,,639326-1,wfo-0000220104,2782310,,
+e53d2c12-8fd1-11eb-924d-9cd76263cbd0,genus,Jensia,,,B.G.Baldwin,Q5734358,,,,,Q55774607,,,,1012653-1,wfo-4000019561,9539334,,
+658dd734-8fbb-11eb-924d-9cd76263cbd0,species,rammii,Jensia,,"(Greene) B.G.Baldwin","Q2661665,Q5734358",1999,,"Novon 9(4) 465 1999",,Q55774607,,3abebf0e-8fb2-11eb-924d-9cd76263cbd0,,1012654-1,wfo-0000133924,3130664,,
+62cd3356-8fb5-11eb-924d-9cd76263cbd0,species,yosemitana,Jensia,,"(Parry ex A.Gray) B.G.Baldwin","Q650220,Q347356,Q5734358",1999,,"Novon 9(4) 465 1999",,Q55774607,,5a70475c-8fb5-11eb-924d-9cd76263cbd0,,1173210-2,wfo-0000077446,3130667,,
+ef30319e-8fca-11eb-924d-9cd76263cbd0,species,ensata,Jensoa,,"(Thunb.) Raf.","Q39658,Q364857",1838,,"Fl. Tellur. 4: 38 1838",,,,,,639326-1,wfo-0000220104,2782310,,

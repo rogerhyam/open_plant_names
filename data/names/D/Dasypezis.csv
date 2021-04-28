@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9c76431e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dasypezis,,,Clem.,,1909,,"Gen. fung. (Minneapolis) 88, 175 (1909)",,,,9c76431e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1415," "
-74658b52-9bab-11eb-a8a2-19ed5c03f8d3,species,albolutea,Dasypezis,,"(Pers.) Clem.",,1909,,"Gen. Fung. (Minneapolis) 88, 175 (1909)",,,,62f45000-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188986," "
-e3e41ac4-9bac-11eb-a8a2-19ed5c03f8d3,species,sepulta,Dasypezis,,"(Rehm) Höhn.",,1926,,"Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 107 (1926)",,,,c9fea868-9bac-11eb-a8a2-19ed5c03f8d3,,,,,277920," "
-e5aed57e-9bac-11eb-a8a2-19ed5c03f8d3,species,tetraspora,Dasypezis,,"(Feltgen) Höhn.",,,,,,,,0b242670-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280098," "
-c6310884-8fd1-11eb-924d-9cd76263cbd0,species,tomentosum,Dasyphonion,,"(Sims) Raf.",,1824,,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,,,wfo-0001265429,8429338,,
+9c76431e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dasypezis,,,Clem.,Q920184,1909,,"Gen. fung. (Minneapolis) 88, 175 (1909)",,,,9c76431e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1415," "
+74658b52-9bab-11eb-a8a2-19ed5c03f8d3,species,albolutea,Dasypezis,,"(Pers.) Clem.","Q346451,Q920184",1909,,"Gen. Fung. (Minneapolis) 88, 175 (1909)",,,,62f45000-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188986," "
+e3e41ac4-9bac-11eb-a8a2-19ed5c03f8d3,species,sepulta,Dasypezis,,"(Rehm) Höhn.","Q4393082,Q4502879",1926,,"Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 107 (1926)",,,,c9fea868-9bac-11eb-a8a2-19ed5c03f8d3,,,,,277920," "
+e5aed57e-9bac-11eb-a8a2-19ed5c03f8d3,species,tetraspora,Dasypezis,,"(Feltgen) Höhn.",Q4502879,,,,,,,0b242670-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280098," "
+c6310884-8fd1-11eb-924d-9cd76263cbd0,species,tomentosum,Dasyphonion,,"(Sims) Raf.","Q2430593,Q364857",1824,,"First Cat. Gard. Transylv. Univ. 13 1824",,,,,,,wfo-0001265429,8429338,,

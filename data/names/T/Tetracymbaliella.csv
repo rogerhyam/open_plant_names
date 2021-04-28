@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb32715e-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracymbaliella,,,Grolle,,1961,,"Nova Hedwigia 3: 48. 1961.",,,,,,,wfo-4000037880,9531030,,
-fcce71dc-8fcd-11eb-924d-9cd76263cbd0,species,comptonii,Tetracymbaliella,,"(Pearson) Grolle",,1963,,"Rev. Bryol. Lichénol. 32: 164 1963",,,,,,,wfo-0001209969,8040292,,
-fce9830a-8fcd-11eb-924d-9cd76263cbd0,species,cymbalifera,Tetracymbaliella,,"(Hook.f. & Taylor) Grolle",,1961,,"Nova Hedwigia 3: 50 1961",,,,f928627c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210218,7826610,,
-fce9d788-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Tetracymbaliella,,"(Gottsche) Grolle",,1961,,"Nova Hedwigia 3: 49 1961",,,,f93ed886-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210221,7954105,,
-fce9bae6-8fcd-11eb-924d-9cd76263cbd0,species,ratiana,Tetracymbaliella,,Grolle,,1961,,"Nova Hedwigia 3: 51 1961",,,,,,,wfo-0001210220,8291360,,
-fce99f0c-8fcd-11eb-924d-9cd76263cbd0,species,rodwayana,Tetracymbaliella,,Grolle,,1961,,"Nova Hedwigia 3: 52 1961",,,,,,,wfo-0001210219,7465661,,
+eb32715e-8fd1-11eb-924d-9cd76263cbd0,genus,Tetracymbaliella,,,Grolle,Q15926718,1961,,"Nova Hedwigia 3: 48. 1961.",,,,,,,wfo-4000037880,9531030,,
+fcce71dc-8fcd-11eb-924d-9cd76263cbd0,species,comptonii,Tetracymbaliella,,"(Pearson) Grolle","Q21522736,Q15926718",1963,,"Rev. Bryol. Lichénol. 32: 164 1963",,,,,,,wfo-0001209969,8040292,,
+fce9830a-8fcd-11eb-924d-9cd76263cbd0,species,cymbalifera,Tetracymbaliella,,"(Hook.f. & Taylor) Grolle","Q157501,Q7794377,Q15926718",1961,,"Nova Hedwigia 3: 50 1961",,,,f928627c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210218,7826610,,
+fce9d788-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Tetracymbaliella,,"(Gottsche) Grolle","Q115257,Q15926718",1961,,"Nova Hedwigia 3: 49 1961",,,,f93ed886-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001210221,7954105,,
+fce9bae6-8fcd-11eb-924d-9cd76263cbd0,species,ratiana,Tetracymbaliella,,Grolle,Q15926718,1961,,"Nova Hedwigia 3: 51 1961",,,,,,,wfo-0001210220,8291360,,
+fce99f0c-8fcd-11eb-924d-9cd76263cbd0,species,rodwayana,Tetracymbaliella,,Grolle,Q15926718,1961,,"Nova Hedwigia 3: 52 1961",,,,,,,wfo-0001210219,7465661,,

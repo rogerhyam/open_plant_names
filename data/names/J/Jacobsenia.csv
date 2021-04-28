@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e533ec9c-8fd1-11eb-924d-9cd76263cbd0,genus,Jacobsenia,,,Schwantes,,1954,,"Notes Mesembr. 3: 255. 1954.",,,,,,16223-1,wfo-4000019442,7329453,,
-d8e16c76-8fd1-11eb-924d-9cd76263cbd0,species,hallii,Jacobsenia,,L.Bolus,,1958,,"Pt. 3, 329 Pt 1958",,,,,,57536-1,wfo-0001293238,3706780,,
-d8e19b56-8fd1-11eb-924d-9cd76263cbd0,species,kolbei,Jacobsenia,,"(L.Bolus) L.Bolus & Schwantes",,1954,,"Pt. 3, 255, sub t. 90 Pt 1954",,,,adcecf64-8fcd-11eb-924d-9cd76263cbd0,,362117-1,wfo-0001293239,3706772,,
-2863b9ee-8fcc-11eb-924d-9cd76263cbd0,species,vaginata,Jacobsenia,,"(L.Bolus) Ihlenf.",,1997,,"Mitt. Inst. Allg. Bot. Hamburg 27: 124 1997",,,,,,1000794-1,wfo-0000354773,8645328,,
+e533ec9c-8fd1-11eb-924d-9cd76263cbd0,genus,Jacobsenia,,,Schwantes,Q78016,1954,,"Notes Mesembr. 3: 255. 1954.",,,,,,16223-1,wfo-4000019442,7329453,,
+d8e16c76-8fd1-11eb-924d-9cd76263cbd0,species,hallii,Jacobsenia,,L.Bolus,Q63764,1958,,"Pt. 3, 329 Pt 1958",,,,,,57536-1,wfo-0001293238,3706780,,
+d8e19b56-8fd1-11eb-924d-9cd76263cbd0,species,kolbei,Jacobsenia,,"(L.Bolus) L.Bolus & Schwantes","Q63764,Q78016",1954,,"Pt. 3, 255, sub t. 90 Pt 1954",,,,adcecf64-8fcd-11eb-924d-9cd76263cbd0,,362117-1,wfo-0001293239,3706772,,
+2863b9ee-8fcc-11eb-924d-9cd76263cbd0,species,vaginata,Jacobsenia,,"(L.Bolus) Ihlenf.","Q63764,Q5891844",1997,,"Mitt. Inst. Allg. Bot. Hamburg 27: 124 1997",,,,,,1000794-1,wfo-0000354773,8645328,,

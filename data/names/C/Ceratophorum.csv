@@ -1,23 +1,23 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-920c5314-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ceratophorum,,,Sacc.,,1880,,"Michelia 2(no. 6): 22 (1880)",,,,920c5314-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7534," "
-6190f4ac-9bac-11eb-a8a2-19ed5c03f8d3,species,albiziae,Ceratophorum,,Petch,,1917,,"Ann. R. bot. Gdns Peradeniya 6(3): 248 (1917)",,,,6190f4ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,529074," albizziae"
-21d39888-9bac-11eb-a8a2-19ed5c03f8d3,species,albizziae,Ceratophorum,,Petch,,,,,,,,21d39888-9bac-11eb-a8a2-19ed5c03f8d3,,,,,501906," Ceratophorum albiziae"
-4bfb039e-9bac-11eb-a8a2-19ed5c03f8d3,species,ciliatum,Ceratophorum,,"(Corda) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 397 (1886)",,,,051c1440-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223361," "
-4be5562a-9bac-11eb-a8a2-19ed5c03f8d3,species,cirratum,Ceratophorum,,"(Ces.) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,903ec00e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223213," "
-4622b03e-9bac-11eb-a8a2-19ed5c03f8d3,species,epiphyllum,Ceratophorum,,"(Berk. & M.A. Curtis) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,,,,,,223409," "
-4bd7bc22-9bac-11eb-a8a2-19ed5c03f8d3,species,erineoides,Ceratophorum,,"(Ces.) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,073c219c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,223108," "
-7a42bf94-9bac-11eb-a8a2-19ed5c03f8d3,species,helicosporium,Ceratophorum,,"(Sacc.) Sacc.",,1880,,"Michelia 2(no. 6): 22 (1880)",,,,948c6ab2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,535016," helicosporum"
-15f8b674-9bac-11eb-a8a2-19ed5c03f8d3,species,helicosporum,Ceratophorum,,"(Sacc.) Sacc.",,,,,,,,948c6ab2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220228," Ceratophorum helicosporium"
-03514aea-9bac-11eb-a8a2-19ed5c03f8d3,species,hypodermium,Ceratophorum,,"(Niessl) Sacc.",,,,,,,,7c345bc2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,219956," "
-7c3055f4-9bad-11eb-a8a2-19ed5c03f8d3,species,intermedium,Ceratophorum,,"(Sacc.) G. Arnaud",,1954,,"Bull. trimest. Soc. mycol. Fr. 69: 287 (1954)",,,,9d9863ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294248," "
+920c5314-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ceratophorum,,,Sacc.,Q707840,1880,,"Michelia 2(no. 6): 22 (1880)",,,,920c5314-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7534," "
+6190f4ac-9bac-11eb-a8a2-19ed5c03f8d3,species,albiziae,Ceratophorum,,Petch,Q7817222,1917,,"Ann. R. bot. Gdns Peradeniya 6(3): 248 (1917)",,,,6190f4ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,529074," albizziae"
+21d39888-9bac-11eb-a8a2-19ed5c03f8d3,species,albizziae,Ceratophorum,,Petch,Q7817222,,,,,,,21d39888-9bac-11eb-a8a2-19ed5c03f8d3,,,,,501906," Ceratophorum albiziae"
+4bfb039e-9bac-11eb-a8a2-19ed5c03f8d3,species,ciliatum,Ceratophorum,,"(Corda) Sacc.","Q624998,Q707840",1886,,"Syll. fung. (Abellini) 4: 397 (1886)",,,,051c1440-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223361," "
+4be5562a-9bac-11eb-a8a2-19ed5c03f8d3,species,cirratum,Ceratophorum,,"(Ces.) Sacc.","Q2138005,Q707840",1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,903ec00e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223213," "
+4622b03e-9bac-11eb-a8a2-19ed5c03f8d3,species,epiphyllum,Ceratophorum,,"(Berk. & M.A. Curtis) Sacc.","Q662338,Q707840",1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,,,,,,223409," "
+4bd7bc22-9bac-11eb-a8a2-19ed5c03f8d3,species,erineoides,Ceratophorum,,"(Ces.) Sacc.","Q2138005,Q707840",1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,073c219c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,223108," "
+7a42bf94-9bac-11eb-a8a2-19ed5c03f8d3,species,helicosporium,Ceratophorum,,"(Sacc.) Sacc.",Q707840,1880,,"Michelia 2(no. 6): 22 (1880)",,,,948c6ab2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,535016," helicosporum"
+15f8b674-9bac-11eb-a8a2-19ed5c03f8d3,species,helicosporum,Ceratophorum,,"(Sacc.) Sacc.",Q707840,,,,,,,948c6ab2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220228," Ceratophorum helicosporium"
+03514aea-9bac-11eb-a8a2-19ed5c03f8d3,species,hypodermium,Ceratophorum,,"(Niessl) Sacc.",Q707840,,,,,,,7c345bc2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,219956," "
+7c3055f4-9bad-11eb-a8a2-19ed5c03f8d3,species,intermedium,Ceratophorum,,"(Sacc.) G. Arnaud",Q707840,1954,,"Bull. trimest. Soc. mycol. Fr. 69: 287 (1954)",,,,9d9863ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294248," "
 2988df34-9bac-11eb-a8a2-19ed5c03f8d3,species,mauiense,Ceratophorum,,"B. Sutton & Hodges",,1983,,"Nova Hedwigia 35(4): 793 (1983)",,,,2988df34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109367," "
-4a4af11c-9bac-11eb-a8a2-19ed5c03f8d3,species,setosum,Ceratophorum,,Kirchn.,,,,,,,,4a4af11c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220112," "
-1face352-9bac-11eb-a8a2-19ed5c03f8d3,species,subulatum,Ceratophorum,,"Cooke & Ellis",,1889,,"Grevillea 17(no. 83): 67 (1889)",,,,1face352-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220009," "
-4a662c8e-9bac-11eb-a8a2-19ed5c03f8d3,species,tripartitum,Ceratophorum,,"(R.G. Bagn.) Sacc.",,,,,,,,63f96b70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220276," "
-319ca034-9bac-11eb-a8a2-19ed5c03f8d3,species,ulmicola,Ceratophorum,,"Ellis & Kellerm.",,1887,,"J. Mycol. 3(11): 127 (1887)",,,,319ca034-9bac-11eb-a8a2-19ed5c03f8d3,,,,,121611," "
-4a5a1e58-9bac-11eb-a8a2-19ed5c03f8d3,species,uncinatum,Ceratophorum,,"(Peck & Clinton) Sacc.",,1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,4e5fab1c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220169," "
-41c6a44a-8fcd-11eb-924d-9cd76263cbd0,species,africanus,Ceratophorus,,Sond.,,1850,,"Linnaea 23: 121 1850",,,,,,340498-1,wfo-0000831634,5377901,,
-41c7e0ee-8fcd-11eb-924d-9cd76263cbd0,species,leerii,Ceratophorus,,"(Teijsm. & Binn.) Hassk.",,1855,,"Retzia 1: 101 1855",,,,0873cd7c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000831645,5333516,,
-41c8da08-8fcd-11eb-924d-9cd76263cbd0,species,longipedicellata,Ceratophorus,,"(Brace ex King & Gamble) Teijsm. & Binn.",,1866,,"Cat. Hort. Bot. Bogor. 161 1866",,,,f0db717e-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000831654,5333512,,
-41cb56a2-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Ceratophorus,,Hassk.,,1855,,"Retzia 1: 101 1855",,,,,,,wfo-0000831675,7688285,,
-41ca091e-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Ceratophorus,,"Maingay ex C.B.Clarke",,1882,,"Fl. Brit. India 3: 547 1882",,,,,,,wfo-0000831664,5333491,,
+4a4af11c-9bac-11eb-a8a2-19ed5c03f8d3,species,setosum,Ceratophorum,,Kirchn.,Q104617,,,,,,,4a4af11c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220112," "
+1face352-9bac-11eb-a8a2-19ed5c03f8d3,species,subulatum,Ceratophorum,,"Cooke & Ellis","Q2351239,Q6206643",1889,,"Grevillea 17(no. 83): 67 (1889)",,,,1face352-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220009," "
+4a662c8e-9bac-11eb-a8a2-19ed5c03f8d3,species,tripartitum,Ceratophorum,,"(R.G. Bagn.) Sacc.",Q707840,,,,,,,63f96b70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220276," "
+319ca034-9bac-11eb-a8a2-19ed5c03f8d3,species,ulmicola,Ceratophorum,,"Ellis & Kellerm.","Q6206643,Q8004607",1887,,"J. Mycol. 3(11): 127 (1887)",,,,319ca034-9bac-11eb-a8a2-19ed5c03f8d3,,,,,121611," "
+4a5a1e58-9bac-11eb-a8a2-19ed5c03f8d3,species,uncinatum,Ceratophorum,,"(Peck & Clinton) Sacc.","Q1064899,Q282329,Q707840",1886,,"Syll. fung. (Abellini) 4: 396 (1886)",,,,4e5fab1c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,220169," "
+41c6a44a-8fcd-11eb-924d-9cd76263cbd0,species,africanus,Ceratophorus,,Sond.,Q77215,1850,,"Linnaea 23: 121 1850",,,,,,340498-1,wfo-0000831634,5377901,,
+41c7e0ee-8fcd-11eb-924d-9cd76263cbd0,species,leerii,Ceratophorus,,"(Teijsm. & Binn.) Hassk.","Q969548,Q4086851,Q68616",1855,,"Retzia 1: 101 1855",,,,0873cd7c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000831645,5333516,,
+41c8da08-8fcd-11eb-924d-9cd76263cbd0,species,longipedicellata,Ceratophorus,,"(Brace ex King & Gamble) Teijsm. & Binn.","Q21392879,Q2566984,Q1461150,Q969548,Q4086851",1866,,"Cat. Hort. Bot. Bogor. 161 1866",,,,f0db717e-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000831654,5333512,,
+41ca091e-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Ceratophorus,,"Maingay ex C.B.Clarke","Q5666129,Q2659116",1882,,"Fl. Brit. India 3: 547 1882",,,,,,,wfo-0000831664,5333491,,
+41cb56a2-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Ceratophorus,,Hassk.,Q68616,1855,,"Retzia 1: 101 1855",,,,,,,wfo-0000831675,7688285,,

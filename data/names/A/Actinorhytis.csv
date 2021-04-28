@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ded7d688-8fd1-11eb-924d-9cd76263cbd0,genus,Actinorhytis,,,"H.Wendl. & Drude",,1875,,"Linnaea 39: 184. 1875.",,,,,,31072-1,wfo-4000000524,2735547,,
-e81a6d14-8fcc-11eb-924d-9cd76263cbd0,species,calapparia,Actinorhytis,,"(Blume) H.Wendl. & Drude ex Scheff.",,1876,,"Ann. Jard. Bot. Buitenzorg 1: 156 1876",,,,ee5e44bc-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000656763,2735548,,
-c4b20738-8fd1-11eb-924d-9cd76263cbd0,species,calapparia,Actinorhytis,,Vidal,,1883,,"Syn. Atlas 42, t. 94, f. B 1883",,,,,,,wfo-0001262705,8400418,,
-e8a82f96-8fcc-11eb-924d-9cd76263cbd0,species,poamau,Actinorhytis,,Becc.,,1914,,"Webbia 4: 274 1914",,Q55757896,,,,663981-1,wfo-0000657746,2735553,,
+ded7d688-8fd1-11eb-924d-9cd76263cbd0,genus,Actinorhytis,,,"H.Wendl. & Drude","Q66720,Q63040",1875,,"Linnaea 39: 184. 1875.",,,,,,31072-1,wfo-4000000524,2735547,,
+c4b20738-8fd1-11eb-924d-9cd76263cbd0,species,calapparia,Actinorhytis,,Vidal,Q19003002,1883,,"Syn. Atlas 42, t. 94, f. B 1883",,,,,,,wfo-0001262705,8400418,,
+e81a6d14-8fcc-11eb-924d-9cd76263cbd0,species,calapparia,Actinorhytis,,"(Blume) H.Wendl. & Drude ex Scheff.","Q76816,Q66720,Q63040,Q2120467",1876,,"Ann. Jard. Bot. Buitenzorg 1: 156 1876",,,,ee5e44bc-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000656763,2735548,,
+e8a82f96-8fcc-11eb-924d-9cd76263cbd0,species,poamau,Actinorhytis,,Becc.,Q361037,1914,,"Webbia 4: 274 1914",,Q55757896,,,,663981-1,wfo-0000657746,2735553,,

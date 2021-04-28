@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4cdffc2-8fd1-11eb-924d-9cd76263cbd0,genus,Holodictyum,,,Maxon,,1908,,"Contr. U.S. Natl. Herb. 10: 481. 1908.",,,,,,,wfo-4000018085,7310870,,
-d4a774ec-8fcd-11eb-924d-9cd76263cbd0,species,finckii,Holodictyum,,"(Baker) Maxon",,1908,,"Contr. U.S. Natl. Herb. 10: 482 1908",,Q95371167,,d4a7589a-8fcd-11eb-924d-9cd76263cbd0,,17252360-1,wfo-0001125269,4258047,,
-d4a717f4-8fcd-11eb-924d-9cd76263cbd0,species,ghiesbreghtii,Holodictyum,,"(E.Fourn.) Maxon",,1908,,"Contr. U.S. Natl. Herb. 10: 482 1908",,Q95371167,,,,123555-2,wfo-0001125266,4258030,,
+e4cdffc2-8fd1-11eb-924d-9cd76263cbd0,genus,Holodictyum,,,Maxon,Q8017342,1908,,"Contr. U.S. Natl. Herb. 10: 481. 1908.",,,,,,,wfo-4000018085,7310870,,
+d4a774ec-8fcd-11eb-924d-9cd76263cbd0,species,finckii,Holodictyum,,"(Baker) Maxon","Q730330,Q8017342",1908,,"Contr. U.S. Natl. Herb. 10: 482 1908",,Q95371167,,d4a7589a-8fcd-11eb-924d-9cd76263cbd0,,17252360-1,wfo-0001125269,4258047,,
+d4a717f4-8fcd-11eb-924d-9cd76263cbd0,species,ghiesbreghtii,Holodictyum,,"(E.Fourn.) Maxon","Q2616180,Q8017342",1908,,"Contr. U.S. Natl. Herb. 10: 482 1908",,Q95371167,,,,123555-2,wfo-0001125266,4258030,,

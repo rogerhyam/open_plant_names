@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9d2791c8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Micropeltopsis,,,Vain.,,1921,,"Acta Soc. Fauna Flora fenn. 49(2): 218, 262 (1921)",,,,9d2791c8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3181," "
-33a1785a-9bac-11eb-a8a2-19ed5c03f8d3,species,alpestris,Micropeltopsis,,"(Sacc.) Spooner & P.M. Kirk",,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,c8dff248-9bac-11eb-a8a2-19ed5c03f8d3,,,,,125928," "
+9d2791c8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Micropeltopsis,,,Vain.,Q4351122,1921,,"Acta Soc. Fauna Flora fenn. 49(2): 218, 262 (1921)",,,,9d2791c8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3181," "
+33a1785a-9bac-11eb-a8a2-19ed5c03f8d3,species,alpestris,Micropeltopsis,,"(Sacc.) Spooner & P.M. Kirk",Q707840,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,c8dff248-9bac-11eb-a8a2-19ed5c03f8d3,,,,,125928," "
 429e897e-9bac-11eb-a8a2-19ed5c03f8d3,species,ammophilae,Micropeltopsis,,"(J.P. Ellis) P.M. Kirk & Spooner",,1989,,"Mycol. Res. 92(3): 336 (1989)",,,,fa51b3da-9bab-11eb-a8a2-19ed5c03f8d3,,,,,135930," "
 553d58d4-9bad-11eb-a8a2-19ed5c03f8d3,species,cannabis,Micropeltopsis,,McPartl.,,1997,,"in McPartland & Cubeta, Mycol. Res. 101(7): 854 (1997)",,,,553d58d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,437529," "
-d67120d0-9bac-11eb-a8a2-19ed5c03f8d3,species,cetrariicola,Micropeltopsis,,"(Nyl.) Vain.",,1921,,"Acta Soc. Fauna Flora fenn. 49(no. 2): 218 (1921)",,,,3e300a24-9bad-11eb-a8a2-19ed5c03f8d3,,,,,260369," "
+d67120d0-9bac-11eb-a8a2-19ed5c03f8d3,species,cetrariicola,Micropeltopsis,,"(Nyl.) Vain.","Q932083,Q4351122",1921,,"Acta Soc. Fauna Flora fenn. 49(no. 2): 218 (1921)",,,,3e300a24-9bad-11eb-a8a2-19ed5c03f8d3,,,,,260369," "
 01ae95f8-9bac-11eb-a8a2-19ed5c03f8d3,species,fimbriata,Micropeltopsis,,"(J.P. Ellis) P.M. Kirk & Spooner",,1990,,"in Spooner & Kirk, Mycol. Res. 94(2): 229 (1990)",,,,693254e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,415078," "
 31e6ac64-9bad-11eb-a8a2-19ed5c03f8d3,species,nigroannulata,Micropeltopsis,,"(J. Webster) Spooner & P.M. Kirk",,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,fc703406-9bac-11eb-a8a2-19ed5c03f8d3,,,,,355822," "
 074e988c-9bac-11eb-a8a2-19ed5c03f8d3,variety,nigroannulata,Micropeltopsis,nigroannulata,"(J. Webster) Spooner & P.M. Kirk",,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,074e988c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,418831," "
@@ -11,8 +11,8 @@ d67120d0-9bac-11eb-a8a2-19ed5c03f8d3,species,cetrariicola,Micropeltopsis,,"(Nyl.
 5300caec-9bad-11eb-a8a2-19ed5c03f8d3,species,norfolciana,Micropeltopsis,,"(J.P. Ellis) P.M. Kirk & Spooner",,1990,,"in Spooner & Kirk, Mycol. Res. 94(2): 229 (1990)",,,,692ecda6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433746," "
 33ab23d2-9bac-11eb-a8a2-19ed5c03f8d3,species,palustris,Micropeltopsis,,"(J.P. Ellis) Spooner & P.M. Kirk",,1990,,"Mycol. Res. 94(2): 228 (1990)",,,,989c968a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,125929," "
 33ac63fa-9bac-11eb-a8a2-19ed5c03f8d3,species,peltigericola,Micropeltopsis,,"(D. Hawksw.) P.M. Kirk & Spooner",,1990,,"in Spooner & Kirk, Mycol. Res. 94(2): 228 (1990)",,,,088c184a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,125930," "
-33b1cb74-9bac-11eb-a8a2-19ed5c03f8d3,species,pinophylla,Micropeltopsis,,"(Höhn.) Spooner & P.M. Kirk",,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,f57c7e3a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,125931," "
+33b1cb74-9bac-11eb-a8a2-19ed5c03f8d3,species,pinophylla,Micropeltopsis,,"(Höhn.) Spooner & P.M. Kirk",Q4502879,1990,,"Mycol. Res. 94(2): 229 (1990)",,,,f57c7e3a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,125931," "
 5e166662-9bad-11eb-a8a2-19ed5c03f8d3,species,quinquecladiopsis,Micropeltopsis,,"E.B.G. Jones, Sivichai & Hywel-Jones",,1999,,"in Jones, Wong, Sivichai, Au & Hywel-Jones, Mycol. Res. 103(6): 729 (1999)",,,,5e166662-9bad-11eb-a8a2-19ed5c03f8d3,,,,,459754," "
 33b2694e-9bac-11eb-a8a2-19ed5c03f8d3,species,santessonii,Micropeltopsis,,"P.M. Kirk & Spooner",,1990,,"in Spooner & Kirk, Mycol. Res. 94(2): 228 (1990)",,,,33b2694e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,125932,"  Holotype IMI 292376"
-d9d5422e-8fd1-11eb-924d-9cd76263cbd0,species,arachnoidea,Micropeplis,,"(Moq.) Bunge",,1852,,"Reliq. Lehmann 303 1852",,,,,,,wfo-0001294947,3760421,,
-34b8d616-8fcc-11eb-924d-9cd76263cbd0,species,foliosa,Micropeplis,,"(L.) G.L.Chu",,2000,,"Higher Pl. China 4: 350 2000",,,,,,1020067-1,wfo-0000375016,3760415,,
+d9d5422e-8fd1-11eb-924d-9cd76263cbd0,species,arachnoidea,Micropeplis,,"(Moq.) Bunge","Q55068622,Q65899",1852,,"Reliq. Lehmann 303 1852",,,,,,,wfo-0001294947,3760421,,
+34b8d616-8fcc-11eb-924d-9cd76263cbd0,species,foliosa,Micropeplis,,"(L.) G.L.Chu","Q1043,Q68499101",2000,,"Higher Pl. China 4: 350 2000",,,,,,1020067-1,wfo-0000375016,3760415,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5625596-8fd1-11eb-924d-9cd76263cbd0,genus,Klackenbergia,,,Kissling,,2009,,"Taxon 58(3): 910. 2009.",,,,,,77101379-1,wfo-4000020054,4904658,,
-ac00e820-8fcd-11eb-924d-9cd76263cbd0,species,condensata,Klackenbergia,,"(Klack.) Kissling",,2009,,"Taxon 58(3): 910 2009",,,,b8b9b538-8fcd-11eb-924d-9cd76263cbd0,,77101381-1,wfo-0001034768,7618485,,
-ac00cc28-8fcd-11eb-924d-9cd76263cbd0,species,stricta,Klackenbergia,,"(Schinz) Kissling",,2009,,"Taxon 58(3): 910 2009",,,,af751608-8fcc-11eb-924d-9cd76263cbd0,,77101380-1,wfo-0001034767,7835437,,
-ad85869c-8fcd-11eb-924d-9cd76263cbd0,species,tristis,Kladnia,,"(L.) Schur",,1866,,"Enum. Pl. Transsilv. 53. 1866",,,,,,285921-1,wfo-0001038068,3042223,,
+e5625596-8fd1-11eb-924d-9cd76263cbd0,genus,Klackenbergia,,,Kissling,Q17635408,2009,,"Taxon 58(3): 910. 2009.",,,,,,77101379-1,wfo-4000020054,4904658,,
+ac00e820-8fcd-11eb-924d-9cd76263cbd0,species,condensata,Klackenbergia,,"(Klack.) Kissling","Q17635269,Q17635408",2009,,"Taxon 58(3): 910 2009",,,,b8b9b538-8fcd-11eb-924d-9cd76263cbd0,,77101381-1,wfo-0001034768,7618485,,
+ac00cc28-8fcd-11eb-924d-9cd76263cbd0,species,stricta,Klackenbergia,,"(Schinz) Kissling","Q124491,Q17635408",2009,,"Taxon 58(3): 910 2009",,,,af751608-8fcc-11eb-924d-9cd76263cbd0,,77101380-1,wfo-0001034767,7835437,,
+ad85869c-8fcd-11eb-924d-9cd76263cbd0,species,tristis,Kladnia,,"(L.) Schur","Q1043,Q71649",1866,,"Enum. Pl. Transsilv. 53. 1866",,,,,,285921-1,wfo-0001038068,3042223,,

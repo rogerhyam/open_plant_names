@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea4147ac-8fd1-11eb-924d-9cd76263cbd0,genus,Selenothamnus,,,Melville,,1967,,"Kew Bull. 20: 514. 1967.",,,,,,,wfo-4000034985,7278754,,
-8a955f28-8fcc-11eb-924d-9cd76263cbd0,species,helmsii,Selenothamnus,,"(F.Muell. & Tate) Melville",,1966,,"Kew Bull. 20: 515 1966",,Q55779059,,,,563348-1,wfo-0000502203,3934027,,
-8a9578fa-8fcc-11eb-924d-9cd76263cbd0,species,squamatus,Selenothamnus,,"(Nees) Melville",,1966,,"Kew Bull. 20: 515 1966",,Q55779059,,,,563349-1,wfo-0000502204,3934014,,
+ea4147ac-8fd1-11eb-924d-9cd76263cbd0,genus,Selenothamnus,,,Melville,Q7365114,1967,,"Kew Bull. 20: 514. 1967.",,,,,,,wfo-4000034985,7278754,,
+8a955f28-8fcc-11eb-924d-9cd76263cbd0,species,helmsii,Selenothamnus,,"(F.Muell. & Tate) Melville","Q708002,Q7288153,Q7365114",1966,,"Kew Bull. 20: 515 1966",,Q55779059,,,,563348-1,wfo-0000502203,3934027,,
+8a9578fa-8fcc-11eb-924d-9cd76263cbd0,species,squamatus,Selenothamnus,,"(Nees) Melville","Q76349,Q7365114",1966,,"Kew Bull. 20: 515 1966",,Q55779059,,,,563349-1,wfo-0000502204,3934014,,

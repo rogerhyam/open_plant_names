@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9b2bf152-9bad-11eb-a8a2-19ed5c03f8d3,genus,Agarwalomyces,,,"R.K. Verma & Kamal",,1987,,"Trans. Br. mycol. Soc. 89(4): 596 (1987)",,,,9b2bf152-9bad-11eb-a8a2-19ed5c03f8d3,,,,,11010," "
 3aa9b6bc-9bac-11eb-a8a2-19ed5c03f8d3,species,indicus,Agarwalomyces,,"R.K. Verma & Kamal",,1987,,"Trans. Br. mycol. Soc. 89(4): 598 (1987)",,,,3aa9b6bc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133482,"  Isotype IMI 299717"
-96fb3f58-8fcc-11eb-924d-9cd76263cbd0,species,cheiranthifolia,Agassizia,,"(Hornem. ex Spreng.) Spach",,1835,,"Hist. Nat. Vég. 4: 348 1835",,,,c3779c42-8fcd-11eb-924d-9cd76263cbd0,,611233-1,wfo-0000523258,6028933,,
-96fb5a88-8fcc-11eb-924d-9cd76263cbd0,species,limensis,Agassizia,,Chav.,,1833,,"Monogr. Antirrh. 180 1833",,,,,,798603-1,wfo-0000523259,5559658,,
-8c51a1b0-8fb2-11eb-924d-9cd76263cbd0,species,suavis,Agassizia,,"A.Gray & Engelm.",,1846,,"Proc. Amer. Acad. Arts 1 50 1846",,,,,,325180-2,wfo-0000027775,3095150,,
-2760f16e-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Agasta,,"(L.) Miers",,1875,,"Trans. Linn. Soc. London, Bot. 1: 61 1875",,,,,,590559-1,wfo-0000774788,5383873,,
-27610b72-8fcd-11eb-924d-9cd76263cbd0,species,indica,Agasta,,Miers,,1875,,"Trans. Linn. Soc. London, Bot. 1: 63 1875",,,,,,590560-1,wfo-0000774789,5383875,,
-2761259e-8fcd-11eb-924d-9cd76263cbd0,species,splendida,Agasta,,Miers,,1875,,"Trans. Linn. Soc. London, Bot. 1: 60 1875",,,,,,590561-1,wfo-0000774790,5383876,,
+96fb3f58-8fcc-11eb-924d-9cd76263cbd0,species,cheiranthifolia,Agassizia,,"(Hornem. ex Spreng.) Spach","Q1360434,Q62829,Q274449",1835,,"Hist. Nat. Vég. 4: 348 1835",,,,c3779c42-8fcd-11eb-924d-9cd76263cbd0,,611233-1,wfo-0000523258,6028933,,
+96fb5a88-8fcc-11eb-924d-9cd76263cbd0,species,limensis,Agassizia,,Chav.,Q6174203,1833,,"Monogr. Antirrh. 180 1833",,,,,,798603-1,wfo-0000523259,5559658,,
+8c51a1b0-8fb2-11eb-924d-9cd76263cbd0,species,suavis,Agassizia,,"A.Gray & Engelm.","Q347356,Q214946",1846,,"Proc. Amer. Acad. Arts 1 50 1846",,,,,,325180-2,wfo-0000027775,3095150,,
+2760f16e-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Agasta,,"(L.) Miers","Q1043,Q575253",1875,,"Trans. Linn. Soc. London, Bot. 1: 61 1875",,,,,,590559-1,wfo-0000774788,5383873,,
+27610b72-8fcd-11eb-924d-9cd76263cbd0,species,indica,Agasta,,Miers,Q575253,1875,,"Trans. Linn. Soc. London, Bot. 1: 63 1875",,,,,,590560-1,wfo-0000774789,5383875,,
+2761259e-8fcd-11eb-924d-9cd76263cbd0,species,splendida,Agasta,,Miers,Q575253,1875,,"Trans. Linn. Soc. London, Bot. 1: 60 1875",,,,,,590561-1,wfo-0000774790,5383876,,

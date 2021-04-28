@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9e5a0a58-9bad-11eb-a8a2-19ed5c03f8d3,genus,Viegasia,,,Bat.,,1951,,"Bol. Secr. Agric. (Pernambuco) 18: 32 (1951)",,,,9e5a0a58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5738," "
-021cc28e-9bad-11eb-a8a2-19ed5c03f8d3,species,cissampeli,Viegasia,,"(Hansf.) Bat.",,1951,,"Karmannyi Opredelitel' Gribov. Vip.2. Muchnisto-Rosyanye Griby 18: 32 (1951)",,,,c22ca086-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307758," "
-06b07bde-9bac-11eb-a8a2-19ed5c03f8d3,species,costaricensis,Viegasia,,"(Syd. & P. Syd.) Bat. & A.F. Vital",,1960,,"Atas Inst. Micol. Univ. Recife 1: 310 (1960)",,,,d7dfa662-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340919," "
-0c2b13a8-9bac-11eb-a8a2-19ed5c03f8d3,variety,costaricensis,Viegasia,costaricensis,"(Syd. & P. Syd.) Bat. & A.F. Vital",,1960,,"Atas Inst. Micol. Univ. Recife 1: 310 (1960)",,,,0c2b13a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,419035," "
+9e5a0a58-9bad-11eb-a8a2-19ed5c03f8d3,genus,Viegasia,,,Bat.,Q4079389,1951,,"Bol. Secr. Agric. (Pernambuco) 18: 32 (1951)",,,,9e5a0a58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5738," "
+021cc28e-9bad-11eb-a8a2-19ed5c03f8d3,species,cissampeli,Viegasia,,"(Hansf.) Bat.",Q4079389,1951,,"Karmannyi Opredelitel' Gribov. Vip.2. Muchnisto-Rosyanye Griby 18: 32 (1951)",,,,c22ca086-9bac-11eb-a8a2-19ed5c03f8d3,,,,,307758," "
+06b07bde-9bac-11eb-a8a2-19ed5c03f8d3,species,costaricensis,Viegasia,,"(Syd. & P. Syd.) Bat. & A.F. Vital",Q4079389,1960,,"Atas Inst. Micol. Univ. Recife 1: 310 (1960)",,,,d7dfa662-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340919," "
+0c2b13a8-9bac-11eb-a8a2-19ed5c03f8d3,variety,costaricensis,Viegasia,costaricensis,"(Syd. & P. Syd.) Bat. & A.F. Vital",Q4079389,1960,,"Atas Inst. Micol. Univ. Recife 1: 310 (1960)",,,,0c2b13a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,419035," "
 37b6e36c-9bac-11eb-a8a2-19ed5c03f8d3,variety,effusa,Viegasia,costaricensis,"M.L. Farr",,1987,,"Mycologia 79(1): 111 (1987)",,,,37b6e36c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,130630," "
-06b0a5dc-9bac-11eb-a8a2-19ed5c03f8d3,species,faureae,Viegasia,,"(Doidge) Bat. & A.F. Vital",,,,,,,,c8492840-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340920," "
+06b0a5dc-9bac-11eb-a8a2-19ed5c03f8d3,species,faureae,Viegasia,,"(Doidge) Bat. & A.F. Vital",Q4079389,,,,,,,c8492840-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340920," "
 62292c12-9bad-11eb-a8a2-19ed5c03f8d3,species,leucospermi,Viegasia,,"Marincowitz, M.J. Wingf. & Crous",,2008,,"CBS Diversity Ser. (Utrecht) 7: 86 (2008)",,,,62292c12-9bad-11eb-a8a2-19ed5c03f8d3,,,,,506231," "
-f27a4456-9bab-11eb-a8a2-19ed5c03f8d3,species,radiata,Viegasia,,"(Doidge) Bat. & A.F. Vital",,1960,,"Atas do instituto de micologia 1: 318 (1960)",,,,d31209ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340921," "
-56014a9c-8fcc-11eb-924d-9cd76263cbd0,species,austrocaledonica,Vieillardia,,"Brongn. & Gris",,1861,,"Bull. Soc. Bot. France 8: 376 1861",,,,,,605245-1,wfo-0000418507,8035180,,
-5601e9b6-8fcc-11eb-924d-9cd76263cbd0,species,gigantocarpa,Vieillardia,,"Brongn. & Gris ex Guillaumin",,1919,,"Bull. Mus. Natl. Hist. Nat. 25: 293 1919",,,,,,605246-1,wfo-0000418509,5553646,,
-55ccb930-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Vieillardia,,Montrouz.,,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 196 1860",,,,,,525281-1,wfo-0000418199,5631416,,
-1aa28f10-8fcc-11eb-924d-9cd76263cbd0,species,le-ratii,Vieillardorchis,,Kraenzl.,,1928,,"Notul. Syst. (Paris) 4: 143 1928",,,,,,661319-1,wfo-0000332739,,,
+f27a4456-9bab-11eb-a8a2-19ed5c03f8d3,species,radiata,Viegasia,,"(Doidge) Bat. & A.F. Vital",Q4079389,1960,,"Atas do instituto de micologia 1: 318 (1960)",,,,d31209ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340921," "
+56014a9c-8fcc-11eb-924d-9cd76263cbd0,species,austrocaledonica,Vieillardia,,"Brongn. & Gris","Q73990,Q797799",1861,,"Bull. Soc. Bot. France 8: 376 1861",,,,,,605245-1,wfo-0000418507,8035180,,
+5601e9b6-8fcc-11eb-924d-9cd76263cbd0,species,gigantocarpa,Vieillardia,,"Brongn. & Gris ex Guillaumin","Q73990,Q797799,Q2847911",1919,,"Bull. Mus. Natl. Hist. Nat. 25: 293 1919",,,,,,605246-1,wfo-0000418509,5553646,,
+55ccb930-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Vieillardia,,Montrouz.,Q743935,1860,,"Mém. Acad. Roy. Sci. Lyon, Sect. Sci. 10: 196 1860",,,,,,525281-1,wfo-0000418199,5631416,,
+1aa28f10-8fcc-11eb-924d-9cd76263cbd0,species,le-ratii,Vieillardorchis,,Kraenzl.,Q542327,1928,,"Notul. Syst. (Paris) 4: 143 1928",,,,,,661319-1,wfo-0000332739,,,

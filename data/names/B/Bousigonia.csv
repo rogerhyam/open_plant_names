@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e064ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Bousigonia,,,Pierre,,1894,,"Prodr. Apoc. 324. 1894.",,,,,,2234-1,wfo-4000005137,7316590,,
-304af956-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Bousigonia,,"Pierre ex Spire",,1905,,"Contr. Apocyn. 129 1905",,,,,,,wfo-0000367704,7876734,,
-304f2de6-8fcc-11eb-924d-9cd76263cbd0,species,mekongensis,Bousigonia,,Pierre,,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 36 1898",,,,,,77611-1,wfo-0000367729,3621605,,
-305113fe-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Bousigonia,,Eberh.,,1907,,"Bull. Écon. Indochine 10: 708 1907",,,,,,,wfo-0000367743,3614771,,
+e064ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Bousigonia,,,Pierre,Q2593213,1894,,"Prodr. Apoc. 324. 1894.",,,,,,2234-1,wfo-4000005137,7316590,,
+304af956-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Bousigonia,,"Pierre ex Spire","Q2593213,Q2935073",1905,,"Contr. Apocyn. 129 1905",,,,,,,wfo-0000367704,7876734,,
+304f2de6-8fcc-11eb-924d-9cd76263cbd0,species,mekongensis,Bousigonia,,Pierre,Q2593213,1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 36 1898",,,,,,77611-1,wfo-0000367729,3621605,,
+305113fe-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Bousigonia,,Eberh.,Q21511319,1907,,"Bull. Écon. Indochine 10: 708 1907",,,,,,,wfo-0000367743,3614771,,
