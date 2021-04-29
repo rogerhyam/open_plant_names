@@ -1,12 +1,11 @@
 <?php
 
-// this is just a template file.
-// create a similar file with db connection details
-// and store it outside the github repo
-// then refer to it in the config.php file
+// copy this file to outside the GitHub root and change the
+// settings to your local ones.
 
 $db_host = "localhost";
-$db_user = "***";
+$db_user = "****";
 $db_password = "****";
 $db_database = "****";
 
+?>
