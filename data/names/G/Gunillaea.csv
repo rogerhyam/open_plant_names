@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e43ea8d6-8fd1-11eb-924d-9cd76263cbd0,genus,Gunillaea,,,Thulin,Q6006366,1974,,"Bot. Not. 127: 166. 1974.",,,,,,5707-1,wfo-4000016373,3166011,,
-4275e770-8fcd-11eb-924d-9cd76263cbd0,species,emirnensis,Gunillaea,,"(A.DC.) Thulin","Q123807,Q6006366",1974,,"Bot. Not. 127: 166 1974",,,,,,142529-1,wfo-0000833174,3166012,,
-427602f0-8fcd-11eb-924d-9cd76263cbd0,species,rhodesica,Gunillaea,,"(Adamson) Thulin","Q3436355,Q6006366",1974,,"Bot. Not. 127: 168 1974",,,,,,142530-1,wfo-0000833175,3166019,,
-07b6e21a-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Gunisanthus,,Kurz,Q2587569,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 88 1873",,,,,,323350-1,wfo-0000711920,4070163,,
-07b7ba64-8fcd-11eb-924d-9cd76263cbd0,species,pilosula,Gunisanthus,,A.DC.,Q123807,1844,,"Prodr. 8: 220 1844",,,,,,323351-1,wfo-0000711923,8216990,,
+e43ea8d6-8fd1-11eb-924d-9cd76263cbd0,genus,Gunillaea,,,Thulin,0,1974,,"Bot. Not. 127: 166 (1974)",,,,,,urn:lsid:ipni.org:names:5707-1,wfo-4000016373,3166011,,
+4275e770-8fcd-11eb-924d-9cd76263cbd0,species,emirnensis,Gunillaea,,"(A.DC.) Thulin",0,1974,,"Bot. Not. 127: 166 (1974)",,,,,,urn:lsid:ipni.org:names:142529-1,wfo-0000833174,3166012,,
+427602f0-8fcd-11eb-924d-9cd76263cbd0,species,rhodesica,Gunillaea,,"(Adamson) Thulin",0,1974,,"Bot. Not. 127: 168 (1974)",,,,,,urn:lsid:ipni.org:names:142530-1,wfo-0000833175,3166019,,
+07b6e21a-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Gunisanthus,,Kurz,0,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42: 88 (1873)",,,,,,urn:lsid:ipni.org:names:323350-1,wfo-0000711920,4070163,,
+07b7ba64-8fcd-11eb-924d-9cd76263cbd0,species,pilosula,Gunisanthus,,A.DC.,0,1844,,"Prodr. 8: 220 (1844)",,,,,,urn:lsid:ipni.org:names:323351-1,wfo-0000711923,8216990,,

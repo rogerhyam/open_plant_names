@@ -1,7 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5878bea-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarkia,,,,,,,,,,,,,,wfo-4000020483,7939715,,
-682ca694-8fcc-11eb-924d-9cd76263cbd0,species,morifolia,Lamarkia,,Medik.,Q77464,1789,,"Philos. Bot. 1: 28 1789",,,,,,561147-1,wfo-0000443595,5618722,,
-ec26d970-8fcb-11eb-924d-9cd76263cbd0,species,lamarquei,,,"(G.Keller & Jeanj.) Aver.","Q1252447,Q5666353,Q4055703",1986,,"Bot. Zhurn. (Moscow & Leningrad) 71: 93 1986",,,,eca07442-8fcb-11eb-924d-9cd76263cbd0,,942420-1,wfo-0000258758,,,
-0db36bc6-8fcc-11eb-924d-9cd76263cbd0,species,lambari,,,"(Pabst) Van den Berg & M.W.Chase","Q713005,Q4083966,Q2547723",2001,,"Lindleyana 16: 111 2001",,,,,,1021238-1,wfo-0000311826,,,
-65503ae0-8fcb-11eb-924d-9cd76263cbd0,species,lambari,,,Pabst,Q713005,1975,,"Bradea 2: 14 1975",,,,,,20003901-1,wfo-0000222212,,,
-673b779c-8fcc-11eb-924d-9cd76263cbd0,species,lambari,,,"(Pabst) V.P.Castro & Chiron","Q713005,Q10392118,Q9001563",2002,,"Richardiana 2: 27 2002",,,,,,20003948-1,wfo-0000441948,,,
+e5878bea-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarkia,,,,,,,,,,,,,urn:lsid:ipni.org:names:25942-1,wfo-4000020483,7939715,,
+682ca694-8fcc-11eb-924d-9cd76263cbd0,species,morifolia,Lamarkia,,Medik.,0,1789,,"Philos. Bot. (Medikus) 1: 28. 1789",,,,,,urn:lsid:ipni.org:names:561147-1,wfo-0000443595,5618722,,

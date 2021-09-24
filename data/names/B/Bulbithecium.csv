@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a36ea18e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bulbithecium,,,"Udagawa & T. Muroi",,1990,,"Bull. natn. Sci. Mus., Tokyo, B 16(1): 13 (1990)",,,,a36ea18e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25501," "
 34d3c656-9bac-11eb-a8a2-19ed5c03f8d3,species,hyalosporum,Bulbithecium,,"Udagawa & T. Muroi",,1990,,"Bull. natn. Sci. Mus., Tokyo, B 16(1): 14 (1990)",,,,34d3c656-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127103," "
-b6e9147a-8fcc-11eb-924d-9cd76263cbd0,species,bracteatus,Bulbocapnos,,"(Steph. ex Willd.) Bernh.","Q4526859,Q76353,Q77669",1833,,"Linnaea 8: 469 1833",,,,,,671776-1,wfo-0000574492,3602655,,
-b6e95156-8fcc-11eb-924d-9cd76263cbd0,species,cavus,Bulbocapnos,,Bernh.,Q77669,1833,,"Linnaea 8: 469 1833",,,,,,671777-1,wfo-0000574494,3602651,,
-b6e96e2a-8fcc-11eb-924d-9cd76263cbd0,species,digitatus,Bulbocapnos,,Bernh.,Q77669,1833,,"Linnaea 8: 469 1833",,,,,,671778-1,wfo-0000574495,3602640,,
-b6e98946-8fcc-11eb-924d-9cd76263cbd0,species,fabaceus,Bulbocapnos,,Bernh.,Q77669,1833,,"Linnaea 8: 469 1833",,,,,,671779-1,wfo-0000574496,3602633,,
-b6e9a5f2-8fcc-11eb-924d-9cd76263cbd0,species,halleri,Bulbocapnos,,Spach,Q274449,1838,,"Hist. Nat. Vég. 7: 77 1838",,,,,,671780-1,wfo-0000574497,3602625,,
-b6e9c014-8fcc-11eb-924d-9cd76263cbd0,species,longiflorus,Bulbocapnos,,Bernh.,Q77669,1833,,"Linnaea 8: 469 1833",,,,,,671781-1,wfo-0000574498,3602618,,
-b6e9dafe-8fcc-11eb-924d-9cd76263cbd0,species,marschallianus,Bulbocapnos,,"(Willd.) Bernh.","Q76353,Q77669",1833,,"Linnaea 8: 469 1833",,,,16010838-8fcc-11eb-924d-9cd76263cbd0,,671782-1,wfo-0000574499,3602609,,
-b6e9f5d4-8fcc-11eb-924d-9cd76263cbd0,species,nobilis,Bulbocapnos,,Bernh.,Q77669,1833,,"Linnaea 8: 469 1833",,,,,,671783-1,wfo-0000574500,3602599,,
-bab427ca-8fd1-11eb-924d-9cd76263cbd0,subspecies,oligantha,Bulbocapnos,solida,Trinajstic,,1973,,"Suppl. Fl. Anal. Jugosl. 1: 19 1973",,,,,,,wfo-0001244263,7990473,,
-b6ea124e-8fcc-11eb-924d-9cd76263cbd0,species,tuberosus,Bulbocapnos,,Spach,Q274449,1838,,"Hist. Nat. Vég. 7: 78 1838",,,,,,671784-1,wfo-0000574501,3602593,,
+b6e9147a-8fcc-11eb-924d-9cd76263cbd0,species,bracteatus,Bulbocapnos,,"(Stephan ex Willd.) Bernh.",0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671776-1,wfo-0000574492,3602655,,
+b6e95156-8fcc-11eb-924d-9cd76263cbd0,species,cavus,Bulbocapnos,,Bernh.,0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671777-1,wfo-0000574494,3602651,,
+b6e96e2a-8fcc-11eb-924d-9cd76263cbd0,species,digitatus,Bulbocapnos,,Bernh.,0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671778-1,wfo-0000574495,3602640,,
+b6e98946-8fcc-11eb-924d-9cd76263cbd0,species,fabaceus,Bulbocapnos,,Bernh.,0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671779-1,wfo-0000574496,3602633,,
+b6e9a5f2-8fcc-11eb-924d-9cd76263cbd0,species,halleri,Bulbocapnos,,Spach,0,1838,,"Hist. Nat. Vég. 7: 77 (1838)",,,,,,urn:lsid:ipni.org:names:671780-1,wfo-0000574497,3602625,,
+b6e9c014-8fcc-11eb-924d-9cd76263cbd0,species,longiflorus,Bulbocapnos,,Bernh.,0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671781-1,wfo-0000574498,3602618,,
+b6e9dafe-8fcc-11eb-924d-9cd76263cbd0,species,marschallianus,Bulbocapnos,,"(Willd.) Bernh.",0,1833,,"Linnaea 8: 469 (1833)",,,,16010838-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:671782-1,wfo-0000574499,3602609,,
+b6e9f5d4-8fcc-11eb-924d-9cd76263cbd0,species,nobilis,Bulbocapnos,,Bernh.,0,1833,,"Linnaea 8: 469 (1833)",,,,,,urn:lsid:ipni.org:names:671783-1,wfo-0000574500,3602599,,
+bab427ca-8fd1-11eb-924d-9cd76263cbd0,subspecies,oligantha,Bulbocapnos,solida,Trinajstic,,1973,,"Suppl. Fl. Anal. Jugosl. 1: 19 1973",,,,,,urn:lsid:ipni.org:names:50959133-1,wfo-0001244263,7990473,,
+b6ea124e-8fcc-11eb-924d-9cd76263cbd0,species,tuberosus,Bulbocapnos,,Spach,0,1838,,"Hist. Nat. Vég. 7: 78 (1838)",,,,,,urn:lsid:ipni.org:names:671784-1,wfo-0000574501,3602593,,

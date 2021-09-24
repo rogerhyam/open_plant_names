@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4acd64e-8fd1-11eb-924d-9cd76263cbd0,genus,Heteroaridarum,,,M.Hotta,Q6883352,1976,,"Acta Phytotax. Geobot. 27: 63. 1976.",,Q101148930,,,,2806-1,wfo-4000017676,2873757,,
-9272ee3a-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Heteroaridarum,,M.Hotta,Q6883352,1976,,"Acta Phytotax. Geobot. 27: 63 1976",,Q101148930,,,,87109-1,wfo-0000981931,2870623,,
-927309ce-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllum,Heteroarisaema,,"(Blume) Nakai","Q76816,Q704751",1950,,"J. Jap. Bot. 25: 6 1950",,Q104820652,,,,87110-1,wfo-0000981932,2867370,,
-927324fe-8fcd-11eb-924d-9cd76263cbd0,species,koreanum,Heteroarisaema,,"(Engl.) Nakai","Q60718,Q704751",1950,,"J. Jap. Bot. 25: 6 1950",,Q104820652,,f47170c2-8fcb-11eb-924d-9cd76263cbd0,,87111-1,wfo-0000981933,2867361,,
-92734150-8fcd-11eb-924d-9cd76263cbd0,species,manshuricum,Heteroarisaema,,"(Nakai) Nakai",Q704751,1950,,"J. Jap. Bot. 25: 6 1950",,Q104820652,,,,87112-1,wfo-0000981934,2867371,,
+e4acd64e-8fd1-11eb-924d-9cd76263cbd0,genus,Heteroaridarum,,,M.Hotta,0,1976,,"Acta Phytotax. Geobot. 27: 63 (1976)",,Q101148930,,,,urn:lsid:ipni.org:names:2806-1,wfo-4000017676,2873757,,
+9272ee3a-8fcd-11eb-924d-9cd76263cbd0,species,borneense,Heteroaridarum,,M.Hotta,0,1976,,"Acta Phytotax. Geobot. 27: 63 (1976)",,Q101148930,,,,urn:lsid:ipni.org:names:87109-1,wfo-0000981931,2870623,,
+927309ce-8fcd-11eb-924d-9cd76263cbd0,species,heterophyllum,Heteroarisaema,,"(Blume) Nakai",0,1950,,"J. Jap. Bot. 25: 6 (1950)",,Q104820652,,,,urn:lsid:ipni.org:names:87110-1,wfo-0000981932,2867370,,
+927324fe-8fcd-11eb-924d-9cd76263cbd0,species,koreanum,Heteroarisaema,,"(Engl.) Nakai",0,1950,,"J. Jap. Bot. 25: 6 (1950)",,Q104820652,,f47170c2-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:87111-1,wfo-0000981933,2867361,,
+92734150-8fcd-11eb-924d-9cd76263cbd0,species,manshuricum,Heteroarisaema,,"(Nakai) Nakai",0,1950,,"J. Jap. Bot. 25: 6 (1950)",,Q104820652,,,,urn:lsid:ipni.org:names:87112-1,wfo-0000981934,2867371,,

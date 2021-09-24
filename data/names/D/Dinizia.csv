@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ccdb26-8fd1-11eb-924d-9cd76263cbd0,genus,Dinizia,,,Ducke,Q2601698,,,,,,,,,296439-2,wfo-4000011798,2946970,,
-2d40fdce-8fc1-11eb-924d-9cd76263cbd0,species,excelsa,Dinizia,,Ducke,Q2601698,,,,,,,,,,wfo-0000170430,5350072,,
-e2946458-8fcc-11eb-924d-9cd76263cbd0,species,macrantha,Dinklagea,,Gilg,Q77655,1897,,"Notizbl. Königl. Bot. Gart. Berlin 1: 242 1897",,,,,,264560-1,wfo-0000647968,3686444,,
+e2ccdb26-8fd1-11eb-924d-9cd76263cbd0,genus,Dinizia,,,Ducke,0,,,"Arch. Jard. Bot. Rio de Janeiro 3: 76 (1922)",,,,,,urn:lsid:ipni.org:names:296439-2,wfo-4000011798,2946970,,
+2d40fdce-8fc1-11eb-924d-9cd76263cbd0,species,excelsa,Dinizia,,Ducke,0,,,"Arch. Jard. Bot. Rio de Janeiro 3: 76 (1922)",,,,,,urn:lsid:ipni.org:names:80468-2,wfo-0000170430,5350072,,
+3f0d818e-1d4d-11ec-82c2-f14daa6f2d93,species,jueirana-facao,Dinizia,,"G.P.Lewis & G.S.Siqueira",,,,"Kew Bull. 72(3)-48: 6 (2017)",,,,,,urn:lsid:ipni.org:names:60475109-2,wfo-0001317398,,,
+e2946458-8fcc-11eb-924d-9cd76263cbd0,species,macrantha,Dinklagea,,Gilg,0,1897,,"Notizbl. Königl. Bot. Gart. Berlin 1: 242 (1897)",,,,,,urn:lsid:ipni.org:names:264560-1,wfo-0000647968,3686444,,

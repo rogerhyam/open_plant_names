@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e40d9480-8fd1-11eb-924d-9cd76263cbd0,genus,Glossidea,,,Tiegh.,Q2421500,1895,,"Bull. Soc. Bot. France 42: 344, 349. 1895.",,,,,,,wfo-4000015794,4002026,,
-02a82a36-8fcd-11eb-924d-9cd76263cbd0,species,biternata,Glossidea,,"(Hoffmanns.) Tiegh.","Q76697,Q2421500",1895,,"Bull. Soc. Bot. France 42: 350 1895",,Q54801940,,,,548751-1,wfo-0000703999,4002050,,
-02a85100-8fcd-11eb-924d-9cd76263cbd0,species,glaucocoma,Glossidea,,"(Eichler) Tiegh.","Q62142,Q2421500",1895,,"Bull. Soc. Bot. France 42: 350 1895",,Q54801940,,76fb59a4-8fcc-11eb-924d-9cd76263cbd0,,548752-1,wfo-0000704000,4002070,,
-02a86dd4-8fcd-11eb-924d-9cd76263cbd0,species,grandifolia,Glossidea,,"(Mart.) Tiegh.","Q77131,Q2421500",1895,,"Bull. Soc. Bot. France 42: 350 1895",,Q54801940,,,,548753-1,wfo-0000704001,4002095,,
-02a88ec2-8fcd-11eb-924d-9cd76263cbd0,species,peronopetalus,Glossidea,,"(Eichler) Tiegh.","Q62142,Q2421500",1895,,"Bull. Soc. Bot. France 42: 350 1895",,Q54801940,,76cdcda4-8fcc-11eb-924d-9cd76263cbd0,,548754-1,wfo-0000704002,4002132,,
+e40d9480-8fd1-11eb-924d-9cd76263cbd0,genus,Glossidea,,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 349 (1895)",,,,,,urn:lsid:ipni.org:names:294749-2,wfo-4000015794,4002026,,
+02a82a36-8fcd-11eb-924d-9cd76263cbd0,species,biternata,Glossidea,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 350 (1895)",,Q54801940,,,,urn:lsid:ipni.org:names:548751-1,wfo-0000703999,4002050,,
+02a85100-8fcd-11eb-924d-9cd76263cbd0,species,glaucocoma,Glossidea,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 350 (1895)",,Q54801940,,76fb59a4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:548752-1,wfo-0000704000,4002070,,
+02a86dd4-8fcd-11eb-924d-9cd76263cbd0,species,grandifolia,Glossidea,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 350 (1895)",,Q54801940,,,,urn:lsid:ipni.org:names:548753-1,wfo-0000704001,4002095,,
+57800ed0-1d4d-11ec-82c2-f14daa6f2d93,species,peronopetala,Glossidea,,Tiegh.,,,,,,,,,,urn:lsid:ipni.org:names:1208851-2,wfo-0001350393,,,
+02a88ec2-8fcd-11eb-924d-9cd76263cbd0,species,peronopetalus,Glossidea,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 350 (1895)",,Q54801940,,76cdcda4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:548754-1,wfo-0000704002,4002132,,

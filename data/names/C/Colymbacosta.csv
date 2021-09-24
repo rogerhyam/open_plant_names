@@ -1,2 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1f3dee8-8fd1-11eb-924d-9cd76263cbd0,genus,Colymbacosta,,,,,,,,,,,,,,wfo-4000009005,7336346,,
+e1f3dee8-8fd1-11eb-924d-9cd76263cbd0,genus,Colymbacosta,,,,,,,,,,,,,urn:lsid:ipni.org:names:50195910-1,wfo-4000009005,7336346,,
+5617407c-1d4d-11ec-82c2-f14daa6f2d93,species,genesii-lopezii,Colymbacosta,,"(Fern.Casas & Susanna) Fern.Casas & Susanna",,,,"Fontqueria 2: 21 (1982), without basiony (1982)",,,,,,urn:lsid:ipni.org:names:941945-1,wfo-0001348511,,,
+dbbde816-8fb3-11eb-924d-9cd76263cbd0,species,genesii-lopezii,Colymbacosta,,"(Fern.Casas & Susanna) Fern.Casas & Susanna",0,1982,,"Fontqueria 2: 21 (1982), without basiony (1982)",,,,321bbac6-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:941945-1,wfo-0000055842,,,
+4725bee0-1d4d-11ec-82c2-f14daa6f2d93,species,grabowskiana,Colymbacosta,,"(J.Wagner) Rauschert",,,,"Feddes Repert. 85(9-10): 653 (1974)",,,,,,urn:lsid:ipni.org:names:196912-1,wfo-0001328541,,,
+b027f2c4-8fb2-11eb-924d-9cd76263cbd0,species,grabowskiana,Colymbacosta,,Rauschert,0,1974,,"653 1974",,,,,,,wfo-0000031862,,,

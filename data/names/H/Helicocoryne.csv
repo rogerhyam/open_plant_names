@@ -1,10 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9cd129a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Helicocoryne,,,Corda,Q624998,1854,,"Icon. fung. (Prague) 6: 9 (1854)",,,,9cd129a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8470," "
-7226434a-9bab-11eb-a8a2-19ed5c03f8d3,species,ramosa,Helicocoryne,,"Berk. & Sm.","Q662338,Q458004",,,,,,,7226434a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,140669," "
-5f74f970-9bac-11eb-a8a2-19ed5c03f8d3,species,viride,Helicocoryne,,Corda,Q624998,,,,,,,5f74f970-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264872," Helicocoryne viridis"
-5550ce56-9bac-11eb-a8a2-19ed5c03f8d3,species,viridis,Helicocoryne,,Corda,Q624998,1854,,"Icon. fung. (Prague) 6: 9 (1854)",,,,5550ce56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,140186," viride"
-643ff64e-8fcc-11eb-924d-9cd76263cbd0,species,baraquiana,Helicodea,,Lem.,Q942880,1864,,"Ill. Hort. 11: t. 421 1864",,,,,,123186-1,wfo-0000436825,2693751,,
-6440de92-8fcc-11eb-924d-9cd76263cbd0,species,baraquiniana,Helicodea,,"Lem. ex Baker","Q942880,Q730330",1889,,"Handb. Bromel. 81 1889",,,,,,123187-1,wfo-0000436831,2693749,,
-acc46fb2-8fd1-11eb-924d-9cd76263cbd0,species,baraquiniana,Helicodea,,Lem.,Q942880,1864,,"Ill. Hort. 11: t. 421 1864",,,,,,,wfo-0001218672,8339349,,
-644152be-8fcc-11eb-924d-9cd76263cbd0,species,leopoldii,Helicodea,,"Verschaff. ex Lem.","Q458992,Q942880",1864,,"Ill. Hort. 11: t. 421 1864",,,,,,123188-1,wfo-0000436835,2693868,,
-6442430e-8fcc-11eb-924d-9cd76263cbd0,species,zebrina,Helicodea,,"(Herb.) Lem.","Q954928,Q942880",1864,,"Ill. Hort. 11: t. 421 1864",,,,1fde53ec-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000436843,2693715,,
+9cd129a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Helicocoryne,,,Corda,0,1854,,"Icon. fung. (Prague) 6: 9 (1854)",,,,9cd129a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8470," "
+7226434a-9bab-11eb-a8a2-19ed5c03f8d3,species,ramosa,Helicocoryne,,"Berk. & Sm.",0,,,,,,,7226434a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,140669," "
+5f74f970-9bac-11eb-a8a2-19ed5c03f8d3,species,viride,Helicocoryne,,Corda,0,,,,,,,5f74f970-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264872," Helicocoryne viridis"
+5550ce56-9bac-11eb-a8a2-19ed5c03f8d3,species,viridis,Helicocoryne,,Corda,0,1854,,"Icon. fung. (Prague) 6: 9 (1854)",,,,5550ce56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,140186," viride"
+643ff64e-8fcc-11eb-924d-9cd76263cbd0,species,baraquiana,Helicodea,,Lem.,0,1864,,"Ill. Hort. 11: t. 421 (1864)",,,,,,urn:lsid:ipni.org:names:123186-1,wfo-0000436825,2693751,,
+6440de92-8fcc-11eb-924d-9cd76263cbd0,species,baraquiniana,Helicodea,,"Lem. ex Baker",0,1889,,"Handb. Bromel. : 81 (1889)",,,,,,urn:lsid:ipni.org:names:123187-1,wfo-0000436831,2693749,,
+acc46fb2-8fd1-11eb-924d-9cd76263cbd0,species,baraquiniana,Helicodea,,Lem.,0,1864,,"Ill. Hort. 11: t. 421 1864",,,,,,,wfo-0001218672,8339349,,
+644152be-8fcc-11eb-924d-9cd76263cbd0,species,leopoldii,Helicodea,,"Hort.Versch. ex Lem.",0,1864,,"Ill. Hort. 11: t. 421 (1864)",,,,,,urn:lsid:ipni.org:names:123188-1,wfo-0000436835,2693868,,
+57b3534e-1d4d-11ec-82c2-f14daa6f2d93,species,zebrina,Helicodea,,"hort. ex G.Nicholson",,,,"Ill. Dict. Gard. i. 128.",,,,,,urn:lsid:ipni.org:names:123189-1,wfo-0001350623,,,
+6442430e-8fcc-11eb-924d-9cd76263cbd0,species,zebrina,Helicodea,,"(Herb.) Lem.",0,1864,,"Ill. Hort. 11: t. 421 1864",,,,1fde53ec-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000436843,2693715,,

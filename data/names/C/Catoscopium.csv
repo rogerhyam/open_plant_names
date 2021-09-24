@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1515c9a-8fd1-11eb-924d-9cd76263cbd0,genus,Catoscopium,,,Brid.,Q946113,1826,,"Bryol. Univ. 1(1): 368–370, pl. 4, f. 1. 1826.",,,,,,,wfo-4000007030,2676490,,
-ee62b892-8fcd-11eb-924d-9cd76263cbd0,species,martianum,Catoscopium,,"(Hoppe & Hornsch.) Huebener","Q66205,Q69662,Q5933003",1833,,"Muscol. Germ. 153 1833",,,,,,,wfo-0001180206,7984533,,
-ee62d8fe-8fcd-11eb-924d-9cd76263cbd0,species,nigritum,Catoscopium,,"(Hedw.) Brid.","Q64256,Q946113",1826,,"Bryol. Univ. 1: 368 1826",,,,,,,wfo-0001180207,2676491,,
-c11861ee-8fcc-11eb-924d-9cd76263cbd0,species,careyi,Catospermum,,F.Muell.,Q708002,1884,,"Melbourne Chem. Druggist 6: 96 1884",,,,,,,wfo-0000590991,3761285,,
-c1187cc4-8fcc-11eb-924d-9cd76263cbd0,species,goodeniacea,Catospermum,,"(F.Muell.) Baill.","Q708002,Q461931",1882,,"Hist. Pl. 8: 370 1882",,,,879bf552-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000590992,,,
-c11897f4-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Catospermum,,Benth.,Q731808,,,"Hooker's Icon. Pl. 11: t. 1028 1868",,,,,,,wfo-0000590993,3761266,,
+e1515c9a-8fd1-11eb-924d-9cd76263cbd0,genus,Catoscopium,,,Brid.,0,1826,,"Bryol. Univ. 1(1): 368–370, pl. 4, f. 1. 1826.",,,,,,,wfo-4000007030,2676490,,
+ee62b892-8fcd-11eb-924d-9cd76263cbd0,species,martianum,Catoscopium,,"(Hoppe & Hornsch.) Huebener",0,1833,,"Muscol. Germ. 153 1833",,,,,,,wfo-0001180206,7984533,,
+ee62d8fe-8fcd-11eb-924d-9cd76263cbd0,species,nigritum,Catoscopium,,"(Hedw.) Brid.",0,1826,,"Bryol. Univ. 1: 368 1826",,,,,,,wfo-0001180207,2676491,,
+c11861ee-8fcc-11eb-924d-9cd76263cbd0,species,careyi,Catospermum,,F.Muell.,0,1884,,"Melbourne Chem. Druggist 6: 96 (1884)",,,,,,urn:lsid:ipni.org:names:53943-3,wfo-0000590991,3761285,,
+c1187cc4-8fcc-11eb-924d-9cd76263cbd0,species,goodeniaceum,Catospermum,,"(F.Muell.) Baill.",0,1882,,"Hist. Pl. 8: 370 (1882)",,,,879bf552-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:53956-3,wfo-0000590992,,,
+c11897f4-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Catospermum,,Benth.,0,,,"Hooker's Icones Plantarum 11 1868",,,,,,urn:lsid:ipni.org:names:53967-3,wfo-0000590993,3761266,,

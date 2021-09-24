@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9706d44-8fd1-11eb-924d-9cd76263cbd0,genus,Racapa,,,M.Roem.,Q3440362,1846,,"Fam. Nat. Syn. Monogr. 1: 88, 123. 1846.",,,,,,,wfo-4000032427,7271417,,
-139eae32-8fcd-11eb-924d-9cd76263cbd0,species,procera,Racapa,,M.Roem.,Q3440362,1846,,"Fam. Nat. Syn. Monogr. 1: 123 1846",,,,,,579168-1,wfo-0000733681,3851666,,
-139ec8cc-8fcd-11eb-924d-9cd76263cbd0,species,sylvatica,Racaria,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane Suppl.: 24 1775",,,,,,,wfo-0000733682,3785515,,
+e9706d44-8fd1-11eb-924d-9cd76263cbd0,genus,Racapa,,,M.Roem.,0,1846,,"Fam. Nat. Syn. Monogr. 1: 123 (1846)",,,,,,urn:lsid:ipni.org:names:26826-1,wfo-4000032427,7271417,,
+139eae32-8fcd-11eb-924d-9cd76263cbd0,species,procera,Racapa,,M.Roem.,0,1846,,"Fam. Nat. Syn. Monogr. 1: 123 (1846)",,,,,,urn:lsid:ipni.org:names:579168-1,wfo-0000733681,3851666,,
+139ec8cc-8fcd-11eb-924d-9cd76263cbd0,species,sylvatica,Racaria,,Aubl.,0,1775,,"Hist. Pl. Guiane , Suppl.: 24 (1775)",,,,,,urn:lsid:ipni.org:names:784514-1,wfo-0000733682,3785515,,

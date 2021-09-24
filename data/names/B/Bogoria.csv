@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e051935a-8fd1-11eb-924d-9cd76263cbd0,genus,Bogoria,,,J.J.Sm.,Q770032,1905,,"Orch. Java 566. 1905.",,,,,,28849-1,wfo-4000004881,2820963,,
-249ac7f8-8fcc-11eb-924d-9cd76263cbd0,species,merrillii,Bogoria,,"(Ames) Garay","Q1669326,Q2937426",1972,,"Bot. Mus. Leafl. 23: 163 1972",,Q100425847,,,,617806-1,wfo-0000348250,2820967,,
-249c53de-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Bogoria,,Schltr.,Q62278,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 964 1913",,,,,,617807-1,wfo-0000348261,2820969,,
-249dccaa-8fcc-11eb-924d-9cd76263cbd0,species,raciborskii,Bogoria,,J.J.Sm.,Q770032,1905,,"Orch. Java 566 1905",,,,,,617808-1,wfo-0000348271,2820964,,
-249f331a-8fcc-11eb-924d-9cd76263cbd0,species,taeniorhiza,Bogoria,,"(Schltr.) Schltr.",Q62278,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 963 1913",,,,,,617809-1,wfo-0000348283,2820965,,
+e051935a-8fd1-11eb-924d-9cd76263cbd0,genus,Bogoria,,,J.J.Sm.,0,1905,,"Orch. Java : 566 (1905)",,,,,,urn:lsid:ipni.org:names:28849-1,wfo-4000004881,2820963,,
+249ac7f8-8fcc-11eb-924d-9cd76263cbd0,species,merrillii,Bogoria,,"(Ames) Garay",0,1972,,"Bot. Mus. Leafl. 23: 163 (1972)",,Q100425847,,,,urn:lsid:ipni.org:names:617806-1,wfo-0000348250,2820967,,
+249c53de-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Bogoria,,Schltr.,0,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 964 (1913)",,,,,,urn:lsid:ipni.org:names:617807-1,wfo-0000348261,2820969,,
+249dccaa-8fcc-11eb-924d-9cd76263cbd0,species,raciborskii,Bogoria,,J.J.Sm.,0,1905,,"Orch. Java : 566 (1905)",,,,,,urn:lsid:ipni.org:names:617808-1,wfo-0000348271,2820964,,
+249f331a-8fcc-11eb-924d-9cd76263cbd0,species,taeniorhiza,Bogoria,,Schltr.,0,1913,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 963 (1913)",,,,,,urn:lsid:ipni.org:names:617809-1,wfo-0000348283,2820965,,

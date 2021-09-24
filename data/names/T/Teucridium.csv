@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3e7558-8fd1-11eb-924d-9cd76263cbd0,genus,Teucridium,,,Hook.f.,Q157501,1853,,"Fl. Nov.-Zel. 1: 203. 1853.",,,,,,,wfo-4000038029,7308771,,
-14850ab8-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Teucridium,,Hook.f.,Q157501,1853,,"Fl. Nov.-Zel. 1: 203 1853",,,,,,864949-1,wfo-0000321810,7308772,,
-14852d7c-8fcc-11eb-924d-9cd76263cbd0,variety,luxurians,Teucridium,parvifolium,Cheeseman,Q1361590,1925,,"Man. New Zealand Fl. 764 1925",,,,,,,wfo-0000321811,7767761,,
-14854bf4-8fcc-11eb-924d-9cd76263cbd0,form,luxurians,Teucridium,parvifolium,"(Cheeseman) Moldenke","Q1361590,Q3127627",1981,,"Phytologia 48: 444 1981",,,,14852d7c-8fcc-11eb-924d-9cd76263cbd0,,920358-1,wfo-0000321812,7767761,,
+eb3e7558-8fd1-11eb-924d-9cd76263cbd0,genus,Teucridium,,,Hook.f.,0,1853,,"Fl. Nov.-Zel. 1: 203 (1853)",,,,,,urn:lsid:ipni.org:names:41454-1,wfo-4000038029,7308771,,
+14850ab8-8fcc-11eb-924d-9cd76263cbd0,species,parvifolium,Teucridium,,Hook.f.,0,1853,,"Fl. Nov.-Zel. 1: 203 (1853)",,,,,,urn:lsid:ipni.org:names:864949-1,wfo-0000321810,7308772,,
+14852d7c-8fcc-11eb-924d-9cd76263cbd0,variety,luxurians,Teucridium,parvifolium,Cheeseman,0,1925,,"Man. New Zealand Fl. 764 1925",,,,,,urn:lsid:ipni.org:names:50917338-1,wfo-0000321811,7767761,,
+14854bf4-8fcc-11eb-924d-9cd76263cbd0,form,luxurians,Teucridium,parvifolium,"(Cheeseman) Moldenke",0,1981,,"Phytologia 48: 444 (1981)",,,,14852d7c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:920358-1,wfo-0000321812,7767761,,

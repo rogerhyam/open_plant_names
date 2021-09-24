@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec552cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Friedrichkarlmeyeria,,,"T.Ali & Thines","Q21837004,Q21837007",2016,,"Taxon 65: 93 (2016)",,,,,,77154271-1,wfo-4001303214,9655785,,
-fc494328-8fcc-11eb-924d-9cd76263cbd0,species,incana,Friedrichsthalia,,Bunge,Q65899,1843,,"Index Seminum (TU) 1843: 7 1843",,,,,,116462-1,wfo-0000692474,4062165,,
-fc49602e-8fcc-11eb-924d-9cd76263cbd0,species,physaloides,Friedrichsthalia,,Fenzl,Q113291,1839,,"Nov. Stirp. Dec. 53 1839",,,,,,116463-1,wfo-0000692475,4062161,,
-fc497cee-8fcc-11eb-924d-9cd76263cbd0,species,schimperi,Friedrichsthalia,,Bunge,Q65899,1843,,"Index Seminum (TU) 1843: 7 1843",,,,,,927887-1,wfo-0000692476,4061447,,
-fc49979c-8fcc-11eb-924d-9cd76263cbd0,species,trichodesmoides,Friedrichsthalia,,Bunge,Q65899,1843,,"Index Seminum (TU) 1843: 7 1843",,,,,,116464-1,wfo-0000692477,4062146,,
+ec552cf2-8fd1-11eb-924d-9cd76263cbd0,genus,Friedrichkarlmeyeria,,,"T.Ali & Thines",0,2016,,"Taxon 65: 93 (2016)",,,,,,urn:lsid:ipni.org:names:77154271-1,wfo-4001303214,9655785,,
+539a8e76-1d4d-11ec-82c2-f14daa6f2d93,species,umbellata,Friedrichkarlmeyeria,,"(Steven ex DC.) T.Ali & Thines",,,,"Taxon 65: 93 (2016)",,,,,,urn:lsid:ipni.org:names:77154272-1,wfo-0001345226,,,
+fc494328-8fcc-11eb-924d-9cd76263cbd0,species,incana,Friedrichsthalia,,Bunge,0,1843,,"Index Seminum (TU, Dorpatensis) 1843: vii (1843)",,,,,,urn:lsid:ipni.org:names:116462-1,wfo-0000692474,4062165,,
+fc49602e-8fcc-11eb-924d-9cd76263cbd0,species,physaloides,Friedrichsthalia,,Fenzl,0,1839,,"Nov. Stirp. Dec. : 53 (1839)",,,,,,urn:lsid:ipni.org:names:116463-1,wfo-0000692475,4062161,,
+fc497cee-8fcc-11eb-924d-9cd76263cbd0,species,schimperi,Friedrichsthalia,,Bunge,0,1843,,"Index Seminum (TU, Dorpatensis) 1843: vii (1843)",,,,,,urn:lsid:ipni.org:names:927887-1,wfo-0000692476,4061447,,
+fc49979c-8fcc-11eb-924d-9cd76263cbd0,species,trichodesmoides,Friedrichsthalia,,Bunge,0,1843,,"Index Seminum (TU, Dorpatensis) 1843: vii (1843)",,,,,,urn:lsid:ipni.org:names:116464-1,wfo-0000692477,4062146,,

@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e60a891e-8fd1-11eb-924d-9cd76263cbd0,genus,Lomaxeta,,,,,,,,,,,,,,wfo-4000022138,7338015,,
-e3b8d17e-8fb4-11eb-924d-9cd76263cbd0,species,verrucosa,Lomaxeta,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) iv. 72 (1836)",,,,,,231080-1,wfo-0000071218,4240115,,
-5760ed74-8fcd-11eb-924d-9cd76263cbd0,species,rufa,Lombardochloa,,"(J.Presl) Roseng. & B.R.Arrill.","Q379593,Q823024,Q5729816",1982,,"Anales Fac. Quimica 9: 260 1982",,,,,,910843-1,wfo-0000878531,4128746,,
-57611182-8fcd-11eb-924d-9cd76263cbd0,variety,sparsepilosa,Lombardochloa,rufa,"(B.Roseng.) Roseng. & B.R.Arrill.","Q823024,Q5729816",1982,,"Anales Fac. Quimica 9: 260 1982",,,,,,921150-1,wfo-0000878532,4128744,,
+e60a891e-8fd1-11eb-924d-9cd76263cbd0,genus,Lomaxeta,,,Raf.,,,,"New Fl. iv. 72 (1836)",,,,,,urn:lsid:ipni.org:names:9862-1,wfo-4000022138,7338015,,
+e3b8d17e-8fb4-11eb-924d-9cd76263cbd0,species,verrucosa,Lomaxeta,,Raf.,0,1836,,"New Fl. iv. 72 (1836)",,,,,,urn:lsid:ipni.org:names:231080-1,wfo-0000071218,4240115,,
+5760ed74-8fcd-11eb-924d-9cd76263cbd0,species,rufa,Lombardochloa,,"(J.Presl) Roseng. & B.R.Arrill.",0,1982,,"Anales Fac. Quimica 9: 260 (1982)",,,,,,urn:lsid:ipni.org:names:910843-1,wfo-0000878531,4128746,,
+bd011dae-1d4c-11ec-82c2-f14daa6f2d93,variety,rufa,Lombardochloa,rufa,,,,,,,,,,,,wfo-0001098135,,,
+57611182-8fcd-11eb-924d-9cd76263cbd0,variety,sparsepilosa,Lombardochloa,rufa,"(B.Rosengurtt et al.) B.Rosengurtt & B.R.Arrill.",0,1982,,"Anales Fac. Quimica 9: 260 (1982)",,,,,,urn:lsid:ipni.org:names:921150-1,wfo-0000878532,4128744,,

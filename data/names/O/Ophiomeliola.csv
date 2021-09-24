@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a42f026c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ophiomeliola,,,Starbäck,,1899,,"Bihangtill K. Svenska Vetensk.-Akad. Handl., Afd. 3 25(no. 1): 22 (1899)",,,,a42f026c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3607," "
-1bfb9b18-9bac-11eb-a8a2-19ed5c03f8d3,species,bomplandii,Ophiomeliola,,Speg.,Q648013,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 46 (1912)",,,,1bfb9b18-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182395," "
+1bfb9b18-9bac-11eb-a8a2-19ed5c03f8d3,species,bomplandii,Ophiomeliola,,Speg.,0,1912,,"Anal. Mus. nac. Hist. nat. B. Aires 23: 46 (1912)",,,,1bfb9b18-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182395," "
 5446ca92-9bac-11eb-a8a2-19ed5c03f8d3,species,lindmanii,Ophiomeliola,,Starbäck,,1899,,"Bihangtill K. Svenska Vetensk.-Akad. Handl., Afd. 3 25(no. 1): 22 (1899)",,,,5446ca92-9bac-11eb-a8a2-19ed5c03f8d3,,,,,182281,"  ? lindmannii"
-fdf538d6-9bab-11eb-a8a2-19ed5c03f8d3,species,mangiferae,Ophiomeliola,,Bat.,Q4079389,,,,,,,fdf538d6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,302062," "
-87b44c06-9bac-11eb-a8a2-19ed5c03f8d3,species,usteri,Ophiomeliola,,Speg.,Q648013,1908,,"Revta Mus. La Plata 15(2): 17 (1908)",,,,87b44c06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,187615," "
-7d2e9db8-8fcc-11eb-924d-9cd76263cbd0,species,espirito-santensis,Ophiomeris,,"(Brade) Brade",Q5650096,1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 1947",,,,b5bf968c-8fcc-11eb-924d-9cd76263cbd0,,174634-2,wfo-0000479536,2756490,,
-7d2f5b68-8fcc-11eb-924d-9cd76263cbd0,species,iguassuensis,Ophiomeris,,Miers,Q575253,1847,,"Proc. Linn. Soc. London 1: 329 1847",,,,,,126760-1,wfo-0000479543,2756478,,
-7d30ae50-8fcc-11eb-924d-9cd76263cbd0,species,janeirensis,Ophiomeris,,"(Warm.) Brade","Q355888,Q5650096",1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 1947",,,,b5cf135a-8fcc-11eb-924d-9cd76263cbd0,,174635-2,wfo-0000479550,2756505,,
-7d312a92-8fcc-11eb-924d-9cd76263cbd0,species,luetzelburgii,Ophiomeris,,"(Goebel & Suess.) Brade","Q55038745,Q91125,Q5650096",1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 1947",,,,b5d4622e-8fcc-11eb-924d-9cd76263cbd0,,174636-2,wfo-0000479554,2756461,,
-7d31ec3e-8fcc-11eb-924d-9cd76263cbd0,species,macahensis,Ophiomeris,,Miers,Q575253,1847,,"Proc. Linn. Soc. London 1: 329 1847",,,,,,126763-1,wfo-0000479561,2756508,,
-7d32f570-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Ophiomeris,,Standl.,Q1333160,1927,,"J. Wash. Acad. Sci. 17: 163 1927",,,,,,174638-2,wfo-0000479566,2756444,,
-eabc192e-8fcb-11eb-924d-9cd76263cbd0,species,purdieana,Ophione,,Schott,Q112191,1857,,"Oesterr. Bot. Wochenbl. 7: 101 1857",,,,,,87583-1,wfo-0000256870,2870004,,
+fdf538d6-9bab-11eb-a8a2-19ed5c03f8d3,species,mangiferae,Ophiomeliola,,Bat.,0,,,,,,,fdf538d6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,302062," "
+87b44c06-9bac-11eb-a8a2-19ed5c03f8d3,species,usteri,Ophiomeliola,,Speg.,0,1908,,"Revta Mus. La Plata 15(2): 17 (1908)",,,,87b44c06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,187615," "
+7d2e9db8-8fcc-11eb-924d-9cd76263cbd0,species,espirito-santensis,Ophiomeris,,Brade,0,1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 (1947)",,,,b5bf968c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:174634-2,wfo-0000479536,2756490,,
+7d2f5b68-8fcc-11eb-924d-9cd76263cbd0,species,iguassuensis,Ophiomeris,,Miers,0,1847,,"Proc. Linn. Soc. London 1: 329 (1847)",,,,,,urn:lsid:ipni.org:names:126760-1,wfo-0000479543,2756478,,
+7d30ae50-8fcc-11eb-924d-9cd76263cbd0,species,janeirensis,Ophiomeris,,"(Warm.) Brade",0,1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 (1947)",,,,b5cf135a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:174635-2,wfo-0000479550,2756505,,
+7d312a92-8fcc-11eb-924d-9cd76263cbd0,species,luetzelburgii,Ophiomeris,,"(K.I.Goebel & Suess.) Brade",0,1947,,"Arch. Jard. Bot. Rio de Janeiro 7: 28 (1947)",,,,b5d4622e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:174636-2,wfo-0000479554,2756461,,
+7d31ec3e-8fcc-11eb-924d-9cd76263cbd0,species,macahensis,Ophiomeris,,Miers,0,1847,,"Proc. Linn. Soc. London 1: 329 (1847)",,,,,,urn:lsid:ipni.org:names:126763-1,wfo-0000479561,2756508,,
+7d32f570-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Ophiomeris,,Standl.,0,1927,,"J. Washington Acad. Sci. 17: 163 (1927)",,,,,,urn:lsid:ipni.org:names:174638-2,wfo-0000479566,2756444,,
+eabc192e-8fcb-11eb-924d-9cd76263cbd0,species,purdieana,Ophione,,Schott,0,1857,,"Oesterr. Bot. Wochenbl. 7: 101 (1857)",,,,,,urn:lsid:ipni.org:names:87583-1,wfo-0000256870,2870004,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb5bc63a-8fd1-11eb-924d-9cd76263cbd0,genus,Tibouchinopsis,,,Markgr.,Q91845,1927,,"Notizbl. Bot. Gart. Berlin–Dahlem 10: 48. 1927.",,Q55777550,,,,289324-2,wfo-4000038392,6634634,,
-be696e52-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Tibouchinopsis,,Markgr.,Q91845,1927,,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 48 1927",,Q55777550,,,,253338-2,wfo-0001251097,3858803,,
-be698b44-8fd1-11eb-924d-9cd76263cbd0,species,mirabilis,Tibouchinopsis,,"Brade & Markgr.","Q5650096,Q91845",1961,,"Willdenowia 2: 773 1961",,,,,,253339-2,wfo-0001251098,3858776,,
-b5eeb57e-8fcd-11eb-924d-9cd76263cbd0,species,nuga,Ticanto,,"(L.) Medik.","Q1043,Q77464",1786,,"Theodora 52 1786",,,,39933426-8fc5-11eb-924d-9cd76263cbd0,,,wfo-0001057091,3965767,,
+eb5bc63a-8fd1-11eb-924d-9cd76263cbd0,genus,Tibouchinopsis,,,Markgr.,0,1927,,"Notizbl. Bot. Gart. Berlin-Dahlem 10(1): 48 (1927)",,Q55777550,,,,urn:lsid:ipni.org:names:289324-2,wfo-4000038392,6634634,,
+be696e52-8fd1-11eb-924d-9cd76263cbd0,species,glutinosa,Tibouchinopsis,,Markgr.,0,1927,,"Notizbl. Bot. Gart. Berlin-Dahlem 10: 48 (1927)",,Q55777550,,,,urn:lsid:ipni.org:names:253338-2,wfo-0001251097,3858803,,
+be698b44-8fd1-11eb-924d-9cd76263cbd0,species,mirabilis,Tibouchinopsis,,"Brade & Markgr.",0,1961,,"Willdenowia 2(5): 773 (1961)",,,,,,urn:lsid:ipni.org:names:253339-2,wfo-0001251098,3858776,,
+b5eeb57e-8fcd-11eb-924d-9cd76263cbd0,species,nuga,Ticanto,,"(L.) Medik.",0,1786,,"Theodora : 52 (1786)",,,,39933426-8fc5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:521237-1,wfo-0001057091,3965767,,

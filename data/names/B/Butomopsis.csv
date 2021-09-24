@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0f0e5d6-8fd1-11eb-924d-9cd76263cbd0,genus,Butomopsis,,,Kunth,Q77074,1841,,"Enum. Pl. 3: 164. 1841.",,,,,,1075-1,wfo-4000005833,2864610,,
-216d22f0-8fcd-11eb-924d-9cd76263cbd0,species,cordofana,Butomopsis,,"(Hochst.) Kunth ex Walp.","Q64983,Q77074,Q77671",1849,,"Ann. Bot. Syst. 1: 769 1849",,,,,,58282-1,wfo-0000762562,2864619,,
-216d4546-8fcd-11eb-924d-9cd76263cbd0,species,lanceolata,Butomopsis,,"(Roxb.) Kunth","Q748967,Q77074",1841,,"Enum. Pl. 3: 165 1841",,,,,,58283-1,wfo-0000762563,2864617,,
-216d74bc-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Butomopsis,,"(D.Don) Kunth","Q1174244,Q77074",1841,,"Enum. Pl. 3: 165 1841",,,,,,58284-1,wfo-0000762564,2864611,,
+e0f0e5d6-8fd1-11eb-924d-9cd76263cbd0,genus,Butomopsis,,,Kunth,0,1841,,"Enum. Pl. 3: 164 (1841)",,,,,,urn:lsid:ipni.org:names:1075-1,wfo-4000005833,2864610,,
+216d22f0-8fcd-11eb-924d-9cd76263cbd0,species,cordofana,Butomopsis,,"(Hochst.) Kunth ex Walp.",0,1849,,"Ann. Bot. Syst. 1: 769 (1849)",,,,,,urn:lsid:ipni.org:names:58282-1,wfo-0000762562,2864619,,
+216d4546-8fcd-11eb-924d-9cd76263cbd0,species,lanceolata,Butomopsis,,"(Roxb.) Kunth",0,1841,,"Enum. Pl. 3: 165 (1841)",,,,,,urn:lsid:ipni.org:names:58283-1,wfo-0000762563,2864617,,
+216d74bc-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Butomopsis,,"(D.Don) Kunth",0,1841,,"Enum. Pl. 3: 165 (1841)",,,,,,urn:lsid:ipni.org:names:58284-1,wfo-0000762564,2864611,,

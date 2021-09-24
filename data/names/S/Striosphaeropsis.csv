@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a83e3a1c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Striosphaeropsis,,,"Verkley & Aa",Q967491,1997,,"Mycotaxon 65: 115 (1997)",,,,a83e3a1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27756," "
-56b1397e-9bad-11eb-a8a2-19ed5c03f8d3,species,mirabilis,Striosphaeropsis,,"Verkley & Aa",Q967491,1997,,"Mycotaxon 65: 115 (1997)",,,,56b1397e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,442428," "
-afa58702-8fcc-11eb-924d-9cd76263cbd0,species,conchigera,Strobidia,,"(Griff.) Kuntze","Q11705310,Q62853",1891,,"Revis. Gen. Pl. 2: 698 1891",,,,1ddc425c-8fcc-11eb-924d-9cd76263cbd0,,798197-1,wfo-0000562711,2759585,,
-afa7713e-8fcc-11eb-924d-9cd76263cbd0,species,oligosperma,Strobidia,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 698 1891",,,,,,798199-1,wfo-0000562721,2759584,,
-afa889a2-8fcc-11eb-924d-9cd76263cbd0,species,sumatrana,Strobidia,,Miq.,Q76742,1861,,"Fl. Ned. Ind., Eerste Bijv. 614 1861",,,,,,798200-1,wfo-0000562731,2759580,,
-5fdeb07c-8fcc-11eb-924d-9cd76263cbd0,species,hispidissima,Strobila,,G.Don,Q1381245,1837,,"Gen. Hist. 4: 327 1837",,,,,,120722-1,wfo-0000431116,5662443,,
+a83e3a1c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Striosphaeropsis,,,"Verkley & Aa",0,1997,,"Mycotaxon 65: 115 (1997)",,,,a83e3a1c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27756," "
+56b1397e-9bad-11eb-a8a2-19ed5c03f8d3,species,mirabilis,Striosphaeropsis,,"Verkley & Aa",0,1997,,"Mycotaxon 65: 115 (1997)",,,,56b1397e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,442428," "
+afa58702-8fcc-11eb-924d-9cd76263cbd0,species,conchigera,Strobidia,,"(Griff.) Kuntze",0,1891,,"Revis. gen. pl. 698",,,,1ddc425c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000562711,2759585,,
+afa7713e-8fcc-11eb-924d-9cd76263cbd0,species,oligosperma,Strobidia,,Kuntze,0,1891,,"Revis. gen. pl. 2:698. (1891)",,,,,,,wfo-0000562721,2759584,,
+afa889a2-8fcc-11eb-924d-9cd76263cbd0,species,sumatrana,Strobidia,,Miq.,0,1861,,"Fl. Ned. Ind., Eerste bijv. 614",,,,,,,wfo-0000562731,2759580,,
+5fdeb07c-8fcc-11eb-924d-9cd76263cbd0,species,hispidissima,Strobila,,G.Don,0,1837,,"Gen. Hist. 4: 327 (1837)",,,,,,urn:lsid:ipni.org:names:120722-1,wfo-0000431116,5662443,,

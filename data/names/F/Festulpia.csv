@@ -1,4 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3b5f89c-8fd1-11eb-924d-9cd76263cbd0,genus,Festulpia,,,"Melderis ex Stace & R.Cotton","Q5665799,Q939715,Q6100821",,,,,,,,,18089-1,wfo-4000014708,4110509,,
-f2d3e7d2-8fc5-11eb-924d-9cd76263cbd0,species,multifoliata,Feuillea,,Kuntze,Q62853,,,,,,,,,,wfo-0000195598,5360533,,
-f2ee8010-8fc5-11eb-924d-9cd76263cbd0,species,peckoltii,Feuillea,,Kuntze,Q62853,,,,,,,,,,wfo-0000195599,5360534,,
+e3b5f89c-8fd1-11eb-924d-9cd76263cbd0,genus,Festulpia,,,"Melderis ex Stace & R.Cotton",0,,,"Watsonia 10: 136 (1974)",,,,,,urn:lsid:ipni.org:names:18089-1,wfo-4000014708,4110509,,
+4621e162-8fcd-11eb-924d-9cd76263cbd0,species,hubbardii,Festulpia,,"Stace & R.Cotton",0,1974,,"Watsonia 10: 136 (1974)",,,,,,urn:lsid:ipni.org:names:403760-1,wfo-0000841102,,,
+4756118a-1d4d-11ec-82c2-f14daa6f2d93,species,hubbardii,Festulpia,,"Stace & R.Cotton",,,,"Watsonia 10: 136 (1974)",,,,,,urn:lsid:ipni.org:names:403760-1,wfo-0001328820,,,
+4621fdaa-8fcd-11eb-924d-9cd76263cbd0,species,melderisii,Festulpia,,"Stace & R.Cotton",0,1974,,"Watsonia 10: 137 (1974)",,,,,,urn:lsid:ipni.org:names:403761-1,wfo-0000841103,,,
+4756370a-1d4d-11ec-82c2-f14daa6f2d93,species,melderisii,Festulpia,,"Stace & R.Cotton",,,,"Watsonia 10: 137 (1974)",,,,,,urn:lsid:ipni.org:names:403761-1,wfo-0001328821,,,
+f2d3e7d2-8fc5-11eb-924d-9cd76263cbd0,species,multifoliata,Feuillea,,Kuntze,0,,,,,,,,,,wfo-0000195598,5360533,,
+f2ee8010-8fc5-11eb-924d-9cd76263cbd0,species,peckoltii,Feuillea,,Kuntze,0,,,"Revis. Gen. Pl. 1: 188. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:495092-1,wfo-0000195599,5360534,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7339182-8fd1-11eb-924d-9cd76263cbd0,genus,Neomyrtus,,,Burret,Q78365,1941,,"Notizbl. Bot. Gart. Berlin–Dahlem 15: 493. 1941.",,Q55777764,,,,27671-1,wfo-4000025782,3188105,,
-e6ec96a2-8fcb-11eb-924d-9cd76263cbd0,species,pedunculata,Neomyrtus,,"(Hook.f.) Allan","Q157501,Q3296972",1961,,"Fl. N. Zeal. 1: 330 1961",,,,,,600424-1,wfo-0000250222,,,
-e6ecd27a-8fcb-11eb-924d-9cd76263cbd0,species,vitis-idaea,Neomyrtus,,"(Raoul) Burret","Q633323,Q78365",1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 494 1941",,Q55777764,,87af2388-8fcd-11eb-924d-9cd76263cbd0,,600425-1,wfo-0000250223,3188107,,
+e7339182-8fd1-11eb-924d-9cd76263cbd0,genus,Neomyrtus,,,Burret,0,1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 493 (1941)",,Q55777764,,,,urn:lsid:ipni.org:names:27671-1,wfo-4000025782,3188105,,
+e6ec96a2-8fcb-11eb-924d-9cd76263cbd0,species,pedunculata,Neomyrtus,,"(Hook.f.) Allan",0,1961,,"Fl. N. Zeal. 1: 330 (1961)",,,,,,urn:lsid:ipni.org:names:600424-1,wfo-0000250222,,,
+e6ecd27a-8fcb-11eb-924d-9cd76263cbd0,species,vitis-idaea,Neomyrtus,,"(Raoul) Burret",0,1941,,"Notizbl. Bot. Gart. Berlin-Dahlem 15: 494 (1941)",,Q55777764,,87af2388-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:600425-1,wfo-0000250223,3188107,,

@@ -1,20 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9f5b0e5c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Glaucospora,,,Rea,,1922,,"Brit. basidiomyc. (Cambridge) 62 (1922)",,,,9f5b0e5c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17654," "
-d9c0af3a-9bac-11eb-a8a2-19ed5c03f8d3,species,eyrei,Glaucospora,,"(Massee) Rea",Q4284198,1922,,"Brit. basidiomyc. (Cambridge) 62 (1922)",,,,c54cf1ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264555," "
-8e2b4868-8fcd-11eb-924d-9cd76263cbd0,species,aculeata,Glaucothea,,"(Brandegee) I.M.Johnst.","Q1002345,Q729850",1924,,"Proc. Calif. Acad. Sci. IV, 12: 993 1924",,,,853a189c-8fcd-11eb-924d-9cd76263cbd0,,110671-2,wfo-0000972779,2736792,,
-8e2b6960-8fcd-11eb-924d-9cd76263cbd0,species,armata,Glaucothea,,"(S.Watson) O.F.Cook","Q960820,Q1548577",1915,,"J. Wash. Acad. Sci. 5: 239 1915",,Q96057066,,,,110672-2,wfo-0000972780,2736796,,
-8e2b8526-8fcd-11eb-924d-9cd76263cbd0,species,brandegeei,Glaucothea,,"(Purpus) I.M.Johnst.","Q104661,Q729850",1924,,"Proc. Calif. Acad. Sci. IV, 12: 992 1924",,,,,,110673-2,wfo-0000972781,2736837,,
-8e2bbc44-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Glaucothea,,"(Franceschi ex Becc.) I.M.Johnst.","Q5864759,Q361037,Q729850",1924,,"Proc. Calif. Acad. Sci. IV, 12: 993 1924",,,,853aa208-8fcd-11eb-924d-9cd76263cbd0,,110674-2,wfo-0000972783,2736806,,
-02752c94-8fcd-11eb-924d-9cd76263cbd0,species,acutifolia,Glaux,,A.Heller,Q2373009,1906,,"Muhlenbergia 2: 109 1906",,,,,,110675-2,wfo-0000703640,5641158,,
-393c494a-8fc5-11eb-924d-9cd76263cbd0,species,astragaloides,Glaux,,Medik.,Q77464,,,,,,,,,,wfo-0000191974,5343258,,
-027557dc-8fcd-11eb-924d-9cd76263cbd0,species,atacamensis,Glaux,,Phil.,Q214994,1860,,"Fl. Atacam. 35 1860",,,,,,700984-1,wfo-0000703641,5641153,,
-0275933c-8fcd-11eb-924d-9cd76263cbd0,species,densiflora,Glaux,,Phil.,Q214994,1891,,"Anales Mus. Nac. Santiago de Chile 1: 51 1891",,,,,,110676-2,wfo-0000703643,5641145,,
-0275afb6-8fcd-11eb-924d-9cd76263cbd0,species,generalis,Glaux,,E.H.L.Krause,Q3057351,1901,,"Deutschl. Fl. ed. 2, 9: 250 1901",,,,,,700986-1,wfo-0000703644,5641133,,
-0275cab4-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Glaux,,L.,Q1043,1753,,"Sp. Pl. 207 1753",,,,,,110677-2,wfo-0000703645,5414349,,
-0275e544-8fcd-11eb-924d-9cd76263cbd0,variety,angustifolia,Glaux,maritima,B.Boivin,Q5937075,1956,,"Bull. Soc. Roy. Bot. Belgique 88: 9 1956",,,,,,293648-2,wfo-0000703646,5414353,,
-027603da-8fcd-11eb-924d-9cd76263cbd0,variety,macrophylla,Glaux,maritima,B.Boivin,Q5937075,1956,,"Bull. Soc. Roy. Bot. Belgique 88: 10 1956",,,,,,293649-2,wfo-0000703647,5414351,,
-02762248-8fcd-11eb-924d-9cd76263cbd0,variety,obtusifolia,Glaux,maritima,Fernald,Q2656885,1902,,"Rhodora 4: 213 1902",,Q100403010,,,,110679-2,wfo-0000703648,7795098,,
-02764002-8fcd-11eb-924d-9cd76263cbd0,subspecies,obtusifolia,Glaux,maritima,"(Fernald) B.Boivin","Q2656885,Q5937075",1956,,"Bull. Soc. Roy. Bot. Belgique 88: 10 1956",,,,02762248-8fcd-11eb-924d-9cd76263cbd0,,110678-2,wfo-0000703649,7795098,,
-02765c04-8fcd-11eb-924d-9cd76263cbd0,variety,rosea,Glaux,maritima,Freyn,Q2502575,1896,,"Oesterr. Bot. Z. 46: 53 1896",,,,,,,wfo-0000703650,8312137,,
-02767b30-8fcd-11eb-924d-9cd76263cbd0,species,mucronata,Glaux,,Phil.,Q214994,1891,,"Anales Mus. Nac. Santiago de Chile 1: 50 1891",,,,,,110680-2,wfo-0000703651,5641092,,
-02769962-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Glaux,,"Phil. ex R.Knuth","Q214994,Q7310335",1905,,"Pflanzenr. IV, 237: 320 1905",,,,,,,wfo-0000703652,5641088,,
+d9c0af3a-9bac-11eb-a8a2-19ed5c03f8d3,species,eyrei,Glaucospora,,"(Massee) Rea",0,1922,,"Brit. basidiomyc. (Cambridge) 62 (1922)",,,,c54cf1ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264555," "

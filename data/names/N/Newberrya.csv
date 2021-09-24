@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e74b14a6-8fd1-11eb-924d-9cd76263cbd0,genus,Newberrya,,,Torr.,Q1346660,1864,,"Ann. Lyceum Nat. Hist. New York 8: 55. 1864. (Jun 1864)",,,,,,,wfo-4000026067,7328072,,
-37776340-8fcc-11eb-924d-9cd76263cbd0,species,congesta,Newberrya,,Torr.,Q1346660,1867,,"Ann. Lyceum Nat. Hist. New York 8: 55 1867",,,,,,582564-1,wfo-0000379334,,,
-37774162-8fcc-11eb-924d-9cd76263cbd0,species,longiloba,Newberrya,,Small,Q2590065,1914,,"N. Amer. Fl. 29: 18 1914",,,,,,169696-2,wfo-0000379333,5683011,,
-ce418080-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Newberrya,,"(Greene) Small","Q2661665,Q2590065",1914,,"N. Amer. Fl. 29(1): 18 1914",,,,,,169697-2,wfo-0001280252,5683005,,
-3776f428-8fcc-11eb-924d-9cd76263cbd0,species,spicata,Newberrya,,A.Gray,Q347356,1880,,"Proc. Amer. Acad. Arts 15: 44 1880",,,,,,582565-1,wfo-0000379332,5683001,,
-3775ba9a-8fcc-11eb-924d-9cd76263cbd0,species,subterranea,Newberrya,,Eastw.,Q460241,1898,,"Proc. Calif. Acad. Sci. III, 1: 80 1898",,,,,,169699-2,wfo-0000379325,5682997,,
+e74b14a6-8fd1-11eb-924d-9cd76263cbd0,genus,Newberrya,,,Torr.,0,1864,,"Ann. Lyceum Nat. Hist. New York 8: 55 (1867)",,,,,,urn:lsid:ipni.org:names:27133-1,wfo-4000026067,7328072,,
+37776340-8fcc-11eb-924d-9cd76263cbd0,species,congesta,Newberrya,,Torr.,0,1867,,"Ann. Lyceum Nat. Hist. New York 8: 55 (1867)",,,,,,urn:lsid:ipni.org:names:582564-1,wfo-0000379334,,,
+37774162-8fcc-11eb-924d-9cd76263cbd0,species,longiloba,Newberrya,,Small,0,1914,,"N. Amer. Fl. 29: 18 (1914)",,,,,,urn:lsid:ipni.org:names:169696-2,wfo-0000379333,5683011,,
+ce418080-8fd1-11eb-924d-9cd76263cbd0,species,pumila,Newberrya,,Small,0,1914,,"N. Amer. Fl. 29: 18 (1914)",,,,,,urn:lsid:ipni.org:names:169697-2,wfo-0001280252,5683005,,
+3776f428-8fcc-11eb-924d-9cd76263cbd0,species,spicata,Newberrya,,A.Gray,0,1880,,"Proc. Amer. Acad. Arts 15: 44 (1880)",,,,,,urn:lsid:ipni.org:names:582565-1,wfo-0000379332,5683001,,
+3775ba9a-8fcc-11eb-924d-9cd76263cbd0,species,subterranea,Newberrya,,Eastw.,0,1898,,"Proc. Calif. Acad. Sci. , ser. 3, 1: 80 (1897)",,,,,,urn:lsid:ipni.org:names:169699-2,wfo-0000379325,5682997,,

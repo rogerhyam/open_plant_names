@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-debd6032-8fd1-11eb-924d-9cd76263cbd0,genus,Aceratoglossum,,,,,,,,,,,,,,wfo-4000000194,3657373,,
-fd74bb66-8fcb-11eb-924d-9cd76263cbd0,species,albiflora,Aceratorchis,,Schltr.,Q62278,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 328 1922",,,,,,614641-1,wfo-0000285878,2850959,,
-fd8775ee-8fcb-11eb-924d-9cd76263cbd0,species,tschiliensis,Aceratorchis,,Schltr.,Q62278,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 329 1922",,,,,,614642-1,wfo-0000285986,2850957,,
+debd6032-8fd1-11eb-924d-9cd76263cbd0,genus,Aceratoglossum,,,F.M.Vázquez,,,,"Folia Bot. Extremadur. 3: 88 (2009)",,,,,,urn:lsid:ipni.org:names:77095858-1,wfo-4000000194,3657373,,
+6e05a600-8fcd-11eb-924d-9cd76263cbd0,species,terraccianoi,Aceratoglossum,,"(E.G.Camus) F.M.Vázquez",0,2009,,"Folia Bot. Extremadur. 3: 88 (2009)",,,,11730866-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77096638-1,wfo-0000911216,,,
+fd74bb66-8fcb-11eb-924d-9cd76263cbd0,species,albiflora,Aceratorchis,,Schltr.,0,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 328 (1922)",,,,,,urn:lsid:ipni.org:names:614641-1,wfo-0000285878,2850959,,
+fd8775ee-8fcb-11eb-924d-9cd76263cbd0,species,tschiliensis,Aceratorchis,,Schltr.,0,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 329 (1922)",,,,,,urn:lsid:ipni.org:names:614642-1,wfo-0000285986,2850957,,

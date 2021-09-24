@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e337dd90-8fd1-11eb-924d-9cd76263cbd0,genus,Elasis,,,D.R.Hunt,Q1176320,1978,,"Kew Bull. 33(2): 332. 1978.",,Q55779728,,,,7269-1,wfo-4000013135,2763197,,
-495a4398-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Elasis,,"(Kunth) D.R.Hunt","Q77074,Q1176320",1978,,"Kew Bull. 33: 332 1978",,Q55779728,,,,89470-2,wfo-0000402074,2763198,,
-828f3578-8fcd-11eb-924d-9cd76263cbd0,species,repens,Elasmatium,,"(L.) Dulac","Q1043,Q3184885",1867,,"Fl. Hautes-Pyrénées 121 1867",,,,,,630693-1,wfo-0000948020,5324046,,
+e337dd90-8fd1-11eb-924d-9cd76263cbd0,genus,Elasis,,,D.R.Hunt,0,1978,,"Kew Bull. 33: 332 (1978)",,Q55779728,,,,urn:lsid:ipni.org:names:7269-1,wfo-4000013135,2763197,,
+814a3646-1d4d-11ec-82c2-f14daa6f2d93,species,guatemalensis,Elasis,,"(C.B.Clarke ex Donn.Sm.) M.Pell.",,,,"PhytoKeys 89: 42. 2017 [26 Oct 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77166529-1,wfo-0001424467,,,
+495a4398-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Elasis,,"(Kunth) D.R.Hunt",0,1978,,"Kew Bull. 33: 332 (1978)",,Q55779728,,,,urn:lsid:ipni.org:names:89470-2,wfo-0000402074,2763198,,
+828f3578-8fcd-11eb-924d-9cd76263cbd0,species,repens,Elasmatium,,Dulac,0,1867,,"Fl. Hautes-Pyrénées : 121 (1867)",,,,,,urn:lsid:ipni.org:names:630693-1,wfo-0000948020,5324046,,

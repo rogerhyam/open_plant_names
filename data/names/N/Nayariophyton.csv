@@ -1,10 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e717aa76-8fd1-11eb-924d-9cd76263cbd0,genus,Nayariophyton,,,T.K.Paul,Q15826053,1988,,"Bot. Jahrb. Syst. 110: 43. 1988. (20 Oct 1988)",,,,,,925159-1,wfo-4000025408,7278905,,
-c471e414-8fd1-11eb-924d-9cd76263cbd0,species,jujubifolium,Nayariophyton,,"(Griff.) T.K.Paul","Q11705310,Q15826053",1988,,"Bot. Jahrb. Syst. 110(1): 43 1988",,,,,,2945991-1,wfo-0001262250,3935333,,
-c472366c-8fd1-11eb-924d-9cd76263cbd0,species,zizyphifolium,Nayariophyton,,"(Griff.) D.G.Long & A.G.Mill.","Q11705310,Q5800006,Q11679869",1990,,"Edinburgh J. Bot. 47(3): 357 1990",,Q55755891,,,,962191-1,wfo-0001262253,3935325,,
-58a93a38-8fcd-11eb-924d-9cd76263cbd0,species,aliena,Nazia,,"(Spreng.) Scribn.","Q62829,Q2458459",1899,,"Bull. Div. Agrostol. U.S.D.A. 17: 28 1899",,,,,,167721-2,wfo-0000881363,2705527,,
-58a95568-8fcd-11eb-924d-9cd76263cbd0,species,occidentalis,Nazia,,"(Nees) Scribn.","Q76349,Q2458459",1894,,"Zoe 4: 386 1894",,,,689c7978-8fcd-11eb-924d-9cd76263cbd0,,167722-2,wfo-0000881364,4147172,,
-58a972a0-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Nazia,,"(L.) Kuntze","Q1043,Q62853",1891,,"Revis. Gen. Pl. 2: 780 1891",,,,,,167723-2,wfo-0000881365,2705524,,
-58a98c18-8fcd-11eb-924d-9cd76263cbd0,variety,aliena,Nazia,racemosa,"(Spreng.) Scribn. & J.G.Sm.","Q62829,Q2458459,Q4424865",1897,,"Bull. Div. Agrostol. U.S.D.A. 4: 12 1897",,,,,,167724-2,wfo-0000881366,4147142,,
-c4237ef0-8fd1-11eb-924d-9cd76263cbd0,variety,berteroniana,Nazia,racemosa,"(Schult.) Hack.","Q78881,Q2209907",1904,,"Anales Mus. Nac. Buenos Aires 11: 58 1904",,,,,,167725-2,wfo-0001261707,7872131,,
-f5b468de-8fcd-11eb-924d-9cd76263cbd0,species,flagelliferum,Neacroporium,,"(Sakurai) Z.Iwats. & Nog.","Q19001625,Q21339979,Q21516226",1971,,"J. Hattori Bot. Lab. 34: 226 1971",,,,df03da70-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001195157,5838249,,
+e717aa76-8fd1-11eb-924d-9cd76263cbd0,genus,Nayariophyton,,,T.K.Paul,0,1988,,"Fasc. Fl. India 19: 183 (1988)",,,,,,urn:lsid:ipni.org:names:925159-1,wfo-4000025408,7278905,,
+c471e414-8fd1-11eb-924d-9cd76263cbd0,species,jujubifolium,Nayariophyton,,T.K.Paul,0,1988,,"Bot. Jahrb. Syst. 110(1): 43. 1988 [20 Oct 1988]",,,,,,urn:lsid:ipni.org:names:2945991-1,wfo-0001262250,3935333,,
+c472366c-8fd1-11eb-924d-9cd76263cbd0,species,zizyphifolium,Nayariophyton,,"(Griff.) D.G.Long & A.G.Mill.",0,1990,,"Edinburgh J. Bot. 47: 357 (1990)",,Q55755891,,,,urn:lsid:ipni.org:names:962191-1,wfo-0001262253,3935325,,

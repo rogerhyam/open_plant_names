@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e51211f8-8fd1-11eb-924d-9cd76263cbd0,genus,Imeria,,,"R.M.King & H.Rob.","Q2854893,Q2100759",,,,,,,,,9474-1,wfo-4000019037,3133454,,
-4e33363c-8fb2-11eb-924d-9cd76263cbd0,species,memorabilis,Imeria,,"(Maguire & Wurdack) R.M.King & H.Rob.","Q2695559,Q4107602,Q2854893,Q2100759",1975,,"272 1975",,,,,,128207-2,wfo-0000019808,5400825,,
-df21c3b2-8fb6-11eb-924d-9cd76263cbd0,species,serratifolia,Imeria,,V.M.Badillo,Q6165606,1985,,"2 1985",,,,,,906403-1,wfo-0000094055,5697975,,
+e51211f8-8fd1-11eb-924d-9cd76263cbd0,genus,Imeria,,,"R.M.King & H.Rob.",0,,,"Phytologia 32(3): 271 (1975)",,,,,,urn:lsid:ipni.org:names:9474-1,wfo-4000019037,3133454,,
+4e33363c-8fb2-11eb-924d-9cd76263cbd0,species,memorabilis,Imeria,,"(Maguire & Wurdack) R.M.King & H.Rob.",0,1975,,"Phytologia 32: 272 (1975)",,,,,,urn:lsid:ipni.org:names:128207-2,wfo-0000019808,5400825,,
+7e734a84-1d4d-11ec-82c2-f14daa6f2d93,variety,densesericea,Imeria,memorabilis,Pruski,,,,"Mem. New York Bot. Gard. 64: 240. 1990 11167",,,,,,urn:lsid:ipni.org:names:304532-2,wfo-0001410784,,,
+e1259e94-1d47-11ec-82c2-f14daa6f2d93,variety,memorabilis,Imeria,memorabilis,,,,,,,,,,,,wfo-0000106668,,,
+df21c3b2-8fb6-11eb-924d-9cd76263cbd0,species,serratifolia,Imeria,,V.M.Badillo,0,1985,,"Ernstia 30: 2 (1985).",,,,,,urn:lsid:ipni.org:names:906403-1,wfo-0000094055,5697975,,

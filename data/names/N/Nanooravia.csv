@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec658b74-8fd1-11eb-924d-9cd76263cbd0,genus,Nanooravia,,,"Kiran Raj & Sivad.","Q26714049,Q21608995",2013,,"Nordic J. Bot. 31: 162 (2013)",,Q58620344,,,,77128924-1,wfo-4001303334,9803177,,
-e67ea8ae-8fcb-11eb-924d-9cd76263cbd0,species,myrianthum,Nanopetalum,,Hassk.,Q68616,1855,,"Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 4: 141 1855",,,,,,352461-1,wfo-0000249446,3081583,,
+ec658b74-8fd1-11eb-924d-9cd76263cbd0,genus,Nanooravia,,,"Kiran Raj & Sivad.",0,2013,,"Nordic J. Bot. 31: 162 (2013)",,Q58620344,,,,urn:lsid:ipni.org:names:77128924-1,wfo-4001303334,9803177,,
+4da7fecc-1d4d-11ec-82c2-f14daa6f2d93,species,santapaui,Nanooravia,,"(M.R.Almeida) Kiran Raj & Sivad.",,,,"Nordic J. Bot. 31: 638 (2013)",,,,,,urn:lsid:ipni.org:names:77133647-1,wfo-0001337450,,,
+5bf84e32-1d4d-11ec-82c2-f14daa6f2d93,species,santapaui,Nanooravia,,"(M.R.Almeida) Kiran Raj & Sivad.",,,,"Nordic J. Bot. 31(2): 162. 2013 [7 May 2013] [epublished], as 'Ravia santapaui'",,,,,,urn:lsid:ipni.org:names:77128927-1,wfo-0001356365,,,
+e67ea8ae-8fcb-11eb-924d-9cd76263cbd0,species,myrianthum,Nanopetalum,,Hassk.,0,1855,,"Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 4: 141 (1855)",,,,,,urn:lsid:ipni.org:names:352461-1,wfo-0000249446,3081583,,

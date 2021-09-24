@@ -33,7 +33,7 @@ This assumes you have a MySQL database and user with rights to that database set
 
 Used to import all the data files into a local MySQL database. Having set up a database and created a credentials file as described above you would simply cd in the utils/php directory and run a command like this:
 
-php -d memory_limit=1G import.php
+php -d memory_limit=1G import_csv.php
 
 You might like to adjust the memory_limit depending on your machine. It might take a while but not forever.
 
@@ -41,7 +41,7 @@ You might like to adjust the memory_limit depending on your machine. It might ta
 
 Used to export local MySQL database back to the file structure for pushing to GitHub. From the utils/php directory run something like:
 
-php -d memory_limit=1G import.php
+php -d memory_limit=1G export_csv.php
 
 
 

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e190060c-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiradenia,,,Lindl.,Q378629,1853,,"Fol. Orchid. Cheiradenia 4. 1853.",,,,,,29015-1,wfo-4000007770,2820615,,
-4603ae04-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Cheiradenia,,Lindl.,Q378629,1853,,"Fol. Orchid. 4: 1 1853",,,,,,325525-2,wfo-0000840860,2820616,,
-4603e982-8fcd-11eb-924d-9cd76263cbd0,species,imthurnii,Cheiradenia,,Cogn.,Q655719,1906,,"Fl. Bras. 3(6): 481 1906",,,,,,55871-2,wfo-0000840862,2820617,,
+e190060c-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiradenia,,,Lindl.,0,1853,,"Fol. Orchid. 4: 1 (1853)",,,,,,urn:lsid:ipni.org:names:29015-1,wfo-4000007770,2820615,,
+4603ae04-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Cheiradenia,,Lindl.,0,1853,,"Fol. Orchid. 4: 1 (1853)",,,,,,urn:lsid:ipni.org:names:325525-2,wfo-0000840860,2820616,,
+4603e982-8fcd-11eb-924d-9cd76263cbd0,species,imthurnii,Cheiradenia,,Cogn.,0,1906,,"Fl. Bras. 3(6): 481 (1906)",,,,,,urn:lsid:ipni.org:names:55871-2,wfo-0000840862,2820617,,

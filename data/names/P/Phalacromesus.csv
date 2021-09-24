@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85370c8-8fd1-11eb-924d-9cd76263cbd0,genus,Phalacromesus,,,,,,,,,,,,,,wfo-4000029082,3123780,,
-4c508d6c-8fba-11eb-924d-9cd76263cbd0,species,riparia,Phalacromesus,,Cass.,Q958431,1828,,"in Dict. Sci. Nat. liii. 235 (1828).",,,,,,237647-1,wfo-0000125509,,,
-ffe63222-8fb1-11eb-924d-9cd76263cbd0,species,riparia,Phalacromesus,,"(Kunth) Cass. ex B.D.Jacks.","Q77074,Q958431,Q817450",1895,,"Index Kewensis 2(3): 486 1895 [1894]",,,,,,,wfo-0000002827,3114912,,
-96504282-8fcd-11eb-924d-9cd76263cbd0,species,cordatus,Phalacros,,"(Mill.) Wenz.","Q312678,Q4107264",1873,,"; 1873-1874 164 1874",,,,,,727332-1,wfo-0000990210,8684622,,
+e85370c8-8fd1-11eb-924d-9cd76263cbd0,genus,Phalacromesus,,,Cass.,,,,"Dict. Sci. Nat., ed. 2. 53: 235 (1828)",,,,,,urn:lsid:ipni.org:names:10489-1,wfo-4000029082,3123780,,
+4c508d6c-8fba-11eb-924d-9cd76263cbd0,species,riparia,Phalacromesus,,Cass.,0,1828,,"Dict. Sci. Nat., ed. 2. 53: 235 (1828)",,,,,,urn:lsid:ipni.org:names:237647-1,wfo-0000125509,,,
+ffe63222-8fb1-11eb-924d-9cd76263cbd0,species,riparia,Phalacromesus,,"(Kunth) Cass. ex B.D.Jacks.",0,1895,,"Index Kewensis 2(3): 486 1895 [1894]",,,,,,,wfo-0000002827,3114912,,
+96504282-8fcd-11eb-924d-9cd76263cbd0,species,cordatus,Phalacros,,Wenz.,0,1873,,"Linnaea 38: 164 (1874)",,,,,,urn:lsid:ipni.org:names:727332-1,wfo-0000990210,8684622,,

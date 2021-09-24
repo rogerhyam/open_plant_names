@@ -1,14 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a3a76672-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cyclomycetella,,,Murrill,Q2170251,1904,,"Bull. Torrey bot. Club 31(8): 422 (1904)",,,,a3a76672-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17426," "
-62a769d8-9bad-11eb-a8a2-19ed5c03f8d3,species,pavonia,Cyclomycetella,,"(Hook.) Murrill","Q472639,Q2170251",1904,,"Bull. Torrey bot. Club 31(8): 423 (1904)",,,,91df0b62-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431531," "
-7c41ef26-8fcd-11eb-924d-9cd76263cbd0,species,discolor,Cyclonema,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 260 1861",,,,,,862661-1,wfo-0000933885,5610886,,
-7c420b46-8fcd-11eb-924d-9cd76263cbd0,species,hirsutum,Cyclonema,,Hochst.,Q64983,1842,,"Flora 25: 228 1842",,,,,,862662-1,wfo-0000933886,5610883,,
-7c4243ea-8fcd-11eb-924d-9cd76263cbd0,species,mucronatum,Cyclonema,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 262 1861",,,,,,862663-1,wfo-0000933888,5610880,,
-7c425db2-8fcd-11eb-924d-9cd76263cbd0,species,myricoides,Cyclonema,,Hochst.,Q64983,1842,,"Flora 25: 226 1842",,,,,,862664-1,wfo-0000933889,5610877,,
-7c4279dc-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Cyclonema,,"(L.) Hochst.","Q1043,Q64983",1842,,"Flora 25: 227 1842",,,,,,862665-1,wfo-0000933890,5610876,,
-7c429336-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Cyclonema,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 262 1861",,,,,,862666-1,wfo-0000933891,7731592,,
-7c42af24-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Cyclonema,,Oliv.,Q1161960,1876,,"J. Linn. Soc., Bot. 15: 96 1876",,Q55758889,,,,862667-1,wfo-0000933892,5610871,,
-7c42c8e2-8fcd-11eb-924d-9cd76263cbd0,species,sylvaticum,Cyclonema,,Hochst.,Q64983,1842,,"Flora 25: 227 1842",,,,,,862668-1,wfo-0000933893,5610869,,
-7c42e58e-8fcd-11eb-924d-9cd76263cbd0,species,tettense,Cyclonema,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 261 1861",,,,,,862669-1,wfo-0000933894,5610867,,
-7c42ff6a-8fcd-11eb-924d-9cd76263cbd0,species,triphyllum,Cyclonema,,"(Hochst.) Harv.","Q64983,Q1378128",1860,,"Thes. Cap. 1: 17 1860",,,,,,862670-1,wfo-0000933895,5610864,,
-c71c753a-8fd1-11eb-924d-9cd76263cbd0,species,tubulosa,Cyclopasania,,"(Hickel & A.Camus) Nakai","Q6067265,Q272128,Q704751",,,,,,,f043dd96-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001267118,8038949,,
+a3a76672-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cyclomycetella,,,Murrill,0,1904,,"Bull. Torrey bot. Club 31(8): 422 (1904)",,,,a3a76672-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17426," "
+62a769d8-9bad-11eb-a8a2-19ed5c03f8d3,species,pavonia,Cyclomycetella,,"(Hook.) Murrill",0,1904,,"Bull. Torrey bot. Club 31(8): 423 (1904)",,,,91df0b62-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431531," "
+5c9b0488-1d4d-11ec-82c2-f14daa6f2d93,species,ciliatum,Cyclonema,,"Harv. ex H.Pearson",,,,"Fl. Cap. (Harvey) 5(1.1): 221, in syn. 1901 [Jun 1901]",,,,,,urn:lsid:ipni.org:names:862660-1,wfo-0001357218,,,
+7c41ef26-8fcd-11eb-924d-9cd76263cbd0,species,discolor,Cyclonema,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 260 (1861)",,,,,,urn:lsid:ipni.org:names:862661-1,wfo-0000933885,5610886,,
+7c420b46-8fcd-11eb-924d-9cd76263cbd0,species,hirsutum,Cyclonema,,Hochst.,0,1842,,"Flora 25: 228 (1842)",,,,,,urn:lsid:ipni.org:names:862662-1,wfo-0000933886,5610883,,
+7c4243ea-8fcd-11eb-924d-9cd76263cbd0,species,mucronatum,Cyclonema,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 262 (1861)",,,,,,urn:lsid:ipni.org:names:862663-1,wfo-0000933888,5610880,,
+7c425db2-8fcd-11eb-924d-9cd76263cbd0,species,myricoides,Cyclonema,,Hochst.,0,1842,,"Flora 25: 226 (1842)",,,,,,urn:lsid:ipni.org:names:862664-1,wfo-0000933889,5610877,,
+7c4279dc-8fcd-11eb-924d-9cd76263cbd0,species,serratum,Cyclonema,,Hochst.,0,1842,,"Flora 25: 227 (1842)",,,,,,urn:lsid:ipni.org:names:862665-1,wfo-0000933890,5610876,,
+7c429336-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Cyclonema,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 262 (1861)",,,,,,urn:lsid:ipni.org:names:862666-1,wfo-0000933891,7731592,,
+7c42af24-8fcd-11eb-924d-9cd76263cbd0,species,spinescens,Cyclonema,,Oliv.,0,1876,,"J. Linn. Soc., Bot. 15: 96 (1876)",,Q55758889,,,,urn:lsid:ipni.org:names:862667-1,wfo-0000933892,5610871,,
+7c42c8e2-8fcd-11eb-924d-9cd76263cbd0,species,sylvaticum,Cyclonema,,Hochst.,0,1842,,"Flora 25: 227 (1842)",,,,,,urn:lsid:ipni.org:names:862668-1,wfo-0000933893,5610869,,
+7c42e58e-8fcd-11eb-924d-9cd76263cbd0,species,tettense,Cyclonema,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 261 (1861)",,,,,,urn:lsid:ipni.org:names:862669-1,wfo-0000933894,5610867,,
+7c42ff6a-8fcd-11eb-924d-9cd76263cbd0,species,triphyllum,Cyclonema,,Harv.,0,1860,,"Thes. Cap. 1: 17 (1860)",,,,,,urn:lsid:ipni.org:names:862670-1,wfo-0000933895,5610864,,
+c71c753a-8fd1-11eb-924d-9cd76263cbd0,species,tubulosa,Cyclopasania,,"(Hickel & A.Camus) Nakai",0,,,,,,,f043dd96-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0001267118,8038949,,

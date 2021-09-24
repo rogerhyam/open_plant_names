@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df951860-8fd1-11eb-924d-9cd76263cbd0,genus,Apatophyllum,,,McGill.,Q3036069,1971,,"Kew Bull. 25: 401. 1971.",,Q43234981,,,,6518-1,wfo-4000002588,7265788,,
-a0e9aa4a-8fcc-11eb-924d-9cd76263cbd0,species,constablei,Apatophyllum,,McGill.,Q3036069,1971,,"Kew Bull. 25: 403 1971",,Q43234981,,,,159961-1,wfo-0000539810,3794481,,
-a0e9c9ee-8fcc-11eb-924d-9cd76263cbd0,species,flavovirens,Apatophyllum,,"A.R.Bean & Jessup","Q4772089,Q21517014",2000,,"Austrobaileya 5: 693 2000",,Q92299130,,,,1018316-1,wfo-0000539811,3794471,,
-a0e9e41a-8fcc-11eb-924d-9cd76263cbd0,species,macgillivrayi,Apatophyllum,,"Cranfield & Lander","Q19263359,Q21388272",1992,,"Nuytsia 8: 191 1992",,,,,,961031-1,wfo-0000539812,3794454,,
-a0e9ff40-8fcc-11eb-924d-9cd76263cbd0,species,olsenii,Apatophyllum,,McGill.,Q3036069,1971,,"Kew Bull. 25: 405 1971",,Q43234981,,,,159962-1,wfo-0000539813,3794433,,
-a0ea3802-8fcc-11eb-924d-9cd76263cbd0,species,teretifolium,Apatophyllum,,"A.R.Bean & Jessup","Q4772089,Q21517014",2000,,"Austrobaileya 5: 693 2000",,Q92299130,,,,1018315-1,wfo-0000539815,3794426,,
+df951860-8fd1-11eb-924d-9cd76263cbd0,genus,Apatophyllum,,,McGill.,0,1971,,"Kew Bull. 25: 401 (1971)",,Q43234981,,,,urn:lsid:ipni.org:names:6518-1,wfo-4000002588,7265788,,
+a0e9aa4a-8fcc-11eb-924d-9cd76263cbd0,species,constablei,Apatophyllum,,McGill.,0,1971,,"Kew Bull. 25: 403 (1971)",,Q43234981,,,,urn:lsid:ipni.org:names:159961-1,wfo-0000539810,3794481,,
+a0e9c9ee-8fcc-11eb-924d-9cd76263cbd0,species,flavovirens,Apatophyllum,,"A.R.Bean & Jessup",0,2000,,"Austrobaileya 5: 693 (2000)",,Q92299130,,,,urn:lsid:ipni.org:names:1018316-1,wfo-0000539811,3794471,,
+a0e9e41a-8fcc-11eb-924d-9cd76263cbd0,species,macgillivrayi,Apatophyllum,,"Cranfield & Lander",0,1992,,"Nuytsia 8: 191 (1992)",,,,,,urn:lsid:ipni.org:names:961031-1,wfo-0000539812,3794454,,
+a0e9ff40-8fcc-11eb-924d-9cd76263cbd0,species,olsenii,Apatophyllum,,McGill.,0,1971,,"Kew Bull. 25: 405 (1971)",,Q43234981,,,,urn:lsid:ipni.org:names:159962-1,wfo-0000539813,3794433,,
+a0ea3802-8fcc-11eb-924d-9cd76263cbd0,species,teretifolium,Apatophyllum,,"A.R.Bean & Jessup",0,2000,,"Austrobaileya 5: 693 (2000)",,Q92299130,,,,urn:lsid:ipni.org:names:1018315-1,wfo-0000539815,3794426,,

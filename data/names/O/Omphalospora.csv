@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e78bfcaa-8fd1-11eb-924d-9cd76263cbd0,genus,Omphalospora,,,"Theiss. & Syd.",,1915,,"Annls mycol. 13(3/4): 361 (1915)",,,,e78bfcaa-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000026827,8338974,3571," "
-20c5a0d4-9bad-11eb-a8a2-19ed5c03f8d3,species,acanthaceifolii,Omphalospora,,"Bat., Peres & J.L. Bezerra",Q4079389,1967,,"Atas Inst. Micol. Univ. Recife 4: 36 (1967)",,,,20c5a0d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335396," "
-83956ee8-9bac-11eb-a8a2-19ed5c03f8d3,species,ambiens,Omphalospora,,"(Lib.) Theiss. & Syd.",Q470036,1915,,"Annls mycol. 13(3/4): 362 (1915)",,,,f4e977a2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,181648," "
-b33f753a-9bac-11eb-a8a2-19ed5c03f8d3,species,beijerinckii,Omphalospora,,Oudem.,Q205419,,,,,,,b33f753a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,455573," "
-24300e04-9bac-11eb-a8a2-19ed5c03f8d3,species,himantia,Omphalospora,,"(Pers.) Höhn.","Q346451,Q4502879",1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 601 (1919)",,,,5f5be8ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101631," "
-2430db72-9bac-11eb-a8a2-19ed5c03f8d3,species,melaena,Omphalospora,,"(Fr.) Höhn.","Q15405,Q4502879",1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 603 (1919)",,,,98aa26f2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101634,"  Based on an anamorphic name, though it is also used for the teleomorph"
-3eaecde2-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Omphalospora,,"(All.) Fourr.","Q161420,Q925866",1869,,"Ann. Soc. Linn. Lyon n.s., 17: 129 1869",,,,5bc7d360-8fcc-11eb-924d-9cd76263cbd0,,806472-1,wfo-0000388654,8123901,,
-4121bbca-9bac-11eb-a8a2-19ed5c03f8d3,species,silenes,Omphalospora,,"(Niessl) Höhn.",Q4502879,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 603 (1919)",,,,03fc80ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503123," "
-83b41686-9bac-11eb-a8a2-19ed5c03f8d3,species,stellariae,Omphalospora,,"(Lib.) Theiss. & Syd.",Q470036,1915,,"Annls mycol. 13(3/4): 361 (1915)",,,,5b998848-9bac-11eb-a8a2-19ed5c03f8d3,,,,,181905," "
+e78bfcaa-8fd1-11eb-924d-9cd76263cbd0,genus,Omphalospora,,,Bartl.,,1915,,"Ord. Nat. Pl. : 171 (1830)",,,,e78bfcaa-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:37866-1,wfo-4000026827,8338974,3571," "
+20c5a0d4-9bad-11eb-a8a2-19ed5c03f8d3,species,acanthaceifolii,Omphalospora,,"Bat., Peres & J.L. Bezerra",0,1967,,"Atas Inst. Micol. Univ. Recife 4: 36 (1967)",,,,20c5a0d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,335396," "
+83956ee8-9bac-11eb-a8a2-19ed5c03f8d3,species,ambiens,Omphalospora,,"(Lib.) Theiss. & Syd.",0,1915,,"Annls mycol. 13(3/4): 362 (1915)",,,,f4e977a2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,181648," "
+b33f753a-9bac-11eb-a8a2-19ed5c03f8d3,species,beijerinckii,Omphalospora,,Oudem.,0,,,,,,,b33f753a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,455573," "
+24300e04-9bac-11eb-a8a2-19ed5c03f8d3,species,himantia,Omphalospora,,"(Pers.) Höhn.",0,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 601 (1919)",,,,5f5be8ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101631," "
+2430db72-9bac-11eb-a8a2-19ed5c03f8d3,species,melaena,Omphalospora,,"(Fr.) Höhn.",0,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 603 (1919)",,,,98aa26f2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101634,"  Based on an anamorphic name, though it is also used for the teleomorph"
+3eaecde2-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Omphalospora,,"(All.) Fourr.",0,1869,,"Ann. Soc. Linn. Lyon sér. 2, 17: 129. 1869",,,,5bc7d360-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:806472-1,wfo-0000388654,8123901,,
+4121bbca-9bac-11eb-a8a2-19ed5c03f8d3,species,silenes,Omphalospora,,"(Niessl) Höhn.",0,1919,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 128: 603 (1919)",,,,03fc80ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503123," "
+83b41686-9bac-11eb-a8a2-19ed5c03f8d3,species,stellariae,Omphalospora,,"(Lib.) Theiss. & Syd.",0,1915,,"Annls mycol. 13(3/4): 361 (1915)",,,,5b998848-9bac-11eb-a8a2-19ed5c03f8d3,,,,,181905," "
 0ffcace4-9bac-11eb-a8a2-19ed5c03f8d3,species,stellerae,Omphalospora,,Murashk.,,,,,,,,0ffcace4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,181789," "
-fd100648-9bac-11eb-a8a2-19ed5c03f8d3,species,tragacanthae,Omphalospora,,"(Lév.) Petr.","Q1375120,Q4360385",1940,,"Annls mycol. 38(2/4): 185 (1940)",,,,07673cd8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,302025," "
-3eacd7c6-8fcc-11eb-924d-9cd76263cbd0,species,triphylla,Omphalospora,,Fourr.,Q925866,1869,,"Ann. Soc. Linn. Lyon n.s., 17: 129 1869",,,,,,806473-1,wfo-0000388645,7568451,,
+fd100648-9bac-11eb-a8a2-19ed5c03f8d3,species,tragacanthae,Omphalospora,,"(Lév.) Petr.",0,1940,,"Annls mycol. 38(2/4): 185 (1940)",,,,07673cd8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,302025," "
+3eacd7c6-8fcc-11eb-924d-9cd76263cbd0,species,triphylla,Omphalospora,,Fourr.,0,1869,,"Ann. Soc. Linn. Lyon , n.s., 17: 129 (1869)",,,,,,urn:lsid:ipni.org:names:806473-1,wfo-0000388645,7568451,,

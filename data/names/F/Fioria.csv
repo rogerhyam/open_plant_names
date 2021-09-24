@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3bbf26a-8fd1-11eb-924d-9cd76263cbd0,genus,Fioria,,,Mattei,Q3767180,1917,,"Boll. Reale Orto Bot. Giardino Colon. Palermo 2: 71. 1917.",,,,,,,wfo-4000014790,3152680,,
-fb7eff6e-8fcc-11eb-924d-9cd76263cbd0,species,dictyocarpa,Fioria,,"(Webb) Mattei","Q1113837,Q3767180",1917,,"Boll. Reale Orto Bot. Palermo n.s., 2: 74 1917",,,,,,559564-1,wfo-0000691013,5617836,,
-fb7f25a2-8fcc-11eb-924d-9cd76263cbd0,species,pavonioides,Fioria,,"(Fiori) Mattei","Q3605723,Q3767180",1917,,"Boll. Reale Orto Bot. Palermo n.s., 2: 74 1917",,,,0de351d2-8fcd-11eb-924d-9cd76263cbd0,,559565-1,wfo-0000691014,5617835,,
-fb7f758e-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Fioria,,"(L.) Mattei","Q1043,Q3767180",1917,,"Boll. Reale Orto Bot. Palermo n.s., 2: 72 1917",,,,,,559566-1,wfo-0000691015,5406792,,
-fb7fa19e-8fcc-11eb-924d-9cd76263cbd0,species,yunnanensis,Fioria,,"(Hy) Abedin","Q5872206,Q16142861",1977,,"Pakistan J. Bot. 9: 60 1977",,,,,,559567-1,wfo-0000691016,8536642,,
+e3bbf26a-8fd1-11eb-924d-9cd76263cbd0,genus,Fioria,,,Mattei,0,1917,,"Boll. Reale Orto Bot. Palermo , n.s., 2: 71 (1917)",,,,,,urn:lsid:ipni.org:names:25874-1,wfo-4000014790,3152680,,
+fb7eff6e-8fcc-11eb-924d-9cd76263cbd0,species,dictyocarpa,Fioria,,"(Webb) Mattei",0,1917,,"Boll. Reale Orto Bot. Palermo , n.s., 2: 74 (1917)",,,,,,urn:lsid:ipni.org:names:559564-1,wfo-0000691013,5617836,,
+fb7f25a2-8fcc-11eb-924d-9cd76263cbd0,species,pavonioides,Fioria,,"(Fiori) Mattei",0,1917,,"Boll. Reale Orto Bot. Palermo , n.s., 2: 74 (1917)",,,,0de351d2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:559565-1,wfo-0000691014,5617835,,
+fb7f758e-8fcc-11eb-924d-9cd76263cbd0,species,vitifolia,Fioria,,"(L.) Mattei",0,1917,,"Boll. Reale Orto Bot. Palermo , n.s., 2: 72 (1917)",,,,,,urn:lsid:ipni.org:names:559566-1,wfo-0000691015,5406792,,
+fb7fa19e-8fcc-11eb-924d-9cd76263cbd0,species,yunnanensis,Fioria,,"(S.Y.Hu) Abedin",0,1977,,"Pakistan J. Bot. 9: 60 (1977)",,,,,,urn:lsid:ipni.org:names:559567-1,wfo-0000691016,8536642,,

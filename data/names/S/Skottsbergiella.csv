@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9a69d266-9bad-11eb-a8a2-19ed5c03f8d3,genus,Skottsbergiella,,,Petr.,Q4360385,1927,,"in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. 2: 481 (1927)",,,,9a69d266-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5042," "
-b7151aa2-8fd1-11eb-924d-9cd76263cbd0,species,colobanthoides,Skottsbergiella,,"(Skottsb.) Boelcke","Q942078,Q4101589",,,,,,,aba91b0a-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001237585,5375303,,
-bc9230aa-9bac-11eb-a8a2-19ed5c03f8d3,species,diaporthoides,Skottsbergiella,,Petr.,Q4360385,1927,,"in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. 2: 481 (1927)",,,,bc9230aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263123," "
-0d738876-8fcc-11eb-924d-9cd76263cbd0,species,fernandezia,Skottsbergiella,,"(Colla) Epling","Q2475971,Q924619",1935,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 1 1935",,,,,,459145-1,wfo-0000311405,5606896,,
-b7153712-8fd1-11eb-924d-9cd76263cbd0,species,sorianoi,Skottsbergiella,,Boelcke,Q4101589,,,,,,,,,,wfo-0001237586,5375302,,
-9d44df80-8fcd-11eb-924d-9cd76263cbd0,species,skottsbergii,,,Bitter,Q68945,1921,,"; 1921 239 1921",,Q55753194,,,,287828-2,wfo-0001004517,,,
+9a69d266-9bad-11eb-a8a2-19ed5c03f8d3,genus,Skottsbergiella,,,Petr.,0,1927,,"in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. 2: 481 (1927)",,,,9a69d266-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5042," "
+b7151aa2-8fd1-11eb-924d-9cd76263cbd0,species,colobanthoides,Skottsbergiella,,"(Skottsb.) Boelcke",0,,,"Hickenia 1: 309 (1982)",,,,aba91b0a-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:237373-2,wfo-0001237585,5375303,,
+bc9230aa-9bac-11eb-a8a2-19ed5c03f8d3,species,diaporthoides,Skottsbergiella,,Petr.,0,1927,,"in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. 2: 481 (1927)",,,,bc9230aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,263123," "
+0d738876-8fcc-11eb-924d-9cd76263cbd0,species,fernandezia,Skottsbergiella,,"(Colla) Epling",0,1935,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 1 (1935)",,,,,,urn:lsid:ipni.org:names:459145-1,wfo-0000311405,5606896,,
+b7153712-8fd1-11eb-924d-9cd76263cbd0,species,sorianoi,Skottsbergiella,,Boelcke,0,,,"Hickenia 1: 309 (1982)",,,,,,urn:lsid:ipni.org:names:285145-2,wfo-0001237586,5375302,,

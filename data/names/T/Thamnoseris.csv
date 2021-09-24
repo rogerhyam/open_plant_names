@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb4220f4-8fd1-11eb-924d-9cd76263cbd0,genus,Thamnoseris,,,F.Phil.,Q55070761,,,,,,,,,11280-1,wfo-4000038082,3232203,,
-8c057546-8fb3-11eb-924d-9cd76263cbd0,species,lacerata,Thamnoseris,,"(Phil.) F.Phil.","Q214994,Q55070761",1875,,"Anales Univ. Chile (1875) 191",,,,31211216-8fb3-11eb-924d-9cd76263cbd0,,255457-1,wfo-0000050392,5694114,,
-18de7ef0-8fb3-11eb-924d-9cd76263cbd0,species,lobata,Thamnoseris,,I.M.Johnst.,Q729850,1935,,"445 1935",,Q100558977,,,,250905-2,wfo-0000041505,5694113,,
+eb4220f4-8fd1-11eb-924d-9cd76263cbd0,genus,Thamnoseris,,,F.Phil.,0,,,"Anales Univ. Chile (1875) 191.",,,,,,urn:lsid:ipni.org:names:11280-1,wfo-4000038082,3232203,,
+8c057546-8fb3-11eb-924d-9cd76263cbd0,species,lacerata,Thamnoseris,,F.Phil.,0,1875,,"Anales Univ. Chile (1875) 191",,,,31211216-8fb3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255457-1,wfo-0000050392,5694114,,
+ef48a2fa-1d47-11ec-82c2-f14daa6f2d93,form,lacerata,Thamnoseris,lacerata,,,,,"Anales Univ. Chile 47: 190 (1875)",,,,,,,wfo-0000124057,,,
+18de7ef0-8fb3-11eb-924d-9cd76263cbd0,species,lobata,Thamnoseris,,I.M.Johnst.,0,1935,,"J. Arnold Arbor. 16: 445 (1935)",,Q100558977,,,,urn:lsid:ipni.org:names:250905-2,wfo-0000041505,5694113,,

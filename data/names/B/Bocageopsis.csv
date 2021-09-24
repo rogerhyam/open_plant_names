@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e04e47b8-8fd1-11eb-924d-9cd76263cbd0,genus,Bocageopsis,,,R.E.Fr.,Q15414,1931,,"Acta Horti Berg. 10: 143, f. 1e, 2. 1931.",,,,,,296751-2,wfo-4000004847,3156935,,
-b29f2f08-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Bocageopsis,,"(Benth.) R.E.Fr.","Q731808,Q15414",1931,,"Acta Horti Berg. 10: 147 1931",,,,,,34049-2,wfo-0000567116,8573869,,
-b29f4fc4-8fcc-11eb-924d-9cd76263cbd0,species,mattogrossensis,Bocageopsis,,"(R.E.Fr.) R.E.Fr.",Q15414,1931,,"Acta Horti Berg. 10: 147 1931",,,,,,34050-2,wfo-0000567117,3156944,,
-b29f78c8-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Bocageopsis,,"(Mart.) R.E.Fr.","Q77131,Q15414",1931,,"Acta Horti Berg. 10: 145 1931",,,,,,34051-2,wfo-0000567118,3156936,,
-b29fcd28-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolia,Bocageopsis,multiflora,R.E.Fr.,Q15414,1931,,"Acta Horti Berg. 10: 147 1931",,,,,,34052-2,wfo-0000567119,3156938,,
-b2a005fe-8fcc-11eb-924d-9cd76263cbd0,species,pleiosperma,Bocageopsis,,Maas,Q1333334,1986,,"Proc. Kon. Nederl. Akad. Wetensch., C 89: 249 1986",,,,,,273353-2,wfo-0000567120,3156940,,
+e04e47b8-8fd1-11eb-924d-9cd76263cbd0,genus,Bocageopsis,,,R.E.Fr.,0,1931,,"Acta Horti Berg. 10: 143 (1931)",,,,,,urn:lsid:ipni.org:names:296751-2,wfo-4000004847,3156935,,
+b29f2f08-8fcc-11eb-924d-9cd76263cbd0,species,canescens,Bocageopsis,,R.E.Fr.,0,1931,,"Acta Horti Berg. 10: 147 (1931)",,,,,,urn:lsid:ipni.org:names:34049-2,wfo-0000567116,8573869,,
+b29f4fc4-8fcc-11eb-924d-9cd76263cbd0,species,mattogrossensis,Bocageopsis,,R.E.Fr.,0,1931,,"Acta Horti Berg. 10: 147 (1931)",,,,,,urn:lsid:ipni.org:names:34050-2,wfo-0000567117,3156944,,
+b29f78c8-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Bocageopsis,,R.E.Fr.,0,1931,,"Acta Horti Berg. 10: 145 (1931)",,,,,,urn:lsid:ipni.org:names:34051-2,wfo-0000567118,3156936,,
+b29fcd28-8fcc-11eb-924d-9cd76263cbd0,variety,angustifolia,Bocageopsis,multiflora,R.E.Fr.,0,1931,,"Acta Horti Berg. 10: 147 (1931)",,,,,,urn:lsid:ipni.org:names:34052-2,wfo-0000567119,3156938,,
+b2a005fe-8fcc-11eb-924d-9cd76263cbd0,species,pleiosperma,Bocageopsis,,Maas,0,1986,,"Proc. Kon. Ned. Akad. Wetensch. C 89: 249 (1986)",,,,,,urn:lsid:ipni.org:names:273353-2,wfo-0000567120,3156940,,

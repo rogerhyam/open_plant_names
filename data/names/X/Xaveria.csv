@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec216142-8fd1-11eb-924d-9cd76263cbd0,genus,Xaveria,,,Endl.,Q78605,1850,,"Gen. Pl. Suppl. 5: 30. 1850.",,,,,,,wfo-4000040908,7276707,,
-5dca9cec-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Xaveria,,"Endl. ex Walp.","Q78605,Q77671",1851,,"Ann. Bot. Syst. 2: 12 1851",,,,,,715213-1,wfo-0000428493,3921573,,
-1be3b1f6-8fcc-11eb-924d-9cd76263cbd0,species,altissimum,Xeilyathum,,"(Jacq.) Raf.","Q84497,Q364857",1837,,"Fl. Tellur. 2: 62 1837",,,,,,661432-1,wfo-0000334960,2834443,,
+ec216142-8fd1-11eb-924d-9cd76263cbd0,genus,Xaveria,,,Endl.Gen.,0,1850,,"Gen. Pl. , Suppl. 5: 30 (1850)",,,,,,urn:lsid:ipni.org:names:33268-1,wfo-4000040908,7276707,,
+5dca9cec-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Xaveria,,"Endl. ex Walp.",0,1851,,"Ann. Bot. Syst. 2: 12 (1851)",,,,,,urn:lsid:ipni.org:names:715213-1,wfo-0000428493,3921573,,
+1be3b1f6-8fcc-11eb-924d-9cd76263cbd0,species,altissimum,Xeilyathum,,Raf.,0,1837,,"Fl. Tellur. 2: 62 (1837)",,,,,,urn:lsid:ipni.org:names:661432-1,wfo-0000334960,2834443,,

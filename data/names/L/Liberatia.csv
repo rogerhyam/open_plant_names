@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5e73d2e-8fd1-11eb-924d-9cd76263cbd0,genus,Liberatia,,,Rizzini,Q4394947,1947,,"Bol. Mus. Nac. Hist. Nat., Santiago de Chile ser. 2. Bot. 8: 21. 1947.",,,,,,290201-2,wfo-4000021664,7263735,,
-3024ede2-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Liberatia,,R.C.Foster,Q6109414,1946,,"Contr. Gray Herb. 161: 4 1946",,Q94389101,,,,139681-2,wfo-0000367431,3774757,,
-3024d38e-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Liberatia,,Gunckel,Q158476,1928,,"Revista Chilena Hist. Nat 21: 87 1928",,,,,,139682-2,wfo-0000367430,3774749,,
-3024b6ec-8fcc-11eb-924d-9cd76263cbd0,species,colombiana,Liberatia,,R.C.Foster,Q6109414,1939,,"Contr. Gray Herb. 127: 44 1939",,Q94388538,,,,139683-2,wfo-0000367429,3774742,,
-add92b62-8fcd-11eb-924d-9cd76263cbd0,species,diandra,Liberatia,,"(Nees) Rizzini","Q76349,Q4394947",1947,,"Bol. Mus. Nac. Rio de Janeiro, Bot. 8: 21 1947",,,,add90ed4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001038809,3774724,,
-da3c46d2-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,Liberbaileya,,"(Burret) Burret & Potztal","Q78365,Q5852521",1956,,"Willdenowia 1: 530 1956",,,,,,667832-1,wfo-0000227386,2736120,,
-da3c834a-8fcb-11eb-924d-9cd76263cbd0,species,lankawiensis,Liberbaileya,,Furtado,Q5739033,1941,,"Gard. Bull. Straits Settlem. 11: 238 1941",,,,,,667833-1,wfo-0000227388,2736122,,
+e5e73d2e-8fd1-11eb-924d-9cd76263cbd0,genus,Liberatia,,,Rizzini,0,1947,,"Bol. Mus. Nac. Rio de Janeiro, Bot. 8: 21 (1947)",,,,,,urn:lsid:ipni.org:names:290201-2,wfo-4000021664,7263735,,
+3024ede2-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Liberatia,,R.C.Foster,0,1946,,"Contr. Gray Herb. 161: 4 (1946)",,Q94389101,,,,urn:lsid:ipni.org:names:139681-2,wfo-0000367431,3774757,,
+3024d38e-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Liberatia,,Gunckel,0,1928,,"Revista Chilena Hist. Nat. 21: 87 (1928)",,,,,,urn:lsid:ipni.org:names:139682-2,wfo-0000367430,3774749,,
+3024b6ec-8fcc-11eb-924d-9cd76263cbd0,species,colombiana,Liberatia,,R.C.Foster,0,1939,,"Contr. Gray Herb. 127: 44 (1939)",,Q94388538,,,,urn:lsid:ipni.org:names:139683-2,wfo-0000367429,3774742,,
+add92b62-8fcd-11eb-924d-9cd76263cbd0,species,diandra,Liberatia,,"(Nees) Rizzini",0,1947,,"Bol. Mus. Nac. Rio de Janeiro, Bot. 8: 22 (1947)",,,,add90ed4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:139680-2,wfo-0001038809,3774724,,

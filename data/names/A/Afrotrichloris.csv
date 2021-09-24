@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-def4ba0a-8fd1-11eb-924d-9cd76263cbd0,genus,Afrotrichloris,,,Chiov.,Q2348823,1915,,"Ann. Bot. (Rome) 13(3): 371. 1915.",,,,,,17383-1,wfo-4000000870,4136033,,
-469b117c-8fcd-11eb-924d-9cd76263cbd0,species,hyaloptera,Afrotrichloris,,Clayton,Q6167600,1967,,"Kew Bull. 21: 105 1967",,Q55779093,,,,384755-1,wfo-0000842082,4136038,,
-469b2c2a-8fcd-11eb-924d-9cd76263cbd0,species,martini,Afrotrichloris,,Chiov.,Q2348823,1914,,"Ann. Bot. (Rome) 13: 372 1914",,,,,,384756-1,wfo-0000842083,,,
+def4ba0a-8fd1-11eb-924d-9cd76263cbd0,genus,Afrotrichloris,,,Chiov.,0,1915,,"Ann. Bot. (Rome) 13: 371 (1915)",,,,,,urn:lsid:ipni.org:names:17383-1,wfo-4000000870,4136033,,
+469b117c-8fcd-11eb-924d-9cd76263cbd0,species,hyaloptera,Afrotrichloris,,Clayton,0,1967,,"Kew Bull. 21: 105 (1967)",,Q55779093,,,,urn:lsid:ipni.org:names:384755-1,wfo-0000842082,4136038,,
+469b2c2a-8fcd-11eb-924d-9cd76263cbd0,species,martinii,Afrotrichloris,,Chiov.,0,1914,,"Ann. Bot. (Rome) 13: 372 (1914)",,,,,,urn:lsid:ipni.org:names:384756-1,wfo-0000842083,,,

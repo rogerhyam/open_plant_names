@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb98ba2c-8fd1-11eb-924d-9cd76263cbd0,genus,Trillesanthus,,,Pierre,Q2593213,1904,,"Tab. Herb. L.Pierre 1904.",,,,,,,wfo-4000039191,9721487,,
-195a3274-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Trillesanthus,,"(Gilg) Sosef","Q77655,Q21609227",2010,,"Blumea 55: 90 2010",,Q54552633,,,,77104999-1,wfo-0000745660,7542023,,
-195a4d72-8fcd-11eb-924d-9cd76263cbd0,species,excelsus,Trillesanthus,,Pierre,Q2593213,1901,,"Tab. Herb. L.Pierre t. 5/1901 1904",,,,,,,wfo-0000745661,7866944,,
-195a1258-8fcd-11eb-924d-9cd76263cbd0,species,macrourus,Trillesanthus,,"(Gilg) Sosef","Q77655,Q21609227",2010,,"Blumea 55: 90 2010",,Q54552633,,,,77105000-1,wfo-0000745659,8095562,,
-1b7c21e8-8fcd-11eb-924d-9cd76263cbd0,species,govanianum,Trillidium,,"(Wall. ex D.Don) Kunth","Q730310,Q1174244,Q77074",1850,,"Enum. Pl. 5: 120 1850",,,,1be3b664-8fcd-11eb-924d-9cd76263cbd0,,542505-1,wfo-0000750212,2742252,,
-1b7b8134-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Trillidium,,"Franch. & Sav.","Q377208,Q246459",1878,,"Enum. Pl. Jap. 2: 525 1878",,,,,,542506-1,wfo-0000750207,2741869,,
+eb98ba2c-8fd1-11eb-924d-9cd76263cbd0,genus,Trillesanthus,,,Pierre,0,1904,,"Tab. Herb. L.Pierre : t. 5/1901 (1904)",,,,,,urn:lsid:ipni.org:names:77104997-1,wfo-4000039191,9721487,,
+195a3274-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Trillesanthus,,"(Gilg) Sosef",0,2010,,"Blumea 55(1): 90. 2010 [16 Apr 2010]",,Q54552633,,,,urn:lsid:ipni.org:names:77104999-1,wfo-0000745660,7542023,,
+195a4d72-8fcd-11eb-924d-9cd76263cbd0,species,excelsus,Trillesanthus,,Pierre,0,1901,,"Tab. Herb. L.Pierre 1904",,,,,,urn:lsid:ipni.org:names:77104998-1,wfo-0000745661,7866944,,
+195a1258-8fcd-11eb-924d-9cd76263cbd0,species,macrourus,Trillesanthus,,"(Gilg) Sosef",0,2010,,"Blumea 55(1): 90. 2010 [16 Apr 2010]",,Q54552633,,,,urn:lsid:ipni.org:names:77105000-1,wfo-0000745659,8095562,,
+1b7c21e8-8fcd-11eb-924d-9cd76263cbd0,species,govanianum,Trillidium,,"(Wall. ex D.Don) Kunth",0,1850,,"Enum. Pl. 5: 120 (1850)",,,,1be3b664-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:542505-1,wfo-0000750212,2742252,,
+1b7b8134-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Trillidium,,"Franch. & Sav.",0,1878,,"Enum. Pl. Jap. 2: 525 (1878)",,,,,,urn:lsid:ipni.org:names:542506-1,wfo-0000750207,2741869,,

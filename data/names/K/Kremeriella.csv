@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e57123a0-8fd1-11eb-924d-9cd76263cbd0,genus,Kremeriella,,,Maire,Q2661320,1932,,"Cat. Pl. Maroc. 2: 293. 1932.",,,,,,12715-1,wfo-4000020229,3047140,,
-ad0c6ee2-8fcd-11eb-924d-9cd76263cbd0,species,cordylocarpus,Kremeriella,,"(Coss. & Durieu) Maire","Q1276939,Q703990,Q2661320",1932,,"Cat. Pl. Horti Camald. 2: 293 1932",,,,aca648ba-8fcd-11eb-924d-9cd76263cbd0,,285966-1,wfo-0001036980,3047141,,
-acd0e66a-8fcd-11eb-924d-9cd76263cbd0,variety,atrichocarpa,Kremeriella,cordylocarpus,Maire,Q2661320,1946,,"Bull. Soc. Bot. France 36: 89 1946",,,,,,,wfo-0001036453,3047144,,
+e57123a0-8fd1-11eb-924d-9cd76263cbd0,genus,Kremeriella,,,Maire,0,1932,,"Cat. Pl. Maroc 2: 293 (1932)",,,,,,urn:lsid:ipni.org:names:12715-1,wfo-4000020229,3047140,,
+ad0c6ee2-8fcd-11eb-924d-9cd76263cbd0,species,cordylocarpus,Kremeriella,,"(Coss. & Durieu) Maire",0,1932,,"Cat. Pl. Maroc 2: 293 (1932)",,,,aca648ba-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:285966-1,wfo-0001036980,3047141,,
+acd0e66a-8fcd-11eb-924d-9cd76263cbd0,variety,atrichocarpa,Kremeriella,cordylocarpus,Maire,0,1946,,"Bull. Soc. Bot. France 36: 89 1946",,,,,,,wfo-0001036453,3047144,,

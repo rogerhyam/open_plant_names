@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb266ec2-8fd1-11eb-924d-9cd76263cbd0,genus,Telestria,,,,,,,,,,,,,,wfo-4000037712,7301890,,
-5343d59a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Telestria,,"(L.) Raf.","Q1043,Q364857",1838,,"Sylva Tellur. 122 1838",,,,,,520204-1,wfo-0000414810,3969140,,
-53440650-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Telestria,,Raf.,Q364857,1838,,"Sylva Tellur. 122 1838",,,,,,520205-1,wfo-0000414811,3969135,,
+eb266ec2-8fd1-11eb-924d-9cd76263cbd0,genus,Telestria,,,Raf.,,,,"Sylva Tellur. : 122 (1838)",,,,,,urn:lsid:ipni.org:names:23666-1,wfo-4000037712,7301890,,
+5343d59a-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Telestria,,"(L.) Raf.",0,1838,,"Sylva Tellur. : 122 (1838)",,,,,,urn:lsid:ipni.org:names:520204-1,wfo-0000414810,3969140,,
+53440650-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Telestria,,"(Lam.) Raf.",0,1838,,"Sylva Tellur. : 122 (1838)",,,,,,urn:lsid:ipni.org:names:520205-1,wfo-0000414811,3969135,,

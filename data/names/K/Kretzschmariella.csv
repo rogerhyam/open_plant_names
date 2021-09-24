@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a015bf54-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kretzschmariella,,,Viégas,Q21611725,1944,,"Bragantia 4(1-6): 105 (1944)",,,,a015bf54-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2590," "
-36576360-9bad-11eb-a8a2-19ed5c03f8d3,species,culmorum,Kretzschmariella,,"(Cooke) Y.M. Ju & J.D. Rogers",Q2351239,1994,,"Mycotaxon 51: 242 (1994)",,,,95c3acba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,362245," "
-eb45dafa-9bac-11eb-a8a2-19ed5c03f8d3,species,guaduae,Kretzschmariella,,Viégas,Q21611725,1944,,"Bragantia 4(1-6): 105 (1944)",,,,eb45dafa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,287377," "
-1d3d2202-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Kreysigia,,"(D.Don) F.Muell.","Q1174244,Q708002",1869,,"Fragm. 7: 71 1869",,,,1b26786a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000753748,2740355,,
-f38829e8-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Kreysigia,,"(R.Br.) Rchb.","Q155764,Q58053",1830,,"Iconogr. Bot. Exot. 3: 11 1830",,,,,,537122-1,wfo-0000676695,2740366,,
-1d3d05b0-8fcd-11eb-924d-9cd76263cbd0,species,tripladenia,Kreysigia,,F.Muell.,Q708002,1874,,"Fragm. 8: 280 1874",,,,,,,wfo-0000753747,2740356,,
+a015bf54-9bad-11eb-a8a2-19ed5c03f8d3,genus,Kretzschmariella,,,Viégas,0,1944,,"Bragantia 4(1-6): 105 (1944)",,,,a015bf54-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2590," "
+36576360-9bad-11eb-a8a2-19ed5c03f8d3,species,culmorum,Kretzschmariella,,"(Cooke) Y.M. Ju & J.D. Rogers",0,1994,,"Mycotaxon 51: 242 (1994)",,,,95c3acba-9bac-11eb-a8a2-19ed5c03f8d3,,,,,362245," "
+eb45dafa-9bac-11eb-a8a2-19ed5c03f8d3,species,guaduae,Kretzschmariella,,Viégas,0,1944,,"Bragantia 4(1-6): 105 (1944)",,,,eb45dafa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,287377," "
+1d3d2202-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Kreysigia,,"(D.Don) F.Muell.",0,1869,,"Fragm. 7: 71 (1870)",,,,1b26786a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:537121-1,wfo-0000753748,2740355,,
+f38829e8-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Kreysigia,,"(R.Br.) Rchb.",0,1830,,"Iconogr. Bot. Exot. 3: 11 (1830)",,,,,,urn:lsid:ipni.org:names:537122-1,wfo-0000676695,2740366,,
+1d3d05b0-8fcd-11eb-924d-9cd76263cbd0,species,tripladenia,Kreysigia,,F.Muell.,0,1874,,"Fragm. 8: 280 (1874)",,,,,,urn:lsid:ipni.org:names:166432-3,wfo-0000753747,2740356,,

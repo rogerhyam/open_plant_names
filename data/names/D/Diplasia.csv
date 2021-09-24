@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2d8731e-8fd1-11eb-924d-9cd76263cbd0,genus,Diplasia,,,Pers.,Q346451,1805,,"Syn. Pl. 1: 70. 1805.",,,,,,13713-1,wfo-4000011931,2718554,,
-45149950-8fcc-11eb-924d-9cd76263cbd0,species,karatifolia,Diplasia,,"Rich. ex Pers.","Q714754,Q346451",1805,,"Syn. Pl. 1: 70 1805",,,,,,,wfo-0000396925,5292120,,
-4514de42-8fcc-11eb-924d-9cd76263cbd0,species,pycnostachya,Diplasia,,Benth.,Q731808,1877,,"J. Linn. Soc., Bot. 15: 512 1877",,Q29541403,,,,306586-1,wfo-0000396927,5292681,,
-45152d52-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Diplasia,,E.G.Camus,Q3823236,1910,,"Notul. Syst. (Paris) 1: 250 1910",,,,,,306587-1,wfo-0000396929,5292543,,
+e2d8731e-8fd1-11eb-924d-9cd76263cbd0,genus,Diplasia,,,Rich.,0,1805,,"Syn. Pl. 1: 70 (1805)",,,,,,urn:lsid:ipni.org:names:13713-1,wfo-4000011931,2718554,,
+45149950-8fcc-11eb-924d-9cd76263cbd0,species,karatifolia,Diplasia,,Rich.,0,1805,,"Syn. Pl. 1: 70 (1805)",,,,,,urn:lsid:ipni.org:names:306585-1,wfo-0000396925,5292120,,
+4514de42-8fcc-11eb-924d-9cd76263cbd0,species,pycnostachya,Diplasia,,Benth.,0,1877,,"J. Linn. Soc., Bot. 15: 512 (1877)",,Q29541403,,,,urn:lsid:ipni.org:names:306586-1,wfo-0000396927,5292681,,
+45152d52-8fcc-11eb-924d-9cd76263cbd0,species,tonkinensis,Diplasia,,E.G.Camus,0,1910,,"Notul. Syst. (Paris) 1: 250 (1910)",,,,,,urn:lsid:ipni.org:names:306587-1,wfo-0000396929,5292543,,

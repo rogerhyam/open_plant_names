@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e63dc1d0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrosphyra,,,Hook.f.,Q157501,1873,,"Gen. Pl. 2: 86. 1873.",,,,,,34870-1,wfo-4000022776,4938001,,
-dd0dcf5c-8fcb-11eb-924d-9cd76263cbd0,species,brachysiphon,Macrosphyra,,Wernham,Q5894710,1917,,"J. Bot. 55: 79 1917",,,,,,755532-1,wfo-0000232680,2904942,,
-dd0dec6c-8fcb-11eb-924d-9cd76263cbd0,species,brachystylis,Macrosphyra,,Hiern,Q3568881,1898,,"Cat. Afr. Pl. 1: 463 1898",,,,,,755533-1,wfo-0000232681,2904950,,
-dd0e06c0-8fcb-11eb-924d-9cd76263cbd0,species,longistyla,Macrosphyra,,"(DC.) Hiern","Q123057,Q3568881",1877,,"Fl. Trop. Afr. 3: 106 1877",,,,02e550e2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000232682,2904943,,
-dd0e289e-8fcb-11eb-924d-9cd76263cbd0,species,paleacea,Macrosphyra,,"(A.Rich.) K.Schum.","Q340247,Q63545",1891,,"Nat. Pflanzenfam. 4(4): 77 1891",,,,,,755535-1,wfo-0000232683,2904947,,
-dd0e420c-8fcb-11eb-924d-9cd76263cbd0,species,redingii,Macrosphyra,,"De Wild.",Q2628388,1915,,"Bull. Jard. Bot. État 5: 25 1915",,Q55775560,,,,755536-1,wfo-0000232684,2917614,,
+e63dc1d0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrosphyra,,,Hook.f.,0,1873,,"Gen. Pl. 2: 86 (1873)",,,,,,urn:lsid:ipni.org:names:34870-1,wfo-4000022776,4938001,,
+dd0dcf5c-8fcb-11eb-924d-9cd76263cbd0,species,brachysiphon,Macrosphyra,,Wernham,0,1917,,"J. Bot. 55: 79 (1917)",,,,,,urn:lsid:ipni.org:names:755532-1,wfo-0000232680,2904942,,
+dd0dec6c-8fcb-11eb-924d-9cd76263cbd0,species,brachystylis,Macrosphyra,,Hiern,0,1898,,"Cat. Afr. Pl. 1: 463 (1898)",,,,,,urn:lsid:ipni.org:names:755533-1,wfo-0000232681,2904950,,
+dd0e06c0-8fcb-11eb-924d-9cd76263cbd0,species,longistyla,Macrosphyra,,"(DC.) Hook.f. ex Hiern",0,1877,,"Fl. Trop. Afr. 3: 106 (1877)",,,,02e550e2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77166764-1,wfo-0000232682,2904943,,
+dd0e289e-8fcb-11eb-924d-9cd76263cbd0,species,paleacea,Macrosphyra,,K.Schum.,0,1891,,"Nat. Pflanzenfam. 4(4): 77 (1891)",,,,,,urn:lsid:ipni.org:names:755535-1,wfo-0000232683,2904947,,
+dd0e420c-8fcb-11eb-924d-9cd76263cbd0,species,redingi,Macrosphyra,,"De Wild.",0,1915,,"Bull. Jard. Bot. État Bruxelles 5: 25 (1915)",,Q55775560,,,,urn:lsid:ipni.org:names:755536-1,wfo-0000232684,2917614,,

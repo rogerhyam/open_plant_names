@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 0244733e-9bac-11eb-a8a2-19ed5c03f8d3,genus,Chrysoporthella,,,"Gryzenh. & M.J. Wingf.",,2004,,"Stud. Mycol. 50(1): 130 (2004)",,,,0244733e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,28848," "
 ef4a0474-9bab-11eb-a8a2-19ed5c03f8d3,species,hodgesiana,Chrysoporthella,,"Gryzenh. & M.J. Wingf.",,2004,invalid,"in Gryzenhout, Myburg, van der Merwe, Wingfield & Wingfield, Stud. Mycol. 50(1): 135 (2004)",,,,ef4a0474-9bab-11eb-a8a2-19ed5c03f8d3,,,,,500036,"Nom. inval., Art. 43.1 "
-d97b7590-8fb9-11eb-924d-9cd76263cbd0,species,pendula,Chrysoprenanthes,,"(Sch.Bip.) Bramwell","Q65685,Q5574480",2003,,"182 2003",,,,89183866-8fbb-11eb-924d-9cd76263cbd0,,50425856-2,wfo-0000121904,3105731,,
-7b952a54-8fb7-11eb-924d-9cd76263cbd0,subspecies,flaccida,Chrysoprenanthes,pendula,"(Svent.) Bramwell","Q1354090,Q5574480",2004,,"163 2004",,,,6c804180-8fb6-11eb-924d-9cd76263cbd0,,77062987-1,wfo-0000100173,4230936,,
+d97b7590-8fb9-11eb-924d-9cd76263cbd0,species,pendula,Chrysoprenanthes,,"(Sch.Bip.) Bramwell",0,2003,,"Unknown 24: 182 (2003) (2003)",,,,89183866-8fbb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:50425856-2,wfo-0000121904,3105731,,
+7b952a54-8fb7-11eb-924d-9cd76263cbd0,subspecies,flaccida,Chrysoprenanthes,pendula,"(Svent.) Bramwell",0,2004,,"Bot. Macaronés. 25: 163 (2004)",,,,6c804180-8fb6-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77062987-1,wfo-0000100173,4230936,,
+b2062110-1d47-11ec-82c2-f14daa6f2d93,subspecies,pendula,Chrysoprenanthes,pendula,,,,,,,,,,,,wfo-0000048167,,,

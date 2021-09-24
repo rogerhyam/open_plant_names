@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec54811c-8fd1-11eb-924d-9cd76263cbd0,genus,Ewartiothamnus,,,Anderb.,Q4065252,1991,,"Opera Bot. 104: 94 (1991). (1991)",,,,,,956816-1,wfo-4001303208,3120405,,
-a75be838-8fc8-11eb-924d-9cd76263cbd0,species,botschantzevii,Ewersmannia,,Sarkisova,Q26712663,,,,,,,,,,wfo-0000209007,2943934,,
-a7845e3a-8fc8-11eb-924d-9cd76263cbd0,species,sogdiana,Ewersmannia,,Ovcz.,Q3372959,,,,,,,,,,wfo-0000209011,2943932,,
-a7acbac4-8fc8-11eb-924d-9cd76263cbd0,species,subspinosa,Ewersmannia,,"(DC.) B.Fedtsch.","Q123057,Q2910947",,,,,,,,,,wfo-0000209014,2943927,,
+ec54811c-8fd1-11eb-924d-9cd76263cbd0,genus,Ewartiothamnus,,,Anderb.,0,1991,,"Opera Bot. 104: 94 (1991). (1991)",,,,,,urn:lsid:ipni.org:names:956816-1,wfo-4001303208,3120405,,
+561a6ca2-1d4d-11ec-82c2-f14daa6f2d93,species,sinclairii,Ewartiothamnus,,"(Hook.f.) Anderb.",,,,"Opera Bot. 104: 95 (1991): (1991)",,,,,,urn:lsid:ipni.org:names:962973-1,wfo-0001348530,,,
+a75be838-8fc8-11eb-924d-9cd76263cbd0,species,botschantzevii,Ewersmannia,,Sarkisova,0,,,,,,,,,,wfo-0000209007,2943934,,
+a7845e3a-8fc8-11eb-924d-9cd76263cbd0,species,sogdiana,Ewersmannia,,Ovcz.,0,,,,,,,,,,wfo-0000209011,2943932,,
+a7acbac4-8fc8-11eb-924d-9cd76263cbd0,species,subspinosa,Ewersmannia,,"(DC.) B.Fedtsch.",0,,,,,,,,,,wfo-0000209014,2943927,,

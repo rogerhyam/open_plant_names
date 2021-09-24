@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e72d3076-8fd1-11eb-924d-9cd76263cbd0,genus,Neogyna,,,Rchb.f.,Q62820,1852,,"Bot. Zeitung (Berlin) 10: 931. 1852.",,,,,,30066-1,wfo-4000025703,4935324,,
-e6dd5052-8fcb-11eb-924d-9cd76263cbd0,species,gardneriana,Neogyna,,"(Lindl.) Rchb.f.","Q378629,Q62820",1852,,"Bot. Zeitung (Berlin) 10: 931 1852",,,,6b9eadda-8fcd-11eb-924d-9cd76263cbd0,,645249-1,wfo-0000250107,2828298,,
-6d9b823e-8fcd-11eb-924d-9cd76263cbd0,variety,basiquinquelamellata,Neogyna,gardneriana,"Tang & F.T.Wang","Q943634,Q8960669",1951,,"Acta Phytotax. Sin. 1: 79 1951",,,,,,,wfo-0000910681,5951897,,
-6d9ba638-8fcd-11eb-924d-9cd76263cbd0,variety,basitrilamellata,Neogyna,gardneriana,"Tang & F.T.Wang","Q943634,Q8960669",1951,,"Acta Phytotax. Sin. 1: 79 1951",,,,,,,wfo-0000910682,5951898,,
+e72d3076-8fd1-11eb-924d-9cd76263cbd0,genus,Neogyna,,,Rchb.f.,0,1852,,"Bot. Zeitung (Berlin) 10: 931 (1852)",,,,,,urn:lsid:ipni.org:names:30066-1,wfo-4000025703,4935324,,
+e6dd5052-8fcb-11eb-924d-9cd76263cbd0,species,gardneriana,Neogyna,,Rchb.f.,0,1852,,"Bot. Zeitung (Berlin) 10: 931 (1852)",,,,6b9eadda-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:645249-1,wfo-0000250107,2828298,,
+6d9b823e-8fcd-11eb-924d-9cd76263cbd0,variety,basiquinquelamellata,Neogyna,gardneriana,"Tang & F.T.Wang",0,1951,,"Acta Phytotax. Sin. 1: 79 1951",,,,,,,wfo-0000910681,5951897,,
+6d9ba638-8fcd-11eb-924d-9cd76263cbd0,variety,basitrilamellata,Neogyna,gardneriana,"Tang & F.T.Wang",0,1951,,"Acta Phytotax. Sin. 1: 79 1951",,,,,,,wfo-0000910682,5951898,,

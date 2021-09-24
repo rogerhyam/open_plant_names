@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e12c81ae-8fd1-11eb-924d-9cd76263cbd0,genus,Cantleya,,,Ridl.,Q733709,,,"Fl. Malay. Penin. 1: 436.",,,,,,19875-1,wfo-4000006568,7314400,,
-bd1e0440-8fcc-11eb-924d-9cd76263cbd0,species,corniculata,Cantleya,,"(Becc.) R.A.Howard","Q361037,Q7323572",1940,,"J. Arnold Arbor. 21: 479 1940",,Q100547577,,,,434231-1,wfo-0000584098,3596897,,
-bd1e20b0-8fcc-11eb-924d-9cd76263cbd0,species,johorica,Cantleya,,Ridl.,Q733709,1922,,"Fl. Malay Penins. 1: 436 1922",,,,,,434232-1,wfo-0000584099,3596883,,
+e12c81ae-8fd1-11eb-924d-9cd76263cbd0,genus,Cantleya,,,Ridl.,0,,,"Fl. Malay Penins. 1: 436 (1922)",,,,,,urn:lsid:ipni.org:names:19875-1,wfo-4000006568,7314400,,
+bd1e0440-8fcc-11eb-924d-9cd76263cbd0,species,corniculata,Cantleya,,"(Becc.) R.A.Howard",0,1940,,"J. Arnold Arbor. 21: 479 (1940)",,Q100547577,,,,urn:lsid:ipni.org:names:434231-1,wfo-0000584098,3596897,,
+bd1e20b0-8fcc-11eb-924d-9cd76263cbd0,species,johorica,Cantleya,,Ridl.,0,1922,,"Fl. Malay Penins. 1: 436 (1922)",,,,,,urn:lsid:ipni.org:names:434232-1,wfo-0000584099,3596883,,

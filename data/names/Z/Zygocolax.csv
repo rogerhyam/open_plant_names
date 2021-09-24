@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec40b0b0-8fd1-11eb-924d-9cd76263cbd0,genus,Zygocolax,,,Rolfe,Q2635543,1887,,"Gard. Chron., ser. 3 1: 765. 1887.",,,,,,,wfo-4000041323,7320404,,
-c418cb44-8fcd-11eb-924d-9cd76263cbd0,species,veitchii,Zygocolax,,Rolfe,Q2635543,,,"Not listed in IK.",,,,,,,wfo-0001089188,3651711,,
+ec40b0b0-8fd1-11eb-924d-9cd76263cbd0,genus,Zygocolax,,,Rolfe,0,1887,,"Gard. Chron., ser. 3 1: 765. 1887.",,,,,,urn:lsid:ipni.org:names:50655833-1,wfo-4000041323,7320404,,
+1c428276-8fcc-11eb-924d-9cd76263cbd0,species,leopardinum,Zygocolax,,hort.,0,1889,,"Gard. Chron. ser. 3, 5: 809. 1889 ; Veitch, Man. Orch. Pl. 9: (1893) 66; Will. Orch. Grow. Mun. ed. 7 (1894) 758",,,,,,urn:lsid:ipni.org:names:661662-1,wfo-0000335610,,,
+1c429d06-8fcc-11eb-924d-9cd76263cbd0,species,veitchii,Zygocolax,,Rolfe,0,1887,,"Gard. Chron. , ser. 3, 1: 765 (1887)",,,,1c5be2ac-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:661663-1,wfo-0000335611,,,
+c418cb44-8fcd-11eb-924d-9cd76263cbd0,species,veitchii,Zygocolax,,Rolfe,0,,,"Not listed in IK.",,,,,,,wfo-0001089188,3651711,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7ed8fec-8fd1-11eb-924d-9cd76263cbd0,genus,Pappostyles,,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 2: 1268. 1897.",,,,,,,wfo-4000027943,7271125,,
-ae9d000a-8fcd-11eb-924d-9cd76263cbd0,species,neuropetalum,Pappostyles,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 2: 1269 1897",,,,,,826632-1,wfo-0001040582,3848562,,
-e252e83a-8fb2-11eb-924d-9cd76263cbd0,species,cernua,Pappothrix,,"(Greene) Rydb.","Q2661665,Q1905130",1914,,"N. Amer. Fl. 34 27 1914",,,,6526536a-8fb2-11eb-924d-9cd76263cbd0,,182872-2,wfo-0000036697,4247698,,
-5691bfa4-8fb9-11eb-924d-9cd76263cbd0,species,cinerea,Pappothrix,,"(A.Gray) Rydb.","Q347356,Q1905130",1914,,"N. Amer. Fl. 34 27 1914",,,,,,182873-2,wfo-0000117510,3146415,,
-0bb729e0-8fb6-11eb-924d-9cd76263cbd0,species,quinqueflora,Pappothrix,,"(Steyerm.) Everly","Q250148,Q21512463",1947,,"379 1947",,,,bb13fc1a-8fbb-11eb-924d-9cd76263cbd0,,182874-2,wfo-0000085062,3146465,,
-f3c9bc54-8fb4-11eb-924d-9cd76263cbd0,species,rupestris,Pappothrix,,"(A.Gray) Rydb.","Q347356,Q1905130",1914,,"N. Amer. Fl. 34 26 1914",,,,3c7c5be2-8fb4-11eb-924d-9cd76263cbd0,,236444-1,wfo-0000072043,3146461,,
+e7ed8fec-8fd1-11eb-924d-9cd76263cbd0,genus,Pappostyles,,,Pierre,0,,,"Bull. Mens. Soc. Linn. Paris ii. (1896) 1268.",,,,,,urn:lsid:ipni.org:names:38930-1,wfo-4000027943,7271125,,
+ae9d000a-8fcd-11eb-924d-9cd76263cbd0,species,neuropetalum,Pappostyles,,Pierre,0,,,"Bull. Mens. Soc. Linn. Paris ii. (1896) 1269.",,,,,,urn:lsid:ipni.org:names:826632-1,wfo-0001040582,3848562,,
+e252e83a-8fb2-11eb-924d-9cd76263cbd0,species,cernua,Pappothrix,,"(Greene) Rydb.",0,1914,,"N. Amer. Fl. 34(1): 27 (1914)",,,,6526536a-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:182872-2,wfo-0000036697,4247698,,
+5691bfa4-8fb9-11eb-924d-9cd76263cbd0,species,cinerea,Pappothrix,,"(A.Gray) Rydb.",0,1914,,"N. Amer. Fl. 34(1): 27 (1914)",,,,,,urn:lsid:ipni.org:names:182873-2,wfo-0000117510,3146415,,
+0bb729e0-8fb6-11eb-924d-9cd76263cbd0,species,quinqueflora,Pappothrix,,"(Steyerm.) Everly",0,1947,,"Contr. Dudley Herb. 3: 379 (1947)",,,,bb13fc1a-8fbb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:182874-2,wfo-0000085062,3146465,,
+f3c9bc54-8fb4-11eb-924d-9cd76263cbd0,species,rupestris,Pappothrix,,Rydb.,0,1914,,"N. Amer. Fl. 34(1): 26. 1914 [31 Dec 1914]",,,,3c7c5be2-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:236444-1,wfo-0000072043,3146461,,

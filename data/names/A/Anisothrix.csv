@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df7a1c72-8fd1-11eb-924d-9cd76263cbd0,genus,Anisothrix,,,"O.Hoffm. ex Kuntze","Q4147110,Q62853",,,,,,,,,7642-1,wfo-4000002218,8182934,,
-f431cc92-8fb2-11eb-924d-9cd76263cbd0,species,integra,Anisothrix,,"(Compton) Anderb.","Q4230109,Q4065252",1988,,"370 1988",,,,ff8158c4-8fb7-11eb-924d-9cd76263cbd0,,945204-1,wfo-0000038278,5393721,,
-0187e04e-8fb2-11eb-924d-9cd76263cbd0,species,kuntzei,Anisothrix,,"O.Hoffm. ex Kuntze","Q4147110,Q62853",1898,,"129 1898",,,,,,,wfo-0000003799,8421398,,
+df7a1c72-8fd1-11eb-924d-9cd76263cbd0,genus,Anisothrix,,,"O.Hoffm. ex Kuntze",0,,,"Revis. Gen. Pl. 3[3]: 129 (1898)",,,,,,urn:lsid:ipni.org:names:7642-1,wfo-4000002218,8182934,,
+f431cc92-8fb2-11eb-924d-9cd76263cbd0,species,integra,Anisothrix,,"(Compton) Anderb.",0,1988,,"Bot. Jahrb. Syst. 109(3): 370 (1988)",,,,ff8158c4-8fb7-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:945204-1,wfo-0000038278,5393721,,
+0187e04e-8fb2-11eb-924d-9cd76263cbd0,species,kuntzei,Anisothrix,,O.Hoffm.,0,1898,,"Revis. Gen. Pl. 3[3]: 129 (1898)",,,,,,urn:lsid:ipni.org:names:176817-1,wfo-0000003799,8421398,,

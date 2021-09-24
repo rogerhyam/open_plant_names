@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9d8950de-9bad-11eb-a8a2-19ed5c03f8d3,genus,Piline,,,Theiss.,,1917,,"Annls mycol. 14(6): 409 (1917)",,,,9d8950de-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4103," "
 68043a4c-9bac-11eb-a8a2-19ed5c03f8d3,species,africana,Piline,,Syd.,,1924,,"Annls mycol. 22(3-6): 422 (1924)",,,,68043a4c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,255996," "
-fe8110da-9bac-11eb-a8a2-19ed5c03f8d3,species,hamata,Piline,,"(Penz. & Sacc.) Hansf.","Q3887349,Q707840",1955,,"Sydowia 9: 86 (1955)",,,,fad3b6e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,303651," "
+fe8110da-9bac-11eb-a8a2-19ed5c03f8d3,species,hamata,Piline,,"(Penz. & Sacc.) Hansf.",0,1955,,"Sydowia 9: 86 (1955)",,,,fad3b6e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,303651," "
 a788b134-9bac-11eb-a8a2-19ed5c03f8d3,species,splendens,Piline,,"(Pat.) Theiss.",,1917,,"Annls mycol. 14(6): 409 (1917)",,,,71f88602-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431998," "
-3257bba2-8fcd-11eb-924d-9cd76263cbd0,species,capitatum,Pilinophytum,,"(Michx.) Klotzsch","Q521848,Q67003",1841,,"Arch. Naturgesch. 7: 255 1841",,,,,,354913-1,wfo-0000798908,3058741,,
-f572cd90-8fcb-11eb-924d-9cd76263cbd0,species,lindheimeri,Pilinophytum,,"Engelm. & A.Gray","Q214946,Q347356",1845,,"Boston J. Nat. Hist. 5: 232 1845",,,,,,196482-2,wfo-0000273340,3058744,,
+3257bba2-8fcd-11eb-924d-9cd76263cbd0,species,capitatum,Pilinophytum,,Klotzsch,0,1841,,"Arch. Naturgesch. 7: 255 (1841)",,,,,,urn:lsid:ipni.org:names:354913-1,wfo-0000798908,3058741,,
+f572cd90-8fcb-11eb-924d-9cd76263cbd0,species,lindheimeri,Pilinophytum,,"Engelm. & A.Gray",0,1845,,"Boston J. Nat. Hist. 5: 232 (1845)",,,,,,urn:lsid:ipni.org:names:196482-2,wfo-0000273340,3058744,,

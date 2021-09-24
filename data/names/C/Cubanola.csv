@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e24186c0-8fd1-11eb-924d-9cd76263cbd0,genus,Cubanola,,,Aiello,Q8200247,1979,,"J. Arnold Arbor. 60(1): 111–113. 1979. (Jan 1979)",,Q100559428,,,,298249-2,wfo-4000009989,2893010,,
-7c0eedec-8fcd-11eb-924d-9cd76263cbd0,species,daphnoides,Cubanola,,"(Graham) Aiello","Q586655,Q8200247",1979,,"J. Arnold Arbor. 60: 112 1979",,Q100559428,,fa68d970-8fcb-11eb-924d-9cd76263cbd0,,72065-2,wfo-0000933426,2893011,,
-7c0f09bc-8fcd-11eb-924d-9cd76263cbd0,species,domingensis,Cubanola,,"(Britton) Aiello","Q553714,Q8200247",1979,,"J. Arnold Arbor. 60: 113 1979",,Q100559428,,,,72066-2,wfo-0000933427,2893015,,
-7c0f278a-8fcd-11eb-924d-9cd76263cbd0,species,brittonii,Cubanthus,,Millsp.,Q2585363,1913,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 372 1913",,,,,,72067-2,wfo-0000933428,3069664,,
-7c0f528c-8fcd-11eb-924d-9cd76263cbd0,species,linearifolius,Cubanthus,,"(Griseb.) Millsp.","Q76351,Q2585363",1913,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 2: 372 1913",,,,,,72068-2,wfo-0000933429,3069699,,
-7c0f8ee6-8fcd-11eb-924d-9cd76263cbd0,species,umbelliformis,Cubanthus,,"Urb. & Ekman","Q64845,Q541549",1926,,"Ark. Bot. 20A(15): 68 1926",,,,,,72069-2,wfo-0000933431,3068800,,
+e24186c0-8fd1-11eb-924d-9cd76263cbd0,genus,Cubanola,,,Aiello,0,1979,,"J. Arnold Arbor. 60: 111 (1979)",,Q100559428,,,,urn:lsid:ipni.org:names:298249-2,wfo-4000009989,2893010,,
+7c0eedec-8fcd-11eb-924d-9cd76263cbd0,species,daphnoides,Cubanola,,"(Graham) Aiello",0,1979,,"J. Arnold Arbor. 60: 112 (1979)",,Q100559428,,fa68d970-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:72065-2,wfo-0000933426,2893011,,
+7c0f09bc-8fcd-11eb-924d-9cd76263cbd0,species,domingensis,Cubanola,,"(Britton) Aiello",0,1979,,"J. Arnold Arbor. 60: 113 (1979)",,Q100559428,,,,urn:lsid:ipni.org:names:72066-2,wfo-0000933427,2893015,,
+7c0f278a-8fcd-11eb-924d-9cd76263cbd0,species,brittonii,Cubanthus,,Millsp.,0,1913,,"Publ. Field Columb. Mus., Bot. Ser. 2: 372 (1913)",,,,,,urn:lsid:ipni.org:names:72067-2,wfo-0000933428,3069664,,
+7c0f528c-8fcd-11eb-924d-9cd76263cbd0,species,linearifolius,Cubanthus,,Millsp.,0,1913,,"Publ. Field Columb. Mus., Bot. Ser. 2: 372 (1913)",,,,,,urn:lsid:ipni.org:names:72068-2,wfo-0000933429,3069699,,
+7c0f8ee6-8fcd-11eb-924d-9cd76263cbd0,species,umbelliformis,Cubanthus,,"Urb. & Ekman",0,1926,,"Ark. Bot. 20A(15): 68 (1926)",,,,,,urn:lsid:ipni.org:names:72069-2,wfo-0000933431,3068800,,

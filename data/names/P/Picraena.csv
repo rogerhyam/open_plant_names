@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e880ebe8-8fd1-11eb-924d-9cd76263cbd0,genus,Picraena,,,Lindl.,Q378629,1838,,"Fl. Med. 208. 1838.",,,,,,,wfo-4000029614,7885733,,
-778848fa-8fcc-11eb-924d-9cd76263cbd0,species,amara,Picraena,,Steven,Q967040,1832,,"Bull. Soc. Imp. Naturalistes Moscou 4: 263 1832",,,,,,514322-1,wfo-0000469813,3975607,,
-7a6c9db4-8fcc-11eb-924d-9cd76263cbd0,species,antillana,Picraena,,"(Eggers) Fawc. & Rendle","Q5627792,Q3568610,Q2615406",1920,,"Fl. Jamaica 4: 201 1920",,,,48db54b6-8fcc-11eb-924d-9cd76263cbd0,,195944-2,wfo-0000474791,7634336,,
-7a6cbef2-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Picraena,,"(Sw.) Lindl.","Q632088,Q378629",1838,,"Fl. Med. 208 1838",,,,,,813863-1,wfo-0000474792,3708878,,
-db96ccf8-8fcd-11eb-924d-9cd76263cbd0,species,palo-amargo,Picraena,,Speg.,Q648013,1923,,"Physis (Buenos Aires) 7: 93 1923",,,,,,195945-2,wfo-0001140381,3708868,,
-db8eaaa0-8fcd-11eb-924d-9cd76263cbd0,species,vellozii,Picraena,,"(Planch.) Engl.","Q1387276,Q60718",1874,,"Fl. Bras. 12(2): 227 1874",,,,db96909e-8fcd-11eb-924d-9cd76263cbd0,,813865-1,wfo-0001140320,3708861,,
+e880ebe8-8fd1-11eb-924d-9cd76263cbd0,genus,Picraena,,,Lindl.,0,1838,,"Fl. Med. : 208 (1838)",,,,,,urn:lsid:ipni.org:names:38224-1,wfo-4000029614,7885733,,
+778848fa-8fcc-11eb-924d-9cd76263cbd0,species,amara,Picraena,,Steven,0,1832,,"Bull. Soc. Imp. Naturalistes Moscou 4: 263. 1832",,,,,,urn:lsid:ipni.org:names:514322-1,wfo-0000469813,3975607,,
+7a6c9db4-8fcc-11eb-924d-9cd76263cbd0,species,antillana,Picraena,,"(Eggers) Fawc. & Rendle",0,1920,,"Fl. Jamaica 4: 201 (1920)",,,,48db54b6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:195944-2,wfo-0000474791,7634336,,
+7a6cbef2-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Picraena,,Lindl.,0,1838,,"Fl. Med. : 208 (1838)",,,,,,urn:lsid:ipni.org:names:813863-1,wfo-0000474792,3708878,,
+db96ccf8-8fcd-11eb-924d-9cd76263cbd0,species,palo-amargo,Picraena,,Speg.,0,1923,,"Physis (Buenos Aires) 7: 93 (1923)",,,,,,urn:lsid:ipni.org:names:195945-2,wfo-0001140381,3708868,,
+db8eaaa0-8fcd-11eb-924d-9cd76263cbd0,species,vellozoi,Picraena,,Engl.,0,1874,,"Fl. Bras. (Martius) 12(2): 227. 1874 [1 Sep 1874]",,,,db96909e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:813865-1,wfo-0001140320,3708861,,

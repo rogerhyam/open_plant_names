@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7b9e912-8fd1-11eb-924d-9cd76263cbd0,genus,Oryzidium,,,"C.E.Hubbard & Schweick.",Q86268,1936,,"Bull. Misc. Inform. Kew 1936(5): 326, f. 2. 1936.",,Q55781774,,,,18640-1,wfo-4000027353,4135151,,
-5935f4fa-8fcd-11eb-924d-9cd76263cbd0,species,barnardii,Oryzidium,,"C.E.Hubb. & Schweick.","Q2353716,Q86268",1936,,"Bull. Misc. Inform. Kew 1936: 328 1936",,Q55781774,,,,410132-1,wfo-0000882473,4135150,,
-4624eab0-8fcd-11eb-924d-9cd76263cbd0,species,oryzoides,,,"C.P.Wang & S.H.Tang","Q26714135,Q36684090",1982,,"Acta Phytotax. Sin. 20: 179 1982",,,,,,900418-1,wfo-0000841128,,,
+e7b9e912-8fd1-11eb-924d-9cd76263cbd0,genus,Oryzidium,,,"C.E.Hubb. & Schweick.",0,1936,,"Bull. Misc. Inform. Kew 1936: 326 (1936)",,Q55781774,,,,urn:lsid:ipni.org:names:18640-1,wfo-4000027353,4135151,,
+5935f4fa-8fcd-11eb-924d-9cd76263cbd0,species,barnardii,Oryzidium,,"C.E.Hubb. & Schweick.",0,1936,,"Bull. Misc. Inform. Kew 1936: 328 (1936)",,Q55781774,,,,urn:lsid:ipni.org:names:410132-1,wfo-0000882473,4135150,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e20b8228-8fd1-11eb-924d-9cd76263cbd0,genus,Cormophyllum,,,Newman,Q1231633,1857,,"Phytologist, n.s. 5: 237. 1857.",,,,,,,wfo-4000009322,7314575,,
-d48e5b56-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Cormophyllum,,"(L.) Newman","Q1043,Q1231633",1857,,"Phytologist, n.s. 5: 238 1857",,,,,,,wfo-0001125049,3599236,,
-3d27e946-8fbc-11eb-924d-9cd76263cbd0,species,capense,Cormophyllum,,Newman,Q1231633,1854,,"Phytologist 5. 238. 1854 1854",,,,,,17070420-1,wfo-0000139807,3599032,,
-3d30fa68-8fbc-11eb-924d-9cd76263cbd0,species,horridum,Cormophyllum,,Newman,Q1231633,1854,,"Phytologist 5. 238. 1854 1854",,,,,,17070430-1,wfo-0000139808,3599023,,
+e20b8228-8fd1-11eb-924d-9cd76263cbd0,genus,Cormophyllum,,,Newman,0,1857,,"Phytologist 5: 237 (1857)",,,,,,urn:lsid:ipni.org:names:328000-2,wfo-4000009322,7314575,,
+d48e5b56-8fcd-11eb-924d-9cd76263cbd0,species,arboreum,Cormophyllum,,"(L.) Newman",0,1857,,"Phytologist 5: 238 (1854)",,,,,,urn:lsid:ipni.org:names:1116409-2,wfo-0001125049,3599236,,
+3d27e946-8fbc-11eb-924d-9cd76263cbd0,species,capense,Cormophyllum,,Newman,0,1854,,"Phytologist 5: 238 (1854)",,,,,,urn:lsid:ipni.org:names:17070420-1,wfo-0000139807,3599032,,
+3d30fa68-8fbc-11eb-924d-9cd76263cbd0,species,horridum,Cormophyllum,,Newman,0,1854,,"Phytologist 5. 238. 1854 (1854)",,,,,,urn:lsid:ipni.org:names:17070430-1,wfo-0000139808,3599023,,

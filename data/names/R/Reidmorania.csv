@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec6d9436-8fd1-11eb-924d-9cd76263cbd0,genus,Reidmorania,,,Kimnach,Q6035255,2017,,"Cact. Succ. J. (Los Angeles) 89: 17 (2017)",,Q43091631,,,,77161061-1,wfo-4001303385,9437121,,
-472557ac-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Reifferscheidia,,C.Presl,Q379601,1835,,"Reliq. Haenk. 2: 74 1835",,,,,,,wfo-0000399324,4162972,,
-8f58561e-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Reigera,,"(L.) Opiz","Q1043,Q55069871",1852,,"Seznam 83 1852",,,,,,311802-1,wfo-0000510114,2718373,,
-34ee4200-8fcd-11eb-924d-9cd76263cbd0,variety,tuberosus,Reigera,maritimus,"(Desf.) Opiz","Q545953,Q55069871",1852,,"Seznam 83 1852",,,,a55e0300-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000804243,2718349,,
+ec6d9436-8fd1-11eb-924d-9cd76263cbd0,genus,Reidmorania,,,Kimnach,0,2017,,"Cact. Succ. J. (Los Angeles) 89: 17 (2017)",,Q43091631,,,,urn:lsid:ipni.org:names:77161061-1,wfo-4001303385,9437121,,
+55ec0e16-1d4d-11ec-82c2-f14daa6f2d93,species,occidentalis,Reidmorania,,"(Rose ex E.Walther) Kimnach",,,,"Cact. Succ. J. (Los Angeles) 89: 17 (2017)",,,,,,urn:lsid:ipni.org:names:77161064-1,wfo-0001348248,,,
+472557ac-8fcc-11eb-924d-9cd76263cbd0,species,speciosa,Reifferscheidia,,C.Presl,0,1835,,"Reliq. Haenk. 2: 74 (1835)",,,,,,urn:lsid:ipni.org:names:317164-1,wfo-0000399324,4162972,,
+8f58561e-8fcc-11eb-924d-9cd76263cbd0,species,maritima,Reigera,,Opiz,0,1852,,"Seznam : 83 (1852)",,,,,,urn:lsid:ipni.org:names:311802-1,wfo-0000510114,2718373,,
+34ee4200-8fcd-11eb-924d-9cd76263cbd0,variety,tuberosus,Reigera,maritimus,"(Desf.) Opiz",0,1852,,"Seznam 83 1852",,,,a55e0300-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000804243,2718349,,

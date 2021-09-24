@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5c9c30c-8fd1-11eb-924d-9cd76263cbd0,genus,Leptodaphne,,,"Nees & C.Martius in Nees",Q76349,1833,,"Pl. Laur. Expos. 16. 1833.",,,,,,,wfo-4000021260,7304751,,
-2e059c0a-8fcc-11eb-924d-9cd76263cbd0,species,pseudopsychotria,Leptodaphne,,"Nees ex Meisn.","Q76349,Q115909",1866,,"Fl. Bras. 5(2): 238 1866",,,,,,465239-1,wfo-0000364196,4183375,,
-bc352562-8fcd-11eb-924d-9cd76263cbd0,species,subalpina,Leptodaphne,,Nees,Q76349,1836,,"Syst. Laur. 361 1836",,,,,,465240-1,wfo-0001071555,4183357,,
-bc229f3c-8fcd-11eb-924d-9cd76263cbd0,species,tenuiflora,Leptodaphne,,Nees,Q76349,1836,,"Syst. Laur. 359 1836",,,,,,465241-1,wfo-0001071386,7304752,,
+e5c9c30c-8fd1-11eb-924d-9cd76263cbd0,genus,Leptodaphne,,,Nees,0,1833,,"Hufeland. Ill. : 16 (1833)",,,,,,urn:lsid:ipni.org:names:21437-1,wfo-4000021260,7304751,,
+2e059c0a-8fcc-11eb-924d-9cd76263cbd0,species,pseudopsychotria,Leptodaphne,,"Nees ex Meisn.",0,1866,,"Fl. Bras. 5(2): 238 (1866)",,,,,,urn:lsid:ipni.org:names:465239-1,wfo-0000364196,4183375,,
+bc352562-8fcd-11eb-924d-9cd76263cbd0,species,subalpina,Leptodaphne,,Nees,0,1836,,"Syst. Laur. : 361 (1836)",,,,,,urn:lsid:ipni.org:names:465240-1,wfo-0001071555,4183357,,
+bc229f3c-8fcd-11eb-924d-9cd76263cbd0,species,tenuiflora,Leptodaphne,,Nees,0,1836,,"Syst. Laur. : 359 (1836)",,,,,,urn:lsid:ipni.org:names:465241-1,wfo-0001071386,7304752,,
+7762814c-1d4d-11ec-82c2-f14daa6f2d93,variety,monstrosa,Leptodaphne,tenuiflora,Nees,,,,"Syst. Laur. 359. 1836",,,,,,urn:lsid:ipni.org:names:138414-2,wfo-0001393649,,,

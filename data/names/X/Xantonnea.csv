@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec20ece4-8fd1-11eb-924d-9cd76263cbd0,genus,Xantonnea,,,"Pierre ex Pit.","Q2593213,Q2958169",1923,,"Fl. Indo-Chine 3: 270. 1923.",,,,,,35540-1,wfo-4000040903,2897741,,
-1be225c0-8fcc-11eb-924d-9cd76263cbd0,species,coffeoides,Xantonnea,,"Pierre ex Pit.","Q2593213,Q2958169",1923,,"Fl. Indo-Chine 3: 271 1923",,,,,,770572-1,wfo-0000334952,2897744,,
-1be24122-8fcc-11eb-924d-9cd76263cbd0,variety,salicifolia,Xantonnea,coffeoides,"Pierre ex Pit.","Q2593213,Q2958169",1923,,"Fl. Indo-Chine 3: 272 1923",,,,,,,wfo-0000334953,2897745,,
-1be25e5a-8fcc-11eb-924d-9cd76263cbd0,species,hoaensis,Xantonnea,,"Pierre ex Pit.","Q2593213,Q2958169",1923,,"Fl. Indo-Chine 3: 270 1923",,,,,,770573-1,wfo-0000334954,2900137,,
-1be2875e-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Xantonnea,,"(Kuntze) Craib","Q62853,Q4243070",1932,,"Fl. Siam. 2: 130 1932",,,,,,770574-1,wfo-0000334955,2897742,,
-1be3220e-8fcc-11eb-924d-9cd76263cbd0,species,quocensis,Xantonnea,,"Pierre ex Pit.","Q2593213,Q2958169",1923,,"Fl. Indo-Chine 3: 272 1923",,,,,,770575-1,wfo-0000334956,2897747,,
+ec20ece4-8fd1-11eb-924d-9cd76263cbd0,genus,Xantonnea,,,"Pierre ex Pit.",0,1923,,"Fl. Indo-Chine 3: 270 (1923)",,,,,,urn:lsid:ipni.org:names:35540-1,wfo-4000040903,2897741,,
+1be225c0-8fcc-11eb-924d-9cd76263cbd0,species,coffeoides,Xantonnea,,"Pierre ex Pit.",0,1923,,"Fl. Indo-Chine 3: 271 (1923)",,,,,,urn:lsid:ipni.org:names:770572-1,wfo-0000334952,2897744,,
+1be24122-8fcc-11eb-924d-9cd76263cbd0,variety,salicifolia,Xantonnea,coffeoides,"Pierre ex Pit.",0,1923,,"Fl. Indo-Chine 3: 272 1923",,,,,,,wfo-0000334953,2897745,,
+1be25e5a-8fcc-11eb-924d-9cd76263cbd0,species,hoaensis,Xantonnea,,"Pierre ex Pit.",0,1923,,"Fl. Indo-Chine 3: 270 (1923)",,,,,,urn:lsid:ipni.org:names:770573-1,wfo-0000334954,2900137,,
+1be2875e-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Xantonnea,,"(Kuntze) Craib",0,1932,,"Fl. Siam. 2: 130 (1932)",,,,,,urn:lsid:ipni.org:names:770574-1,wfo-0000334955,2897742,,
+1be3220e-8fcc-11eb-924d-9cd76263cbd0,species,quocensis,Xantonnea,,"Pierre ex Pit.",0,1923,,"Fl. Indo-Chine 3: 272 (1923)",,,,,,urn:lsid:ipni.org:names:770575-1,wfo-0000334956,2897747,,

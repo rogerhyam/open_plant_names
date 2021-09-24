@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9cec2f4-8fd1-11eb-924d-9cd76263cbd0,genus,Rubovietnamia,,,Tirveng.,Q5804720,1998,,"Biogeographica [Paris] 74(4): 166–168, figs. 4, 5, 6. 1998.",,,,,,1004952-1,wfo-4000033579,2896385,,
-0560bc26-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Rubovietnamia,,Tirveng.,Q5804720,1998,,"Biogeographica (The Hague) 74: 167 1998",,,,,,1004953-1,wfo-0000298673,2896386,,
-73bc75e2-8fcd-11eb-924d-9cd76263cbd0,species,nonggangensis,Rubovietnamia,,"F.J.Mou & D.X.Zhang","Q26714474,Q197176",2010,,"Bot. Stud. (Taipei) 51: 123 2010",,Q100530285,,,,77104624-1,wfo-0000918707,5829745,,
+e9cec2f4-8fd1-11eb-924d-9cd76263cbd0,genus,Rubovietnamia,,,Tirveng.,0,1998,,"Biogeographica (The Hague) 74: 166 (1998)",,,,,,urn:lsid:ipni.org:names:1004952-1,wfo-4000033579,2896385,,
+0560bc26-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Rubovietnamia,,Tirveng.,0,1998,,"Biogeographica (The Hague) 74: 167 (1998)",,,,,,urn:lsid:ipni.org:names:1004953-1,wfo-0000298673,2896386,,
+54912c54-1d4d-11ec-82c2-f14daa6f2d93,species,coronula,Rubovietnamia,,"Alejandro & Meve",,,,"Nordic J. Bot. 34: 386 (2016)",,,,,,urn:lsid:ipni.org:names:77157442-1,wfo-0001346454,,,
+73bc75e2-8fcd-11eb-924d-9cd76263cbd0,species,nonggangensis,Rubovietnamia,,"F.J.Mou & D.X.Zhang",0,2010,,"Bot. Stud. (Taipei) 51: 123 (2010)",,Q100530285,,,,urn:lsid:ipni.org:names:77104624-1,wfo-0000918707,5829745,,
+4d1509e6-1d4d-11ec-82c2-f14daa6f2d93,species,sericantha,Rubovietnamia,,"(W.C.Chen) Y.F.Deng, Y.H.Tong, W.B.Xu & N.H.Xia",,,,"Gard. Bull. Singapore 65: 108 (2013)",,,,,,urn:lsid:ipni.org:names:77130882-1,wfo-0001336621,,,

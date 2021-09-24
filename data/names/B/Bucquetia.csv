@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0e75a84-8fd1-11eb-924d-9cd76263cbd0,genus,Bucquetia,,,DC.,Q123057,1828,,"Prodr. 3: 110. 1828.",,,,,,26218-1,wfo-4000005683,3861405,,
-c0f9eee8-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Bucquetia,,"(L.f.) DC.","Q178823,Q123057",1828,,"Prodr. 3: 110 1828",,,,cc45284a-8fd1-11eb-924d-9cd76263cbd0,,566936-1,wfo-0001082322,3861440,,
-c10217ee-8fcd-11eb-924d-9cd76263cbd0,species,nigritella,Bucquetia,,"(Naudin) Triana","Q2245197,Q2495258",1871,,"Trans. Linn. Soc. London 28(1): 23, t. 1, f. 4b 1871",,,,bf8adcac-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001082396,3861421,,
-bf61aca6-8fcd-11eb-924d-9cd76263cbd0,species,vernicosa,Bucquetia,,Gleason,Q1360735,,,,,,,,,,wfo-0001078727,3861404,,
+e0e75a84-8fd1-11eb-924d-9cd76263cbd0,genus,Bucquetia,,,DC.,0,1828,,"Prodr. 3: 110 (1828)",,,,,,urn:lsid:ipni.org:names:26218-1,wfo-4000005683,3861405,,
+c0f9eee8-8fcd-11eb-924d-9cd76263cbd0,species,glutinosa,Bucquetia,,DC.,0,1828,,"Prodr. 3: 110 (1828)",,,,cc45284a-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:566936-1,wfo-0001082322,3861440,,
+c10217ee-8fcd-11eb-924d-9cd76263cbd0,species,nigritella,Bucquetia,,Triana,0,1871,,"Trans. Linn. Soc. London 28: 23 (1871 publ. 1872)",,,,bf8adcac-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:566937-1,wfo-0001082396,3861421,,
+bf61aca6-8fcd-11eb-924d-9cd76263cbd0,species,vernicosa,Bucquetia,,Gleason,0,,,"Fieldiana, Bot. 28: 424 (1952)",,,,,,urn:lsid:ipni.org:names:37697-2,wfo-0001078727,3861404,,

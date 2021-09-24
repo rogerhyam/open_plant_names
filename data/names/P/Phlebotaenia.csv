@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8642abc-8fd1-11eb-924d-9cd76263cbd0,genus,Phlebotaenia,,,Griseb.,Q76351,1860,,"Pl. Wright. 1: 156. 1860.",,,,,,32377-1,wfo-4000029270,7130200,,
-c06e0974-8fd1-11eb-924d-9cd76263cbd0,species,cowellii,Phlebotaenia,,Britton,Q553714,1907,,"Torreya 7(2): 38–39 1907",,,,,,193312-2,wfo-0001254879,3191460,,
-c06dd08a-8fd1-11eb-924d-9cd76263cbd0,species,cuneata,Phlebotaenia,,Griseb.,Q76351,1860,,"Pl. Wright. 1(1): 157 1860",,,,,,690955-1,wfo-0001254877,7293299,,
-cb35e584-8fd1-11eb-924d-9cd76263cbd0,variety,obovata,Phlebotaenia,cuneata,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 14 1866",,,,,,193314-2,wfo-0001274855,4049408,,
-ae34fc8a-8fcd-11eb-924d-9cd76263cbd0,species,portoricensis,Phlebotaenia,,Urb.,Q64845,1908,,"Symb. Antill. 5: 382 1908",,,,,,193315-2,wfo-0001039624,4049392,,
-78d3af24-8fcc-11eb-924d-9cd76263cbd0,species,virgatum,Phledinium,,Spach,Q274449,1838,,"Hist. Nat. Vég. 7: 353 1838",,,,,,711909-1,wfo-0000471966,3930197,,
+e8642abc-8fd1-11eb-924d-9cd76263cbd0,genus,Phlebotaenia,,,Griseb.,0,1860,,"Pl. Wright. 1: 156 (1860)",,,,,,urn:lsid:ipni.org:names:32377-1,wfo-4000029270,7130200,,
+c06e0974-8fd1-11eb-924d-9cd76263cbd0,species,cowellii,Phlebotaenia,,Britton,0,1907,,"Torreya 7: 38 (1907)",,,,,,urn:lsid:ipni.org:names:193312-2,wfo-0001254879,3191460,,
+c06dd08a-8fd1-11eb-924d-9cd76263cbd0,species,cuneata,Phlebotaenia,,Griseb.,0,1860,,"Pl. Wright. (Grisebach) 1: 157. 1860 [Dec 1860] ; preprinted from Mem. Amer. Acad. Arts ser. 2, 8(1): [153]-192. 1861",,,,,,urn:lsid:ipni.org:names:690955-1,wfo-0001254877,7293299,,
+cb35e584-8fd1-11eb-924d-9cd76263cbd0,variety,obovata,Phlebotaenia,cuneata,Griseb.,0,1866,,"Cat. Pl. Cub. [Grisebach] 14. 1866 [May-Aug 1866]",,,,,,urn:lsid:ipni.org:names:193314-2,wfo-0001274855,4049408,,
+ae34fc8a-8fcd-11eb-924d-9cd76263cbd0,species,portoricensis,Phlebotaenia,,Urb.,0,1908,,"Symb. Antill. 5: 382 (1908)",,,,,,urn:lsid:ipni.org:names:193315-2,wfo-0001039624,4049392,,
+78d3af24-8fcc-11eb-924d-9cd76263cbd0,species,virgatum,Phledinium,,Spach,0,1838,,"Hist. Nat. Vég. 7: 353 (1838)",,,,,,urn:lsid:ipni.org:names:711909-1,wfo-0000471966,3930197,,

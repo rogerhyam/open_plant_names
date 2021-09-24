@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2e643ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bovistoides,,,Lloyd,Q4264539,1919,,"Mycol. Writ. 6: 883 (1919)",,,,a2e643ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19040," "
-21496856-9bad-11eb-a8a2-19ed5c03f8d3,species,simplex,Bovistoides,,Lloyd,Q4264539,1919,,"Mycol. Writ. 6: (1919)",,,,21496856-9bad-11eb-a8a2-19ed5c03f8d3,,,,,431432," "
-e5ed6668-9bac-11eb-a8a2-19ed5c03f8d3,species,torrendii,Bovistoides,,Lloyd,Q4264539,,,"Mycol. Writ. 7(66): 1116 (1922)",,,,e5ed6668-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280411," "
-3461150c-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Bovonia,,Chiov.,Q2348823,1922,,"Nuovo Giorn. Bot. Ital. n.s., 29: 115 1922 publ. 1923",,,,,,445183-1,wfo-0000374456,3905097,,
-46104eca-8fcd-11eb-924d-9cd76263cbd0,species,bowdenii,,,B.Boivin,Q5937075,1967,,"Naturaliste Canad. 94: 520 1967",,,,,,316530-2,wfo-0000840962,,,
-cd88bcee-8fd1-11eb-924d-9cd76263cbd0,species,bowdenii,,,"(B.Boivin) Barkworth","Q5937075,Q2918786",2006,,"Sida 22(1): 499 2006",,Q91203183,,,,60443120-2,wfo-0001279016,,,
+a2e643ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Bovistoides,,,Lloyd,0,1919,,"Mycol. Writ. 6: 883 (1919)",,,,a2e643ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19040," "
+21496856-9bad-11eb-a8a2-19ed5c03f8d3,species,simplex,Bovistoides,,Lloyd,0,1919,,"Mycol. Writ. 6: (1919)",,,,21496856-9bad-11eb-a8a2-19ed5c03f8d3,,,,,431432," "
+e5ed6668-9bac-11eb-a8a2-19ed5c03f8d3,species,torrendii,Bovistoides,,Lloyd,0,,,"Mycol. Writ. 7(66): 1116 (1922)",,,,e5ed6668-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280411," "
+3461150c-8fcc-11eb-924d-9cd76263cbd0,species,diphylla,Bovonia,,Chiov.,0,1922,,"Nuovo Giorn. Bot. Ital. , n.s., 29: 115 (1922 publ. 1923)",,,,,,urn:lsid:ipni.org:names:445183-1,wfo-0000374456,3905097,,

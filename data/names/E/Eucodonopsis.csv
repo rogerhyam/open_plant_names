@@ -1,3 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e38a336a-8fd1-11eb-924d-9cd76263cbd0,genus,Eucodonopsis,,,,,,,,,,,,,,wfo-4000014127,7268317,,
-ca0f5eb0-8fd1-11eb-924d-9cd76263cbd0,species,achimenoides,Eucodonopsis,,"(Bartik) H.E.Moore","Q47113806,Q364731",1954,,"Gentes Herb. 8: 396 1954",,,,37649c38-8fcc-11eb-924d-9cd76263cbd0,,380850-1,wfo-0001272751,3819392,,
+e38a336a-8fd1-11eb-924d-9cd76263cbd0,genus,Eucodonopsis,,,"Van Houtte",,,,"Ann. Gén. Hort. 16: t. 1608 (1865)",,,,,,urn:lsid:ipni.org:names:17020-1,wfo-4000014127,7268317,,
+ca0f5eb0-8fd1-11eb-924d-9cd76263cbd0,species,achimenoides,Eucodonopsis,,"(Bartik) H.E.Moore",0,1954,,"Gentes Herbarum 8: 396 (1954)",,,,37649c38-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:380850-1,wfo-0001272751,3819392,,
+7e92e4ca-1d4d-11ec-82c2-f14daa6f2d93,species,naegelioides,Eucodonopsis,,"Van Houtte",,,,"Fl. Serres Jard. Eur. 16: 1, pl. 1608. 1865",,,,,,urn:lsid:ipni.org:names:289812-2,wfo-0001417355,,,
+af34699a-8fcd-11eb-924d-9cd76263cbd0,species,naegelioides,Eucodonopsis,,"Van Houtte",0,,,"Ann. Gén. Hort. 16: t. 1608 (1865)",,,,,,urn:lsid:ipni.org:names:289812-2,wfo-0001041938,,,
+f603e66c-8fcc-11eb-924d-9cd76263cbd0,species,naegelioides,Eucodonopsis,,"Van Houtte",0,,,"Ann. Gén. Hort. 16: t. 1608 (1865)",,,,,,urn:lsid:ipni.org:names:289812-2,wfo-0000681172,,,
+4750f704-1d4d-11ec-82c2-f14daa6f2d93,species,picturata,Eucodonopsis,,"(Planch.) H.E.Moore",,,,"Gentes Herbarum 8: 397 (1954)",,,,,,urn:lsid:ipni.org:names:380852-1,wfo-0001328791,,,
+f6040318-8fcc-11eb-924d-9cd76263cbd0,species,picturata,Eucodonopsis,,"(Planch.) H.E.Moore",0,1954,,"Gentes Herbarum 8: 397 (1954)",,,,,,urn:lsid:ipni.org:names:380852-1,wfo-0000681173,,,
+47512012-1d4d-11ec-82c2-f14daa6f2d93,species,roezlii,Eucodonopsis,,"(Planch.) H.E.Moore",,,,"Gentes Herbarum 8: 397 (1954)",,,,,,urn:lsid:ipni.org:names:380853-1,wfo-0001328792,,,
+f6041cae-8fcc-11eb-924d-9cd76263cbd0,species,roezlii,Eucodonopsis,,"(Planch.) H.E.Moore",0,1954,,"Gentes Herbarum 8: 397 (1954)",,,,04b9fa44-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:380853-1,wfo-0000681174,,,

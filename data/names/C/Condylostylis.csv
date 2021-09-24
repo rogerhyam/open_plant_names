@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1fbf236-8fd1-11eb-924d-9cd76263cbd0,genus,Condylostylis,,,Piper,Q567756,,,,,Q95371442,,,,22073-1,wfo-4000009120,7275683,,
-af880320-8fcd-11eb-924d-9cd76263cbd0,species,candida,Condylostylis,,"(Vell.) A.Delgado","Q44907,Q5410113",,,"Amer. J. Bot. 98(10): 1706–1707 2011",,Q34042540,,,,60457237-2,wfo-0001042676,7470316,,
-af881f0e-8fcd-11eb-924d-9cd76263cbd0,species,latidenticulata,Condylostylis,,"(Harms) A.Delgado","Q62415,Q5410113",,,"Amer. J. Bot. 98(10): 1707–1708 2011",,Q34042540,,,,60457238-2,wfo-0001042677,7476333,,
-d1249fee-8fcc-11eb-924d-9cd76263cbd0,species,phlebophylla,Condylostylis,,Piper,Q567756,1926,,"Contr. U. S. Natl. Herb. 22: 668 1926",,Q95371442,,,,64133-2,wfo-0000617844,3912780,,
-8b166028-8fc2-11eb-924d-9cd76263cbd0,species,venusta,Condylostylis,,Piper,Q567756,,,,,,,,,,wfo-0000178097,2982504,,
-af883d2c-8fcd-11eb-924d-9cd76263cbd0,species,vignoides,Condylostylis,,"(Rusby) A.Delgado","Q2611285,Q5410113",,,"Amer. J. Bot. 98(10): 1708 2011",,Q34042540,,8b218c0a-8fc2-11eb-924d-9cd76263cbd0,,60457239-2,wfo-0001042678,8029246,,
+e1fbf236-8fd1-11eb-924d-9cd76263cbd0,genus,Condylostylis,,,Piper,0,,,"Contr. U.S. Natl. Herb. 22: 667 (1926)",,Q95371442,,,,urn:lsid:ipni.org:names:22073-1,wfo-4000009120,7275683,,
+af880320-8fcd-11eb-924d-9cd76263cbd0,species,candida,Condylostylis,,"(Vell.) A.Delgado",0,,,"Amer. J. Bot. 98: 1706 (2011)",,Q34042540,,,,urn:lsid:ipni.org:names:60457237-2,wfo-0001042676,7470316,,
+af881f0e-8fcd-11eb-924d-9cd76263cbd0,species,latidenticulata,Condylostylis,,"(Harms) A.Delgado",0,,,"Amer. J. Bot. 98: 1707 (2011)",,Q34042540,,,,urn:lsid:ipni.org:names:60457238-2,wfo-0001042677,7476333,,
+d1249fee-8fcc-11eb-924d-9cd76263cbd0,species,phlebophylla,Condylostylis,,Piper,0,1926,,"Contr. U.S. Natl. Herb. 22: 668 (1926)",,Q95371442,,,,urn:lsid:ipni.org:names:64133-2,wfo-0000617844,3912780,,
+8b166028-8fc2-11eb-924d-9cd76263cbd0,species,venusta,Condylostylis,,Piper,0,,,"Contr. U.S. Natl. Herb. 22: 667 (1926)",,,,,,urn:lsid:ipni.org:names:64134-2,wfo-0000178097,2982504,,
+af883d2c-8fcd-11eb-924d-9cd76263cbd0,species,vignoides,Condylostylis,,"(Rusby) A.Delgado",0,,,"Amer. J. Bot. 98: 1708 (2011)",,Q34042540,,8b218c0a-8fc2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60457239-2,wfo-0001042678,8029246,,

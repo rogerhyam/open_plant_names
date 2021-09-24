@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e56caafa-8fd1-11eb-924d-9cd76263cbd0,genus,Korshinskia,,,Lipsky,Q2040679,1901,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 18: 62. 1901.",,,,,,40142-1,wfo-4000020179,6026540,,
-c31cfa90-8fd1-11eb-924d-9cd76263cbd0,species,assyriaca,Korshinskia,,"(Freyn & Bornm.) Pimenov & Kljuykov","Q2502575,Q68637,Q6012784,Q18619790",1995,,"Edinburgh J. Bot. 52(3): 339 1995",,Q55755818,,c31d1548-8fd1-11eb-924d-9cd76263cbd0,,985659-1,wfo-0001259909,3631663,,
-bb18ce90-8fcd-11eb-924d-9cd76263cbd0,species,kopetdaghensis,Korshinskia,,"Pimenov & Kljuykov","Q6012784,Q18619790",,,,,,,,,,wfo-0001068999,3631642,,
-2978a7a4-8fcc-11eb-924d-9cd76263cbd0,species,rapifera,Korshinskia,,"(Gilli) Podlech & Rech.f.","Q8194912,Q3027529,Q78738",1987,,"in Fl. Iran. 162: 261 1987",,,,,,944210-1,wfo-0000356630,3631622,,
+e56caafa-8fd1-11eb-924d-9cd76263cbd0,genus,Korshinskia,,,Lipsky,0,1901,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 18: 59 (1900)",,,,,,urn:lsid:ipni.org:names:40142-1,wfo-4000020179,6026540,,
+c31cfa90-8fd1-11eb-924d-9cd76263cbd0,species,assyriaca,Korshinskia,,"(Freyn & Bornm.) Pimenov & Kljuykov",0,1995,,"Edinburgh J. Bot. 52: 339 (1995)",,Q55755818,,c31d1548-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:985659-1,wfo-0001259909,3631663,,
+baebf21c-8fcd-11eb-924d-9cd76263cbd0,species,bupleuroides,Korshinskia,,Korovin,0,,,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R. 5: 83 (1924)",,,,,,urn:lsid:ipni.org:names:843909-1,wfo-0001068586,7567655,,
+bb18ce90-8fcd-11eb-924d-9cd76263cbd0,species,kopetdaghensis,Korshinskia,,"(Korovin) Pimenov & Kljuykov",0,,,"Sosud. Rast. SSSR : 23 (1981)",,,,,,urn:lsid:ipni.org:names:984623-1,wfo-0001068999,3631642,,
+baec48d4-8fcd-11eb-924d-9cd76263cbd0,species,olgae,Korshinskia,,Lipsky,0,,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 18: 59 (1900)",,,,,,urn:lsid:ipni.org:names:843910-1,wfo-0001068589,7933870,,
+2978a7a4-8fcc-11eb-924d-9cd76263cbd0,species,rapifera,Korshinskia,,"(Gilli) Podlech & Rech.f.",0,1987,,"Fl. Iranica 162: 261 (1987)",,,,,,urn:lsid:ipni.org:names:944210-1,wfo-0000356630,3631622,,

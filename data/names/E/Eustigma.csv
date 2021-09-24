@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e399bb6e-8fd1-11eb-924d-9cd76263cbd0,genus,Eustigma,,,"Gardner & Champ.","Q2404423,Q588623",1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 312. 1849.",,,,,,19590-1,wfo-4000014331,7329056,,
-f748c844-8fcc-11eb-924d-9cd76263cbd0,species,balansae,Eustigma,,Oliv.,Q1161960,1954,,"Hooker's Icon. Pl. 20: t. 1954 1891",,,,,,430645-1,wfo-0000683508,3702560,,
-f748e766-8fcc-11eb-924d-9cd76263cbd0,species,lenticellatum,Eustigma,,C.Y.Wu,Q534717,1977,,"in Fl. Yunnanica 1: 130 1977",,,,,,430646-1,wfo-0000683509,3702550,,
-f7490386-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolium,Eustigma,,"Gardner & Champ.","Q2404423,Q588623",1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 312 1849",,,,,,430647-1,wfo-0000683510,3702541,,
-f7492104-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Eustigma,,"K.M.Feng ex C.Y.Wu","Q19828308,Q534717",1977,,"in Fl. Yunnanica 1: 130 1977",,,,,,430648-1,wfo-0000683511,8438935,,
+e399bb6e-8fd1-11eb-924d-9cd76263cbd0,genus,Eustigma,,,"Gardner & Champ.",0,1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 312 (1849)",,,,,,urn:lsid:ipni.org:names:19590-1,wfo-4000014331,7329056,,
+f748c844-8fcc-11eb-924d-9cd76263cbd0,species,balansae,Eustigma,,Oliv.,0,1954,,"Hooker's Icon. Pl. 20: t. 1954 (1891)",,,,,,urn:lsid:ipni.org:names:430645-1,wfo-0000683508,3702560,,
+541dc052-1d4d-11ec-82c2-f14daa6f2d93,species,honbaense,Eustigma,,"H.Toyama, Tagane & V.S.Dang",,,,"PhytoKeys 65: 49 (2016)",,,,,,urn:lsid:ipni.org:names:77155501-1,wfo-0001345908,,,
+f748e766-8fcc-11eb-924d-9cd76263cbd0,species,lenticellatum,Eustigma,,C.Y.Wu,0,1977,,"Fl. Yunnanica 1: 130 (1977)",,,,,,urn:lsid:ipni.org:names:430646-1,wfo-0000683509,3702550,,
+f7490386-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolium,Eustigma,,"Gardner & Champ.",0,1849,,"Hooker's J. Bot. Kew Gard. Misc. 1: 312 (1849)",,,,,,urn:lsid:ipni.org:names:430647-1,wfo-0000683510,3702541,,
+f7492104-8fcc-11eb-924d-9cd76263cbd0,species,stellatum,Eustigma,,"Feng ex C.Y.Wu",0,1977,,"Fl. Yunnanica 1: 130 (1977)",,,,,,urn:lsid:ipni.org:names:430648-1,wfo-0000683511,8438935,,

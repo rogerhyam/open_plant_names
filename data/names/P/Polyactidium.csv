@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8d91be2-8fd1-11eb-924d-9cd76263cbd0,genus,Polyactidium,,,,,,,,,,,,,,wfo-4000030671,7337046,,
-35dcdfde-8fb2-11eb-924d-9cd76263cbd0,species,delphinifolium,Polyactidium,,"(Willd.) DC.","Q76353,Q123057",1836,,"Prodr. (DC.) 5: 282 1836",,,,753a3c2a-8fcc-11eb-924d-9cd76263cbd0,,239140-1,wfo-0000015998,7416639,,
-3d9a1fa8-8fb6-11eb-924d-9cd76263cbd0,species,seemannii,Polyactidium,,Sch.Bip.,Q65685,1856,,"in Seem. Bot. Voy. Herald, 301. 1856",,,,,,239141-1,wfo-0000087265,3146620,,
-47d77f00-8fb2-11eb-924d-9cd76263cbd0,species,sprengelii,Polyactidium,,DC.,Q123057,1838,,"Prodr. (DC.) 7(1): 274 1838",,,,,,239142-1,wfo-0000018804,3089628,,
+e8d91be2-8fd1-11eb-924d-9cd76263cbd0,genus,Polyactidium,,,DC.,,,,"Prodr. 5: 281 (1836)",,,,,,urn:lsid:ipni.org:names:10632-1,wfo-4000030671,7337046,,
+35dcdfde-8fb2-11eb-924d-9cd76263cbd0,species,delphinifolium,Polyactidium,,DC.,0,1836,,"Prodr. 5: 282 (1836)",,,,753a3c2a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:239140-1,wfo-0000015998,7416639,,
+3d9a1fa8-8fb6-11eb-924d-9cd76263cbd0,species,seemannii,Polyactidium,,Sch.Bip.,0,1856,,"Bot. Voy. Herald 7-8: 301 (1856)",,,,,,urn:lsid:ipni.org:names:239141-1,wfo-0000087265,3146620,,
+47d77f00-8fb2-11eb-924d-9cd76263cbd0,species,sprengelii,Polyactidium,,DC.,0,1838,,"Prodr. 7(1): 274 (1838)",,,,,,urn:lsid:ipni.org:names:239142-1,wfo-0000018804,3089628,,

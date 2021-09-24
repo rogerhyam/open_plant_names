@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 98dc342a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Porphyrosoma,,,Pat.,,1928,,"Mém. Acad. malgache 6: 40 (1928)",,,,98dc342a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4358," "
 d1b31c6a-9bac-11eb-a8a2-19ed5c03f8d3,species,episphaeria,Porphyrosoma,,Pat.,,,,,,,,d1b31c6a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,252005," "
-fa5c1cd0-8fcb-11eb-924d-9cd76263cbd0,species,crassifolia,Porphyrospatha,,Engl.,Q60718,1905,,"Bot. Jahrb. Syst. 37: 140 1905",,,,,,208460-2,wfo-0000281040,2867850,,
-fa5c45f2-8fcb-11eb-924d-9cd76263cbd0,species,hoffmannii,Porphyrospatha,,"(Schott) Engl.","Q112191,Q60718",1879,,"Monogr. Phan. 2: 291 1879",,,,,,88141-1,wfo-0000281041,2867839,,
-fa5c6668-8fcb-11eb-924d-9cd76263cbd0,species,schottiana,Porphyrospatha,,"(H.Wendl. ex Schott) Engl.","Q66720,Q112191,Q60718",1879,,"Monogr. Phan. 2: 290 1879",,,,,,88142-1,wfo-0000281042,2867901,,
+fa5c1cd0-8fcb-11eb-924d-9cd76263cbd0,species,crassifolia,Porphyrospatha,,Engl.,0,1905,,"Bot. Jahrb. Syst. 37: 140 (1905)",,,,,,urn:lsid:ipni.org:names:208460-2,wfo-0000281040,2867850,,
+fa5c45f2-8fcb-11eb-924d-9cd76263cbd0,species,hoffmannii,Porphyrospatha,,Engl.,0,1879,,"Monogr. Phan. 2: 291 (1879)",,,,,,urn:lsid:ipni.org:names:88141-1,wfo-0000281041,2867839,,
+fa5c6668-8fcb-11eb-924d-9cd76263cbd0,species,schottiana,Porphyrospatha,,Engl.,0,1879,,"Monogr. Phan. 2: 290 (1879)",,,,,,urn:lsid:ipni.org:names:88142-1,wfo-0000281042,2867901,,

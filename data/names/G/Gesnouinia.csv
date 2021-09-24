@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3fce306-8fd1-11eb-924d-9cd76263cbd0,genus,Gesnouinia,,,Gaudich.,Q1064524,1830,,"Voyage Monde, Uranie Physicienne Bot. 502. 1830.",,,,,,40818-1,wfo-4000015592,7300861,,
-01d096e8-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Gesnouinia,,"(L.f.) Gaudich.","Q178823,Q1064524",1830,,"Voy. Uranie 502 1830",,,,,,854082-1,wfo-0000702469,4101571,,
-01d0b3ee-8fcd-11eb-924d-9cd76263cbd0,species,boehmerioides,Gesnouinia,,Miq.,Q76742,1853,,"Fl. Bras. 4(1): 194 1853",,,,,,854083-1,wfo-0000702470,4101561,,
-01d0d16c-8fcd-11eb-924d-9cd76263cbd0,species,filamentosa,Gesnouinia,,Wedd.,Q983408,1854,,"Ann. Sci. Nat., Bot. IV, 1: 207 1854",,,,,,854084-1,wfo-0000702471,4101547,,
-78837828-8fcd-11eb-924d-9cd76263cbd0,species,candida,Gestroa,,Becc.,Q361037,1877,,"Malesia 1: 184 1877",,,,,,866565-1,wfo-0000925843,5603717,,
+e3fce306-8fd1-11eb-924d-9cd76263cbd0,genus,Gesnouinia,,,Gaudich.,0,1830,,"Voy. Uranie : 502 (1830)",,,,,,urn:lsid:ipni.org:names:40818-1,wfo-4000015592,7300861,,
+01d096e8-8fcd-11eb-924d-9cd76263cbd0,species,arborea,Gesnouinia,,Gaudich.,0,1830,,"Voy. Uranie : 502 (1830)",,,,,,urn:lsid:ipni.org:names:854082-1,wfo-0000702469,4101571,,
+01d0b3ee-8fcd-11eb-924d-9cd76263cbd0,species,boehmerioides,Gesnouinia,,Miq.,0,1853,,"Fl. Bras. 4(1): 194 (1853)",,,,,,urn:lsid:ipni.org:names:854083-1,wfo-0000702470,4101561,,
+01d0d16c-8fcd-11eb-924d-9cd76263cbd0,species,filamentosa,Gesnouinia,,Wedd.,0,1854,,"Ann. Sci. Nat., Bot. , sér. 4, 1: 207 (1854)",,,,,,urn:lsid:ipni.org:names:854084-1,wfo-0000702471,4101547,,

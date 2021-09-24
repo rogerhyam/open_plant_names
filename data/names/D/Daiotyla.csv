@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e276123c-8fd1-11eb-924d-9cd76263cbd0,genus,Daiotyla,,,Dressler,Q2347591,2005,,"Lankesteriana 5(2): 92. 2005. (31 Aug 2005)",,Q55762935,,,,60440440-2,wfo-4000010670,2790462,,
-30068cf2-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Daiotyla,,"(Rolfe) Dressler","Q2635543,Q2347591",2005,,"Lankesteriana 5: 92 2005",,Q55762935,,4a86a86e-8fcd-11eb-924d-9cd76263cbd0,,60440441-2,wfo-0000793841,2794705,,
-3006dd60-8fcd-11eb-924d-9cd76263cbd0,species,crassa,Daiotyla,,"(Dressler) Dressler",Q2347591,2005,,"Lankesteriana 5: 92 2005",,Q55762935,,4a9bc4b0-8fcd-11eb-924d-9cd76263cbd0,,60440442-2,wfo-0000793844,2794685,,
-3006f7c8-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Daiotyla,,"(Garay) Dressler","Q2937426,Q2347591",2005,,"Lankesteriana 5: 92 2005",,Q55762935,,,,60440443-2,wfo-0000793845,2794677,,
-43721626-8fcd-11eb-924d-9cd76263cbd0,species,xanthina,Daiotyla,,"Pupulin & Dressler","Q598420,Q2347591",2007,,"Orquideologia 25: 6 2007",,,,,,,wfo-0000835331,3649306,,
+e276123c-8fd1-11eb-924d-9cd76263cbd0,genus,Daiotyla,,,Dressler,0,2005,,"Lankesteriana 5: 92 (2005)",,Q55762935,,,,urn:lsid:ipni.org:names:60440440-2,wfo-4000010670,2790462,,
+30068cf2-8fcd-11eb-924d-9cd76263cbd0,species,albicans,Daiotyla,,"(Rolfe) Dressler",0,2005,,"Lankesteriana 5: 92 (2005)",,Q55762935,,4a86a86e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60440441-2,wfo-0000793841,2794705,,
+3006dd60-8fcd-11eb-924d-9cd76263cbd0,species,crassa,Daiotyla,,"(Dressler) Dressler",0,2005,,"Lankesteriana 5: 92 (2005)",,Q55762935,,4a9bc4b0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60440442-2,wfo-0000793844,2794685,,
+3006f7c8-8fcd-11eb-924d-9cd76263cbd0,species,maculata,Daiotyla,,"(Garay) Dressler",0,2005,,"Lankesteriana 5: 92 (2005)",,Q55762935,,,,urn:lsid:ipni.org:names:60440443-2,wfo-0000793845,2794677,,
+43721626-8fcd-11eb-924d-9cd76263cbd0,species,xanthina,Daiotyla,,"Pupulin & Dressler",0,2007,,"Orquideologia 25: 6 (2007)",,,,,,urn:lsid:ipni.org:names:77091149-1,wfo-0000835331,3649306,,

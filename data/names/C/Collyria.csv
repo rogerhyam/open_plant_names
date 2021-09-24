@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-0684f220-9bac-11eb-a8a2-19ed5c03f8d3,genus,Collyria,,,Fr.,Q15405,1849,,"Summa veg. Scand. (Stockholm), Section Post. 340 (1849)",,,,0684f220-9bac-11eb-a8a2-19ed5c03f8d3,,,,,17342," "
-8113755c-9bac-11eb-a8a2-19ed5c03f8d3,species,helvelloidea,Collyria,,"(Schwein.) Fr.","Q1822110,Q15405",,,,,,,1ee33b2e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,176578," "
-cf9f5362-8fcc-11eb-924d-9cd76263cbd0,species,major,Collyris,,Vahl,Q353283,1810,,"Skr. Naturhist.-Selsk. 6: 110 1810",,,,,,95876-1,wfo-0000615077,6712896,,
-cf9f7748-8fcc-11eb-924d-9cd76263cbd0,species,minor,Collyris,,Vahl,Q353283,1810,,"Skr. Naturhist.-Selsk. 6: 111 1810",,,,,,95877-1,wfo-0000615078,7622111,,
+0684f220-9bac-11eb-a8a2-19ed5c03f8d3,genus,Collyria,,,Fr.,0,1849,,"Summa veg. Scand. (Stockholm), Section Post. 340 (1849)",,,,0684f220-9bac-11eb-a8a2-19ed5c03f8d3,,,,,17342," "
+8113755c-9bac-11eb-a8a2-19ed5c03f8d3,species,helvelloidea,Collyria,,"(Schwein.) Fr.",0,,,,,,,1ee33b2e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,176578," "
+cf9f5362-8fcc-11eb-924d-9cd76263cbd0,species,major,Collyris,,Vahl,0,1810,,"Skr. Naturhist.-Selsk. 6: 110 (1810)",,,,,,urn:lsid:ipni.org:names:95876-1,wfo-0000615077,6712896,,
+cf9f7748-8fcc-11eb-924d-9cd76263cbd0,species,minor,Collyris,,Vahl,0,1810,,"Skr. Naturhist.-Selsk. 6: 111 (1810)",,,,,,urn:lsid:ipni.org:names:95877-1,wfo-0000615078,7622111,,

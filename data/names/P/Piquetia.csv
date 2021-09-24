@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e894d19e-8fd1-11eb-924d-9cd76263cbd0,genus,Piquetia,,,"(Pierre) Hallier f.","Q2593213,Q75908",1921,,"Beih. Bot. Centralbl. 39(2): 162. 1921.",,,,,,39174-1,wfo-4000029852,7313786,,
-41c9ffa6-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Piquetia,,N.E.Br.,Q721850,1926,,"Gen. S. Afr. Fl. Pl. 249 1926",,,,,,363974-1,wfo-0000393015,5554864,,
-ade17fce-8fcd-11eb-924d-9cd76263cbd0,species,piquetiana,Piquetia,,"(Pierre) Hallier f.","Q2593213,Q75908",1921,,"Beih. Bot. Centralbl. 39(2): 162 1921",,,,ade162fa-8fcd-11eb-924d-9cd76263cbd0,,830391-1,wfo-0001038886,5528132,,
+e894d19e-8fd1-11eb-924d-9cd76263cbd0,genus,Piquetia,,,"Hallier f.",0,1921,,"Beih. Bot. Centralbl. 39(2): 162 (1921)",,,,,,urn:lsid:ipni.org:names:39174-1,wfo-4000029852,7313786,,
+41c9ffa6-8fcc-11eb-924d-9cd76263cbd0,species,pillansii,Piquetia,,"(Kensit) N.E.Br.",0,1926,,"in: Phillips, E. P., Gen. S. Afr. Fl. Pl.: 249. 1926.",,,,,,,wfo-0000393015,5554864,,
+ade17fce-8fcd-11eb-924d-9cd76263cbd0,species,piquetiana,Piquetia,,"Hallier f.",0,1921,,"Beih. Bot. Centralbl. 39(2): 162 (1921)",,,,ade162fa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:830391-1,wfo-0001038886,5528132,,

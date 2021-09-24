@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8158fec-8fd1-11eb-924d-9cd76263cbd0,genus,Pederlea,,,Raf.,Q364857,1838,,"R. & Pav. et al., Sylva Tellur. 54 (1838)., 1838.",,,,,,,wfo-4000028407,7299131,,
-a70dfb64-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Pederlea,,"(Ruiz & Pav.) Raf.","Q733976,Q332058,Q364857",1838,,"R. & Pav. et al., Sylva Tellur. 54 (1838)., 1838.",,,,,,,wfo-0001024382,3796773,,
-a70e17e8-8fcd-11eb-924d-9cd76263cbd0,species,arborescens,Pederlea,,"(L.) Raf.","Q1043,Q364857",1838,,"R. & Pav. et al., Sylva Tellur. 54 (1838)., 1838.",,,,,,,wfo-0001024383,3796771,,
-a70e31d8-8fcd-11eb-924d-9cd76263cbd0,species,cestroides,Pederlea,,Raf.,Q364857,1838,,"R. & Pav. et al., Sylva Tellur. 54 (1838)., 1838.",,,,,,,wfo-0001024384,3796765,,
+e8158fec-8fd1-11eb-924d-9cd76263cbd0,genus,Pederlea,,,Raf.,0,1838,,"R. & Pav. et al., Sylva Tellur. 54 (1838)., 1838.",,,,,,urn:lsid:ipni.org:names:38479-1,wfo-4000028407,7299131,,
+a70dfb64-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Pederlea,,"(Ruiz & Pav.) Raf.",0,1838,,"Sylva Tellur. 54 (1838).",,,,,,urn:lsid:ipni.org:names:817215-1,wfo-0001024382,3796773,,
+a70e17e8-8fcd-11eb-924d-9cd76263cbd0,species,arborescens,Pederlea,,"(L.) Raf.",0,1838,,"Sylva Tellur. 54 (1838).",,,,,,urn:lsid:ipni.org:names:817216-1,wfo-0001024383,3796771,,
+a70e31d8-8fcd-11eb-924d-9cd76263cbd0,species,cestroides,Pederlea,,Raf.,0,1838,,"Sylva Tellur. 54 (1838).",,,,,,urn:lsid:ipni.org:names:817217-1,wfo-0001024384,3796765,,

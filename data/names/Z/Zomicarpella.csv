@@ -1,8 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec3c9976-8fd1-11eb-924d-9cd76263cbd0,genus,Zomicarpella,,,N.E.Br.,Q721850,1881,,"Gard. Chron. 1881(2): 266. 1881.",,,,,,2955-1,wfo-4000041266,2871803,,
-1c3aa7ae-8fcc-11eb-924d-9cd76263cbd0,species,amazonica,Zomicarpella,,Bogner,Q5640534,1997,,"Sendtnera 4: 8 1997",,,,,,995816-1,wfo-0000335557,2871804,,
-1c3ac356-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Zomicarpella,,N.E.Br.,Q721850,1881,,"Gard. Chron. n.s., 16: 266 1881",,,,,,,wfo-0000335558,2871805,,
-5e58fa3c-8fcc-11eb-924d-9cd76263cbd0,species,polystachius,Zonablephis,,"(Delile) Raf.","Q1340280,Q364857",1838,,"Sylva Tellur. 144 1838",,,,918c99fe-8fcc-11eb-924d-9cd76263cbd0,,56596-1,wfo-0000429200,,,
-ce9ad458-8fba-11eb-924d-9cd76263cbd0,species,angustifolia,Zonanthemis,,"(DC.) Greene","Q123057,Q2661665",1897,,"Fl. Francisc. 425 1897",,,,,,271252-2,wfo-0000129508,4220893,,
-b367813e-8fb2-11eb-924d-9cd76263cbd0,species,clementina,Zonanthemis,,"(Brandegee) Davidson & Moxley","Q1002345,Q5696688,Q21340311",1923,,"401 1923",,,,0ca80154-8fb5-11eb-924d-9cd76263cbd0,,271253-2,wfo-0000032210,4220881,,
-e7c04b30-8fb4-11eb-924d-9cd76263cbd0,species,corymbosa,Zonanthemis,,"(DC.) Greene","Q123057,Q2661665",1897,,"Fl. Francisc. 425 1897",,,,,,271254-2,wfo-0000071427,4220864,,
+ec3c9976-8fd1-11eb-924d-9cd76263cbd0,genus,Zomicarpella,,,N.E.Br.,0,1881,,"Gard. Chron. , n.s., 16: 266 (1881)",,,,,,urn:lsid:ipni.org:names:2955-1,wfo-4000041266,2871803,,
+1c3aa7ae-8fcc-11eb-924d-9cd76263cbd0,species,amazonica,Zomicarpella,,Bogner,0,1997,,"Sendtnera 4: 8 (1997).",,,,,,urn:lsid:ipni.org:names:995816-1,wfo-0000335557,2871804,,
+1c3ac356-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Zomicarpella,,N.E.Br.,0,1881,,"Gard. Chron. , n.s., 16: 266 (1881)",,,,,,urn:lsid:ipni.org:names:89434-1,wfo-0000335558,2871805,,

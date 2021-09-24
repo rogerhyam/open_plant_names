@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6e4f2e8-8fd1-11eb-924d-9cd76263cbd0,genus,Montinia,,,Thunb.,Q39658,1776,,"Physiogr. Sälsk. Handl. 1: 108. 1776.",,,,e6e4f2e8-8fd1-11eb-924d-9cd76263cbd0,,28518-1,wfo-4000024798,3234436,3267," "
-d938c8a8-8fcd-11eb-924d-9cd76263cbd0,species,acris,Montinia,,L.f.,Q178823,1781,,"Suppl. Pl. 427 1781",,,,,,,wfo-0001135722,5572873,,
-6aa23204-8fcc-11eb-924d-9cd76263cbd0,species,caryophyllacea,Montinia,,Thunb.,Q39658,1776,,"Physiogr. Sälsk. Handl. 1: 109 1776",,,,,,613483-1,wfo-0000447853,5572875,,
-df36058c-9bac-11eb-a8a2-19ed5c03f8d3,species,flotoviana,Montinia,,"(Hepp) A. Massal.",Q2086812,,,,,,,4c982d6c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,271687," Montinia flotowiana"
-478e6d36-9bad-11eb-a8a2-19ed5c03f8d3,species,flotowiana,Montinia,,"(Hepp) A. Massal.",Q2086812,1855,,"Framm. Lichenogr. 17 (1855)",,,,4c982d6c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395648," flotoviana"
-6ac0adc4-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Montinia,,Gaertn.,Q60226,1788,,"Fruct. Sem. Pl. 1: 170 1788",,,,,,613485-1,wfo-0000448076,5572874,,
+e6e4f2e8-8fd1-11eb-924d-9cd76263cbd0,genus,Montinia,,,Thunb.,0,1776,,"Physiogr. Sälsk. Handl. 1: 108 (1776)",,,,e6e4f2e8-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:28518-1,wfo-4000024798,3234436,3267," "
+d938c8a8-8fcd-11eb-924d-9cd76263cbd0,species,acris,Montinia,,L.f.,0,1781,,"Suppl. Pl. : 427 (1782)",,,,,,urn:lsid:ipni.org:names:613482-1,wfo-0001135722,5572873,,
+6aa23204-8fcc-11eb-924d-9cd76263cbd0,species,caryophyllacea,Montinia,,Thunb.,0,1776,,"Physiogr. Sälsk. Handl. 1: 109 (1776)",,,,,,urn:lsid:ipni.org:names:613483-1,wfo-0000447853,5572875,,
+df36058c-9bac-11eb-a8a2-19ed5c03f8d3,species,flotoviana,Montinia,,"(Hepp) A. Massal.",0,,,,,,,4c982d6c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,271687," Montinia flotowiana"
+478e6d36-9bad-11eb-a8a2-19ed5c03f8d3,species,flotowiana,Montinia,,"(Hepp) A. Massal.",0,1855,,"Framm. Lichenogr. 17 (1855)",,,,4c982d6c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395648," flotoviana"
+6ac0adc4-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Montinia,,Gaertn.,0,1788,,"Fruct. Sem. Pl. 1: 170 (1788)",,,,,,urn:lsid:ipni.org:names:613485-1,wfo-0000448076,5572874,,

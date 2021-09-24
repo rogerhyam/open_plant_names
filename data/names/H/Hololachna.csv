@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4ce8776-8fd1-11eb-924d-9cd76263cbd0,genus,Hololachna,,,Ehrenb.,Q76549,1827,,"Linnaea 2: 273. 1827.",,,,,,,wfo-4000018093,7316460,,
-0ea61c30-8fcd-11eb-924d-9cd76263cbd0,species,shawiana,Hololachna,,"Hook.f. ex G.Hend. & Hume","Q157501,Q21515696,Q455438",1873,,"Lahore Yarkand 313 1873",,,,,,827958-1,wfo-0000724283,3613059,,
-dc5cd560-8fcd-11eb-924d-9cd76263cbd0,species,soongarica,Hololachna,,"(Pall.) Ehrenb.","Q155914,Q76549",1827,,"Linnaea 2: 273 1827",,,,dc5b904c-8fcd-11eb-924d-9cd76263cbd0,,827959-1,wfo-0001142100,7885912,,
+e4ce8776-8fd1-11eb-924d-9cd76263cbd0,genus,Hololachna,,,Ehrenb.,0,1827,,"Linnaea 2: 273 (1827)",,,,,,urn:lsid:ipni.org:names:38973-1,wfo-4000018093,7316460,,
+0ea61c30-8fcd-11eb-924d-9cd76263cbd0,species,shawiana,Hololachna,,Hook.f.,0,1873,,"Lahore to Yarkand : 313 (1873)",,,,,,urn:lsid:ipni.org:names:827958-1,wfo-0000724283,3613059,,
+dc5cd560-8fcd-11eb-924d-9cd76263cbd0,species,soongarica,Hololachna,,"(Pall.) Ehrenb.",0,1827,,"Linnaea 2: 273 (1827)",,,,dc5b904c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:827959-1,wfo-0001142100,7885912,,

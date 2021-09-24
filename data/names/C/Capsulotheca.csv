@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a2226dce-9bad-11eb-a8a2-19ed5c03f8d3,genus,Capsulotheca,,,Kamyschko,,1960,,"Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 13: 162 (1960)",,,,a2226dce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,818," "
 9bd3c792-9bad-11eb-a8a2-19ed5c03f8d3,species,aspergilloides,Capsulotheca,,Kamyschko,,1960,,"Chung-kuo Ti Chen-chun, [Fungi of China] 13: 162 (1960)",,,,9bd3c792-9bad-11eb-a8a2-19ed5c03f8d3,,,,,327522," "
-33e4fb6a-8fcd-11eb-924d-9cd76263cbd0,species,margaretae,Captaincookia,,N.Hallé,Q3206449,1973,,"Adansonia n.s., 13: 197 1973",,Q58838103,,,,745736-1,wfo-0000801991,2896401,,
-be293fe4-8fcc-11eb-924d-9cd76263cbd0,species,alata,Capura,,"Teijsm. & Binn.","Q969548,Q4086851",1866,,"Cat. Hort. Bot. Bogor. 214 1866",,,,,,782173-1,wfo-0000585871,6793287,,
-be295ba0-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Capura,,"(Blume) Blanco ex Vidal","Q76816,Q721827,Q19003002",1892,,"Cat. Pl. Herb. 54 1892",,,,,,782174-1,wfo-0000585872,6793286,,
-be29784c-8fcc-11eb-924d-9cd76263cbd0,species,hullettii,Capura,,Ridl.,Q733709,1910,,"J. Straits Branch Roy. Asiat. Soc. 54: 36 1910",,Q99657986,,,,782175-1,wfo-0000585873,6793285,,
-be2994d0-8fcc-11eb-924d-9cd76263cbd0,species,multijuga,Capura,,"(Hook.f.) Radlk.","Q157501,Q62865",1877,,"Actes Congr. Int. Bot. Amst. 1877: 11 1879",,,,,,782177-1,wfo-0000585874,,,
-be29ae3e-8fcc-11eb-924d-9cd76263cbd0,species,nigrescens,Capura,,S.Vidal,Q7442690,1883,,"Sin. Gen. Pl. Leños. Filip. Atlas: t. 34, f. E 1883",,,,,,782178-1,wfo-0000585875,6793282,,
-be29c75c-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Capura,,Blanco,Q721827,1837,,"Fl. Filip. 264 1837",,,,,,782179-1,wfo-0000585876,6793280,,
-be29e444-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Capura,,Ridl.,Q733709,1910,,"J. Straits Branch Roy. Asiat. Soc. 54: 35 1910",,Q99657986,,,,782180-1,wfo-0000585877,6793279,,
-be29feac-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Capura,,"Teijsm. & Binn.","Q969548,Q4086851",1866,,"Cat. Hort. Bot. Bogor. 214 1866",,,,,,782181-1,wfo-0000585879,6793277,,
-be2a3944-8fcc-11eb-924d-9cd76263cbd0,species,zollingerianus,Capura,,"Teijsm. & Binn.","Q969548,Q4086851",1866,,"Cat. Hort. Bot. Bogor. 214 1866",,,,,,782182-1,wfo-0000585881,6793276,,
+33e4fb6a-8fcd-11eb-924d-9cd76263cbd0,species,margaretae,Captaincookia,,N.Hallé,0,1973,,"Adansonia , n.s., 13: 197 (1973)",,Q58838103,,,,urn:lsid:ipni.org:names:745736-1,wfo-0000801991,2896401,,
+be293fe4-8fcc-11eb-924d-9cd76263cbd0,species,alata,Capura,,"Teijsm. & Binn.",0,1866,,"Cat. Hort. Bot. Bogor. : 214 (1866)",,,,,,urn:lsid:ipni.org:names:782173-1,wfo-0000585871,6793287,,
+be295ba0-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Capura,,"(Blume) Blanco ex Vidal",0,1892,,"Cat. Pl. Herb. : 54 (1892)",,,,,,urn:lsid:ipni.org:names:782174-1,wfo-0000585872,6793286,,
+be29784c-8fcc-11eb-924d-9cd76263cbd0,species,hullettii,Capura,,Ridl.,0,1910,,"J. Straits Branch Roy. Asiat. Soc. 54: 36. 1910 [Jan 1910]",,Q99657986,,,,urn:lsid:ipni.org:names:782175-1,wfo-0000585873,6793285,,
+be2994d0-8fcc-11eb-924d-9cd76263cbd0,species,multijuga,Capura,,"(Hook.f.) Radlk.",0,1877,,"Actes Congr. Int. Bot. Amst. 1877: 11 (1879)",,,,,,urn:lsid:ipni.org:names:782177-1,wfo-0000585874,,,
+be29ae3e-8fcc-11eb-924d-9cd76263cbd0,species,nigrescens,Capura,,S.Vidal,0,1883,,"Sin. Gen. Pl. Leños. Filip. , Atlas: t. 34, f. E (1883)",,,,,,urn:lsid:ipni.org:names:782178-1,wfo-0000585875,6793282,,
+be29c75c-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Capura,,Blanco,0,1837,,"Fl. Filip. : 264 (1837)",,,,,,urn:lsid:ipni.org:names:782179-1,wfo-0000585876,6793280,,
+be29e444-8fcc-11eb-924d-9cd76263cbd0,species,pulchella,Capura,,Ridl.,0,1910,,"J. Straits Branch Roy. Asiat. Soc. 54: 35 (1910)",,Q99657986,,,,urn:lsid:ipni.org:names:782180-1,wfo-0000585877,6793279,,
+be29feac-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Capura,,"Teijsm. & Binn.",0,1866,,"Cat. Hort. Bot. Bogor. : 214 (1866)",,,,,,urn:lsid:ipni.org:names:782181-1,wfo-0000585879,6793277,,
+be2a3944-8fcc-11eb-924d-9cd76263cbd0,species,zollingerianus,Capura,,"Teijsm. & Binn.",0,1866,,"Cat. Hort. Bot. Bogor. : 214 (1866)",,,,,,urn:lsid:ipni.org:names:782182-1,wfo-0000585881,6793276,,

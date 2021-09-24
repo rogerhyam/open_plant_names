@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 25346196-9bad-11eb-a8a2-19ed5c03f8d3,genus,Shawiella,,,Hansf.,,1957,,"Proc. Linn. Soc. N.S.W., Ser. 2 82: 226 (1957)",,,,25346196-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9913," "
 00b7957c-9bad-11eb-a8a2-19ed5c03f8d3,species,grevilleae,Shawiella,,Hansf.,,1957,,"Proc. Linn. Soc. N.S.W. 82: 226 (1957)",,,,00b7957c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,305958," "
-ce5df908-8fcd-11eb-924d-9cd76263cbd0,species,shawneensis,,,R.C.Moran,Q2842524,1981,,"Amer. Fern J. 71: 87 1981",,Q55764492,,,,17501570-1,wfo-0001111887,,,
-cb9375a0-8fd1-11eb-924d-9cd76263cbd0,species,butyrosum,Sheadendron,,G.Bertol.,Q5565354,1850,,"Mem. Reale Accad. Sci. Ist. Bologna 2: 572 1850",,,,,,170912-1,wfo-0001275508,3698245,,
-64daf25c-8fcc-11eb-924d-9cd76263cbd0,species,molle,Sheadendron,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 76 1861",,,,,,170913-1,wfo-0000437894,3700062,,
-64db0f30-8fcc-11eb-924d-9cd76263cbd0,species,pisoniiflorum,Sheadendron,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 76 1861",,,,,,170914-1,wfo-0000437895,7411315,,
+cb9375a0-8fd1-11eb-924d-9cd76263cbd0,species,butyrosum,Sheadendron,,G.Bertol.,0,1850,,"Mem. Reale Accad. Sci. Ist. Bologna 2: 572 (1850)",,,,,,urn:lsid:ipni.org:names:170912-1,wfo-0001275508,3698245,,
+64daf25c-8fcc-11eb-924d-9cd76263cbd0,species,molle,Sheadendron,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 76 (1861)",,,,,,urn:lsid:ipni.org:names:170913-1,wfo-0000437894,3700062,,
+64db0f30-8fcc-11eb-924d-9cd76263cbd0,species,pisoniaeflorum,Sheadendron,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 6(1): 76 (1861)",,,,,,urn:lsid:ipni.org:names:170914-1,wfo-0000437895,7411315,,

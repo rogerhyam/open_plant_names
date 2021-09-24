@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e876b8b2-8fd1-11eb-924d-9cd76263cbd0,genus,Physalastrum,,,Monteiro,Q21521661,1969,,"Anais 20 Congr. Soc. Bot. Brasil 395. 1969.",,,,,,,wfo-4000029498,7278790,,
-79cdda8a-8fcc-11eb-924d-9cd76263cbd0,species,flavescens,Physalastrum,,"(Cav.) Monteiro","Q545430,Q21521661",1977,,"Trab. Congr. Nac. Bot. Brasil 26: 409 1977",,,,,,195325-2,wfo-0000473653,3934377,,
-79ce1d4c-8fcc-11eb-924d-9cd76263cbd0,species,prostratum,Physalastrum,,"(Cav.) Monteiro","Q545430,Q21521661",1969,,"Anais Congr. Soc. Bot. Brasil 20: 400 1969",,,,,,907866-1,wfo-0000473655,9601493,,
+e876b8b2-8fd1-11eb-924d-9cd76263cbd0,genus,Physalastrum,,,Monteiro,0,1969,,"Anais Congr. Soc. Bot. Brasil 20: 395 (1969)",,,,,,urn:lsid:ipni.org:names:1109471-2,wfo-4000029498,7278790,,
+79cdda8a-8fcc-11eb-924d-9cd76263cbd0,species,flavescens,Physalastrum,,"(Cav.) Monteiro",0,1977,,"Trab. Congr. Nac. Bot. Brasil 26: 409 (1977)",,,,,,urn:lsid:ipni.org:names:195325-2,wfo-0000473653,3934377,,
+ca403ca6-8fd1-11eb-924d-9cd76263cbd0,species,macrodon,Physalastrum,,"(DC.) Monteiro",0,1969,,"Anais Congr. Soc. Bot. Brasil 20: 398 (1969)",,,,be9f7014-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:907864-1,wfo-0001273104,7597980,,
+b59d50ae-8fd1-11eb-924d-9cd76263cbd0,species,physocalyx,Physalastrum,,"(Gray) Monteiro",0,1969,,"Anais Congr. Soc. Bot. Brasil 20: 400 (1969)",,,,bef6a9ce-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:907865-1,wfo-0001234833,7428846,,
+79ce1d4c-8fcc-11eb-924d-9cd76263cbd0,species,prostratum,Physalastrum,,"(Cav.) Monteiro",0,1969,,"Anais 20 Congr. Soc. Bot. Brasil 400 (1969), without basionym date:.",,,,,,urn:lsid:ipni.org:names:907866-1,wfo-0000473655,9601493,,
+8e2a3abe-8fcc-11eb-924d-9cd76263cbd0,species,stoloniferum,Physalastrum,,"(Salz.) Monteiro",0,1977,,"Anais 20 Congr. Soc. Bot. Brasil 402 (1969):.",,,,,,urn:lsid:ipni.org:names:907867-1,wfo-0000508179,7380758,,

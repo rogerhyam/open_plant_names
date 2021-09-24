@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dedf8518-8fd1-11eb-924d-9cd76263cbd0,genus,Adenocritonia,,,"R.M.King & H.Rob.","Q2854893,Q2100759",,,,,,,,,298329-2,wfo-4000000618,3089978,,
-48c69f40-8fb2-11eb-924d-9cd76263cbd0,species,adamsii,Adenocritonia,,"R.M.King & H.Rob.","Q2854893,Q2100759",1976,,"Phytologia 33 281 1976",,,,,,4354-2,wfo-0000018959,3089979,,
-34d868ca-8fb6-11eb-924d-9cd76263cbd0,species,heathiae,Adenocritonia,,"(B.L.Turner) R.M.King & H.Rob.","Q4468157,Q2854893,Q2100759",1991,,"Phytologia 71(3): 178. 1991.",,,,,,1197434-2,wfo-0000086879,3089980,,
-b2b74498-8fb9-11eb-924d-9cd76263cbd0,species,steyermarkii,Adenocritonia,,H.Rob.,Q2100759,1991,,"178 1991",,,,,,305262-2,wfo-0000120609,3089981,,
-fe4db0de-8fb1-11eb-924d-9cd76263cbd0,species,condensatus,Adenocyclus,,Less.,Q76352,1829,,"Linnaea 4 337 1829",,,,,,174967-1,wfo-0000001475,3122112,,
+dedf8518-8fd1-11eb-924d-9cd76263cbd0,genus,Adenocritonia,,,"R.M.King & H.Rob.",0,,,"Phytologia 33: 281 (1976)",,,,,,urn:lsid:ipni.org:names:298329-2,wfo-4000000618,3089978,,
+48c69f40-8fb2-11eb-924d-9cd76263cbd0,species,adamsii,Adenocritonia,,"R.M.King & H.Rob.",0,1976,,"Phytologia 33: 281 (1976)",,,,,,urn:lsid:ipni.org:names:4354-2,wfo-0000018959,3089979,,
+34d868ca-8fb6-11eb-924d-9cd76263cbd0,species,heathiae,Adenocritonia,,"(B.L.Turner) H.Rob.",0,1991,,"Phytologia 71(3): 178 (1991)",,,,,,urn:lsid:ipni.org:names:963271-1,wfo-0000086879,3089980,,
+b2b74498-8fb9-11eb-924d-9cd76263cbd0,species,steyermarkii,Adenocritonia,,H.Rob.,0,1991,,"Phytologia 71: 178 (1991)",,,,,,urn:lsid:ipni.org:names:305262-2,wfo-0000120609,3089981,,
+fe4db0de-8fb1-11eb-924d-9cd76263cbd0,species,condensatus,Adenocyclus,,Less.,0,1829,,"Linnaea 4: 337 (1829)",,,,,,urn:lsid:ipni.org:names:174967-1,wfo-0000001475,3122112,,

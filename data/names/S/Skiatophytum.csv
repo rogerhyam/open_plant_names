@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea746d4e-8fd1-11eb-924d-9cd76263cbd0,genus,Skiatophytum,,,L.Bolus,Q63764,1927,,"S. African Gard. 17: 435. 1927.",,,,,,1064-1,wfo-4000035575,7329442,,
-d970e90a-8fd1-11eb-924d-9cd76263cbd0,species,tripolium,Skiatophytum,,"(L.) L.Bolus","Q1043,Q63764",1927,,"S. African Gard. 17: 435 1927",,,,,,,wfo-0001294245,3706622,,
-89cc2b08-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Skidanthera,,Raf.,Q364857,1838,,"Sylva Tellur. 60 1838",,,,,,835120-1,wfo-0000501022,4031510,,
+ea746d4e-8fd1-11eb-924d-9cd76263cbd0,genus,Skiatophytum,,,L.Bolus,0,1927,,"in S. African Gard. 17: 435. 1927.",,,,,,,wfo-4000035575,7329442,,
+88f60992-1d4d-11ec-82c2-f14daa6f2d93,species,flaccidifolium,Skiatophytum,,Klak,,,,"in Taxon 64: 519. 2015.",,,,,,,wfo-0001436194,,,
+88f63192-1d4d-11ec-82c2-f14daa6f2d93,species,skiatophytoides,Skiatophytum,,"(Leistner) Klak",,,,"in Taxon 64: 519. 2015.",,,,,,,wfo-0001436195,,,
+d970e90a-8fd1-11eb-924d-9cd76263cbd0,species,tripolium,Skiatophytum,,"(L.) L.Bolus",0,1927,,"in S. African Gard. 17: 435. 1927.",,,,,,,wfo-0001294245,3706622,,
+89cc2b08-8fcc-11eb-924d-9cd76263cbd0,species,dentata,Skidanthera,,Raf.,0,1838,,"Sylva Tellur. : 60 (1838)",,,,,,urn:lsid:ipni.org:names:835120-1,wfo-0000501022,4031510,,

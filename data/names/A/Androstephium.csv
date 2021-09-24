@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df6cee58-8fd1-11eb-924d-9cd76263cbd0,genus,Androstephium,,,Torr.,Q1346660,1859,,"Rep. U.S. Mex. Bound. 2(1): 218–219. 1859.",,,,,,23983-1,wfo-4000002020,2768133,,
-202b1da2-8fcd-11eb-924d-9cd76263cbd0,species,breviflorum,Androstephium,,S.Watson,Q960820,1873,,"Amer. Naturalist 7: 303 1873",,,,,,530137-1,wfo-0000760057,2768139,,
-202b874c-8fcd-11eb-924d-9cd76263cbd0,species,caeruleum,Androstephium,,"(Scheele) Greene","Q4522370,Q2661665",1890,,"Pittonia 2: 57 1890",,,,,,,wfo-0000760059,2768134,,
-d8a8c178-8fcc-11eb-924d-9cd76263cbd0,form,leucanthum,Androstephium,caeruleum,Benke,Q16574688,1932,,"Rhodora 34: 10 1932",,,,,,,wfo-0000630216,2768135,,
-adac3536-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Androstephium,,Schult.,Q78881,,,,,,,,,,wfo-0001220347,7516458,,
-202ba574-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Androstephium,,Torr.,Q1346660,1858,,"Rep. U.S. Mex. Bound. 2(1): 219 1858",,,,,,,wfo-0000760060,2768138,,
+df6cee58-8fd1-11eb-924d-9cd76263cbd0,genus,Androstephium,,,Torr.,0,1859,,"Rep. U.S. Mex. Bound. 2(1): 218 (1858)",,,,,,urn:lsid:ipni.org:names:23983-1,wfo-4000002020,2768133,,
+202b1da2-8fcd-11eb-924d-9cd76263cbd0,species,breviflorum,Androstephium,,S.Watson,0,1873,,"Amer. Naturalist 7: 303 (1873)",,,,,,urn:lsid:ipni.org:names:530137-1,wfo-0000760057,2768139,,
+202b874c-8fcd-11eb-924d-9cd76263cbd0,species,caeruleum,Androstephium,,"(Scheele) Greene",0,1890,,"Pittonia 2: 57 (1890)",,,,,,urn:lsid:ipni.org:names:13188-2,wfo-0000760059,2768134,,
+d8a8c178-8fcc-11eb-924d-9cd76263cbd0,form,leucanthum,Androstephium,coeruleum,Benke,0,1932,,"Rhodora 34: 10 (1932)",,,,,,urn:lsid:ipni.org:names:13189-2,wfo-0000630216,2768135,,
+adac3536-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Androstephium,,Schult.,0,,,,,,,,,,wfo-0001220347,7516458,,
+202ba574-8fcd-11eb-924d-9cd76263cbd0,species,violaceum,Androstephium,,Torr.,0,1858,,"Rep. U.S. Mex. Bound. 2(1): 219 (1858)",,,,,,urn:lsid:ipni.org:names:530139-1,wfo-0000760060,2768138,,

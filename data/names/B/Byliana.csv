@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a692bd50-9bad-11eb-a8a2-19ed5c03f8d3,genus,Byliana,,,Dippen.,,1930,,"Ann. Univ. Stellenbosch, Reeks A 8A(2): 31 (1930)",,,,a692bd50-9bad-11eb-a8a2-19ed5c03f8d3,,,,,693," "
 db9c46f2-9bac-11eb-a8a2-19ed5c03f8d3,species,halleriae,Byliana,,Dippen.,,1930,,"Ann. Univ. Stellenbosch, Reeks A 8(2): (1930)",,,,db9c46f2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,266775," "
-b8398d0a-8fcc-11eb-924d-9cd76263cbd0,species,bernalensis,Byrnesia,,"(Kimnach & Moran) P.V.Heath","Q6035255,Q3821760,Q6067280",1994,,"Calyx 4: 132 1994",,,,,,977681-1,wfo-0000576665,4200306,,
-b839b38e-8fcc-11eb-924d-9cd76263cbd0,species,weinbergii,Byrnesia,,Rose,Q1336049,1922,,"Addisonia 7: 37 1922",,,,,,38777-2,wfo-0000576666,4200287,,
-b839d1a2-8fcc-11eb-924d-9cd76263cbd0,species,anomala,Byronia,,"(Hook. & Arn.) A.Heller","Q472639,Q730292,Q2373009",1896,,"Minnesota Bot. Stud. 1: 847 1896",,,,1165b840-8fcd-11eb-924d-9cd76263cbd0,,82999-1,wfo-0000576667,7771152,,
-b839ee8a-8fcc-11eb-924d-9cd76263cbd0,species,arnhemensis,Byronia,,F.Muell.,Q708002,1861,,"Fragm. 2: 119 1861",,,,,,83000-1,wfo-0000576668,7441380,,
-b83a08b6-8fcc-11eb-924d-9cd76263cbd0,species,helleri,Byronia,,H.Lév.,Q134120,1911,,"Repert. Spec. Nov. Regni Veg. 10: 155 1911",,Q55752633,,,,83001-1,wfo-0000576669,8088333,,
-b83a23aa-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Byronia,,Steud.,Q62821,1840,,"Nomencl. Bot. ed. 2, 1: 242 1840",,,,,,83002-1,wfo-0000576670,8242572,,
-b83a3e44-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Byronia,,Endl.,Q78605,1836,,"Ann. Wiener Mus. Naturgesch. 1: 184 1836",,,,,,83003-1,wfo-0000576671,7420214,,
-b83a59ce-8fcc-11eb-924d-9cd76263cbd0,species,tailensis,Byronia,,A.Gray,Q347356,1854,,"U.S. Expl. Exped., Phan. 1: 297 1854",,,,,,,wfo-0000576672,7469230,,
+b8398d0a-8fcc-11eb-924d-9cd76263cbd0,species,bernalensis,Byrnesia,,"(Kimnach & Moran) P.V.Heath",0,1994,,"Calyx 4: 132 (1994)",,,,,,urn:lsid:ipni.org:names:977681-1,wfo-0000576665,4200306,,
+b839b38e-8fcc-11eb-924d-9cd76263cbd0,species,weinbergii,Byrnesia,,Rose,0,1922,,"Addisonia 7: 37 (1922)",,,,,,urn:lsid:ipni.org:names:38777-2,wfo-0000576666,4200287,,
+b839d1a2-8fcc-11eb-924d-9cd76263cbd0,species,anomala,Byronia,,A.Heller,0,1896,,"Minnesota Bot. Stud. 1: 847 (1896)",,,,1165b840-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:82999-1,wfo-0000576667,7771152,,
+b839ee8a-8fcc-11eb-924d-9cd76263cbd0,species,arnhemensis,Byronia,,F.Muell.,0,1861,,"Fragm. 2: 119 (1861)",,,,,,urn:lsid:ipni.org:names:83000-1,wfo-0000576668,7441380,,
+b83a08b6-8fcc-11eb-924d-9cd76263cbd0,species,helleri,Byronia,,H.Lév.,0,1911,,"Repert. Spec. Nov. Regni Veg. 10: 155 (1911)",,Q55752633,,,,urn:lsid:ipni.org:names:83001-1,wfo-0000576669,8088333,,
+b83a23aa-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Byronia,,Steud.,0,1840,,"Nomencl. Bot. , ed. 2, 1: 242 (1840)",,,,,,urn:lsid:ipni.org:names:83002-1,wfo-0000576670,8242572,,
+b83a3e44-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Byronia,,Endl.,0,1836,,"Ann. Wiener Mus. Naturgesch. 1: 184 (1836)",,,,,,urn:lsid:ipni.org:names:83003-1,wfo-0000576671,7420214,,
+b83a59ce-8fcc-11eb-924d-9cd76263cbd0,species,taitensis,Byronia,,A.Gray,0,1854,,"U.S. Expl. Exped., Phan. 1: 297 (1854)",,,,,,urn:lsid:ipni.org:names:83004-1,wfo-0000576672,7469230,,

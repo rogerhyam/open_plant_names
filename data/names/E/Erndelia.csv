@@ -1,8 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3770aa6-8fd1-11eb-924d-9cd76263cbd0,genus,Erndelia,,,,,,,,,,,,,,wfo-4000013913,,,
-f37e40a4-8fcc-11eb-924d-9cd76263cbd0,species,reflexiflora,Erndelia,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 104 1838",,,,,,674486-1,wfo-0000676622,3587252,,
-538f1d34-8fcc-11eb-924d-9cd76263cbd0,species,subpersonata,Erndlia,,Giseke,Q67011,1792,,"Prael. Ord. Nat. Pl. 252 1792",,,,,,872430-1,wfo-0000415235,2757591,,
-538f7022-8fcc-11eb-924d-9cd76263cbd0,species,zerumbet,Erndlia,,Giseke,Q67011,1792,,"Prael. Ord. Nat. Pl. 199 1792",,,,,,796599-1,wfo-0000415236,2757595,,
-98a6883e-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Ernestella,,"(H.L.Wendl.) Germ.","Q68246,Q2601930",1878,,"; 1878 39 1878",,,,,,,wfo-0000994903,9203216,,
-9d3cfbda-8fcd-11eb-924d-9cd76263cbd0,variety,involucrata,Ernestella,bracteata,"(Roxb. ex Lindl.) Hurst","Q748967,Q378629,Q5076178",1928,,"; 1928 902 1928",,,,95785afc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001004459,3004289,,
-9d3cdbe6-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Ernestella,,"(Roxb. ex Lindl.) Germ.","Q748967,Q378629,Q2601930",1854,,"Bulletin de la Soci‚t‚ Botanique de France ; 1854 xxxiv 1875",,,,95785afc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001004458,3004291,,
+e3770aa6-8fd1-11eb-924d-9cd76263cbd0,genus,Erndelia,,,Neck.,,,,"Elem. Bot. 2: 235 (1790)",,,,,,urn:lsid:ipni.org:names:31763-1,wfo-4000013913,,,
+f37e40a4-8fcc-11eb-924d-9cd76263cbd0,species,reflexiflora,Erndelia,,Raf.,0,1838,,"Fl. Tellur. 4: 104 (1838)",,,,,,urn:lsid:ipni.org:names:674486-1,wfo-0000676622,3587252,,

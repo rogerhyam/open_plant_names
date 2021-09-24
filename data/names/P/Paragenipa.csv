@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7f524e6-8fd1-11eb-924d-9cd76263cbd0,genus,Paragenipa,,,Baill.,Q461931,1879,,"Bull. Mens. Soc. Linn. Paris 1: 207. 1879.",,,,,,35064-1,wfo-4000028021,2898589,,
-eff09e6a-8fcb-11eb-924d-9cd76263cbd0,species,cervorum,Paragenipa,,Baill.,Q461931,1879,,"Bull. Mens. Soc. Linn. Paris 2: 207 1879",,,,,,759414-1,wfo-0000264382,2898594,,
-eff0d7a4-8fcb-11eb-924d-9cd76263cbd0,species,lancifolia,Paragenipa,,"(Bojer ex Baker) Tirveng. & Robbr.","Q637799,Q730330,Q5804720,Q5829832",1985,,"Nordic J. Bot. 5: 458 1985",,Q55761253,,ffc58800-8fcb-11eb-924d-9cd76263cbd0,,915336-1,wfo-0000264384,2898590,,
-eff0f522-8fcb-11eb-924d-9cd76263cbd0,species,wrightii,Paragenipa,,"(Baker) F.Friedmann","Q730330,Q13408026",1994,,"Fl. Seychelles Dicot.: 607 1994",,,,,,982776-1,wfo-0000264385,2898593,,
+e7f524e6-8fd1-11eb-924d-9cd76263cbd0,genus,Paragenipa,,,Baill.,0,1879,,"Bull. Mens. Soc. Linn. Paris 2: 207 (1879)",,,,,,urn:lsid:ipni.org:names:35064-1,wfo-4000028021,2898589,,
+eff09e6a-8fcb-11eb-924d-9cd76263cbd0,species,cervorum,Paragenipa,,Baill.,0,1879,,"Bull. Mens. Soc. Linn. Paris 2: 207 (1879)",,,,,,urn:lsid:ipni.org:names:759414-1,wfo-0000264382,2898594,,
+eff0d7a4-8fcb-11eb-924d-9cd76263cbd0,species,lancifolia,Paragenipa,,"(Bojer ex Baker) Tirveng. & Robbr.",0,1985,,"Nordic J. Bot. 5: 458 (1985)",,Q55761253,,ffc58800-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:915336-1,wfo-0000264384,2898590,,
+eff0f522-8fcb-11eb-924d-9cd76263cbd0,species,wrightii,Paragenipa,,"(Baker) F.Friedmann",0,1994,,"Fl. Seychelles , Dicot.: 607 (1994)",,,,,,urn:lsid:ipni.org:names:982776-1,wfo-0000264385,2898593,,

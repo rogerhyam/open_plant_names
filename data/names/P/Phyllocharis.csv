@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a310ac32-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phyllocharis,,,Fée,Q2627241,1825,,"Essai Crypt. Exot. (Paris) 1: lix, xciv, xcix (1825)",,,,a310ac32-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4062," "
-8e99b492-9bad-11eb-a8a2-19ed5c03f8d3,species,complanata,Phyllocharis,,Fée,Q2627241,1825,,"Essai Crypt. Exot. (Paris) 1: xciv, xcix (1825)",,,,8e99b492-9bad-11eb-a8a2-19ed5c03f8d3,,,,,400420," "
-87fed302-9bac-11eb-a8a2-19ed5c03f8d3,species,elegans,Phyllocharis,,Fée,Q2627241,1825,,"Essai Crypt. Exot. (Paris) 1: xciv, c (1825)",,,,87fed302-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188147," "
-3b5ab286-8fcd-11eb-924d-9cd76263cbd0,species,lamiifolia,Phyllocharis,,E.Wimm.,Q90276,1948,,"Ann. Naturhist. Mus. Wien 56: 372 1948",,,,,,144297-1,wfo-0000817982,5413097,,
-3b5acf5a-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolia,Phyllocharis,,Diels,Q77123,1917,,"Bot. Jahrb. Syst. 55: 124 1917",,,,,,144298-1,wfo-0000817983,5413090,,
-8e99e296-9bad-11eb-a8a2-19ed5c03f8d3,species,rotula,Phyllocharis,,"(Mont.) Trevis.","Q1029228,Q634712",,,,,,,4bb7cd76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,400422," "
-3b5aeba2-8fcd-11eb-924d-9cd76263cbd0,species,saxicola,Phyllocharis,,P.Royen,Q2094306,1960,,"in Fl. Males. 6: 139 1960",,,,,,144299-1,wfo-0000817984,5413094,,
-3b3a5d9c-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Phyllocharis,,Diels,Q77123,1917,,"Bot. Jahrb. Syst. 55: 124 1917",,,,,,144300-1,wfo-0000817690,5413092,,
-3b3554dc-8fcd-11eb-924d-9cd76263cbd0,species,subcordata,Phyllocharis,,"Merr. & L.M.Perry","Q729926,Q5395639",1941,,"J. Arnold Arbor. 22: 387 1941",,Q100547914,,,,144301-1,wfo-0000817644,5413096,,
-10df69b2-8fb3-11eb-924d-9cd76263cbd0,species,densifolium,Phyllochilium,,"(Phil.) Cabrera","Q214994,Q1999131",1937,,"172 1937",,,,,,195128-2,wfo-0000040822,3086541,,
+a310ac32-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phyllocharis,,,Fée,0,1825,,"Essai Crypt. Exot. (Paris) 1: lix, xciv, xcix (1825)",,,,a310ac32-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4062," "
+8e99b492-9bad-11eb-a8a2-19ed5c03f8d3,species,complanata,Phyllocharis,,Fée,0,1825,,"Essai Crypt. Exot. (Paris) 1: xciv, xcix (1825)",,,,8e99b492-9bad-11eb-a8a2-19ed5c03f8d3,,,,,400420," "
+87fed302-9bac-11eb-a8a2-19ed5c03f8d3,species,elegans,Phyllocharis,,Fée,0,1825,,"Essai Crypt. Exot. (Paris) 1: xciv, c (1825)",,,,87fed302-9bac-11eb-a8a2-19ed5c03f8d3,,,,,188147," "
+3b5ab286-8fcd-11eb-924d-9cd76263cbd0,species,lamiifolia,Phyllocharis,,E.Wimm.,0,1948,,"Ann. Naturhist. Mus. Wien 56: 372 (1948)",,,,,,urn:lsid:ipni.org:names:144297-1,wfo-0000817982,5413097,,
+3b5acf5a-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolia,Phyllocharis,,Diels,0,1917,,"Bot. Jahrb. Syst. 55: 124 (1917)",,,,,,urn:lsid:ipni.org:names:144298-1,wfo-0000817983,5413090,,
+8e99e296-9bad-11eb-a8a2-19ed5c03f8d3,species,rotula,Phyllocharis,,"(Mont.) Trevis.",0,,,,,,,4bb7cd76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,400422," "
+3b5aeba2-8fcd-11eb-924d-9cd76263cbd0,species,saxicola,Phyllocharis,,P.Royen,0,1960,,"Fl. Males. 6: 139 (1960)",,,,,,urn:lsid:ipni.org:names:144299-1,wfo-0000817984,5413094,,
+3b3a5d9c-8fcd-11eb-924d-9cd76263cbd0,species,schlechteri,Phyllocharis,,Diels,0,1917,,"Bot. Jahrb. Syst. 55: 124 (1917)",,,,,,urn:lsid:ipni.org:names:144300-1,wfo-0000817690,5413092,,
+3b3554dc-8fcd-11eb-924d-9cd76263cbd0,species,subcordata,Phyllocharis,,"Merr. & L.M.Perry",0,1941,,"J. Arnold Arbor. 22: 387 (1941)",,Q100547914,,,,urn:lsid:ipni.org:names:144301-1,wfo-0000817644,5413096,,
+10df69b2-8fb3-11eb-924d-9cd76263cbd0,species,densifolium,Phyllochilium,,"(Phil.) Cabrera",0,1937,,"Notas Mus. La Plata, Bot. 2, Bot. n.° 16: 172 (1937)",,,,,,urn:lsid:ipni.org:names:195128-2,wfo-0000040822,3086541,,

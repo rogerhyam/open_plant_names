@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e514a3a0-8fd1-11eb-924d-9cd76263cbd0,genus,Indopoa,,,Bor,Q4026914,1958,,"Kew Bull. 13: 225. 1958.",,Q55779710,,,,18272-1,wfo-4000019070,4145015,,
-560a98f8-8fcd-11eb-924d-9cd76263cbd0,species,paupercula,Indopoa,,"(Stapf) Bor","Q78630,Q4026914",1958,,"Kew Bull. 13: 226 1958",,Q55779710,,,,405884-1,wfo-0000875769,4145014,,
-5fd7dcb8-8fca-11eb-924d-9cd76263cbd0,species,burmanica,Indopolysolenia,,"Deb & Rout","Q21391768,Q21607478",1990,,"Kew Bull. 45: 339 1990",,Q55784341,,,,940028-1,wfo-0000217474,2900807,,
-5fe59682-8fca-11eb-924d-9cd76263cbd0,species,wallichii,Indopolysolenia,,"(Hook.f.) Bennet","Q157501,Q6128136",1981,,"Indian Forester 107: 437 1981",,,,,,908990-1,wfo-0000217475,2900815,,
+e514a3a0-8fd1-11eb-924d-9cd76263cbd0,genus,Indopoa,,,Bor,0,1958,,"Kew Bull. 13: 225 (1958)",,Q55779710,,,,urn:lsid:ipni.org:names:18272-1,wfo-4000019070,4145015,,
+560a98f8-8fcd-11eb-924d-9cd76263cbd0,species,paupercula,Indopoa,,Bor,0,1958,,"Fl. Hassan Dist. : 735 (1976)",,Q55779710,,,,urn:lsid:ipni.org:names:405884-1,wfo-0000875769,4145014,,
+5fd7dcb8-8fca-11eb-924d-9cd76263cbd0,species,burmanica,Indopolysolenia,,"Deb & Rout",0,1990,,"Kew Bull. 45: 339 (1990)",,Q55784341,,,,urn:lsid:ipni.org:names:940028-1,wfo-0000217474,2900807,,
+5fe59682-8fca-11eb-924d-9cd76263cbd0,species,wallichii,Indopolysolenia,,"(Hook.f.) Bennet",0,1981,,"Indian Forester 107: 437 (1981)",,,,,,urn:lsid:ipni.org:names:908990-1,wfo-0000217475,2900815,,

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a3463e9c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Helote,,,Hazsl.,Q1034588,1881,,"Magyar. Tud. Akad. Értes. 11(19): 8 (1881)",,,,a3463e9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2269," "
-a777745a-9bac-11eb-a8a2-19ed5c03f8d3,species,viridis,Helote,,"(Pers.) Hazsl.","Q346451,Q1034588",1881,,"Magyar. Tud. Akad. Értes. 11(19): 8 (1881)",,,,,,,,,431734," "
-65f8b296-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Helothrix,,"(R.Br.) Palla","Q155764,Q5818912",1902,,"Allg. Bot. Z. Syst. 8: 68 1902",,,,,,308763-1,wfo-0000439836,2709768,,
-65fa0344-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Helothrix,,"(R.Br.) Palla","Q155764,Q5818912",1902,,"Allg. Bot. Z. Syst. 8: 68 1902",,,,,,,wfo-0000439844,2709877,,
-65fad6a2-8fcc-11eb-924d-9cd76263cbd0,species,paludosa,Helothrix,,"(R.Br.) Palla","Q155764,Q5818912",1902,,"Allg. Bot. Z. Syst. 8: 68 1902",,,,,,308765-1,wfo-0000439851,2710000,,
-65fc4fe6-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Helothrix,,Palla,Q5818912,1911,,"Allg. Bot. Z. Syst. 17(Beil.): 1 1911",,,,,,308766-1,wfo-0000439860,2709769,,
-65fd2952-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Helothrix,,Nees,Q76349,1841,,"Ann. Mag. Nat. Hist. 6: 45 1841",,,,,,308767-1,wfo-0000439867,2709774,,
+a3463e9c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Helote,,,Hazsl.,0,1881,,"Magyar. Tud. Akad. Értes. 11(19): 8 (1881)",,,,a3463e9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2269," "
+a777745a-9bac-11eb-a8a2-19ed5c03f8d3,species,viridis,Helote,,"(Pers.) Hazsl.",0,1881,,"Magyar. Tud. Akad. Értes. 11(19): 8 (1881)",,,,,,,,,431734," "
+65f8b296-8fcc-11eb-924d-9cd76263cbd0,species,axillaris,Helothrix,,"(R.Br.) Palla",0,1902,,"Allg. Bot. Z. Syst. 8: 68 (1902)",,,,,,urn:lsid:ipni.org:names:308763-1,wfo-0000439836,2709768,,
+65fa0344-8fcc-11eb-924d-9cd76263cbd0,species,imberbis,Helothrix,,"(R.Br.) Palla",0,1902,,"Allg. Bot. Z. Syst. 8: 68 (1902)",,,,,,urn:lsid:ipni.org:names:143995-3,wfo-0000439844,2709877,,
+65fad6a2-8fcc-11eb-924d-9cd76263cbd0,species,paludosa,Helothrix,,"(R.Br.) Palla",0,1902,,"Allg. Bot. Z. Syst. 8: 68 (1902)",,,,,,urn:lsid:ipni.org:names:308765-1,wfo-0000439851,2710000,,
+65fc4fe6-8fcc-11eb-924d-9cd76263cbd0,species,philippinensis,Helothrix,,Palla,0,1911,,"Allg. Bot. Z. Syst. 17(Beibl.): 1 (1911)",,,,,,urn:lsid:ipni.org:names:308766-1,wfo-0000439860,2709769,,
+65fd2952-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Helothrix,,Nees,0,1841,,"Ann. Mag. Nat. Hist. 6: 45 (1840)",,,,,,urn:lsid:ipni.org:names:308767-1,wfo-0000439867,2709774,,

@@ -1,3 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3f3e4cc-8fd1-11eb-924d-9cd76263cbd0,genus,Genistidium,,,I.M.Johnst.,Q729850,,,,,Q100547805,,,,295837-2,wfo-4000015491,2967007,,
-59beced6-8fc0-11eb-924d-9cd76263cbd0,species,dumosum,Genistidium,,I.M.Johnst.,Q729850,,,,,,,,,,wfo-0000165458,2967008,,
+e3f3e4cc-8fd1-11eb-924d-9cd76263cbd0,genus,Genistidium,,,I.M.Johnst.,0,,,"J. Arnold Arbor. 22: 113 (1941)",,Q100547805,,,,urn:lsid:ipni.org:names:295837-2,wfo-4000015491,2967007,,
+565025d6-1d4d-11ec-82c2-f14daa6f2d93,species,anfractuosa,Genistidium,,Tutin,,,,"J. Bot. 72: 310, fig. 2. 1934",,,,,,urn:lsid:ipni.org:names:108127-2,wfo-0001348787,,,
+59beced6-8fc0-11eb-924d-9cd76263cbd0,species,dumosum,Genistidium,,I.M.Johnst.,0,,,"J. Arnold Arbor. 22: 113 (1941)",,,,,,urn:lsid:ipni.org:names:108126-2,wfo-0000165458,2967008,,
+56507a4a-1d4d-11ec-82c2-f14daa6f2d93,species,esmeraldae,Genistidium,,Steyerm.,,,,"Fieldiana, Bot. 28: 534. 1953",,,,,,urn:lsid:ipni.org:names:108129-2,wfo-0001348788,,,
+5650b64a-1d4d-11ec-82c2-f14daa6f2d93,species,guianensis,Genistidium,,N.E.Br.,,,,"Hooker's Icon. Pl. 27: tab. 2629. 1900",,,,,,urn:lsid:ipni.org:names:108131-2,wfo-0001348789,,,
+5650deea-1d4d-11ec-82c2-f14daa6f2d93,species,nigrocaulis,Genistidium,,Steyerm.,,,,"Bull. Torrey Bot. Club 75: 657. 1948",,,,,,urn:lsid:ipni.org:names:108132-2,wfo-0001348790,,,
+56510726-1d4d-11ec-82c2-f14daa6f2d93,species,oxycentron,Genistidium,,P.Taylor,,,,"Bull. Dept. Agric. Trinidad & Tobago 2(5): 288. 1954",,,,,,urn:lsid:ipni.org:names:108133-2,wfo-0001348791,,,
+56512dbe-1d4d-11ec-82c2-f14daa6f2d93,species,roraimensis,Genistidium,,N.E.Br.,,,,"Trans. Linn. Soc. London, Bot. ser. 2, 6: 56, pl. 11, fig. 5-12. 1901",,,,,,urn:lsid:ipni.org:names:108135-2,wfo-0001348792,,,
+5651571c-1d4d-11ec-82c2-f14daa6f2d93,species,sanariapoana,Genistidium,,Steyerm.,,,,"Fieldiana, Bot. 28: 534. 1953",,,,,,urn:lsid:ipni.org:names:108136-2,wfo-0001348793,,,
+565190c4-1d4d-11ec-82c2-f14daa6f2d93,species,uncinata,Genistidium,,"P.Taylor & Fromm",,,,"Bradea 3(41): 365 (-367), fig. 1983",,,,,,urn:lsid:ipni.org:names:108137-2,wfo-0001348794,,,

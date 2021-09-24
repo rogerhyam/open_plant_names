@@ -1,58 +1,58 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1bb1f86-8fd1-11eb-924d-9cd76263cbd0,genus,Ciliaria,,,Haw.,Q373119,1821,,"Saxifrag. Enum. 41–43. 1821.",,,,e1bb1f86-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000008318,3230661,1051," "
-c9929ac4-8fcc-11eb-924d-9cd76263cbd0,species,aspera,Ciliaria,,"(L.) Haw.","Q1043,Q373119",1821,,"Saxifrag. Enum. 1: 42 1821",,,,,,790693-1,wfo-0000604684,5567758,,
-2080a43a-9bac-11eb-a8a2-19ed5c03f8d3,species,asperior,Ciliaria,,"(Nyl.) Boud.",Q932083,,,,,,,050ce6d6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,355636," "
-21dc79a2-9bad-11eb-a8a2-19ed5c03f8d3,variety,asperior,Ciliaria,asperior,"(Nyl.) Boud.",Q932083,,,,,,,21dc79a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,417456," "
+e1bb1f86-8fd1-11eb-924d-9cd76263cbd0,genus,Ciliaria,,,Haw.,0,1821,,"Saxifrag. Enum. 1: 41 (1821)",,,,e1bb1f86-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30075226-2,wfo-4000008318,3230661,1051," "
+c9929ac4-8fcc-11eb-924d-9cd76263cbd0,species,aspera,Ciliaria,,Haw.,0,1821,,"Saxifrag. Enum. 1: 42 (1821)",,,,,,urn:lsid:ipni.org:names:790693-1,wfo-0000604684,5567758,,
+2080a43a-9bac-11eb-a8a2-19ed5c03f8d3,species,asperior,Ciliaria,,"(Nyl.) Boud.",0,,,,,,,050ce6d6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,355636," "
+21dc79a2-9bad-11eb-a8a2-19ed5c03f8d3,variety,asperior,Ciliaria,asperior,"(Nyl.) Boud.",0,,,,,,,21dc79a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,417456," "
 2ef109d8-9bac-11eb-a8a2-19ed5c03f8d3,variety,macracantha,Ciliaria,asperior,"Le Gal",,1947,invalid,"Annls Sci. Nat., Zool. Biol. Anim., sér. 11 8: 140 (1947)",,,,2ef109d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,117206,"Nom. inval., Art. 36.1 "
-c992ba36-8fcc-11eb-924d-9cd76263cbd0,species,austromontana,Ciliaria,,"(Wiegand) W.A.Weber","Q5958294,Q4105706",1982,,"Phytologia 51: 371 1982",,,,b5c67d08-8fd1-11eb-924d-9cd76263cbd0,,910421-1,wfo-0000604685,5567751,,
+c992ba36-8fcc-11eb-924d-9cd76263cbd0,species,austromontana,Ciliaria,,"(Wiegand) W.A.Weber",0,1982,,"Phytologia 51(6): 371. 1982",,,,b5c67d08-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:910421-1,wfo-0000604685,5567751,,
 7fe9e7aa-9bad-11eb-a8a2-19ed5c03f8d3,species,barlae,Ciliaria,,Boud.,,1887,,"Champ. Fr. 4 & tab. 14, fig. 4 (1887)",,,,7fe9e7aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,154935," "
 6634af30-9bac-11eb-a8a2-19ed5c03f8d3,species,bicuspis,Ciliaria,,Boud.,,1896,,"Bull. Soc. mycol. Fr. 11 (1896)",,,,6634af30-9bac-11eb-a8a2-19ed5c03f8d3,,,,,154233," "
-4fe5592c-9bad-11eb-a8a2-19ed5c03f8d3,species,binominata,Ciliaria,,"(Massee) Boud. ex Ramsb.",Q4284198,,,,,,,abc1c118-9bad-11eb-a8a2-19ed5c03f8d3,,,,,414905," "
-c992d7c8-8fcc-11eb-924d-9cd76263cbd0,species,bronchialis,Ciliaria,,"(L.) Haw.","Q1043,Q373119",1821,,"Saxifrag. Enum. 1: 43 1821",,,,85e4d2ce-8fcc-11eb-924d-9cd76263cbd0,,790694-1,wfo-0000604686,5567748,,
-30bb3306-9bac-11eb-a8a2-19ed5c03f8d3,species,brunnea,Ciliaria,,"(Alb. & Schwein.) Boud.","Q62241,Q1822110",1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,,,,,,120040," "
-c992f67c-8fcc-11eb-924d-9cd76263cbd0,species,bryoides,Ciliaria,,"(L.) Haw.","Q1043,Q373119",1821,,"Saxifrag. Enum. 1: 42 1821",,,,85dff4c0-8fcc-11eb-924d-9cd76263cbd0,,790695-1,wfo-0000604687,5567746,,
-a7de6c3c-9bac-11eb-a8a2-19ed5c03f8d3,species,carneosanguinea,Ciliaria,,"(Fuckel) Boud.",Q66899,,,,,,,6564be14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,433718," "
+4fe5592c-9bad-11eb-a8a2-19ed5c03f8d3,species,binominata,Ciliaria,,"(Massee) Boud. ex Ramsb.",0,,,,,,,abc1c118-9bad-11eb-a8a2-19ed5c03f8d3,,,,,414905," "
+c992d7c8-8fcc-11eb-924d-9cd76263cbd0,species,bronchialis,Ciliaria,,"(L.) Haw.",0,1821,,"Saxifrag. Enum. 1: 43 (1821)",,,,85e4d2ce-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:790694-1,wfo-0000604686,5567748,,
+30bb3306-9bac-11eb-a8a2-19ed5c03f8d3,species,brunnea,Ciliaria,,"(Alb. & Schwein.) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,,,,,,120040," "
+c992f67c-8fcc-11eb-924d-9cd76263cbd0,species,bryoides,Ciliaria,,Haw.,0,1821,,"Saxifrag. Enum. 1: 42 (1821)",,,,85dff4c0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:790695-1,wfo-0000604687,5567746,,
+a7de6c3c-9bac-11eb-a8a2-19ed5c03f8d3,species,carneosanguinea,Ciliaria,,"(Fuckel) Boud.",0,,,,,,,6564be14-9bad-11eb-a8a2-19ed5c03f8d3,,,,,433718," "
 d6441e3c-9bac-11eb-a8a2-19ed5c03f8d3,species,caudata,Ciliaria,,"W.D. Buckley",,1923,,"Trans. Br. mycol. Soc. 9: 45 (1923)",,,,d6441e3c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,260113," "
-c993121a-8fcc-11eb-924d-9cd76263cbd0,species,cherlerioides,Ciliaria,,H.Hara,Q247149,1939,,"Nov. Fl. Jap. 3: 58 1939",,,,,,790696-1,wfo-0000604688,5567743,,
-c9932eee-8fcc-11eb-924d-9cd76263cbd0,species,cinerascens,Ciliaria,,Losinsk.,Q5653423,1928,,"Izv. Glavn. Bot. Sada S.S.S.R. 27: 601 1928",,,,,,790697-1,wfo-0000604689,5567740,,
-4fe585fa-9bad-11eb-a8a2-19ed5c03f8d3,species,citrina,Ciliaria,,"(Massee & Crossl.) Boud. ex Ramsb.",Q4284198,,,,,,,8f25a584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,414906," "
+c993121a-8fcc-11eb-924d-9cd76263cbd0,species,cherlerioides,Ciliaria,,Hara,0,1939,,"Nov. Fl. Jap. 3: 58 (1939)",,,,,,urn:lsid:ipni.org:names:790696-1,wfo-0000604688,5567743,,
+c9932eee-8fcc-11eb-924d-9cd76263cbd0,species,cinerascens,Ciliaria,,Losinsk.,0,1928,,"Izv. Glavn. Bot. Sada S.S.S.R. 27: 601 (1928)",,,,,,urn:lsid:ipni.org:names:790697-1,wfo-0000604689,5567740,,
+4fe585fa-9bad-11eb-a8a2-19ed5c03f8d3,species,citrina,Ciliaria,,"(Massee & Crossl.) Boud. ex Ramsb.",0,,,,,,,8f25a584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,414906," "
 6809b30a-9bac-11eb-a8a2-19ed5c03f8d3,species,cocoës,Ciliaria,,Pat.,,1906,,"Bull. Soc. mycol. Fr. 22: 52 (1906)",,,,6809b30a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,154741," "
-1d527928-9bac-11eb-a8a2-19ed5c03f8d3,species,confusa,Ciliaria,,"(Cooke) Boud.",Q2351239,1907,,"Icon. Mycol. (Paris) 2: pl. 379 (1907)",,,,94c92a2e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,120212," "
-62e4a2ee-9bad-11eb-a8a2-19ed5c03f8d3,species,contorta,Ciliaria,,"(Massee & Crossl.) Boud.",Q4284198,,,,,,,d05db302-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433764," "
+1d527928-9bac-11eb-a8a2-19ed5c03f8d3,species,confusa,Ciliaria,,"(Cooke) Boud.",0,1907,,"Icon. Mycol. (Paris) 2: pl. 379 (1907)",,,,94c92a2e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,120212," "
+62e4a2ee-9bad-11eb-a8a2-19ed5c03f8d3,species,contorta,Ciliaria,,"(Massee & Crossl.) Boud.",0,,,,,,,d05db302-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433764," "
 ca2004e0-9bac-11eb-a8a2-19ed5c03f8d3,species,coprinaria,Ciliaria,,Quél.,,1882,,"Compt. Rend. Assoc. Franç. Avancem. Sci. La Rochelle, La Rochelle 11: 20 (1882)",,,,ca2004e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,154574," "
-c58544a4-9bac-11eb-a8a2-19ed5c03f8d3,species,crucipila,Ciliaria,,"(Cooke & W. Phillips) Boud.",Q2351239,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,966de86a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,118905," "
-24a8b962-9bac-11eb-a8a2-19ed5c03f8d3,species,cubensis,Ciliaria,,"(Berk. & M.A. Curtis) Pat.",Q662338,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 65 (1903)",,,,9ac7e348-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102319," "
-da16e012-9bac-11eb-a8a2-19ed5c03f8d3,species,fleischeriana,Ciliaria,,"(Henn.) Overeem",Q4497246,,,,,,,78ecdaea-9bab-11eb-a8a2-19ed5c03f8d3,,,,,265093," "
-c9934be0-8fcc-11eb-924d-9cd76263cbd0,species,funstonii,Ciliaria,,"(Small) W.A.Weber","Q2590065,Q4105706",1982,,"Phytologia 51: 371 1982",,,,,,58686-2,wfo-0000604690,5567735,,
-2204d8da-9bac-11eb-a8a2-19ed5c03f8d3,species,fuscoatra,Ciliaria,,"(Rebent.) Quél.",Q20016529,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,72eb73a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,504638," "
-3728051a-9bad-11eb-a8a2-19ed5c03f8d3,species,hinnulea,Ciliaria,,"(Berk. & Broome) Boud.","Q662338,Q1932460",,,,,,,8ef0b5fe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433628," "
-2490878e-9bac-11eb-a8a2-19ed5c03f8d3,species,hirta,Ciliaria,,"(Schumach.) Pat.",Q66153,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 65 (1903)",,,,190110f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102233," "
+c58544a4-9bac-11eb-a8a2-19ed5c03f8d3,species,crucipila,Ciliaria,,"(Cooke & W. Phillips) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,966de86a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,118905," "
+24a8b962-9bac-11eb-a8a2-19ed5c03f8d3,species,cubensis,Ciliaria,,"(Berk. & M.A. Curtis) Pat.",0,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 65 (1903)",,,,9ac7e348-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102319," "
+da16e012-9bac-11eb-a8a2-19ed5c03f8d3,species,fleischeriana,Ciliaria,,"(Henn.) Overeem",0,,,,,,,78ecdaea-9bab-11eb-a8a2-19ed5c03f8d3,,,,,265093," "
+c9934be0-8fcc-11eb-924d-9cd76263cbd0,species,funstonii,Ciliaria,,"(Small) W.A.Weber",0,1982,,"Phytologia 51: 371 (1982)",,,,,,urn:lsid:ipni.org:names:58686-2,wfo-0000604690,5567735,,
+2204d8da-9bac-11eb-a8a2-19ed5c03f8d3,species,fuscoatra,Ciliaria,,"(Rebent.) Quél.",0,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,72eb73a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,504638," "
+3728051a-9bad-11eb-a8a2-19ed5c03f8d3,species,hinnulea,Ciliaria,,"(Berk. & Broome) Boud.",0,,,,,,,8ef0b5fe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433628," "
+2490878e-9bac-11eb-a8a2-19ed5c03f8d3,species,hirta,Ciliaria,,"(Schumach.) Pat.",0,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 65 (1903)",,,,190110f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102233," "
 dbc5c234-9bac-11eb-a8a2-19ed5c03f8d3,variety,aurantiaca,Ciliaria,hirta,Grelet,,1926,,"Bull. Soc. mycol. Fr. 42: 203 (1926)",,,,dbc5c234-9bac-11eb-a8a2-19ed5c03f8d3,,,,,267214," "
-c1c376b0-9bac-11eb-a8a2-19ed5c03f8d3,variety,hirta,Ciliaria,hirta,"(Schumach.) Arnould",Q66153,1893,,"Bull. Soc. mycol. Fr. 9: 112 (1893)",,,,c1c376b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,424969," "
+c1c376b0-9bac-11eb-a8a2-19ed5c03f8d3,variety,hirta,Ciliaria,hirta,"(Schumach.) Arnould",0,1893,,"Bull. Soc. mycol. Fr. 9: 112 (1893)",,,,c1c376b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,424969," "
 501367b8-9bad-11eb-a8a2-19ed5c03f8d3,species,hirtococcinea,Ciliaria,,"(W. Phillips & Plowr.) Boud.",,,,,,,,8198b384-9bac-11eb-a8a2-19ed5c03f8d3,,,,,415110," "
-fd6a3ca4-9bab-11eb-a8a2-19ed5c03f8d3,species,lapidaria,Ciliaria,,"(Cooke) Boud.",Q2351239,,,,,,,7f98af44-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433669," "
-24c68294-9bac-11eb-a8a2-19ed5c03f8d3,species,livida,Ciliaria,,"(Schumach.) Pat.",Q66153,1906,,"Bull. Soc. mycol. Fr. 22: 53 (1906)",,,,0ee57674-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102519," "
-693320cc-9bac-11eb-a8a2-19ed5c03f8d3,species,lusatiae,Ciliaria,,"(Cooke) Boud.",Q2351239,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,3bca2f68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,531394," "
-c9938060-8fcc-11eb-924d-9cd76263cbd0,species,merkii,Ciliaria,,H.Hara,Q247149,1939,,"Nov. Fl. Jap. 3: 62 1939",,,,,,790698-1,wfo-0000604692,5567733,,
+fd6a3ca4-9bab-11eb-a8a2-19ed5c03f8d3,species,lapidaria,Ciliaria,,"(Cooke) Boud.",0,,,,,,,7f98af44-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433669," "
+24c68294-9bac-11eb-a8a2-19ed5c03f8d3,species,livida,Ciliaria,,"(Schumach.) Pat.",0,1906,,"Bull. Soc. mycol. Fr. 22: 53 (1906)",,,,0ee57674-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102519," "
+693320cc-9bac-11eb-a8a2-19ed5c03f8d3,species,lusatiae,Ciliaria,,"(Cooke) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,3bca2f68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,531394," "
+c9938060-8fcc-11eb-924d-9cd76263cbd0,species,merkii,Ciliaria,,Hara,0,1939,,"Nov. Fl. Jap. 3: 62 (1939)",,,,,,urn:lsid:ipni.org:names:790698-1,wfo-0000604692,5567733,,
 1dd43166-9bac-11eb-a8a2-19ed5c03f8d3,species,miniata,Ciliaria,,Pat.,,1889,,"Tabl. analyt. Fung. France (Paris) no. 276 (1889)",,,,1dd43166-9bac-11eb-a8a2-19ed5c03f8d3,,,,,155037," "
-c9939d52-8fcc-11eb-924d-9cd76263cbd0,species,nishidae,Ciliaria,,H.Hara,Q247149,1939,,"Nov. Fl. Jap. 3: 57 1939",,,,,,790699-1,wfo-0000604693,5567731,,
+c9939d52-8fcc-11eb-924d-9cd76263cbd0,species,nishidae,Ciliaria,,Hara,0,1939,,"Nov. Fl. Jap. 3: 57 (1939)",,,,,,urn:lsid:ipni.org:names:790699-1,wfo-0000604693,5567731,,
 6641b1bc-9bac-11eb-a8a2-19ed5c03f8d3,species,nivalis,Ciliaria,,Boud.,,,,,,,,6641b1bc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,154340," "
 79062a52-9bad-11eb-a8a2-19ed5c03f8d3,species,paludosa,Ciliaria,,Boud.,,1894,,"Bull. Soc. mycol. Fr. 10: 65 (1894)",,,,79062a52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,168780," "
-62e66980-9bad-11eb-a8a2-19ed5c03f8d3,species,phillipsii,Ciliaria,,"(Massee) Boud. ex Ramsb.",Q4284198,,,,,,,00caacd0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433767," "
+62e66980-9bad-11eb-a8a2-19ed5c03f8d3,species,phillipsii,Ciliaria,,"(Massee) Boud. ex Ramsb.",0,,,,,,,00caacd0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433767," "
 7d276c96-9bac-11eb-a8a2-19ed5c03f8d3,species,rubicunda,Ciliaria,,Quél.,,,,,,,,7d276c96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,169418," "
 5316a68c-9bad-11eb-a8a2-19ed5c03f8d3,species,schizospora,Ciliaria,,"(W. Phillips) Boud.",,,,,,,,f9c3821c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433878," "
-5301bd12-9bad-11eb-a8a2-19ed5c03f8d3,species,scutellata,Ciliaria,,"(L.) Quél. ex Boud.",Q1043,,,,,,,,,,,,433750," "
-7a84632c-9bac-11eb-a8a2-19ed5c03f8d3,species,setosa,Ciliaria,,"(Nees) Boud.",Q76349,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,7e561374-9bac-11eb-a8a2-19ed5c03f8d3,,,,,119507," "
-325984ba-9bac-11eb-a8a2-19ed5c03f8d3,species,trechispora,Ciliaria,,"(Berk. & Broome) Boud.","Q662338,Q1932460",1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,7ceb41ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124184," "
+5301bd12-9bad-11eb-a8a2-19ed5c03f8d3,species,scutellata,Ciliaria,,"(L.) Quél. ex Boud.",0,,,,,,,,,,,,433750," "
+7a84632c-9bac-11eb-a8a2-19ed5c03f8d3,species,setosa,Ciliaria,,"(Nees) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,7e561374-9bac-11eb-a8a2-19ed5c03f8d3,,,,,119507," "
+325984ba-9bac-11eb-a8a2-19ed5c03f8d3,species,trechispora,Ciliaria,,"(Berk. & Broome) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,7ceb41ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,124184," "
 80b0fb74-9bad-11eb-a8a2-19ed5c03f8d3,variety,paludicola,Ciliaria,trechispora,Boud.,,,,,,,,80b0fb74-9bad-11eb-a8a2-19ed5c03f8d3,,,,,372595," "
-a72ae61c-9bac-11eb-a8a2-19ed5c03f8d3,variety,trechispora,Ciliaria,trechispora,"(Berk. & Broome) Boud.","Q662338,Q1932460",1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,a72ae61c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430980," "
-c993ba44-8fcc-11eb-924d-9cd76263cbd0,species,tricuspidata,Ciliaria,,"(Retz.) W.A.Weber","Q491077,Q4105706",1982,,"Phytologia 51: 371 1982",,,,,,910423-1,wfo-0000604694,8559710,,
-a7dd0c02-9bac-11eb-a8a2-19ed5c03f8d3,species,umbrata,Ciliaria,,"(Fr.) Quél.",Q15405,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,cd5e55a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433711," "
-9452696a-9bad-11eb-a8a2-19ed5c03f8d3,variety,pallida,Ciliaria,umbrata,"(Rehm) Ramsb.",Q4393082,1913,,"Trans. Br. mycol. Soc. 4: 367 (1913)",,,,60839438-9bad-11eb-a8a2-19ed5c03f8d3,,,,,434011," "
-66f03150-9bad-11eb-a8a2-19ed5c03f8d3,variety,umbrata,Ciliaria,umbrata,"(Fr.) Quél.",Q15405,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,66f03150-9bad-11eb-a8a2-19ed5c03f8d3,,,,,434050," "
-3c96b344-9bac-11eb-a8a2-19ed5c03f8d3,species,umbrorum,Ciliaria,,"(Fr.) Boud.",Q15405,,,,,,,f4695c20-9bab-11eb-a8a2-19ed5c03f8d3,,,,,356673," "
+a72ae61c-9bac-11eb-a8a2-19ed5c03f8d3,variety,trechispora,Ciliaria,trechispora,"(Berk. & Broome) Boud.",0,1907,,"Hist. Class. Discom. Eur. (Paris) 62 (1907)",,,,a72ae61c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430980," "
+c993ba44-8fcc-11eb-924d-9cd76263cbd0,species,tricuspidata,Ciliaria,,W.A.Weber,0,1982,,"Phytologia 51(6): 371. 1982",,,,,,urn:lsid:ipni.org:names:910423-1,wfo-0000604694,8559710,,
+a7dd0c02-9bac-11eb-a8a2-19ed5c03f8d3,species,umbrata,Ciliaria,,"(Fr.) Quél.",0,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,cd5e55a8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433711," "
+9452696a-9bad-11eb-a8a2-19ed5c03f8d3,variety,pallida,Ciliaria,umbrata,"(Rehm) Ramsb.",0,1913,,"Trans. Br. mycol. Soc. 4: 367 (1913)",,,,60839438-9bad-11eb-a8a2-19ed5c03f8d3,,,,,434011," "
+66f03150-9bad-11eb-a8a2-19ed5c03f8d3,variety,umbrata,Ciliaria,umbrata,"(Fr.) Quél.",0,1880,,"Bull. Soc. bot. Fr. 26: 235 (1880)",,,,66f03150-9bad-11eb-a8a2-19ed5c03f8d3,,,,,434050," "
+3c96b344-9bac-11eb-a8a2-19ed5c03f8d3,species,umbrorum,Ciliaria,,"(Fr.) Boud.",0,,,,,,,f4695c20-9bab-11eb-a8a2-19ed5c03f8d3,,,,,356673," "
 2a988464-9bad-11eb-a8a2-19ed5c03f8d3,variety,cancrina,Ciliaria,umbrorum,"Le Gal & Romagn.",,,,,,,,2a988464-9bad-11eb-a8a2-19ed5c03f8d3,,,,,346031," "
-78c90faa-9bad-11eb-a8a2-19ed5c03f8d3,variety,umbrorum,Ciliaria,umbrorum,"(Fr.) Boud.",Q15405,,,,,,,78c90faa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425608," "
-c993d632-8fcc-11eb-924d-9cd76263cbd0,species,vespertina,Ciliaria,,"(Small) W.A.Weber","Q2590065,Q4105706",1982,,"Phytologia 51: 371 1982",,,,b5c6f15c-8fd1-11eb-924d-9cd76263cbd0,,58688-2,wfo-0000604695,5567722,,
-f4a3413c-9bac-11eb-a8a2-19ed5c03f8d3,species,vitellina,Ciliaria,,"(Pers.) Boud.",Q346451,,,,,,,8d58f94a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433795," "
-22050954-9bac-11eb-a8a2-19ed5c03f8d3,species,woolhopeia,Ciliaria,,"(Cooke & W. Phillips) Quél.",Q2351239,1880,,"Bull. Soc. Amis Sci. Nat. Rouen, Série II 15: 179 (1880)",,,,5041b358-9bac-11eb-a8a2-19ed5c03f8d3,,,,,504639," "
+78c90faa-9bad-11eb-a8a2-19ed5c03f8d3,variety,umbrorum,Ciliaria,umbrorum,"(Fr.) Boud.",0,,,,,,,78c90faa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425608," "
+c993d632-8fcc-11eb-924d-9cd76263cbd0,species,vespertina,Ciliaria,,"(Small) W.A.Weber",0,1982,,"Phytologia 51: 371 (1982)",,,,b5c6f15c-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:58688-2,wfo-0000604695,5567722,,
+f4a3413c-9bac-11eb-a8a2-19ed5c03f8d3,species,vitellina,Ciliaria,,"(Pers.) Boud.",0,,,,,,,8d58f94a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433795," "
+22050954-9bac-11eb-a8a2-19ed5c03f8d3,species,woolhopeia,Ciliaria,,"(Cooke & W. Phillips) Quél.",0,1880,,"Bull. Soc. Amis Sci. Nat. Rouen, Série II 15: 179 (1880)",,,,5041b358-9bac-11eb-a8a2-19ed5c03f8d3,,,,,504639," "

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2088da2-8fd1-11eb-924d-9cd76263cbd0,genus,Cordisepalum,,,Verdc.,Q604992,1971,,"Kew Bull. 26: 138. 1971.",,Q55784937,,,,11834-1,wfo-4000009276,7324458,,
-bdfe0112-8fd1-11eb-924d-9cd76263cbd0,species,phalanthopetalum,Cordisepalum,,Staples,Q5877976,,,,,,,,,,wfo-0001250303,3681359,,
-ac9eb546-8fcd-11eb-924d-9cd76263cbd0,species,thorelii,Cordisepalum,,"(Gagnep.) Verdc.","Q599122,Q604992",1971,,"Kew Bull. 26: 138 1971",,Q55784937,,,,267228-1,wfo-0001036015,3681353,,
+e2088da2-8fd1-11eb-924d-9cd76263cbd0,genus,Cordisepalum,,,Verdc.,0,1971,,"Kew Bull. 26: 138 (1971)",,Q55784937,,,,urn:lsid:ipni.org:names:11834-1,wfo-4000009276,7324458,,
+bdfe0112-8fd1-11eb-924d-9cd76263cbd0,species,phalanthopetalum,Cordisepalum,,Staples,0,,,"Blumea 51: 425 (2006)",,,,,,urn:lsid:ipni.org:names:77077675-1,wfo-0001250303,3681359,,
+ac9eb546-8fcd-11eb-924d-9cd76263cbd0,species,thorelii,Cordisepalum,,"(Gagnep.) Verdc.",0,1971,,"Kew Bull. 26: 138 (1971)",,Q55784937,,,,urn:lsid:ipni.org:names:267228-1,wfo-0001036015,3681353,,

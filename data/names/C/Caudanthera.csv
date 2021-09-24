@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e15309c8-8fd1-11eb-924d-9cd76263cbd0,genus,Caudanthera,,,Plowes,Q5799423,1995,,"Haseltonia 3: 58. 1995.",,,,,,986774-1,wfo-4000007050,8389227,,
-c142eef0-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Caudanthera,,"(Edgew.) Meve & Liede","Q3102663,Q6155324,Q6128237",2002,,"Pl. Syst. Evol. 234: 201 2002",,Q55755454,,b44a2150-8fcc-11eb-924d-9cd76263cbd0,,20009959-1,wfo-0000591175,3576843,,
-c1439b16-8fcc-11eb-924d-9cd76263cbd0,species,mireillae,Caudanthera,,"(Lavranos) Plowes","Q5933356,Q5799423",1995,,"Haseltonia 3: 58 1995",,,,be699e90-8fcc-11eb-924d-9cd76263cbd0,,986776-1,wfo-0000591176,3576833,,
-c143c0dc-8fcc-11eb-924d-9cd76263cbd0,species,sinaica,Caudanthera,,"(Decne.) Plowes","Q966069,Q5799423",1995,,"Haseltonia 3: 58 1995",,,,,,986775-1,wfo-0000591177,3576826,,
+e15309c8-8fd1-11eb-924d-9cd76263cbd0,genus,Caudanthera,,,Plowes,0,1995,,"Haseltonia 3: 58 (1995)",,,,,,urn:lsid:ipni.org:names:986774-1,wfo-4000007050,8389227,,
+4c6ff17c-1d4d-11ec-82c2-f14daa6f2d93,species,baradii,Caudanthera,,"(Lavranos & L.E.Newton) Plowes",,,,"Cact. Succ. J. (Los Angeles) 85: 70 (2013)",,,,,,urn:lsid:ipni.org:names:77127839-1,wfo-0001335687,,,
+c142eef0-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Caudanthera,,"(Edgew.) Meve & Liede",0,2002,,"Pl. Syst. Evol. 234: 201 (2002)",,Q55755454,,b44a2150-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20009959-1,wfo-0000591175,3576843,,
+c1439b16-8fcc-11eb-924d-9cd76263cbd0,species,mireillae,Caudanthera,,"(Lavranos) Plowes",0,1995,,"Haseltonia 3: 58 (1995)",,,,be699e90-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:986776-1,wfo-0000591176,3576833,,
+c143c0dc-8fcc-11eb-924d-9cd76263cbd0,species,sinaica,Caudanthera,,"(Decne.) Plowes",0,1995,,"Haseltonia 3: 58 (1995)",,,,,,urn:lsid:ipni.org:names:986775-1,wfo-0000591177,3576826,,

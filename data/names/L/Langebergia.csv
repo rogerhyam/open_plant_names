@@ -1,8 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e58ce7b6-8fd1-11eb-924d-9cd76263cbd0,genus,Langebergia,,,Anderb.,Q4065252,,,,,,,,,956824-1,wfo-4000020546,3099230,,
-0e2d6dd2-8fb2-11eb-924d-9cd76263cbd0,species,canescens,Langebergia,,"(DC.) Anderb.","Q123057,Q4065252",1991,,"Opera Bot. 104: 94 (1991):.",,,,,,962972-1,wfo-0000008325,3099231,,
-46150d98-8fcd-11eb-924d-9cd76263cbd0,species,langei,,,"(K.Richt.) Camus ex Rousseau","Q3193452,Q5565253,Q6527",1952,,"Mém. Jard. Bot. Montréal 29: 10 1952",,,,46a0dae4-8fcd-11eb-924d-9cd76263cbd0,,384806-1,wfo-0000840998,,,
-461b78b8-8fcd-11eb-924d-9cd76263cbd0,species,langei,,,"(K.Richt.) Melderis","Q3193452,Q5665799",1983,,"Watsonia 14: 394 1983",,,,46a0dae4-8fcd-11eb-924d-9cd76263cbd0,,912426-1,wfo-0000841048,,,
-46209eb0-8fcd-11eb-924d-9cd76263cbd0,species,langei,,,"(K.Richt.) Hyl.","Q3193452,Q2843692",1953,,"Nordisk Karlvaxtfl. 1: 369 1953",,,,46a0dae4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000841092,,,
-46322f86-8fcd-11eb-924d-9cd76263cbd0,species,langei,,,"(K.Richt.) Asch. & Graebn.","Q3193452,Q61290,Q67753",1902,,"Syn. Mitteleur. Fl. 2(1): 748 1902",,,,46a0dae4-8fcd-11eb-924d-9cd76263cbd0,,426032-1,wfo-0000841242,,,
-971725d2-8fcd-11eb-924d-9cd76263cbd0,species,langei,,,Seelinger,,1926,,"; 1926 508 1926",,,,,,,wfo-0000991927,,,
+e58ce7b6-8fd1-11eb-924d-9cd76263cbd0,genus,Langebergia,,,Anderb.,0,,,"Opera Bot. 104: 93 (1991). (1991)",,,,,,urn:lsid:ipni.org:names:956824-1,wfo-4000020546,3099230,,
+0e2d6dd2-8fb2-11eb-924d-9cd76263cbd0,species,canescens,Langebergia,,"(DC.) Anderb.",0,1991,,"Opera Bot. 104: 94 (1991): (1991)",,,,,,urn:lsid:ipni.org:names:962972-1,wfo-0000008325,3099231,,

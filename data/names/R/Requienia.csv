@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e98cfa5e-8fd1-11eb-924d-9cd76263cbd0,genus,Requienia,,,DC.,Q123057,,,,,,,,,23423-1,wfo-4000032771,7815259,,
-2387b02e-8fc7-11eb-924d-9cd76263cbd0,species,obcordata,Requienia,,"(Poir.) DC.","Q966539,Q123057",,,,,,,,,,wfo-0000201213,5350558,,
-2b71fb46-8fc7-11eb-924d-9cd76263cbd0,species,pseudosphaerosperma,Requienia,,"(Schinz) Brummitt","Q124491,Q372403",,,,,,,b55fb36a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000201331,5350562,,
-2a0235c8-8fc7-11eb-924d-9cd76263cbd0,species,sphaerosperma,Requienia,,DC.,Q123057,,,,,,,,,,wfo-0000201309,5350560,,
+e98cfa5e-8fd1-11eb-924d-9cd76263cbd0,genus,Requienia,,,DC.,0,,,"Ann. Sci. Nat. (Paris) 4: 91 (1825)",,,,,,urn:lsid:ipni.org:names:23423-1,wfo-4000032771,7815259,,
+2387b02e-8fc7-11eb-924d-9cd76263cbd0,species,obcordata,Requienia,,"(Poir.) DC.",0,,,"Ann. Sci. Nat. (Paris) 4: 91 (1825)",,,,,,urn:lsid:ipni.org:names:517071-1,wfo-0000201213,5350558,,
+2b71fb46-8fc7-11eb-924d-9cd76263cbd0,species,pseudosphaerosperma,Requienia,,"(Schinz) Brummitt",0,,,"Bol. Soc. Brot. , sér. 2, 41: 220 (1968)",,,,b55fb36a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:517072-1,wfo-0000201331,5350562,,
+2a0235c8-8fc7-11eb-924d-9cd76263cbd0,species,sphaerosperma,Requienia,,DC.,0,,,"Ann. Sci. Nat. (Paris) 4: 91 (1825)",,,,,,urn:lsid:ipni.org:names:517073-1,wfo-0000201309,5350560,,

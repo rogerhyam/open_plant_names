@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8d74ede-8fd1-11eb-924d-9cd76263cbd0,genus,Poliothyrsis,,,Oliv.,Q1161960,1885,,"Hooker's Icon. Pl. 19: , pl. 1885. 1889.",,,,,,,wfo-4000030649,7274123,,
-6ceb1a02-8fcd-11eb-924d-9cd76263cbd0,species,celebicus,Poliothyrsis,,Koord.,Q4232763,1898,,"Meded. Lands Plantentuin 19: 476 1898",,,,,,112012-1,wfo-0000909656,3878594,,
-ad92747a-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Poliothyrsis,,Oliv.,Q1161960,1885,,"Hooker's Icon. Pl. 19: , pl. 1885 1889",,,,,,,wfo-0001220153,7526042,,
-ae336dde-8fcd-11eb-924d-9cd76263cbd0,species,stapfii,Poliothyrsis,,Koord.,Q4232763,,,,,,,,,,wfo-0001039609,3878567,,
+e8d74ede-8fd1-11eb-924d-9cd76263cbd0,genus,Poliothyrsis,,,Oliv.,0,1885,,"Hooker's Icon. Pl. 19: t. 1885 (1889)",,,,,,urn:lsid:ipni.org:names:4379-1,wfo-4000030649,7274123,,
+6ceb1a02-8fcd-11eb-924d-9cd76263cbd0,species,celebicus,Poliothyrsis,,Koord.,0,1898,,"Meded. Lands Plantentuin 19: 476 (1898)",,,,,,urn:lsid:ipni.org:names:112012-1,wfo-0000909656,3878594,,
+466e1466-1d4d-11ec-82c2-f14daa6f2d93,species,sinensis,Poliothyrsis,,Hook.f.,,,,"Hooker's Icon. Pl. 19: t. 1885 (1889)",,,,,,urn:lsid:ipni.org:names:112013-1,wfo-0001327594,,,
+ad92747a-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Poliothyrsis,,Oliv.,0,1885,,"Hooker's Icon. Pl. 19: , pl. 1885 1889",,,,,,urn:lsid:ipni.org:names:50986170-1,wfo-0001220153,7526042,,
+196811ce-1d4d-11ec-82c2-f14daa6f2d93,variety,sinensis,Poliothyrsis,sinensis,,,,,,,,,,,,wfo-0001253574,,,
+45daca30-1d4d-11ec-82c2-f14daa6f2d93,form,subglabra,Poliothyrsis,sinensis,S.S.Lai,,,,"Bull. Bot. Res., Harbin 14(3): 228, with more than one type. 1994",,,,,,urn:lsid:ipni.org:names:978457-1,wfo-0001326739,,,
+ae336dde-8fcd-11eb-924d-9cd76263cbd0,species,stapfii,Poliothyrsis,,Koord.,0,,,"Meded. Lands Plantentuin 19: 474 (1898)",,,,,,urn:lsid:ipni.org:names:112014-1,wfo-0001039609,3878567,,

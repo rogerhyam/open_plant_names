@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e83fb876-8fd1-11eb-924d-9cd76263cbd0,genus,Pertusadina,,,Ridsdale,Q4394497,1979,,"Blumea 24(2): 353. 1979.",,,,,,,wfo-4000028856,2903015,,
-f1d6c236-8fcb-11eb-924d-9cd76263cbd0,species,eurhyncha,Pertusadina,,"(Miq.) Ridsdale","Q76742,Q4394497",1978,,"Blumea 24: 354 1978",,Q96027383,,,,760380-1,wfo-0000267589,2903023,,
-f1d6e0fe-8fcb-11eb-924d-9cd76263cbd0,species,hainanensis,Pertusadina,,"(F.C.How) Ridsdale","Q15711474,Q4394497",1978,,"Blumea 24: 354 1978",,Q96027383,,,,760381-1,wfo-0000267590,2903021,,
-f1d6fc92-8fcb-11eb-924d-9cd76263cbd0,species,malaccensis,Pertusadina,,Ridsdale,Q4394497,1978,,"Blumea 24: 356 1978",,Q96027383,,,,760382-1,wfo-0000267591,2903022,,
-d39e5364-8fcc-11eb-924d-9cd76263cbd0,species,metcalfii,Pertusadina,,"(Merr. ex H.L.Li) Y.F.Deng & C.M.Hu","Q729926,Q5904719,Q21338590,Q13415751",2006,,"Blumea 51: 559 2006",,Q55791875,,2cf22ab2-8fcd-11eb-924d-9cd76263cbd0,,77077706-1,wfo-0000621845,2903016,,
-f1d7229e-8fcb-11eb-924d-9cd76263cbd0,species,multifolia,Pertusadina,,"(Havil.) Ridsdale","Q5538380,Q4394497",1978,,"Blumea 24: 356 1978",,Q96027383,,2d2aedd4-8fcd-11eb-924d-9cd76263cbd0,,760383-1,wfo-0000267592,2903028,,
+e83fb876-8fd1-11eb-924d-9cd76263cbd0,genus,Pertusadina,,,Ridsdale,0,1979,,"Blumea 24: 353 (1978)",,,,,,urn:lsid:ipni.org:names:327879-2,wfo-4000028856,2903015,,
+f1d6c236-8fcb-11eb-924d-9cd76263cbd0,species,eurhyncha,Pertusadina,,"(Miq.) Ridsdale",0,1978,,"Blumea 24: 354 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:760380-1,wfo-0000267589,2903023,,
+f1d6e0fe-8fcb-11eb-924d-9cd76263cbd0,species,hainanensis,Pertusadina,,"(F.C.How) Ridsdale",0,1978,,"Blumea 24: 354 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:760381-1,wfo-0000267590,2903021,,
+f1d6fc92-8fcb-11eb-924d-9cd76263cbd0,species,malaccensis,Pertusadina,,Ridsdale,0,1978,,"Blumea 24: 356 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:760382-1,wfo-0000267591,2903022,,
+d39e5364-8fcc-11eb-924d-9cd76263cbd0,species,metcalfii,Pertusadina,,"(Merr. ex H.L.Li) Y.F.Deng & C.M.Hu",0,2006,,"Blumea 51: 559 (2006)",,Q55791875,,2cf22ab2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77077706-1,wfo-0000621845,2903016,,
+f1d7229e-8fcb-11eb-924d-9cd76263cbd0,species,multifolia,Pertusadina,,"(Havil.) Ridsdale",0,1978,,"Blumea 24: 356 (1978)",,Q96027383,,2d2aedd4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:760383-1,wfo-0000267592,2903028,,

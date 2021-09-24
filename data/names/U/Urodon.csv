@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebce14e2-8fd1-11eb-924d-9cd76263cbd0,genus,Urodon,,,Turcz.,Q2640364,,,,,,,,,23753-1,wfo-4000039848,2966989,,
-6596b9a4-8fc4-11eb-924d-9cd76263cbd0,species,capitatus,Urodon,,Turcz.,Q2640364,,,,,,,,,,wfo-0000187927,5358229,,
-5eb65bb2-8fc4-11eb-924d-9cd76263cbd0,species,dasyphyllus,Urodon,,Turcz.,Q2640364,,,,,,,,,,wfo-0000187780,5358228,,
+ebce14e2-8fd1-11eb-924d-9cd76263cbd0,genus,Urodon,,,Turcz.,0,,,"Bull. Soc. Imp. Naturalistes Moscou 22(II): 16 (1849)",,,,,,urn:lsid:ipni.org:names:23753-1,wfo-4000039848,2966989,,
+6596b9a4-8fc4-11eb-924d-9cd76263cbd0,species,capitatus,Urodon,,Turcz.,0,,,"Bull. Soc. Imp. Naturalistes Moscou 22(II): 17 (1849)",,,,,,urn:lsid:ipni.org:names:524432-1,wfo-0000187927,5358229,,
+5eb65bb2-8fc4-11eb-924d-9cd76263cbd0,species,dasyphyllus,Urodon,,Turcz.,0,,,"Bull. Soc. Imp. Naturalistes Moscou 26(I): 268 (1853)",,,,,,urn:lsid:ipni.org:names:524433-1,wfo-0000187780,5358228,,
+77bf7866-1d4d-11ec-82c2-f14daa6f2d93,variety,dasyphyllus,Urodon,dasyphyllus,Turcz.,,,,"Proceedings of the Royal Society of Victoria Series 2 21(2)  1909",,,,,,urn:lsid:ipni.org:names:147515-3,wfo-0001394097,,,
+67e5cada-1d4d-11ec-82c2-f14daa6f2d93,variety,ovalifolius,Urodon,dasyphyllus,"Ewart & Jean White",,,,"Proc. Roy. Soc. Victoria , n.s., 21: 548 (1909)",,,,,,urn:lsid:ipni.org:names:147542-3,wfo-0001373481,,,

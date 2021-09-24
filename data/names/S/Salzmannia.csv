@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e89634-8fd1-11eb-924d-9cd76263cbd0,genus,Salzmannia,,,DC.,Q123057,1830,,"Prodr. 4: 617. 1830.",,,,,,35292-1,wfo-4000033894,2919380,,
-07b0bab2-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Salzmannia,,DC.,Q123057,1830,,"Prodr. 4: 617 1830",,,,,,766005-1,wfo-0000302658,2919381,,
+e9e89634-8fd1-11eb-924d-9cd76263cbd0,genus,Salzmannia,,,DC.,0,1830,,"Prodr. 4: 617 (1830)",,,,,,urn:lsid:ipni.org:names:35292-1,wfo-4000033894,2919380,,
+3ef1aa04-1d4d-11ec-82c2-f14daa6f2d93,species,arborea,Salzmannia,,J.G.Jardim,,,,"Phytotaxa 202: 20 (2015)",,,,,,urn:lsid:ipni.org:names:77145923-1,wfo-0001317227,,,
+83e76d88-1d4d-11ec-82c2-f14daa6f2d93,species,naiguatensis,Salzmannia,,"(Steyerm.) Paudyal & Delprete",,,,"Bot. J. Linn. Soc. 187: 391 (2018)",,,,,,urn:lsid:ipni.org:names:77187967-1,wfo-0001428625,,,
+07b0bab2-8fcc-11eb-924d-9cd76263cbd0,species,nitida,Salzmannia,,DC.,0,1830,,"Prodr. 4: 617 (1830)",,,,,,urn:lsid:ipni.org:names:766005-1,wfo-0000302658,2919381,,
+83e798b2-1d4d-11ec-82c2-f14daa6f2d93,species,plowmanii,Salzmannia,,"(Delprete) Paudyal & Delprete",,,,"Bot. J. Linn. Soc. 187: 391 (2018)",,,,,,urn:lsid:ipni.org:names:77187965-1,wfo-0001428626,,,

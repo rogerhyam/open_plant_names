@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4b6dc52-8fd1-11eb-924d-9cd76263cbd0,genus,Heucherella,,,,,,,,,,,,,,wfo-4000017802,7339429,,
-0d40354c-8fcd-11eb-924d-9cd76263cbd0,species,africana,Heudelotia,,A.Rich.,Q340247,1831,,"Fl. Seneg. Tent. 150 1831",,,,,,,wfo-0000721760,3992731,,
+e4b6dc52-8fd1-11eb-924d-9cd76263cbd0,genus,Heucherella,,,H.R.Wehrh.,,,,,,,,,,urn:lsid:ipni.org:names:50784378-1,wfo-4000017802,7339429,,
+0d3ffc9e-8fcd-11eb-924d-9cd76263cbd0,species,alba,Heucherella,,"(Lemoine) Stearn",0,1948,,"Bot. Mag. 165: t. 31 (1948)",,,,,,urn:lsid:ipni.org:names:791419-1,wfo-0000721758,,,
+0d4019ae-8fcd-11eb-924d-9cd76263cbd0,species,tiarelloides,Heucherella,,"(Lemoine & É.Lemoine) H.R.Wehrh.",0,1930,,"Gartenstaud. 1: 545 (1930)",,,,,,urn:lsid:ipni.org:names:791420-1,wfo-0000721759,,,
+0d40354c-8fcd-11eb-924d-9cd76263cbd0,species,africana,Heudelotia,,A.Rich.,0,1831,,"Fl. Seneg. Tent. : 150 (1831)",,,,,,urn:lsid:ipni.org:names:128117-1,wfo-0000721760,3992731,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4835486-8fd1-11eb-924d-9cd76263cbd0,genus,Hekkingia,,,"H.E.Ballard & Munzinger","Q18982803,Q18986966",2003,,"Syst. Bot. 28(2): 345–351, f. 2–8. 2003. (15 May 2003)",,Q95467273,,,,327124-2,wfo-4000017173,7296328,,
-0aa6735a-8fcd-11eb-924d-9cd76263cbd0,species,bordenavei,Hekkingia,,"H.E.Ballard & Munzinger","Q18982803,Q18986966",2003,,"Syst. Bot. 28: 345 2003",,Q95467273,,,,20012726-1,wfo-0000717161,4074758,,
-e66aebb0-8fcc-11eb-924d-9cd76263cbd0,species,atropurpurea,Hekorima,,"Fisch. ex Regel & Tiling","Q64109,Q62989,Q72297",1858,,"Fl. Ajan. 122 1858",,,,,,536258-1,wfo-0000654214,2752788,,
-e66d6336-8fcc-11eb-924d-9cd76263cbd0,species,candida,Hekorima,,Kunth,Q77074,1843,,"Enum. Pl. 4: 204 1843",,,,,,536259-1,wfo-0000654225,2752754,,
-e6742900-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Hekorima,,Kunth,Q77074,1843,,"Enum. Pl. 4: 204 1843",,,,,,536260-1,wfo-0000654235,2752795,,
+e4835486-8fd1-11eb-924d-9cd76263cbd0,genus,Hekkingia,,,"H.E.Ballard & Munzinger",0,2003,,"Syst. Bot. 28: 345 (2003)",,Q95467273,,,,urn:lsid:ipni.org:names:327124-2,wfo-4000017173,7296328,,
+0aa6735a-8fcd-11eb-924d-9cd76263cbd0,species,bordenavei,Hekkingia,,"H.E.Ballard & Munzinger",0,2003,,"Syst. Bot. 28(2): 345 (2003).",,Q95467273,,,,urn:lsid:ipni.org:names:20012726-1,wfo-0000717161,4074758,,
+e66aebb0-8fcc-11eb-924d-9cd76263cbd0,species,atropurpurea,Hekorima,,"Fisch. ex Regel & Tiling",0,1858,,"Fl. Ajan. 122. 1858 [Jul-Dec 1858]",,,,,,urn:lsid:ipni.org:names:536258-1,wfo-0000654214,2752788,,
+e66d6336-8fcc-11eb-924d-9cd76263cbd0,species,candida,Hekorima,,Kunth,0,1843,,"Enum. Pl. [Kunth] 4: 204. 1843 [17-19 Jul 1843]",,,,,,urn:lsid:ipni.org:names:536259-1,wfo-0000654225,2752754,,
+e6742900-8fcc-11eb-924d-9cd76263cbd0,species,dichotoma,Hekorima,,Kunth,0,1843,,"Enum. Pl. [Kunth] 4: 204. 1843 [17-19 Jul 1843]",,,,,,urn:lsid:ipni.org:names:536260-1,wfo-0000654235,2752795,,

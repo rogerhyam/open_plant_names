@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9903faa0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pseudocryptosporella,,,"J. Reid & C. Booth",,,,"Can. J. Bot. 47: 1058 (1969)",,,,9903faa0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4423," "
 231ee0d4-9bad-11eb-a8a2-19ed5c03f8d3,species,polylepidis,Pseudocryptosporella,,"(E. Müll.) J. Reid & C. Booth",,,,"Can. J. Bot. 47: 1058 (1969)",,,,1b1f8ff0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,337752," "
-fc193cf6-8fcb-11eb-924d-9cd76263cbd0,species,lentiginosa,Pseudoctomeria,,"(F.Lehm. & Kraenzl.) Kraenzl.","Q5869592,Q542327",1925,,"Bull. Misc. Inform. Kew 1925: 116 1925",,Q55786684,,f811e518-8fcb-11eb-924d-9cd76263cbd0,,211321-2,wfo-0000283962,2835464,,
-1ae2c89a-8fcd-11eb-924d-9cd76263cbd0,species,naudinianus,Pseudocucumis,,"(Sond.) C.Jeffrey","Q77215,Q1065059",2009,,"Genet. Resursy Kul't. Rast. 174 2009",,,,d7f3ff9a-8fcc-11eb-924d-9cd76263cbd0,,77110032-1,wfo-0000748900,7819597,,
-fc195bf0-8fcb-11eb-924d-9cd76263cbd0,species,montana,Pseudocunila,,Brade,Q5650096,1944,,"Rodriguésia 7(16): 27 1944",,Q92437164,,,,211322-2,wfo-0000283963,3891913,,
+fc193cf6-8fcb-11eb-924d-9cd76263cbd0,species,lentiginosa,Pseudoctomeria,,"(F.Lehm. & Kraenzl.) Kraenzl.",0,1925,,"Bull. Misc. Inform. Kew 1925: 116 (1925)",,Q55786684,,f811e518-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:211321-2,wfo-0000283962,2835464,,
+1ae2c89a-8fcd-11eb-924d-9cd76263cbd0,species,naudinianus,Pseudocucumis,,"(Sond.) C.Jeffrey",0,2009,,"Genet. Resursy Kul't. Rast. : 174 (2009)",,,,d7f3ff9a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77110032-1,wfo-0000748900,7819597,,
+fc195bf0-8fcb-11eb-924d-9cd76263cbd0,species,montana,Pseudocunila,,Brade,0,1944,,"Rodriguésia 7(16): 27 (1944)",,Q92437164,,,,urn:lsid:ipni.org:names:211322-2,wfo-0000283963,3891913,,

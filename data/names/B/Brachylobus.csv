@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0c52306-8fd1-11eb-924d-9cd76263cbd0,genus,Brachylobus,,,Link,Q215466,1831,,"Handbuch 2: 311. 1831.",,,,,,,wfo-4000005217,7472474,,
-ad42cd98-8fcd-11eb-924d-9cd76263cbd0,species,austriacus,Brachylobus,,"(Crantz) Schur","Q112261,Q71649",1866,,"Enum. Pl. Transsilv. 41. 1866",,,,c0a5d2ea-8fc8-11eb-924d-9cd76263cbd0,,,wfo-0001037472,5377599,,
-b5fe9282-8fcd-11eb-924d-9cd76263cbd0,species,officinalis,Brachylobus,,"(L.) Dulac","Q1043,Q3184885",1867,,"Fl. Hautes-Pyrénées 279 1867",,,,,,482151-1,wfo-0001057288,5631198,,
+e0c52306-8fd1-11eb-924d-9cd76263cbd0,genus,Brachylobus,,,Link,0,1831,,"Handbuch [Link] 2: 311. 1831",,,,,,urn:lsid:ipni.org:names:12373-1,wfo-4000005217,7472474,,
+ad42cd98-8fcd-11eb-924d-9cd76263cbd0,species,austriacus,Brachylobus,,"(Crantz) Schur",0,1866,,"Enum. Pl. Transsilv. 41. 1866",,,,c0a5d2ea-8fc8-11eb-924d-9cd76263cbd0,,,wfo-0001037472,5377599,,
+b5fe9282-8fcd-11eb-924d-9cd76263cbd0,species,officinalis,Brachylobus,,"(L.) Dulac",0,1867,,"Fl. Hautes-Pyrénées 279. 1867",,,,,,urn:lsid:ipni.org:names:482151-1,wfo-0001057288,5631198,,

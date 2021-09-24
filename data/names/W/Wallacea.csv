@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec0078d8-8fd1-11eb-924d-9cd76263cbd0,genus,Wallacea,,,"Spruce ex Benth. & Hook.f.","Q1349394,Q731808,Q157501",1862,,"Gen. Pl. 1: 320. 1862.",,,,,,28123-1,wfo-4000040494,3231140,,
-55ac1a40-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Wallacea,,"Spruce ex Benth. & Hook.f.","Q1349394,Q731808,Q157501",1862,,"Gen. Pl. 1: 321 1862",,,,,,607558-1,wfo-0000418011,8581779,,
-5ccf4c98-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Wallacea,,Ducke,Q2601698,1935,,"Arq. Inst. Biol. Veg. 1: 207 1935",,,,,,267647-2,wfo-0000427139,5552880,,
-c33b9a62-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Wallacea,,"Gleason & A.C.Sm.","Q1360735,Q1922675",1936,,"Brittonia 2: 155 1936",,Q55768163,,,,607560-1,wfo-0001087210,5552874,,
+ec0078d8-8fd1-11eb-924d-9cd76263cbd0,genus,Wallacea,,,"Spruce ex Benth. & Hook.f.",0,1862,,"Gen. Pl. 1: 320 (1862)",,,,,,urn:lsid:ipni.org:names:28123-1,wfo-4000040494,3231140,,
+55ac1a40-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Wallacea,,"Spruce ex Benth. & Hook.f.",0,1862,,"Gen. Pl. 1: 321 (1862)",,,,,,urn:lsid:ipni.org:names:607558-1,wfo-0000418011,8581779,,
+5ccf4c98-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Wallacea,,Ducke,0,1935,,"Arq. Inst. Biol. Veg. 1: 207 (1935)",,,,,,urn:lsid:ipni.org:names:267647-2,wfo-0000427139,5552880,,
+c33b9a62-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Wallacea,,"Gleason & A.C.Sm.",0,1936,,"Brittonia 2: 155. 1936",,Q55768163,,,,urn:lsid:ipni.org:names:607560-1,wfo-0001087210,5552874,,

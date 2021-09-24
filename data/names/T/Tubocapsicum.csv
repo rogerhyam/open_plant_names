@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebb3e3c4-8fd1-11eb-924d-9cd76263cbd0,genus,Tubocapsicum,,,Makino,Q729955,1908,,"B. & DArcy and B. & DArcy, Bot. Mag. (Tokyo) xxii. 18 (1908)..",,,,,,38574-1,wfo-4000039537,7299908,,
-ab06ce44-8fcd-11eb-924d-9cd76263cbd0,species,anomalum,Tubocapsicum,,"(Franch. & Sav.) Makino","Q377208,Q246459,Q729955",1908,,"(F. & Sav.) Makino, Bot. Mag. (Tokyo) 22: 19. 1908.",,,,a4bc10d0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001032691,3801464,,
-ab06e852-8fcd-11eb-924d-9cd76263cbd0,variety,obtusum,Tubocapsicum,anomalum,Makino,Q729955,1926,,"Makino, J. Jap. Bot. 3(2): 7. 1926., 1926.",,,,,,,wfo-0001032692,7705584,,
-ab0703f0-8fcd-11eb-924d-9cd76263cbd0,species,boninense,Tubocapsicum,,Koidz.,Q941892,1930,,"Koidz., Fl. Symb. Or.-Asiat. 31 (1930), in syn..",,,,,,,wfo-0001032693,7951759,,
-ab07229a-8fcd-11eb-924d-9cd76263cbd0,species,obtusum,Tubocapsicum,,"(Makino) Kitam.","Q729955,Q4222439",1937,,"(M. ) Kitam., Acta Phytotax. Geobot. 1937, vi. 18, cum descr. ampl..",,,,,,,wfo-0001032694,7792827,,
+ebb3e3c4-8fd1-11eb-924d-9cd76263cbd0,genus,Tubocapsicum,,,Makino,0,1908,,"B. & DArcy and B. & DArcy, Bot. Mag. (Tokyo) xxii. 18 (1908)..",,,,,,urn:lsid:ipni.org:names:38574-1,wfo-4000039537,7299908,,
+ab06ce44-8fcd-11eb-924d-9cd76263cbd0,species,anomalum,Tubocapsicum,,"(Franch. & Sav.) Makino",0,1908,,"Bot. Mag. (Tokyo) 22: 19. 1908.",,,,a4bc10d0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:821647-1,wfo-0001032691,3801464,,
+ab06e852-8fcd-11eb-924d-9cd76263cbd0,variety,obtusum,Tubocapsicum,anomalum,Makino,0,1926,,"J. Jap. Bot. 3(2): 7. 1926.",,,,,,,wfo-0001032692,7705584,,
+ab0703f0-8fcd-11eb-924d-9cd76263cbd0,species,boninense,Tubocapsicum,,Koidz.,0,1930,,"Fl. Symb. Or.-Asiat. 31. 1930.",,,,,,urn:lsid:ipni.org:names:821648-1,wfo-0001032693,7951759,,
+ab07229a-8fcd-11eb-924d-9cd76263cbd0,species,obtusum,Tubocapsicum,,"(Makino) Kitam.",0,1937,,"Acta Phytotax. Geobot. 1937, 4: 18, cum descr. ampl. 1937,",,,,,,urn:lsid:ipni.org:names:821650-1,wfo-0001032694,7792827,,

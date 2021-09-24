@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7abb6e4-8fd1-11eb-924d-9cd76263cbd0,genus,Orogenia,,,S.Watson,Q960820,1871,,"Botany (Fortieth Parallel) 120. 1871.",,,,,,40319-1,wfo-4000027213,3034379,,
-baa2c128-8fcd-11eb-924d-9cd76263cbd0,species,fusiformis,Orogenia,,S.Watson,Q960820,1887,,"Proc. Amer. Acad. Arts 22(2): 474 1887",,,,,,176638-2,wfo-0001067929,3034382,,
-b71eb936-8fd1-11eb-924d-9cd76263cbd0,variety,leibergii,Orogenia,fusiformis,"J.M.Coult. & Rose","Q1701075,Q1336049",1888,,"Rev. N. Amer. Umbell. 92 1888",,,,,,176639-2,wfo-0001237658,6307390,,
-c8caabb8-8fd1-11eb-924d-9cd76263cbd0,species,leibergii,Orogenia,,"(J.M.Coult. & Rose) Rydb.","Q1701075,Q1336049,Q1905130",,,"Fl. Rocky Mts. 1064 1917",,,,,,176640-2,wfo-0001270360,3638062,,
-baa2df3c-8fcd-11eb-924d-9cd76263cbd0,species,linearifolia,Orogenia,,S.Watson,Q960820,1871,,"Botany (Fortieth Parallel) 120, pl. 14, f. 1–3 1871",,,,,,845529-1,wfo-0001067930,3034380,,
+e7abb6e4-8fd1-11eb-924d-9cd76263cbd0,genus,Orogenia,,,S.Watson,0,1871,,"Botany [Fortieth Parallel] : 120 (1871)",,,,,,urn:lsid:ipni.org:names:40319-1,wfo-4000027213,3034379,,
+baa2c128-8fcd-11eb-924d-9cd76263cbd0,species,fusiformis,Orogenia,,S.Watson,0,1887,,"Proc. Amer. Acad. Arts 22: 474 (1887)",,,,,,urn:lsid:ipni.org:names:176638-2,wfo-0001067929,3034382,,
+b71eb936-8fd1-11eb-924d-9cd76263cbd0,variety,leibergii,Orogenia,fusiformis,"J.M.Coult. & Rose",0,1888,,"Rev. N. Amer. Umbell. : 92 (1888)",,,,,,urn:lsid:ipni.org:names:176639-2,wfo-0001237658,6307390,,
+c8caabb8-8fd1-11eb-924d-9cd76263cbd0,species,leibergii,Orogenia,,Rydb.,0,,,"Fl. Rocky Mts. : 611 (1917)",,,,,,urn:lsid:ipni.org:names:176640-2,wfo-0001270360,3638062,,
+baa2df3c-8fcd-11eb-924d-9cd76263cbd0,species,linearifolia,Orogenia,,S.Watson,0,1871,,"Botany [Fortieth Parallel] : 120 (1871)",,,,,,urn:lsid:ipni.org:names:845529-1,wfo-0001067930,3034380,,
+787afa0a-1d4d-11ec-82c2-f14daa6f2d93,variety,lata,Orogenia,linearifolia,Payson,,,,"Bot. Gaz. 60: 379. 1915",,,,,,urn:lsid:ipni.org:names:176641-2,wfo-0001395110,,,
+5a622ed0-1d4d-11ec-82c2-f14daa6f2d93,species,suavis,Orollanthus,,E.Mey.,,,,"Comm. Pl. Afr. Austr. (Meyer) 230. 1838 [dt. 1837; publ. 14-20 Jan 1838]",,,,,,urn:lsid:ipni.org:names:60475129-2,wfo-0001354285,,,

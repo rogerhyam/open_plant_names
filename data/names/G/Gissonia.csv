@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4037dce-8fd1-11eb-924d-9cd76263cbd0,genus,Gissonia,,,"R.A.Salisbury ex Knight",Q6284642,1809,,"On Cultivation Proteeae 32. 1809.",,,,,,,wfo-4000015684,,,
-025a1756-8fcd-11eb-924d-9cd76263cbd0,species,collina,Gissonia,,Knight,Q6284642,1809,,"Cult. Prot. 33 1809",,,,,,703662-1,wfo-0000703453,3996000,,
-025a31d2-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Gissonia,,Knight,Q6284642,1809,,"Cult. Prot. 33 1809",,,,,,703663-1,wfo-0000703454,3995993,,
-025a4ee2-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Gissonia,,Knight,Q6284642,1809,,"Cult. Prot. 33 1809",,,,,,703664-1,wfo-0000703455,3995987,,
+e4037dce-8fd1-11eb-924d-9cd76263cbd0,genus,Gissonia,,,Salisb.,0,1809,,"Cult. Prot. : 32 (1809)",,,,,,urn:lsid:ipni.org:names:32917-1,wfo-4000015684,,,
+025a1756-8fcd-11eb-924d-9cd76263cbd0,species,collina,Gissonia,,Knight,0,1809,,"Cult. Prot. : 33 (1809)",,,,,,urn:lsid:ipni.org:names:703662-1,wfo-0000703453,3996000,,
+025a31d2-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Gissonia,,Knight,0,1809,,"Cult. Prot. : 33 (1809)",,,,,,urn:lsid:ipni.org:names:703663-1,wfo-0000703454,3995993,,
+025a4ee2-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Gissonia,,Knight,0,1809,,"Cult. Prot. : 33 (1809)",,,,,,urn:lsid:ipni.org:names:703664-1,wfo-0000703455,3995987,,

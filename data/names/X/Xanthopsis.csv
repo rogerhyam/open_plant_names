@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec1f8c64-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthopsis,,,Acloque,,1893,,"Les Lichens 346 (1893)",,,,ec1f8c64-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000040892,3143065,5808," "
-3700076a-8fb2-11eb-924d-9cd76263cbd0,species,atropatana,Xanthopsis,,"(Grossh.) Soják","Q2368398,Q4430625",1972,,"133 1972",,,,,,,wfo-0000016139,5401459,,
-52664ca4-8fb6-11eb-924d-9cd76263cbd0,species,erivanensis,Xanthopsis,,"(Lipsky) Soják","Q2040679,Q4430625",1972,,"133 1972",,,,63cf38d0-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000088182,5401458,,
-94159396-9bad-11eb-a8a2-19ed5c03f8d3,species,wahlenbergii,Xanthopsis,,"(Ach.) Acloque",Q365923,1893,,"Les Lichens (1893)",,,,46100c30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410007," "
-7d01fb66-8fb6-11eb-924d-9cd76263cbd0,species,xanthocephala,Xanthopsis,,K.Koch,Q65130,1851,,"Linnaea 24: 422. 1851",,,,,,260949-1,wfo-0000090007,5696932,,
-50d491d4-8fb6-11eb-924d-9cd76263cbd0,species,xanthocephaloides,Xanthopsis,,"(Tzvelev) Soják","Q4503394,Q4430625",1972,,"133 1972",,,,e525a9dc-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000088113,5696928,,
+ec1f8c64-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthopsis,,,K.Koch,,1893,,"Linnaea 24: 422 (1851)",,,,ec1f8c64-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11565-1,wfo-4000040892,3143065,5808," "
+3700076a-8fb2-11eb-924d-9cd76263cbd0,species,atropatana,Xanthopsis,,"(Grossh.) Soják",0,1972,,"Cas. Nár. Mus., Odd. Prír. 140(3-4): 133 (1972)",,,,,,urn:lsid:ipni.org:names:260947-1,wfo-0000016139,5401459,,
+52664ca4-8fb6-11eb-924d-9cd76263cbd0,species,erivanensis,Xanthopsis,,"(Lipsky) Soják",0,1972,,"Cas. Nár. Mus., Odd. Prír. 140(3-4): 133 (1972)",,,,63cf38d0-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:260948-1,wfo-0000088182,5401458,,
+94159396-9bad-11eb-a8a2-19ed5c03f8d3,species,wahlenbergii,Xanthopsis,,"(Ach.) Acloque",0,1893,,"Les Lichens (1893)",,,,46100c30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410007," "
+7d01fb66-8fb6-11eb-924d-9cd76263cbd0,species,xanthocephala,Xanthopsis,,K.Koch,0,1851,,"Linnaea 24: 422 (1851)",,,,,,urn:lsid:ipni.org:names:260949-1,wfo-0000090007,5696932,,
+50d491d4-8fb6-11eb-924d-9cd76263cbd0,species,xanthocephaloides,Xanthopsis,,"(Tzvelev) Soják",0,1972,,"Cas. Nár. Mus., Odd. Prír. 140(3-4): 133 (1972)",,,,e525a9dc-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:260950-1,wfo-0000088113,5696928,,

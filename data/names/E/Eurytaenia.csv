@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e398478e-8fd1-11eb-924d-9cd76263cbd0,genus,Eurytaenia,,,"Torr. & A.Gray","Q1346660,Q347356",1840,,"Fl. N. Amer. 1(4): 633. 1840.",,,,,,39989-1,wfo-4000014313,3034213,,
-f741e63c-8fcc-11eb-924d-9cd76263cbd0,species,hinckleyi,Eurytaenia,,"Mathias & Constance","Q4284790,Q4231273",1950,,"Contr. Texas Res. Found., Bot. Stud. 1: 2 1950",,,,,,102311-2,wfo-0000683459,5371756,,
-f7420356-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Eurytaenia,,Buckley,Q2605955,1862,,"Proc. Acad. Nat. Sci. Philadelphia 13: 455 1862",,,,,,842136-1,wfo-0000683460,5540088,,
-f7421ff8-8fcc-11eb-924d-9cd76263cbd0,species,texana,Eurytaenia,,"Torr. & A.Gray","Q1346660,Q347356",1840,,"Fl. N. Amer. 1: 633 1840",,,,,,842137-1,wfo-0000683461,5371755,,
-b8ee29bc-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Eurythalia,,"Royle ex D.Don","Q713874,Q1174244",1836,,"London Edinburgh Philos. Mag. & J. Sci. 8: 76 1836",,,,,,,wfo-0001063976,7711820,,
-b8a461c4-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Eurythalia,,G.Don,Q1381245,1838,,"Gen. Hist. 4: 187 1838",,,,,,,wfo-0001063328,4934482,,
+e398478e-8fd1-11eb-924d-9cd76263cbd0,genus,Eurytaenia,,,"Torr. & A.Gray",0,1840,,"Fl. N. Amer. 1: 633 (1840)",,,,,,urn:lsid:ipni.org:names:39989-1,wfo-4000014313,3034213,,
+f741e63c-8fcc-11eb-924d-9cd76263cbd0,species,hinckleyi,Eurytaenia,,"Mathias & Constance",0,1950,,"Contr. Texas Res. Found., Bot. Stud. 1: 2 (1950)",,,,,,urn:lsid:ipni.org:names:102311-2,wfo-0000683459,5371756,,
+f7420356-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Eurytaenia,,Buckley,0,1862,,"Proc. Acad. Nat. Sci. Philadelphia 13: 455 (1862)",,,,,,urn:lsid:ipni.org:names:842136-1,wfo-0000683460,5540088,,
+f7421ff8-8fcc-11eb-924d-9cd76263cbd0,species,texana,Eurytaenia,,"Torr. & A.Gray",0,1840,,"Fl. N. Amer. 1: 633 (1840)",,,,,,urn:lsid:ipni.org:names:842137-1,wfo-0000683461,5371755,,
+b8ee29bc-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Eurythalia,,"Royle ex D.Don",0,1836,,"London Edinburgh Philos. Mag. & J. Sci. 8: 76 1836",,,,,,,wfo-0001063976,7711820,,
+b8a461c4-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Eurythalia,,G.Don,0,1838,,"Gen. Hist. 4: 187 1838",,,,,,,wfo-0001063328,4934482,,

@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6efae90-8fd1-11eb-924d-9cd76263cbd0,genus,Moullava,,,Adans.,Q315861,,,,,,,,,20124-1,wfo-4000024916,2941154,,
-2e177162-8fc4-11eb-924d-9cd76263cbd0,species,spicata,Moullava,,"(Dalzell) Nicolson","Q4154159,Q4320802",,,,,,,,,,wfo-0000186810,2941155,,
-ca527d62-8fd1-11eb-924d-9cd76263cbd0,species,singularis,Moultonia,,"Balf.f. & W.W.Sm.","Q670050,Q1278792",1915,,"Notes Roy. Bot. Gard. Edinburgh 8(40): 349–351 1915",,Q102419174,,,,381838-1,wfo-0001273244,5590655,,
+e6efae90-8fd1-11eb-924d-9cd76263cbd0,genus,Moullava,,,Adans.,0,,,"Fam. Pl. 2: 318 (1763)",,,,,,urn:lsid:ipni.org:names:20124-1,wfo-4000024916,2941154,,
+54d610a8-1d4d-11ec-82c2-f14daa6f2d93,species,digyna,Moullava,,"(Rottler) Gagnon & G.P.Lewis",,,,"PhytoKeys 71: 67 (2016)",,,,,,urn:lsid:ipni.org:names:77158131-1,wfo-0001346774,,,
+2e177162-8fc4-11eb-924d-9cd76263cbd0,species,spicata,Moullava,,"(Dalzell) Nicolson",0,,,"Bot. Hist. Hort. Malabaricus : 184 (1980)",,,,,,urn:lsid:ipni.org:names:77065084-1,wfo-0000186810,2941155,,
+54c39770-1d4d-11ec-82c2-f14daa6f2d93,species,tortuosa,Moullava,,"(Roxb.) Gagnon & G.P.Lewis",,,,"PhytoKeys 71: 68 (2016)",,,,,,urn:lsid:ipni.org:names:77158069-1,wfo-0001346733,,,
+54c3c466-1d4d-11ec-82c2-f14daa6f2d93,species,welwitschiana,Moullava,,"(Oliv.) Gagnon & G.P.Lewis",,,,"PhytoKeys 71: 68 (2016)",,,,,,urn:lsid:ipni.org:names:77158070-1,wfo-0001346734,,,
+ca527d62-8fd1-11eb-924d-9cd76263cbd0,species,singularis,Moultonia,,"Balf.f. & W.W.Sm.",0,1915,,"Notes Roy. Bot. Gard. Edinburgh 8: 349 (1915)",,Q102419174,,,,urn:lsid:ipni.org:names:381838-1,wfo-0001273244,5590655,,

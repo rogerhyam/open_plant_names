@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e44670de-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnolaena,,,Rydb.,Q1905130,,,,,,,,,295689-2,wfo-4000016489,3134293,,
-95d31284-8fba-11eb-924d-9cd76263cbd0,species,chiapasana,Gymnolaena,,Strother,Q5933388,1967,,"Sida 3 112 1967",,Q91204562,,,,115703-2,wfo-0000127826,3134299,,
-4cd0d508-8fba-11eb-924d-9cd76263cbd0,species,integrifolia,Gymnolaena,,"(A.Gray) Rydb.","Q347356,Q1905130",1915,,"N. Amer. Fl. 34 161 1915",,,,,,115704-2,wfo-0000125525,3123749,,
-092c00fc-8fba-11eb-924d-9cd76263cbd0,species,oaxacana,Gymnolaena,,"(Greenm.) Rydb.","Q933930,Q1905130",1915,,"N. Amer. Fl. 34 160 1915",,,,,,115705-2,wfo-0000123445,3134294,,
-0e4103e2-8fb2-11eb-924d-9cd76263cbd0,species,seleri,Gymnolaena,,"(B.L.Rob. & Greenm.) Rydb.","Q817600,Q933930,Q1905130",1915,,"N. Amer. Fl. 34 161 1915",,,,de149814-8fbb-11eb-924d-9cd76263cbd0,,115706-2,wfo-0000008349,3105185,,
-14fe0bda-8fb2-11eb-924d-9cd76263cbd0,species,serratifolia,Gymnolaena,,"(DC.) Rydb.","Q123057,Q1905130",1915,,"N. Amer. Fl. 34 161 1915",,,,,,115707-2,wfo-0000010246,3134296,,
+e44670de-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnolaena,,,Rydb.,0,,,"N. Amer. Fl. 34(2): 160 (1915)",,,,,,urn:lsid:ipni.org:names:295689-2,wfo-4000016489,3134293,,
+95d31284-8fba-11eb-924d-9cd76263cbd0,species,chiapasana,Gymnolaena,,Strother,0,1967,,"Sida 3: 112 (1967)",,Q91204562,,,,urn:lsid:ipni.org:names:115703-2,wfo-0000127826,3134299,,
+4cd0d508-8fba-11eb-924d-9cd76263cbd0,species,integrifolia,Gymnolaena,,Rydb.,0,1915,,"N. Amer. Fl. 34(2): 161 (1915)",,,,,,urn:lsid:ipni.org:names:115704-2,wfo-0000125525,3123749,,
+092c00fc-8fba-11eb-924d-9cd76263cbd0,species,oaxacana,Gymnolaena,,"(Greenm.) Rydb.",0,1915,,"N. Amer. Fl. 34(2): 160 (1915)",,,,,,urn:lsid:ipni.org:names:115705-2,wfo-0000123445,3134294,,
+0e4103e2-8fb2-11eb-924d-9cd76263cbd0,species,seleri,Gymnolaena,,Rydb.,0,1915,,"N. Amer. Fl. 34(2): 161 (1915)",,,,de149814-8fbb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:115706-2,wfo-0000008349,3105185,,
+14fe0bda-8fb2-11eb-924d-9cd76263cbd0,species,serratifolia,Gymnolaena,,Rydb.,0,1915,,"N. Amer. Fl. 34(2): 161 (1915)",,,,,,urn:lsid:ipni.org:names:115707-2,wfo-0000010246,3134296,,

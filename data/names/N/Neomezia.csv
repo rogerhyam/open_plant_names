@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7326898-8fd1-11eb-924d-9cd76263cbd0,genus,Neomezia,,,Votsch,Q21611904,1904,,"Bot. Jahrb. Syst. 33: 541. 1904.",,,,,,295256-2,wfo-4000025769,7313197,,
-bdce2c30-8fd1-11eb-924d-9cd76263cbd0,species,cubensis,Neomezia,,"(Radlk.) Votsch","Q62865,Q21611904",1904,,"Bot. Jahrb. Syst. 33: 541 1904",,,,,,,wfo-0001249957,7313198,,
-aeb1f4e2-8fcd-11eb-924d-9cd76263cbd0,subspecies,oligospinosa,Neomezia,cubensis,"(Lepper) Borhidi","Q21518687,Q548434",1995,,"Acta Bot. Hung. 38: 45 1995",,,,ddc62c72-8fcc-11eb-924d-9cd76263cbd0,,1004316-1,wfo-0001040764,3585458,,
+e7326898-8fd1-11eb-924d-9cd76263cbd0,genus,Neomezia,,,Votsch,0,1904,,"Bot. Jahrb. Syst. 33: 506 (1904)",,,,,,urn:lsid:ipni.org:names:295256-2,wfo-4000025769,7313197,,
+bdce2c30-8fd1-11eb-924d-9cd76263cbd0,species,cubensis,Neomezia,,"(Radlk.) Votsch",0,1904,,"Bot. Jahrb. Syst. 33: 506 (1904)",,,,,,urn:lsid:ipni.org:names:168862-2,wfo-0001249957,7313198,,
+aeb1f4e2-8fcd-11eb-924d-9cd76263cbd0,subspecies,oligospinosa,Neomezia,cubensis,"(Lepper) Borhidi",0,1995,,"Acta Bot. Hung. 38: 45 (1993-1994 publ. 1995)",,,,ddc62c72-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1004316-1,wfo-0001040764,3585458,,

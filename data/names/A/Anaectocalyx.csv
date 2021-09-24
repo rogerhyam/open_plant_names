@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df58a6be-8fd1-11eb-924d-9cd76263cbd0,genus,Anaectocalyx,,,"Triana ex Benth. & Hook.f.","Q2495258,Q731808,Q157501",1867,,"Gen. Pl. 1: 765. 1867.",,,,,,26160-1,wfo-4000001821,4935958,,
-ce1e5eac-8fd1-11eb-924d-9cd76263cbd0,species,bracteosa,Anaectocalyx,,Triana,Q2495258,1867,,"Gen. Pl. 1: 765 1867",,,,,,566193-1,wfo-0001280008,7536441,,
-c0336a34-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Anaectocalyx,,Cogn.,Q655719,1891,,"Monogr. Phan. 7: 713 1891",,,,,,12270-2,wfo-0001080586,3867450,,
-d4e3e608-8fd1-11eb-924d-9cd76263cbd0,species,manarae,Anaectocalyx,,Wurdack,Q4107602,1978,,"Brittonia 30(1): 44 1978",,Q55770078,,,,12271-2,wfo-0001286520,3859357,,
+df58a6be-8fd1-11eb-924d-9cd76263cbd0,genus,Anaectocalyx,,,"Triana ex Benth. & Hook.f.",0,1867,,"Gen. Pl. 1(3): 765 (1867)",,,,,,urn:lsid:ipni.org:names:26160-1,wfo-4000001821,4935958,,
+ce1e5eac-8fd1-11eb-924d-9cd76263cbd0,species,bracteosa,Anaectocalyx,,Triana,0,1867,,"Gen. Pl. [Bentham & Hooker f.] 1(3): 765. 1867 [Sep 1867]",,,,,,urn:lsid:ipni.org:names:566193-1,wfo-0001280008,7536441,,
+c0336a34-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Anaectocalyx,,Cogn.,0,1891,,"Monogr. Phan. 7: 713 (1891)",,,,,,urn:lsid:ipni.org:names:12270-2,wfo-0001080586,3867450,,
+d4e3e608-8fd1-11eb-924d-9cd76263cbd0,species,manarae,Anaectocalyx,,Wurdack,0,1978,,"Brittonia 30: 44 (-45) (1978)",,Q55770078,,,,urn:lsid:ipni.org:names:12271-2,wfo-0001286520,3859357,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaf312b6-8fd1-11eb-924d-9cd76263cbd0,genus,Succowia,,,Medik.,Q77464,1792,,"Pflanzen-Gatt. 64. 1792.",,,,,,13093-1,wfo-4000037047,7474782,,
-609da91e-8fcc-11eb-924d-9cd76263cbd0,species,balearica,Succowia,,"(L.) Medik.","Q1043,Q77464",1792,,"Pfl.-Gatt. 65 1792",,,,,,1104224-2,wfo-0000432090,3040899,,
-ad52ccac-8fcd-11eb-924d-9cd76263cbd0,species,echinata,Succowia,,Moench,Q60948,1794,,"Methodus 265. 1794",,,,,,290263-1,wfo-0001037613,3040901,,
-8a990b8c-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Succowia,,Dennst.,Q5711541,1818,,"Reis. Br.-Guiana 32 1818",,,,,,557617-1,wfo-0000502222,3982506,,
-c29ac890-8fd1-11eb-924d-9cd76263cbd0,species,alba,Succuta,,"Des Moul.",Q2960744,1853,,"Etud. Organ. Cuscutes 74 1853",,,,,,271249-1,wfo-0001258984,3677452,,
+eaf312b6-8fd1-11eb-924d-9cd76263cbd0,genus,Succowia,,,Medik.,0,1792,,"Pfl.-Gatt. : 64 (1792)",,,,,,urn:lsid:ipni.org:names:13093-1,wfo-4000037047,7474782,,
+609da91e-8fcc-11eb-924d-9cd76263cbd0,species,balearica,Succowia,,"(L.) Medik.",0,1792,,"Pfl.-Gatt. : 65 (1792)",,,,,,urn:lsid:ipni.org:names:1104224-2,wfo-0000432090,3040899,,
+ad52ccac-8fcd-11eb-924d-9cd76263cbd0,species,echinata,Succowia,,Moench,0,1794,,"Methodus : 265 (1794)",,,,,,urn:lsid:ipni.org:names:290263-1,wfo-0001037613,3040901,,
+8a990b8c-8fcc-11eb-924d-9cd76263cbd0,species,fimbriata,Succowia,,Dennst.,0,1818,,"Schlüssel Hortus Malab. 32 (1818). [20 Oct 1818]",,,,,,urn:lsid:ipni.org:names:557617-1,wfo-0000502222,3982506,,
+c29ac890-8fd1-11eb-924d-9cd76263cbd0,species,alba,Succuta,,"Des Moul.",0,1853,,"Étud. Cuscut. : 74 (1853)",,,,,,urn:lsid:ipni.org:names:271249-1,wfo-0001258984,3677452,,

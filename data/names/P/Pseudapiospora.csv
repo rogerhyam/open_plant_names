@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-c36158c0-9bac-11eb-a8a2-19ed5c03f8d3,genus,Pseudapiospora,,,Petr.,Q4360385,1928,,"Hedwigia 68: 233 (1928)",,,,c36158c0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,4404," "
-bd3ce784-9bac-11eb-a8a2-19ed5c03f8d3,species,calophylli,Pseudapiospora,,"(Gonz. Frag. & Cif.) Petr.","Q4516707,Q4360385",1931,,"Annls mycol. 29: 362 (1931)",,,,f8d7ad60-9bac-11eb-a8a2-19ed5c03f8d3,,,,,259424," "
-fc5059c0-9bab-11eb-a8a2-19ed5c03f8d3,species,corni,Pseudapiospora,,"(Sowerby) Petr.","Q1235813,Q4360385",1928,,"Hedwigia 68: 232 (1928)",,,,,,,,,251595," "
-fc553df0-9bab-11eb-a8a2-19ed5c03f8d3,species,fallax,Pseudapiospora,,"(Petr.) Petr.",Q4360385,,,,,,,d9ccdc06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,252090," "
+c36158c0-9bac-11eb-a8a2-19ed5c03f8d3,genus,Pseudapiospora,,,Petr.,0,1928,,"Hedwigia 68: 233 (1928)",,,,c36158c0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,4404," "
+bd3ce784-9bac-11eb-a8a2-19ed5c03f8d3,species,calophylli,Pseudapiospora,,"(Gonz. Frag. & Cif.) Petr.",0,1931,,"Annls mycol. 29: 362 (1931)",,,,f8d7ad60-9bac-11eb-a8a2-19ed5c03f8d3,,,,,259424," "
+fc5059c0-9bab-11eb-a8a2-19ed5c03f8d3,species,corni,Pseudapiospora,,"(Sowerby) Petr.",0,1928,,"Hedwigia 68: 232 (1928)",,,,,,,,,251595," "
+fc553df0-9bab-11eb-a8a2-19ed5c03f8d3,species,fallax,Pseudapiospora,,"(Petr.) Petr.",0,,,,,,,d9ccdc06-9bac-11eb-a8a2-19ed5c03f8d3,,,,,252090," "
 ff1e5fb6-9bac-11eb-a8a2-19ed5c03f8d3,species,lycopodina,Pseudapiospora,,"(P. Karst.) L. Holm",,1954,,"in Lundell & Nannfeldt, Fungi Exsiccati Suecici 45-46(Sched.): 41 (1954)",,,,58795b70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,304330," "
-df30badc-9bac-11eb-a8a2-19ed5c03f8d3,species,moravica,Pseudapiospora,,Petr.,Q4360385,1931,,"Annls mycol. 29: 356 (1931)",,,,df30badc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271662," "
-c09cfd2e-9bac-11eb-a8a2-19ed5c03f8d3,species,necans,Pseudapiospora,,"(Rehm) Petr.","Q4393082,Q4360385",1934,,"Annls mycol. 32: 420 (1934)",,,,7aa5e38e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,272083," "
-11e7a658-9bac-11eb-a8a2-19ed5c03f8d3,species,sibirica,Pseudapiospora,,Petr.,Q4360385,,,,,,,11e7a658-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254699," "
-e5c5c158-9bac-11eb-a8a2-19ed5c03f8d3,species,thistletonia,Pseudapiospora,,"(Cooke) Petr. & Syd.","Q2351239,Q4360385",1929,,"Annls mycol. 27: 96 (1929)",,,,80cbb064-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280226," "
-ad76e484-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Pseudarabidella,,"(F.Muell.) O.E.Schulz","Q708002,Q2598714",1924,,"Pflanzenreich IV–105(Heft 86): 257. 1924",,,,,,288201-1,wfo-0001037934,3040464,,
+df30badc-9bac-11eb-a8a2-19ed5c03f8d3,species,moravica,Pseudapiospora,,Petr.,0,1931,,"Annls mycol. 29: 356 (1931)",,,,df30badc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271662," "
+c09cfd2e-9bac-11eb-a8a2-19ed5c03f8d3,species,necans,Pseudapiospora,,"(Rehm) Petr.",0,1934,,"Annls mycol. 32: 420 (1934)",,,,7aa5e38e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,272083," "
+11e7a658-9bac-11eb-a8a2-19ed5c03f8d3,species,sibirica,Pseudapiospora,,Petr.,0,,,,,,,11e7a658-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254699," "
+e5c5c158-9bac-11eb-a8a2-19ed5c03f8d3,species,thistletonia,Pseudapiospora,,"(Cooke) Petr. & Syd.",0,1929,,"Annls mycol. 27: 96 (1929)",,,,80cbb064-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280226," "
+ad76e484-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Pseudarabidella,,O.E.Schulz,0,1924,,"Pflanzenr. (Engler) Crucif.-Sisymbr. 257 (1924).",,,,,,urn:lsid:ipni.org:names:288201-1,wfo-0001037934,3040464,,

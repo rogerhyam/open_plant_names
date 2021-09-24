@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e76a48bc-8fd1-11eb-924d-9cd76263cbd0,genus,Nypa,,,Steck,Q5655298,1757,,"Dissert. Inaug. Med. Sagu 15. 1757.",,,,,,31397-1,wfo-4000026428,2738421,,
-e8466bea-8fcb-11eb-924d-9cd76263cbd0,species,fruticans,Nypa,,Wurmb,Q73222,1779,,"Verh. Batav. Genootsch. Kunsten 1: 349 1779",,,,,,668507-1,wfo-0000252566,2738422,,
-31b00b14-8fcd-11eb-924d-9cd76263cbd0,variety,neameana,Nypa,fruticans,F.M.Bailey,Q2659122,1888,,"Proc. Roy. Soc. Queensland 5: 147 1888",,,,,,,wfo-0000797468,2738427,,
+e76a48bc-8fd1-11eb-924d-9cd76263cbd0,genus,Nypa,,,Steck,0,1757,,"Sagu : 15 (1757)",,,,,,urn:lsid:ipni.org:names:31397-1,wfo-4000026428,2738421,,
+e8466bea-8fcb-11eb-924d-9cd76263cbd0,species,fruticans,Nypa,,Wurmb,0,1779,,"Verh. Batav. Genootsch. Kunsten 1: 349 (1779)",,,,,,urn:lsid:ipni.org:names:668507-1,wfo-0000252566,2738422,,
+31b00b14-8fcd-11eb-924d-9cd76263cbd0,variety,neameana,Nypa,fruticans,F.M.Bailey,0,1888,,"Proceedings of the Royal Society of Queensland 5  1888",,,,,,urn:lsid:ipni.org:names:169408-3,wfo-0000797468,2738427,,

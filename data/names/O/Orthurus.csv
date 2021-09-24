@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7b77308-8fd1-11eb-924d-9cd76263cbd0,genus,Orthurus,,,Juz.,Q3479734,1941,,"Fl. URSS 10: 616. 1941.",,,,,,,wfo-4000027336,3016215,,
-94084bfa-8fcd-11eb-924d-9cd76263cbd0,species,heterocarpus,Orthurus,,"(Boiss.) Juz.","Q34430,Q3479734",1934,,"Flora USSR ; 1934 262 1941",,,,dd639fda-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000985527,5369963,,
-94086608-8fcd-11eb-924d-9cd76263cbd0,species,kokanicus,Orthurus,,"(Regel & Schmalh. ex Regel) Juz.","Q62989,Q1765161,Q3479734",1934,,"Flora USSR ; 1934 263, t.19,f.5a-c 1941",,,,,,,wfo-0000985528,5365260,,
+e7b77308-8fd1-11eb-924d-9cd76263cbd0,genus,Orthurus,,,Juz.,0,1941,,"Fl. URSS 10: 616 (1941)",,,,,,urn:lsid:ipni.org:names:33927-1,wfo-4000027336,3016215,,
+94084bfa-8fcd-11eb-924d-9cd76263cbd0,species,heterocarpus,Orthurus,,"(Boiss.) Juz.",0,1934,,"Fl. URSS 10: 262 (1941)",,,,dd639fda-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:726885-1,wfo-0000985527,5369963,,
+94086608-8fcd-11eb-924d-9cd76263cbd0,species,kokanicus,Orthurus,,"(Regel & Schmalh.) Juz.",0,1934,,"Fl. URSS 10: 263 (1941)",,,,,,urn:lsid:ipni.org:names:726886-1,wfo-0000985528,5365260,,

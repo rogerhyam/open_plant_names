@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e743c1ce-8fd1-11eb-924d-9cd76263cbd0,genus,Nesocodon,,,Thulin,Q6006366,1980,,"Kew Bull. 34(4): 813. 1980. (22 Feb 1980)",,Q55787337,,,,5769-1,wfo-4000025974,3161823,,
-3ae3c39c-8fcd-11eb-924d-9cd76263cbd0,species,mauritianus,Nesocodon,,"(I.Richardson) Thulin","Q21607185,Q6006366",1980,,"Kew Bull. 34: 813 1980",,Q55787337,,,,144220-1,wfo-0000816924,3161824,,
-ca1a3042-8fd1-11eb-924d-9cd76263cbd0,species,socotrana,Nesocrambe,,A.G.Mill.,Q11679869,2002,,"Willdenowia 32: 63 2002",,Q55789674,,,,20007711-1,wfo-0001272826,3048695,,
+e743c1ce-8fd1-11eb-924d-9cd76263cbd0,genus,Nesocodon,,,Thulin,0,1980,,"Kew Bull. 34: 813 (1980)",,Q55787337,,,,urn:lsid:ipni.org:names:5769-1,wfo-4000025974,3161823,,
+3ae3c39c-8fcd-11eb-924d-9cd76263cbd0,species,mauritianus,Nesocodon,,"(I.Richardson) Thulin",0,1980,,"Kew Bull. 34: 813 (1980)",,Q55787337,,,,urn:lsid:ipni.org:names:144220-1,wfo-0000816924,3161824,,
+ca1a3042-8fd1-11eb-924d-9cd76263cbd0,species,socotrana,Nesocrambe,,A.G.Mill.,0,2002,,"Willdenowia 31: 63 (2002)",,Q55789674,,,,urn:lsid:ipni.org:names:20007711-1,wfo-0001272826,3048695,,

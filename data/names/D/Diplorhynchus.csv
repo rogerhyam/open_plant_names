@@ -1,12 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2df504e-8fd1-11eb-924d-9cd76263cbd0,genus,Diplorhynchus,,,"Welw. ex Ficalho & Hiern","Q78609,Q10284967,Q3568881",1881,invalid,"Trans. Linn. Soc. London, Bot. ser. 2. 2: 22. 1881.",,Q55760211,,e2df504e-8fd1-11eb-924d-9cd76263cbd0,,2301-1,wfo-4000012027,3230998,8060,"Nom. inval., Art. 36.1 "
-80d2d41a-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Diplorhynchus,,Büttner,Q105814,1889,,"Verh. Bot. Vereins Prov. Brandenburg 31: 85 1889",,,,,,,wfo-0000944081,7537306,,
-80d2eefa-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Diplorhynchus,,Stapf,Q78630,1902,,"Fl. Trop. Afr. 4(1): 107 1902",,,,,,78309-1,wfo-0000944082,5536393,,
+e2df504e-8fd1-11eb-924d-9cd76263cbd0,genus,Diplorhynchus,,,"Welw. ex Ficalho & Hiern",0,1881,invalid,"Trans. Linn. Soc. London, Bot. 2: 22 (1881)",,Q55760211,,e2df504e-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:2301-1,wfo-4000012027,3230998,8060,"Nom. inval., Art. 36.1 "
+80d2d41a-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Diplorhynchus,,Büttner,0,1889,,"Verh. Bot. Vereins Prov. Brandenburg 31: 85 (1889)",,,,,,urn:lsid:ipni.org:names:78313-1,wfo-0000944081,7537306,,
+80d2eefa-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Diplorhynchus,,Stapf,0,1902,,"Fl. Trop. Afr. 4(1): 107 (1902)",,,,,,urn:lsid:ipni.org:names:78309-1,wfo-0000944082,5536393,,
 133b048c-9bac-11eb-a8a2-19ed5c03f8d3,species,biloba,Diplorhynchus,,"G. Arnaud",,,,,,,,133b048c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261304," Diplorhynchus bilobus"
 f2b4b58c-9bab-11eb-a8a2-19ed5c03f8d3,species,bilobus,Diplorhynchus,,"G. Arnaud",,1952,invalid,"Bull. trimest. Soc. mycol. Fr. 68: 207 (1952)",,,,f2b4b58c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,344099,"Nom. inval., Arts 36.1, 43.1 biloba"
-80d30a2a-8fcd-11eb-924d-9cd76263cbd0,species,condylocarpon,Diplorhynchus,,"(Müll.Arg.) Pichon","Q2504914,Q2338866",1948,,"Bull. Mus. Natl. Hist. Nat. II, 19: 368 1948",,,,008243be-8fcc-11eb-924d-9cd76263cbd0,,81751-2,wfo-0000944083,5536384,,
-80d34a58-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Diplorhynchus,,Benth.,Q731808,,,"Hooker's Icon. Pl. 14: t. 1355 1878",,,,,,78311-1,wfo-0000944085,5536381,,
-80d3cc12-8fcd-11eb-924d-9cd76263cbd0,species,poggei,Diplorhynchus,,K.Schum.,Q63545,1895,,"Nat. Pflanzenfam. 4(2): 142 1895",,,,,,,wfo-0000944086,7578799,,
-80d4097a-8fcd-11eb-924d-9cd76263cbd0,species,psilopus,Diplorhynchus,,"Welw. ex Ficalho & Hiern","Q78609,Q10284967,Q3568881",1881,,"Trans. Linn. Soc. London, Bot. 2: 23 1881",,Q55760211,,,,78312-1,wfo-0000944087,5536376,,
-80d42586-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Diplorhynchus,,Rolfe,Q2635543,1893,,"Bol. Soc. Brot. 11: 85 1893",,,,,,,wfo-0000944088,7922260,,
-174963de-8fb3-11eb-924d-9cd76263cbd0,species,tinctoria,Diplosastera,,"(Nutt.) Tausch","Q728337,Q2332119",1823,,"t. 4 1823",,,,ba618820-8fb4-11eb-924d-9cd76263cbd0,,201657-1,wfo-0000041371,3133953,,
+80d30a2a-8fcd-11eb-924d-9cd76263cbd0,species,condylocarpon,Diplorhynchus,,"(Müll.Arg.) Pichon",0,1948,,"Bull. Mus. Natl. Hist. Nat. ser. 2, 19(4): 368. 1947 [Sep 1947]",,,,008243be-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:81751-2,wfo-0000944083,5536384,,
+80d34a58-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Diplorhynchus,,Benth.,0,,,"Hooker's Icon. Pl. 14: t. 1355 (1878)",,,,,,urn:lsid:ipni.org:names:78311-1,wfo-0000944085,5536381,,
+80d3cc12-8fcd-11eb-924d-9cd76263cbd0,species,poggei,Diplorhynchus,,K.Schum.,0,1895,,"Nat. Pflanzenfam. 4(2): 142 (1895)",,,,,,urn:lsid:ipni.org:names:78314-1,wfo-0000944086,7578799,,
+80d4097a-8fcd-11eb-924d-9cd76263cbd0,species,psilopus,Diplorhynchus,,"Welw. ex Ficalho & Hiern",0,1881,,"Trans. Linn. Soc. London, Bot. 2: 23 (1881)",,Q55760211,,,,urn:lsid:ipni.org:names:78312-1,wfo-0000944087,5536376,,
+80d42586-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Diplorhynchus,,Rolfe,0,1893,,"Bol. Soc. Brot. 11: 85 (1893)",,,,,,urn:lsid:ipni.org:names:78315-1,wfo-0000944088,7922260,,

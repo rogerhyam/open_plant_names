@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9f03db2-8fd1-11eb-924d-9cd76263cbd0,genus,Sapria,,,Griff.,Q11705310,1849,,"Proc. Linn. Soc. Lond. 1: 216. 1849.",,,,,,14134-1,wfo-4000033994,7279688,,
-d65cd2a0-8fcd-11eb-924d-9cd76263cbd0,species,himalayana,Sapria,,Griff.,Q11705310,1844,,"Proc. Linn. Soc. Lond. 1: 216–217 1844",,,,,,316082-1,wfo-0001129103,7279689,,
-8c351652-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Sapria,,Gagnep.,Q599122,1941,,"Notul. Syst. (Paris) 9: 144 1941",,,,,,707094-1,wfo-0000504734,3941157,,
-8c33950c-8fcc-11eb-924d-9cd76263cbd0,species,ram,Sapria,,"Bänziger & B.Hansen","Q22114017,Q2899240",1997,,"Nat. Hist. Bull. Siam Soc. 45: 157 1997",,,,,,1000395-1,wfo-0000504721,3941152,,
+e9f03db2-8fd1-11eb-924d-9cd76263cbd0,genus,Sapria,,,Griff.,0,1849,,"Proc. Linn. Soc. London 1: 216 (1844)",,,,,,urn:lsid:ipni.org:names:14134-1,wfo-4000033994,7279688,,
+58bb332e-1d4d-11ec-82c2-f14daa6f2d93,species,griffithii,Sapria,,R.Br.,,,,"Female Fl. Fruit Rafflesia Arnoldi 24. 1844 [Sep 1844] ; and in Trans. Linn. Soc. London 19: 244. [6 Nov 1844]",,,,,,urn:lsid:ipni.org:names:316081-1,wfo-0001352019,,,
+d65cd2a0-8fcd-11eb-924d-9cd76263cbd0,species,himalayana,Sapria,,Griff.,0,1844,,"Proc. Linn. Soc. London 1: 217 (1844)",,,,,,urn:lsid:ipni.org:names:316082-1,wfo-0001129103,7279689,,
+4158fbb2-1d4d-11ec-82c2-f14daa6f2d93,form,albovinosa,Sapria,himalayana,"Bänziger & B.Hansen",,,,"Nat. Hist. Bull. Siam Soc. 48: 214 (2000 publ. 2001)",,,,,,urn:lsid:ipni.org:names:20000298-1,wfo-0001320794,,,
+8c351652-8fcc-11eb-924d-9cd76263cbd0,species,poilanei,Sapria,,Gagnep.,0,1941,,"Notul. Syst. (Paris) 9: 144 (1941)",,,,,,urn:lsid:ipni.org:names:707094-1,wfo-0000504734,3941157,,
+8c33950c-8fcc-11eb-924d-9cd76263cbd0,species,ram,Sapria,,"Bänziger & B.Hansen",0,1997,,"Nat. Hist. Bull. Siam Soc. 45: 157 (1997)",,,,,,urn:lsid:ipni.org:names:1000395-1,wfo-0000504721,3941152,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9d1f5abc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Menisporopsis,,,"S. Hughes",,1952,,"Mycol. Pap. 48: 59 (1952)",,,,9d1f5abc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8904," "
 72fca5fa-9bad-11eb-a8a2-19ed5c03f8d3,species,anisospora,Menisporopsis,,"R.F. Castañeda & Iturr.",,2001,,"Cryptog. Mycol. 22(4): 260 (2001)",,,,72fca5fa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,484840," "
-52eb886c-9bad-11eb-a8a2-19ed5c03f8d3,species,heterosetulosa,Menisporopsis,,"Cano, R.F. Castañeda & Guarro",Q36587715,,,,,,,52eb886c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,433445," "
+52eb886c-9bad-11eb-a8a2-19ed5c03f8d3,species,heterosetulosa,Menisporopsis,,"Cano, R.F. Castañeda & Guarro",0,,,,,,,52eb886c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,433445," "
 3edcbb98-9bad-11eb-a8a2-19ed5c03f8d3,species,kobensis,Menisporopsis,,Matsush.,,2003,,"Matsush. Mycol. Mem. 10: 141 (2003)",,,,3edcbb98-9bad-11eb-a8a2-19ed5c03f8d3,,,,,375755," "
 263a9d04-9bac-11eb-a8a2-19ed5c03f8d3,species,ludoviciana,Menisporopsis,,"(J.L. Crane & Schokn.) P.M. Kirk & B. Sutton",,1986,,"Trans. Br. mycol. Soc. 85(4): 717 (1986)",,,,2a3d2322-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104472," "
 5b9f8bc0-9bad-11eb-a8a2-19ed5c03f8d3,species,multisetulata,Menisporopsis,,"K.M. Tsui, Goh, K.D. Hyde & Hodgkiss",,1999,,"Mycol. Res. 103(2): 150 (1999)",,,,5b9f8bc0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,450458," "
@@ -11,4 +11,4 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 110acd54-9bad-11eb-a8a2-19ed5c03f8d3,species,profusa,Menisporopsis,,"Piroz. & Hodges",,1973,,"Can. J. Bot. 51(1): 164 (1973)",,,,110acd54-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317566," "
 f040a0d0-9bac-11eb-a8a2-19ed5c03f8d3,species,theobromae,Menisporopsis,,"S. Hughes",,1952,,"Mycol. Pap. 48: 59 (1952)",,,,f040a0d0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,300904," "
 c4f79b2c-9bac-11eb-a8a2-19ed5c03f8d3,species,trisetulosa,Menisporopsis,,"Siboe, P.M. Kirk & P.F. Cannon",,1999,,"Mycotaxon 73: 292 (1999)",,,,c4f79b2c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,463991," "
-374f96de-8fcd-11eb-924d-9cd76263cbd0,species,tibetica,Menitskia,,"(Vatke) Krestovsk.","Q6167475,Q18986345",1894,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1894 2006",,,,0f9d05e6-8fcc-11eb-924d-9cd76263cbd0,,77080017-1,wfo-0000809167,3904202,,
+374f96de-8fcd-11eb-924d-9cd76263cbd0,species,tibetica,Menitskia,,"(Vatke) Krestovsk.",0,1894,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1894 (2006)",,,,0f9d05e6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77080017-1,wfo-0000809167,3904202,,

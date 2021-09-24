@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9d4c4d92-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mallotium,,,"(Ach.) Gray","Q365923,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 399 (1821)",,,,,,,,,2987," "
-4735db4e-9bad-11eb-a8a2-19ed5c03f8d3,species,burgessii,Mallotium,,"(L.) Gray","Q1043,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,46714d10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395084," "
-006bda16-9bac-11eb-a8a2-19ed5c03f8d3,species,daedaleum,Mallotium,,"(Flot.) A. Massal.",Q4491206,,,,,,,18a4944c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,395085," "
-47360344-9bad-11eb-a8a2-19ed5c03f8d3,species,hildenbrandii,Mallotium,,Garov.,Q15253517,,,,,,,47360344-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395086," "
-af115f36-9bad-11eb-a8a2-19ed5c03f8d3,species,mairei,Mallotium,,"Werner & M. Choisy",Q6111008,,,,,,,af115f36-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367949," "
-47362c5c-9bad-11eb-a8a2-19ed5c03f8d3,species,minutissimum,Mallotium,,"(Flörke) Schwend.",Q4491255,,,,,,,03a09a96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,395087," "
-0412891c-9bac-11eb-a8a2-19ed5c03f8d3,species,myochroum,Mallotium,,"(Ehrh.) A. Massal.",Q123996,,,,,,,8b30ecee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395088," "
+9d4c4d92-9bad-11eb-a8a2-19ed5c03f8d3,genus,Mallotium,,,"(Ach.) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 399 (1821)",,,,,,,,,2987," "
+4735db4e-9bad-11eb-a8a2-19ed5c03f8d3,species,burgessii,Mallotium,,"(L.) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,46714d10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395084," "
+006bda16-9bac-11eb-a8a2-19ed5c03f8d3,species,daedaleum,Mallotium,,"(Flot.) A. Massal.",0,,,,,,,18a4944c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,395085," "
+47360344-9bad-11eb-a8a2-19ed5c03f8d3,species,hildenbrandii,Mallotium,,Garov.,0,,,,,,,47360344-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395086," "
+af115f36-9bad-11eb-a8a2-19ed5c03f8d3,species,mairei,Mallotium,,"Werner & M. Choisy",0,,,,,,,af115f36-9bad-11eb-a8a2-19ed5c03f8d3,,,,,367949," "
+47362c5c-9bad-11eb-a8a2-19ed5c03f8d3,species,minutissimum,Mallotium,,"(Flörke) Schwend.",0,,,,,,,03a09a96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,395087," "
+0412891c-9bac-11eb-a8a2-19ed5c03f8d3,species,myochroum,Mallotium,,"(Ehrh.) A. Massal.",0,,,,,,,8b30ecee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395088," "
 32181b38-9bac-11eb-a8a2-19ed5c03f8d3,species,saturninum,Mallotium,,"A. Massal.",,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,32181b38-9bac-11eb-a8a2-19ed5c03f8d3,,,,,123449," "
-8bc55d8e-9bad-11eb-a8a2-19ed5c03f8d3,species,tomentosum,Mallotium,,"(Hoffm.) Körb.",Q69815,,,,,,,851810e4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395090," "
-32d30f56-8fcc-11eb-924d-9cd76263cbd0,species,gnaphalodes,Mallotonia,,"(L.) Britton","Q1043,Q553714",1915,,"Ann. Missouri Bot. Gard. 2: 47 1915",,Q55772654,,,,149930-2,wfo-0000372019,2925913,,
-7770f0b2-8fbb-11eb-924d-9cd76263cbd0,species,japonicus,Mallotopus,,"Franch. & Sav.","Q377208,Q246459",,,,,,,,,,wfo-0000134458,4234460,,
+8bc55d8e-9bad-11eb-a8a2-19ed5c03f8d3,species,tomentosum,Mallotium,,"(Hoffm.) Körb.",0,,,,,,,851810e4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,395090," "
+32d30f56-8fcc-11eb-924d-9cd76263cbd0,species,gnaphalodes,Mallotonia,,Britton,0,1915,,"Ann. Missouri Bot. Gard. 2: 47 (1915)",,Q55772654,,,,urn:lsid:ipni.org:names:149930-2,wfo-0000372019,2925913,,
+7770f0b2-8fbb-11eb-924d-9cd76263cbd0,species,japonicus,Mallotopus,,"Franch. & Sav.",0,,,"Enum. Pl. Jap. 2: 394 (-395) (1878)",,,,,,urn:lsid:ipni.org:names:326505-2,wfo-0000134458,4234460,,

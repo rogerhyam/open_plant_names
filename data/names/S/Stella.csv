@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eabb644c-8fd1-11eb-924d-9cd76263cbd0,genus,Stella,,,Massee,Q4284198,1889,,"J. Mycol. 5(4): 185 (1889)",,,,eabb644c-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000036398,2942982,19327," "
-7a744f22-9bad-11eb-a8a2-19ed5c03f8d3,species,americana,Stella,,Massee,Q4284198,1889,,"J. Mycol. 5: 185 (1889)",,,,7a744f22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,247408," "
-8ab0ad82-8fcc-11eb-924d-9cd76263cbd0,species,radiata,Stella,,Fourr.,Q925866,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 364 1868",,,,,,519473-1,wfo-0000502372,5630934,,
-05b9e7f8-8fc5-11eb-924d-9cd76263cbd0,species,sesamea,Stella,,"(L.) Medik.","Q1043,Q77464",,,,,,,,,,wfo-0000191019,5345549,,
-8621daf2-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Stellandria,,Brickell,Q5933114,1803,,"Med. Repos. 6: 327 1803",,,,,,244133-2,wfo-0000495110,3745277,,
-8ccea150-8fcc-11eb-924d-9cd76263cbd0,species,lathraeoides,Stellara,,"Fisch. ex Reut.","Q64109,Q2609755",1847,,"Prodr. 11: 39 1847",,,,,,662981-1,wfo-0000505796,3731621,,
+eabb644c-8fd1-11eb-924d-9cd76263cbd0,genus,Stella,,,Medik.,0,1889,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 377 (1787)",,,,eabb644c-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:23611-1,wfo-4000036398,2942982,19327," "
+7a744f22-9bad-11eb-a8a2-19ed5c03f8d3,species,americana,Stella,,Massee,0,1889,,"J. Mycol. 5: 185 (1889)",,,,7a744f22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,247408," "
+8ab0ad82-8fcc-11eb-924d-9cd76263cbd0,species,radiata,Stella,,Fourr.,0,1868,,"Ann. Soc. Linn. Lyon , n.s., 16: 364 (1868)",,,,,,urn:lsid:ipni.org:names:519473-1,wfo-0000502372,5630934,,
+05b9e7f8-8fc5-11eb-924d-9cd76263cbd0,species,sesamea,Stella,,"(L.) Medik.",0,,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 377 (1787)",,,,,,urn:lsid:ipni.org:names:519474-1,wfo-0000191019,5345549,,

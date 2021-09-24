@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebc37df2-8fd1-11eb-924d-9cd76263cbd0,genus,Ulearum,,,Engl.,Q60718,1905,,"Bot. Jahrb. Syst. 37: 95. 1905.",,,,,,289090-2,wfo-4000039716,2870043,,
-c47f16a2-8fcc-11eb-924d-9cd76263cbd0,species,donburnsii,Ulearum,,"Croat & Feuerst.","Q1829652,Q33671795",2002,,"Aroideana 25: 37 2002 publ. 2003",,Q100709679,,,,20011460-1,wfo-0000596149,2870044,,
-18a23b20-8fcc-11eb-924d-9cd76263cbd0,species,reconditum,Ulearum,,Madison,Q19862392,1980,,"Aroideana 3: 101 1980",,Q100709811,,,,259331-2,wfo-0000329170,2867679,,
-18a28198-8fcc-11eb-924d-9cd76263cbd0,species,sagittatum,Ulearum,,Engl.,Q60718,1905,,"Bot. Jahrb. Syst. 37: 95 1905",,,,,,259332-2,wfo-0000329171,2870045,,
+ebc37df2-8fd1-11eb-924d-9cd76263cbd0,genus,Ulearum,,,Engl.,0,1905,,"Bot. Jahrb. Syst. 37: 95 (1905)",,,,,,urn:lsid:ipni.org:names:289090-2,wfo-4000039716,2870043,,
+c47f16a2-8fcc-11eb-924d-9cd76263cbd0,species,donburnsii,Ulearum,,"Croat & Feuerst.",0,2002,,"Aroideana 25: 37 (2002 publ. 2003)",,Q100709679,,,,urn:lsid:ipni.org:names:20011460-1,wfo-0000596149,2870044,,
+18a23b20-8fcc-11eb-924d-9cd76263cbd0,species,reconditum,Ulearum,,Madison,0,1980,,"Aroideana 3: 101 (1980)",,Q100709811,,,,urn:lsid:ipni.org:names:259331-2,wfo-0000329170,2867679,,
+18a28198-8fcc-11eb-924d-9cd76263cbd0,species,sagittatum,Ulearum,,Engl.,0,1905,,"Bot. Jahrb. Syst. 37: 95 (1905)",,,,,,urn:lsid:ipni.org:names:259332-2,wfo-0000329171,2870045,,
+96a64674-1d48-11ec-82c2-f14daa6f2d93,variety,sagittatum,Ulearum,sagittatum,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77170436-1,wfo-0000329172,,,
+40692e5c-1d4d-11ec-82c2-f14daa6f2d93,variety,viridispadix,Ulearum,sagittatum,Bogner,,,,"Sendtnera 4: 10 (1997)",,,,,,urn:lsid:ipni.org:names:313804-2,wfo-0001319463,,,

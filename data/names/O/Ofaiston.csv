@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e77fde52-8fd1-11eb-924d-9cd76263cbd0,genus,Ofaiston,,,Raf.,Q364857,1836,,"Fl. Tellur. 3: 46. 1836[1837].",,,,,,6944-1,wfo-4000026667,7339888,,
-3b03f65e-8fcc-11eb-924d-9cd76263cbd0,species,monandrum,Ofaiston,,"(Pall.) Moq.","Q155914,Q55068622",1849,,"Prodr. 13(2): 203 1849",,,,43b2438c-8fcc-11eb-924d-9cd76263cbd0,,166316-1,wfo-0000383575,3758245,,
-3b00279a-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorum,Ofaiston,,Moq.,Q55068622,1849,,"Prodr. 13(2): 203 1849",,,,,,166317-1,wfo-0000383555,3758240,,
-3b06e814-8fcc-11eb-924d-9cd76263cbd0,species,paucifolium,Ofaiston,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 46 1837",,,,,,166318-1,wfo-0000383593,3758232,,
+e77fde52-8fd1-11eb-924d-9cd76263cbd0,genus,Ofaiston,,,Raf.,0,1836,,"Fl. Tellur. 3: 46 (1837)",,,,,,urn:lsid:ipni.org:names:6944-1,wfo-4000026667,7339888,,
+3b03f65e-8fcc-11eb-924d-9cd76263cbd0,species,monandrum,Ofaiston,,"(Pall.) Moq.",0,1849,,"Prodr. 13(2): 203 (1849)",,,,43b2438c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:166316-1,wfo-0000383575,3758245,,
+3b00279a-8fcc-11eb-924d-9cd76263cbd0,species,pauciflorum,Ofaiston,,Moq.,0,1849,,"Prodr. [A. P. de Candolle] 13(2): 203. 1849 [5 May 1849]",,,,,,urn:lsid:ipni.org:names:166317-1,wfo-0000383555,3758240,,
+3b06e814-8fcc-11eb-924d-9cd76263cbd0,species,paucifolium,Ofaiston,,Raf.,0,1837,,"Fl. Tellur. 3: 46 (1837)",,,,,,urn:lsid:ipni.org:names:166318-1,wfo-0000383593,3758232,,

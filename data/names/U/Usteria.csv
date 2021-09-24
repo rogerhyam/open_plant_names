@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebd1446e-8fd1-11eb-924d-9cd76263cbd0,genus,Usteria,,,Willd.,Q76353,1790,,"Disp. 1. 1790.",,,,ebd1446e-8fd1-11eb-924d-9cd76263cbd0,,30191635-2,wfo-4000039898,3231089,10363," "
-b7e91136-8fd1-11eb-924d-9cd76263cbd0,species,antirrhiniflora,Usteria,,"(Humb. & Bonpl. ex Willd.) Poir.","Q6694,Q405702,Q76353,Q966539",1817,,"Encycl., Suppl. 5(1): 405 1817",,,,d9bdbc5c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001239138,6033047,,
-1c0013c2-8fcd-11eb-924d-9cd76263cbd0,species,disperma,Usteria,,Medik.,Q77464,1791,,"Ann. Bot. (Usteri) 2: 11 1791",,,,,,543383-1,wfo-0000751316,5304262,,
-55157c8e-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Usteria,,Willd.,Q76353,1792,,"Schriften Ges. Naturf. Freunde Berlin 10: 55 1792",,,,,,547612-1,wfo-0000417208,5645771,,
-1bfff70c-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthiflora,Usteria,,Medik.,Q77464,1790,,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat. 6(Phys.): 480 1790",,,,,,543384-1,wfo-0000751315,5304292,,
-f13e70ac-9bac-11eb-a8a2-19ed5c03f8d3,species,morulinae,Usteria,,"Bat. & H. Maia",Q4079389,1962,,"Anais Soc. Bot. Brasil 2: 358 (1962)",,,,f13e70ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340819," "
-1bfd6384-8fcd-11eb-924d-9cd76263cbd0,species,non-scripta,Usteria,,"(L.) Chouard","Q1043,Q6075517",1934,,"Bull. Soc. Bot. France 81: 625 1934",,Q55757308,,,,543385-1,wfo-0000751300,5304289,,
-33922ed0-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Usteria,,Dennst.,Q5711541,1818,,"Schlüssel Hortus Malab. 31 1818",,,,,,358185-1,wfo-0000801331,5378079,,
-555c67a2-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Usteria,,Cav.,Q545430,1793,,"Icon. 2: 15 1793",,,,,,810551-1,wfo-0000417599,4020168,,
-1bff988e-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Usteria,,Medik.,Q77464,1791,,"Ann. Bot. (Usteri) 2: 12 1791",,,,,,543386-1,wfo-0000751312,5304290,,
-5515a1be-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Usteria,,Afzel.,Q347903,1804,,"Gen. Pl. Guin. 27 1804",,,,,,547613-1,wfo-0000417209,5645762,,
+ebd1446e-8fd1-11eb-924d-9cd76263cbd0,genus,Usteria,,,Willd.,0,1790,,"Disp. Veg. Meth. : 1 (1790)",,,,ebd1446e-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30191635-2,wfo-4000039898,3231089,10363," "
+b7e91136-8fd1-11eb-924d-9cd76263cbd0,species,antirrhiniflora,Usteria,,"(Humb. & Bonpl. ex Willd.) Poir.",0,1817,,"Encycl. [J. Lamarck & al.] Suppl. 5. 405. 1817 [1 Nov 1817]",,,,d9bdbc5c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:810550-1,wfo-0001239138,6033047,,
+1c0013c2-8fcd-11eb-924d-9cd76263cbd0,species,disperma,Usteria,,Medik.,0,1791,,"Ann. Bot. (Usteri) 2: 11. 1791 : erroneous record",,,,,,urn:lsid:ipni.org:names:543383-1,wfo-0000751316,5304262,,
+55157c8e-8fcc-11eb-924d-9cd76263cbd0,species,guineensis,Usteria,,Willd.,0,1792,,"Schriften Ges. Naturf. Freunde Berlin 10: 55 (1792)",,,,,,urn:lsid:ipni.org:names:547612-1,wfo-0000417208,5645771,,
+1bfff70c-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthiflora,Usteria,,Medik.,0,1790,,"Hist. & Commentat. Acad. Elect. Sci. Theod.-Palat. vi. Phys. (1790) 480.",,,,,,urn:lsid:ipni.org:names:543384-1,wfo-0000751315,5304292,,
+f13e70ac-9bac-11eb-a8a2-19ed5c03f8d3,species,morulinae,Usteria,,"Bat. & H. Maia",0,1962,,"Anais Soc. Bot. Brasil 2: 358 (1962)",,,,f13e70ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,340819," "
+1bfd6384-8fcd-11eb-924d-9cd76263cbd0,species,non-scripta,Usteria,,"(L.) Chouard",0,1934,,"Bull. Soc. Bot. France 81: 625, in obs. 1934",,Q55757308,,,,urn:lsid:ipni.org:names:543385-1,wfo-0000751300,5304289,,
+33922ed0-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Usteria,,Dennst.,0,1818,,"Schlüssel Hortus Malab. 31 (1818). [20 Oct 1818]",,,,,,urn:lsid:ipni.org:names:358185-1,wfo-0000801331,5378079,,
+555c67a2-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Usteria,,Cav.,0,1793,,"Icon. [Cavanilles] ii. 15.",,,,,,urn:lsid:ipni.org:names:810551-1,wfo-0000417599,4020168,,
+1bff988e-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Usteria,,Medik.,0,1791,,"Ann. Bot. (Usteri) 2: 12. 1791",,,,,,urn:lsid:ipni.org:names:543386-1,wfo-0000751312,5304290,,
+5515a1be-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Usteria,,Afzel.,0,1804,,"Gen. Pl. Guin. : 27 (1804)",,,,,,urn:lsid:ipni.org:names:547613-1,wfo-0000417209,5645762,,

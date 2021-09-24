@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e932c962-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosericocoma,,,Cavaco,Q8193512,1962,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 13: 66. 1962.",,,,,,,wfo-4000031690,7323280,,
-ac786dfa-8fcd-11eb-924d-9cd76263cbd0,species,pungens,Pseudosericocoma,,"(Fenzl) Cavaco","Q113291,Q8193512",1962,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 13: 66 1962",,,,b11d72d8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035672,3673453,,
-fda7514e-8fb1-11eb-924d-9cd76263cbd0,species,grandidieri,Pseudoseris,,Baill.,Q461931,1881,,"in Bull. Soc. Linn. Par. i. (1881) 282",,,,,,239876-1,wfo-0000000708,5388669,,
-0370d37a-8fb2-11eb-924d-9cd76263cbd0,species,rutenbergi,Pseudoseris,,Baill.,Q461931,1881,,"in Bull. Soc. Linn. Par. i. (1881) 282",,,,,,239877-1,wfo-0000004661,,,
+e932c962-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosericocoma,,,Cavaco,0,1962,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 13: 66 (1962)",,,,,,urn:lsid:ipni.org:names:1275-1,wfo-4000031690,7323280,,
+ac786dfa-8fcd-11eb-924d-9cd76263cbd0,species,pungens,Pseudosericocoma,,"(Fenzl) Cavaco",0,1962,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 13: 67 (1962)",,,,b11d72d8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:61125-1,wfo-0001035672,3673453,,
+fda7514e-8fb1-11eb-924d-9cd76263cbd0,species,grandidieri,Pseudoseris,,Baill.,0,1881,,"Bull. Mens. Soc. Linn. Paris i. (1881) 282",,,,,,urn:lsid:ipni.org:names:239876-1,wfo-0000000708,5388669,,
+0370d37a-8fb2-11eb-924d-9cd76263cbd0,species,rutenbergii,Pseudoseris,,Baill.,0,1881,,"Bull. Mens. Soc. Linn. Paris i. (1881) 282",,,,,,urn:lsid:ipni.org:names:239877-1,wfo-0000004661,,,

@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8678680-8fd1-11eb-924d-9cd76263cbd0,genus,Pholistoma,,,Lilja,Q5951483,1839,,"Bot. Not. 1: 40. 1839.",,,,,,30113486-2,wfo-4000029308,2928359,,
-7494a706-8fcc-11eb-924d-9cd76263cbd0,species,aurita,Pholistoma,,Lilja,Q5951483,1839,,"Bot. Not. 1839: 40 1839",,,,,,1214682-2,wfo-0000464988,,,
-ba3054f8-8fcd-11eb-924d-9cd76263cbd0,species,auritum,Pholistoma,,"(Lindl.) Lilja ex Lindbl.","Q378629,Q5951483",1839,,"Bot. Not. 40 1839",,,,,,,wfo-0001066854,,,
-ba30a3f4-8fcd-11eb-924d-9cd76263cbd0,species,membranaceum,Pholistoma,,"(Benth.) Constance","Q731808,Q4231273",1939,,"Bull. Torrey Bot. Club 66(6): 350–352 1939",,Q55767339,,,,193862-2,wfo-0001066857,2928360,,
-ba308a22-8fcd-11eb-924d-9cd76263cbd0,species,racemosum,Pholistoma,,"(Nutt. ex A.Gray) Constance","Q728337,Q347356,Q4231273",1939,,"Bull. Torrey Bot. Club 66: 349 1939",,Q55767339,,,,193863-2,wfo-0001066856,2928362,,
+e8678680-8fd1-11eb-924d-9cd76263cbd0,genus,Pholistoma,,,Lilja,0,1839,,"Bot. Not. 1839: 40 (1839)",,,,,,urn:lsid:ipni.org:names:30113486-2,wfo-4000029308,2928359,,
+7494a706-8fcc-11eb-924d-9cd76263cbd0,species,aurita,Pholistoma,,Lilja,0,1839,,"Bot. Not. 1: 40. 1839 [1 Aug 1839] (as aurita)",,,,,,urn:lsid:ipni.org:names:1214682-2,wfo-0000464988,,,
+ba3054f8-8fcd-11eb-924d-9cd76263cbd0,species,auritum,Pholistoma,,"(Lindl.) Lilja",0,1839,,"Bot. Not. 1839: 40 (1839)",,,,,,urn:lsid:ipni.org:names:432816-1,wfo-0001066854,,,
+69e03104-1d4d-11ec-82c2-f14daa6f2d93,variety,arizonicum,Pholistoma,auritum,"(M.E.Jones) Constance",,,,"Bull. Torrey Bot. Club 66: 348 (1939)",,,,,,urn:lsid:ipni.org:names:193861-2,wfo-0001376022,,,
+a63e7b8e-1d4c-11ec-82c2-f14daa6f2d93,variety,auritum,Pholistoma,auritum,,,,,,,,,,,,wfo-0001066855,,,
+ba30a3f4-8fcd-11eb-924d-9cd76263cbd0,species,membranaceum,Pholistoma,,"(Benth.) Constance",0,1939,,"Bull. Torrey Bot. Club 66: 350 (1939)",,Q55767339,,,,urn:lsid:ipni.org:names:193862-2,wfo-0001066857,2928360,,
+ba308a22-8fcd-11eb-924d-9cd76263cbd0,species,racemosum,Pholistoma,,"(Nutt. ex A.Gray) Constance",0,1939,,"Bull. Torrey Bot. Club 66: 349 (1939)",,Q55767339,,,,urn:lsid:ipni.org:names:193863-2,wfo-0001066856,2928362,,

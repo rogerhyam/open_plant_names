@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9b0a9c96-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leptophrys,,,"Hertwig & Lesser",,1885,,"Zopf. Pilzth. 109 (1885)",,,,9b0a9c96-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25202," "
-961846b2-9bac-11eb-a8a2-19ed5c03f8d3,species,cinerea,Leptophrys,,"Hertwig & Less.",Q76352,,,,,,,961846b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207436," "
-96260a5e-9bac-11eb-a8a2-19ed5c03f8d3,species,elegans,Leptophrys,,"Hertwig & Less.",Q76352,,,,,,,96260a5e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207506," "
+961846b2-9bac-11eb-a8a2-19ed5c03f8d3,species,cinerea,Leptophrys,,"Hertwig & Less.",0,,,,,,,961846b2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207436," "
+96260a5e-9bac-11eb-a8a2-19ed5c03f8d3,species,elegans,Leptophrys,,"Hertwig & Less.",0,,,,,,,96260a5e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207506," "
 9605b128-9bac-11eb-a8a2-19ed5c03f8d3,species,vorax,Leptophrys,,"(Cienk.) Zopf",,,,,,,,fb4277f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207270," "
-43a37726-9bac-11eb-a8a2-19ed5c03f8d3,variety,dialysatrix,Leptophrys,vorax,"(Wahrlich) Sacc. & Traverso",Q707840,,,,,,,2477a764-9bac-11eb-a8a2-19ed5c03f8d3,,,,,137092," "
+43a37726-9bac-11eb-a8a2-19ed5c03f8d3,variety,dialysatrix,Leptophrys,vorax,"(Wahrlich) Sacc. & Traverso",0,,,,,,,2477a764-9bac-11eb-a8a2-19ed5c03f8d3,,,,,137092," "
 7623ed9c-9bad-11eb-a8a2-19ed5c03f8d3,variety,vorax,Leptophrys,vorax,"(Cienk.) Zopf",,,,,,,,7623ed9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,419586," "
-5717344a-8fcd-11eb-924d-9cd76263cbd0,species,micrathera,Leptophyllochloa,,"(Desv.) Calderon ex Nicora","Q1354671,Q4210485,Q5829538",1978,,"in Fl. Patagonica 3: 70 1978",,,,,,407204-1,wfo-0000877990,,,
+5717344a-8fcd-11eb-924d-9cd76263cbd0,species,micrathera,Leptophyllochloa,,"(É.Desv.) C.E.Calderón ex Nicora",0,1978,,"Fl. Patagonica 3: 70 (1978)",,,,,,urn:lsid:ipni.org:names:407204-1,wfo-0000877990,,,

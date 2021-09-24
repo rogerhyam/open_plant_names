@@ -1,10 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a079178e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Massalongomyces,,,"Cif. & Tomas.",Q4516707,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)",,,,a079178e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3012," "
-18fdb6f8-9bac-11eb-a8a2-19ed5c03f8d3,species,carnosae,Massalongomyces,,"Cif. & Tomas.",Q4516707,,,,,,,18fdb6f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,367967," "
-77e3d422-8fcc-11eb-924d-9cd76263cbd0,species,hieroglyphica,Massangea,,Carrière,Q274614,1878,,"Rev. Hort. 1878: 175 1878",,,,,,123444-1,wfo-0000470376,2700079,,
-77e4cc74-8fcc-11eb-924d-9cd76263cbd0,species,lindenii,Massangea,,André,Q274317,1878,,"Ill. Hort. 25: 55 1878",,,,,,123445-1,wfo-0000470384,2699162,,
-77e590e6-8fcc-11eb-924d-9cd76263cbd0,species,morreniana,Massangea,,"Linden ex E.Morren",Q781362,1883,,"Ann. Bot. Hort. 33: 47 1883",,,,,,,wfo-0000470388,8634522,,
-77e5f144-8fcc-11eb-924d-9cd76263cbd0,species,musaica,Massangea,,"(Linden & André) E.Morren","Q781362,Q274317",1877,,"Ann. Bot. Hort. 27: 59 1877",,,,bb615878-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000470391,2698870,,
-77e63bea-8fcc-11eb-924d-9cd76263cbd0,species,santoviensis,Massangea,,"Linden ex Baker","Q781362,Q730330",1889,,"Handb. Bromel. 149 1889",,,,,,154394-2,wfo-0000470394,2700076,,
-77e67056-8fcc-11eb-924d-9cd76263cbd0,species,tigrina,Massangea,,Baker,Q730330,1883,,"Gard. Chron. 1883(1): 510 1883",,,,,,,wfo-0000470396,2700078,,
-77e71e34-8fcc-11eb-924d-9cd76263cbd0,species,vittata,Massangea,,"(Mart. ex Schult. & Schult.f.) E.Morren ex Baker","Q77131,Q78881,Q78745,Q730330",1889,,"Handb. Bromel. 146 1889",,,,1fbc414e-8fcc-11eb-924d-9cd76263cbd0,,154395-2,wfo-0000470401,,,
+a079178e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Massalongomyces,,,"Cif. & Tomas.",0,1953,,"Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 45, 71 (1953)",,,,a079178e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3012," "
+18fdb6f8-9bac-11eb-a8a2-19ed5c03f8d3,species,carnosae,Massalongomyces,,"Cif. & Tomas.",0,,,,,,,18fdb6f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,367967," "
+77e3d422-8fcc-11eb-924d-9cd76263cbd0,species,hieroglyphica,Massangea,,Carrière,0,1878,,"Rev. Hort. (Paris) 49: 175 (1878)",,,,,,urn:lsid:ipni.org:names:123444-1,wfo-0000470376,2700079,,
+77e4cc74-8fcc-11eb-924d-9cd76263cbd0,species,lindenii,Massangea,,André,0,1878,,"Ill. Hort. 25: 55 (1878)",,,,,,urn:lsid:ipni.org:names:123445-1,wfo-0000470384,2699162,,
+77e590e6-8fcc-11eb-924d-9cd76263cbd0,species,morreniana,Massangea,,Linden,0,1883,,"J. Bot. 25: 172. 1887",,,,,,urn:lsid:ipni.org:names:154393-2,wfo-0000470388,8634522,,
+77e5f144-8fcc-11eb-924d-9cd76263cbd0,species,musaica,Massangea,,É.Morren,0,1877,,"Ann. Bot. Hort. 27: 59 (1877)",,,,bb615878-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123447-1,wfo-0000470391,2698870,,
+77e63bea-8fcc-11eb-924d-9cd76263cbd0,species,santoviensis,Massangea,,"Linden ex Baker",0,1889,,"Handb. Bromel. : 149 (1889)",,,,,,urn:lsid:ipni.org:names:154394-2,wfo-0000470394,2700076,,
+57b53cfe-1d4d-11ec-82c2-f14daa6f2d93,species,tigrina,Massangea,,hort.,,,,"Gard. Chron. n.s., 19: 510. 1883",,,,,,urn:lsid:ipni.org:names:123449-1,wfo-0001350634,,,
+77e67056-8fcc-11eb-924d-9cd76263cbd0,species,tigrina,Massangea,,Baker,0,1883,,"Gard. Chron. 1883(1): 510 1883",,,,,,,wfo-0000470396,2700078,,
+77e71e34-8fcc-11eb-924d-9cd76263cbd0,species,vittata,Massangea,,"É.Morren ex Baker",0,1889,,"Handb. Bromel. : 146 (1889)",,,,1fbc414e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:154395-2,wfo-0000470401,,,

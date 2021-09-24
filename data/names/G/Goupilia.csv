@@ -1,10 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a64be75e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Goupilia,,,Mérat,Q3086016,1834,,"Nouv. Fl. Environs Paris, Edn 3 1: 91 (1834)",,,,a64be75e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19146," "
-a770ba02-9bac-11eb-a8a2-19ed5c03f8d3,species,tuberoides,Goupilia,,Mérat,Q3086016,1834,,"Nouv. Fl. Environs Paris, Edn 3 1: (1834)",,,,a770ba02-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431687," "
-7c6f88b2-8fc0-11eb-924d-9cd76263cbd0,species,chilensis,Gourliea,,Clos,Q3035078,,,,,,,,,,wfo-0000166294,2966696,,
-7c9b9b0a-8fc0-11eb-924d-9cd76263cbd0,species,decorticans,Gourliea,,"Hook. & Arn.","Q472639,Q730292",,,,,,,,,,wfo-0000166298,2966698,,
-b293d530-8fcd-11eb-924d-9cd76263cbd0,variety,subtropicalis,Gourliea,decorticans,Lillo,Q2259136,1910,,"Contr. Arb. Argent. 43 1910",,,,,,112894-2,wfo-0001049586,3909384,,
-7c85ba56-8fc0-11eb-924d-9cd76263cbd0,species,decorticata,Gourliea,,Walp.,Q77671,,,,,,,,,,wfo-0000166296,2966695,,
-7ca6caa2-8fc0-11eb-924d-9cd76263cbd0,species,spinosa,Gourliea,,Skeels,Q4421859,,,,,,,,,,wfo-0000166299,2966694,,
-050df058-8fcd-11eb-924d-9cd76263cbd0,species,grewioides,Gourmania,,A.Chev.,Q766644,1914,,"Bull. Soc. Bot. France 61(8): 253 1914 publ. 1917",,,,,,,wfo-0000708401,3668349,,
-050e0b60-8fcd-11eb-924d-9cd76263cbd0,species,malulucban,Govantesia,,Llanos,Q4271241,1865,,"Revista Progr. Ci. Exact. 15: 191 1865",,,,,,,wfo-0000708402,3789753,,
+a64be75e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Goupilia,,,Mérat,0,1834,,"Nouv. Fl. Environs Paris, Edn 3 1: 91 (1834)",,,,a64be75e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19146," "
+a770ba02-9bac-11eb-a8a2-19ed5c03f8d3,species,tuberoides,Goupilia,,Mérat,0,1834,,"Nouv. Fl. Environs Paris, Edn 3 1: (1834)",,,,a770ba02-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431687," "
+7c6f88b2-8fc0-11eb-924d-9cd76263cbd0,species,chilensis,Gourliea,,Clos,0,,,"Fl. Chil. 2: 218 (1847)",,,,,,urn:lsid:ipni.org:names:497072-1,wfo-0000166294,2966696,,
+7c9b9b0a-8fc0-11eb-924d-9cd76263cbd0,species,decorticans,Gourliea,,"Gillies ex Hook. & Arn.",0,,,"Bot. Misc. 3: 208 (1833)",,,,,,urn:lsid:ipni.org:names:112893-2,wfo-0000166298,2966698,,
+b293d530-8fcd-11eb-924d-9cd76263cbd0,variety,subtropicalis,Gourliea,decorticans,Lillo,0,1910,,"Seg. Contr. Arb. Argent. : 27 (1917)",,,,,,urn:lsid:ipni.org:names:112894-2,wfo-0001049586,3909384,,
+7c85ba56-8fc0-11eb-924d-9cd76263cbd0,species,decorticata,Gourliea,,Walp.,0,,,,,,,,,,wfo-0000166296,2966695,,
+7ca6caa2-8fc0-11eb-924d-9cd76263cbd0,species,spinosa,Gourliea,,Skeels,0,,,"Bull. Bur. Pl. Industr. U.S.D.A. 162: 31 (1909)",,,,,,urn:lsid:ipni.org:names:112895-2,wfo-0000166299,2966694,,
+050df058-8fcd-11eb-924d-9cd76263cbd0,species,grewioides,Gourmania,,A.Chev.,0,1914,,"Mém. Soc. Bot. France 8: 253 (1917)",,,,,,urn:lsid:ipni.org:names:823378-1,wfo-0000708401,3668349,,

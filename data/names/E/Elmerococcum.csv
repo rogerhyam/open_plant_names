@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a4655fb0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Elmerococcum,,,"Theiss. & Syd.",,1915,,"Annls mycol. 13(3/4): 282 (1915)",,,,a4655fb0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1763," "
 29894c52-9bad-11eb-a8a2-19ed5c03f8d3,species,orbicula,Elmerococcum,,"(Syd.) Syd.",,,,,,,,7d1d79f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,228572," "
-e0e581a0-9bac-11eb-a8a2-19ed5c03f8d3,species,peglerae,Elmerococcum,,"(Pole-Evans) Doidge",Q6000246,1921,,"Bothalia 1(1): 20 (1921)",,,,f9cf4206-9bab-11eb-a8a2-19ed5c03f8d3,,,,,273815," "
-82b32ef6-8fcd-11eb-924d-9cd76263cbd0,species,celebica,Elmerrillia,,"(Koord.) Dandy","Q4232763,Q345866",1927,,"Bull. Misc. Inform. Kew 1927: 261 1927",,Q55778745,,,,554468-1,wfo-0000948327,3153354,,
-82b34c56-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Elmerrillia,,Dandy,Q345866,1928,,"Bull. Misc. Inform. Kew 1928: 184 1928",,Q55778595,,,,554469-1,wfo-0000948328,3153341,,
-82b38428-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Elmerrillia,,"(Miq.) Dandy","Q76742,Q345866",1927,,"Bull. Misc. Inform. Kew 1927: 261 1927",,Q55778745,,,,554470-1,wfo-0000948330,3153124,,
-82b39eb8-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Elmerrillia,,"(Schltr.) Dandy","Q62278,Q345866",1927,,"Bull. Misc. Inform. Kew 1927: 261 1927",,Q55778745,,,,554471-1,wfo-0000948331,3153352,,
-82b3ba9c-8fcd-11eb-924d-9cd76263cbd0,variety,adpressa,Elmerrillia,papuana,Dandy,Q345866,1928,,"Bull. Misc. Inform. Kew 1928: 185 1928",,,,,,,wfo-0000948332,3153353,,
-82b3d7b6-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrima,Elmerrillia,papuana,Dandy,Q345866,1928,,"Bull. Misc. Inform. Kew 1928: 185 1928",,,,,,50923127-1,wfo-0000948333,3153345,,
-82b3f1ce-8fcd-11eb-924d-9cd76263cbd0,species,platyphylla,Elmerrillia,,"(Merr.) Noot.","Q729926,Q5891924",1985,,"Blumea 31: 102 1985",,Q96033016,,,,914987-1,wfo-0000948334,3152917,,
-82b40f88-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Elmerrillia,,"(Merr.) Dandy","Q729926,Q345866",1927,,"Bull. Misc. Inform. Kew 1927: 261 1927",,Q55778745,,,,554472-1,wfo-0000948335,3153808,,
-82b42c7a-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Elmerrillia,,C.T.White,Q685291,1929,,"J. Arnold Arbor. 10: 212 1929",,Q100545849,,,,554473-1,wfo-0000948336,3153350,,
-82b446ec-8fcd-11eb-924d-9cd76263cbd0,species,tsiampacca,Elmerrillia,,"(L.) Dandy","Q1043,Q345866",1974,,"World Pollen Spore Fl. 3(Magnoliaceae): 5 1974",,,,e2b925b4-8fcb-11eb-924d-9cd76263cbd0,,554467-1,wfo-0000948337,3153347,,
-82b460dc-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrima,Elmerrillia,tsiampacca,"(Dandy) Noot.","Q345866,Q5891924",1985,,"Blumea 31: 107 1985",,Q96033016,,82b3d7b6-8fcd-11eb-924d-9cd76263cbd0,,924217-1,wfo-0000948338,3153346,,
-82b47c02-8fcd-11eb-924d-9cd76263cbd0,subspecies,mollis,Elmerrillia,tsiampacca,"(Dandy) Noot.","Q345866,Q5891924",1985,,"Blumea 31: 108 1985",,Q96033016,,82b34c56-8fcd-11eb-924d-9cd76263cbd0,,924218-1,wfo-0000948339,3153340,,
-82b49926-8fcd-11eb-924d-9cd76263cbd0,species,vrieseana,Elmerrillia,,"(Miq.) Dandy","Q76742,Q345866",1927,,"Bull. Misc. Inform. Kew 1927: 262 1927",,Q55778745,,,,554474-1,wfo-0000948340,3153123,,
+e0e581a0-9bac-11eb-a8a2-19ed5c03f8d3,species,peglerae,Elmerococcum,,"(Pole-Evans) Doidge",0,1921,,"Bothalia 1(1): 20 (1921)",,,,f9cf4206-9bab-11eb-a8a2-19ed5c03f8d3,,,,,273815," "
+82b32ef6-8fcd-11eb-924d-9cd76263cbd0,species,celebica,Elmerrillia,,Dandy,0,1927,,"Bull. Misc. Inform. Kew 1927: 261 (1927)",,Q55778745,,,,urn:lsid:ipni.org:names:554468-1,wfo-0000948327,3153354,,
+82b34c56-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Elmerrillia,,Dandy,0,1928,,"Bull. Misc. Inform. Kew 1928: 184 (1928)",,Q55778595,,,,urn:lsid:ipni.org:names:554469-1,wfo-0000948328,3153341,,
+82b38428-8fcd-11eb-924d-9cd76263cbd0,species,ovalis,Elmerrillia,,Dandy,0,1927,,"Bull. Misc. Inform. Kew 1927: 261 (1927)",,Q55778745,,,,urn:lsid:ipni.org:names:554470-1,wfo-0000948330,3153124,,
+82b39eb8-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Elmerrillia,,Dandy,0,1927,,"Bull. Misc. Inform. Kew 1927: 261 (1927)",,Q55778745,,,,urn:lsid:ipni.org:names:554471-1,wfo-0000948331,3153352,,
+82b3ba9c-8fcd-11eb-924d-9cd76263cbd0,variety,adpressa,Elmerrillia,papuana,Dandy,0,1928,,"Bull. Misc. Inform. Kew 1928: 185 1928",,,,,,,wfo-0000948332,3153353,,
+82b3d7b6-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrima,Elmerrillia,papuana,Dandy,0,1928,,"Bull. Misc. Inform. Kew 1928: 185 (1928)",,,,,,urn:lsid:ipni.org:names:50923127-1,wfo-0000948333,3153345,,
+82b3f1ce-8fcd-11eb-924d-9cd76263cbd0,species,platyphylla,Elmerrillia,,"(Merr.) Noot.",0,1985,,"Blumea 31: 102 (1985)",,Q96033016,,,,urn:lsid:ipni.org:names:914987-1,wfo-0000948334,3152917,,
+82b40f88-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Elmerrillia,,Dandy,0,1927,,"Bull. Misc. Inform. Kew 1927: 261 (1927)",,Q55778745,,,,urn:lsid:ipni.org:names:554472-1,wfo-0000948335,3153808,,
+82b42c7a-8fcd-11eb-924d-9cd76263cbd0,species,sericea,Elmerrillia,,C.T.White,0,1929,,"J. Arnold Arbor. 10: 212 (1929)",,Q100545849,,,,urn:lsid:ipni.org:names:554473-1,wfo-0000948336,3153350,,
+82b446ec-8fcd-11eb-924d-9cd76263cbd0,species,tsiampacca,Elmerrillia,,"(L.) Dandy",0,1974,,"World Pollen Spore Fl. 3(Magnoliaceae): 5 (1974)",,,,e2b925b4-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:554467-1,wfo-0000948337,3153347,,
+82b460dc-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrima,Elmerrillia,tsiampacca,"(Dandy) Noot.",0,1985,,"Blumea 31: 107 (1985)",,Q96033016,,82b3d7b6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:924217-1,wfo-0000948338,3153346,,
+82b47c02-8fcd-11eb-924d-9cd76263cbd0,subspecies,mollis,Elmerrillia,tsiampacca,"(Dandy) Noot.",0,1985,,"Blumea 31: 108 (1985)",,Q96033016,,82b34c56-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:924218-1,wfo-0000948339,3153340,,
+82b49926-8fcd-11eb-924d-9cd76263cbd0,species,vrieseana,Elmerrillia,,Dandy,0,1927,,"Bull. Misc. Inform. Kew 1927: 262 (1927)",,Q55778745,,,,urn:lsid:ipni.org:names:554474-1,wfo-0000948340,3153123,,

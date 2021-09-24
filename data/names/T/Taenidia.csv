@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb0fd50e-8fd1-11eb-924d-9cd76263cbd0,genus,Taenidia,,,Drude,Q63040,1898,,"Nat. Pflanzenfam. 175–176[III,8]: 195. 1898.",,,,,,297141-2,wfo-4000037422,7679098,,
-baab6b2a-8fcd-11eb-924d-9cd76263cbd0,species,integerrima,Taenidia,,"(L.) Drude","Q1043,Q63040",1898,,"Nat. Pflanzenfam. 175–176[III,8]: 195 1898",,,,,,249038-2,wfo-0001068000,5371759,,
-bb6ce5a8-8fd1-11eb-924d-9cd76263cbd0,species,montana,Taenidia,,"(Mack.) Cronquist","Q2340063,Q362245",1982,,"Brittonia 34(4): 367 1982",,Q55770112,,baa76ac0-8fcd-11eb-924d-9cd76263cbd0,,911528-1,wfo-0001245585,5371760,,
-2546a7b6-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Taenidium,,Targ.Tozz.,Q2247857,1826,,"Cat. Veg. Mar. 80 1826",,,,,,603509-1,wfo-0000770138,5328669,,
-2546c2b4-8fcd-11eb-924d-9cd76263cbd0,species,oceanicum,Taenidium,,"(L.) Targ.Tozz.","Q1043,Q2247857",1826,,"Cat. Veg. Mar. 80 1826",,,,,,603510-1,wfo-0000770139,5328667,,
+eb0fd50e-8fd1-11eb-924d-9cd76263cbd0,genus,Taenidia,,,"(Torr. & A.Gray) Drude",0,1898,,"Nat. Pflanzenfam. 3(8): 195 (1898)",,,,,,urn:lsid:ipni.org:names:297141-2,wfo-4000037422,7679098,,
+baab6b2a-8fcd-11eb-924d-9cd76263cbd0,species,integerrima,Taenidia,,"(L.) Drude",0,1898,,"Nat. Pflanzenfam. 3(8): 195 (1898)",,,,,,urn:lsid:ipni.org:names:249038-2,wfo-0001068000,5371759,,
+bb6ce5a8-8fd1-11eb-924d-9cd76263cbd0,species,montana,Taenidia,,"(Mack.) Cronquist",0,1982,,"Brittonia 34(4): 367. 1982",,Q55770112,,baa76ac0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:911528-1,wfo-0001245585,5371760,,
+2546a7b6-8fcd-11eb-924d-9cd76263cbd0,species,acuminatum,Taenidium,,Targ.Tozz.,0,1826,,"Cat. Veg. Mar. : 80 (1826)",,,,,,urn:lsid:ipni.org:names:603509-1,wfo-0000770138,5328669,,
+2546c2b4-8fcd-11eb-924d-9cd76263cbd0,species,oceanicum,Taenidium,,Targ.Tozz.,0,1826,,"Cat. Veg. Mar. : 80 (1826)",,,,,,urn:lsid:ipni.org:names:603510-1,wfo-0000770139,5328667,,

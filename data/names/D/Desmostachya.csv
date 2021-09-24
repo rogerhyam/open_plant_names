@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e29ec1be-8fd1-11eb-924d-9cd76263cbd0,genus,Desmostachya,,,"(Stapf) Stapf",Q78630,1898,,"Fl. Cap. 7: 316. 1898.",,,,,,17882-1,wfo-4000011219,4142051,,
-503b4396-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Desmostachya,,"(L.) Stapf","Q1043,Q78630",1900,,"Fl. Cap. 7: 632 1900",,,,,,398084-1,wfo-0000862775,4142071,,
-503b7b7c-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Stapf ex Massey","Q491077,Q78630,Q21520091",1926,,"Publ. Dept. Agric. For., Bot. Ser. 1: 43 1926",,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000862777,4142063,,
-c8afb8b6-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Haines","Q491077,Q5894532",,,,,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001099216,7443930,,
-6eb0ab4a-8fcd-11eb-924d-9cd76263cbd0,species,pingalaiae,Desmostachya,,"Raole & R.J.Desai","Q26714055,Q26714056",2008,,"Nordic J. Bot. 26: 196 2008",,,,,,,wfo-0000912207,4142050,,
+e29ec1be-8fd1-11eb-924d-9cd76263cbd0,genus,Desmostachya,,,Stapf,0,1898,,"Fl. Cap. 7: 632 (1900)",,,,,,urn:lsid:ipni.org:names:17882-1,wfo-4000011219,4142051,,
+503b4396-8fcd-11eb-924d-9cd76263cbd0,species,bipinnata,Desmostachya,,"(L.) Stapf",0,1900,,"Fl. Cap. 7: 632 (1900)",,,,,,urn:lsid:ipni.org:names:398084-1,wfo-0000862775,4142071,,
+503b7b7c-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"(Retz.) Stapf ex Massey",0,1926,,"Ptibl. Dept. Agric. & For., Bot. Ser., No. 1 (Sudan Grasses) 43 (1926).",,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000862777,4142063,,
+c8afb8b6-8fcd-11eb-924d-9cd76263cbd0,species,cynosuroides,Desmostachya,,"Stapf ex R.E.Massey",0,,,"Publ. Dept. Agric. For., Bot. Ser. 1: 43 (1926)",,,,5e03e078-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:398085-1,wfo-0001099216,7443930,,
+6eb0ab4a-8fcd-11eb-924d-9cd76263cbd0,species,pingalaiae,Desmostachya,,"Raole & R.J.Desai",0,2008,,"Nordic J. Bot. 26: 196 (2008)",,,,,,urn:lsid:ipni.org:names:77095150-1,wfo-0000912207,4142050,,

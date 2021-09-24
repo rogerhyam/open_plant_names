@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4f9b0d6-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenogyne,,,Haw.,Q373119,1821,,"Saxifrag. Enum. 192. 1821.",,,,,,16219-1,wfo-4000018669,7717730,,
-d8e0f55c-8fd1-11eb-924d-9cd76263cbd0,species,conica,Hymenogyne,,L.Bolus,Q63764,,,,,,,,,,wfo-0001293236,3706857,,
-d8e1192e-8fd1-11eb-924d-9cd76263cbd0,species,glabra,Hymenogyne,,"(Aiton) Haw.","Q465898,Q373119",1821,,"Rev. Pl. Succ. 192 1821",,,,13c4042a-8fcd-11eb-924d-9cd76263cbd0,,362107-1,wfo-0001293237,3706850,,
-102f5ed6-8fcd-11eb-924d-9cd76263cbd0,species,stephensiae,Hymenogyne,,N.E.Br.,Q721850,1928,,"Gard. Chron. III, 84: 253 1928",,,,,,362108-1,wfo-0000727073,3706842,,
+e4f9b0d6-8fd1-11eb-924d-9cd76263cbd0,genus,Hymenogyne,,,Haw.,0,1821,,"Saxifrag. Enum. 2: 192. 1821.",,,,,,,wfo-4000018669,7717730,,
+d8e0f55c-8fd1-11eb-924d-9cd76263cbd0,species,conica,Hymenogyne,,L.Bolus,0,,,"Notes Mesembryanthemum 3: 231. 1950.",,,,,,,wfo-0001293236,3706857,,
+d8e1192e-8fd1-11eb-924d-9cd76263cbd0,species,glabra,Hymenogyne,,"(Aiton) Haw.",0,1821,,"Saxifrag. Enum. 2: . 1821.",,,,13c4042a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001293237,3706850,,
+885675d0-1d4d-11ec-82c2-f14daa6f2d93,subspecies,namaquensis,Hymenogyne,glabra,Klak,,,,"in Taxon 64: 520. 2015.",,,,,,,wfo-0001435403,,,
+102f5ed6-8fcd-11eb-924d-9cd76263cbd0,species,stephensiae,Hymenogyne,,N.E.Br.,0,1928,,"in Gard. Chron., ser. 3, 84: 253. 1928.",,,,,,,wfo-0000727073,3706842,,

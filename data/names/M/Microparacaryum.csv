@@ -1,5 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6b442c4-8fd1-11eb-924d-9cd76263cbd0,genus,Microparacaryum,,,"(Popov ex Riedl) Hilger & Podlech","Q1990021,Q3734334,Q2892642,Q3027529",1985,,"Pl. Syst. Evol. 148(3–4): 302. 1985.",,Q55755232,,,,893659-1,wfo-4000024163,7946495,,
-309c41a8-8fcc-11eb-924d-9cd76263cbd0,species,bungei,Microparacaryum,,"(Boiss.) Khat.","Q34430,Q18986149",2002,,"Fl. of Iran 39: 406 2002",,,,,,20011668-1,wfo-0000368248,4065899,,
-d2dca692-8fd1-11eb-924d-9cd76263cbd0,species,intermedium,Microparacaryum,,"(Fresen.) Hilger & Podl.","Q77670,Q2892642,Q21523059",1985,,"Pl. Syst. Evol. 148(3–4): 302 1985",,,,daecca60-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001283673,7295322,,
-309f2d5a-8fcc-11eb-924d-9cd76263cbd0,species,salsum,Microparacaryum,,"(Boiss.) Hilger & Podlech","Q34430,Q2892642,Q3027529",1985,,"Pl. Syst. Evol. 148: 305 1985",,Q55755232,,458a4f4c-8fcc-11eb-924d-9cd76263cbd0,,915282-1,wfo-0000368270,4064347,,
+e6b442c4-8fd1-11eb-924d-9cd76263cbd0,genus,Microparacaryum,,,"(Popov ex Riedl) Hilger & Podlech",0,1985,,"Pl. Syst. Evol. 148: 302 (1985)",,Q55755232,,,,urn:lsid:ipni.org:names:893659-1,wfo-4000024163,7946495,,
+309c41a8-8fcc-11eb-924d-9cd76263cbd0,species,bungei,Microparacaryum,,"(Boiss.) Khat.",0,2002,,"Fl. Iran 39: 406 (2002)",,,,,,urn:lsid:ipni.org:names:20011668-1,wfo-0000368248,4065899,,
+d2dca692-8fd1-11eb-924d-9cd76263cbd0,species,intermedium,Microparacaryum,,"(Fresen.) Hilger & Podlech",0,1985,,"Pl. Syst. Evol. 148: 302 (1985)",,,,daecca60-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:915281-1,wfo-0001283673,7295322,,
+43195cf8-1d4d-11ec-82c2-f14daa6f2d93,form,mattiastroides,Microparacaryum,intermedium,"Hilger & Podlech",,,,"Pl. Syst. Evol. 148: 305 (1985)",,,,,,urn:lsid:ipni.org:names:919018-1,wfo-0001323164,,,
+42a4073c-1d4d-11ec-82c2-f14daa6f2d93,form,stellatum,Microparacaryum,intermedium,"(Riedl) Hilger & Podlech",,,,"Biodivers. Data J. 3(e4831): 22 (2015)",,,,,,urn:lsid:ipni.org:names:77146694-1,wfo-0001322548,,,
+73ce38aa-1d4d-11ec-82c2-f14daa6f2d93,variety,stellatum,Microparacaryum,intermedium,"(Riedl) Hilger & Podlech",,,,"Pl. Syst. Evol. 148: 304 (1985)",,,,,,urn:lsid:ipni.org:names:924347-1,wfo-0001388853,,,
+309f2d5a-8fcc-11eb-924d-9cd76263cbd0,species,salsum,Microparacaryum,,"(Boiss.) Hilger & Podlech",0,1985,,"Pl. Syst. Evol. 148: 305 (1985)",,Q55755232,,458a4f4c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:915282-1,wfo-0000368270,4064347,,
+4319844e-1d4d-11ec-82c2-f14daa6f2d93,form,mattiastroides,Microparacaryum,salsum,"Hilger & Podlech",,,,"Pl. Syst. Evol. 148: 305 (1985)",,,,,,urn:lsid:ipni.org:names:919020-1,wfo-0001323165,,,

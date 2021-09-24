@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9bf040e-8fd1-11eb-924d-9cd76263cbd0,genus,Rockinghamia,,,"Airy Shaw",Q939981,1966,,"Kew Bull. 20: 29. 1966.",,Q43250370,,,,15864-1,wfo-4000033369,3063036,,
-04a1f07a-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Rockinghamia,,"(Benth.) Airy Shaw","Q731808,Q939981",1966,,"Kew Bull. 20: 29 1966",,Q43250370,,,,355573-1,wfo-0000297383,3063038,,
-04a2124e-8fcc-11eb-924d-9cd76263cbd0,species,brevipes,Rockinghamia,,"Airy Shaw",Q939981,1976,,"Kew Bull. 31: 389 1976",,Q55779632,,,,355574-1,wfo-0000297384,3063037,,
-edb38554-8fcb-11eb-924d-9cd76263cbd0,species,roczonii,,,Leinig,Q21390728,1976,,"Bradea 2: 62 1976",,,,,,288164-2,wfo-0000261006,,,
+e9bf040e-8fd1-11eb-924d-9cd76263cbd0,genus,Rockinghamia,,,"Airy Shaw",0,1966,,"Kew Bull. 20: 29 (1966)",,Q43250370,,,,urn:lsid:ipni.org:names:15864-1,wfo-4000033369,3063036,,
+04a1f07a-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Rockinghamia,,"(Benth.) Airy Shaw",0,1966,,"Kew Bull. 20: 29 (1966)",,Q43250370,,,,urn:lsid:ipni.org:names:355573-1,wfo-0000297383,3063038,,
+04a2124e-8fcc-11eb-924d-9cd76263cbd0,species,brevipes,Rockinghamia,,"Airy Shaw",0,1976,,"Kew Bull. 31: 389 (1976)",,Q55779632,,,,urn:lsid:ipni.org:names:355574-1,wfo-0000297384,3063037,,

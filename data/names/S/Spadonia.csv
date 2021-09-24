@@ -1,12 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea8bf450-8fd1-11eb-924d-9cd76263cbd0,genus,Spadonia,,,Fr.,Q15405,1829,,"Syst. mycol. (Lundae) 3(1): 201, 203 (1829)",,,,ea8bf450-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000035839,3139408,22352," "
-5f8dcbd8-8fba-11eb-924d-9cd76263cbd0,species,cinerea,Spadonia,,"Hook. & Arn.","Q472639,Q730292",1835,,"109 1835",,,,,,241020-2,wfo-0000126129,5387785,,
-4b3e3944-8fb3-11eb-924d-9cd76263cbd0,species,paniculata,Spadonia,,Less.,Q76352,1832,,"Syn. Gen. Compos. 100. 1832",,,,,,241021-2,wfo-0000045506,5387804,,
-7cad70cc-9bab-11eb-a8a2-19ed5c03f8d3,species,phalloides,Spadonia,,Fr.,Q15405,1829,,"Syst. mycol. (Lundae) 3(1): 203 (1829)",,,,7cad70cc-9bab-11eb-a8a2-19ed5c03f8d3,,,,,228365," "
-96901b1e-8fb9-11eb-924d-9cd76263cbd0,species,polymorpha,Spadonia,,Less.,Q76352,1832,,"Syn. Gen. Compos. 101 1832",,,,,,241022-2,wfo-0000119664,6065031,,
-dce4f030-8fb9-11eb-924d-9cd76263cbd0,variety,ceanothifolia,Spadonia,polymorpha,Less.,Q76352,1832,,"Syn. Gen. Compos. 102. 1832",,,,,,241023-2,wfo-0000122018,5703645,,
-dbc325ee-8fb6-11eb-924d-9cd76263cbd0,variety,elaeagnifolia,Spadonia,polymorpha,Less.,Q76352,1832,,"Syn. Gen. Compos. 102 1832",,,,,,241024-2,wfo-0000093918,5703644,,
-b696667c-8fb7-11eb-924d-9cd76263cbd0,variety,obtusifolia,Spadonia,polymorpha,Less.,Q76352,1832,,"Syn. Gen. Compos. 102. 1832",,,,,,241025-2,wfo-0000102398,5703641,,
-d64441b2-8fb5-11eb-924d-9cd76263cbd0,variety,populifolia,Spadonia,polymorpha,Less.,Q76352,1832,,"Syn. Gen. Compos. 102. 1832",,,,,,241026-2,wfo-0000082725,5703640,,
-8f037eb0-8fb7-11eb-924d-9cd76263cbd0,variety,sordida,Spadonia,polymorpha,Less.,Q76352,1832,,"Syn. Gen. Compos. 102. 1832",,,,,,241027-2,wfo-0000100932,5703638,,
-dcdd3e1c-8fb9-11eb-924d-9cd76263cbd0,species,racemosa,Spadonia,,Less.,Q76352,,,"Syn. Gen. Compos. 100",,,,,,250448-1,wfo-0000122017,5703637,,
+ea8bf450-8fd1-11eb-924d-9cd76263cbd0,genus,Spadonia,,,Less.,0,1829,,"Syn. Gen. Compos. : 99 (1832)",,,,ea8bf450-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11066-1,wfo-4000035839,3139408,22352," "
+5f8dcbd8-8fba-11eb-924d-9cd76263cbd0,species,cinerea,Spadonia,,"Hook. & Arn.",0,1835,,"Companion Bot. Mag. 1(4): 109 (1835)",,,,,,urn:lsid:ipni.org:names:241020-2,wfo-0000126129,5387785,,
+4b3e3944-8fb3-11eb-924d-9cd76263cbd0,species,paniculata,Spadonia,,Less.,0,1832,,"Syn. Gen. Compos. : 100 (1832)",,,,,,urn:lsid:ipni.org:names:241021-2,wfo-0000045506,5387804,,
+7cad70cc-9bab-11eb-a8a2-19ed5c03f8d3,species,phalloides,Spadonia,,Fr.,0,1829,,"Syst. mycol. (Lundae) 3(1): 203 (1829)",,,,7cad70cc-9bab-11eb-a8a2-19ed5c03f8d3,,,,,228365," "
+96901b1e-8fb9-11eb-924d-9cd76263cbd0,species,polymorpha,Spadonia,,Less.,0,1832,,"Syn. Gen. Compos. : 101 (1832)",,,,,,urn:lsid:ipni.org:names:241022-2,wfo-0000119664,6065031,,
+dce4f030-8fb9-11eb-924d-9cd76263cbd0,variety,ceanothifolia,Spadonia,polymorpha,Less.,0,1832,,"Syn. Gen. Compos. : 102 (1832)",,,,,,urn:lsid:ipni.org:names:241023-2,wfo-0000122018,5703645,,
+dbc325ee-8fb6-11eb-924d-9cd76263cbd0,variety,elaeagnifolia,Spadonia,polymorpha,Less.,0,1832,,"Syn. Gen. Compos. : 102 (1832)",,,,,,urn:lsid:ipni.org:names:241024-2,wfo-0000093918,5703644,,
+b696667c-8fb7-11eb-924d-9cd76263cbd0,variety,obtusifolia,Spadonia,polymorpha,Less.,0,1832,,"Syn. Gen. Compos. : 102 (1832)",,,,,,urn:lsid:ipni.org:names:241025-2,wfo-0000102398,5703641,,
+b2119bb2-1d47-11ec-82c2-f14daa6f2d93,variety,polymorpha,Spadonia,polymorpha,,,,,,,,,,,,wfo-0000048210,,,
+d64441b2-8fb5-11eb-924d-9cd76263cbd0,variety,populifolia,Spadonia,polymorpha,Less.,0,1832,,"Syn. Gen. Compos. : 102 (1832)",,,,,,urn:lsid:ipni.org:names:241026-2,wfo-0000082725,5703640,,
+8f037eb0-8fb7-11eb-924d-9cd76263cbd0,variety,sordida,Spadonia,polymorpha,Less.,0,1832,,"Syn. Gen. Compos. : 102 (1832)",,,,,,urn:lsid:ipni.org:names:241027-2,wfo-0000100932,5703638,,
+dcdd3e1c-8fb9-11eb-924d-9cd76263cbd0,species,racemosa,Spadonia,,Less.,0,,,"Syn. Gen. Compos. : 100 (1832)",,,,,,urn:lsid:ipni.org:names:250448-1,wfo-0000122017,5703637,,

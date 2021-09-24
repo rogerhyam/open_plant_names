@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e310d074-8fd1-11eb-924d-9cd76263cbd0,genus,Drypis,,,"P.Micheli ex L.","Q948840,Q1043",1753,,"Sp. Pl. 1: 413. 1753. (1 May 1753)",,,,,,6257-1,wfo-4000012670,7267987,,
-e88c032a-8fcc-11eb-924d-9cd76263cbd0,species,jacquiniana,Drypis,,"(Murb. & Wettst.) Freyn","Q2616431,Q78599,Q2502575",1892,,"Oesterr. Bot. Z. 42: 358 1892",,,,e88cd6f6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000657542,3815334,,
-e88c59c4-8fcc-11eb-924d-9cd76263cbd0,species,linneana,Drypis,,"(Murb. & Wettst.) Murb. & Wettst.","Q2616431,Q78599",1892,,"Biblioth. Bot. 26: 28 1892",,,,e88cf3ac-8fcc-11eb-924d-9cd76263cbd0,,154208-1,wfo-0000657543,3815325,,
-e88cb8f6-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Drypis,,L.,Q1043,1753,,"Sp. Pl. 413 1753",,,,,,154209-1,wfo-0000657545,3817384,,
-e88cd6f6-8fcc-11eb-924d-9cd76263cbd0,subspecies,jacquiniana,Drypis,spinosa,"Murb. & Wettst.","Q2616431,Q78599",1891,,"Acta Univ. Lund. 27: 161 1891",,,,,,,wfo-0000657546,8001449,,
-e88cf3ac-8fcc-11eb-924d-9cd76263cbd0,subspecies,linneana,Drypis,spinosa,"Murb. & Wettst.","Q2616431,Q78599",1891,,"Acta Univ. Lund. 27: 161 1891",,,,,,,wfo-0000657547,7560886,,
+e310d074-8fd1-11eb-924d-9cd76263cbd0,genus,Drypis,,,"Mich. ex L.",0,1753,,"Sp. Pl. : 413 (1753)",,,,,,urn:lsid:ipni.org:names:6257-1,wfo-4000012670,7267987,,
+e88c032a-8fcc-11eb-924d-9cd76263cbd0,species,jacquiniana,Drypis,,"Murb. & Wettst.",0,1892,,"in Luerss. Bibl. Bot. Heft xxvi (1892) 28; et in Oest. Bot, Zeitschr. (1891)239; et (1892.) 358.",,,,e88cd6f6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:154207-1,wfo-0000657542,3815334,,
+e88c59c4-8fcc-11eb-924d-9cd76263cbd0,species,linneana,Drypis,,"Murb. & Wettst.",0,1892,,"Biblioth. Bot. 5(26): 28 (1892)",,,,e88cf3ac-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:154208-1,wfo-0000657543,3815325,,
+e88cb8f6-8fcc-11eb-924d-9cd76263cbd0,species,spinosa,Drypis,,L.,0,1753,,"Sp. Pl. : 413 (1753)",,,,,,urn:lsid:ipni.org:names:154209-1,wfo-0000657545,3817384,,
+e88cd6f6-8fcc-11eb-924d-9cd76263cbd0,subspecies,jacquiniana,Drypis,spinosa,"Murb. & Wettst.",0,1891,,"Acta Univ. Lund. 27: 161 1891",,,,,,,wfo-0000657546,8001449,,
+e88cf3ac-8fcc-11eb-924d-9cd76263cbd0,subspecies,linneana,Drypis,spinosa,"Murb. & Wettst.",0,1891,,"Acta Univ. Lund. 27: 161 1891",,,,,,,wfo-0000657547,7560886,,

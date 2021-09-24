@@ -1,8 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfe59722-8fd1-11eb-924d-9cd76263cbd0,genus,Atheranthera,,,"Masters in D.Oliver",,1871,,"Fl. Trop. Afr. 2: 519. 1871.",,,,,,,wfo-4000003545,7317672,,
-aa512838-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Atheranthera,,Mast.,Q787355,1871,,"Fl. Trop. Afr. 2: 519 1871",,,,,,674227-1,wfo-0000555561,3623731,,
-aa51457a-8fcc-11eb-924d-9cd76263cbd0,species,welwitschii,Atheranthera,,Mast.,Q787355,1871,,"Trans. Linn. Soc. London 27: 640 1871",,Q55760784,,,,674228-1,wfo-0000555562,3623718,,
-4ac23bf4-8fcd-11eb-924d-9cd76263cbd0,species,epigejos,Athernotus,,"(L.) Dulac","Q1043,Q3184885",1867,,"Fl. Hautes -Pyrénées 74 1867",,,,4aa499dc-8fcd-11eb-924d-9cd76263cbd0,,391067-1,wfo-0000851211,7471416,,
-4ac25828-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Athernotus,,"(Roth) Dulac","Q64246,Q3184885",1867,,"Fl. Hautes -Pyrénées 75 1867",,,,4cd86b02-8fcd-11eb-924d-9cd76263cbd0,,391068-1,wfo-0000851212,4108931,,
-4ac2aabc-8fcd-11eb-924d-9cd76263cbd0,species,longifolius,Athernotus,,"(Hook.) Lunell","Q472639,Q3019197",1915,,"Amer. Midl. Naturalist 4: 218 1915",,Q55773059,,6f403ec2-8fb9-11eb-924d-9cd76263cbd0,,26087-2,wfo-0000851215,4108917,,
-4ac2c6b4-8fcd-11eb-924d-9cd76263cbd0,species,pyramidalis,Athernotus,,"(Host) Dulac","Q4500277,Q3184885",1867,,"Fl. Hautes -Pyrénées 75 1867",,,,,,391070-1,wfo-0000851216,4108906,,
+dfe59722-8fd1-11eb-924d-9cd76263cbd0,genus,Atheranthera,,,Mast.,,1871,,"Fl. Trop. Afr. 2: 519 (1871)",,,,,,urn:lsid:ipni.org:names:31733-1,wfo-4000003545,7317672,,
+aa512838-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Atheranthera,,Mast.,0,1871,,"Fl. Trop. Afr. 2: 519 (1871)",,,,,,urn:lsid:ipni.org:names:674227-1,wfo-0000555561,3623731,,
+aa51457a-8fcc-11eb-924d-9cd76263cbd0,species,welwitschii,Atheranthera,,Mast.,0,1871,,"Trans. Linn. Soc. London 27: 640 (1871)",,Q55760784,,,,urn:lsid:ipni.org:names:674228-1,wfo-0000555562,3623718,,

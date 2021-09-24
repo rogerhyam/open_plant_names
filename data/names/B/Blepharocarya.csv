@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e048c86a-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharocarya,,,F.Muell.,Q708002,1878,,"Fragm. 11: 15. 1878.",,,,,,36301-1,wfo-4000004777,7321554,,
-b26ab3c2-8fcc-11eb-924d-9cd76263cbd0,species,depauperata,Blepharocarya,,Specht,Q3277170,1958,,"Rec. Amer. Austral. Sci. Exped. Arnhemland 3: 253 1958",,,,,,69253-1,wfo-0000566788,3660773,,
-b26aec02-8fcc-11eb-924d-9cd76263cbd0,species,involucrigera,Blepharocarya,,F.Muell.,Q708002,1875,,"Fragm. 9: 16 1875",,,,,,,wfo-0000566789,3660058,,
-1fa3c1c8-8fcc-11eb-924d-9cd76263cbd0,species,macphersonii,Blepharochilum,,"M.A.Clem. & D.L.Jones","Q2272220,Q1175070",2002,,"Orchadian 13: 499 2002",,,,,,20006253-1,wfo-0000341555,2844125,,
-1fa3fa08-8fcc-11eb-924d-9cd76263cbd0,species,sladeanum,Blepharochilum,,"(A.D.Hawkes) M.A.Clem. & D.L.Jones","Q5665995,Q2272220,Q1175070",2002,,"Orchadian 13: 499 2002",,,,d498268c-8fcc-11eb-924d-9cd76263cbd0,,20006254-1,wfo-0000341557,2844124,,
+e048c86a-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharocarya,,,F.Muell.,0,1878,,"Fragm. 9: 15 (1875)",,,,,,urn:lsid:ipni.org:names:36301-1,wfo-4000004777,7321554,,
+b26ab3c2-8fcc-11eb-924d-9cd76263cbd0,species,depauperata,Blepharocarya,,Specht,0,1958,,"Rec. Amer.-Austral. Sci. Exped. Arnhem Land, 3, Bot. Pl. Ecol. 3: 253 (1958)",,,,,,urn:lsid:ipni.org:names:69253-1,wfo-0000566788,3660773,,
+b26aec02-8fcc-11eb-924d-9cd76263cbd0,species,involucrigera,Blepharocarya,,F.Muell.,0,1875,,"Fragm. 9: 16 (1875)",,,,,,urn:lsid:ipni.org:names:782148-1,wfo-0000566789,3660058,,
+1fa3c1c8-8fcc-11eb-924d-9cd76263cbd0,species,macphersonii,Blepharochilum,,"M.A.Clem. & D.L.Jones",0,2002,,"Orchadian 13: 499 (2002)",,,,,,urn:lsid:ipni.org:names:20006253-1,wfo-0000341555,2844125,,
+1fa3fa08-8fcc-11eb-924d-9cd76263cbd0,species,sladeanum,Blepharochilum,,"M.A.Clem. & D.L.Jones",0,2002,,"Orchadian 13: 499 (2002)",,,,d498268c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20006254-1,wfo-0000341557,2844124,,

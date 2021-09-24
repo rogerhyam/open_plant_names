@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebb4ca00-8fd1-11eb-924d-9cd76263cbd0,genus,Tula,,,Adans.,Q315861,1763,,"Makino and Makino, Fam. Pl. (Adanson) 2: 500. 1763, 1763.",,,,,,,wfo-4000039551,7299907,,
-ab073fa0-8fcd-11eb-924d-9cd76263cbd0,species,adansonii,Tula,,"Roem. & Schult.","Q115659,Q78881",1819,,"R. & Schult., Syst. Veg., ed. 15 bis [Roemer & Schultes] 4: 355. 1819, 1819.",,,,,,,wfo-0001032695,,,
-ab075c10-8fcd-11eb-924d-9cd76263cbd0,species,soldanellifolia,Tula,,A.Rich.,Q340247,1834,,"A.Rich., Mem. Fam. Rubiac. (Mem. Soc. Hist. Nat. Paris, v. 273: 1834) 193 (1830)..",,,,,,,wfo-0001032696,3801438,,
+ebb4ca00-8fd1-11eb-924d-9cd76263cbd0,genus,Tula,,,Adans.,0,1763,,"Makino and Makino, Fam. Pl. (Adanson) 2: 500. 1763, 1763.",,,,,,urn:lsid:ipni.org:names:35485-1,wfo-4000039551,7299907,,
+ab073fa0-8fcd-11eb-924d-9cd76263cbd0,species,adansonii,Tula,,"Roem. & Schult.",0,1819,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 4: 355. 1819",,,,,,urn:lsid:ipni.org:names:768187-1,wfo-0001032695,,,
+ab075c10-8fcd-11eb-924d-9cd76263cbd0,species,soldanellifolia,Tula,,A.Rich.,0,1834,,"Mém. Rubiac. 193. 1830",,,,,,urn:lsid:ipni.org:names:768188-1,wfo-0001032696,3801438,,

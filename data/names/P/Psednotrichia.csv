@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e911b6dc-8fd1-11eb-924d-9cd76263cbd0,genus,Psednotrichia,,,Hiern,Q3568881,,,,,,,,,10697-1,wfo-4000031322,3096498,,
-58003f10-8fb3-11eb-924d-9cd76263cbd0,species,australis,Psednotrichia,,Alston,Q674391,1925,,"Bull. Misc. Inform. Kew 1925, 363.",,Q55778672,,,,239742-1,wfo-0000046428,3134737,,
-158d4c58-8fb9-11eb-924d-9cd76263cbd0,species,newtonii,Psednotrichia,,"(O.Hoffm.) Anderb. & P.O.Karis","Q4147110,Q4065252,Q6072049",1995,,"Nordic J. Bot. 15(4): 378 (1995 publ. 1996):.",,Q55761651,,,,986575-1,wfo-0000115261,3096499,,
-69201398-8fb2-11eb-924d-9cd76263cbd0,species,tenella,Psednotrichia,,Hiern,Q3568881,1898,,"in Journ. Bot. 1898, 290.",,,,,,239743-1,wfo-0000023694,3096504,,
-57d75d4c-8fb9-11eb-924d-9cd76263cbd0,species,xyridopsis,Psednotrichia,,"(O.Hoffm.) Anderb. & P.O.Karis","Q4147110,Q4065252,Q6072049",1995,,"Nordic J. Bot. 15(4): 378 (1995 publ. 1996):.",,Q55761651,,ff093d28-8fb5-11eb-924d-9cd76263cbd0,,986574-1,wfo-0000117554,3096503,,
+e911b6dc-8fd1-11eb-924d-9cd76263cbd0,genus,Psednotrichia,,,Hiern,0,,,"J. Bot. 36: 289 (1898)",,,,,,urn:lsid:ipni.org:names:10697-1,wfo-4000031322,3096498,,
+58003f10-8fb3-11eb-924d-9cd76263cbd0,species,australis,Psednotrichia,,Alston,0,1925,,"Bull. Misc. Inform. Kew 1925: 363 (1925)",,Q55778672,,,,urn:lsid:ipni.org:names:239742-1,wfo-0000046428,3134737,,
+158d4c58-8fb9-11eb-924d-9cd76263cbd0,species,newtonii,Psednotrichia,,"(O.Hoffm.) Anderb. & P.O.Karis",0,1995,,"Nordic J. Bot. 15(4): 378 (1996)",,Q55761651,,,,urn:lsid:ipni.org:names:986575-1,wfo-0000115261,3096499,,
+4976e7e6-1d4d-11ec-82c2-f14daa6f2d93,species,perennis,Psednotrichia,,"N.G.Bergh & B.Nord.",,,,"S. African J. Bot. 76(2): 370 (369-374; figs. 1- (2010)",,,,,,urn:lsid:ipni.org:names:77105068-1,wfo-0001331669,,,
+69201398-8fb2-11eb-924d-9cd76263cbd0,species,tenella,Psednotrichia,,Hiern,0,1898,,"J. Bot. 36: 290 (1898)",,,,,,urn:lsid:ipni.org:names:239743-1,wfo-0000023694,3096504,,
+57d75d4c-8fb9-11eb-924d-9cd76263cbd0,species,xyridopsis,Psednotrichia,,"(O.Hoffm.) Anderb. & P.O.Karis",0,1995,,"Nordic J. Bot. 15(4): 378 (1996)",,Q55761651,,ff093d28-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:986574-1,wfo-0000117554,3096503,,

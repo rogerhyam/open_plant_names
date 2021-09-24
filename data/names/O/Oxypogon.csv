@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7cefe9c-8fd1-11eb-924d-9cd76263cbd0,genus,Oxypogon,,,,,,,,,,,,,,wfo-4000027581,3233232,,
-3b55fe36-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Oxypogon,,"Raf. ex DC.","Q364857,Q123057",1825,,"Prodr. 2: 355 1825",,,,,,511214-1,wfo-0000384017,7583478,,
-3b571334-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Oxypogon,,Raf.,Q364857,1819,,"J. Phys. Chim. Hist. Nat. Arts 89: 98 1819",,,,,,511215-1,wfo-0000384024,5629275,,
+e7cefe9c-8fd1-11eb-924d-9cd76263cbd0,genus,Oxypogon,,,Raf.,,,,"J. Phys. Chim. Hist. Nat. Arts 89: 98 (1819)",,,,,,urn:lsid:ipni.org:names:23111-1,wfo-4000027581,3233232,,
+3b55fe36-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Oxypogon,,"Raf. ex DC.",0,1825,,"Prodr. 2: 355 (1825)",,,,,,urn:lsid:ipni.org:names:511214-1,wfo-0000384017,7583478,,
+3b571334-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Oxypogon,,Raf.,0,1819,,"J. Phys. Chim. Hist. Nat. Arts 89: 98 (1819)",,,,,,urn:lsid:ipni.org:names:511215-1,wfo-0000384024,5629275,,

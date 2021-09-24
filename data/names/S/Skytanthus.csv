@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea76361a-8fd1-11eb-924d-9cd76263cbd0,genus,Skytanthus,,,Meyen,Q61546,,,"1: 376.",,,,,,2570-1,wfo-4000035598,3616411,,
-0d73c8b8-8fcc-11eb-924d-9cd76263cbd0,species,acutus,Skytanthus,,Meyen,Q61546,1834,,"Observ. Bot. 1: 376 1834",,,,,,81785-1,wfo-0000311407,3621958,,
-bc92186c-8fcd-11eb-924d-9cd76263cbd0,species,hancorneifolius,Skytanthus,,K.Schum.,Q63545,,,,,,,,,,wfo-0001072381,8289487,,
-0d73e758-8fcc-11eb-924d-9cd76263cbd0,species,hancorniifolius,Skytanthus,,"(A.DC.) Miers","Q123807,Q575253",1878,,"Apocyn. S. Amer. 109 1878",,,,,,81786-1,wfo-0000311408,3621952,,
-0d740468-8fcc-11eb-924d-9cd76263cbd0,species,havanensis,Skytanthus,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 110 1878",,,,,,81787-1,wfo-0000311409,3621941,,
-0d741f70-8fcc-11eb-924d-9cd76263cbd0,species,martianus,Skytanthus,,"(Müll.Arg.) Miers","Q2504914,Q575253",1878,,"Apocyn. S. Amer. 110 1878",,,,,,81788-1,wfo-0000311410,3621933,,
+ea76361a-8fd1-11eb-924d-9cd76263cbd0,genus,Skytanthus,,,Meyen,0,,,"Observ. Bot. 1: 376 (1834)",,,,,,urn:lsid:ipni.org:names:2570-1,wfo-4000035598,3616411,,
+0d73c8b8-8fcc-11eb-924d-9cd76263cbd0,species,acutus,Skytanthus,,Meyen,0,1834,,"Observ. Bot. 1: 376 (1834)",,,,,,urn:lsid:ipni.org:names:81785-1,wfo-0000311407,3621958,,
+bc92186c-8fcd-11eb-924d-9cd76263cbd0,species,hancorneifolius,Skytanthus,,K.Schum.,0,,,,,,,,,,wfo-0001072381,8289487,,
+0d73e758-8fcc-11eb-924d-9cd76263cbd0,species,hancorniifolius,Skytanthus,,Miers,0,1878,,"Apocyn. S. Amer. : 109 (1878)",,,,,,urn:lsid:ipni.org:names:81786-1,wfo-0000311408,3621952,,
+0d740468-8fcc-11eb-924d-9cd76263cbd0,species,havanensis,Skytanthus,,Miers,0,1878,,"Apocyn. S. Amer. : 110 (1878)",,,,,,urn:lsid:ipni.org:names:81787-1,wfo-0000311409,3621941,,
+0d741f70-8fcc-11eb-924d-9cd76263cbd0,species,martianus,Skytanthus,,Miers,0,1878,,"Apocyn. S. Amer. : 110 (1878)",,,,,,urn:lsid:ipni.org:names:81788-1,wfo-0000311410,3621933,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1232726-8fd1-11eb-924d-9cd76263cbd0,genus,Campylanthera,,,"Schott & Endl.","Q112191,Q78605",1832,,"Melet. Bot. 35. 1832.",,,,,,,wfo-4000006446,3233931,,
-bc468a74-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Campylanthera,,Lindl.,Q378629,1838,,"Three Exped. Australia 2: 277 1838",,,,,,684298-1,wfo-0000583136,5680523,,
-adf0515c-8fcd-11eb-924d-9cd76263cbd0,species,frasei,Campylanthera,,"(Hook.) Hook.",Q472639,1837,,"Icon. Pl. 1: sub t. 82 1837",,,,,,684299-1,wfo-0001039007,7696114,,
-bc46aacc-8fcc-11eb-924d-9cd76263cbd0,species,fraseri,Campylanthera,,Hook.,Q472639,1837,,"Hooker's Icon. Pl. 1: t. 82 1837",,,,,,684299-1,wfo-0000583137,5680521,,
-bc473d02-8fcc-11eb-924d-9cd76263cbd0,species,samauma,Campylanthera,,"(Mart.) Schott","Q77131,Q112191",1832,,"Melet. Bot. 35 1832",,,,f22ceaca-8fcc-11eb-924d-9cd76263cbd0,,559248-1,wfo-0000583138,8429484,,
+e1232726-8fd1-11eb-924d-9cd76263cbd0,genus,Campylanthera,,,"Schott & Endl.",0,1832,,"Melet. Bot. : 35 (1832)",,,,,,urn:lsid:ipni.org:names:25828-1,wfo-4000006446,3233931,,
+bc468a74-8fcc-11eb-924d-9cd76263cbd0,species,ericoides,Campylanthera,,Lindl.,0,1838,,"Three Exped. Australia [Mitchell] 2: 275, in adnot. 1838",,,,,,urn:lsid:ipni.org:names:684298-1,wfo-0000583136,5680523,,
+adf0515c-8fcd-11eb-924d-9cd76263cbd0,species,frasei,Campylanthera,,"(Hook.) Hook.",0,1837,,"Icon. Pl. 1: t. 82. 1837 [1 Feb 1837]",,,,,,urn:lsid:ipni.org:names:684299-1,wfo-0001039007,7696114,,
+bc46aacc-8fcc-11eb-924d-9cd76263cbd0,species,fraseri,Campylanthera,,Hook.,0,1837,,"Hooker's Icon. Pl. 1: t. 82 (1837)",,,,,,urn:lsid:ipni.org:names:684299-1,wfo-0000583137,5680521,,
+bc473d02-8fcc-11eb-924d-9cd76263cbd0,species,samauma,Campylanthera,,"(Mart.) Schott",0,1832,,"Melet. Bot. : 35 (1832)",,,,f22ceaca-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:559248-1,wfo-0000583138,8429484,,

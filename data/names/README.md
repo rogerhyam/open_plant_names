@@ -21,7 +21,7 @@ Note that these are functionally globally unique identifiers but they are not so
 
 ## rank
 
-The rank the name was published at. Currently this is restricted to: 'phylum', 'order', 'family', 'section', 'genus', 'subgenus', 'species', 'subspecies', 'variety', 'form'. This may change in the future but there is no intention to include all the ranks that have ever been invented. 
+The rank the name was published at. Currently this is restricted to: 'phylum', 'class', 'order', 'family', 'genus', 'subgenus', "section", "series", 'species', 'subspecies', 'variety' and 'form'. This may change in the future but there is no intention to include all the ranks that have ever been invented. 
 
 ## name
 

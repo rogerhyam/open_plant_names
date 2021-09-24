@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eafa9c48-8fd1-11eb-924d-9cd76263cbd0,genus,Swinglea,,,Merr.,Q729926,1927,,"J. Arnold Arbor. 8: 131. 1927.",,Q100545682,,,,35967-1,wfo-4000037142,7269502,,
-8bf6c942-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Swinglea,,"(Blanco) Merr.","Q721827,Q729926",1927,,"J. Arnold Arbor. 8: 131 1927",,Q100545682,,,,775281-1,wfo-0000504292,3837155,,
-cb6e7f2a-8fcc-11eb-924d-9cd76263cbd0,species,swinglei,,,"J.W.Ingram & H.E.Moore","Q5933701,Q364731",1975,,"Baileya 19: 170 1975",,,,,,771821-1,wfo-0000607696,,,
+eafa9c48-8fd1-11eb-924d-9cd76263cbd0,genus,Swinglea,,,Merr.,0,1927,,"J. Arnold Arbor. 8: 131 (1927)",,Q100545682,,,,urn:lsid:ipni.org:names:35967-1,wfo-4000037142,7269502,,
+8bf6c942-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Swinglea,,Merr.,0,1927,,"J. Arnold Arbor. 8: 131 (1927)",,Q100545682,,,,urn:lsid:ipni.org:names:775281-1,wfo-0000504292,3837155,,

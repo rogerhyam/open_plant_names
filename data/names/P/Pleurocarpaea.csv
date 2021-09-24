@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8bb9a7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurocarpaea,,,Benth.,Q731808,,,,,,,,,10602-1,wfo-4000030326,3103494,,
-ccb44402-8fb6-11eb-924d-9cd76263cbd0,species,denticulata,Pleurocarpaea,,Benth.,Q731808,1867,,1867,,,,,,108943-3,wfo-0000093293,3103496,,
-1271e5e4-8fb7-11eb-924d-9cd76263cbd0,species,fasciculata,Pleurocarpaea,,Dunlop,Q13420116,1991,,1991,,,,,,168364-3,wfo-0000096079,3103495,,
-f769c7b6-8fcb-11eb-924d-9cd76263cbd0,species,decemfidus,Pleurocarpus,,Klotzsch,Q67003,1859,,"Bonplandia (Hannover) 7: 4 1859",,,,,,320982-2,wfo-0000276560,5337894,,
+e8bb9a7c-8fd1-11eb-924d-9cd76263cbd0,genus,Pleurocarpaea,,,Benth.,0,,,"Fl. Austral. 3: 460 (1867)",,,,,,urn:lsid:ipni.org:names:10602-1,wfo-4000030326,3103494,,
+ccb44402-8fb6-11eb-924d-9cd76263cbd0,species,denticulata,Pleurocarpaea,,Benth.,0,1867,,"Flora Australiensis 3  1867",,,,,,urn:lsid:ipni.org:names:108943-3,wfo-0000093293,3103496,,
+1271e5e4-8fb7-11eb-924d-9cd76263cbd0,species,fasciculata,Pleurocarpaea,,Dunlop,0,1991,,"Journal of the Adelaide Botanic Gardens 14(1)  1991",,,,,,urn:lsid:ipni.org:names:168364-3,wfo-0000096079,3103495,,
+4e4ddf2c-1d4d-11ec-82c2-f14daa6f2d93,species,gracilis,Pleurocarpaea,,"Lander & P.J.H.Hurter",,,,"Nuytsia 23: 110 (2013)",,,,,,urn:lsid:ipni.org:names:77136328-1,wfo-0001338320,,,
+f769c7b6-8fcb-11eb-924d-9cd76263cbd0,species,decemfidus,Pleurocarpus,,Klotzsch,0,1859,,"Bonplandia (Hannover) 7: 4 (1859)",,,,,,urn:lsid:ipni.org:names:320982-2,wfo-0000276560,5337894,,

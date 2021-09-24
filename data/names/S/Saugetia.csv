@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9fe0406-8fd1-11eb-924d-9cd76263cbd0,genus,Saugetia,,,"Hitchc. & Chase","Q2063155,Q3822242",1917,,"Contr. U.S. Natl. Herb. 18(7): 378. 1917. (18 Aug 1917)",,,,,,,wfo-4000034161,7961046,,
-61ae4786-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Saugetia,,"Hitchc. & Chase","Q2063155,Q3822242",1917,,"Contr. U. S. Natl. Herb. 18: 378 1917",,Q95371626,,,,227996-2,wfo-0000897881,4126853,,
-61ae7440-8fcd-11eb-924d-9cd76263cbd0,species,pleiostachya,Saugetia,,"C.L.Hitchc. & Ekman","Q5080195,Q541549",1936,,"Misc. Publ. U.S.D.A. 243: 123 1936",,,,,,420731-1,wfo-0000897882,4126837,,
+e9fe0406-8fd1-11eb-924d-9cd76263cbd0,genus,Saugetia,,,"Hitchc. & Chase",0,1917,,"Contr. U.S. Natl. Herb. 18: 378 (1917)",,,,,,urn:lsid:ipni.org:names:18945-1,wfo-4000034161,7961046,,
+61ae4786-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Saugetia,,"Hitchc. & Chase",0,1917,,"Contr. U.S. Natl. Herb. 18: 378 (1917)",,Q95371626,,,,urn:lsid:ipni.org:names:227996-2,wfo-0000897881,4126853,,
+61ae7440-8fcd-11eb-924d-9cd76263cbd0,species,pleiostachya,Saugetia,,"Hitchc. & Ekman",0,1936,,"U.S.D.A. Bur. Pl. Industr. Misc. Publ. No. 243 (Man. Grasses W. Indies) 123 (1936).",,,,,,urn:lsid:ipni.org:names:420731-1,wfo-0000897882,4126837,,

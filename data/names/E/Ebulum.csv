@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e32355d2-8fd1-11eb-924d-9cd76263cbd0,genus,Ebulum,,,,,,,,,,,,,,wfo-4000012874,7272489,,
-e9713350-8fcc-11eb-924d-9cd76263cbd0,species,chinense,Ebulum,,"(Lindl.) Nakai","Q378629,Q704751",1921,,"J. Coll. Sci. Imp. Univ. Tokyo 42: 13 1921",,,,50cb2cc2-8fcd-11eb-924d-9cd76263cbd0,,148503-1,wfo-0000659210,3855703,,
-b919a84a-8fd1-11eb-924d-9cd76263cbd0,species,chinensis,Ebulum,,"(Lindl.) Nakai","Q378629,Q704751",1921,,"Tent. Capr. Japan 13 1921",,,,,,,wfo-0001241270,8193322,,
-b919cde8-8fd1-11eb-924d-9cd76263cbd0,species,formosana,Ebulum,,"(Nakai) Nakai",Q704751,1921,,"Tent. Capr. Japan 14 1921",,,,,,148504-1,wfo-0001241271,,,
-e97174be-8fcc-11eb-924d-9cd76263cbd0,species,humile,Ebulum,,"(Mill.) Garcke","Q312678,Q66696",1865,,"Fl. N. Mitt.-Deutschland ed. 7: 184 1865",,,,,,148505-1,wfo-0000659211,3855682,,
-e9719d7c-8fcc-11eb-924d-9cd76263cbd0,species,javanicum,Ebulum,,"(Reinw.) Hosok.","Q63165,Q10377889",1938,,"Bot. & Zool. 6: 719 1938",,,,,,148506-1,wfo-0000659212,3855672,,
+e32355d2-8fd1-11eb-924d-9cd76263cbd0,genus,Ebulum,,,,,,,,,,,,,urn:lsid:ipni.org:names:6076-1,wfo-4000012874,7272489,,
+e9713350-8fcc-11eb-924d-9cd76263cbd0,species,chinense,Ebulum,,"(Lindl.) Nakai",0,1921,,"J. Coll. Sci. Imp. Univ. Tokyo xlii. 13 (1921).",,,,50cb2cc2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:148503-1,wfo-0000659210,3855703,,
+b919a84a-8fd1-11eb-924d-9cd76263cbd0,species,chinensis,Ebulum,,"(Lindl.) Nakai",0,1921,,"Tent. Capr. Japan 13 1921",,,,,,,wfo-0001241270,8193322,,
+b919cde8-8fd1-11eb-924d-9cd76263cbd0,species,formosanum,Ebulum,,"(Nakai) Nakai",0,1921,,"J. Coll. Sci. Imp. Univ. Tokyo xlii. 14 (1921).",,,,,,urn:lsid:ipni.org:names:148504-1,wfo-0001241271,,,
+e97174be-8fcc-11eb-924d-9cd76263cbd0,species,humile,Ebulum,,"(Mill.) Garcke",0,1865,,"Fl. N. Mitt.-Deutschland, ed. 7 184. 1865",,,,,,urn:lsid:ipni.org:names:148505-1,wfo-0000659211,3855682,,
+e9719d7c-8fcc-11eb-924d-9cd76263cbd0,species,javanicum,Ebulum,,"(Reinw.) Hosok.",0,1938,,"Bot. & Zool. Tokyo vi. 719 (1938), reimpr., in adnot.",,,,,,urn:lsid:ipni.org:names:148506-1,wfo-0000659212,3855672,,

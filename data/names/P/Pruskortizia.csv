@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec6c18fe-8fd1-11eb-924d-9cd76263cbd0,genus,Pruskortizia,,,Morillo,Q5879651,2016,,"Pittieria 40: 97 (2016)",,,,,,60473388-2,wfo-4001303376,9524709,,
-19585c74-8fc8-11eb-924d-9cd76263cbd0,species,bantamensis,Pryona,,"(Hassk.) Miq.","Q68616,Q76742",,,,,,,,,,wfo-0000206095,2974647,,
+ec6c18fe-8fd1-11eb-924d-9cd76263cbd0,genus,Pruskortizia,,,Morillo,0,2016,,"Pittieria 40: 97 (2016)",,,,,,urn:lsid:ipni.org:names:60473388-2,wfo-4001303376,9524709,,
+48b242b0-1d4d-11ec-82c2-f14daa6f2d93,species,dasytricha,Pruskortizia,,"(Schltr.) Morillo",,,,"Pittieria 40: 99 (2016)",,,,,,urn:lsid:ipni.org:names:60473389-2,wfo-0001330656,,,
+48b2689e-1d4d-11ec-82c2-f14daa6f2d93,species,macrocarpa,Pruskortizia,,"(Poepp.) Morillo",,,,"Pittieria 40: 101 (2016)",,,,,,urn:lsid:ipni.org:names:60473390-2,wfo-0001330657,,,
+19585c74-8fc8-11eb-924d-9cd76263cbd0,species,bantamensis,Pryona,,"(Hassk.) Miq.",0,,,"Fl. Ned. Ind. 1(1): 1081 (1858)",,,,,,urn:lsid:ipni.org:names:515881-1,wfo-0000206095,2974647,,

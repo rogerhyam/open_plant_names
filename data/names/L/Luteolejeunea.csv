@@ -1,7 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6235c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Luteolejeunea,,,Piippo,Q21391202,1986,,"Acta Bot. Fenn. 132: 56. 1986.",,,,,,,wfo-4000022455,2688912,,
-f95e7538-8fcd-11eb-924d-9cd76263cbd0,species,herzogii,Luteolejeunea,,"(Buchloh) Piippo","Q19273135,Q21391202",1986,,"Acta Bot. Fenn. 132: 57 1986",,,,f9351198-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001202773,2688913,,
-7bd1d3d2-8fb2-11eb-924d-9cd76263cbd0,species,lutetianus,,,Arènes,Q3170423,1952,,1952,,,,,,,wfo-0000025832,,,
-049165a8-8fb2-11eb-924d-9cd76263cbd0,species,luteus,,,"(Everett) M.L.Green","Q21388267,Q13423692",1937,,"352 1937",,Q55778614,,,,287812-2,wfo-0000005099,,,
-8d023072-8fba-11eb-924d-9cd76263cbd0,species,luteus,,,"(Everett) M.L.Green ex Dress","Q21388267,Q13423692,Q21388290",1976,,"Baileya 20(1): 33 (1976)",,,,,,249964-1,wfo-0000127550,,,
-7e79b2d6-8fbb-11eb-924d-9cd76263cbd0,species,virginica,Luthera,,"(L.) Sch.Bip.","Q1043,Q65685",1836,,"Linnaea 10: 257. 1836",,,,,,,wfo-0000134661,4238498,,
+e6235c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Luteolejeunea,,,Piippo,0,1986,,"Acta Bot. Fenn. 132: 56. 1986.",,,,,,,wfo-4000022455,2688912,,
+f95e7538-8fcd-11eb-924d-9cd76263cbd0,species,herzogii,Luteolejeunea,,"(Buchloh) Piippo",0,1986,,"Acta Bot. Fenn. 132: 57 1986",,,,f9351198-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001202773,2688913,,
+7e79b2d6-8fbb-11eb-924d-9cd76263cbd0,species,virginica,Luthera,,Sch.Bip.,0,1836,,"Linnaea 10: 257 (1836)",,,,,,urn:lsid:ipni.org:names:231273-1,wfo-0000134661,4238498,,

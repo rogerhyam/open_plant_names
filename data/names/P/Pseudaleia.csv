@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e912cbc6-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudaleia,,,"Thouars ex DC.","Q537070,Q123057",1806,,"Gen. Nov. Madagasc. 15. 1806. (17 Nov 1806)",,,,,,,wfo-4000031340,7528475,,
-7b633aa2-8fcc-11eb-924d-9cd76263cbd0,species,longistylis,Pseudaleia,,"Hassk. ex Valeton","Q68616,Q2335410",1886,,"Crit. Overz. Olacin. 115 1886",,,,,,,wfo-0000476458,7895001,,
-c343df24-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Pseudaleia,,DC.,Q123057,1824,,"Prodr. 1: 533 1824",,,,,,608261-1,wfo-0001087286,5550044,,
-c344a3aa-8fcd-11eb-924d-9cd76263cbd0,species,thouarsii,Pseudaleioides,,DC.,Q123057,1824,,"Prodr. 1: 533 1824",,,,,,608263-1,wfo-0001087293,3685602,,
+e912cbc6-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudaleia,,,Thouars,0,1806,,"Gen. Nov. Madagasc. : 15 (1806)",,,,,,urn:lsid:ipni.org:names:28264-1,wfo-4000031340,7528475,,
+5aa30ebe-1d4d-11ec-82c2-f14daa6f2d93,species,imbricata,Pseudaleia,,"Hassk. ex Valeton",,,,"Crit. Overz. Olacin. 115, in syn. 1886 [7 Jul 1886]",,,,,,urn:lsid:ipni.org:names:608259-1,wfo-0001354593,,,
+7b633aa2-8fcc-11eb-924d-9cd76263cbd0,species,longistylis,Pseudaleia,,Hassk,0,1886,,"Crit. Overz. Olacin. 115. 1886 [7 Jul 1886]",,,,,,urn:lsid:ipni.org:names:608260-1,wfo-0000476458,7895001,,
+c343df24-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Pseudaleia,,DC.,0,1824,,"Prodr. 1: 533 (1824)",,,,,,urn:lsid:ipni.org:names:608261-1,wfo-0001087286,5550044,,
+5aa33718-1d4d-11ec-82c2-f14daa6f2d93,species,thouarsii,Pseudaleia,,Steud.,,,,"Nomencl. Bot.  [Steudel], ed. 2. 2: 208, in syn. 1841",,,,,,urn:lsid:ipni.org:names:608262-1,wfo-0001354594,,,
+c344a3aa-8fcd-11eb-924d-9cd76263cbd0,species,thouarsii,Pseudaleioides,,DC.,0,1824,,"Prodr. 1: 533 (1824)",,,,,,urn:lsid:ipni.org:names:608263-1,wfo-0001087293,3685602,,

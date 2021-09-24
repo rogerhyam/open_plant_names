@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df3d0738-8fd1-11eb-924d-9cd76263cbd0,genus,Amphicarpum,,,Kunth,Q77074,1829,,"Révis. Gramin. 1(2): 28. 1829. (Apr 1829)",,,,,,30090566-2,wfo-4000001700,2705726,,
-485d5326-8fcd-11eb-924d-9cd76263cbd0,species,amphicarpon,Amphicarpum,,"(Pursh) Nash","Q67353,Q2663440",1894,,"Mem. Torrey Bot. Club 5: 352 1894",,,,58107e6a-8fcd-11eb-924d-9cd76263cbd0,,11531-2,wfo-0000845837,2705728,,
-485d70f4-8fcd-11eb-924d-9cd76263cbd0,species,floridanum,Amphicarpum,,Chapm.,Q448279,1860,,"Fl. South. U.S. 572 1860",,,,,,,wfo-0000845838,2705731,,
-485d8d5a-8fcd-11eb-924d-9cd76263cbd0,species,muhlenbergianum,Amphicarpum,,"(Schult.) Hitchc.","Q78881,Q2063155",1932,,"Bartonia 14: 34 1932",,,,,,11532-2,wfo-0000845839,4933084,,
-485da948-8fcd-11eb-924d-9cd76263cbd0,species,purshii,Amphicarpum,,Kunth,Q77074,1829,,"Révis. Gramin. 1: 28 1829",,,,,,11533-2,wfo-0000845840,2705727,,
+df3d0738-8fd1-11eb-924d-9cd76263cbd0,genus,Amphicarpum,,,Kunth,0,1829,,"Révis. Gramin. 1: 28 (1829)",,,,,,urn:lsid:ipni.org:names:30090566-2,wfo-4000001700,2705726,,
+485d5326-8fcd-11eb-924d-9cd76263cbd0,species,amphicarpon,Amphicarpum,,"(Pursh) Nash",0,1894,,"Mem. Torrey Bot. Club 5: 352 (1894)",,,,58107e6a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11531-2,wfo-0000845837,2705728,,
+485d70f4-8fcd-11eb-924d-9cd76263cbd0,species,floridanum,Amphicarpum,,Chapman,0,1860,,"Fl. South. U.S. : 572 (1860)",,,,,,urn:lsid:ipni.org:names:387273-1,wfo-0000845838,2705731,,
+485d8d5a-8fcd-11eb-924d-9cd76263cbd0,species,muhlenbergianum,Amphicarpum,,"(Schult.) Hitchc.",0,1932,,"Bartonia 14: 34 (1932)",,,,,,urn:lsid:ipni.org:names:11532-2,wfo-0000845839,4933084,,
+485da948-8fcd-11eb-924d-9cd76263cbd0,species,purshii,Amphicarpum,,Kunth,0,1829,,"Révis. Gramin. 1: 28 (1829)",,,,,,urn:lsid:ipni.org:names:11533-2,wfo-0000845840,2705727,,

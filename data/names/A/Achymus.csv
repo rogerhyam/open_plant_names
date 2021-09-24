@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dec11204-8fd1-11eb-924d-9cd76263cbd0,genus,Achymus,,,,,,,,,,,,,,wfo-4000000249,7262714,,
-92e6c5fe-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Achymus,,"Sol. ex Blume","Q39789,Q76816",1856,,"Mus. Bot. 2: 79 1856",,,,,,850092-1,wfo-0000516152,3765872,,
-92e6e1c4-8fcc-11eb-924d-9cd76263cbd0,species,patens,Achymus,,"Sol. ex Hook.f.","Q39789,Q157501",1888,,"Fl. Brit. India 5: 489 1888",,,,,,,wfo-0000516153,8320343,,
+dec11204-8fd1-11eb-924d-9cd76263cbd0,genus,Achymus,,,"Vahl ex Juss.",,,,"Dict. Sci. Nat. , ed. 2, 1(Suppl.): 31 (1816)",,,,,,urn:lsid:ipni.org:names:40695-1,wfo-4000000249,7262714,,
+92e6c5fe-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Achymus,,"Sol. ex Blume",0,1856,,"Mus. Bot. 2: 79 (1856)",,,,,,urn:lsid:ipni.org:names:850092-1,wfo-0000516152,3765872,,
+92e6e1c4-8fcc-11eb-924d-9cd76263cbd0,species,patens,Achymus,,Sol.,0,1888,,"ex Fl. Brit. India [J. D. Hooker] 5: 489, (err. cal.). 1888 [Dec 1888]",,,,,,urn:lsid:ipni.org:names:850093-1,wfo-0000516153,8320343,,

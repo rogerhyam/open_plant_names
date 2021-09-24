@@ -1,2 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e79d54f0-8fd1-11eb-924d-9cd76263cbd0,genus,Orchimantoglossum,,,"Asch. & Graebn.","Q61290,Q67753",1907,,"Syn. Mitteleur. Fl. 3: 799. 1907.",,,,,,30180-1,wfo-4000027031,2816104,,
+e79d54f0-8fd1-11eb-924d-9cd76263cbd0,genus,Orchimantoglossum,,,"Asch. & Graebn.",0,1907,,"Syn. Mitteleur. Fl. 3: 799 (1907)",,,,,,urn:lsid:ipni.org:names:30180-1,wfo-4000027031,2816104,,
+492827be-1d4d-11ec-82c2-f14daa6f2d93,species,lacazei,Orchimantoglossum,,"(E.G.Camus) Asch. & Graebn.",,,,"Syn. Mitteleur. Fl. 3: 799 (1907)",,,,,,urn:lsid:ipni.org:names:648278-1,wfo-0001331272,,,
+ec315bb6-8fcb-11eb-924d-9cd76263cbd0,species,lacazei,Orchimantoglossum,,"(E.G.Camus & A.Camus) Asch. & Graebn.",0,1907,,"Syn. Mitteleur. Fl. 3: 799 (1907)",,,,dc02ee94-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:648278-1,wfo-0000258819,,,
+80f2f1f6-1d4d-11ec-82c2-f14daa6f2d93,species,salaminense,Orchimantoglossum,,"(Kalop. & Constantin.)",,,,ined.,,,,,,urn:lsid:ipni.org:names:77177310-1,wfo-0001423980,,,
+4a4cd0c2-1d4d-11ec-82c2-f14daa6f2d93,species,terraccianoi,Orchimantoglossum,,"(E.G.Camus) B.Bock",,,,"Bull. Soc. Bot. Centre-Ouest 42: 273 (2012)",,,,,,urn:lsid:ipni.org:names:77118895-1,wfo-0001332838,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8ae8508-8fd1-11eb-924d-9cd76263cbd0,genus,Plecosorus,,,Fée,Q2627241,1852,,"Mém. Foug. 5: 150, t. 13A. 1852.",,,,,,,wfo-4000030186,7319467,,
-d45b2d9e-8fcd-11eb-924d-9cd76263cbd0,species,leptocladon,Plecosorus,,Fée,Q2627241,1865,,"Mém. Foug. 10: 19, t. 34, f. 1 1865",,,,,,,wfo-0001124608,4043184,,
-cf6abf3e-8fcd-11eb-924d-9cd76263cbd0,species,mexicanus,Plecosorus,,Fée,Q2627241,1852,,"Mém. Foug. 5: 151 1852",,,,,,,wfo-0001113735,4043179,,
-ce846c14-8fcd-11eb-924d-9cd76263cbd0,species,peruvianus,Plecosorus,,Fée,Q2627241,1852,,"Mém. Foug. 151 1852",,,,,,,wfo-0001112150,4043164,,
-1137a576-8fbf-11eb-924d-9cd76263cbd0,species,speciosissimus,Plecosorus,,T.Moore,Q1366473,,,,,,,,,1213505-2,wfo-0000157759,8659679,,
-cf04beaa-8fcd-11eb-924d-9cd76263cbd0,species,speciossisimus,Plecosorus,,"(A.Braun ex Kunze) T.Moore","Q62855,Q65400,Q1366473",1857,,"Index Fil. xl 1857",,,,,,,wfo-0001113088,,,
+e8ae8508-8fd1-11eb-924d-9cd76263cbd0,genus,Plecosorus,,,Fée,0,1852,,"Mém. Foug., 5. Gen. Filic. 150. 1852 [1850-1852]",,,,,,urn:lsid:ipni.org:names:17177910-1,wfo-4000030186,7319467,,
+d45b2d9e-8fcd-11eb-924d-9cd76263cbd0,species,leptocladon,Plecosorus,,Fée,0,1865,,1865,,,,,,urn:lsid:ipni.org:names:17177920-1,wfo-0001124608,4043184,,
+cf6abf3e-8fcd-11eb-924d-9cd76263cbd0,species,mexicanus,Plecosorus,,Fée,0,1852,,"Mém. Foug., 5. Gen. Filic. : 151 (1852)",,,,,,urn:lsid:ipni.org:names:17177930-1,wfo-0001113735,4043179,,
+ce846c14-8fcd-11eb-924d-9cd76263cbd0,species,peruvianus,Plecosorus,,Fée,0,1852,,"Mém. Foug., 5. Gen. Filic. : 151 (1852)",,,,,,urn:lsid:ipni.org:names:17177940-1,wfo-0001112150,4043164,,
+1137a576-8fbf-11eb-924d-9cd76263cbd0,species,speciosissimus,Plecosorus,,"(Kunze) T.Moore",0,,,,,,,,,urn:lsid:ipni.org:names:1213505-2,wfo-0000157759,8659679,,
+cf04beaa-8fcd-11eb-924d-9cd76263cbd0,species,speciossisimus,Plecosorus,,"(A.Braun ex Kunze) T.Moore",0,1857,,"Index Fil. xl 1857",,,,,,,wfo-0001113088,,,

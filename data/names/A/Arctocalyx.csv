@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfb26f64-8fd1-11eb-924d-9cd76263cbd0,genus,Arctocalyx,,,Fenzl,Q113291,1848,,"Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl. 1: 201. 1848.",,,,,,,wfo-4000002922,6365309,,
-a2f3779e-8fcc-11eb-924d-9cd76263cbd0,species,endlicherianus,Arctocalyx,,"C.Heller ex Fenzl","Q1730425,Q113291",1848,,"Allg. Gartenzeitung 16: 307 1848",,,,,,378054-1,wfo-0000543416,3820211,,
-a2f3962a-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Arctocalyx,,Fenzl,Q113291,1848,,"Allg. Gartenzeitung 16: 306 1848",,,,,,378055-1,wfo-0000543417,3820196,,
+dfb26f64-8fd1-11eb-924d-9cd76263cbd0,genus,Arctocalyx,,,Fenzl,0,1848,,"Allg. Gartenzeitung 16: 305 (1848)",,,,,,urn:lsid:ipni.org:names:16902-1,wfo-4000002922,6365309,,
+a2f3779e-8fcc-11eb-924d-9cd76263cbd0,species,endlicherianus,Arctocalyx,,"C.Heller ex Fenzl",0,1848,,"Allg. Gartenzeitung 16: 307 (1848)",,,,,,urn:lsid:ipni.org:names:378054-1,wfo-0000543416,3820211,,
+a2f3962a-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Arctocalyx,,Fenzl,0,1848,,"Allg. Gartenzeitung 16: 306 (1848)",,,,,,urn:lsid:ipni.org:names:378055-1,wfo-0000543417,3820196,,

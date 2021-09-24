@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4a34138-8fd1-11eb-924d-9cd76263cbd0,genus,Herpetica,,,,,,,,,,,,,,wfo-4000017570,,,
-7aeb14f4-8fc3-11eb-924d-9cd76263cbd0,species,alata,Herpetica,,"(L.) Raf.","Q1043,Q364857",,,,,,,,,,wfo-0000183036,2956952,,
-b5f94f2a-8fcd-11eb-924d-9cd76263cbd0,species,alata,Herpetica,,"O.F.Cook & G.N.Collins","Q1548577,Q20973529",1903,,"U. S. Dept. Agric. Contr. Nat. Herb. 8: 159 1903",,,,,,,wfo-0001057188,8266818,,
-b6a91888-8fcd-11eb-924d-9cd76263cbd0,species,rumphiana,Herpetica,,"(DC.) J.Presl","Q123057,Q379593",1846,,"Waobecný Rostl. 1: 457 1846",,,,7b028ee0-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0001058805,3974991,,
+e4a34138-8fd1-11eb-924d-9cd76263cbd0,genus,Herpetica,,,Raf.,,,,"Sylva Tellur. : 123 (1838)",,,,,,urn:lsid:ipni.org:names:22585-1,wfo-4000017570,,,
+7aeb14f4-8fc3-11eb-924d-9cd76263cbd0,species,alata,Herpetica,,"(L.) Raf.",0,,,"Sylva Tellur. : 123 (1838)",,,,,,urn:lsid:ipni.org:names:498271-1,wfo-0000183036,2956952,,
+b5f94f2a-8fcd-11eb-924d-9cd76263cbd0,species,alata,Herpetica,,"Cook & Collins",0,1903,,"Contr. U.S. Natl. Herb. viii. (1903) 159.",,,,,,urn:lsid:ipni.org:names:498272-1,wfo-0001057188,8266818,,
+b6a91888-8fcd-11eb-924d-9cd76263cbd0,species,rumphiana,Herpetica,,"(DC.) J.Presl",0,1846,,"Wobecný Rostl. 1: 457 (1846)",,,,7b028ee0-8fc3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:498273-1,wfo-0001058805,3974991,,

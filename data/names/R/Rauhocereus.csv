@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e980fbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Rauhocereus,,,Backeb.,Q61900,1956,,"Descr. Cact. Nov. 5. 1956.",,,,,,295613-2,wfo-4000032599,7282701,,
-d5c90e72-8fd1-11eb-924d-9cd76263cbd0,species,riosaniensis,Rauhocereus,,Backeb.,Q61900,1958,,"Sitzungsber. Heidelberger Akad. Wiss., Math.-Naturwiss. Kl. 367 1958",,,,,,,wfo-0001287612,7282702,,
-d5c92b1e-8fd1-11eb-924d-9cd76263cbd0,variety,jaenensis,Rauhocereus,riosaniensis,Backeb.,Q61900,1958,,"Stizungsber. Heidelberger Akad. Wiss., Math.-Naturwiss. Kl. 367 1958",,,,,,,wfo-0001287613,7419692,,
+e980fbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Rauhocereus,,,Backeb.,0,1956,,"Descr. Cact. Nov. 1: 5. 1957.",,,,,,,wfo-4000032599,7282701,,
+d5c90e72-8fd1-11eb-924d-9cd76263cbd0,species,riosaniensis,Rauhocereus,,Backeb.,0,1958,,"Descr. Cact. Nov. 1: 20. 1957.",,,,,,,wfo-0001287612,7282702,,
+87394a88-1d4d-11ec-82c2-f14daa6f2d93,subspecies,jaenensis,Rauhocereus,riosaniensis,"(Rauh ex Backeb.) Ostolaza",,,,"in Cactaceae Consensus Init. 6: 9. 1998.",,,,,,,wfo-0001433825,,,
+d5c92b1e-8fd1-11eb-924d-9cd76263cbd0,variety,jaenensis,Rauhocereus,riosaniensis,"Rauh ex Backeb.",0,1958,,"in Sitzungsber. Heidelberger Akad. Wiss., Math.-Naturwiss. Kl. 1958(1): 368. 1958.",,,,,,,wfo-0001287613,7419692,,
+88093662-1d4d-11ec-82c2-f14daa6f2d93,subspecies,riosaniensis,Rauhocereus,riosaniensis,,,,,,,,,,,,wfo-0001434926,,,

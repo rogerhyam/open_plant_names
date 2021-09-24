@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e21d1736-8fd1-11eb-924d-9cd76263cbd0,genus,Coutaportla,,,Urb.,Q64845,1923,,"Symb. Antill. 9: 146–147. 1923. (1 Jan 1923)",,,,,,296973-2,wfo-4000009525,2907660,,
-78cc7640-8fcd-11eb-924d-9cd76263cbd0,species,ghiesbreghtiana,Coutaportla,,"(Baill.) Urb.","Q461931,Q64845",1923,,"Symb. Antill. 9: 147 1923",,,,,,67487-2,wfo-0000926489,2907662,,
-78ccb01a-8fcd-11eb-924d-9cd76263cbd0,species,guatemalensis,Coutaportla,,"(Standl.) Lorence","Q1333160,Q5800041",1986,,"Syst. Bot. 11: 210 1986",,Q55765417,,,,942483-1,wfo-0000926491,2917620,,
-78cccbb8-8fcd-11eb-924d-9cd76263cbd0,species,pailensis,Coutaportla,,Villarreal,Q13493840,1987,,"Sida 12: 223 1987",,Q91203952,,,,275228-2,wfo-0000926492,2907661,,
+e21d1736-8fd1-11eb-924d-9cd76263cbd0,genus,Coutaportla,,,Urb.,0,1923,,"Symb. Antill. 9: 146 (1923)",,,,,,urn:lsid:ipni.org:names:296973-2,wfo-4000009525,2907660,,
+78cc7640-8fcd-11eb-924d-9cd76263cbd0,species,ghiesbreghtiana,Coutaportla,,"(Baill.) Urb.",0,1923,,"Symb. Antill. 9: 147 (1923)",,,,,,urn:lsid:ipni.org:names:67487-2,wfo-0000926489,2907662,,
+78ccb01a-8fcd-11eb-924d-9cd76263cbd0,species,guatemalensis,Coutaportla,,"(Standl.) Lorence",0,1986,,"Syst. Bot. 11(1): 210. 1986",,Q55765417,,,,urn:lsid:ipni.org:names:942483-1,wfo-0000926491,2917620,,
+78cccbb8-8fcd-11eb-924d-9cd76263cbd0,species,pailensis,Coutaportla,,Villarreal,0,1987,,"Sida 12: 223 (1987)",,Q91203952,,,,urn:lsid:ipni.org:names:275228-2,wfo-0000926492,2907661,,

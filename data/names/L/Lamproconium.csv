@@ -1,13 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9a03ffa4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lamproconium,,,"(Grove) Grove",Q19666664,1937,,"British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 321 (1937)",,,,,,,,,8703," "
-761292f6-9bab-11eb-a8a2-19ed5c03f8d3,species,desmazieri,Lamproconium,,Sacc.,Q707840,1937,,"British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 321 (1937)",,,,761292f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,222030," desmazierii"
-0c0e9070-9bac-11eb-a8a2-19ed5c03f8d3,species,desmazierii,Lamproconium,,"(Berk. & Broome) Grove","Q662338,Q1932460,Q19666664",,,,,,,1c58bba4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,267749," Lamproconium desmazieri"
-6f8672b2-8fcc-11eb-924d-9cd76263cbd0,species,altensteinii,Lamproconus,,"(Link, Klotzsch & Otto) Lem.","Q215466,Q67003,Q77650,Q942880",1852,,"Jard. Fleur. 2: t. 217 1852",,,,8b8670ca-8fcc-11eb-924d-9cd76263cbd0,,123387-1,wfo-0000456574,2696870,,
-6f875024-8fcc-11eb-924d-9cd76263cbd0,species,aurantiacus,Lamproconus,,"E.Morren ex Baker",Q730330,1889,,"Handb. Bromel. 114 1889",,,,,,123388-1,wfo-0000456579,,,
-6f87bf64-8fcc-11eb-924d-9cd76263cbd0,species,giganteus,Lamproconus,,"(Hook.) Lem.","Q472639,Q942880",1852,,"Jard. Fleur. 2: t. 217 1852",,,,a8eaba12-8fb4-11eb-924d-9cd76263cbd0,,123389-1,wfo-0000456583,2696863,,
-6f88811a-8fcc-11eb-924d-9cd76263cbd0,species,jacksonii,Lamproconus,,"(Hook.) Hemsl.","Q472639,Q1339247",1884,,"Biol. Cent.-Amer., Bot. 3: 316 1884",,,,864012b0-8fcc-11eb-924d-9cd76263cbd0,,123390-1,wfo-0000456590,2696908,,
-6f89016c-8fcc-11eb-924d-9cd76263cbd0,species,maidifolia,Lamproconus,,"(C.Morren) Jacob-Makoy","Q2959113,Q5969690",1879,,"Prix Cour. Pl. Nouv. 120: 23 1879",,,,8c3f5d42-8fcc-11eb-924d-9cd76263cbd0,,941628-1,wfo-0000456594,2697089,,
-acd51b0a-8fd1-11eb-924d-9cd76263cbd0,species,maidifolius,Lamproconus,,"Lem. ex Baker","Q942880,Q730330",1889,,"Handb. Bromel. 109 1889",,,,,,,wfo-0001218783,7737274,,
-6f89d916-8fcc-11eb-924d-9cd76263cbd0,species,undulatus,Lamproconus,,"(Scheidw.) Lem.","Q2268288,Q942880",1852,,"Jard. Fleur. 2: t. 127 1852",,,,,,123391-1,wfo-0000456599,2697518,,
-acdb0d94-8fd1-11eb-924d-9cd76263cbd0,species,warszcewiczii,Lamproconus,,"Lemaire ex Baker",Q730330,1889,,"Handb. Bromel. 112 1889",,,,,,,wfo-0001218829,7597336,,
-6f8a8f14-8fcc-11eb-924d-9cd76263cbd0,species,warszewiczii,Lamproconus,,"(H.Wendl. ex Hook.) Lem.","Q66720,Q472639,Q942880",1861,,"Ill. Hort. 8(Misc.): 14 1861",,,,8ca37200-8fcc-11eb-924d-9cd76263cbd0,,123392-1,wfo-0000456605,2696705,,
+9a03ffa4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lamproconium,,,"(Grove) Grove",0,1937,,"British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 321 (1937)",,,,,,,,,8703," "
+761292f6-9bab-11eb-a8a2-19ed5c03f8d3,species,desmazieri,Lamproconium,,Sacc.,0,1937,,"British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 321 (1937)",,,,761292f6-9bab-11eb-a8a2-19ed5c03f8d3,,,,,222030," desmazierii"
+0c0e9070-9bac-11eb-a8a2-19ed5c03f8d3,species,desmazierii,Lamproconium,,"(Berk. & Broome) Grove",0,,,,,,,1c58bba4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,267749," Lamproconium desmazieri"
+6f8672b2-8fcc-11eb-924d-9cd76263cbd0,species,altensteinii,Lamproconus,,Lem.,0,1852,,"Jard. Fleur. 2: t. 217 (1852)",,,,8b8670ca-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123387-1,wfo-0000456574,2696870,,
+6f875024-8fcc-11eb-924d-9cd76263cbd0,species,aurantiacus,Lamproconus,,"Ed.Morren ex Baker",0,1889,,"Handb. Bromel. : 114 (1889)",,,,,,urn:lsid:ipni.org:names:123388-1,wfo-0000456579,,,
+6f87bf64-8fcc-11eb-924d-9cd76263cbd0,species,giganteus,Lamproconus,,Lem.,0,1852,,"Jard. Fleur. 2: t. 217 (1852)",,,,a8eaba12-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123389-1,wfo-0000456583,2696863,,
+6f88811a-8fcc-11eb-924d-9cd76263cbd0,species,jacksonii,Lamproconus,,Hemsl.,0,1884,,"Biol. Cent.-Amer., Bot. 3: 316 (1884)",,,,864012b0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123390-1,wfo-0000456590,2696908,,
+6f89016c-8fcc-11eb-924d-9cd76263cbd0,species,maidifolia,Lamproconus,,"(C.Morren) Jacob-Makoy",0,1879,,"Prix Cour. Pl. Nouv. 120: 23 (1879)",,,,8c3f5d42-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:941628-1,wfo-0000456594,2697089,,
+acd51b0a-8fd1-11eb-924d-9cd76263cbd0,species,maidifolius,Lamproconus,,"Lem. ex Baker",0,1889,,"Handb. Bromel. 109 1889",,,,,,,wfo-0001218783,7737274,,
+6f89d916-8fcc-11eb-924d-9cd76263cbd0,species,undulatus,Lamproconus,,Lem.,0,1852,,"Jard. Fleur. 2: t. 127 (1852)",,,,,,urn:lsid:ipni.org:names:123391-1,wfo-0000456599,2697518,,
+46c0c9b8-1d4d-11ec-82c2-f14daa6f2d93,species,warscewiczii,Lamproconus,,Lem.,,,,"Ill. Hort. 8(Misc.): 14 (1861)",,,,,,urn:lsid:ipni.org:names:123392-1,wfo-0001328004,,,
+acdb0d94-8fd1-11eb-924d-9cd76263cbd0,species,warszcewiczii,Lamproconus,,"Lemaire ex Baker",0,1889,,"Handb. Bromel. 112 1889",,,,,,,wfo-0001218829,7597336,,
+6f8a8f14-8fcc-11eb-924d-9cd76263cbd0,species,warszewiczii,Lamproconus,,"(H.Wendl. ex Hook.) Lem.",0,1861,,"Ill. Hort. 8(Misc.): 14 (1861)",,,,8ca37200-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123392-1,wfo-0000456605,2696705,,

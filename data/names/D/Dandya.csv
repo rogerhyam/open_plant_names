@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e27a6788-8fd1-11eb-924d-9cd76263cbd0,genus,Dandya,,,H.E.Moore,Q364731,1953,,"Gentes Herbarum 8: 266. 1953.",,,,,,296695-2,wfo-4000010731,2769875,,
-22b5ab0a-8fcd-11eb-924d-9cd76263cbd0,species,balsensis,Dandya,,"A.R.López-Ferrari & Espejo",Q18719715,1992,,"Acta Bot. Mex. 18: 11 1992",,,,,,,wfo-0000765032,5303878,,
-22b5ca5e-8fcd-11eb-924d-9cd76263cbd0,species,hannibalii,Dandya,,L.W.Lenz,Q5972484,1971,,"Aliso 7: 316 1971",,Q96016330,,,,76599-2,wfo-0000765033,5303876,,
-22b6058c-8fcd-11eb-924d-9cd76263cbd0,species,purpusii,Dandya,,"(Brandegee) H.E.Moore","Q1002345,Q364731",1953,,"Gentes Herb. 8: 266 1953",,,,,,76600-2,wfo-0000765035,5303877,,
-22b622e2-8fcd-11eb-924d-9cd76263cbd0,species,thadhowardii,Dandya,,L.W.Lenz,Q5972484,1971,,"Aliso 7: 314 1971",,Q96016330,,,,76601-2,wfo-0000765036,5303875,,
+e27a6788-8fd1-11eb-924d-9cd76263cbd0,genus,Dandya,,,H.E.Moore,0,1953,,"Gentes Herbarum 8: 266 (1953)",,,,,,urn:lsid:ipni.org:names:296695-2,wfo-4000010731,2769875,,
+22b5ab0a-8fcd-11eb-924d-9cd76263cbd0,species,balsensis,Dandya,,"A.R.López-Ferrari & Espejo",0,1992,,"Acta Bot. Mex. 18: 11 (1992)",,,,,,urn:lsid:ipni.org:names:306285-2,wfo-0000765032,5303878,,
+22b5ca5e-8fcd-11eb-924d-9cd76263cbd0,species,hannibalii,Dandya,,L.W.Lenz,0,1971,,"Aliso 7: 316 (1971)",,Q96016330,,,,urn:lsid:ipni.org:names:76599-2,wfo-0000765033,5303876,,
+22b6058c-8fcd-11eb-924d-9cd76263cbd0,species,purpusii,Dandya,,"(Brandegee) H.E.Moore",0,1953,,"Gentes Herbarum 8: 266 (1953)",,,,,,urn:lsid:ipni.org:names:76600-2,wfo-0000765035,5303877,,
+22b622e2-8fcd-11eb-924d-9cd76263cbd0,species,thadhowardii,Dandya,,L.W.Lenz,0,1971,,"Aliso 7: 314 (1971)",,Q96016330,,,,urn:lsid:ipni.org:names:76601-2,wfo-0000765036,5303875,,

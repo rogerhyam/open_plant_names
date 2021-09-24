@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df67007e-8fd1-11eb-924d-9cd76263cbd0,genus,Anderssoniopiper,,,Trel.,Q1380171,1934,,"Proc. Amer. Philos. Soc. 73(5): 329. 1934.",,,,,,,wfo-4000001952,7304905,,
-9d4af40c-8fcc-11eb-924d-9cd76263cbd0,species,panamense,Anderssoniopiper,,Trel.,Q1380171,1934,,"Proc. Amer. Philos. Soc. 73: 329 1934",,,,,,12556-2,wfo-0000533973,4184514,,
-27c1a982-8fcd-11eb-924d-9cd76263cbd0,species,bisexualis,Andesia,,"(Kuntze) Hauman","Q62853,Q6697106",1915,,"Anales Mus. Nac. Hist. Nat. Buenos Aires 27: 290 1915",,,,28f36a52-8fcd-11eb-924d-9cd76263cbd0,,12557-2,wfo-0000775582,5289405,,
-27c1c84a-8fcd-11eb-924d-9cd76263cbd0,species,haumaniana,Andesia,,Barros,Q10323997,1950,,"Lilloa 23: 419 1950",,,,,,12558-2,wfo-0000775583,5289402,,
-1e966966-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Andicus,,Vell.,Q44907,1829,,"Fl. Flumin. 80 1829",,,,,,338619-1,wfo-0000339705,3075090,,
+df67007e-8fd1-11eb-924d-9cd76263cbd0,genus,Anderssoniopiper,,,Trel.,0,1934,,"Proc. Amer. Philos. Soc. 73: 329 (1934)",,,,,,urn:lsid:ipni.org:names:296594-2,wfo-4000001952,7304905,,
+9d4af40c-8fcc-11eb-924d-9cd76263cbd0,species,panamense,Anderssoniopiper,,Trel.,0,1934,,"Proc. Amer. Philos. Soc. 73: 329 (1934)",,,,,,urn:lsid:ipni.org:names:12556-2,wfo-0000533973,4184514,,
+27c1a982-8fcd-11eb-924d-9cd76263cbd0,species,bisexualis,Andesia,,Hauman,0,1915,,"Anales Mus. Nac. Hist. Nat. Buenos Aires 27: 290 (1915)",,,,28f36a52-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:12557-2,wfo-0000775582,5289405,,
+27c1c84a-8fcd-11eb-924d-9cd76263cbd0,species,haumaniana,Andesia,,Barros,0,1950,,"Lilloa 23: 419 (1950)",,,,,,urn:lsid:ipni.org:names:12558-2,wfo-0000775583,5289402,,
+1e966966-8fcc-11eb-924d-9cd76263cbd0,species,pentaphyllus,Andicus,,Vell.,0,1829,,"Fl. Flumin. : 80 (1829)",,,,,,urn:lsid:ipni.org:names:338619-1,wfo-0000339705,3075090,,

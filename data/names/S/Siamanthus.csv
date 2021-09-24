@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea5a93ec-8fd1-11eb-924d-9cd76263cbd0,genus,Siamanthus,,,"K.Larsen & J.Mood",Q2719575,1998,,"Nordic J. Bot. 18: 393. 1998.",,Q55761755,,,,1004649-1,wfo-4000035270,2759893,,
-a9116aa0-8fcc-11eb-924d-9cd76263cbd0,species,siliquosus,Siamanthus,,"K.Larsen & J.Mood",Q2719575,1998,,"Nordic J. Bot. 18: 393 1998",,Q55761755,,,,1004650-1,wfo-0000553473,2759894,,
+ea5a93ec-8fd1-11eb-924d-9cd76263cbd0,genus,Siamanthus,,,"K.Larsen & Mood",0,1998,,"Nordic J. Bot. 18:393. (1998)",,Q55761755,,,,,wfo-4000035270,2759893,,
+a9116aa0-8fcc-11eb-924d-9cd76263cbd0,species,siliquosus,Siamanthus,,"K.Larsen & Mood",0,1998,,"Nordic J. Bot. 18:393. (1998)",,Q55761755,,,,,wfo-0000553473,2759894,,
+7e9a84e6-1d4d-11ec-82c2-f14daa6f2d93,species,thailand,Siamanthus,,NULL,,,,,,,,,,urn:lsid:ipni.org:names:51016152-1,wfo-0001420498,,,

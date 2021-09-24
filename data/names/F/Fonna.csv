@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3c4cb4c-8fd1-11eb-924d-9cd76263cbd0,genus,Fonna,,,Adans.,Q315861,1763,,"Fam. Pl. 2: 214. 1763. (Jul-Aug 1763)",,,,,,,wfo-4000014909,7294243,,
-fbc8ae52-8fcc-11eb-924d-9cd76263cbd0,species,andicola,Fonna,,"(E.Nelson) Lunell","Q8776918,Q3019197",1918,,"Amer. Midl. Naturalist 5: 239 1918",,Q55773026,,,,105262-2,wfo-0000691521,4058024,,
-fbc90e1a-8fcc-11eb-924d-9cd76263cbd0,species,hoodii,Fonna,,"(Richardson) Nieuwl. & Lunell","Q545944,Q88145,Q3019197",1916,,"Amer. Midl. Naturalist 4: 516 1916",,Q55773199,,c8e439a6-8fcd-11eb-924d-9cd76263cbd0,,105263-2,wfo-0000691523,4058012,,
-fbc961f8-8fcc-11eb-924d-9cd76263cbd0,species,kelseyi,Fonna,,"(Britton) Nieuwl. & Lunell","Q553714,Q88145,Q3019197",1916,,"Amer. Midl. Naturalist 4: 512 1916",,Q55773199,,c8f68a2a-8fcd-11eb-924d-9cd76263cbd0,,688861-1,wfo-0000691524,4057279,,
+e3c4cb4c-8fd1-11eb-924d-9cd76263cbd0,genus,Fonna,,,Adans.,0,1763,,"Fam. Pl. 2: 214 (1763)",,,,,,urn:lsid:ipni.org:names:328378-2,wfo-4000014909,7294243,,
+fbc8ae52-8fcc-11eb-924d-9cd76263cbd0,species,andicola,Fonna,,Lunell,0,1918,,"Amer. Midl. Naturalist 5: 239 (1918)",,Q55773026,,,,urn:lsid:ipni.org:names:105262-2,wfo-0000691521,4058024,,
+fbc90e1a-8fcc-11eb-924d-9cd76263cbd0,species,hoodii,Fonna,,"(Richardson) Nieuwl. & Lunell",0,1916,,"Amer. Midl. Naturalist 4: 516 (1916)",,Q55773199,,c8e439a6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105263-2,wfo-0000691523,4058012,,
+fbc961f8-8fcc-11eb-924d-9cd76263cbd0,species,kelseyi,Fonna,,"Nieuwl. & Lunell",0,1916,,"Amer. Midl. Naturalist 4: 512 (1916)",,Q55773199,,c8f68a2a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:688861-1,wfo-0000691524,4057279,,

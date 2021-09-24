@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e46bbac4-8fd1-11eb-924d-9cd76263cbd0,genus,Harmsiopanax,,,Warb.,Q62822,1897,,"Nat. Pflanzenfam. 1: 166. 1897.",,,,,,3026-1,wfo-4000016933,3037658,,
-914abb00-8fcd-11eb-924d-9cd76263cbd0,species,aculeatus,Harmsiopanax,,"(Blume) Warb. ex Boerl.","Q76816,Q62822,Q5924432",1900,,"Handl. Fl. Ned. Ind. 3: 88 1900",,,,,,,wfo-0000979376,3037663,,
-914adb58-8fcd-11eb-924d-9cd76263cbd0,species,harmsii,Harmsiopanax,,K.Schum.,Q63545,1905,,"Fl. Schutzgeb. Südsee Nachtr.: 329 1905",,,,,,90634-1,wfo-0000979377,3037659,,
-914af99e-8fcd-11eb-924d-9cd76263cbd0,species,ingens,Harmsiopanax,,Philipson,Q4020136,1973,,"Blumea 21: 84 1973",,Q96027616,,,,90635-1,wfo-0000979378,3037660,,
+e46bbac4-8fd1-11eb-924d-9cd76263cbd0,genus,Harmsiopanax,,,Warb.,0,1897,,"Nat. Pflanzenfam. , Nachtr. 1: 166 (1897)",,,,,,urn:lsid:ipni.org:names:3026-1,wfo-4000016933,3037658,,
+914abb00-8fcd-11eb-924d-9cd76263cbd0,species,aculeatus,Harmsiopanax,,"(Blume) Warb. ex Boerl.",0,1900,,"Handl. Fl. Ned. Ind. 3: 88 (1900)",,,,,,urn:lsid:ipni.org:names:77176692-1,wfo-0000979376,3037663,,
+914adb58-8fcd-11eb-924d-9cd76263cbd0,species,harmsii,Harmsiopanax,,K.Schum.,0,1905,,"Fl. Schutzgeb. Südsee , Nachtr.: 329 (1905)",,,,,,urn:lsid:ipni.org:names:90634-1,wfo-0000979377,3037659,,
+914af99e-8fcd-11eb-924d-9cd76263cbd0,species,ingens,Harmsiopanax,,Philipson,0,1973,,"Blumea 21: 84 (1973)",,Q96027616,,,,urn:lsid:ipni.org:names:90635-1,wfo-0000979378,3037660,,
+984d43e0-1d4a-11ec-82c2-f14daa6f2d93,subspecies,ingens,Harmsiopanax,ingens,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77168538-1,wfo-0000979379,,,
+610c66ba-1d4d-11ec-82c2-f14daa6f2d93,subspecies,moniliformis,Harmsiopanax,ingens,Philipson,,,,"Blumea 21: 86 (1973)",,,,,,urn:lsid:ipni.org:names:874497-1,wfo-0001363660,,,

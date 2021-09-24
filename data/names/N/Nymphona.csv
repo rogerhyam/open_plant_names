@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e769ea8e-8fd1-11eb-924d-9cd76263cbd0,genus,Nymphona,,,Bubani,Q684026,1901,,"Fl. Pyren. 3: 260. 1901.",,,,,,,wfo-4000026426,7326955,,
-38762c04-8fcc-11eb-924d-9cd76263cbd0,species,advena,Nymphona,,Nieuwl.,Q88145,1914,,"Amer. Midl. Naturalist 3: 295 1914",,Q55773181,,,,171247-2,wfo-0000380743,3697696,,
-387609fe-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Nymphona,,Bubani,Q684026,1901,,"Fl. Pyren. 3: 260 1901",,,,,,605749-1,wfo-0000380742,3697688,,
+e769ea8e-8fd1-11eb-924d-9cd76263cbd0,genus,Nymphona,,,Bubani,0,1901,,"Fl. Pyren. 3: 260 (1901)",,,,,,urn:lsid:ipni.org:names:30198675-2,wfo-4000026426,7326955,,
+38762c04-8fcc-11eb-924d-9cd76263cbd0,species,advena,Nymphona,,"(Aiton) Nieuwl.",0,1914,,"Amer. Midl. Naturalist 3: 295 (1914)",,Q55773181,,,,urn:lsid:ipni.org:names:171247-2,wfo-0000380743,3697696,,
+387609fe-8fcc-11eb-924d-9cd76263cbd0,species,lutea,Nymphona,,"(L.) Bubani",0,1901,,"Fl. Pyren. 3: 260 (1901)",,,,,,urn:lsid:ipni.org:names:605749-1,wfo-0000380742,3697688,,

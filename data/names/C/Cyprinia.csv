@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2672452-8fd1-11eb-924d-9cd76263cbd0,genus,Cyprinia,,,Browicz,Q11737735,1966,,"Feddes Repert. 72: 127. 1966.",,,,,,,wfo-4000010480,7311844,,
-db5ac2e0-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Cyprinia,,"(Boiss.) Browicz","Q34430,Q11737735",1966,,"Feddes Repert. 72: 128 1966",,Q55754655,,,,96759-1,wfo-0000634784,3572678,,
-7cce9aca-8fcd-11eb-924d-9cd76263cbd0,species,marianus,Cypripedilon,,"(Crantz) Rouy","Q112261,Q3103449",1894,,"J. Bot. (Morot) 8: 58 1894",,,,23888fc0-8fcd-11eb-924d-9cd76263cbd0,,625505-1,wfo-0000935123,2820527,,
+e2672452-8fd1-11eb-924d-9cd76263cbd0,genus,Cyprinia,,,Browicz,0,1966,,"Feddes Repert. 72: 127 (1966)",,,,,,urn:lsid:ipni.org:names:3303-1,wfo-4000010480,7311844,,
+db5ac2e0-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Cyprinia,,"(Boiss.) Browicz",0,1966,,"Feddes Repert. 72: 128 (1966)",,Q55754655,,,,urn:lsid:ipni.org:names:96759-1,wfo-0000634784,3572678,,
+7cce9aca-8fcd-11eb-924d-9cd76263cbd0,species,marianus,Cypripedilon,,Rouy,0,1894,,"J. Bot. (Morot) 8: 58 (1894)",,,,23888fc0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:625505-1,wfo-0000935123,2820527,,

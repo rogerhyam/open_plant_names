@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a67acfba-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gomphos,,,Kuntze,Q62853,1891,,"Revis. gen. pl. (Leipzig) 2: 853 (1891)",,,,a67acfba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17687," "
-352a7626-9bad-11eb-a8a2-19ed5c03f8d3,species,cinnamomeus,Gomphos,,"(L.) Kuntze","Q1043,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 478 (1898)",,,,1169c72e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,526572," "
-5afd8592-9bac-11eb-a8a2-19ed5c03f8d3,species,violaceus,Gomphos,,"(L.) Kuntze","Q1043,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3: 478 (1898)",,,,,,,,,526573," "
-8ed8edb0-8fcd-11eb-924d-9cd76263cbd0,species,chlorantha,Gomphosia,,Wedd.,Q983408,1848,,"Ann. Sci. Nat., Bot. III, 10: 14 1848",,,,,,751499-1,wfo-0000974256,2907995,,
-8ed90b24-8fcd-11eb-924d-9cd76263cbd0,species,goudotiana,Gomphosia,,Wedd.,Q983408,1848,,"Ann. Sci. Nat., Bot. III, 10: 14 1848",,,,,,751500-1,wfo-0000974257,2908003,,
-8ed94634-8fcd-11eb-924d-9cd76263cbd0,species,laxiflora,Gomphosia,,Benth.,Q731808,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 1853",,,,,,751501-1,wfo-0000974259,2907994,,
-8ed95fd4-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Gomphosia,,Benth.,Q731808,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 1853",,,,,,751502-1,wfo-0000974260,3847810,,
-30e01fe4-8fcd-11eb-924d-9cd76263cbd0,variety,densiflora,Gomphosia,longiflora,Benth.,Q731808,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 1853",,,,,,111853-2,wfo-0000795719,3847809,,
-8ed97ad2-8fcd-11eb-924d-9cd76263cbd0,variety,laxiflora,Gomphosia,longiflora,Benth.,Q731808,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 1853",,,,,,111854-2,wfo-0000974261,2907991,,
+a67acfba-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gomphos,,,Kuntze,0,1891,,"Revis. gen. pl. (Leipzig) 2: 853 (1891)",,,,a67acfba-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17687," "
+352a7626-9bad-11eb-a8a2-19ed5c03f8d3,species,cinnamomeus,Gomphos,,"(L.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3: 478 (1898)",,,,1169c72e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,526572," "
+5afd8592-9bac-11eb-a8a2-19ed5c03f8d3,species,violaceus,Gomphos,,"(L.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3: 478 (1898)",,,,,,,,,526573," "
+8ed8edb0-8fcd-11eb-924d-9cd76263cbd0,species,chlorantha,Gomphosia,,Wedd.,0,1848,,"Ann. Sci. Nat., Bot. , sér. 3, 10: 14 (1848)",,,,,,urn:lsid:ipni.org:names:751499-1,wfo-0000974256,2907995,,
+8ed90b24-8fcd-11eb-924d-9cd76263cbd0,species,goudotiana,Gomphosia,,Wedd.,0,1848,,"Ann. Sci. Nat., Bot. , sér. 3, 10: 14 (1848)",,,,,,urn:lsid:ipni.org:names:751500-1,wfo-0000974257,2908003,,
+8ed94634-8fcd-11eb-924d-9cd76263cbd0,species,laxiflora,Gomphosia,,Benth.,0,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 (1853)",,,,,,urn:lsid:ipni.org:names:751501-1,wfo-0000974259,2907994,,
+8ed95fd4-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Gomphosia,,Benth.,0,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 (1853)",,,,,,urn:lsid:ipni.org:names:751502-1,wfo-0000974260,3847810,,
+30e01fe4-8fcd-11eb-924d-9cd76263cbd0,variety,densiflora,Gomphosia,longiflora,Benth.,0,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 (1853)",,,,,,urn:lsid:ipni.org:names:111853-2,wfo-0000795719,3847809,,
+8ed97ad2-8fcd-11eb-924d-9cd76263cbd0,variety,laxiflora,Gomphosia,longiflora,Benth.,0,1853,,"Hooker's J. Bot. Kew Gard. Misc. 5: 232 (1853)",,,,,,urn:lsid:ipni.org:names:111854-2,wfo-0000974261,2907991,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e366b69c-8fd1-11eb-924d-9cd76263cbd0,genus,Eremolaena,,,Baill.,Q461931,1884,,"Bull. Mens. Soc. Linn. Paris 1: 413. 1884.",,,,,,7030-1,wfo-4000013719,7264599,,
-d7bcf108-8fcc-11eb-924d-9cd76263cbd0,species,boinensis,Eremolaena,,H.Perrier,Q2564623,1925,,"Bull. Soc. Bot. France 72: 311 1925",,Q55808738,,,,167653-1,wfo-0000628569,8002018,,
-de4c2fd4-8fd1-11eb-924d-9cd76263cbd0,species,darainensis,Eremolaena,,"Nusb. & Lowry","Q21522281,Q2792431",2014,,"Candollea 69(2): 184–187. 2014. (Candollea)",,,,,,,wfo-0001315258,9151982,,
-d7bd1728-8fcc-11eb-924d-9cd76263cbd0,species,humblotiana,Eremolaena,,Baill.,Q461931,1884,,"Bull. Mens. Soc. Linn. Paris 1: 413 1884",,,,,,167654-1,wfo-0000628570,3783146,,
-d7be0674-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Eremolaena,,"(F.Gérard) Danguy",Q18670396,1915,,"Bull. Mus. Natl. Hist. Nat. 21: 202 1915",,,,d7c8a4f8-8fcc-11eb-924d-9cd76263cbd0,,167655-1,wfo-0000628576,3783239,,
+e366b69c-8fd1-11eb-924d-9cd76263cbd0,genus,Eremolaena,,,Baill.,0,1884,,"Bull. Mens. Soc. Linn. Paris 1: 413 (1884)",,,,,,urn:lsid:ipni.org:names:7030-1,wfo-4000013719,7264599,,
+d7bcf108-8fcc-11eb-924d-9cd76263cbd0,species,boinensis,Eremolaena,,H.Perrier,0,1925,,"Bull. Soc. Bot. France 72: 311 (1925)",,Q55808738,,,,urn:lsid:ipni.org:names:167653-1,wfo-0000628569,8002018,,
+de4c2fd4-8fd1-11eb-924d-9cd76263cbd0,species,darainensis,Eremolaena,,"Nusb. & Lowry",0,2014,,"Candollea 69: 184 (2014)",,,,,,urn:lsid:ipni.org:names:77144432-1,wfo-0001315258,9151982,,
+d7bd1728-8fcc-11eb-924d-9cd76263cbd0,species,humblotiana,Eremolaena,,Baill.,0,1884,,"Bull. Mens. Soc. Linn. Paris 1: 413 (1884)",,,,,,urn:lsid:ipni.org:names:167654-1,wfo-0000628570,3783146,,
+d7be0674-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Eremolaena,,Danguy,0,1915,,"Bull. Mus. Natl. Hist. Nat. 21: 202 (1915)",,,,d7c8a4f8-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:167655-1,wfo-0000628576,3783239,,

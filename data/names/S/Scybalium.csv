@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea34d59e-8fd1-11eb-924d-9cd76263cbd0,genus,Scybalium,,,"Schott & Endl.","Q112191,Q78605",1832,,"Melet. Bot. 3. 1832.",,,,,,3856-1,wfo-4000034862,2889927,,
-dba1515a-8fcd-11eb-924d-9cd76263cbd0,species,depressum,Scybalium,,"(Hook.f.) Eichler","Q157501,Q62142",1873,,"Prodr. 17: 133 1873",,,,dba16e42-8fcd-11eb-924d-9cd76263cbd0,,103401-1,wfo-0001140476,4195255,,
-be48c94a-8fd1-11eb-924d-9cd76263cbd0,species,fungiforme,Scybalium,,"Schott & Endl.","Q112191,Q78605",1832,,"Melet. Bot. 3, pl. 2 1832",,,,,,103402-1,wfo-0001250852,4195245,,
-be4953c4-8fd1-11eb-924d-9cd76263cbd0,species,glaziovii,Scybalium,,Eichler,Q62142,1873,,"Prodr. 17: 133 1873",,,,,,231236-2,wfo-0001250855,4195220,,
-db9e946a-8fcd-11eb-924d-9cd76263cbd0,species,jamaicense,Scybalium,,"(Sw.) Schott & Endl.","Q632088,Q112191,Q78605",1832,,"Melet. Bot. 12: 1832",,,,,,1063421-2,wfo-0001140453,2889928,,
-89c67cf8-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Scyphaea,,C.Presl,Q379601,1829,,"Scyphaea 7 1829",,,,,,,wfo-0000500985,3712623,,
+ea34d59e-8fd1-11eb-924d-9cd76263cbd0,genus,Scybalium,,,"Schott & Endl.",0,1832,,"Melet. Bot. : 3 (1832)",,,,,,urn:lsid:ipni.org:names:3856-1,wfo-4000034862,2889927,,
+dba1515a-8fcd-11eb-924d-9cd76263cbd0,species,depressum,Scybalium,,Eichler,0,1873,,"Prodr. 17: 133 (1873)",,,,dba16e42-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:103401-1,wfo-0001140476,4195255,,
+be48c94a-8fd1-11eb-924d-9cd76263cbd0,species,fungiforme,Scybalium,,"Schott & Endl.",0,1832,,"Melet. Bot. : 3 (1832)",,,,,,urn:lsid:ipni.org:names:103402-1,wfo-0001250852,4195245,,
+be4953c4-8fd1-11eb-924d-9cd76263cbd0,species,glaziovii,Scybalium,,Eichler,0,1873,,"Prodr. 17: 133 (1873)",,,,,,urn:lsid:ipni.org:names:231236-2,wfo-0001250855,4195220,,
+db9e946a-8fcd-11eb-924d-9cd76263cbd0,species,jamaicense,Scybalium,,"(Sw.) Schott & Endl.",0,1832,,"Melet. Bot. : 12 (1832)",,,,,,urn:lsid:ipni.org:names:1063421-2,wfo-0001140453,2889928,,

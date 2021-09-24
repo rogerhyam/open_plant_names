@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3b1098-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraselago,,,Junell,Q21517171,1961,,"Svensk Bot. Tidskr. 55: 190. 1961. (2 Jun 1961)",,,,,,38052-1,wfo-4000037985,7331838,,
-da5b8cac-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Tetraselago,,"Hilliard & B.L.Burtt","Q7087177,Q3286276",,,,,,,,,,wfo-0001138036,3726718,,
-da5bc3ac-8fcd-11eb-924d-9cd76263cbd0,species,natalensis,Tetraselago,,"(Rolfe) Junell","Q2635543,Q21517171",,,,,,,,,,wfo-0001138038,3726711,,
-da5bfc5a-8fcd-11eb-924d-9cd76263cbd0,species,nelsonii,Tetraselago,,"Hilliard & B.L.Burtt","Q7087177,Q3286276",,,,,,,,,,wfo-0001138040,3726704,,
-da5c3166-8fcd-11eb-924d-9cd76263cbd0,species,wilmsii,Tetraselago,,"Hilliard & B.L.Burtt","Q7087177,Q3286276",,,,,,,,,,wfo-0001138042,3726697,,
+eb3b1098-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraselago,,,Junell,0,1961,,"Svensk Bot. Tidskr. 55: 190 (1961)",,,,,,urn:lsid:ipni.org:names:38052-1,wfo-4000037985,7331838,,
+da5b8cac-8fcd-11eb-924d-9cd76263cbd0,species,longituba,Tetraselago,,"(Rolfe) Hilliard & B.L.Burtt",0,,,"Notes Roy. Bot. Gard. Edinburgh 35: 176 (1977)",,,,,,urn:lsid:ipni.org:names:810293-1,wfo-0001138036,3726718,,
+da5bc3ac-8fcd-11eb-924d-9cd76263cbd0,species,natalensis,Tetraselago,,"(Rolfe) Junell",0,,,"Svensk Bot. Tidskr. 55: 190 (1961)",,,,,,urn:lsid:ipni.org:names:810294-1,wfo-0001138038,3726711,,
+da5bfc5a-8fcd-11eb-924d-9cd76263cbd0,species,nelsonii,Tetraselago,,"(Rolfe) Hilliard & B.L.Burtt",0,,,"Notes Roy. Bot. Gard. Edinburgh 35: 176 (1977)",,,,,,urn:lsid:ipni.org:names:810295-1,wfo-0001138040,3726704,,
+da5c3166-8fcd-11eb-924d-9cd76263cbd0,species,wilmsii,Tetraselago,,"(Rolfe) Hilliard & B.L.Burtt",0,,,"Notes Roy. Bot. Gard. Edinburgh 35: 177 (1977)",,,,,,urn:lsid:ipni.org:names:810296-1,wfo-0001138042,3726697,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea25cdec-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadopitys,,,"Siebold & Zucc.","Q77140,Q77121",1842,,"Fl. Jap. 2(1): 1. 1842.",,,,,,11700-1,wfo-4000034668,2684903,,
-871a8990-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Sciadopitys,,"(Thunb.) Siebold & Zucc.","Q39658,Q77140,Q77121",1842,,"Fl. Jap. 2(1): 3 1842",,,,,,263735-1,wfo-0000496714,2684904,,
-156a162a-8fcd-11eb-924d-9cd76263cbd0,variety,pendula,Sciadopitys,verticillata,Bean,Q2981095,1914,,"Trees Shrubs Brit. Isl. 2: 507 1914",,,,,,,wfo-0000737237,8094849,,
-156a35e2-8fcd-11eb-924d-9cd76263cbd0,variety,variegata,Sciadopitys,verticillata,Gordon,Q2981722,1862,,"Pinetum Suppl.: 96 1862",,,,,,,wfo-0000737238,7914819,,
+ea25cdec-8fd1-11eb-924d-9cd76263cbd0,genus,Sciadopitys,,,"Siebold & Zucc.",0,1842,,"Fl. Jap. 2: t. 101 (1842)",,,,,,urn:lsid:ipni.org:names:11700-1,wfo-4000034668,2684903,,
+871a8990-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Sciadopitys,,"(Thunb.) Siebold & Zucc.",0,1842,,"Fl. Jap. 2(1): 3 (1842)",,,,,,urn:lsid:ipni.org:names:263735-1,wfo-0000496714,2684904,,
+156a162a-8fcd-11eb-924d-9cd76263cbd0,variety,pendula,Sciadopitys,verticillata,Bean,0,1914,,"Trees Shrubs Brit. Isl. 2: 507 1914",,,,,,,wfo-0000737237,8094849,,
+156a35e2-8fcd-11eb-924d-9cd76263cbd0,variety,variegata,Sciadopitys,verticillata,Gordon,0,1862,,"Pinetum Suppl.: 96 1862",,,,,,,wfo-0000737238,7914819,,

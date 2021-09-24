@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80229b6-8fd1-11eb-924d-9cd76263cbd0,genus,Parasopubia,,,"H.-P.Hofm. & Eb.Fisch.","Q26713845,Q13505787",,,,,Q55762205,,,,60434253-2,wfo-4000028159,7331901,,
-7baf7c28-8fcc-11eb-924d-9cd76263cbd0,species,bonatii,Parasopubia,,"H.-P.Hofm. & Eb.Fisch.","Q26713845,Q13505787",2004,,"Bot. Jahrb. Syst. 125: 363 2004",,Q55762205,,,,60434255-2,wfo-0000476983,3727208,,
-ae4f517a-8fcd-11eb-924d-9cd76263cbd0,species,delphiniifolia,Parasopubia,,"(L.) H.-P.Hofm. & Eb.Fisch.","Q1043,Q26713845,Q13505787",2004,,"Bot. Jahrb. Syst. 125(3): 357 2004",,Q55762205,,,,60434254-2,wfo-0001039863,,,
+e80229b6-8fd1-11eb-924d-9cd76263cbd0,genus,Parasopubia,,,"H.-P.Hofm. & Eb.Fisch.",0,,,"Bot. Jahrb. Syst. 125: 357 (2004)",,Q55762205,,,,urn:lsid:ipni.org:names:60434253-2,wfo-4000028159,7331901,,
+7baf7c28-8fcc-11eb-924d-9cd76263cbd0,species,bonatii,Parasopubia,,"H.-P.Hofm. & Eb.Fisch.",0,2004,,"Bot. Jahrb. Syst. 125: 363 (2004)",,Q55762205,,,,urn:lsid:ipni.org:names:60434255-2,wfo-0000476983,3727208,,
+ae4f517a-8fcd-11eb-924d-9cd76263cbd0,species,delphiniifolia,Parasopubia,,"(L.) H.-P.Hofm. & Eb.Fisch.",0,2004,,"Bot. Jahrb. Syst. 125: 357 (2004)",,Q55762205,,,,urn:lsid:ipni.org:names:60434254-2,wfo-0001039863,,,
+4cf44260-1d4d-11ec-82c2-f14daa6f2d93,species,hofmannii,Parasopubia,,"Pradeep & Pramod",,,,"Candollea 68: 116 (2013)",,,,,,urn:lsid:ipni.org:names:77130408-1,wfo-0001336422,,,
+7c8d4a94-1d4d-11ec-82c2-f14daa6f2d93,variety,albiflora,Parasopubia,hofmannii,"Pradeep & Pramod",,,,"Candollea 68(1): 119. 2013 [12 Jul 2013]",,,,,,urn:lsid:ipni.org:names:77130409-1,wfo-0001400372,,,

@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4cc04b0-8fd1-11eb-924d-9cd76263cbd0,genus,Hollandaea,,,F.Muell.,Q708002,1887,,"Chem. Drug. Australasia 173. 1887.",,,,,,32928-1,wfo-4000018061,7287281,,
-0ea38d12-8fcd-11eb-924d-9cd76263cbd0,species,lamingtoniana,Hollandaea,,F.M.Bailey,Q2659122,1899,,"Queensland Agric. J. 5: 390 1899",,,,,,704542-1,wfo-0000724262,3996634,,
-0ea3aa0e-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Hollandaea,,B.Hyland,Q4893242,1995,,"in Fl. Australia 16: 499 1995",,,,,,990242-1,wfo-0000724263,3996617,,
-0ea3c5b6-8fcd-11eb-924d-9cd76263cbd0,species,sayeri,Hollandaea,,F.Muell.,Q708002,1887,,"Australas. Chem. Druggist 2: 173 1887",,,,,,704543-1,wfo-0000724264,3996600,,
-ac88a526-8fcd-11eb-924d-9cd76263cbd0,species,sayeriana,Hollandaea,,"(F.Muell.) L.S.Sm.","Q708002,Q2884481",1956,,"Proc. Roy. Soc. Queensland 67: 38 1956",,,,ac88c11e-8fcd-11eb-924d-9cd76263cbd0,,704544-1,wfo-0001035813,3996582,,
+e4cc04b0-8fd1-11eb-924d-9cd76263cbd0,genus,Hollandaea,,,F.Muell.,0,1887,,"Australas. Chem. Druggist 2: 173 (1887)",,,,,,urn:lsid:ipni.org:names:32928-1,wfo-4000018061,7287281,,
+4bb817aa-1d4d-11ec-82c2-f14daa6f2d93,species,diabolica,Hollandaea,,"A.J.Ford & P.H.Weston",,,,"Austrobaileya 8: 674 (2012)",,,,,,urn:lsid:ipni.org:names:77124882-1,wfo-0001334746,,,
+0ea38d12-8fcd-11eb-924d-9cd76263cbd0,species,lamingtoniana,Hollandaea,,F.M.Bailey,0,1899,,"Queensland Agric. J. 1899, v. 390.",,,,,,urn:lsid:ipni.org:names:704542-1,wfo-0000724262,3996634,,
+4bb83bf4-1d4d-11ec-82c2-f14daa6f2d93,species,porphyrocarpa,Hollandaea,,"A.J.Ford & P.H.Weston",,,,"Austrobaileya 8: 678 (2012)",,,,,,urn:lsid:ipni.org:names:77124883-1,wfo-0001334747,,,
+0ea3aa0e-8fcd-11eb-924d-9cd76263cbd0,species,riparia,Hollandaea,,B.Hyland,0,1995,,"Fl. Australia 16: 499 (1995)",,,,,,urn:lsid:ipni.org:names:990242-1,wfo-0000724263,3996617,,
+0ea3c5b6-8fcd-11eb-924d-9cd76263cbd0,species,sayeri,Hollandaea,,F.Muell.,0,1887,,"Australas. Chem. Druggist 2: 173 (1887)",,,,,,urn:lsid:ipni.org:names:704543-1,wfo-0000724264,3996600,,
+ac88a526-8fcd-11eb-924d-9cd76263cbd0,species,sayeriana,Hollandaea,,"(F.Muell.) L.S.Sm.",0,1956,,"Proc. Roy. Soc. Queensland 67: 38 (1956)",,,,ac88c11e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:704544-1,wfo-0001035813,3996582,,

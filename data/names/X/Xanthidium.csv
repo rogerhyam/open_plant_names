@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec1ccd12-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthidium,,,Ehrenb.,Q76549,1838,,"K. VetHojsk. Aarsskr. 1: fig. 16 (1838)",,,,ec1ccd12-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000040866,,24044," "
-352e5da6-8fb2-11eb-924d-9cd76263cbd0,species,ambrosioides,Xanthidium,,"(Cav.) Delpino","Q545430,Q1400463",1871,,"Studi sopra Artemis. 63 (1871).",,,,3f3ec804-8fbb-11eb-924d-9cd76263cbd0,,1143945-2,wfo-0000015919,5393214,,
-2656319a-8fb3-11eb-924d-9cd76263cbd0,species,artemisioides,Xanthidium,,Delpino,Q1400463,1871,,"Studi sopra Artemis. 63 (1871).",,,,,,260778-1,wfo-0000042639,5697442,,
-16c9faba-8fb6-11eb-924d-9cd76263cbd0,species,discolor,Xanthidium,,"(Nutt.) Delpino","Q728337,Q1400463",1871,,"Studi sopra Artemis. 63 (1871).",,,,,,260779-1,wfo-0000085535,5697441,,
-ced0190c-8fb4-11eb-924d-9cd76263cbd0,species,rhombophyllum,Xanthidium,,Delpino,Q1400463,1871,,"Studi sopra Artemis. 64 (1871).",,,,,,260780-1,wfo-0000070128,5697438,,
-e3c36d5e-8fb5-11eb-924d-9cd76263cbd0,species,tenuifolium,Xanthidium,,"(Harv. & A.Gray) Delpino","Q1378128,Q347356,Q1400463",1871,,"Studi sopra Artemis. 62 (1871).",,,,,,260781-1,wfo-0000083334,5697436,,
-6225086c-9bad-11eb-a8a2-19ed5c03f8d3,species,tubiferum,Xanthidium,,Ehrenb.,Q76549,1838,,"K. VetHojsk. Aarsskr. 1: fig. 16 (1838)",,,,6225086c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,444317," "
+ec1ccd12-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthidium,,,Delpino,0,1838,,"Unknown 62 (1871)",,,,ec1ccd12-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11555-1,wfo-4000040866,,24044," "
+352e5da6-8fb2-11eb-924d-9cd76263cbd0,species,ambrosioides,Xanthidium,,Delpino,0,1871,,"Unknown : 63 (1871)",,,,3f3ec804-8fbb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1143945-2,wfo-0000015919,5393214,,
+2656319a-8fb3-11eb-924d-9cd76263cbd0,species,artemisioides,Xanthidium,,Delpino,0,1871,,"Unknown 63 (1871)",,,,,,urn:lsid:ipni.org:names:260778-1,wfo-0000042639,5697442,,
+16c9faba-8fb6-11eb-924d-9cd76263cbd0,species,discolor,Xanthidium,,Delpino,0,1871,,"Unknown 63 (1871)",,,,,,urn:lsid:ipni.org:names:260779-1,wfo-0000085535,5697441,,
+ced0190c-8fb4-11eb-924d-9cd76263cbd0,species,rhombophyllum,Xanthidium,,Delpino,0,1871,,"Unknown 64 (1871).",,,,,,urn:lsid:ipni.org:names:260780-1,wfo-0000070128,5697438,,
+e3c36d5e-8fb5-11eb-924d-9cd76263cbd0,species,tenuifolium,Xanthidium,,Delpino,0,1871,,"Unknown 62 (1871)",,,,,,urn:lsid:ipni.org:names:260781-1,wfo-0000083334,5697436,,
+6225086c-9bad-11eb-a8a2-19ed5c03f8d3,species,tubiferum,Xanthidium,,Ehrenb.,0,1838,,"K. VetHojsk. Aarsskr. 1: fig. 16 (1838)",,,,6225086c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,444317," "

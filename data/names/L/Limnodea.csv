@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5ef3236-8fd1-11eb-924d-9cd76263cbd0,genus,Limnodea,,,L.H.Dewey,Q577009,1894,,"Contr. U.S. Natl. Herb. 2(3): 518. 1894.",,Q95371785,,,,18407-1,wfo-4000021784,2705458,,
-5739fdd6-8fcd-11eb-924d-9cd76263cbd0,species,arkansana,Limnodea,,"(Nutt.) Dewey","Q728337,Q4171766",1894,,"Contr. U. S. Natl. Herb. 2: 518 1894",,Q95371785,,,,407368-1,wfo-0000878281,2705459,,
-573a1a78-8fcd-11eb-924d-9cd76263cbd0,variety,pilosa,Limnodea,arkansana,"(Vasey) Scribn.","Q3036247,Q2458459",1900,,"Bull. Div. Agrostol. U.S.D.A. 7(ed. 3): 139 1900",,,,,,140262-2,wfo-0000878282,4134091,,
-af7e5c1a-8fbb-11eb-924d-9cd76263cbd0,species,abyssinicum,Limnogenneton,,Sch.Bip.,Q65685,1846,,"in Repert. Bot. Syst. (Walpers) vi. 147 (1846-47)",,,,,,230905-1,wfo-0000135950,3144390,,
+e5ef3236-8fd1-11eb-924d-9cd76263cbd0,genus,Limnodea,,,"Dewey ex J.M.Coult.",0,1894,,"Contr. U.S. Natl. Herb. 2: 518 (1894)",,Q95371785,,,,urn:lsid:ipni.org:names:18407-1,wfo-4000021784,2705458,,
+5739fdd6-8fcd-11eb-924d-9cd76263cbd0,species,arkansana,Limnodea,,Dewey,0,1894,,"Contr. U.S. Natl. Herb. ii. (1894) 518.",,Q95371785,,,,urn:lsid:ipni.org:names:407368-1,wfo-0000878281,2705459,,
+1abac328-1d4d-11ec-82c2-f14daa6f2d93,variety,arkansana,Limnodea,arkansana,,,,,,,,,,,,wfo-0001255367,,,
+573a1a78-8fcd-11eb-924d-9cd76263cbd0,variety,pilosa,Limnodea,arkansana,Scribn.,0,1900,,"Bull. Div. Agrostol. U.S.D.A. 7(ed. 3): 139 (1900)",,,,,,urn:lsid:ipni.org:names:140262-2,wfo-0000878282,4134091,,
+af7e5c1a-8fbb-11eb-924d-9cd76263cbd0,species,abyssinicum,Limnogenneton,,Sch.Bip.,0,1846,,"Repert. Bot. Syst. vi. 147 (1846-47)",,,,,,urn:lsid:ipni.org:names:230905-1,wfo-0000135950,3144390,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e798d8a8-8fd1-11eb-924d-9cd76263cbd0,genus,Opizia,,,J.Presl,Q379593,1830,,"Reliq. Haenk. 1(4–5): 293, pl. 41, f. 1–11. 1830.",,,,,,,wfo-4000026981,7513805,,
-58f27888-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Opizia,,McVaugh,Q2063048,1983,,"in Fl. Novo-Galiciana 14: 269 1983",,,,,,318200-2,wfo-0000881994,4144259,,
-3d3a5a26-8fcc-11eb-924d-9cd76263cbd0,species,bursoides,Opizia,,Raf.,Q364857,1837,,"New Fl. 2: 29 1837",,,,,,287862-1,wfo-0000386615,3693417,,
-58f2a4fc-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Opizia,,Hack.,Q2209907,1906,,"Nat. Pflanzenfam. Nachtr. 1: 44 1906",,,,,,409792-1,wfo-0000881995,4144240,,
-58f2d652-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Opizia,,J.Presl,Q379593,1830,,"Reliq. Haenk. 1: 293 1830",,,,,,318207-2,wfo-0000881996,2703060,,
-3d3f51b6-8fcc-11eb-924d-9cd76263cbd0,species,ferox,Oplexion,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 86 1838",,,,,,119916-1,wfo-0000386642,4066537,,
+e798d8a8-8fd1-11eb-924d-9cd76263cbd0,genus,Opizia,,,J.Presl,0,1830,,"Reliq. Haenk. 1: 293 (1830)",,,,,,urn:lsid:ipni.org:names:18615-1,wfo-4000026981,7513805,,
+58f27888-8fcd-11eb-924d-9cd76263cbd0,species,bracteata,Opizia,,McVaugh,0,1983,,"Fl. Novo-Galiciana 14: 269 (1983)",,,,,,urn:lsid:ipni.org:names:318200-2,wfo-0000881994,4144259,,
+3d3a5a26-8fcc-11eb-924d-9cd76263cbd0,species,bursoides,Opizia,,Raf.,0,1837,,"New Fl. [Rafinesque] ii. 29 (1836).",,,,,,urn:lsid:ipni.org:names:287862-1,wfo-0000386615,3693417,,
+58f2a4fc-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Opizia,,Hack.,0,1906,,"Nat. Pflanzenfam. Nachtr. [Engler & Prantl] I. 44.",,,,,,urn:lsid:ipni.org:names:409792-1,wfo-0000881995,4144240,,
+58f2d652-8fcd-11eb-924d-9cd76263cbd0,species,stolonifera,Opizia,,J.Presl,0,1830,,"Reliq. Haenk. 1: 293 (1830)",,,,,,urn:lsid:ipni.org:names:318207-2,wfo-0000881996,2703060,,
+3d3f51b6-8fcc-11eb-924d-9cd76263cbd0,species,ferox,Oplexion,,Raf.,0,1838,,"Fl. Tellur. 4: 86 (1838)",,,,,,urn:lsid:ipni.org:names:119916-1,wfo-0000386642,4066537,,

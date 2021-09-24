@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-d0bf52de-9a07-11eb-a8a2-19ed5c03f8d3,genus,Warpuria,,,Stapf,Q78630,1908,,"Bull. Misc. Inform. Kew 1908(6): 260",,Q55781483,,,,1023-1,,,,
-b05858d6-8fcd-11eb-924d-9cd76263cbd0,species,clandestina,Warpuria,,Stapf,Q78630,1908,,"Bull. Misc. Inform. Kew 261 1908",,Q55781483,,,,56550-1,wfo-0001044490,3770926,,
-b0511fee-8fcd-11eb-924d-9cd76263cbd0,species,serotina,Warpuria,,Benoist,Q4083881,1948,,"Notul. Syst. (Paris) 13: 195–196 1948",,,,,,56551-1,wfo-0001044426,3770914,,
+d0bf52de-9a07-11eb-a8a2-19ed5c03f8d3,genus,Warpuria,,,Stapf,0,1908,,"Bull. Misc. Inform. Kew 1908(6): 260",,Q55781483,,,,1023-1,,,,
+b05858d6-8fcd-11eb-924d-9cd76263cbd0,species,clandestina,Warpuria,,Stapf,0,1908,,"Bull. Misc. Inform. Kew 1908: 261 (1908)",,Q55781483,,,,urn:lsid:ipni.org:names:56550-1,wfo-0001044490,3770926,,
+b0511fee-8fcd-11eb-924d-9cd76263cbd0,species,serotina,Warpuria,,Benoist,0,1948,,"Notul. Syst. (Paris) 13: 195 (1948)",,,,,,urn:lsid:ipni.org:names:56551-1,wfo-0001044426,3770914,,

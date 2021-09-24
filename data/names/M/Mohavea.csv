@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6d24076-8fd1-11eb-924d-9cd76263cbd0,genus,Mohavea,,,A.Gray,Q347356,1857,,"Pacif. Railr. Rep. 4(5): 122. 1857.",,,,,,37832-1,wfo-4000024545,9471870,,
-d9cc0938-8fcd-11eb-924d-9cd76263cbd0,species,breviflora,Mohavea,,Coville,Q535104,1893,,"Contr. U.S. Natl. Herb. 4: 168–169, pl. 17 1893",,Q95371794,,,,162976-2,wfo-0001136907,3171912,,
-d9cc2698-8fcd-11eb-924d-9cd76263cbd0,species,confertiflora,Mohavea,,"(Benth.) A.Heller","Q731808,Q2373009",1912,,"Muhlenbergia 8(4): 48 1912",,,,,,162977-2,wfo-0001136908,,,
-6c7616a4-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Mohavea,,Baill.,Q461931,1888,,"Hist. Pl. 9: 438 1888",,,,,,806154-1,wfo-0000451094,3738659,,
-6c763328-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Mohavea,,A.Gray,Q347356,1857,,"Pacif. Railr. Rep. Parke, Bot. 4(5): 122 1857",,,,,,,wfo-0000451095,7921672,,
+e6d24076-8fd1-11eb-924d-9cd76263cbd0,genus,Mohavea,,,A.Gray,0,1857,,"Pacif. Railr. Rep. Whipple, Bot. 4(5; 4): 122 (1857)",,,,,,urn:lsid:ipni.org:names:37832-1,wfo-4000024545,9471870,,
+d9cc0938-8fcd-11eb-924d-9cd76263cbd0,species,breviflora,Mohavea,,Coville,0,1893,,"Contr. U.S. Natl. Herb. 4: 168 (1893)",,Q95371794,,,,urn:lsid:ipni.org:names:162976-2,wfo-0001136907,3171912,,
+d9cc2698-8fcd-11eb-924d-9cd76263cbd0,species,confertiflora,Mohavea,,"(Benth.) A.Heller",0,1912,,"Muhlenbergia 8: 48. 1912",,,,,,urn:lsid:ipni.org:names:162977-2,wfo-0001136908,,,
+6c7616a4-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Mohavea,,Baill.,0,1888,,"Hist. Pl. (Baillon) 9: 438. 1888 [Feb-Mar 1888]",,,,,,urn:lsid:ipni.org:names:806154-1,wfo-0000451094,3738659,,
+6c763328-8fcc-11eb-924d-9cd76263cbd0,species,viscida,Mohavea,,A.Gray,0,1857,,"Pacif. Railr. Rep. Whipple, Bot. 4(5; 4): 122 (1857)",,,,,,urn:lsid:ipni.org:names:806153-1,wfo-0000451095,7921672,,

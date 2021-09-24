@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eba0c6f4-8fd1-11eb-924d-9cd76263cbd0,genus,Triplocoma,,,,,,,,,,,,,,wfo-4000039289,4900615,,
-e51de59a-8fcd-11eb-924d-9cd76263cbd0,species,polytrichoides,Triplocoma,,"(R.Br.) Bach.Pyl.","Q155764,Q942867",1814,,"J. Bot. Agric. 3(5): 7 1814",,,,deb06926-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001160854,8129422,,
-461cd7c6-8fcd-11eb-924d-9cd76263cbd0,species,triploideum,,,"(Bowden) Bowden",Q21339686,1967,,"Canad. J. Bot. 45: 719 1967",,Q95998079,,462c6542-8fcd-11eb-924d-9cd76263cbd0,,400106-1,wfo-0000841059,,,
-462c6542-8fcd-11eb-924d-9cd76263cbd0,species,triploideum,,,Bowden,Q21339686,1958,,"Canad. J. Bot. 36: 107 1958",,,,,,400128-1,wfo-0000841192,,,
-ca5ee5c4-8fcd-11eb-924d-9cd76263cbd0,species,cumingii,Triplolepis,,Turcz.,Q2640364,1848,,"Bull. Soc. Imp. Naturalistes Moscou 21(1): 251 1848",,,,,,102339-1,wfo-0001102817,3580937,,
-52235f96-8fcc-11eb-924d-9cd76263cbd0,species,montana,Triplomeia,,Raf.,Q364857,1838,,"Sylva Tellur. 135 1838",,,,,,468994-1,wfo-0000413431,4181977,,
-d3d834bc-8fd1-11eb-924d-9cd76263cbd0,species,pinifolium,Triplopetalum,,Nyár.,Q720666,1925,,"Magyar Bot. Lapok 24: 97 1925",,,,,,,wfo-0001285196,3045146,,
+e51de59a-8fcd-11eb-924d-9cd76263cbd0,species,polytrichoides,Triplocoma,,"(R.Br.) Bach.Pyl.",0,1814,,"J. Bot. Agric. 3(5): 7 1814",,,,deb06926-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001160854,8129422,,
+ca5ee5c4-8fcd-11eb-924d-9cd76263cbd0,species,cumingii,Triplolepis,,Turcz.,0,1848,,"Bull. Soc. Imp. Naturalistes Moscou 21(I): 251 (1848)",,,,,,urn:lsid:ipni.org:names:102339-1,wfo-0001102817,3580937,,
+52235f96-8fcc-11eb-924d-9cd76263cbd0,species,montana,Triplomeia,,Raf.,0,1838,,"Sylva Tellur. : 135 (1838)",,,,,,urn:lsid:ipni.org:names:468994-1,wfo-0000413431,4181977,,
+d3d834bc-8fd1-11eb-924d-9cd76263cbd0,species,pinifolium,Triplopetalum,,Nyar.,0,1925,,"Magyar Bot. Lapok 24: 97 (1925 publ. 1926)",,,,,,urn:lsid:ipni.org:names:290867-1,wfo-0001285196,3045146,,

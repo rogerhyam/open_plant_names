@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a38079f4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Englerodothis,,,"Theiss. & Syd.",,1915,,"Annls mycol. 13(3/4): 285 (1915)",,,,a38079f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1818," "
-0cd159e8-9bac-11eb-a8a2-19ed5c03f8d3,species,grovei,Englerodothis,,"(Sacc.) E. Castell.",Q707840,1948,,"Nuovo Giorn. Bot. Ital. 55: 66 (1948)",,,,100e7672-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286337," "
-6170c77c-9bac-11eb-a8a2-19ed5c03f8d3,species,kilimandscharica,Englerodothis,,"(Henn.) Theiss. & Syd.",Q4497246,1915,,"Annls mycol. 13(3/4): 285 (1915)",,,,ab579734-9bad-11eb-a8a2-19ed5c03f8d3,,,,,150008," "
+0cd159e8-9bac-11eb-a8a2-19ed5c03f8d3,species,grovei,Englerodothis,,"(Sacc.) E. Castell.",0,1948,,"Nuovo Giorn. Bot. Ital. 55: 66 (1948)",,,,100e7672-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286337," "
+6170c77c-9bac-11eb-a8a2-19ed5c03f8d3,species,kilimandscharica,Englerodothis,,"(Henn.) Theiss. & Syd.",0,1915,,"Annls mycol. 13(3/4): 285 (1915)",,,,ab579734-9bad-11eb-a8a2-19ed5c03f8d3,,,,,150008," "
 6a3f6a9c-9bad-11eb-a8a2-19ed5c03f8d3,species,oleae,Englerodothis,,"Dulym., Sivan., P.F. Cannon & Peerally",,2001,,"in Dulymamode, Cannon & Sivanesan, Mycol. Res. 105(2): 247 (2001)",,,,6a3f6a9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,466530," "
-ee83434c-8fcc-11eb-924d-9cd76263cbd0,species,alata,Englerodoxa,,Hoerold,Q21340595,1909,,"Bot. Jahrb. Syst. 42: 311 1909",,,,,,91034-2,wfo-0000668006,4169993,,
-ee839c98-8fcc-11eb-924d-9cd76263cbd0,species,alberti-smithii,Englerodoxa,,Sleumer,Q73160,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 57 1934",,Q55777708,,,,91035-2,wfo-0000668007,4169981,,
-ee83fe0e-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Englerodoxa,,A.C.Sm.,Q1922675,1932,,"Contr. U. S. Natl. Herb. 28: 351 1932",,Q95371682,,,,91036-2,wfo-0000668009,4169967,,
-ee841e70-8fcc-11eb-924d-9cd76263cbd0,species,loranthiflora,Englerodoxa,,"(Benth.) A.C.Sm.","Q731808,Q1922675",1932,,"Contr. U. S. Natl. Herb. 28: 352 1932",,Q95371682,,,,91037-2,wfo-0000668010,4169944,,
+ee83434c-8fcc-11eb-924d-9cd76263cbd0,species,alata,Englerodoxa,,Hoerold,0,1909,,"Bot. Jahrb. Syst. 42: 311 (1909)",,,,,,urn:lsid:ipni.org:names:91034-2,wfo-0000668006,4169993,,
+ee839c98-8fcc-11eb-924d-9cd76263cbd0,species,alberti-smithii,Englerodoxa,,Sleumer,0,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 57 (1934)",,Q55777708,,,,urn:lsid:ipni.org:names:91035-2,wfo-0000668007,4169981,,
+ee83fe0e-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Englerodoxa,,A.C.Sm.,0,1932,,"Contr. U.S. Natl. Herb. 28: 351 (1932)",,Q95371682,,,,urn:lsid:ipni.org:names:91036-2,wfo-0000668009,4169967,,
+ee841e70-8fcc-11eb-924d-9cd76263cbd0,species,loranthiflora,Englerodoxa,,A.C.Sm.,0,1932,,"Contr. U.S. Natl. Herb. 28: 352 (1932)",,Q95371682,,,,urn:lsid:ipni.org:names:91037-2,wfo-0000668010,4169944,,

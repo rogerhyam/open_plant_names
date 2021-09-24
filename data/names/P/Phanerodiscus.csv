@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85620de-8fd1-11eb-924d-9cd76263cbd0,genus,Phanerodiscus,,,Cavaco,Q8193512,1954,,"Notul. Syst. (Paris) 15: 11. 1954. (Dec 1954)",,,,,,28254-1,wfo-4000029111,7326471,,
-7b7155ce-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Phanerodiscus,,"Malécot, G.E.Schatz & Bosser","Q33133959,Q5488741,Q2917630",2003,,"Adansonia III, 25: 126 2003",,,,,,70028691-1,wfo-0000476530,3685753,,
-b1f341d4-8fd1-11eb-924d-9cd76263cbd0,species,diospyroidea,Phanerodiscus,,Capuron,Q2348654,1962,,"Adansonia, n.s. 2: 128 1962",,Q58837861,,,,608205-1,wfo-0001228149,3685744,,
-c344f5b2-8fcd-11eb-924d-9cd76263cbd0,species,perrieri,Phanerodiscus,,Cavaco,Q8193512,1954,,"Notul. Syst. (Paris) 15: 11, t. 1 1954",,,,,,,wfo-0001087296,3685738,,
-c34b43b8-8fcd-11eb-924d-9cd76263cbd0,variety,orientalis,Phanerodiscus,perrieri,"Cavaco & Keraudren","Q8193512,Q10331852",1963,,"Bull. Soc. Bot. France 110: 248 1963",,,,,,,wfo-0001087350,7481296,,
+e85620de-8fd1-11eb-924d-9cd76263cbd0,genus,Phanerodiscus,,,Cavaco,0,1954,,"Notul. Syst. (Paris) 15: 11 (1955)",,,,,,urn:lsid:ipni.org:names:28254-1,wfo-4000029111,7326471,,
+7b7155ce-8fcc-11eb-924d-9cd76263cbd0,species,capuronii,Phanerodiscus,,"Malécot, G.E.Schatz & Bosser",0,2003,,"Adansonia , sér. 3, 25: 126 (2003)",,,,,,urn:lsid:ipni.org:names:70028691-1,wfo-0000476530,3685753,,
+b1f341d4-8fd1-11eb-924d-9cd76263cbd0,species,diospyroidea,Phanerodiscus,,Capuron,0,1962,,"Adansonia , n.s., 2: 128 (1962)",,Q58837861,,,,urn:lsid:ipni.org:names:608205-1,wfo-0001228149,3685744,,
+c344f5b2-8fcd-11eb-924d-9cd76263cbd0,species,perrieri,Phanerodiscus,,Cavaco,0,1954,,"Notul. Syst. (Paris) 15: 11 (1955)",,,,,,urn:lsid:ipni.org:names:608206-1,wfo-0001087296,3685738,,
+c34b43b8-8fcd-11eb-924d-9cd76263cbd0,variety,orientalis,Phanerodiscus,perrieri,"Cavaco & Keraudren",0,1963,,"Bull. Soc. Bot. France 110: 248 1963",,,,,,,wfo-0001087350,7481296,,

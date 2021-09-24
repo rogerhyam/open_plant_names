@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e81d6d16-8fd1-11eb-924d-9cd76263cbd0,genus,Peltanthera,,,Benth.,Q731808,,,,,,,,,331836-2,wfo-4000028493,3233443,,
-bd4f2150-8fcd-11eb-924d-9cd76263cbd0,species,costaricensis,Peltanthera,,"(Standl. & Steyerm.) Cuatrec.","Q1333160,Q250148,Q3088960",1951,,"Fieldiana, Bot. 27(2): 98 1951",,,,,,186967-2,wfo-0001074157,5659290,,
-bd386820-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Peltanthera,,Benth.,Q731808,1876,,"Gen. Pl. 2: 797 1876",,,,,,546871-1,wfo-0001073963,5659289,,
-f155bb00-8fcb-11eb-924d-9cd76263cbd0,species,solanacea,Peltanthera,,Roth,Q64246,1821,,"Nov. Pl. Sp. 132 1821",,,,,,81023-1,wfo-0000266718,5535973,,
+e81d6d16-8fd1-11eb-924d-9cd76263cbd0,genus,Peltanthera,,,Benth.,0,,,"Gen. Pl. 2: 797 (1876)",,,,,,urn:lsid:ipni.org:names:331836-2,wfo-4000028493,3233443,,
+bd4f2150-8fcd-11eb-924d-9cd76263cbd0,species,costaricensis,Peltanthera,,"(Standl. & Steyerm.) Cuatrec.",0,1951,,"Fieldiana, Bot. 27: 98 (1951)",,,,,,urn:lsid:ipni.org:names:186967-2,wfo-0001074157,5659290,,
+bd386820-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Peltanthera,,"Benth. & Hook.f.",0,1876,,"Gen. Pl. 2: 797 (1876)",,,,,,urn:lsid:ipni.org:names:546871-1,wfo-0001073963,5659289,,
+f155bb00-8fcb-11eb-924d-9cd76263cbd0,species,solanacea,Peltanthera,,Roth,0,1821,,"Nov. Pl. Sp. 132 (1821).",,,,,,urn:lsid:ipni.org:names:81023-1,wfo-0000266718,5535973,,

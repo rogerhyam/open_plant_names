@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7f592be-8fd1-11eb-924d-9cd76263cbd0,genus,Paragramma,,,,,,,,,,,,,,wfo-4000028030,7290290,,
-c885d934-8fd1-11eb-924d-9cd76263cbd0,species,balteiformis,Paragramma,,"(Brause) Copel.","Q3119431,Q2618968",1947,,"Gen. Fil. (Copeland) 190 1947",,,,,,17409560-1,wfo-0001269771,5649874,,
-c0ab426c-8fd1-11eb-924d-9cd76263cbd0,species,banaensis,Paragramma,,"(C.Chr.) Ching","Q2114106,Q3424685",,,,,,,c0ab5ca2-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001255341,5649868,,
-b0c02fe8-8fd1-11eb-924d-9cd76263cbd0,species,decurrens,Paragramma,,T.Moore,Q1366473,1857,,"Index Fil. xxxv 1857",,,,,,17170030-1,wfo-0001225956,5649863,,
-b0c01530-8fd1-11eb-924d-9cd76263cbd0,species,longifolia,Paragramma,,"(Blume) T.Moore","Q76816,Q1366473",1857,,"Index Fil. xxxii 1857",,,,,,17170040-1,wfo-0001225955,5649859,,
-96feb0b6-8fbd-11eb-924d-9cd76263cbd0,species,stenophylla,Paragramma,,J.Sm.,Q3182477,1875,,"Hist. Fil. 115. 1875. 1875",,,,,,17170050-1,wfo-0000148793,5649851,,
+e7f592be-8fd1-11eb-924d-9cd76263cbd0,genus,Paragramma,,,"(Blume) T.Moore",,,,"Unknown XXXII. 1857 (1857)",,,,,,urn:lsid:ipni.org:names:17170020-1,wfo-4000028030,7290290,,
+c885d934-8fd1-11eb-924d-9cd76263cbd0,species,balteiformis,Paragramma,,"(Brause) Copel.",0,1947,,"Gen. Fil. : 190 (1947)",,,,,,urn:lsid:ipni.org:names:17409560-1,wfo-0001269771,5649874,,
+c0ab426c-8fd1-11eb-924d-9cd76263cbd0,species,banaensis,Paragramma,,"(C.Chr.) Ching",0,,,"Sunyatsenia 5: 258. 1940. (1940)",,,,c0ab5ca2-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17409570-1,wfo-0001255341,5649868,,
+b0c02fe8-8fd1-11eb-924d-9cd76263cbd0,species,decurrens,Paragramma,,T.Moore,0,1857,,"Index Fil. : xxxii (1857)",,,,,,urn:lsid:ipni.org:names:17170030-1,wfo-0001225956,5649863,,
+b0c01530-8fd1-11eb-924d-9cd76263cbd0,species,longifolia,Paragramma,,T.Moore,0,1857,,"Index Fil. : xxxii (1857)",,,,,,urn:lsid:ipni.org:names:17170040-1,wfo-0001225955,5649859,,
+96feb0b6-8fbd-11eb-924d-9cd76263cbd0,species,stenophylla,Paragramma,,J.Sm.,0,1875,,"Hist. Fil. 115. 1875. (1875)",,,,,,urn:lsid:ipni.org:names:17170050-1,wfo-0000148793,5649851,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea7b10a4-8fd1-11eb-924d-9cd76263cbd0,genus,Socotora,,,Balf.f.,Q670050,1883,,"Proc. Roy. Soc. Edinburgh 12: 77. 1883.",,,,,,,wfo-4000035651,3231025,,
-13bb4344-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Socotora,,Balf.f.,Q670050,1884,,"Proc. Roy. Soc. Edinburgh 12: 77 1884",,,,,,81789-1,wfo-0000733940,7976835,,
-13bb5f1e-8fcd-11eb-924d-9cd76263cbd0,species,visciformis,Socotora,,"(Vatke) Bullock","Q6167475,Q708394",1955,,"Kew Bull. 10: 266 1955",,Q55779397,,ca13e380-8fcd-11eb-924d-9cd76263cbd0,,81790-1,wfo-0000733941,7598716,,
-cb254110-8fcd-11eb-924d-9cd76263cbd0,species,socotranus,Socotranthus,,"(Balf.f.) Bullock","Q670050,Q708394",1965,,"Kew Bull. 19: 203 1965",,Q43251111,,,,101430-1,wfo-0001104579,,,
+ea7b10a4-8fd1-11eb-924d-9cd76263cbd0,genus,Socotora,,,Balf.f.,0,1883,,"Proc. Roy. Soc. Edinburgh 12: 77 (1883)",,,,,,urn:lsid:ipni.org:names:2571-1,wfo-4000035651,3231025,,
+13bb4344-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Socotora,,Balf.f.,0,1884,,"Proc. Roy. Soc. Edinburgh 12: 77 (1883)",,,,,,urn:lsid:ipni.org:names:81789-1,wfo-0000733940,7976835,,
+13bb5f1e-8fcd-11eb-924d-9cd76263cbd0,species,visciformis,Socotora,,"(Vatke) Bullock",0,1955,,"Kew Bull. 10: 266 (1955)",,Q55779397,,ca13e380-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:81790-1,wfo-0000733941,7598716,,
+cb254110-8fcd-11eb-924d-9cd76263cbd0,species,socotranus,Socotranthus,,"(Balf.f.) Bullock",0,1965,,"Kew Bull. 19: 203 (1965)",,Q43251111,,,,urn:lsid:ipni.org:names:101430-1,wfo-0001104579,,,

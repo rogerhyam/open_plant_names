@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebe6ad90-8fd1-11eb-924d-9cd76263cbd0,genus,Verlangia,,,"Neck. ex Raf.","Q77700,Q364857",1838,,"Sylva Tellur. 33. 1838.",,,,,,,wfo-4000040156,8091296,,
-1a7adace-8fcc-11eb-924d-9cd76263cbd0,species,argan,Verlangia,,"(Retz.) Neck. ex Raf.","Q491077,Q77700,Q364857",1838,,"Sylva Tellur. 34 1838",,,,ecbddbc6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000332473,2886246,,
-1a7afa86-8fcc-11eb-924d-9cd76263cbd0,species,indica,Verlangia,,"Neck. ex Raf.","Q77700,Q364857",1838,,"Sylva Tellur. 34 1838",,,,,,,wfo-0000332474,4014564,,
-1a7b15ca-8fcc-11eb-924d-9cd76263cbd0,species,sicula,Verlangia,,"Neck. ex Raf.","Q77700,Q364857",1838,,"Sylva Tellur. 34 1838",,,,,,,wfo-0000332475,4014563,,
+ebe6ad90-8fd1-11eb-924d-9cd76263cbd0,genus,Verlangia,,,Neck.,0,1838,,"Sylva Tellur. : 33 (1838)",,,,,,urn:lsid:ipni.org:names:36912-1,wfo-4000040156,8091296,,
+1a7adace-8fcc-11eb-924d-9cd76263cbd0,species,argan,Verlangia,,Raf.,0,1838,,"Sylva Tellur. : 34 (1838)",,,,ecbddbc6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:789976-1,wfo-0000332473,2886246,,
+1a7afa86-8fcc-11eb-924d-9cd76263cbd0,species,indica,Verlangia,,Raf.,0,1838,,"Sylva Tellur. : 34 (1838)",,,,,,urn:lsid:ipni.org:names:789977-1,wfo-0000332474,4014564,,
+1a7b15ca-8fcc-11eb-924d-9cd76263cbd0,species,sicula,Verlangia,,"Neck. ex Raf.",0,1838,,"Elem. Bot. (Necker) 2: 125. 1790; Rafin. Sylva Tellur. 34 (1838).",,,,,,urn:lsid:ipni.org:names:789978-1,wfo-0000332475,4014563,,

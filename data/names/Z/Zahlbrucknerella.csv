@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6331486-9bad-11eb-a8a2-19ed5c03f8d3,genus,Zahlbrucknerella,,,Herre,Q425571,1912,,"J. Wash. Acad. Sci. 2: 384 (1912)",,,,a6331486-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5863," "
+a6331486-9bad-11eb-a8a2-19ed5c03f8d3,genus,Zahlbrucknerella,,,Herre,0,1912,,"J. Wash. Acad. Sci. 2: 384 (1912)",,,,a6331486-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5863," "
 2979ac34-9bad-11eb-a8a2-19ed5c03f8d3,species,africana,Zahlbrucknerella,,Henssen,,1977,,"Lichenologist 9(1): 39 (1977)",,,,2979ac34-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343972," "
-4d023d38-9bad-11eb-a8a2-19ed5c03f8d3,species,calcarea,Zahlbrucknerella,,"(Herre) Herre",Q425571,1912,,"J. Wash. Acad. Sci. 2: 384 (1912)",,,,4d020566-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410083," "
+4d023d38-9bad-11eb-a8a2-19ed5c03f8d3,species,calcarea,Zahlbrucknerella,,"(Herre) Herre",0,1912,,"J. Wash. Acad. Sci. 2: 384 (1912)",,,,4d020566-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410083," "
 297a1462-9bad-11eb-a8a2-19ed5c03f8d3,species,californica,Zahlbrucknerella,,Henssen,,1977,,"Lichenologist 9(1): 43 (1977)",,,,297a1462-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343973," "
 fcc8b064-9bab-11eb-a8a2-19ed5c03f8d3,species,compacta,Zahlbrucknerella,,Henssen,,2004,,"Biblthca Lichenol. 88: 198 (2004)",,,,fcc8b064-9bab-11eb-a8a2-19ed5c03f8d3,,,,,369625," "
 297a52c4-9bad-11eb-a8a2-19ed5c03f8d3,species,fabispora,Zahlbrucknerella,,Henssen,,1977,,"Lichenologist 9(1): 38 (1977)",,,,297a52c4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343974," "
@@ -13,6 +13,6 @@ dfce2420-9bac-11eb-a8a2-19ed5c03f8d3,variety,granitica,Zahlbrucknerella,granitic
 f2ed0284-9bab-11eb-a8a2-19ed5c03f8d3,species,maritima,Zahlbrucknerella,,Henssen,,1963,,"Symb. bot. upsal. 18: 80 (1963)",,,,f2ed0284-9bab-11eb-a8a2-19ed5c03f8d3,,,,,345920," "
 297ae36a-9bad-11eb-a8a2-19ed5c03f8d3,species,maxima,Zahlbrucknerella,,Henssen,,1977,,"Lichenologist 9(1): 42 (1977)",,,,297ae36a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343976," "
 2975560c-9bad-11eb-a8a2-19ed5c03f8d3,species,patagonica,Zahlbrucknerella,,Henssen,,1977,,"Lichenologist 9: 41 (1977)",,,,2975560c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343977," "
-37f0a056-8fcd-11eb-924d-9cd76263cbd0,species,naranjapatae,Zahleria,,"(Luer) Luer",Q2067641,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17 2006",,,,df930d8c-8fcb-11eb-924d-9cd76263cbd0,,77078941-1,wfo-0000810578,2848681,,
-37f0bc3a-8fcd-11eb-924d-9cd76263cbd0,species,vieirana,Zahleria,,"(Luer & R.Escobar) Luer","Q2067641,Q6110682",2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17 2006",,,,dfd31512-8fcb-11eb-924d-9cd76263cbd0,,77078942-1,wfo-0000810579,2848879,,
-37f0d616-8fcd-11eb-924d-9cd76263cbd0,species,zahlbruckneri,Zahleria,,"(Kraenzl.) Luer","Q542327,Q2067641",2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17 2006",,,,dfdaa336-8fcb-11eb-924d-9cd76263cbd0,,77078943-1,wfo-0000810580,2848918,,
+37f0a056-8fcd-11eb-924d-9cd76263cbd0,species,naranjapatae,Zahleria,,"(Luer) Luer",0,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17 (2006)",,,,df930d8c-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77078941-1,wfo-0000810578,2848681,,
+37f0bc3a-8fcd-11eb-924d-9cd76263cbd0,species,vieirana,Zahleria,,"(Luer & R.Escobar) Luer",0,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17 (2006)",,,,dfd31512-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77078942-1,wfo-0000810579,2848879,,
+37f0d616-8fcd-11eb-924d-9cd76263cbd0,species,zahlbruckneri,Zahleria,,"(Kraenzl.) Luer",0,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 17. 2006 [May 2006] [Icones Pleurothallidinarum XXVIII]",,,,dfdaa336-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77078943-1,wfo-0000810580,2848918,,

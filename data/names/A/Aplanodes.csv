@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df9cced4-8fd1-11eb-924d-9cd76263cbd0,genus,Aplanodes,,,Marais,Q4283682,1966,,"Bothalia 9: 111. 1966.",,Q55798368,,,,12321-1,wfo-4000002670,3041906,,
-a1705ff4-8fcc-11eb-924d-9cd76263cbd0,species,doidgeana,Aplanodes,,Marais,Q4283682,1966,,"Bothalia 9: 111 1966",,Q55798368,,,,277926-1,wfo-0000540748,5373587,,
-a1707d18-8fcc-11eb-924d-9cd76263cbd0,species,sisymbrioides,Aplanodes,,"(Schltr.) Marais","Q62278,Q4283682",1966,,"Bothalia 9: 112 1966",,Q55798368,,abe245f6-8fd1-11eb-924d-9cd76263cbd0,,277927-1,wfo-0000540749,5373585,,
+df9cced4-8fd1-11eb-924d-9cd76263cbd0,genus,Aplanodes,,,Marais,0,1966,,"Bothalia 9: 111 (1966)",,Q55798368,,,,urn:lsid:ipni.org:names:12321-1,wfo-4000002670,3041906,,
+a1705ff4-8fcc-11eb-924d-9cd76263cbd0,species,doidgeana,Aplanodes,,Marais,0,1966,,"Bothalia 9: 111 (1966)",,Q55798368,,,,urn:lsid:ipni.org:names:277926-1,wfo-0000540748,5373587,,
+a1707d18-8fcc-11eb-924d-9cd76263cbd0,species,sisymbrioides,Aplanodes,,"(Schltr.) Marais",0,1966,,"Bothalia 9: 112 (1966)",,Q55798368,,abe245f6-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:277927-1,wfo-0000540749,5373585,,

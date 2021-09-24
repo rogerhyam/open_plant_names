@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e873b09a-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllosma,,,"Bolus ex Schltr.","Q4091070,Q62278",1897,,"Bot. Jahrb. Syst. 24: 457. 1897.",,,,,,35892-1,wfo-4000029465,7269592,,
-d809fe70-8fcd-11eb-924d-9cd76263cbd0,species,barosmoides,Phyllosma,,I.J.Williams,,,,,,,,,,,wfo-0001133072,3837938,,
-d80a1888-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Phyllosma,,Bolus,Q4091070,1898,,"Bot. Jahrb. Syst. 24(5): 457 1898",,,,,,,wfo-0001133074,7573410,,
+e873b09a-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllosma,,,"Bolus ex Schltr.",0,1897,,"Bot. Jahrb. Syst. 24: 457 (1897)",,,,,,urn:lsid:ipni.org:names:35892-1,wfo-4000029465,7269592,,
+d809fe70-8fcd-11eb-924d-9cd76263cbd0,species,barosmoides,Phyllosma,,"(Dümmer) I.Williams",,,,"J. S. African Bot. 47: 758 (1981)",,,,,,urn:lsid:ipni.org:names:909562-1,wfo-0001133072,3837938,,
+d80a1888-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Phyllosma,,"Bolus ex Schltr.",0,1898,,"Bot. Jahrb. Syst. 24: 457 (1897)",,,,,,urn:lsid:ipni.org:names:774806-1,wfo-0001133074,7573410,,

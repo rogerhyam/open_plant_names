@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df2bbfbe-8fd1-11eb-924d-9cd76263cbd0,genus,Amarine,,,Sealy,Q4419171,1968,,"J. Roy. Hort. Soc. 93: 430. 1968.",,,,,,,wfo-4000001472,7316070,,
-3dcef590-8fcd-11eb-924d-9cd76263cbd0,species,americana,Amarolea,,"(L.) Small","Q1043,Q2590065",,,"Man. S.E. Fl. 1043 1933",,,,,,10764-2,wfo-0000822985,3684095,,
-3dcf120a-8fcd-11eb-924d-9cd76263cbd0,species,floridana,Amarolea,,"(Chapm.) L.E.Arnold","Q448279,Q21505346",1936,,"J. Elisha Mitchell Sci. Soc. 52: 86 1936",,,,,,10765-2,wfo-0000822986,3684083,,
-3dcf2c22-8fcd-11eb-924d-9cd76263cbd0,species,megacarpa,Amarolea,,Small,Q2590065,,,"Man. S.E. Fl. 1043 1933",,,,,,10766-2,wfo-0000822987,3684055,,
+df2bbfbe-8fd1-11eb-924d-9cd76263cbd0,genus,Amarine,,,Sealy,0,1968,,"J. Roy. Hort. Soc. 93: 430. 1968.",,,,,,urn:lsid:ipni.org:names:50062350-1,wfo-4000001472,7316070,,
+1fd9b0d4-8fcd-11eb-924d-9cd76263cbd0,species,tubergenii,Amarine,,Sealy,0,1968,,"J. Roy. Hort. Soc. 93: 432 (1968)",,,,,,urn:lsid:ipni.org:names:62654-1,wfo-0000759396,,,
+3dcef590-8fcd-11eb-924d-9cd76263cbd0,species,americana,Amarolea,,"(L.) Small",0,,,"Man. S.E. Fl. : 1043 (1933)",,,,,,urn:lsid:ipni.org:names:10764-2,wfo-0000822985,3684095,,
+3dcf120a-8fcd-11eb-924d-9cd76263cbd0,species,floridana,Amarolea,,"(Chapm.) L.E.Arnold",0,1936,,"J. Elisha Mitchell Sci. Soc. 52: 86 (1936)",,,,,,urn:lsid:ipni.org:names:10765-2,wfo-0000822986,3684083,,
+3dcf2c22-8fcd-11eb-924d-9cd76263cbd0,species,megacarpa,Amarolea,,Small,0,,,"Man. S.E. Fl. : 1043 (1933)",,,,,,urn:lsid:ipni.org:names:10766-2,wfo-0000822987,3684055,,

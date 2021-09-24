@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df0f4c94-8fd1-11eb-924d-9cd76263cbd0,genus,Albidella,,,Pichon,Q2338866,1946,,"Notul. Syst. (Paris) 12: 174. 1946.",,,,,,295799-2,wfo-4000001101,8351487,,
-1dd45726-8fcd-11eb-924d-9cd76263cbd0,species,nymphaeifolia,Albidella,,"(Griseb.) Pichon","Q76351,Q2338866",1946,,"Notul. Syst. (Paris) 12: 175 1946",,,,a3d68e48-8fbe-11eb-924d-9cd76263cbd0,,8012-2,wfo-0000755076,2865196,,
+df0f4c94-8fd1-11eb-924d-9cd76263cbd0,genus,Albidella,,,Pichon,0,1946,,"Notul. Syst. (Paris) 12: 174 (1947)",,,,,,urn:lsid:ipni.org:names:295799-2,wfo-4000001101,8351487,,
+81315716-1d4d-11ec-82c2-f14daa6f2d93,species,acanthocarpa,Albidella,,"(F.Muell.) Lehtonen",,,,"Austral. Syst. Bot. 30(1): 68. 2017 [31 May 2017]",,,,,,urn:lsid:ipni.org:names:77163629-1,wfo-0001424347,,,
+813182a4-1d4d-11ec-82c2-f14daa6f2d93,species,glandulosa,Albidella,,"(Thwaites) Lehtonen",,,,"Austral. Syst. Bot. 30(1): 68. 2017 [31 May 2017]",,,,,,urn:lsid:ipni.org:names:77163630-1,wfo-0001424348,,,
+1dd45726-8fcd-11eb-924d-9cd76263cbd0,species,nymphaeifolia,Albidella,,"(Griseb.) Pichon",0,1946,,"Notul. Syst. (Paris) 12: 175 (1946)",,,,a3d68e48-8fbe-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:8012-2,wfo-0000755076,2865196,,
+8131c0ac-1d4d-11ec-82c2-f14daa6f2d93,species,oligococca,Albidella,,"(F.Muell.) Lehtonen",,,,"Austral. Syst. Bot. 30(1): 68. 2017 [31 May 2017]",,,,,,urn:lsid:ipni.org:names:77163628-1,wfo-0001424349,,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb370246-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraotis,,,,,,,,,,,,,,wfo-4000037946,3114259,,
-49fc3026-8fb4-11eb-924d-9cd76263cbd0,species,longifolia,Tetraotis,,Blume,Q76816,1826,,"Bijdr. Bijdr. 15 (1826) 892 1826",,,,,,,wfo-0000062797,3141308,,
-5c3e05b0-8fb5-11eb-924d-9cd76263cbd0,species,longifolia,Tetraotis,,Reinw.,Q63165,1826,,"in Blume, Bijdr. 892 (1826).",,,,,,255450-1,wfo-0000077133,8063695,,
-bb1c93ee-8fb5-11eb-924d-9cd76263cbd0,species,paludosa,Tetraotis,,"Reinw. ex Blume","Q63165,Q76816",1826,,"Bijdr. Bijdr. 15 (1826) 892 1826",,,,,,,wfo-0000081493,,,
-f4e80d2a-8fb4-11eb-924d-9cd76263cbd0,species,paludosa,Tetraotis,,Reinw.,Q63165,1826,,"in Blume, Bijdr. 892 (1826).",,,,,,255451-1,wfo-0000072100,7836608,,
+eb370246-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraotis,,,Reinw.,,,,"Unknown 892 (1826)",,,,,,urn:lsid:ipni.org:names:11276-1,wfo-4000037946,3114259,,
+49fc3026-8fb4-11eb-924d-9cd76263cbd0,species,longifolia,Tetraotis,,Blume,0,1826,,"Bijdr. Bijdr. 15 (1826) 892 1826",,,,,,,wfo-0000062797,3141308,,
+5c3e05b0-8fb5-11eb-924d-9cd76263cbd0,species,longifolia,Tetraotis,,Reinw.,0,1826,,"Bijdr. Fl. Ned. Ind. 892 (1826)",,,,,,urn:lsid:ipni.org:names:255450-1,wfo-0000077133,8063695,,
+bb1c93ee-8fb5-11eb-924d-9cd76263cbd0,species,paludosa,Tetraotis,,"Reinw. ex Blume",0,1826,,"Bijdr. Bijdr. 15 (1826) 892 1826",,,,,,,wfo-0000081493,,,
+f4e80d2a-8fb4-11eb-924d-9cd76263cbd0,species,paludosa,Tetraotis,,Reinw.,0,1826,,"Syll. Pl. Nov. 2: 8 (1825)",,,,,,urn:lsid:ipni.org:names:255451-1,wfo-0000072100,7836608,,

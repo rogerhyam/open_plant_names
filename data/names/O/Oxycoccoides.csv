@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7cc42b0-8fd1-11eb-924d-9cd76263cbd0,genus,Oxycoccoides,,,"(Benth. & Hook.f.) Nakai","Q731808,Q157501,Q704751",1917,,"Bot. Mag. (Tokyo) 31: 246. 1917.",,,,,,,wfo-4000027551,7327950,,
-3b1eae90-8fcc-11eb-924d-9cd76263cbd0,species,erythrocarpus,Oxycoccoides,,"(Michx.) Nakai","Q521848,Q704751",1917,,"Bot. Mag. (Tokyo) 31: 247 1917",,Q55762542,,,,331362-1,wfo-0000383731,4167317,,
-b20a3ea6-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Oxycoccoides,,"(Miq.) Nakai","Q76742,Q704751",1917,,"Bot. Mag. (Tokyo) 31(369): 247 1917",,Q55762542,,,,331363-1,wfo-0001048334,7529749,,
-b20a5b84-8fcd-11eb-924d-9cd76263cbd0,variety,sinicus,Oxycoccoides,japonicus,Nakai,Q704751,1922,,"Trees and Shrubs Japan ed. 1 1: 168 1922",,,,,,,wfo-0001048335,8035199,,
+e7cc42b0-8fd1-11eb-924d-9cd76263cbd0,genus,Oxycoccoides,,,"(Benth. & Hook.f.) Nakai",0,1917,,"Bot. Mag. (Tokyo) 31: 246 (1917)",,,,,,urn:lsid:ipni.org:names:1209501-2,wfo-4000027551,7327950,,
+3b1eae90-8fcc-11eb-924d-9cd76263cbd0,species,erythrocarpus,Oxycoccoides,,"(Michx.) Nakai",0,1917,,"Bot. Mag. (Tokyo) 31: 247 (1917)",,Q55762542,,,,urn:lsid:ipni.org:names:331362-1,wfo-0000383731,4167317,,
+b20a3ea6-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Oxycoccoides,,"(Miq.) Nakai",0,1917,,"Bot. Mag. (Tokyo) 31: 247 (1917)",,Q55762542,,,,urn:lsid:ipni.org:names:331363-1,wfo-0001048334,7529749,,
+b20a5b84-8fcd-11eb-924d-9cd76263cbd0,variety,sinicus,Oxycoccoides,japonicus,Nakai,0,1922,,"Trees and Shrubs Japan ed. 1 1: 168 1922",,,,,,,wfo-0001048335,8035199,,

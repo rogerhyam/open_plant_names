@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a02458-8fd1-11eb-924d-9cd76263cbd0,genus,Rhizanthera,,,,,,,,,,,,,,wfo-4000032979,9787499,,
-af32c44c-8fd1-11eb-924d-9cd76263cbd0,species,fournieri,Rhizanthera,,"(E.Royer) Soó","Q47125413,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eotvos, Sect. Biol. 8: 319 1966",,,,,,655672-1,wfo-0001223066,7702607,,
-af33c50e-8fd1-11eb-924d-9cd76263cbd0,species,somersetiensis,Rhizanthera,,"(A.Camus) Soó","Q272128,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eotvos, Sect. Biol. 8: 319 1966",,,,ec3f78ea-8fcb-11eb-924d-9cd76263cbd0,,655673-1,wfo-0001223075,8044370,,
-af34569a-8fd1-11eb-924d-9cd76263cbd0,species,thilensis,Rhizanthera,,"(G.Keller & Jeanj.) Aver.","Q1252447,Q5666353,Q4055703",1986,,"Bot. Zhurn. SSSR 71(1): 93 1986",,,,af23e9ea-8fd1-11eb-924d-9cd76263cbd0,,942417-1,wfo-0001223078,3653096,,
+e9a02458-8fd1-11eb-924d-9cd76263cbd0,genus,Rhizanthera,,,,,,,,,,,,,urn:lsid:ipni.org:names:50649867-1,wfo-4000032979,9787499,,
+03f863b6-8fcc-11eb-924d-9cd76263cbd0,species,chevallieriana,Rhizanthera,,"(E.G.Camus) Soó",0,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 319 (1966)",,,,ec5c931c-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:655671-1,wfo-0000296267,,,
+af32c44c-8fd1-11eb-924d-9cd76263cbd0,species,fournieri,Rhizanthera,,"(E.Royer) Soó",0,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 319 (1966)",,,,,,urn:lsid:ipni.org:names:655672-1,wfo-0001223066,7702607,,
+03f8a3a8-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,Rhizanthera,,Bernacki,0,1986,,"Fragm. Florist. Geobot. 31-32: 51 (1986-1987 publ. 1988)",,,,,,urn:lsid:ipni.org:names:935049-1,wfo-0000296269,,,
+03f8c6e4-8fcc-11eb-924d-9cd76263cbd0,species,martysiensis,Rhizanthera,,Balayer,0,1986,,"Bull. Soc. Bot. France, Lett. Bot. 133: 283 (1986)",,Q95997131,,,,urn:lsid:ipni.org:names:930831-1,wfo-0000296270,,,
+af33c50e-8fd1-11eb-924d-9cd76263cbd0,species,somersetensis,Rhizanthera,,"(A.Camus) Soó",0,1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 319 (1966)",,,,ec3f78ea-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:655673-1,wfo-0001223075,8044370,,
+af34569a-8fd1-11eb-924d-9cd76263cbd0,species,thilensis,Rhizanthera,,"(G.Keller & Jeanj.) Aver.",0,1986,,"Bot. Zhurn. (Moscow & Leningrad) 71(1): 93. 1986",,,,af23e9ea-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:942417-1,wfo-0001223078,3653096,,

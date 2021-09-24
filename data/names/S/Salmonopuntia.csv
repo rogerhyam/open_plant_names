@@ -1,3 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e55104-8fd1-11eb-924d-9cd76263cbd0,genus,Salmonopuntia,,,P.V.Heath,Q6067280,1999,,"Calyx 6(2): 41. 1999.",,,,,,,wfo-4000033856,7280281,,
-659dd1aa-8fcc-11eb-924d-9cd76263cbd0,species,salmiana,Salmonopuntia,,"(Parm. ex Pfeiff.) P.V.Heath","Q360312,Q63727,Q6067280",1999,,"Calyx 6: 41 1999",,,,d65a7b00-8fd1-11eb-924d-9cd76263cbd0,,1011378-1,wfo-0000439189,7280282,,
+e9e55104-8fd1-11eb-924d-9cd76263cbd0,genus,Salmonopuntia,,,P.V.Heath,0,1999,,"in Calyx 6(2): 41. 1999.",,,,,,,wfo-4000033856,7280281,,
+659dd1aa-8fcc-11eb-924d-9cd76263cbd0,species,salmiana,Salmonopuntia,,"(J.Parm. ex Pfeiff.) P.V.Heath",0,1999,,"in Calyx 6: 41. 1999.",,,,d65a7b00-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000439189,7280282,,
+875f90f8-1d4d-11ec-82c2-f14daa6f2d93,form,alba,Salmonopuntia,salmiana,P.V.Heath,,,,"in Calyx 6: 41. 1999.",,,,,,,wfo-0001434048,,,
+875fb6e6-1d4d-11ec-82c2-f14daa6f2d93,form,glauca,Salmonopuntia,salmiana,P.V.Heath,,,,"in Calyx 6: 41. 1999.",,,,,,,wfo-0001434049,,,
+875fdcac-1d4d-11ec-82c2-f14daa6f2d93,form,rosea,Salmonopuntia,salmiana,P.V.Heath,,,,"in Calyx 6: 41. 1999.",,,,,,,wfo-0001434050,,,
+880a5a6a-1d4d-11ec-82c2-f14daa6f2d93,species,schickendantzii,Salmonopuntia,,"(F.A.C.Weber) Font & M.Köhler",,,,"in Phytotaxa 505(3): 267. 2021.",,,,,,,wfo-0001434934,,,

@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a5b27736-9bad-11eb-a8a2-19ed5c03f8d3,genus,Strongylopsis,,,Vain.,Q4351122,1927,,"Acta Soc. Fauna Flora fenn. 57(1): 66 (1927)",,,,a5b27736-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5296," "
-4bb300ca-9bad-11eb-a8a2-19ed5c03f8d3,species,commixta,Strongylopsis,,"(Vain.) Nádv.",Q4351122,,,,,,,,,,,,406676," "
+a5b27736-9bad-11eb-a8a2-19ed5c03f8d3,genus,Strongylopsis,,,Vain.,0,1927,,"Acta Soc. Fauna Flora fenn. 57(1): 66 (1927)",,,,a5b27736-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5296," "
+4bb300ca-9bad-11eb-a8a2-19ed5c03f8d3,species,commixta,Strongylopsis,,"(Vain.) Nádv.",0,,,,,,,,,,,,406676," "
 aa8bb8d0-9bad-11eb-a8a2-19ed5c03f8d3,species,discreta,Strongylopsis,,Nádv.,,,,,,,,aa8bb8d0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,370581," "
-4bbae8f8-9bad-11eb-a8a2-19ed5c03f8d3,species,leucopus,Strongylopsis,,Vain.,Q4351122,,,,,,,4bbae8f8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406677," "
+4bbae8f8-9bad-11eb-a8a2-19ed5c03f8d3,species,leucopus,Strongylopsis,,Vain.,0,,,,,,,4bbae8f8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406677," "
 aa8c0f2e-9bad-11eb-a8a2-19ed5c03f8d3,species,saeviensis,Strongylopsis,,Räsänen,,,,,,,,aa8c0f2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,370582," "
-fa5f2326-9bab-11eb-a8a2-19ed5c03f8d3,species,stichococci,Strongylopsis,,Vain.,Q4351122,,,,,,,fa5f2326-9bab-11eb-a8a2-19ed5c03f8d3,,,,,476562," "
-96d21ce8-8fb5-11eb-924d-9cd76263cbd0,species,australe,Strongylosperma,,"(Sieber ex Spreng.) Less.","Q78907,Q62829,Q76352",1832,,"261 1832",,,,,,251891-1,wfo-0000079847,3112072,,
-e1822b34-8fba-11eb-924d-9cd76263cbd0,species,reptans,Strongylosperma,,Benth.,Q731808,,,,,,,,,,wfo-0000130095,3097480,,
+fa5f2326-9bab-11eb-a8a2-19ed5c03f8d3,species,stichococci,Strongylopsis,,Vain.,0,,,,,,,fa5f2326-9bab-11eb-a8a2-19ed5c03f8d3,,,,,476562," "
+96d21ce8-8fb5-11eb-924d-9cd76263cbd0,species,australe,Strongylosperma,,Less.,0,1832,,"Syn. Gen. Compos. : 261 (1832)",,,,,,urn:lsid:ipni.org:names:251891-1,wfo-0000079847,3112072,,
+e1822b34-8fba-11eb-924d-9cd76263cbd0,species,reptans,Strongylosperma,,Benth.,0,,,"Enum. Pl. : 60 (1837)",,,,,,urn:lsid:ipni.org:names:251892-1,wfo-0000130095,3097480,,

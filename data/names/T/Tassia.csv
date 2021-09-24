@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a895cf3e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Tassia,,,"Syd. & P. Syd.",,1919,,"Annls mycol. 17(1): 44 (1919)",,,,a895cf3e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,10178," "
 03c3d2f8-9bad-11eb-a8a2-19ed5c03f8d3,species,laurina,Tassia,,"(Tassi) Syd. & P. Syd.",,1919,,"Annls mycol. 17(1): 44 (1919)",,,,773c0888-9bab-11eb-a8a2-19ed5c03f8d3,,,,,121570," "
-8e10a108-8fcc-11eb-924d-9cd76263cbd0,species,dupreziana,Tassilicyparis,,"(A.Camus) A.V.Bobrov & Melikyan","Q272128,Q586232,Q5665769",2006,,"Komarovia 4: 72 2006",,,,d8e86710-8fcc-11eb-924d-9cd76263cbd0,,77076258-1,wfo-0000508024,2684089,,
-14145958-8fcc-11eb-924d-9cd76263cbd0,species,acaulis,Tatea,,F.Muell.,Q708002,1883,,"Trans. Proc. Roy. Soc. South Australia prepr. 6: 34 1883",,,,,,,wfo-0000321205,5609625,,
-141477a8-8fcc-11eb-924d-9cd76263cbd0,species,herbacea,Tatea,,"(Roxb.) Junell","Q748967,Q21517171",1934,,"Symb. Bot. Upsal. 4: 85 1934",,,,,,864920-1,wfo-0000321206,5609621,,
-14149cba-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Tatea,,"(Merr.) Junell","Q729926,Q21517171",1934,,"Symb. Bot. Upsal. 4: 85 1934",,,,,,864921-1,wfo-0000321207,5609617,,
-1414e166-8fcc-11eb-924d-9cd76263cbd0,species,portlandioides,Tatea,,Seem.,Q64899,1866,,"Fl. Vit. 125 1866",,,,,,767642-1,wfo-0000321208,5596920,,
-141508d0-8fcc-11eb-924d-9cd76263cbd0,species,subacaulis,Tatea,,F.Muell.,Q708002,1883,,"Trans. & Proc. Roy. Soc. South Australia 6: 34 1883",,,,,,864922-1,wfo-0000321209,5609613,,
+8e10a108-8fcc-11eb-924d-9cd76263cbd0,species,dupreziana,Tassilicyparis,,"(A.Camus) A.V.Bobrov & Melikyan",0,2006,,"Komarovia 4: 72 (2006)",,,,d8e86710-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77076258-1,wfo-0000508024,2684089,,
+14145958-8fcc-11eb-924d-9cd76263cbd0,species,acaulis,Tatea,,F.Muell.,0,1883,,"Trans. Proc. Roy. Soc. South Australia , prepr. 6: 34 (1883)",,,,,,urn:lsid:ipni.org:names:864919-1,wfo-0000321205,5609625,,
+141477a8-8fcc-11eb-924d-9cd76263cbd0,species,herbacea,Tatea,,"(Roxb.) Junell",0,1934,,"Symb. Bot. Upsal. 4: 85 (1934)",,,,,,urn:lsid:ipni.org:names:864920-1,wfo-0000321206,5609621,,
+14149cba-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Tatea,,"(Merr.) Junell",0,1934,,"Symb. Bot. Upsal. 4: 85 (1934)",,,,,,urn:lsid:ipni.org:names:864921-1,wfo-0000321207,5609617,,
+1414e166-8fcc-11eb-924d-9cd76263cbd0,species,portlandioides,Tatea,,Seem.,0,1866,,"Fl. Vit. : 125 (1866)",,,,,,urn:lsid:ipni.org:names:767642-1,wfo-0000321208,5596920,,
+141508d0-8fcc-11eb-924d-9cd76263cbd0,species,subacaulis,Tatea,,F.Muell.,0,1883,,"Trans. & Proc. Roy. Soc. South Australia 6: 34 (1883)",,,,,,urn:lsid:ipni.org:names:864922-1,wfo-0000321209,5609613,,

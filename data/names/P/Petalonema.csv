@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e84422e4-8fd1-11eb-924d-9cd76263cbd0,genus,Petalonema,,,,,,,,,,,,,,wfo-4000028905,,,
-c0a146d0-8fcd-11eb-924d-9cd76263cbd0,species,glanduligerum,Petalonema,,Pellegr.,Q4348287,,,,,,,,,,wfo-0001081562,5599430,,
-cae61dc8-8fcd-11eb-924d-9cd76263cbd0,species,merrillii,Petalonema,,Schltr.,Q62278,1915,,"Repert. Spec. Nov. Regni Veg. 13: 544 1915",,Q55752979,,,,100520-1,wfo-0001104006,7644931,,
-af77f15a-8fbf-11eb-924d-9cd76263cbd0,species,pulchra,Petalonema,,Gilg,Q77655,1897,,"Nat. Pflanzenfam. Nachtr. [Engler & Prantl] I. 264 (1897)",,,,,,574640-1,wfo-0000161438,,,
-c2d1e4ce-8fd1-11eb-924d-9cd76263cbd0,species,pulchrum,Petalonema,,Gilg,Q77655,1897,,"Nat. Pflanzenfam. 7: 264 1897",,,,,,,wfo-0001259374,5938652,,
-41413766-8fcc-11eb-924d-9cd76263cbd0,species,racemosum,Petalonema,,"(DC.) Peter","Q123057,Q53623",1928,,"Abh. Königl. Ges. Wiss. Göttingen, Math.-Phys. Kl. n.f., 13(2): 84 1928",,,,,,104058-1,wfo-0000392256,5687092,,
+e84422e4-8fd1-11eb-924d-9cd76263cbd0,genus,Petalonema,,,Gilg,,,,"Unknown I. 264 (1897)",,,,,,urn:lsid:ipni.org:names:26524-1,wfo-4000028905,,,
+c0a146d0-8fcd-11eb-924d-9cd76263cbd0,species,glanduligerum,Petalonema,,Pellegr.,0,,,"Bull. Mus. Natl. Hist. Nat. 1924, xxx. 326.",,,,,,urn:lsid:ipni.org:names:574639-1,wfo-0001081562,5599430,,
+cae61dc8-8fcd-11eb-924d-9cd76263cbd0,species,merrillii,Petalonema,,Schltr.,0,1915,,"Repert. Spec. Nov. Regni Veg. 13: 544 (1915)",,Q55752979,,,,urn:lsid:ipni.org:names:100520-1,wfo-0001104006,7644931,,
+af77f15a-8fbf-11eb-924d-9cd76263cbd0,species,pulchra,Petalonema,,Gilg,0,1897,,"Unknown I. 264 (1897)",,,,,,urn:lsid:ipni.org:names:574640-1,wfo-0000161438,,,
+c2d1e4ce-8fd1-11eb-924d-9cd76263cbd0,species,pulchrum,Petalonema,,Gilg,0,1897,,"Nat. Pflanzenfam. 7: 264 1897",,,,,,,wfo-0001259374,5938652,,
+41413766-8fcc-11eb-924d-9cd76263cbd0,species,racemosum,Petalonema,,Peter,0,1928,,"Abh. Königl. Ges. Wiss. Göttingen, Math.-Phys. Kl. , n.f., 13(2): 84 (1928)",,,,,,urn:lsid:ipni.org:names:104058-1,wfo-0000392256,5687092,,

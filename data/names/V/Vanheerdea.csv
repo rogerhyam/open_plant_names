@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebda31be-8fd1-11eb-924d-9cd76263cbd0,genus,Vanheerdea,,,"L.Bolus ex H.E.K.Hartmann","Q63764,Q1594418",1992,,"Bradleya 10: 15. 1992.",,Q96001545,,,,967832-1,wfo-4000040009,7329197,,
-586d9aec-8fcc-11eb-924d-9cd76263cbd0,species,primosii,Vanheerdea,,"(L.Bolus) L.Bolus ex H.E.K.Hartmann","Q63764,Q1594418",1992,,"Bradleya 10: 16 1992",,Q96001545,,,,969400-1,wfo-0000421526,3703454,,
-add75d64-8fcd-11eb-924d-9cd76263cbd0,species,roodiae,Vanheerdea,,"(N.E.Br.) L.Bolus ex H.E.K.Hartmann","Q721850,Q63764,Q1594418",,,"Bradleya 10: 15",,Q96001545,,,,969399-1,wfo-0001038793,3703440,,
+ebda31be-8fd1-11eb-924d-9cd76263cbd0,genus,Vanheerdea,,,"L.Bolus ex H.E.K.Hartmann",0,1992,,"in Bradleya 10: 15. 1992.",,Q96001545,,,,,wfo-4000040009,7329197,,
+8907cb28-1d4d-11ec-82c2-f14daa6f2d93,species,divergens,Vanheerdea,,"(L.Bolus) L.Bolus ex S.A.Hammer",,,,"Mesembs: 157. 2013.",,,,,,,wfo-0001436285,,,
+586d9aec-8fcc-11eb-924d-9cd76263cbd0,species,primosii,Vanheerdea,,"(L.Bolus) L.Bolus ex H.E.K.Hartmann",0,1992,,"in Bradleya 10: 16. 1992.",,Q96001545,,,,,wfo-0000421526,3703454,,
+add75d64-8fcd-11eb-924d-9cd76263cbd0,species,roodiae,Vanheerdea,,"(N.E.Br.) L.Bolus ex H.E.K.Hartmann",0,,,"in Bradleya 10: . 1992.",,Q96001545,,,,,wfo-0001038793,3703440,,

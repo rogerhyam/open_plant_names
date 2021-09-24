@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e16a859e-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratiosicyos,,,Nees,Q76349,1836,,"Enum. Pl. Afr. Austral. 281. 1836. (Jan-Feb 1836)",,,,,,31743-1,wfo-4000007335,3761012,,
-77c59f88-8fcd-11eb-924d-9cd76263cbd0,species,ecklonii,Ceratiosicyos,,Nees,Q76349,1836,,"Enum. Pl. Afric. Austral 281 1836",,,,,,674308-1,wfo-0000924403,3761019,,
-77c5ba0e-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Ceratiosicyos,,"(Thunb.) A.Meeuse","Q39658,Q5658466",1962,,"Bothalia 8: 20 1962",,Q55798329,,,,56878-1,wfo-0000924404,3761014,,
+e16a859e-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratiosicyos,,,Nees,0,1836,,"Enum. Pl. Afric. Austral. : 281 (1836)",,,,,,urn:lsid:ipni.org:names:31743-1,wfo-4000007335,3761012,,
+77c59f88-8fcd-11eb-924d-9cd76263cbd0,species,ecklonii,Ceratiosicyos,,Nees,0,1836,,"Enum. Pl. Afric. Austral. : 281 (1836)",,,,,,urn:lsid:ipni.org:names:674308-1,wfo-0000924403,3761019,,
+77c5ba0e-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Ceratiosicyos,,"(Thunb.) A.Meeuse",0,1962,,"Bothalia 8: 20 (1962)",,Q55798329,,,,urn:lsid:ipni.org:names:56878-1,wfo-0000924404,3761014,,
+5cb86e88-1d4d-11ec-82c2-f14daa6f2d93,species,amoenus,Ceratites,,"Sol. ex Miers",,,,"Apocyn. S. Amer. 18. 1878 [May-Jun 1878]",,,,,,urn:lsid:ipni.org:names:895793-1,wfo-0001357385,,,

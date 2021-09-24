@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e033d478-8fd1-11eb-924d-9cd76263cbd0,genus,Berroa,,,Beauverd,Q3046641,,,,,,,,,7904-1,wfo-4000004505,3087142,,
-d5846ff2-8fb2-11eb-924d-9cd76263cbd0,species,gnaphalioides,Berroa,,"(Less.) Beauverd","Q76352,Q3046641",1913,,"211 1913",,,,0f2a7dee-8fba-11eb-924d-9cd76263cbd0,,184677-1,wfo-0000035619,3087143,,
+e033d478-8fd1-11eb-924d-9cd76263cbd0,genus,Berroa,,,Beauverd,0,,,"Bull. Soc. Bot. Genève 1913, Ser. II. v. 210.",,,,,,urn:lsid:ipni.org:names:7904-1,wfo-4000004505,3087142,,
+d5846ff2-8fb2-11eb-924d-9cd76263cbd0,species,gnaphalioides,Berroa,,Beauverd,0,1913,,"Bull. Soc. Bot. Genève 1913, Ser. II. v. 211",,,,0f2a7dee-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:184677-1,wfo-0000035619,3087143,,
+760def66-1d4d-11ec-82c2-f14daa6f2d93,variety,argentea,Berroa,gnaphalioides,"(Hook. & Arn.) Beauverd",,,,,,,,,,urn:lsid:ipni.org:names:1112932-2,wfo-0001391814,,,
+b96e97ca-1d47-11ec-82c2-f14daa6f2d93,variety,gnaphalioides,Berroa,gnaphalioides,,,,,,,,,,,,wfo-0000057312,,,

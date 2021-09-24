@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb0952f6-8fd1-11eb-924d-9cd76263cbd0,genus,Syntriandrum,,,Engl.,Q60718,1899,,"Jahrb. Syst. 26: 412. 1899.",,,,,,,wfo-4000037337,7268707,,
-c1b48b5e-8fcd-11eb-924d-9cd76263cbd0,species,preuisii,Syntriandrum,,Engl.,Q60718,,,,,,,,,,wfo-0001083946,7413027,,
+eb0952f6-8fd1-11eb-924d-9cd76263cbd0,genus,Syntriandrum,,,Engl.,0,1899,,"Bot. Jahrb. Syst. 26: 412 (1899)",,,,,,urn:lsid:ipni.org:names:27023-1,wfo-4000037337,7268707,,
+8c6b05f0-8fcc-11eb-924d-9cd76263cbd0,species,dinklagei,Syntriandrum,,Engl.,0,1899,,"Bot. Jahrb. Syst. 26(3-4): 413. 1899 [31 Jan 1899]",,,,,,urn:lsid:ipni.org:names:581513-1,wfo-0000505116,8072832,,
+c1b48b5e-8fcd-11eb-924d-9cd76263cbd0,species,preuisii,Syntriandrum,,Engl.,0,,,,,,,,,,wfo-0001083946,7413027,,
+8c69d5c2-8fcc-11eb-924d-9cd76263cbd0,species,preussii,Syntriandrum,,Engl.,0,1899,,"Bot. Jahrb. Syst. 26: 412 (1899)",,,,,,urn:lsid:ipni.org:names:581514-1,wfo-0000505108,7936833,,

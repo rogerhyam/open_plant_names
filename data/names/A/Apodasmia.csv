@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df9f96b4-8fd1-11eb-924d-9cd76263cbd0,genus,Apodasmia,,,"B.G.Briggs & L.A.S.Johnson","Q2356897,Q3090721",1998,,"Telopea 7: 371. 1998.",,Q55801438,,,,1001702-1,wfo-4000002712,2706889,,
-1ef2ef24-8fcc-11eb-924d-9cd76263cbd0,species,brownii,Apodasmia,,"(Hook.f.) B.G.Briggs & L.A.S.Johnson","Q157501,Q2356897,Q3090721",1998,,"Telopea 7: 371 1998",,Q55801438,,,,1001703-1,wfo-0000340378,5290420,,
-ba131e16-8fd1-11eb-924d-9cd76263cbd0,species,ceramophila,Apodasmia,,"B.G.Briggs & L.A.S.Johnson","Q2356897,Q3090721",,,,,,,,,,wfo-0001243062,8013148,,
-1ef31620-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Apodasmia,,"(Gay) B.G.Briggs & L.A.S.Johnson","Q1096785,Q2356897,Q3090721",1998,,"Telopea 8: 22 1998",,Q55801447,,,,1005467-1,wfo-0000340379,5290425,,
-1ef33740-8fcc-11eb-924d-9cd76263cbd0,species,similis,Apodasmia,,"(Edgar) B.G.Briggs & L.A.S.Johnson","Q18984399,Q2356897,Q3090721",1998,,"Telopea 8: 22 1998",,Q55801447,,71acac32-8fcc-11eb-924d-9cd76263cbd0,,1005468-1,wfo-0000340380,5290422,,
+df9f96b4-8fd1-11eb-924d-9cd76263cbd0,genus,Apodasmia,,,"B.G.Briggs & L.A.S.Johnson",0,1998,,"Telopea 7: 371 (1998)",,Q55801438,,,,urn:lsid:ipni.org:names:1001702-1,wfo-4000002712,2706889,,
+1ef2ef24-8fcc-11eb-924d-9cd76263cbd0,species,brownii,Apodasmia,,"(Hook.f.) B.G.Briggs & L.A.S.Johnson",0,1998,,"Telopea 7: 371 (1998)",,Q55801438,,,,urn:lsid:ipni.org:names:1001703-1,wfo-0000340378,5290420,,
+ba131e16-8fd1-11eb-924d-9cd76263cbd0,species,ceramophila,Apodasmia,,"B.G.Briggs & L.A.S.Johnson",0,,,"Telopea 16: 14 (2014)",,,,,,urn:lsid:ipni.org:names:77154350-1,wfo-0001243062,8013148,,
+1ef31620-8fcc-11eb-924d-9cd76263cbd0,species,chilensis,Apodasmia,,"(Gay) B.G.Briggs & L.A.S.Johnson",0,1998,,"Telopea 8: 22 (1998)",,Q55801447,,,,urn:lsid:ipni.org:names:1005467-1,wfo-0000340379,5290425,,
+1ef33740-8fcc-11eb-924d-9cd76263cbd0,species,similis,Apodasmia,,"(Edgar) B.G.Briggs & L.A.S.Johnson",0,1998,,"Telopea 8: 22 (1998)",,Q55801447,,71acac32-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1005468-1,wfo-0000340380,5290422,,

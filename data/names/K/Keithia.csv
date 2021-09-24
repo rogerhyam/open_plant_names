@@ -1,25 +1,27 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e555bb74-8fd1-11eb-924d-9cd76263cbd0,genus,Keithia,,,Sacc.,Q707840,1892,,"Syll. fung. (Abellini) 10: 49 (1892)",,,,e555bb74-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000019899,,2555," "
-2a2447b2-8fcc-11eb-924d-9cd76263cbd0,species,brasiliensis,Keithia,,Spreng.,Q62829,1822,,"Neue Entdeck. Pflanzenk. 3: 57 1822",,,,,,435607-1,wfo-0000357827,6035950,,
+e555bb74-8fd1-11eb-924d-9cd76263cbd0,genus,Keithia,,,Benth.,0,1892,,"Labiat. Gen. Spec. : 409 (1834)",,,,e555bb74-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20937-1,wfo-4000019899,,2555," "
+2a2447b2-8fcc-11eb-924d-9cd76263cbd0,species,brasiliensis,Keithia,,Spreng.,0,1822,,"Neue Entdeck. Pflanzenk. 3: 57. 1822",,,,,,urn:lsid:ipni.org:names:435607-1,wfo-0000357827,6035950,,
 b21ebe58-9bad-11eb-a8a2-19ed5c03f8d3,species,chamaecyparidis,Keithia,,"J.F. Adams",,,,,,,,b21ebe58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,462719," "
 63bface0-9bad-11eb-a8a2-19ed5c03f8d3,species,chamaecyparissi,Keithia,,"J.F. Adams",,1918,,"Torreya 18: 160 (1918)",,,,63bface0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,452932," "
-17c3585c-8fcb-11eb-924d-9cd76263cbd0,species,ciliata,Keithia,,Benth.,Q731808,1835,,"Labiat. Gen. Spec. 732 1835",,,,,,448638-1,wfo-0000220834,5608742,,
-17d1f362-8fcb-11eb-924d-9cd76263cbd0,species,coccinea,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 412 1834",,,,,,448639-1,wfo-0000220835,5608739,,
-17e01cee-8fcb-11eb-924d-9cd76263cbd0,species,denudata,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 412 1834",,,,,,448640-1,wfo-0000220836,5608736,,
-17ee8ac2-8fcb-11eb-924d-9cd76263cbd0,species,epilobioides,Keithia,,Epling,Q924619,1936,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 131 1936",,,,,,133384-2,wfo-0000220837,5608733,,
-17fd79e2-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 412 1834",,,,,,448642-1,wfo-0000220838,7308445,,
+17c3585c-8fcb-11eb-924d-9cd76263cbd0,species,ciliata,Keithia,,Benth.,0,1835,,"Labiat. Gen. Spec. : 732 (1835)",,,,,,urn:lsid:ipni.org:names:448638-1,wfo-0000220834,5608742,,
+17d1f362-8fcb-11eb-924d-9cd76263cbd0,species,coccinea,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 412 (1834)",,,,,,urn:lsid:ipni.org:names:448639-1,wfo-0000220835,5608739,,
+17e01cee-8fcb-11eb-924d-9cd76263cbd0,species,denudata,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 412 (1834)",,,,,,urn:lsid:ipni.org:names:448640-1,wfo-0000220836,5608736,,
+17ee8ac2-8fcb-11eb-924d-9cd76263cbd0,species,epilobioides,Keithia,,Epling,0,1936,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 131 (1936)",,,,,,urn:lsid:ipni.org:names:133384-2,wfo-0000220837,5608733,,
+17fd79e2-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 412 (1834)",,,,,,urn:lsid:ipni.org:names:448642-1,wfo-0000220838,7308445,,
 dcd2cc3a-9bac-11eb-a8a2-19ed5c03f8d3,species,juniperi,Keithia,,"J.K. Mill.",,1935,,"J. Elisha Mitchell scient. Soc. 51: 170 (1935)",,,,dcd2cc3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,268483," "
-180bac4c-8fcb-11eb-924d-9cd76263cbd0,species,lavanduloides,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 411 1834",,,,,,448643-1,wfo-0000220839,5608726,,
-1836042e-8fcb-11eb-924d-9cd76263cbd0,species,marifolia,Keithia,,Schauer,Q69408,1847,,"Linnaea 20: 705 1847",,,,,,133388-2,wfo-0000220842,5608723,,
-18440d62-8fcb-11eb-924d-9cd76263cbd0,species,minima,Keithia,,J.A.Schmidt,Q2650527,1858,,"Fl. Bras. 8: 173 1858",,,,,,448645-1,wfo-0000220843,5608721,,
-18522500-8fcb-11eb-924d-9cd76263cbd0,species,nitida,Keithia,,Benth.,Q731808,1848,,"Prodr. 12: 247 1848",,,,,,448646-1,wfo-0000220844,5608716,,
-1860a42c-8fcb-11eb-924d-9cd76263cbd0,species,parvula,Keithia,,Epling,Q924619,1936,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 131 1936",,,,,,133391-2,wfo-0000220845,5608710,,
-186f1872-8fcb-11eb-924d-9cd76263cbd0,species,pilosa,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 411 1834",,,,,,448648-1,wfo-0000220846,5608705,,
-187d39a2-8fcb-11eb-924d-9cd76263cbd0,species,rubiacea,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 410 1834",,,,,,448649-1,wfo-0000220847,5608698,,
-188bb784-8fcb-11eb-924d-9cd76263cbd0,species,scutellarioides,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 410 1834",,,,,,448650-1,wfo-0000220848,7308419,,
+180bac4c-8fcb-11eb-924d-9cd76263cbd0,species,lavanduloides,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 411 (1834)",,,,,,urn:lsid:ipni.org:names:448643-1,wfo-0000220839,5608726,,
+1836042e-8fcb-11eb-924d-9cd76263cbd0,species,marifolia,Keithia,,S.Schauer,0,1847,,"Linnaea 20: 705 (1847)",,,,,,urn:lsid:ipni.org:names:133388-2,wfo-0000220842,5608723,,
+18440d62-8fcb-11eb-924d-9cd76263cbd0,species,minima,Keithia,,J.A.Schmidt,0,1858,,"Fl. Bras. 8: 173 (1858)",,,,,,urn:lsid:ipni.org:names:448645-1,wfo-0000220843,5608721,,
+18522500-8fcb-11eb-924d-9cd76263cbd0,species,nitida,Keithia,,Benth.,0,1848,,"Prodr. 12: 247 (1848)",,,,,,urn:lsid:ipni.org:names:448646-1,wfo-0000220844,5608716,,
+1860a42c-8fcb-11eb-924d-9cd76263cbd0,species,parvula,Keithia,,Epling,0,1936,,"Repert. Spec. Nov. Regni Veg. Beih. 85: 131 (1936)",,,,,,urn:lsid:ipni.org:names:133391-2,wfo-0000220845,5608710,,
+186f1872-8fcb-11eb-924d-9cd76263cbd0,species,pilosa,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 411 (1834)",,,,,,urn:lsid:ipni.org:names:448648-1,wfo-0000220846,5608705,,
+187d39a2-8fcb-11eb-924d-9cd76263cbd0,species,rubiacea,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 410 (1834)",,,,,,urn:lsid:ipni.org:names:448649-1,wfo-0000220847,5608698,,
+188bb784-8fcb-11eb-924d-9cd76263cbd0,species,scutellarioides,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 410 (1834)",,,,,,urn:lsid:ipni.org:names:448650-1,wfo-0000220848,7308419,,
+77361a4e-1d4d-11ec-82c2-f14daa6f2d93,variety,pilosa,Keithia,scutellarioides,"(Benth.) J.A.Schmidt",,,,"Fl. Bras. (Martius) 8(1): 172. 1858 [24 Jul 1858]",,,,,,urn:lsid:ipni.org:names:133395-2,wfo-0001393388,,,
 9c26e224-9bad-11eb-a8a2-19ed5c03f8d3,species,tetramicrospora,Keithia,,Shope,,,,,,,,9c26e224-9bad-11eb-a8a2-19ed5c03f8d3,,,,,332728," "
-4e95eba0-9bac-11eb-a8a2-19ed5c03f8d3,species,tetraspora,Keithia,,"(W. Phillips & Keith ex W. Phillips) Sacc.",Q707840,1892,,"Syll. fung. (Abellini) 10: 49 (1892)",,,,883760f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227783," "
+4e95eba0-9bac-11eb-a8a2-19ed5c03f8d3,species,tetraspora,Keithia,,"(W. Phillips & Keith ex W. Phillips) Sacc.",0,1892,,"Syll. fung. (Abellini) 10: 49 (1892)",,,,883760f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227783," "
 4eb99b68-9bac-11eb-a8a2-19ed5c03f8d3,species,thujina,Keithia,,"E.J. Durand",,1913,,"Mycologia 5(1): 9 (1913)",,,,4eb99b68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,228081," "
 9bb8619c-9bac-11eb-a8a2-19ed5c03f8d3,species,tsugae,Keithia,,"(Farl.) E.J. Durand",,1913,,"Mycologia 5(1): 10 (1913)",,,,75d2bb90-9bab-11eb-a8a2-19ed5c03f8d3,,,,,215876," "
-1899cd4c-8fcb-11eb-924d-9cd76263cbd0,species,villosa,Keithia,,Benth.,Q731808,1834,,"Labiat. Gen. Spec. 411 1834",,,,,,448651-1,wfo-0000220849,7308415,,
-2bdfc832-8fcd-11eb-924d-9cd76263cbd0,species,natalensis,Keitia,,Regel,Q62989,1878,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 640 1878",,,,,,439723-1,wfo-0000784555,2750449,,
+1899cd4c-8fcb-11eb-924d-9cd76263cbd0,species,villosa,Keithia,,Benth.,0,1834,,"Labiat. Gen. Spec. : 411 (1834)",,,,,,urn:lsid:ipni.org:names:448651-1,wfo-0000220849,7308415,,
+77365da6-1d4d-11ec-82c2-f14daa6f2d93,variety,glabriuscula,Keithia,villosa,J.A.Schmidt,,,,"Fl. Bras. (Martius) 8(1): 174. 1858 [24 Jul 1858]",,,,,,urn:lsid:ipni.org:names:133397-2,wfo-0001393389,,,
+2bdfc832-8fcd-11eb-924d-9cd76263cbd0,species,natalensis,Keitia,,Regel,0,1878,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 5: 640 (1878)",,,,,,urn:lsid:ipni.org:names:439723-1,wfo-0000784555,2750449,,

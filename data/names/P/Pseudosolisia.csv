@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9335968-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosolisia,,,Y.Itô,Q6170304,1981,,"Cactaceae 477. 1981.",,,,,,,wfo-4000031697,7283538,,
-460bdc60-8fcc-11eb-924d-9cd76263cbd0,species,valdeziana,Pseudosolisia,,"(H.Moeller) Y.Itô","Q14943083,Q6170304",1981,,"Cactaceae 477 1981",,,,,,909630-1,wfo-0000397957,7283539,,
-b7fa01de-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Pseudosophora,,Galushko,Q18719735,,,,,,,,,,wfo-0001061813,7636829,,
-b9d3687e-8fc8-11eb-924d-9cd76263cbd0,species,alopecuroides,Pseudosophora,,"(L.) Sweet","Q1043,Q2003356",,,,,,,,,,wfo-0000209410,2959102,,
-aedef9ea-8fc0-11eb-924d-9cd76263cbd0,species,sericea,Pseudosophora,,Sweet,Q2003356,,,,,,,,,,wfo-0000167477,2958955,,
+e9335968-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosolisia,,,Y.Itô,0,1981,,"Cactaceae: 477. 1981.",,,,,,,wfo-4000031697,7283538,,
+460bdc60-8fcc-11eb-924d-9cd76263cbd0,species,valdeziana,Pseudosolisia,,"(H.Moeller) Y.Itô",0,1981,,"Cactaceae: 477. 1981.",,,,,,,wfo-0000397957,7283539,,
+872ce572-1d4d-11ec-82c2-f14daa6f2d93,variety,albiflora,Pseudosolisia,valdeziana,Y.Itô,,,,"Cactaceae: 478. 1981.",,,,,,,wfo-0001433772,,,
+b7fa01de-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Pseudosophora,,"(L.) Galushko",0,,,"Fl. Severn. Kavkaza Vopr. Ist. 3: 56. 1979",,,,,,urn:lsid:ipni.org:names:515944-1,wfo-0001061813,7636829,,
+b9d3687e-8fc8-11eb-924d-9cd76263cbd0,species,alopecuroides,Pseudosophora,,"(L.) Sweet",0,,,"Hort. Brit. , ed. 2: 122 (1830)",,,,,,urn:lsid:ipni.org:names:515942-1,wfo-0000209410,2959102,,
+aedef9ea-8fc0-11eb-924d-9cd76263cbd0,species,sericea,Pseudosophora,,"(Raf.) Sweet",0,,,"Hort. Brit. , ed. 2: 122 (1830)",,,,,,urn:lsid:ipni.org:names:515945-1,wfo-0000167477,2958955,,

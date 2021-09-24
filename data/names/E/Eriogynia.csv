@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3715afc-8fd1-11eb-924d-9cd76263cbd0,genus,Eriogynia,,,Hook.,Q472639,1832,,"Fl. Bor.-Amer. 1(5): 255–256, pl. 88. 1832.",,,,,,,wfo-4000013842,3024756,,
-a1a99304-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Eriogynia,,"(Nutt. ex Torr. & A.Gray) S.Watson","Q728337,Q1346660,Q347356,Q960820",1890,,"; 1890 242 1890",,Q55758373,,a1a9b3c0-8fcd-11eb-924d-9cd76263cbd0,,724822-1,wfo-0001013747,3030199,,
-a026e43c-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Eriogynia,,"Canby ex Greene","Q16648094,Q2661665",1887,,"; 1887 104 1887",,,,,,,wfo-0001010626,7881909,,
-a1a959a2-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Eriogynia,,Canby,Q16648094,1891,,"; 1891 236 1891",,,,,,,wfo-0001013745,3024757,,
-9cdda734-8fcd-11eb-924d-9cd76263cbd0,species,pectinata,Eriogynia,,"(Pursh) Hook.","Q67353,Q472639",1829,,"Flora boreali-americana ; 1829 255, t.88 1832",,,,,,,wfo-0001003655,3024759,,
-94d5042e-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Eriogynia,,S.Watson,Q960820,1890,,"; 1890 130 1890",,,,,,95642-2,wfo-0000987105,3024758,,
+e3715afc-8fd1-11eb-924d-9cd76263cbd0,genus,Eriogynia,,,Hook.,0,1832,,"Fl. Bor.-Amer. 1: 255 (1832)",,,,,,urn:lsid:ipni.org:names:30302622-2,wfo-4000013842,3024756,,
+a1a99304-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Eriogynia,,S.Watson,0,1890,,"Bot. Gaz. 15: 242. 1890",,Q55758373,,a1a9b3c0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:724822-1,wfo-0001013747,3030199,,
+a026e43c-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Eriogynia,,"Canby ex Greene",0,1887,,"; 1887 104 1887",,,,,,,wfo-0001010626,7881909,,
+a1a959a2-8fcd-11eb-924d-9cd76263cbd0,species,hendersonii,Eriogynia,,Canby,0,1891,,"Bot. Gaz. 16(8): 236 (-237). 1891 [Aug 1891] (as hendersoni)",,,,,,,wfo-0001013745,3024757,,
+9cdda734-8fcd-11eb-924d-9cd76263cbd0,species,pectinata,Eriogynia,,"(Pursh) Hook.",0,1829,,"Fl. Bor.-Amer. (Hooker) 1(5): 255, t. 88. 1832",,,,,,urn:lsid:ipni.org:names:724824-1,wfo-0001003655,3024759,,
+94d5042e-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Eriogynia,,S.Watson,0,1890,,"Proc. Amer. Acad. Arts 25: 130 (-131). 1890 [25 Sep 1890] ; later publ.: Bot. Gaz. 15(10): 241-242. Oct 1890.",,,,,,urn:lsid:ipni.org:names:95642-2,wfo-0000987105,3024758,,

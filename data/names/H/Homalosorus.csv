@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4d3b66a-8fd1-11eb-924d-9cd76263cbd0,genus,Homalosorus,,,Pic.Serm.,Q2607627,1977,,"Webbia 31: 246 (1977).",,Q55757985,,,,298659-2,wfo-4000018166,7289213,,
-cfb44d20-8fcd-11eb-924d-9cd76263cbd0,species,pycnocarpos,Homalosorus,,"(Spreng.) Pic.Serm.","Q62829,Q2607627",1977,,"Webbia 31(1): 246 1977",,Q55757985,,,,123746-2,wfo-0001114341,4017086,,
-969475ce-8fbe-11eb-924d-9cd76263cbd0,species,pycnocarpus,Homalosorus,,Small,Q2590065,1935,,"Ferns Vicin. New York 80 1935",,,,,,123747-2,wfo-0000154776,4017067,,
+e4d3b66a-8fd1-11eb-924d-9cd76263cbd0,genus,Homalosorus,,,Pic.Serm.,0,1977,,"Webbia 31: 246 (1977).",,Q55757985,,,,urn:lsid:ipni.org:names:298659-2,wfo-4000018166,7289213,,
+cfb44d20-8fcd-11eb-924d-9cd76263cbd0,species,pycnocarpos,Homalosorus,,"(Spreng.) Pic.Serm.",0,1977,,"Webbia 31(1): 246. 1977",,Q55757985,,,,urn:lsid:ipni.org:names:123746-2,wfo-0001114341,4017086,,
+969475ce-8fbe-11eb-924d-9cd76263cbd0,species,pycnocarpus,Homalosorus,,Small,0,1935,,"Unknown : 80 (1935)",,,,,,urn:lsid:ipni.org:names:123747-2,wfo-0000154776,4017067,,

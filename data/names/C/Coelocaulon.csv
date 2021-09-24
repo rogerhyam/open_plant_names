@@ -1,56 +1,30 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a24c8f1e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Coelocaulon,,,Link,Q215466,1833,,"Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 165 (1833)",,,,a24c8f1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1160," "
-39816cde-9bad-11eb-a8a2-19ed5c03f8d3,species,aculeatum,Coelocaulon,,"(Schreb.) Link","Q162688,Q215466",1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,365749," "
-628440ee-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,aculeatum,Coelocaulon,aculeatum,"(Schreb.) Link","Q162688,Q215466",1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,417084," "
-89b31eaa-9bad-11eb-a8a2-19ed5c03f8d3,form,aculeatum,Coelocaulon,aculeatum,"(Schreb.) Link","Q162688,Q215466",1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,418118," "
+a24c8f1e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Coelocaulon,,,Link,0,1833,,"Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 165 (1833)",,,,a24c8f1e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1160," "
+39816cde-9bad-11eb-a8a2-19ed5c03f8d3,species,aculeatum,Coelocaulon,,"(Schreb.) Link",0,1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,365749," "
+628440ee-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,aculeatum,Coelocaulon,aculeatum,"(Schreb.) Link",0,1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,417084," "
+89b31eaa-9bad-11eb-a8a2-19ed5c03f8d3,form,aculeatum,Coelocaulon,aculeatum,"(Schreb.) Link",0,1833,,"Grundr. Krauterk. 3: 165 (1833)",,,,,,,,,418118," "
 08ce203c-9bad-11eb-a8a2-19ed5c03f8d3,subspecies,hispidum,Coelocaulon,aculeatum,"(Cromb.) D. Hawksw.",,1980,,"in Hawksworth, James & Coppins, Lichenologist 12(1): 106 (1980)",,,,fda6c5c0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,116506," "
-2fce25d4-9bac-11eb-a8a2-19ed5c03f8d3,form,sorediatum,Coelocaulon,aculeatum,"(Du Rietz) D. Hawksw.",Q912007,1980,,"in Hawksworth, James & Coppins, Lichenologist 12(1): 106 (1980)",,,,3d231aae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,118233," "
+2fce25d4-9bac-11eb-a8a2-19ed5c03f8d3,form,sorediatum,Coelocaulon,aculeatum,"(Du Rietz) D. Hawksw.",0,1980,,"in Hawksworth, James & Coppins, Lichenologist 12(1): 106 (1980)",,,,3d231aae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,118233," "
 5d104490-9bad-11eb-a8a2-19ed5c03f8d3,species,australiense,Coelocaulon,,"W.A. Weber",,1975,,"Lich. Exsicc. 454 (1975)",,,,5d104490-9bad-11eb-a8a2-19ed5c03f8d3,,,,,457972," "
-0860e058-9bad-11eb-a8a2-19ed5c03f8d3,species,bohemicum,Coelocaulon,,"(Anders) Clauzade & Cl. Roux",Q14912090,1985,invalid,"Bull. Soc. bot. Centre-Ouest, Nouv. sér., num. spec. 7: 338 (1985)",,,,42aa09f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,103160,"Nom. inval., Art. 33.3 "
-9edddc26-9bac-11eb-a8a2-19ed5c03f8d3,species,californicum,Coelocaulon,,"(Tuck.) Howe","Q1293905,Q21516434",,,,,,,423c3bf6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,383103," "
-4d363520-9bad-11eb-a8a2-19ed5c03f8d3,species,cetrariza,Coelocaulon,,"(Nyl.) Gyeln.",Q932083,,,,,,,0ef3ff86-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410598," "
+0860e058-9bad-11eb-a8a2-19ed5c03f8d3,species,bohemicum,Coelocaulon,,"(Anders) Clauzade & Cl. Roux",0,1985,invalid,"Bull. Soc. bot. Centre-Ouest, Nouv. sér., num. spec. 7: 338 (1985)",,,,42aa09f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,103160,"Nom. inval., Art. 33.3 "
+9edddc26-9bac-11eb-a8a2-19ed5c03f8d3,species,californicum,Coelocaulon,,"(Tuck.) Howe",0,,,,,,,423c3bf6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,383103," "
+4d363520-9bad-11eb-a8a2-19ed5c03f8d3,species,cetrariza,Coelocaulon,,"(Nyl.) Gyeln.",0,,,,,,,0ef3ff86-9bad-11eb-a8a2-19ed5c03f8d3,,,,,410598," "
 2dbac46e-9bac-11eb-a8a2-19ed5c03f8d3,species,crespoae,Coelocaulon,,"Barreno & Vázquez",,1982,,"in Kärnefelt, Mattson & Thell, Lazaroa 3: 236 (1982)",,,,2dbac46e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,115734," "
-4272da12-9bad-11eb-a8a2-19ed5c03f8d3,species,divergens,Coelocaulon,,"(Ach.) R. Howe",Q365923,1912,,"Classif. Fam. Usneac. 19 (1912)",,,,9ef4979a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,383104," "
-66a90f46-9bad-11eb-a8a2-19ed5c03f8d3,form,divergens,Coelocaulon,divergens,"(Ach.) R. Howe",Q365923,,,,,,,9ef4979a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,475394," "
+4272da12-9bad-11eb-a8a2-19ed5c03f8d3,species,divergens,Coelocaulon,,"(Ach.) R. Howe",0,1912,,"Classif. Fam. Usneac. 19 (1912)",,,,9ef4979a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,383104," "
+66a90f46-9bad-11eb-a8a2-19ed5c03f8d3,form,divergens,Coelocaulon,divergens,"(Ach.) R. Howe",0,,,,,,,9ef4979a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,475394," "
 6de2b6f4-9bad-11eb-a8a2-19ed5c03f8d3,form,gracilis,Coelocaulon,divergens,Degel.,,,,,,,,6de2b6f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,475395," "
 9ed655aa-9bac-11eb-a8a2-19ed5c03f8d3,species,divergescens,Coelocaulon,,,,,,,,,,,,,,,383105," "
-2543cee8-9bac-11eb-a8a2-19ed5c03f8d3,species,epiphorellum,Coelocaulon,,"(Nyl.) Kärnefelt",Q932083,1986,,"Op. bot. 86: 64 (1986)",,,,9ea7a28c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103161," "
-27c9d838-9bac-11eb-a8a2-19ed5c03f8d3,species,muricatum,Coelocaulon,,"(Ach.) J.R. Laundon",Q365923,1984,,"Lichenologist 16(1): 55 (1984)",,,,46c080c4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,106698," "
-42730d34-9bad-11eb-a8a2-19ed5c03f8d3,species,odontellum,Coelocaulon,,"(Ach.) R. Howe",Q365923,1912,,"Classific. Usneac. Amer. 20 (1912)",,,,46c35970-9bad-11eb-a8a2-19ed5c03f8d3,,,,,383106," "
+2543cee8-9bac-11eb-a8a2-19ed5c03f8d3,species,epiphorellum,Coelocaulon,,"(Nyl.) Kärnefelt",0,1986,,"Op. bot. 86: 64 (1986)",,,,9ea7a28c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103161," "
+27c9d838-9bac-11eb-a8a2-19ed5c03f8d3,species,muricatum,Coelocaulon,,"(Ach.) J.R. Laundon",0,1984,,"Lichenologist 16(1): 55 (1984)",,,,46c080c4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,106698," "
+42730d34-9bad-11eb-a8a2-19ed5c03f8d3,species,odontellum,Coelocaulon,,"(Ach.) R. Howe",0,1912,,"Classific. Usneac. Amer. 20 (1912)",,,,46c35970-9bad-11eb-a8a2-19ed5c03f8d3,,,,,383106," "
 4273439e-9bad-11eb-a8a2-19ed5c03f8d3,species,oreganum,Coelocaulon,,,,,,,,,,,,,,,383107," "
 6588d1e2-9bac-11eb-a8a2-19ed5c03f8d3,species,palustris,Coelocaulon,,,,,,,,,,6588d1e2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,273418," "
 2dbb0f0a-9bac-11eb-a8a2-19ed5c03f8d3,species,steppae,Coelocaulon,,"(Savicz) Barreno & Vázquez",,1982,,"Lazaroa 3: 239 (1982)",,,,b1babb9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,115735," "
 4273862e-9bad-11eb-a8a2-19ed5c03f8d3,species,sulcatum,Coelocaulon,,,,,,,,,,,,,,,383108," "
-84e24acc-9bad-11eb-a8a2-19ed5c03f8d3,species,tenuissimum,Coelocaulon,,"(L.) R. Howe",Q1043,,,,,,,,,,,,383109," "
-4f097024-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Coelochloa,,"(Hochst. & Nees) Steud.","Q64983,Q76349,Q62821",1840,,"Nomencl. Bot. ed. 2, 1: 394 1840",,,,,,,wfo-0000860361,7600271,,
-cf0b500e-8fcc-11eb-924d-9cd76263cbd0,species,acutiflora,Coelocline,,"(Dunal) A.DC.","Q957583,Q123807",1832,,"Mém. Soc. Phys. Genève 5: 208 1832",,,,,,72620-1,wfo-0000614113,3157167,,
-cf0b71ce-8fcc-11eb-924d-9cd76263cbd0,species,lucida,Coelocline,,"(DC.) A.DC.","Q123057,Q123807",1832,,"Mém. Soc. Phys. Genève 5: 209 1832",,,,,,72621-1,wfo-0000614114,3157137,,
-cf0b9316-8fcc-11eb-924d-9cd76263cbd0,species,oxypetala,Coelocline,,"(DC.) A.DC.","Q123057,Q123807",1832,,"Mém. Soc. Phys. Genève 5: 209 1832",,,,54346884-8fcc-11eb-924d-9cd76263cbd0,,72622-1,wfo-0000614115,3157170,,
-cf0bb4ae-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Coelocline,,"(A.Rich.) A.DC.","Q340247,Q123807",1832,,"Mém. Soc. Phys. Genève 5: 209 1832",,,,,,72623-1,wfo-0000614116,3157028,,
-cf0bdb8c-8fcc-11eb-924d-9cd76263cbd0,species,polycarpa,Coelocline,,"(DC.) A.DC.","Q123057,Q123807",1832,,"Mém. Soc. Phys. Genève 5: 209 1832",,,,,,72624-1,wfo-0000614117,3158282,,
-6a131e38-8fcd-11eb-924d-9cd76263cbd0,species,amicarum,Coelococcus,,"(H.Wendl.) W.Wight","Q66720,Q433419",1905,,"Contr. U. S. Natl. Herb. 9: 244 1905",,Q95371297,,063e0d2e-8fcc-11eb-924d-9cd76263cbd0,,666210-1,wfo-0000905922,2733814,,
-6a155afe-8fcd-11eb-924d-9cd76263cbd0,species,carolinensis,Coelococcus,,Dingler,Q1563946,1887,,"Bot. Centralbl. 32: 349 1887",,,,,,,wfo-0000905933,2733818,,
-6a175e80-8fcd-11eb-924d-9cd76263cbd0,species,salomonensis,Coelococcus,,Warb.,Q62822,1896,,"Ber. Deutsch. Bot. Ges. 14: 141 1896",,Q102247504,,,,666214-1,wfo-0000905944,2733779,,
-6a18c82e-8fcd-11eb-924d-9cd76263cbd0,species,vitiensis,Coelococcus,,H.Wendl.,Q66720,1862,,"Bonplandia (Hannover) 10: 199 1862",,,,,,666215-1,wfo-0000905954,2733810,,
-6a1b9b8a-8fcd-11eb-924d-9cd76263cbd0,species,warburgii,Coelococcus,,Heimerl,Q85207,1903,,"Bull. Soc. Bot. France 50: 572 1903",,,,,,,wfo-0000905965,2733777,,
-2fac97d8-8fcd-11eb-924d-9cd76263cbd0,species,annamiticus,Coelodiscus,,"(Kuntze) Gagnep.","Q62853,Q599122",1926,,"Fl. Indo-Chine 5: 375 1926",,,,ddeb26f4-8fcb-11eb-924d-9cd76263cbd0,,341871-1,wfo-0000793040,5378600,,
-6a221cbc-8fcd-11eb-924d-9cd76263cbd0,species,cambodianus,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 49 1923",,,,,,341872-1,wfo-0000905996,5378698,,
-6a241c24-8fcd-11eb-924d-9cd76263cbd0,species,coudercii,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 49 1923",,,,,,341873-1,wfo-0000906007,5378673,,
-2facb48e-8fcd-11eb-924d-9cd76263cbd0,species,dispar,Coelodiscus,,"(Blume) Kurz","Q76816,Q2587569",1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 244 1873",,,,0526cca0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000793041,5378718,,
-2faceb20-8fcd-11eb-924d-9cd76263cbd0,species,eriocarpoides,Coelodiscus,,Kurz,Q2587569,1877,,"Forest Fl. Burma 392 1877",,,,,,,wfo-0000793042,5378545,,
-2fad516e-8fcd-11eb-924d-9cd76263cbd0,species,eriocarpus,Coelodiscus,,"(Thwaites) Kurz","Q2656749,Q2587569",1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 244 1873",,,,,,,wfo-0000793043,5378494,,
-6a26933c-8fcd-11eb-924d-9cd76263cbd0,species,glabriusculus,Coelodiscus,,Kurz,Q2587569,1877,,"Forest Fl. Burma 2: 393 1877",,,,,,341877-1,wfo-0000906018,5378590,,
-6a28b3ce-8fcd-11eb-924d-9cd76263cbd0,species,hirsutulus,Coelodiscus,,Kurz,Q2587569,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 243 1873",,,,,,,wfo-0000906029,5378487,,
-6a2a46da-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 50 1923",,,,,,341879-1,wfo-0000906040,5378603,,
-2fad6f82-8fcd-11eb-924d-9cd76263cbd0,species,lappaceus,Coelodiscus,,"(Müll.Arg.) Kurz","Q2504914,Q2587569",1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 244 1873",,,,de004bd8-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000793044,5378569,,
-6a2cb942-8fcd-11eb-924d-9cd76263cbd0,species,lauterbachianus,Coelodiscus,,"Pax & K.Hoffm.","Q64244,Q2601446",1910,,"Repert. Spec. Nov. Regni Veg. 8: 481 1910",,Q55751889,,,,341881-1,wfo-0000906051,5378537,,
-6a2f3bb8-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Coelodiscus,,Kurz,Q2587569,1873,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 42(2): 244 1873",,,,,,,wfo-0000906062,5378716,,
-6a306eb6-8fcd-11eb-924d-9cd76263cbd0,species,montanus,Coelodiscus,,Müll.Arg.,Q2504914,1866,,"Prodr. 15(2): 759 1866",,,,,,341883-1,wfo-0000906071,5378684,,
-2fad8ce2-8fcd-11eb-924d-9cd76263cbd0,species,muricatus,Coelodiscus,,"(Wight) Gagnep.","Q1375864,Q599122",1925,,"Fl. Indo-Chine 5: 269 1925",,,,,,341884-1,wfo-0000793045,5378511,,
-6a326c8e-8fcd-11eb-924d-9cd76263cbd0,species,pierrei,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 51 1923",,,,,,341885-1,wfo-0000906082,5378795,,
-6a3487a8-8fcd-11eb-924d-9cd76263cbd0,species,speciosus,Coelodiscus,,Müll.Arg.,Q2504914,1865,,"Linnaea 34: 154 1865",,,,,,341886-1,wfo-0000906093,5378069,,
-6a36a95c-8fcd-11eb-924d-9cd76263cbd0,species,subcuneatus,Coelodiscus,,Gage,Q442067,1922,,"Rec. Bot. Surv. India 9: 240 1922",,,,,,341887-1,wfo-0000906104,5378633,,
-6a38a36a-8fcd-11eb-924d-9cd76263cbd0,species,thorelii,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 51 1923",,,,,,341888-1,wfo-0000906115,5378701,,
-6a3a9fee-8fcd-11eb-924d-9cd76263cbd0,species,thunbergianus,Coelodiscus,,Müll.Arg.,Q2504914,1866,,"Prodr. 15(2): 758 1866",,,,,,341889-1,wfo-0000906126,5378491,,
-2fada736-8fcd-11eb-924d-9cd76263cbd0,species,trinervius,Coelodiscus,,"(K.Schum. & Lauterb.) Pax","Q63545,Q72821,Q64244",1910,,"Repert. Spec. Nov. Regni Veg. 8: 481 1910",,Q55751889,,,,341890-1,wfo-0000793046,5378696,,
-6a3c2f4e-8fcd-11eb-924d-9cd76263cbd0,species,ustulatus,Coelodiscus,,Gagnep.,Q599122,1923,,"Notul. Syst. (Paris) 4: 52 1923",,,,,,341891-1,wfo-0000906137,5378625,,
+84e24acc-9bad-11eb-a8a2-19ed5c03f8d3,species,tenuissimum,Coelocaulon,,"(L.) R. Howe",0,,,,,,,,,,,,383109," "
+4f097024-8fcd-11eb-924d-9cd76263cbd0,species,brevifolia,Coelochloa,,Hochst.,0,1840,,"Nomencl. Bot.  [Steudel], ed. 2. i. 394 (1840).",,,,,,urn:lsid:ipni.org:names:396478-1,wfo-0000860361,7600271,,
+cf0b500e-8fcc-11eb-924d-9cd76263cbd0,species,acutiflora,Coelocline,,A.DC.,0,1832,,"Mém. Soc. Phys. Genève 5: 208 (1832)",,,,,,urn:lsid:ipni.org:names:72620-1,wfo-0000614113,3157167,,
+cf0b71ce-8fcc-11eb-924d-9cd76263cbd0,species,lucida,Coelocline,,A.DC.,0,1832,,"Mém. Soc. Phys. Genève 5: 209 (1832)",,,,,,urn:lsid:ipni.org:names:72621-1,wfo-0000614114,3157137,,
+cf0b9316-8fcc-11eb-924d-9cd76263cbd0,species,oxypetala,Coelocline,,A.DC.,0,1832,,"Mém. Soc. Phys. Genève 5: 209 (1832)",,,,54346884-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:72622-1,wfo-0000614115,3157170,,
+cf0bb4ae-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Coelocline,,A.DC.,0,1832,,"Mém. Soc. Phys. Genève 5: 209 (1832)",,,,,,urn:lsid:ipni.org:names:72623-1,wfo-0000614116,3157028,,
+cf0bdb8c-8fcc-11eb-924d-9cd76263cbd0,species,polycarpa,Coelocline,,A.DC.,0,1832,,"Mém. Soc. Phys. Genève 5: 209 (1832)",,,,,,urn:lsid:ipni.org:names:72624-1,wfo-0000614117,3158282,,

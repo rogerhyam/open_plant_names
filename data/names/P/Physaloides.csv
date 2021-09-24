@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e87727b6-8fd1-11eb-924d-9cd76263cbd0,genus,Physaloides,,,Moench,Q60948,1794,,"(L.  ) Britton and (L.  ) Britton, Methodus (Moench) 473 (1794). [4 May 1794], 1794.",,,,,,,wfo-4000029505,7299657,,
-a76374ea-8fcd-11eb-924d-9cd76263cbd0,species,physaloides,Physaloides,,"Britton ex Small & Vail.","Q553714,Q2590065",1893,,"B. S. & ex Vail., Mem. Torrey Bot. Club 4: 142. 1893.",,,,,,,wfo-0001025064,,,
-a763910a-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Physaloides,,Moench,Q60948,1802,,"Moench and Moench, Suppl. Meth. (Moench) 178. 1802 [2 May 1802], 1802.",,,,,,,wfo-0001025065,3799895,,
-a763ab36-8fcd-11eb-924d-9cd76263cbd0,species,somnifera,Physaloides,,Moench,Q60948,1794,,"Moench et al., Methodus (Moench) 473. 1794 [4 May 1794], 1794.",,,,,,,wfo-0001025066,3799889,,
+e87727b6-8fd1-11eb-924d-9cd76263cbd0,genus,Physaloides,,,Moench,0,1794,,"(L.  ) Britton and (L.  ) Britton, Methodus (Moench) 473 (1794). [4 May 1794], 1794.",,,,,,urn:lsid:ipni.org:names:38494-1,wfo-4000029505,7299657,,
+a76374ea-8fcd-11eb-924d-9cd76263cbd0,species,physaloides,Physaloides,,"Britton ex Small & Vail",0,1893,,"Mem. Torrey Bot. Club 4: 142. 1893",,,,,,urn:lsid:ipni.org:names:817628-1,wfo-0001025064,,,
+a763910a-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Physaloides,,Moench,0,1802,,"Suppl. Meth. (Moench) 178. 1802 [2 May 1802]",,,,,,urn:lsid:ipni.org:names:817629-1,wfo-0001025065,3799895,,
+a763ab36-8fcd-11eb-924d-9cd76263cbd0,species,somnifera,Physaloides,,"(L.) Moench",0,1794,,"Methodus (Moench) 473. 1794 [4 May 1794]",,,,,,urn:lsid:ipni.org:names:817630-1,wfo-0001025066,3799889,,

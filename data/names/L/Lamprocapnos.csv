@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5898620-8fd1-11eb-924d-9cd76263cbd0,genus,Lamprocapnos,,,Endl.,Q78605,1850,,"Gen. Pl. 5: 32. 1850.",,,,,,31686-1,wfo-4000020508,2888563,,
-68177ecc-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Lamprocapnos,,"(L.) Fukuhara","Q1043,Q13409382",1997,,"Pl. Syst. Evol. 206: 415 1997",,Q55755252,,,,995841-1,wfo-0000443459,2888564,,
-6f64996c-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflorus,Lamprocarpus,,"(Blume) Blume",Q76816,,,"Syst. Veg. 7: 1726 1830",,,,8a11d0ae-8fcc-11eb-924d-9cd76263cbd0,,172810-1,wfo-0000456327,2763887,,
-6f66a946-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Lamprocaulos,,"(Spreng. ex Nees) Mast.","Q62829,Q76349,Q787355",1878,,"Monogr. Phan. 1: 349 1878",,,,90b6e23c-8fcc-11eb-924d-9cd76263cbd0,,715966-1,wfo-0000456341,2707490,,
-6f677e70-8fcc-11eb-924d-9cd76263cbd0,species,neesii,Lamprocaulos,,"(Mast.) Mast.",Q787355,1878,,"Monogr. Phan. 1: 349 1878",,,,,,,wfo-0000456348,2707536,,
-6f68b4d4-8fcc-11eb-924d-9cd76263cbd0,species,schlechteri,Lamprocaulos,,Gilg-Ben.,Q5765090,1930,,"Nat. Pflanzenfam. ed. 2 15a: 23 1930",,,,,,715968-1,wfo-0000456354,2707535,,
+e5898620-8fd1-11eb-924d-9cd76263cbd0,genus,Lamprocapnos,,,Endl.,0,1850,,"Gen. Pl. , Suppl. 5: 32 (1850)",,,,,,urn:lsid:ipni.org:names:31686-1,wfo-4000020508,2888563,,
+68177ecc-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Lamprocapnos,,"(L.) Fukuhara",0,1997,,"Pl. Syst. Evol. 206: 415 (1997)",,Q55755252,,,,urn:lsid:ipni.org:names:995841-1,wfo-0000443459,2888564,,
+6f64996c-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflorus,Lamprocarpus,,Blume,0,,,"Syst. Veg., ed. 15 bis 7: 1726 (1830)",,,,8a11d0ae-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:172810-1,wfo-0000456327,2763887,,
+6f66a946-8fcc-11eb-924d-9cd76263cbd0,species,grandis,Lamprocaulos,,Mast.,0,1878,,"Monogr. Phan. 1: 349 (1878)",,,,90b6e23c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:715966-1,wfo-0000456341,2707490,,
+6f677e70-8fcc-11eb-924d-9cd76263cbd0,species,neesii,Lamprocaulos,,Mast.,0,1878,,"Monogr. Phan. 1: 349 (1878)",,,,,,urn:lsid:ipni.org:names:715967-1,wfo-0000456348,2707536,,
+6f68b4d4-8fcc-11eb-924d-9cd76263cbd0,species,schlechteri,Lamprocaulos,,Gilg-Ben.,0,1930,,"Nat. Pflanzenfam. ed. 2 , 15a: 23 (1930)",,,,,,urn:lsid:ipni.org:names:715968-1,wfo-0000456354,2707535,,

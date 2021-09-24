@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e13f8a42-8fd1-11eb-924d-9cd76263cbd0,genus,Carronia,,,F.Muell.,Q708002,1875,,"Fragm. 9: 171. 1875.",,,,,,26898-1,wfo-4000006826,7268688,,
-bfa306b6-8fcc-11eb-924d-9cd76263cbd0,species,multisepalea,Carronia,,F.Muell.,Q708002,1875,,"Fragm. 9: 171 1875",,,,,,580235-1,wfo-0000588383,3829783,,
-bfa36318-8fcc-11eb-924d-9cd76263cbd0,species,pedicellata,Carronia,,Forman,Q5974166,1982,,"Kew Bull. 37: 371 1982",,Q55779870,,,,899415-1,wfo-0000588384,3829767,,
-bfa3a7a6-8fcc-11eb-924d-9cd76263cbd0,species,protensa,Carronia,,"(F.Muell.) Diels","Q708002,Q77123",1910,,"Pflanzenr. IV, 94: 76 1910",,,,c3c44534-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000588385,3829747,,
-bfa3ca2e-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflora,Carronia,,"(Becc.) Diels","Q361037,Q77123",1910,,"Pflanzenr. IV, 94: 76 1910",,,,acd84e60-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000588386,3829737,,
+e13f8a42-8fd1-11eb-924d-9cd76263cbd0,genus,Carronia,,,F.Muell.,0,1875,,"Fragm. 9: 171 (1875)",,,,,,urn:lsid:ipni.org:names:26898-1,wfo-4000006826,7268688,,
+bfa306b6-8fcc-11eb-924d-9cd76263cbd0,species,multisepalea,Carronia,,F.Muell.,0,1875,,"Fragm. 9: 171 (1875)",,,,,,urn:lsid:ipni.org:names:580235-1,wfo-0000588383,3829783,,
+bfa36318-8fcc-11eb-924d-9cd76263cbd0,species,pedicellata,Carronia,,Forman,0,1982,,"Kew Bull. 37: 371 (1982)",,Q55779870,,,,urn:lsid:ipni.org:names:899415-1,wfo-0000588384,3829767,,
+bfa3a7a6-8fcc-11eb-924d-9cd76263cbd0,species,protensa,Carronia,,Diels,0,1910,,"Pflanzenr. , IV, 94: 76 (1910)",,,,c3c44534-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:580236-1,wfo-0000588385,3829747,,
+bfa3ca2e-8fcc-11eb-924d-9cd76263cbd0,species,thyrsiflora,Carronia,,Diels,0,1910,,"Pflanzenr. , IV, 94: 76 (1910)",,,,acd84e60-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:580237-1,wfo-0000588386,3829737,,

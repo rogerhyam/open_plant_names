@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df792376-8fd1-11eb-924d-9cd76263cbd0,genus,Anisopyrum,,,"(Griseb.) Gren. & Duval","Q76351,Q2422955,Q674466",1859,,"Fl. Mass. Adv. Suppl. 24. 1859.",,,,,,,wfo-4000002202,4932670,,
-c717947e-8fcd-11eb-924d-9cd76263cbd0,species,pseudoagropyrum,Anisopyrum,,"Gren. & Duval-Jouve","Q2422955,Q3066356",1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095862,8272799,,
-c717b2c4-8fcd-11eb-924d-9cd76263cbd0,species,ramosum,Anisopyrum,,"Gren. & Duval-Jouve","Q2422955,Q3066356",1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095863,7742099,,
-c717d056-8fcd-11eb-924d-9cd76263cbd0,species,rouxii,Anisopyrum,,"Gren. & Duval-Jouve","Q2422955,Q3066356",1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095864,7845968,,
-9a8c52d6-8fb5-11eb-924d-9cd76263cbd0,species,hypochaerideus,Anisoramphus,,DC.,Q123057,1838,,"251 1838",,,,,,176815-1,wfo-0000080007,5403455,,
-0528f26a-8fb2-11eb-924d-9cd76263cbd0,species,hypochaeroides,Anisoramphus,,Hook.f.,Q157501,1864,,"J. Proc. Linn. Soc., Bot. 7 204 1864",,,,,,176816-1,wfo-0000005304,5702653,,
+df792376-8fd1-11eb-924d-9cd76263cbd0,genus,Anisopyrum,,,"(Griseb.) Gren. & Duval",0,1859,,"Florula massiliensis advena, Supplement 24. 1859",,,,,,urn:lsid:ipni.org:names:77127228-1,wfo-4000002202,4932670,,
+c717947e-8fcd-11eb-924d-9cd76263cbd0,species,pseudoagropyrum,Anisopyrum,,"Gren. & Duval-Jouve",0,1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095862,8272799,,
+c717b2c4-8fcd-11eb-924d-9cd76263cbd0,species,ramosum,Anisopyrum,,"Gren. & Duval-Jouve",0,1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095863,7742099,,
+c717d056-8fcd-11eb-924d-9cd76263cbd0,species,rouxii,Anisopyrum,,"Gren. & Duval-Jouve",0,1860,,"Mém. Soc. Émul. Doubs 4: 391 1860",,,,,,,wfo-0001095864,7845968,,

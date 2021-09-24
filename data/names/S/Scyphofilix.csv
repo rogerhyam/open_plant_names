@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea35eb6e-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphofilix,,,Thouars,Q537070,1806,,"Gen. Nov. Madagasc. 1. 1806. (17 Nov 1806)",,,,,,,wfo-4000034872,7265869,,
-cc79720c-8fcd-11eb-924d-9cd76263cbd0,species,speluncae,Scyphofilix,,Farw.,Q4481339,1931,,"Amer. Midl. Naturalist 263 1931",,Q55765584,,,,231238-2,wfo-0001107649,7265871,,
-77444c6e-8fbc-11eb-924d-9cd76263cbd0,species,strigosa,Scyphofilix,,Farw.,Q4481339,1931,,"Amer. Midl. Naturalist 12: 263 1931",,Q55765584,,,,77099100-1,wfo-0000141411,7740501,,
+ea35eb6e-8fd1-11eb-924d-9cd76263cbd0,genus,Scyphofilix,,,Thouars,0,1806,,"Gen. Nov. Madagasc. : 1 (1806)",,,,,,urn:lsid:ipni.org:names:17221840-1,wfo-4000034872,7265869,,
+cc79720c-8fcd-11eb-924d-9cd76263cbd0,species,speluncae,Scyphofilix,,"(L.) Farw.",0,1931,,"Amer. Midl. Naturalist 12: 263 (1931)",,Q55765584,,,,urn:lsid:ipni.org:names:231238-2,wfo-0001107649,7265871,,
+6b20220e-1d4d-11ec-82c2-f14daa6f2d93,variety,jamaicensis,Scyphofilix,speluncae,Farw.,,,,"Amer. Midl. Naturalist 12: 263 (1931)",,,,,,urn:lsid:ipni.org:names:231239-2,wfo-0001377623,,,
+77444c6e-8fbc-11eb-924d-9cd76263cbd0,species,strigosa,Scyphofilix,,"(Thunb.) Farw.",0,1931,,"Amer. Midl. Naturalist 12: 263 (1931)",,Q55765584,,,,urn:lsid:ipni.org:names:77099100-1,wfo-0000141411,7740501,,

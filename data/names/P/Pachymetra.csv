@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9ef5eae0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pachymetra,,,"B.J. Croft & M.W. Dick",,1989,,"in Dick, Croft, Magarey, Cock & Clark, J. Linn. Soc., Bot. 99: 100 (1989)",,,,9ef5eae0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25269," "
 3b302daa-9bac-11eb-a8a2-19ed5c03f8d3,species,chaunorhiza,Pachymetra,,"B.J. Croft & M.W. Dick",,1989,,"in Dick, Croft, Magarey, Cock & Clark, J. Linn. Soc., Bot. 99(2): 100 (1989)",,,,3b302daa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,134217,"  Holotype IMI 324448"
-7f13f1fa-8fcc-11eb-924d-9cd76263cbd0,species,candida,Pachymitra,,"(Nees) Nees ex Boeckeler","Q76349,Q10307778",1873,,"Linnaea 37: 606 1873",,,,,,311362-1,wfo-0000482849,2721714,,
-7f14da02-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Pachymitra,,"Nees ex Boeckeler","Q76349,Q10307778",1873,,"Linnaea 37: 615 1873",,,,,,311363-1,wfo-0000482857,2720750,,
-7f15480c-8fcc-11eb-924d-9cd76263cbd0,species,rufa,Pachymitra,,"(Nees) Nees ex Boeckeler","Q76349,Q10307778",1873,,"Linnaea 37: 616 1873",,,,,,311364-1,wfo-0000482861,2720753,,
-7f16459a-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Pachymitra,,"(Kunth) Nees","Q77074,Q76349",1842,,"Fl. Bras. 2(1): 115 1842",,,,,,311365-1,wfo-0000482866,2720754,,
+7f13f1fa-8fcc-11eb-924d-9cd76263cbd0,species,candida,Pachymitra,,"Nees ex Boeckeler",0,1873,,"Linnaea 37: 606 (1873)",,,,,,urn:lsid:ipni.org:names:311362-1,wfo-0000482849,2721714,,
+7f14da02-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Pachymitra,,"Nees ex Boeckeler",0,1873,,"Linnaea 37: 615 (1873)",,,,,,urn:lsid:ipni.org:names:311363-1,wfo-0000482857,2720750,,
+7f15480c-8fcc-11eb-924d-9cd76263cbd0,species,rufa,Pachymitra,,"Nees ex Boeckeler",0,1873,,"Linnaea 37: 616 (1873)",,,,,,urn:lsid:ipni.org:names:311364-1,wfo-0000482861,2720753,,
+7f16459a-8fcc-11eb-924d-9cd76263cbd0,species,velutina,Pachymitra,,Nees,0,1842,,"Fl. Bras. 2(1): 115 (1842)",,,,,,urn:lsid:ipni.org:names:311365-1,wfo-0000482866,2720754,,

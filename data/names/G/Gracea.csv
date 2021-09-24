@@ -1,12 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a77a8bbc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gracea,,,"M.W. Dick",,1997,,"Mycol. Res. 101(7): 882 (1997)",,,,a77a8bbc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27314," "
 c78d29f6-9bac-11eb-a8a2-19ed5c03f8d3,species,gracilis,Gracea,,"(E.J. Butler) M.W. Dick",,1997,,"Mycol. Res. 101(7): 882 (1997)",,,,9367921a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,437105," "
-c78da336-9bac-11eb-a8a2-19ed5c03f8d3,species,waterhouseae,Gracea,,"(Karling) M.W. Dick",Q4215243,1997,,"Mycol. Res. 101(7): 882 (1997)",,,,0d09bc7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,437106," "
-13b441fe-8fb2-11eb-924d-9cd76263cbd0,species,frankenioides,Graciela,,Rzed.,Q4178628,1975,,"Cact. Suc. Mex. 20 27 1975",,,,,,210473-1,wfo-0000009902,3134307,,
-8f3a6ee6-8fcd-11eb-924d-9cd76263cbd0,species,pyramidalis,Gracielanthus,,"(Lindl.) R.González & Szlach.","Q378629,Q6109770,Q2624334",1995,,"Fragm. Florist. Geobot. 40: 761 1995",,,,,,996699-1,wfo-0000975106,2847938,,
-8f3a89e4-8fcd-11eb-924d-9cd76263cbd0,species,riodelayensis,Gracielanthus,,"(Burns-Bal.) R.González & Szlach.","Q13993363,Q6109770,Q2624334",1995,,"Fragm. Florist. Geobot. 40: 763 1995",,,,7e3e41ee-8fcd-11eb-924d-9cd76263cbd0,,996700-1,wfo-0000975107,2847928,,
-54ffbf6a-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Gracilea,,"J.Koenig ex Hook.f.","Q64834,Q157501",1896,,"Fl. Brit. India 7: 284 1896",,,,,,,wfo-0000873450,4127750,,
-54ffdc2a-8fcd-11eb-924d-9cd76263cbd0,species,royleana,Gracilea,,Hook.f.,Q157501,1896,,"Fl. Brit. India 7: 284 1896",,,,,,404256-1,wfo-0000873451,4119368,,
-7d56c328-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,,,"(A.Camus) Peitz","Q272128,Q21393395",1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 189 1972",,,,470bc566-8fcd-11eb-924d-9cd76263cbd0,,941837-1,wfo-0000936365,,,
-7d5a6bea-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,,,"(A.Camus) Soó","Q272128,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 318 1966",,,,470bc566-8fcd-11eb-924d-9cd76263cbd0,,626519-1,wfo-0000936398,,,
-ec2e372e-8fcb-11eb-924d-9cd76263cbd0,species,gracilis,,,"(A.Camus) G.Keller & Soó","Q272128,Q1252447,Q281645",1935,,"Repert. Spec. Nov. Regni Veg. Sonderbeih. A 2: 283 1935",,,,470bc566-8fcd-11eb-924d-9cd76263cbd0,,648264-1,wfo-0000258800,,,
+c78da336-9bac-11eb-a8a2-19ed5c03f8d3,species,waterhouseae,Gracea,,"(Karling) M.W. Dick",0,1997,,"Mycol. Res. 101(7): 882 (1997)",,,,0d09bc7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,437106," "
+13b441fe-8fb2-11eb-924d-9cd76263cbd0,species,frankenioides,Graciela,,Rzed.,0,1975,,"Cact. Suc. Mex. 20(2): 27. 1975",,,,,,urn:lsid:ipni.org:names:210473-1,wfo-0000009902,3134307,,
+8f3a6ee6-8fcd-11eb-924d-9cd76263cbd0,species,pyramidalis,Gracielanthus,,"(Lindl.) R.González & Szlach.",0,1995,,"Fragm. Florist. Geobot. 40: 761 (1995)",,,,,,urn:lsid:ipni.org:names:996699-1,wfo-0000975106,2847938,,
+8f3a89e4-8fcd-11eb-924d-9cd76263cbd0,species,riodelayensis,Gracielanthus,,"(Burns-Bal.) R.González & Szlach.",0,1995,,"Fragm. Florist. Geobot. 40: 763 (1995)",,,,7e3e41ee-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:996700-1,wfo-0000975107,2847928,,
+54ffbf6a-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Gracilea,,"J.Koenig ex Rottler",0,1896,,"Neue Schriften Ges. Naturf. Freunde Berlin 4: 218. 1803",,,,,,urn:lsid:ipni.org:names:404255-1,wfo-0000873450,4127750,,
+54ffdc2a-8fcd-11eb-924d-9cd76263cbd0,species,royleana,Gracilea,,Hook.f.,0,1896,,"Fl. Brit. India 7: 284 (1896)",,,,,,urn:lsid:ipni.org:names:404256-1,wfo-0000873451,4119368,,

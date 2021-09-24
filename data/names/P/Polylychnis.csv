@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8def22e-8fd1-11eb-924d-9cd76263cbd0,genus,Polylychnis,,,Bremek.,Q5171231,1938,,"Recueil Trav. Bot. Néerl. 35: 160. 1938.",,Q100443376,,,,297599-2,wfo-4000030751,7263730,,
-422fe366-8fcc-11eb-924d-9cd76263cbd0,species,essequibensis,Polylychnis,,Bremek.,Q5171231,1948,,"Bull. Torrey Bot. Club 75: 667 1948",,,,,,206538-2,wfo-0000393520,3774728,,
-c2463ab4-8fd1-11eb-924d-9cd76263cbd0,species,fulgens,Polylychnis,,Bremek.,Q5171231,1938,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 47: 160 1938",,Q100443376,,,,53145-1,wfo-0001258391,3774711,,
-4227dffe-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Polylychnis,,Wassh.,Q2208142,2006,,"in Fl. Guianas Ser. A, 23(156): 103 2006",,,,,,77073658-1,wfo-0000393485,3774704,,
-4234e2e4-8fcc-11eb-924d-9cd76263cbd0,species,radicans,Polylychnis,,"(Nees) Wassh.","Q76349,Q2208142",2006,,"in Fl. Guianas Ser. A, 23(156): 105 2006",,,,,,77073659-1,wfo-0000393555,3774693,,
+e8def22e-8fd1-11eb-924d-9cd76263cbd0,genus,Polylychnis,,,Bremek.,0,1938,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 47: 160 (1938)",,Q100443376,,,,urn:lsid:ipni.org:names:297599-2,wfo-4000030751,7263730,,
+422fe366-8fcc-11eb-924d-9cd76263cbd0,species,essequibensis,Polylychnis,,Bremek.,0,1948,,"Bull. Torrey Bot. Club 75: 667 (1948)",,,,,,urn:lsid:ipni.org:names:206538-2,wfo-0000393520,3774728,,
+c2463ab4-8fd1-11eb-924d-9cd76263cbd0,species,fulgens,Polylychnis,,Bremek.,0,1938,,"Meded. Bot. Mus. Herb. Rijks Univ. Utrecht No. 47, 160 (1938); et in Rec. Trav. Bot. Neerl. 1938, xxxv. 160.",,Q100443376,,,,urn:lsid:ipni.org:names:53145-1,wfo-0001258391,3774711,,
+4227dffe-8fcc-11eb-924d-9cd76263cbd0,species,ovata,Polylychnis,,Wassh.,0,2006,,"Fl. Guianas , ser. A, 23(156): 103 (2006)",,,,,,urn:lsid:ipni.org:names:77073658-1,wfo-0000393485,3774704,,
+4234e2e4-8fcc-11eb-924d-9cd76263cbd0,species,radicans,Polylychnis,,"(Nees) Wassh.",0,2006,,"Fl. Guianas , ser. A, 23(156): 105 (2006)",,,,,,urn:lsid:ipni.org:names:77073659-1,wfo-0000393555,3774693,,

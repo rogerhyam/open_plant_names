@@ -1,3 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e227b8d0-8fd1-11eb-924d-9cd76263cbd0,genus,Crepidiastrixeris,,,,,,,,,,,,,,wfo-4000009664,7338625,,
-cb71b2da-8fd1-11eb-924d-9cd76263cbd0,species,denticulato-platyphylla,Crepidiastrixeris,,Kitam.,Q4222439,,,,,,,,,,wfo-0001275260,4248823,,
+e227b8d0-8fd1-11eb-924d-9cd76263cbd0,genus,Crepidiastrixeris,,,Kitam.,,,,"Acta Phytotax. Geobot. 6: 235 (1937)",,,,,,urn:lsid:ipni.org:names:8428-1,wfo-4000009664,7338625,,
+47268abe-1d4d-11ec-82c2-f14daa6f2d93,species,denticulato-lanceolata,Crepidiastrixeris,,Kitam.,,,,"Acta Phytotax. Geobot. 11: 132 (1942)",,,,,,urn:lsid:ipni.org:names:199604-1,wfo-0001328546,,,
+cb71b2da-8fd1-11eb-924d-9cd76263cbd0,species,denticulato-platyphylla,Crepidiastrixeris,,"(Makino) Kitam.",0,,,"Acta Phytotax. Geobot. 6: 235 (1937)",,,,,,urn:lsid:ipni.org:names:199605-1,wfo-0001275260,4248823,,
+b6bd53dc-8fb6-11eb-924d-9cd76263cbd0,species,denticulatolanceolata,Crepidiastrixeris,,Kitam.,0,1942,,"Acta Phytotax. Geobot. 11: 132 (1942)",,Q101147455,,,,urn:lsid:ipni.org:names:199604-1,wfo-0000092382,,,
+3c02e8b6-8fb9-11eb-924d-9cd76263cbd0,species,denticulatoplatyphylla,Crepidiastrixeris,,"(Makino) Kitam.",0,1937,,"Acta Phytotax. Geobot. 6: 235 (1937)",,Q101151563,,,,urn:lsid:ipni.org:names:199605-1,wfo-0000116595,,,
+4726ba48-1d4d-11ec-82c2-f14daa6f2d93,species,surugensis,Crepidiastrixeris,,"(Hisauti) Kitam.",,,,"Acta Phytotax. Geobot. 6: 236 (1937)",,,,,,urn:lsid:ipni.org:names:199606-1,wfo-0001328547,,,
+fea37f8c-8fb1-11eb-924d-9cd76263cbd0,species,surugensis,Crepidiastrixeris,,"(Hisauti) Kitam.",0,1937,,"Acta Phytotax. Geobot. 6: 236 (1937)",,Q101151563,,,,urn:lsid:ipni.org:names:199606-1,wfo-0000001799,,,

@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3511f1c-8fd1-11eb-924d-9cd76263cbd0,genus,Engleria,,,O.Hoffm.,Q4147110,,,,,,,,,8792-1,wfo-4000013448,3102892,,
-7882a634-8fb2-11eb-924d-9cd76263cbd0,species,africana,Engleria,,O.Hoffm.,Q4147110,1889,,1889,,,,,,,wfo-0000025455,3102895,,
-1d7d12dc-8fb8-11eb-924d-9cd76263cbd0,variety,radiata,Engleria,africana,Oliv.,Q1161960,,,"Hooker's Icon. Pl. 23: t. 2205 (1892)",,,,,,,wfo-0000106342,10956238,,
-716f2eaa-8fb5-11eb-924d-9cd76263cbd0,species,decumbens,Engleria,,"(Welw. ex Hiern) Hiern","Q78609,Q3568881",1898,,"591 1898",,,,,,,wfo-0000078145,3102893,,
+e3511f1c-8fd1-11eb-924d-9cd76263cbd0,genus,Engleria,,,O.Hoffm.,0,,,"Bot. Jahrb. Syst. 10(3): 273 (1888)",,,,,,urn:lsid:ipni.org:names:8792-1,wfo-4000013448,3102892,,
+7882a634-8fb2-11eb-924d-9cd76263cbd0,species,africana,Engleria,,O.Hoffm.,0,1889,,"Bot. Jahrb. Syst. 10(3): 273 (1888)",,,,,,urn:lsid:ipni.org:names:203201-1,wfo-0000025455,3102895,,
+b5e7cf86-1d47-11ec-82c2-f14daa6f2d93,variety,africana,Engleria,africana,,,,,,,,,,,,wfo-0000052738,,,
+1d7d12dc-8fb8-11eb-924d-9cd76263cbd0,variety,radiata,Engleria,africana,Oliv.,0,,,"Hooker's Icon. Pl. 23: t. 2205 (1892)",,,,,,,wfo-0000106342,10956238,,
+716f2eaa-8fb5-11eb-924d-9cd76263cbd0,species,decumbens,Engleria,,Hiern,0,1898,,"Cat. Afr. Pl. i. 591",,,,,,urn:lsid:ipni.org:names:203202-1,wfo-0000078145,3102893,,

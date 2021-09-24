@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9b3cbbcc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Corethrostroma,,,Kleb.,Q15633478,1933,,"Phytopath. Z. 6(3): 299 (1933)",,,,9b3cbbcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7784," "
-c4c28612-9bac-11eb-a8a2-19ed5c03f8d3,species,laricis,Corethrostroma,,Kleb.,Q15633478,1933,,"Phytopath. Z. 6(3): 299 (1933)",,,,c4c28612-9bac-11eb-a8a2-19ed5c03f8d3,,,,,269004," "
-d3402e4c-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Corethrostylis,,Endl.,Q78605,1839,,"Nov. Stirp. Dec. 1 1839",,,,,,822861-1,wfo-0000621250,3670090,,
-d3404bde-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Corethrostylis,,Steetz,Q4526861,1848,,"Pl. Preiss. 2: 344 1848",,,,,,822862-1,wfo-0000621251,3670071,,
-d3406e20-8fcc-11eb-924d-9cd76263cbd0,species,coriacea,Corethrostylis,,Steud.,Q62821,1845,,"Pl. Preiss. 1: 236 1845",,,,,,822863-1,wfo-0000621252,3670050,,
-d3408e6e-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Corethrostylis,,Steud.,Q62821,1845,,"Pl. Preiss. 1: 236 1845",,,,,,822864-1,wfo-0000621253,3670033,,
-d340e788-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Corethrostylis,,Turcz.,Q2640364,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(2): 148 1852",,,,,,822865-1,wfo-0000621254,3670016,,
-d34116e0-8fcc-11eb-924d-9cd76263cbd0,species,oppositifolia,Corethrostylis,,F.Muell.,Q708002,1860,,"Fragm. 2: 6 1860",,,,,,822866-1,wfo-0000621255,3669996,,
-d3414142-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Corethrostylis,,Turcz.,Q2640364,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(1): 174 1847",,,,,,822867-1,wfo-0000621256,3669979,,
-d3415f06-8fcc-11eb-924d-9cd76263cbd0,species,schulzenii,Corethrostylis,,F.Muell.,Q708002,1855,,"Trans. Philos. Soc. Victoria 1: 36 1855",,,,,,822868-1,wfo-0000621257,3669957,,
-4f1fde9a-8fcd-11eb-924d-9cd76263cbd0,species,bromoides,Corethrum,,Vahl,Q353283,1810,,"Skr. Naturhist.-Selsk. 6: 85 1810",,,,,,396632-1,wfo-0000860562,4152458,,
-d3419f0c-8fcc-11eb-924d-9cd76263cbd0,species,syriaca,Coriandropsis,,H.Wolff,Q4124761,1921,,"Repert. Spec. Nov. Regni Veg. 17: 177 1921",,Q55753180,,,,840746-1,wfo-0000621259,3633828,,
+9b3cbbcc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Corethrostroma,,,Kleb.,0,1933,,"Phytopath. Z. 6(3): 299 (1933)",,,,9b3cbbcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7784," "
+c4c28612-9bac-11eb-a8a2-19ed5c03f8d3,species,laricis,Corethrostroma,,Kleb.,0,1933,,"Phytopath. Z. 6(3): 299 (1933)",,,,c4c28612-9bac-11eb-a8a2-19ed5c03f8d3,,,,,269004," "
+d3402e4c-8fcc-11eb-924d-9cd76263cbd0,species,bracteata,Corethrostylis,,Endl.,0,1839,,"Nov. Stirp. Dec. : 1 (1839)",,,,,,urn:lsid:ipni.org:names:822861-1,wfo-0000621250,3670090,,
+d3404bde-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Corethrostylis,,"(Endl.) Steetz",0,1848,,"Pl. Preiss. 2: 344 (1848)",,,,,,urn:lsid:ipni.org:names:822862-1,wfo-0000621251,3670071,,
+d3406e20-8fcc-11eb-924d-9cd76263cbd0,species,coriacea,Corethrostylis,,Steud.,0,1845,,"Pl. Preiss. 1: 236 (1845)",,,,,,urn:lsid:ipni.org:names:822863-1,wfo-0000621252,3670050,,
+d3408e6e-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Corethrostylis,,Steud.,0,1845,,"Pl. Preiss. 1: 236 (1845)",,,,,,urn:lsid:ipni.org:names:822864-1,wfo-0000621253,3670033,,
+d340e788-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Corethrostylis,,Turcz.,0,1852,,"Bull. Soc. Imp. Naturalistes Moscou 25(II): 148 (1852)",,,,,,urn:lsid:ipni.org:names:822865-1,wfo-0000621254,3670016,,
+d34116e0-8fcc-11eb-924d-9cd76263cbd0,species,oppositifolia,Corethrostylis,,F.Muell.,0,1860,,"Fragm. 2: 6 (1860)",,,,,,urn:lsid:ipni.org:names:822866-1,wfo-0000621255,3669996,,
+d3414142-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Corethrostylis,,Turcz.,0,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(I): 174 (1847)",,,,,,urn:lsid:ipni.org:names:822867-1,wfo-0000621256,3669979,,
+d3415f06-8fcc-11eb-924d-9cd76263cbd0,species,schulzenii,Corethrostylis,,F.Muell.,0,1855,,"Trans. Philos. Soc. Victoria 1: 36. 1855",,,,,,urn:lsid:ipni.org:names:822868-1,wfo-0000621257,3669957,,
+4f1fde9a-8fcd-11eb-924d-9cd76263cbd0,species,bromoides,Corethrum,,Vahl,0,1810,,"Skr. Naturhist.-Selsk. 6: 85 (1810)",,,,,,urn:lsid:ipni.org:names:396632-1,wfo-0000860562,4152458,,
+d3419f0c-8fcc-11eb-924d-9cd76263cbd0,species,syriaca,Coriandropsis,,H.Wolff,0,1921,,"Repert. Spec. Nov. Regni Veg. 17: 177 (1921)",,Q55753180,,,,urn:lsid:ipni.org:names:840746-1,wfo-0000621259,3633828,,

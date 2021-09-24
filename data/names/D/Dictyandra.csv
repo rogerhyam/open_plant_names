@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ba29a4-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyandra,,,"Welw. ex Hook.f.","Q78609,Q157501",1873,,"Gen. Pl. 2: 85. 1873.",,,,,,,wfo-4000011560,2892163,,
-805e0f90-8fcd-11eb-924d-9cd76263cbd0,species,arborescens,Dictyandra,,"Welw. ex Hook.f.","Q78609,Q157501",1873,,"Gen. Pl. 2: 85 1873",,,,,,748333-1,wfo-0000943065,8547845,,
-805e2d90-8fcd-11eb-924d-9cd76263cbd0,species,congolana,Dictyandra,,Robbr.,Q5829832,1984,,"Pl. Syst. Evol. 145: 114 1984",,Q55808572,,,,904033-1,wfo-0000943066,2892164,,
-805e70ca-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Dictyandra,,"(Hook.f.) Hiern","Q157501,Q3568881",1877,,"Fl. Trop. Afr. 3: 86 1877",,,,,,748334-1,wfo-0000943068,2908958,,
-e19d4420-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Dictyanthes,,Raf.,Q364857,1832,,"Gard. Mag. 8: 247 1832",,,,,,93614-1,wfo-0000646312,3589763,,
-e19d60b8-8fcc-11eb-924d-9cd76263cbd0,species,stapeliiflora,Dictyanthes,,Rchb.,Q58053,1837,,"Handb. Nat. Pfl.-Syst. 173 1837",,,,,,93615-1,wfo-0000646313,3589755,,
+e2ba29a4-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyandra,,,"Welw. ex Benth. & Hook.f.",0,1873,,"Gen. Pl. 2: 85 (1873)",,,,,,urn:lsid:ipni.org:names:34480-1,wfo-4000011560,2892163,,
+805e0f90-8fcd-11eb-924d-9cd76263cbd0,species,arborescens,Dictyandra,,"Welw. ex Benth. & Hook.f.",0,1873,,"Gen. Pl. 2: 85 (1873)",,,,,,urn:lsid:ipni.org:names:748333-1,wfo-0000943065,8547845,,
+805e2d90-8fcd-11eb-924d-9cd76263cbd0,species,congolana,Dictyandra,,Robbr.,0,1984,,"Pl. Syst. Evol. 145: 114 (1984)",,Q55808572,,,,urn:lsid:ipni.org:names:904033-1,wfo-0000943066,2892164,,
+805e70ca-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Dictyandra,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 86 (1877)",,,,,,urn:lsid:ipni.org:names:748334-1,wfo-0000943068,2908958,,
+e19d4420-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Dictyanthes,,Raf.,0,1832,,"Gard. Mag. (London) 8: 247 (1832)",,,,,,urn:lsid:ipni.org:names:93614-1,wfo-0000646312,3589763,,
+e19d60b8-8fcc-11eb-924d-9cd76263cbd0,species,stapeliiflora,Dictyanthes,,Rchb.,0,1837,,"Handb. Nat. Pfl.-Syst. 173. 1837 [1-7 Oct 1837]",,,,,,urn:lsid:ipni.org:names:93615-1,wfo-0000646313,3589755,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80a227e-8fd1-11eb-924d-9cd76263cbd0,genus,Parryella,,,"Torr. & A.Gray","Q1346660,Q347356",,,,,,,,,23157-1,wfo-4000028257,2945198,,
-a284707e-8fc2-11eb-924d-9cd76263cbd0,species,filifolia,Parryella,,A.Gray,Q347356,,,,,,,,,,wfo-0000178541,2945199,,
-b76a3824-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Parryella,,"Torr. & A.Gray","Q1346660,Q347356",,,,,,,,,512544-1,wfo-0001060531,2945199,,
-18395b40-8fc3-11eb-924d-9cd76263cbd0,species,rotundata,Parryella,,Wooton,Q1332980,,,,,,,,,,wfo-0000180961,2967036,,
-aca40538-8fd1-11eb-924d-9cd76263cbd0,species,axilliflora,Parryodes,,Jafri,Q6117016,1957,,"Notes Roy. Bot. Gard. Edinburgh 22(3): 207 1957",,,,,,,wfo-0001218438,3046615,,
-aca42590-8fd1-11eb-924d-9cd76263cbd0,species,villosa,Parryopsis,,"(Maxim.) Botsch.","Q77640,Q2546434",1955,,"Bot. Mag. 17: 172 1955",,,,acb60044-8fd1-11eb-924d-9cd76263cbd0,,288026-1,wfo-0001218439,3050572,,
+e80a227e-8fd1-11eb-924d-9cd76263cbd0,genus,Parryella,,,"Torr. & A.Gray",0,,,"Proc. Amer. Acad. Arts 7: 397 (1868)",,,,,,urn:lsid:ipni.org:names:23157-1,wfo-4000028257,2945198,,
+a284707e-8fc2-11eb-924d-9cd76263cbd0,species,filifolia,Parryella,,A.Gray,0,,,,,,,,,,wfo-0000178541,2945199,,
+b76a3824-8fcd-11eb-924d-9cd76263cbd0,species,filifolia,Parryella,,"Torr. & A.Gray",0,,,"Proc. Amer. Acad. Arts 7: 397 (1868)",,,,,,urn:lsid:ipni.org:names:512544-1,wfo-0001060531,2945199,,
+18395b40-8fc3-11eb-924d-9cd76263cbd0,species,rotundata,Parryella,,Wooton,0,,,"Bull. Torrey Bot. Club 25: 457 (1898)",,,,,,urn:lsid:ipni.org:names:183968-2,wfo-0000180961,2967036,,
+aca40538-8fd1-11eb-924d-9cd76263cbd0,species,axilliflora,Parryodes,,Jofri,0,1957,,"Notes Roy. Bot. Gard. Edinburgh 22: 207. 1957",,,,,,urn:lsid:ipni.org:names:288025-1,wfo-0001218438,3046615,,
+aca42590-8fd1-11eb-924d-9cd76263cbd0,species,villosa,Parryopsis,,"(Maxim.) Botsch.",0,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 17: 172 (1955)",,,,acb60044-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:288026-1,wfo-0001218439,3050572,,

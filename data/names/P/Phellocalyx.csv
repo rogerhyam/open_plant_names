@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85ab3a6-8fd1-11eb-924d-9cd76263cbd0,genus,Phellocalyx,,,Bridson,Q4096470,1980,,"Kew Bull. 35: 315. 1980.",,Q55783495,,,,35106-1,wfo-4000029176,2910205,,
-f23e25fc-8fcb-11eb-924d-9cd76263cbd0,species,vollescenii,Phellocalyx,,Bridson,Q4096470,1980,,"Kew Bull. 35: 316 1980",,Q55783495,,,,760434-1,wfo-0000268363,2910206,,
-830bdd32-8fc1-11eb-924d-9cd76263cbd0,species,acutus,Phellocarpus,,Benth.,Q731808,,,,,,,,,,wfo-0000172349,2944838,,
-82f59770-8fc1-11eb-924d-9cd76263cbd0,species,amazonum,Phellocarpus,,Benth.,Q731808,,,,,,,,,192673-2,wfo-0000172347,2944837,,
-bcf9a16c-8fc3-11eb-924d-9cd76263cbd0,species,floridus,Phellocarpus,,Benth.,Q731808,,,,,,,,,,wfo-0000184425,2944915,,
-b4f8ac7e-8fcd-11eb-924d-9cd76263cbd0,species,laxiflorus,Phellocarpus,,Benth.,Q731808,1837,,"Comm. Legum. Gen. 42–43 1837",,,,,,514207-1,wfo-0001054915,3976162,,
+e85ab3a6-8fd1-11eb-924d-9cd76263cbd0,genus,Phellocalyx,,,Bridson,0,1980,,"Kew Bull. 35: 315 (1980)",,Q55783495,,,,urn:lsid:ipni.org:names:35106-1,wfo-4000029176,2910205,,
+f23e25fc-8fcb-11eb-924d-9cd76263cbd0,species,vollesenii,Phellocalyx,,Bridson,0,1980,,"Kew Bull. 35: 316 (1980)",,Q55783495,,,,urn:lsid:ipni.org:names:760434-1,wfo-0000268363,2910206,,
+830bdd32-8fc1-11eb-924d-9cd76263cbd0,species,acutus,Phellocarpus,,Benth.,0,,,"Ann. Wiener Mus. Naturgesch. ii. (1838) 1-6.",,,,,,urn:lsid:ipni.org:names:514200-1,wfo-0000172349,2944838,,
+82f59770-8fc1-11eb-924d-9cd76263cbd0,species,amazonum,Phellocarpus,,"Mart. ex Benth.",0,,,,,,,,,urn:lsid:ipni.org:names:192673-2,wfo-0000172347,2944837,,
+bcf9a16c-8fc3-11eb-924d-9cd76263cbd0,species,floridus,Phellocarpus,,Benth.,0,,,"Ann. Wiener Mus. Naturgesch. ii. (1838) 1-6.",,,,,,urn:lsid:ipni.org:names:514204-1,wfo-0000184425,2944915,,
+b4f8ac7e-8fcd-11eb-924d-9cd76263cbd0,species,laxiflorus,Phellocarpus,,Benth.,0,1837,,"Comm. Legum. Gen. : 42 (1837)",,,,,,urn:lsid:ipni.org:names:514207-1,wfo-0001054915,3976162,,

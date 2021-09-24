@@ -1,5 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a14ef41c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Actinomma,,,Sacc.,Q707840,1884,,"Atti Real Ist. Veneto Sci. Lett., Sér. 6 2: 462 (1884)",,,,a14ef41c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7053," "
-61146892-9bac-11eb-a8a2-19ed5c03f8d3,species,gastonis,Actinomma,,Sacc.,Q707840,1884,,"Atti Real Ist. Veneto Sci. Lett., Sér. 6 2: (1884)",,,,61146892-9bac-11eb-a8a2-19ed5c03f8d3,,,,,149337," "
-c9261ec6-9bac-11eb-a8a2-19ed5c03f8d3,species,subtropicum,Actinomma,,Speg.,Q648013,1910,,"Anal. Mus. nac. B. Aires, Ser. 3 13: 461 (1910)",,,,c9261ec6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,149260," "
-d54b801a-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Actinomorphe,,"(Blume) Miq.","Q76816,Q76742",1840,,"Fl. Ned. Ind. 1(1): 749 1840",,,,,,,wfo-0000624440,3038802,,
+a14ef41c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Actinomma,,,Sacc.,0,1884,,"Atti Real Ist. Veneto Sci. Lett., Sér. 6 2: 462 (1884)",,,,a14ef41c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7053," "
+61146892-9bac-11eb-a8a2-19ed5c03f8d3,species,gastonis,Actinomma,,Sacc.,0,1884,,"Atti Real Ist. Veneto Sci. Lett., Sér. 6 2: (1884)",,,,61146892-9bac-11eb-a8a2-19ed5c03f8d3,,,,,149337," "
+c9261ec6-9bac-11eb-a8a2-19ed5c03f8d3,species,subtropicum,Actinomma,,Speg.,0,1910,,"Anal. Mus. nac. B. Aires, Ser. 3 13: 461 (1910)",,,,c9261ec6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,149260," "
+596c760c-1d4d-11ec-82c2-f14daa6f2d93,species,ambigua,Actinomorphe,,Kuntze,,,,"Revis. Gen. Pl. 2: 570. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:462342-1,wfo-0001353036,,,
+596ca2f8-1d4d-11ec-82c2-f14daa6f2d93,species,hirsuta,Actinomorphe,,Kuntze,,,,"Revis. Gen. Pl. 2: 570. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:462343-1,wfo-0001353037,,,
+d54b801a-8fcc-11eb-924d-9cd76263cbd0,species,humilis,Actinomorphe,,Miq.,0,1840,,"Fl. Ned. Ind. 1(1): 749 (1840)",,,,,,urn:lsid:ipni.org:names:89505-1,wfo-0000624440,3038802,,
+596cd408-1d4d-11ec-82c2-f14daa6f2d93,species,madraspatana,Actinomorphe,,Kuntze,,,,"Revis. Gen. Pl. 2: 570. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:462344-1,wfo-0001353038,,,
+596d112a-1d4d-11ec-82c2-f14daa6f2d93,species,molochina,Actinomorphe,,Kuntze,,,,"Revis. Gen. Pl. 2: 570. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:462345-1,wfo-0001353039,,,

@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea9831e8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerorrhiza,,,"Roalson & Boggan","Q5835645,Q5933383",2005,,"Selbyana 25(2): 236. 2005. (19 Dec 2005)",,Q91188489,,,,60441820-2,wfo-4000035993,6365706,,
-cc677544-8fd1-11eb-924d-9cd76263cbd0,species,burchellii,Sphaerorrhiza,,"(S.M.Phillips) Roalson & Boggan","Q2883975,Q5835645,Q5933383",2005,,"Selbyana 25(2): 236 2005",,Q91188489,,92ce2526-8fcc-11eb-924d-9cd76263cbd0,,60441822-2,wfo-0001276996,3823819,,
-cc67a474-8fd1-11eb-924d-9cd76263cbd0,species,sarmentiana,Sphaerorrhiza,,"(Gardner ex Hook.) Roalson & Boggan","Q2404423,Q472639,Q5835645,Q5933383",2005,,"Selbyana 25(2): 236 2005",,Q91188489,,02cd7dc2-8fcd-11eb-924d-9cd76263cbd0,,60441821-2,wfo-0001276997,3823798,,
+ea9831e8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerorrhiza,,,"Roalson & Boggan",0,2005,,"Selbyana 25: 236 (2005)",,Q91188489,,,,urn:lsid:ipni.org:names:60441820-2,wfo-4000035993,6365706,,
+cc677544-8fd1-11eb-924d-9cd76263cbd0,species,burchellii,Sphaerorrhiza,,"(S.M.Phillips) Roalson & Boggan",0,2005,,"Selbyana 25: 236 (2005)",,Q91188489,,92ce2526-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60441822-2,wfo-0001276996,3823819,,
+3fdb7454-1d4d-11ec-82c2-f14daa6f2d93,species,rosulata,Sphaerorrhiza,,"A.O.Araujo & Chautems",,,,"Syst. Bot. 41: 660 (2016)",,,,,,urn:lsid:ipni.org:names:77160724-1,wfo-0001318620,,,
+cc67a474-8fd1-11eb-924d-9cd76263cbd0,species,sarmentiana,Sphaerorrhiza,,"(Gardner ex Hook.) Roalson & Boggan",0,2005,,"Selbyana 25: 236 (2005)",,Q91188489,,02cd7dc2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60441821-2,wfo-0001276997,3823798,,
+3fd636b0-1d4d-11ec-82c2-f14daa6f2d93,species,serrata,Sphaerorrhiza,,"A.O.Araujo & Chautems",,,,"Syst. Bot. 41: 662 (2016)",,,,,,urn:lsid:ipni.org:names:77160727-1,wfo-0001318588,,,

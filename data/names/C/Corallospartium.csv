@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2078c5e-8fd1-11eb-924d-9cd76263cbd0,genus,Corallospartium,,,,,,,,,,,,,,wfo-4000009250,9450389,,
-0c9b81a4-8fc4-11eb-924d-9cd76263cbd0,species,crassicaule,Corallospartium,,"(Hook.f.) J.Armstr.",Q157501,,,,,,,,,,wfo-0000186063,2941169,,
-650b4e22-8fc5-11eb-924d-9cd76263cbd0,variety,racemosum,Corallospartium,crassicaule,Kirk,Q930525,,,,,,,,,,wfo-0000192831,2941170,,
-6517af5a-8fc5-11eb-924d-9cd76263cbd0,species,racemosus,Corallospartium,,"(Kirk) Cockayne & Allan","Q930525,Q2268390,Q3296972",,,,,,,,,,wfo-0000192832,,,
+e2078c5e-8fd1-11eb-924d-9cd76263cbd0,genus,Corallospartium,,,J.B.Armstr.,,,,"Trans. & Proc. New Zealand Inst. 13: 333 (1881)",,,,,,urn:lsid:ipni.org:names:22085-1,wfo-4000009250,9450389,,
+0c9b81a4-8fc4-11eb-924d-9cd76263cbd0,species,crassicaule,Corallospartium,,"(Hook.f.) Armstr.",0,,,"Trans. & Proc. New Zealand Inst. 13: 333 (1881)",,,,,,urn:lsid:ipni.org:names:487132-1,wfo-0000186063,2941169,,
+294a908a-1d48-11ec-82c2-f14daa6f2d93,variety,crassicaule,Corallospartium,crassicaule,"(Hook.f.) J.Armstr.",,,,,,,,,,,wfo-0000192834,,,
+650b4e22-8fc5-11eb-924d-9cd76263cbd0,variety,racemosum,Corallospartium,crassicaule,Kirk,0,,,"Stud. Fl. New Zealand : 107 (1899)",,,,,,urn:lsid:ipni.org:names:77081598-1,wfo-0000192831,2941170,,
+6517af5a-8fc5-11eb-924d-9cd76263cbd0,species,racemosum,Corallospartium,,"(Kirk) Cockayne & Allan",0,,,"Trans. & Proc. New Zealand Inst. 57: 50 (1927)",,,,,,urn:lsid:ipni.org:names:487133-1,wfo-0000192832,,,

@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec686d62-8fd1-11eb-924d-9cd76263cbd0,genus,Ochradiscus,,,"S.Blanco & C.E.Wetzel","Q47114278,Q42617063",2016,,"Phytotaxa 266(3): 200 (2016)",,Q28945103,,,,77164722-1,wfo-4001303350,9519204,,
-bbd4e64e-8fd1-11eb-924d-9cd76263cbd0,species,arguta,Ochranthe,,Lindl.,Q378629,1819,,"Edwards's Bot. Reg. 21: , pl. 1819 1836",,,,,,783902-1,wfo-0001246297,3786633,,
-759d9688-8fc9-11eb-924d-9cd76263cbd0,species,polystachya,Ochreata,,"(Fresen.) Bobrov","Q77670,Q4088747",,,,,,,,,,wfo-0000213052,2973731,,
+ec686d62-8fd1-11eb-924d-9cd76263cbd0,genus,Ochradiscus,,,"S.Blanco & C.E.Wetzel",0,2016,,"Phytotaxa 266(3): 200 (2016)",,Q28945103,,,,urn:lsid:ipni.org:names:77164722-1,wfo-4001303350,9519204,,
+7f4f61e0-1d4d-11ec-82c2-f14daa6f2d93,species,aucheri,Ochradiscus,,"(Boiss.) S.Blanco & C.E.Wetzel",,,,"Phytotaxa 266(3): 201. 2016 [24 Jun 2016] [epublished]",,,,,,urn:lsid:ipni.org:names:77164723-1,wfo-0001421812,,,
+7f4f8af8-1d4d-11ec-82c2-f14daa6f2d93,species,ochradeni,Ochradiscus,,"(Boiss.) S.Blanco & C.E.Wetzel",,,,"Phytotaxa 266(3): 201. 2016 [24 Jun 2016] [epublished]",,,,,,urn:lsid:ipni.org:names:77164726-1,wfo-0001421813,,,
+bbd4e64e-8fd1-11eb-924d-9cd76263cbd0,species,arguta,Ochranthe,,Lindl.,0,1819,,"Edwards's Bot. Reg. 21: t. 1819 (1836)",,,,,,urn:lsid:ipni.org:names:783902-1,wfo-0001246297,3786633,,
+759d9688-8fc9-11eb-924d-9cd76263cbd0,species,polystachya,Ochreata,,"(Fresen.) Bobrov",0,,,"Bot. Zhurn. (Moscow & Leningrad) 52: 1598 (1967)",,,,,,urn:lsid:ipni.org:names:509790-1,wfo-0000213052,2973731,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3b2a56-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrasida,,,Ulbr.,Q74592,1916,,"Bot. Jahrb. Syst. 54(Beibl. 117): 66. 1916.",,,,,,297655-2,wfo-4000037986,7279076,,
-bf0abf5e-8fcd-11eb-924d-9cd76263cbd0,species,chachapoyensis,Tetrasida,,"(Baker f.) Fryxell & Fuertes","Q4081202,Q7150752,Q15819681",1992,,"Brittonia 44(4): 444 1992",,Q55771133,,bec6be26-8fcd-11eb-924d-9cd76263cbd0,,969567-1,wfo-0001077942,3936601,,
-bec78220-8fcd-11eb-924d-9cd76263cbd0,species,polyantha,Tetrasida,,Ulbr.,Q74592,1916,,"Bot. Jahrb. Syst. 54(Beibl. 117): 66 1916",,,,,,251990-2,wfo-0001077335,3936596,,
-bf0c198a-8fcd-11eb-924d-9cd76263cbd0,species,serrulata,Tetrasida,,"Fryxell & Fuertes","Q7150752,Q15819681",1992,,"Brittonia 44(4): 444–447, f. 5 1992",,Q55771133,,,,306090-2,wfo-0001077955,3936586,,
-c7513478-8fd1-11eb-924d-9cd76263cbd0,species,tulla,Tetrasida,,"(Ulbr.) Fuertes & Fryxell","Q74592,Q15819681,Q7150752",2002,,"Lundellia 5: 115 2002",,Q100428228,,bec79bf2-8fcd-11eb-924d-9cd76263cbd0,,20010221-1,wfo-0001267485,3936583,,
-be182dee-8fd1-11eb-924d-9cd76263cbd0,species,weberbaueri,Tetrasida,,"(Ulbr.) Fryxell & Fuertes","Q74592,Q7150752,Q15819681",1997,,"Contr. Univ. Michigan Herb. 21: 193 1997",,,,,,1000839-1,wfo-0001250501,3936575,,
+eb3b2a56-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrasida,,,Ulbr.,0,1916,,"Beibl. Bot. Jahrb. Syst. 117: 66 (1916)",,,,,,urn:lsid:ipni.org:names:297655-2,wfo-4000037986,7279076,,
+bf0abf5e-8fcd-11eb-924d-9cd76263cbd0,species,chachapoyensis,Tetrasida,,"(Baker f.) Fryxell & Fuertes",0,1992,,"Brittonia 44: 444 (1992)",,Q55771133,,bec6be26-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:969567-1,wfo-0001077942,3936601,,
+bec78220-8fcd-11eb-924d-9cd76263cbd0,species,polyantha,Tetrasida,,Ulbr.,0,1916,,"Beibl. Bot. Jahrb. Syst. 117: 66 (1916)",,,,,,urn:lsid:ipni.org:names:251990-2,wfo-0001077335,3936596,,
+bf0c198a-8fcd-11eb-924d-9cd76263cbd0,species,serrulata,Tetrasida,,"Fryxell & Fuertes",0,1992,,"Brittonia 44: 444 (1992)",,Q55771133,,,,urn:lsid:ipni.org:names:306090-2,wfo-0001077955,3936586,,
+c7513478-8fd1-11eb-924d-9cd76263cbd0,species,tulla,Tetrasida,,"(Ulbr.) Fuertes & Fryxell",0,2002,,"Lundellia 5: 109 (2002)",,Q100428228,,bec79bf2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20010221-1,wfo-0001267485,3936583,,
+be182dee-8fd1-11eb-924d-9cd76263cbd0,species,weberbaueri,Tetrasida,,"(Ulbr.) Fryxell & Fuertes",0,1997,,"Contr. Univ. Michigan Herb. 21: 193 (1997)",,,,,,urn:lsid:ipni.org:names:1000839-1,wfo-0001250501,3936575,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e87c04b6-8fd1-11eb-924d-9cd76263cbd0,genus,Physorhynchus,,,Hook.,Q472639,1851,,"Icon. Pl. 821, 822. 1851.",,,,,,12923-1,wfo-4000029566,3047520,,
-c5b2976a-8fd1-11eb-924d-9cd76263cbd0,species,brahuicus,Physorhynchus,,Hook.f.,Q157501,,,,,,,,,,wfo-0001264539,5375442,,
-c39c09fc-8fd1-11eb-924d-9cd76263cbd0,species,chamaerapistrum,Physorhynchus,,Boiss.,Q34430,,,,,,,,,,wfo-0001260784,5375443,,
+e87c04b6-8fd1-11eb-924d-9cd76263cbd0,genus,Physorhynchus,,,Hook.,0,1851,,"Hooker's Icon. Pl. 9: t. 821 (1851)",,,,,,urn:lsid:ipni.org:names:12923-1,wfo-4000029566,3047520,,
+c5b2976a-8fd1-11eb-924d-9cd76263cbd0,species,brahuicus,Physorhynchus,,Hook.,0,,,"Hooker's Icon. Pl. 9: t. 821 (1851)",,,,,,urn:lsid:ipni.org:names:288150-1,wfo-0001264539,5375442,,
+c39c09fc-8fd1-11eb-924d-9cd76263cbd0,species,chamaerapistrum,Physorhynchus,,Boiss.,0,,,"Fl. Orient. 1: 403 (1867)",,,,,,urn:lsid:ipni.org:names:288151-1,wfo-0001260784,5375443,,

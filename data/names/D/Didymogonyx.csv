@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec5228ea-8fd1-11eb-924d-9cd76263cbd0,genus,Didymogonyx,,,"(L.G.Clark & Londoño) C.D.Tyrrell, L.G.Clark & Londoño","Q5985175,Q6169260,Q26714019",2012,,"Molec. Phylogen. Evol. 65: 146 (2012)",,Q34298552,,,,77122403-1,wfo-4001303190,8166993,,
-e2148c56-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Didymogyne,,Wedd.,Q983408,1854,,"Ann. Sci. Nat., Bot. IV, 1: 207 1854",,,,,,851490-1,wfo-0000647101,4098268,,
-e214aa60-8fcc-11eb-924d-9cd76263cbd0,species,boehmerioides,Didymogyne,,Wedd.,Q983408,1869,,"Prodr. 16(1): 205 1869",,,,,,851491-1,wfo-0000647102,4098255,,
+ec5228ea-8fd1-11eb-924d-9cd76263cbd0,genus,Didymogonyx,,,"(L.G.Clark & Londoño) C.D.Tyrrell, L.G.Clark & Londoño",0,2012,,"Molec. Phylogen. Evol. 65: 146 (2012)",,Q34298552,,,,urn:lsid:ipni.org:names:77122403-1,wfo-4001303190,8166993,,
+4b3958ca-1d4d-11ec-82c2-f14daa6f2d93,species,geminatum,Didymogonyx,,"(McClure) C.D.Tyrrell, L.G.Clark & Londoño",,,,"Molec. Phylogen. Evol. 65: 146 (2012)",,,,,,urn:lsid:ipni.org:names:77122404-1,wfo-0001334088,,,
+4b39800c-1d4d-11ec-82c2-f14daa6f2d93,species,longispiculatum,Didymogonyx,,"(Londoño & L.G.Clark) C.D.Tyrrell, L.G.Clark & Londoño",,,,"Molec. Phylogen. Evol. 65: 146 (2012)",,,,,,urn:lsid:ipni.org:names:77122405-1,wfo-0001334089,,,
+e2148c56-8fcc-11eb-924d-9cd76263cbd0,species,abyssinica,Didymogyne,,Wedd.,0,1854,,"Ann. Sci. Nat., Bot. sér. 4, 1: 207. 1854",,,,,,urn:lsid:ipni.org:names:851490-1,wfo-0000647101,4098268,,
+e214aa60-8fcc-11eb-924d-9cd76263cbd0,species,boehmerioides,Didymogyne,,Wedd.,0,1869,,"Prodr. 16(1): 205 (1869)",,,,,,urn:lsid:ipni.org:names:851491-1,wfo-0000647102,4098255,,

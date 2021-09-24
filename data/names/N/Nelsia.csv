@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e71dbdf8-8fd1-11eb-924d-9cd76263cbd0,genus,Nelsia,,,Schinz,Q124491,1911,,"Vierteljahrsschr. Naturf. Ges. Zürich 56: 247. 1911[1912].",,,,,,1248-1,wfo-4000025519,7323665,,
-37e1fdc2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Nelsia,,Bamps,Q21340415,1975,,"Garcia de Orta, Sér. Bot. 2: 71 1975",,,,,,60954-1,wfo-0000379915,3675440,,
-37e4fc5c-8fcc-11eb-924d-9cd76263cbd0,species,quadrangula,Nelsia,,"(Engl.) Schinz","Q60718,Q124491",1911,,"Vierteljahrsschr. Naturf. Ges. Zürich 56: 247 1911",,,,,,60955-1,wfo-0000379935,3675435,,
-37e27464-8fcc-11eb-924d-9cd76263cbd0,species,tropidogyna,Nelsia,,C.C.Towns.,Q5656551,1979,,"Kew Bull. 34: 235 1979",,Q55779859,,,,60956-1,wfo-0000379918,3675429,,
+e71dbdf8-8fd1-11eb-924d-9cd76263cbd0,genus,Nelsia,,,Schinz,0,1911,,"Vierteljahrsschr. Naturf. Ges. Zürich 56: 247 (1911)",,,,,,urn:lsid:ipni.org:names:1248-1,wfo-4000025519,7323665,,
+37e1fdc2-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Nelsia,,Bamps,0,1975,,"Garcia de Orta, Sér. Bot. 2: 71 (1975)",,,,,,urn:lsid:ipni.org:names:60954-1,wfo-0000379915,3675440,,
+37e4fc5c-8fcc-11eb-924d-9cd76263cbd0,species,quadrangula,Nelsia,,Schinz,0,1911,,"Vierteljahrsschr. Naturf. Ges. Zürich 56: 247 (1911)",,,,,,urn:lsid:ipni.org:names:60955-1,wfo-0000379935,3675435,,
+37e27464-8fcc-11eb-924d-9cd76263cbd0,species,tropidogyna,Nelsia,,C.C.Towns.,0,1979,,"Kew Bull. 34: 235 (1979)",,Q55779859,,,,urn:lsid:ipni.org:names:60956-1,wfo-0000379918,3675429,,

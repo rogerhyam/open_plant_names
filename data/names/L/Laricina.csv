@@ -1,6 +1,28 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-98b63176-9bad-11eb-a8a2-19ed5c03f8d3,genus,Laricina,,,Velen.,Q950581,1934,,"Monogr. Discom. Bohem. (Prague) 103 (1934)",,,,98b63176-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2641," "
-0c3620ae-9bac-11eb-a8a2-19ed5c03f8d3,species,mollis,Laricina,,Velen.,Q950581,1934,,"Monogr. Discom. Bohem. (Prague) (1934)",,,,0c3620ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271506," "
-2acd826e-8fcc-11eb-924d-9cd76263cbd0,species,fortunei,Laricopsis,,"(Mayr) Mayr",Q89967,1906,,"Fremdländ. Wald - Parkbäume 392 1906",,,,7bd54cdc-8fcc-11eb-924d-9cd76263cbd0,,262407-1,wfo-0000358842,5284978,,
-2acd9d8a-8fcc-11eb-924d-9cd76263cbd0,species,kaempferi,Laricopsis,,"(Lamb.) A.H.Kent","Q374894,Q21392309",1900,,"Man. Conif. new ed.: 403 1900",,,,7e138ce8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000358843,5284977,,
-373696de-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Laricorchis,,"(Kunth) Szlach.","Q77074,Q2624334",2006,,"Richardiana 7: 28 2006",,,,,,77079231-1,wfo-0000808949,2825941,,
+98b63176-9bad-11eb-a8a2-19ed5c03f8d3,genus,Laricina,,,Velen.,0,1934,,"Monogr. Discom. Bohem. (Prague) 103 (1934)",,,,98b63176-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2641," "
+0c3620ae-9bac-11eb-a8a2-19ed5c03f8d3,species,mollis,Laricina,,Velen.,0,1934,,"Monogr. Discom. Bohem. (Prague) (1934)",,,,0c3620ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271506," "
+2acd826e-8fcc-11eb-924d-9cd76263cbd0,species,fortunei,Laricopsis,,Mayr,0,1906,,"Fremdländ. Wald-Parkbäume : 392 (1906)",,,,7bd54cdc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:262407-1,wfo-0000358842,5284978,,
+2acd9d8a-8fcc-11eb-924d-9cd76263cbd0,species,kaempferi,Laricopsis,,Kent,0,1900,,"Man. Conif. , new ed.: 403 (1900)",,,,7e138ce8-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:262408-1,wfo-0000358843,5284977,,
+373696de-8fcd-11eb-924d-9cd76263cbd0,species,aggregata,Laricorchis,,"(Kunth) Szlach.",0,2006,,"Richardiana 7: 28 (2006)",,,,,,urn:lsid:ipni.org:names:77079231-1,wfo-0000808949,2825941,,
+4c67df00-1d4d-11ec-82c2-f14daa6f2d93,species,aristeguietae,Laricorchis,,"(Foldats) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127769-1,wfo-0001335639,,,
+4c680a3e-1d4d-11ec-82c2-f14daa6f2d93,species,condensata,Laricorchis,,"(C.Schweinf.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127770-1,wfo-0001335640,,,
+4c68307c-1d4d-11ec-82c2-f14daa6f2d93,species,fasciculata,Laricorchis,,"(C.Schweinf.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127771-1,wfo-0001335641,,,
+4c6858e0-1d4d-11ec-82c2-f14daa6f2d93,species,fulgens,Laricorchis,,"(Rchb.f.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127772-1,wfo-0001335642,,,
+4c687ff0-1d4d-11ec-82c2-f14daa6f2d93,species,gualaquizensis,Laricorchis,,"(Dodson) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127773-1,wfo-0001335643,,,
+4c68a5b6-1d4d-11ec-82c2-f14daa6f2d93,species,histrionica,Laricorchis,,"(Rchb.f.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127774-1,wfo-0001335644,,,
+4c68cc1c-1d4d-11ec-82c2-f14daa6f2d93,species,loefgrenii,Laricorchis,,"(Cogn.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127775-1,wfo-0001335645,,,
+4c68fd40-1d4d-11ec-82c2-f14daa6f2d93,species,maldonadoensis,Laricorchis,,"(J.T.Atwood) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127776-1,wfo-0001335646,,,
+4c69282e-1d4d-11ec-82c2-f14daa6f2d93,species,mapiriensis,Laricorchis,,"(Kraenzl.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127777-1,wfo-0001335647,,,
+4c6971c6-1d4d-11ec-82c2-f14daa6f2d93,species,nubigena,Laricorchis,,"(Rchb.f.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127778-1,wfo-0001335648,,,
+4c69acf4-1d4d-11ec-82c2-f14daa6f2d93,species,ochracea,Laricorchis,,"(Rchb.f.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127779-1,wfo-0001335649,,,
+4c69d47c-1d4d-11ec-82c2-f14daa6f2d93,species,pendula,Laricorchis,,"(Poepp. & Endl.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127780-1,wfo-0001335650,,,
+4c69fc7c-1d4d-11ec-82c2-f14daa6f2d93,species,pittieri,Laricorchis,,"(Ames) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127781-1,wfo-0001335651,,,
+4c6a227e-1d4d-11ec-82c2-f14daa6f2d93,species,ramosa,Laricorchis,,"(Ruiz & Pav.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127782-1,wfo-0001335652,,,
+4c6a4880-1d4d-11ec-82c2-f14daa6f2d93,species,repens,Laricorchis,,"(L.O.Williams) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127783-1,wfo-0001335653,,,
+4c6a72a6-1d4d-11ec-82c2-f14daa6f2d93,species,rigida,Laricorchis,,"(Barb.Rodr.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127785-1,wfo-0001335654,,,
+4c6a9cd6-1d4d-11ec-82c2-f14daa6f2d93,species,saragurensis,Laricorchis,,"(Dodson) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127786-1,wfo-0001335655,,,
+4c6ac54e-1d4d-11ec-82c2-f14daa6f2d93,species,sillarensis,Laricorchis,,"(Dodson & R.Vásquez) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127787-1,wfo-0001335656,,,
+4c6aeb32-1d4d-11ec-82c2-f14daa6f2d93,species,spathulata,Laricorchis,,"(C.Schweinf.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127788-1,wfo-0001335657,,,
+4c6b12c4-1d4d-11ec-82c2-f14daa6f2d93,species,squarrosa,Laricorchis,,"(Schltr.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127789-1,wfo-0001335658,,,
+4c6b395c-1d4d-11ec-82c2-f14daa6f2d93,species,tafallae,Laricorchis,,"(Rchb.f.) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127790-1,wfo-0001335659,,,
+4c6b60bc-1d4d-11ec-82c2-f14daa6f2d93,species,tonsoniae,Laricorchis,,"(Soto Arenas) Szlach. & Sitko",,,,"Biodivers. Res. Conservation 25: 29 (2012)",,,,,,urn:lsid:ipni.org:names:77127791-1,wfo-0001335660,,,

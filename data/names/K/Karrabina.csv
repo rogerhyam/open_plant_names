@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec5d51ac-8fd1-11eb-924d-9cd76263cbd0,genus,Karrabina,,,"Rozefelds & H.C.Hopkins","Q21607500,Q5893619",2013,,"Austral. Syst. Bot. 26: 180 (2013)",,Q29013652,,,,77133328-1,wfo-4001303278,7355635,,
-5671cb2c-8fcd-11eb-924d-9cd76263cbd0,species,curva,Karroochloa,,"(Nees) Conert & Türpe","Q76349,Q5891900,Q5696269",1969,,"Senckenberg. Biol. 50: 295 1969",,,,4fd32e6e-8fcd-11eb-924d-9cd76263cbd0,,406394-1,wfo-0000876615,4140555,,
-56720aa6-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Karroochloa,,"(L.f.) Conert & Türpe","Q178823,Q5891900,Q5696269",1969,,"Senckenberg. Biol. 50: 303 1969",,,,,,406395-1,wfo-0000876616,2702454,,
-56722a9a-8fcd-11eb-924d-9cd76263cbd0,species,schismoides,Karroochloa,,"(Stapf ex Conert) Conert & Türpe","Q78630,Q5891900,Q5696269",1969,,"Senckenberg. Biol. 50: 299 1969",,,,4fef4eb4-8fcd-11eb-924d-9cd76263cbd0,,406396-1,wfo-0000876617,4140545,,
-567247c8-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Karroochloa,,"(Nees) Conert & Türpe","Q76349,Q5891900,Q5696269",1969,,"Senckenberg. Biol. 50: 308 1969",,,,,,406397-1,wfo-0000876618,4140533,,
+ec5d51ac-8fd1-11eb-924d-9cd76263cbd0,genus,Karrabina,,,"Rozefelds & H.C.Hopkins",0,2013,,"Austral. Syst. Bot. 26: 180 (2013)",,Q29013652,,,,urn:lsid:ipni.org:names:77133328-1,wfo-4001303278,7355635,,
+4d95a470-1d4d-11ec-82c2-f14daa6f2d93,species,benthamiana,Karrabina,,"(F.Muell.) Rozefelds & H.C.Hopkins",,,,"Austral. Syst. Bot. 26: 181 (2013)",,,,,,urn:lsid:ipni.org:names:77133329-1,wfo-0001337338,,,
+4d95d04e-1d4d-11ec-82c2-f14daa6f2d93,species,biagiana,Karrabina,,"(F.Muell.) Rozefelds & H.C.Hopkins",,,,"Austral. Syst. Bot. 26: 181 (2013)",,,,,,urn:lsid:ipni.org:names:77133330-1,wfo-0001337339,,,
+5671cb2c-8fcd-11eb-924d-9cd76263cbd0,species,curva,Karroochloa,,"(Nees) Conert & Türpe",0,1969,,"Senckenberg. Biol. 50: 295 (1969)",,,,4fd32e6e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:406394-1,wfo-0000876615,4140555,,
+56720aa6-8fcd-11eb-924d-9cd76263cbd0,species,purpurea,Karroochloa,,"(L.f.) Conert & Türpe",0,1969,,"Senckenberg. Biol. 50: 303 (1969)",,,,,,urn:lsid:ipni.org:names:406395-1,wfo-0000876616,2702454,,
+56722a9a-8fcd-11eb-924d-9cd76263cbd0,species,schismoides,Karroochloa,,"(Stapf ex Conert) Conert & Türpe",0,1969,,"Senckenberg. Biol. 50: 299 (1969)",,,,4fef4eb4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:406396-1,wfo-0000876617,4140545,,
+567247c8-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Karroochloa,,"(Nees) Conert & Türpe",0,1969,,"Senckenberg. Biol. 50: 308 (1969)",,,,,,urn:lsid:ipni.org:names:406397-1,wfo-0000876618,4140533,,

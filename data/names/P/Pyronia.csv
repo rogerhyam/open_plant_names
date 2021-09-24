@@ -1,2 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9664daa-8fd1-11eb-924d-9cd76263cbd0,genus,Pyronia,,,"H.J.Veitch ex Trab.","Q5673040,Q2017793",,,,,,,,,33999-1,wfo-4000032306,3000990,,
+e9664daa-8fd1-11eb-924d-9cd76263cbd0,genus,Pyronia,,,"Veitch ex Trab.",0,,,"J. Heredity 7: 416 (1916)",,,,,,urn:lsid:ipni.org:names:33999-1,wfo-4000032306,3000990,,
+5b4fb740-1d4d-11ec-82c2-f14daa6f2d93,species,danielii,Pyronia,,Rehder,,,,"J. Arnold Arbor. 7: 148. 1926",,,,,,urn:lsid:ipni.org:names:730639-1,wfo-0001355524,,,
+5b4fdf4a-1d4d-11ec-82c2-f14daa6f2d93,species,veitchii,Pyronia,,Guillaumin,,,,"Bull. Soc. Dendrol. France 1925, 64.",,,,,,urn:lsid:ipni.org:names:730640-1,wfo-0001355525,,,
+963125a0-8fcd-11eb-924d-9cd76263cbd0,species,veitchii,Pyronia,,"(Trab.) Guillaumin",0,1925,,"Bull. Soc. Dendrol. France 1925, 64.",,,,96bc02ec-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:730640-1,wfo-0000989930,,,
+5b500682-1d4d-11ec-82c2-f14daa6f2d93,species,winkleri,Pyronia,,"(L.Daniel ex Bois) Pojark.",,,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 15: 105. 1953",,,,,,urn:lsid:ipni.org:names:730641-1,wfo-0001355526,,,

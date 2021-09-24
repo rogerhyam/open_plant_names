@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4dd371c-8fd1-11eb-924d-9cd76263cbd0,genus,Hosea,,,Ridl.,Q733709,1908,,"J. Straits Branch Roy. Asiat. Soc. 50: 124–125. 1908.",,Q99658354,,,,41299-1,wfo-4000018315,3233648,,
-de558f82-8fc9-11eb-924d-9cd76263cbd0,species,lobbii,Hosea,,"(C.B.Clarke) Ridl.","Q2659116,Q733709",1908,,"J. Straits Branch Roy. Asiat. Soc. 50: 125 1908",,Q99658354,,,,863080-1,wfo-0000215080,8330285,,
-0f0d4a90-8fcd-11eb-924d-9cd76263cbd0,species,malabarica,Hosea,,Dennst.,Q5711541,1818,,"Schlüssel Hortus Malab. 31 1818",,,,,,435595-1,wfo-0000725028,5541663,,
-de631756-8fc9-11eb-924d-9cd76263cbd0,species,lobbii,Hoseanthus,,"(C.B.Clarke) Merr.","Q2659116,Q729926",1917,,"J. Straits Branch Roy. Asiat. Soc. 76: 114 1917",,Q99658072,,,,863081-1,wfo-0000215081,3884500,,
-9631421a-8fcd-11eb-924d-9cd76263cbd0,species,hoseri,,,Wr¢bl.,,1949,,"Bibliography of cultivated trees and shrubs ; 1949 261 1949",,,,,,,wfo-0000989931,,,
+e4dd371c-8fd1-11eb-924d-9cd76263cbd0,genus,Hosea,,,Ridl.,0,1908,,"J. Straits Branch Roy. Asiat. Soc. 50: 124 (1908)",,Q99658354,,,,urn:lsid:ipni.org:names:41299-1,wfo-4000018315,3233648,,
+de558f82-8fc9-11eb-924d-9cd76263cbd0,species,lobbii,Hosea,,"(C.B.Clarke) Ridl.",0,1908,,"J. Straits Branch Roy. Asiat. Soc. 50: 125 (1908)",,Q99658354,,,,urn:lsid:ipni.org:names:863080-1,wfo-0000215080,8330285,,
+0f0d4a90-8fcd-11eb-924d-9cd76263cbd0,species,malabarica,Hosea,,Dennst.,0,1818,,"Schlüssel Hortus Malab. 31. 1818 [20 Oct 1818]",,,,,,urn:lsid:ipni.org:names:435595-1,wfo-0000725028,5541663,,
+de631756-8fc9-11eb-924d-9cd76263cbd0,species,lobbii,Hoseanthus,,Merr.,0,1917,,"J. Straits Branch Roy. Asiat. Soc. 76: 114 (1917)",,Q99658072,,,,urn:lsid:ipni.org:names:863081-1,wfo-0000215081,3884500,,

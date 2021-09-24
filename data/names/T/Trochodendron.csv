@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebad72be-8fd1-11eb-924d-9cd76263cbd0,genus,Trochodendron,,,"Siebold & Zucc.","Q77140,Q77121",1839,,"Fl. Jap. 1: 83. 1839.",,,,,,25616-1,wfo-4000039443,7274049,,
-7074348e-8fcc-11eb-924d-9cd76263cbd0,species,aralioides,Trochodendron,,"Siebold & Zucc.","Q77140,Q77121",1839,,"Fl. Jap. 1: 84 1839",,,,,,927850-1,wfo-0000458292,4191567,,
-1912d71c-8fcd-11eb-924d-9cd76263cbd0,variety,longifolium,Trochodendron,aralioides,"(Maxim.) Maxim.",Q77640,1871,,"Mélanges Biol. Bull. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 8: 371 1871",,,,1912b854-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000745095,,,
-1912b854-8fcd-11eb-924d-9cd76263cbd0,species,longifolium,Trochodendron,,Maxim.,Q77640,1865,,"Index Seminum (LE) 1865: 35 1865",,,,,,,wfo-0000745094,7506849,,
+ebad72be-8fd1-11eb-924d-9cd76263cbd0,genus,Trochodendron,,,"Siebold & Zucc.",0,1839,,"Fl. Jap. 1: 83 (1839)",,,,,,urn:lsid:ipni.org:names:25616-1,wfo-4000039443,7274049,,
+7074348e-8fcc-11eb-924d-9cd76263cbd0,species,aralioides,Trochodendron,,"Siebold & Zucc.",0,1839,,"Fl. Jap. 1: 84 (1839)",,,,,,urn:lsid:ipni.org:names:927850-1,wfo-0000458292,4191567,,
+1912d71c-8fcd-11eb-924d-9cd76263cbd0,variety,longifolium,Trochodendron,aralioides,Maxim.,0,1871,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg 17(nos. 8-18): 145. 1872 [Feb 1872]",,,,1912b854-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77201944-1,wfo-0000745095,,,
+1912b854-8fcd-11eb-924d-9cd76263cbd0,species,longifolium,Trochodendron,,Maxim.,0,1865,,"Index Seminum (LE) 1865: 35 1865",,,,,,,wfo-0000745094,7506849,,

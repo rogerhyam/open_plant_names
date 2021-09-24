@@ -1,25 +1,24 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec128f32-8fd1-11eb-924d-9cd76263cbd0,genus,Willia,,,Müll.Hal.,Q66346,1890,illegitimate,"Int. Polarforsch., Deutsch. Exped. 2: 311. 1890.",,,,ec128f32-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000040734,2670728,5780," "
+ec128f32-8fd1-11eb-924d-9cd76263cbd0,genus,Willia,,,Müll.Hal.,0,1890,illegitimate,"Int. Polarforsch., Deutsch. Exped. 2: 311. 1890.",,,,ec128f32-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000040734,2670728,5780," "
 897e72a0-9bac-11eb-a8a2-19ed5c03f8d3,species,anomala,Willia,,"E.C. Hansen",,1904,,"Zentbl. Bakt. ParasitKde, Abt. II 12: (1904)",,,,897e72a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,191167," "
 ab81ebd8-9bad-11eb-a8a2-19ed5c03f8d3,variety,anomala,Willia,anomala,"E.C. Hansen",,1904,,"Zentbl. Bakt. ParasitKde, Abt. II 12: (1904)",,,,ab81ebd8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,423657," "
 89841854-9bac-11eb-a8a2-19ed5c03f8d3,variety,belgica,Willia,anomala,Lindner,,,,,,,,89841854-9bac-11eb-a8a2-19ed5c03f8d3,,,,,191117," "
-e5a0e742-8fcd-11eb-924d-9cd76263cbd0,species,austroleucophaea,Willia,,"(Besch.) Broth.","Q8078265,Q4348569",1902,,"Nat. Pflanzenfam. I(3): 453 1902",,,,eaec85ee-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001161977,5280351,,
+e5a0e742-8fcd-11eb-924d-9cd76263cbd0,species,austroleucophaea,Willia,,"(Besch.) Broth.",0,1902,,"Nat. Pflanzenfam. I(3): 453 1902",,,,eaec85ee-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001161977,5280351,,
 89b126a0-9bac-11eb-a8a2-19ed5c03f8d3,species,belgica,Willia,,"(Lindner) Zikes",,,,,,,,d555c534-9bac-11eb-a8a2-19ed5c03f8d3,,,,,191330," "
 a1bfa12c-9bac-11eb-a8a2-19ed5c03f8d3,species,bispora,Willia,,Mattlet,,,,,,,,a1bfa12c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,251012," "
-f7505158-8fcd-11eb-924d-9cd76263cbd0,species,brachychaete,Willia,,"(Dusén) R.H.Zander","Q5625930,Q19411576",1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 236 1993",,,,e03c70b4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198675,5280349,,
-f59e6bf6-8fcd-11eb-924d-9cd76263cbd0,species,calobolax,Willia,,"(Müll.Hal.) Lightowlers",Q66346,1985,,"J. Bryol. 13: 370 1985",,,,,,,wfo-0001194961,5280350,,
-ba78e818-9bac-11eb-a8a2-19ed5c03f8d3,species,chodatii,Willia,,"(Zender) Guillierm.",Q36602209,,,,,,,1f0dd3c0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456645," "
-e5a104de-8fcd-11eb-924d-9cd76263cbd0,species,grimmioides,Willia,,Müll.Hal.,Q66346,1890,,"Int. Polarforsch., Deutsch. Exped. 2: 311 1890",,,,,,,wfo-0001161978,8270360,,
-d20cea74-9bac-11eb-a8a2-19ed5c03f8d3,species,guilliermondii,Willia,,"(Pijper) Vuill.",Q717870,1931,,"Encyclop. Mycol. 2: 274 (1931)",,,,be2ee71e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,252491," "
+f7505158-8fcd-11eb-924d-9cd76263cbd0,species,brachychaete,Willia,,"(Dusén) R.H.Zander",0,1993,,"Bull. Buffalo Soc. Nat. Sci. 32: 236 1993",,,,e03c70b4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001198675,5280349,,
+f59e6bf6-8fcd-11eb-924d-9cd76263cbd0,species,calobolax,Willia,,"(Müll.Hal.) Lightowlers",0,1985,,"J. Bryol. 13: 370 1985",,,,,,,wfo-0001194961,5280350,,
+ba78e818-9bac-11eb-a8a2-19ed5c03f8d3,species,chodatii,Willia,,"(Zender) Guillierm.",0,,,,,,,1f0dd3c0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456645," "
+e5a104de-8fcd-11eb-924d-9cd76263cbd0,species,grimmioides,Willia,,Müll.Hal.,0,1890,,"Int. Polarforsch., Deutsch. Exped. 2: 311 1890",,,,,,,wfo-0001161978,8270360,,
+d20cea74-9bac-11eb-a8a2-19ed5c03f8d3,species,guilliermondii,Willia,,"(Pijper) Vuill.",0,1931,,"Encyclop. Mycol. 2: 274 (1931)",,,,be2ee71e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,252491," "
 d22b26a6-9bac-11eb-a8a2-19ed5c03f8d3,species,indica,Willia,,"(De Kruyff) Overeem",,1927,,"De nuttige planten van Nederlandsch Indië 1: 46 (1927)",,,,fb828f18-9bab-11eb-a8a2-19ed5c03f8d3,,,,,252708," "
 131f913e-9bac-11eb-a8a2-19ed5c03f8d3,species,javanica,Willia,,Groen.,,,,,,,,131f913e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456646," "
-ba793962-9bac-11eb-a8a2-19ed5c03f8d3,species,margaritae,Willia,,"(Zender) Guillierm.",Q36602209,,,,,,,fb7357c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456647," "
-e5a12086-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Willia,,"(Hook.f. & Wilson) Müll.Hal.","Q157501,Q8014944,Q66346",1900,,"Gen. Musc. Frond. 424 1900",,,,,,,wfo-0001161979,7753612,,
-ba797e18-9bac-11eb-a8a2-19ed5c03f8d3,species,odessa,Willia,,Weber,Q63875,,,,,,,ba797e18-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456648," "
+ba793962-9bac-11eb-a8a2-19ed5c03f8d3,species,margaritae,Willia,,"(Zender) Guillierm.",0,,,,,,,fb7357c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456647," "
+e5a12086-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Willia,,"(Hook.f. & Wilson) Müll.Hal.",0,1900,,"Gen. Musc. Frond. 424 1900",,,,,,,wfo-0001161979,7753612,,
+ba797e18-9bac-11eb-a8a2-19ed5c03f8d3,species,odessa,Willia,,Weber,0,,,,,,,ba797e18-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456648," "
 e1e9e032-9bac-11eb-a8a2-19ed5c03f8d3,species,productiva,Willia,,"(Beij.) Berkhout",,1923,,"De Schimmelgeslachten Monilia, Oidium, Oospora en Torula, Scheveningen 43 (1923)",,,,006b727e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275263," "
 1c1c6aaa-9bac-11eb-a8a2-19ed5c03f8d3,species,saturnus,Willia,,Klöcker,,,,,,,,1c1c6aaa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,190985,"  published 1904? later publication in 1924"
-ba79c4c2-9bac-11eb-a8a2-19ed5c03f8d3,species,schneggii,Willia,,Weber,Q63875,,,,,,,ba79c4c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456649," "
-e5a139ea-8fcd-11eb-924d-9cd76263cbd0,species,senilis,Willia,,Müll.Hal.,Q66346,1900,,"Gen. Musc. Frond. 424 1900",,,,,,,wfo-0001161980,7744441,,
-ba7a2124-9bac-11eb-a8a2-19ed5c03f8d3,species,trumpyi,Willia,,"(Zender) Guillierm.",Q36602209,,,,,,,9e226734-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456650," "
+ba79c4c2-9bac-11eb-a8a2-19ed5c03f8d3,species,schneggii,Willia,,Weber,0,,,,,,,ba79c4c2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456649," "
+e5a139ea-8fcd-11eb-924d-9cd76263cbd0,species,senilis,Willia,,Müll.Hal.,0,1900,,"Gen. Musc. Frond. 424 1900",,,,,,,wfo-0001161980,7744441,,
+ba7a2124-9bac-11eb-a8a2-19ed5c03f8d3,species,trumpyi,Willia,,"(Zender) Guillierm.",0,,,,,,,9e226734-9bac-11eb-a8a2-19ed5c03f8d3,,,,,456650," "
 7b8777d8-9bab-11eb-a8a2-19ed5c03f8d3,species,wichmanni,Willia,,Zikes,,,,,,,,7b8777d8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,191205," "
-33a7c042-8fcd-11eb-924d-9cd76263cbd0,species,pruinosa,Williamia,,"(Poepp. ex A.Rich.) Baill.","Q61501,Q340247,Q461931",1858,,"Étude Euphorb. 560 1858",,,,,,358224-1,wfo-0000801476,5382547,,

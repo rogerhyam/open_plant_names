@@ -1,8 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e22b9a2c-8fd1-11eb-924d-9cd76263cbd0,genus,Crioceras,,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 1: 1311. 1897.",,,,,,2281-1,wfo-4000009702,3230993,,
-7925d79e-8fcd-11eb-924d-9cd76263cbd0,species,dipladeniiflorus,Crioceras,,"(Stapf) K.Schum.","Q78630,Q63545",1900,,"Nat. Pflanzenfam. Nachtr. 2: 56 1900",,,,,,78181-1,wfo-0000927094,8097978,,
-bca5270e-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Crioceras,,Stapf,Q78630,,,,,,,,,,wfo-0001072559,7587728,,
-7925f67a-8fcd-11eb-924d-9cd76263cbd0,species,longiflorus,Crioceras,,Pierre,Q2593213,,,"Bull. Mens. Soc. Linn. Paris 2: 1312 1897",,,,,,78182-1,wfo-0000927095,5535425,,
-7926133a-8fcd-11eb-924d-9cd76263cbd0,species,arietina,Criosanthes,,"(R.Br.) House","Q155764,Q3139666",1905,,"Bull. Torrey Bot. Club 32: 374 1905",,Q55766757,,,,69469-2,wfo-0000927096,2820329,,
-79262ed8-8fcd-11eb-924d-9cd76263cbd0,species,borealis,Criosanthes,,Raf.,Q364857,1818,,"Amer. Monthly Mag. & Crit. Rev. 2: 268 1818",,,,,,624650-1,wfo-0000927097,2820327,,
-79264bfc-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Criosanthes,,"(Salisb.) Raf.","Q1358261,Q364857",1838,,"Fl. Tellur. 4: 46 1838",,,,,,624651-1,wfo-0000927098,2820506,,
+e22b9a2c-8fd1-11eb-924d-9cd76263cbd0,genus,Crioceras,,,Pierre,0,,,"Bull. Mens. Soc. Linn. Paris 2: 1311 (1897)",,,,,,urn:lsid:ipni.org:names:2281-1,wfo-4000009702,3230993,,
+7925d79e-8fcd-11eb-924d-9cd76263cbd0,species,dipladeniiflorus,Crioceras,,"(Stapf) K.Schum.",0,1900,,"Nat. Pflanzenfam. , Nachtr. 2: 56 (1900)",,,,,,urn:lsid:ipni.org:names:78181-1,wfo-0000927094,8097978,,
+bca5270e-8fcd-11eb-924d-9cd76263cbd0,species,longiflora,Crioceras,,Stapf,0,,,,,,,,,,wfo-0001072559,7587728,,
+7925f67a-8fcd-11eb-924d-9cd76263cbd0,species,longiflorus,Crioceras,,Pierre,0,,,"Bull. Mens. Soc. Linn. Paris 2: 1312 (1897)",,,,,,urn:lsid:ipni.org:names:78182-1,wfo-0000927095,5535425,,

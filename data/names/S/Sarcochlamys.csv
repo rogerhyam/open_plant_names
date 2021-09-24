@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9f2d3a6-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcochlamys,,,Gaudich.,Q1064524,1844,,"Voy. Bonite, Bot. , pl. 89. 1844.",,,,,,40980-1,wfo-4000034029,7300781,,
-b1f671ec-8fd1-11eb-924d-9cd76263cbd0,species,pulcherrima,Sarcochlamys,,Gaudich.,Q1064524,1829,,"Voy. Bonite, Bot. , pl. 89 1829",,,,,,,wfo-0001228172,4100697,,
-08588b5c-8fcc-11eb-924d-9cd76263cbd0,species,gaudichaudii,Sarcoclinium,,Baill.,Q461931,1858,,"Étude Euphorb. 310 1858",,,,,,355982-1,wfo-0000303683,3063593,,
-0858aae2-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Sarcoclinium,,Thwaites,Q2656749,1861,,"Enum. Pl. Zeyl. 279 1861",,Q96016554,,,,355983-1,wfo-0000303684,3063589,,
-0858c7b6-8fcc-11eb-924d-9cd76263cbd0,species,longifolium,Sarcoclinium,,Wight,Q1375864,1887,,"Icon. Pl. Ind. Orient. 5: t. 1887-1888 1852",,,,,,,wfo-0000303685,3063609,,
-0858e49e-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolium,Sarcoclinium,,Kurz,Q2587569,1875,,"Flora 58: 31 1875",,,,,,355986-1,wfo-0000303686,3063615,,
+e9f2d3a6-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcochlamys,,,Gaudich.,0,1844,,"Voy. Bonite, Bot. 3: t. 89 (1844)",,,,,,urn:lsid:ipni.org:names:40980-1,wfo-4000034029,7300781,,
+b1f671ec-8fd1-11eb-924d-9cd76263cbd0,species,pulcherrima,Sarcochlamys,,Gaudich.,0,1829,,"Voy. Bonite, Bot. 3: t. 89 (1844)",,,,,,urn:lsid:ipni.org:names:856515-1,wfo-0001228172,4100697,,
+08588b5c-8fcc-11eb-924d-9cd76263cbd0,species,gaudichaudii,Sarcoclinium,,Baill.,0,1858,,"Étude Euphorb. : 310 (1858)",,,,,,urn:lsid:ipni.org:names:355982-1,wfo-0000303683,3063593,,
+0858aae2-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Sarcoclinium,,Thwaites,0,1861,,"Enum. Pl. Zeyl. : 279 (1861)",,Q96016554,,,,urn:lsid:ipni.org:names:355983-1,wfo-0000303684,3063589,,
+0858c7b6-8fcc-11eb-924d-9cd76263cbd0,species,longifolium,Sarcoclinium,,Wight,0,1887,,"Icon. Pl. Ind. Orient. 5: t. 1887-1888 (1852)",,,,,,urn:lsid:ipni.org:names:355984-1,wfo-0000303685,3063609,,
+0858e49e-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolium,Sarcoclinium,,Kurz,0,1875,,"Flora 58: 31 (1875)",,,,,,urn:lsid:ipni.org:names:355986-1,wfo-0000303686,3063615,,

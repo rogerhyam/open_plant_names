@@ -1,10 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df59a99c-8fd1-11eb-924d-9cd76263cbd0,genus,Anamaria,,,V.C.Souza,Q13512653,2001,,"ol. Bot. Univ. São Paulo 19: 43 (2001).",,,,,,1019220-1,wfo-4000001834,7333452,,
-9cece16e-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Anamaria,,"(Giul. & V.C.Souza) V.C.Souza","Q5391179,Q13512653",2001,,"Bol. Bot. Univ. São Paulo 19: 44 2001",,Q55762268,,c26a3680-8fd1-11eb-924d-9cd76263cbd0,,1120173-2,wfo-0000533328,3742639,,
-9cecfb7c-8fcc-11eb-924d-9cd76263cbd0,species,capensis,Anamenia,,"(L.) Hoffmanns.","Q1043,Q76697",1824,,"Verz. Pfl.-Kult. Nachtr. 1: 204 1824",,,,,,708164-1,wfo-0000533329,5616398,,
-9ced165c-8fcc-11eb-924d-9cd76263cbd0,species,coriacea,Anamenia,,Vent.,Q290065,1803,,"Jard. Malmaison 1: 22 1803",,,,,,,wfo-0000533330,5616396,,
-9ced3132-8fcc-11eb-924d-9cd76263cbd0,species,daucifolia,Anamenia,,"Vent. ex Cav.","Q290065,Q545430",1803,,"Anales Ci. Nat. 6: 344 1803",,,,,,708166-1,wfo-0000533331,5616394,,
-9ced4b22-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Anamenia,,Vent.,Q290065,1803,,"Jard. Malmaison 1: 22 1803",,,,,,708167-1,wfo-0000533332,5616392,,
-9ced6760-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Anamenia,,"Vent. ex Cav.","Q290065,Q545430",1803,,"Anales Ci. Nat. 6: 344 1803",,,,,,708168-1,wfo-0000533333,5616390,,
-9ced8dc6-8fcc-11eb-924d-9cd76263cbd0,species,laserpitiifolia,Anamenia,,"Vent. ex Cav.","Q290065,Q545430",1803,,"Anales Ci. Nat. 6: 344 1803",,,,,,708169-1,wfo-0000533334,5616388,,
-9cee123c-8fcc-11eb-924d-9cd76263cbd0,species,vesicatoria,Anamenia,,"(L.f.) Dum.Cours.","Q178823,Q2618729",1802,,"Bot. Cult. 4: 438 1802",,,,95e2e0c6-8fcc-11eb-924d-9cd76263cbd0,,708170-1,wfo-0000533335,5616387,,
+df59a99c-8fd1-11eb-924d-9cd76263cbd0,genus,Anamaria,,,V.C.Souza,0,2001,,"Bol. Bot. Univ. São Paulo 19: 43 (2001)",,,,,,urn:lsid:ipni.org:names:1019220-1,wfo-4000001834,7333452,,
+9cece16e-8fcc-11eb-924d-9cd76263cbd0,species,heterophylla,Anamaria,,"(Giul. & V.C.Souza) V.C.Souza",0,2001,,"Bol. Bot. Univ. São Paulo 19: 44 (2001)",,Q55762268,,c26a3680-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1120173-2,wfo-0000533328,3742639,,

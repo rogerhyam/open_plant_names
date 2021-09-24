@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a2f859c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Miyoshiella,,,Kawam.,Q3477892,1929,,"Japanese Journal of Botany 4: 295 (1929)",,,,a2f859c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3228," "
-daa03ef2-9bac-11eb-a8a2-19ed5c03f8d3,species,fusispora,Miyoshiella,,Kawam.,Q3477892,1929,,"Japanese Journal of Botany 4: 295 (1929)",,,,daa03ef2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265708," "
+a2f859c0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Miyoshiella,,,Kawam.,0,1929,,"Japanese Journal of Botany 4: 295 (1929)",,,,a2f859c0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3228," "
+daa03ef2-9bac-11eb-a8a2-19ed5c03f8d3,species,fusispora,Miyoshiella,,Kawam.,0,1929,,"Japanese Journal of Botany 4: 295 (1929)",,,,daa03ef2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265708," "
 5b976774-9bad-11eb-a8a2-19ed5c03f8d3,species,larvata,Miyoshiella,,Réblová,,1999,,"Mycotaxon 71: 28 (1999)",,,,5b976774-9bad-11eb-a8a2-19ed5c03f8d3,,,,,450394," "
-dde02e6a-9bac-11eb-a8a2-19ed5c03f8d3,species,macrospora,Miyoshiella,,Kawam.,Q3477892,,,,,,,dde02e6a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270186," "
+dde02e6a-9bac-11eb-a8a2-19ed5c03f8d3,species,macrospora,Miyoshiella,,Kawam.,0,,,,,,,dde02e6a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,270186," "
 49b1ee2c-9bac-11eb-a8a2-19ed5c03f8d3,species,triseptata,Miyoshiella,,"(Shoemaker & G.P. White) Réblová",,1999,,"Mycotaxon 71: 33 (1999)",,,,3686faa4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,450685," "
-fbbb2b60-8fcc-11eb-924d-9cd76263cbd0,species,centralis,Mizonia,,A.Chev.,Q766644,1914,,"Bull. Soc. Bot. France 61(8): 303 1914 publ. 1917",,,,,,65847-1,wfo-0000691427,2853282,,
-fbc0601c-8fcc-11eb-924d-9cd76263cbd0,species,maxima,Mizonia,,"(Forssk.) A.Chev.","Q27684,Q766644",1950,,"Rev. Int. Bot. Appl. Agric. Trop. 30: 626 1950",,Q96002351,,,,65848-1,wfo-0000691460,2853297,,
+fbbb2b60-8fcc-11eb-924d-9cd76263cbd0,species,centralis,Mizonia,,"A.Chev. & A.Chev.",0,1914,,"Mém. Soc. Bot. France 8: 303 (1917)",,,,,,urn:lsid:ipni.org:names:65847-1,wfo-0000691427,2853282,,
+fbc0601c-8fcc-11eb-924d-9cd76263cbd0,species,maxima,Mizonia,,"(Forssk.) A.Chev.",0,1950,,"Rev. Int. Bot. Appl. Agric. Trop. 30: 626 (1950)",,Q96002351,,,,urn:lsid:ipni.org:names:65848-1,wfo-0000691460,2853297,,

@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a4b974-8fd1-11eb-924d-9cd76263cbd0,genus,Plathymenia,,,Benth.,Q731808,,,,,,,,,328383-2,wfo-4000030066,2960738,,
-54b1c364-8fc3-11eb-924d-9cd76263cbd0,species,foliolosa,Plathymenia,,Benth.,Q731808,,,,,,,,,,wfo-0000182202,5355648,,
-6d7083cc-8fc3-11eb-924d-9cd76263cbd0,species,modesta,Plathymenia,,"(Speg.) Burkart","Q648013,Q2748897",,,,,,,6d640d18-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000182755,5355649,,
-54bd847e-8fc3-11eb-924d-9cd76263cbd0,species,reticulata,Plathymenia,,Benth.,Q731808,,,,,,,,,,wfo-0000182203,5355647,,
+e8a4b974-8fd1-11eb-924d-9cd76263cbd0,genus,Plathymenia,,,Benth.,0,,,"J. Bot. (Hooker) 2: 134 (1840)",,,,,,urn:lsid:ipni.org:names:328383-2,wfo-4000030066,2960738,,
+54b1c364-8fc3-11eb-924d-9cd76263cbd0,species,foliolosa,Plathymenia,,Benth.,0,,,"J. Bot. (Hooker) 4: 334. 1841 [Nov 1841]",,,,,,urn:lsid:ipni.org:names:328384-2,wfo-0000182202,5355648,,
+1e8e46f0-1d48-11ec-82c2-f14daa6f2d93,variety,foliolosa,Plathymenia,foliolosa,Benth.,,,,,,,,,,,wfo-0000179863,,,
+6a5461aa-1d4d-11ec-82c2-f14daa6f2d93,variety,paraguariensis,Plathymenia,foliolosa,"Chodat & Hassl.",,,,"Bull. Herb. Boissier ser. 2, 4: 561. 1904",,,,,,urn:lsid:ipni.org:names:201704-2,wfo-0001376609,,,
+6d7083cc-8fc3-11eb-924d-9cd76263cbd0,species,modesta,Plathymenia,,"(Speg.) Burkart",0,,,"Darwiniana 3: 466 (1939)",,,,6d640d18-8fc3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:201705-2,wfo-0000182755,5355649,,
+54bd847e-8fc3-11eb-924d-9cd76263cbd0,species,reticulata,Plathymenia,,Benth.,0,,,"J. Bot. (Hooker) 4: 334 (1841)",,,,,,urn:lsid:ipni.org:names:328385-2,wfo-0000182203,5355647,,

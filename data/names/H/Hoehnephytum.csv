@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4c8f1c6-8fd1-11eb-924d-9cd76263cbd0,genus,Hoehnephytum,,,Cabrera,Q1999131,,,,,,,,,297362-2,wfo-4000018026,3150300,,
-0dde447c-8fb3-11eb-924d-9cd76263cbd0,species,almasense,Hoehnephytum,,D.J.N.Hind,Q5800095,1993,,"257 1993",,,,,,,wfo-0000040565,3150301,,
-85a96316-8fb2-11eb-924d-9cd76263cbd0,species,imbricatum,Hoehnephytum,,"(Gardner) Cabrera","Q2404423,Q1999131",1950,,"54 1950",,Q54638480,,,,123219-2,wfo-0000026963,3150303,,
-859621b4-8fb9-11eb-924d-9cd76263cbd0,species,trixoides,Hoehnephytum,,"(Gardner) Cabrera","Q2404423,Q1999131",1950,,"54 1950",,Q54638480,,6606a866-8fb2-11eb-924d-9cd76263cbd0,,123220-2,wfo-0000119094,3150302,,
-b616050c-8fcd-11eb-924d-9cd76263cbd0,species,africana,Hoepfneria,,Vatke,Q6167475,1879,,"Oesterr. Bot. Z. 29: 222 1879",,,,,,498401-1,wfo-0001057495,3974299,,
-bbe3ec48-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Hoferia,,Franch.,Q377208,1889,,"Pl. Delavay. 105 1889",,,,,,828941-1,wfo-0001246405,7613498,,
+e4c8f1c6-8fd1-11eb-924d-9cd76263cbd0,genus,Hoehnephytum,,,Cabrera,0,,,"Brittonia 7:[53] (1950)",,,,,,urn:lsid:ipni.org:names:297362-2,wfo-4000018026,3150300,,
+0dde447c-8fb3-11eb-924d-9cd76263cbd0,species,almasense,Hoehnephytum,,D.J.N.Hind,0,1993,,"Kew Bull. 48(2): 257 (-259), fig. 5 (1993)",,,,,,urn:lsid:ipni.org:names:305628-2,wfo-0000040565,3150301,,
+85a96316-8fb2-11eb-924d-9cd76263cbd0,species,imbricatum,Hoehnephytum,,"(Gardner) Cabrera",0,1950,,"Brittonia 7: 54 (1950)",,Q54638480,,,,urn:lsid:ipni.org:names:123219-2,wfo-0000026963,3150303,,
+859621b4-8fb9-11eb-924d-9cd76263cbd0,species,trixoides,Hoehnephytum,,"(Gardner) Cabrera",0,1950,,"Brittonia 7: 54 (1950)",,Q54638480,,6606a866-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:123220-2,wfo-0000119094,3150302,,

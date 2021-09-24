@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e217a468-8fd1-11eb-924d-9cd76263cbd0,genus,Costaea,,,A.Rich.,Q340247,1850,,"Hist. Fís. Cuba, Bot. 11: 75. 1850.",,,,,,,wfo-4000009457,3234082,,
-d4d1f678-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Costaea,,A.Rich.,Q340247,1850,,"Hist. Fis. Cuba, Bot. 11: 76 1850",,,,,,,wfo-0000623597,7661816,,
-d4d214c8-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Costaea,,"(Planch.) Gilg","Q1387276,Q77655",1892,,"Nat. Pflanzenfam. 3(5): 182 1892",,,,45075146-8fcc-11eb-924d-9cd76263cbd0,,66805-2,wfo-0000623598,8251009,,
-ab1f6ee0-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Costaea,,"Sessé & Moc.","Q2983613,Q2983655",,,,,,,,,,wfo-0001032898,7651110,,
+e217a468-8fd1-11eb-924d-9cd76263cbd0,genus,Costaea,,,A.Rich.,0,1850,,"Hist. Fis. Cuba, Bot. 11: 75 (1850)",,,,,,urn:lsid:ipni.org:names:14106-1,wfo-4000009457,3234082,,
+d4d1f678-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Costaea,,A.Rich.,0,1850,,"Hist. Fis. Cuba, Bot. 11: 76 (1850)",,,,,,urn:lsid:ipni.org:names:315933-1,wfo-0000623597,7661816,,
+d4d214c8-8fcc-11eb-924d-9cd76263cbd0,species,nutans,Costaea,,"(Planch.) Gilg",0,1892,,"Nat. Pflanzenfam. 3(5): 182 (1892)",,,,45075146-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:66805-2,wfo-0000623598,8251009,,
+ab1f6ee0-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Costaea,,"Sessé & Moc.",0,,,,,,,,,,wfo-0001032898,7651110,,
+7bd532a6-1d4d-11ec-82c2-f14daa6f2d93,variety,angustifolia,Costaea,stenopetala,"M.Gómez & Molinet",,,,"Anales Soc. Esp. Hist. Nat. 19: 251. 1890",,,,,,urn:lsid:ipni.org:names:66807-2,wfo-0001399461,,,

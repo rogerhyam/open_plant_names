@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8f6ce62-8fd1-11eb-924d-9cd76263cbd0,genus,Postiella,,,Kljuykov,Q18619790,1985,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 90(2): 103. 1985.",,,,,,,wfo-4000031010,6026496,,
-ae0f0886-8fcd-11eb-924d-9cd76263cbd0,species,capillifolia,Postiella,,"(Post ex Boiss.) Kljuykov","Q2654973,Q34430,Q18619790",1985,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 90(2): 103 1985",,,,ae0eec20-8fcd-11eb-924d-9cd76263cbd0,,915380-1,wfo-0001039287,3631294,,
-3b680a3a-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Postuera,,"(Vent.) Raf.","Q290065,Q364857",1838,,"Sylva Tellur. 10 1838",,,,,,611030-1,wfo-0000818092,3685009,,
+e8f6ce62-8fd1-11eb-924d-9cd76263cbd0,genus,Postiella,,,Kljuykov,0,1985,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 90(2): 103 (1985)",,,,,,urn:lsid:ipni.org:names:893479-1,wfo-4000031010,6026496,,
+ae0f0886-8fcd-11eb-924d-9cd76263cbd0,species,capillifolia,Postiella,,"(Post) Kljuykov",0,1985,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 90(2): 103 (1985)",,,,ae0eec20-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:915380-1,wfo-0001039287,3631294,,
+3b680a3a-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Postuera,,Raf.,0,1838,,"Sylva Tellur. : 10 (1838)",,,,,,urn:lsid:ipni.org:names:611030-1,wfo-0000818092,3685009,,

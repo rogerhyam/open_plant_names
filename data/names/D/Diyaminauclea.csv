@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2f5455c-8fd1-11eb-924d-9cd76263cbd0,genus,Diyaminauclea,,,Ridsdale,Q4394497,1979,,"Blumea 24: 345. 1979.",,Q96027383,,,,34507-1,wfo-4000012303,2919629,,
-814177a8-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Diyaminauclea,,"(Hook.f.) Ridsdale","Q157501,Q4394497",1978,,"Blumea 24: 345 1978",,Q96027383,,,,748568-1,wfo-0000945066,2919630,,
-27b59b20-8fb3-11eb-924d-9cd76263cbd0,species,longifolium,Dizonium,,Willd.,Q76353,1830,,"Linnaea 5 411 1830",,,,,,201894-1,wfo-0000042755,3119854,,
+e2f5455c-8fd1-11eb-924d-9cd76263cbd0,genus,Diyaminauclea,,,Ridsdale,0,1979,,"Blumea 24: 345 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:34507-1,wfo-4000012303,2919629,,
+814177a8-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Diyaminauclea,,"(Hook.f.) Ridsdale",0,1978,,"Blumea 24: 345 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:748568-1,wfo-0000945066,2919630,,
+27b59b20-8fb3-11eb-924d-9cd76263cbd0,species,longifolium,Dizonium,,Willd.,0,1830,,"Linnaea 5: 411 (1830)",,,,,,urn:lsid:ipni.org:names:201894-1,wfo-0000042755,3119854,,

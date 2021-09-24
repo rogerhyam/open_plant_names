@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e03933fa-8fd1-11eb-924d-9cd76263cbd0,genus,Bidwillia,,,,,,,,,,,,,,wfo-4000004586,,,
-20ef63ba-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Bidwillia,,"(Ruiz & Pav.) G.Don","Q733976,Q332058,Q1381245",,,"Encycl. Pl. new ed.: 1344 1855",,,,,,990967-1,wfo-0000761583,2769694,,
-20ef83e0-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Bidwillia,,Herb.,Q954928,1844,,"Edwards's Bot. Reg. 30(Misc.): 90 1844",,,,,,531905-1,wfo-0000761584,2780582,,
-1fd9cd12-8fcd-11eb-924d-9cd76263cbd0,species,bidwillii,,,"(Worsley) H.E.Moore","Q708064,Q364731",1975,,"Baileya 19: 164 1975",,,,214142de-8fcd-11eb-924d-9cd76263cbd0,,62655-1,wfo-0000759397,,,
-214142de-8fcd-11eb-924d-9cd76263cbd0,species,bidwillii,,,Worsley,Q708064,1926,,"J. Roy. Hort. Soc. 51: 65 1926",,,,,,77107435-1,wfo-0000762186,,,
+e03933fa-8fd1-11eb-924d-9cd76263cbd0,genus,Bidwillia,,,,,,,,,,,,,urn:lsid:ipni.org:names:24047-1,wfo-4000004586,,,
+20ef63ba-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Bidwillia,,"(Ruiz & Pav.) G.Don",0,,,"in Loud. Encyc. Pl. 1344 (1855):.",,,,,,urn:lsid:ipni.org:names:990967-1,wfo-0000761583,2769694,,
+20ef83e0-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Bidwillia,,Herb.,0,1844,,"Edwards's Bot. Reg. 30(Misc.): 90. 1844",,,,,,urn:lsid:ipni.org:names:531905-1,wfo-0000761584,2780582,,

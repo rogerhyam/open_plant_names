@@ -1,7 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a0173f8c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lenormandia,,,Delise,,,,"in Desmazières, Pl. Crypt. Nord France, Edn 1 23: no. 1144 (1841)",,,,a0173f8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,22213," "
-8a77c890-9bad-11eb-a8a2-19ed5c03f8d3,species,grimmiana,Lenormandia,,Stein,Q5727141,,,,,,,8a77c890-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393151," "
-8a7829ca-9bad-11eb-a8a2-19ed5c03f8d3,species,jungermanniae,Lenormandia,,Nyl.,Q932083,1855,,"Annls Sci. Nat., Bot., sér. 4 3: 151 (1855)",,,,8a7829ca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393152," "
-462df790-9bad-11eb-a8a2-19ed5c03f8d3,species,laetevirens,Lenormandia,,"(Borrer) Nyl.","Q3568447,Q932083",,,,,,,,,,,,393153," "
-462e550a-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchella,Lenormandia,,"(Borrer) A. Massal.",Q3568447,,,,,,,93e20a62-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393154," "
-462ea136-9bad-11eb-a8a2-19ed5c03f8d3,species,viridis,Lenormandia,,"(Ach.) Arnold","Q365923,Q2460005",,,,,,,4307418e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393155," "
+8a77c890-9bad-11eb-a8a2-19ed5c03f8d3,species,grimmiana,Lenormandia,,Stein,0,,,,,,,8a77c890-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393151," "
+58e13dda-1d4d-11ec-82c2-f14daa6f2d93,species,insignis,Lenormandia,,Steud.,,,,"Flora 33: 229 (1850), nomen; Syn. Pl. Gram. 359 (1855).",,,,,,urn:lsid:ipni.org:names:407017-1,wfo-0001352241,,,
+8a7829ca-9bad-11eb-a8a2-19ed5c03f8d3,species,jungermanniae,Lenormandia,,Nyl.,0,1855,,"Annls Sci. Nat., Bot., sér. 4 3: 151 (1855)",,,,8a7829ca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393152," "
+462df790-9bad-11eb-a8a2-19ed5c03f8d3,species,laetevirens,Lenormandia,,"(Borrer) Nyl.",0,,,,,,,,,,,,393153," "
+462e550a-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchella,Lenormandia,,"(Borrer) A. Massal.",0,,,,,,,93e20a62-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393154," "
+462ea136-9bad-11eb-a8a2-19ed5c03f8d3,species,viridis,Lenormandia,,"(Ach.) Arnold",0,,,,,,,4307418e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,393155," "

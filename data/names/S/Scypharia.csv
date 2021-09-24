@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9ded483c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Scypharia,,,Quél.,,1886,,"Enchir. fung. (Paris) 281 (1886)",,,,9ded483c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4982," "
-d750d7c4-8fcd-11eb-924d-9cd76263cbd0,species,guayaquilensis,Scypharia,,"(Kunth) Miers","Q77074,Q575253",1860,,"Ann. Mag. Nat. Hist. 6: 9 1860",,Q56101656,,,,718884-1,wfo-0001131324,5602809,,
-8bb91c96-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Scypharia,,Miers,Q575253,1860,,"Ann. Mag. Nat. Hist. III, 6: 10 1860",,Q56101656,,,,718885-1,wfo-0000504132,5602808,,
-d728f0d8-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Scypharia,,"(Hook.f.) Miers","Q157501,Q575253",1860,,"Ann. Mag. Nat. Hist. 6: 10 1860",,,,,,,wfo-0001130966,5602807,,
-d7296036-8fcd-11eb-924d-9cd76263cbd0,species,senticosa,Scypharia,,Miers,Q575253,1860,,"Ann. Mag. Nat. Hist. 6: 11 1860",,Q56101656,,,,718886-1,wfo-0001130970,5602805,,
-d727fdd6-8fcd-11eb-924d-9cd76263cbd0,species,tetragona,Scypharia,,Miers,Q575253,1851,,"Contrib. 1: 302 1851",,,,,,,wfo-0001130957,5602804,,
+d750d7c4-8fcd-11eb-924d-9cd76263cbd0,species,guayaquilensis,Scypharia,,Miers,0,1860,,"Ann. Mag. Nat. Hist. , ser. 3, 6: 9 (1860)",,Q56101656,,,,urn:lsid:ipni.org:names:718884-1,wfo-0001131324,5602809,,
+8bb91c96-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Scypharia,,Miers,0,1860,,"Ann. Mag. Nat. Hist. , ser. 3, 6: 10 (1860)",,Q56101656,,,,urn:lsid:ipni.org:names:718885-1,wfo-0000504132,5602808,,
+d728f0d8-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Scypharia,,"(Hook.f.) Miers",0,1860,,,,,,,,urn:lsid:ipni.org:names:1135961-2,wfo-0001130966,5602807,,
+d7296036-8fcd-11eb-924d-9cd76263cbd0,species,senticosa,Scypharia,,Miers,0,1860,,"Ann. Mag. Nat. Hist. , ser. 3, 6: 11 (1860)",,Q56101656,,,,urn:lsid:ipni.org:names:718886-1,wfo-0001130970,5602805,,
+d727fdd6-8fcd-11eb-924d-9cd76263cbd0,species,tetragona,Scypharia,,Miers,0,1851,,"Ann. Mag. Nat. Hist. ser. 3, 6(31): 12. 1860 [Jul 1860]",,,,,,urn:lsid:ipni.org:names:718887-1,wfo-0001130957,5602804,,

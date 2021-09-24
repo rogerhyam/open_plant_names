@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec6eeffc-8fd1-11eb-924d-9cd76263cbd0,genus,Rupestrea,,,"R.Goldenb., Almeda & Michelang.","Q6105406,Q13637561,Q21340129",2015,,"Syst. Bot. 40(2): 562 (2015)",,Q57540307,,,,77150221-1,wfo-4001303397,8459204,,
-608d64ea-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Rupestrina,,Prov.,Q3271281,1862,,"Fl. Canad. 2: 689 1862",,,,,,1195653-2,wfo-0000896425,4136769,,
+ec6eeffc-8fd1-11eb-924d-9cd76263cbd0,genus,Rupestrea,,,"R.Goldenb., Almeda & Michelang.",0,2015,,"Syst. Bot. 40(2): 562 (2015)",,Q57540307,,,,urn:lsid:ipni.org:names:77150221-1,wfo-4001303397,8459204,,
+3ff978be-1d4d-11ec-82c2-f14daa6f2d93,species,carvalhoana,Rupestrea,,"(Baumgratz & D'El Rei Souza) Almeda, Michelang. & R.Goldenb.",,,,"Syst. Bot. 40(2): 562 (2015)",,,,,,urn:lsid:ipni.org:names:77150222-1,wfo-0001318868,,,
+3ff9ad02-1d4d-11ec-82c2-f14daa6f2d93,species,johnwurdackiana,Rupestrea,,"(Baumgratz & D'El Rei Souza) Michelang., Almeda & R.Goldenb.",,,,"Syst. Bot. 40(2): 564 (2015)",,,,,,urn:lsid:ipni.org:names:77150224-1,wfo-0001318869,,,
+608d64ea-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Rupestrina,,Prov.,0,1862,,"Fl. Canad. 2: 689 (1862)",,,,,,urn:lsid:ipni.org:names:1195653-2,wfo-0000896425,4136769,,

@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec092136-8fd1-11eb-924d-9cd76263cbd0,genus,Weldenia,,,Schult.f.,Q78745,1829,,"Flora 12: 1. 1829.",,,,,,7362-1,wfo-4000040615,2764557,,
-cab23234-8fcc-11eb-924d-9cd76263cbd0,species,candida,Weldenia,,Schult.f.,Q78745,1829,,"Flora 12: 3 1829",,,,,,173591-1,wfo-0000606512,2764558,,
-cab3793c-8fcc-11eb-924d-9cd76263cbd0,form,caerulea,Weldenia,candida,Matuda,Q249152,1959,,"Anales Inst. Biol. Univ. Nac. México 30: 112 1959 publ. 1960",,,,,,268342-2,wfo-0000606523,2764561,,
-cab510c6-8fcc-11eb-924d-9cd76263cbd0,species,schultesii,Weldenia,,Schltdl.,Q62826,1841,,"Hort. Hal. 14 1841",,,,,,173592-1,wfo-0000606534,2764559,,
+ec092136-8fd1-11eb-924d-9cd76263cbd0,genus,Weldenia,,,Schult.f.,0,1829,,"Flora 12: 3 (1829)",,,,,,urn:lsid:ipni.org:names:7362-1,wfo-4000040615,2764557,,
+cab23234-8fcc-11eb-924d-9cd76263cbd0,species,candida,Weldenia,,Schult.f.,0,1829,,"Flora 12: 3 (1829)",,,,,,urn:lsid:ipni.org:names:173591-1,wfo-0000606512,2764558,,
+cab3793c-8fcc-11eb-924d-9cd76263cbd0,form,caerulea,Weldenia,candida,Matuda,0,1959,,"Anales Inst. Biol. Univ. Nac. México 30: 112 (1959 publ. 1960)",,,,,,urn:lsid:ipni.org:names:268342-2,wfo-0000606523,2764561,,
+32029d12-1d4d-11ec-82c2-f14daa6f2d93,form,candida,Weldenia,candida,,,,,,,,,,,,wfo-0001286580,,,
+cab510c6-8fcc-11eb-924d-9cd76263cbd0,species,schultesii,Weldenia,,Schltdl.,0,1841,,"Hort. Hal. : 14 (1841)",,,,,,urn:lsid:ipni.org:names:173592-1,wfo-0000606534,2764559,,

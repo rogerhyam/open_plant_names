@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e405f842-8fd1-11eb-924d-9cd76263cbd0,genus,Glaucidium,,,"Siebold & Zucc.","Q77140,Q77121",1846,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(2): 184. 1846.",,,,,,33146-1,wfo-4000015709,3234339,,
-0262dd8c-8fcd-11eb-924d-9cd76263cbd0,species,palmatum,Glaucidium,,"Siebold & Zucc.","Q77140,Q77121",1845,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(2): 184 1845",,,,,,711245-1,wfo-0000703515,5579436,,
-02631f22-8fcd-11eb-924d-9cd76263cbd0,variety,leucanthum,Glaucidium,palmatum,Makino,Q729955,1910,,"Bot. Mag. (Tokyo) 24: 16 1910",,,,,,,wfo-0000703516,8222953,,
-02634466-8fcd-11eb-924d-9cd76263cbd0,species,paradoxum,Glaucidium,,Makino,Q729955,1910,,"Bot. Mag. (Tokyo) 24: 71 1910",,,,,,711246-1,wfo-0000703517,7576338,,
-02636554-8fcd-11eb-924d-9cd76263cbd0,species,pinnatum,Glaucidium,,"Finet & Gagnep.","Q1657041,Q599122",1904,,"Bull. Soc. Bot. France 51: 392 1904",,Q55756875,,,,711247-1,wfo-0000703518,8410744,,
+e405f842-8fd1-11eb-924d-9cd76263cbd0,genus,Glaucidium,,,"Siebold & Zucc.",0,1846,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(2): 184 (1845)",,,,,,urn:lsid:ipni.org:names:33146-1,wfo-4000015709,3234339,,
+0262dd8c-8fcd-11eb-924d-9cd76263cbd0,species,palmatum,Glaucidium,,"Siebold & Zucc.",0,1845,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(2): 184 (1845)",,,,,,urn:lsid:ipni.org:names:711245-1,wfo-0000703515,5579436,,
+02631f22-8fcd-11eb-924d-9cd76263cbd0,variety,leucanthum,Glaucidium,palmatum,Makino,0,1910,,"Bot. Mag. (Tokyo) 24: 16 1910",,,,,,,wfo-0000703516,8222953,,
+02634466-8fcd-11eb-924d-9cd76263cbd0,species,paradoxum,Glaucidium,,Makino,0,1910,,"Bot. Mag. (Tokyo) 24: 71 (1910)",,,,,,urn:lsid:ipni.org:names:711246-1,wfo-0000703517,7576338,,
+02636554-8fcd-11eb-924d-9cd76263cbd0,species,pinnatum,Glaucidium,,"Finet & Gagnep.",0,1904,,"Bull. Soc. Bot. France 51: 392 (1904)",,Q55756875,,,,urn:lsid:ipni.org:names:711247-1,wfo-0000703518,8410744,,

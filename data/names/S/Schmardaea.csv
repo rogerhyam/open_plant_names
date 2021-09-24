@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea19086e-8fd1-11eb-924d-9cd76263cbd0,genus,Schmardaea,,,H.Karst.,Q62413,1861,,"Fl. Columb. 1: 187, t. 93. 1861.",,,,,,26836-1,wfo-4000034505,7271341,,
-8c50039a-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Schmardaea,,"(Hook.) H.Karst. ex Müll.Stuttg.","Q472639,Q62413,Q5958302",1869,,"Ann. Bot. Syst. 7: 560 1869",,,,,,579221-1,wfo-0000504927,7558321,,
-c1961926-8fcd-11eb-924d-9cd76263cbd0,species,nobilis,Schmardaea,,H.Karst.,Q62413,1861,,"Fl. Columb. 1: 187, t. 93 1861",,,,,,579222-1,wfo-0001083689,3850725,,
-c19637d0-8fcd-11eb-924d-9cd76263cbd0,species,recordiana,Schmardaea,,Dugand,Q4792754,1945,,"Caldasia 3(13): 269 1945",,,,,,229710-2,wfo-0001083690,3850708,,
+ea19086e-8fd1-11eb-924d-9cd76263cbd0,genus,Schmardaea,,,H.Karst.,0,1861,,"Fl. Columb. 1: 187 (1861)",,,,,,urn:lsid:ipni.org:names:26836-1,wfo-4000034505,7271341,,
+8c50039a-8fcc-11eb-924d-9cd76263cbd0,species,microphylla,Schmardaea,,"H.Karst. ex Müll.Berol.",0,1869,,"Ann. Bot. Syst. 7: 560 (1869)",,,,,,urn:lsid:ipni.org:names:579221-1,wfo-0000504927,7558321,,
+c1961926-8fcd-11eb-924d-9cd76263cbd0,species,nobilis,Schmardaea,,H.Karst.,0,1861,,"Fl. Columb. 1: 187 (1861)",,,,,,urn:lsid:ipni.org:names:579222-1,wfo-0001083689,3850725,,
+c19637d0-8fcd-11eb-924d-9cd76263cbd0,species,recordiana,Schmardaea,,Dugand,0,1945,,"Caldasia 3: 269 (1945)",,,,,,urn:lsid:ipni.org:names:229710-2,wfo-0001083690,3850708,,

@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea6f4710-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonella,,,"(Krok) Small","Q5923884,Q2590065",,,"Fl. S.E. U.S. 1338. 1903. (22 Jul 1903)",,,,,,,wfo-4000035510,3234636,,
-d55d9890-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Siphonella,,"(A.Gray) Jeps.","Q347356,Q324259",1943,,"Fl. Calif. 3(2): 218–219 1943",,,,,,236991-2,wfo-0001286933,6394788,,
-d55dbbd6-8fd1-11eb-924d-9cd76263cbd0,variety,hallii,Siphonella,floribunda,Jeps.,Q324259,1943,,"Fl. Calif. 3(2): 219 1943",,,,,,236992-2,wfo-0001286934,5659780,,
-bc2c9ef2-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Siphonella,,"(Torr. & A.Gray) Small","Q1346660,Q347356,Q2590065",,,"Fl. S.E. U.S. 1129 1903",,,,f8b99ece-8fcc-11eb-924d-9cd76263cbd0,,236993-2,wfo-0001246940,7540188,,
-b9a87a52-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Siphonella,,"(A.Gray) A.Heller","Q347356,Q2373009",1912,,"Muhlenbergia 8(5): 57 1912",,,,,,236996-2,wfo-0001242269,5659775,,
+ea6f4710-8fd1-11eb-924d-9cd76263cbd0,genus,Siphonella,,,Small,0,,,"Fl. S.E. U.S. : 1129 (1903)",,,,,,urn:lsid:ipni.org:names:296667-2,wfo-4000035510,3234636,,
+d55d9890-8fd1-11eb-924d-9cd76263cbd0,species,floribunda,Siphonella,,"(A.Gray) Jeps.",0,1943,,"Fl. Calif. 3: 218 (1943)",,,,,,urn:lsid:ipni.org:names:236991-2,wfo-0001286933,6394788,,
+d55dbbd6-8fd1-11eb-924d-9cd76263cbd0,variety,hallii,Siphonella,floribunda,Jeps.,0,1943,,"Fl. Calif. [Jepson] 3(2): 219. 1943",,,,,,urn:lsid:ipni.org:names:236992-2,wfo-0001286934,5659780,,
+bc2c9ef2-8fd1-11eb-924d-9cd76263cbd0,species,longiflora,Siphonella,,"(Torr. & A.Gray) Small",0,,,"Fl. S.E. U.S. : 1129 (1903)",,,,f8b99ece-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:236993-2,wfo-0001246940,7540188,,
+583e3fd6-1d4d-11ec-82c2-f14daa6f2d93,species,montana,Siphonella,,"Nutt. ex A.Gray",,,,"Proc. Amer. Acad. Arts 8: 267. 1870",,,,,,urn:lsid:ipni.org:names:236994-2,wfo-0001351369,,,
+b9a87a52-8fd1-11eb-924d-9cd76263cbd0,species,nuttallii,Siphonella,,A.Heller,0,1912,,"Muhlenbergia 7: 57 (1912)",,,,,,urn:lsid:ipni.org:names:236996-2,wfo-0001242269,5659775,,

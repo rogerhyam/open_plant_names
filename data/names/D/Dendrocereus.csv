@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2923714-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrocereus,,,"Britton & Rose","Q553714,Q1336049",1920,,"Cactaceae 2: 113. 1920. (9 Sep 1920)",,,,,,296721-2,wfo-4000011065,7282297,,
-deba0cb6-8fcc-11eb-924d-9cd76263cbd0,species,nudiflorus,Dendrocereus,,"(Engelm. ex Sauvalle) Britton & Rose","Q214946,Q3081775,Q553714,Q1336049",1920,,"Cact. 2: 113 1920",,,,c539aaf8-8fcc-11eb-924d-9cd76263cbd0,,77600-2,wfo-0000640997,3951509,,
-deba2f8e-8fcc-11eb-924d-9cd76263cbd0,species,undulosus,Dendrocereus,,"(DC.) Britton & Rose","Q123057,Q553714,Q1336049",1925,,"J. New York Bot. Gard. 26: 220 1925",,,,c5754be4-8fcc-11eb-924d-9cd76263cbd0,,77601-2,wfo-0000640998,3951496,,
+e2923714-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrocereus,,,"Britton & Rose",0,1920,,"Cactaceae 2: 113. 1920.",,,,,,,wfo-4000011065,7282297,,
+deba0cb6-8fcc-11eb-924d-9cd76263cbd0,species,nudiflorus,Dendrocereus,,"(Engelm. ex C.Wright) Britton & Rose",0,1920,,"Cactaceae 2: 113, pl. 14. 1920.",,,,c539aaf8-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000640997,3951509,,
+deba2f8e-8fcc-11eb-924d-9cd76263cbd0,species,undulosus,Dendrocereus,,"(DC.) Britton & Rose",0,1925,,"in J. New York Bot. Gard. 26: 220. 1925.",,,,c5754be4-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000640998,3951496,,
+84f62548-1d4d-11ec-82c2-f14daa6f2d93,subspecies,nudiflorus,Dendrocereus,undulosus,"(Engelm. ex C.Wright) Guiggi",,,,"in Cactology 5 (Suppl. 9): 2. 2020.",,,,,,,wfo-0001430571,,,

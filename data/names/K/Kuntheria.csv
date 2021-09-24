@@ -1,11 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e57639d0-8fd1-11eb-924d-9cd76263cbd0,genus,Kuntheria,,,"Conran & Clifford","Q5933278,Q5892430",1987,,"Fl. Australia 45: 490. 1987.",,,,,,925062-1,wfo-4000020289,2740338,,
-f3311a7c-8fcc-11eb-924d-9cd76263cbd0,species,pedunculata,Kuntheria,,"(F.Muell.) Conran & Clifford","Q708002,Q5933278,Q5892430",1987,,"in Fl. Australia 45: 491 1987",,,,,,944257-1,wfo-0000676045,2740339,,
-2956f17c-8fcc-11eb-924d-9cd76263cbd0,species,cochinensis,Kunthia,,Dennst.,Q5711541,1818,,"Reis. Br.-Guiana 30 1818",,,,,,128192-1,wfo-0000356397,8154497,,
-407e54d6-8fcb-11eb-924d-9cd76263cbd0,species,deppii,Kunthia,,Zucc.,Q77121,1834,,"Allg. Gartenzeitung 2: 245 1834",,,,,,667762-1,wfo-0000221552,5293544,,
-29570d38-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Kunthia,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 107 1891",,,,,,128193-1,wfo-0000356398,8356008,,
-29578678-8fcc-11eb-924d-9cd76263cbd0,species,javanica,Kunthia,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 107 1891",,,,,,128194-1,wfo-0000356402,7570976,,
-29572caa-8fcc-11eb-924d-9cd76263cbd0,species,mollis,Kunthia,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 107 1891",,,,,,128195-1,wfo-0000356399,7642694,,
-409adc00-8fcb-11eb-924d-9cd76263cbd0,species,montana,Kunthia,,"Humb. & Bonpl.","Q6694,Q405702",1813,,"Pl. Aequinoct. 2: 128 1813",,,,,,667763-1,wfo-0000221554,5293529,,
-2955f998-8fcc-11eb-924d-9cd76263cbd0,species,pinnata,Kunthia,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 107 1891",,,,,,128196-1,wfo-0000356392,7590687,,
-40a98494-8fcb-11eb-924d-9cd76263cbd0,species,xalapensis,Kunthia,,"Otto & A.Dietr. ex H.Wendl.","Q77650,Q67968,Q66720",1878,,"Palmiers 249 1878",,,,,,667764-1,wfo-0000221555,5293540,,
+e57639d0-8fd1-11eb-924d-9cd76263cbd0,genus,Kuntheria,,,"Conran & Clifford",0,1987,,"Fl. Australia 45: 490 (1987)",,,,,,urn:lsid:ipni.org:names:925062-1,wfo-4000020289,2740338,,
+f3311a7c-8fcc-11eb-924d-9cd76263cbd0,species,pedunculata,Kuntheria,,"(F.Muell.) Conran & Clifford",0,1987,,"Fl. Australia 45: 491 (1987)",,,,,,urn:lsid:ipni.org:names:944257-1,wfo-0000676045,2740339,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb541e3a-8fd1-11eb-924d-9cd76263cbd0,genus,Thurnia,,,Hook.f.,Q157501,,,"Hooker's Icon. Pl. 1407–1408. 1883.",,,,,,20619-1,wfo-4000038312,2731700,,
-b6071f5c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Thurnia,,Hook.f.,Q157501,,,"Hooker's Icon. Pl. 15: t. 1408 1883",,,,,,444027-1,wfo-0000572889,2731705,,
-b607a4fe-8fcc-11eb-924d-9cd76263cbd0,species,polycephala,Thurnia,,Schnee,Q5982501,1943,,"Bol. Soc. Venez. Ci. Nat. 8: 243 1943",,,,,,252872-2,wfo-0000572893,2731701,,
-b608cf64-8fcc-11eb-924d-9cd76263cbd0,species,sphaerocephala,Thurnia,,"(Rudge) Hook.f.","Q4387201,Q157501",,,"Hooker's Icon. Pl. 15: t. 1407 1883",,,,d6fd624c-8fcd-11eb-924d-9cd76263cbd0,,444029-1,wfo-0000572900,4939519,,
+eb541e3a-8fd1-11eb-924d-9cd76263cbd0,genus,Thurnia,,,Hook.f.,0,,,"Hooker's Icon. Pl. 15: t. 1407 (1883)",,,,,,urn:lsid:ipni.org:names:20619-1,wfo-4000038312,2731700,,
+b6071f5c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Thurnia,,Hook.f.,0,,,"Hooker's Icon. Pl. 15: t. 1408 (1883)",,,,,,urn:lsid:ipni.org:names:444027-1,wfo-0000572889,2731705,,
+b607a4fe-8fcc-11eb-924d-9cd76263cbd0,species,polycephala,Thurnia,,Schnee,0,1943,,"Bol. Soc. Venez. Ci. Nat. 8: 243 (1943)",,,,,,urn:lsid:ipni.org:names:252872-2,wfo-0000572893,2731701,,
+b608cf64-8fcc-11eb-924d-9cd76263cbd0,species,sphaerocephala,Thurnia,,Hook.f.,0,,,"Hooker's Icon. Pl. 15: t. 1407 (1883)",,,,d6fd624c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:444029-1,wfo-0000572900,4939519,,

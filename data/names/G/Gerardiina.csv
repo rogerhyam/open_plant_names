@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3fa8cf0-8fd1-11eb-924d-9cd76263cbd0,genus,Gerardiina,,,Engl.,Q60718,1897,,"Bot. Jahrb. Syst. 23: 507. 1897.",,,,,,37670-1,wfo-4000015564,7332246,,
-017b3aa4-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Gerardiina,,Engl.,Q60718,1897,,"Bot. Jahrb. Syst. 23: 507 1897",,,,,,803343-1,wfo-0000701858,3730726,,
-017b6ec0-8fcd-11eb-924d-9cd76263cbd0,species,kundelungensis,Gerardiina,,Mielcarek,Q18986903,1986,,"Fragm. Florist. Geobot. 31-32: 7 1986-1987 publ. 1988",,,,,,935048-1,wfo-0000701859,3730718,,
-017bad9a-8fcd-11eb-924d-9cd76263cbd0,species,fischeri,Gerardiopsis,,Engl.,Q60718,1895,,"Pflanzenw. Ost-Afrikas C: 359 1895",,,,,,803344-1,wfo-0000701860,3730707,,
-371dcc58-8fcd-11eb-924d-9cd76263cbd0,species,montezumae,Gerardoa,,"(Luer) Luer",Q2067641,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 86 2006",,,,f8338ce0-8fcb-11eb-924d-9cd76263cbd0,,77078949-1,wfo-0000808727,2787406,,
+e3fa8cf0-8fd1-11eb-924d-9cd76263cbd0,genus,Gerardiina,,,Engl.,0,1897,,"Bot. Jahrb. Syst. 23: 507 (1897)",,,,,,urn:lsid:ipni.org:names:37670-1,wfo-4000015564,7332246,,
+017b3aa4-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Gerardiina,,Engl.,0,1897,,"Bot. Jahrb. Syst. 23: 507 (1897)",,,,,,urn:lsid:ipni.org:names:803343-1,wfo-0000701858,3730726,,
+017b6ec0-8fcd-11eb-924d-9cd76263cbd0,species,kundelungensis,Gerardiina,,Mielcarek,0,1986,,"Fragm. Florist. Geobot. 31-32: 7 (1986-1987 publ. 1988)",,,,,,urn:lsid:ipni.org:names:935048-1,wfo-0000701859,3730718,,
+017bad9a-8fcd-11eb-924d-9cd76263cbd0,species,fischeri,Gerardiopsis,,Engl.,0,1895,,"Pflanzenw. Ost-Afrikas , C: 359 (1895)",,,,,,urn:lsid:ipni.org:names:803344-1,wfo-0000701860,3730707,,
+371dcc58-8fcd-11eb-924d-9cd76263cbd0,species,montezumae,Gerardoa,,"(Luer) Luer",0,2006,,"Monogr. Syst. Bot. Missouri Bot. Gard. 105: 86 (2006)",,,,f8338ce0-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77078949-1,wfo-0000808727,2787406,,

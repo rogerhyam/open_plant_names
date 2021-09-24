@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e271bba6-8fd1-11eb-924d-9cd76263cbd0,genus,Dactylaea,,,"Fedde ex H.Wolff","Q87035,Q4124761",,,,,Q55755008,,,,924882-1,wfo-4000010616,8038432,,
-dc76cade-8fcc-11eb-924d-9cd76263cbd0,species,schizopetala,Dactylaea,,"(Franch.) Farille","Q377208,Q18984591",1985,,"Candollea 40: 561 1985",,,,,,914968-1,wfo-0000636796,,,
-dc770044-8fcc-11eb-924d-9cd76263cbd0,species,wolffiana,Dactylaea,,"Fedde ex H.Wolff","Q87035,Q4124761",1930,,"Repert. Spec. Nov. Regni Veg. 27: 304 1930",,Q55755008,,,,841001-1,wfo-0000636798,7598043,,
+e271bba6-8fd1-11eb-924d-9cd76263cbd0,genus,Dactylaea,,,"Fedde ex H.Wolff",0,,,"Repert. Spec. Nov. Regni Veg. 27: 304 (1930)",,Q55755008,,,,urn:lsid:ipni.org:names:924882-1,wfo-4000010616,8038432,,
+dc76cade-8fcc-11eb-924d-9cd76263cbd0,species,schizopetala,Dactylaea,,"(Franch.) Farille",0,1985,,"Candollea 40: 561 (1985)",,,,,,urn:lsid:ipni.org:names:914968-1,wfo-0000636796,,,
+dc770044-8fcc-11eb-924d-9cd76263cbd0,species,wolffiana,Dactylaea,,"Fedde ex H.Wolff",0,1930,,"Repert. Spec. Nov. Regni Veg. 27: 304 (1930)",,Q55755008,,,,urn:lsid:ipni.org:names:841001-1,wfo-0000636798,7598043,,

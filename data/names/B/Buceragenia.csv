@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0e457b2-8fd1-11eb-924d-9cd76263cbd0,genus,Buceragenia,,,Greenm.,Q933930,1897,,"Proc. Amer. Acad. Arts 32: 303. 1897.",,,,,,,wfo-4000005646,7264094,,
-b648f756-8fcc-11eb-924d-9cd76263cbd0,species,foliaceobracteata,Buceragenia,,"(Oerst.) V.M.Baum","Q491270,Q26712005",1982,,"Brittonia 34: 433 1982",,Q55770141,,,,910174-1,wfo-0000573340,,,
-b6491222-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Buceragenia,,Leonard,Q5370979,,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 18: 1205 1938",,,,,,37611-2,wfo-0000573341,3777908,,
-b6492dca-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Buceragenia,,Leonard,Q5370979,1938,,"Bull. Misc. Inform. Kew 1938: 71 1938",,Q55778822,,,,37612-2,wfo-0000573342,3777893,,
-b6494bca-8fcc-11eb-924d-9cd76263cbd0,species,minutiflora,Buceragenia,,Greenm.,Q933930,1897,,"Proc. Amer. Acad. Arts 32: 202 1897",,,,,,37613-2,wfo-0000573343,3777881,,
-b64986c6-8fcc-11eb-924d-9cd76263cbd0,species,ruellioides,Buceragenia,,Leonard,Q5370979,1942,,"J. Wash. Acad. Sci. 32: 341 1942",,,,,,37614-2,wfo-0000573345,3777859,,
+e0e457b2-8fd1-11eb-924d-9cd76263cbd0,genus,Buceragenia,,,Greenm.,0,1897,,"Proc. Amer. Acad. Arts 32: 303 (1897)",,,,,,urn:lsid:ipni.org:names:296083-2,wfo-4000005646,7264094,,
+b648f756-8fcc-11eb-924d-9cd76263cbd0,species,foliaceobracteata,Buceragenia,,"(Oerst.) V.M.Baum",0,1982,,"Brittonia 34(4): 433. 1982",,Q55770141,,,,urn:lsid:ipni.org:names:910174-1,wfo-0000573340,,,
+b6491222-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Buceragenia,,"Leonard in Standl.",0,,,"Publ. Field Columb. Mus., Bot. Ser. 18: 1205 (1938)",,,,,,urn:lsid:ipni.org:names:37611-2,wfo-0000573341,3777908,,
+b6492dca-8fcc-11eb-924d-9cd76263cbd0,species,hirsuta,Buceragenia,,Leonard,0,1938,,"Bull. Misc. Inform. Kew 1938: 71 (1938)",,Q55778822,,,,urn:lsid:ipni.org:names:37612-2,wfo-0000573342,3777893,,
+b6494bca-8fcc-11eb-924d-9cd76263cbd0,species,minutiflora,Buceragenia,,Greenm.,0,1897,,"Proc. Amer. Acad. Arts 32: 202 (1897)",,,,,,urn:lsid:ipni.org:names:37613-2,wfo-0000573343,3777881,,
+b64986c6-8fcc-11eb-924d-9cd76263cbd0,species,ruellioides,Buceragenia,,Leonard,0,1942,,"J. Washington Acad. Sci. 32: 341 (1942)",,,,,,urn:lsid:ipni.org:names:37614-2,wfo-0000573345,3777859,,

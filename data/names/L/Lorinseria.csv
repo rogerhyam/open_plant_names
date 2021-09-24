@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6152ff4-8fd1-11eb-924d-9cd76263cbd0,genus,Lorinseria,,,C.Presl,Q379601,1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5, 6: 432. 1851.",,,,,,,wfo-4000022286,7296899,,
-cdaa7e3c-8fcd-11eb-924d-9cd76263cbd0,species,areolata,Lorinseria,,"(L.) C.Presl","Q1043,Q379601",1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 432 1851",,,,,,,wfo-0001110386,2651516,,
-d360fbe4-8fcd-11eb-924d-9cd76263cbd0,species,harlandii,Lorinseria,,"(Hook.) J.Sm.","Q472639,Q3182477",1875,,"Hist. Fil. 311 1875",,,,,,17142340-1,wfo-0001122449,4079293,,
-c63d6b9c-8fd1-11eb-924d-9cd76263cbd0,species,thelypteroides,Lorinseria,,"(Pursh) C.Presl","Q67353,Q379601",1851,,"Abh. Königl. Böhm. Ges. Wiss., ser. 5 6: 432 1851",,,,c63da756-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001265515,4079287,,
+e6152ff4-8fd1-11eb-924d-9cd76263cbd0,genus,Lorinseria,,,C.Presl,0,1851,,"Epimel. Bot. 72. 1851 [Oct 1851]",,,,,,urn:lsid:ipni.org:names:17142320-1,wfo-4000022286,7296899,,
+cdaa7e3c-8fcd-11eb-924d-9cd76263cbd0,species,areolata,Lorinseria,,Underw.,0,1851,,"Man. Fl. N. States : 10 (1905)",,,,,,urn:lsid:ipni.org:names:143827-2,wfo-0001110386,2651516,,
+4111cd00-1d4d-11ec-82c2-f14daa6f2d93,form,obtusilobata,Lorinseria,areolata,"(Waters) M.Broun",,,,"Index No. Amer. Ferns 104. 1938",,,,,,urn:lsid:ipni.org:names:143828-2,wfo-0001320460,,,
+4111f3f2-1d4d-11ec-82c2-f14daa6f2d93,form,onocleoides,Lorinseria,areolata,J.E.Benedict,,,,"Amer. Fern J. 40(2): 174, t.13. 1950 [11 Jul 1950]",,,,,,urn:lsid:ipni.org:names:143829-2,wfo-0001320461,,,
+d360fbe4-8fcd-11eb-924d-9cd76263cbd0,species,harlandii,Lorinseria,,J.Sm.,0,1875,,"Hist. Fil. 311. 1875. (1875)",,,,,,urn:lsid:ipni.org:names:17142340-1,wfo-0001122449,4079293,,
+c63d6b9c-8fd1-11eb-924d-9cd76263cbd0,species,thelypteroides,Lorinseria,,C.Presl,0,1851,,"Abh. Königl. Böhm. Ges. Wiss. , ser. 5, 6: 72 (1851)",,,,c63da756-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17142350-1,wfo-0001265515,4079287,,

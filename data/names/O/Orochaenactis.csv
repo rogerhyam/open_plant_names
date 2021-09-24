@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7ab990c-8fd1-11eb-924d-9cd76263cbd0,genus,Orochaenactis,,,Coville,Q535104,1893,,"Contr. U.S. Natl. Herb. 4: 134",,Q95371794,,,,296862-2,wfo-4000027211,3125957,,
-c31cca30-8fb2-11eb-924d-9cd76263cbd0,species,thysanocarpha,Orochaenactis,,"(A.Gray) Coville","Q347356,Q535104",1893,,1893,,,,d15f22a2-8fba-11eb-924d-9cd76263cbd0,,,wfo-0000033833,3125958,,
-edb3e382-8fcb-11eb-924d-9cd76263cbd0,species,heracleotica,Oroga,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 86 1837",,,,,,453407-1,wfo-0000261009,3893459,,
+e7ab990c-8fd1-11eb-924d-9cd76263cbd0,genus,Orochaenactis,,,Coville,0,1893,,"Contr. U.S. Natl. Herb. 4: 134 (1893)",,Q95371794,,,,urn:lsid:ipni.org:names:296862-2,wfo-4000027211,3125957,,
+c31cca30-8fb2-11eb-924d-9cd76263cbd0,species,thysanocarpha,Orochaenactis,,Coville,0,1893,,"Contr. U.S. Natl. Herb. 4: 134, pl. 10 (1893)",,,,d15f22a2-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:176637-2,wfo-0000033833,3125958,,
+edb3e382-8fcb-11eb-924d-9cd76263cbd0,species,heracleotica,Oroga,,Raf.,0,1837,,"Fl. Tellur. 3: 86 (1837)",,,,,,urn:lsid:ipni.org:names:453407-1,wfo-0000261009,3893459,,

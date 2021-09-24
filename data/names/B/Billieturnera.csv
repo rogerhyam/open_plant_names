@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e03c13cc-8fd1-11eb-924d-9cd76263cbd0,genus,Billieturnera,,,Fryxell,Q7150752,1982,,"Sida 9(3): 195. 1982.",,Q91205803,,,,30129196-2,wfo-4000004636,3152805,,
-b17a376c-8fcc-11eb-924d-9cd76263cbd0,species,helleri,Billieturnera,,"(Rose & Heller) Fryxell","Q1336049,Q7150752",1982,,"Sida 9: 197 1982",,Q91205803,,,,910135-1,wfo-0000565381,3152806,,
-1fc2eb84-8fcc-11eb-924d-9cd76263cbd0,species,psychotrioides,Billiotia,,"(Colla) DC.","Q2475971,Q123057",1830,,"Prodr. 4: 618 1830",,,,,,,wfo-0000341779,2906342,,
+e03c13cc-8fd1-11eb-924d-9cd76263cbd0,genus,Billieturnera,,,Fryxell,0,1982,,"Sida 9: 195 (1982)",,Q91205803,,,,urn:lsid:ipni.org:names:30129196-2,wfo-4000004636,3152805,,
+b17a376c-8fcc-11eb-924d-9cd76263cbd0,species,helleri,Billieturnera,,"(Rose ex Heller) Fryxell",0,1982,,"Sida 9(3): 197. 1982",,Q91205803,,,,urn:lsid:ipni.org:names:910135-1,wfo-0000565381,3152806,,
+1fc2eb84-8fcc-11eb-924d-9cd76263cbd0,species,psychotrioides,Billiotia,,"(Colla) DC.",0,1830,,"Prodr. 4: 618 1830",,,,,,,wfo-0000341779,2906342,,
+5b9818e6-1d4d-11ec-82c2-f14daa6f2d93,species,polytrichoides,Billiottia,,Steud.,,,,"Nomencl. Bot.  [Steudel], ed. 2. ii. 114, sphalm.",,,,,,urn:lsid:ipni.org:names:744577-1,wfo-0001355867,,,

@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5871836-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarchea,,,Gaudich.,Q1064524,1830,,"Voyage Monde, Uranie Physicienne Bot. 483. 1830.",,,,,,,wfo-4000020478,8222022,,
-7003f94a-8fcb-11eb-924d-9cd76263cbd0,species,hakeifolia,Lamarchea,,Gaudich.,Q1064524,1830,,"Voy. Uranie 484 1830",,,,,,597232-1,wfo-0000222404,3187229,,
-702099e2-8fcb-11eb-924d-9cd76263cbd0,species,sulcata,Lamarchea,,A.S.George,Q2702267,1972,,"Nuytsia 1: 275 1972",,,,,,597233-1,wfo-0000222406,3187228,,
+e5871836-8fd1-11eb-924d-9cd76263cbd0,genus,Lamarchea,,,Gaudich.,0,1830,,"Voy. Uranie : 483 (1830)",,,,,,urn:lsid:ipni.org:names:27595-1,wfo-4000020478,8222022,,
+7003f94a-8fcb-11eb-924d-9cd76263cbd0,species,hakeifolia,Lamarchea,,Gaudich.,0,1830,,"Voy. Uranie : 484 (1830)",,,,,,urn:lsid:ipni.org:names:597232-1,wfo-0000222404,3187229,,
+40411af2-1d48-11ec-82c2-f14daa6f2d93,variety,hakeifolia,Lamarchea,hakeifolia,Gaudich.,,,,"Nuytsia 1(4)  1971",,,,,,urn:lsid:ipni.org:names:166700-3,wfo-0000222405,,,
+702099e2-8fcb-11eb-924d-9cd76263cbd0,species,sulcata,Lamarchea,,A.S.George,0,1972,,"Nuytsia 1: 275 (1972)",,,,,,urn:lsid:ipni.org:names:597233-1,wfo-0000222406,3187228,,

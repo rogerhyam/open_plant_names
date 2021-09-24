@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2bc0e40-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyophragmus,,,O.E.Schulz,Q2598714,1933,,"Bot. Jahrb. Syst. 66: 92. 1933.",,,,,,296744-2,wfo-4000011578,3045606,,
-e1a45db4-8fcc-11eb-924d-9cd76263cbd0,species,englerianus,Dictyophragmus,,"(Muschl.) O.E.Schulz","Q71831,Q2598714",1933,,"Bot. Jahrb. Syst. 66: 92 1933",,,,,,79990-2,wfo-0000646364,3045611,,
-8d7ad5ba-8fcc-11eb-924d-9cd76263cbd0,species,lactucoides,Dictyophragmus,,"(Förther & Weigend) Al-Shehbaz","Q5892222,Q126626,Q730643",2006,,"Harvard Pap. Bot. 11: 90 2006",,Q54790065,,bd15c41a-8fd1-11eb-924d-9cd76263cbd0,,60444738-2,wfo-0000506992,3045609,,
-e1a47a06-8fcc-11eb-924d-9cd76263cbd0,species,punensis,Dictyophragmus,,"(Romanczuk) I.A.Al-Shehbaz",Q26712759,1991,,"Novon 1: 72 1991",,Q55773862,,,,963136-1,wfo-0000646365,3045607,,
+e2bc0e40-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyophragmus,,,O.E.Schulz,0,1933,,"Bot. Jahrb. Syst. 66: 92 (1933)",,,,,,urn:lsid:ipni.org:names:296744-2,wfo-4000011578,3045606,,
+e1a45db4-8fcc-11eb-924d-9cd76263cbd0,species,englerianus,Dictyophragmus,,O.E.Schulz,0,1933,,"Bot. Jahrb. Syst. 66: 92 (1933)",,,,,,urn:lsid:ipni.org:names:79990-2,wfo-0000646364,3045611,,
+8d7ad5ba-8fcc-11eb-924d-9cd76263cbd0,species,lactucoides,Dictyophragmus,,"(Förther & Weigend) Al-Shehbaz",0,2006,,"Harvard Pap. Bot. 11: 90 (2006)",,Q54790065,,bd15c41a-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60444738-2,wfo-0000506992,3045609,,
+e1a47a06-8fcc-11eb-924d-9cd76263cbd0,species,punensis,Dictyophragmus,,"(Romanczuk) Al-Shehbaz",0,1991,,"Novon 1(2): 72. 1991",,Q55773862,,,,urn:lsid:ipni.org:names:963136-1,wfo-0000646365,3045607,,

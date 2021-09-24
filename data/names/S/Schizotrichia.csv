@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea15dc5c-8fd1-11eb-924d-9cd76263cbd0,genus,Schizotrichia,,,Benth.,Q731808,,,,,,,,,10941-1,wfo-4000034466,3130191,,
-19ef4cda-8fb2-11eb-924d-9cd76263cbd0,species,eupatorioides,Schizotrichia,,Benth.,Q731808,1873,,1873,,,,,,,wfo-0000011305,5703529,,
-14f6903a-8fb2-11eb-924d-9cd76263cbd0,species,jelskii,Schizotrichia,,"(Hieron.) Strother ex Loockerman, B.L.Turner & R.K.Jansen","Q3047331,Q5933388,Q5802732,Q4468157,Q5413923",2003,,"Syst. Bot. 28(1): 204 (2003).",,,,,,,wfo-0000010238,5399434,,
+ea15dc5c-8fd1-11eb-924d-9cd76263cbd0,genus,Schizotrichia,,,Benth.,0,,,"Gen. Pl. 2(1): 410 (1873)",,,,,,urn:lsid:ipni.org:names:10941-1,wfo-4000034466,3130191,,
+19ef4cda-8fb2-11eb-924d-9cd76263cbd0,species,eupatorioides,Schizotrichia,,Benth.,0,1873,,"Gen. Pl. 2(1): 410 (1873)",,,,,,urn:lsid:ipni.org:names:242881-1,wfo-0000011305,5703529,,
+14f6903a-8fb2-11eb-924d-9cd76263cbd0,species,jelskii,Schizotrichia,,"(Hieron.) Strother ex Loockerman, B.L.Turner & R.K.Jansen",0,2003,,"Syst. Bot. 28(1): 204 (2003) (2003)",,,,,,urn:lsid:ipni.org:names:20011740-1,wfo-0000010238,5399434,,
+7f6c7c08-1d4d-11ec-82c2-f14daa6f2d93,species,lopez-mirandae,Schizotrichia,,"(Cabrera) Molinari",,,,"Polish Bot. J. 61(2): 277. 2016 [10 Dec 2016] [epublished]",,,,,,urn:lsid:ipni.org:names:77163594-1,wfo-0001421959,,,

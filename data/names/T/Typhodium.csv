@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-f74c7a12-9bab-11eb-a8a2-19ed5c03f8d3,genus,Typhodium,,,Link,Q215466,,,,,,,f74c7a12-9bab-11eb-a8a2-19ed5c03f8d3,,,,,5652," "
+f74c7a12-9bab-11eb-a8a2-19ed5c03f8d3,genus,Typhodium,,,Link,0,,,,,,,f74c7a12-9bab-11eb-a8a2-19ed5c03f8d3,,,,,5652," "
 d992cc96-9bac-11eb-a8a2-19ed5c03f8d3,species,eupatorii,Typhodium,,Seaver,,1934,,"Monograph Univ. Puerto Rico, Series B 2: 133 (1934)",,,,d992cc96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,264361," "
-15f0ebd8-9bac-11eb-a8a2-19ed5c03f8d3,species,typhinum,Typhodium,,Link,Q215466,1910,,"Mycologia 2(2): 87 (1910)",,,,15f0ebd8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,157144," "
-6a954cbe-8fcd-11eb-924d-9cd76263cbd0,species,arundinacea,Typhoides,,"(L.) Moench","Q1043,Q60948",1794,,"Methodus 202 1794",,,,,,426075-1,wfo-0000906588,5673276,,
-c8549d82-8fcd-11eb-924d-9cd76263cbd0,form,coarctata,Typhoides,arundinacea,"(Prahl) Soó","Q6073468,Q281645",1971,,"Acta Bot. Acad. Sci. Hung. 17(1–2): 123 1971",,,,c85539f4-8fcd-11eb-924d-9cd76263cbd0,,883261-1,wfo-0001098530,5679734,,
-6a956ea6-8fcd-11eb-924d-9cd76263cbd0,form,colorata,Typhoides,arundinacea,"(G.M.Sch.) Soó",Q281645,1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 1971 publ. 1972",,,,c854bb28-8fcd-11eb-924d-9cd76263cbd0,,883262-1,wfo-0000906589,5679731,,
-6a96472c-8fcd-11eb-924d-9cd76263cbd0,variety,japonica,Typhoides,arundinacea,"(Steud.) Tzvelev","Q62821,Q4503394",1968,,"Rast. Tsentral. Azii 4: 32 1968",,,,,,,wfo-0000906593,7741967,,
-c7df3452-8fcd-11eb-924d-9cd76263cbd0,subspecies,japonica,Typhoides,arundinacea,Tzvelev,Q4503394,,,,,,,,,,wfo-0001097528,7741967,,
-c854d5fe-8fcd-11eb-924d-9cd76263cbd0,form,pallida,Typhoides,arundinacea,"(Kuntze) Soó","Q62853,Q281645",1971,,"Acta Bot. Acad. Sci. Hung. 17(1–2): 123 1971",,,,,,883263-1,wfo-0001098532,5679729,,
-c854f9bc-8fcd-11eb-924d-9cd76263cbd0,form,ramifera,Typhoides,arundinacea,"(Junge) Soó","Q6067204,Q281645",1971,,"Acta Bot. Acad. Sci. Hung. 17(1–2): 123 1971",,,,5cd6ab72-8fcd-11eb-924d-9cd76263cbd0,,883264-1,wfo-0001098533,5679727,,
-6a95c8c4-8fcd-11eb-924d-9cd76263cbd0,subspecies,rotgesii,Typhoides,arundinacea,"(Husn.) Gamisans","Q3387154,Q5924655",1974,,"Candollea 29: 44 1974",,,,4b8bb934-8fcd-11eb-924d-9cd76263cbd0,,883265-1,wfo-0000906592,8307032,,
-6a9590de-8fcd-11eb-924d-9cd76263cbd0,form,schwarzii,Typhoides,arundinacea,Soó,Q281645,1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 1971 publ. 1972",,,,,,883267-1,wfo-0000906590,5679725,,
-6a95ac40-8fcd-11eb-924d-9cd76263cbd0,form,umbrosa,Typhoides,arundinacea,"(Peterm.) Soó","Q2574012,Q281645",1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 1971 publ. 1972",,,,,,883268-1,wfo-0000906591,5679724,,
+15f0ebd8-9bac-11eb-a8a2-19ed5c03f8d3,species,typhinum,Typhodium,,Link,0,1910,,"Mycologia 2(2): 87 (1910)",,,,15f0ebd8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,157144," "
+6a954cbe-8fcd-11eb-924d-9cd76263cbd0,species,arundinacea,Typhoides,,Moench,0,1794,,"Methodus : 202 (1794)",,,,,,urn:lsid:ipni.org:names:426075-1,wfo-0000906588,5673276,,
+c8549d82-8fcd-11eb-924d-9cd76263cbd0,form,coarctata,Typhoides,arundinacea,"(Prahl) Soó",0,1971,,"Acta Bot. Acad. Sci. Hung. 17(1-2): 123. 1972 [1971 publ. 1972]",,,,c85539f4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:883261-1,wfo-0001098530,5679734,,
+6a956ea6-8fcd-11eb-924d-9cd76263cbd0,form,colorata,Typhoides,arundinacea,"(G.M.Sch.) Soó",0,1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 (1971 publ. 1972)",,,,c854bb28-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:883262-1,wfo-0000906589,5679731,,
+6a96472c-8fcd-11eb-924d-9cd76263cbd0,variety,japonica,Typhoides,arundinacea,"(Steud.) Tzvelev",0,1968,,"Rast. Tsentral. Azii 4: 32 1968",,,,,,,wfo-0000906593,7741967,,
+c7df3452-8fcd-11eb-924d-9cd76263cbd0,subspecies,japonica,Typhoides,arundinacea,Tzvelev,0,,,,,,,,,,wfo-0001097528,7741967,,
+c854d5fe-8fcd-11eb-924d-9cd76263cbd0,form,pallida,Typhoides,arundinacea,"(Kuntze) Soó",0,1971,,"Acta Bot. Acad. Sci. Hung. 17(1-2): 123. 1972 [1971 publ. 1972]",,,,,,urn:lsid:ipni.org:names:883263-1,wfo-0001098532,5679729,,
+c854f9bc-8fcd-11eb-924d-9cd76263cbd0,form,ramifera,Typhoides,arundinacea,"(Junge) Soó",0,1971,,"Acta Bot. Acad. Sci. Hung. 17(1-2): 123, without basionym page. 1972 [1971 publ. 1972]",,,,5cd6ab72-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:883264-1,wfo-0001098533,5679727,,
+6a95c8c4-8fcd-11eb-924d-9cd76263cbd0,subspecies,rotgesii,Typhoides,arundinacea,"(Husnot) Gamisans",0,1974,,"Candollea 29: 44 (1974)",,,,4b8bb934-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:883265-1,wfo-0000906592,8307032,,
+6a9590de-8fcd-11eb-924d-9cd76263cbd0,form,schwarzii,Typhoides,arundinacea,Soó,0,1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 (1971 publ. 1972)",,,,,,urn:lsid:ipni.org:names:883267-1,wfo-0000906590,5679725,,
+6a95ac40-8fcd-11eb-924d-9cd76263cbd0,form,umbrosa,Typhoides,arundinacea,"(Peterm.) Soó",0,1971,,"Acta Bot. Acad. Sci. Hung. 17: 123 (1971 publ. 1972)",,,,,,urn:lsid:ipni.org:names:883268-1,wfo-0000906591,5679724,,

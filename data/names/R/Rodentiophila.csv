@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9bf3d52-8fd1-11eb-924d-9cd76263cbd0,genus,Rodentiophila,,,,,,,,,,,,,,wfo-4000033371,7280341,,
-4779adc0-8fcc-11eb-924d-9cd76263cbd0,species,atacamensis,Rodentiophila,,"F.Ritter & Y.Itô","Q68479,Q6170304",1981,,"Cactaceae 429 1981",,,,,,898609-1,wfo-0000399749,3943932,,
-4779cdbe-8fcc-11eb-924d-9cd76263cbd0,species,megacarpa,Rodentiophila,,"F.Ritter & Y.Itô","Q68479,Q6170304",1981,,"Cactaceae 429 1981",,,,,,898610-1,wfo-0000399750,3943924,,
-ac78a4f0-8fcd-11eb-924d-9cd76263cbd0,species,amherstiana,Rodetia,,Moq.,Q55068622,1849,,"Prodr. 13(2): 323 1849",,,,,,61370-1,wfo-0001035674,3674812,,
-4612f012-8fcd-11eb-924d-9cd76263cbd0,species,rodetii,,,"(Trab.) A.Camus","Q2017793,Q272128",1946,,"Notul. Syst. (Paris) 12: 85 1946",,,,69e32d86-8fcd-11eb-924d-9cd76263cbd0,,384675-1,wfo-0000840984,,,
-467433fe-8fcd-11eb-924d-9cd76263cbd0,species,rodetii,,,"(Trab.) van Slageren","Q2017793,Q19002867",1994,,"Wageningen Agric. Univ. Pap. 94(7): 52 1994",,,,69e32d86-8fcd-11eb-924d-9cd76263cbd0,,982659-1,wfo-0000841765,,,
+e9bf3d52-8fd1-11eb-924d-9cd76263cbd0,genus,Rodentiophila,,,"F.Ritter & Y.Itô",,,,"in: Y.Itô, Cactaceae: 429. 1981.",,,,,,,wfo-4000033371,7280341,,
+4779adc0-8fcc-11eb-924d-9cd76263cbd0,species,atacamensis,Rodentiophila,,"F.Ritter & Y.Itô",0,1981,,"in: Y.Itô, Cactaceae: 429. 1981.",,,,,,,wfo-0000399749,3943932,,
+4779cdbe-8fcc-11eb-924d-9cd76263cbd0,species,megacarpa,Rodentiophila,,"F.Ritter & Y.Itô",0,1981,,"in: Y.Itô, Cactaceae: 429. 1981.",,,,,,,wfo-0000399750,3943924,,
+ac78a4f0-8fcd-11eb-924d-9cd76263cbd0,species,amherstiana,Rodetia,,Moq.,0,1849,,"Prodr. 13(2): 323 (1849)",,,,,,urn:lsid:ipni.org:names:61370-1,wfo-0001035674,3674812,,

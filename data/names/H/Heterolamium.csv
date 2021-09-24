@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4af997e-8fd1-11eb-924d-9cd76263cbd0,genus,Heterolamium,,,C.Y.Wu,Q534717,1965,,"Acta Phytotax. Sin. 10(3): 254. 1965.",,,,,,20900-1,wfo-4000017721,7306826,,
-9273ce04-8fcd-11eb-924d-9cd76263cbd0,species,debile,Heterolamium,,"(Hemsl.) C.Y.Wu","Q1339247,Q534717",1965,,"Acta Phytotax. Sin. 10: 254 1965",,,,,,447851-1,wfo-0000981939,3885104,,
-9273eaa6-8fcd-11eb-924d-9cd76263cbd0,variety,cardiophyllum,Heterolamium,debile,"(Hemsl.) C.Y.Wu","Q1339247,Q534717",1965,,"Acta Phytotax. Sin. 10: 255 1965",,,,,,,wfo-0000981940,7460774,,
-9274225a-8fcd-11eb-924d-9cd76263cbd0,variety,tochauense,Heterolamium,debile,"(Kudô) C.Y.Wu","Q5958921,Q534717",1965,,"Acta Phytotax. Sin. 10: 255 1965",,,,1504d09a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000981942,7774951,,
-439d6ac4-8fcd-11eb-924d-9cd76263cbd0,species,flaviflorum,Heterolamium,,"(Z.Y.Zhu) L.Wei","Q19003782,Q19003274",2007,,"Pl. Mt. Emei 484 2007",,,,,,77091157-1,wfo-0000835706,3885096,,
+e4af997e-8fd1-11eb-924d-9cd76263cbd0,genus,Heterolamium,,,C.Y.Wu,0,1965,,"Acta Phytotax. Sin. 10: 254 (1965)",,,,,,urn:lsid:ipni.org:names:20900-1,wfo-4000017721,7306826,,
+9273ce04-8fcd-11eb-924d-9cd76263cbd0,species,debile,Heterolamium,,"(Hemsl.) C.Y.Wu",0,1965,,"Acta Phytotax. Sin. 10: 254 (1965)",,,,,,urn:lsid:ipni.org:names:447851-1,wfo-0000981939,3885104,,
+9273eaa6-8fcd-11eb-924d-9cd76263cbd0,variety,cardiophyllum,Heterolamium,debile,"(Hemsl.) C.Y.Wu",0,1965,,"Acta Phytotax. Sin. 10: 255 (1965)",,,,,,urn:lsid:ipni.org:names:77188243-1,wfo-0000981940,7460774,,
+9a56b40a-1d4a-11ec-82c2-f14daa6f2d93,variety,debile,Heterolamium,debile,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77171208-1,wfo-0000981941,,,
+9274225a-8fcd-11eb-924d-9cd76263cbd0,variety,tochauense,Heterolamium,debile,"(Kudô) C.Y.Wu",0,1965,,"Acta Phytotax. Sin. 10: 255 (1965)",,,,1504d09a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77188298-1,wfo-0000981942,7774951,,
+439d6ac4-8fcd-11eb-924d-9cd76263cbd0,species,flaviflorum,Heterolamium,,"(Z.Y.Zhu) L.Wei",0,2007,,"Pl. Mt. Emei : 484 (2007)",,,,,,urn:lsid:ipni.org:names:77091157-1,wfo-0000835706,3885096,,

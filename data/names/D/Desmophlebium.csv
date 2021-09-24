@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec51d0fc-8fd1-11eb-924d-9cd76263cbd0,genus,Desmophlebium,,,"Mynssen, A.Vasco, Sylvestre, R.C.Moran & Rouhan","Q26712491,Q19002889,Q16302171,Q2842524,Q19001597",2016,,"Taxon 65(1): 27 (2016)",,,,,,77154279-1,wfo-4001303187,9059961,,
-df6feba8-8fcc-11eb-924d-9cd76263cbd0,species,aliena,Desmophyla,,Raf.,Q364857,1838,,"Sylva Tellur. 43 1838",,,,,,115339-1,wfo-0000642319,4061874,,
-df70087c-8fcc-11eb-924d-9cd76263cbd0,species,pinnatum,Desmophyllum,,"Webb & Berthel.","Q1113837,Q204261",1836,,"Hist. Nat. Iles Canaries 2(1): 14 1836",,,,,,772354-1,wfo-0000642320,5593160,,
+ec51d0fc-8fd1-11eb-924d-9cd76263cbd0,genus,Desmophlebium,,,"Mynssen, A.Vasco, Sylvestre, R.C.Moran & Rouhan",0,2016,,"Taxon 65(1): 27. 2016 [8 Mar 2016]",,,,,,urn:lsid:ipni.org:names:77154279-1,wfo-4001303187,9059961,,
+539b5306-1d4d-11ec-82c2-f14daa6f2d93,species,lechleri,Desmophlebium,,"(Mett.) Mynssen, A.Vasco, Sylvestre, R.C.Moran & Rouhan",,,,"Taxon 65(1): 28. 2016 [8 Mar 2016]",,,,,,urn:lsid:ipni.org:names:77154280-1,wfo-0001345231,,,
+539b7980-1d4d-11ec-82c2-f14daa6f2d93,species,longisorum,Desmophlebium,,"(Baker) Mynssen, A.Vasco, Sylvestre, R.C.Moran & Rouhan",,,,"Taxon 65(1): 30. 2016 [8 Mar 2016]",,,,,,urn:lsid:ipni.org:names:77154281-1,wfo-0001345232,,,
+df6feba8-8fcc-11eb-924d-9cd76263cbd0,species,aliena,Desmophyla,,Raf.,0,1838,,"Sylva Tellur. : 43 (1838)",,,,,,urn:lsid:ipni.org:names:115339-1,wfo-0000642319,4061874,,
+df70087c-8fcc-11eb-924d-9cd76263cbd0,species,pinnatum,Desmophyllum,,"Webb & Berthel.",0,1836,,"Hist. Nat. Iles Canaries 3(2; 1): 14 (1836)",,,,,,urn:lsid:ipni.org:names:772354-1,wfo-0000642320,5593160,,

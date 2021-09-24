@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9f9389d0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Henningsina,,,Möller,,1901,,"Bot. Mitt. Trop. 9: 309 (1901)",,,,9f9389d0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2292," "
-1e9bcd52-9bac-11eb-a8a2-19ed5c03f8d3,species,caespitosa,Henningsina,,"(Peck) Trotter","Q1064899,Q2613097",,,,,,,7981b872-9bab-11eb-a8a2-19ed5c03f8d3,,,,,180985," Henningsinia"
+1e9bcd52-9bac-11eb-a8a2-19ed5c03f8d3,species,caespitosa,Henningsina,,"(Peck) Trotter",0,,,,,,,7981b872-9bab-11eb-a8a2-19ed5c03f8d3,,,,,180985," Henningsinia"
 4c9b9c82-9bac-11eb-a8a2-19ed5c03f8d3,species,durissima,Henningsina,,Möller,,1901,,"Bot. Mitt. Trop. 9: (1901)",,,,4c9b9c82-9bac-11eb-a8a2-19ed5c03f8d3,,,,,224224," Henningsinia"
-bdf227de-8fd1-11eb-924d-9cd76263cbd0,species,integrifolium,Henningsocarpum,,"(Hemsl.) Kuntze","Q1339247,Q62853",1891,,"Revis. Gen. Pl. 1: 117 1891",,,,,,120316-2,wfo-0001250219,3878006,,
-bdf1efda-8fd1-11eb-924d-9cd76263cbd0,species,viscosa,Henningsocarpum,,"(Liebm.) Kuntze","Q1335154,Q62853",1891,,"Revis. Gen. Pl. 1: 117 1891",,,,b8709aec-8fcd-11eb-924d-9cd76263cbd0,,120317-2,wfo-0001250217,,,
-0c34fbf6-8fcd-11eb-924d-9cd76263cbd0,species,viscosum,Henningsocarpum,,"(Liebm.) Kuntze","Q1335154,Q62853",1891,,"Revis. Gen. Pl. 1: 117 1891",,,,,,120317-2,wfo-0000719838,3877997,,
+bdf227de-8fd1-11eb-924d-9cd76263cbd0,species,integrifolium,Henningsocarpum,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 117. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:120316-2,wfo-0001250219,3878006,,
+bdf1efda-8fd1-11eb-924d-9cd76263cbd0,species,viscosa,Henningsocarpum,,"(Liebm.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 117. 1891 [5 Nov 1891]",,,,b8709aec-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:120317-2,wfo-0001250217,,,
+0c34fbf6-8fcd-11eb-924d-9cd76263cbd0,species,viscosum,Henningsocarpum,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 117. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:120317-2,wfo-0000719838,3877997,,

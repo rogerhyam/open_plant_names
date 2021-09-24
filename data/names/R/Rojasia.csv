@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9c258ca-8fd1-11eb-924d-9cd76263cbd0,genus,Rojasia,,,Malme,Q429017,1905,,"Ark. Bot. 4(14): 10–11, t. 2, f. 4. 1905.",,,,,,296324-2,wfo-4000033421,3230968,,
-ca02794c-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Rojasia,,"(Morong) Malme","Q3525431,Q429017",,,"Ark. Bot. 4(14): 1011, t. 2, f. 4 1905",,,,,,221671-2,wfo-0001102007,8271749,,
+e9c258ca-8fd1-11eb-924d-9cd76263cbd0,genus,Rojasia,,,Malme,0,1905,,"Ark. Bot. 4(14): 10 (1905)",,,,,,urn:lsid:ipni.org:names:296324-2,wfo-4000033421,3230968,,
+51a967fe-1d4d-11ec-82c2-f14daa6f2d93,species,bornmuelleri,Rojasia,,"(Schltr. ex Malme) Fontella, S.A.Cáceres & R.Santos",,,,"Bol. Soc. Argent. Bot. 49: 401 (2014)",,,,,,urn:lsid:ipni.org:names:77147399-1,wfo-0001342598,,,
+ca02794c-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Rojasia,,"(Morong) Malme",0,,,"Ark. Bot. 4(14): 10 (1905)",,,,,,urn:lsid:ipni.org:names:221671-2,wfo-0001102007,8271749,,

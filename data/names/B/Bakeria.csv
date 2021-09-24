@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0079462-8fd1-11eb-924d-9cd76263cbd0,genus,Bakeria,,,Seem.,Q64899,1864,,"J. Bot. 2: 239, 248. 1864.",,,,,,,wfo-4000003910,3035985,,
-1f45d4aa-8fcc-11eb-924d-9cd76263cbd0,species,tillandsioides,Bakeria,,André,Q274317,1889,,"Rev. Hort. 61: 84 1889",,,,,,28762-2,wfo-0000340923,5288675,,
-0e44e77c-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Bakeria,,Dammann,Q5897858,1886,,"Neubert's Deutsch. Gart.-Mag. 39: 345 1886",,,,,,,wfo-0000312712,4924077,,
-0e46c33a-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Bakeria,,Seem.,Q64899,1864,,"J. Bot. 2: 248 1864",,,,,,89917-1,wfo-0000312723,3038012,,
+e0079462-8fd1-11eb-924d-9cd76263cbd0,genus,Bakeria,,,Seem.,0,1864,,"J. Bot. 2: 248 (1864)",,,,,,urn:lsid:ipni.org:names:2973-1,wfo-4000003910,3035985,,
+b0819b8c-1d4a-11ec-82c2-f14daa6f2d93,species,gentilis,Bakeria,,"(Sternb.) Gand.",,,,"Tabulae rhodologicae europaeo-orientales locupletissimae ; 1881 no.717 1881",,,,,,,wfo-0001009497,,,
+b081cd8c-1d4a-11ec-82c2-f14daa6f2d93,species,malyi,Bakeria,,"(A.Kern.) Gand.",,,,"Tabulae rhodologicae europaeo-orientales locupletissimae ; 1881 no.707 1881",,,,,,,wfo-0001009498,,,
+1f45d4aa-8fcc-11eb-924d-9cd76263cbd0,species,tillandsioides,Bakeria,,André,0,1889,,"Rev. Hort. (Paris) 61: 84 (1889)",,,,,,urn:lsid:ipni.org:names:28762-2,wfo-0000340923,5288675,,
+0e44e77c-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Bakeria,,Dammann,0,1886,,"Neubert's Deutsch. Gart.-Mag. 39: 345 1886",,,,,,,wfo-0000312712,4924077,,
+0e46c33a-8fcc-11eb-924d-9cd76263cbd0,species,vitiensis,Bakeria,,Seem.,0,1864,,"J. Bot. 2: 248 (1864)",,,,,,urn:lsid:ipni.org:names:89917-1,wfo-0000312723,3038012,,

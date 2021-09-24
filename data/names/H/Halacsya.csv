@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4596662-8fd1-11eb-924d-9cd76263cbd0,genus,Halacsya,,,Dörfl.,Q4172636,1902,,"Herb. Norm. Sched. Cent. 44: 103. 1902.",,,,,,4607-1,wfo-4000016721,7294445,,
-091ee4ea-8fcd-11eb-924d-9cd76263cbd0,species,sendtneri,Halacsya,,"(Boiss.) Dörfl.","Q34430,Q4172636",,,"Exsicc. (Herb. Norm.) 44: 103, no. 4364 1902",,,,,,,wfo-0000714522,4058494,,
-4287959c-8fcd-11eb-924d-9cd76263cbd0,species,parnassica,Halacsyella,,"(Boiss. & Spruner) Janch.","Q34430,Q6167479,Q88755",1910,,"Mitt. Naturwiss. Vereins Univ. Wien II, 8: 39 1910",,,,,,142531-1,wfo-0000833328,3164431,,
+e4596662-8fd1-11eb-924d-9cd76263cbd0,genus,Halacsya,,,Dörfl.,0,1902,,"Exsicc. (Herb. Norm.) 44(2): 103 (1902)",,,,,,urn:lsid:ipni.org:names:4607-1,wfo-4000016721,7294445,,
+091ee4ea-8fcd-11eb-924d-9cd76263cbd0,species,sendtneri,Halacsya,,Dörfl.,0,,,"Exsicc. (Herb. Norm.) 44: 103, n.º 4364 (1902)",,,,,,urn:lsid:ipni.org:names:116575-1,wfo-0000714522,4058494,,
+5fd8a4ac-1d4d-11ec-82c2-f14daa6f2d93,subspecies,devollensis,Halacsya,sendtneri,F.K.Mey.,,,,"Haussknechtia , Beih., 15: 120 (2011)",,,,,,urn:lsid:ipni.org:names:77115216-1,wfo-0001362051,,,
+4287959c-8fcd-11eb-924d-9cd76263cbd0,species,parnassica,Halacsyella,,Janch.,0,1910,,"Mitt. Naturwiss. Vereins Univ. Wien , ser. 2, 8: 39 (1910)",,,,,,urn:lsid:ipni.org:names:142531-1,wfo-0000833328,3164431,,

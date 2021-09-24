@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e61c75f2-8fd1-11eb-924d-9cd76263cbd0,genus,Ludekia,,,Ridsdale,Q4394497,1979,,"Blumea 24: 334. 1979.",,Q96027383,,,,327861-2,wfo-4000022381,2896431,,
-dc2c983e-8fcb-11eb-924d-9cd76263cbd0,species,bernardoi,Ludekia,,"(Merr.) Ridsdale","Q729926,Q4394497",1978,,"Blumea 24: 335 1978",,Q96027383,,,,755403-1,wfo-0000230956,2896433,,
-dc2cb562-8fcb-11eb-924d-9cd76263cbd0,species,borneensis,Ludekia,,Ridsdale,Q4394497,1978,,"Blumea 24: 335 1978",,Q96027383,,,,755404-1,wfo-0000230957,2896432,,
+e61c75f2-8fd1-11eb-924d-9cd76263cbd0,genus,Ludekia,,,Ridsdale,0,1979,,"Blumea 24: 334 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:327861-2,wfo-4000022381,2896431,,
+dc2c983e-8fcb-11eb-924d-9cd76263cbd0,species,bernardoi,Ludekia,,"(Merr.) Ridsdale",0,1978,,"Blumea 24: 335 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:755403-1,wfo-0000230956,2896433,,
+dc2cb562-8fcb-11eb-924d-9cd76263cbd0,species,borneensis,Ludekia,,Ridsdale,0,1978,,"Blumea 24: 335 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:755404-1,wfo-0000230957,2896432,,

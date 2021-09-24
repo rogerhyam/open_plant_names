@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1005192-8fd1-11eb-924d-9cd76263cbd0,genus,Calispepla,,,,,,,,,,,,,,wfo-4000006028,7716238,,
-a2d629d6-8fc8-11eb-924d-9cd76263cbd0,species,aegacanthoides,Calispepla,,Vved.,Q2754924,,,,,,,,,,wfo-0000208922,2944254,,
-ba5443fa-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolium,Calispermum,,"(Hemsl.) Nakai","Q1339247,Q704751",1941,,"Bot. Mag. (Tokyo) 55: 523 1941",,Q55762863,,169a0b5c-8fca-11eb-924d-9cd76263cbd0,,587901-1,wfo-0000580191,3720746,,
-ba546704-8fcc-11eb-924d-9cd76263cbd0,species,rude,Calispermum,,"(Hand.-Mazz.) Nakai","Q134118,Q704751",1941,,"Bot. Mag. (Tokyo) 55: 523 1941",,Q55762863,,,,587902-1,wfo-0000580192,3720742,,
-ba54b2ea-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Calispermum,,Lam.,Q82122,1790,,"Fl. Cochinch. 157 1790",,,,,,587903-1,wfo-0000580193,3720734,,
-ba54d64e-8fcc-11eb-924d-9cd76263cbd0,species,alba,Calistachya,,Raf.,Q364857,1808,,"Med. Repos. Original Essays Intelligence Phys. 5: 352 1808",,,,,,800725-1,wfo-0000580194,3740560,,
+e1005192-8fd1-11eb-924d-9cd76263cbd0,genus,Calispepla,,,Vved.,,,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. S.S.R. 13: 19 (1952)",,,,,,urn:lsid:ipni.org:names:21896-1,wfo-4000006028,7716238,,
+a2d629d6-8fc8-11eb-924d-9cd76263cbd0,species,aegacanthoides,Calispepla,,Vved.,0,,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. S.S.R. 13: 19 (1952)",,,,,,urn:lsid:ipni.org:names:483026-1,wfo-0000208922,2944254,,
+ba5443fa-8fcc-11eb-924d-9cd76263cbd0,species,oblongifolium,Calispermum,,"(Hemsl.) Nakai",0,1941,,"Bot. Mag. (Tokyo) 55: 523 (1941)",,Q55762863,,169a0b5c-8fca-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:587901-1,wfo-0000580191,3720746,,
+ba546704-8fcc-11eb-924d-9cd76263cbd0,species,rude,Calispermum,,"(Hand.-Mazz.) Nakai",0,1941,,"Bot. Mag. (Tokyo) 55: 523 (1941)",,Q55762863,,,,urn:lsid:ipni.org:names:587902-1,wfo-0000580192,3720742,,
+ba54b2ea-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Calispermum,,Lour.,0,1790,,"Fl. Cochinch. : 157 (1790)",,,,,,urn:lsid:ipni.org:names:587903-1,wfo-0000580193,3720734,,
+ba54d64e-8fcc-11eb-924d-9cd76263cbd0,species,alba,Calistachya,,Raf.,0,1808,,"Med. Repos. Original Essays Intelligence Phys. 5: 352 (1808)",,,,,,urn:lsid:ipni.org:names:800725-1,wfo-0000580194,3740560,,

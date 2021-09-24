@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e90879be-8fd1-11eb-924d-9cd76263cbd0,genus,Prolongoa,,,Boiss.,Q34430,,,,,,,,,331878-2,wfo-4000031216,3151343,,
-9654e1ce-8fb5-11eb-924d-9cd76263cbd0,species,hispanica,Prolongoa,,"G.López & C.E.Jarvis","Q5880011,Q516454",1984,,"343 1984",,,,,,905028-1,wfo-0000079824,3151344,,
-3b12606e-8fb2-11eb-924d-9cd76263cbd0,species,macrocarpa,Prolongoa,,"(Sch.Bip.) Alavi","Q65685,Q21505022",,,171,,,,,,,wfo-0000016579,3098650,,
-f7790232-8fb5-11eb-924d-9cd76263cbd0,species,pectinata,Prolongoa,,"(L.) Boiss.","Q1043,Q34430",1840,,"Voy. Bot. Espagne ii. 320 t. 93 (1840)",,,,,,239641-1,wfo-0000084208,4220116,,
-04fcf016-8fb2-11eb-924d-9cd76263cbd0,species,pseudanthemis,Prolongoa,,Kunze,Q65400,1846,,1846,,,,,,,wfo-0000005244,3132538,,
-c6c35a5a-8fb7-11eb-924d-9cd76263cbd0,species,setabensis,Prolongoa,,Nyman,Q1037905,1855,,"Syll. Fl. Eur. 10. 1855",,,,,,239643-1,wfo-0000103038,4220107,,
+e90879be-8fd1-11eb-924d-9cd76263cbd0,genus,Prolongoa,,,Boiss.,0,,,"Voy. Bot. Espagne 2: 320 (1840)",,,,,,urn:lsid:ipni.org:names:331878-2,wfo-4000031216,3151343,,
+9654e1ce-8fb5-11eb-924d-9cd76263cbd0,species,hispanica,Prolongoa,,"G.López & C.E.Jarvis",0,1984,,"Anales Jard. Bot. Madrid 40(2): 343 (1984)",,,,,,urn:lsid:ipni.org:names:905028-1,wfo-0000079824,3151344,,
+3b12606e-8fb2-11eb-924d-9cd76263cbd0,species,macrocarpa,Prolongoa,,"(Coss. & Kralik) Alavi",0,,,"Fl. Libya 107: 171 (1983)",,,,,,urn:lsid:ipni.org:names:941987-1,wfo-0000016579,3098650,,
+f7790232-8fb5-11eb-924d-9cd76263cbd0,species,pectinata,Prolongoa,,Boiss.,0,1840,,"Voy. Bot. Espagne 2: 320 (1840)",,,,,,urn:lsid:ipni.org:names:239641-1,wfo-0000084208,4220116,,
+04fcf016-8fb2-11eb-924d-9cd76263cbd0,species,pseudanthemis,Prolongoa,,Kunze,0,1846,,"Flora 29: 699 (1846)",,,,,,urn:lsid:ipni.org:names:239642-1,wfo-0000005244,3132538,,
+c6c35a5a-8fb7-11eb-924d-9cd76263cbd0,species,setabensis,Prolongoa,,Nyman,0,1855,,"Syll. Fl. Eur. : 10 (1855)",,,,,,urn:lsid:ipni.org:names:239643-1,wfo-0000103038,4220107,,

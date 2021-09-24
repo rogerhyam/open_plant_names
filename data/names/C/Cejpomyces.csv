@@ -1,8 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a215c696-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cejpomyces,,,"Svrcek & Pouzar",Q2253812,1970,,"Ceská Mykol. 24(1): 5 (1970)",,,,a215c696-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17246," "
-2a3a5250-9bac-11eb-a8a2-19ed5c03f8d3,species,globosisporus,Cejpomyces,,"Boidin & Gilles",Q33673334,1982,,"Mycotaxon 14(1): 289 (1982)",,,,2a3a5250-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110531," globososporus"
-5d5a095a-9bac-11eb-a8a2-19ed5c03f8d3,species,globososporus,Cejpomyces,,"Boidin & Gilles",Q33673334,,,,,,,5d5a095a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490825," Cejpomyces globosisporus"
-0b3b9a8e-9bad-11eb-a8a2-19ed5c03f8d3,species,terrigenus,Cejpomyces,,"(Bres.) Svrcek & Pouzar",Q2253812,1970,,"Ceská Mykol. 24(1): 6 (1970)",,,,904c92ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,310421," "
-989b8100-8fb4-11eb-924d-9cd76263cbd0,species,pachymorpha,Celaena,,Wedd.,Q983408,,,230,,,,,,,wfo-0000067308,7674211,,
-3ec2e3c6-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Celaenodendron,,Standl.,Q1333160,1927,,"Contr. Dudley Herb. 1: 76 1927",,,,,,51089-2,wfo-0000825018,3075265,,
-748b4146-8fba-11eb-924d-9cd76263cbd0,species,celakovskyi,,,Domin,Q1109649,1935,,1935,,,,,,,wfo-0000126777,,,
+a215c696-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cejpomyces,,,"Svrcek & Pouzar",0,1970,,"Ceská Mykol. 24(1): 5 (1970)",,,,a215c696-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17246," "
+2a3a5250-9bac-11eb-a8a2-19ed5c03f8d3,species,globosisporus,Cejpomyces,,"Boidin & Gilles",0,1982,,"Mycotaxon 14(1): 289 (1982)",,,,2a3a5250-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110531," globososporus"
+5d5a095a-9bac-11eb-a8a2-19ed5c03f8d3,species,globososporus,Cejpomyces,,"Boidin & Gilles",0,,,,,,,5d5a095a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490825," Cejpomyces globosisporus"
+0b3b9a8e-9bad-11eb-a8a2-19ed5c03f8d3,species,terrigenus,Cejpomyces,,"(Bres.) Svrcek & Pouzar",0,1970,,"Ceská Mykol. 24(1): 6 (1970)",,,,904c92ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,310421," "
+989b8100-8fb4-11eb-924d-9cd76263cbd0,species,pachymorpha,Celaena,,Wedd.,0,,,"Chlor. Andina 1: 230 (1857)",,,,,,urn:lsid:ipni.org:names:189630-1,wfo-0000067308,7674211,,
+3ec2e3c6-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Celaenodendron,,Standl.,0,1927,,"Contr. Dudley Herb. 1: 76 (1927)",,,,,,urn:lsid:ipni.org:names:51089-2,wfo-0000825018,3075265,,

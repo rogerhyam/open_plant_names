@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9308d5a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosamanea,,,Harms,Q62415,,,,,Q96000024,,,,290970-2,wfo-4000031669,8107622,,
-ac3f8862-8fc5-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & Rose) Barneby & J.W.","Q553714,Q1336049,Q929691",,,,,,,,,,wfo-0000194240,2974705,,
-b72c11bc-8fd1-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & P.Wilson in Britton & Rose) Barneby & J.W.Grimes","Q553714,Q2505994,Q1336049,Q929691,Q5925894",1996,,"Mem. New York Bot. Gard. 74(1): 116 1996",,,,b32f1bd0-8fcd-11eb-924d-9cd76263cbd0,,1157070-2,wfo-0001237752,2974705,,
-092855c4-8fc4-11eb-924d-9cd76263cbd0,species,guachapele,Pseudosamanea,,"(Kunth) Harms","Q77074,Q62415",,,,,,,37669bd0-8fc4-11eb-924d-9cd76263cbd0,,1176210-2,wfo-0000185990,2972923,,
-fc4269aa-8fcb-11eb-924d-9cd76263cbd0,species,miquelii,Pseudosantalum,,"(Boerl.) Kuntze","Q5924432,Q62853",1891,,"Revis. Gen. Pl. 1: 271 1891",,,,,,,wfo-0000284238,3037208,,
-fc430554-8fcb-11eb-924d-9cd76263cbd0,species,umbelliferum,Pseudosantalum,,"(Lam.) Kuntze","Q82122,Q62853",1891,,"Revis. Gen. Pl. 1: 271 1891",,,,,,,wfo-0000284239,3037264,,
+e9308d5a-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudosamanea,,,Harms,0,,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 54 (1930)",,Q96000024,,,,urn:lsid:ipni.org:names:290970-2,wfo-4000031669,8107622,,
+ac3f8862-8fc5-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & P.Wilson) Barneby & J.W.Grimes",0,,,"Mem. New York Bot. Gard. 74(1): 116 (1996)",,,,,,urn:lsid:ipni.org:names:1157070-2,wfo-0000194240,2974705,,
+b72c11bc-8fd1-11eb-924d-9cd76263cbd0,species,cubana,Pseudosamanea,,"(Britton & P.Wilson in Britton & Rose) Barneby & J.W.Grimes",0,1996,,"Mem. New York Bot. Gard. 74(1): 116 1996",,,,b32f1bd0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001237752,2974705,,
+092855c4-8fc4-11eb-924d-9cd76263cbd0,species,guachapele,Pseudosamanea,,"(Kunth) Harms",0,,,,,,,37669bd0-8fc4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1176210-2,wfo-0000185990,2972923,,
+fc4269aa-8fcb-11eb-924d-9cd76263cbd0,species,miquelii,Pseudosantalum,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 271 (1891)",,,,,,urn:lsid:ipni.org:names:91876-1,wfo-0000284238,3037208,,
+fc430554-8fcb-11eb-924d-9cd76263cbd0,species,umbelliferum,Pseudosantalum,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 271 (1891)",,,,,,urn:lsid:ipni.org:names:91877-1,wfo-0000284239,3037264,,

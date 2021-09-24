@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3116c4-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrachondra,,,"Petrie ex Oliv.","Q5294994,Q1161960",,,"Hooker's Icon. Pl. 2250. 1892.",,,,,,297648-2,wfo-4000037862,7972469,,
-145b8f44-8fcc-11eb-924d-9cd76263cbd0,species,hamiltonii,Tetrachondra,,"Petrie ex Oliv.","Q5294994,Q1161960",,,"Hooker's Icon. Pl. 23: t. 2250 1892",,,,,,,wfo-0000321537,7658296,,
-145bb488-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Tetrachondra,,Skottsb.,Q942078,1912,,"Bot. Jahrb. Syst. 48(107): 17 1912",,,,,,251588-2,wfo-0000321538,3585429,,
-145bd6ac-8fcc-11eb-924d-9cd76263cbd0,subspecies,fuegiana,Tetrachondra,patagonica,D.M.Moore,Q15993306,1970,,"Bol. Soc. Argent. Bot. 13: 6 1970",,,,,,251601-2,wfo-0000321539,3585431,,
+eb3116c4-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrachondra,,,Petrie,0,,,"Hooker's Icon. Pl. 23: t. 2250 (1892)",,,,,,urn:lsid:ipni.org:names:297648-2,wfo-4000037862,7972469,,
+145b8f44-8fcc-11eb-924d-9cd76263cbd0,species,hamiltonii,Tetrachondra,,Petrie,0,,,"Hooker's Icon. Pl. 23: t. 2250 (1892)",,,,,,urn:lsid:ipni.org:names:120853-1,wfo-0000321537,7658296,,
+145bb488-8fcc-11eb-924d-9cd76263cbd0,species,patagonica,Tetrachondra,,Skottsb.,0,1912,,"Beibl. Bot. Jahrb. Syst. 107: 17 (1912)",,,,,,urn:lsid:ipni.org:names:251588-2,wfo-0000321538,3585429,,
+145bd6ac-8fcc-11eb-924d-9cd76263cbd0,subspecies,fuegiana,Tetrachondra,patagonica,D.M.Moore,0,1970,,"Bol. Soc. Argent. Bot. 13: 6 (1970)",,,,,,urn:lsid:ipni.org:names:251601-2,wfo-0000321539,3585431,,

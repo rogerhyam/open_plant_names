@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9751420-8fd1-11eb-924d-9cd76263cbd0,genus,Raffenaldia,,,Godr.,Q975562,1853,,"Fl. Juvenalis 5. 1853.",,,,,,12978-1,wfo-4000032477,3041116,,
-13accc42-8fcd-11eb-924d-9cd76263cbd0,species,platycarpa,Raffenaldia,,"(Coss.) Stapf","Q1276939,Q78630",,,"Bot. Mag. 155: t. 9267 1932",,,,,,288383-1,wfo-0000733807,3041121,,
-13ace876-8fcd-11eb-924d-9cd76263cbd0,species,primuloides,Raffenaldia,,Godr.,Q975562,1853,,"Mém. Sect. Med. Acad. Sci. Montpellier 1: 413 1853",,,,,,288384-1,wfo-0000733808,3041117,,
-ad9bab34-8fcd-11eb-924d-9cd76263cbd0,variety,lutea,Raffenaldia,primuloides,Maire,Q2661320,1934,,"Bull. Soc. Hist. Nat. Afrique N. 25: 293. 1934",,,,,,,wfo-0001038262,3041118,,
-ad9bcc72-8fcd-11eb-924d-9cd76263cbd0,variety,violacea,Raffenaldia,primuloides,Maire,Q2661320,1934,,"Bull. Soc. Hist. Nat. Afrique N. 25: 293. 1934",,,,,,,wfo-0001038263,3041119,,
+e9751420-8fd1-11eb-924d-9cd76263cbd0,genus,Raffenaldia,,,Godr.,0,1853,,"Mém. Sect. Med. Acad. Sci. Montpellier 1: 413 (1853)",,,,,,urn:lsid:ipni.org:names:12978-1,wfo-4000032477,3041116,,
+13accc42-8fcd-11eb-924d-9cd76263cbd0,species,platycarpa,Raffenaldia,,"(Coss.) Stapf",0,,,"Bot. Mag. 155: t. 9267 (1932)",,,,,,urn:lsid:ipni.org:names:288383-1,wfo-0000733807,3041121,,
+13ace876-8fcd-11eb-924d-9cd76263cbd0,species,primuloides,Raffenaldia,,Godr.,0,1853,,"Mém. Sect. Med. Acad. Sci. Montpellier 1: 413 (1853)",,,,,,urn:lsid:ipni.org:names:288384-1,wfo-0000733808,3041117,,
+ad9bab34-8fcd-11eb-924d-9cd76263cbd0,variety,lutea,Raffenaldia,primuloides,Maire,0,1934,,"Bull. Soc. Hist. Nat. Afrique N. 25: 293. 1934",,,,,,,wfo-0001038262,3041118,,
+6393e82c-1d4d-11ec-82c2-f14daa6f2d93,subspecies,riphaensis,Raffenaldia,primuloides,J.M.Monts.,,,,"Lagascalia 18: 248 (1996)",,,,,,urn:lsid:ipni.org:names:996716-1,wfo-0001366931,,,
+ad9bcc72-8fcd-11eb-924d-9cd76263cbd0,variety,violacea,Raffenaldia,primuloides,Maire,0,1934,,"Bull. Soc. Hist. Nat. Afrique N. 25: 293. 1934",,,,,,,wfo-0001038263,3041119,,

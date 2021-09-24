@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e830488c-8fd1-11eb-924d-9cd76263cbd0,genus,Peraltea,,,,,,,,,,,,,,wfo-4000028696,7302849,,
-b703c4d6-8fcd-11eb-924d-9cd76263cbd0,species,erythrinaefolia,Peraltea,,Saldanha,Q21390159,1865,,"Config. & Descr. Madeir. Rio de Janeiro 30, 116 1865",,,,,,513043-1,wfo-0001059618,7540161,,
-774d09f2-8fcc-11eb-924d-9cd76263cbd0,species,erythrinifolia,Peraltea,,Saldanha,Q21390159,1865,,"Config. Descr. Orgãos Fund. 23: 30, 116 1865",,,,,,513043-1,wfo-0000469467,3979468,,
-929b5b20-8fc0-11eb-924d-9cd76263cbd0,species,lupinoides,Peraltea,,Kunth,Q77074,,,,,,,,,190021-2,wfo-0000166822,2943849,,
-92b14908-8fc0-11eb-924d-9cd76263cbd0,species,oxyphylla,Peraltea,,DC.,Q123057,,,,,,,,,,wfo-0000166824,2943852,,
+e830488c-8fd1-11eb-924d-9cd76263cbd0,genus,Peraltea,,,Kunth,,,,"Nov. Gen. Sp. 6: 469 (1824)",,,,,,urn:lsid:ipni.org:names:23184-1,wfo-4000028696,7302849,,
+b703c4d6-8fcd-11eb-924d-9cd76263cbd0,species,erythrinaefolia,Peraltea,,Saldanha,0,1865,,"Config. Descr. Orgãos Fund. 23: 30, 116 (1865)",,,,,,urn:lsid:ipni.org:names:513043-1,wfo-0001059618,7540161,,
+774d09f2-8fcc-11eb-924d-9cd76263cbd0,species,erythrinifolia,Peraltea,,Saldanha,0,1865,,"Config. Descr. Orgãos Fund. 23: 30, 116 (1865)",,,,,,urn:lsid:ipni.org:names:513043-1,wfo-0000469467,3979468,,
+929b5b20-8fc0-11eb-924d-9cd76263cbd0,species,lupinoides,Peraltea,,Kunth,0,,,,,,,,,urn:lsid:ipni.org:names:190021-2,wfo-0000166822,2943849,,
+92b14908-8fc0-11eb-924d-9cd76263cbd0,species,oxyphylla,Peraltea,,DC.,0,,,"Mém. Légum. : 463 (1827)",,,,,,urn:lsid:ipni.org:names:513046-1,wfo-0000166824,2943852,,

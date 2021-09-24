@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb050750-8fd1-11eb-924d-9cd76263cbd0,genus,Synedrella,,,Gaertn.,Q60226,,,,,,,,,331996-2,wfo-4000037293,2652808,,
-384aea24-8fb5-11eb-924d-9cd76263cbd0,species,nodiflora,Synedrella,,"(L.) Gaertn.","Q1043,Q60226",1791,,"Fruct. Sem. Pl. 2: 456 (1791)",,,,,,67299-3,wfo-0000075384,5404991,,
-421a1256-8fb4-11eb-924d-9cd76263cbd0,species,peduncularis,Synedrella,,Benth.,Q731808,1845,,"Pl. Hartw. 119. 1845?",,,,,,,wfo-0000062325,5400131,,
-f94a0abc-8fb9-11eb-924d-9cd76263cbd0,species,vialis,Synedrella,,"(Less.) A.Gray","Q76352,Q347356",1882,,"Proc. Amer. Acad. Arts xvii. (1882) 217",,,,80818cee-8fba-11eb-924d-9cd76263cbd0,,252026-1,wfo-0000122924,5386454,,
+eb050750-8fd1-11eb-924d-9cd76263cbd0,genus,Synedrella,,,Gaertn.,0,,,"Fruct. Sem. Pl. 2: 456 (1791)",,,,,,urn:lsid:ipni.org:names:331996-2,wfo-4000037293,2652808,,
+384aea24-8fb5-11eb-924d-9cd76263cbd0,species,nodiflora,Synedrella,,Gaertn.,0,1791,,"De Fructibus et Seminibus Plantarum 1791",,,,,,urn:lsid:ipni.org:names:67299-3,wfo-0000075384,5404991,,
+421a1256-8fb4-11eb-924d-9cd76263cbd0,species,peduncularis,Synedrella,,Benth.,0,1845,,"Pl. Hartw. : 119 (1843)",,,,,,urn:lsid:ipni.org:names:252025-1,wfo-0000062325,5400131,,
+f94a0abc-8fb9-11eb-924d-9cd76263cbd0,species,vialis,Synedrella,,A.Gray,0,1882,,"Proc. Amer. Acad. Arts 17: 217 (1882)",,,,80818cee-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:252026-1,wfo-0000122924,5386454,,

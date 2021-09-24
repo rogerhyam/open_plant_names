@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3ead8e6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastranthus,,,"Moritz ex Benth.","Q101052,Q731808",,,"Gen. Pl. 2: 1107. 1876.",,,,,,,wfo-4000015362,7263795,,
-add3bef2-8fcd-11eb-924d-9cd76263cbd0,species,schlechtendahlii,Gastranthus,,"Moritz ex Benth. & Hook.f.","Q101052,Q731808,Q157501",,,"Gen. Pl. 2: 1107 1876",,,,,,,wfo-0001038760,7823365,,
-fdb071d2-8fcc-11eb-924d-9cd76263cbd0,species,schlechtendalii,Gastranthus,,"Moritz ex Benth.","Q101052,Q731808",,,"Gen. Pl. 2: 1107 1876",,,,,,,wfo-0000694886,8113999,,
-8d756142-8fcd-11eb-924d-9cd76263cbd0,species,ventricosa,Gastranthus,,"(F.Muell.) F.Muell.",Q708002,1868,,"Fragm. 6: 130 1868",,,,f03782e4-8fcb-11eb-924d-9cd76263cbd0,,79119-1,wfo-0000971357,3616518,,
+e3ead8e6-8fd1-11eb-924d-9cd76263cbd0,genus,Gastranthus,,,"Moritz ex Benth. & Hook.f.",0,,,"Gen. Pl. 2: 1107 (1876)",,,,,,urn:lsid:ipni.org:names:595-1,wfo-4000015362,7263795,,
+add3bef2-8fcd-11eb-924d-9cd76263cbd0,species,schlechtendahlii,Gastranthus,,"Moritz ex Benth. & Hook.f.",0,,,"Gen. Pl. 2: 1107 (1876)",,,,,,urn:lsid:ipni.org:names:49020-1,wfo-0001038760,7823365,,
+fdb071d2-8fcc-11eb-924d-9cd76263cbd0,species,schlechtendalii,Gastranthus,,"Moritz ex Benth.",0,,,"Gen. Pl. 2: 1107 (1876)",,,,,,urn:lsid:ipni.org:names:49020-1,wfo-0000694886,8113999,,
+56e47290-1d4d-11ec-82c2-f14daa6f2d93,species,ventricosa,Gastranthus,,B.D.Jacks.,,,,"Index Kew. 1  1893 [14 Dec 1893]",,,,,,urn:lsid:ipni.org:names:114985-3,wfo-0001349565,,,
+8d756142-8fcd-11eb-924d-9cd76263cbd0,species,ventricosa,Gastranthus,,F.Muell.,0,1868,,"Fragm. 6: 130 (1868)",,,,f03782e4-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:79119-1,wfo-0000971357,3616518,,

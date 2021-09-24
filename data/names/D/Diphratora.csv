@@ -1,26 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-99740f66-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diphratora,,,"Trevis. ex Jatta",Q634712,1900,,"Syll. Lich. Ital. 262 (1900)",,,,99740f66-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1598," "
-1575879a-9bac-11eb-a8a2-19ed5c03f8d3,species,arenaria,Diphratora,,"(Anzi) Jatta",Q3850235,,,,,,,fe4db254-9bab-11eb-a8a2-19ed5c03f8d3,,,,,384414," "
-85a097c0-9bad-11eb-a8a2-19ed5c03f8d3,species,candicans,Diphratora,,"(Dicks.) Jatta",Q521759,,,,,,,4673be1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384415," "
-85a0c04c-9bad-11eb-a8a2-19ed5c03f8d3,species,carneonivea,Diphratora,,"(Anzi) anon.",Q3850235,,,,,,,88bc606a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384416," "
+99740f66-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diphratora,,,"Trevis. ex Jatta",0,1900,,"Syll. Lich. Ital. 262 (1900)",,,,99740f66-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1598," "
+1575879a-9bac-11eb-a8a2-19ed5c03f8d3,species,arenaria,Diphratora,,"(Anzi) Jatta",0,,,,,,,fe4db254-9bab-11eb-a8a2-19ed5c03f8d3,,,,,384414," "
+85a097c0-9bad-11eb-a8a2-19ed5c03f8d3,species,candicans,Diphratora,,"(Dicks.) Jatta",0,,,,,,,4673be1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384415," "
+85a0c04c-9bad-11eb-a8a2-19ed5c03f8d3,species,carneonivea,Diphratora,,"(Anzi) anon.",0,,,,,,,88bc606a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384416," "
 85a0e8a6-9bad-11eb-a8a2-19ed5c03f8d3,species,cesatii,Diphratora,,"(A. Massal.) Jatta",,,,,,,,20f87496-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384417," "
-85a11876-9bad-11eb-a8a2-19ed5c03f8d3,species,cyrtella,Diphratora,,"(Ach.) Jatta",Q365923,,,,,,,44f44d16-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384418," "
-85a14292-9bad-11eb-a8a2-19ed5c03f8d3,species,disparata,Diphratora,,"(Nyl.) Jatta",Q932083,,,,,,,87b0e024-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384419," "
-03b48394-9bac-11eb-a8a2-19ed5c03f8d3,species,holophaea,Diphratora,,"(Mont.) Jatta",Q1029228,,,,,,,489a8b1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384420," "
+85a11876-9bad-11eb-a8a2-19ed5c03f8d3,species,cyrtella,Diphratora,,"(Ach.) Jatta",0,,,,,,,44f44d16-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384418," "
+85a14292-9bad-11eb-a8a2-19ed5c03f8d3,species,disparata,Diphratora,,"(Nyl.) Jatta",0,,,,,,,87b0e024-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384419," "
+03b48394-9bac-11eb-a8a2-19ed5c03f8d3,species,holophaea,Diphratora,,"(Mont.) Jatta",0,,,,,,,489a8b1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384420," "
 03b4b7ec-9bac-11eb-a8a2-19ed5c03f8d3,species,maroccana,Diphratora,,"B. de Lesd.",,,,,,,,03b4b7ec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,384421," "
-85a184c8-9bad-11eb-a8a2-19ed5c03f8d3,species,olivacea,Diphratora,,"(Dufour) Jatta",Q941677,,,,,,,,,,,,384422," "
-42de1912-9bad-11eb-a8a2-19ed5c03f8d3,species,polycycla,Diphratora,,"(Anzi) Jatta",Q3850235,,,,,,,90cd760e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384423," "
+85a184c8-9bad-11eb-a8a2-19ed5c03f8d3,species,olivacea,Diphratora,,"(Dufour) Jatta",0,,,,,,,,,,,,384422," "
+42de1912-9bad-11eb-a8a2-19ed5c03f8d3,species,polycycla,Diphratora,,"(Anzi) Jatta",0,,,,,,,90cd760e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384423," "
 42de5a4e-9bad-11eb-a8a2-19ed5c03f8d3,species,proteiformis,Diphratora,,"(A. Massal.) Jatta",,,,,,,,4116b166-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384424," "
-42deaada-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudocyrtella,Diphratora,,"(Anzi) Jatta",Q3850235,,,,,,,4116f73e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384425," "
+42deaada-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudocyrtella,Diphratora,,"(Anzi) Jatta",0,,,,,,,4116f73e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384425," "
 42def490-9bad-11eb-a8a2-19ed5c03f8d3,species,sambucina,Diphratora,,"(Körb.) Jatta",,,,,,,,411807dc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384426," "
-42dfc64a-9bad-11eb-a8a2-19ed5c03f8d3,species,spadicea,Diphratora,,"(Flot.) anon.",Q4491206,,,,,,,884c4190-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384427," "
-42e0ab8c-9bad-11eb-a8a2-19ed5c03f8d3,species,turicensis,Diphratora,,"(Hepp) Trevis.","Q2086812,Q634712",,,,,,,82af0f6a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384428," "
-80ade9c0-8fcd-11eb-924d-9cd76263cbd0,species,australe,Diphryllum,,"(Lindl.) Kuntze","Q378629,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,,,81336-2,wfo-0000943775,2816203,,
-80ae04fa-8fcd-11eb-924d-9cd76263cbd0,species,bifolium,Diphryllum,,Raf.,Q364857,1808,,"Med. Repos. 5: 357 1808",,,,,,629824-1,wfo-0000943776,2816207,,
-80ae202a-8fcd-11eb-924d-9cd76263cbd0,species,convallarioides,Diphryllum,,"(Sw.) Kuntze","Q632088,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,845d2ba8-8fcd-11eb-924d-9cd76263cbd0,,81337-2,wfo-0000943777,2816292,,
-80ae3bc8-8fcd-11eb-924d-9cd76263cbd0,species,cordatum,Diphryllum,,"(L.) Kuntze","Q1043,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,0eab0b50-8fcd-11eb-924d-9cd76263cbd0,,81338-2,wfo-0000943778,2816232,,
-80ae5d7e-8fcd-11eb-924d-9cd76263cbd0,species,eschscholtzianum,Diphryllum,,"(Cham. & Schltdl.) Kuntze","Q154782,Q62826,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,,,629827-1,wfo-0000943779,2816296,,
-80ae7b9c-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Diphryllum,,"(Blume) Kuntze","Q76816,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,,,629828-1,wfo-0000943780,2816278,,
-80ae96e0-8fcd-11eb-924d-9cd76263cbd0,species,micranthum,Diphryllum,,"(Lindl.) Kuntze","Q378629,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,,,629829-1,wfo-0000943781,2816209,,
-80aed1b4-8fcd-11eb-924d-9cd76263cbd0,species,ovatum,Diphryllum,,"(L.) Kuntze","Q1043,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,,,629830-1,wfo-0000943783,2816260,,
-80aeef82-8fcd-11eb-924d-9cd76263cbd0,species,pinetorum,Diphryllum,,"(Lindl.) Kuntze","Q378629,Q62853",1891,,"Revis. Gen. Pl. 2: 659 1891",,,,db79afbc-8fcb-11eb-924d-9cd76263cbd0,,629831-1,wfo-0000943784,2816328,,
+42dfc64a-9bad-11eb-a8a2-19ed5c03f8d3,species,spadicea,Diphratora,,"(Flot.) anon.",0,,,,,,,884c4190-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384427," "
+42e0ab8c-9bad-11eb-a8a2-19ed5c03f8d3,species,turicensis,Diphratora,,"(Hepp) Trevis.",0,,,,,,,82af0f6a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384428," "

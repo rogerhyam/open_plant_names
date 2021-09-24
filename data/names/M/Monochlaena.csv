@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6db49a0-8fd1-11eb-924d-9cd76263cbd0,genus,Monochlaena,,,Gaudich.,Q1064524,,,,,,,,,,wfo-4000024683,7319550,,
-fd934adc-8fb1-11eb-924d-9cd76263cbd0,species,racemosa,Monochlaena,,Cass.,Q958431,1827,,"in Dict. Sci. Nat. l. 496 (1827).",,,,,,233500-1,wfo-0000000590,5694880,,
-ac669a08-8fcd-11eb-924d-9cd76263cbd0,species,sinuosa,Monochlaena,,"(Desv.) Gaudich.","Q1354671,Q1064524",,,,,,,ccc05168-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001035517,5656065,,
+e6db49a0-8fd1-11eb-924d-9cd76263cbd0,genus,Monochlaena,,,Gaudich.,0,,,,,,,,,urn:lsid:ipni.org:names:10100-1,wfo-4000024683,7319550,,
+fd934adc-8fb1-11eb-924d-9cd76263cbd0,species,racemosa,Monochlaena,,Cass.,0,1827,,"Dict. Sci. Nat., ed. 2. [F. Cuvier] 50: 496. 1827 [Nov 1827]",,,,,,urn:lsid:ipni.org:names:233500-1,wfo-0000000590,5694880,,
+ac669a08-8fcd-11eb-924d-9cd76263cbd0,species,sinuosa,Monochlaena,,"(Desv.) Gaudich.",0,,,"Voy. Uranie : 340 (1828)",,,,ccc05168-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17149770-1,wfo-0001035517,5656065,,

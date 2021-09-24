@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebc7ef68-8fd1-11eb-924d-9cd76263cbd0,genus,Ungeria,,,"Schott & Endl.","Q112191,Q78605",1832,,"Melet. Bot. 27. 1832.",,,,,,38847-1,wfo-4000039763,2720305,,
-5552a500-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Ungeria,,"Schott & Endl.","Q112191,Q78605",1832,,"Melet. Bot. 27 1832",,,,,,825707-1,wfo-0000417550,7410109,,
-c5b92f44-8fcc-11eb-924d-9cd76263cbd0,species,monocephala,Ungeria,,"(Roxb.) Nees ex C.B.Clarke","Q748967,Q76349,Q2659116",1884,,"J. Linn. Soc., Bot. 21: 34 1884",,Q55760258,,,,315693-1,wfo-0000598186,7706965,,
+ebc7ef68-8fd1-11eb-924d-9cd76263cbd0,genus,Ungeria,,,"Schott & Endl.",0,1832,,"Melet. Bot. : 27 (1832)",,,,,,urn:lsid:ipni.org:names:38847-1,wfo-4000039763,2720305,,
+5552a500-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Ungeria,,"Schott & Endl.",0,1832,,"Melet. Bot. : 27 (1832)",,,,,,urn:lsid:ipni.org:names:825707-1,wfo-0000417550,7410109,,
+c5b92f44-8fcc-11eb-924d-9cd76263cbd0,species,monocephala,Ungeria,,"(Roxb.) Nees ex C.B.Clarke",0,1884,,"J. Linn. Soc., Bot. 21: 34. 1884 [1886 publ. 1884]",,Q55760258,,,,urn:lsid:ipni.org:names:315693-1,wfo-0000598186,7706965,,

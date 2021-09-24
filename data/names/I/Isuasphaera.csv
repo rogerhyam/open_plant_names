@@ -1,8 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 988f5c72-9bad-11eb-a8a2-19ed5c03f8d3,genus,Isuasphaera,,,"H.D. Pflug",,1978,,"Naturwissenschaften 65(12): 613 (1978)",,,,988f5c72-9bad-11eb-a8a2-19ed5c03f8d3,,,,,21143," "
 2a61335c-9bac-11eb-a8a2-19ed5c03f8d3,species,isua,Isuasphaera,,"H.D. Pflug",,1978,,"Naturwissenschaften 65(12): 614 + fig. 3, nos 1-18, 20, 22 (1978)",,,,2a61335c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110740," "
-133fa9dc-8fcd-11eb-924d-9cd76263cbd0,species,ochraceus,Isypus,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 73 1838",,,,,,783401-1,wfo-0000732847,3786000,,
-8222d30e-8fca-11eb-924d-9cd76263cbd0,species,habenarioides,Itaculumia,,Hoehne,Q5499235,1952,,"Arq. Bot. Estado São Paulo n.s., f.m., 2: 121 1952",,,,,,130733-2,wfo-0000218108,2829013,,
-82310faa-8fca-11eb-924d-9cd76263cbd0,species,jordanensis,Itaculumia,,Leite,Q21518611,1946,,"Arq. Bot. Estado São Paulo n.s., f.m., 2: 19 1946",,,,,,130734-2,wfo-0000218109,2829947,,
-823f36de-8fca-11eb-924d-9cd76263cbd0,species,ulaei,Itaculumia,,Hoehne,Q5499235,1936,,"Bol. Mus. Nac. Rio de Janeiro 12(3-4): 79 1936",,,,,,130735-2,wfo-0000218110,2828576,,
-676566ec-8fcc-11eb-924d-9cd76263cbd0,species,itaipuana,,,"B.R.Silva & L.F.Sousa","Q26712797,Q26712828",2003,,"J. Bromeliad Soc. 53: 73 2003",,,,,,70027851-1,wfo-0000442231,,,
+133fa9dc-8fcd-11eb-924d-9cd76263cbd0,species,ochraceus,Isypus,,Raf.,0,1838,,"Fl. Tellur. 4: 73. 1838 [1836 publ. mid-1838]",,,,,,urn:lsid:ipni.org:names:783401-1,wfo-0000732847,3786000,,
+8222d30e-8fca-11eb-924d-9cd76263cbd0,species,habenarioides,Itaculumia,,Hoehne,0,1952,,"Arq. Bot. Estado São Paulo , n.s., f.m., 2: 121 (1952)",,,,,,urn:lsid:ipni.org:names:130733-2,wfo-0000218108,2829013,,
+82310faa-8fca-11eb-924d-9cd76263cbd0,species,jordanensis,Itaculumia,,Leite,0,1946,,"Arq. Bot. Estado São Paulo , n.s., f.m., 2: 19 (1946)",,,,,,urn:lsid:ipni.org:names:130734-2,wfo-0000218109,2829947,,
+823f36de-8fca-11eb-924d-9cd76263cbd0,species,ulaei,Itaculumia,,Hoehne,0,1936,,"Bol. Mus. Nac. Rio de Janeiro 12(3-4): 79 (1936)",,,,,,urn:lsid:ipni.org:names:130735-2,wfo-0000218110,2828576,,

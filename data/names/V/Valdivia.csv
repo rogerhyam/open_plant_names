@@ -1,4 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebd545b4-8fd1-11eb-924d-9cd76263cbd0,genus,Valdivia,,,Remy,Q3058535,1848,,"Fl. Chil. 3: 43. 1848.",,,,,,37188-1,wfo-4000039945,3234487,,
-d93d5ab2-8fcd-11eb-924d-9cd76263cbd0,species,gayana,Valdivia,,Remy,Q3058535,,,,,,,,,,wfo-0001135759,7278608,,
-e5345d52-8fcd-11eb-924d-9cd76263cbd0,species,pauperculata,Valdiviella,,"Thér. & Herzog","Q19060997,Q98278",1928,,"Rev. Bryol., n.s. 1: 98. f. 1–2 1928",,,,,,,wfo-0001161052,7451858,,
+ebd545b4-8fd1-11eb-924d-9cd76263cbd0,genus,Valdivia,,,J.Rémy,0,1848,,"Fl. Chil. 3: 43 (1848)",,,,,,urn:lsid:ipni.org:names:37188-1,wfo-4000039945,3234487,,
+d93d5ab2-8fcd-11eb-924d-9cd76263cbd0,species,gayana,Valdivia,,J.Rémy,0,,,"Fl. Chil. 3: 43 (1848)",,,,,,urn:lsid:ipni.org:names:794935-1,wfo-0001135759,7278608,,
+6bff280a-1d4d-11ec-82c2-f14daa6f2d93,variety,hollermayeri,Valdivia,gayana,Gunckel,,,,"Revista Chilena Hist. Nat. 38: 21 (1934)",,,,,,urn:lsid:ipni.org:names:262111-2,wfo-0001378804,,,
+6bff6590-1d4d-11ec-82c2-f14daa6f2d93,variety,robusta,Valdivia,gayana,Gunckel,,,,"Revista Chilena Hist. Nat. 38: 22 (1934)",,,,,,urn:lsid:ipni.org:names:262113-2,wfo-0001378805,,,
+584964f6-1d4d-11ec-82c2-f14daa6f2d93,species,rupestris,Valdivia,,"Gay ex Gunckel",,,,"Revista Univ. (Santiago) 16: 516. 1931 In synon",,,,,,urn:lsid:ipni.org:names:262112-2,wfo-0001351436,,,
+e5345d52-8fcd-11eb-924d-9cd76263cbd0,species,pauperculata,Valdiviella,,"Thér. & Herzog",0,1928,,"Rev. Bryol., n.s. 1: 98. f. 1–2 1928",,,,,,,wfo-0001161052,7451858,,
+510eff66-1d4d-11ec-82c2-f14daa6f2d93,species,debedoutii,Valdiviesoa,,"(P.Ortiz) Szlach. & Kolan.",,,,"Pl. Syst. Evol. 301: 108 (2014)",,,,,,urn:lsid:ipni.org:names:77145617-1,wfo-0001341745,,,
+510f27c0-1d4d-11ec-82c2-f14daa6f2d93,species,tortuosa,Valdiviesoa,,"(Foldats) Szlach. & Kolan.",,,,"Pl. Syst. Evol. 301: 109 (2014)",,,,,,urn:lsid:ipni.org:names:77145618-1,wfo-0001341746,,,

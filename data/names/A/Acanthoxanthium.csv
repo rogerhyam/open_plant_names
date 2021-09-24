@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-debaab4e-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoxanthium,,,,,,,,,,,,,,wfo-4000000166,6063882,,
-2574da78-8fb9-11eb-924d-9cd76263cbd0,species,ambrosioides,Acanthoxanthium,,"(Hook. & Arn.) D.Löve","Q472639,Q730292,Q4272889",1975,,"66 1975",,,,87293b6a-8fb9-11eb-924d-9cd76263cbd0,,173729-1,wfo-0000115815,3089141,,
-d5e7a3e8-8fb6-11eb-924d-9cd76263cbd0,species,spinosum,Acanthoxanthium,,"(L.) E.Fourn.","Q1043,Q2616180",1869,,"Ann. Soc. Linn. Lyon 17: 110 (1869)",,,,,,,wfo-0000093675,3089152,,
-5752a0d6-8fb7-11eb-924d-9cd76263cbd0,subspecies,catharticum,Acanthoxanthium,spinosum,"(Kunth) D.Löve","Q77074,Q4272889",1975,,"Lagascalia 5 (1): 64 (1975)",,,,425c095c-8fb6-11eb-924d-9cd76263cbd0,,876348-1,wfo-0000098798,4217716,,
+debaab4e-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoxanthium,,,Fourr.,,,,"Ann. Soc. Linn. Lyon , sér. 2, 17: 110 (1869)",,,,,,urn:lsid:ipni.org:names:7392-1,wfo-4000000166,6063882,,
+2574da78-8fb9-11eb-924d-9cd76263cbd0,species,ambrosioides,Acanthoxanthium,,"(Hook. & Arn.) D.Löve",0,1975,,"Lagascalia 5(1): 66 (1975)",,,,87293b6a-8fb9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:173729-1,wfo-0000115815,3089141,,
+d5e7a3e8-8fb6-11eb-924d-9cd76263cbd0,species,spinosum,Acanthoxanthium,,Fourr.,0,1869,,"Ann. Soc. Linn. Lyon , sér. 2, 17: 110 (1869)",,,,,,urn:lsid:ipni.org:names:173730-1,wfo-0000093675,3089152,,
+5752a0d6-8fb7-11eb-924d-9cd76263cbd0,subspecies,catharticum,Acanthoxanthium,spinosum,"(Kunth) D.Löve",0,1975,,"Lagascalia 5(1): 64 (1975)",,,,425c095c-8fb6-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:876348-1,wfo-0000098798,4217716,,
+b739c8d0-1d47-11ec-82c2-f14daa6f2d93,subspecies,spinosum,Acanthoxanthium,spinosum,,,,,,,,,,,,wfo-0000054516,,,

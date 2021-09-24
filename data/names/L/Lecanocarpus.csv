@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5a3d372-8fd1-11eb-924d-9cd76263cbd0,genus,Lecanocarpus,,,Nees,Q76349,1824,,"Pl. Hort. Bonn. Icon. 4. 1824.",,,,,,6910-1,wfo-4000020824,7883324,,
-2ae24582-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Lecanocarpus,,Zucc.,Q77121,1829,,"Hort. Reg. Monac. 56 1829",,,,,,166051-1,wfo-0000358963,10925635,,
-da11bd08-8fd1-11eb-924d-9cd76263cbd0,species,aristatus,Lecanocarpus,,"(L.) Zucc.","Q1043,Q77121",1829,,"Hort. Monac. 56 1829",,,,e5d8a17e-8fcc-11eb-924d-9cd76263cbd0,,166051-1,wfo-0001295397,10668464,,
-ac77c472-8fcd-11eb-924d-9cd76263cbd0,species,cauliflorus,Lecanocarpus,,"(Link) Nees, T.Nees & Sinning","Q215466,Q76349,Q76348,Q6167473",1824,,"Pl. Hort. Bonn. Icon. 4 1824",,,,9afd0d2a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001035666,3756400,,
-2ae2d948-8fcc-11eb-924d-9cd76263cbd0,species,nepalensis,Lecanocarpus,,Nees,Q76349,1824,,"Pl. Hort. Bonn. Icon. 2: t. 2 1824",,,,,,166053-1,wfo-0000358968,3756395,,
+e5a3d372-8fd1-11eb-924d-9cd76263cbd0,genus,Lecanocarpus,,,Nees,0,1824,,"Pl. Hort. Bonn. Icon. 2: 4 (1824)",,,,,,urn:lsid:ipni.org:names:6910-1,wfo-4000020824,7883324,,
+2ae24582-8fcc-11eb-924d-9cd76263cbd0,species,aristata,Lecanocarpus,,"(L.) Zucc.",0,1829,,"Hort. Reg. Monac. : 56 (1829)",,,,,,urn:lsid:ipni.org:names:166051-1,wfo-0000358963,10925635,,
+da11bd08-8fd1-11eb-924d-9cd76263cbd0,species,aristatus,Lecanocarpus,,"(L.) Zucc.",0,1829,,"Hort. Reg. Monac. : 56 (1829)",,,,e5d8a17e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:166051-1,wfo-0001295397,10668464,,
+ac77c472-8fcd-11eb-924d-9cd76263cbd0,species,cauliflorus,Lecanocarpus,,"(Link) Nees",0,1824,,"Pl. Hort. Bonn. Icon. 2: 5 (1824)",,,,9afd0d2a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:166052-1,wfo-0001035666,3756400,,
+2ae2d948-8fcc-11eb-924d-9cd76263cbd0,species,nepalensis,Lecanocarpus,,Nees,0,1824,,"Pl. Hort. Bonn. Icon. 2: t. 2 (1824)",,,,,,urn:lsid:ipni.org:names:166053-1,wfo-0000358968,3756395,,

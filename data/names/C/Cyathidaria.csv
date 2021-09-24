@@ -1,4 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e24fd252-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathidaria,,,,,,,,,,,,,,wfo-4000010183,7314676,,
-3b3a3832-8fb7-11eb-924d-9cd76263cbd0,species,taraxacifolium,Cyathidium,,Lindl.,Q378629,,,251,,,,,,,wfo-0000097696,5404217,,
-7f19e1d6-8fb4-11eb-924d-9cd76263cbd0,species,taraxacifolium,Cyathidium,,"Lindl. ex Royle","Q378629,Q713874",1835,,"Illustrations of the Botany ... of the Himalayan Mountains ... 1: 251 1835",,,,,,,wfo-0000065927,8011476,,
+e24fd252-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathidaria,,,,,,,,,,,,,urn:lsid:ipni.org:names:30233643-2,wfo-4000010183,7314676,,
+4a567ace-8fbc-11eb-924d-9cd76263cbd0,species,acunae,Cyathidaria,,"Caluff & Shelton",0,2002,,"Willdenowia 32(2): 282 (2002)",,Q55789743,,,,urn:lsid:ipni.org:names:325683-2,wfo-0000140182,,,
+4a5f7426-8fbc-11eb-924d-9cd76263cbd0,species,elliottii,Cyathidaria,,"(Baker) Caluff & Shelton",0,2002,,"Willdenowia 32(2): 283 (2002)",,Q55789743,,,,urn:lsid:ipni.org:names:1108357-2,wfo-0000140183,,,
+4a6879ae-8fbc-11eb-924d-9cd76263cbd0,species,hombersleyi,Cyathidaria,,"(Maxon) Caluff & Shelton",0,2002,,"Willdenowia 32(2): 283 (2002)",,Q55789743,,,,urn:lsid:ipni.org:names:1196038-2,wfo-0000140184,,,
+4a719778-8fbc-11eb-924d-9cd76263cbd0,species,sessilifolia,Cyathidaria,,"(Jenman) Caluff & Shelton",0,2002,,"Willdenowia 32(2): 283 (2002)",,Q55789743,,,,urn:lsid:ipni.org:names:1082048-2,wfo-0000140185,,,
+4a7abff6-8fbc-11eb-924d-9cd76263cbd0,species,wilsonii,Cyathidaria,,"(Hook.) Caluff & Shelton",0,2002,,"Willdenowia 33(2): 282 (2002)",,Q55789838,,,,urn:lsid:ipni.org:names:1105178-2,wfo-0000140186,,,
+3b3a3832-8fb7-11eb-924d-9cd76263cbd0,species,taraxacifolium,Cyathidium,,Lindl.,0,,,251,,,,,,,wfo-0000097696,5404217,,
+7f19e1d6-8fb4-11eb-924d-9cd76263cbd0,species,taraxacifolium,Cyathidium,,"Lindl. ex Royle",0,1835,,"Ill. Bot. Himal. Mts. [Royle] 7: t. 56, f. 2. 1835 [Apr 1835] ; addit. publ.: pt. 8: 251. Dec 1835",,,,,,,wfo-0000065927,8011476,,

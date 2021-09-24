@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1703af2-8fd1-11eb-924d-9cd76263cbd0,genus,Cercostylos,,,,,,,,,,,,,,wfo-4000007407,7338341,,
-4cd746f2-8fb2-11eb-924d-9cd76263cbd0,species,brasiliensis,Cercostylos,,"(Less.) Less.",Q76352,1832,,1832,,,,,,192160-1,wfo-0000019597,4244688,,
-50871226-8fb4-11eb-924d-9cd76263cbd0,species,scabiosoides,Cercostylos,,"Arn. ex DC.","Q730292,Q123057",1838,,"293 1838",,,,,,192161-1,wfo-0000063184,3095190,,
-31b0dbc4-8fb5-11eb-924d-9cd76263cbd0,species,sesamoides,Cercostylos,,Steud.,Q62821,1840,,"333 1840",,,,,,192162-1,wfo-0000075060,4244679,,
+e1703af2-8fd1-11eb-924d-9cd76263cbd0,genus,Cercostylos,,,Less.,,,,"Syn. Gen. Compos. : 239 (1832)",,,,,,urn:lsid:ipni.org:names:8180-1,wfo-4000007407,7338341,,
+4cd746f2-8fb2-11eb-924d-9cd76263cbd0,species,brasiliensis,Cercostylos,,Less.,0,1832,,"Syn. Gen. Compos. : 240 (1832)",,,,,,urn:lsid:ipni.org:names:192160-1,wfo-0000019597,4244688,,
+50871226-8fb4-11eb-924d-9cd76263cbd0,species,scabiosoides,Cercostylos,,"Arn. ex DC.",0,1838,,"Prodr. 7(1): 293 (1838)",,,,,,urn:lsid:ipni.org:names:192161-1,wfo-0000063184,3095190,,
+31b0dbc4-8fb5-11eb-924d-9cd76263cbd0,species,sesamoides,Cercostylos,,Steud.,0,1840,,"Nomencl. Bot. 1: 333, sphalm. (1840)",,,,,,urn:lsid:ipni.org:names:192162-1,wfo-0000075060,4244679,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3888f10-8fd1-11eb-924d-9cd76263cbd0,genus,Euchlora,,,"Eckl. & Zeyh.","Q643765,Q86271",,,,,,,,,22399-1,wfo-4000014110,2977700,,
-355e0062-8fc9-11eb-924d-9cd76263cbd0,species,hirsuta,Euchlora,,"(Thunb.) Druce","Q39658,Q601969",,,,,,,,,,wfo-0000211847,5349413,,
-3550c118-8fc9-11eb-924d-9cd76263cbd0,species,serpens,Euchlora,,"(E.Mey.) Eckl. & Zeyh.","Q62969,Q643765,Q86271",,,,,,,354312a2-8fc9-11eb-924d-9cd76263cbd0,,,wfo-0000211846,5349414,,
-461a45e2-8fb4-11eb-924d-9cd76263cbd0,species,nudifolia,Euchloris,,D.Don,Q1174244,1826,,1826,,,,,,205308-1,wfo-0000062565,5399917,,
+e3888f10-8fd1-11eb-924d-9cd76263cbd0,genus,Euchlora,,,"Eckl. & Zeyh.",0,,,"Enum. Pl. Afric. Austral. : 171 (1836)",,,,,,urn:lsid:ipni.org:names:22399-1,wfo-4000014110,2977700,,
+355e0062-8fc9-11eb-924d-9cd76263cbd0,species,hirsuta,Euchlora,,"(Thunb.) Druce",0,,,"Rep. Bot. Soc. Exch. Club Brit. Isles 4: 622 (1916 publ. 1917)",,,,,,urn:lsid:ipni.org:names:494670-1,wfo-0000211847,5349413,,
+3550c118-8fc9-11eb-924d-9cd76263cbd0,species,serpens,Euchlora,,"(E.Mey.) Eckl. & Zeyh.",0,,,"Enum. Pl. Afric. Austral. : 171 (1836)",,,,354312a2-8fc9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:494671-1,wfo-0000211846,5349414,,
+461a45e2-8fb4-11eb-924d-9cd76263cbd0,species,nudifolia,Euchloris,,D.Don,0,1826,,"Mem. Wern. Nat. Hist. Soc. v.  548 (1826)",,,,,,urn:lsid:ipni.org:names:205308-1,wfo-0000062565,5399917,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e86bef54-8fd1-11eb-924d-9cd76263cbd0,genus,Phygelius,,,"E.Mey. ex Benth.","Q62969,Q731808",1836,,"Companion Bot. Mag. 2: 53. 1836. (1 Sept 1836)",,,,,,37918-1,wfo-4000029367,6438670,,
-da0d79a4-8fcd-11eb-924d-9cd76263cbd0,species,aequalis,Phygelius,,"Harv. ex Hiern","Q1378128,Q3568881",,,,,,,,,,wfo-0001137450,3726736,,
-da0d939e-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Phygelius,,"E.Mey. ex Benth.","Q62969,Q731808",1836,,"Companion Bot. Mag. 2: 53 1836",,,,,,808375-1,wfo-0001137451,3727761,,
+e86bef54-8fd1-11eb-924d-9cd76263cbd0,genus,Phygelius,,,"E.Mey. ex Benth.",0,1836,,"Compan. Bot. Mag. 2: 53 (1836)",,,,,,urn:lsid:ipni.org:names:37918-1,wfo-4000029367,6438670,,
+da0d79a4-8fcd-11eb-924d-9cd76263cbd0,species,aequalis,Phygelius,,"Harv. ex Hiern",0,,,"Fl. Cap. 4(2): 213 (1904)",,,,,,urn:lsid:ipni.org:names:808374-1,wfo-0001137450,3726736,,
+da0d939e-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Phygelius,,"E.Mey. ex Benth.",0,1836,,"Compan. Bot. Mag. 2: 53 (1836)",,,,,,urn:lsid:ipni.org:names:808375-1,wfo-0001137451,3727761,,

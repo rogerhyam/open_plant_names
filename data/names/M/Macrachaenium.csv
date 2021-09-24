@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e63571b0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrachaenium,,,Hook.f.,Q157501,,,,,,,,,9914-1,wfo-4000022659,3086889,,
-dfcb5faa-8fb9-11eb-924d-9cd76263cbd0,species,foliosum,Macrachaenium,,"Albov ex Albov",Q724538,1896,,1896,,,,,,,wfo-0000122114,4236026,,
-5bb7905c-8fb5-11eb-924d-9cd76263cbd0,species,gracile,Macrachaenium,,Hook.f.,Q157501,1847,,"Fl. Antarct. ii. 321. 1847",,,,,,,wfo-0000077108,3086890,,
+e63571b0-8fd1-11eb-924d-9cd76263cbd0,genus,Macrachaenium,,,Hook.f.,0,,,"Fl. Antarct. 2: 321 (1846)",,,,,,urn:lsid:ipni.org:names:9914-1,wfo-4000022659,3086889,,
+dfcb5faa-8fb9-11eb-924d-9cd76263cbd0,species,foliosum,Macrachaenium,,"Albov ex Albov & Kurtz",0,1896,,"Revista Mus. La Plata 7: 375 (1896)",,,,,,urn:lsid:ipni.org:names:231507-1,wfo-0000122114,4236026,,
+5bb7905c-8fb5-11eb-924d-9cd76263cbd0,species,gracile,Macrachaenium,,Hook.f.,0,1847,,"Fl. Antarct. 2: 321 (1846)",,,,,,urn:lsid:ipni.org:names:231508-1,wfo-0000077108,3086890,,
+e4917760-1d47-11ec-82c2-f14daa6f2d93,variety,gracile,Macrachaenium,gracile,,,,,"Fl. Antarct. 2: 321 (1847)",,,,,,,wfo-0000111159,,,

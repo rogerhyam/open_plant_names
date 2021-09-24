@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ce34e4-8fd1-11eb-924d-9cd76263cbd0,genus,Dinoseris,,,,,,,,,,,,,,wfo-4000011806,3103589,,
-7f83ef80-8fba-11eb-924d-9cd76263cbd0,species,salicifolia,Dinoseris,,Griseb.,Q76351,1879,,"214 1879",,,,,,201495-1,wfo-0000127124,3103590,,
-32dfd7f4-8fb8-11eb-924d-9cd76263cbd0,variety,araneosa,Dinoseris,salicifolia,Kuntze,Q62853,1898,,"144 1898",,,,,,80469-2,wfo-0000107146,4235592,,
-d3891aa8-8fb8-11eb-924d-9cd76263cbd0,variety,normalis,Dinoseris,salicifolia,Kuntze,Q62853,1898,,"144 1898",,,,,,80470-2,wfo-0000112953,4235589,,
+e2ce34e4-8fd1-11eb-924d-9cd76263cbd0,genus,Dinoseris,,,Griseb.,,,,"Abh. Königl. Ges. Wiss. Göttingen 24: 213 (1879)",,,,,,urn:lsid:ipni.org:names:8617-1,wfo-4000011806,3103589,,
+7f83ef80-8fba-11eb-924d-9cd76263cbd0,species,salicifolia,Dinoseris,,Griseb.,0,1879,,"Abh. Königl. Ges. Wiss. Göttingen 24: 214 (1879)",,,,,,urn:lsid:ipni.org:names:201495-1,wfo-0000127124,3103590,,
+32dfd7f4-8fb8-11eb-924d-9cd76263cbd0,variety,araneosa,Dinoseris,salicifolia,Kuntze,0,1898,,"Revis. Gen. Pl. 3[3]: 144 (1898)",,,,,,urn:lsid:ipni.org:names:80469-2,wfo-0000107146,4235592,,
+d3891aa8-8fb8-11eb-924d-9cd76263cbd0,variety,normalis,Dinoseris,salicifolia,Kuntze,0,1898,,"Revis. Gen. Pl. 3[3]: 144 (1898)",,,,,,urn:lsid:ipni.org:names:80470-2,wfo-0000112953,4235589,,
+b866118c-1d47-11ec-82c2-f14daa6f2d93,variety,salicifolia,Dinoseris,salicifolia,,,,,,,,,,,,wfo-0000055981,,,

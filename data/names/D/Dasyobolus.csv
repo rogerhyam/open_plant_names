@@ -1,22 +1,24 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9c7619b6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dasyobolus,,,"(Sacc.) Sacc.",Q707840,1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,,,,,,1414," "
-cd0e97b6-9bac-11eb-a8a2-19ed5c03f8d3,species,barbatus,Dasyobolus,,"(Massee & Crossl.) Sacc.","Q4284198,Q707840",,,,,,,0a5dc2f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241111," "
-595b7ec4-9bac-11eb-a8a2-19ed5c03f8d3,species,brunneus,Dasyobolus,,"(Cooke) Sacc.","Q2351239,Q707840",1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,,,,,,144054," "
+9c7619b6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dasyobolus,,,"(Sacc.) Sacc.",0,1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,,,,,,1414," "
+cd0e97b6-9bac-11eb-a8a2-19ed5c03f8d3,species,barbatus,Dasyobolus,,"(Massee & Crossl.) Sacc.",0,,,,,,,0a5dc2f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241111," "
+595b7ec4-9bac-11eb-a8a2-19ed5c03f8d3,species,brunneus,Dasyobolus,,"(Cooke) Sacc.",0,1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,,,,,,144054," "
 0d12a62c-9bad-11eb-a8a2-19ed5c03f8d3,species,elegans,Dasyobolus,,"(J. Klein) Svrcek",,1979,,"Sb. nár. Mus. Praze 32B(2-4): 117 (1979)",,,,ceaaef84-9bac-11eb-a8a2-19ed5c03f8d3,,,,,312688," "
-5b33d7dc-9bac-11eb-a8a2-19ed5c03f8d3,species,immersus,Dasyobolus,,"(Pers.) Sacc.","Q346451,Q707840",1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,58dbef88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144230," "
-7bb9c1d4-9bab-11eb-a8a2-19ed5c03f8d3,variety,brevisporus,Dasyobolus,immersus,"(Oudem.) Sacc. & Traverso","Q205419,Q707840",,,,,,,,,,,,144016," "
-74301da4-9bac-11eb-a8a2-19ed5c03f8d3,variety,immersus,Dasyobolus,immersus,"(Pers.) Sacc.","Q346451,Q707840",1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,74301da4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,421522," "
-5b460fba-9bac-11eb-a8a2-19ed5c03f8d3,variety,macrosporus,Dasyobolus,immersus,"(P. Crouan & H. Crouan) Sacc.",Q707840,1910,,"Syll. fung. (Abellini) 19: 544 (1910)",,,,cac83066-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144360," "
+5b33d7dc-9bac-11eb-a8a2-19ed5c03f8d3,species,immersus,Dasyobolus,,"(Pers.) Sacc.",0,1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,58dbef88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144230," "
+7bb9c1d4-9bab-11eb-a8a2-19ed5c03f8d3,variety,brevisporus,Dasyobolus,immersus,"(Oudem.) Sacc. & Traverso",0,,,,,,,,,,,,144016," "
+74301da4-9bac-11eb-a8a2-19ed5c03f8d3,variety,immersus,Dasyobolus,immersus,"(Pers.) Sacc.",0,1895,,"Syll. fung. (Abellini) 11: 421 (1895)",,,,74301da4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,421522," "
+5b460fba-9bac-11eb-a8a2-19ed5c03f8d3,variety,macrosporus,Dasyobolus,immersus,"(P. Crouan & H. Crouan) Sacc.",0,1910,,"Syll. fung. (Abellini) 19: 544 (1910)",,,,cac83066-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144360," "
 1b58cdec-9bad-11eb-a8a2-19ed5c03f8d3,species,insignis,Dasyobolus,,"(P. Crouan & H. Crouan) Le Gal",,,,,,,,cfa0fba4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,329654," "
-a601968c-9bac-11eb-a8a2-19ed5c03f8d3,species,porphyrosporus,Dasyobolus,,"(Hedw.) Sacc.","Q64256,Q707840",,,,,,,9c0df47c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144148," "
-5209f100-9bac-11eb-a8a2-19ed5c03f8d3,species,serbicus,Dasyobolus,,"(Henn.) Sacc. & D. Sacc.","Q4497246,Q707840",,,,,,,7a62c0cc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,234197," "
-2b6216f4-9bac-11eb-a8a2-19ed5c03f8d3,species,stictoideus,Dasyobolus,,"(Speg.) Svrcek",Q648013,1981,,"Ceská Mykol. 35(1): 23 (1981)",,,,6055e1c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,112262," "
-4ffd95be-8fcd-11eb-924d-9cd76263cbd0,species,argentina,Dasyochloa,,"(Kuntze) Caro","Q62853,Q10308875",1981,,"Dominguezia 2: 4 1981",,,,,,76825-2,wfo-0000862247,4146447,,
-4ffdb1d4-8fcd-11eb-924d-9cd76263cbd0,variety,aristiglumis,Dasyochloa,argentina,Caro,Q10308875,1981,,"Dominguezia 2: 4 1981",,,,,,76826-2,wfo-0000862248,4146461,,
-4ffdcd2c-8fcd-11eb-924d-9cd76263cbd0,variety,parodiana,Dasyochloa,argentina,"(E.A.Sánchez) Caro","Q5799661,Q10308875",1981,,"Dominguezia 2: 7 1981",,,,,,76827-2,wfo-0000862249,4146446,,
-4ffde8ac-8fcd-11eb-924d-9cd76263cbd0,species,avenacea,Dasyochloa,,"(Kunth) Steud.","Q77074,Q62821",1840,,"Nomencl. Bot. ed. 2, 1: 492 1840",,,,6913dd56-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000862250,4146429,,
-4ffe04f4-8fcd-11eb-924d-9cd76263cbd0,species,kurtziana,Dasyochloa,,"(Parodi) Caro","Q359462,Q10308875",1981,,"Dominguezia 2: 7 1981",,,,,,76828-2,wfo-0000862251,4146416,,
-4ffe1ee4-8fcd-11eb-924d-9cd76263cbd0,species,longiglumis,Dasyochloa,,"(Parodi) Caro","Q359462,Q10308875",1981,,"Dominguezia 2: 8 1981",,,,69004b9c-8fcd-11eb-924d-9cd76263cbd0,,76830-2,wfo-0000862252,4146381,,
-4ffe396a-8fcd-11eb-924d-9cd76263cbd0,variety,cabrerae,Dasyochloa,longiglumis,Caro,Q10308875,1981,,"Dominguezia 2: 13 1981",,,,,,76829-2,wfo-0000862253,4146380,,
-4ffe5332-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Dasyochloa,,"(Kunth) Willd. ex Rydb.","Q77074,Q76353,Q1905130",1906,,"Fl. Colorado 18 1906",,,,,,1012942-2,wfo-0000862254,8415375,,
-4ffe6f20-8fcd-11eb-924d-9cd76263cbd0,species,pygmaea,Dasyochloa,,"(Hack.) Caro","Q2209907,Q10308875",1981,,"Dominguezia 2: 8 1981",,,,69148030-8fcd-11eb-924d-9cd76263cbd0,,76831-2,wfo-0000862255,4146346,,
+a601968c-9bac-11eb-a8a2-19ed5c03f8d3,species,porphyrosporus,Dasyobolus,,"(Hedw.) Sacc.",0,,,,,,,9c0df47c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,144148," "
+5209f100-9bac-11eb-a8a2-19ed5c03f8d3,species,serbicus,Dasyobolus,,"(Henn.) Sacc. & D. Sacc.",0,,,,,,,7a62c0cc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,234197," "
+2b6216f4-9bac-11eb-a8a2-19ed5c03f8d3,species,stictoideus,Dasyobolus,,"(Speg.) Svrcek",0,1981,,"Ceská Mykol. 35(1): 23 (1981)",,,,6055e1c4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,112262," "
+4ffd95be-8fcd-11eb-924d-9cd76263cbd0,species,argentina,Dasyochloa,,"(Kuntze) Caro",0,1981,,"Dominguezia 2: 4 (1981)",,,,,,urn:lsid:ipni.org:names:76825-2,wfo-0000862247,4146447,,
+bd89d568-1d4c-11ec-82c2-f14daa6f2d93,variety,argentina,Dasyochloa,argentina,,,,,,,,,,,,wfo-0001099013,,,
+4ffdb1d4-8fcd-11eb-924d-9cd76263cbd0,variety,aristiglumis,Dasyochloa,argentina,Caro,0,1981,,"Dominguezia 2: 4 (1981)",,,,,,urn:lsid:ipni.org:names:76826-2,wfo-0000862248,4146461,,
+4ffdcd2c-8fcd-11eb-924d-9cd76263cbd0,variety,parodiana,Dasyochloa,argentina,"(E.A.Sánchez) Caro",0,1981,,"Dominguezia 2: 7 (1981)",,,,,,urn:lsid:ipni.org:names:76827-2,wfo-0000862249,4146446,,
+4ffde8ac-8fcd-11eb-924d-9cd76263cbd0,species,avenacea,Dasyochloa,,"(Kunth) Willd. ex Steud.",0,1840,,"Nomencl. Bot. , ed. 2, 1: 492 (1840)",,,,6913dd56-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1049449-2,wfo-0000862250,4146429,,
+4ffe04f4-8fcd-11eb-924d-9cd76263cbd0,species,kurtziana,Dasyochloa,,"(Parodi) Caro",0,1981,,"Dominguezia 2: 7 (1981)",,,,,,urn:lsid:ipni.org:names:76828-2,wfo-0000862251,4146416,,
+4ffe1ee4-8fcd-11eb-924d-9cd76263cbd0,species,longiglumis,Dasyochloa,,"(Parodi) Caro",0,1981,,"Dominguezia 2: 8 (1981)",,,,69004b9c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:76830-2,wfo-0000862252,4146381,,
+4ffe396a-8fcd-11eb-924d-9cd76263cbd0,variety,cabrerae,Dasyochloa,longiglumis,Caro,0,1981,,"Dominguezia 2: 13 (1981)",,,,,,urn:lsid:ipni.org:names:76829-2,wfo-0000862253,4146380,,
+bd89ada4-1d4c-11ec-82c2-f14daa6f2d93,variety,longiglumis,Dasyochloa,longiglumis,,,,,,,,,,,,wfo-0001099012,,,
+4ffe5332-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Dasyochloa,,"(Kunth) Willd. ex Rydb.",0,1906,,"Fl. Colorado : 18 (1906)",,,,,,urn:lsid:ipni.org:names:1012942-2,wfo-0000862254,8415375,,
+4ffe6f20-8fcd-11eb-924d-9cd76263cbd0,species,pygmaea,Dasyochloa,,"(Hack.) Caro",0,1981,,"Dominguezia 2: 8 (1981)",,,,69148030-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:76831-2,wfo-0000862255,4146346,,

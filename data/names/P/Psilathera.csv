@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e93a4d5e-8fd1-11eb-924d-9cd76263cbd0,genus,Psilathera,,,Link,Q215466,1827,,"Hort. Berol. 1: 121. 1827.",,,,,,18845-1,wfo-4000031773,4150181,,
-5f8c3e40-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Psilathera,,"(Hoppe) Deyl","Q66205,Q6016606",1946,,"Opera Bot. Cech. 3: 223 1946",,,,,,418914-1,wfo-0000895100,4150187,,
-5f8c5dda-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Psilathera,,"(Host) Link","Q4500277,Q215466",1827,,"Hort. Berol. 1: 122 1827",,,,,,418915-1,wfo-0000895101,4150180,,
+e93a4d5e-8fd1-11eb-924d-9cd76263cbd0,genus,Psilathera,,,Link,0,1827,,"Hort. Berol. 1: 121 (1827)",,,,,,urn:lsid:ipni.org:names:18845-1,wfo-4000031773,4150181,,
+5f8c3e40-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Psilathera,,"(Hoppe) Deyl",0,1946,,"Opera Bot. Cech. 3: 223 (1946)",,,,,,urn:lsid:ipni.org:names:418914-1,wfo-0000895100,4150187,,
+5f8c5dda-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Psilathera,,Link,0,1827,,"Hort. Berol. 1: 122 (1827)",,,,,,urn:lsid:ipni.org:names:418915-1,wfo-0000895101,4150180,,

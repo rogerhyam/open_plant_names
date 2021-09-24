@@ -1,17 +1,17 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-0b2aed0c-9bac-11eb-a8a2-19ed5c03f8d3,genus,Basifimbria,,,"Subram. & Lodha",Q21610001,1968,,"Curr. Sci. 37: 247 (1968)",,,,0b2aed0c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,7338," "
-18eb697a-9bad-11eb-a8a2-19ed5c03f8d3,species,aurea,Basifimbria,,"Subram. & Lodha",Q21610001,1968,,"Curr. Sci. 37: 247 (1968)",,,,18eb697a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,326937," "
+0b2aed0c-9bac-11eb-a8a2-19ed5c03f8d3,genus,Basifimbria,,,"Subram. & Lodha",0,1968,,"Curr. Sci. 37: 247 (1968)",,,,0b2aed0c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,7338," "
+18eb697a-9bad-11eb-a8a2-19ed5c03f8d3,species,aurea,Basifimbria,,"Subram. & Lodha",0,1968,,"Curr. Sci. 37: 247 (1968)",,,,18eb697a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,326937," "
 0a6d5ae8-9bad-11eb-a8a2-19ed5c03f8d3,species,peruviana,Basifimbria,,"(Matsush.) de Hoog",,1977,,"in de Hoog & Hermanides-Nijhof, Stud. Mycol. 15: 211 (1977)",,,,14fd67fa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309462," "
 26b658a4-9bac-11eb-a8a2-19ed5c03f8d3,species,spinosa,Basifimbria,,"Buffin & Hennebert",,1985,,"Proc. Indian Acad. Sci., Pl. Sci. 94(2-3): 259 (1985)",,,,26b658a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,105086," "
-9792695e-9bad-11eb-a8a2-19ed5c03f8d3,species,subalutacea,Basifimbria,,"(Peck) Hol.-Jech.",Q1064899,1982,,"Mycotaxon 14(1): 141 (1982)",,,,9af8909c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110502," "
-25ece44c-9bac-11eb-a8a2-19ed5c03f8d3,species,succinea,Basifimbria,,"(Massee & E.S. Salmon) Seifert & W.B. Kendr.",Q4284198,1983,,"in Seifert, Kendrick & Murase, Univ. Waterloo Biol. Ser. 27: 23 (1983)",,,,9dacbba6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104042," succineum"
-04e8d012-9bac-11eb-a8a2-19ed5c03f8d3,species,succineum,Basifimbria,,"(Massee & E.S. Salmon) Seifert & W.B. Kendr.",Q4284198,,,,,,,9dacbba6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253125," Basifimbria succinea"
-ae84039e-8fd1-11eb-924d-9cd76263cbd0,species,muricata,Basigyne,,J.J.Sm.,Q770032,1917,,"Bull. Jard. Bot. Buitenzorg, sér. 2, 25: 5 1917",,,,,,,wfo-0001221828,7371965,,
-11e17dd2-8fcc-11eb-924d-9cd76263cbd0,species,muriculata,Basigyne,,J.J.Sm.,Q770032,1917,,"Bull. Jard. Bot. Buitenzorg II, 255: 5 1917",,,,,,617411-1,wfo-0000318280,2818117,,
-20caad40-8fcd-11eb-924d-9cd76263cbd0,species,bifolia,Basilaea,,"(Jacq.) Mirb.","Q84497,Q765542",1804,,"Hist. Nat. Pl. 8: 339 1804",,,,23ad1a3e-8fcd-11eb-924d-9cd76263cbd0,,531706-1,wfo-0000761313,2770405,,
-20caf9e4-8fcd-11eb-924d-9cd76263cbd0,species,coronata,Basilaea,,Lam.,Q82122,1785,,"Encycl. 1: 382 1785",,,,,,531707-1,wfo-0000761314,2775138,,
-20cb2e96-8fcd-11eb-924d-9cd76263cbd0,species,nana,Basilaea,,"(Burm.f.) Mirb.","Q716978,Q765542",1804,,"Hist. Nat. Pl. 8: 339 1804",,,,,,531708-1,wfo-0000761315,2775131,,
-20cb5c7c-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Basilaea,,"(L'Hér.) Mirb.","Q465834,Q765542",1804,,"Hist. Nat. Pl. 8: 339 1804",,,,23ae873e-8fcd-11eb-924d-9cd76263cbd0,,531709-1,wfo-0000761316,2775148,,
-20cb7cb6-8fcd-11eb-924d-9cd76263cbd0,species,regia,Basilaea,,"(L.) Mirb.","Q1043,Q765542",1804,,"Hist. Nat. Pl. 8: 338 1804",,,,,,531710-1,wfo-0000761317,2775139,,
-20cb98a4-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Basilaea,,"(Aiton) Mirb.","Q465898,Q765542",1804,,"Hist. Nat. Pl. 8: 338 1804",,,,,,531711-1,wfo-0000761318,2775122,,
-ae8d6c9a-8fcc-11eb-924d-9cd76263cbd0,species,friderici-augustii,Basileophyta,,F.Muell.,Q708002,1853,,"First Gen. Report Govt. Bot. 16 1853",,,,,,378060-1,wfo-0000561045,,,
+9792695e-9bad-11eb-a8a2-19ed5c03f8d3,species,subalutacea,Basifimbria,,"(Peck) Hol.-Jech.",0,1982,,"Mycotaxon 14(1): 141 (1982)",,,,9af8909c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110502," "
+25ece44c-9bac-11eb-a8a2-19ed5c03f8d3,species,succinea,Basifimbria,,"(Massee & E.S. Salmon) Seifert & W.B. Kendr.",0,1983,,"in Seifert, Kendrick & Murase, Univ. Waterloo Biol. Ser. 27: 23 (1983)",,,,9dacbba6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,104042," succineum"
+04e8d012-9bac-11eb-a8a2-19ed5c03f8d3,species,succineum,Basifimbria,,"(Massee & E.S. Salmon) Seifert & W.B. Kendr.",0,,,,,,,9dacbba6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253125," Basifimbria succinea"
+ae84039e-8fd1-11eb-924d-9cd76263cbd0,species,muricata,Basigyne,,J.J.Sm.,0,1917,,"Bull. Jard. Bot. Buitenzorg, sér. 2, 25: 5 1917",,,,,,,wfo-0001221828,7371965,,
+11e17dd2-8fcc-11eb-924d-9cd76263cbd0,species,muriculata,Basigyne,,J.J.Sm.,0,1917,,"Bull. Jard. Bot. Buitenzorg , sér. 2, 25: 5 (1917)",,,,,,urn:lsid:ipni.org:names:617411-1,wfo-0000318280,2818117,,
+20caad40-8fcd-11eb-924d-9cd76263cbd0,species,bifolia,Basilaea,,"(Jacq.) Mirb.",0,1804,,"Hist. Nat. Pl. 8: 339 (1804)",,,,23ad1a3e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:531706-1,wfo-0000761313,2770405,,
+20caf9e4-8fcd-11eb-924d-9cd76263cbd0,species,coronata,Basilaea,,Lam.,0,1785,,"Encycl. 1: 382 (1785)",,,,,,urn:lsid:ipni.org:names:531707-1,wfo-0000761314,2775138,,
+20cb2e96-8fcd-11eb-924d-9cd76263cbd0,species,nana,Basilaea,,"(Burm.f.) Mirb.",0,1804,,"Hist. Nat. Pl. 8: 339 (1804)",,,,,,urn:lsid:ipni.org:names:531708-1,wfo-0000761315,2775131,,
+20cb5c7c-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Basilaea,,Mirb.,0,1804,,"Hist. Nat. Pl. 8: 339 (1804)",,,,23ae873e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:531709-1,wfo-0000761316,2775148,,
+20cb7cb6-8fcd-11eb-924d-9cd76263cbd0,species,regia,Basilaea,,"(L.) Mirb.",0,1804,,"Hist. Nat. Pl. 8: 338 (1804)",,,,,,urn:lsid:ipni.org:names:531710-1,wfo-0000761317,2775139,,
+20cb98a4-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Basilaea,,"(Aiton) Mirb.",0,1804,,"Hist. Nat. Pl. 8: 338 (1804)",,,,,,urn:lsid:ipni.org:names:531711-1,wfo-0000761318,2775122,,
+ae8d6c9a-8fcc-11eb-924d-9cd76263cbd0,species,friderici-augustii,Basileophyta,,F.Muell.,0,1853,,"First Gen. Report Govt. Bot. : 16 (1853)",,,,,,urn:lsid:ipni.org:names:378060-1,wfo-0000561045,,,

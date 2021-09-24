@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e94f5d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Pterota,,,,,,,,,,,,,,wfo-4000032042,3232982,,
-786eb1fa-8fcc-11eb-924d-9cd76263cbd0,species,fagara,Pterota,,"(L.) Crantz","Q1043,Q112261",1766,,"Inst. Rei Herb. 2: 417 1766",,,,630b129a-8fcc-11eb-924d-9cd76263cbd0,,774978-1,wfo-0000471319,5593967,,
-786ed50e-8fcc-11eb-924d-9cd76263cbd0,species,piperita,Pterota,,Crantz,Q112261,1766,,"Inst. Rei Herb. 2: 418 1766",,,,,,774979-1,wfo-0000471320,5593961,,
-b7c42416-8fd1-11eb-924d-9cd76263cbd0,species,tragodes,Pterota,,"(L.) Crantz","Q1043,Q112261",1766,,"Inst. Rei Herb. 2: 417 1766",,,,b7c408fa-8fd1-11eb-924d-9cd76263cbd0,,774980-1,wfo-0001238861,5593958,,
-ff5c196a-8fcb-11eb-924d-9cd76263cbd0,species,inconspicua,Pterotaberna,,"(Stapf) Stapf",Q78630,1902,,"Fl. Trop. Afr. 4(1): 126 1902",,,,13169a3e-8fcc-11eb-924d-9cd76263cbd0,,81448-1,wfo-0000288632,3619187,,
+e94f5d3e-8fd1-11eb-924d-9cd76263cbd0,genus,Pterota,,,,,,,,,,,,,urn:lsid:ipni.org:names:20155-1,wfo-4000032042,3232982,,
+786eb1fa-8fcc-11eb-924d-9cd76263cbd0,species,fagara,Pterota,,Crantz,0,1766,,"Inst. Rei Herb. 2: 417 (1766)",,,,630b129a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:774978-1,wfo-0000471319,5593967,,
+786ed50e-8fcc-11eb-924d-9cd76263cbd0,species,piperita,Pterota,,Crantz,0,1766,,"Inst. Rei Herb. 2: 418 (1766)",,,,,,urn:lsid:ipni.org:names:774979-1,wfo-0000471320,5593961,,
+b7c42416-8fd1-11eb-924d-9cd76263cbd0,species,tragodes,Pterota,,Crantz,0,1766,,"Inst. Rei Herb. 2: 417 (1766)",,,,b7c408fa-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:774980-1,wfo-0001238861,5593958,,
+ff5c196a-8fcb-11eb-924d-9cd76263cbd0,species,inconspicua,Pterotaberna,,Stapf,0,1902,,"Fl. Trop. Afr. 4(1): 126 (1902)",,,,13169a3e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:81448-1,wfo-0000288632,3619187,,
+4c11c782-1d4d-11ec-82c2-f14daa6f2d93,species,centennii,Pterothamnus,,"(M.J.Cannon) V.Mayer & Ehrend.",,,,"Taxon 62(1): 124. 2013 [20 Feb 2013]",,,,,,urn:lsid:ipni.org:names:77125837-1,wfo-0001335199,,,

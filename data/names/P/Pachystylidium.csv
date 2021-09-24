@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7dd2d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Pachystylidium,,,"Pax & K.Hoffm.","Q64244,Q2601446",1919,,"Pflanzenr. IV. 147 IX(Hetf 68): 108. 1919.",,,,,,15742-1,wfo-4000027717,3070761,,
-ee84c40c-8fcb-11eb-924d-9cd76263cbd0,species,hirsutum,Pachystylidium,,"(Blume) Pax & K.Hoffm.","Q76816,Q64244,Q2601446",1919,,"Pflanzenr. IV, 147, IX: 108 1919",,,,ca1402ac-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000262237,3070762,,
-ee84df3c-8fcb-11eb-924d-9cd76263cbd0,variety,irritans,Pachystylidium,hirsutum,"Pax & K.Hoffm.","Q64244,Q2601446",1919,,"Pflanzenr. IV, 147, IX: 108 1919",,,,,,,wfo-0000262238,3070764,,
-ad5c0006-8fcd-11eb-924d-9cd76263cbd0,species,glabrum,Pachystylum,,"Eckl. & Zeyh.","Q643765,Q86271",1834,,"Enum. Pl. Afr. Austral. 13, No. 100. 1834",,,,,,,wfo-0001037696,5374430,,
+e7dd2d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Pachystylidium,,,"Pax & K.Hoffm.",0,1919,,"Pflanzenr. , IV, 147, IX: 108 (1919)",,,,,,urn:lsid:ipni.org:names:15742-1,wfo-4000027717,3070761,,
+ee84c40c-8fcb-11eb-924d-9cd76263cbd0,species,hirsutum,Pachystylidium,,"Pax & K.Hoffm.",0,1919,,"Pflanzenr. , IV, 147, IX: 108 (1919)",,,,ca1402ac-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:353216-1,wfo-0000262237,3070762,,
+ee84df3c-8fcb-11eb-924d-9cd76263cbd0,variety,irritans,Pachystylidium,hirsutum,"Pax & K.Hoffm.",0,1919,,"Pflanzenr. IV, 147, IX: 108 1919",,,,,,,wfo-0000262238,3070764,,
+ad5c0006-8fcd-11eb-924d-9cd76263cbd0,species,glabrum,Pachystylum,,"Eckl. & Zeyh.",0,1834,,"Enum. Pl. Afric. Austral. : 13 (1835)",,,,,,urn:lsid:ipni.org:names:287928-1,wfo-0001037696,5374430,,

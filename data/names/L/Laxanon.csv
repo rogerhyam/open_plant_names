@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5a1064c-8fd1-11eb-924d-9cd76263cbd0,genus,Laxanon,,,,,,,,,,,,,,wfo-4000020791,7339022,,
-df852d0a-8fb9-11eb-924d-9cd76263cbd0,species,diversifolium,Laxanon,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) ii. 46 (1836).",,,,,,,wfo-0000122105,4255400,,
-941c949c-8fb5-11eb-924d-9cd76263cbd0,species,heterophylum,Laxanon,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) iv. 106 (1836).",,,,,,,wfo-0000079725,4255395,,
-8d3fa8c2-8fb4-11eb-924d-9cd76263cbd0,species,parviflorum,Laxanon,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) ii. 16 (1836).",,,,,,,wfo-0000066706,4255390,,
-05497de4-8fcd-11eb-924d-9cd76263cbd0,species,laxiflorum,,,"Macarrón & Bañares","Q36594172,Q13377507",1990,,"Vieraea 18: 71 1990",,,,,,958225-1,wfo-0000708820,,,
+e5a1064c-8fd1-11eb-924d-9cd76263cbd0,genus,Laxanon,,,Raf.,,,,"New Fl. ii. 16 (1836)",,,,,,urn:lsid:ipni.org:names:9691-1,wfo-4000020791,7339022,,
+df852d0a-8fb9-11eb-924d-9cd76263cbd0,species,diversifolium,Laxanon,,Raf.,0,1836,,"New Fl. ii. 46 (1836).",,,,,,urn:lsid:ipni.org:names:229104-1,wfo-0000122105,4255400,,
+941c949c-8fb5-11eb-924d-9cd76263cbd0,species,heterophylum,Laxanon,,Raf.,0,1836,,"New Fl. iv. 106 (1836).",,,,,,urn:lsid:ipni.org:names:229105-1,wfo-0000079725,4255395,,
+8d3fa8c2-8fb4-11eb-924d-9cd76263cbd0,species,parviflorum,Laxanon,,Raf.,0,1836,,"New Fl. ii. 16 (1836).",,,,,,urn:lsid:ipni.org:names:229106-1,wfo-0000066706,4255390,,

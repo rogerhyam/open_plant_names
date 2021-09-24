@@ -1,11 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a27a3f04-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diomedella,,,Hertel,Q21339245,1984,,"Nova Hedwigia, Beih. 79: 445 (1984)",,,,a27a3f04-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25636," "
-2764f6c0-9bac-11eb-a8a2-19ed5c03f8d3,species,demersa,Diomedella,,"(Kremp.) Hertel",Q21339245,1984,,"Bryologist 87(3): 445 (1984)",,,,0025cfe4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,106061," "
-284089d8-9bac-11eb-a8a2-19ed5c03f8d3,species,disjungenda,Diomedella,,"(Cromb.) Hertel",Q21339245,1984,,"Beih. Nova Hedwigia 79: 446 (1984)",,,,8908371a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107486," "
-22e20538-8fcd-11eb-924d-9cd76263cbd0,species,macleayi,Diomedes,,"(Lindl.) Haw. ex Herb.","Q378629,Q373119,Q954928",1847,,"J. Hort. Soc. London 2: 23 1847",,,,fe793acc-8fcc-11eb-924d-9cd76263cbd0,,64281-1,wfo-0000765361,2858372,,
-22e2220c-8fcd-11eb-924d-9cd76263cbd0,species,major,Diomedes,,"(Curtis) Haw.","Q460867,Q373119",1823,,"Philos. Mag. J. 62: 441 1823",,,,,,64282-1,wfo-0000765362,2858397,,
-22e23e4a-8fcd-11eb-924d-9cd76263cbd0,species,minor,Diomedes,,"(L.) Haw.","Q1043,Q373119",1823,,"Philos. Mag. J. 62: 440 1823",,,,,,64283-1,wfo-0000765363,2858422,,
-22e25ab0-8fcd-11eb-924d-9cd76263cbd0,species,parkinsonii,Diomedes,,Haw.,Q373119,1831,,"Monogr. Narcissin. 5 1831",,,,,,64284-1,wfo-0000765364,2858373,,
-22e274d2-8fcd-11eb-924d-9cd76263cbd0,species,sabinii,Diomedes,,"(Lindl.) Haw. ex Herb.","Q378629,Q373119,Q954928",1847,,"J. Hort. Soc. London 2: 23 1847",,,,,,64285-1,wfo-0000765365,2859285,,
-e29da5f4-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Diomma,,Steyerm.,Q250148,1952,,"Fieldiana, Bot. 28: 272 1952",,,,,,80642-2,wfo-0000648028,5592958,,
-e29dc0ac-8fcc-11eb-924d-9cd76263cbd0,species,ulei,Diomma,,"Engl. ex Harms","Q60718,Q62415",1931,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 282 1931",,,,,,,wfo-0000648029,7552647,,
+a27a3f04-9bad-11eb-a8a2-19ed5c03f8d3,genus,Diomedella,,,Hertel,0,1984,,"Nova Hedwigia, Beih. 79: 445 (1984)",,,,a27a3f04-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25636," "
+2764f6c0-9bac-11eb-a8a2-19ed5c03f8d3,species,demersa,Diomedella,,"(Kremp.) Hertel",0,1984,,"Bryologist 87(3): 445 (1984)",,,,0025cfe4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,106061," "
+284089d8-9bac-11eb-a8a2-19ed5c03f8d3,species,disjungenda,Diomedella,,"(Cromb.) Hertel",0,1984,,"Beih. Nova Hedwigia 79: 446 (1984)",,,,8908371a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,107486," "
+22e20538-8fcd-11eb-924d-9cd76263cbd0,species,macleayi,Diomedes,,"Haw. ex Herb.",0,1847,,"J. Hort. Soc. London 2: 23 (1847)",,,,fe793acc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:64281-1,wfo-0000765361,2858372,,
+22e2220c-8fcd-11eb-924d-9cd76263cbd0,species,major,Diomedes,,Haw.,0,1823,,"Philos. Mag. J. 62: 441 (1823)",,,,,,urn:lsid:ipni.org:names:64282-1,wfo-0000765362,2858397,,
+22e23e4a-8fcd-11eb-924d-9cd76263cbd0,species,minor,Diomedes,,Haw.,0,1823,,"Philos. Mag. J. 62: 440 (1823)",,,,,,urn:lsid:ipni.org:names:64283-1,wfo-0000765363,2858422,,
+22e25ab0-8fcd-11eb-924d-9cd76263cbd0,species,parkinsonii,Diomedes,,Haw.,0,1831,,"Monogr. Narciss. : 5 (1831)",,,,,,urn:lsid:ipni.org:names:64284-1,wfo-0000765364,2858373,,
+22e274d2-8fcd-11eb-924d-9cd76263cbd0,species,sabini,Diomedes,,"Haw. ex Herb.",0,1847,,"J. Hort. Soc. London 2: 23 (1847)",,,,,,urn:lsid:ipni.org:names:64285-1,wfo-0000765365,2859285,,
+e29da5f4-8fcc-11eb-924d-9cd76263cbd0,species,fruticosa,Diomma,,Steyerm.,0,1952,,"Fieldiana, Bot. 28: 272 (1952)",,,,,,urn:lsid:ipni.org:names:80642-2,wfo-0000648028,5592958,,
+e29dc0ac-8fcc-11eb-924d-9cd76263cbd0,species,ulei,Diomma,,"Engl. ex Ule",0,1931,,"Nat. Pflanzenfam., ed. 2 [Engler & Prantl] 19a: 460. 1931 [Jan-Sep 1931] [also published in Notizbl. Bot. Gart. Berlin, 11: 282, fig. 7. 10 Nov 1931]",,,,,,urn:lsid:ipni.org:names:813704-1,wfo-0000648029,7552647,,
+bf96a060-8fd1-11eb-924d-9cd76263cbd0,species,pectinatum,Dion,,Mast.,0,1893,,"Gard. Chron. ser. 3, 13: 718, fig. 1893",,,,,,urn:lsid:ipni.org:names:275894-2,wfo-0001253258,7692631,,

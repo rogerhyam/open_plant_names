@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e865c1a6-8fd1-11eb-924d-9cd76263cbd0,genus,Phoebanthus,,,S.F.Blake,Q2332170,,,,,,,,,295352-2,wfo-4000029290,3098661,,
-118f5c78-8fb3-11eb-924d-9cd76263cbd0,species,grandiflorus,Phoebanthus,,"(Torr. & A.Gray) S.F.Blake","Q1346660,Q347356,Q2332170",1916,,"520 1916",,,,,,193724-2,wfo-0000040880,,,
-33158416-8fb4-11eb-924d-9cd76263cbd0,species,tenuifolius,Phoebanthus,,"(Torr. & A.Gray) S.F.Blake","Q1346660,Q347356,Q2332170",1916,,"520 1916",,,,22be5fa2-8fc3-11eb-924d-9cd76263cbd0,,193725-2,wfo-0000061424,,,
-660d1160-8fcb-11eb-924d-9cd76263cbd0,species,phoebe,,,O'Brien,Q4340887,1892,,"Gard. Chron. 1892(1): 791 1892",,,,,,639784-1,wfo-0000222227,3034093,,
+e865c1a6-8fd1-11eb-924d-9cd76263cbd0,genus,Phoebanthus,,,S.F.Blake,0,,,"Proc. Amer. Acad. Arts 51: 520 (1916)",,,,,,urn:lsid:ipni.org:names:295352-2,wfo-4000029290,3098661,,
+118f5c78-8fb3-11eb-924d-9cd76263cbd0,species,grandiflorus,Phoebanthus,,S.F.Blake,0,1916,,"Proc. Amer. Acad. Arts 51: 520 (1916)",,,,,,urn:lsid:ipni.org:names:193724-2,wfo-0000040880,,,
+33158416-8fb4-11eb-924d-9cd76263cbd0,species,tenuifolius,Phoebanthus,,S.F.Blake,0,1916,,"Proc. Amer. Acad. Arts 51: 520 (1916)",,,,22be5fa2-8fc3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:193725-2,wfo-0000061424,,,

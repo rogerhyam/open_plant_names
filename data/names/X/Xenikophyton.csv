@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec21a09e-8fd1-11eb-924d-9cd76263cbd0,genus,Xenikophyton,,,Garay,Q2937426,1974,,"Bot. Mus. Leafl. 23: 374. 1974.",,,,,,,wfo-4000040913,2798522,,
-cbbf88a2-8fcc-11eb-924d-9cd76263cbd0,species,seidenfadenianum,Xenikophyton,,"M.Kumar, Sequiera & J.J.Wood","Q21339825,Q21339898,Q5929085",2002,,"Kew Bull. 57: 227 2002",,Q55780459,,,,20005868-1,wfo-0000608301,2798523,,
-1be3d550-8fcc-11eb-924d-9cd76263cbd0,species,smeeanum,Xenikophyton,,"(Rchb.f.) Garay","Q62820,Q2937426",1974,,"Bot. Mus. Leafl. 23: 375 1974",,,,062a99c4-8fcc-11eb-924d-9cd76263cbd0,,661433-1,wfo-0000334961,2798524,,
-1ec09870-8fb9-11eb-924d-9cd76263cbd0,species,acanthosperma,Xenismia,,DC.,Q123057,1836,,"Prodr. (DC.) 5: 509 1836",,,,,,260951-1,wfo-0000115581,3093601,,
+ec21a09e-8fd1-11eb-924d-9cd76263cbd0,genus,Xenikophyton,,,Garay,0,1974,,"Bot. Mus. Leafl. 23: 374 (1974)",,,,,,urn:lsid:ipni.org:names:30939-1,wfo-4000040913,2798522,,
+cbbf88a2-8fcc-11eb-924d-9cd76263cbd0,species,seidenfadenianum,Xenikophyton,,"M.Kumar, Sequiera & J.J.Wood",0,2002,,"Kew Bull. 57: 227 (2002)",,Q55780459,,,,urn:lsid:ipni.org:names:20005868-1,wfo-0000608301,2798523,,
+1be3d550-8fcc-11eb-924d-9cd76263cbd0,species,smeeanum,Xenikophyton,,"(Rchb.f.) Garay",0,1974,,"Bot. Mus. Leafl. 23: 375 (1974)",,,,062a99c4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:661433-1,wfo-0000334961,2798524,,
+1ec09870-8fb9-11eb-924d-9cd76263cbd0,species,acanthosperma,Xenismia,,DC.,0,1836,,"Prodr. 5: 509 (1836)",,,,,,urn:lsid:ipni.org:names:260951-1,wfo-0000115581,3093601,,

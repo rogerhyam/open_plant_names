@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e241ece6-8fd1-11eb-924d-9cd76263cbd0,genus,Cubilia,,,Blume,Q76816,1849,,"Rumphia 3: 100. 1849.",,,,,,36346-1,wfo-4000009993,3233089,,
-d7c50bd6-8fcc-11eb-924d-9cd76263cbd0,species,blancoi,Cubilia,,Blume,Q76816,1847,,"Rumphia 3: 101 1847",,,,,,782342-1,wfo-0000628617,5577580,,
-d7c5295e-8fcc-11eb-924d-9cd76263cbd0,species,cubili,Cubilia,,"(Blanco) Adelb.","Q721827,Q8193378",1948,,"Blumea 6: 325 1948",,Q96029185,,f68ead6a-8fcc-11eb-924d-9cd76263cbd0,,782343-1,wfo-0000628618,5577576,,
-d7c54704-8fcc-11eb-924d-9cd76263cbd0,species,rumphii,Cubilia,,Blume,Q76816,1847,,"Rumphia 3: 101 1847",,,,,,782344-1,wfo-0000628619,5577573,,
-7c0faaa2-8fcd-11eb-924d-9cd76263cbd0,species,trimera,Cubincola,,Urb.,Q64845,1918,,"Ber. Deutsch. Bot. Ges. 36: 503 1918",,Q102247422,,,,72071-2,wfo-0000933432,3709352,,
+e241ece6-8fd1-11eb-924d-9cd76263cbd0,genus,Cubilia,,,Blume,0,1849,,"Rumphia 3: 100 (1847)",,,,,,urn:lsid:ipni.org:names:36346-1,wfo-4000009993,3233089,,
+d7c50bd6-8fcc-11eb-924d-9cd76263cbd0,species,blancoi,Cubilia,,Blume,0,1847,,"Rumphia 3: 101. 1849 [Jan 1849]",,,,,,urn:lsid:ipni.org:names:782342-1,wfo-0000628617,5577580,,
+d7c5295e-8fcc-11eb-924d-9cd76263cbd0,species,cubili,Cubilia,,"(Blanco) Adelb.",0,1948,,"Blumea 6: 325 (1948)",,Q96029185,,f68ead6a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:782343-1,wfo-0000628618,5577576,,
+d7c54704-8fcc-11eb-924d-9cd76263cbd0,species,rumphii,Cubilia,,Blume,0,1847,,"Rumphia 3: 101 (1847)",,,,,,urn:lsid:ipni.org:names:782344-1,wfo-0000628619,5577573,,
+7c0faaa2-8fcd-11eb-924d-9cd76263cbd0,species,trimera,Cubincola,,Urb.,0,1918,,"Ber. Deutsch. Bot. Ges. 36: 503 (1918)",,Q102247422,,,,urn:lsid:ipni.org:names:72071-2,wfo-0000933432,3709352,,

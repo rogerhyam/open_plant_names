@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df468362-8fd1-11eb-924d-9cd76263cbd0,genus,Amygdalopersica,,,L.L.Daniel,Q3265618,1915,,"Rev. Gén. Bot. 27: 33. 1915.",,,,,,,wfo-4000001768,3029775,,
-ac962e94-8fcd-11eb-924d-9cd76263cbd0,species,delponii,Amygdalopersica,,L.L.Daniel,Q3265618,1915,,"Rev. Gén. Bot. 27: 33 1915",,,,,,,wfo-0001035937,3029777,,
+df468362-8fd1-11eb-924d-9cd76263cbd0,genus,Amygdalopersica,,,Daniel,0,1915,,"Rev. Gén. Bot. 27: 33 (1915)",,,,,,urn:lsid:ipni.org:names:33644-1,wfo-4000001768,3029775,,
+ac962e94-8fcd-11eb-924d-9cd76263cbd0,species,delponi,Amygdalopersica,,Daniel,0,1915,,"Rev. Gén. Bot. 1915, xxvii. 34, hybr. artif. asex.",,,,,,urn:lsid:ipni.org:names:721296-1,wfo-0001035937,3029777,,
+4934ed78-1d4d-11ec-82c2-f14daa6f2d93,species,formonti,Amygdalopersica,,Daniel,,,,"Rev. Gén. Bot. 27: 33 (1915)",,,,,,urn:lsid:ipni.org:names:721297-1,wfo-0001331348,,,
+493514ba-1d4d-11ec-82c2-f14daa6f2d93,species,hybrida,Amygdalopersica,,"(Poit. & Turpin) Soó",,,,"Acta Bot. Acad. Sci. Hung. 9: 425 (1963)",,,,,,urn:lsid:ipni.org:names:721298-1,wfo-0001331349,,,

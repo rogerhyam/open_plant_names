@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f7280a-8fd1-11eb-924d-9cd76263cbd0,genus,Muricaria,,,Desv.,Q1354671,1815,,"J. Bot. Agric. 3: 159. 1815.",,,,,,12820-1,wfo-4000024995,3048021,,
-acfce580-8fcd-11eb-924d-9cd76263cbd0,species,battandieri,Muricaria,,Hochr.,Q4332701,1904,,"Annuaire Conserv. Jard. Bot. Genève 8: 154 1904",,,,,,,wfo-0001036837,3048023,,
-311195fc-8fcc-11eb-924d-9cd76263cbd0,species,corydylocarpa,Muricaria,,Müll.Berol.,,1868,,"Ann. Bot. Syst. 7: 177 1868",,,,,,287190-1,wfo-0000369065,8035813,,
-ad122ddc-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Muricaria,,"(Desf.) Desv.","Q545953,Q1354671",1815,,"J. Brasil. 3: 159 1815",,,,,,287191-1,wfo-0001037033,3048022,,
-e4cad532-8fcb-11eb-924d-9cd76263cbd0,species,dracontium,Muricauda,,"(L.) Small","Q1043,Q2590065",1903,,"Fl. S.E. U.S. 227 1903",,,,f8ce702a-8fcb-11eb-924d-9cd76263cbd0,,165047-2,wfo-0000246442,5330018,,
-3552f3ae-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Muricia,,Lour.,Q729917,1790,,"Fl. Cochinch. 596 1790",,,,,,293590-1,wfo-0000376104,3623856,,
+e6f7280a-8fd1-11eb-924d-9cd76263cbd0,genus,Muricaria,,,Desv.,0,1815,,"J. Bot. Agric. 3: 159 (1815)",,,,,,urn:lsid:ipni.org:names:12820-1,wfo-4000024995,3048021,,
+acfce580-8fcd-11eb-924d-9cd76263cbd0,species,battandieri,Muricaria,,Hochr.,0,1904,,"Annuaire Conserv. Jard. Bot. Genève 7-8: 154 (1904)",,,,,,urn:lsid:ipni.org:names:287189-1,wfo-0001036837,3048023,,
+311195fc-8fcc-11eb-924d-9cd76263cbd0,species,corydylocarpa,Muricaria,,Müll.Berol.,,1868,,"Ann. Bot. Syst. 7: 177 (1868)",,,,,,urn:lsid:ipni.org:names:287190-1,wfo-0000369065,8035813,,
+ad122ddc-8fcd-11eb-924d-9cd76263cbd0,species,prostrata,Muricaria,,Desv.,0,1815,,"J. Bot. Agric. 3: 159 (1815)",,,,,,urn:lsid:ipni.org:names:287191-1,wfo-0001037033,3048022,,
+e4cad532-8fcb-11eb-924d-9cd76263cbd0,species,dracontium,Muricauda,,Small,0,1903,,"Fl. S.E. U.S. : 227 (1903)",,,,f8ce702a-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:165047-2,wfo-0000246442,5330018,,
+3552f3ae-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Muricia,,Lour.,0,1790,,"Fl. Cochinch. : 596 (1790)",,,,,,urn:lsid:ipni.org:names:293590-1,wfo-0000376104,3623856,,

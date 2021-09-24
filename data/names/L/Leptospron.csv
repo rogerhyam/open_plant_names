@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5d15fae-8fd1-11eb-924d-9cd76263cbd0,genus,Leptospron,,,"(Benth. & Hook.f.) A.Delgado","Q731808,Q157501,Q5410113",,,,,Q34042540,,,,60457244-2,wfo-4000021355,7942633,,
-af88c76a-8fcd-11eb-924d-9cd76263cbd0,species,adenanthum,Leptospron,,"(G.Mey.) A.Delgado","Q3101308,Q5410113",,,"Amer. J. Bot. 98(10): 1710 2011",,Q34042540,,,,60457245-2,wfo-0001042683,7989033,,
-af88e3ee-8fcd-11eb-924d-9cd76263cbd0,species,gentryi,Leptospron,,"(Standl.) A.Delgado","Q1333160,Q5410113",,,"Amer. J. Bot. 98(10): 1710 2011",,Q34042540,,,,60457246-2,wfo-0001042684,8405041,,
+e5d15fae-8fd1-11eb-924d-9cd76263cbd0,genus,Leptospron,,,"(Benth. & Hook.f.) A.Delgado",0,,,"Amer. J. Bot. 98: 1709 (2011)",,Q34042540,,,,urn:lsid:ipni.org:names:60457244-2,wfo-4000021355,7942633,,
+af88c76a-8fcd-11eb-924d-9cd76263cbd0,species,adenanthum,Leptospron,,"(G.Mey.) A.Delgado",0,,,"Amer. J. Bot. 98: 1710 (2011)",,Q34042540,,,,urn:lsid:ipni.org:names:60457245-2,wfo-0001042683,7989033,,
+af88e3ee-8fcd-11eb-924d-9cd76263cbd0,species,gentryi,Leptospron,,"(Standl.) A.Delgado",0,,,"Amer. J. Bot. 98: 1710 (2011)",,Q34042540,,,,urn:lsid:ipni.org:names:60457246-2,wfo-0001042684,8405041,,
+d9f77f02-8fcb-11eb-924d-9cd76263cbd0,species,carolinensis,Leptostachia,,"(Walter) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 508. 1891 [5 Nov 1891]",,,,,,urn:lsid:ipni.org:names:863493-1,wfo-0000226824,10667705,,
+d9f79b4a-8fcb-11eb-924d-9cd76263cbd0,species,leptostachya,Leptostachia,,MacMill.,0,1893,,"Metasp. Minnesota Valley : 442 (1893)",,,,,,urn:lsid:ipni.org:names:863494-1,wfo-0000226825,7647877,,

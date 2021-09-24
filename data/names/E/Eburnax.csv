@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3236f90-8fd1-11eb-924d-9cd76263cbd0,genus,Eburnax,,,,,,,,,,,,,,wfo-4000012876,7302147,,
-e971d256-8fcc-11eb-924d-9cd76263cbd0,species,pudica,Eburnax,,"(L.) Raf.","Q1043,Q364857",1836,,"New Fl. 1: 42 1836",,,,5619388e-8fc0-11eb-924d-9cd76263cbd0,,493645-1,wfo-0000659213,3971663,,
-e971f3e4-8fcc-11eb-924d-9cd76263cbd0,species,spinalba,Eburnax,,Raf.,Q364857,1838,,"Sylva Tellur. 119 1838",,,,,,493646-1,wfo-0000659214,3971659,,
-e9722c6a-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Eburopetalum,,Becc.,Q361037,1871,,"Nuovo Giorn. Bot. Ital. 3: 181 1871",,,,,,72924-1,wfo-0000659216,3156874,,
-823a21dc-8fcd-11eb-924d-9cd76263cbd0,species,austiniae,Eburophyton,,"(A.Gray) A.Heller","Q347356,Q2373009",1904,,"Muhlenbergia 1: 49 1904",,,,,,630684-1,wfo-0000947265,2795916,,
+e3236f90-8fd1-11eb-924d-9cd76263cbd0,genus,Eburnax,,,Raf.,,,,"New Fl. 1: 42 (1836)",,,,,,urn:lsid:ipni.org:names:22330-1,wfo-4000012876,7302147,,
+e971d256-8fcc-11eb-924d-9cd76263cbd0,species,pudica,Eburnax,,"(L.) Raf.",0,1836,,"New Fl. 1: 42 (1836)",,,,5619388e-8fc0-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:493645-1,wfo-0000659213,3971663,,
+e971f3e4-8fcc-11eb-924d-9cd76263cbd0,species,spinalba,Eburnax,,Raf.,0,1838,,"Sylva Tellur. : 119 (1838)",,,,,,urn:lsid:ipni.org:names:493646-1,wfo-0000659214,3971659,,
+e9722c6a-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Eburopetalum,,Becc.,0,1871,,"Nuovo Giorn. Bot. Ital. 3: 181 (1871)",,,,,,urn:lsid:ipni.org:names:72924-1,wfo-0000659216,3156874,,

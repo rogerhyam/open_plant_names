@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9fd546ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Iotidea,,,Clem.,Q920184,1909,,"Gen. fung. (Minneapolis) 89, 175 (1909)",,,,9fd546ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2501," "
+9fd546ae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Iotidea,,,Clem.,0,1909,,"Gen. fung. (Minneapolis) 89, 175 (1909)",,,,9fd546ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2501," "
 7be04df8-9bac-11eb-a8a2-19ed5c03f8d3,species,pleurota,Iotidea,,"W. Phillips",,1909,,"Gen. Fung. (Minneapolis) 89, 175 (1909)",,,,7be04df8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,167495," "
-461a9754-8fcd-11eb-924d-9cd76263cbd0,species,iowense,,,R.W.Pohl,Q6108722,1966,,"Brittonia 18: 255 1966",,Q55768521,,,,288405-2,wfo-0000841045,,,
-461ff582-8fcd-11eb-924d-9cd76263cbd0,species,iowense,,,"(R.W.Pohl) Barkworth & D.R.Dewey","Q6108722,Q2918786,Q5813901",1985,,"Amer. J. Bot. 72: 772 1985",,Q55766277,,461a9754-8fcd-11eb-924d-9cd76263cbd0,,1003658-1,wfo-0000841086,,,
-b64174e0-8fd1-11eb-924d-9cd76263cbd0,species,mora,Ioxylon,,"(Griseb.) Kuntze","Q76351,Q62853",1898,,"Revis. Gen. Pl. 3: 294 1898",,,,c21baafa-8fcd-11eb-924d-9cd76263cbd0,,129083-2,wfo-0001235999,3764715,,
-12e23c48-8fcd-11eb-924d-9cd76263cbd0,species,pomiferum,Ioxylon,,Raf.,Q364857,1817,,"Amer. Monthly Mag. & Crit. Rev. 2: 118 1817",,,,,,129084-2,wfo-0000732069,2984582,,
-12e2553e-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrimum,Ioxylon,pomiferum,Kuntze,Q62853,1898,,"Revis. Gen. Pl. 3(2): 294 1898",,,,,,129085-2,wfo-0000732070,3764689,,
+b64174e0-8fd1-11eb-924d-9cd76263cbd0,species,mora,Ioxylon,,"(Griseb.) Kuntze",0,1898,,"Revis. Gen. Pl. 3(2): 294 (1898)",,,,c21baafa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:129083-2,wfo-0001235999,3764715,,
+12e23c48-8fcd-11eb-924d-9cd76263cbd0,species,pomiferum,Ioxylon,,Raf.,0,1817,,"Amer. Monthly Mag. & Crit. Rev. 2: 118 (1817)",,,,,,urn:lsid:ipni.org:names:129084-2,wfo-0000732069,2984582,,
+12e2553e-8fcd-11eb-924d-9cd76263cbd0,variety,glaberrimum,Ioxylon,pomiferum,Kuntze,0,1898,,"Revis. Gen. Pl. 3(2): 294 (1898)",,,,,,urn:lsid:ipni.org:names:129085-2,wfo-0000732070,3764689,,

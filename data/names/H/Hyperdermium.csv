@@ -1,10 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a5b15fae-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hyperdermium,,,"J.F. White, R. Sullivan, Bills & Hywel-Jones",,2000,,"Mycologia 92(5): 910 (2000)",,,,a5b15fae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28464," "
-6a975086-9bad-11eb-a8a2-19ed5c03f8d3,species,bertonii,Hyperdermium,,"(Speg.) J.F. White, R.F. Sullivan, Bills & Hywel-Jones",Q648013,2000,invalid,"in Sullivan, Bills, Hywel-Jones & White, Mycologia 92(5): 910 (2000)",,,,7f62a3b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,467591,"Nom. inval., Art. 33.3 "
+6a975086-9bad-11eb-a8a2-19ed5c03f8d3,species,bertonii,Hyperdermium,,"(Speg.) J.F. White, R.F. Sullivan, Bills & Hywel-Jones",0,2000,invalid,"in Sullivan, Bills, Hywel-Jones & White, Mycologia 92(5): 910 (2000)",,,,7f62a3b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,467591,"Nom. inval., Art. 33.3 "
 6a977c3c-9bad-11eb-a8a2-19ed5c03f8d3,species,pulvinatum,Hyperdermium,,"J.F. White, R.F. Sullivan, Bills & Hywel-Jones",,2000,,"in Sullivan, Bills, Hywel-Jones & White, Mycologia 92(5): 912 (2000)",,,,6a977c3c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,467592," "
-104998c8-8fcd-11eb-924d-9cd76263cbd0,species,angustata,Hypericinea,,Wall.,Q730310,,,"Numer. List 4830 1831",,,,,,435597-1,wfo-0000727270,3672261,,
-1049bd80-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Hypericinea,,Wall.,Q730310,,,"Numer. List 4832 1831",,,,,,435598-1,wfo-0000727271,3682048,,
-1049ded2-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Hypericinea,,Wall.,Q730310,,,"Numer. List 4827 1831",,,,,,435599-1,wfo-0000727272,3685315,,
-1049fe8a-8fcd-11eb-924d-9cd76263cbd0,species,pedunculosa,Hypericinea,,Wall.,Q730310,,,"Numer. List 4826 1831",,,,,,435602-1,wfo-0000727275,3700064,,
-b921fd56-8fd1-11eb-924d-9cd76263cbd0,species,crux-andreae,Hypericoides,,"(L.) Poir.","Q1043,Q966539",1823,,"Tabl. Encycl. 3: 201 1823",,,,a80d8f6c-8fcc-11eb-924d-9cd76263cbd0,,433138-1,wfo-0001241336,3711532,,
-104a4052-8fcd-11eb-924d-9cd76263cbd0,species,perforata,Hypericoides,,Poir.,Q966539,1823,,"Tabl. Encycl. 3: 201 1823",,,,,,433139-1,wfo-0000727278,3711522,,
+104998c8-8fcd-11eb-924d-9cd76263cbd0,species,angustata,Hypericinea,,Wall.,0,,,"Numer. List [Wallich] n. 4830. 1831",,,,,,urn:lsid:ipni.org:names:435597-1,wfo-0000727270,3672261,,
+1049bd80-8fcd-11eb-924d-9cd76263cbd0,species,dentata,Hypericinea,,Wall.,0,,,"Numer. List [Wallich] n. 4832. 1831",,,,,,urn:lsid:ipni.org:names:435598-1,wfo-0000727271,3682048,,
+1049ded2-8fcd-11eb-924d-9cd76263cbd0,species,lucida,Hypericinea,,Wall.,0,,,"Numer. List [Wallich] n. 4827. 1831",,,,,,urn:lsid:ipni.org:names:435599-1,wfo-0000727272,3685315,,
+1049fe8a-8fcd-11eb-924d-9cd76263cbd0,species,pedunculosa,Hypericinea,,Wall.,0,,,"Numer. List [Wallich] n. 4826. 1831",,,,,,urn:lsid:ipni.org:names:435602-1,wfo-0000727275,3700064,,

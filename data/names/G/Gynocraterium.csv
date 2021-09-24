@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e44c57d8-8fd1-11eb-924d-9cd76263cbd0,genus,Gynocraterium,,,Bremek.,Q5171231,1939,,"Bull. Misc. Inform. Kew 1939: 557. 1939.",,,,,,,wfo-4000016581,7263480,,
-08849c14-8fcd-11eb-924d-9cd76263cbd0,species,guianense,Gynocraterium,,Bremek.,Q5171231,1939,,"Bull. Misc. Inform. Kew 1939: 557 1940",,Q55785924,,,,115900-2,wfo-0000713266,3771947,,
-24e062e4-8fcd-11eb-924d-9cd76263cbd0,species,cernuum,Gynodon,,"(Roth) Raf.","Q64246,Q364857",1837,,"Fl. Tellur. 2: 18 1837",,,,1e36a516-8fcd-11eb-924d-9cd76263cbd0,,535964-1,wfo-0000769298,2857536,,
-24e07da6-8fcd-11eb-924d-9cd76263cbd0,species,elliotii,Gynodon,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 18 1837",,,,,,535965-1,wfo-0000769299,2857540,,
-24e09b6a-8fcd-11eb-924d-9cd76263cbd0,species,rupestre,Gynodon,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 18 1837",,,,,,,wfo-0000769300,4071740,,
+e44c57d8-8fd1-11eb-924d-9cd76263cbd0,genus,Gynocraterium,,,"Bremek. in Sandwith",0,1939,,"Bull. Misc. Inform. Kew 1939: 577 (1940)",,,,,,urn:lsid:ipni.org:names:298248-2,wfo-4000016581,7263480,,
+08849c14-8fcd-11eb-924d-9cd76263cbd0,species,guianense,Gynocraterium,,"Bremek. in Sandwith",0,1939,,"Bull. Misc. Inform. Kew 1939: 557 (1940)",,Q55785924,,,,urn:lsid:ipni.org:names:115900-2,wfo-0000713266,3771947,,
+24e062e4-8fcd-11eb-924d-9cd76263cbd0,species,cernuus,Gynodon,,"(Roth) Raf.",0,1837,,"Fl. Tellur. 2: 18 (1837)",,,,1e36a516-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:535964-1,wfo-0000769298,2857536,,
+24e07da6-8fcd-11eb-924d-9cd76263cbd0,species,elliotii,Gynodon,,Raf.,0,1837,,"Fl. Tellur. 2: 18 (1837)",,,,,,urn:lsid:ipni.org:names:535965-1,wfo-0000769299,2857540,,
+24e09b6a-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Gynodon,,Raf.,0,1837,,"Fl. Tellur. 2: 18. 1837 [1836 publ. Jan-Mar 1837]",,,,,,urn:lsid:ipni.org:names:535966-1,wfo-0000769300,4071740,,

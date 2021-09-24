@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea486f28-8fd1-11eb-924d-9cd76263cbd0,genus,Senkenbergia,,,S.Schauer,Q21337900,1847,,"Linnaea 19: 711. 1847. (Apr 1847)",,,,,,,wfo-4000035075,8373151,,
-8ce49afa-8fcc-11eb-924d-9cd76263cbd0,species,annulata,Senkenbergia,,S.Schauer,Q21337900,1847,,"Linnaea 19: 711 1847",,,,,,605149-1,wfo-0000505941,3701243,,
-bb331d1e-8fd1-11eb-924d-9cd76263cbd0,species,coulteri,Senkenbergia,,Hook.f.,Q157501,1880,,"Gen. Pl. 3(1): 6 1880",,,,,,234385-2,wfo-0001245162,3086279,,
-b6fa9bc8-8fd1-11eb-924d-9cd76263cbd0,species,crassifolia,Senkenbergia,,Standl.,Q1333160,1909,,"Contr. U.S. Natl. Herb. 12(8): 373 1909",,Q95371655,,,,234386-2,wfo-0001237382,3701211,,
-8cb80e86-8fcc-11eb-924d-9cd76263cbd0,species,erecta,Senkenbergia,,Hook.f.,Q157501,1880,,"Gen. Pl. 3: 6 1880",,,,,,605152-1,wfo-0000505634,3701204,,
-bc5bdf14-8fd1-11eb-924d-9cd76263cbd0,species,gypsophiloides,Senkenbergia,,"(M.Martens & Galeotti) Benth. & Hook.f.","Q2292953,Q2517097,Q731808,Q157501",1880,,"Gen. Pl. 3(1): 5 1880",,,,b6122ae6-8fd1-11eb-924d-9cd76263cbd0,,1163947-2,wfo-0001247306,3701189,,
+ea486f28-8fd1-11eb-924d-9cd76263cbd0,genus,Senkenbergia,,,Schauer,0,1847,,"Linnaea 19: 711 (1847)",,,,,,urn:lsid:ipni.org:names:326874-2,wfo-4000035075,8373151,,
+8ce49afa-8fcc-11eb-924d-9cd76263cbd0,species,annulata,Senkenbergia,,S.Schauer,0,1847,,"Linnaea 19: 711 (1847)",,,,,,urn:lsid:ipni.org:names:605149-1,wfo-0000505941,3701243,,
+bb331d1e-8fd1-11eb-924d-9cd76263cbd0,species,coulteri,Senkenbergia,,Hook.f.,0,1880,,"Gen. Pl. 3: 6 (1880)",,,,,,urn:lsid:ipni.org:names:234385-2,wfo-0001245162,3086279,,
+b6fa9bc8-8fd1-11eb-924d-9cd76263cbd0,species,crassifolia,Senkenbergia,,Standl.,0,1909,,"Contr. U.S. Natl. Herb. 12: 373 (1909)",,Q95371655,,,,urn:lsid:ipni.org:names:234386-2,wfo-0001237382,3701211,,
+8cb80e86-8fcc-11eb-924d-9cd76263cbd0,species,erecta,Senkenbergia,,"Benth. & Hook.f.",0,1880,,"Gen. Pl. 3: 6 (1880)",,,,,,urn:lsid:ipni.org:names:605152-1,wfo-0000505634,3701204,,
+bc5bdf14-8fd1-11eb-924d-9cd76263cbd0,species,gypsophiloides,Senkenbergia,,"(M.Martens & Galeotti) Benth. & Hook.f.",0,1880,,"Gen. Pl. [Bentham & Hooker f.] 3(1): 5. 1880 [7 Feb 1880]",,,,b6122ae6-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1163947-2,wfo-0001247306,3701189,,

@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6473080-8fd1-11eb-924d-9cd76263cbd0,genus,Maidenia,,,,,,,,,,,,,,wfo-4000022888,,,
-335425b4-8fcc-11eb-924d-9cd76263cbd0,species,acroptera,Maidenia,,Domin,Q1109649,1922,,"Acta Bot. Bohem. 1: 41 1922",,,,,,844829-1,wfo-0000372775,5538028,,
-3354e878-8fcc-11eb-924d-9cd76263cbd0,species,ceratocarpa,Maidenia,,Domin,Q1109649,1928,,"Biblioth. Bot. 89: 490 1928",,,,,,844832-1,wfo-0000372776,5538023,,
-24f3b614-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Maidenia,,Rendle,Q2615406,1916,,"J. Bot. 54: 316 1916",,,,,,431842-1,wfo-0000769457,5329249,,
-c99ff304-8fd1-11eb-924d-9cd76263cbd0,species,capricornis,Maierocactus,,"(A.Dietr.) E.C.Rost","Q67968,Q36549399",1925,,"Z. Sukkulentenk. 2(8): 142 1925",,,,ea00c6dc-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001271929,7626324,,
+e6473080-8fd1-11eb-924d-9cd76263cbd0,genus,Maidenia,,,Domin,,,,"Acta Bot. Bohem. 1922, i. 41.",,,,,,urn:lsid:ipni.org:names:40220-1,wfo-4000022888,,,
+335425b4-8fcc-11eb-924d-9cd76263cbd0,species,acroptera,Maidenia,,Domin,0,1922,,"Acta Bot. Bohem. 1922, i. 41.",,,,,,urn:lsid:ipni.org:names:844829-1,wfo-0000372775,5538028,,
+3354e878-8fcc-11eb-924d-9cd76263cbd0,species,ceratocarpa,Maidenia,,Domin,0,1928,,"Biblioth. Bot. lxxxix. 490 (1928).",,,,,,urn:lsid:ipni.org:names:844832-1,wfo-0000372776,5538023,,
+24f3b614-8fcd-11eb-924d-9cd76263cbd0,species,rubra,Maidenia,,Rendle,0,1916,,"J. Bot. 54: 316 (1916)",,,,,,urn:lsid:ipni.org:names:431842-1,wfo-0000769457,5329249,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e91e9636-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudocynometra,,,,,,,,,,,,,,wfo-4000031484,2965174,,
-1d581724-8fc8-11eb-924d-9cd76263cbd0,species,browneoides,Pseudocynometra,,"(Harms) Kuntze","Q62415,Q62853",,,,,,,1d3dd3dc-8fc8-11eb-924d-9cd76263cbd0,,,wfo-0000206186,2946151,,
-76b65e3a-8fcc-11eb-924d-9cd76263cbd0,species,hollrungii,Pseudocynometra,,Kuntze,Q62853,1903,,"Deutsche Bot. Monatsschr. 21: 173 1903",,,,,,515921-1,wfo-0000468465,3969763,,
-1e44ddfc-8fc8-11eb-924d-9cd76263cbd0,species,schefferi,Pseudocynometra,,"(K.Schum.) Kuntze","Q63545,Q62853",,,,,,,b623b2c4-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000206206,2946146,,
-8ad30b5c-8fcc-11eb-924d-9cd76263cbd0,species,scirpinus,Pseudocyperus,,Steud.,Q62821,1855,,"Syn. Pl. Glumac. 2: 108 1855",,,,,,,wfo-0000502603,2708052,,
+e91e9636-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudocynometra,,,Kuntze,,,,"Lex. Gen. Phan. : 464 (1903)",,,,,,urn:lsid:ipni.org:names:329917-2,wfo-4000031484,2965174,,
+1d581724-8fc8-11eb-924d-9cd76263cbd0,species,browneoides,Pseudocynometra,,"(Harms) Kuntze",0,,,"Deutsche Bot. Monatsschr. 21: 173 (1903)",,,,1d3dd3dc-8fc8-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:515920-1,wfo-0000206186,2946151,,
+76b65e3a-8fcc-11eb-924d-9cd76263cbd0,species,hollrungii,Pseudocynometra,,"(Harms) Kuntze",0,1903,,"Deutsche Bot. Monatsschr. 21: 173 (1903)",,,,,,urn:lsid:ipni.org:names:515921-1,wfo-0000468465,3969763,,
+1e44ddfc-8fc8-11eb-924d-9cd76263cbd0,species,schefferi,Pseudocynometra,,"(K.Schum.) Kuntze",0,,,"Deutsche Bot. Monatsschr. 21: 173 (1903)",,,,b623b2c4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:515922-1,wfo-0000206206,2946146,,
+8ad30b5c-8fcc-11eb-924d-9cd76263cbd0,species,scirpinus,Pseudocyperus,,Steud.,0,1855,,"Syn. Pl. Glumac. 2: 108 (1855)",,,,,,urn:lsid:ipni.org:names:311548-1,wfo-0000502603,2708052,,

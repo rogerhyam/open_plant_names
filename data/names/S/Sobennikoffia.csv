@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea7a8a26-8fd1-11eb-924d-9cd76263cbd0,genus,Sobennikoffia,,,Schltr.,Q62278,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 361. 1925.",,,,,,30687-1,wfo-4000035646,2797650,,
-0d7638e6-8fcc-11eb-924d-9cd76263cbd0,species,fournieriana,Sobennikoffia,,"(Kraenzl.) Schltr.","Q542327,Q62278",1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 362 1925",,,,,,657836-1,wfo-0000311424,2797656,,
-0d765da8-8fcc-11eb-924d-9cd76263cbd0,species,humbertiana,Sobennikoffia,,H.Perrier,Q2564623,1938,,"Notul. Syst. (Paris) 7: 134 1938",,,,,,657837-1,wfo-0000311425,2797651,,
-0d767a18-8fcc-11eb-924d-9cd76263cbd0,species,poissoniana,Sobennikoffia,,H.Perrier,Q2564623,1951,,"Notul. Syst. (Paris) 14: 164 1951",,,,,,657838-1,wfo-0000311426,2797655,,
-0d769958-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Sobennikoffia,,"(Schltr.) Schltr.",Q62278,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 362 1925",,,,,,657839-1,wfo-0000311427,2797652,,
-0d76d238-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Sobiso,,"(Thunb.) Raf.","Q39658,Q364857",1837,,"Fl. Tellur. 3: 94 1837",,,,,,459146-1,wfo-0000311429,3888188,,
+ea7a8a26-8fd1-11eb-924d-9cd76263cbd0,genus,Sobennikoffia,,,Schltr.,0,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 361 (1925)",,,,,,urn:lsid:ipni.org:names:30687-1,wfo-4000035646,2797650,,
+0d7638e6-8fcc-11eb-924d-9cd76263cbd0,species,fournieriana,Sobennikoffia,,Schltr.,0,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 362 (1925)",,,,,,urn:lsid:ipni.org:names:657836-1,wfo-0000311424,2797656,,
+0d765da8-8fcc-11eb-924d-9cd76263cbd0,species,humbertiana,Sobennikoffia,,H.Perrier,0,1938,,"Notul. Syst. (Paris) 7: 134 (1938)",,,,,,urn:lsid:ipni.org:names:657837-1,wfo-0000311425,2797651,,
+0d767a18-8fcc-11eb-924d-9cd76263cbd0,species,poissoniana,Sobennikoffia,,H.Perrier,0,1951,,"Notul. Syst. (Paris) 14: 164 (1951)",,,,,,urn:lsid:ipni.org:names:657838-1,wfo-0000311426,2797655,,
+0d769958-8fcc-11eb-924d-9cd76263cbd0,species,robusta,Sobennikoffia,,Schltr.,0,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 362 (1925)",,,,,,urn:lsid:ipni.org:names:657839-1,wfo-0000311427,2797652,,

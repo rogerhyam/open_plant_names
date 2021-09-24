@@ -1,3 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2527a2a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathostemon,,,Turcz.,Q2640364,1852,,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pe}tersbourg Ser. 2. 10: 331. 1852.",,,,,,27509-1,wfo-4000010216,8406290,,
-7c34e4d4-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolius,Cyathostemon,,Turcz.,Q2640364,1852,,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 10: 332 1852",,,,,,592417-1,wfo-0000933764,3186750,,
+e2527a2a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathostemon,,,Turcz.,0,1852,,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 10: 331 (1852)",,,,,,urn:lsid:ipni.org:names:27509-1,wfo-4000010216,8406290,,
+4bf7510e-1d4d-11ec-82c2-f14daa6f2d93,species,ambiguus,Cyathostemon,,"(F.Muell.) Rye & Trudgen",,,,"Nuytsia 22: 394 (2012)",,,,,,urn:lsid:ipni.org:names:77125551-1,wfo-0001335056,,,
+4bf7779c-1d4d-11ec-82c2-f14daa6f2d93,species,blackettii,Cyathostemon,,"(F.Muell.) Rye & Trudgen",,,,"Nuytsia 22: 395 (2012)",,,,,,urn:lsid:ipni.org:names:77125552-1,wfo-0001335057,,,
+5130eb80-1d4d-11ec-82c2-f14daa6f2d93,species,divaricatus,Cyathostemon,,"Trudgen & Rye",,,,"Nuytsia 24: 10 (2014)",,,,,,urn:lsid:ipni.org:names:77146025-1,wfo-0001341946,,,
+51310ef8-1d4d-11ec-82c2-f14daa6f2d93,species,gracilis,Cyathostemon,,"Trudgen & Rye",,,,"Nuytsia 24: 12 (2014)",,,,,,urn:lsid:ipni.org:names:77146027-1,wfo-0001341947,,,
+4bf79eb6-1d4d-11ec-82c2-f14daa6f2d93,species,heterantherus,Cyathostemon,,"(C.A.Gardner) Rye & Trudgen",,,,"Nuytsia 22: 395 (2012)",,,,,,urn:lsid:ipni.org:names:77125553-1,wfo-0001335058,,,
+7c34e4d4-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolius,Cyathostemon,,Turcz.,0,1852,,"Bull. Cl. Phys.-Math. Acad. Imp. Sci. Saint-Pétersbourg 10: 332 (1852)",,,,,,urn:lsid:ipni.org:names:592417-1,wfo-0000933764,3186750,,
+51313892-1d4d-11ec-82c2-f14daa6f2d93,species,verrucosus,Cyathostemon,,"Trudgen & Rye",,,,"Nuytsia 24: 14 (2014)",,,,,,urn:lsid:ipni.org:names:77146028-1,wfo-0001341948,,,

@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e363153c-8fd1-11eb-924d-9cd76263cbd0,genus,Erasanthe,,,"P.J.Cribb, Hermans & D.L.Roberts","Q2363654,Q5932858,Q18613758",2007,,"Adansonia, sér. 3, 29(1): 28. 2007.",,,,,,77080923-1,wfo-4000013675,2836070,,
-370e7938-8fcd-11eb-924d-9cd76263cbd0,species,henrici,Erasanthe,,"(Schltr.) P.J.Cribb, Hermans & D.L.Roberts","Q62278,Q2363654,Q5932858,Q18613758",2007,,"Adansonia III, 29: 28 2007",,,,,,77080924-1,wfo-0000808595,2836071,,
-370eb3c6-8fcd-11eb-924d-9cd76263cbd0,subspecies,isaloensis,Erasanthe,henrici,"P.J.Cribb, Hermans & D.L.Roberts","Q2363654,Q5932858,Q18613758",2007,,"Adansonia III, 29: 30 2007",,,,,,77080926-1,wfo-0000808597,2836072,,
-f015036c-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Erasmia,,Miq.,Q76742,1842,,"Verslagen Meded. Kon. Ned. Inst. Wetensch. 1842: 81 1843",,,,,,677719-1,wfo-0000670688,5686452,,
+e363153c-8fd1-11eb-924d-9cd76263cbd0,genus,Erasanthe,,,"P.J.Cribb, Hermans & D.L.Roberts",0,2007,,"Adansonia , sér. 3, 29: 28 (2007)",,,,,,urn:lsid:ipni.org:names:77080923-1,wfo-4000013675,2836070,,
+370e7938-8fcd-11eb-924d-9cd76263cbd0,species,henrici,Erasanthe,,"(Schltr.) P.J.Cribb, Hermans & D.L.Roberts",0,2007,,"Adansonia , sér. 3, 29: 28 (2007)",,,,,,urn:lsid:ipni.org:names:77080924-1,wfo-0000808595,2836071,,
+1293c756-1d4a-11ec-82c2-f14daa6f2d93,subspecies,henrici,Erasanthe,henrici,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77168818-1,wfo-0000807266,,,
+370eb3c6-8fcd-11eb-924d-9cd76263cbd0,subspecies,isaloensis,Erasanthe,henrici,"P.J.Cribb, Hermans & D.L.Roberts",0,2007,,"Adansonia , sér. 3, 29: 30 (2007)",,,,,,urn:lsid:ipni.org:names:77080926-1,wfo-0000808597,2836072,,
+f015036c-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Erasmia,,Miq.,0,1842,,"Verslagen Meded. Kon. Ned. Inst. Wetensch. 1842: 81 (1843)",,,,,,urn:lsid:ipni.org:names:677719-1,wfo-0000670688,5686452,,

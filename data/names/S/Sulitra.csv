@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaf4d966-8fd1-11eb-924d-9cd76263cbd0,genus,Sulitra,,,,,,,,,,,,,,wfo-4000037068,7302064,,
-8b19eeaa-8fcc-11eb-924d-9cd76263cbd0,species,africana,Sulitra,,Medik.,Q77464,1787,,"Vorles. Churpfälz. Phys.-Okon. Ges. 2: 366 1787",,,,,,519720-1,wfo-0000503067,3970852,,
-b65f1698-8fcd-11eb-924d-9cd76263cbd0,species,herbacea,Sulitra,,"(Scop.) Medik.","Q84181,Q77464",1789,,"Philos. Bot. 1: 202 1789",,,,,,519721-1,wfo-0001058154,3970849,,
-b65f339e-8fcd-11eb-924d-9cd76263cbd0,species,perennans,Sulitra,,Medik.,Q77464,1787,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 366 1787",,,,,,519722-1,wfo-0001058155,3970847,,
-8b1799de-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Sulitra,,Moench,Q60948,1794,,"Methodus 164 1794",,,,,,519723-1,wfo-0000503051,3970841,,
+eaf4d966-8fd1-11eb-924d-9cd76263cbd0,genus,Sulitra,,,Medik.,,,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 366 (1787)",,,,,,urn:lsid:ipni.org:names:23637-1,wfo-4000037068,7302064,,
+8b19eeaa-8fcc-11eb-924d-9cd76263cbd0,species,africana,Sulitra,,Medik.,0,1787,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 366 (1787)",,,,,,urn:lsid:ipni.org:names:519720-1,wfo-0000503067,3970852,,
+b65f1698-8fcd-11eb-924d-9cd76263cbd0,species,herbacea,Sulitra,,"(L.) Medik.",0,1789,,"Philos. Bot. 1: 202 (1789)",,,,,,urn:lsid:ipni.org:names:519721-1,wfo-0001058154,3970849,,
+b65f339e-8fcd-11eb-924d-9cd76263cbd0,species,perennans,Sulitra,,"(Jacq.) Medik.",0,1787,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 366 (1787)",,,,,,urn:lsid:ipni.org:names:519722-1,wfo-0001058155,3970847,,
+8b1799de-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Sulitra,,Moench,0,1794,,"Methodus : 164 (1794)",,,,,,urn:lsid:ipni.org:names:519723-1,wfo-0000503051,3970841,,

@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5145788-8fd1-11eb-924d-9cd76263cbd0,genus,Indomelothria,,,"W.J.de Wilde & Duyfjes","Q6167531,Q13415191",,,,,Q55791900,,,,77072243-1,wfo-4000019066,7317759,,
-1298c7b6-8fcd-11eb-924d-9cd76263cbd0,species,blumei,Indomelothria,,"(Ser.) W.J.de Wilde & Duyfjes","Q1385633,Q6167531,Q13415191",2006,,"Blumea 51: 6 2006",,Q55791900,,b60f59d8-8fcc-11eb-924d-9cd76263cbd0,,60442621-2,wfo-0000731578,3624400,,
-1298e412-8fcd-11eb-924d-9cd76263cbd0,species,chlorocarpa,Indomelothria,,"W.J.de Wilde & Duyfjes","Q6167531,Q13415191",2006,,"Blumea 51: 7 2006",,,,,,,wfo-0000731579,7317760,,
+e5145788-8fd1-11eb-924d-9cd76263cbd0,genus,Indomelothria,,,"W.J.de Wilde & Duyfjes",0,,,"Blumea 51: 5 (2006)",,Q55791900,,,,urn:lsid:ipni.org:names:77072243-1,wfo-4000019066,7317759,,
+1298c7b6-8fcd-11eb-924d-9cd76263cbd0,species,blumei,Indomelothria,,"(Ser.) W.J.de Wilde & Duyfjes",0,2006,,"Blumea 51: 6 (2006)",,Q55791900,,b60f59d8-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60442621-2,wfo-0000731578,3624400,,
+1298e412-8fcd-11eb-924d-9cd76263cbd0,species,chlorocarpa,Indomelothria,,"W.J.de Wilde & Duyfjes",0,2006,,"Blumea 51: 7 (2006)",,,,,,urn:lsid:ipni.org:names:77072345-1,wfo-0000731579,7317760,,
+5e62e10a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,halimunensis,Indomelothria,chlorocarpa,"W.J.de Wilde & Duyfjes",,,,"Blumea 51: 9 (2006)",,,,,,urn:lsid:ipni.org:names:60442622-2,wfo-0001360153,,,

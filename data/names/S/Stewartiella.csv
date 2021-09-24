@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ead2b8ea-8fd1-11eb-924d-9cd76263cbd0,genus,Stewartiella,,,Nasir,Q5850360,1972,,"Fl. W. Pakistan 20: 152. 1972.",,,,,,,wfo-4000036670,6027000,,
-ae1135d4-8fcd-11eb-924d-9cd76263cbd0,species,baluchistanica,Stewartiella,,Nasir,Q5850360,,,,,,,,,,wfo-0001039306,3637354,,
-5ffe7754-8fcc-11eb-924d-9cd76263cbd0,species,crucifolia,Stewartiella,,"(Gilli) Hedge & Lamond","Q8194912,Q4497058,Q21446934",1987,,"in Fl. Iran. 162: 213 1987",,,,f8f064ae-8fcc-11eb-924d-9cd76263cbd0,,944209-1,wfo-0000431269,3637346,,
+ead2b8ea-8fd1-11eb-924d-9cd76263cbd0,genus,Stewartiella,,,Nasir,0,1972,,"Fl. W. Pakistan 20: 152 (1972)",,,,,,urn:lsid:ipni.org:names:40569-1,wfo-4000036670,6027000,,
+ae1135d4-8fcd-11eb-924d-9cd76263cbd0,species,baluchistanica,Stewartiella,,Nasir,0,,,"Fl. W. Pakistan 20: 152 (1972)",,,,,,urn:lsid:ipni.org:names:849227-1,wfo-0001039306,3637354,,
+5ffe7754-8fcc-11eb-924d-9cd76263cbd0,species,crucifolia,Stewartiella,,"(Gilli) Hedge & Lamond",0,1987,,"Fl. Iranica 162: 213 (1987)",,,,f8f064ae-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:944209-1,wfo-0000431269,3637346,,

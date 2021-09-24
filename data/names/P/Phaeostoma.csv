@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8518c72-8fd1-11eb-924d-9cd76263cbd0,genus,Phaeostoma,,,Spach,Q274449,1835,,"Hist. Nat. Vég. 4: 392–394. 1835.",,,,e8518c72-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000029066,3231576,3957," "
-7b76ded6-8fcc-11eb-924d-9cd76263cbd0,species,atropurpureum,Phaeostoma,,A.Heller,Q2373009,1940,,"Leafl. W. Bot. 2: 220 1940",,,,,,192218-2,wfo-0000476567,5545151,,
-7b76fab0-8fcc-11eb-924d-9cd76263cbd0,species,douglasii,Phaeostoma,,Spach,Q274449,1835,,"Hist. Nat. Vég. 4: 393 1835",,,,,,614269-1,wfo-0000476568,5545150,,
-bb0a1ca2-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Phaeostoma,,"(Douglas) A.Nelson","Q669028,Q4316797",1911,,"Bot. Gaz. 52(4): 267 1911",,Q55758633,,cbe05028-8fcc-11eb-924d-9cd76263cbd0,,614271-1,wfo-0001244879,5545148,,
-fdacbb78-9bac-11eb-a8a2-19ed5c03f8d3,species,juniperinum,Phaeostoma,,"(Ellis & Everh.) Arx & E. Müll.",Q6206643,,,,,,,083cc7dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302775," "
-fdaceb52-9bac-11eb-a8a2-19ed5c03f8d3,species,lagenaria,Phaeostoma,,"(Pers.) Munk",Q346451,1957,,"Dansk bot. Ark. 17(no. 1): 82 (1957)",,,,14334584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302776," lagenarium"
-fd22137a-9bab-11eb-a8a2-19ed5c03f8d3,species,lagenarium,Phaeostoma,,"(Pers.) Munk",Q346451,,,,,,,14334584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275219," Phaeostoma lagenaria"
-b69d3ae6-8fd1-11eb-924d-9cd76263cbd0,species,mildrediae,Phaeostoma,,A.Heller,Q2373009,1940,,"Leafl. W. Bot. 2(13): 221 1940",,,,,,192219-2,wfo-0001236670,7712851,,
-b69d55a8-8fd1-11eb-924d-9cd76263cbd0,species,modestum,Phaeostoma,,"(Jeps.) A.Heller","Q324259,Q2373009",1940,,"Leafl. W. Bot. 2(13): 221 1940",,,,,,192220-2,wfo-0001236671,5545144,,
-bb0a3872-8fd1-11eb-924d-9cd76263cbd0,species,parviflora,Phaeostoma,,"(Eastw.) A.Nelson","Q460241,Q4316797",1911,,"Bot. Gaz. 52(4): 267 1911",,Q55758633,,cbe3d4fa-8fcc-11eb-924d-9cd76263cbd0,,192221-2,wfo-0001244880,5545142,,
-b965d508-8fd1-11eb-924d-9cd76263cbd0,species,rhomboidea,Phaeostoma,,"(Douglas ex Hook.) A.Nelson","Q669028,Q472639,Q4316797",1911,,"Bot. Gaz. 52(4): 267 1911",,Q55758633,,cbe4ed40-8fcc-11eb-924d-9cd76263cbd0,,614275-1,wfo-0001241763,5545139,,
-219f60a8-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaerophilum,Phaeostoma,,"(Peck) M.E. Barr",Q1064899,1962,,"in Bigelow & Barr, Rhodora 64: 134 (1962)",,,,85c6ec8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,336209," "
-fdad2324-9bac-11eb-a8a2-19ed5c03f8d3,species,vitis,Phaeostoma,,"(Fuckel) Arx",Q66899,1954,,"in Arx & Muller, Beitr. Kryptfl. Schweiz 11(no. 1): 148 (1954)",,,,,,,,,302777," "
-bb0a560e-8fd1-11eb-924d-9cd76263cbd0,species,xantiana,Phaeostoma,,"(A.Gray) A.Nelson","Q347356,Q4316797",1911,,"Bot. Gaz. 52(4): 267 1911",,Q55758633,,,,192223-2,wfo-0001244881,,,
+e8518c72-8fd1-11eb-924d-9cd76263cbd0,genus,Phaeostoma,,,Spach,0,1835,,"Hist. Nat. Vég. (Spach) 4: 392 (-393). 1835 [11 Apr 1835]",,,,e8518c72-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30065290-2,wfo-4000029066,3231576,3957," "
+7b76ded6-8fcc-11eb-924d-9cd76263cbd0,species,atropurpureum,Phaeostoma,,A.Heller,0,1940,,"Leafl. W. Bot. 2: 220 (1940)",,,,,,urn:lsid:ipni.org:names:192218-2,wfo-0000476567,5545151,,
+7b76fab0-8fcc-11eb-924d-9cd76263cbd0,species,douglasii,Phaeostoma,,Spach,0,1835,,"Hist. Nat. Vég. 4: 393 (1835)",,,,,,urn:lsid:ipni.org:names:614269-1,wfo-0000476568,5545150,,
+bb0a1ca2-8fd1-11eb-924d-9cd76263cbd0,species,elegans,Phaeostoma,,A.Nelson,0,1911,,"Bot. Gaz. 52: 267. 1911",,Q55758633,,cbe05028-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:614271-1,wfo-0001244879,5545148,,
+fdacbb78-9bac-11eb-a8a2-19ed5c03f8d3,species,juniperinum,Phaeostoma,,"(Ellis & Everh.) Arx & E. Müll.",0,,,,,,,083cc7dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302775," "
+fdaceb52-9bac-11eb-a8a2-19ed5c03f8d3,species,lagenaria,Phaeostoma,,"(Pers.) Munk",0,1957,,"Dansk bot. Ark. 17(no. 1): 82 (1957)",,,,14334584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302776," lagenarium"
+fd22137a-9bab-11eb-a8a2-19ed5c03f8d3,species,lagenarium,Phaeostoma,,"(Pers.) Munk",0,,,,,,,14334584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275219," Phaeostoma lagenaria"
+b69d3ae6-8fd1-11eb-924d-9cd76263cbd0,species,mildrediae,Phaeostoma,,A.Heller,0,1940,,"Leafl. W. Bot. 2: 221 (1940)",,,,,,urn:lsid:ipni.org:names:192219-2,wfo-0001236670,7712851,,
+b69d55a8-8fd1-11eb-924d-9cd76263cbd0,species,modestum,Phaeostoma,,"(Jeps.) A.Heller",0,1940,,"Leafl. W. Bot. 2: 221 (1940)",,,,,,urn:lsid:ipni.org:names:192220-2,wfo-0001236671,5545144,,
+bb0a3872-8fd1-11eb-924d-9cd76263cbd0,species,parviflora,Phaeostoma,,A.Nelson,0,1911,,"Bot. Gaz. 52: 267 (1911)",,Q55758633,,cbe3d4fa-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:192221-2,wfo-0001244880,5545142,,
+b965d508-8fd1-11eb-924d-9cd76263cbd0,species,rhomboidea,Phaeostoma,,A.Nelson,0,1911,,"Bot. Gaz. 52: 267. 1911",,Q55758633,,cbe4ed40-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:614275-1,wfo-0001241763,5545139,,
+219f60a8-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaerophilum,Phaeostoma,,"(Peck) M.E. Barr",0,1962,,"in Bigelow & Barr, Rhodora 64: 134 (1962)",,,,85c6ec8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,336209," "
+fdad2324-9bac-11eb-a8a2-19ed5c03f8d3,species,vitis,Phaeostoma,,"(Fuckel) Arx",0,1954,,"in Arx & Muller, Beitr. Kryptfl. Schweiz 11(no. 1): 148 (1954)",,,,,,,,,302777," "
+bb0a560e-8fd1-11eb-924d-9cd76263cbd0,species,xantiana,Phaeostoma,,"(A.Gray) A.Nelson",0,1911,,"Bot. Gaz. 52: 267 (1911)",,Q55758633,,,,urn:lsid:ipni.org:names:192223-2,wfo-0001244881,,,

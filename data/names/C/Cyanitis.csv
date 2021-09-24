@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e24c5582-8fd1-11eb-924d-9cd76263cbd0,genus,Cyanitis,,,"Reinw. ex Blume","Q63165,Q76816",1823,,"Catalogus 68. 1823.",,,,,,,wfo-4000010150,7318936,,
-d9219080-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Cyanitis,,"Hook.f. & Thomson","Q157501,Q2427703",1858,,"J. Proc. Linn. Soc., Bot. 2: 76 1858",,,,,,790747-1,wfo-0000630972,3645150,,
-d921adb8-8fcc-11eb-924d-9cd76263cbd0,species,sylvatica,Cyanitis,,"Reinw. ex Blume","Q63165,Q76816",1823,,"Catalogus 68 1823",,,,,,,wfo-0000630973,7560472,,
-d921cb68-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Cyanitis,,"Hook.f. & Thomson","Q157501,Q2427703",1858,,"J. Proc. Linn. Soc., Bot. 2: 76 1858",,,,,,790749-1,wfo-0000630974,3645129,,
+e24c5582-8fd1-11eb-924d-9cd76263cbd0,genus,Cyanitis,,,Reinw.,0,1823,,"Syll. Pl. Nov. : 68 (1825)",,,,,,urn:lsid:ipni.org:names:37001-1,wfo-4000010150,7318936,,
+d9219080-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Cyanitis,,"Hook.f. & Thomson",0,1858,,"J. Proc. Linn. Soc., Bot. 2: 76 (1857)",,,,,,urn:lsid:ipni.org:names:790747-1,wfo-0000630972,3645150,,
+d921adb8-8fcc-11eb-924d-9cd76263cbd0,species,sylvatica,Cyanitis,,Reinw.,0,1823,,"Cat. Gew. Buitenzorg (Blume) 68. 1823; Bijdr. 921.",,,,,,urn:lsid:ipni.org:names:790748-1,wfo-0000630973,7560472,,
+d921cb68-8fcc-11eb-924d-9cd76263cbd0,species,versicolor,Cyanitis,,"Hook.f. & Thomson",0,1858,,"J. Proc. Linn. Soc., Bot. 2: 76 (1857)",,,,,,urn:lsid:ipni.org:names:790749-1,wfo-0000630974,3645129,,

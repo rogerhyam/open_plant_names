@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e92db0ee-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoprospero,,,Speta,Q86532,,,,,,,,,1003495-1,wfo-4000031644,2774039,,
-0dfe9424-8fcd-11eb-924d-9cd76263cbd0,species,firmifolium,Pseudoprospero,,"(Baker) Speta","Q730330,Q86532",1998,,"Phyton (Horn) 38: 116 1998",,,,,,1003496-1,wfo-0000723079,2774040,,
+e92db0ee-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudoprospero,,,Speta,0,,,"Phyton (Horn) 38: 116 (1998)",,,,,,urn:lsid:ipni.org:names:1003495-1,wfo-4000031644,2774039,,
+0dfe9424-8fcd-11eb-924d-9cd76263cbd0,species,firmifolium,Pseudoprospero,,"(Baker) Speta",0,1998,,"Phyton (Horn) 38: 116 (1998)",,,,,,urn:lsid:ipni.org:names:1003496-1,wfo-0000723079,2774040,,
+681ded82-1d4a-11ec-82c2-f14daa6f2d93,subspecies,firmifolium,Pseudoprospero,firmifolium,"(Baker) Speta",,,,Unknown,,,,,,urn:lsid:ipni.org:names:77168861-1,wfo-0000918874,,,
+5fa1a8bc-1d4d-11ec-82c2-f14daa6f2d93,subspecies,natalensis,Pseudoprospero,firmifolium,J.C.Manning,,,,"Bothalia 39: 232 (2009)",,,,,,urn:lsid:ipni.org:names:77106442-1,wfo-0001361759,,,

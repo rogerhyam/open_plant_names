@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80e65dc-8fd1-11eb-924d-9cd76263cbd0,genus,Patarola,,,Léman,Q5551287,1825,,"Dict. Sci. Nat. (ed. 2) 38: 73. 1825.",,,,,,,wfo-4000028311,7359831,,
-fdec530e-8fcd-11eb-924d-9cd76263cbd0,species,multicarinata,Patarola,,"(Lindenb.) Trevis.","Q96169,Q634712",1877,,"Mem. Reale Ist. Lombardo Sci., Ser. 3, Cl. Sci. Mat. 4: 410 1877",,,,fdec6db2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212497,7641107,,
-fdeca7a0-8fcd-11eb-924d-9cd76263cbd0,species,uvifera,Patarola,,"(Hook.f. & Taylor) Trevis.","Q157501,Q7794377,Q634712",1877,,"Mem. Reale Ist. Lombardo Sci., Ser. 3, Cl. Sci. Mat. 4: 410 1877",,,,fdec8a40-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212500,8152835,,
-dc600a46-8fcd-11eb-924d-9cd76263cbd0,species,stuebelii,Patascoya,,"(Hieron.) Urb.","Q3047331,Q64845",1896,,"Ber. Deutsch. Bot. Ges. 14: 283 1896",,Q102247448,,,,185553-2,wfo-0001142133,3590074,,
+e80e65dc-8fd1-11eb-924d-9cd76263cbd0,genus,Patarola,,,Léman,0,1825,,"Dict. Sci. Nat. (ed. 2) 38: 73. 1825",,,,,,,wfo-4000028311,7359831,,
+fdec530e-8fcd-11eb-924d-9cd76263cbd0,species,multicarinata,Patarola,,"(Lindenb.) Trevis.",0,1877,,"Mem. Reale Ist. Lombardo Sci., Ser. 3, Cl. Sci. Mat. 4: 410 1877",,,,fdec6db2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212497,7641107,,
+fdeca7a0-8fcd-11eb-924d-9cd76263cbd0,species,uvifera,Patarola,,"(Hook.f. & Taylor) Trevis.",0,1877,,"Mem. Reale Ist. Lombardo Sci., Ser. 3, Cl. Sci. Mat. 4: 410 1877",,,,fdec8a40-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001212500,8152835,,
+dc600a46-8fcd-11eb-924d-9cd76263cbd0,species,stuebelii,Patascoya,,"(Hieron.) Urb.",0,1896,,"Ber. Deutsch. Bot. Ges. 14: 283 (1896)",,Q102247448,,,,urn:lsid:ipni.org:names:185553-2,wfo-0001142133,3590074,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e85ee1ce-8fd1-11eb-924d-9cd76263cbd0,genus,Philesia,,,"Comm. ex Juss.","Q595066,Q223963",1789,,"Gen. Pl. 41. 1789.",,,,,,24638-1,wfo-4000029213,2781139,,
-0aa2c426-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Philesia,,"Lam. ex Poir.","Q82122,Q966539",1804,,"Encycl. 5: 269 1804",,,,,,539907-1,wfo-0000717137,2781141,,
-bcf0f454-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Philesia,,Lam.,Q82122,1793,,"Tabl. Encycl. 3: Gen. 2: 387 1793",,,,,,,wfo-0001073339,7580176,,
-0aab490c-8fcd-11eb-924d-9cd76263cbd0,species,magellanica,Philesia,,J.F.Gmel.,Q57230,,,"Syst. Nat. 1012 1791",,,,,,,wfo-0000717196,2781140,,
-0aa4e10c-8fcd-11eb-924d-9cd76263cbd0,species,rosea,Philesia,,"(Ruiz & Pav.) D.Dietr.","Q733976,Q332058,Q73233",,,"Syn. Pl. 2: 1122 1840",,,,,,539909-1,wfo-0000717151,2781169,,
-7b157376-8fcc-11eb-924d-9cd76263cbd0,species,horrida,Philetaeria,,Liebm.,Q1335154,1851,,"Kongel. Danske Vidensk. Selsk. Skr., Naturvidensk. Math. Afd. V, 2: 283 1851",,,,,,827985-1,wfo-0000475944,3612912,,
+e85ee1ce-8fd1-11eb-924d-9cd76263cbd0,genus,Philesia,,,"Comm. ex Juss.",0,1789,,"Gen. Pl. : 41 (1789)",,,,,,urn:lsid:ipni.org:names:24638-1,wfo-4000029213,2781139,,
+0aa2c426-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Philesia,,Poir.,0,1804,,"Encycl. 5: 269 (1804)",,,,,,urn:lsid:ipni.org:names:539907-1,wfo-0000717137,2781141,,
+bcf0f454-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Philesia,,Lam.,0,1793,,"Tabl. Encycl. 3: Gen. 2: 387 1793",,,,,,,wfo-0001073339,7580176,,
+0aab490c-8fcd-11eb-924d-9cd76263cbd0,species,magellanica,Philesia,,J.F.Gmel.,0,,,"Syst. Nat. ed. 13[bis] : 1012 (1792)",,,,,,urn:lsid:ipni.org:names:539908-1,wfo-0000717196,2781140,,
+0aa4e10c-8fcd-11eb-924d-9cd76263cbd0,species,rosea,Philesia,,D.Dietr.,0,,,"Syn. Pl. 2: 1122 (1840)",,,,,,urn:lsid:ipni.org:names:539909-1,wfo-0000717151,2781169,,
+7b157376-8fcc-11eb-924d-9cd76263cbd0,species,horrida,Philetaeria,,Liebm.,0,1851,,"Vidensk. Selsk. Skr. V. ii. (1851) 283.",,,,,,urn:lsid:ipni.org:names:827985-1,wfo-0000475944,3612912,,

@@ -1,15 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7c0028c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Arualis,,,Katz,,1980,,"Mycotaxon 11(1): 230 (1980)",,,,a7c0028c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7232," "
 2fe5b53c-9bac-11eb-a8a2-19ed5c03f8d3,species,carolinensis,Arualis,,Katz,,1980,,"Mycotaxon 11(1): 231 (1980)",,,,2fe5b53c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,118388," "
-a75abc5c-8fcc-11eb-924d-9cd76263cbd0,species,silvestris,Aruana,,Burm.f.,Q716978,1769,,"Ind. Alt. G, verso 1769",,,,,,585629-1,wfo-0000550639,7360611,,
-a75afc44-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Aruba,,"Nees & Mart.","Q76349,Q77131",1823,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 40: 175 1823",,,,,,771350-1,wfo-0000550641,3835077,,
-a75b1b52-8fcc-11eb-924d-9cd76263cbd0,species,alba,Aruba,,"Nees & Mart.","Q76349,Q77131",1823,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 40: 174 1823",,,,,,771351-1,wfo-0000550642,3709221,,
-a75b3a38-8fcc-11eb-924d-9cd76263cbd0,species,caerulea,Aruba,,"Nees & Mart.","Q76349,Q77131",1823,,"Nova Acta Phys.-Med. Acad. Caes. Leop.-Carol. Nat. Cur. 40: 174 1823",,,,,,771352-1,wfo-0000550643,8407171,,
-a75b5928-8fcc-11eb-924d-9cd76263cbd0,species,cedron,Aruba,,"(Planch.) Kuntze","Q1387276,Q62853",1891,,"Revis. Gen. Pl. 1: 103 1891",,,,846b43b0-8fcc-11eb-924d-9cd76263cbd0,,20938-2,wfo-0000550644,3709206,,
-a75b7a8e-8fcc-11eb-924d-9cd76263cbd0,species,cuneata,Aruba,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 103 1891",,,,,,20940-2,wfo-0000550646,3709166,,
-a75bba26-8fcc-11eb-924d-9cd76263cbd0,species,glandulifera,Aruba,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 103 1891",,,,,,20945-2,wfo-0000550652,3709079,,
-a75c0800-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Aruba,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane 1: 293 1775",,,,,,813576-1,wfo-0000550653,8168937,,
-a75c4f4a-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Aruba,,"(Aubl.) Kuntze","Q721482,Q62853",1891,,"Revis. Gen. Pl. 1: 103 1891",,,,,,813577-1,wfo-0000550654,8168937,,
-a75ca440-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Aruba,,"(Spruce ex Engl.) Kuntze","Q1349394,Q60718,Q62853",1891,,"Revis. Gen. Pl. 1: 103 1891",,,,84685574-8fcc-11eb-924d-9cd76263cbd0,,20949-2,wfo-0000550658,3708993,,
-a75ced60-8fcc-11eb-924d-9cd76263cbd0,species,orinocensis,Aruba,,"(Kunth) Kuntze","Q77074,Q62853",1891,,"Revis. Gen. Pl. 1: 103 1891",,,,,,20950-2,wfo-0000550659,3708981,,
-a75d2690-8fcc-11eb-924d-9cd76263cbd0,species,suaveolens,Aruba,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 1: 103 1891",,,,,,20952-2,wfo-0000550662,3708954,,
+a75abc5c-8fcc-11eb-924d-9cd76263cbd0,species,silvestris,Aruana,,Burm.f.,0,1769,,"Ind. Alt. : G, verso (1769)",,,,,,urn:lsid:ipni.org:names:585629-1,wfo-0000550639,7360611,,

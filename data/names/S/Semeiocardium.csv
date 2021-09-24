@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea43caea-8fd1-11eb-924d-9cd76263cbd0,genus,Semeiocardium,,,Zoll.,Q124330,1858,,"Natuurk. Tijdschr. Ned.-Indie% 17: 245. 1858.",,,,,,,wfo-4000035020,7309704,,
-5fdcb7d6-8fcc-11eb-924d-9cd76263cbd0,species,arriensii,Semeiocardium,,Zoll.,Q124330,1935,,"Gard. Bull. Straits Settlem. 9: 72 1935",,,,,,104059-1,wfo-0000431107,4193294,,
-ad617cda-8fd1-11eb-924d-9cd76263cbd0,species,hamiltonii,Semeiocardium,,Hassk.,Q68616,1863,,"Ann. Mus. Bot. Lugduno-Batavi 1: 151 1863",,,,,,692792-1,wfo-0001219806,4193271,,
+ea43caea-8fd1-11eb-924d-9cd76263cbd0,genus,Semeiocardium,,,Zoll.,0,1858,,"Natuurk. Tijdschr. Ned.-Indië 17: 245 (1858)",,,,,,urn:lsid:ipni.org:names:32394-1,wfo-4000035020,7309704,,
+5fdcb7d6-8fcc-11eb-924d-9cd76263cbd0,species,arriensii,Semeiocardium,,Zoll.,0,1935,,"Backer in Gard. Bull. Straits Settlem. 9: 72, descr. emend. 1935",,,,,,urn:lsid:ipni.org:names:104059-1,wfo-0000431107,4193294,,
+49321562-1d4d-11ec-82c2-f14daa6f2d93,species,glaucescens,Semeiocardium,,Hassk.,,,,"Ann. Mus. Bot. Lugduno-Batavi 1: 151 (1863)",,,,,,urn:lsid:ipni.org:names:692791-1,wfo-0001331331,,,
+ad617cda-8fd1-11eb-924d-9cd76263cbd0,species,hamiltonii,Semeiocardium,,Hassk.,0,1863,,"Ann. Mus. Bot. Lugduno-Batavi 1: 151. 1863",,,,,,urn:lsid:ipni.org:names:692792-1,wfo-0001219806,4193271,,
+49323ccc-1d4d-11ec-82c2-f14daa6f2d93,species,hyalinum,Semeiocardium,,Hassk.,,,,"Ann. Mus. Bot. Lugduno-Batavi 1: 151 (1863)",,,,,,urn:lsid:ipni.org:names:692793-1,wfo-0001331332,,,

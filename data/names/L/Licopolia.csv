@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9a1cf86a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Licopolia,,,"Sacc., Syd. & P. Syd.",Q707840,1900,,"Bull. Herb. Boissier, 2 sér. 1: 79 (1900)",,,,9a1cf86a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2862," "
-984c8538-9bac-11eb-a8a2-19ed5c03f8d3,species,franciscana,Licopolia,,"Sacc., Syd. & P. Syd.",Q707840,1900,,"Bull. Herb. Boissier, 2 sér. 1: (1900)",,,,984c8538-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210623," "
+9a1cf86a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Licopolia,,,"Sacc., Syd. & P. Syd.",0,1900,,"Bull. Herb. Boissier, 2 sér. 1: 79 (1900)",,,,9a1cf86a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2862," "
+984c8538-9bac-11eb-a8a2-19ed5c03f8d3,species,franciscana,Licopolia,,"Sacc., Syd. & P. Syd.",0,1900,,"Bull. Herb. Boissier, 2 sér. 1: (1900)",,,,984c8538-9bac-11eb-a8a2-19ed5c03f8d3,,,,,210623," "
 eba18d3c-9bac-11eb-a8a2-19ed5c03f8d3,species,keniensis,Licopolia,,Hansf.,,1947,,"Proc. Linn. Soc. London 158: 38 (1947)",,,,eba18d3c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,287777," "
-b88b2812-8fcd-11eb-924d-9cd76263cbd0,species,sincephala,Licopolia,,Rippa.,,1904,,"Bull. Orto Bot. Regia Univ. Napoli 2: 74 1904",,,,,,365662-1,wfo-0001063105,,,
-5da78bfc-8fcd-11eb-924d-9cd76263cbd0,species,syncephala,Licopolia,,Rippa,Q36567844,1904,,"Bull. Orto Bot. Regia Univ. Napoli 2: 74 1904",,,,,,365662-1,wfo-0000891300,7517745,,
+b88b2812-8fcd-11eb-924d-9cd76263cbd0,species,sincephala,Licopolia,,Rippa,,1904,,"Bull. Orto Bot. Regia Univ. Napoli 2: 74 (1904)",,,,,,urn:lsid:ipni.org:names:365662-1,wfo-0001063105,,,
+5da78bfc-8fcd-11eb-924d-9cd76263cbd0,species,syncephala,Licopolia,,Rippa,0,1904,,"Bull. Orto Bot. Regia Univ. Napoli 2: 74 (1904)",,,,,,urn:lsid:ipni.org:names:365662-1,wfo-0000891300,7517745,,

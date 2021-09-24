@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-4eae88f4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Cerion,,,Massee,Q4284198,1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,4eae88f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,910," "
-7f1cf2aa-9bac-11eb-a8a2-19ed5c03f8d3,species,coccineum,Cerion,,"Massee & Rodway","Q4284198,Q4396077",1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,7f1cf2aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,172883," "
-d720bf68-9bac-11eb-a8a2-19ed5c03f8d3,form,album,Cerion,coccineum,Rodway,Q4396077,1925,,"Pap. Proc. R. Soc. Tasm. 92 (1925)",,,,d720bf68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261215," "
-b557023e-9bac-11eb-a8a2-19ed5c03f8d3,form,coccineum,Cerion,coccineum,"Massee & Rodway","Q4284198,Q4396077",1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,b557023e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,424786," "
-2c2a3a84-9bad-11eb-a8a2-19ed5c03f8d3,species,leucophaeum,Cerion,,"(Speg.) Dennis",Q648013,1959,,"Kew Bull. 13: 465 (1959)",,,,f846342a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294657," "
-c58fc852-8fcc-11eb-924d-9cd76263cbd0,species,alpinus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 43 1818",,,,,,319206-1,wfo-0000597923,4103589,,
-c5901d2a-8fcc-11eb-924d-9cd76263cbd0,species,corniculatus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 49 1818",,,,,,319207-1,wfo-0000597924,4103582,,
-c590494e-8fcc-11eb-924d-9cd76263cbd0,species,cretaceus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 51 1818",,,,,,319208-1,wfo-0000597925,4103574,,
-c5908616-8fcc-11eb-924d-9cd76263cbd0,species,laevigatus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 49 1818",,,,,,319209-1,wfo-0000597926,4103567,,
-c590ac18-8fcc-11eb-924d-9cd76263cbd0,species,leucanthus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 47 1818",,,,,,319210-1,wfo-0000597927,4103557,,
-c590ca36-8fcc-11eb-924d-9cd76263cbd0,species,syriacus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 46 1818",,,,,,319211-1,wfo-0000597928,4103551,,
-c590ed4a-8fcc-11eb-924d-9cd76263cbd0,species,tataricus,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 51 1818) (1818",,,,,,319212-1,wfo-0000597929,4103542,,
-c5910c8a-8fcc-11eb-924d-9cd76263cbd0,species,vaillantii,Cerionanthus,,"Schott ex Roem. & Schult.","Q112191,Q115659,Q78881",1818,,"Syst. Veg. 3: 46 1818) (1818",,,,,,319213-1,wfo-0000597930,4103533,,
+4eae88f4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Cerion,,,Massee,0,1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,4eae88f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,910," "
+7f1cf2aa-9bac-11eb-a8a2-19ed5c03f8d3,species,coccineum,Cerion,,"Massee & Rodway",0,1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,7f1cf2aa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,172883," "
+d720bf68-9bac-11eb-a8a2-19ed5c03f8d3,form,album,Cerion,coccineum,Rodway,0,1925,,"Pap. Proc. R. Soc. Tasm. 92 (1925)",,,,d720bf68-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261215," "
+b557023e-9bac-11eb-a8a2-19ed5c03f8d3,form,coccineum,Cerion,coccineum,"Massee & Rodway",0,1901,,"Bull. Misc. Inf., Kew 159 (1901)",,,,b557023e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,424786," "
+2c2a3a84-9bad-11eb-a8a2-19ed5c03f8d3,species,leucophaeum,Cerion,,"(Speg.) Dennis",0,1959,,"Kew Bull. 13: 465 (1959)",,,,f846342a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294657," "
+c58fc852-8fcc-11eb-924d-9cd76263cbd0,species,alpinus,Cerionanthus,,"(L.) Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 43 (1818)",,,,,,urn:lsid:ipni.org:names:319206-1,wfo-0000597923,4103589,,
+c5901d2a-8fcc-11eb-924d-9cd76263cbd0,species,corniculatus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 49 (1818)",,,,,,urn:lsid:ipni.org:names:319207-1,wfo-0000597924,4103582,,
+c590494e-8fcc-11eb-924d-9cd76263cbd0,species,cretaceus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 51 (1818)",,,,,,urn:lsid:ipni.org:names:319208-1,wfo-0000597925,4103574,,
+c5908616-8fcc-11eb-924d-9cd76263cbd0,species,laevigatus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 49 (1818)",,,,,,urn:lsid:ipni.org:names:319209-1,wfo-0000597926,4103567,,
+c590ac18-8fcc-11eb-924d-9cd76263cbd0,species,leucanthus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 47 (1818)",,,,,,urn:lsid:ipni.org:names:319210-1,wfo-0000597927,4103557,,
+c590ca36-8fcc-11eb-924d-9cd76263cbd0,species,syriacus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 46 (1818)",,,,,,urn:lsid:ipni.org:names:319211-1,wfo-0000597928,4103551,,
+c590ed4a-8fcc-11eb-924d-9cd76263cbd0,species,tataricus,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 3: 51. 1818 [Apr-Jul 1818]",,,,,,urn:lsid:ipni.org:names:319212-1,wfo-0000597929,4103542,,
+c5910c8a-8fcc-11eb-924d-9cd76263cbd0,species,vaillantii,Cerionanthus,,"Schott ex Roem. & Schult.",0,1818,,"Syst. Veg., ed. 15 bis 3: 46 (1818)",,,,,,urn:lsid:ipni.org:names:319213-1,wfo-0000597930,4103533,,

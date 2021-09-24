@@ -1,20 +1,21 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a58da78a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Staurosphaeria,,,Rabenh.,Q65090,1858,,"Klotzschii Herb. Viv. Mycol., Edn 2 736 (1858)",,,,a58da78a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5186," "
-b94aeb5c-9bad-11eb-a8a2-19ed5c03f8d3,species,lycii,Staurosphaeria,,Rabenh.,Q65090,1858,,"Bull. Minn. geol. nat. Hist. Surv. (1858)",,,,b94aeb5c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,218340," "
+a58da78a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Staurosphaeria,,,Rabenh.,0,1858,,"Klotzschii Herb. Viv. Mycol., Edn 2 736 (1858)",,,,a58da78a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5186," "
+b94aeb5c-9bad-11eb-a8a2-19ed5c03f8d3,species,lycii,Staurosphaeria,,Rabenh.,0,1858,,"Bull. Minn. geol. nat. Hist. Surv. (1858)",,,,b94aeb5c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,218340," "
 9d75772c-9bac-11eb-a8a2-19ed5c03f8d3,species,rhamni,Staurosphaeria,,Westend.,,,,,,,,9d75772c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218515," "
 9d92ac34-9bac-11eb-a8a2-19ed5c03f8d3,species,rosarum,Staurosphaeria,,Westend.,,,,,,,,9d92ac34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218709," "
 7df832c8-9bab-11eb-a8a2-19ed5c03f8d3,species,tiliae,Staurosphaeria,,Therry,,,,,,,,7df832c8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,218397," "
-f6fdbebc-9bac-11eb-a8a2-19ed5c03f8d3,species,varians,Staurosphaeria,,"(Hazsl.) Niessl",Q1034588,,,,,,,50d76a9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223294," "
-0fee73a4-8fcc-11eb-924d-9cd76263cbd0,species,concinnum,Staurostigma,,"(Schott) K.Koch","Q112191,Q65130",1864,,"Index Aroid. 77 1864",,,,,,30047891-2,wfo-0000315237,2866778,,
-3315467c-8fcd-11eb-924d-9cd76263cbd0,form,colubrinum,Staurostigma,concinnum,"(Schott) Engl.","Q112191,Q60718",1878,,"Fl. Bras. 3(2): 205 1878",,,,01d64378-8fcc-11eb-924d-9cd76263cbd0,,243626-2,wfo-0000800380,2866779,,
-33156896-8fcd-11eb-924d-9cd76263cbd0,form,langsdorffii,Staurostigma,concinnum,"(K.Koch) Engl.","Q65130,Q60718",1878,,"Fl. Bras. 3(2): 204 1878",,,,01e114a6-8fcc-11eb-924d-9cd76263cbd0,,243627-2,wfo-0000800381,8675344,,
-33159442-8fcd-11eb-924d-9cd76263cbd0,form,lineolatum,Staurostigma,concinnum,"(Schott) Engl.","Q112191,Q60718",1878,,"Fl. Bras. 3(2): 205 1878",,,,01e250f0-8fcc-11eb-924d-9cd76263cbd0,,243628-2,wfo-0000800382,2866772,,
-3315bb0c-8fcd-11eb-924d-9cd76263cbd0,form,schottianum,Staurostigma,concinnum,Engl.,Q60718,1878,,"Fl. Bras. 3(2): 204 1878",,,,,,243629-2,wfo-0000800383,2866780,,
-0fee9032-8fcc-11eb-924d-9cd76263cbd0,species,luschnathianum,Staurostigma,,"(Schott) K.Koch","Q112191,Q65130",1864,,"Index Aroid. 78 1864",,,,01ea593a-8fcc-11eb-924d-9cd76263cbd0,,89024-1,wfo-0000315238,2866790,,
-0feeaae0-8fcc-11eb-924d-9cd76263cbd0,species,odorum,Staurostigma,,Scheidw.,Q2268288,1848,,"Allg. Gartenzeitung 16: 129 1848",,,,,,89025-1,wfo-0000315239,2866771,,
-0feec52a-8fcc-11eb-924d-9cd76263cbd0,species,pavonii,Staurostigma,,"(Schott) K.Koch ex Ender","Q112191,Q65130,Q21512110",1864,,"Index Aroid. 78 1864",,,,01ebf6b4-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000315240,2870136,,
-0feee0d2-8fcc-11eb-924d-9cd76263cbd0,species,riedelianum,Staurostigma,,"(Schott) Engl.","Q112191,Q60718",1878,,"Fl. Bras. 3(2): 206 1878",,,,,,89027-1,wfo-0000315241,2866799,,
-0feefb12-8fcc-11eb-924d-9cd76263cbd0,species,tweedieanum,Staurostigma,,"(Schott) K.Koch","Q112191,Q65130",1864,,"Index Aroid. 78 1864",,,,,,89028-1,wfo-0000315242,7352078,,
-0fef3690-8fcc-11eb-924d-9cd76263cbd0,species,vellozoanum,Staurostigma,,"(Schott) K.Koch","Q112191,Q65130",1864,,"Index Aroid. 78 1864",,,,,,89029-1,wfo-0000315244,6310333,,
-0fef82b2-8fcc-11eb-924d-9cd76263cbd0,species,vermicida,Staurostigma,,Speg.,Q648013,1899,,"Comun. Mus. Nac. B. Aires 1: 89 1899",,,,,,243631-2,wfo-0000315245,2870147,,
-0fefba20-8fcc-11eb-924d-9cd76263cbd0,species,vermitoxicum,Staurostigma,,"(Griseb.) Engl.","Q76351,Q60718",1879,,"Monogr. Phan. 2: 517 1879",,,,01f2dbdc-8fcc-11eb-924d-9cd76263cbd0,,89032-1,wfo-0000315246,2871868,,
+f6fdbebc-9bac-11eb-a8a2-19ed5c03f8d3,species,varians,Staurosphaeria,,"(Hazsl.) Niessl",0,,,,,,,50d76a9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223294," "
+0fee73a4-8fcc-11eb-924d-9cd76263cbd0,species,concinnum,Staurostigma,,"(Schott) K.Koch",0,1864,,"Index Aroid. : 77 (1864)",,,,,,urn:lsid:ipni.org:names:30047891-2,wfo-0000315237,2866778,,
+3315467c-8fcd-11eb-924d-9cd76263cbd0,form,colubrinum,Staurostigma,concinnum,"(Schott) Engl.",0,1878,,"Fl. Bras. 3(2): 205 (1878)",,,,01d64378-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:243626-2,wfo-0000800380,2866779,,
+33156896-8fcd-11eb-924d-9cd76263cbd0,form,langsdorffii,Staurostigma,concinnum,"(K.Koch) Engl.",0,1878,,"Fl. Bras. 3(2): 204 (1878)",,,,01e114a6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:243627-2,wfo-0000800381,8675344,,
+33159442-8fcd-11eb-924d-9cd76263cbd0,form,lineolatum,Staurostigma,concinnum,"(Schott) Engl.",0,1878,,"Fl. Bras. 3(2): 205 (1878)",,,,01e250f0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:243628-2,wfo-0000800382,2866772,,
+3315bb0c-8fcd-11eb-924d-9cd76263cbd0,form,schottianum,Staurostigma,concinnum,Engl.,0,1878,,"Fl. Bras. 3(2): 204 (1878)",,,,,,urn:lsid:ipni.org:names:243629-2,wfo-0000800383,2866780,,
+7a248470-1d4d-11ec-82c2-f14daa6f2d93,variety,schottianum,Staurostigma,concinnum,Engl.,,,,"Pflanzenr. (Engler) [Heft 73], 4, Fam. 23f: 46. 1920 In synon",,,,,,urn:lsid:ipni.org:names:243630-2,wfo-0001397275,,,
+0fee9032-8fcc-11eb-924d-9cd76263cbd0,species,luschnathianum,Staurostigma,,K.Koch,0,1864,,"Index Aroid. : 78 (1864)",,,,01ea593a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:89024-1,wfo-0000315238,2866790,,
+0feeaae0-8fcc-11eb-924d-9cd76263cbd0,species,odorum,Staurostigma,,Scheidw.,0,1848,,"Allg. Gartenzeitung 16: 129 (1848)",,,,,,urn:lsid:ipni.org:names:89025-1,wfo-0000315239,2866771,,
+0feec52a-8fcc-11eb-924d-9cd76263cbd0,species,pavonii,Staurostigma,,K.Koch,0,1864,,"in Ender. Ind. Aroid. 78.",,,,01ebf6b4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:89026-1,wfo-0000315240,2870136,,
+0feee0d2-8fcc-11eb-924d-9cd76263cbd0,species,riedelianum,Staurostigma,,Engl.,0,1878,,"Fl. Bras. 3(2): 206 (1878)",,,,,,urn:lsid:ipni.org:names:89027-1,wfo-0000315241,2866799,,
+0feefb12-8fcc-11eb-924d-9cd76263cbd0,species,tweedieanum,Staurostigma,,K.Koch,0,1864,,"Index Aroid. : 78 (1864)",,,,,,urn:lsid:ipni.org:names:89028-1,wfo-0000315242,7352078,,
+0fef3690-8fcc-11eb-924d-9cd76263cbd0,species,vellozianum,Staurostigma,,K.Koch,0,1864,,"Index Aroid. : 78 (1864)",,,,,,urn:lsid:ipni.org:names:89029-1,wfo-0000315244,6310333,,
+0fef82b2-8fcc-11eb-924d-9cd76263cbd0,species,vermicida,Staurostigma,,Speg.,0,1899,,"Comun. Mus. Nac. B. Aires 1: 89. 1899",,,,,,urn:lsid:ipni.org:names:243631-2,wfo-0000315245,2870147,,
+0fefba20-8fcc-11eb-924d-9cd76263cbd0,species,vermitoxicum,Staurostigma,,Engl.,0,1879,,"Monogr. Phan. 2: 517 (1879)",,,,01f2dbdc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:89032-1,wfo-0000315246,2871868,,

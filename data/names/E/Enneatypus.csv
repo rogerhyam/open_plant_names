@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3538fe0-8fd1-11eb-924d-9cd76263cbd0,genus,Enneatypus,,,Herzog,Q98278,1922,,"Meded. Rijks-Herb. 46: 3. 1922. (28 Dec 1922)",,Q100453366,,,,295448-2,wfo-4000013473,7291733,,
-ee98b4b6-8fcc-11eb-924d-9cd76263cbd0,species,nordenskjoeldii,Enneatypus,,Herzog,Q98278,1922,,"Meded. Rijks-Herb. 46: 4 1922",,Q100453366,,,,91055-2,wfo-0000668151,7291739,,
-ee98d02c-8fcc-11eb-924d-9cd76263cbd0,form,glaberrimus,Enneatypus,nordenskjoeldii,Herzog,Q98278,1922,,"Meded. Rijks-Herb. 46: 5 1922",,Q100453366,,,,91056-2,wfo-0000668152,4036756,,
-ee98ec24-8fcc-11eb-924d-9cd76263cbd0,species,ramiflorus,Enneatypus,,"(C.A.Mey.) Roberty & Vautier","Q728729,Q3122109,Q19002900",1964,,"Boissiera 10: 68 1964",,,,,,693983-1,wfo-0000668153,4036721,,
-ee99068c-8fcc-11eb-924d-9cd76263cbd0,species,tenuiflorus,Enneatypus,,"(Benth.) Roberty & Vautier","Q731808,Q3122109,Q19002900",1964,,"Boissiera 10: 68 1964",,,,,,91058-2,wfo-0000668154,4036697,,
+e3538fe0-8fd1-11eb-924d-9cd76263cbd0,genus,Enneatypus,,,Herzog,0,1922,,"Meded. Rijks-Herb. 46: 3 (1922)",,Q100453366,,,,urn:lsid:ipni.org:names:295448-2,wfo-4000013473,7291733,,
+ee98b4b6-8fcc-11eb-924d-9cd76263cbd0,species,nordenskjoeldii,Enneatypus,,Herzog,0,1922,,"Meded. Rijks-Herb. 46: 4 (1922)",,Q100453366,,,,urn:lsid:ipni.org:names:91055-2,wfo-0000668151,7291739,,
+ee98d02c-8fcc-11eb-924d-9cd76263cbd0,form,glaberrimus,Enneatypus,nordenskjoeldii,Herzog,0,1922,,"Meded. Rijks-Herb. 46: 5 (1922)",,Q100453366,,,,urn:lsid:ipni.org:names:91056-2,wfo-0000668152,4036756,,
+ee98ec24-8fcc-11eb-924d-9cd76263cbd0,species,ramiflorus,Enneatypus,,"(C.A.Mey.) Roberty & Vautier",0,1964,,"Boissiera 10: 68 (1964)",,,,,,urn:lsid:ipni.org:names:693983-1,wfo-0000668153,4036721,,
+ee99068c-8fcc-11eb-924d-9cd76263cbd0,species,tenuiflorus,Enneatypus,,"(Benth.) Roberty & Vautier",0,1964,,"Boissiera 10: 68 (1964)",,,,,,urn:lsid:ipni.org:names:91058-2,wfo-0000668154,4036697,,

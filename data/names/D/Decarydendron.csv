@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e287c900-8fd1-11eb-924d-9cd76263cbd0,genus,Decarydendron,,,Danguy,Q18670396,1928,,"Bull. Mus. Natl. Hist. Nat. 34: 279. 1928.",,,,,,27068-1,wfo-4000010933,7264543,,
-dda9a868-8fcc-11eb-924d-9cd76263cbd0,species,helenae,Decarydendron,,Danguy,Q18670396,1928,,"Bull. Mus. Natl. Hist. Nat. 34: 279 1928",,,,,,581863-1,wfo-0000639062,3782510,,
-dda9dd88-8fcc-11eb-924d-9cd76263cbd0,species,lamii,Decarydendron,,Cavaco,Q8193512,1958,,"Blumea, Suppl. 4: 28 1958",,,,,,581864-1,wfo-0000639063,3782497,,
-ddaa0ede-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Decarydendron,,Cavaco,Q8193512,1958,,"Bull. Soc. Bot. France 105: 38 1958",,Q95996966,,,,581865-1,wfo-0000639064,3782485,,
-ddaa3cf6-8fcc-11eb-924d-9cd76263cbd0,species,ranomafanensis,Decarydendron,,"Lorence & Razafim.","Q5800041,Q26712871",2002,,"Adansonia III, 24: 108 2002",,,,,,,wfo-0000639065,3782473,,
+e287c900-8fd1-11eb-924d-9cd76263cbd0,genus,Decarydendron,,,Danguy,0,1928,,"Bull. Mus. Natl. Hist. Nat. 34: 279 (1928)",,,,,,urn:lsid:ipni.org:names:27068-1,wfo-4000010933,7264543,,
+dda9a868-8fcc-11eb-924d-9cd76263cbd0,species,helenae,Decarydendron,,Danguy,0,1928,,"Bull. Mus. Natl. Hist. Nat. 34: 279 (1928)",,,,,,urn:lsid:ipni.org:names:581863-1,wfo-0000639062,3782510,,
+b372fe06-1d4c-11ec-82c2-f14daa6f2d93,variety,helenae,Decarydendron,helenae,,,,,,,,,,,,wfo-0001084581,,,
+dda9dd88-8fcc-11eb-924d-9cd76263cbd0,species,lamii,Decarydendron,,Cavaco,0,1958,,"Blumea, Suppl. 4: 28 (1958)",,,,,,urn:lsid:ipni.org:names:581864-1,wfo-0000639063,3782497,,
+ddaa0ede-8fcc-11eb-924d-9cd76263cbd0,species,perrieri,Decarydendron,,Cavaco,0,1958,,"Bull. Soc. Bot. France 105: 38 (1958)",,Q95996966,,,,urn:lsid:ipni.org:names:581865-1,wfo-0000639064,3782485,,
+ddaa3cf6-8fcc-11eb-924d-9cd76263cbd0,species,ranomafanense,Decarydendron,,"Lorence & Razafim.",0,2002,,"Adansonia , sér. 3, 24: 108 (2002)",,,,,,urn:lsid:ipni.org:names:20006702-1,wfo-0000639065,3782473,,

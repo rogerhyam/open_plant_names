@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f3b616-8fd1-11eb-924d-9cd76263cbd0,genus,Mukdenia,,,Koidz.,Q941892,1935,,"Acta Phytotax. Geobot. 4: 120. 1935[1935].",,,,,,37096-1,wfo-4000024959,7339205,,
-6c8bf5be-8fcc-11eb-924d-9cd76263cbd0,species,acanthifolia,Mukdenia,,Nakai,Q704751,1941,,"J. Jap. Bot. 17: 684 1941",,,,,,791988-1,wfo-0000451261,3752693,,
-d95aa734-8fcd-11eb-924d-9cd76263cbd0,species,rossii,Mukdenia,,"(Oliv.) Koidz.","Q1161960,Q941892",1935,,"Acta Phytotax. Geobot. 4(2): 120–121 1935",,,,d9934026-8fcd-11eb-924d-9cd76263cbd0,,791989-1,wfo-0001136020,7339206,,
+e6f3b616-8fd1-11eb-924d-9cd76263cbd0,genus,Mukdenia,,,Koidz.,0,1935,,"Acta Phytotax. Geobot. 4: 120 (1935)",,,,,,urn:lsid:ipni.org:names:37096-1,wfo-4000024959,7339205,,
+6c8bf5be-8fcc-11eb-924d-9cd76263cbd0,species,acanthifolia,Mukdenia,,Nakai,0,1941,,"J. Jap. Bot. 17: 684 (1941)",,,,,,urn:lsid:ipni.org:names:791988-1,wfo-0000451261,3752693,,
+d95aa734-8fcd-11eb-924d-9cd76263cbd0,species,rossii,Mukdenia,,"(Oliv.) Koidz.",0,1935,,"Acta Phytotax. Geobot. 4: 120 (1935)",,,,d9934026-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:791989-1,wfo-0001136020,7339206,,
+43ef5bf0-1d4d-11ec-82c2-f14daa6f2d93,form,multiloba,Mukdenia,rossii,"(Nakai) W.Lee",,,,"Lineamenta Florae Koreae 450. 1996",,,,,,urn:lsid:ipni.org:names:20007504-1,wfo-0001324275,,,

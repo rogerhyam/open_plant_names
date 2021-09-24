@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e69eccc8-8fd1-11eb-924d-9cd76263cbd0,genus,Metarungia,,,Baden,Q5772187,1984,,"Kew Bull. 39(3): 638. 1984.",,Q55779258,,,,893391-1,wfo-4000023914,7263410,,
-addbd416-8fcd-11eb-924d-9cd76263cbd0,species,galpinii,Metarungia,,"(Baden) Baden",Q5772187,1984,,"Kew Bull. 39(3): 638 1984",,Q55779258,,b0701142-8fcd-11eb-924d-9cd76263cbd0,,914231-1,wfo-0001038833,3771208,,
-c41511b2-8fd1-11eb-924d-9cd76263cbd0,species,longistrobus,Metarungia,,Baden,Q5772187,,,,,,,,,,wfo-0001261604,8519897,,
-323a1832-8fcc-11eb-924d-9cd76263cbd0,species,pubinervia,Metarungia,,"(T.Anderson) T.Anderson ex Baden","Q371504,Q5772187",1984,,"Kew Bull. 39: 638 1984",,,,48d675c2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000371037,3771192,,
-57f53862-8fcd-11eb-924d-9cd76263cbd0,species,albofarinosa,Metasasa,,W.T.Lin,Q18986735,1990,,"Guihaia 10: 19 1990",,,,,,939282-1,wfo-0000879825,4113446,,
-57f556a8-8fcd-11eb-924d-9cd76263cbd0,species,carinata,Metasasa,,W.T.Lin,Q18986735,1988,,"Acta Phytotax. Sin. 26: 145 1988",,,,,,934841-1,wfo-0000879826,4113436,,
+e69eccc8-8fd1-11eb-924d-9cd76263cbd0,genus,Metarungia,,,Baden,0,1984,,"Kew Bull. 39: 638 (1984)",,Q55779258,,,,urn:lsid:ipni.org:names:893391-1,wfo-4000023914,7263410,,
+addbd416-8fcd-11eb-924d-9cd76263cbd0,species,galpinii,Metarungia,,"(Baden) Baden",0,1984,,"Kew Bull. 39: 638 (1984)",,Q55779258,,b0701142-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:914231-1,wfo-0001038833,3771208,,
+c41511b2-8fd1-11eb-924d-9cd76263cbd0,species,longistrobus,Metarungia,,"(C.B.Clarke) Baden",0,,,"Kew Bull. 39: 638 (1984)",,,,,,urn:lsid:ipni.org:names:914232-1,wfo-0001261604,8519897,,
+323a1832-8fcc-11eb-924d-9cd76263cbd0,species,pubinervia,Metarungia,,"(T.Anderson) Baden",0,1984,,"Kew Bull. 39: 638 (1984)",,,,48d675c2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:914233-1,wfo-0000371037,3771192,,
+57f53862-8fcd-11eb-924d-9cd76263cbd0,species,albofarinosa,Metasasa,,W.T.Lin,0,1990,,"Guihaia 10: 19 (1990)",,,,,,urn:lsid:ipni.org:names:939282-1,wfo-0000879825,4113446,,
+57f556a8-8fcd-11eb-924d-9cd76263cbd0,species,carinata,Metasasa,,W.T.Lin,0,1988,,"Acta Phytotax. Sin. 26: 145 (1988)",,,,,,urn:lsid:ipni.org:names:934841-1,wfo-0000879826,4113436,,

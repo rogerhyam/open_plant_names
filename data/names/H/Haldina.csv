@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e459d584-8fd1-11eb-924d-9cd76263cbd0,genus,Haldina,,,Ridsdale,Q4394497,1979,,"Blumea 24(2): 360. 1979.",,,,,,,wfo-4000016726,2908805,,
-9124cc60-8fcd-11eb-924d-9cd76263cbd0,species,cordifolia,Haldina,,"(Roxb.) Ridsdale","Q748967,Q4394497",1978,,"Blumea 24: 361 1978",,Q96027383,,,,752150-1,wfo-0000979047,2908806,,
-0e0a1140-8fb5-11eb-924d-9cd76263cbd0,species,ludoviciana,Halea,,"Torr. & A.Gray","Q1346660,Q347356",1842,,"Fl. N. Amer. (Torr. & A. Gray) 2: 304 1842",,,,,,,wfo-0000073359,3150309,,
-13c4e296-8fb4-11eb-924d-9cd76263cbd0,species,repanda,Halea,,Buckley,Q2605955,1861,,"in Proc. Acad. Sc. Philad. 1861 (1862) 458.",,,,,,116905-2,wfo-0000059585,3150312,,
-115b3002-8fb2-11eb-924d-9cd76263cbd0,species,texana,Halea,,A.Gray,Q347356,,,"Pl. Fendl. 83.",,,,,,211394-1,wfo-0000009271,4210499,,
+e459d584-8fd1-11eb-924d-9cd76263cbd0,genus,Haldina,,,Ridsdale,0,1979,,"Blumea 24: 360 (1978)",,,,,,urn:lsid:ipni.org:names:34682-1,wfo-4000016726,2908805,,
+9124cc60-8fcd-11eb-924d-9cd76263cbd0,species,cordifolia,Haldina,,"(Roxb.) Ridsdale",0,1978,,"Blumea 24: 361 (1978)",,Q96027383,,,,urn:lsid:ipni.org:names:752150-1,wfo-0000979047,2908806,,
+0e0a1140-8fb5-11eb-924d-9cd76263cbd0,species,ludoviciana,Halea,,"Torr. & A.Gray",0,1842,,"Fl. N. Amer. 2(2): 304 (1842)",,,,,,urn:lsid:ipni.org:names:211392-1,wfo-0000073359,3150309,,
+13c4e296-8fb4-11eb-924d-9cd76263cbd0,species,repanda,Halea,,Buckley,0,1861,,"Proc. Acad. Nat. Sci. Philadelphia 1861: 458 (1862)",,,,,,urn:lsid:ipni.org:names:211393-1,wfo-0000059585,3150312,,
+115b3002-8fb2-11eb-924d-9cd76263cbd0,species,texana,Halea,,A.Gray,0,,,"Mem. Amer. Acad. Arts : 83",,,,,,urn:lsid:ipni.org:names:211394-1,wfo-0000009271,4210499,,

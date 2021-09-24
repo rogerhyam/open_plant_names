@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7f2ffa4-8fd1-11eb-924d-9cd76263cbd0,genus,Paractaenum,,,P.Beauv.,Q458941,1812,,"Ess. Agrostogr. 47. 1812.",,,,,,18667-1,wfo-4000028000,4117623,,
-5b910a5a-8fcd-11eb-924d-9cd76263cbd0,species,novae-hollandiae,Paractaenum,,P.Beauv.,Q458941,1812,,"Ess. Agrostogr. 47 1812",,,,,,413692-1,wfo-0000887083,4117638,,
-5b9126b6-8fcd-11eb-924d-9cd76263cbd0,subspecies,reversum,Paractaenum,novae-hollandiae,"(F.Muell.) R.D.Webster","Q708002,Q6109418",1987,,"Austral. Paniceae 147 1987",,,,5b1c4256-8fcd-11eb-924d-9cd76263cbd0,,953308-1,wfo-0000887084,4117637,,
-5b914088-8fcd-11eb-924d-9cd76263cbd0,species,refractum,Paractaenum,,"(F.Muell.) R.D.Webster","Q708002,Q6109418",1987,,"Austral. Paniceae 148 1987",,,,,,943734-1,wfo-0000887085,4117622,,
+e7f2ffa4-8fd1-11eb-924d-9cd76263cbd0,genus,Paractaenum,,,P.Beauv.,0,1812,,"Ess. Agrostogr. : 47 (1812)",,,,,,urn:lsid:ipni.org:names:18667-1,wfo-4000028000,4117623,,
+5b910a5a-8fcd-11eb-924d-9cd76263cbd0,species,novae-hollandiae,Paractaenum,,P.Beauv.,0,1812,,"Ess. Agrostogr. : 47 (1812)",,,,,,urn:lsid:ipni.org:names:413692-1,wfo-0000887083,4117638,,
+63e5a1d0-1d4d-11ec-82c2-f14daa6f2d93,subspecies,novae-hollandiae,Paractaenum,novae-hollandiae,P.Beauv.,,,,"Australian Paniceae (Poaceae) 1987",,,,,,urn:lsid:ipni.org:names:129259-3,wfo-0001367368,,,
+5b9126b6-8fcd-11eb-924d-9cd76263cbd0,subspecies,reversum,Paractaenum,novae-hollandiae,"(F.Muell.) R.D.Webster",0,1987,,"Austral. Paniceae : 147 (1987)",,,,5b1c4256-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:953308-1,wfo-0000887084,4117637,,
+5b914088-8fcd-11eb-924d-9cd76263cbd0,species,refractum,Paractaenum,,"(F.Muell.) R.D.Webster",0,1987,,"Austral. Paniceae : 148 (1987)",,,,,,urn:lsid:ipni.org:names:943734-1,wfo-0000887085,4117622,,

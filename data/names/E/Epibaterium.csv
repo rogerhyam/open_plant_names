@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e35bd966-8fd1-11eb-924d-9cd76263cbd0,genus,Epibaterium,,,"J.R.Forst. & G.Forst.","Q213570,Q58062",1775,,"Charact. Gen. , t. 54. 1775.",,,,,,,wfo-4000013567,7268728,,
-c1ae34b6-8fcd-11eb-924d-9cd76263cbd0,species,carolinum,Epibaterium,,"(L.) Britton","Q1043,Q553714",1913,,"Ill. Fl. N. U.S. (ed. 2) 2: 131 1913",,,,c1b6da4e-8fcd-11eb-924d-9cd76263cbd0,,91155-2,wfo-0001083891,3033942,,
-eecd956e-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Epibaterium,,"(DC.) Tidestr.","Q123057,Q3156258",1935,,"Proc. Biol. Soc. Wash. 48: 39 1935",,,,,,91156-2,wfo-0000668533,3830176,,
-eecdb288-8fcc-11eb-924d-9cd76263cbd0,species,pendulum,Epibaterium,,"J.R.Forst. & G.Forst.","Q213570,Q58062",1775,,"Char. Gen. Pl. 54 1775",,,,,,580801-1,wfo-0000668534,3830156,,
-eecdd178-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Epibaterium,,Raeusch.,Q3057319,1797,,"Nomencl. Bot. ed. 3: 275 1797",,,,,,580802-1,wfo-0000668535,3830150,,
-eecded3e-8fcc-11eb-924d-9cd76263cbd0,species,tomentosum,Epibaterium,,Pers.,Q346451,1807,,"Syn. Pl. 2: 561 1807",,,,,,580803-1,wfo-0000668536,3830140,,
+e35bd966-8fd1-11eb-924d-9cd76263cbd0,genus,Epibaterium,,,"J.R.Forst. & G.Forst.",0,1775,,"Char. Gen. Pl. : 107 (1776)",,,,,,urn:lsid:ipni.org:names:26930-1,wfo-4000013567,7268728,,
+c1ae34b6-8fcd-11eb-924d-9cd76263cbd0,species,carolinum,Epibaterium,,Britton,0,1913,,"Ill. Fl. N. U.S. , ed. 2, 2: 131 (1913)",,,,c1b6da4e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:91155-2,wfo-0001083891,3033942,,
+eecd956e-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Epibaterium,,Tidestr.,0,1935,,"Proc. Biol. Soc. Washington 48: 39 (1935)",,,,,,urn:lsid:ipni.org:names:91156-2,wfo-0000668533,3830176,,
+eecdb288-8fcc-11eb-924d-9cd76263cbd0,species,pendulum,Epibaterium,,"J.R.Forst. & G.Forst.",0,1775,,"Char. Gen. Pl. 54. 1775 [29 Nov 1775]",,,,,,urn:lsid:ipni.org:names:580801-1,wfo-0000668534,3830156,,
+eecdd178-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Epibaterium,,Raeusch.,0,1797,,"Nomencl. Bot. , ed. 3: 275 (1797)",,,,,,urn:lsid:ipni.org:names:580802-1,wfo-0000668535,3830150,,
+eecded3e-8fcc-11eb-924d-9cd76263cbd0,species,tomentosum,Epibaterium,,Pers.,0,1807,,"Syn. Pl. 2: 561 (1807)",,,,,,urn:lsid:ipni.org:names:580803-1,wfo-0000668536,3830140,,

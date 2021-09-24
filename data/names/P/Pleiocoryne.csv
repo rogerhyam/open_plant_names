@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b39340-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiocoryne,,,Rauschert,Q3326939,1982,,"Taxon 31: 561. 1982.",,Q28955334,,,,893568-1,wfo-4000030237,2898575,,
-f743f5e0-8fcb-11eb-924d-9cd76263cbd0,species,fernandensis,Pleiocoryne,,"(Hiern) Rauschert","Q3568881,Q3326939",1982,,"Taxon 31: 561 1982",,Q28955334,,8d3fbeca-8fcd-11eb-924d-9cd76263cbd0,,911121-1,wfo-0000276337,2898576,,
+e8b39340-8fd1-11eb-924d-9cd76263cbd0,genus,Pleiocoryne,,,Rauschert,0,1982,,"Taxon 31: 561 (1982)",,Q28955334,,,,urn:lsid:ipni.org:names:893568-1,wfo-4000030237,2898575,,
+f743f5e0-8fcb-11eb-924d-9cd76263cbd0,species,fernandensis,Pleiocoryne,,"(Hiern) Rauschert",0,1982,,"Taxon 31: 561 (1982)",,Q28955334,,8d3fbeca-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:911121-1,wfo-0000276337,2898576,,
+7e4bb078-1d4d-11ec-82c2-f14daa6f2d93,variety,pobeguinii,Pleiocoryne,fernandensis,"(N.Hallé) J.-P.Lebrun & Stork",,,,"Énum. Pl. Fleurs Afr. Trop. 4: 197. 1997",,,,,,urn:lsid:ipni.org:names:997906-1,wfo-0001402597,,,

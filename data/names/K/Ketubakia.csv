@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a817bf7c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ketubakia,,,"Kamat, Varghese & V.G. Rao",,1987,,"Nova Hedwigia 44(3-4): 519 (1987)",,,,a817bf7c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,11110," "
 38e78b2e-9bac-11eb-a8a2-19ed5c03f8d3,species,indica,Ketubakia,,"Kamat, Varghese & V.G. Rao",,1987,,"in Varghese & Rao, Nova Hedwigia 44(3-4): 520 (1987)",,,,38e78b2e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,131909,"  Isotype IMI 204508"
-3cba47a4-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Keumkangsania,,"(Nakai) Kim","Q704751,Q36574686",1976,,"Fl. Coreana 6: 94 1976",,,,,,,wfo-0000820850,3166595,,
-450a3ad6-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Keumkangsania,,"(Nakai) Kim","Q704751,Q36574686",1976,,"Fl. Coreana 6: 95 1976",,,,42886c10-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000838835,3166593,,
-f310a77e-8fcc-11eb-924d-9cd76263cbd0,species,odora,Keura,,Thunb.,Q39658,1781,,"Nov. Gen. Pl. 26 1781",,,,,,670656-1,wfo-0000675810,2861667,,
-f3107344-8fcc-11eb-924d-9cd76263cbd0,species,odorifera,Keura,,Forssk.,Q27684,1775,,"Fl. Aegypt.-Arab. 172 1775",,Q5862701,,,,670657-1,wfo-0000675808,2861679,,
+3cba47a4-8fcd-11eb-924d-9cd76263cbd0,species,asiatica,Keumkangsania,,"(Nakai) Kim",0,1976,,"Fl. Coreana 6: 94 1976",,,,,,,wfo-0000820850,3166595,,
+450a3ad6-8fcd-11eb-924d-9cd76263cbd0,species,latisepala,Keumkangsania,,"(Nakai) Kim",0,1976,,"Fl. Coreana 6: 95 1976",,,,42886c10-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000838835,3166593,,
+f310a77e-8fcc-11eb-924d-9cd76263cbd0,species,odora,Keura,,Thunb.,0,1781,,"Nov. Gen. Pl. : 26 (1781)",,,,,,urn:lsid:ipni.org:names:670656-1,wfo-0000675810,2861667,,
+f3107344-8fcc-11eb-924d-9cd76263cbd0,species,odorifera,Keura,,Forssk.,0,1775,,"Fl. Aegypt.-Arab. : 172 (1775)",,Q5862701,,,,urn:lsid:ipni.org:names:670657-1,wfo-0000675808,2861679,,

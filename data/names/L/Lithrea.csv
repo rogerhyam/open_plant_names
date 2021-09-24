@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e600012e-8fd1-11eb-924d-9cd76263cbd0,genus,Lithrea,,,,,,,,,,,,,,wfo-4000021993,,,
-b3105ab0-8fcd-11eb-924d-9cd76263cbd0,species,caustica,Lithrea,,"Hook. & Arn.","Q472639,Q730292",,,,,,,,,,wfo-0001050710,7321573,,
-302cbb76-8fcc-11eb-924d-9cd76263cbd0,variety,pilosa,Lithrea,caustica,Engl.,Q60718,1876,,"Fl. Bras. 12(2): 396 1876",,,,,,,wfo-0000367487,3660190,,
+e600012e-8fd1-11eb-924d-9cd76263cbd0,genus,Lithrea,,,Miers,,,,"Trav. Chile 2: 529 (1826)",,,,,,urn:lsid:ipni.org:names:1837-1,wfo-4000021993,,,
+b3105ab0-8fcd-11eb-924d-9cd76263cbd0,species,caustica,Lithrea,,"Hook. & Arn.",0,,,,,,,,,urn:lsid:ipni.org:names:30342432-2,wfo-0001050710,7321573,,

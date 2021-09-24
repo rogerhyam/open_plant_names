@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a14138ea-9bad-11eb-a8a2-19ed5c03f8d3,genus,Rossmania,,,"Lar.N. Vassiljeva",,2001,,"Mycoscience 42(4): 401 (2001)",,,,a14138ea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28578," "
-c7dd201e-9bac-11eb-a8a2-19ed5c03f8d3,species,aculeata,Rossmania,,"(Petch) Lar.N. Vassiljeva",Q7817222,2001,,"Mycoscience 42(4): 401 (2001)",,,,b2f52a10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,474174," "
+c7dd201e-9bac-11eb-a8a2-19ed5c03f8d3,species,aculeata,Rossmania,,"(Petch) Lar.N. Vassiljeva",0,2001,,"Mycoscience 42(4): 401 (2001)",,,,b2f52a10-9bad-11eb-a8a2-19ed5c03f8d3,,,,,474174," "
 6d621f30-9bad-11eb-a8a2-19ed5c03f8d3,species,ukurunduensis,Rossmania,,"Lar.N. Vassiljeva",,2001,,"Mycoscience 42(4): 401 (2001)",,,,6d621f30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,474633," "
-3d6bf6d4-8fcd-11eb-924d-9cd76263cbd0,species,repens,Rossmannia,,Klotzsch,Q67003,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 219 1855",,,,,,,wfo-0000822234,4157855,,
-050975b0-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Rossolis,,"(L.) Moench","Q1043,Q60948",1794,,"Methodus 57 1794",,,,,,322014-1,wfo-0000298090,3191045,,
-0509961c-8fcc-11eb-924d-9cd76263cbd0,species,septentrionalis,Rossolis,,Scop.,Q84181,1771,,"Fl. Carniol. ed. 2, 1: 232 1771",,,,,,322015-1,wfo-0000298091,3191032,,
+3d6bf6d4-8fcd-11eb-924d-9cd76263cbd0,species,repens,Rossmannia,,Klotzsch,0,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 219 (1855)",,,,,,urn:lsid:ipni.org:names:106287-1,wfo-0000822234,4157855,,
+050975b0-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Rossolis,,Moench,0,1794,,"Methodus : 57 (1794)",,,,,,urn:lsid:ipni.org:names:322014-1,wfo-0000298090,3191045,,
+0509961c-8fcc-11eb-924d-9cd76263cbd0,species,septentrionalis,Rossolis,,Scop.,0,1771,,"Fl. Carniol. , ed. 2, 1: 232 (1771)",,,,,,urn:lsid:ipni.org:names:322015-1,wfo-0000298091,3191032,,

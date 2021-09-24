@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1653f80-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalopactis,,,"Asch. & Graebn.","Q61290,Q67753",1907,,"Syn. Mitteleur. Fl. 3: 833. 1907.",,,,,,28983-1,wfo-4000007265,2832399,,
-aeb4ac1a-8fd1-11eb-924d-9cd76263cbd0,species,hybrida,Cephalopactis,,Domin,Q1109649,1927,,"Vĕstn. Král. Ceské Společn. Nauk, TY. Mat.-PYír. 13: 4 1927",,,,,,622419-1,wfo-0001222180,2832404,,
+e1653f80-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalopactis,,,"Asch. & Graebn.",0,1907,,"Syn. Mitteleur. Fl. 3: 883 (1907)",,,,,,urn:lsid:ipni.org:names:28983-1,wfo-4000007265,2832399,,
+414ac15e-8fcd-11eb-924d-9cd76263cbd0,species,hybrida,Cephalopactis,,"(Jáv.) Domin",0,1926,,"Sitzungsber. Königl. Böhm. Ges. Wiss., Math.-Naturwiss. Cl. 13: 4 (1926 publ. 1927)",,,,921408fc-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:622419-1,wfo-0000830643,,,
+aeb4ac1a-8fd1-11eb-924d-9cd76263cbd0,species,hybrida,Cephalopactis,,Domin,0,1927,,"Sitzungsber. Königl. Böhm. Ges. Wiss., Math.-Naturwiss. Cl. 13: 4 (1926 publ. 1927)",,,,,,urn:lsid:ipni.org:names:622419-1,wfo-0001222180,2832404,,
+414be30e-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Cephalopactis,,"(Wettst.) Asch. & Graebn.",0,1907,,"Syn. Mitteleur. Fl. 3: 883 (1907)",,,,847efc1a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:622420-1,wfo-0000830653,,,
+491d9862-1d4d-11ec-82c2-f14daa6f2d93,species,speciosa,Cephalopactis,,"Asch. & Graebn.",,,,"Syn. Mitteleur. Fl. 3: 883 (1907)",,,,,,urn:lsid:ipni.org:names:622420-1,wfo-0001331210,,,

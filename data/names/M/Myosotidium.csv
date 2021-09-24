@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6fe56a2-8fd1-11eb-924d-9cd76263cbd0,genus,Myosotidium,,,Hook.,Q472639,,,"Bot. Mag. 5137. 1859.",,,,,,4694-1,wfo-4000025091,4059525,,
-cac68e32-8fd1-11eb-924d-9cd76263cbd0,species,hortensia,Myosotidium,,Baill.,Q461931,,,,,,,,,,wfo-0001274102,7226533,,
-307533d8-8fcc-11eb-924d-9cd76263cbd0,species,hortensium,Myosotidium,,"(Decne.) Baill.","Q966069,Q461931",1890,,"Hist. Pl. 10: 333 1890",,,,,,118872-1,wfo-0000367990,,,
-3075569c-8fcc-11eb-924d-9cd76263cbd0,species,nobile,Myosotidium,,"(Hook.f.) Hook.","Q157501,Q472639",,,"Bot. Mag. 85: t. 5137 1859",,,,daf99ac4-8fcc-11eb-924d-9cd76263cbd0,,118873-1,wfo-0000367991,4064875,,
+e6fe56a2-8fd1-11eb-924d-9cd76263cbd0,genus,Myosotidium,,,Hook.,0,,,"Bot. Mag. 85: t. 5137 (1859)",,,,,,urn:lsid:ipni.org:names:4694-1,wfo-4000025091,4059525,,
+cac68e32-8fd1-11eb-924d-9cd76263cbd0,species,hortensia,Myosotidium,,"(Decne.) Baill.",0,,,"Hist. Pl. 10: 333 (1890)",,,,,,urn:lsid:ipni.org:names:118872-1,wfo-0001274102,7226533,,
+307533d8-8fcc-11eb-924d-9cd76263cbd0,species,hortensium,Myosotidium,,"(Decne.) Baill.",0,1890,,"Hist. Pl. 10: 333 (1890)",,,,,,urn:lsid:ipni.org:names:118872-1,wfo-0000367990,,,
+3075569c-8fcc-11eb-924d-9cd76263cbd0,species,nobile,Myosotidium,,"(Hook.f.) Hook.",0,,,"Bot. Mag. 85: t. 5137 (1859)",,,,daf99ac4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:118873-1,wfo-0000367991,4064875,,

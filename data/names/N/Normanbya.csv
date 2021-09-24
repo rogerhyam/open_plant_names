@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7595a48-8fd1-11eb-924d-9cd76263cbd0,genus,Normanbya,,,"F.Muell. ex Becc.","Q708002,Q361037",1885,,"Ann. Jard. Bot. Buitenzorg 2: 91, 170, 171. 1885.",,,,,,31393-1,wfo-4000026230,8276921,,
-e7fc58b6-8fcb-11eb-924d-9cd76263cbd0,species,australasicus,Normanbya,,"(H.Wendl. & Drude) Baill.","Q66720,Q63040,Q461931",1895,,"Hist. Pl. 13: 364 1895",,,,,,,wfo-0000252063,2734019,,
-e7fc7864-8fcb-11eb-924d-9cd76263cbd0,species,merrillii,Normanbya,,Becc.,Q361037,1909,,"Philipp. J. Sci., C 4: 606 1909",,,,,,668413-1,wfo-0000252064,2738436,,
-e7fc9650-8fcb-11eb-924d-9cd76263cbd0,species,muelleri,Normanbya,,Becc.,Q361037,1885,,"Ann. Jard. Bot. Buitenzorg 2: 171 1885",,,,,,668414-1,wfo-0000252065,2735067,,
-e7fcb126-8fcb-11eb-924d-9cd76263cbd0,species,normanbyi,Normanbya,,"(W.Hill) L.H.Bailey","Q7965146,Q152366",1930,,"Gentes Herb. 2: 188 1930",,,,6848f082-8fcd-11eb-924d-9cd76263cbd0,,668416-1,wfo-0000252066,2735065,,
+e7595a48-8fd1-11eb-924d-9cd76263cbd0,genus,Normanbya,,,F.Muell.,0,1885,,"Ann. Jard. Bot. Buitenzorg 2: 91 (1885)",,,,,,urn:lsid:ipni.org:names:31393-1,wfo-4000026230,8276921,,
+e7fc58b6-8fcb-11eb-924d-9cd76263cbd0,species,australasicus,Normanbya,,"(H.Wendl. & Drude) Baill.",0,1895,,"Hist. Pl. 13: 364 1895",,,,,,,wfo-0000252063,2734019,,
+e7fc7864-8fcb-11eb-924d-9cd76263cbd0,species,merrillii,Normanbya,,Becc.,0,1909,,"Philipp. J. Sci., C 4: 606 (1909)",,,,,,urn:lsid:ipni.org:names:668413-1,wfo-0000252064,2738436,,
+e7fc9650-8fcb-11eb-924d-9cd76263cbd0,species,muelleri,Normanbya,,Becc.,0,1885,,"Ann. Jard. Bot. Buitenzorg 2: 171 (1885)",,,,,,urn:lsid:ipni.org:names:668414-1,wfo-0000252065,2735067,,
+e7fcb126-8fcb-11eb-924d-9cd76263cbd0,species,normanbyi,Normanbya,,L.H.Bailey,0,1930,,"Gentes Herbarum 2: 188 (1930)",,,,6848f082-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:668416-1,wfo-0000252066,2735065,,

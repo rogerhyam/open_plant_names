@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3536f0-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrameles,,,R.Br.,Q155764,1826,,"Narr. Travels Africa 2: 230(App. 25). 1826.",,,,,,14144-1,wfo-4000037927,4205810,,
-bfd018fe-8fd1-11eb-924d-9cd76263cbd0,species,grahamiana,Tetrameles,,"(Nimmo) Wight","Q3185412,Q1375864",1956,,"Icon. Pl. Ind. Orient. , pl. 1956 1840",,,,9f12fdfc-8fcc-11eb-924d-9cd76263cbd0,,316101-1,wfo-0001253696,4205816,,
-cd873a7c-8fd1-11eb-924d-9cd76263cbd0,variety,ceylanica,Tetrameles,grahamiana,A.DC.,Q123807,1864,,"Prodr. 15(1): 412 1864",,,,,,,wfo-0001279003,8368451,,
-4dd86fda-8fcc-11eb-924d-9cd76263cbd0,species,horsfieldii,Tetrameles,,Steud.,Q62821,1841,,"Nomencl. Bot. ed. 2, 2: 671 1841",,,,,,316102-1,wfo-0000407922,4205811,,
-bf9dce62-8fd1-11eb-924d-9cd76263cbd0,species,nudiflora,Tetrameles,,R.Br.,Q155764,1838,,"Pl. Jav. Rar. 79, pl. 17 1838",,,,,,316103-1,wfo-0001253316,4205817,,
-bfd0558a-8fd1-11eb-924d-9cd76263cbd0,species,rufinervis,Tetrameles,,Miq.,Q76742,1859,,"Fl. Ned. Ind. 1(1): 726 1859",,,,,,316104-1,wfo-0001253698,4205813,,
+eb3536f0-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrameles,,,R.Br.,0,1826,,"Narr. Travels Africa : 230 (1826)",,,,,,urn:lsid:ipni.org:names:14144-1,wfo-4000037927,4205810,,
+bfd018fe-8fd1-11eb-924d-9cd76263cbd0,species,grahamiana,Tetrameles,,Wight,0,1956,,"Icon. Pl. Ind. Orient. 6: t. 1956 (1853)",,,,9f12fdfc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:316101-1,wfo-0001253696,4205816,,
+cd873a7c-8fd1-11eb-924d-9cd76263cbd0,variety,ceylanica,Tetrameles,grahamiana,A.DC.,0,1864,,"Prodr. 15(1): 412 1864",,,,,,,wfo-0001279003,8368451,,
+4dd86fda-8fcc-11eb-924d-9cd76263cbd0,species,horsfieldii,Tetrameles,,Steud.,0,1841,,"Nomencl. Bot. , ed. 2, 2: 671 (1841)",,,,,,urn:lsid:ipni.org:names:316102-1,wfo-0000407922,4205811,,
+bf9dce62-8fd1-11eb-924d-9cd76263cbd0,species,nudiflora,Tetrameles,,R.Br.,0,1838,,"Pl. Jav. Rar. : 79 (1838)",,,,,,urn:lsid:ipni.org:names:316103-1,wfo-0001253316,4205817,,
+bfd0558a-8fd1-11eb-924d-9cd76263cbd0,species,rufinervis,Tetrameles,,Miq.,0,1859,,"Fl. Ned. Ind. 1(1): 726 (1856)",,,,,,urn:lsid:ipni.org:names:316104-1,wfo-0001253698,4205813,,

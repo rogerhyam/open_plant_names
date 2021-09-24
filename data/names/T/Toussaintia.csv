@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb6e3162-8fd1-11eb-924d-9cd76263cbd0,genus,Toussaintia,,,Boutique,Q2883140,1951,,"Bull. Jard. Bot. État Bruxelles 21: 97. 1951.",,Q55775738,,,,2150-1,wfo-4000038641,3156631,,
-b9e01876-8fcd-11eb-924d-9cd76263cbd0,species,congolensis,Toussaintia,,Boutique,Q2883140,1951,,"Bull. Jard. Bot. État Brux. 21: 98, t. 1 1951",,Q55775738,,,,75197-1,wfo-0001066138,3156634,,
-b9d1d4a0-8fcd-11eb-924d-9cd76263cbd0,species,hallei,Toussaintia,,"Le Thomas",Q5696466,1967,,"Adansonia ser. 2, 7 (1): 99, t. 1 1967",,Q58837639,,,,75198-1,wfo-0001066006,3156635,,
-b9eaa99e-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Toussaintia,,Verdc.,Q604992,1971,,"Kew Bull. 25: 2 1971",,Q55778426,,,,75199-1,wfo-0001066236,3156633,,
-cc6ab70e-8fd1-11eb-924d-9cd76263cbd0,species,patriciae,Toussaintia,,"Q.Luke & Deroin","Q6094445,Q6145944",2005,,"J. E. African Nat. Hist. 94: 166, f. 1–5 2005",,Q55788505,,,,77070277-1,wfo-0001277023,3156632,,
-7d58a968-8fcd-11eb-924d-9cd76263cbd0,species,toussaintiorum,,,"D.Tyteca & Gathoye","Q5391634,Q5928558",1988,,"Orchidophile (Asnières) 81: 60 1988",,,,,,934519-1,wfo-0000936382,,,
+eb6e3162-8fd1-11eb-924d-9cd76263cbd0,genus,Toussaintia,,,Boutique,0,1951,,"Bull. Jard. Bot. État Bruxelles 21: 97 (1951)",,Q55775738,,,,urn:lsid:ipni.org:names:2150-1,wfo-4000038641,3156631,,
+b9e01876-8fcd-11eb-924d-9cd76263cbd0,species,congolensis,Toussaintia,,Boutique,0,1951,,"Bull. Jard. Bot. État Bruxelles 21: 98 (1951)",,Q55775738,,,,urn:lsid:ipni.org:names:75197-1,wfo-0001066138,3156634,,
+b9d1d4a0-8fcd-11eb-924d-9cd76263cbd0,species,hallei,Toussaintia,,"Le Thomas",0,1967,,"Adansonia , n.s., 7: 99 (1967)",,Q58837639,,,,urn:lsid:ipni.org:names:75198-1,wfo-0001066006,3156635,,
+b9eaa99e-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Toussaintia,,Verdc.,0,1971,,"Kew Bull. 25: 2 (1971)",,Q55778426,,,,urn:lsid:ipni.org:names:75199-1,wfo-0001066236,3156633,,
+cc6ab70e-8fd1-11eb-924d-9cd76263cbd0,species,patriciae,Toussaintia,,"Q.Luke & Deroin",0,2005,,"J. E. Africa Nat. Hist. Soc. Natl. Mus. 94: 166 (2005)",,Q55788505,,,,urn:lsid:ipni.org:names:77070277-1,wfo-0001277023,3156632,,

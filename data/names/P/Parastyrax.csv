@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e803555c-8fd1-11eb-924d-9cd76263cbd0,genus,Parastyrax,,,W.W.Sm.,Q1278792,1920,,"Notes Roy. Bot. Gard. Edinburgh 12(59): 231–232. 1920.",,,,,,,wfo-4000028168,7319954,,
-dc0adfb2-8fcd-11eb-924d-9cd76263cbd0,species,lacei,Parastyrax,,"(W.W.Sm.) W.W.Sm.",Q1278792,1920,,"Notes Roy. Bot. Gard. Edinburgh 12(59): 232 1920",,Q102419238,,,,826633-1,wfo-0001141375,3646810,,
-dc0b05d2-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllus,Parastyrax,,"C.Y.Wu & K.M.Feng","Q534717,Q19828308",1965,,"Rep. Stud. Pl. Trop. Subtrop. Yunnan 1: 28 1965",,,,,,895911-1,wfo-0001141376,3646799,,
+e803555c-8fd1-11eb-924d-9cd76263cbd0,genus,Parastyrax,,,W.W.Sm.,0,1920,,"Notes Roy. Bot. Gard. Edinburgh 12: 231 (1920)",,,,,,urn:lsid:ipni.org:names:38932-1,wfo-4000028168,7319954,,
+dc0adfb2-8fcd-11eb-924d-9cd76263cbd0,species,lacei,Parastyrax,,W.W.Sm.,0,1920,,"Notes Roy. Bot. Gard. Edinburgh 12: 232 (1920)",,Q102419238,,,,urn:lsid:ipni.org:names:826633-1,wfo-0001141375,3646810,,
+dc0b05d2-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllus,Parastyrax,,"C.Y.Wu & K.M.Feng",0,1965,,"Yunnan Trop. Subtrop. Fl. Res. Rep. 1: 28 (1965)",,,,,,urn:lsid:ipni.org:names:895911-1,wfo-0001141376,3646799,,

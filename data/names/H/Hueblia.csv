@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4e2b084-8fd1-11eb-924d-9cd76263cbd0,genus,Hueblia,,,Speta,Q86532,1982,,"Bot. Jahrb. Syst. 103: 22. 1982. (27 Aug 1982)",,,,,,,wfo-4000018375,7333417,,
-ae4f6b24-8fcd-11eb-924d-9cd76263cbd0,species,calycina,Hueblia,,"(Banks & Sol.) Speta","Q153408,Q39789,Q86532",1982,,"Bot. Jahrb. Syst. 103: 22 1982",,,,,,,wfo-0001039864,3742383,,
-0f632668-8fcd-11eb-924d-9cd76263cbd0,species,persica,Hueblia,,"(Chav.) Speta","Q6174203,Q86532",1982,,"Bot. Jahrb. Syst. 103: 27 1982",,,,6a21065c-8fcc-11eb-924d-9cd76263cbd0,,910759-1,wfo-0000725621,3742376,,
-ae9033da-8fd1-11eb-924d-9cd76263cbd0,species,cuneipetala,Huebneria,,"(Pabst) Brieger","Q713005,Q2314714",1976,,"Orchideen 8(29–32): 481 1976",,,,ed90cc94-8fcb-11eb-924d-9cd76263cbd0,,639009-1,wfo-0001221911,5542157,,
-e989e7d6-8fc9-11eb-924d-9cd76263cbd0,species,yauaperyensis,Huebneria,,"(Barb.Rodr.) Schltr.","Q45374,Q62278",1925,,"Beih. Bot. Centralbl. 42(2): 97 1925",,,,,,124384-2,wfo-0000215289,5323343,,
+e4e2b084-8fd1-11eb-924d-9cd76263cbd0,genus,Hueblia,,,Speta,0,1982,,"Bot. Jahrb. Syst. 103: 22 (1982)",,,,,,urn:lsid:ipni.org:names:893176-1,wfo-4000018375,7333417,,
+ae4f6b24-8fcd-11eb-924d-9cd76263cbd0,species,calycina,Hueblia,,"(Banks & Sol.) Speta",0,1982,,"Bot. Jahrb. Syst. 103: 23 (1982)",,,,,,urn:lsid:ipni.org:names:910758-1,wfo-0001039864,3742383,,
+0f632668-8fcd-11eb-924d-9cd76263cbd0,species,persica,Hueblia,,"(Chav.) Speta",0,1982,,"Bot. Jahrb. Syst. 103: 27 (1982)",,,,6a21065c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:910759-1,wfo-0000725621,3742376,,
+ae9033da-8fd1-11eb-924d-9cd76263cbd0,species,cuneipetala,Huebneria,,"(Pabst) Brieger",0,1976,,"Orchideen (Schlechter) 8(29-32): 481, without basionym ref. 1976",,,,ed90cc94-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:639009-1,wfo-0001221911,5542157,,
+5728b856-1d4d-11ec-82c2-f14daa6f2d93,species,pleurostachys,Huebneria,,"(Linden & Rchb.f.) Brieger",,,,,,,,,,urn:lsid:ipni.org:names:1171457-2,wfo-0001349916,,,
+e989e7d6-8fc9-11eb-924d-9cd76263cbd0,species,yauaperyensis,Huebneria,,Schltr.,0,1925,,"Beih. Bot. Centralbl. 42(2): 97 (1925)",,,,,,urn:lsid:ipni.org:names:124384-2,wfo-0000215289,5323343,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea9b50ee-8fd1-11eb-924d-9cd76263cbd0,genus,Spheneria,,,Kuhlm.,Q3113183,1922,,"Comm. Lin. Telegr., Bot. 67(11): 57, t. 4. 1922. (3 Mar 1922)",,,,,,296141-2,wfo-4000036033,4153666,,
-64b5a622-8fcd-11eb-924d-9cd76263cbd0,species,kegelii,Spheneria,,"(C.Muell.) Pilg.","Q33685674,Q71132",1929,,"Repert. Spec. Nov. Regni Veg. 26: 228 1929",,,,5bec24e4-8fcd-11eb-924d-9cd76263cbd0,,422486-1,wfo-0000900784,4153680,,
-64b666ac-8fcd-11eb-924d-9cd76263cbd0,species,setifolia,Spheneria,,"(Döll) Kuhlm.","Q86721,Q3113183",1922,,"Relat. Commiss. Linhas Telegr. Estratég. Matto Grosso Amazonas 5(11): 57 1922",,,,,,242027-2,wfo-0000900785,4153665,,
-3c9a5d22-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Sphenista,,"(Pers.) Raf.","Q346451,Q364857",1838,,"Sylva Tellur. 91 1838",,,,,,742068-1,wfo-0000820612,3745329,,
-bb029332-8fcd-11eb-924d-9cd76263cbd0,species,eryngioides,Sphenocarpus,,Korovin,Q3061578,,,,,,,,,,wfo-0001068790,6027051,,
-0e6ea8b4-8fcc-11eb-924d-9cd76263cbd0,species,pterocarpus,Sphenocarpus,,"(Roxb.) K.Koch","Q748967,Q65130",1853,,"Hort. Dendrol. 5: 1 1853",,,,,,555117-1,wfo-0000312937,5406966,,
+ea9b50ee-8fd1-11eb-924d-9cd76263cbd0,genus,Spheneria,,,Kuhlm.,0,1922,,"Relat. Commiss. Linhas Telegr. Estratég. Matto Grosso Amazonas 5(11): 57 (1922)",,,,,,urn:lsid:ipni.org:names:296141-2,wfo-4000036033,4153666,,
+64b5a622-8fcd-11eb-924d-9cd76263cbd0,species,kegelii,Spheneria,,Pilg.,0,1929,,"Repert. Spec. Nov. Regni Veg. 26: 228. 1929",,,,5bec24e4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:422486-1,wfo-0000900784,4153680,,
+64b666ac-8fcd-11eb-924d-9cd76263cbd0,species,setifolia,Spheneria,,Kuhlm.,0,1922,,"Relat. Commiss. Linhas Telegr. Estratég. Matto Grosso Amazonas 5(11): 57 (1922)",,,,,,urn:lsid:ipni.org:names:242027-2,wfo-0000900785,4153665,,
+3c9a5d22-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Sphenista,,Raf.,0,1838,,"Sylva Tellur. : 91 (1838)",,,,,,urn:lsid:ipni.org:names:742068-1,wfo-0000820612,3745329,,
+bb029332-8fcd-11eb-924d-9cd76263cbd0,species,eryngioides,Sphenocarpus,,Korovin,0,,,"Bot. Mater. Gerb. Inst. Bot. Zool. Akad. Nauk Uzbeksk. S.S.R. 8: 23 (1947)",,,,,,urn:lsid:ipni.org:names:849164-1,wfo-0001068790,6027051,,
+0e6ea8b4-8fcc-11eb-924d-9cd76263cbd0,species,pterocarpus,Sphenocarpus,,K.Koch,0,1853,,"Hort. Dendrol. : 5 (1853)",,,,,,urn:lsid:ipni.org:names:555117-1,wfo-0000312937,5406966,,

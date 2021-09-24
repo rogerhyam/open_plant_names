@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb9560fc-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonobalanus,,,Forman,Q5974166,1962,,"Taxon 11: 140. 1962.",,,,,,16078-1,wfo-4000039153,2876665,,
-181898de-8fcc-11eb-924d-9cd76263cbd0,species,doichangensis,Trigonobalanus,,"(A.Camus) Forman","Q272128,Q5974166",1964,,"Kew Bull. 17: 387 1964",,Q55783049,,008f758e-8fcc-11eb-924d-9cd76263cbd0,,360429-1,wfo-0000328176,2876667,,
-1818be22-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Trigonobalanus,,"Lozano, Hern.Cam. & Henao","Q5621434,Q19681066,Q33675795",1979,,"Caldasia 12(60): 519 1979",,Q95139821,,,,286355-2,wfo-0000328177,2876671,,
-1818f93c-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Trigonobalanus,,Forman,Q5974166,1962,,"Taxon 11: 140 1962",,,,,,360431-1,wfo-0000328178,2876666,,
+eb9560fc-8fd1-11eb-924d-9cd76263cbd0,genus,Trigonobalanus,,,Forman,0,1962,,"Taxon 11: 140 (1962)",,,,,,urn:lsid:ipni.org:names:16078-1,wfo-4000039153,2876665,,
+181898de-8fcc-11eb-924d-9cd76263cbd0,species,doichangensis,Trigonobalanus,,"(A.Camus) Forman",0,1964,,"Kew Bull. 17: 387 (1964)",,Q55783049,,008f758e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:360429-1,wfo-0000328176,2876667,,
+1818be22-8fcc-11eb-924d-9cd76263cbd0,species,excelsa,Trigonobalanus,,"Lozano, Hern.Cam. & Henao",0,1979,,"Caldasia 12: 519 (1979)",,Q95139821,,,,urn:lsid:ipni.org:names:286355-2,wfo-0000328177,2876671,,
+1818f93c-8fcc-11eb-924d-9cd76263cbd0,species,verticillata,Trigonobalanus,,Forman,0,1962,,"Taxon 11: 140 (1962)",,,,,,urn:lsid:ipni.org:names:360431-1,wfo-0000328178,2876666,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5a730ee-8fd1-11eb-924d-9cd76263cbd0,genus,Ledodendron,,,,,,,,,,,,,,wfo-4000020868,2882811,,
-b85df686-8fd1-11eb-924d-9cd76263cbd0,species,vanhoeffeni,Ledodendron,,"Dalgaard & Fredskild","Q21509731,Q36515724",,,,,,,,,,wfo-0001239920,4925802,,
-2e3a13b8-8fcc-11eb-924d-9cd76263cbd0,species,vanhoeffenii,Ledodendron,,"(Abrom.) Dalgaard & Fredskild","Q73227,Q21509731,Q36515724",1993,,"Nordic J. Bot. 13: 255 1993",,Q55761553,,b1c7279c-8fcd-11eb-924d-9cd76263cbd0,,972941-1,wfo-0000364537,,,
+e5a730ee-8fd1-11eb-924d-9cd76263cbd0,genus,Ledodendron,,,,,,,,,,,,,urn:lsid:ipni.org:names:50979825-1,wfo-4000020868,2882811,,
+b85df686-8fd1-11eb-924d-9cd76263cbd0,species,vanhoeffeni,Ledodendron,,"Dalgaard & Fredskild",0,,,,,,,,,,wfo-0001239920,4925802,,
+2e3a13b8-8fcc-11eb-924d-9cd76263cbd0,species,vanhoeffenii,Ledodendron,,"(Abrom.) Dalgaard & B.Fredskild",0,1993,,"Nordic J. Bot. 13: 255 (1993)",,Q55761553,,b1c7279c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:972941-1,wfo-0000364537,,,

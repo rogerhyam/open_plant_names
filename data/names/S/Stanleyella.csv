@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eab051a6-8fd1-11eb-924d-9cd76263cbd0,genus,Stanleyella,,,Rydb.,Q1905130,1907,,"Bull. Torrey Bot. Club 34(8): 435. 1907.",,,,,,,wfo-4000036280,3043048,,
-b9a05f20-8fd1-11eb-924d-9cd76263cbd0,species,texana,Stanleyella,,"(Cory) Rollins","Q6161483,Q3423003",1939,,"Madroño 5(4): 134 1939",,Q93975743,,,,298805-2,wfo-0001242207,3053581,,
-b3b715ea-8fd1-11eb-924d-9cd76263cbd0,species,wrightii,Stanleyella,,"(A.Gray) Rydb.","Q347356,Q1905130",1907,,"Bull. Torrey Bot. Club 34(8): 435 1907",,Q55766972,,,,298806-2,wfo-0001231332,3053634,,
-b8f50aee-8fd1-11eb-924d-9cd76263cbd0,variety,tenella,Stanleyella,wrightii,"(M.E.Jones) Payson","Q680696,Q5820043",1922,,"Ann. Missouri Bot. Gard. 9(3): 317 1922",,Q55772665,,,,298807-2,wfo-0001241018,4272740,,
+eab051a6-8fd1-11eb-924d-9cd76263cbd0,genus,Stanleyella,,,Rydb.,0,1907,,"Bull. Torrey Bot. Club 34: 435 (1907)",,,,,,urn:lsid:ipni.org:names:298804-2,wfo-4000036280,3043048,,
+b9a05f20-8fd1-11eb-924d-9cd76263cbd0,species,texana,Stanleyella,,"(Cory) Rollins",0,1939,,"Madroño 5: 134. 1939",,Q93975743,,,,urn:lsid:ipni.org:names:298805-2,wfo-0001242207,3053581,,
+b3b715ea-8fd1-11eb-924d-9cd76263cbd0,species,wrightii,Stanleyella,,Rydb.,0,1907,,"Bull. Torrey Bot. Club 34: 435 (1907)",,Q55766972,,,,urn:lsid:ipni.org:names:298806-2,wfo-0001231332,3053634,,
+b8f50aee-8fd1-11eb-924d-9cd76263cbd0,variety,tenellum,Stanleyella,wrightii,Payson,0,1922,,"Ann. Missouri Bot. Gard. 9: 317 (1922)",,Q55772665,,,,urn:lsid:ipni.org:names:298807-2,wfo-0001241018,4272740,,

@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0cd463a-8fd1-11eb-924d-9cd76263cbd0,genus,Brasiliocroton,,,"P.E.Berry & Cordeiro","Q6067165,Q16298495",2005,,"Syst. Bot. 30(2): 357. 2005.",,Q54561060,,,,60438502-2,wfo-4000005332,3072688,,
-2f2640d4-8fcd-11eb-924d-9cd76263cbd0,species,mamoninha,Brasiliocroton,,"P.E.Berry & Cordeiro","Q6067165,Q16298495",2005,,"Syst. Bot. 30: 357 2005",,,,,,,wfo-0000791849,3072689,,
+e0cd463a-8fd1-11eb-924d-9cd76263cbd0,genus,Brasiliocroton,,,"P.E.Berry & Cordeiro",0,2005,,"Syst. Bot. 30: 357 (2005)",,Q54561060,,,,urn:lsid:ipni.org:names:60438502-2,wfo-4000005332,3072688,,
+2f2640d4-8fcd-11eb-924d-9cd76263cbd0,species,mamoninha,Brasiliocroton,,"P.E.Berry & Cordeiro",0,2005,,"Syst. Bot. 30: 357 (2005)",,,,,,urn:lsid:ipni.org:names:60438503-2,wfo-0000791849,3072689,,
+3f3499ea-1d4d-11ec-82c2-f14daa6f2d93,species,muricatus,Brasiliocroton,,"Riina & Cordeiro",,,,"Syst. Bot. 39: 230 (2014)",,,,,,urn:lsid:ipni.org:names:77142528-1,wfo-0001317724,,,

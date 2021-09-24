@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a702e6d4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Amidella,,,"E.-J. Gilbert",,1940,,"in Bresadola, Icon. Mycol. (Paris) 27: 71, 77 (1940)",,,,a702e6d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17059," "
-e85b6aa8-9bac-11eb-a8a2-19ed5c03f8d3,species,abruptiformis,Amidella,,"(Murrill) E.-J. Gilbert",Q2170251,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,a4f2fb5a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284126," "
-e85bb242-9bac-11eb-a8a2-19ed5c03f8d3,species,angustispora,Amidella,,"(Cleland) E.-J. Gilbert",Q4223546,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,12509f00-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284127," "
+e85b6aa8-9bac-11eb-a8a2-19ed5c03f8d3,species,abruptiformis,Amidella,,"(Murrill) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,a4f2fb5a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284126," "
+e85bb242-9bac-11eb-a8a2-19ed5c03f8d3,species,angustispora,Amidella,,"(Cleland) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,12509f00-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284127," "
 e85bf7e8-9bac-11eb-a8a2-19ed5c03f8d3,species,clarisquamosa,Amidella,,"(S. Imai) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,d6fabaac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284128," "
 e85c3320-9bac-11eb-a8a2-19ed5c03f8d3,species,clelandii,Amidella,,"(E.-J. Gilbert) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,e84ac964-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284129," "
 e85c6674-9bac-11eb-a8a2-19ed5c03f8d3,species,curtipes,Amidella,,"(E.-J. Gilbert) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,e84b384a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284130," "
@@ -11,19 +11,19 @@ e85e8526-9bac-11eb-a8a2-19ed5c03f8d3,species,goossensiae,Amidella,,"(Beeli) E.-J
 2a8be628-9bad-11eb-a8a2-19ed5c03f8d3,form,fulvosquamulosa,Amidella,goossensiae,"(Beeli) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,99b85366-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345968," "
 51eecc76-9bad-11eb-a8a2-19ed5c03f8d3,form,goossensiae,Amidella,goossensiae,"(Beeli) E.-J. Gilbert",,,,,,,,51eecc76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425488," "
 e85f3e12-9bac-11eb-a8a2-19ed5c03f8d3,species,irreperta,Amidella,,"(E.-J. Gilbert) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,e84be024-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284134," "
-e85f9e20-9bac-11eb-a8a2-19ed5c03f8d3,species,lepiotoides,Amidella,,"(Barla) E.-J. Gilbert",Q2415098,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,5eebc4de-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284135," "
-b898cde2-9bac-11eb-a8a2-19ed5c03f8d3,form,lepiotoides,Amidella,lepiotoides,"(Barla) E.-J. Gilbert",Q2415098,,,,,,,b898cde2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,428930," "
+e85f9e20-9bac-11eb-a8a2-19ed5c03f8d3,species,lepiotoides,Amidella,,"(Barla) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,5eebc4de-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284135," "
+b898cde2-9bac-11eb-a8a2-19ed5c03f8d3,form,lepiotoides,Amidella,lepiotoides,"(Barla) E.-J. Gilbert",0,,,,,,,b898cde2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,428930," "
 a9069ad4-9bad-11eb-a8a2-19ed5c03f8d3,form,valens,Amidella,lepiotoides,"E.-J. Gilbert",,,,,,,,a9069ad4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,351646," "
 e85fdfc0-9bac-11eb-a8a2-19ed5c03f8d3,species,olivacea,Amidella,,"(Beeli) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,65758736-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284136," "
-e8601ecc-9bac-11eb-a8a2-19ed5c03f8d3,species,ovoidea,Amidella,,"(Bull.) E.-J. Gilbert",Q1246173,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,64ffa16a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284137," "
+e8601ecc-9bac-11eb-a8a2-19ed5c03f8d3,species,ovoidea,Amidella,,"(Bull.) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,64ffa16a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284137," "
 e860617a-9bac-11eb-a8a2-19ed5c03f8d3,species,peckiana,Amidella,,"(Kauffman) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,7b7e3532-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284138," "
 af636692-9bac-11eb-a8a2-19ed5c03f8d3,form,peckiana,Amidella,peckiana,"(Kauffman) E.-J. Gilbert",,,,,,,,af636692-9bac-11eb-a8a2-19ed5c03f8d3,,,,,425489," "
-2a8c112a-9bad-11eb-a8a2-19ed5c03f8d3,form,roanokensis,Amidella,peckiana,"(Coker) E.-J. Gilbert",Q2331087,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,c14901d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345969," "
+2a8c112a-9bad-11eb-a8a2-19ed5c03f8d3,form,roanokensis,Amidella,peckiana,"(Coker) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,c14901d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345969," "
 e860b74c-9bac-11eb-a8a2-19ed5c03f8d3,species,strophiolata,Amidella,,"(Beeli) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,63f579fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284139," "
-0cb4bac2-9bac-11eb-a8a2-19ed5c03f8d3,species,sublutea,Amidella,,"(Cleland) E.-J. Gilbert",Q4223546,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,e4f125a6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284140," "
+0cb4bac2-9bac-11eb-a8a2-19ed5c03f8d3,species,sublutea,Amidella,,"(Cleland) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,e4f125a6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284140," "
 e8557580-9bac-11eb-a8a2-19ed5c03f8d3,species,subviscosa,Amidella,,"(Beeli) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,154859be-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284141," "
-0cb50cca-9bac-11eb-a8a2-19ed5c03f8d3,species,volvata,Amidella,,"(Peck) E.-J. Gilbert",Q1064899,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,7faa8822-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284142," "
+0cb50cca-9bac-11eb-a8a2-19ed5c03f8d3,species,volvata,Amidella,,"(Peck) E.-J. Gilbert",0,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,7faa8822-9bac-11eb-a8a2-19ed5c03f8d3,,,,,284142," "
 2a8c3a06-9bad-11eb-a8a2-19ed5c03f8d3,form,avellaneosquamosa,Amidella,volvata,"(S. Imai) E.-J. Gilbert",,1941,,"Iconogr. Mycol. 27(Suppl. 1): 77 (1941)",,,,2a8a944e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,345970," "
-43a1a062-9bad-11eb-a8a2-19ed5c03f8d3,form,volvata,Amidella,volvata,"(Peck) E.-J. Gilbert",Q1064899,,,,,,,43a1a062-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425490," "
-88e025c2-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Amidena,,"(Blume) Raf.","Q76816,Q364857",1838,,"Fl. Tellur. 4: 15 1838",,,,,,84287-1,wfo-0000962129,2866956,,
-88e16c98-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Amidena,,Raf.,Q364857,1840,,"Autik. Bot. 197 1840",,,,,,84288-1,wfo-0000962140,2870027,,
+43a1a062-9bad-11eb-a8a2-19ed5c03f8d3,form,volvata,Amidella,volvata,"(Peck) E.-J. Gilbert",0,,,,,,,43a1a062-9bad-11eb-a8a2-19ed5c03f8d3,,,,,425490," "
+88e025c2-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Amidena,,Raf.,0,1838,,"Fl. Tellur. 4: 15 (1838)",,,,,,urn:lsid:ipni.org:names:84287-1,wfo-0000962129,2866956,,
+88e16c98-8fcd-11eb-924d-9cd76263cbd0,species,undulata,Amidena,,Raf.,0,1840,,"Autik. Bot. : 197 (1840)",,,,,,urn:lsid:ipni.org:names:84288-1,wfo-0000962140,2870027,,

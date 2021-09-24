@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8770ca4-8fd1-11eb-924d-9cd76263cbd0,genus,Physalodes,,,Boehm.,Q66907,1760,,"Nutt. and Nutt., in Ludwig. Defin. (1760) 42, ex Kuntze, Rev. Gen. (1891) 452..",,,,,,,wfo-4000029504,7299658,,
-a7633c8c-8fcd-11eb-924d-9cd76263cbd0,species,peruvianum,Physalodes,,"(Mill.) Kuntze","Q312678,Q62853",1891,,"Kuntze, Kuntze, Kuntze, and (M. ) Kuntze, Revis. Gen. Pl. 2: 452. 1891, 1891.",,,,,,,wfo-0001025062,,,
-a7635744-8fcd-11eb-924d-9cd76263cbd0,species,physalodes,Physalodes,,"(L.) Britton","Q1043,Q553714",1894,,"(L.  ) Britton, Mem. Torrey Bot. Club 4: 142. 1894 as physaloides, 1894.",,,,,,,wfo-0001025063,2928857,,
+e8770ca4-8fd1-11eb-924d-9cd76263cbd0,genus,Physalodes,,,Boehm.,0,1760,,"Nutt. and Nutt., in Ludwig. Defin. (1760) 42, ex Kuntze, Rev. Gen. (1891) 452..",,,,,,urn:lsid:ipni.org:names:38492-1,wfo-4000029504,7299658,,
+a7633c8c-8fcd-11eb-924d-9cd76263cbd0,species,peruvianum,Physalodes,,"(Mill.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 452. 1891.",,,,,,urn:lsid:ipni.org:names:195551-2,wfo-0001025062,,,
+a7635744-8fcd-11eb-924d-9cd76263cbd0,species,physalodes,Physalodes,,"(L.) Britton",0,1894,,"Mem. Torrey Bot. Club 4: 142. 1894 as physaloides",,,,,,urn:lsid:ipni.org:names:195552-2,wfo-0001025063,2928857,,

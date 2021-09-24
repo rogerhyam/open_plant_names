@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1ea24c0-8fd1-11eb-924d-9cd76263cbd0,genus,Coleanthera,,,Stschegl.,Q4528450,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 4. 1859.",,,,,,14541-1,wfo-4000008889,7288576,,
-cf607228-8fcc-11eb-924d-9cd76263cbd0,species,coelophylla,Coleanthera,,"(A.Cunn. ex DC.) Benth.","Q545888,Q123057,Q731808",1868,,"Fl. Austral. 4: 150 1868",,,,,,324927-1,wfo-0000614615,4010756,,
-cf60a04a-8fcc-11eb-924d-9cd76263cbd0,species,myrtoides,Coleanthera,,Stschegl.,Q4528450,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 4 1859",,,,,,324928-1,wfo-0000614616,7288579,,
-cf60dd44-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Coleanthera,,Stschegl.,Q4528450,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1): 5 1859",,,,,,324929-1,wfo-0000614618,4010695,,
+e1ea24c0-8fd1-11eb-924d-9cd76263cbd0,genus,Coleanthera,,,Stschegl.,0,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(I): 4 (1859)",,,,,,urn:lsid:ipni.org:names:14541-1,wfo-4000008889,7288576,,
+cf607228-8fcc-11eb-924d-9cd76263cbd0,species,coelophylla,Coleanthera,,"(A.Cunn. ex DC.) Benth.",0,1868,,"Fl. Austral. 4: 150 (1868)",,,,,,urn:lsid:ipni.org:names:324927-1,wfo-0000614615,4010756,,
+cf60a04a-8fcc-11eb-924d-9cd76263cbd0,species,myrtoides,Coleanthera,,Stschegl.,0,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(1):4. 1859",,,,,,urn:lsid:ipni.org:names:324928-1,wfo-0000614616,7288579,,
+71fa18a0-1d4d-11ec-82c2-f14daa6f2d93,variety,uniflora,Coleanthera,myrtoides,Stschegl.,,,,"Bulletin de la Soci?t? Imp?riale des Naturalistes de Moscou 32(1)  1859",,,,,,urn:lsid:ipni.org:names:85424-3,wfo-0001386480,,,
+cf60dd44-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Coleanthera,,Stschegl.,0,1859,,"Bull. Soc. Imp. Naturalistes Moscou 32(I): 5 (1859)",,,,,,urn:lsid:ipni.org:names:324929-1,wfo-0000614618,4010695,,

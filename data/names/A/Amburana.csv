@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df326b8e-8fd1-11eb-924d-9cd76263cbd0,genus,Amburana,,,"Schwacke & Taubert",Q2938868,,,,,,,,,296650-2,wfo-4000001566,2945820,,
-52e685a6-8fc3-11eb-924d-9cd76263cbd0,species,acreana,Amburana,,"(Ducke) A.C.Sm.","Q2601698,Q1922675",,,,,,,,,,wfo-0000182163,2945824,,
-52fdf9a2-8fc3-11eb-924d-9cd76263cbd0,species,cearensis,Amburana,,"(Allemao) A.C.Sm.",Q1922675,,,,,,,b2ce520a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000182165,2945821,,
-696d36e4-8fc3-11eb-924d-9cd76263cbd0,species,claudii,Amburana,,"Schwacke & Taub.","Q2938868,Q4452735",,,,,,,,,,wfo-0000182669,2945822,,
-9b622fca-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Ambuya,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 98 1838",,,,,,92702-1,wfo-0000530817,3589448,,
+df326b8e-8fd1-11eb-924d-9cd76263cbd0,genus,Amburana,,,"Schwacke & Taub.",0,,,"Nat. Pflanzenfam. 3(3): 387 (1894)",,,,,,urn:lsid:ipni.org:names:296650-2,wfo-4000001566,2945820,,
+52e685a6-8fc3-11eb-924d-9cd76263cbd0,species,acreana,Amburana,,"(Ducke) A.C.Sm.",0,,,"Trop. Woods 62: 30 (1940)",,,,,,urn:lsid:ipni.org:names:11100-2,wfo-0000182163,2945824,,
+52fdf9a2-8fc3-11eb-924d-9cd76263cbd0,species,cearensis,Amburana,,"(Allemão) A.C.Sm.",0,,,"Trop. Woods 62: 30 (1940)",,,,b2ce520a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11101-2,wfo-0000182165,2945821,,
+66106026-1d4d-11ec-82c2-f14daa6f2d93,variety,acreana,Amburana,cearensis,"(Ducke) J.F.Macbr.",,,,"Publ. Field Columb. Mus., Bot. Ser. 13(3): 243 (1943)",,,,,,urn:lsid:ipni.org:names:11102-2,wfo-0001371045,,,
+696d36e4-8fc3-11eb-924d-9cd76263cbd0,species,claudii,Amburana,,"Schwacke & Taub.",0,,,"Nat. Pflanzenfam. 3(3): 387 (1894)",,,,,,urn:lsid:ipni.org:names:11103-2,wfo-0000182669,2945822,,
+402a768a-1d4d-11ec-82c2-f14daa6f2d93,species,erythrosperma,Amburana,,"Seleme, C.H.Stirt. & Mansano",,,,"Phytotaxa 212: 213 (2015)",,,,,,urn:lsid:ipni.org:names:77147580-1,wfo-0001319142,,,
+9b622fca-8fcc-11eb-924d-9cd76263cbd0,species,labiosa,Ambuya,,Raf.,0,1838,,"Fl. Tellur. 4: 98 (1838)",,,,,,urn:lsid:ipni.org:names:92702-1,wfo-0000530817,3589448,,

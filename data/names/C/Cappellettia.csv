@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a21e4ac8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cappellettia,,,"Tomas. & Cif.",Q4516707,1952,,"Arch. Bot. (Forlì) 28: 7 (1952)",,,,a21e4ac8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,812," "
-3937fd1a-9bad-11eb-a8a2-19ed5c03f8d3,species,cupularis,Cappellettia,,"(Hedw.) Tomas. & Cif.","Q64256,Q4516707",,,,,,,8afce3e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365380," "
-39385832-9bad-11eb-a8a2-19ed5c03f8d3,species,flotowii,Cappellettia,,"(Körb.) Tomas. & Cif.",Q4516707,,,,,,,86c7448c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365381," "
-393895e0-9bad-11eb-a8a2-19ed5c03f8d3,species,lecideopsis,Cappellettia,,"(A. Massal.) Tomas. & Cif.",Q4516707,,,,,,,86c9691a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365382," "
-3938c560-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudogeoica,Cappellettia,,"(Anzi) Tomas. & Cif.","Q3850235,Q4516707",1952,,"Arch. Bot. (Forlì) (1952)",,,,4388e810-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365383," "
-3938f814-9bad-11eb-a8a2-19ed5c03f8d3,species,scutellaris,Cappellettia,,"(Bagl. & Carestia) Tomas. & Cif.","Q3749589,Q1111111,Q4516707",,,,,,,86cf8a48-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365384," "
-393925aa-9bad-11eb-a8a2-19ed5c03f8d3,species,subclausa,Cappellettia,,"(Anzi) Tomas. & Cif.","Q3850235,Q4516707",,,,,,,ff87187c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,365385," "
-906d8852-9bad-11eb-a8a2-19ed5c03f8d3,species,thelotremella,Cappellettia,,"(Bagl.) Tomas. & Cif.","Q3749589,Q4516707",,,,,,,438341b2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,403860," "
-7ae5308e-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Capraea,,Opiz,Q55069871,1852,,"Seznam 25 1852",,,,,,776510-1,wfo-0000930824,3804510,,
-7ae54bc8-8fcd-11eb-924d-9cd76263cbd0,species,aurita,Capraea,,Opiz,Q55069871,1852,,"Seznam 25 1852",,,,,,776511-1,wfo-0000930825,3804499,,
-7ae565f4-8fcd-11eb-924d-9cd76263cbd0,species,cinerea,Capraea,,Opiz,Q55069871,1852,,"Seznam 25 1852",,,,,,776512-1,wfo-0000930826,3804489,,
-7ae57fbc-8fcd-11eb-924d-9cd76263cbd0,species,grandifolia,Capraea,,Opiz,Q55069871,1852,,"Seznam 25 1852",,,,,,776513-1,wfo-0000930827,3804483,,
-7ae59e98-8fcd-11eb-924d-9cd76263cbd0,species,vulgaris,Capraea,,Opiz,Q55069871,1852,,"Seznam 25 1852",,,,,,776514-1,wfo-0000930828,3804470,,
+a21e4ac8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cappellettia,,,"Tomas. & Cif.",0,1952,,"Arch. Bot. (Forlì) 28: 7 (1952)",,,,a21e4ac8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,812," "
+3937fd1a-9bad-11eb-a8a2-19ed5c03f8d3,species,cupularis,Cappellettia,,"(Hedw.) Tomas. & Cif.",0,,,,,,,8afce3e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365380," "
+39385832-9bad-11eb-a8a2-19ed5c03f8d3,species,flotowii,Cappellettia,,"(Körb.) Tomas. & Cif.",0,,,,,,,86c7448c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365381," "
+393895e0-9bad-11eb-a8a2-19ed5c03f8d3,species,lecideopsis,Cappellettia,,"(A. Massal.) Tomas. & Cif.",0,,,,,,,86c9691a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365382," "
+3938c560-9bad-11eb-a8a2-19ed5c03f8d3,species,pseudogeoica,Cappellettia,,"(Anzi) Tomas. & Cif.",0,1952,,"Arch. Bot. (Forlì) (1952)",,,,4388e810-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365383," "
+3938f814-9bad-11eb-a8a2-19ed5c03f8d3,species,scutellaris,Cappellettia,,"(Bagl. & Carestia) Tomas. & Cif.",0,,,,,,,86cf8a48-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365384," "
+393925aa-9bad-11eb-a8a2-19ed5c03f8d3,species,subclausa,Cappellettia,,"(Anzi) Tomas. & Cif.",0,,,,,,,ff87187c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,365385," "
+906d8852-9bad-11eb-a8a2-19ed5c03f8d3,species,thelotremella,Cappellettia,,"(Bagl.) Tomas. & Cif.",0,,,,,,,438341b2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,403860," "
+7ae5308e-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Capraea,,Opiz,0,1852,,"Seznam : 25 (1852)",,,,,,urn:lsid:ipni.org:names:776510-1,wfo-0000930824,3804510,,
+7ae54bc8-8fcd-11eb-924d-9cd76263cbd0,species,aurita,Capraea,,Opiz,0,1852,,"Seznam : 25 (1852)",,,,,,urn:lsid:ipni.org:names:776511-1,wfo-0000930825,3804499,,
+7ae565f4-8fcd-11eb-924d-9cd76263cbd0,species,cinerea,Capraea,,Opiz,0,1852,,"Seznam : 25 (1852)",,,,,,urn:lsid:ipni.org:names:776512-1,wfo-0000930826,3804489,,
+7ae57fbc-8fcd-11eb-924d-9cd76263cbd0,species,grandifolia,Capraea,,Opiz,0,1852,,"Seznam 25 (1852).",,,,,,urn:lsid:ipni.org:names:776513-1,wfo-0000930827,3804483,,
+7ae59e98-8fcd-11eb-924d-9cd76263cbd0,species,vulgaris,Capraea,,Opiz,0,1852,,"Seznam : 25 (1852)",,,,,,urn:lsid:ipni.org:names:776514-1,wfo-0000930828,3804470,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e949801c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterogaillonia,,,Lincz.,Q276908,1973,,"Novosti Sist. Vyss{. Rast. 10: 233. 1973.",,,,,,,wfo-4000031965,2900783,,
-c5b5ef64-8fd1-11eb-924d-9cd76263cbd0,species,calycoptera,Pterogaillonia,,Lincz.,Q276908,,,,,,,,,,wfo-0001264566,2900788,,
-ff311daa-8fcb-11eb-924d-9cd76263cbd0,species,calycoptera,Pterogaillonia,,"(Decne.) Linchevskii",Q966069,1973,,"Novosti Sist. Vyssh. Rast. 10: 233 1973",,,,0dfdbe4c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000288378,2900788,,
-ff313e7a-8fcb-11eb-924d-9cd76263cbd0,species,crucianelloides,Pterogaillonia,,"(Jaub. & Spach) Linchevskii","Q1620034,Q274449",1973,,"Novosti Sist. Vyssh. Rast. 10: 235 1973",,,,8b7d307c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000288379,2900784,,
-ff3182cc-8fcb-11eb-924d-9cd76263cbd0,species,stscherbinovskii,Pterogaillonia,,Linchevskii,,1973,,"Novosti Sist. Vyssh. Rast. 10: 234 1973",,,,,,,wfo-0000288380,2900792,,
+e949801c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterogaillonia,,,Lincz.,0,1973,,"Novosti Sist. Vyssh. Rast. 10: 233 (1973)",,,,,,urn:lsid:ipni.org:names:35222-1,wfo-4000031965,2900783,,
+c5b5ef64-8fd1-11eb-924d-9cd76263cbd0,species,calycoptera,Pterogaillonia,,"(Decne.) Lincz.",0,,,"Novosti Sist. Vyssh. Rast. 10: 233 (1973)",,,,,,urn:lsid:ipni.org:names:763865-1,wfo-0001264566,2900788,,
+ff311daa-8fcb-11eb-924d-9cd76263cbd0,species,calycoptera,Pterogaillonia,,"(Decne.) Linchevskii",0,1973,,"Novosti Sist. Vyssh. Rast. 10: 233. 1973",,,,0dfdbe4c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000288378,2900788,,
+ff313e7a-8fcb-11eb-924d-9cd76263cbd0,species,crucianelloides,Pterogaillonia,,"(Jaub. & Spach) Lincz.",0,1973,,"Novosti Sist. Vyssh. Rast. 10: 235 (1973)",,,,8b7d307c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:763866-1,wfo-0000288379,2900784,,
+ff3182cc-8fcb-11eb-924d-9cd76263cbd0,species,stscherbinovskii,Pterogaillonia,,Lincz.,,1973,,"Novosti Sist. Vyssh. Rast. 10: 234 (1973)",,,,,,urn:lsid:ipni.org:names:763867-1,wfo-0000288380,2900792,,

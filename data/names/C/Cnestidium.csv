@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1d9b32e-8fd1-11eb-924d-9cd76263cbd0,genus,Cnestidium,,,Planch.,Q1387276,1850,,"Linnaea 23: 439–440. 1850.",,,,,,11735-1,wfo-4000008692,3686857,,
-ce2fa702-8fcc-11eb-924d-9cd76263cbd0,species,bakerianum,Cnestidium,,"(Britton) Schellenb.","Q553714,Q1579059",1925,,"Candollea 2: 102 1925",,,,,,61746-2,wfo-0000612654,3687109,,
-ce2fc12e-8fcc-11eb-924d-9cd76263cbd0,species,froesii,Cnestidium,,Pires,Q5816173,1954,,"Bol. Técn. Inst. Agron. N. 28: 47 1954",,,,,,61747-2,wfo-0000612655,3687090,,
-ce2fdb32-8fcc-11eb-924d-9cd76263cbd0,species,guianense,Cnestidium,,"(Schellenb.) Schellenb.",Q1579059,1938,,"Pflanzenr. IV, 127: 194 1938",,,,,,61748-2,wfo-0000612656,3687070,,
-ce2ff784-8fcc-11eb-924d-9cd76263cbd0,species,lasiocarpum,Cnestidium,,Baker,Q730330,1871,,"Fl. Bras. 14(2): 195 1871",,,,,,264201-1,wfo-0000612657,3687060,,
-ce30117e-8fcc-11eb-924d-9cd76263cbd0,species,rufescens,Cnestidium,,Planch.,Q1387276,1850,,"Linnaea 23: 440 1850",,,,,,264202-1,wfo-0000612658,3687051,,
+e1d9b32e-8fd1-11eb-924d-9cd76263cbd0,genus,Cnestidium,,,Planch.,0,1850,,"Linnaea 23: 439 (1850)",,,,,,urn:lsid:ipni.org:names:11735-1,wfo-4000008692,3686857,,
+ce2fa702-8fcc-11eb-924d-9cd76263cbd0,species,bakerianum,Cnestidium,,"(Britton) G.Schellenb.",0,1925,,"Candollea 2: 102 (1925)",,,,,,urn:lsid:ipni.org:names:61746-2,wfo-0000612654,3687109,,
+ce2fc12e-8fcc-11eb-924d-9cd76263cbd0,species,froesii,Cnestidium,,Pires,0,1954,,"Bol. Técn. Inst. Agron. N. 28: 47 (1954)",,,,,,urn:lsid:ipni.org:names:61747-2,wfo-0000612655,3687090,,
+ce2fdb32-8fcc-11eb-924d-9cd76263cbd0,species,guianense,Cnestidium,,G.Schellenb.,0,1938,,"Pflanzenr. , IV, 127: 194 (1938)",,,,,,urn:lsid:ipni.org:names:61748-2,wfo-0000612656,3687070,,
+ce2ff784-8fcc-11eb-924d-9cd76263cbd0,species,lasiocarpum,Cnestidium,,Baker,0,1871,,"Fl. Bras. 14(2): 195 (1871)",,,,,,urn:lsid:ipni.org:names:264201-1,wfo-0000612657,3687060,,
+ce30117e-8fcc-11eb-924d-9cd76263cbd0,species,rufescens,Cnestidium,,Planch.,0,1850,,"Linnaea 23: 440 (1850)",,,,,,urn:lsid:ipni.org:names:264202-1,wfo-0000612658,3687051,,

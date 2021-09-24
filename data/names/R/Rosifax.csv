@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9c7bebe-8fd1-11eb-924d-9cd76263cbd0,genus,Rosifax,,,C.C.Towns.,Q5656551,1991,,"Kew Bull. 46(1): 101. 1991.",,Q55780395,,,,956842-1,wfo-4000033497,7323557,,
-b737ec08-8fd1-11eb-924d-9cd76263cbd0,species,sabuletorum,Rosifax,,C.C.Towns.,Q5656551,1991,,"Kew Bull. 46(1): 101 1991",,Q55780395,,,,958600-1,wfo-0001237847,3674774,,
-112dd7a0-8fb3-11eb-924d-9cd76263cbd0,species,lutea,Rosilla,,Less.,Q76352,1832,,"Syn. Gen. Compos. 245 (1832)",,,,,,241628-1,wfo-0000040848,4255711,,
-af67c952-8fcd-11eb-924d-9cd76263cbd0,species,roskamianum,,,Fraser-Jenk.,Q4492613,2008,,"Taxon. Revis. Indian Subcontinental Pteridophytes 207 2008",,,,,,77100225-1,wfo-0001042382,,,
+e9c7bebe-8fd1-11eb-924d-9cd76263cbd0,genus,Rosifax,,,C.C.Towns.,0,1991,,"Kew Bull. 46: 101 (1991)",,Q55780395,,,,urn:lsid:ipni.org:names:956842-1,wfo-4000033497,7323557,,
+b737ec08-8fd1-11eb-924d-9cd76263cbd0,species,sabuletorum,Rosifax,,C.C.Towns.,0,1991,,"Kew Bull. 46: 101 (1991)",,Q55780395,,,,urn:lsid:ipni.org:names:958600-1,wfo-0001237847,3674774,,
+112dd7a0-8fb3-11eb-924d-9cd76263cbd0,species,lutea,Rosilla,,Less.,0,1832,,"Syn. Gen. Compos. : 245 (1832)",,,,,,urn:lsid:ipni.org:names:241628-1,wfo-0000040848,4255711,,

@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-def9b064-8fd1-11eb-924d-9cd76263cbd0,genus,Ageratella,,,"A.Gray ex S.Watson","Q347356,Q960820",,,,,,,,,7508-1,wfo-4000000935,3103525,,
-5dbfe438-8fb2-11eb-924d-9cd76263cbd0,species,microphylla,Ageratella,,"(Sch.Bip.) A.Gray ex S.Watson","Q65685,Q347356,Q960820",1887,,"Proc. Amer. Acad. Arts 22 419 1887",,,,,,,wfo-0000022152,7388169,,
-2fd23644-8fb6-11eb-924d-9cd76263cbd0,species,palmeri,Ageratella,,"(A.Gray) B.L.Rob.","Q347356,Q817600",1905,,"Proc. Amer. Acad. Arts 41 272 1905",,,,,,6807-2,wfo-0000086657,4207465,,
+def9b064-8fd1-11eb-924d-9cd76263cbd0,genus,Ageratella,,,"A.Gray ex S.Watson",0,,,"Proc. Amer. Acad. Arts xxii. (1887) 410.",,,,,,urn:lsid:ipni.org:names:7508-1,wfo-4000000935,3103525,,
+5dbfe438-8fb2-11eb-924d-9cd76263cbd0,species,microphylla,Ageratella,,A.Gray,0,1887,,"Proc. Amer. Acad. Arts 22: 419 (1887)",,,,,,urn:lsid:ipni.org:names:6804-2,wfo-0000022152,7388169,,
+c3cd6cdc-1d47-11ec-82c2-f14daa6f2d93,variety,microphylla,Ageratella,microphylla,"(Sch.Bip.) A.Gray ex S.Watson",,,,1887,,,,,,,wfo-0000070062,,,
+6e9446a4-1d4d-11ec-82c2-f14daa6f2d93,variety,palmeri,Ageratella,microphylla,A.Gray,,,,"Proc. Amer. Acad. Arts 22: 419 (1887)",,,,,,urn:lsid:ipni.org:names:6805-2,wfo-0001382225,,,
+6e94a252-1d4d-11ec-82c2-f14daa6f2d93,variety,seemannii,Ageratella,microphylla,A.Gray,,,,"Proc. Amer. Acad. Arts 22: 419 (1887)",,,,,,urn:lsid:ipni.org:names:6806-2,wfo-0001382227,,,
+2fd23644-8fb6-11eb-924d-9cd76263cbd0,species,palmeri,Ageratella,,"(A.Gray) B.L.Rob.",0,1905,,"Proc. Amer. Acad. Arts 41: 272 (1905)",,,,,,urn:lsid:ipni.org:names:6807-2,wfo-0000086657,4207465,,

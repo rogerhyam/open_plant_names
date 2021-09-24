@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df3f85da-8fd1-11eb-924d-9cd76263cbd0,genus,Amphiolanthus,,,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 186. 1866.",,,,,,,wfo-4000001727,7333459,,
-9c130606-8fcc-11eb-924d-9cd76263cbd0,species,arenaroides,Amphiolanthus,,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 187 1866",,,,,,798875-1,wfo-0000531836,3742706,,
-9c1332b6-8fcc-11eb-924d-9cd76263cbd0,species,bryoides,Amphiolanthus,,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 186 1866",,,,,,798876-1,wfo-0000531837,3742697,,
-9c1362c2-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Amphiolanthus,,Urb.,Q64845,1931,,"Ark. Bot. 23A(11): 42 1931",,,,,,11599-2,wfo-0000531838,3742683,,
+df3f85da-8fd1-11eb-924d-9cd76263cbd0,genus,Amphiolanthus,,,Griseb.,0,1866,,"Cat. Pl. Cub. : 186 (1866)",,,,,,urn:lsid:ipni.org:names:37416-1,wfo-4000001727,7333459,,
+56ffcb94-1d4d-11ec-82c2-f14daa6f2d93,species,arenarioides,Amphiolanthus,,Griseb.,,,,,,,,,,urn:lsid:ipni.org:names:11597-2,wfo-0001349722,,,
+9c130606-8fcc-11eb-924d-9cd76263cbd0,species,arenaroides,Amphiolanthus,,Griseb.,0,1866,,"Cat. Pl. Cub. : 187 (1866)",,,,,,urn:lsid:ipni.org:names:798875-1,wfo-0000531836,3742706,,
+9c1332b6-8fcc-11eb-924d-9cd76263cbd0,species,bryoides,Amphiolanthus,,Griseb.,0,1866,,"Cat. Pl. Cub. : 186 (1866)",,,,,,urn:lsid:ipni.org:names:798876-1,wfo-0000531837,3742697,,
+9c1362c2-8fcc-11eb-924d-9cd76263cbd0,species,longipes,Amphiolanthus,,Urb.,0,1931,,"Ark. Bot. 23A(11): 42 (1931)",,,,,,urn:lsid:ipni.org:names:11599-2,wfo-0000531838,3742683,,

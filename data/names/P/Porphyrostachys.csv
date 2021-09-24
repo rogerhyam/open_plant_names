@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8f2c998-8fd1-11eb-924d-9cd76263cbd0,genus,Porphyrostachys,,,Rchb.f.,Q62820,1854,,"Xenia Orchid. 1: 18. 1854.",,,,,,30422-1,wfo-4000030969,2836292,,
-fa5cfb0a-8fcb-11eb-924d-9cd76263cbd0,species,parviflora,Porphyrostachys,,"(C.Schweinf.) Garay","Q3609344,Q2937426",1978,,"Bot. Mus. Leafl. 26: 1 1978",,Q100427325,,10aee7ce-8fcc-11eb-924d-9cd76263cbd0,,208461-2,wfo-0000281043,2836297,,
-fa5d2aa8-8fcb-11eb-924d-9cd76263cbd0,species,pilifera,Porphyrostachys,,"(Kunth) Rchb.f.","Q77074,Q62820",1854,,"Xenia Orchid. 1: 18 1854",,,,850f8546-8fcd-11eb-924d-9cd76263cbd0,,654815-1,wfo-0000281044,4935696,,
-ba38c0da-8fd1-11eb-924d-9cd76263cbd0,species,tubulosa,Porphyrostachys,,"(Lindl.) C.Vargas","Q378629,Q88817504",1998,,"Harvard Pap. Bot. 3: 1998",,,,,,,wfo-0001243343,7902203,,
+e8f2c998-8fd1-11eb-924d-9cd76263cbd0,genus,Porphyrostachys,,,Rchb.f.,0,1854,,"Xenia Orchid. 1: 18 (1854)",,,,,,urn:lsid:ipni.org:names:30422-1,wfo-4000030969,2836292,,
+fa5cfb0a-8fcb-11eb-924d-9cd76263cbd0,species,parviflora,Porphyrostachys,,"(C.Schweinf.) Garay",0,1978,,"Bot. Mus. Leafl. 26: 1 (1978)",,Q100427325,,10aee7ce-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:208461-2,wfo-0000281043,2836297,,
+fa5d2aa8-8fcb-11eb-924d-9cd76263cbd0,species,pilifera,Porphyrostachys,,Rchb.,0,1854,,"Xenia Orchid. 1: 18 (1854)",,,,850f8546-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:654815-1,wfo-0000281044,4935696,,
+ba38c0da-8fd1-11eb-924d-9cd76263cbd0,species,tubulosa,Porphyrostachys,,"(Lindl.) C.Vargas",0,1998,,"Harvard Pap. Bot. 3: 1998",,,,,,,wfo-0001243343,7902203,,

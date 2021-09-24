@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8c9388a-8fd1-11eb-924d-9cd76263cbd0,genus,Podanthus,,,Lag.,Q891966,,,,,,,,,331864-2,wfo-4000030470,3093209,,
-1dc78cd2-8fb2-11eb-924d-9cd76263cbd0,species,gratus,Podanthus,,"D.Don ex Sweet","Q1174244,Q2003356",1830,,"Hort. Brit. (Sweet), ed. 2. 353 1830",,,,,,238926-1,wfo-0000012028,4225226,,
-b610f38e-8fb2-11eb-924d-9cd76263cbd0,species,mitiqui,Podanthus,,Lindl.,Q378629,1830,,"in Loud. Hort. Brit. 488. 1830",,,,,,238927-1,wfo-0000032493,3093214,,
-2e89cdb6-8fb5-11eb-924d-9cd76263cbd0,species,ovatifolius,Podanthus,,Lag.,Q891966,,,"Gen. et Sp. Nov. 24.",,,,,,238928-1,wfo-0000074903,3093210,,
+e8c9388a-8fd1-11eb-924d-9cd76263cbd0,genus,Podanthus,,,Lag.,0,,,"Gen. Sp. Pl. : 24 (1816)",,,,,,urn:lsid:ipni.org:names:331864-2,wfo-4000030470,3093209,,
+1dc78cd2-8fb2-11eb-924d-9cd76263cbd0,species,gratus,Podanthus,,"D.Don ex Sweet",0,1830,,"Hort. Brit. : 353 (1830)",,,,,,urn:lsid:ipni.org:names:238926-1,wfo-0000012028,4225226,,
+b610f38e-8fb2-11eb-924d-9cd76263cbd0,species,mitiqui,Podanthus,,Lindl.,0,1830,,"Hort. Brit. : 488 (1830)",,,,,,urn:lsid:ipni.org:names:238927-1,wfo-0000032493,3093214,,
+b3c9e0cc-1d47-11ec-82c2-f14daa6f2d93,variety,mitiqui,Podanthus,mitiqui,,,,,,,,,,,,wfo-0000050288,,,
+6a5c4f14-1d4d-11ec-82c2-f14daa6f2d93,variety,subintegerrima,Podanthus,mitiqui,Reiche,,,,"Anales Univ. Chile 112: 134 (1903)",,,,,,urn:lsid:ipni.org:names:204562-2,wfo-0001376656,,,
+761b2a00-1d4d-11ec-82c2-f14daa6f2d93,variety,subintegerrimus,Podanthus,mitiqui,"(DC.) Reiche",,,,,,,,,,urn:lsid:ipni.org:names:1120530-2,wfo-0001391889,,,
+2e89cdb6-8fb5-11eb-924d-9cd76263cbd0,species,ovatifolius,Podanthus,,Lag.,0,,,"Gen. Sp. Pl. : 24 (1816)",,,,,,urn:lsid:ipni.org:names:238928-1,wfo-0000074903,3093210,,

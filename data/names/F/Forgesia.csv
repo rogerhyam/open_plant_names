@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3c62046-8fd1-11eb-924d-9cd76263cbd0,genus,Forgesia,,,"Comm. ex Juss.","Q595066,Q223963",1789,,"Gen. Pl. 164. 1789.",,,,,,37039-1,wfo-4000014938,3234488,,
-fbcdf3bc-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Forgesia,,"(Lam.) Pers.","Q82122,Q346451",1805,,"Syn. Pl. 1: 194 1805",,,,,,791173-1,wfo-0000691560,5617105,,
-fbce3cf0-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Forgesia,,J.F.Gmel.,Q57230,1791,,"Syst. Nat. 353 1791",,,,,,791174-1,wfo-0000691561,5617104,,
+e3c62046-8fd1-11eb-924d-9cd76263cbd0,genus,Forgesia,,,"Comm. ex Juss.",0,1789,,"Gen. Pl. : 164 (1789)",,,,,,urn:lsid:ipni.org:names:37039-1,wfo-4000014938,3234488,,
+fbcdf3bc-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Forgesia,,Pers.,0,1805,,"Syn. Pl. [Persoon] 1: 194. 1805 [1 Apr-15 Jun 1805]",,,,,,urn:lsid:ipni.org:names:791173-1,wfo-0000691560,5617105,,
+fbce3cf0-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Forgesia,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 353 (1791)",,,,,,urn:lsid:ipni.org:names:791174-1,wfo-0000691561,5617104,,

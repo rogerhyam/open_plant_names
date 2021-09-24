@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dff43610-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobrickellia,,,"R.M.King & H.Rob.","Q2854893,Q2100759",,,,,,,,,295181-2,wfo-4000003712,3122059,,
-705223b8-8fb2-11eb-924d-9cd76263cbd0,species,arnottii,Austrobrickellia,,"(Baker) R.M.King & H.Rob.","Q730330,Q2854893,Q2100759",1972,,"Phytologia 24 73 1972",,,,,,27084-2,wfo-0000024559,3142565,,
-1e9141c0-8fb3-11eb-924d-9cd76263cbd0,species,bakerianum,Austrobrickellia,,"(B.L.Rob.) R.M.King & H.Rob.","Q817600,Q2854893,Q2100759",1972,,"Phytologia 24 73 1972",,,,2a9766dc-8fba-11eb-924d-9cd76263cbd0,,182995-1,wfo-0000041980,3122060,,
-4b17e71e-8fb6-11eb-924d-9cd76263cbd0,species,patens,Austrobrickellia,,"(D.Don ex Hook. & Arn.) R.M.King & H.Rob.","Q1174244,Q472639,Q730292,Q2854893,Q2100759",1972,,"Phytologia 24 73 1972",,,,e8349626-8fb8-11eb-924d-9cd76263cbd0,,27086-2,wfo-0000087864,3122061,,
+dff43610-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobrickellia,,,"R.M.King & H.Rob.",0,,,"Phytologia 24: 72 (1972)",,,,,,urn:lsid:ipni.org:names:295181-2,wfo-4000003712,3122059,,
+705223b8-8fb2-11eb-924d-9cd76263cbd0,species,arnottii,Austrobrickellia,,"(Baker) R.M.King & H.Rob.",0,1972,,"Phytologia 24: 73 (1972)",,,,,,urn:lsid:ipni.org:names:27084-2,wfo-0000024559,3142565,,
+1e9141c0-8fb3-11eb-924d-9cd76263cbd0,species,bakerianum,Austrobrickellia,,"(B.L.Rob.) R.M.King & H.Rob.",0,1972,,"Phytologia 24(2): 73. 1972",,,,2a9766dc-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:182995-1,wfo-0000041980,3122060,,
+4b17e71e-8fb6-11eb-924d-9cd76263cbd0,species,patens,Austrobrickellia,,"(Hook. & Arn.) R.M.King & H.Rob.",0,1972,,"Phytologia 24: 73 (1972)",,,,e8349626-8fb8-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:27086-2,wfo-0000087864,3122061,,
+71072424-1d4d-11ec-82c2-f14daa6f2d93,variety,rhodolaena,Austrobrickellia,patens,"(Griseb. ex Hook. & Arn.) Ariza & S.E.Freire",,,,"Unknown 7(1): 310 (2014)",,,,,,urn:lsid:ipni.org:names:77142350-1,wfo-0001385211,,,
+710760a6-1d4d-11ec-82c2-f14daa6f2d93,variety,tomentosa,Austrobrickellia,patens,"(Hieron.) Ariza & S.E.Freire",,,,"Unknown 7(1): 310 (2014)",,,,,,urn:lsid:ipni.org:names:77142351-1,wfo-0001385212,,,

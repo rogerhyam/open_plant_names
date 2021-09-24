@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6a960a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Shiraiella,,,Hara,Q4390878,1914,,"Bot. Mag., Tokyo 28: 402 (1914)",,,,a6a960a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5026," "
-b32b59fa-9bad-11eb-a8a2-19ed5c03f8d3,species,phyllostachydis,Shiraiella,,"(Syd. & P. Syd.) Hara",Q4390878,1914,,"Bot. Mag., Tokyo (1914)",,,,7b47caf2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,432107," "
-0c7852d0-8fcc-11eb-924d-9cd76263cbd0,species,aubrevillei,Shirakia,,"(Leandri) Kruijt","Q3028229,Q6109407",1996,,"Biblioth. Bot. 146: 92 1996",,,,,,990845-1,wfo-0000309746,5378239,,
-0c78710c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Shirakia,,"(Lour.) Hurus.","Q729917,Q5921029",1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 318 1954",,,,,,356391-1,wfo-0000309747,5377851,,
-0c788caa-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Shirakia,,"(Hochst.) Kruijt","Q64983,Q6109407",1996,,"Biblioth. Bot. 146: 93 1996",,,,,,990846-1,wfo-0000309748,5378250,,
-0c78c7b0-8fcc-11eb-924d-9cd76263cbd0,species,indica,Shirakia,,"(Willd.) Hurus.","Q76353,Q5921029",1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 317 1954",,,,,,356392-1,wfo-0000309750,5378242,,
-0c78e3bc-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Shirakia,,"(Siebold & Zucc.) Hurus.","Q77140,Q77121,Q5921029",1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 318 1954",,,,,,356393-1,wfo-0000309751,5379827,,
-0c79022a-8fcc-11eb-924d-9cd76263cbd0,species,sanchezii,Shirakia,,"(Merr.) Kruijt","Q729926,Q6109407",1996,,"Biblioth. Bot. 146: 93 1996",,,,,,990847-1,wfo-0000309752,5378237,,
-0c791dc8-8fcc-11eb-924d-9cd76263cbd0,species,trilocularis,Shirakia,,"(Pax & K.Hoffm.) Kruijt","Q64244,Q2601446,Q6109407",1996,,"Biblioth. Bot. 146: 93 1996",,,,,,990848-1,wfo-0000309753,5378241,,
-0c793e16-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Shirakia,,"(Zoll. & Moritzi ex Miq.) Kruijt","Q124330,Q2614546,Q76742,Q6109407",1996,,"Biblioth. Bot. 146: 93 1996",,,,8aa57b96-8fcd-11eb-924d-9cd76263cbd0,,990849-1,wfo-0000309754,5378234,,
+a6a960a0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Shiraiella,,,Hara,0,1914,,"Bot. Mag., Tokyo 28: 402 (1914)",,,,a6a960a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5026," "
+b32b59fa-9bad-11eb-a8a2-19ed5c03f8d3,species,phyllostachydis,Shiraiella,,"(Syd. & P. Syd.) Hara",0,1914,,"Bot. Mag., Tokyo (1914)",,,,7b47caf2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,432107," "
+0c7852d0-8fcc-11eb-924d-9cd76263cbd0,species,aubrevillei,Shirakia,,"(Leandri) Kruijt",0,1996,,"Biblioth. Bot. 146: 92 (1996)",,,,,,urn:lsid:ipni.org:names:990845-1,wfo-0000309746,5378239,,
+0c78710c-8fcc-11eb-924d-9cd76263cbd0,species,cochinchinensis,Shirakia,,"(Lour.) Hurus.",0,1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 318 (1954)",,,,,,urn:lsid:ipni.org:names:356391-1,wfo-0000309747,5377851,,
+0c788caa-8fcc-11eb-924d-9cd76263cbd0,species,elliptica,Shirakia,,"(Hochst.) Kruijt",0,1996,,"Biblioth. Bot. 146: 93 (1996)",,,,,,urn:lsid:ipni.org:names:990846-1,wfo-0000309748,5378250,,
+0c78c7b0-8fcc-11eb-924d-9cd76263cbd0,species,indica,Shirakia,,"(Willd.) Hurus.",0,1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 317 (1954)",,,,,,urn:lsid:ipni.org:names:356392-1,wfo-0000309750,5378242,,
+0c78e3bc-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Shirakia,,"(Siebold & Zucc.) Hurus.",0,1954,,"J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 6: 318 (1954)",,,,,,urn:lsid:ipni.org:names:356393-1,wfo-0000309751,5379827,,
+0c79022a-8fcc-11eb-924d-9cd76263cbd0,species,sanchezii,Shirakia,,"(Merr.) Kruijt",0,1996,,"Biblioth. Bot. 146: 93 (1996)",,,,,,urn:lsid:ipni.org:names:990847-1,wfo-0000309752,5378237,,
+0c791dc8-8fcc-11eb-924d-9cd76263cbd0,species,trilocularis,Shirakia,,"(Pax & K.Hoffm.) Kruijt",0,1996,,"Biblioth. Bot. 146: 93 (1996)",,,,,,urn:lsid:ipni.org:names:990848-1,wfo-0000309753,5378241,,
+0c793e16-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Shirakia,,"(Zoll. & Moritzi) Kruijt",0,1996,,"Biblioth. Bot. 146: 93 (1996)",,,,8aa57b96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:990849-1,wfo-0000309754,5378234,,

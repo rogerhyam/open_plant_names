@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e39f9d68-8fd1-11eb-924d-9cd76263cbd0,genus,Evoista,,,Raf.,Q364857,1838,,"Phil. et al., Sylva Tellur. 56 (1838)., 1838.",,,,,,,wfo-4000014406,7299202,,
-a59493ec-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Evoista,,"(Walter) Raf.","Q1366734,Q364857",1838,,"Phil. et al., Sylva Tellur. 56 (1838)., 1838.",,,,,,,wfo-0001021583,3797249,,
-a594b0b6-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Evoista,,Raf.,Q364857,1838,,"Phil. et al., Sylva Tellur. 56 (1838)., 1838.",,,,,,,wfo-0001021584,3797243,,
+e39f9d68-8fd1-11eb-924d-9cd76263cbd0,genus,Evoista,,,Raf.,0,1838,,"Phil. et al., Sylva Tellur. 56 (1838)., 1838.",,,,,,urn:lsid:ipni.org:names:38366-1,wfo-4000014406,7299202,,
+a59493ec-8fcd-11eb-924d-9cd76263cbd0,species,caroliniana,Evoista,,"(Walter) Raf.",0,1838,,"Sylva Tellur. 56 (1838).",,,,,,urn:lsid:ipni.org:names:815720-1,wfo-0001021583,3797249,,
+a594b0b6-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Evoista,,Raf.,0,1838,,"Sylva Tellur. 56 (1838).",,,,,,urn:lsid:ipni.org:names:815721-1,wfo-0001021584,3797243,,

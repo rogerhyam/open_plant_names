@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0f5a5f8-8fd1-11eb-924d-9cd76263cbd0,genus,Cadellia,,,F.Muell.,Q708002,1860,,"Fragm. 2: 25. 1860.",,,,,,38172-1,wfo-4000005899,7319899,,
-b94c0ca4-8fcc-11eb-924d-9cd76263cbd0,species,monostylis,Cadellia,,Benth.,Q731808,1863,,"Fl. Austral. 1: 375 1863",,,,,,813647-1,wfo-0000578414,3646041,,
-b94c270c-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Cadellia,monostylis,F.M.Bailey,Q2659122,1913,,"Compr. Cat. Queensland Pl. 85 1913",,,,,,116713-3,wfo-0000578415,3646045,,
-b94c400c-8fcc-11eb-924d-9cd76263cbd0,species,pentastylis,Cadellia,,F.Muell.,Q708002,1860,,"Fragm. 2: 26 1860",,,,,,813648-1,wfo-0000578416,7973331,,
+e0f5a5f8-8fd1-11eb-924d-9cd76263cbd0,genus,Cadellia,,,F.Muell.,0,1860,,"Fragm. 2: 25 (1860)",,,,,,urn:lsid:ipni.org:names:38172-1,wfo-4000005899,7319899,,
+b94c0ca4-8fcc-11eb-924d-9cd76263cbd0,species,monostylis,Cadellia,,Benth.,0,1863,,"Fl. Austral. 1: 375 (1863)",,,,,,urn:lsid:ipni.org:names:813647-1,wfo-0000578414,3646041,,
+b94c270c-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Cadellia,monostylis,F.M.Bailey,0,1913,,"Compr. Cat. Queensland Pl. : 85 (1913)",,,,,,urn:lsid:ipni.org:names:116713-3,wfo-0000578415,3646045,,
+76637c1a-1d4d-11ec-82c2-f14daa6f2d93,variety,monostylis,Cadellia,monostylis,Benth.,,,,"Comprehensive Catalogue of Queensland Plants 1913",,,,,,urn:lsid:ipni.org:names:116719-3,wfo-0001392320,,,
+b94c400c-8fcc-11eb-924d-9cd76263cbd0,species,pentastylis,Cadellia,,F.Muell.,0,1860,,"Fragm. 2: 26 (1860)",,,,,,urn:lsid:ipni.org:names:813648-1,wfo-0000578416,7973331,,

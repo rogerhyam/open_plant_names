@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1e244d0-8fd1-11eb-924d-9cd76263cbd0,genus,Codonochlamys,,,Ulbr.,Q74592,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 329. 1915.",,,,,,,wfo-4000008793,7279202,,
-cf032726-8fcc-11eb-924d-9cd76263cbd0,species,glaziovii,Codonochlamys,,Ulbr.,Q74592,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 331 1915",,Q55776782,,,,62682-2,wfo-0000614072,3937605,,
-cf036c04-8fcc-11eb-924d-9cd76263cbd0,species,tiliifolia,Codonochlamys,,Ulbr.,Q74592,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 330 1915",,Q55776782,,,,62683-2,wfo-0000614074,3937592,,
-df99e638-8fcc-11eb-924d-9cd76263cbd0,species,agavoides,Codonocrinum,,"Willd. ex Schult. & Schult.f.","Q76353,Q78881,Q78745",1829,,"Syst. Veg. 7: 718 1829",,,,,,533187-1,wfo-0000642621,2769830,,
-cf0388ec-8fcc-11eb-924d-9cd76263cbd0,species,triphyllum,Codonocroton,,"E.Mey. ex Engl. & Diels","Q62969,Q60718,Q77123",1899,,"Monogr. Afrik. Pflanzen-Fam. 3: 95 1899",,,,,,,wfo-0000614075,7995247,,
+e1e244d0-8fd1-11eb-924d-9cd76263cbd0,genus,Codonochlamys,,,Ulbr.,0,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 329 (1915)",,,,,,urn:lsid:ipni.org:names:297120-2,wfo-4000008793,7279202,,
+cf032726-8fcc-11eb-924d-9cd76263cbd0,species,glaziovii,Codonochlamys,,Ulbr.,0,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 331 (1915)",,Q55776782,,,,urn:lsid:ipni.org:names:62682-2,wfo-0000614072,3937605,,
+cf036c04-8fcc-11eb-924d-9cd76263cbd0,species,tiliifolia,Codonochlamys,,Ulbr.,0,1915,,"Notizbl. Königl. Bot. Gart. Berlin 6: 330 (1915)",,Q55776782,,,,urn:lsid:ipni.org:names:62683-2,wfo-0000614074,3937592,,
+df99e638-8fcc-11eb-924d-9cd76263cbd0,species,agavoides,Codonocrinum,,"Willd. ex Schult. & Schult.f.",0,1829,,"Syst. Veg., ed. 15 bis 7: 718 (1829)",,,,,,urn:lsid:ipni.org:names:533187-1,wfo-0000642621,2769830,,
+cf0388ec-8fcc-11eb-924d-9cd76263cbd0,species,triphyllum,Codonocroton,,E.Mey.,0,1899,,"in Engl. Monogr. Afr. Pfl. iii. (1899) 95.",,,,,,urn:lsid:ipni.org:names:169871-1,wfo-0000614075,7995247,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eabb2c48-8fd1-11eb-924d-9cd76263cbd0,genus,Stelestylis,,,Drude,Q63040,1881,,"Fl. Bras. 3(2): 229. 1881.",,,,,,13552-1,wfo-4000036395,2861294,,
-163304cc-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Stelestylis,,Harling,Q5619025,1958,,"Acta Horti Berg. 18: 398 1958",,,,,,243740-2,wfo-0000738889,2861295,,
-162fc384-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Stelestylis,,Drude,Q63040,1881,,"Fl. Bras. 3(2): 231 1881",,,,,,,wfo-0000738860,2861298,,
-16318e12-8fcd-11eb-924d-9cd76263cbd0,species,stylaris,Stelestylis,,"(Gleason) Harling","Q1360735,Q5619025",1958,,"Acta Horti Berg. 18: 394 1958",,,,21b5584a-8fcd-11eb-924d-9cd76263cbd0,,243741-2,wfo-0000738876,2861296,,
-1630561e-8fcd-11eb-924d-9cd76263cbd0,species,surinamensis,Stelestylis,,Harling,Q5619025,1958,,"Acta Horti Berg. 18: 396 1958",,,,,,297753-1,wfo-0000738865,2861299,,
-89e27660-8fcc-11eb-924d-9cd76263cbd0,species,album,Stelin,,Bubani,Q684026,1897,,"Fl. Pyren. 1: 129 1897",,,,,,551612-1,wfo-0000501148,4004534,,
+eabb2c48-8fd1-11eb-924d-9cd76263cbd0,genus,Stelestylis,,,Drude,0,1881,,"Fl. Bras. 3(2): 229 (1881)",,,,,,urn:lsid:ipni.org:names:13552-1,wfo-4000036395,2861294,,
+163304cc-8fcd-11eb-924d-9cd76263cbd0,species,anomala,Stelestylis,,Harling,0,1958,,"Acta Horti Berg. 18: 398 (1958)",,,,,,urn:lsid:ipni.org:names:243740-2,wfo-0000738889,2861295,,
+162fc384-8fcd-11eb-924d-9cd76263cbd0,species,coriacea,Stelestylis,,Drude,0,1881,,"Fl. Bras. 3(2): 231 (1881)",,,,,,urn:lsid:ipni.org:names:297754-1,wfo-0000738860,2861298,,
+16318e12-8fcd-11eb-924d-9cd76263cbd0,species,stylaris,Stelestylis,,"(Gleason) Harling",0,1958,,"Acta Horti Berg. 18: 394 (1958)",,,,21b5584a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:243741-2,wfo-0000738876,2861296,,
+1630561e-8fcd-11eb-924d-9cd76263cbd0,species,surinamensis,Stelestylis,,Harling,0,1958,,"Acta Horti Berg. xviii. 396 (1958).",,,,,,urn:lsid:ipni.org:names:297753-1,wfo-0000738865,2861299,,
+89e27660-8fcc-11eb-924d-9cd76263cbd0,species,album,Stelin,,"(L.) Bubani",0,1897,,"Fl. Pyren. 1: 129 (1897)",,,,,,urn:lsid:ipni.org:names:551612-1,wfo-0000501148,4004534,,

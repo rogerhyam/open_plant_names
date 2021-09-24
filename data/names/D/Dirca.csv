@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2e53db0-8fd1-11eb-924d-9cd76263cbd0,genus,Dirca,,,L.,Q1043,1753,,"Sp. Pl. 1: 358. 1753. (1 May 1753)",,,,,,39231-1,wfo-4000012100,3188461,,
-186fd472-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Dirca,,Floden,Q26714354,2009,,"J. Bot. Res. Inst. Texas 3: 494 2009",,Q99431353,,,,60453281-2,wfo-0000743757,7395195,,
-e4c5ae58-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Dirca,,"G.L.Nesom & Mayfield","Q5622397,Q5999506",1995,,"Sida 16: 460 1995",,Q91206591,,,,300883-2,wfo-0000651501,3569075,,
-e4c5d16c-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Dirca,,A.Gray,Q347356,1878,,"Proc. Amer. Acad. Arts 13: 631 1878",,,,,,831585-1,wfo-0000651502,3188463,,
-e4c5f386-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Dirca,,L.,Q1043,1753,,"Sp. Pl. 358 1753",,,,,,319178-2,wfo-0000651503,3188462,,
+e2e53db0-8fd1-11eb-924d-9cd76263cbd0,genus,Dirca,,,L.,0,1753,,"Sp. Pl. : 358 (1753)",,,,,,urn:lsid:ipni.org:names:39231-1,wfo-4000012100,3188461,,
+186fd472-8fcd-11eb-924d-9cd76263cbd0,species,decipiens,Dirca,,Floden,0,2009,,"J. Bot. Res. Inst. Texas 3: 494 (2009)",,Q99431353,,,,urn:lsid:ipni.org:names:60453281-2,wfo-0000743757,7395195,,
+e4c5ae58-8fcc-11eb-924d-9cd76263cbd0,species,mexicana,Dirca,,"G.L.Nesom & Mayfield",0,1995,,"Sida 16: 460 (1995)",,Q91206591,,,,urn:lsid:ipni.org:names:300883-2,wfo-0000651501,3569075,,
+e4c5d16c-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Dirca,,A.Gray,0,1878,,"Proc. Amer. Acad. Arts viii. (1878) 631.",,,,,,urn:lsid:ipni.org:names:831585-1,wfo-0000651502,3188463,,
+e4c5f386-8fcc-11eb-924d-9cd76263cbd0,species,palustris,Dirca,,L.,0,1753,,"Sp. Pl. : 358 (1753)",,,,,,urn:lsid:ipni.org:names:319178-2,wfo-0000651503,3188462,,

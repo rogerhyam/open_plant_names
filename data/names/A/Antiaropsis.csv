@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df8c1d6e-8fd1-11eb-924d-9cd76263cbd0,genus,Antiaropsis,,,K.Schum.,Q63545,1889,,"Fl. Kais. Wilh. Land 40. 1889.",,,,,,40709-1,wfo-4000002472,7262631,,
-a063a9cc-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Antiaropsis,,K.Schum.,Q63545,1889,,"Fl. Kais. Wilh. Land 40 1889",,,,,,850346-1,wfo-0000538872,3765183,,
-a0644a58-8fcc-11eb-924d-9cd76263cbd0,species,uniflora,Antiaropsis,,C.C.Berg,Q1133511,2005,,"Blumea 50: 539 2005",,Q55791835,,,,77069523-1,wfo-0000538873,3765337,,
+df8c1d6e-8fd1-11eb-924d-9cd76263cbd0,genus,Antiaropsis,,,K.Schum.,0,1889,,"Fl. Kais. Wilh. Land : 40 (1889)",,,,,,urn:lsid:ipni.org:names:40709-1,wfo-4000002472,7262631,,
+a063a9cc-8fcc-11eb-924d-9cd76263cbd0,species,decipiens,Antiaropsis,,K.Schum.,0,1889,,"Fl. Kais. Wilh. Land : 40 (1889)",,,,,,urn:lsid:ipni.org:names:850346-1,wfo-0000538872,3765183,,
+a0644a58-8fcc-11eb-924d-9cd76263cbd0,species,uniflora,Antiaropsis,,C.C.Berg,0,2005,,"Blumea 50: 539 (2005)",,Q55791835,,,,urn:lsid:ipni.org:names:77069523-1,wfo-0000538873,3765337,,

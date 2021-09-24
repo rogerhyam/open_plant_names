@@ -1,15 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e635a7fc-8fd1-11eb-924d-9cd76263cbd0,genus,Macraea,,,Subram.,Q21610001,1953,,"Proc. Indian Acad. Sci., Pl. Sci. 36B: 164 (1953)",,,,e635a7fc-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000022661,,8805," "
-3569a3c4-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Macraea,,Meyen,Q61546,1834,,"Observ. Bot. 1: 342 1834",,,,,,148769-2,wfo-0000376243,5592524,,
-f4a6534a-9bac-11eb-a8a2-19ed5c03f8d3,species,crataevae,Macraea,,"(Syd.) Subram.",Q21610001,1953,,"Proc. Indian natn Sci. Acad., Part B. Biol. Sci. 37: 164 (1953)",,,,aebf6e2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,299959," "
-dcf4dec0-8fcb-11eb-924d-9cd76263cbd0,species,gardneriana,Macraea,,Wight,Q1375864,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 1852",,,,,,351427-1,wfo-0000232476,5382097,,
-3569bf62-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Macraea,,Lindl.,Q378629,1828,,"Quart. J. Sci. Lit. Arts II, 1: 105 1828",,,,,,374484-1,wfo-0000376245,5592522,,
-1410088a-8fb8-11eb-924d-9cd76263cbd0,species,lancifolia,Macraea,,Hook.f.,Q157501,1847,,"Trans. Linn. Soc. London 20(2): 210 1847",,Q55760744,,,,231509-1,wfo-0000105986,5700171,,
-0a37ac74-8fb2-11eb-924d-9cd76263cbd0,species,laricifolia,Macraea,,Hook.f.,Q157501,1847,,"210 1847",,Q55760744,,,,317735-2,wfo-0000006988,5387201,,
-dcf4fb9e-8fcb-11eb-924d-9cd76263cbd0,species,myrtifolia,Macraea,,Wight,Q1375864,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 1852",,,,,,351428-1,wfo-0000232477,5382697,,
-dcf5178c-8fcb-11eb-924d-9cd76263cbd0,species,oblongifolia,Macraea,,Wight,Q1375864,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 1852",,,,,,351429-1,wfo-0000232478,5382090,,
-dcf53104-8fcb-11eb-924d-9cd76263cbd0,species,ovalifolia,Macraea,,Wight,Q1375864,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 1852",,,,,,351430-1,wfo-0000232479,5382094,,
-3569ddb2-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Macraea,,Lindl.,Q378629,1828,,"Quart. J. Sci. Lit. Arts II, 1: 105 1828",,,,,,374485-1,wfo-0000376246,5592521,,
-f4a6ac96-9bac-11eb-a8a2-19ed5c03f8d3,species,punjabensis,Macraea,,Subram.,Q21610001,1953,,"Proc. Indian natn Sci. Acad., Part B. Biol. Sci. 37: 166 (1953)",,,,f4a6ac96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,299960," "
-dcf54b08-8fcb-11eb-924d-9cd76263cbd0,species,rheedei,Macraea,,Wight,Q1375864,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 1852",,,,,,351431-1,wfo-0000232480,5382354,,
-b5d56b38-8fd1-11eb-924d-9cd76263cbd0,species,rosea,Macraea,,Lindl.,Q378629,,,,,,,,,,wfo-0001235230,5592520,,
+e635a7fc-8fd1-11eb-924d-9cd76263cbd0,genus,Macraea,,,Hook.f.,0,1953,,"Proc. Linn. Soc. London 1(28): 278 (1846)",,,,e635a7fc-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30210309-2,wfo-4000022661,,8805," "
+3569a3c4-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Macraea,,Meyen,0,1834,,"Reise Erde 1: 342. 1834 [25-31 May 1834]",,,,,,urn:lsid:ipni.org:names:148769-2,wfo-0000376243,5592524,,
+f4a6534a-9bac-11eb-a8a2-19ed5c03f8d3,species,crataevae,Macraea,,"(Syd.) Subram.",0,1953,,"Proc. Indian natn Sci. Acad., Part B. Biol. Sci. 37: 164 (1953)",,,,aebf6e2e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,299959," "
+dcf4dec0-8fcb-11eb-924d-9cd76263cbd0,species,gardneriana,Macraea,,Wight,0,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 (1852)",,,,,,urn:lsid:ipni.org:names:351427-1,wfo-0000232476,5382097,,
+3569bf62-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Macraea,,Lindl.,0,1828,,"in Brand. Journ. (1828) 105.",,,,,,urn:lsid:ipni.org:names:374484-1,wfo-0000376245,5592522,,
+1410088a-8fb8-11eb-924d-9cd76263cbd0,species,lancifolia,Macraea,,Hook.f.,0,1847,,"Trans. Linn. Soc. London 20(2): 210 (1847)",,Q55760744,,,,urn:lsid:ipni.org:names:231509-1,wfo-0000105986,5700171,,
+0a37ac74-8fb2-11eb-924d-9cd76263cbd0,species,laricifolia,Macraea,,Hook.f.,0,1847,,"Trans. Linn. Soc. London 20: 210 (1847)",,Q55760744,,,,urn:lsid:ipni.org:names:317735-2,wfo-0000006988,5387201,,
+dcf4fb9e-8fcb-11eb-924d-9cd76263cbd0,species,myrtifolia,Macraea,,Wight,0,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 (1852)",,,,,,urn:lsid:ipni.org:names:351428-1,wfo-0000232477,5382697,,
+dcf5178c-8fcb-11eb-924d-9cd76263cbd0,species,oblongifolia,Macraea,,Wight,0,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 (1852)",,,,,,urn:lsid:ipni.org:names:351429-1,wfo-0000232478,5382090,,
+dcf53104-8fcb-11eb-924d-9cd76263cbd0,species,ovalifolia,Macraea,,Wight,0,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 (1852)",,,,,,urn:lsid:ipni.org:names:351430-1,wfo-0000232479,5382094,,
+3569ddb2-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Macraea,,Lindl.,0,1828,,"in Brand. Journ. (1828) 105.",,,,,,urn:lsid:ipni.org:names:374485-1,wfo-0000376246,5592521,,
+f4a6ac96-9bac-11eb-a8a2-19ed5c03f8d3,species,punjabensis,Macraea,,Subram.,0,1953,,"Proc. Indian natn Sci. Acad., Part B. Biol. Sci. 37: 166 (1953)",,,,f4a6ac96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,299960," "
+dcf54b08-8fcb-11eb-924d-9cd76263cbd0,species,rheedei,Macraea,,Wight,0,1852,,"Icon. Pl. Ind. Orient. 5(2): 27 (1852)",,,,,,urn:lsid:ipni.org:names:351431-1,wfo-0000232480,5382354,,
+b5d56b38-8fd1-11eb-924d-9cd76263cbd0,species,rosea,Macraea,,Lindl.,0,,,"in Brand. Journ. (1828) 105.",,,,,,urn:lsid:ipni.org:names:374486-1,wfo-0001235230,5592520,,

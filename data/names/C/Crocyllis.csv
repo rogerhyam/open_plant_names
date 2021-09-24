@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e22f3b00-8fd1-11eb-924d-9cd76263cbd0,genus,Crocyllis,,,"E.Mey. ex Benth.","Q62969,Q731808",1873,,"Gen. Pl. 2: 26, 136. 1873.",,,,,,,wfo-4000009741,,,
-7926b8a8-8fcd-11eb-924d-9cd76263cbd0,species,anthospermoides,Crocyllis,,"E.Mey. ex K.Schum.","Q62969,Q63545",1891,,"Nat. Pflanzenfam. 4(4): 132 1891",,,,,,,wfo-0000927102,2894305,,
-7926d5c2-8fcd-11eb-924d-9cd76263cbd0,species,intricatissima,Crocyllis,,Dinter,Q76164,1928,,"Repert. Spec. Nov. Regni Veg. Beih. 53: 64 (1928) 1928",,,,,,747855-1,wfo-0000927103,2894304,,
+e22f3b00-8fd1-11eb-924d-9cd76263cbd0,genus,Crocyllis,,,"E.Mey. ex Hook.f.",0,1873,,"Gen. Pl. 2: 136 (1873)",,,,,,urn:lsid:ipni.org:names:34429-1,wfo-4000009741,,,
+7926b8a8-8fcd-11eb-924d-9cd76263cbd0,species,anthospermoides,Crocyllis,,E.Mey.,0,1891,,"Zwei Pflanzengeogr. Docum. (Drège) 176. 1843 [7 Aug 1843]",,,,,,urn:lsid:ipni.org:names:747853-1,wfo-0000927102,2894305,,
+7926d5c2-8fcd-11eb-924d-9cd76263cbd0,species,intricatissima,Crocyllis,,Dinter,0,1928,,"Repert. Spec. Nov. Regni Veg. Beih. 53: 64 (1928)",,,,,,urn:lsid:ipni.org:names:747855-1,wfo-0000927103,2894304,,

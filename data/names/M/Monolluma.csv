@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6ddc1c6-8fd1-11eb-924d-9cd76263cbd0,genus,Monolluma,,,Plowes,Q5799423,1995,,"Haseltonia 3: 64. 1995.",,,,,,986816-1,wfo-4000024715,7632294,,
-be4793e0-8fd1-11eb-924d-9cd76263cbd0,species,cicatricosa,Monolluma,,"(Deflers) Plowes","Q5687736,Q5799423",1995,,"Haseltonia 3: 65, f. 32 1995",,,,b4499154-8fcc-11eb-924d-9cd76263cbd0,,986818-1,wfo-0001250841,3576580,,
-30d077c0-8fcc-11eb-924d-9cd76263cbd0,species,hexagona,Monolluma,,"(Lavranos) Meve & Liede","Q5933356,Q6155324,Q6128237",2002,,"Pl. Syst. Evol. 234: 203 2002",,Q55755454,,be630b3e-8fcc-11eb-924d-9cd76263cbd0,,20009965-1,wfo-0000368601,3576573,,
-be17a586-8fd1-11eb-924d-9cd76263cbd0,species,quadrangula,Monolluma,,"(Forssk.) Plowes","Q27684,Q5799423",1995,,"Haseltonia 3: 65, f. 1 & 30 1995",,,,ca447d24-8fcd-11eb-924d-9cd76263cbd0,,986817-1,wfo-0001250496,3576563,,
-30d0d8f0-8fcc-11eb-924d-9cd76263cbd0,species,socotrana,Monolluma,,"(Balf.f.) Meve & Liede","Q670050,Q6155324,Q6128237",2002,,"Pl. Syst. Evol. 234: 203 2002",,Q55755454,,,,20009966-1,wfo-0000368602,3576557,,
-30d10528-8fcc-11eb-924d-9cd76263cbd0,species,solenophora,Monolluma,,"(Lavranos) Meve & Liede","Q5933356,Q6155324,Q6128237",2002,,"Pl. Syst. Evol. 234: 204 2002",,Q55755454,,be73e4f4-8fcc-11eb-924d-9cd76263cbd0,,20009967-1,wfo-0000368603,3576548,,
+e6ddc1c6-8fd1-11eb-924d-9cd76263cbd0,genus,Monolluma,,,Plowes,0,1995,,"Haseltonia 3: 64 (1995)",,,,,,urn:lsid:ipni.org:names:986816-1,wfo-4000024715,7632294,,
+be4793e0-8fd1-11eb-924d-9cd76263cbd0,species,cicatricosa,Monolluma,,"(Deflers) Plowes",0,1995,,"Haseltonia 3: 65 (1995)",,,,b4499154-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:986818-1,wfo-0001250841,3576580,,
+30d077c0-8fcc-11eb-924d-9cd76263cbd0,species,hexagona,Monolluma,,"(Lavranos) Meve & Liede",0,2002,,"Pl. Syst. Evol. 234: 203 (2002)",,Q55755454,,be630b3e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20009965-1,wfo-0000368601,3576573,,
+be17a586-8fd1-11eb-924d-9cd76263cbd0,species,quadrangula,Monolluma,,"(Forssk.) Plowes",0,1995,,"Haseltonia 3: 65 (1995)",,,,ca447d24-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:986817-1,wfo-0001250496,3576563,,
+30d0d8f0-8fcc-11eb-924d-9cd76263cbd0,species,socotrana,Monolluma,,"(Balf.f.) Meve & Liede",0,2002,,"Pl. Syst. Evol. 234: 203 (2002)",,Q55755454,,,,urn:lsid:ipni.org:names:20009966-1,wfo-0000368602,3576557,,
+30d10528-8fcc-11eb-924d-9cd76263cbd0,species,solenophora,Monolluma,,"(Lavranos) Meve & Liede",0,2002,,"Pl. Syst. Evol. 234: 204 (2002)",,Q55755454,,be73e4f4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20009967-1,wfo-0000368603,3576548,,

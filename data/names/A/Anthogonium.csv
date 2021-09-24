@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df898108-8fd1-11eb-924d-9cd76263cbd0,genus,Anthogonium,,,"Wall. ex Lindl.","Q730310,Q378629",1840,,"Gen. Sp. Orchid. Pl. 425. 1840.",,,,,,28723-1,wfo-4000002444,2816809,,
-c491187c-8fca-11eb-924d-9cd76263cbd0,species,corydaloides,Anthogonium,,Schltr.,Q62278,1919,,"Repert. Spec. Nov. Regni Veg. Beih. 4: 66 1919",,,,,,616664-1,wfo-0000219329,2816812,,
-c52d0dea-8fca-11eb-924d-9cd76263cbd0,species,gracile,Anthogonium,,"Wall. ex Lindl.","Q730310,Q378629",1836,,"Intr. Nat. Syst. Bot. 2: 341 1836",,,,,,,wfo-0000219340,2816810,,
-c5c873b6-8fca-11eb-924d-9cd76263cbd0,species,griffithii,Anthogonium,,Rchb.f.,Q62820,1854,,"Bonplandia (Hannover) 2: 90 1854",,,,,,616666-1,wfo-0000219351,2816811,,
+df898108-8fd1-11eb-924d-9cd76263cbd0,genus,Anthogonium,,,"Wall. ex Lindl.",0,1840,,"Intr. Nat. Syst. Bot. , ed. 2: 341 (1836)",,,,,,urn:lsid:ipni.org:names:28723-1,wfo-4000002444,2816809,,
+c491187c-8fca-11eb-924d-9cd76263cbd0,species,corydaloides,Anthogonium,,Schltr.,0,1919,,"Repert. Spec. Nov. Regni Veg. Beih. 4: 66 (1919)",,,,,,urn:lsid:ipni.org:names:616664-1,wfo-0000219329,2816812,,
+c52d0dea-8fca-11eb-924d-9cd76263cbd0,species,gracile,Anthogonium,,Wall.,0,1836,,"Intr. Nat. Syst. Bot. 2: 341 (1836)",,,,,,urn:lsid:ipni.org:names:616665-1,wfo-0000219340,2816810,,
+c5c873b6-8fca-11eb-924d-9cd76263cbd0,species,griffithii,Anthogonium,,Rchb.f.,0,1854,,"Bonplandia (Hannover) 2: 90 (1854)",,,,,,urn:lsid:ipni.org:names:616666-1,wfo-0000219351,2816811,,

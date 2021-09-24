@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5d72218-8fd1-11eb-924d-9cd76263cbd0,genus,Lessonia,,,,,,,,,,,,,,wfo-4000021462,7423417,,
-2bff61b6-8fcc-11eb-924d-9cd76263cbd0,species,bupleurifolia,Lessonia,,"Bertero ex Deless.","Q522467,Q1385980",1838,,"Icon. Sel. Pl. 3: 45 1838",,,,,,844169-1,wfo-0000360859,7764126,,
-2bffba4e-8fcc-11eb-924d-9cd76263cbd0,species,sarcophyllum,Lessonia,,Steud.,Q62821,1840,,"Nomencl. Bot. ed. 2, 2: 34 1840",,,,,,,wfo-0000360862,7781520,,
+e5d72218-8fd1-11eb-924d-9cd76263cbd0,genus,Lessonia,,,"Bertero ex Hook. & Arn.",,,,"Bot. Misc. 3: 352. 1833",,,,,,urn:lsid:ipni.org:names:40183-1,wfo-4000021462,7423417,,
+2bff61b6-8fcc-11eb-924d-9cd76263cbd0,species,bupleurifolia,Lessonia,,Bertero,0,1838,,"Icon. Select. Pl. 3: 45. 1838 [dt. 1837; publ. Feb 1838]",,,,,,urn:lsid:ipni.org:names:844169-1,wfo-0000360859,7764126,,
+48d2ff82-1d4d-11ec-82c2-f14daa6f2d93,species,bupleuroides,Lessonia,,Bertero,,,,"Icon. Select. Pl. 3: 45 (1838)",,,,,,urn:lsid:ipni.org:names:60475248-2,wfo-0001330849,,,
+5c835e8c-1d4d-11ec-82c2-f14daa6f2d93,species,bupleuroides,Lessonia,,"Bertero ex Hook. & Arn.",,,,"Bot. Misc. 3: 352. 1833",,,,,,urn:lsid:ipni.org:names:844170-1,wfo-0001357083,,,
+2bffba4e-8fcc-11eb-924d-9cd76263cbd0,species,sarcophyllum,Lessonia,,Steud.,0,1840,,"Nomencl. Bot. , ed. 2, 2: 34 (1840)",,,,,,urn:lsid:ipni.org:names:844171-1,wfo-0000360862,7781520,,

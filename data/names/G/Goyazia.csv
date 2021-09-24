@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4282124-8fd1-11eb-924d-9cd76263cbd0,genus,Goyazia,,,Taub.,Q4452735,1896,,"Bot. Jahrb. Syst. 21: 451. 1896. (11 Feb 1896)",,,,,,295716-2,wfo-4000016101,3233495,,
-050e2708-8fcd-11eb-924d-9cd76263cbd0,species,petraea,Goyazia,,"(S.M.Phillips) Wiehler","Q2883975,Q216451",1976,,"Selbyana 1: 395 1976",,Q91186881,,92db1a9c-8fcc-11eb-924d-9cd76263cbd0,,112910-2,wfo-0000708403,5592171,,
-050e43d2-8fcd-11eb-924d-9cd76263cbd0,species,rupicola,Goyazia,,Taub.,Q4452735,1896,,"Bot. Jahrb. Syst. 21: 451 1896",,,,,,,wfo-0000708404,5592163,,
-050e5e26-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Goyazia,,"(Gardner) R.A.Howard","Q2404423,Q7323572",1975,,"J. Arnold Arbor. 56: 367 1975",,Q100553189,,,,381318-1,wfo-0000708405,5592155,,
+e4282124-8fd1-11eb-924d-9cd76263cbd0,genus,Goyazia,,,Taub.,0,1896,,"Bot. Jahrb. Syst. 21: 451 (1896)",,,,,,urn:lsid:ipni.org:names:295716-2,wfo-4000016101,3233495,,
+050e2708-8fcd-11eb-924d-9cd76263cbd0,species,petraea,Goyazia,,"(S.M.Phillips) Wiehler",0,1976,,"Selbyana 1: 395 (1976)",,Q91186881,,92db1a9c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:112910-2,wfo-0000708403,5592171,,
+050e43d2-8fcd-11eb-924d-9cd76263cbd0,species,rupicola,Goyazia,,Taub.,0,1896,,"Bot. Jahrb. Syst. 21: 451 (1896)",,,,,,urn:lsid:ipni.org:names:112911-2,wfo-0000708404,5592163,,
+050e5e26-8fcd-11eb-924d-9cd76263cbd0,species,villosa,Goyazia,,"(Gardner) R.A.Howard",0,1975,,"J. Arnold Arbor. 56: 367 (1975)",,Q100553189,,,,urn:lsid:ipni.org:names:381318-1,wfo-0000708405,5592155,,

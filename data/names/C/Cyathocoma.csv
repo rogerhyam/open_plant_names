@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e250b6b8-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathocoma,,,Nees,Q76349,1834,,"Linnaea 9(3): 300. 1834.",,,,,,13680-1,wfo-4000010192,2707996,,
-300557a2-8fcc-11eb-924d-9cd76263cbd0,species,bachmannii,Cyathocoma,,"(Kük.) C.Archer","Q75987,Q18982600",1997,,"S. African J. Bot. 63: 170 1997",,Q55808715,,b3fe8100-8fcc-11eb-924d-9cd76263cbd0,,997408-1,wfo-0000367203,2708010,,
-3005ca3e-8fcc-11eb-924d-9cd76263cbd0,species,ecklonii,Cyathocoma,,Nees,Q76349,1836,,"Linnaea 10: 195 1836",,,,,,,wfo-0000367207,2708008,,
-300690cc-8fcc-11eb-924d-9cd76263cbd0,species,hexandra,Cyathocoma,,"(Nees) Browning","Q76349,Q33665273",1996,,"S. African J. Bot. 62: 250 1996",,Q55808703,,,,992994-1,wfo-0000367214,2707997,,
-3007c7c6-8fcc-11eb-924d-9cd76263cbd0,species,neesii,Cyathocoma,,Boeckeler,Q10307778,1874,,"Linnaea 38: 312 1874",,,,,,303666-1,wfo-0000367221,2708006,,
-30081ece-8fcc-11eb-924d-9cd76263cbd0,species,nigrovaginata,Cyathocoma,,Nees,Q76349,1836,,"Linnaea 10: 196 1836",,,,,,303667-1,wfo-0000367224,2718528,,
+e250b6b8-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathocoma,,,Nees,0,1834,,"Linnaea 9: 300 (1834)",,,,,,urn:lsid:ipni.org:names:13680-1,wfo-4000010192,2707996,,
+300557a2-8fcc-11eb-924d-9cd76263cbd0,species,bachmannii,Cyathocoma,,"(Kük.) C.Archer",0,1997,,"S. African J. Bot. 63: 170 (1997)",,Q55808715,,b3fe8100-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:997408-1,wfo-0000367203,2708010,,
+3005ca3e-8fcc-11eb-924d-9cd76263cbd0,species,ecklonii,Cyathocoma,,Nees,0,1836,,"Linnaea 10: 195 (1835)",,,,,,urn:lsid:ipni.org:names:303665-1,wfo-0000367207,2708008,,
+300690cc-8fcc-11eb-924d-9cd76263cbd0,species,hexandra,Cyathocoma,,"(Nees) J.Browning",0,1996,,"S. African J. Bot. 62: 250 (1996)",,Q55808703,,,,urn:lsid:ipni.org:names:992994-1,wfo-0000367214,2707997,,
+3007c7c6-8fcc-11eb-924d-9cd76263cbd0,species,neesii,Cyathocoma,,Boeckeler,0,1874,,"Linnaea 38: 312 (1874)",,,,,,urn:lsid:ipni.org:names:303666-1,wfo-0000367221,2708006,,
+30081ece-8fcc-11eb-924d-9cd76263cbd0,species,nigrovaginata,Cyathocoma,,Nees,0,1836,,"Linnaea 10: 196 (1835)",,,,,,urn:lsid:ipni.org:names:303667-1,wfo-0000367224,2718528,,

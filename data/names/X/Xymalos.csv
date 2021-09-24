@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec2e622a-8fd1-11eb-924d-9cd76263cbd0,genus,Xymalos,,,Baill.,Q461931,1893,,"Nat. Pflanzenfam. 3(6a): 53. 1893.",,,,,,4410-1,wfo-4000041053,7264544,,
-5d9d7cc6-8fcc-11eb-924d-9cd76263cbd0,species,monospora,Xymalos,,"(Harv.) Baill.","Q1378128,Q461931",1886,,"Bull. Mens. Soc. Linn. Paris 1: 650 1886",,,,b88e5f96-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000428246,3782518,,
-c1e4b45a-8fcd-11eb-924d-9cd76263cbd0,species,monospora,Xymalos,,"(Harv.) Baill. ex Warb.","Q1378128,Q461931,Q62822",1893,,"Nat. Pflanzenfam. 6a: 53, f. 21/A, B 1893",,,,b88e5f96-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001084373,7967152,,
-5d9d5750-8fcc-11eb-924d-9cd76263cbd0,species,mossambicensis,Xymalos,,Cavaco,Q8193512,1949,,"Bull. Soc. Bot. France 96: 45 1949",,Q95996885,,,,582506-1,wfo-0000428245,3782506,,
-5d9d2ee2-8fcc-11eb-924d-9cd76263cbd0,species,ulugurensis,Xymalos,,"(Engl.) Engl.",Q60718,1901,,"Bot. Jahrb. Syst. 30: 310 1901",,,,,,582507-1,wfo-0000428244,3782493,,
-5d9d08cc-8fcc-11eb-924d-9cd76263cbd0,species,usambarensis,Xymalos,,Engl.,Q60718,1901,,"Bot. Jahrb. Syst. 30: 310 1901",,,,,,112185-1,wfo-0000428243,3782481,,
+ec2e622a-8fd1-11eb-924d-9cd76263cbd0,genus,Xymalos,,,Baill.,0,1893,,"Bull. Mens. Soc. Linn. Paris 1: 650 (1886)",,,,,,urn:lsid:ipni.org:names:4410-1,wfo-4000041053,7264544,,
+5d9d7cc6-8fcc-11eb-924d-9cd76263cbd0,species,monospora,Xymalos,,Baill.,0,1886,,"Bull. Mens. Soc. Linn. Paris i. (1886) 650; Warb. in Engl. & Prantl, Naturl.Pflanzenfam. iii. 6a (1893) 53.",,,,b88e5f96-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000428246,3782518,,
+c1e4b45a-8fcd-11eb-924d-9cd76263cbd0,species,monospora,Xymalos,,Baill.,0,1893,,"Bull. Mens. Soc. Linn. Paris 1: 650 (1886)",,,,b88e5f96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:112184-1,wfo-0001084373,7967152,,
+5d9d5750-8fcc-11eb-924d-9cd76263cbd0,species,mossambicensis,Xymalos,,Cavaco,0,1949,,"Bull. Soc. Bot. France 96: 45 (1949)",,Q95996885,,,,urn:lsid:ipni.org:names:582506-1,wfo-0000428245,3782506,,
+5d9d2ee2-8fcc-11eb-924d-9cd76263cbd0,species,ulugurensis,Xymalos,,"(Engl.) Engl.",0,1901,,"Bot. Jahrb. Syst. 30: 310 (1901)",,,,,,urn:lsid:ipni.org:names:582507-1,wfo-0000428244,3782493,,
+5d9d08cc-8fcc-11eb-924d-9cd76263cbd0,species,usambarensis,Xymalos,,Engl.,0,1901,,"Bot. Jahrb. Syst. 30: 310 (1901)",,,,,,urn:lsid:ipni.org:names:112185-1,wfo-0000428243,3782481,,

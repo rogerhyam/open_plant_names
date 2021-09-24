@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e22b053a-8fd1-11eb-924d-9cd76263cbd0,genus,Crinita,,,Houtt.,Q73674,1777,,"Nat. Hist. 2(7): 361. 1777.",,,,,,,wfo-4000009695,2901118,,
-79252ec0-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Crinita,,Houtt.,Q73674,1777,,"Natuurl. Hist. 2(7): 361 1777",,,,,,,wfo-0000927088,5341102,,
-3a72f248-8fb4-11eb-924d-9cd76263cbd0,species,linearifolia,Crinita,,Moench,Q60948,1802,,"237 1802",,,,,,200382-1,wfo-0000061859,5394919,,
-486b323c-8fbb-11eb-924d-9cd76263cbd0,species,linosyris,Crinita,,"(L.) Soják","Q1043,Q4430625",,,,,,,42a29482-8fb4-11eb-924d-9cd76263cbd0,,,wfo-0000133050,8352436,,
-115e126c-8fb3-11eb-924d-9cd76263cbd0,species,punctata,Crinita,,Moench,Q60948,1794,,"578 1794",,,,,,200383-1,wfo-0000040864,5386503,,
+e22b053a-8fd1-11eb-924d-9cd76263cbd0,genus,Crinita,,,Houtt.,0,1777,,"Nat. Hist. 2(7): 361 (1777)",,,,,,urn:lsid:ipni.org:names:34426-1,wfo-4000009695,2901118,,
+79252ec0-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Crinita,,Hoult.,0,1777,,"Nat. Hist. 2(7): 361 (1777)",,,,,,urn:lsid:ipni.org:names:747851-1,wfo-0000927088,5341102,,
+3a72f248-8fb4-11eb-924d-9cd76263cbd0,species,linearifolia,Crinita,,Moench,0,1802,,"Suppl. Meth. : 237 (1802)",,,,,,urn:lsid:ipni.org:names:200382-1,wfo-0000061859,5394919,,
+486b323c-8fbb-11eb-924d-9cd76263cbd0,species,linosyris,Crinita,,"(L.) Soják",0,,,,,,,42a29482-8fb4-11eb-924d-9cd76263cbd0,,,wfo-0000133050,8352436,,
+115e126c-8fb3-11eb-924d-9cd76263cbd0,species,punctata,Crinita,,Moench,0,1794,,"Methodus : 578 (1794)",,,,,,urn:lsid:ipni.org:names:200383-1,wfo-0000040864,5386503,,

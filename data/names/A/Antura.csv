@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df916eb8-8fd1-11eb-924d-9cd76263cbd0,genus,Antura,,,Forssk.,Q27684,1775,,"Fl. Aegypt.-Arab. cvi, 63. 1775.",,,,,,,wfo-4000002541,7316750,,
-e1e74d8c-8fcb-11eb-924d-9cd76263cbd0,species,edulis,Antura,,Forssk.,Q27684,1775,,"Fl. Aegypt.-Arab. cvi 1775",,Q5862701,,,,77096-1,wfo-0000241438,8267897,,
-e1e8ce8c-8fcb-11eb-924d-9cd76263cbd0,species,hadiensis,Antura,,J.F.Gmel.,Q57230,1791,,"Syst. Nat. 405 1791",,,,,,77097-1,wfo-0000241447,3616299,,
-d4337f70-8fd1-11eb-924d-9cd76263cbd0,species,paucinervia,Antura,,A.DC.,Q123807,,,,,,,,,,wfo-0001285720,8288697,,
+df916eb8-8fd1-11eb-924d-9cd76263cbd0,genus,Antura,,,Forssk.,0,1775,,"Fl. Aegypt.-Arab. : 63 (1775)",,,,,,urn:lsid:ipni.org:names:2208-1,wfo-4000002541,7316750,,
+e1e74d8c-8fcb-11eb-924d-9cd76263cbd0,species,edules,Antura,,Forssk.,0,1775,,"Fl. Aegypt.-Arab. : cvi (1775)",,Q5862701,,,,urn:lsid:ipni.org:names:77096-1,wfo-0000241438,8267897,,
+e1e8ce8c-8fcb-11eb-924d-9cd76263cbd0,species,hadiensis,Antura,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 405 (1791)",,,,,,urn:lsid:ipni.org:names:77097-1,wfo-0000241447,3616299,,
+d4337f70-8fd1-11eb-924d-9cd76263cbd0,species,paucinervia,Antura,,A.DC.,0,,,,,,,,,,wfo-0001285720,8288697,,

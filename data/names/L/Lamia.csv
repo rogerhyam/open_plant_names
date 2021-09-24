@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a0258b82-9bad-11eb-a8a2-19ed5c03f8d3,genus,Lamia,,,Nowak.,,1884,,"Pamietn. Akad. Krakau 8: 153 (1884)",,,,a0258b82-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20301," "
 3fb56a34-9bac-11eb-a8a2-19ed5c03f8d3,species,culicis,Lamia,,"(A. Braun) Nowak.",,1883,,"Pamietn. Akad. Krakau 8: 173 (1883)",,,,5c38fec8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313122," "
-0efbae6c-9bac-11eb-a8a2-19ed5c03f8d3,species,delpiniana,Lamia,,"(Cavara) Cif.","Q4206900,Q4516707",,,,,,,80b68180-9bac-11eb-a8a2-19ed5c03f8d3,,,,,332950," "
-2c1bd6ca-8fcc-11eb-924d-9cd76263cbd0,species,renschiae,Lamiacanthus,,Bremek.,Q5171231,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 296 1944",,,,,,51909-1,wfo-0000361053,3777733,,
-2c1c0cb2-8fcc-11eb-924d-9cd76263cbd0,species,viscosus,Lamiacanthus,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 492 1891",,,,,,,wfo-0000361054,3777721,,
-704aea6c-8fcb-11eb-924d-9cd76263cbd0,species,argentatum,Lamiastrum,,"(Smejkal) Soják","Q19002242,Q4430625",1982,,"Zprávy Krajsk. Vlastiv. Muz. Olomouci 215: 4 1982",,,,8b969bfc-8fcd-11eb-924d-9cd76263cbd0,,1017193-1,wfo-0000222409,3894208,,
-705928de-8fcb-11eb-924d-9cd76263cbd0,species,flavidum,Lamiastrum,,"(F.Herm.) Ehrend.","Q5649226,Q88723",1973,,"Oesterr. Bot. Z. 122: 266 1973",,,,756c8ea6-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000222410,3894200,,
-706851b0-8fcb-11eb-924d-9cd76263cbd0,species,galeobdolon,Lamiastrum,,"(L.) Ehrend. & Polatschek","Q1043,Q88723,Q5657934",1966,,"Oesterr. Bot. Z. 113: 108 1966",,Q101062387,,8ba48140-8fcd-11eb-924d-9cd76263cbd0,,448781-1,wfo-0000222411,2927323,,
-70773626-8fcb-11eb-924d-9cd76263cbd0,subspecies,argentatum,Lamiastrum,galeobdolon,"(Smejkal) Stace","Q19002242,Q939715",1989,,"Watsonia 17: 442 1989",,,,8b969bfc-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000222412,3894182,,
-bb7d306a-8fcd-11eb-924d-9cd76263cbd0,subspecies,montanum,Lamiastrum,galeobdolon,"Ehrend. & Polatschek","Q88723,Q5657934",,,,,,,,,,wfo-0001069891,7650156,,
-7085c7e0-8fcb-11eb-924d-9cd76263cbd0,species,montanum,Lamiastrum,,"(Pers.) Ehrend.","Q346451,Q88723",1973,,"Oesterr. Bot. Z. 122: 266 1973",,,,,,,wfo-0000222413,3894173,,
-70941822-8fcb-11eb-924d-9cd76263cbd0,species,amplexicaulis,Lamiella,,"(L.) E.Fourn.","Q1043,Q2616180",1869,,"Ann. Soc. Linn. Lyon n.s., 17: 134 1869",,,,,,448783-1,wfo-0000222414,3894158,,
+0efbae6c-9bac-11eb-a8a2-19ed5c03f8d3,species,delpiniana,Lamia,,"(Cavara) Cif.",0,,,,,,,80b68180-9bac-11eb-a8a2-19ed5c03f8d3,,,,,332950," "
+2c1bd6ca-8fcc-11eb-924d-9cd76263cbd0,species,renschiae,Lamiacanthus,,Bremek.,0,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 , 41(1): 296 (1944)",,,,,,urn:lsid:ipni.org:names:51909-1,wfo-0000361053,3777733,,
+2c1c0cb2-8fcc-11eb-924d-9cd76263cbd0,species,viscosus,Lamiacanthus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 492 (1891)",,,,,,urn:lsid:ipni.org:names:51910-1,wfo-0000361054,3777721,,
+704aea6c-8fcb-11eb-924d-9cd76263cbd0,species,argentatum,Lamiastrum,,"(Smejkal) Soják",0,1982,,"Zprávy Krajsk. Vlastiv. Muz. Olomouci 215: 4 (1982)",,,,8b969bfc-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1017193-1,wfo-0000222409,3894208,,
+705928de-8fcb-11eb-924d-9cd76263cbd0,species,flavidum,Lamiastrum,,"(F.Herm.) Ehrend.",0,1973,,"Oesterr. Bot. Z. 122: 266 (1973)",,,,756c8ea6-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:448780-1,wfo-0000222410,3894200,,
+706851b0-8fcb-11eb-924d-9cd76263cbd0,species,galeobdolon,Lamiastrum,,"(L.) Ehrend. & Polatschek",0,1966,,"Oesterr. Bot. Z. 113: 108 (1966)",,Q101062387,,8ba48140-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:448781-1,wfo-0000222411,2927323,,
+70773626-8fcb-11eb-924d-9cd76263cbd0,subspecies,argentatum,Lamiastrum,galeobdolon,"(Smejkal) Stace",0,1989,,"Watsonia 17: 442 (1989)",,,,8b969bfc-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:955417-1,wfo-0000222412,3894182,,
+bb7d306a-8fcd-11eb-924d-9cd76263cbd0,subspecies,montanum,Lamiastrum,galeobdolon,"Ehrend. & Polatschek",0,,,,,,,,,,wfo-0001069891,7650156,,
+7085c7e0-8fcb-11eb-924d-9cd76263cbd0,species,montanum,Lamiastrum,,"(Pers.) Ehrend.",0,1973,,"Oesterr. Bot. Z. 122: 266 (1973)",,,,,,urn:lsid:ipni.org:names:448782-1,wfo-0000222413,3894173,,
+70941822-8fcb-11eb-924d-9cd76263cbd0,species,amplexicaulis,Lamiella,,Fourn.,0,1869,,"Ann. Soc. Linn. Lyon , n.s., 17: 134 (1869)",,,,,,urn:lsid:ipni.org:names:448783-1,wfo-0000222414,3894158,,

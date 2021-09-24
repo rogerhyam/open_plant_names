@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e907c79e-8fd1-11eb-924d-9cd76263cbd0,genus,Procopiania,,,Guşul.,,1928,,"Bul. Fac. Stiinte Cernauti 2: 434. 1928.",,,,,,,wfo-4000031207,7294752,,
-45a83872-8fcc-11eb-924d-9cd76263cbd0,species,circinalis,Procopiania,,"(Runemark) Pawł.","Q5650687,Q9175591",1971,,"Fragm. Florist. Geobot. 17: 48 1971",,,,,,120313-1,wfo-0000397484,7513748,,
-45a81018-8fcc-11eb-924d-9cd76263cbd0,species,cretica,Procopiania,,"(Willd.) Gusul.",Q76353,1928,,"Bul. Fac. ?ti. Cern?uti 2: 435 1928",,,,,,,wfo-0000397483,7294753,,
-45a92b6a-8fcc-11eb-924d-9cd76263cbd0,species,euboica,Procopiania,,Runemark,Q5650687,1961,,"Bot. Jahrb. Syst. 80: 376 1961",,,,,,120315-1,wfo-0000397490,4061365,,
-45a7d08a-8fcc-11eb-924d-9cd76263cbd0,species,insularis,Procopiania,,Pawł.,Q9175591,1971,,"Fragm. Florist. Geobot. 17: 45 1971",,,,,,120316-1,wfo-0000397481,4061358,,
+e907c79e-8fd1-11eb-924d-9cd76263cbd0,genus,Procopiania,,,Gușul.,,1928,,"Bul. Fac. Sti. Cernauti 2: 434 (1928)",,,,,,urn:lsid:ipni.org:names:4765-1,wfo-4000031207,7294752,,
+45a83872-8fcc-11eb-924d-9cd76263cbd0,species,circinalis,Procopiania,,"(Runemark) Pawł.",0,1971,,"Fragm. Florist. Geobot. 17: 48 (1971)",,,,,,urn:lsid:ipni.org:names:120313-1,wfo-0000397484,7513748,,
+45a81018-8fcc-11eb-924d-9cd76263cbd0,species,cretica,Procopiania,,Gușul.,0,1928,,"Bul. Fac. Sti. Cernauti ii. 435 (1928).",,,,,,urn:lsid:ipni.org:names:120314-1,wfo-0000397483,7294753,,
+453a5f28-1d4d-11ec-82c2-f14daa6f2d93,form,nuda,Procopiania,cretica,Pawł.,,,,"Fragm. Florist. Geobot. 17(1): 45. 1971",,,,,,urn:lsid:ipni.org:names:874964-1,wfo-0001325945,,,
+7ce98c78-1d4d-11ec-82c2-f14daa6f2d93,variety,squamulata,Procopiania,cretica,Pawł.,,,,"Fragm. Florist. Geobot. 17(1): 45. 1971",,,,,,urn:lsid:ipni.org:names:874965-1,wfo-0001400842,,,
+45a92b6a-8fcc-11eb-924d-9cd76263cbd0,species,euboica,Procopiania,,"Runemark in Rech.f.",0,1961,,"Bot. Jahrb. Syst. 80: 376 (1961)",,,,,,urn:lsid:ipni.org:names:120315-1,wfo-0000397490,4061365,,
+45a7d08a-8fcc-11eb-924d-9cd76263cbd0,species,insularis,Procopiania,,Pawł.,0,1971,,"Fragm. Florist. Geobot. 17: 45 (1971)",,,,,,urn:lsid:ipni.org:names:120316-1,wfo-0000397481,4061358,,

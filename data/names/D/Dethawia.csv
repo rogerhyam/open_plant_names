@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2a096f6-8fd1-11eb-924d-9cd76263cbd0,genus,Dethawia,,,Endl.,Q78605,1839,,"Gen. Pl. 775. 1839.",,,,,,39908-1,wfo-4000011238,6026452,,
-df86dd5e-8fcc-11eb-924d-9cd76263cbd0,species,splendens,Dethawia,,"(Lapeyr.) Kerguélen","Q55064056,Q2601202",1993,,"Coll. Patrim. Nat. 8: xiii 1993",,,,bfb779ca-8fd1-11eb-924d-9cd76263cbd0,,971190-1,wfo-0000642475,6027158,,
-df87118e-8fcc-11eb-924d-9cd76263cbd0,subspecies,cantabrica,Dethawia,splendens,"(A.Bolòs) Kerguélen","Q5700152,Q2601202",1993,,"Coll. Patrim. Nat. 8: xiii 1993",,,,df86f71c-8fcc-11eb-924d-9cd76263cbd0,,971191-1,wfo-0000642477,7912155,,
-df872bec-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Dethawia,,Endl.,Q78605,1839,,"Gen. Pl. 775 1839",,,,,,841261-1,wfo-0000642478,3630693,,
-df86f71c-8fcc-11eb-924d-9cd76263cbd0,subspecies,cantabrica,Dethawia,tenuifolia,A.Bolòs,Q5700152,1953,,"Collect. Bot. (Barcelona) 3: 337 1953",,,,,,,wfo-0000642476,6307727,,
+e2a096f6-8fd1-11eb-924d-9cd76263cbd0,genus,Dethawia,,,Endl.,0,1839,,"Gen. Pl. : 775 (1839)",,,,,,urn:lsid:ipni.org:names:39908-1,wfo-4000011238,6026452,,
+df86dd5e-8fcc-11eb-924d-9cd76263cbd0,species,splendens,Dethawia,,"(Lapeyr.) Kerguélen",0,1993,,"Coll. Patrim. Nat. 8: xiii (1993)",,,,bfb779ca-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:971190-1,wfo-0000642475,6027158,,
+df87118e-8fcc-11eb-924d-9cd76263cbd0,subspecies,cantabrica,Dethawia,splendens,"(A.Bolòs) Kerguélen",0,1993,,"Coll. Patrim. Nat. 8: xiii (1993)",,,,df86f71c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:971191-1,wfo-0000642477,7912155,,
+df872bec-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Dethawia,,Endl.,0,1839,,"Gen. Pl. : 775 (1839)",,,,,,urn:lsid:ipni.org:names:841261-1,wfo-0000642478,3630693,,
+df86f71c-8fcc-11eb-924d-9cd76263cbd0,subspecies,cantabrica,Dethawia,tenuifolia,A.Bolòs,0,1953,,"Collect. Bot. (Barcelona) 3: 337 1953",,,,,,urn:lsid:ipni.org:names:50977739-1,wfo-0000642476,6307727,,

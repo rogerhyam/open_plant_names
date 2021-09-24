@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebf62522-8fd1-11eb-924d-9cd76263cbd0,genus,Vismianthus,,,Mildbr.,Q470035,1935,,"Notizbl. Bot. Gart. Berlin–Dahlem 12: 706. 1935. (6 Dec 1935)",,Q55777617,,,,11773-1,wfo-4000040350,7326622,,
-dac10ef2-8fd1-11eb-924d-9cd76263cbd0,species,punctatus,Vismianthus,,Mildbr.,Q470035,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 706 1935",,Q55777617,,,,265029-1,wfo-0001296608,3687026,,
-cd690066-8fd1-11eb-924d-9cd76263cbd0,species,sterculiifolius,Vismianthus,,"(Prain) Breteler & Brouwer","Q689862,Q2451725,Q88812153",1989,,"Agric. Univ. Wageningen Pap. 89(6): 373–374 1989",,,,,,947208-1,wfo-0001278803,3687014,,
+ebf62522-8fd1-11eb-924d-9cd76263cbd0,genus,Vismianthus,,,Mildbr.,0,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 706 (1935)",,Q55777617,,,,urn:lsid:ipni.org:names:11773-1,wfo-4000040350,7326622,,
+dac10ef2-8fd1-11eb-924d-9cd76263cbd0,species,punctatus,Vismianthus,,Mildbr.,0,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 706 (1935)",,Q55777617,,,,urn:lsid:ipni.org:names:265029-1,wfo-0001296608,3687026,,
+cd690066-8fd1-11eb-924d-9cd76263cbd0,species,sterculiifolius,Vismianthus,,"(Prain) Breteler & J.Brouwer",0,1989,,"Agric. Univ. Wageningen Pap. 89(6): 373 (1989)",,,,,,urn:lsid:ipni.org:names:947208-1,wfo-0001278803,3687014,,

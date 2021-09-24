@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e34dad0a-8fd1-11eb-924d-9cd76263cbd0,genus,Endiusa,,,,,,,,,,,,,,wfo-4000013387,7302069,,
-9e0503dc-8fc3-11eb-924d-9cd76263cbd0,species,hirsuta,Endiusa,,Alef.,Q62876,,,,,,,,,,wfo-0000183732,2975329,,
-ee5cec88-8fcc-11eb-924d-9cd76263cbd0,species,loiseleurii,Endiusa,,"(M.Bieb.) Alef.","Q66612,Q62876",1859,,"Oesterr. Bot. Z. 9: 360 1859",,Q101054956,,1934ff70-8fc5-11eb-924d-9cd76263cbd0,,493812-1,wfo-0000667731,3970892,,
-83037e9c-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Endlichera,,C.Presl,Q379601,1832,,"Symb. Bot. 1: 74 1832",,,,,,,wfo-0000949004,2908073,,
-8303b754-8fcd-11eb-924d-9cd76263cbd0,species,umbellata,Endlichera,,"(Spreng.) K.Schum.","Q62829,Q63545",1888,,"Fl. Bras. 6(6): 38 1888",,,,,,748752-1,wfo-0000949006,2908066,,
+e34dad0a-8fd1-11eb-924d-9cd76263cbd0,genus,Endiusa,,,Alef.,,,,"Oesterr. Bot. Z. 9: 359 (1859)",,,,,,urn:lsid:ipni.org:names:22363-1,wfo-4000013387,7302069,,
+9e0503dc-8fc3-11eb-924d-9cd76263cbd0,species,hirsuta,Endiusa,,"(L.) Alef.",0,,,"Oesterr. Bot. Z. 9: 360 (1859)",,,,,,urn:lsid:ipni.org:names:493811-1,wfo-0000183732,2975329,,
+ee5cec88-8fcc-11eb-924d-9cd76263cbd0,species,loiseleurii,Endiusa,,"(M.Bieb.) Alef.",0,1859,,"Oesterr. Bot. Z. 9: 360 (1859)",,Q101054956,,1934ff70-8fc5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:493812-1,wfo-0000667731,3970892,,

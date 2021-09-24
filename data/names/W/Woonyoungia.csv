@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a4274cc8-9a06-11eb-a8a2-19ed5c03f8d3,genus,Woonyoungia,,,Y.W.Law,Q6170469,1997,,"Bull. Bot. Res., Harbin 17(4): 354",,Q96107908,,,,1000749-1,,,,
-1ba1f31a-8fcc-11eb-924d-9cd76263cbd0,species,septentrionalis,Woonyoungia,,"(Dandy) Y.W.Law","Q345866,Q6170469",1997,,"Bull. Bot. Res., Harbin 17: 356 1997",,Q96107908,,2731f38e-8fcb-11eb-924d-9cd76263cbd0,,1000750-1,wfo-0000334497,3153032,,
-f6352524-8fb8-11eb-924d-9cd76263cbd0,species,nana,Wootonella,,"(A.Gray) Standl.","Q347356,Q1333160",1912,,"120 1912",,,,,,269134-2,wfo-0000114158,3148176,,
+a4274cc8-9a06-11eb-a8a2-19ed5c03f8d3,genus,Woonyoungia,,,Y.W.Law,0,1997,,"Bull. Bot. Res., Harbin 17(4): 354",,Q96107908,,,,1000749-1,,,,
+1ba1f31a-8fcc-11eb-924d-9cd76263cbd0,species,septentrionalis,Woonyoungia,,"(Dandy) Y.W.Law",0,1997,,"Bull. Bot. Res., Harbin 17: 356 (1997)",,Q96107908,,2731f38e-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1000750-1,wfo-0000334497,3153032,,
+4b1fa786-1d4d-11ec-82c2-f14daa6f2d93,species,thailandica,Woonyoungia,,"(Noot. & Chalermglin) N.H.Xia",,,,"Proc. Int. Symp. Magnoliac. 2: 31 (2012)",,,,,,urn:lsid:ipni.org:names:77121795-1,wfo-0001333942,,,
+f6352524-8fb8-11eb-924d-9cd76263cbd0,species,nana,Wootonella,,Standl.,0,1912,,"Proc. Biol. Soc. Washington 25: 120 (1912)",,,,,,urn:lsid:ipni.org:names:269134-2,wfo-0000114158,3148176,,

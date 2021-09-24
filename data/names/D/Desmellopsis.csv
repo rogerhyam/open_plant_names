@@ -2,8 +2,5 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 a7617b22-9bad-11eb-a8a2-19ed5c03f8d3,genus,Desmellopsis,,,"J.M. Yen",,1969,,"Revue Mycol., Paris 34: 20 (1969)",,,,a7617b22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,16095," "
 1b85397c-9bad-11eb-a8a2-19ed5c03f8d3,species,aframomicola,Desmellopsis,,"J.M. Yen",,1969,,"Revue Mycol., Paris 34: 21 (1969)",,,,1b85397c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329833," afromomicola"
 67bdb314-9bad-11eb-a8a2-19ed5c03f8d3,species,afromomicola,Desmellopsis,,"J.M. Yen",,,,,,,,67bdb314-9bad-11eb-a8a2-19ed5c03f8d3,,,,,260528," Desmellopsis aframomicola"
-7fdc8a6a-8fcd-11eb-924d-9cd76263cbd0,species,orixensis,Desmesia,,"(Roxb. ex Andrews) Raf.","Q748967,Q947133,Q364857",1837,,"Fl. Tellur. 3: 63 1837",,,,,,86834-1,wfo-0000941909,2869566,,
-7fdca6e4-8fcd-11eb-924d-9cd76263cbd0,species,venosum,Desmesia,,"(Dryand. ex Aiton) Raf.","Q2500507,Q465898,Q364857",1837,,"Fl. Tellur. 3: 63 1837",,,,fadb06a8-8fcb-11eb-924d-9cd76263cbd0,,86835-1,wfo-0000941910,2869587,,
-df4efbe6-8fcc-11eb-924d-9cd76263cbd0,species,aequalis,Desmia,,D.Don,Q1174244,1834,,"Edinburgh New Philos. J. 17: 153 1834",,,,,,327751-1,wfo-0000642072,5684563,,
-df4f163a-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Desmia,,D.Don,Q1174244,1834,,"Edinburgh New Philos. J. 17: 153 1834",,,,,,327752-1,wfo-0000642073,5684560,,
-df4f32dc-8fcc-11eb-924d-9cd76263cbd0,species,polifolia,Desmia,,D.Don,Q1174244,1834,,"Edinburgh New Philos. J. 17: 153 1834",,,,,,327753-1,wfo-0000642074,5684556,,
+7fdc8a6a-8fcd-11eb-924d-9cd76263cbd0,species,orixensis,Desmesia,,Raf.,0,1837,,"Fl. Tellur. 3: 63 (1837)",,,,,,urn:lsid:ipni.org:names:86834-1,wfo-0000941909,2869566,,
+7fdca6e4-8fcd-11eb-924d-9cd76263cbd0,species,venosa,Desmesia,,"(Aiton) Raf.",0,1837,,"Fl. Tellur. 3: 63 (1837)",,,,fadb06a8-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:86835-1,wfo-0000941910,2869587,,

@@ -1,9 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-1624fbe4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Chrysalidopsis,,,Steyaert,Q4441496,1961,,"Darwiniana 12(2): 171 (1961)",,,,1624fbe4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,7641," "
-1a1aad9c-9bad-11eb-a8a2-19ed5c03f8d3,species,trevoae,Chrysalidopsis,,"(Speg.) Steyaert","Q648013,Q4441496",1961,,"Darwiniana 12(2): 171 (1961)",,,,74a53144-9bab-11eb-a8a2-19ed5c03f8d3,,,,,328196," "
-4bb07eae-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Chrysallidosperma,,H.E.Moore,Q364731,1963,,"Principes 7: 110 1963",,,,,,57539-2,wfo-0000853292,2737112,,
-c90a8288-8fcc-11eb-924d-9cd76263cbd0,species,californica,Chrysamphora,,"(Torr.) Greene","Q1346660,Q2661665",1891,,"Pittonia 2: 191 1891",,,,,,57540-2,wfo-0000603729,3190680,,
-4121c8d0-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Chrysangia,,"(L.f.) Link","Q178823,Q215466",1829,,"Handbuch 1: 632 1829",,,,3f72f2f2-8fcd-11eb-924d-9cd76263cbd0,,141712-1,wfo-0000830282,3164488,,
-0f194c46-8fb4-11eb-924d-9cd76263cbd0,species,fasciculata,Chrysanthellina,,Cass.,Q958431,1822,,1822,,,,,,,wfo-0000059288,3088358,,
-1a7f0208-8fb2-11eb-924d-9cd76263cbd0,species,gracilis,Chrysanthellina,,Cass.,Q958431,1822,,1822,,,,,,,wfo-0000011405,3088356,,
-3a99b3c6-8fb2-11eb-924d-9cd76263cbd0,species,swartzii,Chrysanthellina,,Cass.,Q958431,1822,,1822,,,,,,,wfo-0000016498,3088359,,
+1624fbe4-9bac-11eb-a8a2-19ed5c03f8d3,genus,Chrysalidopsis,,,Steyaert,0,1961,,"Darwiniana 12(2): 171 (1961)",,,,1624fbe4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,7641," "
+1a1aad9c-9bad-11eb-a8a2-19ed5c03f8d3,species,trevoae,Chrysalidopsis,,"(Speg.) Steyaert",0,1961,,"Darwiniana 12(2): 171 (1961)",,,,74a53144-9bab-11eb-a8a2-19ed5c03f8d3,,,,,328196," "

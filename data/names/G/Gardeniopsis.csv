@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3e70aae-8fd1-11eb-924d-9cd76263cbd0,genus,Gardeniopsis,,,Miq.,Q76742,1868,,"Ann. Mus. Bot. Lugduno-Batavi 4: 250, 262. 1868.",,,,,,34639-1,wfo-4000015325,2894085,,
-8d69e1dc-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Gardeniopsis,,Miq.,Q76742,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 250 1869",,,,,,,wfo-0000971267,2894086,,
-24a8bfba-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Gardinia,,Bertero,Q522467,1829,,"Mercurio Chileno s.p. 1829",,,,,,,wfo-0000768896,7740965,,
-24a8dbee-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Gardinia,,"(Kunth) Bertero ex Steud.","Q77074,Q522467,Q62821",1840,,"Nomencl. Bot. ed. 2, 1: 664 1840",,,,,,535721-1,wfo-0000768897,8180497,,
+e3e70aae-8fd1-11eb-924d-9cd76263cbd0,genus,Gardeniopsis,,,Miq.,0,1868,,"Ann. Mus. Bot. Lugduno-Batavi 4: 250 (1869)",,,,,,urn:lsid:ipni.org:names:34639-1,wfo-4000015325,2894085,,
+8d69e1dc-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Gardeniopsis,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 250 (1869)",,,,,,urn:lsid:ipni.org:names:751330-1,wfo-0000971267,2894086,,
+24a8bfba-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Gardinia,,Bertero,0,1829,,"Mercurio Chileno 14: 643. 1829 [15 May 1829]",,,,,,urn:lsid:ipni.org:names:535720-1,wfo-0000768896,7740965,,
+24a8dbee-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Gardinia,,"(Kunth) Bertero ex Steud.",0,1840,,"Nomencl. Bot.  [Steudel], ed. 2. 1: 664. 1840",,,,,,urn:lsid:ipni.org:names:535721-1,wfo-0000768897,8180497,,

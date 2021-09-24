@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3851376-8fd1-11eb-924d-9cd76263cbd0,genus,Etornotus,,,,,,,,,,,,,,wfo-4000014074,7333232,,
-f5df039c-8fcc-11eb-924d-9cd76263cbd0,species,papilionaceus,Etornotus,,"(L.) Speta","Q1043,Q86532",1979,,"Pl. Syst. Evol. 132: 4 1979",,Q55755174,,,,802289-1,wfo-0000680925,3740828,,
-f5df4596-8fcc-11eb-924d-9cd76263cbd0,species,persicus,Etornotus,,Raf.,Q364857,1840,,"Autik. Bot. 155 1840",,,,,,802290-1,wfo-0000680926,3740821,,
-f5df7f20-8fcc-11eb-924d-9cd76263cbd0,species,aromatica,Etoxoe,,"(Wulfen) Raf.","Q698014,Q364857",1840,,"Good Book 53 1840",,,,,,842111-1,wfo-0000680927,3640686,,
-7568203a-8fcd-11eb-924d-9cd76263cbd0,species,ettlingeriana,,,"M.J.Clark & L.Lewis","Q36622349,Q21516563",2011,,"New J. Bot. 1: 24 2011",,Q55762287,,,,77114765-1,wfo-0000921406,,,
+e3851376-8fd1-11eb-924d-9cd76263cbd0,genus,Etornotus,,,Raf.,,,,,,,,,,urn:lsid:ipni.org:names:37639-1,wfo-4000014074,7333232,,
+f5df039c-8fcc-11eb-924d-9cd76263cbd0,species,papilionaceus,Etornotus,,"(L.) Speta",0,1979,,"Pl. Syst. Evol. 132(1-2): 4. 1979",,Q55755174,,,,urn:lsid:ipni.org:names:802289-1,wfo-0000680925,3740828,,
+f5df4596-8fcc-11eb-924d-9cd76263cbd0,species,persicus,Etornotus,,Raf.,0,1840,,"Autik. Bot. 155. 1840",,,,,,urn:lsid:ipni.org:names:802290-1,wfo-0000680926,3740821,,
+f5df7f20-8fcc-11eb-924d-9cd76263cbd0,species,aromatica,Etoxoe,,Raf.,0,1840,,"Good Book : 53 (1840)",,,,,,urn:lsid:ipni.org:names:842111-1,wfo-0000680927,3640686,,

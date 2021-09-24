@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e705d062-8fd1-11eb-924d-9cd76263cbd0,genus,Myrothamnus,,,Welw.,Q78609,1858,,"Ann. Cons. Ultramarino Parte nao Off. (Apont.) 578. 1858[1859]. (Dec 1859)",,,,,,19605-1,wfo-4000025185,7331508,,
-6a7f9cd0-8fcc-11eb-924d-9cd76263cbd0,species,flabellifolia,Myrothamnus,,Welw.,Q78609,1859,,"Apont. 578 1859",,,,,,430734-1,wfo-0000447606,,,
-c24c1dac-8fcd-11eb-924d-9cd76263cbd0,species,moschatus,Myrothamnus,,"(Baill.) Baill.",Q461931,1870,,"Adansonia 9: 330 1870",,,,,,430735-1,wfo-0001085285,7734665,,
+e705d062-8fd1-11eb-924d-9cd76263cbd0,genus,Myrothamnus,,,Welw.,0,1858,,"Apont. : 578 (1859)",,,,,,urn:lsid:ipni.org:names:19605-1,wfo-4000025185,7331508,,
+6a7f9cd0-8fcc-11eb-924d-9cd76263cbd0,species,flabellifolia,Myrothamnus,,Welw.,0,1859,,"Apont. : 578 (1859)",,,,,,urn:lsid:ipni.org:names:430734-1,wfo-0000447606,,,
+c24c1dac-8fcd-11eb-924d-9cd76263cbd0,species,moschata,Myrothamnus,,Baill.,0,1870,,"Adansonia 9: 330 (1870)",,,,,,urn:lsid:ipni.org:names:430735-1,wfo-0001085285,7734665,,

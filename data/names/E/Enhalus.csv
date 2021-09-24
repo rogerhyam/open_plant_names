@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3526bf6-8fd1-11eb-924d-9cd76263cbd0,genus,Enhalus,,,Rich.,Q714754,1814,,"Mém. Cl. Sci. Math. Inst. Natl. France 12(2): 64. 1814.",,,,,,19699-1,wfo-4000013458,2866112,,
-258f688e-8fcd-11eb-924d-9cd76263cbd0,species,acoroides,Enhalus,,"(L.f.) Royle","Q178823,Q713874",1839,,"Ill. Bot. Himal. Mts. 1: 377 1839",,,,254593f8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000770776,2866113,,
-258f840e-8fcd-11eb-924d-9cd76263cbd0,species,koenigii,Enhalus,,Rich.,Q714754,1814,,"Mém. Cl. Sci. Math. Inst. Natl. France 12(2): 78 1814",,,,,,,wfo-0000770777,2866117,,
-258f9e76-8fcd-11eb-924d-9cd76263cbd0,species,marinus,Enhalus,,Griff.,Q11705310,1851,,"Not. Pl. Asiat. 3: 178 1851",,,,,,431739-1,wfo-0000770778,2866114,,
-258fb780-8fcd-11eb-924d-9cd76263cbd0,species,angustipetala,Enhydrias,,Ridl.,Q733709,1900,,"J. Bot. 38: 69 1900",,,,,,431740-1,wfo-0000770779,2865994,,
-258fd3aa-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Enhydrias,angustipetala,Ridl.,Q733709,1924,,"Fl. Malay Penins. 4: 2 1924",,,,,,,wfo-0000770780,2865985,,
+e3526bf6-8fd1-11eb-924d-9cd76263cbd0,genus,Enhalus,,,Rich.,0,1814,,"Mém. Cl. Sci. Math. Inst. Natl. France 12(2): 64 (1811 publ. 1814)",,,,,,urn:lsid:ipni.org:names:19699-1,wfo-4000013458,2866112,,
+258f688e-8fcd-11eb-924d-9cd76263cbd0,species,acoroides,Enhalus,,"(L.f.) Royle",0,1839,,"Ill. Bot. Himal. Mts. 1: 377 (1839)",,,,254593f8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:160634-3,wfo-0000770776,2866113,,
+258f840e-8fcd-11eb-924d-9cd76263cbd0,species,koenigii,Enhalus,,Rich.,0,1814,,"Mém. Cl. Sci. Math. Inst. Natl. France 12(2): 78 (1811 publ. 1814)",,,,,,urn:lsid:ipni.org:names:431738-1,wfo-0000770777,2866117,,
+258f9e76-8fcd-11eb-924d-9cd76263cbd0,species,marinus,Enhalus,,Griff.,0,1851,,"Not. Pl. Asiat. 3: 178 (1851)",,,,,,urn:lsid:ipni.org:names:431739-1,wfo-0000770778,2866114,,
+258fb780-8fcd-11eb-924d-9cd76263cbd0,species,angustipetala,Enhydrias,,Ridl.,0,1900,,"J. Bot. 38: 69 (1900)",,,,,,urn:lsid:ipni.org:names:431740-1,wfo-0000770779,2865994,,
+258fd3aa-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,Enhydrias,angustipetala,Ridl.,0,1924,,"Fl. Malay Penins. 4: 2 1924",,,,,,,wfo-0000770780,2865985,,

@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3b1d78a-8fd1-11eb-924d-9cd76263cbd0,genus,Fenestraria,,,N.E.Br.,Q721850,1925,,"Gard. Chron. ser. 3. 78: 433. 1925.",,,,,,16182-1,wfo-4000014663,7503567,,
-f8c7c346-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Fenestraria,,N.E.Br.,Q721850,1926,,"Gen. S. Afr. Fl. Pl. 246 1926",,,,,,,wfo-0000686224,7329189,,
-f8c7e448-8fcc-11eb-924d-9cd76263cbd0,form,rhopalophylla,Fenestraria,aurantiaca,"(Schltr. & Diels) G.D.Rowley","Q62278,Q77123,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,,,874023-1,wfo-0000686225,3703411,,
-f8c8025c-8fcc-11eb-924d-9cd76263cbd0,species,rhopalophylla,Fenestraria,,"(Schltdl. & Diels) N.E.Br.","Q62826,Q77123,Q721850",1927,,"Gard. Chron. III, 82: 263 1927",,,,,,361859-1,wfo-0000686226,,,
-f8c8388a-8fcc-11eb-924d-9cd76263cbd0,subspecies,aurantiaca,Fenestraria,rhopalophylla,"(N.E.Br.) H.E.K.Hartmann","Q721850,Q1594418",1982,,"Bot. Jahrb. Syst. 103: 180 1982",,,,f8c7c346-8fcc-11eb-924d-9cd76263cbd0,,920939-1,wfo-0000686228,3703398,,
+e3b1d78a-8fd1-11eb-924d-9cd76263cbd0,genus,Fenestraria,,,N.E.Br.,0,1925,,"in Gard. Chron., ser. 3, 78: 433. 1925.",,,,,,,wfo-4000014663,7503567,,
+f8c7c346-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Fenestraria,,N.E.Br.,0,1926,,"in: Phillips, E. P., Gen. S. Afr. Fl. Pl.: . 1926.",,,,,,,wfo-0000686224,7329189,,
+8850e462-1d4d-11ec-82c2-f14daa6f2d93,form,aurantiaca,Fenestraria,aurantiaca,G.D.Rowley,,,,"in Natl. Cact. Succ. J. 28: 6. 1973.",,,,,,,wfo-0001435368,,,
+f8c7e448-8fcc-11eb-924d-9cd76263cbd0,form,rhopalophylla,Fenestraria,aurantiaca,"(Schltr. & Diels) G.D.Rowley",0,1973,,"in Natl. Cact. Succ. J. 28: 6. 1973.",,,,,,,wfo-0000686225,3703411,,
+f8c8025c-8fcc-11eb-924d-9cd76263cbd0,species,rhopalophylla,Fenestraria,,"(Schltr. & Diels) N.E.Br.",0,1927,,"in Gard. Chron., ser. 3, 82: 263. 1927.",,,,,,,wfo-0000686226,,,
+f8c8388a-8fcc-11eb-924d-9cd76263cbd0,subspecies,aurantiaca,Fenestraria,rhopalophylla,"(N.E.Br.) H.E.K.Hartmann",0,1982,,"in Bot. Jahrb. Syst. 103: 180. 1982.",,,,f8c7c346-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000686228,3703398,,
+36bc096a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,rhopalophylla,Fenestraria,rhopalophylla,,,,,,,,,,,,wfo-0001293167,,,

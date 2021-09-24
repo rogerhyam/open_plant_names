@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea75a1be-8fd1-11eb-924d-9cd76263cbd0,genus,Skoliopteris,,,Cuatrec.,Q3088960,1958,,"Webbia 13: 451. 1958.",,,,,,,wfo-4000035590,7285410,,
-cce5e3c0-8fd1-11eb-924d-9cd76263cbd0,species,lehmanniana,Skoliopteris,,"(Nied.) Cuatrec.","Q77958,Q3088960",1958,,"Webbia 13: 452 1958",,Q55757932,,be461c9e-8fcd-11eb-924d-9cd76263cbd0,,237371-2,wfo-0001277880,7285411,,
+ea75a1be-8fd1-11eb-924d-9cd76263cbd0,genus,Skoliopteris,,,Cuatrec.,0,1958,,"Webbia 13: 451 (1958)",,,,,,urn:lsid:ipni.org:names:295116-2,wfo-4000035590,7285410,,
+cce5e3c0-8fd1-11eb-924d-9cd76263cbd0,species,lehmanniana,Skoliopteris,,"(Nied.) Cuatrec.",0,1958,,"Webbia 13: 452 (1958)",,Q55757932,,be461c9e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:237371-2,wfo-0001277880,7285411,,
+7a12350e-1d4d-11ec-82c2-f14daa6f2d93,variety,matogrossensis,Skoliopteris,lehmanniana,Mattos,,,,"Loefgrenia 47: [2]. 1970",,,,,,urn:lsid:ipni.org:names:237372-2,wfo-0001397174,,,

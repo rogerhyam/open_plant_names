@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e21a689c-8fd1-11eb-924d-9cd76263cbd0,genus,Coula,,,Baill.,Q461931,1862,,"Adansonia 3: 61. 1862. (Oct 1862)",,,,,,28162-1,wfo-4000009496,3232582,,
-d51b93d2-8fcc-11eb-924d-9cd76263cbd0,species,cabrae,Coula,,"De Wild. & T.Durand","Q2628388,Q1839687",1899,,"Bull. Soc. Roy. Bot. Belgique Compt. Rend. 38: 189 1899",,,,,,607745-1,wfo-0000624100,7639556,,
-d51bad86-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Coula,,Baill.,Q461931,1862,,"Adansonia 3: 61 1862",,,,,,607746-1,wfo-0000624101,7859707,,
-d51be08a-8fcc-11eb-924d-9cd76263cbd0,species,utilis,Coula,,S.Moore,Q2975984,1920,,"J. Bot. 58: 226 1920",,,,,,607747-1,wfo-0000624103,8381500,,
+e21a689c-8fd1-11eb-924d-9cd76263cbd0,genus,Coula,,,Baill.,0,1862,,"Adansonia 3: 61 (1862)",,,,,,urn:lsid:ipni.org:names:28162-1,wfo-4000009496,3232582,,
+d51b93d2-8fcc-11eb-924d-9cd76263cbd0,species,cabrae,Coula,,"De Wild. & T.Durand",0,1899,,"Bull. Soc. Roy. Bot. Belgique , Compt. Rend. 38: 189 (1899)",,,,,,urn:lsid:ipni.org:names:607745-1,wfo-0000624100,7639556,,
+d51bad86-8fcc-11eb-924d-9cd76263cbd0,species,edulis,Coula,,Baill.,0,1862,,"Adansonia 3: 61 (1862)",,,,,,urn:lsid:ipni.org:names:607746-1,wfo-0000624101,7859707,,
+3e1ba4d6-1d4d-11ec-82c2-f14daa6f2d93,variety,cabrae,Coula,edulis,"(De Wild. & T.Durand) J.Léonard",,,,,,,,,,,wfo-0001316049,,,
+d51be08a-8fcc-11eb-924d-9cd76263cbd0,species,utilis,Coula,,S.Moore,0,1920,,"J. Bot. 58: 226 (1920)",,,,,,urn:lsid:ipni.org:names:607747-1,wfo-0000624103,8381500,,

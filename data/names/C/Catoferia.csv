@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e150a566-8fd1-11eb-924d-9cd76263cbd0,genus,Catoferia,,,"(Benth.) Benth.",Q731808,,,"Gen. Pl. 2: 1163, 1173–1174. 1876. (May 1876)",,,,,,30235197-2,wfo-4000007021,7308581,,
-3c4171b2-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Catoferia,,"(Benth.) Hemsl.","Q731808,Q1339247",1882,,"Biol. Cent.-Amer., Bot. 2: 541 1882",,,,,,,wfo-0000819855,3897312,,
-3c42acee-8fcd-11eb-924d-9cd76263cbd0,species,chiapensis,Catoferia,,"A.Gray ex Benth.","Q347356,Q731808",,,"Hooker's Icon. Pl. 13: t. 1215 1877",,,,,,,wfo-0000819866,8310338,,
-3c43c2be-8fcd-11eb-924d-9cd76263cbd0,species,martinezii,Catoferia,,Ramamoorthy,Q18719898,1986,,"Kew Bull. 41: 303 1986",,Q55778084,,,,930031-1,wfo-0000819876,3897305,,
-3c45003e-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Catoferia,,"(Benth.) Benth.",Q731808,,,"Hooker's Icon. Pl. 13: t. 1215 1877",,,,,,,wfo-0000819887,3897272,,
+e150a566-8fd1-11eb-924d-9cd76263cbd0,genus,Catoferia,,,"(Benth.) Benth.",0,,,"Gen. Pl. 2: 1173 (1876)",,,,,,urn:lsid:ipni.org:names:30235197-2,wfo-4000007021,7308581,,
+3c4171b2-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Catoferia,,"(Benth.) Hemsl.",0,1882,,"Biol. Cent.-Amer., Bot. 2: 541 (1882)",,,,,,urn:lsid:ipni.org:names:1120915-2,wfo-0000819855,3897312,,
+3c42acee-8fcd-11eb-924d-9cd76263cbd0,species,chiapensis,Catoferia,,"A.Gray ex Benth.",0,,,"Hooker's Icon. Pl. 13: t. 1215 (1877)",,,,,,urn:lsid:ipni.org:names:77176731-1,wfo-0000819866,8310338,,
+3c43c2be-8fcd-11eb-924d-9cd76263cbd0,species,martinezii,Catoferia,,Ramamoorthy,0,1986,,"Kew Bull. 41: 303 (1986)",,Q55778084,,,,urn:lsid:ipni.org:names:930031-1,wfo-0000819876,3897305,,
+3c45003e-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Catoferia,,"(Benth.) Benth.",0,,,"Hooker's Icon. Pl. 13: t. 1215 (1877)",,,,,,urn:lsid:ipni.org:names:1150341-2,wfo-0000819887,3897272,,

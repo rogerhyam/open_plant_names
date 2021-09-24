@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaca8d82-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanocaryum,,,Popov,Q1990021,1951,,"Not. Syst. Acad. Sci. U.R.S.S. 14: 340. 1951.",,,,,,,wfo-4000036575,7295581,,
-60bf9aba-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Stephanocaryum,,"(B.Fedtsch.) Popov","Q2910947,Q1990021",1951,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 14: 341 1951",,,,,,120717-1,wfo-0000432249,4067909,,
-ab433524-8fd1-11eb-924d-9cd76263cbd0,species,popvii,Stephanocaryum,,Kamelin,Q3446773,,,,,,,,,,wfo-0001215877,8303050,,
+eaca8d82-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanocaryum,,,Popov,0,1951,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 14: 340 (1951)",,,,,,urn:lsid:ipni.org:names:4814-1,wfo-4000036575,7295581,,
+508ad33a-1d4d-11ec-82c2-f14daa6f2d93,species,dschagastanicum,Stephanocaryum,,"(Regel) O.D.Nikif.",,,,"Turczaninowia 17(3): 9 (2014)",,,,,,urn:lsid:ipni.org:names:77143872-1,wfo-0001341042,,,
+5c37cd82-1d4d-11ec-82c2-f14daa6f2d93,species,dschagastanicum,Stephanocaryum,,"(Regel) O.D.Nikif.",,,,"Bot. Zhurn. (Moscow & Leningrad) 99(7): 798. 2014 [Jul 2014]",,,,,,urn:lsid:ipni.org:names:77157858-1,wfo-0001356715,,,
+60bf9aba-8fcc-11eb-924d-9cd76263cbd0,species,olgae,Stephanocaryum,,"(B.Fedtsch.) Popov",0,1951,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 14: 341 (1951)",,,,,,urn:lsid:ipni.org:names:120717-1,wfo-0000432249,4067909,,
+46b516fe-1d4d-11ec-82c2-f14daa6f2d93,species,popovii,Stephanocaryum,,Kamelin,,,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. S.S.R. 19: 11 (1974)",,,,,,urn:lsid:ipni.org:names:120718-1,wfo-0001327934,,,
+ab433524-8fd1-11eb-924d-9cd76263cbd0,species,popvii,Stephanocaryum,,Kamelin,0,,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Uzbeksk. S.S.R. 19: 11 (1974)",,,,,,urn:lsid:ipni.org:names:120718-1,wfo-0001215877,8303050,,

@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e609ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lomatocarpa,,,Pimenov,Q6012784,1982,,"Byull. Moskovsk. Obshch. Isp. Prir. Otd. Biol. 87(1): 115. 1982.",,,,,,893188-1,wfo-4000022128,8117793,,
-c3a6ff42-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Lomatocarpa,,"(Rech.f.) Pimenov","Q78738,Q6012784",1995,,"Vasc. Pl. Russia & Adj. States 20 1995",,,,,,984636-1,wfo-0001260854,3633104,,
-bb187b66-8fcd-11eb-924d-9cd76263cbd0,species,albomarginata,Lomatocarpa,,"(Schrenk ex Fisch. & C.A.Mey.) Pimenov & Lavrova","Q519196,Q64109,Q728729,Q6012784,Q18857123",1987,,"Bot. Žurn. (Moscow & Leningrad) 72(1): 35 1987",,,,baf23262-8fcd-11eb-924d-9cd76263cbd0,,943754-1,wfo-0001068996,3633093,,
-bb0a7d7c-8fcd-11eb-924d-9cd76263cbd0,species,korovinii,Lomatocarpa,,Pimenov,Q6012784,1981,,"Sosud. Rast. SSSR 24 1981",,,,,,984624-1,wfo-0001068859,3633071,,
-bb0a96ea-8fcd-11eb-924d-9cd76263cbd0,species,steineri,Lomatocarpa,,Pimenov,Q6012784,,,,,,,,,,wfo-0001068860,3633059,,
+e609ab7a-8fd1-11eb-924d-9cd76263cbd0,genus,Lomatocarpa,,,Pimenov,0,1982,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 87(1): 115 (1982)",,,,,,urn:lsid:ipni.org:names:893188-1,wfo-4000022128,8117793,,
+c3a6ff42-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Lomatocarpa,,"(Rech.f.) Pimenov",0,1995,,"Vasc. Pl. Russia & Adj. States : 20 (1995)",,,,,,urn:lsid:ipni.org:names:984636-1,wfo-0001260854,3633104,,
+bb187b66-8fcd-11eb-924d-9cd76263cbd0,species,albomarginata,Lomatocarpa,,"(Schrenk) Pimenov & Lavrova",0,1987,,"Bot. Zhurn. (Moscow & Leningrad) 72: 35 (1987)",,,,baf23262-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:943754-1,wfo-0001068996,3633093,,
+bb0a7d7c-8fcd-11eb-924d-9cd76263cbd0,species,korovinii,Lomatocarpa,,Pimenov,0,1981,,"in S.K. Cherepanov, Sosud. Rast. SSSR 24 (1981), nom. nov.",,,,,,urn:lsid:ipni.org:names:984624-1,wfo-0001068859,3633071,,
+54af3212-1d4d-11ec-82c2-f14daa6f2d93,species,multivittata,Lomatocarpa,,"Pimenov & Kljuykov",,,,"Bot. Zhurn. (Moscow & Leningrad) 99: 605 (2014)",,,,,,urn:lsid:ipni.org:names:77157856-1,wfo-0001346626,,,
+bb0a96ea-8fcd-11eb-924d-9cd76263cbd0,species,steineri,Lomatocarpa,,"(Podlech) Pimenov",0,,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. 87(1): 116 (1982)",,,,,,urn:lsid:ipni.org:names:910841-1,wfo-0001068860,3633059,,

@@ -1,18 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a7e8927e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Roscoepoundia,,,Kuntze,Q62853,1898,,"Revis. gen. pl. (Leipzig) 3(3): 514 (1898)",,,,a7e8927e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9760," "
-66e7adf6-9bac-11eb-a8a2-19ed5c03f8d3,species,croceola,Roscoepoundia,,"(Sacc.) Kuntze","Q707840,Q62853",1898,,"Revis. gen. pl. (Leipzig) 3(2): (1898)",,,,ba998afa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432020," "
-4c6a7d28-8fcc-11eb-924d-9cd76263cbd0,species,americana,Roscyna,,Spach,Q274449,1836,,"Ann. Sci. Nat., Bot. II, 5: 364 1836",,,,,,322202-2,wfo-0000406130,3712937,,
-4c6ac53a-8fcc-11eb-924d-9cd76263cbd0,species,gebleri,Roscyna,,"(Ledeb.) Spach","Q64544,Q274449",1836,,"Ann. Sci. Nat., Bot. II, 5: 364 1836",,,,,,434055-1,wfo-0000406132,3712931,,
-4c6ae98e-8fcc-11eb-924d-9cd76263cbd0,species,gmelinii,Roscyna,,Spach,Q274449,1836,,"Ann. Sci. Nat., Bot. II, 5: 364 1836",,,,,,434056-1,wfo-0000406133,7789020,,
-4c6b0d24-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Roscyna,,Blume,Q76816,1856,,"Mus. Bot. 2: 21 1856",,,,,,434057-1,wfo-0000406134,11090723,,
-02c38f56-8fcd-11eb-924d-9cd76263cbd0,species,rosea,,,"H.E.Moore & R.G.Wilson","Q364731,Q2157232",1954,,"Gentes Herb. 8: 398 1954",,,,,,288071-2,wfo-0000704191,,,
-35382140-8fcd-11eb-924d-9cd76263cbd0,species,rosea,,,Percy-Lanc.,Q21522802,1913,,"J. Roy. Hort. Soc. 38: 531 1913",,,,,,,wfo-0000804833,,,
-ec2fed62-8fcb-11eb-924d-9cd76263cbd0,species,rosea,,,"(Arv.-Touv.) E.G.Camus","Q1226882,Q3823236",1908,,"Monogr. Orchid. 336 1908",,,,,,648271-1,wfo-0000258810,,,
-05018742-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Rosea,,Klotzsch,Q67003,1853,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1853: 501 1853",,,,,,765105-1,wfo-0000298034,5336560,,
-b1181176-8fcd-11eb-924d-9cd76263cbd0,species,elatior,Rosea,,"(Rich. ex Willd.) Mart.","Q714754,Q76353,Q77131",1826,,"Nov. Gen. Sp. Pl. 2: 59 1826",,,,12ecfcb4-8fcd-11eb-924d-9cd76263cbd0,,61372-1,wfo-0001046130,5548303,,
-0501a1b4-8fcc-11eb-924d-9cd76263cbd0,species,jasminiflora,Rosea,,Klotzsch,Q67003,1853,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1853: 501 1853",,,,,,765106-1,wfo-0000298035,5336559,,
-49e90326-8fcc-11eb-924d-9cd76263cbd0,species,poeppigiana,Rosea,,"Klotzsch ex Seub.","Q67003,Q67355",1875,,"Fl. Bras. 5(1): 226 1875",,,,,,61373-1,wfo-0000402813,5548301,,
-49e9b3c0-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Rosea,,"Klotzsch ex Seub.","Q67003,Q67355",1875,,"Fl. Bras. 5(1): 226 1875",,,,,,61374-1,wfo-0000402818,5548298,,
-4708e8b0-8fcc-11eb-924d-9cd76263cbd0,species,albiflorus,Roseanthus,,Cogn.,Q655719,1896,,"Contr. U. S. Natl. Herb. 3: 578 1896",,Q95371150,,,,222495-2,wfo-0000399194,3623627,,
-47092e9c-8fcc-11eb-924d-9cd76263cbd0,species,elongatus,Roseanthus,,Rose,Q1336049,1905,,"Contr. U. S. Natl. Herb. 8: 337 1905",,Q95371159,,,,222496-2,wfo-0000399196,3623605,,
-dd466f46-8fd1-11eb-924d-9cd76263cbd0,species,heterophyllus,Roseanthus,,Brandegee,Q1002345,1922,,"Univ. Calif. Publ. Bot. 10(2): 188 1922",,,,,,222497-2,wfo-0001301055,3623582,,
+a7e8927e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Roscoepoundia,,,Kuntze,0,1898,,"Revis. gen. pl. (Leipzig) 3(3): 514 (1898)",,,,a7e8927e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9760," "
+66e7adf6-9bac-11eb-a8a2-19ed5c03f8d3,species,croceola,Roscoepoundia,,"(Sacc.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): (1898)",,,,ba998afa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,432020," "
+4c6a7d28-8fcc-11eb-924d-9cd76263cbd0,species,americana,Roscyna,,Spach,0,1836,,"Ann. Sci. Nat., Bot. sér. 2, 5: 364. 1836 [Jun 1836] Hist. Nat. Veg. 5: 431. 1836",,,,,,urn:lsid:ipni.org:names:322202-2,wfo-0000406130,3712937,,
+4c6ac53a-8fcc-11eb-924d-9cd76263cbd0,species,gebleri,Roscyna,,"(Ledeb.) Spach",0,1836,,"Ann. Sci. Nat., Bot. , sér. 2, 5: 364 (1836)",,,,,,urn:lsid:ipni.org:names:434055-1,wfo-0000406132,3712931,,
+4c6ae98e-8fcc-11eb-924d-9cd76263cbd0,species,gmelinii,Roscyna,,Spach,0,1836,,"Ann. Sci. Nat., Bot. , sér. 2, 5: 364 (1836)",,,,,,urn:lsid:ipni.org:names:434056-1,wfo-0000406133,7789020,,
+4c6b0d24-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Roscyna,,Blume,0,1856,,"Mus. Bot. 2: 21 (1856)",,,,,,urn:lsid:ipni.org:names:434057-1,wfo-0000406134,11090723,,
+05018742-8fcc-11eb-924d-9cd76263cbd0,species,crassifolia,Rosea,,Klotzsch,0,1853,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1853: 502 (1853)",,,,,,urn:lsid:ipni.org:names:765105-1,wfo-0000298034,5336560,,
+b1181176-8fcd-11eb-924d-9cd76263cbd0,species,elatior,Rosea,,Mart.,0,1826,,"Nov. Gen. Sp. Pl. Bras. 2: 59 (1826)",,,,12ecfcb4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:61372-1,wfo-0001046130,5548303,,
+0501a1b4-8fcc-11eb-924d-9cd76263cbd0,species,jasminiflora,Rosea,,Klotzsch,0,1853,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1853: 502 (1853)",,,,,,urn:lsid:ipni.org:names:765106-1,wfo-0000298035,5336559,,
+49e90326-8fcc-11eb-924d-9cd76263cbd0,species,poeppigiana,Rosea,,"Klotzsch ex Seub.",0,1875,,"Fl. Bras. 5(1): 226 (1875)",,,,,,urn:lsid:ipni.org:names:61373-1,wfo-0000402813,5548301,,
+49e9b3c0-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Rosea,,"Klotzsch ex Seub.",0,1875,,"Fl. Bras. 5(1): 226 (1875)",,,,,,urn:lsid:ipni.org:names:61374-1,wfo-0000402818,5548298,,
+4708e8b0-8fcc-11eb-924d-9cd76263cbd0,species,albiflorus,Roseanthus,,Cogn.,0,1896,,"Contr. U.S. Natl. Herb. 3: 578 (1896)",,Q95371150,,,,urn:lsid:ipni.org:names:222495-2,wfo-0000399194,3623627,,
+47092e9c-8fcc-11eb-924d-9cd76263cbd0,species,elongatus,Roseanthus,,Rose,0,1905,,"Contr. U.S. Natl. Herb. 8: 337 (1905)",,Q95371159,,,,urn:lsid:ipni.org:names:222496-2,wfo-0000399196,3623605,,
+dd466f46-8fd1-11eb-924d-9cd76263cbd0,species,heterophyllus,Roseanthus,,Brandegee,0,1922,,"Univ. Calif. Publ. Bot. 10: 188 (1922)",,,,,,urn:lsid:ipni.org:names:222497-2,wfo-0001301055,3623582,,

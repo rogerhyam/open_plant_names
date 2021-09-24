@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df1b7ce4-8fd1-11eb-924d-9cd76263cbd0,genus,Allocephalus,,,"Bringel, J.N.Nakaj. & H.Rob.","Q36587284,Q33686044,Q2100759",,,,,Q55764055,,,,77116678-1,wfo-4000001272,7426096,,
-af9bcce8-8fcd-11eb-924d-9cd76263cbd0,species,gamolepis,Allocephalus,,"Bringel Jr., J.B.A., J.N.Nakaj. & H.Rob.","Q33686044,Q2100759",2011,,"Syst. Bot. 36(3): 785–788, figs. 1, 2 2011",,Q55764055,,,,77116679-1,wfo-0001042833,8248889,,
-98df78c0-8fcc-11eb-924d-9cd76263cbd0,species,strictum,Alloceratium,,"(Fisch. ex M.Bieb.) Hook.f. & Thomson","Q64109,Q66612,Q157501,Q2427703",1861,,"J. Proc. Linn. Soc., Bot. 5: 135 1861",,,,,,277281-1,wfo-0000526496,3052564,,
+df1b7ce4-8fd1-11eb-924d-9cd76263cbd0,genus,Allocephalus,,,"Bringel, J.N.Nakaj. & H.Rob.",0,,,"Syst. Bot. 36(3): 785 (-788) (2011)",,Q55764055,,,,urn:lsid:ipni.org:names:77116678-1,wfo-4000001272,7426096,,
+af9bcce8-8fcd-11eb-924d-9cd76263cbd0,species,gamolepis,Allocephalus,,"Bringel, J.N.Nakaj. & H.Rob.",0,2011,,"Syst. Bot. 36(3): 785 (-788; fig. 1, map (2011)",,Q55764055,,,,urn:lsid:ipni.org:names:77116679-1,wfo-0001042833,8248889,,
+98df78c0-8fcc-11eb-924d-9cd76263cbd0,species,strictum,Alloceratium,,"Hook.f. & Thomson",0,1861,,"J. Proc. Linn. Soc., Bot. 5: 135 (1861)",,,,,,urn:lsid:ipni.org:names:277281-1,wfo-0000526496,3052564,,

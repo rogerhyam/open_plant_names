@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a2c2a82a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Rachisia,,,Lindner,,1913,,"Deut. Essigind. 17: 467 (1913)",,,,a2c2a82a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9680," "
 b9906a7a-9bac-11eb-a8a2-19ed5c03f8d3,species,spiralis,Rachisia,,Lindner,,1913,,"Deut. Essigind. 17: 468 (1913)",,,,b9906a7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503582," "
-02acfc6a-8fcc-11eb-924d-9cd76263cbd0,species,capricornis,Raciborskanthos,,"(Ridl.) Szlach.","Q733709,Q2624334",1995,,"Fragm. Florist. Geobot. Suppl. 3: 136 1995",,,,fbde2620-8fcb-11eb-924d-9cd76263cbd0,,988287-1,wfo-0000294215,2785689,,
-02ad1bd2-8fcc-11eb-924d-9cd76263cbd0,species,halophilus,Raciborskanthos,,"(Ridl.) Szlach.","Q733709,Q2624334",1995,,"Fragm. Florist. Geobot. Suppl. 3: 136 1995",,,,,,988288-1,wfo-0000294216,2785594,,
-8e31b69a-8fcc-11eb-924d-9cd76263cbd0,species,krabiensis,Raciborskanthos,,"(Seidenf.) Szlach.","Q606100,Q2624334",2003,,"Ann. Bot. Fenn. 40: 68 2003",,Q42899039,,,,20012006-1,wfo-0000508222,2785602,,
-02ad39aa-8fcc-11eb-924d-9cd76263cbd0,species,minax,Raciborskanthos,,"(Rchb.f.) Szlach.","Q62820,Q2624334",1995,,"Fragm. Florist. Geobot. Suppl. 3: 136 1995",,,,,,988289-1,wfo-0000294217,2785526,,
-8e335496-8fcc-11eb-924d-9cd76263cbd0,species,muticus,Raciborskanthos,,"(Rchb.f.) Szlach.","Q62820,Q2624334",2003,,"Ann. Bot. Fenn. 40: 68 2003",,Q42899039,,,,20012007-1,wfo-0000508232,2785781,,
-8e34559e-8fcc-11eb-924d-9cd76263cbd0,species,striatus,Raciborskanthos,,"(Rchb.f.) Szlach.","Q62820,Q2624334",2003,,"Ann. Bot. Fenn. 40: 68 2003",,Q42899039,,,,20012008-1,wfo-0000508241,2785605,,
+02acfc6a-8fcc-11eb-924d-9cd76263cbd0,species,capricornis,Raciborskanthos,,"(Ridl.) Szlach.",0,1995,,"Fragm. Florist. Geobot. , Suppl. 3: 136 (1995)",,,,fbde2620-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:988287-1,wfo-0000294215,2785689,,
+02ad1bd2-8fcc-11eb-924d-9cd76263cbd0,species,halophilus,Raciborskanthos,,"(Ridl.) Szlach.",0,1995,,"Fragm. Florist. Geobot. , Suppl. 3: 136 (1995)",,,,,,urn:lsid:ipni.org:names:988288-1,wfo-0000294216,2785594,,
+8e31b69a-8fcc-11eb-924d-9cd76263cbd0,species,krabiensis,Raciborskanthos,,"(Seidenf.) Szlach.",0,2003,,"Ann. Bot. Fenn. 40: 68 (2003)",,Q42899039,,,,urn:lsid:ipni.org:names:20012006-1,wfo-0000508222,2785602,,
+02ad39aa-8fcc-11eb-924d-9cd76263cbd0,species,minax,Raciborskanthos,,"(Rchb.f.) Szlach.",0,1995,,"Fragm. Florist. Geobot. , Suppl. 3: 136 (1995)",,,,,,urn:lsid:ipni.org:names:988289-1,wfo-0000294217,2785526,,
+8e335496-8fcc-11eb-924d-9cd76263cbd0,species,muticus,Raciborskanthos,,"(Rchb.) Szlach.",0,2003,,"Ann. Bot. Fenn. 40: 68 (2003)",,Q42899039,,,,urn:lsid:ipni.org:names:20012007-1,wfo-0000508232,2785781,,
+8e34559e-8fcc-11eb-924d-9cd76263cbd0,species,striatus,Raciborskanthos,,"(Rchb.f.) Szlach.",0,2003,,"Ann. Bot. Fenn. 40: 68 (2003)",,Q42899039,,,,urn:lsid:ipni.org:names:20012008-1,wfo-0000508241,2785605,,

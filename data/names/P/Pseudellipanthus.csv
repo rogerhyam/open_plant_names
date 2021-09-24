@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e914aa54-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudellipanthus,,,G.Schellenb.,Q570881,1922,,"Bot. Arch. 1: 314. 1922.",,,,,,,wfo-4000031365,7326597,,
-cd652f22-8fd1-11eb-924d-9cd76263cbd0,species,beccarii,Pseudellipanthus,,"(Pierre) G.Schellenb.","Q2593213,Q570881",1922,,"Bot. Arch. 1: 314 1922",,,,,,264693-1,wfo-0001278779,3686798,,
-44ab8cee-8fcc-11eb-924d-9cd76263cbd0,species,peltatus,Pseudellipanthus,,G.Schellenb.,Q570881,1922,,"Bot. Arch. 1: 314 1922",,,,,,264694-1,wfo-0000396452,3686788,,
+e914aa54-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudellipanthus,,,G.Schellenb.,0,1922,,"Bot. Arch. 1: 314 (1922)",,,,,,urn:lsid:ipni.org:names:11751-1,wfo-4000031365,7326597,,
+cd652f22-8fd1-11eb-924d-9cd76263cbd0,species,beccarii,Pseudellipanthus,,G.Schellenb.,0,1922,,"Bot. Arch. 1: 314 (1922)",,,,,,urn:lsid:ipni.org:names:264693-1,wfo-0001278779,3686798,,
+44ab8cee-8fcc-11eb-924d-9cd76263cbd0,species,peltatus,Pseudellipanthus,,G.Schellenb.,0,1922,,"Bot. Arch. 1: 314 (1922)",,,,,,urn:lsid:ipni.org:names:264694-1,wfo-0000396452,3686788,,
+462d4624-8fcd-11eb-924d-9cd76263cbd0,species,saxicola,Pseudelymus,,"(Scribn. & J.G.Sm.) Barkworth & D.R.Dewey",0,1983,,"Great Basin Naturalist 43: 570 (1983)",,,,51a3413e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:942078-1,wfo-0000841200,,,

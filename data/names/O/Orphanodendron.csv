@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7adafee-8fd1-11eb-924d-9cd76263cbd0,genus,Orphanodendron,,,"Barneby & J.W.Grimes","Q929691,Q5925894",,,,,Q55770774,,,,956791-1,wfo-4000027230,2956197,,
-b7e79f6c-8fcd-11eb-924d-9cd76263cbd0,species,bernalii,Orphanodendron,,"Barneby & J.W.Grimes","Q929691,Q5925894",1990,,"Brittonia 42(4): 249–253, f. 1–2 1990",,Q55770774,,,,958253-1,wfo-0001061644,3967805,,
-736da488-8fc5-11eb-924d-9cd76263cbd0,species,bernatii,Orphanodendron,,"Barneby & J.W.Grimes","Q929691,Q5925894",,,,,,,,,,wfo-0000193135,2956198,,
+e7adafee-8fd1-11eb-924d-9cd76263cbd0,genus,Orphanodendron,,,"Barneby & J.W.Grimes",0,,,"Brittonia 42: 249 (1990)",,Q55770774,,,,urn:lsid:ipni.org:names:956791-1,wfo-4000027230,2956197,,
+b7e79f6c-8fcd-11eb-924d-9cd76263cbd0,species,bernalii,Orphanodendron,,"Barneby & J.W.Grimes",0,1990,,"Brittonia 42: 249 (1990)",,Q55770774,,,,urn:lsid:ipni.org:names:958253-1,wfo-0001061644,3967805,,
+736da488-8fc5-11eb-924d-9cd76263cbd0,species,bernatii,Orphanodendron,,"Barneby & J.W.Grimes",0,,,,,,,,,,wfo-0000193135,2956198,,
+5224ca84-1d4d-11ec-82c2-f14daa6f2d93,species,grandiflorum,Orphanodendron,,"C.Cast. & G.P.Lewis",,,,"Brittonia 67: 37 (2014)",,,,,,urn:lsid:ipni.org:names:77149230-1,wfo-0001343264,,,

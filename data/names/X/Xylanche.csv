@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec2a0f4a-8fd1-11eb-924d-9cd76263cbd0,genus,Xylanche,,,Beck,Q78986,1893,,"Nat. Pflanzenfam. 4(3b): 132. 1893.",,,,,,60459426-2,wfo-4000041009,8813531,,
-c4268496-8fcd-11eb-924d-9cd76263cbd0,species,himalaica,Xylanche,,"(Hook.f. & Thomson) Beck","Q157501,Q2427703,Q78986",1930,,"Monogr. Orob. 330 1930",,,,,,,wfo-0001089314,3741880,,
-b0e5cf82-8fd1-11eb-924d-9cd76263cbd0,species,kawakamii,Xylanche,,"(Hayata) Beck","Q702874,Q78986",1930,,"Monogr. Orob. 330 1930",,,,,,662992-1,wfo-0001226246,3741873,,
+ec2a0f4a-8fd1-11eb-924d-9cd76263cbd0,genus,Xylanche,,,Beck,0,1893,,"Biblioth. Bot. 4(19): 58 (1890)",,,,,,urn:lsid:ipni.org:names:60459426-2,wfo-4000041009,8813531,,
+c4268496-8fcd-11eb-924d-9cd76263cbd0,species,himalaica,Xylanche,,"(Hook.f. & Thomson) Beck",0,1930,,"Biblioth. Bot. 4(19): 58 (1890)",,,,,,urn:lsid:ipni.org:names:662991-1,wfo-0001089314,3741880,,
+b0e5cf82-8fd1-11eb-924d-9cd76263cbd0,species,kawakamii,Xylanche,,"(Hayata) Beck",0,1930,,"Pflanzenr. , IV, 261: 330 (1930)",,,,,,urn:lsid:ipni.org:names:662992-1,wfo-0001226246,3741873,,

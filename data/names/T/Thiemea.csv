@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb4c30bc-8fd1-11eb-924d-9cd76263cbd0,genus,Thiemea,,,Müll.Hal.,Q66346,1881,,"Bot. Centralbl. 7: 346. 1881.",,,,,,,wfo-4000038204,4921843,,
-dfe04884-8fcd-11eb-924d-9cd76263cbd0,species,hampeana,Thiemea,,Müll.Hal.,Q66346,1881,,"Bot. Centralbl. 7: 346 1881",,,,,,,wfo-0001149456,7662712,,
-15479c0e-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Thiersia,,Baill.,Q461931,1879,,"Adansonia 12: 335 1879",,,,,,767697-1,wfo-0000323158,2898079,,
-b734643e-8fd1-11eb-924d-9cd76263cbd0,species,chilensis,Thiga,,Molina,Q55068526,,,,,,,,,,wfo-0001237819,3782830,,
+eb4c30bc-8fd1-11eb-924d-9cd76263cbd0,genus,Thiemea,,,Müll.Hal.,0,1881,,"Bot. Centralbl. 7: 346. 1881.",,,,,,,wfo-4000038204,4921843,,
+dfe04884-8fcd-11eb-924d-9cd76263cbd0,species,hampeana,Thiemea,,Müll.Hal.,0,1881,,"Bot. Centralbl. 7: 346 1881",,,,,,,wfo-0001149456,7662712,,
+15479c0e-8fcc-11eb-924d-9cd76263cbd0,species,insignis,Thiersia,,Baill.,0,1879,,"Adansonia 12: 335 (1879)",,,,,,urn:lsid:ipni.org:names:767697-1,wfo-0000323158,2898079,,

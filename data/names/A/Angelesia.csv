@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df71228e-8fd1-11eb-924d-9cd76263cbd0,genus,Angelesia,,,Korth.,Q442109,1855,,"Ned. Kruidk. Arch. 3: 384. 1855[1854].",,,,,,33652-1,wfo-4000002085,9636407,,
-3dcf4612-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Angelesia,,"Baker f.",Q4081202,1923,,"J. Bot. 61(Suppl.): 13 1923",,,,,,721498-1,wfo-0000822988,2985048,,
-3dcf64bc-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Angelesia,,"(Korth.) Kuntze","Q442109,Q62853",1891,,"Revis. Gen. Pl. 1: 215 1891",,,,,,721499-1,wfo-0000822989,3745565,,
-3dcf7e84-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Angelesia,,Korth.,Q442109,1855,,"Ned. Kruidk. Arch. 3: 384 1855",,,,,,721500-1,wfo-0000822990,2985410,,
-e47be06a-8fb9-11eb-924d-9cd76263cbd0,species,humilis,Angelianthus,,"(Cabrera) H.Rob. & Brettell","Q1999131,Q2100759,Q6109416",1974,,"Phytologia 28 48 1974",,,,,,13642-2,wfo-0000122261,3146331,,
+df71228e-8fd1-11eb-924d-9cd76263cbd0,genus,Angelesia,,,Korth.,0,1855,,"Ned. Kruidk. Arch. 3: 384 (1855)",,,,,,urn:lsid:ipni.org:names:33652-1,wfo-4000002085,9636407,,
+50f086c6-1d4d-11ec-82c2-f14daa6f2d93,species,fusicarpa,Angelesia,,"(Kosterm.) Sothers & Prance",,,,"Blumea 59: 104 (2014)",,,,,,urn:lsid:ipni.org:names:77145040-1,wfo-0001341568,,,
+50f0ab60-1d4d-11ec-82c2-f14daa6f2d93,species,palawanensis,Angelesia,,"(Prance) Sothers & Prance",,,,"Blumea 59: 104 (2014)",,,,,,urn:lsid:ipni.org:names:77145041-1,wfo-0001341569,,,
+3dcf4612-8fcd-11eb-924d-9cd76263cbd0,species,papuana,Angelesia,,"Baker f.",0,1923,,"J. Bot. 61(Suppl.): 13 (1923)",,,,,,urn:lsid:ipni.org:names:721498-1,wfo-0000822988,2985048,,
+3dcf64bc-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Angelesia,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 215 (1891)",,,,,,urn:lsid:ipni.org:names:721499-1,wfo-0000822989,3745565,,
+3dcf7e84-8fcd-11eb-924d-9cd76263cbd0,species,splendens,Angelesia,,Korth.,0,1855,,"Ned. Kruidk. Arch. 3: 384 (1855)",,,,,,urn:lsid:ipni.org:names:721500-1,wfo-0000822990,2985410,,
+e47be06a-8fb9-11eb-924d-9cd76263cbd0,species,humilis,Angelianthus,,"(Cabrera) H.Rob. & Brettell",0,1974,,"Phytologia 28: 48 (1974)",,,,,,urn:lsid:ipni.org:names:13642-2,wfo-0000122261,3146331,,

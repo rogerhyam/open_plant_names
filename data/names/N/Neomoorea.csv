@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7333778-8fd1-11eb-924d-9cd76263cbd0,genus,Neomoorea,,,Rolfe,Q2635543,1904,,"Orchid Rev. 12(133): 30. 1904.",,,,,,295262-2,wfo-4000025777,2802936,,
-e6ebb64c-8fcb-11eb-924d-9cd76263cbd0,species,irrorata,Neomoorea,,"(Rolfe) Rolfe",Q2635543,1904,,"Orchid Rev. 12: 30 1904",,,,e4740c5c-8fcb-11eb-924d-9cd76263cbd0,,168901-2,wfo-0000250214,2802940,,
-e6ebd0e6-8fcb-11eb-924d-9cd76263cbd0,species,wallisii,Neomoorea,,"(Rchb.f.) Schltr.","Q62820,Q62278",1924,,"Orchid Rev. 32: 355 1924",,,,,,168902-2,wfo-0000250215,2802937,,
+e7333778-8fd1-11eb-924d-9cd76263cbd0,genus,Neomoorea,,,Rolfe,0,1904,,"Orchid Rev. 12: 30 (1904)",,,,,,urn:lsid:ipni.org:names:295262-2,wfo-4000025777,2802936,,
+e6ebb64c-8fcb-11eb-924d-9cd76263cbd0,species,irrorata,Neomoorea,,Rolfe,0,1904,,"Orchid Rev. 12: 30 (1904)",,,,e4740c5c-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:168901-2,wfo-0000250214,2802940,,
+e6ebd0e6-8fcb-11eb-924d-9cd76263cbd0,species,wallisii,Neomoorea,,Schltr.,0,1924,,"Orchid Rev. 32: 355 (1924)",,,,,,urn:lsid:ipni.org:names:168902-2,wfo-0000250215,2802937,,

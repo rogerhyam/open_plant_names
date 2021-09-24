@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2e800fe-8fd1-11eb-924d-9cd76263cbd0,genus,Discocapnos,,,"Cham. & Schltdl.","Q154782,Q62826",1826,,"Linnaea 1: 569. 1826.",,,,,,31662-1,wfo-4000012133,7314956,,
-e5282c36-8fcc-11eb-924d-9cd76263cbd0,species,dregei,Discocapnos,,"(Harv.) Hutch.","Q1378128,Q253917",1921,,"Bull. Misc. Inform. Kew 1921: 114 1921",,Q55783938,,,,672701-1,wfo-0000652108,3602157,,
-e52873da-8fcc-11eb-924d-9cd76263cbd0,species,mundtii,Discocapnos,,"Cham. & Schltdl.","Q154782,Q62826",1826,,"Linnaea 1: 569 1826",,,,,,672702-1,wfo-0000652109,3602146,,
-186ff1be-8fcd-11eb-924d-9cd76263cbd0,subspecies,dregei,Discocapnos,mundtii,"(Harv.) J.C.Manning & Goldblatt","Q1378128,Q9012408,Q610293",2009,,"Bothalia 39 : 51 2009",,,,,,77100352-1,wfo-0000743758,8183122,,
-e5289b94-8fcc-11eb-924d-9cd76263cbd0,variety,dregei,Discocapnos,mundtii,Harv.,Q1378128,1860,,"Fl. Cap. 1: 18 1860",,,,,,77100351-1,wfo-0000652110,8183122,,
+e2e800fe-8fd1-11eb-924d-9cd76263cbd0,genus,Discocapnos,,,"Cham. & Schltdl.",0,1826,,"Linnaea 1: 569 (1826)",,,,,,urn:lsid:ipni.org:names:31662-1,wfo-4000012133,7314956,,
+e5282c36-8fcc-11eb-924d-9cd76263cbd0,species,dregei,Discocapnos,,"(Harv.) Hutch.",0,1921,,"Bull. Misc. Inform. Kew 1921: 114 (1921)",,Q55783938,,,,urn:lsid:ipni.org:names:672701-1,wfo-0000652108,3602157,,
+e52873da-8fcc-11eb-924d-9cd76263cbd0,species,mundtii,Discocapnos,,"Cham. & Schltdl.",0,1826,,"Linnaea 1: 569 (1826)",,,,,,urn:lsid:ipni.org:names:672702-1,wfo-0000652109,3602146,,
+186ff1be-8fcd-11eb-924d-9cd76263cbd0,subspecies,dregei,Discocapnos,mundtii,"(Harv.) J.C.Manning & Goldblatt",0,2009,,"Bothalia 39: 51 (2009)",,,,,,urn:lsid:ipni.org:names:77100352-1,wfo-0000743758,8183122,,
+e5289b94-8fcc-11eb-924d-9cd76263cbd0,variety,dregei,Discocapnos,mundtii,Harv.,0,1860,,"Fl. Cap. 1: 18 (1860)",,,,,,urn:lsid:ipni.org:names:77100351-1,wfo-0000652110,8183122,,

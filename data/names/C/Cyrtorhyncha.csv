@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e26d2b40-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrtorhyncha,,,Nutt.,Q728337,1838,,"Fl. N. Amer. 1(1): 26. 1838.",,,,,,324390-2,wfo-4000010547,7277215,,
-dc278122-8fcc-11eb-924d-9cd76263cbd0,species,cymbalaria,Cyrtorhyncha,,"(Pursh) Britton","Q67353,Q553714",1894,,"Mem. Torrey Bot. Club 5: 161 1894",,,,,,75616-2,wfo-0000636242,3924505,,
-dc27a6c0-8fcc-11eb-924d-9cd76263cbd0,subspecies,alpina,Cyrtorhyncha,cymbalaria,"(Hook.) Á.Löve & D.Löve","Q472639,Q2464202,Q4272889",1975,,"Bot. Not. 128: 512 1975 publ. 1976",,,,,,75617-2,wfo-0000636243,3033444,,
-dc27c27c-8fcc-11eb-924d-9cd76263cbd0,species,neglecta,Cyrtorhyncha,,Greene,Q2661665,1900,,"Pittonia 4: 146 1900",,,,,,75618-2,wfo-0000636244,3924482,,
-dc27dc9e-8fcc-11eb-924d-9cd76263cbd0,species,ranunculina,Cyrtorhyncha,,Nutt.,Q728337,1838,,"Fl. N. Amer. 1: 26 1838",,,,,,,wfo-0000636245,3033411,,
-dc281510-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Cyrtorhyncha,,Greene,Q2661665,1901,,"Pl. Baker. 3: 3 1901",,,,,,75620-2,wfo-0000636247,3924460,,
+e26d2b40-8fd1-11eb-924d-9cd76263cbd0,genus,Cyrtorhyncha,,,Nutt.,0,1838,,"Fl. N. Amer. 1: 26 (1838)",,,,,,urn:lsid:ipni.org:names:324390-2,wfo-4000010547,7277215,,
+dc278122-8fcc-11eb-924d-9cd76263cbd0,species,cymbalaria,Cyrtorhyncha,,Britton,0,1894,,"Mem. Torrey Bot. Club 5: 161 (1894)",,,,,,urn:lsid:ipni.org:names:75616-2,wfo-0000636242,3924505,,
+dc27a6c0-8fcc-11eb-924d-9cd76263cbd0,subspecies,alpina,Cyrtorhyncha,cymbalaria,"(Hook.) Á.Löve & D.Löve",0,1975,,"Bot. Not. 128: 512 (1975 publ. 1976)",,,,,,urn:lsid:ipni.org:names:75617-2,wfo-0000636243,3033444,,
+dc27c27c-8fcc-11eb-924d-9cd76263cbd0,species,neglecta,Cyrtorhyncha,,Greene,0,1900,,"Pittonia 4: 146 (1900)",,,,,,urn:lsid:ipni.org:names:75618-2,wfo-0000636244,3924482,,
+dc27dc9e-8fcc-11eb-924d-9cd76263cbd0,species,ranunculina,Cyrtorhyncha,,Nutt.,0,1838,,"Fl. N. Amer. 1: 26 (1838)",,,,,,urn:lsid:ipni.org:names:75619-2,wfo-0000636245,3033411,,
+dc281510-8fcc-11eb-924d-9cd76263cbd0,species,rupestris,Cyrtorhyncha,,Greene,0,1901,,"Pl. Baker. 3: 3 (1901)",,,,,,urn:lsid:ipni.org:names:75620-2,wfo-0000636247,3924460,,

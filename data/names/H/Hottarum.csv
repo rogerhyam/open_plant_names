@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4de4530-8fd1-11eb-924d-9cd76263cbd0,genus,Hottarum,,,"Bogner & Nicolson","Q5640534,Q4320802",1978,,"Aroideana 1(3): 72. 1978.",,Q100709468,,,,2817-1,wfo-4000018328,2870346,,
-df2f8480-8fc9-11eb-924d-9cd76263cbd0,species,brevipedunculatum,Hottarum,,"H.Okada & Y.Mori","Q21516250,Q33685525",2000,,"Acta Phytotax. Geobot. 51: 7 2000",,Q101151374,,,,1016914-1,wfo-0000215096,2870378,,
-df3d2fb8-8fc9-11eb-924d-9cd76263cbd0,species,kinabaluense,Hottarum,,Bogner,Q5640534,1984,,"Pl. Syst. Evol. 145: 161 1984",,Q55808571,,,,904374-1,wfo-0000215097,2870393,,
-df4adb68-8fc9-11eb-924d-9cd76263cbd0,species,lucens,Hottarum,,Bogner,Q5640534,1983,,"Pl. Syst. Evol. 142: 49 1983",,Q55755261,,,,902222-1,wfo-0000215098,2870367,,
-df5854dc-8fc9-11eb-924d-9cd76263cbd0,species,sarikeense,Hottarum,,"Bogner & M.Hotta","Q5640534,Q6883352",1983,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 1983: 27 1983",,,,,,902223-1,wfo-0000215099,2868111,,
-df661856-8fc9-11eb-924d-9cd76263cbd0,species,truncatum,Hottarum,,"(M.Hotta) Bogner & Nicolson","Q6883352,Q5640534,Q4320802",1978,,"Aroideana 1: 72 1978",,Q100709468,,,,87331-1,wfo-0000215100,2870372,,
+e4de4530-8fd1-11eb-924d-9cd76263cbd0,genus,Hottarum,,,"Bogner & Nicolson",0,1978,,"Aroideana 1: 72 (1978)",,Q100709468,,,,urn:lsid:ipni.org:names:2817-1,wfo-4000018328,2870346,,
+df2f8480-8fc9-11eb-924d-9cd76263cbd0,species,brevipedunculatum,Hottarum,,"H.Okada & Y.Mori",0,2000,,"Acta Phytotax. Geobot. 51: 7 (2000)",,Q101151374,,,,urn:lsid:ipni.org:names:1016914-1,wfo-0000215096,2870378,,
+df3d2fb8-8fc9-11eb-924d-9cd76263cbd0,species,kinabaluense,Hottarum,,Bogner,0,1984,,"Pl. Syst. Evol. 145: 161 (1984)",,Q55808571,,,,urn:lsid:ipni.org:names:904374-1,wfo-0000215097,2870393,,
+df4adb68-8fc9-11eb-924d-9cd76263cbd0,species,lucens,Hottarum,,Bogner,0,1983,,"Pl. Syst. Evol. 142: 49 (1983)",,Q55755261,,,,urn:lsid:ipni.org:names:902222-1,wfo-0000215098,2870367,,
+df5854dc-8fc9-11eb-924d-9cd76263cbd0,species,sarikeense,Hottarum,,"Bogner & M.Hotta",0,1983,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 1983: 27 (1983)",,,,,,urn:lsid:ipni.org:names:902223-1,wfo-0000215099,2868111,,
+df661856-8fc9-11eb-924d-9cd76263cbd0,species,truncatum,Hottarum,,"(M.Hotta) Bogner & Nicolson",0,1978,,"Aroideana 1: 72 (1978)",,Q100709468,,,,urn:lsid:ipni.org:names:87331-1,wfo-0000215100,2870372,,

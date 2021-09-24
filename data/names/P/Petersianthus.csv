@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8472228-8fd1-11eb-924d-9cd76263cbd0,genus,Petersianthus,,,Merr.,Q729926,1916,,"Philipp. J. Sci. 11: 200. 1916.",,,,,,21543-1,wfo-4000028935,3083149,,
-2753e41a-8fcd-11eb-924d-9cd76263cbd0,species,africanus,Petersianthus,,"(Welw. ex Benth. & Hook.f.) Merr.","Q78609,Q731808,Q157501,Q729926",1916,,"Philipp. J. Sci., C 11: 201 1916",,,,,,469486-1,wfo-0000774673,3083152,,
-2753c70a-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpus,Petersianthus,,"(P.Beauv.) Liben","Q458941,Q21519021",1968,,"Bull. Jard. Bot. Natl. Belg. 38: 207 1968",,Q55776323,,,,469487-1,wfo-0000774672,3083150,,
-2753aa90-8fcd-11eb-924d-9cd76263cbd0,species,minor,Petersianthus,,"(Nied.) Merr.","Q77958,Q729926",1916,,"Philipp. J. Sci., C 11: 201 1916",,,,27543ec4-8fcd-11eb-924d-9cd76263cbd0,,469488-1,wfo-0000774671,3083153,,
-27538ef2-8fcd-11eb-924d-9cd76263cbd0,species,quadrialatus,Petersianthus,,"(Merr.) Merr.",Q729926,1916,,"Philipp. J. Sci., C 11: 200 1916",,,,,,469489-1,wfo-0000774670,3083161,,
+e8472228-8fd1-11eb-924d-9cd76263cbd0,genus,Petersianthus,,,Merr.,0,1916,,"Philipp. J. Sci., C 11: 200 (1916)",,,,,,urn:lsid:ipni.org:names:21543-1,wfo-4000028935,3083149,,
+2753e41a-8fcd-11eb-924d-9cd76263cbd0,species,africanus,Petersianthus,,Merr.,0,1916,,"Philipp. J. Sci., C 11: 201 (1916)",,,,,,urn:lsid:ipni.org:names:469486-1,wfo-0000774673,3083152,,
+2753c70a-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpus,Petersianthus,,"(P.Beauv.) Liben",0,1968,,"Bull. Jard. Bot. Natl. Belg. 38: 207 (1968)",,Q55776323,,,,urn:lsid:ipni.org:names:469487-1,wfo-0000774672,3083150,,
+2753aa90-8fcd-11eb-924d-9cd76263cbd0,species,minor,Petersianthus,,Merr.,0,1916,,"Philipp. J. Sci., C 11: 201 (1916)",,,,27543ec4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:469488-1,wfo-0000774671,3083153,,
+27538ef2-8fcd-11eb-924d-9cd76263cbd0,species,quadrialatus,Petersianthus,,Merr.,0,1916,,"Philipp. J. Sci., C 11: 200 (1916)",,,,,,urn:lsid:ipni.org:names:469489-1,wfo-0000774670,3083161,,

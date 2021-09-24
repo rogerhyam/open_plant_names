@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df194dd4-8fd1-11eb-924d-9cd76263cbd0,genus,Allexis,,,Pierre,Q2593213,1898,,"Bull. Mens. Soc. Linn. Paris 2: 25. 1898.",,,,,,41496-1,wfo-4000001248,7296669,,
-989d0df0-8fcc-11eb-924d-9cd76263cbd0,species,batangae,Allexis,,"(Engl.) Melch.","Q60718,Q95456",1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 655 1924",,,,,,866204-1,wfo-0000526004,4077442,,
-989d2a4c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Allexis,,"(Oliv.) Pierre","Q1161960,Q2593213",1898,,"Bull. Mens. Soc. Linn. Paris n.s., 1: 25 1898",,,,99d693b2-8fcc-11eb-924d-9cd76263cbd0,,866205-1,wfo-0000526005,4077432,,
-989d47fc-8fcc-11eb-924d-9cd76263cbd0,species,obanensis,Allexis,,"(Baker f.) Melch.","Q4081202,Q95456",1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 656 1924",,,,,,866206-1,wfo-0000526006,4077421,,
-989da012-8fcc-11eb-924d-9cd76263cbd0,species,zygomorpha,Allexis,,"Achound. & Onana","Q18982400,Q26712872",,,"Kew Bull. 53: 1009 1998",,Q43195022,,,,1004908-1,wfo-0000526008,4077409,,
+df194dd4-8fd1-11eb-924d-9cd76263cbd0,genus,Allexis,,,Pierre,0,1898,,"Bull. Mens. Soc. Linn. Paris , n.s., 1: 15 (1898)",,,,,,urn:lsid:ipni.org:names:41496-1,wfo-4000001248,7296669,,
+989d0df0-8fcc-11eb-924d-9cd76263cbd0,species,batangae,Allexis,,Melch.,0,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 655 (1924)",,,,,,urn:lsid:ipni.org:names:866204-1,wfo-0000526004,4077442,,
+989d2a4c-8fcc-11eb-924d-9cd76263cbd0,species,cauliflora,Allexis,,Pierre,0,1898,,"Bull. Mens. Soc. Linn. Paris , n.s., 1: 25 (1898)",,,,99d693b2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:866205-1,wfo-0000526005,4077432,,
+989d47fc-8fcc-11eb-924d-9cd76263cbd0,species,obanensis,Allexis,,Melch.,0,1924,,"Notizbl. Bot. Gart. Berlin-Dahlem 8: 656 (1924)",,,,,,urn:lsid:ipni.org:names:866206-1,wfo-0000526006,4077421,,
+989da012-8fcc-11eb-924d-9cd76263cbd0,species,zygomorpha,Allexis,,"Achound. & Onana",0,,,"Kew Bull. 53: 1009 (1998)",,Q43195022,,,,urn:lsid:ipni.org:names:1004908-1,wfo-0000526008,4077409,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9ebc03e-8fd1-11eb-924d-9cd76263cbd0,genus,Sanderella,,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 649. 1891. (5 Nov 1891)",,,,,,30584-1,wfo-4000033931,2804589,,
-07b39674-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Sanderella,,"(Barb.Rodr.) Cogn.","Q45374,Q655719",1905,,"Fl. Bras. 3(6): 239 1905",,,,,,227348-2,wfo-0000302678,5310838,,
-07b3b0a0-8fcc-11eb-924d-9cd76263cbd0,species,leopoldinensis,Sanderella,,Dutra,Q5946875,1959,,"Sellowia 10: t. 2, f. 4-10 1959",,,,,,656271-1,wfo-0000302679,5310837,,
-07b3ce8c-8fcc-11eb-924d-9cd76263cbd0,species,riograndensis,Sanderella,,Dutra,Q5946875,1959,,"Sellowia 10: 137 1959",,,,,,656272-1,wfo-0000302680,5310836,,
+e9ebc03e-8fd1-11eb-924d-9cd76263cbd0,genus,Sanderella,,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 649 (1891)",,,,,,urn:lsid:ipni.org:names:30584-1,wfo-4000033931,2804589,,
+07b39674-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Sanderella,,Cogn.,0,1905,,"Fl. Bras. 3(6): 239 (1905)",,,,,,urn:lsid:ipni.org:names:227348-2,wfo-0000302678,5310838,,
+07b3b0a0-8fcc-11eb-924d-9cd76263cbd0,species,leopoldinensis,Sanderella,,"Dutra in Pabst",0,1959,,"Sellowia 10: t. 2, f. 4-10 (1959)",,,,,,urn:lsid:ipni.org:names:656271-1,wfo-0000302679,5310837,,
+07b3ce8c-8fcc-11eb-924d-9cd76263cbd0,species,riograndensis,Sanderella,,Dutra,0,1959,,"Sellowia 10: 137. 1959",,,,,,urn:lsid:ipni.org:names:656272-1,wfo-0000302680,5310836,,

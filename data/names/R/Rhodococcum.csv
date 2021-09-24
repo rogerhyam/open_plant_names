@@ -1,5 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a3e78c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodococcum,,,,,,,,,,,,,,wfo-4000033023,7327998,,
-b1d3a008-8fcd-11eb-924d-9cd76263cbd0,species,hybridum,Rhodococcum,,Avrorin,Q13426738,,,,,,,,,,wfo-0001047848,4169565,,
-b1d3bcaa-8fcd-11eb-924d-9cd76263cbd0,species,minus,Rhodococcum,,Avrorin,Q13426738,,,,,,,,,1160422-2,wfo-0001047849,4169543,,
-b1d3dcc6-8fcd-11eb-924d-9cd76263cbd0,species,vitis-idaea,Rhodococcum,,Avrorin,Q13426738,,,,,,,,,,wfo-0001047850,7327999,,
+e9a3e78c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodococcum,,,"(Rupr.) Avrorin",,,,"Bot. Zhurn. (Moscow & Leningrad) 43: 1721 (1958)",,,,,,urn:lsid:ipni.org:names:41103-1,wfo-4000033023,7327998,,
+743951e4-8fcc-11eb-924d-9cd76263cbd0,species,hybridum,Rhodococcum,,Avrorin,0,,,"Bot. Zhurn. (Moscow & Leningrad) 43: 1723 (1958)",,,,,,urn:lsid:ipni.org:names:858641-1,wfo-0000464437,,,
+b1d3a008-8fcd-11eb-924d-9cd76263cbd0,species,hybridum,Rhodococcum,,Avrorin,0,,,"Bot. Zhurn. (Moscow & Leningrad) 43: 1723 (1958)",,,,,,urn:lsid:ipni.org:names:858641-1,wfo-0001047848,4169565,,
+7440bb14-8fcc-11eb-924d-9cd76263cbd0,species,minus,Rhodococcum,,"(Lodd., G.Lodd. & W.Lodd.) Avrorin",0,,,"Bot. Zhurn. (Moscow & Leningrad) 43(12): 1722. 1958",,,,16a9c184-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:858642-1,wfo-0000464486,,,
+b1d3bcaa-8fcd-11eb-924d-9cd76263cbd0,species,minus,Rhodococcum,,"(Loddiges) Avrorin",0,,,,,,,,,urn:lsid:ipni.org:names:1160422-2,wfo-0001047849,4169543,,
+74409b84-8fcc-11eb-924d-9cd76263cbd0,species,vitis-idaea,Rhodococcum,,"(L.) Avrorin",0,,,"Bot. Zhurn. (Moscow & Leningrad) 43: 1723 (1958)",,,,58cbdb3e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:858643-1,wfo-0000464485,,,
+b1d3dcc6-8fcd-11eb-924d-9cd76263cbd0,species,vitis-idaea,Rhodococcum,,"(L.) Avrorin",0,,,"Bot. Zhurn. (Moscow & Leningrad) 43: 1723 (1958)",,,,,,urn:lsid:ipni.org:names:858643-1,wfo-0001047850,7327999,,
+651efaa6-1d4d-11ec-82c2-f14daa6f2d93,subspecies,minus,Rhodococcum,vitis-idaea,V.G.Sergienko,,,,"Fl. poluostrova Kanin 83. 1986",,,,,,urn:lsid:ipni.org:names:952523-1,wfo-0001369016,,,

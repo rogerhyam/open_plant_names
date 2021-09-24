@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3406a00-8fd1-11eb-924d-9cd76263cbd0,genus,Elmera,,,Rydb.,Q1905130,1905,,"N. Amer. Fl. 22(2): 97. 1905.",,,,,,37028-1,wfo-4000013237,3032569,,
-eda8c3fc-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Elmera,,"(S.Watson) Rydb.","Q960820,Q1905130",1905,,"N. Amer. Fl. 22: 97 1905",,,,,,90073-2,wfo-0000666479,3032570,,
-eda92090-8fcc-11eb-924d-9cd76263cbd0,variety,puberulenta,Elmera,racemosa,C.L.Hitchc.,Q5080195,1961,,"Vasc. Pl. Pacific Northw. 3: 8 1961",,,,,,90074-2,wfo-0000666481,3754246,,
+e3406a00-8fd1-11eb-924d-9cd76263cbd0,genus,Elmera,,,Rydb.,0,1905,,"N. Amer. Fl. 22: 97 (1905)",,,,,,urn:lsid:ipni.org:names:37028-1,wfo-4000013237,3032569,,
+eda8c3fc-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Elmera,,Rydb.,0,1905,,"N. Amer. Fl. 22: 97 (1905)",,,,,,urn:lsid:ipni.org:names:90073-2,wfo-0000666479,3032570,,
+eda92090-8fcc-11eb-924d-9cd76263cbd0,variety,puberulenta,Elmera,racemosa,C.L.Hitchc.,0,1961,,"Vasc. Pl. Pacif. N.W. 3: 8 (1961)",,,,,,urn:lsid:ipni.org:names:90074-2,wfo-0000666481,3754246,,
+d9ab2f9e-1d4c-11ec-82c2-f14daa6f2d93,variety,racemosa,Elmera,racemosa,,,,,,,,,,,,wfo-0001135777,,,

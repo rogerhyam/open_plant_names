@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a5e5c8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopis,,,Urb.,Q64845,,,,,,,,,295587-2,wfo-4000033039,2967017,,
-e61b6676-8fc2-11eb-924d-9cd76263cbd0,species,lowdenii,Rhodopis,,Judd,Q2619740,,,,,,,,,,wfo-0000179933,5358240,,
-b333d37e-8fc2-11eb-924d-9cd76263cbd0,species,planisiliqua,Rhodopis,,"(L.) Urb.","Q1043,Q64845",,,,,,,,,,wfo-0000178913,5358241,,
+e9a5e5c8-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodopis,,,Urb.,0,,,"Symb. Antill. 2: 304 (1900)",,,,,,urn:lsid:ipni.org:names:295587-2,wfo-4000033039,2967017,,
+e61b6676-8fc2-11eb-924d-9cd76263cbd0,species,lowdenii,Rhodopis,,Judd,0,,,"Sida 10: 203 (1984)",,,,,,urn:lsid:ipni.org:names:219613-2,wfo-0000179933,5358240,,
+b333d37e-8fc2-11eb-924d-9cd76263cbd0,species,planisiliqua,Rhodopis,,Urb.,0,,,"Symb. Antill. 2: 304 (1900)",,,,,,urn:lsid:ipni.org:names:219614-2,wfo-0000178913,5358241,,
+73ced800-1d4d-11ec-82c2-f14daa6f2d93,variety,lowdenii,Rhodopis,planisiliqua,"(Judd) Alain",,,,"Fl. Española 3: 404 (1985)",,,,,,urn:lsid:ipni.org:names:924462-1,wfo-0001388858,,,
+758a901c-1d4d-11ec-82c2-f14daa6f2d93,variety,lowdenii,Rhodopis,planisiliqua,"(Judd) Alain",,,,"Phytologia Mem. 3: 404. 1985",,,,,,urn:lsid:ipni.org:names:1021900-2,wfo-0001391101,,,

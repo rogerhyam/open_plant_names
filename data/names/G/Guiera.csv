@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e43bf05a-8fd1-11eb-924d-9cd76263cbd0,genus,Guiera,,,"Adans. ex Juss.","Q315861,Q223963",1789,,"Gen. Pl. 320. 1789.",,,,,,7165-1,wfo-4000016345,7327144,,
-079be64a-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Guiera,,Sm.,Q458004,1811,,"Cycl. 17: s.p. 1811",,,,,,,wfo-0000711726,3699813,,
-079c0346-8fcd-11eb-924d-9cd76263cbd0,species,nudiflora,Guiera,,"Rchb. ex DC.","Q58053,Q123057",1828,,"Prodr. 3: 18 1828",,,,,,170634-1,wfo-0000711727,3699806,,
-079c396a-8fcd-11eb-924d-9cd76263cbd0,species,senegalensis,Guiera,,J.F.Gmel.,Q57230,1791,,"Syst. Nat. 675 1791",,,,,,20011770-1,wfo-0000711729,3699789,,
+e43bf05a-8fd1-11eb-924d-9cd76263cbd0,genus,Guiera,,,"Adans. ex Juss.",0,1789,,"Gen. Pl. : 320 (1789)",,,,,,urn:lsid:ipni.org:names:7165-1,wfo-4000016345,7327144,,
+079be64a-8fcd-11eb-924d-9cd76263cbd0,species,glandulosa,Guiera,,Sm.,0,1811,,"Cycl. 17: s.p. (1811)",,,,,,urn:lsid:ipni.org:names:170633-1,wfo-0000711726,3699813,,
+079c0346-8fcd-11eb-924d-9cd76263cbd0,species,nudiflora,Guiera,,"Rchb. ex DC.",0,1828,,"Prodr. 3: 18 (1828)",,,,,,urn:lsid:ipni.org:names:170634-1,wfo-0000711727,3699806,,
+079c396a-8fcd-11eb-924d-9cd76263cbd0,species,senegalensis,Guiera,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 675 (1791)",,,,,,urn:lsid:ipni.org:names:20011770-1,wfo-0000711729,3699789,,

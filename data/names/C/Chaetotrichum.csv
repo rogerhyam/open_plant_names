@@ -1,36 +1,38 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9955a8dc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Chaetotrichum,,,Syd.,,1927,,"Annls mycol. 25(1/2): 150 (1927)",,,,9955a8dc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7599," "
-f0a5cac8-9bac-11eb-a8a2-19ed5c03f8d3,species,angatinum,Chaetotrichum,,Petr.,Q4360385,1957,,"Sydowia 10: 128 (1957)",,,,f0a5cac8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294763," "
-f0a5fa48-9bac-11eb-a8a2-19ed5c03f8d3,species,blumeae,Chaetotrichum,,"(Thüm.) Petr.",Q4360385,1957,,"Sydowia 10: 129 (1957)",,,,b329d1de-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294764," "
-07d75b6c-9bad-11eb-a8a2-19ed5c03f8d3,species,effusum,Chaetotrichum,,"(Berk. & M.A. Curtis) Petr.","Q662338,Q4360385",,,,,,,,,,,,455360," "
-f0a62c34-9bac-11eb-a8a2-19ed5c03f8d3,species,floridanum,Chaetotrichum,,Petr.,Q4360385,1952,,"Sydowia 6(5-6): 405 (1952)",,,,f0a62c34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294765," "
-524ee6ba-9bad-11eb-a8a2-19ed5c03f8d3,species,graminis,Chaetotrichum,,"(Corda) Rabenh.","Q624998,Q65090",,,,,,,,,,,,431488," "
-f0a66bd6-9bac-11eb-a8a2-19ed5c03f8d3,species,lantanae,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 38 (1951)",,,,f0a66bd6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294766," "
-f0a6a34e-9bac-11eb-a8a2-19ed5c03f8d3,species,latisporum,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 34 (1951)",,,,f0a6a34e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294767," "
-fda2874e-9bab-11eb-a8a2-19ed5c03f8d3,species,liabicola,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 35 (1951)",,,,fda2874e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,294768," "
-0e68acf6-9bad-11eb-a8a2-19ed5c03f8d3,species,lupini,Chaetotrichum,,"(Cooke) Petr.","Q2351239,Q4360385",1952,,"Sydowia 6(5-6): 405 (1952)",,,,,,,,,294769," "
+f0a5cac8-9bac-11eb-a8a2-19ed5c03f8d3,species,angatinum,Chaetotrichum,,Petr.,0,1957,,"Sydowia 10: 128 (1957)",,,,f0a5cac8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294763," "
+f0a5fa48-9bac-11eb-a8a2-19ed5c03f8d3,species,blumeae,Chaetotrichum,,"(Thüm.) Petr.",0,1957,,"Sydowia 10: 129 (1957)",,,,b329d1de-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294764," "
+07d75b6c-9bad-11eb-a8a2-19ed5c03f8d3,species,effusum,Chaetotrichum,,"(Berk. & M.A. Curtis) Petr.",0,,,,,,,,,,,,455360," "
+f0a62c34-9bac-11eb-a8a2-19ed5c03f8d3,species,floridanum,Chaetotrichum,,Petr.,0,1952,,"Sydowia 6(5-6): 405 (1952)",,,,f0a62c34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294765," "
+524ee6ba-9bad-11eb-a8a2-19ed5c03f8d3,species,graminis,Chaetotrichum,,"(Corda) Rabenh.",0,,,,,,,,,,,,431488," "
+f0a66bd6-9bac-11eb-a8a2-19ed5c03f8d3,species,lantanae,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 38 (1951)",,,,f0a66bd6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294766," "
+f0a6a34e-9bac-11eb-a8a2-19ed5c03f8d3,species,latisporum,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 34 (1951)",,,,f0a6a34e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294767," "
+fda2874e-9bab-11eb-a8a2-19ed5c03f8d3,species,liabicola,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 35 (1951)",,,,fda2874e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,294768," "
+0e68acf6-9bad-11eb-a8a2-19ed5c03f8d3,species,lupini,Chaetotrichum,,"(Cooke) Petr.",0,1952,,"Sydowia 6(5-6): 405 (1952)",,,,,,,,,294769," "
 e9542710-9bac-11eb-a8a2-19ed5c03f8d3,species,macrosporum,Chaetotrichum,,Bonar,,1942,,"Mycologia 34(2): 189 (1942)",,,,e9542710-9bac-11eb-a8a2-19ed5c03f8d3,,,,,285161," "
-c67877e6-9bac-11eb-a8a2-19ed5c03f8d3,species,pannosum,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 37 (1951)",,,,c67877e6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294770," "
-0e68e6c6-9bad-11eb-a8a2-19ed5c03f8d3,species,pterocauli,Chaetotrichum,,Petr.,Q4360385,1957,,"Sydowia 10: 129 (1957)",,,,0e68e6c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294771," pterocaulonis"
-813c2d3a-9bac-11eb-a8a2-19ed5c03f8d3,species,pterocaulonis,Chaetotrichum,,Petr.,Q4360385,,,,,,,813c2d3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,257345," Chaetotrichum pterocauli"
-0e924638-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchrum,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 32 (1951)",,,,0e924638-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294772," "
-f0a30bd0-9bac-11eb-a8a2-19ed5c03f8d3,species,rufidulum,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 33 (1951)",,,,f0a30bd0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294773," "
-0e9277ca-9bad-11eb-a8a2-19ed5c03f8d3,species,sandwicense,Chaetotrichum,,Petr.,Q4360385,1953,,"Sydowia 7: 408 (1953)",,,,0e9277ca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294774," "
+c67877e6-9bac-11eb-a8a2-19ed5c03f8d3,species,pannosum,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 37 (1951)",,,,c67877e6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294770," "
+0e68e6c6-9bad-11eb-a8a2-19ed5c03f8d3,species,pterocauli,Chaetotrichum,,Petr.,0,1957,,"Sydowia 10: 129 (1957)",,,,0e68e6c6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294771," pterocaulonis"
+813c2d3a-9bac-11eb-a8a2-19ed5c03f8d3,species,pterocaulonis,Chaetotrichum,,Petr.,0,,,,,,,813c2d3a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,257345," Chaetotrichum pterocauli"
+0e924638-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchrum,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 32 (1951)",,,,0e924638-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294772," "
+f0a30bd0-9bac-11eb-a8a2-19ed5c03f8d3,species,rufidulum,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 33 (1951)",,,,f0a30bd0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294773," "
+0e9277ca-9bad-11eb-a8a2-19ed5c03f8d3,species,sandwicense,Chaetotrichum,,Petr.,0,1953,,"Sydowia 7: 408 (1953)",,,,0e9277ca-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294774," "
 e434c906-9bac-11eb-a8a2-19ed5c03f8d3,species,solani,Chaetotrichum,,Syd.,,1927,,"Annls mycol. 25(1-2): 150 (1927)",,,,e434c906-9bac-11eb-a8a2-19ed5c03f8d3,,,,,278343," "
-0ebb0546-9bad-11eb-a8a2-19ed5c03f8d3,species,solani-torvi,Chaetotrichum,,"(Gonz. Frag. & Cif.) Petr.","Q4516707,Q4360385",1951,,"Sydowia 5: 38 (1951)",,,,7f7b2762-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294775," "
-13ee0ab8-9bad-11eb-a8a2-19ed5c03f8d3,species,sydowii,Chaetotrichum,,Petr.,Q4360385,1951,,"Sydowia 5: 31 (1951)",,,,13ee0ab8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294776," "
-14c63b72-9bad-11eb-a8a2-19ed5c03f8d3,species,trichophilum,Chaetotrichum,,"(F. Stevens) Petr.",Q4360385,1951,,"Sydowia 5: 38 (1951)",,,,c5931868-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294777," "
-4e6677de-8fcd-11eb-924d-9cd76263cbd0,species,andina,Chaetotropis,,Ball,Q957519,1885,,"J. Linn. Soc., Bot. 22: 58 1885",,Q55758828,,,,395580-1,wfo-0000859042,4110177,,
-4e669c14-8fcd-11eb-924d-9cd76263cbd0,species,araucana,Chaetotropis,,Phil.,Q214994,1896,,"Anales Univ. Chile 94: 17 1896",,,,,,54276-2,wfo-0000859043,4110162,,
-4e66e1a6-8fcd-11eb-924d-9cd76263cbd0,species,asperigluma,Chaetotropis,,"(Steud.) Nicora","Q62821,Q5829538",1978,,"in Fl. Patagonica 3: 402 1978",,,,47215318-8fcd-11eb-924d-9cd76263cbd0,,395582-1,wfo-0000859044,4110152,,
-4e6725e4-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Chaetotropis,,Kunth,Q77074,1829,,"Révis. Gramin. 1: 72 1829",,,,,,,wfo-0000859046,4110133,,
-4e674678-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Chaetotropis,,"(Kunth) Björkman","Q77074,Q21506157",1960,,"Symb. Bot. Upsal. 17(1): 14 1960",,,,,,54278-2,wfo-0000859047,4106152,,
-c7ac1cd4-8fcd-11eb-924d-9cd76263cbd0,variety,longearistata,Chaetotropis,elongata,Nicora,Q5829538,1970,,"Fl. Prov. Buenos Aires 4(2): 208 1970",,,,,,54279-2,wfo-0001097122,4106151,,
-4e6763ec-8fcd-11eb-924d-9cd76263cbd0,variety,longiarista,Chaetotropis,elongatus,Nicora,Q5829538,1970,,"in Fl. Prov. Buenos Aires 4(2): 208 1970",,,,,,,wfo-0000859048,5948795,,
-4e678570-8fcd-11eb-924d-9cd76263cbd0,species,exasperata,Chaetotropis,,"(Trin.) Björkman","Q65867,Q21506157",1960,,"Symb. Bot. Upsal. 17(1): 14 1960",,,,474cfea0-8fcd-11eb-924d-9cd76263cbd0,,54280-2,wfo-0000859049,8368865,,
-4e67aa5a-8fcd-11eb-924d-9cd76263cbd0,species,hackelii,Chaetotropis,,"(R.E.Fr.) Björkman","Q15414,Q21506157",1960,,"Symb. Bot. Upsal. 17(1): 14 1960",,,,475994f8-8fcd-11eb-924d-9cd76263cbd0,,54281-2,wfo-0000859050,8413214,,
-4e67c8a0-8fcd-11eb-924d-9cd76263cbd0,species,imberbis,Chaetotropis,,"(Phil.) Björkman","Q214994,Q21506157",1960,,"Symb. Bot. Upsal. 17(1): 14 1960",,,,,,54282-2,wfo-0000859051,8409984,,
-4e67e52e-8fcd-11eb-924d-9cd76263cbd0,variety,bonariensis,Chaetotropis,imberbis,Nicora,Q5829538,1970,,"in Fl. Prov. Buenos Aires 4(2): 211 1970",,,,,,54283-2,wfo-0000859052,4106097,,
-4e680630-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Chaetotropis,,Phil.,Q214994,1859,,"Linnaea 30: 205 1859",,,,,,395588-1,wfo-0000859053,4106091,,
-4e682494-8fcd-11eb-924d-9cd76263cbd0,species,parvula,Chaetotropis,,"(Roseng., B.R.Arrill. & Izag.) Nicora","Q823024,Q5729816,Q1557650,Q5829538",1993,,"Hickenia 2: 85 1993",,,,,,976953-1,wfo-0000859054,4106072,,
-4e6845e6-8fcd-11eb-924d-9cd76263cbd0,species,rioplatensis,Chaetotropis,,"(Herter) Björkman","Q3030442,Q21506157",1960,,"Symb. Bot. Upsal. 17(1): 14 1960",,,,5f5ac310-8fcd-11eb-924d-9cd76263cbd0,,54284-2,wfo-0000859055,4106056,,
+0ebb0546-9bad-11eb-a8a2-19ed5c03f8d3,species,solani-torvi,Chaetotrichum,,"(Gonz. Frag. & Cif.) Petr.",0,1951,,"Sydowia 5: 38 (1951)",,,,7f7b2762-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294775," "
+13ee0ab8-9bad-11eb-a8a2-19ed5c03f8d3,species,sydowii,Chaetotrichum,,Petr.,0,1951,,"Sydowia 5: 31 (1951)",,,,13ee0ab8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,294776," "
+14c63b72-9bad-11eb-a8a2-19ed5c03f8d3,species,trichophilum,Chaetotrichum,,"(F. Stevens) Petr.",0,1951,,"Sydowia 5: 38 (1951)",,,,c5931868-9bac-11eb-a8a2-19ed5c03f8d3,,,,,294777," "
+4e6677de-8fcd-11eb-924d-9cd76263cbd0,species,andina,Chaetotropis,,Ball,0,1885,,"J. Linn. Soc., Bot. 22: 58 (1885)",,Q55758828,,,,urn:lsid:ipni.org:names:395580-1,wfo-0000859042,4110177,,
+4e669c14-8fcd-11eb-924d-9cd76263cbd0,species,araucana,Chaetotropis,,Phil.,0,1896,,"Anales Univ. Chile 94: 17 (1896)",,,,,,urn:lsid:ipni.org:names:54276-2,wfo-0000859043,4110162,,
+4e66e1a6-8fcd-11eb-924d-9cd76263cbd0,species,asperigluma,Chaetotropis,,"(Steud.) Nicora",0,1978,,"Fl. Patagonica 3: 402 (1978)",,,,47215318-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:395582-1,wfo-0000859044,4110152,,
+4e6725e4-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Chaetotropis,,Kunth,0,1829,,"Révis. Gramin. 1: 72 (1829)",,,,,,urn:lsid:ipni.org:names:395583-1,wfo-0000859046,4110133,,
+4e674678-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Chaetotropis,,"(Kunth) Björkman",0,1960,,"Symb. Bot. Upsal. 17(1): 14 (1960)",,,,,,urn:lsid:ipni.org:names:54278-2,wfo-0000859047,4106152,,
+bc6202dc-1d4c-11ec-82c2-f14daa6f2d93,variety,elongata,Chaetotropis,elongata,,,,,,,,,,,,wfo-0001097123,,,
+c7ac1cd4-8fcd-11eb-924d-9cd76263cbd0,variety,longearistata,Chaetotropis,elongata,"Nicora in Cabrera",0,1970,,"Fl. Prov. Buenos Aires 4(2): 208 (1970)",,,,,,urn:lsid:ipni.org:names:54279-2,wfo-0001097122,4106151,,
+4e6763ec-8fcd-11eb-924d-9cd76263cbd0,variety,longiarista,Chaetotropis,elongatus,Nicora,0,1970,,"in Fl. Prov. Buenos Aires 4(2): 208 1970",,,,,,,wfo-0000859048,5948795,,
+4e678570-8fcd-11eb-924d-9cd76263cbd0,species,exasperata,Chaetotropis,,"(Trin.) Björkman",0,1960,,"Symb. Bot. Upsal. 17(1): 14 (1960)",,,,474cfea0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:54280-2,wfo-0000859049,8368865,,
+4e67aa5a-8fcd-11eb-924d-9cd76263cbd0,species,hackelii,Chaetotropis,,"(R.E.Fr.) Björkman",0,1960,,"Symb. Bot. Upsal. 17(1): 14 (1960)",,,,475994f8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:54281-2,wfo-0000859050,8413214,,
+4e67c8a0-8fcd-11eb-924d-9cd76263cbd0,species,imberbis,Chaetotropis,,"(Phil.) Björkman",0,1960,,"Symb. Bot. Upsal. 17(1): 14 (1960)",,,,,,urn:lsid:ipni.org:names:54282-2,wfo-0000859051,8409984,,
+4e67e52e-8fcd-11eb-924d-9cd76263cbd0,variety,bonariensis,Chaetotropis,imberbis,"Nicora in Cabrera",0,1970,,"Fl. Prov. Buenos Aires 4(2): 211 (1970)",,,,,,urn:lsid:ipni.org:names:54283-2,wfo-0000859052,4106097,,
+bc62292e-1d4c-11ec-82c2-f14daa6f2d93,variety,imberbis,Chaetotropis,imberbis,,,,,,,,,,,,wfo-0001097124,,,
+4e680630-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Chaetotropis,,Phil.,0,1859,,"Linnaea 30: 205 (1859)",,,,,,urn:lsid:ipni.org:names:395588-1,wfo-0000859053,4106091,,
+4e682494-8fcd-11eb-924d-9cd76263cbd0,species,parvula,Chaetotropis,,"(Roseng., B.R.Arrill. & Izag.) Nicora",0,1993,,"Hickenia 2: 85 (1993)",,,,,,urn:lsid:ipni.org:names:976953-1,wfo-0000859054,4106072,,
+4e6845e6-8fcd-11eb-924d-9cd76263cbd0,species,rioplatensis,Chaetotropis,,"(Herter) Björkman",0,1960,,"Symb. Bot. Upsal. 17(1): 14 (1960)",,,,5f5ac310-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:54284-2,wfo-0000859055,4106056,,

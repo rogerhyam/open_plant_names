@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec288314-8fd1-11eb-924d-9cd76263cbd0,genus,Xiphocarpus,,,,,,,,,,,,,,wfo-4000040990,,,
-26b4dbbe-8fc2-11eb-924d-9cd76263cbd0,species,candidus,Xiphocarpus,,Endl.,Q78605,,,,,,,,,,wfo-0000175782,2933389,,
-b71d1be8-8fcd-11eb-924d-9cd76263cbd0,species,candidus,Xiphocarpus,,"(DC.) Hassk.","Q123057,Q68616",1844,,"Cat. Pl. Hort. Bogor. 271 1844",,,,6c2d6c06-8fcc-11eb-924d-9cd76263cbd0,,525841-1,wfo-0001059841,7391242,,
-26c05494-8fc2-11eb-924d-9cd76263cbd0,species,martinicensis,Xiphocarpus,,C.Presl,Q379601,,,,,,,,,,wfo-0000175783,2933388,,
-5d961bd4-8fcc-11eb-924d-9cd76263cbd0,species,minor,Xiphocarpus,,"Zoll. & Moritzi","Q124330,Q2614546",1846,,"Natuur- Geneesk. Arch. Ned.-Indië 3: 76 1846",,,,,,525843-1,wfo-0000428201,3969102,,
+ec288314-8fd1-11eb-924d-9cd76263cbd0,genus,Xiphocarpus,,,C.Presl,,,,"Symb. Bot. 1: 13 (1830)",,,,,,urn:lsid:ipni.org:names:23830-1,wfo-4000040990,,,
+26b4dbbe-8fc2-11eb-924d-9cd76263cbd0,species,candidus,Xiphocarpus,,"(DC.) Endl.",0,,,"Gen. Pl. : 1273 (1840)",,,,,,urn:lsid:ipni.org:names:525840-1,wfo-0000175782,2933389,,
+b71d1be8-8fcd-11eb-924d-9cd76263cbd0,species,candidus,Xiphocarpus,,"(DC.) Hassk.",0,1844,,"Cat. Pl. Hort. Bogor. 271 (1844).",,,,6c2d6c06-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:525841-1,wfo-0001059841,7391242,,
+26c05494-8fc2-11eb-924d-9cd76263cbd0,species,martinicensis,Xiphocarpus,,C.Presl,0,,,"Symb. Bot. 1: 14 (1830)",,,,,,urn:lsid:ipni.org:names:525842-1,wfo-0000175783,2933388,,
+5d961bd4-8fcc-11eb-924d-9cd76263cbd0,species,minor,Xiphocarpus,,"Zoll. & Moritzi",0,1846,,"Natuur- Geneesk. Arch. Ned.-Indië 3: 76 (1846)",,,,,,urn:lsid:ipni.org:names:525843-1,wfo-0000428201,3969102,,

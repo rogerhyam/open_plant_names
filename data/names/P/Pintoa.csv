@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88ef170-8fd1-11eb-924d-9cd76263cbd0,genus,Pintoa,,,Gay,Q1096785,1845,,"Fl. Chil. 1(4): 479–481, t. 16. 1845[1846].",,,,,,,wfo-4000029790,3233853,,
-de4eaad8-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Pintoa,,Gay,Q1096785,1846,,"Fl. Chil. 1: 479–480, t. 16 1846",,,,,,873351-1,wfo-0001146315,7285901,,
+e88ef170-8fd1-11eb-924d-9cd76263cbd0,genus,Pintoa,,,Gay,0,1845,,"Fl. Chil. 1: 479 (1846)",,,,,,urn:lsid:ipni.org:names:41730-1,wfo-4000029790,3233853,,
+de4eaad8-8fcd-11eb-924d-9cd76263cbd0,species,chilensis,Pintoa,,Gay,0,1846,,"Fl. Chil. 1: 479 (1846)",,,,,,urn:lsid:ipni.org:names:873351-1,wfo-0001146315,7285901,,
+78f49cf2-1d4d-11ec-82c2-f14daa6f2d93,variety,eglandulosa,Pintoa,chilensis,Phil.,,,,"Anales Univ. Chile 82: 1106. 1893",,,,,,urn:lsid:ipni.org:names:196898-2,wfo-0001395732,,,
+78f4c29a-1d4d-11ec-82c2-f14daa6f2d93,variety,glandulosa,Pintoa,chilensis,Phil.,,,,"Anales Univ. Chile 82: 1105. 1893",,,,,,urn:lsid:ipni.org:names:196899-2,wfo-0001395733,,,
+78f4f378-1d4d-11ec-82c2-f14daa6f2d93,variety,microphylla,Pintoa,chilensis,Phil.,,,,"Anales Univ. Chile 82: 1106. 1893",,,,,,urn:lsid:ipni.org:names:196900-2,wfo-0001395734,,,

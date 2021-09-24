@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e635deca-8fd1-11eb-924d-9cd76263cbd0,genus,Macrocalyx,,,,,,,,,,,,,,wfo-4000022675,,,
-b8da8d7c-8fd1-11eb-924d-9cd76263cbd0,species,bipinnatifidus,Macrocalyx,,"(Torr.) Coville","Q1346660,Q535104",1893,,"Contr. U.S. Natl. Herb. 4: 157 1893",,Q95371794,,,,148778-2,wfo-0001240830,,,
-bdbf315c-8fcd-11eb-924d-9cd76263cbd0,species,holtoni,Macrocalyx,,Tiegh.,Q2421500,1895,,"Bull. Soc. Bot. Fr. 42: 357 1895",,Q54801940,,,,550447-1,wfo-0001075100,,,
-6bbc3f86-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Macrocalyx,,"Costantin & Poisson",Q2701525,1908,,"Compt. Rend. Hebd. Séances Acad. Sci. 147: 637 1908",,,,,,,wfo-0000449820,5618359,,
-1a65e0c8-8fcd-11eb-924d-9cd76263cbd0,variety,rubra,Macrocalyx,tomentosa,Poiss.,Q5894438,1912,,"Rech. Fl. Merid. Madag. 27 1912",,,,,,,wfo-0000747878,7682928,,
+e635deca-8fd1-11eb-924d-9cd76263cbd0,genus,Macrocalyx,,,Tiegh.,,,,"Bull. Soc. Bot. France 42: 357 (1895)",,,,,,urn:lsid:ipni.org:names:295627-2,wfo-4000022675,,,
+b8da8d7c-8fd1-11eb-924d-9cd76263cbd0,species,bipinnatifidus,Macrocalyx,,"(Torr.) Coville",0,1893,,"Contr. U.S. Natl. Herb. 4: 157. 1893",,Q95371794,,,,urn:lsid:ipni.org:names:148778-2,wfo-0001240830,,,
+bdbf315c-8fcd-11eb-924d-9cd76263cbd0,species,holtonii,Macrocalyx,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 357 (1895)",,Q54801940,,,,urn:lsid:ipni.org:names:550447-1,wfo-0001075100,,,
+6bbc3f86-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Macrocalyx,,"Costantin & Poiss.",0,1908,,"Compt. Rend. Hebd. Séances Acad. Sci. 147: 637 (1908)",,,,,,urn:lsid:ipni.org:names:561319-1,wfo-0000449820,5618359,,
+1a65e0c8-8fcd-11eb-924d-9cd76263cbd0,variety,rubra,Macrocalyx,tomentosa,Poiss.,0,1912,,"Rech. Fl. Merid. Madag. 27 1912",,,,,,,wfo-0000747878,7682928,,

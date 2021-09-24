@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e421b096-8fd1-11eb-924d-9cd76263cbd0,genus,Gonocytisus,,,Spach,Q274449,,,,,,,,,22512-1,wfo-4000016026,2952405,,
-9b7553b4-8fc9-11eb-924d-9cd76263cbd0,species,angulatus,Gonocytisus,,"(L.) Spach","Q1043,Q274449",,,,,,,,,,wfo-0000213776,2952409,,
-f88f55a0-8fc3-11eb-924d-9cd76263cbd0,species,dirmilensis,Gonocytisus,,Hub.-Mor.,Q5706975,,,,,,,,,,wfo-0000185641,2952406,,
-f89b8c44-8fc3-11eb-924d-9cd76263cbd0,species,pterocladus,Gonocytisus,,"(Boiss.) Spach","Q34430,Q274449",,,,,,,f8a83002-8fc3-11eb-924d-9cd76263cbd0,,,wfo-0000185642,2952407,,
-8ef2d4fa-8fcd-11eb-924d-9cd76263cbd0,species,discolor,Gonogona,,"(Ker Gawl.) Link","Q1699308,Q215466",1822,,"Enum. Hort. Berol. Alt. 2: 369 1822",,,,8f04fe00-8fcd-11eb-924d-9cd76263cbd0,,636053-1,wfo-0000974484,2784200,,
-8ef30ac4-8fcd-11eb-924d-9cd76263cbd0,species,repens,Gonogona,,"(L.) Link","Q1043,Q215466",1822,,"Enum. Hort. Berol. Alt. 2: 369 1822",,,,,,636054-1,wfo-0000974486,2840933,,
+e421b096-8fd1-11eb-924d-9cd76263cbd0,genus,Gonocytisus,,,Spach,0,,,"Ann. Sci. Nat., Bot. , sér. 3, 3: 153 (1845)",,,,,,urn:lsid:ipni.org:names:22512-1,wfo-4000016026,2952405,,
+9b7553b4-8fc9-11eb-924d-9cd76263cbd0,species,angulatus,Gonocytisus,,"(L.) Spach",0,,,"Ann. Sci. Nat., Bot. , sér. 3, 3: 153 (1845)",,,,,,urn:lsid:ipni.org:names:497058-1,wfo-0000213776,2952409,,
+f88f55a0-8fc3-11eb-924d-9cd76263cbd0,species,dirmilensis,Gonocytisus,,Hub.-Mor.,0,,,"Bauhinia 2: 297 (1965)",,,,,,urn:lsid:ipni.org:names:497059-1,wfo-0000185641,2952406,,
+f89b8c44-8fc3-11eb-924d-9cd76263cbd0,species,pterocladus,Gonocytisus,,"(Boiss.) Spach",0,,,"Ann. Sci. Nat., Bot. , sér. 3, 3: 154 (1845)",,,,f8a83002-8fc3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:497060-1,wfo-0000185642,2952407,,

@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88703c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pillera,,,,,,,,,,,,,,wfo-4000029683,3912838,,
-778800a2-8fcc-11eb-924d-9cd76263cbd0,species,macrocarpa,Pillera,,Endl.,Q78605,1833,,"Prodr. Fl. Norfolk. 91 1833",,,,,,514348-1,wfo-0000469811,3975518,,
-23541998-8fcd-11eb-924d-9cd76263cbd0,species,pillichianum,,,"(J.Wagner) Holub","Q4102229,Q328397",1976,,"Folia Geobot. Phytotax. 11: 82 1976",,Q55755382,,,,445559-1,wfo-0000766263,,,
+e88703c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pillera,,,Endl.,,,,"Prodromus Florae Norfolkicae 1833",,,,,,urn:lsid:ipni.org:names:71244-3,wfo-4000029683,3912838,,
+778800a2-8fcc-11eb-924d-9cd76263cbd0,species,macrocarpa,Pillera,,"(Wall.) Endl.",0,1833,,"Prodr. Fl. Norfolk. : 91 (1833)",,,,,,urn:lsid:ipni.org:names:514348-1,wfo-0000469811,3975518,,

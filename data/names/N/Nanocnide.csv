@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e70fe8f4-8fd1-11eb-924d-9cd76263cbd0,genus,Nanocnide,,,Blume,Q76816,1856,,"Mus. Bot. 2: 154–155, pl. 17. 1856.",,,,,,40901-1,wfo-4000025302,7300707,,
-38ada558-8fcc-11eb-924d-9cd76263cbd0,species,closii,Nanocnide,,"H.Lév. & Vaniot","Q134120,Q3060213",1907,,"Bull. Soc. Bot. France 51: cxliv 1907",,,,,,854769-1,wfo-0000381019,4100228,,
-b34e6f36-8fd1-11eb-924d-9cd76263cbd0,species,dichotoma,Nanocnide,,S.S.Chien,Q15919799,1934,,"Contr. Biol. Lab. Chin. Assoc. Advancem. Sci., Sect. Bot. 9(2): 142, f. 16 1934",,,,,,,wfo-0001230578,4100218,,
-b34e5302-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Nanocnide,,Blume,Q76816,1856,,"Mus. Bot. 2: 155, pl. 17 1856",,,,,,854771-1,wfo-0001230577,4100206,,
-ad694ff0-8fd1-11eb-924d-9cd76263cbd0,species,lobata,Nanocnide,,Wedd.,Q983408,1869,,"Prodr. 16(1): 69 1869",,,,,,854772-1,wfo-0001219860,4100198,,
-b34e8bec-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Nanocnide,,Migo,Q5898681,1934,,"Trans. Nat. Hist. Soc. Taiwan 24: 386 1934",,,,,,854773-1,wfo-0001230579,4100184,,
+e70fe8f4-8fd1-11eb-924d-9cd76263cbd0,genus,Nanocnide,,,Blume,0,1856,,"Mus. Bot. 2: 154 (1856)",,,,,,urn:lsid:ipni.org:names:40901-1,wfo-4000025302,7300707,,
+38ada558-8fcc-11eb-924d-9cd76263cbd0,species,closii,Nanocnide,,"H.Lév. & Vaniot",0,1907,,"Bull. Soc. Bot. France 51: cxliv (1907)",,,,,,urn:lsid:ipni.org:names:854769-1,wfo-0000381019,4100228,,
+b34e6f36-8fd1-11eb-924d-9cd76263cbd0,species,dichotoma,Nanocnide,,Chien,0,1934,,"Contr. Biol. Lab. Sci. Soc. China, Bot. Ser. 9: 142 (1934)",,,,,,urn:lsid:ipni.org:names:854770-1,wfo-0001230578,4100218,,
+b34e5302-8fd1-11eb-924d-9cd76263cbd0,species,japonica,Nanocnide,,Blume,0,1856,,"Mus. Bot. 2: 155 (1856)",,,,,,urn:lsid:ipni.org:names:854771-1,wfo-0001230577,4100206,,
+ad694ff0-8fd1-11eb-924d-9cd76263cbd0,species,lobata,Nanocnide,,Wedd.,0,1869,,"Prodr. 16(1): 69 (1869)",,,,,,urn:lsid:ipni.org:names:854772-1,wfo-0001219860,4100198,,
+b34e8bec-8fd1-11eb-924d-9cd76263cbd0,species,pilosa,Nanocnide,,Migo,0,1934,,"Trans. Nat. Hist. Soc. Formosa 24: 386 (1934)",,,,,,urn:lsid:ipni.org:names:854773-1,wfo-0001230579,4100184,,

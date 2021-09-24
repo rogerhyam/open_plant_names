@@ -1,6 +1,34 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9fb18750-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hubbsia,,,"W.A. Weber",,1965,,"Svensk bot. Tidskr. 59: 61 (1965)",,,,9fb18750-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2369," "
 39382b7e-9bac-11eb-a8a2-19ed5c03f8d3,species,californica,Hubbsia,,"(Räsänen) W.A. Weber",,1987,,"in Egan, Bryologist 90(2): 163 (1987)",,,,3bb4f994-9bad-11eb-a8a2-19ed5c03f8d3,,,,,132218," "
-57502520-9bad-11eb-a8a2-19ed5c03f8d3,species,langei,Hubbsia,,Follmann,Q21338752,1997,,"Biblthca Lichenol. 67: 17 (1997)",,,,57502520-9bad-11eb-a8a2-19ed5c03f8d3,,,,,443031," "
+57502520-9bad-11eb-a8a2-19ed5c03f8d3,species,langei,Hubbsia,,Follmann,0,1997,,"Biblthca Lichenol. 67: 17 (1997)",,,,57502520-9bad-11eb-a8a2-19ed5c03f8d3,,,,,443031," "
 2a170a38-9bad-11eb-a8a2-19ed5c03f8d3,species,lumbricoides,Hubbsia,,"W.A. Weber",,1965,,"Svensk bot. Tidskr. 59: 61 (1965)",,,,2a170a38-9bad-11eb-a8a2-19ed5c03f8d3,,,,,345076," "
-572fef08-9bad-11eb-a8a2-19ed5c03f8d3,species,parishii,Hubbsia,,"(Hasse) Tehler, Loht., Myllys & Sundin",Q21341510,1997,,"Symb. bot. upsal. 32(no. 1): 260 (1997)",,,,04555cec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,442829," "
+572fef08-9bad-11eb-a8a2-19ed5c03f8d3,species,parishii,Hubbsia,,"(Hasse) Tehler, Loht., Myllys & Sundin",0,1997,,"Symb. bot. upsal. 32(no. 1): 260 (1997)",,,,04555cec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,442829," "
+4b767840-1d4d-11ec-82c2-f14daa6f2d93,species,amoena,Hubera,,"(A.C.Sm.) Chaowasku",,,,"Phytotaxa 69: 47 (2012)",,,,,,urn:lsid:ipni.org:names:77123334-1,wfo-0001334359,,,
+4b900c42-1d4d-11ec-82c2-f14daa6f2d93,species,capillata,Hubera,,"(A.C.Sm.) Chaowasku",,,,"Phytotaxa 69: 47 (2012)",,,,,,urn:lsid:ipni.org:names:77123881-1,wfo-0001334511,,,
+4b76a982-1d4d-11ec-82c2-f14daa6f2d93,species,ceramensis,Hubera,,"(Boerl.) Chaowasku",,,,"Phytotaxa 69: 47 (2012)",,,,,,urn:lsid:ipni.org:names:77123335-1,wfo-0001334360,,,
+4b76cfac-1d4d-11ec-82c2-f14daa6f2d93,species,cerasoides,Hubera,,"(Roxb.) Chaowasku",,,,"Phytotaxa 69: 47 (2012)",,,,,,urn:lsid:ipni.org:names:77123336-1,wfo-0001334361,,,
+4b76f860-1d4d-11ec-82c2-f14daa6f2d93,species,decora,Hubera,,"(Diels) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123337-1,wfo-0001334362,,,
+4b772efc-1d4d-11ec-82c2-f14daa6f2d93,species,forbesii,Hubera,,"(F.Muell. ex Diels) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123338-1,wfo-0001334363,,,
+4b775670-1d4d-11ec-82c2-f14daa6f2d93,species,gracilis,Hubera,,"(Burck) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123339-1,wfo-0001334364,,,
+4b7799d2-1d4d-11ec-82c2-f14daa6f2d93,species,henrici,Hubera,,"(Diels) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123340-1,wfo-0001334365,,,
+4b77cfb0-1d4d-11ec-82c2-f14daa6f2d93,species,hirta,Hubera,,"(Miq.) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123341-1,wfo-0001334366,,,
+4b77f7e2-1d4d-11ec-82c2-f14daa6f2d93,species,humblotii,Hubera,,"(Drake ex Cavaco & Keraudren) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123342-1,wfo-0001334367,,,
+4b781e98-1d4d-11ec-82c2-f14daa6f2d93,species,jenkinsii,Hubera,,"(Hook.f. & Thomson) Chaowasku",,,,"Phytotaxa 69: 48 (2012)",,,,,,urn:lsid:ipni.org:names:77123343-1,wfo-0001334368,,,
+4b7847ba-1d4d-11ec-82c2-f14daa6f2d93,species,keraudreniae,Hubera,,"(Le Thomas & G.E.Schatz) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123344-1,wfo-0001334369,,,
+4b786ede-1d4d-11ec-82c2-f14daa6f2d93,species,korinti,Hubera,,"(Dunal) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123345-1,wfo-0001334370,,,
+4b7895f8-1d4d-11ec-82c2-f14daa6f2d93,species,leptopoda,Hubera,,"(Diels) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123346-1,wfo-0001334371,,,
+4b78bbfa-1d4d-11ec-82c2-f14daa6f2d93,species,loriformis,Hubera,,"(Gillespie) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123347-1,wfo-0001334372,,,
+4b78ddce-1d4d-11ec-82c2-f14daa6f2d93,species,mossambicensis,Hubera,,"(Vollesen) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123348-1,wfo-0001334373,,,
+4b7902a4-1d4d-11ec-82c2-f14daa6f2d93,species,multistamina,Hubera,,"(G.E.Schatz & Le Thomas) Chaowasku",,,,"Phytotaxa 69: 49 (2012)",,,,,,urn:lsid:ipni.org:names:77123349-1,wfo-0001334374,,,
+4b793800-1d4d-11ec-82c2-f14daa6f2d93,species,nitidissima,Hubera,,"(Dunal) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123350-1,wfo-0001334375,,,
+4b796776-1d4d-11ec-82c2-f14daa6f2d93,species,pendula,Hubera,,"(Capuron ex G.E.Schatz & Le Thomas) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123351-1,wfo-0001334376,,,
+4b798d1e-1d4d-11ec-82c2-f14daa6f2d93,species,perrieri,Hubera,,"(Cavaco & Keraudren) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123352-1,wfo-0001334377,,,
+4b79bcda-1d4d-11ec-82c2-f14daa6f2d93,species,rumphii,Hubera,,"(Blume ex Hensch.) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123353-1,wfo-0001334378,,,
+4b79e548-1d4d-11ec-82c2-f14daa6f2d93,species,sambiranensis,Hubera,,"(Capuron ex Le Thomas & G.E.Schatz) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123354-1,wfo-0001334379,,,
+51d49172-1d4d-11ec-82c2-f14daa6f2d93,species,senjiana,Hubera,,"R.Mural., D.Naras. & N.Balach.",,,,"Phytotaxa 207: 129 (2015)",,,,,,urn:lsid:ipni.org:names:77148016-1,wfo-0001342846,,,
+4b7a3304-1d4d-11ec-82c2-f14daa6f2d93,species,stuhlmannii,Hubera,,"(Engl.) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123355-1,wfo-0001334380,,,
+4b7a5f50-1d4d-11ec-82c2-f14daa6f2d93,species,tanganyikensis,Hubera,,"(Vollesen) Chaowasku",,,,"Phytotaxa 69: 50 (2012)",,,,,,urn:lsid:ipni.org:names:77123356-1,wfo-0001334381,,,
+4b7a8872-1d4d-11ec-82c2-f14daa6f2d93,species,trichoneura,Hubera,,"(Diels) Chaowasku",,,,"Phytotaxa 69: 51 (2012)",,,,,,urn:lsid:ipni.org:names:77123357-1,wfo-0001334382,,,
+4b7ab5d6-1d4d-11ec-82c2-f14daa6f2d93,species,verdcourtii,Hubera,,"(Vollesen) Chaowasku",,,,"Phytotaxa 69: 51 (2012)",,,,,,urn:lsid:ipni.org:names:77123358-1,wfo-0001334383,,,
+4b7ad8ea-1d4d-11ec-82c2-f14daa6f2d93,species,vitiensis,Hubera,,"(Seem.) Chaowasku",,,,"Phytotaxa 69: 51 (2012)",,,,,,urn:lsid:ipni.org:names:77123359-1,wfo-0001334384,,,

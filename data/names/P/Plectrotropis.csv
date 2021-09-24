@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b167a0-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrotropis,,,,,,,,,,,,,,wfo-4000030217,7302211,,
-b659c8fa-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Plectrotropis,,"Schumach. & Thonn.","Q66153,Q1369447",1827,,"Beskr. Guin. Pl. 338 1827",,,,,,515284-1,wfo-0001058096,2982444,,
-beb936c8-8fc5-11eb-924d-9cd76263cbd0,species,hirsuta,Plectrotropis,,"Schum. & Thonn.","Q4527684,Q1369447",,,,,,,,,,wfo-0000194640,2982418,,
-777c3ff6-8fcc-11eb-924d-9cd76263cbd0,species,striata,Plectrotropis,,Steud.,Q62821,1841,,"Nomencl. Bot. ed. 2, 2: 354 1841",,,,,,515286-1,wfo-0000469727,3972256,,
-f735362c-8fcb-11eb-924d-9cd76263cbd0,species,discolor,Plectrurus,,"(Pursh) Raf.","Q67353,Q364857",1825,,"Neogenyton 4 1825",,,,,,652125-1,wfo-0000276272,5308381,,
+e8b167a0-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrotropis,,,"Schumach. & Thonn.",,,,"Beskr. Guin. Pl. : 338 (1827)",,,,,,urn:lsid:ipni.org:names:23284-1,wfo-4000030217,7302211,,
+b659c8fa-8fcd-11eb-924d-9cd76263cbd0,species,angustifolia,Plectrotropis,,"Schumach. & Thonn.",0,1827,,"Beskr. Guin. Pl. : 338 (1827)",,,,,,urn:lsid:ipni.org:names:515284-1,wfo-0001058096,2982444,,
+beb936c8-8fc5-11eb-924d-9cd76263cbd0,species,hirsuta,Plectrotropis,,"Schumach. & Thonn.",0,,,"Beskr. Guin. Pl. : 339 (1827)",,,,,,urn:lsid:ipni.org:names:515285-1,wfo-0000194640,2982418,,
+777c3ff6-8fcc-11eb-924d-9cd76263cbd0,species,striata,Plectrotropis,,Steud.,0,1841,,"Nomencl. Bot. , ed. 2, 2: 354 (1841)",,,,,,urn:lsid:ipni.org:names:515286-1,wfo-0000469727,3972256,,
+f735362c-8fcb-11eb-924d-9cd76263cbd0,species,discolor,Plectrurus,,Raf.,0,1825,,"Neogenyton : 4 (1825)",,,,,,urn:lsid:ipni.org:names:652125-1,wfo-0000276272,5308381,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a767ae-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodotypos,,,"Siebold & Zucc.","Q77140,Q77121",1841,,"Fl. Jap. 1(19–20): 185–188, pl. 99. 1841.",,,,,,34013-1,wfo-4000033057,3032441,,
-a306c456-8fcd-11eb-924d-9cd76263cbd0,species,kerrioides,Rhodotypos,,"Siebold & Zucc.","Q77140,Q77121",1835,,"Flora japonica ; 1835 187, t.99 1841",,,,,,731424-1,wfo-0001016514,3032445,,
-a1f2dcda-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Rhodotypos,,"(Thunb.) Makino","Q39658,Q729955",1913,,"; 1913 126 1913",,Q55762504,,,,731425-1,wfo-0001014318,3032442,,
-d79d1a58-8fcd-11eb-924d-9cd76263cbd0,species,tetrapetala,Rhodotypos,,"(Siebold) Makino","Q77140,Q729955",1903,,"Bot. Mag. (Tokyo) 17(191): 13 1903",,,,a306aa5c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001131998,3853651,,
-a1f33586-8fcd-11eb-924d-9cd76263cbd0,species,tetrapetalus,Rhodotypos,,"(Siebold) Makino","Q77140,Q729955",1903,,"; 1903 13 1903",,,,,,,wfo-0001014321,,,
+e9a767ae-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodotypos,,,"Siebold & Zucc.",0,1841,,"Fl. Jap. 1: 185 (1841)",,,,,,urn:lsid:ipni.org:names:34013-1,wfo-4000033057,3032441,,
+a306c456-8fcd-11eb-924d-9cd76263cbd0,species,kerrioides,Rhodotypos,,"Siebold & Zucc.",0,1835,,"Fl. Jap. 1: 187 (1841)",,,,,,urn:lsid:ipni.org:names:731424-1,wfo-0001016514,3032445,,
+a1f2dcda-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Rhodotypos,,"(Thunb.) Makino",0,1913,,"Bot. Mag. (Tokyo) 27: 126 (1913)",,Q55762504,,,,urn:lsid:ipni.org:names:731425-1,wfo-0001014318,3032442,,
+d79d1a58-8fcd-11eb-924d-9cd76263cbd0,species,tetrapetala,Rhodotypos,,"(Siebold) Makino",0,1903,,"Bot. Mag. (Tokyo) 17: 13 (1903)",,,,a306aa5c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:731426-1,wfo-0001131998,3853651,,
+a1f33586-8fcd-11eb-924d-9cd76263cbd0,species,tetrapetalus,Rhodotypos,,Makino,0,1903,,"Bot. Mag. (Tokyo) 17: 13 (1903)",,,,,,urn:lsid:ipni.org:names:731426-1,wfo-0001014321,,,

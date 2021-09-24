@@ -1,18 +1,18 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7c54f58-9bad-11eb-a8a2-19ed5c03f8d3,genus,Rosellinula,,,"R. Sant.",,1986,,"in Eriksson & Hawksworth, Syst. Ascom. 5(2): 311 (1986)",,,,a7c54f58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25073," "
 3b6d51b2-9bac-11eb-a8a2-19ed5c03f8d3,species,frustulosae,Rosellinula,,"(Vouaux) R. Sant.",,1988,,"Thunbergia 6: 7, no. 119 (1988)",,,,4a24bc2c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,134574," "
-36175096-9bac-11eb-a8a2-19ed5c03f8d3,species,haplospora,Rosellinula,,"(Th. Fr. & Almq. ex Th. Fr.) R. Sant.",Q5547566,1986,,"in Eriksson & Hawksworth, Syst. Ascom. 5(2): 311 (1986)",,,,9029d5e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128764," "
+36175096-9bac-11eb-a8a2-19ed5c03f8d3,species,haplospora,Rosellinula,,"(Th. Fr. & Almq. ex Th. Fr.) R. Sant.",0,1986,,"in Eriksson & Hawksworth, Syst. Ascom. 5(2): 311 (1986)",,,,9029d5e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,128764," "
 39b0861e-9bac-11eb-a8a2-19ed5c03f8d3,species,kalbii,Rosellinula,,"(Hafellner) Hafellner & R.W. Rogers",,1988,,"in Rogers & Hafellner, Lichenologist 20(2): 168 (1988)",,,,2d387d10-9bac-11eb-a8a2-19ed5c03f8d3,,,,,132620," "
 aa8843f8-9bad-11eb-a8a2-19ed5c03f8d3,species,lopadii,Rosellinula,,"(Vouaux) D.J. Galloway",,2004,,"N.Z. Jl Bot. 42(1): 117 (2004)",,,,7838d2c0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,370535," "
-0501bc30-8fcc-11eb-924d-9cd76263cbd0,species,turkestanica,Rosenbachia,,Regel,Q62989,1886,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 9: 613 1886",,,,,,864593-1,wfo-0000298036,3887912,,
-13b7effa-8fcd-11eb-924d-9cd76263cbd0,species,aschersoniana,Rosenbergia,,"(Brand) House","Q15975618,Q3139666",1908,,"Muhlenbergia 4: 25 1908",,,,ce4b8ed6-8fcc-11eb-924d-9cd76263cbd0,,222498-2,wfo-0000733908,5659853,,
-13b80a80-8fcd-11eb-924d-9cd76263cbd0,species,campanulata,Rosenbergia,,"(Hemsl.) House","Q1339247,Q3139666",1908,,"Muhlenbergia 4: 24 1908",,,,ce4bc748-8fcc-11eb-924d-9cd76263cbd0,,222499-2,wfo-0000733909,5659847,,
-13b82696-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Rosenbergia,,Oerst.,Q491270,1856,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1856: 31 1856",,,,,,318355-2,wfo-0000733910,5659842,,
-13b8440a-8fcd-11eb-924d-9cd76263cbd0,species,macrostoma,Rosenbergia,,House,Q3139666,1908,,"Muhlenbergia 4: 24 1908",,,,,,222500-2,wfo-0000733911,5659839,,
-13b87d12-8fcd-11eb-924d-9cd76263cbd0,species,minor,Rosenbergia,,"(M.Martens & Galeotti) House","Q2292953,Q2517097,Q3139666",1908,,"Muhlenbergia 4: 24 1908",,,,,,222501-2,wfo-0000733913,5659834,,
-13b89950-8fcd-11eb-924d-9cd76263cbd0,species,penduliflora,Rosenbergia,,H.Karst.,Q62413,1859,,"Fl. Columb. 1: 27 1859",,,,,,690045-1,wfo-0000733914,5659832,,
-13b8b3b8-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Rosenbergia,,House,Q3139666,1908,,"Muhlenbergia 4: 24 1908",,,,,,222502-2,wfo-0000733915,5659828,,
-13b8cd94-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Rosenbergia,,"(Cav.) House","Q545430,Q3139666",1908,,"Muhlenbergia 4: 23 1908",,,,,,222503-2,wfo-0000733916,5659824,,
-13b8e856-8fcd-11eb-924d-9cd76263cbd0,species,stipularis,Rosenbergia,,"(Benth.) House","Q731808,Q3139666",1908,,"Muhlenbergia 4: 23 1908",,,,,,222504-2,wfo-0000733917,5659820,,
-13b903ae-8fcd-11eb-924d-9cd76263cbd0,species,trianae,Rosenbergia,,"(Helms) House","Q19877827,Q3139666",1908,,"Muhlenbergia 4: 24 1908",,,,,,222505-2,wfo-0000733918,5659818,,
-13b91e48-8fcd-11eb-924d-9cd76263cbd0,species,triflora,Rosenbergia,,"(Donn.Sm.) House","Q368277,Q3139666",1908,,"Muhlenbergia 4: 25 1908",,,,ce4f170e-8fcc-11eb-924d-9cd76263cbd0,,222506-2,wfo-0000733919,5659807,,
+0501bc30-8fcc-11eb-924d-9cd76263cbd0,species,turkestanica,Rosenbachia,,Regel,0,1886,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 9: 613 (1886)",,,,,,urn:lsid:ipni.org:names:864593-1,wfo-0000298036,3887912,,
+13b7effa-8fcd-11eb-924d-9cd76263cbd0,species,aschersoniana,Rosenbergia,,"(Brand) House",0,1908,,"Muhlenbergia 4: 25 (1908)",,,,ce4b8ed6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:222498-2,wfo-0000733908,5659853,,
+13b80a80-8fcd-11eb-924d-9cd76263cbd0,species,campanulata,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 24 (1908)",,,,ce4bc748-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:222499-2,wfo-0000733909,5659847,,
+13b82696-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Rosenbergia,,Oerst.,0,1856,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1856: 31 (1856)",,,,,,urn:lsid:ipni.org:names:318355-2,wfo-0000733910,5659842,,
+13b8440a-8fcd-11eb-924d-9cd76263cbd0,species,macrostoma,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 24. 1908",,,,,,urn:lsid:ipni.org:names:222500-2,wfo-0000733911,5659839,,
+13b87d12-8fcd-11eb-924d-9cd76263cbd0,species,minor,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 24 (1908)",,,,,,urn:lsid:ipni.org:names:222501-2,wfo-0000733913,5659834,,
+13b89950-8fcd-11eb-924d-9cd76263cbd0,species,penduliflora,Rosenbergia,,H.Karst.,0,1859,,"Fl. Columb. 1: 27 (1859)",,,,,,urn:lsid:ipni.org:names:690045-1,wfo-0000733914,5659832,,
+13b8b3b8-8fcd-11eb-924d-9cd76263cbd0,species,pringlei,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 24 (1908)",,,,,,urn:lsid:ipni.org:names:222502-2,wfo-0000733915,5659828,,
+13b8cd94-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 23 (1908)",,,,,,urn:lsid:ipni.org:names:222503-2,wfo-0000733916,5659824,,
+13b8e856-8fcd-11eb-924d-9cd76263cbd0,species,stipularis,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 23 (1908)",,,,,,urn:lsid:ipni.org:names:222504-2,wfo-0000733917,5659820,,
+13b903ae-8fcd-11eb-924d-9cd76263cbd0,species,trianae,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 24 (1908)",,,,,,urn:lsid:ipni.org:names:222505-2,wfo-0000733918,5659818,,
+13b91e48-8fcd-11eb-924d-9cd76263cbd0,species,triflora,Rosenbergia,,House,0,1908,,"Muhlenbergia 4: 25 (1908)",,,,ce4f170e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:222506-2,wfo-0000733919,5659807,,

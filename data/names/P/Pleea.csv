@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b18690-8fd1-11eb-924d-9cd76263cbd0,genus,Pleea,,,Michx.,Q521848,1803,,"Fl. Bor.-Amer. 1: 247–248, pl. 25. 1803.",,,,,,24657-1,wfo-4000030220,2740389,,
-0b520be8-8fcd-11eb-924d-9cd76263cbd0,species,sieberi,Pleea,,"Rchb. ex Benth.","Q58053,Q731808",1878,,"Fl. Austral. 7: 30 1878",,,,,,539951-1,wfo-0000718218,2740241,,
-0ba7ce20-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolia,Pleea,,Michx.,Q521848,1803,,"Fl. Bor.-Amer. 1: 248 1803",,,,,,539952-1,wfo-0000718830,2864326,,
+e8b18690-8fd1-11eb-924d-9cd76263cbd0,genus,Pleea,,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 247 (1803)",,,,,,urn:lsid:ipni.org:names:24657-1,wfo-4000030220,2740389,,
+0b520be8-8fcd-11eb-924d-9cd76263cbd0,species,sieberi,Pleea,,"Rchb. ex Benth.",0,1878,,"Fl. Austral. 7: 30 (1878)",,,,,,urn:lsid:ipni.org:names:539951-1,wfo-0000718218,2740241,,
+0ba7ce20-8fcd-11eb-924d-9cd76263cbd0,species,tenuifolia,Pleea,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 248 (1803)",,,,,,urn:lsid:ipni.org:names:539952-1,wfo-0000718830,2864326,,

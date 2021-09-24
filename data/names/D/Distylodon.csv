@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2f0f92a-8fd1-11eb-924d-9cd76263cbd0,genus,Distylodon,,,Summerh.,Q1771270,1966,,"Kew Bull. 20: 197. 1966.",,Q55778875,,,,29314-1,wfo-4000012256,2825673,,
-8128ae26-8fcd-11eb-924d-9cd76263cbd0,species,comptum,Distylodon,,Summerh.,Q1771270,1966,,"Kew Bull. 20: 197 1966",,Q55778875,,,,630417-1,wfo-0000944848,2825674,,
-9b8cea92-8fba-11eb-924d-9cd76263cbd0,species,plantagineus,Disynanthus,,"(L.) Raf.","Q1043,Q364857",1818,,1818,,,,,,,wfo-0000128007,3088014,,
+e2f0f92a-8fd1-11eb-924d-9cd76263cbd0,genus,Distylodon,,,Summerh.,0,1966,,"Kew Bull. 20: 197 (1966)",,Q55778875,,,,urn:lsid:ipni.org:names:29314-1,wfo-4000012256,2825673,,
+8128ae26-8fcd-11eb-924d-9cd76263cbd0,species,comptus,Distylodon,,Summerh.,0,1966,,"Kew Bull. 20: 197 (1966)",,Q55778875,,,,urn:lsid:ipni.org:names:630417-1,wfo-0000944848,2825674,,
+4e9caf6c-1d4d-11ec-82c2-f14daa6f2d93,species,sonkeanus,Distylodon,,"Droissart, Stévart & P.J.Cribb",,,,"PhytoKeys 36: 28 (2014)",,,,,,urn:lsid:ipni.org:names:77137691-1,wfo-0001338767,,,
+9b8cea92-8fba-11eb-924d-9cd76263cbd0,species,plantagineus,Disynanthus,,Raf.,0,1818,,"Amer. Monthly Mag. & Crit. Rev. 2(4): 268 (1818)",,,,,,urn:lsid:ipni.org:names:201872-1,wfo-0000128007,3088014,,

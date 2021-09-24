@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfa4c0b2-8fd1-11eb-924d-9cd76263cbd0,genus,Aposeris,,,Neck.,Q77700,,,,,,,,,7688-1,wfo-4000002760,7422348,,
-c0525fa6-8fb5-11eb-924d-9cd76263cbd0,species,foetida,Aposeris,,"(L.) Cass. ex Less.","Q1043,Q958431,Q76352",1832,,"128 1832",,,,,,178194-1,wfo-0000081734,,,
-cda0f234-8fbb-11eb-924d-9cd76263cbd0,species,foetida,Aposeris,,Cass.,Q958431,1827,,1827,,,,,,,wfo-0000136757,7731954,,
-a74e6d06-8fba-11eb-924d-9cd76263cbd0,species,lucida,Aposeris,,"(L.) Less.","Q1043,Q76352",1832,,"128 1832",,,,,,178195-1,wfo-0000128376,3134552,,
+dfa4c0b2-8fd1-11eb-924d-9cd76263cbd0,genus,Aposeris,,,Neck.,0,,,"Elem. Bot. 1: 57 (1790)",,,,,,urn:lsid:ipni.org:names:7688-1,wfo-4000002760,7422348,,
+c0525fa6-8fb5-11eb-924d-9cd76263cbd0,species,foetida,Aposeris,,Less.,0,1832,,"Syn. Gen. Compos. : 128 (1832)",,,,,,urn:lsid:ipni.org:names:178194-1,wfo-0000081734,,,
+cda0f234-8fbb-11eb-924d-9cd76263cbd0,species,foetida,Aposeris,,Cass.,0,1827,,"Dict. Sci. Nat., ed. 2. [F. Cuvier] 48: 427. 1827 [Jun 1827]",,,,,,urn:lsid:ipni.org:names:178193-1,wfo-0000136757,7731954,,
+a74e6d06-8fba-11eb-924d-9cd76263cbd0,species,lucida,Aposeris,,Less.,0,1832,,"Syn. Gen. Compos. : 128 (1832)",,,,,,urn:lsid:ipni.org:names:178195-1,wfo-0000128376,3134552,,

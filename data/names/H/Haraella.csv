@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e469fb58-8fd1-11eb-924d-9cd76263cbd0,genus,Haraella,,,Kudô,Q5958921,1930,,"J. Soc. Trop. Agric. 2: 26. 1930.",,,,e469fb58-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000016911,2816533,8447," "
-f308f6be-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusicola,Haraella,,"(I. Hino & Katum.) Hara & I. Hino",Q4390878,1955,,"in Hino & Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)",,,,f3086618-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298189," "
-9146bf50-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Haraella,,Kudô,Q5958921,1930,,"J. Soc. Trop. Agric. 2: 26 1930",,,,,,638432-1,wfo-0000979345,5314372,,
-9146e110-8fcd-11eb-924d-9cd76263cbd0,species,retrocalla,Haraella,,"(Hayata) Kudô","Q702874,Q5958921",1930,,"J. Soc. Trop. Agric. 2: 27 1930",,,,,,638433-1,wfo-0000979346,5314368,,
-f3093cbe-9bac-11eb-a8a2-19ed5c03f8d3,species,sasae,Haraella,,"(Hara) Hara & I. Hino",Q4390878,1955,,"in Hino & Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)",,,,73ea99e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,298190," Hino & Katumoto"
+e469fb58-8fd1-11eb-924d-9cd76263cbd0,genus,Haraella,,,Kudô,0,1930,,"J. Soc. Trop. Agric. 2: 26 (1930)",,,,e469fb58-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:29635-1,wfo-4000016911,2816533,8447," "
+f308f6be-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusicola,Haraella,,"(I. Hino & Katum.) Hara & I. Hino",0,1955,,"in Hino & Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)",,,,f3086618-9bac-11eb-a8a2-19ed5c03f8d3,,,,,298189," "
+9146bf50-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Haraella,,Kudô,0,1930,,"J. Soc. Trop. Agric. 2: 26 (1930)",,,,,,urn:lsid:ipni.org:names:638432-1,wfo-0000979345,5314372,,
+9146e110-8fcd-11eb-924d-9cd76263cbd0,species,retrocalla,Haraella,,Kudô,0,1930,,"J. Soc. Trop. Agric. 2: 27 (1930)",,,,,,urn:lsid:ipni.org:names:638433-1,wfo-0000979346,5314368,,
+f3093cbe-9bac-11eb-a8a2-19ed5c03f8d3,species,sasae,Haraella,,"(Hara) Hara & I. Hino",0,1955,,"in Hino & Katumoto, Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 34 (1955)",,,,73ea99e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,298190," Hino & Katumoto"

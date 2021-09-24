@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e824437a-8fd1-11eb-924d-9cd76263cbd0,genus,Pentachlaena,,,H.Perrier,Q2564623,,,"Bull. Mus. Natl. Hist. Nat. 26: 669.",,,,,,7034-1,wfo-4000028559,7264606,,
-d70e914e-8fcc-11eb-924d-9cd76263cbd0,species,betamponensis,Pentachlaena,,"Lowry & al.",Q2792431,2000,,"Adansonia III, 22: 16 2000",,,,,,,wfo-0000627347,3783224,,
-d716d9bc-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Pentachlaena,,H.Perrier,Q2564623,1920,,"Bull. Mus. Natl. Hist. Nat. 26: 669 1920",,,,,,167672-1,wfo-0000627411,3783216,,
-d7140fa2-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Pentachlaena,,Capuron,Q2348654,1973,,"Adansonia n.s., 13: 289 1973",,Q58838091,,,,790100-1,wfo-0000627390,3783205,,
-de5ac058-8fd1-11eb-924d-9cd76263cbd0,species,vestita,Pentachlaena,,"Andriamih., Lowry & G.E. Schatz","Q36686107,Q2792431",2016,,"Candollea 71: 167–172, f. 1–3. 2016. (Candollea)",,,,,,,wfo-0001315361,8899738,,
+e824437a-8fd1-11eb-924d-9cd76263cbd0,genus,Pentachlaena,,,H.Perrier,0,,,"Bull. Mus. Natl. Hist. Nat. 26: 669 (1920)",,,,,,urn:lsid:ipni.org:names:7034-1,wfo-4000028559,7264606,,
+d70e914e-8fcc-11eb-924d-9cd76263cbd0,species,betamponensis,Pentachlaena,,"Lowry, Haev., Labat & G.E.Schatz",0,2000,,"Adansonia , sér. 3, 22: 16 (2000)",,,,,,urn:lsid:ipni.org:names:1015333-1,wfo-0000627347,3783224,,
+d716d9bc-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Pentachlaena,,H.Perrier,0,1920,,"Bull. Mus. Natl. Hist. Nat. 26: 669 (1920)",,,,,,urn:lsid:ipni.org:names:167672-1,wfo-0000627411,3783216,,
+d7140fa2-8fcc-11eb-924d-9cd76263cbd0,species,orientalis,Pentachlaena,,Capuron,0,1973,,"Adansonia , n.s., 13: 289 (1973)",,Q58838091,,,,urn:lsid:ipni.org:names:790100-1,wfo-0000627390,3783205,,
+de5ac058-8fd1-11eb-924d-9cd76263cbd0,species,vestita,Pentachlaena,,"Andriam., Lowry & G.E.Schatz",0,2016,,"Candollea 71: 168 (2016)",,,,,,urn:lsid:ipni.org:names:77159914-1,wfo-0001315361,8899738,,

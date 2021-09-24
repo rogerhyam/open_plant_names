@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e403a06a-8fd1-11eb-924d-9cd76263cbd0,genus,Gitara,,,"Pax & K.Hoffm.","Q64244,Q2601446",1924,,"Pflanzenr. IV. 147 XVII(Heft 85): 187. 1924. (16 May 1924)",,,,,,297341-2,wfo-4000015685,3062858,,
-5eeff9aa-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Gitara,,Croizat,Q1366568,1945,,"J. Arnold Arbor. 26: 192 1945",,Q56071995,,,,110575-2,wfo-0000429976,3072122,,
-8e1aa12a-8fcd-11eb-924d-9cd76263cbd0,species,venezolana,Gitara,,"Pax & K.Hoffm.","Q64244,Q2601446",1924,,"Pflanzenr. IV, 147, XVII: 187 1924",,,,,,110576-2,wfo-0000972649,3072121,,
+e403a06a-8fd1-11eb-924d-9cd76263cbd0,genus,Gitara,,,"Pax & K.Hoffm.",0,1924,,"Pflanzenr. , IV, 147, XVII: 187 (1924)",,,,,,urn:lsid:ipni.org:names:297341-2,wfo-4000015685,3062858,,
+547d9d88-1d4d-11ec-82c2-f14daa6f2d93,species,nicaraguensis,Gitara,,"(Hemsl.) Card.-McTeag. & L.J.Gillespie",,,,"Syst. Bot. 41: 343 (2016)",,,,,,urn:lsid:ipni.org:names:77157252-1,wfo-0001346355,,,
+5eeff9aa-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Gitara,,Croizat,0,1945,,"J. Arnold Arbor. 26: 192 (1945)",,Q56071995,,,,urn:lsid:ipni.org:names:110575-2,wfo-0000429976,3072122,,
+8e1aa12a-8fcd-11eb-924d-9cd76263cbd0,species,venezolana,Gitara,,"Pax & K.Hoffm.",0,1924,,"Pflanzenr. , IV, 147, XVII: 187 (1924)",,,,,,urn:lsid:ipni.org:names:110576-2,wfo-0000972649,3072121,,

@@ -1,21 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9e09b468-9bad-11eb-a8a2-19ed5c03f8d3,genus,Testudina,,,Bizz.,Q21506156,1885,,"Atti Inst. Veneto Sci. lett., ed Arti, Sér. 6 3: 303 (1885)",,,,9e09b468-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5381," "
-7a6173cc-9bab-11eb-a8a2-19ed5c03f8d3,species,terrestris,Testudina,,Bizz.,Q21506156,1885,,"Fung. 3: 303 (1885)",,,,7a6173cc-9bab-11eb-a8a2-19ed5c03f8d3,,,,,243476," "
-b3c06636-8fcc-11eb-924d-9cd76263cbd0,species,cocolmeca,Testudinaria,,Procop.,Q21523284,1892,,"Bot. Centralbl. 49: 201 1892",,,,,,,wfo-0000569015,5300876,,
-b101a26a-8fcd-11eb-924d-9cd76263cbd0,species,elephantipes,Testudinaria,,"(L'Hér.) Dickson",Q465834,,,,,,,b35fe36a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001045915,9418267,,
-b3c678b4-8fcc-11eb-924d-9cd76263cbd0,species,elephantipes,Testudinaria,,"(L'Hér.) Burch.","Q465834,Q1397207",1824,,"Trav. S. Africa 2: 147 1824",,,,b35fe36a-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000569023,5300894,,
-b3cadd82-8fcc-11eb-924d-9cd76263cbd0,form,montana,Testudinaria,elephantipes,"(Burch.) G.D.Rowley","Q1397207,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,b3d4dae4-8fcc-11eb-924d-9cd76263cbd0,,879862-1,wfo-0000569030,5300895,,
-7276c6c4-8fcd-11eb-924d-9cd76263cbd0,species,glaucescens,Testudinaria,,Hügel,,1858,,"Hort. Donat. 17 1858",,,,,,77108723-1,wfo-0000916689,6314053,,
-b3cd8186-8fcc-11eb-924d-9cd76263cbd0,species,macrostachya,Testudinaria,,"(Benth.) G.D.Rowley","Q731808,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,,,318941-1,wfo-0000569038,5300875,,
-b3d4dae4-8fcc-11eb-924d-9cd76263cbd0,species,montana,Testudinaria,,Burch.,Q1397207,1824,,"Trav. S. Africa 2: 148 1824",,,,,,318943-1,wfo-0000569048,5300896,,
-b3d77218-8fcc-11eb-924d-9cd76263cbd0,variety,paniculata,Testudinaria,montana,Kuntze,Q62853,1898,,"Revis. Gen. Pl. 3(2): 312 1898",,,,,,,wfo-0000569056,5300886,,
-b3d922d4-8fcc-11eb-924d-9cd76263cbd0,species,multiflora,Testudinaria,,Marloth,Q7377264,1913,,"Trans. Roy. Soc. South Africa 3: 127 1913",,Q55756413,,,,318944-1,wfo-0000569066,5300882,,
-b3da8fca-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Testudinaria,,Dummer,,1912,,"Bull. Misc. Inform. Kew 1912: 195 1912",,,,,,,wfo-0000569076,5300879,,
-b3e08c36-8fcc-11eb-924d-9cd76263cbd0,species,rehmannii,Testudinaria,,"(Baker) G.D.Rowley","Q730330,Q1416264",1953,,"Natl. Cact. Succ. J. 8: 50 1953",,,,,,318946-1,wfo-0000569086,5300883,,
-b3e1e9d2-8fcc-11eb-924d-9cd76263cbd0,species,sylvatica,Testudinaria,,"(Eckl.) Kunth","Q643765,Q77074",1850,,"Enum. Pl. 5: 443 1850",,,,4411a0c0-8fcc-11eb-924d-9cd76263cbd0,,318948-1,wfo-0000569094,5300880,,
-b3e3412e-8fcc-11eb-924d-9cd76263cbd0,variety,brevipes,Testudinaria,sylvatica,"(Burtt Davy) G.D.Rowley","Q513218,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,3f2e8e6a-8fcc-11eb-924d-9cd76263cbd0,,879863-1,wfo-0000569102,5300887,,
-b3e45f8c-8fcc-11eb-924d-9cd76263cbd0,variety,lydenbergensis,Testudinaria,sylvatica,"(Blunden, Hardman & F.J.Hind) G.D.Rowley","Q21506219,Q36663215,Q36554702,Q1416264",1972,,"Repert. Pl. Succ. 23: 11 1972 publ. 1974",,,,44156016-8fcc-11eb-924d-9cd76263cbd0,,879864-1,wfo-0000569111,5300884,,
-b3e5f086-8fcc-11eb-924d-9cd76263cbd0,variety,multiflora,Testudinaria,sylvatica,"(Marloth) G.D.Rowley","Q7377264,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,b3d922d4-8fcc-11eb-924d-9cd76263cbd0,,879865-1,wfo-0000569121,5300888,,
-b3e698ce-8fcc-11eb-924d-9cd76263cbd0,variety,paniculata,Testudinaria,sylvatica,"(Dummer) G.D.Rowley",Q1416264,1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,,,879866-1,wfo-0000569127,5300885,,
-b3e80a88-8fcc-11eb-924d-9cd76263cbd0,variety,rehmannii,Testudinaria,sylvatica,"(Baker) G.D.Rowley","Q730330,Q1416264",1973,,"Natl. Cact. Succ. J. 28: 6 1973",,,,,,879867-1,wfo-0000569137,5300881,,
-145b10f0-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Testudipes,,"(Roxb. ex Lindl.) Markgr.","Q748967,Q378629,Q91845",1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 547 1935",,Q55777588,,,,82427-1,wfo-0000321533,3620475,,
+9e09b468-9bad-11eb-a8a2-19ed5c03f8d3,genus,Testudina,,,Bizz.,0,1885,,"Atti Inst. Veneto Sci. lett., ed Arti, Sér. 6 3: 303 (1885)",,,,9e09b468-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5381," "
+7a6173cc-9bab-11eb-a8a2-19ed5c03f8d3,species,terrestris,Testudina,,Bizz.,0,1885,,"Fung. 3: 303 (1885)",,,,7a6173cc-9bab-11eb-a8a2-19ed5c03f8d3,,,,,243476," "

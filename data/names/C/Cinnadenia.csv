@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1bcae82-8fd1-11eb-924d-9cd76263cbd0,genus,Cinnadenia,,,Kosterm.,Q2467467,1973,,"Adansonia, n.s. 13: 223. 1973.",,Q58838101,,,,21377-1,wfo-4000008339,7304314,,
-c9a6a794-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Cinnadenia,,Kosterm.,Q2467467,1977,,"Adansonia n.s., 17: 90 1977",,Q58838238,,,,463259-1,wfo-0000604838,4178423,,
-c9a6d52a-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Cinnadenia,,"(Hook.f.) Kosterm.","Q157501,Q2467467",1973,,"Adansonia n.s., 13: 223 1973",,Q58838101,,,,463260-1,wfo-0000604839,,,
-4ef93f60-8fcd-11eb-924d-9cd76263cbd0,species,polygama,Cinnagrostis,,Griseb.,Q76351,1874,,"Abh. Königl. Ges. Wiss. Göttingen 19: 257 1874",,,,,,396388-1,wfo-0000860216,4152374,,
+e1bcae82-8fd1-11eb-924d-9cd76263cbd0,genus,Cinnadenia,,,Kosterm.,0,1973,,"Adansonia , n.s., 13: 223 (1973)",,Q58838101,,,,urn:lsid:ipni.org:names:21377-1,wfo-4000008339,7304314,,
+c9a6a794-8fcc-11eb-924d-9cd76263cbd0,species,malayana,Cinnadenia,,Kosterm.,0,1977,,"Adansonia , n.s., 17: 90 (1977)",,Q58838238,,,,urn:lsid:ipni.org:names:463259-1,wfo-0000604838,4178423,,
+c9a6d52a-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Cinnadenia,,"(Hook.f.) Kosterm.",0,1973,,"Adansonia , n.s., 13: 223 (1973)",,Q58838101,,,,urn:lsid:ipni.org:names:463260-1,wfo-0000604839,,,

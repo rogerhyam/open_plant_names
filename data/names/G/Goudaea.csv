@@ -1,3 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec56d3e0-8fd1-11eb-924d-9cd76263cbd0,genus,Goudaea,,,"W.Till & Barfuss","Q13218818,Q33663283",2016,,"Phytotaxa 279: 51 (2016)",,Q28944720,,,,77158967-1,wfo-4001303226,9247072,,
-27c37ff0-8fcd-11eb-924d-9cd76263cbd0,species,tolimensis,Goudotia,,Decne.,Q966069,1845,,"Ann. Sci. Nat., Bot. III, 4: 85 1845",,,,,,442546-1,wfo-0000775598,2701057,,
+ec56d3e0-8fd1-11eb-924d-9cd76263cbd0,genus,Goudaea,,,"W.Till & Barfuss",0,2016,,"Phytotaxa 279: 51 (2016)",,Q28944720,,,,urn:lsid:ipni.org:names:77158967-1,wfo-4001303226,9247072,,
+55281772-1d4d-11ec-82c2-f14daa6f2d93,species,chrysostachys,Goudaea,,"(É.Morren) W.Till & Barfuss",,,,"Phytotaxa 279: 51 (2016)",,,,,,urn:lsid:ipni.org:names:77158968-1,wfo-0001347233,,,
+83212ae2-1d4d-11ec-82c2-f14daa6f2d93,variety,chrysostachys,Goudaea,chrysostachys,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77172476-1,wfo-0001426971,,,
+719ae092-1d4d-11ec-82c2-f14daa6f2d93,variety,stenophylla,Goudaea,chrysostachys,"(L.B.Sm.) W.Till & Barfuss",,,,"Phytotaxa 279: 51 (2016)",,,,,,urn:lsid:ipni.org:names:77158969-1,wfo-0001385938,,,
+55284008-1d4d-11ec-82c2-f14daa6f2d93,species,ospinae,Goudaea,,"(H.Luther) W.Till & Barfuss",,,,"Phytotaxa 279: 51 (2016)",,,,,,urn:lsid:ipni.org:names:77158970-1,wfo-0001347234,,,
+719b0b44-1d4d-11ec-82c2-f14daa6f2d93,variety,gruberi,Goudaea,ospinae,"(H.Luther) W.Till & Barfuss",,,,"Phytotaxa 279: 51 (2016)",,,,,,urn:lsid:ipni.org:names:77158972-1,wfo-0001385939,,,
+27c37ff0-8fcd-11eb-924d-9cd76263cbd0,species,tolimensis,Goudotia,,Decne.,0,1845,,"Ann. Sci. Nat., Bot. , sér. 3, 4: 85 (1845)",,,,,,urn:lsid:ipni.org:names:442546-1,wfo-0000775598,2701057,,

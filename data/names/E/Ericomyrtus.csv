@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e36c60ba-8fd1-11eb-924d-9cd76263cbd0,genus,Ericomyrtus,,,Turcz.,Q2640364,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(1): 154. 1847.",,,,,,27530-1,wfo-4000013782,3186965,,
-85169138-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Ericomyrtus,,Turcz.,Q2640364,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(1): 155 1847",,,,,,592582-1,wfo-0000953632,3187777,,
+e36c60ba-8fd1-11eb-924d-9cd76263cbd0,genus,Ericomyrtus,,,Turcz.,0,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(I): 154 (1847)",,,,,,urn:lsid:ipni.org:names:27530-1,wfo-4000013782,3186965,,
+85169138-8fcd-11eb-924d-9cd76263cbd0,species,drummondii,Ericomyrtus,,Turcz.,0,1847,,"Bull. Soc. Imp. Naturalistes Moscou 20(1): 155. 1847",,,,,,urn:lsid:ipni.org:names:592582-1,wfo-0000953632,3187777,,
+520bd416-1d4d-11ec-82c2-f14daa6f2d93,species,parviflora,Ericomyrtus,,"(Turcz.) Rye",,,,"Nuytsia 25: 137 (2015)",,,,,,urn:lsid:ipni.org:names:77148805-1,wfo-0001343115,,,
+520bf9a0-1d4d-11ec-82c2-f14daa6f2d93,species,serpyllifolia,Ericomyrtus,,"(Turcz.) Rye",,,,"Nuytsia 25: 138 (2015)",,,,,,urn:lsid:ipni.org:names:77148806-1,wfo-0001343116,,,
+520c233a-1d4d-11ec-82c2-f14daa6f2d93,species,tenuior,Ericomyrtus,,"(Ewart) Rye",,,,"Nuytsia 25: 142 (2015)",,,,,,urn:lsid:ipni.org:names:77148807-1,wfo-0001343117,,,

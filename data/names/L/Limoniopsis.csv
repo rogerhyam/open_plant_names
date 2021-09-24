@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5f1855e-8fd1-11eb-924d-9cd76263cbd0,genus,Limoniopsis,,,Lincz.,Q276908,1952,,"Fl. URSS 18: 744. 1952.",,,,,,32152-1,wfo-4000021807,7298013,,
-68af2a38-8fcc-11eb-924d-9cd76263cbd0,species,davisii,Limoniopsis,,Bokhari,Q18983182,1970,,"Notes Roy. Bot. Gard. Edinburgh 30: 303 1970",,Q102418770,,,,686621-1,wfo-0000444422,4088737,,
-c6cf5682-8fcd-11eb-924d-9cd76263cbd0,species,owerinii,Limoniopsis,,"(Boiss.) Lincz.","Q34430,Q276908",1952,,"Fl. URSS 18: 376, 377, 745 1952",,,,89267438-8fcc-11eb-924d-9cd76263cbd0,,686622-1,wfo-0001095224,7896374,,
+e5f1855e-8fd1-11eb-924d-9cd76263cbd0,genus,Limoniopsis,,,Lincz.,0,1952,,"Fl. URSS 18: 744 (1952)",,,,,,urn:lsid:ipni.org:names:32152-1,wfo-4000021807,7298013,,
+68af2a38-8fcc-11eb-924d-9cd76263cbd0,species,davisii,Limoniopsis,,Bokhari,0,1970,,"Notes Roy. Bot. Gard. Edinburgh 30: 303 (1970)",,Q102418770,,,,urn:lsid:ipni.org:names:686621-1,wfo-0000444422,4088737,,
+c6cf5682-8fcd-11eb-924d-9cd76263cbd0,species,owerinii,Limoniopsis,,"(Boiss.) Lincz.",0,1952,,"Fl. URSS 18: 376 (1952)",,,,89267438-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:686622-1,wfo-0001095224,7896374,,

@@ -50,6 +50,12 @@ while($row = $result->fetch_assoc()){
 
         // open a file in it
         $out = fopen( $dir . '/' . $row['name'] . '.csv', 'w');
+
+        if(!$out){
+            echo "Failed to open file " . $dir . '/' . $row['name'] . '.csv' . "\n";
+            print_r($row);
+            exit;
+        }
         
         fputcsv($out, $fields); // write a header row
         echo $row['name'] . "\n";

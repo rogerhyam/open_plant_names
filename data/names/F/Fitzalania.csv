@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3bda4e8-8fd1-11eb-924d-9cd76263cbd0,genus,Fitzalania,,,,,,,,,,,,,,wfo-4000014821,3156227,,
-8da517a8-8fcc-11eb-924d-9cd76263cbd0,species,bidwillii,Fitzalania,,"(Benth.) Jessup, Kessler & Mols","Q731808,Q21517014,Q2518006,Q26712155",2007,,"in Fl. Australia 2: 449 2007",,,,,,77081961-1,wfo-0000507288,,,
-fba2a842-8fcc-11eb-924d-9cd76263cbd0,species,heteropetala,Fitzalania,,"(F.Muell.) F.Muell.",Q708002,1863,,"Fragm. 4: 34 1863",,,,aff6b68a-8fcd-11eb-924d-9cd76263cbd0,,73085-1,wfo-0000691251,3156228,,
-8b238f9a-8fcd-11eb-924d-9cd76263cbd0,species,forrestii,Fitzgeraldia,,F.Muell.,Q708002,1882,,"S. Sci. Rec. 2: 56 1882",,,,,,635181-1,wfo-0000967101,5307848,,
-fba2cc3c-8fcc-11eb-924d-9cd76263cbd0,species,mitrastigma,Fitzgeraldia,,F.Muell.,Q708002,1867,,"Fragm. 6: 1 1867",,,,,,73086-1,wfo-0000691252,5407584,,
+e3bda4e8-8fd1-11eb-924d-9cd76263cbd0,genus,Fitzalania,,,F.Muell.,,,,"Fragm. 4: 33 (1863)",,,,,,urn:lsid:ipni.org:names:2029-1,wfo-4000014821,3156227,,
+8da517a8-8fcc-11eb-924d-9cd76263cbd0,species,bidwillii,Fitzalania,,"(Benth.) Jessup, Kessler & Mols",0,2007,,"Fl. Australia 2: 449 (2007)",,,,,,urn:lsid:ipni.org:names:77081961-1,wfo-0000507288,,,
+fba2a842-8fcc-11eb-924d-9cd76263cbd0,species,heteropetala,Fitzalania,,F.Muell.,0,1863,,"Fragm. 4: 34 (1863)",,,,aff6b68a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:73085-1,wfo-0000691251,3156228,,
+8b238f9a-8fcd-11eb-924d-9cd76263cbd0,species,forrestii,Fitzgeraldia,,F.Muell.,0,1882,,"S. Sci. Rec. 2: 56 (1882)",,,,,,urn:lsid:ipni.org:names:635181-1,wfo-0000967101,5307848,,
+fba2cc3c-8fcc-11eb-924d-9cd76263cbd0,species,mitrastigma,Fitzgeraldia,,F.Muell.,0,1867,,"Fragm. 6: 1 (1867)",,,,,,urn:lsid:ipni.org:names:73086-1,wfo-0000691252,5407584,,

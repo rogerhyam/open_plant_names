@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e462d7e2-8fd1-11eb-924d-9cd76263cbd0,genus,Haniffia,,,Holttum,Q984413,1950,,"Gard. Bull. Straits Settlem. 13: 123. 1950.",,,,,,41674-1,wfo-4000016831,2757329,,
-62d2b01c-8fcc-11eb-924d-9cd76263cbd0,species,albiflora,Haniffia,,"K.Larsen & J.Mood",Q2719575,2000,,"Nordic J. Bot. 20: 287 2000",,Q55761834,,,,1016173-1,wfo-0000434778,2757335,,
-62d339a6-8fcc-11eb-924d-9cd76263cbd0,species,cyanescens,Haniffia,,"(Ridl.) Holttum","Q733709,Q984413",1950,,"Gard. Bull. Singapore 13: 124 1950",,,,4cef8cac-8fcc-11eb-924d-9cd76263cbd0,,872581-1,wfo-0000434783,2757330,,
-6f4bcb02-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Haniffia,,"Y.Y.Sam & Julius","Q22668575,Q26714300",2009,,"Bot. Stud. (Taipei) 50: 359 2009",,Q100530226,,,,77101101-1,wfo-0000912888,5827282,,
+e462d7e2-8fd1-11eb-924d-9cd76263cbd0,genus,Haniffia,,,Holttum,0,1950,,"Gard. Bull. Singapore 13 (1):123. (1950)",,,,,,,wfo-4000016831,2757329,,
+62d2b01c-8fcc-11eb-924d-9cd76263cbd0,species,albiflora,Haniffia,,"K.Larsen & Mood",0,2000,,"Nordic J. Bot. 20 (3):287. (2000)",,Q55761834,,,,,wfo-0000434778,2757335,,
+62d339a6-8fcc-11eb-924d-9cd76263cbd0,species,cyanescens,Haniffia,,"(Ridl.) Holttum",0,1950,,"Gard. Bull. Singapore 13:124. (1950)",,,,4cef8cac-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000434783,2757330,,
+eab19034-1d48-11ec-82c2-f14daa6f2d93,variety,cyanescens,Haniffia,cyanescens,"(Ridl.) Holttum",,,,"Gard. Bull. Singapore 13:124. (1950)",,,,,,,wfo-0000434790,,,
+65ad09e0-1d4d-11ec-82c2-f14daa6f2d93,variety,penangiana,Haniffia,cyanescens,C.K.Lim,,,,"Folia malaysiana 2:36. (2000)",,,,,,,wfo-0001370497,,,
+6f4bcb02-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Haniffia,,"Y.Y.Sam & Julius",0,2009,,"Bot. Stud. (Taipei) 50:359. (2009)",,Q100530226,,,,,wfo-0000912888,5827282,,
+5044e686-1d4d-11ec-82c2-f14daa6f2d93,species,santubongensis,Haniffia,,"S.Y.Wong & P.C.Boyce",,,,"Bot. Stud. (Taipei) 55-51:3. (2014)",,,,,,,wfo-0001340664,,,

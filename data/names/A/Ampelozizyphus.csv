@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df3b3156-8fd1-11eb-924d-9cd76263cbd0,genus,Ampelozizyphus,,,Ducke,Q2601698,1935,,"Arq. Inst. Biol. Veg. 2: 157. 1935.",,,,,,296622-2,wfo-4000001678,7273983,,
-9c0b40a6-8fcc-11eb-924d-9cd76263cbd0,species,amazonicus,Ampelozizyphus,,Ducke,Q2601698,1935,,"Arq. Inst. Biol. Veg. 2: 158 1935",,,,,,11511-2,wfo-0000531791,3877225,,
-8e4a0164-8fcc-11eb-924d-9cd76263cbd0,species,guaquirensis,Ampelozizyphus,,"W.Meier & P.E.Berry","Q21520328,Q6067165",2008,,"Brittonia 60: 131 2008",,Q55808662,,,,77094258-1,wfo-0000508376,3877216,,
+df3b3156-8fd1-11eb-924d-9cd76263cbd0,genus,Ampelozizyphus,,,Ducke,0,1935,,"Arq. Inst. Biol. Veg. 2: 157 (1935)",,,,,,urn:lsid:ipni.org:names:296622-2,wfo-4000001678,7273983,,
+9c0b40a6-8fcc-11eb-924d-9cd76263cbd0,species,amazonicus,Ampelozizyphus,,Ducke,0,1935,,"Arq. Inst. Biol. Veg. 2: 158 (1935)",,,,,,urn:lsid:ipni.org:names:11511-2,wfo-0000531791,3877225,,
+8e4a0164-8fcc-11eb-924d-9cd76263cbd0,species,guaquirensis,Ampelozizyphus,,"W.Meier & P.E.Berry",0,2008,,"Brittonia 60: 131 (2008)",,Q55808662,,,,urn:lsid:ipni.org:names:77094258-1,wfo-0000508376,3877216,,
+5414a472-1d4d-11ec-82c2-f14daa6f2d93,species,kuripacorum,Ampelozizyphus,,"Aymard & Castro-Lima",,,,"Harvard Pap. Bot. 20: 162 (2015)",,,,,,urn:lsid:ipni.org:names:77155407-1,wfo-0001345859,,,

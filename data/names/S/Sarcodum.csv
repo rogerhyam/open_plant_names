@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9f3fbdc-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcodum,,,Lour.,Q729917,,,,,,,,,23482-1,wfo-4000034042,2951344,,
-3d451064-8fc8-11eb-924d-9cd76263cbd0,species,bicolor,Sarcodum,,Adema,Q5869052,1999,,"Blumea 44(2): 407 (1999)",,Q96030369,,,,1010366-1,wfo-0000206871,2951350,,
-043264d8-8fc4-11eb-924d-9cd76263cbd0,species,scandens,Sarcodum,,Lour.,Q729917,,,,,,,,,,wfo-0000185886,2951345,,
-8f64a036-8fcc-11eb-924d-9cd76263cbd0,species,solomonense,Sarcodum,,R.Clark,Q21508671,2008,,"Kew Bull. 63: 156 2008",,Q54779129,,,,77090365-1,wfo-0000510196,3978674,,
+e9f3fbdc-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcodum,,,Lour.,0,,,"Fl. Cochinch. : 462 (1790)",,,,,,urn:lsid:ipni.org:names:23482-1,wfo-4000034042,2951344,,
+3d451064-8fc8-11eb-924d-9cd76263cbd0,species,bicolor,Sarcodum,,Adema,0,1999,,"Blumea 44: 407 (1999)",,Q96030369,,,,urn:lsid:ipni.org:names:1010366-1,wfo-0000206871,2951350,,
+043264d8-8fc4-11eb-924d-9cd76263cbd0,species,scandens,Sarcodum,,Lour.,0,,,"Fl. Cochinch. : 462 (1790)",,,,,,urn:lsid:ipni.org:names:517916-1,wfo-0000185886,2951345,,
+8f64a036-8fcc-11eb-924d-9cd76263cbd0,species,solomonense,Sarcodum,,R.Clark,0,2008,,"Kew Bull. 63: 156 (2008)",,Q54779129,,,,urn:lsid:ipni.org:names:77090365-1,wfo-0000510196,3978674,,

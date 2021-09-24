@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e00e9852-8fd1-11eb-924d-9cd76263cbd0,genus,Bamlera,,,"K.Schum. & Lauterb.","Q63545,Q72821",1900,,"Fl. Schutzgeb. Südsee 481. 1900.",,,,,,,wfo-4000004004,7273100,,
-4398dfa8-8fbf-11eb-924d-9cd76263cbd0,species,insignis,Bamlera,,"K.Schum. & Lauterb.","Q63545,Q72821",1900,,"Fl. Schutzgeb. S 481 (1900) 1900 [1901 publ. Nov 1900]",,Q51474811,,,,566573-1,wfo-0000158944,3867312,,
-43a343b2-8fbf-11eb-924d-9cd76263cbd0,species,tenuifolia,Bamlera,,Mansf.,Q1870718,1925,,"Bot. Jahrb. Syst. lx. 142 (1925)",,,,,,566574-1,wfo-0000158945,3867304,,
+e00e9852-8fd1-11eb-924d-9cd76263cbd0,genus,Bamlera,,,"K.Schum. & Lauterb.",0,1900,,"Fl. Schutzgeb. Südsee 481 (1900). (1900)",,,,,,urn:lsid:ipni.org:names:26192-1,wfo-4000004004,7273100,,
+4398dfa8-8fbf-11eb-924d-9cd76263cbd0,species,insignis,Bamlera,,"K.Schum. & Lauterb.",0,1900,,"Fl. Schutzgeb. Südsee 481 (1900) (1900)",,Q51474811,,,,urn:lsid:ipni.org:names:566573-1,wfo-0000158944,3867312,,
+43a343b2-8fbf-11eb-924d-9cd76263cbd0,species,tenuifolia,Bamlera,,Mansf.,0,1925,,"Bot. Jahrb. Syst. 60(1-2): 142 (1925)",,,,,,urn:lsid:ipni.org:names:566574-1,wfo-0000158945,3867304,,

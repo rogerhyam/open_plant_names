@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e279d412-8fd1-11eb-924d-9cd76263cbd0,genus,Danae,,,Medik.,Q77464,1787,,"Malvenfam. 72. 1787.",,,,,,24174-1,wfo-4000010723,2770455,,
-22b4896e-8fcd-11eb-924d-9cd76263cbd0,species,androgyna,Danae,,"(L.) Webb & Berthel.","Q1043,Q1113837,Q204261",1847,,"Hist. Nat. Iles Canaries 2(3): 320 1847",,,,,,,wfo-0000765024,5303764,,
-22b4a87c-8fcd-11eb-924d-9cd76263cbd0,species,gayae,Danae,,"Webb & Berthel.","Q1113837,Q204261",1847,,"Hist. Nat. Iles Canaries 2(3): 320 1847",,,,,,,wfo-0000765025,5303767,,
-22b4c794-8fcd-11eb-924d-9cd76263cbd0,species,laurus,Danae,,Medik.,Q77464,1787,,"Malvenfam. 72 1787",,,,,,533708-1,wfo-0000765026,5303892,,
-22b5130c-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Danae,,"(L.) Moench","Q1043,Q60948",1794,,"Methodus 170 1794",,,,,,533709-1,wfo-0000765028,5303891,,
+e279d412-8fd1-11eb-924d-9cd76263cbd0,genus,Danae,,,Medik.,0,1787,,"Malvenfam. : 72 (1787)",,,,,,urn:lsid:ipni.org:names:24174-1,wfo-4000010723,2770455,,
+22b4896e-8fcd-11eb-924d-9cd76263cbd0,species,androgyna,Danae,,"(L.) Webb & Berthel.",0,1847,,"Hist. Nat. Iles Canaries 3(2; 3): 320 (1847)",,,,,,urn:lsid:ipni.org:names:533706-1,wfo-0000765024,5303764,,
+22b4a87c-8fcd-11eb-924d-9cd76263cbd0,species,gayae,Danae,,"Webb & Berthel.",0,1847,,"Hist. Nat. Iles Canaries 3(2; 3): 320 (1847)",,,,,,urn:lsid:ipni.org:names:533707-1,wfo-0000765025,5303767,,
+22b4c794-8fcd-11eb-924d-9cd76263cbd0,species,laurus,Danae,,Medik.,0,1787,,"Malvenfam. : 72 (1787)",,,,,,urn:lsid:ipni.org:names:533708-1,wfo-0000765026,5303892,,
+22b5130c-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Danae,,"(L.) Moench",0,1794,,"Methodus : 170 (1794)",,,,,,urn:lsid:ipni.org:names:533709-1,wfo-0000765028,5303891,,

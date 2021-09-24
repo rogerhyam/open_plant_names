@@ -1,8 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6c649f6-8fd1-11eb-924d-9cd76263cbd0,genus,Mirtana,,,Pierre,Q2593213,1905,,"Bull. Soc. Bot. France 52: 490. 1905.",,,,,,,wfo-4000024382,3234324,,
-6bfdfc1e-8fcc-11eb-924d-9cd76263cbd0,species,loureiroi,Mirtana,,Pierre,Q2593213,1905,,"Bull. Soc. Bot. France 52: 490 1905",,Q56131809,,,,581130-1,wfo-0000450280,5592677,,
-79183946-8fcc-11eb-924d-9cd76263cbd0,species,juncea,Misandra,,"(Ruiz & Pav.) F.Dietr.","Q733976,Q332058,Q86320",1819,,"Nachtr. Vollst. Lex. Gärtn. 5: 103 1819",,,,1fbb7e94-8fcc-11eb-924d-9cd76263cbd0,,123458-1,wfo-0000472360,5287811,,
-33d6a0ca-8fcc-11eb-924d-9cd76263cbd0,species,lobata,Misandra,,Oerst.,Q491270,1857,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1857: 193 1857",,,,,,430388-1,wfo-0000373515,7882846,,
-b4c0a8ac-8fd1-11eb-924d-9cd76263cbd0,species,magellanica,Misandra,,"(Lam.) J.F.Gmel.","Q82122,Q57230",1791,,"Syst. Nat. 76 1791",,,,,,,wfo-0001233212,7956859,,
-33d4e8e8-8fcc-11eb-924d-9cd76263cbd0,species,prorepens,Misandra,,Oerst.,Q491270,1857,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1857: 193 1857",,,,,,430390-1,wfo-0000373505,8125872,,
-7918f6e2-8fcc-11eb-924d-9cd76263cbd0,species,strobilantha,Misandra,,"(Ruiz & Pav.) F.Dietr.","Q733976,Q332058,Q86320",1819,,"Nachtr. Vollst. Lex. Gärtn. 5: 104 1819",,,,1fbc20f6-8fcc-11eb-924d-9cd76263cbd0,,123459-1,wfo-0000472366,5288700,,
+e6c649f6-8fd1-11eb-924d-9cd76263cbd0,genus,Mirtana,,,Pierre,0,1905,,"Bull. Soc. Bot. France 52: 490 (1905)",,,,,,urn:lsid:ipni.org:names:26973-1,wfo-4000024382,3234324,,
+6bfdfc1e-8fcc-11eb-924d-9cd76263cbd0,species,loureiroi,Mirtana,,Pierre,0,1905,,"Bull. Soc. Bot. France 52: 490 (1905)",,Q56131809,,,,urn:lsid:ipni.org:names:581130-1,wfo-0000450280,5592677,,

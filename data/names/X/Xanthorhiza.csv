@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec1fa96a-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthorhiza,,,Marshall,Q1397162,1785,,"Arbust. Amer. 167–169. 1785.",,,,,,33271-1,wfo-4000040893,3033661,,
-d6d39318-8fcd-11eb-924d-9cd76263cbd0,species,apiifolia,Xanthorhiza,,L'Hér.,Q465834,1788,,"Stirp. Nov. 4: 79, pl. 38 1788",,,,,,715220-1,wfo-0001130188,7276723,,
-d685d164-8fcd-11eb-924d-9cd76263cbd0,species,simplicissima,Xanthorhiza,,Marshall,Q1397162,1785,,"Arbust. Amer. 168–169 1785",,,,,,715221-1,wfo-0001129483,3033662,,
+ec1fa96a-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthorhiza,,,Marshall,0,1785,,"Arbust. Amer. : 167 (1785)",,,,,,urn:lsid:ipni.org:names:33271-1,wfo-4000040893,3033661,,
+d6d39318-8fcd-11eb-924d-9cd76263cbd0,species,apiifolia,Xanthorhiza,,L'Hér.,0,1788,,"Stirp. Nov. 79 (t. 38). 1788",,,,,,urn:lsid:ipni.org:names:715220-1,wfo-0001130188,7276723,,
+7a67791a-1d4d-11ec-82c2-f14daa6f2d93,variety,ternata,Xanthorhiza,apiifolia,Huth,,,,"Bot. Jahrb. Syst. 16(3): 320. 1892 [23 Dec 1892]",,,,,,urn:lsid:ipni.org:names:269289-2,wfo-0001397585,,,
+d685d164-8fcd-11eb-924d-9cd76263cbd0,species,simplicissima,Xanthorhiza,,Marshall,0,1785,,"Arbust. Amer. : 168 (1785)",,,,,,urn:lsid:ipni.org:names:715221-1,wfo-0001129483,3033662,,
+49349f30-1d4d-11ec-82c2-f14daa6f2d93,species,tinctoria,Xanthorhiza,,Woodh.,,,,"Med. Repos. 5: 160 (1802)",,,,,,urn:lsid:ipni.org:names:715222-1,wfo-0001331346,,,

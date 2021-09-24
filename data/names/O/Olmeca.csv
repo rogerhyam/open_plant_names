@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7879fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Olmeca,,,Soderstr.,Q351167,1982,,"Phytologia 51(2): 161. 1982.",,,,,,2893206-1,wfo-4000026769,4112442,,
-74ec7444-8fcd-11eb-924d-9cd76263cbd0,species,clarkiae,Olmeca,,"(Davidse & R.W.Pohl) Ruiz-Sanchez, Sosa & Mejía-Saulés","Q2115205,Q6108722,Q26714037,Q16302562,Q26714039",2011,,"Taxon 60: 93 2011",,,,4add6e42-8fcd-11eb-924d-9cd76263cbd0,,77110328-1,wfo-0000920631,8337405,,
-74ec58c4-8fcd-11eb-924d-9cd76263cbd0,species,fulgor,Olmeca,,"(Soderstr.) Ruiz-Sanchez, Sosa & Mejía-Saulés","Q351167,Q26714037,Q16302562,Q26714039",2011,,"Taxon 60: 93 2011",,,,4ade0884-8fcd-11eb-924d-9cd76263cbd0,,77110329-1,wfo-0000920630,7375258,,
-58e2e9ae-8fcd-11eb-924d-9cd76263cbd0,species,recta,Olmeca,,Soderstr.,Q351167,1982,,"Phytologia 51: 161 1982",,,,,,173734-2,wfo-0000881852,4112441,,
-58e30470-8fcd-11eb-924d-9cd76263cbd0,species,reflexa,Olmeca,,Soderstr.,Q351167,1982,,"Phytologia 51: 161 1982",,,,,,173735-2,wfo-0000881853,4145666,,
-75ddfb84-8fcd-11eb-924d-9cd76263cbd0,species,zapotecorum,Olmeca,,"Ruiz-Sanchez, Sosa & Mejía-Saulés","Q26714037,Q16302562,Q26714039",2011,,"Taxon 60: 93 2011",,,,,,77110330-1,wfo-0000922157,8194536,,
+e7879fe8-8fd1-11eb-924d-9cd76263cbd0,genus,Olmeca,,,Soderstr.,0,1982,,"Phytologia 51: 161 (1982)",,,,,,urn:lsid:ipni.org:names:2893206-1,wfo-4000026769,4112442,,
+74ec7444-8fcd-11eb-924d-9cd76263cbd0,species,clarkiae,Olmeca,,"(Davidse & R.W.Pohl) Ruiz-Sanchez, Sosa & Mejía-Saulés",0,2011,,"Taxon 60: 93 (2011)",,,,4add6e42-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77110328-1,wfo-0000920631,8337405,,
+74ec58c4-8fcd-11eb-924d-9cd76263cbd0,species,fulgor,Olmeca,,"(Soderstr.) Ruiz-Sanchez, Sosa & Mejía-Saulés",0,2011,,"Taxon 60: 93 (2011)",,,,4ade0884-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77110329-1,wfo-0000920630,7375258,,
+58e2e9ae-8fcd-11eb-924d-9cd76263cbd0,species,recta,Olmeca,,Soderstr.,0,1982,,"Phytologia 51: 161 (1982)",,,,,,urn:lsid:ipni.org:names:173734-2,wfo-0000881852,4112441,,
+58e30470-8fcd-11eb-924d-9cd76263cbd0,species,reflexa,Olmeca,,Soderstr.,0,1982,,"Phytologia 51: 161 (1982)",,,,,,urn:lsid:ipni.org:names:173735-2,wfo-0000881853,4145666,,
+75ddfb84-8fcd-11eb-924d-9cd76263cbd0,species,zapotecorum,Olmeca,,"Ruiz-Sanchez, Sosa & Mejía-Saulés",0,2011,,"Taxon 60: 93 (2011)",,,,,,urn:lsid:ipni.org:names:77110330-1,wfo-0000922157,8194536,,

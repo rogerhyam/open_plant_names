@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebac6d2e-8fd1-11eb-924d-9cd76263cbd0,genus,Trochantha,,,"(N.Hallé) R.H.Archer","Q3206449,Q18982607",,,,,Q33825865,,,,77116582-1,wfo-4000039431,7789076,,
-1b7df108-8fcd-11eb-924d-9cd76263cbd0,species,graciliflora,Trochantha,,"(Welw. ex Oliv.) R.H.Archer","Q78609,Q1161960,Q18982607",2011,,"Molec. Phylogen. Evol. 59: 328 2011",,Q33825865,,0e4096ee-8fcd-11eb-924d-9cd76263cbd0,,77116583-1,wfo-0000750228,7597374,,
-1b7dd114-8fcd-11eb-924d-9cd76263cbd0,species,preussii,Trochantha,,"(Loes.) R.H.Archer","Q4273076,Q18982607",2011,,"Molec. Phylogen. Evol. 59: 329 2011",,Q33825865,,,,77116587-1,wfo-0000750227,8224064,,
+ebac6d2e-8fd1-11eb-924d-9cd76263cbd0,genus,Trochantha,,,"(N.Hallé) R.H.Archer",0,,,"Molec. Phylogen. Evol. 59: 328 (2011)",,Q33825865,,,,urn:lsid:ipni.org:names:77116582-1,wfo-4000039431,7789076,,
+1b7df108-8fcd-11eb-924d-9cd76263cbd0,species,graciliflora,Trochantha,,"(Welw. ex Oliv.) R.H.Archer",0,2011,,"Molec. Phylogen. Evol. 59: 328 (2011)",,Q33825865,,0e4096ee-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77116583-1,wfo-0000750228,7597374,,
+5fdd5a1a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,newalensis,Trochantha,graciliflora,"(Blakelock) R.H.Archer",,,,"Molec. Phylogen. Evol. 59: 329 (2011)",,,,,,urn:lsid:ipni.org:names:77116586-1,wfo-0001362078,,,
+1b7dd114-8fcd-11eb-924d-9cd76263cbd0,species,preussii,Trochantha,,"(Loes.) R.H.Archer",0,2011,,"Molec. Phylogen. Evol. 59: 329 (2011)",,Q33825865,,,,urn:lsid:ipni.org:names:77116587-1,wfo-0000750227,8224064,,

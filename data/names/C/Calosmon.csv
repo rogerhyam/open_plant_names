@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e10d8f60-8fd1-11eb-924d-9cd76263cbd0,genus,Calosmon,,,"Bercht. ex J.Presl","Q940150,Q379593",1825,,"Prirozenosti Rostlin 2: 71. 1825.",,,,,,,wfo-4000006191,7304575,,
-bb1fb10c-8fcc-11eb-924d-9cd76263cbd0,species,acstivale,Calosmon,,Kostel.,Q4235284,1833,,"Allg. Med.-Pharm. Fl. 2: 478 1833",,,,,,463108-1,wfo-0000581469,8005217,,
-bb2013c2-8fcc-11eb-924d-9cd76263cbd0,species,benzoin,Calosmon,,J.Presl,Q379593,1825,,"Prir. Rostlin 2: 71 1825",,,,,,463109-1,wfo-0000581470,4181068,,
-bb203686-8fcc-11eb-924d-9cd76263cbd0,species,neesianum,Calosmon,,Kostel.,Q4235284,1833,,"Allg. Med.-Pharm. Fl. 2: 478 1833",,,,,,463110-1,wfo-0000581471,4181059,,
-29e6816a-8fcd-11eb-924d-9cd76263cbd0,species,confusa,Calospatha,,Furtado,Q5739033,1951,,"Gard. Bull. Singapore 13: 361 1951",,,,,,665528-1,wfo-0000780350,5294297,,
-29e7b6ac-8fcd-11eb-924d-9cd76263cbd0,species,scortechinii,Calospatha,,Becc.,Q361037,1911,,"Ann. Roy. Bot. Gard. (Calcutta) 12(1): 232 1911",,,,,,665529-1,wfo-0000780361,5294296,,
+e10d8f60-8fd1-11eb-924d-9cd76263cbd0,genus,Calosmon,,,J.Presl,0,1825,,"Prir. Rostlin 2: 71 (1823)",,,,,,urn:lsid:ipni.org:names:21360-1,wfo-4000006191,7304575,,
+bb1fb10c-8fcc-11eb-924d-9cd76263cbd0,species,acstivale,Calosmon,,Kostel.,0,1833,,"Allg. Med.-Pharm. Fl. 2: 478 (1833)",,,,,,urn:lsid:ipni.org:names:463108-1,wfo-0000581469,8005217,,
+bb2013c2-8fcc-11eb-924d-9cd76263cbd0,species,benzoin,Calosmon,,J.Presl,0,1825,,"Prir. Rostlin 2: 71 (1825)",,,,,,urn:lsid:ipni.org:names:463109-1,wfo-0000581470,4181068,,
+bb203686-8fcc-11eb-924d-9cd76263cbd0,species,neesianum,Calosmon,,Kostel.,0,1833,,"Allg. Med.-Pharm. Fl. 2: 478 (1833)",,,,,,urn:lsid:ipni.org:names:463110-1,wfo-0000581471,4181059,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfa6b94e-8fd1-11eb-924d-9cd76263cbd0,genus,Apterosperma,,,"Hung T.Chang",Q13364472,1976,,"Acta Sci. Nat. Univ. Sunyatseni 1976(2): 90. 1976.",,,,,,39158-1,wfo-4000002788,7313967,,
-a18fcb46-8fcc-11eb-924d-9cd76263cbd0,species,oblata,Apterosperma,,H.T.Chang,Q18983581,1976,,"Acta Sci. Nat. Univ. Sunyatseni 1976(2): 91 1976",,,,,,829855-1,wfo-0000540989,3591290,,
-e864ca68-8fcb-11eb-924d-9cd76263cbd0,species,conferta,Apterygia,,"(C.Wright) Baehni","Q721062,Q4083799",1965,,"Boissiera 11: 132 1965",,,,,,785769-1,wfo-0000252795,5333883,,
-e866982a-8fcb-11eb-924d-9cd76263cbd0,species,sartorum,Apterygia,,"(Mart.) Baehni","Q77131,Q4083799",1964,,"Arch. Sci. 17: 79 1964",,,,f427fcac-8fcc-11eb-924d-9cd76263cbd0,,16765-2,wfo-0000252806,5333878,,
+dfa6b94e-8fd1-11eb-924d-9cd76263cbd0,genus,Apterosperma,,,"Hung T.Chang",0,1976,,"Acta Sci. Nat. Univ. Sunyatseni 1976(2): 90 (1976)",,,,,,urn:lsid:ipni.org:names:39158-1,wfo-4000002788,7313967,,
+a18fcb46-8fcc-11eb-924d-9cd76263cbd0,species,oblata,Apterosperma,,"Hung T.Chang",0,1976,,"Acta Sci. Nat. Univ. Sunyatseni 1976(2): 91 (1976)",,,,,,urn:lsid:ipni.org:names:829855-1,wfo-0000540989,3591290,,
+e864ca68-8fcb-11eb-924d-9cd76263cbd0,species,conferta,Apterygia,,"(C.Wright ex Sauv.) Baehni",0,1965,,"Boissiera 11: 132 (1965)",,,,,,urn:lsid:ipni.org:names:16764-2,wfo-0000252795,5333883,,
+e866982a-8fcb-11eb-924d-9cd76263cbd0,species,sartorum,Apterygia,,"(Mart.) Baehni",0,1964,,"Biblioth. Universelle Rev. Suisse 17: 79. 1964",,,,f427fcac-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:16765-2,wfo-0000252806,5333878,,

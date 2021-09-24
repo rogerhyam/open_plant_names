@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deadcbfe-8fd1-11eb-924d-9cd76263cbd0,genus,Aaronsohnia,,,"Warb. & Eig","Q62822,Q2622975",0,,,,,,,,7366-1,wfo-4000000003,3092959,,
-cb7df86c-8fbb-11eb-924d-9cd76263cbd0,species,factorovskyi,Aaronsohnia,,"Warb. & Eig","Q62822,Q2622975",0,,"Zionist Org. Inst. Agric. & Nat. Hist. Bull. 40 1927",,,,,,173608-1,wfo-0000136695,3092960,,
-12c71cf8-8fb2-11eb-924d-9cd76263cbd0,species,pubescens,Aaronsohnia,,"(Desf.) K.Bremer & Humphries","Q545953,Q2207077,Q2843087",0,,"157 1993",,,,,,975166-1,wfo-0000009665,3092961,,
-2ab7d26e-8fb5-11eb-924d-9cd76263cbd0,subspecies,maroccana,Aaronsohnia,pubescens,"(Ball) Förther & Podlech","Q957519,Q5892222,Q3027529",0,,"Sendtnera 7 89 2001",,,,,,20001078-1,wfo-0000074715,7891478,,
-912c3664-8fb7-11eb-924d-9cd76263cbd0,subspecies,maroccana,Aaronsohnia,pubescens,"(Ball) Fennane & Ibn Tattou","Q957519,Q21392776,Q18985742",0,,"Fennane & Ibn Tattou in Bocconea 8. 1998. 18 1998",,,,,,,wfo-0000101018,,,
+deadcbfe-8fd1-11eb-924d-9cd76263cbd0,genus,Aaronsohnia,,,"Warb. & Eig",0,0,,"Leafl. Agric. Exp. Sta. Zionist Organ. Inst. 6: 39 (1927)",,,,,,urn:lsid:ipni.org:names:7366-1,wfo-4000000003,3092959,,
+cb7df86c-8fbb-11eb-924d-9cd76263cbd0,species,factorovskyi,Aaronsohnia,,"Warb. & Eig",0,0,,"Leafl. Agric. Exp. Sta. Zionist Organ. Inst. 6: 40 (1927)",,,,,,urn:lsid:ipni.org:names:173608-1,wfo-0000136695,3092960,,
+12c71cf8-8fb2-11eb-924d-9cd76263cbd0,species,pubescens,Aaronsohnia,,"(Desf.) K.Bremer & Humphries",0,0,,"Bull. Nat. Hist. Mus. (London), Bot. 23(2): 157 (1993)",,,,,,urn:lsid:ipni.org:names:975166-1,wfo-0000009665,3092961,,
+2ab7d26e-8fb5-11eb-924d-9cd76263cbd0,subspecies,maroccana,Aaronsohnia,pubescens,"(Ball) Förther & Podlech",0,0,,"Sendtnera 7: 89 (2001) (2001)",,,,,,urn:lsid:ipni.org:names:20001078-1,wfo-0000074715,7891478,,
+912c3664-8fb7-11eb-924d-9cd76263cbd0,subspecies,maroccana,Aaronsohnia,pubescens,"(Ball) Fennane & Ibn Tattou",0,0,,"Fennane & Ibn Tattou in Bocconea 8. 1998. 18 1998",,,,,,,wfo-0000101018,,,
+d9dcb1b8-1d47-11ec-82c2-f14daa6f2d93,subspecies,pubescens,Aaronsohnia,pubescens,"(Desf.) K.Bremer & Humphries",,,,Unknown,,,,,,urn:lsid:ipni.org:names:77179542-1,wfo-0000097151,,,

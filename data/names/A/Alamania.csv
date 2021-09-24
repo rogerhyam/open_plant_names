@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df0d84d6-8fd1-11eb-924d-9cd76263cbd0,genus,Alamania,,,Lex.,Q4260405,1824,,"Ann. Sci. Nat. (Paris) 3: 452. 1824.",,,,,,60460309-2,wfo-4000001080,8320633,,
-7d71513e-8fcd-11eb-924d-9cd76263cbd0,species,punicea,Alamania,,Lex.,Q4260405,1825,,"Nov. Veg. Descr. 2(Orch.Opusc.): 31 1825",,,,,,,wfo-0000936540,2813004,,
+df0d84d6-8fd1-11eb-924d-9cd76263cbd0,genus,Alamania,,,Lex.,0,1824,,"Nov. Veg. Descr. 2(Orchid. Opusc.): 31 (1825)",,,,,,urn:lsid:ipni.org:names:60460309-2,wfo-4000001080,8320633,,
+7d71513e-8fcd-11eb-924d-9cd76263cbd0,species,punicea,Alamania,,Lex.,0,1825,,"Ann. Sci. Nat. (Paris) 3: 452 (1824)",,,,,,urn:lsid:ipni.org:names:60460310-2,wfo-0000936540,2813004,,
+5e505698-1d4d-11ec-82c2-f14daa6f2d93,subspecies,greenwoodiana,Alamania,punicea,"Soto Arenas & R.Jiménez",,,,"Icon. Orchid. 5-6: t. 516 (2002 publ. 2003)",,,,,,urn:lsid:ipni.org:names:60426614-2,wfo-0001360036,,,
+9dc3041a-1d48-11ec-82c2-f14daa6f2d93,subspecies,punicea,Alamania,punicea,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77171418-1,wfo-0000338154,,,

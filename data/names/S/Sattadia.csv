@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9fd1afa-8fd1-11eb-924d-9cd76263cbd0,genus,Sattadia,,,E.Fourn.,Q2616180,1885,,"Fl. Bras. 6(4): 231. 1885.",,,,,,,wfo-4000034151,7312665,,
-605cf644-8fcc-11eb-924d-9cd76263cbd0,species,burchellii,Sattadia,,E.Fourn.,Q2616180,1885,,"Fl. Bras. 6(4): 232 1885",,,,,,101051-1,wfo-0000431735,3581765,,
-cb0ae84c-8fcd-11eb-924d-9cd76263cbd0,species,stenoloba,Sattadia,,"(Decne.) Malme","Q966069,Q429017",1927,,"Ark. Bot. 21A(12): 8 1927",,,,,,227847-2,wfo-0001104339,3581753,,
+e9fd1afa-8fd1-11eb-924d-9cd76263cbd0,genus,Sattadia,,,E.Fourn.,0,1885,,"Fl. Bras. 6(4): 231 (1885)",,,,,,urn:lsid:ipni.org:names:3676-1,wfo-4000034151,7312665,,
+605cf644-8fcc-11eb-924d-9cd76263cbd0,species,burchellii,Sattadia,,E.Fourn.,0,1885,,"Fl. Bras. 6(4): 232 (1885)",,,,,,urn:lsid:ipni.org:names:101051-1,wfo-0000431735,3581765,,
+cb0ae84c-8fcd-11eb-924d-9cd76263cbd0,species,stenoloba,Sattadia,,"(Decne.) Malme",0,1927,,"Ark. Bot. 21A(12): 8 (1927)",,,,,,urn:lsid:ipni.org:names:227847-2,wfo-0001104339,3581753,,
+56ee7bbe-1d4d-11ec-82c2-f14daa6f2d93,species,stenoloma,Sattadia,,"(Decne.) Malme",,,,,,,,,,urn:lsid:ipni.org:names:1152574-2,wfo-0001349623,,,

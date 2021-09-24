@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebdc8d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Varilla,,,A.Gray,Q347356,,,,,,,,,11449-1,wfo-4000040037,3118740,,
-7007b49c-8fba-11eb-924d-9cd76263cbd0,species,mexicana,Varilla,,A.Gray,Q347356,1849,,"Mem. Amer. Acad. Arts n.s., iv. (1849) 106",,,,,,,wfo-0000126633,3118742,,
-947edd30-8fb2-11eb-924d-9cd76263cbd0,species,texana,Varilla,,A.Gray,Q347356,,,"Pl. Wright. i. 123.",,,,,,,wfo-0000028743,3118741,,
-5606484e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Varinga,,Raf.,Q364857,1838,,"Sylva Tellur. 58 1838",,,,,,858046-1,wfo-0000418529,3763922,,
+ebdc8d9c-8fd1-11eb-924d-9cd76263cbd0,genus,Varilla,,,A.Gray,0,,,"Mem. Amer. Acad. Arts , ser. 2, 4(1): 106 (1849)",,,,,,urn:lsid:ipni.org:names:11449-1,wfo-4000040037,3118740,,
+7007b49c-8fba-11eb-924d-9cd76263cbd0,species,mexicana,Varilla,,A.Gray,0,1849,,"Mem. Amer. Acad. Arts , ser. 2, 4(1): 106 (1849)",,,,,,urn:lsid:ipni.org:names:257193-1,wfo-0000126633,3118742,,
+d06d6a14-1d47-11ec-82c2-f14daa6f2d93,variety,mexicana,Varilla,mexicana,A.Gray,,,,,,,,,,,wfo-0000085875,,,
+947edd30-8fb2-11eb-924d-9cd76263cbd0,species,texana,Varilla,,A.Gray,0,,,"Smithsonian Contr. Knowl. 3(5): 123 (1852)",,,,,,urn:lsid:ipni.org:names:257194-1,wfo-0000028743,3118741,,
+5606484e-8fcc-11eb-924d-9cd76263cbd0,species,repens,Varinga,,Raf.,0,1838,,"Sylva Tellur. : 58 (1838)",,,,,,urn:lsid:ipni.org:names:858046-1,wfo-0000418529,3763922,,

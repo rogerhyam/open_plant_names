@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df1a8af0-8fd1-11eb-924d-9cd76263cbd0,genus,Allmaniopsis,,,Suess.,Q91125,1950,,"Mitt. Bot. Staatssamml. München 1: 2. 1950. (1 Apr 1950)",,,,,,1121-1,wfo-4000001263,7323333,,
-98bdc946-8fcc-11eb-924d-9cd76263cbd0,species,fruticulosa,Allmaniopsis,,Suess.,Q91125,1950,,"Mitt. Bot. Staatssamml. München 1: 2 1950",,,,,,59093-1,wfo-0000526249,3673671,,
-1dc7e41a-8fcc-11eb-924d-9cd76263cbd0,species,portlandica,Allobia,,"(L.) Raf.","Q1043,Q364857",1838,,"Fl. Tellur. 4: 116 1838",,,,89c58f2c-8fcd-11eb-924d-9cd76263cbd0,,338551-1,wfo-0000338277,3065083,,
-7410b2cc-8fc5-11eb-924d-9cd76263cbd0,species,alba,Alloburkillia,,Ridl.,Q733709,,,,,,,,,,wfo-0000193149,2954712,,
+df1a8af0-8fd1-11eb-924d-9cd76263cbd0,genus,Allmaniopsis,,,Suess.,0,1950,,"Mitt. Bot. Staatssamml. München 1: 2 (1950)",,,,,,urn:lsid:ipni.org:names:1121-1,wfo-4000001263,7323333,,
+98bdc946-8fcc-11eb-924d-9cd76263cbd0,species,fruticulosa,Allmaniopsis,,Suess.,0,1950,,"Mitt. Bot. Staatssamml. München 1: 2 (1950)",,,,,,urn:lsid:ipni.org:names:59093-1,wfo-0000526249,3673671,,
+1dc7e41a-8fcc-11eb-924d-9cd76263cbd0,species,portlandica,Allobia,,Raf.,0,1838,,"Fl. Tellur. 4: 116 (1838)",,,,89c58f2c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:338551-1,wfo-0000338277,3065083,,

@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eafb320c-8fd1-11eb-924d-9cd76263cbd0,genus,Sycoparrotia,,,"P.Endress & J.Anliker",,1968,,"Mitt. Bot. Mus. Univ. Zu%rich 244(Schweiz. Beitr. Dendrol.): 16. 1968.",,,,,,,wfo-4000037153,7329044,,
-b97fdab0-8fcd-11eb-924d-9cd76263cbd0,species,semidecidua,Sycoparrotia,,P.K.Endress,Q16298997,,,,,,,,,,wfo-0001065273,3702506,,
-bde1a87c-8fcd-11eb-924d-9cd76263cbd0,species,combretoides,Sycophila,,"Welw. ex van Tiegh.",Q78609,,,,,,,,,,wfo-0001075394,7890174,,
-bd9769ce-8fcd-11eb-924d-9cd76263cbd0,species,mannii,Sycophila,,"(Oliv.) Tiegh.","Q1161960,Q2421500",,,,,,,,,,wfo-0001074769,5640260,,
-bd9786de-8fcd-11eb-924d-9cd76263cbd0,species,ternata,Sycophila,,Tiegh.,Q2421500,,,,,,,,,,wfo-0001074770,5640254,,
+eafb320c-8fd1-11eb-924d-9cd76263cbd0,genus,Sycoparrotia,,,"P.Endress & J.Anliker",,1968,,"Mitt. Bot. Mus. Univ. Zu%rich 244(Schweiz. Beitr. Dendrol.): 16. 1968.",,,,,,urn:lsid:ipni.org:names:50426893-1,wfo-4000037153,7329044,,
+878ba10c-8fcc-11eb-924d-9cd76263cbd0,species,semidecidua,Sycoparrotia,,"P.K.Endress & Anliker",0,1968,,"Schweiz. Beitr. Dendrol. 16-18: 22 (1968)",,,,,,urn:lsid:ipni.org:names:430763-1,wfo-0000497448,,,
+b97fdab0-8fcd-11eb-924d-9cd76263cbd0,species,semidecidua,Sycoparrotia,,P.K.Endress,0,,,,,,,,,,wfo-0001065273,3702506,,
+bde1a87c-8fcd-11eb-924d-9cd76263cbd0,species,combretoides,Sycophila,,Welw.,0,,,"Bull. Soc. Bot. France 41: 485. 1894",,,,,,urn:lsid:ipni.org:names:551829-1,wfo-0001075394,7890174,,
+bd9769ce-8fcd-11eb-924d-9cd76263cbd0,species,mannii,Sycophila,,Tiegh.,0,,,"Bull. Soc. Bot. France 41: 486 (1894)",,,,,,urn:lsid:ipni.org:names:551830-1,wfo-0001074769,5640260,,
+bd9786de-8fcd-11eb-924d-9cd76263cbd0,species,ternata,Sycophila,,Tiegh.,0,,,"Bull. Soc. Bot. France 41: 486 (1894)",,,,,,urn:lsid:ipni.org:names:551831-1,wfo-0001074770,5640254,,

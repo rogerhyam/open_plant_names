@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88d89ca-8fd1-11eb-924d-9cd76263cbd0,genus,Pinckneya,,,Michx.,Q521848,1803,,"Fl. Bor.-Amer. 1: 103–105, pl. 13. 1803.",,,,,,35122-1,wfo-4000029770,2903584,,
-f5ba956c-8fcb-11eb-924d-9cd76263cbd0,species,bracteata,Pinckneya,,"(Bartram) Raf.","Q528476,Q364857",1827,,"Casket (Philadelphia) 1827: 194 1827",,,,1f75ab62-8fcc-11eb-924d-9cd76263cbd0,,760469-1,wfo-0000273840,2903585,,
-f5baf0ac-8fcb-11eb-924d-9cd76263cbd0,species,ionantha,Pinckneya,,"Planch. & Linden","Q1387276,Q781362",1854,,"Bot. Zeitung (Berlin) 12: 365 1854",,,,,,760470-1,wfo-0000273841,2919039,,
-f5bb15b4-8fcb-11eb-924d-9cd76263cbd0,species,pubens,Pinckneya,,Michx.,Q521848,1803,,"Fl. Bor.-Amer. 1: 103 1803",,,,,,760472-1,wfo-0000273842,2903587,,
-f5bb324c-8fcb-11eb-924d-9cd76263cbd0,species,viridiflora,Pinckneya,,"Allemão & Saldanha",Q21390159,1865,,"Config. Est. Bot. Dos Veg. Sec. 3: 7 1865",,,,,,,wfo-0000273843,2894986,,
+e88d89ca-8fd1-11eb-924d-9cd76263cbd0,genus,Pinckneya,,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 103 (1803)",,,,,,urn:lsid:ipni.org:names:35122-1,wfo-4000029770,2903584,,
+f5ba956c-8fcb-11eb-924d-9cd76263cbd0,species,bracteata,Pinckneya,,"(W.Bartram) Raf.",0,1827,,"Casket (Philadelphia) 1827: 194 (1827)",,,,1f75ab62-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:760469-1,wfo-0000273840,2903585,,
+f5baf0ac-8fcb-11eb-924d-9cd76263cbd0,species,ionantha,Pinckneya,,"Planch. & Linden",0,1854,,"Bot. Zeitung (Berlin) 12: 365 (1854)",,,,,,urn:lsid:ipni.org:names:760470-1,wfo-0000273841,2919039,,
+5bbaffd2-1d4d-11ec-82c2-f14daa6f2d93,species,officinalis,Pinckneya,,"hort. ex Lavallée",,,,"Énum. Arbres 144, nomen. 1877",,,,,,urn:lsid:ipni.org:names:760471-1,wfo-0001356073,,,
+f5bb15b4-8fcb-11eb-924d-9cd76263cbd0,species,pubens,Pinckneya,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 103 (1803)",,,,,,urn:lsid:ipni.org:names:760472-1,wfo-0000273842,2903587,,
+49189632-1d4d-11ec-82c2-f14daa6f2d93,species,rubescens,Pinckneya,,"Allemão & Saldanha",,,,"Config. Est. Bot. 3: 1 (1872)",,,,,,urn:lsid:ipni.org:names:60477802-2,wfo-0001331181,,,
+f5bb324c-8fcb-11eb-924d-9cd76263cbd0,species,viridiflora,Pinckneya,,"Allemão & Saldanha",0,1865,,"Config. Est. Bot. Dos Veg. Sec. 3: 7 (1865)",,,,,,urn:lsid:ipni.org:names:196847-2,wfo-0000273843,2894986,,

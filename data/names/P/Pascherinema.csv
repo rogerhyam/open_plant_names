@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 0e1421a0-9bac-11eb-a8a2-19ed5c03f8d3,genus,Pascherinema,,,"De Toni",,1936,,"Noter. Nomencl. Algol. 8: [5] (1936)",,,,0e1421a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,25226," "
-fa125c62-9bab-11eb-a8a2-19ed5c03f8d3,species,moniliforme,Pascherinema,,"(Pascher) De Toni",Q931532,1936,,"Noter. Nomencl. Algol. (1936)",,,,77dbd2ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431960," "
-5b9d0030-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Pascopyrum,,"(Rydb.) Á.Löve","Q1905130,Q2464202",1980,,"Taxon 29: 168 1980",,,,,,184126-2,wfo-0000887179,7756784,,
-c852aed2-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Pascopyrum,,"(Rydb.) Barkworth & D.R.Dewey","Q1905130,Q2918786,Q5813901",1985,,"Amer. J. Bot. 72(5): 772 1985",,Q55766277,,,,1003650-1,wfo-0001098511,,,
-f0448494-8fcb-11eb-924d-9cd76263cbd0,species,pyrenaea,Pasina,,"(L.) Bubani","Q1043,Q684026",1897,,"Fl. Pyren. 1: 396 1897",,,,,,453713-1,wfo-0000264998,3889854,,
+fa125c62-9bab-11eb-a8a2-19ed5c03f8d3,species,moniliforme,Pascherinema,,"(Pascher) De Toni",0,1936,,"Noter. Nomencl. Algol. (1936)",,,,77dbd2ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431960," "
+cd88bcee-8fd1-11eb-924d-9cd76263cbd0,species,bowdenii,Pascoleymus,,"(B.Boivin) Barkworth",0,2006,,"Sida 22(1): 499. 2006 [11 Aug 2006]",,Q91203183,,,,urn:lsid:ipni.org:names:60443120-2,wfo-0001279016,,,
+5b9d0030-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Pascopyrum,,"(Rydb.) Á.Löve",0,1980,,"Taxon 29: 168 (1980)",,,,,,urn:lsid:ipni.org:names:184126-2,wfo-0000887179,7756784,,
+c852aed2-8fcd-11eb-924d-9cd76263cbd0,species,smithii,Pascopyrum,,"(Rydb.) Barkworth & D.R.Dewey",0,1985,,"Amer. J. Bot. 72(5): 772 (1985):.",,Q55766277,,,,urn:lsid:ipni.org:names:1003650-1,wfo-0001098511,,,
+f0448494-8fcb-11eb-924d-9cd76263cbd0,species,pyrenaea,Pasina,,Bubani,0,1897,,"Fl. Pyren. 1: 396 (1897)",,,,,,urn:lsid:ipni.org:names:453713-1,wfo-0000264998,3889854,,

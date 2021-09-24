@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6f02f58-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stromatoscypha,,,Donk,Q449688,1951,illegitimate,"Reinwardtia 1: 218 (1951)",,,,a6f02f58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18612,"Nom. illegit., Art. 52.1 "
-f2cf4636-9bab-11eb-a8a2-19ed5c03f8d3,species,defibulata,Stromatoscypha,,Agerer,Q9067799,2005,,"Nova Hedwigia 80(1-2): 228 (2005)",,,,f2cf4636-9bab-11eb-a8a2-19ed5c03f8d3,,,,,344511," "
-01293f6a-9bad-11eb-a8a2-19ed5c03f8d3,species,fimbriata,Stromatoscypha,,"(Pers.) Donk","Q346451,Q449688",1951,,"Reinwardtia 1: 218 (1951)",,,,60160aa8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,306561," "
+a6f02f58-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stromatoscypha,,,Donk,0,1951,illegitimate,"Reinwardtia 1: 218 (1951)",,,,a6f02f58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18612,"Nom. illegit., Art. 52.1 "
+f2cf4636-9bab-11eb-a8a2-19ed5c03f8d3,species,defibulata,Stromatoscypha,,Agerer,0,2005,,"Nova Hedwigia 80(1-2): 228 (2005)",,,,f2cf4636-9bab-11eb-a8a2-19ed5c03f8d3,,,,,344511," "
+01293f6a-9bad-11eb-a8a2-19ed5c03f8d3,species,fimbriata,Stromatoscypha,,"(Pers.) Donk",0,1951,,"Reinwardtia 1: 218 (1951)",,,,60160aa8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,306561," "
 c631bc2a-9bac-11eb-a8a2-19ed5c03f8d3,species,huia,Stromatoscypha,,"(G. Cunn.) G. Cunn.",,1963,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 145: 305 (1963)",,,,f905a508-9bac-11eb-a8a2-19ed5c03f8d3,,,,,283293," "
-3f70a2be-9bac-11eb-a8a2-19ed5c03f8d3,species,poriaeformis,Stromatoscypha,,"(Pers.) G. Cunn.",Q346451,1963,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 145: 305 (1963)",,,,,,,,,283373," "
-3a923488-9bac-11eb-a8a2-19ed5c03f8d3,species,poriiformis,Stromatoscypha,,"(Pers.) G. Cunn.",Q346451,,,,,,,,,,,,339814," Stromatoscypha poriaeformis"
+3f70a2be-9bac-11eb-a8a2-19ed5c03f8d3,species,poriaeformis,Stromatoscypha,,"(Pers.) G. Cunn.",0,1963,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 145: 305 (1963)",,,,,,,,,283373," "
+3a923488-9bac-11eb-a8a2-19ed5c03f8d3,species,poriiformis,Stromatoscypha,,"(Pers.) G. Cunn.",0,,,,,,,,,,,,339814," Stromatoscypha poriaeformis"

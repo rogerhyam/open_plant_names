@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e70fb0be-8fd1-11eb-924d-9cd76263cbd0,genus,Nanobubon,,,Magee,Q18986796,2008,,"Tabl. Encycl. 57(2): 356. 2008.",,,,,,77090282-1,wfo-4000025299,7318278,,
-ab2a2178-8fcd-11eb-924d-9cd76263cbd0,species,capillaceum,Nanobubon,,"(Thunb.) Magee","Q39658,Q18986796",2008,,"Taxon 57(2): 358 2008",,,,,,77090283-1,wfo-0001032970,3628388,,
-ab20a846-8fcd-11eb-924d-9cd76263cbd0,species,strictum,Nanobubon,,"(Spreng.) Magee, A.R.","Q62829,Q18986796",2008,,"Taxon 57(2): 358 2008",,,,,,,wfo-0001032908,3639986,,
+e70fb0be-8fd1-11eb-924d-9cd76263cbd0,genus,Nanobubon,,,Magee,0,2008,,"Taxon 57: 356 (2008)",,,,,,urn:lsid:ipni.org:names:77090282-1,wfo-4000025299,7318278,,
+ab2a2178-8fcd-11eb-924d-9cd76263cbd0,species,capillaceum,Nanobubon,,"(Thunb.) Magee",0,2008,,"Taxon 57: 358 (2008)",,,,,,urn:lsid:ipni.org:names:77090283-1,wfo-0001032970,3628388,,
+4a328ba4-1d4d-11ec-82c2-f14daa6f2d93,species,hypogaeum,Nanobubon,,Magee,,,,"S. African J. Bot. 80: 64 (2012)",,,,,,urn:lsid:ipni.org:names:77118463-1,wfo-0001332690,,,
+ab20a846-8fcd-11eb-924d-9cd76263cbd0,species,strictum,Nanobubon,,"(Spreng.) Magee",0,2008,,"Taxon 57: 358 (2008)",,,,,,urn:lsid:ipni.org:names:77090284-1,wfo-0001032908,3639986,,

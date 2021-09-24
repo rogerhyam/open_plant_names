@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a0472f76-9bad-11eb-a8a2-19ed5c03f8d3,genus,Naiadella,,,"Marvanová & Bandoni",,1987,,"Mycologia 79(4): 579 (1987)",,,,a0472f76-9bad-11eb-a8a2-19ed5c03f8d3,,,,,11138," "
 38d5bcfa-9bac-11eb-a8a2-19ed5c03f8d3,species,fluitans,Naiadella,,"Marvanová & Bandoni",,1987,,"Mycologia 79(4): 579 (1987)",,,,38d5bcfa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,131815,"  Isotypus IMI (ex cultura R.J. B. 7484- | A)."
-d9fedb10-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Naiadothrix,,Pennell,Q3297757,1920,,"Mem. Torrey Bot. Club 16(2): 105 1920",,,,,,166909-2,wfo-0001137319,3737323,,
-ac3aa128-8fcd-11eb-924d-9cd76263cbd0,species,myriophylloides,Naiadothrix,,"(Benth.) Pennell","Q731808,Q3297757",1920,,"Mem. Torrey Bot. Club 16(2): 106 1920",,,,d9ad46ce-8fcd-11eb-924d-9cd76263cbd0,,166910-2,wfo-0001035178,3737315,,
-38bc39d8-8fcc-11eb-924d-9cd76263cbd0,species,reflexa,Naiadothrix,,"(Benth.) Pennell","Q731808,Q3297757",1920,,"Mem. Torrey Bot. Club 16: 106 1920",,,,,,166911-2,wfo-0000381099,3737300,,
+d9fedb10-8fcd-11eb-924d-9cd76263cbd0,species,longipes,Naiadothrix,,Pennell,0,1920,,"Mem. Torrey Bot. Club 16: 105 (1920)",,,,,,urn:lsid:ipni.org:names:166909-2,wfo-0001137319,3737323,,
+ac3aa128-8fcd-11eb-924d-9cd76263cbd0,species,myriophylloides,Naiadothrix,,"(Benth.) Pennell",0,1920,,"Mem. Torrey Bot. Club 16: 106 (1920)",,,,d9ad46ce-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:166910-2,wfo-0001035178,3737315,,
+38bc39d8-8fcc-11eb-924d-9cd76263cbd0,species,reflexa,Naiadothrix,,"(Benth.) Pennell",0,1920,,"Mem. Torrey Bot. Club 16: 106 (1920)",,,,,,urn:lsid:ipni.org:names:166911-2,wfo-0000381099,3737300,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e76bc4bc-8fd1-11eb-924d-9cd76263cbd0,genus,Obesia,,,Haw.,Q373119,1812,,"Syn. Pl. Succ. 42. 1812.",,,,,,,wfo-4000026448,7312118,,
-3bcf21d0-8fcc-11eb-924d-9cd76263cbd0,species,arida,Obesia,,"(Masson) Sweet","Q926159,Q2003356",1830,,"Hort. Brit. ed. 2: 358 1830",,,,ca3a5420-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000384616,3575945,,
-3bcf6136-8fcc-11eb-924d-9cd76263cbd0,species,decora,Obesia,,Haw.,Q373119,1812,,"Syn. Pl. Succ. 43 1812",,,,,,99850-1,wfo-0000384617,3575938,,
-3bd03d18-8fcc-11eb-924d-9cd76263cbd0,species,geminata,Obesia,,Haw.,Q373119,1812,,"Syn. Pl. Succ. 42 1812",,,,,,99851-1,wfo-0000384623,3575926,,
-3bcfaa6a-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Obesia,,Haw.,Q373119,1812,,"Syn. Pl. Succ. 43 1812",,,,,,99852-1,wfo-0000384619,3575917,,
-3bce8da6-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Obesia,,Sweet,Q2003356,1826,,"Hort. Brit. 278 1826",,,,,,99853-1,wfo-0000384614,3575907,,
+e76bc4bc-8fd1-11eb-924d-9cd76263cbd0,genus,Obesia,,,Haw.,0,1812,,"Syn. Pl. Succ. : 42 (1812)",,,,,,urn:lsid:ipni.org:names:3530-1,wfo-4000026448,7312118,,
+3bcf21d0-8fcc-11eb-924d-9cd76263cbd0,species,arida,Obesia,,"(Masson) Sweet",0,1830,,"Hort. Brit. , ed. 2: 358 (1830)",,,,ca3a5420-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:99849-1,wfo-0000384616,3575945,,
+3bcf6136-8fcc-11eb-924d-9cd76263cbd0,species,decora,Obesia,,"(Masson) Haw.",0,1812,,"Syn. Pl. Succ. : 43 (1812)",,,,,,urn:lsid:ipni.org:names:99850-1,wfo-0000384617,3575938,,
+3bd03d18-8fcc-11eb-924d-9cd76263cbd0,species,geminata,Obesia,,"(Masson) Haw.",0,1812,,"Syn. Pl. Succ. : 42 (1812)",,,,,,urn:lsid:ipni.org:names:99851-1,wfo-0000384623,3575926,,
+3bcfaa6a-8fcc-11eb-924d-9cd76263cbd0,species,punctata,Obesia,,"(Masson) Haw.",0,1812,,"Syn. Pl. Succ. : 43 (1812)",,,,,,urn:lsid:ipni.org:names:99852-1,wfo-0000384619,3575917,,
+3bce8da6-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Obesia,,"(Jacq.) Sweet",0,1826,,"Hort. Brit. : 278 (1826)",,,,,,urn:lsid:ipni.org:names:99853-1,wfo-0000384614,3575907,,

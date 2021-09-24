@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebaf21e0-8fd1-11eb-924d-9cd76263cbd0,genus,Tropentis,,,Raf.,Q364857,1840,,"Good Book 59. 1840.",,,,,,,wfo-4000039463,6027346,,
-50627002-8fcc-11eb-924d-9cd76263cbd0,species,retzii,Tropentis,,"(Vitman) Raf.","Q4112427,Q364857",1840,,"Good Book 59 1840",,,,2ccf39d6-8fcc-11eb-924d-9cd76263cbd0,,849892-1,wfo-0000411106,3642002,,
-50766e90-8fcc-11eb-924d-9cd76263cbd0,species,sibiricum,Tropentis,,Raf.,Q364857,1840,,"Good Book 59 1840",,,,,,849893-1,wfo-0000411193,3641991,,
-50803f60-8fcc-11eb-924d-9cd76263cbd0,species,biloba,Tropexa,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 98 1838",,,,,,93833-1,wfo-0000411248,3588606,,
-707ed6f0-8fcc-11eb-924d-9cd76263cbd0,species,patagonicum,Trophaeastrum,,"(Speg.) Sparre","Q648013,Q4430684",1991,,"Opera Bot. 108: 18 1991",,,,,,962796-1,wfo-0000458342,4162325,,
+ebaf21e0-8fd1-11eb-924d-9cd76263cbd0,genus,Tropentis,,,Raf.,0,1840,,"Good Book : 59 (1840)",,,,,,urn:lsid:ipni.org:names:40648-1,wfo-4000039463,6027346,,
+50627002-8fcc-11eb-924d-9cd76263cbd0,species,retzii,Tropentis,,"(Vitman) Raf.",0,1840,,"Good Book : 59 (1840)",,,,2ccf39d6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:849892-1,wfo-0000411106,3642002,,
+50766e90-8fcc-11eb-924d-9cd76263cbd0,species,sibiricum,Tropentis,,Raf.,0,1840,,"Good Book : 59 (1840)",,,,,,urn:lsid:ipni.org:names:849893-1,wfo-0000411193,3641991,,

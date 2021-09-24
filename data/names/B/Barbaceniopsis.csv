@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0114890-8fd1-11eb-924d-9cd76263cbd0,genus,Barbaceniopsis,,,L.B.Sm.,Q968961,1962,,"Contr. U.S. Natl. Herb. 35: 270. 1962.",,Q95371507,,,,298124-2,wfo-4000004046,2863893,,
-20c5c64a-8fcd-11eb-924d-9cd76263cbd0,species,boliviensis,Barbaceniopsis,,"(Baker) L.B.Sm.","Q730330,Q968961",1962,,"Contr. U. S. Natl. Herb. 35: 271 1962",,Q95371507,,,,29440-2,wfo-0000761275,2863899,,
-20c5e3f0-8fcd-11eb-924d-9cd76263cbd0,species,castillonii,Barbaceniopsis,,"(Hauman) Ibisch","Q6697106,Q2093531",2001,,"Syst. Bot. 26: 11 2001",,Q95467355,,,,1019440-1,wfo-0000761276,2863894,,
-20c60006-8fcd-11eb-924d-9cd76263cbd0,species,humahuaquensis,Barbaceniopsis,,Noher,Q26714676,1973,,"Kurtziana 7: 262 1973",,,,,,29441-2,wfo-0000761277,2863903,,
-20c61cd0-8fcd-11eb-924d-9cd76263cbd0,species,vargasiana,Barbaceniopsis,,"(L.B.Sm.) L.B.Sm.",Q968961,1962,,"Contr. U. S. Natl. Herb. 35: 271 1962",,Q95371507,,,,29442-2,wfo-0000761278,2863896,,
+e0114890-8fd1-11eb-924d-9cd76263cbd0,genus,Barbaceniopsis,,,L.B.Sm.,0,1962,,"Contr. U.S. Natl. Herb. 35: 270 (1962)",,Q95371507,,,,urn:lsid:ipni.org:names:298124-2,wfo-4000004046,2863893,,
+20c5c64a-8fcd-11eb-924d-9cd76263cbd0,species,boliviensis,Barbaceniopsis,,"(Baker) L.B.Sm.",0,1962,,"Contr. U.S. Natl. Herb. 35: 271 (1962)",,Q95371507,,,,urn:lsid:ipni.org:names:29440-2,wfo-0000761275,2863899,,
+20c5e3f0-8fcd-11eb-924d-9cd76263cbd0,species,castillonii,Barbaceniopsis,,"(Hauman) Ibisch",0,2001,,"Syst. Bot. 26: 11 (2001)",,Q95467355,,,,urn:lsid:ipni.org:names:1019440-1,wfo-0000761276,2863894,,
+20c60006-8fcd-11eb-924d-9cd76263cbd0,species,humahuaquensis,Barbaceniopsis,,Noher,0,1973,,"Kurtziana 7: 262 (1973)",,,,,,urn:lsid:ipni.org:names:29441-2,wfo-0000761277,2863903,,
+20c61cd0-8fcd-11eb-924d-9cd76263cbd0,species,vargasiana,Barbaceniopsis,,"(L.B.Sm.) L.B.Sm.",0,1962,,"Contr. U.S. Natl. Herb. 35: 271 (1962)",,Q95371507,,,,urn:lsid:ipni.org:names:29442-2,wfo-0000761278,2863896,,

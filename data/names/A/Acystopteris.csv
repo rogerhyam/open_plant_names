@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deda327a-8fd1-11eb-924d-9cd76263cbd0,genus,Acystopteris,,,Nakai,Q704751,1933,,"Bot. Mag. (Tokyo) 47: 180 (1933).",,Q55762692,,,,17296910-1,wfo-4000000550,4015550,,
-cc45c042-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Acystopteris,,"(Luerss.) Nakai","Q70807,Q704751",1933,,"Bot. Mag. (Tokyo) 47(555): 180 1933",,Q55762692,,d0cb6324-8fcd-11eb-924d-9cd76263cbd0,,1115100-2,wfo-0001107184,4015561,,
-cc45dafa-8fcd-11eb-924d-9cd76263cbd0,variety,taiwaniana,Acystopteris,japonica,"(Tagawa) W.C.Shieh","Q11576736,Q6166349",1976,,"J. Sci. Engin. 13: 51 1976",,,,,,17564580-1,wfo-0001107185,4017076,,
-d640dca8-8fcd-11eb-924d-9cd76263cbd0,species,taiwaniana,Acystopteris,,"(Tagawa) Á.Löve & D.Löve","Q11576736,Q2464202,Q4272889",1977,,"Taxon 26(2–3): 326 1977",,Q28954461,,d46046c6-8fcd-11eb-924d-9cd76263cbd0,,17553650-1,wfo-0001128845,8190718,,
-cc45f710-8fcd-11eb-924d-9cd76263cbd0,species,tenuisecta,Acystopteris,,"(Blume) Tagawa","Q76816,Q11576736",1938,,"Acta Phytotax. Geobot. 7(2): 73 1938",,Q101151607,,,,17367820-1,wfo-0001107186,4017059,,
+deda327a-8fd1-11eb-924d-9cd76263cbd0,genus,Acystopteris,,,Nakai,0,1933,,"Bot. Mag. (Tokyo) 47: 180 (1933).",,Q55762692,,,,urn:lsid:ipni.org:names:17296910-1,wfo-4000000550,4015550,,
+cc45c042-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Acystopteris,,"(Luerss.) Nakai",0,1933,,"Bot. Mag. (Tokyo) 47: 180. 1933",,Q55762692,,d0cb6324-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1115100-2,wfo-0001107184,4015561,,
+cc45dafa-8fcd-11eb-924d-9cd76263cbd0,variety,taiwaniana,Acystopteris,japonica,"(Tagawa) W.C.Shieh",0,1976,,"Unknown 13: 51 (1976)",,,,,,urn:lsid:ipni.org:names:17564580-1,wfo-0001107185,4017076,,
+d640dca8-8fcd-11eb-924d-9cd76263cbd0,species,taiwaniana,Acystopteris,,"(Tagawa) Á.Löve & D.Löve",0,1977,,"Taxon 26(2-3): 326. 1977",,Q28954461,,d46046c6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17553650-1,wfo-0001128845,8190718,,
+cc45f710-8fcd-11eb-924d-9cd76263cbd0,species,tenuisecta,Acystopteris,,"(Blume) Tagawa",0,1938,,"Acta Phytotax. Geobot. 7(2): 73. 1938 [30 May 1938]",,Q101151607,,,,urn:lsid:ipni.org:names:17367820-1,wfo-0001107186,4017059,,

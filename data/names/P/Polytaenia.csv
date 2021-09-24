@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8e49620-8fd1-11eb-924d-9cd76263cbd0,genus,Polytaenia,,,DC.,Q123057,1829,,"Coll. Mém. 5: 53–54, pl. 13. 1829.",,,,,,40420-1,wfo-4000030840,2653076,,
-baa70c88-8fcd-11eb-924d-9cd76263cbd0,species,nuttallii,Polytaenia,,DC.,Q123057,1829,,"Coll. Mém. 5: 53 1829",,,,,,847377-1,wfo-0001067960,5371857,,
-bf61abd0-8fd1-11eb-924d-9cd76263cbd0,variety,texana,Polytaenia,nuttallii,"J.M.Coult. & Rose","Q1701075,Q1336049",1900,,"Contr. U.S. Natl. Herb. 7(1): 192 1900",,,,,,208085-2,wfo-0001252868,5371859,,
-baa7317c-8fcd-11eb-924d-9cd76263cbd0,species,texana,Polytaenia,,"(J.M.Coult. & Rose) Mathias & Constance","Q1701075,Q1336049,Q4284790,Q4231273",1941,,"Bull. Torrey Bot. Club 68(2): 123 1941",,Q55767409,,8ef183d4-8fb9-11eb-924d-9cd76263cbd0,,208086-2,wfo-0001067961,5371858,,
+e8e49620-8fd1-11eb-924d-9cd76263cbd0,genus,Polytaenia,,,DC.,0,1829,,"Coll. Mém. 5: 53 (1829)",,,,,,urn:lsid:ipni.org:names:40420-1,wfo-4000030840,2653076,,
+47bcf5bc-1d4d-11ec-82c2-f14daa6f2d93,species,albiflora,Polytaenia,,E.L.Keith,,,,"Phytoneuron 2012-81: 1 (2012)",,,,,,urn:lsid:ipni.org:names:60459023-2,wfo-0001329385,,,
+baa70c88-8fcd-11eb-924d-9cd76263cbd0,species,nuttallii,Polytaenia,,DC.,0,1829,,"Coll. Mém. 5: 53 (1829)",,,,,,urn:lsid:ipni.org:names:847377-1,wfo-0001067960,5371857,,
+793910c6-1d4d-11ec-82c2-f14daa6f2d93,variety,laevis,Polytaenia,nuttallii,"Torr. & A.Gray",,,,"Fl. N. Amer. (Torr. & A. Gray) 1(4): 633. 1840 [Jun 1840]",,,,,,urn:lsid:ipni.org:names:208084-2,wfo-0001396129,,,
+bf61abd0-8fd1-11eb-924d-9cd76263cbd0,variety,texana,Polytaenia,nuttallii,"J.M.Coult. & Rose",0,1900,,"Contr. U.S. Natl. Herb. 7: 192. 1900",,,,,,urn:lsid:ipni.org:names:208085-2,wfo-0001252868,5371859,,
+baa7317c-8fcd-11eb-924d-9cd76263cbd0,species,texana,Polytaenia,,"(J.M.Coult. & Rose) Mathias & Constance",0,1941,,"Bull. Torrey Bot. Club 68: 123 (1941)",,Q55767409,,8ef183d4-8fb9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:208086-2,wfo-0001067961,5371858,,

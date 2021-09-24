@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deb13d70-8fd1-11eb-924d-9cd76263cbd0,genus,Abrophyllum,,,Hook.f.,Q157501,1864,,"Fl. Austral. 2: 437. 1864.",,,,,,36936-1,wfo-4000000057,8679153,,
-90336de4-8fcc-11eb-924d-9cd76263cbd0,species,microcarpum,Abrophyllum,,"(F.M.Bailey) Domin","Q2659122,Q1109649",1925,,"Biblioth. Bot. 89: 151 1925",,,,9033a4f8-8fcc-11eb-924d-9cd76263cbd0,,790192-1,wfo-0000511609,3932942,,
-90338842-8fcc-11eb-924d-9cd76263cbd0,species,ornans,Abrophyllum,,"(F.Muell.) Hook.f.","Q708002,Q157501",1864,,"Fl. Austral. 2: 437 1864",,,,,,790193-1,wfo-0000511610,7580240,,
-9033a4f8-8fcc-11eb-924d-9cd76263cbd0,variety,microcarpum,Abrophyllum,ornans,F.M.Bailey,Q2659122,1910,,"Queensland Agric. J. 24: 221 1910",,,,,,,wfo-0000511611,3932913,,
+deb13d70-8fd1-11eb-924d-9cd76263cbd0,genus,Abrophyllum,,,Hook.f.,0,1864,,"Fl. Austral. 2: 437 (1864)",,,,,,urn:lsid:ipni.org:names:36936-1,wfo-4000000057,8679153,,
+90336de4-8fcc-11eb-924d-9cd76263cbd0,species,microcarpum,Abrophyllum,,"(F.M.Bailey) Domin",0,1925,,"Biblioth. Bot. 22(89): 151 (1925)",,,,9033a4f8-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:790192-1,wfo-0000511609,3932942,,
+90338842-8fcc-11eb-924d-9cd76263cbd0,species,ornans,Abrophyllum,,"(F.Muell.) Hook.f.",0,1864,,"Fl. Austral. 2: 437 (1864)",,,,,,urn:lsid:ipni.org:names:790193-1,wfo-0000511610,7580240,,
+9033a4f8-8fcc-11eb-924d-9cd76263cbd0,variety,microcarpum,Abrophyllum,ornans,F.M.Bailey,0,1910,,"Queensland Agric. J. 24: 221 (1910)",,,,,,urn:lsid:ipni.org:names:52394-3,wfo-0000511611,3932913,,
+7856a75e-1d4d-11ec-82c2-f14daa6f2d93,variety,ornans,Abrophyllum,ornans,"(F.Muell.) Benth.",,,,"Queensland Agricultural Journal 24  1910",,,,,,urn:lsid:ipni.org:names:169742-3,wfo-0001394962,,,

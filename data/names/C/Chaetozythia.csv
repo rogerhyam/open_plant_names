@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 06812014-9bac-11eb-a8a2-19ed5c03f8d3,genus,Chaetozythia,,,"P. Karst.",,,,,,,,06812014-9bac-11eb-a8a2-19ed5c03f8d3,,,,,22077," "
-788996e0-9bad-11eb-a8a2-19ed5c03f8d3,species,amylospora,Chaetozythia,,"(P. Karst.) Höhn.",Q4502879,,,,,,,786eba0c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,146108," "
+788996e0-9bad-11eb-a8a2-19ed5c03f8d3,species,amylospora,Chaetozythia,,"(P. Karst.) Höhn.",0,,,,,,,786eba0c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,146108," "
 3672b3f4-9bad-11eb-a8a2-19ed5c03f8d3,species,pulchella,Chaetozythia,,"P. Karst.",,,,,,,,3672b3f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,146234," "
-4e687dcc-8fcd-11eb-924d-9cd76263cbd0,species,creticus,Chaeturus,,"Coustur. & Gand.","Q7149988,Q2601687",1916,,"Fl. Cret. 110 1916",,,,,,395590-1,wfo-0000859057,5671847,,
-4e6898b6-8fcd-11eb-924d-9cd76263cbd0,species,divaricatus,Chaeturus,,DC.,Q123057,1813,,"Cat. Pl. Horti Monsp. 93 1813",,,,,,327973-2,wfo-0000859058,5671844,,
-4e68b30a-8fcd-11eb-924d-9cd76263cbd0,species,fasciculatus,Chaeturus,,Link,Q215466,1799,,"J. Bot. (Schrader) 1799(2): 313 1799",,,,,,395592-1,wfo-0000859059,5671843,,
-4e68d01a-8fcd-11eb-924d-9cd76263cbd0,subspecies,prostratus,Chaeturus,fasciculatus,"(Hack. & Lange) Paunero","Q2209907,Q978477,Q5359097",1953,,"Cavanillesia 11: 328 1953",,,,4e68f068-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000859060,5948680,,
-4e68f068-8fcd-11eb-924d-9cd76263cbd0,species,prostratus,Chaeturus,,"Hack. & Lange","Q2209907,Q978477",1877,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1877-1878: 233 1878",,,,,,,wfo-0000859061,5671842,,
-4e690fb2-8fcd-11eb-924d-9cd76263cbd0,species,spicatus,Chaeturus,,Schrad.,Q62591,1840,,"Index Seminum (GOET) 1840: ? 1840",,,,,,,wfo-0000859062,5671840,,
+4e687dcc-8fcd-11eb-924d-9cd76263cbd0,species,creticus,Chaeturus,,"Coustur. & Gand.",0,1916,,"Fl. Cret. : 110 (1916)",,,,,,urn:lsid:ipni.org:names:395590-1,wfo-0000859057,5671847,,
+4e6898b6-8fcd-11eb-924d-9cd76263cbd0,species,divaricatus,Chaeturus,,DC.,0,1813,,"Cat. Pl. Horti Monsp. : 93 (1813)",,,,,,urn:lsid:ipni.org:names:327973-2,wfo-0000859058,5671844,,
+4e68b30a-8fcd-11eb-924d-9cd76263cbd0,species,fasciculatus,Chaeturus,,Link,0,1799,,"J. Bot. (Schrader) 1799(2): 313 (1800)",,,,,,urn:lsid:ipni.org:names:395592-1,wfo-0000859059,5671843,,
+4e68d01a-8fcd-11eb-924d-9cd76263cbd0,subspecies,prostratus,Chaeturus,fasciculatus,"(Hack. & Lange) Paunero",0,1953,,"Cavanillesia 11: 328 1953",,,,4e68f068-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000859060,5948680,,
+4e68f068-8fcd-11eb-924d-9cd76263cbd0,species,prostratus,Chaeturus,,"Hack. & Lange",0,1877,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1877-1878: 233 (1878)",,,,,,urn:lsid:ipni.org:names:395593-1,wfo-0000859061,5671842,,
+4e690fb2-8fcd-11eb-924d-9cd76263cbd0,species,spicatus,Chaeturus,,Schrad.,0,1840,,"Index Seminum (GOET, Gottingensis) 1840: ? (1840)",,,,,,urn:lsid:ipni.org:names:395594-1,wfo-0000859062,5671840,,

@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebfb0722-8fd1-11eb-924d-9cd76263cbd0,genus,Volkiella,,,"Merxm. & Czech","Q4290979,Q5839855",1953,,"Mitt. Bot. Staatssamml. München 8: 317. 1953.",,,,,,,wfo-4000040426,2710470,,
-c701ed14-8fcc-11eb-924d-9cd76263cbd0,species,disticha,Volkiella,,"Merxm. & Czech","Q4290979,Q5839855",1953,,"Mitt. Bot. Staatssamml. München 8: 318 1953",,,,,,315925-1,wfo-0000600345,2710471,,
-1b2d177a-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Volkmannia,,Jacq.,Q84497,1798,,"Pl. Hort. Schoenbr. 3: 48 1798",,,,,,866135-1,wfo-0000333702,7849151,,
-7d591830-8fcd-11eb-924d-9cd76263cbd0,species,vollmannii,,,"(M.Schulze) Peitz","Q5749329,Q21393395",1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 189 1972",,,,ec3104b8-8fcb-11eb-924d-9cd76263cbd0,,941839-1,wfo-0000936386,,,
-ec3104b8-8fcb-11eb-924d-9cd76263cbd0,species,vollmannii,,,M.Schulze,Q5749329,1907,,"Syn. Mitteleur. Fl. 3: 850 1907",,,,,,648275-1,wfo-0000258816,,,
+ebfb0722-8fd1-11eb-924d-9cd76263cbd0,genus,Volkiella,,,"Merxm. & Czech",0,1953,,"Mitt. Bot. Staatssamml. München 8: 317 (1953)",,,,,,urn:lsid:ipni.org:names:14102-1,wfo-4000040426,2710470,,
+c701ed14-8fcc-11eb-924d-9cd76263cbd0,species,disticha,Volkiella,,"Merxm. & Czech",0,1953,,"Mitt. Bot. Staatssamml. München 8: 318 (1953)",,,,,,urn:lsid:ipni.org:names:315925-1,wfo-0000600345,2710471,,
+1b2d177a-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Volkmannia,,Jacq.,0,1798,,"Pl. Hort. Schoenbr. 3: 48 (1798)",,,,,,urn:lsid:ipni.org:names:866135-1,wfo-0000333702,7849151,,

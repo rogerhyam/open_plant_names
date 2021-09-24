@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e730eb26-8fd1-11eb-924d-9cd76263cbd0,genus,Neolindleya,,,Kraenzl.,Q542327,1899,,"Orchid. Gen. Sp. 1: 651. 1899.",,,,,,,wfo-4000025748,2798931,,
-e6e7576e-8fcb-11eb-924d-9cd76263cbd0,species,camtschatica,Neolindleya,,"(Cham.) Nevski","Q154782,Q664994",1935,,"Fl. URSS 4: 646 1935",,,,,,645269-1,wfo-0000250179,2798932,,
-e6e771d6-8fcb-11eb-924d-9cd76263cbd0,species,decipiens,Neolindleya,,"(Lindl.) Kraenzl.","Q378629,Q542327",1899,,"Orchid. Gen. Sp. 1: 651 1899",,,,,,645270-1,wfo-0000250180,2798936,,
+e730eb26-8fd1-11eb-924d-9cd76263cbd0,genus,Neolindleya,,,Kraenzl.,0,1899,,"Orchid. Gen. Sp. 1: 651 (1899)",,,,,,urn:lsid:ipni.org:names:30073-1,wfo-4000025748,2798931,,
+e6e7576e-8fcb-11eb-924d-9cd76263cbd0,species,camtschatica,Neolindleya,,"(Cham.) Nevski",0,1935,,"Fl. URSS 4: 646 (1935)",,,,,,urn:lsid:ipni.org:names:645269-1,wfo-0000250179,2798932,,
+e6e771d6-8fcb-11eb-924d-9cd76263cbd0,species,decipiens,Neolindleya,,Kraenzl.,0,1899,,"Orchid. Gen. Sp. 1: 651 (1899)",,,,,,urn:lsid:ipni.org:names:645270-1,wfo-0000250180,2798936,,

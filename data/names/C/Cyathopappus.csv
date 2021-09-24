@@ -1,8 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2515d16-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathopappus,,,,,,,,,,,,,,wfo-4000010200,,,
-04e94868-8fb2-11eb-924d-9cd76263cbd0,species,abyssinicus,Cyathopappus,,"Hochst. ex Chiov.","Q64983,Q2348823",1911,,"in Ann. Bot., Roma, ix. 74 (1911), in syn. ""ix. 74 , in syn."" 1911",,,,,,200842-1,wfo-0000005218,5701595,,
-48851f48-8fb2-11eb-924d-9cd76263cbd0,species,gnephosioides,Cyathopappus,,F.Muell.,Q708002,1861,,"158 1861",,,,,,121810-3,wfo-0000018916,5394887,,
-0fe98fd4-8fb7-11eb-924d-9cd76263cbd0,species,metalasioides,Cyathopappus,,Sch.Bip.,Q65685,1861,,1861,,,,,,,wfo-0000095978,5401668,,
-2fd6c9c2-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Cyathophora,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 117 1838",,,,,,343859-1,wfo-0000793418,5379019,,
-2fd6e81c-8fcd-11eb-924d-9cd76263cbd0,species,heterophyla,Cyathophora,,"(L.) Raf.","Q1043,Q364857",1838,,"Fl. Tellur. 4: 117 1838",,,,,,343860-1,wfo-0000793419,5379017,,
-2fd7043c-8fcd-11eb-924d-9cd76263cbd0,species,picta,Cyathophora,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 117 1838",,,,,,343861-1,wfo-0000793420,5379020,,
+e2515d16-8fd1-11eb-924d-9cd76263cbd0,genus,Cyathopappus,,,F.Muell.,,,,"Fragm. 2(16): 157 (1861)",,,,,,urn:lsid:ipni.org:names:8497-1,wfo-4000010200,,,
+04e94868-8fb2-11eb-924d-9cd76263cbd0,species,abyssinicus,Cyathopappus,,"Hochst. ex Chiov.",0,1911,,"Ann. Bot. (Rome) 9: 74, in syn. (1911)",,,,,,urn:lsid:ipni.org:names:200842-1,wfo-0000005218,5701595,,
+48851f48-8fb2-11eb-924d-9cd76263cbd0,species,gnephosioides,Cyathopappus,,F.Muell.,0,1861,,"Fragm.  (1861)",,,,,,urn:lsid:ipni.org:names:121810-3,wfo-0000018916,5394887,,
+0fe98fd4-8fb7-11eb-924d-9cd76263cbd0,species,metalasioides,Cyathopappus,,Sch.Bip.,0,1861,,"Jahresber. Pollichia 18-19: 183 (1861)",,,,,,urn:lsid:ipni.org:names:200844-1,wfo-0000095978,5401668,,

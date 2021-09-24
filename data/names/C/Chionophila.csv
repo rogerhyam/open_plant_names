@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e19cf722-8fd1-11eb-924d-9cd76263cbd0,genus,Chionophila,,,Benth.,Q731808,1846,,"Prodr. 10: 331. 1846.",,,,,,37534-1,wfo-4000007925,3171898,,
-c8306e36-8fcc-11eb-924d-9cd76263cbd0,species,jamesii,Chionophila,,Benth.,Q731808,1846,,"Prodr. 10: 331 1846",,,,,,316208-2,wfo-0000602307,5414981,,
-c8308ec0-8fcc-11eb-924d-9cd76263cbd0,species,tweedyi,Chionophila,,"(Canby & Rose) Hend.","Q16648094,Q1336049,Q5819994",1900,,"Bull. Torrey Bot. Club 27: 352 1900",,,,b71094dc-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0000602308,5414982,,
-444327fc-8fb9-11eb-924d-9cd76263cbd0,species,gayophyta,Chionoptera,,DC.,Q123057,1838,,"14 1838",,,,,,192833-1,wfo-0000116879,3105477,,
+e19cf722-8fd1-11eb-924d-9cd76263cbd0,genus,Chionophila,,,Benth.,0,1846,,"Prodr. 10: 331 (1846)",,,,,,urn:lsid:ipni.org:names:37534-1,wfo-4000007925,3171898,,
+c8306e36-8fcc-11eb-924d-9cd76263cbd0,species,jamesii,Chionophila,,Benth.,0,1846,,"Prodr. 10: 331 (1846)",,,,,,urn:lsid:ipni.org:names:316208-2,wfo-0000602307,5414981,,
+c8308ec0-8fcc-11eb-924d-9cd76263cbd0,species,tweedyi,Chionophila,,"(Canby & Rose) Hend.",0,1900,,"Bull. Torrey Bot. Club 27: 352 (1900)",,,,b71094dc-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:56659-2,wfo-0000602308,5414982,,
+444327fc-8fb9-11eb-924d-9cd76263cbd0,species,gayophyta,Chionoptera,,DC.,0,1838,,"Prodr. 7(1): 14 (1838)",,,,,,urn:lsid:ipni.org:names:192833-1,wfo-0000116879,3105477,,
+21c6bc98-8fcd-11eb-924d-9cd76263cbd0,species,allenii,Chionoscilla,,G.Nicholson,0,1897,,"Gard. Chron. , ser. 3, 21: 191 (1897)",,,,,,urn:lsid:ipni.org:names:532689-1,wfo-0000763177,,,

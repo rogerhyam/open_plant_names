@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e408bc80-8fd1-11eb-924d-9cd76263cbd0,genus,Glia,,,Sond.,Q77215,1862,,"Fl. Cap. 2: 547. 1862.",,,,,,40030-1,wfo-4000015740,6026691,,
-027c0226-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Glia,,"(Houtt.) B.L.Burtt","Q73674,Q3286276",1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 199 1988 publ. 1989",,Q102418664,,,,946462-1,wfo-0000703693,3633459,,
-19c17970-8fcd-11eb-924d-9cd76263cbd0,species,decidua,Glia,,"B.-E.van Wyk",Q2024682,2010,,"S. African J. Bot. 76: 270 2010",,,,,,,wfo-0000746536,7567812,,
-027c1d6a-8fcd-11eb-924d-9cd76263cbd0,species,gummifera,Glia,,"(L.) Sond.","Q1043,Q77215",1862,,"Fl. Cap. 2: 548 1862",,,,b7f7a444-8fcc-11eb-924d-9cd76263cbd0,,842781-1,wfo-0000703694,3633451,,
-19c15dbe-8fcd-11eb-924d-9cd76263cbd0,species,pilulosa,Glia,,"B.-E.van Wyk",Q2024682,2010,,"S. African J. Bot. 76: 270 2010",,,,,,,wfo-0000746535,7933731,,
-027c3b74-8fcd-11eb-924d-9cd76263cbd0,species,prolifera,Glia,,"(Burm.f.) B.L.Burtt","Q716978,Q3286276",1991,,"Edinburgh J. Bot. 48: 208 1991",,Q55755861,,,,962881-1,wfo-0000703695,3633442,,
+e408bc80-8fd1-11eb-924d-9cd76263cbd0,genus,Glia,,,Sond.,0,1862,,"Fl. Cap. 2: 547 (1862)",,,,,,urn:lsid:ipni.org:names:40030-1,wfo-4000015740,6026691,,
+027c0226-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Glia,,"(Houtt.) B.L.Burtt",0,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 199 (1988 publ. 1989)",,Q102418664,,,,urn:lsid:ipni.org:names:946462-1,wfo-0000703693,3633459,,
+19c17970-8fcd-11eb-924d-9cd76263cbd0,species,decidua,Glia,,"B.-E.van Wyk",0,2010,,"S. African J. Bot. 76: 270 (2010)",,,,,,urn:lsid:ipni.org:names:77105055-1,wfo-0000746536,7567812,,
+027c1d6a-8fcd-11eb-924d-9cd76263cbd0,species,gummifera,Glia,,Sond.,0,1862,,"Fl. Cap. 2: 548 (1862)",,,,b7f7a444-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:842781-1,wfo-0000703694,3633451,,
+19c15dbe-8fcd-11eb-924d-9cd76263cbd0,species,pilulosa,Glia,,"B.-E.van Wyk",0,2010,,"S. African J. Bot. 76: 270 (2010)",,,,,,urn:lsid:ipni.org:names:77105097-1,wfo-0000746535,7933731,,
+027c3b74-8fcd-11eb-924d-9cd76263cbd0,species,prolifera,Glia,,"(Burm.f.) B.L.Burtt",0,1991,,"Edinburgh J. Bot. 48: 208 (1991)",,Q55755861,,,,urn:lsid:ipni.org:names:962881-1,wfo-0000703695,3633442,,

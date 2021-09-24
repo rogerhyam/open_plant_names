@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaec20fa-8fd1-11eb-924d-9cd76263cbd0,genus,Stuckertiella,,,Beauverd,Q3046641,,,,,,,,,297604-2,wfo-4000036963,3117065,,
-433f14d0-8fb2-11eb-924d-9cd76263cbd0,species,capitata,Stuckertiella,,"(Wedd.) Beauverd","Q983408,Q3046641",1913,,"206 1913",,,,,,251904-1,wfo-0000018009,3117066,,
-797a59a4-8fb9-11eb-924d-9cd76263cbd0,species,peregrina,Stuckertiella,,Beauverd,Q3046641,1913,,"208 1913",,,,,,251905-1,wfo-0000118679,3117070,,
+eaec20fa-8fd1-11eb-924d-9cd76263cbd0,genus,Stuckertiella,,,Beauverd,0,,,"Bull. Soc. Bot. Genève , ser. 2, 5: 205 (1913)",,,,,,urn:lsid:ipni.org:names:297604-2,wfo-4000036963,3117065,,
+433f14d0-8fb2-11eb-924d-9cd76263cbd0,species,capitata,Stuckertiella,,Beauverd,0,1913,,"Bull. Soc. Bot. Genève ser. 2, 5: 206. 1913",,,,,,urn:lsid:ipni.org:names:251904-1,wfo-0000018009,3117066,,
+797a59a4-8fb9-11eb-924d-9cd76263cbd0,species,peregrina,Stuckertiella,,Beauverd,0,1913,,"Bull. Soc. Bot. Genève ser. 2, 5: 208. 1913",,,,,,urn:lsid:ipni.org:names:251905-1,wfo-0000118679,3117070,,
+6b858dd8-1d4d-11ec-82c2-f14daa6f2d93,variety,albida,Stuckertiella,peregrina,Beauverd,,,,"Bull. Soc. Bot. Genève , ser. 2, 5: 208 (1913)",,,,,,urn:lsid:ipni.org:names:247393-2,wfo-0001378153,,,
+6b85b7a4-1d4d-11ec-82c2-f14daa6f2d93,variety,fusca,Stuckertiella,peregrina,Beauverd,,,,"Bull. Soc. Bot. Genève , ser. 2, 5: 208 (1913)",,,,,,urn:lsid:ipni.org:names:247394-2,wfo-0001378154,,,
+b2eafd76-1d47-11ec-82c2-f14daa6f2d93,variety,peregrina,Stuckertiella,peregrina,,,,,,,,,,,,wfo-0000049191,,,

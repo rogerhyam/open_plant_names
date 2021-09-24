@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4d31282-8fd1-11eb-924d-9cd76263cbd0,genus,Homalocladium,,,"(F.J.Müll.) L.H.Bailey","Q62086,Q152366",1929,,"Gentes Herbarum 2(1): 56. 1929.",,,,,,,wfo-4000018156,2888872,,
-0eb7a64e-8fcd-11eb-924d-9cd76263cbd0,species,platycladum,Homalocladium,,"(F.Muell.) L.H.Bailey","Q708002,Q152366",1929,,"Gentes Herb. 2: 58 1929",,,,82cc3028-8fcc-11eb-924d-9cd76263cbd0,,694604-1,wfo-0000724412,2888873,,
-92f3f890-8fcd-11eb-924d-9cd76263cbd0,species,colorata,Homaloclados,,"(Benth.) Hook.f.","Q731808,Q157501",1873,,"Gen. Pl. 2: 122 1873",,,,8ae39aac-8fcd-11eb-924d-9cd76263cbd0,,753296-1,wfo-0000983046,2897944,,
-92f41578-8fcd-11eb-924d-9cd76263cbd0,species,sellowiana,Homaloclados,,"(Benth.) Hook.f.","Q731808,Q157501",1873,,"Gen. Pl. 2: 122 1873",,,,,,753297-1,wfo-0000983047,2898208,,
-563ba242-8fb2-11eb-924d-9cd76263cbd0,species,schimperi,Homalocline,,"(Sch.Bip. ex A.Rich.) Sch.Bip. ex Schweinf.","Q65685,Q340247,Q63126",,,,,,,,,,wfo-0000021052,3092120,,
+e4d31282-8fd1-11eb-924d-9cd76263cbd0,genus,Homalocladium,,,L.H.Bailey,0,1929,,"Gentes Herbarum 2: 56 (1929)",,,,,,urn:lsid:ipni.org:names:32511-1,wfo-4000018156,2888872,,
+0eb7a64e-8fcd-11eb-924d-9cd76263cbd0,species,platycladum,Homalocladium,,L.H.Bailey,0,1929,,"Gentes Herbarum 2: 58 (1929)",,,,82cc3028-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:694604-1,wfo-0000724412,2888873,,
+92f3f890-8fcd-11eb-924d-9cd76263cbd0,species,colorata,Homaloclados,,Hook.f.,0,1873,,"Hooker's Icon. Pl. 12: 27 (1873)",,,,8ae39aac-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:753296-1,wfo-0000983046,2897944,,
+92f41578-8fcd-11eb-924d-9cd76263cbd0,species,sellowiana,Homaloclados,,Hook.f.,0,1873,,"Gen. Pl. 2: 122 (1873)",,,,,,urn:lsid:ipni.org:names:753297-1,wfo-0000983047,2898208,,
+563ba242-8fb2-11eb-924d-9cd76263cbd0,species,schimperi,Homalocline,,"(Sch.Bip. ex A.Rich.) Sch.Bip. ex Schweinf.",0,,,,,,,,,,wfo-0000021052,3092120,,

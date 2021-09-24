@@ -1,3 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec676386-8fd1-11eb-924d-9cd76263cbd0,genus,Normeyera,,,"Sennikov & Kurtto","Q5689553,Q18986716",2017,,"Memoranda Soc. Fauna Fl. Fenn. 93: 64 (2017)",,,,,,77165091-1,wfo-4001303345,9715805,,
-e7fd3948-8fcb-11eb-924d-9cd76263cbd0,species,borealis,Norna,,"(Sw.) Wahlenb.","Q632088,Q533348",1833,,"Fl. Suec. ed. 2: 561 1833",,,,,,,wfo-0000252068,5323575,,
+ec676386-8fd1-11eb-924d-9cd76263cbd0,genus,Normeyera,,,"Sennikov & Kurtto",0,2017,,"Memoranda Soc. Fauna Fl. Fenn. 93: 64 (2017)",,,,,,urn:lsid:ipni.org:names:77165091-1,wfo-4001303345,9715805,,
+83cd70ae-1d4d-11ec-82c2-f14daa6f2d93,species,doerriana,Normeyera,,"(N.Mey.) Sennikov & Kurtto",,,,"Memoranda Soc. Fauna Fl. Fenn. 93: 66 (2017)",,,,,,urn:lsid:ipni.org:names:77165102-1,wfo-0001428309,,,
+83cd9a0c-1d4d-11ec-82c2-f14daa6f2d93,species,hostii,Normeyera,,"(J.Jacq. ex Host) Sennikov & Kurtto",,,,"Memoranda Soc. Fauna Fl. Fenn. 93: 65 (2017)",,,,,,urn:lsid:ipni.org:names:77165093-1,wfo-0001428310,,,
+83cdbece-1d4d-11ec-82c2-f14daa6f2d93,species,margittaiana,Normeyera,,"(Jáv.) Sennikov & Kurtto",,,,"Memoranda Soc. Fauna Fl. Fenn. 93: 65 (2017)",,,,,,urn:lsid:ipni.org:names:77165096-1,wfo-0001428311,,,
+83cde836-1d4d-11ec-82c2-f14daa6f2d93,species,salatini,Normeyera,,"(Bernátová & Májovský) Sennikov & Kurtto",,,,"Memoranda Soc. Fauna Fl. Fenn. 93: 66 (2017)",,,,,,urn:lsid:ipni.org:names:77165101-1,wfo-0001428312,,,
+e7fd3948-8fcb-11eb-924d-9cd76263cbd0,species,borealis,Norna,,Wahlenb.,0,1833,,"Fl. Suec. , ed. 2: 561 (1833)",,,,,,urn:lsid:ipni.org:names:645602-1,wfo-0000252068,5323575,,

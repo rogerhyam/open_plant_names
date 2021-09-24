@@ -1,3 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec73e930-8fd1-11eb-924d-9cd76263cbd0,genus,Talamancaster,,,Pruski,Q5933245,2017,,"Phytoneuron 2017-61: 10 (2017)",,,,,,77174767-1,wfo-4001303433,9798078,,
-3bedaa78-8fcd-11eb-924d-9cd76263cbd0,species,medium,Talanelis,,"(L.) Raf.","Q1043,Q364857",1838,,"Fl. Tellur. 4: 70 1838",,,,,,145491-1,wfo-0000819209,3163711,,
+ec73e930-8fd1-11eb-924d-9cd76263cbd0,genus,Talamancaster,,,Pruski,0,2017,,"Phytoneuron 2017-61: 10 (2017)",,,,,,urn:lsid:ipni.org:names:77174767-1,wfo-4001303433,9798078,,
+7f82e632-1d4d-11ec-82c2-f14daa6f2d93,species,andinus,Talamancaster,,"(V.M.Badillo) Pruski",,,,"Phytoneuron 2017-61: 16. [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77174768-1,wfo-0001422055,,,
+7f8311fc-1d4d-11ec-82c2-f14daa6f2d93,species,cuchumatanicus,Talamancaster,,"(Beaman & De Jong) Pruski",,,,"Phytoneuron 2017-61: 20. [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77174769-1,wfo-0001422056,,,
+7f8342d0-1d4d-11ec-82c2-f14daa6f2d93,species,panamensis,Talamancaster,,"(S.F.Blake) Pruski",,,,"Phytoneuron 2017-61: 25. [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77174771-1,wfo-0001422057,,,
+7f838042-1d4d-11ec-82c2-f14daa6f2d93,species,sakiranus,Talamancaster,,"(Cuatrec.) Pruski",,,,"Phytoneuron 2017-61: 28. [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77174772-1,wfo-0001422058,,,
+7f83b26a-1d4d-11ec-82c2-f14daa6f2d93,species,westonii,Talamancaster,,"(Cuatrec.) Pruski",,,,"Phytoneuron 2017-61: 29. [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77174773-1,wfo-0001422059,,,
+3bedaa78-8fcd-11eb-924d-9cd76263cbd0,species,medium,Talanelis,,Raf.,0,1838,,"Fl. Tellur. 4: 70 (1838)",,,,,,urn:lsid:ipni.org:names:145491-1,wfo-0000819209,3163711,,

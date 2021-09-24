@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a2d56e-8fd1-11eb-924d-9cd76263cbd0,genus,Planodes,,,Greene,Q2661665,1912,,"Leafl. Bot. Observ. Crit. 2(10): 220–221. 1912.",,,,,,30226794-2,wfo-4000030039,3047315,,
-19fcaca2-8fcd-11eb-924d-9cd76263cbd0,species,mexicanum,Planodes,,"(S.Watson) Al-Shehbaz","Q960820,Q730643",2010,,"Harvard Pap. Bot. 15: 138 2010",,Q54652783,,,,77108212-1,wfo-0000747031,7436910,,
-454068aa-8fcc-11eb-924d-9cd76263cbd0,species,virginicum,Planodes,,"(L.) Greene","Q1043,Q2661665",1912,,"Leafl. Bot. Observ. Crit. 2: 221 1912",,,,,,201171-2,wfo-0000397144,5375347,,
+e8a2d56e-8fd1-11eb-924d-9cd76263cbd0,genus,Planodes,,,Greene,0,1912,,"Leafl. Bot. Observ. Crit. 2: 220 (1912)",,,,,,urn:lsid:ipni.org:names:30226794-2,wfo-4000030039,3047315,,
+19fcaca2-8fcd-11eb-924d-9cd76263cbd0,species,mexicana,Planodes,,"(S.Watson) Al-Shehbaz",0,2010,,"Harvard Pap. Bot. 15: 138 (2010)",,Q54652783,,,,urn:lsid:ipni.org:names:77108212-1,wfo-0000747031,7436910,,
+454068aa-8fcc-11eb-924d-9cd76263cbd0,species,virginicum,Planodes,,"(L.) Greene",0,1912,,"Leafl. Bot. Observ. Crit. 2: 221. 1912 [11 Apr 1912]",,,,,,urn:lsid:ipni.org:names:201171-2,wfo-0000397144,5375347,,

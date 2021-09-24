@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e984ef12-8fd1-11eb-924d-9cd76263cbd0,genus,Recordia,,,Moldenke,Q3127627,1934,,"Phytologia 1: 99. 1934.",,,,,,295531-2,wfo-4000032654,7297581,,
-034c3ff0-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Recordia,,Moldenke,Q3127627,1934,,"Phytologia 1: 99 1934",,,,,,218394-2,wfo-0000295250,4086259,,
+e984ef12-8fd1-11eb-924d-9cd76263cbd0,genus,Recordia,,,Moldenke,0,1934,,"Phytologia 1: 99 (1934)",,,,,,urn:lsid:ipni.org:names:295531-2,wfo-4000032654,7297581,,
+034c3ff0-8fcc-11eb-924d-9cd76263cbd0,species,boliviana,Recordia,,Moldenke,0,1934,,"Phytologia 1: 99 (1934)",,,,,,urn:lsid:ipni.org:names:218394-2,wfo-0000295250,4086259,,
+583965a6-1d4d-11ec-82c2-f14daa6f2d93,species,peredoi,Recordia,,Moldenke,,,,"Phytologia 50: 212 (-214). 1982",,,,,,urn:lsid:ipni.org:names:218395-2,wfo-0001351341,,,
+3ffb2cae-1d4d-11ec-82c2-f14daa6f2d93,species,reitzii,Recordia,,"(Moldenke) Thode & O'Leary",,,,"Syst. Bot. 38: 815 (2013)",,,,,,urn:lsid:ipni.org:names:77136109-1,wfo-0001318879,,,

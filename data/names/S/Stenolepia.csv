@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eac472ee-8fd1-11eb-924d-9cd76263cbd0,genus,Stenolepia,,,Alderw.,Q723907,1909,,"Bull. Dép. Agric. Indes Néerl. 27: 45. 1909.",,,,,,,wfo-4000036510,7319410,,
-ac2cebb4-8fcd-11eb-924d-9cd76263cbd0,species,tristis,Stenolepia,,"(Blume) Alderw.","Q76816,Q723907",1909,,"Bull. Dép. Agric. Indes Néerl. 27: 45 1909",,,,3be21552-8fbc-11eb-924d-9cd76263cbd0,,,wfo-0001035087,4042617,,
-15af9f74-8fcd-11eb-924d-9cd76263cbd0,species,elliotii,Stenolirion,,Baker,Q730330,,,"Hooker's Icon. Pl. 25: t. 2493 1896",,,,,,66823-1,wfo-0000737844,2853338,,
+eac472ee-8fd1-11eb-924d-9cd76263cbd0,genus,Stenolepia,,,Alderw.,0,1909,,"Bull. Dépt. Agric. Indes Néerl. 27: 45. 1909",,,,,,urn:lsid:ipni.org:names:17261910-1,wfo-4000036510,7319410,,
+47db1f7e-1d4d-11ec-82c2-f14daa6f2d93,species,speciosissima,Stenolepia,,"(Copel.) Holttum ex P.J.Edwards",,,,"Guide Alpine Subalpine Fl. Mount Jaya [R. J. Johns & al.] 88. 2006",,,,,,urn:lsid:ipni.org:names:60459788-2,wfo-0001329511,,,
+ac2cebb4-8fcd-11eb-924d-9cd76263cbd0,species,tristis,Stenolepia,,"(Blume) Alderw.",0,1909,,"Bull. Dép. Agric. Indes Néerl. 27: 46, t. 7 (1909)",,,,3be21552-8fbc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17261920-1,wfo-0001035087,4042617,,
+15af9f74-8fcd-11eb-924d-9cd76263cbd0,species,elliotii,Stenolirion,,Baker,0,,,"Hooker's Icon. Pl. 25: t. 2493 (1896)",,,,,,urn:lsid:ipni.org:names:66823-1,wfo-0000737844,2853338,,

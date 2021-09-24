@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0302f44-8fd1-11eb-924d-9cd76263cbd0,genus,Berendtiella,,,"Wettst. & Harms","Q78599,Q62415",1899,,"Nat. Pflanzenfam., Gesamtreg. 2–4: 459. 1899.",,,,,,,wfo-4000004463,7332541,,
-b09a3090-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Berendtiella,,"(A.Gray) Thieret","Q347356,Q21390395",1955,,"Ceiba 4: 305 1955",,Q103981657,,,,31589-2,wfo-0000564210,3734150,,
-bb0ee3f4-8fd1-11eb-924d-9cd76263cbd0,species,ghiesgreghtii,Berendtiella,,A.Gray,Q347356,,,,,,,,,,wfo-0001244913,7353188,,
-b09a4c7e-8fcc-11eb-924d-9cd76263cbd0,species,levigata,Berendtiella,,"(B.L.Rob. & Greenm.) Thieret","Q817600,Q933930,Q21390395",1955,,"Ceiba 4: 305 1955",,Q103981657,,b099d424-8fcc-11eb-924d-9cd76263cbd0,,31590-2,wfo-0000564211,3734140,,
-b09a861c-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Berendtiella,,"(Benth.) Thieret","Q731808,Q21390395",1955,,"Ceiba 4: 305 1955",,Q103981657,,,,31591-2,wfo-0000564213,3734128,,
-b09b240a-8fcc-11eb-924d-9cd76263cbd0,species,spinulosa,Berendtiella,,"(S.Watson) Thieret","Q960820,Q21390395",1955,,"Ceiba 4: 305 1955",,Q103981657,,b09a1312-8fcc-11eb-924d-9cd76263cbd0,,799739-1,wfo-0000564214,3734116,,
+e0302f44-8fd1-11eb-924d-9cd76263cbd0,genus,Berendtiella,,,"Wettst. & Harms",0,1899,,"Nat. Pflanzenfam. , Register: 459 (1899)",,,,,,urn:lsid:ipni.org:names:37461-1,wfo-4000004463,7332541,,
+b09a3090-8fcc-11eb-924d-9cd76263cbd0,species,coulteri,Berendtiella,,"(A.Gray) Thieret",0,1955,,"Ceiba 4: 305 (1955)",,Q103981657,,,,urn:lsid:ipni.org:names:31589-2,wfo-0000564210,3734150,,
+bb0ee3f4-8fd1-11eb-924d-9cd76263cbd0,species,ghiesgreghtii,Berendtiella,,A.Gray,0,,,,,,,,,,wfo-0001244913,7353188,,
+b09a4c7e-8fcc-11eb-924d-9cd76263cbd0,species,levigata,Berendtiella,,"(B.L.Rob. & Greenm.) Thieret",0,1955,,"Ceiba 4: 305 (1955)",,Q103981657,,b099d424-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:31590-2,wfo-0000564211,3734140,,
+b09a861c-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Berendtiella,,"(Benth.) Thieret",0,1955,,"Ceiba 4: 305 (1955)",,Q103981657,,,,urn:lsid:ipni.org:names:31591-2,wfo-0000564213,3734128,,
+b09b240a-8fcc-11eb-924d-9cd76263cbd0,species,spinulosa,Berendtiella,,"(S.Watson) Thieret",0,1955,,"Ceiba 4: 305 (1955)",,Q103981657,,b09a1312-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:31592-2,wfo-0000564214,3734116,,

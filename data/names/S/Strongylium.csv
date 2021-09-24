@@ -1,18 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a0fbf096-9bad-11eb-a8a2-19ed5c03f8d3,genus,Strongylium,,,Ditmar,,1809,,"Neues J. Bot. 3(1, 2): 55 (1809)",,,,a0fbf096-9bad-11eb-a8a2-19ed5c03f8d3,,,,,12238," "
-4bba40ce-9bad-11eb-a8a2-19ed5c03f8d3,species,aciculare,Strongylium,,Gray,Q540667,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,4bba40ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406673," "
-77525d0e-9bab-11eb-a8a2-19ed5c03f8d3,species,atrum,Strongylium,,Link,Q215466,1815,,"K. svenska Vetensk-Akad. Handl. 36: 110 (1815)",,,,77525d0e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,247559," "
-4bba8ba6-9bad-11eb-a8a2-19ed5c03f8d3,species,capitellatum,Strongylium,,"(Ach.) Gray","Q365923,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 485 (1821)",,,,41a072a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406674," "
-19281a6a-9bac-11eb-a8a2-19ed5c03f8d3,species,debile,Strongylium,,"(Turner & Borrer ex Sm.) Gray","Q2628753,Q3568447,Q458004,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 485 (1821)",,,,4693895c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406675," "
-065ebe16-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginoides,Strongylium,,"(Pers.) Ditmar",Q346451,1809,,"Neues J. Bot. 3(1, 2): (1809)",,,,73b520a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241197," "
-cd28a37c-9bac-11eb-a8a2-19ed5c03f8d3,species,majus,Strongylium,,Fr.,Q15405,,,,,,,cd28a37c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241344," "
-cce82b9e-9bac-11eb-a8a2-19ed5c03f8d3,species,minor,Strongylium,,Fr.,Q15405,,,,,,,cce82b9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,240800," "
-113128a6-8fcc-11eb-924d-9cd76263cbd0,species,hemisphaericus,Strongylocalyx,,"(Wight) Blume","Q1375864,Q76816",1850,,"Mus. Bot. 1: 89 1850",,,,,,601347-1,wfo-0000317220,3182228,,
-11314606-8fcc-11eb-924d-9cd76263cbd0,species,lanceifolius,Strongylocalyx,,"(Roxb.) Blume","Q748967,Q76816",1850,,"Mus. Bot. 1: 89 1850",,,,,,601348-1,wfo-0000317221,3184588,,
-1131632a-8fcc-11eb-924d-9cd76263cbd0,species,leptostachyus,Strongylocalyx,,"Blume ex Miq.","Q76816,Q76742",1855,,"Fl. Ned. Ind. 1(1): 443 1855",,,,,,601349-1,wfo-0000317222,3183437,,
-11318170-8fcc-11eb-924d-9cd76263cbd0,species,leptostemon,Strongylocalyx,,"(Korth.) Blume","Q442109,Q76816",1850,,"Mus. Bot. 1: 89 1850",,,,c33cf7e8-8fca-11eb-924d-9cd76263cbd0,,601350-1,wfo-0000317223,3183439,,
-11319dcc-8fcc-11eb-924d-9cd76263cbd0,species,oblatus,Strongylocalyx,,"(Roxb.) Blume","Q748967,Q76816",1850,,"Mus. Bot. 1: 89 1850",,,,,,601351-1,wfo-0000317224,3183252,,
-1131b9ce-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Strongylocalyx,,"(Roxb.) Blume","Q748967,Q76816",1850,,"Mus. Bot. 1: 89 1850",,,,874ebbec-8fcd-11eb-924d-9cd76263cbd0,,601352-1,wfo-0000317225,3184589,,
-1131d5ee-8fcc-11eb-924d-9cd76263cbd0,species,brassii,Strongylocaryum,,Burret,Q78365,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 98 1936",,Q55777655,,,,669974-1,wfo-0000317226,2733830,,
-1131f59c-8fcc-11eb-924d-9cd76263cbd0,species,latius,Strongylocaryum,,Burret,Q78365,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 100 1936",,Q55777655,,,,669975-1,wfo-0000317227,2733828,,
-11321720-8fcc-11eb-924d-9cd76263cbd0,species,macranthum,Strongylocaryum,,Burret,Q78365,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 96 1936",,Q55777655,,,,669976-1,wfo-0000317228,2733832,,
+4bba40ce-9bad-11eb-a8a2-19ed5c03f8d3,species,aciculare,Strongylium,,Gray,0,1821,,"Nat. Arr. Brit. Pl. (London) 1: (1821)",,,,4bba40ce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406673," "
+77525d0e-9bab-11eb-a8a2-19ed5c03f8d3,species,atrum,Strongylium,,Link,0,1815,,"K. svenska Vetensk-Akad. Handl. 36: 110 (1815)",,,,77525d0e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,247559," "
+4bba8ba6-9bad-11eb-a8a2-19ed5c03f8d3,species,capitellatum,Strongylium,,"(Ach.) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 485 (1821)",,,,41a072a2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406674," "
+19281a6a-9bac-11eb-a8a2-19ed5c03f8d3,species,debile,Strongylium,,"(Turner & Borrer ex Sm.) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 485 (1821)",,,,4693895c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,406675," "
+065ebe16-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginoides,Strongylium,,"(Pers.) Ditmar",0,1809,,"Neues J. Bot. 3(1, 2): (1809)",,,,73b520a4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241197," "
+cd28a37c-9bac-11eb-a8a2-19ed5c03f8d3,species,majus,Strongylium,,Fr.,0,,,,,,,cd28a37c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,241344," "
+cce82b9e-9bac-11eb-a8a2-19ed5c03f8d3,species,minor,Strongylium,,Fr.,0,,,,,,,cce82b9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,240800," "
+113128a6-8fcc-11eb-924d-9cd76263cbd0,species,hemisphaericus,Strongylocalyx,,Blume,0,1850,,"Mus. Bot. 1: 89 (1850)",,,,,,urn:lsid:ipni.org:names:601347-1,wfo-0000317220,3182228,,
+11314606-8fcc-11eb-924d-9cd76263cbd0,species,lanceifolius,Strongylocalyx,,Blume,0,1850,,"Mus. Bot. 1: 89 (1850)",,,,,,urn:lsid:ipni.org:names:601348-1,wfo-0000317221,3184588,,
+1131632a-8fcc-11eb-924d-9cd76263cbd0,species,leptostachyus,Strongylocalyx,,"Blume ex Miq.",0,1855,,"Fl. Ned. Ind. 1(1): 443 (1855)",,,,,,urn:lsid:ipni.org:names:601349-1,wfo-0000317222,3183437,,
+11318170-8fcc-11eb-924d-9cd76263cbd0,species,leptostemon,Strongylocalyx,,Blume,0,1850,,"Mus. Bot. 1: 89 (1850)",,,,c33cf7e8-8fca-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:601350-1,wfo-0000317223,3183439,,
+11319dcc-8fcc-11eb-924d-9cd76263cbd0,species,oblatus,Strongylocalyx,,Blume,0,1850,,"Mus. Bot. 1: 89 (1850)",,,,,,urn:lsid:ipni.org:names:601351-1,wfo-0000317224,3183252,,
+1131b9ce-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Strongylocalyx,,Blume,0,1850,,"Mus. Bot. 1: 89 (1850)",,,,874ebbec-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:601352-1,wfo-0000317225,3184589,,

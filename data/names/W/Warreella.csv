@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec055042-8fd1-11eb-924d-9cd76263cbd0,genus,Warreella,,,Schltr.,Q62278,1914,,"Orchideen 424. 1914.",,,,,,288328-2,wfo-4000040543,2842583,,
-1b3f828e-8fcc-11eb-924d-9cd76263cbd0,species,cyanea,Warreella,,"(Lindl.) Schltr.","Q378629,Q62278",1914,,"Orchideen 425 1914",,,,,,267757-2,wfo-0000333846,2842585,,
-1b3fde0a-8fcc-11eb-924d-9cd76263cbd0,species,medellinensis,Warreella,,"(Kraenzl.) Garay","Q542327,Q2937426",1953,,"Svensk Bot. Tidskr. 47: 224 1953",,,,,,267758-2,wfo-0000333847,2842589,,
-1b40412e-8fcc-11eb-924d-9cd76263cbd0,species,patula,Warreella,,Garay,Q2937426,1973,,"Orquideologia 8: 52 1973",,,,,,267759-2,wfo-0000333848,2842584,,
-1b406096-8fcc-11eb-924d-9cd76263cbd0,species,venusta,Warreella,,"(Ridl.) Schltr.","Q733709,Q62278",1914,,"Orchideen 425 1914",,,,680268f2-8fcc-11eb-924d-9cd76263cbd0,,267760-2,wfo-0000333849,2836085,,
+ec055042-8fd1-11eb-924d-9cd76263cbd0,genus,Warreella,,,Schltr.,0,1914,,"Orchideen Beschreib. Kult. Zücht. : 424 (1914)",,,,,,urn:lsid:ipni.org:names:288328-2,wfo-4000040543,2842583,,
+1b3f828e-8fcc-11eb-924d-9cd76263cbd0,species,cyanea,Warreella,,Schltr.,0,1914,,"Orchideen Beschreib. Kult. Zücht. : 425 (1914)",,,,,,urn:lsid:ipni.org:names:267757-2,wfo-0000333846,2842585,,
+42be0f7e-1d4d-11ec-82c2-f14daa6f2d93,form,alba,Warreella,cyanea,"(Rchb.f.) Meneguzzo",,,,"Phytotaxa 238: 30 (2015)",,,,,,urn:lsid:ipni.org:names:77156689-1,wfo-0001322637,,,
+1b3fde0a-8fcc-11eb-924d-9cd76263cbd0,species,medellinensis,Warreella,,"(Kraenzl.) Garay",0,1953,,"Svensk Bot. Tidskr. 47: 224 (1953)",,,,,,urn:lsid:ipni.org:names:267758-2,wfo-0000333847,2842589,,
+1b40412e-8fcc-11eb-924d-9cd76263cbd0,species,patula,Warreella,,Garay,0,1973,,"Orquideologia 8: 52 (1973)",,,,,,urn:lsid:ipni.org:names:267759-2,wfo-0000333848,2842584,,
+1b406096-8fcc-11eb-924d-9cd76263cbd0,species,venusta,Warreella,,Schltr.,0,1914,,"Orchideen Beschreib. Kult. Zücht. : 425 (1914)",,,,680268f2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:267760-2,wfo-0000333849,2836085,,

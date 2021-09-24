@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e36f41f4-8fd1-11eb-924d-9cd76263cbd0,genus,Eriochlamys,,,"Sond. & F.Muell.","Q77215,Q708002",,,,,,,,,8831-1,wfo-4000013818,3086878,,
-3db62ce2-8fb2-11eb-924d-9cd76263cbd0,species,behrii,Eriochlamys,,"Sond. & F.Muell.","Q77215,Q708002",1853,,"Linnaea 25 488 1853",,,,,,204784-1,wfo-0000017045,3086881,,
-fa5e7f8e-8fb2-11eb-924d-9cd76263cbd0,species,cupularis,Eriochlamys,,N.G.Walsh,Q6041421,2007,,"Muelleria 25: 111 (-113; figs. 2d, 6, map) 2007",,,,,,77084161-1,wfo-0000038838,3086882,,
-016bf496-8fb3-11eb-924d-9cd76263cbd0,species,eremaea,Eriochlamys,,N.G.Walsh,Q6041421,2007,,"106 (-109; figs. 2b, 4, map) 2007",,,,,,77084159-1,wfo-0000039478,3086879,,
-250d75de-8fb6-11eb-924d-9cd76263cbd0,species,knappii,Eriochlamys,,F.Muell.,Q708002,1883,,"4 1883",,,,,,,wfo-0000086174,3097701,,
-e4cc69e8-8fbb-11eb-924d-9cd76263cbd0,species,squamata,Eriochlamys,,N.G.Walsh,Q6041421,2007,,2007,,,,,,,wfo-0000137434,3086880,,
+e36f41f4-8fd1-11eb-924d-9cd76263cbd0,genus,Eriochlamys,,,"Sond. & F.Muell.",0,,,"Linnaea 25: 488 (1853)",,,,,,urn:lsid:ipni.org:names:8831-1,wfo-4000013818,3086878,,
+3db62ce2-8fb2-11eb-924d-9cd76263cbd0,species,behrii,Eriochlamys,,"Sond. & F.Muell.",0,1853,,"Linnaea 25: 488 (1853)",,,,,,urn:lsid:ipni.org:names:204784-1,wfo-0000017045,3086881,,
+fa5e7f8e-8fb2-11eb-924d-9cd76263cbd0,species,cupularis,Eriochlamys,,N.G.Walsh,0,2007,,"Muelleria 25: 111 (-113; figs. 2d, 6, m (2007)",,,,,,urn:lsid:ipni.org:names:77084161-1,wfo-0000038838,3086882,,
+016bf496-8fb3-11eb-924d-9cd76263cbd0,species,eremaea,Eriochlamys,,N.G.Walsh,0,2007,,"Muelleria 25: 106 (-109; figs. 2b, 4, m (2007)",,,,,,urn:lsid:ipni.org:names:77084159-1,wfo-0000039478,3086879,,
+250d75de-8fb6-11eb-924d-9cd76263cbd0,species,knappii,Eriochlamys,,F.Muell.,0,1883,,"Australas. Chem. Druggist (May 1883)",,,,,,urn:lsid:ipni.org:names:204785-1,wfo-0000086174,3097701,,
+e4cc69e8-8fbb-11eb-924d-9cd76263cbd0,species,squamata,Eriochlamys,,N.G.Walsh,0,2007,,"Muelleria 25: 109 (-111; figs. 2c, 5, m (2007)",,,,,,urn:lsid:ipni.org:names:77084160-1,wfo-0000137434,3086880,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e846e88a-8fd1-11eb-924d-9cd76263cbd0,genus,Petermannia,,,F.Muell.,Q708002,1860,,"Fragm. 2: 92. 1860.",,,,,,331261-2,wfo-4000028931,2739605,,
-f1dfc3d0-8fcc-11eb-924d-9cd76263cbd0,species,cirrosa,Petermannia,,F.Muell.,Q708002,1860,,"Fragm. 2: 93 1860",,,,,,318859-1,wfo-0000673829,5294785,,
-3d6ddd32-8fcd-11eb-924d-9cd76263cbd0,species,cumingiana,Petermannia,,Klotzsch,Q67003,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 195 1855",,,,,,,wfo-0000822249,5680154,,
-3d6e25a8-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Petermannia,,"(Jack) Klotzsch","Q15482,Q67003",1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 124 1854",,,,3e473b18-8fcd-11eb-924d-9cd76263cbd0,,106243-1,wfo-0000822251,5680153,,
-3d6d842c-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Petermannia,,"(Jack) Klotzsch","Q15482,Q67003",1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 124 1854",,,,3e579634-8fcd-11eb-924d-9cd76263cbd0,,106244-1,wfo-0000822248,5680152,,
-3d6e4178-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Petermannia,,"(Jack) Klotzsch","Q15482,Q67003",1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 124 1854",,,,,,106245-1,wfo-0000822252,5680151,,
+e846e88a-8fd1-11eb-924d-9cd76263cbd0,genus,Petermannia,,,F.Muell.,0,1860,,"Fragm. 2: 93 (1860)",,,,,,urn:lsid:ipni.org:names:331261-2,wfo-4000028931,2739605,,
+f1dfc3d0-8fcc-11eb-924d-9cd76263cbd0,species,cirrosa,Petermannia,,F.Muell.,0,1860,,"Fragm. 2: 93 (1860)",,,,,,urn:lsid:ipni.org:names:318859-1,wfo-0000673829,5294785,,
+3d6ddd32-8fcd-11eb-924d-9cd76263cbd0,species,cumingiana,Petermannia,,Klotzsch,0,1854,,"Monatsber. Königl. Preuss. Akad. Wiss. Berlin (Maerz 1854) 124.",,,,,,urn:lsid:ipni.org:names:106242-1,wfo-0000822249,5680154,,
+3d6e25a8-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Petermannia,,"(Jack) Klotzsch",0,1854,,"Monatsber. Königl. Preuss. Akad. Wiss. Berlin (Maerz 1854) 124.",,,,3e473b18-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:106243-1,wfo-0000822251,5680153,,
+3d6d842c-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Petermannia,,"(Jack) Klotzsch",0,1854,,"Monatsber. Königl. Preuss. Akad. Wiss. Berlin (Maerz 1854) 124.",,,,3e579634-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:106244-1,wfo-0000822248,5680152,,
+3d6e4178-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Petermannia,,"(Jack) Klotzsch",0,1854,,"Monatsber. Königl. Preuss. Akad. Wiss. Berlin (Maerz 1854) 124.",,,,,,urn:lsid:ipni.org:names:106245-1,wfo-0000822252,5680151,,

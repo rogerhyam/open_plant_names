@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e267a576-8fd1-11eb-924d-9cd76263cbd0,genus,Cypselocarpus,,,F.Muell.,Q708002,1873,,"Fragm. 8: 36. 1873.",,,,,,6828-1,wfo-4000010485,7330836,,
-db5b8608-8fcc-11eb-924d-9cd76263cbd0,species,haloragoides,Cypselocarpus,,"(Benth.) F.Muell.","Q731808,Q708002",1873,,"Fragm. 8: 36 1873",,,,,,165489-1,wfo-0000634788,3718331,,
-7eb24c44-8fb2-11eb-924d-9cd76263cbd0,species,eckloniana,Cypselodontia,,DC.,Q123057,1838,,"286 1838",,,,,,200923-1,wfo-0000026163,3103383,,
+e267a576-8fd1-11eb-924d-9cd76263cbd0,genus,Cypselocarpus,,,F.Muell.,0,1873,,"Fragm. 8: 36 (1873)",,,,,,urn:lsid:ipni.org:names:6828-1,wfo-4000010485,7330836,,
+db5b8608-8fcc-11eb-924d-9cd76263cbd0,species,haloragoides,Cypselocarpus,,F.Muell.,0,1873,,"Fragm. 8: 36 (1873)",,,,,,urn:lsid:ipni.org:names:165489-1,wfo-0000634788,3718331,,
+7eb24c44-8fb2-11eb-924d-9cd76263cbd0,species,eckloniana,Cypselodontia,,DC.,0,1838,,"Prodr. 7(1): 286 (1838)",,,,,,urn:lsid:ipni.org:names:200923-1,wfo-0000026163,3103383,,

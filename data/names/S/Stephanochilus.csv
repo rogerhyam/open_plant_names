@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eacac608-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanochilus,,,,,,,,,,,,,,wfo-4000036577,,,
-007a3db4-8fb2-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"Coss. & Durieu ex Benth. & Hook.f.","Q1276939,Q703990,Q731808,Q157501",1873,,"Gen. ii. 477 (1873)",,,,,,251164-1,wfo-0000003213,7800615,,
-6e630ba8-8fb7-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"(Benth. & Hook.f.) Maire","Q731808,Q157501,Q2661320",1935,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 26. 1935. 24 1935",,,,fdc7594e-8fb1-11eb-924d-9cd76263cbd0,,,wfo-0000099685,,,
-dd14dc76-8fbb-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"Coss. & Durieu","Q1276939,Q703990",,,,,,,,,,wfo-0000137206,7800615,,
-c348d558-8fb7-11eb-924d-9cd76263cbd0,variety,flavescens,Stephanochilus,omphalodes,"Le Houér.",Q20669508,,,,,,,,,,wfo-0000102900,7888450,,
+eacac608-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanochilus,,,"Coss. & Durieu ex Benth. & Hook.f.",,,,"Gen. Pl. 2(1): 477 (1873)",,,,,,urn:lsid:ipni.org:names:11145-1,wfo-4000036577,,,
+007a3db4-8fb2-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"Coss. & Durieu ex Benth. & Hook.f.",0,1873,,"Gen. Pl. 2(1): 477 (1873)",,,,,,urn:lsid:ipni.org:names:251164-1,wfo-0000003213,7800615,,
+6e630ba8-8fb7-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"(Benth. & Hook.f.) Maire",0,1935,,"Maire in Bull. Soc. Hist. Nat. Afrique N. 26. 1935. 24 1935",,,,fdc7594e-8fb1-11eb-924d-9cd76263cbd0,,,wfo-0000099685,,,
+dd14dc76-8fbb-11eb-924d-9cd76263cbd0,species,omphalodes,Stephanochilus,,"Coss. & Durieu",0,,,,,,,,,,wfo-0000137206,7800615,,
+c348d558-8fb7-11eb-924d-9cd76263cbd0,variety,flavescens,Stephanochilus,omphalodes,"Le Houér.",0,,,,,,,,,,wfo-0000102900,7888450,,
+b2e654ce-1d47-11ec-82c2-f14daa6f2d93,variety,omphalodes,Stephanochilus,omphalodes,,,,,,,,,,,,wfo-0000049164,,,

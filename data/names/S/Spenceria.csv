@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea932d24-8fd1-11eb-924d-9cd76263cbd0,genus,Spenceria,,,Trimen,Q2462643,1879,,"J. Bot. 17: 97. 1879.",,,,,,34045-1,wfo-4000035923,3013374,,
-9438836a-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Spenceria,,Stapf,Q78630,1800,,"Curtis's botanical magazine ; 1800 sub t.9007 1923",,,,,,,wfo-0000985940,5365201,,
-943b94ec-8fcd-11eb-924d-9cd76263cbd0,species,ramalana,Spenceria,,Trimen,Q2462643,1879,,"; 1879 97, t.201 1879",,,,,,,wfo-0000985965,5365198,,
-9438b3c6-8fcd-11eb-924d-9cd76263cbd0,variety,parviflora,Spenceria,ramalana,"(Stapf) Kitam.","Q78630,Q4222439",1954,,"; 1954 172 1953",,,,,,,wfo-0000985941,5365200,,
+ea932d24-8fd1-11eb-924d-9cd76263cbd0,genus,Spenceria,,,Trimen,0,1879,,"J. Bot. 17: 97 (1879)",,,,,,urn:lsid:ipni.org:names:34045-1,wfo-4000035923,3013374,,
+9438836a-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Spenceria,,Stapf,0,1800,,"Bot. Mag. 149: t. 9007 (1923)",,,,,,urn:lsid:ipni.org:names:742066-1,wfo-0000985940,5365201,,
+943b94ec-8fcd-11eb-924d-9cd76263cbd0,species,ramalana,Spenceria,,Trimen,0,1879,,"J. Bot. 17: 97 (1879)",,,,,,urn:lsid:ipni.org:names:742067-1,wfo-0000985965,5365198,,
+9438b3c6-8fcd-11eb-924d-9cd76263cbd0,variety,parviflora,Spenceria,ramalana,"(Stapf) Kitam.",0,1954,,"; 1954 172 1953",,,,,,,wfo-0000985941,5365200,,
+9bfae074-1d4a-11ec-82c2-f14daa6f2d93,variety,ramalana,Spenceria,ramalana,,,,,,,,,,,,wfo-0000984106,,,

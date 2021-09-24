@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb162ef4-8fd1-11eb-924d-9cd76263cbd0,genus,Tamamschjanella,,,"Pimenov & Kljuykov","Q6012784,Q18619790",1996,,"Bot. Žhurn. (Moscow & Leningrad) 81(8): 75. 1996.",,,,,,992771-1,wfo-4000037497,7318570,,
-4f50be4e-8fcc-11eb-924d-9cd76263cbd0,species,rhizomatica,Tamamschjanella,,"(Hartvig) Pimenov & Kljuykov","Q18985332,Q6012784,Q18619790",1996,,"Bot. Zhurn. (Moscow & Leningrad) 81(8): 78 1996",,,,,,992773-1,wfo-0000409913,3636935,,
-af78c7ca-8fcd-11eb-924d-9cd76263cbd0,species,rubella,Tamamschjanella,,"(E.A.Busch) Pimenov & Kljuykov","Q21340446,Q6012784,Q18619790",1996,,"Bot. Žurn. (Moscow & Leningrad) 81(8): 76 1996",,,,,,992772-1,wfo-0001042540,3636928,,
+eb162ef4-8fd1-11eb-924d-9cd76263cbd0,genus,Tamamschjanella,,,"Pimenov & Kljuykov",0,1996,,"Bot. Zhurn. (Moscow & Leningrad) 81(8): 75 (1996)",,,,,,urn:lsid:ipni.org:names:992771-1,wfo-4000037497,7318570,,
+4bbb3ba6-1d4d-11ec-82c2-f14daa6f2d93,species,cruciata,Tamamschjanella,,"(Bornm. & H.Wolff) Pimenov & Zakharova",,,,"Willdenowia 42: 160 (2012)",,,,,,urn:lsid:ipni.org:names:77124916-1,wfo-0001334765,,,
+4f50be4e-8fcc-11eb-924d-9cd76263cbd0,species,rhizomatica,Tamamschjanella,,"(Hartvig) Pimenov & Kljuykov",0,1996,,"Bot. Zhurn. (Moscow & Leningrad) 81(8): 78 (1996)",,,,,,urn:lsid:ipni.org:names:992773-1,wfo-0000409913,3636935,,
+af78c7ca-8fcd-11eb-924d-9cd76263cbd0,species,rubella,Tamamschjanella,,"(E.A.Busch) Pimenov & Kljuykov",0,1996,,"Bot. Zhurn. (Moscow & Leningrad) 81(8): 76 (1996)",,,,,,urn:lsid:ipni.org:names:992772-1,wfo-0001042540,3636928,,

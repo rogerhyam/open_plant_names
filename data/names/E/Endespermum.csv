@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e34d7470-8fd1-11eb-924d-9cd76263cbd0,genus,Endespermum,,,,,,,,,,,,,,wfo-4000013385,7302072,,
-ee454f38-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Endespermum,,"Blume ex Miq.","Q76816,Q76742",1855,,"Fl. Ned. Ind. 1(1): 128 1855",,,,,,493805-1,wfo-0000667553,3970913,,
-ee456ac2-8fcc-11eb-924d-9cd76263cbd0,species,penduliflorum,Endespermum,,"Zipp. ex Miq.","Q2643365,Q76742",1855,,"Fl. Ned. Ind. 1(1): 133 1855",,,,,,493806-1,wfo-0000667554,3970911,,
-ee458732-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Endespermum,,"Blume ex Miq.","Q76816,Q76742",1855,,"Fl. Ned. Ind. 1(1): 131 1855",,,,,,493807-1,wfo-0000667555,3970906,,
-12a05a4e-8fc8-11eb-924d-9cd76263cbd0,species,scandens,Endespermum,,Blume,Q76816,,,,,,,,,,wfo-0000205956,2968763,,
-ee45abf4-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Endespermum,,"Champ. ex Thwaites","Q588623,Q2656749",1859,,"Enum. Pl. Zeyl. 94 1859",,Q96016554,,,,493810-1,wfo-0000667556,3970899,,
+e34d7470-8fd1-11eb-924d-9cd76263cbd0,genus,Endespermum,,,Blume,,,,"Catalogus : 24 (1823)",,,,,,urn:lsid:ipni.org:names:22362-1,wfo-4000013385,7302072,,
+ee454f38-8fcc-11eb-924d-9cd76263cbd0,species,diversifolium,Endespermum,,"Blume ex Miq.",0,1855,,"Fl. Ned. Ind. 1(1): 128 (1855)",,,,,,urn:lsid:ipni.org:names:493805-1,wfo-0000667553,3970913,,
+ee456ac2-8fcc-11eb-924d-9cd76263cbd0,species,penduliflorum,Endespermum,,"Zipp. ex Miq.",0,1855,,"Fl. Ned. Ind. 1(1): 133 (1855)",,,,,,urn:lsid:ipni.org:names:493806-1,wfo-0000667554,3970911,,
+ee458732-8fcc-11eb-924d-9cd76263cbd0,species,retusum,Endespermum,,"Blume ex Miq.",0,1855,,"Fl. Ned. Ind. 1(1): 131 (1855)",,,,,,urn:lsid:ipni.org:names:493807-1,wfo-0000667555,3970906,,
+12a05a4e-8fc8-11eb-924d-9cd76263cbd0,species,scandens,Endespermum,,Blume,0,,,"Catalogus : 25 (1823)",,,,,,urn:lsid:ipni.org:names:493809-1,wfo-0000205956,2968763,,
+ee45abf4-8fcc-11eb-924d-9cd76263cbd0,species,zeylanicum,Endespermum,,"Champ. ex Thwaites",0,1859,,"Enum. Pl. Zeyl. : 94 (1859)",,Q96016554,,,,urn:lsid:ipni.org:names:493810-1,wfo-0000667556,3970899,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb9d5410-8fd1-11eb-924d-9cd76263cbd0,genus,Tripetaleia,,,"Siebold & Zucc.","Q77140,Q77121",1843,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 3(3): 731. 1843.",,,,,,,wfo-4000039249,7327743,,
-cd85ca3e-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Tripetaleia,,Maxim.,Q77640,1867,,"Bull. Acad. Imp. Sci. Saint-Petersbourg 40: 433 1867",,,,,,334163-1,wfo-0001278995,4165729,,
-13bee238-8fcd-11eb-924d-9cd76263cbd0,variety,longiracemosa,Tripetaleia,bracteata,Nakai,Q704751,1930,,"Bot. Mag. (Tokyo) 44: 530 1930",,,,,,,wfo-0000733968,7602707,,
-527a1c96-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Tripetaleia,,"Siebold & Zucc.","Q77140,Q77121",1843,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 3(2): 731 1843",,,,,,334164-1,wfo-0000413802,7327744,,
-52799be0-8fcc-11eb-924d-9cd76263cbd0,form,albiflora,Tripetaleia,paniculata,Y.Kimura,Q11519134,1940,,"J. Jap. Bot. 16: 59 1940",,,,,,77072092-1,wfo-0000413801,4165713,,
-52738b60-8fcc-11eb-924d-9cd76263cbd0,species,yakusimensis,Tripetaleia,,Nakai,Q704751,1926,,"Bot. Mag. (Tokyo) 40: 485 1926",,Q55762596,,,,334165-1,wfo-0000413785,4165705,,
+eb9d5410-8fd1-11eb-924d-9cd76263cbd0,genus,Tripetaleia,,,"Siebold & Zucc.",0,1843,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 3(2): 731 (1843)",,,,,,urn:lsid:ipni.org:names:14889-1,wfo-4000039249,7327743,,
+cd85ca3e-8fd1-11eb-924d-9cd76263cbd0,species,bracteata,Tripetaleia,,Maxim.,0,1867,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 11: 433 (1867)",,,,,,urn:lsid:ipni.org:names:334163-1,wfo-0001278995,4165729,,
+13bee238-8fcd-11eb-924d-9cd76263cbd0,variety,longiracemosa,Tripetaleia,bracteata,Nakai,0,1930,,"Bot. Mag. (Tokyo) 44: 530 1930",,,,,,,wfo-0000733968,7602707,,
+527a1c96-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Tripetaleia,,"Siebold & Zucc.",0,1843,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 3(2): 732 (1843)",,,,,,urn:lsid:ipni.org:names:334164-1,wfo-0000413802,7327744,,
+52799be0-8fcc-11eb-924d-9cd76263cbd0,form,albiflora,Tripetaleia,paniculata,Y.Kimura,0,1940,,"J. Jap. Bot. 16(1): 59. 1940 [Jan 1940]",,,,,,urn:lsid:ipni.org:names:77072092-1,wfo-0000413801,4165713,,
+52738b60-8fcc-11eb-924d-9cd76263cbd0,species,yakusimensis,Tripetaleia,,Nakai,0,1926,,"Bot. Mag. (Tokyo) 40: 485 (1926)",,Q55762596,,,,urn:lsid:ipni.org:names:334165-1,wfo-0000413785,4165705,,

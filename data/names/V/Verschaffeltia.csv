@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebe8ac3a-8fd1-11eb-924d-9cd76263cbd0,genus,Verschaffeltia,,,H.Wendl.,Q66720,1865,,"Ill. Hort. 12 Misc.: 5. 1865.",,,,,,31552-1,wfo-4000040183,2739115,,
-1a7d4606-8fcc-11eb-924d-9cd76263cbd0,species,melanochaetes,Verschaffeltia,,H.Wendl.,Q66720,1871,,"Ill. Hort. 18: 54 1871",,,,,,,wfo-0000332487,2733491,,
-1a7d60be-8fcc-11eb-924d-9cd76263cbd0,species,splendida,Verschaffeltia,,H.Wendl.,Q66720,1865,,"Ill. Hort. 12(Misc.): 6 1865",,,,,,670228-1,wfo-0000332488,2739116,,
-7570dcca-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,,,"(A.P.Khokhr.) Lysenko","Q2846812,Q36538359",1764,,"Bot. Zhurn. (Moscow & Leningrad) 95: 1764 2010",,,,520cc28a-8fcd-11eb-924d-9cd76263cbd0,,77111052-1,wfo-0000921456,,,
+ebe8ac3a-8fd1-11eb-924d-9cd76263cbd0,genus,Verschaffeltia,,,H.Wendl.,0,1865,,"Ill. Hort. 12(Misc.): 5 (1865)",,,,,,urn:lsid:ipni.org:names:31552-1,wfo-4000040183,2739115,,
+1a7d4606-8fcc-11eb-924d-9cd76263cbd0,species,melanochaetes,Verschaffeltia,,"H.Wendl. ex André",0,1871,,"Ill. Hort. xviii. (1871) 54. t. 54.",,,,,,urn:lsid:ipni.org:names:670227-1,wfo-0000332487,2733491,,
+1a7d60be-8fcc-11eb-924d-9cd76263cbd0,species,splendida,Verschaffeltia,,H.Wendl.,0,1865,,"Ill. Hort. 12(Misc.): 6 (1865)",,,,,,urn:lsid:ipni.org:names:670228-1,wfo-0000332488,2739116,,

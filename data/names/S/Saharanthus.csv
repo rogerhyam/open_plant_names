@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e0fd84-8fd1-11eb-924d-9cd76263cbd0,genus,Saharanthus,,,"M.B.Crespo & Lledó","Q5992420,Q21519387",2000,,"Bot. J. Linn. Soc. 132(2): 169. 2000.",,Q43303921,,,,1013530-1,wfo-4000033798,8147787,,
-8b81c1ba-8fcc-11eb-924d-9cd76263cbd0,species,ifniensis,Saharanthus,,"(Caball.) M.B.Crespo & Lledó","Q5707146,Q5992420,Q21519387",2000,,"Bot. J. Linn. Soc. 132: 169 2000",,Q43303921,,,,1013531-1,wfo-0000503719,4089269,,
-e31f6ca2-8fcb-11eb-924d-9cd76263cbd0,species,sahuti,,,Carrière,Q274614,1885,,"Rev. Hort. 57: 513 1885",,,,,,668272-1,wfo-0000243570,,,
-ebaf9908-8fcd-11eb-924d-9cd76263cbd0,species,novae-zealandiae,Sainsburia,,Dixon,Q5904348,1941,,"Bryologist 44: 40 1941",,,,,,,wfo-0001174928,7466121,,
+e9e0fd84-8fd1-11eb-924d-9cd76263cbd0,genus,Saharanthus,,,"M.B.Crespo & M.D.Lledó",0,2000,,"Bot. J. Linn. Soc. 132: 169 (2000)",,Q43303921,,,,urn:lsid:ipni.org:names:1013530-1,wfo-4000033798,8147787,,
+8b81c1ba-8fcc-11eb-924d-9cd76263cbd0,species,ifniensis,Saharanthus,,"(Caball.) M.B.Crespo & M.D.Lledó",0,2000,,"Bot. J. Linn. Soc. 132: 169 (2000)",,Q43303921,,,,urn:lsid:ipni.org:names:1013531-1,wfo-0000503719,4089269,,
+ebaf9908-8fcd-11eb-924d-9cd76263cbd0,species,novae-zealandiae,Sainsburia,,Dixon,0,1941,,"Bryologist 44: 40 1941",,,,,,,wfo-0001174928,7466121,,

@@ -1,3 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e79dccb4-8fd1-11eb-924d-9cd76263cbd0,genus,Orchiplatanthera,,,E.G.Camus,Q3823236,1892,,"J. Bot. (Morot) 6: 474. 1892.",,,,,,30169-1,wfo-4000027037,2804579,,
-af23e9ea-8fd1-11eb-924d-9cd76263cbd0,species,thilensis,Orchiplatanthera,,"G.Keller & Jeanj.","Q1252447,Q5666353",1937,,"Actes Soc. Linn. Bordeaux 89: Proc.–Verb. 41 1937",,,,,,648321-1,wfo-0001222965,3652449,,
+e79dccb4-8fd1-11eb-924d-9cd76263cbd0,genus,Orchiplatanthera,,,E.G.Camus,0,1892,,"J. Bot. (Morot) 6: 474 (1892)",,,,,,urn:lsid:ipni.org:names:30169-1,wfo-4000027037,2804579,,
+ec3edcd2-8fcb-11eb-924d-9cd76263cbd0,species,andreasii,Orchiplatanthera,,Kümpel,0,1977,,"Mitt. Arbeitskreises Heimische Orchideen 7: 71 (1977 publ. 1978)",,,,,,urn:lsid:ipni.org:names:77097010-1,wfo-0000258872,,,
+ec3f2ce6-8fcb-11eb-924d-9cd76263cbd0,species,chevallieriana,Orchiplatanthera,,E.G.Camus,0,1892,,"J. Bot. (Morot) 6: 474 (1892)",,,,ec5c931c-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:648204-1,wfo-0000258874,,,
+ec3f5798-8fcb-11eb-924d-9cd76263cbd0,species,fournieri,Orchiplatanthera,,E.G.Camus,0,1924,,"Rivièra Sci. 11: 62 (1924)",,,,,,urn:lsid:ipni.org:names:648319-1,wfo-0000258875,,,
+49286620-1d4d-11ec-82c2-f14daa6f2d93,species,somersetensis,Orchiplatanthera,,A.Camus,,,,"Iconogr. Orchid. Europe : 410 (1928)",,,,,,urn:lsid:ipni.org:names:648320-1,wfo-0001331273,,,
+ec3f78ea-8fcb-11eb-924d-9cd76263cbd0,species,somersetiensis,Orchiplatanthera,,A.Camus,0,1928,,"Iconogr. Orchid. Europe : 410 (1928)",,,,,,urn:lsid:ipni.org:names:648320-1,wfo-0000258876,,,
+af23e9ea-8fd1-11eb-924d-9cd76263cbd0,species,thilensis,Orchiplatanthera,,"G.Keller & Jeanj.",0,1937,,"Actes Soc. Linn. Bordeaux 89: Proc.-Verb., 41, sine descr. lat. 1937",,,,,,urn:lsid:ipni.org:names:648321-1,wfo-0001222965,3652449,,

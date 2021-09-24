@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e79eaf3a-8fd1-11eb-924d-9cd76263cbd0,genus,Orectanthe,,,Maguire,Q2695559,1958,,"Mem. New York Bot. Gard. 10(1): 2. 1958.",,,,,,298337-2,wfo-4000027052,2692592,,
-7e24217a-8fcc-11eb-924d-9cd76263cbd0,species,ptaritepuiana,Orectanthe,,"(Steyerm.) Maguire","Q250148,Q2695559",1958,,"Mem. New York Bot. Gard. 10(1): 5 1958",,,,,,175814-2,wfo-0000481164,2692593,,
-7e25c9e4-8fcc-11eb-924d-9cd76263cbd0,species,sceptrum,Orectanthe,,"(Oliv.) Maguire","Q1161960,Q2695559",1958,,"Mem. New York Bot. Gard. 10(1): 3 1958",,,,1d0dbbda-8fcc-11eb-924d-9cd76263cbd0,,175815-2,wfo-0000481175,2692595,,
-7e278b44-8fcc-11eb-924d-9cd76263cbd0,subspecies,occidentalis,Orectanthe,sceptrum,Maguire,Q2695559,1958,,"Mem. New York Bot. Gard. 10(1): 5 1958",,,,,,,wfo-0000481186,2692597,,
-ed36c050-8fcb-11eb-924d-9cd76263cbd0,species,panamensis,Oregandra,,Standl.,Q1333160,1929,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 4: 265 1929",,,,,,329742-2,wfo-0000260221,2908047,,
+e79eaf3a-8fd1-11eb-924d-9cd76263cbd0,genus,Orectanthe,,,Maguire,0,1958,,"Mem. New York Bot. Gard. 10(1): 2 (1958)",,,,,,urn:lsid:ipni.org:names:298337-2,wfo-4000027052,2692592,,
+7e24217a-8fcc-11eb-924d-9cd76263cbd0,species,ptaritepuiana,Orectanthe,,"(Steyerm.) Maguire",0,1958,,"Mem. New York Bot. Gard. 10(1): 5 (1958)",,,,,,urn:lsid:ipni.org:names:175814-2,wfo-0000481164,2692593,,
+7e25c9e4-8fcc-11eb-924d-9cd76263cbd0,species,sceptrum,Orectanthe,,"(Oliv.) Maguire",0,1958,,"Mem. New York Bot. Gard. 10(1): 3 (1958)",,,,1d0dbbda-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:175815-2,wfo-0000481175,2692595,,
+697045c4-1d4d-11ec-82c2-f14daa6f2d93,variety,occidentalis,Orectanthe,sceptrum,Maguire,,,,"Mem. New York Bot. Gard. 10(1): 5 (1958)",,,,,,urn:lsid:ipni.org:names:175816-2,wfo-0001375452,,,
+7e278b44-8fcc-11eb-924d-9cd76263cbd0,subspecies,occidentalis,Orectanthe,sceptrum,Maguire,0,1958,,"Mem. New York Bot. Gard. 10(1): 5 (1958)",,,,,,urn:lsid:ipni.org:names:175816-2,wfo-0000481186,2692597,,
+ed36c050-8fcb-11eb-924d-9cd76263cbd0,species,panamensis,Oregandra,,Standl.,0,1929,,"Publ. Field Columb. Mus., Bot. Ser. 4: 265 (1929)",,,,,,urn:lsid:ipni.org:names:329742-2,wfo-0000260221,2908047,,

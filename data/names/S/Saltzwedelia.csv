@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e7d19a-8fd1-11eb-924d-9cd76263cbd0,genus,Saltzwedelia,,,,,,,,,,,,,,wfo-4000033882,7302785,,
-887b0f3a-8fcc-11eb-924d-9cd76263cbd0,species,sagittalis,Saltzwedelia,,"(L.) P.Gaertn., B.Mey. & Scherb.","Q1043,Q2662931,Q4523032",1800,,"Oekon. Fl. Wetterau 2: 498 1800",,,,,,517854-1,wfo-0000499012,3978844,,
-887b65b6-8fcc-11eb-924d-9cd76263cbd0,species,tetragona,Saltzwedelia,,Fourr.,Q925866,1868,,"Ann. Soc. Linn. Lyon n.s., 16: 357 1868",,,,,,517855-1,wfo-0000499014,3978839,,
-c4f41d44-8fd1-11eb-924d-9cd76263cbd0,species,grandiflora,Salutiaea,,"(Schltdl.) Colla","Q62826,Q2475971",1849,,"Mem. Reale Accad. Sci. Torino, ser. 2, 10: 208 1849",,,,,,382709-1,wfo-0001263190,3819476,,
-e39f84dc-8fcb-11eb-924d-9cd76263cbd0,species,salvadoi,,,"Pabst & A.F.Mello","Q713005,Q21392404",1977,,"Bradea 2: 188 1977",,,,,,288227-2,wfo-0000244451,,,
+e9e7d19a-8fd1-11eb-924d-9cd76263cbd0,genus,Saltzwedelia,,,"G.Gaertn., B.Mey. & Schreb.",,,,"Oekon. Fl. Wetterau 2: 480 (1800)",,,,,,urn:lsid:ipni.org:names:23473-1,wfo-4000033882,7302785,,
+887b0f3a-8fcc-11eb-924d-9cd76263cbd0,species,sagittalis,Saltzwedelia,,"(L.) G.Gaertn., B.Mey. & Schreb.",0,1800,,"Oekon. Fl. Wetterau 2: 498 (1800)",,,,,,urn:lsid:ipni.org:names:517854-1,wfo-0000499012,3978844,,
+887b65b6-8fcc-11eb-924d-9cd76263cbd0,species,tetragona,Saltzwedelia,,Fourr.,0,1868,,"Ann. Soc. Linn. Lyon , n.s., 16: 357 (1868)",,,,,,urn:lsid:ipni.org:names:517855-1,wfo-0000499014,3978839,,
+c4f41d44-8fd1-11eb-924d-9cd76263cbd0,species,grandiflora,Salutiaea,,Colla,0,1849,,"Mem. Reale Accad. Sci. Torino , ser. 2, 10: 208 (1849)",,,,,,urn:lsid:ipni.org:names:382709-1,wfo-0001263190,3819476,,

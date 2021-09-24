@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7779120-8fd1-11eb-924d-9cd76263cbd0,genus,Odoglossa,,,,,,,,,,,,,,wfo-4000026565,7336160,,
-47313b7e-8fb5-11eb-924d-9cd76263cbd0,species,heterophylla,Odoglossa,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) ii. 16 (1836) (Quid ?).",,,,,,,wfo-0000076117,4210680,,
-e90493f4-8fcb-11eb-924d-9cd76263cbd0,species,malabarica,Odollamia,,Raf.,Q364857,1838,,"Sylva Tellur. 162 1838",,,,,,80555-1,wfo-0000253879,,,
-e904ae7a-8fcb-11eb-924d-9cd76263cbd0,species,manghas,Odollamia,,"(L.) Raf.","Q1043,Q364857",1838,,"Sylva Tellur. 162 1838",,,,430a716a-8fcd-11eb-924d-9cd76263cbd0,,80556-1,wfo-0000253880,3617367,,
-e904cab8-8fcb-11eb-924d-9cd76263cbd0,species,moluca,Odollamia,,Raf.,Q364857,1838,,"Sylva Tellur. 162 1838",,,,,,80557-1,wfo-0000253881,3617358,,
-e904e6d8-8fcb-11eb-924d-9cd76263cbd0,species,affinis,Odonectis,,"(Austin ex A.Gray) Schltr.","Q5140488,Q347356,Q62278",1911,,"Bot. Jahrb. Syst. 45: 386 1911",,,,f9431c68-8fcb-11eb-924d-9cd76263cbd0,,646343-1,wfo-0000253882,2808820,,
-e9053d18-8fcb-11eb-924d-9cd76263cbd0,species,verticillata,Odonectis,,"(Muhl. ex Willd.) Raf.","Q588256,Q76353,Q364857",1808,,"Med. Repos. 5: 357 1808",,,,,,646344-1,wfo-0000253884,2808817,,
+e7779120-8fd1-11eb-924d-9cd76263cbd0,genus,Odoglossa,,,Raf.,,,,"New Fl. ii. 15 (1836)",,,,,,urn:lsid:ipni.org:names:10233-1,wfo-4000026565,7336160,,
+47313b7e-8fb5-11eb-924d-9cd76263cbd0,species,heterophylla,Odoglossa,,Raf.,0,1836,,"New Fl. ii. 16 (1836) (Quid ?).",,,,,,urn:lsid:ipni.org:names:234634-1,wfo-0000076117,4210680,,
+e90493f4-8fcb-11eb-924d-9cd76263cbd0,species,malabarica,Odollamia,,Raf.,0,1838,,"Sylva Tellur. : 162 (1838)",,,,,,urn:lsid:ipni.org:names:80555-1,wfo-0000253879,,,
+e904ae7a-8fcb-11eb-924d-9cd76263cbd0,species,manghas,Odollamia,,Raf.,0,1838,,"Sylva Tellur. : 162 (1838)",,,,430a716a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:80556-1,wfo-0000253880,3617367,,
+e904cab8-8fcb-11eb-924d-9cd76263cbd0,species,moluca,Odollamia,,Raf.,0,1838,,"Sylva Tellur. : 162 (1838)",,,,,,urn:lsid:ipni.org:names:80557-1,wfo-0000253881,3617358,,

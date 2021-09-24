@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a045d3b0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Morrisiella,,,"Saikia & A.K. Sarbhoy",,1985,,"Mycologia 77(2): 318 (1985)",,,,a045d3b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,11132," "
 64f5d346-9bad-11eb-a8a2-19ed5c03f8d3,species,indica,Morrisiella,,"Saikia & A.K. Sarbhoy",,1985,,"Mycologia 77(2): 319 (1985)",,,,64f5d346-9bad-11eb-a8a2-19ed5c03f8d3,,,,,105535," "
-34db6956-8fcc-11eb-924d-9cd76263cbd0,species,morriaii,Morrisiella,,"(R.H.Anderson) Aellen","Q15975678,Q122747",1938,,"Bot. Jahrb. Syst. 68: 423 1938",,,,,,,wfo-0000375265,7388495,,
-d9e13638-8fd1-11eb-924d-9cd76263cbd0,species,morrisii,Morrisiella,,"(Anderson) Aellen","Q550299,Q122747",1938,,"Bot. Jahrb. Syst. 68: 423 1938",,,,,,166167-1,wfo-0001295034,8122064,,
-16a94f1a-8fcd-11eb-924d-9cd76263cbd0,species,morrisii,,,Traub,Q2613347,1965,,"Pl. Life 21: 95 1965",,,,,,66934-1,wfo-0000739884,,,
-754710f2-8fcd-11eb-924d-9cd76263cbd0,species,morrisii,,,"Traub ex J.C.David","Q2613347,Q21505763",2011,,"Hanburyana 5: 45 2011",,,,,,77113323-1,wfo-0000921209,,,
+34db6956-8fcc-11eb-924d-9cd76263cbd0,species,morriaii,Morrisiella,,"(R.H.Anderson) Aellen",0,1938,,"Bot. Jahrb. Syst. 68: 423 1938",,,,,,,wfo-0000375265,7388495,,
+d9e13638-8fd1-11eb-924d-9cd76263cbd0,species,morrisii,Morrisiella,,"(R.H.Anderson) Aellen",0,1938,,"Bot. Jahrb. Syst. 68: 423 (1938)",,,,,,urn:lsid:ipni.org:names:166167-1,wfo-0001295034,8122064,,

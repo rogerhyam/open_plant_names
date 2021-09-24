@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a7136c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodothamnus,,,Rchb.,Q58053,1827,,"Handb. Gewachsk. (ed. 2) 1: 667, 688. 1827.",,,,,,331904-2,wfo-4000033055,5428536,,
-1b8f30b2-8fcd-11eb-924d-9cd76263cbd0,species,camtschaticus,Rhodothamnus,,"(Pall.) Lindl. & Paxton","Q155914,Q378629,Q318372",1851,,"Paxton's Fl. Gard. 1: 113 1851",,,,,,60457516-2,wfo-0000750383,7942743,,
-4c03305a-8fcc-11eb-924d-9cd76263cbd0,species,chamaecistus,Rhodothamnus,,"(L.) Rchb.","Q1043,Q58053",1827,,"Handb. Gewächsk. ed. 2 1: 688 1827",,,,4a3a50f0-8fcc-11eb-924d-9cd76263cbd0,,333642-1,wfo-0000405562,5684464,,
-4c021238-8fcc-11eb-924d-9cd76263cbd0,species,kamtchaticus,Rhodothamnus,,"Lindl. & Paxton","Q378629,Q318372",1850,,"Paxton's Fl. Gard. 1: t. 22 1850",,,,,,333643-1,wfo-0000405558,5684460,,
-c64e6794-8fd1-11eb-924d-9cd76263cbd0,species,leachianus,Rhodothamnus,,"(L.F.Hend.) H.F.Copel.","Q3261906,Q2933703",1943,,"Amer. Midl. Naturalist 30(3): 565 1943",,Q55765666,,,,333644-1,wfo-0001265626,5684454,,
-4c039900-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolius,Rhodothamnus,,P.H.Davis,Q1313483,,,"Hooker's Icon. Pl. 36: t. 3575 1962",,,,,,333645-1,wfo-0000405563,,,
+e9a7136c-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodothamnus,,,"Rchb. in Mössler",0,1827,,"Handb. Gewächsk. ed. 2 , 1: 688 (1827)",,,,,,urn:lsid:ipni.org:names:331904-2,wfo-4000033055,5428536,,
+1b8f30b2-8fcd-11eb-924d-9cd76263cbd0,species,camtschaticus,Rhodothamnus,,"(Pall.) Lindl. & Paxton",0,1851,,"Paxton's Fl. Gard. 1: 113 (t. 22). 1851 [1850-1851] (as kamtchaticus)",,,,,,urn:lsid:ipni.org:names:60457516-2,wfo-0000750383,7942743,,
+4c03305a-8fcc-11eb-924d-9cd76263cbd0,species,chamaecistus,Rhodothamnus,,Rchb.,0,1827,,"Handb. Gewächsk. ed. 2 , 1: 688 (1827)",,,,4a3a50f0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:333642-1,wfo-0000405562,5684464,,
+4c021238-8fcc-11eb-924d-9cd76263cbd0,species,kamtchaticus,Rhodothamnus,,"Lindl. & Paxton",0,1850,,"Paxton's Fl. Gard. i. (1850-51) t. 22. : use R. camtschaticus",,,,,,urn:lsid:ipni.org:names:333643-1,wfo-0000405558,5684460,,
+c64e6794-8fd1-11eb-924d-9cd76263cbd0,species,leachianus,Rhodothamnus,,"(L.F.Hend.) H.F.Copel.",0,1943,,"Amer. Midl. Naturalist 30: 565 (1943)",,Q55765666,,,,urn:lsid:ipni.org:names:333644-1,wfo-0001265626,5684454,,
+4c039900-8fcc-11eb-924d-9cd76263cbd0,species,sessilifolius,Rhodothamnus,,P.H.Davis,0,,,"Hooker's Icon. Pl. 36: t. 3575 (1962)",,,,,,urn:lsid:ipni.org:names:333645-1,wfo-0000405563,,,

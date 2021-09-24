@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e67d1f60-8fd1-11eb-924d-9cd76263cbd0,genus,Meionectes,,,R.Br.,Q155764,,,"Voyage Terra Austr. 2(App.3): 550. 18 J.",,,,,,,wfo-4000023540,7329688,,
-33d662e0-8fcc-11eb-924d-9cd76263cbd0,species,brownii,Meionectes,,Hook.f.,Q157501,1840,,"Hooker's Icon. Pl. 4: t. 306 1840",,,,,,430384-1,wfo-0000373513,3709554,,
-33d6bc54-8fcc-11eb-924d-9cd76263cbd0,species,preissii,Meionectes,,Nees,Q76349,1848,,"Pl. Preiss. 2: 224 1848",,,,,,430385-1,wfo-0000373516,3709546,,
-8f294d9c-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Meionectes,,"(Benth.) M.L.Moody & Les","Q731808,Q26713353,Q5813314",2021,,"Amer. J. Bot. 94: 2021 2007",,Q28239384,,,,77093715-1,wfo-0000509797,3709540,,
+e67d1f60-8fd1-11eb-924d-9cd76263cbd0,genus,Meionectes,,,R.Br.,0,,,"Voy. Terra Austral. 2: 550 (1814)",,,,,,urn:lsid:ipni.org:names:19541-1,wfo-4000023540,7329688,,
+33d662e0-8fcc-11eb-924d-9cd76263cbd0,species,brownii,Meionectes,,Hook.f.,0,1840,,"Hooker's Icon. Pl. 4: t. 306 (1840)",,,,,,urn:lsid:ipni.org:names:430384-1,wfo-0000373513,3709554,,
+33d6bc54-8fcc-11eb-924d-9cd76263cbd0,species,preissii,Meionectes,,Nees,0,1848,,"Pl. Preiss. 2: 224 (1848)",,,,,,urn:lsid:ipni.org:names:430385-1,wfo-0000373516,3709546,,
+8f294d9c-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolia,Meionectes,,"(Benth.) M.L.Moody & Les",0,2021,,"Amer. J. Bot. 94: 2021 (2007)",,Q28239384,,,,urn:lsid:ipni.org:names:77093715-1,wfo-0000509797,3709540,,

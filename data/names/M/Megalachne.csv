@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6792cde-8fd1-11eb-924d-9cd76263cbd0,genus,Megalachne,,,Steud.,Q62821,1854,,"Syn. Pl. Glumac. 1: 237. 1854.",,,,,,325867-2,wfo-4000023485,4121989,,
-578bcb2a-8fcd-11eb-924d-9cd76263cbd0,species,berteroniana,Megalachne,,Steud.,Q62821,1854,,"Syn. Pl. Glumac. 1: 237 1854",,,,,,325856-2,wfo-0000878891,4122024,,
-578be7c2-8fcd-11eb-924d-9cd76263cbd0,species,masafuerana,Megalachne,,"(Pilg.) Matthei","Q71132,Q21338593",1974,,"Bol. Soc. Biol. Concepcion 48: 171 1974",,,,4774a7c0-8fcd-11eb-924d-9cd76263cbd0,,155827-2,wfo-0000878892,,,
-578c03ec-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Megalachne,,Thwaites,Q2656749,1864,,"Enum. Pl. Zeyl. 372 1864",,Q96016554,,,,407808-1,wfo-0000878893,4121988,,
+e6792cde-8fd1-11eb-924d-9cd76263cbd0,genus,Megalachne,,,Steud.,0,1854,,"Syn. Pl. Glumac. 1: 237 (1854)",,,,,,urn:lsid:ipni.org:names:325867-2,wfo-4000023485,4121989,,
+578bcb2a-8fcd-11eb-924d-9cd76263cbd0,species,berteroniana,Megalachne,,Steud.,0,1854,,"Syn. Pl. Glumac. 1: 237 (1854)",,,,,,urn:lsid:ipni.org:names:325856-2,wfo-0000878891,4122024,,
+578be7c2-8fcd-11eb-924d-9cd76263cbd0,species,masafuerana,Megalachne,,"(Skottsb. & Pilg.) Matthei",0,1974,,"Bol. Soc. Biol. Concepcion 48: 171 (1974)",,,,4774a7c0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:155827-2,wfo-0000878892,,,
+568c83c8-1d4d-11ec-82c2-f14daa6f2d93,species,masafueranus,Megalachne,,"(Skottsb. & Pilg.) Matthei",,,,,,,,,,urn:lsid:ipni.org:names:1120752-2,wfo-0001349145,,,
+578c03ec-8fcd-11eb-924d-9cd76263cbd0,species,zeylanica,Megalachne,,Thwaites,0,1864,,"Enum. Pl. Zeyl. : 372 (1864)",,Q96016554,,,,urn:lsid:ipni.org:names:407808-1,wfo-0000878893,4121988,,

@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e240d1b2-8fd1-11eb-924d-9cd76263cbd0,genus,Cuatrecasasiella,,,H.Rob.,Q2100759,,,,,Q100888876,,,,924933-1,wfo-4000009982,3144480,,
-3ddebe72-8fb3-11eb-924d-9cd76263cbd0,species,argentina,Cuatrecasasiella,,"(Cabrera) H.Rob.","Q1999131,Q2100759",1985,,"Fl. Neotrop. Monogr. 2(Suppl.) 15 1985",,Q100888876,,,,942325-1,wfo-0000044555,3144484,,
-613c07de-8fb9-11eb-924d-9cd76263cbd0,species,isernii,Cuatrecasasiella,,"(Cuatrec.) H.Rob.","Q3088960,Q2100759",1985,,"Fl. Neotrop. Monogr. 2(Suppl.) 15 1985",,Q100888876,,,,942324-1,wfo-0000117873,3144481,,
-7c0e355a-8fcd-11eb-924d-9cd76263cbd0,species,colombianum,Cuatrecasasiodendron,,"Standl. & Steyerm.","Q1333160,Q250148",1964,,"Acta Biol. Venez. 4: 30 1964",,,,,,72056-2,wfo-0000933420,2903101,,
-7c0e50da-8fcd-11eb-924d-9cd76263cbd0,species,spectabile,Cuatrecasasiodendron,,Steyerm.,Q250148,1964,,"Acta Biol. Venez. 4: 33 1964",,,,,,72057-2,wfo-0000933421,2903102,,
-7c0e88e8-8fcd-11eb-924d-9cd76263cbd0,species,spruceana,Cuatrecasea,,"(Barb.Rodr.) Dugand","Q45374,Q4792754",1943,,"Caldasia 2: 72 1943",,Q95145471,,6698968c-8fca-11eb-924d-9cd76263cbd0,,72058-2,wfo-0000933423,2739113,,
-7c0ea558-8fcd-11eb-924d-9cd76263cbd0,species,vaupesana,Cuatrecasea,,Dugand,Q4792754,1940,,"Revista Acad. Colomb. Ci. Exact. 3: 392 1940",,,,,,72059-2,wfo-0000933424,2739109,,
+e240d1b2-8fd1-11eb-924d-9cd76263cbd0,genus,Cuatrecasasiella,,,H.Rob.,0,,,"Fl. Neotrop. Monogr. 2(Suppl.): 14 (1985)",,Q100888876,,,,urn:lsid:ipni.org:names:924933-1,wfo-4000009982,3144480,,
+3ddebe72-8fb3-11eb-924d-9cd76263cbd0,species,argentina,Cuatrecasasiella,,"(Cabrera) H.Rob.",0,1985,,"Fl. Neotrop. Monogr. 2(Suppl.): 15. 1985",,Q100888876,,,,urn:lsid:ipni.org:names:942325-1,wfo-0000044555,3144484,,
+613c07de-8fb9-11eb-924d-9cd76263cbd0,species,isernii,Cuatrecasasiella,,"(Cuatrec.) H.Rob.",0,1985,,"Fl. Neotrop. Monogr. 2(Suppl.): 15. 1985",,Q100888876,,,,urn:lsid:ipni.org:names:942324-1,wfo-0000117873,3144481,,
+7c0e355a-8fcd-11eb-924d-9cd76263cbd0,species,colombianum,Cuatrecasasiodendron,,"Standl. & Steyerm.",0,1964,,"Acta Biol. Venez. 4: 30 (1964)",,,,,,urn:lsid:ipni.org:names:72056-2,wfo-0000933420,2903101,,
+7c0e50da-8fcd-11eb-924d-9cd76263cbd0,species,spectabile,Cuatrecasasiodendron,,Steyerm.,0,1964,,"Acta Biol. Venez. 4: 33 (1964)",,,,,,urn:lsid:ipni.org:names:72057-2,wfo-0000933421,2903102,,

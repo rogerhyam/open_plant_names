@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfc8638c-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrolobus,,,,,,,,,,,,,,wfo-4000003167,,,
-a730481e-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Arthrolobus,,"Andrz. ex DC.","Q2090424,Q123057",1821,,"Syst. Nat. 2: 431 1821",,,,,,278751-1,wfo-0000550342,3690584,,
-a73064fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosus,Arthrolobus,,"Andrz. ex DC.","Q2090424,Q123057",1821,,"Syst. Nat. 2: 432 1821",,,,,,278752-1,wfo-0000550343,3690582,,
-a7308b44-8fcc-11eb-924d-9cd76263cbd0,species,torulosus,Arthrolobus,,"Steven ex DC.","Q967040,Q123057",1821,,"Syst. Nat. 2: 580 1821",,,,,,278753-1,wfo-0000550344,3690578,,
-4a31dec4-8fcd-11eb-924d-9cd76263cbd0,species,fazoglensis,Arthrolophis,,Chiov.,Q2348823,1917,,"Boll. Soc. Bot. Ital. 1917: 57 1917",,,,,,390087-1,wfo-0000849936,4119293,,
-4a31fb5c-8fcd-11eb-924d-9cd76263cbd0,species,pumilus,Arthrolophis,,"(Roxb.) Chiov.","Q748967,Q2348823",1917,,"Boll. Soc. Bot. Ital. 1917: 59 1917",,,,,,390088-1,wfo-0000849937,4119284,,
+dfc8638c-8fd1-11eb-924d-9cd76263cbd0,genus,Arthrolobus,,,"Steven ex DC.",,,,"Syst. Nat. 2: 579 (1821)",,,,,,urn:lsid:ipni.org:names:12332-1,wfo-4000003167,,,
+a730481e-8fcc-11eb-924d-9cd76263cbd0,species,perennis,Arthrolobus,,"Andrz. ex DC.",0,1821,,"Syst. Nat. 2: 431 (1821)",,,,,,urn:lsid:ipni.org:names:278751-1,wfo-0000550342,3690584,,
+a73064fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosus,Arthrolobus,,"Andrz. ex DC.",0,1821,,"Syst. Nat. 2: 432 (1821)",,,,,,urn:lsid:ipni.org:names:278752-1,wfo-0000550343,3690582,,
+a7308b44-8fcc-11eb-924d-9cd76263cbd0,species,torulosus,Arthrolobus,,"Steven ex DC.",0,1821,,"Syst. Nat. 2: 580 (1821)",,,,,,urn:lsid:ipni.org:names:278753-1,wfo-0000550344,3690578,,
+4a31dec4-8fcd-11eb-924d-9cd76263cbd0,species,fazoglensis,Arthrolophis,,Chiov.,0,1917,,"Bull. Soc. Bot. Ital. 1917: 57 (1917)",,,,,,urn:lsid:ipni.org:names:390087-1,wfo-0000849936,4119293,,
+4a31fb5c-8fcd-11eb-924d-9cd76263cbd0,species,pumilus,Arthrolophis,,Chiov.,0,1917,,"Bull. Soc. Bot. Ital. 1917: 59 (1917)",,,,,,urn:lsid:ipni.org:names:390088-1,wfo-0000849937,4119284,,

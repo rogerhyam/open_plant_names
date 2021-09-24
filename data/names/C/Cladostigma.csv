@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1c6b13e-8fd1-11eb-924d-9cd76263cbd0,genus,Cladostigma,,,Radlk.,Q62865,1883,,"Abh. Naturwiss. Vereins Bremen 8: 412. 1883.",,,,,,11823-1,wfo-4000008450,7324093,,
-dba9aa54-8fd1-11eb-924d-9cd76263cbd0,species,dioicum,Cladostigma,,Radlk.,Q62865,1883,,"Abh. Naturwiss. Vereine Bremen 8: 412 1883",,,,,,265731-1,wfo-0001298276,3678154,,
-dbe0f19e-8fd1-11eb-924d-9cd76263cbd0,species,hildebrandtioides,Cladostigma,,"Hallier f.",Q75908,1899,,"Bull. Herb. Boissier 7: 63 1899",,,,,,,wfo-0001298699,8204270,,
-0d4edcfe-8fbf-11eb-924d-9cd76263cbd0,species,nigistiae,Cladostigma,,Sebsebe,Q6123057,1996,,"Kew Bull. 51(2): 410 (1996) 1996",,Q54782208,,,,988803-1,wfo-0000157675,3678138,,
-beff3234-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Cladostyles,,Nees,Q76349,1821,,"Flora 4: 301 1821",,,,,,,wfo-0001252157,8393702,,
-ad68693c-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Cladostyles,,Bonpl.,Q405702,1808,,"Pl. Aequinoct. 1: 202, t. 57 1808",,,,,,,wfo-0001219852,7526366,,
+e1c6b13e-8fd1-11eb-924d-9cd76263cbd0,genus,Cladostigma,,,Radlk.,0,1883,,"Bremen Abh. 8: 412 (1883)",,,,,,urn:lsid:ipni.org:names:11823-1,wfo-4000008450,7324093,,
+dba9aa54-8fd1-11eb-924d-9cd76263cbd0,species,dioicum,Cladostigma,,Radlk.,0,1883,,"Bremen Abh. 8: 412 (1883)",,,,,,urn:lsid:ipni.org:names:265731-1,wfo-0001298276,3678154,,
+dbe0f19e-8fd1-11eb-924d-9cd76263cbd0,species,hildebrandtioides,Cladostigma,,"Hallier f. ex Schinz",0,1899,,"Bull. Herb. Boissier 7: 63 (1899)",,,,,,urn:lsid:ipni.org:names:265732-1,wfo-0001298699,8204270,,
+0d4edcfe-8fbf-11eb-924d-9cd76263cbd0,species,nigistiae,Cladostigma,,Sebsebe,0,1996,,"Kew Bull. 51: 410 (1996)",,Q54782208,,,,urn:lsid:ipni.org:names:988803-1,wfo-0000157675,3678138,,
+beff3234-8fd1-11eb-924d-9cd76263cbd0,species,ericoides,Cladostyles,,"Nees ex Steud.",0,1821,,"Nomencl. Bot.  [Steudel], ed. 2. 1: 377. 1840",,,,,,urn:lsid:ipni.org:names:265733-1,wfo-0001252157,8393702,,
+ad68693c-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Cladostyles,,Bonpl.,0,1808,,"Pl. Aequinoct. 1: 202 (1808)",,,,,,urn:lsid:ipni.org:names:265734-1,wfo-0001219852,7526366,,

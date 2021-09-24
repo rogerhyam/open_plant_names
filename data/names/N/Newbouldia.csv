@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e74b3170-8fd1-11eb-924d-9cd76263cbd0,genus,Newbouldia,,,"Seem. ex Bureau","Q64899,Q723391",1864,,"Monogr. Bignon. 17: 49 ("">Spathotecoma<""). 1864.",,,,,,4160-1,wfo-4000026068,8373701,,
-295c991e-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Newbouldia,,"(P.Beauv.) Seem.","Q458941,Q64899",1863,,"J. Bot. 1: 226 1863",,,,29a8bb32-8fcd-11eb-924d-9cd76263cbd0,,110151-1,wfo-0000779153,4091370,,
-aab275ac-8fd1-11eb-924d-9cd76263cbd0,species,laevis,Newbouldia,,"(P.Beauv.) Seem. ex Bureau","Q458941,Q64899,Q723391",1864,,"Mon. Bignon Atlas t. 15 1864",,,,29a8bb32-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001214884,7857637,,
-295e9692-8fcd-11eb-924d-9cd76263cbd0,species,pentandra,Newbouldia,,"(Hook.) Seem.","Q472639,Q64899",1870,,"J. Bot. 8: 338 1870",,,,,,110152-1,wfo-0000779171,4091362,,
+e74b3170-8fd1-11eb-924d-9cd76263cbd0,genus,Newbouldia,,,Seem.,0,1864,,"Monogr. Bignon. : 49, Atlas: 17, t. 15 (1864)",,,,,,urn:lsid:ipni.org:names:4160-1,wfo-4000026068,8373701,,
+295c991e-8fcd-11eb-924d-9cd76263cbd0,species,laevis,Newbouldia,,"(P.Beauv.) Seem.",0,1863,,"Monogr. Bignon. : 49, Atlas: 17, t. 15 (1864)",,,,29a8bb32-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:110151-1,wfo-0000779153,4091370,,
+aab275ac-8fd1-11eb-924d-9cd76263cbd0,species,laevis,Newbouldia,,"(P.Beauv.) Seem. ex Bureau",0,1864,,"Mon. Bignon Atlas t. 15 1864",,,,29a8bb32-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001214884,7857637,,
+295e9692-8fcd-11eb-924d-9cd76263cbd0,species,pentandra,Newbouldia,,"(Hook.) Seem.",0,1870,,"J. Bot. 8: 338 (1870)",,,,,,urn:lsid:ipni.org:names:110152-1,wfo-0000779171,4091362,,

@@ -1,10 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6a52488-8fd1-11eb-924d-9cd76263cbd0,genus,Meziella,,,Schindl.,Q21388096,1905,,"Pflanzenr. IV. 225 (Heft 23): 60. 1905.",,,,,,,wfo-4000023986,7329684,,
-33d6f516-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Meziella,,"(Nees) Schindl.","Q76349,Q21388096",1905,,"Pflanzenr. IV, 225: 61 1905",,,,6c33e9a0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000373518,3709520,,
-3d75611a-8fcd-11eb-924d-9cd76263cbd0,species,griffithiana,Mezierea,,A.DC.,Q123807,1859,,"Ann. Sci. Nat., Bot. IV, 11: 144 1859",,,,,,106224-1,wfo-0000822319,4158423,,
-3d7466ac-8fcd-11eb-924d-9cd76263cbd0,species,molleri,Mezierea,,C.DC.,Q282065,1892,,"Bol. Soc. Brot. 10: 124 1892",,,,,,106225-1,wfo-0000822310,4158415,,
-3d743128-8fcd-11eb-924d-9cd76263cbd0,species,nepalensis,Mezierea,,A.DC.,Q123807,1859,,"Ann. Sci. Nat., Bot. IV, 11: 144 1859",,,,,,106226-1,wfo-0000822308,4158411,,
-42da855e-8fcd-11eb-924d-9cd76263cbd0,variety,micropteron,Mezierea,nepalensis,A.DC.,Q123807,1864,,"Prodr. 15(1): 407 1864",,,,,,,wfo-0000834028,7704858,,
-3d7546bc-8fcd-11eb-924d-9cd76263cbd0,species,salaziensis,Mezierea,,Gaudich.,Q1064524,1841,,"Voy. Bonite, Bot. 3: t. 32 1841",,,,,,,wfo-0000822318,4158402,,
-42b4b590-8fcd-11eb-924d-9cd76263cbd0,variety,calleryana,Mezierea,salaziensis,A.DC.,Q123807,1864,,"Prodr. 15(1): 408 1864",,,,,,,wfo-0000833720,7749934,,
-42c7d2ec-8fcd-11eb-924d-9cd76263cbd0,variety,comorensis,Mezierea,salaziensis,A.DC.,Q123807,1864,,"Prodr. 15(1): 408 1864",,,,,,,wfo-0000833887,7701418,,
+e6a52488-8fd1-11eb-924d-9cd76263cbd0,genus,Meziella,,,Schindl.,0,1905,,"Pflanzenr. , IV, 225: 60 (1905)",,,,,,urn:lsid:ipni.org:names:60454039-2,wfo-4000023986,7329684,,
+33d6f516-8fcc-11eb-924d-9cd76263cbd0,species,trifida,Meziella,,"(Nees) Schindl.",0,1905,,"Pflanzenr. , IV, 225: 61 (1905)",,,,6c33e9a0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:72006-3,wfo-0000373518,3709520,,

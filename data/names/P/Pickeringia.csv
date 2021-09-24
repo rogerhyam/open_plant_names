@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8802ece-8fd1-11eb-924d-9cd76263cbd0,genus,Pickeringia,,,Nutt.,Q728337,,,,,,,,,331851-2,wfo-4000029607,2966632,,
-b3c85066-8fcd-11eb-924d-9cd76263cbd0,species,montana,Pickeringia,,Nutt.,Q728337,1840,,"Fl. N. Amer. 1(3): 389 1840",,,,,,195915-2,wfo-0001052333,8284069,,
-d62c4c6e-8fc0-11eb-924d-9cd76263cbd0,species,montana,Pickeringia,,"Torr. & A.Gray","Q1346660,Q347356",,,,,,,,,,wfo-0000168392,5358147,,
-4dabecb8-8fc1-11eb-924d-9cd76263cbd0,variety,tomentosa,Pickeringia,montana,"(Abrams) I.M.Johnst.","Q2698829,Q729850",,,,,,,4da0f222-8fc1-11eb-924d-9cd76263cbd0,,1034368-2,wfo-0000171204,,,
-b3c86ad8-8fcd-11eb-924d-9cd76263cbd0,subspecies,tomentosa,Pickeringia,montana,"(Abrams) Abrams",Q2698829,1944,,"Ill. Fl. Pacific States 2: 483 1944",,,,4da0f222-8fc1-11eb-924d-9cd76263cbd0,,195916-2,wfo-0001052334,,,
-7b448a12-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Pickeringia,,"(Nutt.) Nutt.",Q728337,1834,,"J. Acad. Nat. Sci. Philadelphia 7: 95 1834",,,,,,589567-1,wfo-0000476235,5558306,,
+e8802ece-8fd1-11eb-924d-9cd76263cbd0,genus,Pickeringia,,,Nutt.,0,,,"Fl. N. Amer. 1: 389 (1840)",,,,,,urn:lsid:ipni.org:names:331851-2,wfo-4000029607,2966632,,
+b3c85066-8fcd-11eb-924d-9cd76263cbd0,species,montana,Pickeringia,,Nutt.,0,1840,,"Fl. N. Amer. 1: 389 (1840)",,,,,,urn:lsid:ipni.org:names:195915-2,wfo-0001052333,8284069,,
+d62c4c6e-8fc0-11eb-924d-9cd76263cbd0,species,montana,Pickeringia,,"Torr. & A.Gray",0,,,"Fl. N. Amer. (Torr. & A. Gray) 1(3): 389. 1840 [Jun 1840]",,,,,,urn:lsid:ipni.org:names:514321-1,wfo-0000168392,5358147,,
+4dabecb8-8fc1-11eb-924d-9cd76263cbd0,variety,tomentosa,Pickeringia,montana,"(Abrams) I.M.Johnst.",0,,,,,,,4da0f222-8fc1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1034368-2,wfo-0000171204,,,
+b3c86ad8-8fcd-11eb-924d-9cd76263cbd0,subspecies,tomentosa,Pickeringia,montana,Abrams,0,1944,,"Ill. Fl. Pacific States 2: 483. 1944",,,,4da0f222-8fc1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:195916-2,wfo-0001052334,,,
+7b448a12-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Pickeringia,,"(Nutt.) Nutt.",0,1834,,"J. Acad. Nat. Sci. Philadelphia 7: 95. 1834 [28 Oct 1834]",,,,,,urn:lsid:ipni.org:names:589567-1,wfo-0000476235,5558306,,

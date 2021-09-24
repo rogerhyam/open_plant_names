@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ee88ca-8fd1-11eb-924d-9cd76263cbd0,genus,Distiacanthus,,,"hort. ex Baker",Q730330,1889,,"Handb. Bromel. 13. 1889.",,,,,,,wfo-4000012223,7289505,,
-459990b0-8fcc-11eb-924d-9cd76263cbd0,species,communis,Distiacanthus,,"(Lam.) Rojas Acosta","Q82122,Q5939732",1897,,"Cat. Hist. Nat. Corrient. 84 1897",,,,,,122673-1,wfo-0000397415,2699510,,
-459bef0e-8fcc-11eb-924d-9cd76263cbd0,species,erubescens,Distiacanthus,,"Linden & André","Q781362,Q274317",1873,,"Ill. Hort. 20: 171 1873",,,,,,,wfo-0000397424,4018183,,
-459e2030-8fcc-11eb-924d-9cd76263cbd0,species,morrenianus,Distiacanthus,,"(Regel) Baker","Q62989,Q730330",1889,,"Handb. Bromel. 14 1889",,,,2e8cb866-8fcc-11eb-924d-9cd76263cbd0,,82322-2,wfo-0000397433,2696504,,
-45a04cf2-8fcc-11eb-924d-9cd76263cbd0,species,scarlatinus,Distiacanthus,,"Henriq. ex Linden","Q5396407,Q781362",1869,,"Cat. Gén. 23: 4 1869",,,,,,122676-1,wfo-0000397442,2696478,,
+e2ee88ca-8fd1-11eb-924d-9cd76263cbd0,genus,Distiacanthus,,,Baker,0,1889,,"Handb. Bromel. 13. 1889 [Aug-Oct 1889]",,,,,,urn:lsid:ipni.org:names:4920-1,wfo-4000012223,7289505,,
+57af1838-1d4d-11ec-82c2-f14daa6f2d93,species,basilateralis,Distiacanthus,,hort.,,,,"Vilm. Blumengärtn., ed. 3. 1: 964, in syn. 1895",,,,,,urn:lsid:ipni.org:names:122672-1,wfo-0001350600,,,
+459990b0-8fcc-11eb-924d-9cd76263cbd0,species,communis,Distiacanthus,,"Rojas Acosta",0,1897,,"Cat. Hist. Nat. Corrientes : 84 (1897)",,,,,,urn:lsid:ipni.org:names:122673-1,wfo-0000397415,2699510,,
+459bef0e-8fcc-11eb-924d-9cd76263cbd0,species,erubescens,Distiacanthus,,"Linden & Andre.",0,1873,,"Ill. Hort. 20: 171 (1873)",,,,,,urn:lsid:ipni.org:names:122674-1,wfo-0000397424,4018183,,
+459e2030-8fcc-11eb-924d-9cd76263cbd0,species,morrenianus,Distiacanthus,,Baker,0,1889,,"Handb. Bromel. : 14 (1889)",,,,2e8cb866-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:82322-2,wfo-0000397433,2696504,,
+45a04cf2-8fcc-11eb-924d-9cd76263cbd0,species,scarlatinus,Distiacanthus,,Linden,0,1869,,"Nursery Cat. (Linden) 23: 4 (1869)",,,,,,urn:lsid:ipni.org:names:122676-1,wfo-0000397442,2696478,,
+57af463c-1d4d-11ec-82c2-f14daa6f2d93,species,scarlatinus,Distiacanthus,,Baker,,,,"Handb. Bromel. 14. 1889 [Aug-Oct 1889]",,,,,,urn:lsid:ipni.org:names:122677-1,wfo-0001350601,,,

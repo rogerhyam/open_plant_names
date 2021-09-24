@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea98aad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerosicyos,,,Hook.f.,Q157501,1867,,"Gen. Pl. 1(3): 824. 1867.",,,,,,,wfo-4000035998,7317558,,
-671554b8-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Sphaerosicyos,,Hook.f.,Q157501,1871,,"Fl. Trop. Afr. 2: 532 1871",,,,,,294046-1,wfo-0000441668,3622861,,
-dd3b60f6-8fd1-11eb-924d-9cd76263cbd0,species,sphaericus,Sphaerosicyos,,"(Sond.) Hook.f.","Q77215,Q157501",1881,,"Monogr. Phan. 3: 466 1881",,,,,,,wfo-0001301040,,,
+ea98aad8-8fd1-11eb-924d-9cd76263cbd0,genus,Sphaerosicyos,,,Hook.f.,0,1867,,"Gen. Pl. 1: 824 (1867)",,,,,,urn:lsid:ipni.org:names:13418-1,wfo-4000035998,7317558,,
+671554b8-8fcc-11eb-924d-9cd76263cbd0,species,meyeri,Sphaerosicyos,,Hook.f.,0,1871,,"Fl. Trop. Afr. [Oliver et al.] 2: 532. 1871",,,,,,urn:lsid:ipni.org:names:294046-1,wfo-0000441668,3622861,,
+dd3b60f6-8fd1-11eb-924d-9cd76263cbd0,species,sphaericus,Sphaerosicyos,,"(Sond.) Cogn.",0,1881,,"Monogr. Phan. 3: 466 (1881)",,,,,,urn:lsid:ipni.org:names:77166289-1,wfo-0001301040,,,

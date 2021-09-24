@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1c52486-8fd1-11eb-924d-9cd76263cbd0,genus,Cladogynos,,,"Zipp. ex Span.","Q2643365,Q5932839",1841,,"Linnaea 15: 349. 1841.",,,,,,15204-1,wfo-4000008430,3057415,,
-5311db52-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Cladogynos,,"Zipp. ex Span.","Q2643365,Q5932839",1841,,"Linnaea 15: 349 1841",,,,,,,wfo-0000869122,3057416,,
-53131652-8fcd-11eb-924d-9cd76263cbd0,variety,grossedentata,Cladogynos,orientalis,"Pax & K.Hoffm.","Q64244,Q2601446",1914,,"Pflanzenr. IV, 147 VII: 266 1914",,,,,,,wfo-0000869133,3057424,,
-53142ede-8fcd-11eb-924d-9cd76263cbd0,variety,virens,Cladogynos,orientalis,"(Müll.Arg.) Pax & K.Hoffm.","Q2504914,Q64244,Q2601446",1914,,"Pflanzenr. IV, 147 VII: 266 1914",,,,,,,wfo-0000869143,3057420,,
+e1c52486-8fd1-11eb-924d-9cd76263cbd0,genus,Cladogynos,,,"Zipp. ex Span.",0,1841,,"Linnaea 15: 349 (1841)",,,,,,urn:lsid:ipni.org:names:15204-1,wfo-4000008430,3057415,,
+5311db52-8fcd-11eb-924d-9cd76263cbd0,species,orientalis,Cladogynos,,Zipp.,0,1841,,"Linnaea 15: 349 (1841)",,,,,,urn:lsid:ipni.org:names:341028-1,wfo-0000869122,3057416,,
+53131652-8fcd-11eb-924d-9cd76263cbd0,variety,grossedentata,Cladogynos,orientalis,"Pax & K.Hoffm.",0,1914,,"Pflanzenr. IV, 147 VII: 266 1914",,,,,,,wfo-0000869133,3057424,,
+53142ede-8fcd-11eb-924d-9cd76263cbd0,variety,virens,Cladogynos,orientalis,"(Müll.Arg.) Pax & K.Hoffm.",0,1914,,"Pflanzenr. IV, 147 VII: 266 1914",,,,,,,wfo-0000869143,3057420,,

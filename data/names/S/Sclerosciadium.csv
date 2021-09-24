@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea2ca2a2-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerosciadium,,,"W.D.J.Koch ex DC.","Q63388,Q123057",1829,,"Coll. Mém. 5: 43. 1829.",,,,,,40510-1,wfo-4000034760,6026879,,
-627ab9b6-8fcc-11eb-924d-9cd76263cbd0,species,humile,Sclerosciadium,,"W.D.J.Koch ex DC.","Q63388,Q123057",1829,,"Coll. Mém. 5: 43 1829",,,,,,848134-1,wfo-0000434424,,,
-627ae120-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorum,Sclerosciadium,,"(Schousb.) Coss.","Q3376870,Q1276939",1875,,"Bull. Soc. Bot. France 22: 59 1875",,Q55756647,,,,848135-1,wfo-0000434425,3635772,,
+ea2ca2a2-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerosciadium,,,"W.D.J.Koch ex DC.",0,1829,,"Coll. Mém. 5: 43 (1829)",,,,,,urn:lsid:ipni.org:names:40510-1,wfo-4000034760,6026879,,
+627ab9b6-8fcc-11eb-924d-9cd76263cbd0,species,humile,Sclerosciadium,,"W.D.J.Koch ex DC.",0,1829,,"Coll. Mém. v. 43. t. 2. 1829",,,,,,urn:lsid:ipni.org:names:848134-1,wfo-0000434424,,,
+627ae120-8fcc-11eb-924d-9cd76263cbd0,species,nodiflorum,Sclerosciadium,,Coss.,0,1875,,"Bull. Soc. Bot. France 22: 59 (1875)",,Q55756647,,,,urn:lsid:ipni.org:names:848135-1,wfo-0000434425,3635772,,

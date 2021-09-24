@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e928906e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomorus,,,Bureau,Q723391,1869,,"Ann. Sci. Nat., Bot., sér. 5, 11: 371. 1869.",,,,,,,wfo-4000031601,6358640,,
-aca4d714-8fcd-11eb-924d-9cd76263cbd0,species,brunoniana,Pseudomorus,,"(Endl.) Bureau","Q78605,Q723391",1869,,"Ann. Sci. Nat., Bot., sér. 5, 11: 371 1869",,,,,,,wfo-0001036063,,,
-7a022e52-8fcc-11eb-924d-9cd76263cbd0,species,pendulina,Pseudomorus,,"(Endl.) Stearn","Q78605,Q1484289",1947,,"J. Arnold Arbor. 28: 427 1947",,Q100550345,,,,584589-1,wfo-0000474002,7262517,,
-79ffe3cc-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Pseudomorus,,O.Deg.,Q2040112,1938,,"Fl. Hawaiiensis 96: s.p. 1938",,,,,,584590-1,wfo-0000473988,2984639,,
+e928906e-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudomorus,,,Bureau,0,1869,,"Ann. Sci. Nat., Bot. , sér. 5, 11: 371 (1869)",,,,,,urn:lsid:ipni.org:names:40961-1,wfo-4000031601,6358640,,
+aca4d714-8fcd-11eb-924d-9cd76263cbd0,species,brunoniana,Pseudomorus,,"(Endl.) Bureau",0,1869,,"Annales des Sciences Naturelles ser. 5, 11 1869",,,,,,urn:lsid:ipni.org:names:113102-3,wfo-0001036063,,,
+7629bb42-1d4d-11ec-82c2-f14daa6f2d93,variety,australiana,Pseudomorus,brunoniana,Bureau,,,,"Annales des Sciences Naturelles ser. 5, 11 1869",,,,,,urn:lsid:ipni.org:names:113138-3,wfo-0001391973,,,
+7629e310-1d4d-11ec-82c2-f14daa6f2d93,variety,brunoniana,Pseudomorus,brunoniana,"(Endl.) Bureau",,,,"Annales des Sciences Naturelles ser. 5, 11 1869",,,,,,urn:lsid:ipni.org:names:113145-3,wfo-0001391974,,,
+7a022e52-8fcc-11eb-924d-9cd76263cbd0,species,pendulina,Pseudomorus,,"(Endl.) Stearn",0,1947,,"J. Arnold Arbor. 28: 427 (1947)",,Q100550345,,,,urn:lsid:ipni.org:names:584589-1,wfo-0000474002,7262517,,
+762afebc-1d4d-11ec-82c2-f14daa6f2d93,variety,australiana,Pseudomorus,pendulina,Stearn,,,,"Journal of the Arnold Arboretum 28  1947",,,,,,urn:lsid:ipni.org:names:113206-3,wfo-0001391981,,,
+79ffe3cc-8fcc-11eb-924d-9cd76263cbd0,species,sandwicensis,Pseudomorus,,O.Deg.,0,1938,,"Fl. Hawaiiensis 96: s.p. (1938)",,,,,,urn:lsid:ipni.org:names:584590-1,wfo-0000473988,2984639,,

@@ -1,8 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df936484-8fd1-11eb-924d-9cd76263cbd0,genus,Apacheria,,,C.T.Mason,Q5765002,1975,,"Madroño 23(3): 105–108, f. 1, 2a. 1975. (1 Jul 1975)",,Q93958147,,,,12275-1,wfo-4000002564,2986093,,
-a0e3da98-8fcc-11eb-924d-9cd76263cbd0,species,chiricahuensis,Apacheria,,C.T.Mason,Q5765002,1975,,"Madroño 23: 105 1975",,Q93958147,,,,16094-2,wfo-0000539772,2986094,,
-26f0d4f6-8fcd-11eb-924d-9cd76263cbd0,variety,latifolia,apaixii,lapaixii,Guillaumin,Q2847911,1931,,"Bull. Mus. Natl. Hist. Nat. II, 3: 339 1931",,,,,,,wfo-0000773841,,,
-1eec88b4-8fcc-11eb-924d-9cd76263cbd0,species,granatensis,Apalanthe,,"(Humb. & Bonpl.) Planch.","Q6694,Q405702,Q1387276",1848,,"Ann. Mag. Nat. Hist. II, 1: 87 1848",,Q56146408,,258bf8ac-8fcd-11eb-924d-9cd76263cbd0,,431607-1,wfo-0000340330,2865435,,
-1eecbd3e-8fcc-11eb-924d-9cd76263cbd0,species,guyanensis,Apalanthe,,"(Rich.) Planch.","Q714754,Q1387276",1848,,"Ann. Mag. Nat. Hist. II, 1: 87 1848",,Q56146408,,258c15d0-8fcd-11eb-924d-9cd76263cbd0,,431608-1,wfo-0000340332,2865437,,
-ba1360c8-8fcd-11eb-924d-9cd76263cbd0,species,guyannensis,Apalanthe,,"(Rich.) J.E.Planchon",Q714754,1848,,"Ann. Mag. Nat. Hist., ser. 2 1: 87 1848",,,,0beb1a36-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001066600,,,
-1eecda08-8fcc-11eb-924d-9cd76263cbd0,species,schweinitzii,Apalanthe,,Planch.,Q1387276,1848,,"Ann. Mag. Nat. Hist. II, 1: 87 1848",,Q56146408,,,,431609-1,wfo-0000340333,2865452,,
+df936484-8fd1-11eb-924d-9cd76263cbd0,genus,Apacheria,,,C.T.Mason,0,1975,,"Madroño 23: 105 (1975)",,Q93958147,,,,urn:lsid:ipni.org:names:12275-1,wfo-4000002564,2986093,,
+a0e3da98-8fcc-11eb-924d-9cd76263cbd0,species,chiricahuensis,Apacheria,,C.T.Mason,0,1975,,"Madroño 23: 105 (1975)",,Q93958147,,,,urn:lsid:ipni.org:names:16094-2,wfo-0000539772,2986094,,

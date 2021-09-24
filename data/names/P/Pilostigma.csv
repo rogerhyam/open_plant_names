@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88a3496-8fd1-11eb-924d-9cd76263cbd0,genus,Pilostigma,,,Tiegh.,Q2421500,1894,,"Bull. Soc. Bot. France 41: 483, 488. 1894.",,,,,,,wfo-4000029714,7287967,,
-76cfc104-8fcc-11eb-924d-9cd76263cbd0,species,brevipes,Pilostigma,,Tiegh.,Q2421500,1894,,"Bull. Soc. Bot. France 41: 488 1894",,Q55756780,,,,551318-1,wfo-0000468630,5639110,,
-cadf950c-8fcd-11eb-924d-9cd76263cbd0,species,inflexum,Pilostigma,,Costantin,Q2701525,1912,,"Fl. Indo-Chine 4: 73 1912",,,,,,100665-1,wfo-0001103946,7406003,,
-76cfa5fc-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Pilostigma,,Tiegh.,Q2421500,1894,,"Bull. Soc. Bot. France 41: 488 1894",,Q55756780,,,,551319-1,wfo-0000468629,5639097,,
-ac81b3e2-8fcd-11eb-924d-9cd76263cbd0,species,sanguineum,Pilostigma,,"(F.Muell.) Tiegh.","Q708002,Q2421500",1894,,"Bull. Soc. Bot. France 41: 488 1894",,,,,,,wfo-0001035750,5639088,,
-76d1a6e0-8fcc-11eb-924d-9cd76263cbd0,species,whitei,Pilostigma,,"(Blakely) Barlow","Q8005619,Q6398703",1962,,"Proc. Linn. Soc. New South Wales 87: 56 1962",,,,,,551321-1,wfo-0000468635,5639077,,
+e88a3496-8fd1-11eb-924d-9cd76263cbd0,genus,Pilostigma,,,Tiegh.,0,1894,,"Bulletin de la Soci?t? Botanique de France 41 1895",,,,,,urn:lsid:ipni.org:names:71316-3,wfo-4000029714,7287967,,
+76cfc104-8fcc-11eb-924d-9cd76263cbd0,species,brevipes,Pilostigma,,Tiegh.,0,1894,,"Bull. Soc. Bot. France 41: 488 (1894)",,Q55756780,,,,urn:lsid:ipni.org:names:551318-1,wfo-0000468630,5639110,,
+cadf950c-8fcd-11eb-924d-9cd76263cbd0,species,inflexum,Pilostigma,,Costantin,0,1912,,"Fl. Indo-Chine 4: 73 (1912)",,,,,,urn:lsid:ipni.org:names:100665-1,wfo-0001103946,7406003,,
+76cfa5fc-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Pilostigma,,Tiegh.,0,1894,,"Bull. Soc. Bot. France 41: 488 (1894)",,Q55756780,,,,urn:lsid:ipni.org:names:551319-1,wfo-0000468629,5639097,,
+ac81b3e2-8fcd-11eb-924d-9cd76263cbd0,species,sanguineum,Pilostigma,,Tiegh.,0,1894,,"Bull. Soc. Bot. France 41: 489 (1894)",,,,,,urn:lsid:ipni.org:names:551320-1,wfo-0001035750,5639088,,
+76d1a6e0-8fcc-11eb-924d-9cd76263cbd0,species,whitei,Pilostigma,,"(Blakely) Barlow",0,1962,,"Proc. Linn. Soc. New South Wales 87: 56 (1962)",,,,,,urn:lsid:ipni.org:names:551321-1,wfo-0000468635,5639077,,

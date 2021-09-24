@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8097fb8-8fd1-11eb-924d-9cd76263cbd0,genus,Paroxygraphis,,,W.W.Sm.,Q1278792,1913,,"Rec. Bot. Surv. India 4: 344. 1913.",,,,,,33212-1,wfo-4000028248,7278141,,
-78d47904-8fcc-11eb-924d-9cd76263cbd0,species,sikkimensis,Paroxygraphis,,W.W.Sm.,Q1278792,1913,,"Rec. Bot. Surv. India 4: 344 1913",,,,,,711907-1,wfo-0000471973,3930234,,
-af201ae4-8fcd-11eb-924d-9cd76263cbd0,species,calophylla,Parquetina,,"(Baill.) Venter","Q461931,Q5894356",,,"S. African J. Bot. 75(3): 558",,Q55755667,,,,77100919-1,wfo-0001041756,7462887,,
-4135cbce-8fcc-11eb-924d-9cd76263cbd0,species,gabonica,Parquetina,,Baill.,Q461931,1889,,"Bull. Mens. Soc. Linn. Paris 2: 806 1889",,,,,,,wfo-0000392189,3580810,,
-41343548-8fcc-11eb-924d-9cd76263cbd0,species,nigrescens,Parquetina,,"(Afzel.) Bullock","Q347903,Q708394",1961,,"Kew Bull. 15: 205 1961",,Q55779674,,411cbfda-8fcc-11eb-924d-9cd76263cbd0,,100277-1,wfo-0000392180,3580801,,
+e8097fb8-8fd1-11eb-924d-9cd76263cbd0,genus,Paroxygraphis,,,W.W.Sm.,0,1913,,"Rec. Bot. Surv. India 4: 344 (1913)",,,,,,urn:lsid:ipni.org:names:33212-1,wfo-4000028248,7278141,,
+78d47904-8fcc-11eb-924d-9cd76263cbd0,species,sikkimensis,Paroxygraphis,,W.W.Sm.,0,1913,,"Rec. Bot. Surv. India 4: 344 (1913)",,,,,,urn:lsid:ipni.org:names:711907-1,wfo-0000471973,3930234,,
+af201ae4-8fcd-11eb-924d-9cd76263cbd0,species,calophylla,Parquetina,,"(Baill.) Venter",0,,,"S. African J. Bot. 75: 558 (2009)",,Q55755667,,,,urn:lsid:ipni.org:names:77100919-1,wfo-0001041756,7462887,,
+4135cbce-8fcc-11eb-924d-9cd76263cbd0,species,gabonica,Parquetina,,Baill.,0,1889,,"Bull. Mens. Soc. Linn. Paris 2: 806 (1889)",,,,,,urn:lsid:ipni.org:names:100276-1,wfo-0000392189,3580810,,
+41343548-8fcc-11eb-924d-9cd76263cbd0,species,nigrescens,Parquetina,,"(Wennberg) Bullock",0,1961,,"Kew Bull. 15: 205 (1961)",,Q55779674,,411cbfda-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:100277-1,wfo-0000392180,3580801,,

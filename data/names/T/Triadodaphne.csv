@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb7f0776-8fd1-11eb-924d-9cd76263cbd0,genus,Triadodaphne,,,Kosterm.,Q2467467,1974,,"Reinwardtia 9: 119. 1974.",,Q94139325,,,,21523-1,wfo-4000038854,7304645,,
-bc859556-8fcd-11eb-924d-9cd76263cbd0,species,inaequitepala,Triadodaphne,,"(Kosterm.) Kosterm.",Q2467467,1993,,"Rheedea 3(2): 131 1993",,,,ee512060-8fcc-11eb-924d-9cd76263cbd0,,975977-1,wfo-0001072264,4182015,,
-5222a326-8fcc-11eb-924d-9cd76263cbd0,species,myristicoides,Triadodaphne,,Kosterm.,Q2467467,1974,,"Reinwardtia 9: 121 1974",,Q94139325,,,,468993-1,wfo-0000413429,4182004,,
-5223127a-8fcc-11eb-924d-9cd76263cbd0,species,pachytepala,Triadodaphne,,Kosterm.,Q2467467,1993,,"Rheedea 3: 129 1993",,,,,,975976-1,wfo-0000413430,4181994,,
-68a4dc76-8fcd-11eb-924d-9cd76263cbd0,species,juncea,Triaena,,"(Desv. ex Beauv.) Griffiths","Q1354671,Q13218562",1912,,"Contr. U. S. Natl. Herb. 14: 354 1912",,,,,,256589-2,wfo-0000903999,5674882,,
-68a4fa26-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Triaena,,Kunth,Q77074,1816,,"Nov. Gen. Sp. 1: 179 1816",,,,,,424446-1,wfo-0000904000,5674881,,
+eb7f0776-8fd1-11eb-924d-9cd76263cbd0,genus,Triadodaphne,,,Kosterm.,0,1974,,"Reinwardtia 9: 119 (1974)",,Q94139325,,,,urn:lsid:ipni.org:names:21523-1,wfo-4000038854,7304645,,
+bc859556-8fcd-11eb-924d-9cd76263cbd0,species,inaequitepala,Triadodaphne,,"(Kosterm.) Kosterm.",0,1993,,"Rheedea 3: 131 (1993)",,,,ee512060-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:975977-1,wfo-0001072264,4182015,,
+5222a326-8fcc-11eb-924d-9cd76263cbd0,species,myristicoides,Triadodaphne,,Kosterm.,0,1974,,"Reinwardtia 9: 121 (1974)",,Q94139325,,,,urn:lsid:ipni.org:names:468993-1,wfo-0000413429,4182004,,
+5223127a-8fcc-11eb-924d-9cd76263cbd0,species,pachytepala,Triadodaphne,,Kosterm.,0,1993,,"Rheedea 3: 129 (1993)",,,,,,urn:lsid:ipni.org:names:975976-1,wfo-0000413430,4181994,,
+68a4dc76-8fcd-11eb-924d-9cd76263cbd0,species,juncea,Triaena,,Griffiths,0,1912,,"Contr. U.S. Natl. Herb. 14: 354 (1912)",,,,,,urn:lsid:ipni.org:names:256589-2,wfo-0000903999,5674882,,
+68a4fa26-8fcd-11eb-924d-9cd76263cbd0,species,racemosa,Triaena,,Kunth,0,1816,,"Nov. Gen. Sp. 1: 179 (1816)",,,,,,urn:lsid:ipni.org:names:424446-1,wfo-0000904000,5674881,,

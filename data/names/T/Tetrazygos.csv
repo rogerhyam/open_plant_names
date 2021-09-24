@@ -1,5 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb3d8bac-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrazygos,,,,,,,,,,,,,,wfo-4000038018,7273016,,
-cf2f3300-8fbf-11eb-924d-9cd76263cbd0,species,ciliatus,Tetrazygos,,"Rich. ex DC.","Q714754,Q123057",1828,,"Prodr. (DC.) 3: 197 1828 [mid Mar 1828]",,,,,,576198-1,wfo-0000162237,3864594,,
-52349054-8fcc-11eb-924d-9cd76263cbd0,species,articulatum,Tetreilema,,Turcz.,Q2640364,1863,,"Bull. Soc. Imp. Naturalistes Moscou 36(2): 200 1863",,,,,,435687-1,wfo-0000413510,4071476,,
-bbe1a78a-8fd1-11eb-924d-9cd76263cbd0,species,boliviense,Tetreilema,,Turcz.,Q2640364,1863,,"Bull. Soc. Imp. Naturalistes Moscou 36(2): 1863",,,,,,435688-1,wfo-0001246386,3873666,,
+eb3d8bac-8fd1-11eb-924d-9cd76263cbd0,genus,Tetrazygos,,,"Rich. ex DC.",,,,"Prodr. 3: 197 (1828)",,,,,,urn:lsid:ipni.org:names:26625-1,wfo-4000038018,7273016,,
+cf2f3300-8fbf-11eb-924d-9cd76263cbd0,species,ciliatus,Tetrazygos,,"Rich. ex DC.",0,1828,,"Prodr. 3: 197 (1828)",,,,,,urn:lsid:ipni.org:names:576198-1,wfo-0000162237,3864594,,

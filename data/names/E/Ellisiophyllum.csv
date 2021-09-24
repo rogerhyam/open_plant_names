@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e33fe30a-8fd1-11eb-924d-9cd76263cbd0,genus,Ellisiophyllum,,,Maxim.,Q77640,1871,,"Bull. Acad. Imp. Sci. Saint-Petersbourg, sér. 3 16(3): 223. 1871.",,,,,,19754-1,wfo-4000013232,7333318,,
-eda7e086-8fcc-11eb-924d-9cd76263cbd0,species,pinnatum,Ellisiophyllum,,"(Wall. ex Benth.) Makino","Q730310,Q731808,Q729955",1906,,"Bot. Mag. (Tokyo) 20: 91 1906",,,,,,432073-1,wfo-0000666474,7333320,,
-a70bc940-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,bhutanense,Ellisiophyllum,pinnatum,R.R.Mill,Q6109522,2000,,"Edinburgh J. Bot. 57(3): 414",,Q55755749,,,,1016747-1,,,,
-eda7fe0e-8fcc-11eb-924d-9cd76263cbd0,variety,reptans,Ellisiophyllum,pinnatum,"(Maxim.) T.Yamaz.","Q77640,Q19003481",,,,,,,,,,wfo-0000666475,7375761,,
-eda81ae2-8fcc-11eb-924d-9cd76263cbd0,species,reptans,Ellisiophyllum,,Maxim.,Q77640,1871,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg III, 16: 223 1871",,,,,,432074-1,wfo-0000666476,3741699,,
+e33fe30a-8fd1-11eb-924d-9cd76263cbd0,genus,Ellisiophyllum,,,Maxim.,0,1871,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 16: 223 (1871)",,,,,,urn:lsid:ipni.org:names:19754-1,wfo-4000013232,7333318,,
+eda7e086-8fcc-11eb-924d-9cd76263cbd0,species,pinnatum,Ellisiophyllum,,"(Wall. ex Benth.) Makino",0,1906,,"Bot. Mag. (Tokyo) 20: 91 (1906)",,,,,,urn:lsid:ipni.org:names:432073-1,wfo-0000666474,7333320,,
+5d491ed8-1d4d-11ec-82c2-f14daa6f2d93,subspecies,bhutanense,Ellisiophyllum,pinnatum,R.R.Mill,,,,"Edinburgh J. Bot. 57: 414 (2000)",,,,,,urn:lsid:ipni.org:names:1016747-1,wfo-0001358649,,,
+a70bc940-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,bhutanense,Ellisiophyllum,pinnatum,R.R.Mill,0,2000,,"Edinburgh J. Bot. 57(3): 414",,Q55755749,,,,1016747-1,,,,
+eda7fe0e-8fcc-11eb-924d-9cd76263cbd0,variety,reptans,Ellisiophyllum,pinnatum,"(Maxim.) T.Yamaz.",0,,,,,,,,,,wfo-0000666475,7375761,,
+eda81ae2-8fcc-11eb-924d-9cd76263cbd0,species,reptans,Ellisiophyllum,,Maxim.,0,1871,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 16: 223 (1871)",,,,,,urn:lsid:ipni.org:names:432074-1,wfo-0000666476,3741699,,

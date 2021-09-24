@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e190fb0c-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiroglossa,,,C.Presl,Q379601,1845,,"Suppl. Tent. Pterid. 56. 1845[1846].",,,,,,,wfo-4000007779,7692563,,
-6a545e58-8fbd-11eb-924d-9cd76263cbd0,species,austrobrasiliensis,Cheiroglossa,,Brade,Q5650096,1970,,"Bradea 1: 30, fig. 1 1970",,,,,,55929-2,wfo-0000147679,3659232,,
-6a5e71d6-8fbd-11eb-924d-9cd76263cbd0,species,louisii,Cheiroglossa,,Pic.Serm.,Q2607627,1954,,"Webbia 9: 625. 1954. 1954",,Q55757921,,,,17376020-1,wfo-0000147680,7411894,,
-6a683aae-8fbd-11eb-924d-9cd76263cbd0,species,malgassica,Cheiroglossa,,Pic.Serm.,Q2607627,1968,,"Webbia 23: 168. 1968. 1968",,Q55757944,,,,17431640-1,wfo-0000147681,3659224,,
-cd189f94-8fcd-11eb-924d-9cd76263cbd0,species,palmata,Cheiroglossa,,"(L.) C.Presl","Q1043,Q379601",1845,,"Suppl. Tent. Pterid. 57 1845",,,,,,1215056-2,wfo-0001109064,2650125,,
-cd622a88-8fcd-11eb-924d-9cd76263cbd0,variety,malgassica,Cheiroglossa,palmata,C.Chr.,Q2114106,1932,,"Dansk Bot. Ark. 7: 185, t. 74, f. 4–5 1932",,,,,,17431650-1,wfo-0001109719,3659212,,
+e190fb0c-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiroglossa,,,C.Presl,0,1845,,"Suppl. Tent. Pterid. : 56 (1845)",,,,,,urn:lsid:ipni.org:names:17068350-1,wfo-4000007779,7692563,,
+6a545e58-8fbd-11eb-924d-9cd76263cbd0,species,austrobrasiliensis,Cheiroglossa,,Brade,0,1970,,"Bradea 1: 30, fig. 1 (1970)",,,,,,urn:lsid:ipni.org:names:55929-2,wfo-0000147679,3659232,,
+6a5e71d6-8fbd-11eb-924d-9cd76263cbd0,species,louisii,Cheiroglossa,,"(Taton) Pic.Serm.",0,1954,,"Webbia 9: 625. 1954. (1954)",,Q55757921,,,,urn:lsid:ipni.org:names:17376020-1,wfo-0000147680,7411894,,
+6a683aae-8fbd-11eb-924d-9cd76263cbd0,species,malgassica,Cheiroglossa,,"(C.Chr.) Pic.Serm.",0,1968,,"Webbia 23: 168. 1968. (1968)",,Q55757944,,,,urn:lsid:ipni.org:names:17431640-1,wfo-0000147681,3659224,,
+cd189f94-8fcd-11eb-924d-9cd76263cbd0,species,palmata,Cheiroglossa,,"(L.) C.Presl",0,1845,,"Suppl. Tent. Pterid. : 57 (1845)",,,,,,urn:lsid:ipni.org:names:1215056-2,wfo-0001109064,2650125,,
+cd622a88-8fcd-11eb-924d-9cd76263cbd0,variety,malgassica,Cheiroglossa,palmata,C.Chr.,0,1932,,"Dansk Bot. Ark. 7: 185, t. 74 (4-5). 1932. (1932)",,,,,,urn:lsid:ipni.org:names:17431650-1,wfo-0001109719,3659212,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9546888-8fd1-11eb-924d-9cd76263cbd0,genus,Ptilostephium,,,,,,,,,,,,,,wfo-4000032096,7336343,,
-784e00c6-8fb4-11eb-924d-9cd76263cbd0,species,balbisioides,Ptilostephium,,Spreng.,Q62829,1826,,"Syst. Veg. (ed. 16) [Sprengel] 3: 570 1826",,,,,,240465-1,wfo-0000065531,4213473,,
-d77fb534-8fba-11eb-924d-9cd76263cbd0,species,coronopifolium,Ptilostephium,,"Sch.Bip. ex Kunth","Q65685,Q77074",,,,,,,,,,wfo-0000129783,,,
-1159f03e-8fb2-11eb-924d-9cd76263cbd0,species,galeottii,Ptilostephium,,"Sch.Bip. ex Klatt","Q65685,Q3087784",1887,,"Leopoldina 23: 146. 1887 In synon",,,,,,214317-2,wfo-0000009270,8174985,,
-8fb4ff58-8fb4-11eb-924d-9cd76263cbd0,species,galeottii,Ptilostephium,,Sch.Bip.,Q65685,,,,,,,,,1121334-2,wfo-0000066841,4213456,,
-9aedbb08-8fb9-11eb-924d-9cd76263cbd0,species,trifidum,Ptilostephium,,Kunth,Q77074,1820,,"Nov. Gen. Sp. [H.B.K.] iv. 255. t. 388. 1820 [1818]",,,,,,,wfo-0000119812,3149451,,
+e9546888-8fd1-11eb-924d-9cd76263cbd0,genus,Ptilostephium,,,Kunth,,,,"Nov. Gen. Sp. 4(17): 199 (ed. fol.) (1818)",,,,,,urn:lsid:ipni.org:names:10771-1,wfo-4000032096,7336343,,
+784e00c6-8fb4-11eb-924d-9cd76263cbd0,species,balbisioides,Ptilostephium,,Spreng.,0,1826,,"Syst. Veg. 3: 570 (1826)",,,,,,urn:lsid:ipni.org:names:240465-1,wfo-0000065531,4213473,,
+d77fb534-8fba-11eb-924d-9cd76263cbd0,species,coronopifolium,Ptilostephium,,Kunth,0,,,"Nov. Gen. Sp. 4(17): 200 (1818)",,,,,,urn:lsid:ipni.org:names:240466-1,wfo-0000129783,,,
+1159f03e-8fb2-11eb-924d-9cd76263cbd0,species,galeottii,Ptilostephium,,"Sch.Bip. ex Klatt",0,1887,,"Leopoldina 23: 146 (1887)",,,,,,urn:lsid:ipni.org:names:214317-2,wfo-0000009270,8174985,,
+8fb4ff58-8fb4-11eb-924d-9cd76263cbd0,species,galeottii,Ptilostephium,,Sch.Bip.,0,,,,,,,,,urn:lsid:ipni.org:names:1121334-2,wfo-0000066841,4213456,,
+9aedbb08-8fb9-11eb-924d-9cd76263cbd0,species,trifidum,Ptilostephium,,Kunth,0,1820,,"Nov. Gen. Sp. 4(17): 200, t. 388 (ed. fol.) (1818)",,,,,,urn:lsid:ipni.org:names:240467-1,wfo-0000119812,3149451,,

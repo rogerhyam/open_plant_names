@@ -1,9 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaf12b22-8fd1-11eb-924d-9cd76263cbd0,genus,Styppeiochloa,,,"De Winter",Q4893792,1966,,"Bothalia 9: 134. 1966.",,Q55798388,,,,19096-1,wfo-4000037026,4129096,,
-680f6a10-8fcd-11eb-924d-9cd76263cbd0,species,catherineana,Styppeiochloa,,"Cope & Ryves","Q6146016,Q21607590",2003,,"Kew Bull. 58: 739 2003",,Q55781209,,,,50425785-2,wfo-0000903236,4129113,,
-680f9198-8fcd-11eb-924d-9cd76263cbd0,species,gynoglossa,Styppeiochloa,,"(Gooss.) De Winter","Q5697614,Q4893792",1966,,"Bothalia 9: 136 1966",,Q55798388,,4f2dcb72-8fcd-11eb-924d-9cd76263cbd0,,423990-1,wfo-0000903237,4129103,,
-680fb6f0-8fcd-11eb-924d-9cd76263cbd0,species,hitchcockii,Styppeiochloa,,"(A.Camus) Cope","Q272128,Q6146016",2003,,"Kew Bull. 58: 741 2003",,Q55781209,,600a9448-8fcd-11eb-924d-9cd76263cbd0,,50425786-2,wfo-0000903238,4129095,,
-15e400f2-8fcd-11eb-924d-9cd76263cbd0,species,amplexicaulis,Styrandra,,Raf.,Q364857,1840,,"Autik. Bot. 68 1840",,,,,,285716-2,wfo-0000738262,2769546,,
-15e52afe-8fcd-11eb-924d-9cd76263cbd0,species,bifolia,Styrandra,,"(L.) Raf.","Q1043,Q364857",1830,,"Med. Fl. 2: 84 1830",,,,,,542113-1,wfo-0000738272,2769336,,
-ab7fdc94-8fcd-11eb-924d-9cd76263cbd0,species,canadensis,Styrandra,,"(Desf.) Raf.","Q545953,Q364857",1818,,"Amer. Monthly Mag. & Crit. Rev. 1: 266 1818",,,,,,542114-1,wfo-0001033671,2769548,,
-15e66f5e-8fcd-11eb-924d-9cd76263cbd0,species,petiolaris,Styrandra,,Raf.,Q364857,1840,,"Autik. Bot. 68 1840",,,,,,542115-1,wfo-0000738281,2769330,,
+eaf12b22-8fd1-11eb-924d-9cd76263cbd0,genus,Styppeiochloa,,,"De Winter",0,1966,,"Bothalia 9: 134 (1966)",,Q55798388,,,,urn:lsid:ipni.org:names:19096-1,wfo-4000037026,4129096,,
+680f6a10-8fcd-11eb-924d-9cd76263cbd0,species,catherineana,Styppeiochloa,,"Cope & Ryves",0,2003,,"Kew Bull. 58: 739 (2003)",,Q55781209,,,,urn:lsid:ipni.org:names:50425785-2,wfo-0000903236,4129113,,
+680f9198-8fcd-11eb-924d-9cd76263cbd0,species,gynoglossa,Styppeiochloa,,"(Goossens) De Winter",0,1966,,"Bothalia 9: 136 (1966)",,Q55798388,,4f2dcb72-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:423990-1,wfo-0000903237,4129103,,
+680fb6f0-8fcd-11eb-924d-9cd76263cbd0,species,hitchcockii,Styppeiochloa,,"(A.Camus) Cope",0,2003,,"Kew Bull. 58: 741 (2003)",,Q55781209,,600a9448-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:50425786-2,wfo-0000903238,4129095,,

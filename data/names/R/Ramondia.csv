@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e978992e-8fd1-11eb-924d-9cd76263cbd0,genus,Ramondia,,,Mirb.,Q765542,,,,,,,,,,wfo-4000032513,7586723,,
-d00cf290-8fcd-11eb-924d-9cd76263cbd0,species,flexuosa,Ramondia,,"(L.) Mirb.","Q1043,Q765542",1801,,"Bull. Sci. Soc. Philom. Paris 2: 179 1801",,,,,,17218360-1,wfo-0001115056,3744409,,
-cfde093a-8fcd-11eb-924d-9cd76263cbd0,species,palmata,Ramondia,,Bosc,Q948587,,,"Bull. Soc. Philom. Paris 2: 179",,,,,,17261210-1,wfo-0001114683,3744402,,
-d448d2c0-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Ramondia,,"(L.) Mirb.","Q1043,Q765542",1801,,"Bull. Soc. Philom. Paris 2: 179 1801",,,,,,17218370-1,wfo-0001124446,3744394,,
-4450dff0-8fcd-11eb-924d-9cd76263cbd0,species,ramonensis,,,Pupulin,Q598420,,,"Orchid Rev. 118(1290, Suppl.): 41 2010",,,,,,77105475-1,wfo-0000837242,,,
+e978992e-8fd1-11eb-924d-9cd76263cbd0,genus,Ramondia,,,Mirb.,0,,,,,,,,,urn:lsid:ipni.org:names:17218350-1,wfo-4000032513,7586723,,
+d00cf290-8fcd-11eb-924d-9cd76263cbd0,species,flexuosa,Ramondia,,"(L.) Mirb.",0,1801,,"Bull. Sci. Soc. Philom. Paris 2. 179. t. 12 f. 3. 1801 (1801)",,,,,,urn:lsid:ipni.org:names:17218360-1,wfo-0001115056,3744409,,
+cfde093a-8fcd-11eb-924d-9cd76263cbd0,species,palmata,Ramondia,,Bosc,0,,,"Unknown 2. 179. 1801 (1801)",,,,,,urn:lsid:ipni.org:names:17261210-1,wfo-0001114683,3744402,,
+d448d2c0-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Ramondia,,Mirb.,0,1801,,"Bull. Sci. Soc. Philom. Paris 2. 179 (1801)",,,,,,urn:lsid:ipni.org:names:17218370-1,wfo-0001124446,3744394,,

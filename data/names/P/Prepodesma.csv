@@ -1,8 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8ffad98-8fd1-11eb-924d-9cd76263cbd0,genus,Prepodesma,,,N.E.Br.,Q721850,1930,,"Gard. Chron. ser. 3. 88: 279. 1930.",,,,,,16312-1,wfo-4000031106,7329413,,
-add3852c-8fcd-11eb-924d-9cd76263cbd0,species,orpenii,Prepodesma,,"(N.E.Br.) N.E.Br.",Q721850,1931,,"Gard. Chron., ser. 3 89: 389 1931",,,,add3681c-8fcd-11eb-924d-9cd76263cbd0,,364031-1,wfo-0001038758,3706287,,
-41cb91f4-8fcc-11eb-924d-9cd76263cbd0,species,uncipetala,Prepodesma,,N.E.Br.,Q721850,1931,,"Gard. Chron. III, 89: 389 1931",,,,,,364032-1,wfo-0000393023,3706278,,
-fb7f62a2-8fcb-11eb-924d-9cd76263cbd0,species,rubens,Preptanthe,,"(Ridl.) Ridl.",Q733709,1924,,"Fl. Malay Penins. 4: 123 1924",,,,,,654978-1,wfo-0000282905,2795218,,
-fb7f7f58-8fcb-11eb-924d-9cd76263cbd0,species,sedenii,Preptanthe,,"(Rchb.f.) Rchb.f.",Q62820,1878,,"Gard. Chron. n.s., 9: 168 1878",,,,,,,wfo-0000282906,7391969,,
-fb7f9c04-8fcb-11eb-924d-9cd76263cbd0,species,vestita,Preptanthe,,"(Wall. ex Lindl.) Rchb.f.","Q730310,Q378629,Q62820",1853,,"Fl. Serres Jard. Eur. 8: 245 1853",,,,23352934-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000282907,2795006,,
-fb7fd70a-8fcb-11eb-924d-9cd76263cbd0,species,villosa,Preptanthe,,Rchb.f.,Q62820,1857,,"Bonplandia (Hannover) 5: 42 1857",,,,,,654981-1,wfo-0000282909,2794904,,
+e8ffad98-8fd1-11eb-924d-9cd76263cbd0,genus,Prepodesma,,,N.E.Br.,0,1930,,"in Gard. Chron., ser. 3, 88: 279. 1930.",,,,,,,wfo-4000031106,7329413,,
+add3852c-8fcd-11eb-924d-9cd76263cbd0,species,orpenii,Prepodesma,,"(N.E.Br.) N.E.Br.",0,1931,,"in Gard. Chron., ser. 3, 89: . 1931.",,,,add3681c-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001038758,3706287,,
+41cb91f4-8fcc-11eb-924d-9cd76263cbd0,species,uncipetala,Prepodesma,,N.E.Br.,0,1931,,"in Gard. Chron., ser. 3, 89: 389. 1931.",,,,,,,wfo-0000393023,3706278,,

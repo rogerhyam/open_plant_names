@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e938fc9c-8fd1-11eb-924d-9cd76263cbd0,genus,Psiadiella,,,Humbert,Q2738811,,,,,,,,,10722-1,wfo-4000031758,6063851,,
-b7479cbe-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Psiadiella,,Humbert,Q2738811,1923,,"Composees Madag. (Mem. Soc. Linn. Normand. xxv.) 40, 282 (1923).",,,,,,,wfo-0000081319,4216833,,
-de8f1c2c-8fd1-11eb-924d-9cd76263cbd0,variety,hirsutissima,Psiadiella,humilis,Humbert,Q2738811,1960,,"Flore de Madagascar et des Comores 189(1): 235. 1960. (Fl. Madagasc.)",,,,,,,wfo-0001315723,10945200,,
+e938fc9c-8fd1-11eb-924d-9cd76263cbd0,genus,Psiadiella,,,Humbert,0,,,"Compos. Madagascar 39, 282 (1923)",,,,,,urn:lsid:ipni.org:names:10722-1,wfo-4000031758,6063851,,
+b7479cbe-8fb5-11eb-924d-9cd76263cbd0,species,humilis,Psiadiella,,Humbert,0,1923,,"Compos. Madagascar 40, 282 (1923)",,,,,,urn:lsid:ipni.org:names:239963-1,wfo-0000081319,4216833,,
+de8f1c2c-8fd1-11eb-924d-9cd76263cbd0,variety,hirsutissima,Psiadiella,humilis,Humbert,0,1960,,"Flore de Madagascar et des Comores 189(1): 235. 1960. (Fl. Madagasc.)",,,,,,,wfo-0001315723,10945200,,
+dd123a92-1d47-11ec-82c2-f14daa6f2d93,variety,humilis,Psiadiella,humilis,,,,,,,,,,,,wfo-0000101411,,,

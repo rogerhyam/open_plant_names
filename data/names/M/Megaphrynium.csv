@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e67a4556-8fd1-11eb-924d-9cd76263cbd0,genus,Megaphrynium,,,Milne-Redh.,Q5817751,1952,,"Kew Bull. 1952: 169. 1952.",,Q55779647,,,,26119-1,wfo-4000023505,2761132,,
-783ed584-8fcc-11eb-924d-9cd76263cbd0,species,distans,Megaphrynium,,Hepper,Q5868529,1968,,"Kew Bull. 32: 461 1968",,Q55784817,,,,565166-1,wfo-0000470987,2761151,,
-78400d00-8fcc-11eb-924d-9cd76263cbd0,species,gabonense,Megaphrynium,,Koechlin,Q21516194,1964,,"in Fl. Gabon 9: 153 1964",,,,,,565167-1,wfo-0000470996,2761134,,
-7841633a-8fcc-11eb-924d-9cd76263cbd0,species,macrostachyum,Megaphrynium,,"(K.Schum.) Milne-Redh.","Q63545,Q5817751",1952,,"Kew Bull. 7: 170 1952",,Q55779647,,,,565168-1,wfo-0000471005,2761135,,
-7841dd88-8fcc-11eb-924d-9cd76263cbd0,species,trichogynum,Megaphrynium,,Koechlin,Q21516194,1964,,"in Fl. Gabon 9: 154 1964",,,,,,565169-1,wfo-0000471008,2761133,,
-78428c10-8fcc-11eb-924d-9cd76263cbd0,species,velutinum,Megaphrynium,,"(K.Schum.) Koechlin","Q63545,Q21516194",1964,,"in Fl. Gabon 9: 158 1964",,,,98030a52-8fcc-11eb-924d-9cd76263cbd0,,565170-1,wfo-0000471014,2761152,,
+e67a4556-8fd1-11eb-924d-9cd76263cbd0,genus,Megaphrynium,,,Milne-Redh.,0,1952,,"Kew Bull. 7: 169 (1952)",,Q55779647,,,,urn:lsid:ipni.org:names:26119-1,wfo-4000023505,2761132,,
+783ed584-8fcc-11eb-924d-9cd76263cbd0,species,distans,Megaphrynium,,Hepper,0,1968,,"Kew Bull. 32: 461 (1968)",,Q55784817,,,,urn:lsid:ipni.org:names:565166-1,wfo-0000470987,2761151,,
+78400d00-8fcc-11eb-924d-9cd76263cbd0,species,gabonense,Megaphrynium,,Koechlin,0,1964,,"Fl. Gabon 9: 153 (1964)",,,,,,urn:lsid:ipni.org:names:565167-1,wfo-0000470996,2761134,,
+7841633a-8fcc-11eb-924d-9cd76263cbd0,species,macrostachyum,Megaphrynium,,"(Benth.) Milne-Redh.",0,1952,,"Kew Bull. 7: 170 (1952)",,Q55779647,,,,urn:lsid:ipni.org:names:565168-1,wfo-0000471005,2761135,,
+7841dd88-8fcc-11eb-924d-9cd76263cbd0,species,trichogynum,Megaphrynium,,Koechlin,0,1964,,"Fl. Gabon 9: 154 (1964)",,,,,,urn:lsid:ipni.org:names:565169-1,wfo-0000471008,2761133,,
+78428c10-8fcc-11eb-924d-9cd76263cbd0,species,velutinum,Megaphrynium,,"(Baker) Koechlin",0,1964,,"Fl. Gabon 9: 158 (1964)",,,,98030a52-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:565170-1,wfo-0000471014,2761152,,

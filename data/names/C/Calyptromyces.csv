@@ -1,20 +1,20 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a243e81e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calyptromyces,,,"H. Karst.",,1849,,"Bot. Ztg. 7: 365 (1849)",,,,a243e81e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25048," "
-a7bb0e90-9bac-11eb-a8a2-19ed5c03f8d3,species,circinelloides,Calyptromyces,,"(Tiegh.) Sumst.",Q2421500,1910,,"Mycologia 2(3): 148 (1910)",,,,a6bcd9ec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433058," "
+a7bb0e90-9bac-11eb-a8a2-19ed5c03f8d3,species,circinelloides,Calyptromyces,,"(Tiegh.) Sumst.",0,1910,,"Mycologia 2(3): 148 (1910)",,,,a6bcd9ec-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433058," "
 a7bb4fea-9bac-11eb-a8a2-19ed5c03f8d3,species,globosus,Calyptromyces,,"(A. Fisch.) Sumst.",,1910,,"Mycologia 2(3): 148 (1910)",,,,,,,,,433059," "
 a7bb821c-9bac-11eb-a8a2-19ed5c03f8d3,species,plumbeus,Calyptromyces,,"(Bonord.) Sumst.",,1910,,"Mycologia 2(3): 148 (1910)",,,,cb990d76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433060," "
 a3865f5e-9bad-11eb-a8a2-19ed5c03f8d3,species,racemosus,Calyptromyces,,"P. Karst.",,1862,,"Bot. Ztg. 20: 305 (1862)",,,,a3865f5e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,433061," "
-2dd3e538-8fcd-11eb-924d-9cd76263cbd0,species,cordata,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 56 1857",,,,,,591867-1,wfo-0000788909,3716310,,
-2dd5394c-8fcd-11eb-924d-9cd76263cbd0,species,costata,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 56 1857",,,,,,591868-1,wfo-0000788920,3174722,,
-2dd66d4e-8fcd-11eb-924d-9cd76263cbd0,species,cymosa,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 58 1857",,,,,,591869-1,wfo-0000788931,3188210,,
-2f3ffa10-8fcd-11eb-924d-9cd76263cbd0,variety,major,Calyptromyrcia,cymosa,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 58 1857",,,,,,43525-2,wfo-0000792078,3188211,,
-2f40169e-8fcd-11eb-924d-9cd76263cbd0,variety,minor,Calyptromyrcia,cymosa,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 58 1857",,,,,,43526-2,wfo-0000792079,3188209,,
-2dd7a7b8-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Calyptromyrcia,,"(DC.) O.Berg","Q123057,Q67868",1857,,"Fl. Bras. 14(1): 58 1857",,,,,,591870-1,wfo-0000788942,3174959,,
-2dd8d3d6-8fcd-11eb-924d-9cd76263cbd0,species,eugenioides,Calyptromyrcia,,"(Cambess.) O.Berg","Q2616946,Q67868",1857,,"Fl. Bras. 14(1): 56 1857",,,,,,591871-1,wfo-0000788953,3186376,,
-2f403354-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Calyptromyrcia,eugenioides,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 56 1857",,,,,,43527-2,wfo-0000792080,3186383,,
-2f40503c-8fcd-11eb-924d-9cd76263cbd0,variety,puberula,Calyptromyrcia,eugenioides,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 56 1857",,,,,,43528-2,wfo-0000792081,3186384,,
-2dda0d96-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 57 1857",,,,,,591872-1,wfo-0000788964,3716368,,
-2f406ca2-8fcd-11eb-924d-9cd76263cbd0,variety,opaca,Calyptromyrcia,paniculata,O.Berg,Q67868,1859,,"Fl. Bras. 14(1): 544 1859",,,,,,43529-2,wfo-0000792082,3716367,,
-2ddbb704-8fcd-11eb-924d-9cd76263cbd0,species,puberula,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 57 1857",,,,,,591873-1,wfo-0000788975,3174441,,
-2ddcefac-8fcd-11eb-924d-9cd76263cbd0,species,spixiana,Calyptromyrcia,,"(DC.) O.Berg","Q123057,Q67868",1857,,"Fl. Bras. 14(1): 59 1857",,,,e59f2008-8fcb-11eb-924d-9cd76263cbd0,,591874-1,wfo-0000788986,3174993,,
-2dde3a74-8fcd-11eb-924d-9cd76263cbd0,species,venosa,Calyptromyrcia,,O.Berg,Q67868,1857,,"Fl. Bras. 14(1): 57 1857",,,,,,591875-1,wfo-0000788998,11106683,,
+2dd3e538-8fcd-11eb-924d-9cd76263cbd0,species,cordata,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 56 (1857)",,,,,,urn:lsid:ipni.org:names:591867-1,wfo-0000788909,3716310,,
+2dd5394c-8fcd-11eb-924d-9cd76263cbd0,species,costata,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 56 (1857)",,,,,,urn:lsid:ipni.org:names:591868-1,wfo-0000788920,3174722,,
+2dd66d4e-8fcd-11eb-924d-9cd76263cbd0,species,cymosa,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 58 (1857)",,,,,,urn:lsid:ipni.org:names:591869-1,wfo-0000788931,3188210,,
+2f3ffa10-8fcd-11eb-924d-9cd76263cbd0,variety,major,Calyptromyrcia,cymosa,O.Berg,0,1857,,"Fl. Bras. 14(1): 58 (1857)",,,,,,urn:lsid:ipni.org:names:43525-2,wfo-0000792078,3188211,,
+2f40169e-8fcd-11eb-924d-9cd76263cbd0,variety,minor,Calyptromyrcia,cymosa,O.Berg,0,1857,,"Fl. Bras. 14(1): 58 (1857)",,,,,,urn:lsid:ipni.org:names:43526-2,wfo-0000792079,3188209,,
+2dd7a7b8-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Calyptromyrcia,,O.Berg,0,1857,,"Linnaea 27: 34 (1855)",,,,,,urn:lsid:ipni.org:names:591870-1,wfo-0000788942,3174959,,
+2dd8d3d6-8fcd-11eb-924d-9cd76263cbd0,species,eugenioides,Calyptromyrcia,,O.Berg,0,1857,,"Linnaea 27: 34 (1855)",,,,,,urn:lsid:ipni.org:names:591871-1,wfo-0000788953,3186376,,
+2f403354-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Calyptromyrcia,eugenioides,O.Berg,0,1857,,"Fl. Bras. 14(1): 56 (1857)",,,,,,urn:lsid:ipni.org:names:43527-2,wfo-0000792080,3186383,,
+2f40503c-8fcd-11eb-924d-9cd76263cbd0,variety,puberula,Calyptromyrcia,eugenioides,O.Berg,0,1857,,"Fl. Bras. 14(1): 56 (1857)",,,,,,urn:lsid:ipni.org:names:43528-2,wfo-0000792081,3186384,,
+2dda0d96-8fcd-11eb-924d-9cd76263cbd0,species,paniculata,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 57 (1857)",,,,,,urn:lsid:ipni.org:names:591872-1,wfo-0000788964,3716368,,
+2f406ca2-8fcd-11eb-924d-9cd76263cbd0,variety,opaca,Calyptromyrcia,paniculata,O.Berg,0,1859,,"Fl. Bras. 14(1): 544 (1859)",,,,,,urn:lsid:ipni.org:names:43529-2,wfo-0000792082,3716367,,
+2ddbb704-8fcd-11eb-924d-9cd76263cbd0,species,puberula,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 57 (1857)",,,,,,urn:lsid:ipni.org:names:591873-1,wfo-0000788975,3174441,,
+2ddcefac-8fcd-11eb-924d-9cd76263cbd0,species,spixiana,Calyptromyrcia,,O.Berg,0,1857,,"Linnaea 27: 34 (1855)",,,,e59f2008-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:591874-1,wfo-0000788986,3174993,,
+2dde3a74-8fcd-11eb-924d-9cd76263cbd0,species,venosa,Calyptromyrcia,,O.Berg,0,1857,,"Fl. Bras. 14(1): 57 (1857)",,,,,,urn:lsid:ipni.org:names:591875-1,wfo-0000788998,11106683,,

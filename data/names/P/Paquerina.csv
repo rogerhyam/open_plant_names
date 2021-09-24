@@ -1,4 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7ef5fc0-8fd1-11eb-924d-9cd76263cbd0,genus,Paquerina,,,,,,,,,,,,,,wfo-4000027960,3095117,,
-0265ec40-8fb2-11eb-924d-9cd76263cbd0,species,graminea,Paquerina,,"(Labill.) Cass. ex Less.","Q528925,Q958431,Q76352",1832,,1832,,,,7fd5c148-8fba-11eb-924d-9cd76263cbd0,,144792-3,wfo-0000004205,7803395,,
-e23e86fa-8fb3-11eb-924d-9cd76263cbd0,species,graminea,Paquerina,,Cass.,Q958431,1825,,"in Dict. Sc. Nat. xxxvii. 464 (1825).",,,,,,236445-1,wfo-0000056294,7803395,,
+e7ef5fc0-8fd1-11eb-924d-9cd76263cbd0,genus,Paquerina,,,Cass.,,,,"Dict. Sci. Nat., ed. 2. 37: 492 (1825)",,,,,,urn:lsid:ipni.org:names:10389-1,wfo-4000027960,3095117,,
+0265ec40-8fb2-11eb-924d-9cd76263cbd0,species,graminea,Paquerina,,"(Labill.) Less.",0,1832,,"Synopsis Generum Compositarum 1832",,,,7fd5c148-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:144792-3,wfo-0000004205,7803395,,
+e23e86fa-8fb3-11eb-924d-9cd76263cbd0,species,graminea,Paquerina,,Cass.,0,1825,,"Dict. Sci. Nat., ed. 2. 37: 464 (1825)",,,,,,urn:lsid:ipni.org:names:236445-1,wfo-0000056294,7803395,,
+67ba585a-1d4d-11ec-82c2-f14daa6f2d93,variety,angustissima,Paquerina,graminea,Sond.,,,,"Linnaea  (1853)",,,,,,urn:lsid:ipni.org:names:144815-3,wfo-0001373227,,,
+b76d9e4e-1d47-11ec-82c2-f14daa6f2d93,variety,graminea,Paquerina,graminea,"(Labill.) Less.",,,,"Linnaea  (1853)",,,,,,urn:lsid:ipni.org:names:144837-3,wfo-0000054750,,,
+67baf9fe-1d4d-11ec-82c2-f14daa6f2d93,variety,heterophylla,Paquerina,graminea,Sond.,,,,"Linnaea  (1853)",,,,,,urn:lsid:ipni.org:names:144860-3,wfo-0001373231,,,
+67bbe5bc-1d4d-11ec-82c2-f14daa6f2d93,variety,latifolia,Paquerina,graminea,Sond.,,,,"Linnaea  (1853)",,,,,,urn:lsid:ipni.org:names:144895-3,wfo-0001373235,,,

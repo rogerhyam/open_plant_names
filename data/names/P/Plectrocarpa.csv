@@ -1,5 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b0dcc2-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrocarpa,,,"Gillies ex Hook. & Arn.","Q15387,Q472639,Q730292",1833,,"Bot. Misc. 3: 166. 1833.",,,,,,,wfo-4000030209,8411891,,
-de5d5394-8fcd-11eb-924d-9cd76263cbd0,species,rougesii,Plectrocarpa,,"Descole, O'Donell & Lourteig","Q5643658,Q1042641,Q454806",1939,,"Lilloa 4: 222 1939",,,,,,202020-2,wfo-0001146444,3987467,,
-c4a18a0c-8fd1-11eb-924d-9cd76263cbd0,species,tetracantha,Plectrocarpa,,"Gillies ex Hook. & Arn.","Q15387,Q472639,Q730292",1832,,"Bot. Misc. 3: 167 1832",,,,,,873355-1,wfo-0001262584,7542351,,
-1024c822-8fcd-11eb-924d-9cd76263cbd0,species,candida,Plectronema,,"(Lindl.) Raf.","Q378629,Q364857",1838,,"Fl. Tellur. 4: 10 1838",,,,,,66616-1,wfo-0000726993,2859981,,
+e8b0dcc2-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrocarpa,,,"Gillies ex Hook. & Arn.",0,1833,,"Bot. Misc. 3: 166 (1833)",,,,,,urn:lsid:ipni.org:names:41733-1,wfo-4000030209,8411891,,
+80e65568-1d4d-11ec-82c2-f14daa6f2d93,species,arborea,Plectrocarpa,,"(Jacq.) Christenh. & Byng",,,,"Global Fl. 4: 92. 2018 [9 Feb 2018] [epublished]",,,,,,urn:lsid:ipni.org:names:77184861-1,wfo-0001423901,,,
+80e6d39e-1d4d-11ec-82c2-f14daa6f2d93,species,bonariensis,Plectrocarpa,,"(Griseb.) Christenh. & Byng",,,,"Global Fl. 4: 92. 2018 [9 Feb 2018] [epublished]",,,,,,urn:lsid:ipni.org:names:77184845-1,wfo-0001423904,,,
+80e67fe8-1d4d-11ec-82c2-f14daa6f2d93,species,carrapo,Plectrocarpa,,"(Killip & Dugand) Christenh. & Byng",,,,"Global Fl. 4: 92. 2018 [9 Feb 2018] [epublished]",,,,,,urn:lsid:ipni.org:names:77184859-1,wfo-0001423902,,,
+de5d5394-8fcd-11eb-924d-9cd76263cbd0,species,rougesii,Plectrocarpa,,"Descole, O'Donell & Lourteig",0,1939,,"Lilloa 4: 222 (1939)",,,,,,urn:lsid:ipni.org:names:202020-2,wfo-0001146444,3987467,,
+80e6aa86-1d4d-11ec-82c2-f14daa6f2d93,species,sarmientoi,Plectrocarpa,,"(Lorentz ex Griseb.) Christenh. & Byng",,,,"Global Fl. 4: 92. 2018 [9 Feb 2018] [epublished]",,,,,,urn:lsid:ipni.org:names:77184851-1,wfo-0001423903,,,
+c4a18a0c-8fd1-11eb-924d-9cd76263cbd0,species,tetracantha,Plectrocarpa,,"Gillies ex Hook. & Arn.",0,1832,,"Bot. Misc. 3: 167 (1833)",,,,,,urn:lsid:ipni.org:names:873355-1,wfo-0001262584,7542351,,
+1024c822-8fcd-11eb-924d-9cd76263cbd0,species,candida,Plectronema,,Raf.,0,1838,,"Fl. Tellur. 4: 10 (1838)",,,,,,urn:lsid:ipni.org:names:66616-1,wfo-0000726993,2859981,,

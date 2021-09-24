@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4cae6a2-8fd1-11eb-924d-9cd76263cbd0,genus,Holacantha,,,A.Gray,Q347356,1854,,"Pl. Nov. Thurb. 310–311. 1854.",,,,,,,wfo-4000018047,3190655,,
-db93edd0-8fcd-11eb-924d-9cd76263cbd0,species,emoryi,Holacantha,,A.Gray,Q347356,1854,,"Pl. Nov. Thurb. 310–311 1854",,,,,,,wfo-0001140358,5421374,,
-db9408ce-8fcd-11eb-924d-9cd76263cbd0,species,stewartii,Holacantha,,C.H.Mull.,Q5171384,1941,,"Madroño 6(4): 131–132, f. 2 [map] 1941",,,,,,,wfo-0001140359,5421372,,
-92d1903e-8fcd-11eb-924d-9cd76263cbd0,species,jasminiflora,Holalafia,,"Hutch. & Dalziel","Q253917,Q2917982",1931,,"Fl. W. Trop. Afr. 2: 43 1931",,,,,,79284-1,wfo-0000982745,3621318,,
-92d1c73e-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Holalafia,,Stapf,Q78630,1894,,"Bull. Misc. Inform. Kew 1894: 123 1894",,Q55782115,,,,79286-1,wfo-0000982747,3621308,,
-92d1e4e4-8fcd-11eb-924d-9cd76263cbd0,species,schumannii,Holalafia,,"(Stapf) Woodson","Q78630,Q727273",1950,,"Ann. Missouri Bot. Gard. 37: 406 1950",,Q55764734,,7d5a4d86-8fcd-11eb-924d-9cd76263cbd0,,79287-1,wfo-0000982748,3621293,,
+e4cae6a2-8fd1-11eb-924d-9cd76263cbd0,genus,Holacantha,,,A.Gray,0,1854,,"Mem. Amer. Acad. Arts , n.s., 5: 310 (1855)",,,,,,urn:lsid:ipni.org:names:327683-2,wfo-4000018047,3190655,,
+db93edd0-8fcd-11eb-924d-9cd76263cbd0,species,emoryi,Holacantha,,A.Gray,0,1854,,"Mem. Amer. Acad. Arts , n.s., 5: 310 (1855)",,,,,,urn:lsid:ipni.org:names:813742-1,wfo-0001140358,5421374,,
+db9408ce-8fcd-11eb-924d-9cd76263cbd0,species,stewartii,Holacantha,,C.H.Mull.,0,1941,,"Madroño 6: 131 (1941)",,,,,,urn:lsid:ipni.org:names:123519-2,wfo-0001140359,5421372,,
+92d1903e-8fcd-11eb-924d-9cd76263cbd0,species,jasminiflora,Holalafia,,"(A.Chev.) Hutch. & Dalziel",0,1931,,"Fl. W. Trop. Afr. [Hutchinson & Dalziel] ii. 43 (1931), in clavi.",,,,,,urn:lsid:ipni.org:names:79284-1,wfo-0000982745,3621318,,
+92d1c73e-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Holalafia,,Stapf,0,1894,,"Bull. Misc. Inform. Kew 1894: 123 (1894)",,Q55782115,,,,urn:lsid:ipni.org:names:79286-1,wfo-0000982747,3621308,,
+92d1e4e4-8fcd-11eb-924d-9cd76263cbd0,species,schumannii,Holalafia,,"(Stapf) Woodson",0,1950,,"Ann. Missouri Bot. Gard. 37: 406 (1950)",,Q55764734,,7d5a4d86-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:79287-1,wfo-0000982748,3621293,,

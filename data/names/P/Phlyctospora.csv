@@ -1,27 +1,28 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a482bfb0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phlyctospora,,,Corda,Q624998,1841,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) [7](19-20): 51 (1841)",,,,a482bfb0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19258," "
-cae1bee6-9bac-11eb-a8a2-19ed5c03f8d3,species,fusca,Phlyctospora,,Corda,Q624998,1841,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) [7](19-20): 51 (1841)",,,,cae1bee6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236182," "
+a482bfb0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Phlyctospora,,,Corda,0,1841,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) [7](19-20): 51 (1841)",,,,a482bfb0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19258," "
+cae1bee6-9bac-11eb-a8a2-19ed5c03f8d3,species,fusca,Phlyctospora,,Corda,0,1841,,"in Sturm, Deutschl. Fl., 3 Abt. (Pilze Deutschl.) [7](19-20): 51 (1841)",,,,cae1bee6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236182," "
 b5cb4882-9bad-11eb-a8a2-19ed5c03f8d3,species,maculata,Phlyctospora,,Pat.,,,,,,,,b5cb4882-9bad-11eb-a8a2-19ed5c03f8d3,,,,,236044," "
 7d0165e0-9bad-11eb-a8a2-19ed5c03f8d3,species,magni-ducis,Phlyctospora,,Sorokin,,,,,,,,7d0165e0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,236437," "
-cacd4290-9bac-11eb-a8a2-19ed5c03f8d3,species,persoonii,Phlyctospora,,Corda,Q624998,,,,,,,cacd4290-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235913," "
-4b7bdd94-9bac-11eb-a8a2-19ed5c03f8d3,species,sclerodermoides,Phlyctospora,,Clem.,Q920184,,,,,,,4b7bdd94-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236252," "
-78e124be-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Phoberos,,"Gardn. ex Thwaites",Q2656749,1858,,"Enum. Pl. Zeyl. 17 1858",,,,,,,wfo-0000926676,,,
-78e1403e-8fcd-11eb-924d-9cd76263cbd0,species,arnottiana,Phoberos,,Thwaites,Q2656749,1858,,"Enum. Pl. Zeyl. 16 1858",,Q96016554,,,,111988-1,wfo-0000926677,4087096,,
-78e1917e-8fcd-11eb-924d-9cd76263cbd0,species,brownii,Phoberos,,F.Muell.,Q708002,1862,,"Fragm. 3: 11 1862",,,,,,111989-1,wfo-0000926680,3878895,,
-78e0b952-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Phoberos,,Lour.,Q729917,1790,,"Fl. Cochinch. 318 1790",,,,,,111990-1,wfo-0000926672,7464916,,
-78e0d568-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Phoberos,,Lour.,Q729917,1790,,"Fl. Cochinch. 318 1790",,,,,,111992-1,wfo-0000926673,4087190,,
-78e1ad1c-8fcd-11eb-924d-9cd76263cbd0,species,crenatus,Phoberos,,"Wight & Arn.","Q1375864,Q730292",1834,,"Prodr. Fl. Ind. Orient. 1: 29 1834",,,,,,111993-1,wfo-0000926681,4087179,,
-78e220d0-8fcd-11eb-924d-9cd76263cbd0,species,dasyanthera,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. 192 1840",,,,,,111994-1,wfo-0000926685,4087166,,
-cb5a488e-8fd1-11eb-924d-9cd76263cbd0,species,ecklonii,Phoberos,,"(Nees) Arn.","Q76349,Q730292",1841,,"J. Bot. (Hooker) 3: 150 1841",,,,,,,wfo-0001275103,7995320,,
-78e15c54-8fcd-11eb-924d-9cd76263cbd0,species,gaertneri,Phoberos,,Thwaites,Q2656749,1858,,"Enum. Pl. Zeyl. 17 1858",,Q96016554,,,,111996-1,wfo-0000926678,4087144,,
-78e177ca-8fcd-11eb-924d-9cd76263cbd0,species,hookerianus,Phoberos,,"Wight ex Thwaites","Q1375864,Q2656749",1858,,"Enum. Pl. Zeyl. 17 1858",,Q96016554,,,,111997-1,wfo-0000926679,4087134,,
-78e1c900-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Phoberos,,"Wight & Arn.","Q1375864,Q730292",1834,,"Prodr. Fl. Ind. Orient. 1: 30 1834",,,,,,111998-1,wfo-0000926682,4087127,,
-78e1e660-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllus,Phoberos,,"Wight & Arn.","Q1375864,Q730292",1834,,"Prodr. Fl. Ind. Orient. 1: 30 1834",,,,,,111999-1,wfo-0000926683,4087117,,
-78e28c14-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Phoberos,,Miq.,Q76742,1861,,"Fl. Ned. Ind., Eerste Bijv. 3: 388 1861",,,,,,112000-1,wfo-0000926689,4087107,,
-7055c084-8fcd-11eb-924d-9cd76263cbd0,species,mundii,Phoberos,,"(Nees) Arn.","Q76349,Q730292",1840,,"J. Bot. (Hooker) 3: 150 1840",,,,8d53c13c-8fcc-11eb-924d-9cd76263cbd0,,77102343-1,wfo-0000914069,7797072,,
-78e2704e-8fcd-11eb-924d-9cd76263cbd0,species,mundtii,Phoberos,,C.Presl,Q379601,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 500 1845",,,,,,,wfo-0000926688,7773016,,
-78e23a98-8fcd-11eb-924d-9cd76263cbd0,species,rhinanthera,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. 187 1840",,,,,,112003-1,wfo-0000926686,4087210,,
-78e2567c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. 192 1840",,,,,,112004-1,wfo-0000926687,4087199,,
-78e2a578-8fcd-11eb-924d-9cd76263cbd0,species,saevus,Phoberos,,Hance,Q2657692,1852,,"Ann. Bot. Syst. 3: 825 1852",,,,,,112005-1,wfo-0000926690,4087188,,
-78e20352-8fcd-11eb-924d-9cd76263cbd0,species,wightianus,Phoberos,,"Wight & Arn.","Q1375864,Q730292",1834,,"Prodr. Fl. Ind. Orient. 1: 30 1834",,,,,,112006-1,wfo-0000926684,4087176,,
-cb5a6576-8fd1-11eb-924d-9cd76263cbd0,species,zeyheri,Phoberos,,"(Nees) Arn.","Q76349,Q730292",1841,,"J. Bot. (Hooker) 3: 150 1841",,,,,,112007-1,wfo-0001275104,7490920,,
+cacd4290-9bac-11eb-a8a2-19ed5c03f8d3,species,persoonii,Phlyctospora,,Corda,0,,,,,,,cacd4290-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235913," "
+4b7bdd94-9bac-11eb-a8a2-19ed5c03f8d3,species,sclerodermoides,Phlyctospora,,Clem.,0,,,,,,,4b7bdd94-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236252," "
+78e124be-8fcd-11eb-924d-9cd76263cbd0,species,acuminatus,Phoberos,,"Gardner ex Thwaites",0,1858,,"Enum. Pl. Zeyl. : 17 (1858)",,,,,,urn:lsid:ipni.org:names:111987-1,wfo-0000926676,,,
+78e1403e-8fcd-11eb-924d-9cd76263cbd0,species,arnottiana,Phoberos,,Thwaites,0,1858,,"Enum. Pl. Zeyl. : 16 (1858)",,Q96016554,,,,urn:lsid:ipni.org:names:111988-1,wfo-0000926677,4087096,,
+78e1917e-8fcd-11eb-924d-9cd76263cbd0,species,brownii,Phoberos,,F.Muell.,0,1862,,"Fragm. 3: 11 (1862)",,,,,,urn:lsid:ipni.org:names:111989-1,wfo-0000926680,3878895,,
+56891f58-1d4d-11ec-82c2-f14daa6f2d93,species,chinensis,Phoberos,,Turcz.,,,,"Bull. Soc. Imp. Naturalistes Moscou 27(2): 334. 1854",,,,,,urn:lsid:ipni.org:names:111991-1,wfo-0001349124,,,
+78e0b952-8fcd-11eb-924d-9cd76263cbd0,species,chinensis,Phoberos,,Lour.,0,1790,,"Fl. Cochinch. : 318 (1790)",,,,,,urn:lsid:ipni.org:names:111990-1,wfo-0000926672,7464916,,
+78e0d568-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Phoberos,,Lour.,0,1790,,"Fl. Cochinch. : 318 (1790)",,,,,,urn:lsid:ipni.org:names:111992-1,wfo-0000926673,4087190,,
+78e1ad1c-8fcd-11eb-924d-9cd76263cbd0,species,crenatus,Phoberos,,"Wight & Arn.",0,1834,,"Prodr. Fl. Ind. Orient. 1: 29 (1834)",,,,,,urn:lsid:ipni.org:names:111993-1,wfo-0000926681,4087179,,
+78e220d0-8fcd-11eb-924d-9cd76263cbd0,species,dasyanthera,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. : 192 (1840)",,,,,,urn:lsid:ipni.org:names:111994-1,wfo-0000926685,4087166,,
+cb5a488e-8fd1-11eb-924d-9cd76263cbd0,species,ecklonii,Phoberos,,"(Nees) Arn. ex C.Presl",0,1841,,"Abh. Königl. Böhm. Ges. Wiss. , ser. 5, 3: 500 (1845)",,,,,,urn:lsid:ipni.org:names:111995-1,wfo-0001275103,7995320,,
+78e15c54-8fcd-11eb-924d-9cd76263cbd0,species,gaertneri,Phoberos,,Thwaites,0,1858,,"Enum. Pl. Zeyl. : 17 (1858)",,Q96016554,,,,urn:lsid:ipni.org:names:111996-1,wfo-0000926678,4087144,,
+78e177ca-8fcd-11eb-924d-9cd76263cbd0,species,hookerianus,Phoberos,,"Wight ex Thwaites",0,1858,,"Enum. Pl. Zeyl. : 17 (1858)",,Q96016554,,,,urn:lsid:ipni.org:names:111997-1,wfo-0000926679,4087134,,
+78e1c900-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Phoberos,,"Wight & Arn.",0,1834,,"Prodr. Fl. Ind. Orient. 1: 30 (1834)",,,,,,urn:lsid:ipni.org:names:111998-1,wfo-0000926682,4087127,,
+78e1e660-8fcd-11eb-924d-9cd76263cbd0,species,macrophyllus,Phoberos,,"Wight & Arn.",0,1834,,"Prodr. Fl. Ind. Orient. 1: 30 (1834)",,,,,,urn:lsid:ipni.org:names:111999-1,wfo-0000926683,4087117,,
+78e28c14-8fcd-11eb-924d-9cd76263cbd0,species,maritima,Phoberos,,Miq.,0,1861,,"Fl. Ned. Ind., Eerste Bijv. 3: 388 (1861)",,,,,,urn:lsid:ipni.org:names:112000-1,wfo-0000926689,4087107,,
+7055c084-8fcd-11eb-924d-9cd76263cbd0,species,mundii,Phoberos,,"(Nees) Arn.",0,1840,,"J. Bot. (Hooker) 3: 150 (1840)",,,,8d53c13c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77102343-1,wfo-0000914069,7797072,,
+78e2704e-8fcd-11eb-924d-9cd76263cbd0,species,mundtii,Phoberos,,C.Presl,0,1845,,"Abh. Königl. Böhm. Ges. Wiss. V, 3: 500 1845",,,,,,,wfo-0000926688,7773016,,
+78e23a98-8fcd-11eb-924d-9cd76263cbd0,species,rhinanthera,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. : 187 (1840)",,,,,,urn:lsid:ipni.org:names:112003-1,wfo-0000926686,4087210,,
+78e2567c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Phoberos,,Benn,,1840,,"Pl. Jav. Rar. : 192 (1840)",,,,,,urn:lsid:ipni.org:names:112004-1,wfo-0000926687,4087199,,
+78e2a578-8fcd-11eb-924d-9cd76263cbd0,species,saevus,Phoberos,,Hance,0,1852,,"Ann. Bot. Syst. 3: 825 (1852)",,,,,,urn:lsid:ipni.org:names:112005-1,wfo-0000926690,4087188,,
+78e20352-8fcd-11eb-924d-9cd76263cbd0,species,wightianus,Phoberos,,"Wight & Arn.",0,1834,,"Prodr. Fl. Ind. Orient. 1: 30 (1834)",,,,,,urn:lsid:ipni.org:names:112006-1,wfo-0000926684,4087176,,
+cb5a6576-8fd1-11eb-924d-9cd76263cbd0,species,zeyheri,Phoberos,,"(Nees) Arn.",0,1841,,"J. Bot. (Hooker) 3: 150 (1840)",,,,,,urn:lsid:ipni.org:names:112007-1,wfo-0001275104,7490920,,

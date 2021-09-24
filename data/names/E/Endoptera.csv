@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e34f45ca-8fd1-11eb-924d-9cd76263cbd0,genus,Endoptera,,,,,,,,,,,,,,wfo-4000013415,6064046,,
-30893f08-8fb4-11eb-924d-9cd76263cbd0,species,aspera,Endoptera,,"(L.) DC.","Q1043,Q123057",1838,,"178 1838",,,,,,203192-1,wfo-0000061274,3143905,,
-9cfa828a-8fbb-11eb-924d-9cd76263cbd0,species,dichotoma,Endoptera,,"Boiss. & Balansa","Q34430,Q536946",1856,,"98 1856",,,,,,,wfo-0000135479,3143419,,
-fd7df100-8fb1-11eb-924d-9cd76263cbd0,species,dioscoridis,Endoptera,,"(L.) DC.","Q1043,Q123057",1838,,"179 1838",,,,,,203194-1,wfo-0000000456,3143320,,
-37292196-8fbb-11eb-924d-9cd76263cbd0,species,intermedia,Endoptera,,"Boiss. & Balansa","Q34430,Q536946",1856,,"99 1856",,,,,,,wfo-0000132612,4222934,,
+e34f45ca-8fd1-11eb-924d-9cd76263cbd0,genus,Endoptera,,,DC.,,,,"Prodr. 7(1): 178 (1838)",,,,,,urn:lsid:ipni.org:names:8787-1,wfo-4000013415,6064046,,
+30893f08-8fb4-11eb-924d-9cd76263cbd0,species,aspera,Endoptera,,"(L.) DC.",0,1838,,"Prodr. 7(1): 178 (1838)",,,,,,urn:lsid:ipni.org:names:203192-1,wfo-0000061274,3143905,,
+9cfa828a-8fbb-11eb-924d-9cd76263cbd0,species,dichotoma,Endoptera,,"Boiss. & Balansa",0,1856,,"Diagn. Pl. Orient. , ser. 2, 3: 98 (1856)",,,,,,urn:lsid:ipni.org:names:203193-1,wfo-0000135479,3143419,,
+fd7df100-8fb1-11eb-924d-9cd76263cbd0,species,dioscoridis,Endoptera,,DC.,0,1838,,"Prodr. 7(1): 179 (1838)",,,,,,urn:lsid:ipni.org:names:203194-1,wfo-0000000456,3143320,,
+37292196-8fbb-11eb-924d-9cd76263cbd0,species,intermedia,Endoptera,,"Boiss. & Balansa",0,1856,,"Diagn. Pl. Orient. , ser. 2, 3: 99 (1856)",,,,,,urn:lsid:ipni.org:names:203195-1,wfo-0000132612,4222934,,
+4cee3b22-1d4d-11ec-82c2-f14daa6f2d93,species,multiflora,Endoptera,,"(Sm.) Lindl.",,,,"Fl. Graec. 10(2): 75 (1840)",,,,,,urn:lsid:ipni.org:names:77130240-1,wfo-0001336385,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e437f4d2-8fd1-11eb-924d-9cd76263cbd0,genus,Guamatela,,,Donn.Sm.,Q368277,1914,,"Bot. Gaz. 57(5): 420. 1914.",,Q55758654,,,,295705-2,wfo-4000016298,3030241,,
-a385ca76-8fcd-11eb-924d-9cd76263cbd0,species,tuerckheimii,Guamatela,,Donn.Sm.,Q368277,1914,,"; 1914 420 1914",,Q55758654,,,,113886-2,wfo-0001017473,3030242,,
-07046a86-8fcd-11eb-924d-9cd76263cbd0,species,mariannae,Guamia,,"(Saff.) Merr.","Q3568593,Q729926",1915,,"Philipp. J. Sci., C 10: 243 1915",,,,426b1e86-8fcc-11eb-924d-9cd76263cbd0,,73290-1,wfo-0000710689,5407554,,
-b9c2f7f0-8fcd-11eb-924d-9cd76263cbd0,species,muricatus,Guanabanus,,M.Gómez,Q3286846,1897,,"Fl. Habanera 114 1897",,,,,,113887-2,wfo-0001065875,3155489,,
-cdbb7454-8fd1-11eb-924d-9cd76263cbd0,species,palustris,Guanabanus,,M.Gómez,Q3286846,1897,,"Fl. Habanera 114, f. 35 1897",,,,,,113888-2,wfo-0001279356,3648617,,
-b9c32e00-8fcd-11eb-924d-9cd76263cbd0,species,squamosus,Guanabanus,,M.Gómez,Q3286846,1897,,"Fl. Haban. 114 1897",,,,,,113889-2,wfo-0001065877,3155303,,
+e437f4d2-8fd1-11eb-924d-9cd76263cbd0,genus,Guamatela,,,Donn.Sm.,0,1914,,"Bot. Gaz. 57: 420 (1914)",,Q55758654,,,,urn:lsid:ipni.org:names:295705-2,wfo-4000016298,3030241,,
+a385ca76-8fcd-11eb-924d-9cd76263cbd0,species,tuerckheimii,Guamatela,,Donn.Sm.,0,1914,,"Bot. Gaz. 57: 420 (1914)",,Q55758654,,,,urn:lsid:ipni.org:names:113886-2,wfo-0001017473,3030242,,
+07046a86-8fcd-11eb-924d-9cd76263cbd0,species,mariannae,Guamia,,Merr.,0,1915,,"Philipp. J. Sci., C 10: 243 (1915)",,,,426b1e86-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:73290-1,wfo-0000710689,5407554,,
+b9c2f7f0-8fcd-11eb-924d-9cd76263cbd0,species,muricatus,Guanabanus,,M.Gómez,0,1897,,"Fl. Habanera 114. 1897",,,,,,urn:lsid:ipni.org:names:113887-2,wfo-0001065875,3155489,,
+cdbb7454-8fd1-11eb-924d-9cd76263cbd0,species,palustris,Guanabanus,,M.Gómez,0,1897,,"Fl. Habanera 114~ fig. 35. 1897",,,,,,urn:lsid:ipni.org:names:113888-2,wfo-0001279356,3648617,,
+b9c32e00-8fcd-11eb-924d-9cd76263cbd0,species,squamosus,Guanabanus,,M.Gómez,0,1897,,"Fl. Habanera 114~ fig. 35. 1897",,,,,,urn:lsid:ipni.org:names:113889-2,wfo-0001065877,3155303,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e78f97ca-8fd1-11eb-924d-9cd76263cbd0,genus,Onira,,,Ravenna,Q9059543,1983,,"Nordic J. Bot. 3(2): 204. 1983.",,,,,,,wfo-4000026870,2744129,,
-2c5cea1a-8fcd-11eb-924d-9cd76263cbd0,species,unguiculata,Onira,,"(Baker) Ravenna","Q730330,Q9059543",1983,,"Nordic J. Bot. 3: 204 1983",,Q55761157,,,,912881-1,wfo-0000785635,2744130,,
-eaafa14e-8fcb-11eb-924d-9cd76263cbd0,species,tomentosus,Onites,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 86 1837",,,,,,453177-1,wfo-0000256786,7562851,,
+e78f97ca-8fd1-11eb-924d-9cd76263cbd0,genus,Onira,,,Ravenna,0,1983,,"Nordic J. Bot. 3: 204 (1983)",,,,,,urn:lsid:ipni.org:names:893317-1,wfo-4000026870,2744129,,
+2c5cea1a-8fcd-11eb-924d-9cd76263cbd0,species,unguiculata,Onira,,"(Baker) Ravenna",0,1983,,"Nordic J. Bot. 3(2): 204 (1983):.",,Q55761157,,,,urn:lsid:ipni.org:names:912881-1,wfo-0000785635,2744130,,
+eaafa14e-8fcb-11eb-924d-9cd76263cbd0,species,tomentosus,Onites,,Raf.,0,1837,,"Fl. Tellur. 3: 86 (1837)",,,,,,urn:lsid:ipni.org:names:453177-1,wfo-0000256786,7562851,,

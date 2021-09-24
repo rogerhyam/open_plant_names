@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ba7d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyocalyx,,,Hook.f.,Q157501,1845,,"(H. ) Raf. and (H. ) Raf., Proc. Linn. Soc. i. (1845) 277; et Trans. Linn. Soc. xx. (1851) 202..",,,,,,,wfo-4000011565,7299400,,
-a57d7a40-8fcd-11eb-924d-9cd76263cbd0,species,miersii,Dictyocalyx,,Hook.f.,Q157501,1847,,"Hook.f., Trans. Linn. Soc. London 20(2): 203. 1847 [1851 publ. 11 Dec 1847], 1847.",,,,,,,wfo-0001021420,5580910,,
-a57d97c8-8fcd-11eb-924d-9cd76263cbd0,species,multivalvis,Dictyocalyx,,"Hook.f. ex Walp.","Q157501,Q77671",,,"Hf. ex Walp. and Hf. ex Walp., Repert. Bot. Syst. (Walpers) vi. 572..",,,,,,,wfo-0001021421,,,
-a57db6f4-8fcd-11eb-924d-9cd76263cbd0,species,quadrivalvis,Dictyocalyx,,"Hook.f. ex Walp.","Q157501,Q77671",,,"Hf. ex Walp. and Hf. ex Walp., Repert. Bot. Syst. (Walpers) vi. 572..",,,,,,,wfo-0001021422,,,
+e2ba7d1e-8fd1-11eb-924d-9cd76263cbd0,genus,Dictyocalyx,,,Hook.f.,0,1845,,"(H. ) Raf. and (H. ) Raf., Proc. Linn. Soc. i. (1845) 277; et Trans. Linn. Soc. xx. (1851) 202..",,,,,,urn:lsid:ipni.org:names:30103056-2,wfo-4000011565,7299400,,
+a57d7a40-8fcd-11eb-924d-9cd76263cbd0,species,miersii,Dictyocalyx,,Hook.f.,0,1847,,"Trans. Linn. Soc. London 20(2): 203. 1847 [1851 publ. 11 Dec 1847]",,,,,,urn:lsid:ipni.org:names:815627-1,wfo-0001021420,5580910,,
+a57d97c8-8fcd-11eb-924d-9cd76263cbd0,species,multivalvis,Dictyocalyx,,"Hook.f. ex Walp.",0,,,"Repert. Bot. Syst. (Walpers) 4: 572. 1847",,,,,,urn:lsid:ipni.org:names:815628-1,wfo-0001021421,,,
+a57db6f4-8fcd-11eb-924d-9cd76263cbd0,species,quadrivalvis,Dictyocalyx,,"Hook.f. ex Walp.",0,,,"Repert. Bot. Syst. (Walpers) 4: 572. 1847",,,,,,urn:lsid:ipni.org:names:815629-1,wfo-0001021422,,,

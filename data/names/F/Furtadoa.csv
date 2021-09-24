@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3d77f08-8fd1-11eb-924d-9cd76263cbd0,genus,Furtadoa,,,M.Hotta,Q6883352,1981,,"Acta Phytotax. Geobot. 32: 142. 1981.",,Q101149611,,,,893056-1,wfo-4000015140,2869120,,
-8b6318cc-8fcd-11eb-924d-9cd76263cbd0,species,mixta,Furtadoa,,"(Ridl.) M.Hotta","Q733709,Q6883352",1985,,"Gard. Bull. Singapore 38: 53 1985",,,,d1bd12cc-8fc9-11eb-924d-9cd76263cbd0,,915029-1,wfo-0000967511,2869122,,
-c1d7b16a-8fcd-11eb-924d-9cd76263cbd0,species,sumaterana,Furtadoa,,Hotta,Q21516160,,,,,,,,,,wfo-0001084262,7851181,,
-8b633e7e-8fcd-11eb-924d-9cd76263cbd0,species,sumatrensis,Furtadoa,,M.Hotta,Q6883352,1981,,"Acta Phytotax. Geobot. 32: 142 1981",,Q101149611,,,,897780-1,wfo-0000967512,2869121,,
+e3d77f08-8fd1-11eb-924d-9cd76263cbd0,genus,Furtadoa,,,M.Hotta,0,1981,,"Acta Phytotax. Geobot. 32: 142 (1981)",,Q101149611,,,,urn:lsid:ipni.org:names:893056-1,wfo-4000015140,2869120,,
+548919c4-1d4d-11ec-82c2-f14daa6f2d93,species,indrae,Furtadoa,,"P.C.Boyce & S.Y.Wong",,,,"Aroideana 39: 15 (2016)",,,,,,urn:lsid:ipni.org:names:77157356-1,wfo-0001346414,,,
+8b6318cc-8fcd-11eb-924d-9cd76263cbd0,species,mixtum,Furtadoa,,"(Ridl.) M.Hotta",0,1985,,"Gard. Bull. Singapore 38: 53 (1985)",,,,d1bd12cc-8fc9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:915029-1,wfo-0000967511,2869122,,
+c1d7b16a-8fcd-11eb-924d-9cd76263cbd0,species,sumaterana,Furtadoa,,Hotta,0,,,,,,,,,,wfo-0001084262,7851181,,
+8b633e7e-8fcd-11eb-924d-9cd76263cbd0,species,sumatrensis,Furtadoa,,M.Hotta,0,1981,,"Acta Phytotax. Geobot. 32: 142 (1981)",,Q101149611,,,,urn:lsid:ipni.org:names:897780-1,wfo-0000967512,2869121,,

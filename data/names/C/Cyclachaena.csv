@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e253dc3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclachaena,,,Fresen.,Q77670,,,,,,,,,328799-2,wfo-4000010232,6445679,,
-33760c56-8fb3-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Cyclachaena,,"(A.Gray) Benth. & Hook.f. ex Rydb.","Q347356,Q731808,Q157501,Q1905130",1922,,"N. Amer. Fl. 33 10 1922",,,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,,1015293-1,wfo-0000043724,,,
-f1affe6a-8fb9-11eb-924d-9cd76263cbd0,species,lobata,Cyclachaena,,Rydb.,Q1905130,1922,,"N. Amer. Fl. 33: 10. 1922",,,,,,73589-2,wfo-0000122676,4241379,,
-24841022-8fb2-11eb-924d-9cd76263cbd0,species,pedicellata,Cyclachaena,,Rydb.,Q1905130,1922,,"N. Amer. Fl. 33 10 1922",,,,,,73590-2,wfo-0000013259,3141889,,
-f8077884-8fb8-11eb-924d-9cd76263cbd0,species,xanthiifolia,Cyclachaena,,"(Nutt.) Fresen.","Q728337,Q77670",1836,,"4 1836",,,,c8b44c02-8fb2-11eb-924d-9cd76263cbd0,,200848-1,wfo-0000114224,3141890,,
+e253dc3a-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclachaena,,,Fresen.,0,,,"Index Seminum (FRT, Francofurtensi) : [4] (1836)",,,,,,urn:lsid:ipni.org:names:328799-2,wfo-4000010232,6445679,,
+33760c56-8fb3-11eb-924d-9cd76263cbd0,species,ambrosiifolia,Cyclachaena,,"(A.Gray) Rydb.",0,1922,,"N. Amer. Fl. 33(1): 10 (1922)",,,,92d83a06-8fb9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1015293-1,wfo-0000043724,,,
+f1affe6a-8fb9-11eb-924d-9cd76263cbd0,species,lobata,Cyclachaena,,Rydb.,0,1922,,"N. Amer. Fl. 33(1): 10 (1922)",,,,,,urn:lsid:ipni.org:names:73589-2,wfo-0000122676,4241379,,
+24841022-8fb2-11eb-924d-9cd76263cbd0,species,pedicellata,Cyclachaena,,Rydb.,0,1922,,"N. Amer. Fl. 33(1): 10 (1922)",,,,,,urn:lsid:ipni.org:names:73590-2,wfo-0000013259,3141889,,
+f8077884-8fb8-11eb-924d-9cd76263cbd0,species,xanthiifolia,Cyclachaena,,"(Nutt.) Fresen.",0,1836,,"Index Seminum (FRT, Francofurtensi) [1, 4] (1836)",,,,c8b44c02-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:200848-1,wfo-0000114224,3141890,,
+6ed0441a-1d4d-11ec-82c2-f14daa6f2d93,variety,minor,Cyclachaena,xanthiifolia,Wawra,,,,"Itin. Princ. S. Coburgi 2: 40 (1888)",,,,,,urn:lsid:ipni.org:names:73591-2,wfo-0001382528,,,
+dd6cadb0-1d47-11ec-82c2-f14daa6f2d93,variety,xanthiifolia,Cyclachaena,xanthiifolia,,,,,,,,,,,,wfo-0000101837,,,

@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e048752c-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharizonia,,,"(A.Gray) Greene","Q347356,Q2661665",,,,,,,,,30380702-2,wfo-4000004775,3117335,,
-61c15306-8fb6-11eb-924d-9cd76263cbd0,species,laxa,Blepharizonia,,Greene,Q2661665,1885,,"279 1885",,,,,,185476-1,wfo-0000088854,3117339,,
-527fe334-8fb2-11eb-924d-9cd76263cbd0,species,plumosa,Blepharizonia,,"(Kellogg) Greene","Q1368910,Q2661665",1885,,"279 1885",,,,b9f54632-8fb5-11eb-924d-9cd76263cbd0,,30037285-2,wfo-0000020482,3117336,,
-f566e596-8fb4-11eb-924d-9cd76263cbd0,variety,subplumosa,Blepharizonia,plumosa,"(A.Gray) Jeps.","Q347356,Q324259",,,"1095 1925",,,,f569e114-8fb5-11eb-924d-9cd76263cbd0,,33811-2,wfo-0000072125,4234785,,
-1fe7b66c-8fb8-11eb-924d-9cd76263cbd0,subspecies,viscida,Blepharizonia,plumosa,D.D.Keck,Q5232777,1958,,"Aliso 4: 114. 1958",,Q96002796,,,,33812-2,wfo-0000106434,4234781,,
+e048752c-8fd1-11eb-924d-9cd76263cbd0,genus,Blepharizonia,,,"(A.Gray) Greene",0,,,"Bull. Calif. Acad. Sci. 1: 279 (1885)",,,,,,urn:lsid:ipni.org:names:30380702-2,wfo-4000004775,3117335,,
+61c15306-8fb6-11eb-924d-9cd76263cbd0,species,laxa,Blepharizonia,,Greene,0,1885,,"Bull. Calif. Acad. Sci. 1(4): 279 (1885)",,,,,,urn:lsid:ipni.org:names:185476-1,wfo-0000088854,3117339,,
+527fe334-8fb2-11eb-924d-9cd76263cbd0,species,plumosa,Blepharizonia,,"(Kellogg) Greene",0,1885,,"Bull. Calif. Acad. Sci. 1: 279. (1885)",,,,b9f54632-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30037285-2,wfo-0000020482,3117336,,
+b62e64f0-1d47-11ec-82c2-f14daa6f2d93,variety,plumosa,Blepharizonia,plumosa,,,,,,,,,,,,wfo-0000053125,,,
+e24e0f2c-1d47-11ec-82c2-f14daa6f2d93,subspecies,plumosa,Blepharizonia,plumosa,"(Kellogg) Greene",,,,,,,,,,,wfo-0000108152,,,
+f566e596-8fb4-11eb-924d-9cd76263cbd0,variety,subplumosa,Blepharizonia,plumosa,"(A.Gray) Jeps.",0,,,"Man. Fl. Pl. Calif. : 1095 (1925)",,,,f569e114-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:33811-2,wfo-0000072125,4234785,,
+1fe7b66c-8fb8-11eb-924d-9cd76263cbd0,subspecies,viscida,Blepharizonia,plumosa,D.D.Keck,0,1958,,"Aliso 4: 114 (1958)",,Q96002796,,,,urn:lsid:ipni.org:names:33812-2,wfo-0000106434,4234781,,

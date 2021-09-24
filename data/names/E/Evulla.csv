@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a32d4d1a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Evulla,,,Kavina,Q3566168,1939,,"Stud. Bot. Cechoslav. 2: 23 (1939)",,,,a32d4d1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1958," "
-02a02304-9bad-11eb-a8a2-19ed5c03f8d3,species,carpatica,Evulla,,Kavina,Q3566168,1939,,"Stud. Bot. Cechoslav. 2: 23 (1939)",,,,02a02304-9bad-11eb-a8a2-19ed5c03f8d3,,,,,431624," "
-41f4c014-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Ewaldia,,Klotzsch,Q67003,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 173 1855",,,,,,,wfo-0000832039,4159120,,
-41f4faac-8fcd-11eb-924d-9cd76263cbd0,species,lobata,Ewaldia,,"(Schott) Klotzsch","Q112191,Q67003",1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 123 1854",,,,3e936ace-8fcd-11eb-924d-9cd76263cbd0,,106145-1,wfo-0000832041,4159113,,
-c74e4b5a-8fd1-11eb-924d-9cd76263cbd0,species,lobulata,Ewaldia,,"(Schott) Klotzsch","Q112191,Q67003",1854,,"Monatsber. Konigl. Preuss. Akad. Wiss. Berlin 123 1854",,,,,,,wfo-0001267462,7626508,,
+a32d4d1a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Evulla,,,Kavina,0,1939,,"Stud. Bot. Cechoslav. 2: 23 (1939)",,,,a32d4d1a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1958," "
+02a02304-9bad-11eb-a8a2-19ed5c03f8d3,species,carpatica,Evulla,,Kavina,0,1939,,"Stud. Bot. Cechoslav. 2: 23 (1939)",,,,02a02304-9bad-11eb-a8a2-19ed5c03f8d3,,,,,431624," "
+41f4c014-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Ewaldia,,Klotzsch,0,1854,,"Abh. Königl. Akad. Wiss. Berlin 1854: 173 (1855)",,,,,,urn:lsid:ipni.org:names:106144-1,wfo-0000832039,4159120,,
+41f4faac-8fcd-11eb-924d-9cd76263cbd0,species,lobata,Ewaldia,,Klotzsch,0,1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 123 (1854)",,,,3e936ace-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:106145-1,wfo-0000832041,4159113,,
+c74e4b5a-8fd1-11eb-924d-9cd76263cbd0,species,lobulata,Ewaldia,,"(Schott) Klotzsch",0,1854,,"Monatsber. Konigl. Preuss. Akad. Wiss. Berlin 123 1854",,,,,,,wfo-0001267462,7626508,,

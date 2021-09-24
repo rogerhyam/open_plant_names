@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e568f126-8fd1-11eb-924d-9cd76263cbd0,genus,Koelzella,,,M.Hiroe,Q6017757,1958,,"Umbelliferae Asia 1: 146. 1958.",,,,,,,wfo-4000020126,7318416,,
-baebd476-8fcd-11eb-924d-9cd76263cbd0,species,pabularia,Koelzella,,"(Lindl.) Hiroë","Q378629,Q21515856",,,,,,,bafd7b04-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001068585,3631740,,
-29748110-8fcc-11eb-924d-9cd76263cbd0,species,uloptera,Koelzella,,"(DC.) M.Hiroe","Q123057,Q6017757",,,"Umbell. World 1286 1979",,,,bafdb268-8fcd-11eb-924d-9cd76263cbd0,,843903-1,wfo-0000356604,3631728,,
-c46fa3a2-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Koelzia,,Rech.f.,Q78738,,,,,,,,,,wfo-0001262234,3044554,,
+e568f126-8fd1-11eb-924d-9cd76263cbd0,genus,Koelzella,,,M.Hiroe,0,1958,,"Umbell. Asia 1: 146 (1958)",,,,,,urn:lsid:ipni.org:names:40139-1,wfo-4000020126,7318416,,
+baebd476-8fcd-11eb-924d-9cd76263cbd0,species,pabularia,Koelzella,,"(Lindl.) M.Hiroe",0,,,"Umbell. Asia 1: 147 (1958)",,,,bafd7b04-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:843902-1,wfo-0001068585,3631740,,
+29748110-8fcc-11eb-924d-9cd76263cbd0,species,uloptera,Koelzella,,"(DC.) M.Hiroe",0,,,"Umbell. World : 1286 (1979)",,,,bafdb268-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:843903-1,wfo-0000356604,3631728,,
+c46fa3a2-8fd1-11eb-924d-9cd76263cbd0,species,afghanica,Koelzia,,Rech.f.,0,,,"Phyton (Horn) 3: 59 (1951)",,,,,,urn:lsid:ipni.org:names:285927-1,wfo-0001262234,3044554,,

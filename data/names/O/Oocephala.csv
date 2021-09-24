@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7926a22-8fd1-11eb-924d-9cd76263cbd0,genus,Oocephala,,,"(S.B.Jones) H.Rob.","Q21517116,Q2100759",,,,,,,,,1010913-1,wfo-4000026904,6008744,,
-08c1b52e-8fb7-11eb-924d-9cd76263cbd0,species,agrianthoides,Oocephala,,"(C.Jeffrey) H.Rob.","Q1065059,Q2100759",1999,,"Proc. Biol. Soc. Wash. 112(1): 232 (1999):",,,,311acb36-8fb3-11eb-924d-9cd76263cbd0,,1010914-1,wfo-0000095690,5397075,,
-45648682-8fb2-11eb-924d-9cd76263cbd0,species,stenocephala,Oocephala,,"(Oliv.) H.Rob.","Q1161960,Q2100759",1999,,"Proc. Biol. Soc. Wash. 112(1): 232 (1999):",,,,e6c3e510-8fba-11eb-924d-9cd76263cbd0,,1010915-1,wfo-0000018386,5397037,,
+e7926a22-8fd1-11eb-924d-9cd76263cbd0,genus,Oocephala,,,"(S.B.Jones) H.Rob.",0,,,"Proc. Biol. Soc. Washington 112(1): 231 (1999)",,,,,,urn:lsid:ipni.org:names:1010913-1,wfo-4000026904,6008744,,
+08c1b52e-8fb7-11eb-924d-9cd76263cbd0,species,agrianthoides,Oocephala,,"(C.Jeffrey) H.Rob.",0,1999,,"Proc. Biol. Soc. Washington 112(1): 232 (1999)",,,,311acb36-8fb3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1010914-1,wfo-0000095690,5397075,,
+4ffc70d6-1d4d-11ec-82c2-f14daa6f2d93,species,centauroides,Oocephala,,"(Klatt) H.Rob. & Skvarla",,,,"PhytoKeys 38: 2 (2014)",,,,,,urn:lsid:ipni.org:names:77141569-1,wfo-0001340248,,,
+4ffc9778-1d4d-11ec-82c2-f14daa6f2d93,species,staehelinoides,Oocephala,,"(Harv.) H.Rob. & Skvarla",,,,"PhytoKeys 38: 2 (2014)",,,,,,urn:lsid:ipni.org:names:77141570-1,wfo-0001340249,,,
+45648682-8fb2-11eb-924d-9cd76263cbd0,species,stenocephala,Oocephala,,"(Oliv.) H.Rob.",0,1999,,"Proc. Biol. Soc. Washington 112(1): 232 (1999)",,,,e6c3e510-8fba-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1010915-1,wfo-0000018386,5397037,,

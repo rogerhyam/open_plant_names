@@ -1,9 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8112434-8fd1-11eb-924d-9cd76263cbd0,genus,Paurolepis,,,S.Moore,Q2975984,,,,,,,,,10408-1,wfo-4000028349,3115086,,
-36c38166-8fba-11eb-924d-9cd76263cbd0,species,angusta,Paurolepis,,S.Moore,Q2975984,1917,,"in Journ. Bot. 1917, lv. 102.",,,,,,236541-1,wfo-0000124818,3115089,,
-1badbaac-8fb2-11eb-924d-9cd76263cbd0,species,filifolia,Paurolepis,,"(R.E.Fr.) Wild & G.V.Pope","Q15414,Q5792958,Q21523104",1977,,"Kirkia 10(2): 316 (1977)",,Q91469205,,4bec879a-8fb5-11eb-924d-9cd76263cbd0,,236542-1,wfo-0000011632,3115087,,
-f04d80bc-8fcb-11eb-924d-9cd76263cbd0,species,androsana,Paurotis,,O.F.Cook,Q1548577,1902,,"Mem. Torrey Bot. Club 12: 22 1902",,,,,,185785-2,wfo-0000265065,2732174,,
-f04d9cbe-8fcb-11eb-924d-9cd76263cbd0,species,arborescens,Paurotis,,"(Sarg.) O.F.Cook","Q1066128,Q1548577",1902,,"Mem. Torrey Bot. Club 12: 22 1902",,,,0c5e2234-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000265066,2732164,,
-f04db9e2-8fcb-11eb-924d-9cd76263cbd0,species,psilocalyx,Paurotis,,"(Burret) Lundell","Q78365,Q3009490",1961,,"Wrightia 2: 116 1961",,,,4096ee00-8fcc-11eb-924d-9cd76263cbd0,,185787-2,wfo-0000265067,2732169,,
-f04dd706-8fcb-11eb-924d-9cd76263cbd0,species,schippii,Paurotis,,Burret,Q78365,1935,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 303 1935",,,,,,185788-2,wfo-0000265068,2732172,,
-f04df3d0-8fcb-11eb-924d-9cd76263cbd0,species,wrightii,Paurotis,,"(Griseb. & H.Wendl.) Britton","Q76351,Q66720,Q553714",1908,,"N. Amer. Trees 141 1908",,,,759c7146-8fcd-11eb-924d-9cd76263cbd0,,185789-2,wfo-0000265069,2732165,,
+e8112434-8fd1-11eb-924d-9cd76263cbd0,genus,Paurolepis,,,S.Moore,0,,,"J. Bot. 55: 102 (1917)",,,,,,urn:lsid:ipni.org:names:10408-1,wfo-4000028349,3115086,,
+36c38166-8fba-11eb-924d-9cd76263cbd0,species,angusta,Paurolepis,,S.Moore,0,1917,,"J. Bot. 55: 102 (1917)",,,,,,urn:lsid:ipni.org:names:236541-1,wfo-0000124818,3115089,,
+1badbaac-8fb2-11eb-924d-9cd76263cbd0,species,filifolia,Paurolepis,,"(R.E.Fr.) Wild & G.V.Pope",0,1977,,"Kirkia 10(2): 316 (1977)",,Q91469205,,4bec879a-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:236542-1,wfo-0000011632,3115087,,

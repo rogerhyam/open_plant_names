@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e91793c2-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobahia,,,Rydb.,Q1905130,,,,,,,,,290923-2,wfo-4000031398,3115472,,
-19deacfc-8fb4-11eb-924d-9cd76263cbd0,species,bahiifolia,Pseudobahia,,"(Benth.) Rydb.","Q731808,Q1905130",1915,,"N. Amer. Fl. 34 83 1915",,,,f9a667d2-8fb2-11eb-924d-9cd76263cbd0,,211211-2,wfo-0000059973,3115473,,
-cf9bed40-8fb7-11eb-924d-9cd76263cbd0,variety,pinnatifida,Pseudobahia,bahiifolia,A.Gray,Q347356,,,,,,,,,,wfo-0000103383,4274105,,
-02779ada-8fb7-11eb-924d-9cd76263cbd0,species,heermannii,Pseudobahia,,"(Durand) Rydb.","Q949682,Q1905130",1915,,"N. Amer. Fl. 34 83 1915",,,,422c9d8e-8fb6-11eb-924d-9cd76263cbd0,,211212-2,wfo-0000095444,3115477,,
-33b6cdd2-8fb2-11eb-924d-9cd76263cbd0,species,peirsonii,Pseudobahia,,Munz,Q4280785,1949,,1949,,,,,,,wfo-0000015699,3115476,,
+e91793c2-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudobahia,,,Rydb.,0,,,"N. Amer. Fl. 34(2): 83 (1915)",,,,,,urn:lsid:ipni.org:names:290923-2,wfo-4000031398,3115472,,
+19deacfc-8fb4-11eb-924d-9cd76263cbd0,species,bahiifolia,Pseudobahia,,Rydb.,0,1915,,"N. Amer. Fl. 34(2): 83 (1915)",,,,f9a667d2-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:211211-2,wfo-0000059973,3115473,,
+b3d22da4-1d47-11ec-82c2-f14daa6f2d93,variety,bahiifolia,Pseudobahia,bahiifolia,,,,,,,,,,,,wfo-0000050318,,,
+cf9bed40-8fb7-11eb-924d-9cd76263cbd0,variety,pinnatifida,Pseudobahia,bahiifolia,A.Gray,0,,,,,,,,,,wfo-0000103383,4274105,,
+02779ada-8fb7-11eb-924d-9cd76263cbd0,species,heermannii,Pseudobahia,,Rydb.,0,1915,,"N. Amer. Fl. 34(2): 83 (1915)",,,,422c9d8e-8fb6-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:211212-2,wfo-0000095444,3115477,,
+33b6cdd2-8fb2-11eb-924d-9cd76263cbd0,species,peirsonii,Pseudobahia,,Munz,0,1949,,"Aliso 2: 84, tab. 12, fig. F, 13, f (1949)",,,,,,urn:lsid:ipni.org:names:211213-2,wfo-0000015699,3115476,,

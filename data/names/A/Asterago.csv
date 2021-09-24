@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 dfd84360-8fd1-11eb-924d-9cd76263cbd0,genus,Asterago,,,,,,,,,,,,,,wfo-4000003383,6446757,,
-0195bdee-8fcc-11eb-924d-9cd76263cbd0,species,cornifolia,Asterandra,,"(Kunth) Klotzsch","Q77074,Q67003",1841,,"Arch. Naturgesch. 7: 200 1841",,,,,,339506-1,wfo-0000292256,3078523,,
-01977594-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Asterandra,,"(L.) Britton","Q1043,Q553714",1918,,"Brooklyn Bot. Gard. Mem. 1: 61 1918",,,,,,24299-2,wfo-0000292265,3077388,,
-0198ea8c-8fcc-11eb-924d-9cd76263cbd0,species,sellowiana,Asterandra,,Klotzsch,Q67003,1841,,"Arch. Naturgesch. 7: 200 1841",,,,,,339509-1,wfo-0000292277,3077876,,
+d1c0c582-8fb2-11eb-924d-9cd76263cbd0,species,lutea,Asterago,,"(Hort.) Everett",0,1937,,"Gard. Chron. 1937, Ser. III. ci. 6; Thorsrud in Gard. Chron. 1937, Ser. III.ci. 83.",,,,e2213c24-8fba-11eb-924d-9cd76263cbd0,,,wfo-0000035284,,,
+fda32c54-8fb1-11eb-924d-9cd76263cbd0,species,lutea,Asterago,,Everett,0,1937,,"Gard. Chron., III, 101: 6 (1937)",,,,,,,wfo-0000000685,,,
+0195bdee-8fcc-11eb-924d-9cd76263cbd0,species,cornifolia,Asterandra,,"(Kunth) Klotzsch",0,1841,,"Arch. Naturgesch. 7: 200 (1841)",,,,,,urn:lsid:ipni.org:names:339506-1,wfo-0000292256,3078523,,
+01977594-8fcc-11eb-924d-9cd76263cbd0,species,grandifolia,Asterandra,,"(L.) Britton",0,1918,,"Brooklyn Bot. Gard. Mem. 1: 61 (1918)",,,,,,urn:lsid:ipni.org:names:24299-2,wfo-0000292265,3077388,,
+0198ea8c-8fcc-11eb-924d-9cd76263cbd0,species,sellowiana,Asterandra,,Klotzsch,0,1841,,"Arch. Naturgesch. 7: 200 (1841)",,,,,,urn:lsid:ipni.org:names:339509-1,wfo-0000292277,3077876,,

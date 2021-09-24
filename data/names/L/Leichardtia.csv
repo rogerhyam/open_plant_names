@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5aaba52-8fd1-11eb-924d-9cd76263cbd0,genus,Leichardtia,,,R.Br.,Q155764,1849,,"Narr. Exped. C. Australia 2(App): 81. 1849.",,,,,,,wfo-4000020903,7312531,,
-ca1cba14-8fcd-11eb-924d-9cd76263cbd0,species,australis,Leichardtia,,R.Br.,Q155764,1849,,"Narr. Exped. C. Australia 2(App.): 81 1849",,,,,,,wfo-0001102237,3580448,,
-cb21e81c-8fcd-11eb-924d-9cd76263cbd0,species,billardieri,Leichardtia,,"(Decne.) Bullock","Q966069,Q708394",1956,,"Kew Bull. 1956: 287 1956",,,,,,,wfo-0001104549,7898108,,
-cb220536-8fcd-11eb-924d-9cd76263cbd0,species,ericoides,Leichardtia,,"(Schltr.) Bullock","Q62278,Q708394",1956,,"Kew Bull. 1956: 288 1956",,,,caa26b1e-8fcd-11eb-924d-9cd76263cbd0,,98953-1,wfo-0001104550,3580434,,
-cb221f26-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Leichardtia,,"(F.Muell. ex Benth.) Bullock","Q708002,Q731808,Q708394",1956,,"Kew Bull. 1956: 287 1956",,Q93614187,,ca16edbe-8fcd-11eb-924d-9cd76263cbd0,,98954-1,wfo-0001104551,3580429,,
-cb27fb26-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Leichardtia,,"(A.Gray) A.C.Sm.","Q347356,Q1922675",1975,,"Brittonia 27(2): 152 1975",,Q55768585,,,,98955-1,wfo-0001104603,3580420,,
+e5aaba52-8fd1-11eb-924d-9cd76263cbd0,genus,Leichardtia,,,R.Br.,0,1849,,"Narr. Exped. C. Australia 2(App.): 81 (1849)",,,,,,urn:lsid:ipni.org:names:3465-1,wfo-4000020903,7312531,,
+ca1cba14-8fcd-11eb-924d-9cd76263cbd0,species,australis,Leichardtia,,R.Br.,0,1849,,"Narr. Exped. C. Australia 2(App.): 81 (1849)",,,,,,urn:lsid:ipni.org:names:98956-1,wfo-0001102237,3580448,,
+cb21e81c-8fcd-11eb-924d-9cd76263cbd0,species,billardierei,Leichardtia,,"(Decne.) Bullock",0,1956,,"Kew Bull. 11: 287 (1956)",,,,,,urn:lsid:ipni.org:names:98952-1,wfo-0001104549,7898108,,
+cb220536-8fcd-11eb-924d-9cd76263cbd0,species,ericoides,Leichardtia,,"(Schltr.) Bullock",0,1956,,"Kew Bull. 11: 288 (1956)",,,,caa26b1e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:98953-1,wfo-0001104550,3580434,,
+cb221f26-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Leichardtia,,"(F.Muell.) Bullock",0,1956,,"Kew Bull. 11: 287 (1956)",,Q93614187,,ca16edbe-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:98954-1,wfo-0001104551,3580429,,
+cb27fb26-8fcd-11eb-924d-9cd76263cbd0,species,stenophylla,Leichardtia,,"(A.Gray) A.C.Sm.",0,1975,,"Brittonia 27: 152 (1975)",,Q55768585,,,,urn:lsid:ipni.org:names:98955-1,wfo-0001104603,3580420,,

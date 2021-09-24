@@ -1,7 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6194a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Loxsoma,,,"R.Br. ex A.Cunn.","Q155764,Q545888",1837,,"Companion Bot. Mag. 2: 366. 1837.",,,,,,,wfo-4000022342,3229338,,
-ac25e9e0-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Loxsoma,,"R.Br. ex A.Cunn.","Q155764,Q545888",1837,,"Companion Bot. Mag. 2: 366 1837",,,,,,,wfo-0001035044,7454415,,
-ab22b21c-8fcd-11eb-924d-9cd76263cbd0,species,cunninghammii,Loxsoma,,"R.Br. & A.Cunn.","Q155764,Q545888",1836,,"Companion Bot. Mag. 2(366): 1836",,,,,,,wfo-0001032923,,,
-dc084268-8fcb-11eb-924d-9cd76263cbd0,species,maculatum,Loxsoma,,"(Dalzell) Garay","Q4154159,Q2937426",1972,,"Bot. Mus. Leafl. 23: 184 1972",,Q100425847,,,,641769-1,wfo-0000230701,,,
-dc086428-8fcb-11eb-924d-9cd76263cbd0,species,straminea,Loxsoma,,"(C.J.Saldanha) Pradhan","Q5759749,Q19001532",1979,,"Indian Orchids: Guide Identif. & Cult. 2: 718 1979",,,,0d74dc08-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000230702,,,
-aecdddac-8fd1-11eb-924d-9cd76263cbd0,species,viridiflora,Loxsoma,,Pradhan,Q19001532,1979,,"Indian Orchids: Guide Identif. & Cult. 2: 718 1979",,,,,,641771-1,wfo-0001222350,,,
+e6194a3a-8fd1-11eb-924d-9cd76263cbd0,genus,Loxsoma,,,"R.Br. ex A.Cunn.",0,1837,,"Companion Bot. Mag. 2: 366. 1837.",,,,,,urn:lsid:ipni.org:names:17142520-1,wfo-4000022342,3229338,,
+ac25e9e0-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Loxsoma,,R.Br.,0,1837,,"Companion Bot. Mag. 2: 366, t. 31-32. 1837; HB. 5 (1837)",,,,,,urn:lsid:ipni.org:names:17142640-1,wfo-0001035044,7454415,,
+ab22b21c-8fcd-11eb-924d-9cd76263cbd0,species,cunninghammii,Loxsoma,,"R.Br. & A.Cunn.",0,1836,,"Companion Bot. Mag. 2(366): 1836",,,,,,,wfo-0001032923,,,

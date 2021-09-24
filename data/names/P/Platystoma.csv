@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8acb570-8fd1-11eb-924d-9cd76263cbd0,genus,Platystoma,,,"Benth. & Hook.f.","Q731808,Q157501",1851,,"Gen. Pl. 2: 1163, 1172. 1876.",,,,,,,wfo-4000030168,7595483,4184," "
-bb8afab0-8fcd-11eb-924d-9cd76263cbd0,species,africana,Platystoma,,P.Beauv.,Q458941,,,,,,,,,,wfo-0001070029,8428740,,
+e8acb570-8fd1-11eb-924d-9cd76263cbd0,genus,Platystoma,,,"Benth. & Hook.f.",0,1851,,"Gen. Pl. [Bentham & Hooker f.] 2(2): 1172, sphalm. 1876 [May 1876]",,,,,,urn:lsid:ipni.org:names:21132-1,wfo-4000030168,7595483,4184," "
+bb8afab0-8fcd-11eb-924d-9cd76263cbd0,species,africana,Platystoma,,P.Beauv.,0,,,,,,,,,,wfo-0001070029,8428740,,
+f6420150-8fcb-11eb-924d-9cd76263cbd0,species,buettnerianum,Platystoma,,Briq,0,1894,,"Bot. Jahrb. Syst. 19(2-3): 166. 1894 [21 Aug 1894]",,,,,,urn:lsid:ipni.org:names:454228-1,wfo-0000274776,7423947,,
+f64422b4-8fcb-11eb-924d-9cd76263cbd0,species,flaccidum,Platystoma,,Briq.,0,1894,,"Bot. Jahrb. Syst. 19(2-3): 165. 1894 [21 Aug 1894]",,,,,,urn:lsid:ipni.org:names:454229-1,wfo-0000274791,8284608,,

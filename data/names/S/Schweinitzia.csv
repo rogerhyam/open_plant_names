@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea248518-8fd1-11eb-924d-9cd76263cbd0,genus,Schweinitzia,,,"S.Elliott ex T.Nuttall",,1818,,"Gen. N. Amer. Pl. 2: Add. 1818. (14 Jul 1818)",,,,ea248518-8fd1-11eb-924d-9cd76263cbd0,,,wfo-4000034645,,4919," "
-d6526a86-8fcd-11eb-924d-9cd76263cbd0,species,caroliana,Schweinitzia,,G.Don,Q1381245,1834,,"Gen. Hist. 3: 867 1834",,,,,,,wfo-0001129005,7727989,,
-88e82228-8fcc-11eb-924d-9cd76263cbd0,species,caroliniana,Schweinitzia,,G.Don,Q1381245,1834,,"Gen. Hist. 3: 867 1834",,,,,,582573-1,wfo-0000499633,5684058,,
-18d96fcc-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Schweinitzia,,"(Schwein.) Raf.","Q1822110,Q364857",1818,,"Amer. Monthly Mag. & Crit. Rev. 3: 99 1818",,,,,,60450805-2,wfo-0000744631,8287623,,
-88e7e9e8-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Schweinitzia,,Elliott,Q2982922,1817,,"Sketch Bot. S. Carolina 1: 478 1817",,,,,,582574-1,wfo-0000499631,7770170,,
-d65286b0-8fcd-11eb-924d-9cd76263cbd0,species,reynoldsiae,Schweinitzia,,A.Gray,Q347356,1885,,"Proc. Amer. Acad. Arts 20: 301 1885",,,,,,230076-2,wfo-0001129006,5684048,,
-b17ef00e-9bac-11eb-a8a2-19ed5c03f8d3,species,rufo-olivacea,Schweinitzia,,"Massee & Crossl.",Q4284198,,,,,,,b17ef00e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,462285," "
+ea248518-8fd1-11eb-924d-9cd76263cbd0,genus,Schweinitzia,,,Elliott,,1818,,"Gen. N. Amer. Pl. 2(Add.): 14 (1818)",,,,ea248518-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30181590-2,wfo-4000034645,,4919," "
+d6526a86-8fcd-11eb-924d-9cd76263cbd0,species,caroliana,Schweinitzia,,G.Don,0,1834,,"Gen. Hist. 3: 867 1834",,,,,,,wfo-0001129005,7727989,,
+88e82228-8fcc-11eb-924d-9cd76263cbd0,species,caroliniana,Schweinitzia,,G.Don,0,1834,,"Gen. Hist. 3: 867 (1834)",,,,,,urn:lsid:ipni.org:names:582573-1,wfo-0000499633,5684058,,
+18d96fcc-8fcd-11eb-924d-9cd76263cbd0,species,odorata,Schweinitzia,,"(Schwein.) Raf.",0,1818,,"Amer. Monthly Mag. & Crit. Rev. 3: 99 (1818)",,,,,,urn:lsid:ipni.org:names:60450805-2,wfo-0000744631,8287623,,
+88e7e9e8-8fcc-11eb-924d-9cd76263cbd0,species,odorata,Schweinitzia,,Elliott,0,1817,,"Sketch Bot. S. Carolina [Elliott] 1: 479. 1817 [Dec(?) 1817] : a sphalm.",,,,,,urn:lsid:ipni.org:names:582574-1,wfo-0000499631,7770170,,
+d65286b0-8fcd-11eb-924d-9cd76263cbd0,species,reynoldsiae,Schweinitzia,,A.Gray,0,1885,,"Proc. Amer. Acad. Arts 20: 301 (1885)",,,,,,urn:lsid:ipni.org:names:230076-2,wfo-0001129006,5684048,,
+b17ef00e-9bac-11eb-a8a2-19ed5c03f8d3,species,rufo-olivacea,Schweinitzia,,"Massee & Crossl.",0,,,,,,,b17ef00e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,462285," "

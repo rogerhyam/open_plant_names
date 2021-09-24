@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df693402-8fd1-11eb-924d-9cd76263cbd0,genus,Androcalymma,,,Dwyer,Q4169029,,,,,Q95998668,,,,296592-2,wfo-4000001984,2947111,,
-088977c2-8fc1-11eb-924d-9cd76263cbd0,species,glabrifolium,Androcalymma,,Dwyer,Q4169029,,,,,,,,,,wfo-0000169595,2947112,,
-9d532c26-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Androcentrum,,Lem.,Q942880,1847,,"Fl. Serres Jard. Eur. 3: 242 1847",,,,,,45201-1,wfo-0000534030,3769640,,
-9d534666-8fcc-11eb-924d-9cd76263cbd0,species,quercifolium,Androcephalium,,Warb.,Q62822,1894,,"Bot. Jahrb. Syst. 18: 97 1894",,,,,,,wfo-0000534031,3918731,,
+df693402-8fd1-11eb-924d-9cd76263cbd0,genus,Androcalymma,,,Dwyer,0,,,"Ann. Missouri Bot. Gard. 44: 295 (1957)",,Q95998668,,,,urn:lsid:ipni.org:names:296592-2,wfo-4000001984,2947111,,
+088977c2-8fc1-11eb-924d-9cd76263cbd0,species,glabrifolium,Androcalymma,,Dwyer,0,,,"Ann. Missouri Bot. Gard. 44: 295 (1957)",,,,,,urn:lsid:ipni.org:names:12632-2,wfo-0000169595,2947112,,
+9d532c26-8fcc-11eb-924d-9cd76263cbd0,species,multiflorum,Androcentrum,,Lem.,0,1847,,"Fl. Serres Jard. Eur. 3: 242 (1847)",,,,,,urn:lsid:ipni.org:names:45201-1,wfo-0000534030,3769640,,
+9d534666-8fcc-11eb-924d-9cd76263cbd0,species,quercifolium,Androcephalium,,Warb.,0,1894,,"Bot. Jahrb. Syst. 18: 97 (1893)",,,,,,urn:lsid:ipni.org:names:338700-1,wfo-0000534031,3918731,,

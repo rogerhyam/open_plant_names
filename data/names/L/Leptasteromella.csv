@@ -1,9 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a712d8f0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leptasteromella,,,Petr.,Q4360385,1968,,"Sydowia 20: 235 (1968)",,,,a712d8f0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8737," "
-6ccf36ee-9bac-11eb-a8a2-19ed5c03f8d3,species,inconspicua,Leptasteromella,,Petr.,Q4360385,1968,,"Sydowia 20: (1968)",,,,6ccf36ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,333158," "
-56ff3430-8fcd-11eb-924d-9cd76263cbd0,species,bequaertii,Leptatherum,,"(De Wild.) Robyns","Q2628388,Q5492362",1929,,"Fl. Agrost. Congo Belge 1: 89 1929",,,,,,407048-1,wfo-0000877788,4139580,,
-6f9572f2-8fcd-11eb-924d-9cd76263cbd0,species,boreale,Leptatherum,,"(Ohwi) C.Hui Chen, Kuoh & Veldkamp","Q4332375,Q21508310,Q36526148,Q4106131",2009,,"Blumea 54: 179 2009",,Q55791967,,58055094-8fcd-11eb-924d-9cd76263cbd0,,77102491-1,wfo-0000913173,7675004,,
-56ff5082-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Leptatherum,,"(Miq.) Franch. & Sav.","Q76742,Q377208,Q246459",1878,,"Enum. Pl. Jap. 2: 608 1878",,,,,,,wfo-0000877789,4139570,,
-6f959d2c-8fcd-11eb-924d-9cd76263cbd0,species,nudum,Leptatherum,,"(Trin.) C.Hui Chen, Kuoh & Veldkamp","Q65867,Q21508310,Q36526148,Q4106131",2009,,"Blumea 54: 179 2009",,Q55791967,,,,77102493-1,wfo-0000913174,7485368,,
-56ff6b80-8fcd-11eb-924d-9cd76263cbd0,species,royleanum,Leptatherum,,Nees,Q76349,1841,,"Proc. Linn. Soc. London 1: 93 1841",,,,,,407050-1,wfo-0000877790,4139559,,
-6f95c694-8fcd-11eb-924d-9cd76263cbd0,species,somae,Leptatherum,,"(Hayata) C.Hui Chen, Kuoh & Veldkamp","Q702874,Q21508310,Q36526148,Q4106131",2009,,"Blumea 54: 179 2009",,Q55791967,,,,77102494-1,wfo-0000913175,8266260,,
+a712d8f0-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leptasteromella,,,Petr.,0,1968,,"Sydowia 20: 235 (1968)",,,,a712d8f0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8737," "
+6ccf36ee-9bac-11eb-a8a2-19ed5c03f8d3,species,inconspicua,Leptasteromella,,Petr.,0,1968,,"Sydowia 20: (1968)",,,,6ccf36ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,333158," "
+56ff3430-8fcd-11eb-924d-9cd76263cbd0,species,bequaertii,Leptatherum,,Robyns,0,1929,,"Fl. Agrost. Congo Belge 1: 89 (1929)",,,,,,urn:lsid:ipni.org:names:407048-1,wfo-0000877788,4139580,,
+6f9572f2-8fcd-11eb-924d-9cd76263cbd0,species,boreale,Leptatherum,,"(Ohwi) C.Hui Chen, Kuoh & Veldkamp",0,2009,,"Blumea 54: 179 (2009)",,Q55791967,,58055094-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77102491-1,wfo-0000913173,7675004,,
+56ff5082-8fcd-11eb-924d-9cd76263cbd0,species,japonicum,Leptatherum,,"Franch. & Sav.",0,1878,,"Enum. Pl. Jap. 2: 608 (1878)",,,,,,urn:lsid:ipni.org:names:407049-1,wfo-0000877789,4139570,,
+713c48ca-1d4d-11ec-82c2-f14daa6f2d93,variety,boreale,Leptatherum,japonicum,"(Ohwi) Ibaragi & Yonek.",,,,"J. Jap. Bot. 90: 71 (2015)",,,,,,urn:lsid:ipni.org:names:77147189-1,wfo-0001385436,,,
+6f959d2c-8fcd-11eb-924d-9cd76263cbd0,species,nudum,Leptatherum,,"(Trin.) C.Hui Chen, Kuoh & Veldkamp",0,2009,,"Blumea 54: 179 (2009)",,Q55791967,,,,urn:lsid:ipni.org:names:77102493-1,wfo-0000913174,7485368,,
+56ff6b80-8fcd-11eb-924d-9cd76263cbd0,species,royleanum,Leptatherum,,Nees,0,1841,,"Proc. Linn. Soc. London 1: 93 (1841)",,,,,,urn:lsid:ipni.org:names:407050-1,wfo-0000877790,4139559,,
+6f95c694-8fcd-11eb-924d-9cd76263cbd0,species,somae,Leptatherum,,"(Hayata) C.Hui Chen, Kuoh & Veldkamp",0,2009,,"Blumea 54: 179 (2009)",,Q55791967,,,,urn:lsid:ipni.org:names:77102494-1,wfo-0000913175,8266260,,

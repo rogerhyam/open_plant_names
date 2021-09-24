@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7812c4e-8fd1-11eb-924d-9cd76263cbd0,genus,Oionychion,,,"Nieuwl. & Kaczm.","Q88145,Q21517208",1914,,"Amer. Midl. Naturalist 3: 209, 210. 1914.",,,,,,,wfo-4000026681,7296305,,
-3e338786-8fcc-11eb-924d-9cd76263cbd0,species,pedatum,Oionychion,,Nieuwl.,Q88145,1914,,"Amer. Midl. Naturalist 3: 210 1914",,Q55773173,,,,173610-2,wfo-0000387966,7296306,,
+e7812c4e-8fd1-11eb-924d-9cd76263cbd0,genus,Oionychion,,,"Nieuwl. & Kaczm.",0,1914,,"Amer. Midl. Naturalist 3: 210 (1914)",,,,,,urn:lsid:ipni.org:names:298280-2,wfo-4000026681,7296305,,
+3e338786-8fcc-11eb-924d-9cd76263cbd0,species,pedatum,Oionychion,,"Nieuwl. & Kaczm.",0,1914,,"Amer. Midl. Naturalist 3: 210 (1914)",,Q55773173,,,,urn:lsid:ipni.org:names:173610-2,wfo-0000387966,7296306,,
+69197e56-1d4d-11ec-82c2-f14daa6f2d93,variety,ampliatum,Oionychion,pedatum,"Nieuwl. & Kaczm.",,,,"Amer. Midl. Naturalist 3: 211 (1914)",,,,,,urn:lsid:ipni.org:names:173611-2,wfo-0001374995,,,
+6919a598-1d4d-11ec-82c2-f14daa6f2d93,variety,inornatum,Oionychion,pedatum,"Nieuwl. & Kaczm.",,,,"Amer. Midl. Naturalist 3: 210 (1914)",,,,,,urn:lsid:ipni.org:names:173612-2,wfo-0001374996,,,

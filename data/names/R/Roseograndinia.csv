@@ -1,9 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a204b11c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Roseograndinia,,,"Hjortstam & Ryvarden",Q4567813,2005,,"Syn. Fung. (Oslo) 20: 40 (2005)",,,,a204b11c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28986," "
-6fcd039e-9bac-11eb-a8a2-19ed5c03f8d3,species,rosea,Roseograndinia,,"(Henn.) Hjortstam & Ryvarden","Q4497246,Q4567813",2005,,"Syn. Fung. (Oslo) 20: 40 (2005)",,,,897dec2c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345015," "
-d37271b8-8fcc-11eb-924d-9cd76263cbd0,species,roseum,,,Graebn.,Q67753,1920,,"Syn. Mitteleur. Fl. 5(2): 54 1920",,,,,,152855-1,wfo-0000621607,,,
-60587be0-8fcd-11eb-924d-9cd76263cbd0,species,diarrhena,Roshevitzia,,"(Schult. & Schult.f.) Tzvelev","Q78881,Q78745,Q4503394",1968,,"Bot. Zhurn. (Moscow & Leningrad) 53: 311 1968",,,,5e0e2970-8fcd-11eb-924d-9cd76263cbd0,,419574-1,wfo-0000896174,4139524,,
-605a4614-8fcd-11eb-924d-9cd76263cbd0,species,diplachnoides,Roshevitzia,,"(Steud.) Tzvelev","Q62821,Q4503394",1970,,"Novosti Sist. Vyssh. Rast. 7: 50 1970 publ. 1971",,,,526be562-8fcd-11eb-924d-9cd76263cbd0,,419575-1,wfo-0000896175,4139515,,
-605abbd0-8fcd-11eb-924d-9cd76263cbd0,species,glomerata,Roshevitzia,,"(Walter) Tzvelev","Q1366734,Q4503394",1970,,"Novosti Sist. Vyssh. Rast. 7: 50 1970 publ. 1971",,,,,,1058261-2,wfo-0000896177,4139495,,
-605ae13c-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Roshevitzia,,"(Thunb.) Tzvelev","Q39658,Q4503394",1970,,"Novosti Sist. Vyssh. Rast. 7: 50 1970 publ. 1971",,,,,,419577-1,wfo-0000896178,4139482,,
-4623dc4c-8fcd-11eb-924d-9cd76263cbd0,species,roshevitzii,,,Tzvelev,Q4503394,1972,,"Novosti Sist. Vyssh. Rast. 9: 60 1972",,,,,,,wfo-0000841119,,,
+a204b11c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Roseograndinia,,,"Hjortstam & Ryvarden",0,2005,,"Syn. Fung. (Oslo) 20: 40 (2005)",,,,a204b11c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28986," "
+6fcd039e-9bac-11eb-a8a2-19ed5c03f8d3,species,rosea,Roseograndinia,,"(Henn.) Hjortstam & Ryvarden",0,2005,,"Syn. Fung. (Oslo) 20: 40 (2005)",,,,897dec2c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,345015," "
+60587be0-8fcd-11eb-924d-9cd76263cbd0,species,diarrhena,Roshevitzia,,"(Schult. & Schult.f.) Tzvelev",0,1968,,"Bot. Zhurn. (Moscow & Leningrad) 53: 311 (1968)",,,,5e0e2970-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:419574-1,wfo-0000896174,4139524,,
+605a4614-8fcd-11eb-924d-9cd76263cbd0,species,diplachnoides,Roshevitzia,,"(Steud.) Tzvelev",0,1970,,"Novosti Sist. Vyssh. Rast. 7: 50 (1970 publ. 1971)",,,,526be562-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:419575-1,wfo-0000896175,4139515,,
+605abbd0-8fcd-11eb-924d-9cd76263cbd0,species,glomerata,Roshevitzia,,"(Walter) Tzvelev",0,1970,,"Novosti Sist. Vyssh. Rast. 7: 50 (1970 publ. 1971)",,,,,,urn:lsid:ipni.org:names:1058261-2,wfo-0000896177,4139495,,
+605ae13c-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Roshevitzia,,"(Thunb.) Tzvelev",0,1970,,"Novosti Sist. Vyssh. Rast. 7: 50 (1970 publ. 1971)",,,,,,urn:lsid:ipni.org:names:419577-1,wfo-0000896178,4139482,,

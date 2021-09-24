@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea2973d4-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerochlamys,,,F.Muell.,Q708002,1858,,"Trans. Philos. Inst. Victoria 2: 76. 1858.",,,,,,,wfo-4000034719,9520911,,
-da0ba076-8fd1-11eb-924d-9cd76263cbd0,species,brachyptera,Sclerochlamys,,F.Muell.,Q708002,1858,,"Trans. & Proc. Philos. Inst. Victoria 2: 76 1858",,,,,,167271-1,wfo-0001295350,7745493,,
-70b571be-8fcd-11eb-924d-9cd76263cbd0,species,rigidifolia,Sclerochlamys,,"(Filg., Morrone & Zuloaga) Morrone & Zuloaga","Q15895001,Q6054282,Q2198822",2009,,"Taxon 58: 373 2009",,,,680c3430-8fcd-11eb-924d-9cd76263cbd0,,77099675-1,wfo-0000914462,7418252,,
+ea2973d4-8fd1-11eb-924d-9cd76263cbd0,genus,Sclerochlamys,,,F.Muell.,0,1858,,"Trans. & Proc. Philos. Inst. Victoria 2: 76 (1858)",,,,,,urn:lsid:ipni.org:names:6993-1,wfo-4000034719,9520911,,
+da0ba076-8fd1-11eb-924d-9cd76263cbd0,species,brachyptera,Sclerochlamys,,F.Muell.,0,1858,,"Trans. & Proc. Philos. Inst. Victoria 2: 76 (1858)",,,,,,urn:lsid:ipni.org:names:167271-1,wfo-0001295350,7745493,,
+70b571be-8fcd-11eb-924d-9cd76263cbd0,species,rigidifolia,Sclerochlamys,,"(Filg., Morrone & Zuloaga) Morrone & Zuloaga",0,2009,,"Taxon 58(2): 373. 2009 [28 May 2009]",,,,680c3430-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77099675-1,wfo-0000914462,7418252,,

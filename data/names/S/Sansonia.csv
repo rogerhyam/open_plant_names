@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec6fe7c2-8fd1-11eb-924d-9cd76263cbd0,genus,Sansonia,,,Chiron,Q9001563,2012,,"Richardiana 12: 80 (2012)",,,,,,77118322-1,wfo-4001303402,7736327,,
-33c9dbdc-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Santalina,,Baill.,Q461931,1890,,"Bull. Mens. Soc. Linn. Paris 2: 844 1890",,,,,,780589-1,wfo-0000801750,3847134,,
+ec6fe7c2-8fd1-11eb-924d-9cd76263cbd0,genus,Sansonia,,,Chiron,0,2012,,"Richardiana 12: 80 (2012)",,,,,,urn:lsid:ipni.org:names:77118322-1,wfo-4001303402,7736327,,
+3f148628-1d4d-11ec-82c2-f14daa6f2d93,species,bradei,Sansonia,,"(Schltr.) Chiron",,,,"Richardiana 12: 82 (2012)",,,,,,urn:lsid:ipni.org:names:77118323-1,wfo-0001317439,,,
+4a26e97a-1d4d-11ec-82c2-f14daa6f2d93,species,vandenbergii,Sansonia,,Chiron,,,,"Richardiana 12: 85 (2012)",,,,,,urn:lsid:ipni.org:names:77118324-1,wfo-0001332625,,,
+3f14adce-1d4d-11ec-82c2-f14daa6f2d93,species,vanderbergii,Sansonia,,Chiron,,,,"Richardiana 12(2): 85–86 2012",,,,,,,wfo-0001317440,,,

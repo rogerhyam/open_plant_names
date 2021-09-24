@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e128eed6-8fd1-11eb-924d-9cd76263cbd0,genus,Cancriniella,,,Tzvelev,Q4503394,,,,,,,,,8081-1,wfo-4000006524,3101329,,
-147b5c26-8fb2-11eb-924d-9cd76263cbd0,species,krascheninnikovii,Cancriniella,,"(Rubtzov) Tzvelev","Q21607509,Q4503394",1961,,1961,,,,234e793e-8fb4-11eb-924d-9cd76263cbd0,,,wfo-0000010109,3101330,,
-30cb7fda-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Candarum,,Schott,Q112191,1832,,"Melet. Bot. 17 1832",,,,,,86530-1,wfo-0000795561,2871555,,
-30cd871c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Candarum,,Schott,Q112191,1832,,"Melet. Bot. 17 1832",,,,,,86531-1,wfo-0000795573,2871546,,
-30cf1e42-8fcd-11eb-924d-9cd76263cbd0,species,rumphii,Candarum,,Schott,Q112191,1832,,"Melet. Bot. 17 1832",,,,,,86532-1,wfo-0000795584,2871542,,
+e128eed6-8fd1-11eb-924d-9cd76263cbd0,genus,Cancriniella,,,Tzvelev,0,,,"Fl. URSS xxvi. 292, 876 (1961).",,,,,,urn:lsid:ipni.org:names:8081-1,wfo-4000006524,3101329,,
+147b5c26-8fb2-11eb-924d-9cd76263cbd0,species,krascheninnikovii,Cancriniella,,"(Rubtzov) Tzvelev",0,1961,,"Fl. URSS xxvi. 293 (1961)",,,,234e793e-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:188277-1,wfo-0000010109,3101330,,
+30cb7fda-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Candarum,,Schott,0,1832,,"Melet. Bot. : 17 (1832)",,,,,,urn:lsid:ipni.org:names:86530-1,wfo-0000795561,2871555,,
+30cd871c-8fcd-11eb-924d-9cd76263cbd0,species,roxburghii,Candarum,,Schott,0,1832,,"Melet. Bot. : 17 (1832)",,,,,,urn:lsid:ipni.org:names:86531-1,wfo-0000795573,2871546,,
+30cf1e42-8fcd-11eb-924d-9cd76263cbd0,species,rumphii,Candarum,,Schott,0,1832,,"Melet. Bot. : 17 (1832)",,,,,,urn:lsid:ipni.org:names:86532-1,wfo-0000795584,2871542,,

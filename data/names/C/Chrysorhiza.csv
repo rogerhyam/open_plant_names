@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1e180ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Chrysorhiza,,,"T.F. Andersen & Stalpers",,1996,,"Rhizoctonia Species (Dordrecht), Taxonomy, Molecular Biology, Ecology, Pathology and Disease Control 58 (1996)",,,,a1e180ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27798," "
 6ea161cc-9bac-11eb-a8a2-19ed5c03f8d3,species,zeae,Chrysorhiza,,"(Voorhees) T.F. Andersen & Stalpers",,1996,invalid,"in Stalpers & Andersen, Rhizoctonia Species (Dordrecht), Taxonomy, Molecular Biology, Ecology, Pathology and Disease Control 58 (1996)",,,,972f111a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,436473,"Nom. inval., Art. 33.3  full and direct reference to basionym omitted"
-4dcc6202-8fcd-11eb-924d-9cd76263cbd0,species,nitens,Chrysorhoe,,Lindl.,Q378629,1837,,"Companion Bot. Mag. 2: 357 1837",,,,,,592196-1,wfo-0000857903,3187004,,
-4dcd9aaa-8fcd-11eb-924d-9cd76263cbd0,species,serrata,Chrysorhoe,,Lindl.,Q378629,1839,,"Sketch Veg. Swan R. vi 1839",,,,,,592197-1,wfo-0000857914,3187143,,
-bae1bfe0-8fcd-11eb-924d-9cd76263cbd0,species,sibthorpianum,Chrysosciadium,,Tamamsch.,Q6132455,,,,,,,,,,wfo-0001068497,3639773,,
+4dcc6202-8fcd-11eb-924d-9cd76263cbd0,species,nitens,Chrysorhoe,,Lindl.,0,1837,,"Companion Bot. Mag. 2: 357 (1837)",,,,,,urn:lsid:ipni.org:names:592196-1,wfo-0000857903,3187004,,
+4dcd9aaa-8fcd-11eb-924d-9cd76263cbd0,species,serrata,Chrysorhoe,,Lindl.,0,1839,,"Sketch Veg. Swan R. : vi (1839)",,,,,,urn:lsid:ipni.org:names:592197-1,wfo-0000857914,3187143,,
+bae1bfe0-8fcd-11eb-924d-9cd76263cbd0,species,sibthorpianum,Chrysosciadium,,"(Guss.) Tamamsch.",0,,,"Fl. Kavkaza [Grossheim] ed. 2, 7: 24. 1967",,,,,,urn:lsid:ipni.org:names:840348-1,wfo-0001068497,3639773,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 999a0cde-9bad-11eb-a8a2-19ed5c03f8d3,genus,Endocolium,,,Syd.,,1937,,"Annls mycol. 35: 90 (1937)",,,,999a0cde-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1793," "
-1bfe5974-9bad-11eb-a8a2-19ed5c03f8d3,species,australiense,Endocolium,,"(Syd.) Bat. & Nascim.",Q4079389,,,,,,,d535ba3c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330360," "
+1bfe5974-9bad-11eb-a8a2-19ed5c03f8d3,species,australiense,Endocolium,,"(Syd.) Bat. & Nascim.",0,,,,,,,d535ba3c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330360," "
 d7dabbe8-9bac-11eb-a8a2-19ed5c03f8d3,species,costaricanum,Endocolium,,Syd.,,1937,,"Annls mycol. 35: 90 (1937)",,,,d7dabbe8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262140," "
 e08a844e-9bac-11eb-a8a2-19ed5c03f8d3,species,palmeriae,Endocolium,,Syd.,,1938,,"Annls mycol. 36: 308 (1938)",,,,e08a844e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,273377," "
-2372c5f0-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Endocoma,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 57 1837",,,,,,534637-1,wfo-0000766531,2769639,,
-2372e206-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Endocoma,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 57 1837",,,,,,534638-1,wfo-0000766532,2769643,,
+2372c5f0-8fcd-11eb-924d-9cd76263cbd0,species,parviflora,Endocoma,,Raf.,0,1837,,"Fl. Tellur. 2: 57 (1837)",,,,,,urn:lsid:ipni.org:names:534637-1,wfo-0000766531,2769639,,
+2372e206-8fcd-11eb-924d-9cd76263cbd0,species,peruviana,Endocoma,,Raf.,0,1837,,"Fl. Tellur. 2: 57 (1837)",,,,,,urn:lsid:ipni.org:names:534638-1,wfo-0000766532,2769643,,

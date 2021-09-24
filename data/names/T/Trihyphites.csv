@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a93fe8ac-9bad-11eb-a8a2-19ed5c03f8d3,genus,Trihyphites,,,"Kalgutkar & Janson.",,2000,,"AASP Contributions Series (Dallas) 39: 305 (2000)",,,,a93fe8ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28625," "
 71e6207e-9bad-11eb-a8a2-19ed5c03f8d3,species,fractus,Trihyphites,,"(Z.C. Song & Liu Cao) Kalgutkar & Janson.",,2000,,"AASP Contributions Series (Dallas) 39: 305 (2000)",,,,02f813f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,483569,"  Basionym (Trihyphaecites fractus Song & Cao, 1989) IF omission"
-4d36a722-8fcc-11eb-924d-9cd76263cbd0,species,triflora,Trikalis,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 47 1837",,,,,,167630-1,wfo-0000407145,3760338,,
-4d36c7e8-8fcc-11eb-924d-9cd76263cbd0,species,trigyna,Trikalis,,Moq.,Q55068622,1849,,"Prodr. 13(2): 158 1849",,,,,,167631-1,wfo-0000407146,3760332,,
-69094346-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Trikeraia,,"(Stapf) Bor","Q78630,Q4026914",1954,,"Kew Bull. 9: 555 1954 publ. 1955",,Q55783462,,,,424784-1,wfo-0000904492,4114666,,
-69098b3a-8fcd-11eb-924d-9cd76263cbd0,variety,ramosa,Trikeraia,hookeri,Bor,Q4026914,1954,,"Kew Bull. 9: 557 1954",,,,,,,wfo-0000904493,5940218,,
-6909b542-8fcd-11eb-924d-9cd76263cbd0,species,oreophila,Trikeraia,,Cope,Q6146016,1987,,"Kew Bull. 42: 350 1987",,Q55779757,,,,931879-1,wfo-0000904494,4118745,,
-6909e526-8fcd-11eb-924d-9cd76263cbd0,species,pappiformis,Trikeraia,,"(Keng) P.C.Kuo & S.L.Lu","Q2663799,Q18986536,Q21519543",1987,,"in Fl. Reipubl. Popul. Sin. 9(3): 317 1987",,,,67963cc6-8fcd-11eb-924d-9cd76263cbd0,,975693-1,wfo-0000904495,4118732,,
-690a0ede-8fcd-11eb-924d-9cd76263cbd0,species,tianshanica,Trikeraia,,"S.L.Lu & X.F.Lu","Q21519543,Q26712615",2001,,"Acta Phytotax. Sin. 39: 275 2001",,,,,,20000131-1,wfo-0000904496,4118729,,
+4d36a722-8fcc-11eb-924d-9cd76263cbd0,species,triflora,Trikalis,,Raf.,0,1837,,"Fl. Tellur. 3: 47 (1837)",,,,,,urn:lsid:ipni.org:names:167630-1,wfo-0000407145,3760338,,
+4d36c7e8-8fcc-11eb-924d-9cd76263cbd0,species,trigyna,Trikalis,,Moq.,0,1849,,"Prodr. 13(2): 158 (1849)",,,,,,urn:lsid:ipni.org:names:167631-1,wfo-0000407146,3760332,,
+69094346-8fcd-11eb-924d-9cd76263cbd0,species,hookeri,Trikeraia,,"(Stapf) Bor",0,1954,,"Kew Bull. 9: 555 (1954 publ. 1955)",,Q55783462,,,,urn:lsid:ipni.org:names:424784-1,wfo-0000904492,4114666,,
+69098b3a-8fcd-11eb-924d-9cd76263cbd0,variety,ramosa,Trikeraia,hookeri,Bor,0,1954,,"Kew Bull. 9: 557 1954",,,,,,urn:lsid:ipni.org:names:50971698-1,wfo-0000904493,5940218,,
+6909b542-8fcd-11eb-924d-9cd76263cbd0,species,oreophila,Trikeraia,,Cope,0,1987,,"Kew Bull. 42: 350 (1987)",,Q55779757,,,,urn:lsid:ipni.org:names:931879-1,wfo-0000904494,4118745,,
+6909e526-8fcd-11eb-924d-9cd76263cbd0,species,pappiformis,Trikeraia,,"(Keng) P.C.Kuo & S.L.Lu",0,1987,,"Fl. Reipubl. Popularis Sin. 9(3): 317 (1987)",,,,67963cc6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:975693-1,wfo-0000904495,4118732,,
+690a0ede-8fcd-11eb-924d-9cd76263cbd0,species,tianshanica,Trikeraia,,"S.L.Lu & X.F.Lu",0,2001,,"Acta Phytotax. Sin. 39: 275 (2001)",,,,,,urn:lsid:ipni.org:names:20000131-1,wfo-0000904496,4118729,,

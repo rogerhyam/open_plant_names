@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e963790e-8fd1-11eb-924d-9cd76263cbd0,genus,Pyragra,,,Bremek.,Q5171231,1958,,"Candollea 16: 174. 1958.",,,,,,,wfo-4000032274,2909303,,
-ffbac122-8fcb-11eb-924d-9cd76263cbd0,species,ankarensis,Pyragra,,Bremek.,Q5171231,1958,,"Candollea 16: 177 1958",,,,,,763889-1,wfo-0000289211,5339109,,
-ffbaeff8-8fcb-11eb-924d-9cd76263cbd0,species,obtusifolia,Pyragra,,Bremek.,Q5171231,1958,,"Candollea 16: 175 1958",,,,,,763890-1,wfo-0000289212,5339108,,
-6dd86ad2-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Pyragra,obtusifolia,Bremek.,Q5171231,1958,,"Candollea 16: 176 1958",,,,,,,wfo-0000910990,5938119,,
+e963790e-8fd1-11eb-924d-9cd76263cbd0,genus,Pyragra,,,Bremek.,0,1958,,"Candollea 16: 174 (1958)",,,,,,urn:lsid:ipni.org:names:35229-1,wfo-4000032274,2909303,,
+ffbac122-8fcb-11eb-924d-9cd76263cbd0,species,ankarensis,Pyragra,,Bremek.,0,1958,,"Candollea 16: 177 (1958)",,,,,,urn:lsid:ipni.org:names:763889-1,wfo-0000289211,5339109,,
+ffbaeff8-8fcb-11eb-924d-9cd76263cbd0,species,obtusifolia,Pyragra,,Bremek.,0,1958,,"Candollea 16: 175 (1958)",,,,,,urn:lsid:ipni.org:names:763890-1,wfo-0000289212,5339108,,
+6dd86ad2-8fcd-11eb-924d-9cd76263cbd0,variety,glabra,Pyragra,obtusifolia,Bremek.,0,1958,,"Candollea 16: 176 1958",,,,,,,wfo-0000910990,5938119,,
+d735ce86-1d4c-11ec-82c2-f14daa6f2d93,variety,obtusifolia,Pyragra,obtusifolia,,,,,,,,,,,,wfo-0001132434,,,

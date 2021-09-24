@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e03463de-8fd1-11eb-924d-9cd76263cbd0,genus,Berthelotia,,,,,,,,,,,,,,wfo-4000004511,7338091,,
-53e81dc4-8fba-11eb-924d-9cd76263cbd0,species,borealis,Berthelotia,,Wooton,Q1332980,1913,,"New Mexico Agric. Exp. Sta. Bull. 87: 150. 1913",,,,,,31807-2,wfo-0000125755,4241160,,
-4c2009cc-8fb9-11eb-924d-9cd76263cbd0,species,lanceolata,Berthelotia,,DC.,Q123057,1836,,"376 1836",,,,,,184678-1,wfo-0000117149,3132738,,
-1e46e434-8fba-11eb-924d-9cd76263cbd0,species,sericea,Berthelotia,,"(Nutt.) Rydb.","Q728337,Q1905130",1906,,"Bull. Torrey Bot. Club 33 154 1906",,Q55766860,,,,31808-2,wfo-0000124127,3132679,,
+e03463de-8fd1-11eb-924d-9cd76263cbd0,genus,Berthelotia,,,DC.,,,,"Prodr. 5: 375 (1836)",,,,,,urn:lsid:ipni.org:names:7905-1,wfo-4000004511,7338091,,
+53e81dc4-8fba-11eb-924d-9cd76263cbd0,species,borealis,Berthelotia,,Wooton,0,1913,,"New Mexico Agric. Exp. Sta. Bull. 87: 150 (1913)",,,,,,urn:lsid:ipni.org:names:31807-2,wfo-0000125755,4241160,,
+4c2009cc-8fb9-11eb-924d-9cd76263cbd0,species,lanceolata,Berthelotia,,DC.,0,1836,,"Prodr. 5: 376 (1836)",,,,,,urn:lsid:ipni.org:names:184678-1,wfo-0000117149,3132738,,
+b789aa6c-1d47-11ec-82c2-f14daa6f2d93,variety,lanceolata,Berthelotia,lanceolata,,,,,,,,,,,,wfo-0000054903,,,
+1e46e434-8fba-11eb-924d-9cd76263cbd0,species,sericea,Berthelotia,,Rydb.,0,1906,,"Bull. Torrey Bot. Club 33: 154 (1906)",,Q55766860,,,,urn:lsid:ipni.org:names:31808-2,wfo-0000124127,3132679,,

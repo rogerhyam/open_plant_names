@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2d31522-8fd1-11eb-924d-9cd76263cbd0,genus,Diotolotus,,,,,,,,,,,,,,wfo-4000011871,7302448,,
-e3cb1010-8fcc-11eb-924d-9cd76263cbd0,species,ecklonis,Diotolotus,,Tausch,Q2332119,1842,,"Flora 25: 284 1842",,,,,,492692-1,wfo-0000650017,3975233,,
-4223508e-8fb2-11eb-924d-9cd76263cbd0,species,drummondii,Diotosperma,,A.Gray,Q347356,1852,,"Hooker's J. Bot. Kew Gard. Misc. 4 276 1852",,,,,,201517-1,wfo-0000017821,3117346,,
-e3cb2e2e-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Diotostemon,,Salm-Dyck,Q62938,1854,,"Allg. Gartenzeitung 22: 265 1854",,,,,,273628-1,wfo-0000650018,4199838,,
-1f59b22a-8fb5-11eb-924d-9cd76263cbd0,species,repens,Diotostephus,,Cass.,Q958431,1827,,1827,,,,,,,wfo-0000074161,4235435,,
-80a8e20e-8fcd-11eb-924d-9cd76263cbd0,species,repens,Diototheca,,"(Bertol.) Raf.","Q599936,Q364857",1817,,"Fl. Ludov. 75 1817",,,,,,319232-1,wfo-0000943729,4103334,,
+e2d31522-8fd1-11eb-924d-9cd76263cbd0,genus,Diotolotus,,,Tausch,,,,"Flora 25: 284 (1842)",,,,,,urn:lsid:ipni.org:names:22267-1,wfo-4000011871,7302448,,
+e3cb1010-8fcc-11eb-924d-9cd76263cbd0,species,ecklonis,Diotolotus,,Tausch,0,1842,,"Flora 25: 284 (1842)",,,,,,urn:lsid:ipni.org:names:492692-1,wfo-0000650017,3975233,,
+4223508e-8fb2-11eb-924d-9cd76263cbd0,species,drummondii,Diotosperma,,A.Gray,0,1852,,"Hooker's J. Bot. Kew Gard. Misc. 4: 276 (1852)",,,,,,urn:lsid:ipni.org:names:201517-1,wfo-0000017821,3117346,,
+e3cb2e2e-8fcc-11eb-924d-9cd76263cbd0,species,hookeri,Diotostemon,,Salm-Dyck,0,1854,,"Allg. Gartenzeitung 22: 265 (1854)",,,,,,urn:lsid:ipni.org:names:273628-1,wfo-0000650018,4199838,,
+1f59b22a-8fb5-11eb-924d-9cd76263cbd0,species,repens,Diotostephus,,Cass.,0,1827,,"Dict. Sci. Nat., ed. 2. 48: 544 (1827)",,,,,,urn:lsid:ipni.org:names:201518-1,wfo-0000074161,4235435,,
+80a8e20e-8fcd-11eb-924d-9cd76263cbd0,species,repens,Diototheca,,"(Bertol.) Raf.",0,1817,,"Fl. Ludov. : 75 (1817)",,,,,,urn:lsid:ipni.org:names:319232-1,wfo-0000943729,4103334,,

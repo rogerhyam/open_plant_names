@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb63cc22-8fd1-11eb-924d-9cd76263cbd0,genus,Todaroa,,,Parl.,Q751200,1843,,"Hist. Nat. Îles Canaries 3(22): 155. 1843.",,,,,,40609-1,wfo-4000038509,3232366,,
-ae11a866-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Todaroa,,"(Sol.) Parl.","Q39789,Q751200",,,,,,,a0f5b3f2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001039310,6026739,,
-17143d44-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Todaroa,,"A.Rich. & Galeotti","Q340247,Q2517097",1845,,"Ann. Sci. Nat., Bot. II, 3: 28 1845",,,,,,660380-1,wfo-0000326323,5315254,,
-4f313588-8fcc-11eb-924d-9cd76263cbd0,species,montana,Todaroa,,"Webb ex Christ","Q1113837,Q115901",1888,,"Bot. Jahrb. Syst. 9: 107 1888",,,,,,,wfo-0000409730,7820998,,
+eb63cc22-8fd1-11eb-924d-9cd76263cbd0,genus,Todaroa,,,Parl.,0,1843,,"Hist. Nat. Iles Canaries 3(2; 2): 155 (1843)",,,,,,urn:lsid:ipni.org:names:40609-1,wfo-4000038509,3232366,,
+ae11a866-8fcd-11eb-924d-9cd76263cbd0,species,aurea,Todaroa,,"(Aiton) Parl.",0,,,"Hist. Nat. Iles Canaries 3(2; 2): 155 (1843)",,,,a0f5b3f2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:849416-1,wfo-0001039310,6026739,,
+62f8bc12-1d4d-11ec-82c2-f14daa6f2d93,subspecies,suaveolens,Todaroa,aurea,P.Pérez,,,,"Vieraea 19: 324 (1990)",,,,,,urn:lsid:ipni.org:names:965036-1,wfo-0001366126,,,
+17143d44-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Todaroa,,"A.Rich. & Galeotti",0,1845,,"Ann. Sci. Nat., Bot. sér. 3, 3: 28. 1845",,,,,,urn:lsid:ipni.org:names:660380-1,wfo-0000326323,5315254,,
+4f313588-8fcc-11eb-924d-9cd76263cbd0,species,montana,Todaroa,,"Webb ex Christ",0,1888,,"Bot. Jahrb. Syst. 9: 107 (1887)",,,,,,urn:lsid:ipni.org:names:20002014-1,wfo-0000409730,7820998,,

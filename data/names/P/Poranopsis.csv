@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8ec7b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Poranopsis,,,Roberty,Q3122109,1953,,"Candollea 14: 26. 1953.",,,,,,11979-1,wfo-4000030928,2928471,,
-dbfd427c-8fd1-11eb-924d-9cd76263cbd0,species,discifera,Poranopsis,,"(C.K.Schneid.) Staples","Q68249,Q5877976",1993,,"Novon 3(2): 200 1993",,Q55773716,,dbfd62a2-8fd1-11eb-924d-9cd76263cbd0,,972390-1,wfo-0001298909,3680281,,
-dc027c42-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Poranopsis,,"(Roxb.) Roberty","Q748967,Q3122109",1953,,"Candollea 14: 26 1953",,,,,,,wfo-0001298948,2928472,,
-dbfd80c0-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Poranopsis,,"(Hand.-Mazz.) Staples","Q134118,Q5877976",1993,,"Novon 3(2): 200 1993",,Q55773716,,,,972391-1,wfo-0001298911,3680272,,
-00da7dac-8fbf-11eb-924d-9cd76263cbd0,species,spectabilis,Poranopsis,,Roberty,Q3122109,1952,,"Candollea xiv. 26 (1952)",,,,,,270976-1,wfo-0000157379,3680267,,
+e8ec7b9c-8fd1-11eb-924d-9cd76263cbd0,genus,Poranopsis,,,Roberty,0,1953,,"Candollea 14: 27 (1952)",,,,,,urn:lsid:ipni.org:names:11979-1,wfo-4000030928,2928471,,
+dbfd427c-8fd1-11eb-924d-9cd76263cbd0,species,discifera,Poranopsis,,"(C.K.Schneid.) Staples",0,1993,,"Novon 3: 200 (1993)",,Q55773716,,dbfd62a2-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:972390-1,wfo-0001298909,3680281,,
+dc027c42-8fd1-11eb-924d-9cd76263cbd0,species,paniculata,Poranopsis,,"(Roxb.) Roberty",0,1953,,"Candollea 14: 26 (1952)",,,,,,urn:lsid:ipni.org:names:270975-1,wfo-0001298948,2928472,,
+dbfd80c0-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Poranopsis,,"(Hand.-Mazz.) Staples",0,1993,,"Novon 3: 200 (1993)",,Q55773716,,,,urn:lsid:ipni.org:names:972391-1,wfo-0001298911,3680272,,
+00da7dac-8fbf-11eb-924d-9cd76263cbd0,species,spectabilis,Poranopsis,,"(Kurz) Roberty",0,1952,,"Candollea 14: 26 (1952)",,,,,,urn:lsid:ipni.org:names:270976-1,wfo-0000157379,3680267,,

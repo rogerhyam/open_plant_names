@@ -1,14 +1,14 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9f47a1c8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ochrosporellus,,,"(Bondartseva & S. Herrera) Bondartseva & S. Herrera",Q18247495,1992,,"Mikol. Fitopatol. 26(1): 13 (1992)",,,,,,,,,25621," "
-18ecc988-9bac-11eb-a8a2-19ed5c03f8d3,species,portoricensis,Ochrosporellus,,"(Overh.) Bondartseva & S. Herrera",Q18247495,1992,,"Mikol. Fitopatol. 26(1): 13 (1992)",,,,e1cb4154-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359056," "
-e89ee982-8fcb-11eb-924d-9cd76263cbd0,species,balansae,Ochrothallus,,"(Baill.) Pierre ex Guillaumin","Q461931,Q2593213,Q2847911",1911,,"Ann. Mus. Colon. Marseille II, 9: 185 1911",,,,,,,wfo-0000253181,2885569,,
-e89f05f2-8fcb-11eb-924d-9cd76263cbd0,species,blanchonii,Ochrothallus,,Aubrév.,Q516807,1967,,"in Fl. Nouv.-Caléd. 1: 65 1967",,,,,,788150-1,wfo-0000253182,2885516,,
-e89f21c2-8fcb-11eb-924d-9cd76263cbd0,species,dubius,Ochrothallus,,"(Pierre ex Guillaumin) Guillaumin","Q2593213,Q2847911",1943,,"Bull. Soc. Bot. France 89: 223 1943",,Q55757422,,,,788151-1,wfo-0000253183,2886149,,
-e89f4102-8fcb-11eb-924d-9cd76263cbd0,species,francii,Ochrothallus,,"(Guillaumin & Dubard) Guillaumin","Q2847911,Q4172133",1943,,"Bull. Soc. Bot. France 89: 223 1943",,Q55757422,,4c961cc0-8fcd-11eb-924d-9cd76263cbd0,,788152-1,wfo-0000253184,4014428,,
-e89f5e94-8fcb-11eb-924d-9cd76263cbd0,species,gordoniifolius,Ochrothallus,,"(S.Moore) Aubrév.","Q2975984,Q516807",1967,,"in Fl. Nouv.-Caléd. 1: 58 1967",,,,,,788153-1,wfo-0000253185,2885522,,
-e89f7b90-8fcb-11eb-924d-9cd76263cbd0,species,litseiflorus,Ochrothallus,,Guillaumin,Q2847911,1953,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 4: 46 1953",,,,,,788154-1,wfo-0000253186,2885504,,
-e89f974c-8fcb-11eb-924d-9cd76263cbd0,species,multipetalus,Ochrothallus,,"(Vink) Aubrév.","Q6167532,Q516807",1962,,"Adansonia n.s., 2: 181 1962",,Q58837856,,,,788155-1,wfo-0000253187,2885535,,
-e8a0768a-8fcb-11eb-924d-9cd76263cbd0,species,sarlinii,Ochrothallus,,Aubrév.,Q516807,1967,,"in Fl. Nouv.-Caléd. 1: 61 1967",,,,,,788157-1,wfo-0000253189,2885506,,
-e8a0a7ea-8fcb-11eb-924d-9cd76263cbd0,species,schmidii,Ochrothallus,,Aubrév.,Q516807,1967,,"in Fl. Nouv.-Caléd. 1: 66 1967",,,,,,788158-1,wfo-0000253190,4014426,,
-e8a0f268-8fcb-11eb-924d-9cd76263cbd0,species,sessilifolius,Ochrothallus,,"(Pancher & Sebert) Pierre ex Baill.","Q3170415,Q287244,Q2593213,Q461931",1891,,"Hist. Pl. 11: 298 1891",,,,,,,wfo-0000253191,8522369,,
-e8a11ca2-8fcb-11eb-924d-9cd76263cbd0,species,wagapensis,Ochrothallus,,"(Guillaumin) Aubrév.","Q2847911,Q516807",1967,,"in Fl. Nouv.-Caléd. 1: 66 1967",,,,,,788160-1,wfo-0000253192,2885538,,
+9f47a1c8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ochrosporellus,,,"(Bondartseva & S. Herrera) Bondartseva & S. Herrera",0,1992,,"Mikol. Fitopatol. 26(1): 13 (1992)",,,,,,,,,25621," "
+18ecc988-9bac-11eb-a8a2-19ed5c03f8d3,species,portoricensis,Ochrosporellus,,"(Overh.) Bondartseva & S. Herrera",0,1992,,"Mikol. Fitopatol. 26(1): 13 (1992)",,,,e1cb4154-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359056," "
+e89ee982-8fcb-11eb-924d-9cd76263cbd0,species,balansae,Ochrothallus,,"(Baill.) Pierre ex Guillaumin",0,1911,,"Ann. Mus. Colon. Marseille II, 9: 185 1911",,,,,,,wfo-0000253181,2885569,,
+e89f05f2-8fcb-11eb-924d-9cd76263cbd0,species,blanchonii,Ochrothallus,,Aubrév.,0,1967,,"Fl. Nouv.-Calédonie & Dépend. 1: 65 (1967)",,,,,,urn:lsid:ipni.org:names:788150-1,wfo-0000253182,2885516,,
+e89f21c2-8fcb-11eb-924d-9cd76263cbd0,species,dubius,Ochrothallus,,"(Pierre ex Guillaumin) Guillaumin",0,1943,,"Bull. Soc. Bot. France 89: 223 (1943)",,Q55757422,,,,urn:lsid:ipni.org:names:788151-1,wfo-0000253183,2886149,,
+e89f4102-8fcb-11eb-924d-9cd76263cbd0,species,francii,Ochrothallus,,"(Guillaumin & Dubard) Guillaumin",0,1943,,"Bull. Soc. Bot. France 89: 223 (1943)",,Q55757422,,4c961cc0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:788152-1,wfo-0000253184,4014428,,
+e89f5e94-8fcb-11eb-924d-9cd76263cbd0,species,gordoniifolius,Ochrothallus,,"(S.Moore) Aubrév.",0,1967,,"Fl. Nouv.-Calédonie & Dépend. 1: 58 (1967)",,,,,,urn:lsid:ipni.org:names:788153-1,wfo-0000253185,2885522,,
+e89f7b90-8fcb-11eb-924d-9cd76263cbd0,species,litseiflorus,Ochrothallus,,Guillaumin,0,1953,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 4: 46 (1953)",,,,,,urn:lsid:ipni.org:names:788154-1,wfo-0000253186,2885504,,
+e89f974c-8fcb-11eb-924d-9cd76263cbd0,species,multipetalus,Ochrothallus,,"(Vink) Aubrév.",0,1962,,"Adansonia , n.s., 2: 181 (1962)",,Q58837856,,,,urn:lsid:ipni.org:names:788155-1,wfo-0000253187,2885535,,
+e8a0768a-8fcb-11eb-924d-9cd76263cbd0,species,sarlinii,Ochrothallus,,Aubrév.,0,1967,,"Fl. Nouv.-Calédonie & Dépend. 1: 61 (1967)",,,,,,urn:lsid:ipni.org:names:788157-1,wfo-0000253189,2885506,,
+e8a0a7ea-8fcb-11eb-924d-9cd76263cbd0,species,schmidii,Ochrothallus,,Aubrév.,0,1967,,"Fl. Nouv.-Calédonie & Dépend. 1: 66 (1967)",,,,,,urn:lsid:ipni.org:names:788158-1,wfo-0000253190,4014426,,
+e8a0f268-8fcb-11eb-924d-9cd76263cbd0,species,sessilifolius,Ochrothallus,,Pierre,0,1891,,"in L. Planch. Thes. Sapot. (1888 ?) 26.",,,,,,urn:lsid:ipni.org:names:788159-1,wfo-0000253191,8522369,,
+e8a11ca2-8fcb-11eb-924d-9cd76263cbd0,species,wagapensis,Ochrothallus,,"(Guillaumin) Aubrév.",0,1967,,"Fl. Nouv.-Calédonie & Dépend. 1: 66 (1967)",,,,,,urn:lsid:ipni.org:names:788160-1,wfo-0000253192,2885538,,

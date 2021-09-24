@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfbcb9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Ariosorbus,,,Koidz.,Q941892,1934,,"Fl. Yamagata-praefect. 39. 1934.",,,,,,,wfo-4000003043,2988248,,
-9365edce-8fcd-11eb-924d-9cd76263cbd0,species,tangoensis,Ariosorbus,,"(Koidz.) Koidz.",Q941892,1934,,"; 1934 147 1934",,Q101149653,,,,721619-1,wfo-0000984070,2988250,,
-9cb41ea0-8fcd-11eb-924d-9cd76263cbd0,species,uzenensis,Ariosorbus,,"(Koidz.) Koidz.",Q941892,1934,,"Plants of Yamagata-ken ; 1934 39, t.1 1934",,,,,,721620-1,wfo-0001003298,2988249,,
+dfbcb9d8-8fd1-11eb-924d-9cd76263cbd0,genus,Ariosorbus,,,Koidz.,0,1934,,"Acta Phytotax. Geobot. 3: 146 (1934)",,,,,,urn:lsid:ipni.org:names:33662-1,wfo-4000003043,2988248,,
+55346748-1d4d-11ec-82c2-f14daa6f2d93,species,hybrida,Ariosorbus,,"(L.) Mezhenskyj",,,,"Netraditsini plodoy kul'turi : 28 (2012)",,,,,,urn:lsid:ipni.org:names:77159119-1,wfo-0001347305,,,
+5534b7c0-1d4d-11ec-82c2-f14daa6f2d93,species,mougeotii,Ariosorbus,,"(Soy.-Will. & Godr.) Mezhenskyj",,,,"Netraditsini plodoy kul'turi : 28 (2012)",,,,,,urn:lsid:ipni.org:names:77159121-1,wfo-0001347307,,,
+9365edce-8fcd-11eb-924d-9cd76263cbd0,species,tangoensis,Ariosorbus,,"(Koidz.) Koidz.",0,1934,,"Acta Phytotax. Geobot. 3(3): 147. 1934 [30 Oct 1934]",,Q101149653,,,,urn:lsid:ipni.org:names:721619-1,wfo-0000984070,2988250,,
+9cb41ea0-8fcd-11eb-924d-9cd76263cbd0,species,uzenensis,Ariosorbus,,"(Koidz.) Koidz.",0,1934,,"Acta Phytotax. Geobot. 3: 39 (1934)",,,,,,urn:lsid:ipni.org:names:721620-1,wfo-0001003298,2988249,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a59f94b8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Steinera,,,Zahlbr.,Q2833235,1906,,"in Drygalski, Deutsche Südpolar-Expedit., 8. Bot. 8, 41 (1906)",,,,a59f94b8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5200," "
-3bfb010a-9bad-11eb-a8a2-19ed5c03f8d3,species,glaucella,Steinera,,"(Tuck.) C.W. Dodge",Q1293905,,,,,,,8ce7c80a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,370447," "
-a49cdb76-9bac-11eb-a8a2-19ed5c03f8d3,species,molybdoplaca,Steinera,,"(Nyl.) Zahlbr.","Q932083,Q2833235",1906,,"Deutsche Südpolar-Expedit., 8. Bot. (1906)",,,,3f07c928-9bad-11eb-a8a2-19ed5c03f8d3,,,,,405882," "
+a59f94b8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Steinera,,,Zahlbr.,0,1906,,"in Drygalski, Deutsche Südpolar-Expedit., 8. Bot. 8, 41 (1906)",,,,a59f94b8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5200," "
+3bfb010a-9bad-11eb-a8a2-19ed5c03f8d3,species,glaucella,Steinera,,"(Tuck.) C.W. Dodge",0,,,,,,,8ce7c80a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,370447," "
+a49cdb76-9bac-11eb-a8a2-19ed5c03f8d3,species,molybdoplaca,Steinera,,"(Nyl.) Zahlbr.",0,1906,,"Deutsche Südpolar-Expedit., 8. Bot. (1906)",,,,3f07c928-9bad-11eb-a8a2-19ed5c03f8d3,,,,,405882," "
 646809bc-9bad-11eb-a8a2-19ed5c03f8d3,species,neozelandica,Steinera,,"C.W. Dodge",,1971,,"Nova Hedwigia 19: 461 (1971)",,,,646809bc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,343668," "
 3bfb3a4e-9bad-11eb-a8a2-19ed5c03f8d3,species,nigra,Steinera,,"C.W. Dodge",,1948,,"B.A.N.Z. Antarct. Exped. Res. Rep. 7: 67 (1948)",,,,3bfb3a4e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,370448," "
 57fdfff2-9bac-11eb-a8a2-19ed5c03f8d3,species,polymorpha,Steinera,,"P. James & Henssen",,1982,,"in Henssen & James, Bull. Br. Mus. nat. Hist., Bot. 10(4): 246 (1982)",,,,57fdfff2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,109250," "
@@ -9,8 +9,8 @@ a49cdb76-9bac-11eb-a8a2-19ed5c03f8d3,species,molybdoplaca,Steinera,,"(Nyl.) Zahl
 2e454a8a-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,aucklandica,Steinera,radiata,"P. James & Henssen",,1982,,"in Hensen & James, Bull. Br. Mus. nat. Hist., Bot. 10(4): 253 (1982)",,,,2e454a8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,116413," "
 7e5fb37e-9bad-11eb-a8a2-19ed5c03f8d3,subspecies,radiata,Steinera,radiata,"P. James & Henssen",,1982,,"in Henssen & James, Bull. Br. Mus. nat. Hist., Bot. 10(4): 252 (1982)",,,,7e5fb37e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,416838," "
 32541164-9bad-11eb-a8a2-19ed5c03f8d3,species,sorediata,Steinera,,"P. James & Henssen",,1982,,"in Henssen & James, Bull. Br. Mus. nat. Hist., Bot. 10(4): 249 (1982)",,,,32541164-9bad-11eb-a8a2-19ed5c03f8d3,,,,,109252," "
-a49d024a-9bac-11eb-a8a2-19ed5c03f8d3,species,werthii,Steinera,,Zahlbr.,Q2833235,,,,,,,a49d024a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,405883," "
-3d7ed272-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Steineria,,Klotzsch,Q67003,1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 185 1855",,,,,,106307-1,wfo-0000822404,5680116,,
-3d7c0222-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Steineria,,Klotzsch,Q67003,1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 185 1855",,,,,,106308-1,wfo-0000822380,5680115,,
-8cc17066-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Steinhauera,,"(Lindl.) Kuntze ex Voss","Q378629,Q62853,Q68251",1907,,"Mitt. Deutsch. Dendrol. Ges. 16: 90 1907",,,,,,677178-1,wfo-0000505706,2684123,,
-8cc140aa-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Steinhauera,,"(D.Don) Voss","Q1174244,Q68251",1907,,"Mitt. Deutsch. Dendrol. Ges. 16: 90 1907",,,,4e5bc114-8fcc-11eb-924d-9cd76263cbd0,,677179-1,wfo-0000505705,4192066,,
+a49d024a-9bac-11eb-a8a2-19ed5c03f8d3,species,werthii,Steinera,,Zahlbr.,0,,,,,,,a49d024a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,405883," "
+3d7ed272-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Steineria,,Klotzsch,0,1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 185 (1855)",,,,,,urn:lsid:ipni.org:names:106307-1,wfo-0000822404,5680116,,
+3d7c0222-8fcd-11eb-924d-9cd76263cbd0,species,pulchella,Steineria,,Klotzsch,0,1855,,"Abh. Königl. Akad. Wiss. Berlin 1855: 185 (1855)",,,,,,urn:lsid:ipni.org:names:106308-1,wfo-0000822380,5680115,,
+8cc17066-8fcc-11eb-924d-9cd76263cbd0,species,gigantea,Steinhauera,,"(Lindl.) Kuntze ex Voss",0,1907,,"Mitt. Deutsch. Dendrol. Ges. 16: 90 (1907)",,,,,,urn:lsid:ipni.org:names:677178-1,wfo-0000505706,2684123,,
+8cc140aa-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Steinhauera,,"(D.Don) Voss",0,1907,,"Mitt. Deutsch. Dendrol. Ges. 16: 90 (1907)",,,,4e5bc114-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:677179-1,wfo-0000505705,4192066,,

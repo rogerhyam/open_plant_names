@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8815d62-8fd1-11eb-924d-9cd76263cbd0,genus,Picrella,,,Baill.,Q461931,1871,,"Adansonia 10: 150. 1871. (17 Nov 1871)",,,,,,38228-1,wfo-4000029621,7269587,,
-7b9db560-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Picrella,,T.G.Hartley,Q349605,2003,,"Adansonia III, 25: 253 2003",,,,,,60430540-2,wfo-0000476859,3837896,,
-c98b246a-8fd1-11eb-924d-9cd76263cbd0,species,ignambiensis,Picrella,,"(Guillaumin) T.G.Hartley & Mabb.","Q2847911,Q349605,Q5236979",2003,,"Adansonia, sér. 3, 25: 256 2003",,,,,,60430541-2,wfo-0001271775,3837884,,
-db8e4934-8fcd-11eb-924d-9cd76263cbd0,species,trifoliata,Picrella,,Baill.,Q461931,1871,,"Adansonia 10: 150, pl. 10 1871",,,,,,813966-1,wfo-0001140317,7269588,,
+e8815d62-8fd1-11eb-924d-9cd76263cbd0,genus,Picrella,,,Baill.,0,1871,,"Adansonia 10: 150 (1871)",,,,,,urn:lsid:ipni.org:names:38228-1,wfo-4000029621,7269587,,
+7b9db560-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Picrella,,T.G.Hartley,0,2003,,"Adansonia , sér. 3, 25: 253 (2003)",,,,,,urn:lsid:ipni.org:names:60430540-2,wfo-0000476859,3837896,,
+c98b246a-8fd1-11eb-924d-9cd76263cbd0,species,ignambiensis,Picrella,,"(Guillaumin) T.G.Hartley & Mabb.",0,2003,,"Adansonia , sér. 3, 25: 256 (2003)",,,,,,urn:lsid:ipni.org:names:60430541-2,wfo-0001271775,3837884,,
+db8e4934-8fcd-11eb-924d-9cd76263cbd0,species,trifoliata,Picrella,,Baill.,0,1871,,"Adansonia 10: 150 (1871)",,,,,,urn:lsid:ipni.org:names:813966-1,wfo-0001140317,7269588,,
+6d3b5c0c-1d4d-11ec-82c2-f14daa6f2d93,variety,gracilis,Picrella,trifoliata,"(Baill.) T.G.Hartley & Mabb.",,,,"Adansonia , sér. 3, 25: 258 (2003)",,,,,,urn:lsid:ipni.org:names:60430542-2,wfo-0001380476,,,
+6d3b87e0-1d4d-11ec-82c2-f14daa6f2d93,variety,gracillima,Picrella,trifoliata,T.G.Hartley,,,,"Adansonia , sér. 3, 25: 259 (2003)",,,,,,urn:lsid:ipni.org:names:60430543-2,wfo-0001380477,,,

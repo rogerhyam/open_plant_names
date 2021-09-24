@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e00b8838-8fd1-11eb-924d-9cd76263cbd0,genus,Balizia,,,"Barneby & J.W.Grimes","Q929691,Q5925894",,,,,,,,,989346-1,wfo-4000003966,9596304,,
-9eb0ed80-8fc5-11eb-924d-9cd76263cbd0,species,elegans,Balizia,,"(Ducke) Barneby & J.W.Grimes","Q2601698,Q929691,Q5925894",,,,,,,,,,wfo-0000193955,2977404,,
-721c087c-8fc5-11eb-924d-9cd76263cbd0,species,leucocalyx,Balizia,,"(Britton & Rose) Barneby & J.W.","Q553714,Q1336049,Q929691",,,,,,,520ddd48-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000193108,2977400,,
-b3e799c2-8fd1-11eb-924d-9cd76263cbd0,species,leucocalyx,Balizia,,"(Britton & Rose) Barneby & J.W.Grimes","Q553714,Q1336049,Q929691,Q5925894",1996,,"Mem. New York Bot. Gard. 74(1): 36 1996",,,,520ddd48-8fc1-11eb-924d-9cd76263cbd0,,989348-1,wfo-0001231702,2977400,,
-7228ade8-8fc5-11eb-924d-9cd76263cbd0,species,pedicellaris,Balizia,,"(DC.) Barneby & J.W.Grimes","Q123057,Q929691,Q5925894",,,,,,,,,,wfo-0000193109,2973151,,
+e00b8838-8fd1-11eb-924d-9cd76263cbd0,genus,Balizia,,,"Barneby & J.W.Grimes",0,,,"Mem. New York Bot. Gard. 74(1): 34 (1996)",,,,,,urn:lsid:ipni.org:names:989346-1,wfo-4000003966,9596304,,
+9eb0ed80-8fc5-11eb-924d-9cd76263cbd0,species,elegans,Balizia,,"(Ducke) Barneby & J.W.Grimes",0,,,"Mem. New York Bot. Gard. 74(1): 40 (1996)",,,,,,urn:lsid:ipni.org:names:989350-1,wfo-0000193955,2977404,,
+721c087c-8fc5-11eb-924d-9cd76263cbd0,species,leucocalyx,Balizia,,"(Britton & Rose) Barneby & J.W.",0,,,,,,,520ddd48-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000193108,2977400,,
+b3e799c2-8fd1-11eb-924d-9cd76263cbd0,species,leucocalyx,Balizia,,"(Britton & Rose) Barneby & J.W.Grimes",0,1996,,"Mem. New York Bot. Gard. 74(1): 36 (1996)",,,,520ddd48-8fc1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:989348-1,wfo-0001231702,2977400,,
+7228ade8-8fc5-11eb-924d-9cd76263cbd0,species,pedicellaris,Balizia,,"(DC.) Barneby & J.W.Grimes",0,,,"Mem. New York Bot. Gard. 74(1): 37 (1996)",,,,,,urn:lsid:ipni.org:names:989349-1,wfo-0000193109,2973151,,

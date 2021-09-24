@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e18ec7ec-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiloplecton,,,Fée,Q2627241,1857,,"Mém. Foug. 7: 33, 135, t. 20. 1857.",,,,,,,wfo-4000007762,7335256,,
-cee3c678-8fcd-11eb-924d-9cd76263cbd0,species,rigidum,Cheiloplecton,,"(Sw.) Fée","Q632088,Q2627241",1857,,"Mém. Foug. 7: 34, t. 20, f. 3 1857",,,,,,,wfo-0001112853,8221878,,
-c6de98f0-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Cheilopsis,,Nees,Q76349,1847,,"Prodr. 11: 272 1847",,,,,,46911-1,wfo-0000600105,5574319,,
-c6deb6d2-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cheilopsis,,Nees,Q76349,1847,,"Prodr. 11: 272 1847",,,,,,46912-1,wfo-0000600106,5574316,,
-c6ded0d6-8fcc-11eb-924d-9cd76263cbd0,species,polystachya,Cheilopsis,,Moq.,Q55068622,1832,,"Ann. Sci. Nat. (Paris) 27: 230 1832",,,,,,46913-1,wfo-0000600107,,,
-c6deed96-8fcc-11eb-924d-9cd76263cbd0,species,steudneri,Cheilopsis,,Solms,Q67692,1867,,"Beitr. Fl. Aethiop. 243 1867",,,,,,46914-1,wfo-0000600108,5574309,,
+e18ec7ec-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiloplecton,,,Fée,0,1857,,"Unknown  (1857)",,,,,,urn:lsid:ipni.org:names:17068270-1,wfo-4000007762,7335256,,
+cee3c678-8fcd-11eb-924d-9cd76263cbd0,species,rigidum,Cheiloplecton,,"(Sw.) Fée",0,1857,,"Mém. Foug. 7: 34, t. 20, f. 3 1857",,,,,,,wfo-0001112853,8221878,,
+c6de98f0-8fcc-11eb-924d-9cd76263cbd0,species,arborea,Cheilopsis,,Nees,0,1847,,"Prodr. 11: 272 (1847)",,,,,,urn:lsid:ipni.org:names:46911-1,wfo-0000600105,5574319,,
+c6deb6d2-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cheilopsis,,Nees,0,1847,,"Prodr. 11: 272 (1847)",,,,,,urn:lsid:ipni.org:names:46912-1,wfo-0000600106,5574316,,
+c6ded0d6-8fcc-11eb-924d-9cd76263cbd0,species,polystachya,Cheilopsis,,Moq.,0,1832,,"Ann. Sci. Nat. (Paris) 27: 230 (1832)",,,,,,urn:lsid:ipni.org:names:46913-1,wfo-0000600107,,,
+c6deed96-8fcc-11eb-924d-9cd76263cbd0,species,steudneri,Cheilopsis,,Solms,0,1867,,"Beitr. Fl. Aethiop. [Schweinfurth] 243.",,,,,,urn:lsid:ipni.org:names:46914-1,wfo-0000600108,5574309,,

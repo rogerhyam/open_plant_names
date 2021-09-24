@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ded9c4b6-8fd1-11eb-924d-9cd76263cbd0,genus,Acuba,,,Link,Q215466,1822,,"Enum. Hort. Berol. Alt. 2: 386. 1822.",,,,,,,wfo-4000000543,3663620,,
-bef358ec-8fd1-11eb-924d-9cd76263cbd0,species,angustifolia,Acuba,,C.Y.Wu,Q534717,1991,,"Fl. Yunnan. 5: 281 1991",,,,,,,wfo-0001252075,8291666,,
-94fea014-8fcc-11eb-924d-9cd76263cbd0,species,australis,Acularia,,"(L.) Raf.","Q1043,Q364857",1840,,"Good Book 53 1840",,,,,,837304-1,wfo-0000519648,3634908,,
-94febfa4-8fcc-11eb-924d-9cd76263cbd0,species,nodosa,Acularia,,"(L.) Raf.","Q1043,Q364857",1840,,"Good Book 53 1840",,,,,,837305-1,wfo-0000519649,3634900,,
-94fedd90-8fcc-11eb-924d-9cd76263cbd0,species,trichosperma,Acularia,,"(L.) Raf.","Q1043,Q364857",1840,,"Good Book 53 1840",,,,,,837306-1,wfo-0000519650,3634891,,
+ded9c4b6-8fd1-11eb-924d-9cd76263cbd0,genus,Acuba,,,Link,0,1822,,"Enum. Hort. Berol. Alt. 2: 386, sphalm. 1822 [Jan-Jun 1822]",,,,,,urn:lsid:ipni.org:names:12045-1,wfo-4000000543,3663620,,
+94fea014-8fcc-11eb-924d-9cd76263cbd0,species,australis,Acularia,,"(L.) Raf.",0,1840,,"Good Book : 53 (1840)",,,,,,urn:lsid:ipni.org:names:837304-1,wfo-0000519648,3634908,,
+94febfa4-8fcc-11eb-924d-9cd76263cbd0,species,nodosa,Acularia,,"(L.) Raf.",0,1840,,"Good Book : 53 (1840)",,,,,,urn:lsid:ipni.org:names:837305-1,wfo-0000519649,3634900,,
+94fedd90-8fcc-11eb-924d-9cd76263cbd0,species,trichosperma,Acularia,,"(L.) Raf.",0,1840,,"Good Book : 53 (1840)",,,,,,urn:lsid:ipni.org:names:837306-1,wfo-0000519650,3634891,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfaea87a-8fd1-11eb-924d-9cd76263cbd0,genus,Archboldia,,,"E.Beer & Lam",Q2884398,1936,,"Blumea 2: 31. 1936.",,,,,,,wfo-4000002882,7306710,,
-ed86283e-8fcb-11eb-924d-9cd76263cbd0,species,ericoides,Archboldia,,"E.Beer & H.J.Lam","Q2884398,Q2193621",1936,,"Blumea 2: 31 1936",,Q96029380,,,,861113-1,wfo-0000260719,5605611,,
-f42ff5d2-8fcd-11eb-924d-9cd76263cbd0,species,pilifera,Archboldiella,,E.B.Bartram,Q18205408,1942,,"Lloydia 5: 280. 44 1942",,,,,,,wfo-0001192142,7379588,,
+dfaea87a-8fd1-11eb-924d-9cd76263cbd0,genus,Archboldia,,,"E.Beer & H.J.Lam",0,1936,,"Blumea 2: 31 (1936)",,,,,,urn:lsid:ipni.org:names:41191-1,wfo-4000002882,7306710,,
+ed86283e-8fcb-11eb-924d-9cd76263cbd0,species,ericoides,Archboldia,,"E.Beer & H.J.Lam",0,1936,,"Blumea 2: 31 (1936)",,Q96029380,,,,urn:lsid:ipni.org:names:861113-1,wfo-0000260719,5605611,,
+f42ff5d2-8fcd-11eb-924d-9cd76263cbd0,species,pilifera,Archboldiella,,E.B.Bartram,0,1942,,"Lloydia 5: 280. 44 1942",,,,,,,wfo-0001192142,7379588,,

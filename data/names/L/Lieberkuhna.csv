@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5e9384a-8fd1-11eb-924d-9cd76263cbd0,genus,Lieberkuhna,,,,,,,,,,,,,,wfo-4000021690,7338212,,
-41a2dcfe-8fb4-11eb-924d-9cd76263cbd0,species,bracteata,Lieberkuhna,,Cass.,Q958431,1823,,"in Dict. Sc. Nat. xxvi. 286 (1823).",,,,,,,wfo-0000062296,3090198,,
-d6474d86-8fb9-11eb-924d-9cd76263cbd0,species,nudipes,Lieberkuhna,,Cass.,Q958431,1823,,"in Dict. Sc. Nat. xxvi. 287 (1823).",,,,,,230681-1,wfo-0000121796,4242631,,
-03143f8e-8fb2-11eb-924d-9cd76263cbd0,species,piloselloides,Lieberkuhna,,Steud.,Q62821,1841,,"Nomencl. Bot., ed. 2 (Steudel) 2: 726 1841",,,,,,230682-1,wfo-0000004508,4242628,,
-f9193f56-8fb2-11eb-924d-9cd76263cbd0,species,spathulata,Lieberkuhna,,DC.,Q123057,1838,,"Prodr. (DC.) 7(1): 43 1838",,,,,,230683-1,wfo-0000038723,3090283,,
+e5e9384a-8fd1-11eb-924d-9cd76263cbd0,genus,Lieberkuhna,,,Cass.,,,,"Dict. Sci. Nat., ed. 2. 26: 286 (-287) (1823)",,,,,,urn:lsid:ipni.org:names:30205016-2,wfo-4000021690,7338212,,
+41a2dcfe-8fb4-11eb-924d-9cd76263cbd0,species,bracteata,Lieberkuhna,,Cass.,0,1823,,"Dict. Sci. Nat., ed. 2. 26: 286 (1823)",,,,,,urn:lsid:ipni.org:names:230680-1,wfo-0000062296,3090198,,
+d6474d86-8fb9-11eb-924d-9cd76263cbd0,species,nudipes,Lieberkuhna,,Cass.,0,1823,,"Dict. Sci. Nat., ed. 2. 26: 287 (1823)",,,,,,urn:lsid:ipni.org:names:230681-1,wfo-0000121796,4242631,,
+03143f8e-8fb2-11eb-924d-9cd76263cbd0,species,piloselloides,Lieberkuhna,,"(Vahl) Steud.",0,1841,,"Nomencl. Bot. 2: 726 (1841)",,,,,,urn:lsid:ipni.org:names:230682-1,wfo-0000004508,4242628,,
+f9193f56-8fb2-11eb-924d-9cd76263cbd0,species,spathulata,Lieberkuhna,,DC.,0,1838,,"Prodr. 7(1): 43 (1838)",,,,,,urn:lsid:ipni.org:names:230683-1,wfo-0000038723,3090283,,

@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e53e4016-8fd1-11eb-924d-9cd76263cbd0,genus,Jobaphes,,,,,,,,,,,,,,wfo-4000019576,6063969,,
-3f2c3e2c-8fb2-11eb-924d-9cd76263cbd0,species,virgatus,Jobaphes,,Phil.,Q214994,1860,,"Fl. Atacam. 27. t. 28 (1860).",,,,,,226766-1,wfo-0000017306,6063970,,
-329e4534-8fb6-11eb-924d-9cd76263cbd0,variety,calvus,Jobaphes,virgatus,Phil.,Q214994,,,32,,,,,,131671-2,wfo-0000086781,4220508,,
+e53e4016-8fd1-11eb-924d-9cd76263cbd0,genus,Jobaphes,,,Phil.,,,,"Fl. Atacam. 27, t. 4 (1860)",,,,,,urn:lsid:ipni.org:names:9550-1,wfo-4000019576,6063969,,
+3f2c3e2c-8fb2-11eb-924d-9cd76263cbd0,species,virgatus,Jobaphes,,Phil.,0,1860,,"Fl. Atacam. 27, t. 28 (1860)",,,,,,urn:lsid:ipni.org:names:226766-1,wfo-0000017306,6063970,,
+329e4534-8fb6-11eb-924d-9cd76263cbd0,variety,calvus,Jobaphes,virgatus,Phil.,0,,,"Anales Mus. Nac. Santiago de Chile 1891: 32 (1891)",,,,,,urn:lsid:ipni.org:names:131671-2,wfo-0000086781,4220508,,
+b32a4ec2-1d47-11ec-82c2-f14daa6f2d93,variety,virgatus,Jobaphes,virgatus,,,,,,,,,,,,wfo-0000049567,,,

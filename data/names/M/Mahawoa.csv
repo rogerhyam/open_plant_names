@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6466696-8fd1-11eb-924d-9cd76263cbd0,genus,Mahawoa,,,Schltr.,Q62278,1916,,"Beih. Bot. Centralbl. 34(2): 2. 1916.",,,,,,3490-1,wfo-4000022876,7312406,,
-32ab4cb4-8fcc-11eb-924d-9cd76263cbd0,species,montana,Mahawoa,,Schltr.,Q62278,1916,,"Beih. Bot. Centralbl. 34(2): 2 1916",,,,,,99049-1,wfo-0000371757,3579060,,
-dd6c9abe-8fcb-11eb-924d-9cd76263cbd0,species,glauca,Mahea,,"(Bojer) Pierre","Q637799,Q2593213",1890,,"Not. Bot. 8 1890",,,,,,787571-1,wfo-0000233497,5333834,,
-dd6cb85a-8fcb-11eb-924d-9cd76263cbd0,species,natalensis,Mahea,,"Pierre ex L.Planch.","Q2593213,Q21523044",1888,,"Étude Sapot. 26 1888",,,,,,,wfo-0000233498,5333663,,
+e6466696-8fd1-11eb-924d-9cd76263cbd0,genus,Mahawoa,,,Schltr.,0,1916,,"Beih. Bot. Centralbl. 34(2): 2 (1916)",,,,,,urn:lsid:ipni.org:names:3490-1,wfo-4000022876,7312406,,
+32ab4cb4-8fcc-11eb-924d-9cd76263cbd0,species,montana,Mahawoa,,Schltr.,0,1916,,"Beih. Bot. Centralbl. 34(2): 2 (1916)",,,,,,urn:lsid:ipni.org:names:99049-1,wfo-0000371757,3579060,,
+dd6c9abe-8fcb-11eb-924d-9cd76263cbd0,species,glauca,Mahea,,Pierre,0,1890,,"Notes Bot. Sapot. : 8 (1890)",,,,,,urn:lsid:ipni.org:names:787571-1,wfo-0000233497,5333834,,
+dd6cb85a-8fcb-11eb-924d-9cd76263cbd0,species,natalensis,Mahea,,Pierre,0,1888,,"Etud. prod. Sapot. (1888) 26; et Not. bot. Sapot. (1890); Baill. in Bull. Soc.Linn. Paris, ii. (1891) 742.",,,,,,urn:lsid:ipni.org:names:787572-1,wfo-0000233498,5333663,,

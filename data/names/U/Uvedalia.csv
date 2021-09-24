@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebd325f4-8fd1-11eb-924d-9cd76263cbd0,genus,Uvedalia,,,R.Br.,Q155764,1810,,"Prodr. Fl. Nov. Holland. 440 (1810).",,Q7247677,,,,38094-1,wfo-4000039917,7331541,,
-555cad8e-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Uvedalia,,R.Br.,Q155764,1810,,"Prodr. Fl. Nov. Holl. 440 1810",,Q7247677,,,,810552-1,wfo-0000417601,3723996,,
-555cce5e-8fcc-11eb-924d-9cd76263cbd0,species,nana,Uvedalia,,"E.Mey. ex Benth.","Q62969,Q731808",1846,,"Prodr. 10: 412 1846",,,,,,810553-1,wfo-0000417602,3723987,,
+ebd325f4-8fd1-11eb-924d-9cd76263cbd0,genus,Uvedalia,,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 440 (1810)",,Q7247677,,,,urn:lsid:ipni.org:names:38094-1,wfo-4000039917,7331541,,
+4a955b58-1d4d-11ec-82c2-f14daa6f2d93,species,clementii,Uvedalia,,"(Domin) W.R.Barker & Beardsley",,,,"Phytoneuron 2012-39: 21 (2012)",,,,,,urn:lsid:ipni.org:names:77119996-1,wfo-0001333199,,,
+555cad8e-8fcc-11eb-924d-9cd76263cbd0,species,linearis,Uvedalia,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 440 (1810)",,Q7247677,,,,urn:lsid:ipni.org:names:810552-1,wfo-0000417601,3723996,,
+700f4ee8-1d4d-11ec-82c2-f14daa6f2d93,variety,lutea,Uvedalia,linearis,"(Benth.) W.R.Barker & Beardsley",,,,"Phytoneuron 2012-39: 21 (2012)",,,,,,urn:lsid:ipni.org:names:77119995-1,wfo-0001384205,,,
+555cce5e-8fcc-11eb-924d-9cd76263cbd0,species,nana,Uvedalia,,"E.Mey. ex Benth.",0,1846,,"Prodr. [A. P. de Candolle] 10: 412. 1846 [8 Apr 1846]",,,,,,urn:lsid:ipni.org:names:810553-1,wfo-0000417602,3723987,,

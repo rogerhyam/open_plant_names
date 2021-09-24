@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eab30ee6-8fd1-11eb-924d-9cd76263cbd0,genus,Starbia,,,Thouars,Q537070,1806,,"Gen. Nov. Madagasc. 7. 1806.",,,,,,,wfo-4000036303,7332335,,
-86472a46-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Starbia,,Steud.,Q62821,1841,,"Nomencl. Bot. ed. 2, 2: 632 1841",,,,,,,wfo-0000495390,3731644,,
-b758cc5a-8fb5-11eb-924d-9cd76263cbd0,species,pinnata,Starkea,,Nutt.,Q728337,1818,,"169 1818",,,,,,243554-2,wfo-0000081322,3150488,,
-21cb99e0-8fb2-11eb-924d-9cd76263cbd0,species,umbellata,Starkea,,"(L.) Willd.","Q1043,Q76353",,,"Sp. Pl. iii. 2216. 1804",,,,,,,wfo-0000012778,3103452,,
+eab30ee6-8fd1-11eb-924d-9cd76263cbd0,genus,Starbia,,,Thouars,0,1806,,"Gen. Nov. Madagasc. 7. 1806 [17 Nov 1806]",,,,,,urn:lsid:ipni.org:names:38026-1,wfo-4000036303,7332335,,
+86472a46-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Starbia,,Steud.,0,1841,,"Nomencl. Bot.  [Steudel], ed. 2. ii. 632.",,,,,,urn:lsid:ipni.org:names:809793-1,wfo-0000495390,3731644,,
+b758cc5a-8fb5-11eb-924d-9cd76263cbd0,species,pinnata,Starkea,,Nutt.,0,1818,,"Gen. N. Amer. Pl. 2: 169 (1818)",,,,,,urn:lsid:ipni.org:names:243554-2,wfo-0000081322,3150488,,
+21cb99e0-8fb2-11eb-924d-9cd76263cbd0,species,umbellata,Starkea,,Willd.,0,,,"Sp. Pl., ed. 4 , 3: 2216 (1803)",,,,,,urn:lsid:ipni.org:names:250970-1,wfo-0000012778,3103452,,

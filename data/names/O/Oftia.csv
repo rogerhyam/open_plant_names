@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e77ffb1c-8fd1-11eb-924d-9cd76263cbd0,genus,Oftia,,,Adans.,Q315861,1763,,"Fam. Pl. 2: 199, 584. 1763.",,,,,,27194-1,wfo-4000026668,7332680,,
-c2358308-8fcd-11eb-924d-9cd76263cbd0,species,africana,Oftia,,"(L.) Bocq.","Q1043,Q3130701",1861,,"Adansonia 2: 11 1861",,,,,,,wfo-0001085084,7951953,,
-c235d1d2-8fcd-11eb-924d-9cd76263cbd0,species,glabra,Oftia,,Compton,Q4230109,,,,,,,,,,wfo-0001085087,3735498,,
-c2359d02-8fcd-11eb-924d-9cd76263cbd0,species,jasminum,Oftia,,Wettst.,Q78599,,,,,,,,,,wfo-0001085085,3735494,,
-c23627f4-8fcd-11eb-924d-9cd76263cbd0,species,rakotosoni,Oftia,,Capuron,Q2348654,1972,,"Adansonia, n.s. 12(1): 42, t. 1 1972",,Q58838190,,,,585334-1,wfo-0001085090,,,
-c235eee2-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Oftia,,Bocquet,Q5879566,1861,,"Acta Hydrobiol. 2: 12 1861-1862",,,,,,,wfo-0001085088,7550200,,
+e77ffb1c-8fd1-11eb-924d-9cd76263cbd0,genus,Oftia,,,Adans.,0,1763,,"Fam. Pl. 2: 199 (1763)",,,,,,urn:lsid:ipni.org:names:27194-1,wfo-4000026668,7332680,,
+c2358308-8fcd-11eb-924d-9cd76263cbd0,species,africana,Oftia,,"(L.) Bocq. ex Baill.",0,1861,,"Adansonia 2: 11 (1861)",,,,,,urn:lsid:ipni.org:names:585331-1,wfo-0001085084,7951953,,
+c235d1d2-8fcd-11eb-924d-9cd76263cbd0,species,glabra,Oftia,,Compton,0,,,"Trans. Roy. Soc. South Africa 19: 309 (1931)",,,,,,urn:lsid:ipni.org:names:585332-1,wfo-0001085087,3735498,,
+c2359d02-8fcd-11eb-924d-9cd76263cbd0,species,jasminum,Oftia,,Wettst.,0,,,"Nat. Pflanzenfam. 4(3b): 360 (1895)",,,,,,urn:lsid:ipni.org:names:585333-1,wfo-0001085085,3735494,,
+c23627f4-8fcd-11eb-924d-9cd76263cbd0,species,rakotosonii,Oftia,,Capuron,0,1972,,"Adansonia , n.s., 12: 42 (1972)",,Q58838190,,,,urn:lsid:ipni.org:names:585334-1,wfo-0001085090,,,
+c235eee2-8fcd-11eb-924d-9cd76263cbd0,species,revoluta,Oftia,,"Bocq. ex Baill.",0,1861,,"Adansonia 2: 12 (1861)",,,,,,urn:lsid:ipni.org:names:585335-1,wfo-0001085088,7550200,,

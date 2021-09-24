@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5c6ca4e-8fd1-11eb-924d-9cd76263cbd0,genus,Leptocarydion,,,"Hochst. ex Stapf","Q64983,Q78630",1898,,"Fl. Cap. 7: 316. 1898. (Jul 1898)",,,,,,18376-1,wfo-4000021229,8371757,,
-56ffc0e4-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Leptocarydion,,"(Hochst. ex Steud.) Stapf","Q64983,Q62821,Q78630",1900,,"Fl. Cap. 7: 649 1900",,,,,,407052-1,wfo-0000877793,4139508,,
-56ffdbba-8fcd-11eb-924d-9cd76263cbd0,species,vulpiastrum,Leptocarydion,,"(De Not.) Stapf","Q3014085,Q78630",1900,,"Fl. Cap. 7: 648 1900",,,,5fff736a-8fcd-11eb-924d-9cd76263cbd0,,407053-1,wfo-0000877794,4139497,,
+e5c6ca4e-8fd1-11eb-924d-9cd76263cbd0,genus,Leptocarydion,,,"Hochst. ex Benth. & Hook.f.",0,1898,,"Fl. Cap. 7: 316 (1898)",,,,,,urn:lsid:ipni.org:names:18376-1,wfo-4000021229,8371757,,
+56ffc0e4-8fcd-11eb-924d-9cd76263cbd0,species,alopecuroides,Leptocarydion,,"(Hochst. ex Steud.) Stapf",0,1900,,"Fl. Cap. 7: 649 (1900)",,,,,,urn:lsid:ipni.org:names:407052-1,wfo-0000877793,4139508,,
+56ffdbba-8fcd-11eb-924d-9cd76263cbd0,species,vulpiastrum,Leptocarydion,,Stapf,0,1900,,"Fl. Cap. 7: 648 (1900)",,,,5fff736a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:407053-1,wfo-0000877794,4139497,,

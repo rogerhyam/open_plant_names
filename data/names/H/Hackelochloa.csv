@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e453ba64-8fd1-11eb-924d-9cd76263cbd0,genus,Hackelochloa,,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 776. 1891. (5 Nov 1891)",,,,,,18154-1,wfo-4000016658,8029467,,
-551f5ece-8fcd-11eb-924d-9cd76263cbd0,species,granularis,Hackelochloa,,"(L.) Kuntze","Q1043,Q62853",1891,,"Revis. Gen. Pl. 2: 776 1891",,,,,,116848-2,wfo-0000873728,2705462,,
-551f7b52-8fcd-11eb-924d-9cd76263cbd0,species,porifera,Hackelochloa,,"(Hack.) D.Rhind","Q2209907,Q19001579",1945,,"Grasses Burma 77 1945",,,,578845f4-8fcd-11eb-924d-9cd76263cbd0,,404495-1,wfo-0000873729,4153813,,
+e453ba64-8fd1-11eb-924d-9cd76263cbd0,genus,Hackelochloa,,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 776 (1891)",,,,,,urn:lsid:ipni.org:names:18154-1,wfo-4000016658,8029467,,
+551f5ece-8fcd-11eb-924d-9cd76263cbd0,species,granularis,Hackelochloa,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 776 (1891)",,,,,,urn:lsid:ipni.org:names:116848-2,wfo-0000873728,2705462,,
+551f7b52-8fcd-11eb-924d-9cd76263cbd0,species,porifera,Hackelochloa,,"(Hack.) D.Rhind",0,1945,,"Grasses Burma : 77 (1945)",,,,578845f4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:404495-1,wfo-0000873729,4153813,,

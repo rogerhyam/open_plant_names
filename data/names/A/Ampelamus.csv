@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df3a07b8-8fd1-11eb-924d-9cd76263cbd0,genus,Ampelamus,,,Raf.,Q364857,1819,,"Amer. Monthly Mag. & Crit. Rev. 4: 192. 1819.",,,,,,316972-2,wfo-4000001661,7641032,,
-9bc37474-8fcc-11eb-924d-9cd76263cbd0,species,albidus,Ampelamus,,"(Nutt.) Britton","Q728337,Q553714",1894,,"Bull. Torrey Bot. Club 21: 314 1894",,,,d9a1ebee-8fcd-11eb-924d-9cd76263cbd0,,11463-2,wfo-0000531425,3170390,,
-9bc38fb8-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Ampelamus,,"(Michx.) Krings","Q521848,Q19263410",2001,,"Sida 19: 927 2001",,Q91201778,,04459b8a-8fcd-11eb-924d-9cd76263cbd0,,20005176-1,wfo-0000531426,3582005,,
-9bc3cc1c-8fcc-11eb-924d-9cd76263cbd0,species,ligulatus,Ampelamus,,"(Benth.) A.Heller","Q731808,Q2373009",1895,,"Bot. Explor. S. Texas 79 1895",,,,,,11464-2,wfo-0000531428,3581990,,
-9bc3ecec-8fcc-11eb-924d-9cd76263cbd0,species,riparius,Ampelamus,,Raf.,Q364857,1840,,"Autik. Bot. 183 1840",,,,,,,wfo-0000531429,8019945,,
-9bc40ae2-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Ampelamus,,"(Turcz.) Dugand","Q2640364,Q4792754",1966,,"Caldasia 9: 404 1966",,Q95139801,,ca1dc01c-8fcd-11eb-924d-9cd76263cbd0,,11462-2,wfo-0000531430,3581980,,
+df3a07b8-8fd1-11eb-924d-9cd76263cbd0,genus,Ampelamus,,,Raf.,0,1819,,"Amer. Monthly Mag. & Crit. Rev. 1: 192 (1819)",,,,,,urn:lsid:ipni.org:names:316972-2,wfo-4000001661,7641032,,
+9bc37474-8fcc-11eb-924d-9cd76263cbd0,species,albidus,Ampelamus,,"(Nutt.) Britton",0,1894,,"Bull. Torrey Bot. Club 21: 314 (1894)",,,,d9a1ebee-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11463-2,wfo-0000531425,3170390,,
+9bc38fb8-8fcc-11eb-924d-9cd76263cbd0,species,laevis,Ampelamus,,"(Michx.) Krings",0,2001,,"Sida 19(4): 927 (2001).",,Q91201778,,04459b8a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20005176-1,wfo-0000531426,3582005,,
+9bc3cc1c-8fcc-11eb-924d-9cd76263cbd0,species,ligulatus,Ampelamus,,"(Benth.) A.Heller",0,1895,,"Bot. Explor. S. Texas : 79 (1895)",,,,,,urn:lsid:ipni.org:names:11464-2,wfo-0000531428,3581990,,
+9bc40ae2-8fcc-11eb-924d-9cd76263cbd0,species,volubilis,Ampelamus,,"(Turcz.) Dugand",0,1966,,"Caldasia 9: 404 (1966)",,Q95139801,,ca1dc01c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11462-2,wfo-0000531430,3581980,,
+9bc3ecec-8fcc-11eb-924d-9cd76263cbd0,species,riparius,Ampelanus,,Raf.,0,1840,,"Autik. Bot. 183. 1840",,,,,,urn:lsid:ipni.org:names:93942-1,wfo-0000531429,8019945,,

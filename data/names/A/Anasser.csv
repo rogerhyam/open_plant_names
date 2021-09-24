@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df5db0c8-8fd1-11eb-924d-9cd76263cbd0,genus,Anasser,,,Juss.,Q223963,1789,,"Gen. Pl. 150. 1789. (4 Aug 1789)",,,,,,,wfo-4000001872,7289340,,
-9cf97af0-8fcc-11eb-924d-9cd76263cbd0,species,borboniae,Anasser,,J.F.Gmel.,Q57230,1791,,"Syst. Nat. 1: 303 1791",,,,,,545593-1,wfo-0000533421,5645451,,
-9cf99a44-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Anasser,,Lam.,Q82122,1794,,"Tabl. Encycl. 2: 40 1794",,,,,,545594-1,wfo-0000533422,5645445,,
-8c8b1538-8fcd-11eb-924d-9cd76263cbd0,species,laniti,Anasser,,Blanco,Q721827,1837,,"Fl. Filip. 112 1837",,,,,,545595-1,wfo-0000969821,,,
-9cf9b68c-8fcc-11eb-924d-9cd76263cbd0,species,moluccana,Anasser,,Lam.,Q82122,1794,,"Tabl. Encycl. 2: 40 1794",,,,,,545596-1,wfo-0000533423,5645435,,
-9cf9edb4-8fcc-11eb-924d-9cd76263cbd0,species,rumphii,Anasser,,Span.,Q5932839,1841,,"Linnaea 15: 325 1841",,,,,,545597-1,wfo-0000533425,5645429,,
+df5db0c8-8fd1-11eb-924d-9cd76263cbd0,genus,Anasser,,,Juss.,0,1789,,"Gen. Pl. : 150 (1789)",,,,,,urn:lsid:ipni.org:names:25023-1,wfo-4000001872,7289340,,
+9cf97af0-8fcc-11eb-924d-9cd76263cbd0,species,borboniae,Anasser,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 303 (1791)",,,,,,urn:lsid:ipni.org:names:545593-1,wfo-0000533421,5645451,,
+9cf99a44-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Anasser,,Lam.,0,1794,,"Tabl. Encycl. 2: 40 (1794)",,,,,,urn:lsid:ipni.org:names:545594-1,wfo-0000533422,5645445,,
+8c8b1538-8fcd-11eb-924d-9cd76263cbd0,species,laniti,Anasser,,Blanco,0,1837,,"Fl. Filip. [F.M. Blanco] 112. 1837",,,,,,urn:lsid:ipni.org:names:545595-1,wfo-0000969821,,,
+9cf9b68c-8fcc-11eb-924d-9cd76263cbd0,species,moluccana,Anasser,,Lam.,0,1794,,"Tabl. Encycl. 2: 40 (1794)",,,,,,urn:lsid:ipni.org:names:545596-1,wfo-0000533423,5645435,,
+9cf9edb4-8fcc-11eb-924d-9cd76263cbd0,species,rumphii,Anasser,,Span.,0,1841,,"Linnaea 15: 325 (1841)",,,,,,urn:lsid:ipni.org:names:545597-1,wfo-0000533425,5645429,,

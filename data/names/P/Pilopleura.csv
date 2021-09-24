@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e88852c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pilopleura,,,Schischk.,Q893705,1951,,"Fl. URSS 17: 358. 1951.",,,,,,40393-1,wfo-4000029697,6027104,,
-baf7be94-8fcd-11eb-924d-9cd76263cbd0,species,goloskokovii,Pilopleura,,Pimenov,Q6012784,,,,,,,,,,wfo-0001068695,3638953,,
-baf7f800-8fcd-11eb-924d-9cd76263cbd0,species,kozo-poljanskii,Pilopleura,,Schischk.,Q893705,,,,,,,,,,wfo-0001068697,3638946,,
-bab7951c-8fcd-11eb-924d-9cd76263cbd0,species,tordyloides,Pilopleura,,Pimenov,Q6012784,,,,,,,,,,wfo-0001068112,3638941,,
+e88852c0-8fd1-11eb-924d-9cd76263cbd0,genus,Pilopleura,,,Schischk.,0,1951,,"Fl. URSS 17: 358 (1951)",,,,,,urn:lsid:ipni.org:names:40393-1,wfo-4000029697,6027104,,
+baf7be94-8fcd-11eb-924d-9cd76263cbd0,species,goloskokovii,Pilopleura,,"(Korov.) Pimenov",0,,,"Byull. Glavn. Bot. Sada 101: 50 (1976)",,,,,,urn:lsid:ipni.org:names:846626-1,wfo-0001068695,3638953,,
+baf7f800-8fcd-11eb-924d-9cd76263cbd0,species,kozo-poljanskii,Pilopleura,,Schischk.,0,,,"Fl. URSS 17: 359 (1951)",,,,,,urn:lsid:ipni.org:names:846627-1,wfo-0001068697,3638946,,
+bab7951c-8fcd-11eb-924d-9cd76263cbd0,species,tordyloides,Pilopleura,,"(Korov.) Pimenov",0,,,"Byull. Glavn. Bot. Sada 101: 48 (1976)",,,,,,urn:lsid:ipni.org:names:846628-1,wfo-0001068112,3638941,,

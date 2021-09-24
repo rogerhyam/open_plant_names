@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6b270e8-8fd1-11eb-924d-9cd76263cbd0,genus,Microlobius,,,C.Presl,Q379601,,,,,,,,,22938-1,wfo-4000024143,2964867,,
-4b0c9b62-8fc4-11eb-924d-9cd76263cbd0,species,foetidus,Microlobius,,"(Jacq.) M.Sousa & G.Andrade","Q84497,Q13432609,Q16297400",,,,,,,cb35bb72-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000187400,2964868,,
-4afa7806-8fc4-11eb-924d-9cd76263cbd0,subspecies,paraguensis,Microlobius,foetidus,"(Benth.) M.Sousa & G.Andrade","Q731808,Q13432609,Q16297400",,,,,,,,,,wfo-0000187399,2964871,,
-55c6b6c8-8fc4-11eb-924d-9cd76263cbd0,species,mimosoides,Microlobius,,C.Presl,Q379601,,,,,,,,,,wfo-0000187591,2964880,,
-36c529f0-8fcc-11eb-924d-9cd76263cbd0,species,paraguensis,Microlobius,,"(Benth.) M.Sousa & G.Andrade","Q731808,Q13432609,Q16297400",1992,,"Anales Inst. Biol. Univ. Nac. Autón. México, Bot. 63: 106 1992",,,,,,1160830-2,wfo-0000378333,3909926,,
+e6b270e8-8fd1-11eb-924d-9cd76263cbd0,genus,Microlobius,,,C.Presl,0,,,"Abh. Königl. Böhm. Ges. Wiss. , ser. 5, 3: 496 (1845)",,,,,,urn:lsid:ipni.org:names:22938-1,wfo-4000024143,2964867,,
+4b0c9b62-8fc4-11eb-924d-9cd76263cbd0,species,foetidus,Microlobius,,"(Jacq.) M.Sousa & G.Andrade",0,,,"Anales Inst. Biol. Univ. Nac. Autón. México, Bot. 63: 104 (1992)",,,,cb35bb72-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1031488-2,wfo-0000187400,2964868,,
+24c18a32-1d48-11ec-82c2-f14daa6f2d93,subspecies,foetidus,Microlobius,foetidus,"(Jacq.) M.Sousa & G.Andrade",,,,,,,,,,,wfo-0000187398,,,
+4afa7806-8fc4-11eb-924d-9cd76263cbd0,subspecies,paraguensis,Microlobius,foetidus,"(Benth.) M.Sousa & G.Andrade",0,,,"Anales Inst. Biol. Univ. Nac. Autón. México, Bot. 63: 106 (1992)",,,,,,urn:lsid:ipni.org:names:970341-1,wfo-0000187399,2964871,,
+55c6b6c8-8fc4-11eb-924d-9cd76263cbd0,species,mimosoides,Microlobius,,C.Presl,0,,,"Abh. Königl. Böhm. Ges. Wiss. , ser. 5, 3: 497 (1845)",,,,,,urn:lsid:ipni.org:names:507223-1,wfo-0000187591,2964880,,
+36c529f0-8fcc-11eb-924d-9cd76263cbd0,species,paraguensis,Microlobius,,"(Benth.) M.Sousa & G.Andrade",0,1992,,"Anales Inst. Biol. Univ. Nac. México 63(1): 106. 1992",,,,,,urn:lsid:ipni.org:names:1160830-2,wfo-0000378333,3909926,,

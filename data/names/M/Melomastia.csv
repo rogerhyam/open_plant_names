@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-98ba24d4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Melomastia,,,"Nitschke ex Sacc.",Q707840,1875,,"Atti Soc. Veneto-Trent. Sci. Nat., Padova 4: 90 (1875)",,,,98ba24d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3118," "
+98ba24d4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Melomastia,,,"Nitschke ex Sacc.",0,1875,,"Atti Soc. Veneto-Trent. Sci. Nat., Padova 4: 90 (1875)",,,,98ba24d4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3118," "
 19167846-9bac-11eb-a8a2-19ed5c03f8d3,species,aquilegiae,Melomastia,,Domashova,,,,,,,,19167846-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334075," "
 bb9efa3e-9bac-11eb-a8a2-19ed5c03f8d3,species,calami,Melomastia,,Syd.,,1928,,"Annls mycol. 26: 135 (1928)",,,,bb9efa3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,259335," "
 19198e14-9bac-11eb-a8a2-19ed5c03f8d3,species,calligoni,Melomastia,,Kravtzev,,,,,,,,19198e14-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334076," "
-ebd87cca-9bac-11eb-a8a2-19ed5c03f8d3,species,carinata,Melomastia,,Petr.,Q4360385,,,,,,,ebd87cca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288327," "
-94e9df26-9bac-11eb-a8a2-19ed5c03f8d3,species,chilensis,Melomastia,,Speg.,Q648013,1921,,"Boletín de la Academia Nacional de Ciencias de Córdoba 25: 65-66 [no. 126, reprint pages 67-68] (1921)",,,,94e9df26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,205465," "
-d7181f3e-9bac-11eb-a8a2-19ed5c03f8d3,species,clypeata,Melomastia,,Petr.,Q4360385,1923,,"Annls mycol. 21: 279 (1923)",,,,d7181f3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261167," "
-84eb35b0-9bad-11eb-a8a2-19ed5c03f8d3,variety,clypeata,Melomastia,clypeata,Petr.,Q4360385,,,,,,,84eb35b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,427766," "
-2d92954c-9bad-11eb-a8a2-19ed5c03f8d3,variety,multiseptata,Melomastia,clypeata,"Bat. & J.L. Bezerra",Q4079389,1960,,"Brotéria 29(3-4): 136 (1960)",,,,2d92954c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,349857," "
+ebd87cca-9bac-11eb-a8a2-19ed5c03f8d3,species,carinata,Melomastia,,Petr.,0,,,,,,,ebd87cca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,288327," "
+94e9df26-9bac-11eb-a8a2-19ed5c03f8d3,species,chilensis,Melomastia,,Speg.,0,1921,,"Boletín de la Academia Nacional de Ciencias de Córdoba 25: 65-66 [no. 126, reprint pages 67-68] (1921)",,,,94e9df26-9bac-11eb-a8a2-19ed5c03f8d3,,,,,205465," "
+d7181f3e-9bac-11eb-a8a2-19ed5c03f8d3,species,clypeata,Melomastia,,Petr.,0,1923,,"Annls mycol. 21: 279 (1923)",,,,d7181f3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,261167," "
+84eb35b0-9bad-11eb-a8a2-19ed5c03f8d3,variety,clypeata,Melomastia,clypeata,Petr.,0,,,,,,,84eb35b0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,427766," "
+2d92954c-9bad-11eb-a8a2-19ed5c03f8d3,variety,multiseptata,Melomastia,clypeata,"Bat. & J.L. Bezerra",0,1960,,"Brotéria 29(3-4): 136 (1960)",,,,2d92954c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,349857," "
 2b7b8efe-9bac-11eb-a8a2-19ed5c03f8d3,species,coffeae,Melomastia,,Saccas,,1981,invalid,"Étude de la Flore Cryptogamique des Caféirs en Afrique Centrale, (Bulletin IFCC <b>16</b>) 16: 276 (1981)",,,,2b7b8efe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,112437,"Nom. inval., Art. 37.1 "
 191a3a08-9bac-11eb-a8a2-19ed5c03f8d3,species,constricta,Melomastia,,Frolov,,,,,,,,191a3a08-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334077," "
 468dbdfc-9bac-11eb-a8a2-19ed5c03f8d3,species,corylina,Melomastia,,Feltgen,,,,,,,,468dbdfc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,205151," "
@@ -20,24 +20,23 @@ ea65968e-9bac-11eb-a8a2-19ed5c03f8d3,species,hyalostoma,Melomastia,,Luc,,1951,,"
 b77f47e6-9bad-11eb-a8a2-19ed5c03f8d3,species,jaapiana,Melomastia,,Kirschst.,,,,,,,,b77f47e6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,205508," "
 191caf22-9bac-11eb-a8a2-19ed5c03f8d3,species,kazachstanica,Melomastia,,Kravtzev,,,,,,,,191caf22-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334079," "
 1897d6e4-9bac-11eb-a8a2-19ed5c03f8d3,species,lignicola,Melomastia,,Kirschst.,,,,,,,,1897d6e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206938," "
-31ef1c7e-9bac-11eb-a8a2-19ed5c03f8d3,species,mastoidea,Melomastia,,"(Fr.) J. Schröt.",Q15405,1894,,"in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.2(3): 320 (1894)",,,,,,,,,122836," "
+31ef1c7e-9bac-11eb-a8a2-19ed5c03f8d3,species,mastoidea,Melomastia,,"(Fr.) J. Schröt.",0,1894,,"in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.2(3): 320 (1894)",,,,,,,,,122836," "
 191e1bc8-9bac-11eb-a8a2-19ed5c03f8d3,species,metasequoiae,Melomastia,,Gucevic,,,,,,,,191e1bc8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334080," "
-b523be50-9bad-11eb-a8a2-19ed5c03f8d3,species,morthieri,Melomastia,,"(Fuckel) Feltgen",Q66899,,,,,,,,,,,,214459," "
-099c02c8-9bac-11eb-a8a2-19ed5c03f8d3,variety,morthieri,Melomastia,morthieri,"(Fuckel) Feltgen",Q66899,,,,,,,099c02c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,423010," "
+b523be50-9bad-11eb-a8a2-19ed5c03f8d3,species,morthieri,Melomastia,,"(Fuckel) Feltgen",0,,,,,,,,,,,,214459," "
+099c02c8-9bac-11eb-a8a2-19ed5c03f8d3,variety,morthieri,Melomastia,morthieri,"(Fuckel) Feltgen",0,,,,,,,099c02c8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,423010," "
 b3a85e50-9bad-11eb-a8a2-19ed5c03f8d3,variety,thujae,Melomastia,morthieri,Feltgen,,,,,,,,b3a85e50-9bad-11eb-a8a2-19ed5c03f8d3,,,,,175064," "
 80165584-9bac-11eb-a8a2-19ed5c03f8d3,species,nigrificans,Melomastia,,Feltgen,,,,,,,,80165584-9bac-11eb-a8a2-19ed5c03f8d3,,,,,174675," "
 7c8e3b44-9bab-11eb-a8a2-19ed5c03f8d3,species,pallidispora,Melomastia,,Kirschst.,,,,,,,,7c8e3b44-9bab-11eb-a8a2-19ed5c03f8d3,,,,,153933," "
 1920c990-9bac-11eb-a8a2-19ed5c03f8d3,species,popuschoji,Melomastia,,Frolov,,,,,,,,1920c990-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334081," "
-6714b530-9bac-11eb-a8a2-19ed5c03f8d3,species,prorumpens,Melomastia,,"(Rehm) Kirschst.",Q4393082,1939,,"Annls mycol. 37: 127 (1939)",,,,462561d0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275294," "
+6714b530-9bac-11eb-a8a2-19ed5c03f8d3,species,prorumpens,Melomastia,,"(Rehm) Kirschst.",0,1939,,"Annls mycol. 37: 127 (1939)",,,,462561d0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,275294," "
 1920f4e2-9bac-11eb-a8a2-19ed5c03f8d3,species,saxauli,Melomastia,,Kravtzev,,,,,,,,1920f4e2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334082," "
 e7c81898-9bac-11eb-a8a2-19ed5c03f8d3,species,sedi,Melomastia,,Gucevic,,,,,,,,e7c81898-9bac-11eb-a8a2-19ed5c03f8d3,,,,,283139," "
-f9fd399e-9bac-11eb-a8a2-19ed5c03f8d3,species,shastensis,Melomastia,,Earle,Q2547765,,,,,,,f9fd399e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165356," "
+f9fd399e-9bac-11eb-a8a2-19ed5c03f8d3,species,shastensis,Melomastia,,Earle,0,,,,,,,f9fd399e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,165356," "
 192149b0-9bac-11eb-a8a2-19ed5c03f8d3,species,yezoensis,Melomastia,,"I. Hino & Katum.",,,,,,,,192149b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334083," "
-fa79259a-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Melomphis,,"(L.) Raf.","Q1043,Q364857",1837,,"Fl. Tellur. 2: 22 1837",,,,,,538251-1,wfo-0000689140,2773597,,
-75bd2cf6-8fcd-11eb-924d-9cd76263cbd0,species,melanogyna,Melomphis,,"(Cullen) Mart.-Azorín, M.B.Crespo & Juan","Q21509624,Q21520038,Q5992420,Q19815158",2011,,"Ann. Bot. (Oxford) 107: 33 2011",,Q34155283,,,,77109430-1,wfo-0000921917,7613047,,
-fa313834-8fcc-11eb-924d-9cd76263cbd0,species,patens,Melomphis,,Raf.,Q364857,1837,,"Fl. Tellur. 3: 59 1837",,,,,,538252-1,wfo-0000688651,2773586,,
-75bfe78e-8fcd-11eb-924d-9cd76263cbd0,species,persica,Melomphis,,"(Hausskn. ex Bornm.) Mart.-Azorín, M.B.Crespo & Juan","Q67102,Q68637,Q21520038,Q5992420,Q19815158",2011,,"Ann. Bot. (Oxford) 107: 33 2011",,Q34155283,,,,77109431-1,wfo-0000921935,8409919,,
-fa343aac-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Melomphis,,"(L.) Raf.","Q1043,Q364857",1837,,"Fl. Tellur. 2: 22 1837",,,,,,538253-1,wfo-0000688673,2767480,,
-fa3d0204-8fcc-11eb-924d-9cd76263cbd0,species,sicula,Melomphis,,Raf.,Q364857,1837,,"Fl. Tellur. 2: 22 1837",,,,,,538254-1,wfo-0000688735,2767433,,
-3649f082-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Meloneura,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 109 1838",,,,,,526388-1,wfo-0000377673,4088024,,
-c26da66c-8fd1-11eb-924d-9cd76263cbd0,species,striatula,Meloneura,,"(Sm.) Barnhart","Q458004,Q3394812",1916,,"Mem. New York Bot. Gard. 6: 50 1916",,,,553bd7d0-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0001258665,7377760,,
+fa79259a-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Melomphis,,"(L.) Raf.",0,1837,,"Fl. Tellur. 2: 22 (1837)",,,,,,urn:lsid:ipni.org:names:538251-1,wfo-0000689140,2773597,,
+75bd2cf6-8fcd-11eb-924d-9cd76263cbd0,species,melanogyna,Melomphis,,"(Cullen) Mart.-Azorín, M.B.Crespo & Juan",0,2011,,"Ann. Bot. (Oxford) 107: 33 (2011)",,Q34155283,,,,urn:lsid:ipni.org:names:77109430-1,wfo-0000921917,7613047,,
+fa313834-8fcc-11eb-924d-9cd76263cbd0,species,patens,Melomphis,,Raf.,0,1837,,"Fl. Tellur. 3: 59 (1837)",,,,,,urn:lsid:ipni.org:names:538252-1,wfo-0000688651,2773586,,
+75bfe78e-8fcd-11eb-924d-9cd76263cbd0,species,persica,Melomphis,,"(Hausskn. ex Bornm.) Mart.-Azorín, M.B.Crespo & Juan",0,2011,,"Ann. Bot. (Oxford) 107: 33 (2011)",,Q34155283,,,,urn:lsid:ipni.org:names:77109431-1,wfo-0000921935,8409919,,
+fa343aac-8fcc-11eb-924d-9cd76263cbd0,species,peruviana,Melomphis,,"(L.) Raf.",0,1837,,"Fl. Tellur. 2: 22 (1837)",,,,,,urn:lsid:ipni.org:names:538253-1,wfo-0000688673,2767480,,
+fa3d0204-8fcc-11eb-924d-9cd76263cbd0,species,sicula,Melomphis,,Raf.,0,1837,,"Fl. Tellur. 2: 22 (1837)",,,,,,urn:lsid:ipni.org:names:538254-1,wfo-0000688735,2767433,,
+3649f082-8fcc-11eb-924d-9cd76263cbd0,species,purpurea,Meloneura,,Raf.,0,1838,,"Fl. Tellur. 4: 109 (1838)",,,,,,urn:lsid:ipni.org:names:526388-1,wfo-0000377673,4088024,,

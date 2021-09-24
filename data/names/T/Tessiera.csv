@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb2f0f96-8fd1-11eb-924d-9cd76263cbd0,genus,Tessiera,,,DC.,Q123057,1830,,"Prodr. 4: 574. 1830.",,,,,,35448-1,wfo-4000037837,7948973,,
-714a6008-8fcd-11eb-924d-9cd76263cbd0,species,hexasepala,Tessiera,,"(Borhidi & Lozada-Pérez) R.M.Salas & E.L.Cabral","Q548434,Q19275624,Q21516391,Q21338528",2010,,"J. Bot. Res. Inst. Texas 4: 184 2010",,Q99431811,,,,77113909-1,wfo-0000915106,5937956,,
-1458e42e-8fcc-11eb-924d-9cd76263cbd0,species,lanigera,Tessiera,,DC.,Q123057,1830,,"Prodr. 4: 574 1830",,,,,,767660-1,wfo-0000321525,2893318,,
-335d0ad4-8fcd-11eb-924d-9cd76263cbd0,species,lithospermoides,Tessiera,,DC.,Q123057,1830,,"Prodr. 4: 574 1830",,,,,,767661-1,wfo-0000800912,2918487,,
-14590abc-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Tessiera,,Miq.,Q76742,1851,,"Stirp. Surinam. Select. 178 1851",,,,,,767662-1,wfo-0000321526,2918675,,
+eb2f0f96-8fd1-11eb-924d-9cd76263cbd0,genus,Tessiera,,,DC.,0,1830,,"Prodr. 4: 574 (1830)",,,,,,urn:lsid:ipni.org:names:35448-1,wfo-4000037837,7948973,,
+714a6008-8fcd-11eb-924d-9cd76263cbd0,species,hexasepala,Tessiera,,"(Borhidi & Lozada-Pérez) R.M.Salas & E.L.Cabral",0,2010,,"J. Bot. Res. Inst. Texas 4: 184 (2010)",,Q99431811,,,,urn:lsid:ipni.org:names:77113909-1,wfo-0000915106,5937956,,
+1458e42e-8fcc-11eb-924d-9cd76263cbd0,species,lanigera,Tessiera,,DC.,0,1830,,"Prodr. 4: 574 (1830)",,,,,,urn:lsid:ipni.org:names:767660-1,wfo-0000321525,2893318,,
+335d0ad4-8fcd-11eb-924d-9cd76263cbd0,species,lithospermoides,Tessiera,,DC.,0,1830,,"Prodr. 4: 574 (1830)",,,,,,urn:lsid:ipni.org:names:767661-1,wfo-0000800912,2918487,,
+14590abc-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Tessiera,,Miq.,0,1851,,"Stirp. Surinam. Select. : 178 (1851)",,,,,,urn:lsid:ipni.org:names:767662-1,wfo-0000321526,2918675,,

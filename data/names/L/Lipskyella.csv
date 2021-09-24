@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5fb08b8-8fd1-11eb-924d-9cd76263cbd0,genus,Lipskyella,,,,,,,,,,,,,,wfo-4000021928,3134834,,
-5230c5a2-8fbb-11eb-924d-9cd76263cbd0,species,annua,Lipskyella,,"(C.Winkl.) Juz.","Q1127852,Q3479734",1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 3: 324 (1937)",,,,89679f36-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000133343,3134835,,
-b64e54ca-8fcd-11eb-924d-9cd76263cbd0,species,formosa,Lipusa,,"(Kunth) Alef.","Q77074,Q62876",1866,,"Bot. Zeitung (Berlin) 24: 254 1866",,,,,,502852-1,wfo-0001057988,3977783,,
-b89f88fc-8fc8-11eb-924d-9cd76263cbd0,species,multiflora,Lipusa,,Alef.,Q62876,,,,,,,,,,wfo-0000209386,2947842,,
+e5fb08b8-8fd1-11eb-924d-9cd76263cbd0,genus,Lipskyella,,,Juz.,,,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 3: 323 (1937) (1937)",,,,,,urn:lsid:ipni.org:names:9852-1,wfo-4000021928,3134834,,
+5230c5a2-8fbb-11eb-924d-9cd76263cbd0,species,annua,Lipskyella,,"(C.Winkl.) Juz.",0,1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 3: 324 (1937) (1937)",,,,89679f36-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:231043-1,wfo-0000133343,3134835,,
+b64e54ca-8fcd-11eb-924d-9cd76263cbd0,species,formosa,Lipusa,,"(Kunth) Alef.",0,1866,,"Bot. Zeitung (Berlin) 24: 254 (1866)",,,,,,urn:lsid:ipni.org:names:502852-1,wfo-0001057988,3977783,,
+b89f88fc-8fc8-11eb-924d-9cd76263cbd0,species,multiflora,Lipusa,,Alef.,0,,,"Landw. Fl. : 26 (1866)",,,,,,urn:lsid:ipni.org:names:502853-1,wfo-0000209386,2947842,,

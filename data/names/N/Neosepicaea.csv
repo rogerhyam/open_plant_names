@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e739096e-8fd1-11eb-924d-9cd76263cbd0,genus,Neosepicaea,,,Diels,Q77123,1922,,"Bot. Jahrb. Syst. 57: 500. 1922.",,,,,,4154-1,wfo-4000025843,7298372,,
-295c420c-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Neosepicaea,,"(Diels) Steenis","Q77123,Q2941727",1968,,"Blumea 15: 476 1968",,Q96028496,,,,110138-1,wfo-0000779150,4091674,,
-295f59ec-8fcd-11eb-924d-9cd76263cbd0,species,jucunda,Neosepicaea,,"(F.Muell.) Steenis","Q708002,Q2941727",1957,,"Nova Guinea n.s., 8: 174 1957",,,,,,110139-1,wfo-0000779178,4091651,,
-295d0a3e-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Neosepicaea,,"(Blume) Steenis","Q76816,Q2941727",1960,,"Nova Guinea, Bot. 3: 15 1960",,,,29b7aebc-8fcd-11eb-924d-9cd76263cbd0,,110140-1,wfo-0000779157,4091637,,
-295d2776-8fcd-11eb-924d-9cd76263cbd0,species,superba,Neosepicaea,,Steenis,Q2941727,1957,,"Nova Guinea n.s., 8: 173 1957",,,,,,110141-1,wfo-0000779158,4091632,,
-295d43f0-8fcd-11eb-924d-9cd76263cbd0,species,viticoides,Neosepicaea,,Diels,Q77123,1922,,"Bot. Jahrb. Syst. 57: 500 1922",,,,,,110142-1,wfo-0000779159,4091609,,
+e739096e-8fd1-11eb-924d-9cd76263cbd0,genus,Neosepicaea,,,Diels,0,1922,,"Bot. Jahrb. Syst. 57: 500 (1922)",,,,,,urn:lsid:ipni.org:names:4154-1,wfo-4000025843,7298372,,
+295c420c-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Neosepicaea,,"(Diels) Steenis",0,1968,,"Blumea 15: 476 (1968)",,Q96028496,,,,urn:lsid:ipni.org:names:110138-1,wfo-0000779150,4091674,,
+295f59ec-8fcd-11eb-924d-9cd76263cbd0,species,jucunda,Neosepicaea,,"(F.Muell.) Steenis",0,1957,,"Nova Guinea , n.s., 8: 174 (1957)",,,,,,urn:lsid:ipni.org:names:110139-1,wfo-0000779178,4091651,,
+295d0a3e-8fcd-11eb-924d-9cd76263cbd0,species,leptophylla,Neosepicaea,,"(Blume) Steenis",0,1960,,"Nova Guinea, Bot. 3: 15 (1960)",,,,29b7aebc-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:110140-1,wfo-0000779157,4091637,,
+295d2776-8fcd-11eb-924d-9cd76263cbd0,species,superba,Neosepicaea,,Steenis,0,1957,,"Nova Guinea , n.s., 8: 173 (1957)",,,,,,urn:lsid:ipni.org:names:110141-1,wfo-0000779158,4091632,,
+295d43f0-8fcd-11eb-924d-9cd76263cbd0,species,viticoides,Neosepicaea,,Diels,0,1922,,"Bot. Jahrb. Syst. 57: 500 (1922)",,,,,,urn:lsid:ipni.org:names:110142-1,wfo-0000779159,4091609,,

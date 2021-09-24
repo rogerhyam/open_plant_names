@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f19138-8fd1-11eb-924d-9cd76263cbd0,genus,Mucronea,,,Benth.,Q731808,1836,,"Trans. Linn. Soc. London 17(3): 405, 419, pl. 20. 1836.",,Q55758810,,,,32532-1,wfo-4000024940,2889342,,
-c98e1f16-8fcd-11eb-924d-9cd76263cbd0,species,californica,Mucronea,,Benth.,Q731808,1836,,"Trans. Linn. Soc. London 17(3): 419, pl. 20 1836",,Q55758810,,,,694733-1,wfo-0001100990,2889347,,
-c98e39ec-8fcd-11eb-924d-9cd76263cbd0,variety,suksdorfii,Mucronea,californica,"(J.F.Macbr.) Goodman","Q3046674,Q21390111",1934,,"Ann. Missouri Bot. Gard. 21(1): 91 1934",,Q55764668,,c8e3a26c-8fcc-11eb-924d-9cd76263cbd0,,164640-2,wfo-0001100991,2889348,,
-c98e55e4-8fcd-11eb-924d-9cd76263cbd0,species,perfoliata,Mucronea,,"(A.Gray) A.Heller","Q347356,Q2373009",1905,,"Muhlenbergia 2(1A): 23 1905",,,,c8edd20a-8fcc-11eb-924d-9cd76263cbd0,,164641-2,wfo-0001100992,2889343,,
-c98e724a-8fcd-11eb-924d-9cd76263cbd0,variety,opaca,Mucronea,perfoliata,Hoover,Q6109446,1966,,"Leafl. W. Bot. 10(16): 343 1966",,,,,,164642-2,wfo-0001100993,2889346,,
+e6f19138-8fd1-11eb-924d-9cd76263cbd0,genus,Mucronea,,,Benth.,0,1836,,"Trans. Linn. Soc. London 17: 419 (1836)",,Q55758810,,,,urn:lsid:ipni.org:names:32532-1,wfo-4000024940,2889342,,
+c98e1f16-8fcd-11eb-924d-9cd76263cbd0,species,californica,Mucronea,,Benth.,0,1836,,"Trans. Linn. Soc. London 17: 419 (1836)",,Q55758810,,,,urn:lsid:ipni.org:names:694733-1,wfo-0001100990,2889347,,
+c98e39ec-8fcd-11eb-924d-9cd76263cbd0,variety,suksdorfii,Mucronea,californica,"(J.F.Macbr.) Goodman",0,1934,,"Ann. Missouri Bot. Gard. 21: 91 (1934)",,Q55764668,,c8e3a26c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:164640-2,wfo-0001100991,2889348,,
+c98e55e4-8fcd-11eb-924d-9cd76263cbd0,species,perfoliata,Mucronea,,"(A.Gray) A.Heller",0,1905,,"Muhlenbergia 2: 23 (1905)",,,,c8edd20a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:164641-2,wfo-0001100992,2889343,,
+c98e724a-8fcd-11eb-924d-9cd76263cbd0,variety,opaca,Mucronea,perfoliata,Hoover,0,1966,,"Leafl. W. Bot. 10: 343 (1966)",,,,,,urn:lsid:ipni.org:names:164642-2,wfo-0001100993,2889346,,

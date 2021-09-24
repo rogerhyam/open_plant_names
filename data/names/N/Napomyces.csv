@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a0dd8ea8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Napomyces,,,"Setch. ex Clem. & Shear","Q6167550,Q920184,Q2596205",1931,,"Gen. fung. (Minneapolis), Edn 2 333 (1931)",,,,a0dd8ea8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3424," "
-37ce2374-8fcc-11eb-924d-9cd76263cbd0,species,agriasinapis,Napus,,"K.F.Schimp. & Spenn.","Q65402,Q101024",1829,,"Fl. Friburg. 3: 944 1829",,,,,,287272-1,wfo-0000379801,5375475,,
-cd238de2-8fd1-11eb-924d-9cd76263cbd0,species,campestris,Napus,,"(L.) Schimp. & Spenn.","Q1043,Q63251,Q101024",1829,,"Fl. Friburg. 3: 941 1829",,,,,,287273-1,wfo-0001278319,5551866,,
-37cdf78c-8fcc-11eb-924d-9cd76263cbd0,species,leucosinapsis,Napus,,"K.F.Schimp. & Spenn.","Q65402,Q101024",1829,,"Fl. Friburg. 3: 943 1829",,,,,,287274-1,wfo-0000379800,5551864,,
-ad39c680-8fcd-11eb-924d-9cd76263cbd0,species,oleifera,Napus,,"K.F.Schimp. & Spenn.","Q65402,Q101024",1829,,"Fl. Friburg. 3: 940. 1829",,,,,,287275-1,wfo-0001037387,5373685,,
-ad39a826-8fcd-11eb-924d-9cd76263cbd0,species,oleracea,Napus,,"(L.) K.F.Schimp. & Spenn.","Q1043,Q65402,Q101024",1829,,"Fl. Friburg. 3: 939. 1829",,,,,,287276-1,wfo-0001037386,5373698,,
-cd2334f0-8fd1-11eb-924d-9cd76263cbd0,species,rapa,Napus,,"(L.) Schimp. & Spenn.","Q1043,Q63251,Q101024",1829,,"Fl. Friburg. 3: 941 1829",,,,b5435572-8fcc-11eb-924d-9cd76263cbd0,,287277-1,wfo-0001278318,5373689,,
-37cdd02c-8fcc-11eb-924d-9cd76263cbd0,species,villarsii,Napus,,"K.F.Schimp. & Spenn.","Q65402,Q101024",1829,,"Fl. Friburg. 3: 942 1829",,,,,,287278-1,wfo-0000379799,5373305,,
+a0dd8ea8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Napomyces,,,"Setch. ex Clem. & Shear",0,1931,,"Gen. fung. (Minneapolis), Edn 2 333 (1931)",,,,a0dd8ea8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3424," "
+37ce2374-8fcc-11eb-924d-9cd76263cbd0,species,agriasinapis,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 944 (1829)",,,,,,urn:lsid:ipni.org:names:287272-1,wfo-0000379801,5375475,,
+cd238de2-8fd1-11eb-924d-9cd76263cbd0,species,campestris,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 941 (1829)",,,,,,urn:lsid:ipni.org:names:287273-1,wfo-0001278319,5551866,,
+37cdf78c-8fcc-11eb-924d-9cd76263cbd0,species,leucosinapsis,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 943 (1829)",,,,,,urn:lsid:ipni.org:names:287274-1,wfo-0000379800,5551864,,
+ad39c680-8fcd-11eb-924d-9cd76263cbd0,species,oleifera,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 940 (1829)",,,,,,urn:lsid:ipni.org:names:287275-1,wfo-0001037387,5373685,,
+ad39a826-8fcd-11eb-924d-9cd76263cbd0,species,oleracea,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 939 (1829)",,,,,,urn:lsid:ipni.org:names:287276-1,wfo-0001037386,5373698,,
+cd2334f0-8fd1-11eb-924d-9cd76263cbd0,species,rapa,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 941 (1829)",,,,b5435572-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:287277-1,wfo-0001278318,5373689,,
+37cdd02c-8fcc-11eb-924d-9cd76263cbd0,species,villarsii,Napus,,"K.F.Schimp. & Spenn.",0,1829,,"Fl. Friburg. 3: 942 (1829)",,,,,,urn:lsid:ipni.org:names:287278-1,wfo-0000379799,5373305,,

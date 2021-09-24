@@ -1,20 +1,20 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a7428334-9bad-11eb-a8a2-19ed5c03f8d3,genus,Beenakia,,,"D.A. Reid",,1956,,"Kew Bull. 635 (1956)",,,,a7428334-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17155," "
 f06221b0-9bac-11eb-a8a2-19ed5c03f8d3,species,dacostae,Beenakia,,"D.A. Reid",,1956,,"Kew Bull. 635 (1956)",,,,f06221b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293639," "
-0a7036a0-9bad-11eb-a8a2-19ed5c03f8d3,species,fricta,Beenakia,,"Maas Geest.",Q7377389,1967,,"Bull. Jard. Bot. Nat. Belg. 37(1): 80 (1967)",,,,0a7036a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309482," "
-3ae6fb4e-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginosa,Beenakia,,"(Maas Geest.) Parmasto & Ryvarden","Q7377389,Q4567813",1990,,"Windahlia 18: 39 (1990)",,,,1417b732-9bad-11eb-a8a2-19ed5c03f8d3,,,,,133813," "
+0a7036a0-9bad-11eb-a8a2-19ed5c03f8d3,species,fricta,Beenakia,,"Maas Geest.",0,1967,,"Bull. Jard. Bot. Nat. Belg. 37(1): 80 (1967)",,,,0a7036a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309482," "
+3ae6fb4e-9bac-11eb-a8a2-19ed5c03f8d3,species,fuliginosa,Beenakia,,"(Maas Geest.) Parmasto & Ryvarden",0,1990,,"Windahlia 18: 39 (1990)",,,,1417b732-9bad-11eb-a8a2-19ed5c03f8d3,,,,,133813," "
 ef8731dc-9bab-11eb-a8a2-19ed5c03f8d3,species,hololeuca,Beenakia,,"(Pat.) Nakasone",,2003,,"Cryptog. Mycol. 24(2): 137 (2003)",,,,d21d02d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490598," "
-0a5497e2-9bad-11eb-a8a2-19ed5c03f8d3,species,informis,Beenakia,,"(Rick) Maas Geest.",Q7377389,1974,,"Persoonia 7(4): 555 (1974)",,,,1472607a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,309483," "
+0a5497e2-9bad-11eb-a8a2-19ed5c03f8d3,species,informis,Beenakia,,"(Rick) Maas Geest.",0,1974,,"Persoonia 7(4): 555 (1974)",,,,1472607a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,309483," "
 ed6c6340-9bab-11eb-a8a2-19ed5c03f8d3,species,mediterranea,Beenakia,,"(A. Ortega & Contu) Borgarino, P.-A. Moreau & F. Richard",,2006,,"Bull. Soc. mycol. Fr. 121(3 & 4): 190 (2006)",,,,36dcfb34-9bac-11eb-a8a2-19ed5c03f8d3,,,,,522442," "
-371fb202-9bad-11eb-a8a2-19ed5c03f8d3,species,subglobospora,Beenakia,,"Núñez & Ryvarden",Q4567813,1994,,"Sydowia 46(2): 326 (1994)",,,,371fb202-9bad-11eb-a8a2-19ed5c03f8d3,,,,,363150," "
-1f599260-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Beera,,"Schrad. ex Kunth","Q62591,Q77074",1837,,"Enum. Pl. 2: 270 1837",,,,,,328701-2,wfo-0000341061,2709374,,
-1f59b04c-8fcc-11eb-924d-9cd76263cbd0,species,laxa,Beera,,"Schrad. ex Kunth","Q62591,Q77074",1837,,"Enum. Pl. 2: 270 1837",,,,,,328702-2,wfo-0000341062,2709376,,
-1f59cd48-8fcc-11eb-924d-9cd76263cbd0,species,silvatica,Beera,,"Schrad. ex Nees","Q62591,Q76349",1842,,"Fl. Bras. 2(1): 67 1842",,,,,,328703-2,wfo-0000341063,2709285,,
-4bd9bfc6-8fcd-11eb-924d-9cd76263cbd0,species,baccifera,Beesha,,"(Roxb.) Kunth","Q748967,Q77074",1822,,"Syn. Pl. Aequin. 1: 253 1822",,,,4b95d6da-8fcd-11eb-924d-9cd76263cbd0,,392626-1,wfo-0000853656,5678010,,
-4bd9dd44-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Beesha,,"(Kunth) Munro","Q77074,Q2004878",1868,,"Trans. Linn. Soc. London 26: 145 1868",,Q55808832,,,,392627-1,wfo-0000853657,5678008,,
-4bd9f982-8fcd-11eb-924d-9cd76263cbd0,species,elegantissima,Beesha,,"(Hassk.) Kurz ex Munro","Q68616,Q2587569,Q2004878",1868,,"Trans. Linn. Soc. London 26: 146 1868",,Q55808832,,4b9f9c74-8fcd-11eb-924d-9cd76263cbd0,,392629-1,wfo-0000853658,5678006,,
-4bda164c-8fcd-11eb-924d-9cd76263cbd0,species,fax,Beesha,,"(Lour.) Schult.f.","Q729917,Q78745",,,"Syst. Veg. 7: 1336 1830",,,,4aa526ae-8fcd-11eb-924d-9cd76263cbd0,,392630-1,wfo-0000853659,5678005,,
-4bda328a-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Beesha,,"(Roep. ex Trin.) Kunth","Q4402838,Q65867,Q77074",1833,,"Enum. Pl. 1: 434 1833",,,,57dffef2-8fcd-11eb-924d-9cd76263cbd0,,392631-1,wfo-0000853660,5678003,,
-4bda4edc-8fcd-11eb-924d-9cd76263cbd0,species,rheedii,Beesha,,Kunth,Q77074,1829,,"Révis. Gramin. 1: 141 1829",,,,,,392632-1,wfo-0000853661,5946226,,
-4bda6afc-8fcd-11eb-924d-9cd76263cbd0,species,stridula,Beesha,,Munro,Q2004878,1868,,"Trans. Linn. Soc. London 26: 145 1868",,Q55808832,,,,392634-1,wfo-0000853662,5677998,,
-4bdc0d62-8fcd-11eb-924d-9cd76263cbd0,species,travancorica,Beesha,,Bedd.,Q2985757,1872,,"Fl. Sylv. S. India 234 1872",,,,,,392636-1,wfo-0000853663,5677996,,
+371fb202-9bad-11eb-a8a2-19ed5c03f8d3,species,subglobospora,Beenakia,,"Núñez & Ryvarden",0,1994,,"Sydowia 46(2): 326 (1994)",,,,371fb202-9bad-11eb-a8a2-19ed5c03f8d3,,,,,363150," "
+1f599260-8fcc-11eb-924d-9cd76263cbd0,species,caespitosa,Beera,,"Schrad. ex Kunth",0,1837,,"Enum. Pl. 2: 270 (1837)",,,,,,urn:lsid:ipni.org:names:328701-2,wfo-0000341061,2709374,,
+1f59b04c-8fcc-11eb-924d-9cd76263cbd0,species,laxa,Beera,,"Schrad. ex Kunth",0,1837,,"Enum. Pl. 2: 270 (1837)",,,,,,urn:lsid:ipni.org:names:328702-2,wfo-0000341062,2709376,,
+1f59cd48-8fcc-11eb-924d-9cd76263cbd0,species,silvatica,Beera,,"Schrad. ex Nees",0,1842,,"Fl. Bras. 2(1): 67 (1842)",,,,,,urn:lsid:ipni.org:names:328703-2,wfo-0000341063,2709285,,
+4bd9bfc6-8fcd-11eb-924d-9cd76263cbd0,species,baccifera,Beesha,,Kunth,0,1822,,"Syn. Pl. Aequin. 1: 253 (1822)",,,,4b95d6da-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:392626-1,wfo-0000853656,5678010,,
+4bd9dd44-8fcd-11eb-924d-9cd76263cbd0,species,capitata,Beesha,,Munro,0,1868,,"Trans. Linn. Soc. London 26: 145 (1868)",,Q55808832,,,,urn:lsid:ipni.org:names:392627-1,wfo-0000853657,5678008,,
+4bd9f982-8fcd-11eb-924d-9cd76263cbd0,species,elegantissima,Beesha,,"Kurz ex Munro",0,1868,,"Trans. Linn. Soc. London 26(1): 146. 1868 [5 Mar-11 Apr 1868]",,Q55808832,,4b9f9c74-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:392629-1,wfo-0000853658,5678006,,
+4bda164c-8fcd-11eb-924d-9cd76263cbd0,species,fax,Beesha,,Schult.f.,0,,,"Syst. Veg., ed. 15 bis 7: 1336 (1830)",,,,4aa526ae-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:392630-1,wfo-0000853659,5678005,,
+4bda328a-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Beesha,,Kunth,0,1833,,"Enum. Pl. 1: 434 (1833)",,,,57dffef2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:392631-1,wfo-0000853660,5678003,,
+4bda4edc-8fcd-11eb-924d-9cd76263cbd0,species,rheedei,Beesha,,Kunth,0,1829,,"Révis. Gramin. 1: 141 (1829)",,,,,,urn:lsid:ipni.org:names:392632-1,wfo-0000853661,5946226,,
+4bda6afc-8fcd-11eb-924d-9cd76263cbd0,species,stridula,Beesha,,Munro,0,1868,,"Trans. Linn. Soc. London 26(1): 145. 1868 [5 Mar-11 Apr 1868]",,Q55808832,,,,urn:lsid:ipni.org:names:392634-1,wfo-0000853662,5677998,,
+4bdc0d62-8fcd-11eb-924d-9cd76263cbd0,species,travancorica,Beesha,,Bedd.,0,1872,,"Fl. Sylv. S. India Forester's Man. Bot.: p. ccxxxiv. 1873",,,,,,urn:lsid:ipni.org:names:392636-1,wfo-0000853663,5677996,,

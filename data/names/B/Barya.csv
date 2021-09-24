@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a1cfbb9c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Barya,,,Fuckel,Q66899,1864,,"Fungi rhenani exsic. no. 991 (1864)",,,,a1cfbb9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,516," "
-24c5cbf6-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricicola,Barya,,"(Berk.) Höhn.","Q662338,Q4502879",1910,,"in Höhnel & Weese, Annls mycol. 8: 464 (1910)",,,,,,,,,102514," "
+a1cfbb9c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Barya,,,Fuckel,0,1864,,"Fungi rhenani exsic. no. 991 (1864)",,,,a1cfbb9c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,516," "
+24c5cbf6-9bac-11eb-a8a2-19ed5c03f8d3,species,agaricicola,Barya,,"(Berk.) Höhn.",0,1910,,"in Höhnel & Weese, Annls mycol. 8: 464 (1910)",,,,,,,,,102514," "
 68c99048-9bad-11eb-a8a2-19ed5c03f8d3,species,aurantiaca,Barya,,"Plowr. & A.S. Wilson",,,,,,,,68c99048-9bad-11eb-a8a2-19ed5c03f8d3,,,,,122024," "
 0a6acfee-9bad-11eb-a8a2-19ed5c03f8d3,species,byssicola,Barya,,"Thaxt. ex Rossman",,1977,,"Mycologia 69(2): 370 (1977)",,,,0a6acfee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,309454," "
-44d71fb2-9bac-11eb-a8a2-19ed5c03f8d3,species,lichenophila,Barya,,"Ferd. & Winge",Q1451734,1909,,"Bot. Tidsskr. 29: 312 (1909)",,,,44d71fb2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192456," "
-3ded5562-8fcd-11eb-924d-9cd76263cbd0,species,monadelpha,Barya,,Klotzsch,Q67003,1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 112 1854",,,,,,,wfo-0000823200,5680144,,
-8a7eac56-9bac-11eb-a8a2-19ed5c03f8d3,species,montana,Barya,,Racib.,Q3045640,,,,,,,8a7eac56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192340," "
-35c54b3e-9bac-11eb-a8a2-19ed5c03f8d3,species,parasitica,Barya,,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 93 (1870)",,,,35c54b3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,179728," "
-7d288b8a-9bac-11eb-a8a2-19ed5c03f8d3,variety,caespitosa,Barya,parasitica,Peck,Q1064899,1890,,"Ann. Rep. N.Y. St. Mus. 43: 79 (1890)",,,,7d288b8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,179717," "
-bb1d9336-9bac-11eb-a8a2-19ed5c03f8d3,variety,parasitica,Barya,parasitica,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 93 (1870)",,,,bb1d9336-9bac-11eb-a8a2-19ed5c03f8d3,,,,,423272," "
-173d8522-9bad-11eb-a8a2-19ed5c03f8d3,species,salaccensis,Barya,,Racib.,Q3045640,1906,,"Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 1: 909 (1906)",,,,173d8522-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325030,"  Petch (1921. Ann. Roy Bot Gard Peradeniya 7:167-270) gives this as a synonym of Hypocrella raciborskii Zimm."
-89efac3a-9bad-11eb-a8a2-19ed5c03f8d3,species,salacensis,Barya,,Racib.,Q3045640,,,,,,,89efac3a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,179773," Barya salaccensis"
+44d71fb2-9bac-11eb-a8a2-19ed5c03f8d3,species,lichenophila,Barya,,"Ferd. & Winge",0,1909,,"Bot. Tidsskr. 29: 312 (1909)",,,,44d71fb2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192456," "
+3ded5562-8fcd-11eb-924d-9cd76263cbd0,species,monadelpha,Barya,,Klotzsch,0,1854,,"Ber. Bekanntm. Verh. Königl. Preuss. Akad. Wiss. Berlin 1854: 112 (1854)",,,,,,urn:lsid:ipni.org:names:104098-1,wfo-0000823200,5680144,,
+8a7eac56-9bac-11eb-a8a2-19ed5c03f8d3,species,montana,Barya,,Racib.,0,,,,,,,8a7eac56-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192340," "
+35c54b3e-9bac-11eb-a8a2-19ed5c03f8d3,species,parasitica,Barya,,Fuckel,0,1870,,"Jb. nassau. Ver. Naturk. 23-24: 93 (1870)",,,,35c54b3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,179728," "
+7d288b8a-9bac-11eb-a8a2-19ed5c03f8d3,variety,caespitosa,Barya,parasitica,Peck,0,1890,,"Ann. Rep. N.Y. St. Mus. 43: 79 (1890)",,,,7d288b8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,179717," "
+bb1d9336-9bac-11eb-a8a2-19ed5c03f8d3,variety,parasitica,Barya,parasitica,Fuckel,0,1870,,"Jb. nassau. Ver. Naturk. 23-24: 93 (1870)",,,,bb1d9336-9bac-11eb-a8a2-19ed5c03f8d3,,,,,423272," "
+173d8522-9bad-11eb-a8a2-19ed5c03f8d3,species,salaccensis,Barya,,Racib.,0,1906,,"Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 1: 909 (1906)",,,,173d8522-9bad-11eb-a8a2-19ed5c03f8d3,,,,,325030,"  Petch (1921. Ann. Roy Bot Gard Peradeniya 7:167-270) gives this as a synonym of Hypocrella raciborskii Zimm."
+89efac3a-9bad-11eb-a8a2-19ed5c03f8d3,species,salacensis,Barya,,Racib.,0,,,,,,,89efac3a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,179773," Barya salaccensis"

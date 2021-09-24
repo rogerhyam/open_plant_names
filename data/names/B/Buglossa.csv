@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0e8c50e-8fd1-11eb-924d-9cd76263cbd0,genus,Buglossa,,,Gray,Q540667,1821,,"Nat. Arr. Brit. Pl. 2: 351. 1821.",,,,,,,wfo-4000005705,7294869,,
-b6dfa368-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Buglossa,,Gray,Q540667,1821,,"Nat. Arr. Brit. Pl. 2: 351 1821",,,,,,113719-1,wfo-0000574414,4062246,,
-b6dfc01e-8fcc-11eb-924d-9cd76263cbd0,species,lanata,Buglossa,,"Rojas Acosta",Q5939732,1897,,"Cat. Hist. Nat. Corrientes 73 1897",,,,,,113720-1,wfo-0000574415,4062239,,
-b6dfdc98-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Buglossa,,"(L.) Gray","Q1043,Q540667",1821,,"Nat. Arr. Brit. Pl. 2: 352 1821",,,,,,113721-1,wfo-0000574416,4062231,,
-b6e012f8-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Buglossites,,"(L.) Bubani","Q1043,Q684026",1897,,"Fl. Pyren. 1: 494 1897",,,,,,113722-1,wfo-0000574418,5660797,,
-b6e02ee6-8fcc-11eb-924d-9cd76263cbd0,species,laxiflorus,Buglossites,,"(DC.) Moris","Q123057,Q3770669",1845,,"Index Seminum (TU) 1845: 1845",,,,,,113723-1,wfo-0000574419,,,
+e0e8c50e-8fd1-11eb-924d-9cd76263cbd0,genus,Buglossa,,,Gray,0,1821,,"Nat. Arr. Brit. Pl. 2: 351 (1821 publ. 1822)",,,,,,urn:lsid:ipni.org:names:4494-1,wfo-4000005705,7294869,,
+b6dfa368-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Buglossa,,Gray,0,1821,,"Nat. Arr. Brit. Pl. 2: 351 (1821 publ. 1822)",,,,,,urn:lsid:ipni.org:names:113719-1,wfo-0000574414,4062246,,
+b6dfc01e-8fcc-11eb-924d-9cd76263cbd0,species,lanata,Buglossa,,"Rojas Acosta",0,1897,,"Cat. Hist. Nat. Corrientes : 73 (1897)",,,,,,urn:lsid:ipni.org:names:113720-1,wfo-0000574415,4062239,,
+b6dfdc98-8fcc-11eb-924d-9cd76263cbd0,species,sempervirens,Buglossa,,Gray,0,1821,,"Nat. Arr. Brit. Pl. 2: 352 (1821 publ. 1822)",,,,,,urn:lsid:ipni.org:names:113721-1,wfo-0000574416,4062231,,
+b6e012f8-8fcc-11eb-924d-9cd76263cbd0,species,arvensis,Buglossites,,Bubani,0,1897,,"Fl. Pyren. 1: 494 (1897)",,,,,,urn:lsid:ipni.org:names:113722-1,wfo-0000574418,5660797,,
+b6e02ee6-8fcc-11eb-924d-9cd76263cbd0,species,laxiflorus,Buglossites,,Moris,0,1845,,"Index Seminum (TU, Dorpatensis) 1845: 32 (1845)",,,,,,urn:lsid:ipni.org:names:113723-1,wfo-0000574419,,,

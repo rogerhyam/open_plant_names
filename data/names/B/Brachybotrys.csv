@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0c30be8-8fd1-11eb-924d-9cd76263cbd0,genus,Brachybotrys,,,"Maxim. ex Oliv.","Q77640,Q1161960",,,"Hooker's Icon. Pl. 13: 43, pl. 1254. 1878.",,,,,,4491-1,wfo-4000005190,7294879,,
-b4835ba0-8fcc-11eb-924d-9cd76263cbd0,species,paridiformis,Brachybotrys,,"Maxim. ex Oliv.","Q77640,Q1161960",1878,,"Hooker's Icon. Pl. 13: 43 1878",,,,,,113713-1,wfo-0000570221,4062319,,
-b483a2ae-8fcc-11eb-924d-9cd76263cbd0,species,tilcarense,Brachycalycium,,Backeb.,Q61900,1941,,"Cactaceae (Berlin) 1941(2): 78 1942",,,,,,129092-1,wfo-0000570222,3947539,,
+e0c30be8-8fd1-11eb-924d-9cd76263cbd0,genus,Brachybotrys,,,"Maxim. ex Oliv.",0,,,"Hooker's Icon. Pl. 13: 43 (1878)",,,,,,urn:lsid:ipni.org:names:4491-1,wfo-4000005190,7294879,,
+b4835ba0-8fcc-11eb-924d-9cd76263cbd0,species,paridiformis,Brachybotrys,,"Maxim. ex Oliv.",0,1878,,"Hooker's Icon. Pl. 13: 43 (1878)",,,,,,urn:lsid:ipni.org:names:113713-1,wfo-0000570221,4062319,,

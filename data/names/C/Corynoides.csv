@@ -1,21 +1,23 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a26f446e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Corynoides,,,Gray,Q540667,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,a26f446e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17394," "
-8fb4871c-9bad-11eb-a8a2-19ed5c03f8d3,species,byssoides,Corynoides,,"(Sowerby) Gray","Q1235813,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,5fb1fa46-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468951," "
-22b6f2d6-9bac-11eb-a8a2-19ed5c03f8d3,species,cornea,Corynoides,,"(Batsch) Gray","Q213687,Q540667",1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,,,,,,452007," "
-7441fe7a-9bac-11eb-a8a2-19ed5c03f8d3,species,fabae,Corynoides,,"(Soweby) Gray",Q540667,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,31e29804-9bad-11eb-a8a2-19ed5c03f8d3,,,,,533256," fabarum"
-02e84292-9bad-11eb-a8a2-19ed5c03f8d3,species,fabarum,Corynoides,,"(Soweby) Gray",Q540667,,,,,,,31e29804-9bad-11eb-a8a2-19ed5c03f8d3,,,,,492228," Corynoides fabae"
-00ba9eb2-9bac-11eb-a8a2-19ed5c03f8d3,species,farinosa,Corynoides,,"(Holmsk.) Gray",Q540667,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,63ac98ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,416316," "
-787e17a2-8fcd-11eb-924d-9cd76263cbd0,species,afzelii,Corynophallus,,Schott,Q112191,1857,,"Oesterr. Bot. Wochenbl. 7: 389 1857",,,,,,86647-1,wfo-0000925792,2871708,,
-1c677900-8fcc-11eb-924d-9cd76263cbd0,variety,elegans,Corynophallus,afzelii,Mast.,Q787355,,,"Gard. Chron. III, 1: 1619 1872",,,,,,,wfo-0000335847,2871705,,
-1c679822-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Corynophallus,afzelii,Mast.,Q787355,,,Unknown,,,,,,,wfo-0000335848,2871695,,
-787e31ce-8fcd-11eb-924d-9cd76263cbd0,variety,spectabilis,Corynophallus,afzelii,Mast.,Q787355,1872,,"Gard. Chron. 1872: 1619 1872",,,,,,,wfo-0000925793,2871696,,
-787e4e3e-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Corynophallus,,"(Welw. ex Schott) Kuntze","Q78609,Q112191,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,,,86648-1,wfo-0000925794,2871440,,
-787e6a36-8fcd-11eb-924d-9cd76263cbd0,species,consimilis,Corynophallus,,"(Blume) Kuntze","Q76816,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,,,86649-1,wfo-0000925795,2871685,,
-787e8412-8fcd-11eb-924d-9cd76263cbd0,species,fontanesii,Corynophallus,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 741 1891",,,,,,86650-1,wfo-0000925796,2871697,,
-787e9eb6-8fcd-11eb-924d-9cd76263cbd0,species,gratus,Corynophallus,,"(Schott) Kuntze","Q112191,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,,,86651-1,wfo-0000925797,2871418,,
-787ebb12-8fcd-11eb-924d-9cd76263cbd0,species,hohenackeri,Corynophallus,,"(Schott) Kuntze","Q112191,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,03e67a84-8fcc-11eb-924d-9cd76263cbd0,,86652-1,wfo-0000925798,2871746,,
-787ed692-8fcd-11eb-924d-9cd76263cbd0,species,leonensis,Corynophallus,,"(Lem.) Engl.","Q942880,Q60718",1879,,"Monogr. Phan. 2: 326 1879",,,,,,86653-1,wfo-0000925799,2871692,,
-1c67f330-8fcc-11eb-924d-9cd76263cbd0,variety,elegans,Corynophallus,leonensis,"(Mast.) Engl.","Q787355,Q60718",1879,,"Monogr. Phan. 2: 326 1879",,,,,,,wfo-0000335851,2871707,,
-1c684e20-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Corynophallus,leonensis,"(Mast.) Engl.","Q787355,Q60718",1879,,"Monogr. Phan. 2: 326 1879",,,,,,,wfo-0000335854,2871701,,
-787ef000-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Corynophallus,,"(Engl.) Kuntze","Q60718,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,,,86654-1,wfo-0000925800,2871476,,
-787f0d6a-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Corynophallus,,"(Schott ex Garcke) Kuntze","Q112191,Q66696,Q62853",1891,,"Revis. Gen. Pl. 2: 741 1891",,,,0e4f2ae0-8fca-11eb-924d-9cd76263cbd0,,86655-1,wfo-0000925801,2871670,,
+a26f446e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Corynoides,,,Gray,0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,a26f446e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17394," "
+8fb4871c-9bad-11eb-a8a2-19ed5c03f8d3,species,byssoides,Corynoides,,"(Sowerby) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,5fb1fa46-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468951," "
+22b6f2d6-9bac-11eb-a8a2-19ed5c03f8d3,species,cornea,Corynoides,,"(Batsch) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,,,,,,452007," "
+7441fe7a-9bac-11eb-a8a2-19ed5c03f8d3,species,fabae,Corynoides,,"(Soweby) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,31e29804-9bad-11eb-a8a2-19ed5c03f8d3,,,,,533256," fabarum"
+02e84292-9bad-11eb-a8a2-19ed5c03f8d3,species,fabarum,Corynoides,,"(Soweby) Gray",0,,,,,,,31e29804-9bad-11eb-a8a2-19ed5c03f8d3,,,,,492228," Corynoides fabae"
+00ba9eb2-9bac-11eb-a8a2-19ed5c03f8d3,species,farinosa,Corynoides,,"(Holmsk.) Gray",0,1821,,"Nat. Arr. Brit. Pl. (London) 1: 654 (1821)",,,,63ac98ea-9bac-11eb-a8a2-19ed5c03f8d3,,,,,416316," "
+586e9546-1d4d-11ec-82c2-f14daa6f2d93,species,brachycarpus,Corynolobus,,Rouy,,,,"Bull. Soc. Bot. France 33: 524, in syn. 1887",,,,,,urn:lsid:ipni.org:names:281602-1,wfo-0001351658,,,
+787e17a2-8fcd-11eb-924d-9cd76263cbd0,species,afzelii,Corynophallus,,Schott,0,1857,,"Oesterr. Bot. Wochenbl. 7: 389 (1857)",,,,,,urn:lsid:ipni.org:names:86647-1,wfo-0000925792,2871708,,
+1c677900-8fcc-11eb-924d-9cd76263cbd0,variety,elegans,Corynophallus,afzelii,Mast.,0,,,"Gard. Chron. III, 1: 1619 1872",,,,,,,wfo-0000335847,2871705,,
+1c679822-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Corynophallus,afzelii,Mast.,0,,,Unknown,,,,,,,wfo-0000335848,2871695,,
+787e31ce-8fcd-11eb-924d-9cd76263cbd0,variety,spectabilis,Corynophallus,afzelii,Mast.,0,1872,,"Gard. Chron. 1872: 1619 1872",,,,,,,wfo-0000925793,2871696,,
+787e4e3e-8fcd-11eb-924d-9cd76263cbd0,species,angolensis,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,,,urn:lsid:ipni.org:names:86648-1,wfo-0000925794,2871440,,
+787e6a36-8fcd-11eb-924d-9cd76263cbd0,species,consimilis,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,,,urn:lsid:ipni.org:names:86649-1,wfo-0000925795,2871685,,
+787e8412-8fcd-11eb-924d-9cd76263cbd0,species,fontanesii,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,,,urn:lsid:ipni.org:names:86650-1,wfo-0000925796,2871697,,
+787e9eb6-8fcd-11eb-924d-9cd76263cbd0,species,gratus,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,,,urn:lsid:ipni.org:names:86651-1,wfo-0000925797,2871418,,
+787ebb12-8fcd-11eb-924d-9cd76263cbd0,species,hohenackeri,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,03e67a84-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:86652-1,wfo-0000925798,2871746,,
+787ed692-8fcd-11eb-924d-9cd76263cbd0,species,leonensis,Corynophallus,,Engl.,0,1879,,"Monogr. Phan. 2: 326 (1879)",,,,,,urn:lsid:ipni.org:names:86653-1,wfo-0000925799,2871692,,
+1c67f330-8fcc-11eb-924d-9cd76263cbd0,variety,elegans,Corynophallus,leonensis,"(Mast.) Engl.",0,1879,,"Monogr. Phan. 2: 326 1879",,,,,,,wfo-0000335851,2871707,,
+1c684e20-8fcc-11eb-924d-9cd76263cbd0,variety,latifolius,Corynophallus,leonensis,"(Mast.) Engl.",0,1879,,"Monogr. Phan. 2: 326 1879",,,,,,,wfo-0000335854,2871701,,
+787ef000-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,,,urn:lsid:ipni.org:names:86654-1,wfo-0000925800,2871476,,
+787f0d6a-8fcd-11eb-924d-9cd76263cbd0,species,mossambicensis,Corynophallus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 741 (1891)",,,,0e4f2ae0-8fca-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:86655-1,wfo-0000925801,2871670,,
+5a41f836-1d4d-11ec-82c2-f14daa6f2d93,species,pulchella,Corynophora,,"Schrad. ex Spreng.",,,,"Syst. Veg., ed. 16 [Sprengel] 4(2): 204, 390. 1827 , a sphalm.",,,,,,urn:lsid:ipni.org:names:60460102-2,wfo-0001354119,,,

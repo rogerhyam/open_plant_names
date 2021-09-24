@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e882799a-8fd1-11eb-924d-9cd76263cbd0,genus,Picrolemma,,,Hook.f.,Q157501,1862,,"Gen. Pl. 1: 312. 1862. (7 Aug 1862)",,,,,,38233-1,wfo-4000029634,7329574,,
-db90f1de-8fcd-11eb-924d-9cd76263cbd0,species,huberi,Picrolemma,,Ducke,Q2601698,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 197 1925",,,,,,813977-1,wfo-0001140337,3708768,,
-db9114fc-8fcd-11eb-924d-9cd76263cbd0,species,pseudocoffea,Picrolemma,,Ducke,Q2601698,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 196 1925",,,,,,813978-1,wfo-0001140338,3708763,,
-7a8b32e2-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Picrolemma,,Hook.f.,Q157501,1862,,"Gen. Pl. 1: 312 1862",,,,,,813979-1,wfo-0000474999,3708755,,
-7a8b56e6-8fcc-11eb-924d-9cd76263cbd0,species,valdivia,Picrolemma,,"G.Planch. ex Restrepo","Q21390166,Q5664078",1881,,"Étude du Cédron 46 1881",,,,,,813980-1,wfo-0000475000,3708746,,
+e882799a-8fd1-11eb-924d-9cd76263cbd0,genus,Picrolemma,,,Hook.f.,0,1862,,"Gen. Pl. 1: 312 (1862)",,,,,,urn:lsid:ipni.org:names:38233-1,wfo-4000029634,7329574,,
+db90f1de-8fcd-11eb-924d-9cd76263cbd0,species,huberi,Picrolemma,,Ducke,0,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 197 (1925)",,,,,,urn:lsid:ipni.org:names:813977-1,wfo-0001140337,3708768,,
+db9114fc-8fcd-11eb-924d-9cd76263cbd0,species,pseudocoffea,Picrolemma,,Ducke,0,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 196 (1925)",,,,,,urn:lsid:ipni.org:names:813978-1,wfo-0001140338,3708763,,
+7a8b32e2-8fcc-11eb-924d-9cd76263cbd0,species,sprucei,Picrolemma,,Hook.f.,0,1862,,"Gen. Pl. 1: 312 (1862)",,,,,,urn:lsid:ipni.org:names:813979-1,wfo-0000474999,3708755,,
+7a8b56e6-8fcc-11eb-924d-9cd76263cbd0,species,valdivia,Picrolemma,,"G.Planch. ex Restrepo",0,1881,,"Étude du Cédron : 46 (1881)",,,,,,urn:lsid:ipni.org:names:813980-1,wfo-0000475000,3708746,,

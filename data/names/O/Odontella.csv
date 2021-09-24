@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7783896-8fd1-11eb-924d-9cd76263cbd0,genus,Odontella,,,,,,,,,,,,,,wfo-4000026576,7288171,,
-3ed912e6-8fcc-11eb-924d-9cd76263cbd0,species,deflersii,Odontella,,Tiegh.,Q2421500,1895,,"Bull. Soc. Bot. France 42: 260 1895",,Q54801453,,,,550618-1,wfo-0000388851,5640037,,
-bdc78f28-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Odontella,,"(Engl.) Tiegh.","Q60718,Q2421500",,,,,,,,,,wfo-0001075174,5640031,,
-bdecaa4c-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Odontella,,"(Hochst. ex A.Rich.) Tiegh.","Q64983,Q340247,Q2421500",,,,,,,,,,wfo-0001075489,5640027,,
-bdcf0c3a-8fcd-11eb-924d-9cd76263cbd0,species,volkensii,Odontella,,"(Engl.) Tiegh.","Q60718,Q2421500",,,,,,,,,,wfo-0001075237,5640022,,
-bd8c4ddc-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Odontella,,"(Engl.) Balle","Q60718,Q6128771",,,,,,,,,,wfo-0001074674,5640016,,
+e7783896-8fd1-11eb-924d-9cd76263cbd0,genus,Odontella,,,Tiegh.,,,,"Bull. Soc. Bot. France 42: 260 (1895)",,,,,,urn:lsid:ipni.org:names:25291-1,wfo-4000026576,7288171,,
+3ed912e6-8fcc-11eb-924d-9cd76263cbd0,species,deflersii,Odontella,,Tiegh.,0,1895,,"Bull. Soc. Bot. France 42: 260 (1895)",,Q54801453,,,,urn:lsid:ipni.org:names:550618-1,wfo-0000388851,5640037,,
+bdc78f28-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Odontella,,Tiegh.,0,,,"Bull. Soc. Bot. France 42: 260 (1895)",,,,,,urn:lsid:ipni.org:names:550619-1,wfo-0001075174,5640031,,
+bdecaa4c-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Odontella,,Tiegh.,0,,,"Bull. Soc. Bot. France 42: 260 (1895)",,,,,,urn:lsid:ipni.org:names:550620-1,wfo-0001075489,5640027,,
+bdcf0c3a-8fcd-11eb-924d-9cd76263cbd0,species,volkensii,Odontella,,Tiegh.,0,,,"Bull. Soc. Bot. France 42: 260 (1895)",,,,,,urn:lsid:ipni.org:names:550621-1,wfo-0001075237,5640022,,
+bd8c4ddc-8fcd-11eb-924d-9cd76263cbd0,species,welwitschii,Odontella,,"(Engl.) Balle",0,,,"Mitt. Bot. Staatssamml. München 7: 161 (1968)",,,,,,urn:lsid:ipni.org:names:550622-1,wfo-0001074674,5640016,,

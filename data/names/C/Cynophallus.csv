@@ -1,8 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a259ef88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cynophallus,,,"(Fr.) Corda","Q15405,Q624998",1842,,"Icon. fung. (Prague) 5: 29 (1842)",,,,,,,,,19087,"Nom. rejic., Art. 56.1 "
-031a1494-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusinus,Cynophallus,,"(Zoll.) Rea",Q124330,1922,,"Brit. basidiomyc. (Cambridge) 23 (1922)",,,,cabde3cc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,486415," Cyanophallus"
-7e13c1b4-9bab-11eb-a8a2-19ed5c03f8d3,species,caninus,Cynophallus,,"(Huds.) Fr.","Q982798,Q15405",1860,,"Outl. Brit. Fung. (London) 298 (1860)",,,,,,,,,207594," "
-9651da1c-9bac-11eb-a8a2-19ed5c03f8d3,species,cayleyi,Cynophallus,,Berk.,Q662338,,,,,,,9651da1c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207833," "
-0596e1a6-9bad-11eb-a8a2-19ed5c03f8d3,species,papuasius,Cynophallus,,"(Kalchbr.) F. Ludw.",Q736795,,,,,,,4a9ab7ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293820," "
-db1adbf8-8fcc-11eb-924d-9cd76263cbd0,species,elongata,Cynopsole,,Endl.,Q78605,1836,,"Gen. Pl. 74 1836",,,,,,103337-1,wfo-0000634350,4195047,,
-dba2ce5e-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Cynopsole,,"(Blume) Endl. ex B.D.Jacks.","Q76816,Q78605,Q817450",1895,,"Index Kew. 1: 688 1895",,,,,,,wfo-0001140489,4195047,,
+a259ef88-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cynophallus,,,"(Fr.) Corda",0,1842,,"Icon. fung. (Prague) 5: 29 (1842)",,,,,,,,,19087,"Nom. rejic., Art. 56.1 "
+031a1494-9bac-11eb-a8a2-19ed5c03f8d3,species,bambusinus,Cynophallus,,"(Zoll.) Rea",0,1922,,"Brit. basidiomyc. (Cambridge) 23 (1922)",,,,cabde3cc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,486415," Cyanophallus"
+7e13c1b4-9bab-11eb-a8a2-19ed5c03f8d3,species,caninus,Cynophallus,,"(Huds.) Fr.",0,1860,,"Outl. Brit. Fung. (London) 298 (1860)",,,,,,,,,207594," "
+9651da1c-9bac-11eb-a8a2-19ed5c03f8d3,species,cayleyi,Cynophallus,,Berk.,0,,,,,,,9651da1c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207833," "
+0596e1a6-9bad-11eb-a8a2-19ed5c03f8d3,species,papuasius,Cynophallus,,"(Kalchbr.) F. Ludw.",0,,,,,,,4a9ab7ce-9bac-11eb-a8a2-19ed5c03f8d3,,,,,293820," "

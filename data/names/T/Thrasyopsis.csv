@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb50dc20-8fd1-11eb-924d-9cd76263cbd0,genus,Thrasyopsis,,,Parodi,Q359462,1946,,"Bol. Soc. Argent. Bot. 1(4): 293. 1946.",,,,,,,wfo-4000038269,4125122,,
-685dac48-8fcd-11eb-924d-9cd76263cbd0,species,juergensii,Thrasyopsis,,"(Hack.) Soderstr. ex A.G.Burm.","Q2209907,Q351167,Q21506696",1980,,"Brittonia 32: 221 1980",,Q55770772,,,,252797-2,wfo-0000903680,5828149,,
-685dcbe2-8fcd-11eb-924d-9cd76263cbd0,species,rawitscheri,Thrasyopsis,,Parodi,Q359462,1946,,"Bol. Soc. Argent. Bot. 1: 295 1946",,,,,,252798-2,wfo-0000903681,4125127,,
-685e3dfc-8fcd-11eb-924d-9cd76263cbd0,species,repanda,Thrasyopsis,,"(Nees) Parodi","Q76349,Q359462",1946,,"Bol. Soc. Argent. Bot. 1: 297 1946",,,,a12a6760-8fcc-11eb-924d-9cd76263cbd0,,424248-1,wfo-0000903682,4125121,,
+eb50dc20-8fd1-11eb-924d-9cd76263cbd0,genus,Thrasyopsis,,,Parodi,0,1946,,"Bol. Soc. Argent. Bot. 1: 293 (1946)",,,,,,urn:lsid:ipni.org:names:289312-2,wfo-4000038269,4125122,,
+685dac48-8fcd-11eb-924d-9cd76263cbd0,species,juergensii,Thrasyopsis,,"(Hack.) Soderstr. ex A.G.Burm.",0,1980,,"Brittonia 32: 221 (1980)",,Q55770772,,,,urn:lsid:ipni.org:names:252797-2,wfo-0000903680,5828149,,
+685dcbe2-8fcd-11eb-924d-9cd76263cbd0,species,rawitscheri,Thrasyopsis,,Parodi,0,1946,,"Bol. Soc. Argent. Bot. 1: 295 (1946)",,,,,,urn:lsid:ipni.org:names:252798-2,wfo-0000903681,4125127,,
+685e3dfc-8fcd-11eb-924d-9cd76263cbd0,species,repanda,Thrasyopsis,,"(Nees) Parodi",0,1946,,"Bol. Soc. Argent. Bot. 1: 297 (1946)",,,,a12a6760-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:424248-1,wfo-0000903682,4125121,,

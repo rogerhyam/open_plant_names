@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3f81ff6-8fd1-11eb-924d-9cd76263cbd0,genus,Geogenanthus,,,Ule,Q72701,1913,,"Repert. Spec. Nov. Regni Veg. 11: 524. 1913.",,Q55752793,,,,30129285-2,wfo-4000015530,2765040,,
-5e93c7e8-8fcc-11eb-924d-9cd76263cbd0,species,ciliatus,Geogenanthus,,G.Brückn.,Q5878492,1931,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 224 1931",,Q55777510,,,,108816-2,wfo-0000429454,2765043,,
-5e94c80a-8fcc-11eb-924d-9cd76263cbd0,species,poeppigii,Geogenanthus,,"(Miq.) Faden","Q76742,Q6109400",1981,,"Taxon 30: 35 1981",,Q28955023,,,,908774-1,wfo-0000429461,2765044,,
-5e95fd1a-8fcc-11eb-924d-9cd76263cbd0,species,rhizanthus,Geogenanthus,,"(Ule) G.Brückn.","Q72701,Q5878492",1926,,"Bot. Jahrb. Syst. 61(137): 42 1926",,,,,,,wfo-0000429466,2765041,,
-5e96b41c-8fcc-11eb-924d-9cd76263cbd0,species,undatus,Geogenanthus,,"(Linden ex K.Koch) Mildbr. & Strauss","Q781362,Q65130,Q470035,Q21609942",1913,,"Repert. Spec. Nov. Regni Veg. 12: 279 1913",,Q55752847,,,,108818-2,wfo-0000429471,2765049,,
-5e989e4e-8fcc-11eb-924d-9cd76263cbd0,species,wittianus,Geogenanthus,,"(Ule) Ule",Q72701,1913,,"Repert. Spec. Nov. Regni Veg. 11: 524 1913",,Q55752793,,,,172777-1,wfo-0000429475,2765046,,
+e3f81ff6-8fd1-11eb-924d-9cd76263cbd0,genus,Geogenanthus,,,Ule,0,1913,,"Repert. Spec. Nov. Regni Veg. 11: 524 (1913)",,Q55752793,,,,urn:lsid:ipni.org:names:30129285-2,wfo-4000015530,2765040,,
+5e93c7e8-8fcc-11eb-924d-9cd76263cbd0,species,ciliatus,Geogenanthus,,G.Brückn.,0,1931,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 224 (1931)",,Q55777510,,,,urn:lsid:ipni.org:names:108816-2,wfo-0000429454,2765043,,
+5e94c80a-8fcc-11eb-924d-9cd76263cbd0,species,poeppigii,Geogenanthus,,"(Miq.) Faden",0,1981,,"Taxon 30: 35 (1981)",,Q28955023,,,,urn:lsid:ipni.org:names:908774-1,wfo-0000429461,2765044,,
+5e95fd1a-8fcc-11eb-924d-9cd76263cbd0,species,rhizanthus,Geogenanthus,,G.Brückn.,0,1926,,"Beibl. Bot. Jahrb. Syst. 137: 42 (1926)",,,,,,urn:lsid:ipni.org:names:108817-2,wfo-0000429466,2765041,,
+5e96b41c-8fcc-11eb-924d-9cd76263cbd0,species,undatus,Geogenanthus,,Mildbr.,0,1913,,"Repert. Spec. Nov. Regni Veg. 12: 279 (1913)",,Q55752847,,,,urn:lsid:ipni.org:names:108818-2,wfo-0000429471,2765049,,
+5e989e4e-8fcc-11eb-924d-9cd76263cbd0,species,wittianus,Geogenanthus,,"(Ule) Ule",0,1913,,"Repert. Spec. Nov. Regni Veg. 11: 524. 1913 [31 Jan 1913]",,Q55752793,,,,urn:lsid:ipni.org:names:172777-1,wfo-0000429475,2765046,,

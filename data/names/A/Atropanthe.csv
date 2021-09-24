@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfebeae6-8fd1-11eb-924d-9cd76263cbd0,genus,Atropanthe,,,Pascher,Q931532,1909,,"Zuccagni and Zuccagni, Oesterr. Bot. Zeiss. 59(9): 25., 1909.",,Q101060353,,,,38281-1,wfo-4000003614,7300033,,
-a4764884-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Atropanthe,,"(Hemsl.) Pascher","Q1339247,Q931532",1909,,"(H. ) Pascher, Oesterr. Bot. Z. 59: 330. 1909, 1909.",,,,,,,wfo-0001019465,3802362,,
+dfebeae6-8fd1-11eb-924d-9cd76263cbd0,genus,Atropanthe,,,Pascher,0,1909,,"Zuccagni and Zuccagni, Oesterr. Bot. Zeiss. 59(9): 25., 1909.",,Q101060353,,,,urn:lsid:ipni.org:names:38281-1,wfo-4000003614,7300033,,
+56033992-1d4d-11ec-82c2-f14daa6f2d93,species,mairei,Atropanthe,,"(H.Lév.) H.Lév.",,,,"Bull. Géogr. Bot. 25: 37.1915.",,,,,,,wfo-0001348388,,,
+a4764884-8fcd-11eb-924d-9cd76263cbd0,species,sinensis,Atropanthe,,"(Hemsl.) Pascher",0,1909,,"Oesterr. Bot. Z. 59: 330. 1909",,,,,,urn:lsid:ipni.org:names:814413-1,wfo-0001019465,3802362,,
 a47664e0-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Atropanthe,,,,,,,,,,,,,wfo-0001019466,,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3493248-8fd1-11eb-924d-9cd76263cbd0,genus,Empleuridium,,,"Sond. & Harv.","Q77215,Q1378128",1859,,"hes. Cap. i. 49 (1859).",,,,,,35704-1,wfo-4000013332,7269269,,
-ee1d0f96-8fcc-11eb-924d-9cd76263cbd0,species,juniperinum,Empleuridium,,"Sond. & Harv.","Q77215,Q1378128",1860,,"Thes. Cap. 1: 49 1860",,,,,,772658-1,wfo-0000667278,3835124,,
-ee1d5032-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Empleurosma,,Bartl.,Q76340,1848,,"Pl. Preiss. 2: 228 1848",,,,,,783015-1,wfo-0000667280,3784278,,
+e3493248-8fd1-11eb-924d-9cd76263cbd0,genus,Empleuridium,,,"Sond. & Harv. ex Harv.",0,1859,,"Thes. Cap. i. 49 (1859).",,,,,,urn:lsid:ipni.org:names:35704-1,wfo-4000013332,7269269,,
+ee1d0f96-8fcc-11eb-924d-9cd76263cbd0,species,juniperinum,Empleuridium,,"Sond. & Harv.",0,1860,,"Thes. Cap. i. 49 (1859).",,,,,,urn:lsid:ipni.org:names:772658-1,wfo-0000667278,3835124,,
+ee1d5032-8fcc-11eb-924d-9cd76263cbd0,species,virgata,Empleurosma,,Bartl.,0,1848,,"Pl. Preiss. 2: 228 (1848)",,,,,,urn:lsid:ipni.org:names:783015-1,wfo-0000667280,3784278,,

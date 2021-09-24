@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df28c674-8fd1-11eb-924d-9cd76263cbd0,genus,Alvesia,,,Welw.,Q78609,1869,,"Trans. Linn. Soc. London 27: 55, t. 19. 1869.",,Q55760776,,,,20652-1,wfo-4000001427,6008589,,
-9a2d015c-8fc7-11eb-924d-9cd76263cbd0,species,bauhinioides,Alvesia,,Welw.,Q78609,,,,,,,,,,wfo-0000203519,5352483,,
-85291dc6-8fcd-11eb-924d-9cd76263cbd0,species,clerodendroides,Alvesia,,"(T.C.E.Fr.) B.Mathew","Q15417,Q4964624",1972,,"Kew Bull. 26: 565 1972",,Q55788351,,f68c5da4-8fcb-11eb-924d-9cd76263cbd0,,444738-1,wfo-0000953797,6043854,,
-852a347c-8fcd-11eb-924d-9cd76263cbd0,species,cylindricalyx,Alvesia,,"(B.Mathew) B.Mathew",Q4964624,1972,,"Kew Bull. 26: 565 1972",,Q55788351,,f68c9d64-8fcb-11eb-924d-9cd76263cbd0,,444739-1,wfo-0000953807,6043852,,
-852b479a-8fcd-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Alvesia,,Welw.,Q78609,1869,,"Trans. Linn. Soc. London 27: 55 1869",,Q55760776,,,,444740-1,wfo-0000953817,6043851,,
-6fca782e-8fc0-11eb-924d-9cd76263cbd0,species,tomentosa,Alvesia,,"(L.) Britton & Rose","Q1043,Q553714,Q1336049",,,,,,,,,,wfo-0000165996,8713964,,
+df28c674-8fd1-11eb-924d-9cd76263cbd0,genus,Alvesia,,,Welw.,0,1869,,"Trans. Linn. Soc. London 27: 55 (1869)",,Q55760776,,,,urn:lsid:ipni.org:names:20652-1,wfo-4000001427,6008589,,
+9a2d015c-8fc7-11eb-924d-9cd76263cbd0,species,bauhinioides,Alvesia,,Welw.,0,,,"Apont. 587, n. 47. 1859 [Dec 1858 publ. Dec 1859]",,,,,,urn:lsid:ipni.org:names:473504-1,wfo-0000203519,5352483,,
+85291dc6-8fcd-11eb-924d-9cd76263cbd0,species,clerodendroides,Alvesia,,"(T.C.E.Fr.) B.Mathew",0,1972,,"Kew Bull. 26: 565 (1972)",,Q55788351,,f68c5da4-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:444738-1,wfo-0000953797,6043854,,
+852a347c-8fcd-11eb-924d-9cd76263cbd0,species,cylindricalyx,Alvesia,,"(B.Mathew) B.Mathew",0,1972,,"Kew Bull. 26: 565 (1972)",,Q55788351,,f68c9d64-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:444739-1,wfo-0000953807,6043852,,
+852b479a-8fcd-11eb-924d-9cd76263cbd0,species,rosmarinifolia,Alvesia,,Welw.,0,1869,,"Trans. Linn. Soc. London 27: 55 (1869)",,Q55760776,,,,urn:lsid:ipni.org:names:444740-1,wfo-0000953817,6043851,,
+6fca782e-8fc0-11eb-924d-9cd76263cbd0,species,tomentosa,Alvesia,,"(L.) Britton & Rose",0,,,"N. Amer. Fl. 23(4): 208. 1930 [18 Nov 1930]",,,,,,urn:lsid:ipni.org:names:10511-2,wfo-0000165996,8713964,,

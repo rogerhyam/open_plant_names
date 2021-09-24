@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e01f9eae-8fd1-11eb-924d-9cd76263cbd0,genus,Baynesia,,,Bruyns,Q9058775,2000,,"Novon 10(4): 354. 2000.",,Q55774853,,,,1018355-1,wfo-4000004256,7311653,,
-af0d716a-8fcc-11eb-924d-9cd76263cbd0,species,lophophora,Baynesia,,Bruyns,Q9058775,2000,,"Novon 10: 354 2000",,Q55774853,,,,1018356-1,wfo-0000561686,3570891,,
-2a64b4fe-8fcd-11eb-924d-9cd76263cbd0,species,fissa,Bayonia,,"(Loes.) Dugand","Q4273076,Q4792754",1946,,"Caldasia 4: 65 1946",,,,,,30213-2,wfo-0000781267,5668370,,
-2a64ce80-8fcd-11eb-924d-9cd76263cbd0,species,helicocalyx,Bayonia,,"(Kuntze) Dugand","Q62853,Q4792754",1946,,"Caldasia 4: 63 1946",,,,2a31cbd4-8fcd-11eb-924d-9cd76263cbd0,,30214-2,wfo-0000781268,5668365,,
+e01f9eae-8fd1-11eb-924d-9cd76263cbd0,genus,Baynesia,,,Bruyns,0,2000,,"Novon 10: 354 (2000)",,Q55774853,,,,urn:lsid:ipni.org:names:1018355-1,wfo-4000004256,7311653,,
+af0d716a-8fcc-11eb-924d-9cd76263cbd0,species,lophophora,Baynesia,,Bruyns,0,2000,,"Novon 10: 354 (2000)",,Q55774853,,,,urn:lsid:ipni.org:names:1018356-1,wfo-0000561686,3570891,,
+2a64b4fe-8fcd-11eb-924d-9cd76263cbd0,species,fissa,Bayonia,,"(Loes.) Dugand",0,1946,,"Caldasia 4: 65 (1946)",,,,,,urn:lsid:ipni.org:names:30213-2,wfo-0000781267,5668370,,
+2a64ce80-8fcd-11eb-924d-9cd76263cbd0,species,helicocalyx,Bayonia,,"(Kuntze) Dugand",0,1946,,"Caldasia 4: 63 (1946)",,,,2a31cbd4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30214-2,wfo-0000781268,5668365,,

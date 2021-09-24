@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e27515ee-8fd1-11eb-924d-9cd76263cbd0,genus,Dactylus,,,,,,,,,,,,,,wfo-4000010658,,,
-4fc5c42c-8fcd-11eb-924d-9cd76263cbd0,species,officinalis,Dactylus,,Asch.,Q61290,1864,,"Fl. Brandenburg 1: 810 1864",,,,,,397425-1,wfo-0000861755,5675825,,
-4fc5dd86-8fcd-11eb-924d-9cd76263cbd0,species,spicatus,Dactylus,,Burm.f.,Q716978,1768,,"Fl. Indica Prodr. Fl. Cap.: 3 1768",,,,,,397426-1,wfo-0000861756,5675821,,
-dc7ec3ce-8fcc-11eb-924d-9cd76263cbd0,species,trapezuntinus,Dactylus,,Forssk.,Q27684,1775,,"Fl. Aegypt.-Arab. xxxvi 1775",,Q5862701,,,,322034-1,wfo-0000636855,5662618,,
+e27515ee-8fd1-11eb-924d-9cd76263cbd0,genus,Dactylus,,,Asch.,,,,"Fl. Brandenburg 1: 810 (1864)",,,,,,urn:lsid:ipni.org:names:17854-1,wfo-4000010658,,,
+4fc5c42c-8fcd-11eb-924d-9cd76263cbd0,species,officinalis,Dactylus,,Asch.,0,1864,,"Fl. Brandenburg 1: 810 (1864)",,,,,,urn:lsid:ipni.org:names:397425-1,wfo-0000861755,5675825,,
+4fc5dd86-8fcd-11eb-924d-9cd76263cbd0,species,spicatus,Dactylus,,Burm.f.,0,1768,,"Fl. Indica , Prodr. Fl. Cap.: 3 (1768)",,,,,,urn:lsid:ipni.org:names:397426-1,wfo-0000861756,5675821,,
+dc7ec3ce-8fcc-11eb-924d-9cd76263cbd0,species,trapezuntinus,Dactylus,,Forssk.,0,1775,,"Fl. Aegypt.-Arab. : xxxvi (1775)",,Q5862701,,,,urn:lsid:ipni.org:names:322034-1,wfo-0000636855,5662618,,

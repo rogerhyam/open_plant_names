@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e992d974-8fd1-11eb-924d-9cd76263cbd0,genus,Rhabdothamnopsis,,,Hemsl.,Q1339247,1903,,"J. Linn. Soc., Bot. 35(247): 517–518. 1903.",,Q55760422,,,,14117-1,wfo-4000032826,6365609,,
-4b8c2b90-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Rhabdothamnopsis,,"(Franch.) Hand.-Mazz.","Q377208,Q134118",1936,,"Symb. Sin. 7: 884 1936",,,,,,382458-1,wfo-0000404941,3823019,,
-b6e24eec-8fd1-11eb-924d-9cd76263cbd0,species,limprichtiana,Rhabdothamnopsis,,"Lingelsh. & Borza","Q5666258,Q622276",,,,,,,,,,wfo-0001237194,3823012,,
-ad62c8c4-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Rhabdothamnopsis,,Hemsl.,Q1339247,1903,,"J. Linn. Soc., Bot. 35(247): 517–518 1903",,Q55760422,,,,316007-1,wfo-0001219812,3823001,,
-b3039f10-8fd1-11eb-924d-9cd76263cbd0,variety,ochroleuca,Rhabdothamnopsis,sinensis,W.W.Sm.,Q1278792,1924,,"Notes Roy. Bot. Gard. Edinburgh 14: 234 1924",,,,,,,wfo-0001230036,6069528,,
+e992d974-8fd1-11eb-924d-9cd76263cbd0,genus,Rhabdothamnopsis,,,Hemsl.,0,1903,,"J. Linn. Soc., Bot. 35: 517 (1903)",,Q55760422,,,,urn:lsid:ipni.org:names:14117-1,wfo-4000032826,6365609,,
+4b8c2b90-8fcc-11eb-924d-9cd76263cbd0,species,chinensis,Rhabdothamnopsis,,"(Franch.) Hand.-Mazz.",0,1936,,"Symb. Sin. Pt. VII. 884 (1936).",,,,,,urn:lsid:ipni.org:names:382458-1,wfo-0000404941,3823019,,
+b6e24eec-8fd1-11eb-924d-9cd76263cbd0,species,limprichtiana,Rhabdothamnopsis,,"Lingelsh. & Borza",0,,,"Repert. Spec. Nov. Regni Veg. 13: 390 (1914)",,,,,,urn:lsid:ipni.org:names:382459-1,wfo-0001237194,3823012,,
+ad62c8c4-8fd1-11eb-924d-9cd76263cbd0,species,sinensis,Rhabdothamnopsis,,Hemsl.,0,1903,,"J. Linn. Soc., Bot. 35: 517 (1903)",,Q55760422,,,,urn:lsid:ipni.org:names:316007-1,wfo-0001219812,3823001,,
+b3039f10-8fd1-11eb-924d-9cd76263cbd0,variety,ochroleuca,Rhabdothamnopsis,sinensis,W.W.Sm.,0,1924,,"Notes Roy. Bot. Gard. Edinburgh 14: 234 1924",,,,,,,wfo-0001230036,6069528,,

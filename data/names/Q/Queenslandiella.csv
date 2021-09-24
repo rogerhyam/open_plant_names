@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e96b6b3c-8fd1-11eb-924d-9cd76263cbd0,genus,Queenslandiella,,,Domin,Q1109649,1915,,"Biblioth. Bot. 85: 415. 1915.",,,,,,,wfo-4000032371,2731091,,
-8deceb78-8fcc-11eb-924d-9cd76263cbd0,species,hyalina,Queenslandiella,,"(Vahl) Ballard","Q353283,Q21505599",,,"Hooker's Icon. Pl. 33: t. 3208 1933",,,,,,311797-1,wfo-0000507795,2731092,,
-8dee3c58-8fcc-11eb-924d-9cd76263cbd0,species,mira,Queenslandiella,,Domin,Q1109649,1915,,"Biblioth. Bot. 85: 415 1915",,,,,,311798-1,wfo-0000507804,2731098,,
-24ab8eac-8fcd-11eb-924d-9cd76263cbd0,species,quehlii,,,"(Radl) G.D.Rowley","Q5863191,Q1416264",1982,,"Natl. Cact. Succ. J. 37: 49 1982",,,,1f8549cc-8fcd-11eb-924d-9cd76263cbd0,,910681-1,wfo-0000768914,,,
-24c438b2-8fcd-11eb-924d-9cd76263cbd0,species,quehlii,,,"(Radl) E.Walther","Q5863191,Q1292134",1930,,"J. Cact. Succ. Soc. Amer. 2: 307 1930",,,,1f8549cc-8fcd-11eb-924d-9cd76263cbd0,,535877-1,wfo-0000769086,,,
+e96b6b3c-8fd1-11eb-924d-9cd76263cbd0,genus,Queenslandiella,,,Domin,0,1915,,"Biblioth. Bot. 20(85): 415 (1915)",,,,,,urn:lsid:ipni.org:names:14000-1,wfo-4000032371,2731091,,
+8deceb78-8fcc-11eb-924d-9cd76263cbd0,species,hyalina,Queenslandiella,,"(Vahl) Ballard",0,,,"Hooker's Icon. Pl. 33: t. 3208 (1933)",,,,,,urn:lsid:ipni.org:names:311797-1,wfo-0000507795,2731092,,
+8dee3c58-8fcc-11eb-924d-9cd76263cbd0,species,mira,Queenslandiella,,Domin,0,1915,,"Biblioth. Bot. 20(85): 415 (1915)",,,,,,urn:lsid:ipni.org:names:311798-1,wfo-0000507804,2731098,,

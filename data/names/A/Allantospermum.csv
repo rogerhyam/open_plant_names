@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df1877ce-8fd1-11eb-924d-9cd76263cbd0,genus,Allantospermum,,,Forman,Q5974166,1965,,"Kew Bull. 19(3): 517 (1965).",,Q43256305,,,,20551-1,wfo-4000001235,4259126,,
-989bfc6c-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Allantospermum,,Forman,Q5974166,1965,,"Kew Bull. 19: 517 1965",,Q43256305,,,,442125-1,wfo-0000525995,7311003,,
-989c18c8-8fcc-11eb-924d-9cd76263cbd0,species,multicaule,Allantospermum,,"(Capuron) Noot.","Q2348654,Q5891924",1967,,"Adansonia n.s., 7: 163 1967",,Q58837633,,,,442126-1,wfo-0000525996,4259169,,
+df1877ce-8fd1-11eb-924d-9cd76263cbd0,genus,Allantospermum,,,Forman,0,1965,,"Kew Bull. 19: 517 (1965)",,Q43256305,,,,urn:lsid:ipni.org:names:20551-1,wfo-4000001235,4259126,,
+989bfc6c-8fcc-11eb-924d-9cd76263cbd0,species,borneense,Allantospermum,,Foreman,0,1965,,"Kew Bull. 19: 517 (1965)",,Q43256305,,,,urn:lsid:ipni.org:names:442125-1,wfo-0000525995,7311003,,
+3e04fdda-1d4d-11ec-82c2-f14daa6f2d93,subspecies,borneense,Allantospermum,borneense,,,,,,,,,,,,wfo-0001315921,,,
+3e059646-1d4d-11ec-82c2-f14daa6f2d93,subspecies,rostratum,Allantospermum,borneense,Noot.,,,,"Fl. Males. 6: 972 (1972)",,,,,,urn:lsid:ipni.org:names:883649-1,wfo-0001315922,,,
+989c18c8-8fcc-11eb-924d-9cd76263cbd0,species,multicaule,Allantospermum,,"(Capuron) Noot.",0,1967,,"Adansonia , n.s., 7: 163 (1967)",,Q58837633,,,,urn:lsid:ipni.org:names:442126-1,wfo-0000525996,4259169,,

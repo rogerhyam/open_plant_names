@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e28b78a2-8fd1-11eb-924d-9cd76263cbd0,genus,Degeneria,,,"I.W.Bailey & A.C.Sm.","Q5564227,Q1922675",1942,,"J. Arnold Arbor. 23(3): 357–365, pl. 1–5. 1942.",,Q100549172,,,,14146-1,wfo-4000010970,3231418,,
-7e3a7d8e-8fcd-11eb-924d-9cd76263cbd0,species,roseiflora,Degeneria,,"John M.Mill.",Q18986910,1988,,"J. Arnold Arbor. 69: 277 1988",,Q100560326,,,,935075-1,wfo-0000938187,5687718,,
-7e3a9a3a-8fcd-11eb-924d-9cd76263cbd0,species,vitiensis,Degeneria,,"L.W.Bailey & A.C.Sm.","Q6681275,Q1922675",1942,,"J. Arnold Arbor. 23: 357 1942",,Q100549172,,,,316106-1,wfo-0000938188,7945597,,
-3007dbc0-8fcd-11eb-924d-9cd76263cbd0,subspecies,roseiflora,Degeneria,vitiensis,"(John M.Mill.) Doweld","Q18986910,Q8194364",2003,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. n.s., 108(3): 64 2003",,,,7e3a7d8e-8fcd-11eb-924d-9cd76263cbd0,,77067735-1,wfo-0000793853,5687716,,
+e28b78a2-8fd1-11eb-924d-9cd76263cbd0,genus,Degeneria,,,"I.W.Bailey & A.C.Sm.",0,1942,,"J. Arnold Arbor. 23: 357 (1942)",,Q100549172,,,,urn:lsid:ipni.org:names:14146-1,wfo-4000010970,3231418,,
+7e3a7d8e-8fcd-11eb-924d-9cd76263cbd0,species,roseiflora,Degeneria,,"John M.Mill.",0,1988,,"J. Arnold Arbor. 69: 277 (1988)",,Q100560326,,,,urn:lsid:ipni.org:names:935075-1,wfo-0000938187,5687718,,
+7e3a9a3a-8fcd-11eb-924d-9cd76263cbd0,species,vitiensis,Degeneria,,"I.W.Bailey & A.C.Sm.",0,1942,,"J. Arnold Arbor. 23: 357 (1942)",,Q100549172,,,,urn:lsid:ipni.org:names:316106-1,wfo-0000938188,7945597,,
+3007dbc0-8fcd-11eb-924d-9cd76263cbd0,subspecies,roseiflora,Degeneria,vitiensis,"(John M.Mill.) Doweld",0,2003,,"Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol. , n.s., 108(3): 64 (2003)",,,,7e3a7d8e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77067735-1,wfo-0000793853,5687716,,

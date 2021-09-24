@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2aa48b8-8fd1-11eb-924d-9cd76263cbd0,genus,Diblemma,,,J.Sm.,Q3182477,1841,,"J. Bot. (Hooker) 3: 399. 1841.",,,,,,,wfo-4000011360,7290097,,
-b0bffa1e-8fd1-11eb-924d-9cd76263cbd0,species,samarensis,Diblemma,,J.Sm.,Q3182477,,,,,,,,,,wfo-0001225954,5648245,,
-7b323376-8fbd-11eb-924d-9cd76263cbd0,species,tenuiloris,Diblemma,,Ching,Q3424685,1940,,"Sunyatsenia 5: 260. 1940. 1940",,,,,,17434870-1,wfo-0000148107,5648238,,
+e2aa48b8-8fd1-11eb-924d-9cd76263cbd0,genus,Diblemma,,,J.Sm.,0,1841,,"J. Bot. (Hooker) 3: 399 (1841)",,,,,,urn:lsid:ipni.org:names:17082370-1,wfo-4000011360,7290097,,
+b0bffa1e-8fd1-11eb-924d-9cd76263cbd0,species,samarensis,Diblemma,,J.Sm.,0,,,"J. Bot. (Hooker) 3: 399 (1841)",,,,,,urn:lsid:ipni.org:names:17082380-1,wfo-0001225954,5648245,,
+7b323376-8fbd-11eb-924d-9cd76263cbd0,species,tenuiloris,Diblemma,,"(Kunze ex Mett.) Ching",0,1940,,"Sunyatsenia 5: 260. 1940. (1940)",,,,,,urn:lsid:ipni.org:names:17434870-1,wfo-0000148107,5648238,,

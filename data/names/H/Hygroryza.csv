@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4f38d3c-8fd1-11eb-924d-9cd76263cbd0,genus,Hygroryza,,,Nees,Q76349,1833,,"Edinburgh New Philos. J. 15: 380. 1833.",,,,,,18253-1,wfo-4000018593,4147935,,
-55c26f6a-8fcd-11eb-924d-9cd76263cbd0,species,aristata,Hygroryza,,"(Retz.) Nees ex Wight & Arn.","Q491077,Q76349,Q1375864,Q730292",1833,,"Edinburgh New Philos. J. 15: 380 1833",,,,,,,wfo-0000875137,8069897,,
-55c28a54-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Hygroryza,,"(Retz.) Steud.","Q491077,Q62821",1841,,"Nomencl. Bot. ed. 2, 1: 783 1841",,,,4f58d25e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000875138,4147934,,
+e4f38d3c-8fd1-11eb-924d-9cd76263cbd0,genus,Hygroryza,,,Nees,0,1833,,"Edinburgh New Philos. J. 15: 380 (1833)",,,,,,urn:lsid:ipni.org:names:18253-1,wfo-4000018593,4147935,,
+55c26f6a-8fcd-11eb-924d-9cd76263cbd0,species,aristata,Hygroryza,,Nees,0,1833,,"Edinburgh New Philos. J. 15: 380 (1833)",,,,,,urn:lsid:ipni.org:names:405424-1,wfo-0000875137,8069897,,
+55c28a54-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Hygroryza,,Steud.,0,1841,,"Nomencl. Bot. , ed. 2, 1: 783 (1841)",,,,4f58d25e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:405425-1,wfo-0000875138,4147934,,

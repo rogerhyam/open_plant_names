@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9160c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudinium,,,P.F.Hunt,Q5695370,1971,,"Orchid Rev. 79: 141. 1971.",,,,,,30438-1,wfo-4000031381,2791189,,
-af7a0aaa-8fd1-11eb-924d-9cd76263cbd0,species,aschersonianum,Pseudinium,,"(Brúgger & Killias ex Nyman) P.F.Hunt","Q5767436,Q5818908,Q1037905,Q5695370",1971,,"Orchid Rev. 79(935): 141 1971",,,,,,655100-1,wfo-0001223612,2791190,,
+e9160c8c-8fd1-11eb-924d-9cd76263cbd0,genus,Pseudinium,,,P.F.Hunt,0,1971,,"Orchid Rev. 79: 141 (1971)",,,,,,urn:lsid:ipni.org:names:30438-1,wfo-4000031381,2791189,,
+af7a0aaa-8fd1-11eb-924d-9cd76263cbd0,species,aschersonianum,Pseudinium,,"(Brügger & Killias) P.F.Hunt",0,1971,,"Orchid Rev. 79: 141 (1971)",,,,,,urn:lsid:ipni.org:names:655100-1,wfo-0001223612,2791190,,
+fc0d1f8e-8fcb-11eb-924d-9cd76263cbd0,species,aschersonianum,Pseudinium,,"(Brügger & Killias) P.F.Hunt",0,1971,,"Orchid Rev. 79: 141 (1971)",,,,,,urn:lsid:ipni.org:names:655100-1,wfo-0000283868,,,

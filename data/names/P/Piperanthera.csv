@@ -1,8 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e890405c-8fd1-11eb-924d-9cd76263cbd0,genus,Piperanthera,,,C.DC.,Q282065,1923,,"Candollea 1: 67. 1923.",,,,,,,wfo-4000029810,7305235,,
-ac8369e4-8fcd-11eb-924d-9cd76263cbd0,species,cupularis,Piperanthera,,"(C.DC.) C.DC.",Q282065,1923,,"Candollea 1: 67 1923",,,,ccaf4c70-8fd1-11eb-924d-9cd76263cbd0,,199603-2,wfo-0001035765,4186325,,
-f5c01cb2-8fcb-11eb-924d-9cd76263cbd0,species,filiformis,Piperella,,"(Aiton) C.Presl","Q465898,Q379601",1826,,"Fl. Sicul. xxxvii 1826",,,,,,454214-1,wfo-0000273881,5605192,,
-461c445a-8fcd-11eb-924d-9cd76263cbd0,species,piperi,,,"(Bowden) Bowden",Q21339686,1967,,"Canad. J. Bot. 45: 719 1967",,Q95998079,,,,288404-2,wfo-0000841054,7305216,,
-462315b4-8fcd-11eb-924d-9cd76263cbd0,species,piperi,,,"(Bowden) Barkworth","Q21339686,Q2918786",1998,,"Phytologia 83: 309 1998",,,,,,1193594-2,wfo-0000841113,7305216,,
-4624942a-8fcd-11eb-924d-9cd76263cbd0,species,piperi,,,Bowden,Q21339686,1984,,"Amer. J. Bot. 71: 623 1984",,,,,,,wfo-0000841125,7305216,,
-462bdb36-8fcd-11eb-924d-9cd76263cbd0,species,piperi,,,Bowden,Q21339686,1958,,"Canad. J. Bot. 36: 106 1958",,,,,,288389-2,wfo-0000841187,7305216,,
+e890405c-8fd1-11eb-924d-9cd76263cbd0,genus,Piperanthera,,,C.DC.,0,1923,,"Candollea 1: 67 (1923)",,,,,,urn:lsid:ipni.org:names:289389-2,wfo-4000029810,7305235,,
+ac8369e4-8fcd-11eb-924d-9cd76263cbd0,species,cupularis,Piperanthera,,C.DC.,0,1923,,"Candollea 1: 67 (1923)",,,,ccaf4c70-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:199603-2,wfo-0001035765,4186325,,
+f5c01cb2-8fcb-11eb-924d-9cd76263cbd0,species,filiformis,Piperella,,C.Presl,0,1826,,"Fl. Sicul. : xxxvii (1826)",,,,,,urn:lsid:ipni.org:names:454214-1,wfo-0000273881,5605192,,

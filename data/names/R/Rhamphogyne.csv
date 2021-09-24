@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9968394-8fd1-11eb-924d-9cd76263cbd0,genus,Rhamphogyne,,,S.Moore,Q2975984,,,,,,,,,10830-1,wfo-4000032880,3109167,,
-d03735b4-8fb9-11eb-924d-9cd76263cbd0,species,papuana,Rhamphogyne,,J.Kost.,Q21517817,1975,,"Blumea 22(2): 208 (1975).",,Q96027551,,,,241370-1,wfo-0000121595,3138887,,
-0de1064a-8fb2-11eb-924d-9cd76263cbd0,species,rhynchocarpa,Rhamphogyne,,S.Moore,Q2975984,1914,,"in Journ. Bot, 1914, lii. 146.",,,,,,241371-1,wfo-0000008228,3109168,,
-03bb7b04-8fcc-11eb-924d-9cd76263cbd0,species,mendoncae,Rhamphorhynchus,,"(Brade & Pabst) Garay","Q5650096,Q713005,Q2937426",1977,,"Bradea 2: 196 1977",,,,854f8650-8fcd-11eb-924d-9cd76263cbd0,,219096-2,wfo-0000295891,5325427,,
+e9968394-8fd1-11eb-924d-9cd76263cbd0,genus,Rhamphogyne,,,S.Moore,0,,,"Unknown 1914, lii. 146.",,,,,,urn:lsid:ipni.org:names:10830-1,wfo-4000032880,3109167,,
+d03735b4-8fb9-11eb-924d-9cd76263cbd0,species,papuana,Rhamphogyne,,J.Kost.,0,1975,,"Blumea 22(2): 208 (1975)",,Q96027551,,,,urn:lsid:ipni.org:names:241370-1,wfo-0000121595,3138887,,
+0de1064a-8fb2-11eb-924d-9cd76263cbd0,species,rhynchocarpa,Rhamphogyne,,S.Moore,0,1914,,"Unknown 1914, lii. 146.",,,,,,urn:lsid:ipni.org:names:241371-1,wfo-0000008228,3109168,,

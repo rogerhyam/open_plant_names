@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2ea049e-8fd1-11eb-924d-9cd76263cbd0,genus,Discretitheca,,,P.D.Cantino,Q18983500,1998,,"Syst. Bot. 23(3): 379. 1998[1999].",,Q55765540,,,,1008756-1,wfo-4000012158,7309274,,
-81161b12-8fcd-11eb-924d-9cd76263cbd0,species,nepalensis,Discretitheca,,"(Moldenke) P.D.Cantino","Q3127627,Q18983500",1988,,"Syst. Bot. 23: 381 1988 publ. 1999",,Q55765540,,374b430e-8fcd-11eb-924d-9cd76263cbd0,,1008759-1,wfo-0000944678,7309275,,
-6ecf421c-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Discretitheca,nepalensis,"(Moldenke) V.S.Kumar","Q3127627,Q16941931",2007,,"Bull. Bot. Surv. India 49: 188 2007",,Q101073040,,,,77097896-1,wfo-0000912312,3903387,,
+e2ea049e-8fd1-11eb-924d-9cd76263cbd0,genus,Discretitheca,,,P.D.Cantino,0,1998,,"Syst. Bot. 23: 379 (1998 publ. 1999)",,Q55765540,,,,urn:lsid:ipni.org:names:1008756-1,wfo-4000012158,7309274,,
+81161b12-8fcd-11eb-924d-9cd76263cbd0,species,nepalensis,Discretitheca,,"(Moldenke) P.D.Cantino",0,1988,,"Syst. Bot. 23: 381 (1988 publ. 1999)",,Q55765540,,374b430e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1008759-1,wfo-0000944678,7309275,,
+6ecf421c-8fcd-11eb-924d-9cd76263cbd0,variety,parvifolia,Discretitheca,nepalensis,"(Moldenke) V.S.Kumar",0,2007,,"Bull. Bot. Surv. India 49: 188 (2007)",,Q101073040,,,,urn:lsid:ipni.org:names:77097896-1,wfo-0000912312,3903387,,

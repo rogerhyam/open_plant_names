@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8cf18e0-8fd1-11eb-924d-9cd76263cbd0,genus,Poecilocalyx,,,Bremek.,Q5171231,1940,,"Bot. Jahrb. Syst. 71: 220. 1940.",,,,,,,wfo-4000030533,2895578,,
-f93debc6-8fcb-11eb-924d-9cd76263cbd0,species,crystallinus,Poecilocalyx,,N.Hallé,Q3206449,1966,,"in Fl. Gabon 12: 232 1966",,,,,,760840-1,wfo-0000279421,2895586,,
-f93e348c-8fcb-11eb-924d-9cd76263cbd0,species,schumannii,Poecilocalyx,,Bremek.,Q5171231,1940,,"Bot. Jahrb. Syst. 71: 221 1940",,,,,,760841-1,wfo-0000279422,2895583,,
+e8cf18e0-8fd1-11eb-924d-9cd76263cbd0,genus,Poecilocalyx,,,Bremek.,0,1940,,"Bot. Jahrb. Syst. 71: 220 (1940)",,,,,,urn:lsid:ipni.org:names:35150-1,wfo-4000030533,2895578,,
+f93debc6-8fcb-11eb-924d-9cd76263cbd0,species,crystallinus,Poecilocalyx,,N.Hallé,0,1966,,"Fl. Gabon 12: 232 (1966)",,,,,,urn:lsid:ipni.org:names:760840-1,wfo-0000279421,2895586,,
+f93e348c-8fcb-11eb-924d-9cd76263cbd0,species,schumannii,Poecilocalyx,,Bremek.,0,1940,,"Bot. Jahrb. Syst. 71: 221 (1940)",,,,,,urn:lsid:ipni.org:names:760841-1,wfo-0000279422,2895583,,
 d7d5b7b4-8fcd-11eb-924d-9cd76263cbd0,species,setiflorus,Poecilocalyx,,Bremek,,,,,,,,,,,wfo-0001132533,2895584,,
-f93e74ba-8fcb-11eb-924d-9cd76263cbd0,species,setiflorus,Poecilocalyx,,"(R.D.Good) Bremek.","Q1989490,Q5171231",1940,,"Bot. Jahrb. Syst. 71: 221 1940",,,,,,760842-1,wfo-0000279424,2895584,,
-f93e933c-8fcb-11eb-924d-9cd76263cbd0,species,stipulosa,Poecilocalyx,,"(Hutch. & Dalziel) N.Hallé","Q253917,Q2917982,Q3206449",1964,,"Adansonia n.s., 4: 238 1964",,Q58837781,,,,760843-1,wfo-0000279425,2895579,,
+f93e74ba-8fcb-11eb-924d-9cd76263cbd0,species,setiflorus,Poecilocalyx,,"(R.D.Good) Bremek.",0,1940,,"Bot. Jahrb. Syst. 71: 221 (1940)",,,,,,urn:lsid:ipni.org:names:760842-1,wfo-0000279424,2895584,,
+f93e933c-8fcb-11eb-924d-9cd76263cbd0,species,stipulosa,Poecilocalyx,,"(Hutch. & Dalziel) N.Hallé",0,1964,,"Adansonia , n.s., 4: 238 (1964)",,Q58837781,,,,urn:lsid:ipni.org:names:760843-1,wfo-0000279425,2895579,,

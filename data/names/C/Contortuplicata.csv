@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2027f84-8fd1-11eb-924d-9cd76263cbd0,genus,Contortuplicata,,,,,,,,,,,,,,wfo-4000009196,7302390,,
-38c016b8-8fc5-11eb-924d-9cd76263cbd0,species,astragaloides,Contortuplicata,,Medik.,Q77464,,,,,,,,,,wfo-0000191964,2936151,,
-d22eee12-8fcc-11eb-924d-9cd76263cbd0,species,campylotricha,Contortuplicata,,"(Bunge) Nevski","Q65899,Q664994",1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 259 1937",,,,,,486937-1,wfo-0000619610,3974499,,
-02965caa-8fc5-11eb-924d-9cd76263cbd0,species,contortuplicata,Contortuplicata,,"(L.) Rydb.","Q1043,Q1905130",,,,,,,,,,wfo-0000190950,2936152,,
+e2027f84-8fd1-11eb-924d-9cd76263cbd0,genus,Contortuplicata,,,Medik.,,,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 378 (1787)",,,,,,urn:lsid:ipni.org:names:22074-1,wfo-4000009196,7302390,,
+38c016b8-8fc5-11eb-924d-9cd76263cbd0,species,astragaloides,Contortuplicata,,Medik.,0,,,"Vorles. Churpfälz. Phys.-Ökon. Ges. 2: 378 (1787)",,,,,,urn:lsid:ipni.org:names:486936-1,wfo-0000191964,2936151,,
+d22eee12-8fcc-11eb-924d-9cd76263cbd0,species,campylotricha,Contortuplicata,,"(Bunge) Nevski",0,1937,,"Trudy Bot. Inst. Akad. Nauk S.S.S.R., Ser. 1, Fl. Sist. Vyssh. Rast. 4: 259 (1937)",,,,,,urn:lsid:ipni.org:names:486937-1,wfo-0000619610,3974499,,
+02965caa-8fc5-11eb-924d-9cd76263cbd0,species,contortuplicata,Contortuplicata,,"(L.) Rydb.",0,,,"N. Amer. Fl. 24: 416 (1929)",,,,,,urn:lsid:ipni.org:names:64453-2,wfo-0000190950,2936152,,

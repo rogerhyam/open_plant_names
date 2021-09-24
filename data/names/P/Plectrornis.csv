@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b14b1c-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrornis,,,"Raf. ex Lunell","Q364857,Q3019197",1916,,"Amer. Midl. Naturalist 4: 361. 1916.",,,,,,,wfo-4000030216,7278111,,
-d6d35b8c-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Plectrornis,,"(Rydb.) Lunell","Q1905130,Q3019197",1916,,"Amer. Midl. Naturalist 4: 361 1916",,Q55773092,,de015e3c-8fcc-11eb-924d-9cd76263cbd0,,202025-2,wfo-0001130186,3930103,,
-d6d3c8c4-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Plectrornis,,"(Nutt.) Lunell","Q728337,Q3019197",1916,,"Amer. Midl. Naturalist 4: 362 1916",,Q55773092,,,,711916-1,wfo-0001130190,7278114,,
-d6d3e2dc-8fcd-11eb-924d-9cd76263cbd0,variety,montanense,Plectrornis,bicolor,"(Rydb.) Lunell","Q1905130,Q3019197",1916,,"Amer. Midl. Naturalist 4: 362 1916",,Q55773092,,,,202026-2,wfo-0001130191,3930092,,
-78d3eb38-8fcc-11eb-924d-9cd76263cbd0,species,virescens,Plectrornis,,Lunell,Q3019197,1918,,"Amer. Midl. Naturalist 5: 235 1918",,Q55773026,,,,202027-2,wfo-0000471968,3930066,,
+e8b14b1c-8fd1-11eb-924d-9cd76263cbd0,genus,Plectrornis,,,"Raf. ex Lunell",0,1916,,"Amer. Midl. Naturalist 4: 361 (1916)",,,,,,urn:lsid:ipni.org:names:33221-1,wfo-4000030216,7278111,,
+d6d35b8c-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Plectrornis,,Lunell,0,1916,,"Amer. Midl. Naturalist 4: 361 (1916)",,Q55773092,,de015e3c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:202025-2,wfo-0001130186,3930103,,
+d6d3c8c4-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Plectrornis,,"(Nutt.) Lunell",0,1916,,"Amer. Midl. Naturalist 4: 362 (1916)",,Q55773092,,,,urn:lsid:ipni.org:names:711916-1,wfo-0001130190,7278114,,
+d6d3e2dc-8fcd-11eb-924d-9cd76263cbd0,variety,montanense,Plectrornis,bicolor,Lunell,0,1916,,"Amer. Midl. Naturalist 4: 362. 1916",,Q55773092,,,,urn:lsid:ipni.org:names:202026-2,wfo-0001130191,3930092,,
+764d9d96-1d4d-11ec-82c2-f14daa6f2d93,variety,montanensis,Plectrornis,bicolor,"(Rydb.) Lunell",,,,,,,,,,urn:lsid:ipni.org:names:1155091-2,wfo-0001392190,,,
+78d3eb38-8fcc-11eb-924d-9cd76263cbd0,species,virescens,Plectrornis,,Lunell,0,1918,,"Amer. Midl. Naturalist 5: 235 (1918)",,Q55773026,,,,urn:lsid:ipni.org:names:202027-2,wfo-0000471968,3930066,,

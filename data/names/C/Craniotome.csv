@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2204ea6-8fd1-11eb-924d-9cd76263cbd0,genus,Craniotome,,,Rchb.,Q58053,1825,,"Iconogr. Bot. Exot. 1: 39. 1825.",,,,,,20776-1,wfo-4000009558,7309581,,
-78e4ac88-8fcd-11eb-924d-9cd76263cbd0,species,furcata,Craniotome,,"(Link) Kuntze","Q215466,Q62853",1891,,"Revis. Gen. Pl. 2: 516 1891",,,,7c3cc1ae-8fcd-11eb-924d-9cd76263cbd0,,446283-1,wfo-0000926706,3905818,,
-7675df08-8fcd-11eb-924d-9cd76263cbd0,variety,sikkimensis,Craniotome,furcata,"D.Maity & Maiti","Q21391531,Q21391541",,,"J. Econ. Taxon. Bot. 27(Suppl.): 1240 2003",,,,,,,wfo-0000922879,8295757,,
-7675c2f2-8fcd-11eb-924d-9cd76263cbd0,variety,urceolata,Craniotome,furcata,"D.Maity & Maiti","Q21391531,Q21391541",,,"J. Econ. Taxon. Bot. 27(Suppl.): 1242 2003",,,,,,60455411-2,wfo-0000922878,8271775,,
-78e4d71c-8fcd-11eb-924d-9cd76263cbd0,species,mauritianum,Craniotome,,"(Pers.) Bojer","Q346451,Q637799",1837,,"Hortus Maurit. 249 1837",,,,,,446284-1,wfo-0000926707,3905810,,
-78e51862-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,Craniotome,,Rchb.,Q58053,1825,,"Iconogr. Bot. Exot. 1: 39 1825",,,,,,446285-1,wfo-0000926708,3905801,,
+e2204ea6-8fd1-11eb-924d-9cd76263cbd0,genus,Craniotome,,,Rchb.,0,1825,,"Iconogr. Bot. Exot. 1: 39 (1825)",,,,,,urn:lsid:ipni.org:names:20776-1,wfo-4000009558,7309581,,
+78e4ac88-8fcd-11eb-924d-9cd76263cbd0,species,furcata,Craniotome,,"(Link) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 516 (1891)",,,,7c3cc1ae-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:446283-1,wfo-0000926706,3905818,,
+7675df08-8fcd-11eb-924d-9cd76263cbd0,variety,sikkimensis,Craniotome,furcata,"D.Maity & Maiti",0,,,"J. Econ. Taxon. Bot. 27(Suppl.): 1240 (2003)",,,,,,urn:lsid:ipni.org:names:60455410-2,wfo-0000922879,8295757,,
+7675c2f2-8fcd-11eb-924d-9cd76263cbd0,variety,urceolata,Craniotome,furcata,"D.Maity & Maiti",0,,,"J. Econ. Taxon. Bot. 27(Suppl.): 1242 (2003)",,,,,,urn:lsid:ipni.org:names:60455411-2,wfo-0000922878,8271775,,
+78e4d71c-8fcd-11eb-924d-9cd76263cbd0,species,mauritianum,Craniotome,,Bojer,0,1837,,"Hortus Maurit. : 249 (1837)",,,,,,urn:lsid:ipni.org:names:446284-1,wfo-0000926707,3905810,,
+78e51862-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,Craniotome,,Rchb.,0,1825,,"Iconogr. Bot. Exot. 1: 39 (1825)",,,,,,urn:lsid:ipni.org:names:446285-1,wfo-0000926708,3905801,,

@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df718f94-8fd1-11eb-924d-9cd76263cbd0,genus,Angelopogon,,,"Poepp. ex Tiegh.","Q61501,Q2421500",1896,,"Bull. Soc. Bot. France 43: 558. 1896.",,,,,,,wfo-4000002092,,,
-9ed8b5ac-8fcc-11eb-924d-9cd76263cbd0,species,linearifolium,Angelopogon,,"(DC.) Poepp. ex Tiegh.","Q123057,Q61501,Q2421500",1896,,"Bull. Soc. Bot. France 43: 558 1896",,Q55756807,,,,780005-1,wfo-0000536522,3788590,,
+df718f94-8fd1-11eb-924d-9cd76263cbd0,genus,Angelopogon,,,"Poepp. ex Poepp. & Endl.",0,1896,,"Nov. Gen. Sp. Pl. 1: 1 (1835)",,,,,,urn:lsid:ipni.org:names:36158-1,wfo-4000002092,,,
+5a362cc2-1d4d-11ec-82c2-f14daa6f2d93,species,heterophyllus,Angelopogon,,"Poepp. ex Skottsb.",,,,"Pflanzenr. (Engler) Myzodendrac. 12, in syn. 1914 [10 Nov 1914]",,,,,,urn:lsid:ipni.org:names:602821-1,wfo-0001354049,,,
+9ed8b5ac-8fcc-11eb-924d-9cd76263cbd0,species,linearifolium,Angelopogon,,"Poepp. ex Tiegh.",0,1896,,"Bull. Soc. Bot. France 43: 558. 1897 [1896 publ. 1897]",,Q55756807,,,,urn:lsid:ipni.org:names:780005-1,wfo-0000536522,3788590,,

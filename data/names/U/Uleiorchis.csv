@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebc3b862-8fd1-11eb-924d-9cd76263cbd0,genus,Uleiorchis,,,Hoehne,Q5499235,1944,,"Arq. Bot. Estado São Paulo 1(6): 129, t. 144, f. 3. 1944.",,,,,,289091-2,wfo-4000039718,2797247,,
-18a2f8b2-8fcc-11eb-924d-9cd76263cbd0,species,cogniauxiana,Uleiorchis,,Hoehne,Q5499235,1944,,"Arq. Bot. Estado São Paulo n.s., f.m., 1: 129 1944",,,,,,660955-1,wfo-0000329174,2797250,,
-18a31af4-8fcc-11eb-924d-9cd76263cbd0,species,liesneri,Uleiorchis,,"Carnevali & I.Ramírez","Q8963925,Q5923605",1993,,"Novon 3: 105 1993",,Q56192821,,,,305315-2,wfo-0000329175,2797251,,
-18a335f2-8fcc-11eb-924d-9cd76263cbd0,species,ulei,Uleiorchis,,"(Cogn.) Handro","Q655719,Q7108194",1958,,"Arq. Bot. Estado São Paulo n.s., f.m., 3: 175 1958",,,,,,259333-2,wfo-0000329176,2797248,,
+ebc3b862-8fd1-11eb-924d-9cd76263cbd0,genus,Uleiorchis,,,Hoehne,0,1944,,"Arq. Bot. Estado São Paulo , n.s., f.m., 1: 129 (1944)",,,,,,urn:lsid:ipni.org:names:289091-2,wfo-4000039718,2797247,,
+18a2f8b2-8fcc-11eb-924d-9cd76263cbd0,species,cogniauxiana,Uleiorchis,,Hoehne,0,1944,,"Arq. Bot. Estado São Paulo , n.s., f.m., 1: 129 (1944)",,,,,,urn:lsid:ipni.org:names:660955-1,wfo-0000329174,2797250,,
+18a31af4-8fcc-11eb-924d-9cd76263cbd0,species,liesneri,Uleiorchis,,"Carnevali & I.Ramírez",0,1993,,"Novon 3: 105 (1993)",,Q56192821,,,,urn:lsid:ipni.org:names:305315-2,wfo-0000329175,2797251,,
+3f032a4a-1d4d-11ec-82c2-f14daa6f2d93,species,longipedicellata,Uleiorchis,,"A.Cardoso & Ilk.-Borg.",,,,"Phytotaxa 205: 118 (2015)",,,,,,urn:lsid:ipni.org:names:77146854-1,wfo-0001317332,,,
+5143fa0e-1d4d-11ec-82c2-f14daa6f2d93,species,prataensis,Uleiorchis,,"Engels & E.C.Smidt",,,,"Phytotaxa 197: 262 (2015)",,,,,,urn:lsid:ipni.org:names:77146193-1,wfo-0001342063,,,
+3f03527c-1d4d-11ec-82c2-f14daa6f2d93,species,pratënsis,Uleiorchis,,"M.E.Engels & E.C.Smidt",,,,,,,,,,,wfo-0001317333,,,
+18a335f2-8fcc-11eb-924d-9cd76263cbd0,species,ulei,Uleiorchis,,"(Cogn.) Handro",0,1958,,"Arq. Bot. Estado São Paulo , n.s., f.m., 3: 175 (1958)",,,,,,urn:lsid:ipni.org:names:259333-2,wfo-0000329176,2797248,,

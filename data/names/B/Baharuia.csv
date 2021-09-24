@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e004e870-8fd1-11eb-924d-9cd76263cbd0,genus,Baharuia,,,D.J.Middleton,Q8354130,1995,,"Blumea 40(2): 445. 1995.",,Q96030685,,,,986035-1,wfo-4000003886,7316752,,
-0dbd6cc0-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Baharuia,,Mabb.,Q5236979,1995,,"Blumea 40: 445 1995",,,,,,,wfo-0000311894,7497002,,
-ac7bb358-8fcc-11eb-924d-9cd76263cbd0,species,schulli,Bahel,,Ham.,Q15443,1824,,"Trans. Linn. Soc. London 14: 289 1824",,Q55758787,,,,60448469-2,wfo-0000558485,3774336,,
+e004e870-8fd1-11eb-924d-9cd76263cbd0,genus,Baharuia,,,D.J.Middleton,0,1995,,"Blumea 40: 445 (1995)",,Q96030685,,,,urn:lsid:ipni.org:names:986035-1,wfo-4000003886,7316752,,
+0dbd6cc0-8fcc-11eb-924d-9cd76263cbd0,species,gracilis,Baharuia,,D.J.Middleton,0,1995,,"Blumea 40: 445 (1995)",,,,,,urn:lsid:ipni.org:names:986036-1,wfo-0000311894,7497002,,
+ac7bb358-8fcc-11eb-924d-9cd76263cbd0,species,schulli,Bahel,,Buch.-Ham.,0,1824,,"Trans. Linn. Soc. London 14: 289. 1825",,Q55758787,,,,urn:lsid:ipni.org:names:60448469-2,wfo-0000558485,3774336,,

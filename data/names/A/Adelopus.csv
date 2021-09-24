@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 619671ac-9bac-11eb-a8a2-19ed5c03f8d3,genus,Adelopus,,,Theiss.,,1918,,"Annls mycol. 15(6): 482 (1918)",,,,619671ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,80," "
-9d9cf112-9bac-11eb-a8a2-19ed5c03f8d3,species,balsamicola,Adelopus,,"(Peck) Theiss.",Q1064899,,,,,,,5430e498-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218769," "
-5795ec82-9bac-11eb-a8a2-19ed5c03f8d3,form,balsamicola,Adelopus,balsamicola,"(Peck) Theiss.",Q1064899,,,,,,,5795ec82-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420257," "
+9d9cf112-9bac-11eb-a8a2-19ed5c03f8d3,species,balsamicola,Adelopus,,"(Peck) Theiss.",0,,,,,,,5430e498-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218769," "
+5795ec82-9bac-11eb-a8a2-19ed5c03f8d3,form,balsamicola,Adelopus,balsamicola,"(Peck) Theiss.",0,,,,,,,5795ec82-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420257," "
 440712e0-9bac-11eb-a8a2-19ed5c03f8d3,form,douglasii,Adelopus,balsamicola,"J. Steiner",,,,,,,,440712e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,137814," "
 0ee98ee4-9bac-11eb-a8a2-19ed5c03f8d3,species,gaeumanni,Adelopus,,"T. Rohde",,,,,,,,0ee98ee4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,170496," Adelopus gaeumannii"
 daa36014-9bac-11eb-a8a2-19ed5c03f8d3,species,gaeumannii,Adelopus,,"T. Rohde",,,,,,,,daa36014-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265727," gaeumanni"
-6710d370-9bac-11eb-a8a2-19ed5c03f8d3,species,nudus,Adelopus,,"(Peck) Theiss.",Q1064899,1914,,"Annls mycol. 12: 72 (1914)",,,,55eda55a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431400,"  earlier comb. by Höhnel ?"
-215f0ff8-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Adelosa,,Blume,Q76816,1849,,"Ann. Mus. Bot. Lugduno-Batavi 1: 176 1849",,,,,,,wfo-0000762439,3893677,,
+6710d370-9bac-11eb-a8a2-19ed5c03f8d3,species,nudus,Adelopus,,"(Peck) Theiss.",0,1914,,"Annls mycol. 12: 72 (1914)",,,,55eda55a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,431400,"  earlier comb. by Höhnel ?"
+215f0ff8-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Adelosa,,Blume,0,1849,,"Ann. Mus. Bot. Lugduno-Batavi 1: 176 (1849)",,,,,,urn:lsid:ipni.org:names:860794-1,wfo-0000762439,3893677,,

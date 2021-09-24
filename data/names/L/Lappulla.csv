@@ -1,3 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e590ce94-8fd1-11eb-924d-9cd76263cbd0,genus,Lappulla,,,,,,,,,,,,,,wfo-4000020595,7295208,,
-2c636954-8fcc-11eb-924d-9cd76263cbd0,species,baitenovii,Lappulla,,Kudab.,Q21517998,1983,,"Bot. Mater. Gerb. Inst. Bot. Akad. Nauk Kazakhsk. S.S.R. 13: 58 1983",,,,,,902321-1,wfo-0000361509,4064931,,
+e590ce94-8fd1-11eb-924d-9cd76263cbd0,genus,Lappulla,,,,,,,,,,,,,urn:lsid:ipni.org:names:50896758-1,wfo-4000020595,7295208,,
+2c636954-8fcc-11eb-924d-9cd76263cbd0,species,baitenovii,Lappulla,,Kudab.,0,1983,,"Bot. Mater. Gerb. Bot. Inst. Bot. Acad. Nauk Kazakhsk. S.S.R. 13: 58 (1983).",,,,,,urn:lsid:ipni.org:names:902321-1,wfo-0000361509,4064931,,
+886b5fe0-1d4d-11ec-82c2-f14daa6f2d93,variety,minor,Lapranthus,curvifolius,"(Salm-Dyck) G.D.Rowley",,,,"in Natl. Cact. Succ. J. 13: 77. 1958.",,,,,,,wfo-0001435436,,,
+886b8ee8-1d4d-11ec-82c2-f14daa6f2d93,variety,puniceus,Lapranthus,emarginatus,"(Jacq.) Schwantes",,,,"in Repert. Spec. Nov. Regni Veg. Beih. 106: 97. 1938.",,,,,,,wfo-0001435437,,,
+886bb832-1d4d-11ec-82c2-f14daa6f2d93,species,gracilipes,Lapranthus,,"(L.Bolus) L.Bolus",,,,"Notes Mesembryanthemum 3: 169. 1939.",,,,,,,wfo-0001435438,,,
+886be2a8-1d4d-11ec-82c2-f14daa6f2d93,form,luxurians,Lapranthus,gracilipes,L.Bolus,,,,"in J. S. African Bot. 32: 232. 1966.",,,,,,,wfo-0001435439,,,

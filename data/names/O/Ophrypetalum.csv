@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7973426-8fd1-11eb-924d-9cd76263cbd0,genus,Ophrypetalum,,,Diels,Q77123,1936,,"Notizbl. Bot. Gart. Berlin–Dahlem 13: 269. 1936.",,Q55777693,,,,2090-1,wfo-4000026967,3154867,,
-b9ee7b6e-8fcd-11eb-924d-9cd76263cbd0,species,odoratum,Ophrypetalum,,Diels,Q77123,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 270 1936",,Q55777693,,,,74194-1,wfo-0001066269,3154868,,
+e7973426-8fd1-11eb-924d-9cd76263cbd0,genus,Ophrypetalum,,,Diels,0,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 269 (1936)",,Q55777693,,,,urn:lsid:ipni.org:names:2090-1,wfo-4000026967,3154867,,
+b9ee7b6e-8fcd-11eb-924d-9cd76263cbd0,species,odoratum,Ophrypetalum,,Diels,0,1936,,"Notizbl. Bot. Gart. Berlin-Dahlem 13: 270 (1936)",,Q55777693,,,,urn:lsid:ipni.org:names:74194-1,wfo-0001066269,3154868,,
+a5cc2642-1d4c-11ec-82c2-f14daa6f2d93,subspecies,odoratum,Ophrypetalum,odoratum,,,,,,,,,,,,wfo-0001066270,,,

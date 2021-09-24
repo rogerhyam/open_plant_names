@@ -1,14 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9e72b30a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Chrysella,,,Syd.,,1926,,"Annls mycol. 24: 292 (1926)",,,,9e72b30a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,16057," "
 dec6bb96-9bac-11eb-a8a2-19ed5c03f8d3,species,mikaniae,Chrysella,,Syd.,,1926,,"Annls mycol. 24: 292 (1926)",,,,dec6bb96-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271175," "
-cce6b692-8fd1-11eb-924d-9cd76263cbd0,species,biflorum,Chrysion,,"(L.) Spach","Q1043,Q274449",1836,,"Hist. Nat. Veg. 5: 510 1836",,,,82039b6a-8fc0-11eb-924d-9cd76263cbd0,,866512-1,wfo-0001277884,4076386,,
-df659d56-8fcc-11eb-924d-9cd76263cbd0,species,aurantiaca,Chrysiphiala,,"(Kunth) Schult. & Schult.f.","Q77074,Q78881,Q78745",1830,,"Syst. Veg. 7: 904 1830",,,,,,63610-1,wfo-0000642244,2859402,,
-df65b836-8fcc-11eb-924d-9cd76263cbd0,species,coccinea,Chrysiphiala,,"(Ruiz & Pav.) Ker Gawl.","Q733976,Q332058,Q1699308",1821,,"Bot. Reg. 7: t. 778 1821",,,,,,,wfo-0000642245,2854961,,
-df661290-8fcc-11eb-924d-9cd76263cbd0,species,flava,Chrysiphiala,,"(Ruiz & Pav.) Ker Gawl.","Q733976,Q332058,Q1699308",1824,,"Bot. Reg. 10: t. 778 1824",,,,,,63613-1,wfo-0000642248,7884583,,
-df67964c-8fcc-11eb-924d-9cd76263cbd0,species,incarnata,Chrysiphiala,,"(Kunth) Schult. & Schult.f.","Q77074,Q78881,Q78745",1830,,"Syst. Veg. 7: 908 1830",,,,,,63614-1,wfo-0000642252,2855011,,
-df67b492-8fcc-11eb-924d-9cd76263cbd0,species,latifolia,Chrysiphiala,,"(Mill.) Ker Gawl.","Q312678,Q1699308",1821,,"Bot. Reg. 7: t. 778 1821",,,,,,,wfo-0000642253,2860281,,
-df67d0e4-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Chrysiphiala,,"Lindl. ex Hook.","Q378629,Q472639",1824,,"Exot. Fl. 2: t. 132 1824",,,,,,63616-1,wfo-0000642254,2859426,,
-df680582-8fcc-11eb-924d-9cd76263cbd0,species,recurvata,Chrysiphiala,,"(Ruiz & Pav.) Ker Gawl.","Q733976,Q332058,Q1699308",1821,,"Bot. Reg. 7: t. 778 1821",,,,,,,wfo-0000642256,7817922,,
-df683ee4-8fcc-11eb-924d-9cd76263cbd0,species,trichroma,Chrysiphiala,,"(Cerv.) Schult. & Schult.f.","Q920680,Q78881,Q78745",1830,,"Syst. Veg. 7: 907 1830",,,,,,63618-1,wfo-0000642258,2855023,,
-df689074-8fcc-11eb-924d-9cd76263cbd0,species,variegata,Chrysiphiala,,"(Ruiz & Pav.) Schult. & Schult.f.","Q733976,Q332058,Q78881,Q78745",1830,,"Syst. Veg. 7: 907 1830",,,,,,63619-1,wfo-0000642261,2854992,,
-df68aabe-8fcc-11eb-924d-9cd76263cbd0,species,viridiflora,Chrysiphiala,,"(Ruiz & Pav.) Schult. & Schult.f.","Q733976,Q332058,Q78881,Q78745",1830,,"Syst. Veg. 7: 908 1830",,,,b9fb58ca-8fcd-11eb-924d-9cd76263cbd0,,63620-1,wfo-0000642262,2855030,,
+cce6b692-8fd1-11eb-924d-9cd76263cbd0,species,biflorum,Chrysion,,"(L.) Spach",0,1836,,"Hist. Nat. Vég. 5: 510 (1836)",,,,82039b6a-8fc0-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:866512-1,wfo-0001277884,4076386,,

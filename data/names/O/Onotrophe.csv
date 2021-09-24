@@ -1,8 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e791b366-8fd1-11eb-924d-9cd76263cbd0,genus,Onotrophe,,,,,,,,,,,,,,wfo-4000026894,7339014,,
-a27aba6a-8fb4-11eb-924d-9cd76263cbd0,species,acaulis,Onotrophe,,Cass.,Q958431,1825,,"in Dict. Sc. Nat. xxxvi. 146 (1825).",,,,,,235462-1,wfo-0000067788,4255299,,
-6e1944a0-8fb2-11eb-924d-9cd76263cbd0,species,oleracea,Onotrophe,,"(L.) Cass.","Q1043,Q958431",1825,,"in Dict. Sc. Nat. xxxvi. 146 (1825).",,,,,,235463-1,wfo-0000024294,4255293,,
-b351434c-8fb2-11eb-924d-9cd76263cbd0,species,palustris,Onotrophe,,Cass.,Q958431,1825,,"in Dict. Sc. Nat. xxxvi. 146 (1825).",,,,,,235464-1,wfo-0000032201,4255289,,
-462bc01a-8fcd-11eb-924d-9cd76263cbd0,variety,pubescens,ontanense,montanense,Bowden,Q21339686,1958,,"Canad. J. Bot. 36: 113 1958",,,,,,,wfo-0000841186,,,
-4611856a-8fcd-11eb-924d-9cd76263cbd0,species,ontariensis,,,Lepage,Q5836715,1952,,"Naturaliste Canad. 79: 254 1952",,,,,,384795-1,wfo-0000840973,,,
-cd88809e-8fd1-11eb-924d-9cd76263cbd0,species,ontariensis,,,"(Lepage) Barkworth","Q5836715,Q2918786",2006,,"Sida 22(1): 497 2006",,Q91203183,,4611856a-8fcd-11eb-924d-9cd76263cbd0,,60443113-2,wfo-0001279014,,,
+e791b366-8fd1-11eb-924d-9cd76263cbd0,genus,Onotrophe,,,Cass.,,,,"Dict. Sci. Nat., ed. 2. 36: 145 (1825)",,,,,,urn:lsid:ipni.org:names:10285-1,wfo-4000026894,7339014,,
+a27aba6a-8fb4-11eb-924d-9cd76263cbd0,species,acaulis,Onotrophe,,"(L.) Cass.",0,1825,,"Dict. Sci. Nat., ed. 2. 36: 146 (1825)",,,,,,urn:lsid:ipni.org:names:235462-1,wfo-0000067788,4255299,,
+6e1944a0-8fb2-11eb-924d-9cd76263cbd0,species,oleracea,Onotrophe,,Cass.,0,1825,,"Dict. Sci. Nat., ed. 2. 36: 146 (1825)",,,,,,urn:lsid:ipni.org:names:235463-1,wfo-0000024294,4255293,,
+b351434c-8fb2-11eb-924d-9cd76263cbd0,species,palustris,Onotrophe,,Cass.,0,1825,,"Dict. Sci. Nat., ed. 2. 36: 146 (1825)",,,,,,urn:lsid:ipni.org:names:235464-1,wfo-0000032201,4255289,,

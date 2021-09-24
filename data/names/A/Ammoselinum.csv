@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df3780f6-8fd1-11eb-924d-9cd76263cbd0,genus,Ammoselinum,,,"Torr. & A.Gray","Q1346660,Q347356",1855,,"Pacif. Railr. Rep. 2(4): 165. 1855[1857].",,,,,,39652-1,wfo-4000001633,3034502,,
-9ba2ce72-8fcc-11eb-924d-9cd76263cbd0,species,butleri,Ammoselinum,,"(Engl.) J.M.Coult. & Rose","Q60718,Q1701075,Q1336049",1887,,"Bot. Gaz. 12: 294 1887",,Q55758320,,,,11365-2,wfo-0000531212,3034504,,
-9ba2e934-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Ammoselinum,,"J.M.Coult. & Rose","Q1701075,Q1336049",1900,,"Contr. U. S. Natl. Herb. 7: 89 1900",,,,,,11366-2,wfo-0000531213,3034503,,
-9ba3a874-8fcc-11eb-924d-9cd76263cbd0,species,occidentale,Ammoselinum,,"Munz & I.M.Johnst.","Q4280785,Q729850",1925,,"Bull. Torrey Bot. Club 52: 224 1925",,Q55767147,,,,11367-2,wfo-0000531215,3631422,,
-9ba43456-8fcc-11eb-924d-9cd76263cbd0,species,popei,Ammoselinum,,"Torr. & A.Gray","Q1346660,Q347356",1857,,"Pacif. Railr. Rep. Parke, Bot. 2: 165 1857",,,,,,837515-1,wfo-0000531216,3034505,,
-9ba453a0-8fcc-11eb-924d-9cd76263cbd0,species,rosengurtii,Ammoselinum,,"Mathias & Constance","Q4284790,Q4231273",1950,,"Bull. Torrey Bot. Club 77: 133 1950",,Q55767674,,,,11368-2,wfo-0000531217,,,
+df3780f6-8fd1-11eb-924d-9cd76263cbd0,genus,Ammoselinum,,,"Torr. & A.Gray",0,1855,,"Pacif. Railr. Rep. Pope, Bot. 2(4): 165 (1857)",,,,,,urn:lsid:ipni.org:names:39652-1,wfo-4000001633,3034502,,
+9ba2ce72-8fcc-11eb-924d-9cd76263cbd0,species,butleri,Ammoselinum,,"J.M.Coult. & Rose",0,1887,,"Bot. Gaz. 12: 294 (1887)",,Q55758320,,,,urn:lsid:ipni.org:names:11365-2,wfo-0000531212,3034504,,
+9ba2e934-8fcc-11eb-924d-9cd76263cbd0,species,giganteum,Ammoselinum,,"J.M.Coult. & Rose",0,1900,,"Contr. U.S. Natl. Herb. 7: 89 (1900)",,,,,,urn:lsid:ipni.org:names:11366-2,wfo-0000531213,3034503,,
+9ba3a874-8fcc-11eb-924d-9cd76263cbd0,species,occidentale,Ammoselinum,,"Munz & I.M.Johnst.",0,1925,,"Bull. Torrey Bot. Club 52: 224 (1925)",,Q55767147,,,,urn:lsid:ipni.org:names:11367-2,wfo-0000531215,3631422,,
+9ba43456-8fcc-11eb-924d-9cd76263cbd0,species,popei,Ammoselinum,,"Torr. & A.Gray",0,1857,,"Pacif. Railr. Rep. Pope, Bot. 2(4): 165 (1857)",,,,,,urn:lsid:ipni.org:names:837515-1,wfo-0000531216,3034505,,
+9ba453a0-8fcc-11eb-924d-9cd76263cbd0,species,rosengurtii,Ammoselinum,,"Mathias & Constance",0,1950,,"Bull. Torrey Bot. Club 77: 133 (1950)",,Q55767674,,,,urn:lsid:ipni.org:names:11368-2,wfo-0000531217,,,

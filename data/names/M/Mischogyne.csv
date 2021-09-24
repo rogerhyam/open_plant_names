@@ -1,5 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6c873d4-8fd1-11eb-924d-9cd76263cbd0,genus,Mischogyne,,,Exell,Q2865378,1932,,"J. Bot. 70(Suppl. 1): 213. 1932.",,,,,,2074-1,wfo-4000024396,3156547,,
-337e50be-8fcc-11eb-924d-9cd76263cbd0,species,elliotianum,Mischogyne,,"(Engl. & Diels) R.E.Fr.","Q60718,Q77123,Q15414",1955,,"Ark. Bot. n.s., 3: 37 1955",,,,,,73966-1,wfo-0000372997,3156548,,
+e6c873d4-8fd1-11eb-924d-9cd76263cbd0,genus,Mischogyne,,,Exell,0,1932,,"J. Bot. 70(Suppl. 1): 213 (1932)",,,,,,urn:lsid:ipni.org:names:2074-1,wfo-4000024396,3156547,,
+5a6c61f2-1d4d-11ec-82c2-f14daa6f2d93,species,congensis,Mischogyne,,Gosline,,,,"Kew Bull. 74(2)-28: 8. 2019 [2 Jul 2019] [epublished]",,,,,,urn:lsid:ipni.org:names:60478273-2,wfo-0001354342,,,
+5ced894c-1d4d-11ec-82c2-f14daa6f2d93,species,congensis,Mischogyne,,Gosline,,,,"Kew Bull. 74(1):. 2019",,,,,,urn:lsid:ipni.org:names:60478272-2,wfo-0001357808,,,
+337e50be-8fcc-11eb-924d-9cd76263cbd0,species,elliotiana,Mischogyne,,"(Engl. & Diels) Le Thomas",0,1955,,"Fl. Gabon 16: 285 (1969)",,,,,,urn:lsid:ipni.org:names:73966-1,wfo-0000372997,3156548,,
+a597c9e2-1d4c-11ec-82c2-f14daa6f2d93,variety,elliotianum,Mischogyne,elliotianum,,,,,,,,,,,,wfo-0001065953,,,
 b9cbd0f0-8fcd-11eb-924d-9cd76263cbd0,variety,gabonensis,Mischogyne,elliotianum,"Pellegrin Ex Le Thom",,,,,,,,,,,wfo-0001065954,,,
-337d9fb6-8fcc-11eb-924d-9cd76263cbd0,species,michelioides,Mischogyne,,Exell,Q2865378,1932,,"J. Bot. 70(Suppl. 1): 213 1932",,,,,,73967-1,wfo-0000372991,3156553,,
+5a6c87f4-1d4d-11ec-82c2-f14daa6f2d93,species,gabonensis,Mischogyne,,"(Pellegr. ex Le Thomas) Gosline",,,,"Kew Bull. 74(2)-28: 13. 2019 [2 Jul 2019] [epublished]",,,,,,urn:lsid:ipni.org:names:60478275-2,wfo-0001354343,,,
+5a7240ae-1d4d-11ec-82c2-f14daa6f2d93,species,iddii,Mischogyne,,"Gosline & A.R.Marshall",,,,"Kew Bull. 74(2)-28: 14. 2019 [2 Jul 2019] [epublished]",,,,,,urn:lsid:ipni.org:names:60478312-2,wfo-0001354377,,,
+337d9fb6-8fcc-11eb-924d-9cd76263cbd0,species,michelioides,Mischogyne,,Exell,0,1932,,"J. Bot. 70(Suppl. 1): 213 (1932)",,,,,,urn:lsid:ipni.org:names:73967-1,wfo-0000372991,3156553,,

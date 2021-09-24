@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb82e06c-8fd1-11eb-924d-9cd76263cbd0,genus,Triceros,,,,,,,,,,,,,,wfo-4000038917,,,
-dba4e5f4-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Triceros,,Lour.,Q729917,1790,,"Fl. Cochinch. 1: 184 1790",,,,,,435696-1,wfo-0001140507,5550167,,
-4edd022e-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Triceros,,"(Thunb.) Baill.","Q39658,Q461931",1874,,"Hist. Pl. 5: 343 1874",,,,,,71833-1,wfo-0000409300,5550158,,
-714168d2-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Triceros,,M.Gómez,Q3286846,1894,,"Anales Soc. Esp. Hist. Nat. 23: 63 1894",,,,,,256701-2,wfo-0000459651,5550153,,
-4edc85e2-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Triceros,,"(Vent.) M.Gómez","Q290065,Q3286846",1889,,"Dicc. Bot. Nom. Vulg. Cub. & Puerto-Riquenos 65 1889",,,,,,256702-2,wfo-0000409298,8757760,,
-524a7658-8fcc-11eb-924d-9cd76263cbd0,species,xalapensis,Triceros,,Spreng.,Q62829,1824,,"Syst. Veg. 1: 947 1824",,,,,,435697-1,wfo-0000413583,5550199,,
+eb82e06c-8fd1-11eb-924d-9cd76263cbd0,genus,Triceros,,,Griff.,,,,"Not. Pl. Asiat. 4: 606 (1854)",,,,,,urn:lsid:ipni.org:names:13431-1,wfo-4000038917,,,
+dba4e5f4-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Triceros,,Lour.,0,1790,,"Fl. Cochinch. : 184 (1790)",,,,,,urn:lsid:ipni.org:names:435696-1,wfo-0001140507,5550167,,
+4edd022e-8fcc-11eb-924d-9cd76263cbd0,species,japonica,Triceros,,"(Thunb.) Baill.",0,1874,,"Hist. Pl. (Baillon) 5: 343. 1874 [Dec 1874]",,,,,,urn:lsid:ipni.org:names:71833-1,wfo-0000409300,5550158,,
+714168d2-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Triceros,,M.Gómez,0,1894,,"Anales Soc. Esp. Hist. Nat. 23: 63. 1894",,,,,,urn:lsid:ipni.org:names:256701-2,wfo-0000459651,5550153,,
+4edc85e2-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Triceros,,"(Vent.) M.Gómez",0,1889,,"Dicc. Bot. Nom. Vulg. Cub. Puerto-Riquenos : 65 (1889)",,,,,,urn:lsid:ipni.org:names:256702-2,wfo-0000409298,8757760,,
+524a7658-8fcc-11eb-924d-9cd76263cbd0,species,xalapensis,Triceros,,Spreng.,0,1824,,"Syst. Veg., ed. 16 [Sprengel] 1: 947. 1824 [dated 1825; publ. in late 1824]",,,,,,urn:lsid:ipni.org:names:435697-1,wfo-0000413583,5550199,,

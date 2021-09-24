@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dff993b2-8fd1-11eb-924d-9cd76263cbd0,genus,Autumnalia,,,Pimenov,Q6012784,,,"Bot. Žhurn. (Moscow & Leningrad) 74: 1492. 1989.",,,,,,925226-1,wfo-4000003755,6026601,,
-aba09ed0-8fcc-11eb-924d-9cd76263cbd0,species,botschantzevii,Autumnalia,,Pimenov,Q6012784,,,"Bot. Zhurn. (Moscow & Leningrad) 74: 1493 1989",,,,,,937998-1,wfo-0000557390,3632336,,
-aba0c0c2-8fcc-11eb-924d-9cd76263cbd0,species,innopinata,Autumnalia,,Pimenov,Q6012784,,,"Bot. Zhurn. (Moscow & Leningrad) 74: 1495 1989",,,,,,937999-1,wfo-0000557391,,,
+dff993b2-8fd1-11eb-924d-9cd76263cbd0,genus,Autumnalia,,,Pimenov,0,,,"Bot. Zhurn. (Moscow & Leningrad) 74: 1492 (1989)",,,,,,urn:lsid:ipni.org:names:925226-1,wfo-4000003755,6026601,,
+aba09ed0-8fcc-11eb-924d-9cd76263cbd0,species,botschantzevii,Autumnalia,,Pimenov,0,,,"Bot. Zhurn. (Moscow & Leningrad) 74: 1493 (1989)",,,,,,urn:lsid:ipni.org:names:937998-1,wfo-0000557390,3632336,,
+aba0c0c2-8fcc-11eb-924d-9cd76263cbd0,species,innopinata,Autumnalia,,Pimenov,0,,,"Bot. Zhurn. (Moscow & Leningrad) 74: 1495 (1989)",,,,,,urn:lsid:ipni.org:names:937999-1,wfo-0000557391,,,
+472200ca-1d4d-11ec-82c2-f14daa6f2d93,species,angolensis,Autunesia,,O.Hoffm.,,,,"Unknown I. 327 (1897)",,,,,,urn:lsid:ipni.org:names:183019-1,wfo-0001328519,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb549234-8fd1-11eb-924d-9cd76263cbd0,genus,Thyana,,,,,,,,,,,,,,wfo-4000038316,8152130,,
-70d36864-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Thyana,,Hitchc.,Q2063155,1893,,"Rep. (Annual) Missouri Bot. Gard. 4: 72 1893",,,,,,252874-2,wfo-0000458911,5577869,,
-70d34afa-8fcc-11eb-924d-9cd76263cbd0,species,portoricensis,Thyana,,Britton,Q553714,1924,,"Sci. Surv. Porto Rico & Virgin Islands 5: 526 1924",,,,,,252875-2,wfo-0000458910,5577860,,
-c6f26c5e-8fd1-11eb-924d-9cd76263cbd0,species,simplicifolia,Thyana,,"(Poit.) Ham.","Q1968431,Q15443",1825,,"Prodr. Pl. Ind. Occid. 36 1825",,,,d8f60fc2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001266802,7858812,,
-70d32f34-8fcc-11eb-924d-9cd76263cbd0,species,striata,Thyana,,Britton,Q553714,1924,,"Sci. Surv. Porto Rico & Virgin Islands 5: 525 1924",,,,,,252876-2,wfo-0000458909,5577854,,
-c6f28d24-8fd1-11eb-924d-9cd76263cbd0,species,trifoliata,Thyana,,"(Poit.) Ham.","Q1968431,Q15443",1825,,"Prodr. Pl. Ind. Occid. 36 1825",,,,c6f2aaac-8fd1-11eb-924d-9cd76263cbd0,,,wfo-0001266803,7640444,,
+eb549234-8fd1-11eb-924d-9cd76263cbd0,genus,Thyana,,,Ham.,,,,"Prodr. Pl. Ind. Occid. : 36 (1825)",,,,,,urn:lsid:ipni.org:names:36604-1,wfo-4000038316,8152130,,
+70d36864-8fcc-11eb-924d-9cd76263cbd0,species,discolor,Thyana,,Hitchc.,0,1893,,"Rep. (Annual) Missouri Bot. Gard. 4: 72 (1893)",,,,,,urn:lsid:ipni.org:names:252874-2,wfo-0000458911,5577869,,
+70d34afa-8fcc-11eb-924d-9cd76263cbd0,species,portoricensis,Thyana,,Britton,0,1924,,"Sci. Surv. Porto Rico & Virgin Islands 5: 526 1924",,,,,,252875-2,wfo-0000458910,5577860,,
+c6f26c5e-8fd1-11eb-924d-9cd76263cbd0,species,simplicifolia,Thyana,,"(Poit.) Ham.",0,1825,,"Prodr. Pl. Ind. Occid. : 36 (1825)",,,,d8f60fc2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60463540-2,wfo-0001266802,7858812,,
+70d32f34-8fcc-11eb-924d-9cd76263cbd0,species,striata,Thyana,,Britton,0,1924,,"Sci. Surv. Porto Rico & Virgin Islands 5: 525 (1924)",,,,,,urn:lsid:ipni.org:names:252876-2,wfo-0000458909,5577854,,
+c6f28d24-8fd1-11eb-924d-9cd76263cbd0,species,trifoliata,Thyana,,"(Poit.) Ham.",0,1825,,"Prodr. Pl. Ind. Occid. : 36 (1825)",,,,c6f2aaac-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60463539-2,wfo-0001266803,7640444,,

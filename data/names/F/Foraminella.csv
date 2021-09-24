@@ -1,48 +1,49 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9f3015ee-9bad-11eb-a8a2-19ed5c03f8d3,genus,Foraminella,,,"S.L.F. Mey.",,1982,,"Mycologia 74(4): 596 (1982)",,,,9f3015ee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2005," "
-2a4f9142-9bac-11eb-a8a2-19ed5c03f8d3,species,ambigua,Foraminella,,"(Wulfen) S.L.F. Mey.",Q698014,1982,,"Mycologia 74(4): 597 (1982)",,,,,,,,,110677," "
-a70528e6-9bac-11eb-a8a2-19ed5c03f8d3,form,ambigua,Foraminella,ambigua,"(Wulfen) S.L.F. Mey.",Q698014,1982,,"Mycologia 74(4): 597 (1982)",,,,a70528e6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430291," "
+2a4f9142-9bac-11eb-a8a2-19ed5c03f8d3,species,ambigua,Foraminella,,"(Wulfen) S.L.F. Mey.",0,1982,,"Mycologia 74(4): 597 (1982)",,,,,,,,,110677," "
+a70528e6-9bac-11eb-a8a2-19ed5c03f8d3,form,ambigua,Foraminella,ambigua,"(Wulfen) S.L.F. Mey.",0,1982,,"Mycologia 74(4): 597 (1982)",,,,a70528e6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430291," "
 34369358-9bad-11eb-a8a2-19ed5c03f8d3,form,angustata,Foraminella,ambigua,"(Hillmann) S.Y. Kondr.",,1993,,"Flora Lishainikiv Ukraïni (Kiev), <b>2</b>(2) 112 (1993)",,,,6adffbb6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359920," "
-34361ba8-9bad-11eb-a8a2-19ed5c03f8d3,form,leprosa,Foraminella,ambigua,"(Anders) S.Y. Kondr.",Q14912090,1993,,"Flora Lishainikiv Ukraïni (Kiev), <b>2</b>(2) 112 (1993)",,,,6adfb82c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359919," "
-269fe31c-9bac-11eb-a8a2-19ed5c03f8d3,species,esorediata,Foraminella,,"(Degel.) Lumbsch",Q21339029,1985,,"in Hawksworth, Pl. Syst. Evol. 149(3-4): 306 (1985)",,,,3df0aba4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,104992," "
-2a587ec4-9bac-11eb-a8a2-19ed5c03f8d3,species,hyperopta,Foraminella,,"(Ach.) S.L.F. Mey.",Q365923,1982,,"Mycologia 74(4): 597 (1982)",,,,8d472eee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,110678," "
+34361ba8-9bad-11eb-a8a2-19ed5c03f8d3,form,leprosa,Foraminella,ambigua,"(Anders) S.Y. Kondr.",0,1993,,"Flora Lishainikiv Ukraïni (Kiev), <b>2</b>(2) 112 (1993)",,,,6adfb82c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,359919," "
+269fe31c-9bac-11eb-a8a2-19ed5c03f8d3,species,esorediata,Foraminella,,"(Degel.) Lumbsch",0,1985,,"in Hawksworth, Pl. Syst. Evol. 149(3-4): 306 (1985)",,,,3df0aba4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,104992," "
+2a587ec4-9bac-11eb-a8a2-19ed5c03f8d3,species,hyperopta,Foraminella,,"(Ach.) S.L.F. Mey.",0,1982,,"Mycologia 74(4): 597 (1982)",,,,8d472eee-9bad-11eb-a8a2-19ed5c03f8d3,,,,,110678," "
 3436cce2-9bad-11eb-a8a2-19ed5c03f8d3,form,angustifolia,Foraminella,hyperopta,"(Hillmann) S.Y. Kondr.",,1993,,"Flora Lishainikiv Ukraïni (Kiev), <b>2</b>(2) 113 (1993)",,,,f47d3ad8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,359921," "
-a7055bb8-9bac-11eb-a8a2-19ed5c03f8d3,form,hyperopta,Foraminella,hyperopta,"(Ach.) S.L.F. Mey.",Q365923,1982,,"Mycologia 74(4): 597 (1982)",,,,a7055bb8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430292," "
+a7055bb8-9bac-11eb-a8a2-19ed5c03f8d3,form,hyperopta,Foraminella,hyperopta,"(Ach.) S.L.F. Mey.",0,1982,,"Mycologia 74(4): 597 (1982)",,,,a7055bb8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,430292," "
 34371080-9bad-11eb-a8a2-19ed5c03f8d3,form,leprosa,Foraminella,hyperopta,"(Hillmann) S.Y. Kondr.",,1993,,"Flora Lishainikiv Ukraïni (Kiev), <b>2</b>(2) 113 (1993)",,,,f47dbc56-9bab-11eb-a8a2-19ed5c03f8d3,,,,,359922," "
 2a58a41c-9bac-11eb-a8a2-19ed5c03f8d3,species,subambigua,Foraminella,,"(Gyeln.) S.L.F. Mey.",,1982,,"Mycologia 74(4): 598 (1982)",,,,960937b6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,110679," "
-54a46052-8fcd-11eb-924d-9cd76263cbd0,species,arenaceus,Forasaccus,,"(Pourr.) Bubani","Q78472,Q684026",1901,,"Fl. Pyren. 4: 383 1901",,,,4c89968a-8fcd-11eb-924d-9cd76263cbd0,,403779-1,wfo-0000872640,4110249,,
-54a47ce0-8fcd-11eb-924d-9cd76263cbd0,species,arvensis,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 385 1901",,,,,,403780-1,wfo-0000872641,4110239,,
-54a4b50c-8fcd-11eb-924d-9cd76263cbd0,species,asper,Forasaccus,,"(Murray) Bubani","Q761545,Q684026",1901,,"Fl. Pyren. 4: 383 1901",,,,,,403781-1,wfo-0000872643,4110229,,
-54a4d19a-8fcd-11eb-924d-9cd76263cbd0,species,breviaristatus,Forasaccus,,"(Hook.) Lunell","Q472639,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,,,403782-1,wfo-0000872644,4110197,,
-54a4ed10-8fcd-11eb-924d-9cd76263cbd0,species,ciliatus,Forasaccus,,"(L.) Lunell","Q1043,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,4c9d3672-8fcd-11eb-924d-9cd76263cbd0,,105265-2,wfo-0000872645,4110157,,
-54a508ea-8fcd-11eb-924d-9cd76263cbd0,variety,laeviglumis,Forasaccus,ciliatus,"(Scribn. ex Shear) Lunell","Q2458459,Q2596205,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,4c9e5016-8fcd-11eb-924d-9cd76263cbd0,,105266-2,wfo-0000872646,4110156,,
-54a52a82-8fcd-11eb-924d-9cd76263cbd0,species,commutatus,Forasaccus,,"(Schrad.) Bubani","Q62591,Q684026",1901,,"Fl. Pyren. 4: 387 1901",,,,,,403784-1,wfo-0000872647,4110149,,
-54a547ce-8fcd-11eb-924d-9cd76263cbd0,species,diandrus,Forasaccus,,"(Hook.f.) Bubani","Q157501,Q684026",1901,,"Fl. Pyren. 4: 380 1901",,,,4ce1c454-8fcd-11eb-924d-9cd76263cbd0,,403785-1,wfo-0000872648,4110137,,
-54a563f8-8fcd-11eb-924d-9cd76263cbd0,species,distichus,Forasaccus,,Bubani,Q684026,1901,,"Fl. Pyren. 4: 380 1901",,,,,,403786-1,wfo-0000872649,4110130,,
-54a57f78-8fcd-11eb-924d-9cd76263cbd0,species,erectus,Forasaccus,,"(Huds.) Bubani","Q982798,Q684026",1901,,"Fl. Pyren. 4: 384 1901",,,,4caca0c6-8fcd-11eb-924d-9cd76263cbd0,,403787-1,wfo-0000872650,4110125,,
-54a59c38-8fcd-11eb-924d-9cd76263cbd0,species,giganteus,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 383 1901",,,,,,1153740-2,wfo-0000872651,4110113,,
-54a5c0c8-8fcd-11eb-924d-9cd76263cbd0,species,inermis,Forasaccus,,"(Leyss.) Lunell","Q76319,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,4cca49b4-8fcd-11eb-924d-9cd76263cbd0,,105267-2,wfo-0000872652,4110101,,
-54a5f5ca-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Forasaccus,,"(Roth) Bubani","Q64246,Q684026",1901,,"Fl. Pyren. 4: 384 1901",,,,4cd86b02-8fcd-11eb-924d-9cd76263cbd0,,403790-1,wfo-0000872654,4110093,,
-54a60fa6-8fcd-11eb-924d-9cd76263cbd0,species,latiglumis,Forasaccus,,"(Scribn. ex Shear) Lunell","Q2458459,Q2596205,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,,,105268-2,wfo-0000872655,4110081,,
-54a62aae-8fcd-11eb-924d-9cd76263cbd0,species,marginatus,Forasaccus,,"(Nees ex Steud.) Lunell","Q76349,Q62821,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,4ce435ae-8fcd-11eb-924d-9cd76263cbd0,,105269-2,wfo-0000872656,4110065,,
-54a6487c-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Forasaccus,,"(Desf.) Bubani","Q545953,Q684026",1901,,"Fl. Pyren. 4: 382 1901",,,,,,403793-1,wfo-0000872657,4110057,,
-54a6662c-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 386 1901",,,,,,403794-1,wfo-0000872658,4110048,,
-54a68062-8fcd-11eb-924d-9cd76263cbd0,species,patulus,Forasaccus,,"(Mert. & W.D.J.Koch) Bubani","Q68470,Q63388,Q684026",1901,,"Fl. Pyren. 4: 387 1901",,,,4cf93d50-8fcd-11eb-924d-9cd76263cbd0,,403795-1,wfo-0000872659,4110037,,
-54a69cc8-8fcd-11eb-924d-9cd76263cbd0,species,pumpellianus,Forasaccus,,"(Scribn.) Lunell","Q2458459,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,4d06f97c-8fcd-11eb-924d-9cd76263cbd0,,105270-2,wfo-0000872660,4110017,,
-54a6bc4e-8fcd-11eb-924d-9cd76263cbd0,species,purgans,Forasaccus,,"(L.) Lunell","Q1043,Q3019197",1915,,"Amer. Midl. Naturalist 4: 225 1915",,Q55773059,,,,105271-2,wfo-0000872661,4109998,,
-54a6d6b6-8fcd-11eb-924d-9cd76263cbd0,species,racemosus,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 387 1901",,,,,,403798-1,wfo-0000872662,4109991,,
-54a6f2a4-8fcd-11eb-924d-9cd76263cbd0,species,secalinus,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 388 1901",,,,4d189420-8fcd-11eb-924d-9cd76263cbd0,,403799-1,wfo-0000872663,4110215,,
-54a72b20-8fcd-11eb-924d-9cd76263cbd0,species,squarrosus,Forasaccus,,"(L.) Bubani","Q1043,Q684026",1901,,"Fl. Pyren. 4: 385 1901",,,,,,403800-1,wfo-0000872665,4111602,,
-23be7428-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Forbesia,,Nel,Q1515170,1914,,"Bot. Jahrb. Syst. 51: 289 1914",,,,,,64388-1,wfo-0000767207,2852635,,
-23be90ac-8fcd-11eb-924d-9cd76263cbd0,species,flexilis,Forbesia,,Nel,Q1515170,1914,,"Bot. Jahrb. Syst. 51: 288 1914",,,,,,64389-1,wfo-0000767208,2852629,,
-25e28f64-8fcd-11eb-924d-9cd76263cbd0,variety,barberae,Forbesia,flexilis,"(Baker) Nel","Q730330,Q1515170",1914,,"Bot. Jahrb. Syst. 51: 288 1914",,,,25e274de-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000771515,5325487,,
-23beac86-8fcd-11eb-924d-9cd76263cbd0,species,galpinii,Forbesia,,L.Bolus,Q63764,1929,,"J. Bot. 67: 137 1929",,,,,,64390-1,wfo-0000767209,2852602,,
-23bec87e-8fcd-11eb-924d-9cd76263cbd0,species,gloriosa,Forbesia,,Nel,Q1515170,1914,,"Bot. Jahrb. Syst. 51: 288 1914",,,,,,64391-1,wfo-0000767210,2852619,,
-23befbbe-8fcd-11eb-924d-9cd76263cbd0,species,monophylla,Forbesia,,Nel,Q1515170,1914,,"Bot. Jahrb. Syst. 51: 287 1914",,,,,,64392-1,wfo-0000767212,2852633,,
-b15baac6-8fcd-11eb-924d-9cd76263cbd0,species,namaquense,Forbesia,,Nel,Q1515170,,,,,,,,,,wfo-0001046758,7901939,,
-23bf18ce-8fcd-11eb-924d-9cd76263cbd0,species,namaquensis,Forbesia,,"(Baker) Nel","Q730330,Q1515170",1914,,"Bot. Jahrb. Syst. 51: 337 1914",,,,,,64393-1,wfo-0000767213,2852626,,
-23bf330e-8fcd-11eb-924d-9cd76263cbd0,species,occidentalis,Forbesia,,Nel,Q1515170,1914,,"Bot. Jahrb. Syst. 51: 289 1914",,,,,,64394-1,wfo-0000767214,2852586,,
-23bf59e2-8fcd-11eb-924d-9cd76263cbd0,species,plicata,Forbesia,,"(Thunb.) Nel","Q39658,Q1515170",1914,,"Bot. Jahrb. Syst. 51: 290 1914",,,,25e25b02-8fcd-11eb-924d-9cd76263cbd0,,64396-1,wfo-0000767215,2852621,,
-25e2abfc-8fcd-11eb-924d-9cd76263cbd0,variety,veratrifolia,Forbesia,plicata,"(Willd.) Nel","Q76353,Q1515170",1914,,"Bot. Jahrb. Syst. 51: 290 1914",,,,f045790c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000771516,5325485,,
-0c5d5d9a-8fcc-11eb-924d-9cd76263cbd0,species,forbesii,,,Godfery,Q527777,1921,,"J. Bot. 59: 57 1921",,,,,,657744-1,wfo-0000309570,,,
-8b3e2030-8fcd-11eb-924d-9cd76263cbd0,species,eriiformis,Forbesina,,Ridl.,Q733709,1925,,"J. Bot. 63(Suppl.): 120 1925",,,,,,635242-1,wfo-0000967285,2815443,,
+54a46052-8fcd-11eb-924d-9cd76263cbd0,species,arenaceus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 383 (1901)",,,,4c89968a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403779-1,wfo-0000872640,4110249,,
+54a47ce0-8fcd-11eb-924d-9cd76263cbd0,species,arvensis,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 385 (1901)",,,,,,urn:lsid:ipni.org:names:403780-1,wfo-0000872641,4110239,,
+54a4b50c-8fcd-11eb-924d-9cd76263cbd0,species,asper,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 383 (1901)",,,,,,urn:lsid:ipni.org:names:403781-1,wfo-0000872643,4110229,,
+54a4d19a-8fcd-11eb-924d-9cd76263cbd0,species,breviaristatus,Forasaccus,,Lunell,0,1915,,"Amer. Midl. Naturalist 1915, iv. 225.",,Q55773059,,,,urn:lsid:ipni.org:names:403782-1,wfo-0000872644,4110197,,
+54a4ed10-8fcd-11eb-924d-9cd76263cbd0,species,ciliatus,Forasaccus,,Lunell,0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,4c9d3672-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105265-2,wfo-0000872645,4110157,,
+54a508ea-8fcd-11eb-924d-9cd76263cbd0,variety,laeviglumis,Forasaccus,ciliatus,Lunell,0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,4c9e5016-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105266-2,wfo-0000872646,4110156,,
+54a52a82-8fcd-11eb-924d-9cd76263cbd0,species,commutatus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 387 (1901)",,,,,,urn:lsid:ipni.org:names:403784-1,wfo-0000872647,4110149,,
+54a547ce-8fcd-11eb-924d-9cd76263cbd0,species,diandrus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 380 (1901)",,,,4ce1c454-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403785-1,wfo-0000872648,4110137,,
+54a563f8-8fcd-11eb-924d-9cd76263cbd0,species,distichus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 380 (1901)",,,,,,urn:lsid:ipni.org:names:403786-1,wfo-0000872649,4110130,,
+54a57f78-8fcd-11eb-924d-9cd76263cbd0,species,erectus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 384 (1901)",,,,4caca0c6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403787-1,wfo-0000872650,4110125,,
+54a59c38-8fcd-11eb-924d-9cd76263cbd0,species,giganteus,Forasaccus,,"(L.) Bubani",0,1901,,"Fl. Pyren. 4: 383 (1901)",,,,,,urn:lsid:ipni.org:names:1153740-2,wfo-0000872651,4110113,,
+54a5c0c8-8fcd-11eb-924d-9cd76263cbd0,species,inermis,Forasaccus,,Lunell,0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,4cca49b4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105267-2,wfo-0000872652,4110101,,
+54a5f5ca-8fcd-11eb-924d-9cd76263cbd0,species,lanceolatus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 384 (1901)",,,,4cd86b02-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403790-1,wfo-0000872654,4110093,,
+54a60fa6-8fcd-11eb-924d-9cd76263cbd0,species,latiglumis,Forasaccus,,"(Shear) Lunell",0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,,,urn:lsid:ipni.org:names:105268-2,wfo-0000872655,4110081,,
+54a62aae-8fcd-11eb-924d-9cd76263cbd0,species,marginatus,Forasaccus,,"(Steud.) Lunell",0,1915,,"Amer. Midl. Naturalist 4: 225. 1915",,Q55773059,,4ce435ae-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105269-2,wfo-0000872656,4110065,,
+54a6487c-8fcd-11eb-924d-9cd76263cbd0,species,maximus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 382 (1901)",,,,,,urn:lsid:ipni.org:names:403793-1,wfo-0000872657,4110057,,
+54a6662c-8fcd-11eb-924d-9cd76263cbd0,species,mollis,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 386 (1901)",,,,,,urn:lsid:ipni.org:names:403794-1,wfo-0000872658,4110048,,
+54a68062-8fcd-11eb-924d-9cd76263cbd0,species,patulus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 387 (1901)",,,,4cf93d50-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403795-1,wfo-0000872659,4110037,,
+54a69cc8-8fcd-11eb-924d-9cd76263cbd0,species,pumpellianus,Forasaccus,,Lunell,0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,4d06f97c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:105270-2,wfo-0000872660,4110017,,
+54a6bc4e-8fcd-11eb-924d-9cd76263cbd0,species,purgans,Forasaccus,,Lunell,0,1915,,"Amer. Midl. Naturalist 4: 225 (1915)",,Q55773059,,,,urn:lsid:ipni.org:names:105271-2,wfo-0000872661,4109998,,
+54a6d6b6-8fcd-11eb-924d-9cd76263cbd0,species,racemosus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 387 (1901)",,,,,,urn:lsid:ipni.org:names:403798-1,wfo-0000872662,4109991,,
+54a6f2a4-8fcd-11eb-924d-9cd76263cbd0,species,secalinus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 388 (1901)",,,,4d189420-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:403799-1,wfo-0000872663,4110215,,
+54a72b20-8fcd-11eb-924d-9cd76263cbd0,species,squarrosus,Forasaccus,,Bubani,0,1901,,"Fl. Pyren. 4: 385 (1901)",,,,,,urn:lsid:ipni.org:names:403800-1,wfo-0000872665,4111602,,
+5ac19cda-1d4d-11ec-82c2-f14daa6f2d93,species,angustifolia,Forbesia,,Eckl.,,,,"Verz. 5 (1827).",,,,,,urn:lsid:ipni.org:names:64387-1,wfo-0001354770,,,
+23be7428-8fcd-11eb-924d-9cd76263cbd0,species,elongata,Forbesia,,Nel,0,1914,,"Bot. Jahrb. Syst. 51: 289 (1914)",,,,,,urn:lsid:ipni.org:names:64388-1,wfo-0000767207,2852635,,
+23be90ac-8fcd-11eb-924d-9cd76263cbd0,species,flexilis,Forbesia,,Nel,0,1914,,"Bot. Jahrb. Syst. 51: 288 (1914)",,,,,,urn:lsid:ipni.org:names:64389-1,wfo-0000767208,2852629,,
+25e28f64-8fcd-11eb-924d-9cd76263cbd0,variety,barberae,Forbesia,flexilis,"(Baker) Nel",0,1914,,"Bot. Jahrb. Syst. 51: 288 1914",,,,25e274de-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000771515,5325487,,
+23beac86-8fcd-11eb-924d-9cd76263cbd0,species,galpinii,Forbesia,,L.Bolus,0,1929,,"J. Bot. 67: 137 (1929)",,,,,,urn:lsid:ipni.org:names:64390-1,wfo-0000767209,2852602,,
+23bec87e-8fcd-11eb-924d-9cd76263cbd0,species,gloriosa,Forbesia,,Nel,0,1914,,"Bot. Jahrb. Syst. 51: 288 (1914)",,,,,,urn:lsid:ipni.org:names:64391-1,wfo-0000767210,2852619,,
+23befbbe-8fcd-11eb-924d-9cd76263cbd0,species,monophylla,Forbesia,,Nel,0,1914,,"Bot. Jahrb. Syst. 51: 287 (1914)",,,,,,urn:lsid:ipni.org:names:64392-1,wfo-0000767212,2852633,,
+b15baac6-8fcd-11eb-924d-9cd76263cbd0,species,namaquense,Forbesia,,Nel,0,,,,,,,,,,wfo-0001046758,7901939,,
+23bf18ce-8fcd-11eb-924d-9cd76263cbd0,species,namaquensis,Forbesia,,"(Baker) Nel",0,1914,,"Bot. Jahrb. Syst. 51: 337 (1914)",,,,,,urn:lsid:ipni.org:names:64393-1,wfo-0000767213,2852626,,
+23bf330e-8fcd-11eb-924d-9cd76263cbd0,species,occidentalis,Forbesia,,Nel,0,1914,,"Bot. Jahrb. Syst. 51: 289 (1914)",,,,,,urn:lsid:ipni.org:names:64394-1,wfo-0000767214,2852586,,
+23bf59e2-8fcd-11eb-924d-9cd76263cbd0,species,plicata,Forbesia,,"(Thunb.) Nel",0,1914,,"Bot. Jahrb. Syst. 51: 290 (1914)",,,,25e25b02-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:64396-1,wfo-0000767215,2852621,,
+9838983a-1d4c-11ec-82c2-f14daa6f2d93,variety,plicata,Forbesia,plicata,,,,,,,,,,,,wfo-0001046760,,,
+25e2abfc-8fcd-11eb-924d-9cd76263cbd0,variety,veratrifolia,Forbesia,plicata,"(Willd.) Nel",0,1914,,"Bot. Jahrb. Syst. 51: 290 1914",,,,f045790c-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000771516,5325485,,
+8b3e2030-8fcd-11eb-924d-9cd76263cbd0,species,eriiformis,Forbesina,,Ridl.,0,1925,,"J. Bot. 63(Suppl.): 120 (1925)",,,,,,urn:lsid:ipni.org:names:635242-1,wfo-0000967285,2815443,,

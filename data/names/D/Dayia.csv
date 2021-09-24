@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e284f0a4-8fd1-11eb-924d-9cd76263cbd0,genus,Dayia,,,J.M.Porter,Q13222159,2000,,"Aliso 19(1): 71–74. 2000.",,Q54552416,,,,1015851-1,wfo-4000010895,3234167,,
-dd8dd82c-8fcc-11eb-924d-9cd76263cbd0,species,grantii,Dayia,,J.M.Porter,Q13222159,2000,,"Aliso 19: 72 2000",,Q54552416,,,,1015853-1,wfo-0000638868,5659444,,
-dd8dfd66-8fcc-11eb-924d-9cd76263cbd0,species,scabra,Dayia,,"(Brandegee) J.M.Porter","Q1002345,Q13222159",2000,,"Aliso 19: 71 2000",,Q54552416,,,,1110053-2,wfo-0000638869,5659438,,
-af1dcb18-8fcd-11eb-924d-9cd76263cbd0,species,sonorae,Dayia,,"(Rose) J.M.Porter","Q1336049,Q13222159",,,,,,,,,,wfo-0001041735,7812734,,
+e284f0a4-8fd1-11eb-924d-9cd76263cbd0,genus,Dayia,,,J.M.Porter,0,2000,,"Aliso 19: 71 (2000)",,Q54552416,,,,urn:lsid:ipni.org:names:1015851-1,wfo-4000010895,3234167,,
+48512d18-1d4d-11ec-82c2-f14daa6f2d93,species,glutinosa,Dayia,,"(Phil.) J.M.Porter",,,,"Aliso 32: 56 (2014 publ. 2015)",,,,,,urn:lsid:ipni.org:names:60468350-2,wfo-0001330148,,,
+dd8dd82c-8fcc-11eb-924d-9cd76263cbd0,species,grantii,Dayia,,J.M.Porter,0,2000,,"Aliso 19(1): 72. 2000",,Q54552416,,,,urn:lsid:ipni.org:names:1015853-1,wfo-0000638868,5659444,,
+5170a2ac-1d4d-11ec-82c2-f14daa6f2d93,species,havardii,Dayia,,"(A.Gray) J.M.Porter",,,,"Aliso 32: 56 (2014 publ. 2015)",,,,,,urn:lsid:ipni.org:names:77146829-1,wfo-0001342269,,,
+dd8dfd66-8fcc-11eb-924d-9cd76263cbd0,species,scabra,Dayia,,"(Brandegee) J.M.Porter",0,2000,,"Aliso 19: 71 (2000)",,Q54552416,,,,urn:lsid:ipni.org:names:1110053-2,wfo-0000638869,5659438,,
+af1dcb18-8fcd-11eb-924d-9cd76263cbd0,species,sonorae,Dayia,,"(Rose) J.M.Porter",0,,,"Aliso 32: 56 (2014 publ. 2015)",,,,,,urn:lsid:ipni.org:names:60468349-2,wfo-0001041735,7812734,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e44ceb12-8fd1-11eb-924d-9cd76263cbd0,genus,Gynophorea,,,Gilli,Q8194912,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 57: 226. 1955.",,,,,,12633-1,wfo-4000016589,3044545,,
-0884b8b6-8fcd-11eb-924d-9cd76263cbd0,species,leucoclada,Gynophorea,,"(Boiss.) Dvořák","Q34430,Q21511231",1968,,"Feddes Repert. 77: 111 1968",,,,,,,wfo-0000713267,3689421,,
-0884d5bc-8fcd-11eb-924d-9cd76263cbd0,species,weileri,Gynophorea,,Gilli,Q8194912,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 57: 226 1955",,,,,,284547-1,wfo-0000713268,3044546,,
-0884f290-8fcd-11eb-924d-9cd76263cbd0,species,tansaniensis,Gynophyge,,Gilli,Q8194912,1973,,"Feddes Repert. 84: 181 1973",,Q55754705,,,,842829-1,wfo-0000713269,3632635,,
+e44ceb12-8fd1-11eb-924d-9cd76263cbd0,genus,Gynophorea,,,Gilli,0,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 57: 226 (1955)",,,,,,urn:lsid:ipni.org:names:12633-1,wfo-4000016589,3044545,,
+0884b8b6-8fcd-11eb-924d-9cd76263cbd0,species,leucoclada,Gynophorea,,"(Boiss.) F.Dvořák",0,1968,,"Feddes Repert. 77: 111 (1968)",,,,,,urn:lsid:ipni.org:names:284546-1,wfo-0000713267,3689421,,
+0884d5bc-8fcd-11eb-924d-9cd76263cbd0,species,weileri,Gynophorea,,Gilli,0,1955,,"Feddes Repert. Spec. Nov. Regni Veg. 57: 226 (1955)",,,,,,urn:lsid:ipni.org:names:284547-1,wfo-0000713268,3044546,,
+0884f290-8fcd-11eb-924d-9cd76263cbd0,species,tansaniensis,Gynophyge,,Gilli,0,1973,,"Feddes Repert. 84: 181 (1973)",,Q55754705,,,,urn:lsid:ipni.org:names:842829-1,wfo-0000713269,3632635,,

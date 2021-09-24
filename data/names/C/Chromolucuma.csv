@@ -1,4 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1ae5058-8fd1-11eb-924d-9cd76263cbd0,genus,Chromolucuma,,,Ducke,Q2601698,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160. 1925.",,,,,,296761-2,wfo-4000008155,2883684,,
-4b4152e0-8fcd-11eb-924d-9cd76263cbd0,species,baehniana,Chromolucuma,,Monach.,Q5937108,1949,,"Phytologia 3: 57 1949",,,,,,57519-2,wfo-0000852322,2883687,,
-4b4287be-8fcd-11eb-924d-9cd76263cbd0,species,rubriflora,Chromolucuma,,Ducke,Q2601698,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160 1925",,,,,,307657-2,wfo-0000852333,2883685,,
+e1ae5058-8fd1-11eb-924d-9cd76263cbd0,genus,Chromolucuma,,,Ducke,0,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160 (1925)",,,,,,urn:lsid:ipni.org:names:296761-2,wfo-4000008155,2883684,,
+3f8d68e0-1d4d-11ec-82c2-f14daa6f2d93,species,apiculata,Chromolucuma,,"Alves-Araújo & M.Alves",,,,"Brittonia 64: 27 (2012)",,,,,,urn:lsid:ipni.org:names:60458190-2,wfo-0001318210,,,
+4b4152e0-8fcd-11eb-924d-9cd76263cbd0,species,baehniana,Chromolucuma,,Monach.,0,1949,,"Phytologia 3: 57 (1949)",,,,,,urn:lsid:ipni.org:names:57519-2,wfo-0000852322,2883687,,
+47df9bee-1d4d-11ec-82c2-f14daa6f2d93,species,cespedisiiformis,Chromolucuma,,J.F.Morales,,,,"Darwiniana 50: 108 (2012)",,,,,,urn:lsid:ipni.org:names:60460311-2,wfo-0001329538,,,
+479421be-1d4d-11ec-82c2-f14daa6f2d93,species,congestifolia,Chromolucuma,,"(Pilz) Alves-Araújo & M.Alves",,,,"Brittonia 64: 28 (2012)",,,,,,urn:lsid:ipni.org:names:60458191-2,wfo-0001329143,,,
+4b4287be-8fcd-11eb-924d-9cd76263cbd0,species,rubriflora,Chromolucuma,,Ducke,0,1925,,"Arch. Jard. Bot. Rio de Janeiro 4: 160 (1925)",,,,,,urn:lsid:ipni.org:names:307657-2,wfo-0000852333,2883685,,

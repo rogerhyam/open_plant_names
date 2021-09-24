@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e042f930-8fd1-11eb-924d-9cd76263cbd0,genus,Blanchetia,,,DC.,Q123057,,,,,,,,,7929-1,wfo-4000004717,3145141,,
-2fe49e26-8fb4-11eb-924d-9cd76263cbd0,species,heterosticha,Blanchetia,,DC.,Q123057,1836,,"Prodr. (DC.) 5: 75 1836",,,,,,,wfo-0000061237,4235171,,
-1d405d34-8fb7-11eb-924d-9cd76263cbd0,species,heterotricha,Blanchetia,,DC.,Q123057,1836,,"75 1836",,,,,,185430-1,wfo-0000096509,3145142,,
+e042f930-8fd1-11eb-924d-9cd76263cbd0,genus,Blanchetia,,,DC.,0,,,"Prodr. 5: 75 (1836)",,,,,,urn:lsid:ipni.org:names:7929-1,wfo-4000004717,3145141,,
+3f8e7a3c-1d4d-11ec-82c2-f14daa6f2d93,species,coronata,Blanchetia,,"(G.M.Barroso) Loeuille & Pirani",,,,"Phytoneuron 2014-8: 1 (2014)",,,,,,urn:lsid:ipni.org:names:77135546-1,wfo-0001318216,,,
+2fe49e26-8fb4-11eb-924d-9cd76263cbd0,species,heterosticha,Blanchetia,,DC.,0,1836,,"Prodr. (DC.) 5: 75 1836",,,,,,,wfo-0000061237,4235171,,
+1d405d34-8fb7-11eb-924d-9cd76263cbd0,species,heterotricha,Blanchetia,,DC.,0,1836,,"Prodr. 5: 75 (1836)",,,,,,urn:lsid:ipni.org:names:185430-1,wfo-0000096509,3145142,,

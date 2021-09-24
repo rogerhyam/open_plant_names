@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4e5b194-8fd1-11eb-924d-9cd76263cbd0,genus,Humbertia,,,Lam.,Q82122,1786,,"Encycl. 2: 356. 1786.",,,,,,11895-1,wfo-4000018404,3234457,,
-db8ce540-8fd1-11eb-924d-9cd76263cbd0,species,aeviternia,Humbertia,,"Comm. ex Lam.","Q595066,Q82122",1786,,"Encycl. 2: 356 1786",,,,,,268326-1,wfo-0001298057,5549094,,
-db86ced0-8fd1-11eb-924d-9cd76263cbd0,species,madagascariensis,Humbertia,,Lam.,Q82122,1786,,"Encycl. 2: 356, t. 103 1786",,,,,,268327-1,wfo-0001298010,5549091,,
-bed5daaa-8fcd-11eb-924d-9cd76263cbd0,species,cardiostegius,Humbertianthus,,Hochr.,Q4332701,1948,,"Bull. Mus. Natl. Hist. Nat., sér. 2 20: 476 1948",,,,,,561019-1,wfo-0001077466,3939990,,
+e4e5b194-8fd1-11eb-924d-9cd76263cbd0,genus,Humbertia,,,Lam.,0,1786,,"Encycl. 2: 356 (1786)",,,,,,urn:lsid:ipni.org:names:11895-1,wfo-4000018404,3234457,,
+db8ce540-8fd1-11eb-924d-9cd76263cbd0,species,aeviternia,Humbertia,,"Comm. ex Lam.",0,1786,,"Encycl. 2: 256 (1786)",,,,,,urn:lsid:ipni.org:names:268326-1,wfo-0001298057,5549094,,
+db86ced0-8fd1-11eb-924d-9cd76263cbd0,species,madagascariensis,Humbertia,,Lam.,0,1786,,"Encycl. 2: 356 (1786)",,,,,,urn:lsid:ipni.org:names:268327-1,wfo-0001298010,5549091,,
+bed5daaa-8fcd-11eb-924d-9cd76263cbd0,species,cardiostegius,Humbertianthus,,Hochr.,0,1948,,"Bull. Mus. Natl. Hist. Nat. , sér. 2, 20: 476 (1948)",,,,,,urn:lsid:ipni.org:names:561019-1,wfo-0001077466,3939990,,

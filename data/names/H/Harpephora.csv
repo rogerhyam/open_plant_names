@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e46e12ec-8fd1-11eb-924d-9cd76263cbd0,genus,Harpephora,,,,,,,,,,,,,,wfo-4000016953,3143292,,
-964b18ac-8fb9-11eb-924d-9cd76263cbd0,species,asperrima,Harpephora,,"(DC.) Hassk.","Q123057,Q68616",1847,,"Flora 30 (1847) 536 1847",,,,,,,wfo-0000119655,5386527,,
-a27421d4-8fb2-11eb-924d-9cd76263cbd0,species,endlicheriana,Harpephora,,Walp.,Q77671,,,"Repert. Bot. Syst. (Walpers) ii. 622.",,,,,,211563-1,wfo-0000030353,5705635,,
-14fc1ff0-8fb2-11eb-924d-9cd76263cbd0,species,scaberrima,Harpephora,,Hassk.,Q68616,1847,,"Flora 30 (1847) 534 1847",,,,,,,wfo-0000010244,5386529,,
+e46e12ec-8fd1-11eb-924d-9cd76263cbd0,genus,Harpephora,,,Endl.,,,,"Gen. Pl. , Suppl. 1: 1382 (1841)",,,,,,urn:lsid:ipni.org:names:9209-1,wfo-4000016953,3143292,,
+964b18ac-8fb9-11eb-924d-9cd76263cbd0,species,asperrima,Harpephora,,"(DC.) Hassk.",0,1847,,"Flora 30 (1847) 536 1847",,,,,,,wfo-0000119655,5386527,,
+a27421d4-8fb2-11eb-924d-9cd76263cbd0,species,endlicheriana,Harpephora,,Walp.,0,,,"Repert. Bot. Syst. ii. 622.",,,,,,urn:lsid:ipni.org:names:211563-1,wfo-0000030353,5705635,,
+14fc1ff0-8fb2-11eb-924d-9cd76263cbd0,species,scaberrima,Harpephora,,Hassk.,0,1847,,"Flora 30 (1847) 534 1847",,,,,,,wfo-0000010244,5386529,,

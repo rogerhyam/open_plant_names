@@ -1,7 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e30b838a-8fd1-11eb-924d-9cd76263cbd0,genus,Drosophyllum,,,Link,Q215466,1805,,"Neues J. Bot. 1(2): 53. 1805.",,,,,,14424-1,wfo-4000012601,3191258,,
-3025f984-8fcd-11eb-924d-9cd76263cbd0,species,lusitanicum,Drosophyllum,,"(L.) Link","Q1043,Q215466",1806,,"Neues J. Bot. 1(2): 53 1806",,,,,,321999-1,wfo-0000794123,3191259,,
-4700ecca-8fb6-11eb-924d-9cd76263cbd0,species,dicephala,Drozia,,Cass.,Q958431,1825,,1825,,,,,,,wfo-0000087683,3104720,,
-0bc15fa8-8fb3-11eb-924d-9cd76263cbd0,species,macrocephala,Drozia,,Steud.,Q62821,1840,,"531 1840",,,,,,202177-1,wfo-0000040384,3104730,,
-433bfa80-8fbb-11eb-924d-9cd76263cbd0,species,monocephala,Drozia,,Cass.,Q958431,1825,,1825,,,,,,,wfo-0000132937,3104731,,
-ec22563e-8fcb-11eb-924d-9cd76263cbd0,species,drucei,,,A.Camus,Q272128,1928,,"Iconogr. Orchid. Europe 377 1928",,,,,,648216-1,wfo-0000258733,,,
+e30b838a-8fd1-11eb-924d-9cd76263cbd0,genus,Drosophyllum,,,Link,0,1805,,"Neues J. Bot. 1(2): 53 (1806)",,,,,,urn:lsid:ipni.org:names:14424-1,wfo-4000012601,3191258,,
+3025f984-8fcd-11eb-924d-9cd76263cbd0,species,lusitanicum,Drosophyllum,,"(L.) Link",0,1806,,"Neues J. Bot. 1(2): 53 (1806)",,,,,,urn:lsid:ipni.org:names:321999-1,wfo-0000794123,3191259,,
+4700ecca-8fb6-11eb-924d-9cd76263cbd0,species,dicephala,Drozia,,Cass.,0,1825,,"Dict. Sci. Nat., ed. 2. 34: 218 (1825)",,,,,,urn:lsid:ipni.org:names:202176-1,wfo-0000087683,3104720,,
+0bc15fa8-8fb3-11eb-924d-9cd76263cbd0,species,macrocephala,Drozia,,Steud.,0,1840,,"Nomencl. Bot. 1: 531 (1840)",,,,,,urn:lsid:ipni.org:names:202177-1,wfo-0000040384,3104730,,
+433bfa80-8fbb-11eb-924d-9cd76263cbd0,species,monocephala,Drozia,,Cass.,0,1825,,"Dict. Sci. Nat., ed. 2. 34: 218 (1825)",,,,,,urn:lsid:ipni.org:names:202178-1,wfo-0000132937,3104731,,

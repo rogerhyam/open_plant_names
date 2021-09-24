@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebe3b13a-8fd1-11eb-924d-9cd76263cbd0,genus,Venegasia,,,DC.,Q123057,,,,,,,,,11460-1,wfo-4000040110,3139621,,
-a9044bf6-8fb6-11eb-924d-9cd76263cbd0,species,carpesioides,Venegasia,,DC.,Q123057,,,"Prodr. (DC.) 6: 43",,,,,,,wfo-0000091811,3139622,,
+ebe3b13a-8fd1-11eb-924d-9cd76263cbd0,genus,Venegasia,,,DC.,0,,,"Prodr. 6: 43 (1838)",,,,,,urn:lsid:ipni.org:names:11460-1,wfo-4000040110,3139621,,
+a9044bf6-8fb6-11eb-924d-9cd76263cbd0,species,carpesioides,Venegasia,,DC.,0,,,"Prodr. 6: 43 (1838)",,,,,,urn:lsid:ipni.org:names:257221-1,wfo-0000091811,3139622,,
+b6a6ef7e-1d47-11ec-82c2-f14daa6f2d93,variety,carpesioides,Venegasia,carpesioides,,,,,,,,,,,,wfo-0000053705,,,
+6c0615d4-1d4d-11ec-82c2-f14daa6f2d93,variety,deltoidea,Venegasia,carpesioides,S.F.Blake,,,,"Contr. U.S. Natl. Herb. 23: 1599 (1926)",,,,,,urn:lsid:ipni.org:names:262859-2,wfo-0001378844,,,

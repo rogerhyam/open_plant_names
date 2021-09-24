@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1d4b568-8fd1-11eb-924d-9cd76263cbd0,genus,Clinostemon,,,"Kuhlm. & Samp.","Q3113183,Q459037",1928,,"Bol. Mus. Nac. Rio de Janeiro 4(2): 57. 1928.",,,,,,296268-2,wfo-4000008628,7304356,,
-cdc06af4-8fcc-11eb-924d-9cd76263cbd0,species,maguireanum,Clinostemon,,"(C.K.Allen) H.Kurz","Q8339425,Q21518218",1979,,"J. Arnold Arbor. 60: 520 1979",,Q56007962,,,,61210-2,wfo-0000611898,,,
-cdc091dc-8fcc-11eb-924d-9cd76263cbd0,species,mahuba,Clinostemon,,"(Samp.) Kuhlm. & Samp.","Q459037,Q3113183",1928,,"Bol. Mus. Nac. Rio de Janeiro 4(2): 57 1928",,,,9470c4c4-8fcc-11eb-924d-9cd76263cbd0,,61211-2,wfo-0000611899,4178854,,
+e1d4b568-8fd1-11eb-924d-9cd76263cbd0,genus,Clinostemon,,,"Kuhlm. & A.Samp.",0,1928,,"Bol. Mus. Nac. Rio de Janeiro 4(2): 57 (1928)",,,,,,urn:lsid:ipni.org:names:296268-2,wfo-4000008628,7304356,,
+cdc06af4-8fcc-11eb-924d-9cd76263cbd0,species,maguireanum,Clinostemon,,"(C.K.Allen) H.Kurz",0,1979,,"J. Arnold Arbor. 60: 520 (1979)",,Q56007962,,,,urn:lsid:ipni.org:names:61210-2,wfo-0000611898,,,
+cdc091dc-8fcc-11eb-924d-9cd76263cbd0,species,mahuba,Clinostemon,,"Kuhlm. & A.Samp.",0,1928,,"Bol. Mus. Nac. Rio de Janeiro 4(2): 57 (1928)",,,,9470c4c4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:61211-2,wfo-0000611899,4178854,,

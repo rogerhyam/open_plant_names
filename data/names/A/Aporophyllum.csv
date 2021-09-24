@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfa3c40a-8fd1-11eb-924d-9cd76263cbd0,genus,Aporophyllum,,,,,,,,,,,,,,wfo-4000002750,,,
-1ef3563a-8fcc-11eb-924d-9cd76263cbd0,species,litoralis,Aporopsis,,"(Schltr.) M.A.Clem. & D.L.Jones","Q62278,Q2272220,Q1175070",2002,,"Orchadian 13: 485 2002",,,,,,20005880-1,wfo-0000340381,2824728,,
-1ef373c2-8fcc-11eb-924d-9cd76263cbd0,species,macfarlanei,Aporopsis,,"(F.Muell.) M.A.Clem. & D.L.Jones","Q708002,Q2272220,Q1175070",2002,,"Orchadian 13: 485 2002",,,,7ee7e686-8fcd-11eb-924d-9cd76263cbd0,,20005879-1,wfo-0000340382,2822676,,
+dfa3c40a-8fd1-11eb-924d-9cd76263cbd0,genus,Aporophyllum,,,D.R.Hunt,,,,,,,,,,,wfo-4000002750,,,
+a1877838-8fcc-11eb-924d-9cd76263cbd0,species,frieburgensis,Aporophyllum,,"(Weing.) P.V.Heath",0,1984,,"in Epiphytes 8(30): 39. 1984.",,,,,,,wfo-0000540931,,,
+1ef3563a-8fcc-11eb-924d-9cd76263cbd0,species,litoralis,Aporopsis,,"(Schltr.) M.A.Clem. & D.L.Jones",0,2002,,"Orchadian 13: 485 (2002)",,,,,,urn:lsid:ipni.org:names:20005880-1,wfo-0000340381,2824728,,
+1ef373c2-8fcc-11eb-924d-9cd76263cbd0,species,macfarlanei,Aporopsis,,"(F.Muell.) M.A.Clem. & D.L.Jones",0,2002,,"Orchadian 13: 485 (2002)",,,,7ee7e686-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20005879-1,wfo-0000340382,2822676,,

@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3f5f4ce-8fd1-11eb-924d-9cd76263cbd0,genus,Geobalanus,,,Small,Q2590065,1913,,"Fl. Miami 80–81, 200. 1913.",,,,,,297348-2,wfo-4000015515,2985582,,
-4269e0c4-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolius,Geobalanus,,"(Michx.) Small","Q521848,Q2590065",1913,,"Fl. Miami 81 1913",,,,4124a0a0-8fcd-11eb-924d-9cd76263cbd0,,108790-2,wfo-0000833063,2985320,,
-4269fd20-8fcd-11eb-924d-9cd76263cbd0,species,pallidus,Geobalanus,,Small,Q2590065,1913,,"Fl. Miami 81 1913",,,,,,108791-2,wfo-0000833064,2985316,,
+e3f5f4ce-8fd1-11eb-924d-9cd76263cbd0,genus,Geobalanus,,,Small,0,1913,,"Fl. Miami : 80 (1913)",,,,,,urn:lsid:ipni.org:names:297348-2,wfo-4000015515,2985582,,
+4269e0c4-8fcd-11eb-924d-9cd76263cbd0,species,oblongifolius,Geobalanus,,Small,0,1913,,"Fl. Miami : 81 (1913)",,,,4124a0a0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:108790-2,wfo-0000833063,2985320,,
+4269fd20-8fcd-11eb-924d-9cd76263cbd0,species,pallidus,Geobalanus,,Small,0,1913,,"Fl. Miami : 81 (1913)",,,,,,urn:lsid:ipni.org:names:108791-2,wfo-0000833064,2985316,,
+5c2e276e-1d4d-11ec-82c2-f14daa6f2d93,species,retifolius,Geobalanus,,"(S.F.Blake) Sothers & Prance",,,,"Kew Bull. 71(4)-58: 14. 2016 [15 Dec 2016] [epublished]",,,,,,urn:lsid:ipni.org:names:77156130-1,wfo-0001356659,,,
+5c2e555e-1d4d-11ec-82c2-f14daa6f2d93,species,riverae,Geobalanus,,"(Prance) Sothers & Prance",,,,"Kew Bull. 71(4)-58: 14. 2016 [15 Dec 2016] [epublished]",,,,,,urn:lsid:ipni.org:names:77156131-1,wfo-0001356660,,,

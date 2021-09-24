@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8206c5a-8fd1-11eb-924d-9cd76263cbd0,genus,Peltophyllum,,,Gardner,Q2404423,1843,,"Proc. Linn. Soc. Lond. 1: 176. 1843.",,,,,,39567-1,wfo-4000028517,2861451,,
-0c6e3376-8fcd-11eb-924d-9cd76263cbd0,species,caudatum,Peltophyllum,,"(Poulsen) R.Schmid & M.D.Turner","Q18910686,Q19001826,Q21394406",1977,,"Madroño 24: 71 1977",,Q93963890,,,,187033-2,wfo-0000720278,5327115,,
-0c6e720a-8fcd-11eb-924d-9cd76263cbd0,species,luteum,Peltophyllum,,Gardner,Q2404423,1843,,"Proc. Linn. Soc. London 1: 176 1843",,,,,,836267-1,wfo-0000720280,5327117,,
+e8206c5a-8fd1-11eb-924d-9cd76263cbd0,genus,Peltophyllum,,,Gardner,0,1843,,"Proc. Linn. Soc. London 1: 176 (1843)",,,,,,urn:lsid:ipni.org:names:39567-1,wfo-4000028517,2861451,,
+0c6e3376-8fcd-11eb-924d-9cd76263cbd0,species,caudatum,Peltophyllum,,"(Poulsen) R.Schmid & M.D.Turner",0,1977,,"Madroño 24: 71 (1977)",,Q93963890,,,,urn:lsid:ipni.org:names:187033-2,wfo-0000720278,5327115,,
+0c6e720a-8fcd-11eb-924d-9cd76263cbd0,species,luteum,Peltophyllum,,Gardner,0,1843,,"Proc. Linn. Soc. London 1: 176 (1843)",,,,,,urn:lsid:ipni.org:names:836267-1,wfo-0000720280,5327117,,

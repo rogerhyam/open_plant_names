@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e76829ba-8fd1-11eb-924d-9cd76263cbd0,genus,Nuytsia,,,"R.Br. ex G.Don","Q155764,Q1381245",1834,,"Gen. Hist. 3: 432. 1834. (8-15 Nov 1834)",,,,,,77118222-1,wfo-4000026396,4001228,,
-3736aeb8-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Nuytsia,,R.Br.,Q155764,1831,,"J. Roy. Geogr. Soc. 1: 17 1831",,,,,,550616-1,wfo-0000378974,,,
-37351f3a-8fcc-11eb-924d-9cd76263cbd0,species,ligustrina,Nuytsia,,"A.Cunn. ex Lindl.","Q545888,Q378629",1839,,"Sketch Veg. Swan R. 39 1839",,,,,,550617-1,wfo-0000378966,4004118,,
-d8241b9e-8fd1-11eb-924d-9cd76263cbd0,species,pulvinata,Nyachia,,Small,Q2590065,1925,,"Torreya 25(1): 12 1925",,,,,,171131-2,wfo-0001291906,3809536,,
-3a2cabe0-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Nyalelia,,Dennst.,Q5711541,1818,,"Schlüssel Hortus Malab. 30 1818",,,,,,579090-1,wfo-0000382437,3852776,,
+e76829ba-8fd1-11eb-924d-9cd76263cbd0,genus,Nuytsia,,,"R.Br. ex G.Don",0,1834,,"Gen. Hist. 3: 432 (1834)",,,,,,urn:lsid:ipni.org:names:77118222-1,wfo-4000026396,4001228,,
+3736aeb8-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Nuytsia,,R.Br.,0,1831,,"Gen. Hist. 3: 432 (1834)",,,,,,urn:lsid:ipni.org:names:550616-1,wfo-0000378974,,,
+37351f3a-8fcc-11eb-924d-9cd76263cbd0,species,ligustrina,Nuytsia,,"A.Cunn. ex Lindl.",0,1839,,"Sketch Veg. Swan R. : 39 (1839)",,,,,,urn:lsid:ipni.org:names:550617-1,wfo-0000378966,4004118,,
+d8241b9e-8fd1-11eb-924d-9cd76263cbd0,species,pulvinata,Nyachia,,Small,0,1925,,"Torreya 25: 12 (1925)",,,,,,urn:lsid:ipni.org:names:171131-2,wfo-0001291906,3809536,,
+3a2cabe0-8fcc-11eb-924d-9cd76263cbd0,species,racemosa,Nyalelia,,Dennst.,0,1818,,"Schlüssel Hortus Malab. : 30 (1818)",,,,,,urn:lsid:ipni.org:names:579090-1,wfo-0000382437,3852776,,

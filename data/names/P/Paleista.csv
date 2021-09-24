@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7e2742c-8fd1-11eb-924d-9cd76263cbd0,genus,Paleista,,,,,,,,,,,,,,wfo-4000027776,7338610,,
-1c7eece8-8fb3-11eb-924d-9cd76263cbd0,species,brachypoda,Paleista,,"(Michx.) Raf.","Q521848,Q364857",1836,,"New Fl. (Rafinesque) ii. 43 (1836)",,,,f48b811c-8fb5-11eb-924d-9cd76263cbd0,,,wfo-0000041807,3086624,,
-07ee88f2-8fb2-11eb-924d-9cd76263cbd0,species,procumbens,Paleista,,Raf.,Q364857,1836,,"New Fl. (Rafinesque) ii. 43 (1836)",,,,,,,wfo-0000006121,4248559,,
-eed5cd02-8fcb-11eb-924d-9cd76263cbd0,species,zeylanica,Palenga,,Thwaites,Q2656749,1856,,"Hooker's J. Bot. Kew Gard. Misc. 8: 271 1856",,,,,,353224-1,wfo-0000262730,3076071,,
-44c2ad9c-8fb9-11eb-924d-9cd76263cbd0,species,delfinii,Palenia,,Phil.,Q214994,1895,,"7 1895",,Q101007059,,,,180881-2,wfo-0000116896,3129156,,
+e7e2742c-8fd1-11eb-924d-9cd76263cbd0,genus,Paleista,,,Raf.,,,,"New Fl. ii. 43 (1836)",,,,,,urn:lsid:ipni.org:names:10373-1,wfo-4000027776,7338610,,
+1c7eece8-8fb3-11eb-924d-9cd76263cbd0,species,brachypoda,Paleista,,Raf.,0,1836,,"New Fl. 2: 43 (1836)",,,,f48b811c-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:236381-1,wfo-0000041807,3086624,,
+07ee88f2-8fb2-11eb-924d-9cd76263cbd0,species,procumbens,Paleista,,Raf.,0,1836,,"New Fl. ii. 43 (1836)",,,,,,urn:lsid:ipni.org:names:236382-1,wfo-0000006121,4248559,,
+eed5cd02-8fcb-11eb-924d-9cd76263cbd0,species,zeylanica,Palenga,,Thwaites,0,1856,,"Hooker's J. Bot. Kew Gard. Misc. 8: 271 (1856)",,,,,,urn:lsid:ipni.org:names:353224-1,wfo-0000262730,3076071,,
+44c2ad9c-8fb9-11eb-924d-9cd76263cbd0,species,delfinii,Palenia,,Phil.,0,1895,,"Anales Univ. Chile 90: 7 (1895)",,Q101007059,,,,urn:lsid:ipni.org:names:180881-2,wfo-0000116896,3129156,,

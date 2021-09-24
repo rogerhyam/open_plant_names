@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e03987ec-8fd1-11eb-924d-9cd76263cbd0,genus,Bienertia,,,"Bunge ex Boiss.","Q65899,Q34430",1879,,"Fl. Orient. 4: 945. 1879.",,,,,,6782-1,wfo-4000004590,7404178,,
-b15bf810-8fcc-11eb-924d-9cd76263cbd0,species,cycloptera,Bienertia,,Bunge,Q65899,1879,,"Fl. Orient. 4: 945 1879",,,,,,,wfo-0000565176,7737962,,
-c2d3115a-8fd1-11eb-924d-9cd76263cbd0,species,cycloptera,Bienertia,,L.,Q1043,,,,,,,,,,wfo-0001259383,7452463,,
-b15c1bd8-8fcc-11eb-924d-9cd76263cbd0,species,kossinskyi,Bienertia,,"(Iljin) Tzvelev","Q6020248,Q4503394",1993,,"Ukrayins'k. Bot. Zhurn. 50: 84 1993",,,,,,972535-1,wfo-0000565177,3760922,,
-b15c62d2-8fcc-11eb-924d-9cd76263cbd0,species,sinuspersici,Bienertia,,Akhani,Q5903221,2005,,"Syst. Bot. 30: 291 2005",,,,,,,wfo-0000565178,3760916,,
+e03987ec-8fd1-11eb-924d-9cd76263cbd0,genus,Bienertia,,,"Bunge ex Boiss.",0,1879,,"Fl. Orient. 4: 945 (1879)",,,,,,urn:lsid:ipni.org:names:6782-1,wfo-4000004590,7404178,,
+b15bf810-8fcc-11eb-924d-9cd76263cbd0,species,cycloptera,Bienertia,,Bunge,0,1879,,"Fl. Orient. 4: 945 1879",,,,,,,wfo-0000565176,7737962,,
+c2d3115a-8fd1-11eb-924d-9cd76263cbd0,species,cycloptera,Bienertia,,Bunge,0,,,"Fl. Orient. 4: 945 (1879)",,,,,,urn:lsid:ipni.org:names:164507-1,wfo-0001259383,7452463,,
+b15c1bd8-8fcc-11eb-924d-9cd76263cbd0,species,kossinskyi,Bienertia,,"(Iljin) Tzvelev",0,1993,,"Ukrayins'k. Bot. Zhurn. 50: 84 (1993)",,,,,,urn:lsid:ipni.org:names:972535-1,wfo-0000565177,3760922,,
+b15c62d2-8fcc-11eb-924d-9cd76263cbd0,species,sinuspersici,Bienertia,,Akhani,0,2005,,"Syst. Bot. 30: 291 (2005)",,,,,,urn:lsid:ipni.org:names:60438510-2,wfo-0000565178,3760916,,

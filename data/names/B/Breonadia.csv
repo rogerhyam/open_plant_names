@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0d1e82a-8fd1-11eb-924d-9cd76263cbd0,genus,Breonadia,,,Ridsdale,Q4394497,1975,,"Blumea 22: 549. 1975.",,Q96027582,,,,34251-1,wfo-4000005396,2900925,,
-4ef519f4-8fcc-11eb-924d-9cd76263cbd0,species,microcephala,Breonadia,,"(Delile) Ridsdale","Q1340280,Q4394497",1975,,"Blumea 22: 549 1975",,Q96027582,,e69253d6-8fcb-11eb-924d-9cd76263cbd0,,745136-1,wfo-0000409423,2900937,,
-4eff2e8a-8fcc-11eb-924d-9cd76263cbd0,species,salicina,Breonadia,,"(Vahl) Hepper & J.R.I.Wood","Q353283,Q5868529,Q5933549",1982,,"Kew Bull. 36: 860 1982",,Q43226765,,acfdc6b8-8fd1-11eb-924d-9cd76263cbd0,,910167-1,wfo-0000409480,2900926,,
-4f0fbc0a-8fcc-11eb-924d-9cd76263cbd0,variety,galpinii,Breonadia,salicina,"(Oliv.) Hepper & J.R.I.Wood","Q1161960,Q5868529,Q5933549",1983,,"Kew Bull. 38: 85 1983",,Q55778978,,2c606794-8fcd-11eb-924d-9cd76263cbd0,,921849-1,wfo-0000409537,2900929,,
+e0d1e82a-8fd1-11eb-924d-9cd76263cbd0,genus,Breonadia,,,Ridsdale,0,1975,,"Blumea 22: 549 (1975)",,Q96027582,,,,urn:lsid:ipni.org:names:34251-1,wfo-4000005396,2900925,,
+4ef519f4-8fcc-11eb-924d-9cd76263cbd0,species,microcephala,Breonadia,,"(Delile) Ridsdale",0,1975,,"Blumea 22: 549 (1975)",,Q96027582,,e69253d6-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:745136-1,wfo-0000409423,2900937,,
+4eff2e8a-8fcc-11eb-924d-9cd76263cbd0,species,salicina,Breonadia,,"(Vahl) Hepper & J.R.I.Wood",0,1982,,"Kew Bull. 36: 860 (1982)",,Q43226765,,acfdc6b8-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:910167-1,wfo-0000409480,2900926,,
+4f0fbc0a-8fcc-11eb-924d-9cd76263cbd0,variety,galpinii,Breonadia,salicina,"(Oliv.) Hepper & J.R.I.Wood",0,1983,,"Kew Bull. 38: 85 (1983)",,Q55778978,,2c606794-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:921849-1,wfo-0000409537,2900929,,

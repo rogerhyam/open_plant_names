@@ -1,7 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6ea08ee-9bad-11eb-a8a2-19ed5c03f8d3,genus,Berkelella,,,"(Sacc.) Sacc.",Q707840,1891,,"Syll. fung. (Abellini) 9: 989 (1891)",,,,,,,,,549," "
-670d4016-9bac-11eb-a8a2-19ed5c03f8d3,species,caledonica,Berkelella,,"(Pat.) Sacc.",Q707840,,,,,,,1f51173e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,142206," "
-4595e410-9bac-11eb-a8a2-19ed5c03f8d3,species,stilbigera,Berkelella,,"(Berk. & Broome) Sacc.","Q662338,Q1932460,Q707840",1891,,"Syll. fung. (Abellini) 9: 989 (1891)",,,,67919d3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,142317," "
-2436ec6a-9bac-11eb-a8a2-19ed5c03f8d3,species,stromaticola,Berkelella,,"(Sacc.) Höhn.","Q707840,Q4502879",1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 823 (1909)",,,,0fed0e9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101673," "
-46197b3a-8fcd-11eb-924d-9cd76263cbd0,species,berkeleyanum,,,"(Bowden) Bowden",Q21339686,1967,,"Canad. J. Bot. 45: 720 1967",,Q95998079,,461e96a6-8fcd-11eb-924d-9cd76263cbd0,,400093-1,wfo-0000841036,,,
-461e96a6-8fcd-11eb-924d-9cd76263cbd0,species,berkeleyanum,,,Bowden,Q21339686,1958,,"Canad. J. Bot. 36: 109 1958",,,,,,400118-1,wfo-0000841075,,,
+a6ea08ee-9bad-11eb-a8a2-19ed5c03f8d3,genus,Berkelella,,,"(Sacc.) Sacc.",0,1891,,"Syll. fung. (Abellini) 9: 989 (1891)",,,,,,,,,549," "
+670d4016-9bac-11eb-a8a2-19ed5c03f8d3,species,caledonica,Berkelella,,"(Pat.) Sacc.",0,,,,,,,1f51173e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,142206," "
+4595e410-9bac-11eb-a8a2-19ed5c03f8d3,species,stilbigera,Berkelella,,"(Berk. & Broome) Sacc.",0,1891,,"Syll. fung. (Abellini) 9: 989 (1891)",,,,67919d3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,142317," "
+2436ec6a-9bac-11eb-a8a2-19ed5c03f8d3,species,stromaticola,Berkelella,,"(Sacc.) Höhn.",0,1909,,"Sber. Akad. Wiss. Wien, Math.-naturw. Kl., Abt. 1 118: 823 (1909)",,,,0fed0e9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,101673," "

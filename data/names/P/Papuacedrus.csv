@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7edcf5c-8fd1-11eb-924d-9cd76263cbd0,genus,Papuacedrus,,,H.L.Li,Q5904719,1953,,"J. Arnold Arbor. 34(1): 25. 1953.",,Q100559759,,,,13467-1,wfo-4000027946,2684221,,
-44f3e1b0-8fcc-11eb-924d-9cd76263cbd0,species,arfakensis,Papuacedrus,,"(Gibbs) H.L.Li","Q1153115,Q5904719",1953,,"J. Arnold Arbor. 34: 25 1953",,Q100559759,,,,294872-1,wfo-0000396782,2684231,,
-44f3c05e-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Papuacedrus,,"(F.Muell.) H.L.Li","Q708002,Q5904719",1953,,"J. Arnold Arbor. 34: 25 1953",,Q100559759,,,,294873-1,wfo-0000396781,2684222,,
-44f3a1aa-8fcc-11eb-924d-9cd76263cbd0,variety,arfakensis,Papuacedrus,papuana,"(Gibbs) R.J.Johns","Q1153115,Q6109473",1995,,"Bot. Mag. n.s., 12: 70 1995",,,,,,982653-1,wfo-0000396780,2684228,,
-44f3830a-8fcc-11eb-924d-9cd76263cbd0,species,torricellensis,Papuacedrus,,"(Schltr. ex Lauterb.) H.L.Li","Q62278,Q72821,Q5904719",1953,,"J. Arnold Arbor. 34: 25 1953",,Q100559759,,2aab0a2c-8fcc-11eb-924d-9cd76263cbd0,,294874-1,wfo-0000396779,8661212,,
+e7edcf5c-8fd1-11eb-924d-9cd76263cbd0,genus,Papuacedrus,,,H.L.Li,0,1953,,"J. Arnold Arbor. 34: 25 (1953)",,Q100559759,,,,urn:lsid:ipni.org:names:13467-1,wfo-4000027946,2684221,,
+44f3e1b0-8fcc-11eb-924d-9cd76263cbd0,species,arfakensis,Papuacedrus,,"(Gibbs) H.L.Li",0,1953,,"J. Arnold Arbor. 34: 25 (1953)",,Q100559759,,,,urn:lsid:ipni.org:names:294872-1,wfo-0000396782,2684231,,
+44f3c05e-8fcc-11eb-924d-9cd76263cbd0,species,papuana,Papuacedrus,,"(F.Muell.) H.L.Li",0,1953,,"J. Arnold Arbor. 34: 25 (1953)",,Q100559759,,,,urn:lsid:ipni.org:names:294873-1,wfo-0000396781,2684222,,
+44f3a1aa-8fcc-11eb-924d-9cd76263cbd0,variety,arfakensis,Papuacedrus,papuana,"(Gibbs) R.J.Johns",0,1995,,"Bot. Mag. , n.s., 12: 70 (1995)",,,,,,urn:lsid:ipni.org:names:982653-1,wfo-0000396780,2684228,,
+835281f0-1d4d-11ec-82c2-f14daa6f2d93,variety,papuana,Papuacedrus,papuana,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77172350-1,wfo-0001427249,,,
+44f3830a-8fcc-11eb-924d-9cd76263cbd0,species,torricellensis,Papuacedrus,,"(Schltr.) H.L.Li",0,1953,,"J. Arnold Arbor. 34: 25 (1953)",,Q100559759,,2aab0a2c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:294874-1,wfo-0000396779,8661212,,

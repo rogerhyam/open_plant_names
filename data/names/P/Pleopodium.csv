@@ -1,3 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8b6f1d4-8fd1-11eb-924d-9cd76263cbd0,genus,Pleopodium,,,"Schelpe & N.C.Anthony","Q21395460,Q26713151",,,,,,,,,17522200-1,wfo-4000030275,7290196,,
-5d9edf2a-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Pleopogon,,Nutt.,Q728337,1848,,"J. Acad. Nat. Sci. Philadelphia II, 1: 189 1848",,,,,,,wfo-0000891220,4130630,,
+e8b6f1d4-8fd1-11eb-924d-9cd76263cbd0,genus,Pleopodium,,,"Schelpe & N.C.Anthony",0,,,"Bothalia 15: 557 (1985)",,,,,,urn:lsid:ipni.org:names:17522200-1,wfo-4000030275,7290196,,
+b1177294-8fd1-11eb-924d-9cd76263cbd0,species,bartlettii,Pleopodium,,"(Weath.) Mickel & Beitel",0,1987,,"Amer. Fern J. 77(1): 20 (1987)",,Q55764604,,b117956c-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17535090-1,wfo-0001226612,,,
+b117ef94-8fd1-11eb-924d-9cd76263cbd0,species,fallacissimum,Pleopodium,,"(Maxon) Mickel & Beitel",0,1987,,"Amer. Fern J. 77(1): 20 (1987)",,Q55764604,,b118423c-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17535100-1,wfo-0001226614,,,
+b11683d4-8fd1-11eb-924d-9cd76263cbd0,species,leucosporum,Pleopodium,,"(Klotzsch) Mickel & Beitel",0,1987,,"Amer. Fern J. 77(1): 16 (1987)",,Q55764604,,d0ae7ec6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17535080-1,wfo-0001226604,,,
+b11731ee-8fd1-11eb-924d-9cd76263cbd0,species,simianum,Pleopodium,,"Schelpe & N.C.Anthony",0,1985,,"Bothalia 15(3-4): 557 (1985)",,,,,,urn:lsid:ipni.org:names:17523840-1,wfo-0001226610,,,
+b1174fbc-8fd1-11eb-924d-9cd76263cbd0,species,tricholepis,Pleopodium,,"Mickel & Beitel",0,1987,,"Amer. Fern J. 77: 17 (1987)",,Q55764604,,,,urn:lsid:ipni.org:names:315252-2,wfo-0001226611,,,
+5d9edf2a-8fcd-11eb-924d-9cd76263cbd0,species,setosum,Pleopogon,,Nutt.,0,1848,,"J. Acad. Nat. Sci. Philadelphia , ser. 2, 1: 189 (1848)",,,,,,urn:lsid:ipni.org:names:283286-2,wfo-0000891220,4130630,,

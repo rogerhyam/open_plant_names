@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a8256d66-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ischnostroma,,,"Syd. & P. Syd.",,1914,,"Philipp. J. Sci., C, Bot. 9: 186 (1914)",,,,a8256d66-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8640," "
 7e750b9e-9bac-11eb-a8a2-19ed5c03f8d3,species,merrillii,Ischnostroma,,"Syd. & P. Syd.",,1914,,"Philipp. J. Sci., C, Bot. 9: (1914)",,,,7e750b9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,171653," "
-565bd0b0-8fcd-11eb-924d-9cd76263cbd0,species,pulchellus,Ischnurus,,Balf.f.,Q670050,1884,,"Proc. Roy. Soc. Edinburgh 12: 98 1884",,,,,,406332-1,wfo-0000876440,5678562,,
-565c0512-8fcd-11eb-924d-9cd76263cbd0,variety,orientalis,Ischurochloa,arundinacea,"(Nees) Buse",Q76349,1857,,"Pl. Ind. Bat. Orient. 115 1857",,,,,,,wfo-0000876442,5939912,,
-565c236c-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Ischurochloa,,Buse,,1854,,"Pl. Jungh. 390 1854",,,,,,,wfo-0000876443,4142106,,
-565c419e-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Ischurochloa,,"(Buch.-Ham.) Buse",Q536945,1854,,"Pl. Jungh. 390 1854",,,,,,,wfo-0000876444,4142093,,
-565c6570-8fcd-11eb-924d-9cd76263cbd0,species,stenostachya,Ischurochloa,,"(Hack.) Nakai","Q2209907,Q704751",1932,,"Sci. Educ. (Tokyo) 15(6): 68 1932",,,,4bc5401e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000876445,5939934,,
+565bd0b0-8fcd-11eb-924d-9cd76263cbd0,species,pulchellus,Ischnurus,,Balf.f.,0,1884,,"Proc. Roy. Soc. Edinburgh 12: 98 (1883)",,,,,,urn:lsid:ipni.org:names:406332-1,wfo-0000876440,5678562,,
+565c0512-8fcd-11eb-924d-9cd76263cbd0,variety,orientalis,Ischurochloa,arundinacea,"(Nees) Buse",0,1857,,"Pl. Ind. Bat. Orient. 115 1857",,,,,,,wfo-0000876442,5939912,,
+565c236c-8fcd-11eb-924d-9cd76263cbd0,species,floribunda,Ischurochloa,,Buse,,1854,,"Pl. Jungh. , prepr.: 50 (1854)",,,,,,urn:lsid:ipni.org:names:406333-1,wfo-0000876443,4142106,,
+565c419e-8fcd-11eb-924d-9cd76263cbd0,species,spinosa,Ischurochloa,,Buse,0,1854,,"Pl. Jungh. , prepr.: 50 (1854)",,,,,,urn:lsid:ipni.org:names:406334-1,wfo-0000876444,4142093,,
+565c6570-8fcd-11eb-924d-9cd76263cbd0,species,stenostachya,Ischurochloa,,"(Hack.) Nakai",0,1932,,"Sci. Educ. (Tokyo) 15(6): 68 1932",,,,4bc5401e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000876445,5939934,,

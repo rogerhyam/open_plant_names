@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e434bdb2-8fd1-11eb-924d-9cd76263cbd0,genus,Grisollea,,,Baill.,Q461931,1864,,"Adansonia 4: 217. 1864.",,,,,,28187-1,wfo-4000016256,7314394,,
-b007e50e-8fcd-11eb-924d-9cd76263cbd0,species,crassifolia,Grisollea,,"Schori, Lowry & G.E.Schatz","Q19001861,Q2792431,Q5488741",,,ined.:,,,,,,,wfo-0001043754,7421774,,
-06de1eee-8fcd-11eb-924d-9cd76263cbd0,species,myriantha,Grisollea,,Baill.,Q461931,1864,,"Adansonia 4: 217 1864",,,,,,607827-1,wfo-0000710510,3596824,,
-06de3e60-8fcd-11eb-924d-9cd76263cbd0,species,thomassetii,Grisollea,,Hemsl.,Q1339247,,,"Hooker's Icon. Pl. 28: t. 2789 1903",,,,,,607828-1,wfo-0000710511,3596814,,
-8f84ae8e-8fcd-11eb-924d-9cd76263cbd0,species,apiculata,Grisseea,,Bakh.f.,Q4076182,1950,,"Blumea 6: 392 1950",,Q96029142,,,,79136-1,wfo-0000975584,3616243,,
+e434bdb2-8fd1-11eb-924d-9cd76263cbd0,genus,Grisollea,,,Baill.,0,1864,,"Adansonia 4: 217 (1864)",,,,,,urn:lsid:ipni.org:names:28187-1,wfo-4000016256,7314394,,
+b007e50e-8fcd-11eb-924d-9cd76263cbd0,species,crassifolia,Grisollea,,"Schori, Lowry & G.E.Schatz",0,,,"Syst. Bot. 38: 500 (2013)",,,,,,urn:lsid:ipni.org:names:77132586-1,wfo-0001043754,7421774,,
+06de1eee-8fcd-11eb-924d-9cd76263cbd0,species,myriantha,Grisollea,,Baill.,0,1864,,"Adansonia 4: 217 (1864)",,,,,,urn:lsid:ipni.org:names:607827-1,wfo-0000710510,3596824,,
+06de3e60-8fcd-11eb-924d-9cd76263cbd0,species,thomassetii,Grisollea,,Hemsl.,0,,,"Hooker's Icon. Pl. 28: t. 2789 (1903)",,,,,,urn:lsid:ipni.org:names:607828-1,wfo-0000710511,3596814,,
+8f84ae8e-8fcd-11eb-924d-9cd76263cbd0,species,apiculata,Grisseea,,Bakh.f.,0,1950,,"Blumea 6: 392 (1950)",,Q96029142,,,,urn:lsid:ipni.org:names:79136-1,wfo-0000975584,3616243,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e42cd20a-8fd1-11eb-924d-9cd76263cbd0,genus,Grangeria,,,"Comm. ex Juss.","Q595066,Q223963",1789,,"Gen. Pl. 340. 1789. (4 Aug 1789)",,,,,,33816-1,wfo-4000016150,2984928,,
-42744f96-8fcd-11eb-924d-9cd76263cbd0,species,borbonica,Grangeria,,Lam.,Q82122,1789,,"Encycl. 3: 21 1789",,,,,,725419-1,wfo-0000833159,5361956,,
-4274699a-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Grangeria,,"Hoffmanns. ex Mart. & Zucc.","Q76697,Q77131,Q77121",1832,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 1: 378 1832",,,,,,725420-1,wfo-0000833160,7351150,,
-427485ce-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Grangeria,,Sm.,Q458004,1811,,"Cycl. 16: 1 1811",,,,,,725421-1,wfo-0000833161,5361957,,
-42749f8c-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Grangeria,,O.Hoffm.,Q4147110,1881,,"Sert. Pl. Madagasc. 15 1881",,,,,,725422-1,wfo-0000833162,5361955,,
-4274baf8-8fcd-11eb-924d-9cd76263cbd0,species,porosa,Grangeria,,"Boivin ex Baill.","Q2382236,Q461931",1868,,"Adansonia 8: 200 1868",,,,,,725423-1,wfo-0000833163,8151149,,
+e42cd20a-8fd1-11eb-924d-9cd76263cbd0,genus,Grangeria,,,"Comm. ex Juss.",0,1789,,"Gen. Pl. : 340 (1789)",,,,,,urn:lsid:ipni.org:names:33816-1,wfo-4000016150,2984928,,
+42744f96-8fcd-11eb-924d-9cd76263cbd0,species,borbonica,Grangeria,,Lam.,0,1789,,"Encycl. 3: 21 (1789)",,,,,,urn:lsid:ipni.org:names:725419-1,wfo-0000833159,5361956,,
+4274699a-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Grangeria,,"Hoffmanns. ex Mart. & Zucc.",0,1832,,"Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 1: 378 (1829-1830 publ. 1832)",,,,,,urn:lsid:ipni.org:names:725420-1,wfo-0000833160,7351150,,
+427485ce-8fcd-11eb-924d-9cd76263cbd0,species,buxifolia,Grangeria,,Sm.,0,1811,,"Cycl. 16: n.º 1 (1811)",,,,,,urn:lsid:ipni.org:names:725421-1,wfo-0000833161,5361957,,
+42749f8c-8fcd-11eb-924d-9cd76263cbd0,species,madagascariensis,Grangeria,,O.Hoffm.,0,1881,,"Sert. Pl. Madagasc. : 15 (1881)",,,,,,urn:lsid:ipni.org:names:725422-1,wfo-0000833162,5361955,,
+4274baf8-8fcd-11eb-924d-9cd76263cbd0,species,porosa,Grangeria,,"Boiv. ex Baill.",0,1868,,"Adansonia 8: 200 (1868)",,,,,,urn:lsid:ipni.org:names:725423-1,wfo-0000833163,8151149,,

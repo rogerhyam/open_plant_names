@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e12b8740-8fd1-11eb-924d-9cd76263cbd0,genus,Cansenia,,,,,,,,,,,,,,wfo-4000006557,2975850,,
-bd14b246-8fcc-11eb-924d-9cd76263cbd0,species,angulosa,Cansenia,,"(Vogel) Raf.","Q86254,Q364857",1838,,"Sylva Tellur. 122 1838",,,,7c43617e-8fc0-11eb-924d-9cd76263cbd0,,483746-1,wfo-0000584071,3967401,,
-bd14f256-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Cansenia,,"(L.) Raf.","Q1043,Q364857",1838,,"Sylva Tellur. 122 1838",,,,,,483747-1,wfo-0000584073,3967398,,
-3cdd07f4-8fc2-11eb-924d-9cd76263cbd0,species,ungulata,Cansenia,,"(L.) Raf.","Q1043,Q364857",,,,,,,cdd3019c-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000176294,2952996,,
+e12b8740-8fd1-11eb-924d-9cd76263cbd0,genus,Cansenia,,,Raf.,,,,"Sylva Tellur. : 122 (1838)",,,,,,urn:lsid:ipni.org:names:327180-2,wfo-4000006557,2975850,,
+bd14b246-8fcc-11eb-924d-9cd76263cbd0,species,angulosa,Cansenia,,"(Vogel) Raf.",0,1838,,"Sylva Tellur. : 122 (1838)",,,,7c43617e-8fc0-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:483746-1,wfo-0000584071,3967401,,
+bd14f256-8fcc-11eb-924d-9cd76263cbd0,species,tomentosa,Cansenia,,"(L.) Raf.",0,1838,,"Sylva Tellur. : 122 (1838)",,,,,,urn:lsid:ipni.org:names:483747-1,wfo-0000584073,3967398,,
+3cdd07f4-8fc2-11eb-924d-9cd76263cbd0,species,ungulata,Cansenia,,"(L.) Raf.",0,,,,,,,cdd3019c-8fc1-11eb-924d-9cd76263cbd0,,,wfo-0000176294,2952996,,

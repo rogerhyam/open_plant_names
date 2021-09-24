@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea665ed4-8fd1-11eb-924d-9cd76263cbd0,genus,Simplicia,,,Kirk,Q930525,1897,,"Trans. & Proc. New Zealand Inst. 29: 497. 1897.",,,,,,19015-1,wfo-4000035408,3232736,,
-63613bf6-8fcd-11eb-924d-9cd76263cbd0,species,buchananii,Simplicia,,"(Zotov) Zotov",Q4194128,1971,,"New Zealand J. Bot. 9: 542 1971",,Q55756337,,5de294fe-8fcd-11eb-924d-9cd76263cbd0,,421933-1,wfo-0000899817,5673022,,
-63617152-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Simplicia,,Kirk,Q930525,1896,,"Trans. & Proc. New Zealand Inst. 29: 497 1896",,,,,,421934-1,wfo-0000899818,5673019,,
-63619a24-8fcd-11eb-924d-9cd76263cbd0,variety,buchananii,Simplicia,laxa,Zotov,Q4194128,1943,,"Trans. & Proc. New Zealand Inst. 73: 236 1943",,,,,,,wfo-0000899819,5827729,,
+ea665ed4-8fd1-11eb-924d-9cd76263cbd0,genus,Simplicia,,,Kirk,0,1897,,"Trans. & Proc. New Zealand Inst. 29: 497 (1897)",,,,,,urn:lsid:ipni.org:names:19015-1,wfo-4000035408,3232736,,
+63613bf6-8fcd-11eb-924d-9cd76263cbd0,species,buchananii,Simplicia,,Zotov,0,1971,,"New Zealand J. Bot. 9: 542 (1971)",,Q55756337,,5de294fe-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:421933-1,wfo-0000899817,5673022,,
+552b36c8-1d4d-11ec-82c2-f14daa6f2d93,species,felix,Simplicia,,"de Lange, J.R.Rolfe, Smissen & Ogle",,,,"PhytoKeys 75: 136 (2016)",,,,,,urn:lsid:ipni.org:names:77159000-1,wfo-0001347251,,,
+63617152-8fcd-11eb-924d-9cd76263cbd0,species,laxa,Simplicia,,Kirk,0,1896,,"Trans. & Proc. New Zealand Inst. 29: 497 (1896)",,,,,,urn:lsid:ipni.org:names:421934-1,wfo-0000899818,5673019,,
+63619a24-8fcd-11eb-924d-9cd76263cbd0,variety,buchananii,Simplicia,laxa,Zotov,0,1943,,"Trans. & Proc. New Zealand Inst. 73: 236 1943",,,,,,,wfo-0000899819,5827729,,

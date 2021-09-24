@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f15a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Mtonia,,,Beentje,Q2502603,,,,,Q55780774,,,,1008126-1,wfo-4000024935,3132439,,
-2d27552e-8fba-11eb-924d-9cd76263cbd0,species,glandulifera,Mtonia,,Beentje,Q2502603,1999,,"Kew Bull. 54(1): 97 (1999)",,Q55780774,,,,1008127-1,wfo-0000124582,3132440,,
-584ea69a-8fcd-11eb-924d-9cd76263cbd0,species,huillensis,Muantijamvella,,"(Rendle) J.B.Phipps","Q2615406,Q5925683",1964,,"Kirkia 4: 106 1964",,,,,,,wfo-0000880572,4121211,,
-e4c77bd0-8fcb-11eb-924d-9cd76263cbd0,species,roseum,Muantum,,"(C.E.C.Fisch.) Pichon","Q5759745,Q2338866",1948,,"Bull. Mus. Natl. Hist. Nat. II, 20: 382 1948",,,,,,80385-1,wfo-0000246420,3619528,,
+e6f15a2e-8fd1-11eb-924d-9cd76263cbd0,genus,Mtonia,,,Beentje,0,,,"Kew Bull. 54(1): 97 (1999)",,Q55780774,,,,urn:lsid:ipni.org:names:1008126-1,wfo-4000024935,3132439,,
+2d27552e-8fba-11eb-924d-9cd76263cbd0,species,glandulifera,Mtonia,,Beentje,0,1999,,"Kew Bull. 54(1): 97 (1999)",,Q55780774,,,,urn:lsid:ipni.org:names:1008127-1,wfo-0000124582,3132440,,
+584ea69a-8fcd-11eb-924d-9cd76263cbd0,species,huillensis,Muantijamvella,,"(Rendle) J.B.Phipps",0,1964,,"Kirkia 4: 106 (1964)",,,,,,urn:lsid:ipni.org:names:408894-1,wfo-0000880572,4121211,,
+e4c77bd0-8fcb-11eb-924d-9cd76263cbd0,species,roseum,Muantum,,"(C.E.C.Fisch.) Pichon",0,1948,,"Bull. Mus. Natl. Hist. Nat. , sér. 2, 20: 382 (1948)",,,,,,urn:lsid:ipni.org:names:80385-1,wfo-0000246420,3619528,,

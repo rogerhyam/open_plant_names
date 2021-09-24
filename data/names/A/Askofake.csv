@@ -1,5 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfd151c2-8fd1-11eb-924d-9cd76263cbd0,genus,Askofake,,,Raf.,Q364857,1836,,"Fl. Tellur. 4: 108. 1836[1838].",,,,,,,wfo-4000003274,7297885,,
-a81c531c-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Askofake,,Raf.,Q364857,1838,,"Fl. Tellur. 4: 108 1838",,,,,,526312-1,wfo-0000552029,4087734,,
-d8deed8e-8fcc-11eb-924d-9cd76263cbd0,species,biflora,Askolame,,"(Cav.) Raf.","Q545430,Q364857",1837,,"Fl. Tellur. 2: 12 1837",,,,,,530933-1,wfo-0000630575,2771054,,
-97100c02-8fcd-11eb-924d-9cd76263cbd0,species,asnieresii,,,"(Koehne) C.K.Schneid.","Q71081,Q68249",1904,,"Illustriertes Handbuch der Laubholzkunde ; 1904 765 1906",,,,,,,wfo-0000991874,,,
+dfd151c2-8fd1-11eb-924d-9cd76263cbd0,genus,Askofake,,,Raf.,0,1836,,"Fl. Tellur. 4: 108 (1838)",,,,,,urn:lsid:ipni.org:names:23888-1,wfo-4000003274,7297885,,
+a81c531c-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Askofake,,Raf.,0,1838,,"Fl. Tellur. 4: 108 (1838)",,,,,,urn:lsid:ipni.org:names:526312-1,wfo-0000552029,4087734,,
+d8deed8e-8fcc-11eb-924d-9cd76263cbd0,species,biflora,Askolame,,"(Cav.) Raf.",0,1837,,"Fl. Tellur. 2: 12 (1837)",,,,,,urn:lsid:ipni.org:names:530933-1,wfo-0000630575,2771054,,

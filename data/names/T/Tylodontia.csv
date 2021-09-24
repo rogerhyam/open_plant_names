@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebbd803c-8fd1-11eb-924d-9cd76263cbd0,genus,Tylodontia,,,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 175. 1866.",,,,,,3778-1,wfo-4000039654,7312522,,
-50bb0ffa-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Tylodontia,,Griseb.,Q76351,1866,,"Cat. Pl. Cub. 175 1866",,,,,,102367-1,wfo-0000411557,3580364,,
+ebbd803c-8fd1-11eb-924d-9cd76263cbd0,genus,Tylodontia,,,Griseb.,0,1866,,"Cat. Pl. Cub. : 175 (1866)",,,,,,urn:lsid:ipni.org:names:3778-1,wfo-4000039654,7312522,,
+50bb0ffa-8fcc-11eb-924d-9cd76263cbd0,species,cubensis,Tylodontia,,Griseb.,0,1866,,"Cat. Pl. Cub. : 175 (1866)",,,,,,urn:lsid:ipni.org:names:102367-1,wfo-0000411557,3580364,,
+5572fab2-1d4d-11ec-82c2-f14daa6f2d93,species,fuscula,Tylodontia,,"(C.Wright) Mangelsdorff, Meve & Liede",,,,"Willdenowia 46: 460 (2016)",,,,,,urn:lsid:ipni.org:names:77159829-1,wfo-0001347590,,,
+557331da-1d4d-11ec-82c2-f14daa6f2d93,species,stipitata,Tylodontia,,"Mangelsdorff, Meve & Liede",,,,"Willdenowia 46: 462 (2016)",,,,,,urn:lsid:ipni.org:names:77159830-1,wfo-0001347591,,,
+55735a02-1d4d-11ec-82c2-f14daa6f2d93,species,urceolata,Tylodontia,,"(Griseb.) Mangelsdorff, Meve & Liede",,,,"Willdenowia 46: 465 (2016)",,,,,,urn:lsid:ipni.org:names:77159831-1,wfo-0001347592,,,

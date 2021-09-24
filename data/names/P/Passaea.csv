@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e80c6e1c-8fd1-11eb-924d-9cd76263cbd0,genus,Passaea,,,,,,,,,,,,,,wfo-4000028289,,,
-1f913a74-8fc4-11eb-924d-9cd76263cbd0,species,ornithopodioides,Passaea,,"(L.) Adans.","Q1043,Q315861",,,,,,,,,,wfo-0000186486,5360143,,
-750409ca-8fcc-11eb-924d-9cd76263cbd0,species,ornithopoides,Passaea,,Scop.,Q84181,1777,,"Intr. Hist. Nat. 310 1777",,,,,,512547-1,wfo-0000465720,5626668,,
-f0449f88-8fcb-11eb-924d-9cd76263cbd0,species,spartioides,Passaea,,Baill.,Q461931,1858,,"Étude Euphorb. 508 1858",,,,,,353238-1,wfo-0000264999,5378280,,
+e80c6e1c-8fd1-11eb-924d-9cd76263cbd0,genus,Passaea,,,,,,,,,,,,,urn:lsid:ipni.org:names:15757-1,wfo-4000028289,,,
+1f913a74-8fc4-11eb-924d-9cd76263cbd0,species,ornithopodioides,Passaea,,"(L.) Adans.",0,,,,,,,,,,wfo-0000186486,5360143,,
+750409ca-8fcc-11eb-924d-9cd76263cbd0,species,ornithopoides,Passaea,,"(L.) Scop.",0,1777,,"Intr. Hist. Nat. : 310 (1777)",,,,,,urn:lsid:ipni.org:names:512547-1,wfo-0000465720,5626668,,
+f0449f88-8fcb-11eb-924d-9cd76263cbd0,species,spartioides,Passaea,,Baill.,0,1858,,"Étude Euphorb. : 508 (1858)",,,,,,urn:lsid:ipni.org:names:353238-1,wfo-0000264999,5378280,,

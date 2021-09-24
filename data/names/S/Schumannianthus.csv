@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea224d66-8fd1-11eb-924d-9cd76263cbd0,genus,Schumannianthus,,,Gagnep.,Q599122,1904,,"Bull. Soc. Bot. France 51: 176. 1904.",,Q95996686,,,,26123-1,wfo-4000034624,2762451,,
-9ce20956-8fcc-11eb-924d-9cd76263cbd0,species,dichotomus,Schumannianthus,,"(Roxb.) Gagnep.","Q748967,Q599122",1904,,"Bull. Soc. Bot. France 51: 176 1904",,Q95996686,,,,565256-1,wfo-0000533246,2762460,,
-35f65318-8fcd-11eb-924d-9cd76263cbd0,species,monophyllus,Schumannianthus,,"Suksathan, Borchs. & A.D.Poulsen","Q18778718,Q1417600,Q26712452",2006,,"Novon 16: 139 2006",,Q55790877,,,,60442761-2,wfo-0000806449,2762459,,
-9ce34546-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Schumannianthus,,"(Roxb.) Rolfe","Q748967,Q2635543",1907,,"J. Bot. 45: 244 1907",,,,d74bb15e-8fcd-11eb-924d-9cd76263cbd0,,565257-1,wfo-0000533258,2762452,,
+ea224d66-8fd1-11eb-924d-9cd76263cbd0,genus,Schumannianthus,,,Gagnep.,0,1904,,"Bull. Soc. Bot. France 51: 169 (1904)",,Q95996686,,,,urn:lsid:ipni.org:names:26123-1,wfo-4000034624,2762451,,
+48a461b8-1d4d-11ec-82c2-f14daa6f2d93,species,benthamianus,Schumannianthus,,"(Kuntze) Veldkamp & I.M.Turner",,,,"Kew Bull. 71(3)-47: 2 (2016)",,,,,,urn:lsid:ipni.org:names:60472824-2,wfo-0001330574,,,
+9ce20956-8fcc-11eb-924d-9cd76263cbd0,species,dichotomus,Schumannianthus,,Gagnep.,0,1904,,"Bull. Soc. Bot. France 51: 176 (1904)",,Q95996686,,,,urn:lsid:ipni.org:names:565256-1,wfo-0000533246,2762460,,
+35f65318-8fcd-11eb-924d-9cd76263cbd0,species,monophyllus,Schumannianthus,,"Suksathan, Borchs. & A.D.Poulsen",0,2006,,"Novon 16: 139 (2006)",,Q55790877,,,,urn:lsid:ipni.org:names:60442761-2,wfo-0000806449,2762459,,
+9ce34546-8fcc-11eb-924d-9cd76263cbd0,species,virgatus,Schumannianthus,,Rolfe,0,1907,,"J. Bot. 45: 244 (1907)",,,,d74bb15e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:565257-1,wfo-0000533258,2762452,,

@@ -1,8 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5a99adc-8fd1-11eb-924d-9cd76263cbd0,genus,Legrandia,,,Kausel,Q5816811,1944,,"Revista Argent. Agron. 9: 321. 1944.",,,,,,297447-2,wfo-4000020891,3177601,,
-d8cf663a-8fcb-11eb-924d-9cd76263cbd0,species,concinna,Legrandia,,"(Phil.) Kausel","Q214994,Q5816811",1944,,"Revista Argent. Agron. 11: 322 1944",,,,,,137049-2,wfo-0000224361,5416245,,
-7d57dc40-8fcd-11eb-924d-9cd76263cbd0,species,legrandiana,,,"(E.G.Camus) Peitz","Q3823236,Q21393395",1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 190 1972",,,,8ff96ce2-8fcd-11eb-924d-9cd76263cbd0,,941840-1,wfo-0000936375,,,
-7d5b053c-8fcd-11eb-924d-9cd76263cbd0,species,legrandiana,,,"(E.G.Camus) Soó","Q3823236,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 318 1966",,,,8ff96ce2-8fcd-11eb-924d-9cd76263cbd0,,626524-1,wfo-0000936403,,,
-ec2f9dc6-8fcb-11eb-924d-9cd76263cbd0,species,legrandiana,,,"(E.G.Camus) E.G.Camus",Q3823236,1892,,"J. Bot. (Morot) 6: 478 1892",,,,8ff96ce2-8fcd-11eb-924d-9cd76263cbd0,,648182-1,wfo-0000258808,,,
-ec26fedc-8fcb-11eb-924d-9cd76263cbd0,species,leguei,,,"(E.G.Camus) Borsos & Soó","Q3823236,Q6049790,Q281645",1966,,"Ann. Univ. Sci. Budapest. Rolando Eötvös, Sect. Biol. 8: 316 1966",,,,eca67234-8fcb-11eb-924d-9cd76263cbd0,,648235-1,wfo-0000258759,,,
-2e5d07ba-8fcc-11eb-924d-9cd76263cbd0,species,ciliata,Lehmanna,,"Casseb. & Theob.","Q1694365,Q1539346",1847,,"Fl. Wetterau 32 1847",,,,,,369720-1,wfo-0000364758,3839414,,
+e5a99adc-8fd1-11eb-924d-9cd76263cbd0,genus,Legrandia,,,Kausel,0,1944,,"Revista Argent. Agron. 11: 321 (1944)",,,,,,urn:lsid:ipni.org:names:297447-2,wfo-4000020891,3177601,,
+d8cf663a-8fcb-11eb-924d-9cd76263cbd0,species,concinna,Legrandia,,"(Phil.) Kausel",0,1944,,"Revista Argent. Agron. 11: 322 (1944)",,,,,,urn:lsid:ipni.org:names:137049-2,wfo-0000224361,5416245,,

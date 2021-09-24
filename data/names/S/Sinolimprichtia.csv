@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea6b94f8-8fd1-11eb-924d-9cd76263cbd0,genus,Sinolimprichtia,,,H.Wolff,Q4124761,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 448. 1922.",,,,,,,wfo-4000035458,6027315,,
-bb4f0320-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Sinolimprichtia,,H.Wolff,Q4124761,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 449 1922",,,,,,848874-1,wfo-0001069464,6027316,,
+ea6b94f8-8fd1-11eb-924d-9cd76263cbd0,genus,Sinolimprichtia,,,H.Wolff,0,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 448 (1922)",,,,,,urn:lsid:ipni.org:names:40535-1,wfo-4000035458,6027315,,
+bb4f0320-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Sinolimprichtia,,H.Wolff,0,1922,,"Repert. Spec. Nov. Regni Veg. Beih. 12: 449 (1922)",,,,,,urn:lsid:ipni.org:names:848874-1,wfo-0001069464,6027316,,
+00e5149e-1d4d-11ec-82c2-f14daa6f2d93,variety,alpina,Sinolimprichtia,alpina,,,,,,,,,,,,wfo-0001220128,,,
+73228a14-1d4d-11ec-82c2-f14daa6f2d93,variety,dissecta,Sinolimprichtia,alpina,"R.H.Shan & S.L.Liou",,,,"Fl. Reipubl. Popularis Sin. 55(1): 299 (1979)",,,,,,urn:lsid:ipni.org:names:892200-1,wfo-0001387959,,,

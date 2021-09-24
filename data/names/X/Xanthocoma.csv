@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec1e3b3e-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthocoma,,,,,,,,,,,,,,wfo-4000040878,7337120,,
-07addf3a-8fb9-11eb-924d-9cd76263cbd0,species,dentata,Xanthocoma,,S.Schauer,Q21337900,1847,,"Linnaea 19: 723. 1847",,,,,,269287-2,wfo-0000114772,3151823,,
-e06b9d4c-8fb6-11eb-924d-9cd76263cbd0,species,gymnospermoides,Xanthocoma,,"Benth. & Hook.f.","Q731808,Q157501",,,"Gen. ii. 250, lapsu.",,,,,,260939-1,wfo-0000094107,4224945,,
-edea0f44-8fb6-11eb-924d-9cd76263cbd0,species,humilis,Xanthocoma,,Kunth,Q77074,,,"Nov. Gen. Sp. [H.B.K.] iv. 311. t. 112.",,,,,,,wfo-0000094661,3151833,,
-0683ec32-8fb2-11eb-924d-9cd76263cbd0,species,microglossa,Xanthocoma,,"Spruce ex Benth.","Q1349394,Q731808",1873,,"Genera Plantarum 2: 249 1873",,,,,,,wfo-0000005755,3151835,,
+ec1e3b3e-8fd1-11eb-924d-9cd76263cbd0,genus,Xanthocoma,,,Kunth,,,,"Nov. Gen. Sp. 4(18): 245 (ed. fol.) (1818)",,,,,,urn:lsid:ipni.org:names:11561-1,wfo-4000040878,7337120,,
+07addf3a-8fb9-11eb-924d-9cd76263cbd0,species,dentata,Xanthocoma,,S.Schauer,0,1847,,"Linnaea 19: 723 (1847)",,,,,,urn:lsid:ipni.org:names:269287-2,wfo-0000114772,3151823,,
+e06b9d4c-8fb6-11eb-924d-9cd76263cbd0,species,gymnospermoides,Xanthocoma,,"Benth. & Hook.f.",0,,,"Gen. Pl. 2(1): 250, lapsu (1873)",,,,,,urn:lsid:ipni.org:names:260939-1,wfo-0000094107,4224945,,
+edea0f44-8fb6-11eb-924d-9cd76263cbd0,species,humilis,Xanthocoma,,Kunth,0,,,"Nov. Gen. Sp. 4(18): 246, t. 412 (ed. fol.) (1818)",,,,,,urn:lsid:ipni.org:names:260940-1,wfo-0000094661,3151833,,
+0683ec32-8fb2-11eb-924d-9cd76263cbd0,species,microglossa,Xanthocoma,,"Spruce ex Benth.",0,1873,,"Genera Plantarum 2: 249 1873",,,,,,,wfo-0000005755,3151835,,

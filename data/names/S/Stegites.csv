@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a9670194-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stegites,,,Mesch.,,,,,,,,a9670194-9bad-11eb-a8a2-19ed5c03f8d3,,,,,21317," "
 f7c65d4a-9bac-11eb-a8a2-19ed5c03f8d3,species,poacitum,Stegites,,"(A. Braun) Mesch.",,,,,,,,8356d08e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250344," "
-64ee294e-8fcc-11eb-924d-9cd76263cbd0,species,algarviensis,Stegitris,,Raf.,Q364857,1838,,"Sylva Tellur. 132 1838",,,,,,169387-1,wfo-0000438032,3596014,,
-64ee46ae-8fcc-11eb-924d-9cd76263cbd0,species,atriplicifolius,Stegitris,,"(Lam.) Raf.","Q82122,Q364857",1838,,"Sylva Tellur. 132 1838",,,,cb1e2354-8fcc-11eb-924d-9cd76263cbd0,,169388-1,wfo-0000438033,3596009,,
-64ee6148-8fcc-11eb-924d-9cd76263cbd0,species,calicinus,Stegitris,,Raf.,Q364857,1838,,"Sylva Tellur. 132 1838",,,,,,169389-1,wfo-0000438034,3596004,,
-64ee7d18-8fcc-11eb-924d-9cd76263cbd0,species,lasianthus,Stegitris,,Raf.,Q364857,1838,,"Sylva Tellur. 132 1838",,,,,,169390-1,wfo-0000438035,3595998,,
-c4e91e58-8fd1-11eb-924d-9cd76263cbd0,species,canescens,Stegnocarpus,,"(A.DC.) Torr.","Q123807,Q1346660",1855,,"Pacif. Railr. Rep. 2(4): 169 1855",,,,,,120714-1,wfo-0001263111,4067942,,
+64ee294e-8fcc-11eb-924d-9cd76263cbd0,species,algarviensis,Stegitris,,Raf.,0,1838,,"Sylva Tellur. : 132 (1838)",,,,,,urn:lsid:ipni.org:names:169387-1,wfo-0000438032,3596014,,
+64ee46ae-8fcc-11eb-924d-9cd76263cbd0,species,atriplicifolius,Stegitris,,Raf.,0,1838,,"Sylva Tellur. : 132 (1838)",,,,cb1e2354-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:169388-1,wfo-0000438033,3596009,,
+64ee6148-8fcc-11eb-924d-9cd76263cbd0,species,calicinus,Stegitris,,Raf.,0,1838,,"Sylva Tellur. : 132 (1838)",,,,,,urn:lsid:ipni.org:names:169389-1,wfo-0000438034,3596004,,
+64ee7d18-8fcc-11eb-924d-9cd76263cbd0,species,lasianthus,Stegitris,,Raf.,0,1838,,"Sylva Tellur. : 132 (1838)",,,,,,urn:lsid:ipni.org:names:169390-1,wfo-0000438035,3595998,,
+c4e91e58-8fd1-11eb-924d-9cd76263cbd0,species,canescens,Stegnocarpus,,"(DC.) Torr.",0,1855,,"Pacif. Railr. Rep. Pope, Bot. 2(4): 169 (1857)",,,,,,urn:lsid:ipni.org:names:120714-1,wfo-0001263111,4067942,,

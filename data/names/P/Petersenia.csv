@@ -1,16 +1,15 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a461120c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Petersenia,,,Sparrow,,1934,,"Dansk bot. Ark. 8(no. 6): 13 (1934)",,,,a461120c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20404," "
-a17a8380-9bac-11eb-a8a2-19ed5c03f8d3,species,andreei,Petersenia,,"(Lagerh.) Sparrow",Q5931225,,,,,,,8c91a534-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250672," "
+a17a8380-9bac-11eb-a8a2-19ed5c03f8d3,species,andreei,Petersenia,,"(Lagerh.) Sparrow",0,,,,,,,8c91a534-9bac-11eb-a8a2-19ed5c03f8d3,,,,,250672," "
 9e15cd0c-9bad-11eb-a8a2-19ed5c03f8d3,species,catenophlyctidis,Petersenia,,"B.M. Sundaram",,1968,,"J. Indian bot. Soc. 47: 144 (1968)",,,,9e15cd0c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,336031," "
-ece3cbba-9bac-11eb-a8a2-19ed5c03f8d3,species,irregularis,Petersenia,,"(Const.) Sparrow",Q21508968,1943,,"Aquatic Phycomycetes 634 (1943)",,,,b7c610f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,289230," "
+ece3cbba-9bac-11eb-a8a2-19ed5c03f8d3,species,irregularis,Petersenia,,"(Const.) Sparrow",0,1943,,"Aquatic Phycomycetes 634 (1943)",,,,b7c610f4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,289230," "
 dd817186-9bac-11eb-a8a2-19ed5c03f8d3,species,lobata,Petersenia,,"(H.E. Petersen) Sparrow",,1934,,"Dansk bot. Ark. 8(no. 6): 13 (1934)",,,,7cb03bd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,269654," "
-2c879f9a-9bac-11eb-a8a2-19ed5c03f8d3,species,palmariae,Petersenia,,"Van der Meer & Pueschel",Q21606764,1985,,"Can. J. Bot. 63(3): 407 (1985)",,,,2c879f9a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,114135," "
+2c879f9a-9bac-11eb-a8a2-19ed5c03f8d3,species,palmariae,Petersenia,,"Van der Meer & Pueschel",0,1985,,"Can. J. Bot. 63(3): 407 (1985)",,,,2c879f9a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,114135," "
 fd919e38-9bac-11eb-a8a2-19ed5c03f8d3,species,panicicola,Petersenia,,"Thirum. & Lacy",,,,,,,,fd919e38-9bac-11eb-a8a2-19ed5c03f8d3,,,,,302615," "
 9e19fe22-9bad-11eb-a8a2-19ed5c03f8d3,species,pollagaster,Petersenia,,"(H.E. Petersen) Sparrow",,,,,,,,4d621416-9bac-11eb-a8a2-19ed5c03f8d3,,,,,336032," "
 2175fcfe-9bad-11eb-a8a2-19ed5c03f8d3,species,utriculoba,Petersenia,,"C.E. Mill.",,1963,,"Mycologia 54(4): 422 (1963)",,,,2175fcfe-9bad-11eb-a8a2-19ed5c03f8d3,,,,,336033," "
-e535ee16-8fcc-11eb-924d-9cd76263cbd0,species,petersenii,,,Doweld,Q8194364,2001,,"Tsukkulenty 4: 40 2001 publ. 2002",,,,,,20011325-1,wfo-0000652205,,,
-27531cd8-8fcd-11eb-924d-9cd76263cbd0,species,africana,Petersia,,"Welw. ex Benth. & Hook.f.","Q78609,Q731808,Q157501",1865,,"Gen. Pl. 1: 721 1865",,,,,,600474-1,wfo-0000774666,5383892,,
-27545c38-8fcd-11eb-924d-9cd76263cbd0,species,klainei,Petersia,,"Pierre ex A.Chev.","Q2593213,Q766644",1917,,"Veg. Ut. Afr. Trop. Franç. 9: 211 1917",,,,,,469483-1,wfo-0000774677,5383889,,
-27543ec4-8fcd-11eb-924d-9cd76263cbd0,species,minor,Petersia,,Nied.,Q77958,1892,,"Nat. Pflanzenfam. 3(7): 31 1892",,,,,,469484-1,wfo-0000774676,5383890,,
-43e8e68a-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Petersia,,Klotzsch,Q67003,1861,,"Naturw. Reise Mossambique 168 1861",,,,,,,wfo-0000395556,5602098,,
-27540422-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Petersia,,A.Chev.,Q766644,1909,,"Veg. Ut. Afr. Trop. Franç. 5: 301 1909",,,,,,469485-1,wfo-0000774674,5383891,,
+27531cd8-8fcd-11eb-924d-9cd76263cbd0,species,africana,Petersia,,"Welw. ex Benth. & Hook.f.",0,1865,,"Gen. Pl. 1: 721 (1865)",,,,,,urn:lsid:ipni.org:names:600474-1,wfo-0000774666,5383892,,
+27545c38-8fcd-11eb-924d-9cd76263cbd0,species,klainei,Petersia,,"Pierre ex A.Chev.",0,1917,,"Vég. Ut. Afr. Trop. Franç. 9: 211 (1917)",,,,,,urn:lsid:ipni.org:names:469483-1,wfo-0000774677,5383889,,
+27543ec4-8fcd-11eb-924d-9cd76263cbd0,species,minor,Petersia,,Nied.,0,1892,,"Nat. Pflanzenfam. 3(7): 31 (1892)",,,,,,urn:lsid:ipni.org:names:469484-1,wfo-0000774676,5383890,,
+43e8e68a-8fcc-11eb-924d-9cd76263cbd0,species,rosea,Petersia,,Klotzsch,0,1861,,"Naturw. Reise Mossambique 168 1861",,,,,,,wfo-0000395556,5602098,,
+27540422-8fcd-11eb-924d-9cd76263cbd0,species,viridiflora,Petersia,,A.Chev.,0,1909,,"Vég. Ut. Afr. Trop. Franç. 5: 301 (1909)",,,,,,urn:lsid:ipni.org:names:469485-1,wfo-0000774674,5383891,,

@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dff3f560-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobaileya,,,C.T.White,Q685291,1933,,"Contr. Arnold Arbor. 4: 29. 1933.",,,,,,25550-1,wfo-4000003710,7310245,,
-0724432a-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Austrobaileya,,C.T.White,Q685291,1948,,"J. Arnold Arbor. 29: 255 1948",,Q100550442,,,,554302-1,wfo-0000301674,4197025,,
-07256f3e-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Austrobaileya,,C.T.White,Q685291,1933,,"Contr. Arnold Arbor. 4: 29 1933",,,,,,554303-1,wfo-0000301684,4197027,,
+dff3f560-8fd1-11eb-924d-9cd76263cbd0,genus,Austrobaileya,,,C.T.White,0,1933,,"Contr. Arnold Arbor. 4: 29 (1933)",,,,,,urn:lsid:ipni.org:names:25550-1,wfo-4000003710,7310245,,
+0724432a-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Austrobaileya,,C.T.White,0,1948,,"J. Arnold Arbor. 29: 255 (1948)",,Q100550442,,,,urn:lsid:ipni.org:names:554302-1,wfo-0000301674,4197025,,
+07256f3e-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Austrobaileya,,C.T.White,0,1933,,"Contr. Arnold Arbor. 4: 29 (1933)",,,,,,urn:lsid:ipni.org:names:554303-1,wfo-0000301684,4197027,,

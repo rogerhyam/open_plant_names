@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3719594-8fd1-11eb-924d-9cd76263cbd0,genus,Eriolarynx,,,"(Hunz.) Hunz.",Q678438,2000,,"Raf. and Raf., Kurtziana 28(1): 66., 2000.",,,,,,1016238-1,wfo-4000013844,7299210,,
-a5938fd8-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Eriolarynx,,"(Miers) Hunz.","Q575253,Q678438",2000,,"(M. ) Hunz. and (H. ) Hunz., Kurtziana 28(1): 68 (2000):., 2000.",,,,,,,wfo-0001021574,3797288,,
-a593ac48-8fcd-11eb-924d-9cd76263cbd0,species,iochromoides,Eriolarynx,,"(Hunz.) Hunz.",Q678438,2000,,"(M. ) Hunz. and (H. ) Hunz., Kurtziana 28(1): 68 (2000):., 2000.",,,,ab08fa84-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001021575,3797284,,
-a593c908-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Eriolarynx,,"(Dammer) Hunz.","Q91064,Q678438",2000,,"(D. ) Hunz., Kurtziana 28(1): 66 (2000):., 2000.",,,,a4580054-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001021576,3797279,,
+e3719594-8fd1-11eb-924d-9cd76263cbd0,genus,Eriolarynx,,,"(Hunz.) Hunz.",0,2000,,"Raf. and Raf., Kurtziana 28(1): 66., 2000.",,,,,,urn:lsid:ipni.org:names:1016238-1,wfo-4000013844,7299210,,
+84569faa-1d4d-11ec-82c2-f14daa6f2d93,species,australis,Eriolarynx,,"(Griseb.) J.M.H.Shaw",,,,,,,,,,,wfo-0001429656,,,
+a5938fd8-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Eriolarynx,,"(Miers) Hunz.",0,2000,,"Kurtziana 28(1): 68. 2000.",,,,,,urn:lsid:ipni.org:names:1016241-1,wfo-0001021574,3797288,,
+a593ac48-8fcd-11eb-924d-9cd76263cbd0,species,iochromoides,Eriolarynx,,"(Hunz.) Hunz.",0,2000,,"Kurtziana 28(1): 68. 2000.",,,,ab08fa84-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1016240-1,wfo-0001021575,3797284,,
+a593c908-8fcd-11eb-924d-9cd76263cbd0,species,lorentzii,Eriolarynx,,"(Dammer) Hunz.",0,2000,,"Kurtziana 28(1): 66. 2000..",,,,a4580054-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1016239-1,wfo-0001021576,3797279,,
 a593e49c-8fcd-11eb-924d-9cd76263cbd0,species,sp.,Eriolarynx,,,,,,,,,,,,,wfo-0001021577,,,

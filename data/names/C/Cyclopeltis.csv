@@ -1,17 +1,18 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e256e786-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclopeltis,,,J.Sm.,Q3182477,1846,,"Bot. Mag. 72: 36. 1846.",,,,e256e786-8fd1-11eb-924d-9cd76263cbd0,,17074840-1,wfo-4000010271,2651218,1374," "
-d4cb8ae4-8fcd-11eb-924d-9cd76263cbd0,species,crenata,Cyclopeltis,,"(Fée) C.Chr.","Q2627241,Q2114106",1934,,"Index Filic., Suppl. 3, 64 1934",,,,d33282aa-8fcd-11eb-924d-9cd76263cbd0,,17317370-1,wfo-0001125570,8207059,,
-9f783664-8fbc-11eb-924d-9cd76263cbd0,species,cumingiana,Cyclopeltis,,C.V.Morton,Q1127029,1967,,"Contr. U.S. Natl. Herb. 38: 46. 1967. 1967",,Q95371547,,,,17433920-1,wfo-0000142522,8047656,,
-c716b3d4-8fd1-11eb-924d-9cd76263cbd0,species,favrellii,Cyclopeltis,,Kjellb.,Q21394892,1933,,"Bot. Jahrb. Syst. 66: 48 1933",,,,,,,wfo-0001267083,7961647,,
-9f819de4-8fbc-11eb-924d-9cd76263cbd0,species,fevrellii,Cyclopeltis,,Kjellberg,,1933,,"Bot. Jahrb. Syst. 66. 48. 1933. 1933",,,,,,17317380-1,wfo-0000142523,8415100,,
-1b358f1c-9bad-11eb-a8a2-19ed5c03f8d3,species,jasmini,Cyclopeltis,,"(Doidge) Bat., Nascim. & A.F. Vital",Q4079389,,,,,,,ea737682-9bac-11eb-a8a2-19ed5c03f8d3,,,,,329469," "
-9f8b6978-8fbc-11eb-924d-9cd76263cbd0,species,kingii,Cyclopeltis,,Hosok.,Q10377889,1936,,"Trans. Nat. Hist. Soc. Formosa 26: 70. 1936. 1936",,,,,,17383310-1,wfo-0000142524,8331931,,
-c716029a-8fd1-11eb-924d-9cd76263cbd0,species,latupana,Cyclopeltis,,Alderw.,Q723907,1914,,"Bull. Jard. Bot. Buitenzorg, sér. 2, 16: 5 1914",,,,,,17281810-1,wfo-0001267077,8130734,,
-c716da30-8fd1-11eb-924d-9cd76263cbd0,species,mirabilis,Cyclopeltis,,Copel.,Q2618968,1909,,"Philipp. J. Sci. 3: 346 1909",,,,,,17244590-1,wfo-0001267084,7693009,,
-c7164462-8fd1-11eb-924d-9cd76263cbd0,species,novoguineensis,Cyclopeltis,,Rosenst.,Q2883617,1912,,"Repert. Spec. Nov. Regni Veg. 10: 329 1912",,Q55752671,,,,17244600-1,wfo-0001267079,7812459,,
-40a42f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,orbicularis,Cyclopeltis,,Petr.,Q4360385,1953,,"Sydowia 7: (1953)",,,,40a42f7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,296269," "
-c716606e-8fd1-11eb-924d-9cd76263cbd0,species,presliana,Cyclopeltis,,"(J.Sm.) Berk.","Q3182477,Q662338",1857,,"Intr. Crypt. Bot. 513 1857",,,,,,,wfo-0001267080,7766630,,
-d2043446-8fcd-11eb-924d-9cd76263cbd0,species,rigida,Cyclopeltis,,Holttum,Q984413,1991,,"Blumea 35: 556 1991",,Q96032825,,,,17542050-1,wfo-0001119371,7805526,,
-1b35cacc-9bad-11eb-a8a2-19ed5c03f8d3,species,sebastianiae,Cyclopeltis,,"Bat. & H. Maia",Q4079389,1960,,"Saccardoa 1: 45 (1960)",,,,1b35cacc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329470," "
-cd502a36-8fcd-11eb-924d-9cd76263cbd0,species,semicordata,Cyclopeltis,,"(Sw.) J.Sm.","Q632088,Q3182477",1846,,"Bot. Mag. 72: Comp. 36 1846",,,,,,1148359-2,wfo-0001109553,2651219,454250," "
-c71625f4-8fd1-11eb-924d-9cd76263cbd0,species,zamboangana,Cyclopeltis,,Copel.,Q2618968,1952,,"Philipp. J. Sci. 81: 21 1952",,,,,,17383320-1,wfo-0001267078,8123641,,
+e256e786-8fd1-11eb-924d-9cd76263cbd0,genus,Cyclopeltis,,,J.Sm.,0,1846,,"Bot. Mag. 72: 36. 1846.",,,,e256e786-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17074840-1,wfo-4000010271,2651218,1374," "
+d4cb8ae4-8fcd-11eb-924d-9cd76263cbd0,species,crenata,Cyclopeltis,,"(Fée) C.Chr.",0,1934,,"Index Filic., Suppl. Tert. 64. 1934",,,,d33282aa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17317370-1,wfo-0001125570,8207059,,
+9f783664-8fbc-11eb-924d-9cd76263cbd0,species,cumingiana,Cyclopeltis,,"(Fée) C.V.Morton",0,1967,,"Contr. U.S. Natl. Herb. 38: 46. 1967. (1967)",,Q95371547,,,,urn:lsid:ipni.org:names:17433920-1,wfo-0000142522,8047656,,
+c716b3d4-8fd1-11eb-924d-9cd76263cbd0,species,favrellii,Cyclopeltis,,Kjellb.,0,1933,,"Bot. Jahrb. Syst. 66: 48 1933",,,,,,,wfo-0001267083,7961647,,
+9f819de4-8fbc-11eb-924d-9cd76263cbd0,species,fevrellii,Cyclopeltis,,Kjellb.,,1933,,"Bot. Jahrb. Syst. 66(1): 48 (1933)",,,,,,urn:lsid:ipni.org:names:17317380-1,wfo-0000142523,8415100,,
+1b358f1c-9bad-11eb-a8a2-19ed5c03f8d3,species,jasmini,Cyclopeltis,,"(Doidge) Bat., Nascim. & A.F. Vital",0,,,,,,,ea737682-9bac-11eb-a8a2-19ed5c03f8d3,,,,,329469," "
+9f8b6978-8fbc-11eb-924d-9cd76263cbd0,species,kingii,Cyclopeltis,,"(Hance) Hosok.",0,1936,,"Trans. Nat. Hist. Soc. Formosa 26: 70. 1936",,,,,,urn:lsid:ipni.org:names:17383310-1,wfo-0000142524,8331931,,
+c716029a-8fd1-11eb-924d-9cd76263cbd0,species,latupana,Cyclopeltis,,Alderw.,0,1914,,"Bull. Jard. Bot. Buitenzorg , ser. 2, 16: 5 (1914)",,,,,,urn:lsid:ipni.org:names:17281810-1,wfo-0001267077,8130734,,
+c716da30-8fd1-11eb-924d-9cd76263cbd0,species,mirabilis,Cyclopeltis,,Copel.,0,1909,,"Philipp. J. Sci., C 3: 346, t.4. 1909",,,,,,urn:lsid:ipni.org:names:17244590-1,wfo-0001267084,7693009,,
+c7164462-8fd1-11eb-924d-9cd76263cbd0,species,novoguineensis,Cyclopeltis,,Rosenst.,0,1912,,"Repert. Spec. Nov. Regni Veg. 10: 329. 1912",,Q55752671,,,,urn:lsid:ipni.org:names:17244600-1,wfo-0001267079,7812459,,
+40a42f7a-9bac-11eb-a8a2-19ed5c03f8d3,species,orbicularis,Cyclopeltis,,Petr.,0,1953,,"Sydowia 7: (1953)",,,,40a42f7a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,296269," "
+c716606e-8fd1-11eb-924d-9cd76263cbd0,species,presliana,Cyclopeltis,,"(J.Sm.) Berk.",0,1857,,"Introd. Crypt. Bot. 517. 1857 ; & NPfl. 183",,,,,,urn:lsid:ipni.org:names:17074850-1,wfo-0001267080,7766630,,
+d2043446-8fcd-11eb-924d-9cd76263cbd0,species,rigida,Cyclopeltis,,Holttum,0,1991,,"Blumea 35(2): 556. 1991",,Q96032825,,,,urn:lsid:ipni.org:names:17542050-1,wfo-0001119371,7805526,,
+1b35cacc-9bad-11eb-a8a2-19ed5c03f8d3,species,sebastianiae,Cyclopeltis,,"Bat. & H. Maia",0,1960,,"Saccardoa 1: 45 (1960)",,,,1b35cacc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,329470," "
+cd502a36-8fcd-11eb-924d-9cd76263cbd0,species,semicordata,Cyclopeltis,,"(Sw.) J.Sm.",0,1846,,"Bot. Mag. 72(Companion): 36. 1846",,,,,,urn:lsid:ipni.org:names:1148359-2,wfo-0001109553,2651219,454250," "
+4258dbea-1d4d-11ec-82c2-f14daa6f2d93,form,crenata,Cyclopeltis,semicordata,I.Losch,,,,"Mitt. Bot. Staatssamml. München 1: 23. 1950",,,,,,urn:lsid:ipni.org:names:73661-2,wfo-0001322124,,,
+c71625f4-8fd1-11eb-924d-9cd76263cbd0,species,zamboangana,Cyclopeltis,,Copel.,0,1952,,"Philipp. J. Sci. 81: 21 (1952)",,,,,,urn:lsid:ipni.org:names:17383320-1,wfo-0001267078,8123641,,

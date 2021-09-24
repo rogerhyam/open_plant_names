@@ -1,5 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0fcdc1a-8fd1-11eb-924d-9cd76263cbd0,genus,Calaunia,,,Gudzins.,,,,,,,,,,39602-1,wfo-4000005980,11064304,,
-b9c8cc6c-8fcc-11eb-924d-9cd76263cbd0,species,negrosensis,Calaunia,,"(Elmer) Grudz.","Q1105726,Q3292902",1964,,"Novosti Sist. Vyssh. Rast. 1: 54 1964",,,,,,836936-1,wfo-0000579193,4159750,,
-dba3d50c-8fd1-11eb-924d-9cd76263cbd0,species,globosa,Calboa,,"(La Llave) Lindl.","Q2613638,Q378629",1850,,"J. Hort. Soc. London 5: 82 1850",,,,dba34c40-8fd1-11eb-924d-9cd76263cbd0,,265557-1,wfo-0001298230,3680595,,
-db239bd0-8fd1-11eb-924d-9cd76263cbd0,species,vitifolia,Calboa,,Cav.,Q545430,1799,,"Icon. 5: 51, t. 476 1799",,,,,,265558-1,wfo-0001297320,3680589,,
+e0fcdc1a-8fd1-11eb-924d-9cd76263cbd0,genus,Calaunia,,,Gudzins.,,,,"Novosti Sist. Vyssh. Rast. 1: 54 (1964)",,,,,,urn:lsid:ipni.org:names:39602-1,wfo-4000005980,11064304,,
+b9c8cc6c-8fcc-11eb-924d-9cd76263cbd0,species,negrosensis,Calaunia,,"(Elmer) Grudz.",0,1964,,"Novosti Sist. Vyssh. Rast. 1: 54 (1964)",,,,,,urn:lsid:ipni.org:names:836936-1,wfo-0000579193,4159750,,

@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ebcff488-8fd1-11eb-924d-9cd76263cbd0,genus,Urostemon,,,B.Nord.,Q4895698,,,,,,,,,11441-1,wfo-4000039869,6063338,,
-b6a4cc86-8fbb-11eb-924d-9cd76263cbd0,species,kirkii,Urostemon,,"(Hook.f. ex Kirk) B.Nord.","Q157501,Q930525,Q4895698",1978,,"33 1978",,,,,,257068-1,wfo-0000136159,3138466,,
-ac5e6eb0-8fb8-11eb-924d-9cd76263cbd0,variety,angustior,Urostemon,kirkii,"(Allan) B.Nord.","Q3296972,Q4895698",1978,,"33 1978",,,,c2e06f40-8fb7-11eb-924d-9cd76263cbd0,,878497-1,wfo-0000111554,4206026,,
-54664eda-8fcc-11eb-924d-9cd76263cbd0,species,gonoloboides,Urostephanus,,"B.L.Rob. & Greenm.","Q817600,Q933930",1895,,"Amer. J. Sci. III, 1: 159 1895",,,,,,,wfo-0000416255,3577974,,
+ebcff488-8fd1-11eb-924d-9cd76263cbd0,genus,Urostemon,,,B.Nord.,0,,,"Opera Bot. 44: 31 (1978)",,,,,,urn:lsid:ipni.org:names:11441-1,wfo-4000039869,6063338,,
+b6a4cc86-8fbb-11eb-924d-9cd76263cbd0,species,kirkii,Urostemon,,"(Hook.f. ex Kirk) B.Nord.",0,1978,,"Opera Bot. 44: 33 (1978)",,,,,,urn:lsid:ipni.org:names:257068-1,wfo-0000136159,3138466,,
+ac5e6eb0-8fb8-11eb-924d-9cd76263cbd0,variety,angustior,Urostemon,kirkii,"(Allan) B.Nord.",0,1978,,"Opera Bot. 44: 33 (1978)",,,,c2e06f40-8fb7-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:878497-1,wfo-0000111554,4206026,,
+cf577692-1d47-11ec-82c2-f14daa6f2d93,variety,kirkii,Urostemon,kirkii,"(Kirk) B.Nord.",,,,1978,,,,,,,wfo-0000084530,,,
+54664eda-8fcc-11eb-924d-9cd76263cbd0,species,gonoloboides,Urostephanus,,"B.L.Rob. & Greenm.",0,1895,,"Amer. J. Sci. , ser. 3, 1: 159 (1895)",,,,,,urn:lsid:ipni.org:names:260585-2,wfo-0000416255,3577974,,

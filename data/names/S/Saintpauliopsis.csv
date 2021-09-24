@@ -1,6 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e1e6ae-8fd1-11eb-924d-9cd76263cbd0,genus,Saintpauliopsis,,,Staner,Q10349681,1934,,"Bull. Jard. Bot. État Bruxelles 13: 8. 1934.",,Q55775691,,,,17205-1,wfo-4000033804,8412320,,
-b0ae6e2e-8fcd-11eb-924d-9cd76263cbd0,species,lebrunii,Saintpauliopsis,,Staner,Q10349681,1934,,"Bull. Jard. Bot. État Brux. 13: 8–9 1934",,Q55775691,,,,382704-1,wfo-0001045169,3779529,,
-98b75290-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Saintpierrea,,"(Roxb. ex Lindl.) Germ.","Q748967,Q378629,Q2601930",1878,,"; 1878 39 1878",,,,931c3288-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000995060,8486309,,
-9791e66a-8fcc-11eb-924d-9cd76263cbd0,species,shinzatoi,Saionia,,Hatus.,Q2880042,1976,,"J. Geobot. 24: 2 1976",,,,,,974746-1,wfo-0000524258,2756365,,
-0641d3be-8fcc-11eb-924d-9cd76263cbd0,species,glandulosa,Saipania,,Hosok.,Q10377889,1935,,"Trans. Nat. Hist. Soc. Taiwan 25: 28 1935",,,,,,355724-1,wfo-0000300075,5378118,,
+e9e1e6ae-8fd1-11eb-924d-9cd76263cbd0,genus,Saintpauliopsis,,,Staner,0,1934,,"Bull. Jard. Bot. État Bruxelles 13: 8 (1934)",,Q55775691,,,,urn:lsid:ipni.org:names:17205-1,wfo-4000033804,8412320,,
+b0ae6e2e-8fcd-11eb-924d-9cd76263cbd0,species,lebrunii,Saintpauliopsis,,Staner,0,1934,,"Bull. Jard. Bot. État Bruxelles 13: 8 (1934)",,Q55775691,,,,urn:lsid:ipni.org:names:382704-1,wfo-0001045169,3779529,,
+98b75290-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Saintpierrea,,"(Roxb. ex Lindl.) Germ.",0,1878,,"; 1878 39 1878",,,,931c3288-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000995060,8486309,,

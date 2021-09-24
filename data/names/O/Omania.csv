@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e78983d0-8fd1-11eb-924d-9cd76263cbd0,genus,Omania,,,,,,,,,,,,,,wfo-4000026793,3233397,,
-3eab516c-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Omania,,S.Moore,Q2975984,1901,,"J. Bot. 39: 258 1901",,,,,,806471-1,wfo-0000388640,7657596,,
-e9f479b4-8fcb-11eb-924d-9cd76263cbd0,species,costaricana,Omanthe,,"(Oerst.) O.F.Cook","Q491270,Q1548577",1939,,"Science n.s., 90: 298 1939",,,,,,173812-2,wfo-0000255517,2734576,,
+e78983d0-8fd1-11eb-924d-9cd76263cbd0,genus,Omania,,,S.Moore,,,,"J. Bot. 39: 258 (1901)",,,,,,urn:lsid:ipni.org:names:37865-1,wfo-4000026793,3233397,,
+3eab516c-8fcc-11eb-924d-9cd76263cbd0,species,arabica,Omania,,S.Moore,0,1901,,"J. Bot. 39: 258 (1901)",,,,,,urn:lsid:ipni.org:names:806471-1,wfo-0000388640,7657596,,
+e9f479b4-8fcb-11eb-924d-9cd76263cbd0,species,costaricana,Omanthe,,"(Oerst.) O.F.Cook",0,1939,,"Science , n.s., 90: 298 (1939)",,,,,,urn:lsid:ipni.org:names:173812-2,wfo-0000255517,2734576,,

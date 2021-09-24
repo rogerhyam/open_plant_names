@@ -1,18 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9ea6a73c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dermosporium,,,Link,Q215466,,,,,,,9ea6a73c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7961," "
-cab30d12-9bac-11eb-a8a2-19ed5c03f8d3,species,atrum,Dermosporium,,Schwein.,Q1822110,1832,,"Trans. Am. phil. Soc., New Series 4(2): 303 (1832)",,,,cab30d12-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235737," "
-50042862-9bac-11eb-a8a2-19ed5c03f8d3,species,decolorans,Dermosporium,,Schwein.,Q1822110,1832,,"Trans. Am. phil. Soc., New Series 4(2): 302 (1832)",,,,50042862-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236055," "
-201938d6-9bac-11eb-a8a2-19ed5c03f8d3,species,flavicans,Dermosporium,,Link,Q215466,,,,,,,201938d6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235856," "
-7d354bd2-9bab-11eb-a8a2-19ed5c03f8d3,species,roseum,Dermosporium,,Schwein.,Q1822110,1832,,"Trans. Am. phil. Soc., New Series 4(2): 302 (1832)",,,,7d354bd2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,236214," "
-7fda1bf4-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Deroemera,,"Rendle & Schltr.","Q2615406,Q62278",1895,,"J. Bot. 33: 277 1895",,,,,,629410-1,wfo-0000941894,2782036,,
-7fda3f44-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Deroemera,,"(Forssk.) Schltr. & Rendle","Q27684,Q62278,Q2615406",1895,,"J. Bot. 33: 277 1895",,,,,,629411-1,wfo-0000941895,2782033,,
-7fda6c6c-8fcd-11eb-924d-9cd76263cbd0,species,calva,Deroemera,,"(Kraenzl.) Schltr.","Q542327,Q62278",1915,,"Bot. Jahrb. Syst. 53: 486 1915",,,,,,,wfo-0000941896,2782040,,
-7fdb2878-8fcd-11eb-924d-9cd76263cbd0,species,culveri,Deroemera,,"(Bolus) Schltr.","Q4091070,Q62278",1906,,"Bot. Jahrb. Syst. 38: 144 1906",,,,92dfefd0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000941898,2782074,,
-7fdb5f82-8fcd-11eb-924d-9cd76263cbd0,species,ledermannii,Deroemera,,"(Kraenzl.) Schltr.","Q542327,Q62278",1915,,"Bot. Jahrb. Syst. 53: 486 1915",,,,,,,wfo-0000941899,2782039,,
-7fdb8250-8fcd-11eb-924d-9cd76263cbd0,species,montigena,Deroemera,,"(Ridl.) Rolfe","Q733709,Q2635543",1898,,"Fl. Trop. Afr. 7: 196 1898",,,,,,,wfo-0000941900,2782077,,
-7fdba2ee-8fcd-11eb-924d-9cd76263cbd0,species,pentadactyla,Deroemera,,Summerh.,Q1771270,1927,,"Bull. Misc. Inform. Kew 1927: 418 1927",,Q55778720,,,,629412-1,wfo-0000941901,2782048,,
-7fdbc0c6-8fcd-11eb-924d-9cd76263cbd0,species,praecox,Deroemera,,"(Rchb.f.) Rolfe","Q62820,Q2635543",1898,,"Fl. Trop. Afr. 7: 197 1898",,,,92e493aa-8fcd-11eb-924d-9cd76263cbd0,,629413-1,wfo-0000941902,2782013,,
-7fdbddcc-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Deroemera,,"(Rchb.f.) Rolfe","Q62820,Q2635543",1898,,"Fl. Trop. Afr. 7: 197 1898",,,,92e5fab0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000941903,2782031,,
-7fdbfa96-8fcd-11eb-924d-9cd76263cbd0,species,squamata,Deroemera,,"(Hochst. ex A.Rich.) Rchb.f.","Q64983,Q340247,Q62820",1852,,"De Pollin. Orchid. 29 1852",,,,,,629414-1,wfo-0000941904,,,
-7fdc1620-8fcd-11eb-924d-9cd76263cbd0,species,triloba,Deroemera,,Rolfe,Q2635543,1898,,"Fl. Trop. Afr. 7: 197 1898",,,,,,,wfo-0000941905,2782107,,
-7fdc33ee-8fcd-11eb-924d-9cd76263cbd0,species,unifolia,Deroemera,,"(Rchb.f.) Rchb.f.",Q62820,1855,,"Bonplandia (Hannover) 3: 213 1855",,,,92e796a4-8fcd-11eb-924d-9cd76263cbd0,,629415-1,wfo-0000941906,2782071,,
+9ea6a73c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dermosporium,,,Link,0,,,,,,,9ea6a73c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7961," "
+cab30d12-9bac-11eb-a8a2-19ed5c03f8d3,species,atrum,Dermosporium,,Schwein.,0,1832,,"Trans. Am. phil. Soc., New Series 4(2): 303 (1832)",,,,cab30d12-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235737," "
+50042862-9bac-11eb-a8a2-19ed5c03f8d3,species,decolorans,Dermosporium,,Schwein.,0,1832,,"Trans. Am. phil. Soc., New Series 4(2): 302 (1832)",,,,50042862-9bac-11eb-a8a2-19ed5c03f8d3,,,,,236055," "
+201938d6-9bac-11eb-a8a2-19ed5c03f8d3,species,flavicans,Dermosporium,,Link,0,,,,,,,201938d6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,235856," "
+7d354bd2-9bab-11eb-a8a2-19ed5c03f8d3,species,roseum,Dermosporium,,Schwein.,0,1832,,"Trans. Am. phil. Soc., New Series 4(2): 302 (1832)",,,,7d354bd2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,236214," "

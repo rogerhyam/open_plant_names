@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0de9606-8fd1-11eb-924d-9cd76263cbd0,genus,Brylkinia,,,F.Schmidt,Q283881,1868,,"Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7 12: 199. 1868.",,,,,,17641-1,wfo-4000005562,4109526,,
-4d46f446-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Brylkinia,,"(Munro ex A.Gray) F.Schmidt","Q2004878,Q347356,Q283881",1868,,"Reis. Amur-Land., Bot. 199 1868",,,,51776870-8fcd-11eb-924d-9cd76263cbd0,,394246-1,wfo-0000856852,4109536,,
-4d470fe4-8fcd-11eb-924d-9cd76263cbd0,species,schmidtii,Brylkinia,,Ohwi,Q4332375,1941,,"Acta Phytotax. Geobot. 10: 108 1941",,Q101147320,,,,394247-1,wfo-0000856853,4109525,,
+e0de9606-8fd1-11eb-924d-9cd76263cbd0,genus,Brylkinia,,,F.Schmidt,0,1868,,"Reis. Amur-Land., Bot. : 199 (1868)",,,,,,urn:lsid:ipni.org:names:17641-1,wfo-4000005562,4109526,,
+4d46f446-8fcd-11eb-924d-9cd76263cbd0,species,caudata,Brylkinia,,F.Schmidt,0,1868,,"Reis. Amur-Land., Bot. : 199 (1868)",,,,51776870-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:394246-1,wfo-0000856852,4109536,,
+4d470fe4-8fcd-11eb-924d-9cd76263cbd0,species,schmidtii,Brylkinia,,Ohwi,0,1941,,"Acta Phytotax. Geobot. 10: 108 (1941)",,Q101147320,,,,urn:lsid:ipni.org:names:394247-1,wfo-0000856853,4109525,,

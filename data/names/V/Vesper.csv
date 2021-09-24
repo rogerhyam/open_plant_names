@@ -1,3 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec77d3ce-8fd1-11eb-924d-9cd76263cbd0,genus,Vesper,,,"R.L.Hartm. & G.L.Nesom","Q6111661,Q5622397",2012,,"Phytoneuron 2012-94: 2 (2012)",,,,,,77128526-1,wfo-4001303459,7859232,,
-1c4bfcf6-8fcd-11eb-924d-9cd76263cbd0,species,humboldtii,Vespuccia,,"(Rich.) Parl.","Q714754,Q751200",1854,,"Nuov. Gen. Sp. Monocot. 56 1854",,,,f728bd56-8fcc-11eb-924d-9cd76263cbd0,,58609-1,wfo-0000751804,2864585,,
+ec77d3ce-8fd1-11eb-924d-9cd76263cbd0,genus,Vesper,,,"R.L.Hartm. & G.L.Nesom",0,2012,,"Phytoneuron 2012-94: 2 (2012)",,,,,,urn:lsid:ipni.org:names:77128526-1,wfo-4001303459,7859232,,
+4c882710-1d4d-11ec-82c2-f14daa6f2d93,species,bulbosus,Vesper,,"(A.Nelson) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 4 (2012)",,,,,,urn:lsid:ipni.org:names:77128527-1,wfo-0001335828,,,
+4c8853ca-1d4d-11ec-82c2-f14daa6f2d93,species,constancei,Vesper,,"(R.L.Hartm.) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 5 (2012)",,,,,,urn:lsid:ipni.org:names:77128528-1,wfo-0001335829,,,
+4c887e72-1d4d-11ec-82c2-f14daa6f2d93,species,macrorhizus,Vesper,,"(Buckley) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 6 (2012)",,,,,,urn:lsid:ipni.org:names:77128529-1,wfo-0001335830,,,
+4c88a5c8-1d4d-11ec-82c2-f14daa6f2d93,species,montanus,Vesper,,"(Torr. & A.Gray) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 6 (2012)",,,,,,urn:lsid:ipni.org:names:77128530-1,wfo-0001335831,,,
+4c88ccba-1d4d-11ec-82c2-f14daa6f2d93,species,multinervatus,Vesper,,"(J.M.Coult. & Rose) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 7 (2012)",,,,,,urn:lsid:ipni.org:names:77128531-1,wfo-0001335832,,,
+4c88fa46-1d4d-11ec-82c2-f14daa6f2d93,species,purpurascens,Vesper,,"(A.Gray) R.L.Hartm. & G.L.Nesom",,,,"Phytoneuron 2012-94: 8 (2012)",,,,,,urn:lsid:ipni.org:names:77128532-1,wfo-0001335833,,,
+1c4bfcf6-8fcd-11eb-924d-9cd76263cbd0,species,humboldtii,Vespuccia,,Parl.,0,1854,,"Nuov. Gen. Sp. Monocot. : 56 (1854)",,,,f728bd56-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:58609-1,wfo-0000751804,2864585,,

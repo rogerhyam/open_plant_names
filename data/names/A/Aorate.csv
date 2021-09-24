@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1830806-9bad-11eb-a8a2-19ed5c03f8d3,genus,Aorate,,,Syd.,,1929,,"in Sydow & Petrak, Annls mycol. 27(1/2): 84 (1929)",,,,a1830806-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7182," "
 d7d998da-9bac-11eb-a8a2-19ed5c03f8d3,species,costaricana,Aorate,,Syd.,,1929,,"Annls mycol. 27(1/2): 84 (1929)",,,,d7d998da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262135," "
-e23eeb64-8fcb-11eb-924d-9cd76263cbd0,species,cyclochila,Aorchis,,"(Franch. & Sav.) T.Hashim.","Q377208,Q246459,Q11543836",1987,,"Proc. World Orchid Conf. 12: 119 1987",,,,906cd308-8fcd-11eb-924d-9cd76263cbd0,,1000034-1,wfo-0000242008,5324965,,
-e24011a6-8fcb-11eb-924d-9cd76263cbd0,species,roborovskyi,Aorchis,,"(Maxim.) Seidenf.","Q77640,Q606100",1982,,"Nordic J. Bot. 2: 9 1982",,Q55761139,,,,909996-1,wfo-0000242019,,,
-e241bb64-8fcb-11eb-924d-9cd76263cbd0,species,spathulata,Aorchis,,"(Lindl.) Verm.","Q378629,Q5841576",1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 33 1972",,,,,,616673-1,wfo-0000242030,5324964,,
-c1eb4604-8fd1-11eb-924d-9cd76263cbd0,variety,foliosa,Aorchis,spathulata,"(Finet) Finet",Q1657041,1974,,"Acta Bot. Acad. Sci. Hung. 20: 350 1974",,,,6da29dd0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001257751,7659882,,
-e242fd76-8fcb-11eb-924d-9cd76263cbd0,variety,wilsonii,Aorchis,spathulata,"(Schltr.) Soó","Q62278,Q281645",1974,,"Acta Bot. Acad. Sci. Hung. 20: 350 1974 publ. 1975",,,,,,887242-1,wfo-0000242041,5324963,,
+e23eeb64-8fcb-11eb-924d-9cd76263cbd0,species,cyclochila,Aorchis,,"(Franch. & Sav.) T.Hashim.",0,1987,,"Proc. World Orchid Conf. 12: 119 (1987)",,,,906cd308-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1000034-1,wfo-0000242008,5324965,,
+e24011a6-8fcb-11eb-924d-9cd76263cbd0,species,roborovskyi,Aorchis,,"(Maxim.) Seidenf.",0,1982,,"Nordic J. Bot. 2: 9 (1982)",,Q55761139,,,,urn:lsid:ipni.org:names:909996-1,wfo-0000242019,,,
+e241bb64-8fcb-11eb-924d-9cd76263cbd0,species,spathulata,Aorchis,,"(Lindl.) Verm.",0,1972,,"Jahresber. Naturwiss. Vereins Wuppertal 25: 33 (1972)",,,,,,urn:lsid:ipni.org:names:616673-1,wfo-0000242030,5324964,,
+c1eb4604-8fd1-11eb-924d-9cd76263cbd0,variety,foliosa,Aorchis,spathulata,"(Finet) Finet",0,1974,,"Acta Bot. Acad. Sci. Hung. 20: 350 1974",,,,6da29dd0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001257751,7659882,,
+e242fd76-8fcb-11eb-924d-9cd76263cbd0,variety,wilsonii,Aorchis,spathulata,"(Schltr.) Soó",0,1974,,"Acta Bot. Acad. Sci. Hung. 20: 350 (1974 publ. 1975)",,,,,,urn:lsid:ipni.org:names:887242-1,wfo-0000242041,5324963,,

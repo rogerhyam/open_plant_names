@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6589078-8fd1-11eb-924d-9cd76263cbd0,genus,Maracanthus,,,Kuijt,Q5932553,1976,,"Brittonia 28(2): 238. 1976.",,Q54801935,,,,25272-1,wfo-4000023093,7287912,,
-bda48f28-8fcd-11eb-924d-9cd76263cbd0,species,badilloi,Maracanthus,,"(G.Ferrari) Kuijt","Q18984630,Q5932553",1990,,"Proc. Kon. Ned. Akad. Wetensch., Biol. 93(2): 114 1990",,,,76e66706-8fcc-11eb-924d-9cd76263cbd0,,947967-1,wfo-0001074878,4000967,,
-36715b2c-8fcc-11eb-924d-9cd76263cbd0,species,chlamydatus,Maracanthus,,"(Rizzini) Kuijt","Q4394947,Q5932553",1976,,"Brittonia 28: 231 1976",,Q54801935,,3ed0d70c-8fcc-11eb-924d-9cd76263cbd0,,152825-2,wfo-0000377884,4000947,,
-bda242ae-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Maracanthus,,Kuijt,Q5932553,1976,,"Brittonia 28: 232 1976",,Q54801935,,,,280404-2,wfo-0001074858,,,
-366edd5c-8fcc-11eb-924d-9cd76263cbd0,species,pusillus,Maracanthus,,Kuijt,Q5932553,1987,,"Brittonia 39: 452 1987",,Q55771355,,,,280405-2,wfo-0000377875,4000899,,
+e6589078-8fd1-11eb-924d-9cd76263cbd0,genus,Maracanthus,,,Kuijt,0,1976,,"Brittonia 28: 231 (1976)",,Q54801935,,,,urn:lsid:ipni.org:names:25272-1,wfo-4000023093,7287912,,
+bda48f28-8fcd-11eb-924d-9cd76263cbd0,species,badilloi,Maracanthus,,"(G.Ferrari) Kuijt",0,1990,,"Proc. Kon. Ned. Akad. Wetensch., Nat. Sci. 93: 114 (1990)",,,,76e66706-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:947967-1,wfo-0001074878,4000967,,
+36715b2c-8fcc-11eb-924d-9cd76263cbd0,species,chlamydatus,Maracanthus,,"(Rizzini) Kuijt",0,1976,,"Brittonia 28: 231 (1976)",,Q54801935,,3ed0d70c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:152825-2,wfo-0000377884,4000947,,
+51aef660-1d4d-11ec-82c2-f14daa6f2d93,species,costaricensis,Maracanthus,,"(Kuijt) Kuijt",,,,"Novon 23: 176 (2014)",,,,,,urn:lsid:ipni.org:names:77147530-1,wfo-0001342631,,,
+bda242ae-8fcd-11eb-924d-9cd76263cbd0,species,pedunculata,Maracanthus,,Kuijt,0,1976,,"Brittonia 28: 232 (1976)",,Q54801935,,,,urn:lsid:ipni.org:names:280404-2,wfo-0001074858,,,
+366edd5c-8fcc-11eb-924d-9cd76263cbd0,species,pusillus,Maracanthus,,Kuijt,0,1987,,"Brittonia 39: 452 (1987)",,Q55771355,,,,urn:lsid:ipni.org:names:280405-2,wfo-0000377875,4000899,,

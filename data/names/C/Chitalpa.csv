@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e19ee71c-8fd1-11eb-924d-9cd76263cbd0,genus,Chitalpa,,,,,,,,,,,,,,wfo-4000007947,7298609,,
-361ec6b4-8fc7-11eb-924d-9cd76263cbd0,species,restiaceus,Chithonanthus,,"(Benth.) Lehm.","Q731808,Q62981",,,,,,,,,,wfo-0000201546,2978996,,
-362d9e82-8fc7-11eb-924d-9cd76263cbd0,species,restioides,Chithonanthus,,"(Benth.) Lehm.","Q731808,Q62981",,,,,,,,,,wfo-0000201547,2978997,,
-36544a50-8fc7-11eb-924d-9cd76263cbd0,species,scoparius,Chithonanthus,,Lehm.,Q62981,,,,,,,,,,wfo-0000201549,2978998,,
+e19ee71c-8fd1-11eb-924d-9cd76263cbd0,genus,Chitalpa,,,,,,,,,,,,,urn:lsid:ipni.org:names:50963441-1,wfo-4000007947,7298609,,
+290968ca-8fcd-11eb-924d-9cd76263cbd0,species,tashkentensis,Chitalpa,,"T.S.Elias & Wisura",0,1991,,"Baileya 23: 142 (1991)",,,,,,urn:lsid:ipni.org:names:959182-1,wfo-0000778437,,,
+361ec6b4-8fc7-11eb-924d-9cd76263cbd0,species,restiaceus,Chithonanthus,,"(Benth.) Lehm.",0,,,"Pl. Preiss. 2: 368 (1848)",,,,,,urn:lsid:ipni.org:names:69005-3,wfo-0000201546,2978996,,
+362d9e82-8fc7-11eb-924d-9cd76263cbd0,species,restioides,Chithonanthus,,"(Benth.) Lehm.",0,,,,,,,,,,wfo-0000201547,2978997,,
+36544a50-8fc7-11eb-924d-9cd76263cbd0,species,scoparius,Chithonanthus,,Lehm.,0,,,,,,,,,,wfo-0000201549,2978998,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8619f40-8fd1-11eb-924d-9cd76263cbd0,genus,Philostemon,,,Raf.,Q364857,1817,,"Fl. Ludov. 107. 1817.",,,,,,,wfo-4000029243,7321889,,
-42ea523c-8fcc-11eb-924d-9cd76263cbd0,species,lutescens,Philostemon,,Raf.,Q364857,1840,,"Autik. Bot. 83 1840",,,,,,70225-1,wfo-0000394519,3662315,,
-d3970c1c-8fd1-11eb-924d-9cd76263cbd0,species,radicans,Philostemon,,"(L.) Raf.","Q1043,Q364857",1817,,"Fl. Ludov. 107 1817",,,,,,70226-1,wfo-0001284798,3662308,,
-d396e62e-8fd1-11eb-924d-9cd76263cbd0,species,toxicodendron,Philostemon,,"(L.) Raf.","Q1043,Q364857",1840,,"Autik. Bot. 83 1840",,,,4a19de2e-8fcc-11eb-924d-9cd76263cbd0,,70227-1,wfo-0001284797,3662301,,
+e8619f40-8fd1-11eb-924d-9cd76263cbd0,genus,Philostemon,,,Raf.,0,1817,,"Fl. Ludov. : 107 (1817)",,,,,,urn:lsid:ipni.org:names:1878-1,wfo-4000029243,7321889,,
+42ea523c-8fcc-11eb-924d-9cd76263cbd0,species,lutescens,Philostemon,,Raf.,0,1840,,"Autik. Bot. : 83 (1840)",,,,,,urn:lsid:ipni.org:names:70225-1,wfo-0000394519,3662315,,
+d3970c1c-8fd1-11eb-924d-9cd76263cbd0,species,radicans,Philostemon,,Raf.,0,1817,,"Fl. Ludov. : 107 (1817)",,,,,,urn:lsid:ipni.org:names:70226-1,wfo-0001284798,3662308,,
+d396e62e-8fd1-11eb-924d-9cd76263cbd0,species,toxicodendron,Philostemon,,"(L.) Raf.",0,1840,,"Autik. Bot. : 83 (1840)",,,,4a19de2e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:70227-1,wfo-0001284797,3662301,,

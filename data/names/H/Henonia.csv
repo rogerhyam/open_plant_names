@@ -1,5 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e49d03ae-8fd1-11eb-924d-9cd76263cbd0,genus,Henonia,,,Moq.,Q55068622,1849,,"Prodr. 13(2): 232, 237. 1849.",,,,,,1210-1,wfo-4000017480,3231868,,
-acc1c2d4-8fcd-11eb-924d-9cd76263cbd0,species,deserti,Henonia,,"Coss. & Durieu","Q1276939,Q703990",1855,,"Bull. Musee Georgie 2: 247 1855",,Q55756439,,,,284819-1,wfo-0001036311,5375478,,
-b10ba4c2-8fcd-11eb-924d-9cd76263cbd0,species,scoparia,Henonia,,Moq.,Q55068622,1849,,"Prodr. 13(2): 237 1849",,,,,,60680-1,wfo-0001046018,5548088,,
-eb8b5804-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Henoniella,,Duby,Q4172141,1877,,"Flora 60: 74 1877",,,,,,,wfo-0001174647,8021440,,
+e49d03ae-8fd1-11eb-924d-9cd76263cbd0,genus,Henonia,,,Moq.,0,1849,,"Prodr. 13(2): 237 (1849)",,,,,,urn:lsid:ipni.org:names:1210-1,wfo-4000017480,3231868,,
+acc1c2d4-8fcd-11eb-924d-9cd76263cbd0,species,deserti,Henonia,,"Coss. & Durieu",0,1855,,"Bull. Soc. Bot. France 2: 247. 1855",,Q55756439,,,,urn:lsid:ipni.org:names:284819-1,wfo-0001036311,5375478,,
+b10ba4c2-8fcd-11eb-924d-9cd76263cbd0,species,scoparia,Henonia,,Moq.,0,1849,,"Prodr. 13(2): 237 (1849)",,,,,,urn:lsid:ipni.org:names:60680-1,wfo-0001046018,5548088,,
+eb8b5804-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Henoniella,,Duby,0,1877,,"Flora 60: 74 1877",,,,,,,wfo-0001174647,8021440,,
+59ad9b96-1d4d-11ec-82c2-f14daa6f2d93,species,japonica,Henonix,,Raf.,,,,"Fl. Tellur. 2: 13. 1837 [1836 publ. Jan-Mar 1837]",,,,,,urn:lsid:ipni.org:names:536421-1,wfo-0001353335,,,

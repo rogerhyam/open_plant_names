@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec3ef0c2-8fd1-11eb-924d-9cd76263cbd0,genus,Zuccarinia,,,Blume,Q76816,,,"Bijdr. Fl. Ned. Ind. 1006. 1826.",,,,,,332077-2,wfo-4000041299,8019996,,
-1c4187d6-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Zuccarinia,,Ridl.,Q733709,1926,,"Bull. Misc. Inform. Kew 1926: 68 1926",,Q55778698,,,,770591-1,wfo-0000335601,5339150,,
-1c41a522-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Zuccarinia,,Blume,Q76816,,,"Bijdr. 1007 1826",,,,,,770592-1,wfo-0000335602,5339149,,
-1c41c2f0-8fcc-11eb-924d-9cd76263cbd0,species,ornata,Zuccarinia,,"(Wall.) Spreng.","Q730310,Q62829",1827,,"Syst. Veg. 4(2): 81 1827",,,,,,770593-1,wfo-0000335603,5338771,,
-5effdbb8-8fcc-11eb-924d-9cd76263cbd0,species,verbenacea,Zuccarinia,,Maerkl.,Q18986795,1811,,"Ann. Wetterauischen Ges. Gesammte Naturk. 2: 253 1811",,,,,,,wfo-0000430056,7718728,,
-5e57eb56-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Zucchellia,,Decne.,Q966069,1844,,"Prodr. 8: 492 1844",,,,,,103164-1,wfo-0000429196,3571756,,
+ec3ef0c2-8fd1-11eb-924d-9cd76263cbd0,genus,Zuccarinia,,,Blume,0,,,"Bijdr. Fl. Ned. Ind. : 1006 (1826)",,,,,,urn:lsid:ipni.org:names:332077-2,wfo-4000041299,8019996,,
+1c4187d6-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Zuccarinia,,Ridl.,0,1926,,"Bull. Misc. Inform. Kew 1926: 68 (1926)",,Q55778698,,,,urn:lsid:ipni.org:names:770591-1,wfo-0000335601,5339150,,
+1c41a522-8fcc-11eb-924d-9cd76263cbd0,species,macrophylla,Zuccarinia,,Blume,0,,,"Bijdr. Fl. Ned. Ind. : 1007 (1826)",,,,,,urn:lsid:ipni.org:names:770592-1,wfo-0000335602,5339149,,
+1c41c2f0-8fcc-11eb-924d-9cd76263cbd0,species,ornata,Zuccarinia,,Spreng.,0,1827,,"Syst. Veg. 4(2): 81 (1827)",,,,,,urn:lsid:ipni.org:names:770593-1,wfo-0000335603,5338771,,
+5effdbb8-8fcc-11eb-924d-9cd76263cbd0,species,verbenacea,Zuccarinia,,Maerkl.,0,1811,,"Ann. Ges. Wetterau ii. (1811) 253 (Quid ?).",,,,,,urn:lsid:ipni.org:names:435710-1,wfo-0000430056,7718728,,
+5e57eb56-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Zucchellia,,Decne.,0,1844,,"Prodr. 8: 492 (1844)",,,,,,urn:lsid:ipni.org:names:103164-1,wfo-0000429196,3571756,,

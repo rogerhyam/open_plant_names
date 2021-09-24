@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3891e44-8fd1-11eb-924d-9cd76263cbd0,genus,Euclasta,,,Franch.,Q377208,1895,,"Bull. Soc. Hist. Nat. Autun 8: 335. 1895.",,,,,,295145-2,wfo-4000014119,2705909,,
-531e61a6-8fcd-11eb-924d-9cd76263cbd0,species,clarkei,Euclasta,,"(Hack.) Cope","Q2209907,Q6146016",1980,,"Kew Bull. 35: 704 1980",,Q43227743,,,,402123-1,wfo-0000869229,5676872,,
-531e7ff6-8fcd-11eb-924d-9cd76263cbd0,species,condylotricha,Euclasta,,"(Steud.) Stapf","Q62821,Q78630",1917,,"Fl. Trop. Afr. 9: 181 1917",,,,,,97916-2,wfo-0000869230,5290156,,
-531e9d74-8fcd-11eb-924d-9cd76263cbd0,species,glumacea,Euclasta,,Franch.,Q377208,1895,,"Bull. Soc. Hist. Nat. Autun 8: 336 1895",,,,,,97917-2,wfo-0000869231,5676866,,
-531eba16-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Euclasta,,T.Durand,Q1839687,1909,,"Syll. Fl. Congol. 649 1909",,,,,,,wfo-0000869232,5945425,,
+e3891e44-8fd1-11eb-924d-9cd76263cbd0,genus,Euclasta,,,Franch.,0,1895,,"Bull. Soc. Hist. Nat. Autun 8: 335 (1895)",,,,,,urn:lsid:ipni.org:names:295145-2,wfo-4000014119,2705909,,
+531e61a6-8fcd-11eb-924d-9cd76263cbd0,species,clarkei,Euclasta,,"(Hack.) Cope",0,1980,,"Kew Bull. 35: 704 (1980)",,Q43227743,,,,urn:lsid:ipni.org:names:402123-1,wfo-0000869229,5676872,,
+531e7ff6-8fcd-11eb-924d-9cd76263cbd0,species,condylotricha,Euclasta,,"Stapf in Prain",0,1917,,"Fl. Trop. Afr. 9: 181 (1917)",,,,,,urn:lsid:ipni.org:names:97916-2,wfo-0000869230,5290156,,
+531e9d74-8fcd-11eb-924d-9cd76263cbd0,species,glumacea,Euclasta,,Franch.,0,1895,,"Bull. Soc. Hist. Nat. Autun 8: 336 (1895)",,,,,,urn:lsid:ipni.org:names:97917-2,wfo-0000869231,5676866,,
+531eba16-8fcd-11eb-924d-9cd76263cbd0,species,graminea,Euclasta,,T.Durand,0,1909,,"Syll. Fl. Congol. 649 1909",,,,,,,wfo-0000869232,5945425,,
+5054cef2-1d4d-11ec-82c2-f14daa6f2d93,species,oligantha,Euclasta,,"(Hochst. ex Steud.) M.R.Almeida",,,,"Fl. Maharashtra 6A: 147 (2014)",,,,,,urn:lsid:ipni.org:names:77142953-1,wfo-0001340740,,,

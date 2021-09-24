@@ -1,9 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e722fc6e-8fd1-11eb-924d-9cd76263cbd0,genus,Neoastelia,,,J.B.Williams,Q5665348,1987,,"Fl. Australia 45: 493. 1987. (15 May 1987)",,,,,,925063-1,wfo-4000025595,2853068,,
-0306de1e-8fcd-11eb-924d-9cd76263cbd0,species,spectabilis,Neoastelia,,J.B.Williams,Q5665348,1987,,"in Fl. Australia 45: 493 1987",,,,,,932596-1,wfo-0000704694,2853069,,
-b4456c14-8fd1-11eb-924d-9cd76263cbd0,species,crenulatoserrulatum,Neoathyrium,,"(Makino) Ching & Z.R.Wang","Q729955,Q3424685,Q21612218",1982,,"Acta Phytotax. Sin. 20(1): 77, pl. 1, f. 2 1982",,,,,,17512990-1,wfo-0001232358,7125780,,
-58aaabca-8fcd-11eb-924d-9cd76263cbd0,species,clemensae,Neoaulacolepis,,"(Hitchc.) Rauschert","Q2063155,Q3326939",1982,,"Taxon 31: 561 1982",,Q28955334,,4adad04c-8fcd-11eb-924d-9cd76263cbd0,,910961-1,wfo-0000881376,4146774,,
-58aae716-8fcd-11eb-924d-9cd76263cbd0,species,japonica,Neoaulacolepis,,"(Hack.) Rauschert","Q2209907,Q3326939",1982,,"Taxon 31: 561 1982",,Q28955334,,,,910962-1,wfo-0000881378,4118325,,
-58ab0444-8fcd-11eb-924d-9cd76263cbd0,species,petelotii,Neoaulacolepis,,"(Hitchc.) Rauschert","Q2063155,Q3326939",1982,,"Taxon 31: 561 1982",,Q28955334,,4adb5cba-8fcd-11eb-924d-9cd76263cbd0,,910963-1,wfo-0000881379,4146758,,
-58ab230c-8fcd-11eb-924d-9cd76263cbd0,species,treutleri,Neoaulacolepis,,"(Kuntze) Rauschert","Q62853,Q3326939",1982,,"Taxon 31: 561 1982",,Q28955334,,5821de8a-8fcd-11eb-924d-9cd76263cbd0,,910964-1,wfo-0000881380,4146739,,
-58ab431e-8fcd-11eb-924d-9cd76263cbd0,variety,japonica,Neoaulacolepis,treutleri,"(Hack.) Osada","Q2209907,Q21522445",1990,,"J. Jap. Bot. 65: 266 1990",,,,,,2955849-1,wfo-0000881381,4146738,,
+e722fc6e-8fd1-11eb-924d-9cd76263cbd0,genus,Neoastelia,,,J.B.Williams,0,1987,,"Fl. Australia 45: 493 (1987)",,,,,,urn:lsid:ipni.org:names:925063-1,wfo-4000025595,2853068,,
+0306de1e-8fcd-11eb-924d-9cd76263cbd0,species,spectabilis,Neoastelia,,J.B.Williams,0,1987,,"Fl. Australia 45: 493 (1987)",,,,,,urn:lsid:ipni.org:names:932596-1,wfo-0000704694,2853069,,

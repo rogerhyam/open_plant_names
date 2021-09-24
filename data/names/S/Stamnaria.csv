@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a5b644f6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stamnaria,,,Fuckel,Q66899,1870,,"Jb. nassau. Ver. Naturk. 23-24: 309 (1870)",,,,a5b644f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25342," "
-f6e6c810-9bac-11eb-a8a2-19ed5c03f8d3,species,americana,Stamnaria,,"Massee & Morgan","Q4284198,Q323098",1902,,"J. Mycol. 8: 183 (1902)",,,,f6e6c810-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219572," "
-4a000daa-9bac-11eb-a8a2-19ed5c03f8d3,species,equiseti,Stamnaria,,"(Hoffm.) Sacc.","Q69815,Q707840",1889,,"Syll. fung. (Abellini) 8: 620 (1889)",,,,7a6481d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219652," "
-b45fbb50-9bac-11eb-a8a2-19ed5c03f8d3,variety,equiseti,Stamnaria,equiseti,"(Hoffm.) Sacc.","Q69815,Q707840",,,,,,,b45fbb50-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420908," "
-b247571e-9bad-11eb-a8a2-19ed5c03f8d3,variety,herjedalensis,Stamnaria,equiseti,Rehm,Q4393082,,,,,,,b247571e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,138727," "
-f8836bd4-9bab-11eb-a8a2-19ed5c03f8d3,species,herjedalensis,Stamnaria,,"(Rehm) Bubák",Q4393082,1903,,"J. Mycol. 9: 2 (1903)",,,,b247571e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,503744," "
+a5b644f6-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stamnaria,,,Fuckel,0,1870,,"Jb. nassau. Ver. Naturk. 23-24: 309 (1870)",,,,a5b644f6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25342," "
+f6e6c810-9bac-11eb-a8a2-19ed5c03f8d3,species,americana,Stamnaria,,"Massee & Morgan",0,1902,,"J. Mycol. 8: 183 (1902)",,,,f6e6c810-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219572," "
+4a000daa-9bac-11eb-a8a2-19ed5c03f8d3,species,equiseti,Stamnaria,,"(Hoffm.) Sacc.",0,1889,,"Syll. fung. (Abellini) 8: 620 (1889)",,,,7a6481d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219652," "
+b45fbb50-9bac-11eb-a8a2-19ed5c03f8d3,variety,equiseti,Stamnaria,equiseti,"(Hoffm.) Sacc.",0,,,,,,,b45fbb50-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420908," "
+b247571e-9bad-11eb-a8a2-19ed5c03f8d3,variety,herjedalensis,Stamnaria,equiseti,Rehm,0,,,,,,,b247571e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,138727," "
+f8836bd4-9bab-11eb-a8a2-19ed5c03f8d3,species,herjedalensis,Stamnaria,,"(Rehm) Bubák",0,1903,,"J. Mycol. 9: 2 (1903)",,,,b247571e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,503744," "
 5128b00a-9bac-11eb-a8a2-19ed5c03f8d3,species,hyalopus,Stamnaria,,"P. Karst.",,,,,,,,5128b00a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,232679," "
-5111b328-9bac-11eb-a8a2-19ed5c03f8d3,species,persoonii,Stamnaria,,"(Moug.) Fuckel","Q1143078,Q66899",1870,,"Jb. nassau. Ver. Naturk. 23-24: 309 (1870)",,,,7cff5124-9bad-11eb-a8a2-19ed5c03f8d3,,,,,232421," "
-0af3ff54-9bac-11eb-a8a2-19ed5c03f8d3,species,pusia,Stamnaria,,"(Berk. & M.A. Curtis) Massee","Q662338,Q4284198",1891,,"J. Mycol. 6(4): 179 (1891)",,,,950df3ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,508172," "
+5111b328-9bac-11eb-a8a2-19ed5c03f8d3,species,persoonii,Stamnaria,,"(Moug.) Fuckel",0,1870,,"Jb. nassau. Ver. Naturk. 23-24: 309 (1870)",,,,7cff5124-9bad-11eb-a8a2-19ed5c03f8d3,,,,,232421," "
+0af3ff54-9bac-11eb-a8a2-19ed5c03f8d3,species,pusia,Stamnaria,,"(Berk. & M.A. Curtis) Massee",0,1891,,"J. Mycol. 6(4): 179 (1891)",,,,950df3ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,508172," "
 6b88f31a-9bac-11eb-a8a2-19ed5c03f8d3,species,thujae,Stamnaria,,Seaver,,,,,,,,6b88f31a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280246," "
-ac2aa760-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Stamnorchis,,"(Benth.) D.L.Jones & M.A.Clem.","Q731808,Q1175070,Q2272220",2002,,"Austral. Orchid Res. 4: 83 2002",,,,,,20012282-1,wfo-0000558092,2847275,,
+ac2aa760-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Stamnorchis,,"(Benth.) D.L.Jones & M.A.Clem.",0,2002,,"Austral. Orchid Res. 4: 83 (2002)",,,,,,urn:lsid:ipni.org:names:20012282-1,wfo-0000558092,2847275,,

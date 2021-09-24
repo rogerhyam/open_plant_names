@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9878d254-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dyslecanis,,,Clem.,Q920184,1909,,"Gen. fung. (Minneapolis) 79, 175 (1909)",,,,9878d254-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1727," "
-85b1cbe4-9bad-11eb-a8a2-19ed5c03f8d3,species,syringea,Dyslecanis,,"(Ach.) Clem.","Q365923,Q920184",1909,,"Gen. fung. (Minneapolis) (1909)",,,,9bf6a942-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384572," "
-41e9b9da-8fcd-11eb-924d-9cd76263cbd0,species,californicum,Dysmicodon,,Nutt.,Q728337,1843,,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,,142455-1,wfo-0000831944,3167008,,
-41e9f67a-8fcd-11eb-924d-9cd76263cbd0,species,ovatum,Dysmicodon,,Nutt.,Q728337,1843,,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,,142456-1,wfo-0000831946,3167015,,
-41ea1402-8fcd-11eb-924d-9cd76263cbd0,species,perfoliatum,Dysmicodon,,"(L.) Nutt.","Q1043,Q728337",1843,,"Trans. Amer. Philos. Soc. n.s., 8: 256 1843",,,,,,142457-1,wfo-0000831947,3167004,,
-822ec3f0-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Dysoda,,Lour.,Q729917,1790,,"Fl. Cochinch. 146 1790",,,,,,748691-1,wfo-0000947171,2900448,,
-822efde8-8fcd-11eb-924d-9cd76263cbd0,species,foetida,Dysoda,,"(L.f.) Salisb.","Q178823,Q1358261",1796,,"Prodr. Stirp. Chap. Allerton 60 1796",,,,dce1fee4-8fcc-11eb-924d-9cd76263cbd0,,748692-1,wfo-0000947173,2900444,,
-822f1940-8fcd-11eb-924d-9cd76263cbd0,species,ceylanicum,Dysodidendron,,Gardner,Q2404423,1847,,"Calcutta J. Nat. Hist. 7: 2 1847",,,,,,748693-1,wfo-0000947174,2917694,,
-822f34de-8fcd-11eb-924d-9cd76263cbd0,species,glomeratum,Dysodidendron,,Gardner,Q2404423,1847,,"Calcutta J. Nat. Hist. 7: 3 1847",,,,,,748694-1,wfo-0000947175,2917704,,
-822f5004-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Dysodidendron,,Gardner,Q2404423,1847,,"Calcutta J. Nat. Hist. 7: 3 1847",,,,,,748695-1,wfo-0000947176,2917686,,
+9878d254-9bad-11eb-a8a2-19ed5c03f8d3,genus,Dyslecanis,,,Clem.,0,1909,,"Gen. fung. (Minneapolis) 79, 175 (1909)",,,,9878d254-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1727," "
+85b1cbe4-9bad-11eb-a8a2-19ed5c03f8d3,species,syringea,Dyslecanis,,"(Ach.) Clem.",0,1909,,"Gen. fung. (Minneapolis) (1909)",,,,9bf6a942-9bad-11eb-a8a2-19ed5c03f8d3,,,,,384572," "
+41e9b9da-8fcd-11eb-924d-9cd76263cbd0,species,californicus,Dysmicodon,,Nutt.,0,1843,,"Trans. Amer. Philos. Soc. , n.s., 8: 256 (1842)",,,,,,urn:lsid:ipni.org:names:142455-1,wfo-0000831944,3167008,,
+41e9f67a-8fcd-11eb-924d-9cd76263cbd0,species,ovatus,Dysmicodon,,Nutt.,0,1843,,"Trans. Amer. Philos. Soc. , n.s., 8: 256 (1842)",,,,,,urn:lsid:ipni.org:names:142456-1,wfo-0000831946,3167015,,
+41ea1402-8fcd-11eb-924d-9cd76263cbd0,species,perfoliatus,Dysmicodon,,Nutt.,0,1843,,"Trans. Amer. Philos. Soc. , n.s., 8: 256 (1842)",,,,,,urn:lsid:ipni.org:names:142457-1,wfo-0000831947,3167004,,
+822ec3f0-8fcd-11eb-924d-9cd76263cbd0,species,fasciculata,Dysoda,,Lour.,0,1790,,"Fl. Cochinch. : 146 (1790)",,,,,,urn:lsid:ipni.org:names:748691-1,wfo-0000947171,2900448,,
+822efde8-8fcd-11eb-924d-9cd76263cbd0,species,foetida,Dysoda,,Salisb.,0,1796,,"Prodr. Stirp. Chap. Allerton : 60 (1796)",,,,dce1fee4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:748692-1,wfo-0000947173,2900444,,
+822f1940-8fcd-11eb-924d-9cd76263cbd0,species,ceylanicum,Dysodidendron,,Gardner,0,1847,,"Calcutta J. Nat. Hist. 7: 2 (1847)",,,,,,urn:lsid:ipni.org:names:748693-1,wfo-0000947174,2917694,,
+822f34de-8fcd-11eb-924d-9cd76263cbd0,species,glomeratum,Dysodidendron,,Gardner,0,1847,,"Calcutta J. Nat. Hist. 7: 3 (1847)",,,,,,urn:lsid:ipni.org:names:748694-1,wfo-0000947175,2917704,,
+822f5004-8fcd-11eb-924d-9cd76263cbd0,species,wightii,Dysodidendron,,Gardner,0,1847,,"Calcutta J. Nat. Hist. 7: 3 (1847)",,,,,,urn:lsid:ipni.org:names:748695-1,wfo-0000947176,2917686,,

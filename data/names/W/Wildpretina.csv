@@ -1,4 +1,3 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec110752-8fd1-11eb-924d-9cd76263cbd0,genus,Wildpretina,,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 432. 1891. (5 Nov 1891)",,,,,,,wfo-4000040715,7270347,,
-5d5dc7fc-8fcc-11eb-924d-9cd76263cbd0,species,viscosa,Wildpretina,,Kuntze,Q62853,1891,,"Revis. Gen. Pl. 2: 432 1891",,,,,,371483-1,wfo-0000427880,3843242,,
-eb1972e4-8fcc-11eb-924d-9cd76263cbd0,species,wildtii,,,"(Podp.) Holub","Q4368181,Q328397",1976,,"Folia Geobot. Phytotax. 11: 81 1976",,Q55755382,,,,536506-1,wfo-0000662062,,,
+ec110752-8fd1-11eb-924d-9cd76263cbd0,genus,Wildpretina,,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 432 (1891)",,,,,,urn:lsid:ipni.org:names:16770-1,wfo-4000040715,7270347,,
+5d5dc7fc-8fcc-11eb-924d-9cd76263cbd0,species,viscosa,Wildpretina,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 432 (1891)",,,,,,urn:lsid:ipni.org:names:371483-1,wfo-0000427880,3843242,,

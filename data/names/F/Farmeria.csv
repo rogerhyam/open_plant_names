@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3acd42e-8fd1-11eb-924d-9cd76263cbd0,genus,Farmeria,,,"Willis ex Hook.f.","Q2916692,Q157501",1900,,"Handb. Fl. Ceylon 5: 386. 1900.",,,,,,32199-1,wfo-4000014594,,,
-f8920ee0-8fcc-11eb-924d-9cd76263cbd0,species,indica,Farmeria,,Willis,Q2916692,1902,,"Ann. Roy. Bot. Gard. (Peradeniya) 1: 248 1902",,,,,,688191-1,wfo-0000685817,4072226,,
-cb6c2356-8fd1-11eb-924d-9cd76263cbd0,species,metzgerioides,Farmeria,,"(Trimen) Willis","Q2462643,Q2916692",1902,,"Ann. Roy. Bot. Gard. (Peradeniya) 1: 247 1902",,,,,,,wfo-0001275221,4072222,,
-f892286c-8fcc-11eb-924d-9cd76263cbd0,species,metzgerioides,Farmeria,,"(Trimen) Willis ex Hook.f.","Q2462643,Q2916692,Q157501",1900,,"Handb. Fl. Ceylon 5: 386 1900",,,,,,,wfo-0000685818,8339418,,
-13681ba2-8fc7-11eb-924d-9cd76263cbd0,species,odora,Farnesia,,Gasp.,Q3119279,,,,,,,,,,wfo-0000200953,5360314,,
-fb146ff0-8fc7-11eb-924d-9cd76263cbd0,species,odora,Farnesiana,,Gasp.,Q3119279,,,,,,,,,,wfo-0000205469,2979281,,
+e3acd42e-8fd1-11eb-924d-9cd76263cbd0,genus,Farmeria,,,"Willis ex Hook.f.",0,1900,,"Handb. Fl. Ceylon 5: 386 (1900)",,,,,,urn:lsid:ipni.org:names:32199-1,wfo-4000014594,,,
+f8920ee0-8fcc-11eb-924d-9cd76263cbd0,species,indica,Farmeria,,Willis,0,1902,,"Ann. Roy. Bot. Gard. (Peradeniya) 1: 248 (1902)",,,,,,urn:lsid:ipni.org:names:688191-1,wfo-0000685817,4072226,,
+cb6c2356-8fd1-11eb-924d-9cd76263cbd0,species,metzgerioides,Farmeria,,Willis,0,1902,,"Handb. Fl. Ceylon 5: 386 (1900)",,,,,,urn:lsid:ipni.org:names:688192-1,wfo-0001275221,4072222,,
+f892286c-8fcc-11eb-924d-9cd76263cbd0,species,metzgerioides,Farmeria,,"(Trimen) Willis ex Hook.f.",0,1900,,"Handb. Fl. Ceylon 5: 386 1900",,,,,,,wfo-0000685818,8339418,,
+13681ba2-8fc7-11eb-924d-9cd76263cbd0,species,odora,Farnesia,,Gasp.,0,,,"Descr. Nuov. Gen. Leg. : t. 1 (1838)",,,,,,urn:lsid:ipni.org:names:494780-1,wfo-0000200953,5360314,,
+fb146ff0-8fc7-11eb-924d-9cd76263cbd0,species,odora,Farnesiana,,Gasp.,0,,,,,,,,,,wfo-0000205469,2979281,,

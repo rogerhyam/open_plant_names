@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e47d59c8-8fd1-11eb-924d-9cd76263cbd0,genus,Hedbergia,,,Molau,Q13505874,1988,,"Nordic J. Bot. 8(2): 194. 1988.",,Q55761394,,,,925106-1,wfo-4000017098,7331702,,
-0a536e76-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Hedbergia,,"(Benth.) Molau","Q731808,Q13505874",1988,,"Nordic J. Bot. 8: 195 1988",,Q55761394,,,,945255-1,wfo-0000716576,3725521,,
+e47d59c8-8fd1-11eb-924d-9cd76263cbd0,genus,Hedbergia,,,Molau,0,1988,,"Nordic J. Bot. 8: 194 (1988)",,Q55761394,,,,urn:lsid:ipni.org:names:925106-1,wfo-4000017098,7331702,,
+0a536e76-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Hedbergia,,"(Hochst. ex Benth.) Molau",0,1988,,"Nordic J. Bot. 8: 195 (1988)",,Q55761394,,,,urn:lsid:ipni.org:names:945255-1,wfo-0000716576,3725521,,
+4b9f60d4-1d4d-11ec-82c2-f14daa6f2d93,species,decurva,Hedbergia,,"(Hochst. ex Benth.) A.Fleischm. & Heubl",,,,"Taxon 61: 1281 (2012)",,,,,,urn:lsid:ipni.org:names:77124126-1,wfo-0001334602,,,
+4b9f3c58-1d4d-11ec-82c2-f14daa6f2d93,species,longiflora,Hedbergia,,"(Hochst. ex Benth.) A.Fleischm. & Heubl",,,,"Taxon 61: 1281 (2012)",,,,,,urn:lsid:ipni.org:names:77124124-1,wfo-0001334601,,,
+6026b93a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,macrophylla,Hedbergia,longiflora,"(Hedberg) A.Fleischm. & Heubl",,,,"Taxon 61(6): 1281. 2012 [14 Dec 2012]",,,,,,urn:lsid:ipni.org:names:77124125-1,wfo-0001362433,,,

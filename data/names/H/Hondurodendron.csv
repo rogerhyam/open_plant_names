@@ -1,3 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4d66b44-8fd1-11eb-924d-9cd76263cbd0,genus,Hondurodendron,,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly","Q9030238,Q13423988,Q21395774,Q33678629",2010,,"Ann. Missouri Bot. Gard. 97(3): 459. 2010. (10 Oct 2010)",,Q54641697,,,,77111708-1,wfo-4000018215,4927578,,
-1b2032c0-8fcd-11eb-924d-9cd76263cbd0,species,urceolatum,Hondurodendron,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly","Q9030238,Q13423988,Q21395774,Q33678629",2010,,"Ann. Missouri Bot. Gard. 97: 459 2010",,Q54641697,,,,77111709-1,wfo-0000749452,7534590,,
+e4d66b44-8fd1-11eb-924d-9cd76263cbd0,genus,Hondurodendron,,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",0,2010,,"Ann. Missouri Bot. Gard. 97: 459 (2010)",,Q54641697,,,,urn:lsid:ipni.org:names:77111708-1,wfo-4000018215,4927578,,
+1b2032c0-8fcd-11eb-924d-9cd76263cbd0,species,urceolatum,Hondurodendron,,"C.Ulloa, Nickrent, Whitef. & D.L.Kelly",0,2010,,"Ann. Missouri Bot. Gard. 97: 459 (2010)",,Q54641697,,,,urn:lsid:ipni.org:names:77111709-1,wfo-0000749452,7534590,,
+47674784-1d4d-11ec-82c2-f14daa6f2d93,species,gugliae,Honogalum,,"(Widder) Holub",,,,"Folia Geobot. Phytotax. 11(1): 81. 1976",,,,,,urn:lsid:ipni.org:names:536505-1,wfo-0001328921,,,
+eb1796d6-8fcc-11eb-924d-9cd76263cbd0,species,gugliae,Honogalum,,"(Widder) Holub",0,1976,,"Folia Geobot. Phytotax. 11: 81 (1976)",,Q55755382,,03b76dce-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:536505-1,wfo-0000662051,,,
+47676b38-1d4d-11ec-82c2-f14daa6f2d93,species,wildtii,Honogalum,,"(Podp.) Holub",,,,"Folia Geobot. Phytotax. 11(1): 81. 1976",,,,,,urn:lsid:ipni.org:names:536506-1,wfo-0001328922,,,
+eb1972e4-8fcc-11eb-924d-9cd76263cbd0,species,wildtii,Honogalum,,"(Podp.) Holub",0,1976,,"Folia Geobot. Phytotax. 11: 81 (1976)",,Q55755382,,,,urn:lsid:ipni.org:names:536506-1,wfo-0000662062,,,

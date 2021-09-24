@@ -1,4 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2a8937e-8fd1-11eb-924d-9cd76263cbd0,genus,Diaspananthus,,,,,,,,,,,,,,wfo-4000011340,,,
-9ebdea02-8fb2-11eb-924d-9cd76263cbd0,species,palmatus,Diaspananthus,,Miq.,Q76742,1865,,"186 1865",,,,,,201261-1,wfo-0000029933,3149514,,
-b59822a8-8fb5-11eb-924d-9cd76263cbd0,species,uniflorus,Diaspananthus,,"(Sch.Bip.) Kitam.","Q65685,Q4222439",1938,,"J. Jap. Bot. 14: 298 (1938)",,,,33b3077e-8fb2-11eb-924d-9cd76263cbd0,,201262-1,wfo-0000081242,3149513,,
+e2a8937e-8fd1-11eb-924d-9cd76263cbd0,genus,Diaspananthus,,,Miq.,,,,"Ann. Mus. Bot. Lugduno-Batavi 2: 186 (1866)",,,,,,urn:lsid:ipni.org:names:8585-1,wfo-4000011340,,,
+9ebdea02-8fb2-11eb-924d-9cd76263cbd0,species,palmatus,Diaspananthus,,Miq.,0,1865,,"Ann. Mus. Bot. Lugduno-Batavi 2: 186 (1866)",,,,,,urn:lsid:ipni.org:names:201261-1,wfo-0000029933,3149514,,
+b59822a8-8fb5-11eb-924d-9cd76263cbd0,species,uniflorus,Diaspananthus,,Kitam.,0,1938,,"J. Jap. Bot. 14: 298. 1938",,,,33b3077e-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:201262-1,wfo-0000081242,3149513,,
+42629522-1d4d-11ec-82c2-f14daa6f2d93,form,niveus,Diaspananthus,uniflorus,M.Mizush.,,,,"J. Jap. Bot. 30(3): 95 (1955)",,,,,,urn:lsid:ipni.org:names:77072136-1,wfo-0001322181,,,
+b8dfdd00-1d47-11ec-82c2-f14daa6f2d93,form,uniflorus,Diaspananthus,uniflorus,,,,,,,,,,,,wfo-0000056585,,,

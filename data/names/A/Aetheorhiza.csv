@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deef6820-8fd1-11eb-924d-9cd76263cbd0,genus,Aetheorhiza,,,Rchb.,Q58053,,,,,,,,,7495-1,wfo-4000000819,8906922,,
-8bdb676e-8fb4-11eb-924d-9cd76263cbd0,species,bulbosa,Aetheorhiza,,"(L.) Cass.","Q1043,Q958431",1827,,"426 1827",,,,,,175131-1,wfo-0000066630,3143051,,
-bc1c966a-8fb8-11eb-924d-9cd76263cbd0,subspecies,microcephala,Aetheorhiza,bulbosa,Rech.f.,Q78738,1974,,"217 1974",,,,,,,wfo-0000112117,,,
-6af38b86-8fb8-11eb-924d-9cd76263cbd0,subspecies,willkommii,Aetheorhiza,bulbosa,"(Burnat & Barbey) Rech.f.","Q3588389,Q3568417,Q78738",1974,,"219 1974",,,,0be03c44-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000109221,,,
-a89dd122-8fb2-11eb-924d-9cd76263cbd0,species,montana,Aetheorhiza,,Willk.,Q64566,1875,,"110 1875",,Q56037703,,,,175132-1,wfo-0000031039,4207719,,
+deef6820-8fd1-11eb-924d-9cd76263cbd0,genus,Aetheorhiza,,,Cass.,0,,,"Dict. Sci. Nat., ed. 2. 48: 425 (1827)",,,,,,urn:lsid:ipni.org:names:7495-1,wfo-4000000819,8906922,,
+8bdb676e-8fb4-11eb-924d-9cd76263cbd0,species,bulbosa,Aetheorhiza,,"(L.) Cass.",0,1827,,"Dict. Sci. Nat., ed. 2. 48: 426 (1827)",,,,,,urn:lsid:ipni.org:names:175131-1,wfo-0000066630,3143051,,
+dbb3abf4-1d47-11ec-82c2-f14daa6f2d93,subspecies,bulbosa,Aetheorhiza,bulbosa,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77179714-1,wfo-0000099630,,,
+bc1c966a-8fb8-11eb-924d-9cd76263cbd0,subspecies,microcephala,Aetheorhiza,bulbosa,Rech.f.,0,1974,,"Phyton (Horn) 16(1-4): 217 (1974)",,,,,,urn:lsid:ipni.org:names:876389-1,wfo-0000112117,,,
+6af38b86-8fb8-11eb-924d-9cd76263cbd0,subspecies,willkommii,Aetheorhiza,bulbosa,"(Burnat & Barbey) Rech.f.",0,1974,,"Phyton (Horn) 16(1-4): 219 (1974)",,,,0be03c44-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:876390-1,wfo-0000109221,,,
+a89dd122-8fb2-11eb-924d-9cd76263cbd0,species,montana,Aetheorhiza,,Willk.,0,1875,,"Oesterr. Bot. Z. 25: 110 (1875)",,Q56037703,,,,urn:lsid:ipni.org:names:175132-1,wfo-0000031039,4207719,,

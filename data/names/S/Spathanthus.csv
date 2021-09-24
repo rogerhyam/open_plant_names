@@ -1,6 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea9017e2-8fd1-11eb-924d-9cd76263cbd0,genus,Spathanthus,,,Desv.,Q1354671,1828,,"Ann. Sci. Nat. (Paris) 13: 45. 1828.",,,,,,33292-1,wfo-4000035877,2693251,,
-a98e2428-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Spathanthus,,Ducke,Q2601698,1935,,"Arq. Inst. Biol. Veg. 2: 28 1935",,,,,,241144-2,wfo-0000554236,2693259,,
-a98ee14c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Spathanthus,,N.E.Br.,Q721850,1906,,"Bull. Misc. Inform. Kew 1906: 6 1906",,Q55784048,,,,241145-2,wfo-0000554239,2693256,,
-a98f1e1e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Spathanthus,,"(Rudge) Desv.","Q4387201,Q1354671",1828,,"Ann. Sci. Nat. (Paris) 13: 45 1828",,,,,,715313-1,wfo-0000554241,2693252,,
-a98fca30-8fcc-11eb-924d-9cd76263cbd0,variety,jenmanii,Spathanthus,unilateralis,"(N.E.Br.) Maguire","Q721850,Q2695559",1957,,"Brittonia 8: 232 1957",,Q54556667,,a98ee14c-8fcc-11eb-924d-9cd76263cbd0,,241147-2,wfo-0000554247,2693255,,
+ea9017e2-8fd1-11eb-924d-9cd76263cbd0,genus,Spathanthus,,,Desv.,0,1828,,"Ann. Sci. Nat. (Paris) 13: 45 (1828)",,,,,,urn:lsid:ipni.org:names:33292-1,wfo-4000035877,2693251,,
+a98e2428-8fcc-11eb-924d-9cd76263cbd0,species,bicolor,Spathanthus,,Ducke,0,1935,,"Arq. Inst. Biol. Veg. 2: 28 (1935)",,,,,,urn:lsid:ipni.org:names:241144-2,wfo-0000554236,2693259,,
+a98ee14c-8fcc-11eb-924d-9cd76263cbd0,species,jenmanii,Spathanthus,,N.E.Br.,0,1906,,"Bull. Misc. Inform. Kew 1906: 6 (1906)",,Q55784048,,,,urn:lsid:ipni.org:names:241145-2,wfo-0000554239,2693256,,
+a98f1e1e-8fcc-11eb-924d-9cd76263cbd0,species,unilateralis,Spathanthus,,Desv.,0,1828,,"Ann. Sci. Nat. (Paris) 13: 45 (1828)",,,,,,urn:lsid:ipni.org:names:715313-1,wfo-0000554241,2693252,,
+6b58f9bc-1d4d-11ec-82c2-f14daa6f2d93,variety,abruptus,Spathanthus,unilateralis,Maguire,,,,"Brittonia 8: 232 (1957)",,,,,,urn:lsid:ipni.org:names:241146-2,wfo-0001377963,,,
+a98fca30-8fcc-11eb-924d-9cd76263cbd0,variety,jenmanii,Spathanthus,unilateralis,"(N.E.Br.) Maguire",0,1957,,"Brittonia 8: 232 (1957)",,Q54556667,,a98ee14c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:241147-2,wfo-0000554247,2693255,,
+49ed345e-1d49-11ec-82c2-f14daa6f2d93,variety,unilateralis,Spathanthus,unilateralis,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77169510-1,wfo-0000554250,,,

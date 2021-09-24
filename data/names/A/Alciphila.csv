@@ -1,9 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a864b002-9bad-11eb-a8a2-19ed5c03f8d3,genus,Alciphila,,,Harmaja,Q13410469,2002,,"Karstenia 42(2): 34 (2002)",,,,a864b002-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28728," "
-3cba7bd4-9bad-11eb-a8a2-19ed5c03f8d3,species,vulgaris,Alciphila,,Harmaja,Q13410469,2002,,"Karstenia 42(2): 35 (2002)",,,,3cba7bd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371854," "
-98248416-8fcc-11eb-924d-9cd76263cbd0,species,tobagensis,Alcmene,,Urb.,Q64845,1921,,"Repert. Spec. Nov. Regni Veg. 17: 167 1921",,Q55753169,,,,8244-2,wfo-0000525219,3157491,,
-9824a2b6-8fcc-11eb-924d-9cd76263cbd0,species,longibracteata,Alcoceratothrix,,"(A.Juss. ex Mart.) Nied.","Q377094,Q77131,Q77958",1901,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg 1: 45 1901",,,,b85e929e-8fcc-11eb-924d-9cd76263cbd0,,555382-1,wfo-0000525220,3986059,,
-9824c0fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Alcoceratothrix,,"(Benth.) Nied.","Q731808,Q77958",1901,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg 1: 45 1901",,,,,,555383-1,wfo-0000525221,7285708,,
-9824dcf4-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Alcoceratothrix,rugosa,Nied.,Q77958,1901,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg 1: 45 1901",,,,,,,wfo-0000525222,8087743,,
-982516ec-8fcc-11eb-924d-9cd76263cbd0,species,stipulacea,Alcoceratothrix,,"(A.Juss.) Nied.","Q377094,Q77958",1928,,"Pflanzenr. IV, 141: 762 1928",,,,b86f7636-8fcc-11eb-924d-9cd76263cbd0,,8249-2,wfo-0000525224,3986017,,
-1dba5e4e-8fcc-11eb-924d-9cd76263cbd0,species,pringlei,Alcoceria,,Fernald,Q2656885,1901,,"Proc. Amer. Acad. Arts 36: 493 1901",,,,,,8250-2,wfo-0000338183,3061451,,
+a864b002-9bad-11eb-a8a2-19ed5c03f8d3,genus,Alciphila,,,Harmaja,0,2002,,"Karstenia 42(2): 34 (2002)",,,,a864b002-9bad-11eb-a8a2-19ed5c03f8d3,,,,,28728," "
+3cba7bd4-9bad-11eb-a8a2-19ed5c03f8d3,species,vulgaris,Alciphila,,Harmaja,0,2002,,"Karstenia 42(2): 35 (2002)",,,,3cba7bd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,371854," "
+98248416-8fcc-11eb-924d-9cd76263cbd0,species,tobagensis,Alcmene,,Urb.,0,1921,,"Repert. Spec. Nov. Regni Veg. 17: 167 (1921)",,Q55753169,,,,urn:lsid:ipni.org:names:8244-2,wfo-0000525219,3157491,,
+9824a2b6-8fcc-11eb-924d-9cd76263cbd0,species,longibracteata,Alcoceratothrix,,Nied.,0,1901,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg i. 45 (1901).",,,,b85e929e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:555382-1,wfo-0000525220,3986059,,
+9824c0fc-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Alcoceratothrix,,Nied.,0,1901,,"Arbeiten Bot. Inst. Königl. Lyceums Hosianum Braunsberg i. 45 (1901).",,,,,,urn:lsid:ipni.org:names:555383-1,wfo-0000525221,7285708,,
+9824dcf4-8fcc-11eb-924d-9cd76263cbd0,variety,minor,Alcoceratothrix,rugosa,Müll.Arg.,0,1901,,"Byrsonima pt. 2, 45. 1901",,,,,,urn:lsid:ipni.org:names:8247-2,wfo-0000525222,8087743,,
+7cc496b6-1d4d-11ec-82c2-f14daa6f2d93,variety,typica,Alcoceratothrix,rugosa,Müll.Arg.,,,,"Byrsonima pt. 2, 45. 1901",,,,,,urn:lsid:ipni.org:names:8248-2,wfo-0001400628,,,
+982516ec-8fcc-11eb-924d-9cd76263cbd0,species,stipulacea,Alcoceratothrix,,"(A.Juss.) Nied.",0,1928,,"Pflanzenr. , IV, 141: 762 (1928)",,,,b86f7636-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:8249-2,wfo-0000525224,3986017,,
+1dba5e4e-8fcc-11eb-924d-9cd76263cbd0,species,pringlei,Alcoceria,,Fernald,0,1901,,"Proc. Amer. Acad. Arts 36: 493 (1901)",,,,,,urn:lsid:ipni.org:names:8250-2,wfo-0000338183,3061451,,

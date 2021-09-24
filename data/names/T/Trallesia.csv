@@ -1,6 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb780b10-8fd1-11eb-924d-9cd76263cbd0,genus,Trallesia,,,,,,,,,,,,,,wfo-4000038782,7336269,,
-62290e10-8fbb-11eb-924d-9cd76263cbd0,species,matricarioides,Trallesia,,Zumagl.,Q1102547,1849,,"Fl. Pedem. i. 361 (1849)",,,,,,256181-1,wfo-0000133821,4212357,,
-36b93716-8fcd-11eb-924d-9cd76263cbd0,species,tramandahyana,,,Roeth,Q21391841,2006,,"Orchidee (Hamburg) 57: 77 2006",,,,,,77079411-1,wfo-0000807919,,,
-17723d54-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Trambis,,"(Pall.) Raf.","Q155914,Q364857",1837,,"Fl. Tellur. 3: 87 1837",,,,,,461844-1,wfo-0000326984,3881712,,
-17725956-8fcc-11eb-924d-9cd76263cbd0,species,tuberosa,Trambis,,"(L.) Raf.","Q1043,Q364857",1837,,"Fl. Tellur. 3: 87 1837",,,,,,461845-1,wfo-0000326985,3881705,,
+eb780b10-8fd1-11eb-924d-9cd76263cbd0,genus,Trallesia,,,Zumagl.,,,,"Fl. Pedem. i. 361 (1849)",,,,,,urn:lsid:ipni.org:names:11338-1,wfo-4000038782,7336269,,
+62290e10-8fbb-11eb-924d-9cd76263cbd0,species,matricarioides,Trallesia,,Zumagl.,0,1849,,"Fl. Pedem. i. 361 (1849)",,,,,,urn:lsid:ipni.org:names:256181-1,wfo-0000133821,4212357,,
+17723d54-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Trambis,,Raf.,0,1837,,"Fl. Tellur. 3: 87 (1837)",,,,,,urn:lsid:ipni.org:names:461844-1,wfo-0000326984,3881712,,
+17725956-8fcc-11eb-924d-9cd76263cbd0,species,tuberosa,Trambis,,Raf.,0,1837,,"Fl. Tellur. 3: 87 (1837)",,,,,,urn:lsid:ipni.org:names:461845-1,wfo-0000326985,3881705,,

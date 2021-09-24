@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e395a45c-8fd1-11eb-924d-9cd76263cbd0,genus,Eurychaenia,,,Griseb.,Q76351,1864,,"Fl. Brit. W. I. 258–259. 1864[1860]. (late 1860)",,,,,,,wfo-4000014285,7273011,,
-aed0ec4e-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Eurychaenia,,Griseb.,Q76351,1860,,"Fl. Brit. W. I. 259: 738 1860",,,,,,568671-1,wfo-0001041042,3864327,,
-c74d37b0-8fd1-11eb-924d-9cd76263cbd0,species,fulva,Eurychaenia,,Griseb.,Q76351,1860,,"Fl. Brit. W. I. 259 1860",,,,,,568672-1,wfo-0001267456,3864310,,
-ccf6be66-8fd1-11eb-924d-9cd76263cbd0,species,punctata,Eurychaenia,,"(Desr.) Griseb.","Q3184192,Q76351",1860,,"Fl. Brit. W. I. 259 1860",,,,1d0daaf4-8fb4-11eb-924d-9cd76263cbd0,,,wfo-0001278003,3864295,,
-f730fdae-8fcc-11eb-924d-9cd76263cbd0,species,verbasciformis,Eurychanes,,Nees,Q76349,1847,,"Fl. Bras. 9: 52 1847",,,,,,307114-2,wfo-0000683338,3775720,,
+e395a45c-8fd1-11eb-924d-9cd76263cbd0,genus,Eurychaenia,,,Griseb.,0,1864,,"Unknown : 54 (1860)",,,,,,urn:lsid:ipni.org:names:30066719-2,wfo-4000014285,7273011,,
+aed0ec4e-8fcd-11eb-924d-9cd76263cbd0,species,ferruginea,Eurychaenia,,Griseb.,0,1860,,"Fl. Brit. W. I. 259, 738 (1860)",,,,,,urn:lsid:ipni.org:names:568671-1,wfo-0001041042,3864327,,
+c74d37b0-8fd1-11eb-924d-9cd76263cbd0,species,fulva,Eurychaenia,,Griseb.,0,1860,,"Fl. Brit. W. I. : 259 (1860)",,,,,,urn:lsid:ipni.org:names:568672-1,wfo-0001267456,3864310,,
+ccf6be66-8fd1-11eb-924d-9cd76263cbd0,species,punctata,Eurychaenia,,Griseb.,0,1860,,"Fl. Brit. W. I. 259. 1860; et in Goett. Abh.",,,,1d0daaf4-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:568673-1,wfo-0001278003,3864295,,
+65c3abb4-1d4d-11ec-82c2-f14daa6f2d93,variety,latifolia,Eurychaenia,punctata,Griseb.,,,,Unknown,,,,,,urn:lsid:ipni.org:names:102285-2,wfo-0001370612,,,
+f730fdae-8fcc-11eb-924d-9cd76263cbd0,species,verbasciformis,Eurychanes,,Nees,0,1847,,"Fl. Bras. 9: 52 (1847)",,,,,,urn:lsid:ipni.org:names:307114-2,wfo-0000683338,3775720,,

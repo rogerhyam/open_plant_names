@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9e9023b8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cystidiophorus,,,"Bondartsev & Ljub.",,1963,,"Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 16: 125 (1963)",,,,9e9023b8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17444," "
-77df38ae-9bac-11eb-a8a2-19ed5c03f8d3,species,castaneus,Cystidiophorus,,"(Lloyd) Imazeki",Q4264539,1965,,"Col. Ill. Fungi Jap. 2: 125 (1965)",,,,,,,,,329542," "
+77df38ae-9bac-11eb-a8a2-19ed5c03f8d3,species,castaneus,Cystidiophorus,,"(Lloyd) Imazeki",0,1965,,"Col. Ill. Fungi Jap. 2: 125 (1965)",,,,,,,,,329542," "
 bad0746a-9bad-11eb-a8a2-19ed5c03f8d3,species,merulioideus,Cystidiophorus,,"Bondartsev & Ljub.",,1963,,"Botanicheskii Materialy 16: 126 (1963)",,,,bad0746a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,354558,"  CHECK REFERENCE"
-2fffbdbe-8fcd-11eb-924d-9cd76263cbd0,species,cheirolepis,Cystidospermum,,"(Fisch. & C.A.Mey. ex Karelin) Prokh.","Q64109,Q728729,Q3147368",1933,,"Consp. Syst. Tithymalus As. Med. 26 1933",,,,888567c2-8fcd-11eb-924d-9cd76263cbd0,,343961-1,wfo-0000793783,3067028,,
-2fffdad8-8fcd-11eb-924d-9cd76263cbd0,species,petiolatum,Cystidospermum,,"(Banks & Sol.) Nasimova","Q153408,Q39789,Q21521993",1983,,"Opred. Rast. Sred. Azii 7: 77 1983",,,,,,1004008-1,wfo-0000793784,3064637,,
-2ffff748-8fcd-11eb-924d-9cd76263cbd0,species,postii,Cystidospermum,,"(Boiss.) Prokh.","Q34430,Q3147368",1933,,"Consp. Syst. Tithymalus As. Med. 28 1933",,,,,,343962-1,wfo-0000793785,3064635,,
+2fffbdbe-8fcd-11eb-924d-9cd76263cbd0,species,cheirolepis,Cystidospermum,,"(Fisch. & C.A.Mey. ex Ledeb.) Prokh.",0,1933,,"Consp. Syst. Tithymalus As. Med. : 26 (1933)",,,,888567c2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:343961-1,wfo-0000793783,3067028,,
+2fffdad8-8fcd-11eb-924d-9cd76263cbd0,species,petiolatum,Cystidospermum,,"(Banks & Sol.) T.Nasimova",0,1983,,"Opred. Rast. Sred. Azii 7: 77 (1983)",,,,,,urn:lsid:ipni.org:names:1004008-1,wfo-0000793784,3064637,,
+2ffff748-8fcd-11eb-924d-9cd76263cbd0,species,postii,Cystidospermum,,"(Boiss.) Prokh.",0,1933,,"Consp. Syst. Tithymalus As. Med. : 28 (1933)",,,,,,urn:lsid:ipni.org:names:343962-1,wfo-0000793785,3064635,,

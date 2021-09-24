@@ -1,3 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eacc1904-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanopholis,,,,,,,,,,,,,,wfo-4000036589,3232165,,
-d7bec704-8fb2-11eb-924d-9cd76263cbd0,species,pinnata,Stephanopholis,,"(B.L.Rob.) S.F.Blake","Q817600,Q2332170",1913,,"346 1913",,,,0edc556c-8fb3-11eb-924d-9cd76263cbd0,,245120-2,wfo-0000035818,6064841,,
+eacc1904-8fd1-11eb-924d-9cd76263cbd0,genus,Stephanopholis,,,S.F.Blake,,,,"Proc. Amer. Acad. Arts 49: 345 (1913)",,,,,,urn:lsid:ipni.org:names:296064-2,wfo-4000036589,3232165,,
+d7bec704-8fb2-11eb-924d-9cd76263cbd0,species,pinnata,Stephanopholis,,S.F.Blake,0,1913,,"Proc. Amer. Acad. Arts 49: 346 (1913)",,,,0edc556c-8fb3-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:245120-2,wfo-0000035818,6064841,,
+6b63687a-1d4d-11ec-82c2-f14daa6f2d93,variety,integrifolia,Stephanopholis,pinnata,S.F.Blake,,,,"Proc. Amer. Acad. Arts 49: 346 (1913)",,,,,,urn:lsid:ipni.org:names:245121-2,wfo-0001378025,,,
+b5299a8e-1d47-11ec-82c2-f14daa6f2d93,variety,pinnata,Stephanopholis,pinnata,,,,,,,,,,,,wfo-0000051894,,,

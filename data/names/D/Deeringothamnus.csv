@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e28b53ea-8fd1-11eb-924d-9cd76263cbd0,genus,Deeringothamnus,,,Small,Q2590065,1924,,"Bull. Torrey Bot. Club 51(9): 389–391. 1924.",,Q55767225,,,,2004-1,wfo-4000010968,3156170,,
-ddbb17b0-8fcc-11eb-924d-9cd76263cbd0,species,pulchellus,Deeringothamnus,,Small,Q2590065,1924,,"Bull. Torrey Bot. Club 51: 390 1924",,Q55767225,,,,77176-2,wfo-0000639185,3156174,,
-ddbb67f6-8fcc-11eb-924d-9cd76263cbd0,species,rugelii,Deeringothamnus,,"(L.B.Rob.) Small",Q2590065,1930,,"Addisonia 15: 17 1930",,,,,,77177-2,wfo-0000639186,3156171,,
-ddbb9e4c-8fcc-11eb-924d-9cd76263cbd0,variety,pulchellus,Deeringothamnus,rugelii,"(Small) D.B.Ward","Q2590065,Q5798151",2001,,"Novon 11: 360 2001",,Q55774943,,ddbb17b0-8fcc-11eb-924d-9cd76263cbd0,,20001532-1,wfo-0000639187,3156173,,
-ddbbc926-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Defforgia,,Lam.,Q82122,1792,,"Tabl. Encycl. 1: t. 125 1792",,,,,,,wfo-0000639188,3932616,,
+e28b53ea-8fd1-11eb-924d-9cd76263cbd0,genus,Deeringothamnus,,,Small,0,1924,,"Bull. Torrey Bot. Club 51: 389 (1924)",,Q55767225,,,,urn:lsid:ipni.org:names:2004-1,wfo-4000010968,3156170,,
+ddbb17b0-8fcc-11eb-924d-9cd76263cbd0,species,pulchellus,Deeringothamnus,,Small,0,1924,,"Bull. Torrey Bot. Club 51: 390 (1924)",,Q55767225,,,,urn:lsid:ipni.org:names:77176-2,wfo-0000639185,3156174,,
+ddbb67f6-8fcc-11eb-924d-9cd76263cbd0,species,rugelii,Deeringothamnus,,Small,0,1930,,"Addisonia 15: 17 (1930)",,,,,,urn:lsid:ipni.org:names:77177-2,wfo-0000639186,3156171,,
+ddbb9e4c-8fcc-11eb-924d-9cd76263cbd0,variety,pulchellus,Deeringothamnus,rugelii,"(Small) D.B.Ward",0,2001,,"Novon 11(3): 360. 2001",,Q55774943,,ddbb17b0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20001532-1,wfo-0000639187,3156173,,
+ddbbc926-8fcc-11eb-924d-9cd76263cbd0,species,borbonica,Defforgia,,Lam.,0,1792,,"Tabl. Encycl. ii. 71. t. 125 (1793).",,,,,,urn:lsid:ipni.org:names:790783-1,wfo-0000639188,3932616,,

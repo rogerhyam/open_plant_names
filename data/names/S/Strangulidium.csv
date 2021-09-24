@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a5ab9844-9bad-11eb-a8a2-19ed5c03f8d3,genus,Strangulidium,,,Pouzar,Q2253812,1967,,"Ceská Mykol. 21: 206 (1967)",,,,a5ab9844-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18604," "
-25b71596-9bad-11eb-a8a2-19ed5c03f8d3,species,rennyi,Strangulidium,,"(Berk. & Broome) Pouzar","Q662338,Q1932460,Q2253812",1967,,"Ceská Mykol. 21: 206 (1967)",,,,adeec0b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,339763," "
-25b75a38-9bad-11eb-a8a2-19ed5c03f8d3,species,sericeomolle,Strangulidium,,"(Romell) Pouzar",Q2253812,1967,,"Ceská Mykol. 21: 206 (1967)",,,,b1b4f072-9bad-11eb-a8a2-19ed5c03f8d3,,,,,339764," "
-15f5dd68-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthoides,Strangweja,,Bertol.,Q599936,1835,,"Mem. Mat. Fis. Soc. Ital. Sci. Modena, Pt. Mem. Fis. 21: 2 1835",,,,,,542054-1,wfo-0000738396,2771949,,
-15fc15ca-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Strangweja,,"(Raf.) Boiss.","Q364857,Q34430",1882,,"Fl. Orient. 5: 309 1882",,,,,,,wfo-0000738444,2771964,,
+a5ab9844-9bad-11eb-a8a2-19ed5c03f8d3,genus,Strangulidium,,,Pouzar,0,1967,,"Ceská Mykol. 21: 206 (1967)",,,,a5ab9844-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18604," "
+25b71596-9bad-11eb-a8a2-19ed5c03f8d3,species,rennyi,Strangulidium,,"(Berk. & Broome) Pouzar",0,1967,,"Ceská Mykol. 21: 206 (1967)",,,,adeec0b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,339763," "
+25b75a38-9bad-11eb-a8a2-19ed5c03f8d3,species,sericeomolle,Strangulidium,,"(Romell) Pouzar",0,1967,,"Ceská Mykol. 21: 206 (1967)",,,,b1b4f072-9bad-11eb-a8a2-19ed5c03f8d3,,,,,339764," "
+15f5dd68-8fcd-11eb-924d-9cd76263cbd0,species,hyacinthoides,Strangweja,,Bertol.,0,1835,,"Mem. Mat. Fis. Soc. Ital. Sci. Modena, Pt. Mem. Fis. 21: 2 (1835)",,,,,,urn:lsid:ipni.org:names:542054-1,wfo-0000738396,2771949,,
+15fc15ca-8fcd-11eb-924d-9cd76263cbd0,species,spicata,Strangweja,,"(Raf.) Boiss.",0,1882,,"Mem. Soc. Ital. Modena xxi. (1835) 2. t. 1.",,,,,,urn:lsid:ipni.org:names:542055-1,wfo-0000738444,2771964,,

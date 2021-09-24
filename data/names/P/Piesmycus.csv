@@ -1,8 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a485032e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Piesmycus,,,Raf.,Q364857,1808,,"Med. Repos., ser. 2 5: 355 (1808)",,,,a485032e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19261," "
-1e21a208-8fb2-11eb-924d-9cd76263cbd0,species,agardhii,Pietrosia,,"(Haens. ex DC.) Sennikov","Q5858554,Q123057,Q5689553",1999,,"78 1999",,,,3d72e8c4-8fb2-11eb-924d-9cd76263cbd0,,1014900-1,wfo-0000012096,3105501,,
-3f222bc6-8fb2-11eb-924d-9cd76263cbd0,species,laevitomentosa,Pietrosia,,Nyár.,Q720666,,,,,,,,,,wfo-0000017299,3105530,,
-880c8b0e-8fb4-11eb-924d-9cd76263cbd0,species,laevitomentosa,Pietrosia,,"Nyár. ex Sennikov","Q720666,Q5689553",1999,,"Komarovia 1: 78 1999",,,,,,1014898-1,wfo-0000066422,3105530,,
-4611ec44-8fcd-11eb-924d-9cd76263cbd0,species,piettei,,,"Cugnac ex Rousseau","Q21509617,Q6527",1952,,"Mém. Jard. Bot. Montréal 29: 16 1952",,,,,,384799-1,wfo-0000840976,,,
-46123474-8fcd-11eb-924d-9cd76263cbd0,species,piettei,,,"(Cugnac) Cugnac",Q21509617,1939,,"Bull. Soc. Bot. France 86: 28 1939",,Q55757387,,461e5b82-8fcd-11eb-924d-9cd76263cbd0,,384798-1,wfo-0000840978,,,
-461e5b82-8fcd-11eb-924d-9cd76263cbd0,species,piettei,,,Cugnac,Q21509617,1938,,"Bull. Soc. Hist. Nat. Ardennes 1938: 14 1938",,,,,,,wfo-0000841073,,,
+a485032e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Piesmycus,,,Raf.,0,1808,,"Med. Repos., ser. 2 5: 355 (1808)",,,,a485032e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,19261," "
+1e21a208-8fb2-11eb-924d-9cd76263cbd0,species,agardhii,Pietrosia,,"(Haens. ex DC.) Sennikov",0,1999,,"Komarovia 1: 78 (1999): (1999)",,,,3d72e8c4-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1014900-1,wfo-0000012096,3105501,,
+880c8b0e-8fb4-11eb-924d-9cd76263cbd0,species,laevitomentosa,Pietrosia,,Sennikov,0,1999,,"Komarovia 1: 78 (1999)",,,,,,urn:lsid:ipni.org:names:1014898-1,wfo-0000066422,3105530,,
+3f222bc6-8fb2-11eb-924d-9cd76263cbd0,species,levitomentosa,Pietrosia,,Nyár.,0,,,"Rev. Biol. (Bucharest) , n.s., 8: 252 (1963)",,,,,,urn:lsid:ipni.org:names:237961-1,wfo-0000017299,3105530,,

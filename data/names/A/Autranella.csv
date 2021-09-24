@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dff976e8-8fd1-11eb-924d-9cd76263cbd0,genus,Autranella,,,A.Chev.,Q766644,1917,,"Vég. Util. Afr. Trop. Franç. 9: 268, 271. 1917.",,,,,,36661-1,wfo-4000003753,2887565,,
-07b4ba2c-8fcc-11eb-924d-9cd76263cbd0,species,boonei,Autranella,,"(De Wild.) A.Chev.","Q2628388,Q766644",1943,,"Rev. Bot. Appl. Agric. Trop. 23: 132 1943",,Q96002316,,,,785786-1,wfo-0000302684,2887570,,
-07b5b12a-8fcc-11eb-924d-9cd76263cbd0,species,congolensis,Autranella,,"(De Wild.) A.Chev.","Q2628388,Q766644",1917,,"Veg. Ut. Afr. Trop. Franç. 9: 268, 271 1917",,,,,,785787-1,wfo-0000302689,2887566,,
-07b78afe-8fcc-11eb-924d-9cd76263cbd0,species,le-testui,Autranella,,"(Lecomte) A.Chev.","Q1230990,Q766644",1943,,"Rev. Bot. Appl. Agric. Trop. 23: 133 1943",,Q96002316,,,,785789-1,wfo-0000302700,2887567,,
-24297200-8fb4-11eb-924d-9cd76263cbd0,species,pulchella,Autrania,,"C.Winkl. & Barbey","Q1127852,Q3568417",1892,,"12 1892",,,,,,183018-1,wfo-0000060586,3100671,,
+dff976e8-8fd1-11eb-924d-9cd76263cbd0,genus,Autranella,,,A.Chev.,0,1917,,"Vég. Ut. Afr. Trop. Franç. 9: 268, 271 (1917)",,,,,,urn:lsid:ipni.org:names:36661-1,wfo-4000003753,2887565,,
+07b4ba2c-8fcc-11eb-924d-9cd76263cbd0,species,boonei,Autranella,,"(De Wild.) A.Chev.",0,1943,,"Rev. Bot. Appl. Agric. Trop. 23: 132 (1943)",,Q96002316,,,,urn:lsid:ipni.org:names:785786-1,wfo-0000302684,2887570,,
+07b5b12a-8fcc-11eb-924d-9cd76263cbd0,species,congolensis,Autranella,,A.Chev.,0,1917,,"Vég. Ut. Afr. Trop. Franç. 9: 268, 271 (1917)",,,,,,urn:lsid:ipni.org:names:785787-1,wfo-0000302689,2887566,,
+07b78afe-8fcc-11eb-924d-9cd76263cbd0,species,le-testui,Autranella,,"(Lecomte) A.Chev.",0,1943,,"Rev. Bot. Appl. Agric. Trop. 23: 133 (1943)",,Q96002316,,,,urn:lsid:ipni.org:names:785789-1,wfo-0000302700,2887567,,
+24297200-8fb4-11eb-924d-9cd76263cbd0,species,pulchella,Autrania,,"C.Winkl. & Barbey",0,1892,,"Unknown iii. (1892) 12.",,,,,,urn:lsid:ipni.org:names:183018-1,wfo-0000060586,3100671,,

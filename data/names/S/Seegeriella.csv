@@ -1,4 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea3c9e78-8fd1-11eb-924d-9cd76263cbd0,genus,Seegeriella,,,Senghas,Q86617,1997,,"J. Orchideenfreund 4(4): 190. 1997.",,,,,,998424-1,wfo-4000034942,2816864,,
-70b7ae52-8fcd-11eb-924d-9cd76263cbd0,species,crothersii,Seegeriella,,"Pupulin & H.Medina","Q598420,Q21516438",2009,,"Selbyana 30: 73 2009",,,,,,,wfo-0000914474,5951114,,
-0c1c1c86-8fcc-11eb-924d-9cd76263cbd0,species,pinifolia,Seegeriella,,Senghas,Q86617,1997,,"J. Orchideenfr. 4: 190 1997",,,,,,998425-1,wfo-0000309154,2816865,,
+ea3c9e78-8fd1-11eb-924d-9cd76263cbd0,genus,Seegeriella,,,Senghas,0,1997,,"J. Orchideenfr. 4: 190 (1997)",,,,,,urn:lsid:ipni.org:names:998424-1,wfo-4000034942,2816864,,
+70b7ae52-8fcd-11eb-924d-9cd76263cbd0,species,crothersii,Seegeriella,,"Pupulin & H.Medina",0,2009,,"Selbyana 30: 73 (2009)",,,,,,urn:lsid:ipni.org:names:77102329-1,wfo-0000914474,5951114,,
+0c1c1c86-8fcc-11eb-924d-9cd76263cbd0,species,pinifolia,Seegeriella,,Senghas,0,1997,,"J. Orchideenfr. 4: 190 (1997)",,,,,,urn:lsid:ipni.org:names:998425-1,wfo-0000309154,2816865,,
+540b831a-1d4d-11ec-82c2-f14daa6f2d93,species,senghasiana,Seegeriella,,Vierling,,,,"OrchideenJ. 23: 80 (2016)",,,,,,urn:lsid:ipni.org:names:77155214-1,wfo-0001345810,,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e31de566-8fd1-11eb-924d-9cd76263cbd0,genus,Dyakia,,,Christenson,Q3661811,1986,,"Orchid Digest 50(2): 63. 1986.",,,,,,924952-1,wfo-4000012807,2836274,,
-821afcb2-8fcd-11eb-924d-9cd76263cbd0,species,hendersoniana,Dyakia,,"(Rchb.f.) Christenson","Q62820,Q3661811",1986,,"Orchid Digest 50: 63 1986",,,,,,942616-1,wfo-0000946989,5322640,,
-514b2418-8fcd-11eb-924d-9cd76263cbd0,species,dybowskii,Dybowskia,,"(Franch.) Dandy","Q377208,Q345866",1931,,"J. Bot. 69: 54 1931",,,,48a87ce8-8fcd-11eb-924d-9cd76263cbd0,,399617-1,wfo-0000865161,5674714,,
-514b4042-8fcd-11eb-924d-9cd76263cbd0,species,seretii,Dybowskia,,"(De Wild.) Stapf","Q2628388,Q78630",1918,,"Fl. Trop. Afr. 9: 383 1918",,,,,,,wfo-0000865162,5674712,,
+e31de566-8fd1-11eb-924d-9cd76263cbd0,genus,Dyakia,,,Christenson,0,1986,,"Orchid Digest 50: 63 (1986)",,,,,,urn:lsid:ipni.org:names:924952-1,wfo-4000012807,2836274,,
+821afcb2-8fcd-11eb-924d-9cd76263cbd0,species,hendersoniana,Dyakia,,"(Rchb.f.) Christenson",0,1986,,"Orchid Digest 50: 63 (1986)",,,,,,urn:lsid:ipni.org:names:942616-1,wfo-0000946989,5322640,,
+514b2418-8fcd-11eb-924d-9cd76263cbd0,species,dybowskii,Dybowskia,,"(Franch.) Dandy",0,1931,,"J. Bot. 69: 54 (1931)",,,,48a87ce8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:399617-1,wfo-0000865161,5674714,,
+514b4042-8fcd-11eb-924d-9cd76263cbd0,species,seretii,Dybowskia,,Stapf,0,1918,,"Fl. Trop. Afr. 9: 383 (1919)",,,,,,urn:lsid:ipni.org:names:399618-1,wfo-0000865162,5674712,,

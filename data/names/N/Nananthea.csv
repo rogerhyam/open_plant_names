@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e70ecca8-8fd1-11eb-924d-9cd76263cbd0,genus,Nananthea,,,DC.,Q123057,,,,,,,,,10153-1,wfo-4000025289,3087072,,
-98bbfdd8-8fb2-11eb-924d-9cd76263cbd0,species,perpusilla,Nananthea,,"(Loisel.) DC.","Q2624786,Q123057",1838,,"45 1838",,,,,,234086-1,wfo-0000029243,3087073,,
-5fc3f2f8-8fb5-11eb-924d-9cd76263cbd0,species,tassiliensis,Nananthea,,"Batt. & Trab.","Q2597737,Q2017793",1913,,"Bull. Soc. Bot. France 60: 245 1913",,Q55757031,,,,234087-1,wfo-0000077301,3119131,,
+e70ecca8-8fd1-11eb-924d-9cd76263cbd0,genus,Nananthea,,,DC.,0,,,"Prodr. 6: 45 (1838)",,,,,,urn:lsid:ipni.org:names:10153-1,wfo-4000025289,3087072,,
+98bbfdd8-8fb2-11eb-924d-9cd76263cbd0,species,perpusilla,Nananthea,,DC.,0,1838,,"Prodr. 6: 45 (1838)",,,,,,urn:lsid:ipni.org:names:234086-1,wfo-0000029243,3087073,,
+5fc3f2f8-8fb5-11eb-924d-9cd76263cbd0,species,tassiliensis,Nananthea,,"Batt. & Trab.",0,1913,,"Bull. Soc. Bot. France 60: 245 (1913)",,Q55757031,,,,urn:lsid:ipni.org:names:234087-1,wfo-0000077301,3119131,,

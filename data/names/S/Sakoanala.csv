@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9e2c36c-8fd1-11eb-924d-9cd76263cbd0,genus,Sakoanala,,,R.Vig.,Q4110557,,,,,,,,,23469-1,wfo-4000033818,2970496,,
-71475c1c-8fc5-11eb-924d-9cd76263cbd0,species,capuroniana,Sakoanala,,Yakovlev,Q2443837,,,,,,,,,,wfo-0000193091,2970498,,
-713aafa8-8fc5-11eb-924d-9cd76263cbd0,species,madagascariensis,Sakoanala,,R.Vig.,Q4110557,,,,,,,,,,wfo-0000193090,2970497,,
-11081548-8fc6-11eb-924d-9cd76263cbd0,species,villosa,Sakoanala,,R.Vig.,Q4110557,,,,,,,,,,wfo-0000196131,2970499,,
+e9e2c36c-8fd1-11eb-924d-9cd76263cbd0,genus,Sakoanala,,,R.Vig.,0,,,"Notul. Syst. (Paris) 14: 186 (1952)",,,,,,urn:lsid:ipni.org:names:23469-1,wfo-4000033818,2970496,,
+71475c1c-8fc5-11eb-924d-9cd76263cbd0,species,capuroniana,Sakoanala,,Yakovlev,0,,,"Novosti Sist. Vyssh. Rast. 17: 160 (1980)",,,,,,urn:lsid:ipni.org:names:517850-1,wfo-0000193091,2970498,,
+713aafa8-8fc5-11eb-924d-9cd76263cbd0,species,madagascariensis,Sakoanala,,R.Vig.,0,,,"Notul. Syst. (Paris) 14: 186 (1952)",,,,,,urn:lsid:ipni.org:names:517851-1,wfo-0000193090,2970497,,
+11081548-8fc6-11eb-924d-9cd76263cbd0,species,villosa,Sakoanala,,R.Vig.,0,,,"Notul. Syst. (Paris) 14: 186 (1952)",,,,,,urn:lsid:ipni.org:names:517852-1,wfo-0000196131,2970499,,
+5de02d82-1d4d-11ec-82c2-f14daa6f2d93,subspecies,menabeensis,Sakoanala,villosa,"Du Puy & Labat",,,,"Legum. Madagascar : 312 (2002)",,,,,,urn:lsid:ipni.org:names:20004672-1,wfo-0001359467,,,
+2bd0007e-1d48-11ec-82c2-f14daa6f2d93,subspecies,villosa,Sakoanala,villosa,R.Vig.,,,,,,,,,,,wfo-0000196132,,,

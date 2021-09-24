@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4f40fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Hylandia,,,"Airy Shaw",Q939981,1974,,"Kew Bull. 29: 329. 1974.",,Q29029449,,,,15516-1,wfo-4000018598,3073707,,
-0f8e1574-8fca-11eb-924d-9cd76263cbd0,species,dockrillii,Hylandia,,"Airy Shaw",Q939981,1974,,"Kew Bull. 29: 329 1974",,Q29029449,,,,350083-1,wfo-0000215992,3073708,,
-1015fef0-8fcd-11eb-924d-9cd76263cbd0,species,suecica,Hylandra,,"(Fr.) Á.Löve","Q15405,Q2464202",1961,,"Svensk Bot. Tidskr. 60: 215 1961",,,,,,285458-1,wfo-0000726883,3052545,,
+e4f40fb4-8fd1-11eb-924d-9cd76263cbd0,genus,Hylandia,,,"Airy Shaw",0,1974,,"Kew Bull. 29: 329 (1974)",,Q29029449,,,,urn:lsid:ipni.org:names:15516-1,wfo-4000018598,3073707,,
+0f8e1574-8fca-11eb-924d-9cd76263cbd0,species,dockrillii,Hylandia,,"Airy Shaw",0,1974,,"Kew Bull. 29: 329 (1974)",,Q29029449,,,,urn:lsid:ipni.org:names:350083-1,wfo-0000215992,3073708,,
+1015fef0-8fcd-11eb-924d-9cd76263cbd0,species,suecica,Hylandra,,"(Fr.) Á.Löve",0,1961,,"Svensk Bot. Tidskr. 60: 215 (1961)",,,,,,urn:lsid:ipni.org:names:285458-1,wfo-0000726883,3052545,,

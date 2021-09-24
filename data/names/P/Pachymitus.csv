@@ -1,5 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e7d866f8-8fd1-11eb-924d-9cd76263cbd0,genus,Pachymitus,,,O.E.Schulz,Q2598714,1924,,"Pflanzenr. IV. 105(Heft 86): 266. 1924. (22 Jul 1924)",,,,,,12878-1,wfo-4000027674,3040889,,
-ad2191d2-8fcd-11eb-924d-9cd76263cbd0,species,cardaminoides,Pachymitus,,"(F.Mull.) O.E.Schulz","Q21521863,Q2598714",1924,,"Opred. Viss. Rast. Baskirsk. ASSR IV–105(86): 266 1924",,,,ace50bd6-8fcd-11eb-924d-9cd76263cbd0,,287900-1,wfo-0001037172,3040890,,
-ad078e86-8fcd-11eb-924d-9cd76263cbd0,species,lucae,Pachymitus,,"(F.Mull.) O.E.Schulz","Q21521863,Q2598714",1924,,"Opred. Viss. Rast. Baskirsk. ASSR IV–105(86): 267 1924",,,,,,287901-1,wfo-0001036934,3040891,,
-ee61814a-8fcb-11eb-924d-9cd76263cbd0,species,spectabilis,Pachyne,,"(Salisb.) Salisb.",Q1358261,1812,,"Trans. Hort. Soc. London 1: 299 1812",,,,,,649579-1,wfo-0000261982,2836478,,
+e7d866f8-8fd1-11eb-924d-9cd76263cbd0,genus,Pachymitus,,,O.E.Schulz,0,1924,,"Pflanzenr. , IV, 105(86): 266 (1924)",,,,,,urn:lsid:ipni.org:names:12878-1,wfo-4000027674,3040889,,
+ad2191d2-8fcd-11eb-924d-9cd76263cbd0,species,cardaminoides,Pachymitus,,O.E.Schulz,0,1924,,"Pflanzenr. (Engler) Crucif.-Sisymbr. 266 (1924).",,,,ace50bd6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:287900-1,wfo-0001037172,3040890,,
+77f57998-1d4d-11ec-82c2-f14daa6f2d93,variety,cardaminoides,Pachymitus,cardaminoides,O.E.Schulz,,,,"Das Pflanzenreich Heft 86 1924",,,,,,urn:lsid:ipni.org:names:154480-3,wfo-0001394392,,,
+77f5a4cc-1d4d-11ec-82c2-f14daa6f2d93,variety,dasycarpus,Pachymitus,cardaminoides,O.E.Schulz,,,,"Das Pflanzenreich Heft 86 1924",,,,,,urn:lsid:ipni.org:names:154492-3,wfo-0001394393,,,
+ad078e86-8fcd-11eb-924d-9cd76263cbd0,species,lucae,Pachymitus,,O.E.Schulz,0,1924,,"Pflanzenr. , IV, 105(86): 267 (1924)",,,,,,urn:lsid:ipni.org:names:287901-1,wfo-0001036934,3040891,,
+ee61814a-8fcb-11eb-924d-9cd76263cbd0,species,spectabilis,Pachyne,,Salisb.,0,1812,,"Trans. Hort. Soc. London 1: 299 (1812)",,,,,,urn:lsid:ipni.org:names:649579-1,wfo-0000261982,2836478,,

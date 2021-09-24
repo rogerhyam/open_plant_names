@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e678c69a-8fd1-11eb-924d-9cd76263cbd0,genus,Megacorax,,,"S.González & W.L.Wagner","Q10885343,Q2253909",2002,,"Novon 12(3): 361–365, f. 1–2. 2002. (25 Sep 2002)",,Q55774982,,,,20008750-1,wfo-4000023480,7322641,,
-c69e0682-8fd1-11eb-924d-9cd76263cbd0,species,gracielanus,Megacorax,,"M.González & W.L.Wagner","Q26712416,Q2253909",2002,,"Novon 12(3): 361–365, f. 1–2 2002",,Q55774982,,,,324617-2,wfo-0001266204,3666405,,
-274ba2e6-8fcd-11eb-924d-9cd76263cbd0,species,ambiguum,Megadendron,,Miers,Q575253,1875,,"Trans. Linn. Soc. London, Bot. 1: 110 1875",,,,,,597816-1,wfo-0000774603,3082758,,
-274b839c-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpum,Megadendron,,"(Hassk.) Miers","Q68616,Q575253",1875,,"Trans. Linn. Soc. London, Bot. 1: 109 1875",,,,,,597817-1,wfo-0000774602,3082845,,
-274b6934-8fcd-11eb-924d-9cd76263cbd0,species,pallidum,Megadendron,,Miers,Q575253,1875,,"Trans. Linn. Soc. London, Bot. 1: 110 1875",,,,,,597818-1,wfo-0000774601,3082732,,
+e678c69a-8fd1-11eb-924d-9cd76263cbd0,genus,Megacorax,,,"S.González & W.L.Wagner",0,2002,,"Novon 12: 361 (2002)",,Q55774982,,,,urn:lsid:ipni.org:names:20008750-1,wfo-4000023480,7322641,,
+c69e0682-8fd1-11eb-924d-9cd76263cbd0,species,gracielanus,Megacorax,,"S.González & W.L.Wagner",0,2002,,"Novon 12: 361 (2002)",,Q55774982,,,,urn:lsid:ipni.org:names:324617-2,wfo-0001266204,3666405,,
+274ba2e6-8fcd-11eb-924d-9cd76263cbd0,species,ambiguum,Megadendron,,Miers,0,1875,,"Trans. Linn. Soc. London, Bot. 1: 110 (1875)",,,,,,urn:lsid:ipni.org:names:597816-1,wfo-0000774603,3082758,,
+274b839c-8fcd-11eb-924d-9cd76263cbd0,species,macrocarpum,Megadendron,,"(Hassk.) Miers",0,1875,,"Trans. Linn. Soc. London, Bot. 1: 109 (1875)",,,,,,urn:lsid:ipni.org:names:597817-1,wfo-0000774602,3082845,,
+274b6934-8fcd-11eb-924d-9cd76263cbd0,species,pallidum,Megadendron,,Miers,0,1875,,"Trans. Linn. Soc. London, Bot. 1: 110 (1875)",,,,,,urn:lsid:ipni.org:names:597818-1,wfo-0000774601,3082732,,

@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ed79d99e-9bab-11eb-a8a2-19ed5c03f8d3,genus,Tinctoporia,,,Murrill,Q2170251,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,ed79d99e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,18647," "
-d46c0b42-9bac-11eb-a8a2-19ed5c03f8d3,species,albocincta,Tinctoporia,,"(Cooke & Massee) Murrill","Q2351239,Q4284198,Q2170251",1921,,"Mycologia 13(2): 122 (1921)",,,,96ad0efa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,256259," "
-83ceb95a-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiotingens,Tinctoporia,,"(Ellis & T. Macbr.) Murrill","Q6206643,Q2170251",1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,b91d9210-9bad-11eb-a8a2-19ed5c03f8d3,,,,,182125," "
-da718a30-9bac-11eb-a8a2-19ed5c03f8d3,species,fuligo,Tinctoporia,,"(Berk. & Broome) Murrill","Q662338,Q1932460,Q2170251",1921,,"Mycologia 13(2): 123 (1921)",,,,60ca7736-9bad-11eb-a8a2-19ed5c03f8d3,,,,,265517," "
-db6f87fc-9bac-11eb-a8a2-19ed5c03f8d3,species,graphica,Tinctoporia,,"(Bres.) Murrill",Q2170251,1921,,"Mycologia 13(2): 123 (1921)",,,,b16e14ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,266490," "
-16945af2-8fcc-11eb-924d-9cd76263cbd0,species,cylindrica,Tinea,,Biv.,Q3619040,1835,,"Giorn. Sci. Sicilia 50: 205 1835",,,,,,,wfo-0000325385,5313340,,
-16947726-8fcc-11eb-924d-9cd76263cbd0,species,intacta,Tinea,,"(Link) Boiss.","Q215466,Q34430",1882,,"Fl. Orient. 5: 58 1882",,,,ec990c52-8fcb-11eb-924d-9cd76263cbd0,,660369-1,wfo-0000325386,5313337,,
-169494a4-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Tinea,,"(Desf.) Vis.","Q545953,Q1389217",1851,,"Fl. Dalmat. 3: 353 1851",,,,,,660370-1,wfo-0000325387,5313341,,
-b8775878-8fcd-11eb-924d-9cd76263cbd0,species,triplinervia,Tinea,,Spreng.,Q62829,1821,,"Neue Entdeck. Pflanzenk. 2: 165 1821",,,,,,835638-1,wfo-0001062925,8373041,,
+ed79d99e-9bab-11eb-a8a2-19ed5c03f8d3,genus,Tinctoporia,,,Murrill,0,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,ed79d99e-9bab-11eb-a8a2-19ed5c03f8d3,,,,,18647," "
+d46c0b42-9bac-11eb-a8a2-19ed5c03f8d3,species,albocincta,Tinctoporia,,"(Cooke & Massee) Murrill",0,1921,,"Mycologia 13(2): 122 (1921)",,,,96ad0efa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,256259," "
+83ceb95a-9bac-11eb-a8a2-19ed5c03f8d3,species,aurantiotingens,Tinctoporia,,"(Ellis & T. Macbr.) Murrill",0,1907,,"N. Amer. Fl. (New York) 9(1): 14 (1907)",,,,b91d9210-9bad-11eb-a8a2-19ed5c03f8d3,,,,,182125," "
+da718a30-9bac-11eb-a8a2-19ed5c03f8d3,species,fuligo,Tinctoporia,,"(Berk. & Broome) Murrill",0,1921,,"Mycologia 13(2): 123 (1921)",,,,60ca7736-9bad-11eb-a8a2-19ed5c03f8d3,,,,,265517," "
+db6f87fc-9bac-11eb-a8a2-19ed5c03f8d3,species,graphica,Tinctoporia,,"(Bres.) Murrill",0,1921,,"Mycologia 13(2): 123 (1921)",,,,b16e14ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,266490," "
+16945af2-8fcc-11eb-924d-9cd76263cbd0,species,cylindrica,Tinea,,Biv.,0,1835,,"Giorn. Sci. Sicilia 50: 205 (1835)",,,,,,urn:lsid:ipni.org:names:660368-1,wfo-0000325385,5313340,,
+16947726-8fcc-11eb-924d-9cd76263cbd0,species,intacta,Tinea,,Boiss.,0,1882,,"Fl. Orient. 5: 58 (1882)",,,,ec990c52-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:660369-1,wfo-0000325386,5313337,,
+169494a4-8fcc-11eb-924d-9cd76263cbd0,species,maculata,Tinea,,"(Desf.) Vis.",0,1851,,"Fl. Dalmat. 3: 353 (1851)",,,,,,urn:lsid:ipni.org:names:660370-1,wfo-0000325387,5313341,,
+b8775878-8fcd-11eb-924d-9cd76263cbd0,species,triplinervia,Tinea,,Spreng.,0,1821,,"Neue Entdeck. Pflanzenk. 2: 165 (1821)",,,,,,urn:lsid:ipni.org:names:835638-1,wfo-0001062925,8373041,,

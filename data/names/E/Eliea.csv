@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e33dea0a-8fd1-11eb-924d-9cd76263cbd0,genus,Eliea,,,Cambess.,Q2616946,1830,,"Ann. Sci. Nat. (Paris) 20: 400. 1830.",,,,,,19817-1,wfo-4000013207,3710809,,
-ed96acc6-8fcc-11eb-924d-9cd76263cbd0,species,articulata,Eliea,,Cambess.,Q2616946,1830,,"Ann. Sci. Nat. (Paris) 20: 401 1830",,,,,,433085-1,wfo-0000666354,3711665,,
-ed971274-8fcc-11eb-924d-9cd76263cbd0,subspecies,brevistyla,Eliea,articulata,"(Drake) H.Perrier","Q1338265,Q2564623",1951,,"in Fl. Madag. 135: 10 1951",,,,ed9744e2-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000666355,7722334,,
-ed9744e2-8fcc-11eb-924d-9cd76263cbd0,species,brevistyla,Eliea,,Drake,Q1338265,,,"Bull. Mens. Soc. Linn. Paris 2: 1219 1889",,,,,,433086-1,wfo-0000666356,3711657,,
-ed97762e-8fcc-11eb-924d-9cd76263cbd0,species,majorifolia,Eliea,,Hochr.,Q4332701,1919,,"Annuaire Conserv. Jard. Bot. Genève 21: 52 1919",,,,,,427770-1,wfo-0000666357,3711652,,
+e33dea0a-8fd1-11eb-924d-9cd76263cbd0,genus,Eliea,,,Cambess.,0,1830,,"Ann. Sci. Nat. (Paris) 20: 400 (1830)",,,,,,urn:lsid:ipni.org:names:19817-1,wfo-4000013207,3710809,,
+ed96acc6-8fcc-11eb-924d-9cd76263cbd0,species,articulata,Eliea,,"(Lam.) Cambess.",0,1830,,"Ann. Sci. Nat. (Paris) 20: 401 (1830)",,,,,,urn:lsid:ipni.org:names:433085-1,wfo-0000666354,3711665,,
+83152d00-1d4d-11ec-82c2-f14daa6f2d93,subspecies,articulata,Eliea,articulata,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77173352-1,wfo-0001426892,,,
+ed971274-8fcc-11eb-924d-9cd76263cbd0,subspecies,brevistyla,Eliea,articulata,"(Drake) H.Perrier",0,1951,,"Fl. Madagasc. 135: 10 (1951)",,,,ed9744e2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77188814-1,wfo-0000666355,7722334,,
+ed9744e2-8fcc-11eb-924d-9cd76263cbd0,species,brevistyla,Eliea,,Drake,0,,,"Bull. Mens. Soc. Linn. Paris 2: 1219 (1889)",,,,,,urn:lsid:ipni.org:names:433086-1,wfo-0000666356,3711657,,
+ed97762e-8fcc-11eb-924d-9cd76263cbd0,species,majorifolia,Eliea,,Hochr.,0,1919,,"Annuaire Conserv. Jard. Bot. Genève 21: 52 (1919)",,,,,,urn:lsid:ipni.org:names:427770-1,wfo-0000666357,3711652,,

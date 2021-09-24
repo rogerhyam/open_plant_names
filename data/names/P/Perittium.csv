@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e83c1b1c-8fd1-11eb-924d-9cd76263cbd0,genus,Perittium,,,,,,,,,,,,,,wfo-4000028807,7302836,,
-774af1a8-8fcc-11eb-924d-9cd76263cbd0,species,ferrugineum,Perittium,,Vogel,Q86254,1837,,"Linnaea 11: 408 1837",,,,,,513079-1,wfo-0000469451,3979325,,
-c17ad860-8fd1-11eb-924d-9cd76263cbd0,species,pinetorum,Perittostema,,"(I.M.Johnst.) I.M.Johnst.",Q729850,1954,,"J. Arnold Arbor. 35(1): 31 1954",,Q56024183,,aae054ae-8fd1-11eb-924d-9cd76263cbd0,,190409-2,wfo-0001256907,4063770,,
+e83c1b1c-8fd1-11eb-924d-9cd76263cbd0,genus,Perittium,,,Vogel,,,,"Linnaea 11: 408 (1837)",,,,,,urn:lsid:ipni.org:names:23190-1,wfo-4000028807,7302836,,
+774af1a8-8fcc-11eb-924d-9cd76263cbd0,species,ferrugineum,Perittium,,Vogel,0,1837,,"Linnaea 11: 408 (1837)",,,,,,urn:lsid:ipni.org:names:513079-1,wfo-0000469451,3979325,,
+c17ad860-8fd1-11eb-924d-9cd76263cbd0,species,pinetorum,Perittostema,,I.M.Johnst.,0,1954,,"J. Arnold Arbor. 35: 31 (1954)",,Q56024183,,aae054ae-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:190409-2,wfo-0001256907,4063770,,

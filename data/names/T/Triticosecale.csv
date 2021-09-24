@@ -1,3 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eba95b3e-8fd1-11eb-924d-9cd76263cbd0,genus,Triticosecale,,,,,,,,,,,,,,wfo-4000039396,,,
-d2e9b418-8fd1-11eb-924d-9cd76263cbd0,species,rimpaui,Triticosecale,,"C.Yen & J.L.Yang","Q30004983,Q19003524",2004,,"Xiao mai 2: 52, f. 2–2 2004",,,,,,,wfo-0001283764,7723820,,
+eba95b3e-8fd1-11eb-924d-9cd76263cbd0,genus,Triticosecale,,,,,,,,,,,,,urn:lsid:ipni.org:names:2924881-1,wfo-4000039396,,,
+46312fa0-8fcd-11eb-924d-9cd76263cbd0,species,blaringhemii,Triticosecale,,A.Camus,0,1927,,"Bull. Mus. Natl. Hist. Nat. 33: 539 (1927)",,,,,,urn:lsid:ipni.org:names:425523-1,wfo-0000841233,,,
+46314cb0-8fcd-11eb-924d-9cd76263cbd0,species,neoblaringhemii,Triticosecale,,A.Camus,0,1927,,"Bull. Mus. Natl. Hist. Nat. 33: 539 (1927)",,,,,,urn:lsid:ipni.org:names:425524-1,wfo-0000841234,,,
+46316a74-8fcd-11eb-924d-9cd76263cbd0,species,rimpaui,Triticosecale,,Wittm.,0,1899,,"Sitzungsber. Ges. Naturf. Freunde Berlin 59. 1899 ; Aschers. & Graebn. Syn. Mittel-Eur. Fl. ii. 719(1901), in obs.",,,,,,urn:lsid:ipni.org:names:425525-1,wfo-0000841235,,,
+d2e9b418-8fd1-11eb-924d-9cd76263cbd0,species,rimpaui,Triticosecale,,"C.Yen & J.L.Yang",0,2004,,"Xiao mai 2: 52, f. 2–2 2004",,,,,,,wfo-0001283764,7723820,,
+46319ef4-8fcd-11eb-924d-9cd76263cbd0,species,schlanstedtense,Triticosecale,,Wittm.,0,1899,,"Sitzungsber. Ges. Naturf. Freunde Berlin 1899: 59 1899",,,,,,,wfo-0000841237,,,
+58f214b6-1d4d-11ec-82c2-f14daa6f2d93,species,schlanstedtensis,Triticosecale,,Wittm.,,,,"Sitzungsber. Ges. Naturf. Freunde Berlin 59. 1899 ; Aschers. & Graebn. Syn. Mittel-Eur. Fl. ii. 719(1901), in obs.",,,,,,urn:lsid:ipni.org:names:425526-1,wfo-0001352340,,,
+5c00399e-1d4d-11ec-82c2-f14daa6f2d93,species,schlanstedtensis,Triticosecale,,Wittm.,,,,"Index Kew. Suppl. 8: 242. 1933",,,,,,urn:lsid:ipni.org:names:77134202-1,wfo-0001356412,,,
+722e004c-8fcd-11eb-924d-9cd76263cbd0,species,semisecale,Triticosecale,,"(Mac Key) K.Hammer & Filat.",0,,,"Genet. Resources Crop Evol. 58: 8 (2010)",,,,722e1c62-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60454917-2,wfo-0000916285,,,

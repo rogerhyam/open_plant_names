@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2a5cb26-8fd1-11eb-924d-9cd76263cbd0,genus,Diamorpha,,,Nutt.,Q728337,1818,,"Gen. N. Amer. Pl. 1: 293. 1818.",,,,,,,wfo-4000011301,2985950,,
-dfb487a4-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Diamorpha,,"(Nutt.) Britton ex Small","Q728337,Q553714,Q2590065",1903,,"Fl. S.E. U.S. 498 1903",,,,4ebb2b5e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000642818,2985952,,
-dfb4a266-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Diamorpha,,"(Michx.) Nutt.","Q521848,Q728337",1818,,"Gen. N. Amer. Pl. 1: 293 1818",,,,b4333efe-8fd1-11eb-924d-9cd76263cbd0,,30280158-2,wfo-0000642819,4200063,,
-dfb4c14c-8fcc-11eb-924d-9cd76263cbd0,species,smallii,Diamorpha,,Britton,Q553714,1903,,"Fl. S.E. U.S. 498 1903",,,,,,,wfo-0000642820,8376341,,
+e2a5cb26-8fd1-11eb-924d-9cd76263cbd0,genus,Diamorpha,,,Nutt.,0,1818,,"Gen. N. Amer. Pl. 1: 293 (1818)",,,,,,urn:lsid:ipni.org:names:331551-2,wfo-4000011301,2985950,,
+dfb487a4-8fcc-11eb-924d-9cd76263cbd0,species,cymosa,Diamorpha,,Britton,0,1903,,"Fl. S.E. U.S. [Small]. 498. 1903 [22 Jul 1903]",,,,4ebb2b5e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:78910-2,wfo-0000642818,2985952,,
+dfb4a266-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Diamorpha,,"(Michx.) Nutt.",0,1818,,"Gen. N. Amer. Pl. 1: 293 (1818)",,,,b4333efe-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30280158-2,wfo-0000642819,4200063,,
+dfb4c14c-8fcc-11eb-924d-9cd76263cbd0,species,smallii,Diamorpha,,Britton,0,1903,,"Fl. S.E. U.S. : 498 (1903)",,,,,,urn:lsid:ipni.org:names:78911-2,wfo-0000642820,8376341,,

@@ -1,5 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb07e0c4-8fd1-11eb-924d-9cd76263cbd0,genus,Synoum,,,A.Juss.,Q377094,1830,,"Me}m. Mus. Hist. Nat. 19: 226. 1830.",,,,,,,wfo-4000037321,7271247,,
-ac8818a4-8fcd-11eb-924d-9cd76263cbd0,species,glandulosum,Synoum,,"(Sm.) A.Juss.","Q458004,Q377094",1832,,"Mém. Mus. Hist. Nat. 19: 227 1832",,,,,,,wfo-0001035808,7271248,,
-46d12eb2-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,paniculosum,Synoum,glandulosum,"(F.Muell.) Mabb.","Q708002,Q5236979",1998,,"Telopea 8(1): 48",,Q96016611,,,,1005514-1,,,,
-8c6b696e-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Synoum,,C.DC.,Q282065,1878,,"Monogr. Phan. 1: 593 1878",,,,,,579296-1,wfo-0000505119,3849654,,
+eb07e0c4-8fd1-11eb-924d-9cd76263cbd0,genus,Synoum,,,A.Juss.,0,1830,,"Bull. Sci. Nat. Géol. 23: 237 (1830)",,,,,,urn:lsid:ipni.org:names:26848-1,wfo-4000037321,7271247,,
+ac8818a4-8fcd-11eb-924d-9cd76263cbd0,species,glandulosum,Synoum,,A.Juss.,0,1832,,"Mém. Mus. Hist. Nat. 19: 227 (1830 publ. 1831)",,,,,,urn:lsid:ipni.org:names:579295-1,wfo-0001035808,7271248,,
+7bde36e4-1d4d-11ec-82c2-f14daa6f2d93,variety,glandulosum,Synoum,glandulosum,"(Sm.) A.Juss.",,,,"Fragmenta Phytographiae Australiae 5  1865",,,,,,urn:lsid:ipni.org:names:67804-3,wfo-0001399497,,,
+46d12eb2-9a07-11eb-a8a2-19ed5c03f8d3,subspecies,paniculosum,Synoum,glandulosum,"(F.Muell.) Mabb.",0,1998,,"Telopea 8(1): 48",,Q96016611,,,,1005514-1,,,,
+5d21775c-1d4d-11ec-82c2-f14daa6f2d93,subspecies,paniculosum,Synoum,glandulosum,"(F.Muell.) Mabb.",,,,"Telopea 8: 48 (1998)",,,,,,urn:lsid:ipni.org:names:1005514-1,wfo-0001358422,,,
+7bded8e2-1d4d-11ec-82c2-f14daa6f2d93,variety,paniculosum,Synoum,glandulosum,F.Muell.,,,,"Fragmenta Phytographiae Australiae 5  1865",,,,,,urn:lsid:ipni.org:names:67832-3,wfo-0001399501,,,
+8c6b696e-8fcc-11eb-924d-9cd76263cbd0,species,muelleri,Synoum,,C.DC.,0,1878,,"Monogr. Phan. 1: 593 (1878)",,,,,,urn:lsid:ipni.org:names:579296-1,wfo-0000505119,3849654,,

@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0048484-8fd1-11eb-924d-9cd76263cbd0,genus,Bagassa,,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane Suppl.: 15, t. 376. 1775. (Jun-Dec 1775)",,,,,,40717-1,wfo-4000003882,7262512,,
-ac7a338e-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Bagassa,,Aubl.,Q721482,1775,,"Hist. Pl. Guiane Suppl.: 15 1775",,,,,,,wfo-0000558480,3763926,,
-ac7a5a26-8fcc-11eb-924d-9cd76263cbd0,species,sagotiana,Bagassa,,"Burch. ex Benth. & Hook.f.","Q1397207,Q731808,Q157501",1880,,"Gen. Pl. 3: 362 1880",,,,,,850484-1,wfo-0000558481,,,
-ac7a7fa6-8fcc-11eb-924d-9cd76263cbd0,species,tiliifolia,Bagassa,,"(Desf.) Benoist","Q545953,Q4083881",1933,,"Arch. Bot. Mém. 5(1): 31 1933",,,,,,28692-2,wfo-0000558482,3763904,,
+e0048484-8fd1-11eb-924d-9cd76263cbd0,genus,Bagassa,,,Aubl.,0,1775,,"Hist. Pl. Guiane , Suppl.: 15 (1775)",,,,,,urn:lsid:ipni.org:names:40717-1,wfo-4000003882,7262512,,
+ac7a338e-8fcc-11eb-924d-9cd76263cbd0,species,guianensis,Bagassa,,Aubl.,0,1775,,"Hist. Pl. Guiane , Suppl.: 15 (1775)",,,,,,urn:lsid:ipni.org:names:850483-1,wfo-0000558480,3763926,,
+ac7a5a26-8fcc-11eb-924d-9cd76263cbd0,species,sagotiana,Bagassa,,"Bureau ex Benth. & Hook.f.",0,1880,,"Gen. Pl. 3: 362 (1880)",,,,,,urn:lsid:ipni.org:names:850484-1,wfo-0000558481,,,
+ac7a7fa6-8fcc-11eb-924d-9cd76263cbd0,species,tiliifolia,Bagassa,,Benoist,0,1933,,"Arch. Bot. Mém. 5(1): 31 (1933)",,,,,,urn:lsid:ipni.org:names:28692-2,wfo-0000558482,3763904,,

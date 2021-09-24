@@ -1,5 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e1c27ec0-8fd1-11eb-924d-9cd76263cbd0,genus,Citriosma,,,,,,,,,,,,,,wfo-4000008402,7423633,,
-cccc1288-8fd1-11eb-924d-9cd76263cbd0,species,discolor,Citriosma,,"Poepp. & Endl.","Q61501,Q78605",1838,,"Nov. Gen. Sp. Pl. 2: 47 1838",,,,,,,wfo-0001277716,7546135,,
-cccbf532-8fd1-11eb-924d-9cd76263cbd0,species,guianensis,Citriosma,,"(Aubl.) Tul.","Q721482,Q918803",1855,,"Arch. Mus. Hist. Nat. 8: 361 1855",,,,,,,wfo-0001277715,8371484,,
-d32d9890-8fd1-11eb-924d-9cd76263cbd0,species,mitis,Citrofortunella,,"(Blanco) J.Ingram & H.E.Moore","Q721827,Q364731",,,,,,,,,,wfo-0001284148,3190398,,
+cccc1288-8fd1-11eb-924d-9cd76263cbd0,species,discolor,Citriosma,,"Poepp. & Endl.",0,1838,,"Nov. Gen. Sp. Pl. 2: 47 1838",,,,,,,wfo-0001277716,7546135,,
+cccbf532-8fd1-11eb-924d-9cd76263cbd0,species,guianensis,Citriosma,,"(Aubl.) Tul.",0,1855,,"Arch. Mus. Hist. Nat. 8: 361 1855",,,,,,,wfo-0001277715,8371484,,
+cb6de088-8fcc-11eb-924d-9cd76263cbd0,species,floridana,Citrofortunella,,"J.W.Ingram & H.E.Moore",0,1975,,"Baileya 19: 170 (1975)",,,,,,urn:lsid:ipni.org:names:771819-1,wfo-0000607692,,,
+cb6e212e-8fcc-11eb-924d-9cd76263cbd0,species,madurensis,Citrofortunella,,"(Lour.) D.Rivera, Obón, S.Ríos, Selma, F.Méndez, Verde & F.Cano",0,1998,,"Varied. Tradic. Frutales Río Segura Cat. Etnobot. Cítricos 191. 1998",,,,cba7177c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1001897-1,wfo-0000607693,,,
+cb6e4604-8fcc-11eb-924d-9cd76263cbd0,species,microcarpa,Citrofortunella,,"(Bunge) Wijnands",0,1984,,"Baileya 22: 135 (1984)",,,,,,urn:lsid:ipni.org:names:913810-1,wfo-0000607694,,,
+cb6e618e-8fcc-11eb-924d-9cd76263cbd0,species,mitis,Citrofortunella,,"(Blanco) J.W.Ingram & H.E.Moore",0,1975,,"Baileya 19: 170 (1975)",,,,,,urn:lsid:ipni.org:names:771820-1,wfo-0000607695,,,
+d32d9890-8fd1-11eb-924d-9cd76263cbd0,species,mitis,Citrofortunella,,"(Blanco) J.Ingram & H.E.Moore",0,,,,,,,,,,wfo-0001284148,3190398,,
+cb6e7f2a-8fcc-11eb-924d-9cd76263cbd0,species,swinglei,Citrofortunella,,"J.W.Ingram & H.E.Moore",0,1975,,"Baileya 19: 170 (1975)",,,,,,urn:lsid:ipni.org:names:771821-1,wfo-0000607696,,,

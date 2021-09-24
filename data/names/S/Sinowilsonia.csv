@@ -1,3 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea6cd048-8fd1-11eb-924d-9cd76263cbd0,genus,Sinowilsonia,,,Hemsl.,Q1339247,,,"Hooker's Icon. Pl. 29: , pl. 2817. 1906.",,,,,,,wfo-4000035478,7329047,,
-b97fc048-8fcd-11eb-924d-9cd76263cbd0,species,henryi,Sinowilsonia,,Hemsl.,Q1339247,,,"Icon. Pl. 29: , pl. 2817 1906",,,,,,430761-1,wfo-0001065272,7329053,,
+ea6cd048-8fd1-11eb-924d-9cd76263cbd0,genus,Sinowilsonia,,,Hemsl.,0,,,"Hooker's Icon. Pl. 29: t. 2817 (1906)",,,,,,urn:lsid:ipni.org:names:19615-1,wfo-4000035478,7329047,,
+b97fc048-8fcd-11eb-924d-9cd76263cbd0,species,henryi,Sinowilsonia,,Hemsl.,0,,,"Hooker's Icon. Pl. 29: t. 2817 (1906)",,,,,,urn:lsid:ipni.org:names:430761-1,wfo-0001065272,7329053,,
+72675fb4-1d4d-11ec-82c2-f14daa6f2d93,variety,glabrescens,Sinowilsonia,henryi,H.T.Chang,,,,"Fl. Reipubl. Popularis Sin. 35(2): 100 (1979)",,,,,,urn:lsid:ipni.org:names:883380-1,wfo-0001387033,,,
+01cf9028-1d4d-11ec-82c2-f14daa6f2d93,variety,henryi,Sinowilsonia,henryi,,,,,,,,,,,,wfo-0001221503,,,
+58fc87de-1d4d-11ec-82c2-f14daa6f2d93,species,wilsonii,Sinowilsonia,,hort.,,,,"ex Bull. Soc. Dendr. France No. 98, 22 (1936). nomen.",,,,,,urn:lsid:ipni.org:names:430762-1,wfo-0001352403,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0f0ad1e-8fd1-11eb-924d-9cd76263cbd0,genus,Buteraea,,,Nees,Q76349,1832,,"Pl. Asiat. Rar. 3: 75, 83. 1832.",,,,,,,wfo-4000005827,7264092,,
-b8163e22-8fcc-11eb-924d-9cd76263cbd0,species,foetidissima,Buteraea,,"(Kurz) Bremek.","Q2587569,Q5171231",1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 211 1944",,,,616aec30-8fcc-11eb-924d-9cd76263cbd0,,46700-1,wfo-0000576406,3777835,,
-b8165a60-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Buteraea,,"(C.B.Clarke) Bremek.","Q2659116,Q5171231",1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 41(1): 211 1944",,,,,,46701-1,wfo-0000576407,3777826,,
-b8167c0c-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Buteraea,,Bremek.,Q5171231,1961,,"Dansk Bot. Ark. 20: 70 1961",,,,,,46702-1,wfo-0000576408,3777819,,
-b8169a48-8fcc-11eb-924d-9cd76263cbd0,species,rhamnifolia,Buteraea,,Nees,Q76349,1847,,"Prodr. 11: 725 1847",,,,,,46703-1,wfo-0000576409,3777812,,
-b816b76c-8fcc-11eb-924d-9cd76263cbd0,species,ulmifolia,Buteraea,,Nees,Q76349,1832,,"Pl. Asiat. Rar. 3: 84 1832",,,,,,46704-1,wfo-0000576410,3777805,,
+e0f0ad1e-8fd1-11eb-924d-9cd76263cbd0,genus,Buteraea,,,Nees,0,1832,,"Pl. Asiat. Rar. 3: 75 (1832)",,,,,,urn:lsid:ipni.org:names:437-1,wfo-4000005827,7264092,,
+b8163e22-8fcc-11eb-924d-9cd76263cbd0,species,foetidissima,Buteraea,,"(Kurz) Bremek.",0,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 , 41(1): 211 (1944)",,,,616aec30-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:46700-1,wfo-0000576406,3777835,,
+b8165a60-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Buteraea,,"(C.B.Clarke) Bremek.",0,1944,,"Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk., Sect. 2 , 41(1): 211 (1944)",,,,,,urn:lsid:ipni.org:names:46701-1,wfo-0000576407,3777826,,
+b8167c0c-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Buteraea,,Bremek.,0,1961,,"Dansk Bot. Ark. 20: 70 (1961)",,,,,,urn:lsid:ipni.org:names:46702-1,wfo-0000576408,3777819,,
+b8169a48-8fcc-11eb-924d-9cd76263cbd0,species,rhamnifolia,Buteraea,,Nees,0,1847,,"Prodr. 11: 725 (1847)",,,,,,urn:lsid:ipni.org:names:46703-1,wfo-0000576409,3777812,,
+b816b76c-8fcc-11eb-924d-9cd76263cbd0,species,ulmifolia,Buteraea,,Nees,0,1832,,"Pl. Asiat. Rar. 3: 84 (1832)",,,,,,urn:lsid:ipni.org:names:46704-1,wfo-0000576410,3777805,,

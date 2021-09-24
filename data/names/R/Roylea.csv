@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9cd9aa0-8fd1-11eb-924d-9cd76263cbd0,genus,Roylea,,,"Wall. ex Benth.","Q730310,Q731808",,,"Edwards's Bot. Reg. 15: , pl. 1289. 1829.",,,,,,21189-1,wfo-4000033563,3887027,,
-052bd3b2-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Roylea,,"(Roxb.) Briq.","Q748967,Q746034",1897,,"Nat. Pflanzenfam. 4(3a): 260 1897",,,,,,,wfo-0000298321,8359833,,
-052beef6-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Roylea,,"(D.Don) Baill.","Q1174244,Q461931",1892,,"Hist. Pl. 11: 26 1892",,,,,,455519-1,wfo-0000298322,3887267,,
-052c242a-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Roylea,,"Wall. ex Benth.","Q730310,Q731808",1830,,"Pl. Asiat. Rar. 1: 57 1830",,,,,,,wfo-0000298324,7529093,,
-ac496a3c-8fcd-11eb-924d-9cd76263cbd0,species,pennisetum,Roylea,,"Nees ex Steud.","Q76349,Q62821",1841,,"Nomencl. Bot. (ed. 2) 2: 475 1841",,,,,,419789-1,wfo-0001035287,6059709,,
+e9cd9aa0-8fd1-11eb-924d-9cd76263cbd0,genus,Roylea,,,Wall.,0,,,"Pl. Asiat. Rar. 1: 57 (1830)",,,,,,urn:lsid:ipni.org:names:21189-1,wfo-4000033563,3887027,,
+052bd3b2-8fcc-11eb-924d-9cd76263cbd0,species,calycina,Roylea,,"(Roxb.) Briq.",0,1897,,"Nat. Pflanzenfam. 4(3a): 260 1897",,,,,,,wfo-0000298321,8359833,,
+052beef6-8fcc-11eb-924d-9cd76263cbd0,species,cinerea,Roylea,,Baill.,0,1892,,"Hist. Pl. 11: 26 (1891)",,,,,,urn:lsid:ipni.org:names:455519-1,wfo-0000298322,3887267,,
+052c242a-8fcc-11eb-924d-9cd76263cbd0,species,elegans,Roylea,,Wall.,0,1830,,"Pl. Asiat. Rar. (Wallich). 1: 57, t. 74. 1830",,,,,,urn:lsid:ipni.org:names:455520-1,wfo-0000298324,7529093,,
+ac496a3c-8fcd-11eb-924d-9cd76263cbd0,species,pennisetum,Roylea,,"Nees ex Steud.",0,1841,,"Nomencl. Bot.  [Steudel], ed. 2. ii. 475 (1841).",,,,,,urn:lsid:ipni.org:names:419789-1,wfo-0001035287,6059709,,

@@ -1,6 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9083c38-8fd1-11eb-924d-9cd76263cbd0,genus,Proiphys,,,Herb.,Q954928,1821,,"Appendix 42. 1821.",,,,,,1602-1,wfo-4000031214,2858024,,
-103925d8-8fcd-11eb-924d-9cd76263cbd0,species,alba,Proiphys,,"(R.Br.) Mabb.","Q155764,Q5236979",1980,,"Taxon 29: 601 1980",,Q28954976,,,,66644-1,wfo-0000727149,2858029,,
-1039414e-8fcd-11eb-924d-9cd76263cbd0,species,amboinensis,Proiphys,,"(L.) Herb.","Q1043,Q954928",1821,,"Appendix 42 1821",,,,,,66645-1,wfo-0000727150,2858034,,
-10395ca6-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Proiphys,,"(Aiton ex Lindl.) Mabb.","Q465898,Q378629,Q5236979",1980,,"Taxon 29: 601 1980",,Q28954976,,23b2709c-8fcd-11eb-924d-9cd76263cbd0,,66646-1,wfo-0000727151,2858025,,
-0d89f5ba-8fcd-11eb-924d-9cd76263cbd0,species,infundibularis,Proiphys,,"D.L.Jones & Dowe","Q1175070,Q5933402",2001,,"Austrobaileya 6: 121 2001",,Q92299022,,,,20003007-1,wfo-0000722268,2858033,,
+e9083c38-8fd1-11eb-924d-9cd76263cbd0,genus,Proiphys,,,Herb.,0,1821,,"Appendix : 42 (1821)",,,,,,urn:lsid:ipni.org:names:1602-1,wfo-4000031214,2858024,,
+103925d8-8fcd-11eb-924d-9cd76263cbd0,species,alba,Proiphys,,"(R.Br.) Mabb.",0,1980,,"Taxon 29: 601 (1980)",,Q28954976,,,,urn:lsid:ipni.org:names:66644-1,wfo-0000727149,2858029,,
+1039414e-8fcd-11eb-924d-9cd76263cbd0,species,amboinensis,Proiphys,,"(L.) Herb.",0,1821,,"Appendix : 42 (1821)",,,,,,urn:lsid:ipni.org:names:66645-1,wfo-0000727150,2858034,,
+10395ca6-8fcd-11eb-924d-9cd76263cbd0,species,cunninghamii,Proiphys,,"(Lindl.) Mabb.",0,1980,,"Taxon 29: 601 (1980)",,Q28954976,,23b2709c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:66646-1,wfo-0000727151,2858025,,
+0d89f5ba-8fcd-11eb-924d-9cd76263cbd0,species,infundibularis,Proiphys,,"D.L.Jones & Dowe",0,2001,,"Austrobaileya 6: 121 (2001)",,Q92299022,,,,urn:lsid:ipni.org:names:20003007-1,wfo-0000722268,2858033,,
+53520ed0-1d4d-11ec-82c2-f14daa6f2d93,species,kimberleyensis,Proiphys,,"M.D.Barrett & R.L.Barrett",,,,"Nuytsia 26: 25 (2015)",,,,,,urn:lsid:ipni.org:names:77153318-1,wfo-0001344862,,,

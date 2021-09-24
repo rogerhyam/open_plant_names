@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0e9b90a-8fd1-11eb-924d-9cd76263cbd0,genus,Bulbinopsis,,,,,,,,,,,,,,wfo-4000005723,2780827,,
-2166a45c-8fcd-11eb-924d-9cd76263cbd0,species,bulbosa,Bulbinopsis,,"(R.Br.) Borzì",Q155764,1897,,"Boll. Reale Orto Bot. Palermo 1: 21 1897",,,,,,532275-1,wfo-0000762502,2779106,,
-2166be2e-8fcd-11eb-924d-9cd76263cbd0,species,semibarbata,Bulbinopsis,,"(R.Br.) Borzì",Q155764,1897,,"Boll. Reale Orto Bot. Palermo 1: 21 1897",,,,67c4ab2e-8fcd-11eb-924d-9cd76263cbd0,,532276-1,wfo-0000762503,2779018,,
-de6889f4-8fcc-11eb-924d-9cd76263cbd0,variety,depilata,Bulbinopsis,semibarbata,"(J.M.Black) H.Eichler","Q924556,Q4530123",1965,,"Suppl. J. M. Black Fl. S. Austral. ed. 2 1965",,,,215c54c0-8fcd-11eb-924d-9cd76263cbd0,,77695-3,wfo-0000640425,2778959,,
-2166da94-8fcd-11eb-924d-9cd76263cbd0,species,terrae-victoriae,Bulbinopsis,,Poelln.,Q4386141,1945,,"Portugaliae Act. Biol., Sér. B, Sist. 1: 211 1945",,,,,,532277-1,wfo-0000762504,2778954,,
-2166f45c-8fcd-11eb-924d-9cd76263cbd0,species,ovigera,Bulbisperma,,"Reinw. ex Blume","Q63165,Q76816",1823,,"Catalogus 59 1823",,,,,,,wfo-0000762505,2774102,,
+e0e9b90a-8fd1-11eb-924d-9cd76263cbd0,genus,Bulbinopsis,,,Borzì,,,,"Boll. Reale Orto Bot. Palermo 1: 20 (1897)",,,,,,urn:lsid:ipni.org:names:24079-1,wfo-4000005723,2780827,,
+2166a45c-8fcd-11eb-924d-9cd76263cbd0,species,bulbosa,Bulbinopsis,,Borzì,0,1897,,"Boll. Reale Orto Bot. Palermo 1: 21 (1897)",,,,,,urn:lsid:ipni.org:names:532275-1,wfo-0000762502,2779106,,
+2166be2e-8fcd-11eb-924d-9cd76263cbd0,species,semibarbata,Bulbinopsis,,Borzì,0,1897,,"Boll. Reale Orto Bot. Palermo 1: 21 (1897)",,,,67c4ab2e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:532276-1,wfo-0000762503,2779018,,
+de6889f4-8fcc-11eb-924d-9cd76263cbd0,variety,depilata,Bulbinopsis,semibarbata,"(J.M.Black) H.Eichler",0,1965,,"Suppl. J. M. Black Fl. S. Austral. ed. 2  (1965)",,,,215c54c0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77695-3,wfo-0000640425,2778959,,
+2166da94-8fcd-11eb-924d-9cd76263cbd0,species,terrae-victoriae,Bulbinopsis,,Poelln.,0,1945,,"Portugaliae Acta Biol., Sér. B, Sist. 1: 211 (1945)",,,,,,urn:lsid:ipni.org:names:532277-1,wfo-0000762504,2778954,,
+2166f45c-8fcd-11eb-924d-9cd76263cbd0,species,ovigera,Bulbisperma,,Reinw.,0,1823,,"Cat. Gew. Buitenzorg (Blume) 59 [1823]. [Feb-Sep 1823]",,,,,,urn:lsid:ipni.org:names:429596-1,wfo-0000762505,2774102,,

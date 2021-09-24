@@ -1,3 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e33d9dfc-8fd1-11eb-924d-9cd76263cbd0,genus,Eleuthranthes,,,"F.Muell. ex Benth.","Q708002,Q731808",,,,,,,,,75132-3,wfo-4000013201,2896405,,
-829f8342-8fcd-11eb-924d-9cd76263cbd0,species,opercularina,Eleuthranthes,,"F.Muell. ex Benth.","Q708002,Q731808",1867,,"Fl. Austral. 3: 437 1867",,,,,,,wfo-0000948164,2896408,,
+e33d9dfc-8fd1-11eb-924d-9cd76263cbd0,genus,Eleuthranthes,,,"F.Muell. ex Benth.",0,,,"Fl. Austral. 3: 437 (1867)",,,,,,urn:lsid:ipni.org:names:75132-3,wfo-4000013201,2896405,,
+839032f2-1d4d-11ec-82c2-f14daa6f2d93,species,liberiflora,Eleuthranthes,,(F.Muell.),,,,Unknown,,,,,,urn:lsid:ipni.org:names:77176940-1,wfo-0001427841,,,
+829f8342-8fcd-11eb-924d-9cd76263cbd0,species,opercularina,Eleuthranthes,,Benth.,0,1867,,"Fl. Austral. 3: 437 (1867)",,,,,,urn:lsid:ipni.org:names:75174-3,wfo-0000948164,2896408,,
