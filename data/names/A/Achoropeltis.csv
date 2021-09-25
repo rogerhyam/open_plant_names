@@ -1,13 +1,13 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9a995fea-9bad-11eb-a8a2-19ed5c03f8d3,genus,Achoropeltis,,,Syd.,,1929,,"in Sydow & Petrak, Annls mycol. 27(1/2): 79 (1929)",,,,9a995fea-9bad-11eb-a8a2-19ed5c03f8d3,,,,,7014," "
-df066e44-9bac-11eb-a8a2-19ed5c03f8d3,species,modesta,Achoropeltis,,Syd.,,1929,,"Annls mycol. 27(1/2): 79 (1929)",,,,df066e44-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271450," "
+df066e44-9bac-11eb-a8a2-19ed5c03f8d3,species,modesta,Achoropeltis,,Syd.,,1929,,"Annls mycol. 27(1/2): 79 (1929)",,,Q21385869,df066e44-9bac-11eb-a8a2-19ed5c03f8d3,,,,,271450," "
 fdef7ec8-8fcb-11eb-924d-9cd76263cbd0,species,mammosa,Achradelpha,,O.F.Cook,0,1913,,"J. Washington Acad. Sci. 3: 160 (1913)",,,,,,urn:lsid:ipni.org:names:2405-2,wfo-0000286517,2885223,,
 fdfea5b0-8fcb-11eb-924d-9cd76263cbd0,species,viridis,Achradelpha,,O.F.Cook,0,1915,,"U.S.D.A. Bur. Pl. Industr. Invent. Seeds 36: 10, 69 (1915)",,,,,,urn:lsid:ipni.org:names:2406-2,wfo-0000286626,2884257,,
-fe1b5836-8fcb-11eb-924d-9cd76263cbd0,species,artensis,Achradotypus,,Baill.,0,1890,,"Bull. Mens. Soc. Linn. Paris 2: 881 (1890)",,,,,,urn:lsid:ipni.org:names:785649-1,wfo-0000286843,2886273,,
-fe302cd4-8fcb-11eb-924d-9cd76263cbd0,species,coriaceus,Achradotypus,,"(Baill.) Lecomte ex Guillaumin",0,1943,,"Bull. Soc. Bot. France 89: 222 (1943)",,Q55757422,,,,urn:lsid:ipni.org:names:785651-1,wfo-0000286951,2886278,,
-fe3f449e-8fcb-11eb-924d-9cd76263cbd0,species,decandrus,Achradotypus,,"(Montrouz.) Guillaumin",0,1913,,"Ann. Soc. Bot. Lyon 38: 100 (1913 publ. 1914)",,,,,,urn:lsid:ipni.org:names:941755-1,wfo-0000287056,2886274,,
-fe539f20-8fcb-11eb-924d-9cd76263cbd0,species,fastuosum,Achradotypus,,"(Baill.) Baill. ex Guillaumin",0,1911,,"Ann. Mus. Colon. Marseille II, 9: 188 1911",,,,0d107614-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000287163,2886300,,
-fe642412-8fcb-11eb-924d-9cd76263cbd0,species,neocaledonicus,Achradotypus,,H.J.Lam,0,1927,,"Bull. Jard. Bot. Buitenzorg , sér. 3, 8: 467 (1927)",,,,,,urn:lsid:ipni.org:names:785656-1,wfo-0000287265,2886290,,
+fe1b5836-8fcb-11eb-924d-9cd76263cbd0,species,artensis,Achradotypus,,Baill.,0,1890,,"Bull. Mens. Soc. Linn. Paris 2: 881 (1890)",,,Q5479490,,,urn:lsid:ipni.org:names:785649-1,wfo-0000286843,2886273,,
+fe302cd4-8fcb-11eb-924d-9cd76263cbd0,species,coriaceus,Achradotypus,,"(Baill.) Lecomte ex Guillaumin",0,1943,,"Bull. Soc. Bot. France 89: 222 (1943)",,Q55757422,Q5735483,,,urn:lsid:ipni.org:names:785651-1,wfo-0000286951,2886278,,
+fe3f449e-8fcb-11eb-924d-9cd76263cbd0,species,decandrus,Achradotypus,,"(Montrouz.) Guillaumin",0,1913,,"Ann. Soc. Bot. Lyon 38: 100 (1913 publ. 1914)",,,Q29185916,,,urn:lsid:ipni.org:names:941755-1,wfo-0000287056,2886274,,
+fe539f20-8fcb-11eb-924d-9cd76263cbd0,species,fastuosum,Achradotypus,,"(Baill.) Baill. ex Guillaumin",0,1911,,"Ann. Mus. Colon. Marseille II, 9: 188 1911",,,Q5696357,0d107614-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000287163,2886300,,
+fe642412-8fcb-11eb-924d-9cd76263cbd0,species,neocaledonicus,Achradotypus,,H.J.Lam,0,1927,,"Bull. Jard. Bot. Buitenzorg , sér. 3, 8: 467 (1927)",,,Q2839028,,,urn:lsid:ipni.org:names:785656-1,wfo-0000287265,2886290,,
 fe72e6aa-8fcb-11eb-924d-9cd76263cbd0,species,sarasinii,Achradotypus,,"Guillaumin & Dubard",0,1921,,"Nova Caledonia, Bot. 1: 206 (1921)",,,,,,urn:lsid:ipni.org:names:785657-1,wfo-0000287369,2886291,,
 fe832dda-8fcb-11eb-924d-9cd76263cbd0,species,venefici,Achradotypus,,"C.T.White & W.D.Francis",0,1927,,"Proc. Roy. Soc. Queensland 38: 254 (1927)",,,,,,urn:lsid:ipni.org:names:785658-1,wfo-0000287475,2883631,,
-fe95922c-8fcb-11eb-924d-9cd76263cbd0,species,vieillardii,Achradotypus,,Baill.,0,1890,,"Bull. Mens. Soc. Linn. Paris 2: 881 (1890)",,,,,,urn:lsid:ipni.org:names:785659-1,wfo-0000287580,2886294,,
+fe95922c-8fcb-11eb-924d-9cd76263cbd0,species,vieillardii,Achradotypus,,Baill.,0,1890,,"Bull. Mens. Soc. Linn. Paris 2: 881 (1890)",,,Q5479490,,,urn:lsid:ipni.org:names:785659-1,wfo-0000287580,2886294,,

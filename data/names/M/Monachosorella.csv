@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6d67290-8fd1-11eb-924d-9cd76263cbd0,genus,Monachosorella,,,Hayata,0,1927,,"Bot. Mag. (Tokyo) 41: 573, 642 (1927)",,,,,,urn:lsid:ipni.org:names:17341550-1,wfo-4000024608,7173524,,
-d464fb9e-8fcd-11eb-924d-9cd76263cbd0,species,flagellaris,Monachosorella,,"(Maxim.) Hayata",0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,,,,urn:lsid:ipni.org:names:17341560-1,wfo-0001124689,3747363,,
+e6d67290-8fd1-11eb-924d-9cd76263cbd0,genus,Monachosorella,,,Hayata,0,1927,,"Bot. Mag. (Tokyo) 41: 573, 642 (1927)",,,Q2269599,,,urn:lsid:ipni.org:names:17341550-1,wfo-4000024608,7173524,,
+d464fb9e-8fcd-11eb-924d-9cd76263cbd0,species,flagellaris,Monachosorella,,"(Maxim.) Hayata",0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,Q2269599,,,urn:lsid:ipni.org:names:17341560-1,wfo-0001124689,3747363,,
 d46518cc-8fcd-11eb-924d-9cd76263cbd0,variety,nipponica,Monachosorella,flagellaris,"(Makino) Tagawa",0,1932,,"Acta Phytotax. Geobot. 1(1): 88 1932",,,,,,,wfo-0001124690,7606280,,
-d3c1bc18-8fcd-11eb-924d-9cd76263cbd0,species,maximowiczii,Monachosorella,,"(Baker) Hayata",0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,,,,urn:lsid:ipni.org:names:17341570-1,wfo-0001123294,3747355,,
-d46573c6-8fcd-11eb-924d-9cd76263cbd0,species,nipponica,Monachosorella,,Hayata,0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,,,,urn:lsid:ipni.org:names:17341580-1,wfo-0001124693,3747343,,
+d3c1bc18-8fcd-11eb-924d-9cd76263cbd0,species,maximowiczii,Monachosorella,,"(Baker) Hayata",0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,Q2269599,,,urn:lsid:ipni.org:names:17341570-1,wfo-0001123294,3747355,,
+d46573c6-8fcd-11eb-924d-9cd76263cbd0,species,nipponica,Monachosorella,,Hayata,0,1927,,"Bot. Mag. (Tokyo) 41: 540 (1927)",,Q55762605,Q2269599,,,urn:lsid:ipni.org:names:17341580-1,wfo-0001124693,3747343,,

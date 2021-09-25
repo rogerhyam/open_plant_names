@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eb423e72-8fd1-11eb-924d-9cd76263cbd0,genus,Thamnosma,,,"Torr. & Frém.",0,1845,,"Rep. Exped. Rocky Mts. : 313 (1845)",,,,,,urn:lsid:ipni.org:names:35980-1,wfo-4000038083,3190415,,
-6ed37f54-8fcc-11eb-924d-9cd76263cbd0,species,africana,Thamnosma,,Engl.,0,1888,,"Bot. Jahrb. Syst. 10: 33 (1888)",,,,,,urn:lsid:ipni.org:names:775382-1,wfo-0000455301,7405189,,
+6ed37f54-8fcc-11eb-924d-9cd76263cbd0,species,africana,Thamnosma,,Engl.,0,1888,,"Bot. Jahrb. Syst. 10: 33 (1888)",,,Q5732642,,,urn:lsid:ipni.org:names:775382-1,wfo-0000455301,7405189,,
 d8062bd8-8fcd-11eb-924d-9cd76263cbd0,species,africanum,Thamnosma,,Engl.,0,,,,,,,,,,wfo-0001132966,,,
 6ed06800-8fcc-11eb-924d-9cd76263cbd0,species,aldrichii,Thamnosma,,Tharp,0,1945,,"Amer. Midl. Naturalist 33: 667 (1945)",,Q55765665,,,,urn:lsid:ipni.org:names:250906-2,wfo-0000455276,3835981,,
 6ed48ee4-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Thamnosma,,"(Engl.) Thulin",0,1999,,"Nordic J. Bot. 19: 7 (1999)",,Q55761813,,,,urn:lsid:ipni.org:names:1007270-1,wfo-0000455309,3835971,,
-d81ce67a-8fcd-11eb-924d-9cd76263cbd0,species,hirschii,Thamnosma,,Stapf,0,1895,,"Bull. Misc. Inform. Kew 1895: 315 (1896)",,,,,,urn:lsid:ipni.org:names:775384-1,wfo-0001133255,8057490,,
+d81ce67a-8fcd-11eb-924d-9cd76263cbd0,species,hirschii,Thamnosma,,Stapf,0,1895,,"Bull. Misc. Inform. Kew 1895: 315 (1896)",,,Q5735532,,,urn:lsid:ipni.org:names:775384-1,wfo-0001133255,8057490,,
 6ecfbc66-8fcc-11eb-924d-9cd76263cbd0,species,montana,Thamnosma,,"Torr. & Frém.",0,1845,,"Rep. Exped. Rocky Mts. : 313 (1845)",,,,,,urn:lsid:ipni.org:names:775385-1,wfo-0000455271,3190417,,
 d7fd7bf0-8fcd-11eb-924d-9cd76263cbd0,species,montanum,Thamnosma,,"Torr. & Frém.",0,1845,,"Rep. Exped. Rocky Mts. 313 1845",,,,,,,wfo-0001132896,,,
 d81cb1fa-8fcd-11eb-924d-9cd76263cbd0,species,pailense,Thamnosma,,M.C.Johnst.,0,1983,,"Phytologia 53: 179 1983",,,,,,,wfo-0001133253,8110350,,
@@ -17,4 +17,4 @@ d81d02fe-8fcd-11eb-924d-9cd76263cbd0,species,socotranum,Thamnosma,,Balf.f.,0,188
 6ecef06a-8fcc-11eb-924d-9cd76263cbd0,species,texana,Thamnosma,,Torr.,0,1858,,"Rep. U.S. Mex. Bound. 2(1): 42 (1858)",,,,,,urn:lsid:ipni.org:names:775389-1,wfo-0000455266,3190416,,
 d81119ee-8fcd-11eb-924d-9cd76263cbd0,form,purpurea,Thamnosma,texana,"(Wooton & Standl.) Lundell",0,1943,,"Amer. Midl. Naturalist 29: 475. 1943",,Q55765618,,d81214fc-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:250908-2,wfo-0001133148,7399348,,
 d7fd9fcc-8fcd-11eb-924d-9cd76263cbd0,species,texanum,Thamnosma,,"(A.Gray) Torr.",0,1859,,"Rep. U.S. Mex. Bound. 2(1): 42 (1858)",,,,,,urn:lsid:ipni.org:names:775389-1,wfo-0001132897,,,
-d81cccda-8fcd-11eb-924d-9cd76263cbd0,species,trifoliata,Thamnosma,,I.M.Johnst.,0,,,"Proc. Calif. Acad. Sci. , ser. 4, 12: 1055 (1924)",,,,,,urn:lsid:ipni.org:names:250909-2,wfo-0001133254,,,
+d81cccda-8fcd-11eb-924d-9cd76263cbd0,species,trifoliata,Thamnosma,,I.M.Johnst.,0,1924,,"Proc. Calif. Acad. Sci. , ser. 4, 12: 1055 (1924)",,,,,,urn:lsid:ipni.org:names:250909-2,wfo-0001133254,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8e8b336-8fd1-11eb-924d-9cd76263cbd0,genus,Pomax,,,"Sol. ex DC.",0,1830,,"Prodr. 4: 615 (1830)",,,,,,urn:lsid:ipni.org:names:35169-1,wfo-4000030874,2892820,,
-fa2fd706-8fcb-11eb-924d-9cd76263cbd0,species,glabra,Pomax,,DC.,0,1830,,"Prodr. 4: 615 (1830)",,,,,,urn:lsid:ipni.org:names:760924-1,wfo-0000280780,2892829,,
-fa2ff560-8fcb-11eb-924d-9cd76263cbd0,species,hirta,Pomax,,DC.,0,1830,,"Prodr. 4: 615 (1830)",,,,,,urn:lsid:ipni.org:names:760925-1,wfo-0000280781,2892826,,
+e8e8b336-8fd1-11eb-924d-9cd76263cbd0,genus,Pomax,,,"Sol. ex DC.",0,1830,,"Prodr. 4: 615 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:35169-1,wfo-4000030874,2892820,,
+fa2fd706-8fcb-11eb-924d-9cd76263cbd0,species,glabra,Pomax,,DC.,0,1830,,"Prodr. 4: 615 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:760924-1,wfo-0000280780,2892829,,
+fa2ff560-8fcb-11eb-924d-9cd76263cbd0,species,hirta,Pomax,,DC.,0,1830,,"Prodr. 4: 615 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:760925-1,wfo-0000280781,2892826,,
 fa3013ce-8fcb-11eb-924d-9cd76263cbd0,species,rupestris,Pomax,,F.Muell.,0,1852,,"Linnaea 25: 39 (1852)",,,,,,urn:lsid:ipni.org:names:760926-1,wfo-0000280782,2892832,,
 fa30314c-8fcb-11eb-924d-9cd76263cbd0,species,umbellata,Pomax,,"Sol. ex A.Rich.",0,1834,,"Mém. Soc. Hist. Nat. Paris 5: 146 (1834)",,,,,,urn:lsid:ipni.org:names:760928-1,wfo-0000280783,2892821,,
 fa305172-8fcb-11eb-924d-9cd76263cbd0,variety,carnosula,Pomax,umbellata,Domin,0,1929,,"Biblioth. Bot. 22(89): 628 (1929)",,,,,,urn:lsid:ipni.org:names:163390-3,wfo-0000280784,2892825,,
@@ -9,4 +9,4 @@ fa3095a6-8fcb-11eb-924d-9cd76263cbd0,variety,glabra,Pomax,umbellata,"(DC.) Domin
 fa30bcc0-8fcb-11eb-924d-9cd76263cbd0,variety,hirta,Pomax,umbellata,"(DC.) Domin",0,1929,,"Biblioth. Bot. 22(89): 627 (1929)",,,,,,urn:lsid:ipni.org:names:163509-3,wfo-0000280787,2892824,,
 fa30e0ec-8fcb-11eb-924d-9cd76263cbd0,variety,mitchelliana,Pomax,umbellata,Domin,0,1929,,"Biblioth. Bot. 22(89): 627 (1929)",,,,,,urn:lsid:ipni.org:names:163565-3,wfo-0000280788,2892831,,
 fa310392-8fcb-11eb-924d-9cd76263cbd0,variety,ovatifolia,Pomax,umbellata,Domin,0,1929,,"Biblioth. Bot. 22(89): 627 (1929)",,,,,,urn:lsid:ipni.org:names:163620-3,wfo-0000280789,2892823,,
-78395654-1d4d-11ec-82c2-f14daa6f2d93,variety,umbellata,Pomax,umbellata,Benth.,,,,"Biblioth. Bot. 89(4)  1929 [Dec 1929]",,,,,,urn:lsid:ipni.org:names:163675-3,wfo-0001394789,,,
+78395654-1d4d-11ec-82c2-f14daa6f2d93,variety,umbellata,Pomax,umbellata,Benth.,,1929,,"Biblioth. Bot. 89(4)  1929 [Dec 1929]",,,,,,urn:lsid:ipni.org:names:163675-3,wfo-0001394789,,,

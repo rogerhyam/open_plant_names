@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df2fee22-8fd1-11eb-924d-9cd76263cbd0,genus,Amblyopappus,,,"Hook. & Arn.",0,,,"J. Bot. (Hooker) 3: 321 (1841)",,,,,,urn:lsid:ipni.org:names:7574-1,wfo-4000001528,3140178,,
+df2fee22-8fd1-11eb-924d-9cd76263cbd0,genus,Amblyopappus,,,"Hook. & Arn.",0,1841,,"J. Bot. (Hooker) 3: 321 (1841)",,,,,,urn:lsid:ipni.org:names:7574-1,wfo-4000001528,3140178,,
 ec572522-8fbb-11eb-924d-9cd76263cbd0,species,mendocinus,Amblyopappus,,Phil.,0,1870,,"Unknown : 26",,,,,,urn:lsid:ipni.org:names:176030-1,wfo-0000137653,3101241,,
 68d465c8-8fb3-11eb-924d-9cd76263cbd0,species,neo-mexicana,Amblyopappus,,"(A.Gray) A.Gray",0,,,,,,,5bd4fa00-8fb2-11eb-924d-9cd76263cbd0,,,wfo-0000047737,,,
 8bac8100-8fb5-11eb-924d-9cd76263cbd0,species,neomexicanus,Amblyopappus,,A.Gray,0,1857,,"Pacif. Railr. Rep. Parke, Bot. iv. 106",,,,,,urn:lsid:ipni.org:names:176031-1,wfo-0000079362,3101254,,
 38e61baa-8fb2-11eb-924d-9cd76263cbd0,species,pauciflorus,Amblyopappus,,Phil.,0,1895,,"Anales Univ. Chile 90: 29 (1895)",,Q101007059,,,,urn:lsid:ipni.org:names:11007-2,wfo-0000016343,3140180,,
 578a8588-8fb6-11eb-924d-9cd76263cbd0,species,pusillus,Amblyopappus,,"Hook. & Arn.",0,1841,,"J. Bot. (Hooker) 3: 321 (1841)",,,,,,urn:lsid:ipni.org:names:176033-1,wfo-0000088409,3140179,,
-66053f0c-1d4d-11ec-82c2-f14daa6f2d93,variety,pauciflorus,Amblyopappus,pusillus,Reiche,,,,"Anales Univ. Chile 112: 167 (1903)",,,,,,urn:lsid:ipni.org:names:11008-2,wfo-0001370983,,,
-dcedec96-1d47-11ec-82c2-f14daa6f2d93,variety,pusillus,Amblyopappus,pusillus,,,,,"J. Bot. 3: 321 (1841)",,,,,,,wfo-0000101194,,,
+66053f0c-1d4d-11ec-82c2-f14daa6f2d93,variety,pauciflorus,Amblyopappus,pusillus,Reiche,,1903,,"Anales Univ. Chile 112: 167 (1903)",,,,,,urn:lsid:ipni.org:names:11008-2,wfo-0001370983,,,
+dcedec96-1d47-11ec-82c2-f14daa6f2d93,variety,pusillus,Amblyopappus,pusillus,,,1841,,"J. Bot. 3: 321 (1841)",,,,,,,wfo-0000101194,,,

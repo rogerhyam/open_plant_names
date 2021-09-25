@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2168a74-8fd1-11eb-924d-9cd76263cbd0,genus,Cosmelia,,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 553 (1810)",,Q7247677,,,,urn:lsid:ipni.org:names:14544-1,wfo-4000009442,7288550,,
-d4cab55c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Cosmelia,,DC.,0,1839,,"Prodr. 7: 766 (1839)",,,,,,urn:lsid:ipni.org:names:324942-1,wfo-0000623546,4010375,,
-d4cacff6-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Cosmelia,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 553 (1810)",,Q7247677,,,,urn:lsid:ipni.org:names:324943-1,wfo-0000623547,4010359,,
+e2168a74-8fd1-11eb-924d-9cd76263cbd0,genus,Cosmelia,,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 553 (1810)",,Q7247677,Q2712448,,,urn:lsid:ipni.org:names:14544-1,wfo-4000009442,7288550,,
+d4cab55c-8fcc-11eb-924d-9cd76263cbd0,species,angustifolia,Cosmelia,,DC.,0,1839,,"Prodr. 7: 766 (1839)",,,Q2712448,,,urn:lsid:ipni.org:names:324942-1,wfo-0000623546,4010375,,
+d4cacff6-8fcc-11eb-924d-9cd76263cbd0,species,rubra,Cosmelia,,R.Br.,0,1810,,"Prodr. Fl. Nov. Holland. : 553 (1810)",,Q7247677,Q2712448,,,urn:lsid:ipni.org:names:324943-1,wfo-0000623547,4010359,,
 d4caf10c-8fcc-11eb-924d-9cd76263cbd0,species,caulescens,Cosmia,,"Domb. ex Spreng.",0,1825,,"Syst. Veg., ed. 16 [Sprengel] 2: 453. 1825 [Jan-May 1825]",,,,,,urn:lsid:ipni.org:names:698861-1,wfo-0000623548,8321461,,
-d4cb75fa-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cosmia,,"Domb. ex DC.",0,1828,,"Prodr. [A. P. de Candolle] 3: 359. 1828 [mid Mar 1828]",,,,,,urn:lsid:ipni.org:names:698862-1,wfo-0000623550,7696040,,
-d4cbb34e-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Cosmia,,Domb.,0,1828,,"Prodr. [A. P. de Candolle] 3: 359. 1828 [mid Mar 1828]",,,,,,urn:lsid:ipni.org:names:698863-1,wfo-0000623551,7350967,,
+d4cb75fa-8fcc-11eb-924d-9cd76263cbd0,species,montana,Cosmia,,"Domb. ex DC.",0,1828,,"Prodr. [A. P. de Candolle] 3: 359. 1828 [mid Mar 1828]",,,Q2712448,,,urn:lsid:ipni.org:names:698862-1,wfo-0000623550,7696040,,
+d4cbb34e-8fcc-11eb-924d-9cd76263cbd0,species,prostrata,Cosmia,,Domb.,0,1828,,"Prodr. [A. P. de Candolle] 3: 359. 1828 [mid Mar 1828]",,,Q2712448,,,urn:lsid:ipni.org:names:698863-1,wfo-0000623551,7350967,,
 d4cbd6e4-8fcc-11eb-924d-9cd76263cbd0,species,quadrivalvis,Cosmia,,Britten,0,1900,,"J. Bot. 38: 77. 1900",,,,,,urn:lsid:ipni.org:names:698864-1,wfo-0000623552,7896474,,

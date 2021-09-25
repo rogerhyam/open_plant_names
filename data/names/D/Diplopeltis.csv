@@ -1,26 +1,26 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e2ddcec2-8fd1-11eb-924d-9cd76263cbd0,genus,Diplopeltis,,,Endl.,0,1837,,"Enum. Pl. Hügel : 13 (1837)",,,,e2ddcec2-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:36376-1,wfo-4000012010,3233042,8054," "
-e3f95308-8fcc-11eb-924d-9cd76263cbd0,species,eriocarpa,Diplopeltis,,Hemsl.,0,,,"Hooker's Icon. Pl. 28: t. 2730 (1905)",,,,,,urn:lsid:ipni.org:names:782811-1,wfo-0000650312,5577916,,
+e3f95308-8fcc-11eb-924d-9cd76263cbd0,species,eriocarpa,Diplopeltis,,Hemsl.,0,1905,,"Hooker's Icon. Pl. 28: t. 2730 (1905)",,,,,,urn:lsid:ipni.org:names:782811-1,wfo-0000650312,5577916,,
 7211c3f6-9bac-11eb-a8a2-19ed5c03f8d3,species,fumago,Diplopeltis,,Höhn.,0,1918,,"Hedwigia 60: 168 (1918)",,,,7211c3f6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,502287," "
 db2ec168-9bac-11eb-a8a2-19ed5c03f8d3,species,graminella,Diplopeltis,,Höhn.,0,,,,,,,db2ec168-9bac-11eb-a8a2-19ed5c03f8d3,,,,,266354," "
 e3f9c1d0-8fcc-11eb-924d-9cd76263cbd0,species,huegelii,Diplopeltis,,Endl.,0,1837,,"Enum. Pl. Hügel : 13 (1837)",,,,,,urn:lsid:ipni.org:names:782812-1,wfo-0000650314,7265020,,
-e3f9ee1c-8fcc-11eb-924d-9cd76263cbd0,variety,eriocarpa,Diplopeltis,huegelii,Benth.,0,1863,,"Fl. Austral. 1: 456 (1863)",,,,,,urn:lsid:ipni.org:names:95763-3,wfo-0000650315,5577906,,
-7de8dde0-1d4d-11ec-82c2-f14daa6f2d93,variety,huegelii,Diplopeltis,huegelii,Endl.,,,,"Flora Australiensis 1  1863",,,,,,urn:lsid:ipni.org:names:95796-3,wfo-0001402117,,,
+e3f9ee1c-8fcc-11eb-924d-9cd76263cbd0,variety,eriocarpa,Diplopeltis,huegelii,Benth.,0,1863,,"Fl. Austral. 1: 456 (1863)",,,Q51414390,,,urn:lsid:ipni.org:names:95763-3,wfo-0000650315,5577906,,
+7de8dde0-1d4d-11ec-82c2-f14daa6f2d93,variety,huegelii,Diplopeltis,huegelii,Endl.,,1863,,"Flora Australiensis 1  1863",,,,,,urn:lsid:ipni.org:names:95796-3,wfo-0001402117,,,
 e3fa1e50-8fcc-11eb-924d-9cd76263cbd0,subspecies,lehmannii,Diplopeltis,huegelii,"(Miq.) Keighery",0,1998,,"Nuytsia 12: 290 (1998)",,,,,,urn:lsid:ipni.org:names:1003780-1,wfo-0000650316,5577900,,
 e3fa3e6c-8fcc-11eb-924d-9cd76263cbd0,variety,subintegra,Diplopeltis,huegelii,A.S.George,0,1969,,"Grana Palynol. 9: 102 (1969)",,,,,,urn:lsid:ipni.org:names:95828-3,wfo-0000650317,7522071,,
 e3fa5ca8-8fcc-11eb-924d-9cd76263cbd0,subspecies,subintegra,Diplopeltis,huegelii,"(A.S.George) Keighery",0,1998,,"Nuytsia 12: 290 (1998)",,,,e3fa3e6c-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1003781-1,wfo-0000650318,7522071,,
 e3fa774c-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,Diplopeltis,,A.S.George,0,1969,,"Grana Palynol. 9: 103 (1969)",,,,,,urn:lsid:ipni.org:names:782813-1,wfo-0000650319,7265018,,
 e3fa9448-8fcc-11eb-924d-9cd76263cbd0,variety,glandulosa,Diplopeltis,intermedia,A.S.George,0,1969,,"Grana Palynol. 9: 104 1969",,,,,,,wfo-0000650320,8002005,,
-7474d7aa-1d4d-11ec-82c2-f14daa6f2d93,variety,incana,Diplopeltis,intermedia,A.S.George,,,,"Grana Palynol. 9: 104 (1969)",,,,,,urn:lsid:ipni.org:names:95895-3,wfo-0001389716,,,
-7dea079c-1d4d-11ec-82c2-f14daa6f2d93,variety,intermedia,Diplopeltis,intermedia,A.S.George,,,,"Grana Palynologica 9 1970",,,,,,urn:lsid:ipni.org:names:95925-3,wfo-0001402123,,,
+7474d7aa-1d4d-11ec-82c2-f14daa6f2d93,variety,incana,Diplopeltis,intermedia,A.S.George,,1969,,"Grana Palynol. 9: 104 (1969)",,,,,,urn:lsid:ipni.org:names:95895-3,wfo-0001389716,,,
+7dea079c-1d4d-11ec-82c2-f14daa6f2d93,variety,intermedia,Diplopeltis,intermedia,A.S.George,,1970,,"Grana Palynologica 9 1970",,,,,,urn:lsid:ipni.org:names:95925-3,wfo-0001402123,,,
 e3faaf1e-8fcc-11eb-924d-9cd76263cbd0,species,lehmannii,Diplopeltis,,Miq.,0,1845,,"Pl. Preiss. 1: 224 (1845)",,,,,,urn:lsid:ipni.org:names:782814-1,wfo-0000650321,5577877,,
 e3fac9f4-8fcc-11eb-924d-9cd76263cbd0,species,madagascariensis,Diplopeltis,,Radlk.,0,1902,,"Nat. Pflanzenfam. [Engler & Prantl] iii. 5. (1895) 357.",,,,,,urn:lsid:ipni.org:names:782815-1,wfo-0000650322,5577875,,
-e3fb75de-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Diplopeltis,,"F.Muell. ex Benth.",0,1863,,"Fl. Austral. 1: 456 (1863)",,,,,,urn:lsid:ipni.org:names:782816-1,wfo-0000650324,5577870,,
+e3fb75de-8fcc-11eb-924d-9cd76263cbd0,species,petiolaris,Diplopeltis,,"F.Muell. ex Benth.",0,1863,,"Fl. Austral. 1: 456 (1863)",,,Q51414390,,,urn:lsid:ipni.org:names:782816-1,wfo-0000650324,5577870,,
 e3fbcbec-8fcc-11eb-924d-9cd76263cbd0,species,preissii,Diplopeltis,,Miq.,0,1845,,"Pl. Preiss. 1: 223 (1845)",,,,,,urn:lsid:ipni.org:names:782817-1,wfo-0000650325,5577863,,
-0d7e039a-9bad-11eb-a8a2-19ed5c03f8d3,species,rosae,Diplopeltis,,"Edward et al.{?}",,1974,,"Sydowia 26(1-6): 269 (1974)",,,,0d7e039a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,313233," "
+0d7e039a-9bad-11eb-a8a2-19ed5c03f8d3,species,rosae,Diplopeltis,,"Edward et al.{?}",,1974,,"Sydowia 26(1-6): 269 (1974)",,,Q15816855,0d7e039a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,313233," "
 7d12d988-9bad-11eb-a8a2-19ed5c03f8d3,species,sassafrasicola,Diplopeltis,,"Tehon & G.L. Stout",,1929,,"Mycologia 21(4): 193 (1929)",,,,7d12d988-9bad-11eb-a8a2-19ed5c03f8d3,,,,,239129," "
 cc522afe-9bac-11eb-a8a2-19ed5c03f8d3,species,spartii,Diplopeltis,,Pass.,0,1889,,"Atti Reale Accad. Lincei, Mem. Cl. Sci. Fis., ser. 4 6: (1889)",,,,cc522afe-9bac-11eb-a8a2-19ed5c03f8d3,,,,,239607," "
 e3fbf2a2-8fcc-11eb-924d-9cd76263cbd0,species,stuartii,Diplopeltis,,F.Muell.,0,1862,,"Fragm. 3: 12 (1862)",,,,,,urn:lsid:ipni.org:names:782818-1,wfo-0000650326,7265014,,
 e3fc243e-8fcc-11eb-924d-9cd76263cbd0,variety,glandulosa,Diplopeltis,stuartii,A.S.George,0,1970,,"Grana Palynol. 9: 108 (1970)",,,,,,urn:lsid:ipni.org:names:96091-3,wfo-0000650327,5577855,,
-7deb7212-1d4d-11ec-82c2-f14daa6f2d93,variety,stuartii,Diplopeltis,stuartii,F.Muell.,,,,"Grana Palynologica 9 1970",,,,,,urn:lsid:ipni.org:names:96136-3,wfo-0001402132,,,
+7deb7212-1d4d-11ec-82c2-f14daa6f2d93,variety,stuartii,Diplopeltis,stuartii,F.Muell.,,1970,,"Grana Palynologica 9 1970",,,,,,urn:lsid:ipni.org:names:96136-3,wfo-0001402132,,,
 cc135f22-9bac-11eb-a8a2-19ed5c03f8d3,species,zimmermanniana,Diplopeltis,,Henn.,0,1902,,"Hedwigia 41: 146 (1902)",,,,cc135f22-9bac-11eb-a8a2-19ed5c03f8d3,,,,,238970," "

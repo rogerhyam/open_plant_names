@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a55b08-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodoleia,,,"Champ. ex Hook.",0,,,"Bot. Mag. 76: t. 4509 (1850)",,,,,,urn:lsid:ipni.org:names:19611-1,wfo-4000033034,7329090,,
-b98048a6-8fcd-11eb-924d-9cd76263cbd0,species,championii,Rhodoleia,,Hook.,0,,,"Bot. Mag. 76: t. 4509 (1850)",,,,,,urn:lsid:ipni.org:names:430745-1,wfo-0001065277,7329102,,
-7dfc990c-1d4d-11ec-82c2-f14daa6f2d93,variety,forrestii,Rhodoleia,championii,"(Chun ex Exell) G.S.Fan",,,,"Yun Nan shu mu tu zhi (Icon. Arbor. Yunnan. Med.) 2: 342 (1990), without basionym ref.",,,,,,urn:lsid:ipni.org:names:966557-1,wfo-0001402230,,,
-4c69836e-8fcc-11eb-924d-9cd76263cbd0,species,formosa,Rhodoleia,,"Champ. ex Hance",0,1852,,"Ann. Bot. Syst. 3: 842 (1852)",,,,,,urn:lsid:ipni.org:names:430746-1,wfo-0000406125,3702705,,
+e9a55b08-8fd1-11eb-924d-9cd76263cbd0,genus,Rhodoleia,,,"Champ. ex Hook.",0,1850,,"Bot. Mag. 76: t. 4509 (1850)",,,Q2269599,,,urn:lsid:ipni.org:names:19611-1,wfo-4000033034,7329090,,
+b98048a6-8fcd-11eb-924d-9cd76263cbd0,species,championii,Rhodoleia,,Hook.,0,1850,,"Bot. Mag. 76: t. 4509 (1850)",,,Q2269599,,,urn:lsid:ipni.org:names:430745-1,wfo-0001065277,7329102,,
+7dfc990c-1d4d-11ec-82c2-f14daa6f2d93,variety,forrestii,Rhodoleia,championii,"(Chun ex Exell) G.S.Fan",,1990,,"Yun Nan shu mu tu zhi (Icon. Arbor. Yunnan. Med.) 2: 342 (1990), without basionym ref.",,,,,,urn:lsid:ipni.org:names:966557-1,wfo-0001402230,,,
+4c69836e-8fcc-11eb-924d-9cd76263cbd0,species,formosa,Rhodoleia,,"Champ. ex Hance",0,1852,,"Ann. Bot. Syst. 3: 842 (1852)",,,Q5560081,,,urn:lsid:ipni.org:names:430746-1,wfo-0000406125,3702705,,
 b980bb60-8fcd-11eb-924d-9cd76263cbd0,species,forrestii,Rhodoleia,,"Chun ex Exell",0,1933,,"Sunyatsenia 1: 97 (1933)",,,,,,urn:lsid:ipni.org:names:430747-1,wfo-0001065281,3702700,,
 b981b8c6-8fcd-11eb-924d-9cd76263cbd0,species,henryi,Rhodoleia,,K.Y.Tong,,1930,,"Bull. Dept. Biol. Coll. Sci. Sun Yatsen Univ. 2: 35 (1930)",,,,,,urn:lsid:ipni.org:names:430748-1,wfo-0001065290,3702694,,
 b7e14fbe-8fd1-11eb-924d-9cd76263cbd0,species,latiovatifolia,Rhodoleia,,G.A.Fu,0,1991,,"Guihaia 11: 208 (1991)",,,,,,urn:lsid:ipni.org:names:959608-1,wfo-0001239083,3702686,,

@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e17e9d22-8fd1-11eb-924d-9cd76263cbd0,genus,Chamaechaenactis,,,Rydb.,0,,,"Bull. Torrey Bot. Club 33: 155 (1906)",,Q55766860,,,,urn:lsid:ipni.org:names:296391-2,wfo-4000007576,3150953,,
-6506d7a6-8fb2-11eb-924d-9cd76263cbd0,species,scaposa,Chamaechaenactis,,Rydb.,0,1906,,"Bull. Torrey Bot. Club 33: 156 (1906)",,Q55766860,,8c838086-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:54308-2,wfo-0000023178,3150954,,
+e17e9d22-8fd1-11eb-924d-9cd76263cbd0,genus,Chamaechaenactis,,,Rydb.,0,1906,,"Bull. Torrey Bot. Club 33: 155 (1906)",,Q55766860,Q13548538,,,urn:lsid:ipni.org:names:296391-2,wfo-4000007576,3150953,,
+6506d7a6-8fb2-11eb-924d-9cd76263cbd0,species,scaposa,Chamaechaenactis,,Rydb.,0,1906,,"Bull. Torrey Bot. Club 33: 156 (1906)",,Q55766860,Q13548538,8c838086-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:54308-2,wfo-0000023178,3150954,,
 7c4ed74c-8fb7-11eb-924d-9cd76263cbd0,variety,parva,Chamaechaenactis,scaposa,"Preece & B.L.Turner",0,1953,,"Madroño 12: 100 (-103; figs. 1, 4) (1953)",,,,,,urn:lsid:ipni.org:names:319493-2,wfo-0000100201,4242706,,
 e27c43d8-1d47-11ec-82c2-f14daa6f2d93,variety,scaposa,Chamaechaenactis,scaposa,"(Eastw.) Rydb.",,,,,,,,,,,wfo-0000108445,,,
 4441662e-8fcd-11eb-924d-9cd76263cbd0,species,hederaceus,Chamaecissos,,"Nieuwl. & Lunell",0,1916,,"Amer. Midl. Naturalist 4: 516 (1916)",,Q55773199,,,,urn:lsid:ipni.org:names:54309-2,wfo-0000837110,3896722,,
 c66934ca-8fcc-11eb-924d-9cd76263cbd0,species,austriacus,Chamaecistus,,Regel,0,1874,,"Gartenflora 23: 60 (1874)",,,,,,urn:lsid:ipni.org:names:327536-1,wfo-0000599337,5681987,,
 c6694fb4-8fcc-11eb-924d-9cd76263cbd0,species,kamtschaticus,Chamaecistus,,Regel,0,1874,,"Gartenflora 23: 60 (1874)",,,,,,urn:lsid:ipni.org:names:327537-1,wfo-0000599338,5681984,,
-c6696a4e-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Chamaecistus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 388 (1891)",,,,,,urn:lsid:ipni.org:names:327538-1,wfo-0000599339,5333441,,
+c6696a4e-8fcc-11eb-924d-9cd76263cbd0,species,procumbens,Chamaecistus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 388 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:327538-1,wfo-0000599339,5333441,,
 c66984fc-8fcc-11eb-924d-9cd76263cbd0,species,serpyllifolius,Chamaecistus,,Gray,0,1821,,"Nat. Arr. Brit. Pl. 2: 401 (1821 publ. 1822)",,,,,,urn:lsid:ipni.org:names:327539-1,wfo-0000599340,5681976,,

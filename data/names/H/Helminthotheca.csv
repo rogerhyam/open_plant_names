@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e48e6718-8fd1-11eb-924d-9cd76263cbd0,genus,Helminthotheca,,,Zinn,0,,,"Cat. Pl. Gott. 430 (1757); cf. Sprague in Ke",,,,,,urn:lsid:ipni.org:names:9275-1,wfo-4000017298,3141844,,
+e48e6718-8fd1-11eb-924d-9cd76263cbd0,genus,Helminthotheca,,,Zinn,0,1757,,"Cat. Pl. Gott. 430 (1757); cf. Sprague in Ke",,,,,,urn:lsid:ipni.org:names:9275-1,wfo-4000017298,3141844,,
 1bb9035c-8fb3-11eb-924d-9cd76263cbd0,species,aculeata,Helminthotheca,,"(Vahl) Lack",0,1975,,"Taxon 24(1): 111. 1975 [Feb 1975]; (1975)",,,,,,urn:lsid:ipni.org:names:213699-1,wfo-0000041746,3141845,,
 b0fd2e80-1d47-11ec-82c2-f14daa6f2d93,subspecies,aculeata,Helminthotheca,aculeata,"(Vahl) Lack",,,,Unknown,,,,,,urn:lsid:ipni.org:names:77180507-1,wfo-0000046925,,,
 b39a3a92-8fb8-11eb-924d-9cd76263cbd0,subspecies,maroccana,Helminthotheca,aculeata,"(Sauvage) Greuter",0,2003,,"Willdenowia 33(2): 233 (22 Dec. 2003) (2003)",,,,e88aa52e-8fb4-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:50426403-2,wfo-0000111813,4242188,,
@@ -11,8 +11,8 @@ fb1cc0c4-8fb3-11eb-924d-9cd76263cbd0,species,comosa,Helminthotheca,,"(Boiss.) Ho
 e1578926-8fb3-11eb-924d-9cd76263cbd0,subspecies,lusitanica,Helminthotheca,comosa,"(Welw. ex Schlecht.) P.Silva & Escud.",0,1987,,"Bol. Soc. Brot. , sér. 2, 60: 156 (1987)",,,,,,urn:lsid:ipni.org:names:954021-1,wfo-0000056233,4242173,,
 16d4ec32-8fba-11eb-924d-9cd76263cbd0,species,echioides,Helminthotheca,,"(L.) Holub",0,1973,,"Folia Geobot. Phytotax. 8(2): 176 (1973)",,Q54801145,,,,urn:lsid:ipni.org:names:213702-1,wfo-0000123886,3141855,,
 c1b06c2e-8fb2-11eb-924d-9cd76263cbd0,species,echioides,Helminthotheca,,"(L.) Lack",0,1974,,"Unknown 116: 67 (1975)",,,,,,urn:lsid:ipni.org:names:213703-1,wfo-0000033689,7651256,,
-6f1929dc-1d4d-11ec-82c2-f14daa6f2d93,variety,incisa,Helminthotheca,echioides,P.D.Sell,,,,"Fl. Gr. Brit. Ireland 4: 532 (108-109) (2006)",,,,,,urn:lsid:ipni.org:names:77072608-1,wfo-0001382886,,,
-6f18d72a-1d4d-11ec-82c2-f14daa6f2d93,variety,mollis,Helminthotheca,echioides,"(Duby) P.D.Sell",,,,"Fl. Gr. Brit. Ireland 4: 532 (2006)",,,,,,urn:lsid:ipni.org:names:77072606-1,wfo-0001382884,,,
-6f18ff98-1d4d-11ec-82c2-f14daa6f2d93,variety,pratensis,Helminthotheca,echioides,"(Chevall.) P.D.Sell",,,,"Fl. Gr. Brit. Ireland 4: 532 (2006)",,,,,,urn:lsid:ipni.org:names:77072607-1,wfo-0001382885,,,
+6f1929dc-1d4d-11ec-82c2-f14daa6f2d93,variety,incisa,Helminthotheca,echioides,P.D.Sell,,2006,,"Fl. Gr. Brit. Ireland 4: 532 (108-109) (2006)",,,,,,urn:lsid:ipni.org:names:77072608-1,wfo-0001382886,,,
+6f18d72a-1d4d-11ec-82c2-f14daa6f2d93,variety,mollis,Helminthotheca,echioides,"(Duby) P.D.Sell",,2006,,"Fl. Gr. Brit. Ireland 4: 532 (2006)",,,,,,urn:lsid:ipni.org:names:77072606-1,wfo-0001382884,,,
+6f18ff98-1d4d-11ec-82c2-f14daa6f2d93,variety,pratensis,Helminthotheca,echioides,"(Chevall.) P.D.Sell",,2006,,"Fl. Gr. Brit. Ireland 4: 532 (2006)",,,,,,urn:lsid:ipni.org:names:77072607-1,wfo-0001382885,,,
 ebb5f8f8-8fb3-11eb-924d-9cd76263cbd0,species,glomerata,Helminthotheca,,"(Pomel) Greuter",0,2003,,"Willdenowia 33(2): 233 (22 Dec. 2003) (2003)",,,,,,urn:lsid:ipni.org:names:50426404-2,wfo-0000056943,3141865,,
 311c2d2e-8fb2-11eb-924d-9cd76263cbd0,species,spinifera,Helminthotheca,,"(Franco) Zidorn",0,2006,,"Biochem. Syst. Ecol. 34(2): 146 (2006)",,,,cc8af176-8fb9-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77079966-1,wfo-0000015291,4242144,,

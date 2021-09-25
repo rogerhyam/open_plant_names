@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e179e66a-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetopappa,,,DC.,0,,,"Prodr. 5: 301 (1836)",,,,,,urn:lsid:ipni.org:names:30024082-2,wfo-4000007521,3140928,,
+e179e66a-8fd1-11eb-924d-9cd76263cbd0,genus,Chaetopappa,,,DC.,0,1836,,"Prodr. 5: 301 (1836)",,,Q2712448,,,urn:lsid:ipni.org:names:30024082-2,wfo-4000007521,3140928,,
 e928bb42-8fb9-11eb-924d-9cd76263cbd0,species,alsinoides,Chaetopappa,,"(Greene) D.D.Keck",0,1958,,"Aliso 4: 103 (1958)",,Q96002796,,,,urn:lsid:ipni.org:names:54220-2,wfo-0000122409,3117118,,
-42cca706-8fb2-11eb-924d-9cd76263cbd0,species,asteroides,Chaetopappa,,"(Nutt.) DC.",0,1836,,"Prodr. [A. P. de Candolle] 5: 301. 1836 [1-10 Oct 1836]",,,,0a516498-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30247667-2,wfo-0000017935,3140941,,
+42cca706-8fb2-11eb-924d-9cd76263cbd0,species,asteroides,Chaetopappa,,"(Nutt.) DC.",0,1836,,"Prodr. [A. P. de Candolle] 5: 301. 1836 [1-10 Oct 1836]",,,Q2712448,0a516498-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:30247667-2,wfo-0000017935,3140941,,
 b4b0861c-1d47-11ec-82c2-f14daa6f2d93,variety,asteroides,Chaetopappa,asteroides,"Nutt. ex DC.",,,,,,,,,,,wfo-0000051364,,,
 e76564d4-8fb6-11eb-924d-9cd76263cbd0,variety,grandis,Chaetopappa,asteroides,Shinners,0,1946,,"Wrightia 1: 76 (1946)",,,,,,urn:lsid:ipni.org:names:54221-2,wfo-0000094391,,,
 8bb532a2-8fb8-11eb-924d-9cd76263cbd0,variety,imberbis,Chaetopappa,asteroides,A.Gray,0,1880,,"Notes Compositae : 82 (1880)",,,,,,urn:lsid:ipni.org:names:274378-2,wfo-0000110372,4242950,,
@@ -21,7 +21,7 @@ cf330e10-8fb2-11eb-924d-9cd76263cbd0,species,hersheyi,Chaetopappa,,S.F.Blake,0,1
 2fbf1252-8fb2-11eb-924d-9cd76263cbd0,species,keerlioides,Chaetopappa,,Shinners,0,1946,,"Wrightia 1: 69 (1946)",,,,,,urn:lsid:ipni.org:names:54232-2,wfo-0000015071,3140937,,
 c4953456-8fb2-11eb-924d-9cd76263cbd0,species,laxa,Chaetopappa,,Hook.f.,0,1846,,"Fl. Antarct. 2: 361 (-362) (1846)",,,,,,urn:lsid:ipni.org:names:274381-2,wfo-0000033982,4242873,,
 d96241ec-8fb4-11eb-924d-9cd76263cbd0,species,lyonii,Chaetopappa,,"(A.Gray) D.D.Keck",0,1958,,"Aliso 4(1): 102 (1958)",,Q96002796,,,,urn:lsid:ipni.org:names:54233-2,wfo-0000070679,3117120,,
-0649b584-8fb3-11eb-924d-9cd76263cbd0,species,modesta,Chaetopappa,,A.Gray,0,,,"Proc. Amer. Acad. Arts xvi. (1881) 82.",,,,,,urn:lsid:ipni.org:names:192404-1,wfo-0000039906,4242864,,
+0649b584-8fb3-11eb-924d-9cd76263cbd0,species,modesta,Chaetopappa,,A.Gray,0,1881,,"Proc. Amer. Acad. Arts xvi. (1881) 82.",,,,,,urn:lsid:ipni.org:names:192404-1,wfo-0000039906,4242864,,
 1e1b5ce0-8fb2-11eb-924d-9cd76263cbd0,species,parryi,Chaetopappa,,A.Gray,0,1880,,"Proc. Amer. Acad. Arts xvi. (1881) 82",,,,,,urn:lsid:ipni.org:names:192405-1,wfo-0000012091,3140955,,
 a7e63166-8fb2-11eb-924d-9cd76263cbd0,species,plomoensis,Chaetopappa,,B.L.Turner,0,1977,,"Sida 7: 22, fig. 1 (1977)",,Q91204934,,,,urn:lsid:ipni.org:names:54235-2,wfo-0000030959,3140932,,
 87a6e830-8fb4-11eb-924d-9cd76263cbd0,species,pulchella,Chaetopappa,,Shinners,0,1946,,"Wrightia 1: 79 (1946)",,,,,,urn:lsid:ipni.org:names:54236-2,wfo-0000066399,3140954,,

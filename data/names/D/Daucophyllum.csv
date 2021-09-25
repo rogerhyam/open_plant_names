@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e282b118-8fd1-11eb-924d-9cd76263cbd0,genus,Daucophyllum,,,"(Nutt.) Rydb.",0,1913,,"Bull. Torrey Bot. Club 40: 68 (1913)",,,,,,urn:lsid:ipni.org:names:30196023-2,wfo-4000010856,6027403,,
-dd50e57a-8fcc-11eb-924d-9cd76263cbd0,species,lineare,Daucophyllum,,Rydb.,0,1913,,"Bull. Torrey Bot. Club 40: 69 (1913)",,Q55767102,,,,urn:lsid:ipni.org:names:76976-2,wfo-0000638395,3642781,,
-dd5103d4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolium,Daucophyllum,,"(Nutt. ex Torr. & A.Gray) Rydb.",0,1913,,"Bull. Torrey Bot. Club 40: 69 (1913)",,Q55767102,,,,urn:lsid:ipni.org:names:76977-2,wfo-0000638396,3642763,,
+e282b118-8fd1-11eb-924d-9cd76263cbd0,genus,Daucophyllum,,,"(Nutt.) Rydb.",0,1913,,"Bull. Torrey Bot. Club 40: 68 (1913)",,,Q13548538,,,urn:lsid:ipni.org:names:30196023-2,wfo-4000010856,6027403,,
+dd50e57a-8fcc-11eb-924d-9cd76263cbd0,species,lineare,Daucophyllum,,Rydb.,0,1913,,"Bull. Torrey Bot. Club 40: 69 (1913)",,Q55767102,Q13548538,,,urn:lsid:ipni.org:names:76976-2,wfo-0000638395,3642781,,
+dd5103d4-8fcc-11eb-924d-9cd76263cbd0,species,tenuifolium,Daucophyllum,,"(Nutt. ex Torr. & A.Gray) Rydb.",0,1913,,"Bull. Torrey Bot. Club 40: 69 (1913)",,Q55767102,Q13548538,,,urn:lsid:ipni.org:names:76977-2,wfo-0000638396,3642763,,

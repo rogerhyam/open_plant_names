@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0bfd0e0-8fd1-11eb-924d-9cd76263cbd0,genus,Bowiea,,,"Harv. ex Hook.f.",0,,,"Bot. Mag. 93: t. 5619 (1867)",,,,,,urn:lsid:ipni.org:names:331153-2,wfo-4000005150,2768050,,
+e0bfd0e0-8fd1-11eb-924d-9cd76263cbd0,genus,Bowiea,,,"Harv. ex Hook.f.",0,1867,,"Bot. Mag. 93: t. 5619 (1867)",,,Q2269599,,,urn:lsid:ipni.org:names:331153-2,wfo-4000005150,2768050,,
 212a60be-8fcd-11eb-924d-9cd76263cbd0,species,africana,Bowiea,,Haw.,0,1824,,"in Phil. Mag. lxiv. (1824) 299.",,,,,,urn:lsid:ipni.org:names:531996-1,wfo-0000762014,2778160,,
 212a80e4-8fcd-11eb-924d-9cd76263cbd0,species,gariepensis,Bowiea,,"van Jaarsv.",0,1983,,"J. S. African Bot. 49: 343 (1983)",,,,,,urn:lsid:ipni.org:names:901609-1,wfo-0000762015,2768056,,
 212a9dc2-8fcd-11eb-924d-9cd76263cbd0,species,kilimandscharica,Bowiea,,Mildbr.,0,1934,,"Notizbl. Bot. Gart. Berlin-Dahlem 12: 202 (1934)",,Q55777737,,,,urn:lsid:ipni.org:names:531997-1,wfo-0000762016,2768053,,
 212ab974-8fcd-11eb-924d-9cd76263cbd0,species,myriacantha,Bowiea,,Haw.,0,1824,,"in Phil. Mag. lxiv. (1824) 299; et N. S. i. (1827) 122.",,,,,,urn:lsid:ipni.org:names:531998-1,wfo-0000762017,2777328,,
-212ad616-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,Harv.,0,,,"Bot. Mag. 93: t. 5619 1867",,,,,,,wfo-0000762018,2768051,,
-bccfff2e-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,"Harv. ex Hook.f.",0,,,"Bot. Mag. 93: t. 5619 (1867)",,,,,,urn:lsid:ipni.org:names:531999-1,wfo-0001072966,7386178,,
+212ad616-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,Harv.,0,1867,,"Bot. Mag. 93: t. 5619 1867",,,Q2269599,,,,wfo-0000762018,2768051,,
+bccfff2e-8fcd-11eb-924d-9cd76263cbd0,species,volubilis,Bowiea,,"Harv. ex Hook.f.",0,1867,,"Bot. Mag. 93: t. 5619 (1867)",,,Q2269599,,,urn:lsid:ipni.org:names:531999-1,wfo-0001072966,7386178,,
 212af128-8fcd-11eb-924d-9cd76263cbd0,subspecies,gariepensis,Bowiea,volubilis,"(van Jaarsv.) Bruyns",0,1987,,"Caryologia 40: 291 (1987 publ. 1988)",,,,212a80e4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:954453-1,wfo-0000762019,2768055,,
 f7a231bc-1d49-11ec-82c2-f14daa6f2d93,subspecies,volubilis,Bowiea,volubilis,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77171133-1,wfo-0000772567,,,

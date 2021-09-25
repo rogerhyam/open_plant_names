@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a290f1cc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Nectriopsis,,,Maire,0,1911,conserved,"Annls mycol. 9(4): 323 (1911)",,,,a290f1cc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3434,"Nom. cons., see Art. 14 "
+a290f1cc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Nectriopsis,,,Maire,0,1911,conserved,"Annls mycol. 9(4): 323 (1911)",,,Q21385869,a290f1cc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,3434,"Nom. cons., see Art. 14 "
 42a5516e-9bac-11eb-a8a2-19ed5c03f8d3,species,albofulta,Nectriopsis,,"(Petch) Samuels",0,1988,,"Mem. N. Y. bot. Gdn 48: 60 (1988)",,,,52b6c48e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136108," "
-68cb566c-9bad-11eb-a8a2-19ed5c03f8d3,species,aureonitens,Nectriopsis,,"(Tul. & C. Tul.) Maire",0,1911,,"Annls mycol. 9: 323 (1911)",,,,,,,,,122032," "
+68cb566c-9bad-11eb-a8a2-19ed5c03f8d3,species,aureonitens,Nectriopsis,,"(Tul. & C. Tul.) Maire",0,1911,,"Annls mycol. 9: 323 (1911)",,,Q21385869,,,,,,122032," "
 42d72a18-9bac-11eb-a8a2-19ed5c03f8d3,species,bactridioides,Nectriopsis,,"(Berk. & Broome) Samuels",0,1988,,"Mem. N. Y. bot. Gdn 48: 55 (1988)",,,,4460a2d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136109," "
-30b1fbce-9bac-11eb-a8a2-19ed5c03f8d3,species,berkeleyana,Nectriopsis,,"(Plowr. & Cooke) Maire",0,1911,,"Annls mycol. 9(4): 324 (1911)",,,,88fb0668-9bac-11eb-a8a2-19ed5c03f8d3,,,,,119983," "
+30b1fbce-9bac-11eb-a8a2-19ed5c03f8d3,species,berkeleyana,Nectriopsis,,"(Plowr. & Cooke) Maire",0,1911,,"Annls mycol. 9(4): 324 (1911)",,,Q21385869,88fb0668-9bac-11eb-a8a2-19ed5c03f8d3,,,,,119983," "
 2a700eae-9bac-11eb-a8a2-19ed5c03f8d3,species,broomeana,Nectriopsis,,"(Tul. & C. Tul.) W. Gams",0,1982,,"in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 73 (1982)",,,,92986b48-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110837," "
 42d766f4-9bac-11eb-a8a2-19ed5c03f8d3,species,byssotecta,Nectriopsis,,"(Rehm) Samuels",0,1988,,"Mem. N. Y. bot. Gdn 48: 58 (1988)",,,,84bb6462-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136110," "
-5305b23c-9bad-11eb-a8a2-19ed5c03f8d3,species,candicans,Nectriopsis,,"(Plowr.) Maire",0,1911,,"Annls mycol. 9(4): 324 (1911)",,,,96956e4e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433816," "
+5305b23c-9bad-11eb-a8a2-19ed5c03f8d3,species,candicans,Nectriopsis,,"(Plowr.) Maire",0,1911,,"Annls mycol. 9(4): 324 (1911)",,,Q21385869,96956e4e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,433816," "
 42d7c3ba-9bac-11eb-a8a2-19ed5c03f8d3,species,cephalosporii,Nectriopsis,,"(Hansf.) Samuels",,1988,,"Mem. N. Y. bot. Gdn 48: 38 (1988)",,,,e8e1c6b6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,136111," "
 6a35d216-9bad-11eb-a8a2-19ed5c03f8d3,species,cladoniicola,Nectriopsis,,"M.S. Cole & D. Hawksw.",,2001,,"Mycotaxon 77: 320 (2001)",,,,6a35d216-9bad-11eb-a8a2-19ed5c03f8d3,,,,,466496," "
 2b3f175c-9bad-11eb-a8a2-19ed5c03f8d3,species,coccocarpiae,Nectriopsis,,Diederich,,1997,,"in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 112 (1997)",,,,2b3f175c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,437032," "
@@ -70,7 +70,7 @@ c169e4e2-9bac-11eb-a8a2-19ed5c03f8d3,species,tatrensis,Nectriopsis,,"(Alstrup) L
 2a705b84-9bac-11eb-a8a2-19ed5c03f8d3,species,tremellicola,Nectriopsis,,"(Ellis & Everh.) W. Gams",0,1982,,"in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 69 (1982)",,,,0fa3ee1a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110839," "
 2a707f88-9bac-11eb-a8a2-19ed5c03f8d3,species,tubariicola,Nectriopsis,,"W. Gams",,1982,,"in Gams & Van Zaayen, Neth. Jl Pl. Path. 88(2): 67 (1982)",,,,2a707f88-9bac-11eb-a8a2-19ed5c03f8d3,,,,,110840," "
 74f49c6e-9bad-11eb-a8a2-19ed5c03f8d3,species,uredinophila,Nectriopsis,,"(Syd.) W.Y. Zhuang & X.M. Zhang",,2003,,"in Zhang & Zhuang, Nova Hedwigia 76(1-2): 192 (2003)",,,,e68b8c94-9bac-11eb-a8a2-19ed5c03f8d3,,,,,488973," "
-31a82e72-9bac-11eb-a8a2-19ed5c03f8d3,species,violacea,Nectriopsis,,"(J.C. Schmidt ex Fr.) Maire",0,1911,,"Annls mycol. 9(4): 323 (1911)",,,,55793328-9bac-11eb-a8a2-19ed5c03f8d3,,,,,121656," "
+31a82e72-9bac-11eb-a8a2-19ed5c03f8d3,species,violacea,Nectriopsis,,"(J.C. Schmidt ex Fr.) Maire",0,1911,,"Annls mycol. 9(4): 323 (1911)",,,Q21385869,55793328-9bac-11eb-a8a2-19ed5c03f8d3,,,,,121656," "
 e6b0acfa-8fcb-11eb-924d-9cd76263cbd0,species,aquatica,Nectris,,"(Aubl.) J.F.Gmel.",0,1791,,"Syst. Nat. ed. 13[bis] : 580 (1791)",,,,,,urn:lsid:ipni.org:names:605387-1,wfo-0000249803,7828135,,
 e6b0c776-8fcb-11eb-924d-9cd76263cbd0,species,caroliniana,Nectris,,Steud.,0,1841,,"Nomencl. Bot. , ed. 2, 2: 188 (1841)",,,,,,urn:lsid:ipni.org:names:605389-1,wfo-0000249804,7938765,,
 e6b0e328-8fcb-11eb-924d-9cd76263cbd0,species,furcata,Nectris,,"Leandro ex Schult. & Schult.f.",0,1841,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 7(2): 1379. 1830 [Oct-Dec 1830]",,,,038e2590-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:605390-1,wfo-0000249805,,,

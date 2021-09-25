@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8270f10-8fd1-11eb-924d-9cd76263cbd0,genus,Pentalophus,,,A.DC.,0,1846,,"Prodr. 10: 86 (1846)",,,,,,urn:lsid:ipni.org:names:4742-1,wfo-4000028593,7295066,,
-46b1e696-1d4d-11ec-82c2-f14daa6f2d93,species,longiflorus,Pentalophus,,"(Pursh) DC.",,,,"Prodr. 10: 86 (1846)",,,,,,urn:lsid:ipni.org:names:120155-1,wfo-0001327915,,,
-c4ebd5ee-8fd1-11eb-924d-9cd76263cbd0,species,longiflorus,Pentalophus,,"(Spreng.) A.DC.",0,1846,,"Prodr. 10: 86 1846",,,,,,,wfo-0001263131,4063850,,
-5771453a-1d4d-11ec-82c2-f14daa6f2d93,species,mandanensis,Pentalophus,,DC.,,,,"Prodr. [A. P. de Candolle] 10: 87. 1846 [8 Apr 1846]",,,,,,urn:lsid:ipni.org:names:120156-1,wfo-0001350303,,,
-c4ebf2d6-8fd1-11eb-924d-9cd76263cbd0,species,mandanensis,Pentalophus,,"(Spreng.) A.DC.",0,1846,,"Prodr. 10: 87 1846",,,,,,,wfo-0001263132,4063842,,
+e8270f10-8fd1-11eb-924d-9cd76263cbd0,genus,Pentalophus,,,A.DC.,0,1846,,"Prodr. 10: 86 (1846)",,,Q2712448,,,urn:lsid:ipni.org:names:4742-1,wfo-4000028593,7295066,,
+46b1e696-1d4d-11ec-82c2-f14daa6f2d93,species,longiflorus,Pentalophus,,"(Pursh) DC.",,1846,,"Prodr. 10: 86 (1846)",,,Q2712448,,,urn:lsid:ipni.org:names:120155-1,wfo-0001327915,,,
+c4ebd5ee-8fd1-11eb-924d-9cd76263cbd0,species,longiflorus,Pentalophus,,"(Spreng.) A.DC.",0,1846,,"Prodr. 10: 86 1846",,,Q2712448,,,,wfo-0001263131,4063850,,
+5771453a-1d4d-11ec-82c2-f14daa6f2d93,species,mandanensis,Pentalophus,,DC.,,1846,,"Prodr. [A. P. de Candolle] 10: 87. 1846 [8 Apr 1846]",,,Q2712448,,,urn:lsid:ipni.org:names:120156-1,wfo-0001350303,,,
+c4ebf2d6-8fd1-11eb-924d-9cd76263cbd0,species,mandanensis,Pentalophus,,"(Spreng.) A.DC.",0,1846,,"Prodr. 10: 87 1846",,,Q2712448,,,,wfo-0001263132,4063842,,
 f162b206-8fcb-11eb-924d-9cd76263cbd0,species,melanthesoides,Pentameria,,"Klotzsch ex Baill.",0,1858,,"Étude Euphorb. : 584 (1858)",,,,,,urn:lsid:ipni.org:names:353329-1,wfo-0000266808,5381043,,

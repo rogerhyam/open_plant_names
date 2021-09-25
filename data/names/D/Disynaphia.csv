@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e2f11ed2-8fd1-11eb-924d-9cd76263cbd0,genus,Disynaphia,,,DC.,0,,,"Prodr. 7(1): 267 (1838)",,,,,,urn:lsid:ipni.org:names:30006627-2,wfo-4000012258,3142341,,
+e2f11ed2-8fd1-11eb-924d-9cd76263cbd0,genus,Disynaphia,,,DC.,0,1838,,"Prodr. 7(1): 267 (1838)",,,Q2712448,,,urn:lsid:ipni.org:names:30006627-2,wfo-4000012258,3142341,,
 6a20f6d4-8fb9-11eb-924d-9cd76263cbd0,species,achillaea,Disynaphia,,"(Chodat) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82421-2,wfo-0000118168,3142804,,
 0c5ae426-8fb2-11eb-924d-9cd76263cbd0,species,albissima,Disynaphia,,"(Hassl.) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82422-2,wfo-0000007725,3142894,,
 08ab8878-8fb5-11eb-924d-9cd76263cbd0,species,calyculata,Disynaphia,,"(Hook. & Arn.) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82423-2,wfo-0000073102,3142715,,
@@ -9,7 +9,7 @@ c8be7eee-8fb6-11eb-924d-9cd76263cbd0,species,halimifolia,Disynaphia,,"(DC.) R.M.
 002472d8-8fb4-11eb-924d-9cd76263cbd0,species,ligulaefolia,Disynaphia,,"(Hook. & Arn.) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82427-2,wfo-0000058322,6296025,,
 b5aa384e-8fba-11eb-924d-9cd76263cbd0,species,littoralis,Disynaphia,,"(Cabrera) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82428-2,wfo-0000128826,3142828,,
 c89487c6-8fb4-11eb-924d-9cd76263cbd0,species,minutiflora,Disynaphia,,"R.M.King & H.Rob.",0,1980,,"Phytologia 46: 296 (-297), fig (1980)",,,,,,urn:lsid:ipni.org:names:82429-2,wfo-0000069801,3142348,,
-5f1b38d2-8fb2-11eb-924d-9cd76263cbd0,species,montevidensis,Disynaphia,,DC.,0,1838,,"Prodr. 7(1): 267 (1838)",,,,,,urn:lsid:ipni.org:names:201882-1,wfo-0000022349,3142717,,
+5f1b38d2-8fb2-11eb-924d-9cd76263cbd0,species,montevidensis,Disynaphia,,DC.,0,1838,,"Prodr. 7(1): 267 (1838)",,,Q2712448,,,urn:lsid:ipni.org:names:201882-1,wfo-0000022349,3142717,,
 27187eb2-8fb3-11eb-924d-9cd76263cbd0,species,multicrenulata,Disynaphia,,"(Baker) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,,,urn:lsid:ipni.org:names:82430-2,wfo-0000042702,3142805,,
 8c1aec70-8fb6-11eb-924d-9cd76263cbd0,species,praeficta,Disynaphia,,"(B.L.Rob.) R.M.King & H.Rob.",0,1975,,"Phytologia 32: 284 (1975)",,,,,,urn:lsid:ipni.org:names:82431-2,wfo-0000090599,3142346,,
 45e9ebd8-8fb2-11eb-924d-9cd76263cbd0,species,radula,Disynaphia,,"(Chodat) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 124 (1971)",,,,2d20a6ac-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:82432-2,wfo-0000018478,3142915,,
@@ -18,4 +18,4 @@ c89487c6-8fb4-11eb-924d-9cd76263cbd0,species,minutiflora,Disynaphia,,"R.M.King &
 fd6c54b8-8fb1-11eb-924d-9cd76263cbd0,species,spathulata,Disynaphia,,"(Hook. & Arn.) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 125 (1971)",,,,,,urn:lsid:ipni.org:names:82434-2,wfo-0000000347,3142891,,
 33afaea8-8fb2-11eb-924d-9cd76263cbd0,species,tacuarembensis,Disynaphia,,"(Hieron. & Arechav.) R.M.King & H.Rob.",0,1986,,"Phytologia 60(1): 80. 1986",,,,,,urn:lsid:ipni.org:names:942796-1,wfo-0000015695,3142535,,
 3ebc8118-8fb2-11eb-924d-9cd76263cbd0,species,variolata,Disynaphia,,"(B.L.Rob.) R.M.King & H.Rob.",0,1971,,"Phytologia 22: 125 (1971)",,,,,,urn:lsid:ipni.org:names:82435-2,wfo-0000017230,3142342,,
-e5576974-8fcc-11eb-924d-9cd76263cbd0,species,carnea,Disynoma,,Raf.,0,1837,,"Fl. Tellur. 3: 81 (1837)",,,,,,urn:lsid:ipni.org:names:282273-1,wfo-0000652447,3691894,,
+e5576974-8fcc-11eb-924d-9cd76263cbd0,species,carnea,Disynoma,,Raf.,0,1837,,"Fl. Tellur. 3: 81 (1837)",,,Q5862831,,,urn:lsid:ipni.org:names:282273-1,wfo-0000652447,3691894,,

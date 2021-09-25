@@ -1,4 +1,4 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1588cea-8fd1-11eb-924d-9cd76263cbd0,genus,Celerina,,,Benoist,0,1964,,"Bull. Soc. Bot. France 110: 403 (1964)",,Q55757756,,,,urn:lsid:ipni.org:names:458-1,wfo-4000007130,3233810,,
-c285e858-8fcc-11eb-924d-9cd76263cbd0,species,seyrigii,Celerina,,Benoist,0,1964,,"Bull. Soc. Bot. France 110: 404 (1964)",,Q55757756,,,,urn:lsid:ipni.org:names:46853-1,wfo-0000593000,5574530,,
-15ab85a6-8fcd-11eb-924d-9cd76263cbd0,variety,egena,Celerina,seyrigii,Benoist,0,1963,,"Bull. Soc. Bot. France 110: 404 1963",,,,,,,wfo-0000737807,8023395,,
+e1588cea-8fd1-11eb-924d-9cd76263cbd0,genus,Celerina,,,Benoist,0,1964,,"Bull. Soc. Bot. France 110: 403 (1964)",,Q55757756,Q5735483,,,urn:lsid:ipni.org:names:458-1,wfo-4000007130,3233810,,
+c285e858-8fcc-11eb-924d-9cd76263cbd0,species,seyrigii,Celerina,,Benoist,0,1964,,"Bull. Soc. Bot. France 110: 404 (1964)",,Q55757756,Q5735483,,,urn:lsid:ipni.org:names:46853-1,wfo-0000593000,5574530,,
+15ab85a6-8fcd-11eb-924d-9cd76263cbd0,variety,egena,Celerina,seyrigii,Benoist,0,1963,,"Bull. Soc. Bot. France 110: 404 1963",,,Q5735483,,,,wfo-0000737807,8023395,,

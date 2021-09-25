@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eb3793b4-8fd1-11eb-924d-9cd76263cbd0,genus,Tetraphis,,,Hedw.,0,1801,,"Sp. Musc. Frond. 45. 1801.",,,,,,,wfo-4000037954,2679331,,
 dfc07c02-8fcd-11eb-924d-9cd76263cbd0,species,browniana,Tetraphis,,"(Dicks.) Grev.",0,1824,,"Fl. Edin. 230 1824",,,,,,,wfo-0001149187,8341473,,
-dfc09840-8fcd-11eb-924d-9cd76263cbd0,variety,ovata,Tetraphis,browniana,"(Funck) Hampe",0,1837,,"Flora 20: 280 1837",,,,dfc1272e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001149188,8067386,,
-dfc0b41a-8fcd-11eb-924d-9cd76263cbd0,variety,repanda,Tetraphis,browniana,"(Funck) Hampe",0,1837,,"Flora 20: 280 1837",,,,dfc17af8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001149189,5711331,,
+dfc09840-8fcd-11eb-924d-9cd76263cbd0,variety,ovata,Tetraphis,browniana,"(Funck) Hampe",0,1837,,"Flora 20: 280 1837",,,Q5862699,dfc1272e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001149188,8067386,,
+dfc0b41a-8fcd-11eb-924d-9cd76263cbd0,variety,repanda,Tetraphis,browniana,"(Funck) Hampe",0,1837,,"Flora 20: 280 1837",,,Q5862699,dfc17af8-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001149189,5711331,,
 dfc0d350-8fcd-11eb-924d-9cd76263cbd0,species,cuspidata,Tetraphis,,"(Kindb.) Paris",0,1900,,"Index Bryol. Suppl. 318 1900",,,,eabf16c2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001149190,8143430,,
-dfc0ed04-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Tetraphis,,"Girg. ex Milde",0,1865,,"Bot. Zeitung (Berlin) 23: 155 1865",,,,,,,wfo-0001149191,,,
+dfc0ed04-8fcd-11eb-924d-9cd76263cbd0,species,geniculata,Tetraphis,,"Girg. ex Milde",0,1865,,"Bot. Zeitung (Berlin) 23: 155 1865",,,Q5732649,,,,wfo-0001149191,,,
 dfc109b0-8fcd-11eb-924d-9cd76263cbd0,species,oblonga,Tetraphis,,Turner,0,1804,,"Muscol. Hibern. Spic. 12 1804",,,,,,,wfo-0001149192,7632082,,
 dfc1272e-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Tetraphis,,Funck,0,1802,,"Bot. Taschenb. 1802: 41 1802",,,,,,,wfo-0001149193,7440021,,
 dfc143bc-8fcd-11eb-924d-9cd76263cbd0,species,pellucida,Tetraphis,,Hedw.,0,1801,,"Sp. Musc. Frond. 43. 7 f. 1 a–f 1801",,,,,,,wfo-0001149194,5283400,,

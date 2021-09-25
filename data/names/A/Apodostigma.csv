@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-dfa048fc-8fd1-11eb-924d-9cd76263cbd0,genus,Apodostigma,,,R.Wilczek,0,1956,,"Bull. Jard. Bot. État Bruxelles 26: 402 (1956)",,Q55775760,,,,urn:lsid:ipni.org:names:19634-1,wfo-4000002719,7265780,,
-a17b9a4a-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Apodostigma,,"(Planch. ex Oliv.) R.Wilczek",0,1956,,"Bull. Jard. Bot. État Bruxelles 26: 403 (1956)",,Q55775760,,0e48da16-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:430926-1,wfo-0000540836,7265781,,
+dfa048fc-8fd1-11eb-924d-9cd76263cbd0,genus,Apodostigma,,,R.Wilczek,0,1956,,"Bull. Jard. Bot. État Bruxelles 26: 402 (1956)",,Q55775760,Q5735521,,,urn:lsid:ipni.org:names:19634-1,wfo-4000002719,7265780,,
+a17b9a4a-8fcc-11eb-924d-9cd76263cbd0,species,pallens,Apodostigma,,"(Planch. ex Oliv.) R.Wilczek",0,1956,,"Bull. Jard. Bot. État Bruxelles 26: 403 (1956)",,Q55775760,Q5735521,0e48da16-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:430926-1,wfo-0000540836,7265781,,
 a17bbd72-8fcc-11eb-924d-9cd76263cbd0,variety,buchholzii,Apodostigma,pallens,"(Loes.) N.Hallé",0,1986,,"Fl. Gabon 29: 197 (1986)",,,,0e3b2d62-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:953204-1,wfo-0000540837,3794396,,
 a17c02f0-8fcc-11eb-924d-9cd76263cbd0,form,capuroniana,Apodostigma,pallens,N.Hallé,0,1978,,"Adansonia sér. 2, 17(3-4): 404. 1978",,Q58838203,,,,urn:lsid:ipni.org:names:876028-1,wfo-0000540838,3794385,,
-74f5fd76-1d4d-11ec-82c2-f14daa6f2d93,variety,dummeri,Apodostigma,pallens,"N.Hallé & B.Mathew",,,,"Fl. Gabon 29: 196 (1986)",,,,,,urn:lsid:ipni.org:names:980206-1,wfo-0001390350,,,
-7dc25fb2-1d4d-11ec-82c2-f14daa6f2d93,variety,dummeri,Apodostigma,pallens,N.Hallé,,,,"Fl. Gabon 29: 196 (1986).",,,,,,urn:lsid:ipni.org:names:949404-1,wfo-0001401898,,,
+74f5fd76-1d4d-11ec-82c2-f14daa6f2d93,variety,dummeri,Apodostigma,pallens,"N.Hallé & B.Mathew",,1986,,"Fl. Gabon 29: 196 (1986)",,,,,,urn:lsid:ipni.org:names:980206-1,wfo-0001390350,,,
+7dc25fb2-1d4d-11ec-82c2-f14daa6f2d93,variety,dummeri,Apodostigma,pallens,N.Hallé,,1986,,"Fl. Gabon 29: 196 (1986).",,,,,,urn:lsid:ipni.org:names:949404-1,wfo-0001401898,,,

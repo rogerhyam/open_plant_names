@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9fd25d82-1d4d-11ec-82c2-f14daa6f2d93,genus,Minderera,,,"Ramond ex Schrad.",,,,"Journ. 1800. II. (1801) 467.",,,,,,urn:lsid:ipni.org:names:24515-1,wfo-4000047456,,,
+9fd25d82-1d4d-11ec-82c2-f14daa6f2d93,genus,Minderera,,,"Ramond ex Schrad.",,1800,,"Journ. 1800. II. (1801) 467.",,,,,,urn:lsid:ipni.org:names:24515-1,wfo-4000047456,,,
 3d184066-8fcd-11eb-924d-9cd76263cbd0,species,campanuloides,Mindium,,"(L'Hér.) Rech.f. & Schiman-Czeika",0,1965,,"in Fl. Iran. 13: 47 1965",,,,3ab14bf6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000821564,3158750,,
-3ab72cf6-8fcd-11eb-924d-9cd76263cbd0,species,canariense,Mindium,,Raf.,0,1837,,"Fl. Tellur. 2: 79 (1837)",,,,,,urn:lsid:ipni.org:names:144141-1,wfo-0000816561,3161928,,
+3ab72cf6-8fcd-11eb-924d-9cd76263cbd0,species,canariense,Mindium,,Raf.,0,1837,,"Fl. Tellur. 2: 79 (1837)",,,Q5862831,,,urn:lsid:ipni.org:names:144141-1,wfo-0000816561,3161928,,
 3ab71036-8fcd-11eb-924d-9cd76263cbd0,species,isauricum,Mindium,,"Contandr., Quézel & Pamukç.",0,1971,,"Ann. Univ. Provence, Sci. 26: 55 (1971 publ. 1972)",,,,,,urn:lsid:ipni.org:names:144142-1,wfo-0000816560,3158746,,
 3ab6f63c-8fcd-11eb-924d-9cd76263cbd0,species,koeieanum,Mindium,,"(Rech.f.) Rech.f. & Schiman-Czeika",0,1965,,"Fl. Iranica 13: 48 (1965)",,,,,,urn:lsid:ipni.org:names:144143-1,wfo-0000816559,3158757,,
 3ab6d92c-8fcd-11eb-924d-9cd76263cbd0,species,laevigatum,Mindium,,"(Vent.) Rech.f. & Schiman-Czeika",0,1965,,"Fl. Iranica 13: 47 (1965)",,,,,,urn:lsid:ipni.org:names:144144-1,wfo-0000816558,3158741,,
@@ -9,5 +9,5 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 3ab5e0bc-8fcd-11eb-924d-9cd76263cbd0,species,rhazis,Mindium,,Juss.,0,1789,,"Gen. Pl. : 164 (1789)",,,,,,urn:lsid:ipni.org:names:144146-1,wfo-0000816549,3158752,,
 3ab68922-8fcd-11eb-924d-9cd76263cbd0,species,spicatum,Mindium,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 618 (1791)",,,,,,urn:lsid:ipni.org:names:144147-1,wfo-0000816555,3158751,,
 3ab76144-8fcd-11eb-924d-9cd76263cbd0,species,stenophyllum,Mindium,,"(Boiss. & Hausskn.) Rech.f. & Schiman-Czeika",0,1965,,"Fl. Iranica 13: 48 (1965)",,,,496da258-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:144148-1,wfo-0000816563,3158738,,
-3ab6509c-8fcd-11eb-924d-9cd76263cbd0,species,tchihatchewii,Mindium,,"(Fisch. & C.A.Mey.) Contandr.",0,1972,,"Bull. Soc. Bot. France 119: 88 (1972 publ 1973)",,,,,,urn:lsid:ipni.org:names:144149-1,wfo-0000816553,3158743,,
-3ab63454-8fcd-11eb-924d-9cd76263cbd0,species,thyrsoideum,Mindium,,"(Boiss. & Heldr.) Contandr.",0,1972,,"Bull. Soc. Bot. France 119: 88 (1972 publ. 1973)",,Q95997017,,,,urn:lsid:ipni.org:names:144150-1,wfo-0000816552,3158736,,
+3ab6509c-8fcd-11eb-924d-9cd76263cbd0,species,tchihatchewii,Mindium,,"(Fisch. & C.A.Mey.) Contandr.",0,1972,,"Bull. Soc. Bot. France 119: 88 (1972 publ 1973)",,,Q5735483,,,urn:lsid:ipni.org:names:144149-1,wfo-0000816553,3158743,,
+3ab63454-8fcd-11eb-924d-9cd76263cbd0,species,thyrsoideum,Mindium,,"(Boiss. & Heldr.) Contandr.",0,1972,,"Bull. Soc. Bot. France 119: 88 (1972 publ. 1973)",,Q95997017,Q5735483,,,urn:lsid:ipni.org:names:144150-1,wfo-0000816552,3158736,,

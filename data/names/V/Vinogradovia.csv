@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec782a54-8fd1-11eb-924d-9cd76263cbd0,genus,Vinogradovia,,,"Bani, D.A.German & M.A.Koch",0,2017,,"Bot. J. Linn. Soc. 185: 184 (2017)",,Q57229624,,,,urn:lsid:ipni.org:names:77167396-1,wfo-4001303462,9720644,,
-7f605ebe-1d4d-11ec-82c2-f14daa6f2d93,species,conferta,Vinogradovia,,"(Hub.-Mor. & Lamond) Bani, D.A.German & M.A.Koch",,,,"Bot. J. Linn. Soc. 185(2): 184. 2017 [6 Sep 2017] [epublished]",,,,,,urn:lsid:ipni.org:names:77167397-1,wfo-0001421885,,,
-5afb6848-1d4d-11ec-82c2-f14daa6f2d93,species,acuminata,Vinsonia,,"Gaudich. ex Balf.f.",,,,"J. Linn. Soc., Bot. 17: 40. 1878 [1880 publ. 1878]",,,,,,urn:lsid:ipni.org:names:671652-1,wfo-0001355055,,,
+ec782a54-8fd1-11eb-924d-9cd76263cbd0,genus,Vinogradovia,,,"Bani, D.A.German & M.A.Koch",0,2017,,"Bot. J. Linn. Soc. 185: 184 (2017)",,Q57229624,Q2975482,,,urn:lsid:ipni.org:names:77167396-1,wfo-4001303462,9720644,,
+7f605ebe-1d4d-11ec-82c2-f14daa6f2d93,species,conferta,Vinogradovia,,"(Hub.-Mor. & Lamond) Bani, D.A.German & M.A.Koch",,2017,,"Bot. J. Linn. Soc. 185(2): 184. 2017 [6 Sep 2017] [epublished]",,,Q2975482,,,urn:lsid:ipni.org:names:77167397-1,wfo-0001421885,,,
+5afb6848-1d4d-11ec-82c2-f14daa6f2d93,species,acuminata,Vinsonia,,"Gaudich. ex Balf.f.",,1878,,"J. Linn. Soc., Bot. 17: 40. 1878 [1880 publ. 1878]",,,,,,urn:lsid:ipni.org:names:671652-1,wfo-0001355055,,,
 1c2864a8-8fcd-11eb-924d-9cd76263cbd0,species,consanguinea,Vinsonia,,"Gaudich. ex Balf.f.",0,1878,,"J. Linn. Soc., Bot. 17: 65 (1878)",,Q55760159,,,,urn:lsid:ipni.org:names:671653-1,wfo-0000751608,5327561,,
 1c28897e-8fcd-11eb-924d-9cd76263cbd0,species,drupacea,Vinsonia,,Gaudich.,0,1841,,"Voy. Bonite, Bot. 3: t. 31 (1841)",,,,,,urn:lsid:ipni.org:names:671654-1,wfo-0000751609,5328077,,
 1c28ae22-8fcd-11eb-924d-9cd76263cbd0,species,elegans,Vinsonia,,Gaudich.,0,1841,,"Voy. Bonite, Bot. 3: t. 17 (1841)",,,,129fe4b0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:671655-1,wfo-0000751610,5327681,,

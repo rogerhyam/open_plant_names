@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9b6d7dd4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stegophorella,,,Petr.,0,1947,,"Sydowia 1: 15 (1947)",,,,9b6d7dd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5198," "
+9b6d7dd4-9bad-11eb-a8a2-19ed5c03f8d3,genus,Stegophorella,,,Petr.,0,1947,,"Sydowia 1: 15 (1947)",,,Q15816855,9b6d7dd4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,5198," "
 b99fc97a-9bac-11eb-a8a2-19ed5c03f8d3,species,axonopifolii,Stegophorella,,"Bat. & Peres",0,,,,,,,b99fc97a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,453606," "
-ee754530-9bac-11eb-a8a2-19ed5c03f8d3,species,lagerheimii,Stegophorella,,Petr.,0,1947,,"Sydowia 1: (1947)",,,,ee754530-9bac-11eb-a8a2-19ed5c03f8d3,,,,,291183," "
+ee754530-9bac-11eb-a8a2-19ed5c03f8d3,species,lagerheimii,Stegophorella,,Petr.,0,1947,,"Sydowia 1: (1947)",,,Q15816855,ee754530-9bac-11eb-a8a2-19ed5c03f8d3,,,,,291183," "
 662ab89e-8fcd-11eb-924d-9cd76263cbd0,species,cochinchinensis,Stegosia,,Lour.,0,1790,,"Fl. Cochinch. : 51 (1790)",,,,,,urn:lsid:ipni.org:names:423021-1,wfo-0000901588,4146231,,
-711e4a78-1d4d-11ec-82c2-f14daa6f2d93,variety,robusta,Stegosia,cochinchinensis,"(Hook.f.) M.R.Almeida & S.Yadav",,,,"Fl. Maharashtra 6B: 295 (2014)",,,,,,urn:lsid:ipni.org:names:77143062-1,wfo-0001385266,,,
+711e4a78-1d4d-11ec-82c2-f14daa6f2d93,variety,robusta,Stegosia,cochinchinensis,"(Hook.f.) M.R.Almeida & S.Yadav",,2014,,"Fl. Maharashtra 6B: 295 (2014)",,,,,,urn:lsid:ipni.org:names:77143062-1,wfo-0001385266,,,
 662ae36e-8fcd-11eb-924d-9cd76263cbd0,species,exaltata,Stegosia,,"(Kuntze) Nash",0,1909,,"N. Amer. Fl. 17: 84 (1909)",,,,57847762-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:243674-2,wfo-0000901589,4146214,,
 0ff09d6e-8fcc-11eb-924d-9cd76263cbd0,species,alpina,Stegostyla,,"(R.S.Rogers) D.L.Jones & M.A.Clem.",0,2001,,"Orchadian 13: 411 (2001)",,,,,,urn:lsid:ipni.org:names:20001836-1,wfo-0000315253,2841798,,
 0ff0b98e-8fcc-11eb-924d-9cd76263cbd0,species,angustata,Stegostyla,,"(Lindl.) D.L.Jones & M.A.Clem.",0,2001,,"Orchadian 13: 414 (2001)",,,,,,urn:lsid:ipni.org:names:20001837-1,wfo-0000315254,2841296,,
@@ -22,5 +22,5 @@ ee754530-9bac-11eb-a8a2-19ed5c03f8d3,species,lagerheimii,Stegophorella,,Petr.,0,
 0ff27b34-8fcc-11eb-924d-9cd76263cbd0,species,praecox,Stegostyla,,"(Nicholls) D.L.Jones & M.A.Clem.",0,2001,,"Orchadian 13: 414 (2001)",,,,1342f9b6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20001849-1,wfo-0000315267,2841595,,
 0ff29b5a-8fcc-11eb-924d-9cd76263cbd0,species,testacea,Stegostyla,,"(R.Br.) D.L.Jones & M.A.Clem.",0,2001,,"Orchadian 13: 414 (2001)",,,,15140a6e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20001850-1,wfo-0000315268,2841372,,
 0ff2b9aa-8fcc-11eb-924d-9cd76263cbd0,species,transitoria,Stegostyla,,"(D.L.Jones) D.L.Jones & M.A.Clem.",0,2001,,"Orchadian 13: 414 (2001)",,,,156671be-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20001851-1,wfo-0000315269,2841331,,
-60e949fa-1d4d-11ec-82c2-f14daa6f2d93,subspecies,isolata,Stegostyla,transitoria,R.J.Bates,,,,"Austral. Orchid Rev. 81(4): 44 (2016)",,,,,,urn:lsid:ipni.org:names:77157170-1,wfo-0001363469,,,
+60e949fa-1d4d-11ec-82c2-f14daa6f2d93,subspecies,isolata,Stegostyla,transitoria,R.J.Bates,,2016,,"Austral. Orchid Rev. 81(4): 44 (2016)",,,,,,urn:lsid:ipni.org:names:77157170-1,wfo-0001363469,,,
 37d0bcfa-8fcd-11eb-924d-9cd76263cbd0,species,ustulata,Stegostyla,,D.L.Jones,0,2007,,"Orchadian 15: 323 (2007)",,,,,,urn:lsid:ipni.org:names:60446651-2,wfo-0000810303,3656910,,

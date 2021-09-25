@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eb76cb4c-8fd1-11eb-924d-9cd76263cbd0,genus,Traganum,,,Delile,0,1812,,"Descr. Egypte, Hist. Nat. : 204 (1813)",,,,,,urn:lsid:ipni.org:names:7022-1,wfo-4000038764,6035869,,
-4d2569c6-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Traganum,,"Maire & Weiller",0,1939,,"Bull. Soc. Hist. Nat. Afrique N. 30: 300 (1939)",,,,,,urn:lsid:ipni.org:names:167623-1,wfo-0000407042,3760387,,
+4d2569c6-8fcc-11eb-924d-9cd76263cbd0,species,acuminatum,Traganum,,"Maire & Weiller",0,1939,,"Bull. Soc. Hist. Nat. Afrique N. 30: 300 (1939)",,,Q5735497,,,urn:lsid:ipni.org:names:167623-1,wfo-0000407042,3760387,,
 4d25ea9a-8fcc-11eb-924d-9cd76263cbd0,species,gracile,Traganum,,A.Chev.,0,1920,,"Explor. Bot. Afrique Occ. Franc. i. 534 (1920), nomen.",,,,,,urn:lsid:ipni.org:names:167624-1,wfo-0000407043,3760382,,
-4d2e5c0c-8fcc-11eb-924d-9cd76263cbd0,species,moquinii,Traganum,,"Webb ex Moq.",0,1849,,"Prodr. 13(2): 171 (1849)",,,,,,urn:lsid:ipni.org:names:167625-1,wfo-0000407095,6285690,,
+4d2e5c0c-8fcc-11eb-924d-9cd76263cbd0,species,moquinii,Traganum,,"Webb ex Moq.",0,1849,,"Prodr. 13(2): 171 (1849)",,,Q2712448,,,urn:lsid:ipni.org:names:167625-1,wfo-0000407095,6285690,,
 4d365c54-8fcc-11eb-924d-9cd76263cbd0,species,nudatum,Traganum,,Delile,0,1813,,"Descr. Egypte, Hist. Nat. : 204 (1813)",,,,,,urn:lsid:ipni.org:names:167628-1,wfo-0000407143,3760351,,
 1bc18328-8fcd-11eb-924d-9cd76263cbd0,variety,acuminatum,Traganum,nudatum,"(Maire & Weiller) Maire",0,1962,,"in Fl. Afr. Nord 8: 121 1962",,,,4d2569c6-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000750818,7890433,,
-1bc1a93e-8fcd-11eb-924d-9cd76263cbd0,variety,microphyllum,Traganum,nudatum,Maire,0,1939,,"Bull. Soc. Hist. Nat. Afrique N. 30: 362 1939",,,,,,,wfo-0000750819,7609790,,
+1bc1a93e-8fcd-11eb-924d-9cd76263cbd0,variety,microphyllum,Traganum,nudatum,Maire,0,1939,,"Bull. Soc. Hist. Nat. Afrique N. 30: 362 1939",,,Q5735497,,,,wfo-0000750819,7609790,,

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e498b92a-8fd1-11eb-924d-9cd76263cbd0,genus,Hemisteptia,,,"Fisch. & C.A.Mey.",,,,"Index Seminum (LE, Petropolitanus) 2: 38 (1836)",,,,,,urn:lsid:ipni.org:names:9288-1,wfo-4000017444,,,
-6f310308-8fb9-11eb-924d-9cd76263cbd0,species,carthamodes,Hemisteptia,,"(DC.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 344 (1891)",,,,,,urn:lsid:ipni.org:names:60460926-2,wfo-0000118330,3088603,,
+e498b92a-8fd1-11eb-924d-9cd76263cbd0,genus,Hemisteptia,,,"Fisch. & C.A.Mey.",,1836,,"Index Seminum (LE, Petropolitanus) 2: 38 (1836)",,,,,,urn:lsid:ipni.org:names:9288-1,wfo-4000017444,,,
+6f310308-8fb9-11eb-924d-9cd76263cbd0,species,carthamodes,Hemisteptia,,"(DC.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 344 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:60460926-2,wfo-0000118330,3088603,,
 d65f820c-8fcd-11eb-924d-9cd76263cbd0,species,lyrata,Hemisteptia,,Bunge,0,,,,,,,,,,wfo-0001129132,8283613,,
 df09c9d4-8fba-11eb-924d-9cd76263cbd0,species,lyrata,Hemisteptia,,"(Bunge) Fisch. & C.A.Mey.",0,1836,,"Index Seminum (LE, Petropolitanus) 2: 38 (1836)",,,,,,urn:lsid:ipni.org:names:973009-1,wfo-0000130019,8283613,,
-42420186-1d4d-11ec-82c2-f14daa6f2d93,form,alba,Hemisteptia,lyrata,M.H.Lee,,,,"Korean J. Pl. Taxon. 13(2): 110 (1983)",,,,,,urn:lsid:ipni.org:names:60462591-2,wfo-0001321988,,,
-4340d0f8-1d4d-11ec-82c2-f14daa6f2d93,form,nivea,Hemisteptia,lyrata,Asai,,,,"J. Jap. Bot. 68(2): 122 (1993), as 'Hemist (1993)",,,,,,urn:lsid:ipni.org:names:972137-1,wfo-0001323348,,,
+42420186-1d4d-11ec-82c2-f14daa6f2d93,form,alba,Hemisteptia,lyrata,M.H.Lee,,1983,,"Korean J. Pl. Taxon. 13(2): 110 (1983)",,,,,,urn:lsid:ipni.org:names:60462591-2,wfo-0001321988,,,
+4340d0f8-1d4d-11ec-82c2-f14daa6f2d93,form,nivea,Hemisteptia,lyrata,Asai,,1993,,"J. Jap. Bot. 68(2): 122 (1993), as 'Hemist (1993)",,,,,,urn:lsid:ipni.org:names:972137-1,wfo-0001323348,,,
 9235a476-8fcd-11eb-924d-9cd76263cbd0,species,ovatum,Hemistoma,,"Ehrenb. ex Benth.",0,1830,,"Pl. Asiat. Rar. 1: 60 (1830)",,,,7ed0ddca-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:447786-1,wfo-0000981401,8259164,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e4ebe65e-8fd1-11eb-924d-9cd76263cbd0,genus,Hyalopoa,,,"(Tzvelev) Tzvelev",0,,,"Bot. Zhurn. (Moscow & Leningrad) 50: 1320 (1965)",,,,,,urn:lsid:ipni.org:names:18245-1,wfo-4000018481,6431055,,
-55becda6-8fcd-11eb-924d-9cd76263cbd0,species,czirahica,Hyalopoa,,Husseinov,0,,,"Bot. Zhurn. (Moscow & Leningrad) 73: 1743 (1988)",,,,,,urn:lsid:ipni.org:names:935956-1,wfo-0000875104,8397390,,
-6bcc60e0-8fcd-11eb-924d-9cd76263cbd0,species,hracziana,Hyalopoa,,"Gabrieljan & Tzvelev",0,,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1088 (2006)",,,,,,urn:lsid:ipni.org:names:77079996-1,wfo-0000908237,4111069,,
+e4ebe65e-8fd1-11eb-924d-9cd76263cbd0,genus,Hyalopoa,,,"(Tzvelev) Tzvelev",0,1965,,"Bot. Zhurn. (Moscow & Leningrad) 50: 1320 (1965)",,,Q2504738,,,urn:lsid:ipni.org:names:18245-1,wfo-4000018481,6431055,,
+55becda6-8fcd-11eb-924d-9cd76263cbd0,species,czirahica,Hyalopoa,,Husseinov,0,1988,,"Bot. Zhurn. (Moscow & Leningrad) 73: 1743 (1988)",,,Q2504738,,,urn:lsid:ipni.org:names:935956-1,wfo-0000875104,8397390,,
+6bcc60e0-8fcd-11eb-924d-9cd76263cbd0,species,hracziana,Hyalopoa,,"Gabrieljan & Tzvelev",0,2006,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1088 (2006)",,,Q2504738,,,urn:lsid:ipni.org:names:77079996-1,wfo-0000908237,4111069,,
 55bee7c8-8fcd-11eb-924d-9cd76263cbd0,species,ivanoviae,Hyalopoa,,"(Malyschev) Czerep.",0,1981,,"Sosud. Rast. SSSR : 363 (1981)",,,,4f19345a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:984761-1,wfo-0000875105,4111062,,
 55bf03b6-8fcd-11eb-924d-9cd76263cbd0,species,lakia,Hyalopoa,,"(Woronow) Tzvelev",0,1966,,"Novosti Sist. Vyssh. Rast. 3: 32 (1966)",,,,,,urn:lsid:ipni.org:names:405401-1,wfo-0000875106,4111054,,
 55bf3e30-8fcd-11eb-924d-9cd76263cbd0,species,lanatiflora,Hyalopoa,,"(Roshev.) Tzvelev",0,1966,,"Novosti Sist. Vyssh. Rast. 3: 32 (1966)",,,,5e5b91f6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:405402-1,wfo-0000875108,4111041,,
@@ -9,5 +9,5 @@ e4ebe65e-8fd1-11eb-924d-9cd76263cbd0,genus,Hyalopoa,,,"(Tzvelev) Tzvelev",0,,,"B
 55bf77f6-8fcd-11eb-924d-9cd76263cbd0,subspecies,momica,Hyalopoa,lanatiflora,"(Tzvelev) Tzvelev",0,1966,,"Novosti Sist. Vyssh. Rast. 3: 33 1966",,,,,,,wfo-0000875110,5947892,,
 55bf9308-8fcd-11eb-924d-9cd76263cbd0,species,momica,Hyalopoa,,"(Tzvelev) Czerep.",0,1981,,"Sosud. Rast. SSSR : 363 (1981)",,,,,,urn:lsid:ipni.org:names:984762-1,wfo-0000875111,4111022,,
 55bfb036-8fcd-11eb-924d-9cd76263cbd0,species,nutans,Hyalopoa,,"(Stapf) Alexeev ex Cope",0,1982,,"Fl. Pakistan 143: 423 (1982)",,,,,,urn:lsid:ipni.org:names:910765-1,wfo-0000875112,4111004,,
-55bfcc1a-8fcd-11eb-924d-9cd76263cbd0,species,pontica,Hyalopoa,,"(Balansa) Tzvelev",0,,,"Bot. Zhurn. (Moscow & Leningrad) 50: 1320 (1965)",,,,4e09ce80-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:405404-1,wfo-0000875113,4110994,,
-6f6a78ae-8fcd-11eb-924d-9cd76263cbd0,species,zarubinii,Hyalopoa,,"Enustsch. & Schumkin",0,,,"Bot. Zhurn. (Moscow & Leningrad) 93: 1269 (2008)",,,,,,urn:lsid:ipni.org:names:77095202-1,wfo-0000913011,4110984,,
+55bfcc1a-8fcd-11eb-924d-9cd76263cbd0,species,pontica,Hyalopoa,,"(Balansa) Tzvelev",0,1965,,"Bot. Zhurn. (Moscow & Leningrad) 50: 1320 (1965)",,,Q2504738,4e09ce80-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:405404-1,wfo-0000875113,4110994,,
+6f6a78ae-8fcd-11eb-924d-9cd76263cbd0,species,zarubinii,Hyalopoa,,"Enustsch. & Schumkin",0,2008,,"Bot. Zhurn. (Moscow & Leningrad) 93: 1269 (2008)",,,Q2504738,,,urn:lsid:ipni.org:names:77095202-1,wfo-0000913011,4110984,,

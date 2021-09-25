@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e0fc6712-8fd1-11eb-924d-9cd76263cbd0,genus,Calathodes,,,"Hook.f. & Thomson",0,1855,,"Fl. Ind. 1: 40 (1855)",,,,,,urn:lsid:ipni.org:names:33081-1,wfo-4000005976,7277648,,
-b9c67b6a-8fcc-11eb-924d-9cd76263cbd0,species,oxycarpa,Calathodes,,Sprague,0,1919,,"Bull. Misc. Inform. Kew 1919: 403 (1919)",,Q55781859,,,,urn:lsid:ipni.org:names:709233-1,wfo-0000579177,3927458,,
-b9c698e8-8fcc-11eb-924d-9cd76263cbd0,species,palmata,Calathodes,,"Hook.f. & Thomson",0,1855,,"Fl. Ind. 1: 41 (1855)",,,,,,urn:lsid:ipni.org:names:709234-1,wfo-0000579178,3927448,,
-b9c6b620-8fcc-11eb-924d-9cd76263cbd0,variety,appendiculata,Calathodes,palmata,Brühl,0,1896,,"Ann. Roy. Bot. Gard. (Calcutta) 5(2): 86 1896",,,,,,,wfo-0000579179,8221350,,
+e0fc6712-8fd1-11eb-924d-9cd76263cbd0,genus,Calathodes,,,"Hook.f. & Thomson",0,1855,,"Fl. Ind. 1: 40 (1855)",,,Q5862867,,,urn:lsid:ipni.org:names:33081-1,wfo-4000005976,7277648,,
+b9c67b6a-8fcc-11eb-924d-9cd76263cbd0,species,oxycarpa,Calathodes,,Sprague,0,1919,,"Bull. Misc. Inform. Kew 1919: 403 (1919)",,Q55781859,Q5735532,,,urn:lsid:ipni.org:names:709233-1,wfo-0000579177,3927458,,
+b9c698e8-8fcc-11eb-924d-9cd76263cbd0,species,palmata,Calathodes,,"Hook.f. & Thomson",0,1855,,"Fl. Ind. 1: 41 (1855)",,,Q5862867,,,urn:lsid:ipni.org:names:709234-1,wfo-0000579178,3927448,,
+b9c6b620-8fcc-11eb-924d-9cd76263cbd0,variety,appendiculata,Calathodes,palmata,Brühl,0,1896,,"Ann. Roy. Bot. Gard. (Calcutta) 5(2): 86 1896",,,Q10856093,,,,wfo-0000579179,8221350,,
 b9c6d1fa-8fcc-11eb-924d-9cd76263cbd0,species,polycarpa,Calathodes,,Ohwi,0,1933,,"Acta Phytotax. Geobot. 2: 153 (1933)",,Q101148631,,,,urn:lsid:ipni.org:names:709235-1,wfo-0000579180,3927439,,
-b9c70f30-8fcc-11eb-924d-9cd76263cbd0,species,unciformis,Calathodes,,W.T.Wang,0,1996,,"Bull. Bot. Res., Harbin 16: 165 (1996)",,Q96108045,,,,urn:lsid:ipni.org:names:20002313-1,wfo-0000579182,3927434,,
+b9c70f30-8fcc-11eb-924d-9cd76263cbd0,species,unciformis,Calathodes,,W.T.Wang,0,1996,,"Bull. Bot. Res., Harbin 16: 165 (1996)",,Q96108045,Q55758940,,,urn:lsid:ipni.org:names:20002313-1,wfo-0000579182,3927434,,

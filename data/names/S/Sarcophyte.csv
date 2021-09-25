@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e9f681cc-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcophyte,,,Sparrm.,0,1776,,"Kongl. Vetensk. Acad. Handl. 27: 300 (1776)",,,,,,urn:lsid:ipni.org:names:3855-1,wfo-4000034069,4195015,,
-dba18a94-8fcd-11eb-924d-9cd76263cbd0,species,piriei,Sarcophyte,,Hutch.,0,1914,,"Bull. Misc. Inform. Kew 1914: 252 (1914)",,Q55787724,,,,urn:lsid:ipni.org:names:103399-1,wfo-0001140478,4195297,,
+dba18a94-8fcd-11eb-924d-9cd76263cbd0,species,piriei,Sarcophyte,,Hutch.,0,1914,,"Bull. Misc. Inform. Kew 1914: 252 (1914)",,Q55787724,Q5735532,,,urn:lsid:ipni.org:names:103399-1,wfo-0001140478,4195297,,
 db9f9b08-8fcd-11eb-924d-9cd76263cbd0,species,sanguinea,Sarcophyte,,Sparrm.,0,1776,,"Kongl. Vetensk. Acad. Handl. 27: 300 (1776)",,,,,,urn:lsid:ipni.org:names:103400-1,wfo-0001140462,7309825,,
-dba251c2-8fcd-11eb-924d-9cd76263cbd0,subspecies,piriei,Sarcophyte,sanguinea,"(Hutch.) B.Hansen",0,1986,,"Bot. Jahrb. Syst. 106: 366 (1986)",,,,dba18a94-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:952455-1,wfo-0001140485,4195273,,
+dba251c2-8fcd-11eb-924d-9cd76263cbd0,subspecies,piriei,Sarcophyte,sanguinea,"(Hutch.) B.Hansen",0,1986,,"Bot. Jahrb. Syst. 106: 366 (1986)",,,Q5732642,dba18a94-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:952455-1,wfo-0001140485,4195273,,
 dd7f0cc6-1d4c-11ec-82c2-f14daa6f2d93,subspecies,sanguinea,Sarcophyte,sanguinea,,,,,,,,,,,,wfo-0001140463,,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-deb91d92-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoscyphus,,,Small,0,1898,,"Bull. Torrey Bot. Club 25: 53 (1898)",,Q55766555,,,,urn:lsid:ipni.org:names:329611-2,wfo-4000000151,7726915,,
-9178a7e6-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Acanthoscyphus,,Small,0,1898,,"Bull. Torrey Bot. Club 25: 53 (1898)",,Q55766555,,c980b844-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1691-2,wfo-0000513764,6391746,,
+deb91d92-8fd1-11eb-924d-9cd76263cbd0,genus,Acanthoscyphus,,,Small,0,1898,,"Bull. Torrey Bot. Club 25: 53 (1898)",,Q55766555,Q13548538,,,urn:lsid:ipni.org:names:329611-2,wfo-4000000151,7726915,,
+9178a7e6-8fcc-11eb-924d-9cd76263cbd0,species,parishii,Acanthoscyphus,,Small,0,1898,,"Bull. Torrey Bot. Club 25: 53 (1898)",,Q55766555,Q13548538,c980b844-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1691-2,wfo-0000513764,6391746,,
 9178c3e8-8fcc-11eb-924d-9cd76263cbd0,variety,abramsii,Acanthoscyphus,parishii,"(McGregor) Reveal",0,2004,,"Harvard Pap. Bot. 9: 144 (2004)",,Q95390103,,,,urn:lsid:ipni.org:names:60436666-2,wfo-0000513765,4037578,,
 9178e1fc-8fcc-11eb-924d-9cd76263cbd0,variety,cienegensis,Acanthoscyphus,parishii,"(Ertter) Reveal",0,2004,,"Harvard Pap. Bot. 9: 144 (2004)",,Q95390103,,c98eff26-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60436667-2,wfo-0000513766,4037571,,
 9178ffde-8fcc-11eb-924d-9cd76263cbd0,variety,goodmaniana,Acanthoscyphus,parishii,"(Ertter) Reveal",0,2004,,"Harvard Pap. Bot. 9: 144 (2004)",,Q95390103,,c98f19f2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60436668-2,wfo-0000513767,4037560,,
-26ca9896-1d4d-11ec-82c2-f14daa6f2d93,variety,parishii,Acanthoscyphus,parishii,,,,,2004,,,,,,,wfo-0001271370,,,
+26ca9896-1d4d-11ec-82c2-f14daa6f2d93,variety,parishii,Acanthoscyphus,parishii,,,2004,,2004,,,,,,,wfo-0001271370,,,

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a6727fcc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calopposis,,,Lloyd,0,,,"Mycol. Writ. 7: 1339 (1925)",,,,a6727fcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17225," "
+a6727fcc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Calopposis,,,Lloyd,0,1925,,"Mycol. Writ. 7: 1339 (1925)",,,,a6727fcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17225," "
 05352822-9bac-11eb-a8a2-19ed5c03f8d3,species,damae-cornis,Calopposis,,Lloyd,0,,,,,,,05352822-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254336," Calopposis damicornis"
-d84ecae2-9bac-11eb-a8a2-19ed5c03f8d3,species,damicornis,Calopposis,,Lloyd,0,,,"Mycol. Writ. 7(no. 74): 1340 (1925)",,,,d84ecae2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262778," damae-cornis"
-d2c26d4a-9bac-11eb-a8a2-19ed5c03f8d3,species,nodulosa,Calopposis,,Lloyd,0,,,"Mycol. Writ. 7: 1339 (1925)",,,,d2c26d4a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253594," "
+d84ecae2-9bac-11eb-a8a2-19ed5c03f8d3,species,damicornis,Calopposis,,Lloyd,0,1925,,"Mycol. Writ. 7(no. 74): 1340 (1925)",,,,d84ecae2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,262778," damae-cornis"
+d2c26d4a-9bac-11eb-a8a2-19ed5c03f8d3,species,nodulosa,Calopposis,,Lloyd,0,1925,,"Mycol. Writ. 7: 1339 (1925)",,,,d2c26d4a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,253594," "
 20be2eae-8fcc-11eb-924d-9cd76263cbd0,species,adpressa,Calopsis,,Esterh.,0,1985,,"Bothalia 15: 465 (1985)",,,,,,urn:lsid:ipni.org:names:928932-1,wfo-0000343524,2706805,,
 20be4a38-8fcc-11eb-924d-9cd76263cbd0,species,andreaeana,Calopsis,,"(Pillans) H.P.Linder",0,1985,,"Bothalia 15: 465 (1985)",,,,,,urn:lsid:ipni.org:names:942197-1,wfo-0000343525,2706784,,
 20be6806-8fcc-11eb-924d-9cd76263cbd0,species,aspera,Calopsis,,"(Mast.) H.P.Linder",0,1985,,"Bothalia 15: 465 (1985)",,,,68b24010-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:942198-1,wfo-0000343526,2706752,,
@@ -24,7 +24,7 @@ d2c26d4a-9bac-11eb-a8a2-19ed5c03f8d3,species,nodulosa,Calopposis,,Lloyd,0,,,"Myc
 20c10fe8-8fcc-11eb-924d-9cd76263cbd0,species,membranacea,Calopsis,,"(Pillans) H.P.Linder",0,1985,,"Bothalia 15: 469 (1985)",,,,,,urn:lsid:ipni.org:names:942208-1,wfo-0000343544,2706801,,
 20c12d7a-8fcc-11eb-924d-9cd76263cbd0,species,monostylis,Calopsis,,"(Pillans) H.P.Linder",0,1985,,"Bothalia 15: 469 (1985)",,,,719bc610-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:942209-1,wfo-0000343545,2706782,,
 20c14b98-8fcc-11eb-924d-9cd76263cbd0,species,muirii,Calopsis,,"(Pillans) H.P.Linder",0,1985,,"Bothalia 15: 469 (1985)",,,,,,urn:lsid:ipni.org:names:942210-1,wfo-0000343546,2706750,,
-20c16e7a-8fcc-11eb-924d-9cd76263cbd0,species,neglecta,Calopsis,,Hochst.,0,1845,,"Flora 28: 338 (1845)",,,,,,urn:lsid:ipni.org:names:715715-1,wfo-0000343547,2707053,,
+20c16e7a-8fcc-11eb-924d-9cd76263cbd0,species,neglecta,Calopsis,,Hochst.,0,1845,,"Flora 28: 338 (1845)",,,Q5862699,,,urn:lsid:ipni.org:names:715715-1,wfo-0000343547,2707053,,
 20c1cac8-8fcc-11eb-924d-9cd76263cbd0,species,nudiflora,Calopsis,,"(Pillans) H.P.Linder",0,1985,,"Bothalia 15: 469 (1985)",,,,cac73f84-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:942211-1,wfo-0000343548,2706786,,
 20c22234-8fcc-11eb-924d-9cd76263cbd0,species,oxylepis,Calopsis,,Kunth,0,1841,,"Enum. Pl. 3: 427 (1841)",,,,,,urn:lsid:ipni.org:names:715716-1,wfo-0000343549,2706767,,
 20c2432c-8fcc-11eb-924d-9cd76263cbd0,species,paniculata,Calopsis,,Desv.,0,1828,,"Ann. Sci. Nat. (Paris) 13: 44 (1828)",,,,,,urn:lsid:ipni.org:names:715717-1,wfo-0000343550,2706808,,

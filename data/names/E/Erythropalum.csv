@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e37e6b84-8fd1-11eb-924d-9cd76263cbd0,genus,Erythropalum,,,Blume,0,,,"Bijdr. Fl. Ned. Ind. : 921 (1826)",,,,,,urn:lsid:ipni.org:names:28181-1,wfo-4000013995,7326504,,
-f51ca9aa-8fcc-11eb-924d-9cd76263cbd0,species,grandifolium,Erythropalum,,Elmer,0,,,"Leafl. Philipp. Bot. 8: 2788 (1915)",,,,,,urn:lsid:ipni.org:names:607792-1,wfo-0000679587,3686005,,
-f51cc48a-8fcc-11eb-924d-9cd76263cbd0,species,populifolium,Erythropalum,,Mast.,0,1875,,"Fl. Brit. India 1: 578 (1875)",,,,,,urn:lsid:ipni.org:names:607793-1,wfo-0000679588,3685997,,
+e37e6b84-8fd1-11eb-924d-9cd76263cbd0,genus,Erythropalum,,,Blume,0,1826,,"Bijdr. Fl. Ned. Ind. : 921 (1826)",,,,,,urn:lsid:ipni.org:names:28181-1,wfo-4000013995,7326504,,
+f51ca9aa-8fcc-11eb-924d-9cd76263cbd0,species,grandifolium,Erythropalum,,Elmer,0,1915,,"Leafl. Philipp. Bot. 8: 2788 (1915)",,,,,,urn:lsid:ipni.org:names:607792-1,wfo-0000679587,3686005,,
+f51cc48a-8fcc-11eb-924d-9cd76263cbd0,species,populifolium,Erythropalum,,Mast.,0,1875,,"Fl. Brit. India 1: 578 (1875)",,,Q6144451,,,urn:lsid:ipni.org:names:607793-1,wfo-0000679588,3685997,,
 f51ce0b4-8fcc-11eb-924d-9cd76263cbd0,species,scandens,Erythropalum,,Blume,0,1826,,"Bijdr. Fl. Ned. Ind. : 922 (1826)",,,,,,urn:lsid:ipni.org:names:607794-1,wfo-0000679589,3685992,,
 f51cfff4-8fcc-11eb-924d-9cd76263cbd0,species,triandrum,Erythropalum,,"Quisumb. & Merr.",0,1928,,"Philipp. J. Sci. 37: 143 (1928)",,,,,,urn:lsid:ipni.org:names:607795-1,wfo-0000679590,3685985,,
-f51d2524-8fcc-11eb-924d-9cd76263cbd0,species,vagum,Erythropalum,,Mast.,0,1875,,"Fl. Brit. India 1: 578 (1875)",,,,dc7b8060-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:607796-1,wfo-0000679591,3685976,,
+f51d2524-8fcc-11eb-924d-9cd76263cbd0,species,vagum,Erythropalum,,Mast.,0,1875,,"Fl. Brit. India 1: 578 (1875)",,,Q6144451,dc7b8060-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:607796-1,wfo-0000679591,3685976,,

@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1b22eee-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysogonum,,,L.,0,,,"Sp. Pl. : 920 (1753)",,,,,,urn:lsid:ipni.org:names:8291-1,wfo-4000008211,3152025,,
+e1b22eee-8fd1-11eb-924d-9cd76263cbd0,genus,Chrysogonum,,,L.,0,1753,,"Sp. Pl. : 920 (1753)",,,,,,urn:lsid:ipni.org:names:8291-1,wfo-4000008211,3152025,,
 b216855c-8fb5-11eb-924d-9cd76263cbd0,species,album,Chrysogonum,,F.Br.,0,1935,,"Bull. Bernice P. Bishop Mus. 130: 342 (1935)",,,,,,urn:lsid:ipni.org:names:194054-1,wfo-0000081082,3095746,,
 b803cfc6-8fd1-11eb-924d-9cd76263cbd0,species,arnottiana,Chrysogonum,,C.B.Clarke,0,,,,,,,,,,wfo-0001239281,,,
 be5cbdb6-8fb7-11eb-924d-9cd76263cbd0,species,arnottianum,Chrysogonum,,C.B.Clarke,0,1876,,"Compos. Ind. : 132 (1876)",,,,,,urn:lsid:ipni.org:names:194055-1,wfo-0000102705,3150691,,
-7f537d0c-8fb8-11eb-924d-9cd76263cbd0,species,australe,Chrysogonum,,"Alexander ex Small",0,,,"Man. S.E. Fl. : 1415 (1933)",,,,,,urn:lsid:ipni.org:names:57667-2,wfo-0000109918,4232810,,
+7f537d0c-8fb8-11eb-924d-9cd76263cbd0,species,australe,Chrysogonum,,"Alexander ex Small",0,1933,,"Man. S.E. Fl. : 1415 (1933)",,,,,,urn:lsid:ipni.org:names:57667-2,wfo-0000109918,4232810,,
 fe9f7896-8fb2-11eb-924d-9cd76263cbd0,species,coriaceum,Chrysogonum,,F.Br.,0,1935,,"Bull. Bernice P. Bishop Mus. 130: 344 (1935)",,,,,,urn:lsid:ipni.org:names:194057-1,wfo-0000039226,3106398,,
 4d945f04-8fb6-11eb-924d-9cd76263cbd0,species,dichotomum,Chrysogonum,,Vahl,0,1793,,"Unknown 303; DC. Prod. v. 510.",,,,,,urn:lsid:ipni.org:names:194058-1,wfo-0000087972,4232802,,
 c2b84cae-8fb2-11eb-924d-9cd76263cbd0,species,diotostephus,Chrysogonum,,DC.,0,1793,,"Unknown : 303",,,,,,urn:lsid:ipni.org:names:194059-1,wfo-0000033794,4232797,,
@@ -22,5 +22,5 @@ bcd1820c-8fbb-11eb-924d-9cd76263cbd0,species,trichodesmoides,Chrysogonum,,"(F.Mu
 ef1a4650-8fba-11eb-924d-9cd76263cbd0,species,virginianum,Chrysogonum,,L.,0,1753,,"Sp. Pl. : 920 (1753)",,,,,,urn:lsid:ipni.org:names:274580-2,wfo-0000130508,3152026,,
 2df0b942-8fb4-11eb-924d-9cd76263cbd0,variety,australe,Chrysogonum,virginianum,"(Alexander ex Small) H.E.Ahles",0,1964,,"J. Elisha Mitchell Sci. Soc. 80: 173 (1964)",,,,7f537d0c-8fb8-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:57669-2,wfo-0000061125,4232724,,
 e6ffb13a-8fb5-11eb-924d-9cd76263cbd0,variety,brevistolon,Chrysogonum,virginianum,G.L.Nesom,0,2001,,"Sida 19(4): 817 (2001).",,Q91201744,,,,urn:lsid:ipni.org:names:20005149-1,wfo-0000083478,4232715,,
-45151d3a-8fb8-11eb-924d-9cd76263cbd0,variety,dentatum,Chrysogonum,virginianum,A.Gray,0,1882,,"Bot. Gaz. 7: 31 (1882)",,Q55758231,,,,urn:lsid:ipni.org:names:322165-2,wfo-0000107825,4232709,,
+45151d3a-8fb8-11eb-924d-9cd76263cbd0,variety,dentatum,Chrysogonum,virginianum,A.Gray,0,1882,,"Bot. Gaz. 7: 31 (1882)",,Q55758231,Q894627,,,urn:lsid:ipni.org:names:322165-2,wfo-0000107825,4232709,,
 e14ea74e-1d47-11ec-82c2-f14daa6f2d93,variety,virginianum,Chrysogonum,virginianum,L.,,,,,,,,,,,wfo-0000106868,,,

@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 df3ccd72-8fd1-11eb-924d-9cd76263cbd0,genus,Amphibromus,,,Nees,0,1843,,"London J. Bot. 2: 420 (1843)",,,,,,urn:lsid:ipni.org:names:304128-2,wfo-4000001695,6430839,,
 485b91e4-8fcd-11eb-924d-9cd76263cbd0,species,archeri,Amphibromus,,"(Hook.f.) P.Morris",0,1934,,"Vict. Naturalist 51: 146 (1934)",,,,,,urn:lsid:ipni.org:names:387263-1,wfo-0000845821,7324598,,
-7607ce2e-1d4d-11ec-82c2-f14daa6f2d93,variety,archeri,Amphibromus,archeri,"(Hook.f.) P.Morris",,,,"Vict. Naturalist 51  1934",,,,,,urn:lsid:ipni.org:names:111020-3,wfo-0001391778,,,
-6610884e-1d4d-11ec-82c2-f14daa6f2d93,variety,papillosus,Amphibromus,archeri,P.Morris,,,,"Vict. Naturalist 51: 147 (1934)",,,,,,urn:lsid:ipni.org:names:111036-3,wfo-0001371046,,,
+7607ce2e-1d4d-11ec-82c2-f14daa6f2d93,variety,archeri,Amphibromus,archeri,"(Hook.f.) P.Morris",,1934,,"Vict. Naturalist 51  1934",,,,,,urn:lsid:ipni.org:names:111020-3,wfo-0001391778,,,
+6610884e-1d4d-11ec-82c2-f14daa6f2d93,variety,papillosus,Amphibromus,archeri,P.Morris,,1934,,"Vict. Naturalist 51: 147 (1934)",,,,,,urn:lsid:ipni.org:names:111036-3,wfo-0001371046,,,
 485baecc-8fcd-11eb-924d-9cd76263cbd0,species,fluitans,Amphibromus,,Kirk,0,1884,,"Trans. & Proc. New Zealand Inst. 16: 374 (1884)",,,,,,urn:lsid:ipni.org:names:387264-1,wfo-0000845822,4105765,,
 485bca24-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Amphibromus,,P.Morris,0,1934,,"Vict. Naturalist 51: 145 (1934)",,,,,,urn:lsid:ipni.org:names:387265-1,wfo-0000845823,4105753,,
 485c0250-8fcd-11eb-924d-9cd76263cbd0,species,macrorhinus,Amphibromus,,"S.W.L.Jacobs & Lapinpuro",0,1986,,"Telopea 2: 723 (1986)",,Q55800109,,,,urn:lsid:ipni.org:names:930248-1,wfo-0000845825,4105740,,
@@ -15,6 +15,6 @@ df3ccd72-8fd1-11eb-924d-9cd76263cbd0,genus,Amphibromus,,,Nees,0,1843,,"London J.
 485cc726-8fcd-11eb-924d-9cd76263cbd0,variety,indigestus,Amphibromus,scabrivalvis,Nicora,0,1973,,"Darwiniana 18: 101 (1973)",,Q104174791,,,,urn:lsid:ipni.org:names:11518-2,wfo-0000845832,4105612,,
 485ce18e-8fcd-11eb-924d-9cd76263cbd0,species,sinuatus,Amphibromus,,"S.W.L.Jacobs & Lapinpuro",0,1986,,"Telopea 2: 727 (1986)",,Q55800109,,,,urn:lsid:ipni.org:names:930251-1,wfo-0000845833,4105599,,
 485cfe4e-8fcd-11eb-924d-9cd76263cbd0,species,vickeryae,Amphibromus,,"S.W.L.Jacobs & Lapinpuro",0,1986,,"Telopea 2: 725 (1986)",,Q55800109,,,,urn:lsid:ipni.org:names:930250-1,wfo-0000845834,4105585,,
-485d376a-8fcd-11eb-924d-9cd76263cbd0,species,whitei,Amphibromus,,C.E.Hubb.,0,1941,,"Bull. Misc. Inform. Kew 1941: 30 (1941)",,Q55777840,,,,urn:lsid:ipni.org:names:387271-1,wfo-0000845836,4105572,,
+485d376a-8fcd-11eb-924d-9cd76263cbd0,species,whitei,Amphibromus,,C.E.Hubb.,0,1941,,"Bull. Misc. Inform. Kew 1941: 30 (1941)",,Q55777840,Q5735532,,,urn:lsid:ipni.org:names:387271-1,wfo-0000845836,4105572,,
 09baf6c0-8fb7-11eb-924d-9cd76263cbd0,species,fruticosa,Amphicalea,,Gardner,0,1848,,"London J. Bot. 7: 412 (1848)",,,,,,urn:lsid:ipni.org:names:272082-2,wfo-0000095729,3147551,,
 f705e540-8fb5-11eb-924d-9cd76263cbd0,species,gentianoides,Amphicalea,,Gardner,0,1848,,"London J. Bot. 7: 412 (1848)",,,,,,urn:lsid:ipni.org:names:176240-1,wfo-0000084188,3147466,,

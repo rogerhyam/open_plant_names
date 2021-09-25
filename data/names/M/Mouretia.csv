@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e6f04a08-8fd1-11eb-924d-9cd76263cbd0,genus,Mouretia,,,Pit.,0,1922,,"Fl. Indo-Chine 3: 71 (1922)",,,,,,urn:lsid:ipni.org:names:34943-1,wfo-4000024921,2899632,,
-e4c3b89c-8fcb-11eb-924d-9cd76263cbd0,species,guangdongensis,Mouretia,,H.S.Lo,0,1998,,"Bull. Bot. Res., Harbin 18: 282 (1998)",,Q96107917,,,,urn:lsid:ipni.org:names:1007334-1,wfo-0000246398,5336458,,
+e6f04a08-8fd1-11eb-924d-9cd76263cbd0,genus,Mouretia,,,Pit.,0,1922,,"Fl. Indo-Chine 3: 71 (1922)",,,Q5397579,,,urn:lsid:ipni.org:names:34943-1,wfo-4000024921,2899632,,
+e4c3b89c-8fcb-11eb-924d-9cd76263cbd0,species,guangdongensis,Mouretia,,H.S.Lo,0,1998,,"Bull. Bot. Res., Harbin 18: 282 (1998)",,Q96107917,Q55758940,,,urn:lsid:ipni.org:names:1007334-1,wfo-0000246398,5336458,,
 e4c3d3ea-8fcb-11eb-924d-9cd76263cbd0,species,inaequalis,Mouretia,,"(H.S.Lo) Tange",0,1997,,"Nordic J. Bot. 17: 127 (1997)",,Q55761726,,e4c42994-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:996886-1,wfo-0000246399,5336455,,
 e4c3efce-8fcb-11eb-924d-9cd76263cbd0,species,larsenii,Mouretia,,Tange,0,1997,,"Nordic J. Bot. 17: 128 (1997)",,Q55761726,,,,urn:lsid:ipni.org:names:996887-1,wfo-0000246400,5336454,,
-e4c40af4-8fcb-11eb-924d-9cd76263cbd0,species,tonkinensis,Mouretia,,Pit.,0,1922,,"Fl. Indo-Chine 3: 71 (1922)",,,,,,urn:lsid:ipni.org:names:756525-1,wfo-0000246401,5336457,,
-e4c42994-8fcb-11eb-924d-9cd76263cbd0,variety,inaequalis,Mouretia,tonkinensis,H.S.Lo,0,1986,,"Bull. Bot. Res., Harbin 6(4): 48 (1986)",,Q96108752,,,,urn:lsid:ipni.org:names:949390-1,wfo-0000246402,5336456,,
+e4c40af4-8fcb-11eb-924d-9cd76263cbd0,species,tonkinensis,Mouretia,,Pit.,0,1922,,"Fl. Indo-Chine 3: 71 (1922)",,,Q5397579,,,urn:lsid:ipni.org:names:756525-1,wfo-0000246401,5336457,,
+e4c42994-8fcb-11eb-924d-9cd76263cbd0,variety,inaequalis,Mouretia,tonkinensis,H.S.Lo,0,1986,,"Bull. Bot. Res., Harbin 6(4): 48 (1986)",,Q96108752,Q55758940,,,urn:lsid:ipni.org:names:949390-1,wfo-0000246402,5336456,,
 e4c494c4-8fcb-11eb-924d-9cd76263cbd0,species,vietnamensis,Mouretia,,Tange,0,1997,,"Nordic J. Bot. 17: 124 (1997)",,Q55761726,,,,urn:lsid:ipni.org:names:996885-1,wfo-0000246403,5336453,,

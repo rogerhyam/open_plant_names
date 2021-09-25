@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9a916bc-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalephora,,,Hassk.,0,1864,,"Bot. Zeitung (Berlin) 22: 58 (1864)",,,,,,urn:lsid:ipni.org:names:7329-1,wfo-4000033078,2763905,,
-9116b3ce-8fcc-11eb-924d-9cd76263cbd0,species,blumei,Rhopalephora,,Hassk.,0,1864,,"Bot. Zeitung (Berlin) 22: 59 (1864)",,,,,,urn:lsid:ipni.org:names:173057-1,wfo-0000513123,2763909,,
+e9a916bc-8fd1-11eb-924d-9cd76263cbd0,genus,Rhopalephora,,,Hassk.,0,1864,,"Bot. Zeitung (Berlin) 22: 58 (1864)",,,Q5732649,,,urn:lsid:ipni.org:names:7329-1,wfo-4000033078,2763905,,
+9116b3ce-8fcc-11eb-924d-9cd76263cbd0,species,blumei,Rhopalephora,,Hassk.,0,1864,,"Bot. Zeitung (Berlin) 22: 59 (1864)",,,Q5732649,,,urn:lsid:ipni.org:names:173057-1,wfo-0000513123,2763909,,
 9118607a-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Rhopalephora,,"(Vahl) Faden",0,1977,,"Phytologia 37: 479 (1977)",,,,,,urn:lsid:ipni.org:names:173058-1,wfo-0000513134,2763906,,
-581f87f8-1d4d-11ec-82c2-f14daa6f2d93,species,monadelpha,Rhopalephora,,"(Blume) Faden",,,,"Biosyst. Study Gen. Aneilema (Commelinaceae) 2: 394. 1975",,,,,,urn:lsid:ipni.org:names:173059-1,wfo-0001351259,,,
+581f87f8-1d4d-11ec-82c2-f14daa6f2d93,species,monadelpha,Rhopalephora,,"(Blume) Faden",,1975,,"Biosyst. Study Gen. Aneilema (Commelinaceae) 2: 394. 1975",,,,,,urn:lsid:ipni.org:names:173059-1,wfo-0001351259,,,
 911a77c0-8fcc-11eb-924d-9cd76263cbd0,species,rugosa,Rhopalephora,,"(H.Perrier) Faden",0,1977,,"Phytologia 37: 480 (1977)",,,,,,urn:lsid:ipni.org:names:173061-1,wfo-0000513149,2763931,,
 911bb586-8fcc-11eb-924d-9cd76263cbd0,species,scaberrima,Rhopalephora,,"(Blume) Faden",0,1977,,"Phytologia 37: 480 (1977)",,,,,,urn:lsid:ipni.org:names:173063-1,wfo-0000513160,2763913,,
 911d5f80-8fcc-11eb-924d-9cd76263cbd0,variety,fruticosa,Rhopalephora,scaberrima,"(Hook.f.) S.L.Vrinda & Panikkar",0,1999,,"J. Econ. Taxon. Bot. 23: 670 (1999)",,,,,,urn:lsid:ipni.org:names:1019487-1,wfo-0000513171,2763926,,

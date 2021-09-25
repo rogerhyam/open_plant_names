@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e944cb6c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterinodes,,,"Siegesb. ex Kuntze",0,1891,,"Revis. Gen. Pl. 2: 819. 1891. (5 Nov 1891)",,,,,,urn:lsid:ipni.org:names:295500-2,wfo-4000031902,7289249,,
-b454c074-8fd1-11eb-924d-9cd76263cbd0,species,orientalis,Pterinodes,,"(Hook.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,,d0ff114c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17210180-1,wfo-0001232476,7394512,,
-b4561302-8fd1-11eb-924d-9cd76263cbd0,species,sensibile,Pterinodes,,"(L.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 1891",,,,,,,wfo-0001232484,4017500,,
-9993db7a-8fbe-11eb-924d-9cd76263cbd0,species,sensibilis,Pterinodes,,"(L.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,,,,urn:lsid:ipni.org:names:213808-2,wfo-0000154853,7423583,,
-b4546dfe-8fd1-11eb-924d-9cd76263cbd0,species,struthiopteris,Pterinodes,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,,ce014de8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:213809-2,wfo-0001232473,4017483,,
-c631d98a-8fd1-11eb-924d-9cd76263cbd0,species,tripteris,Pteriphis,,Raf.,0,,,"Fl. Tellur. 4: 99 (1838)",,,,,,urn:lsid:ipni.org:names:93805-1,wfo-0001265436,3588947,,
+e944cb6c-8fd1-11eb-924d-9cd76263cbd0,genus,Pterinodes,,,"Siegesb. ex Kuntze",0,1891,,"Revis. Gen. Pl. 2: 819. 1891. (5 Nov 1891)",,,Q7318442,,,urn:lsid:ipni.org:names:295500-2,wfo-4000031902,7289249,,
+b454c074-8fd1-11eb-924d-9cd76263cbd0,species,orientalis,Pterinodes,,"(Hook.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,Q7318442,d0ff114c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17210180-1,wfo-0001232476,7394512,,
+b4561302-8fd1-11eb-924d-9cd76263cbd0,species,sensibile,Pterinodes,,"(L.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 1891",,,Q7318442,,,,wfo-0001232484,4017500,,
+9993db7a-8fbe-11eb-924d-9cd76263cbd0,species,sensibilis,Pterinodes,,"(L.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:213808-2,wfo-0000154853,7423583,,
+b4546dfe-8fd1-11eb-924d-9cd76263cbd0,species,struthiopteris,Pterinodes,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 820 (1891)",,,Q7318442,ce014de8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:213809-2,wfo-0001232473,4017483,,
+c631d98a-8fd1-11eb-924d-9cd76263cbd0,species,tripteris,Pteriphis,,Raf.,0,1838,,"Fl. Tellur. 4: 99 (1838)",,,Q5862831,,,urn:lsid:ipni.org:names:93805-1,wfo-0001265436,3588947,,

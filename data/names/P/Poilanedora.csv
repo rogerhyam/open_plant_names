@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8d4b9d0-8fd1-11eb-924d-9cd76263cbd0,genus,Poilanedora,,,Gagnep.,,,,"Bull. Soc. Bot. France 95: 27 (1948)",,,,,,urn:lsid:ipni.org:names:6000-1,wfo-4000030608,11023582,,
-43e768e6-8fcc-11eb-924d-9cd76263cbd0,species,unijuga,Poilanedora,,Gagnep.,0,1948,,"Bull. Soc. Bot. France 95: 27 (1948)",,Q54552599,,,,urn:lsid:ipni.org:names:147917-1,wfo-0000395545,3871969,,
-8b3d9146-8fba-11eb-924d-9cd76263cbd0,species,laggeroides,Poilania,,Gagnep.,0,1924,,"Bull. Soc. Bot. France 71: 56 (1924)",,,,,,urn:lsid:ipni.org:names:239074-1,wfo-0000127495,3125379,,
-f97ac38e-8fcb-11eb-924d-9cd76263cbd0,species,fragilis,Poilaniella,,Gagnep.,0,1925,,"Bull. Soc. Bot. France 72: 467 (1925)",,Q55808741,,,,urn:lsid:ipni.org:names:354990-1,wfo-0000279780,3063364,,
+e8d4b9d0-8fd1-11eb-924d-9cd76263cbd0,genus,Poilanedora,,,Gagnep.,,1948,,"Bull. Soc. Bot. France 95: 27 (1948)",,,Q5735483,,,urn:lsid:ipni.org:names:6000-1,wfo-4000030608,11023582,,
+43e768e6-8fcc-11eb-924d-9cd76263cbd0,species,unijuga,Poilanedora,,Gagnep.,0,1948,,"Bull. Soc. Bot. France 95: 27 (1948)",,Q54552599,Q5735483,,,urn:lsid:ipni.org:names:147917-1,wfo-0000395545,3871969,,
+8b3d9146-8fba-11eb-924d-9cd76263cbd0,species,laggeroides,Poilania,,Gagnep.,0,1924,,"Bull. Soc. Bot. France 71: 56 (1924)",,,Q5735483,,,urn:lsid:ipni.org:names:239074-1,wfo-0000127495,3125379,,
+f97ac38e-8fcb-11eb-924d-9cd76263cbd0,species,fragilis,Poilaniella,,Gagnep.,0,1925,,"Bull. Soc. Bot. France 72: 467 (1925)",,Q55808741,Q5735483,,,urn:lsid:ipni.org:names:354990-1,wfo-0000279780,3063364,,

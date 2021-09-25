@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e6548b40-8fd1-11eb-924d-9cd76263cbd0,genus,Manniophyton,,,Müll.Arg.,0,1864,,"J. Bot. 2: 332 (1864)",,,,,,urn:lsid:ipni.org:names:15625-1,wfo-4000023054,3072477,,
-dec8eaca-8fcb-11eb-924d-9cd76263cbd0,species,africanum,Manniophyton,,Müll.Arg.,0,1864,,"Flora 47: 531 (1864)",,,,,,urn:lsid:ipni.org:names:351975-1,wfo-0000236010,3072481,,
-dec9082a-8fcb-11eb-924d-9cd76263cbd0,variety,fulvum,Manniophyton,africanum,"(Müll.Arg.) Hutch.",0,1912,,"Fl. Trop. Afr. 6(1): 819 1912",,,,dec983e0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000236011,3072479,,
-dec948c6-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Manniophyton,,Baill.,0,1891,,"Bull. Mens. Soc. Linn. Paris 2: 952 (1891)",,,,,,urn:lsid:ipni.org:names:351976-1,wfo-0000236013,3062831,,
+dec8eaca-8fcb-11eb-924d-9cd76263cbd0,species,africanum,Manniophyton,,Müll.Arg.,0,1864,,"Flora 47: 531 (1864)",,,Q5862699,,,urn:lsid:ipni.org:names:351975-1,wfo-0000236010,3072481,,
+dec9082a-8fcb-11eb-924d-9cd76263cbd0,variety,fulvum,Manniophyton,africanum,"(Müll.Arg.) Hutch.",0,1912,,"Fl. Trop. Afr. 6(1): 819 1912",,,Q3700392,dec983e0-8fcb-11eb-924d-9cd76263cbd0,,,wfo-0000236011,3072479,,
+dec948c6-8fcb-11eb-924d-9cd76263cbd0,species,angustifolium,Manniophyton,,Baill.,0,1891,,"Bull. Mens. Soc. Linn. Paris 2: 952 (1891)",,,Q5479490,,,urn:lsid:ipni.org:names:351976-1,wfo-0000236013,3062831,,
 dec96536-8fcb-11eb-924d-9cd76263cbd0,species,chevalieri,Manniophyton,,Beille,0,1908,,"Mém. Soc. Bot. France 8: 74 (1908)",,Q55756922,,,,urn:lsid:ipni.org:names:351977-1,wfo-0000236014,3072483,,
 dec983e0-8fcb-11eb-924d-9cd76263cbd0,species,fulvum,Manniophyton,,Müll.Arg.,0,1864,,"J. Bot. 2: 332 (1864)",,,,,,urn:lsid:ipni.org:names:351978-1,wfo-0000236015,3072478,,
 dec9a35c-8fcb-11eb-924d-9cd76263cbd0,species,tricuspe,Manniophyton,,"Pierre ex A.Chev.",0,1940,,"Rev. Bot. Appl. Agric. Trop. 20: 564 (1940)",,Q96002302,,,,urn:lsid:ipni.org:names:351979-1,wfo-0000236016,3072480,,

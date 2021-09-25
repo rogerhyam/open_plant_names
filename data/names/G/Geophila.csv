@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e3f8af16-8fd1-11eb-924d-9cd76263cbd0,genus,Geophila,,,D.Don,0,1825,,"Prodr. Fl. Nepal. : 136 (1825)",,,,e3f8af16-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:331623-2,wfo-4000015539,2919183,17646," "
+e3f8af16-8fd1-11eb-924d-9cd76263cbd0,genus,Geophila,,,D.Don,0,1825,,"Prodr. Fl. Nepal. : 136 (1825)",,,Q2712448,e3f8af16-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:331623-2,wfo-4000015539,2919183,17646," "
 efd9809a-9bab-11eb-a8a2-19ed5c03f8d3,species,aeruginosa,Geophila,,"(Curtis) Quél.",0,1886,,"Enchir. fung. (Paris) 111 (1886)",,,,cda717ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,493602," "
-8df21a66-8fcd-11eb-924d-9cd76263cbd0,species,afzelii,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,,,,urn:lsid:ipni.org:names:751414-1,wfo-0000972373,5340395,,
+8df21a66-8fcd-11eb-924d-9cd76263cbd0,species,afzelii,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,Q3700392,,,urn:lsid:ipni.org:names:751414-1,wfo-0000972373,5340395,,
 8df24b08-8fcd-11eb-924d-9cd76263cbd0,species,aschersoniana,Geophila,,Büttner,0,1889,,"Verh. Bot. Vereins Prov. Brandenburg 31: 74 (1889)",,,,,,urn:lsid:ipni.org:names:751415-1,wfo-0000972374,5340372,,
 b97b40b4-8fd1-11eb-924d-9cd76263cbd0,species,aurantiaca,Geophila,,A.Chev.,0,1920,,"Explor. Bot. Afrique Occ. Franc. i. 344 (1920), nomen.",,,,,,urn:lsid:ipni.org:names:751416-1,wfo-0001241935,5597006,,
 efd9b416-9bab-11eb-a8a2-19ed5c03f8d3,species,capnoides,Geophila,,"(Fr.) Quél.",0,1886,,"Enchir. fung. (Paris) 113 (1886)",,,,abcdd490-9bac-11eb-a8a2-19ed5c03f8d3,,,,,493603," "
 f49f0e2e-9bab-11eb-a8a2-19ed5c03f8d3,species,caput-medusae,Geophila,,"(Fr.) Quél.",0,1886,,"Enchir. fung. (Paris) 112 (1886)",,,,f49ea13c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,455705," "
-8df26ba6-8fcd-11eb-924d-9cd76263cbd0,species,cecilae,Geophila,,N.E.Br.,0,1906,,"Bull. Misc. Inform. Kew 1906: 107 (1906)",,Q55782254,,,,urn:lsid:ipni.org:names:751417-1,wfo-0000972375,5340370,,
+8df26ba6-8fcd-11eb-924d-9cd76263cbd0,species,cecilae,Geophila,,N.E.Br.,0,1906,,"Bull. Misc. Inform. Kew 1906: 107 (1906)",,Q55782254,Q5735532,,,urn:lsid:ipni.org:names:751417-1,wfo-0000972375,5340370,,
 c59b95d8-9bac-11eb-a8a2-19ed5c03f8d3,species,coprophila,Geophila,,"(Bull.) anon. ined.",0,,,,,,,4a48bcf8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,356719," "
 af487926-9bad-11eb-a8a2-19ed5c03f8d3,variety,coprophila,Geophila,coprophila,"(Bull.) anon. ined.",0,,,,,,,af487926-9bad-11eb-a8a2-19ed5c03f8d3,,,,,426142," "
 2b4e12e8-9bad-11eb-a8a2-19ed5c03f8d3,variety,subcoprophila,Geophila,coprophila,"(Britzelm.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 338 (1953)",,,,f48697ea-9bab-11eb-a8a2-19ed5c03f8d3,,,,,346874," "
@@ -23,40 +23,40 @@ f2aef86c-9bac-11eb-a8a2-19ed5c03f8d3,species,crobula,Geophila,,"(Fr.) Kühner & 
 f2af76f2-9bac-11eb-a8a2-19ed5c03f8d3,species,depilata,Geophila,,"(Pers.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 336 (1953)",,,,8f6f996e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297748," "
 8df3494a-8fcd-11eb-924d-9cd76263cbd0,species,dichondrifolia,Geophila,,A.Cunn.,0,1839,,"Ann. Nat. Hist. 2: 208 (1839)",,,,,,urn:lsid:ipni.org:names:751423-1,wfo-0000972382,5339377,,
 efdaa48e-9bab-11eb-a8a2-19ed5c03f8d3,species,dispersa,Geophila,,"(Fr.) Quél.",0,1886,,"Enchir. fung. (Paris) 113 (1886)",,,,,,,,,493610," "
-8df3921a-8fcd-11eb-924d-9cd76263cbd0,species,diversifolia,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,,,,urn:lsid:ipni.org:names:751424-1,wfo-0000972383,5340380,,
+8df3921a-8fcd-11eb-924d-9cd76263cbd0,species,diversifolia,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:751424-1,wfo-0000972383,5340380,,
 f2b0f7d4-9bac-11eb-a8a2-19ed5c03f8d3,species,elongata,Geophila,,"(Pers.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 334 (1953)",,,,b38be53c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297749," "
-8df3b772-8fcd-11eb-924d-9cd76263cbd0,species,emarginata,Geophila,,K.Krause,0,1917,,"Bot. Jahrb. Syst. 54: 356 (1917)",,,,,,urn:lsid:ipni.org:names:751425-1,wfo-0000972384,5340374,,
+8df3b772-8fcd-11eb-924d-9cd76263cbd0,species,emarginata,Geophila,,K.Krause,0,1917,,"Bot. Jahrb. Syst. 54: 356 (1917)",,,Q5732642,,,urn:lsid:ipni.org:names:751425-1,wfo-0000972384,5340374,,
 74b8bc8a-8fcd-11eb-924d-9cd76263cbd0,species,erythrocarpa,Geophila,,"Vanth. & Dessein",0,2011,,"Blumea 56: 149 (2011)",,Q55792041,,,,urn:lsid:ipni.org:names:77112875-1,wfo-0000920296,7766098,,
 8df3d3d8-8fcd-11eb-924d-9cd76263cbd0,species,exigua,Geophila,,H.L.Li,0,1944,,"J. Arnold Arbor. 25: 429 (1944)",,Q100559166,,,,urn:lsid:ipni.org:names:751426-1,wfo-0000972385,5340969,,
 f491ca70-9bab-11eb-a8a2-19ed5c03f8d3,species,fascicularis,Geophila,,"(Huds.) Quél.",0,1886,,"Enchir. fung. (Paris) 113 (1886)",,,,,,,,,453198," "
-8df3f296-8fcd-11eb-924d-9cd76263cbd0,species,fissistipula,Geophila,,K.Krause,0,1907,,"Bot. Jahrb. Syst. 39: 566 (1907)",,,,,,urn:lsid:ipni.org:names:751427-1,wfo-0000972386,5340231,,
-8df4114a-8fcd-11eb-924d-9cd76263cbd0,species,flaviflora,Geophila,,"Aké Assi",0,1961,,"Bull. Jard. Bot. État Bruxelles 31: 316 (1961)",,Q55775996,,,,urn:lsid:ipni.org:names:751428-1,wfo-0000972387,5340362,,
+8df3f296-8fcd-11eb-924d-9cd76263cbd0,species,fissistipula,Geophila,,K.Krause,0,1907,,"Bot. Jahrb. Syst. 39: 566 (1907)",,,Q5732642,,,urn:lsid:ipni.org:names:751427-1,wfo-0000972386,5340231,,
+8df4114a-8fcd-11eb-924d-9cd76263cbd0,species,flaviflora,Geophila,,"Aké Assi",0,1961,,"Bull. Jard. Bot. État Bruxelles 31: 316 (1961)",,Q55775996,Q5735521,,,urn:lsid:ipni.org:names:751428-1,wfo-0000972387,5340362,,
 8df42c48-8fcd-11eb-924d-9cd76263cbd0,species,gerrardii,Geophila,,Baker,0,1885,,"J. Linn. Soc., Bot. 21: 413 (1885)",,Q55760266,,,,urn:lsid:ipni.org:names:751429-1,wfo-0000972388,5340355,,
-8df44944-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,,,,urn:lsid:ipni.org:names:751430-1,wfo-0000972389,5340391,,
+8df44944-8fcd-11eb-924d-9cd76263cbd0,species,gracilis,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:751430-1,wfo-0000972389,5340391,,
 8df46636-8fcd-11eb-924d-9cd76263cbd0,species,herbacea,Geophila,,"(Jacq.) K.Schum.",0,1891,,"Nat. Pflanzenfam. 4(4): 119 (1891)",,,,fd8e490a-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1211972-2,wfo-0000972390,5340387,,
-8df4a0b0-8fcd-11eb-924d-9cd76263cbd0,variety,violifolia,Geophila,herbacea,"Chodat & Hassl.",0,1904,,"Bull. Herb. Boissier , sér. 2, 4: 180 (1904)",,,,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:109015-2,wfo-0000972392,5340378,,
+8df4a0b0-8fcd-11eb-924d-9cd76263cbd0,variety,violifolia,Geophila,herbacea,"Chodat & Hassl.",0,1904,,"Bull. Herb. Boissier , sér. 2, 4: 180 (1904)",,,Q2378336,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:109015-2,wfo-0000972392,5340378,,
 8df4c59a-8fcd-11eb-924d-9cd76263cbd0,species,hirsuta,Geophila,,Benth.,0,1849,,"Niger Fl. : 422 (1849)",,,,,,urn:lsid:ipni.org:names:751433-1,wfo-0000972393,5340229,,
-8df4e2dc-8fcd-11eb-924d-9cd76263cbd0,form,brevifolia,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 189 1907",,,,,,,wfo-0000972394,5340227,,
-8df5014a-8fcd-11eb-924d-9cd76263cbd0,variety,hirsutissima,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 188 1907",,,,,,,wfo-0000972395,5340230,,
-8df51cc0-8fcd-11eb-924d-9cd76263cbd0,form,stricta,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 188 1907",,,,,,,wfo-0000972396,5340228,,
+8df4e2dc-8fcd-11eb-924d-9cd76263cbd0,form,brevifolia,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 189 1907",,,Q5696362,,,,wfo-0000972394,5340227,,
+8df5014a-8fcd-11eb-924d-9cd76263cbd0,variety,hirsutissima,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 188 1907",,,Q5696362,,,,wfo-0000972395,5340230,,
+8df51cc0-8fcd-11eb-924d-9cd76263cbd0,form,stricta,Geophila,hirsuta,"De Wild.",0,1907,,"Ann. Mus. Congo Belge, Bot. V, 2: 188 1907",,,Q5696362,,,,wfo-0000972396,5340228,,
 8df53a48-8fcd-11eb-924d-9cd76263cbd0,species,hirta,Geophila,,Korth.,0,1851,,"Ned. Kruidk. Arch. 2(2): 247 (1851)",,,,,,urn:lsid:ipni.org:names:751434-1,wfo-0000972397,5340397,,
 8df55834-8fcd-11eb-924d-9cd76263cbd0,species,hostmanniana,Geophila,,Miq.,0,1851,,"Stirp. Surinam. Select. : 176 (1851)",,,,,,urn:lsid:ipni.org:names:751435-1,wfo-0000972398,5340404,,
 8df5759e-8fcd-11eb-924d-9cd76263cbd0,species,humifusa,Geophila,,"King & Gamble",0,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 102 (1904)",,,,,,urn:lsid:ipni.org:names:751436-1,wfo-0000972399,5340358,,
 8df593da-8fcd-11eb-924d-9cd76263cbd0,species,hydrocotyloides,Geophila,,"Zipp. ex Span.",0,1841,,"Linnaea 15: 319 (1841)",,,,,,urn:lsid:ipni.org:names:751437-1,wfo-0000972400,5340392,,
 f2b18780-9bac-11eb-a8a2-19ed5c03f8d3,species,hyperella,Geophila,,"(Fr.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 339 (1953)",,,,7a0ac486-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297750," "
-8df5bb12-8fcd-11eb-924d-9cd76263cbd0,species,ingens,Geophila,,Wernham,0,,,"J. Bot. 54: 2227 (1916)",,,,,,urn:lsid:ipni.org:names:751438-1,wfo-0000972401,5340373,,
+8df5bb12-8fcd-11eb-924d-9cd76263cbd0,species,ingens,Geophila,,Wernham,0,1916,,"J. Bot. 54: 2227 (1916)",,,,,,urn:lsid:ipni.org:names:751438-1,wfo-0000972401,5340373,,
 f2b1eb94-9bac-11eb-a8a2-19ed5c03f8d3,species,inquilina,Geophila,,"(Fr.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 339 (1953)",,,,8b6bdb3e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297751," "
 efdbcaa8-9bab-11eb-a8a2-19ed5c03f8d3,species,inuncta,Geophila,,"(Fr.) Quél.",0,1886,,"Enchir. fung. (Paris) 111 (1886)",,,,f5366f1c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,493618," "
-8df633e4-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Geophila,,"Schweinf. ex Hiern",0,1877,,"Fl. Trop. Afr. 3: 222 (1877)",,,,,,urn:lsid:ipni.org:names:751439-1,wfo-0000972403,5340366,,
+8df633e4-8fcd-11eb-924d-9cd76263cbd0,species,involucrata,Geophila,,"Schweinf. ex Hiern",0,1877,,"Fl. Trop. Afr. 3: 222 (1877)",,,Q3700392,,,urn:lsid:ipni.org:names:751439-1,wfo-0000972403,5340366,,
 8df65414-8fcd-11eb-924d-9cd76263cbd0,species,ioides,Geophila,,K.Schum.,0,1895,,"Pflanzenw. Ost-Afrikas , C: 392 (1895)",,,,,,urn:lsid:ipni.org:names:751440-1,wfo-0000972404,5340369,,
-8df670f2-8fcd-11eb-924d-9cd76263cbd0,species,lancistipula,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,,,,urn:lsid:ipni.org:names:751441-1,wfo-0000972405,5340360,,
-8df68ec0-8fcd-11eb-924d-9cd76263cbd0,species,leucocarpa,Geophila,,K.Krause,0,1917,,"Bot. Jahrb. Syst. 54: 357 (1917)",,,,,,urn:lsid:ipni.org:names:751442-1,wfo-0000972406,5336501,,
+8df670f2-8fcd-11eb-924d-9cd76263cbd0,species,lancistipula,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,Q3700392,,,urn:lsid:ipni.org:names:751441-1,wfo-0000972405,5340360,,
+8df68ec0-8fcd-11eb-924d-9cd76263cbd0,species,leucocarpa,Geophila,,K.Krause,0,1917,,"Bot. Jahrb. Syst. 54: 357 (1917)",,,Q5732642,,,urn:lsid:ipni.org:names:751442-1,wfo-0000972406,5336501,,
 8df6acf2-8fcd-11eb-924d-9cd76263cbd0,species,liberica,Geophila,,A.Chev.,0,1931,,"Explor. Bot. Afrique Occ. Franc. i. 345 (1920), nomen.",,,,,,urn:lsid:ipni.org:names:751443-1,wfo-0000972407,5340235,,
 9c02d3b6-9bad-11eb-a8a2-19ed5c03f8d3,species,lilaceifolia,Geophila,,"R. Heim",,,,,,,,9c02d3b6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331250," "
 b97b5d4c-8fd1-11eb-924d-9cd76263cbd0,species,lutea,Geophila,,A.Chev.,0,1920,,"Explor. Bot. Afrique Occ. Franc. i. 345 (1920), nomen.",,,,,,urn:lsid:ipni.org:names:751445-1,wfo-0001241936,5596998,,
 efdbfb2c-9bab-11eb-a8a2-19ed5c03f8d3,species,luteonitens,Geophila,,"(Fr.) Quél.",0,1886,,"Enchir. fung. (Paris) 111 (1886)",,,,f00a6d68-9bab-11eb-a8a2-19ed5c03f8d3,,,,,493619," "
 83a00876-1d4d-11ec-82c2-f14daa6f2d93,species,macrocarpa,Geophila,,(Müll.Arg.),,,,Unknown,,,,,,urn:lsid:ipni.org:names:77176967-1,wfo-0001427983,,,
-8df6c98a-8fcd-11eb-924d-9cd76263cbd0,species,macropoda,Geophila,,"(Ruiz & Pav.) DC.",0,1830,,"Prodr. 4: 537 (1830)",,,,fdf24d60-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1080914-2,wfo-0000972408,5340375,,
+8df6c98a-8fcd-11eb-924d-9cd76263cbd0,species,macropoda,Geophila,,"(Ruiz & Pav.) DC.",0,1830,,"Prodr. 4: 537 (1830)",,,Q2712448,fdf24d60-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1080914-2,wfo-0000972408,5340375,,
 d7db11c8-8fcd-11eb-924d-9cd76263cbd0,species,macrosperma,Geophila,,DC.,0,,,,,,,,,,wfo-0001132582,7379131,,
 8df6e41a-8fcd-11eb-924d-9cd76263cbd0,species,matthewii,Geophila,,Ridl.,0,1934,,"J. Bot. 72: 275 (1934)",,,,,,urn:lsid:ipni.org:names:751447-1,wfo-0000972409,5340363,,
 8df70170-8fcd-11eb-924d-9cd76263cbd0,species,melanocarpa,Geophila,,Ridl.,0,1893,,"Trans. Linn. Soc. London, Bot. 3: 313 (1893)",,Q55760360,,,,urn:lsid:ipni.org:names:751448-1,wfo-0000972410,5340356,,
@@ -70,32 +70,32 @@ ef932064-9bab-11eb-a8a2-19ed5c03f8d3,species,merdaria,Geophila,,"(Fr.) Quél.",0
 8df7e1da-8fcd-11eb-924d-9cd76263cbd0,subspecies,involucrata,Geophila,obvallata,"(Hiern) Verdc.",0,1975,,"Kew Bull. 30: 267 (1975)",,Q55778431,,8df633e4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:890357-1,wfo-0000972417,5340365,,
 8df7fd3c-8fcd-11eb-924d-9cd76263cbd0,subspecies,ioides,Geophila,obvallata,"(K.Schum.) Verdc.",0,1975,,"Kew Bull. 30: 267 (1975)",,Q55778431,,8df65414-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:890358-1,wfo-0000972418,5340368,,
 92b78abc-1d4a-11ec-82c2-f14daa6f2d93,subspecies,obvallata,Geophila,obvallata,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77168499-1,wfo-0000972419,,,
-5f3fcb10-1d4d-11ec-82c2-f14daa6f2d93,subspecies,pilosa,Geophila,obvallata,Figueiredo,,,,"Bot. J. Linn. Soc. 156: 559 (2008)",,,,,,urn:lsid:ipni.org:names:77089416-1,wfo-0001361272,,,
+5f3fcb10-1d4d-11ec-82c2-f14daa6f2d93,subspecies,pilosa,Geophila,obvallata,Figueiredo,,2008,,"Bot. J. Linn. Soc. 156: 559 (2008)",,,Q2975482,,,urn:lsid:ipni.org:names:77089416-1,wfo-0001361272,,,
 8df878de-8fcd-11eb-924d-9cd76263cbd0,species,orbicularis,Geophila,,"(Müll.Arg.) Steyerm.",0,1972,,"Mem. New York Bot. Gard. 23: 397 (1972)",,,,,,urn:lsid:ipni.org:names:109017-2,wfo-0000972420,5340398,,
 7e3b2c0c-1d49-11ec-82c2-f14daa6f2d93,variety,orbicularis,Geophila,orbicularis,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77169423-1,wfo-0000620293,,,
 8df8ac3c-8fcd-11eb-924d-9cd76263cbd0,species,paraensis,Geophila,,"Huber ex Standl.",0,1930,,"Publ. Field Columb. Mus., Bot. Ser. 8: 180 (1930)",,,,,,urn:lsid:ipni.org:names:751454-1,wfo-0000972421,5340663,,
 f2b23356-9bac-11eb-a8a2-19ed5c03f8d3,species,phillipsii,Geophila,,"(Berk. & Broome) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 334 (1953)",,,,f61795c8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,297752," "
-8df8eb16-8fcd-11eb-924d-9cd76263cbd0,species,picta,Geophila,,Rolfe,0,1896,,"Bull. Misc. Inform. Kew 1896: 18 (1896)",,Q55787740,,,,urn:lsid:ipni.org:names:109019-2,wfo-0000972423,5340664,,
-8df90934-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Geophila,,H.Pearson,0,,,"Hooker's Icon. Pl. 27: t. 2691 (1901)",,,,,,urn:lsid:ipni.org:names:751456-1,wfo-0000972424,5340359,,
-8df9269e-8fcd-11eb-924d-9cd76263cbd0,species,pleuropoda,Geophila,,Donn.Sm.,0,1911,,"Bot. Gaz. 52: 50 (1911)",,Q55758632,,,,urn:lsid:ipni.org:names:109020-2,wfo-0000972425,5338309,,
+8df8eb16-8fcd-11eb-924d-9cd76263cbd0,species,picta,Geophila,,Rolfe,0,1896,,"Bull. Misc. Inform. Kew 1896: 18 (1896)",,Q55787740,Q5735532,,,urn:lsid:ipni.org:names:109019-2,wfo-0000972423,5340664,,
+8df90934-8fcd-11eb-924d-9cd76263cbd0,species,pilosa,Geophila,,H.Pearson,0,1901,,"Hooker's Icon. Pl. 27: t. 2691 (1901)",,,,,,urn:lsid:ipni.org:names:751456-1,wfo-0000972424,5340359,,
+8df9269e-8fcd-11eb-924d-9cd76263cbd0,species,pleuropoda,Geophila,,Donn.Sm.,0,1911,,"Bot. Gaz. 52: 50 (1911)",,Q55758632,Q894627,,,urn:lsid:ipni.org:names:109020-2,wfo-0000972425,5338309,,
 f2b26ae2-9bac-11eb-a8a2-19ed5c03f8d3,species,polytrichi,Geophila,,"(Fr.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 334 (1953)",,,,f48137aa-9bab-11eb-a8a2-19ed5c03f8d3,,,,,297753," "
 8df943c2-8fcd-11eb-924d-9cd76263cbd0,species,prancei,Geophila,,Steyerm.,0,1972,,"Mem. New York Bot. Gard. 23: 393 (1972)",,,,,,urn:lsid:ipni.org:names:109021-2,wfo-0000972426,5340361,,
 24cb6bf0-8fcd-11eb-924d-9cd76263cbd0,species,pyrenaica,Geophila,,Bergeret,0,1803,,"Fl. Basses-Pyrenees ii. 184 (1803).",,,,,,urn:lsid:ipni.org:names:535917-1,wfo-0000769147,5294798,,
-8df96172-8fcd-11eb-924d-9cd76263cbd0,species,renaris,Geophila,,"De Wild. & T.Durand",0,1899,,"Ann. Mus. Congo Belge, Bot. , sér. 2, 1(1): 29 (1899)",,,,,,urn:lsid:ipni.org:names:751460-1,wfo-0000972427,5340353,,
+8df96172-8fcd-11eb-924d-9cd76263cbd0,species,renaris,Geophila,,"De Wild. & T.Durand",0,1899,,"Ann. Mus. Congo Belge, Bot. , sér. 2, 1(1): 29 (1899)",,,Q5696362,,,urn:lsid:ipni.org:names:751460-1,wfo-0000972427,5340353,,
 8df98a1c-8fcd-11eb-924d-9cd76263cbd0,species,reniformis,Geophila,,"Cham. & Schltdl.",0,1829,,"Linnaea 4: 137. 1829",,,,,,urn:lsid:ipni.org:names:751462-1,wfo-0000972428,5340385,,
-8df9b1d6-8fcd-11eb-924d-9cd76263cbd0,species,reniformis,Geophila,,D.Don,0,1825,,"Prodr. Fl. Nepal. : 136 (1825)",,,,,,urn:lsid:ipni.org:names:109022-2,wfo-0000972429,7414725,,
+8df9b1d6-8fcd-11eb-924d-9cd76263cbd0,species,reniformis,Geophila,,D.Don,0,1825,,"Prodr. Fl. Nepal. : 136 (1825)",,,Q2712448,,,urn:lsid:ipni.org:names:109022-2,wfo-0000972429,7414725,,
 30c71896-8fcd-11eb-924d-9cd76263cbd0,variety,americana,Geophila,reniformis,Schltdl.,0,1829,,"Linnaea 4: 137 (1829)",,,,,,urn:lsid:ipni.org:names:109023-2,wfo-0000795520,5340384,,
 8df9db34-8fcd-11eb-924d-9cd76263cbd0,variety,asiatica,Geophila,reniformis,"Cham. & Schltdl.",0,1829,,"Linnaea 4: 1829",,,,,,,wfo-0000972430,5340381,,
 8df9f86c-8fcd-11eb-924d-9cd76263cbd0,species,repens,Geophila,,"(L.) I.M.Johnst.",0,1949,,"Sargentia 8: 281 (1949)",,,,,,urn:lsid:ipni.org:names:109024-2,wfo-0000972431,5340379,454993," "
 8dfa16f8-8fcd-11eb-924d-9cd76263cbd0,variety,asiatica,Geophila,repens,"(Cham. & Schlechtendal) Fosberg",0,1980,,"Smithsonian Contr. Bot. 45: 27 (1980)",,Q55798925,,8df9db34-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:890360-1,wfo-0000972432,5340386,,
 1c992cd4-8fcc-11eb-924d-9cd76263cbd0,subspecies,reniformis,Geophila,repens,"(D.Don) M.R.Almeida",0,2001,,"Fl. Maharashtra 3A: 16 (2001)",,,,,,urn:lsid:ipni.org:names:20008431-1,wfo-0000336189,5340382,,
-8dfa50aa-8fcd-11eb-924d-9cd76263cbd0,variety,violifolia,Geophila,repens,"(Kunth) Chodat & Hassl.",0,1904,,"Bull. Herb. Boissier , sér. 2, 4: 180 (1904)",,,,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1128683-2,wfo-0000972434,5340377,,
+8dfa50aa-8fcd-11eb-924d-9cd76263cbd0,variety,violifolia,Geophila,repens,"(Kunth) Chodat & Hassl.",0,1904,,"Bull. Herb. Boissier , sér. 2, 4: 180 (1904)",,,Q2378336,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1128683-2,wfo-0000972434,5340377,,
 f2b2bce0-9bac-11eb-a8a2-19ed5c03f8d3,species,rhombispora,Geophila,,"(Britzelm.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 338 (1953)",,,,5c44f7ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,297754," "
 8dfa6f68-8fcd-11eb-924d-9cd76263cbd0,species,rotundifolia,Geophila,,"A.Chev. ex Hepper",0,1962,,"Kew Bull. 16: 331 (1962)",,Q43257572,,,,urn:lsid:ipni.org:names:751465-1,wfo-0000972435,5340234,,
 f2b307a4-9bac-11eb-a8a2-19ed5c03f8d3,species,rugosoannulata,Geophila,,"(Farl. ex Murrill) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 336 (1953)",,,,5bc0298a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297755," "
 8dfa8f7a-8fcd-11eb-924d-9cd76263cbd0,species,scortechinii,Geophila,,King,0,1904,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 73: 104 (1904)",,,,,,urn:lsid:ipni.org:names:751466-1,wfo-0000972436,5340394,,
 5aa5b1a0-9bac-11eb-a8a2-19ed5c03f8d3,species,semiglobata,Geophila,,"(Batsch) Quél.",0,1886,,"Enchir. fung. (Paris) 112 (1886)",,,,03429d92-9bac-11eb-a8a2-19ed5c03f8d3,,,,,493664," "
-8dfabffe-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Geophila,,K.Schum.,0,1897,,"Bot. Jahrb. Syst. 23: 466 (1897)",,,,,,urn:lsid:ipni.org:names:751467-1,wfo-0000972437,5340371,,
+8dfabffe-8fcd-11eb-924d-9cd76263cbd0,species,speciosa,Geophila,,K.Schum.,0,1897,,"Bot. Jahrb. Syst. 23: 466 (1897)",,,Q5732642,,,urn:lsid:ipni.org:names:751467-1,wfo-0000972437,5340371,,
 76025fa6-9bad-11eb-a8a2-19ed5c03f8d3,species,squamosa,Geophila,,"(Pers.) Quél.",0,1886,,"Enchir. fung. (Paris) 111 (1886)",,,,,,,,,493712," "
 efa95348-9bab-11eb-a8a2-19ed5c03f8d3,species,stercoraria,Geophila,,"(Schumach.) Quél.",0,1886,,"Enchir. fung. (Paris) 112 (1886)",,,,,,,,,491899," "
 f2b34a66-9bac-11eb-a8a2-19ed5c03f8d3,species,subericaea,Geophila,,"(Fr.) Kühner & Romagn.",0,1953,,"Fl. Analyt. Champ. Supér. (Paris) 334 (1953)",,,,f486caf8-9bab-11eb-a8a2-19ed5c03f8d3,,,,,297756," "
@@ -104,12 +104,12 @@ f2b34a66-9bac-11eb-a8a2-19ed5c03f8d3,species,subericaea,Geophila,,"(Fr.) Kühner
 8dfb12d8-8fcd-11eb-924d-9cd76263cbd0,species,tenuis,Geophila,,Standl.,0,1930,,"Publ. Field Columb. Mus., Bot. Ser. 7: 77 (1930)",,,,,,urn:lsid:ipni.org:names:109025-2,wfo-0000972438,5340357,,
 8dfb3510-8fcd-11eb-924d-9cd76263cbd0,species,trichogyne,Geophila,,"(Müll.Arg.) Standl.",0,1931,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 7: 423. 1931",,,,,,urn:lsid:ipni.org:names:751469-1,wfo-0000972439,5340403,,
 c2f60110-9bac-11eb-a8a2-19ed5c03f8d3,species,turficola,Geophila,,"(J. Favre) Kühner & Romagn.",,1953,,"Fl. Analyt. Champ. Supér. (Paris) 337 (1953)",,,,d3a54692-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297758," "
-5bab3930-1d4d-11ec-82c2-f14daa6f2d93,species,ubanghensis,Geophila,,A.Chev.,,,,"Etudes Fl. Afr. Centr. Franc. i. 162 (1913), nomen.",,,,,,urn:lsid:ipni.org:names:751470-1,wfo-0001355979,,,
+5bab3930-1d4d-11ec-82c2-f14daa6f2d93,species,ubanghensis,Geophila,,A.Chev.,,1913,,"Etudes Fl. Afr. Centr. Franc. i. 162 (1913), nomen.",,,,,,urn:lsid:ipni.org:names:751470-1,wfo-0001355979,,,
 c2f63752-9bac-11eb-a8a2-19ed5c03f8d3,species,umbonatescens,Geophila,,"(Peck) Kühner & Romagn.",0,,,,,,,bcf582b8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297759," "
-8dfb5342-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,,,,urn:lsid:ipni.org:names:751471-1,wfo-0000972440,5340383,,
+8dfb5342-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Geophila,,Hiern,0,1877,,"Fl. Trop. Afr. 3: 221 (1877)",,,Q3700392,,,urn:lsid:ipni.org:names:751471-1,wfo-0000972440,5340383,,
 8dfb7034-8fcd-11eb-924d-9cd76263cbd0,species,uniflora,Geophila,,Span.,0,1841,,"Linnaea 15: 319 (1841)",,,,,,urn:lsid:ipni.org:names:751472-1,wfo-0000972441,7776806,,
 2ae68ee4-9bac-11eb-a8a2-19ed5c03f8d3,species,velifera,Geophila,,"J. Favre",,1955,,"Ergebn. wiss. Unters. schweiz. NatnParks 5: 33 (1955)",,,,2ae68ee4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,297760," "
-8dfb9eba-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,,,,urn:lsid:ipni.org:names:751473-1,wfo-0000972442,5340631,,
-8dfbc584-8fcd-11eb-924d-9cd76263cbd0,species,violifolia,Geophila,,"(Kunth) DC.",0,1830,,"Prodr. 4: 537 (1830)",,,,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1111710-2,wfo-0000972443,5340376,,
+8dfb9eba-8fcd-11eb-924d-9cd76263cbd0,species,violacea,Geophila,,DC.,0,1830,,"Prodr. 4: 537 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:751473-1,wfo-0000972442,5340631,,
+8dfbc584-8fcd-11eb-924d-9cd76263cbd0,species,violifolia,Geophila,,"(Kunth) DC.",0,1830,,"Prodr. 4: 537 (1830)",,,Q2712448,4066eb96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1111710-2,wfo-0000972443,5340376,,
 8dfc1bb0-8fcd-11eb-924d-9cd76263cbd0,species,yunnanensis,Geophila,,H.Lév.,0,1914,,"Repert. Spec. Nov. Regni Veg. 13: 179 (1914)",,Q55752930,,,,urn:lsid:ipni.org:names:751475-1,wfo-0000972445,,,
-8dfc3b5e-8fcd-11eb-924d-9cd76263cbd0,species,zollingeriana,Geophila,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 312 (1857)",,,,,,urn:lsid:ipni.org:names:751476-1,wfo-0000972446,5340352,,
+8dfc3b5e-8fcd-11eb-924d-9cd76263cbd0,species,zollingeriana,Geophila,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 312 (1857)",,,Q5862910,,,urn:lsid:ipni.org:names:751476-1,wfo-0000972446,5340352,,

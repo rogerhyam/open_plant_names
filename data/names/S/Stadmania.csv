@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eaadab68-8fd1-11eb-924d-9cd76263cbd0,genus,Stadmania,,,"Lam. ex Poir.",0,,,"Encycl. 7: 376 (1806)",,,,,,urn:lsid:ipni.org:names:60475068-2,wfo-4000036251,4904471,,
+eaadab68-8fd1-11eb-924d-9cd76263cbd0,genus,Stadmania,,,"Lam. ex Poir.",0,1806,,"Encycl. 7: 376 (1806)",,,,,,urn:lsid:ipni.org:names:60475068-2,wfo-4000036251,4904471,,
 d8f41af0-8fcd-11eb-924d-9cd76263cbd0,species,acuminata,Stadmania,,Capuron,0,1969,,"Mém. Mus. Natl. Hist. Nat. 19: 158 (1969)",,,,,,urn:lsid:ipni.org:names:785221-1,wfo-0001135139,8150264,,
 d8f3fe94-8fcd-11eb-924d-9cd76263cbd0,species,excelsa,Stadmania,,Capuron,0,1969,,"Mém. Mus. Natl. Hist. Nat. 19: 156 (1969)",,,,,,urn:lsid:ipni.org:names:785222-1,wfo-0001135138,7638606,,
 d8f3e47c-8fcd-11eb-924d-9cd76263cbd0,species,glauca,Stadmania,,Capuron,0,1969,,"Mém. Mus. Natl. Hist. Nat. 19: 154 (1969)",,,,,,urn:lsid:ipni.org:names:785223-1,wfo-0001135137,7566043,,
@@ -8,4 +8,4 @@ d8f3566a-8fcd-11eb-924d-9cd76263cbd0,species,oppositifolia,Stadmania,,Lam.,0,179
 d8f3c758-8fcd-11eb-924d-9cd76263cbd0,variety,grevei,Stadmania,oppositifolia,"(Danguy & Choux) Capuron",0,1969,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 19: 154 1969",,,,d8e73902-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001135136,7952075,,
 d9263e7e-1d4c-11ec-82c2-f14daa6f2d93,variety,oppositifolia,Stadmania,oppositifolia,,,,,,,,,,,,wfo-0001135135,,,
 d8f43792-8fcd-11eb-924d-9cd76263cbd0,species,serrulata,Stadmania,,Capuron,0,1969,,"Mém. Mus. Natl. Hist. Nat. 19: 159 (1969)",,,,,,urn:lsid:ipni.org:names:785225-1,wfo-0001135140,7860623,,
-d8f37352-8fcd-11eb-924d-9cd76263cbd0,species,sideroxylon,Stadmania,,DC.,0,1824,,"Prodr. [A. P. de Candolle] 1: 615. 1824 [mid Jan 1824]",,,,,,urn:lsid:ipni.org:names:785245-1,wfo-0001135133,7683774,,
+d8f37352-8fcd-11eb-924d-9cd76263cbd0,species,sideroxylon,Stadmania,,DC.,0,1824,,"Prodr. [A. P. de Candolle] 1: 615. 1824 [mid Jan 1824]",,,Q2712448,,,urn:lsid:ipni.org:names:785245-1,wfo-0001135133,7683774,,

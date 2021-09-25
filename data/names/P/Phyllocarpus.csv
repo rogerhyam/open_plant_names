@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e86f7d86-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllocarpus,,,"Riedel ex Tul.",,,,"Ann. Sci. Nat., Bot. , sér. 2, 20: 142 (1843)",,,,,,urn:lsid:ipni.org:names:30208291-2,wfo-4000029416,,,
-bb5c768c-8fd1-11eb-924d-9cd76263cbd0,species,phylocephalus,Phyllocarpus,,K.Schum.,0,1898,,"Bot. Jahrb. Syst. 25(Suppl. 60): 17 1898",,,,,,,wfo-0001245459,,,
-f3347226-8fc2-11eb-924d-9cd76263cbd0,species,pterocarpus,Phyllocarpus,,"(DC.) Endl. ex B.D.Jacks.",0,,,"Index Kew. 2: 513 (1895)",,,,,,urn:lsid:ipni.org:names:514241-1,wfo-0000180219,5357462,,
-96eee8a2-8fc2-11eb-924d-9cd76263cbd0,species,riedelii,Phyllocarpus,,Tul.,0,,,"Ann. Sci. Nat., Bot. , sér. 2, 20: 143 (1843)",,,,,,urn:lsid:ipni.org:names:318881-2,wfo-0000178278,5357461,,
-d6218234-8fc0-11eb-924d-9cd76263cbd0,species,septentrionalis,Phyllocarpus,,Donn.Sm.,0,,,"Bot. Gaz. 55: 433 (1913)",,,,,,urn:lsid:ipni.org:names:318882-2,wfo-0000168391,5357460,,
+e86f7d86-8fd1-11eb-924d-9cd76263cbd0,genus,Phyllocarpus,,,"Riedel ex Tul.",,1843,,"Ann. Sci. Nat., Bot. , sér. 2, 20: 142 (1843)",,,Q17621119,,,urn:lsid:ipni.org:names:30208291-2,wfo-4000029416,,,
+bb5c768c-8fd1-11eb-924d-9cd76263cbd0,species,phylocephalus,Phyllocarpus,,K.Schum.,0,1898,,"Bot. Jahrb. Syst. 25(Suppl. 60): 17 1898",,,Q5732642,,,,wfo-0001245459,,,
+f3347226-8fc2-11eb-924d-9cd76263cbd0,species,pterocarpus,Phyllocarpus,,"(DC.) Endl. ex B.D.Jacks.",0,1895,,"Index Kew. 2: 513 (1895)",,,,,,urn:lsid:ipni.org:names:514241-1,wfo-0000180219,5357462,,
+96eee8a2-8fc2-11eb-924d-9cd76263cbd0,species,riedelii,Phyllocarpus,,Tul.,0,1843,,"Ann. Sci. Nat., Bot. , sér. 2, 20: 143 (1843)",,,Q17621119,,,urn:lsid:ipni.org:names:318881-2,wfo-0000178278,5357461,,
+d6218234-8fc0-11eb-924d-9cd76263cbd0,species,septentrionalis,Phyllocarpus,,Donn.Sm.,0,1913,,"Bot. Gaz. 55: 433 (1913)",,,Q894627,,,urn:lsid:ipni.org:names:318882-2,wfo-0000168391,5357460,,

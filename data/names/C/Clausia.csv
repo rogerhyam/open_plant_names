@@ -1,9 +1,9 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e1cbbb98-8fd1-11eb-924d-9cd76263cbd0,genus,Clausia,,,Trotzky,0,1834,,"Index Seminum (KAZZ, Casanum) 1839: II (1839)",,,,,,urn:lsid:ipni.org:names:12454-1,wfo-4000008505,7725849,,
-cbfa068a-8fcc-11eb-924d-9cd76263cbd0,species,agideliensis,Clausia,,Knjaz.,0,1997,,"Bot. Zhurn. (Moscow & Leningrad) 82(7): 125 (1997)",,,,,,urn:lsid:ipni.org:names:1000060-1,wfo-0000608733,5375271,,
+cbfa068a-8fcc-11eb-924d-9cd76263cbd0,species,agideliensis,Clausia,,Knjaz.,0,1997,,"Bot. Zhurn. (Moscow & Leningrad) 82(7): 125 (1997)",,,Q2504738,,,urn:lsid:ipni.org:names:1000060-1,wfo-0000608733,5375271,,
 ab8500d0-8fd1-11eb-924d-9cd76263cbd0,species,aprica,Clausia,,Trotzky,0,1834,,"Index Seminum (KAZZ, Casanum) 1839: III (1839)",,,,,,urn:lsid:ipni.org:names:281299-1,wfo-0001216372,5375268,,
 cbfa3b0a-8fcc-11eb-924d-9cd76263cbd0,species,aprica,Clausia,,"(Stephan) Trotsky",0,1839,,"Index Seminum (Casan.) 1839: 1839",,,,,,,wfo-0000608734,5375268,,
-70c91f08-1d4d-11ec-82c2-f14daa6f2d93,variety,agideliensis,Clausia,aprica,"(Knjaz.) V.I.Dorof.",,,,"Konspekt Fl. Vost. Evr. 1: 384 (2012)",,,,,,urn:lsid:ipni.org:names:77133222-1,wfo-0001384855,,,
+70c91f08-1d4d-11ec-82c2-f14daa6f2d93,variety,agideliensis,Clausia,aprica,"(Knjaz.) V.I.Dorof.",,2012,,"Konspekt Fl. Vost. Evr. 1: 384 (2012)",,,,,,urn:lsid:ipni.org:names:77133222-1,wfo-0001384855,,,
 c48b8fea-8fd1-11eb-924d-9cd76263cbd0,variety,trichosepala,Clausia,aprica,"(Turcz.) Korn.-Trotzky",0,,,,,,,0ceffae6-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001262435,7572374,,
 cbfa5c0c-8fcc-11eb-924d-9cd76263cbd0,species,gracillima,Clausia,,"Popov ex Botsch. & Vved.",0,1941,,"Bot. Mater. Gerb. Bot. Inst. Uzbekistansk. Fil. Akad. Nauk S.S.S.R. 3: 13 (1941)",,,,,,urn:lsid:ipni.org:names:978246-1,wfo-0000608735,5373776,,
 cbfa7a98-8fcc-11eb-924d-9cd76263cbd0,species,hispida,Clausia,,Lipsky,0,1904,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 23: 43 (1904)",,,,c8ddac18-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:281300-1,wfo-0000608736,5373774,,
@@ -19,4 +19,4 @@ cbfb9428-8fcc-11eb-924d-9cd76263cbd0,species,tschimganica,Clausia,,"Popov ex Bot
 cbfbb0e8-8fcc-11eb-924d-9cd76263cbd0,species,turkestanica,Clausia,,Lipsky,0,1904,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 23: 41 (1904)",,,,,,urn:lsid:ipni.org:names:281309-1,wfo-0000608747,5373765,,
 160882a6-8fcd-11eb-924d-9cd76263cbd0,variety,glandulosissima,Clausia,turkestanica,Lipsky,0,1904,,"Trudy Imp. S.-Peterburgsk. Bot. Sada 23: 43 1904",,,,,,,wfo-0000738540,5373764,,
 c48bad72-8fd1-11eb-924d-9cd76263cbd0,variety,subintegrifolia,Clausia,turkestanica,Lipsky,0,,,,,,,,,,wfo-0001262436,8403463,,
-cbfbcc0e-8fcc-11eb-924d-9cd76263cbd0,species,ussuriensis,Clausia,,N.Busch,0,1923,,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R. 4: 185 (1923)",,,,,,urn:lsid:ipni.org:names:281310-1,wfo-0000608748,5377132,,
+cbfbcc0e-8fcc-11eb-924d-9cd76263cbd0,species,ussuriensis,Clausia,,N.Busch,0,1923,,"Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R. 4: 185 (1923)",,,Q5732632,,,urn:lsid:ipni.org:names:281310-1,wfo-0000608748,5377132,,

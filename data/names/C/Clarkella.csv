@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e1ca259e-8fd1-11eb-924d-9cd76263cbd0,genus,Clarkella,,,Hook.f.,0,1880,,"Fl. Brit. India 3: 46 (1880)",,,,,,urn:lsid:ipni.org:names:34371-1,wfo-4000008477,2899727,,
-5446c8a2-8fcd-11eb-924d-9cd76263cbd0,species,nana,Clarkella,,"(Edgew.) Hook.f.",0,1880,,"Fl. Brit. India 3: 46 (1880)",,,,eafb57c4-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:746931-1,wfo-0000871829,5336479,,
+e1ca259e-8fd1-11eb-924d-9cd76263cbd0,genus,Clarkella,,,Hook.f.,0,1880,,"Fl. Brit. India 3: 46 (1880)",,,Q6144451,,,urn:lsid:ipni.org:names:34371-1,wfo-4000008477,2899727,,
+5446c8a2-8fcd-11eb-924d-9cd76263cbd0,species,nana,Clarkella,,"(Edgew.) Hook.f.",0,1880,,"Fl. Brit. India 3: 46 (1880)",,,Q6144451,eafb57c4-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:746931-1,wfo-0000871829,5336479,,
 43234bea-8fcd-11eb-924d-9cd76263cbd0,variety,siamensis,Clarkella,nana,"(Craib) Fukuoka & N.Kurosaki",0,1970,,"S. E. Asian Stud. 8: 178 1970",,,,,,,wfo-0000834669,5937643,,
-5447f6d2-8fcd-11eb-924d-9cd76263cbd0,species,siamensis,Clarkella,,Craib,0,1931,,"Bull. Misc. Inform. Kew 1931: 216 (1931)",,Q55777859,,,,urn:lsid:ipni.org:names:746932-1,wfo-0000871840,5336478,,
-be3fac20-8fd1-11eb-924d-9cd76263cbd0,species,sianensis,Clarkella,,W.G.Craib,,1931,,"Bull. Misc. Inform. Kew 216 1931",,,,,,,wfo-0001250787,7362562,,
+5447f6d2-8fcd-11eb-924d-9cd76263cbd0,species,siamensis,Clarkella,,Craib,0,1931,,"Bull. Misc. Inform. Kew 1931: 216 (1931)",,Q55777859,Q5735532,,,urn:lsid:ipni.org:names:746932-1,wfo-0000871840,5336478,,
+be3fac20-8fd1-11eb-924d-9cd76263cbd0,species,sianensis,Clarkella,,W.G.Craib,,1931,,"Bull. Misc. Inform. Kew 216 1931",,,Q5735532,,,,wfo-0001250787,7362562,,

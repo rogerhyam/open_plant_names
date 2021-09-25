@@ -2,18 +2,18 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 9ef6fdcc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Taphrophila,,,Scheuer,,1988,,"Biblthca Mycol. 123: 171 (1988)",,,,9ef6fdcc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,25273," "
 31776214-9bad-11eb-a8a2-19ed5c03f8d3,species,argyllensis,Taphrophila,,"Scheuer, Spooner & Wilberf.",,1991,,"in Scheuer, Mycol. Res. 95(7): 813 (1991)",,,,31776214-9bad-11eb-a8a2-19ed5c03f8d3,,,,,355124," "
 3b71ef7e-9bac-11eb-a8a2-19ed5c03f8d3,species,cornu-capreoli,Taphrophila,,Scheuer,,1988,,"Biblthca Mycol. 123: 172 (1988)",,,,3b71ef7e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,134590," "
-f24fa2a0-9bab-11eb-a8a2-19ed5c03f8d3,species,hebridensis,Taphrophila,,"(Dennis) Réblová & M.E. Barr",,1998,,"Sydowia 64(2): 283 (1998)",,,,317794aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,466328," "
-f66b645a-9bab-11eb-a8a2-19ed5c03f8d3,species,miscanthi,Taphrophila,,"(W.H. Hsieh, Chi Y. Chen & Sivan.) Réblová & M.E. Barr",,1998,,"Sydowia 64(2): 283 (1998)",,,,c64d7212-9bac-11eb-a8a2-19ed5c03f8d3,,,,,466329," "
-1ce63b1e-9bac-11eb-a8a2-19ed5c03f8d3,species,trichella,Taphrophila,,"(Sacc., E. Bommer & M. Rousseau) Réblová & M.E. Barr",0,1998,,"Sydowia 64(2): 283 (1998)",,,,9c3874e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,466330," "
+f24fa2a0-9bab-11eb-a8a2-19ed5c03f8d3,species,hebridensis,Taphrophila,,"(Dennis) Réblová & M.E. Barr",,1998,,"Sydowia 64(2): 283 (1998)",,,Q15816855,317794aa-9bad-11eb-a8a2-19ed5c03f8d3,,,,,466328," "
+f66b645a-9bab-11eb-a8a2-19ed5c03f8d3,species,miscanthi,Taphrophila,,"(W.H. Hsieh, Chi Y. Chen & Sivan.) Réblová & M.E. Barr",,1998,,"Sydowia 64(2): 283 (1998)",,,Q15816855,c64d7212-9bac-11eb-a8a2-19ed5c03f8d3,,,,,466329," "
+1ce63b1e-9bac-11eb-a8a2-19ed5c03f8d3,species,trichella,Taphrophila,,"(Sacc., E. Bommer & M. Rousseau) Réblová & M.E. Barr",0,1998,,"Sydowia 64(2): 283 (1998)",,,Q15816855,9c3874e0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,466330," "
 ac760d4a-8fd1-11eb-924d-9cd76263cbd0,species,altaicum,Taphrospermum,,C.A.Mey.,0,1831,,"Fl. Altaic. 3: 173 (1831)",,,,,,urn:lsid:ipni.org:names:290299-1,wfo-0001218103,3046960,,
 acb00888-8fd1-11eb-924d-9cd76263cbd0,variety,macrocarpum,Taphrospermum,altaicum,C.H.An,0,1985,,"Acta Phytotax. Sin. 23: 396 (1985)",,,,,,urn:lsid:ipni.org:names:919139-1,wfo-0001218529,3046959,,
 ad4db4f6-8fcd-11eb-924d-9cd76263cbd0,species,brachycarpum,Taphrospermum,,Meisn.,0,1841,,"Comm. 12.",,,,,,urn:lsid:ipni.org:names:290300-1,wfo-0001037574,3050654,,
 ad4dd134-8fcd-11eb-924d-9cd76263cbd0,species,caucasicum,Taphrospermum,,Rupr.,0,1869,,"Fl. Caucasi : 84 (1869)",,,,,,urn:lsid:ipni.org:names:290301-1,wfo-0001037575,3050655,,
 c49177ac-8fd1-11eb-924d-9cd76263cbd0,species,fontanum,Taphrospermum,,"(Maxim.) Al-Shehbaz & G.Yang",0,2000,,"Harvard Pap. Bot. 5: 104 (2000)",,Q95389017,,,,urn:lsid:ipni.org:names:1016819-1,wfo-0001262480,3046999,,
-913dc47e-1d4c-11ec-82c2-f14daa6f2d93,subspecies,fontanum,Taphrospermum,fontanum,"Al-Shehbaz & G.Yang",,,,"Harvard Pap. Bot. 5: 104 2000",,,,,,,wfo-0001036727,,,
+913dc47e-1d4c-11ec-82c2-f14daa6f2d93,subspecies,fontanum,Taphrospermum,fontanum,"Al-Shehbaz & G.Yang",,2000,,"Harvard Pap. Bot. 5: 104 2000",,,,,,,wfo-0001036727,,,
 c49201d6-8fd1-11eb-924d-9cd76263cbd0,subspecies,microspermum,Taphrospermum,fontanum,"Al-Shehbaz & G.Yang",0,2000,,"Harvard Pap. Bot. 5: 105 (2000)",,Q95389017,,,,urn:lsid:ipni.org:names:1016820-1,wfo-0001262482,3047001,,
 c4914994-8fd1-11eb-924d-9cd76263cbd0,species,himalaicum,Taphrospermum,,"(Hook.f. & Thomson) Al-Shehbaz, Kats.Arai & H.Ohba",0,2000,,"Harvard Pap. Bot. 5: 102 (2000)",,Q95389017,,,,urn:lsid:ipni.org:names:1016818-1,wfo-0001262478,3046970,,
 c492436c-8fd1-11eb-924d-9cd76263cbd0,species,lowndesii,Taphrospermum,,"(H.Hara) Al-Shehbaz",0,2000,,"Harvard Pap. Bot. 5: 107 (2000)",,Q95389017,,0261e2c4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:1016822-1,wfo-0001262484,3047056,,
-ac762fe6-8fd1-11eb-924d-9cd76263cbd0,species,platypetalum,Taphrospermum,,Schrenk,0,,,"Enum. Pl. Nov. 2: 60 (1842)",,,,,,urn:lsid:ipni.org:names:290302-1,wfo-0001218104,3046983,,
+ac762fe6-8fd1-11eb-924d-9cd76263cbd0,species,platypetalum,Taphrospermum,,Schrenk,0,1842,,"Enum. Pl. Nov. 2: 60 (1842)",,,,,,urn:lsid:ipni.org:names:290302-1,wfo-0001218104,3046983,,
 c4925e7e-8fd1-11eb-924d-9cd76263cbd0,species,tibeticum,Taphrospermum,,"(O.E.Schulz) Al-Shehbaz",0,2000,,"Harvard Pap. Bot. 5: 107 (2000)",,Q95389017,,,,urn:lsid:ipni.org:names:1016823-1,wfo-0001262485,3046991,,
 c492272e-8fd1-11eb-924d-9cd76263cbd0,species,verticillatum,Taphrospermum,,"(Jeffrey & W.W.Sm.) Al-Shehbaz",0,2000,,"Harvard Pap. Bot. 5: 106 (2000)",,Q95389017,,,,urn:lsid:ipni.org:names:1016821-1,wfo-0001262483,3047041,,

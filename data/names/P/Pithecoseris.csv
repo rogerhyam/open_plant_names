@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e898f788-8fd1-11eb-924d-9cd76263cbd0,genus,Pithecoseris,,,"Mart. ex DC.",0,,,"Prodr. 5: 84 (1836)",,,,,,urn:lsid:ipni.org:names:10568-1,wfo-4000029910,3145359,,
-97706ff2-8fb4-11eb-924d-9cd76263cbd0,species,pacourinoides,Pithecoseris,,"Mart. ex DC.",0,1836,,"Prodr. 5: 84 (1836)",,,,,,urn:lsid:ipni.org:names:238576-1,wfo-0000067247,3145360,,
-6a4dc426-1d4d-11ec-82c2-f14daa6f2d93,variety,capitata,Pithecoseris,pacourinoides,Glaz.,,,,"Bull. Soc. Bot. France 56(Mém. 3d): 381 (1909)",,,,,,urn:lsid:ipni.org:names:200865-2,wfo-0001376570,,,
+e898f788-8fd1-11eb-924d-9cd76263cbd0,genus,Pithecoseris,,,"Mart. ex DC.",0,1836,,"Prodr. 5: 84 (1836)",,,Q2712448,,,urn:lsid:ipni.org:names:10568-1,wfo-4000029910,3145359,,
+97706ff2-8fb4-11eb-924d-9cd76263cbd0,species,pacourinoides,Pithecoseris,,"Mart. ex DC.",0,1836,,"Prodr. 5: 84 (1836)",,,Q2712448,,,urn:lsid:ipni.org:names:238576-1,wfo-0000067247,3145360,,
+6a4dc426-1d4d-11ec-82c2-f14daa6f2d93,variety,capitata,Pithecoseris,pacourinoides,Glaz.,,1909,,"Bull. Soc. Bot. France 56(Mém. 3d): 381 (1909)",,,Q5735483,,,urn:lsid:ipni.org:names:200865-2,wfo-0001376570,,,
 b2e3bf7a-1d47-11ec-82c2-f14daa6f2d93,variety,pacourinoides,Pithecoseris,pacourinoides,,,,,,,,,,,,wfo-0000049149,,,

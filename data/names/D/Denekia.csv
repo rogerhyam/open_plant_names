@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e298665c-8fd1-11eb-924d-9cd76263cbd0,genus,Denekia,,,Thunb.,0,,,"Prodr. Pl. Cap. 2: 153 (1800); Nov. Gen. 177 (1800)",,,,,,urn:lsid:ipni.org:names:8564-1,wfo-4000011128,3105007,,
-06a74c2c-8fb2-11eb-924d-9cd76263cbd0,species,capensis,Denekia,,Thunb.,0,,,"Prodr. Pl. Cap. 2: 153 (1800)",,,,,,urn:lsid:ipni.org:names:201212-1,wfo-0000005800,3105008,,
+e298665c-8fd1-11eb-924d-9cd76263cbd0,genus,Denekia,,,Thunb.,0,1800,,"Prodr. Pl. Cap. 2: 153 (1800); Nov. Gen. 177 (1800)",,,Q2712448,,,urn:lsid:ipni.org:names:8564-1,wfo-4000011128,3105007,,
+06a74c2c-8fb2-11eb-924d-9cd76263cbd0,species,capensis,Denekia,,Thunb.,0,1800,,"Prodr. Pl. Cap. 2: 153 (1800)",,,Q2712448,,,urn:lsid:ipni.org:names:201212-1,wfo-0000005800,3105008,,
 b9e5fdec-1d47-11ec-82c2-f14daa6f2d93,variety,capensis,Denekia,capensis,,,,,,,,,,,,wfo-0000057955,,,
 337b818a-8fb4-11eb-924d-9cd76263cbd0,variety,latifolia,Denekia,capensis,DC.,0,,,,,,,,,,wfo-0000061447,6301801,,
 59cef318-8fb8-11eb-924d-9cd76263cbd0,variety,minor,Denekia,capensis,DC.,0,,,,,,,,,,wfo-0000108594,6301799,,
-38abcadc-8fb6-11eb-924d-9cd76263cbd0,species,glabrata,Denekia,,DC.,0,1836,,"Prodr. 5: 462 (1836)",,,,,,urn:lsid:ipni.org:names:201213-1,wfo-0000087049,3105009,,
-48a0ab22-1d4d-11ec-82c2-f14daa6f2d93,species,muschleriana,Denekia,,Dinter,,,,"Repert. Spec. Nov. Regni Veg. 16: 367 (1920)",,,,,,urn:lsid:ipni.org:names:60472342-2,wfo-0001330552,,,
+38abcadc-8fb6-11eb-924d-9cd76263cbd0,species,glabrata,Denekia,,DC.,0,1836,,"Prodr. 5: 462 (1836)",,,Q2712448,,,urn:lsid:ipni.org:names:201213-1,wfo-0000087049,3105009,,
+48a0ab22-1d4d-11ec-82c2-f14daa6f2d93,species,muschleriana,Denekia,,Dinter,,1920,,"Repert. Spec. Nov. Regni Veg. 16: 367 (1920)",,,,,,urn:lsid:ipni.org:names:60472342-2,wfo-0001330552,,,

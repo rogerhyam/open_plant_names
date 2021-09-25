@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e296cd92-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrosenecio,,,"(Hauman ex Hedberg) B.Nord.",0,,,"Opera Bot. 44: 40 (1978)",,,,,,urn:lsid:ipni.org:names:8561-1,wfo-4000011112,9552895,,
+e296cd92-8fd1-11eb-924d-9cd76263cbd0,genus,Dendrosenecio,,,"(Hauman ex Hedberg) B.Nord.",0,1978,,"Opera Bot. 44: 40 (1978)",,,,,,urn:lsid:ipni.org:names:8561-1,wfo-4000011112,9552895,,
 22e02780-8fb5-11eb-924d-9cd76263cbd0,species,adnivalis,Dendrosenecio,,"(Stapf) E.B.Knox",0,1993,,"Contr. Univ. Michigan Herb. 19: 243 (1993): (1993)",,,,7185176a-8fb5-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:971835-1,wfo-0000074327,3118074,,
 b3144adc-1d47-11ec-82c2-f14daa6f2d93,subspecies,adnivalis,Dendrosenecio,adnivalis,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77180494-1,wfo-0000049428,,,
-c35a8762-1d47-11ec-82c2-f14daa6f2d93,variety,adnivalis,Dendrosenecio,adnivalis,,,,,"Contr. Univ. Michigan Herb. 19: 243 (1993).",,,,,,,wfo-0000069562,,,
+c35a8762-1d47-11ec-82c2-f14daa6f2d93,variety,adnivalis,Dendrosenecio,adnivalis,,,1993,,"Contr. Univ. Michigan Herb. 19: 243 (1993).",,,,,,,wfo-0000069562,,,
 5dbf2966-8fb8-11eb-924d-9cd76263cbd0,subspecies,friesiorum,Dendrosenecio,adnivalis,"(Mildbr.) E.B.Knox",0,1993,,"Contr. Univ. Michigan Herb. 19: 243 (1993): (1993)",,,,,,urn:lsid:ipni.org:names:971837-1,wfo-0000108739,4237993,,
 3b1301fe-8fb7-11eb-924d-9cd76263cbd0,variety,petiolatus,Dendrosenecio,adnivalis,"(Hedberg) E.B.Knox",0,1993,,"Contr. Univ. Michigan Herb. 19: 243 (1993): (1993)",,,,,,urn:lsid:ipni.org:names:971836-1,wfo-0000097690,4237990,,
 fab4d9fe-8fb9-11eb-924d-9cd76263cbd0,species,barbatipes,Dendrosenecio,,"(Hedb.) E.B.Knox",0,1993,,"Contributions from the University of Michigan Herbarium 190: 244 1993",,,,,,,wfo-0000122971,7902698,,

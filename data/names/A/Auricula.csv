@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a1be4042-9bad-11eb-a8a2-19ed5c03f8d3,genus,Auricula,,,"Battarra ex Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,,a1be4042-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17130," "
-6ae6bcfc-9bad-11eb-a8a2-19ed5c03f8d3,species,catillus,Auricula,,"(Mont.) Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,,9963f406-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468189," "
+a1be4042-9bad-11eb-a8a2-19ed5c03f8d3,genus,Auricula,,,"Battarra ex Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,Q7318442,a1be4042-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17130," "
+6ae6bcfc-9bad-11eb-a8a2-19ed5c03f8d3,species,catillus,Auricula,,"(Mont.) Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,Q7318442,9963f406-9bac-11eb-a8a2-19ed5c03f8d3,,,,,468189," "
 ab4ee090-8fcc-11eb-924d-9cd76263cbd0,species,crenata,Auricula,,Spach,0,1838,,"Hist. Nat. Vég. 9: 358 (1838)",,,,,,urn:lsid:ipni.org:names:700591-1,wfo-0000557109,5640996,,
 3acc3484-9bad-11eb-a8a2-19ed5c03f8d3,species,dacrymycetospora,Auricula,,"(Speg.) Rick",0,1933,illegitimate,"Egatea 18: 215 (1933)",,,,3acc694a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,506094,"Nom. illegit., Art. 52.1 dacryomycetospora"
 3acbf118-9bad-11eb-a8a2-19ed5c03f8d3,species,dacryomycetospora,Auricula,,"(Speg.) Rick",0,,,,,,,1435334e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,506093," Auricula dacrymycetospora"
-6ae6eef2-9bad-11eb-a8a2-19ed5c03f8d3,species,delicata,Auricula,,"(Fr.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,,,,,,,468190," "
+6ae6eef2-9bad-11eb-a8a2-19ed5c03f8d3,species,delicata,Auricula,,"(Fr.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,Q7318442,,,,,,468190," "
 ab4effbc-8fcc-11eb-924d-9cd76263cbd0,species,glutinosa,Auricula,,Spach,0,1838,,"Hist. Nat. Vég. 9: 359 (1838)",,,,7f989568-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700592-1,wfo-0000557110,5640991,,
 ab4f1b78-8fcc-11eb-924d-9cd76263cbd0,species,hortensis,Auricula,,Spach,0,1838,,"Hist. Nat. Vég. 9: 357 (1838)",,,,,,urn:lsid:ipni.org:names:700593-1,wfo-0000557111,5640986,,
 ab4f369e-8fcc-11eb-924d-9cd76263cbd0,species,integrifolia,Auricula,,Spach,0,1838,,"Hist. Nat. Vég. 9: 359 (1838)",,,,,,urn:lsid:ipni.org:names:700594-1,wfo-0000557112,5640981,,
@@ -14,14 +14,14 @@ ab4f8d88-8fcc-11eb-924d-9cd76263cbd0,species,palinuri,Auricula,,Spach,0,1838,,"H
 6de1e28e-9bac-11eb-a8a2-19ed5c03f8d3,species,phylacteris,Auricula,,"(Bull.) Sacc.",0,,,,,,,0327dea8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,158477," "
 a41e2934-9bac-11eb-a8a2-19ed5c03f8d3,species,reflexa,Auricula,,"(Berk.) Lloyd",0,1920,,"Mycol. Writ. 6: 935 (1920)",,,,7534e44c-9bab-11eb-a8a2-19ed5c03f8d3,,,,,254338," "
 e5f5a684-9bac-11eb-a8a2-19ed5c03f8d3,species,totarae,Auricula,,Lloyd,0,1920,,"Mycol. Writ. 6: 935 (1920)",,,,e5f5a684-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280442," "
-029680f2-9bac-11eb-a8a2-19ed5c03f8d3,species,tremellosa,Auricula,,"(Fr.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,,76d98244-9bab-11eb-a8a2-19ed5c03f8d3,,,,,468191," "
-6ae724bc-9bad-11eb-a8a2-19ed5c03f8d3,species,velutina,Auricula,,"(Lév.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,,3314f6c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,468192," "
+029680f2-9bac-11eb-a8a2-19ed5c03f8d3,species,tremellosa,Auricula,,"(Fr.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,Q7318442,76d98244-9bab-11eb-a8a2-19ed5c03f8d3,,,,,468191," "
+6ae724bc-9bad-11eb-a8a2-19ed5c03f8d3,species,velutina,Auricula,,"(Lév.) Kuntze",0,1898,,"Revis. gen. pl. (Leipzig) 3(2): 446 (1898)",,,Q7318442,3314f6c2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,468192," "
 ab4fa7aa-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Auricula,,Spach,0,1838,,"Hist. Nat. Vég. 9: 358 (1838)",,,,,,urn:lsid:ipni.org:names:700598-1,wfo-0000557116,5640965,,
-6ae7b198-9bad-11eb-a8a2-19ed5c03f8d3,species,vitellina,Auricula,,"(Lév.) Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,,76e92bae-9bab-11eb-a8a2-19ed5c03f8d3,,,,,468193," "
+6ae7b198-9bad-11eb-a8a2-19ed5c03f8d3,species,vitellina,Auricula,,"(Lév.) Kuntze",0,1891,,"Revis. gen. pl. (Leipzig) 2: 844 (1891)",,,Q7318442,76e92bae-9bab-11eb-a8a2-19ed5c03f8d3,,,,,468193," "
 ab73b186-8fcc-11eb-924d-9cd76263cbd0,species,allionii,Auricula-ursi,,"(Loisel.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f777b3a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700599-1,wfo-0000557220,4006559,,
 ab73d044-8fcc-11eb-924d-9cd76263cbd0,species,apennina,Auricula-ursi,,"(Widm.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f702be6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700600-1,wfo-0000557221,4006549,,
 ab73ee12-8fcc-11eb-924d-9cd76263cbd0,species,auricula,Auricula-ursi,,"(L.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:700601-1,wfo-0000557222,7290703,,
-61d6f77c-1d4d-11ec-82c2-f14daa6f2d93,subspecies,hungarica,Auricula-ursi,auricula,"(Borbás) Soják",,,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:888672-1,wfo-0001364756,,,
+61d6f77c-1d4d-11ec-82c2-f14daa6f2d93,subspecies,hungarica,Auricula-ursi,auricula,"(Borbás) Soják",,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:888672-1,wfo-0001364756,,,
 ab740e6a-8fcc-11eb-924d-9cd76263cbd0,species,carniolica,Auricula-ursi,,"(Jacq.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:700602-1,wfo-0000557223,4006525,,
 ab743110-8fcc-11eb-924d-9cd76263cbd0,species,clusiana,Auricula-ursi,,"(Tausch) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:700603-1,wfo-0000557224,4006518,,
 ab74c738-8fcc-11eb-924d-9cd76263cbd0,species,daonensis,Auricula-ursi,,"(Leyb.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f5d35d6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700604-1,wfo-0000557225,4006506,,
@@ -36,7 +36,7 @@ ab783d1e-8fcc-11eb-924d-9cd76263cbd0,species,marginata,Auricula-ursi,,"(Curtis) 
 ab786190-8fcc-11eb-924d-9cd76263cbd0,species,minima,Auricula-ursi,,"(L.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:700613-1,wfo-0000557235,4006426,,
 ab78877e-8fcc-11eb-924d-9cd76263cbd0,species,palinuri,Auricula-ursi,,"(Patagna) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f1568a0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700614-1,wfo-0000557236,8707335,,
 ab78ae48-8fcc-11eb-924d-9cd76263cbd0,species,pedemontana,Auricula-ursi,,"(Thom. ex Gaud.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f0f2940-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700615-1,wfo-0000557237,7290678,,
-61d7235a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,iberica,Auricula-ursi,pedemontana,"(Losa & P.Monts.) Soják",,,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:888673-1,wfo-0001364757,,,
+61d7235a-1d4d-11ec-82c2-f14daa6f2d93,subspecies,iberica,Auricula-ursi,pedemontana,"(Losa & P.Monts.) Soják",,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:888673-1,wfo-0001364757,,,
 ab78d166-8fcc-11eb-924d-9cd76263cbd0,species,spectabilis,Auricula-ursi,,"(Tratt.) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7efe2ef6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700616-1,wfo-0000557238,4006382,,
 ab790b54-8fcc-11eb-924d-9cd76263cbd0,species,tyrolensis,Auricula-ursi,,"(Schott) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,7f0ca6f2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:700617-1,wfo-0000557239,4006376,,
 ab792c92-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Auricula-ursi,,"(Wulfen) Soják",0,1979,,"Cas. Nár. Mus., Odd. Prír. 148: 209 (1979 publ. 1980)",,,,,,urn:lsid:ipni.org:names:700618-1,wfo-0000557240,4006366,,

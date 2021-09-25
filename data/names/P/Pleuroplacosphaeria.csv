@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a85bbe34-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pleuroplacosphaeria,,,Syd.,,1928,,"Annls mycol. 26(1/2): 115 (1928)",,,,a85bbe34-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9472," "
-645fef76-9bac-11eb-a8a2-19ed5c03f8d3,species,negeriana,Pleuroplacosphaeria,,Syd.,,1928,,"Annls mycol. 26(1/2): 116 (1928)",,,,645fef76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,272097," "
+a85bbe34-9bad-11eb-a8a2-19ed5c03f8d3,genus,Pleuroplacosphaeria,,,Syd.,,1928,,"Annls mycol. 26(1/2): 115 (1928)",,,Q21385869,a85bbe34-9bad-11eb-a8a2-19ed5c03f8d3,,,,,9472," "
+645fef76-9bac-11eb-a8a2-19ed5c03f8d3,species,negeriana,Pleuroplacosphaeria,,Syd.,,1928,,"Annls mycol. 26(1/2): 116 (1928)",,,Q21385869,645fef76-9bac-11eb-a8a2-19ed5c03f8d3,,,,,272097," "
 5d9f88c6-8fcd-11eb-924d-9cd76263cbd0,species,caucasica,Pleuroplitis,,"Rupr. ex Regel",0,1884,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg x. (1866) 378.",,,,,,urn:lsid:ipni.org:names:416382-1,wfo-0000891226,,,
 5d9fa54a-8fcd-11eb-924d-9cd76263cbd0,species,centrasiatica,Pleuroplitis,,Griseb.,0,1853,,"Fl. Ross. 4: 477 (1853)",,,,,,urn:lsid:ipni.org:names:416383-1,wfo-0000891227,4130539,,
 5d9fc0fc-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Pleuroplitis,,J.A.Schmidt,0,1852,,"Beitr. Fl. Cap Verd. Ins. : 152 (1852)",,,,,,urn:lsid:ipni.org:names:416384-1,wfo-0000891228,4130528,,
@@ -14,7 +14,7 @@ c801b0c2-8fcd-11eb-924d-9cd76263cbd0,species,lancifolia,Pleuroplitis,,Regel,0,18
 5da09fcc-8fcd-11eb-924d-9cd76263cbd0,variety,chinensis,Pleuroplitis,langsdorffii,Regel,0,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg 10: 375 1866",,,,,,,wfo-0000891236,5941497,,
 5da0bd86-8fcd-11eb-924d-9cd76263cbd0,variety,gacilis,Pleuroplitis,langsdorffii,"(Kunth) Regel",0,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg 10: 373 1866",,,,,,,wfo-0000891237,5941532,,
 5da0db68-8fcd-11eb-924d-9cd76263cbd0,variety,submutica,Pleuroplitis,langsdorffii,Regel,0,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg 10: 373 1866",,,,,,,wfo-0000891238,5941503,,
-5da115ba-8fcd-11eb-924d-9cd76263cbd0,species,major,Pleuroplitis,,"Arn. ex Miq.",0,1857,,"Fl. Ned. Ind. 3: 481 (1857)",,,,,,urn:lsid:ipni.org:names:416388-1,wfo-0000891240,4110059,,
+5da115ba-8fcd-11eb-924d-9cd76263cbd0,species,major,Pleuroplitis,,"Arn. ex Miq.",0,1857,,"Fl. Ned. Ind. 3: 481 (1857)",,,Q5862910,,,urn:lsid:ipni.org:names:416388-1,wfo-0000891240,4110059,,
 5da1307c-8fcd-11eb-924d-9cd76263cbd0,species,major,Pleuroplitis,,Regel,0,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg x. (1866) 370.",,,,,,urn:lsid:ipni.org:names:416390-1,wfo-0000891241,,,
 5da14ea4-8fcd-11eb-924d-9cd76263cbd0,species,microphylla,Pleuroplitis,,Regel,0,1866,,"Bull. Acad. Imp. Sci. Saint-Pétersbourg , sér. 3, 10: 370 (1866)",,,,,,urn:lsid:ipni.org:names:416391-1,wfo-0000891242,4130468,,
 5da168f8-8fcd-11eb-924d-9cd76263cbd0,species,plumbea,Pleuroplitis,,"Nees ex Steud.",0,1835,,"Syn. Pl. Glumac. 1(6): 414. 1854 [1855 publ. 28-29 Nov 1854]",,,,,,urn:lsid:ipni.org:names:416392-1,wfo-0000891243,4130458,,

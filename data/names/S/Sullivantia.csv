@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 eaf5b278-8fd1-11eb-924d-9cd76263cbd0,genus,Sullivantia,,,"Torr. & A.Gray",0,1842,,"Amer. J. Sci. Arts 42: 22 (1842)",,,,,,urn:lsid:ipni.org:names:30059474-2,wfo-4000037072,3032910,,
 d914d1c8-8fcd-11eb-924d-9cd76263cbd0,species,halmicola,Sullivantia,,A.Nelson,0,1905,,"N. Amer. Fl. 22: 122 (1905)",,,,,,urn:lsid:ipni.org:names:246499-2,wfo-0001135420,7497368,,
-d914edf2-8fcd-11eb-924d-9cd76263cbd0,species,hapemanii,Sullivantia,,"(J.M.Coult. & Fisher) J.M.Coult.",0,1892,,"Bot. Gaz. 17: 421 (1892)",,Q55758413,,d99663aa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:246500-2,wfo-0001135421,3032917,,
-daa39e2c-1d4c-11ec-82c2-f14daa6f2d93,variety,hapemanii,Sullivantia,hapemanii,,,,,1991,,,,,,,wfo-0001136478,,,
+d914edf2-8fcd-11eb-924d-9cd76263cbd0,species,hapemanii,Sullivantia,,"(J.M.Coult. & Fisher) J.M.Coult.",0,1892,,"Bot. Gaz. 17: 421 (1892)",,Q55758413,Q894627,d99663aa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:246500-2,wfo-0001135421,3032917,,
+daa39e2c-1d4c-11ec-82c2-f14daa6f2d93,variety,hapemanii,Sullivantia,hapemanii,,,1991,,1991,,,,,,,wfo-0001136478,,,
 d996baee-8fcd-11eb-924d-9cd76263cbd0,variety,purpusii,Sullivantia,hapemanii,"(Brandegee) Soltis",0,1991,,"Brittonia 43: 49. 1991",,Q55771118,,,,urn:lsid:ipni.org:names:1176804-2,wfo-0001136479,9326362,,
 858a7536-8fcc-11eb-924d-9cd76263cbd0,species,ohionis,Sullivantia,,"Torr. & A.Gray",0,1842,,"Amer. J. Sci. Arts 42: 22. 1842",,,,,,urn:lsid:ipni.org:names:1205258-2,wfo-0000494089,3032914,,
 d915083c-8fcd-11eb-924d-9cd76263cbd0,species,oregana,Sullivantia,,S.Watson,0,1879,,"Proc. Amer. Acad. Arts 14: 292 (1879)",,,,,,urn:lsid:ipni.org:names:794844-1,wfo-0001135422,3032911,,

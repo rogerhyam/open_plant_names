@@ -1,24 +1,24 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-fc1a9b22-9bac-11eb-a8a2-19ed5c03f8d3,genus,Polyphlyctis,,,Karling,0,1968,,"Sydowia 20: 86 (1968)",,,,fc1a9b22-9bac-11eb-a8a2-19ed5c03f8d3,,,,,20437," "
+fc1a9b22-9bac-11eb-a8a2-19ed5c03f8d3,genus,Polyphlyctis,,,Karling,0,1968,,"Sydowia 20: 86 (1968)",,,Q15816855,fc1a9b22-9bac-11eb-a8a2-19ed5c03f8d3,,,,,20437," "
 5a663f70-9bac-11eb-a8a2-19ed5c03f8d3,species,cystofera,Polyphlyctis,,"(Willoughby) A. Batko",,,,,,,,21e41590-9bad-11eb-a8a2-19ed5c03f8d3,,,,,480427," "
-22f6756e-9bac-11eb-a8a2-19ed5c03f8d3,species,unispina,Polyphlyctis,,"(R.A. Paterson) Karling",0,1968,,"Sydowia 20: 87 (1968)",,,,fddc471c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,337472," "
-f99cb61a-8fcb-11eb-924d-9cd76263cbd0,species,amboinicum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,,,,urn:lsid:ipni.org:names:760865-1,wfo-0000279955,2899975,,
-f99cdd52-8fcb-11eb-924d-9cd76263cbd0,species,anodon,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,,,,urn:lsid:ipni.org:names:760866-1,wfo-0000279956,2924465,,
-f99d0516-8fcb-11eb-924d-9cd76263cbd0,species,compressicaule,Polyphragmon,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 (1857)",,,,,,urn:lsid:ipni.org:names:760867-1,wfo-0000279957,2899800,,
-d5663ea0-8fcc-11eb-924d-9cd76263cbd0,variety,floribunda,Polyphragmon,compressicaule,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 1857",,,,,,,wfo-0000624601,2899801,,
+22f6756e-9bac-11eb-a8a2-19ed5c03f8d3,species,unispina,Polyphlyctis,,"(R.A. Paterson) Karling",0,1968,,"Sydowia 20: 87 (1968)",,,Q15816855,fddc471c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,337472," "
+f99cb61a-8fcb-11eb-924d-9cd76263cbd0,species,amboinicum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760865-1,wfo-0000279955,2899975,,
+f99cdd52-8fcb-11eb-924d-9cd76263cbd0,species,anodon,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760866-1,wfo-0000279956,2924465,,
+f99d0516-8fcb-11eb-924d-9cd76263cbd0,species,compressicaule,Polyphragmon,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 (1857)",,,Q5862910,,,urn:lsid:ipni.org:names:760867-1,wfo-0000279957,2899800,,
+d5663ea0-8fcc-11eb-924d-9cd76263cbd0,variety,floribunda,Polyphragmon,compressicaule,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 1857",,,Q5862910,,,,wfo-0000624601,2899801,,
 f99d273a-8fcb-11eb-924d-9cd76263cbd0,species,flavescens,Polyphragmon,,Kurz,0,1876,,"J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 45: 134 (1876)",,,,,,urn:lsid:ipni.org:names:760868-1,wfo-0000279958,2899767,,
 d292854e-8fcc-11eb-924d-9cd76263cbd0,variety,macrocarpum,Polyphragmon,flavescens,Kurz,0,1877,,"J. Asiat. Soc. Bengal 46(2): 154 1877",,,,,,,wfo-0000620214,2899761,,
-f99d49d6-8fcb-11eb-924d-9cd76263cbd0,species,hydrangeifolium,Polyphragmon,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 (1857)",,,,,,urn:lsid:ipni.org:names:760869-1,wfo-0000279959,2899937,,
-f99db84e-8fcb-11eb-924d-9cd76263cbd0,species,minus,Polyphragmon,,"A.Rich. ex DC.",0,1830,,"Prodr. 4: 445 (1830)",,,,,,urn:lsid:ipni.org:names:760871-1,wfo-0000279962,2899998,,
-f99de8fa-8fcb-11eb-924d-9cd76263cbd0,species,mutabile,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 240 (1869)",,,,,,urn:lsid:ipni.org:names:760872-1,wfo-0000279963,2899759,,
+f99d49d6-8fcb-11eb-924d-9cd76263cbd0,species,hydrangeifolium,Polyphragmon,,Miq.,0,1857,,"Fl. Ned. Ind. 2: 235 (1857)",,,Q5862910,,,urn:lsid:ipni.org:names:760869-1,wfo-0000279959,2899937,,
+f99db84e-8fcb-11eb-924d-9cd76263cbd0,species,minus,Polyphragmon,,"A.Rich. ex DC.",0,1830,,"Prodr. 4: 445 (1830)",,,Q2712448,,,urn:lsid:ipni.org:names:760871-1,wfo-0000279962,2899998,,
+f99de8fa-8fcb-11eb-924d-9cd76263cbd0,species,mutabile,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 240 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760872-1,wfo-0000279963,2899759,,
 f99e0bf0-8fcb-11eb-924d-9cd76263cbd0,species,ovale,Polyphragmon,,Korth.,0,1851,,"Ned. Kruidk. Arch. 2(2): 216 (1851)",,,,,,urn:lsid:ipni.org:names:760873-1,wfo-0000279964,2899787,,
 f99e8198-8fcb-11eb-924d-9cd76263cbd0,species,pseudocapitatum,Polyphragmon,,Scheff.,0,1876,,"Ann. Jard. Bot. Buitenzorg 1: 29 (1876)",,,,,,urn:lsid:ipni.org:names:760874-1,wfo-0000279965,2899920,,
-f99ed882-8fcb-11eb-924d-9cd76263cbd0,species,rigidum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 243 (1869)",,,,,,urn:lsid:ipni.org:names:760875-1,wfo-0000279966,2899929,,
-f99efb28-8fcb-11eb-924d-9cd76263cbd0,species,rufescens,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,,,,urn:lsid:ipni.org:names:760876-1,wfo-0000279967,2899857,,
-f99f3804-8fcb-11eb-924d-9cd76263cbd0,species,sericanthum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,,,,urn:lsid:ipni.org:names:760877-1,wfo-0000279968,2899760,,
+f99ed882-8fcb-11eb-924d-9cd76263cbd0,species,rigidum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 243 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760875-1,wfo-0000279966,2899929,,
+f99efb28-8fcb-11eb-924d-9cd76263cbd0,species,rufescens,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760876-1,wfo-0000279967,2899857,,
+f99f3804-8fcb-11eb-924d-9cd76263cbd0,species,sericanthum,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 242 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760877-1,wfo-0000279968,2899760,,
 f99f5bcc-8fcb-11eb-924d-9cd76263cbd0,species,sericeum,Polyphragmon,,Desf.,0,1820,,"Mém. Mus. Hist. Nat. 6: 6 (1820)",,,,,,urn:lsid:ipni.org:names:760878-1,wfo-0000279969,2899963,,
 f99f7a80-8fcb-11eb-924d-9cd76263cbd0,species,sessile,Polyphragmon,,Scheff.,0,1876,,"Ann. Jard. Bot. Buitenzorg 1: 67 (1876)",,,,,,urn:lsid:ipni.org:names:760879-1,wfo-0000279970,2899906,,
 f99f9574-8fcb-11eb-924d-9cd76263cbd0,species,spiciflorum,Polyphragmon,,"Zipp. ex Span.",0,1841,,"Linnaea 15: 317 (1841)",,,,,,urn:lsid:ipni.org:names:760880-1,wfo-0000279971,2899964,,
-f99fb054-8fcb-11eb-924d-9cd76263cbd0,species,splendens,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,,,,urn:lsid:ipni.org:names:760881-1,wfo-0000279972,2899789,,
+f99fb054-8fcb-11eb-924d-9cd76263cbd0,species,splendens,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760881-1,wfo-0000279972,2899789,,
 f99fcca6-8fcb-11eb-924d-9cd76263cbd0,species,stipulosum,Polyphragmon,,"Scheffer ex Valeton",0,1909,,"Bull. Dép. Agric. Indes Néerl. 26: 49 (1909)",,,,,,urn:lsid:ipni.org:names:760883-1,wfo-0000279973,2899895,,
-f99fea7e-8fcb-11eb-924d-9cd76263cbd0,species,trichocaulon,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,,,,urn:lsid:ipni.org:names:760884-1,wfo-0000279974,2900012,,
+f99fea7e-8fcb-11eb-924d-9cd76263cbd0,species,trichocaulon,Polyphragmon,,Miq.,0,1869,,"Ann. Mus. Bot. Lugduno-Batavi 4: 241 (1869)",,,Q5696328,,,urn:lsid:ipni.org:names:760884-1,wfo-0000279974,2900012,,

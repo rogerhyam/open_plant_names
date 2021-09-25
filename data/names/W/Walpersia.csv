@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ec018e8a-8fd1-11eb-924d-9cd76263cbd0,genus,Walpersia,,,Harv.,,,,"Fl. Cap. 2: 26 (1861)",,,,,,urn:lsid:ipni.org:names:332057-2,wfo-4000040510,,,
-5d5599b0-8fcc-11eb-924d-9cd76263cbd0,species,burtonioides,Walpersia,,Harv.,0,1861,,"Fl. Cap. 2: 26 (1861)",,,,,,urn:lsid:ipni.org:names:525696-1,wfo-0000427835,5630155,,
+ec018e8a-8fd1-11eb-924d-9cd76263cbd0,genus,Walpersia,,,Harv.,,1861,,"Fl. Cap. 2: 26 (1861)",,,Q15293701,,,urn:lsid:ipni.org:names:332057-2,wfo-4000040510,,,
+5d5599b0-8fcc-11eb-924d-9cd76263cbd0,species,burtonioides,Walpersia,,Harv.,0,1861,,"Fl. Cap. 2: 26 (1861)",,,Q15293701,,,urn:lsid:ipni.org:names:525696-1,wfo-0000427835,5630155,,
 5cc904aa-8fcc-11eb-924d-9cd76263cbd0,species,capitata,Walpersia,,C.Presl,0,1845,,"Abh. Königl. Böhm. Ges. Wiss. ser. 5, 3: 467, 468. 1845 [Jul-Dec 1845] ; Bot. Bemerk. (C. Presl): 37, 38. [Jan-Apr 1846]",,,,,,urn:lsid:ipni.org:names:719165-1,wfo-0000427099,5603171,,
 5cc4f310-8fcc-11eb-924d-9cd76263cbd0,species,curvifolia,Walpersia,,C.Presl,0,1845,,"Abh. Königl. Böhm. Ges. Wiss. ser. 5, 3: 468. 1845 [Jul-Dec 1845] ; Bot. Bemerk. (C. Presl): 38. [Jan-Apr 1846]",,,,,,urn:lsid:ipni.org:names:719166-1,wfo-0000427089,5603169,,
 5cc544a0-8fcc-11eb-924d-9cd76263cbd0,species,dregeana,Walpersia,,C.Presl,0,1845,,"Abh. Königl. Böhm. Ges. Wiss. ser. 5, 3: 468. 1845 [Jul-Dec 1845] ; Bot. Bemerk. (C. Presl): 38. [Jan-Apr 1846]",,,,,,urn:lsid:ipni.org:names:719167-1,wfo-0000427090,5603167,,
@@ -10,4 +10,4 @@ ec018e8a-8fd1-11eb-924d-9cd76263cbd0,genus,Walpersia,,,Harv.,,,,"Fl. Cap. 2: 26 
 5cc35898-8fcc-11eb-924d-9cd76263cbd0,species,spicata,Walpersia,,Reissek,0,,,"in Endl. Gen. 1100.",,,,,,urn:lsid:ipni.org:names:719171-1,wfo-0000427085,5603161,,
 5cc3005a-8fcc-11eb-924d-9cd76263cbd0,species,squarrosa,Walpersia,,C.Presl,0,1845,,"Abh. Königl. Böhm. Ges. Wiss. ser. 5, 3: 468. 1845 [Jul-Dec 1845] ; Bot. Bemerk. (C. Presl): 38. [Jan-Apr 1846]",,,,,,urn:lsid:ipni.org:names:719172-1,wfo-0000427083,5603160,,
 5cc01b38-8fcc-11eb-924d-9cd76263cbd0,species,stipularis,Walpersia,,Reissek,0,,,"in Endl. Gen. 1100.",,,,,,urn:lsid:ipni.org:names:719173-1,wfo-0000427070,5603159,,
-5d55bb02-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Walpersia,,"Meisn. ex C.Krauss",0,1844,,"Flora 27: 357 (1844)",,,,,,urn:lsid:ipni.org:names:525697-1,wfo-0000427836,5630154,,
+5d55bb02-8fcc-11eb-924d-9cd76263cbd0,species,villosa,Walpersia,,"Meisn. ex C.Krauss",0,1844,,"Flora 27: 357 (1844)",,,Q5862699,,,urn:lsid:ipni.org:names:525697-1,wfo-0000427836,5630154,,

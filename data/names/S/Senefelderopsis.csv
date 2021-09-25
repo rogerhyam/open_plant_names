@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ea47fa48-8fd1-11eb-924d-9cd76263cbd0,genus,Senefelderopsis,,,Steyerm.,0,1951,,"Bot. Mus. Leafl. 15: 45 (1951)",,Q100427436,,,,urn:lsid:ipni.org:names:296670-2,wfo-4000035065,3063570,,
-0c2da712-8fcc-11eb-924d-9cd76263cbd0,species,chiribiquetensis,Senefelderopsis,,"(R.E.Schult. & Croizat) Steyerm. in R.E.Schult.",0,1951,,"Bot. Mus. Leafl. 15: 47 (1951)",,Q100427436,,0c2a6a48-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:234291-2,wfo-0000309282,9159806,,
-0c2dc8d2-8fcc-11eb-924d-9cd76263cbd0,species,croizatii,Senefelderopsis,,"Steyerm. in R.E.Schult.",0,1951,,"Bot. Mus. Leafl. 15: 45 (1951)",,,,,,urn:lsid:ipni.org:names:234292-2,wfo-0000309283,3063571,,
+ea47fa48-8fd1-11eb-924d-9cd76263cbd0,genus,Senefelderopsis,,,Steyerm.,0,1951,,"Bot. Mus. Leafl. 15: 45 (1951)",,Q100427436,Q5732619,,,urn:lsid:ipni.org:names:296670-2,wfo-4000035065,3063570,,
+0c2da712-8fcc-11eb-924d-9cd76263cbd0,species,chiribiquetensis,Senefelderopsis,,"(R.E.Schult. & Croizat) Steyerm. in R.E.Schult.",0,1951,,"Bot. Mus. Leafl. 15: 47 (1951)",,Q100427436,Q5732619,0c2a6a48-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:234291-2,wfo-0000309282,9159806,,
+0c2dc8d2-8fcc-11eb-924d-9cd76263cbd0,species,croizatii,Senefelderopsis,,"Steyerm. in R.E.Schult.",0,1951,,"Bot. Mus. Leafl. 15: 45 (1951)",,,Q5732619,,,urn:lsid:ipni.org:names:234292-2,wfo-0000309283,3063571,,
 0c2de5ec-8fcc-11eb-924d-9cd76263cbd0,species,sipapoensis,Senefelderopsis,,Jabl.,0,1965,,"Mem. New York Bot. Gard. 12: 175 (1965)",,,,,,urn:lsid:ipni.org:names:234293-2,wfo-0000309284,3063573,,
 0c2e1c74-8fcc-11eb-924d-9cd76263cbd0,species,venamoensis,Senefelderopsis,,Jabl.,0,1965,,"Mem. New York Bot. Gard. 12: 176 (1965)",,,,,,urn:lsid:ipni.org:names:234294-2,wfo-0000309286,3063572,,
 0c2e36be-8fcc-11eb-924d-9cd76263cbd0,species,yutajensis,Senefelderopsis,,"(Jabl.) Mennega",0,1989,,"Mon. Stud. Sapium (Doctoral Thesis) 201 1989",,,,,,,wfo-0000309287,3073132,,

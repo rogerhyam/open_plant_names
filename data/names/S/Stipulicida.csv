@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-ead95678-8fd1-11eb-924d-9cd76263cbd0,genus,Stipulicida,,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 26 (1803)",,,,,,urn:lsid:ipni.org:names:6477-1,wfo-4000036739,3085326,,
-d8261296-8fd1-11eb-924d-9cd76263cbd0,species,filiformis,Stipulicida,,Nash,0,1895,,"Bull. Torrey Bot. Club 22: 148 (1895)",,Q55766510,,,,urn:lsid:ipni.org:names:246371-2,wfo-0001291920,3815982,,
-d7f6169a-8fd1-11eb-924d-9cd76263cbd0,species,setacea,Stipulicida,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 26 (1803)",,,,,,urn:lsid:ipni.org:names:159559-1,wfo-0001291582,3085327,,
+ead95678-8fd1-11eb-924d-9cd76263cbd0,genus,Stipulicida,,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 26 (1803)",,,Q7486274,,,urn:lsid:ipni.org:names:6477-1,wfo-4000036739,3085326,,
+d8261296-8fd1-11eb-924d-9cd76263cbd0,species,filiformis,Stipulicida,,Nash,0,1895,,"Bull. Torrey Bot. Club 22: 148 (1895)",,Q55766510,Q13548538,,,urn:lsid:ipni.org:names:246371-2,wfo-0001291920,3815982,,
+d7f6169a-8fd1-11eb-924d-9cd76263cbd0,species,setacea,Stipulicida,,Michx.,0,1803,,"Fl. Bor.-Amer. 1: 26 (1803)",,,Q7486274,,,urn:lsid:ipni.org:names:159559-1,wfo-0001291582,3085327,,
 c3fae184-8fd1-11eb-924d-9cd76263cbd0,variety,filiformis,Stipulicida,setacea,"(Nash) D.B.Ward",0,2001,,"Novon 11(3): 361. 2001",,Q55774943,,d8261296-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20001536-1,wfo-0001261433,3815966,,
 13f8dd9a-1d4d-11ec-82c2-f14daa6f2d93,variety,setacea,Stipulicida,setacea,,,,,,,,,,,,wfo-0001247385,,,

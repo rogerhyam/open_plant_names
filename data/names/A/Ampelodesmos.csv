@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 df3a8e68-8fd1-11eb-924d-9cd76263cbd0,genus,Ampelodesmos,,,Link,0,1827,,"Hort. Berol. 1: 136 (1827)",,,,,,urn:lsid:ipni.org:names:325909-2,wfo-4000001668,2703616,,
-c8271240-8fcd-11eb-924d-9cd76263cbd0,species,ampelodesmon,Ampelodesmos,,"(Cirillo) Kerguélen",0,1976,,"Bull. Soc. Bot. France 123(5-6): 319. 1976",,Q55757870,,c7271e26-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:387260-1,wfo-0001098145,4105866,,
-485a5bee-8fcd-11eb-924d-9cd76263cbd0,species,ampelodesmos,Ampelodesmos,,"(Cirillo) Kerguélen",0,1976,,"Bull. Soc. Bot. France 123: 319 1976",,,,4a9cb546-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000845810,5945021,,
+c8271240-8fcd-11eb-924d-9cd76263cbd0,species,ampelodesmon,Ampelodesmos,,"(Cirillo) Kerguélen",0,1976,,"Bull. Soc. Bot. France 123(5-6): 319. 1976",,Q55757870,Q5735483,c7271e26-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:387260-1,wfo-0001098145,4105866,,
+485a5bee-8fcd-11eb-924d-9cd76263cbd0,species,ampelodesmos,Ampelodesmos,,"(Cirillo) Kerguélen",0,1976,,"Bull. Soc. Bot. France 123: 319 1976",,,Q5735483,4a9cb546-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000845810,5945021,,
 485a77a0-8fcd-11eb-924d-9cd76263cbd0,species,australis,Ampelodesmos,,Brongn.,0,1829,,"Voy. Monde , Phan.: 31 (1829)",,,,,,urn:lsid:ipni.org:names:387253-1,wfo-0000845811,5948281,,
 485a93b6-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Ampelodesmos,,Kunth,0,1829,,"Révis. Gramin. 1: 79 (1829)",,,,,,urn:lsid:ipni.org:names:387254-1,wfo-0000845812,4105859,,
 485aafa4-8fcd-11eb-924d-9cd76263cbd0,species,effusus,Ampelodesmos,,Steud.,0,1854,,"Syn. Pl. Glumac. 1: 195 (1854)",,,,,,urn:lsid:ipni.org:names:387255-1,wfo-0000845813,4932207,,
@@ -14,4 +14,4 @@ c6ff29c6-8fd1-11eb-924d-9cd76263cbd0,variety,bicolor,Ampelodesmos,mauriticanus,"
 c70a449a-8fcd-11eb-924d-9cd76263cbd0,variety,bicolor,Ampelodesmos,tenax,"(Poir.) Fiori",0,1896,,"Fl. Italia 1: 66 1896",,,,,,,wfo-0001095751,8279209,,
 c70a606a-8fcd-11eb-924d-9cd76263cbd0,variety,squarrosus,Ampelodesmos,tenax,"Coss. & Durand",0,1855,,"Expl. Sci. Algérie 2: 127 1855",,,,,,,wfo-0001095752,8062860,,
 485b5f1c-8fcd-11eb-924d-9cd76263cbd0,species,thouarii,Ampelodesmos,,"(P.Beauv.) T.Durand & B.D.Jacks.",0,1894,,"Index Kew. Suppl. 1: 24. 1901 , as 'Ampelodesma'",,,,,,urn:lsid:ipni.org:names:387259-1,wfo-0000845819,7444330,,
-485b78b2-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Ampelodonax,,Lojac.,0,1909,,"Fl. Sicul. 3: 282 (1909)",,,,,,urn:lsid:ipni.org:names:387262-1,wfo-0000845820,4105823,,
+485b78b2-8fcd-11eb-924d-9cd76263cbd0,species,bicolor,Ampelodonax,,Lojac.,0,1909,,"Fl. Sicul. 3: 282 (1909)",,,Q16568226,,,urn:lsid:ipni.org:names:387262-1,wfo-0000845820,4105823,,

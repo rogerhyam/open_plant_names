@@ -1,11 +1,11 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e49dce56-8fd1-11eb-924d-9cd76263cbd0,genus,Henriquezia,,,"Spruce ex Benth.",0,1854,,"Hooker's J. Bot. Kew Gard. Misc. 6: 338 (1854)",,,,,,urn:lsid:ipni.org:names:34704-1,wfo-4000017495,2912468,,
 923dbb7a-8fcd-11eb-924d-9cd76263cbd0,species,aturensis,Henriquezia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 7: 368 (1931)",,,,,,urn:lsid:ipni.org:names:120410-2,wfo-0000981474,2897733,,
-923dd768-8fcd-11eb-924d-9cd76263cbd0,species,jenmanii,Henriquezia,,K.Schum.,0,1889,,"Fl. Bras. 6(6): 135 (1889)",,,,,,urn:lsid:ipni.org:names:120411-2,wfo-0000981475,2912472,,
+923dd768-8fcd-11eb-924d-9cd76263cbd0,species,jenmanii,Henriquezia,,K.Schum.,0,1889,,"Fl. Bras. 6(6): 135 (1889)",,,Q5460282,,,urn:lsid:ipni.org:names:120411-2,wfo-0000981475,2912472,,
 923e2402-8fcd-11eb-924d-9cd76263cbd0,species,longisepala,Henriquezia,,Bremek.,0,1957,,"Acta Bot. Neerl. 6: 376 (1957)",,Q55760854,,,,urn:lsid:ipni.org:names:278121-2,wfo-0000981477,2912478,,
 923e4036-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Henriquezia,,Ducke,0,1932,,"Notizbl. Bot. Gart. Berlin-Dahlem 11: 475 (1932)",,Q55777337,,,,urn:lsid:ipni.org:names:120413-2,wfo-0000981478,2912476,,
 923e5c1a-8fcd-11eb-924d-9cd76263cbd0,species,nitida,Henriquezia,,"Spruce ex Benth.",0,1859,,"Trans. Linn. Soc. London 22: 297 (1859)",,Q55760751,,,,urn:lsid:ipni.org:names:753045-1,wfo-0000981479,2912473,,
-923e788a-8fcd-11eb-924d-9cd76263cbd0,variety,longisepala,Henriquezia,nitida,"(Bremek.) G.K.Rogers",0,1984,,"Fl. Neotrop. Monogr. 39: 92. 1984",,Q100888916,,923e2402-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:923394-1,wfo-0000981480,2912477,,
+923e788a-8fcd-11eb-924d-9cd76263cbd0,variety,longisepala,Henriquezia,nitida,"(Bremek.) G.K.Rogers",0,1984,,"Fl. Neotrop. Monogr. 39: 92. 1984",,Q100888916,Q8563892,923e2402-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:923394-1,wfo-0000981480,2912477,,
 923e93e2-8fcd-11eb-924d-9cd76263cbd0,variety,macrophylla,Henriquezia,nitida,"(Ducke) Steyerm.",0,1963,,"Mem. New York Bot. Gard. 10: 206 (1963)",,,,,,urn:lsid:ipni.org:names:120414-2,wfo-0000981481,2912474,,
 99f3b63e-1d4a-11ec-82c2-f14daa6f2d93,variety,nitida,Henriquezia,nitida,,,,,Unknown,,,,,,urn:lsid:ipni.org:names:77169821-1,wfo-0000981482,,,
 923ece3e-8fcd-11eb-924d-9cd76263cbd0,variety,oblonga,Henriquezia,nitida,"(Spruce ex Benth.) Steyerm.",0,1963,,"Mem. New York Bot. Gard. 10: 207 (1963)",,,,923f0aca-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:120415-2,wfo-0000981483,2912480,,

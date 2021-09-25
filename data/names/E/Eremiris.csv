@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-8f758c16-1d4d-11ec-82c2-f14daa6f2d93,genus,Eremiris,,,"(Spach) Rodion.",,,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1707 (2006)",,,,,,urn:lsid:ipni.org:names:77080009-1,wfo-4000013695,,,
-370eec56-8fcd-11eb-924d-9cd76263cbd0,species,lactea,Eremiris,,"(Pall.) Rodion.",0,,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 (2006)",,,,,,urn:lsid:ipni.org:names:77080010-1,wfo-0000808599,2748810,,
-7151c3f8-1d4d-11ec-82c2-f14daa6f2d93,variety,chinensis,Eremiris,lactea,"(Fisch.) M.B.Crespo, Mart.-Azorín & Mavrodiev",,,,"Phytotaxa 232: 58 (2015)",,,,,,urn:lsid:ipni.org:names:77150690-1,wfo-0001385559,,,
-71519bc6-1d4d-11ec-82c2-f14daa6f2d93,variety,chrysantha,Eremiris,lactea,"(Y.T.Zhao) M.B.Crespo, Mart.-Azorín & Mavrodiev",,,,"Phytotaxa 232: 58 (2015)",,,,,,urn:lsid:ipni.org:names:77150688-1,wfo-0001385558,,,
-370f097a-8fcd-11eb-924d-9cd76263cbd0,species,oxypetala,Eremiris,,"(Bunge) Rodion.",0,,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 (2006)",,,,2ead2b0e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77080012-1,wfo-0000808600,2748816,,
+8f758c16-1d4d-11ec-82c2-f14daa6f2d93,genus,Eremiris,,,"(Spach) Rodion.",,2006,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1707 (2006)",,,Q2504738,,,urn:lsid:ipni.org:names:77080009-1,wfo-4000013695,,,
+370eec56-8fcd-11eb-924d-9cd76263cbd0,species,lactea,Eremiris,,"(Pall.) Rodion.",0,2006,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 (2006)",,,Q2504738,,,urn:lsid:ipni.org:names:77080010-1,wfo-0000808599,2748810,,
+7151c3f8-1d4d-11ec-82c2-f14daa6f2d93,variety,chinensis,Eremiris,lactea,"(Fisch.) M.B.Crespo, Mart.-Azorín & Mavrodiev",,2015,,"Phytotaxa 232: 58 (2015)",,,,,,urn:lsid:ipni.org:names:77150690-1,wfo-0001385559,,,
+71519bc6-1d4d-11ec-82c2-f14daa6f2d93,variety,chrysantha,Eremiris,lactea,"(Y.T.Zhao) M.B.Crespo, Mart.-Azorín & Mavrodiev",,2015,,"Phytotaxa 232: 58 (2015)",,,,,,urn:lsid:ipni.org:names:77150688-1,wfo-0001385558,,,
+370f097a-8fcd-11eb-924d-9cd76263cbd0,species,oxypetala,Eremiris,,"(Bunge) Rodion.",0,2006,,"Bot. Zhurn. (Moscow & Leningrad) 91: 1708 (2006)",,,Q2504738,2ead2b0e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77080012-1,wfo-0000808600,2748816,,

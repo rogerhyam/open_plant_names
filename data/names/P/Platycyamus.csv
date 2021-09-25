@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8a7cbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Platycyamus,,,Benth.,0,,,"Fl. Bras. 15(1): 323 (1862)",,,,,,urn:lsid:ipni.org:names:23274-1,wfo-4000030100,2966768,,
-b48184ba-8fc2-11eb-924d-9cd76263cbd0,species,regnellii,Platycyamus,,Benth.,0,,,"Fl. Bras. 15(1): 323 (1862)",,,,,,urn:lsid:ipni.org:names:515190-1,wfo-0000178941,5358188,,
-6a54d766-1d4d-11ec-82c2-f14daa6f2d93,variety,glabrescens,Platycyamus,regnellii,Micheli,,,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1875: 86 (1876)",,,,,,urn:lsid:ipni.org:names:201730-2,wfo-0001376612,,,
+e8a7cbd2-8fd1-11eb-924d-9cd76263cbd0,genus,Platycyamus,,,Benth.,0,1862,,"Fl. Bras. 15(1): 323 (1862)",,,Q5460282,,,urn:lsid:ipni.org:names:23274-1,wfo-4000030100,2966768,,
+b48184ba-8fc2-11eb-924d-9cd76263cbd0,species,regnellii,Platycyamus,,Benth.,0,1862,,"Fl. Bras. 15(1): 323 (1862)",,,Q5460282,,,urn:lsid:ipni.org:names:515190-1,wfo-0000178941,5358188,,
+6a54d766-1d4d-11ec-82c2-f14daa6f2d93,variety,glabrescens,Platycyamus,regnellii,Micheli,,1875,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn 1875: 86 (1876)",,,,,,urn:lsid:ipni.org:names:201730-2,wfo-0001376612,,,
 22a49d0c-1d48-11ec-82c2-f14daa6f2d93,variety,regnellii,Platycyamus,regnellii,Benth.,,,,,,,,,,,wfo-0000184726,,,
-0158368c-8fc1-11eb-924d-9cd76263cbd0,species,ulei,Platycyamus,,Harms,0,,,"Repert. Spec. Nov. Regni Veg. 17: 444 (1921)",,,,,,urn:lsid:ipni.org:names:201731-2,wfo-0000169430,5358191,,
+0158368c-8fc1-11eb-924d-9cd76263cbd0,species,ulei,Platycyamus,,Harms,0,1921,,"Repert. Spec. Nov. Regni Veg. 17: 444 (1921)",,,,,,urn:lsid:ipni.org:names:201731-2,wfo-0000169430,5358191,,
 8dee90a4-8fcc-11eb-924d-9cd76263cbd0,species,funebris,Platycyparis,,"(Endl.) A.V.Bobrov & Melikyan",0,2006,,"Komarovia 4: 73 (2006)",,,,d8ec646e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77076260-1,wfo-0000507807,2684079,,
