@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e7d48aa6-8fd1-11eb-924d-9cd76263cbd0,genus,Pachycarpus,,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 209 (1838)",,,,,,urn:lsid:ipni.org:names:3560-1,wfo-4000027640,3231034,,
-4a75c7de-1d4d-11ec-82c2-f14daa6f2d93,species,acidostelma,Pachycarpus,,"M.Glen & Nicholas",,2011,,"Novon 21: 426 (2011)",,,,,,urn:lsid:ipni.org:names:77119468-1,wfo-0001333015,,,
+4a75c7de-1d4d-11ec-82c2-f14daa6f2d93,species,acidostelma,Pachycarpus,,"M.Glen & Nicholas",,2011,,"Novon 21: 426 (2011)",,,Q2243682,,,urn:lsid:ipni.org:names:77119468-1,wfo-0001333015,,,
 ca24676e-8fcd-11eb-924d-9cd76263cbd0,species,albens,Pachycarpus,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 214 (1838)",,,,,,urn:lsid:ipni.org:names:100215-1,wfo-0001102308,7504764,,
 ca248460-8fcd-11eb-924d-9cd76263cbd0,species,appendiculatus,Pachycarpus,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 210 (1838)",,,,,,urn:lsid:ipni.org:names:100216-1,wfo-0001102309,8087315,,
 ca249e5a-8fcd-11eb-924d-9cd76263cbd0,species,asperifolius,Pachycarpus,,Meisn.,0,1843,,"London J. Bot. 2: 544 (1843)",,,,,,urn:lsid:ipni.org:names:100217-1,wfo-0001102310,8134330,,
@@ -40,7 +40,7 @@ e1af83b2-9a06-11eb-a8a2-19ed5c03f8d3,subspecies,marroninus,Pachycarpus,grantii,G
 ca255e4e-8fcd-11eb-924d-9cd76263cbd0,species,humilis,Pachycarpus,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 212 (1838)",,,,,,urn:lsid:ipni.org:names:100236-1,wfo-0001102317,7356783,,
 caa4e416-8fcd-11eb-924d-9cd76263cbd0,species,inconstans,Pachycarpus,,N.E.Br.,0,1908,,"Fl. Cap. 4(1): 722 (1908)",,,Q15293701,,,urn:lsid:ipni.org:names:100237-1,wfo-0001103433,7876222,,
 caa4ff32-8fcd-11eb-924d-9cd76263cbd0,species,insignis,Pachycarpus,,"(Schltr.) N.E.Br.",0,1908,,"Fl. Cap. 4(1): 731 (1908)",,,Q15293701,,,urn:lsid:ipni.org:names:100238-1,wfo-0001103434,8152442,,
-cab3cf26-8fcd-11eb-924d-9cd76263cbd0,species,lebomboensis,Pachycarpus,,D.M.N.Sm.,0,1983,,"Notes Roy. Bot. Gard. Edinburgh 41: 301 (1983)",,Q102418001,,,,urn:lsid:ipni.org:names:902685-1,wfo-0001103567,7836894,,
+cab3cf26-8fcd-11eb-924d-9cd76263cbd0,species,lebomboensis,Pachycarpus,,D.M.N.Sm.,0,1983,,"Notes Roy. Bot. Gard. Edinburgh 41: 301 (1983)",,Q102418001,Q6045581,,,urn:lsid:ipni.org:names:902685-1,wfo-0001103567,7836894,,
 ca25788e-8fcd-11eb-924d-9cd76263cbd0,species,ligulatus,Pachycarpus,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 211 (1838)",,,,,,urn:lsid:ipni.org:names:100239-1,wfo-0001102318,8131054,,
 caa51b5c-8fcd-11eb-924d-9cd76263cbd0,species,linearis,Pachycarpus,,"(E.Mey.) N.E.Br.",0,1908,,"Fl. Cap. 4(1): 735 (1908)",,,Q15293701,,,urn:lsid:ipni.org:names:100240-1,wfo-0001103435,7661978,,
 41897ff8-8fcc-11eb-924d-9cd76263cbd0,species,lineolatus,Pachycarpus,,"(Decne.) Bullock",0,1953,,"Kew Bull. 8: 333 (1953)",,Q55784069,,039dc8f6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:100241-1,wfo-0000392687,8320937,,

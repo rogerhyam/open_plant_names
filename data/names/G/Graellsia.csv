@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e42926aa-8fd1-11eb-924d-9cd76263cbd0,genus,Graellsia,,,Boiss.,0,1841,,"Ann. Sci. Nat., Bot. , sér. 2, 16: 379 (1841)",,,Q17621119,,,urn:lsid:ipni.org:names:12625-1,wfo-4000016112,3051007,,
 05103b56-8fcd-11eb-924d-9cd76263cbd0,species,chitralensis,Graellsia,,O.E.Schulz,0,1927,,"Notizbl. Bot. Gart. Berlin-Dahlem 9: 1085 (1927)",,Q55777185,,,,urn:lsid:ipni.org:names:284520-1,wfo-0000708418,5376201,,
-05105834-8fcd-11eb-924d-9cd76263cbd0,species,davisiana,Graellsia,,Poulter,0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 91 (1956)",,Q102419094,,,,urn:lsid:ipni.org:names:284521-1,wfo-0000708419,5376198,,
-051073e6-8fcd-11eb-924d-9cd76263cbd0,species,graellsiifolia,Graellsia,,"(Lipsky) Poulter",0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 92 (1956)",,Q102419094,,,,urn:lsid:ipni.org:names:284522-1,wfo-0000708420,5376203,,
+05105834-8fcd-11eb-924d-9cd76263cbd0,species,davisiana,Graellsia,,Poulter,0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 91 (1956)",,Q102419094,Q6045581,,,urn:lsid:ipni.org:names:284521-1,wfo-0000708419,5376198,,
+051073e6-8fcd-11eb-924d-9cd76263cbd0,species,graellsiifolia,Graellsia,,"(Lipsky) Poulter",0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 92 (1956)",,Q102419094,Q6045581,,,urn:lsid:ipni.org:names:284522-1,wfo-0000708420,5376203,,
 051093a8-8fcd-11eb-924d-9cd76263cbd0,species,hederifolia,Graellsia,,"(Coss.) R.D.Hyam & Jury",0,1990,,"Bot. J. Linn. Soc. 102: 21 (1990)",,Q43296902,Q2975482,e747e92a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:947599-1,wfo-0000708421,5376195,,
 0510b0fe-8fcd-11eb-924d-9cd76263cbd0,subspecies,cossonii,Graellsia,hederifolia,"(Schulz) R.D.Hyam & Jury",0,1990,,"Bot. J. Linn. Soc. 102: 21 (1990)",,Q43296902,Q2975482,e728e3d6-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:956048-1,wfo-0000708422,5376197,,
 90adc32e-1d4c-11ec-82c2-f14daa6f2d93,subspecies,hederifolia,Graellsia,hederifolia,,,,,,,,,,,,wfo-0001036074,,,
@@ -10,5 +10,5 @@ e42926aa-8fd1-11eb-924d-9cd76263cbd0,genus,Graellsia,,,Boiss.,0,1841,,"Ann. Sci.
 0510e7ae-8fcd-11eb-924d-9cd76263cbd0,species,integrifolia,Graellsia,,"(Rech.f.) Rech.f.",0,1951,,"Phyton (Horn) 3: 58 (1951)",,,,,,urn:lsid:ipni.org:names:284523-1,wfo-0000708424,5376199,,
 05110482-8fcd-11eb-924d-9cd76263cbd0,species,saxifragifolia,Graellsia,,Boiss.,0,1842,,"Ann. Sci. Nat., Bot. , sér. 2, 17: 173 (1842)",,,Q17621119,ced83fc0-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:284524-1,wfo-0000708425,5376207,,
 ff2ee792-1d4c-11ec-82c2-f14daa6f2d93,subspecies,saxifragifolia,Graellsia,saxifragifolia,,,,,,,,,,,,wfo-0001217578,,,
-05112408-8fcd-11eb-924d-9cd76263cbd0,species,stylosa,Graellsia,,"(Boiss. & Hohen.) Poulter",0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 92 (1956)",,Q102419094,,ad7c9014-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:284525-1,wfo-0000708426,5376205,,
+05112408-8fcd-11eb-924d-9cd76263cbd0,species,stylosa,Graellsia,,"(Boiss. & Hohen.) Poulter",0,1956,,"Notes Roy. Bot. Gard. Edinburgh 22: 92 (1956)",,Q102419094,Q6045581,ad7c9014-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:284525-1,wfo-0000708426,5376205,,
 f62dd094-8fb8-11eb-924d-9cd76263cbd0,species,aromatica,Graemia,,Hook.,0,1836,,"Exot. Fl. 3(29): t. 189 (1825)",,,,,,urn:lsid:ipni.org:names:210474-1,wfo-0000114157,,,

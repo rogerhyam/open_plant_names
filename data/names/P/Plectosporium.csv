@@ -1,8 +1,8 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9ea2ffe2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Plectosporium,,,"M.E. Palm, W. Gams & Nirenberg",,1995,conserved,"Mycologia 87(3): 398 (1995)",,,,9ea2ffe2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17480,"Nom. cons., see Art. 14 "
+9ea2ffe2-9bad-11eb-a8a2-19ed5c03f8d3,genus,Plectosporium,,,"M.E. Palm, W. Gams & Nirenberg",,1995,conserved,"Mycologia 87(3): 398 (1995)",,,Q1962302,9ea2ffe2-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17480,"Nom. cons., see Art. 14 "
 779ddffc-9bad-11eb-a8a2-19ed5c03f8d3,species,alismatis,Plectosporium,,"(Oudem.) W.M. Pitt, W. Gams & U. Braun",0,2004,,"in Pitt, Goodwin, Ash, Cother & Cother, Mycol. Res. 108(7): 779 (2004)",,,,,,,,,488123," "
 642dc16c-9bad-11eb-a8a2-19ed5c03f8d3,species,delsorboi,Plectosporium,,"Antignani & W. Gams",,2008,,"Nova Hedwigia 86(1-2): 212 (2008)",,,,642dc16c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,511074," "
-019dd326-9bac-11eb-a8a2-19ed5c03f8d3,species,tabacinum,Plectosporium,,"(J.F.H. Beyma) M.E. Palm, W. Gams & Nirenberg",,1995,,"Mycologia 87(3): 399 (1995)",,,,e5555332-9bac-11eb-a8a2-19ed5c03f8d3,,,,,413847," "
+019dd326-9bac-11eb-a8a2-19ed5c03f8d3,species,tabacinum,Plectosporium,,"(J.F.H. Beyma) M.E. Palm, W. Gams & Nirenberg",,1995,,"Mycologia 87(3): 399 (1995)",,,Q1962302,e5555332-9bac-11eb-a8a2-19ed5c03f8d3,,,,,413847," "
 5d7c8e70-8fcd-11eb-924d-9cd76263cbd0,species,aristiglumis,Plectrachne,,Lazarides,0,1984,,"Nuytsia 5: 278 (1984 publ. 1985)",,,,,,urn:lsid:ipni.org:names:906868-1,wfo-0000890923,4132596,,
 5d7cac02-8fcd-11eb-924d-9cd76263cbd0,species,bromoides,Plectrachne,,"(F.Muell.) C.E.Hubb.",0,1939,,"Hooker's Icon. Pl. 34: t. 3385, p. 2 (1939)",,,,69514e7a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:416238-1,wfo-0000890924,4132583,,
 5d7cc82c-8fcd-11eb-924d-9cd76263cbd0,species,bunglensis,Plectrachne,,S.W.L.Jacobs,0,1992,,"Nuytsia 8: 222 (1992)",,,,,,urn:lsid:ipni.org:names:961040-1,wfo-0000890925,4132570,,
@@ -22,6 +22,6 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 5d7e5d68-8fcd-11eb-924d-9cd76263cbd0,species,rigidissima,Plectrachne,,"(Pilg.) C.E.Hubb.",0,1939,,"Hooker's Icon. Pl. 34: t. 3385, p. 2 (1939)",,,,69565866-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:416247-1,wfo-0000890939,4132404,,
 5d7e7e92-8fcd-11eb-924d-9cd76263cbd0,species,schinzii,Plectrachne,,Henrard,0,1929,,"Vierteljahrsschr. Naturf. Ges. Zürich 74: 134 (1929)",,,,,,urn:lsid:ipni.org:names:416248-1,wfo-0000890940,4132389,,
 5d7e9f12-8fcd-11eb-924d-9cd76263cbd0,species,uniaristata,Plectrachne,,Lazarides,0,1984,,"Nuytsia 5: 280 (1984 publ. 1985)",,,,,,urn:lsid:ipni.org:names:906871-1,wfo-0000890941,4132369,,
-f68c5da4-8fcb-11eb-924d-9cd76263cbd0,species,clerodendroides,Plectranthastrum,,T.C.E.Fr.,0,1924,,"Repert. Spec. Nov. Regni Veg. 19: 297 (1924)",,Q55808508,,,,urn:lsid:ipni.org:names:454230-1,wfo-0000275197,3881724,,
+f68c5da4-8fcb-11eb-924d-9cd76263cbd0,species,clerodendroides,Plectranthastrum,,T.C.E.Fr.,0,1924,,"Repert. Spec. Nov. Regni Veg. 19: 297 (1924)",,Q55808508,Q6105814,,,urn:lsid:ipni.org:names:454230-1,wfo-0000275197,3881724,,
 f68c9d64-8fcb-11eb-924d-9cd76263cbd0,species,cylindricalyx,Plectranthastrum,,B.Mathew,0,1971,,"Kew Bull. 25: 409 (1971)",,Q55778436,,,,urn:lsid:ipni.org:names:454231-1,wfo-0000275199,3881718,,
 f68cb998-8fcb-11eb-924d-9cd76263cbd0,species,rosmarinifolium,Plectranthastrum,,"(Welw.) B.Mathew",0,1971,,"Kew Bull. 25: 408 (1971)",,Q55778436,,,,urn:lsid:ipni.org:names:454232-1,wfo-0000275200,3881710,,

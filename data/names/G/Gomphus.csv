@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9f630800-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gomphus,,,"(Fr.) Weinm.",0,1826,,"Syll. Pl. Nov. 2: 99 (1826)",,,,,,,,,17689," "
-ac0770a0-9bad-11eb-a8a2-19ed5c03f8d3,species,africanus,Gomphus,,"R.H. Petersen",,1976,,"Mycologia 68(2): 429 (1976)",,,,ac0770a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314679," "
+ac0770a0-9bad-11eb-a8a2-19ed5c03f8d3,species,africanus,Gomphus,,"R.H. Petersen",,1976,,"Mycologia 68(2): 429 (1976)",,,Q1962302,ac0770a0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,314679," "
 76027cd0-9bac-11eb-a8a2-19ed5c03f8d3,species,astroites,Gomphus,,"(Scop.) Pers.",0,1825,,"Mycol. eur. (Erlanga) 2: 10 (1825)",,,,05ccaa8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,469374," "
 c321e6fe-9bac-11eb-a8a2-19ed5c03f8d3,species,bonarii,Gomphus,,"(Morse) Singer",0,1945,,"Lloydia 8: 140 (1945)",,,,1d4068d2-9bac-11eb-a8a2-19ed5c03f8d3,,,,,286730," "
 a556ab8c-9bac-11eb-a8a2-19ed5c03f8d3,form,bonarii,Gomphus,bonarii,"(Morse) Singer",0,1945,,"Lloydia 8: 140 (1945)",,,,a556ab8c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,426857," "
@@ -27,7 +27,7 @@ c322344c-9bac-11eb-a8a2-19ed5c03f8d3,species,floccosus,Gomphus,,"(Schwein.) Sing
 0d8cc2be-9bac-11eb-a8a2-19ed5c03f8d3,form,coccineo-basalis,Gomphus,floccosus,"R.H. Petersen",,,,,,,,0d8cc2be-9bac-11eb-a8a2-19ed5c03f8d3,,,,,528150," Gomphus floccosus f. coccineobasalis"
 2c542916-9bad-11eb-a8a2-19ed5c03f8d3,form,coccineobasalis,Gomphus,floccosus,"R.H. Petersen",,1972,,"Nova Hedwigia 21: 52 (1972)",,,,2c542916-9bad-11eb-a8a2-19ed5c03f8d3,,,,,348192," coccineo-basalis"
 2d541e52-9bad-11eb-a8a2-19ed5c03f8d3,form,cystidiophorus,Gomphus,floccosus,"R.H. Petersen",,1968,,"J. Elisha Mitchell scient. Soc. 84: 376 (1968)",,,,2d541e52-9bad-11eb-a8a2-19ed5c03f8d3,,,,,349521," "
-5d6cffb0-9bac-11eb-a8a2-19ed5c03f8d3,form,excavatus,Gomphus,floccosus,"Sm.{?} & Morse",0,1947,,"Mycologia 39(5): 525 (1947)",,,,5d6cffb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,494357," "
+5d6cffb0-9bac-11eb-a8a2-19ed5c03f8d3,form,excavatus,Gomphus,floccosus,"Sm.{?} & Morse",0,1947,,"Mycologia 39(5): 525 (1947)",,,Q1962302,5d6cffb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,494357," "
 a556dbe8-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,floccosus,Gomphus,floccosus,"(Schwein.) Singer",0,1945,,"Lloydia 8: 140 (1945)",,,,a556dbe8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,426858," "
 a5571cb6-9bac-11eb-a8a2-19ed5c03f8d3,form,floccosus,Gomphus,floccosus,"(Schwein.) Singer",0,1945,,"Lloydia 8: 140 (1945)",,,,a5571cb6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,426859," "
 a6a8ca78-9bad-11eb-a8a2-19ed5c03f8d3,form,olivaceus,Gomphus,floccosus,"R.H. Petersen",,1972,,"Nova Hedwigia 21: 54 (1972)",,,,a6a8ca78-9bad-11eb-a8a2-19ed5c03f8d3,,,,,348193," "

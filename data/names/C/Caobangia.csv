@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e12cd47e-8fd1-11eb-924d-9cd76263cbd0,genus,Caobangia,,,"A.R.Sm. & X.C.Zhang",0,2002,,"Novon 12(4): 546 (2002)",,,,,,urn:lsid:ipni.org:names:325608-2,wfo-4000006571,3229303,,
-c723af44-8fd1-11eb-924d-9cd76263cbd0,species,squamata,Caobangia,,"A.R.Sm. & X.C.Zhang",0,2002,,"Novon 12(4): 549 (2002)",,Q55775067,,,,urn:lsid:ipni.org:names:20009918-1,wfo-0001267171,5646860,,
+e12cd47e-8fd1-11eb-924d-9cd76263cbd0,genus,Caobangia,,,"A.R.Sm. & X.C.Zhang",0,2002,,"Novon 12(4): 546 (2002)",,,Q2243682,,,urn:lsid:ipni.org:names:325608-2,wfo-4000006571,3229303,,
+c723af44-8fd1-11eb-924d-9cd76263cbd0,species,squamata,Caobangia,,"A.R.Sm. & X.C.Zhang",0,2002,,"Novon 12(4): 549 (2002)",,Q55775067,Q2243682,,,urn:lsid:ipni.org:names:20009918-1,wfo-0001267171,5646860,,
 bd27f16c-8fcc-11eb-924d-9cd76263cbd0,species,acuminata,Caopia,,"(Lam.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44464-2,wfo-0000584161,3713291,,
 bd2828b2-8fcc-11eb-924d-9cd76263cbd0,species,affinis,Caopia,,"(Oliv.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:433011-1,wfo-0000584163,3713287,,
 bd2844fa-8fcc-11eb-924d-9cd76263cbd0,species,arborescens,Caopia,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44465-2,wfo-0000584164,3713280,,
@@ -34,7 +34,7 @@ bd2bde58-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Caopia,,"(A.St.-Hil.) Kun
 bd2c0cc0-8fcc-11eb-924d-9cd76263cbd0,species,obtusa,Caopia,,"(Spruce ex Reichardt) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44491-2,wfo-0000584192,3712968,,
 bd2c3736-8fcc-11eb-924d-9cd76263cbd0,species,panamensis,Caopia,,"(Duchass. & Walp.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44492-2,wfo-0000584193,3712953,,
 bd2c8f88-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Caopia,,"(Cham. & Schltdl.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44493-2,wfo-0000584195,3712940,,
-bd2cb0e4-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Caopia,,"(Hochr.) Rusby",0,1934,,"Phytologia 1: 65 (1934)",,,,,,urn:lsid:ipni.org:names:44494-2,wfo-0000584196,3712928,,
+bd2cb0e4-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Caopia,,"(Hochr.) Rusby",0,1934,,"Phytologia 1: 65 (1934)",,,Q2230701,,,urn:lsid:ipni.org:names:44494-2,wfo-0000584196,3712928,,
 bd2cd0ec-8fcc-11eb-924d-9cd76263cbd0,species,petiolata,Caopia,,"(L.) Kuntze",0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:44495-2,wfo-0000584197,3712913,,
 bd2d04b8-8fcc-11eb-924d-9cd76263cbd0,species,reichardiana,Caopia,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 59. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:433043-1,wfo-0000584198,3712910,,
 bedcbc7c-8fd1-11eb-924d-9cd76263cbd0,species,reichardtiana,Caopia,,Kuntze,0,1891,,"Revis. Gen. Pl. 1: 59 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:294883-2,wfo-0001251912,3712903,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 df8efc5a-8fd1-11eb-924d-9cd76263cbd0,genus,Antiphytum,,,"DC. ex Meisn.",0,1837,,"Pl. Vasc. Gen. : 280 (1840)",,,,,,urn:lsid:ipni.org:names:4458-1,wfo-4000002502,2926031,,
-a07fa690-8fcc-11eb-924d-9cd76263cbd0,species,bornmuelleri,Antiphytum,,Pilg.,0,1906,,"Repert. Spec. Nov. Regni Veg. 3: 24 (1906)",,Q55750657,,,,urn:lsid:ipni.org:names:15868-2,wfo-0000539067,4065667,,
-a07ff5fa-8fcc-11eb-924d-9cd76263cbd0,variety,asperior,Antiphytum,bornmulleri,Pilg.,0,1906,,"Repert. Spec. Nov. Regni Veg. 3: 25 (1906)",,Q55750661,,,,urn:lsid:ipni.org:names:15869-2,wfo-0000539069,8353719,,
+a07fa690-8fcc-11eb-924d-9cd76263cbd0,species,bornmuelleri,Antiphytum,,Pilg.,0,1906,,"Repert. Spec. Nov. Regni Veg. 3: 24 (1906)",,Q55750657,Q6105814,,,urn:lsid:ipni.org:names:15868-2,wfo-0000539067,4065667,,
+a07ff5fa-8fcc-11eb-924d-9cd76263cbd0,variety,asperior,Antiphytum,bornmulleri,Pilg.,0,1906,,"Repert. Spec. Nov. Regni Veg. 3: 25 (1906)",,Q55750661,Q6105814,,,urn:lsid:ipni.org:names:15869-2,wfo-0000539069,8353719,,
 a0801f30-8fcc-11eb-924d-9cd76263cbd0,species,caespitosum,Antiphytum,,I.M.Johnst.,0,1923,,"Contr. Gray Herb. 68: 52 (1923)",,Q94388158,,,,urn:lsid:ipni.org:names:15870-2,wfo-0000539070,4065639,,
 4675099c-1d4d-11ec-82c2-f14daa6f2d93,species,cruciatum,Antiphytum,,DC.,,1846,,"Prodr. 10: 121 (1846)",,,Q2712448,,,urn:lsid:ipni.org:names:113417-1,wfo-0001327636,,,
 a0805572-8fcc-11eb-924d-9cd76263cbd0,species,cruciatum,Antiphytum,,"(Cham.) A.DC.",0,1846,,"Prodr. 10: 121 1846",,,Q2712448,,,,wfo-0000539071,2926034,,

@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9c679b8e-9bad-11eb-a8a2-19ed5c03f8d3,genus,Cystopus,,,Lév.,0,1847,,"Annls Sci. Nat., Bot., sér. 3 8: 371 (1847)",,,,9c679b8e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,20157," "
 06e11978-9bad-11eb-a8a2-19ed5c03f8d3,species,amaranthi,Cystopus,,"(Schwein.) Berk.",0,1874,,"in Berkeley & Broome, Grevillea 3(no. 26): 58 (1874)",,,,7fa45880-9bac-11eb-a8a2-19ed5c03f8d3,,,,,233452," "
-7d4aa962-8fcd-11eb-924d-9cd76263cbd0,species,aneytyumensis,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. 9: 282 (1911)",,Q55752310,,,,urn:lsid:ipni.org:names:626434-1,wfo-0000936264,5311238,,
+7d4aa962-8fcd-11eb-924d-9cd76263cbd0,species,aneytyumensis,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. 9: 282 (1911)",,Q55752310,Q6105814,,,urn:lsid:ipni.org:names:626434-1,wfo-0000936264,5311238,,
 67610d90-9bac-11eb-a8a2-19ed5c03f8d3,species,austroafricanus,Cystopus,,"(Syd. & P. Syd.) Sacc. & Trotter",0,,,,,,,77c6266a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,257972," "
 66a0c188-9bad-11eb-a8a2-19ed5c03f8d3,species,blighiae,Cystopus,,anon.,,,,,,,,66a0c188-9bad-11eb-a8a2-19ed5c03f8d3,,,,,258574," "
 4739f158-9bac-11eb-a8a2-19ed5c03f8d3,species,bliti,Cystopus,,Speg.,0,1848,,"Annls Sci. Nat., Bot., sér. 3 8: 371 (1848)",,,,4739f158-9bac-11eb-a8a2-19ed5c03f8d3,,,,,197384," "
@@ -32,7 +32,7 @@ d625c3ec-9bac-11eb-a8a2-19ed5c03f8d3,species,capparidis,Cystopus,,"de Bary",0,,,
 8f879974-9bac-11eb-a8a2-19ed5c03f8d3,species,capparis,Cystopus,,"de Bary",0,,,,,,,8f879974-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199282," capparidis changes in orthography are in accordance with the conserved spelling of the relevant family names as given in Appendix IIB(E) of the Code"
 0d4b7ebc-9bac-11eb-a8a2-19ed5c03f8d3,species,centaurii,Cystopus,,Hansf.,,1954,,"Reinwardtia 79(3-4): 97 (1954)",,,,0d4b7ebc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,296364," "
 7d4b12e4-8fcd-11eb-924d-9cd76263cbd0,species,clarkei,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:626437-1,wfo-0000936267,5308507,,
-7d4b6b9a-8fcd-11eb-924d-9cd76263cbd0,species,coerulescens,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 68 (1911)",,,,,,urn:lsid:ipni.org:names:626438-1,wfo-0000936268,5311258,,
+7d4b6b9a-8fcd-11eb-924d-9cd76263cbd0,species,coerulescens,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 68 (1911)",,,Q6105814,,,urn:lsid:ipni.org:names:626438-1,wfo-0000936268,5311258,,
 5830e1d8-9bac-11eb-a8a2-19ed5c03f8d3,species,convolvulacearum,Cystopus,,Speg.,0,1883,,"Zalw. Bot. Cent. 15: 223 (1883)",,,,5830e1d8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199370," "
 b4609d86-9bac-11eb-a8a2-19ed5c03f8d3,variety,convolvulacearum,Cystopus,convolvulacearum,Speg.,0,1883,,"Zalw. Bot. Cent. 15: 223 (1883)",,,,b4609d86-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420912," "
 f88fda12-9bac-11eb-a8a2-19ed5c03f8d3,variety,minor,Cystopus,convolvulacearum,Speg.,0,1884,,"Fungi Guarantici 1: 65 (1884)",,,,f88fda12-9bac-11eb-a8a2-19ed5c03f8d3,,,,,199086," "
@@ -55,7 +55,7 @@ c9b0d016-9bac-11eb-a8a2-19ed5c03f8d3,species,eurotiae,Cystopus,,"(Tranzschel) Sa
 7d4c1158-8fcd-11eb-924d-9cd76263cbd0,species,flavescens,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:626443-1,wfo-0000936274,5308516,,
 7d4c2bb6-8fcd-11eb-924d-9cd76263cbd0,species,flavus,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:626444-1,wfo-0000936275,5308567,,
 9d5e4c96-9bac-11eb-a8a2-19ed5c03f8d3,species,froelichiae,Cystopus,,"(G.W. Wilson) Sacc. & Trotter",0,1912,,"in Saccardo, Syll. fung. (Abellini) 21: 859 (1912)",,,,0f8fe596-9bac-11eb-a8a2-19ed5c03f8d3,,,,,218360," "
-7d4c49fc-8fcd-11eb-924d-9cd76263cbd0,species,funkii,Cystopus,,Schltr.,0,1910,,"Repert. Spec. Nov. Regni Veg. 9: 89 (1910)",,Q55752182,,,,urn:lsid:ipni.org:names:626445-1,wfo-0000936276,5311233,,
+7d4c49fc-8fcd-11eb-924d-9cd76263cbd0,species,funkii,Cystopus,,Schltr.,0,1910,,"Repert. Spec. Nov. Regni Veg. 9: 89 (1910)",,Q55752182,Q6105814,,,urn:lsid:ipni.org:names:626445-1,wfo-0000936276,5311233,,
 55c4e9e4-9bac-11eb-a8a2-19ed5c03f8d3,species,gomphrenae,Cystopus,,Speg.,0,1909,,"Anal. Mus. nac. Hist. nat. B. Aires 19(12): 283 (1909)",,,,55c4e9e4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,140974," "
 7d4c6842-8fcd-11eb-924d-9cd76263cbd0,species,grandiflorus,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:626446-1,wfo-0000936277,5308579,,
 7d4c8610-8fcd-11eb-924d-9cd76263cbd0,species,hasseltii,Cystopus,,Blume,0,1859,,"Coll. Orchid. : 86 (1859)",,,,,,urn:lsid:ipni.org:names:626447-1,wfo-0000936278,5311262,,
@@ -80,13 +80,13 @@ b24935b6-9bad-11eb-a8a2-19ed5c03f8d3,species,mikaniae,Cystopus,,Speg.,0,1902,,"A
 b7bafd0e-9bad-11eb-a8a2-19ed5c03f8d3,species,occidentalis,Cystopus,,"(G.W. Wilson) Sacc. & Trotter",0,1912,,"Syll. fung. (Abellini) 21: 859 (1912)",,,,070d780c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,219779," "
 7d4e01d4-8fcd-11eb-924d-9cd76263cbd0,species,occultus,Cystopus,,Blume,0,1859,,"Coll. Orchid. : 85 (1859)",,,,,,urn:lsid:ipni.org:names:626459-1,wfo-0000936290,5311254,,
 7d4e1c6e-8fcd-11eb-924d-9cd76263cbd0,species,pectinatus,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,,,urn:lsid:ipni.org:names:626460-1,wfo-0000936291,5308524,,
-7d4e3942-8fcd-11eb-924d-9cd76263cbd0,species,pectiniferus,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 69 (1911)",,,,,,urn:lsid:ipni.org:names:626461-1,wfo-0000936292,5311264,,
+7d4e3942-8fcd-11eb-924d-9cd76263cbd0,species,pectiniferus,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 69 (1911)",,,Q6105814,,,urn:lsid:ipni.org:names:626461-1,wfo-0000936292,5311264,,
 7d4e7218-8fcd-11eb-924d-9cd76263cbd0,species,philippinensis,Cystopus,,Ames,0,1915,,"Orchidaceae 5: 35 (1915)",,,,,,urn:lsid:ipni.org:names:626462-1,wfo-0000936294,5311239,,
 09d4ce3c-9bac-11eb-a8a2-19ed5c03f8d3,species,platensis,Cystopus,,Speg.,0,1891,,"Revista Argent. Hist. Nat. 1: 32 (1891)",,,,09d4ce3c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227523," "
 c6f60bca-9bac-11eb-a8a2-19ed5c03f8d3,species,portulacae,Cystopus,,"(DC. ex Duby) Lév.",0,1848,,"Annls Sci. Nat., Bot., sér. 3 8: 371 (1848)",,,,91c04eca-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227996," "
-7d4e8c3a-8fcd-11eb-924d-9cd76263cbd0,species,puberulus,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 70 (1911)",,,,,,urn:lsid:ipni.org:names:626463-1,wfo-0000936295,5311255,,
+7d4e8c3a-8fcd-11eb-924d-9cd76263cbd0,species,puberulus,Cystopus,,Schltr.,0,1911,,"Repert. Spec. Nov. Regni Veg. Beih. 1: 70 (1911)",,,Q6105814,,,urn:lsid:ipni.org:names:626463-1,wfo-0000936295,5311255,,
 7d4ea896-8fcd-11eb-924d-9cd76263cbd0,species,pubescens,Cystopus,,Blume,0,1859,,"Coll. Orchid. : 86 (1859)",,,,,,urn:lsid:ipni.org:names:626464-1,wfo-0000936296,5311266,,
-4e8b316a-9bac-11eb-a8a2-19ed5c03f8d3,species,pulverulentus,Cystopus,,"Berk. & M.A. Curtis",0,1868,,"in Berkeley, J. Linn. Soc., Bot. 10(no. 46): 357 (1868)",,,,4e8b316a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227687," "
+4e8b316a-9bac-11eb-a8a2-19ed5c03f8d3,species,pulverulentus,Cystopus,,"Berk. & M.A. Curtis",0,1868,,"in Berkeley, J. Linn. Soc., Bot. 10(no. 46): 357 (1868)",,,Q5946734,4e8b316a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,227687," "
 7d4ec4a2-8fcd-11eb-924d-9cd76263cbd0,species,pumilus,Cystopus,,Kuntze,0,1891,,"Revis. Gen. Pl. 2: 658 (1891)",,,Q7318442,e913a7b8-8fcb-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:626465-1,wfo-0000936297,5308681,,
 405f9a86-9bac-11eb-a8a2-19ed5c03f8d3,species,quadratus,Cystopus,,"Kalchbr. & Cooke",0,1880,,"Grevillea 9(no. 49): 22 (1880)",,,,405f9a86-9bac-11eb-a8a2-19ed5c03f8d3,,,,,216078," "
 e2b70d50-9bac-11eb-a8a2-19ed5c03f8d3,species,resedae,Cystopus,,Jacz.,,1938,,"Palest. J. Bot., Jerusalem Series 1: 147 (1938)",,,,e2b70d50-9bac-11eb-a8a2-19ed5c03f8d3,,,,,276273," "
@@ -100,7 +100,7 @@ b9adf5ee-9bad-11eb-a8a2-19ed5c03f8d3,species,sphaericus,Cystopus,,Bonord.,,,,,,,
 7d4eff76-8fcd-11eb-924d-9cd76263cbd0,species,spicatus,Cystopus,,Blume,0,1859,,"Coll. Orchid. : 84 (1859)",,,,,,urn:lsid:ipni.org:names:626467-1,wfo-0000936299,5311268,,
 4bf36562-9bac-11eb-a8a2-19ed5c03f8d3,species,spinulosus,Cystopus,,"de Bary",0,1862,,"in Rabenhorst, Fungi europ. exsicc. no. 479 (1862)",,,,4bf36562-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223300," "
 b99080e0-9bad-11eb-a8a2-19ed5c03f8d3,species,swertiae,Cystopus,,"(Berl. & Kom.) Sacc. & Trotter",0,,,,,,,5495680a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,223378," "
-7d4f193e-8fcd-11eb-924d-9cd76263cbd0,species,tashiroi,Cystopus,,Schltr.,0,1919,,"Repert. Spec. Nov. Regni Veg. Beih. 4: 169 (1919)",,,,,,urn:lsid:ipni.org:names:626468-1,wfo-0000936300,5311242,,
+7d4f193e-8fcd-11eb-924d-9cd76263cbd0,species,tashiroi,Cystopus,,Schltr.,0,1919,,"Repert. Spec. Nov. Regni Veg. Beih. 4: 169 (1919)",,,Q6105814,,,urn:lsid:ipni.org:names:626468-1,wfo-0000936300,5311242,,
 b5b1699e-9bad-11eb-a8a2-19ed5c03f8d3,species,tillaeae,Cystopus,,Lagerh.,0,,,,,,,b5b1699e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,223432," "
 3202758e-9bad-11eb-a8a2-19ed5c03f8d3,species,tragopogi,Cystopus,,"(DC.) J. Schröt.",0,,,,,,,44a77366-9bac-11eb-a8a2-19ed5c03f8d3,,,,,356646," Cystopus tragopogonis"
 c6d84252-9bac-11eb-a8a2-19ed5c03f8d3,form,tragopogi,Cystopus,tragopogi,"(DC.) J. Schröt.",0,,,,,,,c6d84252-9bac-11eb-a8a2-19ed5c03f8d3,,,,,505992," "

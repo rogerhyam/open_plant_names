@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-eb9185ea-8fd1-11eb-924d-9cd76263cbd0,genus,Tridens,,,"Roem. & Schult.",0,1817,,"Syst. Veg., ed. 15 bis 2: 34 (1817)",,,,eb9185ea-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:325434-2,wfo-4000039110,2702939,5601," "
+eb9185ea-8fd1-11eb-924d-9cd76263cbd0,genus,Tridens,,,"Roem. & Schult.",0,1817,,"Syst. Veg., ed. 15 bis 2: 34 (1817)",,,Q58829765,eb9185ea-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:325434-2,wfo-4000039110,2702939,5601," "
 68ffa6a6-8fcd-11eb-924d-9cd76263cbd0,species,albescens,Tridens,,"Wooton & Standl.",0,1912,,"Bull. New Mexico Agric. Exp. Sta. 81: 129 (1912)",,,,,,urn:lsid:ipni.org:names:257751-2,wfo-0000904439,,,
 68ffd04a-8fcd-11eb-924d-9cd76263cbd0,species,ambiguus,Tridens,,"(Elliott) Schult.",0,1824,,"Mant. 2: 333 (1824)",,,,,,urn:lsid:ipni.org:names:1144317-2,wfo-0000904440,5289660,,
 7a426904-1d4d-11ec-82c2-f14daa6f2d93,variety,longiglumis,Tridens,avenacea,Parodi,,1937,,"Revista Argent. Agron. 4(4): 255, fig. 1937",,,,,,urn:lsid:ipni.org:names:257753-2,wfo-0001397442,,,
@@ -11,7 +11,7 @@ bcd59ac6-1d4c-11ec-82c2-f14daa6f2d93,variety,avenaceus,Tridens,avenaceus,,,,,,,,
 690075a4-8fcd-11eb-924d-9cd76263cbd0,variety,pygmaeus,Tridens,avenaceus,"(Hack.) Parodi",0,1937,,"Revista Argent. Agron. 4: 253 (1937)",,,,,,urn:lsid:ipni.org:names:257757-2,wfo-0000904444,5674523,,
 6900df08-8fcd-11eb-924d-9cd76263cbd0,species,brasiliensis,Tridens,,"(Steud.) Nees ex Parodi",0,1937,,"Revista Argent. Agron. 4: 245 (1937)",,,,,,urn:lsid:ipni.org:names:257758-2,wfo-0000904446,4119230,,
 6900fdd0-8fcd-11eb-924d-9cd76263cbd0,species,buckleyanus,Tridens,,"Nash in Small",0,1903,,"Fl. S.E. U.S. : 143 (1903)",,,,,,urn:lsid:ipni.org:names:257759-2,wfo-0000904447,5289656,,
-69015870-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Tridens,,Nees,0,1832,,"Linnaea 7: 324. 1832",,,,,,urn:lsid:ipni.org:names:424760-1,wfo-0000904448,5674522,,
+69015870-8fcd-11eb-924d-9cd76263cbd0,species,capensis,Tridens,,Nees,0,1832,,"Linnaea 7: 324. 1832",,,Q5976761,,,urn:lsid:ipni.org:names:424760-1,wfo-0000904448,5674522,,
 69018eb2-8fcd-11eb-924d-9cd76263cbd0,species,carolinianus,Tridens,,"(Steud.) Henrard",0,1940,,"Blumea 3: 424 (1940)",,Q96029293,,,,urn:lsid:ipni.org:names:257760-2,wfo-0000904449,5289649,,
 6901eef2-8fcd-11eb-924d-9cd76263cbd0,species,chapmanii,Tridens,,"(Small) Chase in Hitchc.",0,1951,,"Man. Grasses U.S. , ed. 2: 971 (1951)",,,,,,urn:lsid:ipni.org:names:257761-2,wfo-0000904450,5674519,,
 6902162a-8fcd-11eb-924d-9cd76263cbd0,species,congestus,Tridens,,"Nash in Small",0,1903,,"Fl. S.E. U.S. : 143 (1903)",,,,,,urn:lsid:ipni.org:names:257762-2,wfo-0000904451,5289659,,
@@ -44,8 +44,8 @@ bd54d250-1d4c-11ec-82c2-f14daa6f2d93,form,muticus,Tridens,muticus,,,,,,,,,,,,wfo
 6905ef84-8fcd-11eb-924d-9cd76263cbd0,variety,mendocinus,Tridens,pilosus,Parodi,0,1937,,"Revista Argent. Agron. 4: 250 (1937)",,,,,,urn:lsid:ipni.org:names:257782-2,wfo-0000904475,5674498,,
 7622cf9e-1d4d-11ec-82c2-f14daa6f2d93,variety,mendoncinus,Tridens,pilosus,Parodi,,,,,,,,,,urn:lsid:ipni.org:names:1125910-2,wfo-0001391933,,,
 69060ef6-8fcd-11eb-924d-9cd76263cbd0,species,pulchellus,Tridens,,"Hitchc. in Jeps.",0,1912,,"Fl. Calif. 1: 141 (1912)",,,,,,urn:lsid:ipni.org:names:257783-2,wfo-0000904476,5289586,,
-579055d8-1d4d-11ec-82c2-f14daa6f2d93,species,quinquefida,Tridens,,"(Pursh) Roem. & Schult.",,1817,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 2: 599. 1817 [Nov 1817]",,,,,,urn:lsid:ipni.org:names:1217005-2,wfo-0001350493,,,
-69062daa-8fcd-11eb-924d-9cd76263cbd0,species,quinquefidus,Tridens,,"(Pursh) Roem. & Schult.",0,1817,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 2: 599. 1817 [Nov 1817]",,,,,,urn:lsid:ipni.org:names:1217005-2,wfo-0000904477,5944782,,
+579055d8-1d4d-11ec-82c2-f14daa6f2d93,species,quinquefida,Tridens,,"(Pursh) Roem. & Schult.",,1817,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 2: 599. 1817 [Nov 1817]",,,Q58829765,,,urn:lsid:ipni.org:names:1217005-2,wfo-0001350493,,,
+69062daa-8fcd-11eb-924d-9cd76263cbd0,species,quinquefidus,Tridens,,"(Pursh) Roem. & Schult.",0,1817,,"Syst. Veg., ed. 15 bis [Roemer & Schultes] 2: 599. 1817 [Nov 1817]",,,Q58829765,,,urn:lsid:ipni.org:names:1217005-2,wfo-0000904477,5944782,,
 69066e14-8fcd-11eb-924d-9cd76263cbd0,species,riograndensis,Tridens,,"Acedo & Llamas",0,2003,,"Syst. Bot. 28: 313 (2003)",,Q95467257,,,,urn:lsid:ipni.org:names:327136-2,wfo-0000904479,5674494,,
 6906d390-8fcd-11eb-924d-9cd76263cbd0,species,seslerioides,Tridens,,"Nash in Small",0,1903,,"Fl. S.E. U.S. : 142 (1903)",,,,68fe4838-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:257784-2,wfo-0000904481,4118829,,
 7a428f2e-1d4d-11ec-82c2-f14daa6f2d93,variety,chapmanii,Tridens,seslerioides,"Nash in Small",,1903,,"Fl. S.E. U.S. [Small]. 142. 1903 [22 Jul 1903]",,,,,,urn:lsid:ipni.org:names:257785-2,wfo-0001397443,,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e8bf6f4e-8fd1-11eb-924d-9cd76263cbd0,genus,Pleuropus,,,,0,1821,,,,,,,,,wfo-4000030359,3229982,529086,"Nom. rejic., Art. 56.1 "
-a824c68c-9bac-11eb-a8a2-19ed5c03f8d3,species,abortivus,Pleuropus,,"(Berk. & M.A. Curtis) Murrill",0,1911,,"Mycologia 3(6): 280 (1911)",,,,3b0cd372-9bad-11eb-a8a2-19ed5c03f8d3,,,,,508140," "
+a824c68c-9bac-11eb-a8a2-19ed5c03f8d3,species,abortivus,Pleuropus,,"(Berk. & M.A. Curtis) Murrill",0,1911,,"Mycologia 3(6): 280 (1911)",,,Q1962302,3b0cd372-9bad-11eb-a8a2-19ed5c03f8d3,,,,,508140," "
 762f3032-9bab-11eb-a8a2-19ed5c03f8d3,species,adnatifolius,Pleuropus,,Murrill,0,,,,,,,762f3032-9bab-11eb-a8a2-19ed5c03f8d3,,,,,224787," "
 ac92a676-9bac-11eb-a8a2-19ed5c03f8d3,species,albogriseus,Pleuropus,,"(Peck) Murrill",0,1917,,"N. Amer. Fl. (New York) 10(2): (1917)",,,,73a5beec-9bad-11eb-a8a2-19ed5c03f8d3,,,,,503412," "
 e4cc8754-8fcd-11eb-924d-9cd76263cbd0,species,appressifolium,Pleuropus,,R.S.Williams,0,1914,,"Bull. New York Bot. Gard. 8(31): 373. pl. 174 1914",,,Q6398990,,,,wfo-0001160162,7637631,,
@@ -13,7 +13,7 @@ ac93099a-9bac-11eb-a8a2-19ed5c03f8d3,species,caespitosus,Pleuropus,,"(Peck) Murr
 4488530a-9bac-11eb-a8a2-19ed5c03f8d3,species,cinereicolor,Pleuropus,,Murrill,0,,,,,,,4488530a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,224319," "
 e4ccf4be-8fcd-11eb-924d-9cd76263cbd0,species,congestus,Pleuropus,,"(Sw. ex Hedw.) Broth.",0,1908,,"Nat. Pflanzenfam. I(3): 1138 1908",,,,,,,wfo-0001160166,8361849,,
 e4cd10b6-8fcd-11eb-924d-9cd76263cbd0,species,densus,Pleuropus,,Griff.,0,1843,,"Calcutta J. Nat. Hist. 3: 272. pl. 17 1843",,,,,,,wfo-0001160167,7464292,,
-4d0b3e16-9bac-11eb-a8a2-19ed5c03f8d3,species,earlei,Pleuropus,,Murrill,0,1911,,"Mycologia 3(6): 280 (1911)",,,,4d0b3e16-9bac-11eb-a8a2-19ed5c03f8d3,,,,,224921," "
+4d0b3e16-9bac-11eb-a8a2-19ed5c03f8d3,species,earlei,Pleuropus,,Murrill,0,1911,,"Mycologia 3(6): 280 (1911)",,,Q1962302,4d0b3e16-9bac-11eb-a8a2-19ed5c03f8d3,,,,,224921," "
 ed691252-9bac-11eb-a8a2-19ed5c03f8d3,species,entoloma,Pleuropus,,Murrill,0,1945,,"Lloydia 8: 279 (1945)",,,,ed691252-9bac-11eb-a8a2-19ed5c03f8d3,,,,,289768," "
 ac936e80-9bac-11eb-a8a2-19ed5c03f8d3,species,erythrosporus,Pleuropus,,"(Peck) Murrill",0,1917,,"N. Amer. Fl. (New York) 10(2): (1917)",,,,cb6a88c0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503414," "
 e4cd2a38-8fcd-11eb-924d-9cd76263cbd0,species,euchloron,Pleuropus,,"(Bruch ex Müll.Hal.) Broth.",0,1908,,"Nat. Pflanzenfam. I(3): 1138. 805 1908",,,,e1c7b6f0-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001160168,7717384,,
@@ -42,7 +42,7 @@ e4cdd53c-8fcd-11eb-924d-9cd76263cbd0,species,pallido-virens,Pleuropus,,"(Müll.H
 685bca04-9bad-11eb-a8a2-19ed5c03f8d3,species,pascuensis,Pleuropus,,"(Peck) Murrill",0,1917,,"N. Amer. Fl. (New York) 10(2): (1917)",,,,fef3a8e4-9bab-11eb-a8a2-19ed5c03f8d3,,,,,503420," "
 685bf6fa-9bad-11eb-a8a2-19ed5c03f8d3,species,prunulus,Pleuropus,,"(Scop.) Murrill",0,1917,,"N. Amer. Fl. (New York) 10(2): (1917)",,,,61730780-9bac-11eb-a8a2-19ed5c03f8d3,,,,,503421," "
 e4cdf102-8fcd-11eb-924d-9cd76263cbd0,species,pterogonioides,Pleuropus,,Griff.,0,1843,,"Calcutta J. Nat. Hist. 3: 274. pl. 20 1843",,,,,,,wfo-0001160175,7352887,,
-e2f84f9a-9bac-11eb-a8a2-19ed5c03f8d3,species,roseiavellaneus,Pleuropus,,Murrill,0,1938,,"Mycologia 30(4): 367 (1938)",,,,e2f84f9a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,276754," "
+e2f84f9a-9bac-11eb-a8a2-19ed5c03f8d3,species,roseiavellaneus,Pleuropus,,Murrill,0,1938,,"Mycologia 30(4): 367 (1938)",,,Q1962302,e2f84f9a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,276754," "
 e4ce0bb0-8fcd-11eb-924d-9cd76263cbd0,species,sciurellus,Pleuropus,,"(Müll.Hal.) Broth.",0,1908,,"Nat. Pflanzenfam. I(3): 1138 1908",,,,,,,wfo-0001160176,7634179,,
 e4ce2866-8fcd-11eb-924d-9cd76263cbd0,species,sciureus,Pleuropus,,"(Mitt.) Toyama",0,1938,,"Acta Phytotax. Geobot. 7: 104 1938",,,,,,,wfo-0001160177,7387341,,
 f5ae8d4c-8fcd-11eb-924d-9cd76263cbd0,form,pilifolius,Pleuropus,sciureus,Toyama,0,1938,,"Acta Phytotax. Geobot. 7: 105 1938",,,,,,,wfo-0001195107,7707278,,

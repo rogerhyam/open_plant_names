@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 dfd46d12-8fd1-11eb-924d-9cd76263cbd0,genus,Aspidoglossum,,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 200 (1838)",,,,,,urn:lsid:ipni.org:names:3212-1,wfo-4000003326,7311793,,
-55341770-1d4d-11ec-82c2-f14daa6f2d93,species,albocoronatum,Aspidoglossum,,"Bester & Nicholas",,2016,,"Phytotaxa 282: 188 (2016)",,,,,,urn:lsid:ipni.org:names:77159117-1,wfo-0001347303,,,
+55341770-1d4d-11ec-82c2-f14daa6f2d93,species,albocoronatum,Aspidoglossum,,"Bester & Nicholas",,2016,,"Phytotaxa 282: 188 (2016)",,,Q4807825,,,urn:lsid:ipni.org:names:77159117-1,wfo-0001347303,,,
 a841fe46-8fcc-11eb-924d-9cd76263cbd0,species,angustissimum,Aspidoglossum,,"(K.Schum.) Bullock",0,1952,,"Kew Bull. 7: 418 (1952)",,Q55779670,,605be9ac-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:94763-1,wfo-0000552289,3572493,,
 a84218fe-8fcc-11eb-924d-9cd76263cbd0,species,araneiferum,Aspidoglossum,,"(Schltr.) Kupicha",0,1984,,"Kew Bull. 38: 661 (1984)",,Q55779220,,ca67034e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:913696-1,wfo-0000552290,3572484,,
 a84235c8-8fcc-11eb-924d-9cd76263cbd0,species,biflorum,Aspidoglossum,,E.Mey.,0,1838,,"Comm. Pl. Afr. Austr. : 201 (1838)",,,,,,urn:lsid:ipni.org:names:94764-1,wfo-0000552291,3572475,,
@@ -10,7 +10,7 @@ a8429716-8fcc-11eb-924d-9cd76263cbd0,species,connatum,Aspidoglossum,,"(N.E.Br.) 
 a842ba8e-8fcc-11eb-924d-9cd76263cbd0,species,crebrum,Aspidoglossum,,Kupicha,0,1984,,"Kew Bull. 38: 642 (1984)",,Q55779220,,,,urn:lsid:ipni.org:names:903606-1,wfo-0000552295,3572444,,
 a842d8f2-8fcc-11eb-924d-9cd76263cbd0,species,delagoense,Aspidoglossum,,"(Schltr.) Kupicha",0,1984,,"Kew Bull. 38: 663 (1984)",,Q55779220,,ca918498-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:913698-1,wfo-0000552296,3572435,,
 a842f418-8fcc-11eb-924d-9cd76263cbd0,species,demissum,Aspidoglossum,,Kupicha,0,1984,,"Kew Bull. 38: 644 (1984)",,Q55779220,,,,urn:lsid:ipni.org:names:903607-1,wfo-0000552297,3572428,,
-a8430fa2-8fcc-11eb-924d-9cd76263cbd0,species,difficile,Aspidoglossum,,Hilliard,0,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 179 (1988 publ. 1989)",,Q102418664,,,,urn:lsid:ipni.org:names:936708-1,wfo-0000552298,3572420,,
+a8430fa2-8fcc-11eb-924d-9cd76263cbd0,species,difficile,Aspidoglossum,,Hilliard,0,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 179 (1988 publ. 1989)",,Q102418664,Q6045581,,,urn:lsid:ipni.org:names:936708-1,wfo-0000552298,3572420,,
 a8436a88-8fcc-11eb-924d-9cd76263cbd0,species,dissimile,Aspidoglossum,,"(N.E.Br.) Kupicha",0,1984,,"Kew Bull. 38: 646 (1984)",,,,,,urn:lsid:ipni.org:names:913716-1,wfo-0000552301,7737632,,
 a843add6-8fcc-11eb-924d-9cd76263cbd0,species,elliotii,Aspidoglossum,,"(Schltr.) Kupicha",0,1984,,"Kew Bull. 38: 659 (1984)",,Q55779220,,,,urn:lsid:ipni.org:names:913699-1,wfo-0000552302,3572415,,
 a84410be-8fcc-11eb-924d-9cd76263cbd0,species,erubescens,Aspidoglossum,,"(Schltr.) Bullock",0,1954,,"Kew Bull. 9: 589 (1954 publ. 1955)",,Q55783464,,,,urn:lsid:ipni.org:names:94766-1,wfo-0000552303,3572408,,
@@ -38,4 +38,4 @@ a84743e2-8fcc-11eb-924d-9cd76263cbd0,species,validum,Aspidoglossum,,Kupicho,,198
 a84763c2-8fcc-11eb-924d-9cd76263cbd0,species,virgatum,Aspidoglossum,,"(E.Mey.) Kupicha",0,1984,,"Kew Bull. 38: 641 (1984)",,Q55779220,,ebbcb7ce-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:913714-1,wfo-0000552327,3572197,,
 a8478244-8fcc-11eb-924d-9cd76263cbd0,species,whytei,Aspidoglossum,,"(N.E.Br.) Bullock",0,1952,,"Kew Bull. 7: 418 (1952)",,Q55779670,,,,urn:lsid:ipni.org:names:94771-1,wfo-0000552328,3572190,,
 a847a0bc-8fcc-11eb-924d-9cd76263cbd0,species,woodii,Aspidoglossum,,"(Schltr.) Kupicha",0,1984,,"Kew Bull. 38: 651 (1984)",,Q55779220,,,,urn:lsid:ipni.org:names:913715-1,wfo-0000552329,3572184,,
-a847bbd8-8fcc-11eb-924d-9cd76263cbd0,species,xanthosphaerum,Aspidoglossum,,Hilliard,0,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 181 (1988 publ. 1989)",,Q102418664,,,,urn:lsid:ipni.org:names:936709-1,wfo-0000552330,3572175,,
+a847bbd8-8fcc-11eb-924d-9cd76263cbd0,species,xanthosphaerum,Aspidoglossum,,Hilliard,0,1988,,"Notes Roy. Bot. Gard. Edinburgh 45: 181 (1988 publ. 1989)",,Q102418664,Q6045581,,,urn:lsid:ipni.org:names:936709-1,wfo-0000552330,3572175,,

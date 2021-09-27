@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e16d8e74-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratophyllum,,,L.,0,1753,,"Sp. Pl. : 992 (1753)",,,,e16d8e74-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:330840-2,wfo-4000007373,2882396,893," "
 d8a58cd8-8fd1-11eb-924d-9cd76263cbd0,species,affine,Ceratophyllum,,Z.F.Troitzk.,,,,,,,,,,,wfo-0001292813,8119735,,
-41cda114-8fcd-11eb-924d-9cd76263cbd0,species,apiculatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:330846-2,wfo-0000831696,5333330,,
+41cda114-8fcd-11eb-924d-9cd76263cbd0,species,apiculatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:330846-2,wfo-0000831696,5333330,,
 41ced53e-8fcd-11eb-924d-9cd76263cbd0,species,aquaticum,Ceratophyllum,,H.C.Watson,0,1873,,"Topogr. Bot. 1: 165 (1873)",,,,,,urn:lsid:ipni.org:names:163055-1,wfo-0000831707,5572819,,
 41cfe5dc-8fcd-11eb-924d-9cd76263cbd0,species,asperum,Ceratophyllum,,Lam.,0,1779,,"Fl. Franç. 2: 196 (1779)",,,,,,urn:lsid:ipni.org:names:163056-1,wfo-0000831717,5572868,,
 41d12352-8fcd-11eb-924d-9cd76263cbd0,species,australe,Ceratophyllum,,Griseb.,0,1879,,"Abh. Königl. Ges. Wiss. Göttingen 24: 14 (1879)",,,,,,urn:lsid:ipni.org:names:274301-2,wfo-0000831728,5572856,,
@@ -39,7 +39,7 @@ b773013a-8fd1-11eb-924d-9cd76263cbd0,subspecies,muricatum,Ceratophyllum,demersum
 41f1f118-8fcd-11eb-924d-9cd76263cbd0,species,gibbum,Ceratophyllum,,"Laforet ex Nyman",0,1879,,"Consp. Fl. Eur. : 251 (1879)",,,,,,urn:lsid:ipni.org:names:163067-1,wfo-0000832013,5572850,,
 41f32042-8fcd-11eb-924d-9cd76263cbd0,species,granulosum,Ceratophyllum,,Schur,0,1866,,"Enum. Pl. Transsilv. : 218 (1866)",,,,,,urn:lsid:ipni.org:names:163068-1,wfo-0000832024,5572837,,
 41f3e40a-8fcd-11eb-924d-9cd76263cbd0,species,haynaldianum,Ceratophyllum,,Borbás,0,1884,,"Magyar Növényt. Lapok 8: 20 (1884)",,,,,,urn:lsid:ipni.org:names:163069-1,wfo-0000832031,5572827,,
-41f4dd9c-8fcd-11eb-924d-9cd76263cbd0,species,indicum,Ceratophyllum,,"Willd. ex Cham.",0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:163070-1,wfo-0000832040,5572816,,
+41f4dd9c-8fcd-11eb-924d-9cd76263cbd0,species,indicum,Ceratophyllum,,"Willd. ex Cham.",0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:163070-1,wfo-0000832040,5572816,,
 41f5dc4c-8fcd-11eb-924d-9cd76263cbd0,species,inerme,Ceratophyllum,,Dumort.,0,1827,,"Fl. Belg. : 165 (1827)",,,,,,urn:lsid:ipni.org:names:163071-1,wfo-0000832049,5572867,,
 41f67dd2-8fcd-11eb-924d-9cd76263cbd0,species,inflatum,Ceratophyllum,,"Jao ex K.C.Kuan",0,1979,,"Fl. Reipubl. Popularis Sin. 27: 603 (1979)",,,,,,urn:lsid:ipni.org:names:163072-1,wfo-0000832055,8645366,,
 41f7ae78-8fcd-11eb-924d-9cd76263cbd0,species,komarovii,Ceratophyllum,,Kuseneva,0,1937,,"Fl. URSS 7: 16, 719. 1937",,,,,,urn:lsid:ipni.org:names:163073-1,wfo-0000832066,8001991,,
@@ -48,14 +48,14 @@ b773013a-8fd1-11eb-924d-9cd76263cbd0,subspecies,muricatum,Ceratophyllum,demersum
 41fb7148-8fcd-11eb-924d-9cd76263cbd0,species,llerenae,Ceratophyllum,,Fassett,0,1953,,"in Com. Inst. Trop. Invest. Cient. ii. 29 (1953); cf. Gray Herb. Card Cat.",,,,,,urn:lsid:ipni.org:names:163076-1,wfo-0000832098,5572820,,
 41fc723c-8fcd-11eb-924d-9cd76263cbd0,species,manschuricum,Ceratophyllum,,"(Miki) Kitag.",0,1939,,"Rep. Inst. Sci. Res. Manchoukuo 3(App. 1): 207 (1939)",,,,42161caa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:163077-1,wfo-0000832107,5572863,,
 41fdc43e-8fcd-11eb-924d-9cd76263cbd0,species,missionis,Ceratophyllum,,Wall.,0,1834,,"Numer. List [Wallich] sub n. 7007. 1832",,,,,,urn:lsid:ipni.org:names:163078-1,wfo-0000832117,7834692,,
-41fef912-8fcd-11eb-924d-9cd76263cbd0,species,muricatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:163079-1,wfo-0000832128,5333327,,
+41fef912-8fcd-11eb-924d-9cd76263cbd0,species,muricatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:163079-1,wfo-0000832128,5333327,,
 420036ec-8fcd-11eb-924d-9cd76263cbd0,subspecies,australe,Ceratophyllum,muricatum,"(Griseb.) Les",0,1988,,"Syst. Bot. 13(1): 85. 1988",,Q55765490,,,,urn:lsid:ipni.org:names:954253-1,wfo-0000832139,5572825,,
 42016c60-8fcd-11eb-924d-9cd76263cbd0,subspecies,kossinskyi,Ceratophyllum,muricatum,"(Kuzen.) Les",0,1988,,"Syst. Bot. 13: 85 (1988)",,Q55765490,,41f8df3c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:954254-1,wfo-0000832150,5572864,,
 25509f0e-1d4a-11ec-82c2-f14daa6f2d93,subspecies,muricatum,Ceratophyllum,muricatum,Cham.,,,,Unknown,,,,,,urn:lsid:ipni.org:names:168069-3,wfo-0000832161,,,
-4203ede6-8fcd-11eb-924d-9cd76263cbd0,species,muticum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 505 (1829)",,,,,,urn:lsid:ipni.org:names:163080-1,wfo-0000832173,5572851,,
+4203ede6-8fcd-11eb-924d-9cd76263cbd0,species,muticum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 505 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:163080-1,wfo-0000832173,5572851,,
 394bb5ee-9bad-11eb-a8a2-19ed5c03f8d3,species,obscuratum,Ceratophyllum,,"(Ach.) M. Choisy",0,,,,,,,,,,,,365501," "
 42054e16-8fcd-11eb-924d-9cd76263cbd0,species,oryzetorum,Ceratophyllum,,Komarov,0,1931,,"Izv. Bot. Sada Akad. Nauk S.S.S.R. 30: 200 (1931 publ. 1932)",,,,,,urn:lsid:ipni.org:names:163081-1,wfo-0000832183,5572838,,
-4206b562-8fcd-11eb-924d-9cd76263cbd0,species,oxyacanthum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:312980-2,wfo-0000832194,8153727,,
+4206b562-8fcd-11eb-924d-9cd76263cbd0,species,oxyacanthum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:312980-2,wfo-0000832194,8153727,,
 4207ce98-8fcd-11eb-924d-9cd76263cbd0,species,oxyacanthum,Ceratophyllum,,Schur,0,1866,,"Enum. Pl. Transsilv. : 218 (1866)",,,,,,urn:lsid:ipni.org:names:163082-1,wfo-0000832204,5572817,,
 4208ff20-8fcd-11eb-924d-9cd76263cbd0,species,pentacanthum,Ceratophyllum,,Hayata,0,1919,,"Icon. Pl. Formosan. viii. 130 1919).",,,,,,urn:lsid:ipni.org:names:163085-1,wfo-0000832215,5572854,,
 420a17a2-8fcd-11eb-924d-9cd76263cbd0,species,pentacanthum,Ceratophyllum,,Haynald,0,1881,,"Magyar Növényt. Lapok 5: 109 (1881)",,,,,,urn:lsid:ipni.org:names:163084-1,wfo-0000832225,8330995,,
@@ -65,7 +65,7 @@ fb8f7dcc-9bab-11eb-a8a2-19ed5c03f8d3,species,physodes,Ceratophyllum,,"(L.) M. Ch
 8d380b40-9bac-11eb-a8a2-19ed5c03f8d3,variety,luxurians,Ceratophyllum,physodes,"(Harm.) M. Choisy",0,,,,,,,,,,,,466859," "
 621624e6-9bad-11eb-a8a2-19ed5c03f8d3,variety,physodes,Ceratophyllum,physodes,"(L.) M. Choisy",0,,,,,,,621624e6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,439198," "
 4a81e5c2-9bad-11eb-a8a2-19ed5c03f8d3,variety,platyphylla,Ceratophyllum,physodes,"(Ach.) M. Choisy",0,,,,,,,7fbd512c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,402194," "
-420b3524-8fcd-11eb-924d-9cd76263cbd0,species,platyacanthum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:163086-1,wfo-0000832235,7263169,,
+420b3524-8fcd-11eb-924d-9cd76263cbd0,species,platyacanthum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:163086-1,wfo-0000832235,7263169,,
 420c4e6e-8fcd-11eb-924d-9cd76263cbd0,subspecies,oryzetorum,Ceratophyllum,platyacanthum,"(V.Komarov) Les",0,1988,,"Syst. Bot. 13: 517 (1988)",,Q55765475,,,,urn:lsid:ipni.org:names:954751-1,wfo-0000832245,5572831,,
 420d6c90-8fcd-11eb-924d-9cd76263cbd0,variety,pentacanthum,Ceratophyllum,platyacanthum,"(Haynald) Tzvelev",0,2001,,"Fl. Vostochno? Evropy 10: 32 (2001)",,,,420a17a2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20002543-1,wfo-0000832255,5572822,,
 2563917c-1d4a-11ec-82c2-f14daa6f2d93,subspecies,platyacanthum,Ceratophyllum,platyacanthum,,,,,Unknown,,,,,,,wfo-0000832266,,,
@@ -84,14 +84,14 @@ fb8f7dcc-9bab-11eb-a8a2-19ed5c03f8d3,species,physodes,Ceratophyllum,,"(L.) M. Ch
 421cbbdc-8fcd-11eb-924d-9cd76263cbd0,species,triacanthum,Ceratophyllum,,Schur,0,1866,,"Enum. Pl. Transsilv. : 218 (1866)",,,,,,urn:lsid:ipni.org:names:163090-1,wfo-0000832384,5572852,,
 421e0136-8fcd-11eb-924d-9cd76263cbd0,species,tricorne,Ceratophyllum,,Dumort.,0,1827,,"Fl. Belg. : 165 (1827)",,,,,,urn:lsid:ipni.org:names:163091-1,wfo-0000832395,5572839,,
 421f3416-8fcd-11eb-924d-9cd76263cbd0,species,tricuspidatum,Ceratophyllum,,Dumort.,0,1827,,"Fl. Belg. : 165 (1827)",,,,,,urn:lsid:ipni.org:names:163092-1,wfo-0000832406,5572828,,
-42206160-8fcd-11eb-924d-9cd76263cbd0,species,tuberculatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,,,,urn:lsid:ipni.org:names:330845-2,wfo-0000832417,5572818,,
+42206160-8fcd-11eb-924d-9cd76263cbd0,species,tuberculatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:330845-2,wfo-0000832417,5572818,,
 394bf540-9bad-11eb-a8a2-19ed5c03f8d3,species,tubulosum,Ceratophyllum,,"(Schaer.) M. Choisy",,,,,,,,7fbd8e58-9bad-11eb-a8a2-19ed5c03f8d3,,,,,365503," "
 42218f5e-8fcd-11eb-924d-9cd76263cbd0,species,unicorne,Ceratophyllum,,Dumort.,0,1827,,"Fl. Belg. : 165 (1827)",,,,,,urn:lsid:ipni.org:names:163094-1,wfo-0000832428,5572862,,
 4222c37e-8fcd-11eb-924d-9cd76263cbd0,species,verrucosum,Ceratophyllum,,Gray,0,1821,,"Nat. Arr. Brit. Pl. 2: 554 (1821 publ. 1822)",,,,,,urn:lsid:ipni.org:names:163095-1,wfo-0000832439,5572855,,
 4223d87c-8fcd-11eb-924d-9cd76263cbd0,species,verruculosum,Ceratophyllum,,Rich.,0,1810,,"Ann. Mus. Hist. Nat. 16: 299 (1810)",,,,,,urn:lsid:ipni.org:names:163096-1,wfo-0000832449,5572843,,
 4224f40a-8fcd-11eb-924d-9cd76263cbd0,species,verticillatum,Ceratophyllum,,Roxb.,0,1832,,"Fl. Ind. ed. 1832 , 3: 624 (1832)",,,Q5862867,,,urn:lsid:ipni.org:names:163097-1,wfo-0000832459,5572832,,
 394c5d96-9bad-11eb-a8a2-19ed5c03f8d3,species,vittatum,Ceratophyllum,,"(Ach.) M. Choisy",0,,,,,,,6af04200-9bac-11eb-a8a2-19ed5c03f8d3,,,,,365504," "
-422611b4-8fcd-11eb-924d-9cd76263cbd0,species,vulgare,Ceratophyllum,,Schleid.,0,1837,,"Linnaea 11: 540 (1837)",,,,,,urn:lsid:ipni.org:names:330844-2,wfo-0000832469,5572821,,
+422611b4-8fcd-11eb-924d-9cd76263cbd0,species,vulgare,Ceratophyllum,,Schleid.,0,1837,,"Linnaea 11: 540 (1837)",,,Q5976761,,,urn:lsid:ipni.org:names:330844-2,wfo-0000832469,5572821,,
 2ab3e164-8fcd-11eb-924d-9cd76263cbd0,species,brachycarpum,Ceratophytum,,Pittier,0,1928,,"J. Washington Acad. Sci. 18: 65 (1928)",,Q96061643,,,,urn:lsid:ipni.org:names:52529-2,wfo-0000781945,5415084,,
 2ab3fd2a-8fcd-11eb-924d-9cd76263cbd0,species,capricorne,Ceratophytum,,Pittier,0,1928,,"J. Wash. Acad. Sci. 1928, xviii. 63.",,Q96061643,,,,urn:lsid:ipni.org:names:109194-1,wfo-0000781946,5668570,,
 2ab41b20-8fcd-11eb-924d-9cd76263cbd0,species,tetragonolobum,Ceratophytum,,"Sprague & Sandwith",0,1934,,"Bull. Misc. Inform. Kew 1934: 223 (1934)",,,Q5735532,,,urn:lsid:ipni.org:names:52531-2,wfo-0000781947,5668568,,

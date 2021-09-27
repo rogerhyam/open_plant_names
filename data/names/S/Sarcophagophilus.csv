@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e9f5d8ee-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcophagophilus,,,Dinter,0,1923,,"Repert. Spec. Nov. Regni Veg. 19: 156 (1923)",,,,,,urn:lsid:ipni.org:names:3672-1,wfo-4000034063,7311702,,
-6006659a-8fcc-11eb-924d-9cd76263cbd0,species,armatus,Sarcophagophilus,,Dinter,0,1928,,"Repert. Spec. Nov. Regni Veg. Beih. 53: 107 (1928)",,,,,,urn:lsid:ipni.org:names:100942-1,wfo-0000431325,3571270,,
-cb0402e8-8fcd-11eb-924d-9cd76263cbd0,species,winklerianus,Sarcophagophilus,,Dinter,0,1923,,"Repert. Spec. Nov. Regni Veg. 19: 156 (1923)",,Q55753311,,,,urn:lsid:ipni.org:names:100943-1,wfo-0001104273,3581566,,
+e9f5d8ee-8fd1-11eb-924d-9cd76263cbd0,genus,Sarcophagophilus,,,Dinter,0,1923,,"Repert. Spec. Nov. Regni Veg. 19: 156 (1923)",,,Q6105814,,,urn:lsid:ipni.org:names:3672-1,wfo-4000034063,7311702,,
+6006659a-8fcc-11eb-924d-9cd76263cbd0,species,armatus,Sarcophagophilus,,Dinter,0,1928,,"Repert. Spec. Nov. Regni Veg. Beih. 53: 107 (1928)",,,Q6105814,,,urn:lsid:ipni.org:names:100942-1,wfo-0000431325,3571270,,
+cb0402e8-8fcd-11eb-924d-9cd76263cbd0,species,winklerianus,Sarcophagophilus,,Dinter,0,1923,,"Repert. Spec. Nov. Regni Veg. 19: 156 (1923)",,Q55753311,Q6105814,,,urn:lsid:ipni.org:names:100943-1,wfo-0001104273,3581566,,
 086a8eba-8fcc-11eb-924d-9cd76263cbd0,species,angolensis,Sarcopharyngia,,"(Stapf) L.Allorge",0,1985,,"Mém. Mus. Natl. Hist. Nat., B, Bot. 30: 180 (1985)",,,,,,urn:lsid:ipni.org:names:915460-1,wfo-0000303798,3614787,,
 086aaf8a-8fcc-11eb-924d-9cd76263cbd0,species,contorta,Sarcopharyngia,,"(Stapf) Boiteau",0,1976,,"Adansonia , n.s., 16: 274 (1976)",,Q58837908,,13052574-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:81763-1,wfo-0000303799,3614779,,
 086ad0f0-8fcc-11eb-924d-9cd76263cbd0,species,crassa,Sarcopharyngia,,"(Benth.) Boiteau",0,1981,,"Bull. Mus. Natl. Hist. Nat., B, Adansonia 1981: 214 (1981)",,,Q37408733,,,urn:lsid:ipni.org:names:909663-1,wfo-0000303800,3614766,,

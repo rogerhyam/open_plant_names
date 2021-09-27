@@ -2,7 +2,7 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 9f717c50-9bad-11eb-a8a2-19ed5c03f8d3,genus,Gussonea,,,Tornab.,0,1848,,"Lichenogr. Sicula 22 (1848)",,,,9f717c50-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2152," "
 8fe75bf6-8fcd-11eb-924d-9cd76263cbd0,species,aphylla,Gussonea,,A.Rich.,0,1828,,"Mém. Soc. Hist. Nat. Paris 4: 68 (1828)",,,,,,urn:lsid:ipni.org:names:636439-1,wfo-0000976465,5308373,,
 c3ad5ff8-8fcd-11eb-924d-9cd76263cbd0,variety,defolita,Gussonea,aphylla,Schltr.,0,,,,,,,,,,wfo-0001088211,8226656,,
-8fe77686-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Gussonea,,Schltr.,0,1918,,"Repert. Spec. Nov. Regni Veg. 15: 333 (1918)",,Q55753064,,,,urn:lsid:ipni.org:names:636440-1,wfo-0000976466,5311168,,
+8fe77686-8fcd-11eb-924d-9cd76263cbd0,species,aurantiaca,Gussonea,,Schltr.,0,1918,,"Repert. Spec. Nov. Regni Veg. 15: 333 (1918)",,Q55753064,Q6105814,,,urn:lsid:ipni.org:names:636440-1,wfo-0000976466,5311168,,
 8fe790f8-8fcd-11eb-924d-9cd76263cbd0,species,bieleri,Gussonea,,Schltr.,0,1918,,"Beih. Bot. Centralbl. 36(2): 91 (1918)",,,,,,urn:lsid:ipni.org:names:636441-1,wfo-0000976467,5311130,,
 8fe7cbfe-8fcd-11eb-924d-9cd76263cbd0,species,caespitosa,Gussonea,,Schltr.,0,1918,,"Beih. Bot. Centralbl. 36(2): 91 (1918)",,,,,,urn:lsid:ipni.org:names:636442-1,wfo-0000976469,5311129,,
 8fe7e684-8fcd-11eb-924d-9cd76263cbd0,species,chilochistae,Gussonea,,Schltr.,0,1918,,"Beih. Bot. Centralbl. 36(2): 91 (1918)",,,,8fa1a304-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:636443-1,wfo-0000976470,5311115,,
@@ -29,7 +29,7 @@ c3ad5ff8-8fcd-11eb-924d-9cd76263cbd0,variety,defolita,Gussonea,aphylla,Schltr.,0
 8fe9c2e2-8fcd-11eb-924d-9cd76263cbd0,species,macrantha,Gussonea,,H.Perrier,0,1938,,"Notul. Syst. (Paris) 7: 29 (1938)",,,,,,urn:lsid:ipni.org:names:636459-1,wfo-0000976487,5311135,,
 8fe9dea8-8fcd-11eb-924d-9cd76263cbd0,species,macrorrhynchia,Gussonea,,Schltr.,0,1918,,"Beih. Bot. Centralbl. 36(2): 93 (1918)",,,,,,urn:lsid:ipni.org:names:636460-1,wfo-0000976488,5311180,,
 8fe9fa3c-8fcd-11eb-924d-9cd76263cbd0,species,megalorrhiza,Gussonea,,Schltr.,0,1918,,"Beih. Bot. Centralbl. 36(2): 93 (1918)",,,,,,urn:lsid:ipni.org:names:636461-1,wfo-0000976489,5311158,,
-8fea3128-8fcd-11eb-924d-9cd76263cbd0,species,melinantha,Gussonea,,Schltr.,0,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 377 (1925)",,,,,,urn:lsid:ipni.org:names:636462-1,wfo-0000976491,5311141,,
+8fea3128-8fcd-11eb-924d-9cd76263cbd0,species,melinantha,Gussonea,,Schltr.,0,1925,,"Repert. Spec. Nov. Regni Veg. Beih. 33: 377 (1925)",,,Q6105814,,,urn:lsid:ipni.org:names:636462-1,wfo-0000976491,5311141,,
 8fea4dc0-8fcd-11eb-924d-9cd76263cbd0,species,micropetala,Gussonea,,Schltr.,0,1914,,"Orchideen Beschreib. Kult. Zücht. : 592 (1914)",,,,80fcec96-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:636463-1,wfo-0000976492,5311128,,
 86c0be8c-9bad-11eb-a8a2-19ed5c03f8d3,species,oxytona,Gussonea,,"(Ach.) anon.",0,,,,,,,88237080-9bad-11eb-a8a2-19ed5c03f8d3,,,,,386343," "
 603dac8a-8fcc-11eb-924d-9cd76263cbd0,species,pauciflora,Gussonea,,Brongn.,0,1834,,"Voy. Monde , Phan.: t. 34 (1834)",,,,,,urn:lsid:ipni.org:names:308659-1,wfo-0000431589,5290956,,
@@ -60,7 +60,7 @@ c3ad5ff8-8fcd-11eb-924d-9cd76263cbd0,variety,defolita,Gussonea,aphylla,Schltr.,0
 56e23944-1d4d-11ec-82c2-f14daa6f2d93,species,mandiocana,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114905-2,wfo-0001349553,,,
 56e262f2-1d4d-11ec-82c2-f14daa6f2d93,species,multiflora,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114906-2,wfo-0001349554,,,
 56e2b84c-1d4d-11ec-82c2-f14daa6f2d93,species,oligandra,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114907-2,wfo-0001349556,,,
-604ffd68-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Gussonia,,Miq.,0,1846,,"Linnaea 19: 446 (1846)",,,,,,urn:lsid:ipni.org:names:349764-1,wfo-0000431656,3061225,,
+604ffd68-8fcc-11eb-924d-9cd76263cbd0,species,serrulata,Gussonia,,Miq.,0,1846,,"Linnaea 19: 446 (1846)",,,Q5976761,,,urn:lsid:ipni.org:names:349764-1,wfo-0000431656,3061225,,
 56e2e22c-1d4d-11ec-82c2-f14daa6f2d93,species,sparsifolia,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114908-2,wfo-0001349557,,,
 56e30d06-1d4d-11ec-82c2-f14daa6f2d93,species,trachycarpa,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114909-2,wfo-0001349558,,,
 56e336d2-1d4d-11ec-82c2-f14daa6f2d93,species,verticillata,Gussonia,,Kuntze,,1891,,"Revis. Gen. Pl. 2: 606. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:114910-2,wfo-0001349559,,,

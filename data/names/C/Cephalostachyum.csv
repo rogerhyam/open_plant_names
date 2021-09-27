@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e16745b4-8fd1-11eb-924d-9cd76263cbd0,genus,Cephalostachyum,,,Munro,0,1868,,"Trans. Linn. Soc. London 26: 138 (1868)",,Q55808832,,,,urn:lsid:ipni.org:names:17702-1,wfo-4000007283,8418626,,
-4e304092-8fcd-11eb-924d-9cd76263cbd0,species,burmanicum,Cephalostachyum,,"R.Parker & C.E.Parkinson",0,1932,,"Repert. Spec. Nov. Regni Veg. 31: 127 (1932)",,Q55753815,,,,urn:lsid:ipni.org:names:395363-1,wfo-0000858763,4114401,,
+4e304092-8fcd-11eb-924d-9cd76263cbd0,species,burmanicum,Cephalostachyum,,"R.Parker & C.E.Parkinson",0,1932,,"Repert. Spec. Nov. Regni Veg. 31: 127 (1932)",,Q55753815,Q6105814,,,urn:lsid:ipni.org:names:395363-1,wfo-0000858763,4114401,,
 4e3081a6-8fcd-11eb-924d-9cd76263cbd0,species,capitatum,Cephalostachyum,,Munro,0,1868,,"Trans. Linn. Soc. London 26: 139 (1868)",,Q55808832,,,,urn:lsid:ipni.org:names:395364-1,wfo-0000858765,4114395,,
 4e309bfa-8fcd-11eb-924d-9cd76263cbd0,variety,decompositum,Cephalostachyum,capitatum,Gamble,0,1896,,"Ann. Roy. Bot. Gard. (Calcutta) 7: 105 1896",,,Q10856093,,,urn:lsid:ipni.org:names:50971688-1,wfo-0000858766,5947117,,
 4e30b806-8fcd-11eb-924d-9cd76263cbd0,species,chapelieri,Cephalostachyum,,Munro,0,1868,,"Trans. Linn. Soc. London 26: 140 (1868)",,Q55808832,,,,urn:lsid:ipni.org:names:395365-1,wfo-0000858767,4114389,,
@@ -26,7 +26,7 @@ ba693e9a-8fd1-11eb-924d-9cd76263cbd0,species,mindorensis,Cephalostachyum,,Gamble
 6c12ef1a-8fcd-11eb-924d-9cd76263cbd0,species,pingbianense,Cephalostachyum,,"(Hsueh & Y.M.Yang ex T.P.Yi) D.Z.Li & H.Q.Yang",0,2008,,"Ann. Bot. Fenn. 45: 395 (2008)",,Q42950305,Q5696319,6bf53c7c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77094120-1,wfo-0000908614,4113989,,
 6bbc6028-8fcd-11eb-924d-9cd76263cbd0,species,sanguineum,Cephalostachyum,,"(W.P.Zhang) D.Z.Li & H.Q.Yang",0,2007,,"Ann. Bot. Fenn. 44: 156 (2007)",,Q42897363,Q5696319,621cf44c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:77082844-1,wfo-0000908155,4113984,,
 4e329a2c-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Cephalostachyum,,Bor,0,1957,,"Kew Bull. 12: 419 (1957 publ. 1958)",,Q43259244,,,,urn:lsid:ipni.org:names:395381-1,wfo-0000858783,4113969,,
-4e32b746-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Cephalostachyum,,"Hsueh f. & C.M.Hui",0,1997,,"Acta Phytotax. Sin. 35: 562 (1997)",,,,,,urn:lsid:ipni.org:names:999346-1,wfo-0000858784,,,
+4e32b746-8fcd-11eb-924d-9cd76263cbd0,species,scandens,Cephalostachyum,,"Hsueh f. & C.M.Hui",0,1997,,"Acta Phytotax. Sin. 35: 562 (1997)",,,Q5656885,,,urn:lsid:ipni.org:names:999346-1,wfo-0000858784,,,
 4e32d4a6-8fcd-11eb-924d-9cd76263cbd0,species,schizostachyoides,Cephalostachyum,,Kurz,0,1875,,"Prelim. Rep. Forest Pegu , App. A: cxxxvii (1875)",,,,,,urn:lsid:ipni.org:names:395384-1,wfo-0000858785,4113946,,
 4e330da4-8fcd-11eb-924d-9cd76263cbd0,species,viguieri,Cephalostachyum,,A.Camus,0,1925,,"Bull. Soc. Bot. France 72: 85 (1925)",,Q95996755,Q5735483,,,urn:lsid:ipni.org:names:395385-1,wfo-0000858787,4113940,,
 4e332a14-8fcd-11eb-924d-9cd76263cbd0,species,virgatum,Cephalostachyum,,Kurz,0,1877,,"Forest Fl. Burma 2: 565 (1877)",,,,,,urn:lsid:ipni.org:names:395386-1,wfo-0000858788,4113920,,

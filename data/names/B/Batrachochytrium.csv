@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-99bc98a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Batrachochytrium,,,"Longcore, Pessier & D.K. Nichols",,1999,,"Mycologia 91(2): 220 (1999)",,,,99bc98a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27960," "
-499f06d6-9bac-11eb-a8a2-19ed5c03f8d3,species,dendrobatidis,Batrachochytrium,,"Longcore, Pessier & D.K. Nichols",,1999,,"Mycologia 91(2): 220 (1999)",,,,499f06d6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,450228," "
+99bc98a8-9bad-11eb-a8a2-19ed5c03f8d3,genus,Batrachochytrium,,,"Longcore, Pessier & D.K. Nichols",,1999,,"Mycologia 91(2): 220 (1999)",,,Q1962302,99bc98a8-9bad-11eb-a8a2-19ed5c03f8d3,,,,,27960," "
+499f06d6-9bac-11eb-a8a2-19ed5c03f8d3,species,dendrobatidis,Batrachochytrium,,"Longcore, Pessier & D.K. Nichols",,1999,,"Mycologia 91(2): 220 (1999)",,,Q1962302,499f06d6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,450228," "
 4bd2b6f4-8fcd-11eb-924d-9cd76263cbd0,species,cuspidatum,Batratherum,,Hochst.,0,1856,,"Flora 39: 178 (1856)",,,Q5862699,,,urn:lsid:ipni.org:names:392580-1,wfo-0000853592,4139616,,
 4bd2d454-8fcd-11eb-924d-9cd76263cbd0,species,echinatum,Batratherum,,Nees,0,1835,,"Edinburgh New Philos. J. 18: 181 (1835)",,,,,,urn:lsid:ipni.org:names:392581-1,wfo-0000853593,4139603,,
 4bd2f1a0-8fcd-11eb-924d-9cd76263cbd0,species,khasianum,Batratherum,,"Munro ex Hook.f.",0,1896,,"Fl. Brit. India 7: 144 (1896)",,,Q6144451,,,urn:lsid:ipni.org:names:392582-1,wfo-0000853594,4139583,,
@@ -11,14 +11,14 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 4bd39664-8fcd-11eb-924d-9cd76263cbd0,variety,majus,Batratherum,molle,Nees,0,1835,,"Edinburgh New Philos. J. 18: 182 1835",,,,,,,wfo-0000853600,5941553,,
 4bd3b2b6-8fcd-11eb-924d-9cd76263cbd0,variety,parvulum,Batratherum,molle,Nees,0,1835,,"Edinburgh New Philos. J. 18: 182 1835",,,,,,,wfo-0000853601,5941558,,
 4bd3d142-8fcd-11eb-924d-9cd76263cbd0,variety,tenue,Batratherum,molle,Nees,0,1835,,"Edinburgh New Philos. J. 18: 182 1835",,,,,,,wfo-0000853602,5941548,,
-4bd3edb2-8fcd-11eb-924d-9cd76263cbd0,species,nudum,Batratherum,,"Nees ex Steud.",0,1854,,"Syn. Pl. Glumac. 1: 383 (1854)",,,,,,urn:lsid:ipni.org:names:392587-1,wfo-0000853603,4124278,,
+4bd3edb2-8fcd-11eb-924d-9cd76263cbd0,species,nudum,Batratherum,,"Nees ex Steud.",0,1854,,"Syn. Pl. Glumac. 1: 383 (1854)",,,Q9080958,,,urn:lsid:ipni.org:names:392587-1,wfo-0000853603,4124278,,
 4bd4091e-8fcd-11eb-924d-9cd76263cbd0,species,plumbeum,Batratherum,,Duthie,0,1882,,"Gaz. N. W. Ind. 10: 640 (1882)",,,,,,urn:lsid:ipni.org:names:392588-1,wfo-0000853604,4139519,,
-4bd424bc-8fcd-11eb-924d-9cd76263cbd0,species,rude,Batratherum,,"Nees ex Steud.",0,1854,,"Syn. Pl. Glumac. 1: 383 (1854)",,,,,,urn:lsid:ipni.org:names:392589-1,wfo-0000853605,4139512,,
+4bd424bc-8fcd-11eb-924d-9cd76263cbd0,species,rude,Batratherum,,"Nees ex Steud.",0,1854,,"Syn. Pl. Glumac. 1: 383 (1854)",,,Q9080958,,,urn:lsid:ipni.org:names:392589-1,wfo-0000853605,4139512,,
 4bd43f1a-8fcd-11eb-924d-9cd76263cbd0,species,schimperi,Batratherum,,"Nees ex Hochst.",0,1856,,"Flora 39: 179 (1856)",,,Q5862699,,,urn:lsid:ipni.org:names:392590-1,wfo-0000853606,,,
 4bd45bda-8fcd-11eb-924d-9cd76263cbd0,species,serrulatum,Batratherum,,"Hochst. ex A.Rich.",0,1854,,"Tent. Fl. Abyss. 2: 458. 1850",,,,8a642a2e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:392591-1,wfo-0000853607,8488275,,
-c80196dc-8fcd-11eb-924d-9cd76263cbd0,species,submuticum,Batratherum,,"Nees ex Steud.",0,1882,,"Syn. Pl. Glumac. 1(4-5): 382. 1854 [1855 publ. 20-21 Jul 1854]",,,,,,urn:lsid:ipni.org:names:392592-1,wfo-0001097808,8530212,,
+c80196dc-8fcd-11eb-924d-9cd76263cbd0,species,submuticum,Batratherum,,"Nees ex Steud.",0,1882,,"Syn. Pl. Glumac. 1(4-5): 382. 1854 [1855 publ. 20-21 Jul 1854]",,,Q9080958,,,urn:lsid:ipni.org:names:392592-1,wfo-0001097808,8530212,,
 aee3de86-8fcc-11eb-924d-9cd76263cbd0,species,albiflora,Batschia,,Raf.,0,1838,,"New Fl. 4: 19 (1838)",,,,,,urn:lsid:ipni.org:names:113517-1,wfo-0000561472,5661624,,
-aee40b86-8fcc-11eb-924d-9cd76263cbd0,species,caroliniana,Batschia,,"Roem. & Schult.",0,1819,,"Syst. Veg., ed. 15 bis 4: 52 (1819)",,,,,,urn:lsid:ipni.org:names:1032652-2,wfo-0000561475,5661618,,
+aee40b86-8fcc-11eb-924d-9cd76263cbd0,species,caroliniana,Batschia,,"Roem. & Schult.",0,1819,,"Syst. Veg., ed. 15 bis 4: 52 (1819)",,,Q58829765,,,urn:lsid:ipni.org:names:1032652-2,wfo-0000561475,5661618,,
 aee42e9a-8fcc-11eb-924d-9cd76263cbd0,species,caroliniensis,Batschia,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 315 (1791)",,,,,,urn:lsid:ipni.org:names:320724-2,wfo-0000561476,5661615,,
 aee46770-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Batschia,,DC.,0,1824,,"Prodr. 1: 103 (1824)",,,Q2712448,,,urn:lsid:ipni.org:names:580217-1,wfo-0000561477,8025229,,
 aee48b9c-8fcc-11eb-924d-9cd76263cbd0,species,conferta,Batschia,,Miers,0,1852,,"Bot. Voy. Herald : 76 (1852)",,,,,,urn:lsid:ipni.org:names:580218-1,wfo-0000561478,5592715,,
