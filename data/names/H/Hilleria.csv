@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e4be77a0-8fd1-11eb-924d-9cd76263cbd0,genus,Hilleria,,,Vell.,0,1829,,"Fl. Flumin. : 47 (1829)",,,,,,urn:lsid:ipni.org:names:31923-1,wfo-4000017915,7309618,,
 0e24a5ba-8fcd-11eb-924d-9cd76263cbd0,species,elastica,Hilleria,,Vell.,0,1829,,"Fl. Flumin. : 47 (1829)",,,,,,urn:lsid:ipni.org:names:676245-1,wfo-0000723337,4192639,,
-0e24c2f2-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Hilleria,,"(Lam.) H.Walter",0,1909,,"Pflanzenr. , IV, 83: 81 (1909)",,,,,,urn:lsid:ipni.org:names:122647-2,wfo-0000723338,11059993,,
-c529f86e-8fcd-11eb-924d-9cd76263cbd0,variety,longifolia,Hilleria,latifolia,H.Walter,0,1909,,"Pflanzenr. , IV, 83: 82 (1909)",,,,,,urn:lsid:ipni.org:names:122648-2,wfo-0001091549,4192620,,
+0e24c2f2-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Hilleria,,"(Lam.) H.Walter",0,1909,,"Pflanzenr. , IV, 83: 81 (1909)",,,Q5799603,,,urn:lsid:ipni.org:names:122647-2,wfo-0000723338,11059993,,
+c529f86e-8fcd-11eb-924d-9cd76263cbd0,variety,longifolia,Hilleria,latifolia,H.Walter,0,1909,,"Pflanzenr. , IV, 83: 82 (1909)",,,Q5799603,,,urn:lsid:ipni.org:names:122648-2,wfo-0001091549,4192620,,
 c525c834-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Hilleria,,"(H.Walter) Heimerl",0,1934,,"Oesterr. Bot. Z. 61: 10. 1911",,,,c529f86e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:676247-1,wfo-0001091513,4192604,,
-c525e422-8fcd-11eb-924d-9cd76263cbd0,species,meziana,Hilleria,,H.Walter,0,1909,,"Pflanzenr. , IV, 83: 83 (1909)",,,,,,urn:lsid:ipni.org:names:122650-2,wfo-0001091514,4192591,,
+c525e422-8fcd-11eb-924d-9cd76263cbd0,species,meziana,Hilleria,,H.Walter,0,1909,,"Pflanzenr. , IV, 83: 83 (1909)",,,Q5799603,,,urn:lsid:ipni.org:names:122650-2,wfo-0001091514,4192591,,
 c5335bc0-8fcd-11eb-924d-9cd76263cbd0,species,nemoralis,Hilleria,,Mart.,0,,,,,,,,,,wfo-0001091624,7795275,,
 0e24e156-8fcd-11eb-924d-9cd76263cbd0,species,secunda,Hilleria,,"(Ruiz & Pav.) Kuntze",0,1891,,"Revis. Gen. Pl. 2: 551. 1891 [5 Nov 1891]",,,Q7318442,,,urn:lsid:ipni.org:names:676244-1,wfo-0000723339,8217697,,
 c525ff02-8fcd-11eb-924d-9cd76263cbd0,species,subcordata,Hilleria,,"Standl. & L.O.Williams",0,1953,,"Ceiba 3: 199 (1953)",,Q103981600,,,,urn:lsid:ipni.org:names:122651-2,wfo-0001091516,4192565,,

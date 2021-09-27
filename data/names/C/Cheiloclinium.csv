@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e18dff10-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiloclinium,,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 420 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:30041509-2,wfo-4000007753,7265392,,
-c6d7d24a-8fcc-11eb-924d-9cd76263cbd0,species,anomalum,Cheiloclinium,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 420 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:430947-1,wfo-0000600068,3790800,,
+e18dff10-8fd1-11eb-924d-9cd76263cbd0,genus,Cheiloclinium,,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 420 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:30041509-2,wfo-4000007753,7265392,,
+c6d7d24a-8fcc-11eb-924d-9cd76263cbd0,species,anomalum,Cheiloclinium,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 420 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:430947-1,wfo-0000600068,3790800,,
 c6d7ef0a-8fcc-11eb-924d-9cd76263cbd0,species,articulatum,Cheiloclinium,,A.C.Sm.,0,1940,,"Brittonia 3: 534 (1940)",,Q95998942,,,,urn:lsid:ipni.org:names:55842-2,wfo-0000600069,3790778,,
 c6d82b46-8fcc-11eb-924d-9cd76263cbd0,species,belizense,Cheiloclinium,,"(Standl.) A.C.Sm.",0,1940,,"Brittonia 3: 540 (1940)",,Q95998942,,,,urn:lsid:ipni.org:names:55843-2,wfo-0000600071,3790759,,
 c6d89a9a-8fcc-11eb-924d-9cd76263cbd0,species,cognatum,Cheiloclinium,,"(Miers) A.C.Sm.",0,1940,,"Brittonia 3: 529 (1940)",,Q95998942,,,,urn:lsid:ipni.org:names:55844-2,wfo-0000600072,3790743,,
@@ -23,5 +23,5 @@ c6dba122-8fcc-11eb-924d-9cd76263cbd0,species,parviflorum,Cheiloclinium,,"(Miers)
 c6dbbcb6-8fcc-11eb-924d-9cd76263cbd0,species,pedunculatum,Cheiloclinium,,"(A.C.Sm.) A.C.Sm.",0,1940,,"Brittonia 3: 538 (1940)",,Q95998942,,,,urn:lsid:ipni.org:names:55860-2,wfo-0000600089,3794473,,
 c6dbd9f8-8fcc-11eb-924d-9cd76263cbd0,species,podostemma,Cheiloclinium,,"(Sandwith) A.C.Sm.",0,1940,,"Brittonia 3: 542 (1940)",,Q95998942,,63757cd4-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:55861-2,wfo-0000600090,,,
 c6dbf41a-8fcc-11eb-924d-9cd76263cbd0,species,puberulum,Cheiloclinium,,Lombardi,0,2000,,"Brittonia 52(4): 340. 2001 [2000 publ. 2001]",,Q55768096,,,,urn:lsid:ipni.org:names:1019217-1,wfo-0000600091,3794436,,
-c6dc2980-8fcc-11eb-924d-9cd76263cbd0,species,schwackeanum,Cheiloclinium,,Loes.,0,1942,,"Nat. Pflanzenfam. ed. 2 , 20b: 171 (1942)",,,,,,urn:lsid:ipni.org:names:430968-1,wfo-0000600093,3794429,,
+c6dc2980-8fcc-11eb-924d-9cd76263cbd0,species,schwackeanum,Cheiloclinium,,Loes.,0,1942,,"Nat. Pflanzenfam. ed. 2 , 20b: 171 (1942)",,,Q14931236,,,urn:lsid:ipni.org:names:430968-1,wfo-0000600093,3794429,,
 c6dc47a8-8fcc-11eb-924d-9cd76263cbd0,species,serratum,Cheiloclinium,,"(Cambess.) A.C.Sm.",0,1940,,"Brittonia 3: 535 (1940)",,Q95998942,,,,urn:lsid:ipni.org:names:430969-1,wfo-0000600094,8678171,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9c8f2154-9bad-11eb-a8a2-19ed5c03f8d3,genus,Ditiola,,,Schulzer,,1860,,"Verh. zool.-bot. Ges. Wien 10: 322 (1860)",,,,9c8f2154-9bad-11eb-a8a2-19ed5c03f8d3,,,,,1676," "
-29311b78-9bac-11eb-a8a2-19ed5c03f8d3,species,abieticola,Ditiola,,"D.A. Reid",,1983,,"Trans. Br. mycol. Soc. 80(3): 483 (1983)",,,,29311b78-9bac-11eb-a8a2-19ed5c03f8d3,,,,,108850," "
+29311b78-9bac-11eb-a8a2-19ed5c03f8d3,species,abieticola,Ditiola,,"D.A. Reid",,1983,,"Trans. Br. mycol. Soc. 80(3): 483 (1983)",,,Q29043669,29311b78-9bac-11eb-a8a2-19ed5c03f8d3,,,,,108850," "
 8175d5ee-9bac-11eb-a8a2-19ed5c03f8d3,species,albiziae,Ditiola,,Coker,0,,,,,,,8175d5ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,177292," "
 1bcda6ee-9bad-11eb-a8a2-19ed5c03f8d3,species,brasiliensis,Ditiola,,"(Lloyd) McNabb",0,,,,,,,d1293e46-9bac-11eb-a8a2-19ed5c03f8d3,,,,,330148," "
 1bcddb8c-9bad-11eb-a8a2-19ed5c03f8d3,species,coccinea,Ditiola,,Lowy,,,,,,,,1bcddb8c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,330149," "
@@ -15,7 +15,7 @@ f5cbb738-9bac-11eb-a8a2-19ed5c03f8d3,species,mucida,Ditiola,,Schulzer,,1860,,"Ve
 dfd5962e-9bac-11eb-a8a2-19ed5c03f8d3,species,obliqua,Ditiola,,"(Massee) Rea",0,1922,,"Brit. basidiomyc. (Cambridge) 743 (1922)",,,,7bad5598-9bab-11eb-a8a2-19ed5c03f8d3,,,,,272564," "
 0b5b609a-9bac-11eb-a8a2-19ed5c03f8d3,species,orientalis,Ditiola,,"(Kobayasi) Govorova",0,1994,,"Mikol. Fitopatol. 28(6): 3 (1994)",,,,11e46c40-9bac-11eb-a8a2-19ed5c03f8d3,,,,,412968," "
 708f1592-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Ditiola,,"(R. Hedw.) Fr.",0,,,,,,,5046f16a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,150963," "
-0d8e7b8a-9bad-11eb-a8a2-19ed5c03f8d3,species,peziziformis,Ditiola,,"(Lév.) D.A. Reid",0,1974,,"Trans. Br. mycol. Soc. 62(3): 474 (1974)",,,,7b216712-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313312," "
+0d8e7b8a-9bad-11eb-a8a2-19ed5c03f8d3,species,peziziformis,Ditiola,,"(Lév.) D.A. Reid",0,1974,,"Trans. Br. mycol. Soc. 62(3): 474 (1974)",,,Q29043669,7b216712-9bac-11eb-a8a2-19ed5c03f8d3,,,,,313312," "
 632076f8-9bac-11eb-a8a2-19ed5c03f8d3,species,phyllogena,Ditiola,,"Cooke & Massee",0,,,,,,,632076f8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,150705," "
 f99e358e-9bac-11eb-a8a2-19ed5c03f8d3,species,radicata,Ditiola,,"(Alb. & Schwein.) Fr.",0,1822,,"Syst. mycol. (Lundae) 2(1): 170 (1822)",,,,77d8f6f2-9bab-11eb-a8a2-19ed5c03f8d3,,,,,151130," "
 b4256c5c-9bac-11eb-a8a2-19ed5c03f8d3,form,conformis,Ditiola,radicata,"(P. Karst.) Killerm.",,,,,,,,814c9ada-9bac-11eb-a8a2-19ed5c03f8d3,,,,,509635," "
@@ -25,5 +25,5 @@ e2d9fc66-9bac-11eb-a8a2-19ed5c03f8d3,species,rickii,Ditiola,,Bres.,,1920,,"Annls
 e4079a6c-9bac-11eb-a8a2-19ed5c03f8d3,species,shopei,Ditiola,,Coker,0,1930,,"J. Elisha Mitchell scient. Soc. 46: 117 (1930)",,,,e4079a6c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,278071," "
 3947843e-9bac-11eb-a8a2-19ed5c03f8d3,species,sulcata,Ditiola,,"(Tode) Fr.",0,,,,,,,83338bb0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,151047," "
 77f28fe0-9bab-11eb-a8a2-19ed5c03f8d3,species,tubercularioides,Ditiola,,Lib.,0,,,,,,,77f28fe0-9bab-11eb-a8a2-19ed5c03f8d3,,,,,151507," "
-7e3378a0-9bac-11eb-a8a2-19ed5c03f8d3,species,ulicis,Ditiola,,Plowr.,,1898,,"Trans. Br. mycol. Soc. 1(2): 55 (1898)",,,,7e3378a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,171134," "
+7e3378a0-9bac-11eb-a8a2-19ed5c03f8d3,species,ulicis,Ditiola,,Plowr.,,1898,,"Trans. Br. mycol. Soc. 1(2): 55 (1898)",,,Q29043669,7e3378a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,171134," "
 540de056-9bac-11eb-a8a2-19ed5c03f8d3,species,volvata,Ditiola,,"(Tode) Fr.",0,,,,,,,ae8bcc22-9bad-11eb-a8a2-19ed5c03f8d3,,,,,171815," "

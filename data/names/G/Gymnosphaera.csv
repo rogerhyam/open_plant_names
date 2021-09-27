@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e449595c-8fd1-11eb-924d-9cd76263cbd0,genus,Gymnosphaera,,,Blume,0,1828,,"Enum. Pl. Javae 2: 242 (1828)",,,,e449595c-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17116270-1,wfo-4000016526,3229358,8408," "
-4ab9c1b0-8fbc-11eb-924d-9cd76263cbd0,species,aculeata,Gymnosphaera,,J.Sm.,0,1842,,"London J. Bot. 1: 667 (1842)",,,,,,urn:lsid:ipni.org:names:17116280-1,wfo-0000140193,5530170,,
+4ab9c1b0-8fbc-11eb-924d-9cd76263cbd0,species,aculeata,Gymnosphaera,,J.Sm.,0,1842,,"London J. Bot. 1: 667 (1842)",,,Q5978674,,,urn:lsid:ipni.org:names:17116280-1,wfo-0000140193,5530170,,
 cc77319a-8fcd-11eb-924d-9cd76263cbd0,species,alticola,Gymnosphaera,,Tardieu,0,1951,,"Unknown 3: 76. t. 2. 1951. (1951)",,,,,,urn:lsid:ipni.org:names:17396960-1,wfo-0001107628,5530169,,
 b4da14a4-8fd1-11eb-924d-9cd76263cbd0,species,andersonii,Gymnosphaera,,"(J.Scott ex Bedd.) Ching & S.K.Wu",0,1983,,"Fl. Xizang. 1: 54 (1983)",,,,,,urn:lsid:ipni.org:names:17514210-1,wfo-0001233407,7766067,,
 cc774d42-8fcd-11eb-924d-9cd76263cbd0,species,andohahelensis,Gymnosphaera,,"(Tardieu) Tardieu in Humbert",0,1951,,"Fl. Madagasc. 4: 34 (1951)",,,,cd74bb9e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17396970-1,wfo-0001107629,5530165,,
@@ -12,9 +12,9 @@ cd75fd2e-8fcd-11eb-924d-9cd76263cbd0,species,boivinii,Gymnosphaera,,"(Mett. ex E
 c1295972-8fd1-11eb-924d-9cd76263cbd0,species,burbidgei,Gymnosphaera,,"(Baker) Copel.",0,1947,,"Gen. Fil. : 99 (1947)",,,,,,urn:lsid:ipni.org:names:17397020-1,wfo-0001256302,5530146,,
 cc77b9e4-8fcd-11eb-924d-9cd76263cbd0,species,coursii,Gymnosphaera,,"(Tardieu) Tardieu in Humbert",0,1951,,"Fl. Madagasc. 4: 40 (1951)",,,,,,urn:lsid:ipni.org:names:17397030-1,wfo-0001107633,9220423,,
 d53f425e-8fcd-11eb-924d-9cd76263cbd0,species,denticulata,Gymnosphaera,,"(Baker) Copel.",0,1947,,"Gen. Fil. : 98 (1947)",,,,,,urn:lsid:ipni.org:names:17397040-1,wfo-0001126568,5530140,,
-c12b638e-8fd1-11eb-924d-9cd76263cbd0,species,dinagatensis,Gymnosphaera,,Copel.,0,1952,,"Philipp. J. Sci. 81: 19, t. 14 (1952)",,,,,,urn:lsid:ipni.org:names:17397050-1,wfo-0001256314,5530136,,
+c12b638e-8fd1-11eb-924d-9cd76263cbd0,species,dinagatensis,Gymnosphaera,,Copel.,0,1952,,"Philipp. J. Sci. 81: 19, t. 14 (1952)",,,Q6074313,,,urn:lsid:ipni.org:names:17397050-1,wfo-0001256314,5530136,,
 4acb5786-8fbc-11eb-924d-9cd76263cbd0,species,formosana,Gymnosphaera,,"(Baker) Copel.",0,1947,,"Gen. Fil. : 98 (1947)",,,,,,urn:lsid:ipni.org:names:17397060-1,wfo-0000140196,5530132,,
-4ad47212-8fbc-11eb-924d-9cd76263cbd0,species,gigantea,Gymnosphaera,,"(Wall.) J.Sm.",0,1842,,"London J. Bot. 1: 667 (1842)",,,,,,urn:lsid:ipni.org:names:17116290-1,wfo-0000140197,5530129,,
+4ad47212-8fbc-11eb-924d-9cd76263cbd0,species,gigantea,Gymnosphaera,,"(Wall.) J.Sm.",0,1842,,"London J. Bot. 1: 667 (1842)",,,Q5978674,,,urn:lsid:ipni.org:names:17116290-1,wfo-0000140197,5530129,,
 c0c8d502-8fd1-11eb-924d-9cd76263cbd0,species,glabra,Gymnosphaera,,Blume,0,1828,,"Enum. Pl. Javae 2: 242 (1828)",,,,,,urn:lsid:ipni.org:names:17116300-1,wfo-0001255565,5530127,,
 c0f79720-8fd1-11eb-924d-9cd76263cbd0,species,gracillima,Gymnosphaera,,"(Copel.) Copel.",0,1947,,"Gen. Fil. : 99 (1947)",,,,,,urn:lsid:ipni.org:names:17397070-1,wfo-0001255927,5530122,,
 d53eed2c-8fcd-11eb-924d-9cd76263cbd0,species,hancockii,Gymnosphaera,,"(Copel.) Ching",0,1978,,"? 16: 10 1978",,,,d01c281e-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0001126565,7673705,,
@@ -36,7 +36,7 @@ cc77a080-8fcd-11eb-924d-9cd76263cbd0,species,melleri,Gymnosphaera,,"(Bak.in Hook
 cd757660-8fcd-11eb-924d-9cd76263cbd0,variety,virescens,Gymnosphaera,melleri,Tardieu,0,1951,,"Fl. Madagasc. 4: 38 1951",,,,,,,wfo-0001109887,8300440,,
 d53ed38c-8fcd-11eb-924d-9cd76263cbd0,species,metteniana,Gymnosphaera,,"(Hance) Tagawa",0,1951,,"Acta Phytotax. Geobot. 14: 94 (1951)",,Q101147784,,d0caf614-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17397180-1,wfo-0001126564,5530084,,
 c12a4580-8fd1-11eb-924d-9cd76263cbd0,species,mollis,Gymnosphaera,,"(Copel.) Copel.",0,1947,,"Gen. Fil. : 99 (1947)",,,,bf84e6ae-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17397190-1,wfo-0001256310,5530080,,
-4b0a888e-8fbc-11eb-924d-9cd76263cbd0,species,nicklesii,Gymnosphaera,,"Tardieu & F.Ballard ex Tardieu",0,1953,,"Notul. Syst. (Paris) 14: 329 (1953)",,,,,,urn:lsid:ipni.org:names:17397200-1,wfo-0000140203,5530078,,
+4b0a888e-8fbc-11eb-924d-9cd76263cbd0,species,nicklesii,Gymnosphaera,,"Tardieu & F.Ballard ex Tardieu",0,1953,,"Notul. Syst. (Paris) 14: 329 (1953)",,,Q6045778,,,urn:lsid:ipni.org:names:17397200-1,wfo-0000140203,5530078,,
 c125582c-8fd1-11eb-924d-9cd76263cbd0,species,obliqua,Gymnosphaera,,"(Copel.) Copel.",0,1947,,"Gen. Fil. : 98 (1947)",,,,bf9ad414-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17397210-1,wfo-0001256274,5530075,,
 4b1368b4-8fbc-11eb-924d-9cd76263cbd0,species,ogurae,Gymnosphaera,,"(Hayata) Tagawa",0,1951,,"Acta Phytotax. Geobot. 14: 94 (1951)",,Q101147784,,,,urn:lsid:ipni.org:names:17397220-1,wfo-0000140204,5530072,,
 c134138a-8fd1-11eb-924d-9cd76263cbd0,species,papuana,Gymnosphaera,,"(Ridl.) Copel.",0,1947,,"Gen. Fil. : 98 (1947)",,,,,,urn:lsid:ipni.org:names:17397230-1,wfo-0001256377,5530068,,

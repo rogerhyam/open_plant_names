@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 df0c34fa-8fd1-11eb-924d-9cd76263cbd0,genus,Ajania,,,Poljakov,0,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 17: 419 (1955)",,,Q5732625,,,urn:lsid:ipni.org:names:7525-1,wfo-4000001057,3112209,,
-bc85b44a-8fb5-11eb-924d-9cd76263cbd0,species,abolinii,Ajania,,Kovalevsk.,0,1986,,"Novosti Sist. Vyssh. Rast. 23: 247 (1986) (1986)",,,,,,urn:lsid:ipni.org:names:931328-1,wfo-0000081559,3112313,,
-9b287434-8fb2-11eb-924d-9cd76263cbd0,species,achilleoides,Ajania,,"Poljakov ex Grubov",0,1972,,"Novosti Sist. Vyssh. Rast. 9: 296 (1972)",,,,f1ace68c-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:175787-1,wfo-0000029521,3112235,,
+bc85b44a-8fb5-11eb-924d-9cd76263cbd0,species,abolinii,Ajania,,Kovalevsk.,0,1986,,"Novosti Sist. Vyssh. Rast. 23: 247 (1986) (1986)",,,Q5655751,,,urn:lsid:ipni.org:names:931328-1,wfo-0000081559,3112313,,
+9b287434-8fb2-11eb-924d-9cd76263cbd0,species,achilleoides,Ajania,,"Poljakov ex Grubov",0,1972,,"Novosti Sist. Vyssh. Rast. 9: 296 (1972)",,,Q5655751,f1ace68c-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:175787-1,wfo-0000029521,3112235,,
 6702cea8-8fb6-11eb-924d-9cd76263cbd0,species,adenantha,Ajania,,"(Diels) Muldashev",0,1983,,"Bot. Zhurn. (Moscow & Leningrad) 68(2): 211 (1983)",,,Q2504738,b6995b06-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:911696-1,wfo-0000089080,,,
 e52583e8-8fbb-11eb-924d-9cd76263cbd0,species,adenanthum,Ajania,,"(Diels) Y.Ling & C.Shih",0,1980,,"Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6): 13 (1980)",,,,b6995b06-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:175788-1,wfo-0000137444,,,
 bcc73caa-8fd1-11eb-924d-9cd76263cbd0,species,alabasia,Ajania,,H.C.Fu,0,1982,,"Fl. Intramongolica 6: 325 (1982) (1982)",,,,,,urn:lsid:ipni.org:names:899117-1,wfo-0001248093,8120930,,
@@ -32,7 +32,7 @@ b3ac1718-8fb2-11eb-924d-9cd76263cbd0,species,gracilis,Ajania,,"(Hook.f. & Thomso
 d73b1312-8fb4-11eb-924d-9cd76263cbd0,species,khartense,Ajania,,"(Dunn) Shih ex H.C.Fu",0,1982,,"Fl. Intramongolica 6: 96 (1982): (1982)",,,,fd93e974-8fb1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:909931-1,wfo-0000070568,,,
 31e661ae-8fba-11eb-924d-9cd76263cbd0,species,khartensis,Ajania,,"(Dunn) C.Shih",0,1979,,"Acta Phytotax. Sin. 17(2): 115 (1979)",,,Q5656885,,,urn:lsid:ipni.org:names:175800-1,wfo-0000124686,3112240,,
 d259eafc-8fb5-11eb-924d-9cd76263cbd0,species,kokanica,Ajania,,"(Krasch.) Tzvelev",0,1961,,"Fl. URSS xxvi. 408 (1961)",,,,,,urn:lsid:ipni.org:names:175801-1,wfo-0000082552,3118523,,
-b214dd2a-8fb9-11eb-924d-9cd76263cbd0,species,korovinii,Ajania,,Kovalevsk.,0,1986,,"Novosti Sist. Vyssh. Rast. 23: 246 (1986) (1986)",,,,,,urn:lsid:ipni.org:names:931327-1,wfo-0000120588,3112214,,
+b214dd2a-8fb9-11eb-924d-9cd76263cbd0,species,korovinii,Ajania,,Kovalevsk.,0,1986,,"Novosti Sist. Vyssh. Rast. 23: 246 (1986) (1986)",,,Q5655751,,,urn:lsid:ipni.org:names:931327-1,wfo-0000120588,3112214,,
 58a63592-8fb2-11eb-924d-9cd76263cbd0,species,latifolia,Ajania,,C.Shih,0,1980,,"Bull. Bot. Lab. N. E. Forest. Inst., Harbin 1980(6): 12 (1980)",,,,,,urn:lsid:ipni.org:names:175802-1,wfo-0000021418,3150757,,
 aeb0dc4e-8fb2-11eb-924d-9cd76263cbd0,species,leontopodioides,Ajania,,"(Besser) Poljakov",0,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 17: 428 (1955)",,,Q5732625,,,urn:lsid:ipni.org:names:175803-1,wfo-0000031699,3121683,,
 d71d8928-8fcd-11eb-924d-9cd76263cbd0,species,manchurica,Ajania,,Poljakov,0,1955,,"Bot. Mater. Gerb. Bot. Inst. Komarova Acad. Nauk SSSR 17: 425 1955",,,,,,,wfo-0001130861,8054137,,

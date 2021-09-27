@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a1467d50-9bad-11eb-a8a2-19ed5c03f8d3,genus,Acia,,,"P. Karst.",,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,a1467d50-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17008," "
 23a7b072-9bac-11eb-a8a2-19ed5c03f8d3,species,alutacea,Acia,,"(Fr.) P. Karst.",0,1903,,"Fl. Crypt. Antilles Franç. 229 (1903)",,,,72be211a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,100894," "
-3d8aff70-8fcd-11eb-924d-9cd76263cbd0,species,amara,Acia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 717 (1800)",,,,,,urn:lsid:ipni.org:names:720151-1,wfo-0000822478,5565486,,
+3d8aff70-8fcd-11eb-924d-9cd76263cbd0,species,amara,Acia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 717 (1800)",,,Q849308,,,urn:lsid:ipni.org:names:720151-1,wfo-0000822478,5565486,,
 23a78bce-9bac-11eb-a8a2-19ed5c03f8d3,species,arguta,Acia,,"(Fr.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,,,,,,100893," "
 085a13b8-9bad-11eb-a8a2-19ed5c03f8d3,species,armeniaca,Acia,,"(Berk. & M.A. Curtis) Pat.",0,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 229 (1903)",,,,5116af36-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102258," "
 23a60204-9bac-11eb-a8a2-19ed5c03f8d3,species,aurea,Acia,,"(Fr.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,683c496e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100890," "
@@ -16,7 +16,7 @@ ab6c52b0-9bac-11eb-a8a2-19ed5c03f8d3,species,chrysocoma,Acia,,"(Underw.) Pat.",0
 0850a38c-9bad-11eb-a8a2-19ed5c03f8d3,species,diaphana,Acia,,"(Schrad.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,33a0a9a6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100860," "
 2393795e-9bac-11eb-a8a2-19ed5c03f8d3,species,dissita,Acia,,"(Berk. & Cooke) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,a13c2bc6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100779," "
 1535dfbe-9bac-11eb-a8a2-19ed5c03f8d3,species,dryina,Acia,,"(Lév.) Pat.",0,1900,,"Essai Tax. Hyménomyc. (Lons-le-Saunier) 69 (1900)",,,,d05b0ed6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,490005," "
-3d8b1df2-8fcd-11eb-924d-9cd76263cbd0,species,dulcis,Acia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 717 (1800)",,,,,,urn:lsid:ipni.org:names:720152-1,wfo-0000822479,5361952,,
+3d8b1df2-8fcd-11eb-924d-9cd76263cbd0,species,dulcis,Acia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 717 (1800)",,,Q849308,,,urn:lsid:ipni.org:names:720152-1,wfo-0000822479,5361952,,
 f224f820-9bab-11eb-a8a2-19ed5c03f8d3,species,eriozona,Acia,,"(Bres.) Cejp",,1931,,"Stud. nat. Hist. Iowa Univ. 13(3): 4 (1931)",,,,1f1f98ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,499190," "
 0e44d412-9bac-11eb-a8a2-19ed5c03f8d3,species,fallax,Acia,,"(Fr.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,ace24e24-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100921," "
 23971154-9bac-11eb-a8a2-19ed5c03f8d3,species,farinacea,Acia,,"(Pers.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,3e99ea48-9bad-11eb-a8a2-19ed5c03f8d3,,,,,100803," "
@@ -41,7 +41,7 @@ ab6d4fe4-9bac-11eb-a8a2-19ed5c03f8d3,subspecies,subochracea,Acia,membranacea,"(A
 1c141d5a-9bac-11eb-a8a2-19ed5c03f8d3,species,pyramidata,Acia,,"(Berk. & M.A. Curtis) Pat.",0,1903,,"in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 229 (1903)",,,,56c72938-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102288," "
 f63bd19e-9bac-11eb-a8a2-19ed5c03f8d3,species,sericea,Acia,,Pat.,,1903,,"Enum. Champ. Guadeloupe (Lons-le-Saunier) 19 (1903)",,,,f63bd19e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,192024," "
 e3fa6888-9bac-11eb-a8a2-19ed5c03f8d3,species,setosa,Acia,,"(Pers.) Bourdot & Galzin",0,1928,,"Hyménomyc. de France (Sceaux) 418 (1928)",,,,4ce1ad9e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,278030," "
-d34f670e-9bac-11eb-a8a2-19ed5c03f8d3,species,sibirica,Acia,,Pilát,,1936,,"Bull. trimest. Soc. mycol. Fr. 51(3-4): 396 (1936)",,,,d34f670e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254697," "
+d34f670e-9bac-11eb-a8a2-19ed5c03f8d3,species,sibirica,Acia,,Pilát,,1936,,"Bull. trimest. Soc. mycol. Fr. 51(3-4): 396 (1936)",,,Q27720934,d34f670e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,254697," "
 23ada806-9bac-11eb-a8a2-19ed5c03f8d3,species,sobolewskii,Acia,,"(Weinm.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,f707cc5e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100947," "
 23b49fc6-9bac-11eb-a8a2-19ed5c03f8d3,species,sordida,Acia,,"(Weinm.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,8e234c22-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100982," "
 238c8cac-9bac-11eb-a8a2-19ed5c03f8d3,species,spathulata,Acia,,"(Schwein.) P. Karst.",0,1879,,"Meddn Soc. Fauna Flora fenn. 5: 42 (1879)",,,,3937e6f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,100983," "

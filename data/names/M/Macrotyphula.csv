@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a05e96fc-9bad-11eb-a8a2-19ed5c03f8d3,genus,Macrotyphula,,,"R.H. Petersen",,1972,,"Mycologia 64(1): 140 (1972)",,,Q1962302,a05e96fc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,18010," "
-a9fb0164-9bad-11eb-a8a2-19ed5c03f8d3,species,contorta,Macrotyphula,,"(Holmsk.) Rauschert",0,1987,,"Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 660 (1987)",,,,cf5b2926-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133135," "
+a9fb0164-9bad-11eb-a8a2-19ed5c03f8d3,species,contorta,Macrotyphula,,"(Holmsk.) Rauschert",0,1987,,"Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 660 (1987)",,,Q5643138,cf5b2926-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133135," "
 64d4864c-9bac-11eb-a8a2-19ed5c03f8d3,species,defibulata,Macrotyphula,,"R.H. Petersen",,1988,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 236: 79 (1988)",,,,64d4864c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133972," "
 7e8cbc3e-9bad-11eb-a8a2-19ed5c03f8d3,form,defibulata,Macrotyphula,defibulata,"R.H. Petersen",,1988,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 236: 79 (1988)",,,,7e8cbc3e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,419160," "
 3b0b1c04-9bac-11eb-a8a2-19ed5c03f8d3,form,pallida,Macrotyphula,defibulata,"R.H. Petersen",,1988,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 236: 80 (1988)",,,,3b0b1c04-9bac-11eb-a8a2-19ed5c03f8d3,,,,,134007," "
-24de37ea-9bac-11eb-a8a2-19ed5c03f8d3,species,filiformis,Macrotyphula,,"(Bull.) Rauschert",0,1987,invalid,"Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 660 (1987)",,,,,,,,,102635,"  Published as 'Paechnatz ined. in Kreisel'."
+24de37ea-9bac-11eb-a8a2-19ed5c03f8d3,species,filiformis,Macrotyphula,,"(Bull.) Rauschert",0,1987,invalid,"Feddes Repert. Spec. Nov. Regni Veg. 98(11-12): 660 (1987)",,,Q5643138,,,,,,102635,"  Published as 'Paechnatz ined. in Kreisel'."
 10a26570-9bad-11eb-a8a2-19ed5c03f8d3,species,fistulosa,Macrotyphula,,"(Holmsk.) R.H. Petersen",,1972,,"Mycologia 64(1): 140 (1972)",,,Q1962302,,,,,,317106," "
 2f328714-9bac-11eb-a8a2-19ed5c03f8d3,variety,contorta,Macrotyphula,fistulosa,"(Holmsk.) Nannf. & L. Holm",0,1985,,"in Lundell, Nannfeldt & Holm, Publications from the Herbarium, University of Uppsala, Sweden 17: 8 (1985)",,,,cf5b2926-9bac-11eb-a8a2-19ed5c03f8d3,,,,,117526," "
 614746bc-9bad-11eb-a8a2-19ed5c03f8d3,variety,fistulosa,Macrotyphula,fistulosa,"(Holmsk.) R.H. Petersen",,1972,,"Mycologia 64(1): 140 (1972)",,,Q1962302,614746bc-9bad-11eb-a8a2-19ed5c03f8d3,,,,,417658," "
@@ -12,5 +12,5 @@ a9fb0164-9bad-11eb-a8a2-19ed5c03f8d3,species,contorta,Macrotyphula,,"(Holmsk.) R
 64d4b4a0-9bac-11eb-a8a2-19ed5c03f8d3,species,rhizomorpha,Macrotyphula,,"R.H. Petersen",,1988,,"Bull. N.Z. Dept. Sci. Industr. Res., Pl. Dis. Div. 236: 80 (1988)",,,,64d4b4a0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,133973," "
 9acdbf88-9bad-11eb-a8a2-19ed5c03f8d3,species,rigida,Macrotyphula,,Berthier,,1976,,"Monographie des Typhula, Pistillaria et des genres voisins 197 (1976)",,,,9acdbf88-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317108," "
 10a2e0ae-9bad-11eb-a8a2-19ed5c03f8d3,species,tremula,Macrotyphula,,Berthier,,1974,,"Bull. mens. Soc. linn. Lyon 43: 187 (1974)",,,,10a2e0ae-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317109," "
-45c6fbb4-8fc6-11eb-924d-9cd76263cbd0,species,balansae,Macroule,,"(Drake) Yakovlev",0,1976,,"Novosti Sist. Vyssh. Rast. 13: 172 (1976)",,,,,,urn:lsid:ipni.org:names:505876-1,wfo-0000197134,2960596,,
+45c6fbb4-8fc6-11eb-924d-9cd76263cbd0,species,balansae,Macroule,,"(Drake) Yakovlev",0,1976,,"Novosti Sist. Vyssh. Rast. 13: 172 (1976)",,,Q5655751,,,urn:lsid:ipni.org:names:505876-1,wfo-0000197134,2960596,,
 4365d994-8fc1-11eb-924d-9cd76263cbd0,species,coutinhoi,Macroule,,"(Ducke) Pierce",0,1942,,"Trop. Woods 71: 2 (1942)",,,,d081bb3c-8fc0-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:149137-2,wfo-0000170962,2960494,,

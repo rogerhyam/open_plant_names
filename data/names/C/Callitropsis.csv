@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e10798f8-8fd1-11eb-924d-9cd76263cbd0,genus,Callitropsis,,,Oerst.,0,1864,,"Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn , ser. 2, 6: 32 (1864)",,,,,,urn:lsid:ipni.org:names:60458402-2,wfo-4000006116,6433379,,
 bab3332e-8fcc-11eb-924d-9cd76263cbd0,species,abramsiana,Callitropsis,,"(C.B.Wolf) D.P.Little",0,2006,,"Syst. Bot. 31: 473 (2006)",,Q55763484,,d8dda2a8-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60443293-2,wfo-0000580797,5284262,,
-bab36cfe-8fcc-11eb-924d-9cd76263cbd0,species,araucarioides,Callitropsis,,Compton,0,1922,,"J. Linn. Soc., Bot. 45: 432 (1922)",,Q55760527,,,,urn:lsid:ipni.org:names:676693-1,wfo-0000580799,5284385,,
+bab36cfe-8fcc-11eb-924d-9cd76263cbd0,species,araucarioides,Callitropsis,,Compton,0,1922,,"J. Linn. Soc., Bot. 45: 432 (1922)",,Q55760527,Q5946734,,,urn:lsid:ipni.org:names:676693-1,wfo-0000580799,5284385,,
 bab38ad6-8fcc-11eb-924d-9cd76263cbd0,species,arizonica,Callitropsis,,"(Greene) D.P.Little",0,2006,,"Syst. Bot. 31: 473 (2006)",,Q55763484,,,,urn:lsid:ipni.org:names:60443294-2,wfo-0000580800,5284256,,
 bab3a796-8fcc-11eb-924d-9cd76263cbd0,species,bakeri,Callitropsis,,"(Jeps.) D.P.Little",0,2006,,"Syst. Bot. 31: 473 (2006)",,Q55763484,,,,urn:lsid:ipni.org:names:60443295-2,wfo-0000580801,5284259,,
 bab3c258-8fcc-11eb-924d-9cd76263cbd0,species,benthamii,Callitropsis,,"(Endl.) D.P.Little",0,2006,,"Syst. Bot. 31: 473 (2006)",,Q55763484,,,,urn:lsid:ipni.org:names:60443296-2,wfo-0000580802,5284266,,
@@ -25,7 +25,7 @@ bab5f7c6-8fcc-11eb-924d-9cd76263cbd0,species,vietnamensis,Callitropsis,,"(Farjon
 de97fa04-8fcc-11eb-924d-9cd76263cbd0,species,magellanica,Callixene,,Raeusch.,0,1797,,"Nomencl. Bot. [Raeusch.] ed. 3, 98. 1797",,,,,,urn:lsid:ipni.org:names:532366-1,wfo-0000640753,2754335,,
 bcefb7ec-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Callixene,,Juss.,0,1797,,"Tabl. Encycl. 2, t. 248 1797",,,,,,,wfo-0001073328,8348818,,
 de99c41a-8fcc-11eb-924d-9cd76263cbd0,species,marginata,Callixene,,"(Gaertn.) Lam.",0,1792,,"Tabl. Encycl. 2(1): 387, t. 248. 1792 [30 July 1792]",,,,23723a5e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:532367-1,wfo-0000640764,2754336,,
-de9b0e92-8fcc-11eb-924d-9cd76263cbd0,species,melantha,Callixene,,Colenso,0,1885,,"Trans. & Proc. New Zealand Inst. xvii. (1885) 250.",,,,,,urn:lsid:ipni.org:names:532368-1,wfo-0000640775,2754347,,
+de9b0e92-8fcc-11eb-924d-9cd76263cbd0,species,melantha,Callixene,,Colenso,0,1885,,"Trans. & Proc. New Zealand Inst. xvii. (1885) 250.",,,Q7833731,,,urn:lsid:ipni.org:names:532368-1,wfo-0000640775,2754347,,
 de9cb4d6-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Callixene,,Hook.f.,0,1844,,"Icon. Pl. 7: t. 632. 1844 [Jan 1844]",,,,,,urn:lsid:ipni.org:names:532369-1,wfo-0000640786,2754346,,
 de9defe0-8fcc-11eb-924d-9cd76263cbd0,species,polyphylla,Callixene,,Hook.f.,0,1844,,"Hooker's Icon. Pl. 7: 674. 1844",,,,,,urn:lsid:ipni.org:names:273908-2,wfo-0000640794,2754344,,
 5647a0aa-1d4d-11ec-82c2-f14daa6f2d93,species,radicans,Callixene,,"(Ruiz & Pav.) Macloskie",,,,,,,,,,urn:lsid:ipni.org:names:1059557-2,wfo-0001348726,,,

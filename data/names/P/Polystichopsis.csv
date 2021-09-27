@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e8e43bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Polystichopsis,,,"(J.Sm.) Holttum",0,1947,,"J. Linn. Soc., Bot. 53: 149, 152. 1947. (1947)",,Q95997590,,,,urn:lsid:ipni.org:names:17413120-1,wfo-4000030830,8199362,,
+e8e43bf8-8fd1-11eb-924d-9cd76263cbd0,genus,Polystichopsis,,,"(J.Sm.) Holttum",0,1947,,"J. Linn. Soc., Bot. 53: 149, 152. 1947. (1947)",,Q95997590,Q5946734,,,urn:lsid:ipni.org:names:17413120-1,wfo-4000030830,8199362,,
 d5f6444a-8fcd-11eb-924d-9cd76263cbd0,species,amabilis,Polystichopsis,,"(Blume) Tagawa",0,1958,,"J. Jap. Bot. 33: 94 (1958)",,Q104823555,,,,urn:lsid:ipni.org:names:17413130-1,wfo-0001128183,4041613,,
 d5dc18cc-8fcd-11eb-924d-9cd76263cbd0,species,amplissima,Polystichopsis,,"(C.Presl) Abbiatti",0,1958,,"Revista Mus. La Plata, Secc. Bot. 9(36-37): 19 (1958)",,,,,,urn:lsid:ipni.org:names:207922-2,wfo-0001127957,7319308,,
 6a8a1a98-1d4d-11ec-82c2-f14daa6f2d93,variety,phaeochlamys,Polystichopsis,amplissima,"(Fée) Abbiatti",,1958,,"Revista Mus. La Plata, Secc. Bot. 9(36-37): 19. 1958",,,,,,urn:lsid:ipni.org:names:207923-2,wfo-0001376833,,,
@@ -37,4 +37,4 @@ d5f6b056-8fcd-11eb-924d-9cd76263cbd0,variety,major,Polystichopsis,simplicior,"(T
 b4178c7c-8fd1-11eb-924d-9cd76263cbd0,species,sino-miqueliana,Polystichopsis,,"(Ching) Tagawa",0,1958,,"J. Jap. Bot. 33: 95. 1958. (1958)",,Q104823555,,d3e0db98-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17413330-1,wfo-0001232040,8049847,,
 ac051dbe-8fcd-11eb-924d-9cd76263cbd0,species,standishii,Polystichopsis,,"(Moore) Tagawa",0,1958,,"J. Jap. Bot. 33: 95. 1958. (1958)",,Q104823555,,d0da713e-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:17413340-1,wfo-0001034799,4041446,,
 e41f42a8-8fbc-11eb-924d-9cd76263cbd0,species,villosa,Polystichopsis,,Christenh.,0,2009,,"Bot. J. Linn. Soc. 161(3): 262 (2009)",,Q43296024,Q2975482,,,urn:lsid:ipni.org:names:77102947-1,wfo-0000144228,7727940,,
-e4327422-8fbc-11eb-924d-9cd76263cbd0,species,wardii,Polystichopsis,,"(Baker) Tardieu",0,1956,,"Notul. Syst. (Paris) 15: 176 (1956)",,,,,,urn:lsid:ipni.org:names:17413350-1,wfo-0000144230,4041438,,
+e4327422-8fbc-11eb-924d-9cd76263cbd0,species,wardii,Polystichopsis,,"(Baker) Tardieu",0,1956,,"Notul. Syst. (Paris) 15: 176 (1956)",,,Q6045778,,,urn:lsid:ipni.org:names:17413350-1,wfo-0000144230,4041438,,

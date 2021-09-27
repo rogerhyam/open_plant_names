@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 8082f300-9bad-11eb-a8a2-19ed5c03f8d3,genus,Thermomyces,,,Tsikl.,,1899,,"Annls Inst. Pasteur, Paris 13: 500 (1899)",,,,8082f300-9bad-11eb-a8a2-19ed5c03f8d3,,,,,10209," "
-26230f30-9bad-11eb-a8a2-19ed5c03f8d3,species,ibadanensis,Thermomyces,,"Apinis & Eggins",,1966,,"Trans. Br. mycol. Soc. 49(4): 631 (1966)",,,,26230f30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,340046," "
+26230f30-9bad-11eb-a8a2-19ed5c03f8d3,species,ibadanensis,Thermomyces,,"Apinis & Eggins",,1966,,"Trans. Br. mycol. Soc. 49(4): 631 (1966)",,,Q29043669,26230f30-9bad-11eb-a8a2-19ed5c03f8d3,,,,,340046," "
 cc6d1f8a-9bac-11eb-a8a2-19ed5c03f8d3,species,lanuginosus,Thermomyces,,Tsikl.,,1899,,"Annls Inst. Pasteur, Paris 13: 500-504 (1899)",,,,cc6d1f8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,239786," "
 ff496572-9bab-11eb-a8a2-19ed5c03f8d3,species,stellatus,Thermomyces,,"(Bunce) Apinis",,1963,,"Nova Hedwigia 5: 75 (1963)",,,,1da6cf5e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,340047," "
-262356ac-9bad-11eb-a8a2-19ed5c03f8d3,species,verrucosus,Thermomyces,,"Pugh, Blakeman & Morgan-Jones",,1964,,"Trans. Br. mycol. Soc. 47(1): 116 (1964)",,,,262356ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,340048," "
+262356ac-9bad-11eb-a8a2-19ed5c03f8d3,species,verrucosus,Thermomyces,,"Pugh, Blakeman & Morgan-Jones",,1964,,"Trans. Br. mycol. Soc. 47(1): 116 (1964)",,,Q29043669,262356ac-9bad-11eb-a8a2-19ed5c03f8d3,,,,,340048," "
 4cdd42c2-8fcc-11eb-924d-9cd76263cbd0,species,angulosa,Thermophila,,Peyr.,0,1878,,"Fl. Bras. 11(1): 154 (1878)",,,Q5460282,,,urn:lsid:ipni.org:names:162821-1,wfo-0000406663,5580212,,
-4cddfea6-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 401 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:300918-2,wfo-0000406668,5580203,,
-4cde4b4a-8fcc-11eb-924d-9cd76263cbd0,species,emarginata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 401 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:162823-1,wfo-0000406670,5580200,,
-c3047236-8fd1-11eb-924d-9cd76263cbd0,species,macrophylla,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 399 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:162824-1,wfo-0001259734,5580197,,
-4cde9564-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 399 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:162825-1,wfo-0000406671,5580193,,
-4cdec052-8fcc-11eb-924d-9cd76263cbd0,species,rugulosa,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 400 (1872)",,Q55760786,,,,urn:lsid:ipni.org:names:162826-1,wfo-0000406672,5580190,,
+4cddfea6-8fcc-11eb-924d-9cd76263cbd0,species,cordata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 401 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:300918-2,wfo-0000406668,5580203,,
+4cde4b4a-8fcc-11eb-924d-9cd76263cbd0,species,emarginata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 401 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:162823-1,wfo-0000406670,5580200,,
+c3047236-8fd1-11eb-924d-9cd76263cbd0,species,macrophylla,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 399 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:162824-1,wfo-0001259734,5580197,,
+4cde9564-8fcc-11eb-924d-9cd76263cbd0,species,obovata,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 399 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:162825-1,wfo-0000406671,5580193,,
+4cdec052-8fcc-11eb-924d-9cd76263cbd0,species,rugulosa,Thermophila,,Miers,0,1872,,"Trans. Linn. Soc. London 28: 400 (1872)",,Q55760786,Q6151611,,,urn:lsid:ipni.org:names:162826-1,wfo-0000406672,5580190,,

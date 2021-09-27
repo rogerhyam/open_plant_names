@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9a3da22c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Monodictys,,,"S. Hughes",,1958,,"Can. J. Bot. 36: 785 (1958)",,,,9a3da22c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,8979," "
 25a0105e-9bac-11eb-a8a2-19ed5c03f8d3,species,abuensis,Monodictys,,"(Chouhan & Panwar) V. Rao & de Hoog",,1986,,"Stud. Mycol. 28: 26 (1986)",,,,2a9f50b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,103579," "
-11385328-9bad-11eb-a8a2-19ed5c03f8d3,species,anaptychiae,Monodictys,,"(Lindau) D. Hawksw.",0,1975,,"Trans. Br. mycol. Soc. 65(2): 220 (1975)",,,,78d40036-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317846," "
+11385328-9bad-11eb-a8a2-19ed5c03f8d3,species,anaptychiae,Monodictys,,"(Lindau) D. Hawksw.",0,1975,,"Trans. Br. mycol. Soc. 65(2): 220 (1975)",,,Q29043669,78d40036-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317846," "
 2d33926e-9bac-11eb-a8a2-19ed5c03f8d3,species,antillani,Monodictys,,"R.F. Castañeda",,1985,,"Deuteromycotina de Cuba (La Habana), Hyphomycetes 3: 23 (1985)",,,,2d33926e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,114855," "
 fc82118a-9bac-11eb-a8a2-19ed5c03f8d3,species,antiqua,Monodictys,,"(Corda) S. Hughes",0,1958,,"Can. J. Bot. 36: 785 (1958)",,,,8b840d16-9bad-11eb-a8a2-19ed5c03f8d3,,,,,301281," "
 ab3789ae-9bac-11eb-a8a2-19ed5c03f8d3,variety,antiqua,Monodictys,antiqua,"(Corda) S. Hughes",0,1958,,"Can. J. Bot. 36: 785 (1958)",,,,ab3789ae-9bac-11eb-a8a2-19ed5c03f8d3,,,,,418208," "
@@ -43,7 +43,7 @@ fc62e3e2-9bab-11eb-a8a2-19ed5c03f8d3,species,oblongispora,Monodictys,,"G.Z. Zhao
 64f43d92-9bad-11eb-a8a2-19ed5c03f8d3,species,pandani,Monodictys,,Matsush.,,1985,,"Matsush. Mycol. Mem. 4: 12 (1985)",,,,64f43d92-9bad-11eb-a8a2-19ed5c03f8d3,,,,,105532," "
 fc85a0f2-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Monodictys,,"(Corda) S. Hughes",0,1958,,"Can. J. Bot. 36: 786 (1958)",,,,755c612a-9bab-11eb-a8a2-19ed5c03f8d3,,,,,301289," "
 3544baaa-9bac-11eb-a8a2-19ed5c03f8d3,species,parvispora,Monodictys,,"R.F. Castañeda & W.B. Kendr.",,1990,,"Univ. Waterloo Biol. Ser. 32: 30 (1990)",,,,3544baaa-9bac-11eb-a8a2-19ed5c03f8d3,,,,,127708," "
-1fd17d60-9bad-11eb-a8a2-19ed5c03f8d3,species,pelagica,Monodictys,,"(T. Johnson) E.B.G. Jones",,1963,,"Trans. Br. mycol. Soc. 46: 138 (1963)",,,,fe843828-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334444," "
+1fd17d60-9bad-11eb-a8a2-19ed5c03f8d3,species,pelagica,Monodictys,,"(T. Johnson) E.B.G. Jones",,1963,,"Trans. Br. mycol. Soc. 46: 138 (1963)",,,Q29043669,fe843828-9bac-11eb-a8a2-19ed5c03f8d3,,,,,334444," "
 350af18e-9bad-11eb-a8a2-19ed5c03f8d3,species,peruviana,Monodictys,,Matsush.,,1993,,"Matsush. Mycol. Mem. 7: 57 (1993)",,,,350af18e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,360889," "
 fc85dedc-9bac-11eb-a8a2-19ed5c03f8d3,species,putredinis,Monodictys,,"(Wallr.) S. Hughes",0,1958,,"Can. J. Bot. 36: 785 (1958)",,,,60299c0e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,301290," "
 67d1338a-9bad-11eb-a8a2-19ed5c03f8d3,species,qaidamensis,Monodictys,,"H.F. Wang & T.Y. Zhang",,2009,,"Mycosystema 28(1): 22 (2009)",,,,67d1338a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,512619," "
@@ -56,4 +56,4 @@ fc85dedc-9bac-11eb-a8a2-19ed5c03f8d3,species,putredinis,Monodictys,,"(Wallr.) S.
 16ad9ac6-9bac-11eb-a8a2-19ed5c03f8d3,species,torulosa,Monodictys,,"P.C. Misra & K.J. Srivast.",,1979,,"Biological Bulletin of India 1(3): 53 (1979)",,,,16ad9ac6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,108231," "
 6bc9f1da-9bac-11eb-a8a2-19ed5c03f8d3,species,transversa,Monodictys,,"G.Z. Zhao & T.Y. Zhang",,2007,,"Mycosystema 26(3): 331 (2007)",,,,6bc9f1da-9bac-11eb-a8a2-19ed5c03f8d3,,,,,532052," "
 5e853c18-9bad-11eb-a8a2-19ed5c03f8d3,species,trichocladiopsis,Monodictys,,"Goh & K.D. Hyde",,1999,,"Fungal Diversity 3: 79 (1999)",,,,5e853c18-9bad-11eb-a8a2-19ed5c03f8d3,,,,,459998," "
-113bcf80-9bad-11eb-a8a2-19ed5c03f8d3,species,ucrainica,Monodictys,,"(Kiril.) de Hoog & Grinb.",,1975,,"Trans. Br. mycol. Soc. 64(2): 343 (1975)",,,,26757428-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317856," "
+113bcf80-9bad-11eb-a8a2-19ed5c03f8d3,species,ucrainica,Monodictys,,"(Kiril.) de Hoog & Grinb.",,1975,,"Trans. Br. mycol. Soc. 64(2): 343 (1975)",,,Q29043669,26757428-9bad-11eb-a8a2-19ed5c03f8d3,,,,,317856," "

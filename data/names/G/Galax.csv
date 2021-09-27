@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e3db78f6-8fd1-11eb-924d-9cd76263cbd0,genus,Galax,,,Sims,0,1804,,"Bot. Mag. 20: t. 754 (1804)",,,Q2269599,,,urn:lsid:ipni.org:names:331619-2,wfo-4000015199,2882386,,
-fd025aca-8fcc-11eb-924d-9cd76263cbd0,species,aphylla,Galax,,L.,0,1753,,"Sp. Pl. 1: 200. 1753 [1 May 1753] , a Hydrophyllaceae",,,,,,urn:lsid:ipni.org:names:106782-2,wfo-0000693709,5333325,,
+fd025aca-8fcc-11eb-924d-9cd76263cbd0,species,aphylla,Galax,,L.,0,1753,,"Sp. Pl. 1: 200. 1753 [1 May 1753] , a Hydrophyllaceae",,,Q849308,,,urn:lsid:ipni.org:names:106782-2,wfo-0000693709,5333325,,
 fd029b16-8fcc-11eb-924d-9cd76263cbd0,species,cordifolia,Galax,,"(Vent.) W.T.Aiton",0,1811,,"Hortus Kew. 2: 37 (1811)",,,,04edca3a-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:316127-1,wfo-0000693710,5687564,,
 fd02c0b4-8fcc-11eb-924d-9cd76263cbd0,species,erythrorhiza,Galax,,Raf.,0,1840,,"Autik. Bot. 99. 1840",,,,,,urn:lsid:ipni.org:names:316128-1,wfo-0000693711,5687560,,
 fd02e45e-8fcc-11eb-924d-9cd76263cbd0,species,rotundifolia,Galax,,Pursh,0,1813,,"Fl. Amer. Sept. 2: 446 (1813)",,,,,,urn:lsid:ipni.org:names:316129-1,wfo-0000693712,5687557,,
@@ -26,7 +26,7 @@ fd03045c-8fcc-11eb-924d-9cd76263cbd0,species,urceolata,Galax,,"(Poir.) Brummitt"
 59054202-1d4d-11ec-82c2-f14daa6f2d93,species,monadelpha,Galaxia,,"L. ex B.D.Jacks.",,1912,,"Index Linn. Herb. 77 (1912), nomen.",,,,,,urn:lsid:ipni.org:names:437059-1,wfo-0001352509,,,
 2dd08ed8-8fcd-11eb-924d-9cd76263cbd0,species,mucronularis,Galaxia,,Salisb.,0,1812,,"Trans. Hort. Soc. London 1: 315 (1812)",,,,,,urn:lsid:ipni.org:names:437060-1,wfo-0000788884,2744432,,
 2dd0b610-8fcd-11eb-924d-9cd76263cbd0,species,multiflora,Galaxia,,Spreng.,0,1820,,"Neue Entdeck. Pflanzenk. 1: 251 (1820)",,,,,,urn:lsid:ipni.org:names:437061-1,wfo-0000788885,2744703,,
-2dd0d384-8fcd-11eb-924d-9cd76263cbd0,species,narcissoides,Galaxia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 582 (1800)",,,,2cc7cd1c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:437062-1,wfo-0000788886,2746757,,
+2dd0d384-8fcd-11eb-924d-9cd76263cbd0,species,narcissoides,Galaxia,,Willd.,0,1800,,"Sp. Pl., ed. 4 , 3: 582 (1800)",,,Q849308,2cc7cd1c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:437062-1,wfo-0000788886,2746757,,
 2dd0f7d8-8fcd-11eb-924d-9cd76263cbd0,species,obscura,Galaxia,,Cav.,0,1788,,"Diss. 6: 341 (1788)",,,,,,urn:lsid:ipni.org:names:106784-2,wfo-0000788887,2746657,,
 590569d0-1d4d-11ec-82c2-f14daa6f2d93,species,obtusa,Galaxia,,Salisb.,,1812,,"Trans. Hort. Soc. London i. (1812) 315.",,,,,,urn:lsid:ipni.org:names:437064-1,wfo-0001352510,,,
 2dd126f4-8fcd-11eb-924d-9cd76263cbd0,species,ovata,Galaxia,,Thunb.,0,1782,,"Nov. Gen. Pl. : 51 (1782)",,,,,,urn:lsid:ipni.org:names:437065-1,wfo-0000788888,2744705,,

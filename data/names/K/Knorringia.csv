@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e5659ee0-8fd1-11eb-924d-9cd76263cbd0,genus,Knorringia,,,"(Czukav.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,,,,urn:lsid:ipni.org:names:925350-1,wfo-4000020096,,,
-c9bbdd3a-8fd1-11eb-924d-9cd76263cbd0,species,pamirica,Knorringia,,"(Korsh.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,,c9048fcc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:944918-1,wfo-0001272133,4034870,,
-bba037a0-8fd1-11eb-924d-9cd76263cbd0,species,sibirica,Knorringia,,"(Laxm.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,,,,urn:lsid:ipni.org:names:944917-1,wfo-0001245928,7547484,,
+e5659ee0-8fd1-11eb-924d-9cd76263cbd0,genus,Knorringia,,,"(Czukav.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,Q5655751,,,urn:lsid:ipni.org:names:925350-1,wfo-4000020096,,,
+c9bbdd3a-8fd1-11eb-924d-9cd76263cbd0,species,pamirica,Knorringia,,"(Korsh.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,Q5655751,c9048fcc-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:944918-1,wfo-0001272133,4034870,,
+bba037a0-8fd1-11eb-924d-9cd76263cbd0,species,sibirica,Knorringia,,"(Laxm.) Tzvelev",0,1987,,"Novosti Sist. Vyssh. Rast. 24: 76 (1987)",,,Q5655751,,,urn:lsid:ipni.org:names:944917-1,wfo-0001245928,7547484,,
 ce37ce28-8fd1-11eb-924d-9cd76263cbd0,species,sibirica,Knorringia,,"(Laxm.) S.P.Hong",0,1989,,"Nordic J. Bot. 9: 354 1989",,,,,,,wfo-0001280180,7291516,,
 2d30dc72-1d4d-11ec-82c2-f14daa6f2d93,subspecies,sibirica,Knorringia,sibirica,,,,,,,,,,,,wfo-0001280181,,,
 bba0911e-8fd1-11eb-924d-9cd76263cbd0,subspecies,thomsonii,Knorringia,sibirica,"(Meisn.) S.P.Hong",0,1989,,"Nordic J. Bot. 9: 354 (1989 publ. 1990)",,Q55761421,,,,urn:lsid:ipni.org:names:956047-1,wfo-0001245931,4034831,,

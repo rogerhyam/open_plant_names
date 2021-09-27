@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e4702424-8fd1-11eb-924d-9cd76263cbd0,genus,Harrisonia,,,"R.Br. ex A.Juss.",0,1825,,"Mém. Mus. Hist. Nat. 12: 517 (1825)",,,,,,urn:lsid:ipni.org:names:331645-2,wfo-4000016976,3232974,,
 09feea22-8fcd-11eb-924d-9cd76263cbd0,species,abyssinica,Harrisonia,,Oliv.,0,1868,,"Fl. Trop. Afr. 1: 311 (1868)",,,Q3700392,,,urn:lsid:ipni.org:names:813729-1,wfo-0000715900,3709029,,
-eb75142c-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Harrisonia,,C.H.Wright,0,1894,,"Trans. Linn. Soc. London, Bot. 4: 258 1894",,,,,,,wfo-0001174476,8207719,,
+eb75142c-8fcd-11eb-924d-9cd76263cbd0,species,alpina,Harrisonia,,C.H.Wright,0,1894,,"Trans. Linn. Soc. London, Bot. 4: 258 1894",,,Q6151611,,,,wfo-0001174476,8207719,,
 eb753150-8fcd-11eb-924d-9cd76263cbd0,species,apiculata,Harrisonia,,"Renauld & Cardot",0,1894,,"Bull. Soc. Roy. Bot. Belgique 32(1): 174 1894",,,Q5735479,,,,wfo-0001174477,8399211,,
 eb754f64-8fcd-11eb-924d-9cd76263cbd0,species,appendiculatum,Harrisonia,,Müll.Hal.,0,1897,,"Oesterr. Bot. Z. 47: 396 1897",,,,,,,wfo-0001174478,,,
 eb756cec-8fcd-11eb-924d-9cd76263cbd0,species,aquatica,Harrisonia,,"(Hedw.) Spreng.",0,1827,,"Syst. Veg. 4(1): 145 1827",,,Q58829765,,,,wfo-0001174479,7620704,,
@@ -40,7 +40,7 @@ eb788a76-8fcd-11eb-924d-9cd76263cbd0,species,orbiculata,Harrisonia,,"(Mitt.) A.J
 eb78ac40-8fcd-11eb-924d-9cd76263cbd0,species,pallidipila,Harrisonia,,Müll.Hal.,0,1897,,"Oesterr. Bot. Z. 47: 393 1897",,,,,,,wfo-0001174504,7912104,,
 09ffef76-8fcd-11eb-924d-9cd76263cbd0,species,pauciflora,Harrisonia,,Oliv.,0,1868,,"Fl. Trop. Afr. 1: 312 (1868)",,,Q3700392,,,urn:lsid:ipni.org:names:813737-1,wfo-0000715908,8242762,,
 eb78e1ba-8fcd-11eb-924d-9cd76263cbd0,species,penniformis,Harrisonia,,Müll.Hal.,0,1897,,"Oesterr. Bot. Z. 47: 389 1897",,,,,,,wfo-0001174505,7741314,,
-0a0060aa-8fcd-11eb-924d-9cd76263cbd0,species,perforata,Harrisonia,,"(Blanco) Merr.",0,1912,,"Philipp. J. Sci., C 7: 236 (1912)",,,,,,urn:lsid:ipni.org:names:813738-1,wfo-0000715911,3708966,,
+0a0060aa-8fcd-11eb-924d-9cd76263cbd0,species,perforata,Harrisonia,,"(Blanco) Merr.",0,1912,,"Philipp. J. Sci., C 7: 236 (1912)",,,Q6074313,,,urn:lsid:ipni.org:names:813738-1,wfo-0000715911,3708966,,
 eb7915f4-8fcd-11eb-924d-9cd76263cbd0,species,purpurascens,Harrisonia,,"(Brid.) Müll.Hal.",0,1897,,"Oesterr. Bot. Z. 47: 392 1897",,,,,,,wfo-0001174506,8387809,,
 eb793f8e-8fcd-11eb-924d-9cd76263cbd0,species,rehmanniana,Harrisonia,,Müll.Hal.,0,1897,,"Oesterr. Bot. Z. 47: 391 1897",,,,,,,wfo-0001174507,7434112,,
 eb796bda-8fcd-11eb-924d-9cd76263cbd0,species,rhabdocarpa,Harrisonia,,Hampe,0,1863,,"Linnaea 32: 148 1863",,,Q5976761,,,,wfo-0001174508,7887321,,

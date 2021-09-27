@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-e16d8e74-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratophyllum,,,L.,0,1753,,"Sp. Pl. : 992 (1753)",,,,e16d8e74-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:330840-2,wfo-4000007373,2882396,893," "
+e16d8e74-8fd1-11eb-924d-9cd76263cbd0,genus,Ceratophyllum,,,L.,0,1753,,"Sp. Pl. : 992 (1753)",,,Q849308,e16d8e74-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:330840-2,wfo-4000007373,2882396,893," "
 d8a58cd8-8fd1-11eb-924d-9cd76263cbd0,species,affine,Ceratophyllum,,Z.F.Troitzk.,,,,,,,,,,,wfo-0001292813,8119735,,
 41cda114-8fcd-11eb-924d-9cd76263cbd0,species,apiculatum,Ceratophyllum,,Cham.,0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:330846-2,wfo-0000831696,5333330,,
 41ced53e-8fcd-11eb-924d-9cd76263cbd0,species,aquaticum,Ceratophyllum,,H.C.Watson,0,1873,,"Topogr. Bot. 1: 165 (1873)",,,,,,urn:lsid:ipni.org:names:163055-1,wfo-0000831707,5572819,,
@@ -11,7 +11,7 @@ d8a58cd8-8fd1-11eb-924d-9cd76263cbd0,species,affine,Ceratophyllum,,Z.F.Troitzk.,
 d8a56f6e-8fd1-11eb-924d-9cd76263cbd0,species,cornutum,Ceratophyllum,,"Rich. ex S.F.Gray",0,1821,,"Nat. Arr. Brit. Pl. 2: 555 1821",,,,,,,wfo-0001292812,7537230,,
 41d4fc98-8fcd-11eb-924d-9cd76263cbd0,species,cristatum,Ceratophyllum,,"Spruce ex K.Schum.",0,1894,,"Fl. Bras. (Martius) 3(3): 748. 1894 [15 Apr 1894]",,,Q5460282,,,urn:lsid:ipni.org:names:163061-1,wfo-0000831763,5572849,,
 41d6359a-8fcd-11eb-924d-9cd76263cbd0,species,cristatum,Ceratophyllum,,"Guill. & Perr.",0,1832,,"Fl. Seneg. Tent. : 295 (1832)",,,,,,urn:lsid:ipni.org:names:163060-1,wfo-0000831774,8301230,,
-41d7ce00-8fcd-11eb-924d-9cd76263cbd0,species,demersum,Ceratophyllum,,L.,0,1753,,"Sp. Pl. 2: 992. 1753 [1 May 1753]",,,,41d7ce00-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:330841-2,wfo-0000831785,2882398,454241," "
+41d7ce00-8fcd-11eb-924d-9cd76263cbd0,species,demersum,Ceratophyllum,,L.,0,1753,,"Sp. Pl. 2: 992. 1753 [1 May 1753]",,,Q849308,41d7ce00-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:330841-2,wfo-0000831785,2882398,454241," "
 41d90928-8fcd-11eb-924d-9cd76263cbd0,variety,apiculatum,Ceratophyllum,demersum,"(Cham.) Asch.",0,1860,,"Fl. Brandenburg 1: 219 (1860)",,,,41cda114-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:60445041-2,wfo-0000831796,7909269,,
 6d047246-1d4d-11ec-82c2-f14daa6f2d93,variety,commune,Ceratophyllum,demersum,A.Gray,,1856,,"Manual , ed. 2: 383 (1856)",,,,,,urn:lsid:ipni.org:names:52522-2,wfo-0001380156,,,
 41da3654-8fcd-11eb-924d-9cd76263cbd0,variety,cristatum,Ceratophyllum,demersum,K.Schum.,0,1894,,"Fl. Bras. 3(3): 748 (1894)",,,Q5460282,,,urn:lsid:ipni.org:names:52523-2,wfo-0000831807,5572829,,
@@ -29,14 +29,14 @@ b773013a-8fd1-11eb-924d-9cd76263cbd0,subspecies,muricatum,Ceratophyllum,demersum
 41e7d6ec-8fcd-11eb-924d-9cd76263cbd0,form,papillosum,Ceratophyllum,demersum,Wilmot-Dear,0,1985,,"Kew Bull. 40: 261 (1985)",,Q55779061,,,,urn:lsid:ipni.org:names:918869-1,wfo-0000831927,5572833,,
 41e90c38-8fcd-11eb-924d-9cd76263cbd0,variety,pentacanthum,Ceratophyllum,demersum,"(Haynald) K.Schum.",0,1894,,"Fl. Bras. 3(3): 750 1894",,,Q5460282,420a17a2-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000831938,7687124,,
 41e9da46-8fcd-11eb-924d-9cd76263cbd0,variety,pentacorne,Ceratophyllum,demersum,Kitag.,0,1936,,"Rep. Exped. Manchoukou Sect. IV 4: 80 1936",,,,,,,wfo-0000831945,7880593,,
-41ea9d78-8fcd-11eb-924d-9cd76263cbd0,subspecies,platyacanthum,Ceratophyllum,demersum,"(Cham.) Nyman",0,1879,,"Consp. Fl. Eur. 251 1879",,,,420b3524-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000831952,7502163,,
+41ea9d78-8fcd-11eb-924d-9cd76263cbd0,subspecies,platyacanthum,Ceratophyllum,demersum,"(Cham.) Nyman",0,1879,,"Consp. Fl. Eur. 251 1879",,,Q5784347,420b3524-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000831952,7502163,,
 41ebac18-8fcd-11eb-924d-9cd76263cbd0,variety,platyacanthum,Ceratophyllum,demersum,"(Cham.) Wimm.",0,1857,,"Fl. Schles. ed. 3: 169 1857",,,,420b3524-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000831962,8007187,,
 41ed077a-8fcd-11eb-924d-9cd76263cbd0,variety,quadrispinum,Ceratophyllum,demersum,Makino,0,1917,,"J. Jap. Bot. 1(6): 21 1917",,,,,,,wfo-0000831974,7381178,,
 6ca5b502-8fcd-11eb-924d-9cd76263cbd0,form,quadrispinum,Ceratophyllum,demersum,"(Makino) Kitag.",0,1965,,"J. Jap. Bot. 40: 139 1965",,,,41ed077a-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000909254,7381178,,
 41ee6386-8fcd-11eb-924d-9cd76263cbd0,variety,tricorne,Ceratophyllum,demersum,"Van Haes.",0,1841,,"Ann. Soc. Méd. Anvers 1841: 394 1841",,,,,,,wfo-0000831985,7760547,,
 41eff818-8fcd-11eb-924d-9cd76263cbd0,species,echinatum,Ceratophyllum,,A.Gray,0,1848,,"Manual : 401 (1848)",,,,,,urn:lsid:ipni.org:names:52526-2,wfo-0000831996,5333331,,
 41f10366-8fcd-11eb-924d-9cd76263cbd0,species,floridanum,Ceratophyllum,,Fassett,0,1953,,"in Com. Inst. Trop. Invest. Cient. ii. 29 (1953); cf. Gray Herb. Card Cat.",,,,,,urn:lsid:ipni.org:names:163066-1,wfo-0000832005,5572858,,
-41f1f118-8fcd-11eb-924d-9cd76263cbd0,species,gibbum,Ceratophyllum,,"Laforet ex Nyman",0,1879,,"Consp. Fl. Eur. : 251 (1879)",,,,,,urn:lsid:ipni.org:names:163067-1,wfo-0000832013,5572850,,
+41f1f118-8fcd-11eb-924d-9cd76263cbd0,species,gibbum,Ceratophyllum,,"Laforet ex Nyman",0,1879,,"Consp. Fl. Eur. : 251 (1879)",,,Q5784347,,,urn:lsid:ipni.org:names:163067-1,wfo-0000832013,5572850,,
 41f32042-8fcd-11eb-924d-9cd76263cbd0,species,granulosum,Ceratophyllum,,Schur,0,1866,,"Enum. Pl. Transsilv. : 218 (1866)",,,,,,urn:lsid:ipni.org:names:163068-1,wfo-0000832024,5572837,,
 41f3e40a-8fcd-11eb-924d-9cd76263cbd0,species,haynaldianum,Ceratophyllum,,Borbás,0,1884,,"Magyar Növényt. Lapok 8: 20 (1884)",,,,,,urn:lsid:ipni.org:names:163069-1,wfo-0000832031,5572827,,
 41f4dd9c-8fcd-11eb-924d-9cd76263cbd0,species,indicum,Ceratophyllum,,"Willd. ex Cham.",0,1829,,"Linnaea 4: 504 (1829)",,,Q5976761,,,urn:lsid:ipni.org:names:163070-1,wfo-0000832040,5572816,,
@@ -70,9 +70,9 @@ fb8f7dcc-9bab-11eb-a8a2-19ed5c03f8d3,species,physodes,Ceratophyllum,,"(L.) M. Ch
 420d6c90-8fcd-11eb-924d-9cd76263cbd0,variety,pentacanthum,Ceratophyllum,platyacanthum,"(Haynald) Tzvelev",0,2001,,"Fl. Vostochno? Evropy 10: 32 (2001)",,,,420a17a2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:20002543-1,wfo-0000832255,5572822,,
 2563917c-1d4a-11ec-82c2-f14daa6f2d93,subspecies,platyacanthum,Ceratophyllum,platyacanthum,,,,,Unknown,,,,,,,wfo-0000832266,,,
 420fdf5c-8fcd-11eb-924d-9cd76263cbd0,species,polyacanthum,Ceratophyllum,,Schur,0,1866,,"Enum. Pl. Transsilv. : 218 (1866)",,,,,,urn:lsid:ipni.org:names:163087-1,wfo-0000832277,5572871,,
-421118c2-8fcd-11eb-924d-9cd76263cbd0,species,submersum,Ceratophyllum,,L.,0,1763,,"Sp. Pl. ed. 2 : 1409 (1763)",,,,421118c2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:163088-1,wfo-0000832288,2882404,454242," "
+421118c2-8fcd-11eb-924d-9cd76263cbd0,species,submersum,Ceratophyllum,,L.,0,1763,,"Sp. Pl. ed. 2 : 1409 (1763)",,,Q849308,421118c2-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:163088-1,wfo-0000832288,2882404,454242," "
 42121902-8fcd-11eb-924d-9cd76263cbd0,variety,echinatum,Ceratophyllum,submersum,"(A.Gray) Wilmot-Dear",0,1985,,"Kew Bull. 40: 266 (1985)",,Q55779061,,41eff818-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:924145-1,wfo-0000832297,5333332,,
-3475eeae-8fcd-11eb-924d-9cd76263cbd0,variety,granulosum,Ceratophyllum,submersum,"(Schur) Nyman",0,1879,,"Consp. Fl. Eur. 251 1879",,,,41f32042-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000803256,8283028,,
+3475eeae-8fcd-11eb-924d-9cd76263cbd0,variety,granulosum,Ceratophyllum,submersum,"(Schur) Nyman",0,1879,,"Consp. Fl. Eur. 251 1879",,,Q5784347,41f32042-8fcd-11eb-924d-9cd76263cbd0,,,wfo-0000803256,8283028,,
 421353d0-8fcd-11eb-924d-9cd76263cbd0,variety,haynaldianum,Ceratophyllum,submersum,"(Borbás) Wilmot-Dear",0,1985,,"Kew Bull. 40: 266 (1985)",,Q55779061,,,,urn:lsid:ipni.org:names:924146-1,wfo-0000832308,5572835,,
 4214f870-8fcd-11eb-924d-9cd76263cbd0,variety,inerme,Ceratophyllum,submersum,"Van Haes.",0,1841,,"Ann. Soc. Méd. Anvers 1841: 394 1841",,,,,,,wfo-0000832319,8082838,,
 42161caa-8fcd-11eb-924d-9cd76263cbd0,variety,manschuricum,Ceratophyllum,submersum,Miki,0,1935,,"Bot. Mag. (Tokyo) 49: 778 1935",,,Q2269599,,,,wfo-0000832329,7911796,,

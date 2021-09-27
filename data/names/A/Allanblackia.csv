@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-df17ff56-8fd1-11eb-924d-9cd76263cbd0,genus,Allanblackia,,,Oliv.,0,1867,,"J. Linn. Soc., Bot. 10: 42 (1867)",,,,,,urn:lsid:ipni.org:names:19299-1,wfo-4000001229,7330155,,
-9899e490-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Allanblackia,,Oliv.,0,1869,,"J. Linn. Soc., Bot. 10: 43 (1867)",,Q55758838,,,,urn:lsid:ipni.org:names:427040-1,wfo-0000525979,3713174,,
+df17ff56-8fd1-11eb-924d-9cd76263cbd0,genus,Allanblackia,,,Oliv.,0,1867,,"J. Linn. Soc., Bot. 10: 42 (1867)",,,Q5946734,,,urn:lsid:ipni.org:names:19299-1,wfo-4000001229,7330155,,
+9899e490-8fcc-11eb-924d-9cd76263cbd0,species,floribunda,Allanblackia,,Oliv.,0,1869,,"J. Linn. Soc., Bot. 10: 43 (1867)",,Q55758838,Q5946734,,,urn:lsid:ipni.org:names:427040-1,wfo-0000525979,3713174,,
 989a1d3e-8fcc-11eb-924d-9cd76263cbd0,variety,gabonensis,Allanblackia,floribunda,Pellegr.,0,1959,,"Bull. Soc. Bot. France 106: 222 1959",,,Q5735483,,,,wfo-0000525981,8011069,,
 989a3a9e-8fcc-11eb-924d-9cd76263cbd0,variety,kisonghi,Allanblackia,floribunda,"(Verm.) Pieraets",0,1930,,"Bull. Inst. Roy. Congo Belg. 1: 447 1930",,,,,,,wfo-0000525982,7458331,,
 989a538a-8fcc-11eb-924d-9cd76263cbd0,species,gabonensis,Allanblackia,,"(Pellegr.) Bamps",0,1969,,"Bull. Jard. Bot. Natl. Belg. 39: 356 (1969)",,Q55776058,Q5735512,,,urn:lsid:ipni.org:names:427041-1,wfo-0000525983,3713168,,
@@ -12,6 +12,6 @@ df17ff56-8fd1-11eb-924d-9cd76263cbd0,genus,Allanblackia,,,Oliv.,0,1867,,"J. Linn
 989b3e8a-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Allanblackia,,A.Chev.,0,1909,,"Vég. Ut. Afr. Trop. Franç. 5: 163 (1909)",,,,,,urn:lsid:ipni.org:names:427047-1,wfo-0000525989,3713136,,
 989b600e-8fcc-11eb-924d-9cd76263cbd0,species,sacleuxii,Allanblackia,,Hua,0,1897,,"Bull. Mus. Hist. Nat. (Paris) 2: 155 (1897)",,,,,,urn:lsid:ipni.org:names:427048-1,wfo-0000525990,3713131,,
 989ba49c-8fcc-11eb-924d-9cd76263cbd0,species,staneriana,Allanblackia,,"Exell & Mendonça",0,1936,,"J. Bot. 74(Suppl.): 20 (1936)",,,,,,urn:lsid:ipni.org:names:427049-1,wfo-0000525992,3713128,,
-989bc0bc-8fcc-11eb-924d-9cd76263cbd0,species,stuhlmannii,Allanblackia,,Engl.,0,1897,,"Nat. Pflanzenfam. , Nachtr. 1: 249 (1897)",,,,,,urn:lsid:ipni.org:names:427050-1,wfo-0000525993,3713122,,
+989bc0bc-8fcc-11eb-924d-9cd76263cbd0,species,stuhlmannii,Allanblackia,,Engl.,0,1897,,"Nat. Pflanzenfam. , Nachtr. 1: 249 (1897)",,,Q14931236,,,urn:lsid:ipni.org:names:427050-1,wfo-0000525993,3713122,,
 989bdf70-8fcc-11eb-924d-9cd76263cbd0,species,ulugurensis,Allanblackia,,Engl.,0,1900,,"Bot. Jahrb. Syst. 28: 435 (1900)",,,Q5732642,,,urn:lsid:ipni.org:names:427051-1,wfo-0000525994,3713115,,
 3a35af5a-8fc3-11eb-924d-9cd76263cbd0,species,insignis,Allania,,Benth.,0,1840,,"J. Bot. (Hooker) 2: 91 (1840)",,,,,,urn:lsid:ipni.org:names:473481-1,wfo-0000181717,2982868,,

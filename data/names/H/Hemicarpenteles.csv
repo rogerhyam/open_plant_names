@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-a10d5bce-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hemicarpenteles,,,"A.K. Sarbhoy & Elphick",,1968,,"Trans. Br. mycol. Soc. 51(1): 155 (1968)",,,,a10d5bce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2279," "
+a10d5bce-9bad-11eb-a8a2-19ed5c03f8d3,genus,Hemicarpenteles,,,"A.K. Sarbhoy & Elphick",,1968,,"Trans. Br. mycol. Soc. 51(1): 155 (1968)",,,Q29043669,a10d5bce-9bad-11eb-a8a2-19ed5c03f8d3,,,,,2279," "
 0f02cf8e-9bad-11eb-a8a2-19ed5c03f8d3,species,acanthosporum,Hemicarpenteles,,"Udagawa & Takada",,1971,,"Bull. natn. Sci. Mus., Tokyo 14(3): 503 (1971)",,,,0f02cf8e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,315093," acanthosporus"
 da3b3ab6-9bac-11eb-a8a2-19ed5c03f8d3,species,acanthosporus,Hemicarpenteles,,"Udagawa & Takada",,,,,,,,da3b3ab6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265226," Hemicarpenteles acanthosporum"
 da2dd2d6-9bac-11eb-a8a2-19ed5c03f8d3,species,ornata,Hemicarpenteles,,"(Subram.) Arx",0,,,,,,,15b0c70a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,265227," Hemicarpenteles ornatum"
 0f02f9dc-9bad-11eb-a8a2-19ed5c03f8d3,species,ornatum,Hemicarpenteles,,"(Subram.) Arx",0,1974,,"Gen. Fungi Sporul. Cult. (Vaduz), Edn 2 94 (1974)",,,,15b0c70a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,315094," ornata"
-9c0dd66c-9bad-11eb-a8a2-19ed5c03f8d3,species,paradoxum,Hemicarpenteles,,"A.K. Sarbhoy & Elphick",,1968,,"Trans. Br. mycol. Soc. 51(1): 156 (1968)",,,,9c0dd66c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331850," paradoxus"
+9c0dd66c-9bad-11eb-a8a2-19ed5c03f8d3,species,paradoxum,Hemicarpenteles,,"A.K. Sarbhoy & Elphick",,1968,,"Trans. Br. mycol. Soc. 51(1): 156 (1968)",,,Q29043669,9c0dd66c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,331850," paradoxus"
 da3bda5c-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxus,Hemicarpenteles,,"A.K. Sarbhoy & Elphick",,,,,,,,da3bda5c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,265229," Hemicarpenteles paradoxum"
 0f0408a4-9bad-11eb-a8a2-19ed5c03f8d3,species,thaxteri,Hemicarpenteles,,"(Subram.) Arx",0,1974,,"Gen. Fungi Sporul. Cult. (Vaduz), Edn 2 94 (1974)",,,,15b0f9f0-9bad-11eb-a8a2-19ed5c03f8d3,,,,,315095," "
 660d5462-8fcc-11eb-924d-9cd76263cbd0,species,aristulata,Hemicarpha,,A.Nelson,0,1902,,"Bull. Torrey Bot. Club 29: 400 (1902)",,,Q13548538,6615523e-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:308780-1,wfo-0000439982,2711746,,
@@ -15,13 +15,13 @@ d3fbcad0-8fcc-11eb-924d-9cd76263cbd0,species,caespitula,Hemicarpha,,"(Liebm.) Pa
 66115242-8fcc-11eb-924d-9cd76263cbd0,species,intermedia,Hemicarpha,,"Piper in Piper & Beattie",0,1901,,"Fl. Palouse Reg. : 36 (1901)",,,,,,urn:lsid:ipni.org:names:120037-2,wfo-0000440008,2711748,,
 6612db30-8fcc-11eb-924d-9cd76263cbd0,species,isolepis,Hemicarpha,,"Nees ex Arn.",0,1834,,"in Edinb. N. Phil. Journ. xvii. (1834) 263.",,,,,,urn:lsid:ipni.org:names:308784-1,wfo-0000440018,2711744,,
 6613e2fa-8fcc-11eb-924d-9cd76263cbd0,species,micrantha,Hemicarpha,,Britton,0,1894,,"Bull. Torrey Bot. Club 21(1): 35. 1894 [25 Jan 1894]",,Q55766564,Q13548538,,,urn:lsid:ipni.org:names:308785-1,wfo-0000440027,7854901,,
-ddbe2e82-8fd1-11eb-924d-9cd76263cbd0,species,micrantha,Hemicarpha,,"(Vahl) Pax",0,1888,,"Nat. Pflanzenfam. [Engler & Prantl] 2(abt. 2, lief. 15): 105, fig. 113F. 1888 [Jan 1888]",,,,,,urn:lsid:ipni.org:names:120038-2,wfo-0001301732,7875967,,
+ddbe2e82-8fd1-11eb-924d-9cd76263cbd0,species,micrantha,Hemicarpha,,"(Vahl) Pax",0,1888,,"Nat. Pflanzenfam. [Engler & Prantl] 2(abt. 2, lief. 15): 105, fig. 113F. 1888 [Jan 1888]",,,Q14931236,,,urn:lsid:ipni.org:names:120038-2,wfo-0001301732,7875967,,
 6615523e-8fcc-11eb-924d-9cd76263cbd0,variety,aristulata,Hemicarpha,micrantha,Coville,0,1894,,"Bull. Torrey Bot. Club 21: 36 (1894)",,Q55766564,Q13548538,,,urn:lsid:ipni.org:names:120039-2,wfo-0000440036,2711747,,
 6616c13c-8fcc-11eb-924d-9cd76263cbd0,variety,drummondii,Hemicarpha,micrantha,"(Nees) Friedl.",0,1941,,"Amer. J. Bot. 28: 860 (1941)",,,,66105cf2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:120040-2,wfo-0000440044,2711840,,
 30fa2dc6-8fcd-11eb-924d-9cd76263cbd0,variety,humboldtii,Hemicarpha,micrantha,"(Boeckeler) Beetle",0,1949,,"Amer. Midl. Naturalist 41: 476 (1949)",,Q55765692,,32d65fd4-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:120041-2,wfo-0000795925,2711832,,
 30fa4cde-8fcd-11eb-924d-9cd76263cbd0,variety,minor,Hemicarpha,micrantha,"(Schrad.) Friedl.",0,1942,,"Amer. J. Bot. 28: 860 (1942)",,,,,,urn:lsid:ipni.org:names:120042-2,wfo-0000795926,8671425,,
 66186b2c-8fcc-11eb-924d-9cd76263cbd0,species,nuda,Hemicarpha,,Boeckeler,0,1858,,"Flora 12: 604 (1858)",,,Q5862699,,,urn:lsid:ipni.org:names:308786-1,wfo-0000440052,2716966,,
-6618f272-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Hemicarpha,,A.Gray,0,1868,,"Proc. Amer. Acad. Arts 7: 391 (1868)",,,,,,urn:lsid:ipni.org:names:278102-2,wfo-0000440057,2711729,,
+6618f272-8fcc-11eb-924d-9cd76263cbd0,species,occidentalis,Hemicarpha,,A.Gray,0,1868,,"Proc. Amer. Acad. Arts 7: 391 (1868)",,,Q6087076,,,urn:lsid:ipni.org:names:278102-2,wfo-0000440057,2711729,,
 6619bafe-8fcc-11eb-924d-9cd76263cbd0,species,schomburgkii,Hemicarpha,,Friedl.,0,1941,,"Amer. J. Bot. 28: 858 (1941)",,,,,,urn:lsid:ipni.org:names:278103-2,wfo-0000440064,2711834,,
 661b6502-8fcc-11eb-924d-9cd76263cbd0,species,schraderi,Hemicarpha,,Kunth,0,1837,,"Enum. Pl. 2: 268 (1837)",,,,,,urn:lsid:ipni.org:names:308789-1,wfo-0000440075,2711736,,
 ddff5cea-8fd1-11eb-924d-9cd76263cbd0,species,schraderiana,Hemicarpha,,Nees,0,1842,,"Fl. Bras. 2(1): 62 1842",,,Q5460282,,,,wfo-0001302212,7348401,,

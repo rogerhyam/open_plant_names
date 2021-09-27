@@ -1,5 +1,5 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-9ce8628c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leucopaxillus,,,Boursier,,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,,9ce8628c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17969," "
+9ce8628c-9bad-11eb-a8a2-19ed5c03f8d3,genus,Leucopaxillus,,,Boursier,,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,Q27720934,9ce8628c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,17969," "
 f47b29fe-9bac-11eb-a8a2-19ed5c03f8d3,species,albissimus,Leucopaxillus,,"(Peck) Singer",0,,,,,,,006e1992-9bad-11eb-a8a2-19ed5c03f8d3,,,,,299738," "
 2ac55fa2-9bad-11eb-a8a2-19ed5c03f8d3,form,albiformis,Leucopaxillus,albissimus,"(Murrill) Singer & A.H. Sm.",0,1943,,"Pap. Mich. Acad. Sci. 28: 113 (1943)",,,,94ef8d7c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,346226," "
 b8af6066-9bac-11eb-a8a2-19ed5c03f8d3,variety,albissimus,Leucopaxillus,albissimus,"(Peck) Singer",0,,,,,,,b8af6066-9bac-11eb-a8a2-19ed5c03f8d3,,,,,428983," "
@@ -75,8 +75,8 @@ eb9d8174-9bac-11eb-a8a2-19ed5c03f8d3,species,nauseosodulcis,Leucopaxillus,,"(P. 
 1ed6fdd6-9bad-11eb-a8a2-19ed5c03f8d3,species,otagoensis,Leucopaxillus,,"G. Stev.",,1964,,"Kew Bull. 19(1): 19 (1964)",,,,1ed6fdd6-9bad-11eb-a8a2-19ed5c03f8d3,,,,,333339," "
 7327b90c-9bad-11eb-a8a2-19ed5c03f8d3,species,pannonicus,Leucopaxillus,,"(Bohus) Consiglio & Contu",,2001,invalid,"Bollettino dell'Associazione Micologica ed Ecologica Romana 16(no. 51): 30 (2001)",,,,267e2bf4-9bad-11eb-a8a2-19ed5c03f8d3,,,,,485012,"Nom. inval., Art. 33.3 "
 953bd708-9bad-11eb-a8a2-19ed5c03f8d3,species,paradoxa,Leucopaxillus,,"(Costantin & L.M. Dufour) Boursier",0,,,,,,,673df21e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,269008," Leucopaxillus paradoxus"
-e0ac26a8-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxus,Leucopaxillus,,"(Costantin & L.M. Dufour) Boursier",0,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,,673df21e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,273556," paradoxa"
-b03b4922-9bac-11eb-a8a2-19ed5c03f8d3,form,paradoxus,Leucopaxillus,paradoxus,"(Costantin & L.M. Dufour) Boursier",0,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,,b03b4922-9bac-11eb-a8a2-19ed5c03f8d3,,,,,418119," "
+e0ac26a8-9bac-11eb-a8a2-19ed5c03f8d3,species,paradoxus,Leucopaxillus,,"(Costantin & L.M. Dufour) Boursier",0,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,Q27720934,673df21e-9bad-11eb-a8a2-19ed5c03f8d3,,,,,273556," paradoxa"
+b03b4922-9bac-11eb-a8a2-19ed5c03f8d3,form,paradoxus,Leucopaxillus,paradoxus,"(Costantin & L.M. Dufour) Boursier",0,1925,,"Bull. trimest. Soc. mycol. Fr. 41: 393 (1925)",,,Q27720934,b03b4922-9bac-11eb-a8a2-19ed5c03f8d3,,,,,418119," "
 2fce58b0-9bac-11eb-a8a2-19ed5c03f8d3,form,subaerugineus,Leucopaxillus,paradoxus,Bohus,,1979,,"Stud. Bot. Hungar. 13: 22 (1979)",,,,2fce58b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,118234," "
 f47ce9b0-9bac-11eb-a8a2-19ed5c03f8d3,species,patagonicus,Leucopaxillus,,Singer,,1954,,"Sydowia 8(1-6): 111 (1954)",,,Q15816855,f47ce9b0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,299745," "
 f7c73c52-9bab-11eb-a8a2-19ed5c03f8d3,species,peronatus,Leucopaxillus,,Corner,0,1994,,"Nova Hedwigia, Beih. 109: 28 (1994)",,,,f7c73c52-9bab-11eb-a8a2-19ed5c03f8d3,,,,,362953," "

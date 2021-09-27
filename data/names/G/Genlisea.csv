@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e3f41bae-8fd1-11eb-924d-9cd76263cbd0,genus,Genlisea,,,A.St.-Hil.,0,1833,,"Voy. Distr. Diam. 2: 428 (1883)",,,,,,urn:lsid:ipni.org:names:23899-1,wfo-4000015495,7297832,,
-feb8453c-8fcc-11eb-924d-9cd76263cbd0,species,africana,Genlisea,,Oliv.,0,1867,,"J. Linn. Soc., Bot. 9: 145 (1865)",,Q55758823,,,,urn:lsid:ipni.org:names:526337-1,wfo-0000696716,7297841,,
+feb8453c-8fcc-11eb-924d-9cd76263cbd0,species,africana,Genlisea,,Oliv.,0,1867,,"J. Linn. Soc., Bot. 9: 145 (1865)",,Q55758823,Q5946734,,,urn:lsid:ipni.org:names:526337-1,wfo-0000696716,7297841,,
 40d720c4-1d4d-11ec-82c2-f14daa6f2d93,subspecies,africana,Genlisea,africana,NULL,,,,,,,,,,,wfo-0001320113,,,
 feb86a26-8fcc-11eb-924d-9cd76263cbd0,subspecies,stapfii,Genlisea,africana,"(A.Chev.) P.Taylor",0,1972,,"Fl. Afrique Centr. , Lentibular.: 58 (1972)",,,,febcaabe-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:886079-1,wfo-0000696717,4087408,,
 feb8a446-8fcc-11eb-924d-9cd76263cbd0,species,anfractuosa,Genlisea,,Tutin,0,1934,,"J. Bot. 72: 310 (1934)",,,,,,urn:lsid:ipni.org:names:324245-2,wfo-0000696719,4087398,,
@@ -40,7 +40,7 @@ febbfc90-8fcc-11eb-924d-9cd76263cbd0,species,pygmaea,Genlisea,,A.St.-Hil.,0,1833
 febc19be-8fcc-11eb-924d-9cd76263cbd0,species,recurva,Genlisea,,Bosser,0,1959,,"Naturaliste Malgache 10: 23 (1959)",,,,,,urn:lsid:ipni.org:names:526360-1,wfo-0000696745,4088247,,
 febc3610-8fcc-11eb-924d-9cd76263cbd0,species,reflexa,Genlisea,,Benj.,0,1847,,"Fl. Bras. 10: 254 (1847)",,,Q5460282,,,urn:lsid:ipni.org:names:526361-1,wfo-0000696746,4088243,,
 febc521c-8fcc-11eb-924d-9cd76263cbd0,species,repens,Genlisea,,Benj.,0,1847,,"Fl. Bras. 10: 253 (1847)",,,Q5460282,,,urn:lsid:ipni.org:names:526362-1,wfo-0000696747,4088239,,
-febc6cca-8fcc-11eb-924d-9cd76263cbd0,species,roraimensis,Genlisea,,N.E.Br.,0,1901,,"Trans. Linn. Soc. London, Bot. 6: 56 (1901)",,Q55760407,,,,urn:lsid:ipni.org:names:526363-1,wfo-0000696748,4088233,,
+febc6cca-8fcc-11eb-924d-9cd76263cbd0,species,roraimensis,Genlisea,,N.E.Br.,0,1901,,"Trans. Linn. Soc. London, Bot. 6: 56 (1901)",,Q55760407,Q6151611,,,urn:lsid:ipni.org:names:526363-1,wfo-0000696748,4088233,,
 febc8aca-8fcc-11eb-924d-9cd76263cbd0,species,sanariapoana,Genlisea,,Steyerm.,0,1953,,"Fieldiana, Bot. 28: 534 (1953)",,,,,,urn:lsid:ipni.org:names:526364-1,wfo-0000696749,4088228,,
 febcaabe-8fcc-11eb-924d-9cd76263cbd0,species,stapfii,Genlisea,,A.Chev.,0,1911,,"Mém. Soc. Bot. France 8: 188 (1912)",,Q55756922,,,,urn:lsid:ipni.org:names:526365-1,wfo-0000696750,4088222,,
 febd6166-8fcc-11eb-924d-9cd76263cbd0,species,subglabra,Genlisea,,Stapf,0,1906,,"Fl. Trop. Afr. 4(2): 498 (1906)",,,Q3700392,,,urn:lsid:ipni.org:names:526366-1,wfo-0000696753,4088217,,

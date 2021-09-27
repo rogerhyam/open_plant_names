@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 dfee9278-8fd1-11eb-924d-9cd76263cbd0,genus,Audibertia,,,Benth.,0,1829,,"Edwards's Bot. Reg. 15: t. 1282 (1829)",,,,,,urn:lsid:ipni.org:names:30002490-2,wfo-4000003642,9463485,,
-048b9758-8fcc-11eb-924d-9cd76263cbd0,species,capitata,Audibertia,,A.Gray,0,1868,,"Proc. Amer. Acad. Arts 7: 387 (1868)",,,,,,urn:lsid:ipni.org:names:444888-1,wfo-0000297239,5605516,,
-048c9752-8fcc-11eb-924d-9cd76263cbd0,species,clevelandii,Audibertia,,A.Gray,0,1874,,"Proc. Amer. Acad. Arts 10: 76 (1874)",,,,,,urn:lsid:ipni.org:names:444889-1,wfo-0000297248,5928967,,
+048b9758-8fcc-11eb-924d-9cd76263cbd0,species,capitata,Audibertia,,A.Gray,0,1868,,"Proc. Amer. Acad. Arts 7: 387 (1868)",,,Q6087076,,,urn:lsid:ipni.org:names:444888-1,wfo-0000297239,5605516,,
+048c9752-8fcc-11eb-924d-9cd76263cbd0,species,clevelandii,Audibertia,,A.Gray,0,1874,,"Proc. Amer. Acad. Arts 10: 76 (1874)",,,Q6087076,,,urn:lsid:ipni.org:names:444889-1,wfo-0000297248,5928967,,
 59341104-1d4d-11ec-82c2-f14daa6f2d93,species,decurrens,Audibertia,,"Nutt. ex Benth.",,1848,,"Prodr. [A. P. de Candolle] 12: 359. 1848 [5 Nov 1848]",,,Q2712448,,,urn:lsid:ipni.org:names:444890-1,wfo-0001352705,,,
 048e4282-8fcc-11eb-924d-9cd76263cbd0,species,dorrii,Audibertia,,Kellogg,0,1863,,"Proc. Calif. Acad. Sci. 2: 190 (1863)",,,,,,urn:lsid:ipni.org:names:26603-2,wfo-0000297259,5605500,,
 048f7b52-8fcc-11eb-924d-9cd76263cbd0,species,grandiflora,Audibertia,,Benth.,0,1833,,"Labiat. Gen. Spec. : 312 (1833)",,,,,,urn:lsid:ipni.org:names:444892-1,wfo-0000297270,5605493,,
@@ -14,7 +14,7 @@ dfee9278-8fd1-11eb-924d-9cd76263cbd0,genus,Audibertia,,,Benth.,0,1829,,"Edwards'
 04998822-8fcc-11eb-924d-9cd76263cbd0,species,pachystachya,Audibertia,,Parish,0,1898,,"Erythea 6: 91 (1898)",,,,04935614-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:26611-2,wfo-0000297327,5605449,,
 049b4220-8fcc-11eb-924d-9cd76263cbd0,species,palmeri,Audibertia,,A.Gray,0,1876,,"Bot. California 1: 601 (1876)",,,Unknown,,,urn:lsid:ipni.org:names:444898-1,wfo-0000297338,5605443,,
 cf2252cc-8fd1-11eb-924d-9cd76263cbd0,species,palmeri,Audibertia,,A.Gray,0,1876,,"Bot. California 1: 601 (1876)",,,Unknown,,,urn:lsid:ipni.org:names:444898-1,wfo-0001281018,5605443,,
-049cc262-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Audibertia,,Nyman,0,1881,,"Consp. Fl. Eur. : 597 (1881)",,,,,,urn:lsid:ipni.org:names:444899-1,wfo-0000297349,5605440,,
+049cc262-8fcc-11eb-924d-9cd76263cbd0,species,parviflora,Audibertia,,Nyman,0,1881,,"Consp. Fl. Eur. : 597 (1881)",,,Q5784347,,,urn:lsid:ipni.org:names:444899-1,wfo-0000297349,5605440,,
 049e2a3a-8fcc-11eb-924d-9cd76263cbd0,species,polystachya,Audibertia,,Benth.,0,1833,,"Labiat. Gen. Spec. : 314 (1833)",,,,,,urn:lsid:ipni.org:names:444900-1,wfo-0000297360,5605429,,
 04a013ea-8fcc-11eb-924d-9cd76263cbd0,species,pusilla,Audibertia,,Benth.,0,1829,,"Edwards's Bot. Reg. 15: t. 1282 (1829)",,,,,,urn:lsid:ipni.org:names:444901-1,wfo-0000297371,5605425,,
 04a14260-8fcc-11eb-924d-9cd76263cbd0,species,spinulosa,Audibertia,,"Nutt. ex Benth.",0,1848,,"Prodr. 12: 359 (1848)",,,Q2712448,,,urn:lsid:ipni.org:names:444902-1,wfo-0000297381,5605421,,

@@ -2,7 +2,7 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 eb6b82fa-8fd1-11eb-924d-9cd76263cbd0,genus,Torrubia,,,Vell.,0,1829,,"Fl. Flumin. : 139 (1829)",,,,eb6b82fa-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:27970-1,wfo-4000038606,7327173,5503," "
 726a7ea6-9bac-11eb-a8a2-19ed5c03f8d3,species,adpropinquans,Torrubia,,Ces.,0,,,,,,,726a7ea6-9bac-11eb-a8a2-19ed5c03f8d3,,,,,238245," "
 bb216146-8fd1-11eb-924d-9cd76263cbd0,species,areolata,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,c2f7d002-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255184-2,wfo-0001245046,5553640,,
-c30b12fc-8fcd-11eb-924d-9cd76263cbd0,species,asperula,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 242 (1937)",,,,,,urn:lsid:ipni.org:names:255185-2,wfo-0001086786,5553634,,
+c30b12fc-8fcd-11eb-924d-9cd76263cbd0,species,asperula,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 242 (1937)",,,Q6090663,,,urn:lsid:ipni.org:names:255185-2,wfo-0001086786,5553634,,
 2512025a-9bac-11eb-a8a2-19ed5c03f8d3,species,barnesii,Torrubia,,"(Thwaites) Ces.",0,1879,,"Atti Accad. Sci. fis. mat. Napoli 8(3): 14 (1879)",,,,cb263152-9bac-11eb-a8a2-19ed5c03f8d3,,,,,102870," "
 ae262828-8fd1-11eb-924d-9cd76263cbd0,species,boliviana,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,,,urn:lsid:ipni.org:names:255186-2,wfo-0001221190,5553629,,
 c30a8db4-8fcd-11eb-924d-9cd76263cbd0,species,bracei,Torrubia,,Britton,0,1904,,"Bull. Torrey Bot. Club 31: 614 (1904)",,Q55766788,Q13548538,,,urn:lsid:ipni.org:names:255187-2,wfo-0001086783,5384855,,
@@ -40,7 +40,7 @@ bb23f8ca-8fd1-11eb-924d-9cd76263cbd0,species,harrisiana,Torrubia,,Standl.,0,1916
 ae268642-8fd1-11eb-924d-9cd76263cbd0,species,hassleriana,Torrubia,,"(Heimerl) Standl.",0,1916,,"Contr. U.S. Natl. Herb. 18: 100. 1916",,,,c2f8fef0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:605184-1,wfo-0001221191,5553523,,
 c30b9af6-8fcd-11eb-924d-9cd76263cbd0,species,heimerliana,Torrubia,,Standl.,0,1939,,"Lloydia 2: 177 (1939)",,,,,,urn:lsid:ipni.org:names:255211-2,wfo-0001086791,5553520,,
 bb2416de-8fd1-11eb-924d-9cd76263cbd0,species,hirsuta,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,,,urn:lsid:ipni.org:names:255212-2,wfo-0001245067,5553518,,
-c30bb568-8fcd-11eb-924d-9cd76263cbd0,species,hoehnei,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 242 (1937)",,,,,,urn:lsid:ipni.org:names:255213-2,wfo-0001086792,7892910,,
+c30bb568-8fcd-11eb-924d-9cd76263cbd0,species,hoehnei,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 242 (1937)",,,Q6090663,,,urn:lsid:ipni.org:names:255213-2,wfo-0001086792,7892910,,
 6f5ef4e4-8fcc-11eb-924d-9cd76263cbd0,species,inermis,Torrubia,,Britton,0,1904,,"Bull. Torrey Bot. Club 31: 614 (1904)",,Q55766788,Q13548538,,,urn:lsid:ipni.org:names:255214-2,wfo-0000456284,5553511,,
 c30bd214-8fcd-11eb-924d-9cd76263cbd0,species,insularis,Torrubia,,Standl.,0,1919,,"Proc. Biol. Soc. Washington 32: 241 (1919)",,,,,,urn:lsid:ipni.org:names:255215-2,wfo-0001086793,5553507,,
 c30bee7a-8fcd-11eb-924d-9cd76263cbd0,species,kanukuensis,Torrubia,,Standl.,0,1939,,"Lloydia 2: 178 (1939)",,,,,,urn:lsid:ipni.org:names:255216-2,wfo-0001086794,5553505,,
@@ -48,7 +48,7 @@ bb243420-8fd1-11eb-924d-9cd76263cbd0,species,laxiflora,Torrubia,,Standl.,0,1916,
 c30c0ad6-8fcd-11eb-924d-9cd76263cbd0,species,leonis,Torrubia,,Standl.,0,1926,,"Bull. Torrey Bot. Club 53: 459 (1926)",,Q55767165,Q13548538,,,urn:lsid:ipni.org:names:255218-2,wfo-0001086795,5553495,,
 bb2450f4-8fd1-11eb-924d-9cd76263cbd0,species,ligustrifolia,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,c30c31aa-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255219-2,wfo-0001245069,5553493,,
 6f5eb844-8fcc-11eb-924d-9cd76263cbd0,species,linearibracteata,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,7b8306f2-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255220-2,wfo-0000456282,5553490,,
-c30c8448-8fcd-11eb-924d-9cd76263cbd0,species,loefgrenii,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 243 (1937)",,,,,,urn:lsid:ipni.org:names:255221-2,wfo-0001086799,5553485,,
+c30c8448-8fcd-11eb-924d-9cd76263cbd0,species,loefgrenii,Torrubia,,Standl.,0,1937,,"Publ. Field Columb. Mus., Bot. Ser. 17: 243 (1937)",,,Q6090663,,,urn:lsid:ipni.org:names:255221-2,wfo-0001086799,5553485,,
 c30a68de-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Torrubia,,Britton,0,1904,,"Bull. Torrey Bot. Club 31: 614 (1904)",,Q55766788,Q13548538,,,urn:lsid:ipni.org:names:255222-2,wfo-0001086782,5384854,,
 bb246d6e-8fd1-11eb-924d-9cd76263cbd0,species,luteovirens,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 100 (1916)",,,,c2f9c312-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255223-2,wfo-0001245070,5553479,,
 6f5e6d26-8fcc-11eb-924d-9cd76263cbd0,species,macrocarpa,Torrubia,,Miranda,0,1941,,"Anales Inst. Biol. Univ. Nac. México 12: 579 (1941)",,,,,,urn:lsid:ipni.org:names:255224-2,wfo-0000456280,5553476,,
@@ -57,31 +57,31 @@ bb246d6e-8fd1-11eb-924d-9cd76263cbd0,species,luteovirens,Torrubia,,Standl.,0,191
 03b1ba2e-9bac-11eb-a8a2-19ed5c03f8d3,species,militaris,Torrubia,,"(L.) Tul. & C. Tul.",0,,,,,,,96cea4fc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,465464," "
 ce44d97e-9bac-11eb-a8a2-19ed5c03f8d3,species,miquelii,Torrubia,,"Tul. & C. Tul.",0,,,,,,,ce44d97e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,243846," "
 6cb94bd6-9bac-11eb-a8a2-19ed5c03f8d3,species,myrmecophila,Torrubia,,"(Ces.) Tul.{?}",0,,,,,,,7dcc6548-9bac-11eb-a8a2-19ed5c03f8d3,,,,,243252," "
-c3041768-8fcd-11eb-924d-9cd76263cbd0,species,myrtiflora,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 8: 307 (1931)",,,,,,urn:lsid:ipni.org:names:255226-2,wfo-0001086726,5553470,,
+c3041768-8fcd-11eb-924d-9cd76263cbd0,species,myrtiflora,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 8: 307 (1931)",,,Q6090663,,,urn:lsid:ipni.org:names:255226-2,wfo-0001086726,5553470,,
 bb24a054-8fd1-11eb-924d-9cd76263cbd0,species,nitida,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2fa1aa6-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255227-2,wfo-0001245071,5553462,,
 bb24f52c-8fd1-11eb-924d-9cd76263cbd0,species,noxia,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2f9e054-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255228-2,wfo-0001245072,5553460,,
 6f5d7fa6-8fcc-11eb-924d-9cd76263cbd0,species,obtusata,Torrubia,,Britton,0,1904,,"Bull. Torrey Bot. Club 31: 612 (1904)",,Q55766788,Q13548538,,,urn:lsid:ipni.org:names:255229-2,wfo-0000456277,5384857,,
-b005b906-8fd1-11eb-924d-9cd76263cbd0,species,obtusiloba,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 8: 308 (1931)",,,,c2fa35b8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255232-2,wfo-0001224553,5553447,,
+b005b906-8fd1-11eb-924d-9cd76263cbd0,species,obtusiloba,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 8: 308 (1931)",,,Q6090663,c2fa35b8-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255232-2,wfo-0001224553,5553447,,
 6f5d5c60-8fcc-11eb-924d-9cd76263cbd0,species,olfersiana,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,7b7b1442-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255233-2,wfo-0000456276,7327210,,
 85a8bb58-9bad-11eb-a8a2-19ed5c03f8d3,species,ophioglossoides,Torrubia,,"(Ehrh.) Tul. & C. Tul.",0,,,,,,,,,,,,465465," "
 6f5fc02c-8fcc-11eb-924d-9cd76263cbd0,species,opposita,Torrubia,,Vell.,0,1829,,"Fl. Flumin. : 139 (1829)",,,,,,urn:lsid:ipni.org:names:255236-2,wfo-0000456291,5553437,,
 6f5ff786-8fcc-11eb-924d-9cd76263cbd0,species,pacurero,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,7b7bdd00-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255237-2,wfo-0000456293,5553433,,
 c306b810-8fcd-11eb-924d-9cd76263cbd0,species,panamensis,Torrubia,,Standl.,0,1918,,"N. Amer. Fl. 21: 185 (1918)",,,,,,urn:lsid:ipni.org:names:255238-2,wfo-0001086750,5553430,,
 bb2527b8-8fd1-11eb-924d-9cd76263cbd0,species,paraguayensis,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2fa7230-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255239-2,wfo-0001245073,5553429,,
-c30c67ce-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Torrubia,,Standl.,0,1940,,"Publ. Field Columb. Mus., Bot. Ser. 22: 18 (1940)",,,,,,urn:lsid:ipni.org:names:255240-2,wfo-0001086798,5553426,,
+c30c67ce-8fcd-11eb-924d-9cd76263cbd0,species,parvifolia,Torrubia,,Standl.,0,1940,,"Publ. Field Columb. Mus., Bot. Ser. 22: 18 (1940)",,,Q6090663,,,urn:lsid:ipni.org:names:255240-2,wfo-0001086798,5553426,,
 6f60e2d6-8fcc-11eb-924d-9cd76263cbd0,species,pernambucensis,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,7b7a827a-8fcc-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255241-2,wfo-0000456299,5553425,,
 6f60c1fc-8fcc-11eb-924d-9cd76263cbd0,species,petenensis,Torrubia,,Lundell,0,1937,,"Publ. Carnegie Inst. Wash. 478: 208 (1937)",,,,,,urn:lsid:ipni.org:names:255242-2,wfo-0000456298,5553422,,
 e9cfae62-9bac-11eb-a8a2-19ed5c03f8d3,species,pistillariaeformis,Torrubia,,"(Berk. & Broome) Cooke",0,,,,,,,805a16d4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,285713," Torrubia pistillariiformis"
 4fcc71c4-9bac-11eb-a8a2-19ed5c03f8d3,species,pistillariiformis,Torrubia,,"(Berk. & Broome) Cooke",0,1871,,"Handbook of British Fungi 2: no. 2323 (1871)",,,,805a16d4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,243338," pistillariaeformis"
 c30c9e38-8fcd-11eb-924d-9cd76263cbd0,species,potosina,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 99 (1916)",,,,,,urn:lsid:ipni.org:names:255243-2,wfo-0001086800,5553415,,
-6f457dde-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 86 (1931)",,,,,,urn:lsid:ipni.org:names:255244-2,wfo-0000456111,5553412,,
+6f457dde-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 86 (1931)",,,Q6090663,,,urn:lsid:ipni.org:names:255244-2,wfo-0000456111,5553412,,
 b005d6b6-8fd1-11eb-924d-9cd76263cbd0,species,riedeliana,Torrubia,,"(Fisch.) Standl.",0,1931,,"Publ. Field Mus. Nat. Hist., Bot. Ser. 8: 308. 1931",,,,c2fac03c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:605215-1,wfo-0001224554,5553406,,
 6f478f16-8fcc-11eb-924d-9cd76263cbd0,species,rotundata,Torrubia,,Sudw.,0,1927,,"Check List For. Trees U.S. : 119 (1927)",,,,,,urn:lsid:ipni.org:names:605216-1,wfo-0000456126,5553402,,
 6f475ab4-8fcc-11eb-924d-9cd76263cbd0,species,rufescens,Torrubia,,Britton,0,1904,,"Bull. Torrey Bot. Club 31: 613 (1904)",,Q55766788,Q13548538,,,urn:lsid:ipni.org:names:255247-2,wfo-0000456125,7327419,454392," "
-6f47337c-8fcc-11eb-924d-9cd76263cbd0,species,rusbyana,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 85 (1931)",,,,,,urn:lsid:ipni.org:names:255249-2,wfo-0000456124,5553719,,
+6f47337c-8fcc-11eb-924d-9cd76263cbd0,species,rusbyana,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 85 (1931)",,,Q6090663,,,urn:lsid:ipni.org:names:255249-2,wfo-0000456124,5553719,,
 bb255c42-8fd1-11eb-924d-9cd76263cbd0,species,salicifolia,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,,,urn:lsid:ipni.org:names:255250-2,wfo-0001245074,5553717,,
 bb2578ee-8fd1-11eb-924d-9cd76263cbd0,species,schomburgkiana,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2fb1212-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255251-2,wfo-0001245075,5553714,,
-c30e721c-8fcd-11eb-924d-9cd76263cbd0,species,snethlagei,Torrubia,,Standl.,0,1936,,"Publ. Field Columb. Mus., Bot. Ser. 11: 153 (1936)",,,,,,urn:lsid:ipni.org:names:255252-2,wfo-0001086817,5553710,,
+c30e721c-8fcd-11eb-924d-9cd76263cbd0,species,snethlagei,Torrubia,,Standl.,0,1936,,"Publ. Field Columb. Mus., Bot. Ser. 11: 153 (1936)",,,Q6090663,,,urn:lsid:ipni.org:names:255252-2,wfo-0001086817,5553710,,
 01bc62e6-9bac-11eb-a8a2-19ed5c03f8d3,species,sobolifera,Torrubia,,"(Hill ex Watson) Tul. & C. Tul.",0,1865,,"Select. fung. carpol. (Paris) 3: 10 (1865)",,,,76899c70-9bab-11eb-a8a2-19ed5c03f8d3,,,,,485181," "
 5ec0f114-9bac-11eb-a8a2-19ed5c03f8d3,species,sphecocephala,Torrubia,,"(Klotzsch ex Berk.) Tul. & C. Tul.",0,1865,,"Select. fung. carpol. (Paris) 3: 16 (1865)",,,,5dd19d58-9bac-11eb-a8a2-19ed5c03f8d3,,,,,530326," "
 ce547668-9bac-11eb-a8a2-19ed5c03f8d3,species,sphecophila,Torrubia,,"(Klotzsch ex Berk.) Tul. & C. Tul.",0,,,,,,,5a366f70-9bac-11eb-a8a2-19ed5c03f8d3,,,,,243981," Torrubia sphecocephala"
@@ -90,7 +90,7 @@ c30cf55e-8fcd-11eb-924d-9cd76263cbd0,species,suborbiculata,Torrubia,,Britton,0,1
 6e5d2a52-9bac-11eb-a8a2-19ed5c03f8d3,species,superficialis,Torrubia,,Peck,0,,,,,,,6e5d2a52-9bac-11eb-a8a2-19ed5c03f8d3,,,,,243446," "
 ae26ed62-8fd1-11eb-924d-9cd76263cbd0,species,suspensa,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2fb69ce-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255255-2,wfo-0001221193,5553700,,
 bb2595cc-8fd1-11eb-924d-9cd76263cbd0,species,tomentosa,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,,,urn:lsid:ipni.org:names:255256-2,wfo-0001245076,5553696,,
-c30d1070-8fcd-11eb-924d-9cd76263cbd0,species,uberrima,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 88 (1931)",,,,,,urn:lsid:ipni.org:names:255257-2,wfo-0001086804,5553693,,
+c30d1070-8fcd-11eb-924d-9cd76263cbd0,species,uberrima,Torrubia,,Standl.,0,1931,,"Publ. Field Columb. Mus., Bot. Ser. 11: 88 (1931)",,,Q6090663,,,urn:lsid:ipni.org:names:255257-2,wfo-0001086804,5553693,,
 bb25b142-8fd1-11eb-924d-9cd76263cbd0,species,uleana,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,,,urn:lsid:ipni.org:names:255258-2,wfo-0001245077,5553689,,
 5bcc3874-9bac-11eb-a8a2-19ed5c03f8d3,species,unilateralis,Torrubia,,Tul.,0,,,,,,,5bcc3874-9bac-11eb-a8a2-19ed5c03f8d3,,,,,145303," "
 bb25ce66-8fd1-11eb-924d-9cd76263cbd0,species,venosa,Torrubia,,Standl.,0,1916,,"Contr. U.S. Natl. Herb. 18: 101 (1916)",,,,c2fd0680-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:255259-2,wfo-0001245078,5553686,,

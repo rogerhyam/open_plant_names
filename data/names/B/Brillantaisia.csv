@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e0d4d36e-8fd1-11eb-924d-9cd76263cbd0,genus,Brillantaisia,,,P.Beauv.,0,1818,,"Fl. Oware 2: 67 (1818)",,,,,,urn:lsid:ipni.org:names:432-1,wfo-4000005439,7264126,,
-b5a3e798-8fcc-11eb-924d-9cd76263cbd0,species,alata,Brillantaisia,,"T.Anderson ex Oliv.",0,1875,,"Trans. Linn. Soc. London 29(3): 125. 1875 [11 Sep 1875]",,Q55808831,,,,urn:lsid:ipni.org:names:46648-1,wfo-0000572240,3778481,,
+b5a3e798-8fcc-11eb-924d-9cd76263cbd0,species,alata,Brillantaisia,,"T.Anderson ex Oliv.",0,1875,,"Trans. Linn. Soc. London 29(3): 125. 1875 [11 Sep 1875]",,Q55808831,Q6151611,,,urn:lsid:ipni.org:names:46648-1,wfo-0000572240,3778481,,
 b5a4069c-8fcc-11eb-924d-9cd76263cbd0,species,anomala,Brillantaisia,,Lindau,0,1895,,"Pflanzenw. Ost-Afrikas C (1895) 366; et in Engl. et Prantl, Naturl. Pflanzenfam. iv. 3 b. (1895) 296.",,,,,,urn:lsid:ipni.org:names:46649-1,wfo-0000572241,3778468,,
 b5a424ec-8fcc-11eb-924d-9cd76263cbd0,species,bagshawei,Brillantaisia,,S.Moore,0,1908,,"J. Bot. 46: 312 (1908)",,,,,,urn:lsid:ipni.org:names:46651-1,wfo-0000572242,3778458,,
 b5a43f7c-8fcc-11eb-924d-9cd76263cbd0,species,bauchiensis,Brillantaisia,,"Hutch. & Dalziel",0,1931,,"Fl. W. Trop. Afr. 2: 254 (1931)",,,,,,urn:lsid:ipni.org:names:46652-1,wfo-0000572243,3778451,,
@@ -30,7 +30,7 @@ b5a76260-8fcc-11eb-924d-9cd76263cbd0,species,palisotii,Brillantaisia,,Lindau,0,1
 b5a77cf0-8fcc-11eb-924d-9cd76263cbd0,species,patula,Brillantaisia,,T.Anderson,0,1864,,"J. Proc. Linn. Soc., Bot. 7: 21 (1863)",,,,,,urn:lsid:ipni.org:names:46676-1,wfo-0000572269,3778268,,
 13d39714-8fcd-11eb-924d-9cd76263cbd0,variety,welwitschii,Brillantaisia,patula,Burkill,0,1899,,"Fl. Trop. Afr. 5: 41 1899",,,Q3700392,,,,wfo-0000734157,7621957,,
 b5a7c174-8fcc-11eb-924d-9cd76263cbd0,species,preussii,Brillantaisia,,Lindau,0,1893,,"Bot. Jahrb. Syst. 17: 100 (1893)",,,Q5732642,,,urn:lsid:ipni.org:names:46677-1,wfo-0000572271,3778258,,
-b5a7eca8-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Brillantaisia,,"T.Anderson ex Oliv.",0,1875,,"Trans. Linn. Soc. London 29: 125 (1875)",,Q55808831,,,,urn:lsid:ipni.org:names:46678-1,wfo-0000572272,7264140,,
+b5a7eca8-8fcc-11eb-924d-9cd76263cbd0,species,pubescens,Brillantaisia,,"T.Anderson ex Oliv.",0,1875,,"Trans. Linn. Soc. London 29: 125 (1875)",,Q55808831,Q6151611,,,urn:lsid:ipni.org:names:46678-1,wfo-0000572272,7264140,,
 97318dca-1d4c-11ec-82c2-f14daa6f2d93,variety,pubescens,Brillantaisia,pubescens,,,,,,,,,,,,wfo-0001045232,,,
 b5a85134-8fcc-11eb-924d-9cd76263cbd0,variety,riparia,Brillantaisia,pubescens,"Vollesen & Brummitt",0,1981,,"Kew Bull. 36: 571 (1981)",,Q55784973,,,,urn:lsid:ipni.org:names:916158-1,wfo-0000572273,3778240,,
 b5a878c6-8fcc-11eb-924d-9cd76263cbd0,variety,rutenbergiana,Brillantaisia,pubescens,"(Vatke) Benoist",0,1939,,"Cat. Pl. Madag. 182: 13 1939",,,,,,,wfo-0000572274,8007189,,

@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
-def7d6d6-8fd1-11eb-924d-9cd76263cbd0,genus,Agathis,,,Salisb.,0,1807,,"Trans. Linn. Soc. London 8: 311 (1807)",,Q55760715,,,,urn:lsid:ipni.org:names:331119-2,wfo-4000000913,2685008,,
-b3ff0f6c-8fd1-11eb-924d-9cd76263cbd0,species,alba,Agathis,,Foxw.,0,1910,,"Philipp. J. Sci. 4: 4427 (1909)",,,,,,urn:lsid:ipni.org:names:676633-1,wfo-0001231870,,,
+def7d6d6-8fd1-11eb-924d-9cd76263cbd0,genus,Agathis,,,Salisb.,0,1807,,"Trans. Linn. Soc. London 8: 311 (1807)",,Q55760715,Q6151611,,,urn:lsid:ipni.org:names:331119-2,wfo-4000000913,2685008,,
+b3ff0f6c-8fd1-11eb-924d-9cd76263cbd0,species,alba,Agathis,,Foxw.,0,1910,,"Philipp. J. Sci. 4: 4427 (1909)",,,Q6074313,,,urn:lsid:ipni.org:names:676633-1,wfo-0001231870,,,
 bcbdf7ee-8fd1-11eb-924d-9cd76263cbd0,species,alba,Agathis,,Jeffrey,0,1906,,"Ann. Bot. (Oxford) 20: 387 1906",,,Q1821243,,,,wfo-0001248023,5284451,,
 6b90c2ba-8fcd-11eb-924d-9cd76263cbd0,species,atropurpurea,Agathis,,B.Hyland,0,1978,,"Brunonia 1: 109 (1978)",,Q55756052,,,,urn:lsid:ipni.org:names:92689-1,wfo-0000907895,5284412,,
 6ba0a504-8fcd-11eb-924d-9cd76263cbd0,species,australis,Agathis,,"(D.Don) Lindl.",0,1829,,"Encycl. Pl. : 802 (1829)",,,,7de95864-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:261668-1,wfo-0000907999,5284415,,
@@ -24,7 +24,7 @@ c34e7088-8fcd-11eb-924d-9cd76263cbd0,species,hami,Agathis,,"Meijer Drees",0,1940
 6c72ff86-8fcd-11eb-924d-9cd76263cbd0,species,latifolia,Agathis,,"Meijer Drees",0,1940,,"Bull. Jard. Bot. Buitenzorg , sér. 3, 16: 459 (1940)",,,Q2839028,,,urn:lsid:ipni.org:names:676645-1,wfo-0000908997,5284428,,
 6c81a536-8fcd-11eb-924d-9cd76263cbd0,species,lenticula,Agathis,,"de Laub.",0,1979,,"Blumea 25: 537 (1979)",,Q96027340,,,,urn:lsid:ipni.org:names:92692-1,wfo-0000909072,5284441,,
 344e2f90-8fcd-11eb-924d-9cd76263cbd0,species,longifolia,Agathis,,Warb.,0,1900,,"Monsunia 1: 186 (1900)",,,,7dea2f28-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:676646-1,wfo-0000802892,5529101,,
-6c8c8abe-8fcd-11eb-924d-9cd76263cbd0,species,loranthifolia,Agathis,,Salisb.,0,1807,,"Trans. Linn. Soc. London 8: 312 (1807)",,Q55760715,,,,urn:lsid:ipni.org:names:261670-1,wfo-0000909127,5284444,,
+6c8c8abe-8fcd-11eb-924d-9cd76263cbd0,species,loranthifolia,Agathis,,Salisb.,0,1807,,"Trans. Linn. Soc. London 8: 312 (1807)",,Q55760715,Q6151611,,,urn:lsid:ipni.org:names:261670-1,wfo-0000909127,5284444,,
 6c97d770-8fcd-11eb-924d-9cd76263cbd0,species,macrophylla,Agathis,,Mast.,0,1892,,"J. Roy. Hort. Soc. 14: 197 (1892)",,,,,,urn:lsid:ipni.org:names:676647-1,wfo-0000909190,5284401,,
 6ca396d2-8fcd-11eb-924d-9cd76263cbd0,variety,obtusa,Agathis,macrophylla,"(Lindl.) Silba",0,1990,,"Phytologia 68: 23 (1990)",,,Q2230701,,,urn:lsid:ipni.org:names:956092-1,wfo-0000909245,8020231,,
 6e0917b8-8fcd-11eb-924d-9cd76263cbd0,subspecies,obtusa,Agathis,macrophylla,"(Lindl.) Silba",0,2009,,"J. Int. Conifer Preserv. Soc. 16: 40 (2009)",,,,,,urn:lsid:ipni.org:names:77095051-1,wfo-0000911239,8020231,,

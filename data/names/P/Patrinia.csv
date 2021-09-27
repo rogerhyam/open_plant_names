@@ -1,6 +1,6 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e80f31ec-8fd1-11eb-924d-9cd76263cbd0,genus,Patrinia,,,Juss.,0,1807,,"Ann. Mus. Hist. Nat. 10: 311 (1807)",,,,,,urn:lsid:ipni.org:names:331831-2,wfo-4000028322,3234647,,
-b04dc462-8fd1-11eb-924d-9cd76263cbd0,species,angustifolia,Patrinia,,Hemsl.,0,1888,,"J. Linn. Soc., Bot. 23: 396 (1888)",,Q55760306,,,,urn:lsid:ipni.org:names:859433-1,wfo-0001225094,7825862,,
+b04dc462-8fd1-11eb-924d-9cd76263cbd0,species,angustifolia,Patrinia,,Hemsl.,0,1888,,"J. Linn. Soc., Bot. 23: 396 (1888)",,Q55760306,Q5946734,,,urn:lsid:ipni.org:names:859433-1,wfo-0001225094,7825862,,
 dd52e84c-8fcd-11eb-924d-9cd76263cbd0,species,ceratophylla,Patrinia,,Hook.,0,1834,,"Fl. Bor.-Amer. 1: 290 (1833)",,,Q7486274,,,urn:lsid:ipni.org:names:859434-1,wfo-0001144072,8377232,,
 795bd5de-8fcc-11eb-924d-9cd76263cbd0,species,coronata,Patrinia,,Fisch.,0,1812,,"Cat. Jard. Gorenki , ed. 2: 43 (1812)",,,,,,urn:lsid:ipni.org:names:859435-1,wfo-0000472838,8039545,,
 795c6486-8fcc-11eb-924d-9cd76263cbd0,species,diandra,Patrinia,,Kitag.,0,1934,,"Bot. Mag. (Tokyo) 48: 619 (1934)",,Q55762709,Q2269599,,,urn:lsid:ipni.org:names:859436-1,wfo-0000472841,7847881,,
@@ -39,7 +39,7 @@ b04d2d4a-8fd1-11eb-924d-9cd76263cbd0,species,rupestris,Patrinia,,"(Pall.) Juss."
 dd2da21c-8fcd-11eb-924d-9cd76263cbd0,species,rupestris,Patrinia,,"(Pall.) Dufr.",0,1811,,"Hist. Nat. Valér. : 54 (1811)",,,,,,urn:lsid:ipni.org:names:859463-1,wfo-0001143746,8388154,,
 b04d6a58-8fd1-11eb-924d-9cd76263cbd0,subspecies,scabra,Patrinia,rupestris,"(Bunge) H.J.Wang",0,1985,,"Acta Phytotax. Sin. 23(5): 382. 1985 [18 Oct 1985]",,,Q5656885,,,urn:lsid:ipni.org:names:924387-1,wfo-0001225091,8079250,,
 795da9f4-8fcc-11eb-924d-9cd76263cbd0,species,ruthenica,Patrinia,,Juss.,0,1807,,"Ann. Mus. Hist. Nat. 10: 311 (1807)",,,,,,urn:lsid:ipni.org:names:859464-1,wfo-0000472852,8340232,,
-795d76fa-8fcc-11eb-924d-9cd76263cbd0,species,saniculifolia,Patrinia,,Hemsl.,0,1888,,"J. Linn. Soc., Bot. 23: 397 (1888)",,Q55760306,,,,urn:lsid:ipni.org:names:859465-1,wfo-0000472850,7500620,,
+795d76fa-8fcc-11eb-924d-9cd76263cbd0,species,saniculifolia,Patrinia,,Hemsl.,0,1888,,"J. Linn. Soc., Bot. 23: 397 (1888)",,Q55760306,Q5946734,,,urn:lsid:ipni.org:names:859465-1,wfo-0000472850,7500620,,
 b04c3bce-8fd1-11eb-924d-9cd76263cbd0,species,scabiosifolia,Patrinia,,Link,0,1821,,"Enum. Hort. Berol. Alt. 1: 131 (1821)",,,,,,urn:lsid:ipni.org:names:859466-1,wfo-0001225082,6058841,,
 43461130-1d4d-11ec-82c2-f14daa6f2d93,form,crassa,Patrinia,scabiosifolia,"(Masam. & Satomi) Kitam. ex T.Yamaz.",,1993,,"Fl. Japan 3a: 451 (1993)",,,,,,urn:lsid:ipni.org:names:978009-1,wfo-0001323381,,,
 6d86ef14-1d4d-11ec-82c2-f14daa6f2d93,variety,crassa,Patrinia,scabiosifolia,"Masam. & Satomi",,1953,,"J. Jap. Bot. 28(10: 312. 1953 [Oct 1953]",,,,,,urn:lsid:ipni.org:names:60452695-2,wfo-0001380832,,,

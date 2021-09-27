@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 a52b981a-9bad-11eb-a8a2-19ed5c03f8d3,genus,Robergea,,,Desm.,0,1847,,"Annls Sci. Nat., Bot., sér. 3 8: 177 (1847)",,,,a52b981a-9bad-11eb-a8a2-19ed5c03f8d3,,,,,4763," "
 511f44ac-9bac-11eb-a8a2-19ed5c03f8d3,species,adnata,Robergea,,Bonord.,,,,,,,,511f44ac-9bac-11eb-a8a2-19ed5c03f8d3,,,,,232521," Robergia"
-512d86b6-9bac-11eb-a8a2-19ed5c03f8d3,species,albicedrae,Robergea,,"(Heald & F.A. Wolf) Sacc. & Traverso",0,1911,,"Syll. fung. (Abellini) 20: 695 (1911)",,,,cdf3c016-9bac-11eb-a8a2-19ed5c03f8d3,,,,,232629," "
+512d86b6-9bac-11eb-a8a2-19ed5c03f8d3,species,albicedrae,Robergea,,"(Heald & F.A. Wolf) Sacc. & Traverso",0,1911,,"Syll. fung. (Abellini) 20: 695 (1911)",,,Q104670548,cdf3c016-9bac-11eb-a8a2-19ed5c03f8d3,,,,,232629," "
 ca371d9c-9bac-11eb-a8a2-19ed5c03f8d3,species,albifrons,Robergea,,Tul.,0,,,,,,,ca371d9c-9bac-11eb-a8a2-19ed5c03f8d3,,,,,232978," "
 e52aa952-9bac-11eb-a8a2-19ed5c03f8d3,species,canariense,Robergea,,Sherwood,,,,,,,,e52aa952-9bac-11eb-a8a2-19ed5c03f8d3,,,,,280249," Robergea canariensis"
 154f7f40-9bad-11eb-a8a2-19ed5c03f8d3,species,canariensis,Robergea,,Sherwood,,1977,,"Mycotaxon 5(1): 99 (1977)",,,,154f7f40-9bad-11eb-a8a2-19ed5c03f8d3,,,,,322846," canariense"
@@ -18,7 +18,7 @@ a7dd3362-9bac-11eb-a8a2-19ed5c03f8d3,species,cubicularis,Robergea,,"(Fr.) Rehm",
 66d2e10a-9bac-11eb-a8a2-19ed5c03f8d3,variety,unica,Robergea,unica,Desm.,0,1847,,"Annls Sci. Nat., Bot., sér. 3 8: (1847)",,,,66d2e10a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420891," "
 6736d7b4-9bac-11eb-a8a2-19ed5c03f8d3,form,unica,Robergea,unica,Desm.,0,1847,,"Annls Sci. Nat., Bot., sér. 3 8: (1847)",,,,6736d7b4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,420913," "
 46d39214-8fcc-11eb-924d-9cd76263cbd0,species,frutescens,Robergia,,J.F.Gmel.,0,1791,,"Syst. Nat. ed. 13[bis] : 729 (1791)",,,,,,urn:lsid:ipni.org:names:264702-1,wfo-0000398924,5550250,,
-dabfd9ba-8fd1-11eb-924d-9cd76263cbd0,species,frutescens,Robergia,,Willd.,0,1799,,"Sp. Pl. 2: 752 1799",,,,,,,wfo-0001296599,7985321,,
+dabfd9ba-8fd1-11eb-924d-9cd76263cbd0,species,frutescens,Robergia,,Willd.,0,1799,,"Sp. Pl. 2: 752 1799",,,Q849308,,,,wfo-0001296599,7985321,,
 46d3b992-8fcc-11eb-924d-9cd76263cbd0,species,glabra,Robergia,,Spreng.,0,1827,,"Syst. Veg. 4(2): 188 (1827)",,,Q58829765,,,urn:lsid:ipni.org:names:264703-1,wfo-0000398925,5550254,,
 dac42c04-8fd1-11eb-924d-9cd76263cbd0,species,hirsuta,Robergia,,Roxb.,0,1832,,"Hort. Bengal. [90]; Fl. Ind. ii. 455.",,,,,,urn:lsid:ipni.org:names:264704-1,wfo-0001296628,5550257,,
 0497a35e-8fcc-11eb-924d-9cd76263cbd0,species,decandra,Robertia,,Scop.,0,1777,,"Intr. Hist. Nat. : 154 (1777)",,,,,,urn:lsid:ipni.org:names:789397-1,wfo-0000297324,5333874,,
@@ -27,5 +27,5 @@ aaf7a4d6-8fb5-11eb-924d-9cd76263cbd0,species,pinnatifida,Robertia,,Spreng.,0,182
 39bceb78-8fba-11eb-924d-9cd76263cbd0,species,taraxacoides,Robertia,,DC.,0,1815,,"Fl. Franc. 6: 453 (1815)",,,,8c17dda4-8fb2-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:241501-1,wfo-0000124913,5387325,,
 ba31305a-1d47-11ec-82c2-f14daa6f2d93,variety,taraxacoides,Robertia,taraxacoides,,,,,,,,,,,,wfo-0000058333,,,
 6e44b756-8fb3-11eb-924d-9cd76263cbd0,variety,taurina,Robertia,taraxacoides,Pamp.,0,1948,,"R. Pampanini, in Rendiconti Seminario Fac. Sci. Univ. Cagliari 16. 1948 138 1948",,,,,,,wfo-0000048157,6082633,,
-06cb12ec-8fb2-11eb-924d-9cd76263cbd0,species,tenuiflora,Robertia,,Boiss.,0,1849,,"Diagn. Pl. Orient. 11: 35 (1849)",,,,,,urn:lsid:ipni.org:names:241502-1,wfo-0000005846,5387344,,
+06cb12ec-8fb2-11eb-924d-9cd76263cbd0,species,tenuiflora,Robertia,,Boiss.,0,1849,,"Diagn. Pl. Orient. 11: 35 (1849)",,,Q5804986,,,urn:lsid:ipni.org:names:241502-1,wfo-0000005846,5387344,,
 ae138352-8fcd-11eb-924d-9cd76263cbd0,species,robertianum,Robertiella,,"(L.) Hanks",0,1907,,"N. Amer. Fl. 25: 3 (1907)",,,,0125d5f0-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:221519-2,wfo-0001039328,2890671,,

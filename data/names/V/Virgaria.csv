@@ -1,12 +1,12 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 ebf3fbd0-8fd1-11eb-924d-9cd76263cbd0,genus,Virgaria,,,"Raf. ex DC.",0,1816,,"Prodr. 5: 243 (1836)",,,Q2712448,ebf3fbd0-8fd1-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:11492-1,wfo-4000040325,8113219,10408," "
-95d62f52-9bac-11eb-a8a2-19ed5c03f8d3,species,atrofumosa,Virgaria,,"(Cooke & Ellis) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 281 (1886)",,,,cdad1d64-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206942," "
+95d62f52-9bac-11eb-a8a2-19ed5c03f8d3,species,atrofumosa,Virgaria,,"(Cooke & Ellis) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 281 (1886)",,,Q104670548,cdad1d64-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206942," "
 95f14a8a-9bac-11eb-a8a2-19ed5c03f8d3,species,bonordenii,Virgaria,,Sacc.,0,,,,,,,95f14a8a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,207106," "
 95c495ee-9bac-11eb-a8a2-19ed5c03f8d3,species,cardiospora,Virgaria,,Bres.,,1896,,"Hedwigia 35: 301 (1896)",,,,95c495ee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206818," "
 b1745760-9bad-11eb-a8a2-19ed5c03f8d3,species,coffeospora,Virgaria,,Sacc.,0,,,,,,,b1745760-9bad-11eb-a8a2-19ed5c03f8d3,,,,,207000," "
 96b8fe44-8fb4-11eb-924d-9cd76263cbd0,species,concolor,Virgaria,,"Raf. ex DC.",0,1836,,"Prodr. 5: 243 (1836)",,,Q2712448,,,urn:lsid:ipni.org:names:260017-1,wfo-0000067210,7396700,,
-95dbf8f6-9bac-11eb-a8a2-19ed5c03f8d3,species,deflexa,Virgaria,,"(Preuss) Sacc.",0,1892,,"Syll. fung. (Abellini) 10: 580 (1892)",,,,784febee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206991," "
-9a383c0c-9bac-11eb-a8a2-19ed5c03f8d3,species,fusca,Virgaria,,"(Cooke) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 281 (1886)",,,,cc1a715e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213530," "
+95dbf8f6-9bac-11eb-a8a2-19ed5c03f8d3,species,deflexa,Virgaria,,"(Preuss) Sacc.",0,1892,,"Syll. fung. (Abellini) 10: 580 (1892)",,,Q104670548,784febee-9bac-11eb-a8a2-19ed5c03f8d3,,,,,206991," "
+9a383c0c-9bac-11eb-a8a2-19ed5c03f8d3,species,fusca,Virgaria,,"(Cooke) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 281 (1886)",,,Q104670548,cc1a715e-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213530," "
 9a52daf8-9bac-11eb-a8a2-19ed5c03f8d3,species,fuscopurpurea,Virgaria,,"Berk. & M.A. Curtis",0,1875,,"in Berkeley, Grevillea 3(no. 28): 145 (1875)",,,,9a52daf8-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213699," "
 9a3983f0-9bac-11eb-a8a2-19ed5c03f8d3,species,globigera,Virgaria,,"Sacc. & Ellis",0,1882,,"Michelia 2(no. 8): 578 (1882)",,,,9a3983f0-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213545," "
 46fcb9dc-9bac-11eb-a8a2-19ed5c03f8d3,species,hydnicola,Virgaria,,Peck,0,1889,,"Ann. Rep. N.Y. St. Mus. nat. Hist. 42: 32 (1889)",,,,46fcb9dc-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213860," "
@@ -16,5 +16,5 @@ ad3c96d0-9bad-11eb-a8a2-19ed5c03f8d3,species,lignatilis,Virgaria,,"(Schwein.) S.
 9a41b3e0-9bac-11eb-a8a2-19ed5c03f8d3,species,nigra,Virgaria,,"(Link) Nees",0,1817,,"Nat. Arr. Brit. Pl. (London) 1: 553 (1817)",,,,83ee9e5a-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213598," "
 9a630612-9bac-11eb-a8a2-19ed5c03f8d3,species,olivacea,Virgaria,,"Ellis & Everh.",0,1883,,"Bull. Torrey bot. Club 10: 97 (1883)",,,Q13548538,9a630612-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213777," "
 9a31d416-9bac-11eb-a8a2-19ed5c03f8d3,species,salebrosa,Virgaria,,"(Preuss) Sacc.",0,,,,,,,81e3ae84-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213497," "
-fc09ad5e-9bab-11eb-a8a2-19ed5c03f8d3,species,setiformis,Virgaria,,"(Wallr.) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 282 (1886)",,,,7ac220f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213666," "
+fc09ad5e-9bab-11eb-a8a2-19ed5c03f8d3,species,setiformis,Virgaria,,"(Wallr.) Sacc.",0,1886,,"Syll. fung. (Abellini) 4: 282 (1886)",,,Q104670548,7ac220f4-9bac-11eb-a8a2-19ed5c03f8d3,,,,,213666," "
 aec51b6c-9bad-11eb-a8a2-19ed5c03f8d3,species,uniseptata,Virgaria,,"Berk. & M.A. Curtis",0,1875,,"in Berkeley, Grevillea 3(no. 28): 145 (1875)",,,,aec51b6c-9bad-11eb-a8a2-19ed5c03f8d3,,,,,203615," "

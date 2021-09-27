@@ -1,10 +1,10 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 9e0ef8e8-1d4d-11ec-82c2-f14daa6f2d93,genus,Diphystema,,,Neck.,,1790,,"Elem. Bot. 1: 382 (1790)",,,,,,urn:lsid:ipni.org:names:41256-1,wfo-4000045006,,,
-22f3cc0a-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Dipidax,,Baker,0,1879,,"J. Linn. Soc., Bot. 17: 447 (1879)",,Q55760193,,,,urn:lsid:ipni.org:names:534017-1,wfo-0000765502,2740187,,
+22f3cc0a-8fcd-11eb-924d-9cd76263cbd0,species,ciliata,Dipidax,,Baker,0,1879,,"J. Linn. Soc., Bot. 17: 447 (1879)",,Q55760193,Q5946734,,,urn:lsid:ipni.org:names:534017-1,wfo-0000765502,2740187,,
 25d42d20-8fcd-11eb-924d-9cd76263cbd0,variety,bergii,Dipidax,ciliata,"(Schltdl.) T.Durand & Schinz",0,1894,,"Consp. Fl. Afric. 5: 414 1894",,,,,,,wfo-0000771384,2740211,,
 268c7272-8fcd-11eb-924d-9cd76263cbd0,form,blanda,Dipidax,ciliata,"(Sol. ex Baker) T.Durand & Schinz",0,1894,,"Consp. Fl. Afric. 5: 415 1894",,,,,,,wfo-0000772981,2740206,,
 268c8e60-8fcd-11eb-924d-9cd76263cbd0,form,caerulea,Dipidax,ciliata,"(Eckl. ex Schult. & Schult.f.) T.Durand & Schinz",0,1894,,"Consp. Fl. Afric. 5: 415 1894",,,,,,,wfo-0000772982,2740191,,
-25d4ba56-8fcd-11eb-924d-9cd76263cbd0,variety,garnotiana,Dipidax,ciliata,"(Kunth) Baker",0,1879,,"J. Linn. Soc., Bot. 17: 447 1879",,,,,,,wfo-0000771389,2740205,,
+25d4ba56-8fcd-11eb-924d-9cd76263cbd0,variety,garnotiana,Dipidax,ciliata,"(Kunth) Baker",0,1879,,"J. Linn. Soc., Bot. 17: 447 1879",,,Q5946734,,,,wfo-0000771389,2740205,,
 268cc952-8fcd-11eb-924d-9cd76263cbd0,form,gracile,Dipidax,ciliata,"(Desr.) T.Durand & Schinz",0,1894,,"Consp. Fl. Afric. 5: 415 1894",,,,fcf5484e-8fcc-11eb-924d-9cd76263cbd0,,,wfo-0000772984,2740208,,
 25d44a58-8fcd-11eb-924d-9cd76263cbd0,variety,gracilis,Dipidax,ciliata,"(Desr.) Baker",0,1897,,"Fl. Cap. 6: 524 1897",,,Q15293701,,,,wfo-0000771385,2740197,,
 268ce7d4-8fcd-11eb-924d-9cd76263cbd0,form,lurida,Dipidax,ciliata,"T.Durand & Schinz",0,1894,,"Consp. Fl. Afric. 5: 415 1894",,,,,,,wfo-0000772985,2740193,,
@@ -16,4 +16,4 @@ id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citatio
 22f3e87a-8fcd-11eb-924d-9cd76263cbd0,species,marginata,Dipidax,,"(Schltdl.) Buxb.",0,1936,,"Bot. Arch. 38: 238 (1936)",,,,25d4a070-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:534018-1,wfo-0000765503,2740215,,
 22f402e2-8fcd-11eb-924d-9cd76263cbd0,species,punctata,Dipidax,,"(Mill.) Hutch.",0,1946,,"Botanist S. Afr. : 91 (1946)",,,,,,urn:lsid:ipni.org:names:534019-1,wfo-0000765504,2740204,,
 25d4d6b2-8fcd-11eb-924d-9cd76263cbd0,species,rosea,Dipidax,,Salisb.,0,1812,,"Trans. Hort. Soc. London 1: 330 (1812)",,,,,,urn:lsid:ipni.org:names:534020-1,wfo-0000771390,2740166,,
-22f41f02-8fcd-11eb-924d-9cd76263cbd0,species,triquetra,Dipidax,,Baker,0,1879,,"J. Linn. Soc., Bot. 17: 447 (1879)",,Q55760193,,da53229c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:534021-1,wfo-0000765505,2740160,,
+22f41f02-8fcd-11eb-924d-9cd76263cbd0,species,triquetra,Dipidax,,Baker,0,1879,,"J. Linn. Soc., Bot. 17: 447 (1879)",,Q55760193,Q5946734,da53229c-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:534021-1,wfo-0000765505,2740160,,

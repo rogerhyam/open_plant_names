@@ -1,7 +1,7 @@
 id,rank,name,genus,species,authors,author_ids,year,status,citation_micro,citation_full,citation_id,publication_id,basionym_id,type_id,ipni_id,wfo_id,gbif_id,indexfungorum_id,note
 e13ddb20-8fd1-11eb-924d-9cd76263cbd0,genus,Carpolobia,,,G.Don,0,1831,,"Gen. Hist. 1: 370 (1831)",,,,,,urn:lsid:ipni.org:names:32328-1,wfo-4000006802,7293303,,
 adc8b04e-8fd1-11eb-924d-9cd76263cbd0,species,afzeliana,Carpolobia,,Oliv.,0,1868,,"Fl. Trop. Afr. [Oliver et al.] 1: 136. 1868 [Oct 1868]",,,Q3700392,,,urn:lsid:ipni.org:names:690158-1,wfo-0001220543,4049548,,
-bf9cbea0-8fcc-11eb-924d-9cd76263cbd0,species,afzeliana,Carpolobia,,"Oliv. ex Chodat",0,1896,,"Nat. Pflanzenfam. 3(4): 343 1896",,,,,,,wfo-0000588337,8018846,,
+bf9cbea0-8fcc-11eb-924d-9cd76263cbd0,species,afzeliana,Carpolobia,,"Oliv. ex Chodat",0,1896,,"Nat. Pflanzenfam. 3(4): 343 1896",,,Q14931236,,,,wfo-0000588337,8018846,,
 bf9cdcb4-8fcc-11eb-924d-9cd76263cbd0,species,alba,Carpolobia,,G.Don,0,1831,,"Gen. Hist. 1: 370 (1831)",,,,,,urn:lsid:ipni.org:names:690159-1,wfo-0000588338,4049539,,
 bf9cf906-8fcc-11eb-924d-9cd76263cbd0,variety,parvifolia,Carpolobia,alba,Oliv.,0,1868,,"Fl. Trop. Afr. 1: 136 1868",,,Q3700392,,,,wfo-0000588339,8281050,,
 bf9d1382-8fcc-11eb-924d-9cd76263cbd0,variety,zanguebarica,Carpolobia,alba,Chodat,0,1897,,"Bull. Herb. Boissier 5: 118 1897",,,Q2378336,,,,wfo-0000588340,7734303,,
@@ -20,7 +20,7 @@ bf9eba20-8fcc-11eb-924d-9cd76263cbd0,species,parvifolia,Carpolobia,,"(Oliv.) Sta
 bf9edf82-8fcc-11eb-924d-9cd76263cbd0,species,suaveolens,Carpolobia,,Meikle,0,1950,,"Kew Bull. 5: 337 (1950 publ. 1951)",,Q54635556,,,,urn:lsid:ipni.org:names:690170-1,wfo-0000588351,4049456,,
 50f508b2-8fc8-11eb-924d-9cd76263cbd0,species,versicolor,Carpolobia,,G.Don,0,1831,,"Gen. Hist. 1: 370. 1831 [early Aug 1831]",,,,,,,wfo-0000207294,2954175,,
 c96e0c30-8fcd-11eb-924d-9cd76263cbd0,species,versicolor,Carpolobia,,G.Don,0,1831,,"Gen. Hist. 1: 370 (1831)",,,,,,urn:lsid:ipni.org:names:690171-1,wfo-0001100725,7659901,,
-bf9efbb6-8fcc-11eb-924d-9cd76263cbd0,species,zenkeri,Carpolobia,,"Gürke ex Stapf",0,1904,,"J. Linn. Soc., Bot. 37: 86 (1905)",,Q55760440,,,,urn:lsid:ipni.org:names:690172-1,wfo-0000588352,4049444,,
+bf9efbb6-8fcc-11eb-924d-9cd76263cbd0,species,zenkeri,Carpolobia,,"Gürke ex Stapf",0,1904,,"J. Linn. Soc., Bot. 37: 86 (1905)",,Q55760440,Q5946734,,,urn:lsid:ipni.org:names:690172-1,wfo-0000588352,4049444,,
 21b68d1e-8fcd-11eb-924d-9cd76263cbd0,species,spiralis,Carpolyza,,Salisb.,0,1807,,"Parad. Lond. 1: t. 63 (1807)",,,,200f78ea-8fcd-11eb-924d-9cd76263cbd0,,urn:lsid:ipni.org:names:63572-1,wfo-0000763067,2859738,,
 21b6c298-8fcd-11eb-924d-9cd76263cbd0,species,stellaris,Carpolyza,,Heynh.,0,1846,,"Alph. Aufz. Gew. : 122 (1846)",,,,,,urn:lsid:ipni.org:names:63573-1,wfo-0000763068,2859369,,
 21b6ec00-8fcd-11eb-924d-9cd76263cbd0,species,tenella,Carpolyza,,"(L.f.) F.M.Leight.",0,1948,,"J. S. African Bot. 14: 81 (1948)",,,,,,urn:lsid:ipni.org:names:63574-1,wfo-0000763069,2859755,,
